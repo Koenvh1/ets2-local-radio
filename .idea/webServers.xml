@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="099f5dba-b3ed-4862-9069-6e2ffe9dd571" name="skins" url="http://localhost:25555">
+        <fileTransfer port="0" mountedRoot="B:\Koen\Documents\Simracing\ets2-telemetry-server-3.2.4\server\Html\skins" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

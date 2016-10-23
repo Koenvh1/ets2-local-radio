@@ -1,0 +1,105 @@
+﻿<div class="dashboard game-connected">
+    <audio id="player" src="about:blank" autoplay></audio>
+    <audio id="whitenoise" src="/skins/local-radio/content/whitestatic.mp3" loop></audio>
+    <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">Local radio</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="javascript:window.history.back();">Back</a></li>
+                    <li><a href="javascript:connect()">Connect to other device</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="#" onclick="setRadioStation('', 'none', 0)">Stop playback</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Radio stations: <span class="nearestCountry"></span></h1><span class="label label-success visible-md visible-lg" style="float: right; font-size: 100%">This device: <span class="peer-id"></span></span>
+                <div class="alert alert-warning statusMessage"></div>
+                <div class="alert alert-info remote">This player is being controlled remotely</div>
+                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank">Submit a new station</a></p>
+            </div>
+            <div id="stationsList">
+                <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                    <!--a class="thumbnail" href="#">
+                        <div class="well text-center">Loading...</div>
+                    </a-->
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+
+            </div>
+        </div>
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Made by <a href="http://koenvh.nl">Koenvh</a> | Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> points away | Amount of static: <span class="whitenoise-volume"></span> | PeerID: <span class="peer-id"></span> </p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+</div>
+
+<script>
+    var id = null;
+    var peer = null;
+    var conn = null;
+    var controlRemote = false;
+    $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
+        id = Math.floor(Math.random()*90000) + 10000;
+        peer = new Peer(id, {key: 'damhc79361fhto6r'});
+        $(".peer-id").html(id);
+
+        peer.on('connection', function (conn) {
+            conn.on('data', function (data) {
+                console.log(data);
+                if(data == "CONNECT"){
+                    console.log("Someone started controlling this player remotely");
+                    $(".remote").show();
+                }
+                if (data.substring(0, 1) == "{") {
+                    var obj = JSON.parse(data);
+                    setRadioStation(obj.url, obj.country, obj.volume);
+                }
+            });
+        });
+    });
+    function connect() {
+        var peerID = prompt("What's the peer ID?");
+        if (peerID != null) {
+            conn = peer.connect(peerID);
+            conn.on('open', function () {
+                conn.send("CONNECT");
+                console.log("Successfully connected");
+                controlRemote = true;
+                document.getElementById("player").pause();
+                alert("Successfully connected!");
+            });
+        }
+    }
+</script>

@@ -1,0 +1,27 @@
+{
+    "comments": [
+        "==============================",
+        "          SETTINGS            ",
+        "==============================",
+
+        "            map: What mapmod you're using (Choose one of the JS files)",
+        "       stations: What stations file to use",
+        "         radius: What the radius in SCS coordinates is for a city to be in range",
+        "     whitenoise: Play static when a station is far away",
+        "    volumeDelta: Tone down the volume by this amount (0.2 = 20%) [Planned feature]"
+    ],
+
+    "config": {
+        "name": "local-radio",
+        "title": "Local radio for ETS2",
+        "author": "Koenvh",        
+        "width": -1,
+        "height": -1,
+        "map": "cities-promods-rusmap.js",
+        "stations": "stations-europe.js",
+        "radius": 7700,
+        "whitenoise": true,
+        "volumeDelta": "0.2"
+    }
+
+}
