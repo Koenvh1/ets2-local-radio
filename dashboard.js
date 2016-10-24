@@ -5,6 +5,8 @@ var g_countries = {};
 //current country for that radio:
 var g_current_country;
 
+var g_last_nearest_country = "";
+
 Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, utils) {
     //
     // skinConfig - a copy of the skin configuration from config.json
@@ -108,20 +110,22 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
         $(".nearestCity").html(cityLowestDistance);
         $(".distance").html(utils.formatFloat(lowestDistance, 1));
 
+        if(!availableCountries.hasOwnProperty(g_current_country) ||
+            (availableCountries[countryLowestDistance]["distance"] + g_skinConfig.treshold < availableCountries[g_current_country]["distance"] &&
+            g_last_nearest_country != countryLowestDistance)) {
+            g_last_nearest_country = countryLowestDistance;
+            setRadioStation(stations[countryLowestDistance][0]["url"], countryLowestDistance, availableCountries[countryLowestDistance]["whitenoise"]);
+        }
 
-        //if(availableCountries.length > 0) {
+        if(Object.keys(availableCountries).sort().toString() != Object.keys(g_countries).sort().toString()) {
             g_countries = availableCountries;
-
-            if(!availableCountries.hasOwnProperty(g_current_country) || availableCountries[countryLowestDistance]["distance"] + g_skinConfig.treshold < availableCountries[g_current_country]["distance"]) {
-                setRadioStation(stations[countryLowestDistance][0]["url"], countryLowestDistance, availableCountries[countryLowestDistance]["whitenoise"]);
-            }
 
             var content = "";
             for (var key in availableCountries) {
                 if (!availableCountries.hasOwnProperty(key)) continue;
                 if (key == "none") continue;
                 if ($.isEmptyObject(stations[key])) continue;
-                console.log(key);
+                //console.log(key);
                 for (var j = 0; j < stations[key].length; j++) {
                     var volume = availableCountries[key]["whitenoise"];
                     //$("#stationsList").append('<a class="list-group-item" onclick="setRadioStation(\'' + stations[countryLowestDistance][j]['url'] + '\')">' + stations[countryLowestDistance][j]['name'] + '</a>');
@@ -140,9 +144,9 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
             }
             $("#stationsList").html(content);
 
-        //} else {
-        //    setWhitenoise(1);
-        //}
+        } else {
+            setWhitenoise(availableCountries[g_current_country]["whitenoise"]);
+        }
     }
 };
 

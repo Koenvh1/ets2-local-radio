@@ -21,7 +21,7 @@
         "map": "cities-promods-rusmap.js",
         "stations": "stations-europe.js",
         "radius": 7700,
-        "treshold": 1000,
+        "treshold": 300,
         "whitenoise": true,
         "volumeDelta": "0.2"
     }
