@@ -12,5 +12,9 @@ It automatically switches when you are too far away from a station, and it can o
 3. Put the skin in ets2-telemetry-server's skins folder
 4. Select it and have fun
 
+## Screenshots: ##
+![Screenshot](http://i.imgur.com/1FOLMj5.png)
+_Screenshot near Białystok_
 
-![Screenshot](http://i.imgur.com/V0CtUkK.jpg)
+![Screenshot](http://i.imgur.com/KiFPfeP.png)
+_Screenshot near Suwałki_

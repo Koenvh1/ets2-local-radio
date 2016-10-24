@@ -32,23 +32,20 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Radio stations: <span class="nearestCountry"></span></h1><span class="label label-success visible-md visible-lg" style="float: right; font-size: 100%">This device: <span class="peer-id"></span></span>
+                <h1 class="page-header">Radio stations: <span class="nearestCountry"></span></h1>
+                <div class="alert alert-info update">An update is available! <a class="btn btn-xs btn-primary" href="https://github.com/Koenvh1/ets2-local-radio/releases">Update now</a> </div>
                 <div class="alert alert-warning statusMessage"></div>
-                <div class="alert alert-info remote">This player is being controlled remotely</div>
-                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank">Submit a new station</a></p>
+                <div class="alert alert-success remote">This player is being controlled remotely</div>
+                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank">Submit a new station</a><span class="label label-success visible-md visible-lg" style="float: right; font-size: 100%">This device: <span class="peer-id"></span></span></p>
             </div>
+        </div>
+        <div class="row">
             <div id="stationsList">
                 <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                     <!--a class="thumbnail" href="#">
                         <div class="well text-center">Loading...</div>
                     </a-->
                 </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-12">
-
             </div>
         </div>
         <hr>
@@ -70,25 +67,7 @@
     var peer = null;
     var conn = null;
     var controlRemote = false;
-    $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
-        id = Math.floor(Math.random()*90000) + 10000;
-        peer = new Peer(id, {key: 'damhc79361fhto6r'});
-        $(".peer-id").html(id);
 
-        peer.on('connection', function (conn) {
-            conn.on('data', function (data) {
-                console.log(data);
-                if(data == "CONNECT"){
-                    console.log("Someone started controlling this player remotely");
-                    $(".remote").show();
-                }
-                if (data.substring(0, 1) == "{") {
-                    var obj = JSON.parse(data);
-                    setRadioStation(obj.url, obj.country, obj.volume);
-                }
-            });
-        });
-    });
     function connect() {
         var peerID = prompt("What's the peer ID?");
         if (peerID != null) {

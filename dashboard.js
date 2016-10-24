@@ -1,10 +1,12 @@
-﻿//skinConfig global:
+﻿//current version:
+var version = "0.0.3";
+//skinConfig global:
 var g_skinConfig;
 //countries near you global:
 var g_countries = {};
 //current country for that radio:
 var g_current_country;
-
+//nearest country:
 var g_last_nearest_country = "";
 
 Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, utils) {
@@ -21,6 +23,31 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
     $.getScript("/skins/" + skinConfig.name + "/cities/" + skinConfig.map);
     $.getScript("/skins/" + skinConfig.name + "/stations/" + skinConfig.stations);
     $.getScript("/skins/" + skinConfig.name + "/bootstrap.js");
+    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
+        if(data.version != version){
+            $(".update").show();
+        }
+    });
+    $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
+        id = Math.floor(Math.random()*90000) + 10000;
+        peer = new Peer(id, {key: g_skinConfig.peerJSkey});
+        $(".peer-id").html(id);
+
+        peer.on('connection', function (conn) {
+            conn.on('data', function (data) {
+                console.log(data);
+                if(data == "CONNECT"){
+                    console.log("Someone started controlling this player remotely");
+                    $(".remote").show();
+                }
+                if (data.substring(0, 1) == "{") {
+                    var obj = JSON.parse(data);
+                    setRadioStation(obj.url, obj.country, obj.volume);
+                }
+            });
+        });
+    });
+
 
     // return to menu by a click
     $(document).add('body').on('click', function () {
@@ -69,6 +96,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     // data - same data object as in the filter function
     // utils - an object containing several utility functions (see skin tutorial for more information)
     //
+
     var countryLowestDistance = "nothing";
     var cityLowestDistance = "nothing";
     var lowestDistance = 999999999999999999;
@@ -135,7 +163,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                         ' \'' + volume + '\')">' +
                         '<a class="thumbnail" href="#">' +
                         '<div class="well-sm text-center"><div style="height: 70px; width: 100%"><img style="width: auto; height: auto; max-height: 70px; max-width: 100%" src="' + stations[key][j]['logo'] + '"></div><br>' +
-                        '<h3>' + stations[key][j]['name'] + '</h3>' +
+                        '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
                         key.toUpperCase() +
                         '</div>' +
                         '</a>' +
@@ -169,10 +197,11 @@ function setWhitenoise(volume) {
     if(g_skinConfig.whitenoise) {
         var newVolume =  Math.pow(volume, 2) - 0.1;
         if(newVolume < 0) newVolume = 0;
+        var playerVolume = 1;
         if(newVolume > 0.5){
-            var playerVolume = document.getElementById("player").volume + parseFloat(((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2);
+            playerVolume = document.getElementById("player").volume + parseFloat(((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2);
             if(playerVolume > 1) playerVolume = 1;
-            if(playerVolume < 0.2) playerVolume = 0.2;
+            if(playerVolume < 0.1) playerVolume = 0.1;
             document.getElementById("player").volume = playerVolume;
         } else {
             document.getElementById("player").volume = 1;
