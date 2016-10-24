@@ -1,7 +1,7 @@
 ﻿//skinConfig global:
 var g_skinConfig;
 //countries near you global:
-var g_countries = [];
+var g_countries = {};
 //current country for that radio:
 var g_current_country;
 
@@ -70,8 +70,13 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     var countryLowestDistance = "nothing";
     var cityLowestDistance = "nothing";
     var lowestDistance = 999999999999999999;
-    var availableCountries = [];
-    var whitenoise = {none: 0};
+    var availableCountries = {
+        none: {
+            country: "none",
+            distance: 9999999999999999,
+            whitenoise: 0
+        }
+    };
 
     var location = data.truck.placement;
     if(!(location.x == 0.0 && location.y == 0.0 && location.z == 0.0)){
@@ -85,56 +90,59 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                 //$("#lowestDistance").html(countryLowestDistance);
             }
             if(distance < g_skinConfig.radius) {
-                if(availableCountries.indexOf(cities[i]["country"]) === -1) {
-                    availableCountries.push(cities[i]["country"]);
-                    whitenoise[cities[i]["country"]] = distance / g_skinConfig.radius;
+                if(!availableCountries.hasOwnProperty(cities[i]["country"])) {
+                    availableCountries[cities[i]["country"]] = {
+                        country: cities[i]["country"],
+                        distance: distance,
+                        whitenoise: distance / g_skinConfig.radius
+                    }
                 } else {
-                    if(whitenoise[cities[i]["country"]] > distance / g_skinConfig.radius){
-                        whitenoise[cities[i]["country"]] = distance / g_skinConfig.radius;
+                    if(availableCountries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius){
+                        availableCountries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius;
+                        availableCountries[cities[i]["country"]]["distance"] = distance;
                     }
                 }
             }
         }
-
-        availableCountries.sort();
 
         $(".nearestCity").html(cityLowestDistance);
         $(".distance").html(utils.formatFloat(lowestDistance, 1));
 
-        if(availableCountries.length > 0) {
-            if (availableCountries.toString() != g_countries.toString()) {
-                console.log("g_countries: " + g_countries + " availableCountries: " + availableCountries);
-                g_countries = availableCountries;
 
-                if (availableCountries.indexOf(g_current_country) === -1) {
-                    setRadioStation(stations[countryLowestDistance][0]["url"], countryLowestDistance, whitenoise[countryLowestDistance]);
-                }
+        //if(availableCountries.length > 0) {
+            g_countries = availableCountries;
 
-                var content = "";
-                for (var country = 0; country < availableCountries.length; country++) {
-                    for (var j = 0; j < stations[availableCountries[country]].length; j++) {
-                        var volume = whitenoise[availableCountries[country]];
-                        //$("#stationsList").append('<a class="list-group-item" onclick="setRadioStation(\'' + stations[countryLowestDistance][j]['url'] + '\')">' + stations[countryLowestDistance][j]['name'] + '</a>');
-                        content +=
-                            '<div class="col-lg-3 col-md-4 col-xs-6 thumb" onclick="setRadioStation(\'' + stations[availableCountries[country]][j]['url'] + '\',' +
-                            ' \'' + availableCountries[country] + '\',' +
-                            ' \'' + volume + '\')">' +
-                            '<a class="thumbnail" href="#">' +
-                            '<div class="well-sm text-center"><div style="height: 70px; width: 100%"><img style="width: auto; height: auto; max-height: 70px; max-width: 100%" src="' + stations[availableCountries[country]][j]['logo'] + '"></div><br>' +
-                            '<h3>' + stations[availableCountries[country]][j]['name'] + '</h3>' +
-                            availableCountries[country].toUpperCase() +
-                            '</div>' +
-                            '</a>' +
-                            '</div>';
-                    }
-                }
-                $("#stationsList").html(content);
-            } else {
-                setWhitenoise(whitenoise[g_current_country]);
+            if(!availableCountries.hasOwnProperty(g_current_country) || availableCountries[countryLowestDistance]["distance"] + g_skinConfig.treshold < availableCountries[g_current_country]["distance"]) {
+                setRadioStation(stations[countryLowestDistance][0]["url"], countryLowestDistance, availableCountries[countryLowestDistance]["whitenoise"]);
             }
-        } else {
-            setWhitenoise(1);
-        }
+
+            var content = "";
+            for (var key in availableCountries) {
+                if (!availableCountries.hasOwnProperty(key)) continue;
+                if (key == "none") continue;
+                if ($.isEmptyObject(stations[key])) continue;
+                console.log(key);
+                for (var j = 0; j < stations[key].length; j++) {
+                    var volume = availableCountries[key]["whitenoise"];
+                    //$("#stationsList").append('<a class="list-group-item" onclick="setRadioStation(\'' + stations[countryLowestDistance][j]['url'] + '\')">' + stations[countryLowestDistance][j]['name'] + '</a>');
+                    content +=
+                        '<div class="col-lg-3 col-md-4 col-xs-6 thumb" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                        ' \'' + key + '\',' +
+                        ' \'' + volume + '\')">' +
+                        '<a class="thumbnail" href="#">' +
+                        '<div class="well-sm text-center"><div style="height: 70px; width: 100%"><img style="width: auto; height: auto; max-height: 70px; max-width: 100%" src="' + stations[key][j]['logo'] + '"></div><br>' +
+                        '<h3>' + stations[key][j]['name'] + '</h3>' +
+                        key.toUpperCase() +
+                        '</div>' +
+                        '</a>' +
+                        '</div>';
+                }
+            }
+            $("#stationsList").html(content);
+
+        //} else {
+        //    setWhitenoise(1);
+        //}
     }
 };
 

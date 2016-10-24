@@ -739,7 +739,7 @@ var cities = [
     {
         "gameName": "groedig",
         "realName": "Grödig",
-        "country": "Austria",
+        "country": "austria",
         "x": "8008.66",
         "y": "103.914",
         "z": "16688.1"

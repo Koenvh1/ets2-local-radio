@@ -7,6 +7,7 @@
         "            map: What mapmod you're using (Choose one of the JS files)",
         "       stations: What stations file to use",
         "         radius: What the radius in SCS coordinates is for a city to be in range",
+        "       treshold: What value in SCS coordinates to switch to the new country's radio station",
         "     whitenoise: Play static when a station is far away",
         "    volumeDelta: Tone down the volume by this amount (0.2 = 20%) [Planned feature]"
     ],
@@ -20,6 +21,7 @@
         "map": "cities-promods-rusmap.js",
         "stations": "stations-europe.js",
         "radius": 7700,
+        "treshold": 1000,
         "whitenoise": true,
         "volumeDelta": "0.2"
     }
