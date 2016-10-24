@@ -195,7 +195,7 @@ function setRadioStation(url, country, volume) {
 
 function setWhitenoise(volume) {
     if(g_skinConfig.whitenoise) {
-        var newVolume =  Math.pow(volume, 2) - 0.1;
+        var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;
         var playerVolume = 1;
         if(newVolume > 0.5){
