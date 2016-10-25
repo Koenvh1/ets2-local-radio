@@ -20,27 +20,37 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
 
     g_skinConfig = skinConfig;
 
-    $.getScript("/skins/" + skinConfig.name + "/cities/" + skinConfig.map);
-    $.getScript("/skins/" + skinConfig.name + "/stations/" + skinConfig.stations);
+    //Get bootstrap:
     $.getScript("/skins/" + skinConfig.name + "/bootstrap.js");
+    //Get city locations:
+    $.getScript("/skins/" + skinConfig.name + "/cities/" + skinConfig.map);
+    //Get stations per country:
+    $.getScript("/skins/" + skinConfig.name + "/stations/" + skinConfig.stations);
+
+    //Check updates:
     $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
         if(data.version != version){
             $(".update").show();
         }
     });
+    //Get PeerJS dependencies:
     $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
+        //Set ID for PearJS
         id = Math.floor(Math.random()*90000) + 10000;
         peer = new Peer(id, {key: g_skinConfig.peerJSkey});
         $(".peer-id").html(id);
 
+        //Receive message logic
         peer.on('connection', function (conn) {
             conn.on('data', function (data) {
                 console.log(data);
                 if(data == "CONNECT"){
+                    //Show connected
                     console.log("Someone started controlling this player remotely");
                     $(".remote").show();
                 }
                 if (data.substring(0, 1) == "{") {
+                    //If an object, set radio
                     var obj = JSON.parse(data);
                     setRadioStation(obj.url, obj.country, obj.volume);
                 }
@@ -50,13 +60,9 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
 
 
     // return to menu by a click
-    $(document).add('body').on('click', function () {
+    //$(document).add('body').on('click', function () {
         //window.history.back();
-    });
-
-    $(document).add('div[data-station]').on('click', function () {
-       //setRadioStation($(this).attr("data-station"));
-    });
+    //});
 };
 
 Funbit.Ets.Telemetry.Dashboard.prototype.filter = function (data, utils) {
@@ -103,23 +109,26 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     var availableCountries = {
         none: {
             country: "none",
-            distance: 9999999999999999,
+            distance: 999999999999999999,
             whitenoise: 0
         }
     };
 
     var location = data.truck.placement;
+    //Test whether location is real and not disconnected
     if(!(location.x == 0.0 && location.y == 0.0 && location.z == 0.0)){
-
         for(var i = 0; i < cities.length; i++){
+            //Calculate distance
             var distance = Math.sqrt(Math.pow((location["x"] - cities[i]["x"]), 2) + Math.pow((location["z"] - cities[i]["z"]), 2));
             if(distance < lowestDistance){
+                //Write lowest distance
                 lowestDistance = distance;
                 countryLowestDistance = cities[i]["country"];
                 cityLowestDistance = cities[i]["realName"];
                 //$("#lowestDistance").html(countryLowestDistance);
             }
             if(distance < g_skinConfig.radius) {
+                //Add country to availableCountries
                 if(!availableCountries.hasOwnProperty(cities[i]["country"])) {
                     availableCountries[cities[i]["country"]] = {
                         country: cities[i]["country"],
@@ -127,6 +136,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                         whitenoise: distance / g_skinConfig.radius
                     }
                 } else {
+                    //Set whitenoise if there is a closer city in that country
                     if(availableCountries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius){
                         availableCountries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius;
                         availableCountries[cities[i]["country"]]["distance"] = distance;
@@ -141,11 +151,13 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
         if(!availableCountries.hasOwnProperty(g_current_country) ||
             (availableCountries[countryLowestDistance]["distance"] + g_skinConfig.treshold < availableCountries[g_current_country]["distance"] &&
             g_last_nearest_country != countryLowestDistance)) {
+            //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
             g_last_nearest_country = countryLowestDistance;
             setRadioStation(stations[countryLowestDistance][0]["url"], countryLowestDistance, availableCountries[countryLowestDistance]["whitenoise"]);
         }
 
         if(Object.keys(availableCountries).sort().toString() != Object.keys(g_countries).sort().toString()) {
+            //If they don't contain the same keys (ie. a country update)
             g_countries = availableCountries;
 
             var content = "";
@@ -162,7 +174,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                         ' \'' + key + '\',' +
                         ' \'' + volume + '\')">' +
                         '<a class="thumbnail" href="#">' +
-                        '<div class="well-sm text-center"><div style="height: 70px; width: 100%"><img style="width: auto; height: auto; max-height: 70px; max-width: 100%" src="' + stations[key][j]['logo'] + '"></div><br>' +
+                        '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
                         '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
                         key.toUpperCase() +
                         '</div>' +
@@ -180,12 +192,17 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
 
 function setRadioStation(url, country, volume) {
     if(controlRemote){
+        if(!conn.open){
+            //If connection closed, reconnect
+            conn = peer.connect(connectedPeerID);
+        }
         conn.send(JSON.stringify({
             url: url,
             country: country,
             volume: volume
         }));
     } else {
+        //Set current listening country for when crossing the border
         g_current_country = country;
         document.getElementById("player").src = url;
         //document.getElementById("player").play();
@@ -195,10 +212,12 @@ function setRadioStation(url, country, volume) {
 
 function setWhitenoise(volume) {
     if(g_skinConfig.whitenoise) {
+        //Make new volume work exponentially:
         var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;
         var playerVolume = 1;
         if(newVolume > 0.5){
+            //Create a distorted sound effect, with the sound sometimes dropping (no signal)
             playerVolume = document.getElementById("player").volume + parseFloat(((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2);
             if(playerVolume > 1) playerVolume = 1;
             if(playerVolume < 0.1) playerVolume = 0.1;

@@ -26,7 +26,10 @@
 @import "bootstrap.css";
 
 body {
-    overflow-y: scroll;
+    height: 100%;
+    min-height: 100vh;
+    width: 100%;
+    overflow-y: auto;
 }
 
 .game-connected.yes .statusMessage {
@@ -39,4 +42,28 @@ body {
 
 .update {
     display: none;
+}
+
+.label-id {
+    float: right;
+    font-size: 100%;
+}
+
+.station-image-container {
+    height: 70px;
+    width: 100%;
+}
+
+.station-image-container > img {
+    width: auto;
+    height: auto;
+    max-height: 70px;
+    max-width: 100%;
+}
+
+.number-input {
+    padding: 0;
+    font-size: 25px;
+    width: 100% !important;
+    text-align: center;
 }

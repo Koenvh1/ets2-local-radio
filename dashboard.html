@@ -17,7 +17,7 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="javascript:window.history.back();">Back</a></li>
-                    <li><a href="javascript:connect()">Connect to other device</a></li>
+                    <li><a href="javascript:void(0)" data-toggle="modal" data-target="#connectModal">Connect to other device</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="#" onclick="setRadioStation('', 'none', 0)">Stop playback</a></li>
@@ -36,7 +36,7 @@
                 <div class="alert alert-info update">An update is available! <a class="btn btn-xs btn-primary" href="https://github.com/Koenvh1/ets2-local-radio/releases">Update now</a> </div>
                 <div class="alert alert-warning statusMessage"></div>
                 <div class="alert alert-success remote">This player is being controlled remotely</div>
-                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank">Submit a new station</a><span class="label label-success visible-md visible-lg" style="float: right; font-size: 100%">This device: <span class="peer-id"></span></span></p>
+                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank">Submit a new station</a><span class="label label-success label-id">This device: <span class="peer-id"></span></span></p>
             </div>
         </div>
         <div class="row">
@@ -60,25 +60,65 @@
         </footer>
 
     </div>
+
+    <div class="modal fade" id="connectModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">Enter the device ID:</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="form-inline">
+                        <input type="tel" pattern="[0-9]*" class="form-control number-input" maxlength="5" name="connectText" id="connectText">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-block btn-success" data-dismiss="modal" onclick="connect($('#connectText').val());">Connect</button>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <script>
     var id = null;
     var peer = null;
     var conn = null;
+    var connectedPeerID = null;
     var controlRemote = false;
 
-    function connect() {
+    function connectPrompt() {
         var peerID = prompt("What's the peer ID?");
         if (peerID != null) {
-            conn = peer.connect(peerID);
-            conn.on('open', function () {
-                conn.send("CONNECT");
-                console.log("Successfully connected");
-                controlRemote = true;
-                document.getElementById("player").pause();
-                alert("Successfully connected!");
-            });
+            connect(peerID);
         }
     }
+
+    function connect(peerID) {
+        conn = peer.connect(peerID);
+        conn.on('open', function () {
+            conn.send("CONNECT");
+            console.log("Successfully connected");
+            controlRemote = true;
+            connectedPeerID = peerID;
+            document.getElementById("player").pause();
+            alert("Successfully connected");
+        });
+        conn.on('error', function (err) {
+           alert("Something went wrong while connecting: \n" + err);
+        });
+    }
+
+    $('#connectModal').on('shown.bs.modal', function (e) {
+        $("#connectText").val("");
+        $("#connectText").focus();
+    });
+
+    $('#connectText').keypress(function (e) {
+        if (e.which == 13) {
+            connect($("#connectText").val());
+            $("#connectModal").modal("hide");
+        }
+    });
 </script>
