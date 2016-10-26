@@ -1,9 +1,111 @@
+var country_properties = {
+    "andorra": {
+        relative_radius: 0.5,
+    },
+    "austria": {
+        relative_radius: 1,
+    },
+    "belarus": {
+        relative_radius: 1,
+    },
+    "belgium": {
+        relative_radius: 1,
+    },
+    "bulgaria": {
+        relative_radius: 1,
+    },
+    "czech": {
+        relative_radius: 1,
+    },
+    "denmark": {
+        relative_radius: 1,
+    },
+    "estonia": {
+        relative_radius: 1,
+    },
+    "faroe": {
+        relative_radius: 1,
+    },
+    "finland": {
+        relative_radius: 1,
+    },
+    "france": {
+        relative_radius: 1.2,
+    },
+    "germany": {
+        relative_radius: 1,
+    },
+    "hungary": {
+        relative_radius: 1,
+    },
+    "iceland": {
+        relative_radius: 1,
+    },
+    "iom": {
+        relative_radius: 1,
+    },
+    "italy": {
+        relative_radius: 1,
+    },
+    "latvia": {
+        relative_radius: 1,
+    },
+    "liecht": {
+        relative_radius: 0.5,
+    },
+    "lithuania": {
+        relative_radius: 1,
+    },
+    "luxembourg": {
+        relative_radius: 0.5,
+    },
+    "moldova": {
+        relative_radius: 1,
+    },
+    "netherlands": {
+        relative_radius: 1,
+    },
+    "norway": {
+        relative_radius: 1,
+    },
+    "poland": {
+        relative_radius: 1,
+    },
+    "romania": {
+        relative_radius: 1,
+    },
+    "russia": {
+        relative_radius: 1.1,
+    },
+    "slovakia": {
+        relative_radius: 1,
+    },
+    "slovenia": {
+        relative_radius: 1,
+    },
+    "spain": {
+        relative_radius: 1,
+    },
+    "sweden": {
+        relative_radius: 1,
+    },
+    "switzerland": {
+        relative_radius: 1,
+    },
+    "uk": {
+        relative_radius: 1,
+    },
+    "ukraine": {
+        relative_radius: 1,
+    },
+}
+
 var stations = {
     "andorra": [
         {
             name: "RAC 1 89.0 FM",
             logo: "http://www.rac1.cat/rsc/images/logo.jpg?v=35683",
-            url: "http://streaming3.radiocat.net:80/;"
+            url: "http://streaming3.radiocat.net:80/;",
         },
         {
             name: "RAC 105 FM Andorra",

@@ -1,13 +1,15 @@
 ﻿//current version:
-var version = "0.0.3";
+var version = "0.0.4";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
 var g_countries = {};
 //current country for that radio:
-var g_current_country;
+var g_current_country = null;
 //nearest country:
 var g_last_nearest_country = "";
+//whitenoise active:
+var g_whitenoise = false;
 
 Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, utils) {
     //
@@ -58,6 +60,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
         });
     });
 
+    g_whitenoise = skinConfig.whitenoise;
 
     // return to menu by a click
     //$(document).add('body').on('click', function () {
@@ -103,10 +106,10 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     // utils - an object containing several utility functions (see skin tutorial for more information)
     //
 
-    var countryLowestDistance = "nothing";
-    var cityLowestDistance = "nothing";
-    var lowestDistance = 999999999999999999;
-    var availableCountries = {
+    var country_lowest_distance = "nothing";
+    var city_lowest_distance = "nothing";
+    var lowest_distance = 999999999999999999;
+    var available_countries = {
         none: {
             country: "none",
             distance: 999999999999999999,
@@ -118,57 +121,70 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     //Test whether location is real and not disconnected
     if(!(location.x == 0.0 && location.y == 0.0 && location.z == 0.0)){
         for(var i = 0; i < cities.length; i++){
+            //Fix uppercase issues (*cough* SCS):
+            cities[i]["country"] = cities[i]["country"].toLowerCase();
             //Calculate distance
             var distance = Math.sqrt(Math.pow((location["x"] - cities[i]["x"]), 2) + Math.pow((location["z"] - cities[i]["z"]), 2));
-            if(distance < lowestDistance){
+            if(distance < lowest_distance){
                 //Write lowest distance
-                lowestDistance = distance;
-                countryLowestDistance = cities[i]["country"];
-                cityLowestDistance = cities[i]["realName"];
-                //$("#lowestDistance").html(countryLowestDistance);
+                lowest_distance = distance;
+                country_lowest_distance = cities[i]["country"];
+                city_lowest_distance = cities[i]["realName"];
+                //$("#lowest_distance").html(country_lowest_distance);
             }
-            if(distance < g_skinConfig.radius) {
-                //Add country to availableCountries
-                if(!availableCountries.hasOwnProperty(cities[i]["country"])) {
-                    availableCountries[cities[i]["country"]] = {
+            if(distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"]) {
+                //Add country to available_countries
+                if(!available_countries.hasOwnProperty(cities[i]["country"])) {
+                    available_countries[cities[i]["country"]] = {
                         country: cities[i]["country"],
                         distance: distance,
-                        whitenoise: distance / g_skinConfig.radius
+                        whitenoise: distance / g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"]
                     }
                 } else {
                     //Set whitenoise if there is a closer city in that country
-                    if(availableCountries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius){
-                        availableCountries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius;
-                        availableCountries[cities[i]["country"]]["distance"] = distance;
+                    if(available_countries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"]){
+                        available_countries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"];
+                        available_countries[cities[i]["country"]]["distance"] = distance;
                     }
                 }
             }
         }
 
-        $(".nearestCity").html(cityLowestDistance);
-        $(".distance").html(utils.formatFloat(lowestDistance, 1));
+        $(".nearestCity").html(city_lowest_distance);
+        $(".distance").html(utils.formatFloat(lowest_distance, 1));
 
-        if(!availableCountries.hasOwnProperty(g_current_country) ||
-            (availableCountries[countryLowestDistance]["distance"] + g_skinConfig.treshold < availableCountries[g_current_country]["distance"] &&
-            g_last_nearest_country != countryLowestDistance)) {
+        if(!available_countries.hasOwnProperty(g_current_country) ||
+            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold < available_countries[g_current_country]["distance"] &&
+            g_last_nearest_country != country_lowest_distance)) {
             //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
-            g_last_nearest_country = countryLowestDistance;
-            setRadioStation(stations[countryLowestDistance][0]["url"], countryLowestDistance, availableCountries[countryLowestDistance]["whitenoise"]);
+            g_last_nearest_country = country_lowest_distance;
+            /*
+            setRadioStation(document.getElementById("player").src, country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+
+            g_whitenoise = false;
+            $("#player").animate({volume: 0}, 2000, function() {
+
+                $("#player").animate({volume: 1}, 2000, function () {
+                    g_whitenoise = true;
+                });
+            });
+            */
+            setRadioStation(stations[country_lowest_distance][0]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
         }
 
-        if(Object.keys(availableCountries).sort().toString() != Object.keys(g_countries).sort().toString()) {
+        if(Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
             //If they don't contain the same keys (ie. a country update)
-            g_countries = availableCountries;
+            g_countries = available_countries;
 
             var content = "";
-            for (var key in availableCountries) {
-                if (!availableCountries.hasOwnProperty(key)) continue;
+            for (var key in available_countries) {
+                if (!available_countries.hasOwnProperty(key)) continue;
                 if (key == "none") continue;
                 if ($.isEmptyObject(stations[key])) continue;
                 //console.log(key);
                 for (var j = 0; j < stations[key].length; j++) {
-                    var volume = availableCountries[key]["whitenoise"];
-                    //$("#stationsList").append('<a class="list-group-item" onclick="setRadioStation(\'' + stations[countryLowestDistance][j]['url'] + '\')">' + stations[countryLowestDistance][j]['name'] + '</a>');
+                    var volume = available_countries[key]["whitenoise"];
+                    //$("#stationsList").append('<a class="list-group-item" onclick="setRadioStation(\'' + stations[country_lowest_distance][j]['url'] + '\')">' + stations[country_lowest_distance][j]['name'] + '</a>');
                     content +=
                         '<div class="col-lg-3 col-md-4 col-xs-6 thumb" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                         ' \'' + key + '\',' +
@@ -185,12 +201,14 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
             $("#stationsList").html(content);
 
         } else {
-            setWhitenoise(availableCountries[g_current_country]["whitenoise"]);
+            setWhitenoise(available_countries[g_current_country]["whitenoise"]);
         }
     }
 };
 
 function setRadioStation(url, country, volume) {
+    //Set current listening country for when crossing the border
+    g_current_country = country;
     if(controlRemote){
         if(!conn.open){
             //If connection closed, reconnect
@@ -202,16 +220,21 @@ function setRadioStation(url, country, volume) {
             volume: volume
         }));
     } else {
-        //Set current listening country for when crossing the border
-        g_current_country = country;
-        document.getElementById("player").src = url;
+        g_whitenoise = false;
+        $("#player").animate({volume: 0}, 750, function() {
+            document.getElementById("player").src = url;
+            $("#player").animate({volume: 1}, 750, function () {
+                g_whitenoise = g_skinConfig.whitenoise;
+            });
+        });
+
         //document.getElementById("player").play();
         setWhitenoise(volume);
     }
 }
 
 function setWhitenoise(volume) {
-    if(g_skinConfig.whitenoise) {
+    if(g_whitenoise) {
         //Make new volume work exponentially:
         var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;

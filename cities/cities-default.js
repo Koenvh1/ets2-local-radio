@@ -675,7 +675,7 @@ var cities = [
     {
         "gameName": "pecs",
         "realName": "Pécs",
-        "country": "Hungary",
+        "country": "hungary",
         "x": "29039.9",
         "y": "74.6836",
         "z": "26311.6"

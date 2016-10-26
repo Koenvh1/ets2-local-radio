@@ -20,7 +20,7 @@
         "height": -1,
         "map": "cities-promods-rusmap.js",
         "stations": "stations-europe.js",
-        "radius": 7700,
+        "radius": 7500,
         "treshold": 300,
         "whitenoise": true,
         "peerJSkey": "damhc79361fhto6r"
