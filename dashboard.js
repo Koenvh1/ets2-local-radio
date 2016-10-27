@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.0.4";
+var version = "0.0.5";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -126,17 +126,23 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                     available_countries[cities[i]["country"]] = {
                         country: cities[i]["country"],
                         distance: distance,
-                        whitenoise: distance / g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"]
+                        whitenoise: distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"]
                     }
                 } else {
                     //Set whitenoise if there is a closer city in that country
-                    if(available_countries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"]){
-                        available_countries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"];
+                    if(available_countries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"]){
+                        available_countries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"];
                         available_countries[cities[i]["country"]]["distance"] = distance;
                     }
                 }
             }
         }
+
+        available_countries[country_lowest_distance] = {
+            country: country_lowest_distance,
+            distance: lowest_distance,
+            whitenoise: lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"]
+        };
 
         $(".nearestCity").html(city_lowest_distance);
         $(".distance").html(utils.formatFloat(lowest_distance, 1));
@@ -202,6 +208,7 @@ function setWhitenoise(volume) {
         //Make new volume work exponentially:
         var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;
+        if(newVolume > 1) newVolume = 1;
         var playerVolume = 1;
         if(newVolume > 0.5){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
@@ -251,6 +258,7 @@ function refreshStations() {
             var volume = g_countries[key]["whitenoise"];
             //Check whether the station distance can reached here:
             if(typeof stations[key][j]["relative_radius"] === "undefined" || g_countries[key]["distance"] / stations[key][j]["relative_radius"] < g_skinConfig.radius) {
+                //TODO: Stop playback when station is out of reach
                 content +=
                     '<div class="col-lg-3 col-md-4 col-xs-6 thumb">' +
                     '<a class="thumbnail" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +

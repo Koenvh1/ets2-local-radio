@@ -1,6 +1,6 @@
 var country_properties = {
     "andorra": {
-        relative_radius: 0.1,
+        relative_radius: 0.2,
     },
     "austria": {
         relative_radius: 1,
@@ -72,7 +72,7 @@ var country_properties = {
         relative_radius: 1,
     },
     "liecht": {
-        relative_radius: 0.1,
+        relative_radius: 0.2,
     },
     "lithuania": {
         relative_radius: 1,

@@ -70,6 +70,6 @@ body {
 
 .top-right {
     position: absolute;
-    top: 1px;
-    right: 16px;
+    top: 0;
+    right: 15px;
 }
