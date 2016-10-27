@@ -1,6 +1,6 @@
 var country_properties = {
     "andorra": {
-        relative_radius: 0.5,
+        relative_radius: 0.1,
     },
     "austria": {
         relative_radius: 1,
@@ -8,10 +8,22 @@ var country_properties = {
     "belarus": {
         relative_radius: 1,
     },
-    "belgium": {
+    "belgium-nl": {
+        relative_radius: 1,
+    },
+    "belgium-fr": {
+        relative_radius: 1,
+    },
+    "bosnia": {
         relative_radius: 1,
     },
     "bulgaria": {
+        relative_radius: 1,
+    },
+    "croatia": {
+        relative_radius: 1,
+    },
+    "cyprus": {
         relative_radius: 1,
     },
     "czech": {
@@ -35,6 +47,9 @@ var country_properties = {
     "germany": {
         relative_radius: 1,
     },
+    "greece": {
+        relative_radius: 1,
+    },
     "hungary": {
         relative_radius: 1,
     },
@@ -44,14 +59,20 @@ var country_properties = {
     "iom": {
         relative_radius: 1,
     },
+    "ireland": {
+        relative_radius: 1,
+    },
     "italy": {
         relative_radius: 1,
+    },
+    "jersey": {
+        relative_radius: 0.1,
     },
     "latvia": {
         relative_radius: 1,
     },
     "liecht": {
-        relative_radius: 0.5,
+        relative_radius: 0.1,
     },
     "lithuania": {
         relative_radius: 1,
@@ -59,16 +80,25 @@ var country_properties = {
     "luxembourg": {
         relative_radius: 0.5,
     },
+    "macedonia": {
+        relative_radius: 1,
+    },
     "moldova": {
         relative_radius: 1,
     },
     "netherlands": {
         relative_radius: 1,
     },
+    "nireland": {
+        relative_radius: 1,
+    },
     "norway": {
         relative_radius: 1,
     },
     "poland": {
+        relative_radius: 0.8,
+    },
+    "portugal": {
         relative_radius: 1,
     },
     "romania": {
@@ -76,6 +106,9 @@ var country_properties = {
     },
     "russia": {
         relative_radius: 1.1,
+    },
+    "serbia": {
+        relative_radius: 1,
     },
     "slovakia": {
         relative_radius: 1,
@@ -89,7 +122,13 @@ var country_properties = {
     "sweden": {
         relative_radius: 1,
     },
-    "switzerland": {
+    "switzerland-de": {
+        relative_radius: 1,
+    },
+    "switzerland-fr": {
+        relative_radius: 1,
+    },
+    "turkey": {
         relative_radius: 1,
     },
     "uk": {
@@ -98,7 +137,7 @@ var country_properties = {
     "ukraine": {
         relative_radius: 1,
     },
-}
+};
 
 var stations = {
     "andorra": [
@@ -133,12 +172,14 @@ var stations = {
             url: "http://37.59.18.212:8000/;"
         }
     ],
-    "belgium": [
+    "belgium-nl": [
         {
             name: "VRT Radio 1",
             logo: "https://www.muntpunt.be/sites/default/files/Activiteiten/logo_radio1_NIEUW_0.gif",
             url: "http://mp3.streampower.be/radio1-high"
         },
+    ],
+    "belgium-fr": [
         {
             name: "RTBF La Première",
             logo: "https://ssl-www.static.rtbf.be/radio/radio/images/logo/header/lapremiere.png",
@@ -275,7 +316,12 @@ var stations = {
             name: "Radio 2",
             logo: "https://www.mp3streams.nl/images/zenderlogo/radio2.png",
             url: "http://icecast.omroep.nl/radio2-bb-mp3"
-        }
+        },
+        {
+            name: "Radio 538",
+            logo: "http://www.radiodigitaal.nl/channelimages/RADIO_538.png",
+            url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
+        },
     ],
     "norway": [
         {
@@ -343,7 +389,14 @@ var stations = {
             url: "http://http-live.sr.se/p2-mp3-192"
         },
     ],
-    "switzerland": [
+    "switzerland-de": [
+        {
+            name: "Radio SRF 1",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/2000px-Radio_SRF_1.svg.png",
+            url: "http://stream.srg-ssr.ch/m/drs1/mp3_128"
+        },
+    ],
+    "switzerland-fr": [
         {
             name: "Radio SRF 1",
             logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Radio_SRF_1.svg/2000px-Radio_SRF_1.svg.png",
@@ -370,3 +423,6 @@ var stations = {
         },
     ]
 };
+
+stations["belgium"] = stations["belgium-nl"].concat(stations["belgium-fr"]);
+stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerland-fr"]);

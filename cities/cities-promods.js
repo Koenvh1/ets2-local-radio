@@ -75,7 +75,7 @@ var cities = [
     {
         "gameName": "antwerp",
         "realName": "Antwerpen",
-        "country": "belgium",
+        "country": "belgium-nl",
         "x": "-21215.1",
         "y": "82",
         "z": "-5293.52"
@@ -155,7 +155,7 @@ var cities = [
     {
         "gameName": "basel",
         "realName": "Basel",
-        "country": "switzerland",
+        "country": "switzerland-de",
         "x": "-11649.5",
         "y": "107.949",
         "z": "17001.7"
@@ -195,7 +195,7 @@ var cities = [
     {
         "gameName": "bern",
         "realName": "Bern",
-        "country": "switzerland",
+        "country": "switzerland-de",
         "x": "-12730.8",
         "y": "101.68",
         "z": "20130.1"
@@ -323,7 +323,7 @@ var cities = [
     {
         "gameName": "brussel",
         "realName": "Brussel",
-        "country": "belgium",
+        "country": "belgium-fr",
         "x": "-21853.1",
         "y": "99.3594",
         "z": "-2960.22"
@@ -683,7 +683,7 @@ var cities = [
     {
         "gameName": "geneve",
         "realName": "Genève",
-        "country": "switzerland",
+        "country": "switzerland-fr",
         "x": "-18099.1",
         "y": "101.68",
         "z": "23717"
@@ -1227,7 +1227,7 @@ var cities = [
     {
         "gameName": "liege",
         "realName": "Liège",
-        "country": "belgium",
+        "country": "belgium-fr",
         "x": "-17181.5",
         "y": "108.012",
         "z": "-1231.25"
@@ -2443,7 +2443,7 @@ var cities = [
     {
         "gameName": "zurich",
         "realName": "Zürich",
-        "country": "switzerland",
+        "country": "switzerland-de",
         "x": "-8473.81",
         "y": "101.953",
         "z": "17968.5"

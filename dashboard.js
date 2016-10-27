@@ -45,22 +45,29 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
         //Receive message logic
         peer.on('connection', function (conn) {
             conn.on('data', function (data) {
+                var response = JSON.parse(data);
                 console.log(data);
-                if(data == "CONNECT"){
+                if(response.type == "connect"){
                     //Show connected
                     console.log("Someone started controlling this player remotely");
                     $(".remote").show();
                 }
-                if (data.substring(0, 1) == "{") {
-                    //If an object, set radio
-                    var obj = JSON.parse(data);
-                    setRadioStation(obj.url, obj.country, obj.volume);
+                if(response.type == "station"){
+                    setRadioStation(response.url, response.country, response.volume);
+                }
+                if(response.type == "favourite"){
+                    setFavouriteStation(response.country, response.name);
                 }
             });
         });
     });
 
     g_whitenoise = skinConfig.whitenoise;
+
+    //Refresh stations every 10 seconds:
+    setInterval(function () {
+        refreshStations();
+    }, 10000);
 
     // return to menu by a click
     //$(document).add('body').on('click', function () {
@@ -77,25 +84,6 @@ Funbit.Ets.Telemetry.Dashboard.prototype.filter = function (data, utils) {
     // This filter is used to change telemetry data 
     // before it is displayed on the dashboard.
     // You may convert km/h to mph, kilograms to tons, etc.
-
-    // round truck speed
-    data.truck.speedRounded = Math.abs(data.truck.speed > 0
-        ? Math.floor(data.truck.speed)
-        : Math.round(data.truck.speed));
-
-    // other examples:
-
-    // convert kilometers per hour to miles per hour
-    data.truck.speedMph = data.truck.speed * 0.621371;
-    // convert kg to t
-    data.trailer.mass = (data.trailer.mass / 1000.0) + 't';
-    // format odometer data as: 00000.0
-    data.truck.odometer = utils.formatFloat(data.truck.odometer, 1);
-    // convert gear to readable format
-    data.truck.gear = data.truck.gear > 0 ? 'D' + data.truck.gear : (data.truck.gear < 0 ? 'R' : 'N');
-    // convert rpm to rpm * 100
-    data.truck.engineRpm = data.truck.engineRpm / 100;
-    // return changed data to the core for rendering
 	
     return data;
 };
@@ -158,50 +146,25 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
             g_last_nearest_country != country_lowest_distance)) {
             //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
             g_last_nearest_country = country_lowest_distance;
-            /*
-            setRadioStation(document.getElementById("player").src, country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
 
-            g_whitenoise = false;
-            $("#player").animate({volume: 0}, 2000, function() {
-
-                $("#player").animate({volume: 1}, 2000, function () {
-                    g_whitenoise = true;
-                });
-            });
-            */
-            setRadioStation(stations[country_lowest_distance][0]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+            //Check if there is a favourite station:
+            var index = 0;
+            if(localStorage.getItem("fav-" + country_lowest_distance) !== null) {
+                 index = stations[country_lowest_distance].map(function (e) {
+                    return e.name;
+                }).indexOf(localStorage.getItem("fav-" + country_lowest_distance));
+            }
+            setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
         }
 
         if(Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
             //If they don't contain the same keys (ie. a country update)
             g_countries = available_countries;
 
-            var content = "";
-            for (var key in available_countries) {
-                if (!available_countries.hasOwnProperty(key)) continue;
-                if (key == "none") continue;
-                if ($.isEmptyObject(stations[key])) continue;
-                //console.log(key);
-                for (var j = 0; j < stations[key].length; j++) {
-                    var volume = available_countries[key]["whitenoise"];
-                    //$("#stationsList").append('<a class="list-group-item" onclick="setRadioStation(\'' + stations[country_lowest_distance][j]['url'] + '\')">' + stations[country_lowest_distance][j]['name'] + '</a>');
-                    content +=
-                        '<div class="col-lg-3 col-md-4 col-xs-6 thumb" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
-                        ' \'' + key + '\',' +
-                        ' \'' + volume + '\')">' +
-                        '<a class="thumbnail" href="#">' +
-                        '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
-                        '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
-                        key.toUpperCase() +
-                        '</div>' +
-                        '</a>' +
-                        '</div>';
-                }
-            }
-            $("#stationsList").html(content);
-
+            refreshStations();
         } else {
             setWhitenoise(available_countries[g_current_country]["whitenoise"]);
+            g_countries = available_countries;
         }
     }
 };
@@ -215,6 +178,7 @@ function setRadioStation(url, country, volume) {
             conn = peer.connect(connectedPeerID);
         }
         conn.send(JSON.stringify({
+            type: "station",
             url: url,
             country: country,
             volume: volume
@@ -254,4 +218,53 @@ function setWhitenoise(volume) {
     } else {
         document.getElementById("whitenoise").pause();
     }
+}
+
+function setFavouriteStation(country, name) {
+    if(controlRemote){
+        if(!conn.open){
+            //If connection closed, reconnect
+            conn = peer.connect(connectedPeerID);
+        }
+        conn.send(JSON.stringify({
+            type: "favourite",
+            country: country,
+            name: name
+        }));
+    } else {
+        localStorage.setItem("fav-" + country, name);
+        alert("Favourite for " + country.toUpperCase() + " is now " + name);
+    }
+}
+
+function refreshStations() {
+    var content = "";
+    for (var key in g_countries) {
+        //Check whether country should be checked:
+        if (!g_countries.hasOwnProperty(key)) continue;
+        if (key == "none") continue;
+        if ($.isEmptyObject(stations[key])) continue;
+        //console.log(key);
+
+        for (var j = 0; j < stations[key].length; j++) {
+            //Determine volume:
+            var volume = g_countries[key]["whitenoise"];
+            //Check whether the station distance can reached here:
+            if(typeof stations[key][j]["relative_radius"] === "undefined" || g_countries[key]["distance"] / stations[key][j]["relative_radius"] < g_skinConfig.radius) {
+                content +=
+                    '<div class="col-lg-3 col-md-4 col-xs-6 thumb">' +
+                    '<a class="thumbnail" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                    ' \'' + key + '\',' +
+                    ' \'' + volume + '\')">' +
+                    '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
+                    '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
+                    key.toUpperCase() +
+                    '</div>' +
+                    '</a>' +
+                    '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Favourite</button> ' +
+                    '</div>';
+            }
+        }
+    }
+    $("#stationsList").html(content);
 }

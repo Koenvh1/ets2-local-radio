@@ -67,3 +67,9 @@ body {
     width: 100% !important;
     text-align: center;
 }
+
+.top-right {
+    position: absolute;
+    top: 1px;
+    right: 16px;
+}

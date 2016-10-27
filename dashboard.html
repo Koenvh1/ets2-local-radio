@@ -98,7 +98,9 @@
     function connect(peerID) {
         conn = peer.connect(peerID);
         conn.on('open', function () {
-            conn.send("CONNECT");
+            conn.send(JSON.stringify({
+                type: "connect"
+            }));
             console.log("Successfully connected");
             controlRemote = true;
             connectedPeerID = peerID;
