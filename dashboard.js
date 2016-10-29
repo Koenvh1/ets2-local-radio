@@ -182,6 +182,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
 
 function setRadioStation(url, country, volume) {
     //Set current listening country for when crossing the border
+
     g_current_country = country;
     if(controlRemote){
         if(!conn.open){
@@ -207,6 +208,7 @@ function setRadioStation(url, country, volume) {
                 });
             } else {
                 document.getElementById("player").src = url;
+                document.getElementById("player").play();
             }
             $("#player").animate({volume: 1}, 750, function () {
                 g_whitenoise = g_skinConfig.whitenoise;
@@ -223,16 +225,16 @@ function setWhitenoise(volume) {
         //Make new volume work exponentially:
         var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;
-        if(newVolume > 1) newVolume = 1;
-        var playerVolume = 1;
+        if(newVolume > (1 - g_skinConfig.deltaVolume)) newVolume = 1 - g_skinConfig.deltaVolume;
+        var playerVolume = 1 - g_skinConfig.deltaVolume;
         if(newVolume > 0.5){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
             playerVolume = document.getElementById("player").volume + parseFloat(((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2);
-            if(playerVolume > 1) playerVolume = 1;
+            if(playerVolume > (1 - g_skinConfig.deltaVolume)) playerVolume = 1 - g_skinConfig.deltaVolume;
             if(playerVolume < 0.1) playerVolume = 0.1;
             document.getElementById("player").volume = playerVolume;
         } else {
-            document.getElementById("player").volume = 1;
+            document.getElementById("player").volume = 1 - g_skinConfig.deltaVolume;
         }
         $(".whitenoise-volume").html(newVolume + "; " + playerVolume);
         document.getElementById("whitenoise").volume = parseFloat(newVolume);
@@ -275,7 +277,7 @@ function refreshStations() {
             if(typeof stations[key][j]["relative_radius"] === "undefined" || g_countries[key]["distance"] / stations[key][j]["relative_radius"] < g_skinConfig.radius) {
                 //TODO: Stop playback when station is out of reach
                 content +=
-                    '<div class="col-lg-3 col-md-4 col-xs-6 thumb">' +
+                    '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
                     '<a class="thumbnail" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\')">' +

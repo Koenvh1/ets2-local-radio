@@ -52,6 +52,7 @@ body {
 .station-image-container {
     height: 70px;
     width: 100%;
+    vertical-align: middle;
 }
 
 .station-image-container > img {
@@ -72,4 +73,9 @@ body {
     position: absolute;
     top: 0;
     right: 15px;
+}
+.station-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }

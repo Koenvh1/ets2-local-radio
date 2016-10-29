@@ -9,7 +9,8 @@
         "         radius: What the radius in SCS coordinates is for a city to be in range",
         "       treshold: What value in SCS coordinates to switch to the new country's radio station",
         "     whitenoise: Play static when a station is far away",
-        "      peerJSkey: The key for WebRTC pairing (the remote control). Key can be obtained for free by registering at http://peerjs.com "
+        "      peerJSkey: The key for WebRTC pairing (the remote control). Key can be obtained for free by registering at http://peerjs.com",
+        "    deltaVolume: Decrease the volume by this amount (0.2 = 20%) "
     ],
 
     "config": {
@@ -23,7 +24,8 @@
         "radius": 7500,
         "treshold": 300,
         "whitenoise": true,
-        "peerJSkey": "damhc79361fhto6r"
+        "peerJSkey": "damhc79361fhto6r",
+        "deltaVolume": 0.2
     }
 
 }

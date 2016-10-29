@@ -2,7 +2,7 @@
     <audio id="player" src="about:blank" autoplay></audio>
     <audio id="whitenoise" src="/skins/local-radio/content/whitestatic.mp3" loop></audio>
     <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
-        <div class="container">
+        <div class="col-xs-12">
             <!-- Brand and toggle get grouped for better mobile display -->
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Toggle navigation</span>
@@ -20,6 +20,7 @@
                     <li><a href="javascript:void(0)" data-toggle="modal" data-target="#connectModal">Connect to other device</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
+                    <!--li class="disabled"><a>Currently playing: <span class="current-station"></span></a></li-->
                     <li><a href="#" onclick="setRadioStation('', 'none', 0)">Stop playback</a></li>
                 </ul>
             </div>
@@ -29,10 +30,9 @@
     </nav>
 
     <!-- Page Content -->
-    <div class="container">
+    <div class="col-xs-12">
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Radio stations: <span class="nearestCountry"></span></h1>
                 <div class="alert alert-info update">An update is available! <a class="btn btn-xs btn-primary" href="https://github.com/Koenvh1/ets2-local-radio/releases">Update now</a> </div>
                 <div class="alert alert-warning statusMessage"></div>
                 <div class="alert alert-success remote">This player is being controlled remotely</div>

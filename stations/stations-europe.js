@@ -275,11 +275,6 @@ var stations = {
             url: "http://icecast3.play.cz:80/evropa2-128.mp3"
         },
         {
-            name: "Evropa 2",
-            logo: "https://img.static.lagardere.cz/evropa2/logo-evropa2.png",
-            url: "http://icecast3.play.cz:80/evropa2-128.mp3"
-        },
-        {
             name: "Frekvence 1",
             logo: "https://i.lagardere.cz/frekvence1/u/logo-f1-new.png",
             url: "http://icecast4.play.cz:80/frekvence1-128.mp3"
@@ -684,15 +679,20 @@ var stations = {
             logo: "http://3.bp.blogspot.com/-qB5zX9ejtwI/UTxbPSbxlMI/AAAAAAAABkM/i-qyq3Xnn_E/s1600/radio-moldova-tineret.jpg",
             url: "http://radiolive.trm.md:8000/RM-tineret-128"
         },
+        {
+            name: "Kiss FM",
+            logo: "http://kissfm.md.md/img/kissfm-logo-300.png",
+            url: "http://89.28.66.205:8000/;"
+        },
     ],
     "netherlands": [
         {
-            name: "Radio 1",
+            name: "NPO Radio 1",
             logo: "https://www.mp3streams.nl/images/zenderlogo/radio1.png",
             url: "http://icecast.omroep.nl/radio1-bb-mp3"
         },
         {
-            name: "Radio 2",
+            name: "NPO Radio 2",
             logo: "https://www.mp3streams.nl/images/zenderlogo/radio2.png",
             url: "http://icecast.omroep.nl/radio2-bb-mp3"
         },
@@ -813,12 +813,12 @@ var stations = {
         },
         {
             name: "Rádio Devin",
-            logo: "https://www.radia.sk/_radia/loga/nadpis/devin.png?1458809153",
+            logo: "https://www.rtvs.sk/media/images/radiostations/radio_devin.png",
             url: "http://live.slovakradio.sk:8000/Devin_256.mp3"
         },
         {
             name: "Rádio_FM",
-            logo: "https://thumbnailer.mixcloud.com/unsafe/600x600/profile/c/0/e/0/5bf7-bc8c-4b84-89f5-03ebf6d05daf.jpg",
+            logo: "https://www.rtvs.sk/media/images/radiostations/radio_fm.png",
             url: "http://live.slovakradio.sk:8000/FM_256.mp3"
         },
         {
