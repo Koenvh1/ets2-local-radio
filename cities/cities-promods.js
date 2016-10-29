@@ -323,6 +323,14 @@ var cities = [
     {
         "gameName": "brussel",
         "realName": "Brussel",
+        "country": "belgium-nl",
+        "x": "-21853.1",
+        "y": "99.3594",
+        "z": "-2960.22"
+    },
+    {
+        "gameName": "brussel",
+        "realName": "Brussel",
         "country": "belgium-fr",
         "x": "-21853.1",
         "y": "99.3594",

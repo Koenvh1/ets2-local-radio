@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.0.5";
+var version = "0.0.6";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -10,6 +10,8 @@ var g_current_country = null;
 var g_last_nearest_country = "";
 //whitenoise active:
 var g_whitenoise = false;
+
+var g_hls;
 
 Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, utils) {
     //
@@ -24,6 +26,9 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
 
     //Get bootstrap:
     $.getScript("/skins/" + skinConfig.name + "/bootstrap.js");
+    $.getScript("https://cdn.jsdelivr.net/hls.js/latest/hls.js", function () {
+        g_hls = new Hls();
+    });
     //Get city locations:
     $.getScript("/skins/" + skinConfig.name + "/cities/" + skinConfig.map);
     //Get stations per country:
@@ -192,7 +197,17 @@ function setRadioStation(url, country, volume) {
     } else {
         g_whitenoise = false;
         $("#player").animate({volume: 0}, 750, function() {
-            document.getElementById("player").src = url;
+            //Detach previous HLS if it is there
+            g_hls.detachMedia();
+            if(url.endsWith("m3u8")){
+                //If HLS, continue here
+                g_hls.attachMedia(document.getElementById("player"));
+                g_hls.on(Hls.Events.MEDIA_ATTACHED, function () {
+                    g_hls.loadSource(url);
+                });
+            } else {
+                document.getElementById("player").src = url;
+            }
             $("#player").animate({volume: 1}, 750, function () {
                 g_whitenoise = g_skinConfig.whitenoise;
             });
