@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.0.6";
+var version = "0.0.7";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:

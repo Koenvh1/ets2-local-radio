@@ -99,7 +99,7 @@ var cities = [
     {
         "gameName": "aurach",
         "realName": "Aurach",
-        "country": "germany",
+        "country": "germany-br",
         "x": "-441.102",
         "y": "103.75",
         "z": "8251.44"
@@ -115,7 +115,7 @@ var cities = [
     {
         "gameName": "bado",
         "realName": "Bad Oeynhausen",
-        "country": "germany",
+        "country": "germany-wdr",
         "x": "-5724.91",
         "y": "99.8438",
         "z": "-9493.73"
@@ -187,7 +187,7 @@ var cities = [
     {
         "gameName": "berlin",
         "realName": "Berlin",
-        "country": "germany",
+        "country": "germany-rbb",
         "x": "10343",
         "y": "79.8828",
         "z": "-9903.56"
@@ -196,6 +196,14 @@ var cities = [
         "gameName": "bern",
         "realName": "Bern",
         "country": "switzerland-de",
+        "x": "-12730.8",
+        "y": "101.68",
+        "z": "20130.1"
+    },
+    {
+        "gameName": "bern",
+        "realName": "Bern",
+        "country": "switzerland-fr",
         "x": "-12730.8",
         "y": "101.68",
         "z": "20130.1"
@@ -283,7 +291,7 @@ var cities = [
     {
         "gameName": "bremen",
         "realName": "Bremen",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "-4919.98",
         "y": "75.2969",
         "z": "-14099.2"
@@ -291,7 +299,7 @@ var cities = [
     {
         "gameName": "bremerhaven",
         "realName": "Bremerhaven",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "-5715.6",
         "y": "85.1641",
         "z": "-16976.6"
@@ -355,7 +363,7 @@ var cities = [
     {
         "gameName": "burg",
         "realName": "Burg a. Fehmarn",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "4095.55",
         "y": "55.3281",
         "z": "-21142.2"
@@ -507,7 +515,7 @@ var cities = [
     {
         "gameName": "dortmund",
         "realName": "Dortmund",
-        "country": "germany",
+        "country": "germany-wdr",
         "x": "-10270.5",
         "y": "110",
         "z": "-5598.41"
@@ -531,7 +539,7 @@ var cities = [
     {
         "gameName": "dresden",
         "realName": "Dresden",
-        "country": "germany",
+        "country": "germany-br",
         "x": "12411.8",
         "y": "101.914",
         "z": "-1606.27"
@@ -539,7 +547,7 @@ var cities = [
     {
         "gameName": "duisburg",
         "realName": "Duisburg",
-        "country": "germany",
+        "country": "germany-wdr",
         "x": "-12913.6",
         "y": "50",
         "z": "-6170.93"
@@ -547,7 +555,7 @@ var cities = [
     {
         "gameName": "dusseldorf",
         "realName": "Düsseldorf",
-        "country": "germany",
+        "country": "germany-wdr",
         "x": "-13377.2",
         "y": "97.9297",
         "z": "-4399.6"
@@ -571,7 +579,7 @@ var cities = [
     {
         "gameName": "erfurt",
         "realName": "Erfurt",
-        "country": "germany",
+        "country": "germany-mdr",
         "x": "2436.19",
         "y": "101.914",
         "z": "-1733.77"
@@ -619,7 +627,7 @@ var cities = [
     {
         "gameName": "flensburg",
         "realName": "Flensburg",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "-780.336",
         "y": "50.293",
         "z": "-22997.3"
@@ -627,7 +635,7 @@ var cities = [
     {
         "gameName": "frankfurt",
         "realName": "Frankfurt am Main",
-        "country": "germany",
+        "country": "germany-hr",
         "x": "-6112.34",
         "y": "99.1875",
         "z": "2633.59"
@@ -651,7 +659,7 @@ var cities = [
     {
         "gameName": "furth",
         "realName": "Fürth",
-        "country": "germany",
+        "country": "germany-br",
         "x": "1249.49",
         "y": "129.145",
         "z": "5970.42"
@@ -787,7 +795,7 @@ var cities = [
     {
         "gameName": "halle",
         "realName": "Halle (Saale)",
-        "country": "germany",
+        "country": "germany-mdr",
         "x": "5833.82",
         "y": "84.0977",
         "z": "-5407.88"
@@ -795,7 +803,7 @@ var cities = [
     {
         "gameName": "hamburg",
         "realName": "Hamburg",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "83.6914",
         "y": "45.7227",
         "z": "-16704.2"
@@ -811,7 +819,7 @@ var cities = [
     {
         "gameName": "hannover",
         "realName": "Hannover",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "-1928.93",
         "y": "77.8242",
         "z": "-8916.4"
@@ -835,7 +843,7 @@ var cities = [
     {
         "gameName": "heilbronn",
         "realName": "Heilbronn",
-        "country": "germany",
+        "country": "germany-hr",
         "x": "-6325.54",
         "y": "108.797",
         "z": "8009.55"
@@ -1019,7 +1027,7 @@ var cities = [
     {
         "gameName": "kassel",
         "realName": "Kassel",
-        "country": "germany",
+        "country": "germany-hr",
         "x": "-3031.32",
         "y": "85.293",
         "z": "-3898.7"
@@ -1059,7 +1067,7 @@ var cities = [
     {
         "gameName": "kiel",
         "realName": "Kiel",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "188.074",
         "y": "55.832",
         "z": "-20826.7"
@@ -1131,7 +1139,7 @@ var cities = [
     {
         "gameName": "koln",
         "realName": "Köln",
-        "country": "germany",
+        "country": "germany-wdr",
         "x": "-13150.8",
         "y": "97.9297",
         "z": "-2732.75"
@@ -1227,7 +1235,7 @@ var cities = [
     {
         "gameName": "leipzig",
         "realName": "Leipzig",
-        "country": "germany",
+        "country": "germany-mdr",
         "x": "7238.62",
         "y": "101.914",
         "z": "-3384.61"
@@ -1363,7 +1371,7 @@ var cities = [
     {
         "gameName": "magdeburg",
         "realName": "Magdeburg",
-        "country": "germany",
+        "country": "germany-mdr",
         "x": "4484.25",
         "y": "94.7773",
         "z": "-7752.3"
@@ -1387,7 +1395,7 @@ var cities = [
     {
         "gameName": "mannheim",
         "realName": "Mannheim",
-        "country": "germany",
+        "country": "germany-swr",
         "x": "-7751.22",
         "y": "88",
         "z": "6075.05"
@@ -1467,7 +1475,7 @@ var cities = [
     {
         "gameName": "munchen",
         "realName": "München",
-        "country": "germany",
+        "country": "germany-br",
         "x": "3179.07",
         "y": "83.375",
         "z": "14133"
@@ -1539,7 +1547,7 @@ var cities = [
     {
         "gameName": "nurnberg",
         "realName": "Nürnberg",
-        "country": "germany",
+        "country": "germany-br",
         "x": "1987.47",
         "y": "134.191",
         "z": "6221.02"
@@ -1563,7 +1571,7 @@ var cities = [
     {
         "gameName": "oberhausen",
         "realName": "Oberhausen",
-        "country": "germany",
+        "country": "germany-wdr",
         "x": "-11793.2",
         "y": "93.957",
         "z": "-5322.95"
@@ -1635,7 +1643,7 @@ var cities = [
     {
         "gameName": "osnabruck",
         "realName": "Osnabrück",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "-7456.28",
         "y": "101.297",
         "z": "-9841.73"
@@ -1827,7 +1835,7 @@ var cities = [
     {
         "gameName": "puttgarden",
         "realName": "Puttgarden",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "4001.17",
         "y": "43.8906",
         "z": "-21612.7"
@@ -1907,7 +1915,7 @@ var cities = [
     {
         "gameName": "rostock",
         "realName": "Rostock",
-        "country": "germany",
+        "country": "germany-ndr",
         "x": "6490.95",
         "y": "58.4961",
         "z": "-18588.9"
@@ -2075,7 +2083,7 @@ var cities = [
     {
         "gameName": "stuttgart",
         "realName": "Stuttgart",
-        "country": "germany",
+        "country": "germany-swr",
         "x": "-4957.84",
         "y": "101.973",
         "z": "10047"
@@ -2243,7 +2251,7 @@ var cities = [
     {
         "gameName": "ulm",
         "realName": "Ulm",
-        "country": "germany",
+        "country": "germany-swr",
         "x": "-2928.57",
         "y": "88.75",
         "z": "12657"

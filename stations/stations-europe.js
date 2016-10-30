@@ -8,6 +8,9 @@ var country_properties = {
     "belarus": {
         relative_radius: 1,
     },
+    "belgium": {
+        relative_radius: 1,
+    },
     "belgium-nl": {
         relative_radius: 1,
     },
@@ -45,6 +48,27 @@ var country_properties = {
         relative_radius: 1.05,
     },
     "germany": {
+        relative_radius: 1,
+    },
+    "germany-br": {
+        relative_radius: 1,
+    },
+    "germany-hr": {
+        relative_radius: 1,
+    },
+    "germany-mdr": {
+        relative_radius: 1,
+    },
+    "germany-ndr": {
+        relative_radius: 1,
+    },
+    "germany-rbb": {
+        relative_radius: 1,
+    },
+    "germany-swr": {
+        relative_radius: 1,
+    },
+    "germany-wdr": {
         relative_radius: 1,
     },
     "greece": {
@@ -120,6 +144,9 @@ var country_properties = {
         relative_radius: 1,
     },
     "sweden": {
+        relative_radius: 1,
+    },
+    "switzerland": {
         relative_radius: 1,
     },
     "switzerland-de": {
@@ -472,6 +499,13 @@ var stations = {
             url: "http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m"
         },
         {
+            name: "RTL Radio",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/b/b8/RTL_Radio_104_6.svg",
+            url: "http://stream.104.6rtl.com/rtl-live/mp3-128/www.listenlive.eu:pls-rtl_air/"
+        },
+    ],
+    "germany-br": [
+        {
             name: "Bayern 1",
             logo: "http://www.br.de/ressourcen/bilder/programmfahne_mit_logo/b1-wellenlogo100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d7e13",
             url: "http://br-mp3-bayern1obb-m.akacast.akamaistream.net/7/273/142690/v1/gnl.akacast.akamaistream.net/br_mp3_bayern1obb_m"
@@ -486,6 +520,8 @@ var stations = {
             logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bayern3_logo_2015.svg/2000px-Bayern3_logo_2015.svg.png",
             url: "http://br-mp3-bayern3-m.akacast.akamaistream.net/7/442/142692/v1/gnl.akacast.akamaistream.net/br_mp3_bayern3_m"
         },
+    ],
+    "germany-hr": [
         {
             name: "hr1",
             logo: "https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG",
@@ -497,9 +533,144 @@ var stations = {
             url: "http://hr-mp3-m-h2.akacast.akamaistream.net/7/786/142132/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h2"
         },
         {
-            name: "RTL Radio",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/b/b8/RTL_Radio_104_6.svg",
-            url: "http://stream.104.6rtl.com/rtl-live/mp3-128/www.listenlive.eu:pls-rtl_air/"
+            name: "hr3",
+            logo: "https://lh3.googleusercontent.com/mq8Wc4Ttd0yFxENYvWM7uEbMF9i-ZpUxR7qmWWYE-5X9WWvNGWcNLsey62yyyfcL86sR=w300",
+            url: "http://hr-mp3-m-h3.akacast.akamaistream.net/7/785/142133/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h3"
+        },
+        {
+            name: "hr4",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hr4-Logo_2015.svg",
+            url: "http://hr-mp3-m-h4.akacast.akamaistream.net/7/780/142134/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h4"
+        },
+    ],
+    "germany-mdr": [
+        {
+            name: "MDR 1 Radio Sachsen",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/7/7b/MDR1_Radio_Sachsen.svg",
+            url: "http://c22033-ls.i.core.cdn.streamfarm.net/Ohu6jU56x9922033/22033mdr/live/app2128740352/w2128904197/live_de_128.mp3"
+        },
+        {
+            name: "MDR 1 Radio Sachsen-Anhalt",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/3/36/MDR1_Radio_Sachsen-Anhalt.svg",
+            url: "http://c22033-ls.i.core.cdn.streamfarm.net/Z0nRRFVT49922033/22033mdr/live/app2128740352/w2128904198/live_de_128.mp3"
+        },
+        {
+            name: "MDR 1 Radio Thüringen",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/a/a4/MDR1_Radio_Th%C3%BCringen.svg",
+            url: "http://c22033-ls.i.core.cdn.streamfarm.net/9lBrdAv9G9922033/22033mdr/live/app2128740352/w2128904199/live_de_128.mp3"
+        },
+        {
+            name: "MDR Jump",
+            logo: "http://www.jumpradio.de/resources/jump/site/img/logo_jump.svg",
+            url: "http://c22033-ls.i.core.cdn.streamfarm.net/T3R6XGogC9922033/22033mdr/live/app2128740352/w2128904194/live_de_128.mp3"
+        },
+        {
+            name: "MDR AKTUELL",
+            logo: "http://www.die-vermisstensuche.com/wp-content/uploads/2016/05/bild166686_v-variantBig16x9_w-576_zc-915c23fa.png",
+            url: "http://c22033-ls.i.core.cdn.streamfarm.net/QpZptC4ta9922033/22033mdr/live/app2128740352/w2128904192/live_de_128.mp3"
+        },
+        {
+            name: "MDR Sputnik",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/7/7c/MDR_Sputnik.svg",
+            url: "http://c22033-ls.i.core.cdn.streamfarm.net/UjIe753Ui9922033/22033mdr/live/app2128740352/w2128904195/live_de_128.mp3"
+        },
+    ],
+    "germany-ndr": [
+        {
+            name: "NDR 2",
+            logo: "http://static.radio.net/images/broadcasts/02/33/2262/c175.png",
+            url: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3"
+        },
+        {
+            name: "NDR Info",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/e/ef/NDR_Info_Logo.svg",
+            url: "http://ndr-ndrinfo-nds-mp3.akacast.akamaistream.net/7/250/273753/v1/gnl.akacast.akamaistream.net/ndr_ndrinfo_nds_mp3"
+        },
+        {
+            name: "NDR Kultur",
+            logo: "http://christopherbolte.com/wp-content/uploads/2015/04/ndrkultur.png",
+            url: "http://ndr-ndrkultur-mp3.akacast.akamaistream.net/7/527/273758/v1/gnl.akacast.akamaistream.net/ndr_ndrkultur_mp3"
+        },
+        {
+            name: "N-Joy",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Njoy-logo.svg/2000px-Njoy-logo.svg.png",
+            url: "http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3"
+        },
+    ],
+    "germany-rbb": [
+        {
+            name: "RBB Antenne Brandenburg",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Antennebrandenburg-logo.svg/2000px-Antennebrandenburg-logo.svg.png",
+            url: "http://rbb-mp3-antenneb-m.akacast.akamaistream.net/7/516/292092/v1/gnl.akacast.akamaistream.net/rbb_mp3_antenneb_m"
+        },
+        {
+            name: "RBB Fritz",
+            logo: "https://www.fritz.de/content/dam/rbb/frz/standard/fritz-logo.png.png/img.png",
+            url: "http://rbb-mp3-fritz-m.akacast.akamaistream.net/7/799/292093/v1/gnl.akacast.akamaistream.net/rbb_mp3_fritz_m"
+        },
+        {
+            name: "RBB Radio Eins",
+            logo: "http://presseservice.rbb-online.de/bilder/mediendb/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/logos_sendungen/radioeins_logo_512_288.jpg",
+            url: "http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m"
+        },
+        {
+            name: "RBB Inforadio",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/RBB_Inforadio.svg/2000px-RBB_Inforadio.svg.png",
+            url: "http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m"
+        },
+        {
+            name: "RBB Radio Berlin 88,8",
+            logo: "http://presseservice.rbb-online.de/bilder/mediendb/rbb/img/512x218_bannerbild_top_teaser_2/logos_sendungen/radioBerlin_88_8_Logo_512_218.jpg",
+            url: "http://rbb-mp3-radioberlin-m.akacast.akamaistream.net/7/70/292096/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioberlin_m"
+        },
+    ],
+    "germany-swr": [
+        {
+            name: "SWR2",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/SWR2.svg/2000px-SWR2.svg.png",
+            url: "http://swr-mp3-m-swr2.akacast.akamaistream.net/7/721/137135/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr2"
+        },
+        {
+            name: "SWR3",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/5/50/Swr3-logo.svg",
+            url: "http://swr-mp3-m-swr3.akacast.akamaistream.net/7/720/137136/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr3"
+        },
+        {
+            name: "SWRinfo",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/9/9e/SWRinfo.png",
+            url: "http://swr-mp3-m-info.akacast.akamaistream.net/7/40/137140/v1/gnl.akacast.akamaistream.net/swr-mp3-m-info"
+        },
+        {
+            name: "DASDING",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dasding_2011.png",
+            url: "http://swr-mp3-m-dasding.akacast.akamaistream.net/7/588/137139/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasding"
+        },
+    ],
+    "germany-wdr": [
+        {
+            name: "WDR 1LIVE",
+            logo: "http://www1.wdr.de/resources/img/wdr/logo/epgmodule/1live_logo_claim.svg",
+            url: "http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live"
+        },
+        {
+            name: "WDR 2",
+            logo: "http://www1.wdr.de/radio/startseite/symbolbilder/dummy-logo108~_v-gseagaleriexl.jpg",
+            url: "http://wdr-mp3-m-wdr2-koeln.akacast.akamaistream.net/7/812/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-koeln"
+        },
+        {
+            name: "WDR 3",
+            logo: "http://www1.wdr.de/radio/wdr3/wdr3logo100~_v-gseagaleriexl.jpg",
+            url: "http://wdr-3-320.akacast.akamaistream.net/7/827/119437/v1/gnl.akacast.akamaistream.net/wdr-3-320"
+        },
+        {
+            name: "WDR 4",
+            logo: "http://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr4_logo_claim.svg",
+            url: "http://wdr-4.akacast.akamaistream.net/7/42/119438/v1/gnl.akacast.akamaistream.net/wdr-4"
+        },
+        {
+            name: "WDR 5",
+            logo: "http://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr5_logo_claim.svg",
+            url: "http://wdr-5.akacast.akamaistream.net/7/41/119439/v1/gnl.akacast.akamaistream.net/wdr-5"
         },
     ],
     "hungary": [
@@ -965,3 +1136,5 @@ var stations = {
 
 stations["belgium"] = stations["belgium-nl"].concat(stations["belgium-fr"]);
 stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerland-fr"]);
+stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
+    .concat(stations["germany-ndr"]).concat(stations["germany-rbb"]).concat(stations["germany-swr"]).concat(stations["germany-wdr"]);
