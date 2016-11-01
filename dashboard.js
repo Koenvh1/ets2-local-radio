@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.0.7";
+var version = "0.0.9";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -122,31 +122,49 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                 //Write lowest distance
                 lowest_distance = distance;
                 country_lowest_distance = cities[i]["country"];
-                city_lowest_distance = cities[i]["realName"];
+                city_lowest_distance = cities[i]["gameName"];
                 //$("#lowest_distance").html(country_lowest_distance);
             }
-            if(distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"]) {
+
+            var relative_city_radius = 1;
+            if(typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined"){
+                relative_city_radius = city_properties[cities[i]["gameName"]]["relative_radius"];
+            }
+            if(distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"] * relative_city_radius) {
+                //Calculate distance within radius ( = global radius * country radius * city radius (if exists))
+
+                //Calculate whitenoise
+                var whitenoise = distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"];
+                if(typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined"){
+                    whitenoise = whitenoise / city_properties[cities[i]["gameName"]]["relative_radius"];
+                }
+
                 //Add country to available_countries
                 if(!available_countries.hasOwnProperty(cities[i]["country"])) {
                     available_countries[cities[i]["country"]] = {
                         country: cities[i]["country"],
                         distance: distance,
-                        whitenoise: distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"]
+                        whitenoise: whitenoise
                     }
                 } else {
                     //Set whitenoise if there is a closer city in that country
-                    if(available_countries[cities[i]["country"]]["whitenoise"] > distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"]){
-                        available_countries[cities[i]["country"]]["whitenoise"] = distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"];
+                    if(available_countries[cities[i]["country"]]["whitenoise"] > whitenoise){
+                        available_countries[cities[i]["country"]]["whitenoise"] = whitenoise;
                         available_countries[cities[i]["country"]]["distance"] = distance;
                     }
                 }
             }
         }
 
+        //Calculate whitenoise
+        var whitenoise_lowest_distance = lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"];
+        if(typeof city_properties[city_lowest_distance] !== "undefined" && typeof city_properties[city_lowest_distance]["relative_radius"] !== "undefined"){
+            whitenoise_lowest_distance = whitenoise_lowest_distance / city_properties[city_lowest_distance]["relative_radius"];
+        }
         available_countries[country_lowest_distance] = {
             country: country_lowest_distance,
             distance: lowest_distance,
-            whitenoise: lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"]
+            whitenoise: whitenoise_lowest_distance
         };
 
         $(".nearestCity").html(city_lowest_distance);
@@ -280,7 +298,7 @@ function refreshStations() {
                     '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
                     '<a class="thumbnail" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
-                    ' \'' + volume + '\')">' +
+                    ' \'' + volume + '\'); document.getElementById(\'player\').play();">' +
                     '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
                     '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
                     key.toUpperCase() +

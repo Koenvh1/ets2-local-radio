@@ -36,7 +36,7 @@ var country_properties = {
         relative_radius: 1,
     },
     "estonia": {
-        relative_radius: 1,
+        relative_radius: 0.65,
     },
     "faroe": {
         relative_radius: 1,
@@ -93,13 +93,13 @@ var country_properties = {
         relative_radius: 0.1,
     },
     "latvia": {
-        relative_radius: 1,
+        relative_radius: 0.6,
     },
     "liecht": {
         relative_radius: 0.2,
     },
     "lithuania": {
-        relative_radius: 1,
+        relative_radius: 0.6,
     },
     "luxembourg": {
         relative_radius: 0.5,
@@ -117,7 +117,7 @@ var country_properties = {
         relative_radius: 1,
     },
     "norway": {
-        relative_radius: 1,
+        relative_radius: 1.1,
     },
     "poland": {
         relative_radius: 0.8,
@@ -144,7 +144,7 @@ var country_properties = {
         relative_radius: 1,
     },
     "sweden": {
-        relative_radius: 1,
+        relative_radius: 1.1,
     },
     "switzerland": {
         relative_radius: 1,
@@ -165,6 +165,12 @@ var country_properties = {
         relative_radius: 1,
     },
 };
+
+var city_properties = {
+    "zelenogradsk": {
+        relative_radius: 0.37,
+    },
+}
 
 var stations = {
     "andorra": [
@@ -1040,7 +1046,7 @@ var stations = {
     "sweden": [
         {
             name: "Sveriges Radio P1",
-            logo: "http://sverigesradio.se/sida/images/3632/2276510_512_512.jpg?preset=socialmedia-share-image",
+            logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/SR_P1_logo.svg/150px-SR_P1_logo.svg.png",
             url: "http://http-live.sr.se/p1-mp3-192"
         },
         {
