@@ -167,6 +167,9 @@ var country_properties = {
 };
 
 var city_properties = {
+    "limoges": {
+        relative_radius: 1.2,
+    },
     "zelenogradsk": {
         relative_radius: 0.37,
     },

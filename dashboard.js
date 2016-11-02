@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.0.9";
+var version = "0.1.0";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -310,4 +310,16 @@ function refreshStations() {
         }
     }
     $("#stationsList").html(content);
+}
+
+if (!String.prototype.endsWith) {
+    String.prototype.endsWith = function(searchString, position) {
+        var subjectString = this.toString();
+        if (typeof position !== 'number' || !isFinite(position) || Math.floor(position) !== position || position > subjectString.length) {
+            position = subjectString.length;
+        }
+        position -= searchString.length;
+        var lastIndex = subjectString.lastIndexOf(searchString, position);
+        return lastIndex !== -1 && lastIndex === position;
+    };
 }

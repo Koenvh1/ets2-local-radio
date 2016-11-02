@@ -19,6 +19,9 @@
 
     var country_colors = {};
 
+    var overlay_countries = {};
+
+
     for(var i = 0; i < cities.length; i++){
         var lat = cities[i].z * 0.0005;
         var lon = cities[i].x * 0.0005;
@@ -28,21 +31,25 @@
             radius = radius * city_properties[cities[i]["gameName"]]["relative_radius"];
         }
 
-        lat = -lat;
+        lat = -10 - lat;
 
         if(!country_colors.hasOwnProperty(cities[i].country)){
             country_colors[cities[i].country] = randomColor();
+            overlay_countries[cities[i].country] = L.layerGroup([]);
         }
 
-        L.marker([lat, lon]).addTo(map);
+        L.marker([lat, lon]).addTo(map).bindTooltip("<strong style='color: " + country_colors[cities[i].country] + "'>" + cities[i].gameName + "</strong>", {permanent: true}).openTooltip();;
         var circle = L.circle([lat, lon], {
             color: country_colors[cities[i].country],
             fillColor: country_colors[cities[i].country],
             fillOpacity: 0.5,
             radius: radius
-        }).addTo(map).bindTooltip(cities[i].realName, {permanent: true}).openTooltip();
+        });
+        overlay_countries[cities[i].country].addLayer(circle).addTo(map);
     }
 
+    overlay_countries = sortObject(overlay_countries);
+    L.control.layers(null, overlay_countries).addTo(map);
     /*
     var draw = $("#draw");
     for(var i = 0; i < cities.length; i++){
@@ -53,5 +60,12 @@
         draw.append(content);
     }
     */
+
+    function sortObject(obj) {
+        return Object.keys(obj).sort().reduce(function (result, key) {
+            result[key] = obj[key];
+            return result;
+        }, {});
+    }
 </script>
 </body>
