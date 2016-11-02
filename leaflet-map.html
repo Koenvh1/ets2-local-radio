@@ -1,0 +1,57 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/randomcolor/0.4.4/randomColor.js"></script>
+    <script src="cities/cities-promods-rusmap.js"></script>
+    <script src="stations/stations-europe.js"></script>
+</head>
+<body style="margin: 0">
+<div id="map" style="width: 100vw; height: 100vh;"></div>
+<!--div style="overflow: scroll; width: 100vw; height: 100vh;" id="draw"></div-->
+<script>
+
+    var map = L.map('map').setView([0, 0], 3);
+    //L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    //    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    //}).addTo(map);
+
+    var country_colors = {};
+
+    for(var i = 0; i < cities.length; i++){
+        var lat = cities[i].z * 0.0005;
+        var lon = cities[i].x * 0.0005;
+
+        var radius = (7500 * 0.0005 * 111111) * country_properties[cities[i].country].relative_radius;
+        if(typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined"){
+            radius = radius * city_properties[cities[i]["gameName"]]["relative_radius"];
+        }
+
+        lat = -lat;
+
+        if(!country_colors.hasOwnProperty(cities[i].country)){
+            country_colors[cities[i].country] = randomColor();
+        }
+
+        L.marker([lat, lon]).addTo(map);
+        var circle = L.circle([lat, lon], {
+            color: country_colors[cities[i].country],
+            fillColor: country_colors[cities[i].country],
+            fillOpacity: 0.5,
+            radius: radius
+        }).addTo(map).bindTooltip(cities[i].realName, {permanent: true}).openTooltip();
+    }
+
+    /*
+    var draw = $("#draw");
+    for(var i = 0; i < cities.length; i++){
+        var radius = 7500;
+        var x = cities[i].x + 10000;
+        var y = cities[i].y + 10000;
+        var content = '<div style="position: absolute; background-color: red; width: ' + Math.round(radius * 2 / 100) + '; height: ' + Math.round(radius * 2 / 100) + '; border-radius: 100%; top: ' + Math.round((y - radius / 100) / 100) + '; left: ' + Math.round((x - radius / 100) / 100) + ';">' + cities[i].realName + '</div>';
+        draw.append(content);
+    }
+    */
+</script>
+</body>
