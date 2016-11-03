@@ -12,7 +12,10 @@
 <!--div style="overflow: scroll; width: 100vw; height: 100vh;" id="draw"></div-->
 <script>
 
-    var map = L.map('map').setView([0, 0], 3);
+    var map = L.map('map', {
+        crs: L.CRS.Simple,
+        minZoom: -10
+    }).setView([0, 0], -8);
     //L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     //    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     //}).addTo(map);
@@ -23,15 +26,15 @@
 
 
     for(var i = 0; i < cities.length; i++){
-        var lat = cities[i].z * 0.0005;
-        var lon = cities[i].x * 0.0005;
+        var lat = cities[i].z;
+        var lon = cities[i].x;
 
-        var radius = (7500 * 0.0005 * 111111) * country_properties[cities[i].country].relative_radius;
+        var radius = (7500) * country_properties[cities[i].country].relative_radius;
         if(typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined"){
             radius = radius * city_properties[cities[i]["gameName"]]["relative_radius"];
         }
 
-        lat = -10 - lat;
+        lat = - lat;
 
         if(!country_colors.hasOwnProperty(cities[i].country)){
             country_colors[cities[i].country] = randomColor();
@@ -42,7 +45,7 @@
         var circle = L.circle([lat, lon], {
             color: country_colors[cities[i].country],
             fillColor: country_colors[cities[i].country],
-            fillOpacity: 0.5,
+            fillOpacity: 0.3,
             radius: radius
         });
         overlay_countries[cities[i].country].addLayer(circle).addTo(map);

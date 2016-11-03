@@ -1,3 +1,59 @@
+var country_properties = {
+    "austria": {
+        relative_radius: 1,
+    },
+    "belgium": {
+        relative_radius: 1,
+    },
+    "czech": {
+        relative_radius: 0.85,
+    },
+    "denmark": {
+        relative_radius: 1,
+    },
+    "france": {
+        relative_radius: 1.05,
+    },
+    "germany": {
+        relative_radius: 1,
+    },
+    "hungary": {
+        relative_radius: 1,
+    },
+    "italy": {
+        relative_radius: 1,
+    },
+    "luxembourg": {
+        relative_radius: 0.5,
+    },
+    "netherlands": {
+        relative_radius: 1,
+    },
+    "norway": {
+        relative_radius: 1.1,
+    },
+    "poland": {
+        relative_radius: 1,
+    },
+    "slovakia": {
+        relative_radius: 1,
+    },
+    "sweden": {
+        relative_radius: 1.1,
+    },
+    "switzerland": {
+        relative_radius: 1,
+    },
+    "uk": {
+        relative_radius: 1,
+    },
+};
+
+var city_properties = {
+
+};
+
+
 //Cities from: https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever
 var cities = [
     {

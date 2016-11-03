@@ -1,180 +1,3 @@
-var country_properties = {
-    "andorra": {
-        relative_radius: 0.2,
-    },
-    "austria": {
-        relative_radius: 1,
-    },
-    "belarus": {
-        relative_radius: 1,
-    },
-    "belgium": {
-        relative_radius: 1,
-    },
-    "belgium-nl": {
-        relative_radius: 1,
-    },
-    "belgium-fr": {
-        relative_radius: 1,
-    },
-    "bosnia": {
-        relative_radius: 1,
-    },
-    "bulgaria": {
-        relative_radius: 1,
-    },
-    "croatia": {
-        relative_radius: 1,
-    },
-    "cyprus": {
-        relative_radius: 1,
-    },
-    "czech": {
-        relative_radius: 1,
-    },
-    "denmark": {
-        relative_radius: 1,
-    },
-    "estonia": {
-        relative_radius: 0.65,
-    },
-    "faroe": {
-        relative_radius: 1,
-    },
-    "finland": {
-        relative_radius: 1,
-    },
-    "france": {
-        relative_radius: 1.05,
-    },
-    "germany": {
-        relative_radius: 1,
-    },
-    "germany-br": {
-        relative_radius: 1,
-    },
-    "germany-hr": {
-        relative_radius: 1,
-    },
-    "germany-mdr": {
-        relative_radius: 1,
-    },
-    "germany-ndr": {
-        relative_radius: 1,
-    },
-    "germany-rbb": {
-        relative_radius: 1,
-    },
-    "germany-swr": {
-        relative_radius: 1,
-    },
-    "germany-wdr": {
-        relative_radius: 1,
-    },
-    "greece": {
-        relative_radius: 1,
-    },
-    "hungary": {
-        relative_radius: 1,
-    },
-    "iceland": {
-        relative_radius: 1,
-    },
-    "iom": {
-        relative_radius: 1,
-    },
-    "ireland": {
-        relative_radius: 1,
-    },
-    "italy": {
-        relative_radius: 1,
-    },
-    "jersey": {
-        relative_radius: 0.1,
-    },
-    "latvia": {
-        relative_radius: 0.6,
-    },
-    "liecht": {
-        relative_radius: 0.2,
-    },
-    "lithuania": {
-        relative_radius: 0.6,
-    },
-    "luxembourg": {
-        relative_radius: 0.5,
-    },
-    "macedonia": {
-        relative_radius: 1,
-    },
-    "moldova": {
-        relative_radius: 1,
-    },
-    "netherlands": {
-        relative_radius: 1,
-    },
-    "nireland": {
-        relative_radius: 1,
-    },
-    "norway": {
-        relative_radius: 1.1,
-    },
-    "poland": {
-        relative_radius: 0.8,
-    },
-    "portugal": {
-        relative_radius: 1,
-    },
-    "romania": {
-        relative_radius: 1,
-    },
-    "russia": {
-        relative_radius: 1.1,
-    },
-    "serbia": {
-        relative_radius: 1,
-    },
-    "slovakia": {
-        relative_radius: 1,
-    },
-    "slovenia": {
-        relative_radius: 1,
-    },
-    "spain": {
-        relative_radius: 1,
-    },
-    "sweden": {
-        relative_radius: 1.1,
-    },
-    "switzerland": {
-        relative_radius: 1,
-    },
-    "switzerland-de": {
-        relative_radius: 1,
-    },
-    "switzerland-fr": {
-        relative_radius: 1,
-    },
-    "turkey": {
-        relative_radius: 1,
-    },
-    "uk": {
-        relative_radius: 1,
-    },
-    "ukraine": {
-        relative_radius: 1,
-    },
-};
-
-var city_properties = {
-    "limoges": {
-        relative_radius: 1.2,
-    },
-    "zelenogradsk": {
-        relative_radius: 0.37,
-    },
-}
-
 var stations = {
     "andorra": [
         {
@@ -245,9 +68,19 @@ var stations = {
             url: "http://mp3.streampower.be/mnm-high"
         },
         {
+            name: "Radio FG",
+            logo: "http://www.radiofg.be/assets/images/header_logo.png",
+            url: "http://radiofg.impek.com:80/fga"
+        },
+        {
             name: "Studio Brussel",
             logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VRT_Studio_Brussel_logo.png/266px-VRT_Studio_Brussel_logo.png",
             url: "http://mp3.streampower.be/stubru-high"
+        },
+        {
+            name: "TOPradio",
+            logo: "http://www.topradio.be/images/logo.png",
+            url: "http://lb.topradio.be/topradio.mp3"
         },
     ],
     "belgium-fr": [
@@ -364,6 +197,21 @@ var stations = {
             logo: "http://radiovolna.net/uploads/posts/2013-10/1382877491_radio-4-raadio-4.png",
             url: "http://icecast.err.ee:80/raadio4.mp3"
         },
+        {
+            name: "Raadio Elmar",
+            logo: "http://onradios.ru/wp-content/uploads/2015/06/raadio-elmar-266x127.jpg",
+            url: "http://217.146.71.24:80/elmar.mp3"
+        },
+        {
+            name: "Sky Plus",
+            logo: "http://skyplus.fm/sites/all/themes/skyplus/logo.png",
+            url: "http://skyplus.babahhcdn.com/SKYPLUS?/skyplus_hi.mp3"
+        },
+        {
+            name: "Star FM",
+            logo: "http://starfm.tv3.ee/ui/template/starfm2016/images/logo/default.png",
+            url: "http://starfm.babahhcdn.com:8000/starfm"
+        },
     ],
     "faroe": [
         {
@@ -478,6 +326,11 @@ var stations = {
             name: "NRJ",
             logo: "http://www.nrj.fr/img/logo-nrj.svg",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
+        },
+        {
+            name: "Radio FG",
+            logo: "http://www.radiofg.com/upload/design/537f7964630f07.67125208.png",
+            url: "http://radiofg.impek.com/fg.mp3"
         },
         {
             name: "RTL",
@@ -777,6 +630,16 @@ var stations = {
             url: "http://lr2mp1.latvijasradio.lv:8002/;"
         },
         {
+            name: "Latvijas Radio 3 Klasika",
+            logo: "http://ww0.latvijasradio.lv/logo/lr_3_liels.jpg",
+            url: "http://lr3mp0.latvijasradio.lv:8004/;"
+        },
+        {
+            name: "Latvijas Radio 4 Домская Площадь",
+            logo: "http://ww0.latvijasradio.lv/logo/lr_4_liels.jpg",
+            url: "http://lr4mp1.latvijasradio.lv:8020/;"
+        },
+        {
             name: "European Hit Radio",
             logo: "https://static-media.streema.com/media/object-images/f9a3489060fe3d9e71924eee7536ab91.jpg",
             url: "http://stream.europeanhitradio.com:8000/ehr.ogg"
@@ -826,9 +689,34 @@ var stations = {
             url: "http://82.135.234.195:8000/ehr.mp3"
         },
         {
+            name: "Lietus",
+            logo: "https://lh3.googleusercontent.com/zseEDKn1Gem9YeUdJs1j8tXaSsHotqEjI3nuMQdb3G9vZHNRDbgKuZS8XFYc9yB795_h",
+            url: "http://radio.m-1.fm:80/LIETUS"
+        },
+        {
             name: "M-1",
             logo: "http://is3.mzstatic.com/image/thumb/Purple/d0/5f/8a/mzl.kipnfqaq.png/0x0ss-85.jpg",
             url: "http://radio.m-1.fm:80/m1/mp3"
+        },
+        {
+            name: "Pūkas",
+            logo: "http://www.lrta.eu/images/article/pukas_logo.jpg",
+            url: "http://82.135.234.195:8000/pukas.mp3"
+        },
+        {
+            name: "Radiocentras",
+            logo: "http://rc.lt/wp-content/uploads/2016/08/logo-1.png",
+            url: "http://84.46.205.13:80/rc128.mp3"
+        },
+        {
+            name: "Русское Радио Балтия",
+            logo: "https://static-s.aa-cdn.net/img/ios/999729875/42cf3c9731fa6a99f5d3764b758bb1ce?v=1",
+            url: "http://5.20.223.18/rrb128.mp3"
+        },
+        {
+            name: "ZIP FM",
+            logo: "http://www.liveonlineradio.net/wp-content/uploads/2014/06/Zip-FM.jpg",
+            url: "http://84.46.205.13/zipfm128.mp3"
         },
     ],
     "luxembourg": [
@@ -914,6 +802,11 @@ var stations = {
             url: "http://lyd.nrk.no:80/nrk_radio_p3_mp3_h"
         },
         {
+            name: "NRK mP3",
+            logo: "http://www.nrk.no/mp3/wp-content/uploads/2010/11/storrehjerte.jpg",
+            url: "http://lyd.nrk.no:80/nrk_radio_mp3_mp3_m"
+        },
+        {
             name: "P4",
             logo: "http://2.bp.blogspot.com/-V2JIsyw3W9k/UuKcPSNKujI/AAAAAAAAd6I/Le5q_bAujfk/s1600/P4+logo+2014.png",
             url: "http://stream.p4.no/p4_mp3_hq"
@@ -922,28 +815,48 @@ var stations = {
     "poland": [
         {
             name: "Polskie Radio 1",
-            logo: "http://seeklogo.com/images/P/Polskie_Radio_1-logo-AA6C8C9D16-seeklogo.com.gif",
+            logo: "http://static.prsa.pl/images/aebdad39-4d4b-489f-a53f-a2c2abc70939.jpg",
             url: "http://stream3.polskieradio.pl:8900/;"
         },
         {
             name: "Polskie Radio 2",
-            logo: "http://images.all-free-download.com/images/graphiclarge/polskie_radio_2_109510.jpg",
+            logo: "http://static.prsa.pl/images/b9ebde30-d8c2-41f1-942a-9df9e68a91df.jpg",
             url: "http://stream3.polskieradio.pl:8902/;"
         },
         {
             name: "Polskie Radio 3",
-            logo: "http://www.gmkfreelogos.com/logos/P/img/Polskie_Radio_3.gif",
+            logo: "http://polskafm.com/sites/default/files/radio/logos/logo-radio-trojka.jpg",
             url: "http://stream3.polskieradio.pl:8904/;"
         },
         {
-            name: "RMF FM",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/5/53/RMF_FM_logo.svg",
-            url: "http://195.150.20.244:8000/rmf_fm"
+            name: "Anyradio",
+            logo: "http://gfx.antyradio.pl/var/antyradio/storage/images/kontakt-2237/373998-1-pol-PL/Kontakt.png",
+            url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
+        },
+        {
+            name: "Planeta FM",
+            logo: "http://radiovolna.net/uploads/posts/2015-05/thumbs/1432675619_planetafm.jpg-807337.png",
+            url: "http://pla-net-01.cdn.eurozet.pl:8700/;"
+        },
+        {
+            name: "Radio Eska",
+            logo: "http://info.elblag.pl/images/artykuly-glowne/d/info.elblag.pl-24796-Jak-sprawdza-sie-Radio-ESKA.jpg",
+            url: "http://waw04.ic1.scdn.smcloud.net/t042-1.mp3"
         },
         {
             name: "Radio Zet",
             logo: "http://gfx.radiozet.pl/design/radiozet/images/layout/logo-zet.png",
             url: "http://zet-old.cdn.eurozet.pl:8082/;"
+        },
+        {
+            name: "Radio Złote Przeboje",
+            logo: "http://bi.gazeta.pl/im/5/20584/m20584975.png",
+            url: "http://bialystok.radio.pionier.net.pl:8000/pl/zloteprzeboje.ogg"
+        },
+        {
+            name: "RMF FM",
+            logo: "https://upload.wikimedia.org/wikipedia/commons/5/53/RMF_FM_logo.svg",
+            url: "http://195.150.20.244:8000/rmf_fm"
         },
     ],
     "romania": [
@@ -1137,13 +1050,25 @@ var stations = {
         },
         {
             name: "UR-2",
-            logo: "http://placehold.it/80x80",
+            logo: "http://ridna.ua/wp-content/uploads/2015/04/32452192.jpg",
             url: "http://nrcu.gov.ua:8000/ur2-mp3"
+        },
+        {
+            name: "Авто Радіо",
+            logo: "http://avtoradio.ua/img/temp_img/logo.png",
+            url: "http://cast.radiogroup.com.ua:8000/avtoradio"
+        },
+        {
+            name: "Kiss FM",
+            logo: "http://guzei.com/online_radio/logo300/1989.jpg",
+            url: "http://online-kissfm.tavrmedia.ua/KissFM"
         },
     ]
 };
 
 stations["belgium"] = stations["belgium-nl"].concat(stations["belgium-fr"]);
 stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerland-fr"]);
-stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
-    .concat(stations["germany-ndr"]).concat(stations["germany-rbb"]).concat(stations["germany-swr"]).concat(stations["germany-wdr"]);
+
+//You could group all German stations into one, but with the current amount of stations the list would become quite long
+//stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
+//    .concat(stations["germany-ndr"]).concat(stations["germany-rbb"]).concat(stations["germany-swr"]).concat(stations["germany-wdr"]);

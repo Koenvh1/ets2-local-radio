@@ -1,3 +1,6 @@
+//DO NOT USE THIS FILE
+//As it has become obsolete, just use cities-promods-rusmap.js
+
 //Cities from: https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever
 var cities = [
     {

@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.1.0";
+var version = "0.2.0";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -10,8 +10,10 @@ var g_current_country = null;
 var g_last_nearest_country = "";
 //whitenoise active:
 var g_whitenoise = false;
-
-var g_hls;
+//global hls object:
+var g_hls = null;
+//whether scripts have loaded:
+var g_loaded = false;
 
 Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, utils) {
     //
@@ -23,25 +25,29 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
     // so you may perform any DOM or resource initializations / image preloading here
 
     g_skinConfig = skinConfig;
+    g_whitenoise = skinConfig.whitenoise;
+
+    var ajax_requests = [];
 
     //Get bootstrap:
-    $.getScript("/skins/" + skinConfig.name + "/bootstrap.js");
-    $.getScript("https://cdn.jsdelivr.net/hls.js/latest/hls.js", function () {
+    ajax_requests.push($.getScript("/skins/" + skinConfig.name + "/bootstrap.js"));
+    //Get HLS script for HLS stations playback:
+    ajax_requests.push($.getScript("https://cdn.jsdelivr.net/hls.js/latest/hls.js", function () {
         g_hls = new Hls();
-    });
+    }));
     //Get city locations:
-    $.getScript("/skins/" + skinConfig.name + "/cities/" + skinConfig.map);
+    ajax_requests.push($.getScript("/skins/" + skinConfig.name + "/cities/" + skinConfig.map));
     //Get stations per country:
-    $.getScript("/skins/" + skinConfig.name + "/stations/" + skinConfig.stations);
+    ajax_requests.push($.getScript("/skins/" + skinConfig.name + "/stations/" + skinConfig.stations));
 
     //Check updates:
-    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
+    ajax_requests.push($.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
         if(data.version != version){
             $(".update").show();
         }
-    });
+    }));
     //Get PeerJS dependencies:
-    $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
+    ajax_requests.push($.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
         //Set ID for PearJS
         id = Math.floor(Math.random()*90000) + 10000;
         peer = new Peer(id, {key: g_skinConfig.peerJSkey});
@@ -65,19 +71,16 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
                 }
             });
         });
+    }));
+
+    $.when.apply($, ajax_requests).done(function(){
+        g_loaded = true;
+
+        //Refresh stations every 10 seconds:
+        setInterval(function () {
+            refreshStations();
+        }, 10000);
     });
-
-    g_whitenoise = skinConfig.whitenoise;
-
-    //Refresh stations every 10 seconds:
-    setInterval(function () {
-        refreshStations();
-    }, 10000);
-
-    // return to menu by a click
-    //$(document).add('body').on('click', function () {
-        //window.history.back();
-    //});
 };
 
 Funbit.Ets.Telemetry.Dashboard.prototype.filter = function (data, utils) {
@@ -98,102 +101,116 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     // data - same data object as in the filter function
     // utils - an object containing several utility functions (see skin tutorial for more information)
     //
+    if(g_loaded) {
 
-    var country_lowest_distance = "nothing";
-    var city_lowest_distance = "nothing";
-    var lowest_distance = 999999999999999999;
-    var available_countries = {
-        none: {
-            country: "none",
-            distance: 999999999999999999,
-            whitenoise: 0
-        }
-    };
-
-    var location = data.truck.placement;
-    //Test whether location is real and not disconnected
-    if(!(location.x == 0.0 && location.y == 0.0 && location.z == 0.0)){
-        for(var i = 0; i < cities.length; i++){
-            //Fix uppercase issues (*cough* SCS):
-            cities[i]["country"] = cities[i]["country"].toLowerCase();
-            //Calculate distance
-            var distance = Math.sqrt(Math.pow((location["x"] - cities[i]["x"]), 2) + Math.pow((location["z"] - cities[i]["z"]), 2));
-            if(distance < lowest_distance){
-                //Write lowest distance
-                lowest_distance = distance;
-                country_lowest_distance = cities[i]["country"];
-                city_lowest_distance = cities[i]["gameName"];
-                //$("#lowest_distance").html(country_lowest_distance);
+        var country_lowest_distance = "nothing";
+        var city_lowest_distance = "nothing";
+        var lowest_distance = 999999999999999999;
+        var available_countries = {
+            none: {
+                country: "none",
+                distance: 999999999999999999,
+                whitenoise: 0
             }
-
-            var relative_city_radius = 1;
-            if(typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined"){
-                relative_city_radius = city_properties[cities[i]["gameName"]]["relative_radius"];
-            }
-            if(distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"] * relative_city_radius) {
-                //Calculate distance within radius ( = global radius * country radius * city radius (if exists))
-
-                //Calculate whitenoise
-                var whitenoise = distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"];
-                if(typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined"){
-                    whitenoise = whitenoise / city_properties[cities[i]["gameName"]]["relative_radius"];
-                }
-
-                //Add country to available_countries
-                if(!available_countries.hasOwnProperty(cities[i]["country"])) {
-                    available_countries[cities[i]["country"]] = {
-                        country: cities[i]["country"],
-                        distance: distance,
-                        whitenoise: whitenoise
-                    }
-                } else {
-                    //Set whitenoise if there is a closer city in that country
-                    if(available_countries[cities[i]["country"]]["whitenoise"] > whitenoise){
-                        available_countries[cities[i]["country"]]["whitenoise"] = whitenoise;
-                        available_countries[cities[i]["country"]]["distance"] = distance;
-                    }
-                }
-            }
-        }
-
-        //Calculate whitenoise
-        var whitenoise_lowest_distance = lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"];
-        if(typeof city_properties[city_lowest_distance] !== "undefined" && typeof city_properties[city_lowest_distance]["relative_radius"] !== "undefined"){
-            whitenoise_lowest_distance = whitenoise_lowest_distance / city_properties[city_lowest_distance]["relative_radius"];
-        }
-        available_countries[country_lowest_distance] = {
-            country: country_lowest_distance,
-            distance: lowest_distance,
-            whitenoise: whitenoise_lowest_distance
         };
 
-        $(".nearestCity").html(city_lowest_distance);
-        $(".distance").html(utils.formatFloat(lowest_distance, 1));
+        var location = data.truck.placement;
+        //Test whether location is real and not disconnected
+        if (!(location.x == 0.0 && location.y == 0.0 && location.z == 0.0)) {
+            for (var i = 0; i < cities.length; i++) {
+                //Fix uppercase issues (*cough* SCS):
+                cities[i]["country"] = cities[i]["country"].toLowerCase();
+                //Calculate distance
+                var distance = Math.sqrt(Math.pow((location["x"] - cities[i]["x"]), 2) + Math.pow((location["z"] - cities[i]["z"]), 2));
+                if (distance < lowest_distance) {
+                    //Write lowest distance
+                    lowest_distance = distance;
+                    country_lowest_distance = cities[i]["country"];
+                    city_lowest_distance = cities[i]["gameName"];
+                    //$("#lowest_distance").html(country_lowest_distance);
+                }
 
-        if(!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold < available_countries[g_current_country]["distance"] &&
-            g_last_nearest_country != country_lowest_distance)) {
-            //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
-            g_last_nearest_country = country_lowest_distance;
+                var relative_city_radius = 1;
+                if (typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined") {
+                    relative_city_radius = city_properties[cities[i]["gameName"]]["relative_radius"];
+                }
+                if (distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"] * relative_city_radius) {
+                    //Calculate distance within radius ( = global radius * country radius * city radius (if exists))
 
-            //Check if there is a favourite station:
-            var index = 0;
-            if(localStorage.getItem("fav-" + country_lowest_distance) !== null) {
-                 index = stations[country_lowest_distance].map(function (e) {
-                    return e.name;
-                }).indexOf(localStorage.getItem("fav-" + country_lowest_distance));
+                    //Calculate whitenoise
+                    var whitenoise = distance / g_skinConfig.radius / country_properties[cities[i]["country"]]["relative_radius"];
+                    if (typeof city_properties[cities[i]["gameName"]] !== "undefined") {
+                        if (typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined") {
+                            whitenoise = whitenoise / city_properties[cities[i]["gameName"]]["relative_radius"];
+                        }
+                        if (typeof city_properties[cities[i]["gameName"]]["relative_whitenoise"] !== "undefined") {
+                            whitenoise = whitenoise * city_properties[cities[i]["gameName"]]["relative_whitenoise"];
+                        }
+                    }
+
+                    //Add country to available_countries
+                    if (!available_countries.hasOwnProperty(cities[i]["country"])) {
+                        available_countries[cities[i]["country"]] = {
+                            country: cities[i]["country"],
+                            distance: distance,
+                            whitenoise: whitenoise
+                        }
+                    } else {
+                        //Set whitenoise if there is a closer city in that country
+                        if (available_countries[cities[i]["country"]]["whitenoise"] > whitenoise) {
+                            available_countries[cities[i]["country"]]["whitenoise"] = whitenoise;
+                            available_countries[cities[i]["country"]]["distance"] = distance;
+                        }
+                    }
+                }
             }
-            setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
-        }
 
-        if(Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
-            //If they don't contain the same keys (ie. a country update)
-            g_countries = available_countries;
+            //Calculate whitenoise
+            var whitenoise_lowest_distance = lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"];
+            if (typeof city_properties[city_lowest_distance] !== "undefined") {
+                if (typeof city_properties[city_lowest_distance]["relative_radius"] !== "undefined") {
+                    whitenoise_lowest_distance = whitenoise_lowest_distance / city_properties[city_lowest_distance]["relative_radius"];
+                }
+                if (typeof city_properties[city_lowest_distance]["relative_whitenoise"] !== "undefined") {
+                    whitenoise_lowest_distance = whitenoise_lowest_distance * city_properties[city_lowest_distance]["relative_whitenoise"];
+                }
+            }
+            available_countries[country_lowest_distance] = {
+                country: country_lowest_distance,
+                distance: lowest_distance,
+                whitenoise: whitenoise_lowest_distance
+            };
 
-            refreshStations();
-        } else {
-            setWhitenoise(available_countries[g_current_country]["whitenoise"]);
-            g_countries = available_countries;
+            available_countries = sortObject(available_countries);
+
+            $(".nearestCity").html(city_lowest_distance + "; " + country_lowest_distance);
+            $(".distance").html(utils.formatFloat(lowest_distance, 1));
+
+            if (!available_countries.hasOwnProperty(g_current_country) ||
+                (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold < available_countries[g_current_country]["distance"] &&
+                g_last_nearest_country != country_lowest_distance)) {
+                //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
+                g_last_nearest_country = country_lowest_distance;
+
+                //Check if there is a favourite station:
+                var index = 0;
+                if (localStorage.getItem("fav-" + country_lowest_distance) !== null) {
+                    index = stations[country_lowest_distance].map(function (e) {
+                        return e.name;
+                    }).indexOf(localStorage.getItem("fav-" + country_lowest_distance));
+                }
+                setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+            }
+
+            if (Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
+                //If they don't contain the same keys (ie. a country update)
+                g_countries = available_countries;
+
+                refreshStations();
+            } else {
+                setWhitenoise(available_countries[g_current_country]["whitenoise"]);
+                g_countries = available_countries;
+            }
         }
     }
 };
@@ -217,7 +234,9 @@ function setRadioStation(url, country, volume) {
         g_whitenoise = false;
         $("#player").animate({volume: 0}, 750, function() {
             //Detach previous HLS if it is there
-            g_hls.detachMedia();
+            if(g_hls != null) {
+                g_hls.detachMedia();
+            }
             if(url.endsWith("m3u8")){
                 //If HLS, continue here
                 g_hls.attachMedia(document.getElementById("player"));
@@ -296,7 +315,7 @@ function refreshStations() {
                 //TODO: Stop playback when station is out of reach
                 content +=
                     '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
-                    '<a class="thumbnail" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                    '<a class="thumbnail" href="#/" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play();">' +
                     '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
@@ -304,7 +323,7 @@ function refreshStations() {
                     key.toUpperCase() +
                     '</div>' +
                     '</a>' +
-                    '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Favourite</button> ' +
+                    '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ' +
                     '</div>';
             }
         }
@@ -322,4 +341,11 @@ if (!String.prototype.endsWith) {
         var lastIndex = subjectString.lastIndexOf(searchString, position);
         return lastIndex !== -1 && lastIndex === position;
     };
+}
+
+function sortObject(obj) {
+    return Object.keys(obj).sort().reduce(function (result, key) {
+        result[key] = obj[key];
+        return result;
+    }, {});
 }

@@ -4,7 +4,7 @@
         "          SETTINGS            ",
         "==============================",
 
-        "            map: What mapmod you're using (Choose one of the JS files)",
+        "            map: What mapmod you're using (Choose one of the JS files, either cities-default.js or cities-promods-rusmap.js)",
         "       stations: What stations file to use",
         "         radius: What the radius in SCS coordinates is for a city to be in range",
         "       treshold: What value in SCS coordinates to switch to the new country's radio station",
