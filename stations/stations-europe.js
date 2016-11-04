@@ -2,12 +2,12 @@ var stations = {
     "andorra": [
         {
             name: "RAC 1 89.0 FM",
-            logo: "http://www.rac1.cat/rsc/images/logo.jpg?v=35683",
+            logo: "/skins/local-radio/stations/images/andorra/RAC 1 89.0 FM.jpg",
             url: "http://streaming3.radiocat.net:80/;",
         },
         {
             name: "RAC 105 FM",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rac105.jpg/450px-Rac105.jpg",
+            logo: "/skins/local-radio/stations/images/andorra/RAC 105 FM.jpg",
             url: "http://37.59.18.212:8000/;"
         },
 
@@ -15,71 +15,71 @@ var stations = {
     "austria": [
         {
             name: "ORF Ö1",
-            logo: "https://walls.io/files/walls/logo/uYknhUKNb32.png",
+            logo: "/skins/local-radio/stations/images/austria/ORF Ö1.png",
             url: "http://mp3stream3.apasf.apa.at:8000/;"
         },
         {
             name: "ORF Ö3",
-            logo: "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Hitradio_%C3%963.svg/267px-Hitradio_%C3%963.svg.png",
+            logo: "/skins/local-radio/stations/images/austria/ORF Ö3.png",
             url: "http://mp3stream7.apasf.apa.at:8000/;"
         },
         {
             name: "ORF FM4",
-            logo: "http://fm4.orf.at/v2static/images/fm4_logo.jpg",
+            logo: "/skins/local-radio/stations/images/austria/ORF FM4.jpg",
             url: "http://mp3stream1.apasf.apa.at:8000/;"
         },
         {
             name: "KroneHit",
-            logo: "http://www.kronehit.at/themes/main/img/logo_630x315.png",
+            logo: "/skins/local-radio/stations/images/austria/KroneHit.png",
             url: "http://raj.krone.at:80/kronehit-hd.mp3"
         },
     ],
     "belarus": [
         {
             name: "BR1",
-            logo: "http://www.tvr.by/upload/iblock/6ac/6ac932b78bde184d6677820c526df3a4.jpg",
+            logo: "/skins/local-radio/stations/images/belarus/BR1.jpg",
             url: "http://37.59.18.212:8000/;"
         },
         {
             name: "Радио Минск",
-            logo: "http://bestradio.fm/uploads/posts/2013-05/1369028536_radio-minsk.jpg",
+            logo: "/skins/local-radio/stations/images/belarus/Радио Минск.jpg",
             url: "http://93.84.113.142:8000/radio"
         },
         {
             name: "Новое Радио",
-            logo: "http://www.radiogrom.com/paint_new/logo_big/novoe_radio_online_moskva_logo_2015.jpg",
+            logo: "/skins/local-radio/stations/images/belarus/Новое Радио.jpg",
             url: "http://www.live.bn.by:8000/novoeradio_128"
         }
     ],
     "belgium-nl": [
         {
             name: "VRT Radio 1",
-            logo: "https://www.muntpunt.be/sites/default/files/Activiteiten/logo_radio1_NIEUW_0.gif",
+            logo: "/skins/local-radio/stations/images/belgium-nl/VRT Radio 1.gif",
             url: "http://mp3.streampower.be/radio1-high"
         },
         {
             name: "VRT Klara",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/2/26/Klara_logo.png",
+            logo: "/skins/local-radio/stations/images/belgium-nl/VRT Klara.png",
             url: "http://mp3.streampower.be/klara-high"
         },
         {
             name: "VRT MNM",
-            logo: "https://upload.wikimedia.org/wikipedia/en/3/36/MNM_logo.png",
+            logo: "/skins/local-radio/stations/images/belgium-nl/VRT MNM.png",
             url: "http://mp3.streampower.be/mnm-high"
         },
         {
             name: "Radio FG",
-            logo: "http://www.radiofg.be/assets/images/header_logo.png",
+            logo: "/skins/local-radio/stations/images/belgium-nl/Radio FG.png",
             url: "http://radiofg.impek.com:80/fga"
         },
         {
             name: "Studio Brussel",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/VRT_Studio_Brussel_logo.png/266px-VRT_Studio_Brussel_logo.png",
+            logo: "/skins/local-radio/stations/images/belgium-nl/Studio Brussel.png",
             url: "http://mp3.streampower.be/stubru-high"
         },
         {
             name: "TOPradio",
-            logo: "http://www.topradio.be/images/logo.png",
+            logo: "/skins/local-radio/stations/images/belgium-nl/TOPradio.png",
             url: "http://lb.topradio.be/topradio.mp3"
         },
     ],
@@ -669,24 +669,19 @@ var stations = {
     ],
     "lithuania": [
         {
-            name: "Lietuvos Radijas 1",
-            logo: "http://grybauskaite1.lrp.lt/images/43045/big_lietuvos_radijas.jpg",
+            name: "LRT 1",
+            logo: "http://www.lrt.lt/userfiles/images/LRT_radijas.jpg",
             url: "http://82.135.234.195:8000/lr.mp3"
         },
         {
-            name: "Lietuvos Radijas Klasika",
-            logo: "http://www.draugauki.me/wp-content/uploads/2011/08/lietuvos-radijas_klasika.jpg",
+            name: "LRT Klasika",
+            logo: "http://www.worldconcerthall.com/public/imgs/culscef6.png",
             url: "http://82.135.234.195:8000/klasika.mp3"
         },
         {
-            name: "Lietuvos Radijas Opus 3",
-            logo: "http://placehold.it/80x80",
+            name: "Opus 3",
+            logo: "http://www.suru.lt/srwrd/wp-content/uploads/2009/11/opus3logo.jpg",
             url: "http://82.135.234.195:8000/opus3.mp3"
-        },
-        {
-            name: "European Hit Radio",
-            logo: "https://upload.wikimedia.org/wikipedia/en/d/d7/European_Hit_Radio_logo.jpg",
-            url: "http://82.135.234.195:8000/ehr.mp3"
         },
         {
             name: "Lietus",
@@ -829,7 +824,7 @@ var stations = {
             url: "http://stream3.polskieradio.pl:8904/;"
         },
         {
-            name: "Anyradio",
+            name: "Antyradio",
             logo: "http://gfx.antyradio.pl/var/antyradio/storage/images/kontakt-2237/373998-1-pol-PL/Kontakt.png",
             url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
         },
@@ -1072,3 +1067,5 @@ stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerlan
 //You could group all German stations into one, but with the current amount of stations the list would become quite long
 //stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
 //    .concat(stations["germany-ndr"]).concat(stations["germany-rbb"]).concat(stations["germany-swr"]).concat(stations["germany-wdr"]);
+
+var JSON_stations = JSON.stringify(stations);

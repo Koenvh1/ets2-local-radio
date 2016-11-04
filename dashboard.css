@@ -79,3 +79,12 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
+.thumbnail-orange {
+    border: 1px solid #f47c3c !important;
+    color: #f47c3c;
+    transition: border .2s ease-in-out;
+}
+.thumbnail-orange:hover {
+    color: #f47c3c;
+}

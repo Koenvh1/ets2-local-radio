@@ -1,6 +1,7 @@
 ﻿<div class="dashboard game-connected">
     <audio id="player" src="about:blank" autoplay></audio>
     <audio id="whitenoise" src="/skins/local-radio/content/whitestatic.mp3" loop></audio>
+    <audio id="switchStation" src="/skins/local-radio/content/radio_switch.mp3" loop autoplay></audio>
     <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
         <div class="col-xs-12">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -89,6 +90,35 @@
     var connectedPeerID = null;
     var controlRemote = false;
 
+    $(document).ready(function () {
+        //Get PeerJS dependencies:
+        $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
+            //Set ID for PearJS
+            id = Math.floor(Math.random()*90000) + 10000;
+            peer = new Peer(id, {key: g_skinConfig.peerJSkey});
+            $(".peer-id").html(id);
+
+            //Receive message logic
+            peer.on('connection', function (conn) {
+                conn.on('data', function (data) {
+                    var response = JSON.parse(data);
+                    console.log(data);
+                    if(response.type == "connect"){
+                        //Show connected
+                        console.log("Someone started controlling this player remotely");
+                        $(".remote").show();
+                    }
+                    if(response.type == "station"){
+                        setRadioStation(response.url, response.country, response.volume);
+                    }
+                    if(response.type == "favourite"){
+                        setFavouriteStation(response.country, response.name);
+                    }
+                });
+            });
+        });
+    });
+
     function connectPrompt() {
         var peerID = prompt("What's the peer ID?");
         if (peerID != null) {
@@ -97,6 +127,9 @@
     }
 
     function connect(peerID) {
+        if(peerID == "666"){
+            $("body").css('font-family', '"Comic Sans MS", fantasy, serif')
+        }
         conn = peer.connect(peerID);
         conn.on('open', function () {
             conn.send(JSON.stringify({

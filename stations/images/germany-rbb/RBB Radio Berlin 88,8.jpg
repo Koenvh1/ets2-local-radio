@@ -1,0 +1,2520 @@
+<!DOCTYPE html> 
+<!--[if lte IE 8]> <html class="ie8 no-touch" lang="de"> <![endif]-->
+<!--[if IE 9]> <html class="ie9 no-touch" lang="de"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-touch" lang="de"> <!--<![endif]-->
+<head>
+	
+	
+		
+		
+		
+		
+		
+	
+
+<meta charset="utf-8" />
+<title>Presse | rbb Rundfunk Berlin-Brandenburg</title>
+
+
+
+
+
+
+
+
+
+<meta name="Content-Language" content="de"/>
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="Keywords" content=""/>
+<meta name="email" content="internet@rbb-online.de"/>
+<meta name="copyright" content="rbb-online, Rundfunk Berlin-Brandenburg, Germany"/>
+<meta name="robots" content="index,follow"/>
+<meta name="Description" content="Willkommen beim rbb Presseservice, dem Online-Presseportal des Rundfunk Berlin-Brandenburg (rbb). Hier finden Sie aktuelle Presseinformationen und Programmhighlights. Sie k&ouml;nnen sich f&uuml;r Pressetermine anmelden und rbb-Produktionen zu ..."/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="cleartype" content="on">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="apple-mobile-web-app-title" content="rbb Online">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="//www.rbb-online.de/content/dam/rbb/rbb/logos/touch.png/_jcr_content/renditions/144x144original.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.rbb-online.de/content/dam/rbb/rbb/logos/touch.png/_jcr_content/renditions/appletouchicon114x114precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.rbb-online.de/content/dam/rbb/rbb/logos/touch.png/_jcr_content/renditions/appletouchicon72x72precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="//www.rbb-online.de/content/dam/rbb/rbb/logos/touch.png/_jcr_content/renditions/appletouchicon57x57precomposed.png">
+<meta name="application-name" content="rbb-online.de"/> 
+<meta name="msvalidate.01" content="FAED7252293CB2878BA8E5621A0A9BAB" />
+<meta property="fb:pages" content="1645763252367579" />
+
+
+
+<link rel="start" title="Startseite" href="//www.rbb-online.de/"/>
+<link rel="search" title="Suche" href="//www.rbb-online.de/suche/index.html"/>
+<link rel="contents" title="rbb A-Z" href="//www.rbb-online.de/suche/index.html"/>
+<link rel="copyright" title="Impressum" href="//www.rbb-online.de/impressum/index.html"/>
+<link rel="help" title="Hilfe" href="//www.rbb-online.de/hilfe/index.html"/>
+
+<link rel="SHORTCUT ICON" href="//www.rbb-online.de/rbb/grafik/favicon.ico"/>
+
+<meta http-equiv="imagetoolbar" content="no" />
+
+  	
+
+<link rel="canonical" href="http://www.rbb-online.de/unternehmen/presse/index.html" />
+
+<link rel="image_src" href="http://www.rbb-online.de/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/rbb%20Logo.jpg.jpg/rendition=original.jpg"/>
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Presse"/>
+<meta property="og:description" content="Willkommen beim rbb Presseservice, dem Online-Presseportal des Rundfunk Berlin-Brandenburg (rbb). Hier finden Sie aktuelle Presseinformationen und Programmhighlights. Sie k&#246;nnen sich f&#252;r Pressetermine anmelden und rbb-Produktionen zu Rezensionszwecken bereits vor der Ausstrahlung ansehen."/>
+<meta property="og:image" content="http://www.rbb-online.de/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/rbb%20Logo.jpg.jpg/rendition=original.jpg"/>
+<meta property="og:url" content="http://www.rbb-online.de/unternehmen/presse/index.html"/>
+
+
+
+
+
+
+	
+	
+
+
+<link href="/unternehmen/presse/vorlagen/compressor.combined.css/v=5.1.9.1/f=css.css" rel="stylesheet" type="text/css"/>
+<link href="/unternehmen/presse/vorlagen/compressor.combined.css/v=5.1.9.1/f=css2.css" rel="stylesheet" type="text/css"/>
+
+
+
+
+
+
+
+<!-- Einbindung des IE-Anpassungsstylesheets -->
+<!--[if lte IE 8]><link href="/basis/css/patch_layout.css" rel="stylesheet" type="text/css"/><![endif]-->
+<link href="/basis/css/print.css" rel="stylesheet" media="print" type="text/css"/>
+
+
+
+  <link rel="stylesheet" href="/unternehmen/presse/vorlagen/layout/_jcr_content/properties/property_1.css" type="text/css" media="screen"/>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+documentRoot = '/rbb';
+requestHandle = '/content/rbb/rbb/unternehmen/presse/index';
+requestParams = new Object();
+
+function externalize(hdl) {
+	var etcroot = '/etc';
+	var grafikroot = '/rbb/grafik';
+	var contentrbbsiteroot = '';
+	if (hdl.indexOf('/etc') == 0) {
+		return etcroot + hdl.substr(4);
+	}
+	if (hdl.indexOf('/grafik') == 0) {
+		return grafikroot + hdl.substr(7);
+	}
+	if (hdl.indexOf('/content/rbb/rbb') == 0) {
+		return contentrbbsiteroot + hdl.substr(16);
+	}
+	return hdl;
+}
+
+function isPublish() {
+	return true;
+}
+function isAuthor() {
+	return false;
+}
+function isEditMode() {
+	return false;
+}
+</script>
+
+
+
+
+
+
+<script  src="/unternehmen/presse/vorlagen/compressor.combined.js/v=5.1.9.1/f=jshead.js" type="text/javascript"></script>
+
+
+
+
+
+
+
+</head>
+
+<body data-analytics='{"mode":"ati:useHandleID,ivw:enabled","title":"Presse","handle":"/content/rbb/rbb/unternehmen/presse/index","createDate":20160509,"doctype":20,"login":1,"lang":"de","uuid":"095500e8-e0ee-4961-8b66-f5e320d6148b","lastModified":201611031606,"chapter":["Unternehmen","Presse",""],"ATIxtsite":549284,"ATIxtn2":"27,27","IVWst":"mobrbbon","IVWcp":"unternehmen_rbb"}' class="doctypeuebersicht layoutstandard site_rbb" id="top">
+
+
+
+<div style="display:none"></div>
+
+
+	
+	<!-- skiplink-navigation -->
+    <ul id="skiplinks">
+		<li><a class="skip" href="#nav">Zur Hauptnavigation springen</a></li>
+		<li><a class="skip" href="#main">Zum Inhalt springen</a></li>
+		<li><a class="skip" href="#search">Zur Suche springen</a></li>
+		<li><a class="skip" href="#footer">Zum Footer</a></li>
+    </ul>
+	<div class="page_margins">
+	
+<!-- anfang: header --><header id="header" class="jsb_ jsb_sticky_navigation" role="banner">
+	
+	
+
+	<div class="wrapper_mainnav">
+		<nav id="nav" role="navigation" class="jsb_ jsb_MobileMainNav">
+			<ul class="level_1">
+			
+				
+				
+				<li class="logo">
+					
+					<h1>
+						<a href="/index.html" title="RBB">rbb (logo)</a>
+						<img class="logo_print" src="/rbb/grafik/logo_red.png" alt="">
+					</h1></li>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				<li >
+		 			
+					<a href="/fernsehen/index.html">Fernsehen</a></li>
+				
+				
+				
+				
+			
+				
+				
+				
+				<li >
+		 			
+					<a href="/radio/index.html">Radio</a></li>
+				
+				
+				
+				
+			
+				
+				
+				
+				<li >
+		 			
+					<a href="http://mediathek.rbb-online.de/">Mediathek</a></li>
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+					
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+					
+				
+				
+			
+				
+				
+				
+				
+				
+				
+			
+			</ul>
+
+			<aside class="meta_header" role="complementary">
+				<!-- anfang: meta suche -->
+				
+				<div class="meta_search jsb_ jsb_toggle">
+					<a class="btn_search js_toggle" href="/suche/index.html" title="Suche einblenden">
+						
+						
+						Suche einblenden</a>
+					<button class="ico ico_menu js_menu_toggle" type="button" title="Meta-Navigation"><!-- Menü --></button>
+					
+					<form id="search" class="form jsb_ jsb_input jsb_searchbox" method="post" action="/suche/index.html" role="search" data-jsb='{"queryStringTopResults": "site=evo_p_rbb&client=default_searchbox_p&proxystylesheet=default_searchbox_p&usesnippet=1&sort=&getfields=shortText.doctype.roofLine.image.imageAlt.mediaType.Title.contactRef&num=3&filter=0&output=xml_no_dtd&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1","queryStringSuggestionList": "site=evo_p_rbb&client=default_searchbox_p&max=5&access=p&format=rich"}'>
+						
+						
+						
+						
+						
+						
+						<fieldset>
+							<input type="hidden" name="_charset_" value="utf-8">
+							<input type="hidden" name="search" value="hidden">
+							<input type="hidden" name="swq" value="n">
+							<input type="hidden" name="start" value="0">
+							
+							<input type="hidden" name=":formtype" value="/apps/cq5fwk/components/page">
+							
+							<legend class="hide">Suche</legend>
+
+							<div class="type_text">
+								<label id="search_label" for="search_input" class="hide">Suchbegriff</label>
+								<input id="search_input" class="text js_input" type="text" name="query" value="" size="10" role="textbox" aria-labelledby="search_label" autocomplete="off" autocapitalize="off" autocorrect="off">
+							</div>
+							<button class="btn ico ico_close js_input_reset" type="reset" title="Suche zurücksetzen">Zurücksetzen</button>
+							<button class="btn" type="submit" title="Suche abschicken">Suchen</button>
+						</fieldset>
+					</form>
+					
+<div id="searchbox_result" class="hide">
+	<div id="searchbox_result_suggestions">
+		<i>Suchvorschläge</i>
+		<ul id="searchbox_result_suggestions_list"></ul>
+	</div>
+	<div id="searchbox_result_topresults">
+		<i>Ergebnisse</i>
+		<div id="searchbox_result_topresults_list"></div>
+	</div>
+</div>
+
+				</div>
+				
+				<!-- ende: meta suche -->
+
+				<!-- anfang: meta info -->
+				<div class="meta_info">
+					
+<div class="weather jsb_ jsb_toggle" data-jsb="{}">
+	<a href="/wetter/wetterkarte/index.html" class="js_toggle"><img alt="leicht bew&ouml;lkt" title="leicht bew&ouml;lkt" class="weather_icon" src="/basis/grafik/icons/wetter/210000.png"> 2&deg;</a>
+	<!-- anfang: wetter flyout -->
+	<div class="flyout">
+		<h2 class="boxheadline">Das aktuelle Wetter in Berlin Brandenburg</h2>
+		<table summary="Das aktuelle Wetter in Berlin und Brandenburg">
+			<tbody>
+<tr class="odd">
+<td><a href="/wetter/orte.htm/id=18228265.html"><span class="wetter_ort">Berlin</span><img alt="leicht bew&ouml;lkt" title="leicht bew&ouml;lkt" class="weather_icon" src="/basis/grafik/icons/wetter/210000.png"><span class="wetter_temp">2 &deg;C</span></a></td><td><a href="/wetter/orte.htm/id=18228271.html"><span class="wetter_ort">Cottbus</span><img alt="wolkig" title="wolkig" class="weather_icon" src="/basis/grafik/icons/wetter/220000.png"><span class="wetter_temp">0 &deg;C</span></a></td><td><a href="/wetter/orte.htm/id=18228272.html"><span class="wetter_ort">Frankfurt (Oder)</span><img alt="leicht bew&ouml;lkt" title="leicht bew&ouml;lkt" class="weather_icon" src="/basis/grafik/icons/wetter/210000.png"><span class="wetter_temp">1 &deg;C</span></a></td>
+</tr>
+<tr class="even">
+<td><a href="/wetter/orte.htm/id=18229869.html"><span class="wetter_ort">Perleberg</span><img alt="stark bew&ouml;lkt" title="stark bew&ouml;lkt" class="weather_icon" src="/basis/grafik/icons/wetter/320000.png"><span class="wetter_temp">2 &deg;C</span></a></td><td><a href="/wetter/orte.htm/id=18230337.html"><span class="wetter_ort">Prenzlau</span><img alt="wolkig" title="wolkig" class="weather_icon" src="/basis/grafik/icons/wetter/220000.png"><span class="wetter_temp">2 &deg;C</span></a></td><td><a href="/wetter/orte.htm/id=18228273.html"><span class="wetter_ort">Potsdam</span><img alt="stark bew&ouml;lkt" title="stark bew&ouml;lkt" class="weather_icon" src="/basis/grafik/icons/wetter/320000.png"><span class="wetter_temp">2 &deg;C</span></a></td>
+</tr>
+</tbody>
+
+		</table>
+		<div class="mehrlink">
+			<a href="/wetter/wetterkarte/index.html">Wetter in Berlin Brandenburg</a>
+		</div>
+	</div>
+	<!-- ende: wetter flyout -->
+</div>
+
+
+					<!-- anfang: expand -->
+					<div class="expand js_about_rbb jsb_ jsb_toggle" data-jsb="{}">
+						
+						<a href="/unternehmen/der_rbb/index.html" class="about_link js_toggle active">Der rbb</a>
+
+						<ul class="link_list" role="menu" tabindex="0">
+						
+							<li role="menuitem"><a href="/unternehmen/der_rbb/index.html">Über den rbb</a></li>
+						
+							<li role="menuitem"><a href="/unternehmen/presse/index.html">Presse</a></li>
+						
+							<li role="menuitem"><a href="/unternehmen/karriere/index.html">Karriere</a></li>
+						
+							<li role="menuitem"><a href="/unternehmen/service/index.html">Service</a></li>
+						
+						</ul>
+						
+					</div>
+					<!-- ende: expand -->
+				</div>
+				<!-- ende: meta info -->
+			</aside>
+		</nav>
+	</div>
+
+
+
+
+
+	
+	
+
+	
+       	
+		<a class="btn_scroll_sub_nav left" data-direction="left"><span class="ico ico_arrow_wide_left"></span></a>
+		<a class="btn_scroll_sub_nav right" data-direction="right"><span class="ico ico_arrow_wide_right"></span></a>
+        <nav id="subnav" role="navigation" class="jsb_ jsb_MetaNav" data-jsb="{}">
+        	<ul class="level_2">
+        	
+        		
+        		
+        		
+	        		<li ><a href="/unternehmen/der_rbb/index.html">Über den rbb</a></li>
+        		
+        		
+        	
+        		
+        		
+        		
+	        		<li ><a href="/unternehmen/presse/index.html">Presse</a></li>
+        		
+        		
+        	
+        		
+        		
+        		
+	        		<li ><a href="/unternehmen/karriere/index.html">Karriere</a></li>
+        		
+        		
+        	
+        		
+        		
+        		
+	        		<li ><a href="/unternehmen/service/index.html">Service</a></li>
+        		
+        		
+        	
+        	</ul>
+    	</nav>
+
+</header><!-- ende: header -->
+
+	
+		<div class="breadcrumb">
+			<ol>
+				
+					
+						<li><a href="/unternehmen/der_rbb/index.html" class="uebersicht">Der rbb</a></li>
+					
+					
+						<li><a href="/unternehmen/presse/index.html" class="uebersicht">Presse</a></li>
+					
+					
+					
+					
+					
+				
+				
+				
+				
+
+	
+		
+		
+	
+	
+				
+					
+					
+					
+					
+					
+					
+				
+			</ol>
+		</div>
+	
+	
+
+
+
+
+
+<div id="contentheader" class="standard second_level_nav" role="banner">
+	<div class="header_content">
+
+
+
+	
+	
+	
+	
+	
+			
+
+
+	
+		
+		
+	
+	
+	
+	
+	 		
+			
+				
+				 	<h2 class="header_splited">
+						<a href="/unternehmen/presse/index.html" class="uebersicht text" title="zum Presseservice">Presse</a>
+					</h2>
+				
+				
+			
+			
+			
+			
+			
+		
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	<div class="jsb_ jsb_cq5fwkajaxinclude" data-jsb='{"url":"/unternehmen/presse/login.htm/$img_dimensions_banner=middleColumn.topteaser_banner_4_4/$imgdims_nurbild=nurbild_4_4/$imgdims_standardteaser=standardteaser/SSI=true/module=useraccount%2521headerloginbox.html?"}'></div>
+	
+	
+		
+	
+	
+	<nav id="contentnav" class="clearfix jsb_ jsb_MobileContentNav" role="navigation" data-jsb='{"title":"Presse"}'>
+		
+		
+		
+		
+	
+
+	<button class="ico ico_menu" type="button" title="Meta Menü"><!-- Menü --></button>
+	
+		
+		  <ul class="level1">
+		
+
+		<li class="first presseinfo"><a href="/unternehmen/presse/presseinformationen/index.html" title="Presseinformationen">Presseinformationen</a>
+
+		
+	
+		
+		  <ul class="level2">
+		
+
+		<li class="first programm"><a href="/unternehmen/presse/presseinformationen/programm/index.html" title="Programm">Programm</a></li>
+
+		
+	
+		
+		
+
+		<li class="intermediate unternehme"><a href="/unternehmen/presse/presseinformationen/unternehmen/index.html" title="Unternehmen">Unternehmen</a></li>
+
+		
+	
+		
+		
+
+		<li class="intermediate gremien"><a href="/unternehmen/presse/presseinformationen/gremien/index.html" title="Gremien">Gremien</a></li>
+
+		
+	
+		
+		
+
+		<li class="last veranstalt"><a href="/unternehmen/presse/presseinformationen/veranstaltungen/index.html" title="Veranstaltungen">Veranstaltungen</a></li>
+
+		
+			</ul></li>
+			
+	
+		
+		
+
+		<li class="intermediate highlights"><a href="/unternehmen/presse/highlights/index.html" title="Highlights">Highlights</a></li>
+
+		
+	
+		
+		
+
+		<li class="intermediate programmwo"><a href="/unternehmen/presse/programmwochen/index.html" title="Programmwochen">Programmwochen</a></li>
+
+		
+	
+		
+		
+
+		<li class="intermediate team"><a href="/unternehmen/presse/team/index.html" title="Team">Team</a></li>
+
+		
+	
+		
+		<!-- Fehlerhafter Include (oder kein Zugriff): url=/content/rbb/rbb/unternehmen/presse/pressetermine/index.htm/%24img_dimensions_banner=middleColumn.topteaser_banner_4_4/%24imgdims_nurbild=nurbild_4_4/%24imgdims_standardteaser=standardteaser/SSI=true/activehandle=%21content%21rbb%21rbb%21unternehmen%21presse%21index/labelClass=presseterm/level=1/module=contentnavitem/title=Pressetermine/url=%21content%21rbb%21rbb%21unternehmen%21presse%21pressetermine%21index.html, queryParams: null -->
+		
+	
+		
+		<!-- Fehlerhafter Include (oder kein Zugriff): url=/content/rbb/rbb/unternehmen/presse/audio-video/index.htm/%24img_dimensions_banner=middleColumn.topteaser_banner_4_4/%24imgdims_nurbild=nurbild_4_4/%24imgdims_standardteaser=standardteaser/SSI=true/activehandle=%21content%21rbb%21rbb%21unternehmen%21presse%21index/labelClass=audiovideo/lastThisLevel=true/level=1/module=contentnavitem/title=Audio%21Video/url=%21content%21rbb%21rbb%21unternehmen%21presse%21audio-video%21index.html, queryParams: null -->
+		
+			</ul>
+	
+	</nav>
+	
+
+	</div>
+</div><!-- anfang: main --><div id="main" role="main">
+	
+		
+			
+		<section class="teaserbox first count1 odd layoutstandard doctypeteaser" ><h2 class="boxheadline">Topmeldung</h2>
+<article class="manualteaser first last count1 odd layouttopteaser doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/20161102-sandmann-im-internet-bald-mit-gebaerden-dolmetscher-unt.html" class="beitrag"><img width="470" height="264" alt="Unser Sandmännchen" title="Unser Sandmännchen" id="middleColumnList_teaserbox_teaserList_automaticteaser_1703547732" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/20161102_Sandmann_gebaerden1280.jpg.jpg/size=470x264.jpg" /></a></div>
+<div class="teasercontent"><div class="teasertext"><!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/20161102-sandmann-im-internet-bald-mit-gebaerden-dolmetscher-unt.html" class="beitrag">
+			<span class="manualteasertitle">Sandmann im Internet bald mit Gebärden-Dolmetscher unterwegs</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>2017 übersetzen Gebärden-Dolmetscher die über das Internet verbreiteten Folgen der Sendung.&nbsp;</p>
+</div>
+
+
+<time datetime="2016-11-02T14:06" class="manualteaserdatetime">02.11.2016 | 14:06</time>
+</div></div></article></section><section class="teaserbox intermediate count2 even layoutstandard doctypeteaser" ><h2 class="boxheadline">In eigener Sache</h2>
+<article class="manualteaser first last count1 odd layouttopteaserright layouttopteaser layoutright doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/der-rbb-presseservice.html" class="beitrag"><img width="470" height="264" alt="Schrauben in Holz gedreht (Bild: Colorbox/Valery Voennyy)" title="Schrauben in Holz gedreht (Bild: Colorbox/Valery Voennyy)" id="middleColumnList_teaserbox_2_teaserList_manualteaser_206890788" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/neuer-presseservice.jpg.jpg/size=470x264.jpg" /></a></div>
+<div class="teasercontent"><div class="teasertext"><!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/der-rbb-presseservice.html" class="beitrag"><span class="manualteaserroofline">Willkommen beim rbb Presseservice</span><span class="hideme"> - </span>
+			<span class="manualteasertitle">Was ist neu?</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Wir haben umgebaut, geschraubt und gewerkelt, um Ihnen künftig in unserem Online-Pressebereich mehr Service und Komfort bieten zu können. Hier finden Sie die Neuerungen, aber auch Altbewährtes im Überblick.</p>
+</div>
+
+
+</div></div></article></section><section class="teaserbox intermediate count3 odd jsb_ jsb_tab_navigation layouttabbed_justify layouttabbedteasermodule layoutjustify_2_4 doctypeteaser" data-jsb='{}'><h2 class="boxheadline">Presseinformationen</h2>
+
+    
+	<div class="tab_navigation_viewport">
+		<ul class="tab_navigation" role="navigation">
+		
+		  
+		  	
+				<li><a href="#" title="Alle">Alle</a></li>
+			
+		  
+		
+		  
+		  	
+				<li><a href="#" title="Programm">Programm</a></li>
+			
+		  
+		
+		  
+		  	
+				<li><a href="#" title="Unternehmen">Unternehmen</a></li>
+			
+		  
+		
+		  
+		  	
+				<li><a href="#" title="Gremien">Gremien</a></li>
+			
+		  
+		
+		  
+		  	
+				<li><a href="#" title="Veranstaltungen">Veranstaltungen</a></li>
+			
+		  
+		
+		</ul>
+	</div>
+	<div class="wrapper_button_left">
+		<span class="ico ico ico_arrow_wide_left" title="Vorherige Tabs"><!-- Vorherige Tabs --></span>
+		<ul class="tab_navigation_extend" role="navigation"><!-- Vorherige Tabs --></ul>
+	</div>
+
+	<div class="wrapper_button_right">
+		<span class="ico ico_arrow_wide_right" title="Weitere Tabs"><!-- Weitere Tabs --></span>
+		<ul class="tab_navigation_extend" role="navigation"><!-- Weitere Tabs --></ul>
+	</div>
+
+    <ul class="tab_content">
+		
+		  	
+				<li class="active">
+					
+						<article class="manualteaser first count1 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/20161102-sandmann-im-internet-bald-mit-gebaerden-dolmetscher-unt.html" class="beitrag"><img width="184" height="103" alt="Unser Sandmännchen" title="Unser Sandmännchen" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1703547732" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/20161102_Sandmann_gebaerden1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/20161102-sandmann-im-internet-bald-mit-gebaerden-dolmetscher-unt.html" class="beitrag">
+			<span class="manualteasertitle">Sandmann im Internet bald mit Gebärden-Dolmetscher unterwegs</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>2017 übersetzen Gebärden-Dolmetscher die über das Internet verbreiteten Folgen der Sendung.&nbsp;</p>
+</div>
+
+
+<time datetime="2016-11-02-T14:06:00" class="manualteaserdatetime">02.11.2016 | 14:06</time></article><article class="manualteaser intermediate count2 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/jazzfest2016_live_im_kulturradio.html" class="sendeplatz"><img width="184" height="103" alt="Logo Kulturradio (Bild: rbb)" title="Logo Kulturradio (Bild: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_463176596" data-src="/content/dam/rbb/rbb/unternehmen/programm/Kulturradio_Logo_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-05T20:05">Sa 05.11.2016 | 20:05 | Kulturradio</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/jazzfest2016_live_im_kulturradio.html" class="sendeplatz">
+			<span class="manualteasertitle">JazzFest Berlin 2016 live im Kulturradio vom rbb</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der europäische Jazz in all seinen Facetten steht im Zentrum des JazzFest Berlin 2016. Kulturradio vom Rundfunk Berlin-Brandenburg (rbb) überträgt live die Höhepunkte des Programms.</p>
+</div>
+
+
+<time datetime="2016-11-02-T14:00:00" class="manualteaserdatetime">02.11.2016 | 14:00</time></article><article class="manualteaser intermediate count3 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/regionalliga-nordost-live-im-rbb-fernsehen-und-im-livestream--he.html" class="sendeplatz"><img width="184" height="103" alt="Logo rbb Sportplatz (Bild: rbb)" title="Logo rbb Sportplatz (Bild: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1504859734" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/1_rbb_Sportplatz_Logo_2013.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-06T14:00">So 06.11.2016 | 14:00 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/regionalliga-nordost-live-im-rbb-fernsehen-und-im-livestream--he.html" class="sendeplatz">
+			<span class="manualteasertitle">Regionalliga Nordost live im rbb Fernsehen und im Livestream: Hertha BSC II - FC Energie Cottbus und SV Babelsberg 03 - BFC Dynamo</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Am Sonntag, 6. November 2016, überträgt das rbb Fernsehen live das Fußballspiel Hertha BSC II gegen FC Energie Cottbus. Zusätzlich übertragen der Sportplatz und rbb|24 das Spiel SV Babelsberg 03 gegen BFC Dynamo ab 14.00 Uhr online.</p>
+</div>
+
+
+<time datetime="2016-11-02-T10:15:00" class="manualteaserdatetime">02.11.2016 | 10:15</time></article><article class="manualteaser intermediate count4 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161102-klartext.html" class="sendeplatz"><img width="184" height="103" alt="KLARTEXT - Logo" title="KLARTEXT - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1744760526" data-src="/content/dam/rbb/rbb/fernsehen/klartext/klartext_1280x720.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-02T22:15">Mi 02.11.2016 | 22:15 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161102-klartext.html" class="sendeplatz">
+			<span class="manualteasertitle">KLARTEXT</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Themen u. a.: Medikamente als Bückware</p>
+</div>
+
+
+<time datetime="2016-11-01-T11:20:00" class="manualteaserdatetime">01.11.2016 | 11:20</time></article><article class="manualteaser intermediate count5 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz"><img width="184" height="103" alt="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" title="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1123529850" data-src="/content/dam/rbb/rbb/fernsehen/dokus_reportagen/titel_mit_m/Mit-der-U-Bahn-um-die-Welt/anni_u_bahn_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-05T18:32">Sa 05.11.2016 | 18:32 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz">
+			<span class="manualteasertitle">Mit der U-Bahn um die Welt</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>rbb-Moderatorin Anni Dunkelmann besucht mit der U-Bahn Syrien, Mexiko, Irland, Frankreich, Thailand und Nigeria - und bleibt doch in Berlin.</p>
+</div>
+
+
+<time datetime="2016-11-01-T10:51:00" class="manualteaserdatetime">01.11.2016 | 10:51</time></article><article class="manualteaser intermediate count6 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/20161031-land-berlin-und-rbb-vergeben-gemeinsam-jazzpreis-berlin.html" class="beitrag"><img width="184" height="103" alt="Kulturradio - Logo" title="Kulturradio - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1474603828" data-src="/content/dam/rbb/rbb/unternehmen/presse/migration/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/logos_sendungen/kulturradio_logo_512_288.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/20161031-land-berlin-und-rbb-vergeben-gemeinsam-jazzpreis-berlin.html" class="beitrag">
+			<span class="manualteasertitle">Land Berlin und rbb vergeben gemeinsam Jazzpreis Berlin</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Das Kulturradio vom Rundfunk Berlin-Brandenburg (rbb) und die 
+Kulturverwaltung des Berliner Senats vergeben von 2017 an gemeinsam den 
+Jazzpreis Berlin. </p>
+</div>
+
+
+<time datetime="2016-10-31-T11:00:00" class="manualteaserdatetime">31.10.2016 | 11:00</time></article><article class="manualteaser intermediate count7 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" class="sendeplatz"><img width="184" height="103" alt="Plakat &quot;Genial - Die erfinderische ARD-Kinderradionacht&quot;" title="Plakat &quot;Genial - Die erfinderische ARD-Kinderradionacht&quot;" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_319431759" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161125_ARD_Kinderradionacht_Abgefahren_2016_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- sendeplatz --><time class="onAirInfo" datetime="2016-11-25T20:05">Fr 25.11.2016 | 20:05</time>
+	
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" class="sendeplatz"><span class="manualteaserroofline">radioBerlin 88,8</span><span class="hideme"> - </span>
+			<span class="manualteasertitle">&quot;Abgefahren! Die ARD-Kinderradionacht auf Zeitreise&quot;</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Die Radionacht ist eine ARD-Gemeinschaftssendung. Fünf Stunden lang sendet radioBerlin 88,8 Hörspiele, Geschichten, Interviews und Reportagen.</p>
+</div>
+
+
+<time datetime="2016-10-31-T10:45:00" class="manualteaserdatetime">31.10.2016 | 10:45</time></article><article class="manualteaser intermediate count8 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" class="sendeplatz"><img width="184" height="103" alt="Hussam Khoder ist der erste deutsch-arabische ehrenamtliche Sterbebegleiter in Berlin." title="Hussam Khoder ist der erste deutsch-arabische ehrenamtliche Sterbebegleiter in Berlin." id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_2088985122" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161113Halte_meine_Hand_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-27T17:30">So 27.11.2016 | 17:30 | Das Erste</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" class="sendeplatz">
+			<span class="manualteasertitle">Halte meine Hand | Ein Muslim begleitet Sterbende</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>&nbsp;</p>
+<p>Die Reportage von Mosjkan Ehrari begleitet Hussam und nimmt die sich verändernden Lebensrealitäten in den muslimischen Gemeinden genau unter die Lupe. Kann das Ehrenamt ersetzen, was sonst die Familie übernommen hat?</p>
+<p>&nbsp;</p>
+</div>
+
+
+<time datetime="2016-10-28-T13:20:00" class="manualteaserdatetime">28.10.2016 | 13:20</time></article><article class="manualteaser intermediate count9 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" class="sendeplatz"><img width="184" height="103" alt="Das Erste - Logo" title="Das Erste - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1645398188" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/Das_Erste_Logo_2003.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-28T23:30">Mo 28.11.2016 | 23:30 | Das Erste</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" class="sendeplatz">
+			<span class="manualteasertitle">Was wurde aus der Sowjetunion?</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Filmemacher Artem Demenok erzählt in &quot;Was wurde aus der 
+Sowjetunion?&quot;, ausgehend von den Ereignissen des Jahres 1991, wie es 
+nach dem Zusammenbruch weiterging.
+</p>
+</div>
+
+
+<time datetime="2016-10-28-T10:10:00" class="manualteaserdatetime">28.10.2016 | 10:10</time></article><article class="manualteaser intermediate count10 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/trauer-um-manfred-krug--rbb-zeigt-ihn-noch-einmal-als--liebling-.html" class="sendeplatz"><img width="184" height="103" alt="Manfred Krug als Anwalt Robert Liebling" title="Manfred Krug als Anwalt Robert Liebling" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1116426142" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161027_Liebling_Kreuzberg_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-27T20:15">Do 27.10.2016 | 20:15 | (VPS 20:14) | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/trauer-um-manfred-krug--rbb-zeigt-ihn-noch-einmal-als--liebling-.html" class="sendeplatz">
+			<span class="manualteasertitle">Trauer um Manfred Krug: rbb zeigt ihn noch einmal als &quot;Liebling Kreuzberg&quot; - neuer Programmablauf heute ab 20.15 Uhr</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Neuer Programmablauf am Donnerstagabend (27. Oktober 2016) ab 20.15 Uhr. Ein Porträt des unvergessenen Künstlers auch am Freitagabend (28. Oktober).</p>
+</div>
+
+
+<time datetime="2016-10-27-T16:50:00" class="manualteaserdatetime">27.10.2016 | 16:50</time></article><article class="manualteaser intermediate count11 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/500-jahre-reformation---der-rbb-startet-ins-jubilaeumsjahr.html" class="beitrag"><img width="184" height="103" alt="Luthers Handexemplar einer hebräischen Bibel aus der Staatsbibliothek zu Berlin" title="Luthers Handexemplar einer hebräischen Bibel aus der Staatsbibliothek zu Berlin" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_automaticteaser_1691431910" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/20161027_Gottesdienst_zum_Reformationstag1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/500-jahre-reformation---der-rbb-startet-ins-jubilaeumsjahr.html" class="beitrag">
+			<span class="manualteasertitle">500 Jahre Reformation - Der rbb startet ins Jubiläumsjahr</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der rbb begleitet das Reformationsjubiläum in seinen Programmen: Welche 
+Bedeutung hat die Reformation heute? Warum ist Luther immer noch 
+interessant? Welche Rolle spielt das Ereignis in der Region 
+Berlin-Brandenburg?</p>
+</div>
+
+
+<time datetime="2016-10-27-T15:05:00" class="manualteaserdatetime">27.10.2016 | 15:05</time></article><article class="manualteaser last count12 even layoutstandard doctypeuebersicht" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/presseinformationen-2016.html" class="uebersicht"><img width="184" height="103" alt="rbb Schüssel (Quelle: rbb/Hanna Lippmann)" title="rbb Schüssel (Quelle: rbb/Hanna Lippmann)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_teaserList_manualteaser_870320817" data-src="/content/dam/rbb/rbb/unternehmen/teaser/logos/rbb_schuessel.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- uebersicht -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/presseinformationen-2016.html" class="uebersicht">
+			<span class="manualteasertitle">Presseinformationen 2016</span>
+			
+				<!-- manualteaserdoctype: uebersicht -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Hier finden Sie alle Presseinformationen des Rundfunk Berlin-Brandenburg (rbb) aus dem Jahr 2016.<br>
+</p>
+</div>
+
+
+<time datetime="2016-06-06-T14:03:00" class="manualteaserdatetime">06.06.2016 | 14:03</time></article>
+					
+				</li>
+				
+			
+		  
+		
+		  	
+				<li >
+					
+						<article class="manualteaser first count1 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/jazzfest2016_live_im_kulturradio.html" class="sendeplatz"><img width="184" height="103" alt="Logo Kulturradio (Bild: rbb)" title="Logo Kulturradio (Bild: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_463176596" data-src="/content/dam/rbb/rbb/unternehmen/programm/Kulturradio_Logo_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-05T20:05">Sa 05.11.2016 | 20:05 | Kulturradio</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/jazzfest2016_live_im_kulturradio.html" class="sendeplatz">
+			<span class="manualteasertitle">JazzFest Berlin 2016 live im Kulturradio vom rbb</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der europäische Jazz in all seinen Facetten steht im Zentrum des JazzFest Berlin 2016. Kulturradio vom Rundfunk Berlin-Brandenburg (rbb) überträgt live die Höhepunkte des Programms.</p>
+</div>
+
+
+<time datetime="2016-11-02-T14:00:00" class="manualteaserdatetime">02.11.2016 | 14:00</time></article><article class="manualteaser intermediate count2 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/regionalliga-nordost-live-im-rbb-fernsehen-und-im-livestream--he.html" class="sendeplatz"><img width="184" height="103" alt="Logo rbb Sportplatz (Bild: rbb)" title="Logo rbb Sportplatz (Bild: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1504859734" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/1_rbb_Sportplatz_Logo_2013.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-06T14:00">So 06.11.2016 | 14:00 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/regionalliga-nordost-live-im-rbb-fernsehen-und-im-livestream--he.html" class="sendeplatz">
+			<span class="manualteasertitle">Regionalliga Nordost live im rbb Fernsehen und im Livestream: Hertha BSC II - FC Energie Cottbus und SV Babelsberg 03 - BFC Dynamo</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Am Sonntag, 6. November 2016, überträgt das rbb Fernsehen live das Fußballspiel Hertha BSC II gegen FC Energie Cottbus. Zusätzlich übertragen der Sportplatz und rbb|24 das Spiel SV Babelsberg 03 gegen BFC Dynamo ab 14.00 Uhr online.</p>
+</div>
+
+
+<time datetime="2016-11-02-T10:15:00" class="manualteaserdatetime">02.11.2016 | 10:15</time></article><article class="manualteaser intermediate count3 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161102-klartext.html" class="sendeplatz"><img width="184" height="103" alt="KLARTEXT - Logo" title="KLARTEXT - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1744760526" data-src="/content/dam/rbb/rbb/fernsehen/klartext/klartext_1280x720.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-02T22:15">Mi 02.11.2016 | 22:15 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161102-klartext.html" class="sendeplatz">
+			<span class="manualteasertitle">KLARTEXT</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Themen u. a.: Medikamente als Bückware</p>
+</div>
+
+
+<time datetime="2016-11-01-T11:20:00" class="manualteaserdatetime">01.11.2016 | 11:20</time></article><article class="manualteaser intermediate count4 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz"><img width="184" height="103" alt="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" title="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1123529850" data-src="/content/dam/rbb/rbb/fernsehen/dokus_reportagen/titel_mit_m/Mit-der-U-Bahn-um-die-Welt/anni_u_bahn_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-05T18:32">Sa 05.11.2016 | 18:32 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz">
+			<span class="manualteasertitle">Mit der U-Bahn um die Welt</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>rbb-Moderatorin Anni Dunkelmann besucht mit der U-Bahn Syrien, Mexiko, Irland, Frankreich, Thailand und Nigeria - und bleibt doch in Berlin.</p>
+</div>
+
+
+<time datetime="2016-11-01-T10:51:00" class="manualteaserdatetime">01.11.2016 | 10:51</time></article><article class="manualteaser intermediate count5 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" class="sendeplatz"><img width="184" height="103" alt="Plakat &quot;Genial - Die erfinderische ARD-Kinderradionacht&quot;" title="Plakat &quot;Genial - Die erfinderische ARD-Kinderradionacht&quot;" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_319431759" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161125_ARD_Kinderradionacht_Abgefahren_2016_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- sendeplatz --><time class="onAirInfo" datetime="2016-11-25T20:05">Fr 25.11.2016 | 20:05</time>
+	
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" class="sendeplatz"><span class="manualteaserroofline">radioBerlin 88,8</span><span class="hideme"> - </span>
+			<span class="manualteasertitle">&quot;Abgefahren! Die ARD-Kinderradionacht auf Zeitreise&quot;</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Die Radionacht ist eine ARD-Gemeinschaftssendung. Fünf Stunden lang sendet radioBerlin 88,8 Hörspiele, Geschichten, Interviews und Reportagen.</p>
+</div>
+
+
+<time datetime="2016-10-31-T10:45:00" class="manualteaserdatetime">31.10.2016 | 10:45</time></article><article class="manualteaser intermediate count6 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" class="sendeplatz"><img width="184" height="103" alt="Hussam Khoder ist der erste deutsch-arabische ehrenamtliche Sterbebegleiter in Berlin." title="Hussam Khoder ist der erste deutsch-arabische ehrenamtliche Sterbebegleiter in Berlin." id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_2088985122" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161113Halte_meine_Hand_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-27T17:30">So 27.11.2016 | 17:30 | Das Erste</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" class="sendeplatz">
+			<span class="manualteasertitle">Halte meine Hand | Ein Muslim begleitet Sterbende</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>&nbsp;</p>
+<p>Die Reportage von Mosjkan Ehrari begleitet Hussam und nimmt die sich verändernden Lebensrealitäten in den muslimischen Gemeinden genau unter die Lupe. Kann das Ehrenamt ersetzen, was sonst die Familie übernommen hat?</p>
+<p>&nbsp;</p>
+</div>
+
+
+<time datetime="2016-10-28-T13:20:00" class="manualteaserdatetime">28.10.2016 | 13:20</time></article><article class="manualteaser intermediate count7 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" class="sendeplatz"><img width="184" height="103" alt="Das Erste - Logo" title="Das Erste - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1645398188" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/Das_Erste_Logo_2003.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-28T23:30">Mo 28.11.2016 | 23:30 | Das Erste</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" class="sendeplatz">
+			<span class="manualteasertitle">Was wurde aus der Sowjetunion?</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Filmemacher Artem Demenok erzählt in &quot;Was wurde aus der 
+Sowjetunion?&quot;, ausgehend von den Ereignissen des Jahres 1991, wie es 
+nach dem Zusammenbruch weiterging.
+</p>
+</div>
+
+
+<time datetime="2016-10-28-T10:10:00" class="manualteaserdatetime">28.10.2016 | 10:10</time></article><article class="manualteaser intermediate count8 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/trauer-um-manfred-krug--rbb-zeigt-ihn-noch-einmal-als--liebling-.html" class="sendeplatz"><img width="184" height="103" alt="Manfred Krug als Anwalt Robert Liebling" title="Manfred Krug als Anwalt Robert Liebling" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1116426142" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161027_Liebling_Kreuzberg_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-27T20:15">Do 27.10.2016 | 20:15 | (VPS 20:14) | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/trauer-um-manfred-krug--rbb-zeigt-ihn-noch-einmal-als--liebling-.html" class="sendeplatz">
+			<span class="manualteasertitle">Trauer um Manfred Krug: rbb zeigt ihn noch einmal als &quot;Liebling Kreuzberg&quot; - neuer Programmablauf heute ab 20.15 Uhr</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Neuer Programmablauf am Donnerstagabend (27. Oktober 2016) ab 20.15 Uhr. Ein Porträt des unvergessenen Künstlers auch am Freitagabend (28. Oktober).</p>
+</div>
+
+
+<time datetime="2016-10-27-T16:50:00" class="manualteaserdatetime">27.10.2016 | 16:50</time></article><article class="manualteaser intermediate count9 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/spitzenspiel-in-der-regionalliga-nordost--fc-energie-cottbus-geg.html" class="sendeplatz"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1182405763" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/1_rbb_Sportplatz_Logo_2013.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-29T14:00">Sa 29.10.2016 | 14:00 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/spitzenspiel-in-der-regionalliga-nordost--fc-energie-cottbus-geg.html" class="sendeplatz">
+			<span class="manualteasertitle">Spitzenspiel in der Regionalliga Nordost: FC Energie Cottbus gegen Berliner AK 07 live im rbb Fernsehen</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Am Samstag, 29. Oktober 2016, überträgt das rbb Fernsehen ab 14.00 Uhr das Fußballspiel FC Energie Cottbus gegen den Berliner AK 07.&nbsp;</p>
+</div>
+
+
+<time datetime="2016-10-27-T14:33:00" class="manualteaserdatetime">27.10.2016 | 14:33</time></article><article class="manualteaser intermediate count10 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/12/-nuhr-gefragt---die-pro---contra-comedy--mit-dieter-nuhr.html" class="sendeplatz"><img width="184" height="103" alt="Moderator Dieter Nuhr (Mitte) mit den Gästen v.l.n.r. Guido Cantz, Olaf Schubert, Monika Gruber und Torsten Sträter." title="Moderator Dieter Nuhr (Mitte) mit den Gästen v.l.n.r. Guido Cantz, Olaf Schubert, Monika Gruber und Torsten Sträter." id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1255811084" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161204_nuhr_gefragt_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-12-04T23:00">So 04.12.2016 | 23:00 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/12/-nuhr-gefragt---die-pro---contra-comedy--mit-dieter-nuhr.html" class="sendeplatz">
+			<span class="manualteasertitle">&quot;nuhr gefragt - Die Pro &amp; Contra-Comedy&quot; mit Dieter Nuhr</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>&quot;Die Pro &amp; Contra-Comedy“ mit Dieter Nuhr startet am 4. Dezember im rbb Fernsehen. TOP-Comedians klären Fragen wie: Soll man einen Seitensprung beichten?</p>
+</div>
+
+
+<time datetime="2016-10-26-T13:38:00" class="manualteaserdatetime">26.10.2016 | 13:38</time></article><article class="manualteaser intermediate count11 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/20161027-kontraste-themen.html" class="sendeplatz"><img width="184" height="103" alt="Kontraste - Logo" title="Kontraste - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_433758743" data-src="/content/dam/rbb/rbb/unternehmen/presse/migration/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/logos_sendungen/kontraste_logo_2005_512_288.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-27T21:45">Do 27.10.2016 | 21:45 | Das Erste</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/20161027-kontraste-themen.html" class="sendeplatz">
+			<span class="manualteasertitle">Kontraste</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Thema u. a.: Scheinheilige Versprechen: Wer zahlt die Zeche beim Kaiser's-Tengelmann-Deal?</p>
+</div>
+
+
+<time datetime="2016-10-26-T12:15:00" class="manualteaserdatetime">26.10.2016 | 12:15</time></article><article class="manualteaser intermediate count12 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-kopftuch-und-diplom---muslimas-streiten-fuer-ihren-glauben.html" class="sendeplatz"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_791039008" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161113_Mit_Kopftuch_und_Diplom_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-13T17:30">So 13.11.2016 | 17:30 | Das Erste</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-kopftuch-und-diplom---muslimas-streiten-fuer-ihren-glauben.html" class="sendeplatz">
+			<span class="manualteasertitle">Mit Kopftuch und Diplom | Muslimas streiten für ihren Glauben</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Im Film von Margarethe Steinhausen trifft Dina El Omari streitbare Frauen.</p>
+</div>
+
+
+<time datetime="2016-10-26-T12:08:00" class="manualteaserdatetime">26.10.2016 | 12:08</time></article><article class="manualteaser intermediate count13 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/die-stimme-amerikas---us-musik-in-der-ddr.html" class="sendeplatz"><img width="184" height="103" alt="Nahaufnahme Etta Cameron (Bild: rbb/Hannes Zerbe)" title="Nahaufnahme Etta Cameron (Bild: rbb/Hannes Zerbe)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_834794357" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161108_die_stimme_amerikas_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-08T20:15">Di 08.11.2016 | 20:15 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/die-stimme-amerikas---us-musik-in-der-ddr.html" class="sendeplatz">
+			<span class="manualteasertitle">Die Stimme Amerikas - US-Musik in der DDR</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Film zeigt, wie amerikanische Musik nach 1945 zwischen die Fronten des Kalten Krieges gerät. Heftige Debatten entzünden sich am Jazz, er wird lange Jahre als &quot;Sirenengesang des Klassenfeinds&quot; verteufelt. Die Stimme des fortschrittlichen, anderen Amerika entdeckt die Propaganda hingegen in schwarzen Volksliedtraditionen.</p>
+</div>
+
+
+<time datetime="2016-10-25-T11:27:00" class="manualteaserdatetime">25.10.2016 | 11:27</time></article><article class="manualteaser intermediate count14 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/rbb-beschaeftigt-roboter-zur-themenwoche.html" class="beitrag"><img width="184" height="103" alt="yolandi im Abendschau-Studio (rbb/Gundula Krause)" title="yolandi im Abendschau-Studio (rbb/Gundula Krause)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_690387294" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/dsc_1276.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/rbb-beschaeftigt-roboter-zur-themenwoche.html" class="beitrag">
+			<span class="manualteasertitle">rbb beschäftigt Roboter zur Themenwoche</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Wie die &quot;Zukunft der Arbeit&quot; konkret aussehen könnte, erprobt der Rundfunk Berlin-Brandenburg (rbb) zur ARD-Themenwoche mit dem Roboter yolandi. Eine Woche lang, vom 30. Oktober bis 5. November 2016, übernimmt der Roboter Arbeiten im rbb.&nbsp;</p>
+</div>
+
+
+<time datetime="2016-10-24-T12:45:00" class="manualteaserdatetime">24.10.2016 | 12:45</time></article><article class="manualteaser intermediate count15 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/goldene-henne-2016-.html" class="sendeplatz"><img width="184" height="103" alt="Moderator der Goldenen Henne 2016 Kai Pflaume Foto: MDR/Daniela Höhn" title="Moderator der Goldenen Henne 2016 Kai Pflaume Foto: MDR/Daniela Höhn" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1625758082" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161028_goldene_henne_vorlage_kp_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-28T20:15">Fr 28.10.2016 | 20:15 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/goldene-henne-2016-.html" class="sendeplatz"><span class="manualteaserroofline">Aktualisierte Fassung!</span><span class="hideme"> - </span>
+			<span class="manualteasertitle">&quot;Goldene Henne 2016&quot; - Deutschlands größter Publikumspreis</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Kai Pflaume bringt die &quot;Goldene Henne&quot; zum zweiten Mal in die sächsische
+ Metropole und moderiert die große Unterhaltungsshow live aus der Messe 
+Leipzig, präsentiert von der Zeitschrift SUPERillu sowie den 
+Fernsehsendern MDR und rbb.</p>
+</div>
+
+
+<time datetime="2016-10-24-T11:19:00" class="manualteaserdatetime">24.10.2016 | 11:19</time></article><article class="manualteaser intermediate count16 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/suche-mitte--finde-stadtrand.html" class="beitrag"><img width="184" height="103" alt="Logo rbb24" title="Logo rbb24" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_952451752" data-src="/content/dam/rbb/ach/logos/rbb24_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/suche-mitte--finde-stadtrand.html" class="beitrag">
+			<span class="manualteasertitle">Suche Mitte, finde Stadtrand - rbb analysiert Berliner Mieterwanderung</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Rundfunk Berlin Brandenburg hat Umzugsbewegungen, Mieten und Einkommen der zurückliegenden zehn Jahre für alle Berliner Bezirke analysiert. Die exklusive Datensammlung steht ab Sonntagmittag, 9.10., 12 Uhr auf rbb24.de.</p>
+</div>
+
+
+<time datetime="2016-10-21-T11:30:00" class="manualteaserdatetime">21.10.2016 | 11:30</time></article><article class="manualteaser intermediate count17 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/fuechse---co----wildtiere-in-der-stadt.html" class="sendeplatz"><img width="184" height="103" alt="Wildschweine mitten unter uns am Berliner Flughafensee" title="Wildschweine mitten unter uns am Berliner Flughafensee" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1009891673" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161118_Fuechse_und_Co_Wildtiere_in_der_Stadt_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-11-18T20:15">Fr 18.11.2016 | 20:15 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/fuechse---co----wildtiere-in-der-stadt.html" class="sendeplatz">
+			<span class="manualteasertitle">Füchse &amp; Co. | Wildtiere in der Stadt</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Wildnis direkt vor der Haustür: Über 13.000 Wildtiere leben in Berlin. <br>
+Moderator Sascha Hingst ist den wilden Nachbarn in Berlin und Brandenburg auf der Spur.</p>
+</div>
+
+
+<time datetime="2016-10-18-T11:05:00" class="manualteaserdatetime">18.10.2016 | 11:05</time></article><article class="manualteaser intermediate count18 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/regionalliga-nordost-live-im-rbb-fernsehen--sv-babelsberg-03-geg.html" class="sendeplatz"><img width="184" height="103" alt="Logo rbb Sportplatz" title="Logo rbb Sportplatz" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_498800233" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/1_rbb_Sportplatz_Logo_2013.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-23T14:00">So 23.10.2016 | 14:00 | rbb Fernsehen</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/regionalliga-nordost-live-im-rbb-fernsehen--sv-babelsberg-03-geg.html" class="sendeplatz">
+			<span class="manualteasertitle">Regionalliga Nordost live im rbb Fernsehen: SV Babelsberg 03 gegen FC Viktoria 1889 Berlin</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Am Sonntag, 23. Oktober 2016, überträgt das rbb Fernsehen ab 14.00 Uhr das Fußballspiel SV Babelsberg 03 gegen FC Viktoria 1889 Berlin.</p>
+</div>
+
+
+<time datetime="2016-10-18-T09:50:00" class="manualteaserdatetime">18.10.2016 | 09:50</time></article><article class="manualteaser intermediate count19 odd layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/-wohin-steuert-die-energieregion-lausitz--.html" class="sendeplatz"><img width="184" height="103" alt="Antenne Brandenburg Logo" title="Antenne Brandenburg Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_238316949" data-src="/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/Antenne_Brandenburg_Logo.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-11T19:00">Di 11.10.2016 | 19:00 | Antenne Brandenburg</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/-wohin-steuert-die-energieregion-lausitz--.html" class="sendeplatz">
+			<span class="manualteasertitle">&quot;Wohin steuert die Energieregion Lausitz?&quot;</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Darüber diskutieren am &quot;Antenne-Stammtisch&quot; die rbb-Moderatoren Anne Holzschuh und Andreas Rausch mit interessanten Gästen.</p>
+</div>
+
+
+<time datetime="2016-10-10-T12:15:00" class="manualteaserdatetime">10.10.2016 | 12:15</time></article><article class="manualteaser last count20 even layoutstandard doctypesendeplatz" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/100-tage-im-amt---rbb-intendantin-patricia-schlesinger-im-antenn.html" class="sendeplatz"><img width="184" height="103" alt="Patricia Schlesinger, Intendantin des rbb (Quelle: rbb/Thorsten Klapsch)" title="Patricia Schlesinger, Intendantin des rbb (Quelle: rbb/Thorsten Klapsch)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_0_teaserList_automaticteaser_0_1411227961" data-src="/content/dam/rbb/rbb/unternehmen/teaser/personen/160630_4_Patricia_Schlesinger_2016_V.jpg.jpg/size=184x103.jpg" /></a></div>
+<time class="onAirInfo" datetime="2016-10-10T21:00">Mo 10.10.2016 | 21:00 | Antenne Brandenburg</time>
+		
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/100-tage-im-amt---rbb-intendantin-patricia-schlesinger-im-antenn.html" class="sendeplatz">
+			<span class="manualteasertitle">100 Tage im Amt - rbb-Intendantin Patricia Schlesinger im Antenne-Gespräch</span>
+			
+				<!-- manualteaserdoctype: sendeplatz -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>100 Tage im Amt - rbb-Intendantin Patricia Schlesinger</p>
+</div>
+
+
+<time datetime="2016-10-10-T12:05:00" class="manualteaserdatetime">10.10.2016 | 12:05</time></article>
+					
+				</li>
+				
+			
+		  
+		
+		  	
+				<li >
+					
+						<article class="manualteaser first count1 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/20161102-sandmann-im-internet-bald-mit-gebaerden-dolmetscher-unt.html" class="beitrag"><img width="184" height="103" alt="Unser Sandmännchen" title="Unser Sandmännchen" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_1703547732" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/20161102_Sandmann_gebaerden1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/20161102-sandmann-im-internet-bald-mit-gebaerden-dolmetscher-unt.html" class="beitrag">
+			<span class="manualteasertitle">Sandmann im Internet bald mit Gebärden-Dolmetscher unterwegs</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>2017 übersetzen Gebärden-Dolmetscher die über das Internet verbreiteten Folgen der Sendung.&nbsp;</p>
+</div>
+
+
+<time datetime="2016-11-02-T14:06:00" class="manualteaserdatetime">02.11.2016 | 14:06</time></article><article class="manualteaser intermediate count2 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/20161031-land-berlin-und-rbb-vergeben-gemeinsam-jazzpreis-berlin.html" class="beitrag"><img width="184" height="103" alt="Kulturradio - Logo" title="Kulturradio - Logo" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_1474603828" data-src="/content/dam/rbb/rbb/unternehmen/presse/migration/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/logos_sendungen/kulturradio_logo_512_288.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/20161031-land-berlin-und-rbb-vergeben-gemeinsam-jazzpreis-berlin.html" class="beitrag">
+			<span class="manualteasertitle">Land Berlin und rbb vergeben gemeinsam Jazzpreis Berlin</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Das Kulturradio vom Rundfunk Berlin-Brandenburg (rbb) und die 
+Kulturverwaltung des Berliner Senats vergeben von 2017 an gemeinsam den 
+Jazzpreis Berlin. </p>
+</div>
+
+
+<time datetime="2016-10-31-T11:00:00" class="manualteaserdatetime">31.10.2016 | 11:00</time></article><article class="manualteaser intermediate count3 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/500-jahre-reformation---der-rbb-startet-ins-jubilaeumsjahr.html" class="beitrag"><img width="184" height="103" alt="Luthers Handexemplar einer hebräischen Bibel aus der Staatsbibliothek zu Berlin" title="Luthers Handexemplar einer hebräischen Bibel aus der Staatsbibliothek zu Berlin" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_1691431910" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/20161027_Gottesdienst_zum_Reformationstag1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/10/500-jahre-reformation---der-rbb-startet-ins-jubilaeumsjahr.html" class="beitrag">
+			<span class="manualteasertitle">500 Jahre Reformation - Der rbb startet ins Jubiläumsjahr</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der rbb begleitet das Reformationsjubiläum in seinen Programmen: Welche 
+Bedeutung hat die Reformation heute? Warum ist Luther immer noch 
+interessant? Welche Rolle spielt das Ereignis in der Region 
+Berlin-Brandenburg?</p>
+</div>
+
+
+<time datetime="2016-10-27-T15:05:00" class="manualteaserdatetime">27.10.2016 | 15:05</time></article><article class="manualteaser intermediate count4 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/rbb-beschaeftigt-roboter-zur-themenwoche.html" class="beitrag"><img width="184" height="103" alt="yolandi im Abendschau-Studio (rbb/Gundula Krause)" title="yolandi im Abendschau-Studio (rbb/Gundula Krause)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_690387294" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/dsc_1276.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/rbb-beschaeftigt-roboter-zur-themenwoche.html" class="beitrag">
+			<span class="manualteasertitle">rbb beschäftigt Roboter zur Themenwoche</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Wie die &quot;Zukunft der Arbeit&quot; konkret aussehen könnte, erprobt der Rundfunk Berlin-Brandenburg (rbb) zur ARD-Themenwoche mit dem Roboter yolandi. Eine Woche lang, vom 30. Oktober bis 5. November 2016, übernimmt der Roboter Arbeiten im rbb.&nbsp;</p>
+</div>
+
+
+<time datetime="2016-10-24-T12:45:00" class="manualteaserdatetime">24.10.2016 | 12:45</time></article><article class="manualteaser intermediate count5 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/10/suche-mitte--finde-stadtrand.html" class="beitrag"><img width="184" height="103" alt="Logo rbb24" title="Logo rbb24" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_952451752" data-src="/content/dam/rbb/ach/logos/rbb24_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/10/suche-mitte--finde-stadtrand.html" class="beitrag">
+			<span class="manualteasertitle">Suche Mitte, finde Stadtrand - rbb analysiert Berliner Mieterwanderung</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Rundfunk Berlin Brandenburg hat Umzugsbewegungen, Mieten und Einkommen der zurückliegenden zehn Jahre für alle Berliner Bezirke analysiert. Die exklusive Datensammlung steht ab Sonntagmittag, 9.10., 12 Uhr auf rbb24.de.</p>
+</div>
+
+
+<time datetime="2016-10-21-T11:30:00" class="manualteaserdatetime">21.10.2016 | 11:30</time></article><article class="manualteaser intermediate count6 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/derrbbbeim26filmfestivalcottbus.html" class="beitrag"><img width="184" height="103" alt="FilmFestival Cottbus (Bild: rbb)" title="FilmFestival Cottbus (Bild: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_687161941" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/1_Filmfestival_Cottbus_2011.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/11/derrbbbeim26filmfestivalcottbus.html" class="beitrag">
+			<span class="manualteasertitle">Der rbb beim 26. FilmFestival Cottbus</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Vom 8. bis 13. November präsentiert das 26. FilmFestival Cottbus großes Kino, spannende Dokumentationen und cineastische Entdeckungen aus Mittel- und Osteuropa.</p>
+</div>
+
+
+<time datetime="2016-10-13-T11:00:00" class="manualteaserdatetime">13.10.2016 | 11:00</time></article><article class="manualteaser intermediate count7 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/09/umfassende-reform-rbb-fernsehen.html" class="beitrag"><img width="184" height="103" alt="rbb FERNSEHEN - LOGO (Quelle: rbb)" title="rbb FERNSEHEN - LOGO (Quelle: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_1650823991" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/rbb_fernsehen___logo.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/09/umfassende-reform-rbb-fernsehen.html" class="beitrag">
+			<span class="manualteasertitle">rbb beginnt umfassende Reform des Fernsehprogramms - erste neue Sendungen im Frühjahr 2017</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>&quot;Wir schärfen mit neuen Akzenten am Hauptabend unser Profil. Damit können wir auch die Akzeptanz beim Publikum erhöhen und die publizistische Wahrnehmbarkeit des rbb in der Region und in der ARD steigern&quot;, sagte Intendantin Patricia Schlesinger am Donnerstag (29.9.2016).</p>
+</div>
+
+
+<time datetime="2016-09-29-T16:00:00" class="manualteaserdatetime">29.09.2016 | 16:00</time></article><article class="manualteaser intermediate count8 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/09/hauptstadttreff-2016.html" class="beitrag"><img width="184" height="103" alt="ARD-Hauptstadttreff 2016 (Quelle: rbb/Oliver Ziebe)" title="ARD-Hauptstadttreff 2016 (Quelle: rbb/Oliver Ziebe)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_785197449" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/ard_hauptstadttreff_20.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/09/hauptstadttreff-2016.html" class="beitrag">
+			<span class="manualteasertitle">ARD-Hauptstadttreff 2016: 500 Persönlichkeiten aus Politik, Wirtschaft und Medien zu Gast bei der ARD </span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Rund 500 Gäste aus Politik, Kultur, Wirtschaft und Medien folgten am Donnerstag (22.09.2016) der Einladung zum ARD-Hauptstadttreff.</p>
+</div>
+
+
+<time datetime="2016-09-22-T21:00:00" class="manualteaserdatetime">22.09.2016 | 21:00</time></article><article class="manualteaser intermediate count9 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/09/new-music-award-2016-finalisten.html" class="beitrag"><img width="184" height="103" alt="Logo New Music Award 2016" title="Logo New Music Award 2016" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_294292618" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Unternehmen/nma_2016_logo_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/09/new-music-award-2016-finalisten.html" class="beitrag">
+			<span class="manualteasertitle">Die Finalisten des New Music Award 2016</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Auf geht's nach Berlin – die Finalisten für den New Music Award 2016 stehen fest: Ansa Sauermann, Chefboss, Giant Rooks, Kytes, L’aupaire, Phaenotypen, Teesy, Tiavo und Van Holzen spielen am 9. Dezember in Berlin.</p>
+</div>
+
+
+<time datetime="2016-09-20-T11:55:00" class="manualteaserdatetime">20.09.2016 | 11:55</time></article><article class="manualteaser last count10 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/09/die-abgeordnetenhauswahl-2016-wahlsonntag-im-rbb.html" class="beitrag"><img width="184" height="103" alt="Logo Wahl 2016 Berlin" title="Logo Wahl 2016 Berlin" id="middleColumnList_teaserbox_0_teaserList_teasergroup_1_teaserList_automaticteaser_1965478275" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/201609ab06_wahl_in_den_programmen_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/09/die-abgeordnetenhauswahl-2016-wahlsonntag-im-rbb.html" class="beitrag">
+			<span class="manualteasertitle">Abgeordnetenhauswahl 2016: der Wahlsonntag im rbb Fernsehen</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Rundfunk Berlin-Brandenburg (rbb) berichtet umfassend und multimedial am 18. September 2016.</p>
+</div>
+
+
+<time datetime="2016-09-16-T10:10:00" class="manualteaserdatetime">16.09.2016 | 10:10</time></article>
+					
+				</li>
+				
+			
+		  
+		
+		  	
+				<li >
+					
+						<article class="manualteaser first count1 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/gremien/2016/20160630_resolution_rundfunkrat.html" class="beitrag"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_0_teaserList_teasergroup_2_teaserList_automaticteaser_1319361698" data-src="/content/dam/rbb/rbb/unternehmen/organisation/gremien/rundfunkrat_2007/aktuell/rundfunkrat___logo.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/gremien/2016/20160630_resolution_rundfunkrat.html" class="beitrag">
+			<span class="manualteasertitle">rbb-Rundfunkrat gegen Absenkung des Rundfunkbeitrags</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Rundfunkrat des Rundfunk Berlin-Brandenburg (rbb) spricht sich in einer Resolution einstimmig für einen stabilen Rundfunkbeitrag aus. Die Kommission zur Ermittlung des Finanzbedarfs der Rundfunkanstalten (KEF) hatte zuvor eine Senkung vorgeschlagen.</p>
+</div>
+
+
+<time datetime="2016-06-30-T17:15:00" class="manualteaserdatetime">30.06.2016 | 17:15</time></article><article class="manualteaser intermediate count2 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/gremien/2016/20160330_neue_entsendung_rundfunkrat_rbb_birgit_hein.html" class="beitrag"><img width="184" height="103" alt="Prof. Dr. Birgit Hein (Bild: rbb/Oliver Ziebe)" title="Prof. Dr. Birgit Hein (Bild: rbb/Oliver Ziebe)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_2_teaserList_automaticteaser_2077071110" data-src="/content/dam/rbb/rbb/unternehmen/presse/migration/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/presseinformationen/2016/20160408_Birgit_Hein_288.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/gremien/2016/20160330_neue_entsendung_rundfunkrat_rbb_birgit_hein.html" class="beitrag">
+			<span class="manualteasertitle">Neue Entsendung in den Rundfunkrat des rbb </span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Die Akademie der Künste entsendet die Filmemacherin Prof. Dr. Birgit Hein (73) als Nachfolgerin von Prof. Mathias Spahlinger (71) in den Rundfunkrat des Rundfunk Berlin-Brandenburg (rbb).</p>
+</div>
+
+
+<time datetime="2016-04-08-T11:58:00" class="manualteaserdatetime">08.04.2016 | 11:58</time></article><article class="manualteaser intermediate count3 odd layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/unternehmen/2016/04/20160407_patricia_schlesinger_wird_rbb_intendantin.html" class="beitrag"><img width="184" height="103" alt="Patricia Schlesinger nach der Wahl (Bild: rbb/Oliver Ziebe)" title="Patricia Schlesinger nach der Wahl (Bild: rbb/Oliver Ziebe)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_2_teaserList_automaticteaser_1045331124" data-src="/content/dam/rbb/rbb/unternehmen/presse/migration/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/presseinformationen/2016/1_DSC_5865_512.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/unternehmen/2016/04/20160407_patricia_schlesinger_wird_rbb_intendantin.html" class="beitrag">
+			<span class="manualteasertitle">Patricia Schlesinger wird neue Intendantin des Rundfunk Berlin-Brandenburg (rbb)</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext">Die Journalistin und Fernsehmoderatorin Patricia Schlesinger (54) tritt die Nachfolge von Dagmar Reim als Intendantin des Rundfunk Berlin-Brandenburg (rbb) an. Der Rundfunkrat des rbb wählte Schlesinger am Donnerstag (7.4.) mit der erforderlichen Zweidrittelmehrheit. Sie setzte sich gegen den ZDF-Journalisten Theo Koll durch.</div>
+
+
+<time datetime="2016-04-07-T22:20:00" class="manualteaserdatetime">07.04.2016 | 22:20</time></article><article class="manualteaser last count4 even layoutstandard doctypebeitrag" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/gremien/2016/20160205_rundfunkrat_findungskommission_Intendantenwahl.html" class="beitrag"><img width="184" height="103" alt="(Bild: rbb)" title="(Bild: rbb)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_2_teaserList_automaticteaser_572901376" data-src="/content/dam/rbb/rbb/unternehmen/presse/migration/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/logos_sendungen/rundfunkrat_rbb_2012_512_288.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/gremien/2016/20160205_rundfunkrat_findungskommission_Intendantenwahl.html" class="beitrag">
+			<span class="manualteasertitle">rbb-Rundfunkrat setzt Findungskommission zur Intendanten-Wahl ein </span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Auf einer außerordentlichen Sitzung am Freitag (5.2.) beauftragte der Rundfunkrat die Findungskommission, ihm Kandidatinnen oder Kandidaten für die Führungsspitze des rbb vorzuschlagen.</p>
+</div>
+
+
+<time datetime="2016-02-05-T13:30:00" class="manualteaserdatetime">05.02.2016 | 13:30</time></article>
+					
+				</li>
+				
+			
+		  
+		
+		  	
+				<li >
+					
+						<article class="manualteaser first count1 odd layoutstandard doctypetermin" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/cornelia-funke-radioeins-lesung.html" class="termin"><img width="184" height="103" alt="Porträt Cornelia Funke (rbb/Joerg Schwalfenberg)" title="Porträt Cornelia Funke (rbb/Joerg Schwalfenberg)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_3_teaserList_calendarlogic_1417428847" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Veranstaltungen/funke_cornelia_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- termin -->
+
+
+
+<time class="onAirInfo">6. November 2016</time>
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/cornelia-funke-radioeins-lesung.html" class="termin">
+			<span class="manualteasertitle">Radioeins vom rbb holt &quot;Drachenreiter&quot;-Autorin Cornelia Funke am 6. November nach Berlin - Kartenvorverkauf beginnt am 6. September</span>
+			
+				<!-- manualteaserdoctype: termin -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Die Bestsellerautorin stellt gemeinsam mit Hörbuchsprecher Rainer Strecker ihr neues Kinderbuch &quot;Die Feder eines Greifs&quot; vor. Der Kartenverkauf startet am 6. September!</p>
+</div>
+
+
+<time datetime="2016-08-29-T14:41:00" class="manualteaserdatetime">29.08.2016 | 14:41</time></article><article class="manualteaser intermediate count2 even layoutstandard doctypetermin" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/20161107-klassik-lounge-rondeau.html" class="termin"><img width="184" height="103" alt="Publikum im Watergate Club" title="Publikum im Watergate Club" id="middleColumnList_teaserbox_0_teaserList_teasergroup_3_teaserList_calendarlogic_480377703" data-src="/content/dam/rbb/kul/bildergalerie/klassik-lounge/_OZI7022_kl_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- termin -->
+
+
+
+<time class="onAirInfo">7. November 2016</time>
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/20161107-klassik-lounge-rondeau.html" class="termin">
+			<span class="manualteasertitle">Kulturradio Klassik-Lounge mit Jean Rondeau (Cembalo)</span>
+			
+				<!-- manualteaserdoctype: termin -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>im Watergate Club</p>
+</div>
+
+
+<time datetime="2016-10-21-T14:01:00" class="manualteaserdatetime">21.10.2016 | 14:01</time></article><article class="manualteaser intermediate count3 odd layoutstandard doctypetermin" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/kulturradio-kinderkonzert-romeo-und-julia.html" class="termin"><img width="184" height="103" alt="Blick auf die Bühne beim Kulturradio Kinderkonzert im Großen Sendesaal (Quelle: rbb/Oliver Ziebe)" title="Blick auf die Bühne beim Kulturradio Kinderkonzert im Großen Sendesaal (Quelle: rbb/Oliver Ziebe)" id="middleColumnList_teaserbox_0_teaserList_teasergroup_3_teaserList_calendarlogic_1344590628" data-src="/content/dam/rbb/rbb/unternehmen/service/veranstaltungsdienst/kulturradio_kinderkonzerte_2011.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- termin -->
+
+
+
+<time class="onAirInfo">13. November 2016</time>
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/kulturradio-kinderkonzert-romeo-und-julia.html" class="termin">
+			<span class="manualteasertitle">Kulturradio-Kinderkonzert &quot;Romeo und Julia&quot;</span>
+			
+				<!-- manualteaserdoctype: termin -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Starke Töne, große Gefühle: Sergej Prokofjews Ballettmusik &quot;Romeo und Julia&quot; im Kulturradio-Kinderkonzert am 13. November.</p>
+</div>
+
+
+<time datetime="2016-10-21-T11:04:00" class="manualteaserdatetime">21.10.2016 | 11:04</time></article><article class="manualteaser last count4 even layoutstandard doctypetermin" ><div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/radioeins-vom-rbb-holt-ian-mcewan-mit-seinem-neuen-roman--nusssc.html" class="termin"><img width="184" height="103" alt="Ian McEwan" title="Ian McEwan" id="middleColumnList_teaserbox_0_teaserList_teasergroup_3_teaserList_calendarlogic_1774787413" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Veranstaltungen/20161204_Pressebild_IanMcEwan_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- termin -->
+
+
+
+<time class="onAirInfo">4. Dezember 2016</time>
+	<h3>
+		<a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/radioeins-vom-rbb-holt-ian-mcewan-mit-seinem-neuen-roman--nusssc.html" class="termin">
+			<span class="manualteasertitle">Radioeins vom rbb holt Ian McEwan mit seinem neuen Roman &quot;Nussschale&quot; am 4. Dezember nach Berlin</span>
+			
+				<!-- manualteaserdoctype: termin -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der britische Bestsellerautor Ian McEwan kommt am 4. Dezember und stellt seinen neuen Roman vor.</p>
+</div>
+
+
+<time datetime="2016-10-26-T14:50:00" class="manualteaserdatetime">26.10.2016 | 14:50</time></article>
+					
+				</li>
+				
+			
+		  
+		
+	</ul>	
+</section><section class="teaserbox intermediate count4 even layoutnewsticker_date layoutnewsticker doctypeteaser" ><h2 class="boxheadline">Highlights - Was läuft als nächstes im Programm?</h2>
+<a class="rsslink" href="/unternehmen/presse/index.xml/allitems=true/feed=rss/path=middleColumnList%21teaserbox_1.xml">RSS-Feed</a><div class="slider slider_header jsb_ jsb_Slider" role="application" data-jsb='{}'>
+	<span class="skip back" title="Zurück"><span class="ico ico_arrow_wide_left"></span></span>
+	<span class="skip forward" title="Weiter"><span class="ico ico_arrow_wide_right"></span></span> 
+    <div class="wrapper_slider scrollbox">
+    	<ul class="scrollcontent newsticker">
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-03T22:45" class="manualteaserbegin manualteaserdatetime">03.11.2016 <span class="time">| 22:45</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/nuhr-auf-arbeit.html" class="sendeplatz"><img width="184" height="103" alt="Porträt Dieter Nuhr (Bild: rbb/WDR/Herby Sachs)" title="Porträt Dieter Nuhr (Bild: rbb/WDR/Herby Sachs)" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_2139066111" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161103_Dieter_Nuhr_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/nuhr-auf-arbeit.html" class="sendeplatz">
+		Nuhr auf Arbeit
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Von und mit Dieter Nuhr zur Themenwoche &quot;Zukunft der Arbeit&quot;.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-05T18:32" class="manualteaserbegin manualteaserdatetime">05.11.2016 <span class="time">| 18:32</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz"><img width="184" height="103" alt="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" title="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1123529850" data-src="/content/dam/rbb/rbb/fernsehen/dokus_reportagen/titel_mit_m/Mit-der-U-Bahn-um-die-Welt/anni_u_bahn_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz">
+		Mit der U-Bahn um die Welt
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>rbb-Moderatorin Anni Dunkelmann besucht mit der U-Bahn Syrien, Mexiko, Irland, Frankreich, Thailand und Nigeria - und bleibt doch in Berlin.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-05T20:05" class="manualteaserbegin manualteaserdatetime">05.11.2016 <span class="time">| 20:05</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/jazzfest2016_live_im_kulturradio.html" class="sendeplatz"><img width="184" height="103" alt="Logo Kulturradio (Bild: rbb)" title="Logo Kulturradio (Bild: rbb)" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_463176596" data-src="/content/dam/rbb/rbb/unternehmen/programm/Kulturradio_Logo_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/jazzfest2016_live_im_kulturradio.html" class="sendeplatz">
+		JazzFest Berlin 2016 live im Kulturradio vom rbb
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der europäische Jazz in all seinen Facetten steht im Zentrum des JazzFest Berlin 2016. Kulturradio vom Rundfunk Berlin-Brandenburg (rbb) überträgt live die Höhepunkte des Programms.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-06T14:00" class="manualteaserbegin manualteaserdatetime">06.11.2016 <span class="time">| 14:00</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/regionalliga-nordost-live-im-rbb-fernsehen-und-im-livestream--he.html" class="sendeplatz"><img width="184" height="103" alt="Logo rbb Sportplatz (Bild: rbb)" title="Logo rbb Sportplatz (Bild: rbb)" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1504859734" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/1_rbb_Sportplatz_Logo_2013.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/regionalliga-nordost-live-im-rbb-fernsehen-und-im-livestream--he.html" class="sendeplatz">
+		Regionalliga Nordost live im rbb Fernsehen und im Livestream: Hertha BSC II - FC Energie Cottbus und SV Babelsberg 03 - BFC Dynamo
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Am Sonntag, 6. November 2016, überträgt das rbb Fernsehen live das Fußballspiel Hertha BSC II gegen FC Energie Cottbus. Zusätzlich übertragen der Sportplatz und rbb|24 das Spiel SV Babelsberg 03 gegen BFC Dynamo ab 14.00 Uhr online.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-06T17:30" class="manualteaserbegin manualteaserdatetime">06.11.2016 <span class="time">| 17:30</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/dumm-und-faul-.html" class="sendeplatz"><img width="184" height="103" alt="Helen bei der Lerntherapie im Duden Institut" title="Helen bei der Lerntherapie im Duden Institut" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_717839958" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161106_Dumm_und_faul_Legasthenie_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/dumm-und-faul-.html" class="sendeplatz">
+		Dumm und faul? | Mein Kind hat Legasthenie
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Sechs Millionen Legastheniker gibt es in Deutschland, die als Kinder oft gehänselt, für dumm und faul gehalten werden. Die Autorin Petra Cyrus hat Helen und ihre Eltern über einige Wochen begleitet.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-08T20:15" class="manualteaserbegin manualteaserdatetime">08.11.2016 <span class="time">| 20:15</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/die-stimme-amerikas---us-musik-in-der-ddr.html" class="sendeplatz"><img width="184" height="103" alt="Nahaufnahme Etta Cameron (Bild: rbb/Hannes Zerbe)" title="Nahaufnahme Etta Cameron (Bild: rbb/Hannes Zerbe)" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_834794357" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161108_die_stimme_amerikas_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/die-stimme-amerikas---us-musik-in-der-ddr.html" class="sendeplatz">
+		Die Stimme Amerikas - US-Musik in der DDR
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Film zeigt, wie amerikanische Musik nach 1945 zwischen die Fronten des Kalten Krieges gerät. Heftige Debatten entzünden sich am Jazz, er wird lange Jahre als &quot;Sirenengesang des Klassenfeinds&quot; verteufelt. Die Stimme des fortschrittlichen, anderen Amerika entdeckt die Propaganda hingegen in schwarzen Volksliedtraditionen.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-12T18:32" class="manualteaserbegin manualteaserdatetime">12.11.2016 <span class="time">| 18:32</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz"><img width="184" height="103" alt="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" title="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1123529850" data-src="/content/dam/rbb/rbb/fernsehen/dokus_reportagen/titel_mit_m/Mit-der-U-Bahn-um-die-Welt/anni_u_bahn_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz">
+		Mit der U-Bahn um die Welt
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>rbb-Moderatorin Anni Dunkelmann besucht mit der U-Bahn Syrien, Mexiko, Irland, Frankreich, Thailand und Nigeria - und bleibt doch in Berlin.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-13T17:30" class="manualteaserbegin manualteaserdatetime">13.11.2016 <span class="time">| 17:30</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-kopftuch-und-diplom---muslimas-streiten-fuer-ihren-glauben.html" class="sendeplatz"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_791039008" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161113_Mit_Kopftuch_und_Diplom_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-kopftuch-und-diplom---muslimas-streiten-fuer-ihren-glauben.html" class="sendeplatz">
+		Mit Kopftuch und Diplom | Muslimas streiten für ihren Glauben
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Im Film von Margarethe Steinhausen trifft Dina El Omari streitbare Frauen.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-18T20:15" class="manualteaserbegin manualteaserdatetime">18.11.2016 <span class="time">| 20:15</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/fuechse---co----wildtiere-in-der-stadt.html" class="sendeplatz"><img width="184" height="103" alt="Wildschweine mitten unter uns am Berliner Flughafensee" title="Wildschweine mitten unter uns am Berliner Flughafensee" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1009891673" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161118_Fuechse_und_Co_Wildtiere_in_der_Stadt_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/fuechse---co----wildtiere-in-der-stadt.html" class="sendeplatz">
+		Füchse &amp; Co. | Wildtiere in der Stadt
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Wildnis direkt vor der Haustür: Über 13.000 Wildtiere leben in Berlin. <br>
+Moderator Sascha Hingst ist den wilden Nachbarn in Berlin und Brandenburg auf der Spur.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-19T18:32" class="manualteaserbegin manualteaserdatetime">19.11.2016 <span class="time">| 18:32</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz"><img width="184" height="103" alt="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" title="Mit der U-Bahn um die Welt - Anni Dunkelmann mit U-Bahnfahrer in der U-Bahn; Quelle: Fernsehbüro" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1123529850" data-src="/content/dam/rbb/rbb/fernsehen/dokus_reportagen/titel_mit_m/Mit-der-U-Bahn-um-die-Welt/anni_u_bahn_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.html" class="sendeplatz">
+		Mit der U-Bahn um die Welt
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>rbb-Moderatorin Anni Dunkelmann besucht mit der U-Bahn Syrien, Mexiko, Irland, Frankreich, Thailand und Nigeria - und bleibt doch in Berlin.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-25T20:05" class="manualteaserdatetime">25.11.2016 <span class="time">| 20:05</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" class="sendeplatz"><img width="184" height="103" alt="Plakat &quot;Genial - Die erfinderische ARD-Kinderradionacht&quot;" title="Plakat &quot;Genial - Die erfinderische ARD-Kinderradionacht&quot;" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_319431759" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161125_ARD_Kinderradionacht_Abgefahren_2016_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<p class="manualteaserroofline">radioBerlin 88,8&nbsp;</p><!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" class="sendeplatz">
+		&quot;Abgefahren! Die ARD-Kinderradionacht auf Zeitreise&quot;
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Die Radionacht ist eine ARD-Gemeinschaftssendung. Fünf Stunden lang sendet radioBerlin 88,8 Hörspiele, Geschichten, Interviews und Reportagen.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-26T18:00" class="manualteaserbegin manualteaserdatetime">26.11.2016 <span class="time">| 18:00</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/ab-morgen-mach_-ich-voodoo---einblicke-in-eine-missverstandene-r.html" class="sendeplatz"><img width="184" height="103" alt="Joaquin LaHabana Reyes" title="Joaquin LaHabana Reyes" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_983170264" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161126_Ab_morgen_mach_ich_Voodoo_720.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/ab-morgen-mach_-ich-voodoo---einblicke-in-eine-missverstandene-r.html" class="sendeplatz">
+		Ab morgen mach‘ ich Voodoo | Einblicke in eine missverstandene Religion
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Film von Silke Meyer gibt erstmals Einblicke in bisher geheim gehaltene Zeremonien und stellt Priester und Gläubige vor.</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-27T17:30" class="manualteaserbegin manualteaserdatetime">27.11.2016 <span class="time">| 17:30</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" class="sendeplatz"><img width="184" height="103" alt="Hussam Khoder ist der erste deutsch-arabische ehrenamtliche Sterbebegleiter in Berlin." title="Hussam Khoder ist der erste deutsch-arabische ehrenamtliche Sterbebegleiter in Berlin." id="middleColumnList_teaserbox_1_teaserList_calendarlogic_2088985122" data-src="/content/dam/rbb/rbb/unternehmen/programm/20161113Halte_meine_Hand_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" class="sendeplatz">
+		Halte meine Hand | Ein Muslim begleitet Sterbende
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>&nbsp;</p>
+<p>Die Reportage von Mosjkan Ehrari begleitet Hussam und nimmt die sich verändernden Lebensrealitäten in den muslimischen Gemeinden genau unter die Lupe. Kann das Ehrenamt ersetzen, was sonst die Familie übernommen hat?</p>
+<p>&nbsp;</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-11-28T23:30" class="manualteaserbegin manualteaserdatetime">28.11.2016 <span class="time">| 23:30</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" class="sendeplatz"><img width="184" height="103" alt="Das Erste - Logo" title="Das Erste - Logo" id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1645398188" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/Logos/Das_Erste_Logo_2003.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" class="sendeplatz">
+		Was wurde aus der Sowjetunion?
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Filmemacher Artem Demenok erzählt in &quot;Was wurde aus der 
+Sowjetunion?&quot;, ausgehend von den Ereignissen des Jahres 1991, wie es 
+nach dem Zusammenbruch weiterging.
+</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+							<time datetime="2016-12-04T23:00" class="manualteaserbegin manualteaserdatetime">04.12.2016 <span class="time">| 23:00</span></time>
+<div class="manualteaserpicture"><a href="/unternehmen/presse/presseinformationen/programm/2016/12/-nuhr-gefragt---die-pro---contra-comedy--mit-dieter-nuhr.html" class="sendeplatz"><img width="184" height="103" alt="Moderator Dieter Nuhr (Mitte) mit den Gästen v.l.n.r. Guido Cantz, Olaf Schubert, Monika Gruber und Torsten Sträter." title="Moderator Dieter Nuhr (Mitte) mit den Gästen v.l.n.r. Guido Cantz, Olaf Schubert, Monika Gruber und Torsten Sträter." id="middleColumnList_teaserbox_1_teaserList_calendarlogic_1255811084" data-src="/content/dam/rbb/rbb/unternehmen/presse/presseinformationen/2016/Programm/20161204_nuhr_gefragt_1280.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: sendeplatz -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/presseinformationen/programm/2016/12/-nuhr-gefragt---die-pro---contra-comedy--mit-dieter-nuhr.html" class="sendeplatz">
+		&quot;nuhr gefragt - Die Pro &amp; Contra-Comedy&quot; mit Dieter Nuhr
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>&quot;Die Pro &amp; Contra-Comedy“ mit Dieter Nuhr startet am 4. Dezember im rbb Fernsehen. TOP-Comedians klären Fragen wie: Soll man einen Seitensprung beichten?</p>
+</div>
+
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			
+		</ul>
+	</div>
+</div>
+</section>
+	
+<div class="teaserboxgroup intermediate count5 odd layoutstandard layouthalf_2_4" ><section class="teaserbox first last count1 odd layoutstandard doctypeteaser" ><h2 class="boxheadline">immer aktuell</h2>
+<article class="manualteaser first count1 odd layouttopteaser doctypelink" ><div class="manualteaserpicture"><a href="https://twitter.com/presse_rbb" class="link" target="_blank"><img width="470" height="264" alt="Twitter-Logo" title="Twitter-Logo" id="middleColumnList_teaserboxgroup_0_middleColumnList_teaserbox_teaserList_manualteaser_920539962" data-src="/content/dam/rbb/kul/sachen_und_begriffe/twitter_1280.jpg.jpg/size=470x264.jpg" /></a></div>
+<div class="teasercontent"><div class="teasertext"><!-- link -->
+
+
+
+
+	<h3>
+		<a href="https://twitter.com/presse_rbb" class="link" target="_blank">
+			<span class="manualteasertitle">Folgen Sie uns auf Twitter</span>
+			
+				<!-- manualteaserdoctype: link -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Unter <a href="https://twitter.com/presse_rbb" target="_blank">@presse_rbb</a> twittert das Team von Presse &amp; Information des rbb. Unsere Kürzel finden Sie unter <a title="http://rbburl.de/team" href="/unternehmen/presse/team/index.html">Team</a></p>
+</div>
+
+</div></div></article><article class="manualteaser last count2 even layoutstandard doctypebeitrag" ><!-- beitrag -->
+
+
+
+
+	<h3>
+		<a href="/unternehmen/service/korrekturen.html" class="beitrag">
+			<span class="manualteasertitle">Korrekturen</span>
+			
+				<!-- manualteaserdoctype: beitrag -->
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Hier finden Sie Korrekturen zu ausgestrahlten Sendungen des rbb Fernsehens und der rbb Radioprogramme. Für die Fehler entschuldigen wir uns in aller Form.</p>
+</div>
+
+
+</article></section></div>
+
+	
+<div class="teaserboxgroup intermediate count6 even layoutstandard layouthalf_2_4" ><section class="teaserbox first count1 odd layoutstandard doctypeteaser" ><h2 class="boxheadline">Highlights und Veranstaltungen suchen</h2>
+</section>
+			<div class="manualteaser first last count1 odd layoutcalendar doctypeuebersicht" >
+			<div class="jsb_ jsb_CalendarNavigation">
+			<div class="calnavmonth">
+      <ul role="navigation">
+        <li class="previous"><a href="/unternehmen/presse/termine-kalender.htm/$col=2_4/$img_dimensions_banner=middleColumn.topteaser_banner_4_4/$imgdims_nurbild=nurbild_2_4/$imgdims_standardteaser=standardteaser/from=01-10-2016_00-00/isAjax=true/to=01-11-2016_00-00/module=calendar.html" title="letzter Monat">&nbsp;</a></li><li class="current"><a href="/unternehmen/presse/termine-kalender.htm/from=01-11-2016_00-00/to=01-12-2016_00-00.html" title="aktueller Monat">November 2016</a></li>
+        <li class="next"><a href="/unternehmen/presse/termine-kalender.htm/$col=2_4/$img_dimensions_banner=middleColumn.topteaser_banner_4_4/$imgdims_nurbild=nurbild_2_4/$imgdims_standardteaser=standardteaser/from=01-12-2016_00-00/isAjax=true/to=01-01-2017_00-00/module=calendar.html" title="nächster Monat">&nbsp;</a></li></ul>
+	</div>
+    <table class="calendar">
+      <thead>
+        <tr>
+          <th>Mo</th>
+          <th>Di</th>
+          <th>Mi</th>
+          <th>Do</th>
+          <th>Fr</th>
+          <th>Sa</th>
+          <th>So</th>
+        </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td ></td>
+              <td class="past"><span>1</span></td>
+              <td class="past"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161102-klartext.html" title="Mittwoch, 2. November 2016">2</a></td>
+              <td class="active today"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/nuhr-auf-arbeit.html" title="Donnerstag, 3. November 2016">3</a></td>
+              <td class="future"><span>4</span></td>
+              <td class="future"><a href="/unternehmen/presse/termine-kalender.htm/from=05-11-2016_00-00/to=06-11-2016_00-00/type=day.html" title="Samstag, 5. November 2016">5</a></td>
+              <td class="future"><a href="/unternehmen/presse/termine-kalender.htm/from=06-11-2016_00-00/to=07-11-2016_00-00/type=day.html" title="Sonntag, 6. November 2016">6</a></td>
+          </tr>
+          <tr>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/veranstaltungen/2016/20161107-klassik-lounge-rondeau.html" title="Montag, 7. November 2016">7</a></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/die-stimme-amerikas---us-musik-in-der-ddr.html" title="Dienstag, 8. November 2016">8</a></td>
+              <td class="future"><span>9</span></td>
+              <td class="future"><span>10</span></td>
+              <td class="future"><span>11</span></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.htm/from=12-11-2016_00-00/to=13-11-2016_00-00/type=day.html" title="Samstag, 12. November 2016">12</a></td>
+              <td class="future"><a href="/unternehmen/presse/termine-kalender.htm/from=13-11-2016_00-00/to=14-11-2016_00-00/type=day.html" title="Sonntag, 13. November 2016">13</a></td>
+          </tr>
+          <tr>
+              <td class="future"><span>14</span></td>
+              <td class="future"><span>15</span></td>
+              <td class="future"><span>16</span></td>
+              <td class="future"><span>17</span></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/fuechse---co----wildtiere-in-der-stadt.html" title="Freitag, 18. November 2016">18</a></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/mit-der-u-bahn-um-die-welt.htm/from=19-11-2016_00-00/to=20-11-2016_00-00/type=day.html" title="Samstag, 19. November 2016">19</a></td>
+              <td class="future"><span>20</span></td>
+          </tr>
+          <tr>
+              <td class="future"><span>21</span></td>
+              <td class="future"><span>22</span></td>
+              <td class="future"><span>23</span></td>
+              <td class="future"><span>24</span></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161125-abgefahren-die-ard-kinderradionacht.html" title="Freitag, 25. November 2016">25</a></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/ab-morgen-mach_-ich-voodoo---einblicke-in-eine-missverstandene-r.html" title="Samstag, 26. November 2016">26</a></td>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/halte-meine-hand---ein-muslim-begleitet-sterbende.html" title="Sonntag, 27. November 2016">27</a></td>
+          </tr>
+          <tr>
+              <td class="future"><a href="/unternehmen/presse/presseinformationen/programm/2016/11/20161128-was-wurde-aus-der-sowjetunion.html" title="Montag, 28. November 2016">28</a></td>
+              <td class="future"><span>29</span></td>
+              <td class="future"><span>30</span></td>
+              <td ></td>
+              <td ></td>
+              <td ></td>
+              <td ></td>
+          </tr>
+      </tbody>
+    </table>
+	<div class="calnavweek">
+		<ul role="navigation">
+			<li class="previous"><a href="/unternehmen/presse/termine-kalender.htm/from=24-10-2016_00-00/to=31-10-2016_00-00.html" title="letzte Woche">letzte Woche</a></li>
+			<li class="current"><a href="/unternehmen/presse/termine-kalender.htm/from=31-10-2016_00-00/to=07-11-2016_00-00.html" title="diese Woche">diese Woche</a></li>
+			<li class="next"><a href="/unternehmen/presse/termine-kalender.htm/from=07-11-2016_00-00/to=14-11-2016_00-00.html" title="nächste Woche">nächste Woche</a></li></ul>
+	</div>
+			</div>
+			</div><section class="teaserbox last count3 odd layoutstandard doctypeteaser" ><article class="manualteaser first last count1 odd layoutstatistik jsb_ jsb_counter doctypeuebersicht" ><p class="manualteasershorttext">Wussten Sie, dass der rbb</p><ul class="stats_counter"><li class="manualteasertitle">1931</li>
+</ul><p class="manualteasershorttext">Mitarbeiterinnen und Mitarbeiter hat? Weitere Zahlen und Fakten gibt es hier...</p><a href="/unternehmen/der_rbb/zahlenundfakten/index.html" class="uebersicht mehrlink">zum Beitrag</a></article></section></div>
+<section class="teaserbox last count7 odd layoutnewsticker doctypeteaser" ><h2 class="boxheadline">Service</h2>
+<a class="rsslink" href="/unternehmen/presse/index.xml/allitems=true/feed=rss/path=middleColumnList%21teaserbox_3.xml">RSS-Feed</a><div class="slider slider_header jsb_ jsb_Slider" role="application" data-jsb='{}'>
+	<span class="skip back" title="Zurück"><span class="ico ico_arrow_wide_left"></span></span>
+	<span class="skip forward" title="Weiter"><span class="ico ico_arrow_wide_right"></span></span> 
+    <div class="wrapper_slider scrollbox">
+    	<ul class="scrollcontent newsticker">
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="/unternehmen/presse/team/index.html" class="uebersicht"><img width="184" height="103" alt="Platzhalter Gruppe (Quelle: rbb)" title="Platzhalter Gruppe (Quelle: rbb)" id="middleColumnList_teaserbox_3_teaserList_manualteaser_179796680" data-src="/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/Platzhalter%20Gruppe.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: uebersicht -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/team/index.html" class="uebersicht">
+		Team
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Ansprechpartner für Journalistinnen und Journalisten ist die Abteilung Presse &amp; Information des rbb. Sie steht Ihnen gern zu allen Fragen rund um den rbb und seine Programme zur Verfügung.</p>
+</div>
+
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="http://www.ard-foto.de/intern/index.phtml" class="link" target="_blank"><img width="184" height="103" alt="Logo ARD Foto" title="Logo ARD Foto" id="middleColumnList_teaserbox_3_teaserList_manualteaser_1_1306801592" data-src="/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/ardfoto.JPG.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: link -->
+	<h3 class="manualteasertitle">
+		<a href="http://www.ard-foto.de/intern/index.phtml" class="link" target="_blank">
+		ARD Foto
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Honorarfreie und hochauflösende Pressefotos finden Sie bei ARD Foto.<br>
+</p>
+</div>
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="/unternehmen/presse/agb.html" class="beitrag"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_3_teaserList_manualteaser_4_992450556" data-src="/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/rechteklaerung.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: beitrag -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/agb.html" class="beitrag">
+		Allgemeine Geschäftsbedingungen rbb Presseservice
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Hier finden Sie die AGB unseres rbb Presseservice.</p>
+</div>
+
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="/unternehmen/presse/datenschutz.html" class="beitrag"><img width="184" height="103" alt="Symboldbild Datenschutz, rotes Schloss (Bild: rbb)" title="Symboldbild Datenschutz, rotes Schloss (Bild: rbb)" id="middleColumnList_teaserbox_3_teaserList_manualteaser_6_1449352701" data-src="/content/dam/rbb/rbb/unternehmen/presse/datenschutz.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: beitrag -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/datenschutz.html" class="beitrag">
+		Hinweise zum Datenschutz
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Hier können Sie die Hinweise zum Datenschutz unseres rbb Presseservice einsehen.</p>
+</div>
+
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="/unternehmen/presse/rss.html" class="beitrag"><img width="184" height="103" alt="RSS-Feeds" title="RSS-Feeds" id="middleColumnList_teaserbox_3_teaserList_manualteaser_5_1972043986" data-src="/content/dam/rbb/rbb/unternehmen/presse/fotos_weitere/RSS-Feed.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: beitrag -->
+	<h3 class="manualteasertitle">
+		<a href="/unternehmen/presse/rss.html" class="beitrag">
+		RSS-Feeds
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Hier finden Sie eine Übersicht über die RSS-Feeds, die Sie im rbb Presseservice abonnieren können.<br>
+</p>
+</div>
+
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="https://presse.daserste.de" class="link" target="_blank"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_3_teaserList_manualteaser_3_1213158342" data-src="/content/dam/rbb/rbb/unternehmen/spezielle_logos/pressedienst.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: link -->
+	<h3 class="manualteasertitle">
+		<a href="https://presse.daserste.de" class="link" target="_blank">
+		Presseservice Das Erste
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Presseservice von Das Erste und der ARD Presseservice bieten umfangreiche Informationen rund um das Programm, Personalien und medienpolitische Themen.<br>
+</p>
+<p>&nbsp;</p>
+</div>
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="http://www.ard.de/home/intern/ARD_Intern_Startseite/84050/index.html" class="link" target="_blank"><img width="184" height="103" alt="" id="middleColumnList_teaserbox_3_teaserList_manualteaser_2_2100662023" data-src="/content/dam/rbb/rbb/unternehmen/spezielle_logos/wir_sind_eins.JPG.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: link -->
+	<h3 class="manualteasertitle">
+		<a href="http://www.ard.de/home/intern/ARD_Intern_Startseite/84050/index.html" class="link" target="_blank">
+		ARD intern
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Aktuelle ARD-Pressemeldungen, Informationen zur Organisation der ARD sowie zu den Programmangeboten in Fernsehen, Hörfunk und Internet.</p>
+</div>
+
+						
+					
+				</li>
+			<li class="manualteaser">
+					
+					
+						
+						
+						
+						
+						
+						
+						
+							<div class="manualteaserpicture"><a href="/rundfunkrat/startseite/index.html" class="uebersicht" target="_blank"><img width="184" height="103" alt="Fahnen am rbb Radiohaus in Potsdam (Quelle: rbb/Hanna Lippmann)" title="Fahnen am rbb Radiohaus in Potsdam (Quelle: rbb/Hanna Lippmann)" id="middleColumnList_teaserbox_3_teaserList_manualteaser_0_419297911" data-src="/content/dam/rbb/rbb/unternehmen/rbb_Radiohaus_2012_hanna_lippmann.jpg.jpg/size=184x103.jpg" /></a></div>
+<!-- manualteaserdoctype: uebersicht -->
+	<h3 class="manualteasertitle">
+		<a href="/rundfunkrat/startseite/index.html" class="uebersicht" target="_blank">
+		Rundfunkrat
+
+			
+		</a>
+	</h3>
+<div class="manualteasershorttext"><p>Der Rundfunkrat ist das wichtigste Kontrollorgan einer öffentlich-rechtlichen Rundfunkanstalt. &nbsp;</p>
+</div>
+
+
+						
+					
+				</li>
+			
+		</ul>
+	</div>
+</div>
+</section>
+
+
+
+	</div><!-- ende: main -->
+
+
+
+
+	<!--  Lightbox -->
+    <section class="overlay jsb_ jsb_lightbox_view" data-jsb="{}">
+	    <article class="overlaylighbox jsb_ jsb_lightbox" data-jsb="{}">
+	        <span class="ico ico_close" title="Schließen"><!-- Schließen --></span>
+	        <figure class="manualteaserpicture">
+	            <img src="" alt="Bild in groß" />
+	            <figcaption>Bildunterschrift</figcaption>
+	        </figure>
+	    </article>
+	</section>
+<footer id="footer" role="contentinfo">
+    <div class="footer_content jsb_ jsb_toggle toggled">
+        <a class="back_to_top" role="button" href="#top">nach oben</a>
+
+        <h4 class="logo"><a href="http://www.rbb-online.de/">rbb Online</a></h4>
+
+        <a class="footer_expand_link js_toggle" href="#" role="button" aria-controls="footer" title="Footer minimieren/maximieren">Footer minimieren/maximieren</a>
+
+        <ul class="link_list jsb_ jsb_FooterLinks" role="contentinfo">
+        	
+	       	
+        	
+            <li>
+                <h4 class="title"><a href="/index.html" class="uebersicht">rbb-online.de</a></h4>
+
+                <form class="form" action="#"><fieldset>
+                	<label class="hide">rbb-online.de</label>
+                	<select size="1">
+                	<option value="/index.html">rbb|24</option>
+                    <option value="/studiofrankfurt/index.html">Studio Frankfurt</option>
+                    <option value="/fernsehen/index.html">Fernsehen</option>
+                    <option value="/radio/index.html">Radioprogramme</option>
+                    <option value="http://mediathek.rbb-online.de/">Mediathek</option>
+                    <option value="/unternehmen/der_rbb/profil/internet/internet.html">Programmprojekte</option>
+                    
+                    </select>
+                </fieldset></form>
+                <ul>
+                    <li><a href="/index.html" class="uebersicht">rbb|24</a></li>
+                    <li><a href="/studiofrankfurt/index.html" class="uebersicht">Studio Frankfurt</a></li>
+                    <li><a href="/fernsehen/index.html" class="uebersicht">Fernsehen</a></li>
+                    <li><a href="/radio/index.html" class="uebersicht">Radioprogramme</a></li>
+                    <li><a href="http://mediathek.rbb-online.de/" class="verknuepfung">Mediathek</a></li>
+                    <li><a href="/unternehmen/der_rbb/profil/internet/internet.html" class="uebersicht">Programmprojekte</a></li>
+                </ul>
+            </li>
+			
+        	
+            <li>
+                <h4 class="title"><a href="/unternehmen/der_rbb/index.html" class="uebersicht">Der rbb</a></h4>
+
+                <form class="form" action="#"><fieldset>
+                	<label class="hide">Der rbb</label>
+                	<select size="1">
+                	<option value="/unternehmen/der_rbb/index.html">Unternehmen</option>
+                    <option value="/unternehmen/karriere/index.html">Karriere</option>
+                    <option value="/unternehmen/presse/index.html">Presse</option>
+                    <option value="/unternehmen/der_rbb/rundfunkbeitrag/index.html">Rundfunkbeitrag</option>
+                    <option value="/unternehmen/service/service-redaktion/wegbeschreibung.html">Wegbeschreibung / Anfahrt</option>
+                    
+                    </select>
+                </fieldset></form>
+                <ul>
+                    <li><a href="/unternehmen/der_rbb/index.html" class="uebersicht">Unternehmen</a></li>
+                    <li><a href="/unternehmen/karriere/index.html" class="uebersicht">Karriere</a></li>
+                    <li><a href="/unternehmen/presse/index.html" class="uebersicht">Presse</a></li>
+                    <li><a href="/unternehmen/der_rbb/rundfunkbeitrag/index.html" class="uebersicht">Rundfunkbeitrag</a></li>
+                    <li><a href="/unternehmen/service/service-redaktion/wegbeschreibung.html" class="beitrag">Wegbeschreibung / Anfahrt</a></li>
+                </ul>
+            </li>
+			
+        	
+            <li>
+                <h4 class="title"><a href="/unternehmen/service/index.html" class="uebersicht">Service</a></h4>
+
+                <form class="form" action="#"><fieldset>
+                	<label class="hide">Service</label>
+                	<select size="1">
+                	<option value="/fernsehen/frequenzen/frequenzen---rbb-fernsehen.html">Frequenzen - Fernsehen</option>
+                    <option value="/radio/frequenzen/index.html">Frequenzen - Radio</option>
+                    <option value="/unternehmen/service/korrekturen.html">Korrekturen</option>
+                    <option value="/unternehmen/service/mitschnittservice.html">Mitschnittservice</option>
+                    <option value="http://www.rbb-online.de/static/shop/rbb_shop.html">rbb Shop</option>
+                    
+                    </select>
+                </fieldset></form>
+                <ul>
+                    <li><a href="/fernsehen/frequenzen/frequenzen---rbb-fernsehen.html" class="beitrag">Frequenzen - Fernsehen</a></li>
+                    <li><a href="/radio/frequenzen/index.html" class="uebersicht">Frequenzen - Radio</a></li>
+                    <li><a href="/unternehmen/service/korrekturen.html" class="beitrag">Korrekturen</a></li>
+                    <li><a href="/unternehmen/service/mitschnittservice.html" class="beitrag">Mitschnittservice</a></li>
+                    <li><a href="http://www.rbb-online.de/static/shop/rbb_shop.html" class="verknuepfung" target="_blank">rbb Shop</a></li>
+                </ul>
+            </li>
+			
+        	
+            <li>
+                <h4 class="title"><a href="/kontakt/index.html" class="contact">Kontakt</a></h4>
+
+                <form class="form" action="#"><fieldset>
+                	<label class="hide">Kontakt</label>
+                	<select size="1">
+                	<option value="/hilfe/index.html">Hilfe</option>
+                    <option value="/hilfe/copyright_und_datenschutz/index.html">Rechtliche Hinweise</option>
+                    
+                    </select>
+                </fieldset></form>
+                <ul>
+                    <li><a href="/hilfe/index.html" class="beitrag">Hilfe</a></li>
+                    <li><a href="/hilfe/copyright_und_datenschutz/index.html" class="beitrag">Rechtliche Hinweise</a></li>
+                </ul>
+            </li>
+			
+        </ul>
+
+        <a class="ard_logo" href="http://www.ard.de/">ARD.de</a>
+
+        <ul class="logo_list">
+	       	
+            <li class="rbb_fernsehen"><a href="/fernsehen/index.html" class="uebersicht" title="rbb Fernsehen">rbb Fernsehen</a></li>
+            
+            <li class="antenne_brandenburg"><a href="http://www.antennebrandenburg.de/" class="verknuepfung" title="www.antennebrandenburg.de">Antenne Brandenburg</a></li>
+            
+            <li class="radio_berlin"><a href="http://www.radioberlin.de" class="verknuepfung" title="www.radioberlin.de">radioBERLIN 88,8</a></li>
+            
+            <li class="radio_eins"><a href="http://www.radioeins.de" class="verknuepfung" title="www.radioeins.de">radioeins</a></li>
+            
+            <li class="kulturradio"><a href="http://www.kulturradio.de/" class="verknuepfung" title="www.kulturradio.de">kulturradio</a></li>
+            
+            <li class="inforadio"><a href="http://www.inforadio.de/" class="verknuepfung" title="www.inforadio.de">Inforadio</a></li>
+            
+            <li class="fritz"><a href="http://www.fritz.de/" class="verknuepfung" title="www.fritz.de">Fritz</a></li>
+            
+            <li class="funkhaus_europa"><a href="http://www.funkhauseuropa.de/" class="verknuepfung" title="www.funkhauseuropa.de">Funkhaus Europa</a></li>
+            
+        </ul>
+
+		<p class="left"><span class="desktop">© Rundfunk Berlin-Brandenburg</span><span class="mobile">© rbb</span></p>
+		<p class="right"><a href="/impressum/index.html" class="beitrag highlight">Impressum</a> | <a href="/hilfe/copyright_und_datenschutz/datenschutzerklaerung.html" class="beitrag highlight">Datenschutz</a></p>
+    </div>
+</footer>
+
+
+
+	</div>
+
+
+	
+
+
+<script src="/vorlagen/jwplayer/_jcr_content/properties/property_3.js.js"></script>
+
+
+
+
+
+<script  src="/unternehmen/presse/vorlagen/compressor.combined.js/v=5.1.9.1/f=js.js" type="text/javascript"></script>
+
+
+
+
+<!-- Print -->
+
+<script src="/static/rbb/js/jquery.socialshareprivacy.min.js" type="text/javascript"></script>
+
+
+	</body>
+</html>

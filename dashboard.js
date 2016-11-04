@@ -6,6 +6,8 @@ var g_skinConfig;
 var g_countries = {};
 //current country for that radio:
 var g_current_country = null;
+//current url for the radio:
+var g_current_url = "";
 //nearest country:
 var g_last_nearest_country = "";
 //whitenoise active:
@@ -27,12 +29,14 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
     g_skinConfig = skinConfig;
     g_whitenoise = skinConfig.whitenoise;
 
+    document.getElementById("switchStation").volume = 0;
+
     var ajax_requests = [];
 
     //Get bootstrap:
     ajax_requests.push($.getScript("/skins/" + skinConfig.name + "/bootstrap.js"));
     //Get HLS script for HLS stations playback:
-    ajax_requests.push($.getScript("https://cdn.jsdelivr.net/hls.js/latest/hls.js", function () {
+    ajax_requests.push($.getScript("/skins/" + skinConfig.name + "/hls.js", function () {
         g_hls = new Hls();
     }));
     //Get city locations:
@@ -41,37 +45,11 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
     ajax_requests.push($.getScript("/skins/" + skinConfig.name + "/stations/" + skinConfig.stations));
 
     //Check updates:
-    ajax_requests.push($.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
+    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
         if(data.version != version){
             $(".update").show();
         }
-    }));
-    //Get PeerJS dependencies:
-    ajax_requests.push($.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
-        //Set ID for PearJS
-        id = Math.floor(Math.random()*90000) + 10000;
-        peer = new Peer(id, {key: g_skinConfig.peerJSkey});
-        $(".peer-id").html(id);
-
-        //Receive message logic
-        peer.on('connection', function (conn) {
-            conn.on('data', function (data) {
-                var response = JSON.parse(data);
-                console.log(data);
-                if(response.type == "connect"){
-                    //Show connected
-                    console.log("Someone started controlling this player remotely");
-                    $(".remote").show();
-                }
-                if(response.type == "station"){
-                    setRadioStation(response.url, response.country, response.volume);
-                }
-                if(response.type == "favourite"){
-                    setFavouriteStation(response.country, response.name);
-                }
-            });
-        });
-    }));
+    });
 
     $.when.apply($, ajax_requests).done(function(){
         g_loaded = true;
@@ -217,7 +195,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
 
 function setRadioStation(url, country, volume) {
     //Set current listening country for when crossing the border
-
+    g_current_url = url;
     g_current_country = country;
     if(controlRemote){
         if(!conn.open){
@@ -232,12 +210,13 @@ function setRadioStation(url, country, volume) {
         }));
     } else {
         g_whitenoise = false;
-        $("#player").animate({volume: 0}, 750, function() {
+        $("#switchStation").animate({volume: (url == "" ? g_skinConfig.deltaVolume : 1) - g_skinConfig.deltaVolume}, 2500, "linear");
+        $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
-            if(g_hls != null) {
+            if (g_hls != null) {
                 g_hls.detachMedia();
             }
-            if(url.endsWith("m3u8")){
+            if (url.endsWith("m3u8")) {
                 //If HLS, continue here
                 g_hls.attachMedia(document.getElementById("player"));
                 g_hls.on(Hls.Events.MEDIA_ATTACHED, function () {
@@ -247,13 +226,17 @@ function setRadioStation(url, country, volume) {
                 document.getElementById("player").src = url;
                 document.getElementById("player").play();
             }
-            $("#player").animate({volume: 1}, 750, function () {
-                g_whitenoise = g_skinConfig.whitenoise;
-            });
+            setTimeout(function () {
+                $("#switchStation").animate({volume: 0}, 200);
+                $("#player").animate({volume: 1}, 50, function () {
+                    g_whitenoise = g_skinConfig.whitenoise;
+                });
+            }, 2200);
         });
 
         //document.getElementById("player").play();
         setWhitenoise(volume);
+        refreshStations();
     }
 }
 
@@ -294,6 +277,7 @@ function setFavouriteStation(country, name) {
         }));
     } else {
         localStorage.setItem("fav-" + country, name);
+        refreshStations();
         alert("Favourite for " + country.toUpperCase() + " is now " + name);
     }
 }
@@ -307,6 +291,8 @@ function refreshStations() {
         if ($.isEmptyObject(stations[key])) continue;
         //console.log(key);
 
+        //content += "<h1 class='col-xs-12'>" + key.toUpperCase() + "</h1>";
+
         for (var j = 0; j < stations[key].length; j++) {
             //Determine volume:
             var volume = g_countries[key]["whitenoise"];
@@ -315,7 +301,7 @@ function refreshStations() {
                 //TODO: Stop playback when station is out of reach
                 content +=
                     '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
-                    '<a class="thumbnail" href="#/" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                    '<a class="thumbnail ' + ((g_current_url == stations[key][j]['url']) ? "thumbnail-orange" : "") + '" href="#/" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play();">' +
                     '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
@@ -323,7 +309,7 @@ function refreshStations() {
                     key.toUpperCase() +
                     '</div>' +
                     '</a>' +
-                    '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ' +
+                    ((localStorage.getItem("fav-" + key) == stations[key][j]['name']) ? '' : '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ') +
                     '</div>';
             }
         }
