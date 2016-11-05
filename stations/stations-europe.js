@@ -1,16 +1,15 @@
 var stations = {
     "andorra": [
         {
-            name: "RAC 1 89.0 FM",
-            logo: "/skins/local-radio/stations/images/andorra/RAC 1 89.0 FM.jpg",
-            url: "http://streaming3.radiocat.net:80/;",
+            name: "Andorra Difusió RNA",
+            logo: "/skins/local-radio/stations/images/andorra/AndorraDifusió.png",
+            url: "https://cors-anywhere.herokuapp.com/http://194.158.80.31:443/live/rna/playlist.m3u8"
         },
         {
-            name: "RAC 105 FM",
-            logo: "/skins/local-radio/stations/images/andorra/RAC 105 FM.jpg",
-            url: "http://37.59.18.212:8000/;"
+            name: "Andorra Difusió AM",
+            logo: "/skins/local-radio/stations/images/andorra/AndorraDifusió.png",
+            url: "https://cors-anywhere.herokuapp.com/http://194.158.80.31:443/live/am/playlist.m3u8"
         },
-
     ],
     "austria": [
         {
@@ -369,18 +368,23 @@ var stations = {
     "germany-br": [
         {
             name: "Bayern 1",
-            logo: "http://www.br.de/ressourcen/bilder/programmfahne_mit_logo/b1-wellenlogo100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=d7e13",
+            logo: "/skins/local-radio/stations/images/germany-br/Bayern 1.jpg",
             url: "http://br-mp3-bayern1obb-m.akacast.akamaistream.net/7/273/142690/v1/gnl.akacast.akamaistream.net/br_mp3_bayern1obb_m"
         },
         {
             name: "Bayern 2",
-            logo: "http://www.br.de/ressourcen/bilder/programmfahne_mit_logo/b2-wellenlogo100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=019e7",
+            logo: "/skins/local-radio/stations/images/germany-br/Bayern 2.jpg",
             url: "http://br-mp3-bayern2sued-m.akacast.akamaistream.net/7/731/256282/v1/gnl.akacast.akamaistream.net/br_mp3_bayern2sued_m"
         },
         {
             name: "Bayern 3",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bayern3_logo_2015.svg/2000px-Bayern3_logo_2015.svg.png",
+            logo: "/skins/local-radio/stations/images/germany-br/Bayern 3.png",
             url: "http://br-mp3-bayern3-m.akacast.akamaistream.net/7/442/142692/v1/gnl.akacast.akamaistream.net/br_mp3_bayern3_m"
+        },
+        {
+            name: "Antenne Bayern",
+            logo: "/skins/local-radio/stations/images/germany-br/Antenne Bayern.svg",
+            url: "http://mp3channels.webradio.antenne.de:80/antenne"
         },
     ],
     "germany-hr": [
@@ -621,42 +625,42 @@ var stations = {
     "latvia": [
         {
             name: "Latvijas Radio 1",
-            logo: "http://vignette3.wikia.nocookie.net/logopedia/images/b/be/Latvijas_Radio_1.png/revision/latest?cb=20141212000922",
+            logo: "/skins/local-radio/stations/images/latvia/Latvijas Radio 1.png",
             url: "http://lr1mp1.latvijasradio.lv:8012/;"
         },
         {
             name: "Latvijas Radio 2",
-            logo: "http://ww0.latvijasradio.lv/logo/lr_2_liels.jpg",
+            logo: "/skins/local-radio/stations/images/latvia/Latvijas Radio 2.png",
             url: "http://lr2mp1.latvijasradio.lv:8002/;"
         },
         {
             name: "Latvijas Radio 3 Klasika",
-            logo: "http://ww0.latvijasradio.lv/logo/lr_3_liels.jpg",
+            logo: "/skins/local-radio/stations/images/latvia/Latvijas Radio 3 Klasika.png",
             url: "http://lr3mp0.latvijasradio.lv:8004/;"
         },
         {
             name: "Latvijas Radio 4 Домская Площадь",
-            logo: "http://ww0.latvijasradio.lv/logo/lr_4_liels.jpg",
+            logo: "/skins/local-radio/stations/images/latvia/Latvijas Radio 4 Домская Площадь.png",
             url: "http://lr4mp1.latvijasradio.lv:8020/;"
         },
         {
             name: "European Hit Radio",
-            logo: "https://static-media.streema.com/media/object-images/f9a3489060fe3d9e71924eee7536ab91.jpg",
+            logo: "/skins/local-radio/stations/images/latvia/European Hit Radio.jpg",
             url: "http://stream.europeanhitradio.com:8000/ehr.ogg"
         },
         {
             name: "Radio Skonto",
-            logo: "https://lh6.ggpht.com/yzVwd7vAwgnbPiSxZknu6Hpmqs4iE-8fAaBFgJ06Sd94AKQd114hxtcxm9MczMhrvijJ=w300",
+            logo: "/skins/local-radio/stations/images/latvia/Radio Skonto.png",
             url: "http://skonto.ls.lv:8002/mp3"
         },
         {
             name: "Radio SWH",
-            logo: "http://www.radioswh.lv/wp-content/uploads/logo/swh_logo_tumss_fons.png",
+            logo: "/skins/local-radio/stations/images/latvia/Radio SWH.png",
             url: "http://80.232.162.149:8000/swh96mp3"
         },
         {
             name: "TOPradio",
-            logo: "http://www.topradio.lv/res/topradio_Best.jpg",
+            logo: "/skins/local-radio/stations/images/latvia/TOPradio.jpg",
             url: "http://195.13.200.164:8000/;"
         },
     ],
@@ -751,33 +755,43 @@ var stations = {
     "netherlands": [
         {
             name: "NPO Radio 1",
-            logo: "https://www.mp3streams.nl/images/zenderlogo/radio1.png",
+            logo: "/skins/local-radio/stations/images/netherlands/NPO Radio 1.png",
             url: "http://icecast.omroep.nl/radio1-bb-mp3"
         },
         {
             name: "NPO Radio 2",
-            logo: "https://www.mp3streams.nl/images/zenderlogo/radio2.png",
+            logo: "/skins/local-radio/stations/images/netherlands/NPO Radio 2.png",
             url: "http://icecast.omroep.nl/radio2-bb-mp3"
         },
         {
             name: "3FM",
-            logo: "https://www.paradiso.nl/upload_mm/a/7/0/11643_NPO_RD3FM_Logo_RGB_1200dpi.jpg",
+            logo: "/skins/local-radio/stations/images/netherlands/3FM.jpg",
             url: "http://icecast.omroep.nl/3fm-bb-mp3"
         },
         {
             name: "BNR Nieuwsradio",
-            logo: "https://www.bnr.nl/img/bnr/static/touch-icon-highres.png?v=5b5df2a3",
+            logo: "/skins/local-radio/stations/images/netherlands/BNR Nieuwsradio.png",
             url: "http://icecast-bnr.cdp.triple-it.nl/bnr_aac_32_04",
         },
         {
             name: "Q-Music",
-            logo: "http://i.imgur.com/NFUwo3K.jpg",
+            logo: "/skins/local-radio/stations/images/netherlands/Q-Music.jpg",
             url: "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_32.aac",
         },
         {
             name: "Radio 538",
-            logo: "http://www.radiodigitaal.nl/channelimages/RADIO_538.png",
+            logo: "/skins/local-radio/stations/images/netherlands/Radio 538.png",
             url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
+        },
+        {
+            name: "Sky Radio 101 FM",
+            logo: "/skins/local-radio/stations/images/netherlands/Sky Radio 101 FM.svg",
+            url: "http://8593.live.streamtheworld.com:80/SKYRADIOAAC_SC",
+        },
+        {
+            name: "Slam!",
+            logo: "/skins/local-radio/stations/images/netherlands/Slam!.png",
+            url: "http://vip-icecast.538.lw.triple-it.nl:80/SLAMFM_MP3",
         },
     ],
     "norway": [
@@ -1067,5 +1081,3 @@ stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerlan
 //You could group all German stations into one, but with the current amount of stations the list would become quite long
 //stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
 //    .concat(stations["germany-ndr"]).concat(stations["germany-rbb"]).concat(stations["germany-swr"]).concat(stations["germany-wdr"]);
-
-var JSON_stations = JSON.stringify(stations);

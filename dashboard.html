@@ -22,6 +22,7 @@
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <!--li class="disabled"><a>Currently playing: <span class="current-station"></span></a></li-->
+                    <li><a><input id="volumeControl" class="input-sm input-nav" type="range" name="points" min="0" max="100" style="min-width: 100px" title="Volume"></a></li>
                     <li><a href="#" onclick="setRadioStation('', 'none', 0)">Stop playback</a></li>
                 </ul>
             </div>
@@ -42,10 +43,8 @@
         </div>
         <div class="row">
             <div id="stationsList">
-                <div class="col-xs-6 col-xs-offset-3 thumb">
-                    <a class="thumbnail" href="#">
-                        <div class="well text-center"><img src="/skins/local-radio/content/loading.gif" alt="Loading"></div>
-                    </a>
+                <div class="col-xs-12 text-center">
+                        <img src="/skins/local-radio/content/loading.gif" alt="Loading">
                 </div>
             </div>
         </div>
@@ -55,7 +54,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> points away | Amount of static: <span class="whitenoise-volume"></span> | PeerID: <span class="peer-id"></span> </p>
+                    <p>Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> meters away | Amount of static: <span class="whitenoise-volume"></span> | PeerID: <span class="peer-id"></span> </p>
                     <p class="text-center"><a href="http://koenvh.nl" target="_blank"> <img src="/skins/local-radio/content/koenvh.png" alt="Koenvh"></a></p>
                 </div>
             </div>
@@ -99,25 +98,34 @@
             $(".peer-id").html(id);
 
             //Receive message logic
-            peer.on('connection', function (conn) {
+            peer.on('connection', function (incomingConn) {
+                conn = incomingConn;
                 conn.on('data', function (data) {
-                    var response = JSON.parse(data);
-                    console.log(data);
-                    if(response.type == "connect"){
-                        //Show connected
-                        console.log("Someone started controlling this player remotely");
-                        $(".remote").show();
-                    }
-                    if(response.type == "station"){
-                        setRadioStation(response.url, response.country, response.volume);
-                    }
-                    if(response.type == "favourite"){
-                        setFavouriteStation(response.country, response.name);
-                    }
+                    receiveCommand(data);
                 });
             });
         });
     });
+
+    function receiveCommand(data) {
+        var response = JSON.parse(data);
+        console.log(data);
+        if(response.type == "connect"){
+            //Show connected
+            console.log("Someone started controlling this player remotely");
+            $(".remote").show();
+        }
+        if(response.type == "station"){
+            setRadioStation(response.url, response.country, response.volume);
+        }
+        if(response.type == "favourite"){
+            setFavouriteStation(response.country, response.name);
+        }
+        if(response.type == "volume"){
+            g_volume = response.volume;
+            $("#volumeControl").val(response.volume * 100);
+        }
+    }
 
     function connectPrompt() {
         var peerID = prompt("What's the peer ID?");
@@ -138,8 +146,18 @@
             console.log("Successfully connected");
             controlRemote = true;
             connectedPeerID = peerID;
-            document.getElementById("player").pause();
+            conn.on('data', function (data) {
+                receiveCommand(data);
+            });
+            g_volume = 0;
+
             alert("Successfully connected");
+            /*
+            document.getElementById("player").url = "";
+            document.getElementById("player").pause();
+            document.getElementById("switchStation").url = "";
+            document.getElementById("whitenoise").url = "";
+            */
         });
         conn.on('error', function (err) {
            alert("Something went wrong while connecting: \n" + err);

@@ -12,10 +12,10 @@ var country_properties = {
         relative_radius: 1,
     },
     "belgium-nl": {
-        relative_radius: 1,
+        relative_radius: 0.6,
     },
     "belgium-fr": {
-        relative_radius: 1,
+        relative_radius: 0.6,
     },
     "bosnia": {
         relative_radius: 1,
@@ -108,10 +108,10 @@ var country_properties = {
         relative_radius: 1,
     },
     "moldova": {
-        relative_radius: 1,
+        relative_radius: 0.75,
     },
     "netherlands": {
-        relative_radius: 1,
+        relative_radius: 0.6,
     },
     "nireland": {
         relative_radius: 1,
@@ -135,10 +135,10 @@ var country_properties = {
         relative_radius: 1,
     },
     "slovakia": {
-        relative_radius: 1,
+        relative_radius: 0.8,
     },
     "slovenia": {
-        relative_radius: 1,
+        relative_radius: 0.6,
     },
     "spain": {
         relative_radius: 1,
@@ -147,13 +147,13 @@ var country_properties = {
         relative_radius: 1.1,
     },
     "switzerland": {
-        relative_radius: 1,
+        relative_radius: 0.8,
     },
     "switzerland-de": {
-        relative_radius: 1,
+        relative_radius: 0.8,
     },
     "switzerland-fr": {
-        relative_radius: 1,
+        relative_radius: 0.8,
     },
     "turkey": {
         relative_radius: 1,
@@ -167,6 +167,9 @@ var country_properties = {
 };
 
 var city_properties = {
+    "amsterdam": {
+        relative_radius: 1.4,
+    },
     "are": {
         relative_radius: 0.6,
     },
@@ -175,6 +178,15 @@ var city_properties = {
     },
     "baronovichi": {
         relative_radius: 1.2,
+    },
+    "bayonne": {
+        relative_radius: 0.6,
+    },
+    "bbiala": {
+        relative_radius: 0.7,
+    },
+    "bilbao": {
+        relative_radius: 0.7,
     },
     "burg": {
         relative_radius: 0.5,
@@ -185,14 +197,30 @@ var city_properties = {
     "cherb": {
         relative_radius: 0.4,
     },
+    "cieszyn": {
+        relative_radius: 0.7,
+    },
+    "donostia": {
+        relative_radius: 0.6,
+    },
+    "dover": {
+        relative_radius: 0.33,
+    },
     "flensburg": {
         relative_radius: 0.5,
     },
     "gedser": {
         relative_radius: 0.6,
     },
+    "geneve": {
+        relative_radius: 0.7,
+    },
     "goteborg": {
         relative_radius: 0.5,
+    },
+    "graz": {
+        relative_radius: 0.55,
+        relative_whitenoise: 0.8
     },
     "haapsalu": {
         relative_radius: 0.6,
@@ -203,14 +231,23 @@ var city_properties = {
     "haparanda": {
         relative_radius: 0.25,
     },
+    "havre": {
+        relative_radius: 0.7,
+    },
     "helsingborg": {
         relative_radius: 0.5,
     },
     "helsinki": {
         relative_radius: 0.4,
     },
+    "irun": {
+        relative_radius: 0.6,
+    },
     "jekabpils": {
         relative_radius: 0.85,
+    },
+    "jonquera": {
+        relative_radius: 0.7,
     },
     "kaliningrad": {
         relative_radius: 0.4,
@@ -226,6 +263,9 @@ var city_properties = {
     },
     "kirkenes": {
         relative_radius: 0.6,
+    },
+    "klagenfurt": {
+        relative_radius: 0.4,
     },
     "kolka": {
         relative_radius: 0.4,
@@ -249,13 +289,19 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "limoges": {
-        relative_radius: 1.2,
+        relative_radius: 2,
+    },
+    "linz": {
+        relative_radius: 0.8,
     },
     "luga": {
         relative_radius: 0.5,
     },
     "luki": {
         relative_radius: 0.7,
+    },
+    "manresa": {
+        relative_radius: 0.75,
     },
     "malmo": {
         relative_radius: 0.5,
@@ -281,11 +327,23 @@ var city_properties = {
     "ornskoldsvik": {
         relative_radius: 0.5,
     },
+    "osnabruck": {
+        relative_radius: 0.8,
+    },
     "oulu": {
         relative_radius: 0.6,
     },
     "parnu": {
-        relative_radius: 0.8,
+        relative_radius: 1,
+    },
+    "pau": {
+        relative_radius: 0.7,
+    },
+    "perpignan": {
+        relative_radius: 0.76,
+    },
+    "pinsk": {
+        relative_radius: 1.4,
     },
     "pori": {
         relative_radius: 0.55,
@@ -315,10 +373,16 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "saldus": {
-        relative_radius: 0.76,
+        relative_radius: 0.6,
+    },
+    "southampton": {
+        relative_radius: 0.75,
     },
     "sthelier": {
         relative_radius: 0.2,
+    },
+    "strasbourg": {
+        relative_radius: 0.65,
     },
     "sundsvall": {
         relative_radius: 0.6,
@@ -337,6 +401,9 @@ var city_properties = {
     },
     "tornio": {
         relative_radius: 0.4,
+    },
+    "trieste": {
+        relative_radius: 0.6,
     },
     "trondheim": {
         relative_radius: 0.7,
@@ -364,6 +431,9 @@ var city_properties = {
     },
     "zelenogradsk": {
         relative_radius: 0.37,
+    },
+    "zgorzelec": {
+        relative_radius: 0.65,
     },
 };
 
@@ -3454,12 +3524,28 @@ var cities_wip = [
         "z": "-71472.14"
     },
     {
+        "gameName": "bourges",
+        "realName": "Bourges",
+        "country": "france",
+        "x": "-31951.80",
+        "y": "31.18",
+        "z": "16255.50"
+    },
+    {
         "gameName": "dombas",
         "realName": "Dombås",
         "country": "norway",
         "x": "880.86",
         "y": "9.25",
         "z": "-64641.21"
+    },
+    {
+        "gameName": "clermont",
+        "realName": "Clermont-Ferrand",
+        "country": "france",
+        "x": "-30447.45",
+        "y": "42.00",
+        "z": "24678.44"
     },
     {
         "gameName": "jekabpils",
@@ -3492,6 +3578,38 @@ var cities_wip = [
         "x": "39247.91",
         "y": "20.57",
         "z": "-40718.97"
+    },
+    {
+        "gameName": "larochelle",
+        "realName": "La Rochelle",
+        "country": "france",
+        "x": "-46568.17",
+        "y": "11.78",
+        "z": "19075.63"
+    },
+    {
+        "gameName": "marseille",
+        "realName": "Marseille",
+        "country": "france",
+        "x": "-23472.41",
+        "y": "3.91",
+        "z": "39190.79"
+    },
+    {
+        "gameName": "montpellier",
+        "realName": "Montpellier",
+        "country": "france",
+        "x": "-30052.36",
+        "y": "55.06",
+        "z": "36107.62"
+    },
+    {
+        "gameName": "nice",
+        "realName": "Nice",
+        "country": "france",
+        "x": "-15975.13",
+        "y": "42.04",
+        "z": "37001.34"
     },
     {
         "gameName": "ogre",
@@ -3532,6 +3650,14 @@ var cities_wip = [
         "x": "39740.67",
         "y": "10.14",
         "z": "-33969.27"
+    },
+    {
+        "gameName": "trieste",
+        "realName": "Trieste",
+        "country": "italy",
+        "x": "10213.52",
+        "y": "-6.56",
+        "z": "29184.84"
     },
     {
         "gameName": "trondheim",

@@ -1,13 +1,17 @@
 ﻿//current version:
-var version = "0.2.0";
+var version = "0.3.0";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
 var g_countries = {};
+//stations near you global:
+var g_stations = [];
 //current country for that radio:
 var g_current_country = null;
 //current url for the radio:
 var g_current_url = "";
+//volume for radio:
+var g_volume = 1;
 //nearest country:
 var g_last_nearest_country = "";
 //whitenoise active:
@@ -16,6 +20,8 @@ var g_whitenoise = false;
 var g_hls = null;
 //whether scripts have loaded:
 var g_loaded = false;
+//last command id from desktop received:
+var g_last_command = "0";
 
 Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, utils) {
     //
@@ -50,6 +56,12 @@ Funbit.Ets.Telemetry.Dashboard.prototype.initialize = function (skinConfig, util
             $(".update").show();
         }
     });
+
+    if(localStorage.getItem("volume") == null){
+        localStorage.setItem("volume", 1);
+    }
+    g_volume = localStorage.getItem("volume");
+    $("#volumeControl").val(g_volume * 100);
 
     $.when.apply($, ajax_requests).done(function(){
         g_loaded = true;
@@ -170,6 +182,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                 //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
                 g_last_nearest_country = country_lowest_distance;
 
+
                 //Check if there is a favourite station:
                 var index = 0;
                 if (localStorage.getItem("fav-" + country_lowest_distance) !== null) {
@@ -177,7 +190,12 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                         return e.name;
                     }).indexOf(localStorage.getItem("fav-" + country_lowest_distance));
                 }
-                setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+                if(!controlRemote) {
+                    //If remote player, don't set radio station
+                    setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+                } else {
+                    g_current_url = stations[country_lowest_distance][index]["url"];
+                }
             }
 
             if (Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
@@ -189,6 +207,18 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
                 setWhitenoise(available_countries[g_current_country]["whitenoise"]);
                 g_countries = available_countries;
             }
+            
+            $.getJSON("/skins/" + g_skinConfig.name + "/commands.json").done(function (data) {
+                if(g_last_command != data.id){
+                    g_last_command = data.id;
+                    if(data.action == "stop"){
+                        setRadioStation('', 'none', 0);
+                    }
+                    if(data.action == "next"){
+                        nextStation(data.amount);
+                    }
+                }
+            });
         }
     }
 };
@@ -210,7 +240,7 @@ function setRadioStation(url, country, volume) {
         }));
     } else {
         g_whitenoise = false;
-        $("#switchStation").animate({volume: (url == "" ? g_skinConfig.deltaVolume : 1) - g_skinConfig.deltaVolume}, 2500, "linear");
+        $("#switchStation").animate({volume: (url == "" ? 0 : g_volume)}, 2500, "linear");
         $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
             if (g_hls != null) {
@@ -236,8 +266,8 @@ function setRadioStation(url, country, volume) {
 
         //document.getElementById("player").play();
         setWhitenoise(volume);
-        refreshStations();
     }
+    refreshStations();
 }
 
 function setWhitenoise(volume) {
@@ -245,18 +275,18 @@ function setWhitenoise(volume) {
         //Make new volume work exponentially:
         var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;
-        if(newVolume > (1 - g_skinConfig.deltaVolume)) newVolume = 1 - g_skinConfig.deltaVolume;
-        var playerVolume = 1 - g_skinConfig.deltaVolume;
+        if(newVolume > g_volume) newVolume = g_volume;
+        var playerVolume = g_volume;
         if(newVolume > 0.5){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
             playerVolume = document.getElementById("player").volume + parseFloat(((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2);
-            if(playerVolume > (1 - g_skinConfig.deltaVolume)) playerVolume = 1 - g_skinConfig.deltaVolume;
-            if(playerVolume < 0.1) playerVolume = 0.1;
+            if(playerVolume > g_volume) playerVolume = g_volume;
+            if(playerVolume < 0) playerVolume = 0;
             document.getElementById("player").volume = playerVolume;
         } else {
-            document.getElementById("player").volume = 1 - g_skinConfig.deltaVolume;
+            document.getElementById("player").volume = g_volume;
         }
-        $(".whitenoise-volume").html(newVolume + "; " + playerVolume);
+        $(".whitenoise-volume").html(parseFloat(newVolume).toFixed(2) + "; " + parseFloat(playerVolume).toFixed(2));
         document.getElementById("whitenoise").volume = parseFloat(newVolume);
         document.getElementById("whitenoise").play();
     } else {
@@ -282,40 +312,86 @@ function setFavouriteStation(country, name) {
     }
 }
 
-function refreshStations() {
-    var content = "";
-    for (var key in g_countries) {
-        //Check whether country should be checked:
-        if (!g_countries.hasOwnProperty(key)) continue;
-        if (key == "none") continue;
-        if ($.isEmptyObject(stations[key])) continue;
-        //console.log(key);
-
-        //content += "<h1 class='col-xs-12'>" + key.toUpperCase() + "</h1>";
-
-        for (var j = 0; j < stations[key].length; j++) {
-            //Determine volume:
-            var volume = g_countries[key]["whitenoise"];
-            //Check whether the station distance can reached here:
-            if(typeof stations[key][j]["relative_radius"] === "undefined" || g_countries[key]["distance"] / stations[key][j]["relative_radius"] < g_skinConfig.radius) {
-                //TODO: Stop playback when station is out of reach
-                content +=
-                    '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
-                    '<a class="thumbnail ' + ((g_current_url == stations[key][j]['url']) ? "thumbnail-orange" : "") + '" href="#/" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
-                    ' \'' + key + '\',' +
-                    ' \'' + volume + '\'); document.getElementById(\'player\').play();">' +
-                    '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
-                    '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
-                    key.toUpperCase() +
-                    '</div>' +
-                    '</a>' +
-                    ((localStorage.getItem("fav-" + key) == stations[key][j]['name']) ? '' : '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ') +
-                    '</div>';
-            }
+function nextStation(amount) {
+    var index = -1;
+    for(var i = 0; i < g_stations.length; i++){
+        if(g_stations[i]["url"] == g_current_url){
+            index = i;
+            break;
         }
     }
-    $("#stationsList").html(content);
+    index = index + amount;
+    if(index < 0){
+        index = g_stations.length + index;
+    }
+    while(index >= g_stations.length){
+        index = index - g_stations.length;
+    }
+    setRadioStation(g_stations[index]["url"], g_stations[index]["country"], g_stations[index]["volume"]);
 }
+
+function refreshStations() {
+    if(g_loaded) {
+        var content = "";
+        var available_stations = [];
+        for (var key in g_countries) {
+            //Check whether country should be checked:
+            if (!g_countries.hasOwnProperty(key)) continue;
+            if (key == "none") continue;
+            if ($.isEmptyObject(stations[key])) continue;
+            //console.log(key);
+
+            //content += "<h1 class='col-xs-12'>" + key.toUpperCase() + "</h1>";
+
+            for (var j = 0; j < stations[key].length; j++) {
+                //Determine volume:
+                var volume = g_countries[key]["whitenoise"];
+
+                //Push station to available_stations for use with application
+                available_stations.push({
+                    url: stations[key][j]['url'],
+                    country: key,
+                    volume: volume
+                });
+
+                //Check whether the station distance can reached here:
+                if (typeof stations[key][j]["relative_radius"] === "undefined" || g_countries[key]["distance"] / stations[key][j]["relative_radius"] < g_skinConfig.radius) {
+                    //TODO: Stop playback when station is out of reach
+                    content +=
+                        '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
+                        '<a class="thumbnail ' + ((g_current_url == stations[key][j]['url']) ? "thumbnail-orange" : "") + '" href="#/" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                        ' \'' + key + '\',' +
+                        ' \'' + volume + '\'); document.getElementById(\'player\').play();">' +
+                        '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
+                        '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
+                        key.toUpperCase() +
+                        '</div>' +
+                        '</a>' +
+                        ((localStorage.getItem("fav-" + key) == stations[key][j]['name']) ? '' : '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ') +
+                        '</div>';
+                }
+            }
+        }
+        $("#stationsList").html(content);
+        g_stations = available_stations;
+    }
+}
+
+$('#volumeControl').on("change mousemove", function() {
+    if(controlRemote){
+        if(!conn.open){
+            //If connection closed, reconnect
+            conn = peer.connect(connectedPeerID);
+        }
+        conn.send(JSON.stringify({
+            type: "volume",
+            volume: parseInt($("#volumeControl").val()) / 100
+        }));
+    } else {
+        g_volume = parseInt($("#volumeControl").val()) / 100;
+        localStorage.setItem("volume", g_volume);
+    }
+});
 
 if (!String.prototype.endsWith) {
     String.prototype.endsWith = function(searchString, position) {

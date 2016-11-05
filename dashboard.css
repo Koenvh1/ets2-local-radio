@@ -88,3 +88,7 @@ body {
 .thumbnail-orange:hover {
     color: #f47c3c;
 }
+
+.input-nav {
+    height: 22px !important;
+}
