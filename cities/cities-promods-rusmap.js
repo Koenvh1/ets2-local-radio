@@ -102,7 +102,7 @@ var country_properties = {
         relative_radius: 0.6,
     },
     "luxembourg": {
-        relative_radius: 0.5,
+        relative_radius: 0.6,
     },
     "macedonia": {
         relative_radius: 1,
@@ -114,7 +114,7 @@ var country_properties = {
         relative_radius: 0.6,
     },
     "nireland": {
-        relative_radius: 1,
+        relative_radius: 0.8,
     },
     "norway": {
         relative_radius: 1.1,
@@ -204,7 +204,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "dover": {
-        relative_radius: 0.33,
+        relative_radius: 0.6,
     },
     "flensburg": {
         relative_radius: 0.5,
@@ -282,6 +282,9 @@ var city_properties = {
     "lahti": {
         relative_radius: 0.6,
     },
+    "liege": {
+        relative_radius: 1.2,
+    },
     "liepaja": {
         relative_radius: 0.8,
     },
@@ -320,6 +323,9 @@ var city_properties = {
     },
     "nikel": {
         relative_radius: 0.6,
+    },
+    "odense": {
+        relative_radius: 1.2,
     },
     "oppdal": {
         relative_radius: 0.7,
@@ -434,6 +440,9 @@ var city_properties = {
     },
     "zgorzelec": {
         relative_radius: 0.65,
+    },
+    "zurich": {
+        relative_radius: 1.15,
     },
 };
 
@@ -3524,12 +3533,28 @@ var cities_wip = [
         "z": "-71472.14"
     },
     {
+        "gameName": "belfast",
+        "realName": "Belfast",
+        "country": "nireland",
+        "x": "-59692.36",
+        "y": "34.07",
+        "z": "-41394.61"
+    },
+    {
         "gameName": "bourges",
         "realName": "Bourges",
         "country": "france",
         "x": "-31951.80",
         "y": "31.18",
         "z": "16255.50"
+    },
+    {
+        "gameName": "clermont",
+        "realName": "Clermont-Ferrand",
+        "country": "france",
+        "x": "-30447.45",
+        "y": "42.00",
+        "z": "24678.44"
     },
     {
         "gameName": "dombas",
@@ -3540,12 +3565,20 @@ var cities_wip = [
         "z": "-64641.21"
     },
     {
-        "gameName": "clermont",
-        "realName": "Clermont-Ferrand",
-        "country": "france",
-        "x": "-30447.45",
-        "y": "42.00",
-        "z": "24678.44"
+        "gameName": "dublin",
+        "realName": "Dublin",
+        "country": "ireland",
+        "x": "-63840.33",
+        "y": "32.71",
+        "z": "-31834.84"
+    },
+    {
+        "gameName": "galway",
+        "realName": "Galway",
+        "country": "ireland",
+        "x": "-76553.42",
+        "y": "13.32",
+        "z": "-35578.97"
     },
     {
         "gameName": "jekabpils",
@@ -3586,6 +3619,14 @@ var cities_wip = [
         "x": "-46568.17",
         "y": "11.78",
         "z": "19075.63"
+    },
+    {
+        "gameName": "lisburn",
+        "realName": "Lisburn",
+        "country": "nireland",
+        "x": "-60535.71",
+        "y": "13.40",
+        "z": "-40179.05"
     },
     {
         "gameName": "marseille",

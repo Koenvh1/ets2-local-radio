@@ -590,6 +590,13 @@ var stations = {
             url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
         },
     ],
+    "ireland": [
+        {
+            name: "Placeholder Radio",
+            logo: "http://placehold.it/100x100",
+            url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
+        },
+    ],
     "italy": [
         {
             name: "RAI Radio 1",
@@ -792,6 +799,13 @@ var stations = {
             name: "Slam!",
             logo: "/skins/local-radio/stations/images/netherlands/Slam!.png",
             url: "http://vip-icecast.538.lw.triple-it.nl:80/SLAMFM_MP3",
+        },
+    ],
+    "nireland": [
+        {
+            name: "Placeholder Radio",
+            logo: "http://placehold.it/100x100",
+            url: "http://icecast.omroep.nl/radio1-bb-mp3"
         },
     ],
     "norway": [
