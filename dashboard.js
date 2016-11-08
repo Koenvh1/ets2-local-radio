@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.3.0";
+var version = "0.3.5";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -210,12 +210,17 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
             
             $.getJSON("/skins/" + g_skinConfig.name + "/commands.json").done(function (data) {
                 if(g_last_command != data.id){
+                    console.log(data);
                     g_last_command = data.id;
                     if(data.action == "stop"){
                         setRadioStation('', 'none', 0);
                     }
                     if(data.action == "next"){
                         nextStation(data.amount);
+                    }
+                    if(data.action == "volume"){
+                        $("#volumeControl").val(parseInt($("#volumeControl").val()) + parseInt(data.amount));
+                        g_volume = parseInt($("#volumeControl").val()) / 100;
                     }
                 }
             });
@@ -275,11 +280,12 @@ function setWhitenoise(volume) {
         //Make new volume work exponentially:
         var newVolume =  Math.pow(volume, 2) - 0.15;
         if(newVolume < 0) newVolume = 0;
+        newVolume = newVolume * g_volume;
         if(newVolume > g_volume) newVolume = g_volume;
         var playerVolume = g_volume;
-        if(newVolume > 0.5){
+        if(newVolume > 0.5 * g_volume){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
-            playerVolume = document.getElementById("player").volume + parseFloat(((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2);
+            playerVolume = document.getElementById("player").volume + parseFloat((((Math.floor(Math.random() * 19) / 100) - 0.09) / 1.2) * g_volume);
             if(playerVolume > g_volume) playerVolume = g_volume;
             if(playerVolume < 0) playerVolume = 0;
             document.getElementById("player").volume = playerVolume;

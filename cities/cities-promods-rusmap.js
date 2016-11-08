@@ -1,6 +1,6 @@
 var country_properties = {
     "andorra": {
-        relative_radius: 0.2,
+        relative_radius: 0.4,
     },
     "austria": {
         relative_radius: 1,
@@ -36,7 +36,7 @@ var country_properties = {
         relative_radius: 0.55,
     },
     "estonia": {
-        relative_radius: 0.65,
+        relative_radius: 0.75,
     },
     "faroe": {
         relative_radius: 1,
@@ -159,7 +159,7 @@ var country_properties = {
         relative_radius: 1,
     },
     "uk": {
-        relative_radius: 1,
+        relative_radius: 1.15,
     },
     "ukraine": {
         relative_radius: 1,
@@ -167,6 +167,9 @@ var country_properties = {
 };
 
 var city_properties = {
+    "andorra": {
+        relative_whitenoise: 0.7,
+    },
     "amsterdam": {
         relative_radius: 1.4,
     },
@@ -184,6 +187,9 @@ var city_properties = {
     },
     "bbiala": {
         relative_radius: 0.7,
+    },
+    "bergen": {
+        relative_radius: 1.6,
     },
     "bilbao": {
         relative_radius: 0.7,
@@ -215,6 +221,10 @@ var city_properties = {
     "geneve": {
         relative_radius: 0.7,
     },
+    "gorzow": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.7,
+    },
     "goteborg": {
         relative_radius: 0.5,
     },
@@ -226,7 +236,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "hameenlinna": {
-        relative_radius: 0.6,
+        relative_radius: 0.9,
     },
     "haparanda": {
         relative_radius: 0.25,
@@ -238,7 +248,7 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "helsinki": {
-        relative_radius: 0.4,
+        relative_radius: 0.6,
     },
     "irun": {
         relative_radius: 0.6,
@@ -339,6 +349,9 @@ var city_properties = {
     "oulu": {
         relative_radius: 0.6,
     },
+    "paris": {
+        relative_radius: 1.4,
+    },
     "parnu": {
         relative_radius: 1,
     },
@@ -358,7 +371,10 @@ var city_properties = {
         relative_radius: 0.8,
     },
     "porvoo": {
-        relative_radius: 0.45,
+        relative_radius: 0.7,
+    },
+    "poznan": {
+        relative_radius: 1.6,
     },
     "puttgarden": {
         relative_radius: 0.5,
@@ -380,6 +396,9 @@ var city_properties = {
     },
     "saldus": {
         relative_radius: 0.6,
+    },
+    "sibiu": {
+        relative_radius: 1.8,
     },
     "southampton": {
         relative_radius: 0.75,
@@ -415,7 +434,7 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "turku": {
-        relative_radius: 0.55,
+        relative_radius: 0.8,
     },
     "umea": {
         relative_radius: 0.5,
@@ -429,17 +448,24 @@ var city_properties = {
     "vaasa": {
         relative_radius: 0.5,
     },
+    "vaduz": {
+        relative_whitenoise: 0.7,
+    },
     "vantaa": {
         relative_radius: 0.5,
     },
+    "vik": {
+        relative_radius: 1.4,
+    },
     "vyborg": {
-        relative_radius: 0.5,
+        relative_radius: 0.8,
     },
     "zelenogradsk": {
         relative_radius: 0.37,
     },
     "zgorzelec": {
-        relative_radius: 0.65,
+        relative_radius: 0.7,
+        relative_whitenoise: 0.7,
     },
     "zurich": {
         relative_radius: 1.15,
@@ -1044,7 +1070,7 @@ var cities = [
     {
         "gameName": "dresden",
         "realName": "Dresden",
-        "country": "germany-br",
+        "country": "germany-mdr",
         "x": "12411.8",
         "y": "101.914",
         "z": "-1606.27"

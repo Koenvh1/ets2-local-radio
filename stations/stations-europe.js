@@ -85,17 +85,17 @@ var stations = {
     "belgium-fr": [
         {
             name: "RTBF La Première",
-            logo: "https://ssl-www.static.rtbf.be/radio/radio/images/logo/header/lapremiere.png",
+            logo: "/skins/local-radio/stations/images/belgium-fr/RTBF La Première.png",
             url: "http://ice1.infomaniak.ch:80/lapremiere-128.mp3"
         },
         {
             name: "RTBF Classic 21",
-            logo: "https://ssl-www.static.rtbf.be/news/common/images/radio/logo/1400x1400/classic21-1400x1400.png",
+            logo: "/skins/local-radio/stations/images/belgium-fr/RTBF Classic 21.png",
             url: "http://ice4.infomaniak.ch:80/classic21-128.mp3"
         },
         {
             name: "RTBF Pure FM",
-            logo: "http://marpimagecache.s3.amazonaws.com/image/11_300x170_2016-01-12-09-45-32-590.png",
+            logo: "/skins/local-radio/stations/images/belgium-fr/RTBF Pure FM.png",
             url: "http://ice5.infomaniak.ch:80/purefm-128.mp3"
         },
     ],
@@ -215,11 +215,11 @@ var stations = {
     "faroe": [
         {
             name: "Kringvarp Føroya",
-            logo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kringvarp_foroya.jpg/200px-Kringvarp_foroya.jpg",
+            logo: "/skins/local-radio/stations/images/faroe/Kringvarp Føroya.jpg",
             url: "http://netvarp.kringvarp.fo:443/uvhm"
         },{
             name: "Rás2",
-            logo: "https://upload.wikimedia.org/wikipedia/en/6/69/Ras2logo.png",
+            logo: "/skins/local-radio/stations/images/faroe/Rás2.png",
             url: "http://stream.ras2.fo:8020/ras2"
         },
     ],
@@ -466,27 +466,27 @@ var stations = {
     "germany-rbb": [
         {
             name: "RBB Antenne Brandenburg",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Antennebrandenburg-logo.svg/2000px-Antennebrandenburg-logo.svg.png",
+            logo: "/skins/local-radio/stations/images/germany-rbb/RBB Antenne Brandenburg.png",
             url: "http://rbb-mp3-antenneb-m.akacast.akamaistream.net/7/516/292092/v1/gnl.akacast.akamaistream.net/rbb_mp3_antenneb_m"
         },
         {
             name: "RBB Fritz",
-            logo: "https://www.fritz.de/content/dam/rbb/frz/standard/fritz-logo.png.png/img.png",
+            logo: "/skins/local-radio/stations/images/germany-rbb/RBB Fritz.png",
             url: "http://rbb-mp3-fritz-m.akacast.akamaistream.net/7/799/292093/v1/gnl.akacast.akamaistream.net/rbb_mp3_fritz_m"
         },
         {
             name: "RBB Radio Eins",
-            logo: "http://presseservice.rbb-online.de/bilder/mediendb/rbb/img/512x288_beitragsbild_gross_top_teaser_1_videovorschaubild/logos_sendungen/radioeins_logo_512_288.jpg",
+            logo: "/skins/local-radio/stations/images/germany-rbb/RBB Radio Eins.jpg",
             url: "http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m"
         },
         {
             name: "RBB Inforadio",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/RBB_Inforadio.svg/2000px-RBB_Inforadio.svg.png",
+            logo: "/skins/local-radio/stations/images/germany-rbb/RBB Inforadio.png",
             url: "http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m"
         },
         {
             name: "RBB Radio Berlin 88,8",
-            logo: "http://presseservice.rbb-online.de/bilder/mediendb/rbb/img/512x218_bannerbild_top_teaser_2/logos_sendungen/radioBerlin_88_8_Logo_512_218.jpg",
+            logo: "/skins/local-radio/stations/images/germany-rbb/RBB Radio Berlin 88,8.jpg",
             url: "http://rbb-mp3-radioberlin-m.akacast.akamaistream.net/7/70/292096/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioberlin_m"
         },
     ],
@@ -791,6 +791,11 @@ var stations = {
             url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
         },
         {
+            name: "RadioNL",
+            logo: "/skins/local-radio/stations/images/netherlands/RadioNL.png",
+            url: "http://stream.radionl.fm:80/;",
+        },
+        {
             name: "Sky Radio 101 FM",
             logo: "/skins/local-radio/stations/images/netherlands/Sky Radio 101 FM.svg",
             url: "http://8593.live.streamtheworld.com:80/SKYRADIOAAC_SC",
@@ -985,18 +990,28 @@ var stations = {
     "sweden": [
         {
             name: "Sveriges Radio P1",
-            logo: "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/SR_P1_logo.svg/150px-SR_P1_logo.svg.png",
+            logo: "/skins/local-radio/stations/images/sweden/Sveriges Radio P1.png",
             url: "http://http-live.sr.se/p1-mp3-192"
         },
         {
             name: "Sveriges Radio P2",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SR_P2_logo.svg/250px-SR_P2_logo.svg.png",
+            logo: "/skins/local-radio/stations/images/sweden/Sveriges Radio P2.png",
             url: "http://http-live.sr.se/p2-mp3-192"
         },
         {
             name: "Sveriges Radio P3",
-            logo: "http://logowow.net/logos/9xnJBgkZg.png",
+            logo: "/skins/local-radio/stations/images/sweden/Sveriges Radio P3.png",
             url: "http://http-live.sr.se/p3-mp3-192"
+        },
+        {
+            name: "NRJ",
+            logo: "/skins/local-radio/stations/images/sweden/NRJ.png",
+            url: "http://ads-e-bauerse-online-05-gos2.sharp-stream.com/nrj_instreamtest_se_aacp"
+        },
+        {
+            name: "Rix FM",
+            logo: "/skins/local-radio/stations/images/sweden/Rix FM.png",
+            url: "http://fm01-icecast.mtg-r.net/fm01_mp3?platform=web"
         },
     ],
     "switzerland-de": [

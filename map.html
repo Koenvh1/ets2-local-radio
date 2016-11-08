@@ -48,7 +48,22 @@
             fillOpacity: 0.3,
             radius: radius
         });
+
+        var whitenoise = radius * 0.6;
+        if (typeof city_properties[cities[i].gameName] !== "undefined") {
+            if (typeof city_properties[cities[i].gameName]["relative_whitenoise"] !== "undefined") {
+                whitenoise = whitenoise / city_properties[cities[i].gameName]["relative_whitenoise"];
+            }
+        }
+
+        var circle2 = L.circle([lat, lon], {
+            color: "#25383C",
+            fillColor: "#ffffff",
+            fillOpacity: 0,
+            radius: whitenoise
+        });
         overlay_countries[cities[i].country].addLayer(circle).addTo(map);
+        overlay_countries[cities[i].country].addLayer(circle2).addTo(map);
     }
 
     overlay_countries = sortObject(overlay_countries);
