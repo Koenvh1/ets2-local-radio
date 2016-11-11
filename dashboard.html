@@ -2,7 +2,7 @@
     <audio id="player" src="about:blank" autoplay></audio>
     <audio id="whitenoise" src="/skins/local-radio/content/whitestatic.mp3" loop></audio>
     <audio id="switchStation" src="/skins/local-radio/content/radio_switch.mp3" loop autoplay></audio>
-    <nav class="navbar navbar-inverse navbar-static-top" role="navigation">
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="col-xs-12">
             <!-- Brand and toggle get grouped for better mobile display -->
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -12,7 +12,9 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">Local radio</a>
+                <a class="navbar-brand" href="#">
+                    Local Radio
+                </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div id="navbar" class="navbar-collapse collapse">
@@ -36,9 +38,9 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="alert alert-info update">An update is available! <a class="btn btn-xs btn-primary" href="https://github.com/Koenvh1/ets2-local-radio/releases">Update now</a> </div>
-                <div class="alert alert-warning statusMessage"></div>
-                <div class="alert alert-success remote">This player is being controlled remotely</div>
-                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank">Submit a new station</a><span class="label label-success label-id">This device: <span class="peer-id"></span></span></p>
+                <div class="alert alert-primary statusMessage"></div>
+                <div class="alert remote">This player is being controlled remotely</div>
+                <p><a href="https://goo.gl/forms/5p8d7eLs2S1Knjz52" target="_blank" class="btn btn-xs btn-primary">Submit a new station</a><span class="label label-primary label-id">This device: <span class="peer-id"></span></span></p>
             </div>
         </div>
         <div class="row">
@@ -54,7 +56,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> meters away | Amount of static: <span class="whitenoise-volume"></span> | PeerID: <span class="peer-id"></span> </p>
+                    <p class="well-sm">Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> meters away | Amount of static: <span class="whitenoise-volume"></span> | PeerID: <span class="peer-id"></span> </p>
                     <p class="text-center"><a href="http://koenvh.nl" target="_blank"> <img src="/skins/local-radio/content/koenvh.png" alt="Koenvh"></a></p>
                 </div>
             </div>
@@ -75,7 +77,7 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-block btn-success" data-dismiss="modal" onclick="connect($('#connectText').val());">Connect</button>
+                    <button type="button" class="btn btn-block btn-primary" data-dismiss="modal" onclick="connect($('#connectText').val());">Connect</button>
                 </div>
             </div>
         </div>

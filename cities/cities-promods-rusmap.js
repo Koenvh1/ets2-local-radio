@@ -341,13 +341,13 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "ornskoldsvik": {
-        relative_radius: 0.5,
+        relative_radius: 0.6,
     },
     "osnabruck": {
         relative_radius: 0.8,
     },
     "oulu": {
-        relative_radius: 0.6,
+        relative_radius: 0.7,
     },
     "paris": {
         relative_radius: 1.4,
@@ -410,7 +410,7 @@ var city_properties = {
         relative_radius: 0.65,
     },
     "sundsvall": {
-        relative_radius: 0.6,
+        relative_radius: 0.8,
     },
     "suwalki": {
         relative_radius: 0.6,
@@ -425,7 +425,7 @@ var city_properties = {
         relative_radius: 0.2,
     },
     "tornio": {
-        relative_radius: 0.4,
+        relative_radius: 0.6,
     },
     "trieste": {
         relative_radius: 0.6,

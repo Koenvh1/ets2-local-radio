@@ -24,12 +24,15 @@
 */
 
 @import "bootstrap.css";
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 
 body {
     height: 100%;
     min-height: 100vh;
     width: 100%;
     overflow-y: auto;
+    background: url("background.png") no-repeat center center fixed;
+
 }
 
 .game-connected.yes .statusMessage {
@@ -80,15 +83,26 @@ body {
     text-overflow: ellipsis;
 }
 
+.thumbnail {
+    border-color: rgb(46, 187, 30);
+}
+
 .thumbnail-orange {
-    border: 1px solid #f47c3c !important;
-    color: #f47c3c;
+    background-color: rgb(46, 187, 30);
+    border-color: transparent;
+    color: #ffffff;
     transition: border .2s ease-in-out;
 }
 .thumbnail-orange:hover {
-    color: #f47c3c;
+    color: #eeeeee;
 }
 
 .input-nav {
     height: 22px !important;
+}
+
+.alert-primary {
+    background-color: rgb(46, 187, 30);
+    border-color: transparent;
+    color: #ffffff;
 }

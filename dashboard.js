@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.3.5";
+var version = "0.3.6";
 //skinConfig global:
 var g_skinConfig;
 //countries near you global:
@@ -91,6 +91,7 @@ Funbit.Ets.Telemetry.Dashboard.prototype.render = function (data, utils) {
     // data - same data object as in the filter function
     // utils - an object containing several utility functions (see skin tutorial for more information)
     //
+
     if(g_loaded) {
 
         var country_lowest_distance = "nothing";
@@ -373,7 +374,7 @@ function refreshStations() {
                         key.toUpperCase() +
                         '</div>' +
                         '</a>' +
-                        ((localStorage.getItem("fav-" + key) == stations[key][j]['name']) ? '' : '<button class="btn btn-success btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ') +
+                        ((localStorage.getItem("fav-" + key) == stations[key][j]['name']) ? '' : '<button class="btn btn-default btn-xs top-right" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">Make favourite</button> ') +
                         '</div>';
                 }
             }
