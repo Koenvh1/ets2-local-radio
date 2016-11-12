@@ -1,0 +1,13 @@
+{
+  "name": "ETS2 Local Radio",
+  "short_name": "Local Radio",
+  "display": "standalone",
+  "background_color": "#3e3f3a",
+  "theme_color": "#2EBB1E",
+  "description": "Plays radio from wherever you are.",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "130x130",
+    "type": "image/png"
+  }]
+}

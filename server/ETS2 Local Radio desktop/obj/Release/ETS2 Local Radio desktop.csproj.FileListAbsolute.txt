@@ -1,0 +1,32 @@
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\bin\Release\ETS2 Local Radio desktop.exe.config
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\bin\Release\ETS2 Local Radio desktop.exe
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\bin\Release\ETS2 Local Radio desktop.pdb
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\bin\Release\Gma.System.MouseKeyHook.dll
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_desktop.Main.resources
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_desktop.Properties.Resources.resources
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.csproj.GenerateResource.Cache
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.exe
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.pdb
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_desktop.Splash.resources
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.csprojResolveAssemblyReference.cache
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_desktop.Overlay.resources
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\bin\Release\Ets2SdkClient.dll
+B:\Koen\Documents\Visual Studio 2015\Projects\ETS2 Local Radio desktop\ETS2 Local Radio desktop\bin\Release\Ets2SdkClient.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\ETS2 Local Radio server.exe.config
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\ETS2 Local Radio server.exe
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\ETS2 Local Radio server.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Ets2SdkClient.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Gma.System.MouseKeyHook.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Newtonsoft.Json.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Ets2SdkClient.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Newtonsoft.Json.xml
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.csprojResolveAssemblyReference.cache
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Main.resources
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Overlay.resources
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Properties.Resources.resources
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Setup.resources
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Splash.resources
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.csproj.GenerateResource.Cache
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.exe
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\SlimDX.dll
