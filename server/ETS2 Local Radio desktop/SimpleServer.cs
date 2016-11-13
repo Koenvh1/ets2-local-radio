@@ -189,9 +189,9 @@ namespace ETS2_Local_Radio_server
                 string text = Newtonsoft.Json.JsonConvert.SerializeObject(Main.ets2data);
 
                 context.Response.ContentType = "application/json";
-                context.Response.ContentLength64 = text.Length;
+                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
                 context.Response.StatusCode = (int)HttpStatusCode.OK;
-                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, text.Length);
+                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
                 context.Response.OutputStream.Flush();
             }
             else if (context.Request.Url.AbsolutePath == "/commands/")
@@ -199,9 +199,9 @@ namespace ETS2_Local_Radio_server
                 string text = Newtonsoft.Json.JsonConvert.SerializeObject(Main.commandsData);
 
                 context.Response.ContentType = "application/json";
-                context.Response.ContentLength64 = text.Length;
+                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
                 context.Response.StatusCode = (int)HttpStatusCode.OK;
-                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, text.Length);
+                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
                 context.Response.OutputStream.Flush();
             }
             else if (File.Exists(filename))

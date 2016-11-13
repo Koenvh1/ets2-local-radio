@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.4.0";
+var version = "0.4.1";
 //countries near you global:
 var g_countries = {};
 //stations near you global:
@@ -20,8 +20,6 @@ var g_hls = null;
 var g_last_command = "0";
 
 function initialise() {
-    $(document).ready(function () {
-
         document.getElementById("switchStation").volume = 0;
 
         //Check updates:
@@ -59,14 +57,6 @@ function initialise() {
                 localStorage.setItem("volume", g_volume);
             }
         });
-
-        $(".thumb").hover(function () {
-                this.append("<div class='play-button'></div>")
-            },
-            function () {
-
-            });
-    });
 }
 
 function refresh(data) {
