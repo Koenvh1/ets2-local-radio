@@ -776,8 +776,8 @@ var stations = {
             url: "http://icecast.omroep.nl/3fm-bb-mp3"
         },
         {
-            name: "100% NL",
-            logo: "stations/images/netherlands/100% NL.png",
+            name: "100 NL",
+            logo: "stations/images/netherlands/100 NL.png",
             url: "http://stream.100p.nl/100pctnl.mp3",
         },
         {

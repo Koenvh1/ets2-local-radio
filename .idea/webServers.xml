@@ -2,8 +2,11 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="099f5dba-b3ed-4862-9069-6e2ffe9dd571" name="skins" url="http://localhost:25555">
-        <fileTransfer port="0" mountedRoot="B:\Koen\Documents\Simracing\ets2-telemetry-server-3.2.4\server\Html\skins" accessType="MOUNT" />
+      <webServer id="099f5dba-b3ed-4862-9069-6e2ffe9dd571" name="Debug" url="http://localhost:8330">
+        <fileTransfer port="0" mountedRoot="B:\Koen\Documents\Simracing\ETS2 Local Radio" accessType="MOUNT" />
+      </webServer>
+      <webServer id="4a780bc1-0ea5-49c4-a645-8d61c9f3bd73" name="DebugWeb" url="http://localhost:8330">
+        <fileTransfer port="0" mountedRoot="B:\Koen\Documents\Simracing\ETS2 Local Radio" accessType="MOUNT" />
       </webServer>
     </option>
   </component>

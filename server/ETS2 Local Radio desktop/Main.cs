@@ -13,7 +13,6 @@ using System.Text;
 using System.Windows.Forms;
 using Ets2SdkClient;
 using Gma.System.MouseKeyHook;
-using SlimDX.DirectInput;
 
 namespace ETS2_Local_Radio_server
 {
@@ -49,6 +48,7 @@ namespace ETS2_Local_Radio_server
             stopKeyTextBox.Text = ConfigurationManager.AppSettings["StopKey"];
             volumeUpKeyTextBox.Text = ConfigurationManager.AppSettings["VolumeUpKey"];
             volumeDownKeyTextBox.Text = ConfigurationManager.AppSettings["VolumeDownKey"];
+            URLLabel.Text = ConfigurationManager.AppSettings["BaseURL"];
 
             if (ConfigurationManager.AppSettings["BaseURL"].StartsWith("http://") == false)
             {
@@ -133,12 +133,19 @@ namespace ETS2_Local_Radio_server
 
         private void Main_FormClosing(object sender, EventArgs e)
         {
-            //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
-            Unsubscribe();
-            myServer.Stop();
-            writeFile("none", 0, "0");
-            DeleteException();
-            Application.Exit();
+            try
+            {
+                //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
+                Unsubscribe();
+                myServer.Stop();
+                writeFile("none", 0, "0");
+                DeleteException();
+                Application.Exit();
+            }
+            catch (Exception ex)
+            {
+
+            }
         }
 
         public void Subscribe()
@@ -284,7 +291,7 @@ namespace ETS2_Local_Radio_server
             e.SuppressKeyPress = true;
             volumeDownKeyTextBox.Text = e.KeyCode.ToString();
         }
-        
+
         private void URLLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Process.Start(ConfigurationManager.AppSettings["BaseURL"]);

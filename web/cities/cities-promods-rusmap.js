@@ -1,6 +1,6 @@
 var country_properties = {
     "andorra": {
-        relative_radius: 0.4,
+        relative_radius: 0.3,
     },
     "austria": {
         relative_radius: 1,
@@ -168,7 +168,7 @@ var country_properties = {
 
 var city_properties = {
     "andorra": {
-        relative_whitenoise: 0.7,
+        relative_whitenoise: 1.1,
     },
     "amsterdam": {
         relative_radius: 1.4,

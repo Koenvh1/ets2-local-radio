@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "0.3.6";
+var version = "0.4.0";
 //countries near you global:
 var g_countries = {};
 //stations near you global:

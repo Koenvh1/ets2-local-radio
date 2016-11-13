@@ -50,7 +50,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.statusLabel = new System.Windows.Forms.Label();
             this.URLLabel = new System.Windows.Forms.LinkLabel();
-            this.errorLabel = new System.Windows.Forms.Label();
             this.Koenvh = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -186,7 +185,6 @@
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Controls.Add(this.statusLabel);
             this.groupBox2.Controls.Add(this.URLLabel);
-            this.groupBox2.Controls.Add(this.errorLabel);
             this.groupBox2.Location = new System.Drawing.Point(12, 12);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(444, 99);
@@ -200,7 +198,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(82, 22);
             this.label3.TabIndex = 10;
-            this.label3.Text = "Latest error:";
+            this.label3.Text = "URL:";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // label2
@@ -241,23 +239,14 @@
             // 
             // URLLabel
             // 
-            this.URLLabel.Location = new System.Drawing.Point(309, 76);
+            this.URLLabel.Location = new System.Drawing.Point(94, 60);
             this.URLLabel.Name = "URLLabel";
-            this.URLLabel.Size = new System.Drawing.Size(129, 16);
+            this.URLLabel.Size = new System.Drawing.Size(341, 22);
             this.URLLabel.TabIndex = 6;
             this.URLLabel.TabStop = true;
             this.URLLabel.Text = "Open ETS2 Local Radio";
-            this.URLLabel.TextAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.URLLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.URLLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.URLLabel_LinkClicked);
-            // 
-            // errorLabel
-            // 
-            this.errorLabel.Location = new System.Drawing.Point(94, 60);
-            this.errorLabel.Name = "errorLabel";
-            this.errorLabel.Size = new System.Drawing.Size(209, 22);
-            this.errorLabel.TabIndex = 11;
-            this.errorLabel.Text = "None";
-            this.errorLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // Koenvh
             // 
@@ -316,7 +305,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox Koenvh;
-        private System.Windows.Forms.Label errorLabel;
         private System.Windows.Forms.Label label3;
     }
 }

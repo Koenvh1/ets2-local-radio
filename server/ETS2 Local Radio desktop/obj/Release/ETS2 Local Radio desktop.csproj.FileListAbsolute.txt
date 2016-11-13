@@ -29,4 +29,3 @@ F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.csproj.GenerateResource.Cache
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.exe
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.pdb
-F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\SlimDX.dll

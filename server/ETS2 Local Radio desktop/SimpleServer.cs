@@ -190,7 +190,7 @@ namespace ETS2_Local_Radio_server
 
                 context.Response.ContentType = "application/json";
                 context.Response.ContentLength64 = text.Length;
-                context.Response.StatusCode = (int) HttpStatusCode.OK;
+                context.Response.StatusCode = (int)HttpStatusCode.OK;
                 context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, text.Length);
                 context.Response.OutputStream.Flush();
             }
