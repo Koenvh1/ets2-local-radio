@@ -23,8 +23,11 @@ _ETS2 Local Radio crashes!_
 Please open an issue or [contact me](http://koenvh.nl/contact)
 
 ## Screenshots: ##
+![Screenshot](http://i.imgur.com/is4eKez.png)
+_Screenshot in Norway (new layout)_
+
 ![Screenshot](http://i.imgur.com/1FOLMj5.png)
-_Screenshot near Białystok_
+_Screenshot near Białystok (old layout)_
 
 ![Screenshot](http://i.imgur.com/KiFPfeP.png)
-_Screenshot near Suwałki_
+_Screenshot near Suwałki (old layout)_
