@@ -234,6 +234,7 @@ namespace ETS2_Local_Radio_server
             }
             else
             {
+                //context.Response.AddHeader("X-Requested-File", filename);
                 context.Response.StatusCode = (int)HttpStatusCode.NotFound;
             }
 

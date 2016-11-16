@@ -98,6 +98,16 @@ var stations = {
             logo: "stations/images/belgium-fr/RTBF Pure FM.png",
             url: "http://ice5.infomaniak.ch:80/purefm-128.mp3"
         },
+        {
+            name: "Nostalgie",
+            logo: "stations/images/belgium-fr/Nostalgie.png",
+            url: "http://nostalgiepremium.ice.infomaniak.ch/nostalgiepremium-128.mp3"
+        },
+        {
+            name: "NRJ",
+            logo: "stations/images/belgium-fr/NRJ.jpg",
+            url: "http://ice12.infomaniak.ch:80/nrjbe-high.mp3"
+        },
     ],
     "bulgaria": [
         {
@@ -178,37 +188,57 @@ var stations = {
     "estonia": [
         {
             name: "Vikerraadio",
-            logo: "http://vignette4.wikia.nocookie.net/logopedia/images/8/85/Err-vikerraadio.jpg/revision/latest?cb=20140525000140",
+            logo: "stations/images/estonia/Vikerraadio.jpg",
             url: "http://icecast.err.ee:80/vikerraadio.mp3"
         },
         {
             name: "Raadio 2",
-            logo: "http://www.bassimees.eu/liblikas/wordpress/wp-content/uploads/2015/04/Raadio2.jpg",
+            logo: "stations/images/estonia/Raadio 2.jpg",
             url: "http://icecast.err.ee:80/raadio2.mp3"
         },
         {
             name: "Klassikaraadio",
-            logo: "http://static.err.ee/gridfs/26C18F3204D41DB8C7133F91246217683AF8CE1F0E7C8AC530740A1ECB548E2E.jpg?width=752&crop=(14%2C0%2C640.58%2C354)&cropxunits=650&cropyunits=354&rotate=0&s.contrast=0&s.saturation=0&s.brightness=0&s.grayscale=0&s.alpha=1&quality=95&s.roundcorners=0%2C0%2C0%2C0&format=jpg",
+            logo: "stations/images/estonia/Klassikaraadio.jpg",
             url: "http://icecast.err.ee:80/klassikaraadio.mp3"
         },
         {
             name: "Raadio 4",
-            logo: "http://radiovolna.net/uploads/posts/2013-10/1382877491_radio-4-raadio-4.png",
+            logo: "stations/images/estonia/Raadio 4.png",
             url: "http://icecast.err.ee:80/raadio4.mp3"
         },
         {
+            name: "MyHits",
+            logo: "stations/images/estonia/MyHits.png",
+            url: "http://217.146.71.24/uuno.mp3"
+        },
+        {
+            name: "Power Hit Radio",
+            logo: "stations/images/estonia/Power Hit Radio.png",
+            url: "http://phr.babahhcdn.com:9000/phr"
+        },
+        {
             name: "Raadio Elmar",
-            logo: "http://onradios.ru/wp-content/uploads/2015/06/raadio-elmar-266x127.jpg",
+            logo: "stations/images/estonia/Raadio Elmar.jpg",
             url: "http://217.146.71.24:80/elmar.mp3"
         },
         {
+            name: "Raadio Kuku",
+            logo: "stations/images/estonia/Raadio Kuku.png",
+            url: "http://217.146.71.24/kuku.mp3"
+        },
+        {
+            name: "Retro FM",
+            logo: "stations/images/estonia/Retro FM.png",
+            url: "http://retro.babahhcdn.com/RETRO?/retrofm_hi.mp3"
+        },
+        {
             name: "Sky Plus",
-            logo: "http://skyplus.fm/sites/all/themes/skyplus/logo.png",
+            logo: "stations/images/estonia/Sky Plus.png",
             url: "http://skyplus.babahhcdn.com/SKYPLUS?/skyplus_hi.mp3"
         },
         {
             name: "Star FM",
-            logo: "http://starfm.tv3.ee/ui/template/starfm2016/images/logo/default.png",
+            logo: "stations/images/estonia/Star FM.png",
             url: "http://starfm.babahhcdn.com:8000/starfm"
         },
     ],
@@ -282,7 +312,7 @@ var stations = {
         {
             name: "Radio Suomipop",
             logo: "http://www.radiosuomipop.fi/channel/logo-og.png",
-            url: "http://icelive0.80596-icelive0.cdn.qbrick.com/10555/80596_RadioSuomipop.mp3"
+            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10566/80692_RadioSuomipop.mp3"
         },
         {
             name: "Radio Vaasa",
@@ -320,6 +350,11 @@ var stations = {
             name: "France Culture",
             logo: "https://upload.wikimedia.org/wikipedia/commons/b/b2/France_Culture_logo.png",
             url: "http://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=f9fbk29m84"
+        },
+        {
+            name: "Nostalgie",
+            logo: "stations/images/france/Nostalgie.png",
+            url: "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=listenlive"
         },
         {
             name: "NRJ",
@@ -564,37 +599,57 @@ var stations = {
     "iceland": [
         {
             name: "Rás 1",
-            logo: "http://www.ruv.is/sites/default/files/ras1-main-logo.jpg",
+            logo: "stations/images/iceland/Rás 1.jpg",
             url: "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8"
         },
         {
             name: "Rás 2",
-            logo: "http://www.ruv.is/sites/default/files/ras2-main-logo.jpg",
+            logo: "stations/images/iceland/Rás 2.jpg",
             url: "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8"
         },
         {
             name: "Útvarp Saga",
-            logo: "http://utvarpsaga.is/file/2016/05/merki-toppur.png",
+            logo: "stations/images/iceland/Útvarp Saga.png",
             url: "http://radio.is:443/saga"
         },
         {
             name: "Bylgjan 98,9",
-            logo: "https://static-media.streema.com/media/object-images/3ce71e1f401554d4d004a91888272f7c.jpg",
+            logo: "stations/images/iceland/Bylgjan 98,9.jpg",
             url: "http://icecast.365net.is:8000/orbbylgjan.aac"
         },
     ],
     "iom": [
         {
             name: "Manx Radio",
-            logo: "https://upload.wikimedia.org/wikipedia/en/b/b1/Manx_Radio_logo.png",
+            logo: "stations/images/iom/Manx Radio.png",
             url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
         },
     ],
     "ireland": [
         {
-            name: "Placeholder Radio",
-            logo: "http://placehold.it/100x100",
-            url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
+            name: "RTÉ Radio 1",
+            logo: "stations/images/ireland/RTÉ Radio 1.png",
+            url: "http://icecast2.rte.ie/radio1"
+        },
+        {
+            name: "RTÉ 2fm",
+            logo: "stations/images/ireland/RTÉ 2fm.png",
+            url: "http://icecast2.rte.ie/2fm"
+        },
+        {
+            name: "RTÉ Gold",
+            logo: "stations/images/ireland/RTÉ Gold.png",
+            url: "http://icecast2.rte.ie/gold"
+        },
+        {
+            name: "RTÉ Pulse",
+            logo: "stations/images/ireland/RTÉ Pulse.png",
+            url: "http://icecast2.rte.ie/pulse"
+        },
+        {
+            name: "Raidió Rí-Rá",
+            logo: "stations/images/ireland/Raidió Rí-Rá.png",
+            url: "http://5.63.151.52:8023/;"
         },
     ],
     "italy": [
@@ -813,9 +868,14 @@ var stations = {
     ],
     "nireland": [
         {
-            name: "Placeholder Radio",
-            logo: "http://placehold.it/100x100",
-            url: "http://icecast.omroep.nl/radio1-bb-mp3"
+            name: "BBC Radio Ulster",
+            logo: "stations/images/nireland/BBC Radio Ulster.jpg",
+            url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p?s=1479063391&e=1479077791&h=7456f8d848519bd3032f51100004c366"
+        },
+        {
+            name: "U105",
+            logo: "stations/images/nireland/U105.png",
+            url: "http://stream2.radiomonitor.com:80/U105"
         },
     ],
     "norway": [
@@ -916,19 +976,49 @@ var stations = {
     ],
     "russia": [
         {
+            name: "Радио России",
+            logo: "stations/images/russia/Радио России.png",
+            url: "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
+        },
+        {
             name: "Радио Маяк",
-            logo: "http://radiothe.com/wp-content/uploads/2015/10/Radio-Mayak-Live.png",
+            logo: "stations/images/russia/Радио Маяк.png",
             url: "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps"
         },
         {
             name: "Авторадио",
-            logo: "https://upload.wikimedia.org/wikipedia/ru/archive/3/31/20071213132033!Avtoradio.png",
+            logo: "stations/images/russia/Авторадио.png",
             url: "http://ic4.101.ru:8000/v3_1?userid=0&setst=fvhe0090q0b79jebn6nlacto22"
         },
         {
+            name: "Дорожное радио",
+            logo: "stations/images/russia/Дорожное радио.png",
+            url: "http://dorognoe.hostingradio.ru:8000/dorognoe"
+        },
+        {
             name: "Европа Плюс",
-            logo: "https://www.benztown.com/sites/default/files/styles/programming_logo_350h/public/media/Europa-Plus-logo.png?itok=N1vFh39x",
+            logo: "stations/images/russia/Европа Плюс.png",
             url: "http://ep128server.streamr.ru:8030/ep128"
+        },
+        {
+            name: "Радио Рекорд",
+            logo: "stations/images/russia/Радио Рекорд.png",
+            url: "http://online.radiorecord.ru:8101/rr_128"
+        },
+        {
+            name: "Ретро FM",
+            logo: "stations/images/russia/Ретро FM.png",
+            url: "http://hls-01-retro.emgsound.ru/12/playlist.m3u8"
+        },
+        {
+            name: "Русское Радио",
+            logo: "stations/images/russia/Русское Радио.png",
+            url: "http://icecast.russkoeradio.cdnvideo.ru/rr.mp3"
+        },
+        {
+            name: "Эхо Москвы",
+            logo: "stations/images/russia/Эхо Москвы.svg",
+            url: "http://81.19.85.197/echo.mp3"
         },
     ],
     "slovakia": [
@@ -1083,6 +1173,11 @@ var stations = {
             name: "BBC Radio 4",
             logo: "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Radio_4.svg/320px-BBC_Radio_4.svg.png",
             url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"
+        },
+        {
+            name: "Capital FM",
+            logo: "stations/images/uk/Capital FM.png",
+            url: "http://media-the.musicradio.com:80/CapitalMP3"
         },
     ],
     "ukraine": [

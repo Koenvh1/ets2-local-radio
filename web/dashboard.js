@@ -18,6 +18,8 @@ var g_whitenoise = false;
 var g_hls = null;
 //last command id from desktop received:
 var g_last_command = "0";
+//show all radio stations:
+var g_show_all = false;
 
 function initialise() {
         document.getElementById("switchStation").volume = 0;
@@ -73,7 +75,7 @@ function refresh(data) {
     };
 
     //Test whether location is real and not disconnected
-    if (!(data.Physics.CoordinateX == 0.0 && data.Physics.CoordinateY == 0.0 && data.Physics.CoordinateZ == 0.0)) {
+    if (!(data.Physics.CoordinateX == 0.0 && data.Physics.CoordinateY == 0.0 && data.Physics.CoordinateZ == 0.0) || g_show_all) {
         for (var i = 0; i < cities.length; i++) {
             //Fix uppercase issues (*cough* SCS):
             cities[i]["country"] = cities[i]["country"].toLowerCase();
@@ -91,7 +93,7 @@ function refresh(data) {
             if (typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined") {
                 relative_city_radius = city_properties[cities[i]["gameName"]]["relative_radius"];
             }
-            if (distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"] * relative_city_radius) {
+            if (distance < g_skinConfig.radius * country_properties[cities[i]["country"]]["relative_radius"] * relative_city_radius || g_show_all) {
                 //Calculate distance within radius ( = global radius * country radius * city radius (if exists))
 
                 //Calculate whitenoise
@@ -121,27 +123,29 @@ function refresh(data) {
                 }
             }
         }
-
-        //Calculate whitenoise
-        var whitenoise_lowest_distance = lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"];
-        if (typeof city_properties[city_lowest_distance] !== "undefined") {
-            if (typeof city_properties[city_lowest_distance]["relative_radius"] !== "undefined") {
-                whitenoise_lowest_distance = whitenoise_lowest_distance / city_properties[city_lowest_distance]["relative_radius"];
+        if (!available_countries.hasOwnProperty(country_lowest_distance)) {
+            console.log("Lowest distance country unavailable");
+            //Calculate whitenoise
+            var whitenoise_lowest_distance = lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"];
+            if (typeof city_properties[city_lowest_distance] !== "undefined") {
+                if (typeof city_properties[city_lowest_distance]["relative_radius"] !== "undefined") {
+                    whitenoise_lowest_distance = whitenoise_lowest_distance / city_properties[city_lowest_distance]["relative_radius"];
+                }
+                if (typeof city_properties[city_lowest_distance]["relative_whitenoise"] !== "undefined") {
+                    whitenoise_lowest_distance = whitenoise_lowest_distance * city_properties[city_lowest_distance]["relative_whitenoise"];
+                }
             }
-            if (typeof city_properties[city_lowest_distance]["relative_whitenoise"] !== "undefined") {
-                whitenoise_lowest_distance = whitenoise_lowest_distance * city_properties[city_lowest_distance]["relative_whitenoise"];
-            }
+            available_countries[country_lowest_distance] = {
+                country: country_lowest_distance,
+                distance: lowest_distance,
+                whitenoise: whitenoise_lowest_distance
+            };
         }
-        available_countries[country_lowest_distance] = {
-            country: country_lowest_distance,
-            distance: lowest_distance,
-            whitenoise: whitenoise_lowest_distance
-        };
 
         available_countries = sortObject(available_countries);
 
         $(".nearestCity").html(city_lowest_distance + "; " + country_lowest_distance);
-        $(".distance").html(lowest_distance);
+        $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
         if (!available_countries.hasOwnProperty(g_current_country) ||
             (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold < available_countries[g_current_country]["distance"] &&
@@ -280,7 +284,7 @@ function setFavouriteStation(country, name) {
     } else {
         localStorage.setItem("fav-" + country, name);
         refreshStations();
-        alert("Favourite for " + country.toUpperCase() + " is now " + name);
+        //alert("Favourite for " + country.toUpperCase() + " is now " + name);
     }
 }
 
@@ -334,8 +338,8 @@ function refreshStations() {
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play();">' +
                     '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
-                    '<h3 class="station-title">' + stations[key][j]['name'] + '</h3>' +
-                    key.toUpperCase() +
+                    '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
+                    '<span class="overflow">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) + '</span>' +
                     '</div>' +
                     '<div class="play-button"></div>' +
                     '</a>' +

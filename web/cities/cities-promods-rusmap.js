@@ -1,167 +1,222 @@
 var country_properties = {
     "andorra": {
+        name: "Andorra",
         relative_radius: 0.3,
     },
     "austria": {
+        name: "Österreich (Austria)",
         relative_radius: 1,
     },
     "belarus": {
+        name: "Беларусь (Belarus)",
         relative_radius: 0.75,
     },
     "belgium": {
+        name: "België (Belgium)",
         relative_radius: 1,
     },
     "belgium-nl": {
+        name: "België (Belgium)",
         relative_radius: 0.6,
     },
     "belgium-fr": {
+        name: "Belgique (Belgium)",
         relative_radius: 0.6,
     },
     "bosnia": {
+        name: "Bosna i Hercegovina (Bosnia)",
         relative_radius: 1,
     },
     "bulgaria": {
+        name: "България (Bulgaria)",
         relative_radius: 1,
     },
     "croatia": {
+        name: "Hrvatska (Croatia)",
         relative_radius: 1,
     },
     "cyprus": {
+        name: "Κύπρος (Cyprus)",
         relative_radius: 1,
     },
     "czech": {
+        name: "Česká republika (Czechia)",
         relative_radius: 0.85,
     },
     "denmark": {
+        name: "Danmark (Denmark)",
         relative_radius: 0.55,
     },
     "estonia": {
+        name: "Eesti (Estonia)",
         relative_radius: 0.75,
     },
     "faroe": {
+        name: "Føroyar (Faroe Islands)",
         relative_radius: 1,
     },
     "finland": {
+        name: "Suomi (Finland)",
         relative_radius: 1,
     },
     "france": {
+        name: "France",
         relative_radius: 1.05,
     },
     "germany": {
+        name: "Deutschland (Germany)",
         relative_radius: 1,
     },
     "germany-br": {
+        name: "Deutschland [BR]",
         relative_radius: 1,
     },
     "germany-hr": {
+        name: "Deutschland [HR]",
         relative_radius: 1,
     },
     "germany-mdr": {
+        name: "Deutschland [MDR]",
         relative_radius: 1,
     },
     "germany-ndr": {
+        name: "Deutschland [NDR]",
         relative_radius: 1,
     },
     "germany-rbb": {
+        name: "Deutschland [RBB]",
         relative_radius: 1,
     },
     "germany-swr": {
+        name: "Deutschland [SWR]",
         relative_radius: 1,
     },
     "germany-wdr": {
+        name: "Deutschland [WDR]",
         relative_radius: 1,
     },
     "greece": {
+        name: "Ελλάδα (Greece)",
         relative_radius: 1,
     },
     "hungary": {
+        name: "Magyarország (Hungary)",
         relative_radius: 1,
     },
     "iceland": {
+        name: "Ísland (Iceland)",
         relative_radius: 1,
     },
     "iom": {
+        name: "Isle of Man",
         relative_radius: 0.5,
     },
     "ireland": {
+        name: "Éire (Ireland)",
         relative_radius: 1,
     },
     "italy": {
+        name: "Italia (Italy)",
         relative_radius: 1,
     },
     "jersey": {
+        name: "Jersey",
         relative_radius: 0.1,
     },
     "latvia": {
+        name: "Latvija (Latvia)",
         relative_radius: 0.6,
     },
     "liecht": {
+        name: "Liechtenstein",
         relative_radius: 0.2,
     },
     "lithuania": {
+        name: "Lietuva (Lithuania)",
         relative_radius: 0.6,
     },
     "luxembourg": {
+        name: "Lëtzebuerg (Luxembourg)",
         relative_radius: 0.6,
     },
     "macedonia": {
+        name: "Македонија (Macedonia)",
         relative_radius: 1,
     },
     "moldova": {
+        name: "Moldova",
         relative_radius: 0.75,
     },
     "netherlands": {
+        name: "Nederland (Netherlands)",
         relative_radius: 0.6,
     },
     "nireland": {
+        name: "Northern Ireland",
         relative_radius: 0.8,
     },
     "norway": {
+        name: "Norge (Norway)",
         relative_radius: 1.1,
     },
     "poland": {
+        name: "Polska (Poland)",
         relative_radius: 0.8,
     },
     "portugal": {
+        name: "Portugal",
         relative_radius: 1,
     },
     "romania": {
+        name: "România (Romania)",
         relative_radius: 1,
     },
     "russia": {
+        name: "Россия (Russia)",
         relative_radius: 1.1,
     },
     "serbia": {
+        name: "Србија (Serbia)",
         relative_radius: 1,
     },
     "slovakia": {
+        name: "Slovensko (Slovakia)",
         relative_radius: 0.8,
     },
     "slovenia": {
+        name: "Slovenija (Slovenia)",
         relative_radius: 0.6,
     },
     "spain": {
+        name: "España (Spain)",
         relative_radius: 1,
     },
     "sweden": {
+        name: "Sverige (Sweden)",
         relative_radius: 1.1,
     },
     "switzerland": {
+        name: "Switzerland",
         relative_radius: 0.8,
     },
     "switzerland-de": {
+        name: "Die Schweiz (Switzerland)",
         relative_radius: 0.8,
     },
     "switzerland-fr": {
+        name: "Suisse (Switzerland)",
         relative_radius: 0.8,
     },
     "turkey": {
+        name: "Türkiye (Turkey)",
         relative_radius: 1,
     },
     "uk": {
+        name: "United Kingdom",
         relative_radius: 1.15,
     },
     "ukraine": {
+        name: "Украïна (Ukraine)",
         relative_radius: 1,
     },
 };
@@ -1981,6 +2036,14 @@ var cities = [
         "x": "-39546.9",
         "y": "171.398",
         "z": "-11564.2"
+    },
+    {
+        "gameName": "londonderry",
+        "realName": "Londonderry",
+        "country": "nireland",
+        "x": "-64011.90",
+        "y": "23.04",
+        "z": "-45948.30"
     },
     {
         "gameName": "longyearbyen",
