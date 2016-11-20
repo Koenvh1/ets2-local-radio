@@ -51,6 +51,7 @@
             this.statusLabel = new System.Windows.Forms.Label();
             this.URLLabel = new System.Windows.Forms.LinkLabel();
             this.Koenvh = new System.Windows.Forms.PictureBox();
+            this.comboIP = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).BeginInit();
@@ -179,6 +180,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.comboIP);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.locationLabel);
@@ -239,9 +241,9 @@
             // 
             // URLLabel
             // 
-            this.URLLabel.Location = new System.Drawing.Point(94, 60);
+            this.URLLabel.Location = new System.Drawing.Point(305, 60);
             this.URLLabel.Name = "URLLabel";
-            this.URLLabel.Size = new System.Drawing.Size(341, 22);
+            this.URLLabel.Size = new System.Drawing.Size(130, 22);
             this.URLLabel.TabIndex = 6;
             this.URLLabel.TabStop = true;
             this.URLLabel.Text = "Open ETS2 Local Radio";
@@ -260,6 +262,15 @@
             this.Koenvh.TabIndex = 6;
             this.Koenvh.TabStop = false;
             this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
+            // 
+            // comboIP
+            // 
+            this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboIP.FormattingEnabled = true;
+            this.comboIP.Location = new System.Drawing.Point(94, 62);
+            this.comboIP.Name = "comboIP";
+            this.comboIP.Size = new System.Drawing.Size(205, 21);
+            this.comboIP.TabIndex = 11;
             // 
             // Main
             // 
@@ -306,5 +317,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox Koenvh;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.ComboBox comboIP;
     }
 }

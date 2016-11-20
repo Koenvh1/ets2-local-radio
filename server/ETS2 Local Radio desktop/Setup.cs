@@ -20,43 +20,36 @@ namespace ETS2_Local_Radio_server
             InitializeComponent();
         }
 
-        private void installButton_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                //if (ets2folderDialog.ShowDialog() == DialogResult.OK)
-                //{
-                //    File.Copy(Directory.GetCurrentDirectory() + "\\plugins\\win_x64\\ets2-telemetry.dll", ets2folderDialog.SelectedPath + "\\bin\\win_x64\\ets2-telemetry.dll");
-                //    File.Copy(Directory.GetCurrentDirectory() + "\\plugins\\win_x86\\ets2-telemetry.dll", ets2folderDialog.SelectedPath + "\\bin\\win_x86\\ets2-telemetry.dll");
-                //}
-                ProcessStartInfo cmd = new ProcessStartInfo("cmd.exe");
-                cmd.UseShellExecute = true;
-                cmd.CreateNoWindow = true;
-                cmd.Arguments = "netsh http add urlacl url=http://+:8330/ user=Everyone listen=yes";
-                cmd.Verb = "runas";
-                Process.Start(cmd);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-        }
-
         private void Setup_Load(object sender, EventArgs e)
         {
-            if (Boolean.Parse(ConfigurationManager.AppSettings["Setup"]) == true)
+            //MessageBox.Show("Please select the Euro Truck Simulator 2 installation folder");
+            if (ets2Dialog.ShowDialog() == DialogResult.OK)
             {
-                Main main = new Main();
-                main.Show();
-                Hide();
-            }
-        }
+                try
+                {
+                    string folder = ets2Dialog.SelectedPath;
+                    Directory.CreateDirectory(folder + @"\bin\win_x86\plugins");
+                    Directory.CreateDirectory(folder + @"\bin\win_x64\plugins");
 
-        private void skipButton_Click(object sender, EventArgs e)
-        {
-            Main main = new Main();
-            main.Show();
-            Hide();
+                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\plugins\ets2-telemetry.dll",
+                        folder + @"\bin\win_x86\plugins\ets2-telemetry.dll", true);
+                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\ets2-telemetry.dll",
+                        folder + @"\bin\win_x64\plugins\ets2-telemetry.dll", true);
+
+                    Main.SaveAppSettings("Ets2Folder", folder);
+
+                    Close();
+                }
+                catch (Exception ex)
+                {
+                    logLabel.Text = ex.Message;
+                    Activate();
+                }
+            }
+            else
+            {
+                Close();
+            }
         }
     }
 }

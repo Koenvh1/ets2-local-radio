@@ -264,8 +264,18 @@ var city_properties = {
     "donostia": {
         relative_radius: 0.6,
     },
+    "dortmund": {
+        relative_radius: 0.9,
+        relative_whitenoise: 0.9,
+    },
     "dover": {
         relative_radius: 0.6,
+    },
+    "duisburg": {
+        relative_radius: 0.8,
+    },
+    "dusseldorf": {
+        relative_radius: 0.8,
     },
     "flensburg": {
         relative_radius: 0.5,
@@ -305,6 +315,9 @@ var city_properties = {
     "helsinki": {
         relative_radius: 0.6,
     },
+    "hofn": {
+        relative_radius: 1.4,
+    },
     "irun": {
         relative_radius: 0.6,
     },
@@ -334,6 +347,9 @@ var city_properties = {
     },
     "kolka": {
         relative_radius: 0.4,
+    },
+    "koln": {
+        relative_radius: 1,
     },
     "kristiansand": {
         relative_radius: 0.7,
@@ -389,6 +405,9 @@ var city_properties = {
     "nikel": {
         relative_radius: 0.6,
     },
+    "oberhausen": {
+        relative_radius: 0.7,
+    },
     "odense": {
         relative_radius: 1.2,
     },
@@ -427,6 +446,9 @@ var city_properties = {
     },
     "porkhov": {
         relative_radius: 0.8,
+    },
+    "portsmouth": {
+        relative_radius: 0.5,
     },
     "porvoo": {
         relative_radius: 0.7,
@@ -2036,14 +2058,6 @@ var cities = [
         "x": "-39546.9",
         "y": "171.398",
         "z": "-11564.2"
-    },
-    {
-        "gameName": "londonderry",
-        "realName": "Londonderry",
-        "country": "nireland",
-        "x": "-64011.90",
-        "y": "23.04",
-        "z": "-45948.30"
     },
     {
         "gameName": "longyearbyen",
@@ -3719,6 +3733,14 @@ var cities_wip = [
         "x": "-60535.71",
         "y": "13.40",
         "z": "-40179.05"
+    },
+    {
+        "gameName": "londonderry",
+        "realName": "Londonderry",
+        "country": "nireland",
+        "x": "-64011.90",
+        "y": "23.04",
+        "z": "-45948.30"
     },
     {
         "gameName": "marseille",

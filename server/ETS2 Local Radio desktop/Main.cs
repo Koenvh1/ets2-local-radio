@@ -9,6 +9,7 @@ using System.Drawing.Drawing2D;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Net.Sockets;
 using System.Text;
 using System.Windows.Forms;
 using Ets2SdkClient;
@@ -48,15 +49,23 @@ namespace ETS2_Local_Radio_server
             stopKeyTextBox.Text = ConfigurationManager.AppSettings["StopKey"];
             volumeUpKeyTextBox.Text = ConfigurationManager.AppSettings["VolumeUpKey"];
             volumeDownKeyTextBox.Text = ConfigurationManager.AppSettings["VolumeDownKey"];
-            URLLabel.Text = ConfigurationManager.AppSettings["BaseURL"];
 
-            if (ConfigurationManager.AppSettings["BaseURL"].StartsWith("http://") == false)
+            if (!PluginExists())
             {
-                ConfigurationManager.AppSettings["BaseURL"] = "http://localhost:8330";
+                Setup setup = new Setup();
+                setup.ShowDialog();
+                if (!PluginExists())
+                {
+                    setup.Close();
+                    Environment.Exit(0);
+                }
+                else
+                {
+                    setup.Close();
+                }
             }
 
-
-            Telemetry = new Ets2SdkTelemetry();
+            Telemetry = new Ets2SdkTelemetry(250);
             Telemetry.Data += Telemetry_Data;
 
             if (Telemetry.Error != null)
@@ -72,6 +81,59 @@ namespace ETS2_Local_Radio_server
 
             //Overlay overlay = new Overlay();
             //overlay.Show();
+
+            IPHostEntry host;
+            string localIP = "?";
+            host = Dns.GetHostEntry(Dns.GetHostName());
+            foreach (IPAddress ip in host.AddressList)
+            {
+                if (ip.AddressFamily == AddressFamily.InterNetwork)
+                {
+                    comboIP.Items.Add("http://" + ip.ToString() + ":" + ConfigurationManager.AppSettings["Port"]);
+                }
+            }
+            comboIP.SelectedIndex = 0;
+        }
+
+        private bool PluginExists()
+        {
+            try
+            {
+                if (ConfigurationManager.AppSettings["Ets2Folder"] != null)
+                {
+                    if (Directory.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
+                                         @"\bin\win_x86\plugins") &&
+                        Directory.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
+                                         @"\bin\win_x64\plugins"))
+                    {
+                        if (
+                            File.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
+                                        @"\bin\win_x86\plugins\ets2-telemetry.dll") &&
+                            File.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
+                                        @"\bin\win_x64\plugins\ets2-telemetry.dll"))
+                        {
+                            return true;
+                        }
+                        else
+                        {
+                            return false;
+                        }
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
         }
 
         private void Telemetry_Data(Ets2Telemetry data, bool updated)
@@ -237,7 +299,7 @@ namespace ETS2_Local_Radio_server
             SaveAppSettings("VolumeDownKey", volumeDownKeyTextBox.Text);
         }
 
-        static void SaveAppSettings(string key, string value)
+        public static void SaveAppSettings(string key, string value)
         {
             try
             {

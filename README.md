@@ -6,7 +6,7 @@ and the Polish radio in Poland. It will switch automatically, and allow you to s
 ## How does it work? ##
 
 1. Download ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
-2. Extract it wherever you like, and copy the files from plugins to your ETS2 folder (or use plugins.exe in the plugins folder)
+2. Extract it wherever you like
 3. Execute ETS2 Local Radio server.exe, open ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
 
 ## Troubleshooting: ##

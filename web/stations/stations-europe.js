@@ -35,9 +35,29 @@ var stations = {
     ],
     "belarus": [
         {
-            name: "BR1",
-            logo: "stations/images/belarus/BR1.jpg",
-            url: "http://37.59.18.212:8000/;"
+            name: "1 канал",
+            logo: "stations/images/belarus/1 канал.jpg",
+            url: "http://video.tvr.by:8000/radio1"
+        },
+        {
+            name: "Канал Культура",
+            logo: "stations/images/belarus/Канал Культура.jpg",
+            url: "http://video.tvr.by:8000/culture"
+        },
+        {
+            name: "Радиус-FM",
+            logo: "stations/images/belarus/Радиус-FM.png",
+            url: "http://video.tvr.by:8000/radiusfm"
+        },
+        {
+            name: "Радыё Беларусь",
+            logo: "stations/images/belarus/Радыё Беларусь.png",
+            url: "http://video.tvr.by:8000/belfm"
+        },
+        {
+            name: "Радио Сталіца",
+            logo: "stations/images/belarus/Радио Сталіца.jpg",
+            url: "http://video.tvr.by:8000/stolica"
         },
         {
             name: "Радио Минск",
@@ -112,50 +132,75 @@ var stations = {
     "bulgaria": [
         {
             name: "BNR Horizont",
-            logo: "http://static.radio.net/images/broadcasts/ea/2a/16924/c175.png",
+            logo: "stations/images/bulgaria/BNR Horizont.png",
             url: "http://stream.bnr.bg:8002/horizont.mp3"
         },
         {
             name: "Alpha Radio",
-            logo: "http://cdn-radiotime-logos.tunein.com/s24925q.png",
+            logo: "stations/images/bulgaria/Alpha Radio.png",
             url: "http://alpharadio.bg:8000/stream"
         },
         {
             name: "Радио FM+",
-            logo: "http://autism2014.karindom.org/bundles/autismconf/images/radio-fmplus-logo.jpg",
+            logo: "stations/images/bulgaria/Радио FMplus.jpg",
             url: "http://fmplus-stream.atlantis.bg:8000/fmplus.ogg"
         },
         {
+            name: "Radio Fresh",
+            logo: "stations/images/bulgaria/Radio Fresh.png",
+            url: "http://193.108.24.21:8000/fresh"
+        },
+        {
             name: "Radio Melody",
-            logo: "https://upload.wikimedia.org/wikipedia/en/e/e8/Melody_radio_bulgaria.png",
+            logo: "stations/images/bulgaria/Radio Melody.png",
             url: "http://46.10.150.123:80/melody.mp3"
+        },
+        {
+            name: "Star FM",
+            logo: "stations/images/bulgaria/Star FM.png",
+            url: "http://pulsar.atlantis.bg:8000/starfm"
         },
     ],
     "czech": [
         {
             name: "ČRo Radiožurnál",
-            logo: "http://www.radiotv.cz/wp-content/uploads/2009/04/radiozurnal_mainlogotyp.jpg",
+            logo: "stations/images/czech/ČRo Radiožurnál.jpg",
             url: "http://amp.cesnet.cz:8000/cro1-256.ogg"
         },
         {
             name: "ČRo Dvojka",
-            logo: "http://www.sonskladno.cz/wp-content/uploads/2015/01/52_275_5150548978753_dvojka.jpg",
+            logo: "stations/images/czech/ČRo Dvojka.jpg",
             url: "http://amp.cesnet.cz:8000/cro2-256.ogg"
         },
         {
             name: "ČRo Vltava",
-            logo: "http://www.janatrojanova.cz/soubory/obrazky/moderovani/cesky-rozhlas-vltava/ceskyrozhlasvltava.jpg",
+            logo: "stations/images/czech/ČRo Vltava.jpg",
             url: "http://amp.cesnet.cz:8000/cro3-256.ogg"
         },
         {
+            name: "Rádio Blaník",
+            logo: "stations/images/czech/Rádio Blaník.png",
+            url: "http://ice.abradio.cz/blanikfm128.mp3"
+        },
+        {
             name: "Evropa 2",
-            logo: "https://img.static.lagardere.cz/evropa2/logo-evropa2.png",
+            logo: "stations/images/czech/Evropa 2.png",
             url: "http://icecast3.play.cz:80/evropa2-128.mp3"
         },
         {
             name: "Frekvence 1",
-            logo: "https://i.lagardere.cz/frekvence1/u/logo-f1-new.png",
+            logo: "stations/images/czech/Frekvence 1.png",
             url: "http://icecast4.play.cz:80/frekvence1-128.mp3"
+        },
+        {
+            name: "Impuls Ráááádio",
+            logo: "stations/images/czech/Impuls Ráááádio.png",
+            url: "http://icecast1.play.cz:80/impuls128.mp3"
+        },
+        {
+            name: "Radio 1",
+            logo: "stations/images/czech/Radio 1.png",
+            url: "http://icecast6.play.cz:80/radio1-128.mp3"
         },
     ],
     "denmark": [
@@ -550,49 +595,54 @@ var stations = {
     "germany-wdr": [
         {
             name: "WDR 1LIVE",
-            logo: "http://www1.wdr.de/resources/img/wdr/logo/epgmodule/1live_logo_claim.svg",
+            logo: "stations/images/germany-wdr/WDR 1LIVE.svg",
             url: "http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live"
         },
         {
             name: "WDR 2",
-            logo: "http://www1.wdr.de/radio/startseite/symbolbilder/dummy-logo108~_v-gseagaleriexl.jpg",
+            logo: "stations/images/germany-wdr/WDR 2.svg",
             url: "http://wdr-mp3-m-wdr2-koeln.akacast.akamaistream.net/7/812/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-koeln"
         },
         {
             name: "WDR 3",
-            logo: "http://www1.wdr.de/radio/wdr3/wdr3logo100~_v-gseagaleriexl.jpg",
+            logo: "stations/images/germany-wdr/WDR 3.svg",
             url: "http://wdr-3-320.akacast.akamaistream.net/7/827/119437/v1/gnl.akacast.akamaistream.net/wdr-3-320"
         },
         {
             name: "WDR 4",
-            logo: "http://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr4_logo_claim.svg",
+            logo: "stations/images/germany-wdr/WDR 4.svg",
             url: "http://wdr-4.akacast.akamaistream.net/7/42/119438/v1/gnl.akacast.akamaistream.net/wdr-4"
         },
         {
             name: "WDR 5",
-            logo: "http://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr5_logo_claim.svg",
+            logo: "stations/images/germany-wdr/WDR 5.svg",
             url: "http://wdr-5.akacast.akamaistream.net/7/41/119439/v1/gnl.akacast.akamaistream.net/wdr-5"
         },
     ],
     "hungary": [
         {
             name: "MR1-Kossuth Rádió",
-            logo: "http://radjo.hu/wp-content/uploads/2015/01/kossuth_radio_logo.jpg",
+            logo: "stations/images/hungary/MR1-Kossuth Rádió.jpg",
             url: "http://stream001.radio.hu:8080/mr1.mp3"
         },
         {
             name: "MR2-Petofi Rádió",
-            logo: "http://www.music.hu/pictures/22/resized/11297_zene_w800_h600.jpeg",
+            logo: "stations/images/hungary/MR2-Petofi Rádió.jpeg",
             url: "http://stream001.radio.hu:8080/mr2.mp3"
         },
         {
             name: "MR3-Bartók Rádió",
-            logo: "http://vignette1.wikia.nocookie.net/logopedia/images/c/ce/MR3-BARTOK.png/revision/latest?cb=20150704144601",
+            logo: "stations/images/hungary/MR3-Bartók Rádió.png",
             url: "http://stream001.radio.hu:8080/mr3.mp3"
         },
         {
+            name: "Class FM",
+            logo: "stations/images/hungary/Class FM.png",
+            url: "http://icast.connectmedia.hu/4784/live.mp3"
+        },
+        {
             name: "Music FM",
-            logo: "http://www.musicfm.hu/sites/default/files/styles/head-fooldal/public/head-fooldal/em_head_foold.jpg?itok=UbLJdydP",
+            logo: "stations/images/hungary/Music FM.jpg",
             url: "http://stream.musicfm.hu:8000/musicfm.mp3"
         },
     ],
@@ -608,17 +658,32 @@ var stations = {
             url: "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8"
         },
         {
+            name: "Bylgjan 98,9",
+            logo: "stations/images/iceland/Bylgjan 98,9.jpg",
+            url: "http://icecast.365net.is:8000/orbbylgjan.aac"
+        },
+        {
+            name: "FM957",
+            logo: "stations/images/iceland/FM957.png",
+            url: "http://icecast.365net.is:8000/orbFm957.aac"
+        },
+        {
             name: "Útvarp Saga",
             logo: "stations/images/iceland/Útvarp Saga.png",
             url: "http://radio.is:443/saga"
         },
         {
-            name: "Bylgjan 98,9",
-            logo: "stations/images/iceland/Bylgjan 98,9.jpg",
-            url: "http://icecast.365net.is:8000/orbbylgjan.aac"
+            name: "X-ið 977",
+            logo: "stations/images/iceland/X-ið 977.png",
+            url: "http://icecast.365net.is:8000/orbXid.aac"
         },
     ],
     "iom": [
+        {
+            name: "3FM",
+            logo: "stations/images/iom/3FM.jpg",
+            url: "http://tx.sharp-stream.com/http_live.php?i=3fmhigh.mp3"
+        },
         {
             name: "Manx Radio",
             logo: "stations/images/iom/Manx Radio.png",
@@ -908,47 +973,47 @@ var stations = {
     "poland": [
         {
             name: "Polskie Radio 1",
-            logo: "http://static.prsa.pl/images/aebdad39-4d4b-489f-a53f-a2c2abc70939.jpg",
+            logo: "stations/images/poland/Polskie Radio 1.jpg",
             url: "http://stream3.polskieradio.pl:8900/;"
         },
         {
             name: "Polskie Radio 2",
-            logo: "http://static.prsa.pl/images/b9ebde30-d8c2-41f1-942a-9df9e68a91df.jpg",
+            logo: "stations/images/poland/Polskie Radio 2.jpg",
             url: "http://stream3.polskieradio.pl:8902/;"
         },
         {
             name: "Polskie Radio 3",
-            logo: "http://polskafm.com/sites/default/files/radio/logos/logo-radio-trojka.jpg",
+            logo: "stations/images/poland/Polskie Radio 3.jpg",
             url: "http://stream3.polskieradio.pl:8904/;"
         },
         {
             name: "Antyradio",
-            logo: "http://gfx.antyradio.pl/var/antyradio/storage/images/kontakt-2237/373998-1-pol-PL/Kontakt.png",
+            logo: "stations/images/poland/Antyradio.png",
             url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
         },
         {
             name: "Planeta FM",
-            logo: "http://radiovolna.net/uploads/posts/2015-05/thumbs/1432675619_planetafm.jpg-807337.png",
+            logo: "stations/images/poland/Planeta FM.png",
             url: "http://pla-net-01.cdn.eurozet.pl:8700/;"
         },
         {
             name: "Radio Eska",
-            logo: "http://info.elblag.pl/images/artykuly-glowne/d/info.elblag.pl-24796-Jak-sprawdza-sie-Radio-ESKA.jpg",
+            logo: "stations/images/poland/Radio Eska.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t042-1.mp3"
         },
         {
             name: "Radio Zet",
-            logo: "http://gfx.radiozet.pl/design/radiozet/images/layout/logo-zet.png",
+            logo: "stations/images/poland/Radio Zet.png",
             url: "http://zet-old.cdn.eurozet.pl:8082/;"
         },
         {
             name: "Radio Złote Przeboje",
-            logo: "http://bi.gazeta.pl/im/5/20584/m20584975.png",
+            logo: "stations/images/poland/Radio Złote Przeboje.png",
             url: "http://bialystok.radio.pionier.net.pl:8000/pl/zloteprzeboje.ogg"
         },
         {
             name: "RMF FM",
-            logo: "https://upload.wikimedia.org/wikipedia/commons/5/53/RMF_FM_logo.svg",
+            logo: "stations/images/poland/RMF FM.svg",
             url: "http://195.150.20.244:8000/rmf_fm"
         },
     ],
@@ -1046,18 +1111,23 @@ var stations = {
     "slovenia": [
         {
             name: "Radio Slovenija A1",
-            logo: "http://go2radio.com/wp-content/uploads/2015/12/89ac0f3235ca8a8ee1c867545bb3366e-470x215.jpg",
+            logo: "stations/images/slovenia/Radio Slovenija A1.jpg",
             url: "http://mp3.rtvslo.si:80/ra1"
         },
         {
             name: "Radio Slovenija Val202",
-            logo: "http://vignette3.wikia.nocookie.net/logopedia/images/4/41/VAL_202_2015.png/revision/latest?cb=20150420121715",
+            logo: "stations/images/slovenia/Radio Slovenija Val202.png",
             url: "http://mp3.rtvslo.si:80/val202"
         },
         {
             name: "Radio 1",
-            logo: "https://upload.wikimedia.org/wikipedia/sl/8/83/Radio1_logo.jpg",
+            logo: "stations/images/slovenia/Radio 1.jpg",
             url: "http://live.radio.si/Radio1"
+        },
+        {
+            name: "Radio Aktual",
+            logo: "stations/images/slovenia/Radio Aktual.png",
+            url: "http://aktualrgl.radioca.st/Aktual"
         },
     ],
     "spain": [

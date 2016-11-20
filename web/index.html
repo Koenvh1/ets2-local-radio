@@ -20,15 +20,6 @@
     <script src="dashboard.js"></script>
 
     <script src="http://cdn.peerjs.com/0.3.14/peer.js"></script>
-
-    <script>
-        $.getScript("stations/" + g_skinConfig.stations, function () {
-            $.getScript("cities/" + g_skinConfig.map, function () {
-                initialise();
-            });
-        });
-        g_hls = new Hls();
-    </script>
 </head>
 <body>
 <div class="background">
@@ -75,7 +66,7 @@
                 <div class="alert alert-info update">An update is available! <a class="btn btn-xs btn-default" href="https://github.com/Koenvh1/ets2-local-radio/releases">Update now</a> </div>
                 <!--div class="alert alert-primary statusMessage"></div-->
                 <div class="alert alert-primary remote">This player is being controlled remotely</div>
-                <p><a href="http://koenvh.nl/submit-station" target="_blank" class="btn btn-xs btn-primary">Submit a new station</a><span class="label label-primary label-id">This device: <span class="peer-id"></span></span></p>
+                <p><a href="http://koenvh.nl/submit-station" target="_blank" class="btn btn-xs btn-primary">Submit a new station</a><span class="label label-primary label-id">This PeerID: <span class="peer-id"></span></span></p>
             </div>
         </div>
         <div class="row">
@@ -109,9 +100,10 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Enter the device ID:</h4>
+                    <h4 class="modal-title">Enter the device ID</h4>
                 </div>
                 <div class="modal-body">
+                    <p>Please enter the PeerID you see on the device you want to connect to:</p>
                     <div class="form-inline">
                         <input type="tel" pattern="[0-9]*" class="form-control number-input" maxlength="5" name="connectText" id="connectText">
                     </div>
@@ -124,6 +116,15 @@
     </div>
 </div>
 
+<script>
+    g_hls = new Hls();
+
+    $.getScript("stations/" + g_skinConfig.stations, function () {
+        $.getScript("cities/" + g_skinConfig.map, function () {
+            initialise();
+        });
+    });
+</script>
 <script>
     var id = null;
     var peer = null;
