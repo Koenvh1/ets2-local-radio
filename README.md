@@ -24,10 +24,7 @@ Please open an issue or [contact me](http://koenvh.nl/contact)
 
 ## Screenshots: ##
 ![Screenshot](http://i.imgur.com/is4eKez.png)
-_Screenshot in Norway (new layout)_
+_Screenshot in Norway_
 
-![Screenshot](http://i.imgur.com/1FOLMj5.png)
-_Screenshot near Białystok (old layout)_
-
-![Screenshot](http://i.imgur.com/KiFPfeP.png)
-_Screenshot near Suwałki (old layout)_
+![Screenshot](http://i.imgur.com/iJYFYED.png)
+_All available stations as of 0.6.0_
