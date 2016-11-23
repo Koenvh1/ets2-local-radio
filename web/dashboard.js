@@ -201,6 +201,14 @@ function refresh(data) {
 function setRadioStation(url, country, volume) {
     //Set current listening country for when crossing the border
     g_current_url = url;
+
+    if(conn != null && conn.open && !controlRemote){
+        conn.send(JSON.stringify({
+            type: "url",
+            url: url,
+            country: country
+        }));
+    }
     g_current_country = country;
     if(controlRemote){
         if(!conn.open){

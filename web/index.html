@@ -118,12 +118,20 @@
 
 <script>
     g_hls = new Hls();
-
-    $.getScript("stations/" + g_skinConfig.stations, function () {
-        $.getScript("cities/" + g_skinConfig.map, function () {
-            initialise();
+    loadScripts();
+    function loadScripts() {
+        $.getScript("stations/" + g_skinConfig.stations, function () {
+            $.getScript("cities/" + g_skinConfig.map, function () {
+                initialise();
+            }).fail(function () {
+                loadScripts();
+                return;
+            });
+        }).fail(function () {
+            loadScripts();
+            return;
         });
-    });
+}
 </script>
 <script>
     var id = null;
@@ -161,6 +169,11 @@
             //Show connected
             console.log("Someone started controlling this player remotely");
             $(".remote").show();
+            conn.send(JSON.stringify({
+                type: "url",
+                url: g_current_url,
+                country: g_current_country
+            }));
         }
         if(response.type == "station"){
             setRadioStation(response.url, response.country, response.volume);
@@ -171,6 +184,11 @@
         if(response.type == "volume"){
             g_volume = response.volume;
             $("#volumeControl").val(response.volume * 100);
+        }
+        if(response.type == "url"){
+            g_current_url = response.url;
+            g_current_country = response.country;
+            refreshStations();
         }
     }
 

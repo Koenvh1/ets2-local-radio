@@ -1,6 +1,6 @@
 # ETS2 Local Radio #
 
-ETS2 Local Radio plays ready from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
+ETS2 Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
 
 ## How does it work? ##

@@ -12,7 +12,7 @@ var country_properties = {
         relative_radius: 1,
     },
     "france": {
-        relative_radius: 1.05,
+        relative_radius: 1.4,
     },
     "germany": {
         relative_radius: 1,
@@ -30,10 +30,10 @@ var country_properties = {
         relative_radius: 1,
     },
     "norway": {
-        relative_radius: 1.1,
+        relative_radius: 1.4,
     },
     "poland": {
-        relative_radius: 1,
+        relative_radius: 1.4,
     },
     "slovakia": {
         relative_radius: 1,

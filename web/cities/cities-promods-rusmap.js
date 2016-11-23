@@ -249,6 +249,12 @@ var city_properties = {
     "bilbao": {
         relative_radius: 0.7,
     },
+    "borisoglebsk": {
+        relative_radius: 2,
+    },
+    "bryansk": {
+        relative_radius: 1.6,
+    },
     "burg": {
         relative_radius: 0.5,
     },
@@ -469,7 +475,8 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "rostock": {
-        relative_radius: 0.6,
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95,
     },
     "ruse": {
         relative_radius: 0.6,
@@ -498,6 +505,9 @@ var city_properties = {
     "tallinn": {
         relative_radius: 0.65,
     },
+    "tambov": {
+        relative_radius: 2,
+    },
     "trelleborg": {
         relative_radius: 0.5,
     },
@@ -512,6 +522,9 @@ var city_properties = {
     },
     "trondheim": {
         relative_radius: 0.7,
+    },
+    "tula": {
+        relative_radius: 1.6,
     },
     "turku": {
         relative_radius: 0.8,
@@ -536,6 +549,12 @@ var city_properties = {
     },
     "vik": {
         relative_radius: 1.4,
+    },
+    "volgograd": {
+        relative_radius: 2,
+    },
+    "voronezh": {
+        relative_radius: 1.6,
     },
     "vyborg": {
         relative_radius: 0.8,
@@ -3300,6 +3319,14 @@ var cities = [
         "z": "-16169.5"
     },
     {
+        "gameName": "borisoglebsk",
+        "realName": "Borisoglebsk",
+        "country": "russia",
+        "x": "112287.21",
+        "y": "-13.23",
+        "z": "-21023.75"
+    },
+    {
         "gameName": "brect",
         "realName": "Brest",
         "country": "belarus",
@@ -3354,6 +3381,14 @@ var cities = [
         "x": "92995.8",
         "y": "33.2383",
         "z": "-38100.1"
+    },
+    {
+        "gameName": "krasnoslob",
+        "realName": "Krasnoslobodsk",
+        "country": "russia",
+        "x": "129178.15",
+        "y": "16.91",
+        "z": "-7517.36"
     },
     {
         "gameName": "kursk",
@@ -3540,6 +3575,14 @@ var cities = [
         "z": "-29374.4"
     },
     {
+        "gameName": "tambov",
+        "realName": "Tambov",
+        "country": "russia",
+        "x": "107368.8",
+        "y": "-0.77",
+        "z": "-28753.20"
+    },
+    {
         "gameName": "tula",
         "realName": "Tula",
         "country": "russia",
@@ -3580,6 +3623,14 @@ var cities = [
         "z": "-32173.2"
     },
     {
+        "gameName": "volgograd",
+        "realName": "Volgograd",
+        "country": "russia",
+        "x": "128082.85",
+        "y": "66.16",
+        "z": "-10015.88"
+    },
+    {
         "gameName": "volochyok",
         "realName": "Vyshny Volochyok",
         "country": "russia",
@@ -3594,6 +3645,14 @@ var cities = [
         "x": "82679.4",
         "y": "70.2461",
         "z": "-40014.5"
+    },
+    {
+        "gameName": "volzhkiy",
+        "realName": "Volzhkiy",
+        "country": "russia",
+        "x": "131991.45",
+        "y": "44.86",
+        "z": "-10479.71"
     },
     {
         "gameName": "voronezh",
@@ -3626,6 +3685,89 @@ var cities = [
         "x": "80491.7",
         "y": "52.1523",
         "z": "-30929.9"
+    }
+];
+
+var cities_projects_balkans = [
+    {
+        "gameName": "brod",
+        "realName": "Brod",
+        "country": "bosnia",
+        "x": "28427",
+        "y": "51.6484",
+        "z": "31904.5"
+    },
+    {
+        "gameName": "doboj",
+        "realName": "Doboj",
+        "country": "bosnia",
+        "x": "28738.5",
+        "y": "65.1211",
+        "z": "33952"
+    },
+    {
+        "gameName": "ljubljana",
+        "realName": "Ljubljana",
+        "country": "slovenia",
+        "x": "14583",
+        "y": "96.9883",
+        "z": "26544.1"
+    },
+    {
+        "gameName": "maribor",
+        "realName": "Maribor",
+        "country": "slovenia",
+        "x": "18319.2",
+        "y": "79.1992",
+        "z": "24176.3"
+    },
+    {
+        "gameName": "mitrovica",
+        "realName": "Сремска Митровица (Sremska Mitrovica)",
+        "country": "serbia",
+        "x": "34996",
+        "y": "61.3672",
+        "z": "32520.7"
+    },
+    {
+        "gameName": "novomesto",
+        "realName": "Novo mesto",
+        "country": "slovenia",
+        "x": "17082.4",
+        "y": "58.2578",
+        "z": "28594.2"
+    },
+    {
+        "gameName": "osijek",
+        "realName": "Osijek",
+        "country": "croatia",
+        "x": "30999.1",
+        "y": "84.6719",
+        "z": "29231.6"
+    },
+    {
+        "gameName": "sla_brod",
+        "realName": "Slavonski Brod",
+        "country": "croatia",
+        "x": "28441.5",
+        "y": "49.3047",
+        "z": "31539.2"
+    },
+    {
+        "gameName": "udine",
+        "realName": "Udine",
+        "country": "italy",
+        "x": "9876.48",
+        "y": "68.9219",
+        "z": "26440.5"
+    },
+    {
+        "gameName": "virovitica",
+        "realName": "Virovitica",
+        "country": "croatia",
+        "x": "25820.5",
+        "y": "63.9453",
+        "z": "27611.5"
     }
 ];
 
@@ -3807,6 +3949,13 @@ var cities_wip = [
         "z": "-33969.27"
     },
     {
+        "gameName": "sligo",
+        "realName": "Sligo (Sligeach)",
+        "country": "ireland",
+        "x": "-71511.34",
+        "y": "8.27",
+        "z": "-42217.29" },
+    {
         "gameName": "trieste",
         "realName": "Trieste",
         "country": "italy",
@@ -3825,3 +3974,4 @@ var cities_wip = [
 ];
 
 cities = cities.concat(cities_wip);
+//cities = cities.concat(cities_projects_balkans);
