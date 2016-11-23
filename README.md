@@ -26,5 +26,5 @@ Please open an issue or [contact me](http://koenvh.nl/contact)
 ![Screenshot](http://i.imgur.com/is4eKez.png)
 _Screenshot in Norway_
 
-![Screenshot](http://i.imgur.com/iJYFYED.png)
-_All available stations as of 0.6.0_
+![Screenshot](http://i.imgur.com/c9wCREg.png)
+_All available stations as of 1.0.0_
