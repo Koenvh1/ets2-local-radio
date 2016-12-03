@@ -10,10 +10,13 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Windows.Forms;
 using Ets2SdkClient;
 using Gma.System.MouseKeyHook;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ETS2_Local_Radio_server
 {
@@ -32,6 +35,10 @@ namespace ETS2_Local_Radio_server
         public static object ets2data;
         public static Commands commandsData;
 
+        public static string simulatorNotRunning = "Simulator not yet running";
+        public static string simulatorNotDriving = "Simulator running, let's get driving!";
+        public static string simulatorRunning = "Simulator running!";
+
         public Main()
         {
             InitializeComponent();
@@ -43,6 +50,30 @@ namespace ETS2_Local_Radio_server
             Subscribe();
 
             AddException();
+
+            try
+            {
+                foreach (String file in Directory.GetFiles(Directory.GetCurrentDirectory() + "\\web\\lang"))
+                {
+                    if (file.EndsWith(".json"))
+                    {
+                        comboLang.Items.Add(Path.GetFileNameWithoutExtension(file));
+                    }
+                }
+                if (ConfigurationManager.AppSettings["Language"] != null)
+                {
+                    comboLang.Text = ConfigurationManager.AppSettings["Language"];
+                }
+                else
+                {
+                    comboLang.Text = "";
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+
 
             nextKeyTextBox.Text = ConfigurationManager.AppSettings["NextKey"];
             previousKeyTextBox.Text = ConfigurationManager.AppSettings["PreviousKey"];
@@ -77,7 +108,7 @@ namespace ETS2_Local_Radio_server
             }
 
             myServer = new SimpleHTTPServer(Directory.GetCurrentDirectory() + "\\web", Int32.Parse(ConfigurationManager.AppSettings["Port"]));
-            writeFile("none", 0, "0");
+            writeFile("none", "0", "0");
 
             //Overlay overlay = new Overlay();
             //overlay.Show();
@@ -145,28 +176,30 @@ namespace ETS2_Local_Radio_server
                     this.Invoke(new TelemetryData(Telemetry_Data), new object[2] { data, updated });
                     return;
                 }
+                
                 ets2data = data;
                 coordinates = new Coordinates(data.Physics.CoordinateX, data.Physics.CoordinateY, data.Physics.CoordinateZ);
                 locationLabel.Text = coordinates.X + "; " + coordinates.Y + "; " + coordinates.Z;
 
                 if (data.Version.Ets2Major == 0)
                 {
-                    statusLabel.Text = "Simulator not yet running";
+                    statusLabel.Text = simulatorNotRunning;
                     statusLabel.ForeColor = Color.Red;
                 }
                 else if (data.Time == 0)
                 {
-                    statusLabel.Text = "Simulator running, let's get driving!";
+                    statusLabel.Text = simulatorNotDriving;
                     statusLabel.ForeColor = Color.DarkOrange;
                 }
                 else
                 {
-                    statusLabel.Text = "Simulator running!";
+                    statusLabel.Text = simulatorRunning;
                     statusLabel.ForeColor = Color.DarkGreen;
                 }
             }
-            catch
+            catch (Exception ex)
             {
+                Console.Write(ex.ToString());
             }
         }
 
@@ -200,7 +233,7 @@ namespace ETS2_Local_Radio_server
                 //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
                 Unsubscribe();
                 myServer.Stop();
-                writeFile("none", 0, "0");
+                writeFile("none", "0", "0");
                 DeleteException();
                 Application.Exit();
             }
@@ -241,19 +274,19 @@ namespace ETS2_Local_Radio_server
                 {
                     Console.WriteLine("Fired event StopKey");
 
-                    writeFile("stop", 0);
+                    writeFile("stop", "0");
                 }
                 if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeUpKey"], true))
                 {
                     Console.WriteLine("Fired event VolumeUpKey");
 
-                    writeFile("volume", 5);
+                    writeFile("volume", "5");
                 }
                 if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeDownKey"], true))
                 {
                     Console.WriteLine("Fired event VolumeDownKey");
 
-                    writeFile("volume", -5);
+                    writeFile("volume", "-5");
                 }
             }
             catch (Exception ex)
@@ -272,19 +305,19 @@ namespace ETS2_Local_Radio_server
         private void keyTimeout_Tick(object sender, EventArgs e)
         {
             keyTimeout.Stop();
-            writeFile("next", amount);
+            writeFile("next", amount.ToString());
             amount = 0;
             Console.WriteLine(amount);
         }
 
-        private void writeFile(string action, int amount, string id = null)
+        private void writeFile(string action, string amount, string id = null)
         {
             if (id == null)
             {
                 id = Guid.NewGuid().ToString("n");
             }
 
-            Commands command = new Commands(id, action, amount);
+            Commands command = new Commands(id, action, amount, comboLang.SelectedItem.ToString());
             commandsData = command;
             //StreamWriter streamWriter = new StreamWriter(ConfigurationManager.AppSettings["Folder"] + "\\commands.json");
             //streamWriter.WriteLine(json);
@@ -362,6 +395,43 @@ namespace ETS2_Local_Radio_server
         private void Koenvh_Click(object sender, EventArgs e)
         {
             Process.Start("http://koenvh.nl");
+        }
+
+        private void comboLang_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                StreamReader reader = new StreamReader(Directory.GetCurrentDirectory() + "\\web\\lang\\" + comboLang.SelectedItem.ToString() + ".json");
+                string content = reader.ReadToEnd();
+                Console.Write(content);
+                dynamic data = JObject.Parse(content);
+                dynamic server = data.server;
+
+                groupInfo.Text = (server["info"] ?? groupInfo.Text);
+                statusInfo.Text = (server["status"] ?? statusInfo.Text);
+                simulatorNotRunning = (server["simulator-not-running"] ?? simulatorNotRunning);
+                simulatorNotDriving = (server["simulator-not-driving"] ?? simulatorNotDriving);
+                simulatorRunning = (server["simulator-running"] ?? simulatorRunning);
+                coordinatesInfo.Text = (server["coordinates"] ?? coordinatesInfo.Text);
+                URLInfo.Text = (server["url"] ?? URLInfo.Text);
+                URLLabel.Text = (server["open-local-radio"] ?? URLLabel.Text);
+                groupSettings.Text = (server["settings"] ?? groupSettings.Text);
+                nextKeyLabel.Text = (server["next-station-key"] ?? nextKeyLabel.Text);
+                previousKeyLabel.Text = (server["previous-station-key"] ?? previousKeyLabel.Text);
+                stopKeyLabel.Text = (server["stop-playback-key"] ?? stopKeyLabel.Text);
+                volumeUpKeyLabel.Text = (server["volume-up-key"] ?? volumeUpKeyLabel.Text);
+                volumeDownKeyLabel.Text = (server["volume-down-key"] ?? volumeDownKeyLabel.Text);
+                saveButton.Text = (server["save"] ?? saveButton.Text);
+
+                SaveAppSettings("Language", comboLang.SelectedItem.ToString());
+
+                writeFile("language", "0");
+            }
+            catch (Exception ex)
+            {
+                Console.Write(ex.ToString());
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }

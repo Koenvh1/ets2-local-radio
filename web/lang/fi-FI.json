@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "LoaderSaints",
+    "connect-other-device": "Yhdistä toiseen laitteeseen",
+    "coverage-map": "Kuuluvuuskartta",
+    "stop-playback": "Pysäytä toisto",
+    "stations": "Kanavat:",
+    "update-available": "Uusi päivitys on saatavissa!",
+    "update-now": "Päivitä nyt",
+    "controlled-remotely": "Tätä soitinta hallitaan etänä",
+    "submit-station": "Ehdota uutta kanavaa",
+    "this-peerid": "Tämän laitteen PeerID:",
+    "waiting-coordinates": "Odotetaan  pelinsisäisiä koordinaatteja...",
+    "closest-city": "Lähin kaupunki on: <span class='nearestCity'></span>, <span class='distance'></span> metrin päässä",
+    "amount-static": "Häiriön määrä:",
+    "show-all": "Näytä kaikki / Näytä vähemmän",
+    "enter-peerid-title": "Syötä PeerID",
+    "enter-peerid-body": "Syötä yhdistettävän laitteen ruudulla näkyvä PeerID:",
+    "connect": "Yhdistä",
+    "make-favourite": "Lisää suosikiksi"
+  },
+  "server": {
+    "info": "Tietoja",
+    "status": "Tila:",
+    "simulator-not-running": "Simulaattori ei vielä käynnissä",
+    "simulator-not-driving": "Simulaattori käynnissä, lähdetään liikkeelle!",
+    "simulator-running": "Simulaattori käynnissä!",
+    "coordinates": "Koordinaatit:",
+    "url": "URL:",
+    "open-local-radio": "Avaa ETS2 Local Radio",
+    "settings": "Asetukset",
+    "next-station-key": "Seuraava kanava -näppäin:",
+    "previous-station-key": "Edellinen kanava -näppäin:",
+    "stop-playback-key": "Pysäytä toisto -näppäin:",
+    "volume-up-key": "Lisää äänenvoimakkuutta -näppäin:",
+    "volume-down-key": "Alenna äänenvoimakkuutta -näppäin:",
+    "save": "Tallenna",
+    "ets2-folder-dialog": "Valitse kansio johon Euro Truck Simulator 2 on asennettu, tavallisesti C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

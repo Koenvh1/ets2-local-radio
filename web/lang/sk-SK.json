@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "Preložil ZelvaCZ",
+    "connect-other-device": "Pripojiť k inému zariadeniu",
+    "coverage-map": "Mapa pokrytia",
+    "stop-playback": "Zastaviť playback",
+    "stations": "Stanice:",
+    "update-available": "Je dostupná aktualizácia!",
+    "update-now": "Aktualizovať teraz",
+    "controlled-remotely": "Tento prehrávač je ovládany na diaľku",
+    "submit-station": "Pridať novú stanicu",
+    "this-peerid": "PeerID tohto zariadenia:",
+    "waiting-coordinates": "Čakanie na súradnice v hre...",
+    "closest-city": "Najbližšie mesto je: <span class='nearestCity'></span>, <span class='distance'></span> metrov ďaleko",
+    "amount-static": "Množstvo šumu:",
+    "show-all": "Prepnúť režim zobrazenia",
+    "enter-peerid-title": "Zadajte PeerID",
+    "enter-peerid-body": "Prosím zadajte PeerID, ktoré môžete vidieť u zariadenia, ku ktorému sa chcete pripojiť:",
+    "connect": "Pripojiť",
+    "make-favourite": "Pridať k obľúbeným"
+  },
+  "server": {
+    "info": "Info",
+    "status": "Status:",
+    "simulator-not-running": "Simulator not yet running",
+    "simulator-not-driving": "Simulator running, let's get driving!",
+    "simulator-running": "Simulator running!",
+    "coordinates": "Coordinates:",
+    "url": "URL:",
+    "open-local-radio": "Open ETS2 Local Radio",
+    "settings": "Settings",
+    "next-station-key": "Next station key:",
+    "previous-station-key": "Previous station key:",
+    "stop-playback-key": "Stop playback key:",
+    "volume-up-key": "Volume up key:",
+    "volume-down-key": "Volume down key:",
+    "save": "Save",
+    "ets2-folder-dialog": "Please select the Euro Truck Simulator 2 installation folder, usually found in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "",
+    "connect-other-device": "Verbind met een ander apparaat",
+    "coverage-map": "Dekkingskaart",
+    "stop-playback": "Stop afspelen",
+    "stations": "Zenders:",
+    "update-available": "Er is een update beschikbaar!",
+    "update-now": "Nu updaten",
+    "controlled-remotely": "Deze speler wordt op afstand bestuurd",
+    "submit-station": "Nieuwe radiozender toevoegen",
+    "this-peerid": "PeerID van dit apparaat:",
+    "waiting-coordinates": "Op zoek naar de coördinaten in het spel...",
+    "closest-city": "Dichtstbijzijnde stad: <span class='nearestCity'></span>, op <span class='distance'></span> meter afstand",
+    "amount-static": "Hoeveelheid ruis:",
+    "show-all": "Alles bekijken in- of uitschakelen",
+    "enter-peerid-title": "Voer het PeerID in",
+    "enter-peerid-body": "Voer alstublieft het PeerID van het apparaat waarmee u wilt verbinden:",
+    "connect": "Verbinden",
+    "make-favourite": "Maak favoriet"
+  },
+  "server": {
+    "info": "Informatie",
+    "status": "Status:",
+    "simulator-not-running": "Simulator wordt nog niet uitgevoerd",
+    "simulator-not-driving": "Simulator draait, laten we gaan rijden!",
+    "simulator-running": "Simulator draait!",
+    "coordinates": "Coördinaten:",
+    "url": "URL:",
+    "open-local-radio": "Open ETS2 Local Radio",
+    "settings": "Instellingen",
+    "next-station-key": "Toets volgende station:",
+    "previous-station-key": "Toets vorig station:",
+    "stop-playback-key": "Toets stop afspelen:",
+    "volume-up-key": "Toets volume omhoog:",
+    "volume-down-key": "Toets volume omlaag:",
+    "save": "Opslaan",
+    "ets2-folder-dialog": "Kies alstublieft de Euro Truck Simulator 2-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

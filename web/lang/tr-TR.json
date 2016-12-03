@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "taotekno",
+    "connect-other-device": "Başka bir cihaza bağlan",
+    "coverage-map": "Harita kapsamı",
+    "stop-playback": "Oynatmayı durdur",
+    "stations": "İstasyonlar:",
+    "update-available": "Güncelleme mevcut!",
+    "update-now": "Şimdi güncelle",
+    "controlled-remotely": "Bu oyuncu uzaktan kontrol ediliyor",
+    "submit-station": "Yeni bir istasyon tavsiye et",
+    "this-peerid": "Bu cihazın PeerID:",
+    "waiting-coordinates": "Oyun içindeki koordinatlarınız bekleniyor...",
+    "closest-city": "En yakın şehir: <span class='nearestCity'></span>, <span class='mesafe'></span> metre uzaklıkta",
+    "amount-static": "Giriş miktarı:",
+    "show-all": "Tümünü göster",
+    "enter-peerid-title": "PeerID Girin",
+    "enter-peerid-body": "Lütfen bağlanmak istediğiniz cihazdaki gördüğünüz PeerID 'yi giriniz.:",
+    "connect": "Bağlan",
+    "make-favourite": "Favorilere ekle"
+  },
+  "server": {
+    "info": "Bilgi",
+    "status": "Durum:",
+    "simulator-not-running": "Simulator açık değil",
+    "simulator-not-driving": "Simulator açık, hadi sürelim!",
+    "simulator-running": "Simulator açık!",
+    "coordinates": "Koordinatlar:",
+    "url": "URL:",
+    "open-local-radio": "ETS2 Yerel Radyo Aç",
+    "settings": "Ayarlar",
+    "next-station-key": "Sonraki istasyon tuşu:",
+    "previous-station-key": "Önceki istasyon tuşu:",
+    "stop-playback-key": "Oynatmayı durdurma tuşu:",
+    "volume-up-key": "Ses açma tuşu:",
+    "volume-down-key": "Ses kısma tuşu:",
+    "save": "Kaydet",
+    "ets2-folder-dialog": "Lütfen Euro Truck Simulator 2 'nin yüklü olduğu dosyayı seçiniz. Genellikle şurada olur: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

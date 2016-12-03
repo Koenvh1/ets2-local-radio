@@ -1,31 +1,31 @@
 ﻿<!DOCTYPE html>
 <head>
     <title>ETS2 Local Radio</title>
-    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico' />
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
 
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#2EBB1E">
-    <link href="bootstrap.css" type="text/css" rel="stylesheet">
-    <link href="dashboard.css" type="text/css" rel="stylesheet">
+    <link href="lib/css/bootstrap.css" type="text/css" rel="stylesheet">
+    <link href="lib/css/style.css" type="text/css" rel="stylesheet">
 
     <script src="config.js"></script>
 
-    <script src="hls.js"></script>
+    <script src="lib/js/hls.js"></script>
 
-    <script src="jquery-3.1.1.js"></script>
-    <script src="bootstrap.js"></script>
+    <script src="lib/js/jquery-3.1.1.js"></script>
+    <script src="lib/js/bootstrap.js"></script>
 
-    <script src="dashboard.js"></script>
+    <script src="lib/js/main.js"></script>
 
     <script src="http://cdn.peerjs.com/0.3.14/peer.js"></script>
 </head>
 <body>
-<div class="background">
+<div>
     <audio id="player" src="about:blank" autoplay></audio>
-    <audio id="whitenoise" src="content/whitestatic.mp3" loop></audio>
-    <audio id="switchStation" src="content/radio_switch.mp3" loop autoplay></audio>
+    <audio id="whitenoise" src="lib/audio/whitestatic.mp3" loop></audio>
+    <audio id="switchStation" src="lib/audio/radio_switch.mp3" loop autoplay></audio>
     <nav class="navbar navbar-default navbar-static-top" role="navigation">
         <div class="col-xs-12">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -36,19 +36,20 @@
                 <span class="icon-bar"></span>
             </button>
             <div class="navbar-header">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="javascript:location.reload(true);">
                     Local Radio
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#" data-toggle="modal" data-target="#connectModal">Connect to other device</a></li>
+                    <li><a href="#" data-toggle="modal" data-target="#connectModal" class="lang-connect-other-device">Connect to another device</a></li>
+                    <li><a href="map.html" target="_blank" class="lang-coverage-map">Coverage map</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <!--li class="disabled"><a>Currently playing: <span class="current-station"></span></a></li-->
                     <li><a><input id="volumeControl" class="input-sm input-nav" type="range" name="points" min="0" max="100" style="min-width: 100px" title="Volume"></a></li>
-                    <li><a href="#" onclick="setRadioStation('', 'none', 0)">Stop playback</a></li>
+                    <li><a href="#" onclick="setRadioStation('', 'none', 0)" class="lang-stop-playback">Stop playback</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -59,20 +60,24 @@
     <!-- Page Content -->
     <div class="col-xs-12">
         <div class="row">
-            <h1 class="text-center">Stations:</h1>
+            <h1 class="text-center lang-stations">Stations:</h1>
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <div class="alert alert-info update">An update is available! <a class="btn btn-xs btn-default" href="https://github.com/Koenvh1/ets2-local-radio/releases">Update now</a> </div>
+                <div class="alert alert-info update"><span class="lang-update-available">An update is available!</span> <a class="btn btn-xs btn-default" href="https://github.com/Koenvh1/ets2-local-radio/releases"><span class="lang-update-now">Update now</span></a> </div>
                 <!--div class="alert alert-primary statusMessage"></div-->
-                <div class="alert alert-primary remote">This player is being controlled remotely</div>
-                <p><a href="http://koenvh.nl/submit-station" target="_blank" class="btn btn-xs btn-primary">Submit a new station</a><span class="label label-primary label-id">This PeerID: <span class="peer-id"></span></span></p>
+                <div class="alert alert-primary remote lang-controlled-remotely">This player is being controlled remotely</div>
+                <p>
+                    <a href="http://koenvh.nl/submit-station" target="_blank" class="btn btn-xs btn-primary lang-submit-station">Submit a new station</a>
+                    <span class="label label-primary label-id"><span class="lang-this-peerid">The PeerID of this device:</span> <span class="peer-id"></span></span>
+                </p>
             </div>
         </div>
         <div class="row">
             <div id="stationsList">
-                <div class="col-xs-12 text-center">
-                    <img src="content/loading.gif" alt="Loading">
+                <div class="col-xs-12 text-center ">
+                    <img src="lib/img/loading.gif" alt="Loading"><br>
+                    <h3 class="lang-waiting-coordinates">Waiting for your in-game coordinates...</h3><br>
                 </div>
             </div>
         </div>
@@ -83,12 +88,13 @@
             <div class="row">
                 <div class="col-lg-12">
                     <p class="well-sm">
-                        Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> meters away |
-                        Amount of static: <span class="whitenoise-volume"></span> |
+                        <span class="lang-closest-city">Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> meters away</span> |
+                        <span class="lang-amount-static">Amount of static:</span> <span class="whitenoise-volume"></span> |
                         PeerID: <span class="peer-id"></span> |
-                        <a onclick="g_show_all = !g_show_all;" href="#">Toggle show all</a>
+                        <a onclick="g_show_all = !g_show_all;" href="#" class="lang-show-all">Toggle show all</a>
                     </p>
-                    <p class="text-center"><a href="http://koenvh.nl" target="_blank"> <img src="content/koenvh.png" alt="Koenvh"></a></p>
+                    <p class="text-center"><a href="http://koenvh.nl" target="_blank"> <img src="lib/img/koenvh.png" alt="Koenvh"></a></p>
+                    <p class="text-center lang-author"></p>
                 </div>
             </div>
         </footer>
@@ -100,16 +106,16 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Enter the device ID</h4>
+                    <h4 class="modal-title lang-enter-peerid-title">Enter the PeerID</h4>
                 </div>
                 <div class="modal-body">
-                    <p>Please enter the PeerID you see on the device you want to connect to:</p>
+                    <p class="lang-enter-peerid-body">Please enter the PeerID you see on the device you want to connect to:</p>
                     <div class="form-inline">
                         <input type="tel" pattern="[0-9]*" class="form-control number-input" maxlength="5" name="connectText" id="connectText">
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-block btn-primary" data-dismiss="modal" onclick="connect($('#connectText').val());">Connect</button>
+                    <button type="button" class="btn btn-block btn-primary lang-connect" data-dismiss="modal" onclick="connect($('#connectText').val());">Connect</button>
                 </div>
             </div>
         </div>
@@ -117,11 +123,18 @@
 </div>
 
 <script>
+    var game = "ets2";
+    if(window.location.href.split("?").length > 1) {
+        if (window.location.href.split("?")[1].indexOf("ats") == 0){
+            game = "ats";
+        }
+    }
+
     g_hls = new Hls();
     loadScripts();
     function loadScripts() {
-        $.getScript("stations/" + g_skinConfig.stations, function () {
-            $.getScript("cities/" + g_skinConfig.map, function () {
+        $.getScript("stations/" + g_skinConfig[game].stations, function () {
+            $.getScript("cities/" + g_skinConfig[game].map, function () {
                 initialise();
             }).fail(function () {
                 loadScripts();
@@ -194,7 +207,11 @@
 
     function connect(peerID) {
         if(peerID == "666"){
-            $("body").css('font-family', '"Comic Sans MS", fantasy, serif')
+            $("*").css({
+                'font-family': '"Comic Sans MS", fantasy, serif',
+                'color': 'blue',
+                'background-color': 'red'
+            });
         }
         conn = peer.connect(peerID);
         conn.on('open', function () {

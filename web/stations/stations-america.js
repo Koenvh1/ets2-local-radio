@@ -1,23 +1,23 @@
 var stations = {
     "arizona": [
         {
-            name: "A",
-            logo: "A",
-            url: "A"
+            name: "KZBX-LP",
+            logo: "stations/images-america/arizona/KZBX-LP.jpg",
+            url: "http://162.251.160.115:8050/;"
         },
     ],
     "california": [
         {
-            name: "C",
-            logo: "C",
-            url: "C"
+            name: "KPCC",
+            logo: "stations/images-america/california/KPCC.png",
+            url: "http://live.scpr.org/kpcclive/"
         },
     ],
     "nevada": [
         {
-            name: "N",
-            logo: "N",
-            url: "N"
+            name: "KNPR",
+            logo: "stations/images-america/nevada/KNPR.svg",
+            url: "http://66.209.79.122:8006/;"
         },
     ]
 };

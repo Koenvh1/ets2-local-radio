@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "martinuS",
+    "connect-other-device": "Ühendu teise seadmega",
+    "coverage-map": "Levialakaart",
+    "stop-playback": "Lõpeta mängimine",
+    "stations": "Jaamad:",
+    "update-available": "Uuendus on saadaval!",
+    "update-now": "Uuenda nüüd",
+    "controlled-remotely": "See pleier on distantsjuhtimise all",
+    "submit-station": "Esita uus jaam",
+    "this-peerid": "Selle seadme PeerID:",
+    "waiting-coordinates": "Ootan sinu mängusiseseid koordinaate...",
+    "closest-city": "Lähim linn: <span class='nearestCity'></span>, <span class='distance'></span> meetri kaugusel",
+    "amount-static": "Müra kogus",
+    "show-all": "Näita kõiki",
+    "enter-peerid-title": "Sisesta PeerID",
+    "enter-peerid-body": "Palun sisesta seadme PeerID, kuhu soovid ühilduda:",
+    "connect": "Ühenda",
+    "make-favourite": "Märgi lemmikuks"
+  },
+  "server": {
+    "info": "Info",
+    "status": "Staatus:",
+    "simulator-not-running": "Simulaator ei tööta.",
+    "simulator-not-driving": "Simulaator töötab, lähme sõitma!",
+    "simulator-running": "Simulaator töötab.",
+    "coordinates": "Koordinaadid:",
+    "url": "URL:",
+    "open-local-radio": "Ava ETS2 Local Radio",
+    "settings": "Sätted",
+    "next-station-key": "Järgmine jaam:",
+    "previous-station-key": "Eelmine jaam:",
+    "stop-playback-key": "Lõpeta mängimine:",
+    "volume-up-key": "Helitugevuse suurendamine:",
+    "volume-down-key": "Helitugevuse vähendamine",
+    "save": "Salvesta",
+    "ets2-folder-dialog": "Palun vali Euro Truck Simulator 2'e installatsioonikaust, tavaliselt leitud kohas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

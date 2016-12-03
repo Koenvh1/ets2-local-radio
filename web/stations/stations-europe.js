@@ -11,6 +11,23 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://194.158.80.31:443/live/am/playlist.m3u8"
         },
     ],
+    "armenia": [
+        {
+            name: "Armenian Pulse Radio",
+            logo: "stations/images-europe/other/Armenian Pulse Radio.jpeg",
+            url: "http://radiotrucker.com/tr/play/1949/501"
+        },
+        {
+            name: "Lav Radio",
+            logo: "stations/images-europe/other/Lav Radio.jpg",
+            url: "http://radiotrucker.com/tr/play/1949/499"
+        },
+        {
+            name: "Radio Jan",
+            logo: "stations/images-europe/other/Radio Jan.jpg",
+            url: "http://radiotrucker.com/tr/play/1949/500"
+        },
+    ],
     "austria": [
         {
             name: "ORF Ö1",
@@ -243,17 +260,17 @@ var stations = {
     "estonia": [
         {
             name: "Vikerraadio",
-            logo: "stations/images-europe/estonia/Vikerraadio.jpg",
+            logo: "stations/images-europe/estonia/Vikerraadio.png",
             url: "http://icecast.err.ee:80/vikerraadio.mp3"
         },
         {
             name: "Raadio 2",
-            logo: "stations/images-europe/estonia/Raadio 2.jpg",
+            logo: "stations/images-europe/estonia/Raadio 2.png",
             url: "http://icecast.err.ee:80/raadio2.mp3"
         },
         {
             name: "Klassikaraadio",
-            logo: "stations/images-europe/estonia/Klassikaraadio.jpg",
+            logo: "stations/images-europe/estonia/Klassikaraadio.png",
             url: "http://icecast.err.ee:80/klassikaraadio.mp3"
         },
         {
@@ -327,6 +344,11 @@ var stations = {
         },
         */
         {
+            name: "Helmiradio",
+            logo: "stations/images-europe/finland/Helmiradio.png",
+            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10567/80692_Helmiradio.mp3"
+        },
+        {
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
             url: "http://stream2.bauermedia.fi/isk-hki.mp3"
@@ -373,11 +395,13 @@ var stations = {
             logo: "stations/images-europe/finland/Radio Suomipop.png",
             url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10566/80692_RadioSuomipop.mp3"
         },
+        /*
         {
             name: "Radio Vaasa",
             logo: "stations/images-europe/finland/Radio Vaasa.jpg",
             url: "http://stream.radiovaasa.fi:8000/radiovaasa.mp3"
         },
+        */
     ],
     "france": [
         {
@@ -550,6 +574,11 @@ var stations = {
             name: "N-Joy",
             logo: "stations/images-europe/germany-ndr/N-Joy.png",
             url: "http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3"
+        },
+        {
+            name: "Radio 21",
+            logo: "stations/images-europe/germany-ndr/Radio 21.png",
+            url: "http://188.94.97.91/radio21.mp3"
         },
     ],
     "germany-rbb": [
@@ -780,9 +809,14 @@ var stations = {
             url: "http://lr4mp1.latvijasradio.lv:8020/;"
         },
         {
-            name: "European Hit Radio",
+            name: "EHR",
             logo: "stations/images-europe/latvia/European Hit Radio.jpg",
-            url: "http://stream.europeanhitradio.com:8000/ehr.ogg"
+            url: "http://stream.europeanhitradio.com:8000/ehr.mp3"
+        },
+        {
+            name: "EHR Superhits",
+            logo: "stations/images-europe/latvia/EHR Superhits.png",
+            url: "http://stream.europeanhitradio.com:8000/Stream_21.mp3"
         },
         {
             name: "Radio Skonto",
@@ -793,6 +827,11 @@ var stations = {
             name: "Radio SWH",
             logo: "stations/images-europe/latvia/Radio SWH.png",
             url: "http://80.232.162.149:8000/swh96mp3"
+        },
+        {
+            name: "Radio TEV",
+            logo: "stations/images-europe/latvia/Radio TEV.png",
+            url: "http://stream.radiotev.lv:8002/radiov"
         },
         {
             name: "Star FM",
@@ -835,7 +874,7 @@ var stations = {
         },
         {
             name: "M-1",
-            logo: "stations/images-europe/lithuania/M-1.jpg",
+            logo: "stations/images-europe/lithuania/M-1.png",
             url: "http://radio.m-1.fm:80/m1/mp3"
         },
         {
@@ -1132,6 +1171,11 @@ var stations = {
             url: "http://pool.cdn.lagardere.cz/fm-europa2sk-128"
         },
         {
+            name: "Fun rádio",
+            logo: "stations/images-europe/slovakia/Fun rádio.gif",
+            url: "http://stream.funradio.sk:8000/fun128.mp3"
+        },
+        {
             name: "Rádio Expres",
             logo: "stations/images-europe/slovakia/Rádio Expres.png",
             url: "http://85.248.7.162:8000/96.mp3"
@@ -1150,13 +1194,23 @@ var stations = {
     "slovenia": [
         {
             name: "Radio Slovenija A1",
-            logo: "stations/images-europe/slovenia/Radio Slovenija A1.jpg",
+            logo: "stations/images-europe/slovenia/Radio Slovenija A1.png",
             url: "http://mp3.rtvslo.si:80/ra1"
         },
         {
             name: "Radio Slovenija Val202",
             logo: "stations/images-europe/slovenia/Radio Slovenija Val202.png",
             url: "http://mp3.rtvslo.si:80/val202"
+        },
+        {
+            name: "Radio Slovenija Ars",
+            logo: "stations/images-europe/slovenia/Radio Slovenija Ars.png",
+            url: "http://mp3.rtvslo.si:80/ars"
+        },
+        {
+            name: "Hitradio Center",
+            logo: "stations/images-europe/slovenia/Hitradio Center.svg",
+            url: "http://stream2.radiocenter.si:8000/;"
         },
         {
             name: "Radio 1",
@@ -1167,6 +1221,11 @@ var stations = {
             name: "Radio Aktual",
             logo: "stations/images-europe/slovenia/Radio Aktual.png",
             url: "http://aktualrgl.radioca.st/Aktual"
+        },
+        {
+            name: "Radio Ognjišče",
+            logo: "stations/images-europe/slovenia/Radio Ognjišče.jpg",
+            url: "http://real.ognjisce.si:8000/ognjisce.mp3"
         },
     ],
     "spain": [
@@ -1186,9 +1245,54 @@ var stations = {
             url: "http://radio3.rtveradio.cires21.com/radio3/mp3/icecast.audio"
         },
         {
+            name: "Cadena 100",
+            logo: "stations/images-europe/spain/Cadena 100.png",
+            url: "http://195.55.74.204/cope/cadena100-low.mp3"
+        },
+        {
+            name: "Cadena Dial",
+            logo: "stations/images-europe/spain/Cadena Dial.jpg",
+            url: "http://13413.live.streamtheworld.com:80/CADENADIAL_SC"
+        },
+        {
             name: "Cadena Ser",
             logo: "stations/images-europe/spain/Cadena Ser.jpg",
             url: "http://13873.live.streamtheworld.com:80/CADENASER_SC"
+        },
+        {
+            name: "Cope",
+            logo: "stations/images-europe/spain/Cope.png",
+            url: "http://195.55.74.204/cope/net1.mp3"
+        },
+        {
+            name: "Europa FM",
+            logo: "stations/images-europe/spain/Europa FM.png",
+            url: "http://212.129.60.86:9968/;"
+        },
+        {
+            name: "Los 40 Principales",
+            logo: "stations/images-europe/spain/Los 40 Principales.png",
+            url: "http://13393.live.streamtheworld.com:443/LOS40_SC"
+        },
+        {
+            name: "M80 Radio",
+            logo: "stations/images-europe/spain/M80 Radio.png",
+            url: "http://13393.live.streamtheworld.com:443/M80RADIO_SC"
+        },
+        {
+            name: "Maxima FM",
+            logo: "stations/images-europe/spain/Maxima FM.png",
+            url: "http://13873.live.streamtheworld.com:3690/MAXIMAFM_SC"
+        },
+        {
+            name: "Onda Cero",
+            logo: "stations/images-europe/spain/Onda Cero.png",
+            url: "http://icecast-streaming.nice264.com/ondacero"
+        },
+        {
+            name: "Rock FM",
+            logo: "stations/images-europe/spain/Rock FM.jpg",
+            url: "http://195.10.10.222/cope/rockfm.mp3"
         },
     ],
     "sweden": [

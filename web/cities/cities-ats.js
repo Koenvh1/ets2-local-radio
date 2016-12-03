@@ -1,15 +1,21 @@
 var country_properties = {
     "arizona": {
         name: "Arizona",
-        relative_radius: 1
+        english_name: "Arizona",
+        code: "us-az",
+        relative_radius: 1.15
     },
     "california": {
         name: "California",
-        relative_radius: 1
+        english_name: "California",
+        code: "us-ca",
+        relative_radius: 1.1
     },
     "nevada": {
         name: "Nevada",
-        relative_radius: 1
+        english_name: "Nevada",
+        code: "us-nv",
+        relative_radius: 1.4
     },
 };
 

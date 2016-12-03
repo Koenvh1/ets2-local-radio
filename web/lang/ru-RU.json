@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "Vladzz-G",
+    "connect-other-device": "Подключить другое устройство",
+    "coverage-map": "Покрытие карты",
+    "stop-playback": "Остановить проигрывание",
+    "stations": "Радиостанции:",
+    "update-available": "Обновление доступно!",
+    "update-now": "Обновить сейчас",
+    "controlled-remotely": "Этот проигрыватель будет управляться дистанционно",
+    "submit-station": "Добавить новую радиостанцию",
+    "this-peerid": "Номер пира этого устройства:",
+    "waiting-coordinates": "Определение ваших координатов местоположения в игре...",
+    "closest-city": "Ближайщий город: <span class='nearestCity'></span>, <span class='distance'></span> метров от вас",
+    "amount-static": "Количество белого шума:",
+    "show-all": "Показать все",
+    "enter-peerid-title": "Ввести помер пира",
+    "enter-peerid-body": "Пожалуйста, введите номер вашего пира в устройстве, в котором хотите подключиться:",
+    "connect": "Соединиться",
+    "make-favourite": "Сделать избранным"
+  },
+  "server": {
+    "info": "Информация",
+    "status": "Состояние:",
+    "simulator-not-running": "Симулятор пока не запущен",
+    "simulator-not-driving": "Симулятор запущен, поехали!",
+    "simulator-running": "Симулятор запущен!",
+    "coordinates": "Координаты:",
+    "url": "URL:",
+    "open-local-radio": "Открыть ETS2 Local Radio",
+    "settings": "Настройки",
+    "next-station-key": "Клавиша след. радиостанции:",
+    "previous-station-key": "Клавиша пред. радиостанции:",
+    "stop-playback-key": "Клавиша стоп-проигрывания:",
+    "volume-up-key": "Клавиша увеличения громкости:",
+    "volume-down-key": "Клавиша уменьшения громкости:",
+    "save": "Сохранить",
+    "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного Euro Truck Simulator 2. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

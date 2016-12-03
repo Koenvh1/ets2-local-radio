@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "",
+    "connect-other-device": "Anslut till en annan enhet",
+    "coverage-map": "Täckningskarta",
+    "stop-playback": "Stoppa uppspelning",
+    "stations": "Stationer:",
+    "update-available": "Det finns en uppdatering tillgänglig!",
+    "update-now": "Uppdatera nu",
+    "controlled-remotely": "Denna spelare är fjärrstyrd",
+    "submit-station": "Lägg till en ny station",
+    "this-peerid": "Denna enhets PeerID:",
+    "waiting-coordinates": "Väntar på dina koordinater i spelet...",
+    "closest-city": "Närmaste staden är: <span class='nearestCity'></span>, <span class='distance'></span> meter bort",
+    "amount-static": "Mängd brus:",
+    "show-all": "Växla visa alla",
+    "enter-peerid-title": "Skriv in PeerID",
+    "enter-peerid-body": "Skriv in PeerID av enheten du vill ansluta till:",
+    "connect": "Anslut",
+    "make-favourite": "Lägg till som favorit"
+  },
+  "server": {
+    "info": "Info",
+    "status": "Status:",
+    "simulator-not-running": "Simulator not yet running",
+    "simulator-not-driving": "Simulator running, let's get driving!",
+    "simulator-running": "Simulator running!",
+    "coordinates": "Coordinates:",
+    "url": "URL:",
+    "open-local-radio": "Open ETS2 Local Radio",
+    "settings": "Settings",
+    "next-station-key": "Next station key:",
+    "previous-station-key": "Previous station key:",
+    "stop-playback-key": "Stop playback key:",
+    "volume-up-key": "Volume up key:",
+    "volume-down-key": "Volume down key:",
+    "save": "Save",
+    "ets2-folder-dialog": "Please select the Euro Truck Simulator 2 installation folder, usually found in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

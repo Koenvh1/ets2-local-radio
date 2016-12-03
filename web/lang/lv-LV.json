@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "Vladzz-G",
+    "connect-other-device": "Savienot ar citu ierīci",
+    "coverage-map": "Pārklajuma karte",
+    "stop-playback": "Apturēt atskaņojumu",
+    "stations": "Radiostacijas:",
+    "update-available": "Atjaunojums ir pieejams!",
+    "update-now": "Atjaunojiet tagad",
+    "controlled-remotely": "Šis atskaņotajs tiks kontrolēts distancionāli",
+    "submit-station": "Pievienot jaunu radiostaciju",
+    "this-peerid": "Šis ierīces Peer ID:",
+    "waiting-coordinates": "Meklē jūsu ieskš-spēles atrašanas vietas koordinātus",
+    "closest-city": "Tuvāka pilsēta ir: <span class='nearestCity'></span>, <span class='distance'></span> metri no jums",
+    "amount-static": "Balta trokšņa skaits:",
+    "show-all": "Paradīt visu",
+    "enter-peerid-title": "Ievādiet PeerID",
+    "enter-peerid-body": "Lūdzu, ievādiet jūsu PeerID ierīcē, kurā jūs gribat savienot:",
+    "connect": "Savienot",
+    "make-favourite": "Izdarīt par favorītu"
+  },
+  "server": {
+    "info": "Informācija",
+    "status": "Statuss:",
+    "simulator-not-running": "Simulators pagaidām nav palaists",
+    "simulator-not-driving": "Simulators palaists, braucam!",
+    "simulator-running": "Simulators palaists!",
+    "coordinates": "Koordinātas:",
+    "url": "URL:",
+    "open-local-radio": "Atvērt ETS2 Local Radio",
+    "settings": "Uzstādījumi",
+    "next-station-key": "Nākamas radiostācijas taustiņš:",
+    "previous-station-key": "Iepriekšējas radiostācijas taustiņš:",
+    "stop-playback-key": "Aptūrēt atskaņošanu taustiņš:",
+    "volume-up-key": "Skaļuma palielināšanas taustiņš:",
+    "volume-down-key": "Skaļuma samazināšanas taustiņš:",
+    "save": "Saglabāt",
+    "ets2-folder-dialog": "Lūdzu, izvēlēties Euro Truck Simulator 2 instalācijas mapi, parasti atrodas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

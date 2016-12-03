@@ -152,13 +152,13 @@ namespace ETS2_Local_Radio_server
                     }
                     catch (Exception ex)
                     {
-
+                        //Log(ex.ToString());
                     }
                 }
             }
             catch (Exception ex)
             {
-                //MessageBox.Show(ex.Message);
+                //Log(ex.ToString());
             }
         }
 
@@ -181,6 +181,8 @@ namespace ETS2_Local_Radio_server
                     }
                 }
             }
+
+            filename = filename.Replace("/", @"\");
 
             filename = Path.Combine(_rootDirectory, filename);
 
@@ -208,27 +210,30 @@ namespace ETS2_Local_Radio_server
             {
                 try
                 {
-                    Stream input = new FileStream(filename, FileMode.Open);
+                    Stream input = new FileStream(filename, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
 
                     //Adding permanent http response headers
                     string mime;
-                    context.Response.ContentType = _mimeTypeMappings.TryGetValue(Path.GetExtension(filename), out mime) ? mime : "application/octet-stream";
+                    context.Response.ContentType = _mimeTypeMappings.TryGetValue(Path.GetExtension(filename), out mime)
+                        ? mime
+                        : "application/octet-stream";
                     context.Response.ContentLength64 = input.Length;
                     context.Response.AddHeader("Date", DateTime.Now.ToString("r"));
                     context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
 
-                    byte[] buffer = new byte[1024 * 16];
+                    byte[] buffer = new byte[1024*16];
                     int nbytes;
                     while ((nbytes = input.Read(buffer, 0, buffer.Length)) > 0)
                         context.Response.OutputStream.Write(buffer, 0, nbytes);
                     input.Close();
 
-                    context.Response.StatusCode = (int)HttpStatusCode.OK;
+                    context.Response.StatusCode = (int) HttpStatusCode.OK;
                     context.Response.OutputStream.Flush();
                 }
                 catch (Exception ex)
                 {
-                    context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+                    context.Response.StatusCode = (int) HttpStatusCode.InternalServerError;
+                    Log(ex.ToString());
                 }
 
             }
@@ -236,6 +241,7 @@ namespace ETS2_Local_Radio_server
             {
                 //context.Response.AddHeader("X-Requested-File", filename);
                 context.Response.StatusCode = (int)HttpStatusCode.NotFound;
+                Log("Not found: " + filename);
             }
 
             context.Response.OutputStream.Close();
@@ -249,6 +255,15 @@ namespace ETS2_Local_Radio_server
             _serverThread.Start();
         }
 
+        public void Log(String lines)
+        {
 
+            // Write the string to a file.append mode is enabled so that the log
+            // lines get appended to  test.txt than wiping content and writing the log
+
+            System.IO.StreamWriter file = new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt", true);
+            file.WriteLine(lines);
+            file.Close();
+        }
     }
 }

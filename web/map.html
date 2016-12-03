@@ -8,7 +8,7 @@
             background-color: lightblue;
         }
         body {
-            background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' height='100vh' width='100vw'><text x='100' y='115' fill='red' font-size='20'>Loading...</text></svg>");
+            background: url('lib/img/loading.gif') no-repeat fixed center;
         }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -26,8 +26,14 @@
     loadScripts();
     function loadScripts() {
         $.getScript("config.js", function () {
-            $.getScript("stations/" + g_skinConfig.stations, function () {
-                $.getScript("cities/" + g_skinConfig.map, function () {
+            var game = "ets2";
+            if(window.location.href.split("?").length > 1) {
+                if (window.location.href.split("?")[1].indexOf("ats") == 0){
+                    game = "ats";
+                }
+            }
+            $.getScript("stations/" + g_skinConfig[game].stations, function () {
+                $.getScript("cities/" + g_skinConfig[game].map, function () {
                     initialise();
                 }).fail(function () {
                     loadScripts();
@@ -42,9 +48,9 @@
             return;
         })
     }
-
+    var map;
     function initialise() {
-        var map = L.map('map', {
+        map = L.map('map', {
             crs: L.CRS.Simple,
             minZoom: -10
         }).setView([0, 0], -8);
