@@ -5,6 +5,66 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Rejected The Wave</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of the UK</description>
+        </item>
+        <item>
+            <title>Added Catalunya Ràdio</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio Pilatus</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Virgin Radio</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Chérie FM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added RPR1</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Радио Unistar</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Loca FM</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of the Spain</description>
+        </item>
+        <item>
+            <title>Added RadioROKS</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Радио ENERGY</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added FunX</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Fun Radio (BE)</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Rejected Radio Swiss Pop</title>
             <link>javascript:;</link>
             <description>Station does not have an FM broadcast</description>
