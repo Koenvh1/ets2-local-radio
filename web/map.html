@@ -108,16 +108,10 @@
         L.control.layers(null, overlay_countries).addTo(map);
 
         map.attributionControl.addAttribution("<a href='javascript:showCurrentPosition()'>Show current location</a>");
-        /*
-    var draw = $("#draw");
-    for(var i = 0; i < cities.length; i++){
-        var radius = 7500;
-        var x = cities[i].x + 10000;
-        var y = cities[i].y + 10000;
-        var content = '<div style="position: absolute; background-color: red; width: ' + Math.round(radius * 2 / 100) + '; height: ' + Math.round(radius * 2 / 100) + '; border-radius: 100%; top: ' + Math.round((y - radius / 100) / 100) + '; left: ' + Math.round((x - radius / 100) / 100) + ';">' + cities[i].realName + '</div>';
-        draw.append(content);
-    }
-    */
+
+        map.on("click", function (e) {
+            console.log("X: " + e.latlng.lng + "; Y: " + -e.latlng.lat);
+        })
     }
 
     function sortObject(obj) {

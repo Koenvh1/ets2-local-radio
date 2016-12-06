@@ -1,6 +1,6 @@
 {
   "web": {
-    "author": "Preložil ZelvaCZ",
+    "author": "Preložil David Burda (ZelvaCZ)",
     "connect-other-device": "Pripojiť k inému zariadeniu",
     "coverage-map": "Mapa pokrytia",
     "stop-playback": "Zastaviť playback",
@@ -21,20 +21,20 @@
   },
   "server": {
     "info": "Info",
-    "status": "Status:",
-    "simulator-not-running": "Simulator not yet running",
-    "simulator-not-driving": "Simulator running, let's get driving!",
-    "simulator-running": "Simulator running!",
-    "coordinates": "Coordinates:",
+    "status": "Stav:",
+    "simulator-not-running": "Simulátor zatiaľ nie je spustený",
+    "simulator-not-driving": "Simulátor beží, poďme jazdiť!",
+    "simulator-running": "Simulator beží!",
+    "coordinates": "Súradnice:",
     "url": "URL:",
-    "open-local-radio": "Open ETS2 Local Radio",
-    "settings": "Settings",
-    "next-station-key": "Next station key:",
-    "previous-station-key": "Previous station key:",
-    "stop-playback-key": "Stop playback key:",
-    "volume-up-key": "Volume up key:",
-    "volume-down-key": "Volume down key:",
-    "save": "Save",
-    "ets2-folder-dialog": "Please select the Euro Truck Simulator 2 installation folder, usually found in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "open-local-radio": "Otvoriť ETS2 Local Radio",
+    "settings": "Nastavenie",
+    "next-station-key": "Následujúci stanica:",
+    "previous-station-key": "Predchádzajúca stanica:",
+    "stop-playback-key": "Zastavenie playbacku:",
+    "volume-up-key": "Zvýšiť hlasitosť:",
+    "volume-down-key": "Znížiť hlasitosť:",
+    "save": "Uložiť",
+    "ets2-folder-dialog": "Vyber prosím instalačnú zložku Euro Truck Simulator 2, zvyčajne sa nachádza v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }
 }

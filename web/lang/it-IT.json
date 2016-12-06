@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "",
+    "connect-other-device": "Connetti ad un altro dispositivo",
+    "coverage-map": "Copertura mappa",
+    "stop-playback": "Interrompi playback",
+    "stations": "Stazioni:",
+    "update-available": "Aggiornamento Disponibile!",
+    "update-now": "Aggiorna adesso",
+    "controlled-remotely": "Questo player viene controllato da remoto",
+    "submit-station": "Inserisci Nuova Stazione",
+    "this-peerid": "PeerID di questo dispositivo:",
+    "waiting-coordinates": "Attendo le tue coordinate in-game...",
+    "closest-city": "Città; più; vicina : <span class='nearestCity'></span>, <span class='distance'></span> metri",
+    "amount-static": "Riduzione del Rumore:",
+    "show-all": "Mostra Tutto",
+    "enter-peerid-title": "inserisci PeerID",
+    "enter-peerid-body": "Inserisci lo PeerID del dispositivo al quale vuoi connetterti:",
+    "connect": "Connetti",
+    "make-favourite": "Aggiungi ai Preferiti"
+  },
+  "server": {
+    "info": "Info",
+    "status": "Status:",
+    "simulator-not-running": "Il simulatore non è; in esecuzione",
+    "simulator-not-driving": "Simulatore in esecuzione, cominciamo a guidare!",
+    "simulator-running": "Il simulatore è; in esecuzione!",
+    "coordinates": "Coordinate:",
+    "url": "URL:",
+    "open-local-radio": "Apri ETS2 Local Radio",
+    "settings": "Impostazioni",
+    "next-station-key": "Tasto Nuova Stazione:",
+    "previous-station-key": "Tasto Stazione Precedente:",
+    "stop-playback-key": "Tasto Interrompi Playback:",
+    "volume-up-key": "Tasto Incrementa Volume:",
+    "volume-down-key": "Tasto Diminiusci Volume:",
+    "save": "Salva",
+    "ets2-folder-dialog": "Prego selezionare la cartella di Euro Truck Simulator 2. (default C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2)"
+  }
+}

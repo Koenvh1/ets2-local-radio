@@ -1,0 +1,40 @@
+{
+  "web": {
+    "author": "",
+    "connect-other-device": "Tillinka annað täky",
+    "coverage-map": "Dekningskort",
+    "stop-playback": "Stopp avspilning",
+    "stations": "Staġone:",
+    "update-available": "A uppdatering er boðit!",
+    "update-now": "Uppdater nu",
+    "controlled-remotely": "Dehir spiloreð er avstandskontrollit",
+    "submit-station": "Send eð nyt staġon",
+    "this-peerid": "PeerID's av dehir täky:",
+    "waiting-coordinates": "Vänta på dajn spilskoordinata...",
+    "closest-city": "Näststadeð er: <span class='nearestCity'></span>, <span class='distance'></span> meter vej",
+    "amount-static": "Hävaðmjöġes:",
+    "show-all": "Omrof visa alla",
+    "enter-peerid-title": "Yfoll PeerID's",
+    "enter-peerid-body": "Tak yfoll PeerID's að dyvise på täkyn að dyvill tillinka:",
+    "connect": "Tillink",
+    "make-favourite": "Lag favorit"
+  },
+  "server": {
+    "info": "Informaġon",
+    "status": "Stat:",
+    "simulator-not-running": "Simulator inðänspile",
+    "simulator-not-driving": "Simulator spile, vyska rida!",
+    "simulator-running": "Simulator spile!",
+    "coordinates": "Koordinata:",
+    "url": "URL:",
+    "open-local-radio": "Åben ETS2 Lokalradio",
+    "settings": "Setninga",
+    "next-station-key": "Näststaġontaste:",
+    "previous-station-key": "Forgestaġontaste:",
+    "stop-playback-key": "Stopp avspilningtaste:",
+    "volume-up-key": "Uppsygorsterkhedtaste:",
+    "volume-down-key": "Nedsygorsterkhedtaste:",
+    "save": "Nedskrib",
+    "ets2-folder-dialog": "Tak val uppsetningmapa av Euro Truck Simulator 2, vanlig hittit y C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+  }
+}

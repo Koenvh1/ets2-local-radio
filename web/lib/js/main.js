@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "1.1.0";
+var version = "1.2.0";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
 //language data:

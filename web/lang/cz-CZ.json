@@ -1,6 +1,6 @@
 {
   "web": {
-    "author": "",
+    "author": "Přeložil David Burda (ZelvaCZ)",
     "connect-other-device": "Připojit k jinému zařízení",
     "coverage-map": "Mapa pokrytí",
     "stop-playback": "Zastavit playback",
@@ -12,7 +12,7 @@
     "this-peerid": "PeerID tohoto zařízení:",
     "waiting-coordinates": "Čekání na vaše souřadnice ve hře",
     "closest-city": "Nejbližší město je: <span class='nearestCity'></span>, <span class='distance'></span> metrů daleko",
-    "amount-static": "Hlasitost šumu:",
+    "amount-static": "Množství šumu:",
     "show-all": "Přepnout zobrazení",
     "enter-peerid-title": "Zadat PeerID",
     "enter-peerid-body": "Prosím, zadejte PeerID, které lze vidět na zařízení, ke kterému se chcete připojit:",
@@ -21,20 +21,20 @@
   },
   "server": {
     "info": "Info",
-    "status": "Status:",
-    "simulator-not-running": "Simulator not yet running",
-    "simulator-not-driving": "Simulator running, let's get driving!",
-    "simulator-running": "Simulator running!",
-    "coordinates": "Coordinates:",
+    "status": "Stav:",
+    "simulator-not-running": "Simulátor ještě není spuštěn",
+    "simulator-not-driving": "Simulátor běží, pojďme jezdit!",
+    "simulator-running": "Simulátor běží!",
+    "coordinates": "Souřadnice:",
     "url": "URL:",
-    "open-local-radio": "Open ETS2 Local Radio",
-    "settings": "Settings",
-    "next-station-key": "Next station key:",
-    "previous-station-key": "Previous station key:",
-    "stop-playback-key": "Stop playback key:",
-    "volume-up-key": "Volume up key:",
-    "volume-down-key": "Volume down key:",
-    "save": "Save",
-    "ets2-folder-dialog": "Please select the Euro Truck Simulator 2 installation folder, usually found in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "open-local-radio": "Otevřít ETS2 Local Radio",
+    "settings": "Nastavení",
+    "next-station-key": "Následující stanice:",
+    "previous-station-key": "Předchozí stanice:",
+    "stop-playback-key": "Zastavení playbacku:",
+    "volume-up-key": "Zvýšit hlasitost:",
+    "volume-down-key": "Snížit hlasitost:",
+    "save": "Uložit",
+    "ets2-folder-dialog": "Prosím vyberte instalační složku Euro Truck Simulator 2, obvykle se nachází v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }
 }

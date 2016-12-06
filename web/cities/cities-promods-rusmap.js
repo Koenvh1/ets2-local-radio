@@ -45,7 +45,7 @@ var country_properties = {
         name: "Bosna i Hercegovina",
         name_english: "Bosnia and Herzegovina",
         code: "ba",
-        relative_radius: 1,
+        relative_radius: 0.7,
     },
     "bulgaria": {
         name: "България",
@@ -56,8 +56,8 @@ var country_properties = {
     "croatia": {
         name: "Hrvatska",
         name_english: "Croatia",
-        code: "hg",
-        relative_radius: 1,
+        code: "hr",
+        relative_radius: 0.7,
     },
     "cyprus": {
         name: "Κύπρος",
@@ -76,6 +76,12 @@ var country_properties = {
         name_english: "Denmark",
         code: "dk",
         relative_radius: 0.55,
+    },
+    "egypt": {
+        name: "مَصر‎‎ ",
+        name_english: "Egypt",
+        code: "eg",
+        relative_radius: 0.75,
     },
     "estonia": {
         name: "Eesti",
@@ -273,7 +279,7 @@ var country_properties = {
         name: "Србија",
         name_english: "Serbia",
         code: "rs",
-        relative_radius: 1,
+        relative_radius: 0.7,
     },
     "slovakia": {
         name: "Slovensko",
@@ -428,7 +434,7 @@ var city_properties = {
     "haparanda": {
         relative_radius: 0.25,
     },
-    "havre": {
+    "lehavre": {
         relative_radius: 0.7,
     },
     "helsingborg": {
@@ -557,6 +563,9 @@ var city_properties = {
     "pau": {
         relative_radius: 0.7,
     },
+    "pecs": {
+        relative_whitenoise: 0.85,
+    },
     "perpignan": {
         relative_radius: 0.76,
     },
@@ -586,6 +595,9 @@ var city_properties = {
     },
     "rakvere": {
         relative_radius: 0.8,
+    },
+    "rezekne": {
+        relative_radius: 1.2,
     },
     "rodbyhavn": {
         relative_radius: 0.6,
@@ -647,6 +659,9 @@ var city_properties = {
     },
     "turku": {
         relative_radius: 0.8,
+    },
+    "udine": {
+        relative_radius: 0.4,
     },
     "umea": {
         relative_radius: 0.5,
@@ -1662,7 +1677,7 @@ var cities = [
         "z": "-86889.9"
     },
     {
-        "gameName": "havre",
+        "gameName": "lehavre",
         "realName": "Le Havre",
         "country": "france",
         "x": "-38340.7",
@@ -2294,7 +2309,7 @@ var cities = [
         "z": "46488.6"
     },
     {
-        "gameName": "mans",
+        "gameName": "lemans",
         "realName": "Le Mans",
         "country": "france",
         "x": "-40038.6",
@@ -3890,6 +3905,41 @@ var cities_projects_balkans = [
     }
 ];
 
+var cities_egypt = [
+    {
+        "gameName": "alwasta",
+        "realName": "Al Wasta",
+        "country": "egypt",
+        "x": "78780",
+        "y": "52.4297",
+        "z": "110100"
+    },
+    {
+        "gameName": "cairo",
+        "realName": "Cairo",
+        "country": "egypt",
+        "x": "78490.1",
+        "y": "53.3594",
+        "z": "104211"
+    },
+    {
+        "gameName": "fayyum",
+        "realName": "Al Fayyum",
+        "country": "egypt",
+        "x": "76362.4",
+        "y": "14.3242",
+        "z": "107667"
+    },
+    {
+        "gameName": "samalut",
+        "realName": "Samalut",
+        "country": "egypt",
+        "x": "77796.2",
+        "y": "45.2266",
+        "z": "116925"
+    }
+];
+
 var cities_wip = [
     {
         "gameName": "are",
@@ -4093,4 +4143,5 @@ var cities_wip = [
 ];
 
 cities = cities.concat(cities_wip);
-//cities = cities.concat(cities_projects_balkans);
+cities = cities.concat(cities_projects_balkans);
+cities = cities.concat(cities_egypt);
