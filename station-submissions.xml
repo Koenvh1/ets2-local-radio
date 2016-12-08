@@ -5,6 +5,31 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added DigiFM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio 21 (RO)</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Ouï FM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio VOX FM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio Zu</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added Kiss FM</title>
             <link>javascript:;</link>
             <description></description>
@@ -28,11 +53,6 @@
             <title>RSG Radio was already added</title>
             <link>javascript:;</link>
             <description>Station already exists</description>
-        </item>
-        <item>
-            <title>RSG Radio was already added</title>
-            <link>javascript:;</link>
-            <description>Station does not have an FM broadcast</description>
         </item>
         <item>
             <title>Rejected BBC Radio 6 Music</title>
