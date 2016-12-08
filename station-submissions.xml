@@ -5,6 +5,51 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Kiss FM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added 89.0 RTL</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Radio 21 was already added</title>
+            <link>javascript:;</link>
+            <description>Station already exists</description>
+        </item>
+        <item>
+            <title>Added Radio Bihac</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>RSG Radio was already added</title>
+            <link>javascript:;</link>
+            <description>Station already exists</description>
+        </item>
+        <item>
+            <title>RSG Radio was already added</title>
+            <link>javascript:;</link>
+            <description>Station does not have an FM broadcast</description>
+        </item>
+        <item>
+            <title>Rejected BBC Radio 6 Music</title>
+            <link>javascript:;</link>
+            <description>Station does not have an FM broadcast</description>
+        </item>
+        <item>
+            <title>Rejected BBC Radio 5 Live</title>
+            <link>javascript:;</link>
+            <description>Station does not have an FM broadcast</description>
+        </item>
+        <item>
+            <title>Rejected BBC Radio 4 Extra</title>
+            <link>javascript:;</link>
+            <description>Station does not have an FM broadcast</description>
+        </item>
+        <item>
             <title>Rejected The Wave</title>
             <link>javascript:;</link>
             <description>Station does not broadcast in the majority of the UK</description>
