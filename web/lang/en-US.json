@@ -1,9 +1,11 @@
 {
   "web": {
     "author": "",
+    "now-playing": "Now playing:",
     "connect-other-device": "Connect to another device",
     "coverage-map": "Coverage map",
     "stop-playback": "Stop playback",
+    "volume": "Volume",
     "stations": "Stations:",
     "update-available": "An update is available!",
     "update-now": "Update now",

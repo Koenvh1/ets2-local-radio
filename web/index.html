@@ -26,7 +26,7 @@
     <audio id="player" src="about:blank" autoplay></audio>
     <audio id="whitenoise" src="lib/audio/whitestatic.mp3" loop></audio>
     <audio id="switchStation" src="lib/audio/radio_switch.mp3" loop autoplay></audio>
-    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="col-xs-12">
             <!-- Brand and toggle get grouped for better mobile display -->
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -43,13 +43,35 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="#" data-toggle="modal" data-target="#connectModal" class="lang-connect-other-device">Connect to another device</a></li>
-                    <li><a href="map.html" target="_blank" class="lang-coverage-map">Coverage map</a></li>
+                    <li>
+                        <a href="javascript:;" onclick="togglePlay()" class="" style="padding-top: 13px; padding-bottom: 0">
+                            <img src="lib/img/stop-button.png" style="height: 35px" alt="Stop playback" id="stopPlayback"> <span class="hidden-lg hidden-md lang-stop-playback">Pause/Play</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a style="padding-top: 9px; padding-bottom: 0; color: #fff">
+                            <small class="lang-now-playing">Now playing:</small><br>
+                            <span class="current-station">-</span>
+                        </a>
+                    </li>
+                    <li style="display: none">
+                        <div class="station-image-container" style="height: 50px; padding-top: 5px">
+                            <img class="current-station-image" style="max-height: 50px" src="">
+                        </div>
+                    </li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <!--li class="disabled"><a>Currently playing: <span class="current-station"></span></a></li-->
+                    <!--li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="padding-top: 13px; padding-bottom: 12px">
+                            <img src="lib/img/volume-button.png" alt="Volume" style="height: 35px" > <span class="hidden-lg hidden-md lang-volume">Volume</span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a><input id="volumeControl" class="input-sm input-nav" type="range" name="points" min="0" max="100" style="min-width: 100px" title="Volume"></a></li>
+                        </ul>
+                    </li-->
                     <li><a><input id="volumeControl" class="input-sm input-nav" type="range" name="points" min="0" max="100" style="min-width: 100px" title="Volume"></a></li>
-                    <li><a href="#" onclick="setRadioStation('', 'none', 0)" class="lang-stop-playback">Stop playback</a></li>
+                    <li><a href="#" data-toggle="modal" data-target="#connectModal" class="lang-connect-other-device">Connect to another device</a></li>
+                    <li><a href="map.html" target="_blank" class="lang-coverage-map">Coverage map</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -202,6 +224,9 @@
             g_current_url = response.url;
             g_current_country = response.country;
             refreshStations();
+        }
+        if(response.type == "togglePlay"){
+            togglePlay();
         }
     }
 

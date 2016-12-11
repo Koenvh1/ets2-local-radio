@@ -243,7 +243,7 @@ var country_properties = {
         name: "Northern Ireland",
         name_english: "Northern Ireland",
         code: "gb-nir",
-        relative_radius: 0.8,
+        relative_radius: 1.15,
     },
     "norway": {
         name: "Norge",
@@ -274,6 +274,12 @@ var country_properties = {
         name_english: "Russia",
         code: "ru",
         relative_radius: 1.1,
+    },
+    "scotland": {
+        name: "Alba",
+        name_english: "Scotland",
+        code: "gb-sct",
+        relative_radius: 1.15,
     },
     "serbia": {
         name: "Србија",
@@ -363,6 +369,9 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "bbiala": {
+        relative_radius: 0.7,
+    },
+    "belfast": {
         relative_radius: 0.7,
     },
     "bergen": {
@@ -505,6 +514,12 @@ var city_properties = {
     },
     "linz": {
         relative_radius: 0.8,
+    },
+    "lisburn": {
+        relative_radius: 0.7,
+    },
+    "londonderry": {
+        relative_radius: 0.7,
     },
     "luga": {
         relative_radius: 0.5,
@@ -727,6 +742,14 @@ var cities = [
     {
         "gameName": "aberdeen",
         "realName": "Aberdeen",
+        "country": "scotland",
+        "x": "-38846.7",
+        "y": "144",
+        "z": "-55270.3"
+    },
+    {
+        "gameName": "aberdeen",
+        "realName": "Aberdeen",
         "country": "uk",
         "x": "-38846.7",
         "y": "144",
@@ -815,6 +838,14 @@ var cities = [
     {
         "gameName": "aurach",
         "realName": "Aurach",
+        "country": "germany-swr",
+        "x": "-441.102",
+        "y": "103.75",
+        "z": "8251.44"
+    },
+    {
+        "gameName": "aurach",
+        "realName": "Aurach",
         "country": "germany",
         "x": "-441.102",
         "y": "103.75",
@@ -832,6 +863,14 @@ var cities = [
         "gameName": "bado",
         "realName": "Bad Oeynhausen",
         "country": "germany-wdr",
+        "x": "-5724.91",
+        "y": "99.8438",
+        "z": "-9493.73"
+    },
+    {
+        "gameName": "bado",
+        "realName": "Bad Oeynhausen",
+        "country": "germany-ndr",
         "x": "-5724.91",
         "y": "99.8438",
         "z": "-9493.73"
@@ -967,6 +1006,14 @@ var cities = [
     {
         "gameName": "birsay",
         "realName": "Birsay",
+        "country": "scotland",
+        "x": "-38868",
+        "y": "125.645",
+        "z": "-69406.5"
+    },
+    {
+        "gameName": "birsay",
+        "realName": "Birsay",
         "country": "uk",
         "x": "-38868",
         "y": "125.645",
@@ -1011,6 +1058,14 @@ var cities = [
         "x": "-89285.6",
         "y": "79.3555",
         "z": "-102462"
+    },
+    {
+        "gameName": "bourges",
+        "realName": "Bourges",
+        "country": "france",
+        "x": "-31951.80",
+        "y": "31.18",
+        "z": "16255.50"
     },
     {
         "gameName": "bratislava",
@@ -1067,6 +1122,14 @@ var cities = [
         "x": "22273.8",
         "y": "64.8086",
         "z": "8964.95"
+    },
+    {
+        "gameName": "broadford",
+        "realName": "Broadford",
+        "country": "scotland",
+        "x": "-53239.6",
+        "y": "132.84",
+        "z": "-59401.6"
     },
     {
         "gameName": "broadford",
@@ -1213,6 +1276,14 @@ var cities = [
         "z": "6348.3"
     },
     {
+        "gameName": "clermont",
+        "realName": "Clermont-Ferrand",
+        "country": "france",
+        "x": "-30447.45",
+        "y": "42.00",
+        "z": "24678.44"
+    },
+    {
         "gameName": "cluj",
         "realName": "Cluj-Napoca",
         "country": "romania",
@@ -1351,6 +1422,14 @@ var cities = [
     {
         "gameName": "edinburgh",
         "realName": "Edinburgh",
+        "country": "scotland",
+        "x": "-44900.7",
+        "y": "139",
+        "z": "-47219.7"
+    },
+    {
+        "gameName": "edinburgh",
+        "realName": "Edinburgh",
         "country": "uk",
         "x": "-44900.7",
         "y": "139",
@@ -1395,6 +1474,14 @@ var cities = [
         "x": "-21791.1",
         "y": "78.5234",
         "z": "-8987.42"
+    },
+    {
+        "gameName": "evie",
+        "realName": "Evie",
+        "country": "scotland",
+        "x": "-38532.4",
+        "y": "119.637",
+        "z": "-69291.6"
     },
     {
         "gameName": "evie",
@@ -1459,6 +1546,14 @@ var cities = [
         "x": "2711.7",
         "y": "46.6875",
         "z": "-38141.5"
+    },
+    {
+        "gameName": "ftwilliam",
+        "realName": "Fort William",
+        "country": "scotland",
+        "x": "-50854.3",
+        "y": "115.898",
+        "z": "-56132.7"
     },
     {
         "gameName": "ftwilliam",
@@ -1531,6 +1626,14 @@ var cities = [
         "x": "-7493.95",
         "y": "102.129",
         "z": "35487.7"
+    },
+    {
+        "gameName": "glasgow",
+        "realName": "Glasgow",
+        "country": "scotland",
+        "x": "-50384.7",
+        "y": "139",
+        "z": "-48471.6"
     },
     {
         "gameName": "glasgow",
@@ -1783,6 +1886,14 @@ var cities = [
     {
         "gameName": "inverness",
         "realName": "Inverness",
+        "country": "scotland",
+        "x": "-46444.2",
+        "y": "115.898",
+        "z": "-59141.8"
+    },
+    {
+        "gameName": "inverness",
+        "realName": "Inverness",
         "country": "uk",
         "x": "-46444.2",
         "y": "115.898",
@@ -1955,6 +2066,14 @@ var cities = [
         "x": "44536.5",
         "y": "24.5938",
         "z": "-108965"
+    },
+    {
+        "gameName": "kirkwall",
+        "realName": "Kirkwall",
+        "country": "scotland",
+        "x": "-38213.7",
+        "y": "127.453",
+        "z": "-68910.3"
     },
     {
         "gameName": "kirkwall",
@@ -2309,6 +2428,22 @@ var cities = [
         "z": "46488.6"
     },
     {
+        "gameName": "marseille",
+        "realName": "Marseille",
+        "country": "france",
+        "x": "-23472.41",
+        "y": "3.91",
+        "z": "39190.79"
+    },
+    {
+        "gameName": "montpellier",
+        "realName": "Montpellier",
+        "country": "france",
+        "x": "-30052.36",
+        "y": "55.06",
+        "z": "36107.62"
+    },
+    {
         "gameName": "lemans",
         "realName": "Le Mans",
         "country": "france",
@@ -2437,6 +2572,14 @@ var cities = [
         "z": "-38787.7"
     },
     {
+        "gameName": "nice",
+        "realName": "Nice",
+        "country": "france",
+        "x": "-15975.13",
+        "y": "42.04",
+        "z": "37001.34"
+    },
+    {
         "gameName": "nikel",
         "realName": "Никель (Nikel)",
         "country": "russia",
@@ -2475,6 +2618,14 @@ var cities = [
         "x": "26448.2",
         "y": "62.6484",
         "z": "-46165.7"
+    },
+    {
+        "gameName": "oban",
+        "realName": "Oban",
+        "country": "scotland",
+        "x": "-53420.4",
+        "y": "116.898",
+        "z": "-53472.1"
     },
     {
         "gameName": "oban",
@@ -2719,6 +2870,14 @@ var cities = [
     {
         "gameName": "portree",
         "realName": "Portree",
+        "country": "scotland",
+        "x": "-53845.9",
+        "y": "132.836",
+        "z": "-61021.8"
+    },
+    {
+        "gameName": "portree",
+        "realName": "Portree",
         "country": "uk",
         "x": "-53845.9",
         "y": "132.836",
@@ -2843,6 +3002,14 @@ var cities = [
         "x": "44351.2",
         "y": "68.1758",
         "z": "-36490.8"
+    },
+    {
+        "gameName": "larochelle",
+        "realName": "La Rochelle",
+        "country": "france",
+        "x": "-46568.17",
+        "y": "11.78",
+        "z": "19075.63"
     },
     {
         "gameName": "rodbyhavn",
@@ -3023,6 +3190,14 @@ var cities = [
     {
         "gameName": "stromness",
         "realName": "Stromness",
+        "country": "scotland",
+        "x": "-39126.5",
+        "y": "118.531",
+        "z": "-68742.7"
+    },
+    {
+        "gameName": "stromness",
+        "realName": "Stromness",
         "country": "uk",
         "x": "-39126.5",
         "y": "118.531",
@@ -3119,6 +3294,14 @@ var cities = [
     {
         "gameName": "thurso",
         "realName": "Thurso",
+        "country": "scotland",
+        "x": "-41731.6",
+        "y": "111.898",
+        "z": "-66122.4"
+    },
+    {
+        "gameName": "thurso",
+        "realName": "Thurso",
         "country": "uk",
         "x": "-41731.6",
         "y": "111.898",
@@ -3208,6 +3391,14 @@ var cities = [
         "gameName": "ulm",
         "realName": "Ulm",
         "country": "germany-swr",
+        "x": "-2928.57",
+        "y": "88.75",
+        "z": "12657"
+    },
+    {
+        "gameName": "ulm",
+        "realName": "Ulm",
+        "country": "germany-br",
         "x": "-2928.57",
         "y": "88.75",
         "z": "12657"
@@ -3371,6 +3562,14 @@ var cities = [
         "x": "37353.6",
         "y": "93.1836",
         "z": "-9467.43"
+    },
+    {
+        "gameName": "wick",
+        "realName": "Wick",
+        "country": "scotland",
+        "x": "-39662.3",
+        "y": "112.898",
+        "z": "-64980.1"
     },
     {
         "gameName": "wick",
@@ -3958,20 +4157,12 @@ var cities_wip = [
         "z": "-41394.61"
     },
     {
-        "gameName": "bourges",
-        "realName": "Bourges",
-        "country": "france",
-        "x": "-31951.80",
-        "y": "31.18",
-        "z": "16255.50"
-    },
-    {
-        "gameName": "clermont",
-        "realName": "Clermont-Ferrand",
-        "country": "france",
-        "x": "-30447.45",
-        "y": "42.00",
-        "z": "24678.44"
+        "gameName": "belfast",
+        "realName": "Belfast",
+        "country": "uk",
+        "x": "-59692.36",
+        "y": "34.07",
+        "z": "-41394.61"
     },
     {
         "gameName": "dombas",
@@ -4030,17 +4221,17 @@ var cities_wip = [
         "z": "-40718.97"
     },
     {
-        "gameName": "larochelle",
-        "realName": "La Rochelle",
-        "country": "france",
-        "x": "-46568.17",
-        "y": "11.78",
-        "z": "19075.63"
+        "gameName": "lisburn",
+        "realName": "Lisburn",
+        "country": "nireland",
+        "x": "-60535.71",
+        "y": "13.40",
+        "z": "-40179.05"
     },
     {
         "gameName": "lisburn",
         "realName": "Lisburn",
-        "country": "nireland",
+        "country": "uk",
         "x": "-60535.71",
         "y": "13.40",
         "z": "-40179.05"
@@ -4054,28 +4245,12 @@ var cities_wip = [
         "z": "-45948.30"
     },
     {
-        "gameName": "marseille",
-        "realName": "Marseille",
-        "country": "france",
-        "x": "-23472.41",
-        "y": "3.91",
-        "z": "39190.79"
-    },
-    {
-        "gameName": "montpellier",
-        "realName": "Montpellier",
-        "country": "france",
-        "x": "-30052.36",
-        "y": "55.06",
-        "z": "36107.62"
-    },
-    {
-        "gameName": "nice",
-        "realName": "Nice",
-        "country": "france",
-        "x": "-15975.13",
-        "y": "42.04",
-        "z": "37001.34"
+        "gameName": "londonderry",
+        "realName": "Londonderry",
+        "country": "uk",
+        "x": "-64011.90",
+        "y": "23.04",
+        "z": "-45948.30"
     },
     {
         "gameName": "ogre",

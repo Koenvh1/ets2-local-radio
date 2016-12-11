@@ -39,9 +39,14 @@ _ETS2 Local Radio crashes!_
 
 Please open an issue or [contact me](http://koenvh.nl/contact)
 
-## Screenshots: ##
-![Screenshot](http://i.imgur.com/is4eKez.png)
-_Screenshot in Norway_
+## Thanks to: ##
+I could not have possibly done this alone, so thanks to the following people:
+* SCS Software for creating ETS2
+* nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)
+* All the translators
+* Everyone who submitted a new station
+* You, the user
 
-![Screenshot](http://i.imgur.com/c9wCREg.png)
-_All available stations as of 1.0.0_
+## Screenshots: ##
+![Screenshot](http://i.imgur.com/ISmwGBh.png)
+_All available stations as of 1.3.0_

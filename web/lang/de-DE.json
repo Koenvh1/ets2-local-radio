@@ -1,9 +1,11 @@
 {
   "web": {
     "author": "",
+    "now-playing": "Jetzt läuft:",
     "connect-other-device": "Mit anderem Gerät verbinden",
     "coverage-map": "Abdeckungs-Karte",
     "stop-playback": "Abspielen beenden",
+    "volume": "Lautstärke",
     "stations": "Stationen:",
     "update-available": "Ein Update ist verfügbar!",
     "update-now": "Jetzt updaten",

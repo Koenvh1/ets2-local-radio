@@ -13,7 +13,7 @@
     "waiting-coordinates": "Meklē jūsu ieskš-spēles atrašanas vietas koordinātus",
     "closest-city": "Tuvāka pilsēta ir: <span class='nearestCity'></span>, <span class='distance'></span> metri no jums",
     "amount-static": "Balta trokšņa skaits:",
-    "show-all": "Paradīt visu",
+    "show-all": "Paradīt/noslēpt visu",
     "enter-peerid-title": "Ievādiet PeerID",
     "enter-peerid-body": "Lūdzu, ievādiet jūsu PeerID ierīcē, kurā jūs gribat savienot:",
     "connect": "Savienot",

@@ -1,9 +1,11 @@
 {
   "web": {
     "author": "",
+    "now-playing": "Speelt nu:",
     "connect-other-device": "Verbind met een ander apparaat",
     "coverage-map": "Dekkingskaart",
     "stop-playback": "Stop afspelen",
+    "volume": "Volume",
     "stations": "Zenders:",
     "update-available": "Er is een update beschikbaar!",
     "update-now": "Nu updaten",

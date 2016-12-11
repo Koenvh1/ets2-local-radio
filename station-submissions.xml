@@ -5,6 +5,26 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Europe 1</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added RMC</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio Nova</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio Classique</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added DigiFM</title>
             <link>javascript:;</link>
             <description></description>

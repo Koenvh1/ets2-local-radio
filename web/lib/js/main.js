@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "1.2.0";
+var version = "1.3.0";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
 //language data:
@@ -27,6 +27,8 @@ var g_show_all = false;
 
 function initialise() {
     document.getElementById("switchStation").volume = 0;
+    document.getElementById("whitenoise").volume = 0;
+    document.getElementById("whitenoise").play();
 
     //Check updates:
     $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
@@ -59,7 +61,7 @@ function initialise() {
                 g_last_command = data.id;
                 if(!controlRemote) {
                     if (data.action == "stop") {
-                        setRadioStation('', 'none', 0);
+                        togglePlay();
                     }
                     if (data.action == "next") {
                         nextStation(parseInt(data.amount));
@@ -249,7 +251,7 @@ function setRadioStation(url, country, volume) {
                 });
             } else {
                 document.getElementById("player").src = url;
-                document.getElementById("player").play();
+                //document.getElementById("player").play();
             }
             setTimeout(function () {
                 $("#switchStation").animate({volume: 0}, 200);
@@ -263,6 +265,16 @@ function setRadioStation(url, country, volume) {
         setWhitenoise(volume);
     }
     refreshStations();
+    var index = stations[country].map(function (e) {
+        return e.url;
+    }).indexOf(url);
+
+    $(".current-station").html(stations[country][index].name);
+    $(".current-station-image").attr("src", stations[country][index].logo);
+
+    document.getElementById('player').play();
+    document.getElementById('whitenoise').play();
+    $("#stopPlayback").attr("src", "lib/img/stop-button.png");
 }
 
 function setWhitenoise(volume) {
@@ -284,9 +296,9 @@ function setWhitenoise(volume) {
         }
         $(".whitenoise-volume").html(parseFloat(newVolume).toFixed(2) + "; " + parseFloat(playerVolume).toFixed(2));
         document.getElementById("whitenoise").volume = parseFloat(newVolume);
-        document.getElementById("whitenoise").play();
+        //document.getElementById("whitenoise").play();
     } else {
-        document.getElementById("whitenoise").pause();
+        document.getElementById("whitenoise").volume = 0;
     }
 }
 
@@ -305,6 +317,34 @@ function setFavouriteStation(country, name) {
         localStorage.setItem("fav-" + country, name);
         refreshStations();
         //alert("Favourite for " + country.toUpperCase() + " is now " + name);
+    }
+}
+
+function togglePlay() {
+    if(controlRemote){
+        if(!conn.open){
+            //If connection closed, reconnect
+            conn = peer.connect(connectedPeerID);
+        }
+        conn.send(JSON.stringify({
+            type: "togglePlay"
+        }));
+
+        if($("#stopPlayback").attr("src") == "lib/img/stop-button.png"){
+            $("#stopPlayback").attr("src", "lib/img/play-button2.png");
+        } else {
+            $("#stopPlayback").attr("src", "lib/img/stop-button.png");
+        }
+    } else {
+        if (document.getElementById('player').paused) {
+            document.getElementById('player').play();
+            document.getElementById('whitenoise').play();
+            $("#stopPlayback").attr("src", "lib/img/stop-button.png");
+        } else {
+            document.getElementById('player').pause();
+            document.getElementById('whitenoise').pause();
+            $("#stopPlayback").attr("src", "lib/img/play-button2.png");
+        }
     }
 }
 
