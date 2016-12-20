@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "martinuS",
+    "now-playing": "Hetkel mängib:",
     "connect-other-device": "Ühendu teise seadmega",
     "coverage-map": "Levialakaart",
     "stop-playback": "Lõpeta mängimine",

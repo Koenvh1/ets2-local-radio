@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "Vladzz-G",
+    "now-playing": "Сейчас играет:",
     "connect-other-device": "Подключить другое устройство",
     "coverage-map": "Покрытие карты",
     "stop-playback": "Остановить проигрывание",

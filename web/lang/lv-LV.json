@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "Vladzz-G",
+    "now-playing": "Pašlaik skan:",
     "connect-other-device": "Savienot ar citu ierīci",
     "coverage-map": "Pārklajuma karte",
     "stop-playback": "Apturēt atskaņojumu",

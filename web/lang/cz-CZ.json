@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "Přeložil David Burda (ZelvaCZ)",
+    "now-playing": "Now playing:",
     "connect-other-device": "Připojit k jinému zařízení",
     "coverage-map": "Mapa pokrytí",
     "stop-playback": "Zastavit playback",

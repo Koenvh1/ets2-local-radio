@@ -347,6 +347,12 @@ var country_properties = {
         code: "ua",
         relative_radius: 1,
     },
+    "wales": {
+        name: "Cymru",
+        name_english: "Wales",
+        code: "gb-wls",
+        relative_radius: 1.15,
+    },
 };
 
 var city_properties = {
@@ -1230,6 +1236,14 @@ var cities = [
     {
         "gameName": "cardiff",
         "realName": "Cardiff",
+        "country": "wales",
+        "x": "-54005.3",
+        "y": "171.398",
+        "z": "-14698.4"
+    },
+    {
+        "gameName": "cardiff",
+        "realName": "Cardiff",
         "country": "uk",
         "x": "-54005.3",
         "y": "171.398",
@@ -1916,6 +1930,14 @@ var cities = [
         "z": "-111213"
     },
     {
+        "gameName": "jekabpils",
+        "realName": "Jēkabpils",
+        "country": "latvia",
+        "x": "50524.74",
+        "y": "8.08",
+        "z": "-34794.42"
+    },
+    {
         "gameName": "joensuu",
         "realName": "Joensuu",
         "country": "finland",
@@ -2124,6 +2146,14 @@ var cities = [
         "z": "-27181.4"
     },
     {
+        "gameName": "kolka",
+        "realName": "Kolka",
+        "country": "latvia",
+        "x": "39247.91",
+        "y": "20.57",
+        "z": "-40718.97"
+    },
+    {
         "gameName": "koln",
         "realName": "Köln",
         "country": "germany-wdr",
@@ -2295,6 +2325,14 @@ var cities = [
         "gameName": "liverpool",
         "realName": "Liverpool",
         "country": "uk",
+        "x": "-48871.7",
+        "y": "146.066",
+        "z": "-29091.8"
+    },
+    {
+        "gameName": "liverpool",
+        "realName": "Liverpool",
+        "country": "wales",
         "x": "-48871.7",
         "y": "146.066",
         "z": "-29091.8"
@@ -2660,6 +2698,14 @@ var cities = [
         "z": "-26700.4"
     },
     {
+        "gameName": "ogre",
+        "realName": "Ogre",
+        "country": "latvia",
+        "x": "46996.41",
+        "y": "13.29",
+        "z": "-35785.24"
+    },
+    {
         "gameName": "olsztyn",
         "realName": "Olsztyn",
         "country": "poland",
@@ -2940,6 +2986,14 @@ var cities = [
         "z": "-21612.7"
     },
     {
+        "gameName": "rakvere",
+        "realName": "Rakvere",
+        "country": "estonia",
+        "x": "48887.4",
+        "y": "21.1",
+        "z": "-50675.76"
+    },
+    {
         "gameName": "radom",
         "realName": "Radom",
         "country": "poland",
@@ -3074,6 +3128,14 @@ var cities = [
         "x": "42993.9",
         "y": "110.492",
         "z": "2919.09"
+    },
+    {
+        "gameName": "saldus",
+        "realName": "Saldus",
+        "country": "latvia",
+        "x": "39740.67",
+        "y": "10.14",
+        "z": "-33969.27"
     },
     {
         "gameName": "salzburg",
@@ -3234,6 +3296,14 @@ var cities = [
         "x": "43448.6",
         "y": "118.813",
         "z": "-21045.2"
+    },
+    {
+        "gameName": "swansea",
+        "realName": "Swansea",
+        "country": "wales",
+        "x": "-56896",
+        "y": "71.3984",
+        "z": "-16881.9"
     },
     {
         "gameName": "swansea",
@@ -4189,14 +4259,6 @@ var cities_wip = [
         "z": "-35578.97"
     },
     {
-        "gameName": "jekabpils",
-        "realName": "Jēkabpils",
-        "country": "latvia",
-        "x": "50524.74",
-        "y": "8.08",
-        "z": "-34794.42"
-    },
-    {
         "gameName": "kaliningrad",
         "realName": "Калининград (Kaliningrad)",
         "country": "russia",
@@ -4213,14 +4275,6 @@ var cities_wip = [
         "z": "-97267.13"
     },
     {
-        "gameName": "kolka",
-        "realName": "Kolka",
-        "country": "latvia",
-        "x": "39247.91",
-        "y": "20.57",
-        "z": "-40718.97"
-    },
-    {
         "gameName": "lisburn",
         "realName": "Lisburn",
         "country": "nireland",
@@ -4251,14 +4305,6 @@ var cities_wip = [
         "x": "-64011.90",
         "y": "23.04",
         "z": "-45948.30"
-    },
-    {
-        "gameName": "ogre",
-        "realName": "Ogre",
-        "country": "latvia",
-        "x": "46996.41",
-        "y": "13.29",
-        "z": "-35785.24"
     },
     {
         "gameName": "oppdal",
@@ -4275,22 +4321,6 @@ var cities_wip = [
         "x": "1772.52",
         "y": "9.25",
         "z": "-62862.78"
-    },
-    {
-        "gameName": "rakvere",
-        "realName": "Rakvere",
-        "country": "estonia",
-        "x": "48887.4",
-        "y": "21.1",
-        "z": "-50675.76"
-    },
-    {
-        "gameName": "saldus",
-        "realName": "Saldus",
-        "country": "latvia",
-        "x": "39740.67",
-        "y": "10.14",
-        "z": "-33969.27"
     },
     {
         "gameName": "sligo",

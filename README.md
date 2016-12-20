@@ -33,7 +33,8 @@ Please make sure your firewall is not blocking the connection
 
 _It says the simulator is not running even though it is!_
 
-Please make sure the plugin is installed and working
+Please make sure the plugin is installed and working. Also try installing the following:
+https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 
 _ETS2 Local Radio crashes!_
 

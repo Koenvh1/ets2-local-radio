@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "taotekno",
+    "now-playing": "Now playing:",
     "connect-other-device": "Başka bir cihaza bağlan",
     "coverage-map": "Harita kapsamı",
     "stop-playback": "Oynatmayı durdur",

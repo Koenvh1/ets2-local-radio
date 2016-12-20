@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "Martinus Kundla",
+    "now-playing": "Now playing:",
     "connect-other-device": "Kannekt tu anader divaiss",
     "coverage-map": "Kaveridsh mäpp",
     "stop-playback": "Stopp pleibäkk",

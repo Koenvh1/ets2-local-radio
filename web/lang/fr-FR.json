@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "",
+    "now-playing": "Now playing:",
     "connect-other-device": "Connecter à un autre appareil",
     "coverage-map": "Carte de la couverture",
     "stop-playback": "Arrêter la lecture",

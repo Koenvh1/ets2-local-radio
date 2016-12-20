@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "Zniwek",
+    "now-playing": "Teraz gra:",
     "connect-other-device": "Połącz z innym urządzeniem",
     "coverage-map": "Mapa pokrycia",
     "stop-playback": "Zatrzymaj odtwarzanie",

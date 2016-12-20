@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "Eryman",
+    "now-playing": "Now playing:",
     "connect-other-device": "Conectar a outro dispositivo",
     "coverage-map": "Mapa de cobertura",
     "stop-playback": "Parar reprodução",

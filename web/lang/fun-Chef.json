@@ -1,9 +1,11 @@
 {
   "web": {
     "author": "Swedish Chef",
+    "now-playing": "Nuo pleying:",
     "connect-other-device": "Cunnect tu ouzeer defice",
     "coverage-map": "Cuferege-a mep",
     "stop-playback": "Stup pleybeck",
+    "volume": "Volume",
     "stations": "Stetiuns:",
     "update-available": "Un updete-a is ifeeleble!",
     "update-now": "Updete-a nuo",

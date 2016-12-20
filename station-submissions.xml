@@ -5,6 +5,56 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Bel RTL</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio Contact</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio 2 Antwerpen</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Radio Energy (BG)</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected NRJ (AT)</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of Austria</description>
+        </item>
+        <item>
+            <title>Rejected ProFM (MD)</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of Moldova</description>
+        </item>
+        <item>
+            <title>Added ProFM (RO)</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected P7 Klem</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of Norway</description>
+        </item>
+        <item>
+            <title>Rejected NRJ (NO)</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of Norway</description>
+        </item>
+        <item>
+            <title>Added Radio BOB</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added Radio Deejay</title>
             <link>javascript:;</link>
             <description></description>

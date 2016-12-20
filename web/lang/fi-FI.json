@@ -1,6 +1,7 @@
 {
   "web": {
     "author": "LoaderSaints",
+    "now-playing": "Now playing:",
     "connect-other-device": "Yhdistä toiseen laitteeseen",
     "coverage-map": "Kuuluvuuskartta",
     "stop-playback": "Pysäytä toisto",
