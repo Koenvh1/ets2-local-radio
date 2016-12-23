@@ -5,6 +5,36 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Bandit Rock</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Наше Радио</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Детское Радио</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected Радио Дача</title>
+            <link>javascript:;</link>
+            <description>Station's stream does not work outside the webplayer</description>
+        </item>
+        <item>
+            <title>Rejected Радио Зенит</title>
+            <link>javascript:;</link>
+            <description>Station does not broadcast in the majority of Russia</description>
+        </item>
+        <item>
+            <title>Added Радио Шансон</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added Bel RTL</title>
             <link>javascript:;</link>
             <description></description>
