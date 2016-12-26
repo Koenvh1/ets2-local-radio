@@ -5,6 +5,11 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Country Radio</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added Bandit Rock</title>
             <link>javascript:;</link>
             <description></description>
