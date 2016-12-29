@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Открыть ETS2 Local Radio",
     "settings": "Настройки",
+    "keyboard": "Клавиатура",
+    "controller": "Контроллер",
     "next-station-key": "Клавиша след. радиостанции:",
     "previous-station-key": "Клавиша пред. радиостанции:",
     "stop-playback-key": "Клавиша стоп-проигрывания:",
     "volume-up-key": "Клавиша увеличения громкости:",
     "volume-down-key": "Клавиша уменьшения громкости:",
+    "make-favourite-key": "Клавиша \"Сделать избранным\":",
     "save": "Сохранить",
     "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного Euro Truck Simulator 2. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

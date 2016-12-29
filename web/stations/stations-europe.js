@@ -287,18 +287,23 @@ var stations = {
     "czech": [
         {
             name: "ČRo Radiožurnál",
-            logo: "stations/images-europe/czech/ČRo Radiožurnál.jpg",
+            logo: "stations/images-europe/czech/ČRo Radiožurnál.svg",
             url: "http://amp.cesnet.cz:8000/cro1-256.ogg"
         },
         {
             name: "ČRo Dvojka",
-            logo: "stations/images-europe/czech/ČRo Dvojka.jpg",
+            logo: "stations/images-europe/czech/ČRo Dvojka.svg",
             url: "http://amp.cesnet.cz:8000/cro2-256.ogg"
         },
         {
             name: "ČRo Vltava",
-            logo: "stations/images-europe/czech/ČRo Vltava.jpg",
+            logo: "stations/images-europe/czech/ČRo Vltava.svg",
             url: "http://amp.cesnet.cz:8000/cro3-256.ogg"
+        },
+        {
+            name: "Country Radio",
+            logo: "stations/images-europe/czech/Country Radio.png",
+            url: "http://icecast4.play.cz:443/country128.mp3"
         },
         {
             name: "Rádio Blaník",
@@ -341,6 +346,11 @@ var stations = {
             name: "DR P3",
             logo: "stations/images-europe/denmark/DR P3.png",
             url: "http://live-icy.gss.dr.dk:8000/A/A05H.mp3"
+        },
+        {
+            name: "DR P4 (København)",
+            logo: "stations/images-europe/denmark/DR P4.png",
+            url: "http://live-icy.gss.dr.dk:8000/A/A08H.mp3"
         },
         {
             name: "DR P5",
@@ -1350,6 +1360,11 @@ var stations = {
             url: "http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_h"
         },
         {
+            name: "NRK P1+",
+            logo: "stations/images-europe/norway/NRK P1 plus.svg",
+            url: "http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_h"
+        },
+        {
             name: "NRK P2",
             logo: "stations/images-europe/norway/NRK P2.png",
             url: "http://lyd.nrk.no:80/nrk_radio_p2_mp3_h"
@@ -1360,9 +1375,34 @@ var stations = {
             url: "http://lyd.nrk.no:80/nrk_radio_p3_mp3_h"
         },
         {
-            name: "NRK P4",
-            logo: "stations/images-europe/norway/NRK P3.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_p3_mp3_h"
+            name: "NRK Klassisk",
+            logo: "stations/images-europe/norway/NRK Klassisk.png",
+            url: "http://lyd.nrk.no:80/nrk_radio_klassisk_mp3_h"
+        },
+        {
+            name: "NRK Alltid Nyheter",
+            logo: "stations/images-europe/norway/NRK Alltid Nyheter.png",
+            url: "http://lyd.nrk.no:80/nrk_radio_alltid_nyheter_mp3_h"
+        },
+        {
+            name: "NRK Folkemusikk",
+            logo: "stations/images-europe/norway/NRK Folkemusikk.svg",
+            url: "http://lyd.nrk.no:80/nrk_radio_folkemusikk_mp3_h"
+        },
+        {
+            name: "NRK Sámi Radio",
+            logo: "stations/images-europe/norway/NRK Sámi Radio.png",
+            url: "http://lyd.nrk.no:80/nrk_radio_sami_mp3_h"
+        },
+        {
+            name: "NRK Jazz",
+            logo: "stations/images-europe/norway/NRK Jazz.svg",
+            url: "http://lyd.nrk.no:80/nrk_radio_jazz_mp3_h"
+        },
+        {
+            name: "NRK P13",
+            logo: "stations/images-europe/norway/NRK P13.svg",
+            url: "http://lyd.nrk.no:80/nrk_radio_p13_mp3_h"
         },
         {
             name: "NRK mP3",
@@ -1373,6 +1413,11 @@ var stations = {
             name: "P4",
             logo: "stations/images-europe/norway/P4.png",
             url: "http://stream.p4.no/p4_mp3_hq"
+        },
+        {
+            name: "P6 Rock",
+            logo: "stations/images-europe/norway/P6 Rock.png",
+            url: "http://stream.p4.no/p6_mp3_mq"
         },
     ],
     "poland": [
@@ -1501,6 +1546,11 @@ var stations = {
             url: "http://ic4.101.ru:8000/v3_1?userid=0&setst=fvhe0090q0b79jebn6nlacto22"
         },
         {
+            name: "Детское Радио",
+            logo: "stations/images-europe/russia/Детское Радио.png",
+            url: "http://ic2.101.ru:8000/v14_1?setst=-1&tok=n36EJDQFgZeSYjaJUSga78J%2BnhWdbL9gr794zXkRPTu1b8AQJHrhzg%3D%3D"
+        },
+        {
             name: "Дорожное радио",
             logo: "stations/images-europe/russia/Дорожное радио.png",
             url: "http://dorognoe.hostingradio.ru:8000/dorognoe"
@@ -1511,19 +1561,36 @@ var stations = {
             url: "http://ep128server.streamr.ru:8030/ep128"
         },
         {
+            name: "Наше Радио",
+            logo: "stations/images-europe/russia/Наше Радио.gif",
+            url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
+        },
+        {
             name: "Радио ENERGY",
             logo: "stations/images-europe/russia/Радио ENERGY.png",
             url: "http://ic2.101.ru:8000/v1_1"
         },
+        {
+            name: "Радио Ваня",
+            logo: "stations/images-europe/russia/Радио Ваня.png",
+            url: "http://icecast.piktv.cdnvideo.ru/vanya"
+        },
+        /*
+        {
+            name: "Радио Дача",
+            logo: "stations/images-europe/russia/Радио Дача.png",
+            url: "http://stream2.radiodacha.ru:9000/14_dacha_24?type=.mp3&UID=263F2B50E514885665292783CC858FA7"
+        },
+        */
         {
             name: "Радио Рекорд",
             logo: "stations/images-europe/russia/Радио Рекорд.png",
             url: "http://online.radiorecord.ru:8101/rr_128"
         },
         {
-            name: "Радио Ваня",
-            logo: "stations/images-europe/russia/Радио Ваня.png",
-            url: "http://icecast.piktv.cdnvideo.ru/vanya"
+            name: "Радио Шансон",
+            logo: "stations/images-europe/russia/Радио Шансон.png",
+            url: "http://radio02-cn03.akadostream.ru:8108/shanson128.mp3"
         },
         {
             name: "Ретро FM",
@@ -1673,7 +1740,7 @@ var stations = {
         {
             name: "Cadena 100",
             logo: "stations/images-europe/spain/Cadena 100.png",
-            url: "http://195.55.74.204/cope/cadena100-low.mp3"
+            url: "http://195.10.10.222/cope/cadena100.mp3"
         },
         {
             name: "Cadena Dial",
@@ -1705,12 +1772,12 @@ var stations = {
         {
             name: "Los 40 Principales",
             logo: "stations/images-europe/spain/Los 40 Principales.png",
-            url: "http://13393.live.streamtheworld.com:443/LOS40_SC"
+            url: "http://19073.live.streamtheworld.com:80/LOS40_SC"
         },
         {
             name: "M80 Radio",
             logo: "stations/images-europe/spain/M80 Radio.png",
-            url: "http://13393.live.streamtheworld.com:443/M80RADIO_SC"
+            url: "http://19073.live.streamtheworld.com:80/M80RADIO_SC"
         },
         {
             name: "Maxima FM",
@@ -1748,6 +1815,11 @@ var stations = {
             name: "Sveriges Radio P4 (Stockholm)",
             logo: "stations/images-europe/sweden/Sveriges Radio P4.png",
             url: "http://http-live.sr.se/p4stockholm-mp3-192"
+        },
+        {
+            name: "Bandit Rock",
+            logo: "stations/images-europe/sweden/Bandit Rock.png",
+            url: "http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web"
         },
         {
             name: "NRJ",

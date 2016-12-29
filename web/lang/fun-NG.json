@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Åben ETS2 Lokalradio",
     "settings": "Setninga",
+    "keyboard": "Tastertavle",
+    "controller": "Kontroltäky",
     "next-station-key": "Näststaġontaste:",
     "previous-station-key": "Forgestaġontaste:",
     "stop-playback-key": "Stopp avspilningtaste:",
     "volume-up-key": "Uppsygorsterkhedtaste:",
     "volume-down-key": "Nedsygorsterkhedtaste:",
+    "make-favourite-key": "Favoritlagataste:",
     "save": "Nedskrib",
     "ets2-folder-dialog": "Tak val uppsetningmapa av Euro Truck Simulator 2, vanlig hittit y C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

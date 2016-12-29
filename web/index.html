@@ -209,6 +209,10 @@
                 url: g_current_url,
                 country: g_current_country
             }));
+            conn.send(JSON.stringify({
+                type: "volume",
+                volume: g_volume
+            }));
         }
         if(response.type == "station"){
             setRadioStation(response.url, response.country, response.volume);

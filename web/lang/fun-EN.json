@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Öupen ETS2 Local Radio",
     "settings": "Settings",
+    "keyboard": "Keyboard",
+    "controller": "Controller",
     "next-station-key": "Nekst steishion kii:",
     "previous-station-key": "Priivios steishion key:",
     "stop-playback-key": "Stopp pleibäkk kii:",
     "volume-up-key": "Voljum app kii:",
     "volume-down-key": "Voljum däun kii:",
+    "make-favourite-key": "Make favourite:",
     "save": "Seiv",
     "ets2-folder-dialog": "Pliis selekt tee Euro Truck Simulator 2 installeishion föulder, ushualli fäund in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

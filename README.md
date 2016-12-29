@@ -9,6 +9,7 @@ and the Polish radio in Poland. It will switch automatically, and allow you to s
 2. Extract it wherever you like
 3. Execute ETS2 Local Radio server.exe
 4. Open ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
+5. _Optional: You can copy the d3d9.dll in the plugins folder to your ETS2 installation to show the current station as an overlay for ETS2_
 
 Now additionally, you may want to look at `config.js` and set some additional settings to make the make your experience even better.
 
@@ -43,11 +44,12 @@ Please open an issue or [contact me](http://koenvh.nl/contact)
 ## Thanks to: ##
 I could not have possibly done this alone, so thanks to the following people:
 * SCS Software for creating ETS2
-* nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)
+* **nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)**
+* **Michael Koch for creating [GPP](http://www.mikoweb.eu/?page_id=54)**
 * All the translators
 * Everyone who submitted a new station
 * You, the user
 
 ## Screenshots: ##
-![Screenshot](http://i.imgur.com/ISmwGBh.png)
-_All available stations as of 1.3.0_
+![Screenshot](http://i.imgur.com/U00YLw7.png)
+_All available stations as of 1.4.0_

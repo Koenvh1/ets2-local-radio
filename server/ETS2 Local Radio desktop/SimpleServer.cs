@@ -186,7 +186,22 @@ namespace ETS2_Local_Radio_server
 
             filename = Path.Combine(_rootDirectory, filename);
 
-            if (context.Request.Url.AbsolutePath == "/api/")
+            if (context.Request.Url.AbsolutePath.StartsWith("/station/"))
+            {
+                string station = context.Request.Url.AbsolutePath;
+                station = WebUtility.UrlDecode(station);
+                station = station.Replace("/station/", "").Replace("/", "");
+                Station.SetStation(station);
+
+                string text = "{\"Success\": true}";
+
+                context.Response.ContentType = "application/json";
+                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
+                context.Response.StatusCode = (int)HttpStatusCode.OK;
+                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
+                context.Response.OutputStream.Flush();
+            }
+            else if (context.Request.Url.AbsolutePath == "/api/")
             {
                 string text = Newtonsoft.Json.JsonConvert.SerializeObject(Main.ets2data);
 
@@ -220,6 +235,7 @@ namespace ETS2_Local_Radio_server
                     context.Response.ContentLength64 = input.Length;
                     context.Response.AddHeader("Date", DateTime.Now.ToString("r"));
                     context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
+                    //context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
 
                     byte[] buffer = new byte[1024*16];
                     int nbytes;
@@ -233,7 +249,7 @@ namespace ETS2_Local_Radio_server
                 catch (Exception ex)
                 {
                     context.Response.StatusCode = (int) HttpStatusCode.InternalServerError;
-                    Log(ex.ToString());
+                    Log.Write(ex.ToString());
                 }
 
             }
@@ -241,7 +257,7 @@ namespace ETS2_Local_Radio_server
             {
                 //context.Response.AddHeader("X-Requested-File", filename);
                 context.Response.StatusCode = (int)HttpStatusCode.NotFound;
-                Log("Not found: " + filename);
+                Log.Write("Not found: " + filename);
             }
 
             context.Response.OutputStream.Close();
@@ -253,17 +269,6 @@ namespace ETS2_Local_Radio_server
             this._port = port;
             _serverThread = new Thread(this.Listen);
             _serverThread.Start();
-        }
-
-        public void Log(String lines)
-        {
-
-            // Write the string to a file.append mode is enabled so that the log
-            // lines get appended to  test.txt than wiping content and writing the log
-
-            System.IO.StreamWriter file = new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt", true);
-            file.WriteLine(lines);
-            file.Close();
         }
     }
 }

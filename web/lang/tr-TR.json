@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "ETS2 Yerel Radyo Aç",
     "settings": "Ayarlar",
+    "keyboard": "Keyboard",
+    "controller": "Controller",
     "next-station-key": "Sonraki istasyon tuşu:",
     "previous-station-key": "Önceki istasyon tuşu:",
     "stop-playback-key": "Oynatmayı durdurma tuşu:",
     "volume-up-key": "Ses açma tuşu:",
     "volume-down-key": "Ses kısma tuşu:",
+    "make-favourite-key": "Make favourite:",
     "save": "Kaydet",
     "ets2-folder-dialog": "Lütfen Euro Truck Simulator 2 'nin yüklü olduğu dosyayı seçiniz. Genellikle şurada olur: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

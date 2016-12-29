@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Otwórz ETS2 Local Radio",
     "settings": "Ustawienia",
+    "keyboard": "Klawiatura",
+    "controller": "Kontroler",
     "next-station-key": "Następna stacja:",
     "previous-station-key": "Poprzednia stacja:",
-    "stop-playback-key": "Zatrzymaj odtwarzanie stacja:",
-    "volume-up-key": "Zwiększ głośność stacja:",
-    "volume-down-key": "Zmniejsz głośność stacja:",
+    "stop-playback-key": "Zatrzymaj odtwarzanie:",
+    "volume-up-key": "Zwiększ głośność:",
+    "volume-down-key": "Zmniejsz głośność:",
+    "make-favourite-key": "Ustaw jako ulubioną:",
     "save": "Zapisz",
     "ets2-folder-dialog": "Wybierz proszę folder z zainstalowaną grą Euro Truck Simulator 2, zazwyczaj jest to C:\\Pliki programów (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

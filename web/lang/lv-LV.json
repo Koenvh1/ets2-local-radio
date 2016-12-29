@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Atvērt ETS2 Local Radio",
     "settings": "Uzstādījumi",
+    "keyboard": "Tastatūra",
+    "controller": "Kontrolieris",
     "next-station-key": "Nākamas radiostācijas taustiņš:",
     "previous-station-key": "Iepriekšējas radiostācijas taustiņš:",
     "stop-playback-key": "Aptūrēt atskaņošanu taustiņš:",
     "volume-up-key": "Skaļuma palielināšanas taustiņš:",
     "volume-down-key": "Skaļuma samazināšanas taustiņš:",
+    "make-favourite-key": "Taustiņš \"Izvelēties par favorītu\":",
     "save": "Saglabāt",
     "ets2-folder-dialog": "Lūdzu, izvēlēties Euro Truck Simulator 2 instalācijas mapi, parasti atrodas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

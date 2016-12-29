@@ -401,6 +401,9 @@ var city_properties = {
     "cherb": {
         relative_radius: 0.4,
     },
+    "chernyakh": {
+        relative_radius: 0.5,
+    },
     "cieszyn": {
         relative_radius: 0.7,
     },
@@ -471,7 +474,7 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "kaliningrad": {
-        relative_radius: 0.4,
+        relative_radius: 0.45,
     },
     "kardla": {
         relative_radius: 0.6,
@@ -4233,6 +4236,14 @@ var cities_wip = [
         "x": "-59692.36",
         "y": "34.07",
         "z": "-41394.61"
+    },
+    {
+        "gameName": "chernyakh",
+        "realName": "Черняховск (Chernyakhovsk)",
+        "country": "russia",
+        "x": "39226.42",
+        "y": "19.23",
+        "z": "-23167.04"
     },
     {
         "gameName": "dombas",

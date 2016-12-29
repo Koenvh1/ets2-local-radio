@@ -24,8 +24,8 @@ F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Main.resources
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Overlay.resources
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Properties.Resources.resources
-F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Setup.resources
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2_Local_Radio_server.Splash.resources
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio desktop.csproj.GenerateResource.Cache
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.exe
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\SlimDX.dll

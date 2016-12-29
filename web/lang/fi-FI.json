@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Avaa ETS2 Local Radio",
     "settings": "Asetukset",
+    "keyboard": "Keyboard",
+    "controller": "Controller",
     "next-station-key": "Seuraava kanava -näppäin:",
     "previous-station-key": "Edellinen kanava -näppäin:",
     "stop-playback-key": "Pysäytä toisto -näppäin:",
     "volume-up-key": "Lisää äänenvoimakkuutta -näppäin:",
     "volume-down-key": "Alenna äänenvoimakkuutta -näppäin:",
+    "make-favourite-key": "Make favourite:",
     "save": "Tallenna",
     "ets2-folder-dialog": "Valitse kansio johon Euro Truck Simulator 2 on asennettu, tavallisesti C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

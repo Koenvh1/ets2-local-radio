@@ -31,11 +31,14 @@
     "url": "URL:",
     "open-local-radio": "Open ETS2 Local Radio",
     "settings": "Instellingen",
+    "keyboard": "Toetsenbord",
+    "controller": "Controller",
     "next-station-key": "Toets volgende station:",
     "previous-station-key": "Toets vorig station:",
     "stop-playback-key": "Toets stop afspelen:",
     "volume-up-key": "Toets volume omhoog:",
     "volume-down-key": "Toets volume omlaag:",
+    "make-favourite-key": "Toets maak favoriet:",
     "save": "Opslaan",
     "ets2-folder-dialog": "Kies alstublieft de Euro Truck Simulator 2-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

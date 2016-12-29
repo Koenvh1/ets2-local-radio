@@ -36,6 +36,16 @@
             this.previousKeyTextBox = new System.Windows.Forms.TextBox();
             this.stopKeyTextBox = new System.Windows.Forms.TextBox();
             this.groupSettings = new System.Windows.Forms.GroupBox();
+            this.buttonLabel = new System.Windows.Forms.Label();
+            this.keyLabel = new System.Windows.Forms.Label();
+            this.makeFavouriteButtonTextbox = new System.Windows.Forms.TextBox();
+            this.volumeDownButtonTextBox = new System.Windows.Forms.TextBox();
+            this.volumeUpButtonTextBox = new System.Windows.Forms.TextBox();
+            this.stopButtonTextBox = new System.Windows.Forms.TextBox();
+            this.previousButtonTextBox = new System.Windows.Forms.TextBox();
+            this.nextButtonTextBox = new System.Windows.Forms.TextBox();
+            this.makeFavouriteKeyLabel = new System.Windows.Forms.Label();
+            this.makeFavouriteKeyTextbox = new System.Windows.Forms.TextBox();
             this.volumeDownKeyLabel = new System.Windows.Forms.Label();
             this.volumeUpKeyLabel = new System.Windows.Forms.Label();
             this.volumeDownKeyTextBox = new System.Windows.Forms.TextBox();
@@ -51,8 +61,10 @@
             this.statusInfo = new System.Windows.Forms.Label();
             this.statusLabel = new System.Windows.Forms.Label();
             this.URLLabel = new System.Windows.Forms.LinkLabel();
-            this.Koenvh = new System.Windows.Forms.PictureBox();
             this.comboLang = new System.Windows.Forms.ComboBox();
+            this.ets2Dialog = new System.Windows.Forms.FolderBrowserDialog();
+            this.joystickTimer = new System.Windows.Forms.Timer(this.components);
+            this.Koenvh = new System.Windows.Forms.PictureBox();
             this.groupSettings.SuspendLayout();
             this.groupInfo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).BeginInit();
@@ -67,7 +79,7 @@
             // 
             this.saveButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.saveButton.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.saveButton.Location = new System.Drawing.Point(300, 148);
+            this.saveButton.Location = new System.Drawing.Point(300, 224);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(105, 34);
             this.saveButton.TabIndex = 0;
@@ -78,34 +90,44 @@
             // nextKeyTextBox
             // 
             this.nextKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.nextKeyTextBox.Location = new System.Drawing.Point(340, 17);
+            this.nextKeyTextBox.Location = new System.Drawing.Point(236, 41);
             this.nextKeyTextBox.Name = "nextKeyTextBox";
-            this.nextKeyTextBox.Size = new System.Drawing.Size(65, 22);
+            this.nextKeyTextBox.ShortcutsEnabled = false;
+            this.nextKeyTextBox.Size = new System.Drawing.Size(60, 22);
             this.nextKeyTextBox.TabIndex = 1;
-            this.nextKeyTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.nextKeyTextBox_KeyDown);
             // 
             // previousKeyTextBox
             // 
             this.previousKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.previousKeyTextBox.Location = new System.Drawing.Point(340, 43);
+            this.previousKeyTextBox.Location = new System.Drawing.Point(236, 67);
             this.previousKeyTextBox.Name = "previousKeyTextBox";
-            this.previousKeyTextBox.Size = new System.Drawing.Size(65, 22);
+            this.previousKeyTextBox.ShortcutsEnabled = false;
+            this.previousKeyTextBox.Size = new System.Drawing.Size(60, 22);
             this.previousKeyTextBox.TabIndex = 2;
-            this.previousKeyTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.previousKeyTextBox_KeyDown);
             // 
             // stopKeyTextBox
             // 
             this.stopKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.stopKeyTextBox.Location = new System.Drawing.Point(340, 69);
+            this.stopKeyTextBox.Location = new System.Drawing.Point(236, 93);
             this.stopKeyTextBox.Name = "stopKeyTextBox";
-            this.stopKeyTextBox.Size = new System.Drawing.Size(65, 22);
+            this.stopKeyTextBox.ShortcutsEnabled = false;
+            this.stopKeyTextBox.Size = new System.Drawing.Size(60, 22);
             this.stopKeyTextBox.TabIndex = 3;
-            this.stopKeyTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.stopKeyTextBox_KeyDown);
             // 
             // groupSettings
             // 
             this.groupSettings.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupSettings.Controls.Add(this.buttonLabel);
+            this.groupSettings.Controls.Add(this.keyLabel);
+            this.groupSettings.Controls.Add(this.makeFavouriteButtonTextbox);
+            this.groupSettings.Controls.Add(this.volumeDownButtonTextBox);
+            this.groupSettings.Controls.Add(this.volumeUpButtonTextBox);
+            this.groupSettings.Controls.Add(this.stopButtonTextBox);
+            this.groupSettings.Controls.Add(this.previousButtonTextBox);
+            this.groupSettings.Controls.Add(this.nextButtonTextBox);
+            this.groupSettings.Controls.Add(this.makeFavouriteKeyLabel);
+            this.groupSettings.Controls.Add(this.makeFavouriteKeyTextbox);
             this.groupSettings.Controls.Add(this.volumeDownKeyLabel);
             this.groupSettings.Controls.Add(this.volumeUpKeyLabel);
             this.groupSettings.Controls.Add(this.volumeDownKeyTextBox);
@@ -120,17 +142,122 @@
             this.groupSettings.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.groupSettings.Location = new System.Drawing.Point(12, 135);
             this.groupSettings.Name = "groupSettings";
-            this.groupSettings.Size = new System.Drawing.Size(413, 188);
+            this.groupSettings.Size = new System.Drawing.Size(413, 264);
             this.groupSettings.TabIndex = 4;
             this.groupSettings.TabStop = false;
             this.groupSettings.Text = "Settings";
             // 
+            // buttonLabel
+            // 
+            this.buttonLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.buttonLabel.Location = new System.Drawing.Point(317, 18);
+            this.buttonLabel.Name = "buttonLabel";
+            this.buttonLabel.Size = new System.Drawing.Size(90, 20);
+            this.buttonLabel.TabIndex = 21;
+            this.buttonLabel.Text = "Controller";
+            this.buttonLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // keyLabel
+            // 
+            this.keyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.keyLabel.Location = new System.Drawing.Point(221, 18);
+            this.keyLabel.Name = "keyLabel";
+            this.keyLabel.Size = new System.Drawing.Size(90, 20);
+            this.keyLabel.TabIndex = 20;
+            this.keyLabel.Text = "Keyboard";
+            this.keyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // makeFavouriteButtonTextbox
+            // 
+            this.makeFavouriteButtonTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.makeFavouriteButtonTextbox.BackColor = System.Drawing.SystemColors.Window;
+            this.makeFavouriteButtonTextbox.Location = new System.Drawing.Point(332, 171);
+            this.makeFavouriteButtonTextbox.Name = "makeFavouriteButtonTextbox";
+            this.makeFavouriteButtonTextbox.ReadOnly = true;
+            this.makeFavouriteButtonTextbox.ShortcutsEnabled = false;
+            this.makeFavouriteButtonTextbox.Size = new System.Drawing.Size(60, 22);
+            this.makeFavouriteButtonTextbox.TabIndex = 19;
+            // 
+            // volumeDownButtonTextBox
+            // 
+            this.volumeDownButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.volumeDownButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
+            this.volumeDownButtonTextBox.Location = new System.Drawing.Point(332, 145);
+            this.volumeDownButtonTextBox.Name = "volumeDownButtonTextBox";
+            this.volumeDownButtonTextBox.ReadOnly = true;
+            this.volumeDownButtonTextBox.ShortcutsEnabled = false;
+            this.volumeDownButtonTextBox.Size = new System.Drawing.Size(60, 22);
+            this.volumeDownButtonTextBox.TabIndex = 18;
+            // 
+            // volumeUpButtonTextBox
+            // 
+            this.volumeUpButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.volumeUpButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
+            this.volumeUpButtonTextBox.Location = new System.Drawing.Point(332, 119);
+            this.volumeUpButtonTextBox.Name = "volumeUpButtonTextBox";
+            this.volumeUpButtonTextBox.ReadOnly = true;
+            this.volumeUpButtonTextBox.ShortcutsEnabled = false;
+            this.volumeUpButtonTextBox.Size = new System.Drawing.Size(60, 22);
+            this.volumeUpButtonTextBox.TabIndex = 17;
+            // 
+            // stopButtonTextBox
+            // 
+            this.stopButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.stopButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
+            this.stopButtonTextBox.Location = new System.Drawing.Point(332, 93);
+            this.stopButtonTextBox.Name = "stopButtonTextBox";
+            this.stopButtonTextBox.ReadOnly = true;
+            this.stopButtonTextBox.ShortcutsEnabled = false;
+            this.stopButtonTextBox.Size = new System.Drawing.Size(60, 22);
+            this.stopButtonTextBox.TabIndex = 16;
+            // 
+            // previousButtonTextBox
+            // 
+            this.previousButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.previousButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
+            this.previousButtonTextBox.Location = new System.Drawing.Point(332, 67);
+            this.previousButtonTextBox.Name = "previousButtonTextBox";
+            this.previousButtonTextBox.ReadOnly = true;
+            this.previousButtonTextBox.ShortcutsEnabled = false;
+            this.previousButtonTextBox.Size = new System.Drawing.Size(60, 22);
+            this.previousButtonTextBox.TabIndex = 15;
+            // 
+            // nextButtonTextBox
+            // 
+            this.nextButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.nextButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
+            this.nextButtonTextBox.Location = new System.Drawing.Point(332, 41);
+            this.nextButtonTextBox.Name = "nextButtonTextBox";
+            this.nextButtonTextBox.ReadOnly = true;
+            this.nextButtonTextBox.ShortcutsEnabled = false;
+            this.nextButtonTextBox.Size = new System.Drawing.Size(60, 22);
+            this.nextButtonTextBox.TabIndex = 14;
+            // 
+            // makeFavouriteKeyLabel
+            // 
+            this.makeFavouriteKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.makeFavouriteKeyLabel.Location = new System.Drawing.Point(6, 171);
+            this.makeFavouriteKeyLabel.Name = "makeFavouriteKeyLabel";
+            this.makeFavouriteKeyLabel.Size = new System.Drawing.Size(224, 22);
+            this.makeFavouriteKeyLabel.TabIndex = 13;
+            this.makeFavouriteKeyLabel.Text = "Make favourite key:";
+            this.makeFavouriteKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // makeFavouriteKeyTextbox
+            // 
+            this.makeFavouriteKeyTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.makeFavouriteKeyTextbox.Location = new System.Drawing.Point(236, 171);
+            this.makeFavouriteKeyTextbox.Name = "makeFavouriteKeyTextbox";
+            this.makeFavouriteKeyTextbox.ShortcutsEnabled = false;
+            this.makeFavouriteKeyTextbox.Size = new System.Drawing.Size(60, 22);
+            this.makeFavouriteKeyTextbox.TabIndex = 12;
+            // 
             // volumeDownKeyLabel
             // 
             this.volumeDownKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.volumeDownKeyLabel.Location = new System.Drawing.Point(6, 121);
+            this.volumeDownKeyLabel.Location = new System.Drawing.Point(6, 145);
             this.volumeDownKeyLabel.Name = "volumeDownKeyLabel";
-            this.volumeDownKeyLabel.Size = new System.Drawing.Size(331, 20);
+            this.volumeDownKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.volumeDownKeyLabel.TabIndex = 11;
             this.volumeDownKeyLabel.Text = "Volume down key:";
             this.volumeDownKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -138,9 +265,9 @@
             // volumeUpKeyLabel
             // 
             this.volumeUpKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.volumeUpKeyLabel.Location = new System.Drawing.Point(6, 95);
+            this.volumeUpKeyLabel.Location = new System.Drawing.Point(6, 119);
             this.volumeUpKeyLabel.Name = "volumeUpKeyLabel";
-            this.volumeUpKeyLabel.Size = new System.Drawing.Size(331, 20);
+            this.volumeUpKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.volumeUpKeyLabel.TabIndex = 10;
             this.volumeUpKeyLabel.Text = "Volume up key:";
             this.volumeUpKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -148,27 +275,27 @@
             // volumeDownKeyTextBox
             // 
             this.volumeDownKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.volumeDownKeyTextBox.Location = new System.Drawing.Point(340, 121);
+            this.volumeDownKeyTextBox.Location = new System.Drawing.Point(236, 145);
             this.volumeDownKeyTextBox.Name = "volumeDownKeyTextBox";
-            this.volumeDownKeyTextBox.Size = new System.Drawing.Size(65, 22);
+            this.volumeDownKeyTextBox.ShortcutsEnabled = false;
+            this.volumeDownKeyTextBox.Size = new System.Drawing.Size(60, 22);
             this.volumeDownKeyTextBox.TabIndex = 9;
-            this.volumeDownKeyTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.volumeDownKeyTextBox_KeyDown);
             // 
             // volumeUpKeyTextBox
             // 
             this.volumeUpKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.volumeUpKeyTextBox.Location = new System.Drawing.Point(340, 95);
+            this.volumeUpKeyTextBox.Location = new System.Drawing.Point(236, 119);
             this.volumeUpKeyTextBox.Name = "volumeUpKeyTextBox";
-            this.volumeUpKeyTextBox.Size = new System.Drawing.Size(65, 22);
+            this.volumeUpKeyTextBox.ShortcutsEnabled = false;
+            this.volumeUpKeyTextBox.Size = new System.Drawing.Size(60, 22);
             this.volumeUpKeyTextBox.TabIndex = 8;
-            this.volumeUpKeyTextBox.KeyDown += new System.Windows.Forms.KeyEventHandler(this.volumeUpKeyTextBox_KeyDown);
             // 
             // previousKeyLabel
             // 
             this.previousKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.previousKeyLabel.Location = new System.Drawing.Point(6, 43);
+            this.previousKeyLabel.Location = new System.Drawing.Point(6, 67);
             this.previousKeyLabel.Name = "previousKeyLabel";
-            this.previousKeyLabel.Size = new System.Drawing.Size(331, 20);
+            this.previousKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.previousKeyLabel.TabIndex = 5;
             this.previousKeyLabel.Text = "Previous station key:";
             this.previousKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -176,9 +303,9 @@
             // stopKeyLabel
             // 
             this.stopKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.stopKeyLabel.Location = new System.Drawing.Point(6, 69);
+            this.stopKeyLabel.Location = new System.Drawing.Point(6, 93);
             this.stopKeyLabel.Name = "stopKeyLabel";
-            this.stopKeyLabel.Size = new System.Drawing.Size(331, 20);
+            this.stopKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.stopKeyLabel.TabIndex = 5;
             this.stopKeyLabel.Text = "Stop playback key:";
             this.stopKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -186,9 +313,9 @@
             // nextKeyLabel
             // 
             this.nextKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.nextKeyLabel.Location = new System.Drawing.Point(6, 17);
+            this.nextKeyLabel.Location = new System.Drawing.Point(6, 41);
             this.nextKeyLabel.Name = "nextKeyLabel";
-            this.nextKeyLabel.Size = new System.Drawing.Size(331, 20);
+            this.nextKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.nextKeyLabel.TabIndex = 4;
             this.nextKeyLabel.Text = "Next station key:";
             this.nextKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -284,36 +411,47 @@
             this.URLLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.URLLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.URLLabel_LinkClicked);
             // 
-            // Koenvh
-            // 
-            this.Koenvh.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
-            this.Koenvh.Location = new System.Drawing.Point(140, 340);
-            this.Koenvh.Name = "Koenvh";
-            this.Koenvh.Size = new System.Drawing.Size(156, 50);
-            this.Koenvh.TabIndex = 6;
-            this.Koenvh.TabStop = false;
-            this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
-            // 
             // comboLang
             // 
             this.comboLang.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.comboLang.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboLang.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboLang.FormattingEnabled = true;
-            this.comboLang.Location = new System.Drawing.Point(360, 369);
+            this.comboLang.Location = new System.Drawing.Point(360, 442);
             this.comboLang.Name = "comboLang";
             this.comboLang.Size = new System.Drawing.Size(65, 21);
             this.comboLang.TabIndex = 8;
             this.comboLang.SelectedIndexChanged += new System.EventHandler(this.comboLang_SelectedIndexChanged);
             // 
+            // ets2Dialog
+            // 
+            this.ets2Dialog.Description = "Please select the Euro Truck Simulator 2 installation folder, usually found in C:" +
+    "\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2";
+            this.ets2Dialog.ShowNewFolderButton = false;
+            // 
+            // joystickTimer
+            // 
+            this.joystickTimer.Interval = 10;
+            this.joystickTimer.Tick += new System.EventHandler(this.joystickTimer_Tick);
+            // 
+            // Koenvh
+            // 
+            this.Koenvh.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
+            this.Koenvh.Location = new System.Drawing.Point(140, 413);
+            this.Koenvh.Name = "Koenvh";
+            this.Koenvh.Size = new System.Drawing.Size(156, 50);
+            this.Koenvh.TabIndex = 6;
+            this.Koenvh.TabStop = false;
+            this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 400);
+            this.ClientSize = new System.Drawing.Size(437, 473);
             this.Controls.Add(this.comboLang);
             this.Controls.Add(this.Koenvh);
             this.Controls.Add(this.groupInfo);
@@ -357,5 +495,17 @@
         private System.Windows.Forms.Label URLInfo;
         private System.Windows.Forms.ComboBox comboIP;
         private System.Windows.Forms.ComboBox comboLang;
+        private System.Windows.Forms.Label makeFavouriteKeyLabel;
+        private System.Windows.Forms.TextBox makeFavouriteKeyTextbox;
+        private System.Windows.Forms.FolderBrowserDialog ets2Dialog;
+        private System.Windows.Forms.Timer joystickTimer;
+        private System.Windows.Forms.Label buttonLabel;
+        private System.Windows.Forms.Label keyLabel;
+        private System.Windows.Forms.TextBox makeFavouriteButtonTextbox;
+        private System.Windows.Forms.TextBox volumeDownButtonTextBox;
+        private System.Windows.Forms.TextBox volumeUpButtonTextBox;
+        private System.Windows.Forms.TextBox stopButtonTextBox;
+        private System.Windows.Forms.TextBox previousButtonTextBox;
+        private System.Windows.Forms.TextBox nextButtonTextBox;
     }
 }

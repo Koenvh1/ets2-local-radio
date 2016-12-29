@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "1.3.5";
+var version = "1.4.0";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
 //language data:
@@ -26,9 +26,14 @@ var g_last_command = "0";
 var g_show_all = false;
 
 function initialise() {
-    document.getElementById("switchStation").volume = 0;
-    document.getElementById("whitenoise").volume = 0;
-    document.getElementById("whitenoise").play();
+    $(document).ready(function () {
+        document.getElementById("switchStation").volume = 0;
+        document.getElementById("whitenoise").volume = 0;
+        document.getElementById("whitenoise").play();
+        if(g_skinConfig["transition-whitenoise"] == false) {
+            document.getElementById("switchStation").src = "about:blank";
+        }
+    });
 
     //Check updates:
     $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
@@ -69,6 +74,16 @@ function initialise() {
                     if (data.action == "volume") {
                         $("#volumeControl").val(parseInt($("#volumeControl").val()) + parseInt(data.amount));
                         g_volume = parseInt($("#volumeControl").val()) / 100;
+                    }
+                    if (data.action == "favourite") {
+                        if(g_current_country != null) {
+                            var index = stations[g_current_country].map(function (e) {
+                                return e.url;
+                            }).indexOf(g_current_url);
+                            if(index != -1) {
+                                setFavouriteStation(g_current_country, stations[g_current_country][index].name);
+                            }
+                        }
                     }
                 }
             }
@@ -275,6 +290,8 @@ function setRadioStation(url, country, volume) {
     document.getElementById('player').play();
     document.getElementById('whitenoise').play();
     $("#stopPlayback").attr("src", "lib/img/stop-button.png");
+
+    $.get("station/" + stations[country][index].name);
 }
 
 function setWhitenoise(volume) {
@@ -349,21 +366,27 @@ function togglePlay() {
 }
 
 function nextStation(amount) {
-    var index = -1;
-    for(var i = 0; i < g_stations.length; i++){
-        if(g_stations[i]["url"] == g_current_url){
-            index = i;
-            break;
+    try {
+        if(!g_stations.length == 0) {
+            var index = -1;
+            for (var i = 0; i < g_stations.length; i++) {
+                if (g_stations[i]["url"] == g_current_url) {
+                    index = i;
+                    break;
+                }
+            }
+            index = index + amount;
+            if (index < 0) {
+                index = g_stations.length + index;
+            }
+            while (index >= g_stations.length) {
+                index = index - g_stations.length;
+            }
+            setRadioStation(g_stations[index]["url"], g_stations[index]["country"], g_stations[index]["volume"]);
         }
+    } catch (ex) {
+        console.log(ex);
     }
-    index = index + amount;
-    if(index < 0){
-        index = g_stations.length + index;
-    }
-    while(index >= g_stations.length){
-        index = index - g_stations.length;
-    }
-    setRadioStation(g_stations[index]["url"], g_stations[index]["country"], g_stations[index]["volume"]);
 }
 
 function refreshStations() {

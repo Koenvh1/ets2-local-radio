@@ -31,11 +31,14 @@
     "url": "URL:",
     "open-local-radio": "Opee-a ETS2 Local Radio",
     "settings": "Settings",
+    "keyboard": "Keyboard",
+    "controller": "Controller",
     "next-station-key": "Next stetiun key:",
     "previous-station-key": "Prefiuous stetiun key:",
     "stop-playback-key": "Stup pleybeck key:",
     "volume-up-key": "Fuluome-a up key:",
     "volume-down-key": "Fuluome-a duon key:",
+    "make-favourite-key": "Make favourite:",
     "save": "Sefe",
     "ets2-folder-dialog": "Pleese-a select zee-a Iuoru Truock Simuoletur 2 instelletiun fulder, usuoelly fuound in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }

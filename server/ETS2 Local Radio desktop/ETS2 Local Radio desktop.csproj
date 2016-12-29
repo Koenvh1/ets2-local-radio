@@ -78,6 +78,10 @@
       <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="SlimDX, Version=4.0.13.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9, processorArchitecture=x86">
+      <HintPath>..\packages\SlimDX.4.0.13.44\lib\NET40\SlimDX.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
@@ -93,6 +97,9 @@
   <ItemGroup>
     <Compile Include="Commands.cs" />
     <Compile Include="Coordinates.cs" />
+    <Compile Include="Joystick.cs" />
+    <Compile Include="Language.cs" />
+    <Compile Include="Log.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,12 +114,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Setup.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Setup.Designer.cs">
-      <DependentUpon>Setup.cs</DependentUpon>
-    </Compile>
     <Compile Include="SimpleServer.cs" />
     <Compile Include="Splash.cs">
       <SubType>Form</SubType>
@@ -120,6 +121,7 @@
     <Compile Include="Splash.Designer.cs">
       <DependentUpon>Splash.cs</DependentUpon>
     </Compile>
+    <Compile Include="Station.cs" />
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
@@ -136,9 +138,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Setup.resx">
-      <DependentUpon>Setup.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Splash.resx">
       <DependentUpon>Splash.cs</DependentUpon>
     </EmbeddedResource>
@@ -157,6 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
+    <None Include="Resources\overlay.png" />
     <None Include="Resources\icon.png" />
     <None Include="Resources\Koenvh fat text smaller.png" />
     <None Include="Resources\dashboard.jpg" />

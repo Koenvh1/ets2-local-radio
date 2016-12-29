@@ -30,11 +30,14 @@
     "url": "URL:",
     "open-local-radio": "Otvoriť ETS2 Local Radio",
     "settings": "Nastavenie",
+    "keyboard": "Keyboard",
+    "controller": "Controller",
     "next-station-key": "Následujúci stanica:",
     "previous-station-key": "Predchádzajúca stanica:",
     "stop-playback-key": "Zastavenie playbacku:",
     "volume-up-key": "Zvýšiť hlasitosť:",
     "volume-down-key": "Znížiť hlasitosť:",
+    "make-favourite-key": "Make favourite:",
     "save": "Uložiť",
     "ets2-folder-dialog": "Vyber prosím instalačnú zložku Euro Truck Simulator 2, zvyčajne sa nachádza v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
   }
