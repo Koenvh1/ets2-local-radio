@@ -19,5 +19,12 @@ namespace ETS2_Local_Radio_server
             file.WriteLine(lines);
             file.Close();
         }
+
+        public static void Clear()
+        {
+            System.IO.StreamWriter file = new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt");
+            file.Write("");
+            file.Close();
+        }
     }
 }

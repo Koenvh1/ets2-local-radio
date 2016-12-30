@@ -50,6 +50,8 @@ namespace ETS2_Local_Radio_server
 
         private void Main_Load(object sender, EventArgs e)
         {
+            Log.Clear();
+
             //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
             Subscribe();
 
@@ -106,11 +108,18 @@ namespace ETS2_Local_Radio_server
             //Load IP addresses:
             LoadAddresses();
 
-            //Initialise joystick:
-            joystick = new SimpleJoystick();
+            try
+            {
+                //Initialise joystick:
+                joystick = new SimpleJoystick();
 
-            //Start joystick input timer:
-            joystickTimer.Start();
+                //Start joystick input timer:
+                joystickTimer.Start();
+            }
+            catch (Exception ex)
+            {
+                Log.Write(ex.ToString());
+            }
 
             //Add handlers:
             nextKeyTextBox.KeyDown += keyInput;
@@ -329,7 +338,7 @@ namespace ETS2_Local_Radio_server
             }
             catch (Exception ex)
             {
-
+                Log.Write(ex.ToString());
             }
         }
 

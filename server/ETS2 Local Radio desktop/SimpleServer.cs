@@ -152,13 +152,13 @@ namespace ETS2_Local_Radio_server
                     }
                     catch (Exception ex)
                     {
-                        //Log(ex.ToString());
+                        Log.Write(ex.ToString());
                     }
                 }
             }
             catch (Exception ex)
             {
-                //Log(ex.ToString());
+                Log.Write(ex.ToString());
             }
         }
 
