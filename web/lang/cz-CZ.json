@@ -39,6 +39,7 @@
     "volume-down-key": "Snížit hlasitost:",
     "make-favourite-key": "Make favourite:",
     "save": "Uložit",
-    "ets2-folder-dialog": "Prosím vyberte instalační složku Euro Truck Simulator 2, obvykle se nachází v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Prosím vyberte instalační složku Euro Truck Simulator 2, obvykle se nachází v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Now playing:"
   }
 }

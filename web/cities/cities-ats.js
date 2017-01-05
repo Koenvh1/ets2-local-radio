@@ -1,26 +1,457 @@
 var country_properties = {
+    "bakersfield": {
+        name: "Bakersfield",
+        english_name: "Bakersfield",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "barstow": {
+        name: "Barstow",
+        english_name: "Barstow",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "camp_verde": {
+        name: "Camp Verde",
+        english_name: "Camp Verde",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "carlsbad": {
+        name: "Carlsbad",
+        english_name: "Carlsbad",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "carson_city": {
+        name: "Carson City",
+        english_name: "Carson City",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "ehrenberg": {
+        name: "Ehrenberg",
+        english_name: "Ehrenberg",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "elko": {
+        name: "Elko",
+        english_name: "Elko",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "ely": {
+        name: "Ely",
+        english_name: "Ely",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "el_centro": {
+        name: "El Centro",
+        english_name: "El Centro",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "eureka": {
+        name: "Eureka",
+        english_name: "Eureka",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "flagstaff": {
+        name: "Flagstaff",
+        english_name: "Flagstaff",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "fresno": {
+        name: "Fresno",
+        english_name: "Fresno",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "g_canyon_vlg": {
+        name: "Grand Canyon Village",
+        english_name: "Grand Canyon Village",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "holbrook": {
+        name: "Holbrook",
+        english_name: "Holbrook",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "hornbrook": {
+        name: "Hornbrook",
+        english_name: "Hornbrook",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "huron": {
+        name: "Huron",
+        english_name: "Huron",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "jackpot": {
+        name: "Jackpot",
+        english_name: "Jackpot",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "kayenta": {
+        name: "Kayenta",
+        english_name: "Kayenta",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "kingman": {
+        name: "Kingman",
+        english_name: "Kingman",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "las_vegas": {
+        name: "Las Vegas",
+        english_name: "Las Vegas",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "los_angeles": {
+        name: "Los Angeles",
+        english_name: "Los Angeles",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "nogales": {
+        name: "Nogales",
+        english_name: "Nogales",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "oakdale": {
+        name: "Oakdale",
+        english_name: "Oakdale",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "oakland": {
+        name: "Oakland",
+        english_name: "Oakland",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "oxnard": {
+        name: "Oxnard",
+        english_name: "Oxnard",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "page": {
+        name: "Page",
+        english_name: "Page",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "phoenix": {
+        name: "Phoenix",
+        english_name: "Phoenix",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "pioche": {
+        name: "Pioche",
+        english_name: "Pioche",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "primm": {
+        name: "Primm",
+        english_name: "Primm",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "redding": {
+        name: "Redding",
+        english_name: "Redding",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "reno": {
+        name: "Reno",
+        english_name: "Reno",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "sacramento": {
+        name: "Sacramento",
+        english_name: "Sacramento",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "santa_cruz": {
+        name: "Santa Cruz",
+        english_name: "Santa Cruz",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "santa_maria": {
+        name: "Santa Maria",
+        english_name: "Santa Maria",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "san_diego": {
+        name: "San Diego",
+        english_name: "San Diego",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "san_francisco": {
+        name: "San Francisco",
+        english_name: "San Francisco",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "san_rafael": {
+        name: "San Rafael",
+        english_name: "San Rafael",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "san_simon": {
+        name: "San Simon",
+        english_name: "San Simon",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "show_low": {
+        name: "Show Low",
+        english_name: "Show Low",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "sierra_vista": {
+        name: "Sierra Vista",
+        english_name: "Sierra Vista",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "stockton": {
+        name: "Stockton",
+        english_name: "Stockton",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "tonopah": {
+        name: "Tonopah",
+        english_name: "Tonopah",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "truckee": {
+        name: "Truckee",
+        english_name: "Truckee",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "tucson": {
+        name: "Tucson",
+        english_name: "Tucson",
+        code: "us-az",
+        relative_radius: 1.5
+    },
+    "ukiah": {
+        name: "Ukiah",
+        english_name: "Ukiah",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
+    "winnemucca": {
+        name: "Winnemucca",
+        english_name: "Winnemucca",
+        code: "us-nv",
+        relative_radius: 1.5
+    },
+    "yuma": {
+        name: "Yuma",
+        english_name: "Yuma",
+        code: "us-az",
+        relative_radius: 1.5
+    },
     "arizona": {
         name: "Arizona",
         english_name: "Arizona",
         code: "us-az",
-        relative_radius: 2.5
+        relative_radius: 1.5
     },
     "california": {
         name: "California",
         english_name: "California",
         code: "us-ca",
-        relative_radius: 2
+        relative_radius: 1.5
     },
     "nevada": {
         name: "Nevada",
         english_name: "Nevada",
         code: "us-nv",
-        relative_radius: 3
+        relative_radius: 1.5
     },
 };
 
 var city_properties = {
-
+    "bakersfield": {
+        relative_whitenoise: 1
+    },
+    "barstow": {
+        relative_whitenoise: 1
+    },
+    "camp_verde": {
+        relative_whitenoise: 1
+    },
+    "carlsbad": {
+        relative_whitenoise: 1
+    },
+    "carson_city": {
+        relative_whitenoise: 1
+    },
+    "ehrenberg": {
+        relative_whitenoise: 1
+    },
+    "elko": {
+        relative_whitenoise: 1
+    },
+    "ely": {
+        relative_whitenoise: 1
+    },
+    "el_centro": {
+        relative_whitenoise: 1
+    },
+    "eureka": {
+        relative_whitenoise: 1
+    },
+    "flagstaff": {
+        relative_whitenoise: 1
+    },
+    "fresno": {
+        relative_whitenoise: 1
+    },
+    "g_canyon_vlg": {
+        relative_whitenoise: 1
+    },
+    "holbrook": {
+        relative_whitenoise: 1
+    },
+    "hornbrook": {
+        relative_whitenoise: 1
+    },
+    "huron": {
+        relative_whitenoise: 1
+    },
+    "jackpot": {
+        relative_whitenoise: 1
+    },
+    "kayenta": {
+        relative_whitenoise: 1
+    },
+    "kingman": {
+        relative_whitenoise: 1
+    },
+    "las_vegas": {
+        relative_whitenoise: 1
+    },
+    "los_angeles": {
+        relative_whitenoise: 1
+    },
+    "nogales": {
+        relative_whitenoise: 1
+    },
+    "oakdale": {
+        relative_whitenoise: 1
+    },
+    "oakland": {
+        relative_whitenoise: 1
+    },
+    "oxnard": {
+        relative_whitenoise: 1
+    },
+    "page": {
+        relative_whitenoise: 1
+    },
+    "phoenix": {
+        relative_whitenoise: 1
+    },
+    "pioche": {
+        relative_whitenoise: 1
+    },
+    "primm": {
+        relative_whitenoise: 1
+    },
+    "redding": {
+        relative_whitenoise: 1
+    },
+    "reno": {
+        relative_whitenoise: 1
+    },
+    "sacramento": {
+        relative_whitenoise: 1
+    },
+    "santa_cruz": {
+        relative_whitenoise: 1
+    },
+    "santa_maria": {
+        relative_whitenoise: 1
+    },
+    "san_diego": {
+        relative_whitenoise: 1
+    },
+    "san_francisco": {
+        relative_whitenoise: 1
+    },
+    "san_rafael": {
+        relative_whitenoise: 1
+    },
+    "san_simon": {
+        relative_whitenoise: 1
+    },
+    "show_low": {
+        relative_whitenoise: 1
+    },
+    "sierra_vista": {
+        relative_whitenoise: 1
+    },
+    "stockton": {
+        relative_whitenoise: 1
+    },
+    "tonopah": {
+        relative_whitenoise: 1
+    },
+    "truckee": {
+        relative_whitenoise: 1
+    },
+    "tucson": {
+        relative_whitenoise: 1
+    },
+    "ukiah": {
+        relative_whitenoise: 1
+    },
+    "winnemucca": {
+        relative_whitenoise: 1
+    },
+    "yuma": {
+        relative_whitenoise: 1
+    },
+    "arizona": {
+        relative_whitenoise: 1
+    },
+    "california": {
+        relative_whitenoise: 1
+    },
+    "nevada": {
+        relative_whitenoise: 1
+    },
 };
 
 //Cities from: https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever
@@ -306,7 +737,7 @@ var cities = [
         "z": "24029.7"
     },
     {
-        "gameName": "san_francisc",
+        "gameName": "san_francisco",
         "realName": "San Francisco",
         "country": "california",
         "x": "-114531",
@@ -402,3 +833,8 @@ var cities = [
         "z": "26463.2"
     }
 ];
+
+
+for(var i = 0; i < cities.length; i++){
+    cities[i].country = cities[i].gameName;
+}

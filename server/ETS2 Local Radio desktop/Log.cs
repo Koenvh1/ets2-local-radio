@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace ETS2_Local_Radio_server
 {
@@ -13,18 +14,32 @@ namespace ETS2_Local_Radio_server
         {
 
             // Write the string to a file.append mode is enabled so that the log
-            // lines get appended to Error log.txt than wiping content and writing the log
-
-            System.IO.StreamWriter file = new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt", true);
-            file.WriteLine(lines);
-            file.Close();
+            // lines get appended to Error log.txt rather than wiping content and writing the log
+            try
+            {
+                System.IO.StreamWriter file =
+                    new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt", true);
+                file.WriteLine(lines);
+                file.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
+            }
         }
 
         public static void Clear()
         {
-            System.IO.StreamWriter file = new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt");
-            file.Write("");
-            file.Close();
+            try
+            {
+                System.IO.StreamWriter file = new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt");
+                file.Write("");
+                file.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
+            }
         }
     }
 }

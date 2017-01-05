@@ -108,18 +108,7 @@ namespace ETS2_Local_Radio_server
             //Load IP addresses:
             LoadAddresses();
 
-            try
-            {
-                //Initialise joystick:
-                joystick = new SimpleJoystick();
-
-                //Start joystick input timer:
-                joystickTimer.Start();
-            }
-            catch (Exception ex)
-            {
-                Log.Write(ex.ToString());
-            }
+            AttachJoystick();
 
             //Add handlers:
             nextKeyTextBox.KeyDown += keyInput;
@@ -234,8 +223,12 @@ namespace ETS2_Local_Radio_server
                         folder + @"\bin\win_x86\plugins\ets2-telemetry.dll", true);
                     File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\ets2-telemetry.dll",
                         folder + @"\bin\win_x64\plugins\ets2-telemetry.dll", true);
+                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\d3d9.dll",
+                        folder + @"\bin\win_x86\d3d9.dll", true);
+                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\d3d9.dll",
+                        folder + @"\bin\win_x64\d3d9.dll", true);
 
-                    Main.SaveAppSettings("Ets2Folder", folder);
+                    SaveAppSettings("Ets2Folder", folder);
 
                     return true;
                 }
@@ -263,6 +256,27 @@ namespace ETS2_Local_Radio_server
                 }
             }
             comboIP.SelectedIndex = 0;
+        }
+
+        private void AttachJoystick()
+        {
+            try
+            {
+                //Initialise joystick:
+                int index = 0;
+                if (ConfigurationManager.AppSettings["ControllerIndex"] != null)
+                {
+                    index = Int32.Parse(ConfigurationManager.AppSettings["ControllerIndex"]);
+                }
+                joystick = new SimpleJoystick(index);
+
+                //Start joystick input timer:
+                joystickTimer.Start();
+            }
+            catch (Exception ex)
+            {
+                Log.Write(ex.ToString());
+            }
         }
 
         private void Telemetry_Data(Ets2Telemetry data, bool updated)
@@ -334,11 +348,14 @@ namespace ETS2_Local_Radio_server
                 writeFile("none", "0", "0");
                 DeleteException();
                 joystick.Release();
-                Application.Exit();
             }
             catch (Exception ex)
             {
                 Log.Write(ex.ToString());
+            }
+            finally
+            {
+                Application.Exit();
             }
         }
 
@@ -490,7 +507,7 @@ namespace ETS2_Local_Radio_server
 
         private void URLLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start(ConfigurationManager.AppSettings["BaseURL"]);
+            Process.Start(comboIP.SelectedItem.ToString());
         }
 
         private void Koenvh_Click(object sender, EventArgs e)
@@ -524,6 +541,7 @@ namespace ETS2_Local_Radio_server
                 makeFavouriteKeyLabel.Text = (server["make-favourite-key"] ?? makeFavouriteKeyLabel.Text);
                 saveButton.Text = (server["save"] ?? saveButton.Text);
                 ets2Dialog.Description = (server["ets2-folder-dialog"] ?? ets2Dialog.Description);
+                Station.NowPlaying = (server["now-playing"] ?? Station.NowPlaying);
 
                 SaveAppSettings("Language", comboLang.SelectedItem.ToString());
 
@@ -538,6 +556,10 @@ namespace ETS2_Local_Radio_server
 
         private void joystickTimer_Tick(object sender, EventArgs e)
         {
+            if (joystick == null)
+            {
+                AttachJoystick();
+            }
             try
             {
                 bool[] controllerInput = new bool[joystick.State.GetButtons().Length + 4]; ;// = joystick.State.GetButtons().Concat(joystick.State.GetPointOfViewControllers()).ToArray();

@@ -39,6 +39,7 @@
     "volume-down-key": "Skaļuma samazināšanas taustiņš:",
     "make-favourite-key": "Taustiņš \"Izvelēties par favorītu\":",
     "save": "Saglabāt",
-    "ets2-folder-dialog": "Lūdzu, izvēlēties Euro Truck Simulator 2 instalācijas mapi, parasti atrodas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Lūdzu, izvēlēties Euro Truck Simulator 2 instalācijas mapi, parasti atrodas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Pašlaik skan:"
   }
 }

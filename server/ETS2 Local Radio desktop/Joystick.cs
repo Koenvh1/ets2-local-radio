@@ -7,6 +7,7 @@
  * https://www.ghielectronics.com/community/forum/topic?id=1296&page=2#msg13766
  * */
 using System;
+using SlimDX.Direct3D9;
 using SlimDX.DirectInput;
 
 namespace ETS2_Local_Radio_server
@@ -39,21 +40,33 @@ namespace ETS2_Local_Radio_server
         /// 
         /// Construct, attach the joystick
         /// 
-        public SimpleJoystick()
+        public SimpleJoystick(int index = 0)
         {
             DirectInput dinput = new DirectInput();
+
+            // Current device in loop
+            var current = 0;
 
             // Search for device
             foreach (DeviceInstance device in dinput.GetDevices(DeviceClass.GameController, DeviceEnumerationFlags.AttachedOnly))
             {
-                // Create device
-                try
+                // If this is the device we want, use it.
+                Log.Write("Device found: " + device.ProductName);
+                if (current >= index)
                 {
-                    Joystick = new Joystick(dinput, device.InstanceGuid);
-                    break;
+                    try
+                    {
+                        // Create device   
+                        Joystick = new Joystick(dinput, device.InstanceGuid);
+                        break;
+                    }
+                    catch (DirectInputException)
+                    {
+                    }
                 }
-                catch (DirectInputException)
+                else
                 {
+                    current++;
                 }
             }
 

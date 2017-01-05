@@ -122,6 +122,17 @@ body {
      border: 1px solid #f2efe9;
 }
 
+.signal {
+    height: 25px;
+    width: auto;
+    position: absolute;
+    bottom: 25px;
+    right: 21px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    padding: 3px;
+}
+
 .play-button {
     background-color: rgba(0, 0, 0, 0.6);
     background-image: url('../img/play-button.png');

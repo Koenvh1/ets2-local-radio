@@ -39,6 +39,7 @@
     "volume-down-key": "Zmniejsz głośność:",
     "make-favourite-key": "Ustaw jako ulubioną:",
     "save": "Zapisz",
-    "ets2-folder-dialog": "Wybierz proszę folder z zainstalowaną grą Euro Truck Simulator 2, zazwyczaj jest to C:\\Pliki programów (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Wybierz proszę folder z zainstalowaną grą Euro Truck Simulator 2, zazwyczaj jest to C:\\Pliki programów (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Teraz gra:"
   }
 }

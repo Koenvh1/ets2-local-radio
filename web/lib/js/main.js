@@ -1,5 +1,5 @@
 ﻿//current version:
-var version = "1.4.1";
+var version = "1.5.0";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
 //language data:
@@ -170,7 +170,7 @@ function refresh(data) {
             }
         }
         if (!available_countries.hasOwnProperty(country_lowest_distance)) {
-            console.log("Lowest distance country unavailable");
+            //console.log("Lowest distance country unavailable");
             //Calculate whitenoise
             var whitenoise_lowest_distance = lowest_distance / g_skinConfig.radius / country_properties[country_lowest_distance]["relative_radius"];
             if (typeof city_properties[city_lowest_distance] !== "undefined") {
@@ -194,7 +194,7 @@ function refresh(data) {
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
         if (!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold < available_countries[g_current_country]["distance"] &&
+            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold[game] < available_countries[g_current_country]["distance"] &&
             g_last_nearest_country != country_lowest_distance)) {
             //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
             g_last_nearest_country = country_lowest_distance;
@@ -252,6 +252,8 @@ function setRadioStation(url, country, volume) {
         }));
     } else {
         g_whitenoise = false;
+        $("#player").stop();
+        $("#switchStation").stop();
         $("#switchStation").animate({volume: (url == "" ? 0 : g_volume)}, 2500, "linear");
         $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
@@ -370,7 +372,7 @@ function nextStation(amount) {
         if(!g_stations.length == 0) {
             var index = -1;
             for (var i = 0; i < g_stations.length; i++) {
-                if (g_stations[i]["url"] == g_current_url) {
+                if (g_stations[i]["url"] == g_current_url && g_stations[i]["country"] == g_current_country) {
                     index = i;
                     break;
                 }
@@ -415,15 +417,39 @@ function refreshStations() {
             //Check whether the station distance can reached here:
             if (typeof stations[key][j]["relative_radius"] === "undefined" || g_countries[key]["distance"] / stations[key][j]["relative_radius"] < g_skinConfig.radius) {
                 //TODO: Stop playback when station is out of reach
+
+                /*
+                var relative_whitenoise = 1;
+                if (typeof city_properties[key]["relative_whitenoise"] !== "undefined") {
+                    relative_whitenoise = city_properties[key]["relative_whitenoise"];
+                }
+                */
+
+                var reception = Math.pow(parseFloat(g_countries[key]["whitenoise"]), 2) - 0.15;
+                if(reception  < 0.05){
+                    reception = "5";
+                } else if(reception < 0.20){
+                    reception = "4";
+                } else if(reception < 0.35){
+                    reception = "3";
+                } else if(reception < 0.50){
+                    reception = "2";
+                } else if(reception < 0.75){
+                    reception = "1";
+                } else {
+                    reception = "0";
+                }
+
                 content +=
                     '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
-                    '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url']) ? "thumbnail-orange" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                    '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-orange" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
                     '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
                     '<span class="overflow">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) + ' ' +
-                    (typeof country_properties[key].code !== "undefined" ? "<img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") + '</span>' +
+                    (typeof country_properties[key].code !== "undefined" ? "<img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") +
+                    '<img src="lib/img/signal/' + reception + '.png" class="signal"></span>' +
                     '</div>' +
                     '<div class="play-button"></div>' +
                     '</div>' +

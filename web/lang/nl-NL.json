@@ -40,6 +40,7 @@
     "volume-down-key": "Toets volume omlaag:",
     "make-favourite-key": "Toets maak favoriet:",
     "save": "Opslaan",
-    "ets2-folder-dialog": "Kies alstublieft de Euro Truck Simulator 2-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Kies alstublieft de Euro Truck Simulator 2-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Speelt nu:"
   }
 }

@@ -39,6 +39,7 @@
     "volume-down-key": "Botão para diminuir volume:",
     "make-favourite-key": "Make favourite:",
     "save": "Salvar",
-    "ets2-folder-dialog": "Por favor selecione a pasta do seu Euro Truck Simulator 2, normalmente encontrada em C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Por favor selecione a pasta do seu Euro Truck Simulator 2, normalmente encontrada em C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Now playing:"
   }
 }

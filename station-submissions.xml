@@ -5,6 +5,36 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Rejected Radio Banovina</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Croatia</description>
+        </item>
+        <item>
+            <title>Rejected Radio Hagen</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Germany</description>
+        </item>
+        <item>
+            <title>Added Radio Regenbogen</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Rire et Chansons</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected MNM</title>
+            <link>javascript:;</link>
+            <description>Station already added</description>
+        </item>
+        <item>
+            <title>Added Radio City</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added Country Radio</title>
             <link>javascript:;</link>
             <description></description>

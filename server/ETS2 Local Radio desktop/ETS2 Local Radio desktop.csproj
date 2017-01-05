@@ -156,6 +156,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\0.png" />
     <None Include="Resources\overlay.png" />
     <None Include="Resources\icon.png" />
     <None Include="Resources\Koenvh fat text smaller.png" />

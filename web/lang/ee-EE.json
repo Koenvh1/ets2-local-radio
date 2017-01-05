@@ -39,6 +39,7 @@
     "volume-down-key": "Helitugevuse vähendamine",
     "make-favourite-key": "Tee lemmikuks:",
     "save": "Salvesta",
-    "ets2-folder-dialog": "Palun vali Euro Truck Simulator 2'e installatsioonikaust, tavaliselt leitud kohas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Palun vali Euro Truck Simulator 2'e installatsioonikaust, tavaliselt leitud kohas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Hetkel mängib:"
   }
 }

@@ -3,7 +3,7 @@
     "author": "",
     "now-playing": "Jetzt läuft:",
     "connect-other-device": "Mit anderem Gerät verbinden",
-    "coverage-map": "Abdeckungs-Karte",
+    "coverage-map": "Senderkarte",
     "stop-playback": "Abspielen beenden",
     "volume": "Lautstärke",
     "stations": "Stationen:",
@@ -12,7 +12,7 @@
     "controlled-remotely": "Dieser Player wird ferngesteuert",
     "submit-station": "Neue Station übermitteln",
     "this-peerid": "Die PeerID dieses Gerätes:",
-    "waiting-coordinates": "Warten auf Deine Spiel-Koordinaten...",
+    "waiting-coordinates": "Warte auf Deine Spiel-Koordinaten...",
     "closest-city": "Nächste Stadt: <span class='nearestCity'></span>, <span class='distance'></span> Meter entfernt",
     "amount-static": "Stärke des Rauschens:",
     "show-all": "Alle anzeigen an/aus",
@@ -26,7 +26,7 @@
     "status": "Status:",
     "simulator-not-running": "Simulator wird nicht ausgeführt",
     "simulator-not-driving": "Simulator wird ausgeführt, lass uns fahren!",
-    "simulator-running": "Simulator wird ausfegührt!",
+    "simulator-running": "Simulator wird ausgeführt!",
     "coordinates": "Koordinaten:",
     "url": "URL:",
     "open-local-radio": "ETS2 Local Radio öffnen",
@@ -38,8 +38,9 @@
     "stop-playback-key": "Taste für Abspielen beenden:",
     "volume-up-key": "Taste für lauter:",
     "volume-down-key": "Taste für leiser:",
-    "make-favourite-key": "Make favourite:",
+    "make-favourite-key": "Taste für zum Favoriten machen:",
     "save": "Speichern",
-    "ets2-folder-dialog": "Wähle bitte das Installationsverzeichnis von Euro Truck Simulator 2 aus, in der Regel C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Wähle bitte das Installationsverzeichnis von Euro Truck Simulator 2 aus, in der Regel C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Jetzt läuft:"
   }
 }

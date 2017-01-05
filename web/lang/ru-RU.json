@@ -39,6 +39,7 @@
     "volume-down-key": "Клавиша уменьшения громкости:",
     "make-favourite-key": "Клавиша \"Сделать избранным\":",
     "save": "Сохранить",
-    "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного Euro Truck Simulator 2. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2"
+    "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного Euro Truck Simulator 2. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "now-playing": "Сейчас играет:"
   }
 }

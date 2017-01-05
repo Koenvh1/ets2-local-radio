@@ -72,7 +72,7 @@
             // 
             // keyTimeout
             // 
-            this.keyTimeout.Interval = 500;
+            this.keyTimeout.Interval = 10;
             this.keyTimeout.Tick += new System.EventHandler(this.keyTimeout_Tick);
             // 
             // saveButton
