@@ -40,6 +40,11 @@ var stations = {
             url: "http://mp3stream3.apasf.apa.at:8000/;"
         },
         {
+            name: "ORF Ö2 (Wien)",
+            logo: "stations/images-europe/austria/ORF Ö2.png",
+            url: "http://mp3stream2.apasf.apa.at:8000/;"
+        },
+        {
             name: "ORF Ö3",
             logo: "stations/images-europe/austria/ORF Ö3.png",
             url: "http://mp3stream7.apasf.apa.at:8000/;"
@@ -621,6 +626,11 @@ var stations = {
             url: "http://novazz.ice.infomaniak.ch/novazz-128.mp3"
         },
         {
+            name: "Radio Vinci Autoroutes",
+            logo: "stations/images-europe/france/Radio Vinci Autoroutes.gif",
+            url: "http://str0.creacast.com/radio_vinci_autoroutes_6"
+        },
+        {
             name: "Rire et Chansons",
             logo: "stations/images-europe/france/Rire et Chansons.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"
@@ -1180,6 +1190,11 @@ var stations = {
             name: "EHR Superhits",
             logo: "stations/images-europe/latvia/EHR Superhits.png",
             url: "http://stream.europeanhitradio.com:8000/Stream_21.mp3"
+        },
+        {
+            name: "Latvijas Kristīgais Radio",
+            logo: "stations/images-europe/latvia/Latvijas Kristīgais Radio.png",
+            url: "http://91.203.71.10:8006/;"
         },
         {
             name: "Radio Skonto",

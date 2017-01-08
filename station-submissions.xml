@@ -5,6 +5,11 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>List not always updated</title>
+            <link>javascript:;</link>
+            <description>There have been quite a few mutations without feed update... Sorry for that.</description>
+        </item>
+        <item>
             <title>Rejected Radio Banovina</title>
             <link>javascript:;</link>
             <description>Does not broadcast in the majority of Croatia</description>

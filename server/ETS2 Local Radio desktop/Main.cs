@@ -347,6 +347,7 @@ namespace ETS2_Local_Radio_server
                 myServer.Stop();
                 writeFile("none", "0", "0");
                 DeleteException();
+                joystickTimer.Stop();
                 joystick.Release();
             }
             catch (Exception ex)
@@ -559,10 +560,14 @@ namespace ETS2_Local_Radio_server
             if (joystick == null)
             {
                 AttachJoystick();
+                if (joystick == null)
+                {
+                    return;
+                }
             }
             try
             {
-                bool[] controllerInput = new bool[joystick.State.GetButtons().Length + 4]; ;// = joystick.State.GetButtons().Concat(joystick.State.GetPointOfViewControllers()).ToArray();
+                bool[] controllerInput = new bool[joystick.State.GetButtons().Length + 4]; // = joystick.State.GetButtons().Concat(joystick.State.GetPointOfViewControllers()).ToArray();
                 joystick.State.GetButtons().CopyTo(controllerInput, 0);
                 bool[] povState = new bool[4] { false, false, false, false };
 
@@ -658,7 +663,7 @@ namespace ETS2_Local_Radio_server
             }
             catch (Exception ex)
             {
-                Log.Write(ex.ToString());
+                //Log.Write(ex.ToString());
             }
         }
     }
