@@ -3,6 +3,8 @@
 ETS2 Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
 
+**Some radio stations may not work with Internet Explorer, Edge or Chrome. Please try using Firefox while I try to fix the issue**
+
 ## How to install it: ##
 
 1. Download ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
