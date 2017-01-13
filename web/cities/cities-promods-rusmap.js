@@ -402,7 +402,8 @@ var city_properties = {
         relative_radius: 0.4,
     },
     "chernyakh": {
-        relative_radius: 0.45,
+        relative_radius: 0.4,
+        relative_whitenoise: 0.9,
     },
     "cieszyn": {
         relative_radius: 0.7,
@@ -659,6 +660,9 @@ var city_properties = {
     },
     "tambov": {
         relative_radius: 2,
+    },
+    "taurage": {
+        relative_radius: 0.5,
     },
     "trelleborg": {
         relative_radius: 0.5,
@@ -4766,6 +4770,14 @@ var cities_wip = [
         "z": "-97267.13"
     },
     {
+        "gameName": "Limerick (Luimneach)",
+        "realName": "limerick",
+        "country": "ireland",
+        "x": "-74455.10",
+        "y": "16.42",
+        "z": "-30004.85"
+    },
+    {
         "gameName": "lisburn",
         "realName": "Lisburn",
         "country": "nireland",
@@ -4819,7 +4831,16 @@ var cities_wip = [
         "country": "ireland",
         "x": "-71511.34",
         "y": "8.27",
-        "z": "-42217.29" },
+        "z": "-42217.29"
+    },
+    {
+        "gameName": "taurage",
+        "realName": "Tauragė",
+        "country": "lithuania",
+        "x": "40034.53",
+        "y": "50.33",
+        "z": "-26589.28"
+    },
     {
         "gameName": "trieste",
         "realName": "Trieste",

@@ -37,22 +37,22 @@ var stations = {
         {
             name: "ORF Ö1",
             logo: "stations/images-europe/austria/ORF Ö1.png",
-            url: "http://mp3stream3.apasf.apa.at:8000/;"
+            url: "http://mp3stream3.apasf.apa.at:8000/;stream.mp3"
         },
         {
             name: "ORF Ö2 (Wien)",
             logo: "stations/images-europe/austria/ORF Ö2.png",
-            url: "http://mp3stream2.apasf.apa.at:8000/;"
+            url: "http://mp3stream2.apasf.apa.at:8000/;stream.mp3"
         },
         {
             name: "ORF Ö3",
             logo: "stations/images-europe/austria/ORF Ö3.png",
-            url: "http://mp3stream7.apasf.apa.at:8000/;"
+            url: "http://mp3stream7.apasf.apa.at:8000/;stream.mp3"
         },
         {
             name: "ORF FM4",
             logo: "stations/images-europe/austria/ORF FM4.jpg",
-            url: "http://mp3stream1.apasf.apa.at:8000/;"
+            url: "http://mp3stream1.apasf.apa.at:8000/;stream.mp3"
         },
         {
             name: "KroneHit",
@@ -485,7 +485,6 @@ var stations = {
             url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8"
         },
         /*
-        {
         {
             name: "Bassoradio",
             logo: "stations/images-europe/finland/Bassoradio.jpg",
@@ -1551,11 +1550,13 @@ var stations = {
             logo: "stations/images-europe/poland/Antyradio.png",
             url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
         },
+        /*
         {
             name: "Planeta FM",
             logo: "stations/images-europe/poland/Planeta FM.png",
             url: "http://pla-net-01.cdn.eurozet.pl:8700/;"
         },
+        */
         {
             name: "Radio Eska",
             logo: "stations/images-europe/poland/Radio Eska.png",

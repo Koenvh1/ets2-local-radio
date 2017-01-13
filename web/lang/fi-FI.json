@@ -1,7 +1,7 @@
 {
   "web": {
     "author": "LoaderSaints",
-    "now-playing": "Now playing:",
+    "now-playing": "Nyt soi:",
     "connect-other-device": "Yhdistä toiseen laitteeseen",
     "coverage-map": "Kuuluvuuskartta",
     "stop-playback": "Pysäytä toisto",
@@ -37,9 +37,9 @@
     "stop-playback-key": "Pysäytä toisto -näppäin:",
     "volume-up-key": "Lisää äänenvoimakkuutta -näppäin:",
     "volume-down-key": "Alenna äänenvoimakkuutta -näppäin:",
-    "make-favourite-key": "Make favourite:",
+    "make-favourite-key": "Lisää suosikiksi -näppäin:",
     "save": "Tallenna",
     "ets2-folder-dialog": "Valitse kansio johon Euro Truck Simulator 2 on asennettu, tavallisesti C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
-    "now-playing": "Now playing:"
+    "now-playing": "Nyt soi:"
   }
 }
