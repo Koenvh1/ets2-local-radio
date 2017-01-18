@@ -39,7 +39,10 @@
     "volume-down-key": "Ses kısma tuşu:",
     "make-favourite-key": "Make favourite:",
     "save": "Kaydet",
-    "ets2-folder-dialog": "Lütfen Euro Truck Simulator 2 'nin yüklü olduğu dosyayı seçiniz. Genellikle şurada olur: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "install": "Install plugin",
+    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
+    "ets2-folder-dialog": "Lütfen ETS2/ATS 'nin yüklü olduğu dosyayı seçiniz. Genellikle şurada olur: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Now playing:"
   }
 }

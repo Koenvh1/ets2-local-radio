@@ -9,6 +9,7 @@ using System.Net;
 using System.IO;
 using System.Threading;
 using System.Diagnostics;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ETS2_Local_Radio_server
@@ -142,13 +143,22 @@ namespace ETS2_Local_Radio_server
             {
                 _listener = new HttpListener();
                 _listener.Prefixes.Add("http://+:" + _port.ToString() + "/");
+                TimeSpan timeOut = TimeSpan.FromSeconds(2);
+                /*
+                _listener.TimeoutManager.DrainEntityBody = timeOut;
+                _listener.TimeoutManager.EntityBody = timeOut;
+                _listener.TimeoutManager.HeaderWait = timeOut;
+                _listener.TimeoutManager.IdleConnection = timeOut;
+                _listener.TimeoutManager.RequestQueue = timeOut;
+                */
                 _listener.Start();
                 while (true)
                 {
                     try
                     {
                         HttpListenerContext context = _listener.GetContext();
-                        Process(context);
+                        new Task(() => { Process(context); }).Start();
+                        //Process(context);
                     }
                     catch (Exception ex)
                     {
@@ -165,11 +175,16 @@ namespace ETS2_Local_Radio_server
         private void Process(HttpListenerContext context)
         {
             string filename = context.Request.Url.AbsolutePath;
+            Console.WriteLine(filename);
+            if (filename.Contains("?"))
+            {
+                filename = filename.Split("?".ToCharArray())[0];
+            }
             //filename = filename.Replace("%20", " ");
             filename = WebUtility.UrlDecode(filename);
-            Console.WriteLine(filename);
             filename = filename.Substring(1);
-
+            if (filename.Contains("/"))
+                filename = filename.Replace("/", @"\");
             if (string.IsNullOrEmpty(filename))
             {
                 foreach (string indexFile in _indexFiles)
@@ -181,8 +196,6 @@ namespace ETS2_Local_Radio_server
                     }
                 }
             }
-
-            filename = filename.Replace("/", @"\");
 
             filename = Path.Combine(_rootDirectory, filename);
 

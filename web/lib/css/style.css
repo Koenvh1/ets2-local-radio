@@ -47,6 +47,10 @@ body {
     display: none;
 }
 
+.unsupported-browser {
+    display: none;
+}
+
 .label-id {
     float: right;
     font-size: 100%;
@@ -96,12 +100,18 @@ body {
     border-radius: 2px;
 }
 
-.thumbnail-orange {
+.thumbnail-selected {
     background-color: rgb(46, 187, 30);
     color: #ffffff;
 }
-.thumbnail-orange:hover {
+
+.thumbnail-selected:hover {
     color: #eeeeee;
+}
+
+.thumbnail-error {
+    background-color: rgb(46, 187, 30);
+    color: #ffffff;
 }
 
 .input-nav {

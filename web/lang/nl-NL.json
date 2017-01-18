@@ -23,6 +23,7 @@
   },
   "server": {
     "info": "Informatie",
+    "game": "Spel:",
     "status": "Status:",
     "simulator-not-running": "Simulator wordt nog niet uitgevoerd",
     "simulator-not-driving": "Simulator draait, laten we gaan rijden!",
@@ -40,7 +41,10 @@
     "volume-down-key": "Toets volume omlaag:",
     "make-favourite-key": "Toets maak favoriet:",
     "save": "Opslaan",
-    "ets2-folder-dialog": "Kies alstublieft de Euro Truck Simulator 2-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "install": "Plug-in installeren",
+    "install-plugin-ets2": "Installeer de plug-in voor\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Installeer de plug-in voor\nAmerican Truck Simulator",
+    "ets2-folder-dialog": "Kies alstublieft de ETS2/ATS-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Speelt nu:"
   }
 }

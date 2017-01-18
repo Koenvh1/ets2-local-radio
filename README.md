@@ -10,10 +10,11 @@ and the Polish radio in Poland. It will switch automatically, and allow you to s
 1. Download ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
 2. Extract it wherever you like
 3. Execute ETS2 Local Radio server.exe
-4. Open ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
-5. _Optional: You can copy the d3d9.dll in the plugins folder to your ETS2 installation to show the current station as an overlay for ETS2_
+4. Click the "Install plugin for Euro Truck Simulator/American Truck Simulator" button.
+5. Open ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
 
-Now additionally, you may want to look at `config.js` and set some additional settings to make the make your experience even better.
+Additionally, you may want to look at `config.js` and set some additional settings to make the make your experience even better.
+Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game as well.
 
 ## General information: ##
 

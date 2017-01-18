@@ -1,3 +1,4 @@
+//window.open("http:" + TuneIn.payload.Station.broadcast.StreamUrl)
 var stations = {
     "andorra": [
         {
@@ -58,6 +59,16 @@ var stations = {
             name: "KroneHit",
             logo: "stations/images-europe/austria/KroneHit.png",
             url: "http://raj.krone.at:80/kronehit-hd.mp3"
+        },
+        {
+            name: "Radio 88.6",
+            logo: "stations/images-europe/austria/Radio 88.6.png",
+            url: "http://ber.radiostream.de:36889/;"
+        },
+        {
+            name: "Welle 1 (Salzburg)",
+            logo: "stations/images-europe/austria/Radio 88.6.png",
+            url: "http://live.welle1.at:8128/;"
         },
     ],
     "belarus": [
@@ -261,22 +272,22 @@ var stations = {
         {
             name: "HR1 Prvi",
             logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://13413.live.streamtheworld.com:443/PROGRAM1AAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=PROGRAM1"
         },
         {
             name: "HR2 Drugi",
             logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://13873.live.streamtheworld.com:80/PROGRAM2AAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=PROGRAM2"
         },
         {
             name: "HR3 Treci",
             logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://13873.live.streamtheworld.com:80/PROGRAM3AAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=PROGRAM3"
         },
         {
             name: "Hrvatski katolički radio",
             logo: "stations/images-europe/croatia/Hrvatski katolički radio.jpg",
-            url: "http://stream.hkr.hr:8000/hkr.aac"
+            url: "http://stream.hkr.hr:8000/hkr.mp3"
         },
         {
             name: "Narodni radio",
@@ -607,7 +618,7 @@ var stations = {
         {
             name: "Ouï FM",
             logo: "stations/images-europe/france/Ouï FM.png",
-            url: "http://laradiodelamer.stream.ouifm.fr/radiomer-64.aac"
+            url: "http://laradiodelamer.stream.ouifm.fr/radiomer-128.mp3"
         },
         {
             name: "Radio Classique",
@@ -1045,7 +1056,7 @@ var stations = {
         {
             name: "Bylgjan 98,9",
             logo: "stations/images-europe/iceland/Bylgjan 98,9.jpg",
-            url: "http://icecast.365net.is:8000/orbbylgjan.aac"
+            url: "http://utsending.visir.is:1935/rtplive/orbBylgjan/playlist.m3u8"
         },
         {
             name: "FM957",
@@ -1437,7 +1448,7 @@ var stations = {
         {
             name: "Sky Radio 101 FM",
             logo: "stations/images-europe/netherlands/Sky Radio 101 FM.svg",
-            url: "http://8593.live.streamtheworld.com:80/SKYRADIOAAC_SC",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=SKYRADIO",
         },
         {
             name: "Slam!",
@@ -1570,7 +1581,7 @@ var stations = {
         {
             name: "Radio VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "http://waw04.ic1.scdn.smcloud.net/t049-1.aac"
+            url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
         },
         {
             name: "Radio Zet",
@@ -1682,22 +1693,15 @@ var stations = {
             url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
         },
         {
-            name: "Радио ENERGY",
-            logo: "stations/images-europe/russia/Радио ENERGY.png",
-            url: "http://ic2.101.ru:8000/v1_1"
-        },
-        {
             name: "Радио Ваня",
             logo: "stations/images-europe/russia/Радио Ваня.png",
             url: "http://icecast.piktv.cdnvideo.ru/vanya"
         },
-        /*
         {
             name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача.png",
-            url: "http://stream2.radiodacha.ru:9000/14_dacha_24?type=.mp3&UID=263F2B50E514885665292783CC858FA7"
+            url: "http://listen3.vdfm.ru:8000/dacha"
         },
-        */
         {
             name: "Радио Рекорд",
             logo: "stations/images-europe/russia/Радио Рекорд.png",
@@ -1707,6 +1711,16 @@ var stations = {
             name: "Радио Шансон",
             logo: "stations/images-europe/russia/Радио Шансон.png",
             url: "http://radio02-cn03.akadostream.ru:8108/shanson128.mp3"
+        },
+        {
+            name: "Радио DFM",
+            logo: "stations/images-europe/russia/Радио DFM.png",
+            url: "http://icecast.radiodfm.cdnvideo.ru/dfm.mp3"
+        },
+        {
+            name: "Радио ENERGY",
+            logo: "stations/images-europe/russia/Радио ENERGY.png",
+            url: "http://ic2.101.ru:8000/v1_1"
         },
         {
             name: "Ретро FM",
@@ -1755,7 +1769,7 @@ var stations = {
         {
             name: "Play Radio",
             logo: "stations/images-europe/serbia/Play Radio.png",
-            url: "http://stream.playradio.rs:8001/play.aac"
+            url: "http://stream.playradio.rs:8001/play.mp3"
         },
     ],
     "slovakia": [
@@ -1866,12 +1880,12 @@ var stations = {
         {
             name: "Cadena Dial",
             logo: "stations/images-europe/spain/Cadena Dial.jpg",
-            url: "http://13413.live.streamtheworld.com:80/CADENADIAL_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=CADENADIAL"
         },
         {
             name: "Cadena Ser",
             logo: "stations/images-europe/spain/Cadena Ser.jpg",
-            url: "http://13873.live.streamtheworld.com:80/CADENASER_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=CADENASER"
         },
         {
             name: "Cope",
@@ -1893,17 +1907,17 @@ var stations = {
         {
             name: "Los 40 Principales",
             logo: "stations/images-europe/spain/Los 40 Principales.png",
-            url: "http://19073.live.streamtheworld.com:80/LOS40_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=LOS40"
         },
         {
             name: "M80 Radio",
             logo: "stations/images-europe/spain/M80 Radio.png",
-            url: "http://19073.live.streamtheworld.com:80/M80RADIO_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=M80RADIO"
         },
         {
             name: "Maxima FM",
             logo: "stations/images-europe/spain/Maxima FM.png",
-            url: "http://13873.live.streamtheworld.com:3690/MAXIMAFM_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=MAXIMAFM"
         },
         {
             name: "Onda Cero",
@@ -2076,7 +2090,7 @@ var stations = {
         {
             name: "Kiss",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "http://icy-e-ba-01-gos.sharp-stream.com/kissnational.aac"
+            url: "http://icy-e-ba-01-gos.sharp-stream.com/kissnational.mp3"
         },
     ],
     "ukraine": [

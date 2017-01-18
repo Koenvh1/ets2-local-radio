@@ -23,6 +23,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Spiel:",
     "status": "Status:",
     "simulator-not-running": "Simulator wird nicht ausgeführt",
     "simulator-not-driving": "Simulator wird ausgeführt, lass uns fahren!",
@@ -40,7 +41,10 @@
     "volume-down-key": "Taste für leiser:",
     "make-favourite-key": "Taste für zum Favoriten machen:",
     "save": "Speichern",
-    "ets2-folder-dialog": "Wähle bitte das Installationsverzeichnis von Euro Truck Simulator 2 aus, in der Regel C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "install": "Installiere das Plugin",
+    "install-plugin-ets2": "Installiere das Plugin für\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Installiere das Plugin für\nAmerican Truck Simulator",
+    "ets2-folder-dialog": "Wähle bitte das Installationsverzeichnis von ETS2/ATS aus, in der Regel C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Jetzt läuft:"
   }
 }

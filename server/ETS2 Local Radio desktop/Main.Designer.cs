@@ -54,6 +54,8 @@
             this.stopKeyLabel = new System.Windows.Forms.Label();
             this.nextKeyLabel = new System.Windows.Forms.Label();
             this.groupInfo = new System.Windows.Forms.GroupBox();
+            this.gameInfo = new System.Windows.Forms.Label();
+            this.gameLabel = new System.Windows.Forms.Label();
             this.comboIP = new System.Windows.Forms.ComboBox();
             this.URLInfo = new System.Windows.Forms.Label();
             this.coordinatesInfo = new System.Windows.Forms.Label();
@@ -62,12 +64,17 @@
             this.statusLabel = new System.Windows.Forms.Label();
             this.URLLabel = new System.Windows.Forms.LinkLabel();
             this.comboLang = new System.Windows.Forms.ComboBox();
-            this.ets2Dialog = new System.Windows.Forms.FolderBrowserDialog();
+            this.folderDialog = new System.Windows.Forms.FolderBrowserDialog();
             this.joystickTimer = new System.Windows.Forms.Timer(this.components);
             this.Koenvh = new System.Windows.Forms.PictureBox();
+            this.currentGameTimer = new System.Windows.Forms.Timer(this.components);
+            this.groupInstall = new System.Windows.Forms.GroupBox();
+            this.installEts2Button = new System.Windows.Forms.Button();
+            this.installAtsButton = new System.Windows.Forms.Button();
             this.groupSettings.SuspendLayout();
             this.groupInfo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).BeginInit();
+            this.groupInstall.SuspendLayout();
             this.SuspendLayout();
             // 
             // keyTimeout
@@ -140,7 +147,7 @@
             this.groupSettings.Controls.Add(this.previousKeyTextBox);
             this.groupSettings.Controls.Add(this.nextKeyTextBox);
             this.groupSettings.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.groupSettings.Location = new System.Drawing.Point(12, 135);
+            this.groupSettings.Location = new System.Drawing.Point(12, 157);
             this.groupSettings.Name = "groupSettings";
             this.groupSettings.Size = new System.Drawing.Size(413, 264);
             this.groupSettings.TabIndex = 4;
@@ -324,6 +331,8 @@
             // 
             this.groupInfo.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupInfo.Controls.Add(this.gameInfo);
+            this.groupInfo.Controls.Add(this.gameLabel);
             this.groupInfo.Controls.Add(this.comboIP);
             this.groupInfo.Controls.Add(this.URLInfo);
             this.groupInfo.Controls.Add(this.coordinatesInfo);
@@ -334,17 +343,37 @@
             this.groupInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.groupInfo.Location = new System.Drawing.Point(12, 12);
             this.groupInfo.Name = "groupInfo";
-            this.groupInfo.Size = new System.Drawing.Size(413, 117);
+            this.groupInfo.Size = new System.Drawing.Size(413, 139);
             this.groupInfo.TabIndex = 5;
             this.groupInfo.TabStop = false;
             this.groupInfo.Text = "Info";
+            // 
+            // gameInfo
+            // 
+            this.gameInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.gameInfo.Location = new System.Drawing.Point(7, 17);
+            this.gameInfo.Name = "gameInfo";
+            this.gameInfo.Size = new System.Drawing.Size(82, 22);
+            this.gameInfo.TabIndex = 13;
+            this.gameInfo.Text = "Game:";
+            this.gameInfo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            // 
+            // gameLabel
+            // 
+            this.gameLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.gameLabel.Location = new System.Drawing.Point(95, 17);
+            this.gameLabel.Name = "gameLabel";
+            this.gameLabel.Size = new System.Drawing.Size(310, 22);
+            this.gameLabel.TabIndex = 12;
+            this.gameLabel.Text = "Euro Truck Simulator 2";
+            this.gameLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // comboIP
             // 
             this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboIP.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.comboIP.FormattingEnabled = true;
-            this.comboIP.Location = new System.Drawing.Point(94, 62);
+            this.comboIP.Location = new System.Drawing.Point(95, 85);
             this.comboIP.Name = "comboIP";
             this.comboIP.Size = new System.Drawing.Size(310, 21);
             this.comboIP.TabIndex = 11;
@@ -352,7 +381,7 @@
             // URLInfo
             // 
             this.URLInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.URLInfo.Location = new System.Drawing.Point(6, 60);
+            this.URLInfo.Location = new System.Drawing.Point(7, 83);
             this.URLInfo.Name = "URLInfo";
             this.URLInfo.Size = new System.Drawing.Size(82, 22);
             this.URLInfo.TabIndex = 10;
@@ -362,7 +391,7 @@
             // coordinatesInfo
             // 
             this.coordinatesInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.coordinatesInfo.Location = new System.Drawing.Point(6, 38);
+            this.coordinatesInfo.Location = new System.Drawing.Point(7, 61);
             this.coordinatesInfo.Name = "coordinatesInfo";
             this.coordinatesInfo.Size = new System.Drawing.Size(82, 22);
             this.coordinatesInfo.TabIndex = 9;
@@ -372,9 +401,9 @@
             // locationLabel
             // 
             this.locationLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.locationLabel.Location = new System.Drawing.Point(94, 38);
+            this.locationLabel.Location = new System.Drawing.Point(95, 61);
             this.locationLabel.Name = "locationLabel";
-            this.locationLabel.Size = new System.Drawing.Size(310, 22);
+            this.locationLabel.Size = new System.Drawing.Size(312, 22);
             this.locationLabel.TabIndex = 6;
             this.locationLabel.Text = "XYZ";
             this.locationLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -382,7 +411,7 @@
             // statusInfo
             // 
             this.statusInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.statusInfo.Location = new System.Drawing.Point(6, 16);
+            this.statusInfo.Location = new System.Drawing.Point(7, 39);
             this.statusInfo.Name = "statusInfo";
             this.statusInfo.Size = new System.Drawing.Size(82, 22);
             this.statusInfo.TabIndex = 8;
@@ -392,9 +421,9 @@
             // statusLabel
             // 
             this.statusLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.statusLabel.Location = new System.Drawing.Point(94, 16);
+            this.statusLabel.Location = new System.Drawing.Point(95, 39);
             this.statusLabel.Name = "statusLabel";
-            this.statusLabel.Size = new System.Drawing.Size(313, 22);
+            this.statusLabel.Size = new System.Drawing.Size(310, 22);
             this.statusLabel.TabIndex = 7;
             this.statusLabel.Text = "status";
             this.statusLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -402,7 +431,7 @@
             // URLLabel
             // 
             this.URLLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.URLLabel.Location = new System.Drawing.Point(91, 86);
+            this.URLLabel.Location = new System.Drawing.Point(92, 109);
             this.URLLabel.Name = "URLLabel";
             this.URLLabel.Size = new System.Drawing.Size(313, 21);
             this.URLLabel.TabIndex = 6;
@@ -417,17 +446,17 @@
             this.comboLang.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboLang.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboLang.FormattingEnabled = true;
-            this.comboLang.Location = new System.Drawing.Point(360, 442);
+            this.comboLang.Location = new System.Drawing.Point(360, 545);
             this.comboLang.Name = "comboLang";
             this.comboLang.Size = new System.Drawing.Size(65, 21);
             this.comboLang.TabIndex = 8;
             this.comboLang.SelectedIndexChanged += new System.EventHandler(this.comboLang_SelectedIndexChanged);
             // 
-            // ets2Dialog
+            // folderDialog
             // 
-            this.ets2Dialog.Description = "Please select the Euro Truck Simulator 2 installation folder, usually found in C:" +
+            this.folderDialog.Description = "Please select the Euro Truck Simulator 2 installation folder, usually found in C:" +
     "\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2";
-            this.ets2Dialog.ShowNewFolderButton = false;
+            this.folderDialog.ShowNewFolderButton = false;
             // 
             // joystickTimer
             // 
@@ -440,18 +469,60 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
-            this.Koenvh.Location = new System.Drawing.Point(140, 413);
+            this.Koenvh.Location = new System.Drawing.Point(140, 516);
             this.Koenvh.Name = "Koenvh";
             this.Koenvh.Size = new System.Drawing.Size(156, 50);
             this.Koenvh.TabIndex = 6;
             this.Koenvh.TabStop = false;
             this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
             // 
+            // currentGameTimer
+            // 
+            this.currentGameTimer.Interval = 3000;
+            this.currentGameTimer.Tick += new System.EventHandler(this.currentGameTimer_Tick);
+            // 
+            // groupInstall
+            // 
+            this.groupInstall.Controls.Add(this.installEts2Button);
+            this.groupInstall.Controls.Add(this.installAtsButton);
+            this.groupInstall.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.groupInstall.Location = new System.Drawing.Point(12, 428);
+            this.groupInstall.Name = "groupInstall";
+            this.groupInstall.Size = new System.Drawing.Size(413, 82);
+            this.groupInstall.TabIndex = 9;
+            this.groupInstall.TabStop = false;
+            this.groupInstall.Text = "Install plugin";
+            // 
+            // installEts2Button
+            // 
+            this.installEts2Button.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.installEts2Button.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.installEts2Button.Location = new System.Drawing.Point(213, 23);
+            this.installEts2Button.Name = "installEts2Button";
+            this.installEts2Button.Size = new System.Drawing.Size(190, 44);
+            this.installEts2Button.TabIndex = 1;
+            this.installEts2Button.Text = "Install plugin for \r\nEuro Truck Simulator 2";
+            this.installEts2Button.UseVisualStyleBackColor = true;
+            this.installEts2Button.Click += new System.EventHandler(this.installEts2Button_Click);
+            // 
+            // installAtsButton
+            // 
+            this.installAtsButton.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.installAtsButton.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.installAtsButton.Location = new System.Drawing.Point(10, 23);
+            this.installAtsButton.Name = "installAtsButton";
+            this.installAtsButton.Size = new System.Drawing.Size(190, 44);
+            this.installAtsButton.TabIndex = 0;
+            this.installAtsButton.Text = "Install plugin for \r\nAmerican Truck Simulator";
+            this.installAtsButton.UseVisualStyleBackColor = true;
+            this.installAtsButton.Click += new System.EventHandler(this.installAtsButton_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 473);
+            this.ClientSize = new System.Drawing.Size(437, 576);
+            this.Controls.Add(this.groupInstall);
             this.Controls.Add(this.comboLang);
             this.Controls.Add(this.Koenvh);
             this.Controls.Add(this.groupInfo);
@@ -467,6 +538,7 @@
             this.groupSettings.PerformLayout();
             this.groupInfo.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).EndInit();
+            this.groupInstall.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -497,7 +569,7 @@
         private System.Windows.Forms.ComboBox comboLang;
         private System.Windows.Forms.Label makeFavouriteKeyLabel;
         private System.Windows.Forms.TextBox makeFavouriteKeyTextbox;
-        private System.Windows.Forms.FolderBrowserDialog ets2Dialog;
+        private System.Windows.Forms.FolderBrowserDialog folderDialog;
         private System.Windows.Forms.Timer joystickTimer;
         private System.Windows.Forms.Label buttonLabel;
         private System.Windows.Forms.Label keyLabel;
@@ -507,5 +579,11 @@
         private System.Windows.Forms.TextBox stopButtonTextBox;
         private System.Windows.Forms.TextBox previousButtonTextBox;
         private System.Windows.Forms.TextBox nextButtonTextBox;
+        private System.Windows.Forms.Timer currentGameTimer;
+        private System.Windows.Forms.Label gameInfo;
+        private System.Windows.Forms.Label gameLabel;
+        private System.Windows.Forms.GroupBox groupInstall;
+        private System.Windows.Forms.Button installEts2Button;
+        private System.Windows.Forms.Button installAtsButton;
     }
 }

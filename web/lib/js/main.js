@@ -1,5 +1,7 @@
 ﻿//current version:
-var version = "1.5.2";
+var version = "1.6.0";
+//current game (ats or ets2)
+var g_game = "ets2";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
 //language data:
@@ -26,6 +28,7 @@ var g_last_command = "0";
 var g_show_all = false;
 
 function initialise() {
+    console.log("Start init");
     $(document).ready(function () {
         document.getElementById("switchStation").volume = 0;
         document.getElementById("whitenoise").volume = 0;
@@ -41,6 +44,10 @@ function initialise() {
             $(".update").show();
         }
     });
+
+    if(!(getBrowser().firefox || getBrowser().edge)){
+        $(".unsupported-browser").show();
+    }
 
     if (localStorage.getItem("volume") == null) {
         localStorage.setItem("volume", 1);
@@ -60,6 +67,11 @@ function initialise() {
                 console.log(data.language);
                 g_language = data.language;
                 refreshLanguage();
+            }
+            if(data.game != g_game){
+                g_game = data.game;
+                $(".game").html(g_game);
+                loadScripts();
             }
             if(g_last_command != data.id){
                 console.log(data);
@@ -103,6 +115,13 @@ function initialise() {
         } else {
             g_volume = parseInt($("#volumeControl").val()) / 100;
             localStorage.setItem("volume", g_volume);
+        }
+    });
+    
+    $("#player").on("error", function (e) {
+        if($("#player").attr("src") != "about:blank") {
+            $("#player").attr("src", "lib/audio/station_error.mp3");
+            console.log(e);
         }
     });
 }
@@ -194,7 +213,7 @@ function refresh(data) {
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
         if (!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold[game] < available_countries[g_current_country]["distance"] &&
+            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold[g_game] < available_countries[g_current_country]["distance"] &&
             g_last_nearest_country != country_lowest_distance)) {
             //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
             g_last_nearest_country = country_lowest_distance;
@@ -213,6 +232,7 @@ function refresh(data) {
             } else {
                 g_current_url = stations[country_lowest_distance][index]["url"];
             }
+            refreshStations();
         }
 
         if (Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
@@ -442,7 +462,7 @@ function refreshStations() {
 
                 content +=
                     '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
-                    '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-orange" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
+                    '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-selected" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
                     '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
@@ -488,4 +508,33 @@ function sortObject(obj) {
         result[key] = obj[key];
         return result;
     }, {});
+}
+
+function getBrowser() {
+    // Opera 8.0+
+    var isOpera = (!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0;
+
+    // Firefox 1.0+
+    var isFirefox = typeof InstallTrigger !== 'undefined';
+
+    // Safari 3.0+ "[object HTMLElementConstructor]"
+    var isSafari = Object.prototype.toString.call(window.HTMLElement).indexOf('Constructor') > 0 || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || safari.pushNotification);
+
+    // Internet Explorer 6-11
+    var isIE = /*@cc_on!@*/false || !!document.documentMode;
+
+    // Edge 20+
+    var isEdge = !isIE && !!window.StyleMedia;
+
+    // Chrome 1+
+    var isChrome = !!window.chrome && !!window.chrome.webstore;
+
+    return {
+        opera: isOpera,
+        firefox: isFirefox,
+        safari: isSafari,
+        ie: isIE,
+        edge: isEdge,
+        chrome: isChrome
+    };
 }

@@ -8,7 +8,7 @@ var stations = {
         {
             name: "KPSL-FM",
             logo: "stations/images-america/bakersfield/KPSL-FM.png",
-            url: "http://17943.live.streamtheworld.com/KPSLFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KPSLFM"
         },
         {
             name: "Radio Bilingue",
@@ -25,7 +25,7 @@ var stations = {
         {
             name: "KWAVE",
             logo: "stations/images-america/barstow/KWAVE.png",
-            url: "http://19493.live.streamtheworld.com:80/KWAVEFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KWAVEFM"
         },
     ],
     "camp_verde": [
@@ -51,12 +51,12 @@ var stations = {
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/carson_city/Family Radio West Coast.png",
-            url: "http://13983.live.streamtheworld.com/FAMILYRADIO_WESTAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
         },
         {
             name: "K-BULL 98.1",
             logo: "stations/images-america/carson_city/K-BULL 98.1.png",
-            url: "http://16693.live.streamtheworld.com:80/KBULFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KBULFM"
         },
     ],
     "ehrenberg": [
@@ -130,12 +130,12 @@ var stations = {
         {
             name: "KMJ",
             logo: "stations/images-america/fresno/KMJ.png",
-            url: "http://16693.live.streamtheworld.com/KMJAMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMJAM"
         },
         {
             name: "Mega 97.9",
             logo: "stations/images-america/fresno/KMGV.png",
-            url: "http://17843.live.streamtheworld.com/KMGVFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMGVFM"
         },
         /*
         {
@@ -250,7 +250,7 @@ var stations = {
         {
             name: "KOMP",
             logo: "stations/images-america/las_vegas/KOMP.png",
-            url: "http://16693.live.streamtheworld.com:80/KOMPFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KOMPFM"
         },
         {
             name: "La Tricolor 105.1",
@@ -282,7 +282,7 @@ var stations = {
         {
             name: "KOST",
             logo: "stations/images-america/los_angeles/KOST.png",
-            url: "https://kost-fm.akacast.akamaistream.net/7/103/19775/v1/auth.akacast.akamaistream.net/kost-fm"
+            url: "http://kost-fm.akacast.akamaistream.net/7/103/19775/v1/auth.akacast.akamaistream.net/kost-fm"
         },
     ],
     "nogales": [
@@ -301,7 +301,7 @@ var stations = {
         {
             name: "KHOP",
             logo: "stations/images-america/oakdale/KHOP.png",
-            url: "http://15363.live.streamtheworld.com:80/KHOPFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KHOPFM"
         },
     ],
     "oakland": [
@@ -320,7 +320,7 @@ var stations = {
         {
             name: "KDAR",
             logo: "stations/images-america/oxnard/KDAR.png",
-            url: "https://18623.live.streamtheworld.com:443/KDARFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KDARFM"
         },
     ],
     "page": [
@@ -349,17 +349,17 @@ var stations = {
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/phoenix/Family Radio West Coast.png",
-            url: "http://13983.live.streamtheworld.com/FAMILYRADIO_WESTAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
         },
         {
             name: "KFYI",
             logo: "stations/images-america/phoenix/KFYI.png",
-            url: "https://koy-am.akacast.akamaistream.net/7/516/19755/v1/auth.akacast.akamaistream.net/koy-am"
+            url: "http://koy-am.akacast.akamaistream.net/7/516/19755/v1/auth.akacast.akamaistream.net/koy-am"
         },
         {
             name: "MiX 96.9",
             logo: "stations/images-america/phoenix/MiX 96.9.png",
-            url: "https://kmxp-fm.akacast.akamaistream.net/7/174/19753/v1/auth.akacast.akamaistream.net/kmxp-fm"
+            url: "http://kmxp-fm.akacast.akamaistream.net/7/174/19753/v1/auth.akacast.akamaistream.net/kmxp-fm"
         },
     ],
     "pioche": [
@@ -385,7 +385,7 @@ var stations = {
         {
             name: "K-SHASTA",
             logo: "stations/images-america/redding/K-SHASTA.png",
-            url: "http://14543.live.streamtheworld.com:80/KSHAFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSHAFM"
         },
     ],
     "reno": [
@@ -414,7 +414,7 @@ var stations = {
         {
             name: "Sacramento Public Radio",
             logo: "stations/images-america/sacramento/Capital Public Radio.png",
-            url: "http://14953.live.streamtheworld.com:80/KXJZAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },
     ],
     "santa_cruz": [
@@ -462,7 +462,7 @@ var stations = {
         {
             name: "Star 101.3",
             logo: "stations/images-america/san_francisco/Star 101.3.png",
-            url: "https://kioi-fm.akacast.akamaistream.net/7/91/19795/v1/auth.akacast.akamaistream.net/kioi-fm"
+            url: "http://kioi-fm.akacast.akamaistream.net/7/91/19795/v1/auth.akacast.akamaistream.net/kioi-fm"
         },
     ],
     "san_rafael": [
@@ -512,12 +512,12 @@ var stations = {
         {
             name: "Sacramento Public Radio",
             logo: "stations/images-america/stockton/Capital Public Radio.png",
-            url: "http://14953.live.streamtheworld.com:80/KXJZAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },
         {
             name: "99.3 KJOY",
             logo: "stations/images-america/stockton/99.3 KJOY.png",
-            url: "https://16693.live.streamtheworld.com:443/KJOYFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KJOYFM"
         },
     ],
     "tonopah": [
@@ -541,7 +541,7 @@ var stations = {
         {
             name: "Sacramento Public Radio",
             logo: "stations/images-america/truckee/Capital Public Radio.png",
-            url: "http://14953.live.streamtheworld.com:80/KXJZAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },
         {
             name: "Immaculate Heart Radio",
@@ -568,12 +568,12 @@ var stations = {
         {
             name: "My 92.9",
             logo: "stations/images-america/tucson/My 92.9.png",
-            url: "https://kwmt-fm.akacast.akamaistream.net/7/690/22415/v1/auth.akacast.akamaistream.net/kwmt-fm"
+            url: "http://kwmt-fm.akacast.akamaistream.net/7/690/22415/v1/auth.akacast.akamaistream.net/kwmt-fm"
         },
         {
             name: "La Caliente",
             logo: "stations/images-america/tucson/La Caliente.png",
-            url: "http://17963.live.streamtheworld.com:3690/KCMTFMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KCMTFM"
         },
         {
             name: "KXCI",
@@ -590,7 +590,7 @@ var stations = {
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/ukiah/Family Radio West Coast.png",
-            url: "http://13983.live.streamtheworld.com/FAMILYRADIO_WESTAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
         },
         {
             name: "The Skunk",
@@ -614,7 +614,7 @@ var stations = {
         {
             name: "KAWC",
             logo: "stations/images-america/yuma/KAWC.png",
-            url: "http://13983.live.streamtheworld.com:3690/KAWCFM_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KAWCFM"
         },
         {
             name: "CSN",

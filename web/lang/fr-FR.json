@@ -39,7 +39,10 @@
     "volume-down-key": "Touche 'baisser le volume':",
     "make-favourite-key": "Make favourite:",
     "save": "Sauvegarder",
-    "ets2-folder-dialog": "Merci de sélectionner le dossier d'installation d'Euro Truck Simulator 2, usuellement placé à C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
+    "install": "Install plugin",
+    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
+    "ets2-folder-dialog": "Merci de sélectionner le dossier d'installation d'ETS2/ATS, usuellement placé à C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Now playing:"
   }
 }

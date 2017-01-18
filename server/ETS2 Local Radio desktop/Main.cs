@@ -17,6 +17,7 @@ using System.Windows.Forms;
 using Ets2SdkClient;
 using ETS2_Local_Radio_server.Properties;
 using Gma.System.MouseKeyHook;
+using Microsoft.Win32;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
@@ -43,6 +44,8 @@ namespace ETS2_Local_Radio_server
         public static string simulatorNotDriving = "Simulator running, let's get driving!";
         public static string simulatorRunning = "Simulator running!";
 
+        public static string currentGame = "ets2";
+
         public Main()
         {
             InitializeComponent();
@@ -61,6 +64,21 @@ namespace ETS2_Local_Radio_server
             //Load languages to combobox:
             LoadLanguages();
 
+            //Check plugins:
+            if (PluginExists("ats"))
+            {
+                installAtsButton.Enabled = false;
+            }
+            if (PluginExists("ets2"))
+            {
+                installEts2Button.Enabled = false;
+            }
+            if (!PluginExists("ats") && !PluginExists("ets2"))
+            {
+                groupInfo.Enabled = false;
+                groupSettings.Enabled = false;
+            }
+
             //Load the keys:
             nextKeyTextBox.Text = ConfigurationManager.AppSettings["NextKey"];
             previousKeyTextBox.Text = ConfigurationManager.AppSettings["PreviousKey"];
@@ -75,19 +93,6 @@ namespace ETS2_Local_Radio_server
             volumeUpButtonTextBox.Text = ConfigurationManager.AppSettings["VolumeUpButton"];
             volumeDownButtonTextBox.Text = ConfigurationManager.AppSettings["VolumeDownButton"];
             makeFavouriteButtonTextbox.Text = ConfigurationManager.AppSettings["MakeFavouriteButton"];
-
-            //Check whether plugin is available, if not, try to install it:
-            if (!PluginExists())
-            {
-                if (ChooseFolder())
-                {
-
-                }
-                else
-                {
-                    Application.Exit();
-                }
-            }
 
             //Start telemetry grabbing:
             Telemetry = new Ets2SdkTelemetry(250);
@@ -109,6 +114,8 @@ namespace ETS2_Local_Radio_server
             LoadAddresses();
 
             AttachJoystick();
+
+            currentGameTimer.Start();
 
             //Add handlers:
             nextKeyTextBox.KeyDown += keyInput;
@@ -146,7 +153,11 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                foreach (String file in Directory.GetFiles(Directory.GetCurrentDirectory() + "\\web\\lang"))
+                if (!Directory.Exists(Directory.GetCurrentDirectory() + "\\web\\lang"))
+                {
+                    throw new Exception("\\web\\lang directory not found");
+                }
+                foreach (string file in Directory.GetFiles(Directory.GetCurrentDirectory() + "\\web\\lang"))
                 {
                     if (file.EndsWith(".json"))
                     {
@@ -168,22 +179,27 @@ namespace ETS2_Local_Radio_server
             }
         }
 
-        private bool PluginExists()
+        private bool PluginExists(string game)
         {
+            string folder = "";
+            if (game == "ets2")
+            {
+                folder = ConfigurationManager.AppSettings["Ets2Folder"];
+            }
+            if (game == "ats")
+            {
+                folder = ConfigurationManager.AppSettings["AtsFolder"];
+            }
             try
             {
-                if (ConfigurationManager.AppSettings["Ets2Folder"] != null)
+                if (folder != null)
                 {
-                    if (Directory.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
-                                         @"\bin\win_x86\plugins") &&
-                        Directory.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
-                                         @"\bin\win_x64\plugins"))
+                    if (Directory.Exists(folder + @"\bin\win_x86\plugins") &&
+                        Directory.Exists(folder + @"\bin\win_x64\plugins"))
                     {
                         if (
-                            File.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
-                                        @"\bin\win_x86\plugins\ets2-telemetry.dll") &&
-                            File.Exists(ConfigurationManager.AppSettings["Ets2Folder"] +
-                                        @"\bin\win_x64\plugins\ets2-telemetry.dll"))
+                            File.Exists(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll") &&
+                            File.Exists(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll"))
                         {
                             return true;
                         }
@@ -209,13 +225,13 @@ namespace ETS2_Local_Radio_server
             }
         }
 
-        private bool ChooseFolder()
+        private bool ChooseFolder(string game)
         {
-            if (ets2Dialog.ShowDialog() == DialogResult.OK)
+            if (folderDialog.ShowDialog() == DialogResult.OK)
             {
                 try
                 {
-                    string folder = ets2Dialog.SelectedPath;
+                    string folder = folderDialog.SelectedPath;
                     Directory.CreateDirectory(folder + @"\bin\win_x86\plugins");
                     Directory.CreateDirectory(folder + @"\bin\win_x64\plugins");
 
@@ -228,7 +244,14 @@ namespace ETS2_Local_Radio_server
                     File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\d3d9.dll",
                         folder + @"\bin\win_x64\d3d9.dll", true);
 
-                    SaveAppSettings("Ets2Folder", folder);
+                    if (game == "ets2")
+                    {
+                        SaveAppSettings("Ets2Folder", folder);
+                    }
+                    if (game == "ats")
+                    {
+                        SaveAppSettings("AtsFolder", folder);
+                    }
 
                     return true;
                 }
@@ -508,7 +531,39 @@ namespace ETS2_Local_Radio_server
 
         private void URLLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start(Directory.GetCurrentDirectory() + "\\IronPortable\\IronPortable.exe", comboIP.SelectedItem.ToString());
+            var reg = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion");
+
+            string productName = (string)reg.GetValue("ProductName");
+
+            Console.WriteLine("Current OS: " + productName);
+            try
+            {
+                Process.Start(@"C:\Program Files\Mozilla Firefox\firefox.exe", comboIP.SelectedItem.ToString());
+                return;
+            }
+            catch (Exception)
+            {
+            }
+            try
+            {
+                Process.Start(@"C:\Program Files (x86)\Mozilla Firefox\firefox.exe", comboIP.SelectedItem.ToString());
+                return;
+            }
+            catch (Exception)
+            {
+            }
+            if (productName.StartsWith("Windows 10"))
+            {
+                try
+                {
+                    Process.Start("microsoft-edge:" + comboIP.SelectedItem.ToString());
+                    return;
+                }
+                catch (Exception)
+                {
+                }
+            }
+            Process.Start(comboIP.SelectedItem.ToString());
         }
 
         private void Koenvh_Click(object sender, EventArgs e)
@@ -524,6 +579,7 @@ namespace ETS2_Local_Radio_server
                 dynamic server = language.GetFile();
 
                 groupInfo.Text = (server["info"] ?? groupInfo.Text);
+                gameInfo.Text = (server["game"] ?? gameInfo.Text);
                 statusInfo.Text = (server["status"] ?? statusInfo.Text);
                 simulatorNotRunning = (server["simulator-not-running"] ?? simulatorNotRunning);
                 simulatorNotDriving = (server["simulator-not-driving"] ?? simulatorNotDriving);
@@ -541,7 +597,10 @@ namespace ETS2_Local_Radio_server
                 volumeDownKeyLabel.Text = (server["volume-down-key"] ?? volumeDownKeyLabel.Text);
                 makeFavouriteKeyLabel.Text = (server["make-favourite-key"] ?? makeFavouriteKeyLabel.Text);
                 saveButton.Text = (server["save"] ?? saveButton.Text);
-                ets2Dialog.Description = (server["ets2-folder-dialog"] ?? ets2Dialog.Description);
+                groupInstall.Text = (server["install"] ?? groupInstall.Text);
+                installAtsButton.Text = (server["install-plugin-ats"] ?? installAtsButton.Text);
+                installEts2Button.Text = (server["install-plugin-ets2"] ?? installEts2Button.Text);
+                folderDialog.Description = (server["ets2-folder-dialog"] ?? folderDialog.Description);
                 Station.NowPlaying = (server["now-playing"] ?? Station.NowPlaying);
 
                 SaveAppSettings("Language", comboLang.SelectedItem.ToString());
@@ -664,6 +723,48 @@ namespace ETS2_Local_Radio_server
             catch (Exception ex)
             {
                 //Log.Write(ex.ToString());
+            }
+        }
+
+        private void currentGameTimer_Tick(object sender, EventArgs e)
+        {
+            if (currentGame != "ets2")
+            {
+                if (Process.GetProcessesByName("eurotrucks2").Length > 0)
+                {
+                    currentGame = "ets2";
+                    gameLabel.Text = "Euro Truck Simulator 2";
+                    writeFile("game", "0", "0");
+                }
+            }
+            if (currentGame != "ats")
+            {
+                if (Process.GetProcessesByName("amtrucks").Length > 0)
+                {
+                    currentGame = "ats";
+                    gameLabel.Text = "American Truck Simulator";
+                    writeFile("game", "0", "0");
+                }
+            }
+        }
+
+        private void installAtsButton_Click(object sender, EventArgs e)
+        {
+            if (ChooseFolder("ats"))
+            {
+                installAtsButton.Enabled = false;
+                groupInfo.Enabled = true;
+                groupSettings.Enabled = true;
+            }
+        }
+
+        private void installEts2Button_Click(object sender, EventArgs e)
+        {
+            if (ChooseFolder("ets2"))
+            {
+                installEts2Button.Enabled = false;
+                groupInfo.Enabled = true;
+                groupSettings.Enabled = true;
             }
         }
     }
