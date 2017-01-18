@@ -54,5 +54,14 @@ I could not have possibly done this alone, so thanks to the following people:
 * You, the user
 
 ## Screenshots: ##
-![Screenshot](http://i.imgur.com/U00YLw7.png)
-_All available stations as of 1.4.0_
+![Screenshot](http://i.imgur.com/bBpaPy0.png)
+
+_The server window_
+
+![Screenshot](http://i.imgur.com/qhCsYcy.png)
+
+_All available stations in ATS as of 1.6.0_
+
+![Screenshot](http://i.imgur.com/NBPME4e.png)
+
+_All available stations in ETS2 as of 1.4.0_
