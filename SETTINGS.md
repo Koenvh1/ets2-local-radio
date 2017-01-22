@@ -50,6 +50,9 @@ Controller to use for button input, based on the index of the controller. 0 by d
 #### Ets2Folder
 Folder where Euro Truck Simulator 2 is installed in, checks whether the plugin exists there.
 
+#### AtsFolder
+Folder where American Truck Simulator is installed in, checks whether the plugin exists there.
+
 ## Web
 Can be found as `web/config.js`, follows JavaScript object syntax.
 

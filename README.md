@@ -1,9 +1,9 @@
-# ETS2 Local Radio #
+# ETS2/ATS Local Radio #
 
-ETS2 Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
+ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
 
-**Some radio stations may not work with Internet Explorer, Edge or Chrome. Please try using Firefox while I try to fix the issue**
+**Some radio stations may not work with Internet Explorer, Opera or Chrome. Please try using Edge or Firefox.**
 
 ## How to install it: ##
 
@@ -43,6 +43,15 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 _ETS2 Local Radio crashes!_
 
 Please open an issue or [contact me](http://koenvh.nl/contact)
+
+## How to uninstall it: ##
+
+Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
+You will need to manually remove the following files from the ETS2/ATS installation directory as well:
+* `\bin\win_x64\d3d9.dll` 
+* `\bin\win_x64\plugins\ets2-telemetry.dll`
+* `\bin\win_x86\d3d9.dll`
+* `\bin\win_x86\plugins\ets2-telemetry.dll`
 
 ## Thanks to: ##
 I could not have possibly done this alone, so thanks to the following people:
