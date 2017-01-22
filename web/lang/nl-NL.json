@@ -7,6 +7,7 @@
     "stop-playback": "Stop afspelen",
     "volume": "Volume",
     "stations": "Zenders:",
+    "unsupported-browser": "Je browser ondersteunt niet alle radiostations. Open ETS2 Local Radio alsjeblieft in Mozilla Firefox of Microsoft Edge.",
     "update-available": "Er is een update beschikbaar!",
     "update-now": "Nu updaten",
     "controlled-remotely": "Deze speler wordt op afstand bestuurd",
@@ -17,7 +18,7 @@
     "amount-static": "Hoeveelheid ruis:",
     "show-all": "Alles bekijken in- of uitschakelen",
     "enter-peerid-title": "Voer het PeerID in",
-    "enter-peerid-body": "Voer alstublieft het PeerID van het apparaat waarmee u wilt verbinden:",
+    "enter-peerid-body": "Voer alstublieft het PeerID van het apparaat waarmee u wilt verbinden in:",
     "connect": "Verbinden",
     "make-favourite": "Maak favoriet"
   },
@@ -44,6 +45,7 @@
     "install": "Plug-in installeren",
     "install-plugin-ets2": "Installeer de plug-in voor\nEuro Truck Simulator 2",
     "install-plugin-ats": "Installeer de plug-in voor\nAmerican Truck Simulator",
+    "install-overlay": "Wil je de overlay voor in het spel installeren?\n(Dit zal een bestaande d3d9.dll overschrijven, en kan in uitzonderlijke gevallen het spel bij het afsluiten laten crashen)",
     "ets2-folder-dialog": "Kies alstublieft de ETS2/ATS-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Speelt nu:"
   }

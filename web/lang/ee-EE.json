@@ -6,6 +6,7 @@
     "coverage-map": "Levialakaart",
     "stop-playback": "Lõpeta mängimine",
     "stations": "Jaamad:",
+    "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
     "update-available": "Uuendus on saadaval!",
     "update-now": "Uuenda nüüd",
     "controlled-remotely": "See pleier on distantsjuhtimise all",
@@ -42,6 +43,7 @@
     "install": "Install plugin",
     "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
     "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
+    "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
     "ets2-folder-dialog": "Palun vali ETS2/ATS'e installatsioonikaust, tavaliselt leitud kohas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Hetkel mängib:"
   }

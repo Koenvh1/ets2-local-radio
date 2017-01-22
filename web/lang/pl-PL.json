@@ -6,6 +6,7 @@
     "coverage-map": "Mapa pokrycia",
     "stop-playback": "Zatrzymaj odtwarzanie",
     "stations": "Stacje:",
+    "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
     "update-available": "Aktualizacja jest dostępna!",
     "update-now": "Aktualizuj teraz",
     "controlled-remotely": "Ten odtwarzacz jest sterowany zdalnie",
@@ -42,6 +43,7 @@
     "install": "Install plugin",
     "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
     "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
+    "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
     "ets2-folder-dialog": "Wybierz proszę folder z zainstalowaną grą ETS2/ATS, zazwyczaj jest to C:\\Pliki programów (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Teraz gra:"
   }

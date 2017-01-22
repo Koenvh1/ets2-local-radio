@@ -39,10 +39,11 @@
     "stop-playback-key": "Stop playback key:",
     "volume-up-key": "Volume up key:",
     "volume-down-key": "Volume down key:",
-    "make-favourite-key": "Make favourite key:",
+    "make-favourite-key": "Make favorite key:",
     "save": "Save",
-    "install": "Install",
-
+    "install": "Install plugin",
+    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
     "ets2-folder-dialog": "Please select the ETS2/ATS installation folder, usually found in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Now playing:"
   }
