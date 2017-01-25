@@ -19,6 +19,8 @@ namespace ETS2_Local_Radio_server
         /// 
         private Joystick Joystick;
 
+        public DeviceInstance[] AvailableDevices;
+
         /// 
         /// Get the state of the joystick
         /// 
@@ -40,34 +42,34 @@ namespace ETS2_Local_Radio_server
         /// 
         /// Construct, attach the joystick
         /// 
-        public SimpleJoystick(int index = 0)
+        public SimpleJoystick(string deviceName = null)
         {
             DirectInput dinput = new DirectInput();
 
             // Current device in loop
             var current = 0;
 
+            var devices = dinput.GetDevices(DeviceClass.GameController, DeviceEnumerationFlags.AttachedOnly);
+
             // Search for device
-            foreach (DeviceInstance device in dinput.GetDevices(DeviceClass.GameController, DeviceEnumerationFlags.AttachedOnly))
+            foreach (DeviceInstance device in devices)
             {
+                AvailableDevices = new DeviceInstance[devices.Count];
+                AvailableDevices[current] = device;
                 // If this is the device we want, use it.
                 Log.Write("Device found: " + device.ProductName);
-                if (current >= index)
+                if (Joystick == null || device.InstanceName == deviceName)
                 {
                     try
                     {
                         // Create device   
                         Joystick = new Joystick(dinput, device.InstanceGuid);
-                        break;
                     }
                     catch (DirectInputException)
                     {
                     }
-                }
-                else
-                {
-                    current++;
-                }
+                } 
+                current++;
             }
 
             if (Joystick == null)

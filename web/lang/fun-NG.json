@@ -1,11 +1,12 @@
 {
   "web": {
     "author": "",
-    "now-playing": "Now playing:",
+    "now-playing": "Spile nu:",
     "connect-other-device": "Tillinka annað täky",
     "coverage-map": "Dekningskort",
     "stop-playback": "Stopp avspilning",
     "stations": "Staġone:",
+    "unsupported-browser": "Dajð browser inðema stöttit alle radiostaġone. Tak åban ETS2 Local Radio y annaðval Mozilla Firefox elle Microsoft Edge.",
     "update-available": "A uppdatering er boðit!",
     "update-now": "Uppdater nu",
     "controlled-remotely": "Dehir spiloreð er avstandskontrollit",
@@ -39,7 +40,11 @@
     "volume-down-key": "Nedsygorsterkhedtaste:",
     "make-favourite-key": "Favoritlagataste:",
     "save": "Nedskrib",
-    "ets2-folder-dialog": "Tak val uppsetningmapa av Euro Truck Simulator 2, vanlig hittit y C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Euro Truck Simulator 2",
-    "now-playing": "Now playing:"
+    "install": "Upsetna plugin",
+    "install-plugin-ets2": "Upsetna plugin för\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Upsetna plugin för\nAmerican Truck Simulator",
+    "install-overlay": "Villdy að upsetna yspilöverdekningeð?\n(Ðenska överskrivit eð redatilvärað d3d9.dll, oj ðema ursakit y enkla falla að trufla að sluta spileð)",
+    "ets2-folder-dialog": "Tak val uppsetningmapa av ETS2/ATS, vanlig hittit y C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
+    "now-playing": "Spile nu:"
   }
 }

@@ -148,6 +148,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
+    <None Include="Resources\check.png" />
     <None Include="Resources\5.png" />
     <None Include="Resources\4.png" />
     <None Include="Resources\3.png" />

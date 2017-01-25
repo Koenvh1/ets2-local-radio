@@ -67,7 +67,7 @@ var stations = {
         },
         {
             name: "Welle 1 (Salzburg)",
-            logo: "stations/images-europe/austria/Radio 88.6.png",
+            logo: "stations/images-europe/austria/Welle 1.png",
             url: "http://live.welle1.at:8128/;"
         },
     ],
@@ -544,13 +544,11 @@ var stations = {
             logo: "stations/images-europe/finland/Radio NRJ.svg",
             url: "http://cdn.nrjaudio.fm/adwz1/fi/35001/mp3_128.mp3"
         },
-        /*
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "http://icelive0.80596-icelive0.cdn.qbrick.com/10545/80596_RadioRock.mp3"
+            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10565/80692_RadioRock.mp3"
         },
-        */
         {
             name: "Radio Suomipop",
             logo: "stations/images-europe/finland/Radio Suomipop.png",
@@ -1037,6 +1035,11 @@ var stations = {
             url: "http://icast.connectmedia.hu/4784/live.mp3"
         },
         {
+            name: "Dankó Rádió",
+            logo: "stations/images-europe/hungary/Dankó Rádió.png",
+            url: "http://icast.connectmedia.hu/4748/mr7.mp3"
+        },
+        {
             name: "Music FM",
             logo: "stations/images-europe/hungary/Music FM.jpg",
             url: "http://stream.musicfm.hu:8000/musicfm.mp3"
@@ -1477,7 +1480,7 @@ var stations = {
         {
             name: "NRK P1",
             logo: "stations/images-europe/norway/NRK P1.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_h"
+            url: "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
         },
         {
             name: "NRK P1+",

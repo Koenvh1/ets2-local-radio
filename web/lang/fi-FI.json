@@ -1,12 +1,12 @@
 {
   "web": {
-    "author": "LoaderSaints",
+    "author": "LoaderSaints & MrSimsFani",
     "now-playing": "Nyt soi:",
     "connect-other-device": "Yhdistä toiseen laitteeseen",
     "coverage-map": "Kuuluvuuskartta",
     "stop-playback": "Pysäytä toisto",
     "stations": "Kanavat:",
-    "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
+    "unsupported-browser": "Ei-tuettu selain:selaimesi ei välttämättä tue kaikkia radiokanavia. Avaa ETS2 Local radio Mozilla Firefoxissa tai Microsoft Edgessä.",
     "update-available": "Uusi päivitys on saatavissa!",
     "update-now": "Päivitä nyt",
     "controlled-remotely": "Tätä soitinta hallitaan etänä",
@@ -41,9 +41,9 @@
     "make-favourite-key": "Lisää suosikiksi -näppäin:",
     "save": "Tallenna",
     "install": "Install plugin",
-    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
-    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
-    "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
+    "install-plugin-ets2": "Asenna plugin\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Asenna plugin\nAmerican Truck Simulator",
+    "install-overlay": "Asenna overlay: Haluatko asentaa pelinsisäisen overlayn? Tämä ylikirjoittaa valmiiksi olemassa olevan d3d9.dll, ja se voin harvinaisissa tilanteissa aiheuttaa poistumisen yhteydessä pelin kaatumisen.",
     "ets2-folder-dialog": "Valitse kansio johon ETS2/ATS on asennettu, tavallisesti C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Nyt soi:"
   }

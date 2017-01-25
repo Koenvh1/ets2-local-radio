@@ -661,6 +661,9 @@ var city_properties = {
     "tambov": {
         relative_radius: 2,
     },
+    "tanabru": {
+        relative_radius: 0.4,
+    },
     "taurage": {
         relative_radius: 0.5,
     },
@@ -693,6 +696,9 @@ var city_properties = {
     },
     "umea": {
         relative_radius: 0.5,
+    },
+    "utsjoki": {
+        relative_radius: 0.4,
     },
     "uzhhorod": {
         relative_radius: 0.5,
@@ -4834,6 +4840,14 @@ var cities_wip = [
         "z": "-42217.29"
     },
     {
+        "gameName": "sodankyla",
+        "realName": "Sodankylä",
+        "country": "finland",
+        "x": "42142.70",
+        "y": "73",
+        "z": "-95641.80"
+    },
+    {
         "gameName": "taurage",
         "realName": "Tauragė",
         "country": "lithuania",
@@ -4856,6 +4870,22 @@ var cities_wip = [
         "x": "4607.3",
         "y": "-5.65",
         "z": "-72584.71"
+    },
+    {
+        "gameName": "tanabru",
+        "realName": "Tana Bru",
+        "country": "norway",
+        "x": "40732.64",
+        "y": "34.43",
+        "z": "-109981.67"
+    },
+    {
+        "gameName": "utsjoki",
+        "realName": "Utsjoki",
+        "country": "finland",
+        "x": "39371.95",
+        "y": "43.43",
+        "z": "-108070.61"
     },
 ];
 

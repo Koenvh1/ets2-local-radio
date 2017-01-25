@@ -66,15 +66,18 @@
             this.comboLang = new System.Windows.Forms.ComboBox();
             this.folderDialog = new System.Windows.Forms.FolderBrowserDialog();
             this.joystickTimer = new System.Windows.Forms.Timer(this.components);
-            this.Koenvh = new System.Windows.Forms.PictureBox();
             this.currentGameTimer = new System.Windows.Forms.Timer(this.components);
             this.groupInstall = new System.Windows.Forms.GroupBox();
             this.installEts2Button = new System.Windows.Forms.Button();
             this.installAtsButton = new System.Windows.Forms.Button();
+            this.Koenvh = new System.Windows.Forms.PictureBox();
+            this.groupController = new System.Windows.Forms.GroupBox();
+            this.comboController = new System.Windows.Forms.ComboBox();
             this.groupSettings.SuspendLayout();
             this.groupInfo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).BeginInit();
             this.groupInstall.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).BeginInit();
+            this.groupController.SuspendLayout();
             this.SuspendLayout();
             // 
             // keyTimeout
@@ -86,7 +89,7 @@
             // 
             this.saveButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.saveButton.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.saveButton.Location = new System.Drawing.Point(300, 224);
+            this.saveButton.Location = new System.Drawing.Point(300, 206);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(105, 34);
             this.saveButton.TabIndex = 0;
@@ -97,7 +100,7 @@
             // nextKeyTextBox
             // 
             this.nextKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.nextKeyTextBox.Location = new System.Drawing.Point(236, 41);
+            this.nextKeyTextBox.Location = new System.Drawing.Point(236, 38);
             this.nextKeyTextBox.Name = "nextKeyTextBox";
             this.nextKeyTextBox.ShortcutsEnabled = false;
             this.nextKeyTextBox.Size = new System.Drawing.Size(60, 22);
@@ -106,7 +109,7 @@
             // previousKeyTextBox
             // 
             this.previousKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.previousKeyTextBox.Location = new System.Drawing.Point(236, 67);
+            this.previousKeyTextBox.Location = new System.Drawing.Point(236, 64);
             this.previousKeyTextBox.Name = "previousKeyTextBox";
             this.previousKeyTextBox.ShortcutsEnabled = false;
             this.previousKeyTextBox.Size = new System.Drawing.Size(60, 22);
@@ -115,7 +118,7 @@
             // stopKeyTextBox
             // 
             this.stopKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.stopKeyTextBox.Location = new System.Drawing.Point(236, 93);
+            this.stopKeyTextBox.Location = new System.Drawing.Point(236, 90);
             this.stopKeyTextBox.Name = "stopKeyTextBox";
             this.stopKeyTextBox.ShortcutsEnabled = false;
             this.stopKeyTextBox.Size = new System.Drawing.Size(60, 22);
@@ -149,7 +152,7 @@
             this.groupSettings.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.groupSettings.Location = new System.Drawing.Point(12, 157);
             this.groupSettings.Name = "groupSettings";
-            this.groupSettings.Size = new System.Drawing.Size(413, 264);
+            this.groupSettings.Size = new System.Drawing.Size(413, 246);
             this.groupSettings.TabIndex = 4;
             this.groupSettings.TabStop = false;
             this.groupSettings.Text = "Settings";
@@ -157,7 +160,7 @@
             // buttonLabel
             // 
             this.buttonLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.buttonLabel.Location = new System.Drawing.Point(317, 18);
+            this.buttonLabel.Location = new System.Drawing.Point(317, 15);
             this.buttonLabel.Name = "buttonLabel";
             this.buttonLabel.Size = new System.Drawing.Size(90, 20);
             this.buttonLabel.TabIndex = 21;
@@ -167,7 +170,7 @@
             // keyLabel
             // 
             this.keyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.keyLabel.Location = new System.Drawing.Point(221, 18);
+            this.keyLabel.Location = new System.Drawing.Point(221, 15);
             this.keyLabel.Name = "keyLabel";
             this.keyLabel.Size = new System.Drawing.Size(90, 20);
             this.keyLabel.TabIndex = 20;
@@ -178,7 +181,7 @@
             // 
             this.makeFavouriteButtonTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.makeFavouriteButtonTextbox.BackColor = System.Drawing.SystemColors.Window;
-            this.makeFavouriteButtonTextbox.Location = new System.Drawing.Point(332, 171);
+            this.makeFavouriteButtonTextbox.Location = new System.Drawing.Point(332, 168);
             this.makeFavouriteButtonTextbox.Name = "makeFavouriteButtonTextbox";
             this.makeFavouriteButtonTextbox.ReadOnly = true;
             this.makeFavouriteButtonTextbox.ShortcutsEnabled = false;
@@ -189,7 +192,7 @@
             // 
             this.volumeDownButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.volumeDownButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
-            this.volumeDownButtonTextBox.Location = new System.Drawing.Point(332, 145);
+            this.volumeDownButtonTextBox.Location = new System.Drawing.Point(332, 142);
             this.volumeDownButtonTextBox.Name = "volumeDownButtonTextBox";
             this.volumeDownButtonTextBox.ReadOnly = true;
             this.volumeDownButtonTextBox.ShortcutsEnabled = false;
@@ -200,7 +203,7 @@
             // 
             this.volumeUpButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.volumeUpButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
-            this.volumeUpButtonTextBox.Location = new System.Drawing.Point(332, 119);
+            this.volumeUpButtonTextBox.Location = new System.Drawing.Point(332, 116);
             this.volumeUpButtonTextBox.Name = "volumeUpButtonTextBox";
             this.volumeUpButtonTextBox.ReadOnly = true;
             this.volumeUpButtonTextBox.ShortcutsEnabled = false;
@@ -211,7 +214,7 @@
             // 
             this.stopButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.stopButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
-            this.stopButtonTextBox.Location = new System.Drawing.Point(332, 93);
+            this.stopButtonTextBox.Location = new System.Drawing.Point(332, 90);
             this.stopButtonTextBox.Name = "stopButtonTextBox";
             this.stopButtonTextBox.ReadOnly = true;
             this.stopButtonTextBox.ShortcutsEnabled = false;
@@ -222,7 +225,7 @@
             // 
             this.previousButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.previousButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
-            this.previousButtonTextBox.Location = new System.Drawing.Point(332, 67);
+            this.previousButtonTextBox.Location = new System.Drawing.Point(332, 64);
             this.previousButtonTextBox.Name = "previousButtonTextBox";
             this.previousButtonTextBox.ReadOnly = true;
             this.previousButtonTextBox.ShortcutsEnabled = false;
@@ -233,7 +236,7 @@
             // 
             this.nextButtonTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.nextButtonTextBox.BackColor = System.Drawing.SystemColors.Window;
-            this.nextButtonTextBox.Location = new System.Drawing.Point(332, 41);
+            this.nextButtonTextBox.Location = new System.Drawing.Point(332, 38);
             this.nextButtonTextBox.Name = "nextButtonTextBox";
             this.nextButtonTextBox.ReadOnly = true;
             this.nextButtonTextBox.ShortcutsEnabled = false;
@@ -243,7 +246,7 @@
             // makeFavouriteKeyLabel
             // 
             this.makeFavouriteKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.makeFavouriteKeyLabel.Location = new System.Drawing.Point(6, 171);
+            this.makeFavouriteKeyLabel.Location = new System.Drawing.Point(6, 168);
             this.makeFavouriteKeyLabel.Name = "makeFavouriteKeyLabel";
             this.makeFavouriteKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.makeFavouriteKeyLabel.TabIndex = 13;
@@ -253,7 +256,7 @@
             // makeFavouriteKeyTextbox
             // 
             this.makeFavouriteKeyTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.makeFavouriteKeyTextbox.Location = new System.Drawing.Point(236, 171);
+            this.makeFavouriteKeyTextbox.Location = new System.Drawing.Point(236, 168);
             this.makeFavouriteKeyTextbox.Name = "makeFavouriteKeyTextbox";
             this.makeFavouriteKeyTextbox.ShortcutsEnabled = false;
             this.makeFavouriteKeyTextbox.Size = new System.Drawing.Size(60, 22);
@@ -262,7 +265,7 @@
             // volumeDownKeyLabel
             // 
             this.volumeDownKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.volumeDownKeyLabel.Location = new System.Drawing.Point(6, 145);
+            this.volumeDownKeyLabel.Location = new System.Drawing.Point(6, 142);
             this.volumeDownKeyLabel.Name = "volumeDownKeyLabel";
             this.volumeDownKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.volumeDownKeyLabel.TabIndex = 11;
@@ -272,7 +275,7 @@
             // volumeUpKeyLabel
             // 
             this.volumeUpKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.volumeUpKeyLabel.Location = new System.Drawing.Point(6, 119);
+            this.volumeUpKeyLabel.Location = new System.Drawing.Point(6, 116);
             this.volumeUpKeyLabel.Name = "volumeUpKeyLabel";
             this.volumeUpKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.volumeUpKeyLabel.TabIndex = 10;
@@ -282,7 +285,7 @@
             // volumeDownKeyTextBox
             // 
             this.volumeDownKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.volumeDownKeyTextBox.Location = new System.Drawing.Point(236, 145);
+            this.volumeDownKeyTextBox.Location = new System.Drawing.Point(236, 142);
             this.volumeDownKeyTextBox.Name = "volumeDownKeyTextBox";
             this.volumeDownKeyTextBox.ShortcutsEnabled = false;
             this.volumeDownKeyTextBox.Size = new System.Drawing.Size(60, 22);
@@ -291,7 +294,7 @@
             // volumeUpKeyTextBox
             // 
             this.volumeUpKeyTextBox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.volumeUpKeyTextBox.Location = new System.Drawing.Point(236, 119);
+            this.volumeUpKeyTextBox.Location = new System.Drawing.Point(236, 116);
             this.volumeUpKeyTextBox.Name = "volumeUpKeyTextBox";
             this.volumeUpKeyTextBox.ShortcutsEnabled = false;
             this.volumeUpKeyTextBox.Size = new System.Drawing.Size(60, 22);
@@ -300,7 +303,7 @@
             // previousKeyLabel
             // 
             this.previousKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.previousKeyLabel.Location = new System.Drawing.Point(6, 67);
+            this.previousKeyLabel.Location = new System.Drawing.Point(6, 64);
             this.previousKeyLabel.Name = "previousKeyLabel";
             this.previousKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.previousKeyLabel.TabIndex = 5;
@@ -310,7 +313,7 @@
             // stopKeyLabel
             // 
             this.stopKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.stopKeyLabel.Location = new System.Drawing.Point(6, 93);
+            this.stopKeyLabel.Location = new System.Drawing.Point(6, 90);
             this.stopKeyLabel.Name = "stopKeyLabel";
             this.stopKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.stopKeyLabel.TabIndex = 5;
@@ -320,7 +323,7 @@
             // nextKeyLabel
             // 
             this.nextKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.nextKeyLabel.Location = new System.Drawing.Point(6, 41);
+            this.nextKeyLabel.Location = new System.Drawing.Point(6, 38);
             this.nextKeyLabel.Name = "nextKeyLabel";
             this.nextKeyLabel.Size = new System.Drawing.Size(224, 22);
             this.nextKeyLabel.TabIndex = 4;
@@ -446,7 +449,7 @@
             this.comboLang.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboLang.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboLang.FormattingEnabled = true;
-            this.comboLang.Location = new System.Drawing.Point(360, 545);
+            this.comboLang.Location = new System.Drawing.Point(360, 589);
             this.comboLang.Name = "comboLang";
             this.comboLang.Size = new System.Drawing.Size(65, 21);
             this.comboLang.TabIndex = 8;
@@ -463,19 +466,6 @@
             this.joystickTimer.Interval = 10;
             this.joystickTimer.Tick += new System.EventHandler(this.joystickTimer_Tick);
             // 
-            // Koenvh
-            // 
-            this.Koenvh.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
-            this.Koenvh.Location = new System.Drawing.Point(140, 516);
-            this.Koenvh.Name = "Koenvh";
-            this.Koenvh.Size = new System.Drawing.Size(156, 50);
-            this.Koenvh.TabIndex = 6;
-            this.Koenvh.TabStop = false;
-            this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
-            // 
             // currentGameTimer
             // 
             this.currentGameTimer.Interval = 3000;
@@ -486,7 +476,7 @@
             this.groupInstall.Controls.Add(this.installEts2Button);
             this.groupInstall.Controls.Add(this.installAtsButton);
             this.groupInstall.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.groupInstall.Location = new System.Drawing.Point(12, 428);
+            this.groupInstall.Location = new System.Drawing.Point(12, 472);
             this.groupInstall.Name = "groupInstall";
             this.groupInstall.Size = new System.Drawing.Size(413, 82);
             this.groupInstall.TabIndex = 9;
@@ -497,6 +487,7 @@
             // 
             this.installEts2Button.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.installEts2Button.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.installEts2Button.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.installEts2Button.Location = new System.Drawing.Point(213, 23);
             this.installEts2Button.Name = "installEts2Button";
             this.installEts2Button.Size = new System.Drawing.Size(190, 44);
@@ -509,6 +500,7 @@
             // 
             this.installAtsButton.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.installAtsButton.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.installAtsButton.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.installAtsButton.Location = new System.Drawing.Point(10, 23);
             this.installAtsButton.Name = "installAtsButton";
             this.installAtsButton.Size = new System.Drawing.Size(190, 44);
@@ -517,11 +509,46 @@
             this.installAtsButton.UseVisualStyleBackColor = true;
             this.installAtsButton.Click += new System.EventHandler(this.installAtsButton_Click);
             // 
+            // Koenvh
+            // 
+            this.Koenvh.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
+            this.Koenvh.Location = new System.Drawing.Point(140, 560);
+            this.Koenvh.Name = "Koenvh";
+            this.Koenvh.Size = new System.Drawing.Size(156, 50);
+            this.Koenvh.TabIndex = 6;
+            this.Koenvh.TabStop = false;
+            this.Koenvh.Click += new System.EventHandler(this.Koenvh_Click);
+            // 
+            // groupController
+            // 
+            this.groupController.Controls.Add(this.comboController);
+            this.groupController.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.groupController.Location = new System.Drawing.Point(12, 410);
+            this.groupController.Name = "groupController";
+            this.groupController.Size = new System.Drawing.Size(413, 56);
+            this.groupController.TabIndex = 10;
+            this.groupController.TabStop = false;
+            this.groupController.Text = "Controller";
+            // 
+            // comboController
+            // 
+            this.comboController.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.comboController.FormattingEnabled = true;
+            this.comboController.Location = new System.Drawing.Point(10, 22);
+            this.comboController.Name = "comboController";
+            this.comboController.Size = new System.Drawing.Size(393, 21);
+            this.comboController.TabIndex = 11;
+            this.comboController.SelectedIndexChanged += new System.EventHandler(this.comboController_SelectedIndexChanged);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 576);
+            this.ClientSize = new System.Drawing.Size(437, 620);
+            this.Controls.Add(this.groupController);
             this.Controls.Add(this.groupInstall);
             this.Controls.Add(this.comboLang);
             this.Controls.Add(this.Koenvh);
@@ -537,8 +564,9 @@
             this.groupSettings.ResumeLayout(false);
             this.groupSettings.PerformLayout();
             this.groupInfo.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).EndInit();
             this.groupInstall.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).EndInit();
+            this.groupController.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -585,5 +613,7 @@
         private System.Windows.Forms.GroupBox groupInstall;
         private System.Windows.Forms.Button installEts2Button;
         private System.Windows.Forms.Button installAtsButton;
+        private System.Windows.Forms.GroupBox groupController;
+        private System.Windows.Forms.ComboBox comboController;
     }
 }

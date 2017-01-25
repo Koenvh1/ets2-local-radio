@@ -10,7 +10,7 @@ namespace ETS2_Local_Radio_server
 {
     static class Log
     {
-        public static void Write(String lines)
+        public static void Write(string lines)
         {
 
             // Write the string to a file.append mode is enabled so that the log
@@ -26,6 +26,8 @@ namespace ETS2_Local_Radio_server
             {
                 MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
             }
+
+            Console.WriteLine(lines);
         }
 
         public static void Clear()

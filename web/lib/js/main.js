@@ -1,6 +1,4 @@
-﻿//current version:
-var version = "1.6.0";
-//current game (ats or ets2)
+﻿//current game (ats or ets2)
 var g_game = "ets2";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
@@ -39,10 +37,12 @@ function initialise() {
     });
 
     //Check updates:
-    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (data) {
-        if (data.version != version) {
-            $(".update").show();
-        }
+    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (dataRemote) {
+        $.getJSON("/version.json", function (dataLocal) {
+            if (dataLocal.version != dataRemote.version) {
+                $(".update").show();
+            }
+        });
     });
 
     if(!(getBrowser().firefox || getBrowser().edge)){

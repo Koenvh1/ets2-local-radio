@@ -44,6 +44,9 @@ namespace ETS2_Local_Radio_server
         public static string simulatorNotDriving = "Simulator running, let's get driving!";
         public static string simulatorRunning = "Simulator running!";
 
+        public static string installOverlay =
+            "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)";
+
         public static string currentGame = "ets2";
 
         public Main()
@@ -67,11 +70,11 @@ namespace ETS2_Local_Radio_server
             //Check plugins:
             if (PluginExists("ats"))
             {
-                installAtsButton.Enabled = false;
+                installAtsButton.Image = Resources.check;
             }
             if (PluginExists("ets2"))
             {
-                installEts2Button.Enabled = false;
+                installEts2Button.Image = Resources.check;
             }
             if (!PluginExists("ats") && !PluginExists("ets2"))
             {
@@ -93,6 +96,8 @@ namespace ETS2_Local_Radio_server
             volumeUpButtonTextBox.Text = ConfigurationManager.AppSettings["VolumeUpButton"];
             volumeDownButtonTextBox.Text = ConfigurationManager.AppSettings["VolumeDownButton"];
             makeFavouriteButtonTextbox.Text = ConfigurationManager.AppSettings["MakeFavouriteButton"];
+
+            comboController.SelectedText = ConfigurationManager.AppSettings["Controller"];
 
             //Start telemetry grabbing:
             Telemetry = new Ets2SdkTelemetry(250);
@@ -231,29 +236,43 @@ namespace ETS2_Local_Radio_server
             {
                 try
                 {
-                    string folder = folderDialog.SelectedPath;
-                    Directory.CreateDirectory(folder + @"\bin\win_x86\plugins");
-                    Directory.CreateDirectory(folder + @"\bin\win_x64\plugins");
+                    DialogResult result = MessageBox.Show(installOverlay, "ETS2 Local Radio server",
+                        MessageBoxButtons.YesNoCancel,
+                        MessageBoxIcon.Question);
 
-                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\plugins\ets2-telemetry.dll",
-                        folder + @"\bin\win_x86\plugins\ets2-telemetry.dll", true);
-                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\ets2-telemetry.dll",
-                        folder + @"\bin\win_x64\plugins\ets2-telemetry.dll", true);
-                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\d3d9.dll",
-                        folder + @"\bin\win_x86\d3d9.dll", true);
-                    File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\d3d9.dll",
-                        folder + @"\bin\win_x64\d3d9.dll", true);
-
-                    if (game == "ets2")
+                    if (result != DialogResult.Cancel)
                     {
-                        SaveAppSettings("Ets2Folder", folder);
-                    }
-                    if (game == "ats")
-                    {
-                        SaveAppSettings("AtsFolder", folder);
-                    }
+                        string folder = folderDialog.SelectedPath;
+                        Directory.CreateDirectory(folder + @"\bin\win_x86\plugins");
+                        Directory.CreateDirectory(folder + @"\bin\win_x64\plugins");
 
-                    return true;
+                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\plugins\ets2-telemetry.dll",
+                            folder + @"\bin\win_x86\plugins\ets2-telemetry.dll", true);
+                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\ets2-telemetry.dll",
+                            folder + @"\bin\win_x64\plugins\ets2-telemetry.dll", true);
+                        if (result == DialogResult.Yes)
+                        {
+                            File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\d3d9.dll",
+                                folder + @"\bin\win_x86\d3d9.dll", true);
+                            File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\d3d9.dll",
+                                folder + @"\bin\win_x64\d3d9.dll", true);
+                        }
+
+                        if (game == "ets2")
+                        {
+                            SaveAppSettings("Ets2Folder", folder);
+                        }
+                        if (game == "ats")
+                        {
+                            SaveAppSettings("AtsFolder", folder);
+                        }
+
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -286,12 +305,17 @@ namespace ETS2_Local_Radio_server
             try
             {
                 //Initialise joystick:
-                int index = 0;
-                if (ConfigurationManager.AppSettings["ControllerIndex"] != null)
+                string name = null;
+                if (ConfigurationManager.AppSettings["Controller"] != null)
                 {
-                    index = Int32.Parse(ConfigurationManager.AppSettings["ControllerIndex"]);
+                    name = ConfigurationManager.AppSettings["Controller"];
                 }
-                joystick = new SimpleJoystick(index);
+                joystick = new SimpleJoystick(name);
+
+                foreach (var item in joystick.AvailableDevices)
+                {
+                    comboController.Items.Add(item.InstanceName);
+                }
 
                 //Start joystick input timer:
                 joystickTimer.Start();
@@ -597,9 +621,11 @@ namespace ETS2_Local_Radio_server
                 volumeDownKeyLabel.Text = (server["volume-down-key"] ?? volumeDownKeyLabel.Text);
                 makeFavouriteKeyLabel.Text = (server["make-favourite-key"] ?? makeFavouriteKeyLabel.Text);
                 saveButton.Text = (server["save"] ?? saveButton.Text);
+                groupController.Text = (server["controller"] ?? groupController.Text);
                 groupInstall.Text = (server["install"] ?? groupInstall.Text);
                 installAtsButton.Text = (server["install-plugin-ats"] ?? installAtsButton.Text);
                 installEts2Button.Text = (server["install-plugin-ets2"] ?? installEts2Button.Text);
+                installOverlay = (server["install-overlay"] ?? installOverlay);
                 folderDialog.Description = (server["ets2-folder-dialog"] ?? folderDialog.Description);
                 Station.NowPlaying = (server["now-playing"] ?? Station.NowPlaying);
 
@@ -752,7 +778,7 @@ namespace ETS2_Local_Radio_server
         {
             if (ChooseFolder("ats"))
             {
-                installAtsButton.Enabled = false;
+                installAtsButton.Image = Resources.check;
                 groupInfo.Enabled = true;
                 groupSettings.Enabled = true;
             }
@@ -762,10 +788,17 @@ namespace ETS2_Local_Radio_server
         {
             if (ChooseFolder("ets2"))
             {
-                installEts2Button.Enabled = false;
+                installEts2Button.Image = Resources.check;
                 groupInfo.Enabled = true;
                 groupSettings.Enabled = true;
             }
+        }
+
+        private void comboController_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            SaveAppSettings("Controller", comboController.SelectedItem.ToString());
+
+            AttachJoystick();
         }
     }
 }
