@@ -13,8 +13,52 @@ and the Polish radio in Poland. It will switch automatically, and allow you to s
 4. Click the "Install plugin for Euro Truck Simulator/American Truck Simulator" button.
 5. Open ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
 
-Additionally, you may want to look at `config.js` and set some additional settings to make the make your experience even better.
+Additionally, you may want to look at the `web/config.js` file and set some additional settings to make the make your experience even better.
 Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game as well.
+
+## Troubleshooting: ##
+_Can't access it from another device_
+
+Please make sure your firewall is not blocking the connection.
+
+_It says the simulator is not running even though it is!_
+
+This might be due to the fact that a dependency was not loaded properly.
+Please try the following:
+* Restart the game
+* Open the `My Documents\{American Truck Simulator/Euro Truck Simulator 2}\game.log.txt` file,
+check whether it contains the following lines:
+```
+00:00:18.261 : loading 'ets2-telemetry' '/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
+00:00:18.262 : unable to load: 0000007E
+```
+* If that is the case, then please try installing the following:
+https://www.microsoft.com/en-gb/download/details.aspx?id=48145
+* If it contains something like this, then please contact me:
+```$xslt
+00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
+[...]
+00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
+00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: SCS_U32_NIL is not valid parameter for array channel 'truck.hshifter.select'
+00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: channel 'truck.electric.enabled' index 4294967295 has already callback for type 1
+00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.front' index 4294967295
+00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.roof' index 4294967295
+00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
+```
+
+
+_ETS2 Local Radio crashes!_
+
+Please open an issue or [contact me](http://koenvh.nl/contact)
+
+## How to uninstall it: ##
+
+Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
+You will need to manually remove the following files from the ETS2/ATS installation directory as well:
+* `\bin\win_x64\d3d9.dll` 
+* `\bin\win_x64\plugins\ets2-telemetry.dll`
+* `\bin\win_x86\d3d9.dll`
+* `\bin\win_x86\plugins\ets2-telemetry.dll`
 
 ## General information: ##
 
@@ -29,29 +73,6 @@ When a city from a different country is closer than the one currently connected 
 It shows all the transmission towers (the cities), with a range circle. 
 The black inner ring is the clear audio border (~20% static).
 Each country has its own (random) colour, to make it easier to see the difference between them.
-
-## Troubleshooting: ##
-_Can't access it from another device_
-
-Please make sure your firewall is not blocking the connection
-
-_It says the simulator is not running even though it is!_
-
-Please make sure the plugin is installed and working. Also try installing the following:
-https://www.microsoft.com/en-gb/download/details.aspx?id=48145
-
-_ETS2 Local Radio crashes!_
-
-Please open an issue or [contact me](http://koenvh.nl/contact)
-
-## How to uninstall it: ##
-
-Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
-You will need to manually remove the following files from the ETS2/ATS installation directory as well:
-* `\bin\win_x64\d3d9.dll` 
-* `\bin\win_x64\plugins\ets2-telemetry.dll`
-* `\bin\win_x86\d3d9.dll`
-* `\bin\win_x86\plugins\ets2-telemetry.dll`
 
 ## Thanks to: ##
 I could not have possibly done this alone, so thanks to the following people:
