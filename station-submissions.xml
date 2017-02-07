@@ -5,6 +5,51 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added KNCQ</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Пилот FM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added KNIX</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Added Real 92.3</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected Power 106FM</title>
+            <link>javascript:;</link>
+            <description>Stream is blocked outside the USA :-(</description>
+        </item>
+        <item>
+            <title>Added CHRI</title>
+            <link>javascript:;</link>
+            <description>Even though there is no in-game city to broadcast it yet</description>
+        </item>
+        <item>
+            <title>Rejected Radio Popular</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Romania</description>
+        </item>
+        <item>
+            <title>Rejected Radio WAWA</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Poland</description>
+        </item>
+        <item>
+            <title>Added Radio Monte Carlo</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>List not always updated</title>
             <link>javascript:;</link>
             <description>There have been quite a few mutations without feed update... Sorry for that.</description>

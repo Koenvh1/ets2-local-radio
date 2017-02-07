@@ -34,7 +34,7 @@ check whether it contains the following lines:
 ```
 * If that is the case, then please try installing the following:
 https://www.microsoft.com/en-gb/download/details.aspx?id=48145
-* If it contains something like this, then please contact me:
+* If it contains something like this:
 ```$xslt
 00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
 [...]
@@ -45,11 +45,14 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.roof' index 4294967295
 00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
 ```
+* Please check whether your volume slider is above 0%
+* Check whether a different browser (Firefox/Edge) does work
+* Try playing another station
 
 
 _ETS2 Local Radio crashes!_
 
-Please open an issue or [contact me](http://koenvh.nl/contact)
+Please open an issue or [contact me](http://koenvh.nl/contact). Include the `Error log.txt` file if possible.
 
 ## How to uninstall it: ##
 
