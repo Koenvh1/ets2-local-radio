@@ -15,6 +15,7 @@
     "waiting-coordinates": "Определение ваших координатов местоположения в игре...",
     "closest-city": "Ближайщий город: <span class='nearestCity'></span>, <span class='distance'></span> метров от вас",
     "amount-static": "Количество белого шума:",
+    "brightness": "Яркость:",
     "show-all": "Показать/спрятать все",
     "enter-peerid-title": "Ввести помер пира",
     "enter-peerid-body": "Пожалуйста, введите номер вашего пира в устройстве, в котором хотите подключиться:",

@@ -4760,6 +4760,14 @@ var cities_wip = [
         "z": "-35578.97"
     },
     {
+        "gameName": "ivalo",
+        "realName": "Ivalo",
+        "country": "finland",
+        "x": "40990.21",
+        "y": "48.16",
+        "z": "-102242.55"
+    },
+    {
         "gameName": "kaliningrad",
         "realName": "Калининград (Kaliningrad)",
         "country": "russia",
@@ -4886,6 +4894,14 @@ var cities_wip = [
         "x": "39371.95",
         "y": "43.43",
         "z": "-108070.61"
+    },
+    {
+        "gameName": "verkhnetulom",
+        "realName": "Верхнетуломский (Verkhnetulomsky)",
+        "country": "russia",
+        "x": "50698.77",
+        "y": "-27.02",
+        "z": "-101567.13"
     },
 ];
 

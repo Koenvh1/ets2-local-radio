@@ -99,6 +99,23 @@ var stations = {
             logo: "stations/images-america/camp_verde/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
+        {
+            name: "KDSS",
+            logo: "stations/images-america/ely/KDSS.jpg",
+            url: "http://208.70.75.109:8100/stream"
+        },
+        {
+            name: "Pilgrim Radio",
+            logo: "stations/images-america/ely/Pilgrim Radio.png",
+            url: "http://stream.us.gslb.liquidcompass.net/KNISFMAAC?ats=1"
+        },
+        /*
+        {
+            name: "FM 100.3",
+            logo: "stations/images-america/ely/FM 100.3.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSFIFM"
+        },
+        */
     ],
     "el_centro": [
         {
@@ -284,6 +301,11 @@ var stations = {
             logo: "stations/images-america/los_angeles/KOST.png",
             url: "http://kost-fm.akacast.akamaistream.net/7/103/19775/v1/auth.akacast.akamaistream.net/kost-fm"
         },
+        {
+            name: "Real 92.3",
+            logo: "stations/images-america/los_angeles/Real 92.3.jpg",
+            url: "http://khht-fm.akacast.iheart.com/7/159/19772/v1/auth.akacast.akamaistream.net/khht-fm"
+        },
     ],
     "nogales": [
         {
@@ -357,12 +379,27 @@ var stations = {
             url: "http://koy-am.akacast.akamaistream.net/7/516/19755/v1/auth.akacast.akamaistream.net/koy-am"
         },
         {
+            name: "KNIX",
+            logo: "stations/images-america/phoenix/KNIX.png",
+            url: "http://knix-fm.akacast.iheart.com/7/587/19754/v1/auth.akacast.akamaistream.net/knix-fm"
+        },
+        {
             name: "MiX 96.9",
             logo: "stations/images-america/phoenix/MiX 96.9.png",
             url: "http://kmxp-fm.akacast.akamaistream.net/7/174/19753/v1/auth.akacast.akamaistream.net/kmxp-fm"
         },
     ],
     "pioche": [
+        {
+            name: "Nevada Public Radio",
+            logo: "stations/images-america/pioche/Nevada Public Radio.png",
+            url: "http://66.209.79.122:8000/;"
+        },
+        {
+            name: "B92.1 Today's Hit Music",
+            logo: "stations/images-america/pioche/B92.1 Today's Hit Music.png",
+            url: "http://ice10.securenetsystems.net/KXBNFM"
+        },
         {
             name: "SOS radio",
             logo: "stations/images-america/pioche/SOS radio.png",
@@ -386,6 +423,11 @@ var stations = {
             name: "K-SHASTA",
             logo: "stations/images-america/redding/K-SHASTA.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSHAFM"
+        },
+        {
+            name: "KNCQ",
+            logo: "stations/images-america/redding/KNCQ.png",
+            url: "http://stream.abacast.net/direct/resultsradio-kncqfmaac-ibc3"
         },
     ],
     "reno": [
@@ -626,7 +668,14 @@ var stations = {
             logo: "stations/images-america/yuma/KBLU.jpg",
             url: "http://65.19.131.139/eldorado-kbluamaac-ibc2?session-id=2076409571"
         },
-    ]
+    ],
+    "canada": [
+        {
+            name: "CHRI",
+            logo: "stations/images-america/other/CHRI.png",
+            url: "http://chrica-lol.dyndns.org:8000/xstream"
+        },
+    ],
     /*
     "arizona": [
         {

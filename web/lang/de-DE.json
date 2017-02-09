@@ -16,6 +16,7 @@
     "waiting-coordinates": "Warte auf Deine Spiel-Koordinaten...",
     "closest-city": "Nächste Stadt: <span class='nearestCity'></span>, <span class='distance'></span> Meter entfernt",
     "amount-static": "Stärke des Rauschens:",
+    "brightness": "Helligkeit:",
     "show-all": "Alle anzeigen an/aus",
     "enter-peerid-title": "PeerID eingeben",
     "enter-peerid-body": "Bitte gib die PeerID ein, die Du auf dem zu verbindenden Gerät siehst:",

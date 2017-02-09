@@ -118,7 +118,12 @@ var stations = {
             name: "Новое Радио",
             logo: "stations/images-europe/belarus/Новое Радио.jpg",
             url: "http://www.live.bn.by:8000/novoeradio_128"
-        }
+        },
+        {
+            name: "Пилот FM",
+            logo: "stations/images-europe/belarus/Пилот FM.png",
+            url: "http://pf.volna.top/PilotBy128"
+        },
     ],
     "belgium-nl": [
         {
@@ -1168,6 +1173,11 @@ var stations = {
             url: "http://ice06.fluidstream.net:8080/KissKiss.mp3"
         },
         {
+            name: "Radio Monte Carlo",
+            logo: "stations/images-europe/italy/Radio Monte Carlo.png",
+            url: "http://icecast.unitedradio.it/RMC.mp3"
+        },
+        {
             name: "RTL 102.5",
             logo: "stations/images-europe/italy/RTL 102.5.jpg",
             url: "http://shoutcast.rtl.it:3010/stream/1/"
@@ -1177,22 +1187,22 @@ var stations = {
         {
             name: "Latvijas Radio 1",
             logo: "stations/images-europe/latvia/Latvijas Radio 1.png",
-            url: "http://lr1mp1.latvijasradio.lv:8012/;"
+            url: "http://muste.radio.org.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8"
         },
         {
             name: "Latvijas Radio 2",
             logo: "stations/images-europe/latvia/Latvijas Radio 2.png",
-            url: "http://lr2mp1.latvijasradio.lv:8002/;"
+            url: "http://muste.radio.org.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8"
         },
         {
             name: "Latvijas Radio 3 Klasika",
             logo: "stations/images-europe/latvia/Latvijas Radio 3 Klasika.png",
-            url: "http://lr3mp0.latvijasradio.lv:8004/;"
+            url: "http://muste.radio.org.lv/shoutcast/mp4:lr3a.stream/playlist.m3u8"
         },
         {
             name: "Latvijas Radio 4 Домская Площадь",
             logo: "stations/images-europe/latvia/Latvijas Radio 4 Домская Площадь.png",
-            url: "http://lr4mp1.latvijasradio.lv:8020/;"
+            url: "http://muste.radio.org.lv/shoutcast/mp4:lr4a.stream/playlist.m3u8"
         },
         {
             name: "EHR",
@@ -1231,7 +1241,7 @@ var stations = {
         },
         {
             name: "TOPradio",
-            logo: "stations/images-europe/latvia/TOPradio.jpg",
+            logo: "stations/images-europe/latvia/TOPradio.png",
             url: "http://195.13.200.164:8000/;"
         },
     ],

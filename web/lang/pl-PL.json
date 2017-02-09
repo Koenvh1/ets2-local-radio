@@ -15,6 +15,7 @@
     "waiting-coordinates": "Oczekiwanie na współrzędne z gry...",
     "closest-city": "Najbliższe miasto to <span class='nearestCity'></span>, <span class='distance'></span> metrów stąd",
     "amount-static": "Siła zakłóceń:",
+    "brightness": "Jasność:",
     "show-all": "Przełącz pokazywanie wszystkich",
     "enter-peerid-title": "Wpisz PeerID",
     "enter-peerid-body": "Wpisz proszę PeerID urządzenia, z którym chcesz się połączyć",

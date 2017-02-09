@@ -113,6 +113,16 @@ namespace ETS2_Local_Radio_server.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap overlay_double {
+            get {
+                object obj = ResourceManager.GetObject("overlay_double", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap signal_0 {
             get {
                 object obj = ResourceManager.GetObject("signal_0", resourceCulture);

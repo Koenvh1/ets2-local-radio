@@ -175,7 +175,7 @@ namespace ETS2_Local_Radio_server
         private void Process(HttpListenerContext context)
         {
             string filename = context.Request.Url.AbsolutePath;
-            Console.WriteLine(filename);
+            //Console.WriteLine(filename);
             if (filename.Contains("?"))
             {
                 filename = filename.Split("?".ToCharArray())[0];
@@ -201,10 +201,18 @@ namespace ETS2_Local_Radio_server
 
             if (context.Request.Url.AbsolutePath.StartsWith("/station/"))
             {
-                string station = context.Request.Url.AbsolutePath;
+                string station = context.Request.Url.AbsoluteUri;
                 station = WebUtility.UrlDecode(station);
-                station = station.Replace("/station/", "").Replace("/", "");
-                Station.SetStation(station);
+                station = station.Split(new string[] { "/station/" }, StringSplitOptions.None)[1];
+                Console.WriteLine(station);
+                try
+                {
+                    Station.SetStation(station.Split("/".ToCharArray())[0], station.Split("/".ToCharArray())[1], station.Split("?".ToCharArray())[1]);
+                }
+                catch (Exception)
+                {
+                    Station.SetStation(station.Split("/".ToCharArray())[0], "0");
+                }
 
                 string text = "{\"Success\": true}";
 

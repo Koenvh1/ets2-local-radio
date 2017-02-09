@@ -16,6 +16,7 @@
     "waiting-coordinates": "Op zoek naar de coördinaten in het spel...",
     "closest-city": "Dichtstbijzijnde stad: <span class='nearestCity'></span>, op <span class='distance'></span> meter afstand",
     "amount-static": "Hoeveelheid ruis:",
+    "brightness": "Helderheid:",
     "show-all": "Alles bekijken in- of uitschakelen",
     "enter-peerid-title": "Voer het PeerID in",
     "enter-peerid-body": "Voer alstublieft het PeerID van het apparaat waarmee u wilt verbinden in:",

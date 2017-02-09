@@ -166,3 +166,15 @@ body {
 .play-button:hover {
     opacity: 1;
 }
+
+.brightness {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 9000;
+    opacity: 0;
+    background-color: black;
+    pointer-events: none;
+}

@@ -118,7 +118,13 @@ namespace ETS2_Local_Radio_server
             //Load IP addresses:
             LoadAddresses();
 
-            AttachJoystick();
+            if (AttachJoystick())
+            {
+                foreach (var item in joystick.AvailableDevices)
+                {
+                    comboController.Items.Add(item.InstanceName);
+                }
+            }
 
             currentGameTimer.Start();
 
@@ -300,7 +306,7 @@ namespace ETS2_Local_Radio_server
             comboIP.SelectedIndex = 0;
         }
 
-        private void AttachJoystick()
+        private bool AttachJoystick()
         {
             try
             {
@@ -311,18 +317,16 @@ namespace ETS2_Local_Radio_server
                     name = ConfigurationManager.AppSettings["Controller"];
                 }
                 joystick = new SimpleJoystick(name);
-
-                foreach (var item in joystick.AvailableDevices)
-                {
-                    comboController.Items.Add(item.InstanceName);
-                }
+                //comboController.SelectedText = ConfigurationManager.AppSettings["Controller"];
 
                 //Start joystick input timer:
                 joystickTimer.Start();
+                return true;
             }
             catch (Exception ex)
             {
                 Log.Write(ex.ToString());
+                return false;
             }
         }
 

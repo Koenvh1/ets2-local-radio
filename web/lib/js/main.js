@@ -62,6 +62,9 @@ function initialise() {
         $.getJSON("api/", function (data) {
             refresh(data);
         });
+    }, 1000);
+
+    setInterval(function () {
         $.getJSON("commands/").done(function (data) {
             if(data.language != g_language){
                 console.log(data.language);
@@ -235,7 +238,7 @@ function refresh(data) {
             refreshStations();
         }
 
-        if (Object.keys(available_countries).sort().toString() != Object.keys(g_countries).sort().toString()) {
+        if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
             //If they don't contain the same keys (ie. a country update)
             g_countries = available_countries;
 
@@ -313,7 +316,7 @@ function setRadioStation(url, country, volume) {
     document.getElementById('whitenoise').play();
     $("#stopPlayback").attr("src", "lib/img/stop-button.png");
 
-    $.get("station/" + stations[country][index].name);
+    $.get("station/" + stations[country][index].name + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -411,6 +414,24 @@ function nextStation(amount) {
     }
 }
 
+function calculateReception(whitenoise) {
+    var reception = Math.pow(parseFloat(whitenoise), 2) - 0.15;
+    if(reception  < 0.05){
+        reception = "5";
+    } else if(reception < 0.20){
+        reception = "4";
+    } else if(reception < 0.35){
+        reception = "3";
+    } else if(reception < 0.50){
+        reception = "2";
+    } else if(reception < 0.75){
+        reception = "1";
+    } else {
+        reception = "0";
+    }
+    return reception;
+}
+
 function refreshStations() {
     var content = "";
     var available_stations = [];
@@ -445,20 +466,7 @@ function refreshStations() {
                 }
                 */
 
-                var reception = Math.pow(parseFloat(g_countries[key]["whitenoise"]), 2) - 0.15;
-                if(reception  < 0.05){
-                    reception = "5";
-                } else if(reception < 0.20){
-                    reception = "4";
-                } else if(reception < 0.35){
-                    reception = "3";
-                } else if(reception < 0.50){
-                    reception = "2";
-                } else if(reception < 0.75){
-                    reception = "1";
-                } else {
-                    reception = "0";
-                }
+                var reception = calculateReception(g_countries[key]["whitenoise"]);
 
                 content +=
                     '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
@@ -503,11 +511,35 @@ if (!String.prototype.endsWith) {
     };
 }
 
+/*
 function sortObject(obj) {
     return Object.keys(obj).sort().reduce(function (result, key) {
         result[key] = obj[key];
         return result;
     }, {});
+}
+*/
+
+function sortObject(obj) {
+    var arr = [];
+    var prop;
+    for (prop in obj) {
+        if (obj.hasOwnProperty(prop)) {
+            arr.push({
+                'key': prop,
+                'value': obj[prop]
+            });
+        }
+    }
+    arr.sort(function(a, b) {
+        return a.value.distance - b.value.distance;
+    });
+    var result = {};
+    for(var i = 0; i < arr.length; i++){
+        result[arr[i].key] = obj[arr[i].key];
+    }
+    return result;
+   // return arr; // returns array
 }
 
 function getBrowser() {

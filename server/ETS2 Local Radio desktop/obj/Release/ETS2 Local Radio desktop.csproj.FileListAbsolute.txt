@@ -28,3 +28,6 @@ F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.exe
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Release\ETS2 Local Radio server.pdb
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\SlimDX.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Svg.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Svg.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Release\Svg.xml

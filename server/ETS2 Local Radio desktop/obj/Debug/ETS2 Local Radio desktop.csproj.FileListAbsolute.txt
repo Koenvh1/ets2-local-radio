@@ -39,3 +39,6 @@ F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Debug\ETS2_Local_Radio_server.Splash.resources
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\obj\Debug\ETS2 Local Radio desktop.csproj.GenerateResource.Cache
 F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Debug\SlimDX.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Debug\Svg.dll
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Debug\Svg.pdb
+F:\Mods\ETS2 Mods\ETS2 Map Capture Tool\ets2-local-radio\server\ETS2 Local Radio desktop\bin\Debug\Svg.xml
