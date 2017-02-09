@@ -48,6 +48,9 @@ https://www.microsoft.com/en-gb/download/details.aspx?id=48145
 * Please check whether your volume slider is above 0%
 * Check whether a different browser (Firefox/Edge) does work
 * Try playing another station
+* If it does not contain `loading 'ets2-telemetry'`, 
+then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
+`\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
 
 
 _ETS2 Local Radio crashes!_
@@ -90,6 +93,10 @@ I could not have possibly done this alone, so thanks to the following people:
 ![Screenshot](http://i.imgur.com/bBpaPy0.png)
 
 _The server window_
+
+![Screenshot](http://i.imgur.com/5naBcXw.jpg)
+
+_The in-game view when switching stations (if the overlay is installed)_
 
 ![Screenshot](http://i.imgur.com/qhCsYcy.png)
 
