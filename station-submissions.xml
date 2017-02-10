@@ -5,6 +5,31 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added RAI IsoRadio</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected KSFM 102.5</title>
+            <link>javascript:;</link>
+            <description>Stream is blocked outside the USA :-(</description>
+        </item>
+        <item>
+            <title>Added KDEE-LP 97.5</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected 94.7 The Wave</title>
+            <link>javascript:;</link>
+            <description>Stream is blocked outside the USA :-(</description>
+        </item>
+        <item>
+            <title>Rejected Radio Park FM</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Poland</description>
+        </item>
+        <item>
             <title>Added KNCQ</title>
             <link>javascript:;</link>
             <description></description>
