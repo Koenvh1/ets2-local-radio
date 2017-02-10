@@ -1604,12 +1604,12 @@ var stations = {
         {
             name: "Radio Złote Przeboje",
             logo: "stations/images-europe/poland/Radio Złote Przeboje.png",
-            url: "http://bialystok.radio.pionier.net.pl:8000/pl/zloteprzeboje.ogg"
+            url: "http://lodz.radio.pionier.net.pl:8000/pl/tuba9-1.mp3"
         },
         {
             name: "RMF FM",
             logo: "stations/images-europe/poland/RMF FM.svg",
-            url: "http://195.150.20.244:8000/rmf_fm"
+            url: "http://31.192.216.10/RMFFM48"
         },
         {
             name: "RMF MAXXX",
