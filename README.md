@@ -5,6 +5,8 @@ and the Polish radio in Poland. It will switch automatically, and allow you to s
 
 **Some radio stations may not work with Internet Explorer, Opera or Chrome. Please try using Edge or Firefox.**
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAX2AA9B85BAE)
+
 ## How to install it: ##
 
 1. Download ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
