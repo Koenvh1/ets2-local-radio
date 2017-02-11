@@ -1148,6 +1148,11 @@ var stations = {
             url: "http://icestreaming.rai.it/4.mp3"
         },
         {
+            name: "RAI IsoRadio",
+            logo: "stations/images-europe/italy/RAI IsoRadio.png",
+            url: "http://icestreaming.rai.it/12.mp3"
+        },
+        {
             name: "M2o",
             logo: "stations/images-europe/italy/M2o.gif",
             url: "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8"
@@ -1598,7 +1603,7 @@ var stations = {
         },
         {
             name: "Radio Zet",
-            logo: "stations/images-europe/poland/Radio Zet.png",
+            logo: "stations/images-europe/poland/Radio Zet.svg",
             url: "http://zet-old.cdn.eurozet.pl:8082/;"
         },
         {

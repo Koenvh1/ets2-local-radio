@@ -458,6 +458,11 @@ var stations = {
             logo: "stations/images-america/sacramento/Capital Public Radio.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },
+        {
+            name: "KDEE-LP 97.5",
+            logo: "stations/images-america/sacramento/KDEE-LP 97.5.jpg",
+            url: "http://50.22.253.46/kdee-fm"
+        },
     ],
     "santa_cruz": [
         {
@@ -627,7 +632,7 @@ var stations = {
         {
             name: "The Coast",
             logo: "stations/images-america/ukiah/The Coast.png",
-            url: "http://23.22.225.188/caradio-koztfmaac-ibc3?session-id=763078724"
+            url: "http://54.161.28.174/caradio-koztfmaac-ibc3"
         },
         {
             name: "Family Radio West Coast",
