@@ -4,6 +4,7 @@ ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion
 and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
 
 **Some radio stations may not work with Internet Explorer, Opera or Chrome. Please try using Edge or Firefox.**
+**If the playback in Edge stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.**
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAX2AA9B85BAE)
 
