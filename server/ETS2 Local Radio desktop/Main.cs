@@ -423,7 +423,7 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["PreviousKey"], true))
+                if (ConfigurationManager.AppSettings["PreviousKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["PreviousKey"], true))
                 {
                     Console.WriteLine("Fired event PreviousKey");
                     keyTimeout.Stop();
@@ -431,32 +431,32 @@ namespace ETS2_Local_Radio_server
                     keyTimeout.Start();
                 }
 
-                if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["NextKey"], true))
+                if (ConfigurationManager.AppSettings["NextKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["NextKey"], true))
                 {
                     Console.WriteLine("Fired event NextKey");
                     keyTimeout.Stop();
                     amount++;
                     keyTimeout.Start();
                 }
-                if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["StopKey"], true))
+                if (ConfigurationManager.AppSettings["StopKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["StopKey"], true))
                 {
                     Console.WriteLine("Fired event StopKey");
 
                     writeFile("stop", "0");
                 }
-                if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeUpKey"], true))
+                if (ConfigurationManager.AppSettings["VolumeUpKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeUpKey"], true))
                 {
                     Console.WriteLine("Fired event VolumeUpKey");
 
                     writeFile("volume", "5");
                 }
-                if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeDownKey"], true))
+                if (ConfigurationManager.AppSettings["VolumeDownKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeDownKey"], true))
                 {
                     Console.WriteLine("Fired event VolumeDownKey");
 
                     writeFile("volume", "-5");
                 }
-                if (e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["MakeFavouriteKey"], true))
+                if (ConfigurationManager.AppSettings["MakeFavouriteKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["MakeFavouriteKey"], true))
                 {
                     Console.WriteLine("Fired event MakeFavouriteKey");
 
