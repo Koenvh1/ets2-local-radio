@@ -19,6 +19,8 @@ and the Polish radio in Poland. It will switch automatically, and allow you to s
 Additionally, you may want to look at the `web/config.js` file and set some additional settings to make the make your experience even better.
 Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game as well.
 
+Make a station favourite to always switch to that station when entering the country it's located in.
+
 ## Troubleshooting: ##
 _Can't access it from another device_
 
