@@ -44,7 +44,7 @@
     "install": "Installa plugin",
     "install-plugin-ets2": "Installa il plugin per\nEuro Truck Simulator 2",
     "install-plugin-ats": "Installa il plugin per\nAmerican Truck Simulator",
-    "install-overlay": "Vuoi installare l'Overlay in game?\n(Questo sovvrascrive il file d3d9.dll esistente, e provocare crash al gioco in rari casi mentre si esce dal gioco)",
+    "install-overlay": "Vuoi installare l'Overlay in game?\n(Questo sovvrascrive il file d3d9.dll esistente, e provoca crash in rari casi mentre si esce dal gioco)",
     "ets2-folder-dialog": "Prego selezionare la cartella di ETS2/ATS. (default C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator})",
     "now-playing": "Now playing:"
   }
