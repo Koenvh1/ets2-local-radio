@@ -7,6 +7,7 @@
     "stop-playback": "Interrompi playback",
     "stations": "Stazioni:",
     "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
+    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
     "update-available": "Aggiornamento Disponibile!",
     "update-now": "Aggiorna adesso",
     "controlled-remotely": "Questo player viene controllato da remoto",
@@ -24,7 +25,7 @@
   "server": {
     "info": "Info",
     "status": "Status:",
-    "simulator-not-running": "Il simulatore non è; in esecuzione",
+    "simulator-not-running": "Il simulatore non è; in esecuzione;",
     "simulator-not-driving": "Simulatore in esecuzione, cominciamo a guidare!",
     "simulator-running": "Il simulatore è; in esecuzione!",
     "coordinates": "Coordinate:",

@@ -7,6 +7,7 @@
     "stop-playback": "Zatrzymaj odtwarzanie",
     "stations": "Stacje:",
     "unsupported-browser": "Twoja przeglądarka może nie wspierać wszystkich stacji radiowych. Proszę, otwórz ETS2 Local Radio w Mozilli Firefox lub Microsoft Edge.",
+    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
     "update-available": "Aktualizacja jest dostępna!",
     "update-now": "Aktualizuj teraz",
     "controlled-remotely": "Ten odtwarzacz jest sterowany zdalnie",

@@ -7,6 +7,7 @@
     "stop-playback": "Lõpeta mängimine",
     "stations": "Jaamad:",
     "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
+    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
     "update-available": "Uuendus on saadaval!",
     "update-now": "Uuenda nüüd",
     "controlled-remotely": "See pleier on distantsjuhtimise all",
