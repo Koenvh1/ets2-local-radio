@@ -166,17 +166,17 @@ var stations = {
         {
             name: "RTBF La Première",
             logo: "stations/images-europe/belgium-fr/RTBF La Première.png",
-            url: "http://ice1.infomaniak.ch:80/lapremiere-128.mp3"
+            url: "http://lapremiere.ice.rtbf.be/lapremiere-64.aac"
         },
         {
             name: "RTBF Classic 21",
             logo: "stations/images-europe/belgium-fr/RTBF Classic 21.png",
-            url: "http://ice4.infomaniak.ch:80/classic21-128.mp3"
+            url: "http://lapremiere.ice.rtbf.be/classic21-64.aac"
         },
         {
             name: "RTBF Pure FM",
             logo: "stations/images-europe/belgium-fr/RTBF Pure FM.png",
-            url: "http://ice5.infomaniak.ch:80/purefm-128.mp3"
+            url: "http://lapremiere.ice.rtbf.be/purefm-64.aac"
         },
         {
             name: "Bel RTL",
@@ -1403,22 +1403,22 @@ var stations = {
     "netherlands": [
         {
             name: "NPO Radio 1",
-            logo: "stations/images-europe/netherlands/NPO Radio 1.svg",
+            logo: "stations/images-europe/netherlands/NPO Radio 1.png",
             url: "http://icecast.omroep.nl/radio1-bb-mp3"
         },
         {
             name: "NPO Radio 2",
-            logo: "stations/images-europe/netherlands/NPO Radio 2.svg",
+            logo: "stations/images-europe/netherlands/NPO Radio 2.png",
             url: "http://icecast.omroep.nl/radio2-bb-mp3"
         },
         {
             name: "NPO 3FM",
-            logo: "stations/images-europe/netherlands/NPO 3FM.svg",
+            logo: "stations/images-europe/netherlands/NPO 3FM.png",
             url: "http://icecast.omroep.nl/3fm-bb-mp3"
         },
         {
             name: "NPO Radio 4",
-            logo: "stations/images-europe/netherlands/NPO Radio 4.svg",
+            logo: "stations/images-europe/netherlands/NPO Radio 4.png",
             url: "http://icecast.omroep.nl/radio4-bb-mp3"
         },
         /*
@@ -1455,7 +1455,7 @@ var stations = {
         },
         {
             name: "Radio 538",
-            logo: "stations/images-europe/netherlands/Radio 538.svg",
+            logo: "stations/images-europe/netherlands/Radio 538.png",
             url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
         },
         {
@@ -1754,6 +1754,11 @@ var stations = {
             name: "Эхо Москвы",
             logo: "stations/images-europe/russia/Эхо Москвы.svg",
             url: "http://81.19.85.197/echo.mp3"
+        },
+        {
+            name: "Юмор FM",
+            logo: "stations/images-europe/russia/Юмор FM.png",
+            url: "http://ic3.101.ru:8000/v5_1"
         },
     ],
     "scotland": [
