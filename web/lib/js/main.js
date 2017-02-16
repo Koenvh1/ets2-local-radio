@@ -47,6 +47,8 @@ function initialise() {
 
     if(!(getBrowser().firefox || getBrowser().edge)){
         $(".unsupported-browser").show();
+    } else if (getBrowser().edge) {
+        $(".microsoft-edge").show();
     }
 
     if (localStorage.getItem("volume") == null) {

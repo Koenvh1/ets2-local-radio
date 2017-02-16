@@ -51,6 +51,10 @@ body {
     display: none;
 }
 
+.microsoft-edge {
+    display: none;
+}
+
 .label-id {
     float: right;
     font-size: 100%;
