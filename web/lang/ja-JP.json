@@ -8,7 +8,7 @@
     "volume": "ボリューム",
     "stations": "放送局",
     "unsupported-browser": "このブラウザでは再生できない場合があります。Mozilla FirefoxかMicrosoft Edgeで開いてください。",
-    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
+    "microsoft-edge": "ウィンドウを最小化すると再生が止まる場合は、Windowsの設定 > プライバシー > バックグラウンドアプリからMicrosoft Edgeのバックグラウンド実行をオンにしてください。",
     "update-available": "アップデートがあります",
     "update-now": "アップデートする",
     "controlled-remotely": "このプレーヤーは別のデバイスから操作されています",
