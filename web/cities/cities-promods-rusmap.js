@@ -2594,14 +2594,6 @@ var cities = [
         "z": "13123.5"
     },
     {
-        "gameName": "napapiiri",
-        "realName": "Napapiiri",
-        "country": "finland",
-        "x": "41580.4",
-        "y": "120",
-        "z": "-92240.3"
-    },
-    {
         "gameName": "narbonne",
         "realName": "Narbonne",
         "country": "france",
@@ -3245,6 +3237,14 @@ var cities = [
         "gameName": "sthelier",
         "realName": "St Helier",
         "country": "uk",
+        "x": "-47502.3",
+        "y": "66.7031",
+        "z": "2063.23"
+    },
+    {
+        "gameName": "sthelier",
+        "realName": "St Helier",
+        "country": "france",
         "x": "-47502.3",
         "y": "66.7031",
         "z": "2063.23"
