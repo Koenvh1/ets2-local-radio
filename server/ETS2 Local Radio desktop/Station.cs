@@ -13,6 +13,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.Remoting.Channels;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web;
 using System.Windows.Forms;
 using ETS2_Local_Radio_server.Properties;
 using Svg;
@@ -178,6 +179,7 @@ namespace ETS2_Local_Radio_server
                         }
                         catch (Exception ex)
                         {
+                            Log.Write(logoPath);
                             Log.Write(ex.ToString());
                         }
                     }
