@@ -540,6 +540,11 @@ var stations = {
         },
         */
         {
+            name: "Radio Nostalgia",
+            logo: "stations/images-europe/finland/Radio Nostalgia.png",
+            url: "http://cdn.nrjaudio.fm/adwz1/fi/35059/mp3_128.mp3"
+        },
+        {
             name: "Radio Nova",
             logo: "stations/images-europe/finland/Radio Nova.svg",
             url: "http://stream3.bauermedia.fi/nova.mp3"
