@@ -297,7 +297,7 @@ function setRadioStation(url, country, volume) {
             }
             setTimeout(function () {
                 $("#switchStation").animate({volume: 0}, 200);
-                $("#player").animate({volume: 1}, 50, function () {
+                $("#player").animate({volume: g_volume}, 50, function () {
                     g_whitenoise = g_skinConfig.whitenoise;
                 });
             }, 2200);
