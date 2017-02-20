@@ -24,6 +24,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Game:",
     "status": "Stav:",
     "simulator-not-running": "Simulátor zatiaľ nie je spustený",
     "simulator-not-driving": "Simulátor beží, poďme jazdiť!",
