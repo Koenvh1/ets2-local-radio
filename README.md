@@ -107,6 +107,6 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _All available stations in ATS as of 1.6.0_
 
-![Screenshot](http://i.imgur.com/NBPME4e.png)
+![Screenshot](http://i.imgur.com/NVxHwiP.png)
 
-_All available stations in ETS2 as of 1.4.0_
+_All available stations in ETS2 as of 1.8.0_
