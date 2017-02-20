@@ -7,8 +7,8 @@
     "stop-playback": "Abspielen beenden",
     "volume": "Lautstärke",
     "stations": "Stationen:",
-    "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
-    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
+    "unsupported-browser": "Dein Browser unterstützt nicht alle Radiostationen. Bitte öffne ETS2 Local Radio entweder im Mozilla Firefox oder Microsoft Edge.",
+    "microsoft-edge": "Wenn das Abspielen beim Miniieren des Fensters stoppt, musst Du Microsoft Edge erlauben als Hintergrundapp zu laufen: Windows-Einstellungen > Datenschutz > Hintergrund-Apps.",
     "update-available": "Ein Update ist verfügbar!",
     "update-now": "Jetzt updaten",
     "controlled-remotely": "Dieser Player wird ferngesteuert",
@@ -47,7 +47,7 @@
     "install": "Installiere das Plugin",
     "install-plugin-ets2": "Installiere das Plugin für\nEuro Truck Simulator 2",
     "install-plugin-ats": "Installiere das Plugin für\nAmerican Truck Simulator",
-    "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
+    "install-overlay": "Möchtest Du die Spieleinblendungen installieren?\n(Dies überschreibt eine existierende d3d9.dll und kann in seltenen Fällen zu Spielabstürzen beim Beenden des Spiels führen)",
     "ets2-folder-dialog": "Wähle bitte das Installationsverzeichnis von ETS2/ATS aus, in der Regel C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Jetzt läuft:"
   }
