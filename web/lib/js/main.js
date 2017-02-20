@@ -226,18 +226,20 @@ function refresh(data) {
 
             //Check if there is a favourite station:
             var index = 0;
-            if (localStorage.getItem("fav-" + country_lowest_distance) !== null) {
-                index = stations[country_lowest_distance].map(function (e) {
-                    return e.name;
-                }).indexOf(localStorage.getItem("fav-" + country_lowest_distance));
-            }
-            if(!controlRemote) {
-                //If remote player, don't set radio station
-                setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
-            } else {
-                g_current_url = stations[country_lowest_distance][index]["url"];
-            }
-            refreshStations();
+            $.getJSON("/favourite/" + country_lowest_distance, function (favourite_lowest_distance) {
+                if (favourite_lowest_distance["Name"] != null) {
+                    index = stations[country_lowest_distance].map(function (e) {
+                        return e.name;
+                    }).indexOf(favourite_lowest_distance["Name"]);
+                }
+                if(!controlRemote) {
+                    //If remote player, don't set radio station
+                    setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+                } else {
+                    g_current_url = stations[country_lowest_distance][index]["url"];
+                }
+                refreshStations();
+            });
         }
 
         if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
@@ -245,6 +247,13 @@ function refresh(data) {
             g_countries = available_countries;
 
             refreshStations();
+            /*
+            for(var key in g_countries){
+                $.getJSON("/favourite/" + key, function (data) {
+                   g_countries[country_lowest_distance]["favourite"] = data["Name"];
+                });
+            }
+            */
         } else {
             setWhitenoise(available_countries[g_current_country]["whitenoise"]);
             g_countries = available_countries;
@@ -358,8 +367,9 @@ function setFavouriteStation(country, name) {
             name: name
         }));
     } else {
-        localStorage.setItem("fav-" + country, name);
-        refreshStations();
+        $.get("/favourite/" + country + "/" + name, function(){
+            refreshStations();
+        });
         //alert("Favourite for " + country.toUpperCase() + " is now " + name);
     }
 }
@@ -483,7 +493,8 @@ function refreshStations() {
                     '</div>' +
                     '<div class="play-button"></div>' +
                     '</div>' +
-                    ((localStorage.getItem("fav-" + key) == stations[key][j]['name']) ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\')">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
+                        //(localStorage.getItem("fav-" + key) == stations[key][j]['name'])
+                    (1 == 2 ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\'); $(this).css(\'background-color\', \'#2ebb1e\');">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
                     '</div>';
             }
         }

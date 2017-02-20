@@ -103,6 +103,7 @@
   <ItemGroup>
     <Compile Include="Commands.cs" />
     <Compile Include="Coordinates.cs" />
+    <Compile Include="Favourites.cs" />
     <Compile Include="Joystick.cs" />
     <Compile Include="Language.cs" />
     <Compile Include="Log.cs" />

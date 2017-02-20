@@ -99,6 +99,9 @@ namespace ETS2_Local_Radio_server
 
             comboController.SelectedText = ConfigurationManager.AppSettings["Controller"];
 
+            //Load favourites
+            Favourites.Load();
+
             //Start telemetry grabbing:
             Telemetry = new Ets2SdkTelemetry(250);
             Telemetry.Data += Telemetry_Data;
@@ -136,14 +139,6 @@ namespace ETS2_Local_Radio_server
             volumeDownKeyTextBox.KeyDown += keyInput;
             makeFavouriteKeyTextbox.KeyDown += keyInput;
 
-            /*
-            nextButtonTextBox.KeyDown += keyInput;
-            previousButtonTextBox.KeyDown += keyInput;
-            stopButtonTextBox.KeyDown += keyInput;
-            volumeUpButtonTextBox.KeyDown += keyInput;
-            volumeDownButtonTextBox.KeyDown += keyInput;
-            makeFavouriteButtonTextbox.KeyDown += keyInput;
-            */
             //Remove key binding:
             nextKeyTextBox.KeyDown += removeBinding;
             previousKeyTextBox.KeyDown += removeBinding;
@@ -394,6 +389,7 @@ namespace ETS2_Local_Radio_server
             try
             {
                 //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
+                Favourites.Save();
                 Unsubscribe();
                 myServer.Stop();
                 writeFile("none", "0", "0");
@@ -750,7 +746,7 @@ namespace ETS2_Local_Radio_server
                 }
                 previousState = controllerInput;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 //Log.Write(ex.ToString());
             }

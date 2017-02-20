@@ -199,7 +199,40 @@ namespace ETS2_Local_Radio_server
 
             filename = Path.Combine(_rootDirectory, filename);
 
-            if (context.Request.Url.AbsolutePath.StartsWith("/station/"))
+            if (context.Request.Url.AbsolutePath.StartsWith("/favourite/"))
+            {
+                string favourite = context.Request.Url.AbsoluteUri;
+                favourite = WebUtility.UrlDecode(favourite);
+                favourite = favourite.Split(new string[] { "/favourite/" }, StringSplitOptions.None)[1];
+                Console.WriteLine(favourite);
+                try
+                {
+                    string[] favouriteArray = favourite.Split(new string[] {"/"}, StringSplitOptions.None);
+                    string text = "";
+                    if (favouriteArray.Length == 1)
+                    {
+                        text = "{\"Name\": " + Favourites.Get(favourite) + "}";
+                    }
+                    else
+                    {
+                        Favourites.Set(favouriteArray[0], favouriteArray[1]);
+                        Favourites.Save();
+                        text = "{\"Success\": true}";
+                       
+                    }
+                    context.Response.ContentType = "application/json";
+                    context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
+                    context.Response.StatusCode = (int)HttpStatusCode.OK;
+                    context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0,
+                    Encoding.UTF8.GetBytes(text).Length);
+                    context.Response.OutputStream.Flush();
+                }
+                catch (Exception exception)
+                {
+                    Log.Write(exception.ToString());
+                }
+            }
+            else if (context.Request.Url.AbsolutePath.StartsWith("/station/"))
             {
                 string station = context.Request.Url.AbsoluteUri;
                 station = WebUtility.UrlDecode(station);
@@ -258,18 +291,18 @@ namespace ETS2_Local_Radio_server
                     context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
                     //context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
 
-                    byte[] buffer = new byte[1024*16];
+                    byte[] buffer = new byte[1024 * 16];
                     int nbytes;
                     while ((nbytes = input.Read(buffer, 0, buffer.Length)) > 0)
                         context.Response.OutputStream.Write(buffer, 0, nbytes);
                     input.Close();
 
-                    context.Response.StatusCode = (int) HttpStatusCode.OK;
+                    context.Response.StatusCode = (int)HttpStatusCode.OK;
                     context.Response.OutputStream.Flush();
                 }
                 catch (Exception ex)
                 {
-                    context.Response.StatusCode = (int) HttpStatusCode.InternalServerError;
+                    context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
                     Log.Write(ex.ToString());
                 }
 
