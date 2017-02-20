@@ -25,6 +25,7 @@
   },
   "server": {
     "info": "Tietoja",
+    "game": "Peli",
     "status": "Tila:",
     "simulator-not-running": "Simulaattori ei vielä käynnissä",
     "simulator-not-driving": "Simulaattori käynnissä, lähdetään liikkeelle!",
