@@ -227,7 +227,7 @@ function refresh(data) {
             //Check if there is a favourite station:
             var index = 0;
             $.getJSON("/favourite/" + country_lowest_distance, function (favourite_lowest_distance) {
-                if (favourite_lowest_distance["Name"] != null) {
+                if (favourite_lowest_distance["Name"] != "") {
                     index = stations[country_lowest_distance].map(function (e) {
                         return e.name;
                     }).indexOf(favourite_lowest_distance["Name"]);

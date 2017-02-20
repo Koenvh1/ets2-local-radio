@@ -211,7 +211,7 @@ namespace ETS2_Local_Radio_server
                     string text = "";
                     if (favouriteArray.Length == 1)
                     {
-                        text = "{\"Name\": " + Favourites.Get(favourite) + "}";
+                        text = "{\"Name\": \"" + Favourites.Get(favourite) + "\"}";
                     }
                     else
                     {
