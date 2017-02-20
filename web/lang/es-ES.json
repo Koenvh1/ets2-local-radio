@@ -24,6 +24,7 @@
   },
   "server": {
     "info": "Informacion",
+    "game": "Game:",
     "status": "Estado:",
     "simulator-not-running": "Simulación en pausa.",
     "simulator-not-driving": "Simulación listo. Vamos a manejar!",
