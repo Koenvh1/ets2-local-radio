@@ -6,6 +6,16 @@ var stations = {
             url: "http://sc9.lga.llnw.net:80/stream/vpubradio_kvpr"
         },
         {
+            name: "103.9 The Beat",
+            logo: "stations/images-america/bakersfield/103.9 The Beat.png",
+            url: "http://ice10.securenetsystems.net/KBDS"
+        },
+        {
+            name: "Hot 94.1FM",
+            logo: "stations/images-america/bakersfield/Hot 94.1FM.jpg",
+            url: "http://icy1.abacast.com/agmedia28-kisvfmaac-48?source=tunein"
+        },
+        {
             name: "KPSL-FM",
             logo: "stations/images-america/bakersfield/KPSL-FM.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KPSLFM"
@@ -285,6 +295,11 @@ var stations = {
             url: "http://ice7.securenetsystems.net:80/KCEP"
         },
         {
+            name: "Real 103.9",
+            logo: "stations/images-america/las_vegas/Real 103.9.jpg",
+            url: "http://kplv-hd2.akacast.iheart.com/7/307/363318/v1/auth.akacast.akamaistream.net/kplv-hd2"
+        },
+        {
             name: "VIBE",
             logo: "stations/images-america/las_vegas/VIBE.png",
             url: "http://relay.181.fm:8074/;stream.nsv"
@@ -505,6 +520,11 @@ var stations = {
             name: "KQED Public Radio",
             logo: "stations/images-america/san_francisco/KQED Public Radio.png",
             url: "http://50.31.186.115:80/kqedradio"
+        },
+        {
+            name: "Hot 107.1FM",
+            logo: "stations/images-america/san_francisco/Hot 107.1FM.jpg",
+            url: "http://54.161.28.174/sonoma-khthfmmp3-ibc3?session-id=2080087970&source=tunein"
         },
         {
             name: "Star 101.3",
