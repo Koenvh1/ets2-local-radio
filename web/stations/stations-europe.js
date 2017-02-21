@@ -351,6 +351,11 @@ var stations = {
             logo: "stations/images-europe/czech/Radio 1.png",
             url: "http://icecast6.play.cz:80/radio1-128.mp3"
         },
+        {
+            name: "Rádio Beat",
+            logo: "stations/images-europe/czech/Rádio Beat.png",
+            url: "http://icecast5.play.cz/radiobeat128.mp3"
+        },
     ],
     "denmark": [
         {
@@ -810,7 +815,7 @@ var stations = {
         {
             name: "Antenne Thüringen",
             logo: "stations/images-europe/germany-mdr/Antenne Thüringen.png",
-            url: "http://xapp2023227392c40000.f.l.i.lb.core-cdn.net/40000mb/live/app2023227392/w2075033608/live_de_128.mp3"
+            url: "http://stream.antennethueringen.de/live/mp3-192/"
         },
         {
             name: "Radio SAW",
@@ -1718,7 +1723,7 @@ var stations = {
         {
             name: "Радио Ваня",
             logo: "stations/images-europe/russia/Радио Ваня.png",
-            url: "http://icecast.piktv.cdnvideo.ru/vanya"
+            url: "https://radiom10.gcdn.co/piktv_radio/vanya_aac/playlist.m3u8"
         },
         {
             name: "Радио Дача",
