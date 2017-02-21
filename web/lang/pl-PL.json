@@ -25,6 +25,7 @@
   },
   "server": {
     "info": "Informacje",
+    "game": "Game:",
     "status": "Status:",
     "simulator-not-running": "Symulator nie jest włączony",
     "simulator-not-driving": "Symulator włączony, gaz do dechy!",

@@ -6,8 +6,8 @@
     "coverage-map": "Покрытие карты",
     "stop-playback": "Остановить проигрывание",
     "stations": "Радиостанции:",
-    "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
-    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
+    "unsupported-browser": "Ваш браузер может не поддерживать все радиостанции. Рекомендуется открывать ETS2 Local Radio в Mozilla Firefox или Microsoft Edge.",
+    "microsoft-edge": "Если проигрывание остановится после сворачивания окна, тогда разрешите программе Microsoft Edge работать в качестве фонового приложения, следуя по следующему пути: Windows settings > Privacy > Background Apps.",
     "update-available": "Обновление доступно!",
     "update-now": "Обновить сейчас",
     "controlled-remotely": "Этот проигрыватель будет управляться дистанционно",
@@ -25,6 +25,7 @@
   },
   "server": {
     "info": "Информация",
+    "game": "Игра:",
     "status": "Состояние:",
     "simulator-not-running": "Симулятор пока не запущен",
     "simulator-not-driving": "Симулятор запущен, поехали!",
@@ -42,10 +43,10 @@
     "volume-down-key": "Клавиша уменьшения громкости:",
     "make-favourite-key": "Клавиша \"Сделать избранным\":",
     "save": "Сохранить",
-    "install": "Install plugin",
-    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
-    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
-    "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
+    "install": "Установить дополнение",
+    "install-plugin-ets2": "Установить дополнение для\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Установить дополнение для\nAmerican Truck Simulator",
+    "install-overlay": "Желаете установить игровой оверлей?\n(Это перепишет существующий файл d3d9.dll, и в редких случаях это может вызвать крэш, когда будете выходить из игры)",
     "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного ETS2/ATS. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Сейчас играет:"
   }

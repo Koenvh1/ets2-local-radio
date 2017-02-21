@@ -1,7 +1,7 @@
 {
   "web": {
     "author": "Preložil David Burda (ZelvaCZ)",
-    "now-playing": "Now playing:",
+    "now-playing": "Teraz hrá:",
     "connect-other-device": "Pripojiť k inému zariadeniu",
     "coverage-map": "Mapa pokrytia",
     "stop-playback": "Zastaviť playback",
@@ -42,11 +42,11 @@
     "volume-down-key": "Znížiť hlasitosť:",
     "make-favourite-key": "Make favourite:",
     "save": "Uložiť",
-    "install": "Install plugin",
-    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
-    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
+    "install": "Nainstalovať plugin",
+    "install-plugin-ets2": "Nainstalovať plugin pre\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Nainstalovať plugin pre\nAmerican Truck Simulator",
     "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
     "ets2-folder-dialog": "Vyber prosím instalačnú zložku ETS2/ATS, zvyčajne sa nachádza v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
-    "now-playing": "Now playing:"
+    "now-playing": "Teraz hrá:"
   }
 }

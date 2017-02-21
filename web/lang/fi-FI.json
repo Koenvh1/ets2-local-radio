@@ -7,7 +7,7 @@
     "stop-playback": "Pysäytä toisto",
     "stations": "Kanavat:",
     "unsupported-browser": "Ei-tuettu selain:selaimesi ei välttämättä tue kaikkia radiokanavia. Avaa ETS2 Local radio Mozilla Firefoxissa tai Microsoft Edgessä.",
-    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
+    "microsoft-edge": "Jos toisto pysähtyy kun pienennät ikkunan, salli Microsoft Edgen olla käynnissä taustalla menemällä Windowsin asetukset >Yksityisyys >Taustaohjelmat",
     "update-available": "Uusi päivitys on saatavissa!",
     "update-now": "Päivitä nyt",
     "controlled-remotely": "Tätä soitinta hallitaan etänä",

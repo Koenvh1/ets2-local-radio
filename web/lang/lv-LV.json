@@ -6,8 +6,8 @@
     "coverage-map": "Pārklajuma karte",
     "stop-playback": "Apturēt atskaņojumu",
     "stations": "Radiostacijas:",
-    "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
-    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
+    "unsupported-browser": "Jūsu pārluks var neatbalstīt visas radiostācijas. Ieteicams atvērt \"ETS2 Local Radio\" pārlukā Mozilla Firefox vai Microsoft Edge.",
+    "microsoft-edge": "Ja atskaņošana apturēsies pēc loga minimizēšanas, tad ļaujiet programmai Microsoft Edge strādāt, kā fona aplikācijai, kurus uzstādījumus varat atrast sekojošā ceļā: Windows settings > Privacy > Background Apps.",
     "update-available": "Atjaunojums ir pieejams!",
     "update-now": "Atjaunojiet tagad",
     "controlled-remotely": "Šis atskaņotajs tiks kontrolēts distancionāli",
@@ -25,6 +25,7 @@
   },
   "server": {
     "info": "Informācija",
+    "game": "Spēle",
     "status": "Statuss:",
     "simulator-not-running": "Simulators pagaidām nav palaists",
     "simulator-not-driving": "Simulators palaists, braucam!",
@@ -42,10 +43,10 @@
     "volume-down-key": "Skaļuma samazināšanas taustiņš:",
     "make-favourite-key": "Taustiņš \"Izvelēties par favorītu\":",
     "save": "Saglabāt",
-    "install": "Install plugin",
-    "install-plugin-ets2": "Install plugin for\nEuro Truck Simulator 2",
-    "install-plugin-ats": "Install plugin for\nAmerican Truck Simulator",
-    "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
+    "install": "Instalēt papildinājumu",
+    "install-plugin-ets2": "Instalēt papildinājumu priekš\nEuro Truck Simulator 2",
+    "install-plugin-ats": "Instalēt papildinājumu priekš\nAmerican Truck Simulator",
+    "install-overlay": "Vai jūs vēlaties instalēt iekšspēles pārklāju?\n(Tas pārrakstīs eksistējošo failu d3d9.dll, un retos gadījumos tas var izsaukt spēles avāriju, kad jūs iziesiet arā no spēles)",
     "ets2-folder-dialog": "Lūdzu, izvēlēties ETS2/ATS instalācijas mapi, parasti atrodas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Pašlaik skan:"
   }
