@@ -57,6 +57,7 @@ namespace ETS2_Local_Radio_server
         private void Main_Load(object sender, EventArgs e)
         {
             Log.Clear();
+            Settings.Load();
 
             //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
             Subscribe();
@@ -83,21 +84,21 @@ namespace ETS2_Local_Radio_server
             }
 
             //Load the keys:
-            nextKeyTextBox.Text = ConfigurationManager.AppSettings["NextKey"];
-            previousKeyTextBox.Text = ConfigurationManager.AppSettings["PreviousKey"];
-            stopKeyTextBox.Text = ConfigurationManager.AppSettings["StopKey"];
-            volumeUpKeyTextBox.Text = ConfigurationManager.AppSettings["VolumeUpKey"];
-            volumeDownKeyTextBox.Text = ConfigurationManager.AppSettings["VolumeDownKey"];
-            makeFavouriteKeyTextbox.Text = ConfigurationManager.AppSettings["MakeFavouriteKey"];
+            nextKeyTextBox.Text = Settings.NextKey;
+            previousKeyTextBox.Text = Settings.PreviousKey;
+            stopKeyTextBox.Text = Settings.StopKey;
+            volumeUpKeyTextBox.Text = Settings.VolumeUpKey;
+            volumeDownKeyTextBox.Text = Settings.VolumeDownKey;
+            makeFavouriteKeyTextbox.Text = Settings.MakeFavouriteKey;
 
-            nextButtonTextBox.Text = ConfigurationManager.AppSettings["NextButton"];
-            previousButtonTextBox.Text = ConfigurationManager.AppSettings["PreviousButton"];
-            stopButtonTextBox.Text = ConfigurationManager.AppSettings["StopButton"];
-            volumeUpButtonTextBox.Text = ConfigurationManager.AppSettings["VolumeUpButton"];
-            volumeDownButtonTextBox.Text = ConfigurationManager.AppSettings["VolumeDownButton"];
-            makeFavouriteButtonTextbox.Text = ConfigurationManager.AppSettings["MakeFavouriteButton"];
+            nextButtonTextBox.Text = Settings.NextButton;
+            previousButtonTextBox.Text = Settings.PreviousButton;
+            stopButtonTextBox.Text = Settings.StopButton;
+            volumeUpButtonTextBox.Text = Settings.VolumeUpButton;
+            volumeDownButtonTextBox.Text = Settings.VolumeDownButton;
+            makeFavouriteButtonTextbox.Text = Settings.MakeFavouriteButton;
 
-            comboController.SelectedText = ConfigurationManager.AppSettings["Controller"];
+            comboController.SelectedText = Settings.Controller;
 
             //Load favourites
             Favourites.Load();
@@ -115,7 +116,7 @@ namespace ETS2_Local_Radio_server
             }
 
             //Open server:
-            myServer = new SimpleHTTPServer(Directory.GetCurrentDirectory() + "\\web", Int32.Parse(ConfigurationManager.AppSettings["Port"]));
+            myServer = new SimpleHTTPServer(Directory.GetCurrentDirectory() + "\\web", Settings.Port);
             writeFile("none", "0", "0");
 
             //Load IP addresses:
@@ -170,14 +171,7 @@ namespace ETS2_Local_Radio_server
                         comboLang.Items.Add(Path.GetFileNameWithoutExtension(file));
                     }
                 }
-                if (ConfigurationManager.AppSettings["Language"] != null)
-                {
-                    comboLang.Text = ConfigurationManager.AppSettings["Language"];
-                }
-                else
-                {
-                    comboLang.Text = "";
-                }
+                comboLang.Text = Settings.Language;
             }
             catch (Exception ex)
             {
@@ -190,11 +184,11 @@ namespace ETS2_Local_Radio_server
             string folder = "";
             if (game == "ets2")
             {
-                folder = ConfigurationManager.AppSettings["Ets2Folder"];
+                folder = Settings.Ets2Folder;
             }
             if (game == "ats")
             {
-                folder = ConfigurationManager.AppSettings["AtsFolder"];
+                folder = Settings.AtsFolder;
             }
             try
             {
@@ -261,11 +255,11 @@ namespace ETS2_Local_Radio_server
 
                         if (game == "ets2")
                         {
-                            SaveAppSettings("Ets2Folder", folder);
+                            Settings.Ets2Folder = folder;
                         }
                         if (game == "ats")
                         {
-                            SaveAppSettings("AtsFolder", folder);
+                            Settings.AtsFolder = folder;
                         }
 
                         return true;
@@ -295,7 +289,7 @@ namespace ETS2_Local_Radio_server
             {
                 if (ip.AddressFamily == AddressFamily.InterNetwork)
                 {
-                    comboIP.Items.Add("http://" + ip.ToString() + ":" + ConfigurationManager.AppSettings["Port"]);
+                    comboIP.Items.Add("http://" + ip.ToString() + ":" + Settings.Port);
                 }
             }
             comboIP.SelectedIndex = 0;
@@ -307,12 +301,11 @@ namespace ETS2_Local_Radio_server
             {
                 //Initialise joystick:
                 string name = null;
-                if (ConfigurationManager.AppSettings["Controller"] != null)
+                if (Settings.Controller != null)
                 {
-                    name = ConfigurationManager.AppSettings["Controller"];
+                    name = Settings.Controller;
                 }
                 joystick = new SimpleJoystick(name);
-                //comboController.SelectedText = ConfigurationManager.AppSettings["Controller"];
 
                 //Start joystick input timer:
                 joystickTimer.Start();
@@ -364,7 +357,7 @@ namespace ETS2_Local_Radio_server
         private static void DeleteException()
         {
             Process netsh = new Process();
-            string arguments = "advfirewall firewall delete rule name=\"ETS2 Local Radio\" dir=in protocol=TCP localport=" + ConfigurationManager.AppSettings["Port"];
+            string arguments = "advfirewall firewall delete rule name=\"ETS2 Local Radio\" dir=in protocol=TCP localport=" + Settings.Port;
             netsh.StartInfo.FileName = "netsh";
             netsh.StartInfo.Arguments = arguments;
             netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
@@ -377,7 +370,7 @@ namespace ETS2_Local_Radio_server
             // to prevent duplicates
 
             Process netsh = new Process();
-            string arguments = "advfirewall firewall add rule name=\"ETS2 Local Radio\" dir=in action=allow protocol=TCP localport=" + ConfigurationManager.AppSettings["Port"];
+            string arguments = "advfirewall firewall add rule name=\"ETS2 Local Radio\" dir=in action=allow protocol=TCP localport=" + Settings.Port;
             netsh.StartInfo.FileName = "netsh";
             netsh.StartInfo.Arguments = arguments;
             netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
@@ -389,7 +382,7 @@ namespace ETS2_Local_Radio_server
             try
             {
                 //Global keyboard hook logic by https://github.com/gmamaladze/globalmousekeyhook/blob/vNext/Demo/Main.cs
-                Favourites.Save();
+                Settings.Save();
                 Unsubscribe();
                 myServer.Stop();
                 writeFile("none", "0", "0");
@@ -419,7 +412,7 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                if (ConfigurationManager.AppSettings["PreviousKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["PreviousKey"], true))
+                if (Settings.PreviousKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.PreviousKey, true))
                 {
                     Console.WriteLine("Fired event PreviousKey");
                     keyTimeout.Stop();
@@ -427,32 +420,32 @@ namespace ETS2_Local_Radio_server
                     keyTimeout.Start();
                 }
 
-                if (ConfigurationManager.AppSettings["NextKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["NextKey"], true))
+                if (Settings.NextKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.NextKey, true))
                 {
                     Console.WriteLine("Fired event NextKey");
                     keyTimeout.Stop();
                     amount++;
                     keyTimeout.Start();
                 }
-                if (ConfigurationManager.AppSettings["StopKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["StopKey"], true))
+                if (Settings.StopKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.StopKey, true))
                 {
                     Console.WriteLine("Fired event StopKey");
 
                     writeFile("stop", "0");
                 }
-                if (ConfigurationManager.AppSettings["VolumeUpKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeUpKey"], true))
+                if (Settings.VolumeUpKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.VolumeUpKey, true))
                 {
                     Console.WriteLine("Fired event VolumeUpKey");
 
                     writeFile("volume", "5");
                 }
-                if (ConfigurationManager.AppSettings["VolumeDownKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["VolumeDownKey"], true))
+                if (Settings.VolumeDownKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.VolumeDownKey, true))
                 {
                     Console.WriteLine("Fired event VolumeDownKey");
 
                     writeFile("volume", "-5");
                 }
-                if (ConfigurationManager.AppSettings["MakeFavouriteKey"] != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), ConfigurationManager.AppSettings["MakeFavouriteKey"], true))
+                if (Settings.MakeFavouriteKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.MakeFavouriteKey, true))
                 {
                     Console.WriteLine("Fired event MakeFavouriteKey");
 
@@ -487,29 +480,29 @@ namespace ETS2_Local_Radio_server
                 id = Guid.NewGuid().ToString("n");
             }
 
-            Commands command = new Commands(id, action, amount, comboLang.SelectedItem.ToString());
+            Commands command = new Commands(id, action, amount, Settings.Language);
             commandsData = command;
-            //StreamWriter streamWriter = new StreamWriter(ConfigurationManager.AppSettings["Folder"] + "\\commands.json");
-            //streamWriter.WriteLine(json);
-            //streamWriter.Close();
         }
         private void saveButton_Click(object sender, EventArgs e)
         {
-            SaveAppSettings("NextKey", nextKeyTextBox.Text);
-            SaveAppSettings("PreviousKey", previousKeyTextBox.Text);
-            SaveAppSettings("StopKey", stopKeyTextBox.Text);
-            SaveAppSettings("VolumeUpKey", volumeUpKeyTextBox.Text);
-            SaveAppSettings("VolumeDownKey", volumeDownKeyTextBox.Text);
-            SaveAppSettings("MakeFavouriteKey", makeFavouriteKeyTextbox.Text);
+            Settings.NextKey = nextKeyTextBox.Text;
+            Settings.PreviousKey = previousKeyTextBox.Text;
+            Settings.StopKey = stopKeyTextBox.Text;
+            Settings.VolumeUpKey = volumeUpKeyTextBox.Text;
+            Settings.VolumeDownKey = volumeDownKeyTextBox.Text;
+            Settings.MakeFavouriteKey = makeFavouriteKeyTextbox.Text;
 
-            SaveAppSettings("NextButton", nextButtonTextBox.Text);
-            SaveAppSettings("PreviousButton", previousButtonTextBox.Text);
-            SaveAppSettings("StopButton", stopButtonTextBox.Text);
-            SaveAppSettings("VolumeUpButton", volumeUpButtonTextBox.Text);
-            SaveAppSettings("VolumeDownButton", volumeDownButtonTextBox.Text);
-            SaveAppSettings("MakeFavouriteButton", makeFavouriteButtonTextbox.Text);
+            Settings.NextButton = nextButtonTextBox.Text;
+            Settings.PreviousButton = previousButtonTextBox.Text;
+            Settings.StopButton = stopButtonTextBox.Text;
+            Settings.VolumeUpButton = volumeUpButtonTextBox.Text;
+            Settings.VolumeDownButton = volumeDownButtonTextBox.Text;
+            Settings.MakeFavouriteButton = makeFavouriteButtonTextbox.Text;
+
+            Settings.Save();
         }
 
+        /*
         public static void SaveAppSettings(string key, string value)
         {
             try
@@ -534,6 +527,7 @@ namespace ETS2_Local_Radio_server
                 Log.Write(ex.ToString());
             }
         }
+        */
 
         private void keyInput(object sender, KeyEventArgs e)
         {
@@ -629,7 +623,7 @@ namespace ETS2_Local_Radio_server
                 folderDialog.Description = (server["ets2-folder-dialog"] ?? folderDialog.Description);
                 Station.NowPlaying = (server["now-playing"] ?? Station.NowPlaying);
 
-                SaveAppSettings("Language", comboLang.SelectedItem.ToString());
+                Settings.Language = comboLang.SelectedItem.ToString();
 
                 writeFile("language", "0");
             }
@@ -680,39 +674,39 @@ namespace ETS2_Local_Radio_server
 
                     if (controllerInput[i] == true && controllerInput[i] != previousState[i])
                     {
-                        if (ConfigurationManager.AppSettings["NextButton"] == i.ToString())
+                        if (Settings.NextButton == i.ToString())
                         {
                             Console.WriteLine("Fired event NextButton");
                             keyTimeout.Stop();
                             amount++;
                             keyTimeout.Start();
                         }
-                        if (ConfigurationManager.AppSettings["PreviousButton"] == i.ToString())
+                        if (Settings.PreviousButton == i.ToString())
                         {
                             Console.WriteLine("Fired event PreviousButton");
                             keyTimeout.Stop();
                             amount--;
                             keyTimeout.Start();
                         }
-                        if (ConfigurationManager.AppSettings["StopButton"] == i.ToString())
+                        if (Settings.StopButton == i.ToString())
                         {
                             Console.WriteLine("Fired event StopButton");
 
                             writeFile("stop", "0");
                         }
-                        if (ConfigurationManager.AppSettings["VolumeUpButton"] == i.ToString())
+                        if (Settings.VolumeUpButton == i.ToString())
                         {
                             Console.WriteLine("Fired event VolumeUpButton");
 
                             writeFile("volume", "5");
                         }
-                        if (ConfigurationManager.AppSettings["VolumeDownButton"] == i.ToString())
+                        if (Settings.VolumeDownButton == i.ToString())
                         {
                             Console.WriteLine("Fired event VolumeDownButton");
 
                             writeFile("volume", "-5");
                         }
-                        if (ConfigurationManager.AppSettings["MakeFavouriteButton"] == i.ToString())
+                        if (Settings.MakeFavouriteButton == i.ToString())
                         {
                             Console.WriteLine("Fired event MakeFavouriteButton");
 
@@ -796,7 +790,7 @@ namespace ETS2_Local_Radio_server
 
         private void comboController_SelectedIndexChanged(object sender, EventArgs e)
         {
-            SaveAppSettings("Controller", comboController.SelectedItem.ToString());
+            Settings.Controller = comboController.SelectedItem.ToString();
 
             AttachJoystick();
         }

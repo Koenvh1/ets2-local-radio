@@ -75,7 +75,7 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                if (Boolean.Parse(ConfigurationManager.AppSettings["Overlay"]))
+                if (Settings.Overlay)
                 {
                     int width = 0, height = 0;
                     GPSI_GetScreenSize(ref width, ref height);

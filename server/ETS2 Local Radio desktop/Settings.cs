@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace ETS2_Local_Radio_server
 {
@@ -11,35 +14,91 @@ namespace ETS2_Local_Radio_server
         public static string Language = "en-GB";
         public static int Port = 8330;
         public static bool Overlay = true;
-        public static string Controller = "";
-        public static SettingsKeys Keys = new SettingsKeys();
-        public static SettingsButtons Buttons = new SettingsButtons();
-        public static SettingsFolders Folders = new SettingsFolders();
-    }
+        public static string Controller = null;
 
-    class SettingsKeys
-    {
-        public string Previous = "PageUp";
-        public string Next = "Next";
-        public string Stop = "End";
-        public string VolumeUp = "Oemplus";
-        public string VolumeDown = "OemMinus";
-        public string MakeFavourite = "Pause";
-    }
+        public static string PreviousKey = "PageUp";
+        public static string NextKey = "Next";
+        public static string StopKey = "End";
+        public static string VolumeUpKey = "Oemplus";
+        public static string VolumeDownKey = "OemMinus";
+        public static string MakeFavouriteKey = "Pause";
 
-    class SettingsButtons
-    {
-        public string Previous = "";
-        public string Next = "";
-        public string Stop = "";
-        public string VolumeUp = "";
-        public string VolumeDown = "";
-        public string MakeFavourite = "";
-    }
+        public static string PreviousButton = "";
+        public static string NextButton = "";
+        public static string StopButton = "";
+        public static string VolumeUpButton = "";
+        public static string VolumeDownButton = "";
+        public static string MakeFavouriteButton = "";
 
-    class SettingsFolders
-    {
-        public string Ets2 = "";
-        public string Ats = "";
+        public static string Ets2Folder = null;
+        public static string AtsFolder = null;
+
+        public static void Load()
+        {
+            if (File.Exists(Directory.GetCurrentDirectory() + "\\settings.json"))
+            {
+                System.IO.StreamReader reader = new StreamReader(Directory.GetCurrentDirectory() + "\\settings.json");
+                dynamic s = JObject.Parse(reader.ReadToEnd());
+                reader.Close();
+
+                Language = s.language ?? Language;
+                Port = s.port ?? Port;
+                Overlay = s.overlay ?? Overlay;
+                Controller = s.controller ?? Controller;
+
+                PreviousKey = s.keys.previous ?? PreviousKey;
+                NextKey = s.keys.next ?? NextKey;
+                StopKey = s.keys.stop ?? StopKey;
+                VolumeUpKey = s.keys.volumeUp ?? VolumeUpKey;
+                VolumeDownKey = s.keys.volumeDown ?? VolumeDownKey;
+                MakeFavouriteKey = s.keys.makeFavourite ?? MakeFavouriteKey;
+
+                PreviousButton = s.buttons.previous ?? PreviousButton;
+                NextButton = s.buttons.next ?? NextButton;
+                StopButton = s.buttons.stop ?? StopButton;
+                VolumeUpButton = s.buttons.volumeUp ?? VolumeUpButton;
+                VolumeDownButton = s.buttons.volumeDown ?? VolumeDownButton;
+                MakeFavouriteButton = s.buttons.makeFavourite ?? MakeFavouriteButton;
+
+                Ets2Folder = s.folders.ets2 ?? Ets2Folder;
+                AtsFolder = s.folders.ats ?? AtsFolder;
+            }
+        }
+
+        public static void Save()
+        {
+            System.IO.StreamWriter writer = new StreamWriter(Directory.GetCurrentDirectory() + "\\settings.json");
+            writer.Write(JObject.FromObject(new
+            {
+                language = Language,
+                port = Port,
+                overlay = Overlay,
+                controller = Controller,
+                keys = new
+                {
+                    previous = PreviousKey,
+                    next = NextKey,
+                    stop = StopKey,
+                    volumeUp = VolumeUpKey,
+                    volumeDown = VolumeDownKey,
+                    makeFavourite = MakeFavouriteKey
+                },
+                buttons = new
+                {
+                    previous = PreviousButton,
+                    next = NextButton,
+                    stop = StopButton,
+                    volumeUp = VolumeUpButton,
+                    volumeDown = VolumeDownButton,
+                    makeFavourite = MakeFavouriteButton
+                },
+                folders = new
+                {
+                    ets2 = Ets2Folder,
+                    ats = AtsFolder
+                }
+            }));
+            writer.Close();
+        }
     }
 }
