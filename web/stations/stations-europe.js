@@ -20,17 +20,17 @@ var stations = {
     "armenia": [
         {
             name: "Armenian Pulse Radio",
-            logo: "stations/images-europe/other/Armenian Pulse Radio.jpeg",
+            logo: "stations/images-europe/armenia/Armenian Pulse Radio.jpeg",
             url: "http://radiotrucker.com/tr/play/1949/501"
         },
         {
             name: "Lav Radio",
-            logo: "stations/images-europe/other/Lav Radio.jpg",
+            logo: "stations/images-europe/armenia/Lav Radio.jpg",
             url: "http://radiotrucker.com/tr/play/1949/499"
         },
         {
             name: "Radio Jan",
-            logo: "stations/images-europe/other/Radio Jan.jpg",
+            logo: "stations/images-europe/armenia/Radio Jan.jpg",
             url: "http://radiotrucker.com/tr/play/1949/500"
         },
     ],
