@@ -257,6 +257,7 @@ function refresh(data) {
         } else {
             setWhitenoise(available_countries[g_current_country]["whitenoise"]);
             g_countries = available_countries;
+
         }
     }
 };
@@ -288,6 +289,7 @@ function setRadioStation(url, country, volume) {
         g_whitenoise = false;
         $("#player").stop();
         $("#switchStation").stop();
+        document.getElementById("switchStation").play();
         $("#switchStation").animate({volume: (url == "" ? 0 : g_volume)}, 2500, "linear");
         $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
@@ -305,7 +307,9 @@ function setRadioStation(url, country, volume) {
                 //document.getElementById("player").play();
             }
             setTimeout(function () {
-                $("#switchStation").animate({volume: 0}, 200);
+                $("#switchStation").animate({volume: 0}, 200, function () {
+                    document.getElementById("switchStation").pause();
+                });
                 $("#player").animate({volume: g_volume}, 50, function () {
                     g_whitenoise = g_skinConfig.whitenoise;
                 });
