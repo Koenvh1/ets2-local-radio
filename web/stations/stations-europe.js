@@ -1014,7 +1014,7 @@ var stations = {
         },
         {
             name: "ΕΡΤ Τρίτο Πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.png",
+            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.jpg",
             url: "http://radiostreaming.ert.gr/ert-trito"
         },
         {
