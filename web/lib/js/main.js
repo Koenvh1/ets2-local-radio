@@ -331,7 +331,7 @@ function setRadioStation(url, country, volume) {
     document.getElementById('whitenoise').play();
     $("#stopPlayback").attr("src", "lib/img/stop-button.png");
 
-    $.get("station/" + stations[country][index].name + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
+    $.get("station/" + encodeURIComponent(stations[country][index].name) + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -371,7 +371,7 @@ function setFavouriteStation(country, name) {
             name: name
         }));
     } else {
-        $.get("/favourite/" + country + "/" + name, function(){
+        $.get("/favourite/" + country + "/" + encodeURIComponent(name), function(){
             refreshStations();
         });
         //alert("Favourite for " + country.toUpperCase() + " is now " + name);
