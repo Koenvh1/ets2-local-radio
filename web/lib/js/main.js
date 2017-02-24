@@ -27,6 +27,8 @@ var g_show_all = false;
 
 function initialise() {
     console.log("Start init");
+    g_hls = new Hls();
+
     $(document).ready(function () {
         document.getElementById("switchStation").volume = 0;
         document.getElementById("whitenoise").volume = 0;
@@ -45,7 +47,7 @@ function initialise() {
         });
     });
 
-    if(!(getBrowser().firefox || getBrowser().edge)){
+    if(getBrowser().ie || getBrowser().safari){
         $(".unsupported-browser").show();
     } else if (getBrowser().edge) {
         $(".microsoft-edge").show();
@@ -511,7 +513,9 @@ function refreshLanguage() {
     $.getJSON("lang/" + g_language + ".json", function (data) {
         g_translation = data;
         for(var key in data.web){
-            $(".lang-" + key).html(data.web[key]);
+            if (data.web.hasOwnProperty(key)) {
+                $(".lang-" + key).html(data.web[key]);
+            }
         }
     });
 }
