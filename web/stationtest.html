@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Station test</title>
+</head>
+<body>
+<p>This is a test to check whether a station works in this browser (or not)</p>
+<p><audio src="" id="player" controls autoplay></audio></p>
+<p><button onclick="testStation()">Start</button> <button onclick="currentId++; testStation();">Manually go to next station</button></p>
+<script src="lib/js/jquery-3.1.1.js"></script>
+<script src="lib/js/hls.js"></script>
+<!-- Behold the ugly fix to add both ATS and ETS2 stations: -->
+<script src="stations/stations-europe.js"></script>
+<script>
+    var stationsEts = stations;
+</script>
+<script src="stations/stations-america.js"></script>
+<script>
+    stations = Object.assign(stationsEts, stations);
+</script>
+<table>
+    <thead>
+    <tr>
+        <td>Name</td>
+        <td>URL</td>
+        <td>Error</td>
+    </tr>
+    </thead>
+    <tbody id="list">
+    </tbody>
+</table>
+<script>
+    var ready = false;
+    var currentId = 0;
+    var hls = new Hls();
+
+    document.getElementById("player").volume = 0;
+
+    var errorMessages = {
+        1: "MEDIA_ERR_ABORTED",
+        2: "MEDIA_ERR_NETWORK",
+        3: "MEDIA_ERR_DECODE",
+        4: "MEDIA_ERR_SRC_NOT_SUPPORTED"
+    };
+
+    for(var key in stations){
+        if(!stations.hasOwnProperty(key)) continue;
+        for(var i = 0; i < stations[key].length; i++){
+            $("#list").append("<tr><td>" + stations[key][i].name + "</td><td>" + stations[key][i].url + "</td><td></td>");
+        }
+    }
+
+    $("#player").on("canplay", function (e) {
+        if(ready) {
+            $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "green");
+            if (currentId < $("#list>tr").length) {
+                currentId++;
+                testStation();
+            }
+        }
+    });
+
+    $("#player").on("error", function (e) {
+        if(ready) {
+            console.log(e);
+            $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "red");
+            $("#list>tr:nth-child(" + (currentId + 1) + ")>td:last-child").html(errorMessages[e.originalEvent.currentTarget.error.code]);
+            if (currentId < $("#list>tr").length) {
+                currentId++;
+                testStation();
+            }
+        }
+    });
+
+    function testStation() {
+        var url = $("#list>tr:nth-child(" + (currentId + 1) + ")>td:nth-child(2)").html();
+        ready = true;
+
+        if (hls != null) {
+            hls.detachMedia();
+        }
+        if (url.endsWith("m3u8")) {
+            //If HLS, continue here
+            hls.attachMedia(document.getElementById("player"));
+            hls.on(Hls.Events.MEDIA_ATTACHED, function () {
+                hls.loadSource(url);
+            });
+        } else {
+            document.getElementById("player").src = url;
+        }
+    }
+</script>
+</body>
+</html>
