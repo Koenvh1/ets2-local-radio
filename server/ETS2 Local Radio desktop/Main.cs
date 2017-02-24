@@ -549,38 +549,6 @@ namespace ETS2_Local_Radio_server
 
         private void URLLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            var reg = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion");
-
-            string productName = (string)reg.GetValue("ProductName");
-
-            Console.WriteLine("Current OS: " + productName);
-            try
-            {
-                Process.Start(@"C:\Program Files\Mozilla Firefox\firefox.exe", comboIP.SelectedItem.ToString());
-                return;
-            }
-            catch (Exception)
-            {
-            }
-            try
-            {
-                Process.Start(@"C:\Program Files (x86)\Mozilla Firefox\firefox.exe", comboIP.SelectedItem.ToString());
-                return;
-            }
-            catch (Exception)
-            {
-            }
-            if (productName.StartsWith("Windows 10"))
-            {
-                try
-                {
-                    Process.Start("microsoft-edge:" + comboIP.SelectedItem.ToString());
-                    return;
-                }
-                catch (Exception)
-                {
-                }
-            }
             Process.Start(comboIP.SelectedItem.ToString());
         }
 
