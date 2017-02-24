@@ -60,9 +60,10 @@ then please try to reinstall the plugin by pressing the "Install plugin" button,
 `\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
 
 
-_ETS2 Local Radio crashes!_
+_Somethings else does not work!_
 
-Please open an issue or [contact me](http://koenvh.nl/contact). Include the `Error log.txt` file if possible.
+Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
+If that does not work, then please open an issue or [contact me](http://koenvh.nl/contact). Include the `Error log.txt` file if possible.
 
 ##How to uninstall it:
 
