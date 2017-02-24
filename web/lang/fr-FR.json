@@ -5,6 +5,7 @@
     "connect-other-device": "Connecter à un autre appareil",
     "coverage-map": "Carte de la couverture",
     "stop-playback": "Arrêter la lecture",
+    "volume": "Volume",
     "stations": "Stations:",
     "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
     "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
@@ -16,6 +17,7 @@
     "waiting-coordinates": "En attente de vos coordonnées en-jeu...",
     "closest-city": "La ville la plus proche est: <span class='nearestCity'></span>, à <span class='distance'></span> mètres de votre position",
     "amount-static": "Montant de grésillements:",
+    "brightness": "Brightness:",
     "show-all": "Afficher toutes les stations",
     "enter-peerid-title": "Entrer le PeerID",
     "enter-peerid-body": "Merci d'entrer le PeerID que vous voyez sur l'appareil auquel vous souhaitez vous connecter:",
@@ -24,6 +26,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Game:",
     "status": "Statut:",
     "simulator-not-running": "Le simulateur n'est pas lancé",
     "simulator-not-driving": "Le simulateur est lancé, allons conduire!",

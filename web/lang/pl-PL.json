@@ -5,6 +5,7 @@
     "connect-other-device": "Połącz z innym urządzeniem",
     "coverage-map": "Mapa pokrycia",
     "stop-playback": "Zatrzymaj odtwarzanie",
+    "volume": "Volume",
     "stations": "Stacje:",
     "unsupported-browser": "Twoja przeglądarka może nie wspierać wszystkich stacji radiowych. Proszę, otwórz ETS2 Local Radio w Mozilli Firefox lub Microsoft Edge.",
     "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",

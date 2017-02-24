@@ -17,6 +17,7 @@
     "waiting-coordinates": "Venter på dine koordinater i spillet...",
     "closest-city": "Nærmeste by er: <span class='nearestCity'></span>, <span class='distance'></span> meter væk",
     "amount-static": "Mængde af støj:",
+    "brightness": "Brightness:",
     "show-all": "Skift vis alle",
     "enter-peerid-title": "Indtast PeerID",
     "enter-peerid-body": "Indtast venligst det PeerID du ser på enheden du vil forbinde til:",
@@ -25,6 +26,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Game:",
     "status": "Status:",
     "simulator-not-running": "Simulator kører ikke",
     "simulator-not-driving": "Simulator kører, lad os komme afsted!",

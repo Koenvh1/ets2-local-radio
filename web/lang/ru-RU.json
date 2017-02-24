@@ -5,6 +5,7 @@
     "connect-other-device": "Подключить другое устройство",
     "coverage-map": "Покрытие карты",
     "stop-playback": "Остановить проигрывание",
+    "volume": "Volume",
     "stations": "Радиостанции:",
     "unsupported-browser": "Ваш браузер может не поддерживать все радиостанции. Рекомендуется открывать ETS2 Local Radio в Mozilla Firefox или Microsoft Edge.",
     "microsoft-edge": "Если проигрывание остановится после сворачивания окна, тогда разрешите программе Microsoft Edge работать в качестве фонового приложения, следуя по следующему пути: Windows settings > Privacy > Background Apps.",

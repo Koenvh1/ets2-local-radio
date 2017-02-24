@@ -5,6 +5,7 @@
     "connect-other-device": "Ühendu teise seadmega",
     "coverage-map": "Levialakaart",
     "stop-playback": "Lõpeta mängimine",
+    "volume": "Volume",
     "stations": "Jaamad:",
     "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
     "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
@@ -16,6 +17,7 @@
     "waiting-coordinates": "Ootan sinu mängusiseseid koordinaate...",
     "closest-city": "Lähim linn: <span class='nearestCity'></span>, <span class='distance'></span> meetri kaugusel",
     "amount-static": "Müra kogus",
+    "brightness": "Brightness:",
     "show-all": "Näita kõiki",
     "enter-peerid-title": "Sisesta PeerID",
     "enter-peerid-body": "Palun sisesta seadme PeerID, kuhu soovid ühilduda:",
@@ -24,6 +26,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Game:",
     "status": "Staatus:",
     "simulator-not-running": "Simulaator ei tööta.",
     "simulator-not-driving": "Simulaator töötab, lähme sõitma!",

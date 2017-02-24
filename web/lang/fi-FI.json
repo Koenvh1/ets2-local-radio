@@ -5,6 +5,7 @@
     "connect-other-device": "Yhdistä toiseen laitteeseen",
     "coverage-map": "Kuuluvuuskartta",
     "stop-playback": "Pysäytä toisto",
+    "volume": "Volume",
     "stations": "Kanavat:",
     "unsupported-browser": "Ei-tuettu selain:selaimesi ei välttämättä tue kaikkia radiokanavia. Avaa ETS2 Local radio Mozilla Firefoxissa tai Microsoft Edgessä.",
     "microsoft-edge": "Jos toisto pysähtyy kun pienennät ikkunan, salli Microsoft Edgen olla käynnissä taustalla menemällä Windowsin asetukset >Yksityisyys >Taustaohjelmat",

@@ -5,6 +5,7 @@
     "connect-other-device": "Connetti ad un altro dispositivo",
     "coverage-map": "Copertura mappa",
     "stop-playback": "Interrompi playback",
+    "volume": "Volume",
     "stations": "Stazioni:",
     "unsupported-browser": "Il tuo browser sembra non supportare tutte le stazioni radio. Per favore apri ETS2 Local Radio in Mozilla Firefox o Microsoft Edge.",
     "microsoft-edge": "Se il playback si arresta quando riducete a icona la finestra, per favore permettete a  Microsoft Edge di essere eseguito in background andando su  Impostazioni di Windows > Privacy > Background Apps.",
@@ -16,6 +17,7 @@
     "waiting-coordinates": "Attendo le tue coordinate in-game...",
     "closest-city": "Città; più; vicina : <span class='nearestCity'></span>, <span class='distance'></span> metri",
     "amount-static": "Riduzione del Rumore:",
+    "brightness": "Brightness:",
     "show-all": "Mostra Tutto",
     "enter-peerid-title": "inserisci PeerID",
     "enter-peerid-body": "Inserisci lo PeerID del dispositivo al quale vuoi connetterti:",
@@ -24,6 +26,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Game:",
     "status": "Status:",
     "simulator-not-running": "Il simulatore non è in esecuzione!",
     "simulator-not-driving": "Simulatore in esecuzione, cominciamo a guidare!",

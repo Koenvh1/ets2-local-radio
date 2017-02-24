@@ -5,6 +5,7 @@
     "connect-other-device": "Conectar a outro dispositivo",
     "coverage-map": "Mapa de cobertura",
     "stop-playback": "Parar reprodução",
+    "volume": "Volume",
     "stations": "Estações:",
     "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
     "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
@@ -16,6 +17,7 @@
     "waiting-coordinates": "Esperando por sua localização...",
     "closest-city": "A cidade mais próxima é: <span class='nearestCity'></span>, <span class='distance'></span> metros distante",
     "amount-static": "Intensidade do chiado:",
+    "brightness": "Brightness:",
     "show-all": "Mostrar todas",
     "enter-peerid-title": "Digite a ID do dispositivo",
     "enter-peerid-body": "Por favor digite a PeerID que você vê no dispositivo ao qual quer conectar:",
@@ -24,6 +26,7 @@
   },
   "server": {
     "info": "Info",
+    "game": "Game:",
     "status": "Status:",
     "simulator-not-running": "Jogo não iniciado",
     "simulator-not-driving": "Jogo iniciado, vamos dirigir!",

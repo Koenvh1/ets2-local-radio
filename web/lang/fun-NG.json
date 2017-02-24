@@ -5,8 +5,10 @@
     "connect-other-device": "Tillinka annað täky",
     "coverage-map": "Dekningskort",
     "stop-playback": "Stopp avspilning",
+    "volume": "Volume",
     "stations": "Staġone:",
     "unsupported-browser": "Dajð browser inðema stöttit alle radiostaġone. Tak åban ETS2 Local Radio y annaðval Mozilla Firefox elle Microsoft Edge.",
+    "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
     "update-available": "A uppdatering er boðit!",
     "update-now": "Uppdater nu",
     "controlled-remotely": "Dehir spiloreð er avstandskontrollit",
@@ -24,6 +26,7 @@
   },
   "server": {
     "info": "Informaġon",
+    "game": "Game:",
     "status": "Stat:",
     "simulator-not-running": "Simulator inðänspile",
     "simulator-not-driving": "Simulator spile, vyska rida!",

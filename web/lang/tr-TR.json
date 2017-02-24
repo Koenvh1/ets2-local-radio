@@ -5,6 +5,7 @@
     "connect-other-device": "Başka bir cihaza bağlan",
     "coverage-map": "Harita kapsamı",
     "stop-playback": "Oynatmayı durdur",
+    "volume": "Volume",
     "stations": "İstasyonlar:",
     "unsupported-browser": "Your browser may not support all radio stations. Please open ETS2 Local Radio in either Mozilla Firefox or Microsoft Edge.",
     "microsoft-edge": "If the playback stops once you minimise the window, then please allow Microsoft Edge to run as a background app by going to Windows settings > Privacy > Background Apps.",
@@ -16,6 +17,7 @@
     "waiting-coordinates": "Oyun içindeki koordinatlarınız bekleniyor...",
     "closest-city": "En yakın şehir: <span class='nearestCity'></span>, <span class='mesafe'></span> metre uzaklıkta",
     "amount-static": "Giriş miktarı:",
+    "brightness": "Brightness:",
     "show-all": "Tümünü göster",
     "enter-peerid-title": "PeerID Girin",
     "enter-peerid-body": "Lütfen bağlanmak istediğiniz cihazdaki gördüğünüz PeerID 'yi giriniz.:",
@@ -24,6 +26,7 @@
   },
   "server": {
     "info": "Bilgi",
+    "game": "Game:",
     "status": "Durum:",
     "simulator-not-running": "Simulator açık değil",
     "simulator-not-driving": "Simulator açık, hadi sürelim!",
