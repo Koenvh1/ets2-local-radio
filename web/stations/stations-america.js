@@ -586,6 +586,11 @@ var stations = {
             logo: "stations/images-america/stockton/99.3 KJOY.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KJOYFM"
         },
+        {
+            name: "KWIN",
+            logo: "stations/images-america/stockton/KWIN.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KWINFM"
+        },
     ],
     "tonopah": [
         {
@@ -597,6 +602,11 @@ var stations = {
             name: "CSN",
             logo: "stations/images-america/tonopah/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "KIBS",
+            logo: "stations/images-america/tonopah/KIBS.png",
+            url: "http://ic2.mainstreamnetwork.com/kibs-fm"
         },
     ],
     "truckee": [

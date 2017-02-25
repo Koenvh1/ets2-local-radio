@@ -2003,6 +2003,16 @@ var stations = {
             url: "http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web"
         },
         {
+            name: "Lugna Favoriter",
+            logo: "stations/images-europe/sweden/Lugna Favoriter.png",
+            url: "http://fm03-icecast.mtg-r.net/fm03_mp3"
+        },
+        {
+            name: "Mix Megapol",
+            logo: "stations/images-europe/sweden/Mix Megapol.png",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/mixmegapol_instream_se_aacp"
+        },
+        {
             name: "NRJ",
             logo: "stations/images-europe/sweden/NRJ.png",
             url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/nrj_instreamtest_se_mp3"
@@ -2011,6 +2021,16 @@ var stations = {
             name: "Rix FM",
             logo: "stations/images-europe/sweden/Rix FM.png",
             url: "http://fm01-icecast.mtg-r.net/fm01_mp3?platform=web"
+        },
+        {
+            name: "Rockklassiker",
+            logo: "stations/images-europe/sweden/Rockklassiker.jpg",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/rockklassiker_instream_se_aacp"
+        },
+        {
+            name: "Vinyl FM",
+            logo: "stations/images-europe/sweden/Vinyl FM.png",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/vinylfm_instream_se_aacp"
         },
     ],
     "switzerland-de": [
