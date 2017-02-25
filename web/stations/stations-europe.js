@@ -245,7 +245,7 @@ var stations = {
         {
             name: "Alpha Radio",
             logo: "stations/images-europe/bulgaria/Alpha Radio.png",
-            url: "http://alpharadio.bg:8000/stream"
+            url: "http://stream-bg.net:8020/AlphaRadio"
         },
         {
             name: "Радио FM+",
@@ -2001,6 +2001,11 @@ var stations = {
             name: "Bandit Rock",
             logo: "stations/images-europe/sweden/Bandit Rock.png",
             url: "http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web"
+        },
+        {
+            name: "NRJ",
+            logo: "stations/images-europe/sweden/NRJ.png",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/nrj_instreamtest_se_mp3"
         },
         {
             name: "Rix FM",
