@@ -8,6 +8,8 @@ var g_translation;
 var g_countries = {};
 //stations near you global:
 var g_stations = [];
+//favourites global:
+var g_favourites = {};
 //current country for that radio:
 var g_current_country = null;
 //current url for the radio:
@@ -61,6 +63,7 @@ function initialise() {
     $("#volumeControl").val(g_volume * 100);
 
     refreshLanguage();
+    refreshFavourites();
 
     setInterval(function () {
         $.getJSON("api/", function (data) {
@@ -346,7 +349,7 @@ function setWhitenoise(volume) {
         var playerVolume = g_volume;
         if(newVolume > 0.5 * g_volume){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
-            playerVolume = document.getElementById("player").volume + parseFloat((((Math.floor(Math.random() * 19) / 100) - 0.09) / 0.8) * g_volume);
+            playerVolume = document.getElementById("player").volume + parseFloat((((Math.random() / 10) - 0.048) * 5) * g_volume);
             if(playerVolume > g_volume) playerVolume = g_volume;
             if(playerVolume < 0) playerVolume = 0;
             document.getElementById("player").volume = playerVolume;
@@ -374,7 +377,11 @@ function setFavouriteStation(country, name) {
         }));
     } else {
         $.get("/favourite/" + country + "/" + encodeURIComponent(name), function(){
-            refreshStations();
+            $("#snackbar").html(country_properties[country].name + " <span class='glyphicon glyphicon-heart'></span>  " + name).addClass("show");
+            setTimeout(function () {
+                $("#snackbar").removeClass("show");
+            }, 3000);
+            refreshFavourites();
         });
         //alert("Favourite for " + country.toUpperCase() + " is now " + name);
     }
@@ -397,6 +404,9 @@ function togglePlay() {
         }
     } else {
         if (document.getElementById('player').paused) {
+            var src = document.getElementById('player').src;
+            document.getElementById('player').src = "about:blank";
+            document.getElementById('player').src = src;
             document.getElementById('player').play();
             document.getElementById('whitenoise').play();
             $("#stopPlayback").attr("src", "lib/img/stop-button.png");
@@ -478,6 +488,7 @@ function refreshStations() {
                 //TODO: Stop playback when station is out of reach
 
                 /*
+                /*
                 var relative_whitenoise = 1;
                 if (typeof city_properties[key]["relative_whitenoise"] !== "undefined") {
                     relative_whitenoise = city_properties[key]["relative_whitenoise"];
@@ -500,7 +511,7 @@ function refreshStations() {
                     '<div class="play-button"></div>' +
                     '</div>' +
                         //(localStorage.getItem("fav-" + key) == stations[key][j]['name'])
-                    (1 == 2 ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\'); $(this).css(\'background-color\', \'#2ebb1e\');">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
+                    (g_favourites.hasOwnProperty(key) && g_favourites[key] == stations[key][j].name ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\'); $(this).css(\'background-color\', \'#2ebb1e\');">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
                     '</div>';
             }
         }
@@ -517,6 +528,13 @@ function refreshLanguage() {
                 $(".lang-" + key).html(data.web[key]);
             }
         }
+    });
+}
+
+function refreshFavourites() {
+    $.getJSON("/favourite/", function (data) {
+        g_favourites = data;
+        refreshStations();
     });
 }
 
