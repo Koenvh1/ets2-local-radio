@@ -430,6 +430,9 @@ var city_properties = {
     "dusseldorf": {
         relative_radius: 0.8,
     },
+    "falkenberg": {
+        relative_radius: 0.6,
+    },
     "flensburg": {
         relative_radius: 0.5,
     },
@@ -508,7 +511,7 @@ var city_properties = {
         relative_radius: 1,
     },
     "kristiansand": {
-        relative_radius: 0.7,
+        relative_radius: 0.8,
     },
     "kristiinank": {
         relative_radius: 0.5,
@@ -582,6 +585,10 @@ var city_properties = {
     "ornskoldsvik": {
         relative_radius: 0.6,
     },
+    "oslo": {
+        relative_radius: 1.2,
+        relative_whitenoise: 0.85,
+    },
     "osnabruck": {
         relative_radius: 0.8,
     },
@@ -654,6 +661,10 @@ var city_properties = {
     },
     "southampton": {
         relative_radius: 0.75,
+    },
+    "stavanger": {
+        relative_radius: 1.6,
+        relative_whitenoise: 0.85,
     },
     "sthelier": {
         relative_radius: 0.2,
@@ -1510,6 +1521,14 @@ var cities = [
         "z": "-69291.6"
     },
     {
+        "gameName": "falkenberg",
+        "realName": "Falkenberg",
+        "country": "sweden",
+        "x": "7712",
+        "y": "101.398",
+        "z": "-34400"
+    },
+    {
         "gameName": "felixstowe",
         "realName": "Felixstowe",
         "country": "uk",
@@ -2252,6 +2271,14 @@ var cities = [
         "x": "45112.6",
         "y": "104.199",
         "z": "-60580.5"
+    },
+    {
+        "gameName": "lleida",
+        "realName": "Lleida",
+        "country": "spain",
+        "x": "-44866.44",
+        "y": "90.86",
+        "z": "46568.61"
     },
     {
         "gameName": "leipzig",
