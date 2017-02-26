@@ -129,6 +129,7 @@ namespace ETS2_Local_Radio_server
                     comboController.Items.Add(item.InstanceName);
                 }
             }
+            AttachJoystick();
 
             currentGameTimer.Start();
 

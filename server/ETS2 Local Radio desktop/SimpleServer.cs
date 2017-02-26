@@ -207,9 +207,13 @@ namespace ETS2_Local_Radio_server
                 Console.WriteLine(favourite);
                 try
                 {
-                    string[] favouriteArray = favourite.Split(new string[] {"/"}, StringSplitOptions.None);
+                    string[] favouriteArray = favourite.Split(new string[] { "/" }, StringSplitOptions.None);
                     string text = "";
-                    if (favouriteArray.Length == 1)
+                    if (favouriteArray.Length == 1 && favourite == "")
+                    {
+                        text = Favourites.Get("");
+                    }
+                    else if (favouriteArray.Length == 1)
                     {
                         text = "{\"Name\": \"" + Favourites.Get(favourite) + "\"}";
                     }
@@ -218,7 +222,7 @@ namespace ETS2_Local_Radio_server
                         Favourites.Set(favouriteArray[0], favouriteArray[1]);
                         Favourites.Save();
                         text = "{\"Success\": true}";
-                       
+
                     }
                     context.Response.ContentType = "application/json";
                     context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;

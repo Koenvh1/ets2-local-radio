@@ -26,6 +26,10 @@ namespace ETS2_Local_Radio_server
 
         public static string Get(string key)
         {
+            if (key == "")
+            {
+                return JsonConvert.SerializeObject(storage, Formatting.Indented);
+            }
             if (storage.ContainsKey(key))
             {
                 return storage[key];

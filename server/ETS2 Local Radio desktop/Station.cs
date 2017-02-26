@@ -151,10 +151,20 @@ namespace ETS2_Local_Radio_server
                         {
                             if (logoPath.EndsWith("svg"))
                             {
-                                var img = SvgDocument.Open(logoPath);
-                                logoPath = Directory.GetCurrentDirectory() + @"\svg.png";
-                                img.Draw().Save(logoPath);
-                                //img.Save(logoPath, ImageFormat.Png);
+                                try
+                                {
+                                    var img = SvgDocument.Open(logoPath);
+                                    logoPath = logoPath.Replace(".svg", ".png");
+                                    using (Bitmap tempImage = new Bitmap(img.Draw()))
+                                    {
+                                        tempImage.Save(logoPath);
+                                    }
+                                    //img.Save(logoPath, ImageFormat.Png);
+                                }
+                                catch (Exception)
+                                {
+                                    logoPath = logoPath.Replace(".svg", ".png");
+                                }
                             }
 
                             var logo = new Bitmap(logoPath);
