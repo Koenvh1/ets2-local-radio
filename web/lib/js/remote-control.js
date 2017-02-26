@@ -76,6 +76,8 @@ function connect(peerID) {
         conn.send(JSON.stringify({
             type: "connect"
         }));
+        $("#player").attr("src", "about:blank");
+        $("#whitenoise").attr("src", "about:blank");
         console.log("Successfully connected");
         controlRemote = true;
         connectedPeerID = peerID;
