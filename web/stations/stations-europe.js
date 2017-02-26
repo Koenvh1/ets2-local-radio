@@ -687,6 +687,11 @@ var stations = {
             url: "http://ais.rtl.fr:80/rtl2-1-44-128"
         },
         {
+            name: "Skyrock",
+            logo: "stations/images-europe/france/Skyrock.jpg",
+            url: "http://icecast.skyrock.net/s/natio_mp3_128k"
+        },
+        {
             name: "Virgin Radio",
             logo: "stations/images-europe/france/Virgin Radio.png",
             url: "http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3"
@@ -835,6 +840,11 @@ var stations = {
             logo: "stations/images-europe/germany-mdr/Radio SAW.png",
             url: "http://stream.saw-musikwelt.de/saw/mp3-128/vtuner/"
         },
+        {
+            name: "R.SA Sachsen Partywelle",
+            logo: "stations/images-europe/germany/R.SA Sachsen Partywelle.png",
+            url: "http://streams.rsa-sachsen.de/rsa-partywelle/mp3-128/streams.rsa-sachsen.de"
+        },
     ],
     "germany-ndr": [
         {
@@ -871,6 +881,11 @@ var stations = {
             name: "Antenne Niedersachsen",
             logo: "stations/images-europe/germany-ndr/Antenne Niedersachsen.png",
             url: "http://antenne-nds.hoerradar.de/mp3-128_antenne-nds?sABC=584s32p8%230%230p943sq4psrqo414468p79n46rsqpr05%23yvfgrayvir&amsparams=playerid:listenlive;skey:1481585352"
+        },
+        {
+            name: "Bremen NEXT",
+            logo: "stations/images-europe/germany-ndr/Bremen NEXT.png",
+            url: "http://rb-mp3-m-bremennext.akacast.akamaistream.net/7/705/234439/v1/gnl.akacast.akamaistream.net/rb-mp3-m-bremennext"
         },
         {
             name: "Bremen Vier",
@@ -1114,12 +1129,12 @@ var stations = {
         {
             name: "3FM",
             logo: "stations/images-europe/iom/3FM.jpg",
-            url: "http://tx.sharp-stream.com/http_live.php?i=3fmhigh.mp3"
+            url: "http://icy-e-03-boh.sharp-stream.com/3fmhigh.mp3"
         },
         {
             name: "Manx Radio",
             logo: "stations/images-europe/iom/Manx Radio.png",
-            url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
+            url: "http://icy-e-03-boh.sharp-stream.com/manxradiofm.mp3"
         },
     ],
     "ireland": [
@@ -1457,6 +1472,11 @@ var stations = {
             url: "http://stream.100p.nl/100pctnl.mp3",
         },
         {
+            name: "Arrow Classic Rock",
+            logo: "stations/images-europe/netherlands/Arrow Classic Rock.jpg",
+            url: "http://91.221.151.155:80/;"
+        },
+        {
             name: "BNR Nieuwsradio",
             logo: "stations/images-europe/netherlands/BNR Nieuwsradio.svg",
             url: "http://icecast-bnr.cdp.triple-it.nl/bnr_aac_32_04",
@@ -1511,7 +1531,7 @@ var stations = {
         {
             name: "Q Radio",
             logo: "stations/images-europe/nireland/Q Radio.png",
-            url: "http://tx.sharp-stream.com/http_live.php?i=qr967.mp3"
+            url: "http://icy-e-03-boh.sharp-stream.com/qr967.mp3"
         },
     ],
     "norway": [
@@ -1567,7 +1587,7 @@ var stations = {
         },
         {
             name: "NRK mP3",
-            logo: "stations/images-europe/norway/NRK mP3.jpg",
+            logo: "stations/images-europe/norway/NRK mP3.png",
             url: "http://lyd.nrk.no:80/nrk_radio_mp3_mp3_m"
         },
         {
@@ -1579,6 +1599,11 @@ var stations = {
             name: "P6 Rock",
             logo: "stations/images-europe/norway/P6 Rock.png",
             url: "http://stream.p4.no/p6_mp3_mq"
+        },
+        {
+            name: "Radio Norge",
+            logo: "stations/images-europe/norway/Radio Norge.png",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/radionorge_no_aac"
         },
     ],
     "poland": [
@@ -2005,7 +2030,7 @@ var stations = {
         {
             name: "Lugna Favoriter",
             logo: "stations/images-europe/sweden/Lugna Favoriter.png",
-            url: "http://fm03-icecast.mtg-r.net/fm03_mp3"
+            url: "http://fm03-icecast.mtg-r.net/fm03_mp3?platform=web"
         },
         {
             name: "Mix Megapol",
