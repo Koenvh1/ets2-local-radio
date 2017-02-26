@@ -5,7 +5,7 @@
     "connect-other-device": "Savienot ar citu ierīci",
     "coverage-map": "Pārklajuma karte",
     "stop-playback": "Apturēt atskaņojumu",
-    "volume": "Volume",
+    "volume": "Skaļums",
     "stations": "Radiostacijas:",
     "unsupported-browser": "Jūsu pārluks var neatbalstīt visas radiostācijas. Ieteicams atvērt \"ETS2 Local Radio\" pārlukā Mozilla Firefox vai Microsoft Edge.",
     "microsoft-edge": "Ja atskaņošana apturēsies pēc loga minimizēšanas, tad ļaujiet programmai Microsoft Edge strādāt, kā fona aplikācijai, kurus uzstādījumus varat atrast sekojošā ceļā: Windows settings > Privacy > Background Apps.",
