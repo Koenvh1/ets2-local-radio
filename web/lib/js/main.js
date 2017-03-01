@@ -92,6 +92,9 @@ function initialise() {
                     }
                     if (data.action == "next") {
                         nextStation(parseInt(data.amount));
+                        $('html, body').animate({
+                            scrollTop: ($('.thumbnail-selected').first().offset().top - 300)
+                        },500);
                     }
                     if (data.action == "volume") {
                         $("#volumeControl").val(parseInt($("#volumeControl").val()) + parseInt(data.amount));
@@ -362,10 +365,12 @@ function setWhitenoise(volume) {
         var playerVolume = g_volume;
         if(newVolume > 0.5 * g_volume){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
-            playerVolume = document.getElementById("player").volume + parseFloat((((Math.random() / 10) - 0.048) * 5) * g_volume);
+            playerVolume = document.getElementById("player").volume + parseFloat((Math.random() - 0.45) * g_volume) / 2;
             if(playerVolume > g_volume) playerVolume = g_volume;
             if(playerVolume < 0) playerVolume = 0;
-            document.getElementById("player").volume = playerVolume;
+            $("#player").stop();
+            $("#player").animate({volume: playerVolume}, 1000, "swing");
+            //document.getElementById("player").volume = playerVolume;
         } else {
             document.getElementById("player").volume = g_volume;
         }
