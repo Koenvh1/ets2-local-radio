@@ -140,6 +140,7 @@ namespace ETS2_Local_Radio_server
             volumeUpKeyTextBox.KeyDown += keyInput;
             volumeDownKeyTextBox.KeyDown += keyInput;
             makeFavouriteKeyTextbox.KeyDown += keyInput;
+            goToFavouriteKeyTextbox.KeyDown += keyInput;
 
             //Remove key binding:
             nextKeyTextBox.KeyDown += removeBinding;
@@ -148,6 +149,7 @@ namespace ETS2_Local_Radio_server
             volumeUpKeyTextBox.KeyDown += removeBinding;
             volumeDownKeyTextBox.KeyDown += removeBinding;
             makeFavouriteKeyTextbox.KeyDown += removeBinding;
+            goToFavouriteKeyTextbox.KeyDown += removeBinding;
 
             nextButtonTextBox.KeyDown += removeBinding;
             previousButtonTextBox.KeyDown += removeBinding;
@@ -155,6 +157,7 @@ namespace ETS2_Local_Radio_server
             volumeUpButtonTextBox.KeyDown += removeBinding;
             volumeDownButtonTextBox.KeyDown += removeBinding;
             makeFavouriteButtonTextbox.KeyDown += removeBinding;
+            goToFavouriteButtonTextbox.KeyDown += removeBinding;
         }
 
         private void LoadLanguages()
@@ -452,6 +455,12 @@ namespace ETS2_Local_Radio_server
 
                     writeFile("favourite", "0");
                 }
+                if (Settings.GoToFavouriteKey != "" && e.KeyCode == (Keys)Enum.Parse(typeof(Keys), Settings.GoToFavouriteKey, true))
+                {
+                    Console.WriteLine("Fired event GoToFavouriteKey");
+
+                    writeFile("goToFavourite", "0");
+                }
             }
             catch (Exception ex)
             {
@@ -492,6 +501,7 @@ namespace ETS2_Local_Radio_server
             Settings.VolumeUpKey = volumeUpKeyTextBox.Text;
             Settings.VolumeDownKey = volumeDownKeyTextBox.Text;
             Settings.MakeFavouriteKey = makeFavouriteKeyTextbox.Text;
+            Settings.GoToFavouriteKey = goToFavouriteKeyTextbox.Text;
 
             Settings.NextButton = nextButtonTextBox.Text;
             Settings.PreviousButton = previousButtonTextBox.Text;
@@ -499,6 +509,7 @@ namespace ETS2_Local_Radio_server
             Settings.VolumeUpButton = volumeUpButtonTextBox.Text;
             Settings.VolumeDownButton = volumeDownButtonTextBox.Text;
             Settings.MakeFavouriteButton = makeFavouriteButtonTextbox.Text;
+            Settings.GoToFavouriteButton = goToFavouriteButtonTextbox.Text;
 
             Settings.Save();
         }
@@ -583,6 +594,7 @@ namespace ETS2_Local_Radio_server
                 volumeUpKeyLabel.Text = (server["volume-up-key"] ?? volumeUpKeyLabel.Text);
                 volumeDownKeyLabel.Text = (server["volume-down-key"] ?? volumeDownKeyLabel.Text);
                 makeFavouriteKeyLabel.Text = (server["make-favourite-key"] ?? makeFavouriteKeyLabel.Text);
+                goToFavouriteKeyLabel.Text = (server["go-to-favourite-key"] ?? goToFavouriteKeyLabel.Text);
                 saveButton.Text = (server["save"] ?? saveButton.Text);
                 groupController.Text = (server["controller"] ?? groupController.Text);
                 groupInstall.Text = (server["install"] ?? groupInstall.Text);
@@ -681,6 +693,12 @@ namespace ETS2_Local_Radio_server
 
                             writeFile("favourite", "0");
                         }
+                        if (Settings.GoToFavouriteButton == i.ToString())
+                        {
+                            Console.WriteLine("Fired event GoToFavouriteButton");
+
+                            writeFile("goToFavourite", "0");
+                        }
                         if (nextButtonTextBox.Focused)
                         {
                             nextButtonTextBox.Text = i.ToString();
@@ -704,6 +722,10 @@ namespace ETS2_Local_Radio_server
                         if (makeFavouriteButtonTextbox.Focused)
                         {
                             makeFavouriteButtonTextbox.Text = i.ToString();
+                        }
+                        if (goToFavouriteButtonTextbox.Focused)
+                        {
+                            goToFavouriteButtonTextbox.Text = i.ToString();
                         }
                     }
                 }

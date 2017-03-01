@@ -107,6 +107,19 @@ function initialise() {
                             }
                         }
                     }
+                    if (data.action == "goToFavourite") {
+                        if(g_current_country != null) {
+                            $.getJSON("/favourite/" + g_current_country, function (data) {
+                                if(data.Name != "") {
+                                    var index = stations[g_current_country].map(function (e) {
+                                        return e.name;
+                                    }).indexOf(data["Name"]);
+
+                                    setRadioStation(stations[g_current_country][index]["url"], g_current_country, g_countries[g_current_country]["whitenoise"]);
+                                }
+                            });
+                        }
+                    }
                 }
             }
         });
@@ -142,7 +155,7 @@ function refresh(data) {
     var city_lowest_distance = "nothing";
     var lowest_distance = 999999999999999999;
     var available_countries = {
-        none: {
+        global: {
             country: "none",
             distance: 999999999999999999,
             whitenoise: 0
@@ -381,7 +394,10 @@ function setFavouriteStation(country, name) {
             setTimeout(function () {
                 $("#snackbar").removeClass("show");
             }, 3000);
-            refreshFavourites();
+            refreshFavourites(function () {
+                refreshStations();
+            });
+
         });
         //alert("Favourite for " + country.toUpperCase() + " is now " + name);
     }
@@ -466,7 +482,7 @@ function refreshStations() {
     for (var key in g_countries) {
         //Check whether country should be checked:
         if (!g_countries.hasOwnProperty(key)) continue;
-        if (key == "none") continue;
+        //if (key == "none") continue;
         if ($.isEmptyObject(stations[key])) continue;
         //console.log(key);
 
@@ -531,10 +547,12 @@ function refreshLanguage() {
     });
 }
 
-function refreshFavourites() {
+function refreshFavourites(callback) {
     $.getJSON("/favourite/", function (data) {
         g_favourites = data;
-        refreshStations();
+        if(typeof callback !== "undefined") {
+            callback();
+        }
     });
 }
 

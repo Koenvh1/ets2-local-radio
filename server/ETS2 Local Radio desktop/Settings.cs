@@ -22,6 +22,7 @@ namespace ETS2_Local_Radio_server
         public static string VolumeUpKey = "Oemplus";
         public static string VolumeDownKey = "OemMinus";
         public static string MakeFavouriteKey = "Pause";
+        public static string GoToFavouriteKey = "";
 
         public static string PreviousButton = "";
         public static string NextButton = "";
@@ -29,6 +30,7 @@ namespace ETS2_Local_Radio_server
         public static string VolumeUpButton = "";
         public static string VolumeDownButton = "";
         public static string MakeFavouriteButton = "";
+        public static string GoToFavouriteButton = "";
 
         public static string Ets2Folder = null;
         public static string AtsFolder = null;

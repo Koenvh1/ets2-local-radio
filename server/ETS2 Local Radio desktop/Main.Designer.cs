@@ -36,6 +36,9 @@
             this.previousKeyTextBox = new System.Windows.Forms.TextBox();
             this.stopKeyTextBox = new System.Windows.Forms.TextBox();
             this.groupSettings = new System.Windows.Forms.GroupBox();
+            this.goToFavouriteButtonTextbox = new System.Windows.Forms.TextBox();
+            this.goToFavouriteKeyLabel = new System.Windows.Forms.Label();
+            this.goToFavouriteKeyTextbox = new System.Windows.Forms.TextBox();
             this.buttonLabel = new System.Windows.Forms.Label();
             this.keyLabel = new System.Windows.Forms.Label();
             this.makeFavouriteButtonTextbox = new System.Windows.Forms.TextBox();
@@ -89,7 +92,7 @@
             // 
             this.saveButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.saveButton.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.saveButton.Location = new System.Drawing.Point(300, 206);
+            this.saveButton.Location = new System.Drawing.Point(300, 227);
             this.saveButton.Name = "saveButton";
             this.saveButton.Size = new System.Drawing.Size(105, 34);
             this.saveButton.TabIndex = 0;
@@ -128,6 +131,9 @@
             // 
             this.groupSettings.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupSettings.Controls.Add(this.goToFavouriteButtonTextbox);
+            this.groupSettings.Controls.Add(this.goToFavouriteKeyLabel);
+            this.groupSettings.Controls.Add(this.goToFavouriteKeyTextbox);
             this.groupSettings.Controls.Add(this.buttonLabel);
             this.groupSettings.Controls.Add(this.keyLabel);
             this.groupSettings.Controls.Add(this.makeFavouriteButtonTextbox);
@@ -152,10 +158,40 @@
             this.groupSettings.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.groupSettings.Location = new System.Drawing.Point(12, 157);
             this.groupSettings.Name = "groupSettings";
-            this.groupSettings.Size = new System.Drawing.Size(413, 246);
+            this.groupSettings.Size = new System.Drawing.Size(413, 267);
             this.groupSettings.TabIndex = 4;
             this.groupSettings.TabStop = false;
             this.groupSettings.Text = "Settings";
+            // 
+            // goToFavouriteButtonTextbox
+            // 
+            this.goToFavouriteButtonTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.goToFavouriteButtonTextbox.BackColor = System.Drawing.SystemColors.Window;
+            this.goToFavouriteButtonTextbox.Location = new System.Drawing.Point(332, 194);
+            this.goToFavouriteButtonTextbox.Name = "goToFavouriteButtonTextbox";
+            this.goToFavouriteButtonTextbox.ReadOnly = true;
+            this.goToFavouriteButtonTextbox.ShortcutsEnabled = false;
+            this.goToFavouriteButtonTextbox.Size = new System.Drawing.Size(60, 22);
+            this.goToFavouriteButtonTextbox.TabIndex = 24;
+            // 
+            // goToFavouriteKeyLabel
+            // 
+            this.goToFavouriteKeyLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.goToFavouriteKeyLabel.Location = new System.Drawing.Point(6, 194);
+            this.goToFavouriteKeyLabel.Name = "goToFavouriteKeyLabel";
+            this.goToFavouriteKeyLabel.Size = new System.Drawing.Size(224, 22);
+            this.goToFavouriteKeyLabel.TabIndex = 23;
+            this.goToFavouriteKeyLabel.Text = "Go to favourite key:";
+            this.goToFavouriteKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // goToFavouriteKeyTextbox
+            // 
+            this.goToFavouriteKeyTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.goToFavouriteKeyTextbox.Location = new System.Drawing.Point(236, 194);
+            this.goToFavouriteKeyTextbox.Name = "goToFavouriteKeyTextbox";
+            this.goToFavouriteKeyTextbox.ShortcutsEnabled = false;
+            this.goToFavouriteKeyTextbox.Size = new System.Drawing.Size(60, 22);
+            this.goToFavouriteKeyTextbox.TabIndex = 22;
             // 
             // buttonLabel
             // 
@@ -449,7 +485,7 @@
             this.comboLang.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboLang.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboLang.FormattingEnabled = true;
-            this.comboLang.Location = new System.Drawing.Point(360, 589);
+            this.comboLang.Location = new System.Drawing.Point(360, 609);
             this.comboLang.Name = "comboLang";
             this.comboLang.Size = new System.Drawing.Size(65, 21);
             this.comboLang.TabIndex = 8;
@@ -476,7 +512,7 @@
             this.groupInstall.Controls.Add(this.installEts2Button);
             this.groupInstall.Controls.Add(this.installAtsButton);
             this.groupInstall.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.groupInstall.Location = new System.Drawing.Point(12, 472);
+            this.groupInstall.Location = new System.Drawing.Point(12, 492);
             this.groupInstall.Name = "groupInstall";
             this.groupInstall.Size = new System.Drawing.Size(413, 82);
             this.groupInstall.TabIndex = 9;
@@ -515,7 +551,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
-            this.Koenvh.Location = new System.Drawing.Point(140, 560);
+            this.Koenvh.Location = new System.Drawing.Point(140, 580);
             this.Koenvh.Name = "Koenvh";
             this.Koenvh.Size = new System.Drawing.Size(156, 50);
             this.Koenvh.TabIndex = 6;
@@ -526,7 +562,7 @@
             // 
             this.groupController.Controls.Add(this.comboController);
             this.groupController.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.groupController.Location = new System.Drawing.Point(12, 410);
+            this.groupController.Location = new System.Drawing.Point(12, 430);
             this.groupController.Name = "groupController";
             this.groupController.Size = new System.Drawing.Size(413, 56);
             this.groupController.TabIndex = 10;
@@ -547,7 +583,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 620);
+            this.ClientSize = new System.Drawing.Size(437, 640);
             this.Controls.Add(this.groupController);
             this.Controls.Add(this.groupInstall);
             this.Controls.Add(this.comboLang);
@@ -615,5 +651,8 @@
         private System.Windows.Forms.Button installAtsButton;
         private System.Windows.Forms.GroupBox groupController;
         private System.Windows.Forms.ComboBox comboController;
+        private System.Windows.Forms.TextBox goToFavouriteButtonTextbox;
+        private System.Windows.Forms.Label goToFavouriteKeyLabel;
+        private System.Windows.Forms.TextBox goToFavouriteKeyTextbox;
     }
 }
