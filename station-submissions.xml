@@ -5,6 +5,21 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Rejected Chante France</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of France</description>
+        </item>
+        <item>
+            <title>Rejected Latina</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of France</description>
+        </item>
+        <item>
+            <title>Rejected KACG Oldies</title>
+            <link>javascript:;</link>
+            <description>Stream is blocked outside the USA :-(</description>
+        </item>
+        <item>
             <title>Rejected Radio Record</title>
             <link>javascript:;</link>
             <description>Station already added</description>
