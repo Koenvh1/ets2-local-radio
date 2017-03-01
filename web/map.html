@@ -79,13 +79,13 @@
                 overlay_countries[cities[i].country] = L.layerGroup([]);
             }
 
-            L.marker([lat, lon]).addTo(map).bindTooltip("<strong style='color: " + country_colors[cities[i].country] + "'>" + cities[i].gameName + "</strong>", {permanent: true}).openTooltip();
+            //L.marker([lat, lon]).addTo(map)
             var circle = L.circle([lat, lon], {
                 color: country_colors[cities[i].country],
                 fillColor: country_colors[cities[i].country],
                 fillOpacity: 0.3,
                 radius: radius
-            });
+            }).bindTooltip("<strong style='color: " + country_colors[cities[i].country] + "'>" + cities[i].gameName + "</strong>", {permanent: true}).openTooltip();;
 
             var whitenoise = radius * 0.6;
             if (typeof city_properties[cities[i].gameName] !== "undefined") {
