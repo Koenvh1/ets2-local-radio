@@ -388,6 +388,13 @@ var stations = {
             logo: "stations/images-america/phoenix/Family Radio West Coast.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
         },
+        /*
+        {
+            name: "KACG Oldies",
+            logo: "stations/images-america/phoenix/KACG Oldies.png",
+            url: "http://live.oldies927az.com/listen/"
+        },
+        */
         {
             name: "KFYI",
             logo: "stations/images-america/phoenix/KFYI.png",

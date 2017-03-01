@@ -615,6 +615,11 @@ var stations = {
             url: "http://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=f9fbk29m84"
         },
         {
+            name: "Autoroute Info",
+            logo: "stations/images-europe/france/Autoroute Info.gif",
+            url: "http://media.autorouteinfo.fr:8000/direct_nord.mp3"
+        },
+        {
             name: "Chérie FM",
             logo: "stations/images-europe/france/Chérie FM.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=listenlive"
@@ -842,7 +847,7 @@ var stations = {
         },
         {
             name: "R.SA Sachsen Partywelle",
-            logo: "stations/images-europe/germany/R.SA Sachsen Partywelle.png",
+            logo: "stations/images-europe/germany-mdr/R.SA Sachsen Partywelle.png",
             url: "http://streams.rsa-sachsen.de/rsa-partywelle/mp3-128/streams.rsa-sachsen.de"
         },
     ],
