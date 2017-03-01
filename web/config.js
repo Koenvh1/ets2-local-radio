@@ -1,7 +1,10 @@
 /*
-* So, you are on of those few people actually reading the config file. Great!
-* You are now able to optimise ETS2 Local Radio for you.
-* As always, have fun, and when something breaks, try reverting to the default :-)
+ * So, you are on of those few people actually reading the config file. Great!
+ * You are now able to optimise ETS2 Local Radio for you.
+ * As always, have fun, and when something breaks, try reverting to the default :-)
+ * This config file will reset every new version, so please make a backup of your changes.
+ *
+ * If you want to add your own custom radio stations, then please look at the stations\stations-custom.example.js file.
  */
 
 var g_skinConfig = {
@@ -14,7 +17,7 @@ var g_skinConfig = {
     "transition-whitenoise": true,          //Whether to play static when changing stations
     "peerJSkey": "w710twrvcnfdpldi",        //API key for PeerJS (remote control), no reason to change this yet
     "ets2": {
-        "map": "cities-ets2.js",  //What map you're using, this is default + ProMods + RusMap + Project Balkans + Egypt add-on by default. Pick one of the files in the cities folder.
+        "map": "cities-ets2.js",            //What map you're using, this is default + ProMods + RusMap + Project Balkans + Egypt add-on by default. Pick one of the files in the cities folder.
         "stations": "stations-europe.js",   //What stations file to use, currently only stations-europe available.
     },
     "ats": {
