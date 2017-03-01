@@ -353,6 +353,12 @@ var country_properties = {
         code: "gb-wls",
         relative_radius: 1.15,
     },
+    "global": {
+        name: "Global",
+        name_english: "Global",
+        code: "eu",
+        relative_radius: 1,
+    },
 };
 
 var city_properties = {

@@ -176,6 +176,9 @@
             dataType: "script",
             timeout: 3000
         }).done(function () {
+            $.getScript("/stations/stations-custom.js", function () {
+                for (var key in stations_custom) { if(stations_custom.hasOwnProperty(key)) stations[key] = stations_custom[key]; }
+            });
             $.ajax({
                 url: "/cities/" + g_skinConfig[g_game].map,
                 dataType: "script",

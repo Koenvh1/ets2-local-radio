@@ -117,13 +117,13 @@ var country_properties = {
         name: "Las Vegas",
         english_name: "Las Vegas",
         code: "us-nv",
-        relative_radius: 1.5
+        relative_radius: 2
     },
     "los_angeles": {
         name: "Los Angeles",
         english_name: "Los Angeles",
         code: "us-ca",
-        relative_radius: 1.5
+        relative_radius: 2
     },
     "nogales": {
         name: "Nogales",
@@ -159,7 +159,7 @@ var country_properties = {
         name: "Phoenix",
         english_name: "Phoenix",
         code: "us-az",
-        relative_radius: 1.5
+        relative_radius: 2
     },
     "pioche": {
         name: "Pioche",
@@ -213,7 +213,7 @@ var country_properties = {
         name: "San Francisco",
         english_name: "San Francisco",
         code: "us-ca",
-        relative_radius: 1.5
+        relative_radius: 2
     },
     "san_rafael": {
         name: "San Rafael",
@@ -261,7 +261,7 @@ var country_properties = {
         name: "Tucson",
         english_name: "Tucson",
         code: "us-az",
-        relative_radius: 1.5
+        relative_radius: 1.8
     },
     "ukiah": {
         name: "Ukiah",
@@ -298,6 +298,12 @@ var country_properties = {
         english_name: "Nevada",
         code: "us-nv",
         relative_radius: 1.5
+    },
+    "global": {
+        name: "Global",
+        english_name: "Global",
+        code: "us",
+        relative_radius: 1
     },
 };
 
