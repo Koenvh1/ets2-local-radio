@@ -738,7 +738,7 @@ var stations = {
         },
         {
             name: "Antenne Bayern",
-            logo: "stations/images-europe/germany-br/Antenne Bayern.svg",
+            logo: "stations/images-europe/germany-br/Antenne Bayern.png",
             url: "http://mp3channels.webradio.antenne.de:80/antenne"
         },
     ],
@@ -926,7 +926,7 @@ var stations = {
         },
         {
             name: "RBB Radio Eins",
-            logo: "stations/images-europe/germany-rbb/RBB Radio Eins.jpg",
+            logo: "stations/images-europe/germany-rbb/RBB Radio Eins.png",
             url: "http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m"
         },
         {
@@ -936,7 +936,7 @@ var stations = {
         },
         {
             name: "RBB Radio Berlin 88,8",
-            logo: "stations/images-europe/germany-rbb/RBB Radio Berlin 88,8.jpg",
+            logo: "stations/images-europe/germany-rbb/RBB Radio Berlin 88,8.png",
             url: "http://rbb-mp3-radioberlin-m.akacast.akamaistream.net/7/70/292096/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioberlin_m"
         },
         {
@@ -1693,7 +1693,7 @@ var stations = {
     "romania": [
         {
             name: "SRR Radio România Actualitati",
-            logo: "stations/images-europe/romania/SRR Radio România Actualitati.jpg",
+            logo: "stations/images-europe/romania/SRR Radio România Actualitati.png",
             url: "http://stream2.srr.ro:8002/;"
         },
         {
@@ -1703,7 +1703,7 @@ var stations = {
         },
         {
             name: "SRR Radio România Muzical",
-            logo: "stations/images-europe/romania/SRR Radio România Muzical.jpg",
+            logo: "stations/images-europe/romania/SRR Radio România Muzical.png",
             url: "http://stream2.srr.ro:8022/;"
         },
         {
@@ -1713,7 +1713,7 @@ var stations = {
         },
         {
             name: "Europa FM",
-            logo: "stations/images-europe/romania/Europa FM.jpg",
+            logo: "stations/images-europe/romania/Europa FM.png",
             url: "http://astreaming.europafm.ro:8000/europafm_aacp48k"
         },
         {
@@ -1722,9 +1722,19 @@ var stations = {
             url: "http://80.86.106.143:9128/kissfm.aacp"
         },
         {
+            name: "Național FM",
+            logo: "stations/images-europe/romania/Național FM.png",
+            url: "http://live.nationalfm.ro:8001/;"
+        },
+        {
             name: "ProFM",
             logo: "stations/images-europe/romania/ProFM.png",
             url: "http://m.protv.md:8000/profm-128.mp3"
+        },
+        {
+            name: "Radio Trinitas",
+            logo: "stations/images-europe/romania/Radio Trinitas.png",
+            url: "http://live.radiotrinitas.ro:8000/;"
         },
         {
             name: "Radio Zu",
@@ -1886,7 +1896,7 @@ var stations = {
         },
         {
             name: "Fun rádio",
-            logo: "stations/images-europe/slovakia/Fun rádio.gif",
+            logo: "stations/images-europe/slovakia/Fun rádio.png",
             url: "http://stream.funradio.sk:8000/fun128.mp3"
         },
         {
