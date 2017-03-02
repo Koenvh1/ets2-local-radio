@@ -444,7 +444,7 @@ var stations = {
         },
         {
             name: "Raadio Elmar",
-            logo: "stations/images-europe/estonia/Raadio Elmar.jpg",
+            logo: "stations/images-europe/estonia/Raadio Elmar.png",
             url: "http://217.146.71.24:80/elmar.mp3"
         },
         {
@@ -1201,9 +1201,19 @@ var stations = {
             url: "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8"
         },
         {
+            name: "R101",
+            logo: "stations/images-europe/italy/R101.png",
+            url: "http://wradio.msf.ticdn.it/r101"
+        },
+        {
             name: "Radio 105 FM",
             logo: "stations/images-europe/italy/Radio 105 FM.png",
             url: "http://icecast.unitedradio.it/Radio105.mp3"
+        },
+        {
+            name: "Radio Capital",
+            logo: "stations/images-europe/italy/Radio Capital.png",
+            url: "http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8"
         },
         {
             name: "Radio Deejay",
@@ -1214,6 +1224,11 @@ var stations = {
             name: "Radio Dimensione Suono (RDS)",
             logo: "stations/images-europe/italy/Radio Dimensione Suono (RDS).png",
             url: "http://www.rds.it:8000/stream"
+        },
+        {
+            name: "Radio Italia",
+            logo: "stations/images-europe/italy/Radio Italia.png",
+            url: "http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8"
         },
         {
             name: "Radio Kiss Kiss",
@@ -1913,7 +1928,7 @@ var stations = {
         },
         {
             name: "Radio 1",
-            logo: "stations/images-europe/slovenia/Radio 1.jpg",
+            logo: "stations/images-europe/slovenia/Radio 1.png",
             url: "http://live.radio.si/Radio1"
         },
         {

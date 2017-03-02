@@ -398,6 +398,9 @@ var city_properties = {
     "borisoglebsk": {
         relative_radius: 2,
     },
+    "brno": {
+        relative_whitenoise: 0.85,
+    },
     "bryansk": {
         relative_radius: 1.6,
     },
@@ -641,11 +644,14 @@ var city_properties = {
     "poznan": {
         relative_radius: 1.6,
     },
-    "puttgarden": {
-        relative_radius: 0.5,
+    "prague": {
+        relative_whitenoise: 0.85,
     },
     "pskov": {
         relative_radius: 0.6,
+    },
+    "puttgarden": {
+        relative_radius: 0.5,
     },
     "rakvere": {
         relative_radius: 0.8,
