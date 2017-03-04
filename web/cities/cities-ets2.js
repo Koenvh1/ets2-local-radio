@@ -398,6 +398,9 @@ var city_properties = {
     "borisoglebsk": {
         relative_radius: 2,
     },
+    "bozen": {
+        relative_radius: 0.5,
+    },
     "brno": {
         relative_whitenoise: 0.85,
     },
@@ -1542,14 +1545,6 @@ var cities = [
         "x": "-38532.4",
         "y": "119.637",
         "z": "-69291.6"
-    },
-    {
-        "gameName": "falkenberg",
-        "realName": "Falkenberg",
-        "country": "sweden",
-        "x": "7712",
-        "y": "101.398",
-        "z": "-34400"
     },
     {
         "gameName": "felixstowe",
@@ -4849,6 +4844,14 @@ var cities_wip = [
         "z": "-41394.61"
     },
     {
+        "gameName": "bozen",
+        "realName": "Bozen",
+        "country": "italy",
+        "x": "2128",
+        "y": "101.398",
+        "z": "23776"
+    },
+    {
         "gameName": "chernyakh",
         "realName": "Черняховск (Chernyakhovsk)",
         "country": "russia",
@@ -4871,6 +4874,14 @@ var cities_wip = [
         "x": "-63840.33",
         "y": "32.71",
         "z": "-31834.84"
+    },
+    {
+        "gameName": "falkenberg",
+        "realName": "Falkenberg",
+        "country": "sweden",
+        "x": "7712",
+        "y": "101.398",
+        "z": "-34400"
     },
     {
         "gameName": "galway",

@@ -52,13 +52,18 @@ var stations = {
         },
         {
             name: "ORF FM4",
-            logo: "stations/images-europe/austria/ORF FM4.jpg",
+            logo: "stations/images-europe/austria/ORF FM4.png",
             url: "http://mp3stream1.apasf.apa.at/;stream.mp3"
         },
         {
             name: "KroneHit",
             logo: "stations/images-europe/austria/KroneHit.png",
             url: "http://raj.krone.at:80/kronehit-hd.mp3"
+        },
+        {
+            name: "Life Radio",
+            logo: "stations/images-europe/austria/Life Radio.jpg",
+            url: "http://stream1.liferadio.at/"
         },
         {
             name: "Radio 88.6",
