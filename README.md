@@ -30,7 +30,7 @@ Please make sure your firewall is not blocking the connection.
 If you use a different firewall that Windows Firewall, then please allow incoming connections on port 8330.
 You can test whether the firewall is the issue by going to [http://localhost:8330](http://localhost:8330), 
 if that works, it is most likely a firewall issue. 
-Add ETS2 Local Radio server and/or incoming port 8330 (TCP) to the exceptions list (see your firewall's manual how to do that),
+Add ETS2 Local Radio server and/or incoming port 8330 (TCP) to the exceptions list (consult your firewall's manual how to do that),
 or just use [http://localhost:8330](http://localhost:8330).
 
 If it does not work on localhost either, then please try changing the default port in the `settings.json` file.
@@ -99,6 +99,16 @@ Each country has its own (random) colour, to make it easier to see the differenc
 
 Once you enter a different country, the radio will automatically switch to a station from that country.
 Normally this is the first available station, but if you set a station as your favourite, that station will be played instead.
+You can also quickly switch to that station if you press assign a key/button to the "Switch to favourite" option.
+
+###Can I add my own stations?
+
+Yes you can! Just head over to the [submit station](https://koenvh.nl/submit-station) page. 
+If it is accepted, it will be added in the next update.
+However, maybe your station does not meet the criteria (web only, does not broadcast in the majority of a country),
+but you still want to add it. That's possible too. 
+Just go to the `\web\stations\stations-custom.example.js` file, rename it to `stations-custom.js` and add your own stations there.
+More information on that can be found in that file as well.
 
 ###Why do Chrome, Opera, Internet Explorer and others not work fully?
 

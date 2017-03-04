@@ -4,16 +4,9 @@ This document describes all settings for ETS2 Local Radio, and their function.
 
 ## Server
 
-Can be found as `ETS2 Local Radio server.exe.Config` in the root folder.
-Follows default ConfigurationManager syntax.
+Can be found as `settings.json` in the root folder.
 
-#### Setup (redundant)
-Whether the setup has been executed
-
-#### BaseURL (redundant)
-The base URL where the web interface can be found, e.g. `http://localhost:8330`
-
-#### Port
+#### port
 The port that ETS2 Local Radio server should use for the built-in web server. 
 By default `8330`. Edit if this port is already in use
 
