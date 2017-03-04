@@ -5,6 +5,21 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Rejected Barcelona City FM</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Spain / Catalonia</description>
+        </item>
+        <item>
+            <title>Rejected SLAM</title>
+            <link>javascript:;</link>
+            <description>Station already added</description>
+        </item>
+        <item>
+            <title>Added NRJ (SE)</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Rejected Chante France</title>
             <link>javascript:;</link>
             <description>Does not broadcast in the majority of France</description>
