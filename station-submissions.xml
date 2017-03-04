@@ -5,6 +5,11 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Rejected SRO 1, Radio_FM, Devín, Funradio, Radio Expres (SK)</title>
+            <link>javascript:;</link>
+            <description>Stations were already added</description>
+        </item>
+        <item>
             <title>Rejected Barcelona City FM</title>
             <link>javascript:;</link>
             <description>Does not broadcast in the majority of Spain / Catalonia</description>
