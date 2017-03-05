@@ -99,7 +99,7 @@ Each country has its own (random) colour, to make it easier to see the differenc
 
 Once you enter a different country, the radio will automatically switch to a station from that country.
 Normally this is the first available station, but if you set a station as your favourite, that station will be played instead.
-You can also quickly switch to that station if you press assign a key/button to the "Switch to favourite" option.
+You can also quickly switch to that station if you assign a key/button to the "Switch to favourite" option.
 
 ###Can I add my own stations?
 
