@@ -16,7 +16,7 @@
  * (e.g. stations/images-custom/My custom station.png). The website supports full URLs too.
  *
  * Additionally, you can also put stations under the "global" country. These stations will be available everywhere.
- * You can see TruckersFM and Dagnys Jukebox added here as an example.
+ * You can see simulator1.de, TruckersFM and Dagnys Jukebox added here as an example.
  */
 
 var stations_custom = {
@@ -26,6 +26,27 @@ var stations_custom = {
             logo: "Logo URL",
             url: "Stream URL"
         }
+    ],
+    "austria": [
+        {
+            name: "simulatorONE",
+            logo: "https://simulator1.de/wp-content/uploads/2017/02/s1-logo.png",
+            url: "http://stream1.laut.fm/simulator1"
+        },
+    ],
+    "germany": [
+        {
+            name: "simulatorONE",
+            logo: "https://simulator1.de/wp-content/uploads/2017/02/s1-logo.png",
+            url: "http://stream1.laut.fm/simulator1"
+        },
+    ],
+    "switzerland-de": [
+        {
+            name: "simulatorONE",
+            logo: "https://simulator1.de/wp-content/uploads/2017/02/s1-logo.png",
+            url: "http://stream1.laut.fm/simulator1"
+        },
     ],
     "global": [
         {

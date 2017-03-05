@@ -620,6 +620,11 @@ var stations = {
         },
         */
         {
+            name: "Radio Dei",
+            logo: "stations/images-europe/finland/Radio Dei.png",
+            url: "http://isojako.radiodei.fi:8000/yleisohjelma"
+        },
+        {
             name: "Radio Nostalgia",
             logo: "stations/images-europe/finland/Radio Nostalgia.png",
             url: "http://cdn.nrjaudio.fm/adwz1/fi/35059/mp3_128.mp3"
@@ -1680,14 +1685,44 @@ var stations = {
             url: "http://stream.p4.no/p4_mp3_hq"
         },
         {
+            name: "P5 Hits",
+            logo: "stations/images-europe/norway/P5 Hits.png",
+            url: "http://stream.p4.no/p5oslo_mp3_mq"
+        },
+        {
             name: "P6 Rock",
             logo: "stations/images-europe/norway/P6 Rock.png",
             url: "http://stream.p4.no/p6_mp3_mq"
         },
         {
+            name: "P7 Klem",
+            logo: "stations/images-europe/norway/P7 Klem.png",
+            url: "http://stream.p4.no/p7_mp3_mq"
+        },
+        {
+            name: "P8 Pop",
+            logo: "stations/images-europe/norway/P8 Pop.png",
+            url: "http://stream.p4.no/p8_mp3_mq"
+        },
+        {
+            name: "P9 Retro",
+            logo: "stations/images-europe/norway/P9 Retro.png",
+            url: "http://stream.p4.no/p9_mp3_mq"
+        },
+        {
+            name: "P10 Country",
+            logo: "stations/images-europe/norway/P10 Country.png",
+            url: "http://stream.p4.no/p10_mp3_mq"
+        },
+        {
             name: "Radio Norge",
             logo: "stations/images-europe/norway/Radio Norge.png",
             url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/radionorge_no_aac"
+        },
+        {
+            name: "NRJ",
+            logo: "stations/images-europe/norway/NRJ.svg",
+            url: "http://stream.p4.no/nrj_mp3_mq"
         },
     ],
     "poland": [
