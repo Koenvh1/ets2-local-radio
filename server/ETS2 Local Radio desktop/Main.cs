@@ -90,6 +90,7 @@ namespace ETS2_Local_Radio_server
             volumeUpKeyTextBox.Text = Settings.VolumeUpKey;
             volumeDownKeyTextBox.Text = Settings.VolumeDownKey;
             makeFavouriteKeyTextbox.Text = Settings.MakeFavouriteKey;
+            goToFavouriteKeyTextbox.Text = Settings.GoToFavouriteKey;
 
             nextButtonTextBox.Text = Settings.NextButton;
             previousButtonTextBox.Text = Settings.PreviousButton;
@@ -97,6 +98,7 @@ namespace ETS2_Local_Radio_server
             volumeUpButtonTextBox.Text = Settings.VolumeUpButton;
             volumeDownButtonTextBox.Text = Settings.VolumeDownButton;
             makeFavouriteButtonTextbox.Text = Settings.MakeFavouriteButton;
+            goToFavouriteButtonTextbox.Text = Settings.GoToFavouriteButton;
 
             comboController.SelectedText = Settings.Controller;
 

@@ -54,6 +54,7 @@ namespace ETS2_Local_Radio_server
                 VolumeUpKey = s.keys.volumeUp ?? VolumeUpKey;
                 VolumeDownKey = s.keys.volumeDown ?? VolumeDownKey;
                 MakeFavouriteKey = s.keys.makeFavourite ?? MakeFavouriteKey;
+                GoToFavouriteKey = s.keys.goToFavourite ?? GoToFavouriteKey;
 
                 PreviousButton = s.buttons.previous ?? PreviousButton;
                 NextButton = s.buttons.next ?? NextButton;
@@ -61,6 +62,7 @@ namespace ETS2_Local_Radio_server
                 VolumeUpButton = s.buttons.volumeUp ?? VolumeUpButton;
                 VolumeDownButton = s.buttons.volumeDown ?? VolumeDownButton;
                 MakeFavouriteButton = s.buttons.makeFavourite ?? MakeFavouriteButton;
+                GoToFavouriteButton = s.buttons.goToFavourite ?? GoToFavouriteButton;
 
                 Ets2Folder = s.folders.ets2 ?? Ets2Folder;
                 AtsFolder = s.folders.ats ?? AtsFolder;
@@ -83,7 +85,8 @@ namespace ETS2_Local_Radio_server
                     stop = StopKey,
                     volumeUp = VolumeUpKey,
                     volumeDown = VolumeDownKey,
-                    makeFavourite = MakeFavouriteKey
+                    makeFavourite = MakeFavouriteKey,
+                    goToFavourite = GoToFavouriteKey
                 },
                 buttons = new
                 {
@@ -92,7 +95,8 @@ namespace ETS2_Local_Radio_server
                     stop = StopButton,
                     volumeUp = VolumeUpButton,
                     volumeDown = VolumeDownButton,
-                    makeFavourite = MakeFavouriteButton
+                    makeFavourite = MakeFavouriteButton,
+                    goToFavourite = GoToFavouriteButton
                 },
                 folders = new
                 {
