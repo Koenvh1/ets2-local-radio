@@ -29,7 +29,6 @@ var g_show_all = false;
 
 function initialise() {
     console.log("Start init");
-    g_hls = new Hls();
 
     $(document).ready(function () {
         document.getElementById("switchStation").volume = 0;
@@ -316,12 +315,14 @@ function setRadioStation(url, country, volume) {
             //Detach previous HLS if it is there
             if (g_hls != null) {
                 g_hls.detachMedia();
+                g_hls = null;
             }
             if (url.endsWith("m3u8")) {
                 //If HLS, continue here
+                g_hls = new Hls();
                 g_hls.attachMedia(document.getElementById("player"));
                 g_hls.on(Hls.Events.MEDIA_ATTACHED, function () {
-                    g_hls.loadSource(url);
+                    g_hls.loadSource(g_current_url);
                 });
             } else {
                 document.getElementById("player").src = url;
