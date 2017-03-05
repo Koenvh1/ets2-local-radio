@@ -12,8 +12,6 @@
  * Please make sure that you use the country name that is used in-game as well,
  * and please make sure the URL is the actual radio stream.
  * You can test that by opening the URL in VLC media player, if it plays, it is probably the right URL.
- * Please note that for the logo to show in the overlay, it needs to be referenced as a relative path from the web folder
- * (e.g. stations/images-custom/My custom station.png). The website supports full URLs too.
  *
  * Additionally, you can also put stations under the "global" country. These stations will be available everywhere.
  * You can see simulator1.de, TruckersFM and Dagnys Jukebox added here as an example.

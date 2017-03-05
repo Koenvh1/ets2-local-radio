@@ -9,6 +9,7 @@ using System.Drawing.Text;
 using System.IO;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Net;
 using System.Runtime.InteropServices;
 using System.Runtime.Remoting.Channels;
 using System.Text;
@@ -142,13 +143,26 @@ namespace ETS2_Local_Radio_server
                     }
                     if (logoPath != null)
                     {
-                        logoPath = Directory.GetCurrentDirectory() +
-                                   @"\web\" + logoPath.Replace("/", "\\");
+                        if (logoPath.StartsWith("http"))
+                        {
+                            using (var client = new WebClient())
+                            {
+                                var newPath = Directory.GetCurrentDirectory() + "\\tmp" + Path.GetExtension(logoPath);
+                                client.DownloadFile(logoPath, newPath);
+                                logoPath = newPath;
+                            }
+                        }
+                        else
+                        {
+                            logoPath = Directory.GetCurrentDirectory() +
+                                       @"\web\" + logoPath.Replace("/", "\\");
+                        }
                         //var logo = Image.FromFile(Directory.GetCurrentDirectory() + @"\web\stations\images-america\tucson\La Caliente.png");
                         //MessageBox.Show(Directory.GetCurrentDirectory() +
                         //                @"\web\" + logoPath.Replace("/", "\\"));
                         try
                         {
+                            
                             if (logoPath.EndsWith("svg"))
                             {
                                 try
