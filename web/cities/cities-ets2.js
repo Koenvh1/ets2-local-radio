@@ -17,6 +17,12 @@ var country_properties = {
         code: "at",
         relative_radius: 1,
     },
+    "basque": {
+        name: "Euskadi",
+        name_english: "Basque Country",
+        code: "es-bas",
+        relative_radius: 1,
+    },
     "belarus": {
         name: "Беларусь",
         name_english: "Belarus",
@@ -51,6 +57,12 @@ var country_properties = {
         name: "България",
         name_english: "Bulgaria",
         code: "bg",
+        relative_radius: 1,
+    },
+    "catalonia": {
+        name: "Catalunya",
+        name_english: "Catalonia",
+        code: "es-cat",
         relative_radius: 1,
     },
     "croatia": {
@@ -987,6 +999,14 @@ var cities = [
         "z": "49926.6"
     },
     {
+        "gameName": "barcelona",
+        "realName": "Barcelona",
+        "country": "catalonia",
+        "x": "-38510",
+        "y": "141.66",
+        "z": "49926.6"
+    },
+    {
         "gameName": "basel",
         "realName": "Basel",
         "country": "switzerland-de",
@@ -1062,6 +1082,14 @@ var cities = [
         "gameName": "bilbao",
         "realName": "Bilbao",
         "country": "spain",
+        "x": "-58174.8",
+        "y": "80.5313",
+        "z": "32488.9"
+    },
+    {
+        "gameName": "bilbao",
+        "realName": "Bilbao",
+        "country": "basque",
         "x": "-58174.8",
         "y": "80.5313",
         "z": "32488.9"
@@ -1390,6 +1418,14 @@ var cities = [
         "gameName": "donostia",
         "realName": "San Sebastian/Donostia",
         "country": "spain",
+        "x": "-53789.7",
+        "y": "63.875",
+        "z": "34870.4"
+    },
+    {
+        "gameName": "donostia",
+        "realName": "San Sebastian/Donostia",
+        "country": "basque",
         "x": "-53789.7",
         "y": "63.875",
         "z": "34870.4"
@@ -1955,6 +1991,14 @@ var cities = [
         "z": "35051"
     },
     {
+        "gameName": "irun",
+        "realName": "Irun",
+        "country": "basque",
+        "x": "-52725",
+        "y": "67.4961",
+        "z": "35051"
+    },
+    {
         "gameName": "isafjordur",
         "realName": "Ísafjörður",
         "country": "iceland",
@@ -1990,6 +2034,14 @@ var cities = [
         "gameName": "jonquera",
         "realName": "La Jonquera",
         "country": "spain",
+        "x": "-33815.4",
+        "y": "74.3125",
+        "z": "44330"
+    },
+    {
+        "gameName": "jonquera",
+        "realName": "La Jonquera",
+        "country": "catalonia",
         "x": "-33815.4",
         "y": "74.3125",
         "z": "44330"
@@ -2299,6 +2351,14 @@ var cities = [
         "z": "46568.61"
     },
     {
+        "gameName": "lleida",
+        "realName": "Lleida",
+        "country": "catalonia",
+        "x": "-44866.44",
+        "y": "90.86",
+        "z": "46568.61"
+    },
+    {
         "gameName": "leipzig",
         "realName": "Leipzig",
         "country": "germany-mdr",
@@ -2494,6 +2554,14 @@ var cities = [
         "gameName": "manresa",
         "realName": "Manresa",
         "country": "spain",
+        "x": "-39339.8",
+        "y": "120.148",
+        "z": "46488.6"
+    },
+    {
+        "gameName": "manresa",
+        "realName": "Manresa",
+        "country": "catalonia",
         "x": "-39339.8",
         "y": "120.148",
         "z": "46488.6"
@@ -4844,8 +4912,8 @@ var cities_wip = [
         "z": "-41394.61"
     },
     {
-        "gameName": "bozen",
-        "realName": "Bozen",
+        "gameName": "bolzano",
+        "realName": "Bolzano",
         "country": "italy",
         "x": "2128",
         "y": "101.398",

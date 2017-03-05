@@ -76,6 +76,33 @@ var stations = {
             url: "http://live.welle1.at:8128/;"
         },
     ],
+    "basque": [
+        {
+            name: "Euskadi Irratia",
+            logo: "stations/images-europe/basque/Euskadi Irratia.png",
+            url: "http://hdstreamflash-lh.akamaihd.net/i/Euskadi_Irratia_1@109218/master.m3u8"
+        },
+        {
+            name: "Radio Euskadi",
+            logo: "stations/images-europe/basque/Radio Euskadi.png",
+            url: "http://hdstreamflash-lh.akamaihd.net/i/Radio_Euskadi_1@109208/master.m3u8"
+        },
+        {
+            name: "Gaztea",
+            logo: "stations/images-europe/basque/Gaztea.png",
+            url: "http://hdstreamflash-lh.akamaihd.net/i/Gaztea_Irratia_1@109222/master.m3u8"
+        },
+        {
+            name: "EITB Musika",
+            logo: "stations/images-europe/basque/EITB Musika.png",
+            url: "http://hdstreamflash-lh.akamaihd.net/i/EITB_Irratia_1@109221/master.m3u8"
+        },
+        {
+            name: "Bizkaia Irratia FM",
+            logo: "stations/images-europe/basque/Bizkaia Irratia FM.png",
+            url: "http://188.93.73.98:8076/;"
+        },
+    ],
     "belarus": [
         {
             name: "1 канал",
@@ -276,6 +303,38 @@ var stations = {
             name: "Star FM",
             logo: "stations/images-europe/bulgaria/Star FM.png",
             url: "http://pulsar.atlantis.bg:8000/starfm"
+        },
+    ],
+    "catalonia": [
+        {
+            name: "Catalunya Ràdio",
+            logo: "stations/images-europe/catalonia/Catalunya Ràdio.svg",
+            url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catradio/chunklist.m3u8"
+        },
+        {
+            name: "Catalunya Informació",
+            logo: "stations/images-europe/catalonia/Catalunya Informació.png",
+            url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catinform/playlist.m3u8"
+        },
+        {
+            name: "Catalunya Música",
+            logo: "stations/images-europe/catalonia/Catalunya Música.png",
+            url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catmusica/playlist.m3u8"
+        },
+        {
+            name: "RAC1",
+            logo: "stations/images-europe/catalonia/RAC1.jpg",
+            url: "http://rac1.radiocat.net/;*.nsv"
+        },
+        {
+            name: "RAC105",
+            logo: "stations/images-europe/catalonia/RAC105.png",
+            url: "http://ios105.radiocat.net/;*.nsv"
+        },
+        {
+            name: "RàdioEstel",
+            logo: "stations/images-europe/catalonia/RàdioEstel.png",
+            url: "http://srv3021.lcinternet.com:8019/live"
         },
     ],
     "croatia": [
@@ -2029,6 +2088,11 @@ var stations = {
             name: "Onda Cero",
             logo: "stations/images-europe/spain/Onda Cero.png",
             url: "http://icecast-streaming.nice264.com/ondacero"
+        },
+        {
+            name: "Radio María",
+            logo: "stations/images-europe/spain/Radio María.png",
+            url: "http://dreamsiteradiocp.com:8060/;stream.mp3"
         },
         {
             name: "Rock FM",
