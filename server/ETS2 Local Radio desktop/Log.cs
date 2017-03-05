@@ -17,10 +17,11 @@ namespace ETS2_Local_Radio_server
             // lines get appended to Error log.txt rather than wiping content and writing the log
             try
             {
-                System.IO.StreamWriter file =
-                    new System.IO.StreamWriter(Directory.GetCurrentDirectory() + "\\Error log.txt", true);
-                file.WriteLine(lines);
-                file.Close();
+                using (StreamWriter file =
+                    File.AppendText(Directory.GetCurrentDirectory() + "\\Error log.txt"))
+                {
+                    file.WriteLine(lines);
+                }
             }
             catch (Exception ex)
             {
