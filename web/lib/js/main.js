@@ -91,9 +91,7 @@ function initialise() {
                     }
                     if (data.action == "next") {
                         nextStation(parseInt(data.amount));
-                        $('html, body').animate({
-                            scrollTop: ($('.thumbnail-selected').first().offset().top - 300)
-                        },500);
+                        scrollToStation();
                     }
                     if (data.action == "volume") {
                         $("#volumeControl").val(parseInt($("#volumeControl").val()) + parseInt(data.amount));
@@ -110,16 +108,39 @@ function initialise() {
                         }
                     }
                     if (data.action == "goToFavourite") {
-                        if(g_current_country != null) {
-                            $.getJSON("/favourite/" + g_current_country, function (data) {
-                                if(data.Name != "") {
-                                    var index = stations[g_current_country].map(function (e) {
-                                        return e.name;
-                                    }).indexOf(data["Name"]);
-
-                                    setRadioStation(stations[g_current_country][index]["url"], g_current_country, g_countries[g_current_country]["whitenoise"]);
+                        if(g_favourites[g_current_country] != "" && g_current_country != null) {
+                            var chosen_country = g_current_country;
+                            var index = stations[chosen_country].map(function (e) {
+                                return e.name;
+                            }).indexOf(g_favourites[chosen_country]);
+                            if(index < 0) index = 0;
+                            if(g_current_url == stations[chosen_country][index]["url"]){
+                                var new_country = null;
+                                var new_country_next = false;
+                                for(var key in g_countries){
+                                    if(g_countries.hasOwnProperty(key)){
+                                        if(g_favourites[key] == null) continue;
+                                        if(new_country == null){
+                                            new_country = g_countries[key].country;
+                                        }
+                                        if(key == g_current_country){
+                                            new_country_next = true;
+                                            continue;
+                                        }
+                                        if(new_country_next){
+                                            new_country = g_countries[key].country;
+                                            break;
+                                        }
+                                    }
                                 }
-                            });
+                                chosen_country = new_country;
+                                index = stations[chosen_country].map(function (e) {
+                                    return e.name;
+                                }).indexOf(g_favourites[chosen_country]);
+                            }
+                            if(index < 0) index = 0;
+                            setRadioStation(stations[chosen_country][index]["url"], chosen_country, g_countries[chosen_country]["whitenoise"]);
+                            scrollToStation();
                         }
                     }
                 }
@@ -158,7 +179,7 @@ function refresh(data) {
     var lowest_distance = 999999999999999999;
     var available_countries = {
         global: {
-            country: "none",
+            country: "global",
             distance: 999999999999999999,
             whitenoise: 0
         }
@@ -462,6 +483,12 @@ function nextStation(amount) {
     } catch (ex) {
         console.log(ex);
     }
+}
+
+function scrollToStation() {
+    $('html, body').animate({
+        scrollTop: ($('.thumbnail-selected').first().offset().top - 300)
+    },500);
 }
 
 function calculateReception(whitenoise) {
