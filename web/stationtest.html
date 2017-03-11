@@ -47,7 +47,7 @@
     for(var key in stations){
         if(!stations.hasOwnProperty(key)) continue;
         for(var i = 0; i < stations[key].length; i++){
-            $("#list").append("<tr><td>" + stations[key][i].name + "</td><td>" + stations[key][i].url + "</td><td></td>");
+            $("#list").append("<tr data-url='" + stations[key][i].url + "'><td>" + stations[key][i].name + "</td><td><a href='" + stations[key][i].url + "' target='_blank'>" + stations[key][i].url + "</a></td><td></td>");
         }
     }
 
@@ -74,13 +74,15 @@
     });
 
     function testStation() {
-        var url = $("#list>tr:nth-child(" + (currentId + 1) + ")>td:nth-child(2)").html();
+        var url = $("#list>tr:nth-child(" + (currentId + 1) + ")").attr("data-url");
         ready = true;
 
         if (hls != null) {
             hls.detachMedia();
+            hls = null;
         }
         if (url.endsWith("m3u8")) {
+            hls = new Hls();
             //If HLS, continue here
             hls.attachMedia(document.getElementById("player"));
             hls.on(Hls.Events.MEDIA_ATTACHED, function () {
