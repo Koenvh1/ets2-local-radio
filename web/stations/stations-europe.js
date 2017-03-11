@@ -102,6 +102,11 @@ var stations = {
             logo: "stations/images-europe/basque/Bizkaia Irratia FM.png",
             url: "http://188.93.73.98:8076/;"
         },
+        {
+            name: "Radio 7",
+            logo: "stations/images-europe/basque/Radio 7.jpg",
+            url: "http://radio7.streaming-pro.com:7501/;"
+        },
     ],
     "belarus": [
         {
@@ -1100,7 +1105,7 @@ var stations = {
         {
             name: "RPR1",
             logo: "stations/images-europe/germany-wdr/RPR1.png",
-            url: "http://srv01.rpr1.fmstreams.de/stream18"
+            url: "http://streams.rpr1.de/rpr-ludwigshafen-128-aac"
         },
     ],
     "greece": [
@@ -1176,7 +1181,7 @@ var stations = {
         {
             name: "Bylgjan 98,9",
             logo: "stations/images-europe/iceland/Bylgjan 98,9.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://utsending.visir.is:1935/rtplive/orbBylgjan/playlist.m3u8"
+            url: "http://icecast.365net.is:8000/orbbylgjan.aac"
         },
         {
             name: "FM957",
@@ -1472,7 +1477,7 @@ var stations = {
         {
             name: "Радио Канал 77",
             logo: "stations/images-europe/macedonia/Радио Канал 77.png",
-            url: "http://ss1.mk.checast.com:9002/128.mp3"
+            url: "http://92.55.71.42:8023/kanal77.mp3"
         },
         {
             name: "Metropolis Radio",

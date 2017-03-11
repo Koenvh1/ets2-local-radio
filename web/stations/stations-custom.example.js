@@ -14,7 +14,7 @@
  * You can test that by opening the URL in VLC media player, if it plays, it is probably the right URL.
  *
  * Additionally, you can also put stations under the "global" country. These stations will be available everywhere.
- * You can see simulator1.de, TruckersFM and Dagnys Jukebox added here as an example.
+ * You can see simulatorONE, TruckersFM and Dagnys Jukebox added here as an example.
  */
 
 var stations_custom = {

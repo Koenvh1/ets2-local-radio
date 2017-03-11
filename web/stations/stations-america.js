@@ -27,10 +27,17 @@ var stations = {
         },
     ],
     "barstow": [
+        /*
         {
             name: "The Duck",
             logo: "stations/images-america/barstow/The Duck.png",
             url: "http://50.22.217.113/stream.mp3?ipport=50.22.217.113_26126"
+        },
+        */
+        {
+            name: "KGGI",
+            logo: "stations/images-america/barstow/KGGI.png",
+            url: "http://kggi-fm.akacast.iheart.com/7/965/19779/v1/auth.akacast.akamaistream.net/kggi-fm"
         },
         {
             name: "KWAVE",
