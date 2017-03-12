@@ -38,6 +38,15 @@ Please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or [c
 Suggestions are welcome as well of course.
 
 ##Troubleshooting:
+_The game crashes on exit!_
+
+This is caused by the d3d9.dll file, used to display the overlay.
+It can be fixed by either removing this file (which will disable the overlay), 
+or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
+[https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll](https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll)
+
+Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
+
 _Can't access it from another device_
 
 Please make sure your firewall is not blocking the connection. 
