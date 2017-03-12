@@ -3,6 +3,7 @@
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
 
+
 ETS2 Local Radio contains over 500 radio stations that you could realistically listen to if you were driving in that actual country.
 Most national radio stations are included; see the full list at the bottom of this page. 
 It does not include radio stations that you would not be able to receive over FM or DAB in that country, like TruckersFM.
@@ -13,6 +14,8 @@ However, you can add those yourself if you so desire.
 ETS2: Default, Going East, Scandinavia, France, ProMods, RusMap, Southern Russia, Project Balkans, Egypt Add-on.
 
 ATS: California, Nevada, Arizona.
+
+**It's available in over 20 languages!**
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAX2AA9B85BAE)
 
@@ -170,6 +173,6 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _All available stations in ATS as of 1.6.0_
 
-![Screenshot](http://i.imgur.com/8ilE6UJ.png)
+![Screenshot](http://i.imgur.com/aV0kV9H.png)
 
-_All available stations in ETS2 as of 1.10.0_
+_All available stations in ETS2 as of 1.11.0_
