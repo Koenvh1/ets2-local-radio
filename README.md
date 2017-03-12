@@ -44,7 +44,7 @@ This is caused by the d3d9.dll file, used to display the overlay.
 It can be fixed by either removing this file (which will disable the overlay), 
 or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
 [https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll](https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll)
-
+([Direct link](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_d3d9.dll/d3d9.dll))
 Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
 
 _Can't access it from another device_
