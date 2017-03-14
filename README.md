@@ -1,4 +1,4 @@
-#ETS2/ATS Local Radio
+# ETS2/ATS Local Radio
 
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
@@ -32,12 +32,12 @@ Please make sure that the keys and buttons you assign in ETS2 Local Radio are no
 
 Make a station favourite to always switch to that station when entering the country it's located in.
 
-##Reporting an issue:
+## Reporting an issue:
 Found a station that does not work, a wrong (or incomplete) translation or something else? 
 Please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or [contact me](http://koenvh.nl/contact).
 Suggestions are welcome as well of course.
 
-##Troubleshooting:
+## Troubleshooting:
 _The game crashes on exit!_
 
 This is caused by the d3d9.dll file, used to display the overlay.
@@ -96,7 +96,7 @@ _Somethings else does not work!_
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open an issue or [contact me](http://koenvh.nl/contact). Include the `Error log.txt` file if possible.
 
-##How to uninstall it:
+## How to uninstall it:
 
 Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
 You will need to manually remove the following files from the ETS2/ATS installation directory as well:
@@ -105,27 +105,27 @@ You will need to manually remove the following files from the ETS2/ATS installat
 * `\bin\win_x86\d3d9.dll`
 * `\bin\win_x86\plugins\ets2-telemetry.dll`
 
-##General information:
+## General information:
 
-###How the system works:
+### How the system works:
 
 Every city acts as a transmission tower with a certain range, and every city is bound to a country. 
 The program check the distance to every city, and when it is within reach, the stations for that country are displayed.
 When a city from a different country is closer than the one currently connected to (with a treshold), the radio automatically switches to that country.
 
-###What does that coverage map show?
+### What does that coverage map show?
 
 It shows all the transmission towers (the cities), with a range circle. 
 The black inner ring is the clear audio border (~20% static).
 Each country has its own (random) colour, to make it easier to see the difference between them.
 
-###What is a favourite?
+### What is a favourite?
 
 Once you enter a different country, the radio will automatically switch to a station from that country.
 Normally this is the first available station, but if you set a station as your favourite, that station will be played instead.
 You can also quickly switch to that station if you assign a key/button to the "Switch to favourite" option.
 
-###Can I add my own stations?
+### Can I add my own stations?
 
 Yes you can! Just head over to the [submit station](https://koenvh.nl/submit-station) page. 
 If it is accepted, it will be added in the next update.
@@ -134,7 +134,7 @@ but you still want to add it. That's possible too.
 Just go to the `\web\stations\stations-custom.example.js` file, rename it to `stations-custom.js` and add your own stations there.
 More information on that can be found in that file as well.
 
-###Why do Chrome, Opera, Internet Explorer and others not work fully?
+### Why do Chrome, Opera, Internet Explorer and others not work fully?
 
 ETS2 Local Radio can only include the stream types a station offers, and these vary station by station.
 One can roughly group them in four groups:
@@ -161,7 +161,7 @@ Over time stations will probably fix their playback for Chrome and Opera, but I 
 
 _Update 2017-04-24: It seems like most stations have fixed their playback for Chrome and Opera now._ 
 
-##Thanks to:
+## Thanks to:
 I could not have possibly done this alone, so thanks to the following people:
 * SCS Software for creating ETS2
 * **nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)**
@@ -170,7 +170,7 @@ I could not have possibly done this alone, so thanks to the following people:
 * Everyone who submitted a new station
 * You, the user
 
-##Screenshots:
+## Screenshots:
 ![Screenshot](http://i.imgur.com/bBpaPy0.png)
 
 _The server window_
