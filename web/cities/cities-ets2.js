@@ -435,6 +435,9 @@ var city_properties = {
     "cieszyn": {
         relative_radius: 0.7,
     },
+    "daugavpils": {
+        relative_radius: 0.55,
+    },
     "dijon": {
         relative_radius: 1.1,
     },
@@ -4926,6 +4929,14 @@ var cities_wip = [
         "x": "39226.42",
         "y": "19.23",
         "z": "-23167.04"
+    },
+    {
+        "gameName": "daugavpils",
+        "realName": "Daugavpils",
+        "country": "latvia",
+        "x": "53539.91",
+        "y": "6.33",
+        "z": "-31191.43"
     },
     {
         "gameName": "dombas",
