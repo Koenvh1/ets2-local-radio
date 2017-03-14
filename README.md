@@ -171,13 +171,17 @@ I could not have possibly done this alone, so thanks to the following people:
 * You, the user
 
 ## Screenshots:
-![Screenshot](http://i.imgur.com/bBpaPy0.png)
+![Screenshot](http://i.imgur.com/J3ycEJB.png)
 
 _The server window_
 
 ![Screenshot](http://i.imgur.com/5naBcXw.jpg)
 
 _The in-game view when switching stations (if the overlay is installed)_
+
+![Screenshot](http://i.imgur.com/B4OBEPV.png)
+
+_Another in-game view when switching stations (if the overlay is installed)_
 
 ![Screenshot](http://i.imgur.com/qhCsYcy.png)
 
