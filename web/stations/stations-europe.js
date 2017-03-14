@@ -2291,6 +2291,33 @@ var stations = {
             url: "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
         },
     ],
+    "turkey": [
+        {
+            name: "TRT FM",
+            logo: "stations/images-europe/turkey/TRT FM.png",
+            url: "http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8"
+        },
+        {
+            name: "Best FM",
+            logo: "stations/images-europe/turkey/Best FM.png",
+            url: "http://46.20.7.125:80/;"
+        },
+        {
+            name: "Bloomberg HT Radyo",
+            logo: "stations/images-europe/turkey/Bloomberg HT Radyo.jpg",
+            url: "http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
+        },
+        {
+            name: "NTV Radyo",
+            logo: "stations/images-europe/turkey/NTV Radyo.png",
+            url: "http://46.20.3.207/listen.pls"
+        },
+        {
+            name: "Radyo Fenomen",
+            logo: "stations/images-europe/turkey/Radyo Fenomen.png",
+            url: "http://sc.powergroup.com.tr:80/RadyoFenomen/mpeg/128/tunein"
+        },
+    ],
     "uk": [
         {
             name: "BBC Radio 1",
