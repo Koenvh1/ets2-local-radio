@@ -1747,6 +1747,11 @@ var stations = {
             url: "http://stream3.polskieradio.pl:8904/;"
         },
         {
+            name: "Polskie Radio 24",
+            logo: "stations/images-europe/poland/Polskie Radio 24.jpg",
+            url: "http://stream3.polskieradio.pl:8080/;"
+        },
+        {
             name: "Antyradio",
             logo: "stations/images-europe/poland/Antyradio.png",
             url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
@@ -1769,6 +1774,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://94.42.167.5:1935/live/rm.sdp/playlist.m3u8"
         },
         {
+            name: "Radio Plus",
+            logo: "stations/images-europe/poland/Radio Plus.jpg",
+            url: "http://waw02.ic2.scdn.smcloud.net/t051-1.mp3"
+        },
+        {
             name: "Radio VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
@@ -1777,6 +1787,11 @@ var stations = {
             name: "Radio Zet",
             logo: "stations/images-europe/poland/Radio Zet.svg",
             url: "http://n-0-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
+        },
+        {
+            name: "Radio ZET Gold",
+            logo: "stations/images-europe/poland/Radio ZET Gold.png",
+            url: "http://n-0-17.dcs.redcdn.pl/sc/o2/Eurozet/live/zetgold.livx?audio=5"
         },
         {
             name: "Radio Złote Przeboje",
@@ -1792,6 +1807,11 @@ var stations = {
             name: "RMF MAXXX",
             logo: "stations/images-europe/poland/RMF MAXXX.png",
             url: "http://31.192.216.8:8000/rmf_maxxx"
+        },
+        {
+            name: "Tok FM",
+            logo: "stations/images-europe/poland/Tok FM.png",
+            url: "http://wroclaw.radio.pionier.net.pl:8000/pl/tuba10-1.mp3"
         },
     ],
     "romania": [

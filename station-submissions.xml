@@ -5,6 +5,56 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Radio Plus</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected Radio WAWA</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Poland</description>
+        </item>
+        <item>
+            <title>Rejected Muzo.fm</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Poland</description>
+        </item>
+        <item>
+            <title>Added Tok FM</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected Radio Dechovka</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Czechia</description>
+        </item>
+        <item>
+            <title>Rejected Rock Radio (PL)</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Poland</description>
+        </item>
+        <item>
+            <title>Added Radio ZET Gold</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rejected Xtra FM</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Spain</description>
+        </item>
+        <item>
+            <title>Rejected Unistar</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Belarus</description>
+        </item>
+        <item>
+            <title>Rejected Freies Radio Freistadt</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Austria</description>
+        </item>
+        <item>
             <title>Rejected SRO 1, Radio_FM, Devín, Funradio, Radio Expres (SK)</title>
             <link>javascript:;</link>
             <description>Stations were already added</description>
