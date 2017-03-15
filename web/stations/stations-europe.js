@@ -374,6 +374,42 @@ var stations = {
             url: "http://87.98.250.149:8002/;"
         },
     ],
+    "cyprus": [
+        {
+            name: "ΡΙΚ ΠΡΩΤΟ",
+            logo: "stations/images-europe/cyprus/PIK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://109.110.225.226:1935/live/myStream/playlist.m3u8"
+        },
+        /*
+        {
+            name: "ΡΙΚ ΔΕΥΤΕΡΟ",
+            logo: "stations/images-europe/cyprus/PIK.png",
+            url: "http://109.110.225.226:1935/live/myStream/playlist.m3u8"
+        },
+        */
+        {
+            name: "ΡΙΚ ΤΡΙΤΟ",
+            logo: "stations/images-europe/cyprus/PIK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://109.110.225.117:1935/live/myStream/playlist.m3u8"
+        },
+        {
+            name: "ΡΙΚ ΤΕΤΑΡΤΟ",
+            logo: "stations/images-europe/cyprus/PIK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://109.110.225.118:1935/live/myStream/playlist.m3u8"
+        },
+        {
+            name: "Bayrak Radyosu",
+            logo: "stations/images-europe/cyprus/Bayrak Radyosu.png",
+            url: "http://sc.brtk.net:8002/;"
+        },
+        /*
+        {
+            name: "Capital Radio",
+            logo: "stations/images-europe/cyprus/Capital Radio.jpg",
+            url: "http://78.159.112.254:8308/listen.pls"
+        },
+        */
+    ],
     "czech": [
         {
             name: "ČRo Radiožurnál",
@@ -776,6 +812,13 @@ var stations = {
             url: "http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3"
         },
 
+    ],
+    "georgia": [
+        {
+            name: "რადიო 1",
+            logo: "stations/images-europe/georgia/რადიო 1.jpg",
+            url: "https://cors-anywhere.herokuapp.com/http://radio1tvlive1.tulix.tv:1935/radio1tv/radio1tv1/playlist.m3u8"
+        },
     ],
     "germany": [
         {
@@ -2293,9 +2336,19 @@ var stations = {
     ],
     "turkey": [
         {
+            name: "TRT Radyo 1",
+            logo: "stations/images-europe/turkey/TRT Radyo 1.png",
+            url: "http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8"
+        },
+        {
             name: "TRT FM",
             logo: "stations/images-europe/turkey/TRT FM.png",
             url: "http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8"
+        },
+        {
+            name: "TRT Türkü",
+            logo: "stations/images-europe/turkey/TRT Türkü.png",
+            url: "http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8"
         },
         {
             name: "Best FM",
@@ -2308,14 +2361,34 @@ var stations = {
             url: "http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
         },
         {
+            name: "Kral FM",
+            logo: "stations/images-europe/turkey/Kral FM.jpg",
+            url: "http://46.20.3.204:80/;"
+        },
+        {
+            name: "Metro FM",
+            logo: "stations/images-europe/turkey/Metro FM.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=METRO_FM"
+        },
+        {
             name: "NTV Radyo",
             logo: "stations/images-europe/turkey/NTV Radyo.png",
             url: "http://46.20.3.207/listen.pls"
         },
         {
+            name: "Radyo 7 Nostalji",
+            logo: "stations/images-europe/turkey/Radyo 7 Nostalji.png",
+            url: "http://37.247.98.8/stream/25//listen.pls"
+        },
+        {
             name: "Radyo Fenomen",
             logo: "stations/images-europe/turkey/Radyo Fenomen.png",
             url: "http://sc.powergroup.com.tr:80/RadyoFenomen/mpeg/128/tunein"
+        },
+        {
+            name: "Show Radyo",
+            logo: "stations/images-europe/turkey/Show Radyo.jpg",
+            url: "http://46.20.3.234:80/;"
         },
     ],
     "uk": [
