@@ -71,7 +71,7 @@ check whether it contains the following lines:
 00:00:18.262 : unable to load: 0000007E
 ```
 * If that is the case, then please try installing the following:
-https://www.microsoft.com/en-gb/download/details.aspx?id=48145
+https://www.microsoft.com/en-gb/download/details.aspx?id=48145 (or from https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/visual_c%2B%2B_redistributable)
 * If it contains something like this:
 ```
 00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'

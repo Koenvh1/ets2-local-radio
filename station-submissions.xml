@@ -5,6 +5,11 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Added Radio Veronica</title>
+            <link>javascript:;</link>
+            <description></description>
+        </item>
+        <item>
             <title>Added Best FM, TRT FM, Bloomberg HT Radyo, Radyo Fenomen, NTV Radyo</title>
             <link>javascript:;</link>
             <description></description>

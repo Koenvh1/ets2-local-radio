@@ -1639,6 +1639,11 @@ var stations = {
             url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
         },
         {
+            name: "Radio Veronica",
+            logo: "stations/images-europe/netherlands/Radio Veronica.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=VERONICA"
+        },
+        {
             name: "RadioNL",
             logo: "stations/images-europe/netherlands/RadioNL.png",
             url: "http://stream.radionl.fm:80/;",
