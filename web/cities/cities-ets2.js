@@ -6168,10 +6168,11 @@ var cities_yks_turkey = [
     }
 ];
 
-cities = cities.concat(cities_wip);
-cities = cities.concat(cities_projects_balkans);
-cities = cities.concat(cities_egypt);
-cities = cities.concat(cities_srm);
-cities = cities.concat(cities_fr);
-cities = cities.concat(cities_open_spaces);
-cities = cities.concat(cities_yks_turkey);
+cities = cities.concat(cities_wip); //WIP cities
+cities = cities.concat(cities_projects_balkans); //Project Balkans
+cities = cities.concat(cities_egypt); //Egypt-addon
+cities = cities.concat(cities_srm); //Southern Region Map
+cities = cities.concat(cities_fr); //France DLC
+//Uncomment the lines below to activate support for Open Spaces/YKS Turkey:
+//cities = cities.concat(cities_open_spaces); //Open Spaces
+//cities = cities.concat(cities_yks_turkey); //YKS Turkey

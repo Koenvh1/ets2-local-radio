@@ -1111,7 +1111,7 @@ var stations = {
         {
             name: "Radio 7",
             logo: "stations/images-europe/germany-swr/Radio 7.jpg",
-            url: "http://217.151.154.57:80/stream1/livestream.mp3"
+            url: "http://stream.radio7.de/stream1/livestream.mp3"
         },
         {
             name: "Radio Regenbogen",
@@ -1656,7 +1656,7 @@ var stations = {
         {
             name: "Slam!",
             logo: "stations/images-europe/netherlands/Slam!.png",
-            url: "http://vip-icecast.538.lw.triple-it.nl:80/SLAMFM_MP3",
+            url: "http://stream.slam.nl/slam",
         },
     ],
     "nireland": [
@@ -2378,7 +2378,7 @@ var stations = {
         {
             name: "NTV Radyo",
             logo: "stations/images-europe/turkey/NTV Radyo.png",
-            url: "http://46.20.3.207/listen.pls"
+            url: "http://46.20.3.207:80/;"
         },
         {
             name: "Radyo 7 Nostalji",

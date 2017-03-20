@@ -72,6 +72,7 @@ check whether it contains the following lines:
 ```
 * If that is the case, then please try installing the following:
 https://www.microsoft.com/en-gb/download/details.aspx?id=48145 (or from https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/visual_c%2B%2B_redistributable)
+and **restart your computer**
 * If it contains something like this:
 ```
 00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
@@ -133,6 +134,17 @@ However, maybe your station does not meet the criteria (web only, does not broad
 but you still want to add it. That's possible too. 
 Just go to the `\web\stations\stations-custom.example.js` file, rename it to `stations-custom.js` and add your own stations there.
 More information on that can be found in that file as well.
+
+### Can you support map x?
+
+Maybe, maybe not. You can always send in a request.
+* ATS maps will not be added unless you provide at least one station per new **city**.
+* ETS2 maps will not be added unless you provide at least one station per new **country**. 
+
+##### How about Open Spaces or YKS Turkey?
+A persisting problem is that some maps are incompatible with each other.
+You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for YKS Turkey and/or Open Spaces.
+This will reset when you update ETS2 Local Radio.
 
 ### Why do Chrome, Opera, Internet Explorer and others not work fully?
 
