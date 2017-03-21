@@ -528,6 +528,16 @@ var stations = {
             logo: "stations/images-america/san_diego/KPBS.png",
             url: "http://kpbs.streamguys1.com/kpbs-aac"
         },
+        {
+            name: "Radio Latina",
+            logo: "stations/images-america/san_diego/Radio Latina.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XLTNFM"
+        },
+        {
+            name: "ROCK 105.3",
+            logo: "stations/images-america/san_diego/ROCK 105.3.png",
+            url: "http://kioz-fm.akacast.iheart.com/7/777/19786/v1/auth.akacast.akamaistream.net/kioz-fm"
+        },
     ],
     "san_francisco": [
         {
@@ -699,6 +709,11 @@ var stations = {
             name: "KUNR",
             logo: "stations/images-america/winnemucca/KUNR.jpg",
             url: "http://108.178.13.122:8164/stream"
+        },
+        {
+            name: "Mix 102.7",
+            logo: "stations/images-america/winnemucca/Mix 102.7.png",
+            url: "http://104.50.134.6:8000/stream/3/"
         },
     ],
     "yuma": [

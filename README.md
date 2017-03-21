@@ -195,9 +195,9 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _Another in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](http://i.imgur.com/qhCsYcy.png)
+![Screenshot](http://i.imgur.com/9JIgvlC.png)
 
-_All available stations in ATS as of 1.6.0_
+_All available stations in ATS as of 1.12.0_
 
 ![Screenshot](http://i.imgur.com/aV0kV9H.png)
 
