@@ -75,6 +75,11 @@ var stations = {
             logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KBULFM"
         },
+        {
+            name: "Alice 96.5",
+            logo: "stations/images-america/carson_city/Alice 96.5.png",
+            url: "http://ice9.securenetsystems.net:80/KLCA"
+        },
     ],
     "ehrenberg": [
         {
@@ -476,6 +481,11 @@ var stations = {
             url: "http://198.245.60.88:8024/;stream.mp3"
         },
         {
+            name: "K-LOVE",
+            logo: "stations/images-america/reno/K-LOVE.png",
+            url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+        },
+        {
             name: "La Tricolor",
             logo: "stations/images-america/reno/La Tricolor.png",
             url: "http://65.19.131.145/entravision-krnvfmaac-ibc2?session-id=177939205e12a3660dfda9fa6974ff89-393566653531627367386b3131716b32&source=v6player&user-id=177939205e12a3660dfda9fa6974ff89"
@@ -662,14 +672,29 @@ var stations = {
             url: "http://streaming.azpm.org:80/kuat192.mp3"
         },
         {
+            name: "97.1 Bull",
+            logo: "stations/images-america/tucson/97.1 Bull.png",
+            url: "http://ktzr-fm.akacast.iheart.com/7/722/27468/v1/auth.akacast.akamaistream.net/ktzr-fm"
+        },
+        {
             name: "Family Life Radio",
             logo: "stations/images-america/tucson/Family Life Radio.jpg",
             url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
         },
         {
+            name: "Mix 94.9",
+            logo: "stations/images-america/tucson/Mix 94.9.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMXZFM"
+        },
+        {
             name: "My 92.9",
             logo: "stations/images-america/tucson/My 92.9.png",
             url: "http://kwmt-fm.akacast.akamaistream.net/7/690/22415/v1/auth.akacast.akamaistream.net/kwmt-fm"
+        },
+        {
+            name: "KQTH",
+            logo: "stations/images-america/tucson/KQTH.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KQTHFM"
         },
         {
             name: "La Caliente",
@@ -680,6 +705,11 @@ var stations = {
             name: "KXCI",
             logo: "stations/images-america/tucson/KXCI.png",
             url: "http://kxci.streamon.fm:8000/KXCI-48k.aac?starttime=1483400077"
+        },
+        {
+            name: "Rock 102.1",
+            logo: "stations/images-america/tucson/Rock 102.1.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KFMAFM"
         },
     ],
     "ukiah": [

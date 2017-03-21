@@ -183,7 +183,7 @@ var country_properties = {
         name: "Reno",
         english_name: "Reno",
         code: "us-nv",
-        relative_radius: 1.5
+        relative_radius: 1.7
     },
     "sacramento": {
         name: "Sacramento",
