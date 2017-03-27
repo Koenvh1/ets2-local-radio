@@ -5,6 +5,26 @@
         <link>http://koenvh.nl/submit-station</link>
         <description>The station submissions feed, this feed shows all the stations submissions are their status.</description>
         <item>
+            <title>Rejected Slam Hardstyle</title>
+            <link>javascript:;</link>
+            <description>Does not have an FM or DAB broadcast</description>
+        </item>
+        <item>
+            <title>Rejected 24 fm Radio</title>
+            <link>javascript:;</link>
+            <description>Does not have an FM or DAB broadcast</description>
+        </item>
+        <item>
+            <title>Rejected DilemaRadio</title>
+            <link>javascript:;</link>
+            <description>Does not have an FM or DAB broadcast</description>
+        </item>
+        <item>
+            <title>Rejected MixFM</title>
+            <link>javascript:;</link>
+            <description>Does not broadcast in the majority of Latvia</description>
+        </item>
+        <item>
             <title>Rejected Key 103, BBC Manchester</title>
             <link>javascript:;</link>
             <description>Does not broadcast in the majority of the UK</description>
