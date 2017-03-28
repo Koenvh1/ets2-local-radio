@@ -90,10 +90,10 @@ var country_properties = {
         relative_radius: 0.55,
     },
     "egypt": {
-        name: "مَصر‎‎ ",
+        name: "مَصر‎‎",
         name_english: "Egypt",
         code: "eg",
-        relative_radius: 0.75,
+        relative_radius: 0.85,
     },
     "estonia": {
         name: "Eesti",
@@ -389,6 +389,9 @@ var city_properties = {
     "alban": {
         relative_radius: 1.4,
     },
+    "arad": {
+        relative_radius: 0.8,
+    },
     "are": {
         relative_radius: 0.6,
     },
@@ -425,6 +428,9 @@ var city_properties = {
     "bryansk": {
         relative_radius: 1.6,
     },
+    "budapest": {
+        relative_whitenoise: 0.85,
+    },
     "burg": {
         relative_radius: 0.5,
     },
@@ -440,6 +446,9 @@ var city_properties = {
     },
     "cieszyn": {
         relative_radius: 0.7,
+    },
+    "constanta": {
+        relative_radius: 1.4,
     },
     "daugavpils": {
         relative_radius: 0.55,
@@ -645,6 +654,7 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "pecs": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.85,
     },
     "perpignan": {
@@ -697,7 +707,11 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "sibiu": {
+        relative_whitenoise: 0.90,
         relative_radius: 1.8,
+    },
+    "slavonski_brod": {
+        relative_radius: 0.8,
     },
     "southampton": {
         relative_radius: 0.75,
@@ -725,6 +739,10 @@ var city_properties = {
     "suwalki": {
         relative_radius: 0.6,
     },
+    "szeged": {
+        relative_radius: 0.6,
+        relative_whitenoise: 0.85,
+    },
     "tallinn": {
         relative_radius: 0.65,
     },
@@ -737,11 +755,8 @@ var city_properties = {
     "taurage": {
         relative_radius: 0.5,
     },
-    "trelleborg": {
-        relative_radius: 0.5,
-    },
-    "trinity": {
-        relative_radius: 0.2,
+    "timisoara": {
+        relative_radius: 0.8,
     },
     "tornio": {
         relative_radius: 0.6,
@@ -749,8 +764,14 @@ var city_properties = {
     "toulouse": {
         relative_radius: 1.22,
     },
+    "trelleborg": {
+        relative_radius: 0.5,
+    },
     "trieste": {
         relative_radius: 0.6,
+    },
+    "trinity": {
+        relative_radius: 0.2,
     },
     "trondheim": {
         relative_radius: 0.7,
@@ -798,7 +819,8 @@ var city_properties = {
         relative_radius: 0.8,
     },
     "zagreb": {
-        relative_radius: 0.8,
+        relative_radius: 0.9,
+        relative_whitenoise: 0.9,
     },
     "zelenogradsk": {
         relative_radius: 0.37,
@@ -4359,6 +4381,7 @@ var cities_projects_balkans = [
         "y": "84.6719",
         "z": "29231.6"
     },
+    /*
     {
         "gameName": "sla_brod",
         "realName": "Slavonski Brod",
@@ -4367,6 +4390,7 @@ var cities_projects_balkans = [
         "y": "49.3047",
         "z": "31539.2"
     },
+    */
     {
         "gameName": "udine",
         "realName": "Udine",
@@ -4383,6 +4407,7 @@ var cities_projects_balkans = [
         "y": "63.9453",
         "z": "27611.5"
     },
+    /*
     {
         "gameName": "zagreb",
         "realName": "Zagreb",
@@ -4391,6 +4416,7 @@ var cities_projects_balkans = [
         "y": "95.6055",
         "z": "27922.4"
     }
+    */
 ];
 
 var cities_egypt = [
@@ -5065,6 +5091,14 @@ var cities_wip = [
         "z": "-62862.78"
     },
     {
+        "gameName": "slavonski_brod",
+        "realName": "Slavonski Brod",
+        "country": "croatia",
+        "x": "28720.52",
+        "y": "33.57",
+        "z": "31843.88"
+    },
+    {
         "gameName": "sligo",
         "realName": "Sligo (Sligeach)",
         "country": "ireland",
@@ -5143,6 +5177,14 @@ var cities_wip = [
         "x": "50698.77",
         "y": "-27.02",
         "z": "-101567.13"
+    },
+    {
+        "gameName": "zagreb",
+        "realName": "Zagreb",
+        "country": "croatia",
+        "x": "20401.37",
+        "y": "0",
+        "z": "28447.0"
     },
 ];
 
@@ -6169,10 +6211,10 @@ var cities_yks_turkey = [
 ];
 
 cities = cities.concat(cities_wip); //WIP cities
-cities = cities.concat(cities_projects_balkans); //Project Balkans
 cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
-//Uncomment the lines below to activate support for Open Spaces/YKS Turkey:
+//Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
+//cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
 //cities = cities.concat(cities_yks_turkey); //YKS Turkey

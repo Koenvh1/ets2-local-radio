@@ -141,9 +141,10 @@ Maybe, maybe not. You can always send in a request.
 * ATS maps will not be added unless you provide at least one station per new **city**.
 * ETS2 maps will not be added unless you provide at least one station per new **country**. 
 
-##### How about Open Spaces or YKS Turkey?
+##### How about Project Balkans, Open Spaces or YKS Turkey?
 A persisting problem is that some maps are incompatible with each other.
-You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for YKS Turkey and/or Open Spaces.
+For that reason, some custom maps are not enabled by default.
+You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for Project Balkans, YKS Turkey and/or Open Spaces.
 This will reset when you update ETS2 Local Radio.
 
 ### Why do Chrome, Opera, Internet Explorer and others not work fully?
