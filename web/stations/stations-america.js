@@ -63,6 +63,16 @@ var stations = {
             logo: "stations/images-america/carlsbad/Jamn 957.png",
             url: "http://kuss-fm.akacast.iheart.com/7/575/19790/v1/auth.akacast.akamaistream.net/kuss-fm"
         },
+        {
+            name: "La Suavecita",
+            logo: "stations/images-america/carlsbad/La Suavecita.png",
+            url: "http://icy1.abacast.com:80/entravision-kssefmaac-48"
+        },
+        {
+            name: "KSDW",
+            logo: "stations/images-america/carlsbad/KSDW.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSDWAAC"
+        },
     ],
     "carson_city": [
         {
@@ -86,6 +96,11 @@ var stations = {
             name: "Radio Bilingue",
             logo: "stations/images-america/ehrenberg/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
+        },
+        {
+            name: "KNIX",
+            logo: "stations/images-america/ehrenberg/KNIX.png",
+            url: "http://knix-fm.akacast.iheart.com/7/587/19754/v1/auth.akacast.akamaistream.net/knix-fm"
         },
         {
             name: "KNLB",
@@ -141,9 +156,34 @@ var stations = {
     ],
     "el_centro": [
         {
+            name: "KPBS",
+            logo: "stations/images-america/el_centro/KPBS.png",
+            url: "http://kpbs.streamguys1.com/kpbs-aac"
+        },
+        {
+            name: "EXA FM",
+            logo: "stations/images-america/el_centro/EXA FM.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHJCFMAAC"
+        },
+        {
+            name: "FM Globo",
+            logo: "stations/images-america/el_centro/FM Globo.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHPFFMAAC"
+        },
+        {
             name: "KMET",
             logo: "stations/images-america/el_centro/KMET.jpg",
             url: "http://ice41.securenetsystems.net/KMET?playSessionID=959ABA29-CE12-CD8F-224661CD98C5BC09"
+        },
+        {
+            name: "La Mejor",
+            logo: "stations/images-america/el_centro/La Mejor.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHVGFMAAC"
+        },
+        {
+            name: "Radio Bilingue",
+            logo: "stations/images-america/el_centro/Radio Bilingue.png",
+            url: "http://radio.radiobilingue.org:8000/;"
         },
     ],
     "eureka": [
@@ -163,6 +203,36 @@ var stations = {
             name: "KNAU",
             logo: "stations/images-america/flagstaff/KNAU.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
+        },
+        {
+            name: "93.9 The Mountain",
+            logo: "stations/images-america/flagstaff/93.9 The Mountain.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMGNFMAAC"
+        },
+        {
+            name: "K-Jazz",
+            logo: "stations/images-america/flagstaff/K-Jazz.png",
+            url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
+        },
+        {
+            name: "KAFF",
+            logo: "stations/images-america/flagstaff/KAFF.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KAFFFMAAC"
+        },
+        {
+            name: "KNLB",
+            logo: "stations/images-america/flagstaff/KNLB.png",
+            url: "http://ic1.christiannetcast.com/knlb-fm"
+        },
+        {
+            name: "KVNA",
+            logo: "stations/images-america/flagstaff/KVNA.png",
+            url: "http://icy3.abacast.com:80/yavapai-kvnafmaac-64"
+        },
+        {
+            name: "Rewind",
+            logo: "stations/images-america/flagstaff/Rewind.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KFLXFMAAC"
         },
     ],
     "fresno": [
@@ -246,6 +316,11 @@ var stations = {
             name: "K-Jazz",
             logo: "stations/images-america/kingman/K-Jazz.png",
             url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
+        },
+        {
+            name: "KAAA",
+            logo: "stations/images-america/kingman/KAAA.jpg",
+            url: "http://65.19.131.147/cameron-kaaaamaac-48?session-id=1887133148"
         },
         {
             name: "KJJJ",

@@ -63,7 +63,7 @@ var country_properties = {
         name: "Flagstaff",
         english_name: "Flagstaff",
         code: "us-az",
-        relative_radius: 1.5
+        relative_radius: 1.8
     },
     "fresno": {
         name: "Fresno",
