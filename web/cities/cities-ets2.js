@@ -550,8 +550,11 @@ var city_properties = {
     "klagenfurt": {
         relative_radius: 0.4,
     },
+    "klintsy": {
+        relative_radius: 0.6,
+    },
     "kolka": {
-        relative_radius: 0.4,
+        relative_radius: 0.5,
     },
     "koln": {
         relative_radius: 1,
@@ -1684,6 +1687,22 @@ var cities = [
         "x": "-50854.3",
         "y": "115.898",
         "z": "-56132.7"
+    },
+    {
+        "gameName": "freiburg",
+        "realName": "Freiburg im Breisgau",
+        "country": "germany-swr",
+        "x": "-9528",
+        "y": "101.973",
+        "z": "11488"
+    },
+    {
+        "gameName": "freiburg",
+        "realName": "Freiburg im Breisgau",
+        "country": "germany",
+        "x": "-9528",
+        "y": "101.973",
+        "z": "11488"
     },
     {
         "gameName": "furth",
@@ -3846,6 +3865,14 @@ var cities = [
         "z": "-42236.8"
     },
     {
+        "gameName": "klintsy",
+        "realName": "Klintsy",
+        "country": "russia",
+        "x": "76064",
+        "y": "57.4492",
+        "z": "-18224"
+    },
+    {
         "gameName": "kolomna",
         "realName": "Kolomna",
         "country": "russia",
@@ -5009,6 +5036,14 @@ var cities_wip = [
         "x": "-56908",
         "y": "72.52",
         "z": "-30171"
+    },
+    {
+        "gameName": "huesca",
+        "realName": "Huesca",
+        "country": "spain",
+        "x": "-48769.32",
+        "y": "73.99",
+        "z": "43817.16"
     },
     {
         "gameName": "ivalo",

@@ -67,7 +67,7 @@
             var lat = cities[i].z;
             var lon = cities[i].x;
 
-            console.log(cities[i].country);
+            //console.log(cities[i].country);
             var radius = (7500) * country_properties[cities[i].country].relative_radius;
             if (typeof city_properties[cities[i]["gameName"]] !== "undefined" && typeof city_properties[cities[i]["gameName"]]["relative_radius"] !== "undefined") {
                 radius = radius * city_properties[cities[i]["gameName"]]["relative_radius"];
