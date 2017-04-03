@@ -94,7 +94,7 @@ function initialise() {
                         scrollToStation();
                     }
                     if (data.action == "volume") {
-                        $("#volumeControl").val(parseInt($("#volumeControl").val()) + parseInt(data.amount));
+                        $("#volumeControl").val(parseInt($("#volumeControl").val()) + ((parseInt($("#volumeControl").val()) / 50)  + 0.1) * parseInt(data.amount));
                         g_volume = parseInt($("#volumeControl").val()) / 100;
                     }
                     if (data.action == "favourite") {
