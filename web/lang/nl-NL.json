@@ -48,7 +48,9 @@
     "install": "Plug-in installeren",
     "install-plugin-ets2": "Installeer de plug-in voor\nEuro Truck Simulator 2",
     "install-plugin-ats": "Installeer de plug-in voor\nAmerican Truck Simulator",
+    "remove-plugin": "Verwijder plug-in",
     "install-overlay": "Wil je de overlay voor in het spel installeren?\n(Dit zal een bestaande d3d9.dll overschrijven, en kan in uitzonderlijke gevallen het spel bij het afsluiten laten crashen)",
+    "remove-overlay": "Wil je de overlay voor in het spel verwijderen?\n(Dit zal een bestaande d3d9.dll verwijderen)",
     "ets2-folder-dialog": "Kies alstublieft de ETS2/ATS-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Speelt nu:"
   }

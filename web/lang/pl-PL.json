@@ -48,7 +48,9 @@
     "install": "Zainstaluj wtyczkę",
     "install-plugin-ets2": "Zainstaluj wtyczkę dla\nEuro Truck Simulator 2",
     "install-plugin-ats": "Zainstaluj wtyczkę dla\nAmerican Truck Simulator",
+    "remove-plugin": "Usuń wtyczkę",
     "install-overlay": "Czy chcesz zainstalować nakładkę w grze?\n(Ta czynność nadpisze aktualny plik d3d9.dll i w rzadkich przypadkach może spowodować crash przy wyłączaniu gry)",
+    "remove-overlay": "Czy chcesz usunąć nakładkę w grze?\n(To usunie istniejący plik d3d9.dll)",
     "ets2-folder-dialog": "Wybierz proszę folder z zainstalowaną grą ETS2/ATS, zazwyczaj jest to C:\\Pliki programów (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Teraz gra:"
   }

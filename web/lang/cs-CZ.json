@@ -48,7 +48,9 @@
     "install": "Nainstalovat plugin",
     "install-plugin-ets2": "Nainstalovat plugin pro\nEuro Truck Simulator 2",
     "install-plugin-ats": "Nainstalovat plugin pro\nAmerican Truck Simulator",
+    "remove-plugin": "Remove plugin",
     "install-overlay": "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)",
+    "remove-overlay": "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)",
     "ets2-folder-dialog": "Prosím vyberte instalační složku ETS2/ATS, obvykle se nachází v C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Nyní hraje:"
   }
