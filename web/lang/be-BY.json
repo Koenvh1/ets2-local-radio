@@ -48,9 +48,9 @@
     "install": "Усталяваць убудову",
     "install-plugin-ets2": "Усталяваць убудову для\nEuro Truck Simulator 2",
     "install-plugin-ats": "Усталяваць убудову для\nAmerican Truck Simulator",
-    "remove-plugin": "Remove plugin",
+    "remove-plugin": "Выдаліць убудову",
     "install-overlay": "Жадаеце ўсталяваць у гульню аверлэй?\n(Гэта перапіша існуючы файл d3d9.dll, і ў рэдкіх выпадках гэта можа выклікаць збой пры выхадзе з гульні)",
-    "remove-overlay": "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)",
+    "remove-overlay": "Жадаеце выдалiць гульнявы аверлэй?\n(Гэта выдалiць любы існуючы файл d3d9.dll)",
     "ets2-folder-dialog": "Калі ласка, выберыце шлях да тэчкі ўсталяванай ETS2/ATS. Звычайна гэта: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Зараз грае:"
   }
