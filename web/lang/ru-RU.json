@@ -49,8 +49,8 @@
     "install-plugin-ets2": "Установить дополнение для\nEuro Truck Simulator 2",
     "install-plugin-ats": "Установить дополнение для\nAmerican Truck Simulator",
     "remove-plugin": "Удалить плагин",
-    "install-overlay": "Желаете установить игровой оверлей?\n(Это перепишет существующий файл d3d9.dll, и в редких случаях это может вызвать крэш, когда будете выходить из игры)",
-    "remove-overlay": "Вы хотите удалить игровой плагин? (Это удалит любой существующий файл d3d9.dll)",
+    "install-overlay": "Желаете установить игровой оверлей?\n(Это перепишет существующий файл d3d9.dll, и в редких случаях может вызвать вылет при выходе из игры)",
+    "remove-overlay": "Вы хотите удалить игровой оверлей? (Это удалит любой существующий файл d3d9.dll)",
     "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного ETS2/ATS. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Сейчас играет:"
   }
