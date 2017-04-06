@@ -48,9 +48,9 @@
     "install": "プラグインをインストール",
     "install-plugin-ets2": "Euro Truck Simulator 2の\nプラグインをインストール",
     "install-plugin-ats": "American Truck Simulatorの\nプラグインをインストール",
-    "remove-plugin": "Remove plugin",
+    "remove-plugin": "プラグインを削除",
     "install-overlay": "ゲーム内オーバーレイをインストールしますか？\n(既存のd3d9.dllを上書きします。まれにゲーム終了時にクラッシュする場合があります。)",
-    "remove-overlay": "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)",
+    "remove-overlay": "ゲーム内オーバーレイを削除しますか？\n(既存のd3d9.dllを削除します)",
     "ets2-folder-dialog": "ETS2/ATSのインストールフォルダを指定してください\n(C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator})",
     "now-playing": "再生中:"
   }
