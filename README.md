@@ -188,22 +188,22 @@ I could not have possibly done this alone, so thanks to the following people:
 * You, the user
 
 ## Screenshots:
-![Screenshot](http://i.imgur.com/J3ycEJB.png)
+![Screenshot](https://i.imgur.com/J3ycEJB.png)
 
 _The server window_
 
-![Screenshot](http://i.imgur.com/5naBcXw.jpg)
+![Screenshot](https://i.imgur.com/5naBcXw.jpg)
 
 _The in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](http://i.imgur.com/B4OBEPV.png)
+![Screenshot](https://i.imgur.com/B4OBEPV.png)
 
 _Another in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](http://i.imgur.com/UaA9h1t.png)
+![Screenshot](https://i.imgur.com/UaA9h1t.png)
 
 _All available stations in ATS as of 1.12.0_
 
-![Screenshot](http://i.imgur.com/aV0kV9H.png)
+![Screenshot](https://i.imgur.com/aV0kV9H.png)
 
 _All available stations in ETS2 as of 1.11.0_
