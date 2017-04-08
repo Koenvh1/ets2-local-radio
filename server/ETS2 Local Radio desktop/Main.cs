@@ -47,6 +47,9 @@ namespace ETS2_Local_Radio_server
         public static string installOverlay =
             "Do you want to install the in-game overlay?\n(This will overwrite an already existing d3d9.dll, and it may in rare cases cause the game to crash when exiting the game)";
 
+        public static string removeOverlay =
+            "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)";
+
         public static string currentGame = "ets2";
 
         public Main()
@@ -69,19 +72,7 @@ namespace ETS2_Local_Radio_server
             LoadLanguages();
 
             //Check plugins:
-            if (PluginExists("ats"))
-            {
-                installAtsButton.Image = Resources.check;
-            }
-            if (PluginExists("ets2"))
-            {
-                installEts2Button.Image = Resources.check;
-            }
-            if (!PluginExists("ats") && !PluginExists("ets2"))
-            {
-                groupInfo.Enabled = false;
-                groupSettings.Enabled = false;
-            }
+            CheckPlugins();
 
             //Load the keys:
             nextKeyTextBox.Text = Settings.NextKey;
@@ -182,6 +173,36 @@ namespace ETS2_Local_Radio_server
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+            }
+        }
+
+        private void CheckPlugins()
+        {
+            if (PluginExists("ats"))
+            {
+                installAtsButton.Image = Resources.check;
+            }
+            else
+            {
+                installAtsButton.Image = null;
+            }
+            if (PluginExists("ets2"))
+            {
+                installEts2Button.Image = Resources.check;
+            }
+            else
+            {
+                installEts2Button.Image = null;
+            }
+            if (!PluginExists("ats") && !PluginExists("ets2"))
+            {
+                groupInfo.Enabled = false;
+                groupSettings.Enabled = false;
+            }
+            else
+            {
+                groupInfo.Enabled = true;
+                groupSettings.Enabled = true;
             }
         }
 
@@ -602,7 +623,9 @@ namespace ETS2_Local_Radio_server
                 groupInstall.Text = (server["install"] ?? groupInstall.Text);
                 installAtsButton.Text = (server["install-plugin-ats"] ?? installAtsButton.Text);
                 installEts2Button.Text = (server["install-plugin-ets2"] ?? installEts2Button.Text);
+                removePluginButton.Text = (server["remove-plugin"] ?? removePluginButton.Text);
                 installOverlay = (server["install-overlay"] ?? installOverlay);
+                removeOverlay = (server["remove-overlay"] ?? removeOverlay);
                 folderDialog.Description = (server["ets2-folder-dialog"] ?? folderDialog.Description);
                 Station.NowPlaying = (server["now-playing"] ?? Station.NowPlaying);
 
@@ -786,6 +809,29 @@ namespace ETS2_Local_Radio_server
             Settings.Controller = comboController.SelectedItem.ToString();
 
             AttachJoystick();
+        }
+
+        private void removePluginButton_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            DialogResult result = MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
+                        MessageBoxButtons.YesNoCancel,
+                        MessageBoxIcon.Question);
+            if (result != DialogResult.Cancel)
+            {
+                if (folderDialog.ShowDialog() == DialogResult.OK)
+                {
+                    var folder = folderDialog.SelectedPath;
+                    File.Delete(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll");
+                    File.Delete(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll");
+
+                    if (result == DialogResult.Yes)
+                    {
+                        File.Delete(folder + @"\bin\win_x86\d3d9.dll");
+                        File.Delete(folder + @"\bin\win_x64\d3d9.dll");
+                    }
+                }
+            }
+            CheckPlugins();
         }
     }
 }

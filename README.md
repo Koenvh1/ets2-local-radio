@@ -92,6 +92,9 @@ and **restart your computer**
 then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
 `\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
 
+_The game crashes when changing the graphics settings_
+
+Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
 
 _Somethings else does not work!_
 

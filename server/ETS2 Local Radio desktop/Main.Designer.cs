@@ -76,6 +76,7 @@
             this.Koenvh = new System.Windows.Forms.PictureBox();
             this.groupController = new System.Windows.Forms.GroupBox();
             this.comboController = new System.Windows.Forms.ComboBox();
+            this.removePluginButton = new System.Windows.Forms.LinkLabel();
             this.groupSettings.SuspendLayout();
             this.groupInfo.SuspendLayout();
             this.groupInstall.SuspendLayout();
@@ -485,7 +486,7 @@
             this.comboLang.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboLang.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboLang.FormattingEnabled = true;
-            this.comboLang.Location = new System.Drawing.Point(360, 609);
+            this.comboLang.Location = new System.Drawing.Point(360, 618);
             this.comboLang.Name = "comboLang";
             this.comboLang.Size = new System.Drawing.Size(65, 21);
             this.comboLang.TabIndex = 8;
@@ -509,12 +510,13 @@
             // 
             // groupInstall
             // 
+            this.groupInstall.Controls.Add(this.removePluginButton);
             this.groupInstall.Controls.Add(this.installEts2Button);
             this.groupInstall.Controls.Add(this.installAtsButton);
             this.groupInstall.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.groupInstall.Location = new System.Drawing.Point(12, 492);
             this.groupInstall.Name = "groupInstall";
-            this.groupInstall.Size = new System.Drawing.Size(413, 82);
+            this.groupInstall.Size = new System.Drawing.Size(413, 91);
             this.groupInstall.TabIndex = 9;
             this.groupInstall.TabStop = false;
             this.groupInstall.Text = "Install plugin";
@@ -551,7 +553,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Koenvh.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Koenvh.Image = global::ETS2_Local_Radio_server.Properties.Resources.Koenvh_fat_text_smaller;
-            this.Koenvh.Location = new System.Drawing.Point(140, 580);
+            this.Koenvh.Location = new System.Drawing.Point(140, 589);
             this.Koenvh.Name = "Koenvh";
             this.Koenvh.Size = new System.Drawing.Size(156, 50);
             this.Koenvh.TabIndex = 6;
@@ -579,11 +581,22 @@
             this.comboController.TabIndex = 11;
             this.comboController.SelectedIndexChanged += new System.EventHandler(this.comboController_SelectedIndexChanged);
             // 
+            // removePluginButton
+            // 
+            this.removePluginButton.AutoSize = true;
+            this.removePluginButton.Location = new System.Drawing.Point(10, 72);
+            this.removePluginButton.Name = "removePluginButton";
+            this.removePluginButton.Size = new System.Drawing.Size(84, 13);
+            this.removePluginButton.TabIndex = 2;
+            this.removePluginButton.TabStop = true;
+            this.removePluginButton.Text = "Remove plugin";
+            this.removePluginButton.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.removePluginButton_LinkClicked);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 640);
+            this.ClientSize = new System.Drawing.Size(437, 649);
             this.Controls.Add(this.groupController);
             this.Controls.Add(this.groupInstall);
             this.Controls.Add(this.comboLang);
@@ -601,6 +614,7 @@
             this.groupSettings.PerformLayout();
             this.groupInfo.ResumeLayout(false);
             this.groupInstall.ResumeLayout(false);
+            this.groupInstall.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Koenvh)).EndInit();
             this.groupController.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -654,5 +668,6 @@
         private System.Windows.Forms.TextBox goToFavouriteButtonTextbox;
         private System.Windows.Forms.Label goToFavouriteKeyLabel;
         private System.Windows.Forms.TextBox goToFavouriteKeyTextbox;
+        private System.Windows.Forms.LinkLabel removePluginButton;
     }
 }
