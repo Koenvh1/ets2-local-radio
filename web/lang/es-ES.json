@@ -48,9 +48,9 @@
     "install": "Instalar plugin",
     "install-plugin-ets2": "Instalar plugin para\nEuro Truck Simulator 2",
     "install-plugin-ats": "Instalar plugin para\nAmerican Truck Simulator",
-    "remove-plugin": "Remove plugin",
+    "remove-plugin": "Eliminar plugin",
     "install-overlay": "¿Quieres instalar la sobreposición en el juego ?\n(Esto reemplazará el archivo existente d3d9.dll, lo que puede causar posibles \"dejó de funcionar\" al salir del juego)",
-    "remove-overlay": "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)",
+    "remove-overlay": "¿Quieres eliminar la marca de dentro del juego? (Esto va a borrar cualquier archivo d3d9.dll)",
     "ets2-folder-dialog": "Por favor elija la carpeta de instalación de ETS2/ATS, normalmente ubicado en: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Reproduciendo ahora:"
   }
