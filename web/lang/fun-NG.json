@@ -43,14 +43,14 @@
     "volume-up-key": "Uppsygorsterkhedtaste:",
     "volume-down-key": "Nedsygorsterkhedtaste:",
     "make-favourite-key": "Favoritlagataste:",
-    "go-to-favourite-key": "Favoritvalningstast:",
+    "go-to-favourite-key": "Favoritvalningstaste:",
     "save": "Nedskrib",
     "install": "Upsetna plugin",
     "install-plugin-ets2": "Upsetna plugin för\nEuro Truck Simulator 2",
     "install-plugin-ats": "Upsetna plugin för\nAmerican Truck Simulator",
-    "remove-plugin": "Remove plugin",
+    "remove-plugin": "Avtaga plugin",
     "install-overlay": "Villdy að upsetna yspilöverdekningeð?\n(Ðenska överskrivit eð redatilvärað d3d9.dll, oj ðema ursakit y enkla falla að trufla að sluta spileð)",
-    "remove-overlay": "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)",
+    "remove-overlay": "Villdy að avtaga yspilöverdekningeð??\n(Ðenska avtagit eðvilk redatilvärað d3d9.dll)",
     "ets2-folder-dialog": "Tak val uppsetningmapa av ETS2/ATS, vanlig hittit y C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Spile nu:"
   }
