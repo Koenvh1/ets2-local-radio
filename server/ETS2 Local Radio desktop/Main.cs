@@ -813,25 +813,33 @@ namespace ETS2_Local_Radio_server
 
         private void removePluginButton_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            DialogResult result = MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
-                        MessageBoxButtons.YesNoCancel,
-                        MessageBoxIcon.Question);
-            if (result != DialogResult.Cancel)
+            try
             {
-                if (folderDialog.ShowDialog() == DialogResult.OK)
+                DialogResult result = MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
+                    MessageBoxButtons.YesNoCancel,
+                    MessageBoxIcon.Question);
+                if (result != DialogResult.Cancel)
                 {
-                    var folder = folderDialog.SelectedPath;
-                    File.Delete(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll");
-                    File.Delete(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll");
-
-                    if (result == DialogResult.Yes)
+                    if (folderDialog.ShowDialog() == DialogResult.OK)
                     {
-                        File.Delete(folder + @"\bin\win_x86\d3d9.dll");
-                        File.Delete(folder + @"\bin\win_x64\d3d9.dll");
+                        var folder = folderDialog.SelectedPath;
+                        File.Delete(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll");
+                        File.Delete(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll");
+
+                        if (result == DialogResult.Yes)
+                        {
+                            File.Delete(folder + @"\bin\win_x86\d3d9.dll");
+                            File.Delete(folder + @"\bin\win_x64\d3d9.dll");
+                        }
                     }
                 }
+                CheckPlugins();
             }
-            CheckPlugins();
+            catch (Exception ex)
+            {
+                Log.Write(ex.ToString());
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }
