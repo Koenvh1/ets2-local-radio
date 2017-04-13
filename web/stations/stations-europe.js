@@ -68,7 +68,7 @@ var stations = {
         {
             name: "Radio 88.6",
             logo: "stations/images-europe/austria/Radio 88.6.png",
-            url: "http://ber.radiostream.de:36889/;"
+            url: "http://xapp2450489345c1000321.f.l.i.lb.core-cdn.net/1000321copo/live/app2450489345/w2445344770/live_de_96.mp3"
         },
         {
             name: "Welle 1 (Salzburg)",
@@ -282,7 +282,7 @@ var stations = {
         {
             name: "Alpha Radio",
             logo: "stations/images-europe/bulgaria/Alpha Radio.png",
-            url: "http://stream-bg.net:8020/AlphaRadio"
+            url: "http://alpharadio.bg:8000/stream"
         },
         {
             name: "Радио FM+",
@@ -508,7 +508,7 @@ var stations = {
         {
             name: "Radio Hits 88.2",
             logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
-            url: "http://rhstrm8.twesto.com:6365/stream2.nsv"
+            url: "http://mgstrm9.twesto.com:7281/radiohits215"
         },
         {
             name: "El Radio 9090 FM",
@@ -1170,7 +1170,7 @@ var stations = {
         {
             name: "Rythmos FM",
             logo: "stations/images-europe/greece/Rythmos FM.png",
-            url: "http://antglrythmos1-lh.akamaihd.net/i/live_1@425194/index_96_a-b.m3u8?sd=10&rebase=on"
+            url: "http://antglrythmos1-lh.akamaihd.net/i/live_1@425194/index_96_a-b.m3u8"
         },
         {
             name: "Star FM",
@@ -1646,7 +1646,7 @@ var stations = {
         {
             name: "RadioNL",
             logo: "stations/images-europe/netherlands/RadioNL.png",
-            url: "http://stream.radionl.fm:80/;",
+            url: "http://stream.radionl.fm/radionl",
         },
         {
             name: "Sky Radio 101 FM",
@@ -1834,7 +1834,7 @@ var stations = {
         {
             name: "Radio Zet",
             logo: "stations/images-europe/poland/Radio Zet.svg",
-            url: "http://n-0-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
+            url: "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
         },
         {
             name: "Radio ZET Gold",
