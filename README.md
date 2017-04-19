@@ -35,7 +35,7 @@ Make a station favourite to always switch to that station when entering the coun
 
 ## Reporting an issue:
 Found a station that does not work, a wrong (or incomplete) translation or something else? 
-Please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or [contact me](http://koenvh.nl/contact).
+Please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum.
 Suggestions are welcome as well of course.
 
 ## Troubleshooting:
@@ -99,7 +99,7 @@ Some systems/graphics cards may have this issue. Please try removing the plugin 
 _Somethings else does not work!_
 
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
-If that does not work, then please open an issue or [contact me](http://koenvh.nl/contact). Include the `Error log.txt` file if possible.
+If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
 
 ## How to uninstall it:
 

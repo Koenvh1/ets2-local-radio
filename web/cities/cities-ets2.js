@@ -4400,6 +4400,7 @@ var cities_projects_balkans = [
         "y": "58.2578",
         "z": "28594.2"
     },
+    /*
     {
         "gameName": "osijek",
         "realName": "Osijek",
@@ -4408,6 +4409,7 @@ var cities_projects_balkans = [
         "y": "84.6719",
         "z": "29231.6"
     },
+    */
     /*
     {
         "gameName": "sla_brod",
@@ -5116,6 +5118,14 @@ var cities_wip = [
         "x": "2560.71",
         "y": "9.25",
         "z": "-67492.96"
+    },
+    {
+        "gameName": "osijek",
+        "realName": "Osijek",
+        "country": "croatia",
+        "x": "32009.34",
+        "y": "22.88",
+        "z": "29213.39"
     },
     {
         "gameName": "otta",
