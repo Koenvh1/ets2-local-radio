@@ -475,6 +475,9 @@ var city_properties = {
     "falkenberg": {
         relative_radius: 0.6,
     },
+    "fishguard": {
+        relative_radius: 0.6,
+    },
     "flensburg": {
         relative_radius: 0.5,
     },
@@ -819,6 +822,9 @@ var city_properties = {
         relative_radius: 1.6,
     },
     "vyborg": {
+        relative_radius: 0.8,
+    },
+    "wexford": {
         relative_radius: 0.8,
     },
     "zagreb": {
@@ -5024,6 +5030,14 @@ var cities_wip = [
         "z": "-34400"
     },
     {
+        "gameName": "fishguard",
+        "realName": "Fishguard",
+        "country": "uk",
+        "x": "-61284.68",
+        "y": "6.3",
+        "z": "-20395.50"
+    },
+    {
         "gameName": "galway",
         "realName": "Galway",
         "country": "ireland",
@@ -5110,6 +5124,14 @@ var cities_wip = [
         "x": "-64011.90",
         "y": "23.04",
         "z": "-45948.30"
+    },
+    {
+        "gameName": "novisad",
+        "realName": "Нови Сад (Novi Sad)",
+        "country": "uk",
+        "x": "36563.67",
+        "y": "43.37",
+        "z": "30842.71"
     },
     {
         "gameName": "oppdal",
@@ -5222,6 +5244,14 @@ var cities_wip = [
         "x": "50698.77",
         "y": "-27.02",
         "z": "-101567.13"
+    },
+    {
+        "gameName": "wexford",
+        "realName": "Wexford",
+        "country": "ireland",
+        "x": "-67015.93",
+        "y": "68.03",
+        "z": "-25257.44"
     },
     {
         "gameName": "zagreb",
