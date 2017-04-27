@@ -1209,6 +1209,11 @@ var stations = {
             logo: "stations/images-europe/hungary/Music FM.jpg",
             url: "http://stream.musicfm.hu:8000/musicfm.mp3"
         },
+        {
+            name: "Radio 1",
+            logo: "stations/images-europe/hungary/Radio 1.png",
+            url: "http://www.bytestorm.hu/radio1Stream/"
+        },
     ],
     "iceland": [
         {
@@ -1622,6 +1627,11 @@ var stations = {
             name: "FunX",
             logo: "stations/images-europe/netherlands/FunX.png",
             url: "http://icecast.omroep.nl/funx-bb-mp3"
+        },
+        {
+            name: "GrootNieuwsRadio",
+            logo: "stations/images-europe/netherlands/GrootNieuwsRadio.png",
+            url: "https://cors-anywhere.herokuapp.com/https://558bd16067b67.streamlock.net/grootnieuws_ipad/live.stream/playlist.m3u8"
         },
         {
             name: "Q-Music",

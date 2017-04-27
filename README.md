@@ -1,7 +1,7 @@
 # ETS2/ATS Local Radio
 
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
-and the Polish radio in Poland. It will switch automatically, and allow you to switch stations while driving.
+and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
 
 
 ETS2 Local Radio contains over 500 radio stations that you could realistically listen to if you were driving in that actual country.
@@ -95,6 +95,10 @@ then please try to reinstall the plugin by pressing the "Install plugin" button,
 _The game crashes when changing the graphics settings_
 
 Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
+
+_The editor will not load with the overlay installed_
+
+There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
 
 _Somethings else does not work!_
 

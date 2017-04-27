@@ -5128,7 +5128,7 @@ var cities_wip = [
     {
         "gameName": "novisad",
         "realName": "Нови Сад (Novi Sad)",
-        "country": "uk",
+        "country": "serbia",
         "x": "36563.67",
         "y": "43.37",
         "z": "30842.71"
@@ -5156,6 +5156,14 @@ var cities_wip = [
         "x": "1772.52",
         "y": "9.25",
         "z": "-62862.78"
+    },
+    {
+        "gameName": "rijeka",
+        "realName": "Rijeka",
+        "country": "croatia",
+        "x": "15136.11",
+        "y": "30.21",
+        "z": "31265.66"
     },
     {
         "gameName": "slavonski_brod",
