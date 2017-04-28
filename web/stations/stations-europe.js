@@ -130,6 +130,11 @@ var stations = {
             url: "http://video.tvr.by:8000/belfm"
         },
         {
+            name: "Радио BA",
+            logo: "stations/images-europe/belarus/Радио BA.png",
+            url: "http://87.252.252.78:8000/BA128"
+        },
+        {
             name: "Радио Сталіца",
             logo: "stations/images-europe/belarus/Радио Сталіца.jpg",
             url: "http://video.tvr.by:8000/stolica"
@@ -139,6 +144,11 @@ var stations = {
             logo: "stations/images-europe/belarus/Радио Минск.jpg",
             url: "http://93.84.113.142:8000/radio"
         },
+        {
+            name: "Радио Мир",
+            logo: "stations/images-europe/belarus/Радио Мир.jpg",
+            url: "http://217.23.126.106:8002/radio2.mir"
+        },
         /*
         {
             name: "Радио Unistar",
@@ -146,6 +156,11 @@ var stations = {
             url: "http://unistar.by:8000/unistar-128kb"
         },
         */
+        {
+            name: "Радио РОКС",
+            logo: "stations/images-europe/belarus/Радио РОКС.png",
+            url: "http://de.streams.radioplayer.by:8000/live"
+        },
         {
             name: "Радио Юмор ФМ",
             logo: "stations/images-europe/belarus/Радио Юмор ФМ.png",
