@@ -58,7 +58,7 @@ var stations = {
         {
             name: "KroneHit",
             logo: "stations/images-europe/austria/KroneHit.png",
-            url: "http://raj.krone.at:80/kronehit-hd.mp3"
+            url: "http://onair-ha1.krone.at/kronehit-hp.mp3"
         },
         {
             name: "Life Radio",
@@ -1857,6 +1857,11 @@ var stations = {
             url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
         },
         {
+            name: "Radio WAWA",
+            logo: "stations/images-europe/poland/Radio WAWA.png",
+            url: "http://waw02.ic1.scdn.smcloud.net/t050-1.aac"
+        },
+        {
             name: "Radio Zet",
             logo: "stations/images-europe/poland/Radio Zet.svg",
             url: "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
@@ -1880,6 +1885,11 @@ var stations = {
             name: "RMF MAXXX",
             logo: "stations/images-europe/poland/RMF MAXXX.png",
             url: "http://31.192.216.8:8000/rmf_maxxx"
+        },
+        {
+            name: "RMF Classic",
+            logo: "stations/images-europe/poland/RMF Classic.png",
+            url: "http://31.192.216.8/RMFCLASSIC48"
         },
         {
             name: "Tok FM",

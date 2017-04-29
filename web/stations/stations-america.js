@@ -3,7 +3,7 @@ var stations = {
         {
             name: "Valley Public Radio",
             logo: "stations/images-america/bakersfield/Valley Public Radio.png",
-            url: "http://sc9.lga.llnw.net:80/stream/vpubradio_kvpr"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KVPRFM"
         },
         {
             name: "103.9 The Beat",
