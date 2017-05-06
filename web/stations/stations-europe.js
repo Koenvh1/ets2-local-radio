@@ -1306,6 +1306,23 @@ var stations = {
             url: "http://185.80.220.12:8166/stream"
         },
     ],
+    "israel": [
+        {
+            name: "רשת א של קול ישראל",
+            logo: "stations/images-europe/israel/רשת א של קול ישראל.jpg",
+            url: "http://ibala.vidnt.com:8000/iba_radio-moreshetM"
+        },
+        {
+            name: "רשת ב של קול ישראל - רשות השידור",
+            logo: "stations/images-europe/israel/רשת ב של קול ישראל - רשות השידור.png",
+            url: "http://ibala.vidnt.com:8000/iba_radio-betM"
+        },
+        {
+            name: "FMרדיוס 100",
+            logo: "stations/images-europe/israel/FMרדיוס 100.png",
+            url: "http://100fm.streamgates.net/Radios100Fm"
+        },
+    ],
     "italy": [
         {
             name: "RAI Radio 1",

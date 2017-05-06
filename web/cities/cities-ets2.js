@@ -203,6 +203,12 @@ var country_properties = {
         code: "ie",
         relative_radius: 1,
     },
+    "israel": {
+        name: "מדינת ישראל",
+        name_english: "Israel",
+        code: "il",
+        relative_radius: 1,
+    },
     "italy": {
         name: "Italia",
         name_english: "Italy",
