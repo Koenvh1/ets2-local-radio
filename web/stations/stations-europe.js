@@ -1318,6 +1318,21 @@ var stations = {
             url: "http://ibala.vidnt.com:8000/iba_radio-betM"
         },
         {
+            name: "קול המוסיקה - רשות השידור",
+            logo: "stations/images-europe/israel/קול המוסיקה - רשות השידור.png",
+            url: "http://ibala.vidnt.com:8000/iba_radio-kolmusicaM"
+        },
+        {
+            name: "גלגלצ",
+            logo: "stations/images-europe/israel/גלגלצ.jpg",
+            url: "http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8?awCollectionId=misc&awEpisodeId=glglz"
+        },
+        {
+            name: "גלי צהל‎‎",
+            logo: "stations/images-europe/israel/גלי צהל‎‎.jpg",
+            url: "http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8?awCollectionId=misc&awEpisodeId=glz"
+        },
+        {
             name: "FMרדיוס 100",
             logo: "stations/images-europe/israel/FMרדיוס 100.png",
             url: "http://100fm.streamgates.net/Radios100Fm"
