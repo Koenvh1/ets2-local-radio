@@ -297,6 +297,48 @@ var stations = {
             url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
         },
     ],
+    "indio": [
+        {
+            name: "KUSC",
+            logo: "stations/images-america/indio/KUSC.png",
+            url: "http://19793.live.streamtheworld.com/KUSCMP128.mp3?tdsdk=js-2.7&pname=TdPlayerApi&pversion=2.7&banners="
+        },
+        {
+            name: "CSN",
+            logo: "stations/images-america/indio/CSN.png",
+            url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "KCRW station",
+            logo: "stations/images-america/indio/KCRW.jpg",
+            url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
+        },
+        {
+            name: "KiX",
+            logo: "stations/images-america/indio/KiX.png",
+            url: "http://ice5.securenetsystems.net/KXCM?playSessionID=814024FC-EF53-CA6E-333510A6CEC835EB"
+        },
+        {
+            name: "KPCC",
+            logo: "stations/images-america/indio/KPCC.png",
+            url: "http://live.scpr.org/kpcclive/"
+        },
+        {
+            name: "KRCK",
+            logo: "stations/images-america/indio/KRCK.png",
+            url: "http://ice10.securenetsystems.net/KRCK?playSessionID=814024FC-EF53-CA6E-333510A6CEC835EB"
+        },
+        {
+            name: "Mix 100.5",
+            logo: "stations/images-america/indio/Mix 100.5.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KPSIFMAAC"
+        },
+        {
+            name: "Radio Nueva Vida",
+            logo: "stations/images-america/indio/Radio Nueva Vida.png",
+            url: "http://ic1.christiannetcast.com/nuevavida"
+        },
+    ],
     "jackpot": [
         {
             name: "Boise State Public Radio",

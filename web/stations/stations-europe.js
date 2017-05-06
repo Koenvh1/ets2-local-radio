@@ -698,7 +698,7 @@ var stations = {
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10565/80692_RadioRock.mp3"
+            url: "http://rstream2.nelonenmedia.fi/Radiorock.mp3"
         },
         {
             name: "Radio Suomipop",
@@ -1616,13 +1616,21 @@ var stations = {
             logo: "stations/images-europe/netherlands/NPO Radio 4.png",
             url: "http://icecast.omroep.nl/radio4-bb-mp3"
         },
-        /*
         {
             name: "NPO Radio 5",
-            logo: "stations/images-europe/netherlands/NPO Radio 5.svg",
+            logo: "stations/images-europe/netherlands/NPO Radio 5.png",
             url: "http://icecast.omroep.nl/radio5-bb-mp3"
         },
-        */
+        {
+            name: "NPO Soul & Jazz",
+            logo: "stations/images-europe/netherlands/NPO Soul & Jazz.png",
+            url: "http://icecast.omroep.nl/radio6-bb-mp3"
+        },
+        {
+            name: "NPO SterrenNL",
+            logo: "stations/images-europe/netherlands/NPO SterrenNL.png",
+            url: "http://icecast.omroep.nl/radio2-sterrennl-mp3"
+        },
         {
             name: "100% NL",
             logo: "stations/images-europe/netherlands/100 NL.png",
@@ -1662,6 +1670,16 @@ var stations = {
             name: "Radio 538",
             logo: "stations/images-europe/netherlands/Radio 538.png",
             url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
+        },
+        {
+            name: "Radio 538 Top 40",
+            logo: "stations/images-europe/netherlands/Radio 538.png",
+            url: "https://hlscdn.538.nl/content/web02/index.m3u8",
+        },
+        {
+            name: "Radio Maria",
+            logo: "stations/images-europe/netherlands/Radio Maria.png",
+            url: "http://87.233.180.73:8000/;stream.mp3"
         },
         {
             name: "Radio Veronica",

@@ -95,6 +95,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 1.5
     },
+    "indio": {
+        name: "Indio",
+        english_name: "Indio",
+        code: "us-ca",
+        relative_radius: 1.5
+    },
     "jackpot": {
         name: "Jackpot",
         english_name: "Jackpot",
@@ -589,6 +595,14 @@ var cities = [
         "x": "-109205",
         "y": "108.332",
         "z": "1883.56"
+    },
+    {
+        "gameName": "indio",
+        "realName": "Indio",
+        "country": "california",
+        "x": "-93264",
+        "y": "108.332",
+        "z": "19872"
     },
     {
         "gameName": "jackpot",
