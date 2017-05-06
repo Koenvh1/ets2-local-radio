@@ -2557,8 +2557,8 @@ var stations = {
     ]
 };
 
-stations["belgium"] = stations["belgium-nl"].concat(stations["belgium-fr"]);
-stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerland-fr"]);
+//stations["belgium"] = stations["belgium-nl"].concat(stations["belgium-fr"]);
+//stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerland-fr"]);
 
 //You could group all German stations into one, but with the current amount of stations the list would become quite long
 //stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
