@@ -207,7 +207,7 @@ var country_properties = {
         name: "מדינת ישראל",
         name_english: "Israel",
         code: "il",
-        relative_radius: 1,
+        relative_radius: 0.5,
     },
     "italy": {
         name: "Italia",
@@ -4972,6 +4972,14 @@ var cities_wip = [
         "z": "-71472.14"
     },
     {
+        "gameName": "ashdod",
+        "realName": "Ashdod",
+        "country": "israel",
+        "x": "113759.26",
+        "y": "11",
+        "z": "91384.19"
+    },
+    {
         "gameName": "belfast",
         "realName": "Belfast",
         "country": "nireland",
@@ -5052,6 +5060,14 @@ var cities_wip = [
         "z": "-35578.97"
     },
     {
+        "gameName": "haifa",
+        "realName": "Haifa",
+        "country": "israel",
+        "x": "114259",
+        "y": "2.7",
+        "z": "85584.92"
+    },
+    {
         "gameName": "holyhead",
         "realName": "Holyhead",
         "country": "uk",
@@ -5092,8 +5108,16 @@ var cities_wip = [
         "z": "-97267.13"
     },
     {
-        "gameName": "Limerick (Luimneach)",
-        "realName": "limerick",
+        "gameName": "lefkosia",
+        "realName": "Λευκωσία (Lefkosia)",
+        "country": "cyprus",
+        "x": "102729.92",
+        "y": "15",
+        "z": "75415.23"
+    },
+    {
+        "gameName": "limerick",
+        "realName": "Limerick (Luimneach)",
         "country": "ireland",
         "x": "-74455.10",
         "y": "16.42",
@@ -5130,6 +5154,14 @@ var cities_wip = [
         "x": "-64011.90",
         "y": "23.04",
         "z": "-45948.30"
+    },
+    {
+        "gameName": "netanya",
+        "realName": "Netanya",
+        "country": "israel",
+        "x": "113710.56",
+        "y": "4",
+        "z": "87504.45"
     },
     {
         "gameName": "novisad",
@@ -5218,6 +5250,22 @@ var cities_wip = [
         "x": "40034.53",
         "y": "50.33",
         "z": "-26589.28"
+    },
+    {
+        "gameName": "telaviv",
+        "realName": "Tel Aviv",
+        "country": "israel",
+        "x": "113893.69",
+        "y": "9.9",
+        "z": "89054.06"
+    },
+    {
+        "gameName": "thessaloniki",
+        "realName": "Θεσσαλονίκη (Thessaloniki)",
+        "country": "greece",
+        "x": "50397.9",
+        "y": "8.98",
+        "z": "55423.36"
     },
     {
         "gameName": "trieste",
