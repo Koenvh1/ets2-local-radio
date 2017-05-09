@@ -1325,12 +1325,12 @@ var stations = {
         {
             name: "גלגלצ",
             logo: "stations/images-europe/israel/גלגלצ.jpg",
-            url: "http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8"
         },
         {
             name: "גלי צהל‎‎",
             logo: "stations/images-europe/israel/גלי צהל‎‎.jpg",
-            url: "http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8"
         },
         {
             name: "FMרדיוס 100",
