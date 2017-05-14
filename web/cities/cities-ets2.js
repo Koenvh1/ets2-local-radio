@@ -5092,6 +5092,14 @@ var cities_wip = [
         "z": "-102242.55"
     },
     {
+        "gameName": "jerusalem",
+        "realName": "Jerusalem",
+        "country": "israel",
+        "x": "117015.68",
+        "y": "47.19",
+        "z": "90801.95"
+    },
+    {
         "gameName": "kaliningrad",
         "realName": "Калининград (Kaliningrad)",
         "country": "russia",
