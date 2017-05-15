@@ -1161,6 +1161,11 @@ var stations = {
             url: "http://wdr-5.akacast.akamaistream.net/7/41/119439/v1/gnl.akacast.akamaistream.net/wdr-5"
         },
         {
+            name: "Radio RSG",
+            logo: "stations/images-europe/germany-wdr/Radio RSG.svg",
+            url: "http://edge.live.mp3.mdn.newmedia.nacamar.net/radiorsg/livestream.mp3"
+        },
+        {
             name: "RPR1",
             logo: "stations/images-europe/germany-wdr/RPR1.png",
             url: "http://streams.rpr1.de/rpr-ludwigshafen-128-aac"
@@ -1308,6 +1313,22 @@ var stations = {
     ],
     "israel": [
         {
+            name: "KAN BET",
+            logo: "stations/images-europe/israel/KAN BET LAM.png",
+            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM"
+        },
+        {
+            name: "KAN 88",
+            logo: "stations/images-europe/israel/KAN BET LAM.png",
+            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM"
+        },
+        {
+            name: "KAN GIMMEL",
+            logo: "stations/images-europe/israel/KAN GIMMEL LAM.png",
+            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM"
+        },
+        /*
+        {
             name: "רשת א של קול ישראל",
             logo: "stations/images-europe/israel/רשת א של קול ישראל.jpg",
             url: "http://ibala.vidnt.com:8000/iba_radio-moreshetM"
@@ -1322,6 +1343,7 @@ var stations = {
             logo: "stations/images-europe/israel/קול המוסיקה - רשות השידור.png",
             url: "http://ibala.vidnt.com:8000/iba_radio-kolmusicaM"
         },
+        */
         {
             name: "גלגלצ",
             logo: "stations/images-europe/israel/גלגלצ.jpg",
