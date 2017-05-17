@@ -1313,19 +1313,34 @@ var stations = {
     ],
     "israel": [
         {
-            name: "KAN BET",
+            name: "כאן ב'",
             logo: "stations/images-europe/israel/KAN BET LAM.png",
             url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM"
         },
         {
-            name: "KAN 88",
-            logo: "stations/images-europe/israel/KAN BET LAM.png",
+            name: "כאן 88",
+            logo: "stations/images-europe/israel/KAN 88 LAM.png",
             url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM"
         },
         {
-            name: "KAN GIMMEL",
+            name: "כאן גימל",
             logo: "stations/images-europe/israel/KAN GIMMEL LAM.png",
             url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM"
+        },
+        {
+            name: "כאן מקאן",
+            logo: "stations/images-europe/israel/KAN MAKAN LAM.png",
+            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmakanradioLAM"
+        },
+        {
+            name: "כאן תרבות",
+            logo: "stations/images-europe/israel/KAN TARBUT LAM.png",
+            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM"
+        },
+        {
+            name: "כאן קול המוסיקה",
+            logo: "stations/images-europe/israel/KAN Kol HaMusika.png",
+            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM"
         },
         /*
         {
