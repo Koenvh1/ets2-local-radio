@@ -326,7 +326,7 @@ var stations = {
         {
             name: "KRCK",
             logo: "stations/images-america/indio/KRCK.png",
-            url: "http://ice10.securenetsystems.net/KRCK?playSessionID=814024FC-EF53-CA6E-333510A6CEC835EB"
+            url: "http://ice10.securenetsystems.net/KRCK?playSessionID=4E379B5C-EEEE-5A44-F7E273A082E0E0BE"
         },
         {
             name: "Mix 100.5",

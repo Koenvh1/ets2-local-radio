@@ -698,7 +698,7 @@ var stations = {
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "http://rstream2.nelonenmedia.fi/Radiorock.mp3"
+            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10565/80692_RadioRock.mp3"
         },
         {
             name: "Radio Suomipop",
@@ -1374,31 +1374,16 @@ var stations = {
         },
         /*
         {
-            name: "רשת א של קול ישראל",
-            logo: "stations/images-europe/israel/רשת א של קול ישראל.jpg",
-            url: "http://ibala.vidnt.com:8000/iba_radio-moreshetM"
-        },
-        {
-            name: "רשת ב של קול ישראל - רשות השידור",
-            logo: "stations/images-europe/israel/רשת ב של קול ישראל - רשות השידור.png",
-            url: "http://ibala.vidnt.com:8000/iba_radio-betM"
-        },
-        {
-            name: "קול המוסיקה - רשות השידור",
-            logo: "stations/images-europe/israel/קול המוסיקה - רשות השידור.png",
-            url: "http://ibala.vidnt.com:8000/iba_radio-kolmusicaM"
-        },
-        */
-        {
             name: "גלגלצ",
             logo: "stations/images-europe/israel/GLGLZ.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://glglzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8?listeningSessionID=591bd9e17b04109d_210307_HwxzCso9_MTAuMTEuMjIuMTI6ODA!_0000000KXO4&downloadSessionID=0"
         },
         {
             name: "גלי צהל‎‎",
             logo: "stations/images-europe/israel/GLZ.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8?listeningSessionID=591bd9e17b04109d_210307_HwxzCso9_MTAuMTEuMjIuMTI6ODA!_0000000KXO4&downloadSessionID=0"
         },
+        */
         {
             name: "FMרדיוס 100",
             logo: "stations/images-europe/israel/FMרדיוס 100.png",
