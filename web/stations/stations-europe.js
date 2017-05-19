@@ -1296,6 +1296,16 @@ var stations = {
             url: "http://icecast2.rte.ie/2fm"
         },
         {
+            name: "RTÉ Lyric FM",
+            logo: "stations/images-europe/ireland/RTÉ Lyric FM.png",
+            url: "http://icecast2.rte.ie/lyric"
+        },
+        {
+            name: "RTÉ Raidió na Gaeltachta",
+            logo: "stations/images-europe/ireland/RTÉ Raidió na Gaeltachta.png",
+            url: "http://icecast2.rte.ie/rnag"
+        },
+        {
             name: "RTÉ Gold",
             logo: "stations/images-europe/ireland/RTÉ Gold.png",
             url: "http://icecast2.rte.ie/gold"
@@ -1306,14 +1316,34 @@ var stations = {
             url: "http://icecast2.rte.ie/pulse"
         },
         {
+            name: "Classic Hits 4FM",
+            logo: "stations/images-europe/ireland/Classic Hits 4FM.png",
+            url: "http://178.32.62.172:8166/;"
+        },
+        {
+            name: "iRadio",
+            logo: "stations/images-europe/ireland/iRadio.png",
+            url: "http://iradio3.iceca.st/i105107"
+        },
+        {
+            name: "News Talk 106-108 FM",
+            logo: "stations/images-europe/ireland/Newstalk 106-108 FM.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/NEWSTALK.mp3"
+        },
+        {
             name: "Raidió Rí-Rá",
             logo: "stations/images-europe/ireland/Raidió Rí-Rá.png",
             url: "http://185.80.220.12:8166/stream"
         },
+        {
+            name: "Today FM",
+            logo: "stations/images-europe/ireland/Today FM.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TODAY_FM.mp3"
+        },
     ],
     "israel": [
         {
-            name: "כאן ב'",
+            name: "כאן ב",
             logo: "stations/images-europe/israel/KAN BET LAM.png",
             url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM"
         },
@@ -1361,12 +1391,12 @@ var stations = {
         */
         {
             name: "גלגלצ",
-            logo: "stations/images-europe/israel/גלגלצ.jpg",
+            logo: "stations/images-europe/israel/GLGLZ.jpg",
             url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8"
         },
         {
             name: "גלי צהל‎‎",
-            logo: "stations/images-europe/israel/גלי צהל‎‎.jpg",
+            logo: "stations/images-europe/israel/GLZ.jpg",
             url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8"
         },
         {
