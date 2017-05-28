@@ -323,11 +323,13 @@ var stations = {
             logo: "stations/images-america/indio/KPCC.png",
             url: "http://live.scpr.org/kpcclive/"
         },
+        /*
         {
             name: "KRCK",
             logo: "stations/images-america/indio/KRCK.png",
             url: "http://ice10.securenetsystems.net/KRCK?playSessionID=4E379B5C-EEEE-5A44-F7E273A082E0E0BE"
         },
+        */
         {
             name: "Mix 100.5",
             logo: "stations/images-america/indio/Mix 100.5.png",

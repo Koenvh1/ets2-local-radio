@@ -8,6 +8,7 @@
  */
 
 var g_skinConfig = {
+    "theme": "light",                       //Theme for ETS2 Local Radio (light/dark)
     "radius": 7500,                         //What the base radius (broadcasting range) for all cities is in meters.
     "treshold": {                           //How much closer you need to be to a different country to switch to that country (in meters)
         "ets2": 300,

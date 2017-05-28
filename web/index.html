@@ -7,10 +7,18 @@
 
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#2EBB1E">
-    <link href="lib/css/bootstrap.css" type="text/css" rel="stylesheet">
-    <link href="lib/css/style.css" type="text/css" rel="stylesheet">
 
     <script src="config.js"></script>
+
+    <script>
+        if(g_skinConfig.theme === "dark"){
+            document.write('<link href="lib/css/dark/bootstrap.css" type="text/css" rel="stylesheet">');
+            document.write('<link href="lib/css/dark/style.css" type="text/css" rel="stylesheet">');
+        } else {
+            document.write('<link href="lib/css/light/bootstrap.css" type="text/css" rel="stylesheet">');
+            document.write('<link href="lib/css/light/style.css" type="text/css" rel="stylesheet">');
+        }
+    </script>
 
     <script src="lib/js/hls.js"></script>
 

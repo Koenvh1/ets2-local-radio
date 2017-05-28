@@ -1,0 +1,201 @@
+﻿@import "bootstrap.css";
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+body {
+    padding-top: 62px;
+    height: 100%;
+    min-height: 100vh;
+    width: 100%;
+    overflow-y: auto;
+    background-color: #212121;
+}
+
+.game-connected.yes .statusMessage {
+    display: none;
+}
+
+.remote {
+    display: none;
+}
+
+.update {
+    display: none;
+}
+
+.unsupported-browser {
+    display: none;
+}
+
+.microsoft-edge {
+    display: none;
+}
+
+.label-id {
+    float: right;
+    font-size: 100%;
+}
+
+.station-image-container {
+    height: 70px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.station-image-container > img {
+    width: auto;
+    height: auto;
+    max-height: 70px;
+    max-width: 100%;
+}
+
+.number-input {
+    padding: 0;
+    font-size: 25px;
+    width: 100% !important;
+    text-align: center;
+}
+
+.top-right {
+    position: absolute;
+    top: 1px;
+    right: 16px;
+}
+
+.overflow {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.navbar {
+    /*box-shadow: 0 8px 6px -6px #999;*/
+}
+
+.thumbnail {
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1), 0 0 10px 0 rgba(0, 0, 0, 0.09);
+    text-align: center;
+    cursor: pointer;
+    color: #2ebb1e;
+    border-radius: 2px;
+}
+
+.thumbnail-selected {
+    background-color: rgb(46, 187, 30);
+    color: #ffffff;
+}
+
+.thumbnail-selected:hover {
+    color: #eeeeee;
+}
+
+.thumbnail-error {
+    background-color: rgb(46, 187, 30);
+    color: #ffffff;
+}
+
+.input-nav {
+    height: 22px !important;
+}
+
+.alert-primary {
+    background-color: rgb(46, 187, 30);
+    border-color: transparent;
+    color: #ffffff;
+}
+
+.flag {
+    height: 18px;
+    width: 24px;
+    border-radius: 3px;
+    margin-top: -4px;
+     border: 1px solid #f2efe9;
+}
+
+.signal {
+    height: 25px;
+    width: auto;
+    position: absolute;
+    bottom: 25px;
+    right: 21px;
+    background-color: #373737;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+.play-button {
+    background-color: rgba(0, 0, 0, 0.6);
+    background-image: url('../img/play-button.png');
+    background-size: 50% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align:center;
+    opacity:0;
+    -webkit-transition: opacity .25s ease;
+    -moz-transition: opacity .25s ease;
+    transition: opacity .25s ease;
+    position: absolute;
+    height: calc(100% - 20px);
+    width: calc(100% - 30px);
+    left: 15px;
+    top: 0;
+    border-radius: 2px;
+    border: 1px solid #dfd7ca;
+}
+
+.play-button:hover {
+    opacity: 1;
+}
+
+.brightness {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 9000;
+    opacity: 0;
+    background-color: black;
+    pointer-events: none;
+}
+
+.snackbar {
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: -125px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 2px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    bottom: 30px;
+    font-size: 17px;
+}
+
+.snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {bottom: 30px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
