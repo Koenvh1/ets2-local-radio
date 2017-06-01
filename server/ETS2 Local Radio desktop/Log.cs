@@ -25,7 +25,7 @@ namespace ETS2_Local_Radio_server
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
+                //MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
             }
 
             Console.WriteLine(lines);
@@ -41,7 +41,7 @@ namespace ETS2_Local_Radio_server
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
+                //MessageBox.Show("Something went wrong when writing to the log file: \n" + ex.Message);
             }
         }
     }
