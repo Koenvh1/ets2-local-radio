@@ -839,34 +839,59 @@ var stations = {
         {
             name: "Deutschlandfunk",
             logo: "stations/images-europe/germany/Deutschlandfunk.png",
-            url: "http://dradio_mp3_dlf_m.akacast.akamaistream.net/7/249/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dlf_m"
+            url: "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3"
         },
         {
             name: "Deutschlandradio Kultur",
             logo: "stations/images-europe/germany/Deutschlandradio Kultur.png",
-            url: "http://stream.dradio.de/7/530/142684/v1/gnl.akacast.akamaistream.net/dradio_mp3_dkultur_m"
+            url: "http://st02.dlf.de/dlf/02/128/mp3/stream.mp3"
         },
     ],
     "germany-br": [
         {
             name: "Bayern 1",
             logo: "stations/images-europe/germany-br/Bayern 1.jpg",
-            url: "http://br-mp3-bayern1obb-m.akacast.akamaistream.net/7/273/142690/v1/gnl.akacast.akamaistream.net/br_mp3_bayern1obb_m"
+            url: "http://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/128/stream.mp3"
         },
         {
             name: "Bayern 2",
             logo: "stations/images-europe/germany-br/Bayern 2.jpg",
-            url: "http://br-mp3-bayern2sued-m.akacast.akamaistream.net/7/731/256282/v1/gnl.akacast.akamaistream.net/br_mp3_bayern2sued_m"
+            url: "http://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3"
         },
         {
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
-            url: "http://br-mp3-bayern3-m.akacast.akamaistream.net/7/442/142692/v1/gnl.akacast.akamaistream.net/br_mp3_bayern3_m"
+            url: "http://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "Bayern plus",
+            logo: "stations/images-europe/germany-br/Bayern plus.png",
+            url: "http://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/128/stream.mp3"
         },
         {
             name: "BR Heimat",
             logo: "stations/images-europe/germany-br/BR Heimat.png",
-            url: "http://br-mp3-brheimat-s.akacast.akamaistream.net/7/748/326703/v1/gnl.akacast.akamaistream.net/br_mp3_brheimat_s"
+            url: "http://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "BR-Klassik",
+            logo: "stations/images-europe/germany-br/BR-Klassik.png",
+            url: "http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "B5 aktuell",
+            logo: "stations/images-europe/germany-br/B5 aktuell.png",
+            url: "http://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "B5 plus",
+            logo: "stations/images-europe/germany-br/B5 plus.png",
+            url: "http://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "Puls",
+            logo: "stations/images-europe/germany-br/Puls.gif",
+            url: "http://br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3"
         },
         {
             name: "Antenne Bayern",
@@ -874,36 +899,58 @@ var stations = {
             url: "http://mp3channels.webradio.antenne.de:80/antenne"
         },
     ],
+    "germany-bremen": [
+        {
+            name: "Bremen Eins",
+            logo: "stations/images-europe/germany-ndr/Bremen Eins.png",
+            url: "http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "Bremen Vier",
+            logo: "stations/images-europe/germany-ndr/Bremen Vier.svg",
+            url: "http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "Nordwestradio",
+            logo: "stations/images-europe/germany-ndr/Nordwestradio.png",
+            url: "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "Bremen NEXT",
+            logo: "stations/images-europe/germany-ndr/Bremen NEXT.png",
+            url: "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3"
+        },
+    ],
     "germany-hr": [
         {
             name: "hr1",
             logo: "stations/images-europe/germany-hr/hr1.png",
-            url: "http://hr-mp3-m-h1.akacast.akamaistream.net/7/783/142131/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h1"
+            url: "http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3"
         },
         {
             name: "hr2",
             logo: "stations/images-europe/germany-hr/hr2.png",
-            url: "http://hr-mp3-m-h2.akacast.akamaistream.net/7/786/142132/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h2"
+            url: "http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3"
         },
         {
             name: "hr3",
             logo: "stations/images-europe/germany-hr/hr3.png",
-            url: "http://hr-mp3-m-h3.akacast.akamaistream.net/7/785/142133/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h3"
+            url: "http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3"
         },
         {
             name: "hr4",
             logo: "stations/images-europe/germany-hr/hr4.svg",
-            url: "http://hr-mp3-m-h4.akacast.akamaistream.net/7/780/142134/v1/gnl.akacast.akamaistream.net/hr-mp3-m-h4"
+            url: "http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3"
         },
         {
             name: "hr-info",
             logo: "stations/images-europe/germany-hr/hr-info.png",
-            url: "http://hr-mp3-m-hrinfo.akacast.akamaistream.net/7/698/142135/v1/gnl.akacast.akamaistream.net/hr-mp3-m-hrinfo"
+            url: "http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3"
         },
         {
             name: "YOU FM",
             logo: "stations/images-europe/germany-hr/YOU FM.png",
-            url: "http://hr-mp3-m-youfm.akacast.akamaistream.net/7/246/142136/v1/gnl.akacast.akamaistream.net/hr-mp3-m-youfm"
+            url: "http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3"
         },
         {
             name: "harmony.fm",
@@ -933,34 +980,49 @@ var stations = {
     ],
     "germany-mdr": [
         {
-            name: "MDR 1 Radio Sachsen",
-            logo: "stations/images-europe/germany-mdr/MDR 1 Radio Sachsen.svg",
-            url: "http://c22033-ls.i.core.cdn.streamfarm.net/Ohu6jU56x9922033/22033mdr/live/app2128740352/w2128904197/live_de_128.mp3"
+            name: "MDR Sachsen",
+            logo: "stations/images-europe/germany-mdr/MDR Sachsen.png",
+            url: "http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3"
         },
         {
-            name: "MDR 1 Radio Sachsen-Anhalt",
-            logo: "stations/images-europe/germany-mdr/MDR 1 Radio Sachsen-Anhalt.svg",
-            url: "http://c22033-ls.i.core.cdn.streamfarm.net/Z0nRRFVT49922033/22033mdr/live/app2128740352/w2128904198/live_de_128.mp3"
+            name: "MDR Sachsen-Anhalt",
+            logo: "stations/images-europe/germany-mdr/MDR Sachsen-Anhalt.png",
+            url: "http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3"
         },
         {
-            name: "MDR 1 Radio Thüringen",
-            logo: "stations/images-europe/germany-mdr/MDR 1 Radio Thüringen.svg",
-            url: "http://c22033-ls.i.core.cdn.streamfarm.net/9lBrdAv9G9922033/22033mdr/live/app2128740352/w2128904199/live_de_128.mp3"
+            name: "MDR Thüringen",
+            logo: "stations/images-europe/germany-mdr/MDR Thüringen.png",
+            url: "http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3"
         },
         {
             name: "MDR Jump",
             logo: "stations/images-europe/germany-mdr/MDR Jump.svg",
-            url: "http://c22033-ls.i.core.cdn.streamfarm.net/T3R6XGogC9922033/22033mdr/live/app2128740352/w2128904194/live_de_128.mp3"
+            url: "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3"
         },
         {
-            name: "MDR AKTUELL",
+            name: "MDR Aktuell",
             logo: "stations/images-europe/germany-mdr/MDR AKTUELL.png",
-            url: "http://c22033-ls.i.core.cdn.streamfarm.net/QpZptC4ta9922033/22033mdr/live/app2128740352/w2128904192/live_de_128.mp3"
+            url: "http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3"
         },
         {
             name: "MDR Sputnik",
             logo: "stations/images-europe/germany-mdr/MDR Sputnik.svg",
-            url: "http://c22033-ls.i.core.cdn.streamfarm.net/UjIe753Ui9922033/22033mdr/live/app2128740352/w2128904195/live_de_128.mp3"
+            url: "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3"
+        },
+        {
+            name: "MDR Klassik",
+            logo: "stations/images-europe/germany-mdr/MDR Klassik.svg",
+            url: "http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3"
+        },
+        {
+            name: "MDR Kultur",
+            logo: "stations/images-europe/germany-mdr/MDR Kultur.png",
+            url: "http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3"
+        },
+        {
+            name: "MDR Schlagerwelt",
+            logo: "stations/images-europe/germany-mdr/MDR Schlagerwelt.png",
+            url: "http://mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
         },
         {
             name: "89.0 RTL",
@@ -987,27 +1049,37 @@ var stations = {
         {
             name: "NDR 1",
             logo: "stations/images-europe/germany-ndr/NDR 1.png",
-            url: "http://ndr-ndr1-han-mp3.ng.akacast.akamaistream.net:80/7/807/273766/v1/gnl.akacast.akamaistream.net/ndr_ndr1_han_mp3"
+            url: "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.svg",
-            url: "http://ndr-ndr2-nds-mp3.akacast.akamaistream.net/7/400/252763/v1/gnl.akacast.akamaistream.net/ndr_ndr2_nds_mp3"
+            url: "http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
         },
         {
             name: "NDR Info",
             logo: "stations/images-europe/germany-ndr/NDR Info.svg",
-            url: "http://ndr-ndrinfo-nds-mp3.akacast.akamaistream.net/7/250/273753/v1/gnl.akacast.akamaistream.net/ndr_ndrinfo_nds_mp3"
+            url: "http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
         },
         {
             name: "NDR Kultur",
             logo: "stations/images-europe/germany-ndr/NDR Kultur.svg",
-            url: "http://ndr-ndrkultur-mp3.akacast.akamaistream.net/7/527/273758/v1/gnl.akacast.akamaistream.net/ndr_ndrkultur_mp3"
+            url: "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
         },
         {
             name: "N-Joy",
             logo: "stations/images-europe/germany-ndr/N-Joy.svg",
-            url: "http://ndr-n-joy-mp3.akacast.akamaistream.net/7/665/273752/v1/gnl.akacast.akamaistream.net/ndr_n-joy_mp3"
+            url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "NDR Blue",
+            logo: "stations/images-europe/germany-ndr/NDR Blue.png",
+            url: "http://ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "NDR Plus",
+            logo: "stations/images-europe/germany-ndr/NDR Plus.png",
+            url: "http://ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3"
         },
         {
             name: "Antenne MV",
@@ -1018,16 +1090,6 @@ var stations = {
             name: "Antenne Niedersachsen",
             logo: "stations/images-europe/germany-ndr/Antenne Niedersachsen.png",
             url: "http://antenne-nds.hoerradar.de/mp3-128_antenne-nds?sABC=584s32p8%230%230p943sq4psrqo414468p79n46rsqpr05%23yvfgrayvir&amsparams=playerid:listenlive;skey:1481585352"
-        },
-        {
-            name: "Bremen NEXT",
-            logo: "stations/images-europe/germany-ndr/Bremen NEXT.png",
-            url: "http://rb-mp3-m-bremennext.akacast.akamaistream.net/7/705/234439/v1/gnl.akacast.akamaistream.net/rb-mp3-m-bremennext"
-        },
-        {
-            name: "Bremen Vier",
-            logo: "stations/images-europe/germany-ndr/Bremen Vier.png",
-            url: "http://rb-mp3-m-bremenvier.akacast.akamaistream.net/7/23/234437/v1/gnl.akacast.akamaistream.net/rb-mp3-m-bremenvier"
         },
         {
             name: "FFN",
@@ -1049,27 +1111,32 @@ var stations = {
         {
             name: "RBB Antenne Brandenburg",
             logo: "stations/images-europe/germany-rbb/RBB Antenne Brandenburg.png",
-            url: "http://rbb-mp3-antenneb-m.akacast.akamaistream.net/7/516/292092/v1/gnl.akacast.akamaistream.net/rbb_mp3_antenneb_m"
+            url: "https://rbb-antennebrandenburg-live.sslcast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3"
         },
         {
             name: "RBB Fritz",
             logo: "stations/images-europe/germany-rbb/RBB Fritz.png",
-            url: "http://rbb-mp3-fritz-m.akacast.akamaistream.net/7/799/292093/v1/gnl.akacast.akamaistream.net/rbb_mp3_fritz_m"
+            url: "https://rbb-fritz-live.sslcast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3"
         },
         {
             name: "RBB Radio Eins",
             logo: "stations/images-europe/germany-rbb/RBB Radio Eins.png",
-            url: "http://rbb-mp3-radioeins-m.akacast.akamaistream.net/7/854/292097/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioeins_m"
+            url: "https://rbb-radioeins-live.sslcast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3"
         },
         {
             name: "RBB Inforadio",
             logo: "stations/images-europe/germany-rbb/RBB Inforadio.png",
-            url: "http://rbb-mp3-inforadio-m.akacast.akamaistream.net/7/134/292094/v1/gnl.akacast.akamaistream.net/rbb_mp3_inforadio_m"
+            url: "https://rbb-inforadio-live.sslcast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3"
         },
         {
             name: "RBB Radio Berlin 88,8",
             logo: "stations/images-europe/germany-rbb/RBB Radio Berlin 88,8.png",
-            url: "http://rbb-mp3-radioberlin-m.akacast.akamaistream.net/7/70/292096/v1/gnl.akacast.akamaistream.net/rbb_mp3_radioberlin_m"
+            url: "https://rbb-radioberlin-live.sslcast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "RBB Kulturradio",
+            logo: "stations/images-europe/germany-rbb/RBB Kulturradio.png",
+            url: "http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3"
         },
         {
             name: "104.6 RTL",
@@ -1086,32 +1153,32 @@ var stations = {
         {
             name: "SWR1",
             logo: "stations/images-europe/germany-swr/SWR1.png",
-            url: "http://swr-mp3-m-swr1bw.akacast.akamaistream.net/7/245/137133/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr1bw"
+            url: "http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3"
         },
         {
             name: "SWR2",
             logo: "stations/images-europe/germany-swr/SWR2.png",
-            url: "http://swr-mp3-m-swr2.akacast.akamaistream.net/7/721/137135/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr2"
+            url: "http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3"
         },
         {
             name: "SWR3",
             logo: "stations/images-europe/germany-swr/SWR3.svg",
-            url: "http://swr-mp3-m-swr3.akacast.akamaistream.net/7/720/137136/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr3"
+            url: "http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3"
         },
         {
             name: "SWR4",
             logo: "stations/images-europe/germany-swr/SWR4.png",
-            url: "http://swr-mp3-m-swr4bw.akacast.akamaistream.net/7/426/137137/v1/gnl.akacast.akamaistream.net/swr-mp3-m-swr4bw"
+            url: "http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3"
         },
         {
-            name: "SWRinfo",
-            logo: "stations/images-europe/germany-swr/SWRinfo.png",
-            url: "http://swr-mp3-m-info.akacast.akamaistream.net/7/40/137140/v1/gnl.akacast.akamaistream.net/swr-mp3-m-info"
+            name: "SWR aktuell",
+            logo: "stations/images-europe/germany-swr/SWR aktuell.jpg",
+            url: "http://swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3"
         },
         {
             name: "DASDING",
             logo: "stations/images-europe/germany-swr/DASDING.png",
-            url: "http://swr-mp3-m-dasding.akacast.akamaistream.net/7/588/137139/v1/gnl.akacast.akamaistream.net/swr-mp3-m-dasding"
+            url: "http://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3"
         },
         {
             name: "Antenne 1",
@@ -1138,27 +1205,27 @@ var stations = {
         {
             name: "WDR 1LIVE",
             logo: "stations/images-europe/germany-wdr/WDR 1LIVE.svg",
-            url: "http://1live.akacast.akamaistream.net/7/706/119434/v1/gnl.akacast.akamaistream.net/1live"
+            url: "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3"
         },
         {
             name: "WDR 2",
             logo: "stations/images-europe/germany-wdr/WDR 2.svg",
-            url: "http://wdr-mp3-m-wdr2-koeln.akacast.akamaistream.net/7/812/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-koeln"
+            url: "http://wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3"
         },
         {
             name: "WDR 3",
             logo: "stations/images-europe/germany-wdr/WDR 3.svg",
-            url: "http://wdr-3-320.akacast.akamaistream.net/7/827/119437/v1/gnl.akacast.akamaistream.net/wdr-3-320"
+            url: "http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3"
         },
         {
             name: "WDR 4",
             logo: "stations/images-europe/germany-wdr/WDR 4.svg",
-            url: "http://wdr-4.akacast.akamaistream.net/7/42/119438/v1/gnl.akacast.akamaistream.net/wdr-4"
+            url: "http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3"
         },
         {
             name: "WDR 5",
             logo: "stations/images-europe/germany-wdr/WDR 5.svg",
-            url: "http://wdr-5.akacast.akamaistream.net/7/41/119439/v1/gnl.akacast.akamaistream.net/wdr-5"
+            url: "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3"
         },
         {
             name: "Radio RSG",

@@ -137,6 +137,12 @@ var country_properties = {
         code: "de",
         relative_radius: 1,
     },
+    "germany-bremen": {
+        name: "Deutschland [Bremen]",
+        name_english: "Germany",
+        code: "de",
+        relative_radius: 1,
+    },
     "germany-hr": {
         name: "Deutschland [HR]",
         name_english: "Germany",
@@ -1207,6 +1213,14 @@ var cities = [
     {
         "gameName": "bremen",
         "realName": "Bremen",
+        "country": "germany-bremen",
+        "x": "-4919.98",
+        "y": "75.2969",
+        "z": "-14099.2"
+    },
+    {
+        "gameName": "bremen",
+        "realName": "Bremen",
         "country": "germany-ndr",
         "x": "-4919.98",
         "y": "75.2969",
@@ -1219,6 +1233,14 @@ var cities = [
         "x": "-4919.98",
         "y": "75.2969",
         "z": "-14099.2"
+    },
+    {
+        "gameName": "bremerhaven",
+        "realName": "Bremerhaven",
+        "country": "germany-bremen",
+        "x": "-5715.6",
+        "y": "85.1641",
+        "z": "-16976.6"
     },
     {
         "gameName": "bremerhaven",
@@ -5068,12 +5090,28 @@ var cities_wip = [
         "z": "85584.92"
     },
     {
+        "gameName": "herzliya",
+        "realName": "Herzliya",
+        "country": "israel",
+        "x": "114744.45",
+        "y": "10.90",
+        "z": "88087.91"
+    },
+    {
         "gameName": "holyhead",
         "realName": "Holyhead",
         "country": "uk",
         "x": "-56908",
         "y": "72.52",
         "z": "-30171"
+    },
+    {
+        "gameName": "honningsvag",
+        "realName": "Honningsvåg",
+        "country": "norway",
+        "x": "36111.50",
+        "y": "34.98",
+        "z": "-113723.19"
     },
     {
         "gameName": "huesca",
@@ -5210,6 +5248,14 @@ var cities_wip = [
         "x": "15136.11",
         "y": "30.21",
         "z": "31265.66"
+    },
+    {
+        "gameName": "rishon",
+        "realName": "Rishon LeZion",
+        "country": "israel",
+        "x": "113980.05",
+        "y": "10.90",
+        "z": "89941.94"
     },
     {
         "gameName": "slavonski_brod",
