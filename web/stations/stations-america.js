@@ -882,13 +882,6 @@ var stations = {
             url: "http://65.19.131.139/eldorado-kbluamaac-ibc2?session-id=2076409571"
         },
     ],
-    "canada": [
-        {
-            name: "CHRI",
-            logo: "stations/images-america/other/CHRI.png",
-            url: "http://chrica-lol.dyndns.org:8000/xstream"
-        },
-    ],
     /*
     "arizona": [
         {

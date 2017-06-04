@@ -468,6 +468,9 @@ var city_properties = {
     "dijon": {
         relative_radius: 1.1,
     },
+    "domitz": {
+        relative_radius: 0.5,
+    },
     "donostia": {
         relative_radius: 0.6,
     },
@@ -5048,6 +5051,22 @@ var cities_wip = [
         "x": "880.86",
         "y": "9.25",
         "z": "-64641.21"
+    },
+    {
+        "gameName": "domitz",
+        "realName": "Dömitz",
+        "country": "germany-ndr",
+        "x": "4272",
+        "y": "9.25",
+        "z": "-13488"
+    },
+    {
+        "gameName": "domitz",
+        "realName": "Dömitz",
+        "country": "germany",
+        "x": "4272",
+        "y": "9.25",
+        "z": "-13488"
     },
     {
         "gameName": "dublin",
