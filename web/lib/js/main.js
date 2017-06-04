@@ -272,6 +272,9 @@ function refresh(data) {
                     index = stations[country_lowest_distance].map(function (e) {
                         return e.name;
                     }).indexOf(favourite_lowest_distance["Name"]);
+                    if(index < 0){
+                        index = 0;
+                    }
                 }
                 if(!controlRemote) {
                     //If remote player, don't set radio station
