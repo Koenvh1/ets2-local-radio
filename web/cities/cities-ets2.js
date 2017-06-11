@@ -516,6 +516,9 @@ var city_properties = {
         relative_radius: 0.55,
         relative_whitenoise: 0.86
     },
+    "gyor": {
+        relative_radius: 0.5
+    },
     "haapsalu": {
         relative_radius: 0.6,
     },
@@ -570,6 +573,9 @@ var city_properties = {
     },
     "klintsy": {
         relative_radius: 0.6,
+    },
+    "kokkola": {
+        relative_radius: 0.5,
     },
     "kolka": {
         relative_radius: 0.5,
@@ -730,6 +736,9 @@ var city_properties = {
     "sibiu": {
         relative_whitenoise: 0.90,
         relative_radius: 1.8,
+    },
+    "skelleftea": {
+        relative_radius: 0.5,
     },
     "slavonski_brod": {
         relative_radius: 0.8,
@@ -5093,12 +5102,28 @@ var cities_wip = [
         "z": "-20395.50"
     },
     {
+        "gameName": "fraserburgh",
+        "realName": "Fraserburgh",
+        "country": "uk",
+        "x": "-36780.7",
+        "y": "50",
+        "z": "-58295.03"
+    },
+    {
         "gameName": "galway",
         "realName": "Galway",
         "country": "ireland",
         "x": "-76553.42",
         "y": "13.32",
         "z": "-35578.97"
+    },
+    {
+        "gameName": "gyor",
+        "realName": "Györ",
+        "country": "hungary",
+        "x": "26889",
+        "y": "63",
+        "z": "17105.46"
     },
     {
         "gameName": "haifa",
@@ -5173,6 +5198,14 @@ var cities_wip = [
         "z": "-97267.13"
     },
     {
+        "gameName": "kokkola",
+        "realName": "Kokkola",
+        "country": "finland",
+        "x": "36840.59",
+        "y": "63",
+        "z": "-75249.69"
+    },
+    {
         "gameName": "lefkosia",
         "realName": "Λευκωσία (Lefkosia)",
         "country": "cyprus",
@@ -5245,12 +5278,36 @@ var cities_wip = [
         "z": "-67492.96"
     },
     {
+        "gameName": "orkanger",
+        "realName": "Orkanger",
+        "country": "norway",
+        "x": "2744.29",
+        "y": "-4.97",
+        "z": "-70840.44"
+    },
+    {
         "gameName": "osijek",
         "realName": "Osijek",
         "country": "croatia",
         "x": "32009.34",
         "y": "22.88",
         "z": "29213.39"
+    },
+    {
+        "gameName": "ostersund",
+        "realName": "Östersund",
+        "country": "sweden",
+        "x": "15266.24",
+        "y": "0",
+        "z": "-70243.28"
+    },
+    {
+        "gameName": "ostrowm",
+        "realName": "Ostrów Mazowiecka",
+        "country": "poland",
+        "x": "39853.73",
+        "y": "43.97",
+        "z": "-12808.68"
     },
     {
         "gameName": "otta",
@@ -5275,6 +5332,14 @@ var cities_wip = [
         "x": "113980.05",
         "y": "10.90",
         "z": "89941.94"
+    },
+    {
+        "gameName": "skelleftea",
+        "realName": "Skellefteå",
+        "country": "sweden",
+        "x": "30527.27",
+        "y": "11",
+        "z": "-80009"
     },
     {
         "gameName": "slavonski_brod",
@@ -5395,6 +5460,14 @@ var cities_wip = [
         "x": "20401.37",
         "y": "0",
         "z": "28447.0"
+    },
+    {
+        "gameName": "zrenjanin",
+        "realName": "Зрењанин (Zrenjanin)",
+        "country": "serbia",
+        "x": "38437.20",
+        "y": "50",
+        "z": "29583.58"
     },
 ];
 
