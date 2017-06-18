@@ -1,5 +1,17 @@
 //window.open("http:" + TuneIn.payload.Station.broadcast.StreamUrl)
 var stations = {
+    "aland": [
+        {
+            name: "Steel FM",
+            logo: "stations/images-europe/aland/Steel FM.jpg",
+            url: "http://ice6.securenetsystems.net/STEELFM?playSessionID=F8DB637D-A3F9-8829-BBF2043C7F009883"
+        },
+        {
+            name: "YLE Radio Vega",
+            logo: "stations/images-europe/aland/YLE Radio Vega.png",
+            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8"
+        },
+    ],
     "andorra": [
         {
             name: "Andorra Difusió RNA",
@@ -968,7 +980,7 @@ var stations = {
             url: "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3"
         },
         {
-            name: "WDR Cosmo",
+            name: "Cosmo",
             logo: "stations/images-europe/germany-ndr/WDR Cosmo.svg",
             url: "http://addrad.io/4WRN3Y"
         },
@@ -1201,7 +1213,7 @@ var stations = {
             url: "http://ir-media.hoerradar.de/teddy-live-mp3-mq?sABC=58697nn6%231%2326nr8094s1012no571r7np7896r19p4p%23jro&amsparams=playerid:web;skey:1483307686"
         },
         {
-            name: "WDR Cosmo",
+            name: "Cosmo",
             logo: "stations/images-europe/germany-rbb/WDR Cosmo.svg",
             url: "http://addrad.io/4WRN3Y"
         },
@@ -1295,7 +1307,7 @@ var stations = {
             url: "http://addrad.io/4WRNgG"
         },
         {
-            name: "WDR Cosmo",
+            name: "Cosmo",
             logo: "stations/images-europe/germany-wdr/WDR Cosmo.svg",
             url: "http://addrad.io/4WRN3Y"
         },

@@ -1,4 +1,10 @@
 var country_properties = {
+    "aland": {
+        name: "Åland",
+        name_english: "Åland",
+        code: "ax",
+        relative_radius: 0.4,
+    },
     "andorra": {
         name: "Andorra",
         name_english: "Andorra",
@@ -407,6 +413,9 @@ var city_properties = {
     "are": {
         relative_radius: 0.6,
     },
+    "augustow": {
+        relative_radius: 0.5,
+    },
     "balvi": {
         relative_radius: 0.7,
     },
@@ -448,6 +457,9 @@ var city_properties = {
     },
     "calais": {
         relative_radius: 0.4,
+    },
+    "canterbury": {
+        relative_radius: 0.45,
     },
     "cherb": {
         relative_radius: 0.4,
@@ -495,6 +507,9 @@ var city_properties = {
     },
     "flensburg": {
         relative_radius: 0.5,
+    },
+    "folkestone": {
+        relative_radius: 0.4,
     },
     "gedser": {
         relative_radius: 0.6,
@@ -817,6 +832,9 @@ var city_properties = {
     },
     "umea": {
         relative_radius: 0.5,
+    },
+    "uppsala": {
+        relative_radius: 1.4,
     },
     "utsjoki": {
         relative_radius: 0.4,
@@ -5014,6 +5032,14 @@ var cities_wip = [
         "z": "91384.19"
     },
     {
+        "gameName": "augustow",
+        "realName": "Augustów",
+        "country": "poland",
+        "x": "43304",
+        "y": "46",
+        "z": "-19101"
+    },
+    {
         "gameName": "belfast",
         "realName": "Belfast",
         "country": "nireland",
@@ -5030,12 +5056,12 @@ var cities_wip = [
         "z": "-41394.61"
     },
     {
-        "gameName": "bolzano",
-        "realName": "Bolzano",
-        "country": "italy",
-        "x": "2128",
-        "y": "101.398",
-        "z": "23776"
+        "gameName": "canterbury",
+        "realName": "Canterbury",
+        "country": "uk",
+        "x": "-33881.88",
+        "y": "82",
+        "z": "-8782.05"
     },
     {
         "gameName": "chernyakh",
@@ -5086,6 +5112,14 @@ var cities_wip = [
         "z": "-31834.84"
     },
     {
+        "gameName": "elblag",
+        "realName": "Elbląg",
+        "country": "poland",
+        "x": "31008.55",
+        "y": "32",
+        "z": "-19463.05"
+    },
+    {
         "gameName": "falkenberg",
         "realName": "Falkenberg",
         "country": "sweden",
@@ -5100,6 +5134,14 @@ var cities_wip = [
         "x": "-61284.68",
         "y": "6.3",
         "z": "-20395.50"
+    },
+    {
+        "gameName": "folkestone",
+        "realName": "Folkestone",
+        "country": "uk",
+        "x": "-35631.49",
+        "y": "65.77",
+        "z": "-6947.11"
     },
     {
         "gameName": "fraserburgh",
@@ -5214,6 +5256,14 @@ var cities_wip = [
         "z": "75415.23"
     },
     {
+        "gameName": "lillehammer",
+        "realName": "Lillehammer",
+        "country": "norway",
+        "x": "4658.43",
+        "y": "13.15",
+        "z": "-59429.31"
+    },
+    {
         "gameName": "limerick",
         "realName": "Limerick (Luimneach)",
         "country": "ireland",
@@ -5260,6 +5310,14 @@ var cities_wip = [
         "x": "113710.56",
         "y": "4",
         "z": "87504.45"
+    },
+    {
+        "gameName": "mariehamn",
+        "realName": "Mariehamn",
+        "country": "aland",
+        "x": "30310.66",
+        "y": "13.25",
+        "z": "-52861.73"
     },
     {
         "gameName": "novisad",
