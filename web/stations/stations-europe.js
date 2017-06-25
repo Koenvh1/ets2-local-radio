@@ -523,14 +523,49 @@ var stations = {
             url: "http://live-icy.gss.dr.dk:8000/A/A25H.mp3"
         },
         {
+            name: "DR P6 Beat",
+            logo: "stations/images-europe/denmark/DR P6 Beat.png",
+            url: "http://live-icy.gss.dr.dk:8000/A/A29H.mp3"
+        },
+        {
+            name: "DR P7 Mix",
+            logo: "stations/images-europe/denmark/DR P7 Mix.png",
+            url: "http://live-icy.gss.dr.dk:8000/A/A21H.mp3"
+        },
+        {
+            name: "DR P8 Jazz",
+            logo: "stations/images-europe/denmark/DR P8 Jazz.png",
+            url: "http://live-icy.gss.dr.dk:8000/A/A22H.mp3"
+        },
+        {
+            name: "myROCK",
+            logo: "stations/images-europe/denmark/myROCK.jpg",
+            url: "http://ads-e-bauerse-fm-03-cr.sharp-stream.com/myrock_dk_mp3"
+        },
+        {
             name: "Nova FM",
             logo: "stations/images-europe/denmark/Nova FM.svg",
             url: "http://stream.novafm.dk:80/nova128"
         },
         {
+            name: "Pop FM",
+            logo: "stations/images-europe/denmark/Pop FM.jpg",
+            url: "http://ads-e-bauerse-fm-05-gos2.sharp-stream.com/popfm_dk_mp3"
+        },
+        {
             name: "Radio 100",
             logo: "stations/images-europe/denmark/Radio 100.png",
             url: "http://onair.100fmlive.dk:80/100fm_live.mp3"
+        },
+        {
+            name: "Radio24syv",
+            logo: "stations/images-europe/denmark/Radio24syv.png",
+            url: "http://rrr.sz.xlcdn.com/?account=Radio24syv&file=ENC1_Web128&type=live&service=icecast&port=8000&output=pls"
+        },
+        {
+            name: "Radio Soft",
+            logo: "stations/images-europe/denmark/Radio Soft.jpg",
+            url: "http://ads-e-bauerse-fm-03-cr.sharp-stream.com/radiosoft_dk_mp3"
         },
         {
             name: "The Voice",
@@ -817,6 +852,11 @@ var stations = {
             name: "Radio Vinci Autoroutes",
             logo: "stations/images-europe/france/Radio Vinci Autoroutes.gif",
             url: "http://str0.creacast.com/radio_vinci_autoroutes_6"
+        },
+        {
+            name: "RFM",
+            logo: "stations/images-europe/france/RFM.png",
+            url: "http://rfm-live-mp3-64.scdn.arkena.com/rfm.mp3"
         },
         {
             name: "Rire et Chansons",
@@ -1106,9 +1146,19 @@ var stations = {
     ],
     "germany-ndr": [
         {
-            name: "NDR 1",
-            logo: "stations/images-europe/germany-ndr/NDR 1.png",
+            name: "NDR 1 Niedersachsen",
+            logo: "stations/images-europe/germany-ndr/NDR 1 Niedersachsen.png",
             url: "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
+        },
+        {
+            name: "NDR 1 Welle Nord",
+            logo: "stations/images-europe/germany-ndr/NDR 1 Welle Nord.png",
+            url: "http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
+        },
+        {
+            name: "NDR 1 Radio MV",
+            logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
+            url: "http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
         },
         {
             name: "NDR 2",
@@ -1321,6 +1371,7 @@ var stations = {
             logo: "stations/images-europe/germany-wdr/KiRaKa - KinderRadioKanal.svg",
             url: "http://addrad.io/4WRNd_"
         },
+        /*
         {
             name: "News89.4",
             logo: "stations/images-europe/germany-wdr/News89.4.gif",
@@ -1331,6 +1382,7 @@ var stations = {
             logo: "stations/images-europe/germany-wdr/Radio RSG.svg",
             url: "http://edge.live.mp3.mdn.newmedia.nacamar.net/radiorsg/livestream.mp3"
         },
+        */
         {
             name: "RPR1",
             logo: "stations/images-europe/germany-wdr/RPR1.png",
@@ -2697,6 +2749,11 @@ var stations = {
             name: "Show Radyo",
             logo: "stations/images-europe/turkey/Show Radyo.jpg",
             url: "http://46.20.3.234:80/;"
+        },
+        {
+            name: "Süper FM",
+            logo: "stations/images-europe/turkey/Süper FM.jpg",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=SUPER_FM"
         },
     ],
     "uk": [

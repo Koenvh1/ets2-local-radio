@@ -39,6 +39,23 @@ var stations_custom = {
             url: "http://stream1.laut.fm/simulator1"
         },
     ],
+    "germany-wdr": [
+        {
+            name: "News89.4",
+            logo: "stations/images-europe/germany-wdr/News89.4.gif",
+            url: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-news894/livestream.mp3"
+        },
+        {
+            name: "Radio RSG",
+            logo: "stations/images-europe/germany-wdr/Radio RSG.svg",
+            url: "http://edge.live.mp3.mdn.newmedia.nacamar.net/radiorsg/livestream.mp3"
+        },
+        {
+            name: "Radio Siegen",
+            logo: "http://static.radio.de/images/broadcasts/c3/a6/2542/c175.png",
+            url: "http://mp3.radiosiegen.c.nmdn.net/radiosiegen/livestream.mp3"
+        },
+    ],
     "switzerland-de": [
         {
             name: "simulatorONE",
