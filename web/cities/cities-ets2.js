@@ -437,6 +437,9 @@ var city_properties = {
     "bilbao": {
         relative_radius: 0.7,
     },
+    "bonn": {
+        relative_radius: 0.5,
+    },
     "borisoglebsk": {
         relative_radius: 2,
     },
@@ -498,6 +501,9 @@ var city_properties = {
     },
     "dusseldorf": {
         relative_radius: 0.8,
+    },
+    "engels": {
+        relative_radius: 2,
     },
     "falkenberg": {
         relative_radius: 0.6,
@@ -589,6 +595,9 @@ var city_properties = {
     "klintsy": {
         relative_radius: 0.6,
     },
+    "koblenz": {
+        relative_radius: 0.5,
+    },
     "kokkola": {
         relative_radius: 0.5,
     },
@@ -636,6 +645,9 @@ var city_properties = {
     },
     "luki": {
         relative_radius: 0.7,
+    },
+    "mainz": {
+        relative_radius: 0.5,
     },
     "manresa": {
         relative_radius: 1.05,
@@ -738,6 +750,9 @@ var city_properties = {
     "rodbyhavn": {
         relative_radius: 0.6,
     },
+    "ronne": {
+        relative_radius: 0.3,
+    },
     "rostock": {
         relative_radius: 0.7,
         relative_whitenoise: 0.95,
@@ -747,6 +762,12 @@ var city_properties = {
     },
     "saldus": {
         relative_radius: 0.6,
+    },
+    "sangerhausen": {
+        relative_radius: 0.7,
+    },
+    "saratov": {
+        relative_radius: 2,
     },
     "sibiu": {
         relative_whitenoise: 0.90,
@@ -868,6 +889,9 @@ var city_properties = {
     },
     "wexford": {
         relative_radius: 0.8,
+    },
+    "wiesbaden": {
+        relative_radius: 0.5,
     },
     "zagreb": {
         relative_radius: 0.9,
@@ -3855,7 +3879,10 @@ var cities = [
         "x": "-14526",
         "y": "105.766",
         "z": "-12292.1"
-    },
+    }
+];
+
+var cities_rusmap = [
     {
         "gameName": "babruysk",
         "realName": "Babruysk",
@@ -3895,6 +3922,14 @@ var cities = [
         "x": "82100",
         "y": "61.7188",
         "z": "-22682.4"
+    },
+    {
+        "gameName": "engels",
+        "realName": "Engels",
+        "country": "russia",
+        "x": "135141",
+        "y": "45.7891",
+        "z": "-26770.3"
     },
     {
         "gameName": "gomel",
@@ -4119,6 +4154,14 @@ var cities = [
         "x": "64110.6",
         "y": "113.523",
         "z": "-59343.8"
+    },
+    {
+        "gameName": "saratov",
+        "realName": "Saratov",
+        "country": "russia",
+        "x": "131600",
+        "y": "45.7891",
+        "z": "-27910"
     },
     {
         "gameName": "sluck",
@@ -5056,6 +5099,22 @@ var cities_wip = [
         "z": "-41394.61"
     },
     {
+        "gameName": "bonn",
+        "realName": "Bonn",
+        "country": "germany-wdr",
+        "x": "-12498.27",
+        "y": "42.51",
+        "z": "-467.13"
+    },
+    {
+        "gameName": "bonn",
+        "realName": "Bonn",
+        "country": "germany",
+        "x": "-12498.27",
+        "y": "42.51",
+        "z": "-467.13"
+    },
+    {
         "gameName": "canterbury",
         "realName": "Canterbury",
         "country": "uk",
@@ -5176,6 +5235,14 @@ var cities_wip = [
         "z": "85584.92"
     },
     {
+        "gameName": "hamar",
+        "realName": "Hamar",
+        "country": "norway",
+        "x": "5453.67",
+        "y": "0",
+        "z": "-57135.11"
+    },
+    {
         "gameName": "herzliya",
         "realName": "Herzliya",
         "country": "israel",
@@ -5238,6 +5305,22 @@ var cities_wip = [
         "x": "56287.63",
         "y": "-31.13",
         "z": "-97267.13"
+    },
+    {
+        "gameName": "koblenz",
+        "realName": "Koblenz",
+        "country": "germany-swr",
+        "x": "-11350.14",
+        "y": "38.87",
+        "z": "1411.76"
+    },
+    {
+        "gameName": "koblenz",
+        "realName": "Koblenz",
+        "country": "germany",
+        "x": "-11350.14",
+        "y": "38.87",
+        "z": "1411.76"
     },
     {
         "gameName": "kokkola",
@@ -5310,6 +5393,22 @@ var cities_wip = [
         "x": "113710.56",
         "y": "4",
         "z": "87504.45"
+    },
+    {
+        "gameName": "mainz",
+        "realName": "Mainz",
+        "country": "germany-hr",
+        "x": "-10114.50",
+        "y": "33",
+        "z": "2678.53"
+    },
+    {
+        "gameName": "mainz",
+        "realName": "Mainz",
+        "country": "germany",
+        "x": "-10114.50",
+        "y": "33",
+        "z": "2678.53"
     },
     {
         "gameName": "mariehamn",
@@ -5390,6 +5489,30 @@ var cities_wip = [
         "x": "113980.05",
         "y": "10.90",
         "z": "89941.94"
+    },
+    {
+        "gameName": "ronne",
+        "realName": "Rønne",
+        "country": "denmark",
+        "x": "15919.91",
+        "y": "10",
+        "z": "-24530.53"
+    },
+    {
+        "gameName": "sangerhausen",
+        "realName": "Sangerhausen",
+        "country": "germany-mdr",
+        "x": "2204.59",
+        "y": "48",
+        "z": "-4672.66"
+    },
+    {
+        "gameName": "sangerhausen",
+        "realName": "Sangerhausen",
+        "country": "germany",
+        "x": "2204.59",
+        "y": "48",
+        "z": "-4672.66"
     },
     {
         "gameName": "skelleftea",
@@ -5504,12 +5627,36 @@ var cities_wip = [
         "z": "-101567.13"
     },
     {
+        "gameName": "vestmannaeyjar",
+        "realName": "Vestmannaeyjar",
+        "country": "iceland",
+        "x": "-90650.19",
+        "y": "0",
+        "z": "-91439.36"
+    },
+    {
         "gameName": "wexford",
         "realName": "Wexford",
         "country": "ireland",
         "x": "-67015.93",
         "y": "68.03",
         "z": "-25257.44"
+    },
+    {
+        "gameName": "wiesbaden",
+        "realName": "Wiesbaden",
+        "country": "germany-hr",
+        "x": "-9910.27",
+        "y": "40",
+        "z": "2026.05"
+    },
+    {
+        "gameName": "wiesbaden",
+        "realName": "Wiesbaden",
+        "country": "germany",
+        "x": "-9910.27",
+        "y": "40",
+        "z": "2026.05"
     },
     {
         "gameName": "zagreb",
@@ -6551,6 +6698,7 @@ var cities_yks_turkey = [
     }
 ];
 
+cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
