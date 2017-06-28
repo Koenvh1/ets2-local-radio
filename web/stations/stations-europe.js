@@ -814,6 +814,11 @@ var stations = {
             url: "http://ais.rtl.fr:80/fun-1-44-128"
         },
         {
+            name: "MFM Radio",
+            logo: "stations/images-europe/france/MFM Radio.png",
+            url: "http://mfm.ice.infomaniak.ch/mfm-128.mp3"
+        },
+        {
             name: "Mouv'",
             logo: "stations/images-europe/france/Mouv'.jpg",
             url: "http://direct.mouv.fr/live/mouv-midfi.mp3"
@@ -1408,7 +1413,7 @@ var stations = {
         {
             name: "Rythmos FM",
             logo: "stations/images-europe/greece/Rythmos FM.png",
-            url: "http://antglrythmos1-lh.akamaihd.net/i/live_1@425194/index_96_a-b.m3u8"
+            url: "https://antglrythmos1-lh.akamaihd.net/i/live_1@425194/master.m3u8"
         },
         {
             name: "Star FM",
@@ -1477,7 +1482,7 @@ var stations = {
         {
             name: "Lindin",
             logo: "stations/images-europe/iceland/Lindin.png",
-            url: "http://62.145.147.50:8001/stream.aac"
+            url: "http://213.190.100.119:80/live/lindin.stream/playlist.m3u8"
         },
         {
             name: "Útvarp Saga",
@@ -1642,7 +1647,7 @@ var stations = {
         {
             name: "R101",
             logo: "stations/images-europe/italy/R101.png",
-            url: "http://wradio.msf.ticdn.it/r101"
+            url: "http://icecast.unitedradio.it/r101"
         },
         {
             name: "Radio 105 FM",
@@ -1842,7 +1847,7 @@ var stations = {
         {
             name: "Радио Канал 77",
             logo: "stations/images-europe/macedonia/Радио Канал 77.png",
-            url: "http://92.55.71.42:8023/kanal77.mp3"
+            url: "http://185.177.23.246:8000/live.mp3"
         },
         {
             name: "Metropolis Radio",
@@ -1894,7 +1899,7 @@ var stations = {
         {
             name: "Vocea Basarabiei",
             logo: "stations/images-europe/moldova/Vocea Basarabiei.png",
-            url: "http://188.138.214.47:8000/vb_radio"
+            url: "http://95.65.0.194:8000/radio_vb_96kb"
         },
     ],
     "netherlands": [
@@ -1956,7 +1961,7 @@ var stations = {
         {
             name: "GrootNieuwsRadio",
             logo: "stations/images-europe/netherlands/GrootNieuwsRadio.png",
-            url: "https://cors-anywhere.herokuapp.com/https://558bd16067b67.streamlock.net/grootnieuws_ipad/live.stream/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://highvolume01.streampartner.nl/grootnieuws_ipad/live.stream/playlist.m3u8"
         },
         {
             name: "Q-Music",
@@ -2743,7 +2748,7 @@ var stations = {
         {
             name: "Radyo Fenomen",
             logo: "stations/images-europe/turkey/Radyo Fenomen.png",
-            url: "http://sc.powergroup.com.tr:80/RadyoFenomen/mpeg/128/tunein"
+            url: "http://195.142.3.84/fenomen/fenomenweb_mpeg_128_home/icecast.audio"
         },
         {
             name: "Show Radyo",

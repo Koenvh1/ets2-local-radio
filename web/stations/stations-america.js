@@ -364,7 +364,7 @@ var stations = {
         {
             name: "KAAA",
             logo: "stations/images-america/kingman/KAAA.jpg",
-            url: "http://65.19.131.147/cameron-kaaaamaac-48?session-id=1887133148"
+            url: "http://54.161.28.174/cameron-kaaaamaac-ibc3?session-id=0fda376ce1f9e22c57fa6ec1cbe2a8b0&source=v6player "
         },
         {
             name: "KJJJ",
@@ -379,7 +379,7 @@ var stations = {
         {
             name: "The Knack",
             logo: "stations/images-america/kingman/The Knack.png",
-            url: "http://65.19.131.160/cameron-knkkfmaac-48?session-id=114732767"
+            url: "http://54.161.28.174/cameron-knkkfmaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-6e746533397433386738636e65727572&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02"
         },
     ],
     "las_vegas": [
