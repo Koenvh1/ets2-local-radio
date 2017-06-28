@@ -143,6 +143,20 @@ but you still want to add it. That's possible too.
 Just go to the `\web\stations\stations-custom.example.js` file, rename it to `stations-custom.js` and add your own stations there.
 More information on that can be found in that file as well.
 
+##### Why does it have to broadcast in a majority of the country?
+ 
+Let us take a local radio station from France as an example:
+
+Imagine a radio station that has a range of 50km in real life (which is quite a lot), so a diameter of 100km. 
+Now, ETS2 has a scale of 1:19, so that would be 5.26km in ETS2. If you drive at 80km/h, 
+you'll be able to listen to it for 0.066 hours or about four minutes, which is less than the time of one song. 
+And that's when you go right through the middle of the coverage circle, it will be even shorter if you don't. 
+You can already see (or actually hear) this problem by driving through Luxembourg, as Luxembourg is quite a small country.
+
+The problem you create then is that the radio constantly switches stations, which is not really desirable. 
+I worked around this in ATS, where radio stations are licensed per city instead of per state, 
+by making the range unrealistically large and making it switch later than in ETS2, but the problem still exists there too.
+
 ### Can you support map x?
 
 Maybe, maybe not. You can always send in a request.
@@ -150,6 +164,7 @@ Maybe, maybe not. You can always send in a request.
 * ETS2 maps will not be added unless you provide at least one station per new **country**. 
 
 ##### How about Project Balkans, Open Spaces or YKS Turkey?
+
 A persisting problem is that some maps are incompatible with each other.
 For that reason, some custom maps are not enabled by default.
 You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for Project Balkans, YKS Turkey and/or Open Spaces.
@@ -180,9 +195,11 @@ You can see why I recommend Firefox or Edge.
 I have considered using VLC for the playback, but the CPU usage for HLS streams would regularly exceed 30%, something I don't consider acceptable.
 Over time stations will probably fix their playback for Chrome and Opera, but I can't do it for them.
 
-_Update 2017-04-24: It seems like most stations have fixed their playback for Chrome and Opera now._ 
+* _Update 2017-04-24: It seems like most stations have fixed their playback for Chrome and Opera now._ 
+* _Update 2017-06-26: Actually, Chrome and Opera made an exception for ShoutCast. Still works though._
 
 ## Thanks to:
+
 I could not have possibly done this alone, so thanks to the following people:
 * SCS Software for creating ETS2
 * **nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)**
