@@ -1482,7 +1482,7 @@ var stations = {
         {
             name: "Lindin",
             logo: "stations/images-europe/iceland/Lindin.png",
-            url: "http://213.190.100.119:80/live/lindin.stream/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://213.190.100.119:80/live/lindin.stream/playlist.m3u8"
         },
         {
             name: "Útvarp Saga",
