@@ -326,11 +326,13 @@ var stations = {
             logo: "stations/images-europe/bulgaria/Radio Fresh.png",
             url: "http://193.108.24.21:8000/fresh"
         },
+        /*
         {
             name: "Radio Melody",
             logo: "stations/images-europe/bulgaria/Radio Melody.png",
             url: "http://46.10.150.123:80/melody.mp3"
         },
+        */
         {
             name: "Star FM",
             logo: "stations/images-europe/bulgaria/Star FM.png",
