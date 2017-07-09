@@ -1692,6 +1692,33 @@ var stations = {
             url: "http://shoutcast.rtl.it:3010/stream/1/"
         },
     ],
+    "kazakhstan": [
+        {
+            name: "Қазақ радиосы",
+            logo: "stations/images-europe/kazakhstan/Қазақ радиосы.jpg",
+            url: "http://onradio.kaztrk.kz:8000/kazradio"
+        },
+        {
+            name: "Авторадио",
+            logo: "stations/images-europe/kazakhstan/Авторадио.png",
+            url: "http://ps.ne.fm/AVTORADIO"
+        },
+        {
+            name: "Radio NS",
+            logo: "stations/images-europe/kazakhstan/Radio NS.png",
+            url: "http://episodes.ne.fm/mp3/radions"
+        },
+        {
+            name: "Ретро FM",
+            logo: "stations/images-europe/kazakhstan/Ретро FM.png",
+            url: "http://s1.radioheart.ru:8001/retrofm-kz-128"
+        },
+        {
+            name: "Русское Радио Азия",
+            logo: "stations/images-europe/kazakhstan/Русское Радио Азия.png",
+            url: "http://31.148.22.35:9000/stream"
+        },
+    ],
     "latvia": [
         {
             name: "Latvijas Radio 1",

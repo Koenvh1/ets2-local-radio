@@ -233,6 +233,12 @@ var country_properties = {
         code: "je",
         relative_radius: 0.1,
     },
+    "kazakhstan": {
+        name: "Қазақстан",
+        name_english: "Kazakhstan",
+        code: "kz",
+        relative_radius: 1,
+    },
     "latvia": {
         name: "Latvija",
         name_english: "Latvia",
