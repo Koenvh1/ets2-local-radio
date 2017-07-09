@@ -6698,11 +6698,295 @@ var cities_yks_turkey = [
     }
 ];
 
+var cities_italy_map = [
+    {
+        "gameName": "ancona",
+        "realName": "Ancona",
+        "country": "italy",
+        "x": "10260.4",
+        "y": "56.9648",
+        "z": "40272.5"
+    },
+    {
+        "gameName": "aquila",
+        "realName": "L'Aquila",
+        "country": "italy",
+        "x": "10098.9",
+        "y": "105.094",
+        "z": "46803.9"
+    },
+    {
+        "gameName": "bari",
+        "realName": "Bari",
+        "country": "italy",
+        "x": "23803.7",
+        "y": "59.2031",
+        "z": "54577.8"
+    },
+    {
+        "gameName": "bologna",
+        "realName": "Bologna",
+        "country": "italy",
+        "x": "1895.71",
+        "y": "77.125",
+        "z": "34717.7"
+    },
+    {
+        "gameName": "cagliari",
+        "realName": "Cagliari",
+        "country": "italy",
+        "x": "-9351.08",
+        "y": "73.4063",
+        "z": "64225.5"
+    },
+    {
+        "gameName": "catania",
+        "realName": "Catania",
+        "country": "italy",
+        "x": "16904.9",
+        "y": "60.0117",
+        "z": "75107.5"
+    },
+    {
+        "gameName": "catanz",
+        "realName": "Catanzaro",
+        "country": "italy",
+        "x": "23154.8",
+        "y": "88.0352",
+        "z": "66889.7"
+    },
+    {
+        "gameName": "civitavec",
+        "realName": "Civitavecchia",
+        "country": "italy",
+        "x": "3124",
+        "y": "63.2969",
+        "z": "48749.1"
+    },
+    {
+        "gameName": "crotone",
+        "realName": "Crotone",
+        "country": "italy",
+        "x": "25677.5",
+        "y": "56.5547",
+        "z": "65250.7"
+    },
+    {
+        "gameName": "enna",
+        "realName": "Enna",
+        "country": "italy",
+        "x": "12818.1",
+        "y": "114.125",
+        "z": "74267.5"
+    },
+    {
+        "gameName": "firenze",
+        "realName": "Firenze",
+        "country": "italy",
+        "x": "2042.68",
+        "y": "91.1445",
+        "z": "38929.3"
+    },
+    {
+        "gameName": "foggia",
+        "realName": "Foggia",
+        "country": "italy",
+        "x": "18927.3",
+        "y": "78.5273",
+        "z": "52413.7"
+    },
+    {
+        "gameName": "genova",
+        "realName": "Genova",
+        "country": "italy",
+        "x": "-8329.93",
+        "y": "60",
+        "z": "34875.6"
+    },
+    {
+        "gameName": "imola",
+        "realName": "Imola",
+        "country": "italy",
+        "x": "3285.87",
+        "y": "70.1133",
+        "z": "35401.5"
+    },
+    {
+        "gameName": "laspezia",
+        "realName": "La Spezia",
+        "country": "italy",
+        "x": "-5183.63",
+        "y": "52.6445",
+        "z": "37196.4"
+    },
+    {
+        "gameName": "latina",
+        "realName": "Latina",
+        "country": "italy",
+        "x": "7571.98",
+        "y": "57.2813",
+        "z": "52219.6"
+    },
+    {
+        "gameName": "lecce",
+        "realName": "Lecce",
+        "country": "italy",
+        "x": "30077",
+        "y": "64.9102",
+        "z": "58629.2"
+    },
+    {
+        "gameName": "livorno",
+        "realName": "Livorno",
+        "country": "italy",
+        "x": "-2974.56",
+        "y": "56.4766",
+        "z": "40352.3"
+    },
+    {
+        "gameName": "lucca",
+        "realName": "Lucca",
+        "country": "italy",
+        "x": "-1316.87",
+        "y": "87.207",
+        "z": "38411.4"
+    },
+    {
+        "gameName": "messina",
+        "realName": "Messina",
+        "country": "italy",
+        "x": "18557.4",
+        "y": "58.7461",
+        "z": "70913.3"
+    },
+    {
+        "gameName": "modena",
+        "realName": "Modena",
+        "country": "italy",
+        "x": "-110.371",
+        "y": "76.3867",
+        "z": "34033.2"
+    },
+    {
+        "gameName": "napoli",
+        "realName": "Napoli",
+        "country": "italy",
+        "x": "13301.3",
+        "y": "92.2227",
+        "z": "55970.5"
+    },
+    {
+        "gameName": "olbia",
+        "realName": "Olbia",
+        "country": "italy",
+        "x": "-6934.47",
+        "y": "55.9219",
+        "z": "54933.6"
+    },
+    {
+        "gameName": "oristano",
+        "realName": "Oristano",
+        "country": "italy",
+        "x": "-11619.1",
+        "y": "57.8164",
+        "z": "59839.6"
+    },
+    {
+        "gameName": "palermo",
+        "realName": "Palermo",
+        "country": "italy",
+        "x": "8961.45",
+        "y": "55.0078",
+        "z": "71177.8"
+    },
+    {
+        "gameName": "parma",
+        "realName": "Parma",
+        "country": "italy",
+        "x": "-2529.54",
+        "y": "87.207",
+        "z": "33610.7"
+    },
+    {
+        "gameName": "perugia",
+        "realName": "Perugia",
+        "country": "italy",
+        "x": "5484.8",
+        "y": "105.074",
+        "z": "42625.8"
+    },
+    {
+        "gameName": "pescara",
+        "realName": "Pescara",
+        "country": "italy",
+        "x": "12380.7",
+        "y": "79.8594",
+        "z": "47439"
+    },
+    {
+        "gameName": "pisa",
+        "realName": "Pisa",
+        "country": "italy",
+        "x": "-2296.73",
+        "y": "78.5117",
+        "z": "39358.6"
+    },
+    {
+        "gameName": "potenza",
+        "realName": "Potenza",
+        "country": "italy",
+        "x": "19793.2",
+        "y": "134.652",
+        "z": "57224.2"
+    },
+    {
+        "gameName": "ravenna",
+        "realName": "Ravenna",
+        "country": "italy",
+        "x": "5416.85",
+        "y": "67.3828",
+        "z": "35514.5"
+    },
+    {
+        "gameName": "reggio",
+        "realName": "Reggio",
+        "country": "italy",
+        "x": "20164.5",
+        "y": "69.6055",
+        "z": "72275.1"
+    },
+    {
+        "gameName": "roma",
+        "realName": "Roma",
+        "country": "italy",
+        "x": "5853.76",
+        "y": "65",
+        "z": "49761.7"
+    },
+    {
+        "gameName": "siena",
+        "realName": "Siena",
+        "country": "italy",
+        "x": "1194.18",
+        "y": "150",
+        "z": "41722.3"
+    },
+    {
+        "gameName": "taranto",
+        "realName": "Taranto",
+        "country": "italy",
+        "x": "25414.4",
+        "y": "69.5391",
+        "z": "58739.8"
+    }
+];
+
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
+cities = cities.concat(cities_italy_map); //Italy Map
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
