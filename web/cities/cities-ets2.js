@@ -701,6 +701,9 @@ var city_properties = {
     "oulu": {
         relative_radius: 0.7,
     },
+    "pamplona": {
+        relative_radius: 0.8,
+    },
     "panevezys": {
         relative_radius: 1.15,
     },
@@ -855,6 +858,9 @@ var city_properties = {
         relative_radius: 0.8,
     },
     "udine": {
+        relative_radius: 0.4,
+    },
+    "uelzen": {
         relative_radius: 0.4,
     },
     "umea": {
@@ -5623,6 +5629,22 @@ var cities_wip = [
         "x": "40732.64",
         "y": "34.43",
         "z": "-109981.67"
+    },
+    {
+        "gameName": "uelzen",
+        "realName": "Uelzen",
+        "country": "germany-ndr",
+        "x": "3140",
+        "y": "20",
+        "z": "-12273"
+    },
+    {
+        "gameName": "uelzen",
+        "realName": "Uelzen",
+        "country": "germany",
+        "x": "3140",
+        "y": "20",
+        "z": "-12273"
     },
     {
         "gameName": "utsjoki",
