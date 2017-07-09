@@ -5481,6 +5481,14 @@ var cities_wip = [
         "z": "-62862.78"
     },
     {
+        "gameName": "pamplona",
+        "realName": "Pamplona",
+        "country": "spain",
+        "x": "-52500",
+        "y": "10",
+        "z": "38339"
+    },
+    {
         "gameName": "rijeka",
         "realName": "Rijeka",
         "country": "croatia",
