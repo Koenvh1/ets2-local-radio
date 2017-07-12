@@ -6,11 +6,6 @@ var stations = {
             logo: "stations/images-europe/aland/Steel FM.jpg",
             url: "http://ice6.securenetsystems.net/STEELFM?playSessionID=F8DB637D-A3F9-8829-BBF2043C7F009883"
         },
-        {
-            name: "YLE Radio Vega",
-            logo: "stations/images-europe/aland/YLE Radio Vega.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8"
-        },
     ],
     "andorra": [
         {
@@ -686,6 +681,11 @@ var stations = {
             name: "YLE Radio Suomi",
             logo: "stations/images-europe/finland/YLE Radio Suomi.png",
             url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/master.m3u8"
+        },
+        {
+            name: "YLE Vega",
+            logo: "stations/images-europe/finland/YLE Vega.png",
+            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8"
         },
         {
             name: "YleX",
