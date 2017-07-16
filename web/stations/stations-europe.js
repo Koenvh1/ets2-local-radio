@@ -2,6 +2,11 @@
 var stations = {
     "aland": [
         {
+            name: "Ålands Radio",
+            logo: "stations/images-europe/aland/Ålands Radio.png",
+            url: "http://194.110.182.131:8000/stream.ogg"
+        },
+        {
             name: "Steel FM",
             logo: "stations/images-europe/aland/Steel FM.jpg",
             url: "http://ice6.securenetsystems.net/STEELFM?playSessionID=F8DB637D-A3F9-8829-BBF2043C7F009883"
