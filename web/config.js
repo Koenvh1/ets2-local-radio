@@ -12,7 +12,7 @@ var g_skinConfig = {
     "radius": 7500,                         //What the base radius (broadcasting range) for all cities is in meters.
     "treshold": {                           //How much closer you need to be to a different country to switch to that country (in meters)
         "ets2": 300,
-        "ats": 3500
+        "ats": 4000
     },
     "whitenoise": true,                     //Whether to play static when a station is far away
     "transition-whitenoise": true,          //Whether to play static when changing stations
