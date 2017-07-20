@@ -6,24 +6,61 @@ var stations = {
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KVPRFM"
         },
         {
+            name: "99.7 Classic Rock",
+            logo: "stations/images-america/bakersfield/99.7 Classic Rock.png",
+            url: "http://icy3.abacast.com/momentum-kioofmaac-48?type=.mp3&source=v6player&user-id=3536d8e7d93bf127af76b06959807a02&session-id=3536d8e7d93bf127af76b06959807a02-6e6669366d347275346431316b733035"
+        },
+        {
             name: "103.9 The Beat",
             logo: "stations/images-america/bakersfield/103.9 The Beat.png",
             url: "http://ice10.securenetsystems.net/KBDS"
         },
         {
+            name: "Campesina",
+            logo: "stations/images-america/bakersfield/Campesina.jpg",
+            url: "http://ice41.securenetsystems.net:80/NETCAMP"
+        },
+        {
+            name: "Family Radio West Coast",
+            logo: "stations/images-america/bakersfield/Family Radio West Coast.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
+        },
+        /*
+        {
             name: "Hot 94.1FM",
             logo: "stations/images-america/bakersfield/Hot 94.1FM.jpg",
             url: "http://icy1.abacast.com/agmedia28-kisvfmaac-48?source=tunein"
         },
+        */
+        {
+            name: "KAXL",
+            logo: "stations/images-america/bakersfield/KAXL.png",
+            url: "http://50.22.253.45:80/kaxl-fm"
+        },
         {
             name: "KPSL-FM",
             logo: "stations/images-america/bakersfield/KPSL-FM.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KPSLFM"
+            url: "http://ice24.securenetsystems.net/KPSL"
         },
         {
             name: "Radio Bilingue",
             logo: "stations/images-america/bakersfield/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
+        },
+        {
+            name: "Radio Nueva Vida",
+            logo: "stations/images-america/bakersfield/Radio Nueva Vida.png",
+            url: "http://ic1.christiannetcast.com/nuevavida"
+        },
+        {
+            name: "Radio Punjab",
+            logo: "stations/images-america/bakersfield/Radio Punjab.png",
+            url: "http://198.178.121.76:8065/stream"
+        },
+        {
+            name: "The Bull 97.3",
+            logo: "stations/images-america/bakersfield/The Bull 97.3.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KRJKAAC"
         },
     ],
     "barstow": [
@@ -234,6 +271,11 @@ var stations = {
             logo: "stations/images-america/flagstaff/Rewind.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KFLXFMAAC"
         },
+        {
+            name: "The Wolf 96.7 FM",
+            logo: "stations/images-america/flagstaff/The Wolf 96.7 FM.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KWMXFM"
+        },
     ],
     "fresno": [
         {
@@ -281,6 +323,11 @@ var stations = {
             name: "KZUA",
             logo: "stations/images-america/holbrook/KZUA.png",
             url: "http://ice9.securenetsystems.net:80/KZUA"
+        },
+        {
+            name: "Rewind 108",
+            logo: "stations/images-america/holbrook/Rewind 108.png",
+            url: "http://69.64.67.188:8192/KVSL-64"
         },
     ],
     "hornbrook": [
@@ -612,7 +659,7 @@ var stations = {
     ],
     "sacramento": [
         {
-            name: "Sacramento Public Radio",
+            name: "Capital Public Radio",
             logo: "stations/images-america/sacramento/Capital Public Radio.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },
@@ -730,7 +777,7 @@ var stations = {
     ],
     "stockton": [
         {
-            name: "Sacramento Public Radio",
+            name: "Capital Public Radio",
             logo: "stations/images-america/stockton/Capital Public Radio.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },
@@ -769,7 +816,7 @@ var stations = {
             url: "http://108.178.13.122:8164/stream"
         },
         {
-            name: "Sacramento Public Radio",
+            name: "Capital Public Radio",
             logo: "stations/images-america/truckee/Capital Public Radio.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
         },

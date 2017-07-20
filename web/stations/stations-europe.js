@@ -206,9 +206,29 @@ var stations = {
             url: "http://mp3.streampower.be/mnm-high"
         },
         {
+            name: "Club FM",
+            logo: "stations/images-europe/belgium-nl/Club FM.png",
+            url: "http://www.clubfmserver.be:8000/clubfm.mp3"
+        },
+        {
             name: "Radio 2 Antwerpen",
             logo: "stations/images-europe/belgium-nl/Radio 2 Antwerpen.png",
             url: "http://mp3.streampower.be/ra2ant-high.mp3"
+        },
+        {
+            name: "Nostalgie (Vlaanderen)",
+            logo: "stations/images-europe/belgium-nl/Nostalgie.png",
+            url: "http://nostalgiewhatafeeling.ice.infomaniak.ch/nostalgiewhatafeeling-128.mp3"
+        },
+        {
+            name: "Family Radio",
+            logo: "stations/images-europe/belgium-nl/Family Radio.png",
+            url: "http://www.clubfmserver.be:8000/family.mp3"
+        },
+        {
+            name: "Q-Music (Vlaanderen)",
+            logo: "stations/images-europe/belgium-nl/Q-Music.svg",
+            url: "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_64.aac?rnd=3680314053584514"
         },
         {
             name: "Radio FG",
