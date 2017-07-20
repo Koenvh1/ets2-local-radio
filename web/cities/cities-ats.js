@@ -39,7 +39,7 @@ var country_properties = {
         name: "Elko",
         english_name: "Elko",
         code: "us-nv",
-        relative_radius: 1.2
+        relative_radius: 1.4
     },
     "ely": {
         name: "Ely",
@@ -255,7 +255,7 @@ var country_properties = {
         name: "Tonopah",
         english_name: "Tonopah",
         code: "us-nv",
-        relative_radius: 1.3
+        relative_radius: 1.4
     },
     "truckee": {
         name: "Truckee",

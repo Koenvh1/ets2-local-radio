@@ -404,6 +404,9 @@ var country_properties = {
 };
 
 var city_properties = {
+    "aberdeen": {
+        relative_radius: 1.4,
+    },
     "andorra": {
         relative_whitenoise: 1.1,
     },
