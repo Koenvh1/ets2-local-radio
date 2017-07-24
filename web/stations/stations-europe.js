@@ -1526,12 +1526,12 @@ var stations = {
         {
             name: "3FM",
             logo: "stations/images-europe/iom/3FM.jpg",
-            url: "http://icy-e-03-boh.sharp-stream.com/3fmhigh.mp3"
+            url: "http://tx.sharp-stream.com/icecast.php?i=3fmhigh.mp3"
         },
         {
             name: "Manx Radio",
             logo: "stations/images-europe/iom/Manx Radio.png",
-            url: "http://icy-e-03-boh.sharp-stream.com/manxradiofm.mp3"
+            url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
         },
     ],
     "ireland": [
@@ -2562,7 +2562,7 @@ var stations = {
         {
             name: "Cadena 100",
             logo: "stations/images-europe/spain/Cadena 100.png",
-            url: "http://195.10.10.222/cope/cadena100.mp3"
+            url: "http://cadena100.cope.stream.flumotion.com/cope/cadena100/playlist.m3u8"
         },
         {
             name: "Cadena Dial",
