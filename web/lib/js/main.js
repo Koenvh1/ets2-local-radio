@@ -163,13 +163,15 @@ function initialise() {
             localStorage.setItem("volume", g_volume);
         }
     });
-    
+
+    /*
     $("#player").on("error", function (e) {
         if($("#player").attr("src") != "about:blank") {
             $("#player").attr("src", "lib/audio/station_error.mp3");
             console.log(e);
         }
     });
+    */
 }
 
 function refresh(data) {
