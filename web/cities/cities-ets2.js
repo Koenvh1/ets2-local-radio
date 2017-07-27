@@ -5546,6 +5546,14 @@ var cities_wip = [
         "z": "-80009"
     },
     {
+        "gameName": "skopje",
+        "realName": "Скопје (Skopje)",
+        "country": "macedonia",
+        "x": "42677",
+        "y": "33",
+        "z": "48079"
+    },
+    {
         "gameName": "slavonski_brod",
         "realName": "Slavonski Brod",
         "country": "croatia",
