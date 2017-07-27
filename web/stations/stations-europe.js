@@ -2077,7 +2077,7 @@ var stations = {
         {
             name: "Q Radio",
             logo: "stations/images-europe/nireland/Q Radio.png",
-            url: "http://icy-e-03-boh.sharp-stream.com/qr967.mp3"
+            url: "http://tx.sharp-stream.com/http_live.php?i=qr967.mp3&device=rpweb"
         },
     ],
     "norway": [
