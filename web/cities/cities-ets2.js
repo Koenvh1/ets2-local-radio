@@ -237,7 +237,7 @@ var country_properties = {
         name: "Қазақстан",
         name_english: "Kazakhstan",
         code: "kz",
-        relative_radius: 1,
+        relative_radius: 1.3,
     },
     "latvia": {
         name: "Latvija",
@@ -573,6 +573,9 @@ var city_properties = {
     "holyhead": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85,
+    },
+    "inderborsky": {
+        relative_radius: 1.5,
     },
     "irun": {
         relative_radius: 0.6,
@@ -5666,6 +5669,14 @@ var cities_wip = [
         "z": "-108070.61"
     },
     {
+        "gameName": "valencia",
+        "realName": "Valencia",
+        "country": "spain",
+        "x": "-50738",
+        "y": "2",
+        "z": "59064"
+    },
+    {
         "gameName": "verkhnetulom",
         "realName": "Верхнетуломский (Verkhnetulomsky)",
         "country": "russia",
@@ -5704,6 +5715,14 @@ var cities_wip = [
         "x": "-9910.27",
         "y": "40",
         "z": "2026.05"
+    },
+    {
+        "gameName": "zadar",
+        "realName": "Zadar",
+        "country": "croatia",
+        "x": "16551",
+        "y": "7",
+        "z": "37663"
     },
     {
         "gameName": "zagreb",
@@ -6171,6 +6190,65 @@ var cities_open_spaces = [
         "x": "116731",
         "y": "122.516",
         "z": "-100634"
+    }
+];
+
+var cities_kz = [
+    {
+        "gameName": "atyrau",
+        "realName": "Atyrau",
+        "country": "kazakhstan",
+        "x": "161288",
+        "y": "40.3789",
+        "z": "-759.516"
+    },
+    {
+        "gameName": "dossor",
+        "realName": "Dossor",
+        "country": "kazakhstan",
+        "x": "166625",
+        "y": "38.3477",
+        "z": "-2713.12"
+    },
+    {
+        "gameName": "ershov",
+        "realName": "Ershov",
+        "country": "russia",
+        "x": "147589",
+        "y": "73.0313",
+        "z": "-25388.9"
+    },
+    {
+        "gameName": "inderborsky",
+        "realName": "Inderborsky",
+        "country": "kazakhstan",
+        "x": "161991",
+        "y": "41.9648",
+        "z": "-9071.86"
+    },
+    {
+        "gameName": "kulsari",
+        "realName": "Kulsari",
+        "country": "kazakhstan",
+        "x": "171634",
+        "y": "33.9063",
+        "z": "359.633"
+    },
+    {
+        "gameName": "makat",
+        "realName": "Makat",
+        "country": "kazakhstan",
+        "x": "168706",
+        "y": "41.5234",
+        "z": "-3459.58"
+    },
+    {
+        "gameName": "uralsk",
+        "realName": "Uralsk",
+        "country": "kazakhstan",
+        "x": "158495",
+        "y": "63.8086",
+        "z": "-24950.6"
     }
 ];
 
@@ -7034,6 +7112,7 @@ cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_italy_map); //Italy Map
+cities = cities.concat(cities_kz); //Italy Map
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
