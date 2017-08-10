@@ -61,7 +61,7 @@
     <StartupObject>ETS2_Local_Radio_server.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <ApplicationIcon>Partial_logo.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
@@ -155,6 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon.ico" />
+    <Content Include="Partial_logo.ico" />
     <None Include="Resources\overlay_double.png" />
     <None Include="Resources\check.png" />
     <None Include="Resources\5.png" />

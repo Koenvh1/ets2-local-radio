@@ -71,12 +71,12 @@
             this.joystickTimer = new System.Windows.Forms.Timer(this.components);
             this.currentGameTimer = new System.Windows.Forms.Timer(this.components);
             this.groupInstall = new System.Windows.Forms.GroupBox();
+            this.removePluginButton = new System.Windows.Forms.LinkLabel();
             this.installEts2Button = new System.Windows.Forms.Button();
             this.installAtsButton = new System.Windows.Forms.Button();
             this.Koenvh = new System.Windows.Forms.PictureBox();
             this.groupController = new System.Windows.Forms.GroupBox();
             this.comboController = new System.Windows.Forms.ComboBox();
-            this.removePluginButton = new System.Windows.Forms.LinkLabel();
             this.groupSettings.SuspendLayout();
             this.groupInfo.SuspendLayout();
             this.groupInstall.SuspendLayout();
@@ -521,6 +521,17 @@
             this.groupInstall.TabStop = false;
             this.groupInstall.Text = "Install plugin";
             // 
+            // removePluginButton
+            // 
+            this.removePluginButton.AutoSize = true;
+            this.removePluginButton.Location = new System.Drawing.Point(10, 72);
+            this.removePluginButton.Name = "removePluginButton";
+            this.removePluginButton.Size = new System.Drawing.Size(84, 13);
+            this.removePluginButton.TabIndex = 2;
+            this.removePluginButton.TabStop = true;
+            this.removePluginButton.Text = "Remove plugin";
+            this.removePluginButton.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.removePluginButton_LinkClicked);
+            // 
             // installEts2Button
             // 
             this.installEts2Button.Font = new System.Drawing.Font("Segoe UI", 8.25F);
@@ -581,17 +592,6 @@
             this.comboController.TabIndex = 11;
             this.comboController.SelectedIndexChanged += new System.EventHandler(this.comboController_SelectedIndexChanged);
             // 
-            // removePluginButton
-            // 
-            this.removePluginButton.AutoSize = true;
-            this.removePluginButton.Location = new System.Drawing.Point(10, 72);
-            this.removePluginButton.Name = "removePluginButton";
-            this.removePluginButton.Size = new System.Drawing.Size(84, 13);
-            this.removePluginButton.TabIndex = 2;
-            this.removePluginButton.TabStop = true;
-            this.removePluginButton.Text = "Remove plugin";
-            this.removePluginButton.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.removePluginButton_LinkClicked);
-            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -607,7 +607,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "Main";
-            this.Text = "ETS2 Local Radio server";
+            this.Text = "ETS2/ATS Local Radio server";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
             this.Load += new System.EventHandler(this.Main_Load);
             this.groupSettings.ResumeLayout(false);

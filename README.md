@@ -1,4 +1,4 @@
-# ETS2/ATS Local Radio
+![Logo](http://i.imgur.com/1CToXfs.png)
 
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
