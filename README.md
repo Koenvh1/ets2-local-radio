@@ -11,7 +11,7 @@ However, you can add those yourself if you so desire.
 
 **Supported maps:**
 
-ETS2: Default, Going East, Scandinavia, France, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces* and Italy Map.
+ETS2: Default, Going East, Scandinavia, France, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.
 \*Disabled by default
 
 ATS: California, Nevada, Arizona.
