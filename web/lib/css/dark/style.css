@@ -10,23 +10,7 @@ body {
     background-color: #212121;
 }
 
-.game-connected.yes .statusMessage {
-    display: none;
-}
-
-.remote {
-    display: none;
-}
-
-.update {
-    display: none;
-}
-
-.unsupported-browser {
-    display: none;
-}
-
-.microsoft-edge {
+.remote, .unsupported-browser, .update, .microsoft-edge {
     display: none;
 }
 
@@ -67,10 +51,6 @@ body {
     text-overflow: ellipsis;
 }
 
-.navbar {
-    /*box-shadow: 0 8px 6px -6px #999;*/
-}
-
 .thumbnail {
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1), 0 0 10px 0 rgba(0, 0, 0, 0.09);
     text-align: center;
@@ -88,9 +68,9 @@ body {
     color: #eeeeee;
 }
 
-.thumbnail-error {
-    background-color: rgb(46, 187, 30);
-    color: #ffffff;
+.frame {
+    padding: 9px;
+    border-radius: 2px;
 }
 
 .input-nav {
@@ -124,7 +104,7 @@ body {
 
 .play-button {
     background-color: rgba(0, 0, 0, 0.6);
-    background-image: url('../img/play-button.png');
+    background-image: url('../../img/play-button.png');
     background-size: 50% auto;
     background-repeat: no-repeat;
     background-position: center;

@@ -57,9 +57,10 @@ function receiveCommand(data) {
         g_current_url = response.url;
         g_current_country = response.country;
         refreshStations();
+        togglePlayVisual(true);
     }
     if(response.type == "togglePlay"){
-        togglePlay();
+        togglePlay(true);
     }
 }
 
@@ -76,10 +77,13 @@ function connect(peerID) {
         conn.send(JSON.stringify({
             type: "connect"
         }));
-        $("#player").attr("src", "about:blank");
-        $("#whitenoise").attr("src", "about:blank");
         console.log("Successfully connected");
         controlRemote = true;
+        setTimeout(function () {
+            $("#player").attr("src", "about:blank");
+            $("#whitenoise").attr("src", "about:blank");
+            $("#switchStation").attr("src", "about:blank");
+        }, 1000);
         connectedPeerID = peerID;
         conn.on('data', function (data) {
             receiveCommand(data);

@@ -91,21 +91,12 @@ function initialise() {
                     }
                     if (data.action == "next") {
                         nextStation(parseInt(data.amount));
-                        scrollToStation();
                     }
                     if (data.action == "volume") {
-                        $("#volumeControl").val(parseInt($("#volumeControl").val()) + ((parseInt($("#volumeControl").val()) / 50)  + 0.1) * parseInt(data.amount));
-                        g_volume = parseInt($("#volumeControl").val()) / 100;
+                        volumeChange(data.amount);
                     }
                     if (data.action == "favourite") {
-                        if(g_current_country != null) {
-                            var index = stations[g_current_country].map(function (e) {
-                                return e.url;
-                            }).indexOf(g_current_url);
-                            if(index != -1) {
-                                setFavouriteStation(g_current_country, stations[g_current_country][index].name);
-                            }
-                        }
+                        setCurrentAsFavourite();
                     }
                     if (data.action == "goToFavourite") {
                         if(g_favourites[g_current_country] != "" && g_current_country != null) {
@@ -140,7 +131,6 @@ function initialise() {
                             }
                             if(index < 0) index = 0;
                             setRadioStation(stations[chosen_country][index]["url"], chosen_country, g_countries[chosen_country]["whitenoise"]);
-                            scrollToStation();
                         }
                     }
                 }
@@ -149,19 +139,7 @@ function initialise() {
     }, 250);
 
     $('#volumeControl').on("change mousemove", function () {
-        if (controlRemote) {
-            if (!conn.open) {
-                //If connection closed, reconnect
-                conn = peer.connect(connectedPeerID);
-            }
-            conn.send(JSON.stringify({
-                type: "volume",
-                volume: parseInt($("#volumeControl").val()) / 100
-            }));
-        } else {
-            g_volume = parseInt($("#volumeControl").val()) / 100;
-            localStorage.setItem("volume", g_volume);
-        }
+        updateVolume();
     });
 
     /*
@@ -172,6 +150,14 @@ function initialise() {
         }
     });
     */
+    $(document).ready(function () {
+        setTimeout(function () {
+            var hash = parseInt(location.hash.substring(1));
+            if(hash >= 10000 && hash <= 99999) {
+                connect(hash);
+            }
+        }, 5000);
+    });
 }
 
 function refresh(data) {
@@ -261,9 +247,9 @@ function refresh(data) {
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
         if (!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.treshold[g_game] < available_countries[g_current_country]["distance"] &&
+            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["distance"] &&
             g_last_nearest_country != country_lowest_distance)) {
-            //If current station country is not close enough OR (the distance + treshold is larger than the new country's distance and the last station wasn't set manually.
+            //If current station country is not close enough OR (the distance + threshold is larger than the new country's distance and the last station wasn't set manually.
             g_last_nearest_country = country_lowest_distance;
 
 
@@ -372,18 +358,18 @@ function setRadioStation(url, country, volume) {
         setWhitenoise(volume);
     }
     refreshStations();
-    var index = stations[country].map(function (e) {
-        return e.url;
-    }).indexOf(url);
+    scrollToStation();
 
-    $(".current-station").html(stations[country][index].name);
-    $(".current-station-image").attr("src", stations[country][index].logo);
+    togglePlayVisual(true);
 
     document.getElementById('player').play();
     document.getElementById('whitenoise').play();
-    $("#stopPlayback").attr("src", "lib/img/stop-button.png");
 
-    $.get("station/" + encodeURIComponent(stations[country][index].name) + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
+    var index = stations[g_current_country].map(function (e) {
+        return e.url;
+    }).indexOf(g_current_url);
+
+    $.get("/station/" + encodeURIComponent(stations[country][index].name) + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -424,9 +410,14 @@ function setFavouriteStation(country, name) {
             country: country,
             name: name
         }));
+        setTimeout(function () {
+            refreshFavourites(function () {
+                refreshStations();
+            });
+        }, 500);
     } else {
         $.get("/favourite/" + country + "/" + encodeURIComponent(name), function(){
-            $("#snackbar").html(country_properties[country].name + " <span class='glyphicon glyphicon-heart'></span>  " + name).addClass("show");
+            $("#snackbar").html(country_properties[country].name + " <i class='fa fa-heart'></i>  " + name).addClass("show");
             setTimeout(function () {
                 $("#snackbar").removeClass("show");
             }, 3000);
@@ -439,20 +430,33 @@ function setFavouriteStation(country, name) {
     }
 }
 
-function togglePlay() {
-    if(controlRemote){
-        if(!conn.open){
-            //If connection closed, reconnect
-            conn = peer.connect(connectedPeerID);
+function setCurrentAsFavourite() {
+    if(g_current_country != null) {
+        var index = stations[g_current_country].map(function (e) {
+            return e.url;
+        }).indexOf(g_current_url);
+        if(index != -1) {
+            setFavouriteStation(g_current_country, stations[g_current_country][index].name);
         }
-        conn.send(JSON.stringify({
-            type: "togglePlay"
-        }));
+    }
+}
 
+function togglePlay(fromRemote) {
+    if(typeof fromRemote === "undefined") fromRemote = false;
+    if(controlRemote){
+        if(!fromRemote) {
+            if (!conn.open) {
+                //If connection closed, reconnect
+                conn = peer.connect(connectedPeerID);
+            }
+            conn.send(JSON.stringify({
+                type: "togglePlay"
+            }));
+        }
         if($("#stopPlayback").attr("src") == "lib/img/stop-button.png"){
-            $("#stopPlayback").attr("src", "lib/img/play-button2.png");
+            togglePlayVisual(false);
         } else {
-            $("#stopPlayback").attr("src", "lib/img/stop-button.png");
+            togglePlayVisual(true);
         }
     } else {
         if (document.getElementById('player').paused) {
@@ -461,12 +465,27 @@ function togglePlay() {
             document.getElementById('player').src = src;
             document.getElementById('player').play();
             document.getElementById('whitenoise').play();
-            $("#stopPlayback").attr("src", "lib/img/stop-button.png");
+            togglePlayVisual(true);
         } else {
             document.getElementById('player').pause();
             document.getElementById('whitenoise').pause();
-            $("#stopPlayback").attr("src", "lib/img/play-button2.png");
+            togglePlayVisual(false);
         }
+        if(!fromRemote && conn !== null && conn.open) {
+            conn.send(JSON.stringify({
+                type: "togglePlay"
+            }));
+        }
+    }
+}
+
+function togglePlayVisual(showPause) {
+    if(showPause){
+        $("#stopPlayback").attr("src", "lib/img/stop-button.png");
+        $("#stopPlaybackMobile").removeClass("fa-play").addClass("fa-pause");
+    } else {
+        $("#stopPlayback").attr("src", "lib/img/play-button2.png");
+        $("#stopPlaybackMobile").removeClass("fa-pause").addClass("fa-play");
     }
 }
 
@@ -491,6 +510,27 @@ function nextStation(amount) {
         }
     } catch (ex) {
         console.log(ex);
+    }
+}
+
+function volumeChange(amount) {
+    $("#volumeControl").val(parseInt($("#volumeControl").val()) + ((parseInt($("#volumeControl").val()) / 50)  + 0.1) * parseInt(amount));
+    g_volume = parseInt($("#volumeControl").val()) / 100;
+}
+
+function updateVolume() {
+    if (controlRemote) {
+        if (!conn.open) {
+            //If connection closed, reconnect
+            conn = peer.connect(connectedPeerID);
+        }
+        conn.send(JSON.stringify({
+            type: "volume",
+            volume: parseInt($("#volumeControl").val()) / 100
+        }));
+    } else {
+        g_volume = parseInt($("#volumeControl").val()) / 100;
+        localStorage.setItem("volume", g_volume);
     }
 }
 
@@ -556,15 +596,15 @@ function refreshStations() {
                 var reception = calculateReception(g_countries[key]["whitenoise"]);
 
                 content +=
-                    '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 thumb">' +
+                    '<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6">' +
                     '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-selected" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
-                    '<div class="well-sm text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
+                    '<div class="frame text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
-                    '<span class="overflow">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) + ' ' +
-                    (typeof country_properties[key].code !== "undefined" ? "<img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") +
-                    '<img src="lib/img/signal/' + reception + '.png" class="signal"></span>' +
+                    '<span class="overflow">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) + '</span>' +
+                    (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") +
+                    '<img src="lib/img/signal/' + reception + '.png" class="signal">' +
                     '</div>' +
                     '<div class="play-button"></div>' +
                     '</div>' +
@@ -575,6 +615,19 @@ function refreshStations() {
         }
     }
     $("#stationsList").html(content);
+    var index = stations[g_current_country].map(function (e) {
+        return e.url;
+    }).indexOf(g_current_url);
+
+    $(".current-station").html(stations[g_current_country][index].name);
+    $(".current-station-image").attr("src", stations[g_current_country][index].logo);
+    $(".current-station-country").html(country_properties[g_current_country].name);
+    $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
+    if(g_favourites[g_current_country] == stations[g_current_country][index].name) {
+        $(".music-controller-favourite > button").css("color", "#f65454");
+    } else {
+        $(".music-controller-favourite > button").css("color", "#ffffff");
+    }
     g_stations = available_stations;
 }
 

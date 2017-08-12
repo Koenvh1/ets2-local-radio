@@ -1,0 +1,68 @@
+.music-controller {
+    background: #3e3f3a;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    height: calc(100vh - 60px);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    box-shadow: 0 -5px 5px -5px rgba(0, 0, 0, 0.3);
+    padding-top: 7px;
+}
+
+.music-controller-favourite {
+    margin-left: 10px;
+}
+
+.music-controller-minimise {
+    margin-right: 10px;
+}
+
+.music-controller-station {
+    position: absolute;
+    left: 50%;
+    top: calc(50% - 30px);
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 95%;
+    max-height: calc(100vh - 140px);
+}
+
+@media only screen and (orientation: landscape) {
+    .music-controller-station > div {
+        width: 45%;
+        display: inline-block;
+        vertical-align: middle;
+    }
+}
+
+.music-controller-station > .station-image-container {
+    height: 200px;
+    max-height: calc(100vh - 150px);
+}
+
+.music-controller-station > .station-image-container > img {
+    max-height: 200px;
+}
+
+.music-controller-controls {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    bottom: 5px;
+    pointer-events: none;
+}
+
+.music-controller-btn {
+    font-size: 25px;
+    width: 70px;
+    height: 70px;
+    pointer-events: auto;
+}
+
+.music-controller-volume {
+    font-size: 13px;
+    width: 45px;
+    height: 45px;
+}

@@ -2,9 +2,9 @@
 
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
+You can switch using the web interface, your keyboard, your controller and your mobile phone.
 
-
-ETS2 Local Radio contains over 500 radio stations that you could realistically listen to if you were driving in that actual country.
+ATS/ETS2 Local Radio contains over 600 radio stations that you could realistically listen to if you were driving in that actual country.
 Most national radio stations are included; see the full list at the bottom of this page. 
 It does not include radio stations that you would not be able to receive over FM or DAB in that country, like TruckersFM.
 However, you can add those yourself if you so desire.
@@ -23,11 +23,11 @@ Not available in yours? [Translate it](https://github.com/Koenvh1/ets2-local-rad
 
 ## How to install it:
 
-1. Download ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
+1. Download ATS/ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
 2. Extract it wherever you like
 3. Execute ETS2 Local Radio server.exe
 4. Click the "Install plugin for Euro Truck Simulator/American Truck Simulator" button.
-5. Open ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
+5. Open ATS/ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
 
 Additionally, you may want to look at the `web/config.js` file and set some additional settings to make the make your experience even better.
 Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game as well.
@@ -37,83 +37,9 @@ Make a station favourite to always switch to that station when entering the coun
 ## Reporting an issue:
 Found a station that does not work, a wrong (or incomplete) translation or something else? 
 Please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum.
-Suggestions are welcome as well of course.
+Suggestions are welcome as well of course. 
 
-## Troubleshooting:
-_The game crashes on exit!_
-
-This is caused by the d3d9.dll file, used to display the overlay.
-It can be fixed by either removing this file (which will disable the overlay), 
-or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
-[https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll](https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll)
-([Direct link](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_d3d9.dll/d3d9.dll))
-
-Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
-
-_Can't access it from another device_
-
-Please make sure your firewall is not blocking the connection. 
-If you use a different firewall that Windows Firewall, then please allow incoming connections on port 8330.
-You can test whether the firewall is the issue by going to [http://localhost:8330](http://localhost:8330), 
-if that works, it is most likely a firewall issue. 
-Add ETS2 Local Radio server and/or incoming port 8330 (TCP) to the exceptions list (consult your firewall's manual how to do that),
-or just use [http://localhost:8330](http://localhost:8330).
-
-If it does not work on localhost either, then please try changing the default port in the `settings.json` file.
-
-_It says the simulator is not running even though it is!_
-
-This might be due to the fact that a dependency was not loaded properly.
-Please try the following:
-* Restart the game
-* Open the `My Documents\{American Truck Simulator/Euro Truck Simulator 2}\game.log.txt` file,
-check whether it contains the following lines:
-```
-00:00:18.261 : loading 'ets2-telemetry' '/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
-00:00:18.262 : unable to load: 0000007E
-```
-* If that is the case, then please try installing the following:
-https://www.microsoft.com/en-gb/download/details.aspx?id=48145 (or from https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/visual_c%2B%2B_redistributable)
-and **restart your computer**
-* If it contains something like this:
-```
-00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
-[...]
-00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
-00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: SCS_U32_NIL is not valid parameter for array channel 'truck.hshifter.select'
-00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: channel 'truck.electric.enabled' index 4294967295 has already callback for type 1
-00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.front' index 4294967295
-00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.roof' index 4294967295
-00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
-```
-* Please check whether your volume slider is above 0%
-* Check whether a different browser (Firefox/Edge) does work
-* Try playing another station
-* If it does not contain `loading 'ets2-telemetry'`, 
-then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
-`\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
-
-_The game crashes when changing the graphics settings_
-
-Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
-
-_The editor will not load with the overlay installed_
-
-There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
-
-_Somethings else does not work!_
-
-Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
-If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
-
-## How to uninstall it:
-
-Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
-You will need to manually remove the following files from the ETS2/ATS installation directory as well:
-* `\bin\win_x64\d3d9.dll` 
-* `\bin\win_x64\plugins\ets2-telemetry.dll`
-* `\bin\win_x86\d3d9.dll`
-* `\bin\win_x86\plugins\ets2-telemetry.dll`
+Make sure to read the troubleshoot section beforehand!
 
 ## General information:
 
@@ -121,13 +47,23 @@ You will need to manually remove the following files from the ETS2/ATS installat
 
 Every city acts as a transmission tower with a certain range, and every city is bound to a country. 
 The program check the distance to every city, and when it is within reach, the stations for that country are displayed.
-When a city from a different country is closer than the one currently connected to (with a treshold), the radio automatically switches to that country.
+When a city from a different country is closer than the one currently connected to (with a threshold), the radio automatically switches to that country.
 
 ### What does that coverage map show?
 
 It shows all the transmission towers (the cities), with a range circle. 
 The black inner ring is the clear audio border (~20% static).
 Each country has its own (random) colour, to make it easier to see the difference between them.
+
+### What is the PeerID and what does it do? / Can I use my phone/tablet to control the radio?
+
+The PeerID is an ID that identifies that instance of ATS/ETS2 Local Radio. 
+It allows you to control Local Radio from another device, like a phone or tablet.
+Simply go to the URL shown in the server on your phone or tablet, click "Connect to another device", 
+enter your computer's PeerID and you're ready to go.
+All input on your second device will be redirected to your computer.
+
+You can also use the app: https://play.google.com/store/apps/details?id=nl.koenvh.localradio
 
 ### What is a favourite?
 
@@ -199,6 +135,87 @@ Over time stations will probably fix their playback for Chrome and Opera, but I 
 * _Update 2017-04-24: It seems like most stations have fixed their playback for Chrome and Opera now._ 
 * _Update 2017-06-26: Actually, Chrome and Opera made an exception for ShoutCast. Still works though._
 
+## Troubleshooting:
+_The game crashes on exit!_
+
+This is caused by the d3d9.dll file, used to display the overlay.
+It can be fixed by either removing this file (which will disable the overlay), 
+or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
+[https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll](https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll)
+([Direct link](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_d3d9.dll/d3d9.dll))
+
+Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
+
+_Can't access it from another device_
+
+Try restarting ATS/ETS2 Local Radio server.
+Please make sure your firewall is not blocking the connection. 
+If you use a different firewall that Windows Firewall, then please allow incoming connections on port 8330.
+You can test whether the firewall is the issue by going to [http://localhost:8330](http://localhost:8330), 
+if that works, it is most likely a firewall issue. 
+Add ATS/ETS2 Local Radio server and/or incoming port 8330 (TCP) to the exceptions list (consult your firewall's manual how to do that),
+or just use [http://localhost:8330](http://localhost:8330).
+
+If it does not work on localhost either, then please try changing the default port in the `settings.json` file.
+
+_Can't connect to my computer's PeerID_
+
+Try refreshing the webpage. Make sure you're using a modern web browser (preferably Firefox, Chrome or Opera) and your firewall does not block the connection.
+
+_It says the simulator is not running even though it is!_
+
+This might be due to the fact that a dependency was not loaded properly.
+Please try the following:
+* Restart the game
+* Open the `My Documents\{American Truck Simulator/Euro Truck Simulator 2}\game.log.txt` file,
+check whether it contains the following lines:
+```
+00:00:18.261 : loading 'ets2-telemetry' '/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
+00:00:18.262 : unable to load: 0000007E
+```
+* If that is the case, then please try installing the following:
+https://www.microsoft.com/en-gb/download/details.aspx?id=48145 (or from https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/visual_c%2B%2B_redistributable)
+and **restart your computer**
+* If it contains something like this:
+```
+00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
+[...]
+00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
+00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: SCS_U32_NIL is not valid parameter for array channel 'truck.hshifter.select'
+00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: channel 'truck.electric.enabled' index 4294967295 has already callback for type 1
+00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.front' index 4294967295
+00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.roof' index 4294967295
+00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
+```
+* Please check whether your volume slider is above 0%
+* Check whether a different browser (Firefox/Edge) does work
+* Try playing another station
+* If it does not contain `loading 'ets2-telemetry'`, 
+then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
+`\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
+
+_The game crashes when changing the graphics settings_
+
+Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
+
+_The editor will not load with the overlay installed_
+
+There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
+
+_Somethings else does not work!_
+
+Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
+If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
+
+## How to uninstall it:
+
+Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
+You will need to manually remove the following files from the ETS2/ATS installation directory as well:
+* `\bin\win_x64\d3d9.dll` 
+* `\bin\win_x64\plugins\ets2-telemetry.dll`
+* `\bin\win_x86\d3d9.dll`
+* `\bin\win_x86\plugins\ets2-telemetry.dll`
+
 ## Thanks to:
 
 I could not have possibly done this alone, so thanks to the following people:
@@ -222,10 +239,10 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _Another in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](https://i.imgur.com/UaA9h1t.png)
+![Screenshot](http://i.imgur.com/lrGysB7.png)
 
-_All available stations in ATS as of 1.12.0_
+_An example of the web interface near Dresden_
 
-![Screenshot](https://i.imgur.com/aV0kV9H.png)
+![Screenshot](http://i.imgur.com/E9h001F.jpg)
 
-_All available stations in ETS2 as of 1.11.0_
+_The interface on the mobile app/website_
