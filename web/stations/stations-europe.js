@@ -23,11 +23,13 @@ var stations = {
             logo: "stations/images-europe/andorra/AndorraDifusió.png",
             url: "https://cors-anywhere.herokuapp.com/http://194.158.80.31:443/live/am/playlist.m3u8"
         },
+        /*
         {
             name: "Catalunya Ràdio",
             logo: "stations/images-europe/andorra/Catalunya Ràdio.svg",
             url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catradio/chunklist.m3u8"
         },
+        */
     ],
     "armenia": [
         {
@@ -415,7 +417,7 @@ var stations = {
         {
             name: "Narodni radio",
             logo: "stations/images-europe/croatia/Narodni radio.svg",
-            url: "http://s7.iqstreaming.com:8034/live.ogg"
+            url: "http://s7.iqstreaming.com:9498/;"
         },
         {
             name: "Otvoreni radio",
@@ -1339,7 +1341,7 @@ var stations = {
         {
             name: "Die neue 107.7",
             logo: "stations/images-europe/germany-swr/Die neue 107.7.png",
-            url: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-dieneue_rock/livestream_hi.mp3"
+            url: "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3"
         },
         {
             name: "bigFM",
@@ -1901,7 +1903,7 @@ var stations = {
         {
             name: "Радио Канал 77",
             logo: "stations/images-europe/macedonia/Радио Канал 77.png",
-            url: "http://185.177.23.246:8000/live.mp3"
+            url: "http://92.55.71.42:8022/live.mp3"
         },
         {
             name: "Metropolis Radio",
@@ -2025,7 +2027,7 @@ var stations = {
         {
             name: "Radio 10",
             logo: "stations/images-europe/netherlands/Radio 10.png",
-            url: "http://stream.radio10.nl/radio10",
+            url: "http://538hls.lswcdn.triple-it.nl/content/radio10/index.m3u8",
         },
         {
             name: "Radio 538",
@@ -2235,11 +2237,13 @@ var stations = {
             logo: "stations/images-europe/poland/Radio VOX FM.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
         },
+        /*
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "http://waw02.ic1.scdn.smcloud.net/t050-1.aac"
+            url: "http://waw.ic.smcdn.pl/t050-1.aac?timestamp=" + Math.floor(Date.now() / 1000) + "&hash=5136cd98087d59a59addb22903c4cd18"
         },
+        */
         {
             name: "Radio Zet",
             logo: "stations/images-europe/poland/Radio Zet.svg",
@@ -2295,7 +2299,7 @@ var stations = {
         {
             name: "DigiFM",
             logo: "stations/images-europe/romania/DigiFM.svg",
-            url: "http://edge76.rdsnet.ro:84/digifm"
+            url: "http://edge76.rdsnet.ro:84/digifm/digifm.mp3"
         },
         {
             name: "Europa FM",

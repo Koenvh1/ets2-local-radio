@@ -103,7 +103,7 @@ var stations = {
         {
             name: "La Suavecita",
             logo: "stations/images-america/carlsbad/La Suavecita.png",
-            url: "http://icy1.abacast.com:80/entravision-kssefmaac-48"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSSEFMAAC"
         },
         {
             name: "KSDW",
@@ -327,7 +327,7 @@ var stations = {
         {
             name: "Rewind 108",
             logo: "stations/images-america/holbrook/Rewind 108.png",
-            url: "http://69.64.67.188:8192/KVSL-64"
+            url: "http://www.mountain411.com:8192/KVSL-128"
         },
     ],
     "hornbrook": [
@@ -460,7 +460,7 @@ var stations = {
         {
             name: "La Tricolor 105.1",
             logo: "stations/images-america/las_vegas/La Tricolor 105.1.png",
-            url: "http://65.19.131.145/entravision-kqrtfmmp3-ibc2?session-id=1542306926&source=v6player"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KQRTFM"
         },
         {
             name: "Las Vegas Public Radio",
@@ -652,9 +652,9 @@ var stations = {
             url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
         },
         {
-            name: "La Tricolor",
+            name: "La Tricolor 102.1",
             logo: "stations/images-america/reno/La Tricolor.png",
-            url: "http://65.19.131.145/entravision-krnvfmaac-ibc2?session-id=177939205e12a3660dfda9fa6974ff89-393566653531627367386b3131716b32&source=v6player&user-id=177939205e12a3660dfda9fa6974ff89"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KRNVFMAAC"
         },
     ],
     "sacramento": [
@@ -823,7 +823,7 @@ var stations = {
         {
             name: "Immaculate Heart Radio",
             logo: "stations/images-america/truckee/Immaculate Heart Radio.jpg",
-            url: "http://ic1.christiannetcast.com:8000/ksmh-am.mp3"
+            url: "http://relevantradio-ice.streamguys.us/ihr-mp3"
         },
     ],
     "tucson": [
