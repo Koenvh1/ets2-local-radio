@@ -378,6 +378,11 @@ var stations = {
             url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catmusica/playlist.m3u8"
         },
         {
+            name: "Flaix FM",
+            logo: "stations/images-europe/catalonia/Flaix FM.png",
+            url: "http://flaixfmweb.streaming-pro.com:8000/;"
+        },
+        {
             name: "RAC1",
             logo: "stations/images-europe/catalonia/RAC1.jpg",
             url: "http://rac1.radiocat.net/;*.nsv"
@@ -391,6 +396,11 @@ var stations = {
             name: "RàdioEstel",
             logo: "stations/images-europe/catalonia/RàdioEstel.png",
             url: "http://srv3021.lcinternet.com:8019/live"
+        },
+        {
+            name: "Ràdio Flaixbac",
+            logo: "stations/images-europe/catalonia/Ràdio Flaixbac.png",
+            url: "http://radiostream.radioflaixbac.cat:8004/;"
         },
     ],
     "croatia": [
