@@ -1,313 +1,313 @@
 var country_properties = {
     "bakersfield": {
         name: "Bakersfield",
-        english_name: "Bakersfield",
+        name_english: "Bakersfield",
         code: "us-ca",
         relative_radius: 1.2
     },
     "barstow": {
         name: "Barstow",
-        english_name: "Barstow",
+        name_english: "Barstow",
         code: "us-ca",
         relative_radius: 1.2
     },
     "camp_verde": {
         name: "Camp Verde",
-        english_name: "Camp Verde",
+        name_english: "Camp Verde",
         code: "us-az",
         relative_radius: 1.2
     },
     "carlsbad": {
         name: "Carlsbad",
-        english_name: "Carlsbad",
+        name_english: "Carlsbad",
         code: "us-ca",
         relative_radius: 1.2
     },
     "carson_city": {
         name: "Carson City",
-        english_name: "Carson City",
+        name_english: "Carson City",
         code: "us-nv",
         relative_radius: 1.2
     },
     "ehrenberg": {
         name: "Ehrenberg",
-        english_name: "Ehrenberg",
+        name_english: "Ehrenberg",
         code: "us-az",
         relative_radius: 1.2
     },
     "elko": {
         name: "Elko",
-        english_name: "Elko",
+        name_english: "Elko",
         code: "us-nv",
         relative_radius: 1.4
     },
     "ely": {
         name: "Ely",
-        english_name: "Ely",
+        name_english: "Ely",
         code: "us-nv",
         relative_radius: 1.2
     },
     "el_centro": {
         name: "El Centro",
-        english_name: "El Centro",
+        name_english: "El Centro",
         code: "us-ca",
         relative_radius: 1.2
     },
     "eureka": {
         name: "Eureka",
-        english_name: "Eureka",
+        name_english: "Eureka",
         code: "us-ca",
         relative_radius: 1.2
     },
     "flagstaff": {
         name: "Flagstaff",
-        english_name: "Flagstaff",
+        name_english: "Flagstaff",
         code: "us-az",
         relative_radius: 1.8
     },
     "fresno": {
         name: "Fresno",
-        english_name: "Fresno",
+        name_english: "Fresno",
         code: "us-ca",
         relative_radius: 1.2
     },
     "g_canyon_vlg": {
         name: "Grand Canyon Village",
-        english_name: "Grand Canyon Village",
+        name_english: "Grand Canyon Village",
         code: "us-az",
         relative_radius: 1.2
     },
     "holbrook": {
         name: "Holbrook",
-        english_name: "Holbrook",
+        name_english: "Holbrook",
         code: "us-az",
         relative_radius: 1.2
     },
     "hornbrook": {
         name: "Hornbrook",
-        english_name: "Hornbrook",
+        name_english: "Hornbrook",
         code: "us-ca",
         relative_radius: 1.2
     },
     "huron": {
         name: "Huron",
-        english_name: "Huron",
+        name_english: "Huron",
         code: "us-ca",
         relative_radius: 1.2
     },
     "indio": {
         name: "Indio",
-        english_name: "Indio",
+        name_english: "Indio",
         code: "us-ca",
         relative_radius: 1.2
     },
     "jackpot": {
         name: "Jackpot",
-        english_name: "Jackpot",
+        name_english: "Jackpot",
         code: "us-nv",
         relative_radius: 1.2
     },
     "kayenta": {
         name: "Kayenta",
-        english_name: "Kayenta",
+        name_english: "Kayenta",
         code: "us-az",
         relative_radius: 1.2
     },
     "kingman": {
         name: "Kingman",
-        english_name: "Kingman",
+        name_english: "Kingman",
         code: "us-az",
         relative_radius: 1.2
     },
     "las_vegas": {
         name: "Las Vegas",
-        english_name: "Las Vegas",
+        name_english: "Las Vegas",
         code: "us-nv",
         relative_radius: 1.3
     },
     "los_angeles": {
         name: "Los Angeles",
-        english_name: "Los Angeles",
+        name_english: "Los Angeles",
         code: "us-ca",
         relative_radius: 1.3
     },
     "nogales": {
         name: "Nogales",
-        english_name: "Nogales",
+        name_english: "Nogales",
         code: "us-az",
         relative_radius: 1.2
     },
     "oakdale": {
         name: "Oakdale",
-        english_name: "Oakdale",
+        name_english: "Oakdale",
         code: "us-ca",
         relative_radius: 1.2
     },
     "oakland": {
         name: "Oakland",
-        english_name: "Oakland",
+        name_english: "Oakland",
         code: "us-ca",
         relative_radius: 1.2
     },
     "oxnard": {
         name: "Oxnard",
-        english_name: "Oxnard",
+        name_english: "Oxnard",
         code: "us-ca",
         relative_radius: 1.2
     },
     "page": {
         name: "Page",
-        english_name: "Page",
+        name_english: "Page",
         code: "us-az",
         relative_radius: 1.2
     },
     "phoenix": {
         name: "Phoenix",
-        english_name: "Phoenix",
+        name_english: "Phoenix",
         code: "us-az",
         relative_radius: 1.3
     },
     "pioche": {
         name: "Pioche",
-        english_name: "Pioche",
+        name_english: "Pioche",
         code: "us-nv",
         relative_radius: 1.2
     },
     "primm": {
         name: "Primm",
-        english_name: "Primm",
+        name_english: "Primm",
         code: "us-nv",
         relative_radius: 1.2
     },
     "redding": {
         name: "Redding",
-        english_name: "Redding",
+        name_english: "Redding",
         code: "us-ca",
         relative_radius: 1.2
     },
     "reno": {
         name: "Reno",
-        english_name: "Reno",
+        name_english: "Reno",
         code: "us-nv",
         relative_radius: 1.3
     },
     "sacramento": {
         name: "Sacramento",
-        english_name: "Sacramento",
+        name_english: "Sacramento",
         code: "us-ca",
         relative_radius: 1.2
     },
     "santa_cruz": {
         name: "Santa Cruz",
-        english_name: "Santa Cruz",
+        name_english: "Santa Cruz",
         code: "us-ca",
         relative_radius: 1.2
     },
     "santa_maria": {
         name: "Santa Maria",
-        english_name: "Santa Maria",
+        name_english: "Santa Maria",
         code: "us-ca",
         relative_radius: 1.2
     },
     "san_diego": {
         name: "San Diego",
-        english_name: "San Diego",
+        name_english: "San Diego",
         code: "us-ca",
         relative_radius: 1.2
     },
     "san_francisco": {
         name: "San Francisco",
-        english_name: "San Francisco",
+        name_english: "San Francisco",
         code: "us-ca",
         relative_radius: 1.3
     },
     "san_rafael": {
         name: "San Rafael",
-        english_name: "San Rafael",
+        name_english: "San Rafael",
         code: "us-ca",
         relative_radius: 1.2
     },
     "san_simon": {
         name: "San Simon",
-        english_name: "San Simon",
+        name_english: "San Simon",
         code: "us-az",
         relative_radius: 1.2
     },
     "show_low": {
         name: "Show Low",
-        english_name: "Show Low",
+        name_english: "Show Low",
         code: "us-az",
         relative_radius: 1.2
     },
     "sierra_vista": {
         name: "Sierra Vista",
-        english_name: "Sierra Vista",
+        name_english: "Sierra Vista",
         code: "us-az",
         relative_radius: 1.2
     },
     "stockton": {
         name: "Stockton",
-        english_name: "Stockton",
+        name_english: "Stockton",
         code: "us-ca",
         relative_radius: 1.2
     },
     "tonopah": {
         name: "Tonopah",
-        english_name: "Tonopah",
+        name_english: "Tonopah",
         code: "us-nv",
         relative_radius: 1.4
     },
     "truckee": {
         name: "Truckee",
-        english_name: "Truckee",
+        name_english: "Truckee",
         code: "us-ca",
         relative_radius: 1.2
     },
     "tucson": {
         name: "Tucson",
-        english_name: "Tucson",
+        name_english: "Tucson",
         code: "us-az",
         relative_radius: 1.2
     },
     "ukiah": {
         name: "Ukiah",
-        english_name: "Ukiah",
+        name_english: "Ukiah",
         code: "us-ca",
         relative_radius: 1.2
     },
     "winnemucca": {
         name: "Winnemucca",
-        english_name: "Winnemucca",
+        name_english: "Winnemucca",
         code: "us-nv",
         relative_radius: 1.2
     },
     "yuma": {
         name: "Yuma",
-        english_name: "Yuma",
+        name_english: "Yuma",
         code: "us-az",
         relative_radius: 1.2
     },
     "arizona": {
         name: "Arizona",
-        english_name: "Arizona",
+        name_english: "Arizona",
         code: "us-az",
         relative_radius: 1.2
     },
     "california": {
         name: "California",
-        english_name: "California",
+        name_english: "California",
         code: "us-ca",
         relative_radius: 1.2
     },
     "nevada": {
         name: "Nevada",
-        english_name: "Nevada",
+        name_english: "Nevada",
         code: "us-nv",
         relative_radius: 1.2
     },
     "global": {
         name: "Global",
-        english_name: "Global",
+        name_english: "Global",
         code: "us",
         relative_radius: 1
     },
@@ -853,7 +853,6 @@ var cities = [
         "z": "26463.2"
     }
 ];
-
 
 for(var i = 0; i < cities.length; i++){
     cities[i].country = cities[i].gameName;
