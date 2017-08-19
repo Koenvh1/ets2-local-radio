@@ -1,6 +1,6 @@
 {
   "web": {
-    "author": "Luca Artek Allegrini",
+    "author": "Luca Artek Forzutti",
     "now-playing": "Now playing:",
     "connect-other-device": "Connetti ad un altro dispositivo",
     "coverage-map": "Copertura mappa",
@@ -13,7 +13,7 @@
     "update-now": "Aggiorna adesso",
     "controlled-remotely": "Questo player viene controllato da remoto",
     "submit-station": "Inserisci Nuova Stazione",
-    "broken-station": "Report a broken station",
+    "broken-station": "Segnala stazione non funzionante",
     "this-peerid": "PeerID di questo dispositivo:",
     "waiting-coordinates": "Attendo le tue coordinate in-game...",
     "closest-city": "Città; più; vicina : <span class='nearestCity'></span>, <span class='distance'></span> metri",
