@@ -13,6 +13,7 @@
     "update-now": "Päivitä nyt",
     "controlled-remotely": "Tätä soitinta hallitaan etänä",
     "submit-station": "Ehdota uutta kanavaa",
+    "broken-station": "Report a broken station",
     "this-peerid": "Tämän laitteen PeerID:",
     "waiting-coordinates": "Odotetaan  pelinsisäisiä koordinaatteja...",
     "closest-city": "Lähin kaupunki on: <span class='nearestCity'></span>, <span class='distance'></span> metrin päässä",

@@ -13,6 +13,7 @@
     "update-now": "Uppdatera nu",
     "controlled-remotely": "Denna spelare är fjärrstyrd",
     "submit-station": "Lägg till en ny station",
+    "broken-station": "Report a broken station",
     "this-peerid": "Denna enhets PeerID:",
     "waiting-coordinates": "Väntar på dina koordinater i spelet...",
     "closest-city": "Närmaste stad är: <span class='nearestCity'></span>, <span class='distance'></span> meter bort",

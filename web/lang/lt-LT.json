@@ -13,6 +13,7 @@
     "update-now": "Atnaujinti dabar",
     "controlled-remotely": "Šis grotuvas valdomas nuotoliniu būdu",
     "submit-station": "Pasiūlyti naują radijo stotį.",
+    "broken-station": "Report a broken station",
     "this-peerid": "Šio įrenginio PeerID:",
     "waiting-coordinates": "Nustatomos jūsų buvimo koordinatės žaidime...",
     "closest-city": "Artimiausias miestas: <span class='nearestCity'></span>, už <span class='distance'></span> metrų",

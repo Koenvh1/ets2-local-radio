@@ -13,6 +13,7 @@
     "update-now": "Uuenda nüüd",
     "controlled-remotely": "See pleier on distantsjuhtimise all",
     "submit-station": "Esita uus jaam",
+    "broken-station": "Report a broken station",
     "this-peerid": "Selle seadme PeerID:",
     "waiting-coordinates": "Ootan sinu mängusiseseid koordinaate...",
     "closest-city": "Lähim linn: <span class='nearestCity'></span>, <span class='distance'></span> meetri kaugusel",

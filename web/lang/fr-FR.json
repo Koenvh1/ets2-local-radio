@@ -13,6 +13,7 @@
     "update-now": "Mettre à jour maintenant",
     "controlled-remotely": "Ce lecteur est contrôlé à distance",
     "submit-station": "Proposer une nouvelle station",
+    "broken-station": "Report a broken station",
     "this-peerid": "Le PeerID de cet appareil:",
     "waiting-coordinates": "En attente de vos coordonnées en-jeu...",
     "closest-city": "La ville la plus proche est: <span class='nearestCity'></span>, à <span class='distance'></span> mètres de votre position",

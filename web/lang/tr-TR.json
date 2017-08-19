@@ -13,6 +13,7 @@
     "update-now": "Şimdi güncelle",
     "controlled-remotely": "Bu oyuncu uzaktan kontrol ediliyor",
     "submit-station": "Yeni bir istasyon tavsiye et",
+    "broken-station": "Report a broken station",
     "this-peerid": "Bu cihazın PeerID:",
     "waiting-coordinates": "Oyun içindeki koordinatlarınız bekleniyor...",
     "closest-city": "En yakın şehir: <span class='nearestCity'></span>, <span class='mesafe'></span> metre uzaklıkta",

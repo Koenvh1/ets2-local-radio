@@ -13,6 +13,7 @@
     "update-now": "Aktualizovat nyní",
     "controlled-remotely": "Tento přehrávač je ovládán na dálku",
     "submit-station": "Přidat novou stanici",
+    "broken-station": "Report a broken station",
     "this-peerid": "PeerID tohoto zařízení:",
     "waiting-coordinates": "Čekání na vaše souřadnice ve hře",
     "closest-city": "Nejbližší město je: <span class='nearestCity'></span>, <span class='distance'></span> metrů daleko",

@@ -13,6 +13,7 @@
     "update-now": "Αναβαθμίστε τώρα",
     "controlled-remotely": "Ο παίχτης είναι ελεγχόμενος εξ αποστάσεως",
     "submit-station": "Καταχωρήστε έναν καινούριο σταθμό",
+    "broken-station": "Report a broken station",
     "this-peerid": "Το PeerID της συσκευής αυτής:",
     "waiting-coordinates": "Περιμένουμε για τις συντεταγμένες σας στο παιχνίδι...",
     "closest-city": "Η πλησιέστερη πόλη είναι: <span class='nearestCity'></span>, <span class='distance'></span> μέτρα μακριά",

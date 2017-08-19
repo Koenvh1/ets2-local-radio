@@ -13,6 +13,7 @@
     "update-now": "Uppdater nu",
     "controlled-remotely": "Dehir spiloreð er avstandskontrollit",
     "submit-station": "Send eð nyt staġon",
+    "broken-station": "Report a broken station",
     "this-peerid": "PeerID's av dehir täky:",
     "waiting-coordinates": "Vänta på dajn spilskoordinata...",
     "closest-city": "Näststadeð er: <span class='nearestCity'></span>, <span class='distance'></span> meter vej",

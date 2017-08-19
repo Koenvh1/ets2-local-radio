@@ -13,6 +13,7 @@
     "update-now": "Atualizar agora",
     "controlled-remotely": "Este rádio está sendo controlado remotamente",
     "submit-station": "Enviar uma nova estação",
+    "broken-station": "Report a broken station",
     "this-peerid": "PeerID deste dispositivo:",
     "waiting-coordinates": "Esperando por sua localização...",
     "closest-city": "A cidade mais próxima é: <span class='nearestCity'></span>, <span class='distance'></span> metros distante",

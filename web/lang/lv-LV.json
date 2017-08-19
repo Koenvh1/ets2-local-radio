@@ -13,6 +13,7 @@
     "update-now": "Atjaunojiet tagad",
     "controlled-remotely": "Šis atskaņotajs tiks kontrolēts distancionāli",
     "submit-station": "Pievienot jaunu radiostaciju",
+    "broken-station": "Report a broken station",
     "this-peerid": "Šis ierīces Peer ID:",
     "waiting-coordinates": "Meklē jūsu ieskš-spēles atrašanas vietas koordinātus",
     "closest-city": "Tuvāka pilsēta ir: <span class='nearestCity'></span>, <span class='distance'></span> metri no jums",
