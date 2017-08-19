@@ -1,6 +1,6 @@
 {
   "web": {
-    "author": "Zniwek",
+    "author": "Vøytek",
     "now-playing": "Teraz gra:",
     "connect-other-device": "Połącz z innym urządzeniem",
     "coverage-map": "Mapa pokrycia",
@@ -13,7 +13,7 @@
     "update-now": "Aktualizuj teraz",
     "controlled-remotely": "Ten odtwarzacz jest sterowany zdalnie",
     "submit-station": "Zgłoś nową stację",
-    "broken-station": "Report a broken station",
+    "broken-station": "Zgłoś niedziałającą stację",
     "this-peerid": "PeerID tego urządzenia:",
     "waiting-coordinates": "Oczekiwanie na współrzędne z gry...",
     "closest-city": "Najbliższe miasto to <span class='nearestCity'></span>, <span class='distance'></span> metrów stąd",
@@ -27,7 +27,7 @@
   },
   "server": {
     "info": "Informacje",
-    "game": "Game:",
+    "game": "Gra:",
     "status": "Status:",
     "simulator-not-running": "Symulator nie jest włączony",
     "simulator-not-driving": "Symulator włączony, gaz do dechy!",
