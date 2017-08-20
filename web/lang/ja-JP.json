@@ -13,7 +13,7 @@
     "update-now": "ダウンロード",
     "controlled-remotely": "このプレーヤーは別のデバイスから操作されています",
     "submit-station": "新しい放送局を登録",
-    "broken-station": "Report a broken station",
+    "broken-station": "放送局の問題を報告",
     "this-peerid": "このデバイスのPeerID:",
     "waiting-coordinates": "ゲーム内の座標を待っています…",
     "closest-city": "最寄りの都市: <span class='nearestCity'></span>, 距離:<span class='distance'></span>m",
