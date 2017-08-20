@@ -13,7 +13,7 @@
     "update-now": "Обновить сейчас",
     "controlled-remotely": "Этот проигрыватель будет управляться дистанционно",
     "submit-station": "Добавить новую радиостанцию",
-    "broken-station": "Report a broken station",
+    "broken-station": "Сообщить о нерабочей радиостанции",
     "this-peerid": "Номер пира этого устройства:",
     "waiting-coordinates": "Определение ваших координат местоположения в игре...",
     "closest-city": "Ближайший город: <span class='nearestCity'></span>, <span class='distance'></span> метров от вас",
@@ -52,7 +52,7 @@
     "remove-plugin": "Удалить плагин",
     "install-overlay": "Желаете установить игровой оверлей?\n(Это перепишет существующий файл d3d9.dll, и в редких случаях может вызвать вылет при выходе из игры)",
     "remove-overlay": "Вы хотите удалить игровой оверлей? (Это удалит любой существующий файл d3d9.dll)",
-    "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного ETS2/ATS. Обычно имеет следующий путь: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
+    "ets2-folder-dialog": "Пожалуйста, выберите путь к папке установленного ETS2/ATS. Обычно это: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Сейчас играет:"
   }
 }
