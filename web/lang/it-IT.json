@@ -18,9 +18,9 @@
     "waiting-coordinates": "Attendo le tue coordinate in-game...",
     "closest-city": "Città; più; vicina : <span class='nearestCity'></span>, <span class='distance'></span> metri",
     "amount-static": "Riduzione del Rumore:",
-    "brightness": "Brightness:",
+    "brightness": "Luminosità:",
     "show-all": "Mostra Tutto",
-    "enter-peerid-title": "inserisci PeerID",
+    "enter-peerid-title": "Inserisci PeerID",
     "enter-peerid-body": "Inserisci lo PeerID del dispositivo al quale vuoi connetterti:",
     "connect": "Connetti",
     "make-favourite": "Aggiungi ai Preferiti"
