@@ -40,8 +40,8 @@ function initialise() {
     });
 
     //Check updates:
-    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", function (dataRemote) {
-        $.getJSON("/version.json", function (dataLocal) {
+    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", {_: new Date().getTime()}, function (dataRemote) {
+        $.getJSON("/version.json", {_: new Date().getTime()}, function (dataLocal) {
             if (dataLocal.version != dataRemote.version) {
                 $(".update").show();
             }
@@ -142,14 +142,13 @@ function initialise() {
         updateVolume();
     });
 
-    /*
     $("#player").on("error", function (e) {
         if($("#player").attr("src") != "about:blank") {
-            $("#player").attr("src", "lib/audio/station_error.mp3");
+            //$("#player").attr("src", "lib/audio/station_error.mp3");
             console.log(e);
         }
     });
-    */
+
     $(document).ready(function () {
         setTimeout(function () {
             var hash = parseInt(location.hash.substring(1));
@@ -307,10 +306,6 @@ function setRadioStation(url, country, volume) {
     }
     g_current_country = country;
     if(controlRemote){
-        if(!conn.open){
-            //If connection closed, reconnect
-            conn = peer.connect(connectedPeerID);
-        }
         conn.send(JSON.stringify({
             type: "station",
             url: url,
@@ -401,10 +396,6 @@ function setWhitenoise(volume) {
 
 function setFavouriteStation(country, name) {
     if(controlRemote){
-        if(!conn.open){
-            //If connection closed, reconnect
-            conn = peer.connect(connectedPeerID);
-        }
         conn.send(JSON.stringify({
             type: "favourite",
             country: country,
@@ -445,10 +436,6 @@ function togglePlay(fromRemote) {
     if(typeof fromRemote === "undefined") fromRemote = false;
     if(controlRemote){
         if(!fromRemote) {
-            if (!conn.open) {
-                //If connection closed, reconnect
-                conn = peer.connect(connectedPeerID);
-            }
             conn.send(JSON.stringify({
                 type: "togglePlay"
             }));
@@ -520,10 +507,6 @@ function volumeChange(amount) {
 
 function updateVolume() {
     if (controlRemote) {
-        if (!conn.open) {
-            //If connection closed, reconnect
-            conn = peer.connect(connectedPeerID);
-        }
         conn.send(JSON.stringify({
             type: "volume",
             volume: parseInt($("#volumeControl").val()) / 100
@@ -632,7 +615,7 @@ function refreshStations() {
 }
 
 function refreshLanguage() {
-    $.getJSON("lang/" + g_language + ".json", function (data) {
+    $.getJSON("lang/" + g_language + ".json", {_: new Date().getTime()}, function (data) {
         g_translation = data;
         for(var key in data.web){
             if (data.web.hasOwnProperty(key)) {
