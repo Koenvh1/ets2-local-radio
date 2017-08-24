@@ -13,7 +13,7 @@
     "update-now": "Nu updaten",
     "controlled-remotely": "Deze speler wordt op afstand bestuurd",
     "submit-station": "Nieuwe radiozender toevoegen",
-    "broken-station": "Niet-werkende radiozender melden",
+    "broken-station": "Kapotte radiozender melden",
     "this-peerid": "PeerID van dit apparaat:",
     "waiting-coordinates": "Op zoek naar de coördinaten in het spel...",
     "closest-city": "Dichtstbijzijnde stad: <span class='nearestCity'></span>, op <span class='distance'></span> meter afstand",
