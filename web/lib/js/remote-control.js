@@ -6,21 +6,43 @@ var controlRemote = false;
 
 $(document).ready(function () {
     //Get PeerJS dependencies:
-    $.getScript("http://cdn.peerjs.com/0.3.14/peer.js", function () {
-        //Set ID for PearJS
         id = Math.floor(Math.random()*90000) + 10000;
-        peer = new Peer(id, {key: g_skinConfig.peerJSkey});
-        $(".peer-id").html(id);
+        initPeer();
+});
 
-        //Receive message logic
-        peer.on('connection', function (incomingConn) {
-            conn = incomingConn;
-            conn.on('data', function (data) {
-                receiveCommand(data);
-            });
+function initPeer() {
+    peer = new Peer(id, {key: g_skinConfig.peerJSkey, debug: 3});
+    $(".peer-id").html(id);
+
+    //Receive message logic
+    peer.on('connection', function (incomingConn) {
+        conn = incomingConn;
+        conn.on('data', function (data) {
+            receiveCommand(data);
+        });
+        conn.on('error', function (err) {
+            peer.disconnect();
+            peer.reconnect();
+            peer.connect(connectedPeerID);
+        });
+        conn.on('close', function () {
+            peer.disconnect();
+            peer.reconnect();
+            peer.connect(connectedPeerID);
         });
     });
-});
+
+    peer.on('disconnected', function (err) {
+        peer.reconnect();
+        peer.connect(connectedPeerID);
+    });
+
+    peer.on('error', function (err) {
+        peer.disconnect();
+        peer.reconnect();
+        peer.connect(connectedPeerID);
+    });
+}
 
 $(window).on("unload", function() {
     localStorage.setItem("volume", g_volume);
@@ -42,6 +64,7 @@ function receiveCommand(data) {
             type: "volume",
             volume: g_volume
         }));
+        connectedPeerID = response.id;
     }
     if(response.type == "station"){
         setRadioStation(response.url, response.country, response.volume);
@@ -75,7 +98,8 @@ function connect(peerID) {
     conn = peer.connect(peerID);
     conn.on('open', function () {
         conn.send(JSON.stringify({
-            type: "connect"
+            type: "connect",
+            id: id
         }));
         console.log("Successfully connected");
         controlRemote = true;
@@ -90,16 +114,16 @@ function connect(peerID) {
         });
         g_volume = 0;
 
-        alert("Successfully connected");
+        $("#snackbar").html("<i class='fa fa-plug'></i> Successfully connected").addClass("show");
+        setTimeout(function () {
+            $("#snackbar").removeClass("show");
+        }, 3000);
         /*
          document.getElementById("player").url = "";
          document.getElementById("player").pause();
          document.getElementById("switchStation").url = "";
          document.getElementById("whitenoise").url = "";
          */
-    });
-    conn.on('error', function (err) {
-        alert("Something went wrong while connecting: \n" + err);
     });
 }
 
