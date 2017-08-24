@@ -1,7 +1,7 @@
 {
   "web": {
     "author": "Eryman",
-    "now-playing": "Now playing:",
+    "now-playing": "Tocando agora:",
     "connect-other-device": "Conectar a outro dispositivo",
     "coverage-map": "Mapa de cobertura",
     "stop-playback": "Parar reprodução",
@@ -44,7 +44,7 @@
     "volume-up-key": "Tecla para aumentar volume:",
     "volume-down-key": "Tecla para diminuir volume:",
     "make-favourite-key": "Tecla para tornar favorito:",
-    "go-to-favourite-key": "Tecla para ir a favorito :",
+    "go-to-favourite-key": "Tecla para ir a favorito:",
     "save": "Salvar",
     "install": "Instalar plugin",
     "install-plugin-ets2": "Instalar plugin para\nEuro Truck Simulator 2",
