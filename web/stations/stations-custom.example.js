@@ -32,6 +32,28 @@ var stations_custom = {
             url: "http://stream1.laut.fm/simulator1"
         },
     ],
+    "france": [
+        {
+            name: "Ouï FM",
+            logo: "stations/images-europe/france/Ouï FM.png",
+            url: "http://laradiodelamer.stream.ouifm.fr/radiomer-128.mp3"
+        },
+        {
+            name: "Radio FG",
+            logo: "stations/images-europe/france/Radio FG.png",
+            url: "http://radiofg.impek.com/fg.mp3"
+        },
+        {
+            name: "Radio Nova",
+            logo: "stations/images-europe/france/Radio Nova.png",
+            url: "http://novazz.ice.infomaniak.ch/novazz-128.mp3"
+        },
+        {
+            name: "Sweet fm",
+            logo: "stations/images-europe/france/Sweet fm.png",
+            url: "http://62.210.214.169:8000/lms"
+        },
+    ],
     "germany": [
         {
             name: "simulatorONE",
