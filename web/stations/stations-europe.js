@@ -515,6 +515,11 @@ var stations = {
             url: "http://icecast1.play.cz:80/impuls128.mp3"
         },
         {
+            name: "Kiss",
+            logo: "stations/images-europe/czech/Kiss.png",
+            url: "http://icecast4.play.cz/kiss128.mp3"
+        },
+        {
             name: "Radio 1",
             logo: "stations/images-europe/czech/Radio 1.png",
             url: "http://icecast6.play.cz:80/radio1-128.mp3"
@@ -873,24 +878,9 @@ var stations = {
             url: "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
         },
         {
-            name: "Ouï FM",
-            logo: "stations/images-europe/france/Ouï FM.png",
-            url: "http://laradiodelamer.stream.ouifm.fr/radiomer-128.mp3"
-        },
-        {
             name: "Radio Classique",
             logo: "stations/images-europe/france/Radio Classique.png",
             url: "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
-        },
-        {
-            name: "Radio FG",
-            logo: "stations/images-europe/france/Radio FG.png",
-            url: "http://radiofg.impek.com/fg.mp3"
-        },
-        {
-            name: "Radio Nova",
-            logo: "stations/images-europe/france/Radio Nova.png",
-            url: "http://novazz.ice.infomaniak.ch/novazz-128.mp3"
         },
         {
             name: "Radio Vinci Autoroutes",
@@ -2084,7 +2074,7 @@ var stations = {
         {
             name: "U105",
             logo: "stations/images-europe/nireland/U105.png",
-            url: "http://stream2.radiomonitor.com:80/U105"
+            url: "http://stream1.radiomonitor.com:80/U105"
         },
         {
             name: "Q Radio",
@@ -2247,13 +2237,11 @@ var stations = {
             logo: "stations/images-europe/poland/Radio VOX FM.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
         },
-        /*
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "http://waw.ic.smcdn.pl/t050-1.aac?timestamp=" + Math.floor(Date.now() / 1000) + "&hash=5136cd98087d59a59addb22903c4cd18"
+            url: "http://acdn.smcloud.net/t050-1.aac"
         },
-        */
         {
             name: "Radio Zet",
             logo: "stations/images-europe/poland/Radio Zet.svg",
@@ -2881,6 +2869,16 @@ var stations = {
             url: "http://media-sov.musicradio.com:80/HeartLondonMP3"
         },
         {
+            name: "Heart 80s",
+            logo: "stations/images-europe/uk/Heart 80s.png",
+            url: "http://media-the.musicradio.com/Heart80s"
+        },
+        {
+            name: "Heart Extra",
+            logo: "stations/images-europe/uk/Heart Extra.png",
+            url: "http://media-the.musicradio.com/Heartextra"
+        },
+        {
             name: "Heat radio",
             logo: "stations/images-europe/uk/Heat radio.png",
             url: "http://icy-e-bl-03-gos.sharp-stream.com/heat.aac"
@@ -2889,6 +2887,11 @@ var stations = {
             name: "Kiss",
             logo: "stations/images-europe/uk/Kiss.png",
             url: "http://icy-e-ba-01-gos.sharp-stream.com/kissnational.mp3"
+        },
+        {
+            name: "Kiss Fresh",
+            logo: "stations/images-europe/uk/Kiss Fresh.jpg",
+            url: "http://live-bauer-al.sharp-stream.com/kissfresh.aac"
         },
         {
             name: "LBC",
@@ -2909,6 +2912,16 @@ var stations = {
             name: "Smooth",
             logo: "stations/images-europe/uk/Smooth.png",
             url: "http://media-the.musicradio.com/SmoothUK"
+        },
+        {
+            name: "Smooth Extra",
+            logo: "stations/images-europe/uk/Smooth Extra.png",
+            url: "http://media-the.musicradio.com/SmoothExtra"
+        },
+        {
+            name: "talkSPORT",
+            logo: "stations/images-europe/uk/talkSPORT.png",
+            url: "https://radio.talksport.com/stream"
         },
         {
             name: "UCB 1",

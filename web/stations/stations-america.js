@@ -490,6 +490,11 @@ var stations = {
             url: "http://50.22.253.45/kpfk-fm.mp3"
         },
         {
+            name: "KISS-FM",
+            logo: "stations/images-america/los_angeles/KIIS-FM.png",
+            url: "http://c2icyelb.prod.playlists.ihrhls.com/185_icy"
+        },
+        {
             name: "KOST",
             logo: "stations/images-america/los_angeles/KOST.png",
             url: "http://kost-fm.akacast.akamaistream.net/7/103/19775/v1/auth.akacast.akamaistream.net/kost-fm"
@@ -753,14 +758,19 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
-            name: "Radio 74",
-            logo: "stations/images-america/show_low/Radio 74.gif",
-            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
-        },
-        {
             name: "99.7 The Bear",
             logo: "stations/images-america/show_low/99.7 The Bear.png",
             url: "http://69.64.67.188:8192/KPKX-128"
+        },
+        {
+            name: "KQAZ",
+            logo: "stations/images-america/show_low/KQAZ.png",
+            url: "http://ice42.securenetsystems.net:80/KQAZ"
+        },
+        {
+            name: "Radio 74",
+            logo: "stations/images-america/show_low/Radio 74.gif",
+            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
         },
     ],
     "sierra_vista": [
