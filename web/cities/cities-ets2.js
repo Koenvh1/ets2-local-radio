@@ -5408,14 +5408,6 @@ var cities_wip = [
         "z": "-45948.30"
     },
     {
-        "gameName": "netanya",
-        "realName": "Netanya",
-        "country": "israel",
-        "x": "113710.56",
-        "y": "4",
-        "z": "87504.45"
-    },
-    {
         "gameName": "mainz",
         "realName": "Mainz",
         "country": "germany-hr",
@@ -5440,12 +5432,28 @@ var cities_wip = [
         "z": "-52861.73"
     },
     {
+        "gameName": "netanya",
+        "realName": "Netanya",
+        "country": "israel",
+        "x": "113710.56",
+        "y": "4",
+        "z": "87504.45"
+    },
+    {
         "gameName": "novisad",
         "realName": "Нови Сад (Novi Sad)",
         "country": "serbia",
         "x": "36563.67",
         "y": "43.37",
         "z": "30842.71"
+    },
+    {
+        "gameName": "nis",
+        "realName": "Ниш (Niš)",
+        "country": "serbia",
+        "x": "45380",
+        "y": "73",
+        "z": "41075"
     },
     {
         "gameName": "oppdal",
