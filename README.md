@@ -17,7 +17,8 @@ ETS2: Default, Going East, Scandinavia, France, ProMods, RusMap, Southern Russia
 ATS: California, Nevada, Arizona.
 
 **It's available in over 20 languages!**
-Not available in yours? [Translate it](https://github.com/Koenvh1/ets2-local-radio/blob/master/web/lang/en-GB.json) and send it to me. I will add it in the new release.
+Not available in yours? [Translate it](https://koenvh.nl/translate). I will add it in the next release.
+(If your language is not in the list, message me, the system does not allow me to dynamically add languages)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KAX2AA9B85BAE)
 
