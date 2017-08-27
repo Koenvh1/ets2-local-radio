@@ -417,7 +417,7 @@ var city_properties = {
         relative_radius: 1.4,
     },
     "arad": {
-        relative_radius: 0.8,
+        relative_radius: 0.5,
     },
     "are": {
         relative_radius: 0.6,
@@ -697,6 +697,9 @@ var city_properties = {
     "oppdal": {
         relative_radius: 0.7,
     },
+    "oradea": {
+        relative_radius: 0.5,
+    },
     "ornskoldsvik": {
         relative_radius: 0.6,
     },
@@ -840,7 +843,7 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "timisoara": {
-        relative_radius: 0.8,
+        relative_radius: 0.5,
     },
     "tornio": {
         relative_radius: 0.6,
@@ -5350,6 +5353,14 @@ var cities_wip = [
         "x": "36840.59",
         "y": "63",
         "z": "-75249.69"
+    },
+    {
+        "gameName": "kragujevac",
+        "realName": "Крагујевац (Kragujevac)",
+        "country": "serbia",
+        "x": "39573",
+        "y": "43",
+        "z": "37373"
     },
     {
         "gameName": "lefkosia",

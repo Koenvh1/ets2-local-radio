@@ -328,11 +328,13 @@ var stations = {
             logo: "stations/images-europe/bulgaria/BNR Horizont.png",
             url: "http://stream.bnr.bg:8002/horizont.mp3"
         },
+        /*
         {
             name: "Alpha Radio",
             logo: "stations/images-europe/bulgaria/Alpha Radio.png",
             url: "http://alpharadio.bg:8000/stream"
         },
+        */
         {
             name: "Радио FM+",
             logo: "stations/images-europe/bulgaria/Радио FMplus.jpg",
