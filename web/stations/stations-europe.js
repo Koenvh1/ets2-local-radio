@@ -2757,6 +2757,28 @@ var stations = {
             url: "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
         },
     ],
+    "switzerland-it": [
+        {
+            name: "RSI Rete Uno",
+            logo: "stations/images-europe/switzerland-it/RSI Rete Uno.svg",
+            url: "http://lsaplus.swisstxt.ch/audio/reteuno_96.stream/playlist.m3u8"
+        },
+        {
+            name: "RSI Rete Due",
+            logo: "stations/images-europe/switzerland-it/RSI Rete Due.svg",
+            url: "http://lsaplus.swisstxt.ch/audio/retedue_96.stream/playlist.m3u8"
+        },
+        {
+            name: "RSI Rete Tre",
+            logo: "stations/images-europe/switzerland-it/RSI Rete Tre.svg",
+            url: "http://lsaplus.swisstxt.ch/audio/retetre_96.stream/playlist.m3u8"
+        },
+        {
+            name: "Radio Fiume Ticino",
+            logo: "stations/images-europe/switzerland-it/Radio Fiume Ticino.jpg",
+            url: "http://178.209.40.106:8002/stream"
+        },
+    ],
     "turkey": [
         {
             name: "TRT Radyo 1",

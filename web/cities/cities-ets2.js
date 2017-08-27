@@ -371,6 +371,12 @@ var country_properties = {
         code: "ch",
         relative_radius: 0.8,
     },
+    "switzerland-it": {
+        name: "Svizerra",
+        name_english: "Switzerland (IT)",
+        code: "ch",
+        relative_radius: 0.8,
+    },
     "turkey": {
         name: "Türkiye",
         name_english: "Turkey",
@@ -5082,6 +5088,14 @@ var cities_srm = [
 ]
 
 var cities_wip = [
+    {
+        "gameName": "airolo",
+        "realName": "Airolo",
+        "country": "switzerland-it",
+        "x": "-7945",
+        "y": "98",
+        "z": "22977"
+    },
     {
         "gameName": "are",
         "realName": "Åre",
