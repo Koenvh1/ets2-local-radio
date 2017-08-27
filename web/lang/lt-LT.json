@@ -13,7 +13,7 @@
     "update-now": "Atnaujinti dabar",
     "controlled-remotely": "Šis grotuvas valdomas nuotoliniu būdu",
     "submit-station": "Pasiūlyti naują radijo stotį.",
-    "broken-station": "Report a broken station",
+    "broken-station": "Pranešti apie neveikiančią stotį",
     "this-peerid": "Šio įrenginio PeerID:",
     "waiting-coordinates": "Nustatomos jūsų buvimo koordinatės žaidime...",
     "closest-city": "Artimiausias miestas: <span class='nearestCity'></span>, už <span class='distance'></span> metrų",
@@ -49,9 +49,9 @@
     "install": "Įrašyti papildinį (plug-in)",
     "install-plugin-ets2": "Įrašyti papildinį žaidimui: \nEuro Truck Simulator 2",
     "install-plugin-ats": "Įrašyti papildinį žaidimui: \nAmerican Truck Simulator",
-    "remove-plugin": "Remove plugin",
+    "remove-plugin": "Pašalinti papildinį",
     "install-overlay": "Ar norite integruoti modifikaciją žaidime (in-game overlay)?\n(Bus perrašytas d3d9.dll failas, todėl tikėtina, kad tam tikrais atvejais žaidimas gali išsijungti (t.y crash'inti) išjungiant žaidimą)",
-    "remove-overlay": "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)",
+    "remove-overlay": "Ar norite pašalinti integruotą modifikaciją žaidime (in-game overlay)?\n(d3d9.dll failas bus ištrintas)",
     "ets2-folder-dialog": "Pasirinkite ETS2/ATS instaliavimo aplanką, dažniausiai randamas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
     "now-playing": "Dabar groja:"
   }
