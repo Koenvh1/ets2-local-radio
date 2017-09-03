@@ -434,7 +434,7 @@ var stations = {
         {
             name: "Otvoreni radio",
             logo: "stations/images-europe/croatia/Otvoreni radio.png",
-            url: "http://87.98.250.149:8002/;"
+            url: "http://50.7.70.58:8672/;"
         },
     ],
     "cyprus": [
@@ -1027,6 +1027,11 @@ var stations = {
             name: "Antenne Bayern",
             logo: "stations/images-europe/germany-br/Antenne Bayern.png",
             url: "http://mp3channels.webradio.antenne.de:80/antenne"
+        },
+        {
+            name: "egoFM",
+            logo: "stations/images-europe/germany-br/egoFM.png",
+            url: "http://www.egofm.de/stream/128kb"
         },
         {
             name: "Rock Antenne 7.1 Surround",
@@ -2377,6 +2382,11 @@ var stations = {
             name: "Наше Радио",
             logo: "stations/images-europe/russia/Наше Радио.gif",
             url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
+        },
+        {
+            name: "Комеди радио",
+            logo: "stations/images-europe/russia/Комеди радио.png",
+            url: "http://ic3.101.ru:8000/v11_1?setst=&tok=QEE58QS1PmrRov%2FF9zUBmo4a57vk4StIOaYY6%2B%2FDwT%2Bk6%2F4dN2Fx9A%3D%3D&25"
         },
         {
             name: "Радио Ваня",
