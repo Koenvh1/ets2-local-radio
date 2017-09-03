@@ -21,9 +21,20 @@ namespace ETS2_Local_Radio_server
         {
             StreamReader reader = new StreamReader(Directory.GetCurrentDirectory() + "\\web\\lang\\" + Lang + ".json");
             string content = reader.ReadToEnd();
+            reader.Close();
             dynamic data = JObject.Parse(content);
             dynamic server = data.server;
             return server;
+        }
+
+        public bool GetRTL()
+        {
+            StreamReader reader = new StreamReader(Directory.GetCurrentDirectory() + "\\web\\lang\\" + Lang + ".json");
+            string content = reader.ReadToEnd();
+            reader.Close();
+            dynamic data = JObject.Parse(content);
+            reader.Close();
+            return (data["rtl"] != null && data["rtl"] == true);
         }
     }
 }

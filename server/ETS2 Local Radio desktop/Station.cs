@@ -68,7 +68,8 @@ namespace ETS2_Local_Radio_server
             ref int piScreenY
         );
 
-        public static string NowPlaying = "Now playing: ";
+        public static string NowPlaying = "Now playing:";
+        public static bool RTL = false;
 
         public static System.Timers.Timer Timer = new System.Timers.Timer();
 
@@ -112,13 +113,21 @@ namespace ETS2_Local_Radio_server
 
                     var stringSize = g.MeasureString(NowPlaying + " " + name, font);
                     var nowPlayingSize = g.MeasureString(NowPlaying + " ", font);
+                    var nameSize = g.MeasureString(name, font);
                     var topLeft = new PointF((512 / 2) - (stringSize.Width / 2) + 123,
                         (bmp.Height / 2) - (stringSize.Height / 2));
                     //var rectangle = new Rectangle(0, 0, (int)stringSize.Width, (int)stringSize.Height);
                     var brush = new SolidBrush(Color.FromArgb(255, 174, 0));
                     //var brush = new LinearGradientBrush(rectangle, Color.White, Color.FromArgb(255, 174, 0), 0.0f, false);
-                    g.DrawString(name, font, brush, new PointF(topLeft.X + nowPlayingSize.Width, topLeft.Y));
-                    g.DrawString(NowPlaying, font, Brushes.White, topLeft);
+                    if (RTL)
+                    {
+                        g.DrawString(name, font, brush, topLeft);
+                        g.DrawString(NowPlaying, font, Brushes.White, new PointF(topLeft.X + nameSize.Width + nowPlayingSize.Width, topLeft.Y), new StringFormat { FormatFlags = StringFormatFlags.DirectionRightToLeft });
+                    } else
+                    {
+                        g.DrawString(name, font, brush, new PointF(topLeft.X + nowPlayingSize.Width, topLeft.Y));
+                        g.DrawString(NowPlaying, font, Brushes.White, topLeft);
+                    }
 
                     switch (signal)
                     {

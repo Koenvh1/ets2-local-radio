@@ -631,6 +631,18 @@ namespace ETS2_Local_Radio_server
 
                 Settings.Language = comboLang.SelectedItem.ToString();
 
+                if(language.GetRTL())
+                {
+                    this.RightToLeft = RightToLeft.Yes;
+                    this.RightToLeftLayout = true;
+                    Station.RTL = true;
+                } else
+                {
+                    this.RightToLeft = RightToLeft.No;
+                    this.RightToLeftLayout = false;
+                    Station.RTL = false;
+                }
+
                 writeFile("language", "0");
             }
             catch (Exception ex)
