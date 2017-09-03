@@ -191,7 +191,7 @@ Some systems/graphics cards may have this issue. Please try removing the plugin 
 ### The editor will not load with the overlay installed
 There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
 
-### Somethings else does not work!
+### Something else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
 
