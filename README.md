@@ -1,5 +1,4 @@
-![Logo](http://i.imgur.com/1CToXfs.png)
-
+![Logo](http://i.imgur.com/1CToXfs.png)  
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
 You can switch using the web interface, your keyboard, your controller and your mobile phone.
@@ -9,14 +8,12 @@ Most national radio stations are included; see the full list at the bottom of th
 It does not include radio stations that you would not be able to receive over FM or DAB in that country, like TruckersFM.
 However, you can add those yourself if you so desire.
 
-**Supported maps:**
-
+**Supported maps:**  
 ETS2: Default, Going East, Scandinavia, France, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.
-\*Disabled by default
-
+\*Disabled by default  
 ATS: California, Nevada, Arizona.
 
-**It's available in over 20 languages!**
+**It's available in over 20 languages!**  
 Not available in yours? [Translate it](https://koenvh.nl/translate). I will add it in the next release.
 (If your language is not in the list, message me, the system does not allow me to dynamically add languages)
 
@@ -45,19 +42,16 @@ Make sure to read the troubleshoot section beforehand!
 ## General information:
 
 ### How the system works:
-
 Every city acts as a transmission tower with a certain range, and every city is bound to a country. 
 The program check the distance to every city, and when it is within reach, the stations for that country are displayed.
 When a city from a different country is closer than the one currently connected to (with a threshold), the radio automatically switches to that country.
 
 ### What does that coverage map show?
-
 It shows all the transmission towers (the cities), with a range circle. 
 The black inner ring is the clear audio border (~20% static).
 Each country has its own (random) colour, to make it easier to see the difference between them.
 
 ### What is the PeerID and what does it do? / Can I use my phone/tablet to control the radio?
-
 The PeerID is an ID that identifies that instance of ATS/ETS2 Local Radio. 
 It allows you to control Local Radio from another device, like a phone or tablet.
 Simply go to the URL shown in the server on your phone or tablet, click "Connect to another device", 
@@ -67,13 +61,11 @@ All input on your second device will be redirected to your computer.
 You can also use the app: https://play.google.com/store/apps/details?id=nl.koenvh.localradio
 
 ### What is a favourite?
-
 Once you enter a different country, the radio will automatically switch to a station from that country.
 Normally this is the first available station, but if you set a station as your favourite, that station will be played instead.
 You can also quickly switch to that station if you assign a key/button to the "Switch to favourite" option.
 
 ### Can I add my own stations?
-
 Yes you can! Just head over to the [submit station](https://koenvh.nl/submit-station) page. 
 If it is accepted, it will be added in the next update.
 However, maybe your station does not meet the criteria (web only, does not broadcast in the majority of a country),
@@ -82,7 +74,6 @@ Just go to the `\web\stations\stations-custom.example.js` file, rename it to `st
 More information on that can be found in that file as well.
 
 ##### Why does it have to broadcast in a majority of the country?
- 
 Let us take a local radio station from France as an example:
 
 Imagine a radio station that has a range of 50km in real life (which is quite a lot), so a diameter of 100km. 
@@ -96,20 +87,17 @@ I worked around this in ATS, where radio stations are licensed per city instead 
 by making the range unrealistically large and making it switch later than in ETS2, but the problem still exists there too.
 
 ### Can you support map x?
-
 Maybe, maybe not. You can always send in a request.
 * ATS maps will not be added unless you provide at least one station per new **city**.
 * ETS2 maps will not be added unless you provide at least one station per new **country**. 
 
 ##### How about Project Balkans, Open Spaces or YKS Turkey?
-
 A persisting problem is that some maps are incompatible with each other.
 For that reason, some custom maps are not enabled by default.
 You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for Project Balkans, YKS Turkey and/or Open Spaces.
 This will reset when you update ETS2 Local Radio.
 
 ### Why do Chrome, Opera, Internet Explorer and others not work fully?
-
 ETS2 Local Radio can only include the stream types a station offers, and these vary station by station.
 One can roughly group them in four groups:
 * MP3
@@ -136,9 +124,14 @@ Over time stations will probably fix their playback for Chrome and Opera, but I 
 * _Update 2017-04-24: It seems like most stations have fixed their playback for Chrome and Opera now._ 
 * _Update 2017-06-26: Actually, Chrome and Opera made an exception for ShoutCast. Still works though._
 
-## Troubleshooting:
-_The game crashes on exit!_
+### What is this program called?
+Sorry for not being very consistent. Let me tell a short story to explain:  
+It was called ETS2 Local Radio initially, with Local Radio being the short form. Then support for ATS came. 
+To make clear that it also supports ATS, I started using the name ATS/ETS2 Local Radio, ETS2/ATS Local Radio, Local Radio for ATS/ETS2 etc etc.
+Generally speaking, I use ETS2 Local Radio, but I'm not really consistent when it comes to naming.
 
+## Troubleshooting:
+###The game crashes on exit!
 This is caused by the d3d9.dll file, used to display the overlay.
 It can be fixed by either removing this file (which will disable the overlay), 
 or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
@@ -147,8 +140,7 @@ or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folde
 
 Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
 
-_Can't access it from another device_
-
+###Can't access it from another device
 Try restarting ATS/ETS2 Local Radio server.
 Please make sure your firewall is not blocking the connection. 
 If you use a different firewall that Windows Firewall, then please allow incoming connections on port 8330.
@@ -159,12 +151,10 @@ or just use [http://localhost:8330](http://localhost:8330).
 
 If it does not work on localhost either, then please try changing the default port in the `settings.json` file.
 
-_Can't connect to my computer's PeerID_
-
+###Can't connect to my computer's PeerID
 Try refreshing the webpage. Make sure you're using a modern web browser (preferably Firefox, Chrome or Opera) and your firewall does not block the connection.
 
-_It says the simulator is not running even though it is!_
-
+###It says the simulator is not running even though it is!
 This might be due to the fact that a dependency was not loaded properly.
 Please try the following:
 * Restart the game
@@ -195,21 +185,17 @@ and **restart your computer**
 then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
 `\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
 
-_The game crashes when changing the graphics settings_
-
+###The game crashes when changing the graphics settings
 Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
 
-_The editor will not load with the overlay installed_
-
+###The editor will not load with the overlay installed
 There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
 
-_Somethings else does not work!_
-
+###Somethings else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
 
 ## How to uninstall it:
-
 Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
 You will need to manually remove the following files from the ETS2/ATS installation directory as well:
 * `\bin\win_x64\d3d9.dll` 
