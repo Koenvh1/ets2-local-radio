@@ -131,7 +131,7 @@ To make clear that it also supports ATS, I started using the name ATS/ETS2 Local
 Generally speaking, I use ETS2 Local Radio, but I'm not really consistent when it comes to naming.
 
 ## Troubleshooting:
-###The game crashes on exit!
+### The game crashes on exit!
 This is caused by the d3d9.dll file, used to display the overlay.
 It can be fixed by either removing this file (which will disable the overlay), 
 or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
@@ -140,7 +140,7 @@ or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folde
 
 Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
 
-###Can't access it from another device
+### Can't access it from another device
 Try restarting ATS/ETS2 Local Radio server.
 Please make sure your firewall is not blocking the connection. 
 If you use a different firewall that Windows Firewall, then please allow incoming connections on port 8330.
@@ -151,10 +151,10 @@ or just use [http://localhost:8330](http://localhost:8330).
 
 If it does not work on localhost either, then please try changing the default port in the `settings.json` file.
 
-###Can't connect to my computer's PeerID
+### Can't connect to my computer's PeerID
 Try refreshing the webpage. Make sure you're using a modern web browser (preferably Firefox, Chrome or Opera) and your firewall does not block the connection.
 
-###It says the simulator is not running even though it is!
+### It says the simulator is not running even though it is!
 This might be due to the fact that a dependency was not loaded properly.
 Please try the following:
 * Restart the game
@@ -185,13 +185,13 @@ and **restart your computer**
 then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
 `\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
 
-###The game crashes when changing the graphics settings
+### The game crashes when changing the graphics settings
 Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
 
-###The editor will not load with the overlay installed
+### The editor will not load with the overlay installed
 There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
 
-###Somethings else does not work!
+### Somethings else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
 
