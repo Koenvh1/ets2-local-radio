@@ -1,7 +1,7 @@
 {
   "web": {
     "author": "",
-    "now-playing": "Speelt nu:",
+    "now-playing": "Nu speelt:",
     "connect-other-device": "Verbind met een ander apparaat",
     "coverage-map": "Dekkingskaart",
     "stop-playback": "Stop afspelen",
@@ -53,6 +53,6 @@
     "install-overlay": "Wil je de overlay voor in het spel installeren?\n(Dit zal een bestaande d3d9.dll overschrijven, en kan in uitzonderlijke gevallen het spel bij het afsluiten laten crashen)",
     "remove-overlay": "Wil je de overlay voor in het spel verwijderen?\n(Dit zal een bestaande d3d9.dll verwijderen)",
     "ets2-folder-dialog": "Kies alstublieft de ETS2/ATS-installatiemap, normaliter staat deze in C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2/American Truck Simulator}",
-    "now-playing": "Speelt nu:"
+    "now-playing": "Nu speelt:"
   }
 }
