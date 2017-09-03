@@ -64,6 +64,15 @@ function initialise() {
     refreshLanguage();
     refreshFavourites();
 
+    if(g_skinConfig.theme === "dark") {
+        $("#style-theme").remove();
+        $('<link />', {
+            id: 'style-theme',
+            rel: 'stylesheet',
+            href: 'lib/css/dark/style.css'
+        }).appendTo('head');
+    }
+
     setInterval(function () {
         $.getJSON("api/", function (data) {
             refresh(data);
@@ -621,6 +630,27 @@ function refreshLanguage() {
             if (data.web.hasOwnProperty(key)) {
                 $(".lang-" + key).html(data.web[key]);
             }
+        }
+        if(data.rtl){
+            $("html").attr("dir", "rtl");
+            if ( $('#style-rtl').length === 0 ) {
+                $('<link />', {
+                    id: 'style-rtl',
+                    rel: 'stylesheet',
+                    href: 'lib/css/bootstrap-rtl.css'
+                }).appendTo('head');
+            }
+            if ( $('#style-fa-rtl').length === 0 ) {
+                $('<link />', {
+                    id: 'style-fa-rtl',
+                    rel: 'stylesheet',
+                    href: 'lib/css/font-awesome-rtl.css'
+                }).appendTo('head');
+            }
+        } else {
+            $("html").attr("dir", "ltr");
+            $('#style-rtl').remove();
+            $('#style-fa-rtl').remove();
         }
     });
 }
