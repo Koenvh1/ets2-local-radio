@@ -1,5 +1,5 @@
 # ETS2 Local Radio settings
-
+**This document may be slightly outdated**  
 This document describes all settings for ETS2 Local Radio, and their function.
 
 ## Server
