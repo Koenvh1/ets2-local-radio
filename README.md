@@ -188,8 +188,9 @@ then please try to reinstall the plugin by pressing the "Install plugin" button,
 ### The game crashes when changing the graphics settings
 Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
 
-### The editor will not load with the overlay installed
+### The editor will not load/crashes randomly with the overlay installed
 There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
+Just uninstall the overlay before starting the editor.
 
 ### Something else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
