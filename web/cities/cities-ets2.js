@@ -5481,6 +5481,14 @@ var cities_wip = [
         "z": "41075"
     },
     {
+        "gameName": "ohrid",
+        "realName": "Охрид (Ohrid)",
+        "country": "Macedonia",
+        "x": "41871",
+        "y": "43",
+        "z": "54302"
+    },
+    {
         "gameName": "oppdal",
         "realName": "Oppdal",
         "country": "norway",
