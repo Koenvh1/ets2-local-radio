@@ -195,27 +195,32 @@ var stations = {
         {
             name: "VRT Radio 1",
             logo: "stations/images-europe/belgium-nl/VRT Radio 1.gif",
-            url: "http://mp3.streampower.be/radio1-high"
+            url: "http://icecast.vrtcdn.be/radio1-high.mp3"
+        },
+        {
+            name: "VRT Radio 2 Antwerpen",
+            logo: "stations/images-europe/belgium-nl/VRT Radio 2 Antwerpen.png",
+            url: "http://icecast.vrtcdn.be/ra2ant-high.mp3"
         },
         {
             name: "VRT Klara",
             logo: "stations/images-europe/belgium-nl/VRT Klara.png",
-            url: "http://mp3.streampower.be/klara-high"
+            url: "http://icecast.vrtcdn.be/klara-high.mp3"
+        },
+        {
+            name: "VRT Studio Brussel",
+            logo: "stations/images-europe/belgium-nl/VRT Studio Brussel.png",
+            url: "http://icecast.vrtcdn.be/stubru-high.mp3"
         },
         {
             name: "VRT MNM",
             logo: "stations/images-europe/belgium-nl/VRT MNM.png",
-            url: "http://mp3.streampower.be/mnm-high"
+            url: "http://icecast.vrtcdn.be/mnm-high.mp3"
         },
         {
             name: "Club FM",
             logo: "stations/images-europe/belgium-nl/Club FM.png",
             url: "http://www.clubfmserver.be:8000/clubfm.mp3"
-        },
-        {
-            name: "Radio 2 Antwerpen",
-            logo: "stations/images-europe/belgium-nl/Radio 2 Antwerpen.png",
-            url: "http://mp3.streampower.be/ra2ant-high.mp3"
         },
         {
             name: "Nostalgie (Vlaanderen)",
@@ -238,11 +243,6 @@ var stations = {
             url: "http://radiofg.impek.com:80/fga"
         },
         {
-            name: "Studio Brussel",
-            logo: "stations/images-europe/belgium-nl/Studio Brussel.png",
-            url: "http://mp3.streampower.be/stubru-high"
-        },
-        {
             name: "TOPradio",
             logo: "stations/images-europe/belgium-nl/TOPradio.png",
             url: "http://lb.topradio.be/topradio.mp3"
@@ -258,6 +258,11 @@ var stations = {
             name: "RTBF Classic 21",
             logo: "stations/images-europe/belgium-fr/RTBF Classic 21.png",
             url: "http://lapremiere.ice.rtbf.be/classic21-64.aac"
+        },
+        {
+            name: "RTBF Musiq 3",
+            logo: "stations/images-europe/belgium-fr/RTBF Musiq 3.png",
+            url: "https://radios.rtbf.be/musiq3-128.aac"
         },
         {
             name: "RTBF Pure FM",
@@ -1826,17 +1831,17 @@ var stations = {
         {
             name: "LRT 1",
             logo: "stations/images-europe/lithuania/LRT 1.jpg",
-            url: "http://82.135.234.195:8000/lr.mp3"
+            url: "http://lrt-radijas.data.lt/lrt_radijas/radio/playlist.m3u8"
         },
         {
             name: "LRT Klasika",
             logo: "stations/images-europe/lithuania/LRT Klasika.png",
-            url: "http://82.135.234.195:8000/klasika.mp3"
+            url: "http://lrt-klasika.data.lt/lrt_klasika/radio/playlist.m3u8"
         },
         {
-            name: "Opus 3",
-            logo: "stations/images-europe/lithuania/Opus 3.jpg",
-            url: "http://82.135.234.195:8000/opus3.mp3"
+            name: "LRT Opus",
+            logo: "stations/images-europe/lithuania/LRT Opus.png",
+            url: "http://lrt-opus.data.lt/lrt_opus/radio/playlist.m3u8"
         },
         {
             name: "Lietus",
@@ -2507,7 +2512,7 @@ var stations = {
         {
             name: "Rádio Jemné",
             logo: "stations/images-europe/slovakia/Rádio Jemné.jpg",
-            url: "http://stream.radioservices.sk:8001/jemne-hi.mp3"
+            url: "http://stream.jemne.sk/jemne-hi.mp3"
         },
         {
             name: "Rádio Vlna",
@@ -2633,7 +2638,7 @@ var stations = {
         {
             name: "Rock FM",
             logo: "stations/images-europe/spain/Rock FM.jpg",
-            url: "http://195.55.74.203/cope/rockfm.mp3?GKID=ea662d1ec70411e6b09d00163ea2c744"
+            url: "http://streamer012.p4.tlf2.mad.flumotion.net/cope/rockfm-low.mp3"
         },
     ],
     "sweden": [
@@ -2858,6 +2863,11 @@ var stations = {
             url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p"
         },
         {
+            name: "BBC Radio 1Xtra",
+            logo: "stations/images-europe/uk/BBC Radio 1Xtra.svg",
+            url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p"
+        },
+        {
             name: "BBC Radio 2",
             logo: "stations/images-europe/uk/BBC Radio 2.png",
             url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p"
@@ -2871,6 +2881,11 @@ var stations = {
             name: "BBC Radio 4",
             logo: "stations/images-europe/uk/BBC Radio 4.png",
             url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p"
+        },
+        {
+            name: "BBC Radio 4 Extra",
+            logo: "stations/images-europe/uk/BBC Radio 4 Extra.png",
+            url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p"
         },
         {
             name: "BBC Radio 5",
