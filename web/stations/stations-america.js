@@ -963,3 +963,483 @@ var stations = {
     ]
     */
 };
+
+var stations_mexico = {
+    "tijuana": [
+        {
+            name: "La Mejor 90.7 FM",
+            logo: "stations/images-america/tijuana/La Mejor 90.7 FM.png",
+            url: "http://17853.live.streamtheworld.com:3690/XHTIMAAC_SC"
+        },
+        {
+            name: "Radio Zion",
+            logo: "stations/images-america/tijuana/radiozion.png",
+            url: "http://166.88.21.98:9736/;"
+        },
+        {
+            name: "Cadena 800",
+            logo: "stations/images-america/tijuana/800.png",
+            url: "http://162.144.96.212:8000/cadena800"
+        },
+        {
+            name: "Invasora 94.5",
+            logo: "stations/images-america/tijuana/invasora.png",
+            url: "http://50.7.29.178:9308/;"
+        }
+    ],
+
+    "culiacan": [
+        {
+            name: "@FM",
+            logo: "stations/images-america/culiacan/@fm.png",
+            url: "http://stream2.dyndns.org:8000/xhin.mp3"
+        },
+        {
+            name: "La Comadre",
+            logo: "stations/images-america/culiacan/com.png",
+            url: "http://15383.live.streamtheworld.com/XHCLIFMAAC.aac?pname=StandardPlayerV4&pversion=4.16.0-002&tdsdk=js-2.9&banners=none&sbmid=51c83b0e-c0da-495f-c6c5-1a48d026c938"
+        },
+        {
+            name: "Maxiradio",
+            logo: "stations/images-america/culiacan/max.png",
+            url: "http://187.191.78.108:9000/maxima103"
+        },
+        {
+            name: "Exa FM",
+            logo: "stations/images-america/culiacan/exa.png",
+            url: "http://167.114.116.223:1082/;"
+        }
+    ],
+    "mexicali": [
+        {
+            name: "Los 40 Principales",
+            logo: "stations/images-america/mexicali/40.jpg",
+            url: "http://18703.live.streamtheworld.com/LOS40_MEXICO2AAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&streamtheworld_user=1&sbmid=466ea425-1080-4fcf-f7f3-25dca4702351"
+        },
+        {
+            name: "Radio Frontera",
+            logo: "stations/images-america/mexicali/abc.jpg",
+            url: "http://149.56.175.167:5367/;"
+        },
+        {
+            name: "La Dinámica",
+            logo: "stations/images-america/mexicali/din.png",
+            url: "http://stream2.dyndns.org:8000/xhsu.mp3"
+        },
+        {
+            name: "La Bestia Grupera",
+            logo: "stations/images-america/mexicali/best.png",
+            url: "http://s1.radiorama.com.mx:9558/;"
+        }
+    ],
+    "durango": [
+        {
+            name: "La Poderosa",
+            logo: "stations/images-america/durango/pod.png",
+            url: "http://stream2.dyndns.org:8000/xhwx.mp3"
+        },
+        {
+            name: "XHRPU",
+            logo: "stations/images-america/durango/xhr.png",
+            url: "http://audioout.gvstream.net/lazradio-durango.aac"
+        },
+        {
+            name: "Romántica",
+            logo: "stations/images-america/durango/rom.png",
+            url: "http://stream2.dyndns.org:8000/xedrd.mp3"
+        },
+        {
+            name: "Radio Universidad",
+            logo: "stations/images-america/durango/uni.png",
+            url: "http://200.23.125.55:8000/;"
+        }
+    ],
+    "ensenada": [
+        {
+            name: "XS 92.9 FM",
+            logo: "stations/images-america/ensenada/xs.png",
+            url: "http://108.163.173.130:18300/;"
+        },
+        {
+            name: "Cadena 100.3 FM",
+            logo: "stations/images-america/ensenada/100.png",
+            url: "http://162.144.96.212:8000/cadena1010"
+        },
+        {
+            name: "Radio Romance",
+            logo: "stations/images-america/ensenada/rom.png",
+            url: "http://67.212.189.122:8272/stream"
+        },
+        {
+            name: "Super 101.1",
+            logo: "stations/images-america/ensenada/sup.png",
+            url: "http://s1.radiorama.com.mx:9552/;"
+        }
+    ],
+    "loreto": [
+        {
+            name: "La Giganta 730 AM",
+            logo: "stations/images-america/loreto/gig.png",
+            url:
+                "http://www.radiolagiganta.com:8080/radiolagiganta"
+        }
+    ],
+    "cabo_sanluc": [
+        {
+            name: "Cabo Mil Radio",
+            logo: "stations/images-america/lucas/mil.png",
+            url:
+                "http://50.7.29.178:9976/;"
+        }
+    ],
+    "la_paz": [
+        {
+            name: "XEHZ Radio 990 AM",
+            logo: "stations/images-america/paz/xehz.png",
+            url: "http://www.xehz.com:8080/xehz"
+        },
+        {
+            name: "Alegría Mexicana",
+            logo: "stations/images-america/paz/al.png",
+            url: "http://www.alegriamexicana.com:8080/alegriamexicana"
+        },
+        {
+            name: "Romántica",
+            logo: "stations/images-america/paz/sup.png",
+            url: "http://www.panoramainformativo.com.mx:8080/panorama"
+        },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/paz/for.png",
+            url: "http://144.217.228.52:8000/lapaz"
+        }
+    ],
+    "sonoyta": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/sonoyta/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        }
+    ],
+    "puerto_pena": [
+        {
+            name: "Super 106.1",
+            logo: "stations/images-america/penasco/super.png",
+            url: "http://stream2.dyndns.org:8000/xhppo.mp3"
+        }
+    ],
+    "caborca": [
+        {
+            name: "La Gran Zeta",
+            logo: "stations/images-america/caborca/z.png",
+            url: "http://199.15.251.230:8062/stream"
+        },
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/caborca/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "max101",
+            logo: "stations/images-america/caborca/max.png",
+            url: "http://199.15.251.230:8039/stream"
+        },
+        {
+            name: "Radio La UK",
+            logo: "stations/images-america/caborca/uk.png",
+            url: "http://199.15.251.230:8071/stream"
+        }
+    ],
+    "santa_ana": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/ana/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        }
+    ],
+    "cananea": [
+        {
+            name: "Toño 104.7 FM",
+            logo: "stations/images-america/cananea/to.png",
+            url: "http://198.27.64.106:8440/;stream.mp3"
+        }
+    ],
+    "h_nogales": [
+        {
+            name: "La Mejor FM",
+            logo: "stations/images-america/hnogales/mej.png",
+            url: "http://16693.live.streamtheworld.com/XHNGS?streamtheworld_user=1&uuid=16F67C00%2D0000%2D0001%2D6DB7%2D11501C09100E&nobuf=1504892494295"
+        },
+        {
+            name: "Exa FM 102.7 Nogales",
+            logo: "stations/images-america/hnogales/exa.png",
+            url: "http://15373.live.streamtheworld.com:3690/XHQT_SC"
+        },
+        {
+            name: "Sin Límites",
+            logo: "stations/images-america/hnogales/li.png",
+            url: "http://stream2.dyndns.org:8000/xhsn.mp3"
+        },
+        {
+            name: "Radio XENY",
+            logo: "stations/images-america/hnogales/xen.png",
+            url: "http://5.196.100.166:9958/stream"
+        }
+    ],
+    "agua_prieta": [
+        {
+            name: "Exa FM 99.9 Agua Prieta",
+            logo: "stations/images-america/aguap/exa.png",
+            url: "http://16693.live.streamtheworld.com/XHNGS?streamtheworld_user=1&uuid=16F67C00%2D0000%2D0001%2D6DB7%2D11501C09100E&nobuf=1504892494295"
+        },
+        {
+            name: "La Ranchera",
+            logo: "stations/images-america/aguap/ran.png",
+            url: "http://zer.zuperdns.net:9730/;"
+        },
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/aguap/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        }
+    ],
+    "moctezuma": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/moctezuma/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        }
+    ],
+    "hermosillo": [
+        {
+            name: "Politica & Rock N Roll Radio",
+            logo: "stations/images-america/hermosillo/rr.png",
+            url: "http://50.22.218.101:19124/;"
+        },
+        {
+            name: "El Chiltepin Radio",
+            logo: "stations/images-america/hermosillo/ch.png",
+            url: "http://s4.mexside.net:4024/;"
+        },
+        {
+            name: "Stereo FM",
+            logo: "stations/images-america/hermosillo/st.png",
+            url: "http://50.7.29.178:9314/;"
+        },
+        {
+            name: "Zoom95",
+            logo: "stations/images-america/hermosillo/zoom.png",
+            url: "http://167.114.64.181:8486/;"
+        }
+    ],
+    "yecora": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/yecora/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        }
+    ],
+    "guaymas": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/guaymas/son.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "Digital 99.5",
+            logo: "stations/images-america/guaymas/dig.png",
+            url: "http://173.244.209.219:8035/;"
+        },
+        {
+            name: "La Super Grupera",
+            logo: "stations/images-america/guaymas/su.png",
+            url: "http://173.244.209.219:8062/;"
+        },
+        {
+            name: "La que Manda",
+            logo: "stations/images-america/guaymas/man.png",
+            url: "http://207.38.82.198:8000/rvisac"
+        }
+    ],
+    "navojoa": [
+        {
+            name: "KE 104.5",
+            logo: "stations/images-america/navojoa/ke.png",
+            url: "http://50.7.29.178:9324/;"
+        }
+    ],
+    "cd_obregon": [
+        {
+            name: "La Invasora",
+            logo: "stations/images-america/obregon/inv.png",
+            url: "http://50.7.29.178:9320/;"
+        },
+        {
+            name: "MAXIMA 97.7",
+            logo: "stations/images-america/obregon/max.png",
+            url: "http://www.tuasesorweb.com:8020/;"
+        },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/obregon/for.png",
+            url: "http://stream2.dyndns.org:8000/xhiq.mp3"
+        },
+        {
+            name: "La Mía",
+            logo: "stations/images-america/obregon/mia.png",
+            url: "http://50.7.29.178:9573/;"
+        }
+    ],
+    "los_mochis": [
+        {
+            name: "La Z",
+            logo: "stations/images-america/mochis/z.png",
+            url: "http://stream2.dyndns.org:8000/xhecu.mp3"
+        },
+        {
+            name: "La Nueva 90.1 FM",
+            logo: "stations/images-america/mochis/nv.png",
+            url: "http://stream2.dyndns.org:8000/xemil.mp3"
+        },
+        {
+            name: "RADIO UDEO",
+            logo: "stations/images-america/mochis/ud.png",
+            url: "http://149.56.195.94:8169/;"
+        },
+        {
+            name: "Planeta",
+            logo: "stations/images-america/mochis/pla.png",
+            url: "http://stream3.dyndns.org:8000/xhorf.mp3"
+        },
+        {
+            name: "Stereo Uno",
+            logo: "stations/images-america/mochis/uno.png",
+            url: "http://149.202.198.86:1031/;"
+        }
+    ],
+    "guasave": [
+        {
+            name: "La Mera Jefa",
+            logo: "stations/images-america/guasave/jef.png",
+            url: "http://192.99.16.17:8804/stream"
+        }
+    ],
+    "guamuchil": [
+        {
+            name: "Guamúchil Digital",
+            logo: "stations/images-america/guamuchil/dig.png",
+            url: "http://laroscalinux.dnsalias.com:8012/;"
+        }
+    ],
+    "mazatlan": [
+        {
+            name: "La Mejor 102.7 FM",
+            logo: "stations/images-america/mazatlan/mej.png",
+            url: "http://167.114.116.223:1093/;"
+        },
+        {
+            name: "@FM",
+            logo: "stations/images-america/mazatlan/fm.png",
+            url: "http://stream2.dyndns.org:8000/xhzs.mp3"
+        },
+        {
+            name: "Magia Digital",
+            logo: "stations/images-america/mazatlan/dig.png",
+            url: "http://p-audio-11.radpog.com/play/20.mp3"
+        },
+        {
+            name: "Studio 93.1",
+            logo: "stations/images-america/mazatlan/stu.png",
+            url: "http://radio.spiritmedia.mx:8000/xhmzt"
+        }
+    ],
+    "gomez_p": [
+        {
+            name: "La Mexicana 105.1 FM",
+            logo: "stations/images-america/gomez/mex.png",
+            url: "http://sts.aplradiorama.mx/xhyd.mp3"
+        },
+        {
+            name: "Vida Romántica FM",
+            logo: "stations/images-america/gomez/ro.png",
+            url: "http://sts.aplradiorama.mx/xhvk.mp3"
+        },
+        {
+            name: "La Poderosa 98.3",
+            logo: "stations/images-america/gomez/pod.png",
+            url: "http://sts.aplradiorama.mx/xhbf.mp3"
+        }
+    ],
+    "guanacevi": [
+        {
+            name: "Radio Universidad 100.5 FM",
+            logo: "stations/images-america/guanacevi/uni.png",
+            url: "http://200.23.125.55:8000/;stream.nsv;stream/1"
+        }
+    ],
+    "villa_h": [
+        {
+            name: "Lobos FM Durango",
+            logo: "stations/images-america/hugo/lob.png",
+            url: "http://50.7.98.234:9300/;stream.mp3"
+        }
+    ],
+    "el_rosario": [
+        {
+            name: "La Rocola",
+            logo: "stations/images-america/rosario/roc.png",
+            url: "http://stream2.dyndns.org:8000/xecl.mp3"
+        }
+    ],
+    "punta_prie": [
+        {
+            name: "UABC",
+            logo: "stations/images-america/pprieta/ua.png",
+            url: "http://148.231.3.56/mxl"
+        }
+    ],
+    "san_felipe": [
+        {
+            name: "Radio Latina 104.5",
+            logo: "stations/images-america/felipe/lat.png",
+            url: "http://18623.live.streamtheworld.com/XLTNFM_SC"
+        }
+    ],
+    "bahia_tortu": [
+        {
+            name: "XEUBS",
+            logo: "stations/images-america/tortugas/xe.png",
+            url: "http://listen1.mixlr.com/9e469390ac643bcbbdaff18b9cc95193"
+        }
+    ],
+    "guerrero_ne": [
+        {
+            name: "Super Stereo 96",
+            logo: "stations/images-america/gnegro/st.png",
+            url: "http://www.superstereo96.com:8080/superstereo96"
+        }
+    ],
+    "puerto_sanc": [
+        {
+            name: "99.1 La Paz",
+            logo: "stations/images-america/sancarlos/99.png",
+            url: "http://142.4.216.91:8106/;"
+        }
+    ],
+    "punta_abreo": [
+        {
+            name: "Radio Fórmula",
+            logo:"stations/images-america/abreojos/for.png",
+            url:"http://144.217.228.52:8000/lapaz"
+        }
+    ],
+    "santa_rosa": [
+        {
+            name: "XESJC",
+            logo: "stations/images-america/rosalia/xes.png",
+            url: "http://www.kvoz.com:8080/kvoz"
+        }
+    ]
+};
+
+stations = $.extend(stations, stations_mexico);

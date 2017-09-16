@@ -854,6 +854,640 @@ var cities = [
     }
 ];
 
+var country_properties_mexico = {
+
+    "tijuana": {
+        name: "Tijuana",
+        name_english: "Tijuana",
+        code: "mx-bcn",
+        relative_radius: 1.3
+    },
+    "durango": {
+        name: "Durango",
+        name_english: "Durango",
+        code: "mx-dur",
+        relative_radius: 1.3
+    },
+    "culiacan": {
+        name: "Culiacán",
+        name_english: "Culiacan",
+        code: "mx-sin",
+        relative_radius: 1.3
+    },
+    "mexicali": {
+        name: "Mexicali",
+        name_english: "Mexicali",
+        code: "mx-bcn",
+        relative_radius: 1.3
+    },
+    "ensenada": {
+        name: "Ensenada",
+        name_english: "Ensenada",
+        code: "mx-bcn",
+        relative_radius: 1.3
+    },
+    "san_felipe": {
+        name: "San Felipe",
+        name_english: "San Felipe",
+        code: "mx-bcn",
+        relative_radius: 1.2
+    },
+    "el_rosario": {
+        name: "El Rosario",
+        name_english: "El Rosario",
+        code: "mx-bcn",
+        relative_radius: 1.2
+    },
+    "punta_prie": {
+        name: "Punta Prieta",
+        name_english: "Punta Prieta",
+        code: "mx-bcn",
+        relative_radius: 1.2
+    },
+    "agua_prieta": {
+        name: "Agua Prieta",
+        name_english: "Agua Prieta",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "bahia_tortu": {
+        name: "Bahía Tortugas",
+        name_english: "Bahia Tortugas",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "caborca": {
+        name: "Caborca",
+        name_english: "Caborca",
+        code: "mx-son",
+        relative_radius: 1.3
+    },
+    "cabo_sanluc": {
+        name: "Cabo San Lucas",
+        name_english: "Cabo San Lucas",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "cananea": {
+        name: "Cananea",
+        name_english: "Cananea",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "cd_obregon": {
+        name: "CD. Obregón",
+        name_english: "CD. Obregon",
+        code: "mx-son",
+        relative_radius: 1.3
+    },
+    "el_rosario": {
+        name: "El Rosario",
+        name_english: "El Rosario",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "gomez_p": {
+        name: "Gómez Palacio",
+        name_english: "Gomez Palacio",
+        code: "mx-dur",
+        relative_radius: 1.3
+    },
+    "guamuchil": {
+        name: "Guamúchil",
+        name_english: "Guamuchil",
+        code: "mx-sin",
+        relative_radius: 1.2
+    },
+    "guanacevi": {
+        name: "Guanaceví",
+        name_english: "Guanacevi",
+        code: "mx-dur",
+        relative_radius: 1.2
+    },
+    "guasave": {
+        name: "Guasave",
+        name_english: "Guasave",
+        code: "mx-sin",
+        relative_radius: 1.2
+    },
+    "guaymas": {
+        name: "Guaymas",
+        name_english: "Guaymas",
+        code: "mx-son",
+        relative_radius: 1.3
+    },
+    "guerrero_ne": {
+        name: "Guerrero Negro",
+        name_english: "Guerrero Negro",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "hermosillo": {
+        name: "Hermosillo",
+        name_english: "Hermosillo",
+        code: "mx-son",
+        relative_radius: 1.3
+    },
+    "h_nogales": {
+        name: "H. Nogales",
+        name_english: "H. Nogales",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "la_paz": {
+        name: "La Paz",
+        name_english: "La Paz",
+        code: "mx-bcs",
+        relative_radius: 1.3
+    },
+    "loreto": {
+        name: "Loreto",
+        name_english: "Loreto",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "los_mochis": {
+        name: "Los Mochis",
+        name_english: "Los Mochis",
+        code: "mx-sin",
+        relative_radius: 1.3
+    },
+    "mazatlan": {
+        name: "Mazatlán",
+        name_english: "Mazatlan",
+        code: "mx-sin",
+        relative_radius: 1.3
+    },
+    "moctezuma": {
+        name: "Moctezuma",
+        name_english: "Moctezuma",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "navojoa": {
+        name: "Navojoa",
+        name_english: "Navojoa",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "puerto_pena": {
+        name: "Puerto Peñasco",
+        name_english: "Puerto Penasco",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "puerto_sanc": {
+        name: "Puerto San Carlos",
+        name_english: "Puerto San Carlos",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "punta_abreo": {
+        name: "Punta Abreojos",
+        name_english: "Punta Abreojos",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+    "santa_ana": {
+        name: "Santa Ana",
+        name_english: "Santa Ana",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+    "santa_rosa": {
+        name: "Santa Rosalía",
+        name_english: "Santa Rosalia",
+        code: "mx-bcs",
+        relative_radius: 1.2
+    },
+
+    "sonoyta": {
+        name: "Sonoyta",
+        name_english: "Sonoyta",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+
+    "villa_h": {
+        name: "Villa Hgo",
+        name_english: "Villa Hgo",
+        code: "mx-dur",
+        relative_radius: 1.2
+    },
+    "yecora": {
+        name: "Yécora",
+        name_english: "Yecora",
+        code: "mx-son",
+        relative_radius: 1.2
+    },
+};
+
+var city_properties_mexico = {
+    "tijuana": {
+        relative_whitenoise: 0.95
+    },
+    "culiacan": {
+        relative_whitenoise: 0.95
+    },
+    "durango": {
+        relative_whitenoise: 0.95
+    },
+    "mexicali": {
+        relative_whitenoise: 0.95
+    },
+    "ensenada": {
+        relative_whitenoise: 0.95
+    },
+    "san_felipe": {
+        relative_whitenoise: 0.95
+    },
+    "el_rosario": {
+        relative_whitenoise: 0.95
+    },
+    "punta_prie": {
+        relative_whitenoise: 0.95
+    },
+    "agua_prieta": {
+        relative_whitenoise: 0.95
+    },
+    "bahia_tortu": {
+        relative_whitenoise: 0.95
+    },
+    "caborca": {
+        relative_whitenoise: 0.95
+    },
+    "cabo_sanluc": {
+        relative_whitenoise: 0.95
+    },
+    "cananea": {
+        relative_whitenoise: 0.95
+    },
+    "cd_obregon": {
+        relative_whitenoise: 0.95
+    },
+    "gomez_p": {
+        relative_whitenoise: 0.95
+    },
+    "guamuchil": {
+        relative_whitenoise: 0.95
+    },
+    "guanacevi": {
+        relative_whitenoise: 0.95
+    },
+    "guasave": {
+        relative_whitenoise: 0.95
+    },
+    "guaymas": {
+        relative_whitenoise: 0.95
+    },
+    "guerrero_ne": {
+        relative_whitenoise: 0.95
+    },
+    "hermosillo": {
+        relative_whitenoise: 0.95
+    },
+    "h_nogales": {
+        relative_whitenoise: 0.95
+    },
+    "la_paz": {
+        relative_whitenoise: 0.95
+    },
+    "loreto": {
+        relative_whitenoise: 0.95
+    },
+    "los_mochis": {
+        relative_whitenoise: 0.95
+    },
+    "mazatlan": {
+        relative_whitenoise: 0.95
+    },
+    "moctezuma": {
+        relative_whitenoise: 0.95
+    },
+    "navojoa": {
+        relative_whitenoise: 0.95
+    },
+    "puerto_pena": {
+        relative_whitenoise: 0.95
+    },
+    "puerto_sanc": {
+        relative_whitenoise: 0.95
+    },
+    "punta_abreo": {
+        relative_whitenoise: 0.95
+    },
+    "santa_ana": {
+        relative_whitenoise: 0.95
+    },
+    "santa_rosa": {
+        relative_whitenoise: 0.95
+    },
+    "sonoyta": {
+        relative_whitenoise: 0.95
+    },
+    "villa_h": {
+        relative_whitenoise: 0.95
+    },
+    "yecora": {
+        relative_whitenoise: 0.95
+    },
+};
+
+var cities_mexico = [
+    {
+        "gameName": "tijuana",
+        "realName": "Tijuana",
+        "country": "bajacalifo",
+        "x": "-99148.6",
+        "y": "49.7773",
+        "z": "26168.6"
+    },
+    {
+        "gameName": "culiacan",
+        "realName": "Culiacan",
+        "country": "sinaloa",
+        "x": "-59247.3",
+        "y": "31.6797",
+        "z": "78285.8"
+    },
+    {
+        "gameName": "durango",
+        "realName": "Durango",
+        "country": "durango",
+        "x": "-45551.9",
+        "y": "82.9336",
+        "z": "84334.9"
+    },
+    {
+        "gameName": "mexicali",
+        "realName": "Mexicali",
+        "country": "bajacalifo",
+        "x": "-91576.9",
+        "y": "49.418",
+        "z": "27217.7"
+    },
+    {
+        "gameName": "ensenada",
+        "realName": "Ensenada",
+        "country": "bajacalifo",
+        "x": "-98139.2",
+        "y": "50.1133",
+        "z": "29962.7"
+    },
+    {
+        "gameName": "san_felipe",
+        "realName": "San Felipe",
+        "country": "bajacalifo",
+        "x": "-90542.5",
+        "y": "50.0117",
+        "z": "36274.5"
+    },
+    {
+        "gameName": "el_rosario",
+        "realName": "El Rosario",
+        "country": "bajacalifo",
+        "x": "-96032.1",
+        "y": "44.6016",
+        "z": "40800.4"
+    },
+    {
+        "gameName": "punta_prie",
+        "realName": "Punta Prieta",
+        "country": "bajacalifo",
+        "x": "-89711.4",
+        "y": "44.4961",
+        "z": "48825.6"
+    },
+    {
+        "gameName": "agua_prieta",
+        "realName": "Agua Prieta",
+        "country": "soonooraaa",
+        "x": "-66289.2",
+        "y": "110.359",
+        "z": "39137.9"
+    },
+    {
+        "gameName": "bahia_tortu",
+        "realName": "Bahia Tortugas",
+        "country": "bajacalisu",
+        "x": "-95133.8",
+        "y": "133.832",
+        "z": "54815.3"
+    },
+    {
+        "gameName": "caborca",
+        "realName": "Caborca",
+        "country": "soonooraaa",
+        "x": "-79152.9",
+        "y": "95.625",
+        "z": "40151.9"
+    },
+    {
+        "gameName": "cabo_sanluc",
+        "realName": "Cabo San Lucas",
+        "country": "bajacalisu",
+        "x": "-73320.7",
+        "y": "46.5703",
+        "z": "86837.2"
+    },
+    {
+        "gameName": "cananea",
+        "realName": "Cananea",
+        "country": "soonooraaa",
+        "x": "-69907",
+        "y": "88.5703",
+        "z": "40315.2"
+    },
+    {
+        "gameName": "cd_obregon",
+        "realName": "CD. Obregon",
+        "country": "soonooraaa",
+        "x": "-70636.1",
+        "y": "50.0313",
+        "z": "61058.9"
+    },
+    {
+        "gameName": "gomez_p",
+        "realName": "Gomez Palacios",
+        "country": "durango",
+        "x": "-38900.1",
+        "y": "82.9336",
+        "z": "75964.5"
+    },
+    {
+        "gameName": "guamuchil",
+        "realName": "Guamuchil",
+        "country": "sinaloa",
+        "x": "-62492.3",
+        "y": "49.9297",
+        "z": "74015.6"
+    },
+    {
+        "gameName": "guanacevi",
+        "realName": "Guanacevi",
+        "country": "durango",
+        "x": "-51533.1",
+        "y": "82.9336",
+        "z": "72217.9"
+    },
+    {
+        "gameName": "guasave",
+        "realName": "Guasave",
+        "country": "sinaloa",
+        "x": "-64392",
+        "y": "49.9297",
+        "z": "72868.6"
+    },
+    {
+        "gameName": "guaymas",
+        "realName": "Guaymas",
+        "country": "soonooraaa",
+        "x": "-75161.3",
+        "y": "57.918",
+        "z": "56623.3"
+    },
+    {
+        "gameName": "guerrero_ne",
+        "realName": "Guerrero Negro",
+        "country": "bajacalisu",
+        "x": "-90810.4",
+        "y": "76.3398",
+        "z": "54358.2"
+    },
+    {
+        "gameName": "hermosillo",
+        "realName": "Hermosillo",
+        "country": "soonooraaa",
+        "x": "-74603.3",
+        "y": "49.9297",
+        "z": "50492.1"
+    },
+    {
+        "gameName": "h_nogales",
+        "realName": "H. Nogales",
+        "country": "soonooraaa",
+        "x": "-73256.1",
+        "y": "108.121",
+        "z": "37728.7"
+    },
+    {
+        "gameName": "la_paz",
+        "realName": "La Paz",
+        "country": "bajacalisu",
+        "x": "-75041.6",
+        "y": "47.2266",
+        "z": "79470.5"
+    },
+    {
+        "gameName": "loreto",
+        "realName": "Loreto",
+        "country": "bajacalisu",
+        "x": "-78850.3",
+        "y": "50",
+        "z": "68185.9"
+    },
+    {
+        "gameName": "los_mochis",
+        "realName": "Los Mochis",
+        "country": "sinaloa",
+        "x": "-67160.2",
+        "y": "82.9336",
+        "z": "71272.9"
+    },
+    {
+        "gameName": "mazatlan",
+        "realName": "Mazatlan",
+        "country": "sinaloa",
+        "x": "-54636.9",
+        "y": "82.9336",
+        "z": "87855.1"
+    },
+    {
+        "gameName": "moctezuma",
+        "realName": "Moctezuma",
+        "country": "soonooraaa",
+        "x": "-67626.8",
+        "y": "57.832",
+        "z": "47166.7"
+    },
+    {
+        "gameName": "navojoa",
+        "realName": "Navojoa",
+        "country": "soonooraaa",
+        "x": "-68552.6",
+        "y": "50.0195",
+        "z": "64116.6"
+    },
+    {
+        "gameName": "puerto_pena",
+        "realName": "Puerto Penasco",
+        "country": "soonooraaa",
+        "x": "-84643.3",
+        "y": "78.4609",
+        "z": "34661.3"
+    },
+    {
+        "gameName": "puerto_sanc",
+        "realName": "Puerto San Carlos",
+        "country": "bajacalisu",
+        "x": "-84189.7",
+        "y": "49.9102",
+        "z": "74404.8"
+    },
+    {
+        "gameName": "punta_abreo",
+        "realName": "Punta Abreojos",
+        "country": "bajacalisu",
+        "x": "-89163.6",
+        "y": "49.4453",
+        "z": "61505.1"
+    },
+    {
+        "gameName": "santa_ana",
+        "realName": "Santa Ana",
+        "country": "soonooraaa",
+        "x": "-74493.6",
+        "y": "95.625",
+        "z": "41979.7"
+    },
+    {
+        "gameName": "santa_rosa",
+        "realName": "Santa Rosalia",
+        "country": "bajacalisu",
+        "x": "-81985",
+        "y": "55.4961",
+        "z": "59883"
+    },
+    {
+        "gameName": "sonoyta",
+        "realName": "Sonoyta",
+        "country": "soonooraaa",
+        "x": "-81177.1",
+        "y": "95.7148",
+        "z": "32482.3"
+    },
+    {
+        "gameName": "villa_h",
+        "realName": "Villa Hgo",
+        "country": "durango",
+        "x": "-45566.1",
+        "y": "82.9336",
+        "z": "70913.8"
+    },
+    {
+        "gameName": "yecora",
+        "realName": "Yecora",
+        "country": "soonooraaa",
+        "x": "-63192",
+        "y": "-33.5",
+        "z": "56129.7"
+    }
+];
+
+country_properties = $.extend(country_properties, country_properties_mexico);
+city_properties = $.extend(city_properties, city_properties_mexico);
+cities = cities.concat(cities_mexico);
+
 //Set country to gameName, because stations are bound to a city.
 for(var i = 0; i < cities.length; i++){
     cities[i].country = cities[i].gameName;
