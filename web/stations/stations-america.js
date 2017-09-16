@@ -690,7 +690,7 @@ var stations = {
         {
             name: "KCLU",
             logo: "stations/images-america/santa_maria/KCLU.png",
-            url: "http://kclu2.callutheran.edu:8090/;"
+            url: "http://kclustream.callutheran.edu:8090/kclump3"
         },
         {
             name: "CSN",

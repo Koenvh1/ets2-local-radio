@@ -188,7 +188,7 @@ var stations = {
         {
             name: "Пилот FM",
             logo: "stations/images-europe/belarus/Пилот FM.png",
-            url: "http://pf.volna.top/PilotBy128"
+            url: "https://pf.volna.top/PilotBy48"
         },
     ],
     "belgium-nl": [
@@ -252,12 +252,12 @@ var stations = {
         {
             name: "RTBF La Première",
             logo: "stations/images-europe/belgium-fr/RTBF La Première.png",
-            url: "http://lapremiere.ice.rtbf.be/lapremiere-64.aac"
+            url: "http://radios.rtbf.be/lapremiere-64.aac"
         },
         {
             name: "RTBF Classic 21",
             logo: "stations/images-europe/belgium-fr/RTBF Classic 21.png",
-            url: "http://lapremiere.ice.rtbf.be/classic21-64.aac"
+            url: "http://radios.rtbf.be/classic21-64.aac"
         },
         {
             name: "RTBF Musiq 3",
@@ -267,7 +267,12 @@ var stations = {
         {
             name: "RTBF Pure FM",
             logo: "stations/images-europe/belgium-fr/RTBF Pure FM.png",
-            url: "http://lapremiere.ice.rtbf.be/purefm-64.aac"
+            url: "http://radios.rtbf.be/purefm-64.aac"
+        },
+        {
+            name: "RTBF Vivacité",
+            logo: "stations/images-europe/belgium-fr/RTBF Vivacité.png",
+            url: "http://radios.rtbf.be/vivabxl-64.aac"
         },
         {
             name: "Bel RTL",
@@ -1466,17 +1471,17 @@ var stations = {
         {
             name: "MR1-Kossuth Rádió",
             logo: "stations/images-europe/hungary/MR1-Kossuth Rádió.jpg",
-            url: "http://stream001.radio.hu:8080/mr1.mp3"
+            url: "http://icast.connectmedia.hu/4726/mr1ex.mp3"
         },
         {
             name: "MR2-Petofi Rádió",
             logo: "stations/images-europe/hungary/MR2-Petofi Rádió.jpeg",
-            url: "http://stream001.radio.hu:8080/mr2.mp3"
+            url: "http://icast.connectmedia.hu/4738/mr2.mp3"
         },
         {
             name: "MR3-Bartók Rádió",
             logo: "stations/images-europe/hungary/MR3-Bartók Rádió.png",
-            url: "http://stream001.radio.hu:8080/mr3.mp3"
+            url: "http://mr-stream.mediaconnect.hu/4741/mr3.mp3"
         },
         {
             name: "Class FM",
@@ -1484,7 +1489,7 @@ var stations = {
             url: "http://icast.connectmedia.hu/4784/live.mp3"
         },
         {
-            name: "Dankó Rádió",
+            name: "MR6-Dankó Rádió",
             logo: "stations/images-europe/hungary/Dankó Rádió.png",
             url: "http://icast.connectmedia.hu/4748/mr7.mp3"
         },
@@ -2471,6 +2476,11 @@ var stations = {
             name: "Радио Београд 202",
             logo: "stations/images-europe/serbia/Радио Београд 202.jpg",
             url: "http://rts.ipradio.rs:8006/;"
+        },
+        {
+            name: "Hit FM",
+            logo: "stations/images-europe/serbia/Hit FM.png",
+            url: "http://streaming.hitfm.rs:8000/hit"
         },
         {
             name: "Play Radio",

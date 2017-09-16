@@ -464,6 +464,9 @@ var city_properties = {
     "brno": {
         relative_whitenoise: 0.85,
     },
+    "brussel": {
+        relative_whitenoise: 0.90,
+    },
     "bryansk": {
         relative_radius: 1.6,
     },
@@ -644,7 +647,7 @@ var city_properties = {
         relative_radius: 0.8,
     },
     "lille": {
-        relative_radius: 0.5,
+        relative_radius: 0.6,
     },
     "limoges": {
         relative_radius: 2,
@@ -5243,6 +5246,14 @@ var cities_wip = [
     {
         "gameName": "fraserburgh",
         "realName": "Fraserburgh",
+        "country": "scotland",
+        "x": "-36780.7",
+        "y": "50",
+        "z": "-58295.03"
+    },
+    {
+        "gameName": "fraserburgh",
+        "realName": "Fraserburgh",
         "country": "uk",
         "x": "-36780.7",
         "y": "50",
@@ -5623,6 +5634,14 @@ var cities_wip = [
         "x": "42142.70",
         "y": "73",
         "z": "-95641.80"
+    },
+    {
+        "gameName": "stranraer",
+        "realName": "Stranraer",
+        "country": "scotland",
+        "x": "-55082.47",
+        "y": "21.61",
+        "z": "-41963.15"
     },
     {
         "gameName": "stranraer",
