@@ -2254,11 +2254,13 @@ var stations = {
             logo: "stations/images-europe/poland/Radio VOX FM.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
         },
+        /*
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "http://acdn.smcloud.net/t050-1.aac"
+            url: "http://acdn.smcloud.net/t050-2.aac"
         },
+        */
         {
             name: "Radio Zet",
             logo: "stations/images-europe/poland/Radio Zet.svg",
