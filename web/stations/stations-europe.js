@@ -2487,6 +2487,16 @@ var stations = {
             logo: "stations/images-europe/serbia/Play Radio.png",
             url: "http://stream.playradio.rs:8001/play.mp3"
         },
+        {
+            name: "Radio S1",
+            logo: "stations/images-europe/serbia/Radio S1.png",
+            url: "http://edge-rs-01.maksnet.tv/asmedia/radios/playlist.m3u8"
+        },
+        {
+            name: "Radio S2",
+            logo: "stations/images-europe/serbia/Radio S2.png",
+            url: "http://edge-rs-01.maksnet.tv/asmedia/index/playlist.m3u8"
+        },
     ],
     "slovakia": [
         {
