@@ -252,7 +252,7 @@ var stations = {
         {
             name: "RTBF La Première",
             logo: "stations/images-europe/belgium-fr/RTBF La Première.png",
-            url: "http://radios.rtbf.be/lapremiere-64.aac"
+            url: "http://radios.rtbf.be/laprem1ere-64.aac"
         },
         {
             name: "RTBF Classic 21",
@@ -267,7 +267,7 @@ var stations = {
         {
             name: "RTBF Pure FM",
             logo: "stations/images-europe/belgium-fr/RTBF Pure FM.png",
-            url: "http://radios.rtbf.be/purefm-64.aac"
+            url: "http://radios.rtbf.be/pure-64.aac"
         },
         {
             name: "RTBF Vivacité",
@@ -304,7 +304,7 @@ var stations = {
         {
             name: "Bobar Radio",
             logo: "stations/images-europe/bosnia/Bobar Radio.png",
-            url: "http://51.254.61.148:9111/;"
+            url: "http://94.130.11.28:8000/;"
         },
         {
             name: "Radiopostaja Mir Međugorje",
@@ -2618,7 +2618,7 @@ var stations = {
         {
             name: "Cope",
             logo: "stations/images-europe/spain/Cope.png",
-            url: "http://195.10.10.221/cope/net1.mp3"
+            url: "http://195.55.74.210/cope/net1.mp3?GKID=6c94b3f49d7511e7bbd900163e914f69&fspref=aHR0cDovL3d3dy5jb3BlLmVzL2RpcmVjdG9zL25ldDE%3D"
         },
         {
             name: "Europa FM",
@@ -2660,7 +2660,7 @@ var stations = {
         {
             name: "Rock FM",
             logo: "stations/images-europe/spain/Rock FM.jpg",
-            url: "http://streamer012.p4.tlf2.mad.flumotion.net/cope/rockfm-low.mp3"
+            url: "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8"
         },
     ],
     "sweden": [

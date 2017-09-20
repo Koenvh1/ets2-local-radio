@@ -969,7 +969,7 @@ var stations_mexico = {
         {
             name: "La Mejor 90.7 FM",
             logo: "stations/images-america/tijuana/La Mejor 90.7 FM.png",
-            url: "http://17853.live.streamtheworld.com:3690/XHTIMAAC_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHTIMAAC"
         },
         {
             name: "Radio Zion",
@@ -997,7 +997,7 @@ var stations_mexico = {
         {
             name: "La Comadre",
             logo: "stations/images-america/culiacan/com.png",
-            url: "http://15383.live.streamtheworld.com/XHCLIFMAAC.aac?pname=StandardPlayerV4&pversion=4.16.0-002&tdsdk=js-2.9&banners=none&sbmid=51c83b0e-c0da-495f-c6c5-1a48d026c938"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHCLIFMAAC"
         },
         {
             name: "Maxiradio",
@@ -1014,7 +1014,7 @@ var stations_mexico = {
         {
             name: "Los 40 Principales",
             logo: "stations/images-america/mexicali/40.jpg",
-            url: "http://18703.live.streamtheworld.com/LOS40_MEXICO2AAC.aac?csegid=2000&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&streamtheworld_user=1&sbmid=466ea425-1080-4fcf-f7f3-25dca4702351"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=LOS40_MEXICO2AAC"
         },
         {
             name: "Radio Frontera",
@@ -1168,12 +1168,12 @@ var stations_mexico = {
         {
             name: "La Mejor FM",
             logo: "stations/images-america/hnogales/mej.png",
-            url: "http://16693.live.streamtheworld.com/XHNGS?streamtheworld_user=1&uuid=16F67C00%2D0000%2D0001%2D6DB7%2D11501C09100E&nobuf=1504892494295"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHNGS"
         },
         {
             name: "Exa FM 102.7 Nogales",
             logo: "stations/images-america/hnogales/exa.png",
-            url: "http://15373.live.streamtheworld.com:3690/XHQT_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHQT"
         },
         {
             name: "Sin Límites",
@@ -1190,7 +1190,7 @@ var stations_mexico = {
         {
             name: "Exa FM 99.9 Agua Prieta",
             logo: "stations/images-america/aguap/exa.png",
-            url: "http://16693.live.streamtheworld.com/XHNGS?streamtheworld_user=1&uuid=16F67C00%2D0000%2D0001%2D6DB7%2D11501C09100E&nobuf=1504892494295"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHNGS"
         },
         {
             name: "La Ranchera",
@@ -1402,7 +1402,7 @@ var stations_mexico = {
         {
             name: "Radio Latina 104.5",
             logo: "stations/images-america/felipe/lat.png",
-            url: "http://18623.live.streamtheworld.com/XLTNFM_SC"
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XLTNFM"
         }
     ],
     "bahia_tortu": [
