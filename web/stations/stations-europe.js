@@ -2249,11 +2249,13 @@ var stations = {
             logo: "stations/images-europe/poland/Radio Plus.jpg",
             url: "http://waw02.ic2.scdn.smcloud.net/t051-1.mp3"
         },
+        /*
         {
             name: "Radio VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
         },
+        */
         /*
         {
             name: "Radio WAWA",
@@ -2269,7 +2271,7 @@ var stations = {
         {
             name: "Radio Zet Gold",
             logo: "stations/images-europe/poland/Radio ZET Gold.png",
-            url: "http://n-0-17.dcs.redcdn.pl/sc/o2/Eurozet/live/zetgold.livx?audio=5"
+            url: "http://zgl.cdn.eurozet.pl/ZGLHIT.mp3"
         },
         {
             name: "Radio Złote Przeboje",
