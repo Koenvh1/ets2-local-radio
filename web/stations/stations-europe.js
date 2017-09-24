@@ -517,6 +517,11 @@ var stations = {
             url: "http://icecast3.play.cz:80/evropa2-128.mp3"
         },
         {
+            name: "Fajn Radio",
+            logo: "stations/images-europe/czech/Fajn Radio.png",
+            url: "http://ice.abradio.cz/fajn128.mp3"
+        },
+        {
             name: "Frekvence 1",
             logo: "stations/images-europe/czech/Frekvence 1.png",
             url: "http://icecast4.play.cz:80/frekvence1-128.mp3"
