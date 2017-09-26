@@ -855,7 +855,6 @@ var cities = [
 ];
 
 var country_properties_mexico = {
-
     "tijuana": {
         name: "Tijuana",
         name_english: "Tijuana",
@@ -1080,6 +1079,60 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 1.2
     },
+    "cd_cuauh": {
+        name: "CD. Cuauhtémoc",
+        name_english: "CD. Cuauhtemoc",
+        code: "mx-chh",
+        relative_radius: 1.2
+    },
+    "cd_juarez": {
+        name: "CD. Juárez",
+        name_english: "CD. Juarez",
+        code: "mx-chh",
+        relative_radius: 1.3
+    },
+    "chihuahua": {
+        name: "Chihuahua",
+        name_english: "Chihuahua",
+        code: "mx-chh",
+        relative_radius: 1.3
+    },
+    "delicias": {
+        name: "Delicias",
+        name_english: "Delicias",
+        code: "mx-chh",
+        relative_radius: 1.3
+    },
+    "huazamota": {
+        name: "Huazamota",
+        name_english: "Huazamota",
+        code: "mx-dur",
+        relative_radius: 1.2
+    },
+    "jimenez": {
+        name: "Jiménez",
+        name_english: "Jimenez",
+        code: "mx-chh",
+        relative_radius: 1.2
+    },
+    "nvo_casas": {
+        name: "Nvo. Casas",
+        name_english: "Nvo. Casas",
+        code: "mx-chh",
+        relative_radius: 1.2
+    },
+    "ojinaga": {
+        name: "Ojinaga",
+        name_english: "Ojinaga",
+        code: "mx-chh",
+        relative_radius: 1.2
+    },
+    "parral": {
+        name: "Parral",
+        name_english: "Parral",
+        code: "mx-chh",
+        relative_radius: 1.3
+    },
 };
 
 var city_properties_mexico = {
@@ -1189,6 +1242,33 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "yecora": {
+        relative_whitenoise: 0.95
+    },
+    "cd_cuauh": {
+        relative_whitenoise: 0.95
+    },
+    "cd_juarez": {
+        relative_whitenoise: 0.95
+    },
+    "chiuahua": {
+        relative_whitenoise: 0.95
+    },
+    "delicias": {
+        relative_whitenoise: 0.95
+    },
+    "huazamota": {
+        relative_whitenoise: 0.95
+    },
+    "jimenez": {
+        relative_whitenoise: 0.95
+    },
+    "nvo_casas": {
+        relative_whitenoise: 0.95
+    },
+    "ojinaga": {
+        relative_whitenoise: 0.95
+    },
+    "parral": {
         relative_whitenoise: 0.95
     },
 };
@@ -1481,6 +1561,78 @@ var cities_mexico = [
         "x": "-63192",
         "y": "-33.5",
         "z": "56129.7"
+    },
+    {
+        "gameName": "cd_cuauh",
+        "realName": "CD. Cuauhtemoc",
+        "country": "chihuahua",
+        "x": "-54771.6",
+        "y": "28.7695",
+        "z": "57275.5"
+    },
+    {
+        "gameName": "cd_juarez",
+        "realName": "CD. Juarez",
+        "country": "chihuahua",
+        "x": "-50462.9",
+        "y": "28.7695",
+        "z": "38747.9"
+    },
+    {
+        "gameName": "chihuahua",
+        "realName": "Chihuahua",
+        "country": "chihuahua",
+        "x": "-50425.6",
+        "y": "28.7695",
+        "z": "56319.8"
+    },
+    {
+        "gameName": "delicias",
+        "realName": "Delicias",
+        "country": "chihuahua",
+        "x": "-47740.5",
+        "y": "28.7695",
+        "z": "59428.1"
+    },
+    {
+        "gameName": "huazamota",
+        "realName": "Huazamota",
+        "country": "durango",
+        "x": "-45532.5",
+        "y": "-22.4922",
+        "z": "92178.2"
+    },
+    {
+        "gameName": "jimenez",
+        "realName": "Jimenez",
+        "country": "chihuahua",
+        "x": "-45367.2",
+        "y": "28.7695",
+        "z": "65614"
+    },
+    {
+        "gameName": "nvo_casas",
+        "realName": "Nvo. Casas",
+        "country": "chihuahua",
+        "x": "-57579.6",
+        "y": "28.7695",
+        "z": "44980.8"
+    },
+    {
+        "gameName": "ojinaga",
+        "realName": "Ojinaga",
+        "country": "chihuahua",
+        "x": "-42000",
+        "y": "72.1055",
+        "z": "52520"
+    },
+    {
+        "gameName": "parral",
+        "realName": "Parral",
+        "country": "chihuahua",
+        "x": "-49160.6",
+        "y": "28.7695",
+        "z": "65745"
     }
 ];
 
