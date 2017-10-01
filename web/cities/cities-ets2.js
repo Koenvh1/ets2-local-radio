@@ -7175,7 +7175,7 @@ cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_italy_map); //Italy Map
-cities = cities.concat(cities_kz); //Italy Map
+cities = cities.concat(cities_kz); //The Great Steppe
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
