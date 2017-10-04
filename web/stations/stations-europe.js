@@ -439,7 +439,7 @@ var stations = {
         {
             name: "Narodni radio",
             logo: "stations/images-europe/croatia/Narodni radio.svg",
-            url: "http://s7.iqstreaming.com:9498/;"
+            url: "http://live.narodni.hr:8059/;"
         },
         {
             name: "Otvoreni radio",
@@ -712,12 +712,12 @@ var stations = {
         {
             name: "Rás2",
             logo: "stations/images-europe/faroe/Rás2.png",
-            url: "http://134.213.155.183/mid2"
+            url: "http://stream.midlar.fo/ras2-128"
         },
         {
             name: "VoxPop",
             logo: "stations/images-europe/faroe/VoxPop.png",
-            url: "http://134.213.155.183/high"
+            url: "http://162.13.152.247/mid"
         },
     ],
     "finland": [
@@ -1188,6 +1188,11 @@ var stations = {
             name: "Antenne Thüringen",
             logo: "stations/images-europe/germany-mdr/Antenne Thüringen.png",
             url: "http://stream.antennethueringen.de/live/mp3-192/"
+        },
+        {
+            name: "Hitradio RTL",
+            logo: "stations/images-europe/germany-mdr/Hitradio RTL.svg",
+            url: "http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__dresden_128k_mp3"
         },
         {
             name: "Radio SAW",
@@ -2054,7 +2059,7 @@ var stations = {
         {
             name: "Radio 538",
             logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "http://vip-icecast.538.lw.triple-it.nl:80/RADIO538_MP3",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=RADIO538",
         },
         {
             name: "Radio 538 Top 40",
@@ -2239,21 +2244,25 @@ var stations = {
             url: "http://pla-net-01.cdn.eurozet.pl:8700/;"
         },
         */
+        /*
         {
             name: "Radio Eska",
             logo: "stations/images-europe/poland/Radio Eska.png",
             url: "http://waw04.ic1.scdn.smcloud.net/t042-1.mp3"
         },
+        */
         {
             name: "Radio Maryja",
             logo: "stations/images-europe/poland/Radio Maryja.png",
             url: "https://cors-anywhere.herokuapp.com/http://94.42.167.5:1935/live/rm.sdp/playlist.m3u8"
         },
+        /*
         {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.jpg",
             url: "http://waw02.ic2.scdn.smcloud.net/t051-1.mp3"
         },
+        */
         /*
         {
             name: "Radio VOX FM",
@@ -2343,7 +2352,7 @@ var stations = {
         {
             name: "ProFM",
             logo: "stations/images-europe/romania/ProFM.png",
-            url: "http://m.protv.md:8000/profm-128.mp3"
+            url: "http://edge126.rdsnet.ro:84/profm/profm.mp3"
         },
         {
             name: "Radio Trinitas",
