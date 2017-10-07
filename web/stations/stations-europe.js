@@ -2244,41 +2244,33 @@ var stations = {
             url: "http://pla-net-01.cdn.eurozet.pl:8700/;"
         },
         */
-        /*
         {
-            name: "Radio Eska",
+            name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
-            url: "http://waw04.ic1.scdn.smcloud.net/t042-1.mp3"
+            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/eska-warszawa"
         },
-        */
         {
             name: "Radio Maryja",
             logo: "stations/images-europe/poland/Radio Maryja.png",
             url: "https://cors-anywhere.herokuapp.com/http://94.42.167.5:1935/live/rm.sdp/playlist.m3u8"
         },
-        /*
         {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.jpg",
             url: "http://waw02.ic2.scdn.smcloud.net/t051-1.mp3"
         },
-        */
-        /*
         {
-            name: "Radio VOX FM",
+            name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "http://waw04.ic1.scdn.smcloud.net/t049-1.mp3"
+            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/vox-fm"
         },
-        */
-        /*
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "http://acdn.smcloud.net/t050-2.aac"
+            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/wawa"
         },
-        */
         {
-            name: "Radio Zet",
+            name: "Radio ZET",
             logo: "stations/images-europe/poland/Radio Zet.svg",
             url: "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
         },
