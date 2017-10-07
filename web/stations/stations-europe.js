@@ -2244,13 +2244,11 @@ var stations = {
             url: "http://pla-net-01.cdn.eurozet.pl:8700/;"
         },
         */
-        /*
         {
-            name: "Radio Eska",
+            name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
-            url: "http://waw04.ic1.scdn.smcloud.net/t042-1.mp3"
+            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/eska-warszawa"
         },
-        */
         {
             name: "Radio Maryja",
             logo: "stations/images-europe/poland/Radio Maryja.png",
