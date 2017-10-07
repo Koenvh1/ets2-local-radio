@@ -2257,7 +2257,7 @@ var stations = {
         {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.jpg",
-            url: "http://waw02.ic2.scdn.smcloud.net/t051-1.mp3"
+            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/radio-plus"
         },
         {
             name: "VOX FM",
