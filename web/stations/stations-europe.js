@@ -2973,6 +2973,11 @@ var stations = {
             url: "http://live-bauer-al.sharp-stream.com/kissfresh.aac"
         },
         {
+            name: "Kisstory",
+            logo: "stations/images-europe/uk/Kisstory.png",
+            url: "http://live-bauer-al.sharp-stream.com/kisstory.aac"
+        },
+        {
             name: "LBC",
             logo: "stations/images-europe/uk/LBC.png",
             url: "http://media-the.musicradio.com/LBCUK"
