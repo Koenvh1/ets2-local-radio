@@ -537,11 +537,6 @@ var stations = {
             url: "http://icecast4.play.cz/kiss128.mp3"
         },
         {
-            name: "Radio 1",
-            logo: "stations/images-europe/czech/Radio 1.png",
-            url: "http://icecast6.play.cz:80/radio1-128.mp3"
-        },
-        {
             name: "Rádio Beat",
             logo: "stations/images-europe/czech/Rádio Beat.png",
             url: "http://icecast5.play.cz/radiobeat128.mp3"

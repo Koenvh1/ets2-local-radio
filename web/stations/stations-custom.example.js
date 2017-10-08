@@ -32,6 +32,13 @@ var stations_custom = {
             url: "http://stream1.laut.fm/simulator1"
         },
     ],
+    "czech": [
+        {
+            name: "Radio 1",
+            logo: "stations/images-europe/czech/Radio 1.png",
+            url: "http://icecast6.play.cz:80/radio1-128.mp3"
+        },
+    ],
     "france": [
         {
             name: "Ouï FM",
