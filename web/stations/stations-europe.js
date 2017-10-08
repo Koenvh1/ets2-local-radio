@@ -1517,12 +1517,12 @@ var stations = {
     "iceland": [
         {
             name: "Rás 1",
-            logo: "stations/images-europe/iceland/Rás 1.jpg",
+            logo: "stations/images-europe/iceland/Rás 1.png",
             url: "https://cors-anywhere.herokuapp.com/http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8"
         },
         {
             name: "Rás 2",
-            logo: "stations/images-europe/iceland/Rás 2.jpg",
+            logo: "stations/images-europe/iceland/Rás 2.png",
             url: "https://cors-anywhere.herokuapp.com/http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8"
         },
         {
@@ -2275,7 +2275,7 @@ var stations = {
             url: "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
         },
         {
-            name: "Radio Zet Gold",
+            name: "Radio ZET Gold",
             logo: "stations/images-europe/poland/Radio ZET Gold.png",
             url: "http://zgl.cdn.eurozet.pl/ZGLHIT.mp3"
         },
