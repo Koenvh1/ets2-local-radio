@@ -5140,6 +5140,14 @@ var cities_wip = [
         "z": "-41394.61"
     },
     {
+        "gameName": "beograd",
+        "realName": "Београд (Beograd)",
+        "country": "serbia",
+        "x": "39770",
+        "y": "25",
+        "z": "32671"
+    },
+    {
         "gameName": "bonn",
         "realName": "Bonn",
         "country": "germany-wdr",
@@ -5754,6 +5762,14 @@ var cities_wip = [
         "x": "-90650.19",
         "y": "0",
         "z": "-91439.36"
+    },
+    {
+        "gameName": "vinaros",
+        "realName": "Vinaròs",
+        "country": "spain",
+        "x": "-46540",
+        "y": "11",
+        "z": "53988"
     },
     {
         "gameName": "wexford",
