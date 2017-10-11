@@ -419,17 +419,17 @@ var stations = {
         {
             name: "HR1 Prvi",
             logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=PROGRAM1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3"
         },
         {
             name: "HR2 Drugi",
             logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=PROGRAM2"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3"
         },
         {
             name: "HR3 Treci",
             logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=PROGRAM3"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3"
         },
         {
             name: "Hrvatski katolički radio",
@@ -2054,7 +2054,7 @@ var stations = {
         {
             name: "Radio 538",
             logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=RADIO538",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
         },
         {
             name: "Radio 538 Top 40",
@@ -2069,7 +2069,7 @@ var stations = {
         {
             name: "Radio Veronica",
             logo: "stations/images-europe/netherlands/Radio Veronica.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=VERONICA"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3"
         },
         {
             name: "RadioNL",
@@ -2079,7 +2079,7 @@ var stations = {
         {
             name: "Sky Radio 101 FM",
             logo: "stations/images-europe/netherlands/Sky Radio 101 FM.svg",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=SKYRADIO",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
         },
         {
             name: "Slam!",
@@ -2232,6 +2232,11 @@ var stations = {
             logo: "stations/images-europe/poland/Antyradio.png",
             url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
         },
+        {
+            name: "Meloradio",
+            logo: "stations/images-europe/poland/Meloradio.png",
+            url: "http://mel02.cdn.eurozet.pl:8800/mel-net.mp3"
+        },
         /*
         {
             name: "Planeta FM",
@@ -2255,11 +2260,6 @@ var stations = {
             url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/radio-plus"
         },
         {
-            name: "VOX FM",
-            logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/vox-fm"
-        },
-        {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
             url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/wawa"
@@ -2269,11 +2269,13 @@ var stations = {
             logo: "stations/images-europe/poland/Radio Zet.svg",
             url: "http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5"
         },
+        /*
         {
             name: "Radio ZET Gold",
             logo: "stations/images-europe/poland/Radio ZET Gold.png",
             url: "http://zgl.cdn.eurozet.pl/ZGLHIT.mp3"
         },
+        */
         {
             name: "Radio Złote Przeboje",
             logo: "stations/images-europe/poland/Radio Złote Przeboje.png",
@@ -2298,6 +2300,11 @@ var stations = {
             name: "Tok FM",
             logo: "stations/images-europe/poland/Tok FM.png",
             url: "http://wroclaw.radio.pionier.net.pl:8000/pl/tuba10-1.mp3"
+        },
+        {
+            name: "VOX FM",
+            logo: "stations/images-europe/poland/Radio VOX FM.png",
+            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/vox-fm"
         },
     ],
     "romania": [
@@ -2416,7 +2423,7 @@ var stations = {
         {
             name: "Радио Рекорд",
             logo: "stations/images-europe/russia/Радио Рекорд.png",
-            url: "http://online.radiorecord.ru:8101/rr_128"
+            url: "http://air.radiorecord.ru:805/rr_320"
         },
         {
             name: "Радио Шансон",
@@ -2591,17 +2598,17 @@ var stations = {
         {
             name: "RNE Radio Nacional",
             logo: "stations/images-europe/spain/RNE Radio Nacional.png",
-            url: "http://rne.rtveradio.cires21.com/rne/mp3/icecast.audio"
+            url: "http://rtve-live.hds.adaptive.level3.net/hls-live/rnegl0-rne1lv3aomgl0/_definst_/live.m3u8"
         },
         {
             name: "RNE Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "http://radioclasica.rtveradio.cires21.com/radioclasica/mp3/icecast.audio"
+            url: "http://rtve-live.hds.adaptive.level3.net/hls-live/rnegl0-rne2lv3aomgl0/_definst_/live.m3u8"
         },
         {
             name: "RNE Radio 3",
             logo: "stations/images-europe/spain/RNE Radio 3.png",
-            url: "http://radio3.rtveradio.cires21.com/radio3/mp3/icecast.audio"
+            url: "http://rtve-live.hds.adaptive.level3.net/hls-live/rnegl0-rne3lv3aomgl0/_definst_/live.m3u8"
         },
         {
             name: "Cadena 100",
@@ -2611,12 +2618,12 @@ var stations = {
         {
             name: "Cadena Dial",
             logo: "stations/images-europe/spain/Cadena Dial.jpg",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=CADENADIAL"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"
         },
         {
             name: "Cadena Ser",
             logo: "stations/images-europe/spain/Cadena Ser.jpg",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=CADENASER"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3"
         },
         {
             name: "Cope",
@@ -2638,17 +2645,17 @@ var stations = {
         {
             name: "Los 40 Principales",
             logo: "stations/images-europe/spain/Los 40 Principales.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=LOS40"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3"
         },
         {
             name: "M80 Radio",
             logo: "stations/images-europe/spain/M80 Radio.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=M80RADIO"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/M80RADIO.mp3"
         },
         {
             name: "Maxima FM",
             logo: "stations/images-europe/spain/Maxima FM.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=MAXIMAFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MAXIMAFM.mp3"
         },
         {
             name: "Onda Cero",
@@ -2853,7 +2860,7 @@ var stations = {
         {
             name: "Metro FM",
             logo: "stations/images-europe/turkey/Metro FM.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=METRO_FM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3"
         },
         {
             name: "NTV Radyo",
@@ -2878,7 +2885,7 @@ var stations = {
         {
             name: "Süper FM",
             logo: "stations/images-europe/turkey/Süper FM.jpg",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=SUPER_FM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
         },
     ],
     "uk": [
