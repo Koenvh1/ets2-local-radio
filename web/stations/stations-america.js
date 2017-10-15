@@ -60,6 +60,7 @@ var stations = {
         {
             name: "The Bull 97.3",
             logo: "stations/images-america/bakersfield/The Bull 97.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3"
         },
     ],
     "barstow": [
@@ -102,10 +103,12 @@ var stations = {
         {
             name: "La Suavecita",
             logo: "stations/images-america/carlsbad/La Suavecita.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSSEFM.mp3"
         },
         {
             name: "KSDW",
             logo: "stations/images-america/carlsbad/KSDW.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSDW.mp3"
         },
     ],
     "carson_city": [
@@ -197,10 +200,12 @@ var stations = {
         {
             name: "EXA FM",
             logo: "stations/images-america/el_centro/EXA FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM.mp3"
         },
         {
             name: "FM Globo",
             logo: "stations/images-america/el_centro/FM Globo.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFM.mp3"
         },
         {
             name: "KMET",
@@ -210,6 +215,7 @@ var stations = {
         {
             name: "La Mejor",
             logo: "stations/images-america/el_centro/La Mejor.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFM.mp3"
         },
         {
             name: "Radio Bilingue",
@@ -238,6 +244,7 @@ var stations = {
         {
             name: "93.9 The Mountain",
             logo: "stations/images-america/flagstaff/93.9 The Mountain.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFM.mp3"
         },
         {
             name: "K-Jazz",
@@ -247,6 +254,7 @@ var stations = {
         {
             name: "KAFF",
             logo: "stations/images-america/flagstaff/KAFF.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFM.mp3"
         },
         {
             name: "KNLB",
@@ -261,6 +269,7 @@ var stations = {
         {
             name: "Rewind",
             logo: "stations/images-america/flagstaff/Rewind.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFM.mp3"
         },
         {
             name: "The Wolf 96.7 FM",
@@ -371,6 +380,7 @@ var stations = {
         {
             name: "Mix 100.5",
             logo: "stations/images-america/indio/Mix 100.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPSIFM.mp3"
         },
         {
             name: "Radio Nueva Vida",
@@ -649,6 +659,7 @@ var stations = {
         {
             name: "La Tricolor 102.1",
             logo: "stations/images-america/reno/La Tricolor.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFM.mp3"
         },
     ],
     "sacramento": [
@@ -958,6 +969,7 @@ var stations_mexico = {
         {
             name: "La Mejor 90.7 FM",
             logo: "stations/images-america/tijuana/La Mejor 90.7 FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM.mp3"
         },
         {
             name: "Radio Zion",
@@ -985,6 +997,7 @@ var stations_mexico = {
         {
             name: "La Comadre",
             logo: "stations/images-america/culiacan/com.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFM.mp3"
         },
         {
             name: "Maxiradio",
@@ -1001,6 +1014,7 @@ var stations_mexico = {
         {
             name: "Los 40 Principales",
             logo: "stations/images-america/mexicali/40.jpg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2.mp3"
         },
         {
             name: "Radio Frontera",
