@@ -2196,14 +2196,24 @@ var stations = {
             url: "http://stream.p4.no/p10_mp3_mq"
         },
         {
+            name: "NRJ",
+            logo: "stations/images-europe/norway/NRJ.svg",
+            url: "http://stream.p4.no/nrj_mp3_mq"
+        },
+        {
+            name: "Norsk pop",
+            logo: "stations/images-europe/norway/Norsk pop.jpg",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/norskpop_no_mp3"
+        },
+        {
             name: "Radio Norge",
             logo: "stations/images-europe/norway/Radio Norge.png",
             url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/radionorge_no_aac"
         },
         {
-            name: "NRJ",
-            logo: "stations/images-europe/norway/NRJ.svg",
-            url: "http://stream.p4.no/nrj_mp3_mq"
+            name: "Radio Vinyl",
+            logo: "stations/images-europe/norway/Radio Vinyl.jpg",
+            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/vinyl_no_mp3"
         },
     ],
     "poland": [
