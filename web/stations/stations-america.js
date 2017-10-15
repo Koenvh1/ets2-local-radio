@@ -3,7 +3,7 @@ var stations = {
         {
             name: "Valley Public Radio",
             logo: "stations/images-america/bakersfield/Valley Public Radio.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KVPRFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3"
         },
         {
             name: "99.7 Classic Rock",
@@ -23,7 +23,7 @@ var stations = {
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/bakersfield/Family Radio West Coast.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         /*
         {
@@ -60,7 +60,6 @@ var stations = {
         {
             name: "The Bull 97.3",
             logo: "stations/images-america/bakersfield/The Bull 97.3.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KRJKAAC"
         },
     ],
     "barstow": [
@@ -79,7 +78,7 @@ var stations = {
         {
             name: "KWAVE",
             logo: "stations/images-america/barstow/KWAVE.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KWAVEFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM.mp3"
         },
     ],
     "camp_verde": [
@@ -103,24 +102,22 @@ var stations = {
         {
             name: "La Suavecita",
             logo: "stations/images-america/carlsbad/La Suavecita.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSSEFMAAC"
         },
         {
             name: "KSDW",
             logo: "stations/images-america/carlsbad/KSDW.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSDWAAC"
         },
     ],
     "carson_city": [
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/carson_city/Family Radio West Coast.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
             name: "K-BULL 98.1",
             logo: "stations/images-america/carson_city/K-BULL 98.1.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KBULFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFM.mp3"
         },
         {
             name: "Alice 96.5",
@@ -187,7 +184,7 @@ var stations = {
         {
             name: "FM 100.3",
             logo: "stations/images-america/ely/FM 100.3.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSFIFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFM.mp3"
         },
         */
     ],
@@ -200,12 +197,10 @@ var stations = {
         {
             name: "EXA FM",
             logo: "stations/images-america/el_centro/EXA FM.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHJCFMAAC"
         },
         {
             name: "FM Globo",
             logo: "stations/images-america/el_centro/FM Globo.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHPFFMAAC"
         },
         {
             name: "KMET",
@@ -215,7 +210,6 @@ var stations = {
         {
             name: "La Mejor",
             logo: "stations/images-america/el_centro/La Mejor.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHVGFMAAC"
         },
         {
             name: "Radio Bilingue",
@@ -244,7 +238,6 @@ var stations = {
         {
             name: "93.9 The Mountain",
             logo: "stations/images-america/flagstaff/93.9 The Mountain.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMGNFMAAC"
         },
         {
             name: "K-Jazz",
@@ -254,7 +247,6 @@ var stations = {
         {
             name: "KAFF",
             logo: "stations/images-america/flagstaff/KAFF.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KAFFFMAAC"
         },
         {
             name: "KNLB",
@@ -269,24 +261,23 @@ var stations = {
         {
             name: "Rewind",
             logo: "stations/images-america/flagstaff/Rewind.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KFLXFMAAC"
         },
         {
             name: "The Wolf 96.7 FM",
             logo: "stations/images-america/flagstaff/The Wolf 96.7 FM.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KWMXFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3"
         },
     ],
     "fresno": [
         {
             name: "KMJ",
             logo: "stations/images-america/fresno/KMJ.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMJAM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMJAM.mp3"
         },
         {
             name: "Mega 97.9",
             logo: "stations/images-america/fresno/KMGV.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMGVFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGVFM.mp3"
         },
         /*
         {
@@ -380,7 +371,6 @@ var stations = {
         {
             name: "Mix 100.5",
             logo: "stations/images-america/indio/Mix 100.5.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KPSIFMAAC"
         },
         {
             name: "Radio Nueva Vida",
@@ -455,12 +445,12 @@ var stations = {
         {
             name: "KOMP",
             logo: "stations/images-america/las_vegas/KOMP.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KOMPFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KOMPFM.mp3"
         },
         {
             name: "La Tricolor 105.1",
             logo: "stations/images-america/las_vegas/La Tricolor 105.1.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KQRTFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQRTFM.mp3"
         },
         {
             name: "Las Vegas Public Radio",
@@ -521,7 +511,7 @@ var stations = {
         {
             name: "KHOP",
             logo: "stations/images-america/oakdale/KHOP.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KHOPFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHOPFM.mp3"
         },
     ],
     "oakland": [
@@ -540,7 +530,7 @@ var stations = {
         {
             name: "KDAR",
             logo: "stations/images-america/oxnard/KDAR.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KDARFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDARFM.mp3"
         },
     ],
     "page": [
@@ -569,7 +559,7 @@ var stations = {
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/phoenix/Family Radio West Coast.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         /*
         {
@@ -627,7 +617,7 @@ var stations = {
         {
             name: "K-SHASTA",
             logo: "stations/images-america/redding/K-SHASTA.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KSHAFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSHAFM.mp3"
         },
         {
             name: "KNCQ",
@@ -659,14 +649,13 @@ var stations = {
         {
             name: "La Tricolor 102.1",
             logo: "stations/images-america/reno/La Tricolor.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KRNVFMAAC"
         },
     ],
     "sacramento": [
         {
             name: "Capital Public Radio",
             logo: "stations/images-america/sacramento/Capital Public Radio.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
             name: "KDEE-LP 97.5",
@@ -712,7 +701,7 @@ var stations = {
         {
             name: "Radio Latina",
             logo: "stations/images-america/san_diego/Radio Latina.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XLTNFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFM.mp3"
         },
         {
             name: "ROCK 105.3",
@@ -789,17 +778,17 @@ var stations = {
         {
             name: "Capital Public Radio",
             logo: "stations/images-america/stockton/Capital Public Radio.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
             name: "99.3 KJOY",
             logo: "stations/images-america/stockton/99.3 KJOY.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KJOYFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJOYFM.mp3"
         },
         {
             name: "KWIN",
             logo: "stations/images-america/stockton/KWIN.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KWINFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWINFM.mp3"
         },
     ],
     "tonopah": [
@@ -828,7 +817,7 @@ var stations = {
         {
             name: "Capital Public Radio",
             logo: "stations/images-america/truckee/Capital Public Radio.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXJZ"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
         {
             name: "Immaculate Heart Radio",
@@ -860,7 +849,7 @@ var stations = {
         {
             name: "Mix 94.9",
             logo: "stations/images-america/tucson/Mix 94.9.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KMXZFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3"
         },
         {
             name: "My 92.9",
@@ -870,12 +859,12 @@ var stations = {
         {
             name: "KQTH",
             logo: "stations/images-america/tucson/KQTH.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KQTHFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQTHFM.mp3"
         },
         {
             name: "La Caliente",
             logo: "stations/images-america/tucson/La Caliente.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KCMTFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFM.mp3"
         },
         {
             name: "KXCI",
@@ -885,7 +874,7 @@ var stations = {
         {
             name: "Rock 102.1",
             logo: "stations/images-america/tucson/Rock 102.1.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KFMAFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFM.mp3"
         },
     ],
     "ukiah": [
@@ -897,7 +886,7 @@ var stations = {
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/ukiah/Family Radio West Coast.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=FAMILYRADIO_WEST"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
             name: "The Skunk",
@@ -926,7 +915,7 @@ var stations = {
         {
             name: "KAWC",
             logo: "stations/images-america/yuma/KAWC.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KAWCFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAWCFM.mp3"
         },
         {
             name: "CSN",
@@ -969,7 +958,6 @@ var stations_mexico = {
         {
             name: "La Mejor 90.7 FM",
             logo: "stations/images-america/tijuana/La Mejor 90.7 FM.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHTIMAAC"
         },
         {
             name: "Radio Zion",
@@ -997,7 +985,6 @@ var stations_mexico = {
         {
             name: "La Comadre",
             logo: "stations/images-america/culiacan/com.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHCLIFMAAC"
         },
         {
             name: "Maxiradio",
@@ -1014,7 +1001,6 @@ var stations_mexico = {
         {
             name: "Los 40 Principales",
             logo: "stations/images-america/mexicali/40.jpg",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=LOS40_MEXICO2AAC"
         },
         {
             name: "Radio Frontera",
@@ -1168,12 +1154,12 @@ var stations_mexico = {
         {
             name: "La Mejor FM",
             logo: "stations/images-america/hnogales/mej.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHNGS"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS.mp3"
         },
         {
             name: "Exa FM 102.7 Nogales",
             logo: "stations/images-america/hnogales/exa.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHQT"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHQT.mp3"
         },
         {
             name: "Sin Límites",
@@ -1190,7 +1176,7 @@ var stations_mexico = {
         {
             name: "Exa FM 99.9 Agua Prieta",
             logo: "stations/images-america/aguap/exa.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XHNGS"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS.mp3"
         },
         {
             name: "La Ranchera",
@@ -1402,7 +1388,7 @@ var stations_mexico = {
         {
             name: "Radio Latina 104.5",
             logo: "stations/images-america/felipe/lat.png",
-            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=XLTNFM"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFM.mp3"
         }
     ],
     "bahia_tortu": [
