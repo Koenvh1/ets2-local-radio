@@ -21,6 +21,8 @@ Not available in yours? [Translate it](https://koenvh.nl/translate). I will add 
 
 ## How to install it:
 
+[![Join the chat at https://gitter.im/ets2-local-radio/Lobby](https://badges.gitter.im/ets2-local-radio/Lobby.svg)](https://gitter.im/ets2-local-radio/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. Download ATS/ETS2 Local Radio from the [releases page](https://github.com/Koenvh1/ets2-local-radio/releases)
 2. Extract it wherever you like
 3. Execute ETS2 Local Radio server.exe
