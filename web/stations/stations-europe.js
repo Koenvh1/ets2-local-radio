@@ -2351,7 +2351,7 @@ var stations = {
         {
             name: "Național FM",
             logo: "stations/images-europe/romania/Național FM.png",
-            url: "http://live.nationalfm.ro:8001/;"
+            url: "http://live3.nationalfm.ro:8001/;stream/1"
         },
         {
             name: "ProFM",

@@ -74,7 +74,7 @@ var stations = {
         {
             name: "KGGI",
             logo: "stations/images-america/barstow/KGGI.png",
-            url: "http://kggi-fm.akacast.iheart.com/7/965/19779/v1/auth.akacast.akamaistream.net/kggi-fm"
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/209_icy"
         },
         {
             name: "KWAVE",
@@ -137,7 +137,7 @@ var stations = {
         {
             name: "KNIX",
             logo: "stations/images-america/ehrenberg/KNIX.png",
-            url: "http://knix-fm.akacast.iheart.com/7/587/19754/v1/auth.akacast.akamaistream.net/knix-fm"
+            url: "http://c5icyelb.prod.playlists.ihrhls.com/49_icy"
         },
         {
             name: "KNLB",
@@ -302,11 +302,13 @@ var stations = {
             logo: "stations/images-america/g_canyon_vlg/KNAU.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
+        /*
         {
             name: "Travel Radio: Grand Canyon",
             logo: "stations/images-america/g_canyon_vlg/Travel Radio Grand Canyon.png",
             url: "http://stream.affordablestreaming.com:8000/KUGO-1.mp3"
         },
+        */
     ],
     "holbrook": [
         {
@@ -396,10 +398,17 @@ var stations = {
         },
     ],
     "kayenta": [
+        /*
         {
             name: "Redrock 92.7",
             logo: "stations/images-america/kayenta/Redrock 92.7.png",
             url: "http://redrock92.purestream.net:7100/;"
+        },
+        */
+        {
+            name: "KTNN",
+            logo: "stations/images-america/kayenta/Redrock 92.7.png",
+            url: "http://ice9.securenetsystems.net:80/KTNN"
         },
     ],
     "kingman": [
@@ -411,8 +420,9 @@ var stations = {
         {
             name: "KAAA",
             logo: "stations/images-america/kingman/KAAA.jpg",
-            url: "http://54.161.28.174/cameron-kaaaamaac-ibc3?session-id=0fda376ce1f9e22c57fa6ec1cbe2a8b0&source=v6player "
+            url: "http://54.211.53.194/cameron-kaaaamaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-6b6c3261633434766b696f7067696a37&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02 "
         },
+        /*
         {
             name: "KJJJ",
             logo: "stations/images-america/kingman/KJJJ.png",
@@ -423,10 +433,11 @@ var stations = {
             logo: "stations/images-america/kingman/KVYL.png",
             url: "http://50.22.253.46:80/kvyl-fm"
         },
+        */
         {
             name: "The Knack",
             logo: "stations/images-america/kingman/The Knack.png",
-            url: "http://54.161.28.174/cameron-knkkfmaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-6e746533397433386738636e65727572&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02"
+            url: "http://54.211.53.194/cameron-knkkfmaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-696c64313439336a356d343572386564&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02"
         },
     ],
     "las_vegas": [
@@ -475,7 +486,7 @@ var stations = {
         {
             name: "Real 103.9",
             logo: "stations/images-america/las_vegas/Real 103.9.jpg",
-            url: "http://kplv-hd2.akacast.iheart.com/7/307/363318/v1/auth.akacast.akamaistream.net/kplv-hd2"
+            url: "http://c3icyelb.prod.playlists.ihrhls.com/6967_icy"
         },
         {
             name: "VIBE",
@@ -497,12 +508,12 @@ var stations = {
         {
             name: "KOST",
             logo: "stations/images-america/los_angeles/KOST.png",
-            url: "http://kost-fm.akacast.akamaistream.net/7/103/19775/v1/auth.akacast.akamaistream.net/kost-fm"
+            url: "http://c8icyelb.prod.playlists.ihrhls.com/193_icy"
         },
         {
             name: "Real 92.3",
             logo: "stations/images-america/los_angeles/Real 92.3.jpg",
-            url: "http://khht-fm.akacast.iheart.com/7/159/19772/v1/auth.akacast.akamaistream.net/khht-fm"
+            url: "http://c8icyelb.prod.playlists.ihrhls.com/181_icy"
         },
     ],
     "nogales": [
@@ -586,7 +597,7 @@ var stations = {
         {
             name: "KNIX",
             logo: "stations/images-america/phoenix/KNIX.png",
-            url: "http://knix-fm.akacast.iheart.com/7/587/19754/v1/auth.akacast.akamaistream.net/knix-fm"
+            url: "http://c5icyelb.prod.playlists.ihrhls.com/49_icy"
         },
         {
             name: "MiX 96.9",
@@ -690,7 +701,7 @@ var stations = {
         {
             name: "KCLU",
             logo: "stations/images-america/santa_maria/KCLU.png",
-            url: "http://kclustream.callutheran.edu:8090/kclump3"
+            url: "https://kclustream.callutheran.edu:8090/kclump3"
         },
         {
             name: "CSN",
@@ -726,15 +737,42 @@ var stations = {
             logo: "stations/images-america/san_francisco/KQED Public Radio.png",
             url: "http://50.31.186.115:80/kqedradio"
         },
+        /*
         {
             name: "Hot 107.1FM",
             logo: "stations/images-america/san_francisco/Hot 107.1FM.jpg",
             url: "http://54.161.28.174/sonoma-khthfmmp3-ibc3?session-id=2080087970&source=tunein"
         },
+        */
+        {
+            name: "KALW",
+            logo: "stations/images-america/san_rafael/KALX.png",
+            url: "http://live.str3am.com:2430/"
+        },
+        {
+            name: "KALX",
+            logo: "stations/images-america/san_rafael/KALX.png",
+            url: "http://icecast.media.berkeley.edu:8000/kalx-128.mp3"
+        },
+        {
+            name: "KDFC",
+            logo: "stations/images-america/san_francisco/KDFC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFM.mp3"
+        },
+        {
+            name: "KPFA",
+            logo: "stations/images-america/san_francisco/KPFA.svg",
+            url: "http://stations.pacifica.org:8000/kpfa_64"
+        },
         {
             name: "Star 101.3",
             logo: "stations/images-america/san_francisco/Star 101.3.png",
             url: "http://kioi-fm.akacast.akamaistream.net/7/91/19795/v1/auth.akacast.akamaistream.net/kioi-fm"
+        },
+        {
+            name: "Wild 94.9",
+            logo: "stations/images-america/san_francisco/Wild 94.9.png",
+            url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
         },
     ],
     "san_rafael": [
@@ -745,10 +783,17 @@ var stations = {
         },
     ],
     "san_simon": [
+        /*
         {
             name: "Majik 100.7",
             logo: "stations/images-america/san_simon/Majik 100.7.jpg",
             url: "http://ice5.securenetsystems.net:80/KJIK"
+        },
+        */
+        {
+            name: "KNST",
+            logo: "stations/images-america/san_simon/KNST.png",
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/3282_icy"
         },
     ],
     "show_low": [
@@ -850,7 +895,7 @@ var stations = {
         {
             name: "97.1 Bull",
             logo: "stations/images-america/tucson/97.1 Bull.png",
-            url: "http://ktzr-fm.akacast.iheart.com/7/722/27468/v1/auth.akacast.akamaistream.net/ktzr-fm"
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/69_icy"
         },
         {
             name: "Family Life Radio",
@@ -865,7 +910,7 @@ var stations = {
         {
             name: "My 92.9",
             logo: "stations/images-america/tucson/My 92.9.png",
-            url: "http://kwmt-fm.akacast.akamaistream.net/7/690/22415/v1/auth.akacast.akamaistream.net/kwmt-fm"
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/65_icy"
         },
         {
             name: "KQTH",
@@ -892,18 +937,20 @@ var stations = {
         {
             name: "The Coast",
             logo: "stations/images-america/ukiah/The Coast.png",
-            url: "http://54.161.28.174/caradio-koztfmaac-ibc3"
+            url: "http://54.211.53.194/caradio-koztfmaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-726166376f74666a6776697633303234&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02"
         },
         {
             name: "Family Radio West Coast",
             logo: "stations/images-america/ukiah/Family Radio West Coast.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
+        /*
         {
             name: "The Skunk",
             logo: "stations/images-america/ukiah/The Skunk.png",
             url: "http://streaming.rubinbroadcasting.com:80/kunk"
         },
+        */
     ],
     "winnemucca": [
         {
