@@ -1,4 +1,4 @@
-var country_properties = {
+﻿var country_properties = {
     "aland": {
         name: "Åland",
         name_english: "Åland",
@@ -63,7 +63,7 @@ var country_properties = {
         name: "България",
         name_english: "Bulgaria",
         code: "bg",
-        relative_radius: 1,
+        relative_radius: 0.75,
     },
     "catalonia": {
         name: "Catalunya",
@@ -189,7 +189,7 @@ var country_properties = {
         name: "Ελλάδα",
         name_english: "Greece",
         code: "gr",
-        relative_radius: 1,
+        relative_radius: 0.8,
     },
     "hungary": {
         name: "Magyarország",
@@ -267,7 +267,7 @@ var country_properties = {
         name: "Македонија",
         name_english: "Macedonia",
         code: "mk",
-        relative_radius: 1,
+        relative_radius: 0.7,
     },
     "moldova": {
         name: "Moldova",
@@ -494,6 +494,9 @@ var city_properties = {
     },
     "constanta": {
         relative_radius: 1.4,
+    },
+    "craiova": {
+        relative_radius: 0.8,
     },
     "daugavpils": {
         relative_radius: 0.55,
@@ -722,6 +725,9 @@ var city_properties = {
     "oulu": {
         relative_radius: 0.7,
     },
+    "paluel": {
+        relative_radius: 0.8,
+    },
     "pamplona": {
         relative_radius: 0.8,
     },
@@ -801,7 +807,7 @@ var city_properties = {
     },
     "sibiu": {
         relative_whitenoise: 0.90,
-        relative_radius: 1.8,
+        relative_radius: 1.6,
     },
     "skelleftea": {
         relative_radius: 0.5,
@@ -908,6 +914,9 @@ var city_properties = {
     "vantaa": {
         relative_radius: 0.5,
     },
+    "vidin": {
+        relative_radius: 0.77,
+    },
     "vik": {
         relative_radius: 1.4,
     },
@@ -978,6 +987,14 @@ var cities = [
         "z": "-55270.3"
     },
     {
+        "gameName": "airolo",
+        "realName": "Airolo",
+        "country": "switzerland-it",
+        "x": "-7945",
+        "y": "98",
+        "z": "22977"
+    },
+    {
         "gameName": "akranes",
         "realName": "Akranes",
         "country": "iceland",
@@ -1018,14 +1035,6 @@ var cities = [
         "z": "42009.7"
     },
     {
-        "gameName": "angers",
-        "realName": "Angers",
-        "country": "france",
-        "x": "-43531.5",
-        "y": "64",
-        "z": "12968.1"
-    },
-    {
         "gameName": "antwerp",
         "realName": "Antwerpen",
         "country": "belgium-nl",
@@ -1042,12 +1051,28 @@ var cities = [
         "z": "24603.7"
     },
     {
+        "gameName": "are",
+        "realName": "Åre",
+        "country": "sweden",
+        "x": "11931.74",
+        "y": "7.17",
+        "z": "-71472.14"
+    },
+    {
         "gameName": "arnhem",
         "realName": "Arnhem",
         "country": "netherlands",
         "x": "-14732.1",
         "y": "78.0078",
         "z": "-8798.42"
+    },
+    {
+        "gameName": "augustow",
+        "realName": "Augustów",
+        "country": "poland",
+        "x": "43304",
+        "y": "46",
+        "z": "-19101"
     },
     {
         "gameName": "aurach",
@@ -1170,6 +1195,22 @@ var cities = [
         "z": "5749.52"
     },
     {
+        "gameName": "belfast",
+        "realName": "Belfast",
+        "country": "nireland",
+        "x": "-59692.36",
+        "y": "34.07",
+        "z": "-41394.61"
+    },
+    {
+        "gameName": "belfast",
+        "realName": "Belfast",
+        "country": "uk",
+        "x": "-59692.36",
+        "y": "34.07",
+        "z": "-41394.61"
+    },
+    {
         "gameName": "bergen",
         "realName": "Bergen",
         "country": "norway",
@@ -1280,6 +1321,22 @@ var cities = [
         "x": "-87256.1",
         "y": "76.207",
         "z": "-112100"
+    },
+    {
+        "gameName": "bonn",
+        "realName": "Bonn",
+        "country": "germany-wdr",
+        "x": "-12498.27",
+        "y": "42.51",
+        "z": "-467.13"
+    },
+    {
+        "gameName": "bonn",
+        "realName": "Bonn",
+        "country": "germany",
+        "x": "-12498.27",
+        "y": "42.51",
+        "z": "-467.13"
     },
     {
         "gameName": "borgarnes",
@@ -1434,14 +1491,6 @@ var cities = [
         "z": "10680.5"
     },
     {
-        "gameName": "caen",
-        "realName": "Caen",
-        "country": "france",
-        "x": "-40904.6",
-        "y": "54.5",
-        "z": "3042.14"
-    },
-    {
         "gameName": "calais",
         "realName": "Calais",
         "country": "france",
@@ -1456,6 +1505,14 @@ var cities = [
         "x": "-36822.7",
         "y": "171.199",
         "z": "-16119.4"
+    },
+    {
+        "gameName": "canterbury",
+        "realName": "Canterbury",
+        "country": "uk",
+        "x": "-33881.88",
+        "y": "82",
+        "z": "-8782.05"
     },
     {
         "gameName": "cardiff",
@@ -1496,6 +1553,14 @@ var cities = [
         "x": "-45091.8",
         "y": "52.5352",
         "z": "-447.961"
+    },
+    {
+        "gameName": "chernyakh",
+        "realName": "Черняховск (Chernyakhovsk)",
+        "country": "russia",
+        "x": "39226.42",
+        "y": "19.23",
+        "z": "-23167.04"
     },
     {
         "gameName": "chisinau",
@@ -1554,6 +1619,14 @@ var cities = [
         "z": "-10454.6"
     },
     {
+        "gameName": "daugavpils",
+        "realName": "Daugavpils",
+        "country": "latvia",
+        "x": "53539.91",
+        "y": "6.33",
+        "z": "-31191.43"
+    },
+    {
         "gameName": "debrecen",
         "realName": "Debrecen",
         "country": "hungary",
@@ -1568,6 +1641,14 @@ var cities = [
         "x": "-22312",
         "y": "97.3984",
         "z": "16721.5"
+    },
+    {
+        "gameName": "dombas",
+        "realName": "Dombås",
+        "country": "norway",
+        "x": "880.86",
+        "y": "9.25",
+        "z": "-64641.21"
     },
     {
         "gameName": "donostia",
@@ -1634,6 +1715,14 @@ var cities = [
         "z": "-1606.27"
     },
     {
+        "gameName": "dublin",
+        "realName": "Dublin",
+        "country": "ireland",
+        "x": "-63840.33",
+        "y": "32.71",
+        "z": "-31834.84"
+    },
+    {
         "gameName": "duisburg",
         "realName": "Duisburg",
         "country": "germany-wdr",
@@ -1688,6 +1777,14 @@ var cities = [
         "x": "-17314.1",
         "y": "74.6094",
         "z": "-6355.64"
+    },
+    {
+        "gameName": "elblag",
+        "realName": "Elbląg",
+        "country": "poland",
+        "x": "31008.55",
+        "y": "32",
+        "z": "-19463.05"
     },
     {
         "gameName": "erfurt",
@@ -1746,6 +1843,14 @@ var cities = [
         "z": "-13837.2"
     },
     {
+        "gameName": "fishguard",
+        "realName": "Fishguard",
+        "country": "uk",
+        "x": "-61284.68",
+        "y": "6.3",
+        "z": "-20395.50"
+    },
+    {
         "gameName": "firenze",
         "realName": "Firenze",
         "country": "italy",
@@ -1770,6 +1875,14 @@ var cities = [
         "z": "-22997.3"
     },
     {
+        "gameName": "folkestone",
+        "realName": "Folkestone",
+        "country": "uk",
+        "x": "-35631.49",
+        "y": "65.77",
+        "z": "-6947.11"
+    },
+    {
         "gameName": "frankfurt",
         "realName": "Frankfurt am Main",
         "country": "germany-hr",
@@ -1784,6 +1897,22 @@ var cities = [
         "x": "-6112.34",
         "y": "99.1875",
         "z": "2633.59"
+    },
+    {
+        "gameName": "fraserburgh",
+        "realName": "Fraserburgh",
+        "country": "scotland",
+        "x": "-36780.7",
+        "y": "50",
+        "z": "-58295.03"
+    },
+    {
+        "gameName": "fraserburgh",
+        "realName": "Fraserburgh",
+        "country": "uk",
+        "x": "-36780.7",
+        "y": "50",
+        "z": "-58295.03"
     },
     {
         "gameName": "frederikshv",
@@ -1840,6 +1969,14 @@ var cities = [
         "x": "1249.49",
         "y": "129.145",
         "z": "5970.42"
+    },
+    {
+        "gameName": "galway",
+        "realName": "Galway",
+        "country": "ireland",
+        "x": "-76553.42",
+        "y": "13.32",
+        "z": "-35578.97"
     },
     {
         "gameName": "gavle",
@@ -1970,6 +2107,14 @@ var cities = [
         "z": "-39194.3"
     },
     {
+        "gameName": "gyor",
+        "realName": "Györ",
+        "country": "hungary",
+        "x": "26889",
+        "y": "63",
+        "z": "17105.46"
+    },
+    {
         "gameName": "haapsalu",
         "realName": "Haapsalu",
         "country": "estonia",
@@ -1992,6 +2137,14 @@ var cities = [
         "x": "5833.82",
         "y": "84.0977",
         "z": "-5407.88"
+    },
+    {
+        "gameName": "hamar",
+        "realName": "Hamar",
+        "country": "norway",
+        "x": "5453.67",
+        "y": "0",
+        "z": "-57135.11"
     },
     {
         "gameName": "hamburg",
@@ -2114,6 +2267,38 @@ var cities = [
         "z": "-32659.8"
     },
     {
+        "gameName": "holyhead",
+        "realName": "Holyhead",
+        "country": "uk",
+        "x": "-56908",
+        "y": "72.52",
+        "z": "-30171"
+    },
+    {
+        "gameName": "holyhead",
+        "realName": "Holyhead",
+        "country": "wales",
+        "x": "-56908",
+        "y": "72.52",
+        "z": "-30171"
+    },
+    {
+        "gameName": "honningsvag",
+        "realName": "Honningsvåg",
+        "country": "norway",
+        "x": "36111.50",
+        "y": "34.98",
+        "z": "-113723.19"
+    },
+    {
+        "gameName": "huesca",
+        "realName": "Huesca",
+        "country": "spain",
+        "x": "-48769.32",
+        "y": "73.99",
+        "z": "43817.16"
+    },
+    {
         "gameName": "hull",
         "realName": "Hull",
         "country": "uk",
@@ -2178,6 +2363,14 @@ var cities = [
         "z": "-111213"
     },
     {
+        "gameName": "ivalo",
+        "realName": "Ivalo",
+        "country": "finland",
+        "x": "40990.21",
+        "y": "48.16",
+        "z": "-102242.55"
+    },
+    {
         "gameName": "jekabpils",
         "realName": "Jēkabpils",
         "country": "latvia",
@@ -2226,12 +2419,28 @@ var cities = [
         "z": "-67111.2"
     },
     {
+        "gameName": "kaliningrad",
+        "realName": "Калининград (Kaliningrad)",
+        "country": "russia",
+        "x": "34217.75",
+        "y": "15.35",
+        "z": "-22928.87"
+    },
+    {
         "gameName": "kalmar",
         "realName": "Kalmar",
         "country": "sweden",
         "x": "20559.5",
         "y": "70.3945",
         "z": "-33634.5"
+    },
+    {
+        "gameName": "kandalaksha",
+        "realName": "Кандалакша (Kandalaksha)",
+        "country": "russia",
+        "x": "56287.63",
+        "y": "-31.13",
+        "z": "-97267.13"
     },
     {
         "gameName": "kardla",
@@ -2392,6 +2601,30 @@ var cities = [
         "x": "7430.59",
         "y": "62.457",
         "z": "-27923"
+    },
+    {
+        "gameName": "koblenz",
+        "realName": "Koblenz",
+        "country": "germany-swr",
+        "x": "-11350.14",
+        "y": "38.87",
+        "z": "1411.76"
+    },
+    {
+        "gameName": "koblenz",
+        "realName": "Koblenz",
+        "country": "germany",
+        "x": "-11350.14",
+        "y": "38.87",
+        "z": "1411.76"
+    },
+    {
+        "gameName": "kokkola",
+        "realName": "Kokkola",
+        "country": "finland",
+        "x": "36840.59",
+        "y": "63",
+        "z": "-75249.69"
     },
     {
         "gameName": "kolding",
@@ -2570,6 +2803,22 @@ var cities = [
         "z": "-2483.4"
     },
     {
+        "gameName": "lillehammer",
+        "realName": "Lillehammer",
+        "country": "norway",
+        "x": "4658.43",
+        "y": "13.15",
+        "z": "-59429.31"
+    },
+    {
+        "gameName": "limerick",
+        "realName": "Limerick (Luimneach)",
+        "country": "ireland",
+        "x": "-74455.10",
+        "y": "16.42",
+        "z": "-30004.85"
+    },
+    {
         "gameName": "linkoping",
         "realName": "Linköping",
         "country": "sweden",
@@ -2584,6 +2833,22 @@ var cities = [
         "x": "13665.7",
         "y": "115.418",
         "z": "13754.6"
+    },
+    {
+        "gameName": "lisburn",
+        "realName": "Lisburn",
+        "country": "nireland",
+        "x": "-60535.71",
+        "y": "13.40",
+        "z": "-40179.05"
+    },
+    {
+        "gameName": "lisburn",
+        "realName": "Lisburn",
+        "country": "uk",
+        "x": "-60535.71",
+        "y": "13.40",
+        "z": "-40179.05"
     },
     {
         "gameName": "liverpool",
@@ -2634,20 +2899,28 @@ var cities = [
         "z": "-11564.2"
     },
     {
+        "gameName": "londonderry",
+        "realName": "Londonderry",
+        "country": "nireland",
+        "x": "-64011.90",
+        "y": "23.04",
+        "z": "-45948.30"
+    },
+    {
+        "gameName": "londonderry",
+        "realName": "Londonderry",
+        "country": "uk",
+        "x": "-64011.90",
+        "y": "23.04",
+        "z": "-45948.30"
+    },
+    {
         "gameName": "longyearbyen",
         "realName": "Longyearbyen",
         "country": "norway",
         "x": "19567.1",
         "y": "49.2734",
         "z": "-180806"
-    },
-    {
-        "gameName": "lorient",
-        "realName": "Lorient",
-        "country": "france",
-        "x": "-54828.6",
-        "y": "62",
-        "z": "8687.19"
     },
     {
         "gameName": "lublin",
@@ -2688,6 +2961,22 @@ var cities = [
         "x": "4484.25",
         "y": "94.7773",
         "z": "-7752.3"
+    },
+    {
+        "gameName": "mainz",
+        "realName": "Mainz",
+        "country": "germany-hr",
+        "x": "-10114.50",
+        "y": "33",
+        "z": "2678.53"
+    },
+    {
+        "gameName": "mainz",
+        "realName": "Mainz",
+        "country": "germany",
+        "x": "-10114.50",
+        "y": "33",
+        "z": "2678.53"
     },
     {
         "gameName": "malmo",
@@ -2744,6 +3033,14 @@ var cities = [
         "x": "18319.2",
         "y": "79.1992",
         "z": "24176.3"
+    },
+    {
+        "gameName": "mariehamn",
+        "realName": "Mariehamn",
+        "country": "aland",
+        "x": "30310.66",
+        "y": "13.25",
+        "z": "-52861.73"
     },
     {
         "gameName": "metz",
@@ -2850,6 +3147,14 @@ var cities = [
         "z": "-105017"
     },
     {
+        "gameName": "novisad",
+        "realName": "Нови Сад (Novi Sad)",
+        "country": "serbia",
+        "x": "36563.67",
+        "y": "43.37",
+        "z": "30842.71"
+    },
+    {
         "gameName": "nowogard",
         "realName": "Nowogard",
         "country": "poland",
@@ -2946,6 +3251,14 @@ var cities = [
         "z": "-679.391"
     },
     {
+        "gameName": "oppdal",
+        "realName": "Oppdal",
+        "country": "norway",
+        "x": "2560.71",
+        "y": "9.25",
+        "z": "-67492.96"
+    },
+    {
         "gameName": "oradea",
         "realName": "Oradea",
         "country": "romania",
@@ -2962,6 +3275,14 @@ var cities = [
         "z": "-48374.7"
     },
     {
+        "gameName": "orkanger",
+        "realName": "Orkanger",
+        "country": "norway",
+        "x": "2744.29",
+        "y": "-4.97",
+        "z": "-70840.44"
+    },
+    {
         "gameName": "orlea",
         "realName": "Orléans",
         "country": "france",
@@ -2976,6 +3297,14 @@ var cities = [
         "x": "26265.7",
         "y": "56.7734",
         "z": "-71104.9"
+    },
+    {
+        "gameName": "osijek",
+        "realName": "Osijek",
+        "country": "croatia",
+        "x": "32009.34",
+        "y": "22.88",
+        "z": "29213.39"
     },
     {
         "gameName": "oslo",
@@ -3010,12 +3339,36 @@ var cities = [
         "z": "5136.1"
     },
     {
+        "gameName": "ostersund",
+        "realName": "Östersund",
+        "country": "sweden",
+        "x": "15266.24",
+        "y": "0",
+        "z": "-70243.28"
+    },
+    {
         "gameName": "ostroleka",
         "realName": "Ostrołęka",
         "country": "poland",
         "x": "38890.4",
         "y": "95.2539",
         "z": "-14259.3"
+    },
+    {
+        "gameName": "ostrowm",
+        "realName": "Ostrów Mazowiecka",
+        "country": "poland",
+        "x": "39853.73",
+        "y": "43.97",
+        "z": "-12808.68"
+    },
+    {
+        "gameName": "otta",
+        "realName": "Otta",
+        "country": "norway",
+        "x": "1772.52",
+        "y": "9.25",
+        "z": "-62862.78"
     },
     {
         "gameName": "oulu",
@@ -3120,14 +3473,6 @@ var cities = [
         "x": "-60041.4",
         "y": "101.398",
         "z": "-7882.32"
-    },
-    {
-        "gameName": "poitiers",
-        "realName": "Poitiers",
-        "country": "france",
-        "x": "-41108",
-        "y": "90.1406",
-        "z": "18442.8"
     },
     {
         "gameName": "pori",
@@ -3266,6 +3611,14 @@ var cities = [
         "z": "-35697.3"
     },
     {
+        "gameName": "rijeka",
+        "realName": "Rijeka",
+        "country": "croatia",
+        "x": "15136.11",
+        "y": "30.21",
+        "z": "31265.66"
+    },
+    {
         "gameName": "riga",
         "realName": "Rīga",
         "country": "latvia",
@@ -3280,6 +3633,14 @@ var cities = [
         "x": "4378.43",
         "y": "49.1719",
         "z": "-22326.5"
+    },
+    {
+        "gameName": "ronne",
+        "realName": "Rønne",
+        "country": "denmark",
+        "x": "15919.91",
+        "y": "10",
+        "z": "-24530.53"
     },
     {
         "gameName": "rostock",
@@ -3304,14 +3665,6 @@ var cities = [
         "x": "-20156",
         "y": "104.746",
         "z": "-9135.8"
-    },
-    {
-        "gameName": "rouen",
-        "realName": "Rouen",
-        "country": "france",
-        "x": "-34886.4",
-        "y": "57",
-        "z": "2583.58"
     },
     {
         "gameName": "rovaniemi",
@@ -3352,6 +3705,22 @@ var cities = [
         "x": "9075.84",
         "y": "110.809",
         "z": "16564.5"
+    },
+    {
+        "gameName": "sangerhausen",
+        "realName": "Sangerhausen",
+        "country": "germany-mdr",
+        "x": "2204.59",
+        "y": "48",
+        "z": "-4672.66"
+    },
+    {
+        "gameName": "sangerhausen",
+        "realName": "Sangerhausen",
+        "country": "germany",
+        "x": "2204.59",
+        "y": "48",
+        "z": "-4672.66"
     },
     {
         "gameName": "sanok",
@@ -3400,6 +3769,30 @@ var cities = [
         "x": "41651.7",
         "y": "99.9219",
         "z": "-9261.17"
+    },
+    {
+        "gameName": "slavonski_brod",
+        "realName": "Slavonski Brod",
+        "country": "croatia",
+        "x": "28720.52",
+        "y": "33.57",
+        "z": "31843.88"
+    },
+    {
+        "gameName": "sligo",
+        "realName": "Sligo (Sligeach)",
+        "country": "ireland",
+        "x": "-71511.34",
+        "y": "8.27",
+        "z": "-42217.29"
+    },
+    {
+        "gameName": "sodankyla",
+        "realName": "Sodankylä",
+        "country": "finland",
+        "x": "42142.70",
+        "y": "73",
+        "z": "-95641.80"
     },
     {
         "gameName": "soderhamn",
@@ -3458,6 +3851,22 @@ var cities = [
         "z": "-47131.9"
     },
     {
+        "gameName": "stranraer",
+        "realName": "Stranraer",
+        "country": "scotland",
+        "x": "-55082.47",
+        "y": "21.61",
+        "z": "-41963.15"
+    },
+    {
+        "gameName": "stranraer",
+        "realName": "Stranraer",
+        "country": "uk",
+        "x": "-55082.47",
+        "y": "21.61",
+        "z": "-41963.15"
+    },
+    {
         "gameName": "strasbourg",
         "realName": "Strasbourg",
         "country": "france",
@@ -3496,6 +3905,14 @@ var cities = [
         "x": "-4957.84",
         "y": "101.973",
         "z": "10047"
+    },
+    {
+        "gameName": "subotica",
+        "realName": "Суботица (Subotica)",
+        "country": "serbia",
+        "x": "34292.13",
+        "y": "19.92",
+        "z": "25917.16"
     },
     {
         "gameName": "sundsvall",
@@ -3570,12 +3987,28 @@ var cities = [
         "z": "-62656.5"
     },
     {
+        "gameName": "tanabru",
+        "realName": "Tana Bru",
+        "country": "norway",
+        "x": "40732.64",
+        "y": "34.43",
+        "z": "-109981.67"
+    },
+    {
         "gameName": "tartu",
         "realName": "Tartu",
         "country": "estonia",
         "x": "51198.6",
         "y": "72.8086",
         "z": "-46116.1"
+    },
+    {
+        "gameName": "taurage",
+        "realName": "Tauragė",
+        "country": "lithuania",
+        "x": "40034.53",
+        "y": "50.33",
+        "z": "-26589.28"
     },
     {
         "gameName": "thurso",
@@ -3626,14 +4059,6 @@ var cities = [
         "z": "-81483.6"
     },
     {
-        "gameName": "tours",
-        "realName": "Tours",
-        "country": "france",
-        "x": "-38487.6",
-        "y": "75.3633",
-        "z": "14301.3"
-    },
-    {
         "gameName": "trelleborg",
         "realName": "Trelleborg",
         "country": "sweden",
@@ -3642,12 +4067,28 @@ var cities = [
         "z": "-25887"
     },
     {
+        "gameName": "trieste",
+        "realName": "Trieste",
+        "country": "italy",
+        "x": "10213.52",
+        "y": "-6.56",
+        "z": "29184.84"
+    },
+    {
         "gameName": "trinity",
         "realName": "Trinity",
         "country": "uk",
         "x": "-47726.4",
         "y": "66.7031",
         "z": "1242.87"
+    },
+    {
+        "gameName": "trondheim",
+        "realName": "Trondheim",
+        "country": "norway",
+        "x": "4607.3",
+        "y": "-5.65",
+        "z": "-72584.71"
     },
     {
         "gameName": "tukums",
@@ -3664,6 +4105,22 @@ var cities = [
         "x": "36549",
         "y": "110.398",
         "z": "-56133.1"
+    },
+    {
+        "gameName": "uelzen",
+        "realName": "Uelzen",
+        "country": "germany-ndr",
+        "x": "3140",
+        "y": "20",
+        "z": "-12273"
+    },
+    {
+        "gameName": "uelzen",
+        "realName": "Uelzen",
+        "country": "germany",
+        "x": "3140",
+        "y": "20",
+        "z": "-12273"
     },
     {
         "gameName": "ulm",
@@ -3704,6 +4161,14 @@ var cities = [
         "x": "24021.5",
         "y": "77.4219",
         "z": "-51634.5"
+    },
+    {
+        "gameName": "utsjoki",
+        "realName": "Utsjoki",
+        "country": "finland",
+        "x": "39371.95",
+        "y": "43.43",
+        "z": "-108070.61"
     },
     {
         "gameName": "uzhhorod",
@@ -3794,12 +4259,28 @@ var cities = [
         "z": "-37959.7"
     },
     {
+        "gameName": "verkhnetulom",
+        "realName": "Верхнетуломский (Verkhnetulomsky)",
+        "country": "russia",
+        "x": "50698.77",
+        "y": "-27.02",
+        "z": "-101567.13"
+    },
+    {
         "gameName": "verona",
         "realName": "Verona",
         "country": "italy",
         "x": "39.1094",
         "y": "78.4023",
         "z": "29453.3"
+    },
+    {
+        "gameName": "vestmannaeyjar",
+        "realName": "Vestmannaeyjar",
+        "country": "iceland",
+        "x": "-90650.19",
+        "y": "0",
+        "z": "-91439.36"
     },
     {
         "gameName": "viborg",
@@ -3842,6 +4323,14 @@ var cities = [
         "z": "-9467.43"
     },
     {
+        "gameName": "wexford",
+        "realName": "Wexford",
+        "country": "ireland",
+        "x": "-67015.93",
+        "y": "68.03",
+        "z": "-25257.44"
+    },
+    {
         "gameName": "wick",
         "realName": "Wick",
         "country": "scotland",
@@ -3866,12 +4355,36 @@ var cities = [
         "z": "14215.5"
     },
     {
+        "gameName": "wiesbaden",
+        "realName": "Wiesbaden",
+        "country": "germany-hr",
+        "x": "-9910.27",
+        "y": "40",
+        "z": "2026.05"
+    },
+    {
+        "gameName": "wiesbaden",
+        "realName": "Wiesbaden",
+        "country": "germany",
+        "x": "-9910.27",
+        "y": "40",
+        "z": "2026.05"
+    },
+    {
         "gameName": "wroclaw",
         "realName": "Wrocław",
         "country": "poland",
         "x": "23500.3",
         "y": "120.508",
         "z": "-1890.36"
+    },
+    {
+        "gameName": "zagreb",
+        "realName": "Zagreb",
+        "country": "croatia",
+        "x": "20401.37",
+        "y": "0",
+        "z": "28447.0"
     },
     {
         "gameName": "zamosc",
@@ -3896,6 +4409,14 @@ var cities = [
         "x": "16779.7",
         "y": "68.9922",
         "z": "-1715.38"
+    },
+    {
+        "gameName": "zrenjanin",
+        "realName": "Зрењанин (Zrenjanin)",
+        "country": "serbia",
+        "x": "38437.20",
+        "y": "50",
+        "z": "29583.58"
     },
     {
         "gameName": "zurich",
@@ -5092,52 +5613,12 @@ var cities_srm = [
 
 var cities_wip = [
     {
-        "gameName": "airolo",
-        "realName": "Airolo",
-        "country": "switzerland-it",
-        "x": "-7945",
-        "y": "98",
-        "z": "22977"
-    },
-    {
-        "gameName": "are",
-        "realName": "Åre",
-        "country": "sweden",
-        "x": "11931.74",
-        "y": "7.17",
-        "z": "-71472.14"
-    },
-    {
         "gameName": "ashdod",
         "realName": "Ashdod",
         "country": "israel",
         "x": "113759.26",
         "y": "11",
         "z": "91384.19"
-    },
-    {
-        "gameName": "augustow",
-        "realName": "Augustów",
-        "country": "poland",
-        "x": "43304",
-        "y": "46",
-        "z": "-19101"
-    },
-    {
-        "gameName": "belfast",
-        "realName": "Belfast",
-        "country": "nireland",
-        "x": "-59692.36",
-        "y": "34.07",
-        "z": "-41394.61"
-    },
-    {
-        "gameName": "belfast",
-        "realName": "Belfast",
-        "country": "uk",
-        "x": "-59692.36",
-        "y": "34.07",
-        "z": "-41394.61"
     },
     {
         "gameName": "beograd",
@@ -5148,52 +5629,12 @@ var cities_wip = [
         "z": "32671"
     },
     {
-        "gameName": "bonn",
-        "realName": "Bonn",
-        "country": "germany-wdr",
-        "x": "-12498.27",
-        "y": "42.51",
-        "z": "-467.13"
-    },
-    {
-        "gameName": "bonn",
-        "realName": "Bonn",
-        "country": "germany",
-        "x": "-12498.27",
-        "y": "42.51",
-        "z": "-467.13"
-    },
-    {
-        "gameName": "canterbury",
-        "realName": "Canterbury",
-        "country": "uk",
-        "x": "-33881.88",
-        "y": "82",
-        "z": "-8782.05"
-    },
-    {
-        "gameName": "chernyakh",
-        "realName": "Черняховск (Chernyakhovsk)",
-        "country": "russia",
-        "x": "39226.42",
-        "y": "19.23",
-        "z": "-23167.04"
-    },
-    {
-        "gameName": "daugavpils",
-        "realName": "Daugavpils",
-        "country": "latvia",
-        "x": "53539.91",
-        "y": "6.33",
-        "z": "-31191.43"
-    },
-    {
-        "gameName": "dombas",
-        "realName": "Dombås",
-        "country": "norway",
-        "x": "880.86",
-        "y": "9.25",
-        "z": "-64641.21"
+        "gameName": "bitola",
+        "realName": "Битола (Bitola)",
+        "country": "macedonia",
+        "x": "44193",
+        "y": "52",
+        "z": "54381"
     },
     {
         "gameName": "domitz",
@@ -5212,76 +5653,12 @@ var cities_wip = [
         "z": "-13488"
     },
     {
-        "gameName": "dublin",
-        "realName": "Dublin",
-        "country": "ireland",
-        "x": "-63840.33",
-        "y": "32.71",
-        "z": "-31834.84"
-    },
-    {
-        "gameName": "elblag",
-        "realName": "Elbląg",
-        "country": "poland",
-        "x": "31008.55",
-        "y": "32",
-        "z": "-19463.05"
-    },
-    {
         "gameName": "falkenberg",
         "realName": "Falkenberg",
         "country": "sweden",
         "x": "7712",
         "y": "101.398",
         "z": "-34400"
-    },
-    {
-        "gameName": "fishguard",
-        "realName": "Fishguard",
-        "country": "uk",
-        "x": "-61284.68",
-        "y": "6.3",
-        "z": "-20395.50"
-    },
-    {
-        "gameName": "folkestone",
-        "realName": "Folkestone",
-        "country": "uk",
-        "x": "-35631.49",
-        "y": "65.77",
-        "z": "-6947.11"
-    },
-    {
-        "gameName": "fraserburgh",
-        "realName": "Fraserburgh",
-        "country": "scotland",
-        "x": "-36780.7",
-        "y": "50",
-        "z": "-58295.03"
-    },
-    {
-        "gameName": "fraserburgh",
-        "realName": "Fraserburgh",
-        "country": "uk",
-        "x": "-36780.7",
-        "y": "50",
-        "z": "-58295.03"
-    },
-    {
-        "gameName": "galway",
-        "realName": "Galway",
-        "country": "ireland",
-        "x": "-76553.42",
-        "y": "13.32",
-        "z": "-35578.97"
-    },
-    {
-        "gameName": "gyor",
-        "realName": "Györ",
-        "country": "hungary",
-        "x": "26889",
-        "y": "63",
-        "z": "17105.46"
     },
     {
         "gameName": "haifa",
@@ -5292,14 +5669,6 @@ var cities_wip = [
         "z": "85584.92"
     },
     {
-        "gameName": "hamar",
-        "realName": "Hamar",
-        "country": "norway",
-        "x": "5453.67",
-        "y": "0",
-        "z": "-57135.11"
-    },
-    {
         "gameName": "herzliya",
         "realName": "Herzliya",
         "country": "israel",
@@ -5308,84 +5677,12 @@ var cities_wip = [
         "z": "88087.91"
     },
     {
-        "gameName": "holyhead",
-        "realName": "Holyhead",
-        "country": "uk",
-        "x": "-56908",
-        "y": "72.52",
-        "z": "-30171"
-    },
-    {
-        "gameName": "honningsvag",
-        "realName": "Honningsvåg",
-        "country": "norway",
-        "x": "36111.50",
-        "y": "34.98",
-        "z": "-113723.19"
-    },
-    {
-        "gameName": "huesca",
-        "realName": "Huesca",
-        "country": "spain",
-        "x": "-48769.32",
-        "y": "73.99",
-        "z": "43817.16"
-    },
-    {
-        "gameName": "ivalo",
-        "realName": "Ivalo",
-        "country": "finland",
-        "x": "40990.21",
-        "y": "48.16",
-        "z": "-102242.55"
-    },
-    {
         "gameName": "jerusalem",
         "realName": "Jerusalem",
         "country": "israel",
         "x": "117015.68",
         "y": "47.19",
         "z": "90801.95"
-    },
-    {
-        "gameName": "kaliningrad",
-        "realName": "Калининград (Kaliningrad)",
-        "country": "russia",
-        "x": "34217.75",
-        "y": "15.35",
-        "z": "-22928.87"
-    },
-    {
-        "gameName": "kandalaksha",
-        "realName": "Кандалакша (Kandalaksha)",
-        "country": "russia",
-        "x": "56287.63",
-        "y": "-31.13",
-        "z": "-97267.13"
-    },
-    {
-        "gameName": "koblenz",
-        "realName": "Koblenz",
-        "country": "germany-swr",
-        "x": "-11350.14",
-        "y": "38.87",
-        "z": "1411.76"
-    },
-    {
-        "gameName": "koblenz",
-        "realName": "Koblenz",
-        "country": "germany",
-        "x": "-11350.14",
-        "y": "38.87",
-        "z": "1411.76"
-    },
-    {
-        "gameName": "kokkola",
-        "realName": "Kokkola",
-        "country": "finland",
-        "x": "36840.59",
-        "y": "63",
-        "z": "-75249.69"
     },
     {
         "gameName": "kragujevac",
@@ -5404,92 +5701,12 @@ var cities_wip = [
         "z": "75415.23"
     },
     {
-        "gameName": "lillehammer",
-        "realName": "Lillehammer",
-        "country": "norway",
-        "x": "4658.43",
-        "y": "13.15",
-        "z": "-59429.31"
-    },
-    {
-        "gameName": "limerick",
-        "realName": "Limerick (Luimneach)",
-        "country": "ireland",
-        "x": "-74455.10",
-        "y": "16.42",
-        "z": "-30004.85"
-    },
-    {
-        "gameName": "lisburn",
-        "realName": "Lisburn",
-        "country": "nireland",
-        "x": "-60535.71",
-        "y": "13.40",
-        "z": "-40179.05"
-    },
-    {
-        "gameName": "lisburn",
-        "realName": "Lisburn",
-        "country": "uk",
-        "x": "-60535.71",
-        "y": "13.40",
-        "z": "-40179.05"
-    },
-    {
-        "gameName": "londonderry",
-        "realName": "Londonderry",
-        "country": "nireland",
-        "x": "-64011.90",
-        "y": "23.04",
-        "z": "-45948.30"
-    },
-    {
-        "gameName": "londonderry",
-        "realName": "Londonderry",
-        "country": "uk",
-        "x": "-64011.90",
-        "y": "23.04",
-        "z": "-45948.30"
-    },
-    {
-        "gameName": "mainz",
-        "realName": "Mainz",
-        "country": "germany-hr",
-        "x": "-10114.50",
-        "y": "33",
-        "z": "2678.53"
-    },
-    {
-        "gameName": "mainz",
-        "realName": "Mainz",
-        "country": "germany",
-        "x": "-10114.50",
-        "y": "33",
-        "z": "2678.53"
-    },
-    {
-        "gameName": "mariehamn",
-        "realName": "Mariehamn",
-        "country": "aland",
-        "x": "30310.66",
-        "y": "13.25",
-        "z": "-52861.73"
-    },
-    {
         "gameName": "netanya",
         "realName": "Netanya",
         "country": "israel",
         "x": "113710.56",
         "y": "4",
         "z": "87504.45"
-    },
-    {
-        "gameName": "novisad",
-        "realName": "Нови Сад (Novi Sad)",
-        "country": "serbia",
-        "x": "36563.67",
-        "y": "43.37",
-        "z": "30842.71"
     },
     {
         "gameName": "nis",
@@ -5508,54 +5725,6 @@ var cities_wip = [
         "z": "54302"
     },
     {
-        "gameName": "oppdal",
-        "realName": "Oppdal",
-        "country": "norway",
-        "x": "2560.71",
-        "y": "9.25",
-        "z": "-67492.96"
-    },
-    {
-        "gameName": "orkanger",
-        "realName": "Orkanger",
-        "country": "norway",
-        "x": "2744.29",
-        "y": "-4.97",
-        "z": "-70840.44"
-    },
-    {
-        "gameName": "osijek",
-        "realName": "Osijek",
-        "country": "croatia",
-        "x": "32009.34",
-        "y": "22.88",
-        "z": "29213.39"
-    },
-    {
-        "gameName": "ostersund",
-        "realName": "Östersund",
-        "country": "sweden",
-        "x": "15266.24",
-        "y": "0",
-        "z": "-70243.28"
-    },
-    {
-        "gameName": "ostrowm",
-        "realName": "Ostrów Mazowiecka",
-        "country": "poland",
-        "x": "39853.73",
-        "y": "43.97",
-        "z": "-12808.68"
-    },
-    {
-        "gameName": "otta",
-        "realName": "Otta",
-        "country": "norway",
-        "x": "1772.52",
-        "y": "9.25",
-        "z": "-62862.78"
-    },
-    {
         "gameName": "pamplona",
         "realName": "Pamplona",
         "country": "spain",
@@ -5564,44 +5733,12 @@ var cities_wip = [
         "z": "38339"
     },
     {
-        "gameName": "rijeka",
-        "realName": "Rijeka",
-        "country": "croatia",
-        "x": "15136.11",
-        "y": "30.21",
-        "z": "31265.66"
-    },
-    {
         "gameName": "rishon",
         "realName": "Rishon LeZion",
         "country": "israel",
         "x": "113980.05",
         "y": "10.90",
         "z": "89941.94"
-    },
-    {
-        "gameName": "ronne",
-        "realName": "Rønne",
-        "country": "denmark",
-        "x": "15919.91",
-        "y": "10",
-        "z": "-24530.53"
-    },
-    {
-        "gameName": "sangerhausen",
-        "realName": "Sangerhausen",
-        "country": "germany-mdr",
-        "x": "2204.59",
-        "y": "48",
-        "z": "-4672.66"
-    },
-    {
-        "gameName": "sangerhausen",
-        "realName": "Sangerhausen",
-        "country": "germany",
-        "x": "2204.59",
-        "y": "48",
-        "z": "-4672.66"
     },
     {
         "gameName": "skelleftea",
@@ -5620,62 +5757,6 @@ var cities_wip = [
         "z": "48079"
     },
     {
-        "gameName": "slavonski_brod",
-        "realName": "Slavonski Brod",
-        "country": "croatia",
-        "x": "28720.52",
-        "y": "33.57",
-        "z": "31843.88"
-    },
-    {
-        "gameName": "sligo",
-        "realName": "Sligo (Sligeach)",
-        "country": "ireland",
-        "x": "-71511.34",
-        "y": "8.27",
-        "z": "-42217.29"
-    },
-    {
-        "gameName": "sodankyla",
-        "realName": "Sodankylä",
-        "country": "finland",
-        "x": "42142.70",
-        "y": "73",
-        "z": "-95641.80"
-    },
-    {
-        "gameName": "stranraer",
-        "realName": "Stranraer",
-        "country": "scotland",
-        "x": "-55082.47",
-        "y": "21.61",
-        "z": "-41963.15"
-    },
-    {
-        "gameName": "stranraer",
-        "realName": "Stranraer",
-        "country": "uk",
-        "x": "-55082.47",
-        "y": "21.61",
-        "z": "-41963.15"
-    },
-    {
-        "gameName": "subotica",
-        "realName": "Суботица (Subotica)",
-        "country": "serbia",
-        "x": "34292.13",
-        "y": "19.92",
-        "z": "25917.16"
-    },
-    {
-        "gameName": "taurage",
-        "realName": "Tauragė",
-        "country": "lithuania",
-        "x": "40034.53",
-        "y": "50.33",
-        "z": "-26589.28"
-    },
-    {
         "gameName": "telaviv",
         "realName": "Tel Aviv",
         "country": "israel",
@@ -5692,54 +5773,6 @@ var cities_wip = [
         "z": "55423.36"
     },
     {
-        "gameName": "trieste",
-        "realName": "Trieste",
-        "country": "italy",
-        "x": "10213.52",
-        "y": "-6.56",
-        "z": "29184.84"
-    },
-    {
-        "gameName": "trondheim",
-        "realName": "Trondheim",
-        "country": "norway",
-        "x": "4607.3",
-        "y": "-5.65",
-        "z": "-72584.71"
-    },
-    {
-        "gameName": "tanabru",
-        "realName": "Tana Bru",
-        "country": "norway",
-        "x": "40732.64",
-        "y": "34.43",
-        "z": "-109981.67"
-    },
-    {
-        "gameName": "uelzen",
-        "realName": "Uelzen",
-        "country": "germany-ndr",
-        "x": "3140",
-        "y": "20",
-        "z": "-12273"
-    },
-    {
-        "gameName": "uelzen",
-        "realName": "Uelzen",
-        "country": "germany",
-        "x": "3140",
-        "y": "20",
-        "z": "-12273"
-    },
-    {
-        "gameName": "utsjoki",
-        "realName": "Utsjoki",
-        "country": "finland",
-        "x": "39371.95",
-        "y": "43.43",
-        "z": "-108070.61"
-    },
-    {
         "gameName": "valencia",
         "realName": "Valencia",
         "country": "spain",
@@ -5748,20 +5781,12 @@ var cities_wip = [
         "z": "59064"
     },
     {
-        "gameName": "verkhnetulom",
-        "realName": "Верхнетуломский (Verkhnetulomsky)",
-        "country": "russia",
-        "x": "50698.77",
-        "y": "-27.02",
-        "z": "-101567.13"
-    },
-    {
-        "gameName": "vestmannaeyjar",
-        "realName": "Vestmannaeyjar",
-        "country": "iceland",
-        "x": "-90650.19",
-        "y": "0",
-        "z": "-91439.36"
+        "gameName": "vidin",
+        "realName": "Видин (Vidin)",
+        "country": "bulgaria",
+        "x": "48163",
+        "y": "71",
+        "z": "36095"
     },
     {
         "gameName": "vinaros",
@@ -5772,52 +5797,12 @@ var cities_wip = [
         "z": "53988"
     },
     {
-        "gameName": "wexford",
-        "realName": "Wexford",
-        "country": "ireland",
-        "x": "-67015.93",
-        "y": "68.03",
-        "z": "-25257.44"
-    },
-    {
-        "gameName": "wiesbaden",
-        "realName": "Wiesbaden",
-        "country": "germany-hr",
-        "x": "-9910.27",
-        "y": "40",
-        "z": "2026.05"
-    },
-    {
-        "gameName": "wiesbaden",
-        "realName": "Wiesbaden",
-        "country": "germany",
-        "x": "-9910.27",
-        "y": "40",
-        "z": "2026.05"
-    },
-    {
         "gameName": "zadar",
         "realName": "Zadar",
         "country": "croatia",
         "x": "16551",
         "y": "7",
         "z": "37663"
-    },
-    {
-        "gameName": "zagreb",
-        "realName": "Zagreb",
-        "country": "croatia",
-        "x": "20401.37",
-        "y": "0",
-        "z": "28447.0"
-    },
-    {
-        "gameName": "zrenjanin",
-        "realName": "Зрењанин (Zrenjanin)",
-        "country": "serbia",
-        "x": "38437.20",
-        "y": "50",
-        "z": "29583.58"
     },
 ];
 
