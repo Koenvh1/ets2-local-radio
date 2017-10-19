@@ -750,11 +750,6 @@ var stations = {
             url: "http://live.str3am.com:2430/"
         },
         {
-            name: "KALX",
-            logo: "stations/images-america/san_rafael/KALX.png",
-            url: "http://icecast.media.berkeley.edu:8000/kalx-128.mp3"
-        },
-        {
             name: "KDFC",
             logo: "stations/images-america/san_francisco/KDFC.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFM.mp3"

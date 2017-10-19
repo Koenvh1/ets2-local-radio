@@ -950,8 +950,8 @@ var stations = {
             url: "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3"
         },
         {
-            name: "Deutschlandradio Kultur",
-            logo: "stations/images-europe/germany/Deutschlandradio Kultur.png",
+            name: "Deutschlandfunk Kultur",
+            logo: "stations/images-europe/germany/Deutschlandfunk Kultur.png",
             url: "http://st02.dlf.de/dlf/02/128/mp3/stream.mp3"
         },
         {
