@@ -304,6 +304,7 @@ function refresh(data) {
 
 function setRadioStation(url, country, volume) {
     //Set current listening country for when crossing the border
+    var paused = document.getElementById('player').paused && g_current_url !== "";
     g_current_url = url;
 
     if(conn != null && conn.open && !controlRemote){
@@ -326,7 +327,8 @@ function setRadioStation(url, country, volume) {
         $("#player").stop();
         $("#switchStation").stop();
         document.getElementById("switchStation").play();
-        $("#switchStation").animate({volume: (url == "" ? 0 : g_volume)}, 2500, "linear");
+        $("#switchStation").animate({volume: (url == "" || paused ? 0 : g_volume)}, 2500, "linear");
+        if(paused) document.getElementById('player').volume = 0;
         $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
             if (g_hls != null) {
@@ -364,10 +366,17 @@ function setRadioStation(url, country, volume) {
     refreshStations();
     scrollToStation();
 
-    togglePlayVisual(true);
-
-    document.getElementById('player').play();
-    document.getElementById('whitenoise').play();
+    if(!paused) {
+        togglePlayVisual(true);
+        document.getElementById('player').play();
+        document.getElementById('whitenoise').play();
+    } else {
+        setTimeout(function () {
+            togglePlayVisual(false);
+            document.getElementById('player').pause();
+            document.getElementById('whitenoise').pause();
+        }, 2000);
+    }
 
     var index = stations[g_current_country].map(function (e) {
         return e.url;
