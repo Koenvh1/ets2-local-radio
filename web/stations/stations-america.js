@@ -64,22 +64,40 @@ var stations = {
         },
     ],
     "barstow": [
-        /*
         {
-            name: "The Duck",
-            logo: "stations/images-america/barstow/The Duck.png",
-            url: "http://50.22.217.113/stream.mp3?ipport=50.22.217.113_26126"
+            name: "KPFK",
+            logo: "stations/images-america/barstow/KPFK.jpg",
+            url: "http://50.22.253.45/kpfk-fm.mp3"
         },
-        */
+        {
+            name: "CSN",
+            logo: "stations/images-america/barstow/CSN.png",
+            url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "KBHR",
+            logo: "stations/images-america/barstow/KBHR.png",
+            url: "http://ice5.securenetsystems.net/KBHR?playSessionID=5823C880-155D-C0F3-03397C0663B505D2"
+        },
         {
             name: "KGGI",
             logo: "stations/images-america/barstow/KGGI.png",
             url: "http://c6icyelb.prod.playlists.ihrhls.com/209_icy"
         },
         {
+            name: "KSDW",
+            logo: "stations/images-america/barstow/KSDW.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSDW.mp3"
+        },
+        {
             name: "KWAVE",
             logo: "stations/images-america/barstow/KWAVE.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM.mp3"
+        },
+        {
+            name: "The Duck",
+            logo: "stations/images-america/barstow/The Duck.png",
+            url: "http://50.22.218.197/stream.mp3?ipport=50.22.218.197_11453"
         },
     ],
     "camp_verde": [
@@ -341,9 +359,29 @@ var stations = {
     ],
     "huron": [
         {
+            name: "K-JEWEL",
+            logo: "stations/images-america/huron/K-JEWEL.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC.aac"
+        },
+        {
             name: "K-LOVE",
             logo: "stations/images-america/huron/K-LOVE.png",
             url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+        },
+        {
+            name: "Kiss Country",
+            logo: "stations/images-america/huron/Kiss Country.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFM.mp3"
+        },
+        {
+            name: "KOKO",
+            logo: "stations/images-america/huron/KOKO.png",
+            url: "http://ice8.securenetsystems.net/KOKO?playSessionID=265EE9AD-155D-C0F3-037CCC5EC931BAE6"
+        },
+        {
+            name: "The Beat",
+            logo: "stations/images-america/huron/The Beat.png",
+            url: "http://c11icyelb.prod.playlists.ihrhls.com/149_icy"
         },
     ],
     "indio": [

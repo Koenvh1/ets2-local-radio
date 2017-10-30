@@ -181,6 +181,14 @@ function refresh(data) {
         }
     };
 
+    /*
+    if(!data.Drivetrain.EngineEnabled) {
+        if(!document.getElementById('player').paused) {
+            togglePlay();
+        }
+    }
+    */
+
     //Test whether location is real and not disconnected
     if (!(data.Physics.CoordinateX == 0.0 && data.Physics.CoordinateY == 0.0 && data.Physics.CoordinateZ == 0.0) || g_show_all) {
         for (var i = 0; i < cities.length; i++) {
