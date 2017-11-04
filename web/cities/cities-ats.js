@@ -1,4 +1,22 @@
 var country_properties = {
+    "alamogordo": {
+        name: "Alamogordo",
+        name_english: "Alamogordo",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
+    "albuquerque": {
+        name: "Albuquerque",
+        name_english: "Albuquerque",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
+    "artesia": {
+        name: "Artesia",
+        name_english: "Artesia",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
     "bakersfield": {
         name: "Bakersfield",
         name_english: "Bakersfield",
@@ -23,10 +41,22 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 1.2
     },
+    "carlsbad_nm": {
+        name: "Carlsbad (NM)",
+        name_english: "Carlsbad (NM)",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
     "carson_city": {
         name: "Carson City",
         name_english: "Carson City",
         code: "us-nv",
+        relative_radius: 1.2
+    },
+    "clovis": {
+        name: "Clovis",
+        name_english: "Clovis",
+        code: "us-nm",
         relative_radius: 1.2
     },
     "ehrenberg": {
@@ -59,6 +89,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 1.2
     },
+    "farmington": {
+        name: "Farmington",
+        name_english: "Farmington",
+        code: "us-nm",
+        relative_radius: 1.8
+    },
     "flagstaff": {
         name: "Flagstaff",
         name_english: "Flagstaff",
@@ -71,10 +107,22 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 1.2
     },
+    "gallup": {
+        name: "Gallup",
+        name_english: "Gallup",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
     "g_canyon_vlg": {
         name: "Grand Canyon Village",
         name_english: "Grand Canyon Village",
         code: "us-az",
+        relative_radius: 1.2
+    },
+    "hobbs": {
+        name: "Hobbs",
+        name_english: "Hobbs",
+        code: "us-nm",
         relative_radius: 1.2
     },
     "holbrook": {
@@ -118,6 +166,12 @@ var country_properties = {
         name_english: "Kingman",
         code: "us-az",
         relative_radius: 1.2
+    },
+    "las_cruces": {
+        name: "Las Cruces",
+        name_english: "Las Cruces",
+        code: "us-nm",
+        relative_radius: 1.3
     },
     "las_vegas": {
         name: "Las Vegas",
@@ -179,6 +233,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.2
     },
+    "raton": {
+        name: "Raton",
+        name_english: "Raton",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
     "redding": {
         name: "Redding",
         name_english: "Redding",
@@ -191,6 +251,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.3
     },
+    "roswell": {
+        name: "Roswell",
+        name_english: "Roswell",
+        code: "us-nm",
+        relative_radius: 1.3
+    },
     "sacramento": {
         name: "Sacramento",
         name_english: "Sacramento",
@@ -201,6 +267,12 @@ var country_properties = {
         name: "Santa Cruz",
         name_english: "Santa Cruz",
         code: "us-ca",
+        relative_radius: 1.2
+    },
+    "santa_fe": {
+        name: "Santa Fe",
+        name_english: "Santa Fe",
+        code: "us-nm",
         relative_radius: 1.2
     },
     "santa_maria": {
@@ -245,6 +317,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 1.2
     },
+    "socorro": {
+        name: "Socorro",
+        name_english: "Socorro",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
     "stockton": {
         name: "Stockton",
         name_english: "Stockton",
@@ -267,6 +345,12 @@ var country_properties = {
         name: "Tucson",
         name_english: "Tucson",
         code: "us-az",
+        relative_radius: 1.2
+    },
+    "tucumcari": {
+        name: "Tucumcari",
+        name_english: "Tucumcari",
+        code: "us-nm",
         relative_radius: 1.2
     },
     "ukiah": {

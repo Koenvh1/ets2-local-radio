@@ -338,7 +338,7 @@ function setRadioStation(url, country, volume) {
         $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
             if (g_hls != null) {
-                g_hls.detachMedia();
+                g_hls.destroy();
                 g_hls = null;
             }
             var cleanUrl = url;

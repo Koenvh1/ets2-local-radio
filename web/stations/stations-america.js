@@ -711,6 +711,23 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFM.mp3"
         },
     ],
+    "roswell": [
+        {
+            name: "Hot New Country 92.9 FM",
+            logo: "stations/images-america/roswell/Hot New Country 92.9 FM.jpg",
+            url: "http://ice3.securenetsystems.net:80/KTZA"
+        },
+        {
+            name: "KBIM Radio",
+            logo: "stations/images-america/roswell/KBIM Radio.png",
+            url: "http://crystalout.surfernetwork.com:8001/KBIM_MP3"
+        },
+        {
+            name: "Roswell's Talk FM",
+            logo: "stations/images-america/roswell/Roswell's Talk FM.png",
+            url: "http://ice3.securenetsystems.net:80/KEND"
+        },
+    ],
     "sacramento": [
         {
             name: "Capital Public Radio",
