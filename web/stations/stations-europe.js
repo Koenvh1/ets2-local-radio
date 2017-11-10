@@ -2238,7 +2238,7 @@ var stations = {
         {
             name: "Antyradio",
             logo: "stations/images-europe/poland/Antyradio.png",
-            url: "http://ant-waw-01.cdn.eurozet.pl:8602/;"
+            url: "http://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5"
         },
         {
             name: "Meloradio",

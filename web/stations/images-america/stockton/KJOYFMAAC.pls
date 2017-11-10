@@ -1,9 +1,0 @@
-[playlist]
-File1=https://16693.live.streamtheworld.com:443/KJOYFMAAC_SC
-File2=https://15363.live.streamtheworld.com:443/KJOYFMAAC_SC
-File3=https://18613.live.streamtheworld.com:443/KJOYFMAAC_SC
-Title1=KJOYFMAAC_SC
-Title2=KJOYFMAAC_SC-Bak
-Length1=-1
-NumberOfEntries=3
-Version=2

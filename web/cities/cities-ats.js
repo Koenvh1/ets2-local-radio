@@ -9,7 +9,7 @@ var country_properties = {
         name: "Albuquerque",
         name_english: "Albuquerque",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "artesia": {
         name: "Artesia",
@@ -93,7 +93,7 @@ var country_properties = {
         name: "Farmington",
         name_english: "Farmington",
         code: "us-nm",
-        relative_radius: 1.8
+        relative_radius: 1.7
     },
     "flagstaff": {
         name: "Flagstaff",
@@ -111,7 +111,7 @@ var country_properties = {
         name: "Gallup",
         name_english: "Gallup",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "g_canyon_vlg": {
         name: "Grand Canyon Village",
@@ -321,7 +321,7 @@ var country_properties = {
         name: "Socorro",
         name_english: "Socorro",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "stockton": {
         name: "Stockton",
@@ -935,6 +935,118 @@ var cities = [
         "x": "-88849.8",
         "y": "64.9961",
         "z": "26463.2"
+    },
+    {
+        "gameName": "alamogordo",
+        "realName": "Alamogordo",
+        "country": "new_mexico",
+        "x": "-46944.1",
+        "y": "127.48",
+        "z": "31604"
+    },
+    {
+        "gameName": "albuquerque",
+        "realName": "Albuquerque",
+        "country": "new_mexico",
+        "x": "-50091.6",
+        "y": "119.625",
+        "z": "19426.6"
+    },
+    {
+        "gameName": "artesia",
+        "realName": "Artesia",
+        "country": "new_mexico",
+        "x": "-39437.2",
+        "y": "106.828",
+        "z": "33191.9"
+    },
+    {
+        "gameName": "carlsbad_nm",
+        "realName": "Carlsbad",
+        "country": "new_mexico",
+        "x": "-38330.6",
+        "y": "102.016",
+        "z": "35353.5"
+    },
+    {
+        "gameName": "clovis",
+        "realName": "Clovis",
+        "country": "new_mexico",
+        "x": "-33411.9",
+        "y": "138.973",
+        "z": "24758.7"
+    },
+    {
+        "gameName": "farmington",
+        "realName": "Farmington",
+        "country": "new_mexico",
+        "x": "-54704.5",
+        "y": "135",
+        "z": "8813.18"
+    },
+    {
+        "gameName": "gallup",
+        "realName": "Gallup",
+        "country": "new_mexico",
+        "x": "-58246.5",
+        "y": "166.41",
+        "z": "15448.3"
+    },
+    {
+        "gameName": "hobbs",
+        "realName": "Hobbs",
+        "country": "new_mexico",
+        "x": "-33734.9",
+        "y": "64.0195",
+        "z": "33858.8"
+    },
+    {
+        "gameName": "las_cruces",
+        "realName": "Las Cruces",
+        "country": "new_mexico",
+        "x": "-51595.3",
+        "y": "110",
+        "z": "34674.6"
+    },
+    {
+        "gameName": "raton",
+        "realName": "Raton",
+        "country": "new_mexico",
+        "x": "-38146.3",
+        "y": "154.02",
+        "z": "10209.8"
+    },
+    {
+        "gameName": "roswell",
+        "realName": "Roswell",
+        "country": "new_mexico",
+        "x": "-39713.4",
+        "y": "106.012",
+        "z": "29859.5"
+    },
+    {
+        "gameName": "santa_fe",
+        "realName": "Santa Fe",
+        "country": "new_mexico",
+        "x": "-44752.1",
+        "y": "149.02",
+        "z": "16062.1"
+    },
+    {
+        "gameName": "socorro",
+        "realName": "Socorro",
+        "country": "new_mexico",
+        "x": "-50697.3",
+        "y": "123.242",
+        "z": "24592.9"
+    },
+    {
+        "gameName": "tucumcari",
+        "realName": "Tucumcari",
+        "country": "new_mexico",
+        "x": "-35286.4",
+        "y": "142.113",
+        "z": "20109.9"
     }
 ];
 
