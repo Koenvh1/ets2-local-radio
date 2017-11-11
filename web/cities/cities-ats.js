@@ -9,7 +9,7 @@ var country_properties = {
         name: "Albuquerque",
         name_english: "Albuquerque",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 1.4
     },
     "artesia": {
         name: "Artesia",
@@ -273,7 +273,7 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "santa_maria": {
         name: "Santa Maria",
@@ -309,7 +309,7 @@ var country_properties = {
         name: "Show Low",
         name_english: "Show Low",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "sierra_vista": {
         name: "Sierra Vista",
@@ -321,7 +321,7 @@ var country_properties = {
         name: "Socorro",
         name_english: "Socorro",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 1.35
     },
     "stockton": {
         name: "Stockton",
@@ -398,6 +398,9 @@ var country_properties = {
 };
 
 var city_properties = {
+    "albuquerque": {
+        relative_whitenoise: 0.90
+    },
     "bakersfield": {
         relative_whitenoise: 0.95
     },
@@ -497,6 +500,9 @@ var city_properties = {
     "santa_cruz": {
         relative_whitenoise: 0.95
     },
+    "santa_fe": {
+        relative_whitenoise: 0.90
+    },
     "santa_maria": {
         relative_whitenoise: 0.95
     },
@@ -516,6 +522,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sierra_vista": {
+        relative_whitenoise: 0.95
+    },
+    "socorro": {
         relative_whitenoise: 0.95
     },
     "stockton": {
