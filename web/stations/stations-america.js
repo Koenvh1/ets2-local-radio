@@ -43,6 +43,11 @@ var stations = {
             url: "http://c4icyelb.prod.playlists.ihrhls.com/1389_icy"
         },
         {
+            name: "100.9 The Beat",
+            logo: "stations/images-america/albuquerque/100.9 The Beat.png",
+            url: "http://c4icyelb.prod.playlists.ihrhls.com/6469_icy"
+        },
+        {
             name: "Family Life Radio",
             logo: "stations/images-america/albuquerque/Family Life Radio.jpg",
             url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
@@ -857,6 +862,11 @@ var stations = {
             name: "Real 92.3",
             logo: "stations/images-america/los_angeles/Real 92.3.jpg",
             url: "http://c8icyelb.prod.playlists.ihrhls.com/181_icy"
+        },
+        {
+            name: "KJAZZ",
+            logo: "stations/images-america/los_angeles/KJAZZ.png",
+            url: "http://1.ice1.firststreaming.com/kkjz_fm.mp3"
         },
     ],
     "nogales": [

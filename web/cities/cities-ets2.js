@@ -5781,6 +5781,22 @@ var cities_wip = [
         "z": "59064"
     },
     {
+        "gameName": "ukmerge",
+        "realName": "Ukmergė",
+        "country": "lithuania",
+        "x": "47637",
+        "y": "56",
+        "z": "-27414"
+    },
+    {
+        "gameName": "ullapool",
+        "realName": "Ullapool",
+        "country": "uk",
+        "x": "-48956",
+        "y": "71",
+        "z": "-64780"
+    },
+    {
         "gameName": "vidin",
         "realName": "Видин (Vidin)",
         "country": "bulgaria",
@@ -5800,6 +5816,14 @@ var cities_wip = [
         "gameName": "zadar",
         "realName": "Zadar",
         "country": "croatia",
+        "x": "-50998",
+        "y": "64",
+        "z": "45567"
+    },
+    {
+        "gameName": "zaragoza",
+        "realName": "Zaragoza",
+        "country": "spain",
         "x": "16551",
         "y": "7",
         "z": "37663"

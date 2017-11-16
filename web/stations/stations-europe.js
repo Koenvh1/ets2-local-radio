@@ -1867,6 +1867,11 @@ var stations = {
             url: "http://radio.m-1.fm:80/M-1PLIUS"
         },
         {
+            name: "PowerHitRadio",
+            logo: "stations/images-europe/lithuania/PowerHitRadio.svg",
+            url: "https://power-stream.tv3.lt:8080/PHR.mp3"
+        },
+        {
             name: "Pūkas",
             logo: "stations/images-europe/lithuania/Pūkas.jpg",
             url: "http://82.135.234.195:8000/pukas.mp3"
@@ -2606,17 +2611,17 @@ var stations = {
         {
             name: "RNE Radio Nacional",
             logo: "stations/images-europe/spain/RNE Radio Nacional.png",
-            url: "http://rtve-live.hds.adaptive.level3.net/hls-live/rnegl0-rne1lv3aomgl0/_definst_/live.m3u8"
+            url: "http://195.10.10.225/rtve/rne.mp3"
         },
         {
             name: "RNE Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "http://rtve-live.hds.adaptive.level3.net/hls-live/rnegl0-rne2lv3aomgl0/_definst_/live.m3u8"
+            url: "http://195.55.74.211/rtve/radioclasica.mp3"
         },
         {
             name: "RNE Radio 3",
             logo: "stations/images-europe/spain/RNE Radio 3.png",
-            url: "http://rtve-live.hds.adaptive.level3.net/hls-live/rnegl0-rne3lv3aomgl0/_definst_/live.m3u8"
+            url: "http://195.10.10.225/rtve/radio3.mp3"
         },
         {
             name: "Cadena 100",
@@ -2636,7 +2641,7 @@ var stations = {
         {
             name: "Cope",
             logo: "stations/images-europe/spain/Cope.png",
-            url: "http://195.55.74.210/cope/net1.mp3?GKID=6c94b3f49d7511e7bbd900163e914f69&fspref=aHR0cDovL3d3dy5jb3BlLmVzL2RpcmVjdG9zL25ldDE%3D"
+            url: "http://195.55.74.206/copesedes/madrid.mp3"
         },
         {
             name: "Europa FM",
@@ -2858,7 +2863,7 @@ var stations = {
         {
             name: "Bloomberg HT Radyo",
             logo: "stations/images-europe/turkey/Bloomberg HT Radyo.jpg",
-            url: "http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
         },
         {
             name: "Kral FM",
