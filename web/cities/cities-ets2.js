@@ -5816,17 +5816,17 @@ var cities_wip = [
         "gameName": "zadar",
         "realName": "Zadar",
         "country": "croatia",
-        "x": "-50998",
-        "y": "64",
-        "z": "45567"
+        "x": "16551",
+        "y": "7",
+        "z": "37663"
     },
     {
         "gameName": "zaragoza",
         "realName": "Zaragoza",
         "country": "spain",
-        "x": "16551",
-        "y": "7",
-        "z": "37663"
+        "x": "-50998",
+        "y": "64",
+        "z": "45567"
     },
 ];
 

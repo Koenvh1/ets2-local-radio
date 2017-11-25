@@ -713,7 +713,7 @@ var stations = {
         */
         {
             name: "KTNN",
-            logo: "stations/images-america/kayenta/Redrock 92.7.png",
+            logo: "stations/images-america/kayenta/KTNN.jpg",
             url: "http://ice9.securenetsystems.net:80/KTNN"
         },
     ],
@@ -773,9 +773,9 @@ var stations = {
             url: "http://50.22.253.46:80/kver-fm"
         },
         {
-            name: "Hot 103",
+            name: "Hot 103.1",
             logo: "stations/images-america/las_cruces/Hot 103.png",
-            url: "http://ice5.securenetsystems.net:80/KMVR"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHQTFMAAC.aac"
         },
         {
             name: "KOOL oldies",
