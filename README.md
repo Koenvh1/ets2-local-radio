@@ -196,6 +196,9 @@ Just uninstall the overlay before starting the editor.
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
 
+### Why is the code such a mess?
+Call it "organically grown". Initially, this project was a skin for ETS2 Telemetry Server. Later it got its own server. That, combined with the fact that I never intended this project to become this large, is why the code is shoddy in some places. I have started refactoring the code, but I honestly can't really be bothered to finish that. Maybe some other time.
+
 ## How to uninstall it:
 Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
 You will need to manually remove the following files from the ETS2/ATS installation directory as well:
