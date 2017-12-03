@@ -517,6 +517,9 @@ var city_properties = {
     "dover": {
         relative_radius: 0.6,
     },
+    "drammen": {
+        relative_radius: 1.2,
+    },
     "duisburg": {
         relative_radius: 0.8,
     },
@@ -589,6 +592,9 @@ var city_properties = {
     "inderborsky": {
         relative_radius: 1.5,
     },
+    "ioannina": {
+        relative_radius: 0.6,
+    },
     "irun": {
         relative_radius: 0.6,
     },
@@ -623,7 +629,8 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "kokkola": {
-        relative_radius: 0.5,
+        relative_radius: 0.7,
+        relative_whitenoise: 0.8,
     },
     "kolka": {
         relative_radius: 0.5,
@@ -3441,6 +3448,22 @@ var cities = [
         "x": "-34520.9",
         "y": "64.5938",
         "z": "41436.8"
+    },
+    {
+        "gameName": "perth",
+        "realName": "Perth",
+        "country": "scotland",
+        "x": "-43488",
+        "y": "144",
+        "z": "-52640"
+    },
+    {
+        "gameName": "perth",
+        "realName": "Perth",
+        "country": "uk",
+        "x": "-43488",
+        "y": "144",
+        "z": "-52640"
     },
     {
         "gameName": "piatra",
@@ -6985,6 +7008,14 @@ var cities_italy_map = [
         "z": "65250.7"
     },
     {
+        "gameName": "drammen",
+        "realName": "Drammen",
+        "country": "norway",
+        "x": "2505",
+        "y": "3",
+        "z": "-50955"
+    },
+    {
         "gameName": "enna",
         "realName": "Enna",
         "country": "italy",
@@ -7023,6 +7054,14 @@ var cities_italy_map = [
         "x": "3285.87",
         "y": "70.1133",
         "z": "35401.5"
+    },
+    {
+        "gameName": "ioannina",
+        "realName": "Ιωάννινα (Ioannina)",
+        "country": "greece",
+        "x": "41553",
+        "y": "23",
+        "z": "62263"
     },
     {
         "gameName": "laspezia",
