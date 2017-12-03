@@ -2024,11 +2024,13 @@ var stations = {
             logo: "stations/images-europe/netherlands/100 NL.png",
             url: "http://stream.100p.nl/100pctnl.mp3",
         },
+        /*
         {
             name: "Arrow Classic Rock",
             logo: "stations/images-europe/netherlands/Arrow Classic Rock.jpg",
             url: "http://91.221.151.155:80/;"
         },
+        */
         {
             name: "BNR Nieuwsradio",
             logo: "stations/images-europe/netherlands/BNR Nieuwsradio.svg",
@@ -2088,6 +2090,11 @@ var stations = {
             name: "Slam!",
             logo: "stations/images-europe/netherlands/Slam!.png",
             url: "http://stream.slam.nl/slam",
+        },
+        {
+            name: "Sublime FM",
+            logo: "stations/images-europe/netherlands/Sublime FM.png",
+            url: "http://stream02.sublimefm.nl/SublimeFM_mp3",
         },
     ],
     "nireland": [
