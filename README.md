@@ -1,4 +1,4 @@
-![Logo](http://i.imgur.com/1CToXfs.png)  
+![Logo](https://i.imgur.com/1CToXfs.png)  
 ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion when the Swedish radio plays in Sweden,
 and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
 You can switch using the web interface, your keyboard, your controller and your mobile phone.
@@ -230,10 +230,10 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _Another in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](http://i.imgur.com/lrGysB7.png)
+![Screenshot](https://i.imgur.com/lrGysB7.png)
 
 _An example of the web interface near Dresden_
 
-![Screenshot](http://i.imgur.com/E9h001F.jpg)
+![Screenshot](https://i.imgur.com/E9h001F.jpg)
 
 _The interface on the mobile app/website_
