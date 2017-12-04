@@ -5814,6 +5814,14 @@ var cities_wip = [
     {
         "gameName": "ullapool",
         "realName": "Ullapool",
+        "country": "scotland",
+        "x": "-48956",
+        "y": "71",
+        "z": "-64780"
+    },
+    {
+        "gameName": "ullapool",
+        "realName": "Ullapool",
         "country": "uk",
         "x": "-48956",
         "y": "71",
