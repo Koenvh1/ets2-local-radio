@@ -96,11 +96,13 @@ var stations = {
             logo: "stations/images-america/bakersfield/Valley Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3"
         },
+        /*
         {
             name: "99.7 Classic Rock",
             logo: "stations/images-america/bakersfield/99.7 Classic Rock.png",
             url: "http://icy3.abacast.com/momentum-kioofmaac-48?type=.mp3&source=v6player&user-id=3536d8e7d93bf127af76b06959807a02&session-id=3536d8e7d93bf127af76b06959807a02-6e6669366d347275346431316b733035"
         },
+        */
         {
             name: "103.9 The Beat",
             logo: "stations/images-america/bakersfield/103.9 The Beat.png",

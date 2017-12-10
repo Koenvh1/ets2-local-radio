@@ -6726,10 +6726,10 @@ city_properties = $.extend(city_properties, city_properties_mexico);
 cities = cities.concat(cities_mexico);
 
 //Uncomment these lines below to enable C2C
-/*
+//cities = cities.concat(cities_c2c);
+
 country_properties = $.extend(country_properties, country_properties_c2c);
 city_properties = $.extend(city_properties, city_properties_c2c);
-cities = cities.concat(cities_c2c);
 for(var key in country_properties_c2c) {
     if(!country_properties_c2c.hasOwnProperty(key)) continue;
     var index = cities_c2c.map(function (e) {
@@ -6739,7 +6739,6 @@ for(var key in country_properties_c2c) {
         country_properties_c2c[key].name = cities_c2c[index].realName;
     }
 }
-*/
 
 //Set country to gameName, because stations are bound to a city.
 for(var i = 0; i < cities.length; i++){
