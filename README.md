@@ -9,9 +9,9 @@ It does not include radio stations that you would not be able to receive over FM
 However, you can add those yourself if you so desire.
 
 **Supported maps:**  
-ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.
+ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.  
+ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast*.  
 \*Disabled by default  
-ATS: California, Nevada, Arizona, New Mexico, Viva Mexico.
 
 **It's available in over 20 languages!**  
 Not available in yours? [Translate it](https://koenvh.nl/translate). I will add it in the next release.
@@ -91,11 +91,20 @@ Maybe, maybe not. You can always send in a request.
 * ATS maps will not be added unless you provide at least one station per new **city**.
 * ETS2 maps will not be added unless you provide at least one station per new **country**. 
 
-##### How about Project Balkans, Open Spaces or YKS Turkey?
+Generally speaking, I (Koen) will maintain the stations for ETS2 and the ATS base game + DLCs.
+The map mods for ATS are maintained by:
+* Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
+* Coast to Coast - [Avondale Trucking](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=167308)
+
+##### How about Project Balkans, Open Spaces, Coast to Coast or YKS Turkey?
 A persisting problem is that some maps are incompatible with each other.
-For that reason, some custom maps are not enabled by default.
+For that reason, some custom maps are not enabled by default.  
+###### ETS2:
 You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for Project Balkans, YKS Turkey and/or Open Spaces.
-This will reset when you update ETS2 Local Radio.
+###### ATS:
+Edit the `\web\cities\cities-ats.js` file, and uncomment the three lines for the map to enable it.
+
+This will reset when you update ETS2 Local Radio.  
 
 ### Why do Chrome, Opera, Internet Explorer and others not work fully?
 ETS2 Local Radio can only include the stream types a station offers, and these vary station by station.
