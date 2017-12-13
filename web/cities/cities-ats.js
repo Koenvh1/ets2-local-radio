@@ -6725,7 +6725,7 @@ country_properties = $.extend(country_properties, country_properties_mexico);
 city_properties = $.extend(city_properties, city_properties_mexico);
 cities = cities.concat(cities_mexico);
 
-//Uncomment these lines below to enable C2C
+//Uncomment the line below to enable C2C
 //cities = cities.concat(cities_c2c);
 
 country_properties = $.extend(country_properties, country_properties_c2c);

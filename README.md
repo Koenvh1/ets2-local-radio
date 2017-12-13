@@ -102,7 +102,7 @@ For that reason, some custom maps are not enabled by default.
 ###### ETS2:
 You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for Project Balkans, YKS Turkey and/or Open Spaces.
 ###### ATS:
-Edit the `\web\cities\cities-ats.js` file, and uncomment the three lines for the map to enable it.
+Edit the `\web\cities\cities-ats.js` file, scroll to the bottom and uncomment the lines for the map to enable it.
 
 This will reset when you update ETS2 Local Radio.  
 
