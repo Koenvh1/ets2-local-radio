@@ -2631,7 +2631,7 @@ var stations_c2c = {
         },
         {
             name: "106.1 KNFO Sports/Talk",
-            logo: "http://knfo.amtstreaming.com/images/knfo-logo.png",
+            logo: "stations/images-america/c2c/106.1 KNFO Sports/Talk.png",
             url: "http://162.243.127.245:8004/knfoic"
         },
     ],
@@ -2812,7 +2812,7 @@ var stations_c2c = {
         },
         {
             name: "89.5 WPKN The Real Alternative",
-            logo: "http://www.wpkn.org/wp-content/themes/wpkn/library/images/logo.png",
+            logo: "stations/images-america/c2c/89.5 WPKN The Real Alternative.png",
             url: "http://streamcore.elasticbeanstalk.com/wpknlow.mp3"
         },
         {
@@ -2829,7 +2829,7 @@ var stations_c2c = {
         },
         {
             name: "WJBR",
-            logo: "http://files.greatermedia.com/uploads/sites/84/2017/11/WJBR_ChristmasLogo_site.jpg",
+            logo: "stations/images-america/c2c/WJBR.jpg",
             url: "http://16803.live.streamtheworld.com:3690/WJBRFM_SC"
         },
         {
@@ -2846,7 +2846,7 @@ var stations_c2c = {
     "boca_raton": [
         {
             name: "850 WFTL News Talk",
-            logo: "http://www.850wftl.com/wp-content/uploads/2017/04/850_Rebrand-WebLogo-140x300_1.png",
+            logo: "stations/images-america/c2c/850 WFTL News Talk.png",
             url: "http://17993.live.streamtheworld.com:3690/WFTL_AM_SC"
         },
         {
@@ -2873,7 +2873,7 @@ var stations_c2c = {
         },
         {
             name: "102.1 The Wave",
-            logo: "http://cbemeraldcoast.com/1021thewave/wp-content/uploads/sites/4/2016/07/102.1111.png",
+            logo: "stations/images-america/c2c/102.1 The Wave.png",
             url: "http://ice64.securenetsystems.net/WWAV"
         },
     ],
@@ -2924,7 +2924,7 @@ var stations_c2c = {
         },
         {
             name: "97.3 WSKY FM News Talk",
-            logo: "http://www.thesky973.com/sites/g/files/giy1281/f/styles/nts_logo_120x70/public/WSKY_Header_Edit_1.png?itok=gBbAQ5tH",
+            logo: "stations/images-america/c2c/97.3 WSKY FM News Talk.png",
             url: "http://54.204.195.85/entercom-wskyfmaac-64"
         },
         {
@@ -2987,7 +2987,7 @@ var stations_c2c = {
         },
         {
             name: "WJHC Talk 107.5",
-            logo: "http://talk1075.com/wp-content/uploads/2016/09/Talk1075_Masthead_Logo2.png",
+            logo: "stations/images-america/c2c/WJHC Talk 107.5.png",
             url: "http://199.195.194.140:8236/;"
         },
     ],
@@ -3153,7 +3153,7 @@ var stations_c2c = {
     "pensacola": [
         {
             name: "1330 WEBY Talk",
-            logo: "http://www.1330weby.com/images/stories/logo.gif",
+            logo: "stations/images-america/c2c/1330 WEBY Talk.gif",
             url: "http://mega5.radioserver.co.uk:8026/;"
         },
         {
@@ -3252,7 +3252,7 @@ var stations_c2c = {
         },
         {
             name: "Q105",
-            logo: "http://files.greatermedia.com/uploads/sites/79/2017/03/logo_400x240.png",
+            logo: "stations/images-america/c2c/Q105.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WRBQFM"
         },
     ],
@@ -3313,12 +3313,12 @@ var stations_c2c = {
         },
         {
             name: "90.1 WABE - Atlanta's NPR Station",
-            logo: "https://www.wabe.org/wp-content/themes/wabe-sage/assets/images/wabe-logo.svg",
+            logo: "stations/images-america/c2c/90.1 WABE - Atlanta's NPR Station.svg",
             url: "http://pba-ice.streamguys.org/wabe.mp3"
         },
         {
             name: "90.1 WABE - Classical",
-            logo: "https://www.wabe.org/wp-content/themes/wabe-sage/assets/images/wabe-logo.svg",
+            logo: "stations/images-america/c2c/90.1 WABE - Classical.svg",
             url: "http://pba-ice.streamguys.org/classical.mp3"
         },
         {
@@ -3345,7 +3345,7 @@ var stations_c2c = {
     "augusta_ga": [
         {
             name: "News Talk WGAC",
-            logo: "http://files.greatermedia.com/uploads/sites/39/2017/04/Asset-1.png",
+            logo: "stations/images-america/c2c/News Talk WGAC.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WGACAM"
         },
         {
@@ -3360,7 +3360,7 @@ var stations_c2c = {
         },
         {
             name: "93.9 Bob FM",
-            logo: "http://files.greatermedia.com/uploads/sites/40/2017/04/93-9-BOB-FM-2-002.png",
+            logo: "stations/images-america/c2c/93.9 Bob FM.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WDRRFM"
         },
         {
@@ -3457,7 +3457,7 @@ var stations_c2c = {
     "valdosta": [
         {
             name: "Talk 92.1",
-            logo: "http://talk921.com/player/tmp/images/default.png",
+            logo: "stations/images-america/c2c/Talk 92.1.png",
             url: "http://199.195.194.140:8230/;"
         },
     ],
@@ -3521,7 +3521,7 @@ var stations_c2c = {
         },
         {
             name: "Country Classics 1290",
-            logo: "http://countryclassicsidaho.com/images/header.jpg",
+            logo: "stations/images-america/c2c/Country Classics 1290.jpg",
             url: "http://www.ophanim.net:9040/;"
         },
         {
@@ -3916,7 +3916,7 @@ var stations_c2c = {
         },
         {
             name: "WSON 860 96.5",
-            logo: "http://wsonradio.com/wp-content/uploads/2013/02/wsonlogonew-300px-transparent1.png",
+            logo: "stations/images-america/c2c/WSON 860 96.5.png",
             url: "http://ice8.securenetsystems.net/WSON"
         },
         {
@@ -3985,7 +3985,7 @@ var stations_c2c = {
     "lafayette_in": [
         {
             name: "Classic Hits 92.1 1550",
-            logo: "http://www.wcvlam.com/templates/crawfordsville/images/WCVL_Logo.png",
+            logo: "stations/images-america/c2c/Classic Hits 92.1 1550.png",
             url: "http://ice64.securenetsystems.net/WCVLAM"
         },
         {
@@ -4020,7 +4020,7 @@ var stations_c2c = {
         },
         {
             name: "Thunder 103.9 WIMC",
-            logo: "http://wimcfm.com/templates/crawfordsville/images/WIMC_Logo.png",
+            logo: "stations/images-america/c2c/Thunder 103.9 WIMC.png",
             url: "http://ice5.securenetsystems.net/WIMC"
         },
         {
@@ -4084,7 +4084,7 @@ var stations_c2c = {
         },
         {
             name: "News/Talk 95.3 MNC",
-            logo: "https://baa4b21462aeec1c3cc8-07463a70f78b0e214543e67a622e9841.ssl.cf5.rackcdn.com/wp-content/uploads/2017/01/MNCSite-Logo.png",
+            logo: "stations/images-america/c2c/News/Talk 95.3 MNC.png",
             url: "http://stream.abacast.net/direct/federatedmedia-wtrcfmaac-ibc2"
         },
         {
@@ -4433,7 +4433,7 @@ var stations_c2c = {
     "hays": [
         {
             name: "KRSL",
-            logo: "http://www.krsl.com/templates/fs_temp/images/krsl-classic-country-990.png",
+            logo: "stations/images-america/c2c/KRSL.png",
             url: "http://5625.cloudrad.io:8010/;"
         },
         {
@@ -4633,7 +4633,7 @@ var stations_c2c = {
         },
         {
             name: "1490 WCLU 102.3",
-            logo: "http://wclu.wpengine.com/wp-content/uploads/2015/03/logo2.jpg",
+            logo: "stations/images-america/c2c/1490 WCLU 102.3.jpg",
             url: "http://173.193.205.96:8064/;"
         },
     ],
@@ -4660,7 +4660,7 @@ var stations_c2c = {
         },
         {
             name: "WHOP NewsRadio",
-            logo: "http://www.whopam.com/templates/hopkinsville/images/WHOPAMLogoNoBanner-190x.png",
+            logo: "stations/images-america/c2c/WHOP NewsRadio.png",
             url: "http://ice10.securenetsystems.net/WHOPAM"
         },
         {
@@ -4707,7 +4707,7 @@ var stations_c2c = {
         },
         {
             name: "93.5 Passport Radio 1490",
-            logo: "http://capcityradio.net/passport/wp-content/uploads/sites/17/2014/11/Passport-Logo_2016_full_small.png",
+            logo: "stations/images-america/c2c/93.5 Passport Radio 1490.png",
             url: "http://ice10.securenetsystems.net/WKYW"
         },
         {
@@ -4717,7 +4717,7 @@ var stations_c2c = {
         },
         {
             name: "96.7 WANV Kool Gold",
-            logo: "http://www.967wanv.com/templates/london/images/logo_wanv.png",
+            logo: "stations/images-america/c2c/96.7 WANV Kool Gold.png",
             url: "http://ice23.securenetsystems.net/WANV"
         },
         {
@@ -4774,7 +4774,7 @@ var stations_c2c = {
         },
         {
             name: "The Wolf 1400 106.9 WFTG",
-            logo: "http://www.wftgam.com/templates/london/images/WFTG_AM_FM_Logo.jpg",
+            logo: "stations/images-america/c2c/The Wolf 1400 106.9 WFTG.jpg",
             url: "http://ice9.securenetsystems.net/WFTG"
         },
         {
@@ -4811,7 +4811,7 @@ var stations_c2c = {
         },
         {
             name: "102.3 Jack FM",
-            logo: "http://www.1023jack.com/wp-content/uploads/2017/08/1023-JACK-FM.png",
+            logo: "stations/images-america/c2c/102.3 Jack FM.png",
             url: "http://54.203.95.120/alphalouisville-wxmafmmp3-ibc2"
         },
         {
@@ -4895,7 +4895,7 @@ var stations_c2c = {
         },
         {
             name: "Eagle 98.1 The Rock Station",
-            logo: "http://eagle981.com/wp-content/uploads/2015/09/EagleLogo200x100jpg20121.png",
+            logo: "stations/images-america/c2c/Eagle 98.1 The Rock Station.png",
             url: "http://18393.live.streamtheworld.com:3690/WDGLFMAAC_SC"
         },
         {
@@ -4944,7 +4944,7 @@ var stations_c2c = {
         },
         {
             name: "KVOL",
-            logo: "http://kvol1330.com/wp-content/uploads/sites/118/KVOL_1330AM_977FM_logo_180x115.png",
+            logo: "stations/images-america/c2c/KVOL.png",
             url: "http://ice9.securenetsystems.net/KVOL"
         },
         {
@@ -4979,7 +4979,7 @@ var stations_c2c = {
         },
         {
             name: "106.3",
-            logo: "http://1063radiolafayette.com/wp-content/uploads/sites/119/1063-RADIO-LAFAYETTE_KYMK_LOGO_180x115.png",
+            logo: "stations/images-america/c2c/106.3.png",
             url: "http://ice7.securenetsystems.net/KYMK"
         },
         {
@@ -5122,12 +5122,12 @@ var stations_c2c = {
         },
         {
             name: "The River 95.7 KLKL",
-            logo: "http://www.klkl.fm/wp-content/uploads/2017/03/klkl-site-logo1.png",
+            logo: "stations/images-america/c2c/The River 95.7 KLKL.png",
             url: "http://54.189.145.142/alphashreveport-klklfmaac-ibc2"
         },
         {
             name: "98 Rocks KTAL",
-            logo: "http://www.98rocks.fm/wp-content/uploads/2017/02/KTAL-logo.png",
+            logo: "stations/images-america/c2c/98 Rocks KTAL.png",
             url: "http://54.189.145.142/alphashreveport-ktalfmaac-ibc2"
         },
         {
@@ -5277,7 +5277,7 @@ var stations_c2c = {
         },
         {
             name: "AM 1470 WTTR",
-            logo: "http://wttr.wpengine.com/wp-content/uploads/2016/07/WTTR-Logo-Final-PDF.png",
+            logo: "stations/images-america/c2c/AM 1470 WTTR.png",
             url: "http://ice10.securenetsystems.net/WTTR"
         },
         {
@@ -5312,7 +5312,7 @@ var stations_c2c = {
         },
         {
             name: "91.5 FM WBJC Baltimore City Community College",
-            logo: "http://www.wbjc.com/wp-content/themes/wbjc/images/wbjc-logo.png",
+            logo: "stations/images-america/c2c/91.5 FM WBJC Baltimore City Community College.png",
             url: "http://wbjc-ice.streamguys1.com:80/live"
         },
         {
@@ -5359,7 +5359,7 @@ var stations_c2c = {
         },
         {
             name: "94.7 WIAD HD2 Classic Hits",
-            logo: "http://playitassets-a.akamaihd.net/StationBanners/d8/d9/de/d0/d0/dc/d3//6aedd082aafd4bde938949d1189e00c3.jpg",
+            logo: "stations/images-america/c2c/94.7 WIAD HD2 Classic Hits.jpg",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WIADHD2"
         },
         {
@@ -5451,7 +5451,7 @@ var stations_c2c = {
         },
         {
             name: "105.7 WROR Boston's Greatest Hits",
-            logo: "http://files.greatermedia.com/uploads/sites/18/2017/03/wror-new-logo.png",
+            logo: "stations/images-america/c2c/105.7 WROR Boston's Greatest Hits.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WRORFM"
         },
     ],
@@ -5958,7 +5958,7 @@ var stations_c2c = {
         },
         {
             name: "Bob 105.9",
-            logo: "http://www.bob1059.com/wp-content/uploads/2015/10/wqbb-logo1.png",
+            logo: "stations/images-america/c2c/Bob 105.9.png",
             url: "http://54.203.95.120/alphagulfport-wqbbfmaac-ibc2"
         },
     ],
@@ -6191,7 +6191,7 @@ var stations_c2c = {
         },
         {
             name: "90.1FM KKFI",
-            logo: "http://www.kkfi.org/wp-content/uploads/BLK-Badge-on-WHT.png",
+            logo: "stations/images-america/c2c/90.1FM KKFI.png",
             url: "http://pacificaservice.org:8000/kkfi_64"
         },
         {
@@ -6356,7 +6356,7 @@ var stations_c2c = {
         },
         {
             name: "Panther Country Radio KLMB 99.9",
-            logo: "http://klmb99fm.com/files/images/webKLMB-HEADER_4.jpg",
+            logo: "stations/images-america/c2c/Panther Country Radio KLMB 99.9.jpg",
             url: "http://ice6.securenetsystems.net:80/KLMB"
         },
         {
@@ -6525,7 +6525,7 @@ var stations_c2c = {
         },
         {
             name: "Rock 101.5",
-            logo: "http://www.rock1015.com/Pics/bg/kror_masthead_images_01.png",
+            logo: "stations/images-america/c2c/Rock 101.5.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KRORFM"
         },
         {
@@ -6535,7 +6535,7 @@ var stations_c2c = {
         },
         {
             name: "1230 khas",
-            logo: "http://hastingslink.com/images/header_logo.png",
+            logo: "stations/images-america/c2c/1230 khas.png",
             url: "http://ice7.securenetsystems.net/KHAS"
         },
         {
@@ -6557,7 +6557,7 @@ var stations_c2c = {
         },
         {
             name: "The Eagle 92.9",
-            logo: "http://www.ktgl.com/wp-content/uploads/2017/11/Eagle-Logo-Website.png",
+            logo: "stations/images-america/c2c/The Eagle 92.9.png",
             url: "http://14623.live.streamtheworld.com/KTGLFMAAC_SC"
         },
         {
@@ -6567,7 +6567,7 @@ var stations_c2c = {
         },
         {
             name: "KFOR 103.3 1240",
-            logo: "http://www.kfornow.com/wp-content/uploads/2016/04/KFOR-Logo-Website.png",
+            logo: "stations/images-america/c2c/KFOR 103.3 1240.png",
             url: "http://18513.live.streamtheworld.com:80/KFORAMAAC_SC"
         },
         {
@@ -6707,7 +6707,7 @@ var stations_c2c = {
     "morristown": [
         {
             name: "WMTR 1250 Classic Oldies",
-            logo: "http://files.greatermedia.com/uploads/sites/12/2015/04/WMTR-Logo.png",
+            logo: "stations/images-america/c2c/WMTR 1250 Classic Oldies.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WMTRAM"
         },
         {
@@ -6798,7 +6798,7 @@ var stations_c2c = {
     "buffalo_ny": [
         {
             name: "WBEN 930",
-            logo: "http://www.wben.com/sites/g/files/giy1201/f/styles/nts_logo_120x70/public/WBEN_Header_Large_Logo_Resized_2_1.png?itok=VuOrkz9J",
+            logo: "stations/images-america/c2c/WBEN 930.png",
             url: "http://23.22.55.197/entercom-wbenamaac-64"
         },
         {
@@ -6830,7 +6830,7 @@ var stations_c2c = {
         },
         {
             name: "92.3 WOGA",
-            logo: "http://capcityradio.net/woga/wp-content/uploads/sites/42/2014/11/WOGA_WebLogo.png",
+            logo: "stations/images-america/c2c/92.3 WOGA.png",
             url: "http://ice24.securenetsystems.net/WOGA"
         },
         {
@@ -6887,12 +6887,12 @@ var stations_c2c = {
         },
         {
             name: "WHCR 90.3 FM City College of New York",
-            logo: "https://whcr.org/wp-content/uploads/2017/06/FInalLOGO3.jpg",
+            logo: "stations/images-america/c2c/WHCR 90.3 FM City College of New York.jpg",
             url: "http://134.74.174.212:7072/mp3audio1.mp3"
         },
         {
             name: "WMSC 90.3 The Voice of Montclair State University",
-            logo: "http://wmscradio.com/wp-content/uploads/2015/11/wmsc-logo2-1-300x182.png",
+            logo: "stations/images-america/c2c/WMSC 90.3 The Voice of Montclair State University.png",
             url: "https://peridot.streamguys1.com:5485/live-aac"
         },
         {
@@ -6991,7 +6991,7 @@ var stations_c2c = {
         },
         {
             name: "AM 1370 NPR News and Talk",
-            logo: "http://interactive.wxxi.org/files/inserts/am1370.png",
+            logo: "stations/images-america/c2c/AM 1370 NPR News and Talk.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAM.mp3"
         },
         {
@@ -7011,7 +7011,7 @@ var stations_c2c = {
         },
         {
             name: "jazz 90.1 Greece Central School District",
-            logo: "http://www.jazz901.org/images/logo2k10.gif",
+            logo: "stations/images-america/c2c/jazz 90.1 Greece Central School District.gif",
             url: "http://greece-media.monroe.edu/wgmc.mp3"
         },
         {
@@ -7021,7 +7021,7 @@ var stations_c2c = {
         },
         {
             name: "WXXI 91.5 FM",
-            logo: "http://interactive.wxxi.org/sites/default/files/inserts/listen-classical.png",
+            logo: "stations/images-america/c2c/WXXI 91.5 FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3"
         },
         {
@@ -7095,7 +7095,7 @@ var stations_c2c = {
         },
         {
             name: "The Fox",
-            logo: "http://983thefox.com/wp-content/uploads/sites/161/123f.png",
+            logo: "stations/images-america/c2c/The Fox.png",
             url: "http://stereo.wavestreamer.com:9326/LISTEN.PLS"
         },
     ],
@@ -7359,7 +7359,7 @@ var stations_c2c = {
         },
         {
             name: "Mojo 107.5",
-            logo: "https://www.promosuiteinteractive.com/onlinedb/kxrvfm/pics/KXRV_Header_01.gif",
+            logo: "stations/images-america/c2c/Mojo 107.5.gif",
             url: "http://ice64.securenetsystems.net/KXRVFM"
         },
     ],
@@ -7529,7 +7529,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 94.9",
-            logo: "http://www.949cincinnati.com/wp-content/themes/hbi-radio/images/logo3.png",
+            logo: "stations/images-america/c2c/Mix 94.9.png",
             url: "http://14153.live.streamtheworld.com/WREWFMAAC_SC"
         },
         {
@@ -7544,7 +7544,7 @@ var stations_c2c = {
         },
         {
             name: "Classic Country 105.9 106.7",
-            logo: "https://iloveclassiccountry.com/wp-content/uploads/2017/09/iloveclassiccountry-logo-sm.png",
+            logo: "stations/images-america/c2c/Classic Country 105.9 106.7.png",
             url: "http://wnkr.streamguys1.com/live-mp3"
         },
         {
@@ -7566,7 +7566,7 @@ var stations_c2c = {
     "cleveland_oh": [
         {
             name: "88.3 FM WBWG The Sting Baldwin-Wallace College",
-            logo: "http://wbwc.com/images/logosting.jpg",
+            logo: "stations/images-america/c2c/88.3 FM WBWG The Sting Baldwin-Wallace College.jpg",
             url: "http://wbwcradio.bw.edu:8000/;"
         },
         {
@@ -7643,7 +7643,7 @@ var stations_c2c = {
         },
         {
             name: "Local 92.9 FM 1550 AM WDLR",
-            logo: "https://wdlrradio.com/wp-content/uploads/2017/06/wdlrradio_weblogo5.png",
+            logo: "stations/images-america/c2c/Local 92.9 FM 1550 AM WDLR.png",
             url: "http://ice9.securenetsystems.net/WDLR"
         },
         {
@@ -7658,7 +7658,7 @@ var stations_c2c = {
         },
         {
             name: "Easy 95.1 AM 920 WMNI",
-            logo: "https://wmni.com/images/easylogo2.png",
+            logo: "stations/images-america/c2c/Easy 95.1 AM 920 WMNI.png",
             url: "http://icy3.abacast.com/nabco-wmniamaac-48"
         },
         {
@@ -7720,7 +7720,7 @@ var stations_c2c = {
         },
         {
             name: "92.9 Jack FM",
-            logo: "http://www.929jack.com/wp-content/uploads/2017/09/929-JACK-FM.png",
+            logo: "stations/images-america/c2c/92.9 Jack FM.png",
             url: "http://54.184.22.229/alphadayton-wgtzfmaac-ibc2"
         },
         {
@@ -7940,7 +7940,7 @@ var stations_c2c = {
         },
         {
             name: "97.5 KLAK",
-            logo: "http://www.975klak.com/wp-content/uploads/2016/04/klak-height-160px.png",
+            logo: "stations/images-america/c2c/97.5 KLAK.png",
             url: "http://18503.live.streamtheworld.com:80/KLAKFMAAC_SC"
         },
         {
@@ -8062,7 +8062,7 @@ var stations_c2c = {
         },
         {
             name: "91.3 KRSC Rogers State University",
-            logo: "http://rsuradio.com/wp-content/uploads/2016/07/rsu_radio_black__web.png",
+            logo: "stations/images-america/c2c/91.3 KRSC Rogers State University.png",
             url: "http://www.rsukrscfm.rsu.edu:8000/rsuradio128k"
         },
         {
@@ -8151,7 +8151,7 @@ var stations_c2c = {
         },
         {
             name: "Super Talk KLBM 1450",
-            logo: "http://supertalknews.com/images/logo.png",
+            logo: "stations/images-america/c2c/Super Talk KLBM 1450.png",
             url: "http://supertalknews.com:8000/klbm-live"
         },
     ],
@@ -8252,7 +8252,7 @@ var stations_c2c = {
         },
         {
             name: "Kool 99.1",
-            logo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/KODL-AM_logo.png/235px-KODL-AM_logo.png",
+            logo: "stations/images-america/c2c/Kool 99.1.png",
             url: "http://ice3.securenetsystems.net:80/KODL"
         },
         {
@@ -8400,12 +8400,12 @@ var stations_c2c = {
         },
         {
             name: "WIOO Country Gold Radio",
-            logo: "http://www.wioo.com/wp-content/themes/WIOO/images/96f04f4fe2ba331e0eaf2ad905ac11a2_wioologosmall.png",
+            logo: "stations/images-america/c2c/WIOO Country Gold Radio.png",
             url: "http://50.78.91.214:8800/;"
         },
         {
             name: "WHYL",
-            logo: "http://1029whyl.com/wp-content/themes/WHYL1029/images/593fdaa3711bb931516f8038a83979eb_Logo.png",
+            logo: "stations/images-america/c2c/WHYL.png",
             url: "http://50.78.91.214:8804/;"
         },
         {
@@ -8459,7 +8459,7 @@ var stations_c2c = {
         },
         {
             name: "90.9 WHYY",
-            logo: "http://www.whyy.org/img/header_radio.png",
+            logo: "stations/images-america/c2c/90.9 WHYY.png",
             url: "http://whyy-hd.streamguys1.com/whyy-hd-mp3"
         },
         {
@@ -8812,7 +8812,7 @@ var stations_c2c = {
         },
         {
             name: "KDSJ 980 AM",
-            logo: "http://www.kdsj980.com/home/themes/KDSJ/images/logo.png",
+            logo: "stations/images-america/c2c/KDSJ 980 AM.png",
             url: "http://s4.viastreaming.net:7860/;"
         },
         {
@@ -8931,7 +8931,7 @@ var stations_c2c = {
         },
         {
             name: "970 WRHA",
-            logo: "http://rheacountyradio.com/970logo.png",
+            logo: "stations/images-america/c2c/970 WRHA.png",
             url: "http://wdnt.dyndns.biz:8002/;"
         },
     ],
@@ -8948,7 +8948,7 @@ var stations_c2c = {
         },
         {
             name: "News Talk 94.1 1600",
-            logo: "http://cookevillesnewstalk.com/wp-content/uploads/2016/12/WUCT-Logo-Small.png",
+            logo: "stations/images-america/c2c/News Talk 94.1 1600.png",
             url: "http://ice66.securenetsystems.net/WUCT"
         },
         {
@@ -8968,7 +8968,7 @@ var stations_c2c = {
         },
         {
             name: "107.7 1400 The Hub",
-            logo: "https://www.promosuiteinteractive.com/onlinedb/whubam/pics/hub-logo-new-3.png",
+            logo: "stations/images-america/c2c/107.7 1400 The Hub.png",
             url: "http://ice42.securenetsystems.net/WHUBAM"
         },
     ],
@@ -9071,7 +9071,7 @@ var stations_c2c = {
     "memphis": [
         {
             name: "WYPL FM 89.3",
-            logo: "http://www.memphislibrary.org/memphislibrary/wp-content/uploads/WYPL-LOGO-192x200.png",
+            logo: "stations/images-america/c2c/WYPL FM 89.3.png",
             url: "http://ice64.securenetsystems.net/WYPL"
         },
         {
@@ -9247,12 +9247,12 @@ var stations_c2c = {
         },
         {
             name: "100.9 The Eagle",
-            logo: "http://www.1009theeagle.com/wp-content/uploads/2015/11/KXGL-120px.png",
+            logo: "stations/images-america/c2c/100.9 The Eagle.png",
             url: "http://1.ice1.firststreaming.com:8000/kxgl_fm.aac"
         },
         {
             name: "KGNC 710 97.5 News Talk Sports",
-            logo: "http://www.kgncnewsnow.com/wp-content/uploads/2017/08/KGNC_AM_Website140px.png",
+            logo: "stations/images-america/c2c/KGNC 710 97.5 News Talk Sports.png",
             url: "http://1.ice1.firststreaming.com:8000/kgnc_am.aac"
         },
         {
@@ -9299,7 +9299,7 @@ var stations_c2c = {
         },
         {
             name: "98.9 kutx",
-            logo: "http://kutx.org/wp-content/themes/clean/images/logo.svg",
+            logo: "stations/images-america/c2c/98.9 kutx.svg",
             url: "http://kut2.streamguys1.com/kut2"
         },
         {
@@ -9329,7 +9329,7 @@ var stations_c2c = {
         },
         {
             name: "Talk Radio 1370",
-            logo: "http://www.talk1370.com/sites/g/files/giy1261/f/styles/nts_logo_120x70/public/KJCE_AM_Header_Large_Logo_4_2.png?itok=F0jaIJVS",
+            logo: "stations/images-america/c2c/Talk Radio 1370.png",
             url: "http://54.82.116.182/entercom-kjceamaac-64"
         },
         {
@@ -9368,7 +9368,7 @@ var stations_c2c = {
     "bryan_tx": [
         {
             name: "88.1 kutx",
-            logo: "http://kutx.org/wp-content/themes/clean/images/logo.svg",
+            logo: "stations/images-america/c2c/88.1 kutx.svg",
             url: "http://kut2.streamguys1.com/kut2"
         },
         {
@@ -9452,7 +9452,7 @@ var stations_c2c = {
         },
         {
             name: "KXT 91.7",
-            logo: "http://kxt.org/wp-content/themes/kxt-joints/assets/images/kxt-logo.png",
+            logo: "stations/images-america/c2c/KXT 91.7.png",
             url: "http://kera-ice.streamguys.us/kxtlive64aacplus"
         },
         {
@@ -9761,7 +9761,7 @@ var stations_c2c = {
         },
         {
             name: "102.7 Jack FM",
-            logo: "http://www.hellojack.com/wp-content/uploads/2016/06/jack_medlogo.png",
+            logo: "stations/images-america/c2c/102.7 Jack FM.png",
             url: "http://54.203.95.120/alphasanantonio-kjxkfmaac-ibc2"
         },
         {
@@ -9776,7 +9776,7 @@ var stations_c2c = {
         },
         {
             name: "107.1 550 KTSA",
-            logo: "http://www.ktsa.com/wp-content/uploads/2016/06/ktsalogo.png",
+            logo: "stations/images-america/c2c/107.1 550 KTSA.png",
             url: "http://54.203.95.120/alphasanantonio-ktsaamaac-ibc2?"
         },
         {
@@ -9839,12 +9839,12 @@ var stations_c2c = {
         },
         {
             name: "The Ranch KKUS 104.1",
-            logo: "http://www.theranch.fm/wp-content/uploads/2015/11/KKUS-120px.png",
+            logo: "stations/images-america/c2c/The Ranch KKUS 104.1.png",
             url: "http://54.189.145.142/alphatyler-kkusfmaac-ibc2"
         },
         {
             name: "106.5 Jack FM",
-            logo: "http://www.kooi.com/wp-content/uploads/2017/06/277x140_jack_logo.png",
+            logo: "stations/images-america/c2c/106.5 Jack FM.png",
             url: "http://54.189.145.142/alphatyler-kooifmaac-ibc2"
         },
     ],
@@ -9988,7 +9988,7 @@ var stations_c2c = {
         },
         {
             name: "News Radio 94.9 KDXU 890",
-            logo: "http://www.890kdxu.com/wp-content/uploads/2017/06/unnamed.png",
+            logo: "stations/images-america/c2c/News Radio 94.9 KDXU 890.png",
             url: "http://ice9.securenetsystems.net/KDXUAM"
         },
         {
@@ -10015,7 +10015,7 @@ var stations_c2c = {
     "salt_lake_city": [
         {
             name: "KCPW 88.3 FM",
-            logo: "http://kcpw.org/",
+            logo: "stations/images-america/c2c/KCPW 88.3 FM.org/",
             url: "http://stream.xmission.com/kcpw"
         },
         {
@@ -10156,7 +10156,7 @@ var stations_c2c = {
     "lebanon": [
         {
             name: "WDEV",
-            logo: "http://www.stretchinternet.com/live/wdev/images/client-logo.png",
+            logo: "stations/images-america/c2c/WDEV.png",
             url: "http://i1.stretchinternet.com:8000/wdev"
         },
         {
@@ -10257,7 +10257,7 @@ var stations_c2c = {
         },
         {
             name: "92.9 The Wave",
-            logo: "http://www.929thewave.com/upload/the-wave-logo.gif",
+            logo: "stations/images-america/c2c/92.9 The Wave.gif",
             url: "http://17443.live.streamtheworld.com:80/WVBWFMAAC_SC"
         },
         {
@@ -10358,7 +10358,7 @@ var stations_c2c = {
         },
         {
             name: "WEPM",
-            logo: "http://wepm.com/wp-content/uploads/sites/97/wepm_translator.png",
+            logo: "stations/images-america/c2c/WEPM.png",
             url: "http://65.19.131.141/wvradio-wepmamaac-ibc2"
         },
     ],
@@ -10417,7 +10417,7 @@ var stations_c2c = {
         },
         {
             name: "Newsradio 610 KONA",
-            logo: "http://610kona.com/wp-content/uploads/2016/03/cropped-610KONA-LOGO.jpg",
+            logo: "stations/images-america/c2c/Newsradio 610 KONA.jpg",
             url: "http://ice9.securenetsystems.net/KONAAM"
         },
         {
@@ -10640,7 +10640,7 @@ var stations_c2c = {
         },
         {
             name: "Newsradio 560 KPQ",
-            logo: "http://kpq.com/wp-content/uploads/2017/05/kpq_500_2.png",
+            logo: "stations/images-america/c2c/Newsradio 560 KPQ.png",
             url: "http://ice10.securenetsystems.net/KPQAM"
         },
         {
@@ -10662,7 +10662,7 @@ var stations_c2c = {
         },
         {
             name: "96.1 KWS Superstar Country",
-            logo: "http://961kws.com/wp-content/uploads/sites/104/961kws_logo.png",
+            logo: "stations/images-america/c2c/96.1 KWS Superstar Country.png",
             url: "http://icy1.abacast.com:80/wvradio-wkwsfmaac-64"
         },
         {
@@ -10699,12 +10699,12 @@ var stations_c2c = {
         },
         {
             name: "Sky 106.5",
-            logo: "http://sky1065.com/wp-content/uploads/sites/111/sky_logo.png",
+            logo: "stations/images-america/c2c/Sky 106.5.png",
             url: "http://icy1.abacast.com:80/wvradio-wwlwfmaac-64"
         },
         {
             name: "1440 WAJR The Voice of Morgantown",
-            logo: "http://wajr.com/wp-content/uploads/sites/90/180x115-wajr-am-copy.png",
+            logo: "stations/images-america/c2c/1440 WAJR The Voice of Morgantown.png",
             url: "http://54.234.144.37/wvradio-wajramaac-ibc2"
         },
     ],
@@ -10758,7 +10758,7 @@ var stations_c2c = {
         },
         {
             name: "94.7 WELK",
-            logo: "http://947welk.com/wp-content/uploads/sites/96/WELK_NEW.png",
+            logo: "stations/images-america/c2c/94.7 WELK.png",
             url: "http://icy1.abacast.com:80/wvradio-welkfmaac-64"
         },
         {
@@ -11185,7 +11185,7 @@ var stations_c2c = {
         },
         {
             name: "WRRD 1510",
-            logo: "http://newstalk1510am.com/wp-content/uploads/2017/01/finish_WRRD_3_reverse_grey-01.png",
+            logo: "stations/images-america/c2c/WRRD 1510.png",
             url: "http://darnwi.com:8000/stream"
         },
     ],
@@ -11264,7 +11264,7 @@ var stations_c2c = {
         },
         {
             name: "92.3 KYOY",
-            logo: "http://kyoy.net/_graphics/_header/logo.png",
+            logo: "stations/images-america/c2c/92.3 KYOY.png",
             url: "http://ice6.securenetsystems.net/KRAE"
         },
         {
@@ -11299,7 +11299,7 @@ var stations_c2c = {
         },
         {
             name: "KRAE 1480 Oldies",
-            logo: "http://1480krae.com/_graphics/logo.png",
+            logo: "stations/images-america/c2c/KRAE 1480 Oldies.png",
             url: "http://ice7.securenetsystems.net/KYOYFM"
         },
     ],

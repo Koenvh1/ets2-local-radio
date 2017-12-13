@@ -1738,6 +1738,11 @@ var stations = {
             logo: "stations/images-europe/italy/RTL 102.5.jpg",
             url: "http://shoutcast.rtl.it:3010/stream/1/"
         },
+        {
+            name: "Virgin Radio",
+            logo: "stations/images-europe/italy/Virgin Radio.jpg",
+            url: "http://icecast.unitedradio.it/Virgin.mp3"
+        },
     ],
     "kazakhstan": [
         {
