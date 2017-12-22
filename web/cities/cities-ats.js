@@ -1144,12 +1144,6 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 1.3
     },
-    "el_rosario": {
-        name: "El Rosario",
-        name_english: "El Rosario",
-        code: "mx-bcs",
-        relative_radius: 1.2
-    },
     "gomez_p": {
         name: "Gómez Palacio",
         name_english: "Gomez Palacio",
@@ -6725,11 +6719,11 @@ country_properties = $.extend(country_properties, country_properties_mexico);
 city_properties = $.extend(city_properties, city_properties_mexico);
 cities = cities.concat(cities_mexico);
 
-//Uncomment the line below to enable C2C
+//Uncomment the lines below to enable C2C
 //cities = cities.concat(cities_c2c);
+//country_properties = $.extend(country_properties, country_properties_c2c);
+//city_properties = $.extend(city_properties, city_properties_c2c);
 
-country_properties = $.extend(country_properties, country_properties_c2c);
-city_properties = $.extend(city_properties, city_properties_c2c);
 for(var key in country_properties_c2c) {
     if(!country_properties_c2c.hasOwnProperty(key)) continue;
     var index = cities_c2c.map(function (e) {
