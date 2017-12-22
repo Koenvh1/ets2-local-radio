@@ -1719,6 +1719,11 @@ var stations = {
             url: "http://www.rds.it:8000/stream"
         },
         {
+            name: "Radio Freccia",
+            logo: "stations/images-europe/italy/Radio Freccia.png",
+            url: "http://shoutcast.rtl.it:3060/;"
+        },
+        {
             name: "Radio Italia",
             logo: "stations/images-europe/italy/Radio Italia.png",
             url: "http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8"
