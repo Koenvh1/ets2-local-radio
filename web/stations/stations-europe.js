@@ -2451,6 +2451,11 @@ var stations = {
             url: "http://listen3.vdfm.ru:8000/dacha"
         },
         {
+            name: "Радио Родных Дорог",
+            logo: "stations/images-europe/russia/Радио Родных Дорог.svg",
+            url: "http://stream1.radiord.ru:8000/live96.aac"
+        },
+        {
             name: "Радио Рекорд",
             logo: "stations/images-europe/russia/Радио Рекорд.png",
             url: "http://air.radiorecord.ru:805/rr_320"

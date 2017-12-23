@@ -518,7 +518,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "drammen": {
-        relative_radius: 1.2,
+        relative_radius: 0.7,
     },
     "duisburg": {
         relative_radius: 0.8,
@@ -593,7 +593,7 @@ var city_properties = {
         relative_radius: 1.5,
     },
     "ioannina": {
-        relative_radius: 0.6,
+        relative_radius: 1.1,
     },
     "irun": {
         relative_radius: 0.6,
