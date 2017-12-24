@@ -2638,7 +2638,7 @@ var stations = {
         {
             name: "RNE Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "http://195.55.74.211/rtve/radioclasica.mp3"
+            url: "http://195.55.74.221/rtve/radioclasica.mp3"
         },
         {
             name: "RNE Radio 3",
