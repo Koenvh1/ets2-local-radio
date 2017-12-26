@@ -613,6 +613,9 @@ var city_properties = {
     "karsamaki": {
         relative_radius: 0.55,
     },
+    "kem": {
+        relative_radius: 1.5,
+    },
     "kiel": {
         relative_radius: 0.6,
     },
@@ -5369,6 +5372,14 @@ var cities_srm = [
         "z": "30426.6"
     },
     {
+        "gameName": "kem",
+        "realName": "Kem'",
+        "country": "russia",
+        "x": "66736.8",
+        "y": "61.5156",
+        "z": "-89467.5"
+    },
+    {
         "gameName": "korenovsk",
         "realName": "Кореновск",
         "country": "russia",
@@ -5441,6 +5452,14 @@ var cities_srm = [
         "z": "25626.8"
     },
     {
+        "gameName": "medved",
+        "realName": "Medvezhyegorsk",
+        "country": "russia",
+        "x": "67995.3",
+        "y": "76.6172",
+        "z": "-77326.8"
+    },
+    {
         "gameName": "morozovsk",
         "realName": "Морозовск",
         "country": "russia",
@@ -5487,6 +5506,22 @@ var cities_srm = [
         "x": "114559",
         "y": "60.125",
         "z": "14678.2"
+    },
+    {
+        "gameName": "petrozavodsk",
+        "realName": "Petrozavodsk",
+        "country": "russia",
+        "x": "66815.9",
+        "y": "86.6914",
+        "z": "-70284.8"
+    },
+    {
+        "gameName": "pole",
+        "realName": "Lodeynoye Pole",
+        "country": "russia",
+        "x": "67409.2",
+        "y": "86.4648",
+        "z": "-65013.9"
     },
     {
         "gameName": "rostov",
@@ -5631,6 +5666,14 @@ var cities_srm = [
         "x": "103633",
         "y": "54.0391",
         "z": "23438.5"
+    },
+    {
+        "gameName": "zelenoborsky",
+        "realName": "Zelenoborsky",
+        "country": "russia",
+        "x": "57673.2",
+        "y": "42.2695",
+        "z": "-93488.3"
     }
 ]
 
