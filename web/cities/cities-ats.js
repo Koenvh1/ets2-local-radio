@@ -2800,6 +2800,12 @@ var country_properties_c2c = {
         code: "us-nj",
         relative_radius: 1.2
     },
+    "clayton_nm": {
+        name: "clayton_nm",
+        english_name: "clayton_nm",
+        code: "us-nm",
+        relative_radius: 1.2
+    },
     "new_mexico": {
         name: "new_mexico",
         english_name: "new_mexico",
@@ -3334,6 +3340,12 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 1.2
     },
+    "adrian_tx": {
+        name: "adrian_tx",
+        english_name: "adrian_tx",
+        code: "us-tx",
+        relative_radius: 1.2
+    },
     "amarillo": {
         name: "amarillo",
         english_name: "amarillo",
@@ -3370,6 +3382,18 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 1.2
     },
+    "dalhart_tx": {
+        name: "dalhart_tx",
+        english_name: "dalhart_tx",
+        code: "us-tx",
+        relative_radius: 1.2
+    },
+    "dumas_tx": {
+        name: "dumas_tx",
+        english_name: "dumas_tx",
+        code: "us-tx",
+        relative_radius: 1.2
+    },
     "fort_stockton": {
         name: "fort_stockton",
         english_name: "fort_stockton",
@@ -3403,6 +3427,12 @@ var country_properties_c2c = {
     "midland_tx": {
         name: "midland_tx",
         english_name: "midland_tx",
+        code: "us-tx",
+        relative_radius: 1.2
+    },
+    "plainview_tx": {
+        name: "plainview_tx",
+        english_name: "plainview_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
@@ -4204,6 +4234,9 @@ var city_properties_c2c = {
     "morristown": {
         relative_whitenoise: 0.95
     },
+    "clayton_nm": {
+        relative_whitenoise: 0.95
+    },
     "new_york": {
         relative_whitenoise: 0.95
     },
@@ -4441,6 +4474,9 @@ var city_properties_c2c = {
     "abilene": {
         relative_whitenoise: 0.95
     },
+    "adrian_tx": {
+        relative_whitenoise: 0.95
+    },
     "amarillo": {
         relative_whitenoise: 0.95
     },
@@ -4459,6 +4495,12 @@ var city_properties_c2c = {
     "dallas": {
         relative_whitenoise: 0.95
     },
+    "dalhart_tx": {
+        relative_whitenoise: 0.95
+    },
+    "dumas_tx": {
+        relative_whitenoise: 0.95
+    },
     "fort_stockton": {
         relative_whitenoise: 0.95
     },
@@ -4475,6 +4517,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "midland_tx": {
+        relative_whitenoise: 0.95
+    },
+    "plainview_tx": {
         relative_whitenoise: 0.95
     },
     "sanantonio": {
@@ -4828,9 +4873,9 @@ var cities_c2c = [
         "gameName": "fort_lauderdale",
         "realName": "Fort Lauderdale",
         "country": "florida",
-        "x": "81809.9",
-        "y": "11.601",
-        "z": "11.601",
+        "x": "81804.9",
+        "y": "54.0859",
+        "z": "66062.5",
     },
     {
         "gameName": "fort_pierce",
@@ -5722,11 +5767,19 @@ var cities_c2c = [
     },
     {
         "gameName": "morristown",
-        "realName": "morristown",
+        "realName": "Morristown",
         "country": "new_jersey",
         "x": "90418.5",
         "y": "21.6024",
         "z": "-20146.1"
+    },
+    {
+        "gameName": "clayton_nm",
+        "realName": "Clayton",
+        "country": "new_mexico",
+        "x": "-32291",
+        "y": "137.168",
+        "z": "13313.5"
     },
     {
         "gameName": "albany",
@@ -6257,6 +6310,14 @@ var cities_c2c = [
         "z": "36914.7"
     },
     {
+        "gameName": "adrian_tx",
+        "realName": "Adrian",
+        "country": "texas",
+        "x": "-30424.5",
+        "y": "137.148",
+        "z": "20411"
+    },
+    {
         "gameName": "amarillo",
         "realName": "Amarillo",
         "country": "texas",
@@ -6305,6 +6366,22 @@ var cities_c2c = [
         "z": "34800.5"
     },
     {
+        "gameName": "dalhart_tx",
+        "realName": "Dalhart",
+        "country": "texas",
+        "x": "-29602.4",
+        "y": "137.168",
+        "z": "15561.6"
+    },
+    {
+        "gameName": "dumas_tx",
+        "realName": "Dumas",
+        "country": "texas",
+        "x": "-27164.9",
+        "y": "137.473",
+        "z": "16898.7"
+    },
+    {
         "gameName": "fort_stockton",
         "realName": "Fort Stockton",
         "country": "texas",
@@ -6351,6 +6428,14 @@ var cities_c2c = [
         "x": "-28614.5",
         "y": "31.6219",
         "z": "38784.6"
+    },
+    {
+        "gameName": "plainview_tx",
+        "realName": "Plainview",
+        "country": "texas",
+        "x": "-26527.1",
+        "y": "110.047",
+        "z": "26426.1"
     },
     {
         "gameName": "sanantonio",
@@ -6713,6 +6798,7 @@ var cities_c2c = [
         "z": "-35274.9"
     },
 ];
+
 
 
 country_properties = $.extend(country_properties, country_properties_mexico);
