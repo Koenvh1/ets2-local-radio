@@ -745,7 +745,7 @@ var stations = {
         {
             name: "The Knack",
             logo: "stations/images-america/kingman/The Knack.png",
-            url: "http://54.211.53.194/cameron-knkkfmaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-696c64313439336a356d343572386564&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02"
+            url: "http://54.82.44.170/cameron-knkkfmaac-ibc3"
         },
     ],
     "las_cruces": [
@@ -1171,6 +1171,11 @@ var stations = {
         },
         */
         {
+            name: "99.7 Now",
+            logo: "stations/images-america/san_francisco/99.7 Now.png",
+            url: "http://17653.live.streamtheworld.com/KMVQFM_SC"
+        },
+        {
             name: "KALW",
             logo: "stations/images-america/san_rafael/KALX.png",
             url: "http://live.str3am.com:2430/"
@@ -1479,6 +1484,11 @@ var stations = {
 var stations_mexico = {
     "tijuana": [
         {
+            name: "Exa 91.7 Tijuana",
+            logo: "stations/images-america/tijuana/Exa 91.7 Tijuana.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX_SC"
+        },
+        {
             name: "La Mejor 90.7 FM",
             logo: "stations/images-america/tijuana/La Mejor 90.7 FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM.mp3"
@@ -1631,7 +1641,12 @@ var stations_mexico = {
             name: "Radio Sonora",
             logo: "stations/images-america/sonoyta/son.png",
             url: "http://s1.radiosonorense.com:2150/stream"
-        }
+        },
+        {
+            name: "La Bestia Grupera 96.5 FM",
+            logo: "stations/images-america/other/La Bestia Grupera 96.5 FM.png",
+            url: "http://stream2.dyndns.org:8000/xhita.mp3"
+        },
     ],
     "puerto_pena": [
         {

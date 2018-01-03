@@ -81,7 +81,7 @@
         name: "Κύπρος",
         name_english: "Cyprus",
         code: "cy",
-        relative_radius: 1,
+        relative_radius: 0.5,
     },
     "czech": {
         name: "Česká republika",
@@ -5757,6 +5757,14 @@ var cities_wip = [
         "x": "39573",
         "y": "43",
         "z": "37373"
+    },
+    {
+        "gameName": "larnaca",
+        "realName": "Λάρνακα (Larnaca)",
+        "country": "cyprus",
+        "x": "103900",
+        "y": "0",
+        "z": "76700"
     },
     {
         "gameName": "lefkosia",
