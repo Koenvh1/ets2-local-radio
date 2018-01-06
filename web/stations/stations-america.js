@@ -1079,7 +1079,7 @@ var stations = {
         {
             name: "KHFM",
             logo: "stations/images-america/roswell/KHFM.png",
-            url: "http://54.221.12.118/agmedia28-khfmfmaac-ibc3?session-id=80c57adfe10168422b29445924648d14"
+            url: "http://54.159.163.1/agmedia28-khfmfmaac-ibc3"
         },
     ],
     "sacramento": [
@@ -1115,7 +1115,7 @@ var stations = {
         {
             name: "KHFM",
             logo: "stations/images-america/santa_fe/KHFM.png",
-            url: "http://54.221.12.118/agmedia28-khfmfmaac-ibc3?session-id=80c57adfe10168422b29445924648d14"
+            url: "http://54.159.163.1/agmedia28-khfmfmaac-ibc3"
         },
         {
             name: "KISS 97.3",
@@ -1177,8 +1177,13 @@ var stations = {
         },
         {
             name: "KALW",
-            logo: "stations/images-america/san_rafael/KALX.png",
+            logo: "stations/images-america/san_francisco/KALX.png",
             url: "http://live.str3am.com:2430/"
+        },
+        {
+            name: "KALX",
+            logo: "stations/images-america/san_francisco/KALX.png",
+            url: "http://icecast.media.berkeley.edu:8000/kalx-128.mp3"
         },
         {
             name: "KDFC",

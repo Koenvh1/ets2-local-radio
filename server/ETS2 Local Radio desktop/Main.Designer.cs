@@ -42,7 +42,6 @@
             this.makeFavouriteKeyLabel = new System.Windows.Forms.Label();
             this.keyLabel = new System.Windows.Forms.Label();
             this.volumeDownKeyLabel = new System.Windows.Forms.Label();
-            this.buttonLabel = new System.Windows.Forms.Label();
             this.volumeUpKeyLabel = new System.Windows.Forms.Label();
             this.makeFavouriteButtonTextbox = new System.Windows.Forms.TextBox();
             this.stopKeyLabel = new System.Windows.Forms.Label();
@@ -57,8 +56,10 @@
             this.volumeDownKeyTextBox = new System.Windows.Forms.TextBox();
             this.stopButtonTextBox = new System.Windows.Forms.TextBox();
             this.volumeUpKeyTextBox = new System.Windows.Forms.TextBox();
+            this.buttonLabel = new System.Windows.Forms.Label();
             this.groupInfo = new System.Windows.Forms.GroupBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.comboIP = new System.Windows.Forms.ComboBox();
             this.gameInfo = new System.Windows.Forms.Label();
             this.gameLabel = new System.Windows.Forms.Label();
             this.statusInfo = new System.Windows.Forms.Label();
@@ -66,7 +67,6 @@
             this.URLInfo = new System.Windows.Forms.Label();
             this.statusLabel = new System.Windows.Forms.Label();
             this.locationLabel = new System.Windows.Forms.Label();
-            this.comboIP = new System.Windows.Forms.ComboBox();
             this.URLLabel = new System.Windows.Forms.LinkLabel();
             this.comboLang = new System.Windows.Forms.ComboBox();
             this.folderDialog = new System.Windows.Forms.FolderBrowserDialog();
@@ -247,17 +247,6 @@
             this.volumeDownKeyLabel.Text = "Volume down key:";
             this.volumeDownKeyLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // buttonLabel
-            // 
-            this.buttonLabel.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.buttonLabel.Location = new System.Drawing.Point(322, 0);
-            this.buttonLabel.Name = "buttonLabel";
-            this.buttonLabel.Size = new System.Drawing.Size(79, 25);
-            this.buttonLabel.TabIndex = 21;
-            this.buttonLabel.Text = "Controller";
-            this.buttonLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
             // volumeUpKeyLabel
             // 
             this.volumeUpKeyLabel.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -404,6 +393,17 @@
             this.volumeUpKeyTextBox.Size = new System.Drawing.Size(79, 22);
             this.volumeUpKeyTextBox.TabIndex = 8;
             // 
+            // buttonLabel
+            // 
+            this.buttonLabel.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.buttonLabel.Location = new System.Drawing.Point(322, 0);
+            this.buttonLabel.Name = "buttonLabel";
+            this.buttonLabel.Size = new System.Drawing.Size(79, 25);
+            this.buttonLabel.TabIndex = 21;
+            this.buttonLabel.Text = "Controller";
+            this.buttonLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // groupInfo
             // 
             this.groupInfo.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -442,6 +442,17 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(407, 118);
             this.tableLayoutPanel1.TabIndex = 14;
+            // 
+            // comboIP
+            // 
+            this.comboIP.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboIP.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.comboIP.FormattingEnabled = true;
+            this.comboIP.Location = new System.Drawing.Point(88, 72);
+            this.comboIP.Name = "comboIP";
+            this.comboIP.Size = new System.Drawing.Size(316, 21);
+            this.comboIP.TabIndex = 11;
             // 
             // gameInfo
             // 
@@ -519,17 +530,6 @@
             this.locationLabel.TabIndex = 6;
             this.locationLabel.Text = "XYZ";
             this.locationLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // comboIP
-            // 
-            this.comboIP.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboIP.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.comboIP.FormattingEnabled = true;
-            this.comboIP.Location = new System.Drawing.Point(88, 72);
-            this.comboIP.Name = "comboIP";
-            this.comboIP.Size = new System.Drawing.Size(316, 21);
-            this.comboIP.TabIndex = 11;
             // 
             // URLLabel
             // 

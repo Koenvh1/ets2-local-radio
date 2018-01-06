@@ -429,10 +429,16 @@ namespace ETS2_Local_Radio_server
 
         public void Subscribe()
         {
-            // Note: for the application hook, use the Hook.AppEvents() instead
-            m_GlobalHook = Hook.GlobalEvents();
+            try
+            {
+                // Note: for the application hook, use the Hook.AppEvents() instead
+                m_GlobalHook = Hook.GlobalEvents();
 
-            m_GlobalHook.KeyDown += GlobalHookKeyDown;
+                m_GlobalHook.KeyDown += GlobalHookKeyDown;
+            } catch (Exception ex)
+            {
+                Log.Write(ex.ToString());
+            }
         }
 
         private void GlobalHookKeyDown(object sender, KeyEventArgs e)

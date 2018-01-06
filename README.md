@@ -194,6 +194,9 @@ and **restart your computer**
 then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
 `\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
 
+If that doesn't work, then please try the [alternative dll](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_ets2-telemetry.dll/ets2-telemetry.dll)
+and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\plugins` folder. (The alternative only works on 64-bit)
+
 ### The game crashes when changing the graphics settings
 Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
 
