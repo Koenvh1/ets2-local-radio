@@ -4149,6 +4149,22 @@ var cities = [
         "z": "-12273"
     },
     {
+        "gameName": "ullapool",
+        "realName": "Ullapool",
+        "country": "scotland",
+        "x": "-48956",
+        "y": "71",
+        "z": "-64780"
+    },
+    {
+        "gameName": "ullapool",
+        "realName": "Ullapool",
+        "country": "uk",
+        "x": "-48956",
+        "y": "71",
+        "z": "-64780"
+    },
+    {
         "gameName": "ulm",
         "realName": "Ulm",
         "country": "germany-swr",
@@ -5775,6 +5791,14 @@ var cities_wip = [
         "z": "75415.23"
     },
     {
+        "gameName": "lemesos",
+        "realName": "Λεμεσός (Lemesos)",
+        "country": "cyprus",
+        "x": "101258",
+        "y": "0",
+        "z": "78849"
+    },
+    {
         "gameName": "netanya",
         "realName": "Netanya",
         "country": "israel",
@@ -5861,22 +5885,6 @@ var cities_wip = [
         "x": "47637",
         "y": "56",
         "z": "-27414"
-    },
-    {
-        "gameName": "ullapool",
-        "realName": "Ullapool",
-        "country": "scotland",
-        "x": "-48956",
-        "y": "71",
-        "z": "-64780"
-    },
-    {
-        "gameName": "ullapool",
-        "realName": "Ullapool",
-        "country": "uk",
-        "x": "-48956",
-        "y": "71",
-        "z": "-64780"
     },
     {
         "gameName": "vidin",
