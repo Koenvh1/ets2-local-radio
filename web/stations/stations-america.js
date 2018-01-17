@@ -50,7 +50,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/albuquerque/Family Life Radio.jpg",
-            url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "KOB FM",
@@ -72,7 +72,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/artesia/Family Life Radio.jpg",
-            url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "Star 88",
@@ -148,7 +148,7 @@ var stations = {
         {
             name: "Radio Punjab",
             logo: "stations/images-america/bakersfield/Radio Punjab.png",
-            url: "http://198.178.121.76:8065/stream"
+            url: "http://s2.voscast.com:7016/;stream0.791576886549592.mp3"
         },
         {
             name: "The Bull 97.3",
@@ -236,12 +236,12 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/carlsbad_nm/Family Life Radio.jpg",
-            url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "K-LOVE",
             logo: "stations/images-america/carlsbad_nm/K-LOVE.png",
-            url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
             name: "KATK",
@@ -615,7 +615,7 @@ var stations = {
         {
             name: "Rewind 108",
             logo: "stations/images-america/holbrook/Rewind 108.png",
-            url: "http://www.mountain411.com:8192/KVSL-128"
+            url: "http://69.64.65.171:8192/rewind128"
         },
     ],
     "hornbrook": [
@@ -634,10 +634,10 @@ var stations = {
         {
             name: "K-LOVE",
             logo: "stations/images-america/huron/K-LOVE.png",
-            url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
-            name: "Kiss Country",
+            name: "KSKS Kiss Country",
             logo: "stations/images-america/huron/Kiss Country.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFM.mp3"
         },
@@ -690,7 +690,7 @@ var stations = {
         {
             name: "Mix 100.5",
             logo: "stations/images-america/indio/Mix 100.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPSIFM.mp3"
+            url: "http://stream.abacast.net/direct/alphacorporate-kpsifmaac-ibc4&source=website"
         },
         {
             name: "Radio Nueva Vida",
@@ -728,7 +728,7 @@ var stations = {
         {
             name: "KAAA",
             logo: "stations/images-america/kingman/KAAA.jpg",
-            url: "http://54.211.53.194/cameron-kaaaamaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-6b6c3261633434766b696f7067696a37&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02 "
+            url: "http://54.82.44.170/cameron-kaaaammp3-ibc3"
         },
         /*
         {
@@ -1020,7 +1020,7 @@ var stations = {
         {
             name: "KNCQ",
             logo: "stations/images-america/redding/KNCQ.png",
-            url: "https://prod-54-221-12-118.wostreaming.net/resultsradio-kncqfmaac-ibc3?session-id=c4d326399db426afbb46849da7c10669&source=tunegenie"
+            url: "https://live.wostreaming.net/direct/resultsradio-kncqfmaac-ibc3?source=tunegenie"
         },
     ],
     "reno": [
@@ -1042,7 +1042,7 @@ var stations = {
         {
             name: "K-LOVE",
             logo: "stations/images-america/reno/K-LOVE.png",
-            url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
             name: "La Tricolor 102.1",
@@ -1079,7 +1079,7 @@ var stations = {
         {
             name: "KHFM",
             logo: "stations/images-america/roswell/KHFM.png",
-            url: "http://54.159.163.1/agmedia28-khfmfmaac-ibc3"
+            url: "http://54.82.44.170/agmedia28-khfmfmaac-ibc3"
         },
     ],
     "sacramento": [
@@ -1110,12 +1110,12 @@ var stations = {
         {
             name: "K-LOVE",
             logo: "stations/images-america/santa_fe/K-LOVE.png",
-            url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
             name: "KHFM",
             logo: "stations/images-america/santa_fe/KHFM.png",
-            url: "http://54.159.163.1/agmedia28-khfmfmaac-ibc3"
+            url: "http://54.82.44.170/agmedia28-khfmfmaac-ibc3"
         },
         {
             name: "KISS 97.3",
@@ -1236,7 +1236,7 @@ var stations = {
         {
             name: "99.7 The Bear",
             logo: "stations/images-america/show_low/99.7 The Bear.png",
-            url: "http://69.64.67.188:8192/KPKX-128"
+            url: "http://www.997thebear.com:8192/bear64"
         },
         {
             name: "KQAZ",
@@ -1348,7 +1348,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/tucson/Family Life Radio.jpg",
-            url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "Mix 94.9",
@@ -1400,19 +1400,19 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/tucumcari/Family Life Radio.jpg",
-            url: "http://stream.us.gslb.liquidcompass.net/MYFLRIRAAC?ats=1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
             name: "K-LOVE",
             logo: "stations/images-america/tucumcari/K-LOVE.png",
-            url: "http://ilov-fl.akacast.iheart.com/7/519/137297/v1/auth.akacast.akamaistream.net/ilov-fl"
+            url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
     ],
     "ukiah": [
         {
             name: "The Coast",
             logo: "stations/images-america/ukiah/The Coast.png",
-            url: "http://54.211.53.194/caradio-koztfmaac-ibc3?session-id=3536d8e7d93bf127af76b06959807a02-726166376f74666a6776697633303234&source=v6player&sbmd=1&user-id=3536d8e7d93bf127af76b06959807a02"
+            url: "http://54.82.44.170/caradio-koztfmmp3-ibc3"
         },
         {
             name: "Family Radio West Coast",

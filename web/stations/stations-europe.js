@@ -346,7 +346,7 @@ var stations = {
         {
             name: "Радио FM+",
             logo: "stations/images-europe/bulgaria/Радио FMplus.jpg",
-            url: "http://fmplus-stream.atlantis.bg:8000/fmplus.ogg"
+            url: "http://193.108.24.21:8000/fmplus?file=.mp3"
         },
         {
             name: "Radio Energy",
@@ -365,11 +365,13 @@ var stations = {
             url: "http://46.10.150.123:80/melody.mp3"
         },
         */
+        /*
         {
             name: "Star FM",
             logo: "stations/images-europe/bulgaria/Star FM.png",
             url: "http://pulsar.atlantis.bg:8000/starfm"
         },
+        */
     ],
     "catalonia": [
         {
@@ -2054,7 +2056,7 @@ var stations = {
         {
             name: "GrootNieuwsRadio",
             logo: "stations/images-europe/netherlands/GrootNieuwsRadio.png",
-            url: "https://cors-anywhere.herokuapp.com/http://highvolume01.streampartner.nl/grootnieuws_ipad/live.stream/playlist.m3u8"
+            url: "http://grootnieuwsradio.streampartner.nl:8000/live"
         },
         {
             name: "Q-Music",
