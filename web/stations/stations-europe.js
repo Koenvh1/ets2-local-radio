@@ -2470,7 +2470,7 @@ var stations = {
         {
             name: "Радио DFM",
             logo: "stations/images-europe/russia/Радио DFM.png",
-            url: "http://icecast.radiodfm.cdnvideo.ru/dfm.mp3"
+            url: "http://icecast.radiodfm.cdnvideo.ru:8000/dfm_m.aac"
         },
         {
             name: "Радио ENERGY",
@@ -2485,7 +2485,7 @@ var stations = {
         {
             name: "Русское Радио",
             logo: "stations/images-europe/russia/Русское Радио.png",
-            url: "http://icecast.russkoeradio.cdnvideo.ru/rr.mp3"
+            url: "http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac"
         },
         {
             name: "Эхо Москвы",

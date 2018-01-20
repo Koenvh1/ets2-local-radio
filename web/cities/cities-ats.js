@@ -1836,1915 +1836,1915 @@ var cities_mexico = [
 var country_properties_c2c = {
     "alabama": {
         name: "alabama",
-        english_name: "alabama",
+        name_english: "alabama",
         code: "us-al",
         relative_radius: 1.2
     },
     "anniston_al": {
         name: "anniston_al",
-        english_name: "anniston_al",
+        name_english: "anniston_al",
         code: "us-al",
         relative_radius: 1.2
     },
     "birmingham_al": {
         name: "birmingham_al",
-        english_name: "birmingham_al",
+        name_english: "birmingham_al",
         code: "us-al",
         relative_radius: 1.2
     },
     "huntsville_al": {
         name: "huntsville_al",
-        english_name: "huntsville_al",
+        name_english: "huntsville_al",
         code: "us-al",
         relative_radius: 1.2
     },
     "mobile": {
         name: "mobile",
-        english_name: "mobile",
+        name_english: "mobile",
         code: "us-al",
         relative_radius: 1.2
     },
     "montgomery_al": {
         name: "montgomery_al",
-        english_name: "montgomery_al",
+        name_english: "montgomery_al",
         code: "us-al",
         relative_radius: 1.2
     },
     "arkansas": {
         name: "arkansas",
-        english_name: "arkansas",
+        name_english: "arkansas",
         code: "us-ar",
         relative_radius: 1.2
     },
     "fort_smith": {
         name: "fort_smith",
-        english_name: "fort_smith",
+        name_english: "fort_smith",
         code: "us-ar",
         relative_radius: 1.2
     },
     "little_rock": {
         name: "little_rock",
-        english_name: "little_rock",
+        name_english: "little_rock",
         code: "us-ar",
         relative_radius: 1.2
     },
     "colorado": {
         name: "colorado",
-        english_name: "colorado",
+        name_english: "colorado",
         code: "us-co",
         relative_radius: 1.2
     },
     "cheyenne_wells": {
         name: "cheyenne_wells",
-        english_name: "cheyenne_wells",
+        name_english: "cheyenne_wells",
         code: "us-co",
         relative_radius: 1.2
     },
     "colorado_springs": {
         name: "colorado_springs",
-        english_name: "colorado_springs",
+        name_english: "colorado_springs",
         code: "us-co",
         relative_radius: 1.2
     },
     "denver": {
         name: "denver",
-        english_name: "denver",
+        name_english: "denver",
         code: "us-co",
         relative_radius: 1.2
     },
     "glenwood_springs": {
         name: "glenwood_springs",
-        english_name: "glenwood_springs",
+        name_english: "glenwood_springs",
         code: "us-co",
         relative_radius: 1.2
     },
     "grand_junction": {
         name: "grand_junction",
-        english_name: "grand_junction",
+        name_english: "grand_junction",
         code: "us-co",
         relative_radius: 1.2
     },
     "kit_carson": {
         name: "kit_carson",
-        english_name: "kit_carson",
+        name_english: "kit_carson",
         code: "us-co",
         relative_radius: 1.2
     },
     "limon": {
         name: "limon",
-        english_name: "limon",
+        name_english: "limon",
         code: "us-co",
         relative_radius: 1.2
     },
     "pueblo": {
         name: "pueblo",
-        english_name: "pueblo",
+        name_english: "pueblo",
         code: "us-co",
         relative_radius: 1.2
     },
     "seibert_co": {
         name: "seibert_co",
-        english_name: "seibert_co",
+        name_english: "seibert_co",
         code: "us-co",
         relative_radius: 1.2
     },
     "sterling_co": {
         name: "sterling_co",
-        english_name: "sterling_co",
+        name_english: "sterling_co",
         code: "us-co",
         relative_radius: 1.2
     },
     "trinidad_co": {
         name: "trinidad_co",
-        english_name: "trinidad_co",
+        name_english: "trinidad_co",
         code: "us-co",
         relative_radius: 1.2
     },
     "connecticut": {
         name: "connecticut",
-        english_name: "connecticut",
+        name_english: "connecticut",
         code: "us-ct",
         relative_radius: 1.2
     },
     "hartford": {
         name: "hartford",
-        english_name: "hartford",
+        name_english: "hartford",
         code: "us-ct",
         relative_radius: 1.2
     },
     "new_haven": {
         name: "new_haven",
-        english_name: "new_haven",
+        name_english: "new_haven",
         code: "us-ct",
         relative_radius: 1.2
     },
     "delaware": {
         name: "delaware",
-        english_name: "delaware",
+        name_english: "delaware",
         code: "us-de",
         relative_radius: 1.2
     },
     "wilmington_de": {
         name: "wilmington_de",
-        english_name: "wilmington_de",
+        name_english: "wilmington_de",
         code: "us-de",
         relative_radius: 1.2
     },
     "florida": {
         name: "florida",
-        english_name: "florida",
+        name_english: "florida",
         code: "us-fl",
         relative_radius: 1.2
     },
     "boca_raton": {
         name: "boca _raton",
-        english_name: "boca_raton",
+        name_english: "boca_raton",
         code: "us-fl",
         relative_radius: 1.2
     },
     "defuniak_springs": {
         name: "defuniak_springs",
-        english_name: "defuniak_springs",
+        name_english: "defuniak_springs",
         code: "us-fl",
         relative_radius: 1.2
     },
     "fort_lauderdale": {
         name: "fort_lauderdale",
-        english_name: "fort_lauderdale",
+        name_english: "fort_lauderdale",
         code: "us-fl",
         relative_radius: 1.2
     },
     "fort_pierce": {
         name: "fort_pierce",
-        english_name: "fort_pierce",
+        name_english: "fort_pierce",
         code: "us-fl",
         relative_radius: 1.2
     },
     "gainesville": {
         name: "gainesville",
-        english_name: "gainesville",
+        name_english: "gainesville",
         code: "us-fl",
         relative_radius: 1.2
     },
     "jacksonville": {
         name: "jacksonville",
-        english_name: "jacksonville",
+        name_english: "jacksonville",
         code: "us-fl",
         relative_radius: 1.2
     },
     "key_largo": {
         name: "key_largo",
-        english_name: "key_largo",
+        name_english: "key_largo",
         code: "us-fl",
         relative_radius: 1.2
     },
     "key_west": {
         name: "key_west",
-        english_name: "key_west",
+        name_english: "key_west",
         code: "us-fl",
         relative_radius: 1.2
     },
     "lake_city": {
         name: "lake_city",
-        english_name: "lake_city",
+        name_english: "lake_city",
         code: "us-fl",
         relative_radius: 1.2
     },
     "marianna": {
         name: "marianna",
-        english_name: "marianna",
+        name_english: "marianna",
         code: "us-fl",
         relative_radius: 1.2
     },
     "melbourne_fl": {
         name: "melbourne_fl",
-        english_name: "melbourne_fl",
+        name_english: "melbourne_fl",
         code: "us-fl",
         relative_radius: 1.2
     },
     "miami": {
         name: "miami",
-        english_name: "miami",
+        name_english: "miami",
         code: "us-fl",
         relative_radius: 1.2
     },
     "naples": {
         name: "naples",
-        english_name: "naples",
+        name_english: "naples",
         code: "us-fl",
         relative_radius: 1.2
     },
     "new_smyrna_beach": {
         name: "new_smyrna_beach",
-        english_name: "new_smyrna_beach",
+        name_english: "new_smyrna_beach",
         code: "us-fl",
         relative_radius: 1.2
     },
     "orlando": {
         name: "orlando",
-        english_name: "orlando",
+        name_english: "orlando",
         code: "us-fl",
         relative_radius: 1.2
     },
     "palm_coast": {
         name: "palm_coast",
-        english_name: "palm_coast",
+        name_english: "palm_coast",
         code: "us-fl",
         relative_radius: 1.2
     },
     "pensacola": {
         name: "pensacola",
-        english_name: "pensacola",
+        name_english: "pensacola",
         code: "us-fl",
         relative_radius: 1.2
     },
     "tallahassee": {
         name: "tallahassee",
-        english_name: "tallahassee",
+        name_english: "tallahassee",
         code: "us-fl",
         relative_radius: 1.2
     },
     "tampa": {
         name: "tampa",
-        english_name: "tampa",
+        name_english: "tampa",
         code: "us-fl",
         relative_radius: 1.2
     },
     "yeehaw_junction": {
         name: "yeehaw_junction",
-        english_name: "yeehaw_junction",
+        name_english: "yeehaw_junction",
         code: "us-fl",
         relative_radius: 1.2
     },
     "georgia": {
         name: "georgia",
-        english_name: "georgia",
+        name_english: "georgia",
         code: "us-ga",
         relative_radius: 1.2
     },
     "albany_ga": {
         name: "albany_ga",
-        english_name: "albany_ga",
+        name_english: "albany_ga",
         code: "us-ga",
         relative_radius: 1.2
     },
     "atlanta": {
         name: "atlanta",
-        english_name: "atlanta",
+        name_english: "atlanta",
         code: "us-ga",
         relative_radius: 1.2
     },
     "augusta_ga": {
         name: "augusta_ga",
-        english_name: "augusta_ga",
+        name_english: "augusta_ga",
         code: "us-ga",
         relative_radius: 1.2
     },
     "kingsland_ga": {
         name: "kingsland_ga",
-        english_name: "kingsland_ga",
+        name_english: "kingsland_ga",
         code: "us-ga",
         relative_radius: 1.2
     },
     "columbus_ga": {
         name: "columbus_ga",
-        english_name: "columbus_ga",
+        name_english: "columbus_ga",
         code: "us-ga",
         relative_radius: 1.2
     },
     "macon": {
         name: "macon",
-        english_name: "macon",
+        name_english: "macon",
         code: "us-ga",
         relative_radius: 1.2
     },
     "metter": {
         name: "metter",
-        english_name: "metter",
+        name_english: "metter",
         code: "us-ga",
         relative_radius: 1.2
     },
     "savannah": {
         name: "savannah",
-        english_name: "savannah",
+        name_english: "savannah",
         code: "us-ga",
         relative_radius: 1.2
     },
     "valdosta": {
         name: "valdosta",
-        english_name: "valdosta",
+        name_english: "valdosta",
         code: "us-ga",
         relative_radius: 1.2
     },
     "idaho": {
         name: "idaho",
-        english_name: "idaho",
+        name_english: "idaho",
         code: "us-id",
         relative_radius: 1.2
     },
     "boise": {
         name: "boise",
-        english_name: "boise",
+        name_english: "boise",
         code: "us-id",
         relative_radius: 1.2
     },
     "idaho_falls": {
         name: "idaho_falls",
-        english_name: "idaho_falls",
+        name_english: "idaho_falls",
         code: "us-id",
         relative_radius: 1.2
     },
     "preston_id": {
         name: "preston_id",
-        english_name: "preston_id",
+        name_english: "preston_id",
         code: "us-id",
         relative_radius: 1.2
     },
     "twin_falls": {
         name: "twin_falls",
-        english_name: "twin_falls",
+        name_english: "twin_falls",
         code: "us-id",
         relative_radius: 1.2
     },
     "illinois": {
         name: "illinois",
-        english_name: "illinois",
+        name_english: "illinois",
         code: "us-il",
         relative_radius: 1.2
     },
     "bloomington_il": {
         name: "bloomington_il",
-        english_name: "bloomington_il",
+        name_english: "bloomington_il",
         code: "us-il",
         relative_radius: 1.2
     },
     "champaign": {
         name: "champaign",
-        english_name: "champaign",
+        name_english: "champaign",
         code: "us-il",
         relative_radius: 1.2
     },
     "chicago": {
         name: "chicago",
-        english_name: "chicago",
+        name_english: "chicago",
         code: "us-il",
         relative_radius: 1.2
     },
     "effingham": {
         name: "effingham",
-        english_name: "effingham",
+        name_english: "effingham",
         code: "us-il",
         relative_radius: 1.2
     },
     "lasalle": {
         name: "lasalle",
-        english_name: "lasalle",
+        name_english: "lasalle",
         code: "us-il",
         relative_radius: 1.2
     },
     "mt_vernon": {
         name: "mt_vernon",
-        english_name: "mt_vernon",
+        name_english: "mt_vernon",
         code: "us-il",
         relative_radius: 1.2
     },
     "springfield_il": {
         name: "springfield_il",
-        english_name: "springfield_il",
+        name_english: "springfield_il",
         code: "us-il",
         relative_radius: 1.2
     },
     "indiana": {
         name: "indiana",
-        english_name: "indiana",
+        name_english: "indiana",
         code: "us-in",
         relative_radius: 1.2
     },
     "evansville_in": {
         name: "evansville_in",
-        english_name: "evansville_in",
+        name_english: "evansville_in",
         code: "us-in",
         relative_radius: 1.2
     },
     "indianapolis": {
         name: "indianapolis",
-        english_name: "indianapolis",
+        name_english: "indianapolis",
         code: "us-in",
         relative_radius: 1.2
     },
     "lafayette_in": {
         name: "lafayette_in",
-        english_name: "lafayette_in",
+        name_english: "lafayette_in",
         code: "us-in",
         relative_radius: 1.2
     },
     "richmond_in": {
         name: "richmond_in",
-        english_name: "richmond_in",
+        name_english: "richmond_in",
         code: "us-in",
         relative_radius: 1.2
     },
     "south_bend": {
         name: "south_bend",
-        english_name: "south_bend",
+        name_english: "south_bend",
         code: "us-in",
         relative_radius: 1.2
     },
     "terre_haute": {
         name: "terre_haute",
-        english_name: "terre_haute",
+        name_english: "terre_haute",
         code: "us-in",
         relative_radius: 1.2
     },
     "iowa": {
         name: "iowa",
-        english_name: "iowa",
+        name_english: "iowa",
         code: "us-ia",
         relative_radius: 1.2
     },
     "desmoines": {
         name: "desmoines",
-        english_name: "desmoines",
+        name_english: "desmoines",
         code: "us-ia",
         relative_radius: 1.2
     },
     "iowa_80": {
         name: "iowa_80",
-        english_name: "iowa_80",
+        name_english: "iowa_80",
         code: "us-ia",
         relative_radius: 1.2
     },
     "iowa_city": {
         name: "iowa_city",
-        english_name: "iowa_city",
+        name_english: "iowa_city",
         code: "us-ia",
         relative_radius: 1.2
     },
     "sioux_city": {
         name: "sioux_city",
-        english_name: "sioux_city",
+        name_english: "sioux_city",
         code: "us-ia",
         relative_radius: 1.2
     },
     "kansas": {
         name: "kansas",
-        english_name: "kansas",
+        name_english: "kansas",
         code: "us-ks",
         relative_radius: 1.2
     },
     "emporia": {
         name: "emporia",
-        english_name: "emporia",
+        name_english: "emporia",
         code: "us-ks",
         relative_radius: 1.2
     },
     "hays": {
         name: "hays",
-        english_name: "hays",
+        name_english: "hays",
         code: "us-ks",
         relative_radius: 1.2
     },
     "oakley": {
         name: "oakley",
-        english_name: "oakley",
+        name_english: "oakley",
         code: "us-ks",
         relative_radius: 1.2
     },
     "salina": {
         name: "salina",
-        english_name: "salina",
+        name_english: "salina",
         code: "us-ks",
         relative_radius: 1.2
     },
     "topeka": {
         name: "topeka",
-        english_name: "topeka",
+        name_english: "topeka",
         code: "us-ks",
         relative_radius: 1.2
     },
     "wichita": {
         name: "wichita",
-        english_name: "wichita",
+        name_english: "wichita",
         code: "us-ks",
         relative_radius: 1.2
     },
     "kentucky": {
         name: "kentucky",
-        english_name: "kentucky",
+        name_english: "kentucky",
         code: "us-ky",
         relative_radius: 1.2
     },
     "bowling_green": {
         name: "bowling_green",
-        english_name: "bowling_green",
+        name_english: "bowling_green",
         code: "us-ky",
         relative_radius: 1.2
     },
     "hopkinsville": {
         name: "hopkinsville",
-        english_name: "hopkinsville",
+        name_english: "hopkinsville",
         code: "us-ky",
         relative_radius: 1.2
     },
     "lexington_ky": {
         name: "lexington_ky",
-        english_name: "lexington_ky",
+        name_english: "lexington_ky",
         code: "us-ky",
         relative_radius: 1.2
     },
     "london_ky": {
         name: "london_ky",
-        english_name: "london_ky",
+        name_english: "london_ky",
         code: "us-ky",
         relative_radius: 1.2
     },
     "louisville": {
         name: "louisville",
-        english_name: "louisville",
+        name_english: "louisville",
         code: "us-ky",
         relative_radius: 1.2
     },
     "paducah": {
         name: "paducah",
-        english_name: "paducah",
+        name_english: "paducah",
         code: "us-ky",
         relative_radius: 1.2
     },
     "louisiana": {
         name: "louisiana",
-        english_name: "louisiana",
+        name_english: "louisiana",
         code: "us-la",
         relative_radius: 1.2
     },
     "baton_rouge": {
         name: "baton_rouge",
-        english_name: "baton_rouge",
+        name_english: "baton_rouge",
         code: "us-la",
         relative_radius: 1.2
     },
     "hammond_la": {
         name: "hammond_la",
-        english_name: "hammond_la",
+        name_english: "hammond_la",
         code: "us-la",
         relative_radius: 1.2
     },
     "lafayette_la": {
         name: "lafayette_la",
-        english_name: "lafayette_la",
+        name_english: "lafayette_la",
         code: "us-la",
         relative_radius: 1.2
     },
     "lake_charles": {
         name: "lake_charles",
-        english_name: "lake_charles",
+        name_english: "lake_charles",
         code: "us-la",
         relative_radius: 1.2
     },
     "monroe_la": {
         name: "monroe_la",
-        english_name: "monroe_la",
+        name_english: "monroe_la",
         code: "us-la",
         relative_radius: 1.2
     },
     "new_orleans": {
         name: "new_orleans",
-        english_name: "new_orleans",
+        name_english: "new_orleans",
         code: "us-la",
         relative_radius: 1.2
     },
     "shreveport": {
         name: "shreveport",
-        english_name: "shreveport",
+        name_english: "shreveport",
         code: "us-la",
         relative_radius: 1.2
     },
     "maine": {
         name: "maine",
-        english_name: "maine",
+        name_english: "maine",
         code: "us-me",
         relative_radius: 1.2
     },
     "augusta_me": {
         name: "augusta_me",
-        english_name: "augusta_me",
+        name_english: "augusta_me",
         code: "us-me",
         relative_radius: 1.2
     },
     "bangor": {
         name: "bangor",
-        english_name: "bangor",
+        name_english: "bangor",
         code: "us-me",
         relative_radius: 1.2
     },
     "houlton": {
         name: "houlton",
-        english_name: "houlton",
+        name_english: "houlton",
         code: "us-me",
         relative_radius: 1.2
     },
     "portland_me": {
         name: "portland_me",
-        english_name: "portland_me",
+        name_english: "portland_me",
         code: "us-me",
         relative_radius: 1.2
     },
     "maryland": {
         name: "maryland",
-        english_name: "maryland",
+        name_english: "maryland",
         code: "us-md",
         relative_radius: 1.2
     },
     "baltimore": {
         name: "baltimore",
-        english_name: "baltimore",
+        name_english: "baltimore",
         code: "us-md",
         relative_radius: 1.2
     },
     "washington_dc": {
         name: "washington_dc",
-        english_name: "washington_dc",
+        name_english: "washington_dc",
         code: "us-md",
         relative_radius: 1.2
     },
     "massachusetts": {
         name: "massachusetts",
-        english_name: "massachusetts",
+        name_english: "massachusetts",
         code: "us-ma",
         relative_radius: 1.2
     },
     "boston": {
         name: "boston",
-        english_name: "boston",
+        name_english: "boston",
         code: "us-ma",
         relative_radius: 1.2
     },
     "essex": {
         name: "essex",
-        english_name: "essex",
+        name_english: "essex",
         code: "us-ma",
         relative_radius: 1.2
     },
     "springfield_ma": {
         name: "springfield_ma",
-        english_name: "springfield_ma",
+        name_english: "springfield_ma",
         code: "us-ma",
         relative_radius: 1.2
     },
     "worcester_ma": {
         name: "worcester_ma",
-        english_name: "worcester_ma",
+        name_english: "worcester_ma",
         code: "us-ma",
         relative_radius: 1.2
     },
     "michigan": {
         name: "michigan",
-        english_name: "michigan",
+        name_english: "michigan",
         code: "us-mi",
         relative_radius: 1.2
     },
     "detroit": {
         name: "detroit",
-        english_name: "detroit",
+        name_english: "detroit",
         code: "us-mi",
         relative_radius: 1.2
     },
     "grand_rapids": {
         name: "grand_rapids",
-        english_name: "grand_rapids",
+        name_english: "grand_rapids",
         code: "us-mi",
         relative_radius: 1.2
     },
     "minnesota": {
         name: "minnesota",
-        english_name: "minnesota",
+        name_english: "minnesota",
         code: "us-mn",
         relative_radius: 1.2
     },
     "duluth": {
         name: "duluth",
-        english_name: "duluth",
+        name_english: "duluth",
         code: "us-mn",
         relative_radius: 1.2
     },
     "minneapolis": {
         name: "minneapolis",
-        english_name: "minneapolis",
+        name_english: "minneapolis",
         code: "us-mn",
         relative_radius: 1.2
     },
     "rochester_mn": {
         name: "rochester_mn",
-        english_name: "rochester_mn",
+        name_english: "rochester_mn",
         code: "us-mn",
         relative_radius: 1.2
     },
     "st_cloud": {
         name: "st_cloud",
-        english_name: "st_cloud",
+        name_english: "st_cloud",
         code: "us-mn",
         relative_radius: 1.2
     },
     "worthington_mn": {
         name: "worthington_mn",
-        english_name: "worthington_mn",
+        name_english: "worthington_mn",
         code: "us-mn",
         relative_radius: 1.2
     },
     "mississippi": {
         name: "mississippi",
-        english_name: "mississippi",
+        name_english: "mississippi",
         code: "us-ms",
         relative_radius: 1.2
     },
     "biloxi": {
         name: "biloxi",
-        english_name: "biloxi",
+        name_english: "biloxi",
         code: "us-ms",
         relative_radius: 1.2
     },
     "greenwood_ms": {
         name: "greenwood_ms",
-        english_name: "greenwood_ms",
+        name_english: "greenwood_ms",
         code: "us-ms",
         relative_radius: 1.2
     },
     "hattiesburg": {
         name: "hattiesburg",
-        english_name: "hattiesburg",
+        name_english: "hattiesburg",
         code: "us-ms",
         relative_radius: 1.2
     },
     "jackson_ms": {
         name: "jackson_ms",
-        english_name: "jackson_ms",
+        name_english: "jackson_ms",
         code: "us-ms",
         relative_radius: 1.2
     },
     "meridian_ms": {
         name: "meridian_ms",
-        english_name: "meridian_ms",
+        name_english: "meridian_ms",
         code: "us-ms",
         relative_radius: 1.2
     },
     "natchez": {
         name: "natchez",
-        english_name: "natchez",
+        name_english: "natchez",
         code: "us-ms",
         relative_radius: 1.2
     },
     "missouri": {
         name: "missouri",
-        english_name: "missouri",
+        name_english: "missouri",
         code: "us-mo",
         relative_radius: 1.2
     },
     "cape_girardeau": {
         name: "cape_girardeau",
-        english_name: "cape_girardeau",
+        name_english: "cape_girardeau",
         code: "us-mo",
         relative_radius: 1.2
     },
     "columbia_mo": {
         name: "columbia_mo",
-        english_name: "columbia_mo",
+        name_english: "columbia_mo",
         code: "us-mo",
         relative_radius: 1.2
     },
     "joplin": {
         name: "joplin",
-        english_name: "joplin",
+        name_english: "joplin",
         code: "us-mo",
         relative_radius: 1.2
     },
     "kansascity": {
         name: "kansascity",
-        english_name: "kansascity",
+        name_english: "kansascity",
         code: "us-mo",
         relative_radius: 1.2
     },
     "rolla": {
         name: "rolla",
-        english_name: "rolla",
+        name_english: "rolla",
         code: "us-mo",
         relative_radius: 1.2
     },
     "st_joseph": {
         name: "st_joseph",
-        english_name: "st_joseph",
+        name_english: "st_joseph",
         code: "us-mo",
         relative_radius: 1.2
     },
     "stlouis": {
         name: "stlouis",
-        english_name: "stlouis",
+        name_english: "stlouis",
         code: "us-mo",
         relative_radius: 1.2
     },
     "springfield_mo": {
         name: "springfield_mo",
-        english_name: "springfield_mo",
+        name_english: "springfield_mo",
         code: "us-mo",
         relative_radius: 1.2
     },
     "montana": {
         name: "montana",
-        english_name: "montana",
+        name_english: "montana",
         code: "us-mt",
         relative_radius: 1.2
     },
     "billings": {
         name: "billings",
-        english_name: "billings",
+        name_english: "billings",
         code: "us-mt",
         relative_radius: 1.2
     },
     "bozeman": {
         name: "bozeman",
-        english_name: "bozeman",
+        name_english: "bozeman",
         code: "us-mt",
         relative_radius: 1.2
     },
     "butte": {
         name: "butte",
-        english_name: "butte",
+        name_english: "butte",
         code: "us-mt",
         relative_radius: 1.2
     },
     "dillon_mt": {
         name: "dillon_mt",
-        english_name: "dillon_mt",
+        name_english: "dillon_mt",
         code: "us-mt",
         relative_radius: 1.2
     },
     "glendive": {
         name: "glendive",
-        english_name: "glendive",
+        name_english: "glendive",
         code: "us-mt",
         relative_radius: 1.2
     },
     "miles_city": {
         name: "miles_city",
-        english_name: "miles_city",
+        name_english: "miles_city",
         code: "us-mt",
         relative_radius: 1.2
     },
     "missoula": {
         name: "missoula",
-        english_name: "missoula",
+        name_english: "missoula",
         code: "us-mt",
         relative_radius: 1.2
     },
     "nebraska": {
         name: "nebraska",
-        english_name: "nebraska",
+        name_english: "nebraska",
         code: "us-ne",
         relative_radius: 1.2
     },
     "grand_island": {
         name: "grand_island",
-        english_name: "grand_island",
+        name_english: "grand_island",
         code: "us-ne",
         relative_radius: 1.2
     },
     "lincoln": {
         name: "lincoln",
-        english_name: "lincoln",
+        name_english: "lincoln",
         code: "us-ne",
         relative_radius: 1.2
     },
     "north_platte": {
         name: "north_platte",
-        english_name: "north_platte",
+        name_english: "north_platte",
         code: "us-ne",
         relative_radius: 1.2
     },
     "omaha": {
         name: "omaha",
-        english_name: "omaha",
+        name_english: "omaha",
         code: "us-ne",
         relative_radius: 1.2
     },
     "mcdermitt_nv": {
         name: "mcdermitt_nv",
-        english_name: "mcdermitt_nv",
+        name_english: "mcdermitt_nv",
         code: "us-nv",
         relative_radius: 1.2
     },
     "new_hampshire": {
         name: "new_hampshire",
-        english_name: "new_hampshire",
+        name_english: "new_hampshire",
         code: "us-nh",
         relative_radius: 1.2
     },
     "manchester_nh": {
         name: "manchester_nh",
-        english_name: "manchester_nh",
+        name_english: "manchester_nh",
         code: "us-nh",
         relative_radius: 1.2
     },
     "portsmouth_nh": {
         name: "portsmouth_nh",
-        english_name: "portsmouth_nh",
+        name_english: "portsmouth_nh",
         code: "us-nh",
         relative_radius: 1.2
     },
     "new_jersey": {
         name: "new_jersey",
-        english_name: "new_jersey",
+        name_english: "new_jersey",
         code: "us-nj",
         relative_radius: 1.2
     },
     "morristown": {
         name: "morristown",
-        english_name: "morristown",
+        name_english: "morristown",
         code: "us-nj",
         relative_radius: 1.2
     },
     "clayton_nm": {
         name: "clayton_nm",
-        english_name: "clayton_nm",
+        name_english: "clayton_nm",
         code: "us-nm",
         relative_radius: 1.2
     },
     "new_mexico": {
         name: "new_mexico",
-        english_name: "new_mexico",
+        name_english: "new_mexico",
         code: "us-nm",
         relative_radius: 1.2
     },
     "albuquerque": {
         name: "albuquerque",
-        english_name: "albuquerque",
+        name_english: "albuquerque",
         code: "us-nm",
         relative_radius: 1.2
     },
     "farmington": {
         name: "farmington",
-        english_name: "farmington",
+        name_english: "farmington",
         code: "us-nm",
         relative_radius: 1.2
     },
     "gallup": {
         name: "gallup",
-        english_name: "gallup",
+        name_english: "gallup",
         code: "us-nm",
         relative_radius: 1.2
     },
     "las_cruces": {
         name: "las_cruces",
-        english_name: "las_cruces",
+        name_english: "las_cruces",
         code: "us-nm",
         relative_radius: 1.2
     },
     "roswell": {
         name: "roswell",
-        english_name: "roswell",
+        name_english: "roswell",
         code: "us-nm",
         relative_radius: 1.2
     },
     "santa_fe": {
         name: "santa_fe",
-        english_name: "santa_fe",
+        name_english: "santa_fe",
         code: "us-nm",
         relative_radius: 1.2
     },
     "santa_rosa": {
         name: "santa_rosa",
-        english_name: "santa_rosa",
+        name_english: "santa_rosa",
         code: "us-nm",
         relative_radius: 1.2
     },
     "truth_or_consequences": {
         name: "truth_or_consequences",
-        english_name: "truth_or_consequences",
+        name_english: "truth_or_consequences",
         code: "us-nm",
         relative_radius: 1.2
     },
     "tucumcari": {
         name: "tucumcari",
-        english_name: "tucumcari",
+        name_english: "tucumcari",
         code: "us-nm",
         relative_radius: 1.2
     },
     "new_york": {
         name: "new_york",
-        english_name: "new_york",
+        name_english: "new_york",
         code: "us-ny",
         relative_radius: 1.2
     },
     "albany": {
         name: "albany",
-        english_name: "albany",
+        name_english: "albany",
         code: "us-ny",
         relative_radius: 1.2
     },
     "binghamton": {
         name: "binghamton",
-        english_name: "binghamton",
+        name_english: "binghamton",
         code: "us-ny",
         relative_radius: 1.2
     },
     "buffalo_ny": {
         name: "buffalo_ny",
-        english_name: "buffalo_ny",
+        name_english: "buffalo_ny",
         code: "us-ny",
         relative_radius: 1.2
     },
     "elmira": {
         name: "elmira",
-        english_name: "elmira",
+        name_english: "elmira",
         code: "us-ny",
         relative_radius: 1.2
     },
     "newyork": {
         name: "newyork",
-        english_name: "newyork",
+        name_english: "newyork",
         code: "us-ny",
         relative_radius: 1.2
     },
     "poughkeepsie": {
         name: "poughkeepsie",
-        english_name: "poughkeepsie",
+        name_english: "poughkeepsie",
         code: "us-ny",
         relative_radius: 1.2
     },
     "rochester_ny": {
         name: "rochester_ny",
-        english_name: "rochester_ny",
+        name_english: "rochester_ny",
         code: "us-ny",
         relative_radius: 1.2
     },
     "syracuse": {
         name: "syracuse",
-        english_name: "syracuse",
+        name_english: "syracuse",
         code: "us-ny",
         relative_radius: 1.2
     },
     "utica_ny": {
         name: "utica_ny",
-        english_name: "utica_ny",
+        name_english: "utica_ny",
         code: "us-ny",
         relative_radius: 1.2
     },
     "north_carolina": {
         name: "north_carolina",
-        english_name: "north_carolina",
+        name_english: "north_carolina",
         code: "us-nc",
         relative_radius: 1.2
     },
     "asheville_nc": {
         name: "asheville_nc",
-        english_name: "asheville_nc",
+        name_english: "asheville_nc",
         code: "us-nc",
         relative_radius: 1.2
     },
     "charlotte_nc": {
         name: "charlotte_nc",
-        english_name: "charlotte_nc",
+        name_english: "charlotte_nc",
         code: "us-nc",
         relative_radius: 1.2
     },
     "fayetteville_nc": {
         name: "fayetteville_nc",
-        english_name: "fayetteville_nc",
+        name_english: "fayetteville_nc",
         code: "us-nc",
         relative_radius: 1.2
     },
     "greensboro_nc": {
         name: "greensboro_nc",
-        english_name: "greensboro_nc",
+        name_english: "greensboro_nc",
         code: "us-nc",
         relative_radius: 1.2
     },
     "raleigh": {
         name: "raleigh",
-        english_name: "raleigh",
+        name_english: "raleigh",
         code: "us-nc",
         relative_radius: 1.2
     },
     "wilmington_nc": {
         name: "wilmington_nc",
-        english_name: "wilmington_nc",
+        name_english: "wilmington_nc",
         code: "us-nc",
         relative_radius: 1.2
     },
     "north_dakota": {
         name: "north_dakota",
-        english_name: "north_dakota",
+        name_english: "north_dakota",
         code: "us-nd",
         relative_radius: 1.2
     },
     "bismarck": {
         name: "bismarck",
-        english_name: "bismarck",
+        name_english: "bismarck",
         code: "us-nd",
         relative_radius: 1.2
     },
     "dickinson_nd": {
         name: "dickinson_nd",
-        english_name: "dickinson_nd",
+        name_english: "dickinson_nd",
         code: "us-nd",
         relative_radius: 1.2
     },
     "fargo": {
         name: "fargo",
-        english_name: "fargo",
+        name_english: "fargo",
         code: "us-nd",
         relative_radius: 1.2
     },
     "grand_forks": {
         name: "grand_forks",
-        english_name: "grand_forks",
+        name_english: "grand_forks",
         code: "us-nd",
         relative_radius: 1.2
     },
     "jamestown_nd": {
         name: "jamestown_nd",
-        english_name: "jamestown_nd",
+        name_english: "jamestown_nd",
         code: "us-nd",
         relative_radius: 1.2
     },
     "williston_nd": {
         name: "williston_nd",
-        english_name: "williston_nd",
+        name_english: "williston_nd",
         code: "us-nd",
         relative_radius: 1.2
     },
     "ohio": {
         name: "ohio",
-        english_name: "ohio",
+        name_english: "ohio",
         code: "us-oh",
         relative_radius: 1.2
     },
     "cincinnati": {
         name: "cincinnati",
-        english_name: "cincinnati",
+        name_english: "cincinnati",
         code: "us-oh",
         relative_radius: 1.2
     },
     "cleveland_oh": {
         name: "cleveland_oh",
-        english_name: "cleveland_oh",
+        name_english: "cleveland_oh",
         code: "us-oh",
         relative_radius: 1.2
     },
     "columbus_oh": {
         name: "columbus_oh",
-        english_name: "columbus_oh",
+        name_english: "columbus_oh",
         code: "us-oh",
         relative_radius: 1.2
     },
     "dayton": {
         name: "dayton",
-        english_name: "dayton",
+        name_english: "dayton",
         code: "us-oh",
         relative_radius: 1.2
     },
     "lima_oh": {
         name: "lima_oh",
-        english_name: "lima_oh",
+        name_english: "lima_oh",
         code: "us-oh",
         relative_radius: 1.2
     },
     "toledo": {
         name: "toledo",
-        english_name: "toledo",
+        name_english: "toledo",
         code: "us-oh",
         relative_radius: 1.2
     },
     "youngstown": {
         name: "youngstown",
-        english_name: "youngstown",
+        name_english: "youngstown",
         code: "us-oh",
         relative_radius: 1.2
     },
     "zanesville": {
         name: "zanesville",
-        english_name: "zanesville",
+        name_english: "zanesville",
         code: "us-oh",
         relative_radius: 1.2
     },
     "oklahoma": {
         name: "oklahoma",
-        english_name: "oklahoma",
+        name_english: "oklahoma",
         code: "us-ok",
         relative_radius: 1.2
     },
     "altus": {
         name: "altus",
-        english_name: "altus",
+        name_english: "altus",
         code: "us-ok",
         relative_radius: 1.2
     },
     "ardmore": {
         name: "ardmore",
-        english_name: "ardmore",
+        name_english: "ardmore",
         code: "us-ok",
         relative_radius: 1.2
     },
     "chickasha": {
         name: "chickasha",
-        english_name: "chickasha",
+        name_english: "chickasha",
         code: "us-ok",
         relative_radius: 1.2
     },
     "elk_city": {
         name: "elk_city",
-        english_name: "elk_city",
+        name_english: "elk_city",
         code: "us-ok",
         relative_radius: 1.2
     },
     "enid": {
         name: "enid",
-        english_name: "enid",
+        name_english: "enid",
         code: "us-ok",
         relative_radius: 1.2
     },
     "lawton": {
         name: "lawton",
-        english_name: "lawton",
+        name_english: "lawton",
         code: "us-ok",
         relative_radius: 1.2
     },
     "oklahoma_city": {
         name: "oklahoma_city",
-        english_name: "oklahoma_city",
+        name_english: "oklahoma_city",
         code: "us-ok",
         relative_radius: 1.2
     },
     "tulsa": {
         name: "tulsa",
-        english_name: "tulsa",
+        name_english: "tulsa",
         code: "us-ok",
         relative_radius: 1.2
     },
     "oregon": {
         name: "oregon",
-        english_name: "oregon",
+        name_english: "oregon",
         code: "us-or",
         relative_radius: 1.2
     },
     "eugene": {
         name: "eugene",
-        english_name: "eugene",
+        name_english: "eugene",
         code: "us-or",
         relative_radius: 1.2
     },
     "la_grande": {
         name: "la_grande",
-        english_name: "la_grande",
+        name_english: "la_grande",
         code: "us-or",
         relative_radius: 1.2
     },
     "medford_or": {
         name: "medford_or",
-        english_name: "medford_or",
+        name_english: "medford_or",
         code: "us-or",
         relative_radius: 1.2
     },
     "portland_or": {
         name: "portland_or",
-        english_name: "portland_or",
+        name_english: "portland_or",
         code: "us-or",
         relative_radius: 1.2
     },
     "the_dalles": {
         name: "the_dalles",
-        english_name: "the_dalles",
+        name_english: "the_dalles",
         code: "us-or",
         relative_radius: 1.2
     },
     "pennsylvania": {
         name: "pennsylvania",
-        english_name: "pennsylvania",
+        name_english: "pennsylvania",
         code: "us-pa",
         relative_radius: 1.2
     },
     "allentown": {
         name: "allentown",
-        english_name: "allentown",
+        name_english: "allentown",
         code: "us-pa",
         relative_radius: 1.2
     },
     "bloomsburg": {
         name: "bloomsburg",
-        english_name: "bloomsburg",
+        name_english: "bloomsburg",
         code: "us-pa",
         relative_radius: 1.2
     },
     "dubois_pa": {
         name: "dubois_pa",
-        english_name: "dubois_pa",
+        name_english: "dubois_pa",
         code: "us-pa",
         relative_radius: 1.2
     },
     "erie_pa": {
         name: "erie_pa",
-        english_name: "erie_pa",
+        name_english: "erie_pa",
         code: "us-pa",
         relative_radius: 1.2
     },
     "harrisburg": {
         name: "harrisburg",
-        english_name: "harrisburg",
+        name_english: "harrisburg",
         code: "us-pa",
         relative_radius: 1.2
     },
     "johnstown": {
         name: "johnstown",
-        english_name: "johnstown",
+        name_english: "johnstown",
         code: "us-pa",
         relative_radius: 1.2
     },
     "philadelphia": {
         name: "philadelphia",
-        english_name: "philadelphia",
+        name_english: "philadelphia",
         code: "us-pa",
         relative_radius: 1.2
     },
     "pittsburgh": {
         name: "pittsburgh",
-        english_name: "pittsburgh",
+        name_english: "pittsburgh",
         code: "us-pa",
         relative_radius: 1.2
     },
     "stroudsburg": {
         name: "stroudsburg",
-        english_name: "stroudsburg",
+        name_english: "stroudsburg",
         code: "us-pa",
         relative_radius: 1.2
     },
     "rhode_island": {
         name: "rhode _island",
-        english_name: "rhode_island",
+        name_english: "rhode_island",
         code: "us-ri",
         relative_radius: 1.2
     },
     "providence": {
         name: "providence",
-        english_name: "providence",
+        name_english: "providence",
         code: "us-ri",
         relative_radius: 1.2
     },
     "south_carolina": {
         name: "south_carolina",
-        english_name: "south_carolina",
+        name_english: "south_carolina",
         code: "us-sc",
         relative_radius: 1.2
     },
     "charleston_sc": {
         name: "charleston_sc",
-        english_name: "charleston_sc",
+        name_english: "charleston_sc",
         code: "us-sc",
         relative_radius: 1.2
     },
     "columbia": {
         name: "columbia",
-        english_name: "columbia",
+        name_english: "columbia",
         code: "us-sc",
         relative_radius: 1.2
     },
     "florence_sc": {
         name: "florence_sc",
-        english_name: "florence_sc",
+        name_english: "florence_sc",
         code: "us-sc",
         relative_radius: 1.2
     },
     "south_dakota": {
         name: "south_dakota",
-        english_name: "south_dakota",
+        name_english: "south_dakota",
         code: "us-sd",
         relative_radius: 1.2
     },
     "mitchell_sd": {
         name: "mitchell_sd",
-        english_name: "mitchell_sd",
+        name_english: "mitchell_sd",
         code: "us-sd",
         relative_radius: 1.2
     },
     "pierre": {
         name: "pierre",
-        english_name: "pierre",
+        name_english: "pierre",
         code: "us-sd",
         relative_radius: 1.2
     },
     "rapid_city": {
         name: "rapid_city",
-        english_name: "rapid_city",
+        name_english: "rapid_city",
         code: "us-sd",
         relative_radius: 1.2
     },
     "sioux_falls": {
         name: "sioux_falls",
-        english_name: "sioux_falls",
+        name_english: "sioux_falls",
         code: "us-sd",
         relative_radius: 1.2
     },
     "tennessee": {
         name: "tennessee",
-        english_name: "tennessee",
+        name_english: "tennessee",
         code: "us-tn",
         relative_radius: 1.2
     },
     "chattanooga": {
         name: "chattanooga",
-        english_name: "chattanooga",
+        name_english: "chattanooga",
         code: "us-tn",
         relative_radius: 1.2
     },
     "cookeville_tn": {
         name: "cookeville_tn",
-        english_name: "cookeville_tn",
+        name_english: "cookeville_tn",
         code: "us-tn",
         relative_radius: 1.2
     },
     "jackson_tn": {
         name: "jackson_tn",
-        english_name: "jackson_tn",
+        name_english: "jackson_tn",
         code: "us-tn",
         relative_radius: 1.2
     },
     "kingston_tn": {
         name: "kingston_tn",
-        english_name: "kingston_tn",
+        name_english: "kingston_tn",
         code: "us-tn",
         relative_radius: 1.2
     },
     "knoxville_tn": {
         name: "knoxville_tn",
-        english_name: "knoxville_tn",
+        name_english: "knoxville_tn",
         code: "us-tn",
         relative_radius: 1.2
     },
     "memphis": {
         name: "memphis",
-        english_name: "memphis",
+        name_english: "memphis",
         code: "us-tn",
         relative_radius: 1.2
     },
     "nashville": {
         name: "nashville",
-        english_name: "nashville",
+        name_english: "nashville",
         code: "us-tn",
         relative_radius: 1.2
     },
     "texas": {
         name: "texas",
-        english_name: "texas",
+        name_english: "texas",
         code: "us-tx",
         relative_radius: 1.2
     },
     "abilene": {
         name: "abilene",
-        english_name: "abilene",
+        name_english: "abilene",
         code: "us-tx",
         relative_radius: 1.2
     },
     "adrian_tx": {
         name: "adrian_tx",
-        english_name: "adrian_tx",
+        name_english: "adrian_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "amarillo": {
         name: "amarillo",
-        english_name: "amarillo",
+        name_english: "amarillo",
         code: "us-tx",
         relative_radius: 1.2
     },
     "austin_tx": {
         name: "austin_tx",
-        english_name: "austin_tx",
+        name_english: "austin_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "beaumont": {
         name: "beaumont",
-        english_name: "beaumont",
+        name_english: "beaumont",
         code: "us-tx",
         relative_radius: 1.2
     },
     "bryan_tx": {
         name: "bryan_tx",
-        english_name: "bryan_tx",
+        name_english: "bryan_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "childress_tx": {
         name: "childress_tx",
-        english_name: "childress_tx",
+        name_english: "childress_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "dallas": {
         name: "dallas",
-        english_name: "dallas",
+        name_english: "dallas",
         code: "us-tx",
         relative_radius: 1.2
     },
     "dalhart_tx": {
         name: "dalhart_tx",
-        english_name: "dalhart_tx",
+        name_english: "dalhart_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "dumas_tx": {
         name: "dumas_tx",
-        english_name: "dumas_tx",
+        name_english: "dumas_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "fort_stockton": {
         name: "fort_stockton",
-        english_name: "fort_stockton",
+        name_english: "fort_stockton",
         code: "us-tx",
         relative_radius: 1.2
     },
     "elpaso": {
         name: "elpaso",
-        english_name: "elpaso",
+        name_english: "elpaso",
         code: "us-tx",
         relative_radius: 1.2
     },
     "houston": {
         name: "houston",
-        english_name: "houston",
+        name_english: "houston",
         code: "us-tx",
         relative_radius: 1.2
     },
     "kerrville": {
         name: "kerrville",
-        english_name: "kerrville",
+        name_english: "kerrville",
         code: "us-tx",
         relative_radius: 1.2
     },
     "lubbock": {
         name: "lubbock",
-        english_name: "lubbock",
+        name_english: "lubbock",
         code: "us-tx",
         relative_radius: 1.2
     },
     "midland_tx": {
         name: "midland_tx",
-        english_name: "midland_tx",
+        name_english: "midland_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "plainview_tx": {
         name: "plainview_tx",
-        english_name: "plainview_tx",
+        name_english: "plainview_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "sanantonio": {
         name: "sanantonio",
-        english_name: "sanantonio",
+        name_english: "sanantonio",
         code: "us-tx",
         relative_radius: 1.2
     },
     "seymour_tx": {
         name: "seymour_tx",
-        english_name: "seymour_tx",
+        name_english: "seymour_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "shamrock": {
         name: "shamrock",
-        english_name: "shamrock",
+        name_english: "shamrock",
         code: "us-tx",
         relative_radius: 1.2
     },
     "texarkana": {
         name: "texarkana",
-        english_name: "texarkana",
+        name_english: "texarkana",
         code: "us-tx",
         relative_radius: 1.2
     },
     "tyler_tx": {
         name: "tyler_tx",
-        english_name: "tyler_tx",
+        name_english: "tyler_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "vernon_tx": {
         name: "vernon_tx",
-        english_name: "vernon_tx",
+        name_english: "vernon_tx",
         code: "us-tx",
         relative_radius: 1.2
     },
     "waco": {
         name: "waco",
-        english_name: "waco",
+        name_english: "waco",
         code: "us-tx",
         relative_radius: 1.2
     },
     "wichita_falls": {
         name: "wichita_falls",
-        english_name: "wichita_falls",
+        name_english: "wichita_falls",
         code: "us-tx",
         relative_radius: 1.2
     },
     "utah": {
         name: "utah",
-        english_name: "utah",
+        name_english: "utah",
         code: "us-ut",
         relative_radius: 1.2
     },
     "beaver_ut": {
         name: "beaver_ut",
-        english_name: "beaver_ut",
+        name_english: "beaver_ut",
         code: "us-ut",
         relative_radius: 1.2
     },
     "moab": {
         name: "moab",
-        english_name: "moab",
+        name_english: "moab",
         code: "us-ut",
         relative_radius: 1.2
     },
     "richfield_ut": {
         name: "richfield_ut",
-        english_name: "richfield_ut",
+        name_english: "richfield_ut",
         code: "us-ut",
         relative_radius: 1.2
     },
     "st_george": {
         name: "st_george",
-        english_name: "st_george",
+        name_english: "st_george",
         code: "us-ut",
         relative_radius: 1.2
     },
     "salt_lake_city": {
         name: "salt_lake_city",
-        english_name: "salt_lake_city",
+        name_english: "salt_lake_city",
         code: "us-ut",
         relative_radius: 1.2
     },
     "vermont": {
         name: "vermont",
-        english_name: "vermont",
+        name_english: "vermont",
         code: "us-vt",
         relative_radius: 1.2
     },
     "burlington": {
         name: "burlington",
-        english_name: "burlington",
+        name_english: "burlington",
         code: "us-vt",
         relative_radius: 1.2
     },
     "brattleboro": {
         name: "brattleboro",
-        english_name: "brattleboro",
+        name_english: "brattleboro",
         code: "us-vt",
         relative_radius: 1.2
     },
     "lebanon": {
         name: "lebanon",
-        english_name: "lebanon",
+        name_english: "lebanon",
         code: "us-vt",
         relative_radius: 1.2
     },
     "virginia": {
         name: "virginia",
-        english_name: "virginia",
+        name_english: "virginia",
         code: "us-va",
         relative_radius: 1.2
     },
     "fredericksburg_va": {
         name: "fredericksburg_va",
-        english_name: "fredericksburg_va",
+        name_english: "fredericksburg_va",
         code: "us-va",
         relative_radius: 1.2
     },
     "harrisonburg_va": {
         name: "harrisonburg_va",
-        english_name: "harrisonburg_va",
+        name_english: "harrisonburg_va",
         code: "us-va",
         relative_radius: 1.2
     },
     "norfolk": {
         name: "norfolk",
-        english_name: "norfolk",
+        name_english: "norfolk",
         code: "us-va",
         relative_radius: 1.2
     },
     "richmond_va": {
         name: "richmond_va",
-        english_name: "richmond_va",
+        name_english: "richmond_va",
         code: "us-va",
         relative_radius: 1.2
     },
     "roanoke_va": {
         name: "roanoke_va",
-        english_name: "roanoke_va",
+        name_english: "roanoke_va",
         code: "us-va",
         relative_radius: 1.2
     },
     "winchester_va": {
         name: "winchester_va",
-        english_name: "winchester_va",
+        name_english: "winchester_va",
         code: "us-va",
         relative_radius: 1.2
     },
     "wytheville_va": {
         name: "wytheville_va",
-        english_name: "wytheville_va",
+        name_english: "wytheville_va",
         code: "us-va",
         relative_radius: 1.2
     },
     "washington": {
         name: "washington",
-        english_name: "washington",
+        name_english: "washington",
         code: "us-wa",
         relative_radius: 1.2
     },
     "kennewick": {
         name: "kennewick",
-        english_name: "kennewick",
+        name_english: "kennewick",
         code: "us-wa",
         relative_radius: 1.2
     },
     "olympia_wa": {
         name: "olympia_wa",
-        english_name: "olympia_wa",
+        name_english: "olympia_wa",
         code: "us-wa",
         relative_radius: 1.2
     },
     "seattle": {
         name: "seattle",
-        english_name: "seattle",
+        name_english: "seattle",
         code: "us-wa",
         relative_radius: 1.2
     },
     "spokane": {
         name: "spokane",
-        english_name: "spokane",
+        name_english: "spokane",
         code: "us-wa",
         relative_radius: 1.2
     },
     "wenatchee": {
         name: "wenatchee",
-        english_name: "wenatchee",
+        name_english: "wenatchee",
         code: "us-wa",
         relative_radius: 1.2
     },
     "west_virginia": {
         name: "west_virginia",
-        english_name: "west_virginia",
+        name_english: "west_virginia",
         code: "us-wv",
         relative_radius: 1.2
     },
     "charleston_wv": {
         name: "charleston_wv",
-        english_name: "charleston_wv",
+        name_english: "charleston_wv",
         code: "us-wv",
         relative_radius: 1.2
     },
     "morgantown_wv": {
         name: "morgantown_wv",
-        english_name: "morgantown_wv",
+        name_english: "morgantown_wv",
         code: "us-wv",
         relative_radius: 1.2
     },
     "parkersburg_wv": {
         name: "parkersburg_wv",
-        english_name: "parkersburg_wv",
+        name_english: "parkersburg_wv",
         code: "us-wv",
         relative_radius: 1.2
     },
     "weston_wv": {
         name: "weston_wv",
-        english_name: "weston_wv",
+        name_english: "weston_wv",
         code: "us-wv",
         relative_radius: 1.2
     },
     "wheeling": {
         name: "wheeling",
-        english_name: "wheeling",
+        name_english: "wheeling",
         code: "us-wv",
         relative_radius: 1.2
     },
     "wisconsin": {
         name: "wisconsin",
-        english_name: "wisconsin",
+        name_english: "wisconsin",
         code: "us-wi",
         relative_radius: 1.2
     },
     "eau_claire": {
         name: "eau_claire",
-        english_name: "eau_claire",
+        name_english: "eau_claire",
         code: "us-wi",
         relative_radius: 1.2
     },
     "green_bay": {
         name: "green_bay",
-        english_name: "green_bay",
+        name_english: "green_bay",
         code: "us-wi",
         relative_radius: 1.2
     },
     "la_crosse": {
         name: "la_crosse",
-        english_name: "la_crosse",
+        name_english: "la_crosse",
         code: "us-wi",
         relative_radius: 1.2
     },
     "madison_wi": {
         name: "madison_wi",
-        english_name: "madison_wi",
+        name_english: "madison_wi",
         code: "us-wi",
         relative_radius: 1.2
     },
     "milwaukee": {
         name: "milwaukee",
-        english_name: "milwaukee",
+        name_english: "milwaukee",
         code: "us-wi",
         relative_radius: 1.2
     },
     "wyoming": {
         name: "wyoming",
-        english_name: "wyoming",
+        name_english: "wyoming",
         code: "us-wy",
         relative_radius: 1.2
     },
     "casper_wy": {
         name: "casper_wy",
-        english_name: "casper_wy",
+        name_english: "casper_wy",
         code: "us-wy",
         relative_radius: 1.2
     },
     "cheyenne": {
         name: "cheyenne",
-        english_name: "cheyenne",
+        name_english: "cheyenne",
         code: "us-wy",
         relative_radius: 1.2
     },
     "evanston": {
         name: "evanston",
-        english_name: "evanston",
+        name_english: "evanston",
         code: "us-wy",
         relative_radius: 1.2
     },
     "gillette_wy": {
         name: "gillette",
-        english_name: "gillette",
+        name_english: "gillette",
         code: "us-wy",
         relative_radius: 1.2
     },
     "rawlins": {
         name: "rawlings",
-        english_name: "rawlings",
+        name_english: "rawlings",
         code: "us-wy",
         relative_radius: 1.2
     },
     "rock_springs": {
         name: "rock_springs",
-        english_name: "rock_springs",
+        name_english: "rock_springs",
         code: "us-wy",
         relative_radius: 1.2
     },
     "sheridan_wy": {
         name: "sheridan_wy",
-        english_name: "sheridan_wy",
+        name_english: "sheridan_wy",
         code: "us-wy",
         relative_radius: 1.2
     },
@@ -7868,14 +7868,14 @@ city_properties = $.extend(city_properties, city_properties_mexico);
 cities = cities.concat(cities_mexico);
 
 //Uncomment the lines below to enable C2C
-cities = cities.concat(cities_c2c);
-country_properties = $.extend(country_properties, country_properties_c2c);
-city_properties = $.extend(city_properties, city_properties_c2c);
+//cities = cities.concat(cities_c2c);
+//country_properties = $.extend(country_properties, country_properties_c2c);
+//city_properties = $.extend(city_properties, city_properties_c2c);
 
 //Uncomment the lines below to enable Canadream
-country_properties = $.extend(country_properties, country_properties_canadream);
-city_properties = $.extend(city_properties, city_properties_canadream);
-cities = cities.concat(cities_canadream);
+//country_properties = $.extend(country_properties, country_properties_canadream);
+//city_properties = $.extend(city_properties, city_properties_canadream);
+//cities = cities.concat(cities_canadream);
 
 for (var key in country_properties_c2c) {
     if (!country_properties_c2c.hasOwnProperty(key)) continue;
