@@ -73,20 +73,22 @@
         }
     });
 
+    $("tr").click(function (e) {
+        console.log($(this).index());
+    });
+
     function testStation() {
         var url = $("#list>tr:nth-child(" + (currentId + 1) + ")").attr("data-url");
         ready = true;
 
         if (hls != null) {
             hls.detachMedia();
-            hls = null;
         }
         var cleanUrl = url;
         if(url.indexOf("?") !== -1){
             cleanUrl = cleanUrl.split("?")[0];
         }
         if (cleanUrl.endsWith("m3u8")) {
-            hls = new Hls();
             //If HLS, continue here
             hls.attachMedia(document.getElementById("player"));
             hls.on(Hls.Events.MEDIA_ATTACHED, function () {
