@@ -3,14 +3,14 @@ ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion
 and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
 You can switch using the web interface, your keyboard, your controller and your mobile phone.
 
-ATS/ETS2 Local Radio contains over 600 radio stations that you could realistically listen to if you were driving in that actual country.
+ATS/ETS2 Local Radio contains over 3000 radio stations that you could realistically listen to if you were driving in that actual country.
 Most national radio stations are included; see the full list at the bottom of this page. 
 It does not include radio stations that you would not be able to receive over FM or DAB in that country, like TruckersFM.
 However, you can add those yourself if you so desire.
 
 **Supported maps:**  
 ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.  
-ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast*.  
+ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast*, Canadream*.  
 \*Disabled by default  
 
 **It's available in over 20 languages!**  
@@ -95,6 +95,7 @@ Generally speaking, I (Koen) will maintain the stations for ETS2 and the ATS bas
 The map mods for ATS are maintained by:
 * Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
 * Coast to Coast - [Avondale Trucking](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=167308)
+* Canadream - veso266 and Marcus
 
 ##### How about Project Balkans, Open Spaces, Coast to Coast or YKS Turkey?
 A persisting problem is that some maps are incompatible with each other.
