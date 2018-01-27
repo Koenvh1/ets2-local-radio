@@ -1,4 +1,4 @@
-var stations = {
+﻿var stations = {
     "alamogordo": [
         {
             name: "KRWG",
@@ -825,7 +825,7 @@ var stations = {
         },
         {
             name: "Las Vegas Public Radio",
-            logo: "stations/images-america/placeholder.png",
+            logo: "stations/images-america/las_vegas/Las Vegas Public Radio.png",
             url: "http://50.22.223.16:8010/;"
         },
         {
@@ -1036,7 +1036,7 @@ var stations = {
         },
         {
             name: "K-BOOK",
-            logo: "stations/images-america/placeholder.png",
+            logo: "stations/images-america/reno/K-BOOK.jpg",
             url: "http://198.245.60.88:8024/;stream.mp3"
         },
         {
@@ -14380,7 +14380,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Radio-Canada Première",
-            logo: "stations/images-america/canadream/Premiere Chaine.png",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2mwin0.akacast.akamaistream.net/7/504/177406/v1/rc.akacast.akamaistream.net/2MWIN0"
         },
         {
@@ -14477,7 +14477,7 @@ var stations_canadream = {
     "fortfrances": [
         {
             name: "CBC Radio One",
-            logo: "stations/images-america/canadream/vancouver/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
             url: "http://edge29205.icecast.akadns.net/7/245/451661/v1/rc.akacast.akamaistream.net/cbc_r1_tba"
         },
         {
@@ -14509,7 +14509,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Radio-Canada Première",
-            logo: "stations/images-america/canadream/Premiere Chaine.png",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2mwin0.akacast.akamaistream.net/7/504/177406/v1/rc.akacast.akamaistream.net/2MWIN0"
         },
         {
@@ -14625,7 +14625,7 @@ var stations_canadream = {
     "golden": [
         {
             name: "CBC Radio One 88.9 FM",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Kelowna CBTK.png",
+            logo: "stations/images-america/canadream/golden/CBC Radio One Kelowna CBTK.png",
             url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
         },
         {
@@ -14813,7 +14813,7 @@ var stations_canadream = {
     ],
     "jasper": [
         {
-            name: "Real Country West 95.5",
+            name: "Real Country West",
             logo: "stations/images-america/canadream/jasper/Real Country West 95.5.png",
             url: "http://newcap.leanstream.co/CFXEFM"
         },
@@ -14823,7 +14823,7 @@ var stations_canadream = {
             url: "http://cbc_r1_edm.akacast.akamaistream.net/7/904/451661/v1/rc.akacast.akamaistream.net/cbc_r1_edm"
         },
         {
-            name: "Ici Radio-Canada Première 101.1",
+            name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2qrou0.akacast.akamaistream.net/7/542/177398/v1/rc.akacast.akamaistream.net/2QROU0"
         },
@@ -14896,7 +14896,7 @@ var stations_canadream = {
         {
             name: "91.9 The Cave",
             logo: "stations/images-america/canadream/kingston/91.9 The Cave.png",
-            url: "http://listen1.mixlr.com/eb258fcf66cb1ca6c24c377bfb1de385"
+            url: "http://listen1.mixlr.com/268118aff50653a39636e84ea9f802fb"
         },
         {
             name: "CBC Radio 2",
@@ -14962,7 +14962,7 @@ var stations_canadream = {
         },
         {
             name: "103.9 CISN Country",
-            logo: "stations/images-america/canadream/labradorcity/98.1 CHFI.png",
+            logo: "stations/images-america/canadream/labradorcity/103.9 CISN Country.png",
             url: "http://live.leanstream.co/CISNFM"
         },
     ],
@@ -15014,12 +15014,12 @@ var stations_canadream = {
     ],
     "maniwaki": [
         {
-            name: "CBC Radio One 710 AM",
+            name: "CBC Radio One",
             logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
             url: "http://cbc_r1_ott.akacast.akamaistream.net/7/613/451661/v1/rc.akacast.akamaistream.net/cbc_r1_ott"
         },
         {
-            name: "Ici Radio-Canada Première 990 AM",
+            name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2oott0.akacast.akamaistream.net/7/749/177394/v1/rc.akacast.akamaistream.net/2OOTT0"
         },
@@ -15075,7 +15075,7 @@ var stations_canadream = {
             url: "http://stream.statsradio.com:8028/stream"
         },
         {
-            name: "Ici Musique 107.5 FM",
+            name: "Ici Musique",
             logo: "stations/images-america/canadream/Ici Musique.jpg",
             url: "http://7qrim0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0"
         },
@@ -15133,7 +15133,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One",
-            logo: "stations/images-america/canadream/moncton/CBC Radio One Montreal CBMI.png",
+            logo: "stations/images-america/canadream/montreal/CBC Radio One Montreal CBMI.png",
             url: "http://cbc_r1_mct.akacast.akamaistream.net/7/383/451661/v1/rc.akacast.akamaistream.net/cbc_r1_mct"
         },
         {
@@ -15230,7 +15230,7 @@ var stations_canadream = {
         },
         {
             name: "92.5 The Beat",
-            logo: "stations/images-america/canadream/montreal/92.5 The Beat.png",
+            logo: "stations/images-america/canadream/montreal/92.5 The Beat.svg",
             url: "http://icecast.cogecomedia.com:8000/ckbe.mp3"
         },
         {
@@ -15319,7 +15319,7 @@ var stations_canadream = {
         },
         {
             name: "1310 News",
-            logo: "stations/images-america/canadream/ottawa/TSN 1200 Ottawa.png",
+            logo: "stations/images-america/canadream/ottawa/1310 News.png",
             url: "http://ott1310.akacast.akamaistream.net/7/160/80880/v1/rogers.akacast.akamaistream.net/ott1310"
         },
         {
@@ -15334,7 +15334,7 @@ var stations_canadream = {
         },
         {
             name: "Hot 89.9 FM",
-            logo: "stations/images-america/canadream/ottawa/CHUO 89.1 FM.png",
+            logo: "stations/images-america/canadream/ottawa/Hot 89.9 FM.png",
             url: "http://newcap.leanstream.co/CIHTFM"
         },
         {
@@ -15422,7 +15422,7 @@ var stations_canadream = {
         },
         {
             name: "103.3 Moose FM",
-            logo: "stations/images-america/canadream/toronto/103.3 Moose FM.png",
+            logo: "stations/images-america/canadream/parrysound/103.3 Moose FM.png",
             url: "http://s1.hotdogradio.com/CKLP"
         },
     ],
@@ -15542,11 +15542,6 @@ var stations_canadream = {
             url: "http://cbc_r2_tor.akacast.akamaistream.net/7/364/451661/v1/rc.akacast.akamaistream.net/cbc_r2_tor"
         },
         {
-            name: "CBC Radio One",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
-            url: "http://cbc_r1_qqu.akacast.akamaistream.net/7/29/451661/v1/rc.akacast.akamaistream.net/cbc_r1_qqu"
-        },
-        {
             name: "Radio X Québec",
             logo: "stations/images-america/canadream/quebec/Radio X Quebec.png",
             url: "http://icecast-choi.rncm.ca/choi.mp3"
@@ -15560,11 +15555,6 @@ var stations_canadream = {
             name: "BLVD 102.1",
             logo: "stations/images-america/canadream/quebec/BLVD 102.1.png",
             url: "http://streaming.cfel.leclerccommunication.ca:8000/cfel.mp3"
-        },
-        {
-            name: "MFM 102.9",
-            logo: "stations/images-america/canadream/quebec/MFM 102.9.png",
-            url: "http://icecast.cogecomedia.com:8000/cfom.mp3"
         },
         {
             name: "MFM 102.9",
@@ -16386,11 +16376,6 @@ var stations_canadream = {
             url: "http://stream03.ustream.ca:8000/ckxl128.mp3"
         },
         {
-            name: "Envol 91.1 FM",
-            logo: "stations/images-america/canadream/winnipeg/Envol 91.1 FM.png",
-            url: "http://stream03.ustream.ca:8000/ckxl128.mp3"
-        },
-        {
             name: "92.1 Citi",
             logo: "stations/images-america/canadream/winnipeg/92.1 Citi.png",
             url: "http://win921.akacast.akamaistream.net/7/500/80896/v1/rogers.akacast.akamaistream.net/win921"
@@ -16496,7 +16481,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Radio-Canada Première",
-            logo: "stations/images-america/canadream/Premiere Chaine.png",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
             url: "http://2mwin0.akacast.akamaistream.net/7/504/177406/v1/rc.akacast.akamaistream.net/2MWIN0"
         },
         {
@@ -16516,12 +16501,11 @@ var stations_canadream = {
         },
         {
             name: "Radio Taiga 103.5 FM",
-            logo: "stations/images-america/canadream/fortsimpson/Radio Taiga 103.5 FM.png",
+            logo: "stations/images-america/canadream/yellowknife/Radio Taiga 103.5 FM.png",
             url: "http://17683.live.streamtheworld.com/CIVRAAC.aac"
         },
     ],
 };
-
 
 stations = $.extend(stations, stations_mexico);
 stations = $.extend(stations, stations_c2c);
