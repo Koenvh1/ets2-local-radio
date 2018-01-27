@@ -144,14 +144,14 @@ var stations = {
             url: "http://video.tvr.by:8000/belfm"
         },
         {
-            name: "Радио BA",
-            logo: "stations/images-europe/belarus/Радио BA.png",
-            url: "http://87.252.252.78:8000/BA128"
-        },
-        {
             name: "Радио Сталіца",
             logo: "stations/images-europe/belarus/Радио Сталіца.jpg",
             url: "http://video.tvr.by:8000/stolica"
+        },
+        {
+            name: "Радио BA",
+            logo: "stations/images-europe/belarus/Радио BA.png",
+            url: "http://87.252.252.78:8000/BA128"
         },
         {
             name: "Радио Минск",
@@ -451,24 +451,22 @@ var stations = {
         {
             name: "ΡΙΚ ΠΡΩΤΟ",
             logo: "stations/images-europe/cyprus/PIK.png",
-            url: "https://cors-anywhere.herokuapp.com/http://109.110.225.226:1935/live/myStream/playlist.m3u8"
+            url: "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio"
         },
-        /*
         {
             name: "ΡΙΚ ΔΕΥΤΕΡΟ",
             logo: "stations/images-europe/cyprus/PIK.png",
-            url: "http://109.110.225.226:1935/live/myStream/playlist.m3u8"
+            url: "http://r1.cloudskep.com/cybcr/cybc2/icecast.audio"
         },
-        */
         {
             name: "ΡΙΚ ΤΡΙΤΟ",
             logo: "stations/images-europe/cyprus/PIK.png",
-            url: "https://cors-anywhere.herokuapp.com/http://109.110.225.117:1935/live/myStream/playlist.m3u8"
+            url: "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio"
         },
         {
             name: "ΡΙΚ ΤΕΤΑΡΤΟ",
             logo: "stations/images-europe/cyprus/PIK.png",
-            url: "https://cors-anywhere.herokuapp.com/http://109.110.225.118:1935/live/myStream/playlist.m3u8"
+            url: "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
         },
         {
             name: "Bayrak Radyosu",
@@ -942,7 +940,7 @@ var stations = {
         {
             name: "რადიო 1",
             logo: "stations/images-europe/georgia/რადიო 1.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://radio1tvlive1.tulix.tv:1935/radio1tv/radio1tv1/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/https://tv.cdn.xsg.ge/gpb-radio1studia/tracks-v1a1/index.m3u8"
         },
     ],
     "germany": [
@@ -1464,7 +1462,7 @@ var stations = {
         {
             name: "Rythmos FM",
             logo: "stations/images-europe/greece/Rythmos FM.png",
-            url: "https://antglrythmos1-lh.akamaihd.net/i/live_1@425194/master.m3u8"
+            url: "http://ample-10.radiojar.com/g4tyehk5yvduv?rj-ttl=5&rj-token=AAABYTfr6LcyzlBtcDzLiw3qph6r3X7oRS_PO28pTSHS9xEI3FO90Q"
         },
         {
             name: "Star FM",
@@ -1523,7 +1521,7 @@ var stations = {
         {
             name: "Bylgjan 98,9",
             logo: "stations/images-europe/iceland/Bylgjan 98,9.jpg",
-            url: "http://icecast.365net.is:8000/orbbylgjan.aac"
+            url: "https://cors-anywhere.herokuapp.com/http://vcache1.365net.is/hls-radio/bylgjan/playlist.m3u8"
         },
         {
             name: "FM957",
@@ -2884,11 +2882,13 @@ var stations = {
             logo: "stations/images-europe/turkey/Best FM.png",
             url: "http://46.20.7.125:80/;"
         },
+        /*
         {
             name: "Bloomberg HT Radyo",
             logo: "stations/images-europe/turkey/Bloomberg HT Radyo.jpg",
             url: "https://cors-anywhere.herokuapp.com/http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
         },
+        */
         {
             name: "Kral FM",
             logo: "stations/images-europe/turkey/Kral FM.jpg",
