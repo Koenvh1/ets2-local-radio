@@ -979,9 +979,9 @@ var stations = {
     ],
     "primm": [
         {
-            name: "The Highway Vibe",
-            logo: "stations/images-america/primm/The Highway Vibe.jpg",
-            url: "http://67.212.165.106:8128/;"
+            name: "95.5 The Bull",
+            logo: "stations/images-america/primm/95.5 The Bull.png",
+            url: "http://c3icyelb.prod.playlists.ihrhls.com/1345_icy"
         },
     ],
     "raton": [
