@@ -710,7 +710,7 @@ var stations = {
         {
             name: "VoxPop",
             logo: "stations/images-europe/faroe/VoxPop.png",
-            url: "http://162.13.152.247/mid"
+            url: "http://stream.midlar.fo/voxpop-128"
         },
     ],
     "finland": [

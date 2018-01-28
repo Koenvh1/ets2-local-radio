@@ -2812,42 +2812,6 @@ var country_properties_c2c = {
         code: "us-nm",
         relative_radius: 1.2
     },
-    "albuquerque": {
-        name: "albuquerque",
-        name_english: "albuquerque",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "farmington": {
-        name: "farmington",
-        name_english: "farmington",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "gallup": {
-        name: "gallup",
-        name_english: "gallup",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "las_cruces": {
-        name: "las_cruces",
-        name_english: "las_cruces",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "roswell": {
-        name: "roswell",
-        name_english: "roswell",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "santa_fe": {
-        name: "santa_fe",
-        name_english: "santa_fe",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
     "santa_rosa": {
         name: "santa_rosa",
         name_english: "santa_rosa",
@@ -2857,12 +2821,6 @@ var country_properties_c2c = {
     "truth_or_consequences": {
         name: "truth_or_consequences",
         name_english: "truth_or_consequences",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "tucumcari": {
-        name: "tucumcari",
-        name_english: "tucumcari",
         code: "us-nm",
         relative_radius: 1.2
     },
@@ -7867,6 +7825,16 @@ country_properties = $.extend(country_properties, country_properties_mexico);
 city_properties = $.extend(city_properties, city_properties_mexico);
 cities = cities.concat(cities_mexico);
 
+for (var key in country_properties_c2c) {
+    if (!country_properties_c2c.hasOwnProperty(key)) continue;
+    var index = cities_c2c.map(function (e) {
+        return e.gameName;
+    }).indexOf(key);
+    if (index !== -1) {
+        country_properties_c2c[key].name = cities_c2c[index].realName;
+    }
+}
+
 //Uncomment the lines below to enable C2C
 cities = cities.concat(cities_c2c);
 country_properties = $.extend(country_properties, country_properties_c2c);
@@ -7877,15 +7845,6 @@ country_properties = $.extend(country_properties, country_properties_canadream);
 city_properties = $.extend(city_properties, city_properties_canadream);
 cities = cities.concat(cities_canadream);
 
-for (var key in country_properties_c2c) {
-    if (!country_properties_c2c.hasOwnProperty(key)) continue;
-    var index = cities_c2c.map(function (e) {
-        return e.gameName;
-    }).indexOf(key);
-    if (index !== -1) {
-        country_properties_c2c[key].name = cities_c2c[index].realName;
-    }
-}
 
 //Set country to gameName, because stations are bound to a city.
 for (var i = 0; i < cities.length; i++) {
