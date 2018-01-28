@@ -1359,14 +1359,19 @@ var stations = {
             url: "http://stream.antenne1.de/a1stg/livestream2.mp3"
         },
         {
+            name: "bigFM",
+            logo: "stations/images-europe/germany-swr/bigFM.svg",
+            url: "http://srv05.bigstreams.de/bigfm-mp3-96"
+        },
+        {
             name: "Die neue 107.7",
             logo: "stations/images-europe/germany-swr/Die neue 107.7.png",
             url: "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3"
         },
         {
-            name: "bigFM",
-            logo: "stations/images-europe/germany-swr/bigFM.svg",
-            url: "http://srv05.bigstreams.de/bigfm-mp3-96"
+            name: "Die neue Welle",
+            logo: "stations/images-europe/germany-swr/Die neue Welle.svg",
+            url: "http://stream.meine-neue-welle.de/dnw_128.mp3"
         },
         {
             name: "Radio 7",
@@ -2467,7 +2472,7 @@ var stations = {
         },
         {
             name: "Радио DFM",
-            logo: "stations/images-europe/russia/Радио DFM.png",
+            logo: "stations/images-europe/russia/Радио DFM.svg",
             url: "http://icecast.radiodfm.cdnvideo.ru:8000/dfm_m.aac"
         },
         {

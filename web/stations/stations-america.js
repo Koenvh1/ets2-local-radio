@@ -1649,7 +1649,7 @@ var stations_mexico = {
         },
         {
             name: "La Bestia Grupera 96.5 FM",
-            logo: "stations/images-america/other/La Bestia Grupera 96.5 FM.png",
+            logo: "stations/images-america/sonoyta/La Bestia Grupera 96.5 FM.png",
             url: "http://stream2.dyndns.org:8000/xhita.mp3"
         },
     ],
@@ -2414,7 +2414,7 @@ var stations_c2c = {
         },
         {
             name: "The Possum 103.9",
-            logo: "stations/images-america/c2c/The Possum 103.9.png",
+            logo: "stations/images-america/c2c/The Possum 103.9.jpg",
             url: "http://ice9.securenetsystems.net/WQKSHD4"
         },
         {
@@ -2445,7 +2445,7 @@ var stations_c2c = {
             url: "http://war.str3am.com:7030/kuaf1"
         },
         {
-            name: "The Mix",
+            name: "The Mix 93.1 104.9 Eastern Oklahoma State College",
             logo: "stations/images-america/c2c/The Mix 93.1 104.9 Eastern Oklahoma State College.jpg",
             url: "http://164.58.174.128:8000/stream.ogg"
         },
@@ -2478,6 +2478,11 @@ var stations_c2c = {
             name: "News Talk 1320 KWHN",
             logo: "stations/images-america/c2c/News Talk 1320 KWHN.png",
             url: "https://c10icy.prod.playlists.ihrhls.com/4250_icy"
+        },
+        {
+            name: "Big Country 107.3",
+            logo: "stations/images-america/c2c/Big Country 107.3.png",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KOMSFM"
         },
     ],
     "little_rock": [
@@ -2527,17 +2532,17 @@ var stations_c2c = {
     "colorado_springs": [
         {
             name: "KCME",
-            logo: "stations/images-america/c2c/KCME.png",
+            logo: "stations/images-america/c2c/KCME 88.7 FM.png",
             url: "https://ice9.securenetsystems.net/KCME"
         },
         {
             name: "KRCC",
-            logo: "stations/images-america/c2c/KRCC.png",
+            logo: "stations/images-america/c2c/91.5 KRCC.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRCCFM_ADP.m3u8"
         },
         {
             name: "KRCC HD2 BBC World Service",
-            logo: "stations/images-america/c2c/KRCC HD2 BBC World Service.png",
+            logo: "stations/images-america/c2c/91.5 KRCC HD2 BBC World Service.png",
             url: "http://14523.live.streamtheworld.com:80/KRCCHD2_SC"
         },
         {
@@ -2552,7 +2557,7 @@ var stations_c2c = {
         },
         {
             name: "Colorado Public Radio Classical",
-            logo: "stations/images-america/c2c/Colorado Public Radio Classical.jpg",
+            logo: "stations/images-america/c2c/Colorado Public Radio Classical.png",
             url: "http://stream2.cprnetwork.org:8000/cpr2_lo"
         },
         {
@@ -2562,7 +2567,7 @@ var stations_c2c = {
         },
         {
             name: "KRDO NewsRadio",
-            logo: "stations/images-america/c2c/KRDO.png",
+            logo: "stations/images-america/c2c/KRDO NewsRadio 105.5FM & 1240AM.png",
             url: "http://ice6.securenetsystems.net:80/KRDO"
         },
         {
@@ -2577,19 +2582,19 @@ var stations_c2c = {
         },
         {
             name: "KVOR",
-            logo: "stations/images-america/c2c/KVOR.png",
+            logo: "stations/images-america/c2c/AM 740 KVOR.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KVORAM"
         },
         {
             name: "Colorado Public Radio News",
-            logo: "stations/images-america/c2c/Colorado Public Radio News.jpg",
+            logo: "stations/images-america/c2c/Colorado Public Radio News.png",
             url: "http://stream2.cprnetwork.org:8000/cpr1_lo"
         },
     ],
     "denver": [
         {
             name: "Colorado Public Radio Classical",
-            logo: "stations/images-america/c2c/Colorado Public Radio Classical.jpg",
+            logo: "stations/images-america/c2c/Colorado Public Radio Classical.png",
             url: "http://stream2.cprnetwork.org:8000/cpr2_lo"
         },
         {
@@ -2604,11 +2609,11 @@ var stations_c2c = {
         },
         {
             name: "Colorado Public Radio News",
-            logo: "stations/images-america/c2c/Colorado Public Radio News.jpg",
+            logo: "stations/images-america/c2c/Colorado Public Radio News.png",
             url: "http://stream2.cprnetwork.org:8000/cpr1_lo"
         },
         {
-            name: "The Rock",
+            name: "The Rock 93.7 1510",
             logo: "stations/images-america/c2c/The Rock 93.7 1510.png",
             url: "http://ice64.securenetsystems.net/KCKK"
         },
@@ -2624,7 +2629,7 @@ var stations_c2c = {
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/c2c/KOSI.png",
+            logo: "stations/images-america/c2c/KOSI 101.1.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KOSIFM"
         },
         {
@@ -2639,7 +2644,7 @@ var stations_c2c = {
         },
         {
             name: "Kool 105",
-            logo: "stations/images-america/c2c/KXKL.png",
+            logo: "stations/images-america/c2c/Kool 105.png",
             url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=KXKLFM"
         },
         {
@@ -2648,12 +2653,12 @@ var stations_c2c = {
             url: "https://c10icy.prod.playlists.ihrhls.com/377_icy"
         },
         {
-            name: "Legends",
+            name: "Legends 810",
             logo: "stations/images-america/c2c/Legends 810.png",
             url: "http://13993.live.streamtheworld.com:3690/KLVZAMAAC_SC"
         },
         {
-            name: "KOA NewsRadio",
+            name: "KOA NewsRadio 850",
             logo: "stations/images-america/c2c/KOA NewsRadio 850.png",
             url: "https://c8icy.prod.playlists.ihrhls.com/389_icy"
         },
@@ -2739,12 +2744,12 @@ var stations_c2c = {
         {
             name: "96.1 K-Star",
             logo: "stations/images-america/c2c/96.1 K-Star.png",
-            url: "http://www.ophanim.net:9620/;"
+            url: "http://15113.live.streamtheworld.com/KSTRFMAAC.aac"
         },
         {
             name: "The Vault 100.7",
             logo: "stations/images-america/c2c/The Vault 100.7.png",
-            url: "http://www.ophanim.net:9610/;"
+            url: "http://18153.live.streamtheworld.com/KKVTFMAAC.aac"
         },
         {
             name: "103.3 KPRU CPR Classical",
@@ -2764,7 +2769,7 @@ var stations_c2c = {
         {
             name: "KNZZ 1100 92.7",
             logo: "stations/images-america/c2c/KNZZ 1100 92.7.png",
-            url: "http://www.ophanim.net:9640/;"
+            url: "http://17643.live.streamtheworld.com/KNZZAMAAC.aac"
         },
     ],
     "kit_carson": [
@@ -2776,20 +2781,20 @@ var stations_c2c = {
     ],
     "limon": [
         {
-            name: "KRCC",
-            logo: "stations/images-america/c2c/KRCC.png",
+            name: "91.5 KRCC",
+            logo: "stations/images-america/c2c/91.5 KRCC.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRCCFM_ADP.m3u8"
         },
     ],
     "pueblo": [
         {
             name: "Colorado Public Radio Classical",
-            logo: "stations/images-america/c2c/Colorado Public Radio Classical.jpg",
+            logo: "stations/images-america/c2c/Colorado Public Radio Classical.png",
             url: "http://stream2.cprnetwork.org:8000/cpr2_lo"
         },
         {
             name: "KPHT",
-            logo: "stations/images-america/c2c/KPHT.png",
+            logo: "stations/images-america/c2c/95.5 KPHT.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/425_icy"
         },
         {
@@ -2804,7 +2809,7 @@ var stations_c2c = {
         },
         {
             name: "Colorado Public Radio News",
-            logo: "stations/images-america/c2c/Colorado Public Radio News.jpg",
+            logo: "stations/images-america/c2c/Colorado Public Radio News.png",
             url: "http://stream2.cprnetwork.org:8000/cpr1_lo"
         },
     ],
@@ -2838,6 +2843,16 @@ var stations_c2c = {
         },
     ],
     "hartford": [
+        {
+            name: "WTIC NewsTalk 1080",
+            logo: "stations/images-america/c2c/WTIC NewsTalk 1080.gif",
+            url: "http://koenvh.nl/inc/streamtheworld-parser.php?sign=WTICAM"
+        },
+        {
+            name: "WLIS 1420 AM WMRD 1150 AM",
+            logo: "stations/images-america/c2c/WLIS 1420 AM WMRD 1150 AM.jpg",
+            url: "http://ice7.securenetsystems.net/WLISWMRD"
+        },
         {
             name: "WESU Wesleyan University",
             logo: "stations/images-america/c2c/88.1 FM WESU Wesleyan University.png",
@@ -6426,7 +6441,7 @@ var stations_c2c = {
         },
         {
             name: "The Cove",
-            logo: "stations/images-america/c2c/WODSHD3.png",
+            logo: "stations/images-america/c2c/WODSHD3.jpg",
             url: "http://14133.live.streamtheworld.com:3690/WODSHD3AAC_SC"
         },
         {
@@ -6473,7 +6488,7 @@ var stations_c2c = {
         },
         {
             name: "Oldies 94.1",
-            logo: "stations/images-america/c2c/WXBJ.webp",
+            logo: "stations/images-america/c2c/WXBJ.jpg",
             url: "http://104.250.149.122:8120/stream"
         },
         {
@@ -7582,7 +7597,7 @@ var stations_c2c = {
         },
         {
             name: "KTTN",
-            logo: "stations/images-america/c2c/KTTN",
+            logo: "stations/images-america/c2c/KTTN.png",
             url: "http://s5.voscast.com:7194/;"
         },
     ],
@@ -8804,7 +8819,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 102.5",
-            logo: "stations/images-america/c2c/WUMX.png",
+            logo: "stations/images-america/c2c/WUMX.jpg",
             url: "http://icy1.abacast.com/galaxy-wumxfmmp3-48"
         },
         {
@@ -9929,7 +9944,7 @@ var stations_c2c = {
         },
         {
             name: "92.1 The Possum KXEZ",
-            logo: "",
+            logo: "stations/images-america/placeholder.png",
             url: "http://173.193.205.96:8018/stream"
         },
         {
