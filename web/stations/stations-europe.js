@@ -589,7 +589,7 @@ var stations = {
         {
             name: "myROCK",
             logo: "stations/images-europe/denmark/myROCK.jpg",
-            url: "http://ads-e-bauerse-fm-03-cr.sharp-stream.com/myrock_dk_mp3"
+            url: "http://edge-bauersefm-03-gos2.sharp-stream.com/myrock_dk_mp3"
         },
         {
             name: "Nova FM",
@@ -614,7 +614,7 @@ var stations = {
         {
             name: "Radio Soft",
             logo: "stations/images-europe/denmark/Radio Soft.jpg",
-            url: "http://ads-e-bauerse-fm-03-cr.sharp-stream.com/radiosoft_dk_mp3"
+            url: "http://edge-bauersefm-03-gos2.sharp-stream.com/radiosoft_dk_mp3"
         },
         {
             name: "The Voice",
@@ -1721,7 +1721,7 @@ var stations = {
         {
             name: "Radio Dimensione Suono (RDS)",
             logo: "stations/images-europe/italy/Radio Dimensione Suono (RDS).png",
-            url: "http://www.rds.it:8000/stream"
+            url: "https://580e24eaf03c8.streamlock.net/live/rds64k.stream/playlist.m3u8"
         },
         {
             name: "Radio Freccia",
@@ -2228,17 +2228,17 @@ var stations = {
         {
             name: "Norsk pop",
             logo: "stations/images-europe/norway/Norsk pop.jpg",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/norskpop_no_mp3"
+            url: "http://edge-bauersefm-02-gos1.sharp-stream.com/norskpop_no_mp3"
         },
         {
             name: "Radio Norge",
             logo: "stations/images-europe/norway/Radio Norge.png",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/radionorge_no_aac"
+            url: "http://edge-bauersefm-02-gos1.sharp-stream.com/radionorge_no_aac"
         },
         {
             name: "Radio Vinyl",
             logo: "stations/images-europe/norway/Radio Vinyl.jpg",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/vinyl_no_mp3"
+            url: "http://edge-bauersefm-02-gos1.sharp-stream.com/vinyl_no_mp3"
         },
     ],
     "poland": [
@@ -2282,7 +2282,7 @@ var stations = {
         {
             name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
-            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/eska-warszawa"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=eska-warszawa"
         },
         {
             name: "Radio Maryja",
@@ -2292,12 +2292,12 @@ var stations = {
         {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.jpg",
-            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/radio-plus"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=radio-plus"
         },
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/wawa"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=wawa"
         },
         {
             name: "Radio ZET",
@@ -2339,7 +2339,7 @@ var stations = {
         {
             name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "http://www.radio-internetowe.com/eskago.php?source=http://www.eskago.pl/radio/vox-fm"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=vox-fm"
         },
     ],
     "romania": [
