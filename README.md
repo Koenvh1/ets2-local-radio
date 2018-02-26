@@ -10,7 +10,7 @@ However, you can add those yourself if you so desire.
 
 **Supported maps:**  
 ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Russia, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.  
-ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast*, Canadream*.  
+ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast, Canadream.  
 \*Disabled by default  
 
 **It's available in over 20 languages!**  
