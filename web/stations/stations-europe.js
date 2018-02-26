@@ -2069,7 +2069,7 @@ var stations = {
         {
             name: "Radio 10",
             logo: "stations/images-europe/netherlands/Radio 10.png",
-            url: "http://538hls.lswcdn.triple-it.nl/content/radio10/index.m3u8",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
         },
         {
             name: "Radio 538",
@@ -2493,7 +2493,7 @@ var stations = {
         {
             name: "Эхо Москвы",
             logo: "stations/images-europe/russia/Эхо Москвы.svg",
-            url: "http://81.19.85.197/echo.mp3"
+            url: "http://radio-echo.melodix.ru:8080/echo.mp3"
         },
         {
             name: "Юмор FM",
@@ -2517,17 +2517,17 @@ var stations = {
         {
             name: "Радио Београд 1",
             logo: "stations/images-europe/serbia/Радио Београд.png",
-            url: "http://rts.ipradio.rs:8002/;"
+            url: "https://rts-live.morescreens.com/RTS_1_009/playlist.m3u8?video_id=15918&authority_instance_id=spectar-prd-rts&token=d798439fbb3dfc0576a1ba83dabb0695ce551b2e&profile_id=39527&application_installation_id=164882&uuid=5a940ab1441e95.14607095&subscriber_id=39566&application_id=helium&channel_name=__1&detected_delivery_method=hls"
         },
         {
             name: "Радио Београд 2",
             logo: "stations/images-europe/serbia/Радио Београд 2.jpg",
-            url: "http://rts.ipradio.rs:8004/;"
+            url: "https://rts-live.morescreens.com/RTS_1_010/playlist.m3u8?video_id=16086&authority_instance_id=spectar-prd-rts&token=d798439fbb3dfc0576a1ba83dabb0695ce551b2e&profile_id=39527&application_installation_id=164882&uuid=5a940ab1441e95.14607095&subscriber_id=39566&application_id=helium&channel_name=__2&detected_delivery_method=hls"
         },
         {
             name: "Радио Београд 202",
             logo: "stations/images-europe/serbia/Радио Београд 202.jpg",
-            url: "http://rts.ipradio.rs:8006/;"
+            url: "https://rts-live.morescreens.com/RTS_1_012/playlist.m3u8?video_id=16091&authority_instance_id=spectar-prd-rts&token=d798439fbb3dfc0576a1ba83dabb0695ce551b2e&profile_id=39527&application_installation_id=164882&uuid=5a940ab1441e95.14607095&subscriber_id=39566&application_id=helium&channel_name=_202&detected_delivery_method=hls"
         },
         {
             name: "Hit FM",
@@ -2757,12 +2757,12 @@ var stations = {
         {
             name: "Mix Megapol",
             logo: "stations/images-europe/sweden/Mix Megapol.png",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/mixmegapol_instream_se_aacp"
+            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/mixmegapol_instream_se_aacp"
         },
         {
             name: "NRJ",
             logo: "stations/images-europe/sweden/NRJ.png",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/nrj_instreamtest_se_mp3"
+            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/nrj_instreamtest_se_mp3"
         },
         {
             name: "Rix FM",
@@ -2772,12 +2772,12 @@ var stations = {
         {
             name: "Rockklassiker",
             logo: "stations/images-europe/sweden/Rockklassiker.jpg",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/rockklassiker_instream_se_aacp"
+            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/rockklassiker_instream_se_aacp"
         },
         {
             name: "Vinyl FM",
             logo: "stations/images-europe/sweden/Vinyl FM.png",
-            url: "http://ads-e-bauerse-fm-04-cr.sharp-stream.com/vinylfm_instream_se_aacp"
+            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/vinylfm_instream_se_aacp"
         },
     ],
     "switzerland-de": [
@@ -2984,7 +2984,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "http://icy-e-bab-06-cr.sharp-stream.com/absoluteradio.aac"
+            url: "https://ais.absoluteradio.co.uk/absoluteradiomed.aac"
         },
         {
             name: "Capital FM",
@@ -3014,7 +3014,7 @@ var stations = {
         {
             name: "Heat radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "http://icy-e-bl-03-gos.sharp-stream.com/heat.aac"
+            url: "https://stream-al.planetradio.co.uk/heat.aac"
         },
         {
             name: "Kiss",
@@ -3039,7 +3039,7 @@ var stations = {
         {
             name: "Magic",
             logo: "stations/images-europe/uk/Magic.png",
-            url: "http://icy-e-bz-04-cr.sharp-stream.com/magicnational.aac"
+            url: "https://stream-mz.planetradio.co.uk/magicnational.aac"
         },
         {
             name: "Radio X",

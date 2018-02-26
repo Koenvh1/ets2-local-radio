@@ -84,6 +84,7 @@
         if (hls != null) {
             hls.detachMedia();
         }
+        hls = new Hls();
         var cleanUrl = url;
         if(url.indexOf("?") !== -1){
             cleanUrl = cleanUrl.split("?")[0];
