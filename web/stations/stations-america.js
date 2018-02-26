@@ -200,9 +200,14 @@
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            name: "KAJM",
-            logo: "stations/images-america/camp_verde/KAJM.png",
-            url: "http://ice5.securenetsystems.net/KAJM"
+            name: "Hits 106",
+            logo: "stations/images-america/camp_verde/Hits 106.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFMAAC.aac"
+        },
+        {
+            name: "KVRD",
+            logo: "stations/images-america/camp_verde/KVRD.png",
+            url: "http://icy3.abacast.com:80/yavapai-kvrdfmaac-64"
         },
     ],
     "carlsbad": [
@@ -869,6 +874,11 @@
             name: "KJAZZ",
             logo: "stations/images-america/los_angeles/KJAZZ.png",
             url: "http://1.ice1.firststreaming.com/kkjz_fm.mp3"
+        },
+        {
+            name: "KLOS",
+            logo: "stations/images-america/los_angeles/KLOS.png",
+            url: "http://14643.live.streamtheworld.com/KLOSFMAAC.aac"
         },
     ],
     "nogales": [

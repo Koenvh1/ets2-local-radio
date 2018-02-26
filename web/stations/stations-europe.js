@@ -2577,6 +2577,11 @@ var stations = {
             url: "http://stream.funradio.sk:8000/fun128.mp3"
         },
         {
+            name: "Rádio Anténa Rock",
+            logo: "stations/images-europe/slovakia/Rádio Anténa Rock.png",
+            url: "http://stream.antenarock.sk/antena-hi.mp3"
+        },
+        {
             name: "Rádio Expres",
             logo: "stations/images-europe/slovakia/Rádio Expres.png",
             url: "http://85.248.7.162:8000/96.mp3"
@@ -2607,6 +2612,11 @@ var stations = {
             name: "Radio Slovenija Ars",
             logo: "stations/images-europe/slovenia/Radio Slovenija Ars.png",
             url: "http://mp3.rtvslo.si:80/ars"
+        },
+        {
+            name: "Radio SI",
+            logo: "stations/images-europe/slovenia/Radio SI.jpg",
+            url: "http://mp3.rtvslo.si/rsi"
         },
         {
             name: "Hitradio Center",
