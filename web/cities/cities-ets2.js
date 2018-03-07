@@ -6392,9 +6392,9 @@ var cities_kz = [
         "gameName": "ershov",
         "realName": "Ershov",
         "country": "russia",
-        "x": "147589",
-        "y": "73.0313",
-        "z": "-25388.9"
+        "x": "147738",
+        "y": "72.9727",
+        "z": "-25399.4"
     },
     {
         "gameName": "inderborsky",
@@ -6413,6 +6413,14 @@ var cities_kz = [
         "z": "359.633"
     },
     {
+        "gameName": "lubenka",
+        "realName": "Lubenka",
+        "country": "kazakhstan",
+        "x": "172131",
+        "y": "134.16",
+        "z": "-20870.1"
+    },
+    {
         "gameName": "makat",
         "realName": "Makat",
         "country": "kazakhstan",
@@ -6427,6 +6435,22 @@ var cities_kz = [
         "x": "158495",
         "y": "63.8086",
         "z": "-24950.6"
+    },
+    {
+        "gameName": "vzletnyy",
+        "realName": "Vzletnyy",
+        "country": "russia",
+        "x": "137243",
+        "y": "41.6992",
+        "z": "-27391.7"
+    },
+    {
+        "gameName": "zhympity",
+        "realName": "Zhympity",
+        "country": "kazakhstan",
+        "x": "165239",
+        "y": "62.5547",
+        "z": "-19368.3"
     }
 ];
 
