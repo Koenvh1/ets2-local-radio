@@ -1709,6 +1709,11 @@ var stations = {
             url: "http://icecast.unitedradio.it/Radio105.mp3"
         },
         {
+            name: "Radio 24",
+            logo: "stations/images-europe/italy/Radio 24.png",
+            url: "http://shoutcast2.radio24.ilsole24ore.com:8000/;stream.nsv"
+        },
+        {
             name: "Radio Capital",
             logo: "stations/images-europe/italy/Radio Capital.png",
             url: "http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8"
@@ -2648,17 +2653,17 @@ var stations = {
         {
             name: "RNE Radio Nacional",
             logo: "stations/images-europe/spain/RNE Radio Nacional.png",
-            url: "http://195.10.10.225/rtve/rne.mp3"
+            url: "http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.mp3"
         },
         {
             name: "RNE Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "http://195.55.74.221/rtve/radioclasica.mp3"
+            url: "http://rtve-mp3-tunein.flumotion.com/rtve/rtve-radioclasica-tunein.mp3"
         },
         {
             name: "RNE Radio 3",
             logo: "stations/images-europe/spain/RNE Radio 3.png",
-            url: "http://195.10.10.225/rtve/radio3.mp3"
+            url: "http://rtve-mp3-tunein.flumotion.com/rtve/rtve-radio3-tunein.mp3"
         },
         {
             name: "Cadena 100",
