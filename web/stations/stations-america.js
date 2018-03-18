@@ -109,6 +109,11 @@
             url: "http://ice10.securenetsystems.net/KBDS"
         },
         {
+            name: "Alt 106.1 KRAB Radio",
+            logo: "stations/images-america/bakersfield/Alt 106.1 KRAB Radio.png",
+            url: "http://c9icyelb.prod.playlists.ihrhls.com/3236_icy"
+        },
+        {
             name: "Campesina",
             logo: "stations/images-america/bakersfield/Campesina.jpg",
             url: "http://ice41.securenetsystems.net:80/NETCAMP"
@@ -134,6 +139,11 @@
             name: "KPSL-FM",
             logo: "stations/images-america/bakersfield/KPSL-FM.png",
             url: "http://ice24.securenetsystems.net/KPSL"
+        },
+        {
+            name: "KUZZ",
+            logo: "stations/images-america/bakersfield/KUZZ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC.aac"
         },
         {
             name: "Radio Bilingue",
