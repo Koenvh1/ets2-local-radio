@@ -99,6 +99,12 @@ namespace ETS2_Local_Radio_server
 
                     Graphics g = Graphics.FromImage(bmp);
 
+                    if (Settings.VR)
+                    {
+                        g.TranslateTransform(0, bmp.Height);
+                        g.ScaleTransform(1, -1);
+                    }
+
                     //g.SmoothingMode = SmoothingMode.AntiAlias;
                     g.InterpolationMode = InterpolationMode.HighQualityBicubic;
                     g.PixelOffsetMode = PixelOffsetMode.HighQuality;
@@ -216,7 +222,6 @@ namespace ETS2_Local_Radio_server
                             Log.Write(ex.ToString());
                         }
                     }
-
 
                     g.Flush();
 

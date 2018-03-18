@@ -15,6 +15,7 @@ namespace ETS2_Local_Radio_server
         public static int Port = 8330;
         public static bool Overlay = true;
         public static string Controller = null;
+        public static bool VR = false;
 
         public static string PreviousKey = "PageUp";
         public static string NextKey = "Next";
@@ -47,6 +48,7 @@ namespace ETS2_Local_Radio_server
                 Port = s.port ?? Port;
                 Overlay = s.overlay ?? Overlay;
                 Controller = s.controller ?? Controller;
+                VR = s.vr ?? VR;
 
                 PreviousKey = s.keys.previous ?? PreviousKey;
                 NextKey = s.keys.next ?? NextKey;
@@ -78,6 +80,7 @@ namespace ETS2_Local_Radio_server
                 port = Port,
                 overlay = Overlay,
                 controller = Controller,
+                vr = VR,
                 keys = new
                 {
                     previous = PreviousKey,
