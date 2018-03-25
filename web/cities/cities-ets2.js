@@ -2207,7 +2207,7 @@ var cities = [
     {
         "gameName": "heilbronn",
         "realName": "Heilbronn",
-        "country": "germany-hr",
+        "country": "germany-swr",
         "x": "-6325.54",
         "y": "108.797",
         "z": "8009.55"
@@ -3008,6 +3008,14 @@ var cities = [
         "gameName": "mannheim",
         "realName": "Mannheim",
         "country": "germany-swr",
+        "x": "-7751.22",
+        "y": "88",
+        "z": "6075.05"
+    },
+    {
+        "gameName": "mannheim",
+        "realName": "Mannheim",
+        "country": "germany-hr",
         "x": "-7751.22",
         "y": "88",
         "z": "6075.05"
