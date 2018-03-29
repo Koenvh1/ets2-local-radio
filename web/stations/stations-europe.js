@@ -1324,9 +1324,14 @@ var stations = {
     ],
     "germany-swr": [
         {
-            name: "SWR1",
-            logo: "stations/images-europe/germany-swr/SWR1.png",
+            name: "SWR1 Baden-Württemberg",
+            logo: "stations/images-europe/germany-swr/SWR1 Baden-Württemberg.png",
             url: "http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3"
+        },
+        {
+            name: "SWR1 Rheinland-Pfalz",
+            logo: "stations/images-europe/germany-swr/SWR1 Rheinland-Pfalz.png",
+            url: "http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3"
         },
         {
             name: "SWR2",
@@ -1339,9 +1344,14 @@ var stations = {
             url: "http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3"
         },
         {
-            name: "SWR4",
+            name: "SWR4 Baden-Württemberg",
             logo: "stations/images-europe/germany-swr/SWR4.png",
             url: "http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3"
+        },
+        {
+            name: "SWR4 Rheinland-Pfalz",
+            logo: "stations/images-europe/germany-swr/SWR4.png",
+            url: "http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3"
         },
         {
             name: "SWR aktuell",
