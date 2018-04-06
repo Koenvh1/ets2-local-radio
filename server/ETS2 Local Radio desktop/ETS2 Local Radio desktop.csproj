@@ -99,6 +99,9 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="websocket-sharp, Version=1.0.2.59611, Culture=neutral, PublicKeyToken=5660b08a1845a91e, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebSocketSharp.1.0.3-rc11\lib\websocket-sharp.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands.cs" />
@@ -115,6 +118,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Server\Services\FavouritesService.cs" />
+    <Compile Include="Server\Services\StationsService.cs" />
+    <Compile Include="Server\Services\CitiesService.cs" />
+    <Compile Include="Server\Server.cs" />
     <Compile Include="Settings.cs" />
     <Compile Include="SimpleServer.cs" />
     <Compile Include="Splash.cs">
