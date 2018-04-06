@@ -11,7 +11,7 @@ $(document).ready(function () {
 });
 
 function initPeer() {
-    peer = new Peer(id, {key: g_skinConfig.peerJSkey, debug: 3});
+    peer = new Peer(id, {host: "peerjs-local-radio.herokuapp.com", port: 80, path: "/", debug: 3});
     $(".peer-id").html(id);
 
     //Receive message logic
@@ -20,6 +20,7 @@ function initPeer() {
         conn.on('data', function (data) {
             receiveCommand(data);
         });
+        /*
         conn.on('error', function (err) {
             peer.disconnect();
             peer.reconnect();
@@ -30,8 +31,10 @@ function initPeer() {
             peer.reconnect();
             peer.connect(connectedPeerID);
         });
+        */
     });
 
+    /*
     peer.on('disconnected', function (err) {
         peer.reconnect();
         peer.connect(connectedPeerID);
@@ -42,6 +45,7 @@ function initPeer() {
         peer.reconnect();
         peer.connect(connectedPeerID);
     });
+    */
 }
 
 $(window).on("unload", function() {
