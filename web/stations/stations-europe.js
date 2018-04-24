@@ -94,22 +94,22 @@ var stations = {
         {
             name: "Euskadi Irratia",
             logo: "stations/images-europe/basque/Euskadi Irratia.png",
-            url: "http://hdstreamflash-lh.akamaihd.net/i/Euskadi_Irratia_1@109218/master.m3u8"
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
         },
         {
             name: "Radio Euskadi",
             logo: "stations/images-europe/basque/Radio Euskadi.png",
-            url: "http://hdstreamflash-lh.akamaihd.net/i/Radio_Euskadi_1@109208/master.m3u8"
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
         },
         {
             name: "Gaztea",
             logo: "stations/images-europe/basque/Gaztea.png",
-            url: "http://hdstreamflash-lh.akamaihd.net/i/Gaztea_Irratia_1@109222/master.m3u8"
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
         },
         {
             name: "EITB Musika",
             logo: "stations/images-europe/basque/EITB Musika.png",
-            url: "http://hdstreamflash-lh.akamaihd.net/i/EITB_Irratia_1@109221/master.m3u8"
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
         },
         {
             name: "Bizkaia Irratia FM",
@@ -589,7 +589,7 @@ var stations = {
         {
             name: "myROCK",
             logo: "stations/images-europe/denmark/myROCK.jpg",
-            url: "http://edge-bauersefm-03-gos2.sharp-stream.com/myrock_dk_mp3"
+            url: "http://edge-bauerdk-02-gos1.sharp-stream.com/myrock_dk_mp3"
         },
         {
             name: "Nova FM",
@@ -599,7 +599,7 @@ var stations = {
         {
             name: "Pop FM",
             logo: "stations/images-europe/denmark/Pop FM.jpg",
-            url: "http://ads-e-bauerse-fm-05-gos2.sharp-stream.com/popfm_dk_mp3"
+            url: "http://edge-bauerdk-01-cr.sharp-stream.com/popfm_dk_mp3"
         },
         {
             name: "Radio 100",
@@ -609,12 +609,12 @@ var stations = {
         {
             name: "Radio24syv",
             logo: "stations/images-europe/denmark/Radio24syv.png",
-            url: "http://rrr.sz.xlcdn.com/?account=Radio24syv&file=ENC1_Web128&type=live&service=icecast&port=8000&output=pls"
+            url: "http://live.taleradio.dk/Mobile"
         },
         {
             name: "Radio Soft",
             logo: "stations/images-europe/denmark/Radio Soft.jpg",
-            url: "http://edge-bauersefm-03-gos2.sharp-stream.com/radiosoft_dk_mp3"
+            url: "http://edge-bauerdk-02-gos1.sharp-stream.com/radiosoft_dk_mp3"
         },
         {
             name: "The Voice",
@@ -1610,7 +1610,7 @@ var stations = {
         {
             name: "iRadio",
             logo: "stations/images-europe/ireland/iRadio.png",
-            url: "http://iradio3.iceca.st/i105107"
+            url: "http://185.105.4.252:8090/iradioneweb"
         },
         {
             name: "News Talk 106-108 FM",
@@ -1778,12 +1778,12 @@ var stations = {
         {
             name: "Авторадио",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
-            url: "http://ps.ne.fm/AVTORADIO"
+            url: "http://89.106.235.181/AVTORADIO_256?1524596041330.mp3"
         },
         {
             name: "Radio NS",
             logo: "stations/images-europe/kazakhstan/Radio NS.png",
-            url: "http://episodes.ne.fm/mp3/radions"
+            url: "http://89.219.35.26:8000/radions"
         },
         {
             name: "Ретро FM",
@@ -1938,17 +1938,17 @@ var stations = {
         {
             name: "МР1",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://streamer54.interspace.mk:8081/mrt-radio/mr1/playlist.m3u8"
+            url: "http://vod-c55.interspace.org/channel_abr/47/playlist.m3u8"
         },
         {
             name: "МР2",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://streamer54.interspace.mk:8081/mrt-radio/mr2/playlist.m3u8"
+            url: "http://vod-c55.interspace.org/channel_abr/48/playlist.m3u8"
         },
         {
             name: "МР3",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://streamer54.interspace.mk:8081/mrt-radio/mr3/playlist.m3u8"
+            url: "http://vod-c55.interspace.org/channel_abr/49/playlist.m3u8"
         },
         {
             name: "Antenna 5",
@@ -2094,7 +2094,7 @@ var stations = {
         {
             name: "Radio 538 Top 40",
             logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "https://hlscdn.538.nl/content/web02/index.m3u8",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR02.mp3",
         },
         {
             name: "Radio Maria",
@@ -2136,7 +2136,7 @@ var stations = {
         {
             name: "U105",
             logo: "stations/images-europe/nireland/U105.png",
-            url: "http://stream1.radiomonitor.com:80/U105"
+            url: "http://gbradio.cdn.tibus.net/U105"
         },
         {
             name: "Q Radio",
@@ -2243,17 +2243,17 @@ var stations = {
         {
             name: "Norsk pop",
             logo: "stations/images-europe/norway/Norsk pop.jpg",
-            url: "http://edge-bauersefm-02-gos1.sharp-stream.com/norskpop_no_mp3"
+            url: "http://edge-bauerno-03-gos2.sharp-stream.com/norskpop_no_mp3"
         },
         {
             name: "Radio Norge",
             logo: "stations/images-europe/norway/Radio Norge.png",
-            url: "http://edge-bauersefm-02-gos1.sharp-stream.com/radionorge_no_aac"
+            url: "http://edge-bauerno-01-cr.sharp-stream.com/radionorge_no_mp3"
         },
         {
             name: "Radio Vinyl",
             logo: "stations/images-europe/norway/Radio Vinyl.jpg",
-            url: "http://edge-bauersefm-02-gos1.sharp-stream.com/vinyl_no_mp3"
+            url: "http://edge-bauerno-02-gos1.sharp-stream.com/vinyl_no_mp3"
         },
     ],
     "poland": [
@@ -2302,7 +2302,7 @@ var stations = {
         {
             name: "Radio Maryja",
             logo: "stations/images-europe/poland/Radio Maryja.png",
-            url: "https://cors-anywhere.herokuapp.com/http://94.42.167.5:1935/live/rm.sdp/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8"
         },
         {
             name: "Radio Plus",
@@ -2433,7 +2433,7 @@ var stations = {
         {
             name: "Авторадио",
             logo: "stations/images-europe/russia/Авторадио.png",
-            url: "http://ic4.101.ru:8000/v3_1?userid=0&setst=fvhe0090q0b79jebn6nlacto22"
+            url: "http://ic3.101.ru:8000/a100?userid=0&setst=rh23sevm9a6lhldtkc0gohtbg1"
         },
         {
             name: "Детское Радио",
@@ -2458,17 +2458,17 @@ var stations = {
         {
             name: "Комеди радио",
             logo: "stations/images-europe/russia/Комеди радио.png",
-            url: "http://ic3.101.ru:8000/v11_1?setst=&tok=QEE58QS1PmrRov%2FF9zUBmo4a57vk4StIOaYY6%2B%2FDwT%2Bk6%2F4dN2Fx9A%3D%3D&25"
+            url: "http://ic3.101.ru:8000/a202?userid=0&setst=825m68ucig22pol2p8lkrd9fi5"
         },
         {
             name: "Радио Ваня",
             logo: "stations/images-europe/russia/Радио Ваня.png",
-            url: "https://radiom10.gcdn.co/piktv_radio/vanya_aac/playlist.m3u8"
+            url: "http://icecast-radiovanya.cdnvideo.ru/radiovanya"
         },
         {
             name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача.png",
-            url: "http://listen3.vdfm.ru:8000/dacha"
+            url: "http://stream.radiodacha.ru/14_dacha_56?type=.aac&UID=4C8B9B2415CF97BEB65E0A5DF985DD3F"
         },
         {
             name: "Радио Родных Дорог",
@@ -2508,7 +2508,7 @@ var stations = {
         {
             name: "Эхо Москвы",
             logo: "stations/images-europe/russia/Эхо Москвы.svg",
-            url: "http://radio-echo.melodix.ru:8080/echo.mp3"
+            url: "http://ice912.echo.msk.ru:9120/stream"
         },
         {
             name: "Юмор FM",
@@ -2609,7 +2609,7 @@ var stations = {
         {
             name: "Rádio Vlna",
             logo: "stations/images-europe/slovakia/Rádio Vlna.jpg",
-            url: "http://stream.radioservices.sk:8000/vlna-hi.mp3"
+            url: "http://stream.radiovlna.sk/vlna-hi.mp3"
         },
     ],
     "slovenia": [
@@ -2690,11 +2690,13 @@ var stations = {
             logo: "stations/images-europe/spain/Cadena Ser.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3"
         },
+        /*
         {
             name: "Cope",
             logo: "stations/images-europe/spain/Cope.png",
             url: "http://195.55.74.206/copesedes/madrid.mp3"
         },
+        */
         {
             name: "Europa FM",
             logo: "stations/images-europe/spain/Europa FM.png",
@@ -3098,11 +3100,13 @@ var stations = {
             logo: "stations/images-europe/ukraine/Авто Радіо.png",
             url: "http://cast.radiogroup.com.ua:8000/avtoradio"
         },
+        /*
         {
             name: "Ера FM",
             logo: "stations/images-europe/ukraine/Ера FM.jpg",
             url: "http://212.26.129.2:8000/era96"
         },
+        */
         {
             name: "Kiss FM",
             logo: "stations/images-europe/ukraine/Kiss FM.jpg",

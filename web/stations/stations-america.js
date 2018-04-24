@@ -197,11 +197,13 @@
             logo: "stations/images-america/barstow/KWAVE.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM.mp3"
         },
+        /*
         {
             name: "The Duck",
             logo: "stations/images-america/barstow/The Duck.png",
             url: "http://50.22.218.197/stream.mp3?ipport=50.22.218.197_11453"
         },
+        */
     ],
     "camp_verde": [
         {
@@ -841,7 +843,7 @@
         {
             name: "Las Vegas Public Radio",
             logo: "stations/images-america/las_vegas/Las Vegas Public Radio.png",
-            url: "http://50.22.223.16:8010/;"
+            url: "http://64.150.176.42:8182/stream"
         },
         {
             name: "Power 88",
@@ -989,7 +991,7 @@
         {
             name: "B92.1 Today's Hit Music",
             logo: "stations/images-america/pioche/B92.1 Today's Hit Music.png",
-            url: "http://ice10.securenetsystems.net/KXBNFM"
+            url: "http://54.235.51.186/cherrycreek-kxbnfmaac-ibc4"
         },
         {
             name: "SOS radio",
@@ -1140,7 +1142,7 @@
         {
             name: "KISS 97.3",
             logo: "stations/images-america/santa_fe/KISS 97.3.jpg",
-            url: "http://54.221.12.118/agmedia28-kkssfmaac-ibc3?session-id=2520fc7a581bbd60bc0c5255ad6a81ad"
+            url: "http://54.82.44.170/agmedia28-kkssfmaac-ibc3"
         },
     ],
     "santa_maria": [
