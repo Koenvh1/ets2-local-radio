@@ -1938,17 +1938,17 @@ var stations = {
         {
             name: "МР1",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://vod-c55.interspace.org/channel_abr/47/playlist.m3u8"
+            url: "http://vod-c55.interspace.org/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9aEhwemFLREdHN0tNTHF4enU0Z0puZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVhZTQ1ODY2NzVkMTA="
         },
         {
             name: "МР2",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://vod-c55.interspace.org/channel_abr/48/playlist.m3u8"
+            url: "http://vod-c55.interspace.org/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9aEhwemFLREdHN0tNTHF4enU0Z0puZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVhZTQ1ODY2NzVkMTA="
         },
         {
             name: "МР3",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://vod-c55.interspace.org/channel_abr/49/playlist.m3u8"
+            url: "http://vod-c55.interspace.org/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9aEhwemFLREdHN0tNTHF4enU0Z0puZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVhZTQ1ODY2NzVkMTA="
         },
         {
             name: "Antenna 5",

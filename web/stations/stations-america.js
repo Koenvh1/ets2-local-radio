@@ -287,11 +287,13 @@
             logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFM.mp3"
         },
+        /*
         {
             name: "Alice 96.5",
             logo: "stations/images-america/carson_city/Alice 96.5.png",
             url: "http://ice9.securenetsystems.net:80/KLCA"
         },
+        */
     ],
     "clovis": [
         {
@@ -378,7 +380,7 @@
         {
             name: "Pilgrim Radio",
             logo: "stations/images-america/ely/Pilgrim Radio.png",
-            url: "http://stream.us.gslb.liquidcompass.net/KNISFMAAC?ats=1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC.aac"
         },
         /*
         {
@@ -458,11 +460,13 @@
             logo: "stations/images-america/farmington/KWYK.png",
             url: "http://ice41.securenetsystems.net:80/KWYKFM"
         },
+        /*
         {
             name: "KISS",
             logo: "stations/images-america/farmington/KISS.png",
             url: "http://54.211.53.194/agmedia28-kiszfmmp3-ibc3?session-id=177939205e12a3660dfda9fa6974ff89-72663930616236626533693370746b65&source=v6player&sbmd=1&user-id=177939205e12a3660dfda9fa6974ff89"
         },
+        */
         {
             name: "107.7 Star",
             logo: "stations/images-america/farmington/107.7 Star.png",
@@ -627,7 +631,7 @@
         {
             name: "KZUA",
             logo: "stations/images-america/holbrook/KZUA.png",
-            url: "http://ice9.securenetsystems.net:80/KZUA"
+            url: "http://ice1.securenetsystems.net/DEMOSTN?playSessionID=77F707B0-A690-529F-83A640FFC5B5F5C2"
         },
         {
             name: "Rewind 108",
@@ -937,11 +941,13 @@
             logo: "stations/images-america/page/KNAU.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
+        /*
         {
             name: "Planet 94.1",
             logo: "stations/images-america/page/Planet 94.1.png",
             url: "http://ice10.securenetsystems.net:80/KPLD"
         },
+        */
     ],
     "phoenix": [
         {
