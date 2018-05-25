@@ -1158,6 +1158,11 @@
             logo: "stations/images-america/primm/95.5 The Bull.png",
             url: "http://c3icyelb.prod.playlists.ihrhls.com/1345_icy"
         },
+        {
+            name: "The Highway Vibe",
+            logo: "stations/images-america/primm/The Highway Vibe.png",
+            url: "http://67.212.165.106:8259/KHWY-FM"
+        },
     ],
     "raton": [
         {
