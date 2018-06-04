@@ -47,7 +47,7 @@ Folder where Euro Truck Simulator 2 is installed in, checks whether the plugin e
 Folder where American Truck Simulator is installed in, checks whether the plugin exists there.
 
 ## Web
-Can be found as `web/config.js`, follows JavaScript object syntax.
+Can be found as `web/config.example.js`, follows JavaScript object syntax.
 
 #### radius
 What the base radius (broadcasting range) for all cities is in meters.

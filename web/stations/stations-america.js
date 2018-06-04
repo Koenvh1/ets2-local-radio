@@ -1578,6 +1578,11 @@
             url: "http://50.22.253.46/kdee-fm"
         },
         {
+            name: "KNCI 105.1",
+            logo: "stations/images-america/sacramento/KNCI 105.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNCIFM.mp3"
+        },
+        {
             name: "Now 100.5",
             logo: "stations/images-america/sacramento/Now 100.5.png",
             url: "http://17853.live.streamtheworld.com/KZZOFMAACHI.aac"

@@ -27,7 +27,7 @@ Not available in yours? [Translate it](https://koenvh.nl/translate). I will add 
 4. Click the "Install plugin for Euro Truck Simulator/American Truck Simulator" button.
 5. Open ATS/ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
 
-Additionally, you may want to look at the `web/config.js` file and set some additional settings to make the make your experience even better.
+Additionally, you may want to look at the `web/config.example.js` file and set some additional settings to make the make your experience even better.
 Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game as well.
 
 Make a station favourite to always switch to that station when entering the country it's located in.

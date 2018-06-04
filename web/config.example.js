@@ -1,8 +1,8 @@
 /*
  * So, you are on of those few people actually reading the config file. Great!
  * You are now able to optimise ETS2 Local Radio for you.
+ * Please rename this file to config.js to actually apply it.
  * As always, have fun, and when something breaks, try reverting to the default :-)
- * This config file will reset every new version, so please make a backup of your changes.
  *
  * If you want to add your own custom radio stations, then please look at the stations\stations-custom.example.js file.
  */
