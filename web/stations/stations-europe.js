@@ -2302,7 +2302,7 @@ var stations = {
         {
             name: "Radio Maryja",
             logo: "stations/images-europe/poland/Radio Maryja.png",
-            url: "https://cors-anywhere.herokuapp.com/http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8"
+            url: "https://usa12.fastcast4u.com/proxy/isnesllc?mp=/1"
         },
         {
             name: "Radio Plus",
