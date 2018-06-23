@@ -796,7 +796,7 @@ var stations = {
         {
             name: "Radio Nova",
             logo: "stations/images-europe/finland/Radio Nova.svg",
-            url: "http://stream3.bauermedia.fi/nova.mp3"
+            url: "https://stream.bauermedia.fi/radionova/radionova_64.aac?direct=true&listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1529788184;&awparams=loggedin:false;&aw_0_req.gdpr=true"
         },
         {
             name: "Radio NRJ",
@@ -2243,7 +2243,7 @@ var stations = {
         {
             name: "Norsk pop",
             logo: "stations/images-europe/norway/Norsk pop.jpg",
-            url: "http://edge-bauerno-03-gos2.sharp-stream.com/norskpop_no_mp3"
+            url: "http://edge-bauerno-02-gos1.sharp-stream.com/norskpop_no_mp3"
         },
         {
             name: "Radio Norge",
