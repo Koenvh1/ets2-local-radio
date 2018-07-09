@@ -1192,11 +1192,6 @@
             url: "http://20813.live.streamtheworld.com/KWINFMAAC.aac"
         },
         {
-            name: "101.7 KKIQ",
-            logo: "stations/images-america/oakdale/KRVR.png",
-            url: "http://14523.live.streamtheworld.com/KRVRFMAAC.aac"
-        },
-        {
             name: "Hot 104.7",
             logo: "stations/images-america/fresno/Hot 104.7.png",
             url: "http://13693.live.streamtheworld.com/KHTNFMAAC.aac"

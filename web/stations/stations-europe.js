@@ -151,7 +151,7 @@ var stations = {
         {
             name: "Радио BA",
             logo: "stations/images-europe/belarus/Радио BA.png",
-            url: "http://87.252.252.78:8000/BA128"
+            url: "http://93.125.106.180:8000/BA128?1531145287388.mp3"
         },
         {
             name: "Радио Минск",
@@ -972,7 +972,7 @@ var stations = {
         {
             name: "Schlagerparadies",
             logo: "stations/images-europe/germany/Schlagerparadies.png",
-            url: "http://surfmusik.schlagerparadies.de/schlagerparadies128.mp3"
+            url: "http://radio_de.schlagerparadies.de:30842/"
         },
         {
             name: "Schwarzwaldradio",
@@ -2433,7 +2433,7 @@ var stations = {
         {
             name: "Авторадио",
             logo: "stations/images-europe/russia/Авторадио.png",
-            url: "http://ic3.101.ru:8000/a100?userid=0&setst=rh23sevm9a6lhldtkc0gohtbg1"
+            url: "http://ic3.101.ru:8000/a100?userid=0&setst=2114a25da20608305fec7be15d6eeb72"
         },
         {
             name: "Детское Радио",
@@ -2774,12 +2774,12 @@ var stations = {
         {
             name: "Mix Megapol",
             logo: "stations/images-europe/sweden/Mix Megapol.png",
-            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/mixmegapol_instream_se_aacp"
+            url: "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1531145787&companionsAds=true&listenerId=4809db15-af69-411c-821c-538ec4247a0b"
         },
         {
             name: "NRJ",
             logo: "stations/images-europe/sweden/NRJ.png",
-            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/nrj_instreamtest_se_mp3"
+            url: "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1531145855&companionsAds=true&listenerId=4809db15-af69-411c-821c-538ec4247a0b"
         },
         {
             name: "Rix FM",
@@ -2789,12 +2789,12 @@ var stations = {
         {
             name: "Rockklassiker",
             logo: "stations/images-europe/sweden/Rockklassiker.jpg",
-            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/rockklassiker_instream_se_aacp"
+            url: "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1531145879&companionsAds=true&listenerId=4809db15-af69-411c-821c-538ec4247a0b"
         },
         {
             name: "Vinyl FM",
             logo: "stations/images-europe/sweden/Vinyl FM.png",
-            url: "https://edge-bauersefm-09-gos2.sharp-stream.com/vinylfm_instream_se_aacp"
+            url: "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1531145897&companionsAds=true&listenerId=4809db15-af69-411c-821c-538ec4247a0b"
         },
     ],
     "switzerland-de": [
