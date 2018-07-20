@@ -33,6 +33,7 @@
 <script>
     var ready = false;
     var currentId = 0;
+    var interval = 0;
     var hls = new Hls();
 
     document.getElementById("player").volume = 0;
@@ -55,6 +56,7 @@
         if(ready) {
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "green");
             if (currentId < $("#list>tr").length) {
+                clearInterval(interval);
                 currentId++;
                 testStation();
             }
@@ -67,6 +69,7 @@
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "red");
             $("#list>tr:nth-child(" + (currentId + 1) + ")>td:last-child").html(errorMessages[e.originalEvent.currentTarget.error.code]);
             if (currentId < $("#list>tr").length) {
+                clearInterval(interval);
                 currentId++;
                 testStation();
             }
@@ -98,6 +101,11 @@
         } else {
             document.getElementById("player").src = url;
         }
+        interval = setInterval(function () {
+            clearInterval(interval);
+            currentId++;
+            testStation();
+        }, 15000);
     }
 </script>
 </body>
