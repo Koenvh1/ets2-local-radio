@@ -7,7 +7,7 @@
 <body>
 <p>This is a test to check whether a station works in this browser (or not)</p>
 <p><audio src="" id="player" controls autoplay></audio></p>
-<p><button onclick="testStation()">Start</button> <button onclick="currentId++; testStation();">Manually go to next station</button></p>
+<p><button onclick="testStation()">Start</button> <button onclick="currentId++; testStation();">Manually go to next station</button> (Green = Working, Yellow = Timeout, Red = Broken)</p>
 <script src="lib/js/jquery-3.1.1.js"></script>
 <script src="lib/js/hls.js"></script>
 <!-- Behold the ugly fix to add both ATS and ETS2 stations: -->
@@ -102,9 +102,12 @@
             document.getElementById("player").src = url;
         }
         interval = setInterval(function () {
-            clearInterval(interval);
-            currentId++;
-            testStation();
+            $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "yellow");
+            if (currentId < $("#list>tr").length) {
+                clearInterval(interval);
+                currentId++;
+                testStation();
+            }
         }, 15000);
     }
 </script>

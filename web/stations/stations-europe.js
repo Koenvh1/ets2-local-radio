@@ -304,7 +304,7 @@ var stations = {
         {
             name: "Bobar Radio",
             logo: "stations/images-europe/bosnia/Bobar Radio.png",
-            url: "http://94.130.11.28:8000/;"
+            url: "http://streamingv2.shoutcast.com/bobarradio"
         },
         {
             name: "Radiopostaja Mir Međugorje",
@@ -796,7 +796,7 @@ var stations = {
         {
             name: "Radio Nova",
             logo: "stations/images-europe/finland/Radio Nova.svg",
-            url: "https://stream.bauermedia.fi/radionova/radionova_64.aac?direct=true&listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1529788184;&awparams=loggedin:false;&aw_0_req.gdpr=true"
+            url: "http://stream.bauermedia.fi/radionova/radionova_64.aac?direct=true&listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1529788184;&awparams=loggedin:false;&aw_0_req.gdpr=true"
         },
         {
             name: "Radio NRJ",
@@ -1575,32 +1575,32 @@ var stations = {
         {
             name: "RTÉ Radio 1",
             logo: "stations/images-europe/ireland/RTÉ Radio 1.png",
-            url: "http://icecast2.rte.ie/radio1"
+            url: "http://icecast1.rte.ie/radio1"
         },
         {
             name: "RTÉ 2fm",
             logo: "stations/images-europe/ireland/RTÉ 2fm.png",
-            url: "http://icecast2.rte.ie/2fm"
+            url: "http://icecast1.rte.ie/2fm"
         },
         {
             name: "RTÉ Lyric FM",
             logo: "stations/images-europe/ireland/RTÉ Lyric FM.png",
-            url: "http://icecast2.rte.ie/lyric"
+            url: "http://icecast1.rte.ie/lyric"
         },
         {
             name: "RTÉ Raidió na Gaeltachta",
             logo: "stations/images-europe/ireland/RTÉ Raidió na Gaeltachta.png",
-            url: "http://icecast2.rte.ie/rnag"
+            url: "http://icecast1.rte.ie/rnag"
         },
         {
             name: "RTÉ Gold",
             logo: "stations/images-europe/ireland/RTÉ Gold.png",
-            url: "http://icecast2.rte.ie/gold"
+            url: "http://icecast1.rte.ie/gold"
         },
         {
             name: "RTÉ Pulse",
             logo: "stations/images-europe/ireland/RTÉ Pulse.png",
-            url: "http://icecast2.rte.ie/pulse"
+            url: "http://icecast1.rte.ie/pulse"
         },
         {
             name: "Classic Hits 4FM",
