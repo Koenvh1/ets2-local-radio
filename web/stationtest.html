@@ -19,12 +19,15 @@
 <script>
     stations = Object.assign(stationsEts, stations);
 </script>
-<table>
+<table style="width: 100%" border="1">
     <thead>
     <tr>
-        <td>Name</td>
-        <td>URL</td>
-        <td>Error</td>
+        <th>Name</th>
+        <th>URL</th>
+        <!--
+        <th>Error</th>
+        -->
+        <th width="50px">Geo</th>
     </tr>
     </thead>
     <tbody id="list">
@@ -48,7 +51,13 @@
     for(var key in stations){
         if(!stations.hasOwnProperty(key)) continue;
         for(var i = 0; i < stations[key].length; i++){
-            $("#list").append("<tr data-url='" + stations[key][i].url + "'><td>" + stations[key][i].name + "</td><td><a href='" + stations[key][i].url + "' target='_blank'>" + stations[key][i].url + "</a></td><td></td>");
+            $("#list").append("<tr data-url='" + stations[key][i].url + "'>" +
+                "<td>" + stations[key][i].name + "</td>" +
+                "<td><a href='" + stations[key][i].url + "' target='_blank'>" + stations[key][i].url + "</a></td>" +
+                //"<td></td>" +
+                "<td>" +
+                "" +
+                "</td>");
         }
     }
 
@@ -67,7 +76,7 @@
         if(ready) {
             console.log(e);
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "red");
-            $("#list>tr:nth-child(" + (currentId + 1) + ")>td:last-child").html(errorMessages[e.originalEvent.currentTarget.error.code]);
+            //$("#list>tr:nth-child(" + (currentId + 1) + ")>td:nth-child(3)").html(errorMessages[e.originalEvent.currentTarget.error.code]);
             if (currentId < $("#list>tr").length) {
                 clearInterval(interval);
                 currentId++;
@@ -83,6 +92,29 @@
     function testStation() {
         var url = $("#list>tr:nth-child(" + (currentId + 1) + ")").attr("data-url");
         ready = true;
+
+        var id = currentId;
+        // geoTest("NL", url, function (data) {
+        //     $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
+        //         (data.valid ?
+        //             "<img src='https://status.aws.amazon.com/images/status0.gif'>" :
+        //             "<img src='https://status.aws.amazon.com/images/status3.gif'>")
+        //     + " NL ");
+        //     if (!data.valid) {
+        //         console.log(data);
+        //     }
+        // });
+        // geoTest("US", url, function (data) {
+        //     $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
+        //         (data.valid ?
+        //             "<img src='https://status.aws.amazon.com/images/status0.gif'>" :
+        //             "<img src='https://status.aws.amazon.com/images/status3.gif'>")
+        //     + " US ");
+        //     if (!data.valid) {
+        //         console.log(data);
+        //     }
+        // });
+
 
         if (hls != null) {
             hls.detachMedia();
@@ -102,6 +134,10 @@
             document.getElementById("player").src = url;
         }
         interval = setInterval(function () {
+            if (!ready) {
+                clearInterval(interval);
+                return;
+            }
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "yellow");
             if (currentId < $("#list>tr").length) {
                 clearInterval(interval);
@@ -109,6 +145,22 @@
                 testStation();
             }
         }, 15000);
+    }
+
+    function geoTest(country, url, callback) {
+        var requestUrl = "";
+        switch (country.toUpperCase()) {
+            case "NL":
+                requestUrl = "https://home.koenvh.nl/stationtest.php";
+                break;
+            case "US":
+                requestUrl = "http://koenvh.eu5.org/stationtest.php";
+                break;
+        }
+
+        $.post(requestUrl, {"url": url}, function (data) {
+            callback(data);
+        });
     }
 </script>
 </body>
