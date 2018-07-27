@@ -1180,12 +1180,12 @@ var stations = {
         {
             name: "Antenne Thüringen",
             logo: "stations/images-europe/germany-mdr/Antenne Thüringen.png",
-            url: "http://stream.antennethueringen.de/live/mp3-192/"
+            url: "https://antenne-th.divicon-stream.net/antth_atlive_sfS8-mp3-192?sABC=5o5o2r70%230%23q470q1567q61q7pnn66op03433485s07%23jro&amsparams=playerid:web;skey:1532702320"
         },
         {
             name: "Hitradio RTL",
             logo: "stations/images-europe/germany-mdr/Hitradio RTL.svg",
-            url: "http://streaming.hitradio-rtl.de/hitradio-rtl_simulcast__dresden_128k_mp3"
+            url: "https://streams.bcs-systems.de/hrrtl/live/sachsen/mp3/radioplayer/web"
         },
         {
             name: "Radio SAW",
@@ -1195,7 +1195,7 @@ var stations = {
         {
             name: "R.SA Sachsen Partywelle",
             logo: "stations/images-europe/germany-mdr/R.SA Sachsen Partywelle.png",
-            url: "http://streams.rsa-sachsen.de/rsa-partywelle/mp3-128/streams.rsa-sachsen.de"
+            url: "https://streams.rsa-sachsen.de/rsa-live/mp3-192/homepage/?context=fHA6LTE="
         },
     ],
     "germany-ndr": [
@@ -1309,7 +1309,7 @@ var stations = {
         {
             name: "104.6 RTL",
             logo: "stations/images-europe/germany-rbb/104.6 RTL.svg",
-            url: "http://stream.104.6rtl.com/rtl-live/mp3-128/www.listenlive.eu:pls-rtl_air/"
+            url: "http://stream.104.6rtl.com/rtl-live/mp3-128/konsole/"
         },
         {
             name: "Radio TEDDY",

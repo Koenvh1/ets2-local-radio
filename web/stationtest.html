@@ -94,16 +94,13 @@
         ready = true;
 
         var id = currentId;
-        // geoTest("NL", url, function (data) {
-        //     $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
-        //         (data.valid ?
-        //             "<img src='https://status.aws.amazon.com/images/status0.gif'>" :
-        //             "<img src='https://status.aws.amazon.com/images/status3.gif'>")
-        //     + " NL ");
-        //     if (!data.valid) {
-        //         console.log(data);
-        //     }
-        // });
+        geoTest("NL", url, function (data) {
+            $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
+                (data.valid ?
+                    "<img src='https://status.aws.amazon.com/images/status0.gif'>" :
+                    "<img src='https://status.aws.amazon.com/images/status3.gif'>")
+            + " NL ");
+        });
         // geoTest("US", url, function (data) {
         //     $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
         //         (data.valid ?
