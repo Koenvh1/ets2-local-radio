@@ -2243,7 +2243,7 @@ var stations = {
         {
             name: "Norsk pop",
             logo: "stations/images-europe/norway/Norsk pop.jpg",
-            url: "http://edge-bauerno-02-gos1.sharp-stream.com/norskpop_no_mp3"
+            url: "http://edge-bauerno-01-cr.sharp-stream.com/norskpop_no_mp3"
         },
         {
             name: "Radio Norge",
@@ -2253,7 +2253,7 @@ var stations = {
         {
             name: "Radio Vinyl",
             logo: "stations/images-europe/norway/Radio Vinyl.jpg",
-            url: "http://edge-bauerno-02-gos1.sharp-stream.com/vinyl_no_mp3"
+            url: "http://edge-bauerno-03-gos2.sharp-stream.com/vinyl_no_mp3"
         },
     ],
     "poland": [
