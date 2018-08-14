@@ -1247,7 +1247,7 @@ var stations = {
         {
             name: "Antenne MV",
             logo: "stations/images-europe/germany-ndr/Antenne MV.png",
-            url: "http://stream.hoerradar.de/antennemv-mp3"
+            url: "https://antennemv.hoerradar.de/antennemv-live-mp3-hq"
         },
         {
             name: "Antenne Niedersachsen",
@@ -1272,7 +1272,7 @@ var stations = {
         {
             name: "R.SH (Radio Schleswig-Holstein)",
             logo: "stations/images-europe/germany-ndr/R.SH (Radio Schleswig-Holstein).png",
-            url: "http://stream.hoerradar.de/rsh128"
+            url: "https://rsh.hoerradar.de/rsh-live-mp3-hq"
         },
     ],
     "germany-rbb": [
