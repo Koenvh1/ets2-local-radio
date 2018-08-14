@@ -347,6 +347,12 @@
         code: "es",
         relative_radius: 1,
     },
+    "svalbard": {
+        name: "Svalbard",
+        name_english: "Svalbard",
+        code: "no",
+        relative_radius: 1,
+    },
     "sweden": {
         name: "Sverige",
         name_english: "Sweden",
@@ -607,6 +613,9 @@ var city_properties = {
     "kaliningrad": {
         relative_radius: 0.45,
     },
+    "kalix": {
+        relative_radius: 0.45,
+    },
     "kardla": {
         relative_radius: 0.6,
     },
@@ -820,7 +829,11 @@ var city_properties = {
         relative_radius: 1.6,
     },
     "skelleftea": {
-        relative_radius: 0.5,
+        relative_whitenoise: 0.90,
+        relative_radius: 0.8,
+    },
+    "skopje": {
+        relative_radius: 1.3,
     },
     "slavonski_brod": {
         relative_radius: 0.8,
@@ -4894,6 +4907,70 @@ var cities_rusmap = [
         "x": "80491.7",
         "y": "52.1523",
         "z": "-30929.9"
+    },
+    {
+        "gameName": "kem",
+        "realName": "Kem'",
+        "country": "russia",
+        "x": "66736.8",
+        "y": "61.5156",
+        "z": "-89467.5"
+    },
+    {
+        "gameName": "medved",
+        "realName": "Medvezhyegorsk",
+        "country": "russia",
+        "x": "67995.3",
+        "y": "76.6172",
+        "z": "-77326.8"
+    },
+    {
+        "gameName": "petrozavodsk",
+        "realName": "Petrozavodsk",
+        "country": "russia",
+        "x": "66815.9",
+        "y": "86.6914",
+        "z": "-70284.8"
+    },
+    {
+        "gameName": "pole",
+        "realName": "Lodeynoye Pole",
+        "country": "russia",
+        "x": "67409.2",
+        "y": "86.4648",
+        "z": "-65013.9"
+    },
+    {
+        "gameName": "zelenoborsky",
+        "realName": "Zelenoborsky",
+        "country": "russia",
+        "x": "57673.2",
+        "y": "42.2695",
+        "z": "-93488.3"
+    },
+    {
+        "gameName": "suoyarvi",
+        "realName": "Suoyarvi",
+        "country": "russia",
+        "x": "62996.3",
+        "y": "88.9297",
+        "z": "-73603.1"
+    },
+    {
+        "gameName": "sortavala",
+        "realName": "Sortavala",
+        "country": "russia",
+        "x": "58195",
+        "y": "124.492",
+        "z": "-66991.9"
+    },
+    {
+        "gameName": "priozersk",
+        "realName": "Priozersk",
+        "country": "russia",
+        "x": "56641.7",
+        "y": "135.543",
+        "z": "-63444.7"
     }
 ];
 
@@ -5699,7 +5776,314 @@ var cities_srm = [
         "y": "42.2695",
         "z": "-93488.3"
     }
-]
+];
+
+var cities_pm230 = [
+    {
+        "gameName": "aberystwyth",
+        "realName": "Aberystwyth",
+        "country": "uk",
+        "x": "-56093.8",
+        "y": "98.918",
+        "z": "-22086.8"
+    },
+    {
+        "gameName": "beograd",
+        "realName": "Београд (Beograd)",
+        "country": "serbia",
+        "x": "40166.4",
+        "y": "97.25",
+        "z": "32086.3"
+    },
+    {
+        "gameName": "bitola",
+        "realName": "Битола (Bitola)",
+        "country": "macedonia",
+        "x": "44509.3",
+        "y": "124.426",
+        "z": "53961"
+    },
+    {
+        "gameName": "grumantbyen",
+        "realName": "Grumantbyen",
+        "country": "norway",
+        "x": "18144.1",
+        "y": "49.4102",
+        "z": "-180094"
+    },
+    {
+        "gameName": "hammerfest",
+        "realName": "Hammerfest",
+        "country": "norway",
+        "x": "32457.9",
+        "y": "94.0039",
+        "z": "-112251"
+    },
+    {
+        "gameName": "igoumenitsa",
+        "realName": "Ηγουμενίτσα (Igoumenitsa)",
+        "country": "greece",
+        "x": "38396.6",
+        "y": "55",
+        "z": "62930"
+    },
+    {
+        "gameName": "ioannina",
+        "realName": "Ιωάννινα (Ioannina)",
+        "country": "greece",
+        "x": "41180.3",
+        "y": "81.6172",
+        "z": "61859.5"
+    },
+    {
+        "gameName": "jaca",
+        "realName": "Jaca",
+        "country": "spain",
+        "x": "-48340.5",
+        "y": "65.0898",
+        "z": "40521.8"
+    },
+    {
+        "gameName": "kalix",
+        "realName": "Kalix",
+        "country": "sweden",
+        "x": "35232.8",
+        "y": "70.9688",
+        "z": "-86653"
+    },
+    {
+        "gameName": "kragujevac",
+        "realName": "Крагујевац (Kragujevac)",
+        "country": "serbia",
+        "x": "39572",
+        "y": "95.4961",
+        "z": "37393.4"
+    },
+    {
+        "gameName": "larnaka",
+        "realName": "Λάρνακα (Larnaka)",
+        "country": "cyprus",
+        "x": "104047",
+        "y": "51",
+        "z": "76848.4"
+    },
+    {
+        "gameName": "lefkosia",
+        "realName": "Λευκωσία (Lefkosia)",
+        "country": "cyprus",
+        "x": "102728",
+        "y": "65",
+        "z": "75422.2"
+    },
+    {
+        "gameName": "lemesos",
+        "realName": "Λεμεσός (Lemesos)",
+        "country": "cyprus",
+        "x": "101259",
+        "y": "50",
+        "z": "78868.8"
+    },
+    {
+        "gameName": "moerdijk",
+        "realName": "Moerdijk",
+        "country": "netherlands",
+        "x": "-19855.5",
+        "y": "84.8984",
+        "z": "-7533.8"
+    },
+    {
+        "gameName": "montana",
+        "realName": "Монтана (Montana)",
+        "country": "bulgaria",
+        "x": "50655.6",
+        "y": "121",
+        "z": "40189.5"
+    },
+    {
+        "gameName": "nis",
+        "realName": "Ниш (Niš)",
+        "country": "serbia",
+        "x": "45839",
+        "y": "143.508",
+        "z": "40497.6"
+    },
+    {
+        "gameName": "ohrid",
+        "realName": "Охрид (Ohrid)",
+        "country": "macedonia",
+        "x": "41870.8",
+        "y": "103.5",
+        "z": "54321.5"
+    },
+    {
+        "gameName": "pafos",
+        "realName": "Πάφος (Pafos)",
+        "country": "cyprus",
+        "x": "98516.2",
+        "y": "51",
+        "z": "78819.1"
+    },
+    {
+        "gameName": "pamplona",
+        "realName": "Pamplona-Iruña",
+        "country": "spain",
+        "x": "-52500.4",
+        "y": "60",
+        "z": "38359.3"
+    },
+    {
+        "gameName": "pleven",
+        "realName": "Плевен (Pleven)",
+        "country": "bulgaria",
+        "x": "57288.6",
+        "y": "112.23",
+        "z": "38731.3"
+    },
+    {
+        "gameName": "porthmadog",
+        "realName": "Porthmadog",
+        "country": "uk",
+        "x": "-55048.5",
+        "y": "121.738",
+        "z": "-26313.9"
+    },
+    {
+        "gameName": "ptolemaida",
+        "realName": "Πτολεμαΐδα (Ptolemaida)",
+        "country": "greece",
+        "x": "45843.1",
+        "y": "108.613",
+        "z": "57175.8"
+    },
+    {
+        "gameName": "senj",
+        "realName": "Senj",
+        "country": "croatia",
+        "x": "16524.2",
+        "y": "59.4844",
+        "z": "33485.5"
+    },
+    {
+        "gameName": "siauliai",
+        "realName": "Šiauliai",
+        "country": "lithuania",
+        "x": "42779.5",
+        "y": "90",
+        "z": "-31172.6"
+    },
+    {
+        "gameName": "sibenik",
+        "realName": "Šibenik",
+        "country": "croatia",
+        "x": "19957.4",
+        "y": "55.7734",
+        "z": "40465.9"
+    },
+    {
+        "gameName": "skelleftea",
+        "realName": "Skellefteå",
+        "country": "sweden",
+        "x": "30527.3",
+        "y": "60.9531",
+        "z": "-79989"
+    },
+    {
+        "gameName": "skopje",
+        "realName": "Скопје (Skopje)",
+        "country": "macedonia",
+        "x": "42982",
+        "y": "96.1211",
+        "z": "48125.6"
+    },
+    {
+        "gameName": "soria",
+        "realName": "Soria",
+        "country": "spain",
+        "x": "-58986.9",
+        "y": "136.004",
+        "z": "43033.8"
+    },
+    {
+        "gameName": "split",
+        "realName": "Split",
+        "country": "croatia",
+        "x": "22195.9",
+        "y": "76.2852",
+        "z": "41788"
+    },
+    {
+        "gameName": "teruel",
+        "realName": "Teruel",
+        "country": "spain",
+        "x": "-54139.6",
+        "y": "131.977",
+        "z": "52141.6"
+    },
+    {
+        "gameName": "thessaloniki",
+        "realName": "Θεσσαλονίκη (Thessaloniki)",
+        "country": "greece",
+        "x": "51321.4",
+        "y": "58.9805",
+        "z": "55428"
+    },
+    {
+        "gameName": "ukmerge",
+        "realName": "Ukmergė",
+        "country": "lithuania",
+        "x": "47637.1",
+        "y": "105.988",
+        "z": "-27394.4"
+    },
+    {
+        "gameName": "valencia",
+        "realName": "Valencia",
+        "country": "spain",
+        "x": "-51181.4",
+        "y": "51.6953",
+        "z": "58089.9"
+    },
+    {
+        "gameName": "vidin",
+        "realName": "Видин (Vidin)",
+        "country": "bulgaria",
+        "x": "48163.9",
+        "y": "135.645",
+        "z": "36115.1"
+    },
+    {
+        "gameName": "vinaros",
+        "realName": "Vinaròs",
+        "country": "spain",
+        "x": "-46540.2",
+        "y": "61.7422",
+        "z": "54007.8"
+    },
+    {
+        "gameName": "ystad",
+        "realName": "Ystad",
+        "country": "sweden",
+        "x": "13120.8",
+        "y": "52.8516",
+        "z": "-26398.2"
+    },
+    {
+        "gameName": "zadar",
+        "realName": "Zadar",
+        "country": "croatia",
+        "x": "16302.7",
+        "y": "49.8789",
+        "z": "37473.9"
+    },
+    {
+        "gameName": "zaragoza",
+        "realName": "Zaragoza",
+        "country": "spain",
+        "x": "-51973.9",
+        "y": "118.266",
+        "z": "45516.3"
+    }
+];
 
 var cities_wip = [
     {
@@ -5709,22 +6093,6 @@ var cities_wip = [
         "x": "113759.26",
         "y": "11",
         "z": "91384.19"
-    },
-    {
-        "gameName": "beograd",
-        "realName": "Београд (Beograd)",
-        "country": "serbia",
-        "x": "39770",
-        "y": "25",
-        "z": "32671"
-    },
-    {
-        "gameName": "bitola",
-        "realName": "Битола (Bitola)",
-        "country": "macedonia",
-        "x": "44193",
-        "y": "52",
-        "z": "54381"
     },
     {
         "gameName": "domitz",
@@ -5775,68 +6143,12 @@ var cities_wip = [
         "z": "90801.95"
     },
     {
-        "gameName": "kragujevac",
-        "realName": "Крагујевац (Kragujevac)",
-        "country": "serbia",
-        "x": "39573",
-        "y": "43",
-        "z": "37373"
-    },
-    {
-        "gameName": "larnaca",
-        "realName": "Λάρνακα (Larnaca)",
-        "country": "cyprus",
-        "x": "103900",
-        "y": "0",
-        "z": "76700"
-    },
-    {
-        "gameName": "lefkosia",
-        "realName": "Λευκωσία (Lefkosia)",
-        "country": "cyprus",
-        "x": "102729.92",
-        "y": "15",
-        "z": "75415.23"
-    },
-    {
-        "gameName": "lemesos",
-        "realName": "Λεμεσός (Lemesos)",
-        "country": "cyprus",
-        "x": "101258",
-        "y": "0",
-        "z": "78849"
-    },
-    {
         "gameName": "netanya",
         "realName": "Netanya",
         "country": "israel",
         "x": "113710.56",
         "y": "4",
         "z": "87504.45"
-    },
-    {
-        "gameName": "nis",
-        "realName": "Ниш (Niš)",
-        "country": "serbia",
-        "x": "45380",
-        "y": "73",
-        "z": "41075"
-    },
-    {
-        "gameName": "ohrid",
-        "realName": "Охрид (Ohrid)",
-        "country": "macedonia",
-        "x": "41871",
-        "y": "43",
-        "z": "54302"
-    },
-    {
-        "gameName": "pamplona",
-        "realName": "Pamplona",
-        "country": "spain",
-        "x": "-52500",
-        "y": "10",
-        "z": "38339"
     },
     {
         "gameName": "rishon",
@@ -5847,84 +6159,12 @@ var cities_wip = [
         "z": "89941.94"
     },
     {
-        "gameName": "skelleftea",
-        "realName": "Skellefteå",
-        "country": "sweden",
-        "x": "30527.27",
-        "y": "11",
-        "z": "-80009"
-    },
-    {
-        "gameName": "skopje",
-        "realName": "Скопје (Skopje)",
-        "country": "macedonia",
-        "x": "42677",
-        "y": "33",
-        "z": "48079"
-    },
-    {
         "gameName": "telaviv",
         "realName": "Tel Aviv",
         "country": "israel",
         "x": "113893.69",
         "y": "9.9",
         "z": "89054.06"
-    },
-    {
-        "gameName": "thessaloniki",
-        "realName": "Θεσσαλονίκη (Thessaloniki)",
-        "country": "greece",
-        "x": "50397.9",
-        "y": "8.98",
-        "z": "55423.36"
-    },
-    {
-        "gameName": "valencia",
-        "realName": "Valencia",
-        "country": "spain",
-        "x": "-50738",
-        "y": "2",
-        "z": "59064"
-    },
-    {
-        "gameName": "ukmerge",
-        "realName": "Ukmergė",
-        "country": "lithuania",
-        "x": "47637",
-        "y": "56",
-        "z": "-27414"
-    },
-    {
-        "gameName": "vidin",
-        "realName": "Видин (Vidin)",
-        "country": "bulgaria",
-        "x": "48163",
-        "y": "71",
-        "z": "36095"
-    },
-    {
-        "gameName": "vinaros",
-        "realName": "Vinaròs",
-        "country": "spain",
-        "x": "-46540",
-        "y": "11",
-        "z": "53988"
-    },
-    {
-        "gameName": "zadar",
-        "realName": "Zadar",
-        "country": "croatia",
-        "x": "16551",
-        "y": "7",
-        "z": "37663"
-    },
-    {
-        "gameName": "zaragoza",
-        "realName": "Zaragoza",
-        "country": "spain",
-        "x": "-50998",
-        "y": "64",
-        "z": "45567"
     },
 ];
 
@@ -7333,6 +7573,7 @@ var cities_italy_map = [
 ];
 
 cities = cities.concat(cities_rusmap); //RusMap cities
+cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
