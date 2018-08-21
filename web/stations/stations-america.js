@@ -996,12 +996,12 @@ var stations = {
         {
             name: "KGRT 103.9",
             logo: "stations/images-america/las_cruces/KGRT.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KGRTFMAAC.aac"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KGRTFM.mp3"
         },
         {
             name: "KOOL Oldies 104.5",
             logo: "stations/images-america/las_cruces/KOOL oldies.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWMLAMAAC.aac"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWMLAM.mp3"
         },
     ],
     "las_vegas": [
@@ -1658,7 +1658,7 @@ var stations = {
         {
             name: "Mighty 1090 AM",
             logo: "stations/images-america/san_diego/Mighty 1090 AM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XPRSA.AAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XPRSAMAAC.aac"
         },
         {
             name: "Jazz 88.3",
@@ -1673,7 +1673,7 @@ var stations = {
         {
             name: "Magic 92.5",
             logo: "stations/images-america/san_diego/Magic 92.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHRMF.AAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHRMFMAAC.aac"
         },
         {
             name: "Air1",
@@ -1735,7 +1735,7 @@ var stations = {
         {
             name: "99.7 Now",
             logo: "stations/images-america/san_francisco/99.7 Now.png",
-            url: "http://17653.live.streamtheworld.com/KMVQFM_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFM.mp3"
         },
         {
             name: "Star 101.3",

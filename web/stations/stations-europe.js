@@ -759,12 +759,12 @@ var stations = {
         {
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
-            url: "http://stream2.bauermedia.fi/isk-hki.mp3"
+            url: "https://stream.bauermedia.fi/iskelma/iskelma_64.aac"
         },
         {
             name: "Kiss",
             logo: "stations/images-europe/finland/Kiss.png",
-            url: "http://stream2.bauermedia.fi/kiss.mp3"
+            url: "https://stream.bauermedia.fi/kiss/kiss_64.aac"
         },
         {
             name: "Radio Aalto",
@@ -774,7 +774,7 @@ var stations = {
         {
             name: "Radio City",
             logo: "stations/images-europe/finland/Radio City.svg",
-            url: "http://stream2.bauermedia.fi/rc-hki.mp3"
+            url: "https://stream.bauermedia.fi/radiocity/hki_128.mp3?direct=true"
         },
         /*
         {
