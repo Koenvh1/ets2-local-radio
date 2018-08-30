@@ -1938,17 +1938,17 @@ var stations = {
         {
             name: "МР1",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://vod-c55.interspace.org/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9aEhwemFLREdHN0tNTHF4enU0Z0puZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVhZTQ1ODY2NzVkMTA="
+            url: "https://koenvh.nl/inc/mrt-parser.php?station=47.m3u8"
         },
         {
             name: "МР2",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://vod-c55.interspace.org/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9aEhwemFLREdHN0tNTHF4enU0Z0puZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVhZTQ1ODY2NzVkMTA="
+            url: "https://koenvh.nl/inc/mrt-parser.php?station=48.m3u8"
         },
         {
             name: "МР3",
             logo: "stations/images-europe/macedonia/МР.png",
-            url: "http://vod-c55.interspace.org/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDExOjE3OjU4IEFNJmhhc2hfdmFsdWU9aEhwemFLREdHN0tNTHF4enU0Z0puZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTVhZTQ1ODY2NzVkMTA="
+            url: "https://koenvh.nl/inc/mrt-parser.php?station=49.m3u8"
         },
         {
             name: "Antenna 5",
@@ -1958,7 +1958,7 @@ var stations = {
         {
             name: "Радио Канал 77",
             logo: "stations/images-europe/macedonia/Радио Канал 77.png",
-            url: "http://92.55.71.42:8022/live.mp3"
+            url: "http://kanal77.mk:8088/live.mp3"
         },
         {
             name: "Metropolis Radio",

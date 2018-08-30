@@ -74,7 +74,7 @@
 
     $("#player").on("error", function (e) {
         if(ready) {
-            console.log(e);
+            console.log(e.originalEvent.currentTarget.error);
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "red");
             //$("#list>tr:nth-child(" + (currentId + 1) + ")>td:nth-child(3)").html(errorMessages[e.originalEvent.currentTarget.error.code]);
             if (currentId < $("#list>tr").length) {
@@ -121,7 +121,7 @@
         if(url.indexOf("?") !== -1){
             cleanUrl = cleanUrl.split("?")[0];
         }
-        if (cleanUrl.endsWith("m3u8")) {
+        if (cleanUrl.endsWith("m3u8") || url.endsWith("m3u8")) {
             //If HLS, continue here
             hls.attachMedia(document.getElementById("player"));
             hls.on(Hls.Events.MEDIA_ATTACHED, function () {

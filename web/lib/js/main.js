@@ -345,7 +345,7 @@ function setRadioStation(url, country, volume) {
             if(url.indexOf("?") !== -1){
                 cleanUrl = cleanUrl.split("?")[0];
             }
-            if (cleanUrl.endsWith("m3u8")) {
+            if (cleanUrl.endsWith("m3u8") || url.endsWith("m3u8")) {
                 //If HLS, continue here
                 g_hls = new Hls();
                 g_hls.attachMedia(document.getElementById("player"));
