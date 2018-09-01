@@ -450,28 +450,38 @@ var stations = {
     "cyprus": [
         {
             name: "ΡΙΚ ΠΡΩΤΟ",
-            logo: "stations/images-europe/cyprus/PIK.png",
+            logo: "stations/images-europe/cyprus/ΡΙΚ ΠΡΩΤΟ.png",
             url: "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio"
         },
         {
             name: "ΡΙΚ ΔΕΥΤΕΡΟ",
-            logo: "stations/images-europe/cyprus/PIK.png",
+            logo: "stations/images-europe/cyprus/ΡΙΚ ΔΕΥΤΕΡΟ.png",
             url: "http://r1.cloudskep.com/cybcr/cybc2/icecast.audio"
         },
         {
             name: "ΡΙΚ ΤΡΙΤΟ",
-            logo: "stations/images-europe/cyprus/PIK.png",
+            logo: "stations/images-europe/cyprus/ΡΙΚ ΤΡΙΤΟ.png",
             url: "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio"
         },
         {
             name: "ΡΙΚ ΤΕΤΑΡΤΟ",
-            logo: "stations/images-europe/cyprus/PIK.png",
+            logo: "stations/images-europe/cyprus/ΡΙΚ ΤΕΤΑΡΤΟ.png",
             url: "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
+        },
+        {
+            name: "Astra",
+            logo: "stations/images-europe/cyprus/Astra.jpg",
+            url: "http://radio.dialogos.com.cy:8000/stream"
         },
         {
             name: "Bayrak Radyosu",
             logo: "stations/images-europe/cyprus/Bayrak Radyosu.png",
             url: "http://sc.brtk.net:8002/;"
+        },
+        {
+            name: "Mix FM",
+            logo: "stations/images-europe/cyprus/Mix FM.png",
+            url: "http://eco.onestreaming.com:8127/;"
         },
         /*
         {
@@ -1473,6 +1483,11 @@ var stations = {
             name: "ΕΡΤ Τρίτο Πρόγραμμα",
             logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.jpg",
             url: "http://radiostreaming.ert.gr/ert-trito"
+        },
+        {
+            name: "Μελωδια",
+            logo: "stations/images-europe/greece/Μελωδια.png",
+            url: "https://stream.radiojar.com/melodia992"
         },
         {
             name: "Rythmos FM",
