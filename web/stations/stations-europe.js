@@ -1495,6 +1495,11 @@ var stations = {
             url: "http://ample-10.radiojar.com/g4tyehk5yvduv?rj-ttl=5&rj-token=AAABYTfr6LcyzlBtcDzLiw3qph6r3X7oRS_PO28pTSHS9xEI3FO90Q"
         },
         {
+            name: "ΣΚΑΪ 100,3",
+            logo: "stations/images-europe/greece/ΣΚΑΪ 100,3.svg",
+            url: "http://liveradio.skai.gr/skaihd/skai/playlist.m3u8"
+        },
+        {
             name: "Star FM",
             logo: "stations/images-europe/greece/Star FM.png",
             url: "http://s1.onweb.gr:8800/;"
