@@ -917,13 +917,11 @@ var stations = {
             logo: "stations/images-europe/france/Rire et Chansons.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"
         },
-        /*
         {
             name: "RMC",
             logo: "stations/images-europe/france/RMC.jpg",
-            url: "http://rmc-i.akamaihd.net/hls/live/218333/876630703001/rmcinfo/01.m3u8"
+            url: "http://rmc.bfmtv.com/rmcinfo-mp3"
         },
-        */
         {
             name: "RTL",
             logo: "stations/images-europe/france/RTL.png",
