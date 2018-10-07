@@ -17,6 +17,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 1.2
     },
+    "astoria": {
+        name: "Astoria",
+        name_english: "Astoria",
+        code: "us-or",
+        relative_radius: 1.2
+    },
     "bakersfield": {
         name: "Bakersfield",
         name_english: "Bakersfield",
@@ -27,6 +33,18 @@ var country_properties = {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
+        relative_radius: 1.2
+    },
+    "bend": {
+        name: "Bend",
+        name_english: "Bend",
+        code: "us-or",
+        relative_radius: 1.2
+    },
+    "burns": {
+        name: "Burns",
+        name_english: "Burns",
+        code: "us-or",
         relative_radius: 1.2
     },
     "camp_verde": {
@@ -59,6 +77,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 1.2
     },
+    "coos_bay": {
+        name: "Coos Bay",
+        name_english: "Coos Bay",
+        code: "us-or",
+        relative_radius: 1.2
+    },
     "ehrenberg": {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
@@ -81,6 +105,12 @@ var country_properties = {
         name: "El Centro",
         name_english: "El Centro",
         code: "us-ca",
+        relative_radius: 1.2
+    },
+    "eugene": {
+        name: "Eugene",
+        name_english: "Eugene",
+        code: "us-or",
         relative_radius: 1.2
     },
     "eureka": {
@@ -167,6 +197,18 @@ var country_properties = {
         code: "us-az",
         relative_radius: 1.2
     },
+    "klamath_f": {
+        name: "Klamath Falls",
+        name_english: "Klamath Falls",
+        code: "us-or",
+        relative_radius: 1.2
+    },
+    "lakeview": {
+        name: "Lakeview",
+        name_english: "Lakeview",
+        code: "us-or",
+        relative_radius: 1.2
+    },
     "las_cruces": {
         name: "Las Cruces",
         name_english: "Las Cruces",
@@ -184,6 +226,18 @@ var country_properties = {
         name_english: "Los Angeles",
         code: "us-ca",
         relative_radius: 1.3
+    },
+    "medford": {
+        name: "Medford",
+        name_english: "Medford",
+        code: "us-or",
+        relative_radius: 1.2
+    },
+    "newport": {
+        name: "Newport",
+        name_english: "Newport",
+        code: "us-or",
+        relative_radius: 1.2
     },
     "nogales": {
         name: "Nogales",
@@ -203,6 +257,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 1.2
     },
+    "ontario": {
+        name: "Ontario",
+        name_english: "Ontario",
+        code: "us-or",
+        relative_radius: 1.2
+    },
     "oxnard": {
         name: "Oxnard",
         name_english: "Oxnard",
@@ -215,6 +275,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 1.2
     },
+    "pendleton": {
+        name: "Pendleton",
+        name_english: "Pendleton",
+        code: "us-or",
+        relative_radius: 1.2
+    },
     "phoenix": {
         name: "Phoenix",
         name_english: "Phoenix",
@@ -225,6 +291,12 @@ var country_properties = {
         name: "Pioche",
         name_english: "Pioche",
         code: "us-nv",
+        relative_radius: 1.2
+    },
+    "portland": {
+        name: "Portland",
+        name_english: "Portland",
+        code: "us-or",
         relative_radius: 1.2
     },
     "primm": {
@@ -261,6 +333,12 @@ var country_properties = {
         name: "Sacramento",
         name_english: "Sacramento",
         code: "us-ca",
+        relative_radius: 1.2
+    },
+    "salem": {
+        name: "Salem",
+        name_english: "Salem",
+        code: "us-or",
         relative_radius: 1.2
     },
     "santa_cruz": {
@@ -327,6 +405,12 @@ var country_properties = {
         name: "Stockton",
         name_english: "Stockton",
         code: "us-ca",
+        relative_radius: 1.2
+    },
+    "the_dalles": {
+        name: "The Dalles",
+        name_english: "The Dalles",
+        code: "us-or",
         relative_radius: 1.2
     },
     "tonopah": {
@@ -1056,6 +1140,118 @@ var cities = [
         "x": "-35286.4",
         "y": "142.113",
         "z": "20109.9"
+    },
+    {
+        "gameName": "astoria",
+        "realName": "Astoria",
+        "country": "oregon",
+        "x": "-107078",
+        "y": "59.7773",
+        "z": "-57243"
+    },
+    {
+        "gameName": "bend",
+        "realName": "Bend",
+        "country": "oregon",
+        "x": "-100856",
+        "y": "104.578",
+        "z": "-42806.8"
+    },
+    {
+        "gameName": "burns",
+        "realName": "Burns",
+        "country": "oregon",
+        "x": "-92989.7",
+        "y": "113.398",
+        "z": "-37951.5"
+    },
+    {
+        "gameName": "coos_bay",
+        "realName": "Coos Bay",
+        "country": "oregon",
+        "x": "-113632",
+        "y": "55.2227",
+        "z": "-42775.4"
+    },
+    {
+        "gameName": "eugene",
+        "realName": "Eugene",
+        "country": "oregon",
+        "x": "-107310",
+        "y": "57.707",
+        "z": "-45581.2"
+    },
+    {
+        "gameName": "klamath_f",
+        "realName": "Klamath Falls",
+        "country": "oregon",
+        "x": "-105784",
+        "y": "116.527",
+        "z": "-33779.6"
+    },
+    {
+        "gameName": "lakeview",
+        "realName": "Lakeview",
+        "country": "oregon",
+        "x": "-100530",
+        "y": "154.777",
+        "z": "-31392"
+    },
+    {
+        "gameName": "medford",
+        "realName": "Medford",
+        "country": "oregon",
+        "x": "-110683",
+        "y": "91.8906",
+        "z": "-35739.2"
+    },
+    {
+        "gameName": "newport",
+        "realName": "Newport",
+        "country": "oregon",
+        "x": "-111075",
+        "y": "50.9961",
+        "z": "-48807.3"
+    },
+    {
+        "gameName": "ontario",
+        "realName": "Ontario",
+        "country": "oregon",
+        "x": "-84423.1",
+        "y": "92.0703",
+        "z": "-38195.3"
+    },
+    {
+        "gameName": "pendleton",
+        "realName": "Pendleton",
+        "country": "oregon",
+        "x": "-90062.4",
+        "y": "55.1875",
+        "z": "-49278.4"
+    },
+    {
+        "gameName": "portland",
+        "realName": "Portland",
+        "country": "oregon",
+        "x": "-105022",
+        "y": "58",
+        "z": "-52232.6"
+    },
+    {
+        "gameName": "salem",
+        "realName": "Salem",
+        "country": "oregon",
+        "x": "-106253",
+        "y": "73.7188",
+        "z": "-49404.3"
+    },
+    {
+        "gameName": "the_dalles",
+        "realName": "The Dalles",
+        "country": "oregon",
+        "x": "-98710",
+        "y": "50",
+        "z": "-51127.6"
     }
 ];
 
@@ -6215,20 +6411,21 @@ var cities_c2c = [
         "z": "15048.7"
     },
     {
-        "gameName": "eugene",
-        "realName": "Eugene",
-        "country": "oregon",
-        "x": "-107998",
-        "y": "89.9844",
-        "z": "-45313"
-    },
-    {
         "gameName": "la_grande",
         "realName": "La Grande",
         "country": "oregon",
         "x": "-86649.5",
         "y": "95.4508",
         "z": "-44987.4"
+    },
+    /*
+    {
+        "gameName": "eugene",
+        "realName": "Eugene",
+        "country": "oregon",
+        "x": "-107998",
+        "y": "89.9844",
+        "z": "-45313"
     },
     {
         "gameName": "medford_or",
@@ -6254,6 +6451,7 @@ var cities_c2c = [
         "y": "66.662",
         "z": "-51307.7"
     },
+    */
     {
         "gameName": "allentown",
         "realName": "Allentown",
@@ -8008,9 +8206,9 @@ var cities_canadream = [
     }
 ];
 
-country_properties = $.extend(country_properties, country_properties_mexico);
-city_properties = $.extend(city_properties, city_properties_mexico);
-cities = cities.concat(cities_mexico);
+// country_properties = $.extend(country_properties, country_properties_mexico);
+// city_properties = $.extend(city_properties, city_properties_mexico);
+// cities = cities.concat(cities_mexico);
 
 for (var key in country_properties_c2c) {
     if (!country_properties_c2c.hasOwnProperty(key)) continue;
@@ -8023,14 +8221,14 @@ for (var key in country_properties_c2c) {
 }
 
 //Uncomment the lines below to enable C2C
-cities = cities.concat(cities_c2c);
-country_properties = $.extend(country_properties, country_properties_c2c);
-city_properties = $.extend(city_properties, city_properties_c2c);
+// cities = cities.concat(cities_c2c);
+// country_properties = $.extend(country_properties, country_properties_c2c);
+// city_properties = $.extend(city_properties, city_properties_c2c);
 
 //Uncomment the lines below to enable Canadream
-country_properties = $.extend(country_properties, country_properties_canadream);
-city_properties = $.extend(city_properties, city_properties_canadream);
-cities = cities.concat(cities_canadream);
+// country_properties = $.extend(country_properties, country_properties_canadream);
+// city_properties = $.extend(city_properties, city_properties_canadream);
+// cities = cities.concat(cities_canadream);
 
 
 //Set country to gameName, because stations are bound to a city.
