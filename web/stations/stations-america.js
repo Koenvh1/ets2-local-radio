@@ -223,6 +223,11 @@ var stations = {
         },
         */
         {
+            name: "103.3 The Vibe",
+            logo: "stations/images-america/bakersfield/103.3 The Vibe.jpg",
+            url: "http://14023.live.streamtheworld.com/KVYBFMAAC_SC"
+        },
+        {
             name: "103.9 The Beat",
             logo: "stations/images-america/bakersfield/103.9 The Beat.png",
             url: "http://ice10.securenetsystems.net/KBDS"
@@ -1101,11 +1106,13 @@ var stations = {
             logo: "stations/images-america/indio/Radio Nueva Vida.png",
             url: "http://ic1.christiannetcast.com/nuevavida"
         },
+        /*
         {
             name: "Mix 100.5",
             logo: "stations/images-america/indio/Mix 100.5.png",
             url: "http://stream.abacast.net/direct/alphacorporate-kpsifmaac-ibc4&source=website"
         },
+        */
         {
             name: "101.3 The Mix",
             logo: "stations/images-america/indio/101.3 The Mix.png",
@@ -1419,7 +1426,7 @@ var stations = {
         {
             name: "98.2 The Beat",
             logo: "stations/images-america/los_angeles/98.2 The Beat.png",
-            url: "http://50.22.212.195:8054/;"
+            url: "https://stream.radiotime.com/listen.stream?streamIds=95615971&rti=dihxFAteEXATEBFxDQIAWlMlTF5KRkozXgRVV0xGFlF%2bExYhNVoJQAEZJi8IE0pkWx8bRARHWGALSQQmExsAFgccXxg8dwZGBEwFVVpWYgQaZg%3d%3d%7e%7e%7e&callback=jQuery110201790282808009669_1538871580309&_=1538871580310"
         },
         {
             name: "99.5 KKLA",
@@ -1895,7 +1902,7 @@ var stations = {
         },
         {
             name: "KWSS 93.9",
-            logo: "stations/images-america/phoenix/The Oasis.png",
+            logo: "stations/images-america/phoenix/KWSS.png",
             url: "http://50.7.96.210:8458/;"
         },
         {
@@ -2508,16 +2515,20 @@ var stations = {
             logo: "stations/images-america/san_francisco/Wild 94.9.png",
             url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
         },
+        /*
         {
             name: "96.5 KOIT",
             logo: "stations/images-america/san_francisco/96.5 KOIT.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC.aac"
         },
+        */
+        /*
         {
             name: "99.7 Now",
             logo: "stations/images-america/san_francisco/99.7 Now.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFM.mp3"
         },
+        */
         {
             name: "Star 101.3",
             logo: "stations/images-america/san_francisco/Star 101.3.png",
@@ -2527,6 +2538,11 @@ var stations = {
             name: "102.9 KBLX",
             logo: "stations/images-america/san_francisco/102.9 KBLX.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBLXFMAAC.aac"
+        },
+        {
+            name: "104.5 KFOG",
+            logo: "stations/images-america/san_francisco/104.5 KFOG.png",
+            url: "http://14003.live.streamtheworld.com:80/KFOGFMAAC_SC"
         },
     ],
     "san_rafael": [

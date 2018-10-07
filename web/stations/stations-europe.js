@@ -1162,7 +1162,7 @@ var stations = {
         },
         {
             name: "MDR Sputnik",
-            logo: "stations/images-europe/germany-mdr/MDR Sputnik.svg",
+            logo: "stations/images-europe/germany-mdr/MDR Sputnik.png",
             url: "http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3"
         },
         {
@@ -1194,6 +1194,11 @@ var stations = {
             name: "Hitradio RTL",
             logo: "stations/images-europe/germany-mdr/Hitradio RTL.svg",
             url: "https://streams.bcs-systems.de/hrrtl/live/sachsen/mp3/radioplayer/web"
+        },
+        {
+            name: "Radio PSR",
+            logo: "stations/images-europe/germany-mdr/Radio PSR.png",
+            url: "http://streams.radiopsr.de/psr-live/mp3-192/streams.radiopsr.de/"
         },
         {
             name: "Radio SAW",
@@ -2549,18 +2554,18 @@ var stations = {
     "serbia": [
         {
             name: "Радио Београд 1",
-            logo: "stations/images-europe/serbia/Радио Београд.png",
-            url: "https://rts-live.morescreens.com/RTS_1_009/playlist.m3u8?video_id=15918&authority_instance_id=spectar-prd-rts&token=d798439fbb3dfc0576a1ba83dabb0695ce551b2e&profile_id=39527&application_installation_id=164882&uuid=5a940ab1441e95.14607095&subscriber_id=39566&application_id=helium&channel_name=__1&detected_delivery_method=hls"
+            logo: "stations/images-europe/serbia/Радио Београд 1.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8"
         },
         {
             name: "Радио Београд 2",
-            logo: "stations/images-europe/serbia/Радио Београд 2.jpg",
-            url: "https://rts-live.morescreens.com/RTS_1_010/playlist.m3u8?video_id=16086&authority_instance_id=spectar-prd-rts&token=d798439fbb3dfc0576a1ba83dabb0695ce551b2e&profile_id=39527&application_installation_id=164882&uuid=5a940ab1441e95.14607095&subscriber_id=39566&application_id=helium&channel_name=__2&detected_delivery_method=hls"
+            logo: "stations/images-europe/serbia/Радио Београд 2.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8"
         },
         {
             name: "Радио Београд 202",
-            logo: "stations/images-europe/serbia/Радио Београд 202.jpg",
-            url: "https://rts-live.morescreens.com/RTS_1_012/playlist.m3u8?video_id=16091&authority_instance_id=spectar-prd-rts&token=d798439fbb3dfc0576a1ba83dabb0695ce551b2e&profile_id=39527&application_installation_id=164882&uuid=5a940ab1441e95.14607095&subscriber_id=39566&application_id=helium&channel_name=_202&detected_delivery_method=hls"
+            logo: "stations/images-europe/serbia/Радио Београд 202.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8"
         },
         {
             name: "Hit FM",
