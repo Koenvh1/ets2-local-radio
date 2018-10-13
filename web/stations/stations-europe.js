@@ -469,6 +469,11 @@ var stations = {
             url: "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
         },
         {
+            name: "ANT1 FM",
+            logo: "stations/images-europe/cyprus/ANT1 FM.jpg",
+            url: "http://r1.cloudskep.com/radio2/ant1fm/icecast.audio"
+        },
+        {
             name: "Astra",
             logo: "stations/images-europe/cyprus/Astra.jpg",
             url: "http://radio.dialogos.com.cy:8000/stream"
@@ -482,6 +487,16 @@ var stations = {
             name: "Mix FM",
             logo: "stations/images-europe/cyprus/Mix FM.png",
             url: "http://eco.onestreaming.com:8127/;"
+        },
+        {
+            name: "Radio Sfera",
+            logo: "stations/images-europe/cyprus/Radio Sfera.png",
+            url: "http://r1.phileradio.com:8193/sfera"
+        },
+        {
+            name: "Sunshine Radio",
+            logo: "stations/images-europe/cyprus/Sunshine Radio.png",
+            url: "http://streaming.sunshineradio.com/mp3"
         },
         /*
         {
@@ -797,6 +812,11 @@ var stations = {
             name: "Radio Dei",
             logo: "stations/images-europe/finland/Radio Dei.png",
             url: "http://isojako.radiodei.fi:8000/yleisohjelma"
+        },
+        {
+            name: "Radio Loop",
+            logo: "stations/images-europe/finland/Radio Loop.png",
+            url: "https://icelive0-80692-icelive0.dna.qbrick.com/10561/80692_Loop.mp3"
         },
         {
             name: "Radio Nostalgia",
@@ -1320,9 +1340,24 @@ var stations = {
             url: "http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3"
         },
         {
+            name: "Cosmo",
+            logo: "stations/images-europe/germany-rbb/WDR Cosmo.svg",
+            url: "http://addrad.io/4WRN3Y"
+        },
+        {
             name: "104.6 RTL",
             logo: "stations/images-europe/germany-rbb/104.6 RTL.svg",
             url: "http://stream.104.6rtl.com/rtl-live/mp3-128/konsole/"
+        },
+        {
+            name: "BB Radio",
+            logo: "stations/images-europe/germany-rbb/BB Radio.svg",
+            url: "http://streambbr.ir-media-tec.com/live/mp3-128/radioplayer_web/play.mp3"
+        },
+        {
+            name: "FluxFM",
+            logo: "stations/images-europe/germany-rbb/FluxFM.png",
+            url: "http://streams.fluxfm.de/live/mp3-320/audio/"
         },
         {
             name: "Radio TEDDY",
@@ -1330,9 +1365,9 @@ var stations = {
             url: "http://ir-media.hoerradar.de/teddy-live-mp3-mq?sABC=58697nn6%231%2326nr8094s1012no571r7np7896r19p4p%23jro&amsparams=playerid:web;skey:1483307686"
         },
         {
-            name: "Cosmo",
-            logo: "stations/images-europe/germany-rbb/WDR Cosmo.svg",
-            url: "http://addrad.io/4WRN3Y"
+            name: "rs2",
+            logo: "stations/images-europe/germany-rbb/rs2.png",
+            url: "https://stream.rs2.de/rs2/mp3-128/radioplayerde/;stream.nsv"
         },
     ],
     "germany-swr": [
@@ -3167,7 +3202,3 @@ var stations = {
 
 //stations["belgium"] = stations["belgium-nl"].concat(stations["belgium-fr"]);
 //stations["switzerland"] = stations["switzerland-de"].concat(stations["switzerland-fr"]);
-
-//You could group all German stations into one, but with the current amount of stations the list would become quite long
-//stations["germany"] = stations["germany-br"].concat(stations["germany-hr"]).concat(stations["germany-mdr"])
-//    .concat(stations["germany-ndr"]).concat(stations["germany-rbb"]).concat(stations["germany-swr"]).concat(stations["germany-wdr"]);
