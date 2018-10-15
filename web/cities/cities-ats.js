@@ -3344,33 +3344,9 @@ var country_properties_c2c = {
         code: "us-or",
         relative_radius: 1.2
     },
-    "eugene": {
-        name: "eugene",
-        name_english: "eugene",
-        code: "us-or",
-        relative_radius: 1.2
-    },
     "la_grande": {
         name: "la_grande",
         name_english: "la_grande",
-        code: "us-or",
-        relative_radius: 1.2
-    },
-    "medford_or": {
-        name: "medford_or",
-        name_english: "medford_or",
-        code: "us-or",
-        relative_radius: 1.2
-    },
-    "portland_or": {
-        name: "portland_or",
-        name_english: "portland_or",
-        code: "us-or",
-        relative_radius: 1.2
-    },
-    "the_dalles": {
-        name: "the_dalles",
-        name_english: "the_dalles",
         code: "us-or",
         relative_radius: 1.2
     },
