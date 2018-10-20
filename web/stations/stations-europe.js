@@ -779,7 +779,7 @@ var stations = {
         {
             name: "Helmiradio",
             logo: "stations/images-europe/finland/Helmiradio.png",
-            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10567/80692_Helmiradio.mp3"
+            url: "https://digitacdn.akamaized.net/hls/live/629243/radiohelmi/master.m3u8"
         },
         {
             name: "Iskelmä",
@@ -794,7 +794,7 @@ var stations = {
         {
             name: "Radio Aalto",
             logo: "stations/images-europe/finland/Radio Aalto.png",
-            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10564/80692_RadioAalto.mp3"
+            url: "https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master.m3u8"
         },
         {
             name: "Radio City",
@@ -816,7 +816,7 @@ var stations = {
         {
             name: "Radio Loop",
             logo: "stations/images-europe/finland/Radio Loop.png",
-            url: "https://icelive0-80692-icelive0.dna.qbrick.com/10561/80692_Loop.mp3"
+            url: "https://digitacdn.akamaized.net/hls/live/629243/loop/master.m3u8"
         },
         {
             name: "Radio Nostalgia",
@@ -836,12 +836,12 @@ var stations = {
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10565/80692_RadioRock.mp3"
+            url: "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master.m3u8"
         },
         {
             name: "Radio Suomipop",
             logo: "stations/images-europe/finland/Radio Suomipop.png",
-            url: "http://icelive0.80692-icelive0.cdn.qbrick.com/10566/80692_RadioSuomipop.mp3"
+            url: "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8"
         },
         /*
         {
@@ -995,7 +995,7 @@ var stations = {
         {
             name: "Radio BOB",
             logo: "stations/images-europe/germany/Radio BOB.svg",
-            url: "http://bob.hoerradar.de/radiobob-live-mp3-hq"
+            url: "https://streams.radiobob.de/bob-live/mp3-192/homepage/"
         },
         {
             name: "Schlagerparadies",
@@ -1010,7 +1010,7 @@ var stations = {
         {
             name: "Sunshine live",
             logo: "stations/images-europe/germany/Sunshine live.svg",
-            url: "http://stream.sunshine-live.de/hq/mp3-128/surfmusik/"
+            url: "http://stream.sunshine-live.de/live/mp3-192/Webradio-Player/"
         },
     ],
     "germany-br": [
@@ -1579,6 +1579,11 @@ var stations = {
             logo: "stations/images-europe/hungary/Radio 1.png",
             url: "http://www.bytestorm.hu/radio1Stream/"
         },
+        {
+            name: "Retro Rádió",
+            logo: "stations/images-europe/hungary/Retro Rádió.png",
+            url: "http://stream.retroradio.hu/mid.mp3?time=1540043852?time=1540043885744"
+        },
     ],
     "iceland": [
         {
@@ -1893,7 +1898,7 @@ var stations = {
         {
             name: "Radio Skonto",
             logo: "stations/images-europe/latvia/Radio Skonto.png",
-            url: "http://skonto.ls.lv:8002/mp3"
+            url: "http://skonto.datucentrs.eu/mp3"
         },
         {
             name: "Radio SWH",
@@ -2068,7 +2073,7 @@ var stations = {
         {
             name: "Vocea Basarabiei",
             logo: "stations/images-europe/moldova/Vocea Basarabiei.png",
-            url: "http://95.65.0.194:8000/radio_vb_96kb"
+            url: "http://storage.voceabasarabiei.md:8000/radiovb_96kb"
         },
     ],
     "netherlands": [
@@ -2318,22 +2323,22 @@ var stations = {
         {
             name: "Polskie Radio 1",
             logo: "stations/images-europe/poland/Polskie Radio 1.jpg",
-            url: "http://stream3.polskieradio.pl:8900/;"
+            url: "http://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8"
         },
         {
             name: "Polskie Radio 2",
             logo: "stations/images-europe/poland/Polskie Radio 2.jpg",
-            url: "http://stream3.polskieradio.pl:8902/;"
+            url: "http://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8"
         },
         {
             name: "Polskie Radio 3",
             logo: "stations/images-europe/poland/Polskie Radio 3.jpg",
-            url: "http://stream3.polskieradio.pl:8904/;"
+            url: "http://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8"
         },
         {
             name: "Polskie Radio 24",
             logo: "stations/images-europe/poland/Polskie Radio 24.jpg",
-            url: "http://stream3.polskieradio.pl:8080/;"
+            url: "http://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
         },
         {
             name: "Antyradio",
@@ -2343,7 +2348,7 @@ var stations = {
         {
             name: "Meloradio",
             logo: "stations/images-europe/poland/Meloradio.png",
-            url: "http://mel02.cdn.eurozet.pl:8800/mel-net.mp3"
+            url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5"
         },
         /*
         {
