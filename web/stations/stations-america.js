@@ -1598,7 +1598,7 @@ var stations = {
         },
         {
             name: "104.3 MYfm",
-            logo: "stations/images-america/los_angeles/KOST.png",
+            logo: "stations/images-america/los_angeles/104.3 MYfm.png",
             url: "https://c8.prod.playlists.ihrhls.com/173_icy"
         },
     ],

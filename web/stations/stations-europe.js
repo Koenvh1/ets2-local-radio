@@ -1799,7 +1799,7 @@ var stations = {
         {
             name: "Radio Dimensione Suono (RDS)",
             logo: "stations/images-europe/italy/Radio Dimensione Suono (RDS).png",
-            url: "https://580e24eaf03c8.streamlock.net/live/rds64k.stream/playlist.m3u8"
+            url: "https://stream.rds.radio/rds/app128.stream/playlist.m3u8"
         },
         {
             name: "Radio Freccia",
