@@ -2654,6 +2654,12 @@ var country_properties_c2c = {
         code: "us-la",
         relative_radius: 1.2
     },
+    "alexandria_la": {
+        name: "alexandria_la",
+        name_english: "alexandria_la",
+        code: "us-la",
+        relative_radius: 1.2
+    },
     "baton_rouge": {
         name: "baton_rouge",
         name_english: "baton_rouge",
@@ -2679,8 +2685,14 @@ var country_properties_c2c = {
         relative_radius: 1.2
     },
     "monroe_la": {
-        name: "monroe_la",
-        name_english: "monroe_la",
+        name: "Monroe",
+        name_english: "Monroe",
+        code: "us-la",
+        relative_radius: 1.2
+    },
+    "natchitoches_la": {
+        name: "Natchitoches",
+        name_english: "Natchitoches",
         code: "us-la",
         relative_radius: 1.2
     },
@@ -2870,9 +2882,9 @@ var country_properties_c2c = {
         code: "us-ms",
         relative_radius: 1.2
     },
-    "natchez": {
-        name: "natchez",
-        name_english: "natchez",
+    "mccomb_ms": {
+        name: "McComb",
+        name_english: "McComb",
         code: "us-ms",
         relative_radius: 1.2
     },
@@ -3309,32 +3321,38 @@ var country_properties_c2c = {
         relative_radius: 1.2
     },
     "enid": {
-        name: "enid",
-        name_english: "enid",
+        name: "Enid",
+        name_english: "Enid",
         code: "us-ok",
         relative_radius: 1.2
     },
     "guymon_ok": {
-        name: "guymon_ok",
-        name_english: "guymon_ok",
+        name: "Guymon_ok",
+        name_english: "Guymon",
         code: "us-ok",
         relative_radius: 1.2
     },
     "lawton": {
-        name: "lawton",
-        name_english: "lawton",
+        name: "Lawton",
+        name_english: "Lawton",
         code: "us-ok",
         relative_radius: 1.2
     },
     "oklahoma_city": {
-        name: "oklahoma_city",
-        name_english: "oklahoma_city",
+        name: "Oklahoma_City",
+        name_english: "Oklahoma_City",
         code: "us-ok",
         relative_radius: 1.2
     },
     "tulsa": {
-        name: "tulsa",
-        name_english: "tulsa",
+        name: "Tulsa",
+        name_english: "Tulsa",
+        code: "us-ok",
+        relative_radius: 1.2
+    },
+    "woodward_ok": {
+        name: "Woodward_ok",
+        name_english: "Woodward",
         code: "us-ok",
         relative_radius: 1.2
     },
@@ -4259,6 +4277,9 @@ var city_properties_c2c = {
     "louisiana": {
         relative_whitenoise: 0.95
     },
+    "alexandria_la": {
+        relative_whitenoise: 0.95
+    },
     "baton_rouge": {
         relative_whitenoise: 0.95
     },
@@ -4272,6 +4293,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "monroe_la": {
+        relative_whitenoise: 0.95
+    },
+    "natchitoches_la": {
         relative_whitenoise: 0.95
     },
     "new_orleans": {
@@ -4367,7 +4391,7 @@ var city_properties_c2c = {
     "meridian_ms": {
         relative_whitenoise: 0.95
     },
-    "natchez": {
+    "mccomb_ms": {
         relative_whitenoise: 0.95
     },
     "tupelo_ms": {
@@ -4590,6 +4614,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "tulsa": {
+        relative_whitenoise: 0.95
+    },
+    "woodward_ok": {
         relative_whitenoise: 0.95
     },
     "oregon": {
@@ -5635,6 +5662,14 @@ var cities_c2c = [
         "z": "9181.52"
     },
     {
+        "gameName": "alexandria_la",
+        "realName": "Alexandria",
+        "country": "louisiana",
+        "x": "17350.1",
+        "y": "64.9961",
+        "z": "42386.1"
+    },
+    {
         "gameName": "baton_rouge",
         "realName": "Baton Rouge",
         "country": "louisiana",
@@ -5673,6 +5708,14 @@ var cities_c2c = [
         "x": "18310.5",
         "y": "34.1494",
         "z": "35505.5"
+    },
+    {
+        "gameName": "natchitoches_la",
+        "realName": "Natchitoches",
+        "country": "louisiana",
+        "x": "14267.8",
+        "y": "91.4961",
+        "z": "38305.5"
     },
     {
         "gameName": "new_orleans",
@@ -5875,12 +5918,12 @@ var cities_c2c = [
         "z": "35380.1"
     },
     {
-        "gameName": "natchez",
-        "realName": "Natchez",
+        "gameName": "mccomb_ms",
+        "realName": "McComb",
         "country": "mississippi",
-        "x": "26608.2",
-        "y": "42.5523",
-        "z": "41693.4"
+        "x": "27807.6",
+        "y": "31.0195",
+        "z": "41437.5"
     },
     {
         "gameName": "tupelo_ms",
@@ -6387,6 +6430,14 @@ var cities_c2c = [
         "z": "15048.7"
     },
     {
+        "gameName": "woodward_ok",
+        "realName": "Woodward",
+        "country": "oklahoma",
+        "x": "-15341.2",
+        "y": "133",
+        "z": "13981.1"
+    },
+    {
         "gameName": "la_grande",
         "realName": "La Grande",
         "country": "oregon",
@@ -6680,9 +6731,9 @@ var cities_c2c = [
         "gameName": "dallas",
         "realName": "Dallas",
         "country": "texas",
-        "x": "-1794.18",
-        "y": "68.6836",
-        "z": "34800.5"
+        "x": "-4320.77",
+        "y": "78.4754",
+        "z": "35991.7"
     },
     {
         "gameName": "dalhart_tx",
@@ -6792,9 +6843,9 @@ var cities_c2c = [
         "gameName": "tyler_tx",
         "realName": "Tyler",
         "country": "texas",
-        "x": "3451.03",
-        "y": "20.5086",
-        "z": "36521.8"
+        "x": "2811.19",
+        "y": "85",
+        "z": "36532.7"
     },
     {
         "gameName": "vernon_tx",
