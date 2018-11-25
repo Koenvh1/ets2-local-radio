@@ -899,9 +899,19 @@ var stations = {
             url: "http://50.22.253.45:80/kycc-fm"
         },
         {
+            name: "KTGW 91.7",
+            logo: "stations/images-america/farmington/KTGW 91.7.png",
+            url: "http://69.39.14.19:8001/stream1"
+        },
+        {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK.png",
             url: "http://ice41.securenetsystems.net:80/KWYKFM"
+        },
+        {
+            name: "KPCL 95.7",
+            logo: "stations/images-america/farmington/KPCL 95.7.png",
+            url: "http://69.39.14.19:8000/kpcl"
         },
         /*
         {
@@ -919,6 +929,11 @@ var stations = {
             name: "XRock 105.3",
             logo: "stations/images-america/farmington/XRock 105.3.png",
             url: "http://ice6.securenetsystems.net/KXRC"
+        },
+        {
+            name: "KLJH 107.1",
+            logo: "stations/images-america/farmington/KLJH 107.1.png",
+            url: "http://69.39.14.19:8002/kljh"
         },
     ],
     "flagstaff": [
