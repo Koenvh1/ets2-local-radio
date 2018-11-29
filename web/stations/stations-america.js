@@ -2858,12 +2858,12 @@ var stations = {
     ],
     "socorro": [
         {
-            name: "KUNM",
+            name: "KUNM 88.7",
             logo: "stations/images-america/socorro/KUNM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
         },
         {
-            name: "Relevant Radio",
+            name: "Relevant Radio 91.9",
             logo: "stations/images-america/socorro/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
@@ -2871,6 +2871,16 @@ var stations = {
             name: "Mine Country 102.1",
             logo: "stations/images-america/socorro/Mine Country 102.1.jpg",
             url: "http://216.161.45.111:8000/public"
+        },
+        {
+            name: "104.7 KABQ",
+            logo: "stations/images-america/albuquerque/104.7 KABQ.png",
+            url: "https://c4.prod.playlists.ihrhls.com/6305_icy"
+        },
+        {
+            name: "Z106.3",
+            logo: "stations/images-america/socorro/Z106.3.png",
+            url: "https://ice42.securenetsystems.net/KDLWFM"
         },
     ],
     "stockton": [
@@ -2998,39 +3008,34 @@ var stations = {
     ],
     "tucson": [
         {
-            name: "La Buena 94.3",
-            logo: "stations/images-america/tucson/La Buena 94.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTKTFMAAC.aac"
-        },
-        {
-            name: "97.5 The Vibe",
-            logo: "stations/images-america/tucson/97.5 The Vibe.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSZRFMAAC.aac"
-        },
-        {
-            name: "APB News and Jazz",
-            logo: "stations/images-america/tucson/Arizona Public Media.png",
-            url: "http://streaming.azpm.org:80/kuaz192.mp3"
-        },
-        {
-            name: "APB Classical",
-            logo: "stations/images-america/tucson/Arizona Public Media.png",
-            url: "http://streaming.azpm.org:80/kuat192.mp3"
-        },
-        {
-            name: "97.1 Bull",
-            logo: "stations/images-america/tucson/97.1 Bull.png",
-            url: "http://c6icyelb.prod.playlists.ihrhls.com/69_icy"
-        },
-        {
-            name: "Family Life Radio",
+            name: "Family Life Radio 88.5",
             logo: "stations/images-america/tucson/Family Life Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
         },
         {
-            name: "Mix 94.9",
-            logo: "stations/images-america/tucson/Mix 94.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3"
+            name: "NPR 89.1",
+            logo: "stations/images-america/tucson/NPR 89.1.png",
+            url: "http://streaming.azpm.org:80/kuaz192.mp3"
+        },
+        {
+            name: "Classical 90.5",
+            logo: "stations/images-america/tucson/Classical 90.5.png",
+            url: "http://streaming.azpm.org:80/kuat192.mp3"
+        },
+        {
+            name: "KXCI 91.3",
+            logo: "stations/images-america/tucson/KXCI 91.3.png",
+            url: "http://ais-sa1.streamon.fm/7005_64k.mp3"
+        },
+        {
+            name: "KVAN 91.7 FM",
+            logo: "stations/images-america/tucson/KVAN 91.7 FM.png",
+            url: "http://shoutcast.kvan.fm:8000/radio/;type=mp3"
+        },
+        {
+            name: "KCMT La Caliente 92.1",
+            logo: "stations/images-america/tucson/KCMT La Caliente 92.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFM.mp3"
         },
         {
             name: "My 92.9",
@@ -3038,24 +3043,79 @@ var stations = {
             url: "http://c6icyelb.prod.playlists.ihrhls.com/65_icy"
         },
         {
-            name: "KQTH",
-            logo: "stations/images-america/tucson/KQTH.png",
+            name: "93.7 KRQ",
+            logo: "stations/images-america/tucson/93.7 KRQ.png",
+            url: "https://c6.prod.playlists.ihrhls.com/77_icy"
+        },
+        {
+            name: "La Buena 94.3",
+            logo: "stations/images-america/tucson/La Buena 94.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTKTFMAAC.aac"
+        },
+        {
+            name: "Mix 94.9",
+            logo: "stations/images-america/tucson/Mix 94.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3"
+        },
+        {
+            name: "96.1 KLPX",
+            logo: "stations/images-america/tucson/96.1 KLPX.png",
+            url: "https://14983.live.streamtheworld.com/KLPXFMAAC.aac"
+        },
+        {
+            name: "96.1 KLPX-HD2",
+            logo: "stations/images-america/tucson/96.1 KLPX-HD2.jpg",
+            url: "http://14013.live.streamtheworld.com/KLPXH2FM_SC"
+        },
+        {
+            name: "97.1 Bull",
+            logo: "stations/images-america/tucson/97.1 Bull.png",
+            url: "http://c6icyelb.prod.playlists.ihrhls.com/69_icy"
+        },
+        {
+            name: "97.5 The Vibe",
+            logo: "stations/images-america/tucson/97.5 The Vibe.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSZRFMAAC.aac"
+        },
+        {
+            name: "Hot 98.3",
+            logo: "stations/images-america/tucson/Hot 98.3.png",
+            url: "https://c6.prod.playlists.ihrhls.com/73_icy"
+        },
+        {
+            name: "KTDT 99.1 FM",
+            logo: "stations/images-america/tucson/KTDT 99.1 FM.svg",
+            url: "http://151.80.42.191:8496/;stream.mp3?_=1"
+        },
+        {
+            name: "KIIM 99.5",
+            logo: "stations/images-america/tucson/KIIM-FM 99.5.png",
+            url: "https://16693.live.streamtheworld.com/KIIMFMAAC_SC"
+        },
+        {
+            name: "KMKR 99.9 FM",
+            logo: "stations/images-america/tucson/KMKR 99.9 FM.png",
+            url: "http://ls1.int.live365.net:8000/a25079_live"
+        },
+        {
+            name: "Rock 102.1 KFMA",
+            logo: "stations/images-america/tucson/Rock 102.1 KFMA.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFM.mp3"
+        },
+        {
+            name: "Rock 102.1 KFMA-HD2",
+            logo: "stations/images-america/tucson/Rock 102.1 KFMA-HD2.jpg",
+            url: "http://14013.live.streamtheworld.com/KFMAH2FMAAC.aac"
+        },
+        {
+            name: "104.1 KQTH",
+            logo: "stations/images-america/tucson/104.1 KQTH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQTHFM.mp3"
         },
         {
-            name: "La Caliente",
-            logo: "stations/images-america/tucson/La Caliente.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFM.mp3"
-        },
-        {
-            name: "KXCI",
-            logo: "stations/images-america/tucson/KXCI.png",
-            url: "http://kxci.streamon.fm:8000/KXCI-48k.aac?starttime=1483400077"
-        },
-        {
-            name: "Rock 102.1",
-            logo: "stations/images-america/tucson/Rock 102.1.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFM.mp3"
+            name: "106.3 The Groove",
+            logo: "stations/images-america/tucson/106.3 The Groove.png",
+            url: "http://14543.live.streamtheworld.com:3690/KTGVFM_SC"
         },
     ],
     "tucumcari": [
