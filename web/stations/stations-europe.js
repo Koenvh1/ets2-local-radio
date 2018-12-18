@@ -12,6 +12,28 @@ var stations = {
             url: "http://ice6.securenetsystems.net/STEELFM?playSessionID=F8DB637D-A3F9-8829-BBF2043C7F009883"
         },
     ],
+    "algier": [
+        {
+            name: "Chaîne 1",
+            logo: "stations/images-europe/algier/Chaîne 1.jpg",
+            url: "http://broadcast.infomaniak.ch/ch1-64.aac"
+        },
+        {
+            name: "Chaîne 2",
+            logo: "stations/images-europe/algier/Chaîne 2.jpg",
+            url: "http://broadcast.infomaniak.ch/ch2-64.aac"
+        },
+        {
+            name: "Chaîne 3",
+            logo: "stations/images-europe/algier/Chaîne 3.jpg",
+            url: "http://broadcast.infomaniak.ch/ch3-64.aac"
+        },
+        {
+            name: "Radio Algérie Internationale",
+            logo: "stations/images-europe/algier/Radio Algérie Internationale.jpg",
+            url: "http://rai.ice.infomaniak.ch/rai-64.aac"
+        }
+    ],
     "andorra": [
         {
             name: "Andorra Difusió RNA",
@@ -1799,7 +1821,7 @@ var stations = {
         {
             name: "Radio Dimensione Suono (RDS)",
             logo: "stations/images-europe/italy/Radio Dimensione Suono (RDS).png",
-            url: "https://stream.rds.radio/rds/app128.stream/playlist.m3u8"
+            url: "https://580e24eaf03c8.streamlock.net/live/rds64k.stream/playlist.m3u8"
         },
         {
             name: "Radio Freccia",
@@ -2955,6 +2977,28 @@ var stations = {
             logo: "stations/images-europe/switzerland-it/Radio Fiume Ticino.jpg",
             url: "http://178.209.40.106:8002/stream"
         },
+    ],
+    "tunis": [
+        {
+            name: "Mosaïque FM",
+            logo: "stations/images-europe/tunis/Mosaïque FM.jpg",
+            url: "http://radio.mosaiquefm.net:8000/mosalives"
+        },
+        {
+            name: "RTT Radio Tunis Chaîne Internationale",
+            logo: "stations/images-europe/tunis/RTT Radio Tunis Chaîne Internationale.jpg",
+            url: "http://rtstream.tanitweb.com/jeunes"
+        },
+        {
+            name: "Radio iFM",
+            logo: "stations/images-europe/tunis/Radio iFM.jpg",
+            url: "http://www.ifm.tn:8000/direct"
+        },
+        {
+            name: "RTT Radio Nationale",
+            logo: "stations/images-europe/tunis/RTT Radio Nationale.jpg",
+            url: "http://rtstream.tanitweb.com/nationale"
+        }
     ],
     "turkey": [
         {
