@@ -4758,6 +4758,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/light praise.png",
             url: "http://stream.ktlf.org:8000/KTLF-LO"
         },
+        {
+            name: "KOA NewsRadio 850 AM",
+            logo: "stations/images-america/c2c/KOA NewsRadio 850 AM.png",
+            url: "https://c8.prod.playlists.ihrhls.com/389_icy"
+        },
     ],
     "limon": [
         {
@@ -7374,6 +7379,11 @@ var stations_c2c = {
             name: "High Plains Public Radio",
             logo: "stations/images-america/c2c/High Plains Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2.mp3"
+        },
+        {
+            name: "Z98",
+            logo: "stations/images-america/c2c/Z98.png",
+            url: "http://ice23.securenetsystems.net/KSKZ"
         },
     ],
     "greatbend_ks": [
