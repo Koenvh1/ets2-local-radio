@@ -2982,7 +2982,7 @@ var stations = {
         {
             name: "Mosaïque FM",
             logo: "stations/images-europe/tunis/Mosaïque FM.jpg",
-            url: "http://radio.mosaiquefm.net:8000/mosalives"
+            url: "https://radio.mosaiquefm.net/mosalive"
         },
         {
             name: "RTT Radio Tunis Chaîne Internationale",
