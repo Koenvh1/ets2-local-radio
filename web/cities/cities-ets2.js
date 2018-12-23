@@ -5,6 +5,12 @@
         code: "ax",
         relative_radius: 0.4,
     },
+    "algier": {
+        name: "الجزائر",
+        name_english: "Algeria",
+        code: "dz",
+        relative_radius: 1, 
+    },
     "andorra": {
         name: "Andorra",
         name_english: "Andorra",
@@ -382,6 +388,12 @@
         name_english: "Switzerland (IT)",
         code: "ch",
         relative_radius: 0.8,
+    },
+    "tunis": {
+        name: "تونس",
+        name_english: "Tunisia",
+        code: "tn",
+        relative_radius: 1,
     },
     "turkey": {
         name: "Türkiye",
@@ -7572,6 +7584,178 @@ var cities_italy_map = [
     }
 ];
 
+var cities_afromap = [
+    {
+        "gameName": "algiers",
+        "realName": "Algiers",
+        "country": "algier",
+        "x": "-38215.8",
+        "y": "50.1367",
+        "z": "76472"
+    },
+    {
+        "gameName": "annaba",
+        "realName": "Annaba",
+        "country": "algier",
+        "x": "-16670.2",
+        "y": "50",
+        "z": "75892.2"
+    },
+    {
+        "gameName": "bizerte",
+        "realName": "Bizerte",
+        "country": "tunis",
+        "x": "-7092.85",
+        "y": "42.9297",
+        "z": "74232"
+    },
+    {
+        "gameName": "constantine",
+        "realName": "Constantine",
+        "country": "algier",
+        "x": "-21670.3",
+        "y": "50",
+        "z": "79061.1"
+    },
+    {
+        "gameName": "el_alia",
+        "realName": "El_Alia",
+        "country": "tunis",
+        "x": "-6069.74",
+        "y": "42.9336",
+        "z": "74757"
+    },
+    {
+        "gameName": "el_kala",
+        "realName": "El Kala",
+        "country": "algier",
+        "x": "-13360.3",
+        "y": "49.1172",
+        "z": "76308.9"
+    },
+    {
+        "gameName": "el_kef",
+        "realName": "El kef",
+        "country": "tunis",
+        "x": "-12123",
+        "y": "47.6797",
+        "z": "79825.3"
+    },
+    {
+        "gameName": "gabes",
+        "realName": "Gabes",
+        "country": "tunis",
+        "x": "-5781.2",
+        "y": "49.6641",
+        "z": "91105.4"
+    },
+    {
+        "gameName": "gafsa",
+        "realName": "Gafsa",
+        "country": "tunis",
+        "x": "-12289.6",
+        "y": "50.1602",
+        "z": "88399.2"
+    },
+    {
+        "gameName": "hammamet",
+        "realName": "Hammamet",
+        "country": "tunis",
+        "x": "-3332.37",
+        "y": "46.7656",
+        "z": "78747.1"
+    },
+    {
+        "gameName": "houmt_souk",
+        "realName": "Houmt Souk",
+        "country": "tunis",
+        "x": "-2800.36",
+        "y": "50.1484",
+        "z": "91619.5"
+    },
+    {
+        "gameName": "kairouan",
+        "realName": "Kairouan",
+        "country": "tunis",
+        "x": "-6364.26",
+        "y": "55.8828",
+        "z": "82307.5"
+    },
+    {
+        "gameName": "kasserine",
+        "realName": "Kasserine",
+        "country": "tunis",
+        "x": "-12202.3",
+        "y": "48.7656",
+        "z": "85063.4"
+    },
+    {
+        "gameName": "medenine",
+        "realName": "Medenine",
+        "country": "tunis",
+        "x": "-3844.41",
+        "y": "44.043",
+        "z": "93878.2"
+    },
+    {
+        "gameName": "naftah",
+        "realName": "Naftah",
+        "country": "tunis",
+        "x": "-16572.2",
+        "y": "50",
+        "z": "91096.1"
+    },
+    {
+        "gameName": "qibilt",
+        "realName": "Qibilt",
+        "country": "tunis",
+        "x": "-11888.3",
+        "y": "50",
+        "z": "91866.5"
+    },
+    {
+        "gameName": "sfax",
+        "realName": "Sfax",
+        "country": "tunis",
+        "x": "-2305.61",
+        "y": "46.8633",
+        "z": "86277.7"
+    },
+    {
+        "gameName": "skikda",
+        "realName": "Skikda",
+        "country": "algier",
+        "x": "-20611.9",
+        "y": "50",
+        "z": "76010.8"
+    },
+    {
+        "gameName": "souk_ahras",
+        "realName": "Souk ahras",
+        "country": "algier",
+        "x": "-15639.2",
+        "y": "46.5117",
+        "z": "79294.3"
+    },
+    {
+        "gameName": "sousse",
+        "realName": "Sousse",
+        "country": "tunis",
+        "x": "-3402.8",
+        "y": "45.6875",
+        "z": "81410.8"
+    },
+    {
+        "gameName": "tunis",
+        "realName": "Tunis",
+        "country": "tunis",
+        "x": "-5537.71",
+        "y": "42.9297",
+        "z": "76705.7"
+    }
+];
+
+
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_wip); //WIP cities
@@ -7580,6 +7764,7 @@ cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_italy_map); //Italy Map
 cities = cities.concat(cities_kz); //The Great Steppe
+cities = cities.concat(cities_afromap); //AfroMap
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
