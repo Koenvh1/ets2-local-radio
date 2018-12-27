@@ -11,7 +11,7 @@ $(document).ready(function () {
 });
 
 function initPeer() {
-    peer = new Peer(id, {host: "peerjs-local-radio.herokuapp.com", port: 80, path: "/", debug: 3});
+    peer = new Peer("localradio" + id);
     $(".peer-id").html(id);
 
     //Receive message logic
@@ -99,7 +99,7 @@ function connect(peerID) {
             'background-color': 'red'
         });
     }
-    conn = peer.connect(peerID);
+    conn = peer.connect("localradio" + peerID);
     conn.on('open', function () {
         conn.send(JSON.stringify({
             type: "connect",
