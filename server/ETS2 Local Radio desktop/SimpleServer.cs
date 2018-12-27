@@ -174,6 +174,8 @@ namespace ETS2_Local_Radio_server
 
         private void Process(HttpListenerContext context)
         {
+            context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
+
             string filename = context.Request.Url.AbsolutePath;
             //Console.WriteLine(filename);
             if (filename.Contains("?"))
@@ -291,10 +293,8 @@ namespace ETS2_Local_Radio_server
                         ? mime
                         : "application/octet-stream";
                     context.Response.ContentLength64 = input.Length;
-                    context.Response.AddHeader("Date", DateTime.Now.ToString("r"));
-                    context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
-                    //context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
-
+                    //context.Response.AddHeader("Date", DateTime.Now.ToString("r"));
+                    //context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
                     byte[] buffer = new byte[1024 * 16];
                     int nbytes;
                     while ((nbytes = input.Read(buffer, 0, buffer.Length)) > 0)
