@@ -208,6 +208,9 @@ Just uninstall the overlay before starting the editor.
 ### The overlay is upside down in VR
 Close the server, open the `settings.json` file, and change `vr` to `true`.
 
+### The server won't start due to some SlimDX.dll problem
+Make sure that [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555) is installed.
+
 ### Something else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
