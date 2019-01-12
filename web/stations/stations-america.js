@@ -60,7 +60,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/albuquerque/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "Nash FM 92.3 KRST",
@@ -117,7 +117,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/artesia/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "Star 88",
@@ -439,7 +439,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/carlsbad_nm/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "K-LOVE",
@@ -3010,7 +3010,7 @@ var stations = {
         {
             name: "Family Life Radio 88.5",
             logo: "stations/images-america/tucson/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "NPR 89.1",
@@ -3137,7 +3137,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/tucumcari/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLRAAC.aac"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "K-LOVE",
@@ -7660,6 +7660,11 @@ var stations_c2c = {
             url: "http://ice9.securenetsystems.net/KSOK"
         },
         {
+            name: "Hot 103.9",
+            logo: "stations/images-america/c2c/Hot 103.9.png",
+            url: "https://17843.live.streamtheworld.com/KQXCFMAAC_SC"
+        },
+        {
             name: "104.5 The Fox",
             logo: "stations/images-america/c2c/KFXJ.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFXJFM.mp3"
@@ -9653,6 +9658,11 @@ var stations_c2c = {
             url: "http://209.147.224.151:8000/Valley"
         },
         {
+            name: "Q102",
+            logo: "stations/images-america/c2c/Q102.png",
+            url: "http://ice41.securenetsystems.net/WIQQ"
+        },
+        {
             name: "WGNL 104.3",
             logo: "stations/images-america/c2c/WGNLFM.jpg",
             url: "http://ice64.securenetsystems.net/WGNL"
@@ -9817,6 +9827,16 @@ var stations_c2c = {
             name: "Mix 98.7",
             logo: "stations/images-america/c2c/WJKK.png",
             url: "http://54.196.108.36/newsouth-wjkkfmaac-ibc3"
+        },
+        {
+            name: "G 100.9",
+            logo: "stations/images-america/c2c/G 100.9.png",
+            url: "https://prod-54-184-37-160.wostreaming.net/alphacorporate-wjxnfmaac-ibc4"
+        },
+        {
+            name: "Y101.7",
+            logo: "stations/images-america/c2c/Y101.7.png",
+            url: "http://54.82.44.170/newsouth-wyoyfmaac-ibc3"
         },
         {
             name: "105.1 The River",

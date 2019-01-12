@@ -326,7 +326,7 @@ var stations = {
         {
             name: "Bobar Radio",
             logo: "stations/images-europe/bosnia/Bobar Radio.png",
-            url: "http://streamingv2.shoutcast.com/bobarradio"
+            url: "http://94.130.11.28:9010/stream/1/"
         },
         {
             name: "Radiopostaja Mir Međugorje",
@@ -379,6 +379,11 @@ var stations = {
             name: "Radio Fresh",
             logo: "stations/images-europe/bulgaria/Radio Fresh.png",
             url: "http://193.108.24.21:8000/fresh"
+        },
+        {
+            name: "Радио Веселина",
+            logo: "stations/images-europe/bulgaria/Радио Веселина.png",
+            url: "https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8"
         },
         /*
         {
@@ -1954,17 +1959,17 @@ var stations = {
         {
             name: "LRT 1",
             logo: "stations/images-europe/lithuania/LRT 1.jpg",
-            url: "http://lrt-radijas.data.lt/lrt_radijas/radio/playlist.m3u8"
+            url: "https://radijas.lrt.lt/radijas/lrt_radijas_cam2/playlist.m3u8"
         },
         {
             name: "LRT Klasika",
             logo: "stations/images-europe/lithuania/LRT Klasika.png",
-            url: "http://lrt-klasika.data.lt/lrt_klasika/radio/playlist.m3u8"
+            url: "https://radijas.lrt.lt/radijas/lrt_klasika_cam1/playlist.m3u8"
         },
         {
             name: "LRT Opus",
             logo: "stations/images-europe/lithuania/LRT Opus.png",
-            url: "http://lrt-opus.data.lt/lrt_opus/radio/playlist.m3u8"
+            url: "https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8"
         },
         {
             name: "Lietus",
@@ -2340,6 +2345,11 @@ var stations = {
             logo: "stations/images-europe/norway/Radio Vinyl.jpg",
             url: "http://edge-bauerno-03-gos2.sharp-stream.com/vinyl_no_mp3"
         },
+        {
+            name: "Topp 40",
+            logo: "stations/images-europe/norway/Topp 40.jpg",
+            url: "https://live-bauerno.sharp-stream.com/top40_no_mp3"
+        },
     ],
     "poland": [
         {
@@ -2669,7 +2679,7 @@ var stations = {
         {
             name: "Europa 2",
             logo: "stations/images-europe/slovakia/Europa 2.png",
-            url: "http://pool.cdn.lagardere.cz/fm-europa2sk-128"
+            url: "http://stream.radioservices.sk:50008/europa2.mp3"
         },
         {
             name: "Fun rádio",
