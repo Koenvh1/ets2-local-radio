@@ -2558,7 +2558,7 @@ var stations = {
         {
             name: "Радио Ваня",
             logo: "stations/images-europe/russia/Радио Ваня.png",
-            url: "http://icecast-radiovanya.cdnvideo.ru/radiovanya"
+            url: "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
         },
         {
             name: "Радио Дача",
@@ -2583,7 +2583,7 @@ var stations = {
         {
             name: "Радио DFM",
             logo: "stations/images-europe/russia/Радио DFM.svg",
-            url: "http://icecast.radiodfm.cdnvideo.ru:8000/dfm_m.aac"
+            url: "https://dfmvideo.gcdn.co/streams/1410_651/playlist.m3u8"
         },
         {
             name: "Радио ENERGY",
@@ -2598,7 +2598,7 @@ var stations = {
         {
             name: "Русское Радио",
             logo: "stations/images-europe/russia/Русское Радио.png",
-            url: "http://icecast.russkoeradio.cdnvideo.ru:8000/rr_m.aac"
+            url: "https://rusradio.hostingradio.ru/rusradio96.aacp"
         },
         {
             name: "Эхо Москвы",
