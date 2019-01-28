@@ -518,7 +518,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/clovis/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLR.mp3"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "Radio by Grace",
@@ -2427,7 +2427,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/roswell/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLR.mp3"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "KHFM",

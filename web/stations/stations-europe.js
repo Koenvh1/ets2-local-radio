@@ -1446,7 +1446,7 @@ var stations = {
         {
             name: "bigFM",
             logo: "stations/images-europe/germany-swr/bigFM.svg",
-            url: "http://srv05.bigstreams.de/bigfm-mp3-96"
+            url: "https://streams.bigfm.de/bigfm-deutschland-128-mp3"
         },
         {
             name: "Die neue 107.7",
@@ -1636,7 +1636,7 @@ var stations = {
         {
             name: "Lindin",
             logo: "stations/images-europe/iceland/Lindin.png",
-            url: "https://cors-anywhere.herokuapp.com/http://213.190.100.119:80/live/lindin.stream/playlist.m3u8"
+            url: "http://62.145.147.50:8001/lindin"
         },
         {
             name: "Útvarp Saga",
@@ -1722,32 +1722,27 @@ var stations = {
         {
             name: "כאן ב",
             logo: "stations/images-europe/israel/KAN BET LAM.png",
-            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM"
+            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8"
         },
         {
             name: "כאן 88",
             logo: "stations/images-europe/israel/KAN 88 LAM.png",
-            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM"
+            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8"
         },
         {
             name: "כאן גימל",
             logo: "stations/images-europe/israel/KAN GIMMEL LAM.png",
-            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM"
-        },
-        {
-            name: "כאן מקאן",
-            logo: "stations/images-europe/israel/KAN MAKAN LAM.png",
-            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmakanradioLAM"
+            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8"
         },
         {
             name: "כאן תרבות",
             logo: "stations/images-europe/israel/KAN TARBUT LAM.png",
-            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM"
+            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8"
         },
         {
             name: "כאן קול המוסיקה",
             logo: "stations/images-europe/israel/KAN Kol HaMusika.png",
-            url: "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM"
+            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8"
         },
         /*
         {
@@ -1826,7 +1821,7 @@ var stations = {
         {
             name: "Radio Dimensione Suono (RDS)",
             logo: "stations/images-europe/italy/Radio Dimensione Suono (RDS).png",
-            url: "https://580e24eaf03c8.streamlock.net/live/rds64k.stream/playlist.m3u8"
+            url: "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8"
         },
         {
             name: "Radio Freccia",
@@ -1868,7 +1863,7 @@ var stations = {
         {
             name: "Авторадио",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
-            url: "http://89.106.235.181/AVTORADIO_256?1524596041330.mp3"
+            url: "http://95.56.234.40:8080/AVTORADIO_256?1548351534777.mp3"
         },
         {
             name: "Radio NS",
@@ -2456,7 +2451,7 @@ var stations = {
         {
             name: "SRR Radio România Actualitati",
             logo: "stations/images-europe/romania/SRR Radio România Actualitati.png",
-            url: "http://stream2.srr.ro:8002/;"
+            url: "http://stream2.srr.ro:8004/;"
         },
         {
             name: "SRR Radio România Cultural",
@@ -2555,11 +2550,13 @@ var stations = {
             logo: "stations/images-europe/russia/Комеди радио.png",
             url: "http://ic3.101.ru:8000/a202?userid=0&setst=825m68ucig22pol2p8lkrd9fi5"
         },
+        /*
         {
             name: "Радио Ваня",
             logo: "stations/images-europe/russia/Радио Ваня.png",
             url: "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
         },
+        */
         {
             name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача.png",
@@ -2885,6 +2882,11 @@ var stations = {
             name: "Rockklassiker",
             logo: "stations/images-europe/sweden/Rockklassiker.jpg",
             url: "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1531145879&companionsAds=true&listenerId=4809db15-af69-411c-821c-538ec4247a0b"
+        },
+        {
+            name: "Star FM",
+            logo: "stations/images-europe/sweden/Star FM.png",
+            url: "http://starfm.babahhcdn.com:8000/starfm"
         },
         {
             name: "Vinyl FM",
