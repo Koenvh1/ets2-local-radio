@@ -1654,14 +1654,6 @@ var cities = [
         "z": "-10454.6"
     },
     {
-        "gameName": "daugavpils",
-        "realName": "Daugavpils",
-        "country": "latvia",
-        "x": "53539.91",
-        "y": "6.33",
-        "z": "-31191.43"
-    },
-    {
         "gameName": "debrecen",
         "realName": "Debrecen",
         "country": "hungary",
@@ -2254,14 +2246,6 @@ var cities = [
         "z": "-29882.4"
     },
     {
-        "gameName": "helsinki",
-        "realName": "Helsinki",
-        "country": "finland",
-        "x": "44357.5",
-        "y": "137.906",
-        "z": "-55531.1"
-    },
-    {
         "gameName": "herning",
         "realName": "Herning",
         "country": "denmark",
@@ -2454,14 +2438,6 @@ var cities = [
         "z": "-67111.2"
     },
     {
-        "gameName": "kaliningrad",
-        "realName": "Калининград (Kaliningrad)",
-        "country": "russia",
-        "x": "34217.75",
-        "y": "15.35",
-        "z": "-22928.87"
-    },
-    {
         "gameName": "kalmar",
         "realName": "Kalmar",
         "country": "sweden",
@@ -2534,14 +2510,6 @@ var cities = [
         "z": "2458.83"
     },
     {
-        "gameName": "kaunas",
-        "realName": "Kaunas",
-        "country": "lithuania",
-        "x": "45413.9",
-        "y": "104",
-        "z": "-24878.1"
-    },
-    {
         "gameName": "keflavik",
         "realName": "Keflavík Airport",
         "country": "iceland",
@@ -2612,14 +2580,6 @@ var cities = [
         "x": "14001.3",
         "y": "49.6523",
         "z": "23027.6"
-    },
-    {
-        "gameName": "klaipeda",
-        "realName": "Klaipėda",
-        "country": "lithuania",
-        "x": "36096.1",
-        "y": "54",
-        "z": "-28599.8"
     },
     {
         "gameName": "klaksvik",
@@ -2772,14 +2732,6 @@ var cities = [
         "x": "38652.6",
         "y": "71.7383",
         "z": "-43361"
-    },
-    {
-        "gameName": "lahti",
-        "realName": "Lahti",
-        "country": "finland",
-        "x": "45112.6",
-        "y": "104.199",
-        "z": "-60580.5"
     },
     {
         "gameName": "lleida",
@@ -3166,14 +3118,6 @@ var cities = [
         "z": "38783.3"
     },
     {
-        "gameName": "narva",
-        "realName": "Narva",
-        "country": "estonia",
-        "x": "53978",
-        "y": "68.1758",
-        "z": "-52698.5"
-    },
-    {
         "gameName": "newcastle",
         "realName": "Newcastle-upon-Tyne",
         "country": "uk",
@@ -3430,14 +3374,6 @@ var cities = [
         "z": "-24340.2"
     },
     {
-        "gameName": "panevezys",
-        "realName": "Panevėžys",
-        "country": "lithuania",
-        "x": "46296.1",
-        "y": "111.961",
-        "z": "-30215.8"
-    },
-    {
         "gameName": "paris",
         "realName": "Paris",
         "country": "france",
@@ -3452,14 +3388,6 @@ var cities = [
         "x": "-2194.13",
         "y": "81.6328",
         "z": "32558.9"
-    },
-    {
-        "gameName": "parnu",
-        "realName": "Pärnu",
-        "country": "estonia",
-        "x": "44787.3",
-        "y": "74.5859",
-        "z": "-44526.4"
     },
     {
         "gameName": "pau",
@@ -3532,14 +3460,6 @@ var cities = [
         "x": "-60041.4",
         "y": "101.398",
         "z": "-7882.32"
-    },
-    {
-        "gameName": "pori",
-        "realName": "Pori",
-        "country": "finland",
-        "x": "34896.6",
-        "y": "109.898",
-        "z": "-61757.5"
     },
     {
         "gameName": "portree",
@@ -3662,28 +3582,12 @@ var cities = [
         "z": "-98482.6"
     },
     {
-        "gameName": "rezekne",
-        "realName": "Rēzekne",
-        "country": "latvia",
-        "x": "55267.1",
-        "y": "77.6953",
-        "z": "-35697.3"
-    },
-    {
         "gameName": "rijeka",
         "realName": "Rijeka",
         "country": "croatia",
         "x": "15136.11",
         "y": "30.21",
         "z": "31265.66"
-    },
-    {
-        "gameName": "riga",
-        "realName": "Rīga",
-        "country": "latvia",
-        "x": "44351.2",
-        "y": "68.1758",
-        "z": "-36490.8"
     },
     {
         "gameName": "rodbyhavn",
@@ -4030,36 +3934,12 @@ var cities = [
         "z": "24565.7"
     },
     {
-        "gameName": "tallinn",
-        "realName": "Tallinn",
-        "country": "estonia",
-        "x": "44770.9",
-        "y": "78.0703",
-        "z": "-50731.6"
-    },
-    {
-        "gameName": "tampere",
-        "realName": "Tampere",
-        "country": "finland",
-        "x": "40069.1",
-        "y": "137.168",
-        "z": "-62656.5"
-    },
-    {
         "gameName": "tanabru",
         "realName": "Tana Bru",
         "country": "norway",
         "x": "40732.64",
         "y": "34.43",
         "z": "-109981.67"
-    },
-    {
-        "gameName": "tartu",
-        "realName": "Tartu",
-        "country": "estonia",
-        "x": "51198.6",
-        "y": "72.8086",
-        "z": "-46116.1"
     },
     {
         "gameName": "taurage",
@@ -4156,14 +4036,6 @@ var cities = [
         "x": "41200.5",
         "y": "70.5703",
         "z": "-37187.2"
-    },
-    {
-        "gameName": "turku",
-        "realName": "Turku",
-        "country": "finland",
-        "x": "36549",
-        "y": "110.398",
-        "z": "-56133.1"
     },
     {
         "gameName": "uelzen",
@@ -4324,14 +4196,6 @@ var cities = [
         "x": "5089.88",
         "y": "77.8789",
         "z": "30078.9"
-    },
-    {
-        "gameName": "ventspils",
-        "realName": "Ventspils",
-        "country": "latvia",
-        "x": "36547.4",
-        "y": "59.9883",
-        "z": "-37959.7"
     },
     {
         "gameName": "verkhnetulom",
@@ -4569,14 +4433,6 @@ var cities_rusmap = [
         "z": "-15102.4"
     },
     {
-        "gameName": "kaluga",
-        "realName": "Kaluga",
-        "country": "russia",
-        "x": "86328.6",
-        "y": "67.8984",
-        "z": "-31348.2"
-    },
-    {
         "gameName": "kholm",
         "realName": "Kholm",
         "country": "russia",
@@ -4729,14 +4585,6 @@ var cities_rusmap = [
         "z": "-44016.8"
     },
     {
-        "gameName": "peterburg",
-        "realName": "Saint Petersburg",
-        "country": "russia",
-        "x": "60356.8",
-        "y": "96.6836",
-        "z": "-56936"
-    },
-    {
         "gameName": "pinsk",
         "realName": "Pinsk",
         "country": "belarus",
@@ -4751,14 +4599,6 @@ var cities_rusmap = [
         "x": "60948.5",
         "y": "72.5273",
         "z": "-44020.6"
-    },
-    {
-        "gameName": "pskov",
-        "realName": "Pskov",
-        "country": "russia",
-        "x": "56542.8",
-        "y": "71.1953",
-        "z": "-43761.7"
     },
     {
         "gameName": "rgev",
@@ -4903,14 +4743,6 @@ var cities_rusmap = [
         "x": "78418.8",
         "y": "43.2266",
         "z": "-33964.8"
-    },
-    {
-        "gameName": "vyborg",
-        "realName": "Vyborg",
-        "country": "russia",
-        "x": "55014",
-        "y": "101.477",
-        "z": "-59566.4"
     },
     {
         "gameName": "yukhnov",
@@ -5146,6 +4978,281 @@ var cities_fr = [
         "x": "-39213.8",
         "y": "82.1875",
         "z": "35665.6"
+    }
+];
+
+var cities_btbs = [
+    {
+        "gameName": "daugavpils",
+        "realName": "Daugavpils",
+        "country": "latvia",
+        "x": "53075.4",
+        "y": "66.3984",
+        "z": "-31905.7"
+    },
+    {
+        "gameName": "helsinki",
+        "realName": "Helsinki",
+        "country": "finland",
+        "x": "44945.4",
+        "y": "66.3984",
+        "z": "-55691.5"
+    },
+    {
+        "gameName": "kaliningrad",
+        "realName": "Калининград",
+        "country": "russia",
+        "x": "34365.2",
+        "y": "53.0039",
+        "z": "-23181.4"
+    },
+    {
+        "gameName": "kaunas",
+        "realName": "Kaunas",
+        "country": "lithuania",
+        "x": "45564",
+        "y": "66.3984",
+        "z": "-25347.7"
+    },
+    {
+        "gameName": "klaipeda",
+        "realName": "Klaipėda",
+        "country": "lithuania",
+        "x": "36342.8",
+        "y": "46.5234",
+        "z": "-28719.6"
+    },
+    {
+        "gameName": "kotka",
+        "realName": "Kotka",
+        "country": "finland",
+        "x": "50245.1",
+        "y": "61.7344",
+        "z": "-58045.7"
+    },
+    {
+        "gameName": "kouvola",
+        "realName": "Kouvola",
+        "country": "finland",
+        "x": "48776.3",
+        "y": "66.3984",
+        "z": "-60408.9"
+    },
+    {
+        "gameName": "kunda",
+        "realName": "Kunda",
+        "country": "estonia",
+        "x": "49785.3",
+        "y": "68.418",
+        "z": "-52304.7"
+    },
+    {
+        "gameName": "lahti",
+        "realName": "Lahti",
+        "country": "finland",
+        "x": "45529.8",
+        "y": "56.832",
+        "z": "-60557"
+    },
+    {
+        "gameName": "loviisa",
+        "realName": "Loviisa",
+        "country": "finland",
+        "x": "47717.4",
+        "y": "59.6953",
+        "z": "-57187.8"
+    },
+    {
+        "gameName": "luga",
+        "realName": "Луга",
+        "country": "russia",
+        "x": "60046.5",
+        "y": "69.3398",
+        "z": "-50045.2"
+    },
+    {
+        "gameName": "mazeikiai",
+        "realName": "Mažeikiai",
+        "country": "lithuania",
+        "x": "39434.4",
+        "y": "61.9336",
+        "z": "-32809.6"
+    },
+    {
+        "gameName": "naantali",
+        "realName": "Naantali",
+        "country": "finland",
+        "x": "35110.2",
+        "y": "60.5313",
+        "z": "-56362.4"
+    },
+    {
+        "gameName": "narva",
+        "realName": "Narva",
+        "country": "estonia",
+        "x": "54382.2",
+        "y": "66.3984",
+        "z": "-52462.3"
+    },
+    {
+        "gameName": "olkiluoto",
+        "realName": "Olkiluoto",
+        "country": "finland",
+        "x": "34255.3",
+        "y": "56.6211",
+        "z": "-60008.2"
+    },
+    {
+        "gameName": "paldiski",
+        "realName": "Paldiski",
+        "country": "estonia",
+        "x": "42570",
+        "y": "55.0625",
+        "z": "-50011.9"
+    },
+    {
+        "gameName": "panevezys",
+        "realName": "Panevėžys",
+        "country": "lithuania",
+        "x": "46202.3",
+        "y": "62.4883",
+        "z": "-29962.8"
+    },
+    {
+        "gameName": "parnu",
+        "realName": "Pärnu",
+        "country": "estonia",
+        "x": "44626.8",
+        "y": "66.3984",
+        "z": "-45237.7"
+    },
+    {
+        "gameName": "petersburg",
+        "realName": "Санкт-Петербург",
+        "country": "russia",
+        "x": "59773.8",
+        "y": "66.3984",
+        "z": "-57040.6"
+    },
+    {
+        "gameName": "pori",
+        "realName": "Pori",
+        "country": "finland",
+        "x": "34862.3",
+        "y": "50.6602",
+        "z": "-61707.6"
+    },
+    {
+        "gameName": "pskov",
+        "realName": "Псков",
+        "country": "russia",
+        "x": "56968.3",
+        "y": "66.3984",
+        "z": "-44002.4"
+    },
+    {
+        "gameName": "rezekne",
+        "realName": "Rēzekne",
+        "country": "latvia",
+        "x": "54953.4",
+        "y": "64",
+        "z": "-36075.6"
+    },
+    {
+        "gameName": "riga",
+        "realName": "Rīga",
+        "country": "latvia",
+        "x": "44678",
+        "y": "66.3984",
+        "z": "-37089.7"
+    },
+    {
+        "gameName": "siauliai",
+        "realName": "Šiauliai",
+        "country": "lithuania",
+        "x": "43188.8",
+        "y": "68.3125",
+        "z": "-30503.8"
+    },
+    {
+        "gameName": "sosnovy_bor",
+        "realName": "Сосновый Бор",
+        "country": "russia",
+        "x": "54949.1",
+        "y": "70.8008",
+        "z": "-54394.3"
+    },
+    {
+        "gameName": "tallinn",
+        "realName": "Tallinn",
+        "country": "estonia",
+        "x": "44388.5",
+        "y": "65.8672",
+        "z": "-50868.6"
+    },
+    {
+        "gameName": "tampere",
+        "realName": "Tampere",
+        "country": "finland",
+        "x": "40238.8",
+        "y": "66.2383",
+        "z": "-62490.7"
+    },
+    {
+        "gameName": "tartu",
+        "realName": "Tartu",
+        "country": "estonia",
+        "x": "50958",
+        "y": "66.3984",
+        "z": "-46408"
+    },
+    {
+        "gameName": "turku",
+        "realName": "Turku",
+        "country": "finland",
+        "x": "36697.8",
+        "y": "66.3984",
+        "z": "-56006"
+    },
+    {
+        "gameName": "utena",
+        "realName": "Utena",
+        "country": "lithuania",
+        "x": "50778.2",
+        "y": "56.9609",
+        "z": "-29540.4"
+    },
+    {
+        "gameName": "valmiera",
+        "realName": "Valmiera",
+        "country": "latvia",
+        "x": "47973.1",
+        "y": "61.4141",
+        "z": "-40783.7"
+    },
+    {
+        "gameName": "ventspils",
+        "realName": "Ventspils",
+        "country": "latvia",
+        "x": "36679.7",
+        "y": "57.4102",
+        "z": "-38562"
+    },
+    {
+        "gameName": "vilnius",
+        "realName": "Vilnius",
+        "country": "lithuania",
+        "x": "50562.6",
+        "y": "71.3984",
+        "z": "-24885.7"
+    },
+    {
+        "gameName": "vyborg",
+        "realName": "Выборг",
+        "country": "russia",
+        "x": "54465.3",
+        "y": "55.4805",
+        "z": "-60221.8"
     }
 ];
 
@@ -5974,14 +6081,6 @@ var cities_pm230 = [
         "x": "16524.2",
         "y": "59.4844",
         "z": "33485.5"
-    },
-    {
-        "gameName": "siauliai",
-        "realName": "Šiauliai",
-        "country": "lithuania",
-        "x": "42779.5",
-        "y": "90",
-        "z": "-31172.6"
     },
     {
         "gameName": "sibenik",
@@ -7762,7 +7861,8 @@ cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
-cities = cities.concat(cities_italy_map); //Italy Map
+cities = cities.concat(cities_btbs); //Beyond the Baltic Sea DLC
+cities = cities.concat(cities_italy_map); //Italy Map / Italy DLC
 cities = cities.concat(cities_kz); //The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
