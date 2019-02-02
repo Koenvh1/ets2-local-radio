@@ -2378,6 +2378,23 @@ var stations = {
             url: "http://ice10.securenetsystems.net:80/KRNO"
         },
     ],
+    "rome": [
+        {
+            name: "CSN",
+            logo: "stations/images-america/roswell/CSN.png",
+            url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "KIDO Talk Radio 107.5 580",
+            logo: "stations/images-america/c2c/KIDO Talk Radio 107.5 580.png",
+            url: "http://54.196.154.68/townsquare-kidoamaac-ibc3"
+        },
+        {
+            name: "670 KBOI",
+            logo: "stations/images-america/c2c/670 KBOI.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAM.mp3"
+        },
+    ],
     "roswell": [
         {
             name: "KJTV 950 AM",

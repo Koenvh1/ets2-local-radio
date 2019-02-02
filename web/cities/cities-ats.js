@@ -323,6 +323,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.3
     },
+    "rome": {
+        name: "Rome",
+        name_english: "Rome",
+        code: "us-or",
+        relative_radius: 1.3
+    },
     "roswell": {
         name: "Roswell",
         name_english: "Roswell",
@@ -1252,6 +1258,14 @@ var cities = [
         "x": "-98710",
         "y": "50",
         "z": "-51127.6"
+    },
+    {
+        "gameName": "rome",
+        "realName": "Rome",
+        "country": "oregon",
+        "x": "-89340",
+        "y": "62",
+        "z": "-32323.6"
     }
 ];
 
