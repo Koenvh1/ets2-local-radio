@@ -48,7 +48,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
         },
         {
-            name: "Family Life Radio 91.5",
+            name: "Family Life Radio",
             logo: "stations/images-america/albuquerque/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
@@ -187,7 +187,7 @@ var stations = {
             url: "http://18423.live.streamtheworld.com/KPAMAMAAC.aac"
         },
         {
-            name: "Oregon Public Broadcasting 89.7 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -234,7 +234,7 @@ var stations = {
             url: "http://ic1.christiannetcast.com/nuevavida"
         },
         {
-            name: "Family Radio West Coast 91.3",
+            name: "Family Radio West Coast",
             logo: "stations/images-america/bakersfield/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
@@ -340,7 +340,7 @@ var stations = {
             url: "http://kpov-ice.streamguys1.com/live"
         },
         {
-            name: "Oregon Public Broadcasting 91.3 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -387,12 +387,12 @@ var stations = {
             url: "http://sc1.christiannetcast.com:9112/;"
         },
         {
-            name: "Oregon Public Broadcasting 90.1 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
         {
-            name: "Effect Radio 90.5 FM",
+            name: "Effect Radio",
             logo: "stations/images-america/roswell/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
@@ -510,7 +510,7 @@ var stations = {
             url: "http://108.178.13.122:8164/stream"
         },
         {
-            name: "Capital Public Radio 90.5 FM",
+            name: "Capital Public Radio",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
@@ -619,12 +619,12 @@ var stations = {
             url: "http://kmhsam.coos-bay.k12.or.us:8000/kmhsam"
         },
         {
-            name: "KLCC 88.1 FM",
+            name: "KLCC",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
         {
-            name: "JPR Rhythm & News 88.5 FM",
+            name: "JPR Rhythm & News",
             logo: "stations/images-america/c2c/JPR Rhythm & News.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
@@ -676,7 +676,7 @@ var stations = {
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
-            name: "KNLB 89.3",
+            name: "KNLB",
             logo: "stations/images-america/ehrenberg/KNLB.png",
             url: "http://ic1.christiannetcast.com/knlb-fm"
         },
@@ -725,12 +725,12 @@ var stations = {
     ],
     "ely": [
         {
-            name: "KNPR 88.7",
+            name: "KNPR",
             logo: "stations/images-america/nevada/KNPR.svg",
             url: "http://66.209.79.122:8000/;"
         },
         {
-            name: "CSN 91.3",
+            name: "CSN",
             logo: "stations/images-america/camp_verde/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
@@ -824,12 +824,12 @@ var stations = {
             url: "http://ic2.mainstreamnetwork.com/kknx-fm"
         },
         {
-            name: "JPR News & Information 1280 AM",
+            name: "JPR News & Information",
             logo: "stations/images-america/c2c/JPR News & Information.png",
             url: "http://jpr.streamguys.org:80/jpr-news"
         },
         {
-            name: "Oregon Public Broadcasting 1600 AM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/c2c/Oregon Public Broadcasting.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -839,7 +839,7 @@ var stations = {
             url: "http://128.223.206.71:8000/;"
         },
         {
-            name: "KLCC 89.7 FM",
+            name: "KLCC",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
@@ -1252,7 +1252,7 @@ var stations = {
             url: "http://69.64.65.171:8192/rewind128"
         },
         {
-            name: "KNLB 88.1",
+            name: "KNLB",
             logo: "stations/images-america/holbrook/KNLB.png",
             url: "http://ic1.christiannetcast.com/knlb-fm"
         },
@@ -1279,13 +1279,13 @@ var stations = {
     ],
     "hornbrook": [
         {
-            name: "JPR Rhythm & News 89.1",
-            logo: "stations/images-america/hornbrook/107.5 Kiss FM.png",
+            name: "JPR Rhythm & News",
+            logo: "stations/images-america/hornbrook/Jefferson Public Radio 89.1.png",
             url: "http://jpr.streamguys.org/jpr-rhythm"
         },
         {
-            name: "JPR Classics & News 91.3",
-            logo: "stations/images-america/hornbrook/107.5 Kiss FM.png",
+            name: "JPR Classics & News",
+            logo: "stations/images-america/hornbrook/Jefferson Public Radio 89.1.png",
             url: "http://jpr.streamguys.org/jpr-classics"
         },
         {
@@ -1331,7 +1331,7 @@ var stations = {
     ],
     "huron": [
         {
-            name: "Family Radio 90.7",
+            name: "Family Radio West Coast",
             logo: "stations/images-america/huron/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
@@ -1341,7 +1341,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFM.mp3"
         },
         {
-            name: "K-LOVE 101.5",
+            name: "K-LOVE",
             logo: "stations/images-america/huron/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
@@ -1384,7 +1384,7 @@ var stations = {
         },
         {
             name: "89.3 KCRI",
-            logo: "stations/images-america/0_general_logos/KCRW.png",
+            logo: "stations/images-america/indio/KCRW.jpg",
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -1425,7 +1425,7 @@ var stations = {
     ],
     "jackpot": [
         {
-            name: "Effect Radio 88.9 FM",
+            name: "Effect Radio",
             logo: "stations/images-america/roswell/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
@@ -1520,7 +1520,7 @@ var stations = {
             url: "http://kteclive.oit.edu:8000/live.mp3"
         },
         {
-            name: "JPR Rhythm & News 90.9 FM",
+            name: "JPR Rhythm & News",
             logo: "stations/images-america/c2c/JPR Rhythm & News.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
@@ -1582,12 +1582,12 @@ var stations = {
             url: "http://s8.streammonster.com:8344/;"
         },
         {
-            name: "Oregon Public Broadcasting 88.7 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
         {
-            name: "Effect Radio 90.3 FM",
+            name: "Effect Radio",
             logo: "stations/images-america/roswell/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
@@ -1808,7 +1808,7 @@ var stations = {
             url: "http://c2icyelb.prod.playlists.ihrhls.com/185_icy"
         },
         {
-            name: "Evolution 102.7-HD2",
+            name: "Evolution",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
         },
@@ -1823,7 +1823,7 @@ var stations = {
             url: "https://c8.prod.playlists.ihrhls.com/173_icy"
         },
         {
-            name: "Pride Radio 104.3-HD2",
+            name: "Pride Radio",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
@@ -1865,12 +1865,12 @@ var stations = {
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
-            name: "JPR Rhythm & News 89.1 FM",
+            name: "JPR Rhythm & News",
             logo: "stations/images-america/c2c/JPR Rhythm & News.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
-            name: "JPR Classics & News 90.1 FM",
+            name: "JPR Classics & News",
             logo: "stations/images-america/c2c/JPR Classics & News.png",
             url: "http://jpr.streamguys.org:80/jpr-classics"
         },
@@ -1937,7 +1937,7 @@ var stations = {
             url: "http://68.116.40.122:88/broadwave.mp3"
         },
         {
-            name: "KLCC 89.7 FM",
+            name: "KLCC",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
@@ -2016,7 +2016,7 @@ var stations = {
     ],
     "oakdale": [
         {
-            name: "Capital Public Radio 91.3 FM",
+            name: "Capital Public Radio",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
@@ -2089,7 +2089,7 @@ var stations = {
         },
         {
             name: "90.5 The Edge",
-            logo: "stations/images-america/oakland/90.5 The Edge.gif",
+            logo: "stations/images-america/oakland/90.5 The Edge.jpg",
             url: "http://kvhs.smrn.com:5561/live"
         },
         {
@@ -2163,7 +2163,7 @@ var stations = {
         },
         {
             name: "KCRW 89.1",
-            logo: "stations/images-america/0_general_logos/KCRW.png",
+            logo: "stations/images-america/indio/KCRW.jpg",
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -2308,7 +2308,7 @@ var stations = {
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
-            name: "Oregon Public Broadcasting 90.9 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -2390,7 +2390,7 @@ var stations = {
             url: "http://104.236.170.236:8000/goldmineradiomp3"
         },
         {
-            name: "Family Radio 88.9",
+            name: "Family Radio West Coast",
             logo: "stations/images-america/phoenix/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
@@ -2430,7 +2430,7 @@ var stations = {
             url: "http://c11icyelb.prod.playlists.ihrhls.com/45_icy"
         },
         {
-            name: "Pride Radio 96.9-HD2",
+            name: "Pride Radio",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
@@ -2455,7 +2455,7 @@ var stations = {
             url: "https://c11.prod.playlists.ihrhls.com/61_icy"
         },
         {
-            name: "Evolution 104.7-HD2",
+            name: "Evolution",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
         },
@@ -2544,7 +2544,7 @@ var stations = {
             url: "http://ais-sa1.streamon.fm/7335_64k.aac"
         },
         {
-            name: "Oregon Public Broadcasting 91.5 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -2677,7 +2677,7 @@ var stations = {
             url: "http://66.209.79.122:8008/;"
         },
         {
-            name: "Capital Public Radio 90.5 FM",
+            name: "Capital Public Radio",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
@@ -2811,7 +2811,7 @@ var stations = {
             url: "http://50.31.186.115:80/kqedradio"
         },
         {
-            name: "Capital Public Radio 90.9 FM",
+            name: "Capital Public Radio",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
@@ -2866,7 +2866,7 @@ var stations = {
             url: "https://c2.prod.playlists.ihrhls.com/225_icy"
         },
         {
-            name: "Evolution 101.1-HD2",
+            name: "Evolution",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
         },
@@ -2913,7 +2913,7 @@ var stations = {
             url: "http://sc7.shoutcaststreaming.us:8010/;"
         },
         {
-            name: "KLCC 89.7 FM",
+            name: "KLCC",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
@@ -2923,7 +2923,7 @@ var stations = {
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
-            name: "Oregon Public Broadcasting 91.5 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -3186,7 +3186,7 @@ var stations = {
             url: "https://c13.prod.playlists.ihrhls.com/241_icy"
         },
         {
-            name: "Pride Radio 93.3-HD2",
+            name: "Pride Radio",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
@@ -3254,7 +3254,7 @@ var stations = {
         },
         {
             name: "KPOO-FM 89.5",
-            logo: "stations/images-america/san_francisco/KPOO 89.5.png",
+            logo: "stations/images-america/san_francisco/KPOO 89.5.jpg",
             url: "http://amber.streamguys.com:5220/xstream"
         },
         {
@@ -3283,6 +3283,16 @@ var stations = {
             url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
         },
         {
+            name: "Evolution",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
+        },
+        {
+            name: "ALT 94.9-HD3",
+            logo: "stations/images-america/san_francisco/ALT 94.9-HD3.png",
+            url: "https://c9.prod.playlists.ihrhls.com/4447_icy"
+        },
+        {
             name: "98.1 The Breeze",
             logo: "stations/images-america/san_francisco/98.1 The Breeze.png",
             url: "https://c4.prod.playlists.ihrhls.com/285_icy"
@@ -3291,6 +3301,11 @@ var stations = {
             name: "Star 101.3",
             logo: "stations/images-america/san_francisco/Star 101.3.png",
             url: "http://c10icyelb.prod.playlists.ihrhls.com/281_icy"
+        },
+        {
+            name: "Pride Radio",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
         {
             name: "102.9 KBLX",
@@ -3303,6 +3318,11 @@ var stations = {
             url: "https://c10.prod.playlists.ihrhls.com/4342_icy"
         },
         {
+            name: "Bloomberg 103.7-HD2",
+            logo: "stations/images-america/san_francisco/Bloomberg 103.7-HD2.png",
+            url: "https://c10.prod.playlists.ihrhls.com/301_icy"
+        },
+        {
             name: "104.5 KFOG",
             logo: "stations/images-america/san_francisco/104.5 KFOG.png",
             url: "http://14003.live.streamtheworld.com:80/KFOGFMAAC_SC"
@@ -3313,7 +3333,7 @@ var stations = {
             url: "https://c10.prod.playlists.ihrhls.com/293_icy"
         },
         {
-            name: "American Top 40 - KMEL-HD2",
+            name: "American Top 40 106.1-HD2",
             logo: "stations/images-america/san_francisco/American Top 40 - KMEL-HD2.png",
             url: "http://c2icyelb.prod.playlists.ihrhls.com/4802_icy"
         },
@@ -3321,6 +3341,16 @@ var stations = {
             name: "107.7 The Bone",
             logo: "stations/images-america/san_francisco/107.7 The Bone.png",
             url: "https://18233.live.streamtheworld.com/KSANFMAAC_SC"
+        },
+        {
+            name: "KNBR 107.7-HD2",
+            logo: "stations/images-america/san_francisco/KNBR 107.7-HD2.png",
+            url: "https://14023.live.streamtheworld.com/KNBRAMAAC_SC"
+        },
+        {
+            name: "1220 KDOW",
+            logo: "stations/images-america/san_francisco/1220 KDOW.png",
+            url: "http://18683.live.streamtheworld.com/KDOWAMAAC.aac"
         },
     ],
     "san_rafael": [
@@ -3373,7 +3403,7 @@ var stations = {
     ],
     "show_low": [
         {
-            name: "KNAU 90.7 FM",
+            name: "KNAU",
             logo: "stations/images-america/show_low/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
@@ -3442,7 +3472,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
         },
         {
-            name: "Relevant Radio 91.9",
+            name: "Relevant Radio",
             logo: "stations/images-america/socorro/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
@@ -3536,7 +3566,7 @@ var stations = {
             url: "https://allclassical-ice.streamguys.com/ac96kmp3"
         },
         {
-            name: "Oregon Public Broadcasting 89.7 FM",
+            name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -3546,19 +3576,19 @@ var stations = {
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
-            name: "K-LOVE 90.9 FM",
+            name: "K-LOVE",
             logo: "stations/images-america/tucumcari/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web"
         },
     ],
     "tonopah": [
         {
-            name: "CSN 89.5",
+            name: "CSN",
             logo: "stations/images-america/tonopah/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            name: "KNPR 91.7",
+            name: "KNPR",
             logo: "stations/images-america/nevada/KNPR.svg",
             url: "http://66.209.79.122:8000/;"
         },
@@ -3575,7 +3605,7 @@ var stations = {
             url: "http://108.178.13.122:8164/stream"
         },
         {
-            name: "Capital Public Radio 90.5",
+            name: "Capital Public Radio",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ.mp3"
         },
@@ -3590,7 +3620,7 @@ var stations = {
             url: "https://ice24.securenetsystems.net/ALT921"
         },
         {
-            name: "Relevant Radio 93.3",
+            name: "Relevant Radio",
             logo: "stations/images-america/roswell/Relevant Radio.png",
             url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
@@ -3637,7 +3667,7 @@ var stations = {
     ],
     "tucson": [
         {
-            name: "Family Life Radio 88.5",
+            name: "Family Life Radio",
             logo: "stations/images-america/tucson/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
@@ -6312,7 +6342,7 @@ var stations_c2c = {
         },
         {
             name: "Soft Rock 94.1",
-            logo: "http://www.softrock941.com/wp-content/uploads/sites/1053/2015/11/WMEZ-XMAS-EPS.png",
+            logo: "stations/images-america/c2c/WMEZ-XMAS-EPS.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMEZFM.mp3"
         },
         {
