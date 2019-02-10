@@ -331,7 +331,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -474,7 +474,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/carlsbad_nm/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web?tsid=undefined"
         },
         {
@@ -845,7 +845,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -1546,7 +1546,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -1861,7 +1861,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -2505,7 +2505,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -2919,7 +2919,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/portland/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
@@ -3192,7 +3192,7 @@ var stations = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/san_diego/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa010_mp3_high_web"
         },
         {
@@ -9931,7 +9931,7 @@ var stations_c2c = {
         },
         {
             name: "WMIS The River",
-            logo: "stations/images-america/c2c/WMIS.png",
+            logo: "stations/images-america/c2c/WMISFM.png",
             url: "http://wmisfm.com:8001/wmis.mp3"
         },
         {
@@ -13419,7 +13419,7 @@ var stations_c2c = {
         },
         {
             name: "Kaye 90.7",
-            logo: "stations/images-america/c2c/KAYEFM.png",
+            logo: "stations/images-america/c2c/Kaye 90.7.jpg",
             url: "http://radio.noc.edu/;stream.mp3"
         },
         {
@@ -15728,7 +15728,7 @@ var stations_c2c = {
         },
         {
             name: "Air1",
-            logo: "stations/images-america/san_diego/Air1.png",
+            logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa010_mp3_high_web"
         },
         {
@@ -16756,7 +16756,7 @@ var stations_c2c = {
         },
         {
             name: "94.5 Roxy",
-            logo: "stations/images-america/c2c/KRXYFM.jpg",
+            logo: "stations/images-america/c2c/94.5 Roxy.svg",
             url: "http://65.19.131.145/olympiabroadcasters-krxyfmaac-ibc2"
         },
         {
@@ -16766,7 +16766,7 @@ var stations_c2c = {
         },
         {
             name: "Mixx 96",
-            logo: "stations/images-america/c2c/KXXOFM.png",
+            logo: "stations/images-america/c2c/Mixx 96.png",
             url: "http://ice10.securenetsystems.net/KXXO"
         },
         {
@@ -16813,7 +16813,7 @@ var stations_c2c = {
         },
         {
             name: "KUBE 93.3",
-            logo: "stations/images-america/c2c/KUBEFM.png",
+            logo: "stations/images-america/c2c/KUBE 93.3.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/2577_icy"
         },
         {
@@ -16833,12 +16833,12 @@ var stations_c2c = {
         },
         {
             name: "Alt 96.5 HD2",
-            logo: "stations/images-america/c2c/KJAQHD2.png",
+            logo: "stations/images-america/c2c/Alt 96.5 HD2.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/6246_icy"
         },
         {
             name: "KIRO 97.3",
-            logo: "stations/images-america/c2c/KIROFM.jpg",
+            logo: "stations/images-america/c2c/KIRO 97.3.jpg",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC.aac"
         },
         {
@@ -16853,7 +16853,7 @@ var stations_c2c = {
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/c2c/KPLZFM.png",
+            logo: "stations/images-america/c2c/Star 101.5.png",
             url: "http://65.19.131.152/sinclair-kplzfmaac-ibc2"
         },
         {
@@ -16863,12 +16863,12 @@ var stations_c2c = {
         },
         {
             name: "Spirit 105.3",
-            logo: "stations/images-america/c2c/KCMSFM.png",
+            logo: "stations/images-america/c2c/Spirit 105.3.png",
             url: "http://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
             name: "106.1 Kiss FM",
-            logo: "stations/images-america/c2c/KBKSFM.png",
+            logo: "stations/images-america/c2c/106.1 Kiss FM.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/4257_icy"
         },
         {
@@ -16878,7 +16878,7 @@ var stations_c2c = {
         },
         {
             name: "AM 770 KTTH",
-            logo: "stations/images-america/c2c/KTTHAM.jpg",
+            logo: "stations/images-america/c2c/AM 770 KTTH.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAM.mp3"
         },
         {
