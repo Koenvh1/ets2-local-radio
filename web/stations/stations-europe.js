@@ -12,6 +12,33 @@ var stations = {
             url: "http://ice6.securenetsystems.net/STEELFM?playSessionID=F8DB637D-A3F9-8829-BBF2043C7F009883"
         },
     ],
+    "albania": [
+        {
+            name: "Radio Tirana 1",
+            logo: "stations/images-europe/albania/Radio Tirana 1.jpg",
+            url: "http://149.202.220.47:8888/radiotirana1"
+        },
+        {
+            name: "Radio Tirana 2",
+            logo: "stations/images-europe/albania/Radio Tirana 2.jpg",
+            url: "http://149.202.220.47:8888/radiotirana2"
+        },
+        {
+            name: "Radio Tirana 3",
+            logo: "stations/images-europe/albania/Radio Tirana 3.jpg",
+            url: "http://149.202.220.47:8888/radiotirana3"
+        },
+        {
+            name: "Top Albania Radio",
+            logo: "stations/images-europe/albania/Top Albania Radio.png",
+            url: "http://tar.stream.dev.al:9078/;"
+        },
+        {
+            name: "Top Gold",
+            logo: "stations/images-europe/albania/Top Gold.png",
+            url: "http://live.topgold.al:9080/;"
+        },
+    ],
     "algier": [
         {
             name: "Chaîne 1",
@@ -2445,6 +2472,48 @@ var stations = {
             name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
             url: "eskago/vox-fm"
+        },
+    ],
+    "portugal": [
+        {
+            name: "RTP Antena 1",
+            logo: "stations/images-europe/portugal/RTP Antena 1.png",
+            url: "http://radiocast.rtp.pt/antena180a.mp3"
+        },
+        {
+            name: "RTP Antena 2",
+            logo: "stations/images-europe/portugal/RTP Antena 2.png",
+            url: "http://radiocast.rtp.pt/antena280a.mp3"
+        },
+        {
+            name: "RTP Antena 3",
+            logo: "stations/images-europe/portugal/RTP Antena 3.png",
+            url: "http://radiocast.rtp.pt/antena380a.mp3"
+        },
+        {
+            name: "M80 Rádio",
+            logo: "stations/images-europe/portugal/M80 Rádio.svg",
+            url: "http://mcrwowza5.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8?rnd=22623.10219134147"
+        },
+        {
+            name: "Rádio Comercial",
+            logo: "stations/images-europe/portugal/Rádio Comercial.png",
+            url: "http://mcrwowza3.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8?rnd=36276.07556961788"
+        },
+        {
+            name: "Rádio Renascença",
+            logo: "stations/images-europe/portugal/Rádio Renascença.png",
+            url: "https://19573.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac?tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none"
+        },
+        {
+            name: "RFM",
+            logo: "stations/images-europe/portugal/RFM.png",
+            url: "https://19573.live.streamtheworld.com/RFMAAC.aac?tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none"
+        },
+        {
+            name: "TSF Rádio Notícias",
+            logo: "stations/images-europe/portugal/TSF Rádio Notícias.png",
+            url: "http://tsfdirecto.tsf.pt/tsfdirecto.mp3"
         },
     ],
     "romania": [
