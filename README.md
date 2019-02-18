@@ -91,6 +91,10 @@ Maybe, maybe not. You can always send in a request.
 * ATS maps will not be added unless you provide at least one station per new **city**.
 * ETS2 maps will not be added unless you provide at least one station per new **country**. 
 
+If you provide the cities and stations, then I will add them. For getting the cities, 
+see https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever/blob/master/README.md, for the stations, 
+see the custom stations example file for the format.
+
 Generally speaking, I (Koen) will maintain the stations for ETS2 and the ATS base game + DLCs.
 The map mods for ATS are maintained by:
 * Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
