@@ -1560,6 +1560,28 @@ var stations = {
             url: "http://streams.rpr1.de/rpr-ludwigshafen-128-aac"
         },
     ],
+    "gibraltar": [
+        {
+            name: "BFBS Gibraltar",
+            logo: "stations/images-europe/gibraltar/BFBS Gibraltar.png",
+            url: "https://tx.sharp-stream.com/http_live.php?i=ssvcbfbs7.aac&device=bfbs_gibraltar"
+        },
+        {
+            name: "BFBS Radio 2",
+            logo: "stations/images-europe/gibraltar/BFBS Radio 2.png",
+            url: "https://tx.sharp-stream.com/http_live.php?i=ssvcbfbs2.aac&device=bfbs_radio2"
+        },
+        {
+            name: "Radio Gibraltar",
+            logo: "stations/images-europe/gibraltar/Radio Gibraltar.jpg",
+            url: "http://37.123.118.13:8041/stream"
+        },
+        {
+            name: "Radio Gibraltar Plus",
+            logo: "stations/images-europe/gibraltar/Radio Gibraltar.jpg",
+            url: "http://s2.myradiostream.com:32910/;stream.nsv&type=mp3"
+        },
+    ],
     "greece": [
         {
             name: "ΕΡΤ Πρώτο Πρόγραμμα",

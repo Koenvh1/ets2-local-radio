@@ -197,6 +197,12 @@
         code: "de",
         relative_radius: 1,
     },
+    "gibraltar": {
+        name: "Gibraltar",
+        name_english: "Gibraltar",
+        code: "gi",
+        relative_radius: 1,
+    },
     "greece": {
         name: "Ελλάδα",
         name_english: "Greece",
@@ -7984,7 +7990,7 @@ var cities_tsm = [
     {
         "gameName": "gibraltar",
         "realName": "Gibraltar",
-        "country": "spain",
+        "country": "gibraltar",
         "x": "-79283.9",
         "y": "99.4922",
         "z": "69730.8"
