@@ -105,7 +105,7 @@ var stations = {
         {
             name: "103.3 eD FM",
             logo: "stations/images-america/albuquerque/103.3 eD FM.png",
-            url: "https://ice42.securenetsystems.net/KRKEFM"
+            url: "http://17853.live.streamtheworld.com/KDRFFM_SC"
         },
         {
             name: "104.1 The Edge",
@@ -3114,7 +3114,7 @@ var stations = {
         {
             name: "103.3 eD FM",
             logo: "stations/images-america/albuquerque/103.3 eD FM.png",
-            url: "https://ice42.securenetsystems.net/KRKEFM"
+            url: "http://17853.live.streamtheworld.com/KDRFFM_SC"
         },
         {
             name: "104.1 The Edge",

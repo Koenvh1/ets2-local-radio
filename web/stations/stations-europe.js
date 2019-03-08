@@ -586,7 +586,7 @@ var stations = {
         {
             name: "Country Radio",
             logo: "stations/images-europe/czech/Country Radio.png",
-            url: "http://icecast4.play.cz:443/country128.mp3"
+            url: "http://icecast4.play.cz/country128.mp3"
         },
         {
             name: "Evropa 2",
@@ -1891,6 +1891,11 @@ var stations = {
             name: "Radio Monte Carlo",
             logo: "stations/images-europe/italy/Radio Monte Carlo.png",
             url: "http://icecast.unitedradio.it/RMC.mp3"
+        },
+        {
+            name: "Radio Sportiva",
+            logo: "stations/images-europe/italy/Radio Sportiva.png",
+            url: "http://nr5.newradio.it:8545/aac80/sportiva"
         },
         {
             name: "RTL 102.5",
