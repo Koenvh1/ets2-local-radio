@@ -65,12 +65,12 @@ var stations = {
         {
             name: "Andorra Difusió RNA",
             logo: "stations/images-europe/andorra/AndorraDifusió.png",
-            url: "https://cors-anywhere.herokuapp.com/http://194.158.80.31:443/live/rna/playlist.m3u8"
+            url: "http://videos.rtva.ad:1935/live/rna/playlist.m3u8"
         },
         {
             name: "Andorra Difusió AM",
             logo: "stations/images-europe/andorra/AndorraDifusió.png",
-            url: "https://cors-anywhere.herokuapp.com/http://194.158.80.31:443/live/am/playlist.m3u8"
+            url: "http://videos.rtva.ad:1935/live/am/playlist.m3u8"
         },
         /*
         {
@@ -1054,7 +1054,7 @@ var stations = {
         {
             name: "Schlagerparadies",
             logo: "stations/images-europe/germany/Schlagerparadies.png",
-            url: "http://radio_de.schlagerparadies.de:30842/"
+            url: "http://surfmusik.radioschlagerparadies.de/schlagerparadies128k.mp3"
         },
         {
             name: "Schwarzwaldradio",
@@ -1339,7 +1339,7 @@ var stations = {
         {
             name: "Antenne Niedersachsen",
             logo: "stations/images-europe/germany-ndr/Antenne Niedersachsen.png",
-            url: "http://antenne-nds.hoerradar.de/mp3-128_antenne-nds?sABC=584s32p8%230%230p943sq4psrqo414468p79n46rsqpr05%23yvfgrayvir&amsparams=playerid:listenlive;skey:1481585352"
+            url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
         },
         {
             name: "FFN",
@@ -1891,6 +1891,11 @@ var stations = {
             name: "Radio Monte Carlo",
             logo: "stations/images-europe/italy/Radio Monte Carlo.png",
             url: "http://icecast.unitedradio.it/RMC.mp3"
+        },
+        {
+            name: "Radio Radicale",
+            logo: "stations/images-europe/italy/Radio Radicale.png",
+            url: "https://live.radioradicale.it/live.mp3"
         },
         {
             name: "Radio Sportiva",
@@ -2642,6 +2647,11 @@ var stations = {
             url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
         },
         {
+            name: "Новое Радио",
+            logo: "stations/images-europe/russia/Новое Радио.png",
+            url: "http://emgspb.hostingradio.ru/novoespb128.mp3"
+        },
+        {
             name: "Комеди радио",
             logo: "stations/images-europe/russia/Комеди радио.png",
             url: "http://ic3.101.ru:8000/a202?userid=0&setst=825m68ucig22pol2p8lkrd9fi5"
@@ -3303,12 +3313,12 @@ var stations = {
         {
             name: "UR-1",
             logo: "stations/images-europe/ukraine/UR-1.png",
-            url: "http://nrcu.gov.ua:8000/ur1-mp3"
+            url: "http://radio.nrcu.gov.ua:8000/ur1-mp3"
         },
         {
             name: "UR-2",
             logo: "stations/images-europe/ukraine/UR-2.jpg",
-            url: "http://nrcu.gov.ua:8000/ur2-mp3"
+            url: "http://radio.nrcu.gov.ua:8000/ur2-mp3"
         },
         {
             name: "Авто Радіо",

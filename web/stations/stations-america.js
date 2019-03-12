@@ -216,7 +216,7 @@ var stations = {
         {
             name: "88.3 LifeFM",
             logo: "stations/images-america/bakersfield/KAXL.png",
-            url: "http://50.22.253.45:80/kaxl-fm"
+            url: "http://listen.kaxl.com:8000/streaming"
         },
         {
             name: "KVPR 89.1",
@@ -426,7 +426,7 @@ var stations = {
         {
             name: "KKLD",
             logo: "stations/images-america/camp_verde/KKLD.png",
-            url: "http://icy3.abacast.com/yavapai-kkldfmaac-64"
+            url: "http://54.82.27.224/yavapai-kkldfmaac-ibc1"
         },
         {
             name: "Magic 99.1",
@@ -436,7 +436,7 @@ var stations = {
         {
             name: "KVRD 105.7",
             logo: "stations/images-america/camp_verde/KVRD.png",
-            url: "http://icy3.abacast.com:80/yavapai-kvrdfmaac-64"
+            url: "http://54.82.27.224/yavapai-kvrdfmmp3-ibc1?session-id=554b3ec45b5b6506e0d3839f2866997d&source=streema"
         },
         {
             name: "Hits 106",
@@ -579,12 +579,12 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/clovis/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLR.mp3"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "Radio by Grace",
             logo: "stations/images-america/clovis/Radio by Grace.png",
-            url: "http://radiobygrace.streamguys1.com/radiobygrace-browser.aac"
+            url: "http://radiobygrace.streamguys1.com/radiobygrace.mp3"
         },
         {
             name: "KSEL",
@@ -656,7 +656,7 @@ var stations = {
         {
             name: "Best Country 103",
             logo: "stations/images-america/coos_bay/Best Country 103.png",
-            url: "http://54.188.153.142/brooke-krsbfmaac-ibc4"
+            url: "http://54.184.37.160/brooke-krsbfmaac-ibc4?session-id=c85ae2ff301d00b6dfb53836112d0128-66703136707162766772616d34616471&source=v6player&sbmd=1&user-id=c85ae2ff301d00b6dfb53836112d0128"
         },
         {
             name: "104.5 Sam FM",
@@ -698,7 +698,7 @@ var stations = {
         {
             name: "KNTR 980 AM",
             logo: "stations/images-america/ehrenberg/KNTR.png",
-            url: "http://50.22.253.46/kntr-am"
+            url: "http://ic2.mainstreamnetwork.com/kntr-am"
         },
         {
             name: "KLPZ 1380 AM",
@@ -821,7 +821,7 @@ var stations = {
         {
             name: "Solid Gold Radio 84",
             logo: "stations/images-america/eugene/Solid Gold Radio 84.jpg",
-            url: "http://ic2.mainstreamnetwork.com/kknx-fm"
+            url: "http://173.193.205.96:7154/stream"
         },
         {
             name: "JPR News & Information",
@@ -980,7 +980,7 @@ var stations = {
         {
             name: "KYCC 91.3",
             logo: "stations/images-america/farmington/KYCC.png",
-            url: "http://50.22.253.45:80/kycc-fm"
+            url: "http://147.135.84.27/kycc-fm"
         },
         {
             name: "KTGW 91.7",
@@ -1012,7 +1012,7 @@ var stations = {
         {
             name: "XRock 105.3",
             logo: "stations/images-america/farmington/XRock 105.3.png",
-            url: "http://ice6.securenetsystems.net/KXRC"
+            url: "https://ice6.securenetsystems.net/KXRC?playSessionID=891FBE9A-ADE1-514D-1955F6E90D01A649"
         },
         {
             name: "KLJH 107.1",
@@ -1054,12 +1054,12 @@ var stations = {
         {
             name: "KVNA",
             logo: "stations/images-america/flagstaff/KVNA.png",
-            url: "http://icy3.abacast.com:80/yavapai-kvnafmaac-64"
+            url: "http://54.82.27.224/yavapai-kvnafmaac-ibc1?session-id=c85ae2ff301d00b6dfb53836112d0128-3536666a61323969376d7534346b6934&source=v6player&sbmd=1&user-id=c85ae2ff301d00b6dfb53836112d0128"
         },
         {
             name: "Q102.9",
             logo: "stations/images-america/flagstaff/Q102.9.png",
-            url: "http://icy3.abacast.com/yavapai-kqstfmaac-64"
+            url: "https://live.wostreaming.net/direct/yavapai-kqstfmmp3-ibc1?source=tunegenie"
         },
         {
             name: "103.7 The Eagle Rocks",
@@ -1205,7 +1205,7 @@ var stations = {
         {
             name: "KNIZ",
             logo: "stations/images-america/gallup/KNIZ.png",
-            url: "http://108.163.223.242:8329/stream"
+            url: "http://69.175.94.98:8085/stream"
         },
         {
             name: "KGLP",
@@ -1321,7 +1321,7 @@ var stations = {
         {
             name: "95.7 KBOY",
             logo: "stations/images-america/medford/95.7 KBOY.png",
-            url: "http://17963.live.streamtheworld.com/KBOYFMAAC_SC"
+            url: "http://18813.live.streamtheworld.com/KBOYFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-009&tdsdk=js-2.9&banners=none&sbmid=238de2ed-18f1-43fc-bf0b-3594369fdf8a"
         },
         {
             name: "KIX 96",
@@ -2811,7 +2811,7 @@ var stations = {
         {
             name: "Family Life Radio",
             logo: "stations/images-america/roswell/Family Life Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/MYFLR.mp3"
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "KHFM",
