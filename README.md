@@ -91,6 +91,10 @@ Maybe, maybe not. You can always send in a request.
 * ATS maps will not be added unless you provide at least one station per new **city**.
 * ETS2 maps will not be added unless you provide at least one station per new **country**. 
 
+If you provide the cities and stations, then I will add them. For getting the cities, 
+see https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever/blob/master/README.md, for the stations, 
+see the custom stations example file for the format.
+
 Generally speaking, I (Koen) will maintain the stations for ETS2 and the ATS base game + DLCs.
 The map mods for ATS are maintained by:
 * Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
@@ -207,6 +211,9 @@ Just uninstall the overlay before starting the editor.
 
 ### The overlay is upside down in VR
 Close the server, open the `settings.json` file, and change `vr` to `true`.
+
+### The server won't start due to some SlimDX.dll problem
+Make sure that [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555) is installed.
 
 ### Something else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 

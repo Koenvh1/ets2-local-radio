@@ -7,7 +7,10 @@
 <body>
 <p>This is a test to check whether a station works in this browser (or not)</p>
 <p><audio src="" id="player" controls autoplay></audio></p>
-<p><button onclick="testStation()">Start</button> <button onclick="currentId++; testStation();">Manually go to next station</button> (Green = Working, Yellow = Timeout, Red = Broken)</p>
+<p>
+    <button onclick="testStation()">Start</button>
+    <button onclick="currentId++; testStation();">Manually go to next station</button>
+    (Green = Working, Yellow = Timeout, Red = Broken) | <span id="percentage"></span>% works.</p>
 <script src="lib/js/jquery-3.1.1.js"></script>
 <script src="lib/js/hls.js"></script>
 <!-- Behold the ugly fix to add both ATS and ETS2 stations: -->
@@ -39,6 +42,9 @@
     var interval = 0;
     var hls = new Hls();
 
+    var functioning = 1;
+    var nonfunctioning = 0;
+
     document.getElementById("player").volume = 0;
 
     var errorMessages = {
@@ -64,6 +70,8 @@
     $("#player").on("canplay", function (e) {
         if(ready) {
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "green");
+            functioning++;
+            showPercentage();
             if (currentId < $("#list>tr").length) {
                 clearInterval(interval);
                 currentId++;
@@ -76,7 +84,8 @@
         if(ready) {
             console.log(e.originalEvent.currentTarget.error);
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "red");
-            //$("#list>tr:nth-child(" + (currentId + 1) + ")>td:nth-child(3)").html(errorMessages[e.originalEvent.currentTarget.error.code]);
+            nonfunctioning++;
+            showPercentage();
             if (currentId < $("#list>tr").length) {
                 clearInterval(interval);
                 currentId++;
@@ -88,6 +97,10 @@
     $("tr").click(function (e) {
         console.log($(this).index());
     });
+
+    function showPercentage() {
+        $("#percentage").text(functioning / (functioning + nonfunctioning) * 100);
+    }
 
     function testStation() {
         var url = $("#list>tr:nth-child(" + (currentId + 1) + ")").attr("data-url");
@@ -101,17 +114,6 @@
                     "<img src='https://status.aws.amazon.com/images/status3.gif'>")
             + " NL ");
         });
-        // geoTest("US", url, function (data) {
-        //     $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
-        //         (data.valid ?
-        //             "<img src='https://status.aws.amazon.com/images/status0.gif'>" :
-        //             "<img src='https://status.aws.amazon.com/images/status3.gif'>")
-        //     + " US ");
-        //     if (!data.valid) {
-        //         console.log(data);
-        //     }
-        // });
-
 
         if (hls != null) {
             hls.detachMedia();
@@ -136,6 +138,8 @@
                 return;
             }
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "yellow");
+            nonfunctioning++;
+            showPercentage();
             if (currentId < $("#list>tr").length) {
                 clearInterval(interval);
                 currentId++;

@@ -11,6 +11,7 @@ using System.Threading;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace ETS2_Local_Radio_server
 {
@@ -174,6 +175,8 @@ namespace ETS2_Local_Radio_server
 
         private void Process(HttpListenerContext context)
         {
+            context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
+
             string filename = context.Request.Url.AbsolutePath;
             //Console.WriteLine(filename);
             if (filename.Contains("?"))
@@ -279,6 +282,32 @@ namespace ETS2_Local_Radio_server
                 context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
                 context.Response.OutputStream.Flush();
             }
+            else if (context.Request.Url.AbsolutePath.StartsWith("/eskago/"))
+            {
+                string station = context.Request.Url.AbsoluteUri;
+                station = WebUtility.UrlDecode(station);
+                station = station.Split(new string[] { "/eskago/" }, StringSplitOptions.None)[1];
+
+                HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://www.eskago.pl/radio/" + station);
+                request.AutomaticDecompression = DecompressionMethods.GZip;
+
+                using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+                using (Stream stream = response.GetResponseStream())
+                using (StreamReader reader = new StreamReader(stream))
+                {
+                    string data = reader.ReadToEnd();
+
+                    Regex streamRegex = new Regex(@".*streamUrl\s=\s'(.+)';.*");
+                    string baseUrl = streamRegex.Match(data).Groups[1].Value;
+
+                    Regex icsuRegex = new Regex(".*icsu\"\\svalue=\"(.+)\"\\s.*");
+                    string append = icsuRegex.Match(data).Groups[1].Value;
+
+                    context.Response.RedirectLocation = baseUrl + append;
+                    context.Response.StatusCode = 302;
+                    context.Response.OutputStream.Flush();
+                }
+            }
             else if (File.Exists(filename))
             {
                 try
@@ -291,10 +320,8 @@ namespace ETS2_Local_Radio_server
                         ? mime
                         : "application/octet-stream";
                     context.Response.ContentLength64 = input.Length;
-                    context.Response.AddHeader("Date", DateTime.Now.ToString("r"));
-                    context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
-                    //context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
-
+                    //context.Response.AddHeader("Date", DateTime.Now.ToString("r"));
+                    //context.Response.AddHeader("Last-Modified", System.IO.File.GetLastWriteTime(filename).ToString("r"));
                     byte[] buffer = new byte[1024 * 16];
                     int nbytes;
                     while ((nbytes = input.Read(buffer, 0, buffer.Length)) > 0)
