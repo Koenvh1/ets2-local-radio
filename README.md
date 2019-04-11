@@ -9,7 +9,7 @@ It does not include radio stations that you would not be able to receive over FM
 However, you can add those yourself if you so desire.
 
 **Supported maps:**  
-ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Region, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, The Great Steppe and Italy Map.  
+ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Region, TruckSim Map, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, YKSRSK*, Romania Extended*, The Great Steppe and Italy Map.  
 ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast, Canadream.  
 \*Disabled by default  
 
