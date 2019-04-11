@@ -2888,13 +2888,11 @@ var stations = {
             logo: "stations/images-europe/spain/Cadena Ser.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3"
         },
-        /*
         {
             name: "Cope",
             logo: "stations/images-europe/spain/Cope.png",
-            url: "http://195.55.74.206/copesedes/madrid.mp3"
+            url: "https://flucast-b04-06.flumotion.com/cope/madrid.mp3"
         },
-        */
         {
             name: "Europa FM",
             logo: "stations/images-europe/spain/Europa FM.png",

@@ -1059,7 +1059,7 @@ var stations = {
         {
             name: "Q102.9",
             logo: "stations/images-america/flagstaff/Q102.9.png",
-            url: "https://live.wostreaming.net/direct/yavapai-kqstfmmp3-ibc1?source=tunegenie"
+            url: "https://prod-54-82-27-224.wostreaming.net/yavapai-kqstfmmp3-ibc1"
         },
         {
             name: "103.7 The Eagle Rocks",
@@ -1435,7 +1435,7 @@ var stations = {
         {
             name: "KGAY 106.5",
             logo: "stations/images-america/indio/KGAY 106.5.png",
-            url: "http://ice10.securenetsystems.net/KVGH"
+            url: "https://ice9.securenetsystems.net/KGAY"
         },
         {
             name: "Z107.7",
@@ -14654,6 +14654,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/101.7 The Zoo Classic Rock KKZU.png",
             url: "https://ice5.securenetsystems.net/KKZU"
         },
+        {
+            name: "107 The Zone",
+            logo: "stations/images-america/c2c/107 The Zone.png",
+            url: "http://hemnos.cdnstream.com/1474_64"
+        },
     ],
     "enid": [
         {
@@ -17664,6 +17669,11 @@ var stations_c2c = {
             name: "KCCU",
             logo: "stations/images-america/c2c/KCCU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCCUFM.mp3"
+        },
+        {
+            name: "92.9 NIN",
+            logo: "stations/images-america/c2c/92.9 NIN.png",
+            url: "http://65.19.131.189/townsquare-kninfmaac-ibc3"
         },
         {
             name: "KSEY 94.3 FM",
