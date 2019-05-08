@@ -1,0 +1,22 @@
+﻿body.dark {
+    color: #ffffff;
+    background-color: #212121;
+}
+
+.dark .thumbnail {
+    background-color: #424242;
+    border: 1px solid #424242;
+}
+
+.dark .signal {
+    background-color: #373737;
+}
+
+.dark .btn-default {
+    background-color: #373737;
+}
+
+.dark .navbar-default {
+    background-color: #424242;
+    border-color: #424242;
+}

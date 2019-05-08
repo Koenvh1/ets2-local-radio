@@ -18,6 +18,7 @@
     "waiting-coordinates": "Waiting for your in-game coordinates...",
     "closest-city": "Closest city is: <span class='nearestCity'></span>, <span class='distance'></span> metres away",
     "amount-static": "Amount of static:",
+    "chgtheme": "Toggle Theme",
     "brightness": "Brightness:",
     "show-all": "Toggle show all",
     "enter-peerid-title": "Enter the PeerID",

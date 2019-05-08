@@ -12,7 +12,8 @@
     <link href="lib/css/font-awesome.css" type="text/css" rel="stylesheet">
     <link href="lib/css/bootstrap.css" type="text/css" rel="stylesheet">
     <link href="lib/css/music-controller.css" type="text/css" rel="stylesheet">
-    <link href="lib/css/light/style.css" id="style-theme" type="text/css" rel="stylesheet">
+    <link href="lib/css/style.css" type="text/css" rel="stylesheet">
+    <link href="lib/css/dark.css" type="text/css" rel="stylesheet">
     <script src="lib/js/hls.js"></script>
 
     <script src="lib/js/jquery-3.1.1.js"></script>
@@ -124,6 +125,7 @@
                         <span class="lang-amount-static">Amount of static:</span> <span class="whitenoise-volume"></span> |
                         PeerID: <span class="peer-id"></span> |
                         <span class="game">ets2</span> |
+                        <button onclick="toggleTheme();" id="themeToggle" class="btn btn-xs btn-primary lang-chgtheme">Switch Theme</button> |
                         <span class="lang-brightness">Brightness:</span>
                         <button onclick="$('.brightness').css('opacity', '+=0.05');" class="btn btn-xs btn-primary">-</button>
                         <button onclick="$('.brightness').css('opacity', '-=0.05');" class="btn btn-xs btn-primary">+</button> |
