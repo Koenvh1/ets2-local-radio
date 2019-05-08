@@ -60,10 +60,10 @@ function initialise() {
         localStorage.setItem("volume", 1);
     }
     if (localStorage.getItem("theme") == null) {
-        localStorage.setItem("theme", false);
+        localStorage.setItem("theme", "false");
     }
     g_volume = localStorage.getItem("volume");
-    g_darkThm = localStorage.getItem("theme");
+    g_darkThm = (localStorage.getItem("theme") == "true");
     g_whitenoise = g_skinConfig.whitenoise;
     $("#volumeControl").val(g_volume * 100);
     if (g_darkThm) {
@@ -746,7 +746,7 @@ function getBrowser() {
 
 function toggleTheme() {
   g_darkThm = !g_darkThm;
-  localStorage.setItem("theme", g_darkThm);
+  localStorage.setItem("theme", g_darkThm.toString());
 
   if (g_darkThm) {
     $('body').addClass('dark');
