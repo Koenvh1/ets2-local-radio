@@ -68,7 +68,7 @@ body {
 }
 
 .thumbnail-selected {
-    background-color: rgb(46, 187, 30);
+    background-color: rgb(46, 187, 30) !important;
     color: #ffffff;
 }
 
