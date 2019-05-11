@@ -18,6 +18,7 @@
         "waiting-coordinates": "Warte auf deine Spiel-Koordinaten...",
         "closest-city": "Die n\u00e4chste Stadt ist <span class='nearestCity'><\/span> und ist <span class='distance'><\/span> Meter entfernt",
         "amount-static": "St\u00e4rke des Rauschens:",
+        "chgtheme": "Design wechseln",
         "brightness": "Helligkeit:",
         "show-all": "Alle anzeigen an\/aus",
         "enter-peerid-title": "PeerID eingeben",

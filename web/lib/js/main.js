@@ -26,6 +26,8 @@ var g_hls = null;
 var g_last_command = "0";
 //show all radio stations:
 var g_show_all = false;
+//contains, wether darktheme is enabled or not
+var g_darkThm = false;
 
 function initialise() {
     console.log("Start init");
@@ -57,21 +59,19 @@ function initialise() {
     if (localStorage.getItem("volume") == null) {
         localStorage.setItem("volume", 1);
     }
+    if (localStorage.getItem("theme") == null) {
+        localStorage.setItem("theme", "false");
+    }
     g_volume = localStorage.getItem("volume");
+    g_darkThm = (localStorage.getItem("theme") == "true");
     g_whitenoise = g_skinConfig.whitenoise;
     $("#volumeControl").val(g_volume * 100);
+    if (g_darkThm) {
+      $('body').addClass('dark');
+    }
 
     refreshLanguage();
     refreshFavourites();
-
-    if(g_skinConfig.theme === "dark") {
-        $("#style-theme").remove();
-        $('<link />', {
-            id: 'style-theme',
-            rel: 'stylesheet',
-            href: 'lib/css/dark/style.css'
-        }).appendTo('head');
-    }
 
     setInterval(function () {
         $.getJSON("api/", function (data) {
@@ -742,4 +742,16 @@ function getBrowser() {
         edge: isEdge,
         chrome: isChrome
     };
+}
+
+function toggleTheme() {
+  g_darkThm = !g_darkThm;
+  localStorage.setItem("theme", g_darkThm.toString());
+
+  if (g_darkThm) {
+    $('body').addClass('dark');
+  }
+  else {
+    $('body').removeClass('dark');
+  }
 }
