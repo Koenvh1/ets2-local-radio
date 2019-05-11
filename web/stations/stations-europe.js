@@ -31,7 +31,7 @@ var stations = {
         {
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
-            url: "http://tar.stream.dev.al:9078/;"
+            url: "http://93.190.141.15:8452/;"
         },
         {
             name: "Top Gold",
@@ -336,7 +336,7 @@ var stations = {
         {
             name: "Nostalgie",
             logo: "stations/images-europe/belgium-fr/Nostalgie.png",
-            url: "http://nostalgiepremium.ice.infomaniak.ch/nostalgiepremium-128.mp3"
+            url: "https://streamingp.shoutcast.com/NostalgiePremium-mp3?aw_0_1st.playerid=nobe216web&aw_0_req.gdpr=true&&listenerid=1555254776"
         },
         {
             name: "NRJ",
@@ -549,8 +549,8 @@ var stations = {
         },
         {
             name: "Sunshine Radio",
-            logo: "stations/images-europe/cyprus/Sunshine Radio.png",
-            url: "http://streaming.sunshineradio.com/mp3"
+            logo: "stations/images-europe/cyprus/Sunshine Radio.webp",
+            url: "http://5.63.151.52:7172/stream/;stream.mp3?_=1"
         },
         /*
         {
@@ -1342,6 +1342,11 @@ var stations = {
             url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
         },
         {
+            name: "delta radio",
+            logo: "stations/images-europe/germany-ndr/delta radio.png",
+            url: "http://streams.deltaradio.de/delta-live/mp3-192/streams.deltaradio.de/"
+        },
+        {
             name: "FFN",
             logo: "stations/images-europe/germany-ndr/FFN.png",
             url: "http://stream.ffn.de/ffn/mp3-192/;stream.nsv"
@@ -1749,7 +1754,7 @@ var stations = {
         {
             name: "iRadio",
             logo: "stations/images-europe/ireland/iRadio.png",
-            url: "http://185.105.4.252:8090/iradioneweb"
+            url: "https://stream.audioxi.com/IRADNW"
         },
         {
             name: "News Talk 106-108 FM",
@@ -2382,7 +2387,7 @@ var stations = {
         {
             name: "NRJ",
             logo: "stations/images-europe/norway/NRJ.svg",
-            url: "http://stream.p4.no/nrj_mp3_mq"
+            url: "https://nrj.p4groupaudio.com/NRJ_MM"
         },
         {
             name: "Norsk pop",
@@ -2663,11 +2668,13 @@ var stations = {
             url: "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
         },
         */
+        /*
         {
             name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача.png",
-            url: "http://stream.radiodacha.ru/14_dacha_56?type=.aac&UID=4C8B9B2415CF97BEB65E0A5DF985DD3F"
+            url: "http://stream.radiodacha.ru/14_dacha_56?type=.aac&UID=4C8B9B2415CF97BEB64E0A5DF985DD3F"
         },
+         */
         {
             name: "Радио Родных Дорог",
             logo: "stations/images-europe/russia/Радио Родных Дорог.svg",
@@ -2861,17 +2868,17 @@ var stations = {
         {
             name: "RNE Radio Nacional",
             logo: "stations/images-europe/spain/RNE Radio Nacional.png",
-            url: "http://rtve-mp3-tunein.flumotion.com/rtve/rtve-rne-tunein.mp3"
+            url: "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8"
         },
         {
             name: "RNE Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "http://rtve-mp3-tunein.flumotion.com/rtve/rtve-radioclasica-tunein.mp3"
+            url: "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8"
         },
         {
             name: "RNE Radio 3",
             logo: "stations/images-europe/spain/RNE Radio 3.png",
-            url: "http://rtve-mp3-tunein.flumotion.com/rtve/rtve-radio3-tunein.mp3"
+            url: "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8"
         },
         {
             name: "Cadena 100",
@@ -2990,7 +2997,7 @@ var stations = {
         {
             name: "Star FM",
             logo: "stations/images-europe/sweden/Star FM.png",
-            url: "http://fm05-ice.stream.mtgr.se/fm05_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1549133797"
+            url: "http://fm05-ice.stream.khz.se/fm05_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1557586936"
         },
         {
             name: "Vinyl FM",

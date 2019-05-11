@@ -651,7 +651,7 @@ var stations = {
         {
             name: "i101 FM",
             logo: "stations/images-america/coos_bay/i101 FM.png",
-            url: "http://34.218.223.243/brooke-kskrfmaac-ibc4"
+            url: "http://34.210.8.5/brooke-kskrfmaac-ibc4"
         },
         {
             name: "Best Country 103",
@@ -721,6 +721,11 @@ var stations = {
             name: "KUNR Public Radio",
             logo: "stations/images-america/elko/KUNR.png",
             url: "http://108.178.13.122:8164/stream"
+        },
+        {
+            name: "My99.7 Spring Creek",
+            logo: "stations/images-america/elko/My99.7 Spring Creek.png",
+            url: "http://audio.deltecent.com:8000/My997"
         },
     ],
     "ely": [
@@ -7347,7 +7352,7 @@ var stations_c2c = {
         },
         {
             name: "VFX",
-            logo: "stations/images-america/c2c/KBLQFM.png",
+            logo: "stations/images-america/c2c/KVFXFM.png",
             url: "https://ice9.securenetsystems.net/KVFX"
         },
         {
