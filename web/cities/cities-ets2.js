@@ -6214,6 +6214,121 @@ var cities_pm230 = [
     }
 ];
 
+var cities_pm240 = [
+    {
+        "gameName": "alexandroup",
+        "realName": "Αλεξανδρούπολη",
+        "country": "greece",
+        "x": "64523.3",
+        "y": "72",
+        "z": "53170.4"
+    },
+    {
+        "gameName": "gusev",
+        "realName": "Гусев",
+        "country": "russia",
+        "x": "40194.3",
+        "y": "62.0273",
+        "z": "-22661.2"
+    },
+    {
+        "gameName": "hawes",
+        "realName": "Hawes",
+        "country": "uk",
+        "x": "-43473.4",
+        "y": "136.129",
+        "z": "-34247.8"
+    },
+    {
+        "gameName": "kavala",
+        "realName": "Καβάλα",
+        "country": "greece",
+        "x": "58022",
+        "y": "55",
+        "z": "52345.1"
+    },
+    {
+        "gameName": "kittila",
+        "realName": "Kittilä",
+        "country": "finland",
+        "x": "37949.4",
+        "y": "99.4102",
+        "z": "-96550.3"
+    },
+    {
+        "gameName": "ljugarn",
+        "realName": "Ljugarn",
+        "country": "sweden",
+        "x": "28080.7",
+        "y": "71.3711",
+        "z": "-37363"
+    },
+    {
+        "gameName": "olomouc",
+        "realName": "Olomouc",
+        "country": "czech",
+        "x": "25109.3",
+        "y": "135.613",
+        "z": "5928.35"
+    },
+    {
+        "gameName": "prilep",
+        "realName": "Прилеп",
+        "country": "macedonia",
+        "x": "44043.1",
+        "y": "116.777",
+        "z": "52264.5"
+    },
+    {
+        "gameName": "stornoway",
+        "realName": "Stornoway",
+        "country": "uk",
+        "x": "-52991.7",
+        "y": "71.0234",
+        "z": "-66994.5"
+    },
+    {
+        "gameName": "trnava",
+        "realName": "Trnava",
+        "country": "slovakia",
+        "x": "26441.8",
+        "y": "156.246",
+        "z": "13133.2"
+    },
+    {
+        "gameName": "vasaros",
+        "realName": "Vásárosnamény",
+        "country": "hungary",
+        "x": "42627",
+        "y": "125.223",
+        "z": "13498"
+    },
+    {
+        "gameName": "visby",
+        "realName": "Visby",
+        "country": "sweden",
+        "x": "26564",
+        "y": "76",
+        "z": "-39164.1"
+    },
+    {
+        "gameName": "ploce",
+        "realName": "Ploče",
+        "country": "croatia",
+        "x": "25548.5",
+        "y": "61.0547",
+        "z": "43802.6"
+    },
+    {
+        "gameName": "kappellskar",
+        "realName": "Kappelskär",
+        "country": "sweden",
+        "x": "28473.7",
+        "y": "60.4297",
+        "z": "-51357.2"
+    }
+];
+
 var cities_wip = [
     {
         "gameName": "ashdod",
@@ -9628,6 +9743,7 @@ var cities_romania_extended = [
 
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
+cities = cities.concat(cities_pm240); //ProMods 2.40 cities
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
