@@ -507,7 +507,7 @@ var stations = {
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/reno/KUNR 88.7.png",
-            url: "http://108.178.13.122:8164/stream"
+            url: "https://kunrstream.com:8443/live"
         },
         {
             name: "Capital Public Radio",
@@ -720,7 +720,7 @@ var stations = {
         {
             name: "KUNR Public Radio",
             logo: "stations/images-america/elko/KUNR.png",
-            url: "http://108.178.13.122:8164/stream"
+            url: "https://kunrstream.com:8443/live"
         },
         {
             name: "My99.7 Spring Creek",
@@ -2694,7 +2694,7 @@ var stations = {
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/reno/KUNR 88.7.png",
-            url: "http://108.178.13.122:8164/stream"
+            url: "https://kunrstream.com:8443/live"
         },
         {
             name: "NV89",
@@ -3627,7 +3627,7 @@ var stations = {
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/truckee/KUNR.png",
-            url: "http://108.178.13.122:8164/stream"
+            url: "https://kunrstream.com:8443/live"
         },
         {
             name: "Capital Public Radio",
@@ -3875,7 +3875,7 @@ var stations = {
         {
             name: "KUNR",
             logo: "stations/images-america/winnemucca/KUNR.png",
-            url: "http://108.178.13.122:8164/stream"
+            url: "https://kunrstream.com:8443/live"
         },
         /*
 		{
