@@ -112,7 +112,7 @@ body {
 
 .play-button {
     background-color: rgba(0, 0, 0, 0.6);
-    background-image: url('../../img/play-button.png');
+    background-image: url('../img/play-button.png');
     background-size: 50% auto;
     background-repeat: no-repeat;
     background-position: center;
