@@ -7,8 +7,8 @@
         "stop-playback": "Parar reproducion",
         "volume": "Volumen",
         "stations": "Radios:",
-        "microsoft-edge": "Si la reproduci\u00f3n se para cuando minimzas el navegador, entonces autoriza a Microsoft a funcionar en segundo plano en Opciones de Windows > Privacidad > Aplicaciones en segundo plano.",
         "unsupported-browser": "Puede que tu navegador no sea compatible con todas las radios. Por favor, abre ETS2 Local Radio en Mozilla Firefox o Microsoft Edge.",
+        "microsoft-edge": "Si la reproduci\u00f3n se para cuando minimzas el navegador, entonces autoriza a Microsoft a funcionar en segundo plano en Opciones de Windows > Privacidad > Aplicaciones en segundo plano.",
         "update-available": "Una actualization esta disponible",
         "update-now": "Actualizar ahora",
         "controlled-remotely": "El dispositivo esta siendo usado remotamente",
@@ -18,6 +18,7 @@
         "waiting-coordinates": "Esperando a recibir tus coordenadas en el juego...",
         "closest-city": "La ciudad mas cerca es: <span class='nearestCity'><\/span>, <span class='distance'><\/span> metros lejos",
         "amount-static": "Cantidad de estatica:",
+        "chgtheme": "Toggle theme",
         "brightness": "Brillo:",
         "show-all": "Mostrar todo",
         "enter-peerid-title": "Entre el PeerID",
@@ -51,8 +52,8 @@
         "install-plugin-ats": "Instalar plugin para\nAmerican Truck Simulator",
         "remove-plugin": "Eliminar plugin",
         "install-overlay": "\u00bfQuieres instalar la sobreposici\u00f3n en el juego ?\n(Esto reemplazar\u00e1 el archivo existente d3d9.dll, lo que puede causar posibles \"dej\u00f3 de funcionar\" al salir del juego)",
-        "ets2-folder-dialog": "Por favor elija la carpeta de instalaci\u00f3n de ETS2\/ATS, normalmente ubicado en: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "remove-overlay": "\u00bfQuieres eliminar la marca de dentro del juego? (Esto va a borrar cualquier archivo d3d9.dll)",
+        "ets2-folder-dialog": "Por favor elija la carpeta de instalaci\u00f3n de ETS2\/ATS, normalmente ubicado en: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "now-playing": "Est\u00e1s escuchando:"
     }
 }
