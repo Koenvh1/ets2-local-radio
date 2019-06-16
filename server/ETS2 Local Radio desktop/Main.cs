@@ -50,7 +50,7 @@ namespace ETS2_Local_Radio_server
         public static string removeOverlay =
             "Do you want to remove the in-game overlay?\n(This will remove any existing d3d9.dll)";
 
-        public static string currentGame = "ets2";
+        public static string currentGame = "none";
 
         public Main()
         {
@@ -258,9 +258,10 @@ namespace ETS2_Local_Radio_server
             {
                 try
                 {
-                    DialogResult result = MessageBox.Show(installOverlay, "ETS2 Local Radio server",
-                        MessageBoxButtons.YesNoCancel,
-                        MessageBoxIcon.Question);
+                    DialogResult result = DialogResult.No;
+                        //MessageBox.Show(installOverlay, "ETS2 Local Radio server",
+                        //MessageBoxButtons.YesNoCancel,
+                        //MessageBoxIcon.Question);
 
                     if (result != DialogResult.Cancel)
                     {
@@ -782,23 +783,35 @@ namespace ETS2_Local_Radio_server
 
         private void currentGameTimer_Tick(object sender, EventArgs e)
         {
-            if (currentGame != "ets2")
+            bool ets2Found = false;
+            bool atsFound = false;
+
+            if (Process.GetProcessesByName("eurotrucks2").Length > 0)
             {
-                if (Process.GetProcessesByName("eurotrucks2").Length > 0)
+                if (currentGame != "ets2")
                 {
                     currentGame = "ets2";
                     gameLabel.Text = "Euro Truck Simulator 2";
                     writeFile("game", "0", "0");
+                    Station.AttachProcess("eurotrucks2");
                 }
+                ets2Found = true;
             }
-            if (currentGame != "ats")
+            if (Process.GetProcessesByName("amtrucks").Length > 0)
             {
-                if (Process.GetProcessesByName("amtrucks").Length > 0)
+                if (currentGame != "ats")
                 {
                     currentGame = "ats";
                     gameLabel.Text = "American Truck Simulator";
                     writeFile("game", "0", "0");
+                    Station.AttachProcess("amtrucks");
                 }
+                atsFound = true;
+            }
+
+            if (!ets2Found && !atsFound)
+            {
+                currentGame = "none";
             }
         }
 
@@ -833,9 +846,10 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                DialogResult result = MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
-                    MessageBoxButtons.YesNoCancel,
-                    MessageBoxIcon.Question);
+                DialogResult result = DialogResult.No;
+                    //MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
+                    //MessageBoxButtons.YesNoCancel,
+                    //MessageBoxIcon.Question);
                 if (result != DialogResult.Cancel)
                 {
                     if (folderDialog.ShowDialog() == DialogResult.OK)

@@ -16,6 +16,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 using System.Windows.Forms;
+using Capture;
+using Capture.Hook;
+using Capture.Interface;
 using ETS2_Local_Radio_server.Properties;
 using Svg;
 
@@ -23,53 +26,24 @@ namespace ETS2_Local_Radio_server
 {
     static class Station
     {
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPSL_SetTextLineData(
-            byte cObjectNumber,
-            int wTextPosX,
-            int wTextPosY,
-            string pTextLine,
-            int dwTextColor,
-            bool bBlackBackground,
-            byte cSize,
-            bool bTextBold,
-            byte cFontFamily
-        );
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPSL_ShowText(
-            byte cObjectNumber,
-            bool bShowIt
-        );
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPPIC_LoadNewPicture(
-            string sPathToFile
-        );
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPPICI_LoadNewInternalPicture(
-            byte[] pData,
-            int uiDataSize
-        );
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPPIC_ShowPicturePos(
-            bool bShowIt,
-            int wPosX,
-            int wPosY
-        );
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPPICI_ShowInternalPicturePos(
-            bool bShowIt,
-            int wPosX,
-            int wPosY
-        );
+        [DllImport("user32.dll")]
+        public static extern bool GetWindowRect(IntPtr hwnd, ref Rect rectangle);
 
-        [DllImport("gpcomms.dll", SetLastError = true, CharSet = CharSet.Unicode)]
-        public static extern bool GPSI_GetScreenSize(
-            ref int piScreenX,
-            ref int piScreenY
-        );
+        public struct Rect
+        {
+            public int Left { get; set; }
+            public int Top { get; set; }
+            public int Right { get; set; }
+            public int Bottom { get; set; }
+        }
 
         public static string NowPlaying = "Now playing:";
         public static bool RTL = false;
+
+        public static int Width = 0;
+        public static int Height = 0;
+
+        public static CaptureProcess CaptureProcess = null;
 
         public static System.Timers.Timer Timer = new System.Timers.Timer();
 
@@ -79,19 +53,20 @@ namespace ETS2_Local_Radio_server
             {
                 if (Settings.Overlay)
                 {
-                    int width = 0, height = 0;
-                    GPSI_GetScreenSize(ref width, ref height);
-                    System.Threading.Thread.Sleep(10);
-                    GPSI_GetScreenSize(ref width, ref height);
-
-                    if (width == 0 || height == 0)
+                    if (CaptureProcess == null)
                     {
-                        width = Screen.PrimaryScreen.WorkingArea.Width;
-                        height = Screen.PrimaryScreen.WorkingArea.Height;
+                        AttachProcess(Main.currentGame == "ets2" ? "eurotrucks2" : "amtrucks");
+                        Log.Write("No capture process bound");
+                        if (CaptureProcess == null)
+                        {
+                            return;
+                        }
                     }
 
-                    //GPSL_SetTextLineData(0, 10, 10, name, Color.FromArgb(255, 174, 0).ToArgb(), false, 25, true, 0);
-                    //GPSL_ShowText(0, true);
+                    Rect rectangle = new Rect();
+                    GetWindowRect(CaptureProcess.Process.MainWindowHandle, ref rectangle);
+                    Width = rectangle.Right - rectangle.Left;
+                    Height = rectangle.Bottom - rectangle.Top;
 
                     Image bmp = new Bitmap(Resources.overlay_double);
 
@@ -129,7 +104,8 @@ namespace ETS2_Local_Radio_server
                     {
                         g.DrawString(name, font, brush, topLeft);
                         g.DrawString(NowPlaying, font, Brushes.White, new PointF(topLeft.X + nameSize.Width + nowPlayingSize.Width, topLeft.Y), new StringFormat { FormatFlags = StringFormatFlags.DirectionRightToLeft });
-                    } else
+                    }
+                    else
                     {
                         g.DrawString(name, font, brush, new PointF(topLeft.X + nowPlayingSize.Width, topLeft.Y));
                         g.DrawString(NowPlaying, font, Brushes.White, topLeft);
@@ -177,7 +153,7 @@ namespace ETS2_Local_Radio_server
                         //                @"\web\" + logoPath.Replace("/", "\\"));
                         try
                         {
-                            
+
                             if (logoPath.EndsWith("svg"))
                             {
                                 try
@@ -232,17 +208,35 @@ namespace ETS2_Local_Radio_server
                     //GPPICI_LoadNewInternalPicture(ms.ToArray(), (int) ms.Length);
                     //GPPICI_ShowInternalPicturePos(true, (width/2) - (Resources.overlay.Width/2), (height/4));
 
-                    bmp.Save(Directory.GetCurrentDirectory() + @"\overlay.png");
+                    //bmp.Save(Directory.GetCurrentDirectory() + @"\overlay.png");
 
-                    GPPIC_LoadNewPicture(Directory.GetCurrentDirectory() + @"\overlay.png");
-                    GPPIC_ShowPicturePos(true, (width / 2) - (bmp.Width / 2), (height / 4));
+                    //ImageConverter converter = new ImageConverter();
+                    //byte[] overlayImg = (byte[])converter.ConvertTo(Image.FromFile(Directory.GetCurrentDirectory() + @"\overlay.png"), typeof(byte[]));
+                    var overlay = new Capture.Hook.Common.Overlay
+                    {
+                        Elements = new List<Capture.Hook.Common.IOverlayElement>
+                        {
+                            new Capture.Hook.Common.ImageElement()
+                            {
+                                Location = new Point((Width / 2) - (bmp.Width / 2), (Height / 4)),
+                                Image = bmp.ToByteArray(System.Drawing.Imaging.ImageFormat.Png)
+                            }
+                        },
+                        Hidden = false
+                    };
+                    CaptureProcess.CaptureInterface.DrawOverlayInGame(overlay);
+                    //GPPIC_LoadNewPicture(Directory.GetCurrentDirectory() + @"\overlay.png");
+                    //GPPIC_ShowPicturePos(true, (width / 2) - (bmp.Width / 2), (height / 4));
 
                     Timer.Interval = 4000;
                     Timer.Elapsed += (sender, args) =>
                     {
                         Timer.Enabled = false;
                         Timer.Stop();
-                        GPPIC_ShowPicturePos(false, (width / 2) - (Resources.overlay.Width / 2), (height / 4));
+                        overlay.Hidden = true;
+                        Log.Write("Hide overlay");
+                        CaptureProcess.CaptureInterface.DrawOverlayInGame(overlay);
+                        //GPPIC_ShowPicturePos(false, (width / 2) - (Resources.overlay.Width / 2), (height / 4));
                         //GPPICI_ShowInternalPicturePos(false, (width/2) - (Resources.overlay.Width/2), (height/4));
                         //Log.Write("Hide overlay");
                     };
@@ -253,6 +247,47 @@ namespace ETS2_Local_Radio_server
             catch (Exception ex)
             {
                 Log.Write(ex.ToString());
+            }
+        }
+
+        public static void AttachProcess(string name)
+        {
+            if (CaptureProcess != null)
+            {
+                HookManager.RemoveHookedProcess(CaptureProcess.Process.Id);
+                CaptureProcess.CaptureInterface.Disconnect();
+                CaptureProcess = null;
+            }
+
+            try
+            {
+                Process[] processes = Process.GetProcessesByName(name);
+                foreach (Process p in processes)
+                {
+                    if (p.MainWindowHandle == IntPtr.Zero)
+                    {
+                        continue;
+                    }
+
+                    if (HookManager.IsHooked(p.Id))
+                    {
+                        continue;
+                    }
+
+                    CaptureConfig cc = new CaptureConfig()
+                    {
+                        Direct3DVersion = Direct3DVersion.AutoDetect,
+                        ShowOverlay = true
+                    };
+
+                    var captureInterface = new CaptureInterface();
+                    CaptureProcess = new CaptureProcess(p, cc, captureInterface);
+                }
+
+                Log.Write("Process attached: " + name + " (Width: " + Width + "; Height: " + Height + ")");
+            } catch (Exception e)
+            {
+                Log.Write(e.Message);
             }
         }
     }
