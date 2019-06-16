@@ -120,7 +120,7 @@ var stations = {
         {
             name: "Mix 105.1",
             logo: "stations/images-america/albuquerque/Mix 105.1.png",
-            url: "http://54.82.44.170/agmedia28-kkrgfmaac-ibc3"
+            url: "http://65.19.131.177/agmedia28-kkrgfmaac-ibc3"
         },
         {
             name: "Z106.3",
@@ -3129,7 +3129,7 @@ var stations = {
         {
             name: "Mix 105.1",
             logo: "stations/images-america/albuquerque/Mix 105.1.png",
-            url: "http://54.82.44.170/agmedia28-kkrgfmaac-ibc3"
+            url: "http://65.19.131.177/agmedia28-kkrgfmaac-ibc3"
         },
         {
             name: "KDCE 106.3",
@@ -8489,11 +8489,6 @@ var stations_c2c = {
             url: "http://5625.cloudrad.io:82/;"
         },
         {
-            name: "Mix 103.3",
-            logo: "stations/images-america/c2c/Mix 103.3.png",
-            url: "http://ice10.securenetsystems.net/KSOKAM"
-        },
-        {
             name: "The Patriot",
             logo: "stations/images-america/c2c/The Patriot.jpg",
             url: "http://162.244.80.222:9600/;"
@@ -11873,6 +11868,11 @@ var stations_c2c = {
             url: "http://ice6.securenetsystems.net:80/KLMB"
         },
         {
+            name: "Hot 101.9",
+            logo: "stations/images-america/c2c/Hot 101.9.png",
+            url: "http://benedettimedia.com:8000/KRSQFMM"
+        },
+        {
             name: "Cat Country 102.9",
             logo: "stations/images-america/c2c/KCTRFM.png",
             url: "http://stream.abacast.net/direct/townsquare-kctrfmaac-ibc3"
@@ -11946,6 +11946,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/KXTL 1370 94.7.jpg",
             url: "http://stream.abacast.net/direct/cherrycreek-kxtlamaac-ibc4"
         },
+        {
+            name: "Magic 97.7",
+            logo: "stations/images-america/c2c/Magic 97.7.png",
+            url: "http://butte.leanstream.co/KGLMFM"
+        },
     ],
     "dillon_mt": [
         {
@@ -11982,6 +11987,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/kyus 92.3.png",
             url: "http://ice6.securenetsystems.net/KYUS"
         },
+        {
+            name: "KATL 770AM",
+            logo: "stations/images-america/c2c/KATL 770AM.png",
+            url: "https://prod-3-94-166-127.wostreaming.net/katl-katlammp3-ibc1"
+        },
     ],
     "missoula": [
         {
@@ -12003,6 +12013,21 @@ var stations_c2c = {
             name: "Trail 103.3",
             logo: "stations/images-america/c2c/Trail 103.3.jpg",
             url: "http://ice9.securenetsystems.net/KDTR"
+        },
+        {
+            name: "U 104.5",
+            logo: "stations/images-america/c2c/U 104.5.png",
+            url: "https://ice9.securenetsystems.net/KKVU"
+        },
+        {
+            name: "Now 106.7",
+            logo: "stations/images-america/c2c/Now 106.7.png",
+            url: "http://stream.abacast.net/direct/cherrycreek-kxdrfmaac-ibc4"
+        },
+        {
+            name: "107.5 Zoo FM",
+            logo: "stations/images-america/c2c/107.5 Zoo FM.png",
+            url: "http://stream.abacast.net/direct/townsquare-kenrfmaac-ibc3"
         },
         {
             name: "1240 KLYQ",
@@ -13867,6 +13892,11 @@ var stations_c2c = {
             name: "KEYZ 660 News Radio",
             logo: "stations/images-america/c2c/KEYZ 660 News Radio.png",
             url: "http://stream.abacast.net/direct/cherrycreek-keyzamaac-ibc4"
+        },
+        {
+            name: "Power 95",
+            logo: "stations/images-america/c2c/Power 95.png",
+            url: "http://35.172.227.7/cherrycreek-kthcfmaac-ibc4"
         },
     ],
     "akron_oh": [

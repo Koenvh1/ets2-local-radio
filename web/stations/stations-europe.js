@@ -1641,19 +1641,9 @@ var stations = {
             url: "http://mr-stream.mediaconnect.hu/4741/mr3.mp3"
         },
         {
-            name: "Class FM",
-            logo: "stations/images-europe/hungary/Class FM.png",
-            url: "http://icast.connectmedia.hu/4784/live.mp3"
-        },
-        {
             name: "MR6-Dankó Rádió",
             logo: "stations/images-europe/hungary/Dankó Rádió.png",
             url: "http://icast.connectmedia.hu/4748/mr7.mp3"
-        },
-        {
-            name: "Music FM",
-            logo: "stations/images-europe/hungary/Music FM.jpg",
-            url: "http://stream.musicfm.hu:8000/musicfm.mp3"
         },
         {
             name: "Radio 1",
