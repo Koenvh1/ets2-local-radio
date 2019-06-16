@@ -7,8 +7,8 @@
         "stop-playback": "L\u00f5peta m\u00e4ngimine",
         "volume": "Helitugevus",
         "stations": "Jaamad:",
-        "microsoft-edge": "Kui taasesitus l\u00f5ppeb akna alla panemisel, siis luba Microsoft Edge'l joosta taustarakendusena leides Windowsi s\u00e4tted > Privaatsus >\nTaustarakendused",
         "unsupported-browser": "Su brauser ehk ei toeta k\u00f5iki raadiojaamu. Palun ava ETS2 Local Radio kas Mozilla Firefox'is v\u00f5i Microsoft Edge's.",
+        "microsoft-edge": "Kui taasesitus l\u00f5ppeb akna alla panemisel, siis luba Microsoft Edge'l joosta taustarakendusena leides Windowsi s\u00e4tted > Privaatsus >\nTaustarakendused",
         "update-available": "Uuendus on saadaval!",
         "update-now": "Uuenda n\u00fc\u00fcd",
         "controlled-remotely": "See pleier on distantsjuhtimise all",
@@ -18,6 +18,7 @@
         "waiting-coordinates": "Ootan sinu m\u00e4ngusiseseid koordinaate...",
         "closest-city": "L\u00e4him linn: <span class='nearestCity'><\/span>, <span class='distance'><\/span> meetri kaugusel",
         "amount-static": "M\u00fcra kogus",
+        "chgtheme": "Toggle theme",
         "brightness": "Heledus:",
         "show-all": "N\u00e4ita k\u00f5iki",
         "enter-peerid-title": "Sisesta PeerID",
@@ -51,8 +52,8 @@
         "install-plugin-ats": "Installi plugin\nAmerican Truck Simulator 2'le",
         "remove-plugin": "Eemalda plugin",
         "install-overlay": "Kas soovid installida m\u00e4ngusisese \u00fclekatte?\n(See asendab juba olemasoleva d3d9.dll'i, ja v\u00f5ib harvadel juhtumitel p\u00f5hjustada m\u00e4ngu sulgemisel krahhi)",
-        "ets2-folder-dialog": "Palun vali ETS2\/ATS'e installatsioonikaust, tavaliselt leitud kohas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "remove-overlay": "Kas soovid eemaldada m\u00e4ngusisese \u00fclekatte?\n(See eemaldab iga olemasoleva d3d9.dll'i)",
+        "ets2-folder-dialog": "Palun vali ETS2\/ATS'e installatsioonikaust, tavaliselt leitud kohas C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "now-playing": "Hetkel m\u00e4ngib:"
     }
 }

@@ -1,14 +1,14 @@
 {
     "web": {
-        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation -->",
+        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation -->Marcus",
         "now-playing": "Jetzt l\u00e4uft:",
         "connect-other-device": "Mit einem anderen Ger\u00e4t verbinden",
         "coverage-map": "Senderkarte",
         "stop-playback": "Wiedergabe beenden",
         "volume": "Lautst\u00e4rke",
         "stations": "Sender:",
-        "microsoft-edge": "Falls die Wiedergabe beim Minimieren des Fensters stoppt, musst du Microsoft Edge erlauben als Hintergrund-App zu laufen: Windows-Einstellungen > Datenschutz > Hintergrund-Apps.",
         "unsupported-browser": "Dein Browser unterst\u00fctzt m\u00f6glicherweise nicht alle Sender. Bitte \u00f6ffne ETS2 Local Radio entweder im Mozilla Firefox oder in Microsoft Edge.",
+        "microsoft-edge": "Falls die Wiedergabe beim Minimieren des Fensters stoppt, musst du Microsoft Edge erlauben als Hintergrund-App zu laufen: Windows-Einstellungen > Datenschutz > Hintergrund-Apps.",
         "update-available": "Ein Update ist verf\u00fcgbar!",
         "update-now": "Jetzt updaten",
         "controlled-remotely": "Dieser Player wird momentan ferngesteuert",
@@ -52,8 +52,8 @@
         "install-plugin-ats": "Plugin f\u00fcr\nAmerican Truck Simulator installieren",
         "remove-plugin": "Plugin entfernen",
         "install-overlay": "M\u00f6chtest du die Spieleinblendungen installieren?\n(Dies \u00fcberschreibt die existierende d3d9.dll und kann in seltenen F\u00e4llen zu Spielabst\u00fcrzen beim Beenden des Spiels f\u00fchren)",
-        "ets2-folder-dialog": "W\u00e4hle bitte das Installationsverzeichnis von ETS2\/ATS aus. In der Regel ist es C:\\Programme (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "remove-overlay": "M\u00f6chtest Du die Spieleinblendungen entfernen?\n(Dies entfernt jede existierende d3d9.dll)",
+        "ets2-folder-dialog": "W\u00e4hle bitte das Installationsverzeichnis von ETS2\/ATS aus. In der Regel ist es C:\\Programme (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "now-playing": "Jetzt l\u00e4uft:"
     }
 }
