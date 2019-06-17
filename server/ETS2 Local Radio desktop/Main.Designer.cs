@@ -421,8 +421,7 @@
             // 
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 100F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
-            this.tableLayoutPanel1.Controls.Add(this.comboIP, 1, 3);
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 307F));
             this.tableLayoutPanel1.Controls.Add(this.gameInfo, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.gameLabel, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.statusInfo, 0, 1);
@@ -430,6 +429,7 @@
             this.tableLayoutPanel1.Controls.Add(this.URLInfo, 0, 3);
             this.tableLayoutPanel1.Controls.Add(this.statusLabel, 1, 1);
             this.tableLayoutPanel1.Controls.Add(this.locationLabel, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.comboIP, 1, 3);
             this.tableLayoutPanel1.Controls.Add(this.URLLabel, 1, 4);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 18);
@@ -451,7 +451,7 @@
             this.comboIP.FormattingEnabled = true;
             this.comboIP.Location = new System.Drawing.Point(103, 72);
             this.comboIP.Name = "comboIP";
-            this.comboIP.Size = new System.Drawing.Size(316, 21);
+            this.comboIP.Size = new System.Drawing.Size(301, 21);
             this.comboIP.TabIndex = 11;
             // 
             // gameInfo
@@ -471,7 +471,7 @@
             this.gameLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.gameLabel.Location = new System.Drawing.Point(103, 0);
             this.gameLabel.Name = "gameLabel";
-            this.gameLabel.Size = new System.Drawing.Size(316, 23);
+            this.gameLabel.Size = new System.Drawing.Size(301, 23);
             this.gameLabel.TabIndex = 12;
             this.gameLabel.Text = "Euro Truck Simulator 2";
             this.gameLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -515,7 +515,7 @@
             this.statusLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.statusLabel.Location = new System.Drawing.Point(103, 23);
             this.statusLabel.Name = "statusLabel";
-            this.statusLabel.Size = new System.Drawing.Size(316, 23);
+            this.statusLabel.Size = new System.Drawing.Size(301, 23);
             this.statusLabel.TabIndex = 7;
             this.statusLabel.Text = "status";
             this.statusLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -526,7 +526,7 @@
             this.locationLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.locationLabel.Location = new System.Drawing.Point(103, 46);
             this.locationLabel.Name = "locationLabel";
-            this.locationLabel.Size = new System.Drawing.Size(316, 23);
+            this.locationLabel.Size = new System.Drawing.Size(301, 23);
             this.locationLabel.TabIndex = 6;
             this.locationLabel.Text = "XYZ";
             this.locationLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -537,7 +537,7 @@
             this.URLLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.URLLabel.Location = new System.Drawing.Point(103, 92);
             this.URLLabel.Name = "URLLabel";
-            this.URLLabel.Size = new System.Drawing.Size(316, 26);
+            this.URLLabel.Size = new System.Drawing.Size(301, 26);
             this.URLLabel.TabIndex = 6;
             this.URLLabel.TabStop = true;
             this.URLLabel.Text = "Open ETS2 Local Radio";
