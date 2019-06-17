@@ -235,7 +235,12 @@ namespace ETS2_Local_Radio_server
                         Timer.Stop();
                         overlay.Hidden = true;
                         Log.Write("Hide overlay");
-                        CaptureProcess.CaptureInterface.DrawOverlayInGame(overlay);
+                        CaptureProcess?.CaptureInterface.DrawOverlayInGame(
+                            new Capture.Hook.Common.Overlay
+                            {
+                                Elements = new List<Capture.Hook.Common.IOverlayElement>()
+                            }
+                        );
                         //GPPIC_ShowPicturePos(false, (width / 2) - (Resources.overlay.Width / 2), (height / 4));
                         //GPPICI_ShowInternalPicturePos(false, (width/2) - (Resources.overlay.Width/2), (height/4));
                         //Log.Write("Hide overlay");
@@ -285,7 +290,8 @@ namespace ETS2_Local_Radio_server
                 }
 
                 Log.Write("Process attached: " + name + " (Width: " + Width + "; Height: " + Height + ")");
-            } catch (Exception e)
+            }
+            catch (Exception e)
             {
                 Log.Write(e.Message);
             }
