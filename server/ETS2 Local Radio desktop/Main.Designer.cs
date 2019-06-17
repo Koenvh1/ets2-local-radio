@@ -420,7 +420,7 @@
             // tableLayoutPanel1
             // 
             this.tableLayoutPanel1.ColumnCount = 2;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 85F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 100F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
             this.tableLayoutPanel1.Controls.Add(this.comboIP, 1, 3);
             this.tableLayoutPanel1.Controls.Add(this.gameInfo, 0, 0);
@@ -449,7 +449,7 @@
             this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboIP.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.comboIP.FormattingEnabled = true;
-            this.comboIP.Location = new System.Drawing.Point(88, 72);
+            this.comboIP.Location = new System.Drawing.Point(103, 72);
             this.comboIP.Name = "comboIP";
             this.comboIP.Size = new System.Drawing.Size(316, 21);
             this.comboIP.TabIndex = 11;
@@ -460,7 +460,7 @@
             this.gameInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.gameInfo.Location = new System.Drawing.Point(3, 0);
             this.gameInfo.Name = "gameInfo";
-            this.gameInfo.Size = new System.Drawing.Size(79, 23);
+            this.gameInfo.Size = new System.Drawing.Size(94, 23);
             this.gameInfo.TabIndex = 13;
             this.gameInfo.Text = "Game:";
             this.gameInfo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -469,7 +469,7 @@
             // 
             this.gameLabel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gameLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.gameLabel.Location = new System.Drawing.Point(88, 0);
+            this.gameLabel.Location = new System.Drawing.Point(103, 0);
             this.gameLabel.Name = "gameLabel";
             this.gameLabel.Size = new System.Drawing.Size(316, 23);
             this.gameLabel.TabIndex = 12;
@@ -482,7 +482,7 @@
             this.statusInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.statusInfo.Location = new System.Drawing.Point(3, 23);
             this.statusInfo.Name = "statusInfo";
-            this.statusInfo.Size = new System.Drawing.Size(79, 23);
+            this.statusInfo.Size = new System.Drawing.Size(94, 23);
             this.statusInfo.TabIndex = 8;
             this.statusInfo.Text = "Status:";
             this.statusInfo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -493,7 +493,7 @@
             this.coordinatesInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.coordinatesInfo.Location = new System.Drawing.Point(3, 46);
             this.coordinatesInfo.Name = "coordinatesInfo";
-            this.coordinatesInfo.Size = new System.Drawing.Size(79, 23);
+            this.coordinatesInfo.Size = new System.Drawing.Size(94, 23);
             this.coordinatesInfo.TabIndex = 9;
             this.coordinatesInfo.Text = "Coordinates:";
             this.coordinatesInfo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -504,7 +504,7 @@
             this.URLInfo.Font = new System.Drawing.Font("Segoe UI", 8.25F);
             this.URLInfo.Location = new System.Drawing.Point(3, 69);
             this.URLInfo.Name = "URLInfo";
-            this.URLInfo.Size = new System.Drawing.Size(79, 23);
+            this.URLInfo.Size = new System.Drawing.Size(94, 23);
             this.URLInfo.TabIndex = 10;
             this.URLInfo.Text = "URL:";
             this.URLInfo.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -513,7 +513,7 @@
             // 
             this.statusLabel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.statusLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.statusLabel.Location = new System.Drawing.Point(88, 23);
+            this.statusLabel.Location = new System.Drawing.Point(103, 23);
             this.statusLabel.Name = "statusLabel";
             this.statusLabel.Size = new System.Drawing.Size(316, 23);
             this.statusLabel.TabIndex = 7;
@@ -524,7 +524,7 @@
             // 
             this.locationLabel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.locationLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.locationLabel.Location = new System.Drawing.Point(88, 46);
+            this.locationLabel.Location = new System.Drawing.Point(103, 46);
             this.locationLabel.Name = "locationLabel";
             this.locationLabel.Size = new System.Drawing.Size(316, 23);
             this.locationLabel.TabIndex = 6;
@@ -535,7 +535,7 @@
             // 
             this.URLLabel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.URLLabel.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.URLLabel.Location = new System.Drawing.Point(88, 92);
+            this.URLLabel.Location = new System.Drawing.Point(103, 92);
             this.URLLabel.Name = "URLLabel";
             this.URLLabel.Size = new System.Drawing.Size(316, 26);
             this.URLLabel.TabIndex = 6;
