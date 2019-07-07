@@ -59,7 +59,6 @@
             this.buttonLabel = new System.Windows.Forms.Label();
             this.groupInfo = new System.Windows.Forms.GroupBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.comboIP = new System.Windows.Forms.ComboBox();
             this.gameInfo = new System.Windows.Forms.Label();
             this.gameLabel = new System.Windows.Forms.Label();
             this.statusInfo = new System.Windows.Forms.Label();
@@ -67,6 +66,7 @@
             this.URLInfo = new System.Windows.Forms.Label();
             this.statusLabel = new System.Windows.Forms.Label();
             this.locationLabel = new System.Windows.Forms.Label();
+            this.comboIP = new System.Windows.Forms.ComboBox();
             this.URLLabel = new System.Windows.Forms.LinkLabel();
             this.comboLang = new System.Windows.Forms.ComboBox();
             this.folderDialog = new System.Windows.Forms.FolderBrowserDialog();
@@ -443,17 +443,6 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(407, 118);
             this.tableLayoutPanel1.TabIndex = 14;
             // 
-            // comboIP
-            // 
-            this.comboIP.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboIP.Font = new System.Drawing.Font("Segoe UI", 8.25F);
-            this.comboIP.FormattingEnabled = true;
-            this.comboIP.Location = new System.Drawing.Point(103, 72);
-            this.comboIP.Name = "comboIP";
-            this.comboIP.Size = new System.Drawing.Size(301, 21);
-            this.comboIP.TabIndex = 11;
-            // 
             // gameInfo
             // 
             this.gameInfo.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -530,6 +519,17 @@
             this.locationLabel.TabIndex = 6;
             this.locationLabel.Text = "XYZ";
             this.locationLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // comboIP
+            // 
+            this.comboIP.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.comboIP.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboIP.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.comboIP.FormattingEnabled = true;
+            this.comboIP.Location = new System.Drawing.Point(103, 72);
+            this.comboIP.Name = "comboIP";
+            this.comboIP.Size = new System.Drawing.Size(301, 21);
+            this.comboIP.TabIndex = 11;
             // 
             // URLLabel
             // 

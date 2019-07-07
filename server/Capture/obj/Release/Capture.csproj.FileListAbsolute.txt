@@ -15,3 +15,4 @@ F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\C
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CopyComplete
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.dll
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.pdb
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\Capture.dll.config

@@ -20,7 +20,7 @@ namespace ETS2_Local_Radio_server
                 using (StreamWriter file =
                     File.AppendText(Directory.GetCurrentDirectory() + "\\Error log.txt"))
                 {
-                    file.WriteLine(lines);
+                    file.WriteLine(DateTime.Now.ToLongTimeString() + ": " + lines);
                 }
             }
             catch (Exception ex)
