@@ -4754,7 +4754,7 @@ var stations = {
         {
             name: "Air1 90.7 FM",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kdblfmaac-ibc3"
+            url: "http://emf.streamguys1.com/sa010_mp3_high_web"
         },
         {
             name: "Radio KDNA 91.9 FM",

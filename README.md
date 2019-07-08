@@ -9,8 +9,8 @@ It does not include radio stations that you would not be able to receive over FM
 However, you can add those yourself if you so desire.
 
 **Supported maps:**  
-ETS2: Default, Going East, Scandinavia, France, Italy, ProMods, RusMap, Southern Region, TruckSim Map, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, YKSRSK*, Romania Extended*, The Great Steppe, AfroMap and Italy Map.  
-ATS: California, Nevada, Arizona, New Mexico, Viva Mexico, Coast to Coast, Canadream.  
+ETS2: Default, Going East, Scandinavia, France, Italy, Baltics, ProMods, RusMap, Southern Region, TruckSim Map, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, YKSRSK*, Romania Extended*, The Great Steppe, AfroMap and Italy Map.  
+ATS: California, Nevada, Arizona, New Mexico, Oregon, Washington, Viva Mexico, Coast to Coast, Canadream.  
 \*Disabled by default  
 
 **It's available in over 20 languages!**  
@@ -145,15 +145,6 @@ To make clear that it also supports ATS, I started using the name ATS/ETS2 Local
 Generally speaking, I use ETS2 Local Radio, but I'm not really consistent when it comes to naming.
 
 ## Troubleshooting:
-### The game crashes on exit!
-This is caused by the d3d9.dll file, used to display the overlay.
-It can be fixed by either removing this file (which will disable the overlay), 
-or by replacing the d3d9.dll in your `{ATS/ETS2 installation}\bin\win_x64` folder with this one:
-[https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll](https://github.com/Koenvh1/ets2-local-radio/tree/master/plugins/alternative_d3d9.dll)
-([Direct link](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_d3d9.dll/d3d9.dll))
-
-Please bear in mind that it is experimental, so it may crash your game, kill your kittens or destroy the universe.
-
 ### Can't access it from another device
 Try restarting ATS/ETS2 Local Radio server.
 Please make sure your firewall is not blocking the connection. 
@@ -202,8 +193,8 @@ then please try to reinstall the plugin by pressing the "Install plugin" button,
 If that doesn't work, then please try the [alternative dll](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_ets2-telemetry.dll/ets2-telemetry.dll)
 and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\plugins` folder. (The alternative only works on 64-bit)
 
-### The game crashes when changing the graphics settings
-Some systems/graphics cards may have this issue. Please try removing the plugin by clicking "Remove plugin", then change your graphics settings and install the plugin again.
+### The overlay is stuck in the top left corner
+This usually occurs after changing the graphics settings. It should be gone after ATS/ETS2 is restarted.
 
 ### The editor will not load/crashes randomly with the overlay installed
 There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
