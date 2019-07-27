@@ -2011,7 +2011,7 @@ var stations = {
         {
             name: "Latvijas Kristīgais Radio",
             logo: "stations/images-europe/latvia/Latvijas Kristīgais Radio.png",
-            url: "http://91.203.71.10:8006/;"
+            url: "http://91.228.7.144:7007/;?type=http&nocache=905"
         },
         {
             name: "Radio Skonto",
@@ -2497,18 +2497,23 @@ var stations = {
     "poland": [
         {
             name: "Polskie Radio 1",
-            logo: "stations/images-europe/poland/Polskie Radio 1.jpg",
+            logo: "stations/images-europe/poland/Polskie Radio 1.png",
             url: "http://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8"
         },
         {
             name: "Polskie Radio 2",
-            logo: "stations/images-europe/poland/Polskie Radio 2.jpg",
+            logo: "stations/images-europe/poland/Polskie Radio 2.png",
             url: "http://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8"
         },
         {
             name: "Polskie Radio 3",
-            logo: "stations/images-europe/poland/Polskie Radio 3.jpg",
+            logo: "stations/images-europe/poland/Polskie Radio 3.png",
             url: "http://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8"
+        },
+        {
+            name: "Polskie Radio 4",
+            logo: "stations/images-europe/poland/Polskie Radio 4.svg",
+            url: "http://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8"
         },
         {
             name: "Polskie Radio 24",

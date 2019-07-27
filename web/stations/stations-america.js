@@ -2142,15 +2142,27 @@ var stations = {
             url: "http://c8icyelb.prod.playlists.ihrhls.com/181_icy"
         },
         {
+            name: "Cali 93.9",
+            logo: "stations/images-america/los_angeles/Cali 93.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXOS_FMAAC.aac"
+        },
+        {
             name: "95.5 KLOS",
             logo: "stations/images-america/los_angeles/KLOS.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC.aac"
         },
         {
+            name: "Q95.9",
+            logo: "stations/images-america/los_angeles/Q95.9.png",
+            url: "https://ice9.securenetsystems.net/KCAQ"
+        },
+        /*
+        {
             name: "97.1 Amp Radio",
             logo: "stations/images-america/los_angeles/97.1 Amp Radio.jpg",
             url: "http://17933.live.streamtheworld.com/KAMPFMAAC_SC"
         },
+         */
         {
             name: "98.2 The Beat",
             logo: "stations/images-america/los_angeles/98.2 The Beat.png",
@@ -2196,11 +2208,13 @@ var stations = {
             logo: "stations/images-america/los_angeles/104.3 MYfm.png",
             url: "https://c8.prod.playlists.ihrhls.com/173_icy"
         },
+        /*
         {
             name: "GoCountry105",
             logo: "stations/images-america/los_angeles/GoCountry105.jpg",
             url: "http://14523.live.streamtheworld.com/KKGOFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-014&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=none&sbmid=1399b9d7-3a48-4086-9611-09b95ec0ffcf"
         },
+         */
         {
             name: "Pride Radio",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
@@ -2680,9 +2694,9 @@ var stations = {
             url: "http://54.184.105.154/kjlh-kjlhfmmp3-ibc2"
         },
         {
-            name: "103.3 The Vibe",
-            logo: "stations/images-america/bakersfield/103.3 The Vibe.jpg",
-            url: "http://14023.live.streamtheworld.com/KVYBFMAAC_SC"
+            name: "KRUZ 103.3",
+            logo: "stations/images-america/oxnard/KRUZ 103.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
         },
         {
             name: "KPPQ-LP 104.1 FM",
@@ -2700,9 +2714,9 @@ var stations = {
             url: "http://ice9.securenetsystems.net/KQIE"
         },
         {
-            name: "106.3 Spin FM",
-            logo: "stations/images-america/oxnard/106.3 Spin FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFM.mp3"
+            name: "106.3 The Vibe",
+            logo: "stations/images-america/oxnard/106.3 The Vibe.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVYBFMAAC_SC"
         },
         {
             name: "Oasis Radio 107.9",
@@ -3652,6 +3666,11 @@ var stations = {
             name: "KCBX 90.1 FM",
             logo: "stations/images-america/santa_maria/KCBX 90.1 FM.png",
             url: "http://peace.str3am.com:6420/kcbx-hi"
+        },
+        {
+            name: "Q92.1",
+            logo: "stations/images-america/bakersfield/Q92.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQKZFMAAC_SC"
         },
         {
             name: "Old School 99.1 FM",
@@ -4732,13 +4751,16 @@ var stations = {
             logo: "stations/images-america/winnemucca/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
-        /*
+        {
+            name: "Rock 94.3",
+            logo: "stations/images-america/winnemucca/Rock 94.3.png",
+            url: "http://s20.myradiostream.com:16734/listen.mp3"
+        },
 		{
             name: "Mix 102.7",
             logo: "stations/images-america/winnemucca/Mix 102.7.png",
-            url: "http://104.50.134.6:8000/stream/3/"
+            url: "https://s20.myradiostream.com/16732/;"
         },
-		*/
     ],
     "yakima": [
         {
@@ -12613,11 +12635,13 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/Northwest Missouri Public Radio.jpg",
             url: "http://198.209.246.63:8000/;"
         },
+        /*
         {
             name: "Classic Rock 100.1",
             logo: "stations/images-america/c2c/Classic Rock 100.1.png",
             url: "http://stream.abacast.net/direct/alphacorporate-kkwkfmaac-ibc4"
         },
+         */
         {
             name: "KJO 105.5",
             logo: "stations/images-america/c2c/KKJO.png",
