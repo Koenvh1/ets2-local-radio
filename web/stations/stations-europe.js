@@ -703,9 +703,14 @@ var stations = {
     ],
     "egypt": [
         {
-            name: "Radio Hits 88.2",
-            logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
-            url: "http://mgstrm9.twesto.com:7281/radiohits215"
+            name: "إذاعة الأغاني",
+            logo: "stations/images-europe/egypt/إذاعة الأغاني.jpg",
+            url: "https://msertupoc.streaming.mediaservices.windows.net/a332673c-2105-4923-a624-722c4c0212bc/c2f194e0-26de-463c-8701-ae702888f76a.ism/manifest(format=m3u8-aapl)?.m3u8"
+        },
+        {
+            name: "راديو مصر 88.7 FM",
+            logo: "stations/images-europe/egypt/راديو مصر 88.7 FM.png",
+            url: "http://live.radiomasr.net:8060/RADIOMASR"
         },
         {
             name: "El Radio 9090 FM",
@@ -1766,27 +1771,27 @@ var stations = {
         {
             name: "כאן ב",
             logo: "stations/images-europe/israel/KAN BET LAM.png",
-            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8"
+            url: "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3?providername=rlive"
         },
         {
             name: "כאן 88",
             logo: "stations/images-europe/israel/KAN 88 LAM.png",
-            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8"
+            url: "http://kanliveicy.media.kan.org.il/icy/kan88_mp3?providername=rlive"
         },
         {
             name: "כאן גימל",
             logo: "stations/images-europe/israel/KAN GIMMEL LAM.png",
-            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8"
+            url: "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3?providername=rlive"
         },
         {
             name: "כאן תרבות",
             logo: "stations/images-europe/israel/KAN TARBUT LAM.png",
-            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8"
+            url: "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3?providername=rlive"
         },
         {
             name: "כאן קול המוסיקה",
             logo: "stations/images-europe/israel/KAN Kol HaMusika.png",
-            url: "https://cors-anywhere.herokuapp.com/https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8"
+            url: "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3?providername=rlive"
         },
         /*
         {
@@ -1908,6 +1913,43 @@ var stations = {
             url: "http://icecast.unitedradio.it/Virgin.mp3"
         },
     ],
+    "jordan": [
+        {
+            name: "الإذاعة الأردنية",
+            logo: "stations/images-europe/jordan/الإذاعة الأردنية.png",
+            url: "http://stream.joinvisions.net:1935/jorlive/Jordan_Radio_Audio/playlist.m3u8?DVR"
+        },
+        {
+            name: "إذاعة عمان اف ام",
+            logo: "stations/images-europe/jordan/إذاعة عمان اف ام.png",
+            url: "http://stream.joinvisions.net:1935/Jordantv/Amman-FM-Audio/playlist.m3u8?DVR"
+        },
+        {
+            name: "إذاعة القران الكريم",
+            logo: "stations/images-europe/jordan/إذاعة القران الكريم.png",
+            url: "http://stream.joinvisions.net:1935/jorlive/quranaudio/playlist.m3u8?DVR"
+        },
+        {
+            name: "Radio Jordan",
+            logo: "stations/images-europe/jordan/Radio Jordan.png",
+            url: "http://stream.joinvisions.net:1935/live/en/playlist.m3u8"
+        },
+        {
+            name: "مونت كارلو الدولية",
+            logo: "stations/images-europe/jordan/مونت كارلو الدولية.svg",
+            url: "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3"
+        },
+        {
+            name: "راديو هلا",
+            logo: "stations/images-europe/jordan/راديو هلا.png",
+            url: "http://76.164.217.100:7302/;"
+        },
+        {
+            name: "BBC World Service Arabic",
+            logo: "stations/images-europe/jordan/BBC World Service Arabic.png",
+            url: "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba?s=1427311155"
+        },
+    ],
     "kazakhstan": [
         {
             name: "Қазақ радиосы",
@@ -1995,6 +2037,58 @@ var stations = {
             name: "TOPradio",
             logo: "stations/images-europe/latvia/TOPradio.png",
             url: "http://195.13.200.164:8000/;"
+        },
+    ],
+    "lebanon": [
+        {
+            name: "Radio Liban",
+            logo: "stations/images-europe/lebanon/Radio Liban.svg",
+            url: "http://162.244.80.118:3160/;stream.mp3"
+        },
+        {
+            name: "Sawt El Ghad",
+            logo: "stations/images-europe/lebanon/Sawt El Ghad.png",
+            url: "https://live.hibridcdn.net/ghadciel/ghadradio/playlist.m3u8"
+        },
+        {
+            name: "صوت الحرية",
+            logo: "stations/images-europe/lebanon/صوت الحرية.jpg",
+            url: "http://vps1.osina.cloud:9302/;"
+        },
+        {
+            name: "Fame FM",
+            logo: "stations/images-europe/lebanon/Fame FM.png",
+            url: "http://stream.famefm.com:8200/fame.mp3"
+        },
+        {
+            name: "Radio MBS",
+            logo: "stations/images-europe/lebanon/Radio MBS.png",
+            url: "https://usa9.fastcast4u.com/proxy/mbs?mp=/1"
+        },
+        {
+            name: "NRJ",
+            logo: "stations/images-europe/lebanon/NRJ.png",
+            url: "http://cdn.nrjaudio.fm/adwz1/lb/55219/mp3_128.mp3"
+        },
+        {
+            name: "Radio Delta",
+            logo: "stations/images-europe/lebanon/Radio Delta.png",
+            url: "http://radiodelta.fm/mp3"
+        },
+        {
+            name: "RLL",
+            logo: "stations/images-europe/lebanon/RLL.png",
+            url: "http://listen2.mixlr.com/ffdcedd7777d49fa8d89349d9bf3e533"
+        },
+        {
+            name: "صـوت لبنــان",
+            logo: "stations/images-europe/lebanon/صـوت لبنــان.png",
+            url: "http://209.15.226.17:9054/stream"
+        },
+        {
+            name: "Sawt El Shaeb",
+            logo: "stations/images-europe/lebanon/Sawt El Shaeb.png",
+            url: "http://vps1.osina.cloud:9320/;"
         },
     ],
     "liecht": [
@@ -2342,37 +2436,37 @@ var stations = {
         {
             name: "P4",
             logo: "stations/images-europe/norway/P4.png",
-            url: "http://stream.p4.no/p4_mp3_hq"
+            url: "https://p4.p4groupaudio.com/P04_MM"
         },
         {
             name: "P5 Hits",
             logo: "stations/images-europe/norway/P5 Hits.png",
-            url: "http://stream.p4.no/p5oslo_mp3_mq"
+            url: "https://p5.p4groupaudio.com/P05_MM"
         },
         {
             name: "P6 Rock",
             logo: "stations/images-europe/norway/P6 Rock.png",
-            url: "http://stream.p4.no/p6_mp3_mq"
+            url: "https://p6.p4groupaudio.com/P06_MM"
         },
         {
             name: "P7 Klem",
             logo: "stations/images-europe/norway/P7 Klem.png",
-            url: "http://stream.p4.no/p7_mp3_mq"
+            url: "https://p7.p4groupaudio.com/P07_MM"
         },
         {
             name: "P8 Pop",
             logo: "stations/images-europe/norway/P8 Pop.png",
-            url: "http://stream.p4.no/p8_mp3_mq"
+            url: "https://p8.p4groupaudio.com/P08_MM"
         },
         {
             name: "P9 Retro",
             logo: "stations/images-europe/norway/P9 Retro.png",
-            url: "http://stream.p4.no/p9_mp3_mq"
+            url: "https://p9.p4groupaudio.com/P09_MM"
         },
         {
             name: "P10 Country",
             logo: "stations/images-europe/norway/P10 Country.png",
-            url: "http://stream.p4.no/p10_mp3_mq"
+            url: "https://p10.p4groupaudio.com/P10_MM"
         },
         {
             name: "NRJ",
@@ -2505,17 +2599,17 @@ var stations = {
         {
             name: "RTP Antena 1",
             logo: "stations/images-europe/portugal/RTP Antena 1.png",
-            url: "http://radiocast.rtp.pt/antena180a.mp3"
+            url: "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8"
         },
         {
             name: "RTP Antena 2",
             logo: "stations/images-europe/portugal/RTP Antena 2.png",
-            url: "http://radiocast.rtp.pt/antena280a.mp3"
+            url: "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8"
         },
         {
             name: "RTP Antena 3",
             logo: "stations/images-europe/portugal/RTP Antena 3.png",
-            url: "http://radiocast.rtp.pt/antena380a.mp3"
+            url: "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8"
         },
         {
             name: "M80 Rádio",
@@ -2779,7 +2873,7 @@ var stations = {
         {
             name: "Europa 2",
             logo: "stations/images-europe/slovakia/Europa 2.png",
-            url: "http://stream.radioservices.sk:50008/europa2.mp3"
+            url: "https://stream.radioservices.sk/europa2.mp3"
         },
         {
             name: "Fun rádio",
@@ -3358,6 +3452,18 @@ var stations = {
             name: "BBC Radio Cymru",
             logo: "stations/images-europe/wales/BBC Radio Cymru.png",
             url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_cymru_mf_q"
+        },
+    ],
+    "westbank": [
+        {
+            name: "راديو أجيال",
+            logo: "stations/images-europe/westbank/راديو أجيال.png",
+            url: "http://streamer.mada.ps:8008/AJYAL"
+        },
+        {
+            name: "راديو انغام",
+            logo: "stations/images-europe/westbank/راديو انغام.jpg",
+            url: "http://streamer.mada.ps:8010/ANGHAM"
         },
     ]
 };

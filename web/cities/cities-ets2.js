@@ -117,7 +117,7 @@
         name: "مَصر‎‎",
         name_english: "Egypt",
         code: "eg",
-        relative_radius: 0.85,
+        relative_radius: 0.5,
     },
     "estonia": {
         name: "Eesti",
@@ -257,6 +257,12 @@
         code: "je",
         relative_radius: 0.1,
     },
+    "jordan": {
+        name: "الْأُرْدُنّ‎",
+        name_english: "Jordan",
+        code: "jo",
+        relative_radius: 0.5,
+    },
     "kazakhstan": {
         name: "Қазақстан",
         name_english: "Kazakhstan",
@@ -268,6 +274,12 @@
         name_english: "Latvia",
         code: "lv",
         relative_radius: 0.6,
+    },
+    "lebanon": {
+        name: "لبنان‎",
+        name_english: "Lebanon",
+        code: "lb",
+        relative_radius: 0.5,
     },
     "liecht": {
         name: "Liechtenstein",
@@ -437,6 +449,12 @@
         code: "gb-wls",
         relative_radius: 1.15,
     },
+    "westbank": {
+        name: "الضفة الغربية",
+        name_english: "West Bank",
+        code: "ps",
+        relative_radius: 0.5,
+    },
     "global": {
         name: "Global",
         name_english: "Global",
@@ -540,6 +558,9 @@ var city_properties = {
     "dijon": {
         relative_radius: 1.1,
     },
+    "dimona": {
+        relative_radius: 2,
+    },
     "domitz": {
         relative_radius: 0.5,
     },
@@ -561,6 +582,10 @@ var city_properties = {
     },
     "dusseldorf": {
         relative_radius: 0.8,
+    },
+    "elarish": {
+        relative_radius: 1.5,
+        relative_whitenoise: 0.9
     },
     "engels": {
         relative_radius: 2,
@@ -5373,41 +5398,6 @@ var cities_projects_balkans = [
     */
 ];
 
-var cities_egypt = [
-    {
-        "gameName": "alwasta",
-        "realName": "Al Wasta",
-        "country": "egypt",
-        "x": "78780",
-        "y": "52.4297",
-        "z": "110100"
-    },
-    {
-        "gameName": "cairo",
-        "realName": "Cairo",
-        "country": "egypt",
-        "x": "78490.1",
-        "y": "53.3594",
-        "z": "104211"
-    },
-    {
-        "gameName": "fayyum",
-        "realName": "Al Fayyum",
-        "country": "egypt",
-        "x": "76362.4",
-        "y": "14.3242",
-        "z": "107667"
-    },
-    {
-        "gameName": "samalut",
-        "realName": "Samalut",
-        "country": "egypt",
-        "x": "77796.2",
-        "y": "45.2266",
-        "z": "116925"
-    }
-];
-
 var cities_srm = [
     {
         "gameName": "abinsk",
@@ -6329,15 +6319,234 @@ var cities_pm240 = [
     }
 ];
 
-var cities_wip = [
+var cities_pm_me = [
+    {
+        "gameName": "akko",
+        "realName": "Akko",
+        "country": "israel",
+        "x": "114043",
+        "y": "60.3633",
+        "z": "90583.5"
+    },
+    {
+        "gameName": "aqaba",
+        "realName": "Aqaba",
+        "country": "jordan",
+        "x": "117816",
+        "y": "52.0469",
+        "z": "109654"
+    },
     {
         "gameName": "ashdod",
         "realName": "Ashdod",
         "country": "israel",
-        "x": "113759.26",
-        "y": "11",
-        "z": "91384.19"
+        "x": "113748",
+        "y": "61",
+        "z": "97668.3"
     },
+    {
+        "gameName": "ashkelon",
+        "realName": "Ashkelon",
+        "country": "israel",
+        "x": "113326",
+        "y": "68.457",
+        "z": "98635.9"
+    },
+    {
+        "gameName": "beersheva",
+        "realName": "Beer Sheva",
+        "country": "israel",
+        "x": "114794",
+        "y": "73.9492",
+        "z": "100820"
+    },
+    {
+        "gameName": "beirut",
+        "realName": "Beirut",
+        "country": "lebanon",
+        "x": "115547",
+        "y": "52.3984",
+        "z": "85047"
+    },
+    {
+        "gameName": "byblos",
+        "realName": "Byblos",
+        "country": "lebanon",
+        "x": "115794",
+        "y": "68.3594",
+        "z": "83603.4"
+    },
+    {
+        "gameName": "damietta",
+        "realName": "Damietta",
+        "country": "egypt",
+        "x": "101716",
+        "y": "52",
+        "z": "102022"
+    },
+    {
+        "gameName": "dimona",
+        "realName": "Dimona",
+        "country": "israel",
+        "x": "116491",
+        "y": "65.0469",
+        "z": "102438"
+    },
+    {
+        "gameName": "eilat",
+        "realName": "Eilat",
+        "country": "israel",
+        "x": "117066",
+        "y": "52.0469",
+        "z": "109406"
+    },
+    {
+        "gameName": "eingedi",
+        "realName": "Ein Gedi",
+        "country": "israel",
+        "x": "117536",
+        "y": "56.625",
+        "z": "99478.7"
+    },
+    {
+        "gameName": "elarish",
+        "realName": "El Arish",
+        "country": "egypt",
+        "x": "110269",
+        "y": "52.8008",
+        "z": "102204"
+    },
+    {
+        "gameName": "haifa",
+        "realName": "Haifa",
+        "country": "israel",
+        "x": "113926",
+        "y": "54.4023",
+        "z": "91333.7"
+    },
+    {
+        "gameName": "herzliya",
+        "realName": "Herzliya",
+        "country": "israel",
+        "x": "114903",
+        "y": "59.8984",
+        "z": "94398.9"
+    },
+    {
+        "gameName": "jericho",
+        "realName": "Jericho",
+        "country": "westbank",
+        "x": "117480",
+        "y": "47",
+        "z": "96889.3"
+    },
+    {
+        "gameName": "jericho",
+        "realName": "Jericho",
+        "country": "israel",
+        "x": "117480",
+        "y": "47",
+        "z": "96889.3"
+    },
+    {
+        "gameName": "jerusalem",
+        "realName": "Jerusalem",
+        "country": "israel",
+        "x": "115979",
+        "y": "77.5781",
+        "z": "97051.4"
+    },
+    {
+        "gameName": "netanya",
+        "realName": "Netanya",
+        "country": "israel",
+        "x": "113906",
+        "y": "53.9805",
+        "z": "93583.8"
+    },
+    {
+        "gameName": "portsaid",
+        "realName": "Port Said",
+        "country": "egypt",
+        "x": "103600",
+        "y": "52.6016",
+        "z": "102588"
+    },
+    {
+        "gameName": "ramallah",
+        "realName": "Ramallah",
+        "country": "westbank",
+        "x": "116492",
+        "y": "77.4609",
+        "z": "96504.5"
+    },
+    {
+        "gameName": "ramallah",
+        "realName": "Ramallah",
+        "country": "israel",
+        "x": "116492",
+        "y": "77.4609",
+        "z": "96504.5"
+    },
+    {
+        "gameName": "rishon",
+        "realName": "Rishon LeZion",
+        "country": "israel",
+        "x": "114139",
+        "y": "60.8984",
+        "z": "96252.9"
+    },
+    {
+        "gameName": "sayda",
+        "realName": "Sayda",
+        "country": "lebanon",
+        "x": "114855",
+        "y": "54.8984",
+        "z": "87056"
+    },
+    {
+        "gameName": "taba",
+        "realName": "Taba",
+        "country": "egypt",
+        "x": "116470",
+        "y": "52.082",
+        "z": "110200"
+    },
+    {
+        "gameName": "telaviv",
+        "realName": "Tel Aviv",
+        "country": "israel",
+        "x": "114052",
+        "y": "59.8984",
+        "z": "95365.1"
+    },
+    {
+        "gameName": "tripolilb",
+        "realName": "Tripoli",
+        "country": "lebanon",
+        "x": "116164",
+        "y": "52.5977",
+        "z": "81827.3"
+    },
+    {
+        "gameName": "tyr",
+        "realName": "Tyr",
+        "country": "lebanon",
+        "x": "114621",
+        "y": "55.8984",
+        "z": "88813"
+    },
+    {
+        "gameName": "zahle",
+        "realName": "Zahle",
+        "country": "lebanon",
+        "x": "117241",
+        "y": "73.1406",
+        "z": "84650.5"
+    }
+];
+
+var cities_wip = [
     {
         "gameName": "domitz",
         "realName": "Dömitz",
@@ -6361,54 +6570,6 @@ var cities_wip = [
         "x": "7712",
         "y": "101.398",
         "z": "-34400"
-    },
-    {
-        "gameName": "haifa",
-        "realName": "Haifa",
-        "country": "israel",
-        "x": "114259",
-        "y": "2.7",
-        "z": "85584.92"
-    },
-    {
-        "gameName": "herzliya",
-        "realName": "Herzliya",
-        "country": "israel",
-        "x": "114744.45",
-        "y": "10.90",
-        "z": "88087.91"
-    },
-    {
-        "gameName": "jerusalem",
-        "realName": "Jerusalem",
-        "country": "israel",
-        "x": "117015.68",
-        "y": "47.19",
-        "z": "90801.95"
-    },
-    {
-        "gameName": "netanya",
-        "realName": "Netanya",
-        "country": "israel",
-        "x": "113710.56",
-        "y": "4",
-        "z": "87504.45"
-    },
-    {
-        "gameName": "rishon",
-        "realName": "Rishon LeZion",
-        "country": "israel",
-        "x": "113980.05",
-        "y": "10.90",
-        "z": "89941.94"
-    },
-    {
-        "gameName": "telaviv",
-        "realName": "Tel Aviv",
-        "country": "israel",
-        "x": "113893.69",
-        "y": "9.9",
-        "z": "89054.06"
     },
 ];
 
@@ -9744,8 +9905,8 @@ var cities_romania_extended = [
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
+cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
-cities = cities.concat(cities_egypt); //Egypt-addon
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_btbs); //Beyond the Baltic Sea DLC
