@@ -368,12 +368,12 @@ var stations = {
         {
             name: "Radio M",
             logo: "stations/images-europe/bosnia/Radio M.png",
-            url: "http://195.222.33.217:8026/;"
+            url: "http://206.190.135.28:8968/;"
         },
         {
             name: "Radio RSG",
             logo: "stations/images-europe/bosnia/Radio RSG.jpg",
-            url: "http://195.222.57.33:8076/;"
+            url: "http://195.201.112.14:9000/;stream"
         },
         {
             name: "Radio Bihac",
@@ -746,8 +746,8 @@ var stations = {
         },
         {
             name: "Power Hit Radio",
-            logo: "stations/images-europe/estonia/Power Hit Radio.png",
-            url: "http://phr.babahhcdn.com:9000/phr"
+            logo: "stations/images-europe/estonia/Power Hit Radio.svg",
+            url: "https://phr.babahhcdn.com/phr?t1564238193923"
         },
         {
             name: "Raadio Elmar",
@@ -1665,17 +1665,17 @@ var stations = {
         {
             name: "Rás 1",
             logo: "stations/images-europe/iceland/Rás 1.png",
-            url: "https://cors-anywhere.herokuapp.com/http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8"
+            url: "https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live.m3u8"
         },
         {
             name: "Rás 2",
             logo: "stations/images-europe/iceland/Rás 2.png",
-            url: "https://cors-anywhere.herokuapp.com/http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8"
+            url: "https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8"
         },
         {
             name: "Bylgjan 98,9",
             logo: "stations/images-europe/iceland/Bylgjan 98,9.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://vcache1.365net.is/hls-radio/bylgjan/playlist.m3u8"
+            url: "http://vcache1.365net.is/hls-radio/bylgjan/playlist.m3u8?DVR"
         },
         {
             name: "FM957",
