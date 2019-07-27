@@ -2862,6 +2862,11 @@ var stations = {
             url: "http://104.236.170.236:8000/goldmineradiomp3"
         },
         {
+            name: "KBAQ",
+            logo: "stations/images-america/phoenix/KBAQ.png",
+            url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
+        },
+        {
             name: "Family Radio West Coast",
             logo: "stations/images-america/phoenix/Family Radio West Coast.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
