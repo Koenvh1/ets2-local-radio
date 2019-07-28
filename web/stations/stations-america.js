@@ -1832,7 +1832,7 @@ var stations = {
         {
             name: "107.1 The Knack",
             logo: "stations/images-america/kingman/The Knack.png",
-            url: "http://54.82.44.170/cameron-knkkfmaac-ibc3"
+            url: "http://stream.abacast.net/direct/cameron-knkkfmaac-ibc3"
         },
     ],
     "klamath_f": [
@@ -4421,6 +4421,11 @@ var stations = {
             name: "KNPR",
             logo: "stations/images-america/nevada/KNPR.svg",
             url: "http://66.209.79.122:8000/;"
+        },
+        {
+            name: "Radio Goldfield - KGFN 89.1",
+            logo: "stations/images-america/tonopah/Radio Goldfield - KGFN 89.1.jpg",
+            url: "http://192.240.102.133:8320/;"
         },
         {
             name: "KIBS 101.7",

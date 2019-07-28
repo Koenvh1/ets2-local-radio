@@ -982,6 +982,11 @@ var stations = {
             url: "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
         },
         {
+            name: "Radio FG",
+            logo: "stations/images-europe/france/Radio FG.png",
+            url: "http://radiofg.impek.com/fg.mp3"
+        },
+        {
             name: "Radio Vinci Autoroutes",
             logo: "stations/images-europe/france/Radio Vinci Autoroutes.gif",
             url: "http://str0.creacast.com/radio_vinci_autoroutes_6"
