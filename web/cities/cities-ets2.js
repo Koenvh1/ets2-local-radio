@@ -7869,6 +7869,651 @@ var cities_italy_map = [
         "z": "35401.5"
     },
     {
+        "gameName": "ioannina",
+        "realName": "Ιωάννινα (Ioannina)",
+        "country": "greece",
+        "x": "41553",
+        "y": "23",
+        "z": "62263"
+    },
+    {
+        "gameName": "laspezia",
+        "realName": "La Spezia",
+        "country": "italy",
+        "x": "-5183.63",
+        "y": "52.6445",
+        "z": "37196.4"
+    },
+    {
+        "gameName": "latina",
+        "realName": "Latina",
+        "country": "italy",
+        "x": "7571.98",
+        "y": "57.2813",
+        "z": "52219.6"
+    },
+    {
+        "gameName": "lecce",
+        "realName": "Lecce",
+        "country": "italy",
+        "x": "30077",
+        "y": "64.9102",
+        "z": "58629.2"
+    },
+    {
+        "gameName": "livorno",
+        "realName": "Livorno",
+        "country": "italy",
+        "x": "-2974.56",
+        "y": "56.4766",
+        "z": "40352.3"
+    },
+    {
+        "gameName": "lucca",
+        "realName": "Lucca",
+        "country": "italy",
+        "x": "-1316.87",
+        "y": "87.207",
+        "z": "38411.4"
+    },
+    {
+        "gameName": "messina",
+        "realName": "Messina",
+        "country": "italy",
+        "x": "18557.4",
+        "y": "58.7461",
+        "z": "70913.3"
+    },
+    {
+        "gameName": "modena",
+        "realName": "Modena",
+        "country": "italy",
+        "x": "-110.371",
+        "y": "76.3867",
+        "z": "34033.2"
+    },
+    {
+        "gameName": "napoli",
+        "realName": "Napoli",
+        "country": "italy",
+        "x": "13301.3",
+        "y": "92.2227",
+        "z": "55970.5"
+    },
+    {
+        "gameName": "olbia",
+        "realName": "Olbia",
+        "country": "italy",
+        "x": "-6934.47",
+        "y": "55.9219",
+        "z": "54933.6"
+    },
+    {
+        "gameName": "oristano",
+        "realName": "Oristano",
+        "country": "italy",
+        "x": "-11619.1",
+        "y": "57.8164",
+        "z": "59839.6"
+    },
+    {
+        "gameName": "palermo",
+        "realName": "Palermo",
+        "country": "italy",
+        "x": "8961.45",
+        "y": "55.0078",
+        "z": "71177.8"
+    },
+    {
+        "gameName": "parma",
+        "realName": "Parma",
+        "country": "italy",
+        "x": "-2529.54",
+        "y": "87.207",
+        "z": "33610.7"
+    },
+    {
+        "gameName": "perugia",
+        "realName": "Perugia",
+        "country": "italy",
+        "x": "5484.8",
+        "y": "105.074",
+        "z": "42625.8"
+    },
+    {
+        "gameName": "pescara",
+        "realName": "Pescara",
+        "country": "italy",
+        "x": "12380.7",
+        "y": "79.8594",
+        "z": "47439"
+    },
+    {
+        "gameName": "pisa",
+        "realName": "Pisa",
+        "country": "italy",
+        "x": "-2296.73",
+        "y": "78.5117",
+        "z": "39358.6"
+    },
+    {
+        "gameName": "potenza",
+        "realName": "Potenza",
+        "country": "italy",
+        "x": "19793.2",
+        "y": "134.652",
+        "z": "57224.2"
+    },
+    {
+        "gameName": "ravenna",
+        "realName": "Ravenna",
+        "country": "italy",
+        "x": "5416.85",
+        "y": "67.3828",
+        "z": "35514.5"
+    },
+    {
+        "gameName": "reggio",
+        "realName": "Reggio",
+        "country": "italy",
+        "x": "20164.5",
+        "y": "69.6055",
+        "z": "72275.1"
+    },
+    {
+        "gameName": "roma",
+        "realName": "Roma",
+        "country": "italy",
+        "x": "5853.76",
+        "y": "65",
+        "z": "49761.7"
+    },
+    {
+        "gameName": "siena",
+        "realName": "Siena",
+        "country": "italy",
+        "x": "1194.18",
+        "y": "150",
+        "z": "41722.3"
+    },
+    {
+        "gameName": "taranto",
+        "realName": "Taranto",
+        "country": "italy",
+        "x": "25414.4",
+        "y": "69.5391",
+        "z": "58739.8"
+    }
+];
+
+var cities_afromap = [
+    {
+        "gameName": "algiers",
+        "realName": "Algiers",
+        "country": "algier",
+        "x": "-38215.8",
+        "y": "50.1367",
+        "z": "76472"
+    },
+    {
+        "gameName": "annaba",
+        "realName": "Annaba",
+        "country": "algier",
+        "x": "-16670.2",
+        "y": "50",
+        "z": "75892.2"
+    },
+    {
+        "gameName": "bizerte",
+        "realName": "Bizerte",
+        "country": "tunis",
+        "x": "-7092.85",
+        "y": "42.9297",
+        "z": "74232"
+    },
+    {
+        "gameName": "constantine",
+        "realName": "Constantine",
+        "country": "algier",
+        "x": "-21670.3",
+        "y": "50",
+        "z": "79061.1"
+    },
+    {
+        "gameName": "el_alia",
+        "realName": "El_Alia",
+        "country": "tunis",
+        "x": "-6069.74",
+        "y": "42.9336",
+        "z": "74757"
+    },
+    {
+        "gameName": "el_kala",
+        "realName": "El Kala",
+        "country": "algier",
+        "x": "-13360.3",
+        "y": "49.1172",
+        "z": "76308.9"
+    },
+    {
+        "gameName": "el_kef",
+        "realName": "El kef",
+        "country": "tunis",
+        "x": "-12123",
+        "y": "47.6797",
+        "z": "79825.3"
+    },
+    {
+        "gameName": "gabes",
+        "realName": "Gabes",
+        "country": "tunis",
+        "x": "-5781.2",
+        "y": "49.6641",
+        "z": "91105.4"
+    },
+    {
+        "gameName": "gafsa",
+        "realName": "Gafsa",
+        "country": "tunis",
+        "x": "-12289.6",
+        "y": "50.1602",
+        "z": "88399.2"
+    },
+    {
+        "gameName": "hammamet",
+        "realName": "Hammamet",
+        "country": "tunis",
+        "x": "-3332.37",
+        "y": "46.7656",
+        "z": "78747.1"
+    },
+    {
+        "gameName": "houmt_souk",
+        "realName": "Houmt Souk",
+        "country": "tunis",
+        "x": "-2800.36",
+        "y": "50.1484",
+        "z": "91619.5"
+    },
+    {
+        "gameName": "kairouan",
+        "realName": "Kairouan",
+        "country": "tunis",
+        "x": "-6364.26",
+        "y": "55.8828",
+        "z": "82307.5"
+    },
+    {
+        "gameName": "kasserine",
+        "realName": "Kasserine",
+        "country": "tunis",
+        "x": "-12202.3",
+        "y": "48.7656",
+        "z": "85063.4"
+    },
+    {
+        "gameName": "medenine",
+        "realName": "Medenine",
+        "country": "tunis",
+        "x": "-3844.41",
+        "y": "44.043",
+        "z": "93878.2"
+    },
+    {
+        "gameName": "naftah",
+        "realName": "Naftah",
+        "country": "tunis",
+        "x": "-16572.2",
+        "y": "50",
+        "z": "91096.1"
+    },
+    {
+        "gameName": "qibilt",
+        "realName": "Qibilt",
+        "country": "tunis",
+        "x": "-11888.3",
+        "y": "50",
+        "z": "91866.5"
+    },
+    {
+        "gameName": "sfax",
+        "realName": "Sfax",
+        "country": "tunis",
+        "x": "-2305.61",
+        "y": "46.8633",
+        "z": "86277.7"
+    },
+    {
+        "gameName": "skikda",
+        "realName": "Skikda",
+        "country": "algier",
+        "x": "-20611.9",
+        "y": "50",
+        "z": "76010.8"
+    },
+    {
+        "gameName": "souk_ahras",
+        "realName": "Souk ahras",
+        "country": "algier",
+        "x": "-15639.2",
+        "y": "46.5117",
+        "z": "79294.3"
+    },
+    {
+        "gameName": "sousse",
+        "realName": "Sousse",
+        "country": "tunis",
+        "x": "-3402.8",
+        "y": "45.6875",
+        "z": "81410.8"
+    },
+    {
+        "gameName": "tunis",
+        "realName": "Tunis",
+        "country": "tunis",
+        "x": "-5537.71",
+        "y": "42.9297",
+        "z": "76705.7"
+    }
+];
+
+var cities_tsm = [
+    {
+        "gameName": "athen",
+        "realName": "Athina",
+        "country": "greece",
+        "x": "59718.7",
+        "y": "71.6016",
+        "z": "69052.3"
+    },
+    {
+        "gameName": "bedous",
+        "realName": "Bedous",
+        "country": "france",
+        "x": "-48149.8",
+        "y": "95.4805",
+        "z": "33688.8"
+    },
+    {
+        "gameName": "bilbao",
+        "realName": "Bilbao",
+        "country": "spain",
+        "x": "-58021.5",
+        "y": "56.3086",
+        "z": "33519.2"
+    },
+    {
+        "gameName": "chania",
+        "realName": "Chania",
+        "country": "greece",
+        "x": "62940.7",
+        "y": "102.695",
+        "z": "83131.3"
+    },
+    {
+        "gameName": "cordoba",
+        "realName": "Cordoba",
+        "country": "spain",
+        "x": "-74354.7",
+        "y": "99.4922",
+        "z": "58555.6"
+    },
+    {
+        "gameName": "drama",
+        "realName": "Drama",
+        "country": "greece",
+        "x": "57259.4",
+        "y": "93.1523",
+        "z": "49602.2"
+    },
+    {
+        "gameName": "dubrovnik",
+        "realName": "Dubrovnik",
+        "country": "croatia",
+        "x": "30279.5",
+        "y": "50.9688",
+        "z": "44910.7"
+    },
+    {
+        "gameName": "evora",
+        "realName": "Evora",
+        "country": "portugal",
+        "x": "-83151.9",
+        "y": "107.586",
+        "z": "54120"
+    },
+    {
+        "gameName": "faro",
+        "realName": "Faro",
+        "country": "portugal",
+        "x": "-87025.5",
+        "y": "56.7461",
+        "z": "63303"
+    },
+    {
+        "gameName": "gibraltar",
+        "realName": "Gibraltar",
+        "country": "gibraltar",
+        "x": "-79283.9",
+        "y": "99.4922",
+        "z": "69730.8"
+    },
+    {
+        "gameName": "gijon",
+        "realName": "Gijón",
+        "country": "spain",
+        "x": "-67959.9",
+        "y": "53.2539",
+        "z": "29506.7"
+    },
+    {
+        "gameName": "iraklio",
+        "realName": "Iraklio",
+        "country": "greece",
+        "x": "68872.2",
+        "y": "84.1797",
+        "z": "83772"
+    },
+    {
+        "gameName": "kalamata",
+        "realName": "Kalamata",
+        "country": "greece",
+        "x": "51014.4",
+        "y": "232.367",
+        "z": "75593.7"
+    },
+    {
+        "gameName": "kastoria",
+        "realName": "Kastoria",
+        "country": "greece",
+        "x": "44999.3",
+        "y": "92.168",
+        "z": "55879.3"
+    },
+    {
+        "gameName": "kozani",
+        "realName": "Kozani",
+        "country": "greece",
+        "x": "47214.1",
+        "y": "125.688",
+        "z": "60387.1"
+    },
+    {
+        "gameName": "lamia",
+        "realName": "Lamia",
+        "country": "greece",
+        "x": "50984.3",
+        "y": "120.508",
+        "z": "64036.5"
+    },
+    {
+        "gameName": "larisa",
+        "realName": "Larisa",
+        "country": "greece",
+        "x": "50467.3",
+        "y": "70.5742",
+        "z": "61517.7"
+    },
+    {
+        "gameName": "leon",
+        "realName": "León",
+        "country": "spain",
+        "x": "-69888.2",
+        "y": "87.1367",
+        "z": "32826.7"
+    },
+    {
+        "gameName": "lisboa",
+        "realName": "Lisboa",
+        "country": "portugal",
+        "x": "-89558.3",
+        "y": "52.0703",
+        "z": "51228.7"
+    },
+    {
+        "gameName": "madrid",
+        "realName": "Madrid",
+        "country": "spain",
+        "x": "-63567.2",
+        "y": "50",
+        "z": "52774.4"
+    },
+    {
+        "gameName": "malaga",
+        "realName": "Malaga",
+        "country": "spain",
+        "x": "-73654.5",
+        "y": "99.4922",
+        "z": "68008.5"
+    },
+    {
+        "gameName": "merida",
+        "realName": "Merida",
+        "country": "spain",
+        "x": "-78102.8",
+        "y": "77.8047",
+        "z": "52050.3"
+    },
+    {
+        "gameName": "murcia",
+        "realName": "Murcia",
+        "country": "spain",
+        "x": "-54158.5",
+        "y": "44.1289",
+        "z": "65264.6"
+    },
+    {
+        "gameName": "patra",
+        "realName": "Patra",
+        "country": "greece",
+        "x": "47424.5",
+        "y": "77.6563",
+        "z": "69884.9"
+    },
+    {
+        "gameName": "porto",
+        "realName": "Porto",
+        "country": "portugal",
+        "x": "-84282",
+        "y": "53.4102",
+        "z": "40186.4"
+    },
+    {
+        "gameName": "preveza",
+        "realName": "Preveza",
+        "country": "greece",
+        "x": "43482.4",
+        "y": "57.2461",
+        "z": "64601.2"
+    },
+    {
+        "gameName": "salamanca",
+        "realName": "Salamanca",
+        "country": "spain",
+        "x": "-71863.8",
+        "y": "35.4727",
+        "z": "42379"
+    },
+    {
+        "gameName": "serres",
+        "realName": "Serres",
+        "country": "greece",
+        "x": "53396.9",
+        "y": "104.516",
+        "z": "51471"
+    },
+    {
+        "gameName": "sevilla",
+        "realName": "Sevilla",
+        "country": "spain",
+        "x": "-80132.5",
+        "y": "76.4883",
+        "z": "61591"
+    },
+    {
+        "gameName": "sparti",
+        "realName": "Sparti",
+        "country": "greece",
+        "x": "55059.6",
+        "y": "98.0273",
+        "z": "73272.7"
+    },
+    {
+        "gameName": "tirana",
+        "realName": "Tirana",
+        "country": "albania",
+        "x": "38063.8",
+        "y": "132.992",
+        "z": "51949"
+    },
+    {
+        "gameName": "trikala",
+        "realName": "Trikala",
+        "country": "greece",
+        "x": "47236.9",
+        "y": "115.047",
+        "z": "62375.9"
+    },
+    {
+        "gameName": "tripoligr",
+        "realName": "Tripoli",
+        "country": "greece",
+        "x": "51096.7",
+        "y": "175.965",
+        "z": "72914.7"
+    },
+    {
+        "gameName": "valladolid",
+        "realName": "Valladolid",
+        "country": "spain",
+        "x": "-66636",
+        "y": "56.0742",
+        "z": "38485.7"
+    },
+    {
+        "gameName": "villanubla",
+        "realName": "Villanubla",
+        "country": "spain",
+        "x": "-68890.7",
+        "y": "90.2969",
+        "z": "37235.1"
+    },
+    {
+        "gameName": "viseu",
+        "realName": "Viseu",
+        "country": "portugal",
+        "x": "-81381.6",
+        "y": "19.0234",
+        "z": "44341.5"
+    },
+    {
+        "gameName": "volos",
+        "realName": "Volos",
+        "country": "greece",
+        "x": "53652.1",
+        "y": "38.4883",
+        "z": "61965.4"
+    }
 ];
 
 var cities_yksrsk = [
