@@ -251,6 +251,12 @@ var country_properties = {
         code: "it",
         relative_radius: 1,
     },
+    "japan": {
+        name: "日本",
+        name_english: "Japan",
+        code: "jp",
+        relative_radius: 1,
+    },
     "jersey": {
         name: "Jersey",
         name_english: "Jersey",
@@ -9722,6 +9728,33 @@ var cities_romania_extended = [
     }
 ];
 
+var cities_japan = [
+    {
+        "gameName": "kanazawa",
+        "realName": "金沢",
+        "country": "japan",
+        "x": "388096",
+        "y": "56.1563",
+        "z": "75805.9"
+    },
+    {
+        "gameName": "takayama",
+        "realName": "高山",
+        "country": "japan",
+        "x": "392314",
+        "y": "64.7383",
+        "z": "77814.2"
+    },
+    {
+        "gameName": "toyama",
+        "realName": "富山",
+        "country": "japan",
+        "x": "392045",
+        "y": "55.2344",
+        "z": "74084.9"
+    }
+];
+
 
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
@@ -9734,6 +9767,7 @@ cities = cities.concat(cities_btbs); //Beyond the Baltic Sea DLC
 cities = cities.concat(cities_italy_map); //Italy Map / Italy DLC
 cities = cities.concat(cities_kz); //The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
+cities = cities.concat(cities_japan); //AfroMap
 cities = cities.concat(cities_tsm); //TruckSim-Map
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
