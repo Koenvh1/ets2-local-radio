@@ -18,7 +18,7 @@
         "waiting-coordinates": "En attente de vos coordonn\u00e9es en-jeu...",
         "closest-city": "La ville la plus proche est: <span class='nearestCity'><\/span>, \u00e0 <span class='distance'><\/span> m\u00e8tres de votre position",
         "amount-static": "Taux de gr\u00e9sillements:",
-        "chgtheme": "Toggle theme",
+        "chgtheme": "Changer le thème",
         "brightness": "Luminosit\u00e9:",
         "show-all": "Afficher toutes les stations",
         "enter-peerid-title": "Entrer le PeerID",
