@@ -1922,7 +1922,7 @@ var stations = {
         {
             name: "NHKラジオ第1放送",
             logo: "stations/images-europe/japan/NHKラジオ第1放送.png",
-            url: "http://koenvh.starfree.jp/radiko/JOAK/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/JOAK/JP13#.m3u8"
         },
         {
             name: "NHKラジオ第2放送",
@@ -1932,52 +1932,52 @@ var stations = {
         {
             name: "NHK-FM放送",
             logo: "stations/images-europe/japan/NHK-FM放送.png",
-            url: "http://koenvh.starfree.jp/radiko/JOAK-FM/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/JOAK-FM/JP13#.m3u8"
         },
         {
             name: "TBSラジオ",
             logo: "stations/images-europe/japan/TBS.png",
-            url: "http://koenvh.starfree.jp/radiko/TBS/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/TBS/JP13#.m3u8"
         },
         {
             name: "文化放送",
             logo: "stations/images-europe/japan/QRR.png",
-            url: "http://koenvh.starfree.jp/radiko/QRR/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/QRR/JP13#.m3u8"
         },
         {
             name: "ニッポン放送",
             logo: "stations/images-europe/japan/LFR.png",
-            url: "http://koenvh.starfree.jp/radiko/LFR/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/LFR/JP13#.m3u8"
         },
         {
             name: "ラジオNIKKEI",
             logo: "stations/images-europe/japan/RN1.png",
-            url: "http://koenvh.starfree.jp/radiko/RN1/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/RN1/JP13#.m3u8"
         },
         {
             name: "ラニィミュージック",
             logo: "stations/images-europe/japan/RN2.png",
-            url: "http://koenvh.starfree.jp/radiko/RN2/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/RN2/JP13#.m3u8"
         },
         {
             name: "InterFM",
             logo: "stations/images-europe/japan/INT.png",
-            url: "http://koenvh.starfree.jp/radiko/INT/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/INT/JP13#.m3u8"
         },
         {
             name: "Tokyo FM",
             logo: "stations/images-europe/japan/FMT.png",
-            url: "http://koenvh.starfree.jp/radiko/FMT/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/FMT/JP13#.m3u8"
         },
         {
             name: "J-WAVE",
             logo: "stations/images-europe/japan/FMJ.png",
-            url: "http://koenvh.starfree.jp/radiko/FMJ/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/FMJ/JP13#.m3u8"
         },
         {
             name: "放送大学",
             logo: "stations/images-europe/japan/HOUSOU-DAIGAKU.png",
-            url: "http://koenvh.starfree.jp/radiko/HOUSOU-DAIGAKU/#.m3u8"
+            url: "http://koenvh.starfree.jp/radiko/HOUSOU-DAIGAKU/JP13#.m3u8"
         },
     ],
     "jordan": [
