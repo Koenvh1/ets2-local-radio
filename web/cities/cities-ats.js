@@ -3246,9 +3246,15 @@ var country_properties_c2c = {
         code: "us-mt",
         relative_radius: 1.2
     },
-    "dillon_mt": {
-        name: "dillon_mt",
-        name_english: "dillon_mt",
+    "forsyth": {
+        name: "forsyth",
+        name_english: "forsyth",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "glasgow": {
+        name: "glasgow",
+        name_english: "glasgow",
         code: "us-mt",
         relative_radius: 1.2
     },
@@ -3258,15 +3264,69 @@ var country_properties_c2c = {
         code: "us-mt",
         relative_radius: 1.2
     },
-    "miles_city": {
-        name: "miles_city",
-        name_english: "miles_city",
+    "greatfalls": {
+        name: "greatfalls",
+        name_english: "greatfalls",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "havre": {
+        name: "havre",
+        name_english: "havre",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "helena": {
+        name: "helena",
+        name_english: "helena",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "kalispell": {
+        name: "kalispell",
+        name_english: "kalispell",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "lewistown": {
+        name: "lewistown",
+        name_english: "lewistown",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "malta": {
+        name: "malta",
+        name_english: "malta",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "milescity": {
+        name: "milescity",
+        name_english: "milescity",
         code: "us-mt",
         relative_radius: 1.2
     },
     "missoula": {
         name: "missoula",
         name_english: "missoula",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "roundup": {
+        name: "roundup",
+        name_english: "roundup",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "shelby": {
+        name: "shelby",
+        name_english: "shelby",
+        code: "us-mt",
+        relative_radius: 1.2
+    },
+    "wolfpoint": {
+        name: "wolfpoint",
+        name_english: "wolfpoint",
         code: "us-mt",
         relative_radius: 1.2
     },
@@ -4884,16 +4944,46 @@ var city_properties_c2c = {
     "butte": {
         relative_whitenoise: 0.95
     },
-    "dillon_mt": {
+    "forsyth": {
+        relative_whitenoise: 0.95
+    },
+    "glasgow": {
         relative_whitenoise: 0.95
     },
     "glendive": {
         relative_whitenoise: 0.95
     },
-    "miles_city": {
+    "greatfalls": {
+        relative_whitenoise: 0.95
+    },
+    "havre": {
+        relative_whitenoise: 0.95
+    },
+    "helena": {
+        relative_whitenoise: 0.95
+    },
+    "kalispell": {
+        relative_whitenoise: 0.95
+    },
+    "lewistown": {
+        relative_whitenoise: 0.95
+    },
+    "malta": {
+        relative_whitenoise: 0.95
+    },
+    "milescity": {
         relative_whitenoise: 0.95
     },
     "missoula": {
+        relative_whitenoise: 0.95
+    },
+    "roundup": {
+        relative_whitenoise: 0.95
+    },
+    "shelby": {
+        relative_whitenoise: 0.95
+    },
+    "wolfpoint": {
         relative_whitenoise: 0.95
     },
     "nebraska": {
@@ -6595,12 +6685,20 @@ var cities_c2c = [
         "z": "-46049.2"
     },
     {
-        "gameName": "dillon_mt",
-        "realName": "Dillon",
+        "gameName": "forsyth",
+        "realName": "Forsyth",
         "country": "montana",
-        "x": "-65834.6",
-        "y": "231.468",
-        "z": "-41960.6"
+        "x": "-42303.6",
+        "y": "303.387",
+        "z": "-44059.5"
+    },
+    {
+        "gameName": "glasgow",
+        "realName": "Glasgow",
+        "country": "montana",
+        "x": "-40287.7",
+        "y": "245.02",
+        "z": "-54780.7"
     },
     {
         "gameName": "glendive",
@@ -6611,12 +6709,60 @@ var cities_c2c = [
         "z": "-47863.6"
     },
     {
-        "gameName": "miles_city",
+        "gameName": "greatfalls",
+        "realName": "Great Falls",
+        "country": "montana",
+        "x": "-57695.8",
+        "y": "287.27",
+        "z": "-53380"
+    },
+    {
+        "gameName": "havre",
+        "realName": "Havre",
+        "country": "montana",
+        "x": "-50549.2",
+        "y": "237.535",
+        "z": "-58015.8"
+    },
+    {
+        "gameName": "helena",
+        "realName": "Helena",
+        "country": "montana",
+        "x": "-61695.5",
+        "y": "314.918",
+        "z": "-48818.2"
+    },
+    {
+        "gameName": "kalispell",
+        "realName": "Kalispell",
+        "country": "montana",
+        "x": "-68533.6",
+        "y": "274.883",
+        "z": "-59476.3"
+    },
+    {
+        "gameName": "lewistown",
+        "realName": "Lewistown",
+        "country": "montana",
+        "x": "-51981.1",
+        "y": "128.777",
+        "z": "-49980.6"
+    },
+    {
+        "gameName": "malta",
+        "realName": "Malta",
+        "country": "montana",
+        "x": "-44372.8",
+        "y": "218.148",
+        "z": "-55913.4"
+    },
+    {
+        "gameName": "milescity",
         "realName": "Miles City",
         "country": "montana",
-        "x": "-36751",
-        "y": "235.246",
-        "z": "-46020.4"
+        "x": "-37842.4",
+        "y": "296.844",
+        "z": "-44954.1"
     },
     {
         "gameName": "missoula",
@@ -6625,6 +6771,30 @@ var cities_c2c = [
         "x": "-69491.6",
         "y": "268.016",
         "z": "-51664.9"
+    },
+    {
+        "gameName": "roundup",
+        "realName": "Roundup",
+        "country": "montana",
+        "x": "-48725.7",
+        "y": "199.484",
+        "z": "-45784.5"
+    },
+    {
+        "gameName": "shelby",
+        "realName": "Shelby",
+        "country": "montana",
+        "x": "-58535.3",
+        "y": "268.91",
+        "z": "-59103.9"
+    },
+    {
+        "gameName": "wolfpoint",
+        "realName": "Wolf Point",
+        "country": "montana",
+        "x": "-36778.1",
+        "y": "266.906",
+        "z": "-53491"
     },
     {
         "gameName": "grand_island",
