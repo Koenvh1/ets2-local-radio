@@ -341,7 +341,7 @@ var stations = {
         {
             name: "NRJ",
             logo: "stations/images-europe/belgium-fr/NRJ.svg",
-            url: "http://listen.shoutcast.com/NRJPremium"
+            url: "https://streamingp.shoutcast.com/NRJ?gdpr=true&gdpr_consent=BOorpfjOorpfjAKAZBENCr-AAAArl7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-3zd4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9phP78k89r7337Ew-v-3o8LzBA&lang=nl&userref=AERiMm8YdO2fTjsxgmK4tMEXt98AWt1571491649943"
         },
         {
             name: "Radio Contact",
@@ -456,7 +456,7 @@ var stations = {
         {
             name: "RAC105",
             logo: "stations/images-europe/catalonia/RAC105.png",
-            url: "http://ios105.radiocat.net/;*.nsv"
+            url: "https://streaming.rac105.cat/"
         },
         {
             name: "RàdioEstel",
@@ -498,7 +498,7 @@ var stations = {
         {
             name: "Otvoreni radio",
             logo: "stations/images-europe/croatia/Otvoreni radio.png",
-            url: "http://50.7.70.58:8672/;"
+            url: "http://192.240.102.133:12018/;"
         },
     ],
     "cyprus": [
@@ -1759,7 +1759,7 @@ var stations = {
         {
             name: "News Talk 106-108 FM",
             logo: "stations/images-europe/ireland/Newstalk 106-108 FM.jpg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/NEWSTALK.mp3"
+            url: "https://stream.audioxi.com/NT"
         },
         {
             name: "Raidió Rí-Rá",
@@ -1769,7 +1769,7 @@ var stations = {
         {
             name: "Today FM",
             logo: "stations/images-europe/ireland/Today FM.jpg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TODAY_FM.mp3"
+            url: "https://stream.audioxi.com/TD"
         },
     ],
     "israel": [
@@ -1863,6 +1863,11 @@ var stations = {
             url: "http://shoutcast2.radio24.ilsole24ore.com:8000/;stream.nsv"
         },
         {
+            name: "Radio Bruno",
+            logo: "stations/images-europe/italy/Radio Bruno.png",
+            url: "http://onair18.xdevel.com:8062/;"
+        },
+        {
             name: "Radio Capital",
             logo: "stations/images-europe/italy/Radio Capital.png",
             url: "http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8"
@@ -1905,7 +1910,7 @@ var stations = {
         {
             name: "Radio Sportiva",
             logo: "stations/images-europe/italy/Radio Sportiva.png",
-            url: "http://nr5.newradio.it:8545/aac80/sportiva"
+            url: "http://46.105.114.57:8000/stream"
         },
         {
             name: "RTL 102.5",
@@ -2813,7 +2818,7 @@ var stations = {
             url: "http://emgspb.hostingradio.ru/novoespb128.mp3"
         },
         {
-            name: "Комеди радио",
+            name: "Комеди Радио",
             logo: "stations/images-europe/russia/Комеди радио.png",
             url: "http://ic3.101.ru:8000/a202?userid=0&setst=825m68ucig22pol2p8lkrd9fi5"
         },
@@ -2832,6 +2837,11 @@ var stations = {
         },
          */
         {
+            name: "Радио Maximum",
+            logo: "stations/images-europe/russia/Радио Maximum.jpg",
+            url: "https://maximum.hostingradio.ru/maximum96.aacp"
+        },
+        {
             name: "Радио Родных Дорог",
             logo: "stations/images-europe/russia/Радио Родных Дорог.svg",
             url: "http://stream1.radiord.ru:8000/live96.aac"
@@ -2844,7 +2854,7 @@ var stations = {
         {
             name: "Радио Шансон",
             logo: "stations/images-europe/russia/Радио Шансон.png",
-            url: "http://radio02-cn03.akadostream.ru:8108/shanson128.mp3"
+            url: "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8"
         },
         {
             name: "Радио DFM",
