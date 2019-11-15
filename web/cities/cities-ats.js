@@ -83,6 +83,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.2
     },
+    "cedar_city": {
+        name: "Cedar City",
+        name_english: "Cedar City",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
     "clovis": {
         name: "Clovis",
         name_english: "Clovis",
@@ -257,6 +263,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.3
     },
+    "logan": {
+        name: "Logan",
+        name_english: "Logan",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
     "longview": {
         name: "Longview",
         name_english: "Longview",
@@ -273,6 +285,12 @@ var country_properties = {
         name: "Medford",
         name_english: "Medford",
         code: "us-or",
+        relative_radius: 1.2
+    },
+    "moab": {
+        name: "Moab",
+        name_english: "Moab",
+        code: "us-ut",
         relative_radius: 1.2
     },
     "newport": {
@@ -297,6 +315,12 @@ var country_properties = {
         name: "Oakland",
         name_english: "Oakland",
         code: "us-ca",
+        relative_radius: 1.2
+    },
+    "ogden": {
+        name: "Ogden",
+        name_english: "Ogden",
+        code: "us-ut",
         relative_radius: 1.2
     },
     "olympia": {
@@ -359,10 +383,22 @@ var country_properties = {
         code: "us-or",
         relative_radius: 1.2
     },
+    "price": {
+        name: "Price",
+        name_english: "Price",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
     "primm": {
         name: "Primm",
         name_english: "Primm",
         code: "us-nv",
+        relative_radius: 1.2
+    },
+    "provo": {
+        name: "Provo",
+        name_english: "Provo",
+        code: "us-ut",
         relative_radius: 1.2
     },
     "raton": {
@@ -405,6 +441,18 @@ var country_properties = {
         name: "Salem",
         name_english: "Salem",
         code: "us-or",
+        relative_radius: 1.2
+    },
+    "salina": {
+        name: "Salina",
+        name_english: "Salina",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
+    "salt_lake": {
+        name: "Salt Lake City",
+        name_english: "Salt Lake City",
+        code: "us-ut",
         relative_radius: 1.2
     },
     "santa_cruz": {
@@ -479,6 +527,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 1.2
     },
+    "st_george": {
+        name: "St. George",
+        name_english: "St. George",
+        code: "us-ut",
+        relative_radius: 1.2
+    },
     "stockton": {
         name: "Stockton",
         name_english: "Stockton",
@@ -531,6 +585,12 @@ var country_properties = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "us-wa",
+        relative_radius: 1.2
+    },
+    "vernal": {
+        name: "Vernal",
+        name_english: "Vernal",
+        code: "us-ut",
         relative_radius: 1.2
     },
     "wenatchee": {
@@ -602,6 +662,9 @@ var city_properties = {
     "carson_city": {
         relative_whitenoise: 0.95
     },
+    "cedar_city": {
+        relative_whitenoise: 0.95
+    },
     "ehrenberg": {
         relative_whitenoise: 0.95
     },
@@ -647,7 +710,13 @@ var city_properties = {
     "las_vegas": {
         relative_whitenoise: 0.95
     },
+    "logan": {
+        relative_whitenoise: 0.95
+    },
     "los_angeles": {
+        relative_whitenoise: 0.95
+    },
+    "moab": {
         relative_whitenoise: 0.95
     },
     "nogales": {
@@ -657,6 +726,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "oakland": {
+        relative_whitenoise: 0.95
+    },
+    "ogden": {
         relative_whitenoise: 0.95
     },
     "oxnard": {
@@ -671,7 +743,13 @@ var city_properties = {
     "pioche": {
         relative_whitenoise: 0.95
     },
+    "price": {
+        relative_whitenoise: 0.95
+    },
     "primm": {
+        relative_whitenoise: 0.95
+    },
+    "provo": {
         relative_whitenoise: 0.95
     },
     "redding": {
@@ -681,6 +759,12 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sacramento": {
+        relative_whitenoise: 0.95
+    },
+    "salina": {
+        relative_whitenoise: 0.95
+    },
+    "salt_lake": {
         relative_whitenoise: 0.95
     },
     "santa_cruz": {
@@ -716,6 +800,9 @@ var city_properties = {
     "stockton": {
         relative_whitenoise: 0.95
     },
+    "st_george": {
+        relative_whitenoise: 0.95
+    },
     "tonopah": {
         relative_whitenoise: 0.95
     },
@@ -726,6 +813,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "ukiah": {
+        relative_whitenoise: 0.95
+    },
+    "vernal": {
         relative_whitenoise: 0.95
     },
     "winnemucca": {
@@ -1490,6 +1580,86 @@ var cities = [
         "x": "-94370.8",
         "y": "50",
         "z": "-55556.1"
+    },
+    {
+        "gameName": "cedar_city",
+        "realName": "Cedar City",
+        "country": "utah",
+        "x": "-74848.7",
+        "y": "141.516",
+        "z": "-972.027"
+    },
+    {
+        "gameName": "logan",
+        "realName": "Logan",
+        "country": "utah",
+        "x": "-65798.2",
+        "y": "126.43",
+        "z": "-21523.4"
+    },
+    {
+        "gameName": "moab",
+        "realName": "Moab",
+        "country": "utah",
+        "x": "-58842.2",
+        "y": "119",
+        "z": "-2435.75"
+    },
+    {
+        "gameName": "ogden",
+        "realName": "Ogden",
+        "country": "utah",
+        "x": "-67538.6",
+        "y": "117.91",
+        "z": "-18856.8"
+    },
+    {
+        "gameName": "price",
+        "realName": "Price",
+        "country": "utah",
+        "x": "-62580.7",
+        "y": "124.434",
+        "z": "-9222.07"
+    },
+    {
+        "gameName": "provo",
+        "realName": "Provo",
+        "country": "utah",
+        "x": "-66418.5",
+        "y": "116",
+        "z": "-13064.7"
+    },
+    {
+        "gameName": "salina",
+        "realName": "Salina",
+        "country": "utah",
+        "x": "-68567.1",
+        "y": "131",
+        "z": "-6747.52"
+    },
+    {
+        "gameName": "salt_lake",
+        "realName": "Salt Lake City",
+        "country": "utah",
+        "x": "-68092",
+        "y": "111.199",
+        "z": "-16343.5"
+    },
+    {
+        "gameName": "st_george",
+        "realName": "St. George",
+        "country": "utah",
+        "x": "-78434.4",
+        "y": "92.9219",
+        "z": "2826.92"
+    },
+    {
+        "gameName": "vernal",
+        "realName": "Vernal",
+        "country": "utah",
+        "x": "-57321.6",
+        "y": "131",
+        "z": "-12804.7"
     }
 ];
 
