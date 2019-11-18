@@ -2118,16 +2118,6 @@ var stations = {
             url: "https://c3.prod.playlists.ihrhls.com/1337_icy"
         },
         {
-            name: "Mix 94.1",
-            logo: "stations/images-america/las_vegas/Mix 94.1.png",
-            url: "https://lv.4everproxy.com/secure/qnf71_vEAZwQ7VB~VUzY7vNOlrK4ye_Tht6gPFmgp~c2ratqArBXNWIwim2q2bCYFK6cbNB3ZDaGUb6U5EfM5U8gncY5KgXA8uWJ5U1nRps-"
-        },
-        {
-            name: "ChannelQ 94.1-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
-            url: "https://lv.4everproxy.com/secure/qnf71_vEAZwQ7VB~VUzY7vNOlrK4ye_Tht6gPFmgp~c2ratqArBXNWIwim2q2bCYFK6cbNB3ZDaGUb6U5EfM5TbfTkDxSESUGhcieUHbNdU-"
-        },
-        {
             name: "La Campesina 96.7",
             logo: "stations/images-america/las_vegas/La Campesina 96.7.png",
             url: "https://ice42.securenetsystems.net/KYLI"
@@ -2148,24 +2138,9 @@ var stations = {
             url: "http://64.150.176.42:8182/stream"
         },
         {
-            name: "98.5 KLUC",
-            logo: "stations/images-america/las_vegas/98.5 KLUC.png",
-            url: "https://lv.4everproxy.com/secure/pLHBgosoW0_lQbdR6iOdlSiy2fdMg62BowZzxeGPtX7zhDh~rReUqjb8B0YSJBSvOrunkV5pdx156ZMdA5oIrKErz7mwh~wdsh6PkXu7QHytKN4pr_yZ5JJld6hOmBmZAofCqUDLpmzMqbgmlmeVkYAIeQJCjlEJKYUOGGMVgfBsmGtOciVPAooXaL8ouYISww5tbwR2bAxaR7iZb55JLoAxgQtk7qOMOiYSVH4ttU0-"
-        },
-        {
-            name: "98.5-HD2 Da Shaka",
-            logo: "stations/images-america/las_vegas/98.5-HD2 Da Shaka.png",
-            url: "https://lv.4everproxy.com/secure/qnf71_vEAZwQ7VB~VUzY7vNOlrK4ye_Tht6gPFmgp~c2ratqArBXNWIwim2q2bCYFK6cbNB3ZDaGUb6U5EfM5V6Tq_mYv0C~TndrmE9Gcxc-"
-        },
-        {
             name: "The Highway Vibe 99.7",
             logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
             url: "https://edge2-b.exa.live365.net/a48408"
-        },
-        {
-            name: "Q100Vegas",
-            logo: "stations/images-america/las_vegas/Q100Vegas.png",
-            url: "https://lv.4everproxy.com/secure/qnf71_vEAZwQ7VB~VUzY7vNOlrK4ye_Tht6gPFmgp~c2ratqArBXNWIwim2q2bCYFK6cbNB3ZDaGUb6U5EfM5Z59MCov3MypqnrABgOS7wM-"
         },
         {
             name: "Real 103.9",
@@ -2186,11 +2161,6 @@ var stations = {
             name: "KIYQ 107.1",
             logo: "stations/images-america/las_vegas/KIYQ.png",
             url: "http://24.120.173.242:8002/stream/2/"
-        },
-        {
-            name: "Star 107.9",
-            logo: "stations/images-america/las_vegas/Star 107.9.png",
-            url: "https://lv.4everproxy.com/secure/qnf71_vEAZwQ7VB~VUzY7vNOlrK4ye_Tht6gPFmgp~c2ratqArBXNWIwim2q2bCYFK6cbNB3ZDaGUb6U5EfM5SYdnTdgdEztkJ_JECqQoAHnmO1vxIkMuxWSF8Y_T_z~"
         },
     ],
     "logan": [
@@ -2342,11 +2312,6 @@ var stations = {
             name: "Q95.9",
             logo: "stations/images-america/los_angeles/Q95.9.png",
             url: "https://ice9.securenetsystems.net/KCAQ"
-        },
-        {
-            name: "97.1 AMP Radio",
-            logo: "stations/images-america/los_angeles/97.1 AMP Radio.png",
-            url: "https://lv.4everproxy.com/secure/qnf71_vEAZwQ7VB~VUzY7vNOlrK4ye_Tht6gPFmgp~c2ratqArBXNWIwim2q2bCYFK6cbNB3ZDaGUb6U5EfM5edIy19ePl4fmfmZ_W9Hvcw-"
         },
         {
             name: "98.2 The Beat",
