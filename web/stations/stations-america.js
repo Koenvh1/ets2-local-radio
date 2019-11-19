@@ -784,7 +784,7 @@ var stations = {
         },
         {
             name: "Variety 104.7",
-            logo: "stations/images-america/clovis/Big 101.5.png",
+            logo: "stations/images-america/clovis/Variety 104.7.png",
             url: "http://variety1047.com:8192/variety128"
         },
         {
