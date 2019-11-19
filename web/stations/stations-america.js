@@ -151,7 +151,7 @@ var stations = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/99.5 Magic FM.png",
+            logo: "stations/images-america/albuquerque/99.5 Magic.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFM_SC"
         },
         {
