@@ -311,24 +311,29 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
-            name: "Campesina 92.5",
-            logo: "stations/images-america/bakersfield/Campesina.jpg",
+            name: "Q92.1",
+            logo: "stations/images-america/bakersfield/Q92.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQKZFM.mp3"
+        },
+        {
+            name: "La Campesina 92.5",
+            logo: "stations/images-america/bakersfield/La Campesina 92.5.png",
             url: "http://ice41.securenetsystems.net:80/NETCAMP"
         },
         {
-            name: "Concierto 96.5",
-            logo: "stations/images-america/bakersfield/KPSL-FM.png",
-            url: "http://ice24.securenetsystems.net/KPSL"
+            name: "La Ley 96.5",
+            logo: "stations/images-america/bakersfield/La Ley 96.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPSLFM.mp3"
         },
         {
             name: "The Bull 97.3",
             logo: "stations/images-america/bakersfield/The Bull 97.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3"
-        },
+        },,
         {
-            name: "103.3 The Vibe",
-            logo: "stations/images-america/bakersfield/103.3 The Vibe.jpg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVYBFMAAC_SC"
+            name: "KRUZ 103.3",
+            logo: "stations/images-america/oxnard/KRUZ 103.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
         },
         {
             name: "103.9 The Beat",
