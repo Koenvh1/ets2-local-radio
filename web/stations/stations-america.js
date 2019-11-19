@@ -329,7 +329,7 @@ var stations = {
             name: "The Bull 97.3",
             logo: "stations/images-america/bakersfield/The Bull 97.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRJK.mp3"
-        },,
+        },
         {
             name: "KRUZ 103.3",
             logo: "stations/images-america/oxnard/KRUZ 103.3.png",
