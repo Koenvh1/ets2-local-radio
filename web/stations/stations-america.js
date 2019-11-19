@@ -242,9 +242,9 @@ var stations = {
             url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
         },
         {
-            name: "92.9 FM Hot New Country",
-            logo: "stations/images-america/roswell/Hot New Country 92.9 FM.png",
-            url: "http://ice3.securenetsystems.net:80/KTZA"
+            name: "92.9 The Brand",
+            logo: "stations/images-america/roswell/92.9 The Brand.png",
+            url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
             name: "B107 The Blaze",
@@ -403,7 +403,7 @@ var stations = {
     "bellingham": [
         {
             name: "Effect Radio 88.3 FM",
-            logo: "stations/images-america/bellingham/Effect Radio 88.3 FM.svg",
+            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -542,7 +542,7 @@ var stations = {
         },
         {
             name: "Effect Radio",
-            logo: "stations/images-america/roswell/Effect Radio.png",
+            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -1733,7 +1733,7 @@ var stations = {
     "jackpot": [
         {
             name: "Effect Radio",
-            logo: "stations/images-america/roswell/Effect Radio.png",
+            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -2000,7 +2000,7 @@ var stations = {
         },
         {
             name: "Effect Radio",
-            logo: "stations/images-america/roswell/Effect Radio.png",
+            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -3494,64 +3494,54 @@ var stations = {
     ],
     "roswell": [
         {
-            name: "KJTV 950 AM",
-            logo: "stations/images-america/roswell/KJTV.png",
-            url: "https://ais-sa1.streamon.fm/7195_48k.aac"
+            name: "Effect Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
+            url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
-            name: "Relevant Radio",
-            logo: "stations/images-america/roswell/Relevant Radio.png",
-            url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
+            name: "KENW 91.1",
+            logo: "stations/images-america/0_general_logos/KENW.png",
+            url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
-            name: "Effect Radio",
-            logo: "stations/images-america/roswell/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            name: "92.9 The Brand",
+            logo: "stations/images-america/roswell/92.9 The Brand.png",
+            url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
-            name: "CSN",
-            logo: "stations/images-america/roswell/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            name: "Hot 97",
+            logo: "stations/images-america/roswell/Hot 97.png",
+            url: "https://ice42.securenetsystems.net/KBCQ"
         },
         {
-            name: "Radio Nueva Vida",
-            logo: "stations/images-america/roswell/Radio Nueva Vida.png",
-            url: "http://sc1.christiannetcast.com:9138/;stream.mp3"
-        },
-        {
-            name: "KBIM",
-            logo: "stations/images-america/roswell/KBIM Radio.png",
-            url: "http://crystalout.surfernetwork.com:8001/KBIM_MP3"
-        },
-        {
-            name: "92.9 FM Hot New Country ",
-            logo: "stations/images-america/roswell/Hot New Country 92.9 FM.png",
-            url: "http://ice3.securenetsystems.net:80/KTZA"
-        },
-        {
-            name: "Mix 96.7",
-            logo: "stations/images-america/alamogordo/Mix 96.7.png",
-            url: "http://ice3.securenetsystems.net/KNMB"
-        },
-        {
-            name: "Star 88",
-            logo: "stations/images-america/roswell/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
-        },
-        {
-            name: "Family Life Radio",
+            name: "Family Life Radio 99.3",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
-            name: "KHFM",
-            logo: "stations/images-america/roswell/KHFM.png",
+            name: "Radio Vida 101.1",
+            logo: "stations/images-america/roswell/Radio Vida 101.1.png",
+            url: "http://shout2.brnstream.com:8006/stream"
+        },
+        {
+            name: "Radio Amigo 102.5",
+            logo: "stations/images-america/roswell/Radio Amigo.png",
+            url: "http://51.255.123.116:6006/stream"
+        },
+        {
+            name: "Classical 95.5 KHFM - 103.1",
+            logo: "stations/images-america/roswell/Classical 95.5 KHFM.png",
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
+            name: "Fierro 106.1",
+            logo: "stations/images-america/carlsbad_nm/Fierro 106.1.png",
+            url: "http://ice3.securenetsystems.net:80/KPZE"
+        },
+        {
             name: "106.5 Roswell's Talk FM",
-            logo: "stations/images-america/roswell/Roswell's Talk FM.png",
-            url: "http://ice3.securenetsystems.net:80/KEND"
+            logo: "stations/images-america/carlsbad_nm/106.5 Roswell's Talk FM.png",
+            url: "https://ice23.securenetsystems.net/KEND"
         },
     ],
     "sacramento": [
@@ -4953,11 +4943,6 @@ var stations = {
             name: "ALT 92.1",
             logo: "stations/images-america/reno/ALT 92.1.png",
             url: "https://ice24.securenetsystems.net/ALT921"
-        },
-        {
-            name: "Relevant Radio",
-            logo: "stations/images-america/roswell/Relevant Radio.png",
-            url: "http://relevantradio-ice.streamguys.us/relevantradio-web"
         },
         {
             name: "95.5 The Vibe",
