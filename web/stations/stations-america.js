@@ -306,8 +306,8 @@ var stations = {
             url: "http://ic1.christiannetcast.com/nuevavida"
         },
         {
-            name: "Family Radio West Coast",
-            logo: "stations/images-america/bakersfield/Family Radio West Coast.svg",
+            name: "Family Radio 91.3",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
@@ -347,7 +347,7 @@ var stations = {
         },
         {
             name: "ALT 106.1",
-            logo: "stations/images-america/bakersfield/Alt 106.1 KRAB Radio.png",
+            logo: "stations/images-america/bakersfield/ALT 106.1.png",
             url: "http://c9icyelb.prod.playlists.ihrhls.com/3236_icy"
         },
         {
@@ -1612,11 +1612,6 @@ var stations = {
         },*/
     ],
     "huron": [
-        {
-            name: "Family Radio West Coast",
-            logo: "stations/images-america/huron/Family Radio West Coast.svg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
-        },
         {
             name: "93.7 Kiss Country",
             logo: "stations/images-america/huron/Kiss Country.png",
@@ -3044,8 +3039,8 @@ var stations = {
             url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
         },
         {
-            name: "Family Radio West Coast",
-            logo: "stations/images-america/phoenix/Family Radio West Coast.svg",
+            name: "Family Radio 88.9",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
@@ -4056,11 +4051,6 @@ var stations = {
             name: "KCBX 90.1 FM",
             logo: "stations/images-america/santa_maria/KCBX 90.1 FM.png",
             url: "http://peace.str3am.com:6420/kcbx-hi"
-        },
-        {
-            name: "Q92.1",
-            logo: "stations/images-america/bakersfield/Q92.1.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQKZFMAAC_SC"
         },
         {
             name: "Old School 99.1 FM",
@@ -5131,8 +5121,8 @@ var stations = {
             url: "http://brokenfm.primcast.com:6834/;stream/1"
         },
         {
-            name: "Family Radio West Coast",
-            logo: "stations/images-america/ukiah/Family Radio West Coast.svg",
+            name: "Family Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
