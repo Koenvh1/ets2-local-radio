@@ -378,7 +378,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFM.mp3"
         },
         {
-            name: "93.3 KBHR",
+            name: "KBHR 93.3",
             logo: "stations/images-america/barstow/KBHR.png",
             url: "http://ice5.securenetsystems.net/KBHR"
         },
