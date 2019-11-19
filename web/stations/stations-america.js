@@ -3496,7 +3496,7 @@ var stations = {
         {
             name: "Effect Radio 89.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.svg",
-            url: "http://ice10.securenetsystems.net:80/KENWFM"
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
             name: "KENW 91.1",
