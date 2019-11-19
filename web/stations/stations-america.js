@@ -115,19 +115,24 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128.mp3"
         },
         {
-            name: "Family Life Radio",
+            name: "Family Life Radio 91.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
-            name: "Nash FM 92.3",
+            name: "92.3 KRST",
             logo: "stations/images-america/albuquerque/Nash FM 92.3 KRST.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFM.mp3"
         },
         {
-            name: "93.3 KOB FM",
-            logo: "stations/images-america/albuquerque/KOB FM.png",
+            name: "93.3 The Q",
+            logo: "stations/images-america/albuquerque/93.3 The Q.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOBFM.mp3"
+        },
+        {
+            name: "KIVA 93.7 FM",
+            logo: "stations/images-america/albuquerque/KIVA 93.7 FM.png",
+            url: "http://uk1.internet-radio.com:15889/live"
         },
         {
             name: "94 Rock",
@@ -145,7 +150,7 @@ var stations = {
             url: "https://c4.prod.playlists.ihrhls.com/1381_icy"
         },
         {
-            name: "99.5 Magic FM",
+            name: "Magic 99.5",
             logo: "stations/images-america/albuquerque/99.5 Magic FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFM_SC"
         },
@@ -213,11 +218,6 @@ var stations = {
             name: "1050 KTBL",
             logo: "stations/images-america/albuquerque/1050 KTBL.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC.aac"
-        },
-        {
-            name: "KIVA 1600 AM",
-            logo: "stations/images-america/albuquerque/Fox News ABQ.FM.png",
-            url: "http://uk1.internet-radio.com:15889/live"
         },
     ],
     "artesia": [
@@ -3951,8 +3951,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFM.mp3"
         },
         {
-            name: "93.3 KOB FM",
-            logo: "stations/images-america/albuquerque/KOB FM.png",
+            name: "93.3 The Q",
+            logo: "stations/images-america/albuquerque/93.3 The Q.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOBFM.mp3"
         },
         {
