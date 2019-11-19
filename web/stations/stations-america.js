@@ -3540,7 +3540,7 @@ var stations = {
         },
         {
             name: "106.5 Roswell's Talk FM",
-            logo: "stations/images-america/carlsbad_nm/106.5 Roswell's Talk FM.png",
+            logo: "stations/images-america/roswell/106.5 Roswell's Talk FM.png",
             url: "https://ice23.securenetsystems.net/KEND"
         },
     ],
