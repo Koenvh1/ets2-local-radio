@@ -605,14 +605,9 @@ var stations = {
             url: "http://c13icyelb.prod.playlists.ihrhls.com/261_icy"
         },
         {
-            name: "La Suavecita",
-            logo: "stations/images-america/carlsbad/La Suavecita.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSSEFM.mp3"
-        },
-        {
-            name: "KSDW",
-            logo: "stations/images-america/carlsbad/KSDW.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSDW.mp3"
+            name: "KKSM AM1320",
+            logo: "stations/images-america/carlsbad/KKSM AM1320.png",
+            url: "http://streaming.live365.com/a61597"
         },
     ],
     "carlsbad_nm": [
