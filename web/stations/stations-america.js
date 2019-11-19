@@ -912,7 +912,7 @@ var stations = {
     "elko": [
         {
             name: "Radio 74",
-            logo: "stations/images-america/elko/Radio 74.gif",
+            logo: "stations/images-america/lakeview/Radio 74.png",
             url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
         },
         {
