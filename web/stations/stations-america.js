@@ -116,7 +116,7 @@ var stations = {
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/albuquerque/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
@@ -228,12 +228,12 @@ var stations = {
         },
         {
             name: "KENW",
-            logo: "stations/images-america/artesia/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/artesia/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
@@ -297,7 +297,7 @@ var stations = {
         },
         {
             name: "Radio Bilingue 90.1",
-            logo: "stations/images-america/bakersfield/Radio Bilingue.png",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
@@ -612,39 +612,39 @@ var stations = {
     ],
     "carlsbad_nm": [
         {
-            name: "KENW",
-            logo: "stations/images-america/carlsbad_nm/KENW.png",
-            url: "http://ice10.securenetsystems.net:80/KENWFM"
-        },
-        {
-            name: "Air1",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://emf.streamguys1.com/sa001_mp3_high_web?tsid=undefined"
-        },
-        {
-            name: "Family Life Radio",
-            logo: "stations/images-america/carlsbad_nm/Family Life Radio.png",
-            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
-        },
-        {
             name: "K-LOVE",
             logo: "stations/images-america/carlsbad_nm/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web?tsid=1516209902878"
         },
         {
-            name: "KATK",
-            logo: "stations/images-america/carlsbad_nm/KATK.jpg",
+            name: "KATK 92.1",
+            logo: "stations/images-america/carlsbad_nm/KATK 92.1.png",
             url: "http://ice10.securenetsystems.net/KATKFM"
         },
         {
-            name: "Mix 104.1",
-            logo: "stations/images-america/carlsbad_nm/Mix 104.1.png",
+            name: "KENW 98.7",
+            logo: "stations/images-america/0_general_logos/KENW.png",
+            url: "http://ice10.securenetsystems.net/KENWFM"
+        },
+        {
+            name: "CD104",
+            logo: "stations/images-america/carlsbad_nm/CD104.png",
             url: "http://ice5.securenetsystems.net/KCDY"
+        },
+        {
+            name: "W105",
+            logo: "stations/images-america/carlsbad_nm/W105.png",
+            url: "https://ice3.securenetsystems.net/KWMW"
         },
         {
             name: "Fierro 106.1",
             logo: "stations/images-america/carlsbad_nm/Fierro 106.1.png",
             url: "http://ice3.securenetsystems.net:80/KPZE"
+        },
+        {
+            name: "B107 The Blaze",
+            logo: "stations/images-america/artesia/B107 The Blaze.png",
+            url: "http://ice3.securenetsystems.net:80/KTUM"
         },
     ],
     "carson_city": [
@@ -768,29 +768,29 @@ var stations = {
     ],
     "clovis": [
         {
-            name: "KENW",
-            logo: "stations/images-america/clovis/KENW.png",
+            name: "KENW 89.5",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/clovis/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
-        },
-        {
-            name: "Radio by Grace",
-            logo: "stations/images-america/clovis/Radio by Grace.png",
-            url: "http://radiobygrace.streamguys1.com/radiobygrace.mp3"
-        },
-        {
-            name: "KSEL",
-            logo: "stations/images-america/clovis/KSEL.png",
-            url: "http://ice6.securenetsystems.net:80/KSELFM"
         },
         {
             name: "Big 101.5",
             logo: "stations/images-america/clovis/Big 101.5.png",
             url: "http://ice7.securenetsystems.net:80/KRMQFM"
+        },
+        {
+            name: "Variety 104.7",
+            logo: "stations/images-america/clovis/Big 101.5.png",
+            url: "http://variety1047.com:8192/variety128"
+        },
+        {
+            name: "KSEL Country 105.9",
+            logo: "stations/images-america/clovis/KSEL Country 105.9.png",
+            url: "http://ice6.securenetsystems.net:80/KSELFM"
         },
         {
             name: "Mix 107.5",
@@ -890,13 +890,8 @@ var stations = {
     "ehrenberg": [
         {
             name: "Radio Bilingue 88.5",
-            logo: "stations/images-america/ehrenberg/Radio Bilingue.png",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
-        },
-        {
-            name: "KNLB",
-            logo: "stations/images-america/ehrenberg/KNLB.png",
-            url: "http://ic1.christiannetcast.com/knlb-fm"
         },
         {
             name: "KFLG 94.7",
@@ -913,16 +908,6 @@ var stations = {
             logo: "stations/images-america/yuma/KBLU.jpg",
             url: "https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2"
         },*/
-        {
-            name: "KNTR 980 AM",
-            logo: "stations/images-america/ehrenberg/KNTR.png",
-            url: "http://ic2.mainstreamnetwork.com/kntr-am"
-        },
-        {
-            name: "KLPZ 1380 AM",
-            logo: "stations/images-america/ehrenberg/KLPZ.png",
-            url: "http://s5.voscast.com:7836/;.mp3"
-        },
     ],
     "elko": [
         {
@@ -1533,7 +1518,7 @@ var stations = {
         },
         {
             name: "KENW",
-            logo: "stations/images-america/hobbs/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
@@ -3384,12 +3369,12 @@ var stations = {
     "raton": [
         {
             name: "KENW",
-            logo: "stations/images-america/raton/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
             name: "Radio Bilingue",
-            logo: "stations/images-america/raton/Radio Bilingue.png",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
@@ -3555,7 +3540,7 @@ var stations = {
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/roswell/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
@@ -5018,7 +5003,7 @@ var stations = {
     "tucson": [
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/tucson/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
@@ -5130,7 +5115,7 @@ var stations = {
     "tucumcari": [
         {
             name: "KENW",
-            logo: "stations/images-america/artesia/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
@@ -5145,7 +5130,7 @@ var stations = {
         },
         {
             name: "Family Life Radio",
-            logo: "stations/images-america/tucumcari/Family Life Radio.png",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
@@ -14387,7 +14372,7 @@ var stations_c2c = {
     "clayton_nm": [
         {
             name: "KENW",
-            logo: "stations/images-america/artesia/KENW.png",
+            logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
     ],
