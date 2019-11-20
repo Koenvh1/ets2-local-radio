@@ -2289,6 +2289,11 @@ var stations = {
             url: "https://current.stream.publicradio.org/kcmp.mp3"
         },
         {
+            name: "KCRW 89.9",
+            logo: "stations/images-america/los_angeles/KCRW 89.9.png",
+            url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
+        },
+        {
             name: "KPFK 90.7 FM",
             logo: "stations/images-america/los_angeles/KPFK.png",
             url: "http://ic1.mainstreamnetwork.com/kpfk-fm.mp3"
@@ -2339,23 +2344,23 @@ var stations = {
             url: "https://live.wostreaming.net/direct/kjlh-kjlhfmmp3-ibc2"
         },
         {
-            name: "102.7 KIIS FM",
+            name: "102.7 KIIS",
             logo: "stations/images-america/los_angeles/KIIS-FM.png",
             url: "http://c2icyelb.prod.playlists.ihrhls.com/185_icy"
         },
         {
-            name: "Evolution",
+            name: "Evolution 102.7-HD2",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "http://c8icyelb.prod.playlists.ihrhls.com/193_icy"
         },
         {
-            name: "104.3 MYfm",
-            logo: "stations/images-america/los_angeles/104.3 MYfm.png",
+            name: "104.3 MYFM",
+            logo: "stations/images-america/los_angeles/104.3 MYFM.png",
             url: "https://c8.prod.playlists.ihrhls.com/173_icy"
         },
         /*
@@ -2366,7 +2371,7 @@ var stations = {
         },
          */
         {
-            name: "Pride Radio",
+            name: "Pride Radio 104.3-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
