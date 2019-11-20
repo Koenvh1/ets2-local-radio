@@ -237,34 +237,39 @@ var stations = {
     ],
     "artesia": [
         {
-            name: "KSVP",
-            logo: "stations/images-america/artesia/KSVP.gif",
-            url: "http://ice3.securenetsystems.net:80/KSVP"
-        },
-        {
-            name: "KENW",
-            logo: "stations/images-america/0_general_logos/KENW.png",
-            url: "http://ice10.securenetsystems.net:80/KENWFM"
-        },
-        {
-            name: "Family Life Radio",
-            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
-        },
-        {
-            name: "Star 88",
-            logo: "stations/images-america/artesia/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
-        },
-        {
             name: "92.9 The Brand",
             logo: "stations/images-america/roswell/92.9 The Brand.png",
             url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
+            name: "KSVP 93.7",
+            logo: "stations/images-america/artesia/KSVP 93.7.png",
+            url: "http://ice3.securenetsystems.net:80/KSVP"
+        },
+        {
+            name: "Hot 97",
+            logo: "stations/images-america/roswell/Hot 97.png",
+            url: "https://ice42.securenetsystems.net/KBCQ"
+        },
+        {
+            name: "KENW 98.7",
+            logo: "stations/images-america/0_general_logos/KENW.png",
+            url: "http://ice10.securenetsystems.net:80/KENWFM"
+        },
+        {
+            name: "CD104",
+            logo: "stations/images-america/carlsbad_nm/CD104.png",
+            url: "http://ice5.securenetsystems.net/KCDY"
+        },
+        {
+            name: "W105",
+            logo: "stations/images-america/carlsbad_nm/W105.png",
+            url: "https://ice3.securenetsystems.net/KWMW"
+        },
+        {
             name: "B107 The Blaze",
             logo: "stations/images-america/artesia/B107 The Blaze.png",
-            url: "http://ice3.securenetsystems.net:80/KTUM"
+            url: "http://ice2.securenetsystems.net/KTUM"
         },
     ],
     "astoria": [
@@ -382,11 +387,6 @@ var stations = {
         },
     ],
     "barstow": [
-        {
-            name: "CSN",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
-        },
         {
             name: "KWTH 91.3",
             logo: "stations/images-america/barstow/KWAVE.png",
@@ -578,24 +578,29 @@ var stations = {
     ],
     "camp_verde": [
         {
-            name: "CSN",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            name: "KNAU 88.7",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
-            name: "The Oasis 95.1",
-            logo: "stations/images-america/camp_verde/The Oasis.png",
-            url: "http://ice42.securenetsystems.net/KOAI"
-        },
-        {
-            name: "KKLD",
-            logo: "stations/images-america/camp_verde/KKLD.png",
+            name: "95.9 The Cloud",
+            logo: "stations/images-america/camp_verde/95.9 The Cloud.png",
             url: "https://live.wostreaming.net/manifest/yavapai-kkldfmaac-ibc1"
         },
         {
             name: "Magic 99.1",
             logo: "stations/images-america/camp_verde/Magic 99.1.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMGFMAAC.aac"
+        },
+        {
+            name: "100.One",
+            logo: "stations/images-america/flagstaff/KVNA.png",
+            url: "https://live.wostreaming.net/direct/yavapai-kvnafmaac-ibc1"
+        },
+        {
+            name: "Q102.9",
+            logo: "stations/images-america/flagstaff/Q102.9.png",
+            url: "https://live.wostreaming.net/direct/yavapai-kqstfmmp3-ibc1"
         },
         {
             name: "KVRD 105.7",
@@ -608,9 +613,9 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFMAAC.aac"
         },
         {
-            name: "KPPV 106.7",
-            logo: "stations/images-america/camp_verde/KPPV.png",
-            url: "http://stream.affordablestreaming.com:8000/KPPV.mp3"
+            name: "107.5 KOLT",
+            logo: "stations/images-america/camp_verde/107.5 KOLT.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFMAAC.aac"
         },
     ],
     "carlsbad": [
@@ -659,7 +664,7 @@ var stations = {
         {
             name: "B107 The Blaze",
             logo: "stations/images-america/artesia/B107 The Blaze.png",
-            url: "http://ice3.securenetsystems.net:80/KTUM"
+            url: "http://ice2.securenetsystems.net/KTUM"
         },
     ],
     "carson_city": [
@@ -1287,8 +1292,8 @@ var stations = {
             url: "http://ic1.christiannetcast.com/knlb-fm"
         },
         {
-            name: "KAFF",
-            logo: "stations/images-america/flagstaff/KAFF.png",
+            name: "92.9 KAFF",
+            logo: "stations/images-america/flagstaff/92.9 KAFF.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFM.mp3"
         },
         {
@@ -3077,11 +3082,6 @@ var stations = {
             name: "KWSS 93.9",
             logo: "stations/images-america/phoenix/KWSS.png",
             url: "http://50.7.96.210:8458/;"
-        },
-        {
-            name: "The Oasis 94.9",
-            logo: "stations/images-america/camp_verde/The Oasis.png",
-            url: "http://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
