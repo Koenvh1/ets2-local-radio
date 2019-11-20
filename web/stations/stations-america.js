@@ -3976,6 +3976,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOBFM.mp3"
         },
         {
+            name: "KIVA 93.7 FM",
+            logo: "stations/images-america/albuquerque/KIVA 93.7 FM.png",
+            url: "http://uk1.internet-radio.com:15889/live"
+        },
+        {
             name: "94 Rock",
             logo: "stations/images-america/albuquerque/94 Rock.png",
             url: "https://c4.prod.playlists.ihrhls.com/1405_icy"
@@ -3991,8 +3996,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBZUFMAAC_SC"
         },
         {
-            name: "Magic 99.5 FM",
-            logo: "stations/images-america/albuquerque/Magic 99.5 FM.png",
+            name: "Magic 99.5",
+            logo: "stations/images-america/albuquerque/Magic 99.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFM_SC"
         },
         {
@@ -4054,11 +4059,6 @@ var stations = {
             name: "iHeart Podcast 1350",
             logo: "stations/images-america/albuquerque/iHeart Podcast 1350.png",
             url: "https://c4.prod.playlists.ihrhls.com/1401_icy"
-        },
-        {
-            name: "KIVA 1600 AM",
-            logo: "stations/images-america/albuquerque/Fox News ABQ.FM.png",
-            url: "http://uk1.internet-radio.com:15889/live"
         },
     ],
     "santa_maria": [
