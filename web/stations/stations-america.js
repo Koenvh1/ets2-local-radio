@@ -3106,7 +3106,7 @@ var stations = {
         {
             name: "The Breeze 99.9-HD2",
             logo: "stations/images-america/phoenix/The Breeze 99.9-HD2.png",
-            url: "https://c14.prod.playlists.ihrhls.com/7405_icy"
+            url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
         },
         {
             name: "102.5 KNIX",
