@@ -1278,7 +1278,7 @@ var stations = {
     "flagstaff": [
         {
             name: "KNAU",
-            logo: "stations/images-america/flagstaff/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -1442,7 +1442,7 @@ var stations = {
         },
         {
             name: "KNAU",
-            logo: "stations/images-america/g_canyon_vlg/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -2946,7 +2946,7 @@ var stations = {
         },
         {
             name: "KNAU",
-            logo: "stations/images-america/page/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
@@ -3044,19 +3044,9 @@ var stations = {
     ],
     "phoenix": [
         {
-            name: "La Campesina 88.3",
-            logo: "stations/images-america/phoenix/La Campesina 88.3.png",
-            url: "http://ice41.securenetsystems.net:80/NETCAMP"
-        },
-        {
-            name: "The Pulse 88.7 ",
+            name: "88.7 The Pulse",
             logo: "stations/images-america/phoenix/88.7 The Pulse.png",
-            url: "http://104.236.170.236:8000/goldmineradiomp3"
-        },
-        {
-            name: "KBAQ",
-            logo: "stations/images-america/phoenix/KBAQ.png",
-            url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
+            url: "http://stream.pulseradio.fm:8000/goldmineradiomp3"
         },
         {
             name: "Family Radio 88.9",
@@ -3064,9 +3054,9 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST.mp3"
         },
         {
-            name: "Neon 90.7",
-            logo: "stations/images-america/phoenix/Neon 90.7.png",
-            url: "http://stream.pulseradio.fm:8000/evit2-48"
+            name: "KBAQ 89.5",
+            logo: "stations/images-america/phoenix/KBAQ 89.5.png",
+            url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
         },
         {
             name: "KJZZ 91.5",
@@ -3090,13 +3080,18 @@ var stations = {
         },
         {
             name: "Mix 96.9",
-            logo: "stations/images-america/phoenix/MiX 96.9.png",
+            logo: "stations/images-america/phoenix/Mix 96.9.png",
             url: "http://c11icyelb.prod.playlists.ihrhls.com/45_icy"
         },
         {
-            name: "Pride Radio",
+            name: "Pride Radio 96.9-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
+            name: "Arizona Sports 98.7",
+            logo: "stations/images-america/phoenix/Arizona Sports 98.7.svg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMVPFM_SC"
         },
         {
             name: "99.9 KEZ",
@@ -3105,13 +3100,18 @@ var stations = {
         },
         {
             name: "The Breeze 99.9-HD2",
-            logo: "stations/images-america/phoenix/The Breeze 99.9 HD2.png",
+            logo: "stations/images-america/phoenix/The Breeze 99.9-HD2.png",
             url: "https://c14.prod.playlists.ihrhls.com/7405_icy"
         },
         {
-            name: "KNIX 102.5",
-            logo: "stations/images-america/phoenix/KNIX.png",
+            name: "102.5 KNIX",
+            logo: "stations/images-america/phoenix/102.5 KNIX.png",
             url: "http://c5icyelb.prod.playlists.ihrhls.com/49_icy"
+        },
+        {
+            name: "La Tricolor 103.5",
+            logo: "stations/images-america/phoenix/La Tricolor 103.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLNZFM_SC"
         },
         {
             name: "104.7 KISS FM",
@@ -3119,7 +3119,7 @@ var stations = {
             url: "https://c11.prod.playlists.ihrhls.com/61_icy"
         },
         {
-            name: "Evolution",
+            name: "Evolution 104.7-HD2",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
         },
@@ -4463,7 +4463,7 @@ var stations = {
     "show_low": [
         {
             name: "KNAU",
-            logo: "stations/images-america/show_low/KNAU.png",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
