@@ -68,28 +68,28 @@ var stations = {
     ],
     "alamogordo": [
         {
-            name: "CSN",
-            logo: "stations/images-america/alamogordo/CSN.png",
+            name: "CSN 88.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            name: "KHII",
-            logo: "stations/images-america/alamogordo/KHII.png",
+            name: "KHII 88.9",
+            logo: "stations/images-america/alamogordo/KHII 88.9.png",
             url: "http://192.99.83.153:8020/;"
         },
         {
-            name: "KRWG",
+            name: "KRWG 89.5",
             logo: "stations/images-america/alamogordo/KRWG.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRWGFM.mp3"
         },
         {
-            name: "Star 88",
-            logo: "stations/images-america/alamogordo/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
+            name: "KWES 93.5",
+            logo: "stations/images-america/alamogordo/KWES 93.5.png",
+            url: "https://crystalout.surfernetwork.com:8001/KWES-FM_MP3"
         },
         {
-            name: "94Key",
-            logo: "stations/images-america/alamogordo/94Key.png",
+            name: "94 KEY",
+            logo: "stations/images-america/alamogordo/94 KEY.png",
             url: "https://ice10.securenetsystems.net/KYEE"
         },
         {
@@ -98,9 +98,24 @@ var stations = {
             url: "http://ice3.securenetsystems.net/KNMB"
         },
         {
-            name: "KALH",
-            logo: "stations/images-america/alamogordo/KALH.png",
-            url: "http://s4.voscast.com:8178/;"
+            name: "Rock 97.9",
+            logo: "stations/images-america/alamogordo/Rock 97.9.png",
+            url: "http://ic1.mainstreamnetwork.com/ktmn-fm"
+        },
+        {
+            name: "105.3 KZZX",
+            logo: "stations/images-america/alamogordo/105.3 KZZX.png",
+            url: "https://ice10.securenetsystems.net/KZZX"
+        },
+        {
+            name: "News Talk KINN 106.3",
+            logo: "stations/images-america/alamogordo/News Talk KINN 106.3.png",
+            url: "https://ice10.securenetsystems.net/KINN"
+        },
+        {
+            name: "107.9 Cool FM",
+            logo: "stations/images-america/alamogordo/107.9 Cool FM.png",
+            url: "https://ice10.securenetsystems.net/KINN"
         },
     ],
     "albuquerque": [
@@ -369,7 +384,7 @@ var stations = {
     "barstow": [
         {
             name: "CSN",
-            logo: "stations/images-america/barstow/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -564,7 +579,7 @@ var stations = {
     "camp_verde": [
         {
             name: "CSN",
-            logo: "stations/images-america/camp_verde/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -939,7 +954,7 @@ var stations = {
         },
         {
             name: "CSN",
-            logo: "stations/images-america/camp_verde/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -1199,7 +1214,7 @@ var stations = {
     "farmington": [
         {
             name: "CSN",
-            logo: "stations/images-america/farmington/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -1434,7 +1449,7 @@ var stations = {
     "gallup": [
         {
             name: "CSN",
-            logo: "stations/images-america/gallup/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -1545,7 +1560,7 @@ var stations = {
         },
         {
             name: "CSN",
-            logo: "stations/images-america/holbrook/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -2012,7 +2027,7 @@ var stations = {
     "las_cruces": [
         {
             name: "CSN",
-            logo: "stations/images-america/las_cruces/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -4894,7 +4909,7 @@ var stations = {
     "tonopah": [
         {
             name: "CSN",
-            logo: "stations/images-america/tonopah/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
@@ -5265,7 +5280,7 @@ var stations = {
     "winnemucca": [
         {
             name: "CSN",
-            logo: "stations/images-america/winnemucca/CSN.png",
+            logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
