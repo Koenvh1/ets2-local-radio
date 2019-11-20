@@ -1512,22 +1512,12 @@ var stations = {
     ],
     "hobbs": [
         {
-            name: "KIKZ 1250 AM",
-            logo: "stations/images-america/hobbs/KIKZ 1250 AM.gif",
-            url: "http://173.193.205.96:7437/stream"
+            name: "92.9 The Brand",
+            logo: "stations/images-america/roswell/92.9 The Brand.png",
+            url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
-            name: "Star 88",
-            logo: "stations/images-america/hobbs/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
-        },
-        {
-            name: "American Family Radio",
-            logo: "stations/images-america/hobbs/American Family Radio.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp3"
-        },
-        {
-            name: "KZOR 94",
+            name: "Z 94",
             logo: "stations/images-america/hobbs/KZOR.png",
             url: "http://crystalout.surfernetwork.com:8001/KZOR_MP3"
         },
@@ -1537,14 +1527,34 @@ var stations = {
             url: "http://crystalout.surfernetwork.com:8001/KYKK-FM_MP3"
         },
         {
-            name: "KENW",
+            name: "KENW 98.7",
             logo: "stations/images-america/0_general_logos/KENW.png",
             url: "http://ice10.securenetsystems.net:80/KENWFM"
+        },
+        {
+            name: "Eagle 100.5",
+            logo: "stations/images-america/hobbs/Eagle 100.5.png",
+            url: "http://crystalout.surfernetwork.com:8001/KEJL-AM_MP3"
         },
         {
             name: "KIX 103",
             logo: "stations/images-america/hobbs/KIX 103.png",
             url: "http://crystalout.surfernetwork.com:8001/KIXN_MP3"
+        },
+        {
+            name: "La Zeta 103.7",
+            logo: "stations/images-america/hobbs/La Zeta 103.7.png",
+            url: "http://crystalout.surfernetwork.com:8001/KPZA_MP3"
+        },
+        {
+            name: "B107 The Blaze",
+            logo: "stations/images-america/artesia/B107 The Blaze.png",
+            url: "http://ice2.securenetsystems.net/KTUM"
+        },
+        {
+            name: "KIKZ 1250 AM",
+            logo: "stations/images-america/hobbs/KIKZ 1250 AM.gif",
+            url: "http://173.193.205.96:7437/stream"
         },
     ],
     "holbrook": [
