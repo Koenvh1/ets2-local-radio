@@ -1549,34 +1549,24 @@ var stations = {
     ],
     "holbrook": [
         {
-            name: "Rewind 108",
-            logo: "stations/images-america/holbrook/Rewind 108.png",
-            url: "http://69.64.65.171:8192/rewind128"
-        },
-        {
-            name: "KNLB",
+            name: "KNLB 88.1",
             logo: "stations/images-america/holbrook/KNLB.png",
             url: "http://ic1.christiannetcast.com/knlb-fm"
         },
         {
-            name: "American Family Radio",
-            logo: "stations/images-america/hobbs/American Family Radio.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp3"
-        },
-        {
-            name: "CSN",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
-        },
-        {
-            name: "Z92",
-            logo: "stations/images-america/holbrook/KZUA.png",
-            url: "http://ice1.securenetsystems.net/DEMOSTN?playSessionID=77F707B0-A690-529F-83A640FFC5B5F5C2"
+            name: "Q Country 92.5",
+            logo: "stations/images-america/holbrook/Q Country 92.5.png",
+            url: "https://ice42.securenetsystems.net/KTHQ"
         },
         {
             name: "Power 95.7",
             logo: "stations/images-america/holbrook/Power 95.7.png",
-            url: "http://stream.radiojar.com/s9y596g305quv.mp3?1571492130"
+            url: "http://stream.radiojar.com/s9y596g305quv.mp3"
+        },
+        {
+            name: "Majik 101.7",
+            logo: "stations/images-america/holbrook/Majik 101.7.png",
+            url: "https://ice42.securenetsystems.net/KQAZ"
         },
     ],
     "hornbrook": [
