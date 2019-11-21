@@ -1453,28 +1453,18 @@ var stations = {
     ],
     "gallup": [
         {
-            name: "CSN",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            name: "KANW 88.1",
+            logo: "stations/images-america/albuquerque/KANW.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM.mp3"
         },
         {
-            name: "Star 88",
-            logo: "stations/images-america/gallup/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
-        },
-        {
-            name: "KNIZ",
-            logo: "stations/images-america/gallup/KNIZ.png",
-            url: "http://69.175.94.98:8085/stream"
-        },
-        {
-            name: "KGLP",
-            logo: "stations/images-america/gallup/KGLP.png",
+            name: "KGLP 91.7",
+            logo: "stations/images-america/gallup/KGLP 91.7.png",
             url: "http://64.106.24.51:88/broadwavehigh.mp3"
         },
         {
             name: "99.1 KGLX",
-            logo: "stations/images-america/gallup/KGLX.png",
+            logo: "stations/images-america/gallup/99.1 KGLX.png",
             url: "http://c1icyelb.prod.playlists.ihrhls.com/5951_icy"
         },
         {
@@ -4514,8 +4504,8 @@ var stations = {
             url: "https://c6.prod.playlists.ihrhls.com/77_icy"
         },
         {
-            name: "Mix 94.9",
-            logo: "stations/images-america/tucson/Mix 94.9.png",
+            name: "94.9 MIXfm",
+            logo: "stations/images-america/tucson/94.9 MIXfm.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3"
         },
         {
@@ -4997,11 +4987,6 @@ var stations = {
     ],
     "tucson": [
         {
-            name: "Family Life Radio",
-            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
-        },
-        {
             name: "NPR 89.1",
             logo: "stations/images-america/tucson/NPR 89.1.png",
             url: "http://streaming.azpm.org:80/kuaz192.mp3"
@@ -5042,8 +5027,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTKTFMAAC.aac"
         },
         {
-            name: "Mix 94.9",
-            logo: "stations/images-america/tucson/Mix 94.9.png",
+            name: "94.9 MIXfm",
+            logo: "stations/images-america/tucson/94.9 MIXfm.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3"
         },
         {
