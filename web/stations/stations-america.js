@@ -4384,11 +4384,11 @@ var stations = {
             logo: "stations/images-america/seattle/96.5 Jack FM.png",
             url: "https://c14icy.prod.playlists.ihrhls.com/7788_icy"
         },
-        {
+        /*{
             name: "ALT 96.5-2",
             logo: "stations/images-america/seattle/ALT 96.5-2.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/6246_icy"
-        },
+        },*/
         {
             name: "KIRO Radio 97.3 FM",
             logo: "stations/images-america/seattle/KIRO Radio 97.3 FM.png",
