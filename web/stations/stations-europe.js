@@ -431,17 +431,17 @@ var stations = {
         {
             name: "Catalunya Ràdio",
             logo: "stations/images-europe/catalonia/Catalunya Ràdio.svg",
-            url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catradio/chunklist.m3u8"
+            url: "https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8"
         },
         {
             name: "Catalunya Informació",
             logo: "stations/images-europe/catalonia/Catalunya Informació.png",
-            url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catinform/playlist.m3u8"
+            url: "https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8"
         },
         {
             name: "Catalunya Música",
             logo: "stations/images-europe/catalonia/Catalunya Música.png",
-            url: "http://ccma-radioa-int-abertis-live.hls.adaptive.level3.net/int/mp4:catmusica/playlist.m3u8"
+            url: "https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8"
         },
         {
             name: "Flaix FM",
@@ -684,11 +684,6 @@ var stations = {
             name: "Radio 100",
             logo: "stations/images-europe/denmark/Radio 100.png",
             url: "http://onair.100fmlive.dk:80/100fm_live.mp3"
-        },
-        {
-            name: "Radio24syv",
-            logo: "stations/images-europe/denmark/Radio24syv.png",
-            url: "http://live.taleradio.dk/Mobile"
         },
         {
             name: "Radio Soft",
