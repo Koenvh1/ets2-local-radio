@@ -115,7 +115,7 @@ var stations = {
         {
             name: "107.9 Cool FM",
             logo: "stations/images-america/alamogordo/107.9 Cool FM.png",
-            url: "https://ice10.securenetsystems.net/KINN"
+            url: "http://ice10.securenetsystems.net/KQEL"
         },
     ],
     "albuquerque": [
@@ -548,7 +548,7 @@ var stations = {
         {
             name: "KVIP Radio 89.5 FM",
             logo: "stations/images-america/burns/KVIP Radio 89.5 FM.png",
-            url: "http://sc1.christiannetcast.com:9112/;"
+            url: "https://ic1.sslstream.com/kvip"
         },
         {
             name: "Oregon Public Broadcasting",
@@ -822,7 +822,7 @@ var stations = {
         {
             name: "CBC Radio One - 94.9 FM",
             logo: "stations/images-america/colville/CBC Radio One - 94.9 FM.png",
-            url: "http://cbc_r1_kel.akacast.akamaistream.net/7/229/451661/v1/rc.akacast.akamaistream.net/cbc_r1_kel"
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
         },
         {
             name: "KYRS 88.1 FM",
@@ -1773,11 +1773,6 @@ var stations = {
             logo: "stations/images-america/kayenta/Redrock 92.7.png",
             url: "http://162.244.80.106:9068/stream"
         },
-        {
-            name: "KTNN",
-            logo: "stations/images-america/kayenta/KTNN.png",
-            url: "http://ice9.securenetsystems.net:80/KTNN"
-        },
     ],
     "kennewick": [
         {
@@ -1993,11 +1988,6 @@ var stations = {
         },
     ],
     "lakeview": [
-        {
-            name: "KCFJ 570 AM",
-            logo: "stations/images-america/lakeview/KCFJ 570 AM.jpg",
-            url: "http://s8.streammonster.com:8344/;"
-        },
         {
             name: "Oregon Public Broadcasting",
             logo: "stations/images-america/oregon/OPB.png",
@@ -2586,7 +2576,7 @@ var stations = {
             url: "https://c8.prod.playlists.ihrhls.com/2922_icy"
         },
         {
-            name: "mstyle radio 92.9-2",
+            name: "mstyle radio 92.9-HD2",
             logo: "stations/images-america/0_general_logos/mstyle radio.png",
             url: "https://c3.prod.playlists.ihrhls.com/6394_icy"
         },
@@ -2601,7 +2591,7 @@ var stations = {
             url: "https://c10.prod.playlists.ihrhls.com/2918_icy"
         },
         {
-            name: "One Hit Wonder Radio 96.7-2",
+            name: "One Hit Wonder Radio 96.7-HD2",
             logo: "stations/images-america/0_general_logos/One Hit Wonder Radio.png",
             url: "https://c1.prod.playlists.ihrhls.com/6669_icy"
         },
@@ -3260,11 +3250,6 @@ var stations = {
             url: "http://stream1.opb.org/opbmusic_player.mp3"
         },
         {
-            name: "92.3 KGON",
-            logo: "stations/images-america/c2c/KGON.png",
-            url: "https://live.wostreaming.net/manifest/entercom-kgonfmaac-64"
-        },
-        {
             name: "Z100 Portland",
             logo: "stations/images-america/portland/Z100.png",
             url: "http://c13icyelb.prod.playlists.ihrhls.com/1961_icy"
@@ -3601,7 +3586,7 @@ var stations = {
             url: "https://c2.prod.playlists.ihrhls.com/225_icy"
         },
         {
-            name: "Big Classic Hits 101.1-2",
+            name: "Big Classic Hits 101.1-HD2",
             logo: "stations/images-america/0_general_logos/Big Classic Hits.png",
             url: "https://c3.prod.playlists.ihrhls.com/4455_icy"
         },
@@ -3904,7 +3889,7 @@ var stations = {
             url: "https://c11.prod.playlists.ihrhls.com/2930_icy"
         },
         {
-            name: "Vinyl Jazz 102.5-2",
+            name: "Vinyl Jazz 102.5-HD2",
             logo: "stations/images-america/0_general_logos/Vinyl Jazz.png",
             url: "https://c9.prod.playlists.ihrhls.com/7079_icy"
         },
@@ -4105,7 +4090,7 @@ var stations = {
             url: "https://c13.prod.playlists.ihrhls.com/241_icy"
         },
         {
-            name: "Pride Radio 93.3-2",
+            name: "Pride Radio 93.3-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
@@ -4155,7 +4140,7 @@ var stations = {
             url: "http://c13icyelb.prod.playlists.ihrhls.com/245_icy"
         },
         {
-            name: "ALT 105.3-2",
+            name: "ALT 105.3-HD2",
             logo: "stations/images-america/san_diego/ALT 105.3-2.png",
             url: "https://c9.prod.playlists.ihrhls.com/4447_icy"
         },
@@ -4222,7 +4207,7 @@ var stations = {
             url: "http://c10icyelb.prod.playlists.ihrhls.com/281_icy"
         },
         {
-            name: "Pride Radio 101.3-2",
+            name: "Pride Radio 101.3-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
@@ -4305,7 +4290,7 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
         },
         {
-            name: "KNKX 88.5-2 Jazz 24",
+            name: "KNKX 88.5-HD2 Jazz 24",
             logo: "stations/images-america/seattle/KNKX 88.5-2 Jazz 24.png",
             url: "https://live.wostreaming.net/manifest/ppm-jazz24aac-ibc1"
         },
@@ -4340,7 +4325,7 @@ var stations = {
             url: "https://c1icy.prod.playlists.ihrhls.com/2577_icy"
         },
         {
-            name: "Pride Radio 93.3-2",
+            name: "Pride Radio 93.3-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
         },
@@ -4355,7 +4340,7 @@ var stations = {
             url: "https://c1icy.prod.playlists.ihrhls.com/2569_icy"
         },
         {
-            name: "Sportsradio KJR 95.7-2",
+            name: "Sportsradio KJR 95.7-HD2",
             logo: "stations/images-america/seattle/Sportsradio KJR 95.7-2.png",
             url: "https://c1.prod.playlists.ihrhls.com/2565_icy"
         },
@@ -4390,7 +4375,7 @@ var stations = {
             url: "http://classicalking.streamguys1.com/king-fm-aac-96k"
         },
         {
-            name: "King FM 98.1-2 Evergreen Channel",
+            name: "King FM 98.1-HD2 Evergreen Channel",
             logo: "stations/images-america/seattle/King FM 98.1-2 Evergreen Channel.png",
             url: "http://classicalking.streamguys1.com/evergreen-aac-96k"
         },
@@ -4618,7 +4603,7 @@ var stations = {
             url: "https://c2.prod.playlists.ihrhls.com/2589_icy"
         },
         {
-            name: "iHeart 80s 103.1-2",
+            name: "iHeart 80s 103.1-HD2",
             logo: "stations/images-america/spokane/iHeart 80s 103.1-2.png",
             url: "https://c3.prod.playlists.ihrhls.com/5060_icy"
         },
@@ -4767,7 +4752,7 @@ var stations = {
             url: "https://c8.prod.playlists.ihrhls.com/2922_icy"
         },
         {
-            name: "mstyle radio 92.9-2",
+            name: "mstyle radio 92.9-HD2",
             logo: "stations/images-america/0_general_logos/mstyle radio.png",
             url: "https://c3.prod.playlists.ihrhls.com/6394_icy"
         },
@@ -4777,7 +4762,7 @@ var stations = {
             url: "https://c10.prod.playlists.ihrhls.com/2918_icy"
         },
         {
-            name: "One Hit Wonder Radio 96.7-2",
+            name: "One Hit Wonder Radio 96.7-HD2",
             logo: "stations/images-america/0_general_logos/One Hit Wonder Radio.png",
             url: "https://c1.prod.playlists.ihrhls.com/6669_icy"
         },
@@ -5067,9 +5052,9 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFM.mp3"
         },
         {
-            name: "104.1 KQTH",
-            logo: "stations/images-america/tucson/104.1 KQTH.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQTHFM.mp3"
+            name: "Family Life Radio 104.1",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "http://ic1.christiannetcast.com/kflr-fm?rnd=967"
         },
         {
             name: "106.3 The Groove",
@@ -5699,7 +5684,7 @@ var stations_mexico = {
         {
             name: "Digital 99.5",
             logo: "stations/images-america/guaymas/dig.png",
-            url: "http://173.244.209.219:8035/;"
+            url: "http://64.31.8.244:8440/;"
         },
         {
             name: "La Super Grupera",
@@ -13207,7 +13192,7 @@ var stations_c2c = {
             url: "http://kwmu-sc.streamguys.com/kwmu1"
         },
         {
-            name: "Jazz 90.7 KWMU-2",
+            name: "Jazz 90.7 KWMU-HD2",
             logo: "stations/images-america/c2c/Jazz 90.7 KWMU-2.jpg",
             url: "https://kwmu2-ice.streamguys1.com/jazz-128"
         },
