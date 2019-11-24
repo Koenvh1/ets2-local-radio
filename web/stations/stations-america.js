@@ -4345,8 +4345,8 @@ var stations = {
             url: "https://c1.prod.playlists.ihrhls.com/2565_icy"
         },
         {
-            name: "The Breeze 95.7-3",
-            logo: "stations/images-america/seattle/The Breeze 95.7-3.png",
+            name: "The Breeze 95.7-HD3",
+            logo: "stations/images-america/seattle/The Breeze 95.7-HD3.png",
             url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
         },
         {
