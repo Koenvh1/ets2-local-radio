@@ -4341,7 +4341,7 @@ var stations = {
         },
         {
             name: "Sportsradio KJR 95.7-HD2",
-            logo: "stations/images-america/seattle/Sportsradio KJR 95.7-2.png",
+            logo: "stations/images-america/seattle/Sportsradio KJR 95.7-HD2.png",
             url: "https://c1.prod.playlists.ihrhls.com/2565_icy"
         },
         {
