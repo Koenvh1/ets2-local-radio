@@ -9367,12 +9367,12 @@ for (var key in country_properties_c2c) {
     }
 }
 
-//Uncomment the lines below to enable C2C
+Uncomment the lines below to enable C2C
 cities = cities.concat(cities_c2c);
 country_properties = $.extend(country_properties, country_properties_c2c);
 city_properties = $.extend(city_properties, city_properties_c2c);
 
-//Uncomment the lines below to enable Canadream
+Uncomment the lines below to enable Canadream
 country_properties = $.extend(country_properties, country_properties_canadream);
 city_properties = $.extend(city_properties, city_properties_canadream);
 cities = cities.concat(cities_canadream);
