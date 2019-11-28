@@ -4048,9 +4048,9 @@ var stations = {
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
         },
         {
-            name: "103.3 The Vibe",
-            logo: "stations/images-america/bakersfield/103.3 The Vibe.jpg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVYBFMAAC_SC"
+            name: "KRUZ 103.3",
+            logo: "stations/images-america/oxnard/KRUZ 103.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
         },
         {
             name: "KTNK 103.7",
