@@ -620,9 +620,9 @@ var stations = {
     ],
     "carlsbad": [
         {
-            name: "Jam'n 957",
-            logo: "stations/images-america/carlsbad/Jamn 957.png",
-            url: "http://c13icyelb.prod.playlists.ihrhls.com/261_icy"
+            name: "JAM’N 95.7",
+            logo: "stations/images-america/san_diego/Jam'n 95.7.png",
+            url: "https://c13.prod.playlists.ihrhls.com/261_icy"
         },
         {
             name: "KKSM AM1320",
@@ -4105,14 +4105,19 @@ var stations = {
             url: "https://c13.prod.playlists.ihrhls.com/253_icy"
         },
         {
-            name: "The Breeze 94.1-3",
-            logo: "stations/images-america/san_diego/The Breeze 94.1-3.png",
+            name: "The Breeze 94.1-HD3",
+            logo: "stations/images-america/san_diego/The Breeze 94.1-HD3.png",
             url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
         },
         {
             name: "JAM’N 95.7",
             logo: "stations/images-america/san_diego/Jam'n 95.7.png",
             url: "https://c13.prod.playlists.ihrhls.com/261_icy"
+        },
+        {
+            name: "96.1 and 1170 The Answer",
+            logo: "stations/images-america/san_diego/96.1 and 1170 The Answer.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC.aac"
         },
         {
             name: "More FM 98.9",
@@ -4141,18 +4146,13 @@ var stations = {
         },
         {
             name: "ALT 105.3-HD2",
-            logo: "stations/images-america/san_diego/ALT 105.3-2.png",
+            logo: "stations/images-america/san_diego/ALT 105.3-HD2.png",
             url: "https://c9.prod.playlists.ihrhls.com/4447_icy"
         },
         {
             name: "Newsradio 600 KOGO",
             logo: "stations/images-america/san_diego/Newsradio 600 KOGO.png",
             url: "https://c13.prod.playlists.ihrhls.com/257_icy"
-        },
-        {
-            name: "96.1 and 1170 The Answer",
-            logo: "stations/images-america/san_diego/96.1 and 1170 The Answer.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC.aac"
         },
         {
             name: "XTRA 1360 Fox Sports San Diego",
