@@ -670,7 +670,7 @@ var stations = {
     "carson_city": [
         {
             name: "KUNR 88.7",
-            logo: "stations/images-america/reno/KUNR 88.7.png",
+            logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
         {
@@ -942,7 +942,7 @@ var stations = {
         },
         {
             name: "KUNR Public Radio",
-            logo: "stations/images-america/elko/KUNR.png",
+            logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
         {
@@ -3481,7 +3481,7 @@ var stations = {
     "reno": [
         {
             name: "KUNR 88.7",
-            logo: "stations/images-america/reno/KUNR 88.7.png",
+            logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
         {
@@ -3506,7 +3506,7 @@ var stations = {
         },
         {
             name: "95.1 The Wolf",
-            logo: "stations/images-america/reno/95.1 The Wolf.jpg",
+            logo: "stations/images-america/reno/95.1 The Wolf.png",
             url: "https://ice42.securenetsystems.net/KWFP"
         },
         {
@@ -3525,7 +3525,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFM.mp3"
         },
         {
-            name: "Fun 101",
+            name: "Fun 100.9",
             logo: "stations/images-america/reno/Fun 101.png",
             url: "http://ice42.securenetsystems.net/KRFN"
         },
@@ -5029,7 +5029,7 @@ var stations = {
     "truckee": [
         {
             name: "KUNR 88.7",
-            logo: "stations/images-america/truckee/KUNR.png",
+            logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
         {
@@ -5378,7 +5378,7 @@ var stations = {
         },
         {
             name: "KUNR",
-            logo: "stations/images-america/winnemucca/KUNR.png",
+            logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
         {
