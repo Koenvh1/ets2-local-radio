@@ -3275,6 +3275,11 @@ var stations = {
             url: "https://c13icy.prod.playlists.ihrhls.com/6704_icy"
         },
         {
+            name: "104.5 MeTV FM",
+            logo: "stations/images-america/portland/104.5 MeTV FM.png",
+            url: "https://ice9.securenetsystems.net/KXXP"
+        },
+        {
             name: "105.9 The Brew",
             logo: "stations/images-america/portland/105.9 The Brew.png",
             url: "https://c13icy.prod.playlists.ihrhls.com/3540_icy"
