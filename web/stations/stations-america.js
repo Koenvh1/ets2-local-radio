@@ -3180,26 +3180,6 @@ var stations = {
     ],
     "portland": [
         {
-            name: "Sports Radio 620",
-            logo: "stations/images-america/c2c/KPOJ.png",
-            url: "https://c3icy.prod.playlists.ihrhls.com/1965_icy"
-        },
-        {
-            name: "AM 860 The Answer",
-            logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC.aac"
-        },
-        {
-            name: "1190 KEX News Radio",
-            logo: "stations/images-america/c2c/1190 KEX News Radio.png",
-            url: "https://c13icy.prod.playlists.ihrhls.com/1949_icy"
-        },
-        {
-            name: "1600 KOHI",
-            logo: "stations/images-america/c2c/KOHI.png",
-            url: "http://98.246.132.248:8000/;"
-        },
-        {
             name: "Air1",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
@@ -3265,6 +3245,11 @@ var stations = {
             url: "http://68.116.40.122:88/broadwave.mp3"
         },
         {
+            name: "WE 102.9",
+            logo: "stations/images-america/eugene/WE 102.9.png",
+            url: "https://live.wostreaming.net/manifest/alphacorporate-kinkhd2aac-ibc4"
+        },
+        {
             name: "K103",
             logo: "stations/images-america/c2c/KKCW.png",
             url: "https://c13icy.prod.playlists.ihrhls.com/1957_icy"
@@ -3290,9 +3275,29 @@ var stations = {
             url: "https://c13icy.prod.playlists.ihrhls.com/4315_icy"
         },
         {
-            name: "Jam'n 107.5",
-            logo: "stations/images-america/c2c/KXJMFM.png",
+            name: "JAM'N 107.5",
+            logo: "stations/images-america/portland/JAM'N 107.5.png",
             url: "https://c13icy.prod.playlists.ihrhls.com/4319_icy"
+        },
+        {
+            name: "Sports Radio 620",
+            logo: "stations/images-america/c2c/KPOJ.png",
+            url: "https://c3icy.prod.playlists.ihrhls.com/1965_icy"
+        },
+        {
+            name: "AM 860 The Answer",
+            logo: "stations/images-america/oregon/AM 860 The Answer.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC.aac"
+        },
+        {
+            name: "1190 KEX News Radio",
+            logo: "stations/images-america/c2c/1190 KEX News Radio.png",
+            url: "https://c13icy.prod.playlists.ihrhls.com/1949_icy"
+        },
+        {
+            name: "1600 KOHI",
+            logo: "stations/images-america/c2c/KOHI.png",
+            url: "http://98.246.132.248:8000/;"
         },
     ],
     "price": [
