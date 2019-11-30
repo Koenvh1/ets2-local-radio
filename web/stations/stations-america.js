@@ -2383,13 +2383,11 @@ var stations = {
             logo: "stations/images-america/los_angeles/104.3 MYFM.png",
             url: "https://c8.prod.playlists.ihrhls.com/173_icy"
         },
-        /*
         {
-            name: "GoCountry105",
-            logo: "stations/images-america/los_angeles/GoCountry105.jpg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC.aac"
+            name: "Go Country 105",
+            logo: "stations/images-america/los_angeles/Go Country 105.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KBOQAMAAC_SC"
         },
-         */
         {
             name: "Pride Radio 104.3-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
