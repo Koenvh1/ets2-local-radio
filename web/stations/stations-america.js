@@ -3095,7 +3095,7 @@ var stations = {
         },
         {
             name: "94.5 KOOL FM",
-            logo: "stations/images-america/phoenix/94.5 KOOL FM.png",
+            logo: "stations/images-america/00_radio.com/94.5 KOOL FM.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KOOLFM_SC"
         },
         {
