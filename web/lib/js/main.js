@@ -346,6 +346,13 @@ function setRadioStation(url, country, volume) {
             if(url.indexOf("?") !== -1){
                 cleanUrl = cleanUrl.split("?")[0];
             }
+
+            if (cleanUrl.startsWith("https://cors-anywhere.herokuapp.com")) {
+                $("#player").attr("crossorigin", "anonymous");
+            } else {
+                $("#player").removeAttr("crossorigin");
+            }
+
             if (cleanUrl.endsWith("m3u8") || url.endsWith("m3u8")) {
                 //If HLS, continue here
                 g_hls = new Hls();
@@ -682,6 +689,12 @@ if (!String.prototype.endsWith) {
         position -= searchString.length;
         var lastIndex = subjectString.lastIndexOf(searchString, position);
         return lastIndex !== -1 && lastIndex === position;
+    };
+}
+
+if (!String.prototype.startsWith) {
+    String.prototype.startsWith = function(search, pos) {
+        return this.substr(!pos || pos < 0 ? 0 : +pos, search.length) === search;
     };
 }
 
