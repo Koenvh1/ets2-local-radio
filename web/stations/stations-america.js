@@ -2324,6 +2324,11 @@ var stations = {
             url: "http://c8icyelb.prod.playlists.ihrhls.com/181_icy"
         },
         {
+            name: "93.1 Jack FM",
+            logo: "stations/images-america/00_radio.com/93.1 Jack FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KCBSFM_SC"
+        },
+        {
             name: "Cali 93.9",
             logo: "stations/images-america/los_angeles/Cali 93.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXOS_FMAAC.aac"
@@ -2369,6 +2374,11 @@ var stations = {
             url: "https://c6.prod.playlists.ihrhls.com/209_icy"
         },
         {
+            name: "101.5 KQBH",
+            logo: "stations/images-america/los_angeles/101.5 KQBH.png",
+            url: "http://ednixon.com:8170/stream"
+        },
+        {
             name: "Radio FREE 102.3",
             logo: "stations/images-america/los_angeles/Radio FREE 102.3.png",
             url: "https://live.wostreaming.net/direct/kjlh-kjlhfmmp3-ibc2"
@@ -2394,14 +2404,19 @@ var stations = {
             url: "https://c8.prod.playlists.ihrhls.com/173_icy"
         },
         {
+            name: "Pride Radio 104.3-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
             name: "Go Country 105",
             logo: "stations/images-america/los_angeles/Go Country 105.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KBOQAMAAC_SC"
         },
         {
-            name: "Pride Radio 104.3-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+            name: "Power 106",
+            logo: "stations/images-america/los_angeles/Power 106.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KPWR_SC"
         },
         {
             name: "KFI AM 640",
@@ -4248,6 +4263,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHOCL_SC"
         },
         {
+            name: "100.7 San Diego",
+            logo: "stations/images-america/san_diego/100.7 San Diego.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMBFM_SC"
+        },
+        {
             name: "101 KGB",
             logo: "stations/images-america/san_diego/101 KGB.png",
             url: "https://c13.prod.playlists.ihrhls.com/237_icy"
@@ -4360,6 +4380,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC_SC"
         },
         {
+            name: "ALT 105.3",
+            logo: "stations/images-america/00_radio.com/ALT 105.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KITSFM_SC"
+        },
+        {
             name: "106.1 KMEL",
             logo: "stations/images-america/san_francisco/106.1 KMEL.png",
             url: "https://c10.prod.playlists.ihrhls.com/293_icy"
@@ -4451,6 +4476,11 @@ var stations = {
             name: "91.3 KBCS",
             logo: "stations/images-america/seattle/91.3 KBCS.png",
             url: "http://www.ophanim.net:7720/stream"
+        },
+        {
+            name: "MOViN 92.5",
+            logo: "stations/images-america/seattle/MOViN 92.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KQMVFM_SC"
         },
         {
             name: "KUBE 93.3",
@@ -4551,6 +4581,11 @@ var stations = {
             name: "106.1 KISS FM",
             logo: "stations/images-america/seattle/106.1 KISS FM.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/4257_icy"
+        },
+        {
+            name: "Warm 106.9",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFM_SC"
         },
         {
             name: "107.7 The End",
