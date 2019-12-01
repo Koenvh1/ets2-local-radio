@@ -1339,6 +1339,11 @@ var stations = {
     ],
     "fresno": [
         {
+            name: "KFCF FM 88.1",
+            logo: "stations/images-america/bakersfield/KFCF FM 88.1.png",
+            url: "http://stream3.streamq.net:8020/;"
+        },
+        {
             name: "KVPR 89.3",
             logo: "stations/images-america/bakersfield/Valley Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM.mp3"
@@ -1349,14 +1354,29 @@ var stations = {
             url: "http://129.8.40.34:8000/"
         },
         {
+            name: "La Preciosa 92.9",
+            logo: "stations/images-america/fresno/La Preciosa 92.9.png",
+            url: "https://c11.prod.playlists.ihrhls.com/3421_icy"
+        },
+        {
             name: "93.7 Kiss Country",
             logo: "stations/images-america/fresno/93.7 Kiss Country.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFMAAC_SC"
         },
         {
+            name: "Jammin' 94.3",
+            logo: "stations/images-america/fresno/Jammin' 94.3.png",
+            url: "https://ice8.securenetsystems.net/KOKO"
+        },
+        {
             name: "B95",
             logo: "stations/images-america/fresno/B95.png",
             url: "https://c11.prod.playlists.ihrhls.com/141_icy"
+        },
+        {
+            name: "Forge 95.3",
+            logo: "stations/images-america/fresno/Forge 95.3.png",
+            url: "http://ice42.securenetsystems.net/FORGE"
         },
         {
             name: "95.7 The Fox",
@@ -1370,7 +1390,7 @@ var stations = {
         },
         {
             name: "Q97.1",
-            logo: "stations/images-america/fresno/Q97.png",
+            logo: "stations/images-america/fresno/Q97.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSEQFM.mp3"
         },
         {
@@ -1379,8 +1399,13 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGVFM.mp3"
         },
         {
+            name: "Old School 98.3",
+            logo: "stations/images-america/fresno/Old School 98.3.png",
+            url: "https://ice6.securenetsystems.net/KQAV"
+        },
+        {
             name: "Soft Rock 98.9",
-            logo: "stations/images-america/fresno/Soft Rock 98.9.png",
+            logo: "stations/images-america/fresno/Soft Rock 98.9_christmas.png",
             url: "https://c11.prod.playlists.ihrhls.com/153_icy"
         },
         {
@@ -1389,9 +1414,19 @@ var stations = {
             url: "https://c7.prod.playlists.ihrhls.com/7934_icy"
         },
         {
-            name: "Y101",
-            logo: "stations/images-america/fresno/Y101.png",
+            name: "99.3 Now FM",
+            logo: "stations/images-america/fresno/99.3 Now FM.png",
+            url: "https://ice9.securenetsystems.net/KWDO"
+        },
+        {
+            name: "Y101 FM",
+            logo: "stations/images-america/fresno/Y101 FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWYEFM.mp3"
+        },
+        {
+            name: "La Buena 101.9",
+            logo: "stations/images-america/fresno/La Buena 101.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLBNFM_SC"
         },
         {
             name: "102.7 The Wolf",
@@ -1409,6 +1444,16 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFRRFMAAC.aac"
         },
         {
+            name: "Hot 104.7",
+            logo: "stations/images-america/fresno/Hot 104.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KHTNFM_SC"
+        },
+        {
+            name: "105.1 The Blaze",
+            logo: "stations/images-america/fresno/105.1 The Blaze.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKBZFM_SC"
+        },
+        {
             name: "K-Jewel 105.5",
             logo: "stations/images-america/fresno/K-Jewel 105.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC.aac"
@@ -1417,6 +1462,11 @@ var stations = {
             name: "KMJ Now 105.9",
             logo: "stations/images-america/fresno/KMJ.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMJAM.mp3"
+        },
+        {
+            name: "Exitos 107.1",
+            logo: "stations/images-america/fresno/Exitos 107.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHITFM_SC"
         },
         {
             name: "940 ESPN",
