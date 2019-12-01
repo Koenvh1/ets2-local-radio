@@ -11,7 +11,6 @@ F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\Capture.pdb
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csprojAssemblyReference.cache
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.Properties.Resources.resources
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.GenerateResource.cache
-F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CoreCompileInputs.cache
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CopyComplete
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.dll
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.pdb

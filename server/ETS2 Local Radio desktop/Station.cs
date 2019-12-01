@@ -225,6 +225,7 @@ namespace ETS2_Local_Radio_server
                         Hidden = false
                     };
                     CaptureProcess.CaptureInterface.DrawOverlayInGame(overlay);
+                    bmp.Dispose();
                     //GPPIC_LoadNewPicture(Directory.GetCurrentDirectory() + @"\overlay.png");
                     //GPPIC_ShowPicturePos(true, (width / 2) - (bmp.Width / 2), (height / 4));
 
