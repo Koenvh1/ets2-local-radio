@@ -1340,7 +1340,7 @@ var stations = {
     "fresno": [
         {
             name: "KFCF FM 88.1",
-            logo: "stations/images-america/bakersfield/KFCF FM 88.1.png",
+            logo: "stations/images-america/fresno/KFCF FM 88.1.png",
             url: "http://stream3.streamq.net:8020/;"
         },
         {
