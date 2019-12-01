@@ -4008,8 +4008,13 @@ var stations = {
         },
         {
             name: "KWAV 96.9",
-            logo: "stations/images-america/santa_cruz/KWAV 96.9.png",
+            logo: "stations/images-america/santa_cruz/KWAV 96.9_christmas.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWAVFMAAC.aac"
+        },
+        {
+            name: "101.7 The Beach",
+            logo: "stations/images-america/santa_cruz/101.7 The Beach.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCDUFM_SC"
         },
         {
             name: "102.5 KDON",
@@ -4030,11 +4035,6 @@ var stations = {
             name: "105.1 K-Ocean",
             logo: "stations/images-america/santa_cruz/105.1 K-Ocean.png",
             url: "https://c10.prod.playlists.ihrhls.com/3639_icy"
-        },
-        {
-            name: "KNBR 680",
-            logo: "stations/images-america/san_francisco/104.5 KNBR.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC_SC"
         },
         {
             name: "860 AM The Answer",
