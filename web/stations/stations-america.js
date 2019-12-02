@@ -714,13 +714,13 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFM.mp3"
         },
         {
-            name: "Fun 101 105.1 FM",
-            logo: "stations/images-america/reno/Fun 101.png",
+            name: "Fun 100.9 - 105.1 FM",
+            logo: "stations/images-america/reno/Fun 100.9.png",
             url: "http://ice42.securenetsystems.net/KRFN"
         },
         {
             name: "95.1 The Wolf 105.1-HD2",
-            logo: "stations/images-america/reno/95.1 The Wolf.jpg",
+            logo: "stations/images-america/reno/95.1 The Wolf.png",
             url: "https://ice42.securenetsystems.net/KWFP"
         },
         {
