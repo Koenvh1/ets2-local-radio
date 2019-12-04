@@ -274,19 +274,19 @@ var stations = {
     ],
     "astoria": [
         {
-            name: "AM 860 The Answer",
-            logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC.aac"
-        },
-        {
-            name: "Oregon Public Broadcasting",
+            name: "OPB 89.7",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
         {
-            name: "Coast Community Radio 91.9 FM",
+            name: "Coast Community Radio 90.9",
             logo: "stations/images-america/astoria/KCPB.png",
             url: "https://ice5.securenetsystems.net/KMUN"
+        },
+        {
+            name: "93.3 The Rock",
+            logo: "stations/images-america/astoria/KCPB.png",
+            url: "http://209.95.35.49:7025/stream"
         },
         {
             name: "94.9 The Bridge",
@@ -302,6 +302,11 @@ var stations = {
             name: "105.7 The Jet",
             logo: "stations/images-america/astoria/105.7 The Jet.png",
             url: "http://173.193.205.96:7295/stream"
+        },
+        {
+            name: "AM 860 The Answer",
+            logo: "stations/images-america/oregon/AM 860 The Answer.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC.aac"
         },
     ],
     "bakersfield": [
@@ -494,17 +499,12 @@ var stations = {
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
         {
-            name: "Air1",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://emf.streamguys1.com/sa001_mp3_high_web"
-        },
-        {
-            name: "High Desert Community Radio 88.9 FM",
+            name: "KPOV 88.9",
             logo: "stations/images-america/bend/KPOV.jpg",
             url: "http://amber.streamguys.com:4810/"
         },
         {
-            name: "Oregon Public Broadcasting",
+            name: "OPB 91.3",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -519,6 +519,26 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXIXFM_SC"
         },
         {
+            name: "94.9 Sports Radio",
+            logo: "stations/images-america/bend/94.9 Sports Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCOEFM_SC"
+        },
+        {
+            name: "Bend 95.7",
+            logo: "stations/images-america/bend/Bend 95.7.png",
+            url: "https://live.wostreaming.net/direct/horizonbroadcasting-kltwfmmp3-ibc1"
+        },
+        {
+            name: "98.3 The Twins",
+            logo: "stations/images-america/bend/98.3 The Twins.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTWSFMAAC_SC"
+        },
+        {
+            name: "99.7 The Bull",
+            logo: "stations/images-america/bend/99.7 The Bull.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMTKFMAAC_SC"
+        },
+        {
             name: "Mix 100.7",
             logo: "stations/images-america/bend/Mix 100.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGXFM_SC"
@@ -526,17 +546,22 @@ var stations = {
         {
             name: "101.7",
             logo: "stations/images-america/bend/101.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLRRFMAAC.aac"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLRRFMAAC_SC"
+        },
+        {
+            name: "KSJJ 102.9",
+            logo: "stations/images-america/bend/KSJJ 102.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSJJFM_SC"
         },
         {
             name: "The Peak 104.1",
-            logo: "stations/images-america/bend/The Peak 104.1.jpg",
-            url: "http://icy3.abacast.com/horizonbroadcasting-kwpkfmmp3-64"
+            logo: "stations/images-america/bend/The Peak 104.1_christmas.png",
+            url: "http://stream.abacast.net/direct/horizonbroadcasting-kwpkfmmp3-64"
         },
         {
-            name: "KQAK 105.7 FM",
-            logo: "stations/images-america/bend/KQAK.png",
-            url: "http://icy3.abacast.com/horizonbroadcasting-kqakfmaac-64"
+            name: "KQAK 105.7",
+            logo: "stations/images-america/bend/KQAK 105.7.png",
+            url: "http://stream.abacast.net/direct/horizonbroadcasting-kqakfmaac-64"
         },
         {
             name: "107.7 The Beat",
