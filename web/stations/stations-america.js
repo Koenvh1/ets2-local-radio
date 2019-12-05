@@ -2934,8 +2934,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTHIFMAAC.aac"
         },
         {
-            name: "107.9 LiteFM",
-            logo: "stations/images-america/ontario/107.9 LiteFM.png",
+            name: "107.9 Lite FM",
+            logo: "stations/images-america/ontario/107.9 Lite FM_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kxltfmaac-ibc3"
         },
     ],
@@ -5109,22 +5109,12 @@ var stations = {
     ],
     "the_dalles": [
         {
-            name: "AM 860 The Answer",
-            logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC.aac"
-        },
-        {
-            name: "KLCK 1400 AM",
-            logo: "stations/images-america/the_dalles/KLCK 1400 AM.png",
-            url: "http://stream1.haystackbroadcasting.com:8004/;"
-        },
-        {
             name: "All Classical 88.1 FM",
             logo: "stations/images-america/the_dalles/All Classical 88.1 FM.png",
             url: "https://allclassical-ice.streamguys.com/ac96kmp3"
         },
         {
-            name: "Oregon Public Broadcasting",
+            name: "OPB 89.7",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -5134,9 +5124,44 @@ var stations = {
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
-            name: "K-LOVE",
-            logo: "stations/images-america/tucumcari/K-LOVE.png",
+            name: "K-LOVE 90.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web"
+        },
+        {
+            name: "92.7 KMSW",
+            logo: "stations/images-america/the_dalles/92.7 KMSW.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMSWFM_SC"
+        },
+        {
+            name: "KACI FM 93.5",
+            logo: "stations/images-america/the_dalles/KACI FM 93.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KACIFM_SC"
+        },
+        {
+            name: "KCGB 96.9",
+            logo: "stations/images-america/the_dalles/KCGB 96.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KCGBFM_SC"
+        },
+        {
+            name: "107.3 The Beat - 103.1",
+            logo: "stations/images-america/the_dalles/107.3 The Beat.png",
+            url: "http://209.95.35.49:7004/stream"
+        },
+        {
+            name: "104.5 MeTV FM",
+            logo: "stations/images-america/portland/104.5 MeTV FM.png",
+            url: "https://ice9.securenetsystems.net/KXXP"
+        },
+        {
+            name: "AM 860 The Answer",
+            logo: "stations/images-america/oregon/AM 860 The Answer.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC.aac"
+        },
+        {
+            name: "KLCK 1400 AM",
+            logo: "stations/images-america/the_dalles/KLCK 1400 AM.png",
+            url: "http://stream1.haystackbroadcasting.com:8004/;"
         },
     ],
     "tonopah": [
