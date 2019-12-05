@@ -5382,6 +5382,249 @@ var cities_btbs = [
     }
 ];
 
+var cities_balkan_e = [
+    {
+        "gameName": "bacau",
+        "realName": "Bacău",
+        "country": "romania",
+        "x": "62137.4",
+        "y": "54.9219",
+        "z": "18494"
+    },
+    {
+        "gameName": "brasov",
+        "realName": "Brașov",
+        "country": "romania",
+        "x": "58252.4",
+        "y": "96.1719",
+        "z": "23552.8"
+    },
+    {
+        "gameName": "bucuresti",
+        "realName": "București",
+        "country": "romania",
+        "x": "61121",
+        "y": "60.1719",
+        "z": "31703.6"
+    },
+    {
+        "gameName": "burgas",
+        "realName": "Бургас",
+        "country": "bulgaria",
+        "x": "68297.2",
+        "y": "61",
+        "z": "40880.7"
+    },
+    {
+        "gameName": "calarasi",
+        "realName": "Călărași",
+        "country": "romania",
+        "x": "66074.6",
+        "y": "69.9844",
+        "z": "31257.8"
+    },
+    {
+        "gameName": "cernavoda",
+        "realName": "Cernavodă",
+        "country": "romania",
+        "x": "69579.5",
+        "y": "90",
+        "z": "30015.4"
+    },
+    {
+        "gameName": "cluj_napoca",
+        "realName": "Cluj-Napoca",
+        "country": "romania",
+        "x": "50303.3",
+        "y": "64.1719",
+        "z": "18277.2"
+    },
+    {
+        "gameName": "constanta",
+        "realName": "Constanța",
+        "country": "romania",
+        "x": "71731.7",
+        "y": "60.6133",
+        "z": "30870.9"
+    },
+    {
+        "gameName": "craiova",
+        "realName": "Craiova",
+        "country": "romania",
+        "x": "51918.5",
+        "y": "68.7734",
+        "z": "33228.5"
+    },
+    {
+        "gameName": "edirne",
+        "realName": "Edirne",
+        "country": "turkey",
+        "x": "65096",
+        "y": "69.0195",
+        "z": "46829.2"
+    },
+    {
+        "gameName": "galati",
+        "realName": "Galați",
+        "country": "romania",
+        "x": "67046.2",
+        "y": "65.6602",
+        "z": "24473"
+    },
+    {
+        "gameName": "hunedoara",
+        "realName": "Hunedoara",
+        "country": "romania",
+        "x": "49016.9",
+        "y": "97.3633",
+        "z": "26114.8"
+    },
+    {
+        "gameName": "iasi",
+        "realName": "Iași",
+        "country": "romania",
+        "x": "64746.4",
+        "y": "67.6328",
+        "z": "14963.9"
+    },
+    {
+        "gameName": "istanbul",
+        "realName": "İstanbul",
+        "country": "turkey",
+        "x": "75753.5",
+        "y": "68.5391",
+        "z": "47644"
+    },
+    {
+        "gameName": "karlovo",
+        "realName": "Карлово",
+        "country": "bulgaria",
+        "x": "58056.4",
+        "y": "73.0977",
+        "z": "42057.7"
+    },
+    {
+        "gameName": "kozloduy",
+        "realName": "Козлодуй",
+        "country": "bulgaria",
+        "x": "52658.2",
+        "y": "107.871",
+        "z": "36247.3"
+    },
+    {
+        "gameName": "mangalia",
+        "realName": "Mangalia",
+        "country": "romania",
+        "x": "71577.7",
+        "y": "57.2891",
+        "z": "33330.9"
+    },
+    {
+        "gameName": "pernik",
+        "realName": "Перник",
+        "country": "bulgaria",
+        "x": "48351.3",
+        "y": "82.4727",
+        "z": "45310.5"
+    },
+    {
+        "gameName": "pirdop",
+        "realName": "Пирдоп",
+        "country": "bulgaria",
+        "x": "55937.9",
+        "y": "73.1055",
+        "z": "42161.1"
+    },
+    {
+        "gameName": "pitesti",
+        "realName": "Pitești",
+        "country": "romania",
+        "x": "56247.5",
+        "y": "63.9141",
+        "z": "29912.5"
+    },
+    {
+        "gameName": "pleven",
+        "realName": "Плевен",
+        "country": "bulgaria",
+        "x": "57594.6",
+        "y": "77.9531",
+        "z": "37457.6"
+    },
+    {
+        "gameName": "plovdiv",
+        "realName": "Пловдив",
+        "country": "bulgaria",
+        "x": "58234.8",
+        "y": "101.418",
+        "z": "46169.4"
+    },
+    {
+        "gameName": "resita",
+        "realName": "Reșița",
+        "country": "romania",
+        "x": "43990.4",
+        "y": "73.293",
+        "z": "29154.6"
+    },
+    {
+        "gameName": "ruse",
+        "realName": "Русе",
+        "country": "bulgaria",
+        "x": "61454",
+        "y": "67.8398",
+        "z": "35069.8"
+    },
+    {
+        "gameName": "sofia",
+        "realName": "Со́фия",
+        "country": "bulgaria",
+        "x": "51154.8",
+        "y": "94.0313",
+        "z": "42490.6"
+    },
+    {
+        "gameName": "targu_mures",
+        "realName": "Târgu Mureș",
+        "country": "romania",
+        "x": "53959.7",
+        "y": "56.8359",
+        "z": "20157.2"
+    },
+    {
+        "gameName": "tekirdag",
+        "realName": "Tekirdağ",
+        "country": "turkey",
+        "x": "68590.5",
+        "y": "70.4961",
+        "z": "49762.8"
+    },
+    {
+        "gameName": "timisoara",
+        "realName": "Timișoara",
+        "country": "romania",
+        "x": "41402.3",
+        "y": "63.7539",
+        "z": "27128"
+    },
+    {
+        "gameName": "varna",
+        "realName": "Варна",
+        "country": "bulgaria",
+        "x": "70143.4",
+        "y": "63.3828",
+        "z": "36462.2"
+    },
+    {
+        "gameName": "veli_tarnovo",
+        "realName": "Велико Търново",
+        "country": "bulgaria",
+        "x": "60763.4",
+        "y": "104.605",
+        "z": "38859.5"
+    }
+];
+
 var cities_projects_balkans = [
     {
         "gameName": "brod",
@@ -9764,6 +10007,7 @@ cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_btbs); //Beyond the Baltic Sea DLC
+cities = cities.concat(cities_balkan_e); //Road to the Black Sea DLC
 cities = cities.concat(cities_italy_map); //Italy Map / Italy DLC
 cities = cities.concat(cities_kz); //The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
