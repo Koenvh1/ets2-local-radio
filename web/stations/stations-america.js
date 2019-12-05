@@ -1062,43 +1062,23 @@ var stations = {
     ],
     "eugene": [
         {
-            name: "KUGN 590 AM",
-            logo: "stations/images-america/oregon/KUGN 590 AM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUGNAMAAC_SC"
-        },
-        {
-            name: "Solid Gold Radio 84",
-            logo: "stations/images-america/eugene/Solid Gold Radio 84.jpg",
-            url: "http://173.193.205.96:7154/stream"
-        },
-        {
-            name: "JPR News & Information",
-            logo: "stations/images-america/c2c/JPR News & Information.png",
-            url: "http://jpr.streamguys.org:80/jpr-news"
-        },
-        {
-            name: "Oregon Public Broadcasting",
-            logo: "stations/images-america/c2c/Oregon Public Broadcasting.png",
-            url: "http://stream3.opb.org/radio.mp3"
-        },
-        {
-            name: "KWVA 88.1 FM",
-            logo: "stations/images-america/c2c/KWVA 88.1 FM University of Oregon.png",
+            name: "KWVA 88.1",
+            logo: "stations/images-america/eugene/KWVA 88.1.png",
             url: "http://128.223.206.71:8000/;"
         },
         {
-            name: "KLCC",
+            name: "KLCC 89.7",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
         {
-            name: "Air1",
+            name: "Air1 90.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
-            name: "KWAX 91.1 FM",
-            logo: "stations/images-america/c2c/KWAX 91.1 FM University of Oregon.jpg",
+            name: "KWAX 91.1",
+            logo: "stations/images-america/eugene/KWAX.svg",
             url: "http://75.150.43.46:8000/;"
         },
         {
@@ -1118,7 +1098,7 @@ var stations = {
         },
         {
             name: "Sports Radio 95.3",
-            logo: "stations/images-america/c2c/KUJZFM.png",
+            logo: "stations/images-america/eugene/Sports Radio 95.3",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUJZFMAAC.aac"
         },
         {
@@ -1132,8 +1112,8 @@ var stations = {
             url: "http://67.212.238.178:8018/stream"
         },
         {
-            name: "97.7 La Que Buena",
-            logo: "stations/images-america/c2c/KEQBFM.png",
+            name: "La Que Buena 97.7",
+            logo: "stations/images-america/eugene/La Que Buena 97.7.png",
             url: "http://www.streamvortex.com:11150/stream"
         },
         {
@@ -1142,8 +1122,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KODZFM_SC"
         },
         {
-            name: "Star 102.3",
-            logo: "stations/images-america/eugene/Star 102.3.png",
+            name: "Star FM 102.3",
+            logo: "stations/images-america/eugene/Star FM 102.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
@@ -1157,6 +1137,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC.aac"
         },
         {
+            name: "104.7 KDUK",
+            logo: "stations/images-america/eugene/104.7 KDUK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDUKFM_SC"
+        },
+        {
             name: "105.5 BOB FM",
             logo: "stations/images-america/eugene/105.5 BOB FM.png",
             url: "http://www.ophanim.net:8980/;"
@@ -1165,6 +1150,16 @@ var stations = {
             name: "Hope 107.9 FM",
             logo: "stations/images-america/eugene/Hope 107.9 FM.png",
             url: "http://extramilemedia.streamguys1.com/live"
+        },
+        {
+            name: "KUGN 590 AM",
+            logo: "stations/images-america/oregon/KUGN 590 AM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUGNAMAAC_SC"
+        },
+        {
+            name: "Solid Gold Radio 84",
+            logo: "stations/images-america/eugene/Solid Gold Radio 84.jpg",
+            url: "http://173.193.205.96:7154/stream"
         },
     ],
     "eureka": [
@@ -2615,12 +2610,7 @@ var stations = {
     ],
     "newport": [
         {
-            name: "KNPT 1310 AM",
-            logo: "stations/images-america/newport/KNPT.jpg",
-            url: "http://68.116.40.122:88/broadwave.mp3"
-        },
-        {
-            name: "KLCC",
+            name: "KLCC 90.5",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
@@ -2640,19 +2630,24 @@ var stations = {
             url: "http://www.ophanim.net:9170/;"
         },
         {
-            name: "Mix 94.5",
+            name: "94.5 Mix FM",
             logo: "stations/images-america/eugene/94.5 Mix FM.png",
             url: "http://204.141.167.19:8970/stream"
         },
         {
-            name: "96 KZEL",
-            logo: "stations/images-america/eugene/96 KZEL.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZELFM.mp3"
+            name: "96.7 KCRF",
+            logo: "stations/images-america/newport/96.7 KCRF.png",
+            url: "http://68.116.40.122:502/broadwavehigh.mp3"
         },
         {
             name: "100.7 Boss FM",
             logo: "stations/images-america/newport/100.7 Boss FM.png",
             url: "http://ice10.securenetsystems.net/KPPT"
+        },
+        {
+            name: "US 101",
+            logo: "stations/images-america/newport/US 101.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFLYFM_SC"
         },
         {
             name: "102.7 Kyte FM",
@@ -2662,12 +2657,22 @@ var stations = {
         {
             name: "Alternative 103.7",
             logo: "stations/images-america/eugene/Alternative 103.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC.aac"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFM_SC"
+        },
+        {
+            name: "104.7 KDUK",
+            logo: "stations/images-america/eugene/104.7 KDUK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDUKFM_SC"
         },
         {
             name: "Hope 107.9 FM",
             logo: "stations/images-america/eugene/Hope 107.9 FM.png",
             url: "http://extramilemedia.streamguys1.com/live"
+        },
+        {
+            name: "KNPT 1310 AM",
+            logo: "stations/images-america/newport/KNPT.jpg",
+            url: "http://68.116.40.122:88/broadwave.mp3"
         },
     ],
     "nogales": [
@@ -3861,8 +3866,8 @@ var stations = {
             url: "http://c13icyelb.prod.playlists.ihrhls.com/1961_icy"
         },
         {
-            name: "Star 102.3",
-            logo: "stations/images-america/eugene/Star 102.3.png",
+            name: "Star FM 102.3",
+            logo: "stations/images-america/eugene/Star FM 102.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
