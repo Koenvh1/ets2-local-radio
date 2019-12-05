@@ -285,7 +285,7 @@ var stations = {
         },
         {
             name: "93.3 The Rock",
-            logo: "stations/images-america/astoria/KCPB.png",
+            logo: "stations/images-america/astoria/93.3 The Rock.png",
             url: "http://209.95.35.49:7025/stream"
         },
         {
@@ -1098,7 +1098,7 @@ var stations = {
         },
         {
             name: "Sports Radio 95.3",
-            logo: "stations/images-america/eugene/Sports Radio 95.3",
+            logo: "stations/images-america/eugene/Sports Radio 95.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUJZFMAAC.aac"
         },
         {
