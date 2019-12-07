@@ -4624,7 +4624,7 @@ var stations = {
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/seattle/Star 101.5.png",
+            logo: "stations/images-america/seattle/Star 101.5_christmas.png",
             url: "https://live.wostreaming.net/direct/sinclair-kplzfmaac-ibc2"
         },
         {
@@ -5590,7 +5590,7 @@ var stations = {
         },
         {
             name: "100.9 Cherry FM",
-            logo: "stations/images-america/yakima/100.9 Cherry FM.png",
+            logo: "stations/images-america/yakima/100.9 Cherry FM_christmas.png",
             url: "https://ice5.securenetsystems.net/KARY"
         },
         {
