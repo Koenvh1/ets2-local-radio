@@ -4842,7 +4842,7 @@ var stations = {
         },
         {
             name: "KISS 98.1",
-            logo: "stations/images-america/spokane/KISS 98.1.png",
+            logo: "stations/images-america/spokane/KISS 98.1_christmas.png",
             url: "https://c2.prod.playlists.ihrhls.com/2585_icy"
         },
         {
