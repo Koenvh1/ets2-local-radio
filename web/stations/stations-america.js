@@ -1122,8 +1122,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KODZFM_SC"
         },
         {
-            name: "Star FM 102.3",
-            logo: "stations/images-america/eugene/Star FM 102.3.png",
+            name: "Star 102.3",
+            logo: "stations/images-america/eugene/Star 102.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
@@ -3836,17 +3836,17 @@ var stations = {
             url: "http://sc7.shoutcaststreaming.us:8010/;"
         },
         {
-            name: "KLCC",
+            name: "KLCC 89.7",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
         {
-            name: "Air1",
+            name: "Air1 90.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
         {
-            name: "Oregon Public Broadcasting",
+            name: "OPB 91.5",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -3861,13 +3861,18 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZELFM.mp3"
         },
         {
+            name: "99.9 KRKT",
+            logo: "stations/images-america/eugene/99.9 KRKT.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRKTFM_SC"
+        },
+        {
             name: "Z100",
             logo: "stations/images-america/portland/Z100.png",
             url: "http://c13icyelb.prod.playlists.ihrhls.com/1961_icy"
         },
         {
-            name: "Star FM 102.3",
-            logo: "stations/images-america/eugene/Star FM 102.3.png",
+            name: "Star 102.3",
+            logo: "stations/images-america/eugene/Star 102.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
@@ -3881,7 +3886,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC.aac"
         },
         {
-            name: "Jam'n 107.5",
+            name: "JAM'N 107.5",
             logo: "stations/images-america/portland/JAM'N 107.5.png",
             url: "https://c13icy.prod.playlists.ihrhls.com/4319_icy"
         },
