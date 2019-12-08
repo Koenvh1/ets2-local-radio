@@ -3862,7 +3862,7 @@ var stations = {
         },
         {
             name: "99.9 KRKT",
-            logo: "stations/images-america/eugene/99.9 KRKT.png",
+            logo: "stations/images-america/salem/99.9 KRKT.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRKTFM_SC"
         },
         {
