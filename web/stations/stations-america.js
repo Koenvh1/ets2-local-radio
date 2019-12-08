@@ -2511,28 +2511,18 @@ var stations = {
     ],
     "medford": [
         {
-            name: "KCMX News Media 880",
-            logo: "stations/images-america/c2c/KCMX News Media 880.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMXAM.mp3"
-        },
-        {
-            name: "Air1",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://emf.streamguys1.com/sa001_mp3_high_web"
-        },
-        {
-            name: "JPR Rhythm & News",
-            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
-            url: "http://jpr.streamguys.org:80/jpr-rhythm"
-        },
-        {
-            name: "JPR Classics & News",
+            name: "JPR Classics & News 88.3",
             logo: "stations/images-america/c2c/JPR Classics & News.png",
             url: "http://jpr.streamguys.org:80/jpr-classics"
         },
         {
-            name: "KSKQ 94.1 FM",
-            logo: "stations/images-america/medford/KSKQ 94.1 FM.png",
+            name: "JPR Rhythm & News 89.1",
+            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            url: "http://jpr.streamguys.org:80/jpr-rhythm"
+        },
+        {
+            name: "KSKQ 89.5 FM",
+            logo: "stations/images-america/medford/KSKQ 89.5 FM.png",
             url: "http://64.150.176.42:8130/;"
         },
         {
@@ -2571,8 +2561,8 @@ var stations = {
             url: "http://icy3.abacast.com:80/grantspass-kajoamaac-48"
         },
         {
-            name: "101.9 Lite FM",
-            logo: "stations/images-america/c2c/KCMXFM.png",
+            name: "Lite 102",
+            logo: "stations/images-america/medford/Lite 102.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMXFM.mp3"
         },
         {
@@ -2584,6 +2574,16 @@ var stations = {
             name: "105.1 The Wolf",
             logo: "stations/images-america/medford/105.1 The Wolf.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAKTFM.mp3"
+        },
+        {
+            name: "107.5 KISS FM",
+            logo: "stations/images-america/medford/107.5 KISS FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KIFSFM_SC"
+        },
+        {
+            name: "KCMX News Media 880",
+            logo: "stations/images-america/c2c/KCMX News Media 880.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMXAM.mp3"
         },
     ],
     "moab": [
@@ -3882,7 +3882,7 @@ var stations = {
         },
         {
             name: "Jam'n 107.5",
-            logo: "stations/images-america/portland/jamn1075.png",
+            logo: "stations/images-america/portland/JAM'N 107.5.png",
             url: "https://c13icy.prod.playlists.ihrhls.com/4319_icy"
         },
     ],
