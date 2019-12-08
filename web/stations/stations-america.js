@@ -1127,7 +1127,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
-            name: "102.7 KYTE FM",
+            name: "102.7 Kyte FM",
             logo: "stations/images-america/eugene/102.7 KYTE FM.png",
             url: "http://68.116.40.122:88/broadwave.mp3"
         },
@@ -2302,19 +2302,29 @@ var stations = {
     ],
     "longview": [
         {
-            name: "Family Radio 89.5 FM",
-            logo: "stations/images-america/longview/Family Radio 89.5 FM.svg",
+            name: "Family Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WESTAAC.aac"
         },
         {
-            name: "K-LOVE 90.3 FM",
+            name: "K-LOVE 90.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "http://emf.streamguys1.com/sk001_mp3_high_web"
         },
         {
-            name: "CSN 91.1 FM",
+            name: "CSN 91.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
             url: "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "94.5 KLYK",
+            logo: "stations/images-america/longview/94.5 KLYK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLYKFM_SC"
+        },
+        {
+            name: "The Peak 98.3",
+            logo: "stations/images-america/longview/The Peak 98.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KPPKFM_SC"
         },
         {
             name: "Hometeam 100.7 KLOG",
@@ -2322,8 +2332,8 @@ var stations = {
             url: "http://www.streamcontrol.net:11050/live"
         },
         {
-            name: "101.5 THE WAVE",
-            logo: "stations/images-america/longview/101.5 THE WAVE.png",
+            name: "101.5 The Wave",
+            logo: "stations/images-america/longview/101.5 The Wave.png",
             url: "http://www.streamcontrol.net:11070/live"
         },
         {
@@ -2335,6 +2345,11 @@ var stations = {
             name: "105.5 KUKN",
             logo: "stations/images-america/longview/105.5 KUKN.png",
             url: "http://www.streamcontrol.net:11060/live"
+        },
+        {
+            name: "Rocket 107",
+            logo: "stations/images-america/longview/Rocket 107.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRQTFM_SC"
         },
     ],
     "los_angeles": [
@@ -3333,7 +3348,7 @@ var stations = {
     ],
     "portland": [
         {
-            name: "Air1",
+            name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "http://emf.streamguys1.com/sa001_mp3_high_web"
         },
@@ -3368,7 +3383,7 @@ var stations = {
             url: "http://listen.xray.fm:8000/stream"
         },
         {
-            name: "Oregon Public Broadcasting 91.5",
+            name: "OPB 91.5",
             logo: "stations/images-america/oregon/OPB.png",
             url: "http://stream3.opb.org/radio.mp3"
         },
@@ -3376,6 +3391,21 @@ var stations = {
             name: "OPB Music 91.5-HD2",
             logo: "stations/images-america/c2c/OPB Music.png",
             url: "http://stream1.opb.org/opbmusic_player.mp3"
+        },
+        {
+            name: "94.7 FM",
+            logo: "stations/images-america/00_radio.com/94.7 FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNRKFM_SC"
+        },
+        {
+            name: "94.7 FM too",
+            logo: "stations/images-america/00_radio.com/94.7 FM too.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNRKHD_SC"
+        },
+        {
+            name: "96.3 Way FM",
+            logo: "stations/images-america/portland/96.3 Way FM_christmas.png",
+            url: "http://wayfm.streamguys1.com/wayw.mp3"
         },
         {
             name: "97.1 Charlie",
@@ -3386,6 +3416,11 @@ var stations = {
             name: "PRP 99.1 FM",
             logo: "stations/images-america/portland/PRP 99.1 FM.png",
             url: "http://ais-sa1.streamon.fm/7335_64k.aac"
+        },
+        {
+            name: "99.5 The Wolf",
+            logo: "stations/images-america/00_radio.com/99.5 The Wolf.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KWJJFM_SC"
         },
         {
             name: "Z100",
@@ -3876,7 +3911,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
-            name: "102.7 KYTE FM",
+            name: "102.7 Kyte FM",
             logo: "stations/images-america/eugene/102.7 KYTE FM.png",
             url: "http://68.116.40.122:88/broadwave.mp3"
         },
