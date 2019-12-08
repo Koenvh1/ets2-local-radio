@@ -21241,7 +21241,7 @@ var stations_c2c = {
     //     {
     //         name: "CBC Radio One",
     //         logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
-    //         url: "http://cbc_r1_vcr.akacast.akamaistream.net/7/723/451661/v1/rc.akacast.akamaistream.net/cbc_r1_vcr"
+    //         url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
     //     },
     //     {
     //         name: "K-Love",
@@ -21256,7 +21256,7 @@ var stations_c2c = {
     //     {
     //         name: "CBC Music",
     //         logo: "stations/images-america/canadream/CBC Music.png",
-    //         url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+    //         url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
     //     },
     //     {
     //         name: "98.5 Ocean",
@@ -22787,7 +22787,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique 88.3 FM",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7emct0.akacast.akamaistream.net/7/282/177408/v1/rc.akacast.akamaistream.net/7EMCT0"
         },
     ],
@@ -22834,7 +22834,7 @@ var stations_canadream = {
         {
             name: "CBC Radio One",
             logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
-            url: "http://cbc_r1_vcr.akacast.akamaistream.net/7/723/451661/v1/rc.akacast.akamaistream.net/cbc_r1_vcr"
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
             name: "CHON 90.5 FM",
@@ -22887,7 +22887,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique Edmonton",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO"
         },
         {
@@ -23120,7 +23120,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique 90.1 FM",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qque0.akacast.akamaistream.net/7/171/177410/v1/rc.akacast.akamaistream.net/7QQUE0"
         },
         {
@@ -23165,7 +23165,7 @@ var stations_canadream = {
         {
             name: "CBC Music",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "OZFM",
@@ -23196,7 +23196,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique Halifax",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO"
         },
         {
@@ -23303,7 +23303,7 @@ var stations_canadream = {
         {
             name: "CBC Music",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "CFNR 96.1 FM",
@@ -23349,7 +23349,7 @@ var stations_canadream = {
         {
             name: "CBC Music",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "Radio NL 610 AM",
@@ -23364,7 +23364,7 @@ var stations_canadream = {
         {
             name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
-            url: "http://2bvan0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
             name: "K97.5",
@@ -23588,7 +23588,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qrim0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0"
         },
     ],
@@ -23777,7 +23777,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7QMTL0.akacast.akamaistream.net:80/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
         },
         {
@@ -23896,7 +23896,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7oott0.akacast.akamaistream.net/7/529/177409/v1/rc.akacast.akamaistream.net/7OOTT0"
         },
         {
@@ -23947,7 +23947,7 @@ var stations_canadream = {
         {
             name: "CBC Music",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "CBC Radio One",
@@ -23967,7 +23967,7 @@ var stations_canadream = {
         {
             name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
-            url: "http://2bvan0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
             name: "Country 97 FM",
@@ -24045,7 +24045,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qque0.akacast.akamaistream.net/7/171/177410/v1/rc.akacast.akamaistream.net/7QQUE0"
         },
         {
@@ -24092,7 +24092,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qrim0.akacast.akamaistream.net/7/435/177411/v1/rc.akacast.akamaistream.net/7QRIM0"
         },
         /*{
@@ -24129,7 +24129,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7mwin0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0"
         },
         {
@@ -24186,7 +24186,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qmtl0.akacast.akamaistream.net/7/445/177407/v1/rc.akacast.akamaistream.net/7QMTL0"
         },
         {
@@ -24255,7 +24255,7 @@ var stations_canadream = {
         },*/
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qsag0.akacast.akamaistream.net/7/887/177412/v1/rc.akacast.akamaistream.net/7QSAG0"
         },
         {
@@ -24287,7 +24287,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7mwin0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0"
         },
         {
@@ -24361,7 +24361,7 @@ var stations_canadream = {
     "septiles": [
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7qque0.akacast.akamaistream.net/7/171/177410/v1/rc.akacast.akamaistream.net/7QQUE0"
         },
         {
@@ -24406,7 +24406,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7osub0.akacast.akamaistream.net/7/884/177414/v1/rc.akacast.akamaistream.net/7OSUB0"
         },
         {
@@ -24555,7 +24555,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7otor0.akacast.akamaistream.net/7/321/177415/v1/rc.akacast.akamaistream.net/7OTOR0"
         },
         {
@@ -24653,17 +24653,17 @@ var stations_canadream = {
     ],
     "vancouver_bc": [
         {
-            name: "CBC Radio One",
+            name: "CBC Radio One 88.1",
             logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
-            url: "http://cbc_r1_vcr.akacast.akamaistream.net/7/723/451661/v1/rc.akacast.akamaistream.net/cbc_r1_vcr"
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
-            name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
-            url: "http://7bvan0.akacast.akamaistream.net/7/286/177417/v1/rc.akacast.akamaistream.net/7BVAN0"
+            name: "Ici Musique 90.9",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7BVAN0_VAN"
         },
         {
-            name: "Red FM",
+            name: "Red FM 93.1",
             logo: "stations/images-america/canadream/vancouver/Red FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKYEFMAAC.aac"
         },
@@ -24677,21 +24677,21 @@ var stations_canadream = {
             logo: "stations/images-america/canadream/vancouver/Z95.3 FM.png",
             url: "http://newcap.leanstream.co/CKZZFM"
         },
-        {
+        /*{
             name: "KiSS RADiO 96.9",
             logo: "stations/images-america/canadream/vancouver/KiSS RADiO 96.9.svg",
             url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
-        },
+        },*/
         {
-            name: "Ici Radio-Canada Première",
+            name: "Ici Radio-Canada Première 97.7",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
-            url: "http://2bvan0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
-        {
+        /*{
             name: "Ocean 98.5",
             logo: "stations/images-america/canadream/vancouver/Ocean 98.5.png",
             url: "http://rogers-hls.leanstream.co:8000/rogers/vic985.stream/icy"
-        },
+        },*/
         {
             name: "CFOX 99.3 FM",
             logo: "stations/images-america/canadream/vancouver/CFOX 99.3 FM.png",
@@ -24708,7 +24708,7 @@ var stations_canadream = {
             url: "http://live.leanstream.co/CFMIFM"
         },
         {
-            name: "CiTR Discorder",
+            name: "CiTR Discorder 101.9",
             logo: "stations/images-america/canadream/vancouver/CITR Discorder.svg",
             url: "http://live.citr.ca:8000/live.mp3"
         },
@@ -24719,13 +24719,13 @@ var stations_canadream = {
         },
         {
             name: "104.3 The Breeze",
-            logo: "stations/images-america/canadream/vancouver/104.3 The Breeze.png",
+            logo: "stations/images-america/canadream/vancouver/104.3 The Breeze_christmas.png",
             url: "https://newcap.leanstream.co/CHLGFM"
         },
         {
-            name: "CBC Music",
+            name: "CBC Music 105.7",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "AM 730",
@@ -24811,12 +24811,12 @@ var stations_canadream = {
         {
             name: "Ici Radio-Canada Première",
             logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
-            url: "http://2bvan0.akacast.akamaistream.net/7/430/177404/v1/rc.akacast.akamaistream.net/2BVAN0"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
             name: "CBC Music",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbc_r2_vcr.akacast.akamaistream.net/7/773/451661/v1/rc.akacast.akamaistream.net/cbc_r2_vcr"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
     ],
     "williamslake": [
@@ -24874,7 +24874,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://7mwin0.akacast.akamaistream.net/7/134/177418/v1/rc.akacast.akamaistream.net/7MWIN0"
         },
         {
@@ -24966,7 +24966,7 @@ var stations_canadream = {
         },
         {
             name: "Ici Musique",
-            logo: "stations/images-america/canadream/Ici Musique.png",
+            logo: "stations/images-america/canadream/Ici Musique.svg",
             url: "http://sp01radio.akacast.akamaistream.net/7/481/177425/v1/rc.akacast.akamaistream.net/SP01RADIO"
         },
         {
