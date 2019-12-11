@@ -423,7 +423,7 @@ var stations = {
     "bellingham": [
         {
             name: "Effect Radio 88.3 FM",
-            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -448,7 +448,7 @@ var stations = {
         },
         {
             name: "NWPR NPR & Classical Music - 91.7 FM",
-            logo: "stations/images-america/bellingham/NWPR NPR & Classical Music - 91.7 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -577,7 +577,7 @@ var stations = {
         },
         {
             name: "Effect Radio 90.5",
-            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -1803,7 +1803,7 @@ var stations = {
     "jackpot": [
         {
             name: "Effect Radio",
-            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -1842,12 +1842,12 @@ var stations = {
     "kennewick": [
         {
             name: "NWPR NPR & Classical Music - 89.1 FM",
-            logo: "stations/images-america/kennewick/NWPR NPR & Classical Music - 89.1 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
             name: "NWPR NPR News - 89.7 FM",
-            logo: "stations/images-america/kennewick/NWPR NPR News - 89.7 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -2060,7 +2060,7 @@ var stations = {
         },
         {
             name: "Effect Radio",
-            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -2883,7 +2883,7 @@ var stations = {
         },
         {
             name: "NWPR NPR News - 90.1 FM",
-            logo: "stations/images-america/omak/NWPR NPR News - 90.1 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -3091,12 +3091,12 @@ var stations = {
     "pendleton": [
         {
             name: "89.1 KFAE NWPR Classical",
-            logo: "stations/images-america/c2c/89.1 KFAE NWPR Classical.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
             name: "89.7 KWWS NWPR News",
-            logo: "stations/images-america/c2c/89.7 KWWS NWPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -3683,7 +3683,7 @@ var stations = {
     "roswell": [
         {
             name: "Effect Radio 89.5",
-            logo: "stations/images-america/0_general_logos/Effect Radio.svg",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
@@ -5123,7 +5123,7 @@ var stations = {
         },
         {
             name: "NWPR NPR & Classical Music - 90.9 FM",
-            logo: "stations/images-america/tacoma/NWPR NPR & Classical Music - 90.9 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -5155,7 +5155,7 @@ var stations = {
         },
         {
             name: "NWPB Classical 90.5 FM",
-            logo: "stations/images-america/the_dalles/NWPB.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -5496,12 +5496,12 @@ var stations = {
     "wenatchee": [
         {
             name: "NWPR NPR & Classical Music - 90.7 FM",
-            logo: "stations/images-america/wenatchee/NWPR NPR & Classical Music - 90.7 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
             name: "NWPR NPR News - 90.3 FM",
-            logo: "stations/images-america/wenatchee/NWPR NPR News - 90.3 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -5585,12 +5585,12 @@ var stations = {
     "yakima": [
         {
             name: "NWPR NPR News - 88.5 FM",
-            logo: "stations/images-america/yakima/NWPR NPR News - 88.5 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
             name: "NWPR NPR & Classical Music - 90.3 FM",
-            logo: "stations/images-america/yakima/NWPR NPR & Classical Music - 90.3 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
