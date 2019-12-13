@@ -5104,6 +5104,54 @@ var cities_fr = [
         "x": "-39213.8",
         "y": "82.1875",
         "z": "35665.6"
+    },
+    {
+        "gameName": "ajaccio",
+        "realName": "Ajaccio",
+        "country": "france",
+        "x": "-10031.5",
+        "y": "80",
+        "z": "48620.9"
+    },
+    {
+        "gameName": "bastia",
+        "realName": "Bastia",
+        "country": "france",
+        "x": "-7139.55",
+        "y": "56.7461",
+        "z": "44186.3"
+    },
+    {
+        "gameName": "bonifacio",
+        "realName": "Bonifacio",
+        "country": "france",
+        "x": "-8469.77",
+        "y": "79.4453",
+        "z": "52254.9"
+    },
+    {
+        "gameName": "calvi",
+        "realName": "Calvi",
+        "country": "france",
+        "x": "-10035.8",
+        "y": "103.492",
+        "z": "46017.5"
+    },
+    {
+        "gameName": "lile_rousse",
+        "realName": "L'Île-Rousse",
+        "country": "france",
+        "x": "-8914.71",
+        "y": "56.7461",
+        "z": "44676.3"
+    },
+    {
+        "gameName": "porto_vecchi",
+        "realName": "Porto-Vecchio",
+        "country": "france",
+        "x": "-7626.54",
+        "y": "83.3945",
+        "z": "51010.2"
     }
 ];
 
