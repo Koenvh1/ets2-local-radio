@@ -3281,7 +3281,7 @@ var stations = {
         {
             name: "B92.1",
             logo: "stations/images-america/cedar_city/B92.1.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kxbnfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kxbnfmaac-ibc4"
         },
         {
             name: "SOS Radio",
@@ -5788,6 +5788,21 @@ var stations_mexico = {
     ],
     "durango": [
         {
+            name: "Más Pop 95.7",
+            logo: "stations/images-america/durango/Más Pop 95.7.png",
+            url: "http://192.99.14.225:9700/;"
+        },
+        {
+            name: "Exa FM 101.3",
+            logo: "stations/images-america/durango/Exa FM 101.3.jpg",
+            url: "http://38.96.148.18:9178/;"
+        },
+        {
+            name: "107.7@FM",
+            logo: "stations/images-america/durango/107.7@FM.png",
+            url: "https://sts5.aplradiorama.mx/xhoh.mp3"
+        },
+        {
             name: "La Poderosa",
             logo: "stations/images-america/durango/pod.png",
             url: "http://stream2.dyndns.org:8000/xhwx.mp3"
@@ -5925,9 +5940,14 @@ var stations_mexico = {
     ],
     "h_nogales": [
         {
-            name: "La Mejor FM",
+            name: "La Mejor 96.7",
             logo: "stations/images-america/hnogales/mej.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHNGS.mp3"
+        },
+        {
+            name: "Máxima 99.1",
+            logo: "stations/images-america/hnogales/Máxima 99.1.png",
+            url: "http://ice42.securenetsystems.net/KOFH"
         },
         {
             name: "Exa FM 102.7 Nogales",
@@ -5981,9 +6001,14 @@ var stations_mexico = {
             url: "http://s4.mexside.net:4024/;"
         },
         {
+            name: "Los 40",
+            logo: "stations/images-america/hermosillo/Los 40.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC_SC"
+        },
+        {
             name: "Stereo FM",
             logo: "stations/images-america/hermosillo/st.png",
-            url: "http://50.7.29.178:9314/;"
+            url: "http://www.streamingcwsradio20.com:9314/stream"
         },
         {
             name: "Zoom95",
