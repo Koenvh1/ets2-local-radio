@@ -3302,7 +3302,7 @@ var stations = {
         },
         {
             name: "NWPR NPR & Classical Music - 90.1 FM",
-            logo: "stations/images-america/port_angeles/NWPR NPR & Classical Music - 90.1 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
@@ -4579,7 +4579,7 @@ var stations = {
         },
         {
             name: "NWPR NPR & Classical Music - 90.9 FM",
-            logo: "stations/images-america/seattle/NWPR NPR & Classical Music - 90.9 FM.png",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
