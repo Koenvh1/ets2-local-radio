@@ -4445,7 +4445,7 @@ var stations = {
             url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
         },
         {
-            name: "96.5 KOIT",
+            name: "96.5 koit",
             logo: "stations/images-america/00_radio.com/96.5 KOIT.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFM_SC"
         },
