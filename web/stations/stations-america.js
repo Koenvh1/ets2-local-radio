@@ -1292,39 +1292,59 @@ var stations = {
     ],
     "flagstaff": [
         {
-            name: "KNAU",
+            name: "KNAU 88.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
         {
-            name: "K-Jazz",
-            logo: "stations/images-america/flagstaff/K-Jazz.png",
-            url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
-        },
-        {
-            name: "KNLB",
-            logo: "stations/images-america/flagstaff/KNLB.png",
+            name: "KNLB 89.1",
+            logo: "stations/images-america/flagstaff/KNLB 89.1.png",
             url: "http://ic1.christiannetcast.com/knlb-fm"
         },
         {
-            name: "92.9 KAFF",
-            logo: "stations/images-america/flagstaff/92.9 KAFF.svg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFM.mp3"
+            name: "KJZA 91.3",
+            logo: "stations/images-america/flagstaff/KJZA 89.5.png",
+            url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
+        },
+        {
+            name: "92.9 KAFF Country",
+            logo: "stations/images-america/flagstaff/92.9 KAFF Country.svg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFM_SC"
+        },
+        {
+            name: "KAFF Country Legends 93.5",
+            logo: "stations/images-america/flagstaff/KAFF Country Legends 93.5.svg",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAM_SC"
         },
         {
             name: "93.9 The Mountain",
             logo: "stations/images-america/flagstaff/93.9 The Mountain.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFM.mp3"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFM_SC"
         },
         {
-            name: "The Wolf 96.7",
-            logo: "stations/images-america/flagstaff/The Wolf 96.7 FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM.mp3"
+            name: "95.9 The Cloud",
+            logo: "stations/images-america/camp_verde/95.9 The Cloud.png",
+            url: "https://live.wostreaming.net/manifest/yavapai-kkldfmaac-ibc1"
+        },
+        {
+            name: "96.7 The Wolf",
+            logo: "stations/images-america/flagstaff/96.7 The Wolf.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFM_SC"
+        },
+        {
+            name: "97.1 The Big Talker",
+            logo: "stations/images-america/flagstaff/97.1 The Big Talker.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBTKFM_SC"
         },
         {
             name: "100.One",
             logo: "stations/images-america/flagstaff/KVNA.png",
             url: "https://live.wostreaming.net/direct/yavapai-kvnafmaac-ibc1"
+        },
+        {
+            name: "Radio Sunnyside 101.5",
+            logo: "stations/images-america/flagstaff/Radio Sunnyside 101.5.png",
+            url: "http://208.113.128.99:8000/stream"
         },
         {
             name: "Q102.9",
@@ -1333,18 +1353,43 @@ var stations = {
         },
         {
             name: "103.7 The Eagle Rocks",
-            logo: "stations/images-america/flagstaff/103.7 The Eagle Rocks.png",
+            logo: "stations/images-america/flagstaff/103.7 The Eagle Rocks.svg",
             url: "http://stream.affordablestreaming.com:8000/eaglerocks.mp3"
         },
         {
             name: "Rewind 104.1",
-            logo: "stations/images-america/flagstaff/Rewind.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFM.mp3"
+            logo: "stations/images-america/flagstaff/Rewind 104.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFM_SC"
+        },
+        {
+            name: "KVRD Country 105.7",
+            logo: "stations/images-america/flagstaff/KVRD Country 105.7.png",
+            url: "https://live.wostreaming.net/direct/yavapai-kvrdfmmp3-ibc1"
         },
         {
             name: "Hits 106",
             logo: "stations/images-america/flagstaff/Hits 106.svg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFMAAC.aac"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFM_SC"
+        },
+        {
+            name: "KPPV 106.7FM",
+            logo: "stations/images-america/flagstaff/KPPV 106.7FM.png",
+            url: "http://stream.affordablestreaming.com:8000/KPPV.mp3"
+        },
+        {
+            name: "107.5 KOLT Country",
+            logo: "stations/images-america/flagstaff/107.5 KOLT Country.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFM_SC"
+        },
+        {
+            name: "KVNA 600 AM",
+            logo: "stations/images-america/flagstaff/KVNA 600 AM.png",
+            url: "http://34.204.40.55/espn-networkmp3-48"
+        },
+        {
+            name: "KAZM 780 AM",
+            logo: "stations/images-america/flagstaff/KAZM 780 AM.png",
+            url: "https://ice9.securenetsystems.net/KAZM"
         },
     ],
     "fresno": [
@@ -1736,7 +1781,7 @@ var stations = {
         },
         {
             name: "89.3 KCRI",
-            logo: "stations/images-america/indio/KCRW.jpg",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -2385,7 +2430,7 @@ var stations = {
         },
         {
             name: "KCRW 89.9",
-            logo: "stations/images-america/los_angeles/KCRW 89.9.png",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -2957,7 +3002,7 @@ var stations = {
         },
         {
             name: "KCRW 89.1",
-            logo: "stations/images-america/indio/KCRW.jpg",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
@@ -2992,7 +3037,7 @@ var stations = {
         },
         {
             name: "Q95.9",
-            logo: "stations/images-america/oxnard/Q95.9.png",
+            logo: "stations/images-america/los_angeles/Q95.9.png",
             url: "https://ice9.securenetsystems.net/KCAQ"
         },
         {
@@ -3068,24 +3113,14 @@ var stations = {
     ],
     "page": [
         {
-            name: "KTBA 760 AM",
-            logo: "stations/images-america/page/KTBA.png",
-            url: "http://50.7.77.114:8575/;"
-        },
-        {
-            name: "KNAU",
-            logo: "stations/images-america/0_general_logos/KNAU.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
-        },
-        {
             name: "93.3 Jack FM",
             logo: "stations/images-america/page/93.3 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7019_24k.aac"
         },
         {
-            name: "Planet 105.1",
-            logo: "stations/images-america/cedar_city/Planet 105.1.png",
-            url: "https://ice10.securenetsystems.net/KPLD"
+            name: "KNAU 102.7",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128.mp3"
         },
     ],
     "pendleton": [
