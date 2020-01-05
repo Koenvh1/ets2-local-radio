@@ -604,7 +604,7 @@ var stations = {
         },
         {
             name: "Magic 99.1",
-            logo: "stations/images-america/camp_verde/Magic 99.1.svg",
+            logo: "stations/images-america/camp_verde/Magic 99.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMGFMAAC.aac"
         },
         {
@@ -2127,11 +2127,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-ksiifmaac-ibc3"
         },
         {
-            name: "93.1 Kiss FM",
-            logo: "stations/images-america/las_cruces/93.1 Kiss FM.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-ksiifmaac-ibc3"
-        },
-        {
             name: "La Suavecita 93.9",
             logo: "stations/images-america/las_cruces/La Suavecita 93.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINTFM_SC"
@@ -2183,7 +2178,7 @@ var stations = {
         },
         {
             name: "KGRT 103.9",
-            logo: "stations/images-america/las_cruces/KGRT.png",
+            logo: "stations/images-america/las_cruces/KGRT 103.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KGRTFM.mp3"
         },
         {
