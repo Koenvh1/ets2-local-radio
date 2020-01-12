@@ -23227,7 +23227,7 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
         {
-            name: "93-1 The Border",
+            name: "93.1 The Border",
             logo: "stations/images-america/canadream/fortfrances/93-1 The Border.png",
             url: "http://cfob.streamon.fm:8000/CFOB-48k.aac"
         },
@@ -23239,8 +23239,8 @@ var stations_canadream = {
     ],
     "fortmcmurray": [
         {
-            name: "UCB Canada 91.1 FM",
-            logo: "stations/images-america/canadream/thunderbay/UCB Canada.png",
+            name: "UCB Canada 91.1",
+            logo: "stations/images-america/canadream/fortmcmurray/UCB Canada 91.1.png",
             url: "https://ice24.securenetsystems.net/UBC999"
         },
         {
@@ -23645,8 +23645,8 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
         },
         {
-            name: "UCB Canada 100.5 FM",
-            logo: "stations/images-america/canadream/kingston/UCB Canada 100.5 FM.jpg",
+            name: "UCB Canada 100.5",
+            logo: "stations/images-america/canadream/kingston/UCB Radio 100.5.png",
             url: "http://s7.viastreaming.net:8235/;"
         },
         {
@@ -24656,7 +24656,7 @@ var stations_canadream = {
         },
         {
             name: "UCB Canada 95.1",
-            logo: "stations/images-america/canadream/thunderbay/UCB Canada.png",
+            logo: "stations/images-america/canadream/thunderbay/UCB Canada 95.1.png",
             url: "http://s9.viastreaming.net:9575/;"
         },
         {
