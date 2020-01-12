@@ -12561,124 +12561,204 @@ var stations_c2c = {
     ],
     "minneapolis": [
         {
-            name: "Jazz 88 FM",
-            logo: "stations/images-america/c2c/Jazz 88 FM.png",
-            url: "http://quarrel.str3am.com:7110/live"
+            name: "Jazz88.FM",
+            logo: "stations/images-america/c2c/minneapolis/Jazz88.FM.png",
+            url: "http://quarrel.str3am.com:7110/live_mp3"
         },
         {
-            name: "88.7 WRFW Wisconsin Public Radio",
-            logo: "stations/images-america/c2c/88.7 WRFW Wisconsin Public Radio.png",
-            url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
+            name: "89.3 The Current",
+            logo: "stations/images-america/c2c/minneapolis/89.3 The Current.png",
+            url: "https://current.stream.publicradio.org/kcmp.aac"
         },
         {
-            name: "The Current",
-            logo: "stations/images-america/c2c/The Current.png",
-            url: "https://iheart.stream.publicradio.org/current-iheart.aac"
-        },
-        {
-            name: "Local Current",
-            logo: "stations/images-america/c2c/Local Current.png",
+            name: "Local Current 89.3-HD2",
+            logo: "stations/images-america/c2c/minneapolis/Local Current 89.3-HD2.png",
             url: "http://localcurrent.stream.publicradio.org/localcurrent.mp3"
         },
         {
-            name: "MPR News",
-            logo: "stations/images-america/c2c/MPR News.svg",
+            name: "KMOJ 89.9",
+            logo: "stations/images-america/c2c/minneapolis/KMOJ 89.9.png",
+            url: "http://skyradio.streamguys1.com/live-mp3"
+        },
+        {
+            name: "The Ice 89.9-HD2",
+            logo: "stations/images-america/c2c/minneapolis/The Ice 89.9-HD2.png",
+            url: "http://kmojfm.streamguys1.com/theice"
+        },
+        {
+            name: "KFAI 90.3",
+            logo: "stations/images-america/c2c/minneapolis/KFAI 90.3.png",
+            url: "http://tres.kfai.org:8000/;"
+        },
+        {
+            name: "91.1 KNOW",
+            logo: "stations/images-america/c2c/minneapolis/91.1 KNOW.png",
             url: "http://nis.stream.publicradio.org/nis.mp3"
         },
         {
-            name: "Radio Heartland",
-            logo: "stations/images-america/c2c/Radio Heartland.png",
+            name: "Radio Heartland 91.1-HD2",
+            logo: "stations/images-america/c2c/minneapolis/Radio Heartland.png",
             url: "http://radioheartlandstream1.publicradio.org/"
         },
         {
-            name: "WMCN",
-            logo: "stations/images-america/c2c/WMCN.png",
-            url: "http://216.250.175.13:8000/;"
-        },
-        {
             name: "92 KQRS",
-            logo: "stations/images-america/c2c/92 KQRS.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFM.mp3"
+            logo: "stations/images-america/c2c/minneapolis/92 KQRS.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFM_SC"
         },
         {
             name: "93X",
-            logo: "stations/images-america/c2c/KXXRFM.png",
-            url: "https://c8icy.prod.playlists.ihrhls.com/6587_icy"
+            logo: "stations/images-america/c2c/minneapolis/93X.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXXRFMAAC_SC"
+        },
+        {
+            name: "ALT 93.3",
+            logo: "stations/images-america/c2c/minneapolis/ALT 93.3.png",
+            url: "https://c8.prod.playlists.ihrhls.com/6587_icy"
+        },
+        {
+            name: "SKOR North 94.1",
+            logo: "stations/images-america/c2c/minneapolis/SKOR North 94.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPAM_SC"
+        },
+        {
+            name: "KS95 94.5",
+            logo: "stations/images-america/c2c/minneapolis/KS95.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFM_SC"
         },
         {
             name: "Go 95.3",
-            logo: "stations/images-america/c2c/KZGOFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZGOFMAAC.aac"
+            logo: "stations/images-america/c2c/minneapolis/Go 95.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZGOFM_SC"
         },
         {
             name: "Go 96.3",
-            logo: "stations/images-america/c2c/KQGO.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTWNFMAAC.aac"
+            logo: "stations/images-america/c2c/minneapolis/Go 96.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTWNFM_SC"
         },
         {
             name: "Cities 97.1",
-            logo: "stations/images-america/c2c/Cities 97.png",
+            logo: "stations/images-america/c2c/minneapolis/Cities 97.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/1221_icy"
         },
         {
             name: "98.5 KTIS",
-            logo: "stations/images-america/c2c/KTISFM.png",
+            logo: "stations/images-america/c2c/minneapolis/98.5 KTIS.png",
             url: "http://nwmedia-ktisfm.streamguys1.com/ktis-fm"
         },
         {
-            name: "Classical MPR",
-            logo: "stations/images-america/c2c/Classical MPR.svg",
-            url: "http://cms.stream.publicradio.org/cms.mp3"
+            name: "KRSM 98.9",
+            logo: "stations/images-america/c2c/minneapolis/KRSM 98.9.png",
+            url: "http://noasrv.caster.fm:10069/live"
+        },
+        {
+            name: "99.5 Classical MPR",
+            logo: "stations/images-america/c2c/minneapolis/99.5 Classical MPR.png",
+            url: "https://cms.stream.publicradio.org/cms.aac"
         },
         {
             name: "KFAN 100.3",
-            logo: "stations/images-america/c2c/KFXNFM.png",
+            logo: "stations/images-america/c2c/minneapolis/KFAN 100.3.png",
             url: "https://c8icy.prod.playlists.ihrhls.com/1209_icy"
         },
         {
             name: "101.3 KDWB",
-            logo: "stations/images-america/c2c/KDWBFM.png",
+            logo: "stations/images-america/c2c/minneapolis/101.3 KDWB.png",
             url: "https://c8icy.prod.playlists.ihrhls.com/1201_icy"
         },
         {
+            name: "Pride Radio 101.3-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
+            name: "Minnesota State Fair Radio 101.3-HD3",
+            logo: "stations/images-america/c2c/minneapolis/Minnesota State Fair Radio 101.3-HD3.png",
+            url: "https://c14.prod.playlists.ihrhls.com/7895_icy"
+        },
+        {
             name: "K102",
-            logo: "stations/images-america/c2c/KEEYFM.png",
+            logo: "stations/images-america/c2c/minneapolis/K102.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/1205_icy"
         },
         {
-            name: "Love 105",
-            logo: "stations/images-america/c2c/WVGXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGVXFMAAC.aac"
+            name: "The Breeze 102.1-HD3",
+            logo: "stations/images-america/c2c/minneapolis/The Breeze 102.1-HD3.png",
+            url: "https://ample.revma.ihrhls.com/zc8143/15_1ja0lf47nzmqh02/playlist.m3u8"
         },
         {
-            name: "My Talk 107.1",
-            logo: "stations/images-america/c2c/My Talk 107.1.png",
+            name: "Hot 102.5",
+            logo: "stations/images-america/c2c/minneapolis/Hot 102.5.png",
+            url: "https://c2.prod.playlists.ihrhls.com/6913_icy"
+        },
+        {
+            name: "102.9 The Wolf",
+            logo: "stations/images-america/c2c/minneapolis/102.9 The Wolf.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMNBFM_SC"
+        },
+        {
+            name: "104.1 Jack FM",
+            logo: "stations/images-america/c2c/minneapolis/104.1 Jack FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KZJKFM_SC"
+        },
+        {
+            name: "Lite FM 104.1-HD2",
+            logo: "stations/images-america/c2c/minneapolis/Lite FM 104.1-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KZJKHD2_SC"
+        },
+        {
+            name: "Radio K 104.5",
+            logo: "stations/images-america/c2c/minneapolis/Radio K 104.5.png",
+            url: "http://128.101.73.38:8256/;"
+        },
+        {
+            name: "Love 105 FM",
+            logo: "stations/images-america/c2c/minneapolis/Love 105 FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGVXFM_SC"
+        },
+        {
+            name: "BOB 106.1",
+            logo: "stations/images-america/c2c/minneapolis/BOB 106.1.png",
+            url: "https://live.wostreaming.net/manifest/milestoneradio-klcifmaac-ibc1"
+        },
+        {
+            name: "myTalk 107.1",
+            logo: "stations/images-america/c2c/minneapolis/myTalk 107.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMYFM_SC"
         },
         {
-            name: "Kool 108 FM",
-            logo: "stations/images-america/c2c/Kool 108 FM.png",
+            name: "107.5 The Patriot",
+            logo: "stations/images-america/c2c/minneapolis/107.5 The Patriot.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWTCAM_SC"
+        },
+        {
+            name: "Kool 108",
+            logo: "stations/images-america/c2c/minneapolis/Kool 108.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1217_icy"
         },
         {
             name: "740 WDGY",
-            logo: "stations/images-america/c2c/740 WDGY.png",
+            logo: "stations/images-america/c2c/minneapolis/740 WDGY.png",
             url: "http://ice41.securenetsystems.net/WDGY"
         },
         {
-            name: "Radio K",
-            logo: "stations/images-america/c2c/Radio K.png",
-            url: "http://128.101.73.38:8128/;"
+            name: "News Talk 830",
+            logo: "stations/images-america/c2c/minneapolis/News Talk 830.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WCCOAM_SC"
         },
         {
             name: "AM 950",
-            logo: "stations/images-america/c2c/AM 950.png",
+            logo: "stations/images-america/c2c/minneapolis/AM 950.png",
             url: "http://stream.am950ktnf.com:8000/;"
         },
         {
-            name: "News Talk 1130",
-            logo: "stations/images-america/c2c/News Talk 1130.png",
+            name: "News/Talk AM 1130",
+            logo: "stations/images-america/c2c/minneapolis/News-Talk AM 1130.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/1213_icy"
+        },
+        {
+            name: "Freedom 1570",
+            logo: "stations/images-america/c2c/minneapolis/Freedom 1570.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDIZAM_SC"
         },
     ],
     "rochester_mn": [
