@@ -14998,109 +14998,179 @@ var stations_c2c = {
     ],
     "newyork": [
         {
-            name: "88.3 FM WBGO Jazz 88",
-            logo: "stations/images-america/c2c/88.3 FM WBGO Jazz 88.png",
+            name: "88.3 WBGO",
+            logo: "stations/images-america/c2c/nyc/88.3 WBGO.png",
             url: "http://wbgo.streamguys.net/wbgo96"
         },
         {
-            name: "WSOU 89.5 Seton Hall Pirate Radio",
-            logo: "stations/images-america/c2c/WSOU 89.5 Seton Hall Pirate Radio.png",
-            url: "https://c11icy.prod.playlists.ihrhls.com/5252_icy"
+            name: "WFDU - RetroRadio Olides 89.1-HD1",
+            logo: "stations/images-america/c2c/nyc/WFDU 89.1.png",
+            url: "http://peridot.streamguys.com:5350/iheart"
         },
         {
-            name: "WKCR 89.9 FM Kings City College",
-            logo: "stations/images-america/c2c/WKCR 89.9 FM Kings City College.png",
+            name: "WFDU - The Eclectic Sound 89.1-HD2",
+            logo: "stations/images-america/c2c/nyc/WFDU 89.1.png",
+            url: "http://peridot.streamguys.com:5350/iheartjazz"
+        },
+        {
+            name: "WFDU - The Student Station 89.1-HD3",
+            logo: "stations/images-america/c2c/nyc/WFDU 89.1.png",
+            url: "http://peridot.streamguys.com:5350/iheartclassical"
+        },
+        {
+            name: "89.5 WSOU",
+            logo: "stations/images-america/c2c/nyc/89.5 WSOU.png",
+            url: "http://streamhlscdn.atc-labs.com/streamWSOU1/streamWSOU1.m3u8"
+        },
+        {
+            name: "WKCR 89.9",
+            logo: "stations/images-america/c2c/nyc/WKCR 89.9.png",
             url: "http://wkcr.streamguys1.com:80/live"
         },
         {
-            name: "WHCR",
-            logo: "stations/images-america/c2c/WHCR 90.3 FM City College of New York.jpg",
-            url: "https://stream.radiojar.com/u2peeu9w16duv.mp3"
+            name: "90.3fm wkrb",
+            logo: "stations/images-america/c2c/nyc/90.3fm wkrb.png",
+            url: "http://146.111.118.62:8000/radio"
         },
         {
-            name: "WMSC",
-            logo: "stations/images-america/c2c/WMSC.png",
-            url: "https://peridot.streamguys1.com:5485/live-aac"
-        },
-        {
-            name: "90.7 WFUV Fordham University",
-            logo: "stations/images-america/c2c/90.7 WFUV Fordham University.png",
+            name: "90.7 WFUV",
+            logo: "stations/images-america/c2c/nyc/90.7 WFUV.png",
             url: "http://wfuv-onair.streamguys.org:80/onair-hi"
         },
         {
-            name: "90.7 HD2 WFUV Fordham University All Music",
-            logo: "stations/images-america/c2c/90.7 HD2 WFUV Fordham University All Music.png",
-            url: "http://wfuv-music.streamguys.org:80/music-hi"
+            name: "WFMU 91.9",
+            logo: "stations/images-america/c2c/nyc/WFMU 91.1.png",
+            url: "http://stream0.wfmu.org/freeform-128k.mp3"
         },
         {
-            name: "91.1 WFMU",
-            logo: "stations/images-america/c2c/91.1 WFMU.jpg",
-            url: "http://stream2.wfmu.org/freeform-128k"
+            name: "ALT 92.3",
+            logo: "stations/images-america/c2c/nyc/ALT 92.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFM_SC"
         },
         {
-            name: "93.1 Amor",
-            logo: "stations/images-america/c2c/WPATFM.png",
-            url: "http://stream.abacast.net/direct/sbsystems-wpatfmaac-imc1"
+            name: "ALT 92.3-HD2",
+            logo: "stations/images-america/c2c/nyc/ALT 92.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2_SC"
         },
         {
-            name: "WNYC 93.9 FM",
-            logo: "stations/images-america/c2c/WNYC 93.9 FM.png",
-            url: "http://fm939.wnyc.org/wnycfm.aac"
+            name: "ChannelQ 92.3-HD3",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
         },
         {
-            name: "Mega 97.9 FM",
-            logo: "stations/images-america/c2c/WSKQFM.png",
+            name: "WNYC 93.9",
+            logo: "stations/images-america/c2c/nyc/WNYC.png",
+            url: "https://fm939.wnyc.org/wnycfm-web"
+        },
+        {
+            name: "New York's Country 94.7",
+            logo: "stations/images-america/c2c/nyc/New York's Country 94.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNSHFM_SC"
+        },
+        {
+            name: "HOT 97",
+            logo: "stations/images-america/c2c/nyc/HOT 97.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFM_SC"
+        },
+        {
+            name: "Mega 97.9",
+            logo: "stations/images-america/c2c/nyc/Mega 97.9.png",
             url: "http://stream.abacast.net/direct/sbsystems-wskqfmaac-imc1"
         },
         {
-            name: "ESPN 98.7",
-            logo: "stations/images-america/c2c/WEPNFM.png",
+            name: "KJOY 98.3",
+            logo: "stations/images-america/c2c/nyc/KJOY 98.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WKJYFM_SC"
+        },
+        {
+            name: "ESPN NY 98.7",
+            logo: "stations/images-america/c2c/nyc/ESPN NY 98.7.png",
             url: "http://espn.edge-1.target.abacast.net/espn-wepnmp3-32"
         },
         {
+            name: "WBAI Radio 99.5",
+            logo: "stations/images-america/c2c/nyc/WBAI Radio 99.5.png",
+            url: "http://stream.wbai.org:8000/wbai_128"
+        },
+        {
             name: "Z100",
-            logo: "stations/images-america/c2c/WHTZFM.png",
+            logo: "stations/images-america/c2c/nyc/Z100_NY.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1469_icy"
         },
         {
+            name: "WCBS FM 101.1",
+            logo: "stations/images-america/c2c/nyc/WCBS FM 101.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFM_SC"
+        },
+        {
+            name: "WFAN 101.9",
+            logo: "stations/images-america/c2c/nyc/WFAN 101.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WFANAM_SC"
+        },
+        {
+            name: "New 102.7",
+            logo: "stations/images-america/c2c/nyc/New 102.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFM_SC"
+        },
+        {
             name: "KTU 103.5",
-            logo: "stations/images-america/c2c/WKTUFM.png",
+            logo: "stations/images-america/c2c/nyc/KTU 103.5.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1473_icy"
         },
         {
-            name: "Q104.3 New York's Classic Rock",
-            logo: "stations/images-america/c2c/Q104.3 New York's Classic Rock.png",
+            name: "Pride Radio 103.5-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
+            name: "Radio 103.9",
+            logo: "stations/images-america/c2c/nyc/Radio 103.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNBMFMAAC_SC"
+        },
+        {
+            name: "Q104.3",
+            logo: "stations/images-america/c2c/nyc/Q104.3.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1465_icy"
         },
         {
             name: "Power 105.1",
-            logo: "stations/images-america/c2c/WWPRFM.png",
+            logo: "stations/images-america/c2c/nyc/Power 105.1.png",
             url: "https://c11icy.prod.playlists.ihrhls.com/1481_icy"
         },
         {
-            name: "WQXR 105.9 FM",
-            logo: "stations/images-america/c2c/WQXR 105.9 FM.png",
-            url: "http://stream.wqxr.org/wqxr.aac"
+            name: "WQXR 105.9",
+            logo: "stations/images-america/c2c/nyc/WQXR 105.9.png",
+            url: "https://stream.wqxr.org/wqxr-web"
         },
         {
-            name: "106.7 Lite FM",
-            logo: "stations/images-america/c2c/WLTW.png",
+            name: "106.7 Lite fm",
+            logo: "stations/images-america/c2c/nyc/106.7 Lite fm.png",
             url: "https://c11icy.prod.playlists.ihrhls.com/1477_icy"
         },
         {
+            name: "107.5 WBLS",
+            logo: "stations/images-america/c2c/nyc/107.5 WBLS.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFM_SC"
+        },
+        {
             name: "710 WOR",
-            logo: "stations/images-america/c2c/710 WOR.png",
+            logo: "stations/images-america/c2c/nyc/710 WOR.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/5874_icy"
         },
         {
             name: "77 WABC",
-            logo: "stations/images-america/c2c/77 WABC.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3"
+            logo: "stations/images-america/c2c/nyc/77 WABC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM_SC"
         },
         {
             name: "WNYC AM 820",
-            logo: "stations/images-america/c2c/WNYC AM 820.png",
+            logo: "stations/images-america/c2c/nyc/WNYC.png",
             url: "http://am820.wnyc.org/wnycam"
+        },
+        {
+            name: "WCBS Newsradio 880",
+            logo: "stations/images-america/c2c/nyc/WCBS Newsradio 880.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAM_SC"
         },
     ],
     "olean_ny": [
