@@ -836,7 +836,7 @@ var stations = {
     "colville": [
         {
             name: "CBC Radio One - 94.9 FM",
-            logo: "stations/images-america/colville/CBC Radio One - 94.9 FM.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
         },
         {
@@ -3358,7 +3358,7 @@ var stations = {
         },
         {
             name: "CBC Radio One - 90.5 FM",
-            logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
@@ -12519,9 +12519,9 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDKEFMAAC.aac"
         },
         {
-            name: "KUMD 103.3 FM University of Minnesota",
+            name: "KUMD 103.3",
             logo: "stations/images-america/c2c/KUMD 103.3 FM University of Minnesota.png",
-            url: "http://kumdaac.d.umn.edu:8000/KUMD.mp3"
+            url: "http://kumdaac2.d.umn.edu:8000/KUMD.mp3"
         },
         {
             name: "104.3 KZIO The Current",
@@ -12616,7 +12616,7 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTWNFMAAC.aac"
         },
         {
-            name: "Cities 97",
+            name: "Cities 97.1",
             logo: "stations/images-america/c2c/Cities 97.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/1221_icy"
         },
@@ -21222,7 +21222,7 @@ var stations_c2c = {
     // "colville_wa": [
     //     {
     //         name: "CBC Radio One",
-    //         logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
+    //         logo: "stations/images-america/canadream/CBC Radio One.png",
     //         url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KEL@386538/master.m3u8"
     //     },
     //     {
@@ -21489,7 +21489,7 @@ var stations_c2c = {
     //     },
     //     {
     //         name: "CBC Radio One",
-    //         logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
+    //         logo: "stations/images-america/canadream/CBC Radio One.png",
     //         url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
     //     },
     //     {
@@ -22932,7 +22932,7 @@ var stations_canadream = {
     "baiecomeau": [
         {
             name: "CBC Radio One 93.7 FM",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
@@ -22949,7 +22949,7 @@ var stations_canadream = {
     "calgary": [
         {
             name: "CBC Radio One 99.1",
-            logo: "stations/images-america/canadream/calgary/CBC Radio One Calgary CBR.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_CGY@372026/master.m3u8"
         },
         {
@@ -23038,7 +23038,7 @@ var stations_canadream = {
     "chapleau": [
         {
             name: "CBC Radio One 89.9",
-            logo: "stations/images-america/canadream/sudbury/CBC Radio One Sudbury CBCS.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
         },
         {
@@ -23055,7 +23055,7 @@ var stations_canadream = {
     "dawsoncreek": [
         {
             name: "CBC Radio One 89.7",
-            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
         },
         {
@@ -23087,7 +23087,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 98.1",
-            logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
@@ -23104,7 +23104,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 100.9",
-            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
         {
@@ -23146,7 +23146,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 93.9",
-            logo: "stations/images-america/canadream/edmonton/CBC Radio One Edmonton CBX.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8"
         },
         {
@@ -23223,7 +23223,7 @@ var stations_canadream = {
     "fortfrances": [
         {
             name: "CBC Radio One 90.5",
-            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
         {
@@ -23255,7 +23255,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 99.3",
-            logo: "stations/images-america/canadream/edmonton/CBC Radio One Edmonton CBX.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8"
         },
         {
@@ -23278,7 +23278,7 @@ var stations_canadream = {
     "fortnelson": [
         {
             name: "CBC Radio One 88.3",
-            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
         },
         {
@@ -23295,7 +23295,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 690 AM",
-            logo: "stations/images-america/canadream/yellowknife/CBC Radio One Yellowknife CFYK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
         },
     ],
@@ -23327,7 +23327,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 99.5",
-            logo: "stations/images-america/canadream/fredericton/CBC Radio One Fredericton CBZF.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_FRD@134846/master.m3u8"
         },
         {
@@ -23339,7 +23339,7 @@ var stations_canadream = {
     "gaspe": [
         {
             name: "CBC Radio One 88.5 FM",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
@@ -23366,7 +23366,7 @@ var stations_canadream = {
     "golden": [
         {
             name: "CBC Radio One 88.9 FM",
-            logo: "stations/images-america/canadream/golden/CBC Radio One Kelowna CBTK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
@@ -23393,7 +23393,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 540 AM",
-            logo: "stations/images-america/canadream/grandfalls/CBC Radio One Grand Falls CBT.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_GFA@360512/master.m3u8"
         },
         {
@@ -23415,7 +23415,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 90.5",
-            logo: "stations/images-america/canadream/halifax/CBC Radio One Halifax CBHA.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
         },
         {
@@ -23487,7 +23487,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 91.9",
-            logo: "stations/images-america/canadream/sudbury/CBC Radio One Sudbury CBCS.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
         },
         {
@@ -23509,7 +23509,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 99.5",
-            logo: "stations/images-america/canadream/edmonton/CBC Radio One Edmonton CBX.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8"
         },
     ],
@@ -23521,7 +23521,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 102.1",
-            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
         },
         {
@@ -23550,7 +23550,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 98.1",
-            logo: "stations/images-america/canadream/edmonton/CBC Radio One Edmonton CBX.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8"
         },
         {
@@ -23567,7 +23567,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 94.1",
-            logo: "stations/images-america/canadream/kamloops/CBC Radio One Kamloops CBYK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
         },
         {
@@ -23666,7 +23666,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 107.5",
-            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
         },
     ],
@@ -23678,7 +23678,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 96.3",
-            logo: "stations/images-america/canadream/labradorcity/CBC Radio One Labrador City CBDQ.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
         },
         {
@@ -23717,7 +23717,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 830 AM",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
     ],
@@ -23746,7 +23746,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 95.5",
-            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
         },
         {
@@ -23780,7 +23780,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 1090 AM",
-            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
     ],
@@ -23859,7 +23859,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 106.1",
-            logo: "stations/images-america/canadream/montreal/CBC Radio One Montreal CBMI.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8"
         },
         {
@@ -23871,7 +23871,7 @@ var stations_canadream = {
     "montreal": [
         {
             name: "CBC Radio One 88.5",
-            logo: "stations/images-america/canadream/montreal/CBC Radio One Montreal CBMI.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8"
         },
         {
@@ -24023,7 +24023,7 @@ var stations_canadream = {
     "nakina": [
         {
             name: "CBC Radio One 99.1",
-            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
         {
@@ -24050,7 +24050,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 91.5",
-            logo: "stations/images-america/canadream/ottawa/CBC Radio One Ottawa CBO.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
         },
         {
@@ -24132,7 +24132,7 @@ var stations_canadream = {
     "parrysound": [
         {
             name: "CBC Radio One 89.9",
-            logo: "stations/images-america/canadream/toronto/CBC Radio One Toronto CBLA.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
         },
         {
@@ -24154,7 +24154,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 91.5",
-            logo: "stations/images-america/canadream/princegeorge/CBC Radio One Prince George CBYG.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
         },
         {
@@ -24196,7 +24196,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 860 AM",
-            logo: "stations/images-america/canadream/princerupert/CBC Radio One Prince George CFPR.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_INK@313092/master.m3u8"
         },
     ],
@@ -24268,7 +24268,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 102.7",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
@@ -24352,7 +24352,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 102.5",
-            logo: "stations/images-america/canadream/regina/CBC Radio One Regina CBK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
         },
         {
@@ -24389,7 +24389,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 99.9",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
@@ -24453,7 +24453,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 102.7",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
@@ -24485,7 +24485,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 94.1",
-            logo: "stations/images-america/canadream/regina/CBC Radio One Regina CBK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
         },
         {
@@ -24537,7 +24537,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 89.5",
-            logo: "stations/images-america/canadream/sudbury/CBC Radio One Sudbury CBCS.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
         },
         {
@@ -24569,7 +24569,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 96.9",
-            logo: "stations/images-america/canadream/quebec/CBC Radio One Quebec CBVE.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
 
@@ -24582,14 +24582,14 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 1450 AM",
-            logo: "stations/images-america/canadream/regina/CBC Radio One Regina CBK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
         },
     ],
     "sudbury": [
         {
             name: "CBC Radio One 89.5",
-            logo: "stations/images-america/canadream/sudbury/CBC Radio One Sudbury CBCS.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
         },
         {
@@ -24666,7 +24666,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 100.3",
-            logo: "stations/images-america/canadream/thunderbay/CBC Radio One Thunder Bay CBQT.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
         {
@@ -24680,7 +24680,7 @@ var stations_canadream = {
             url: "http://luradio-server.lakeheadu.ca:8000/stereo128.mp3"
         },
         {
-            name: "Energy FM 104.5",
+            name: "Energy 103-104",
             logo: "stations/images-america/canadream/thunderbay/Energy FM.png",
             url: "https://ais-sa1.streamon.fm/7098_32k.aac"
         },
@@ -24743,7 +24743,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 99.1",
-            logo: "stations/images-america/canadream/toronto/CBC Radio One Toronto CBLA.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
         },
         {
@@ -24815,7 +24815,7 @@ var stations_canadream = {
     "truro": [
         {
             name: "CBC Radio One 89.1",
-            logo: "stations/images-america/canadream/halifax/CBC Radio One Halifax CBHA.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
         },
         {
@@ -24827,7 +24827,7 @@ var stations_canadream = {
     "vancouver_bc": [
         {
             name: "CBC Radio One 88.1",
-            logo: "stations/images-america/canadream/vancouver/CBC Radio One Vancouver CBU.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
@@ -24946,7 +24946,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 990 AM",
-            logo: "stations/images-america/canadream/whitehorse/CBC Radio One Whitehorse CFWK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WHS@66072/master.m3u8"
         },
     ],
@@ -24958,7 +24958,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 94.5",
-            logo: "stations/images-america/canadream/whitehorse/CBC Radio One Whitehorse CFWK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WHS@66072/master.m3u8"
         },
         {
@@ -25005,7 +25005,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 860 AM",
-            logo: "stations/images-america/canadream/kamloops/CBC Radio One Kamloops CBYK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
         },
     ],
@@ -25017,7 +25017,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 89.3",
-            logo: "stations/images-america/canadream/winnipeg/CBC Radio One Winnipeg CBW.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8"
         },
         {
@@ -25109,7 +25109,7 @@ var stations_canadream = {
     "yarmouth": [
         {
             name: "CBC Radio One 92.1",
-            logo: "stations/images-america/canadream/halifax/CBC Radio One Halifax CBHA.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
         },
         {
@@ -25146,7 +25146,7 @@ var stations_canadream = {
         },
         {
             name: "CBC Radio One 98.9",
-            logo: "stations/images-america/canadream/yellowknife/CBC Radio One Yellowknife CFYK.png",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
         },
         {
