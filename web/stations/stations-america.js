@@ -12683,7 +12683,7 @@ var stations_c2c = {
         {
             name: "The Breeze 102.1-HD3",
             logo: "stations/images-america/c2c/minneapolis/The Breeze 102.1-HD3.png",
-            url: "https://ample.revma.ihrhls.com/zc8143/15_1ja0lf47nzmqh02/playlist.m3u8"
+            url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
         },
         {
             name: "Hot 102.5",
@@ -19702,94 +19702,154 @@ var stations_c2c = {
     ],
     "dallas": [
         {
-            name: "88.1 KNTU The One",
-            logo: "stations/images-america/c2c/88.1 KNTU The One.gif",
-            url: "http://stream.kntu.unt.edu:8000/kntulive.mp3"
-        },
-        {
             name: "88.5 KEOM",
-            logo: "stations/images-america/c2c/88.5 KEOM.png",
-            url: "http://icy1.abacast.com/mesquite-keomfmmp3-48?source=TuneIn"
+            logo: "stations/images-america/c2c/dallas/88.5 KEOM.png",
+            url: "https://live.wostreaming.net/manifest/mesquite-keomfmaac-ibc4"
         },
         {
-            name: "KNON 89.3",
-            logo: "stations/images-america/c2c/KNON 89.3.jpg",
-            url: "http://64.78.234.165:8000/KNON"
+            name: "KNON 89.3fm",
+            logo: "stations/images-america/c2c/dallas/KNON 89.3fm.jpg",
+            url: "http://rfa-icecast-loadbalancer-113035401.us-east-1.elb.amazonaws.com:8000/knon"
         },
         {
-            name: "KERA",
-            logo: "stations/images-america/c2c/KERA.png",
-            url: "http://kera-ice.streamguys.us/keraliveaacplus"
+            name: "KERA 90.1",
+            logo: "stations/images-america/c2c/dallas/KERA 90.1.png",
+            url: "https://kera-ice.streamguys1.com/keraliveaacplus"
+        },
+        {
+            name: "90.9 KCBI",
+            logo: "stations/images-america/c2c/dallas/90.9 KCBI.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCBIFM_SC"
         },
         {
             name: "KXT 91.7",
-            logo: "stations/images-america/c2c/KXT 91.7.png",
-            url: "http://kera-ice.streamguys.us/kxtlive64aacplus"
+            logo: "stations/images-america/c2c/dallas/KXT 91.7.png",
+            url: "https://kera-ice.streamguys1.com/kxtlive64aacplus"
         },
         {
-            name: "LoneStar 92.5",
-            logo: "stations/images-america/c2c/LoneStar 92.5.png",
+            name: "Lone Star 92.5",
+            logo: "stations/images-america/c2c/dallas/Lone Star 92.5.png",
             url: "https://c4icy.prod.playlists.ihrhls.com/3379_icy"
         },
         {
-            name: "Hot 93.3",
-            logo: "stations/images-america/c2c/KLIFFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC.aac"
+            name: "HOT 93.3",
+            logo: "stations/images-america/c2c/dallas/HOT 93.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFM_SC"
         },
         {
-            name: "96.3 KSCS",
-            logo: "stations/images-america/c2c/KSCSFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFMAAC.aac"
+            name: "Majic 94.5",
+            logo: "stations/images-america/c2c/dallas/Majic 94.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFM_SC"
+        },
+        {
+            name: "94.9 KLTY",
+            logo: "stations/images-america/c2c/dallas/94.9 KLTY.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFM_SC"
+        },
+        {
+            name: "New Country 96.3",
+            logo: "stations/images-america/c2c/dallas/New Country 96.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFM_SC"
+        },
+        {
+            name: "KLIF 96.3-HD2",
+            logo: "stations/images-america/c2c/dallas/KLIF 96.3-HD2.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAM_SC"
         },
         {
             name: "97.1 The Eagle",
-            logo: "stations/images-america/c2c/KEGLFM.png",
+            logo: "stations/images-america/c2c/dallas/97.1 The Eagle.png",
             url: "https://c10icy.prod.playlists.ihrhls.com/2241_icy"
         },
         {
+            name: "The Breeze 97.1-HD2",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
+        },
+        {
+            name: "97.9 The Beat",
+            logo: "stations/images-america/c2c/dallas/97.9 The Beat.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFM_SC"
+        },
+        {
+            name: "98.7 KLUV",
+            logo: "stations/images-america/c2c/dallas/98.7 KLUV.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLUVFM_SC"
+        },
+        {
             name: "99.5 The Wolf",
-            logo: "stations/images-america/c2c/KPLXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFMAAC.aac"
+            logo: "stations/images-america/c2c/dallas/99.5 The Wolf.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFM_SC"
         },
         {
-            name: "Classical 101 WRR",
-            logo: "stations/images-america/c2c/Classical 101 WRR.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRRFM.mp3"
-        },
-        {
-            name: "Star 102.1",
-            logo: "stations/images-america/c2c/Star 102.1.png",
-            url: "https://c10icy.prod.playlists.ihrhls.com/2815_icy"
-        },
-        {
-            name: "Now 102.9",
-            logo: "stations/images-america/c2c/KDMX.png",
-            url: "https://c4icy.prod.playlists.ihrhls.com/2237_icy"
-        },
-        {
-            name: "Smooth R&B 105.7",
-            logo: "stations/images-america/c2c/KRNBFM.png",
-            url: "http://krnb.streamon.fm:8000/KRNB-64k.aac"
-        },
-        {
-            name: "106.1 Kiss FM",
-            logo: "stations/images-america/c2c/KHKSFM.png",
-            url: "https://c4icy.prod.playlists.ihrhls.com/2245_icy"
-        },
-        {
-            name: "KLIF 570 News Information",
-            logo: "stations/images-america/c2c/KLIF 570 News Information.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAM.mp3"
-        },
-        {
-            name: "WBAP 820 AM",
-            logo: "stations/images-america/c2c/WBAP 820 AM.png",
+            name: "WBAP 99.5-HD2",
+            logo: "stations/images-america/c2c/dallas/WBAP 99.5-HD2.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM.mp3"
         },
         {
-            name: "The Ticket Sportsradio",
-            logo: "stations/images-america/c2c/KTCKAM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC.aac"
+            name: "100.3 Jack FM",
+            logo: "stations/images-america/c2c/dallas/100.3 Jack FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KJKKFM_SC"
+        },
+        {
+            name: "V100.3-HD2",
+            logo: "stations/images-america/c2c/dallas/V100.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KJKKHD2_SC"
+        },
+        {
+            name: "Classic Country 100.3-HD3",
+            logo: "stations/images-america/c2c/dallas/Classic Country 100.3-HD3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KJKKHD3_SC"
+        },
+        {
+            name: "Classical 101.1",
+            logo: "stations/images-america/c2c/dallas/Classical 101.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRRFM_SC"
+        },
+        {
+            name: "Star 102.1",
+            logo: "stations/images-america/c2c/dallas/Star 102.1.png",
+            url: "https://c10icy.prod.playlists.ihrhls.com/2815_icy"
+        },
+        {
+            name: "102.9 NOW",
+            logo: "stations/images-america/c2c/dallas/102.9 NOW.png",
+            url: "https://c4icy.prod.playlists.ihrhls.com/2237_icy"
+        },
+        {
+            name: "ALT 103.7",
+            logo: "stations/images-america/c2c/dallas/ALT 103.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KVILFM_SC"
+        },
+        {
+            name: "Oasis DFW 103.7-HD2",
+            logo: "stations/images-america/c2c/dallas/Oasis DFW 103.7-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KVILHD2_SC"
+        },
+        {
+            name: "ChannelQ 103.7-HD3",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
+        },
+        {
+            name: "Smooth R&B 105.7",
+            logo: "stations/images-america/c2c/dallas/Smooth R&B 105.7.png",
+            url: "http://krnb.streamon.fm:8000/KRNB-64k.aac"
+        },
+        {
+            name: "106.1 KISS FM",
+            logo: "stations/images-america/c2c/dallas/106.1 KISS FM.png",
+            url: "https://c4icy.prod.playlists.ihrhls.com/2245_icy"
+        },
+        {
+            name: "Pride Radio 106.1-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
+            name: "NewsRadio 1080 KRLD",
+            logo: "stations/images-america/c2c/dallas/NewsRadio 1080 KRLD.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRLDAM_SC"
         },
     ],
     "dalhart_tx": [
