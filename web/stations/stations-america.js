@@ -7173,109 +7173,184 @@ var stations_c2c = {
     ],
     "denver": [
         {
-            name: "Colorado Public Radio Classical",
-            logo: "stations/images-america/c2c/Colorado Public Radio Classical.png",
-            url: "http://stream2.cprnetwork.org:8000/cpr2_lo"
+            name: "CPR Classical 88.1",
+            logo: "stations/images-america/c2c/denver/CPR Classical.png",
+            url: "https://stream1.cprnetwork.org/cpr2_lo"
         },
         {
-            name: "KUVO Jazz 89.3",
-            logo: "stations/images-america/c2c/KUVO Jazz 89.3.jpg",
+            name: "KUVO 89.3",
+            logo: "stations/images-america/c2c/denver/KUVO 89.3.png",
             url: "https://kuvo-ice.streamguys1.com/kuvo-aac-128"
         },
         {
-            name: "KUVO HD2 89.3",
-            logo: "stations/images-america/c2c/KUVO HD2 89.3.jpg",
-            url: "https://kuvo-ice.streamguys1.com/kuvohd2-aac-128"
+            name: "The Drop 89.3-HD2",
+            logo: "stations/images-america/c2c/denver/The Drop 89.3-HD2.png",
+            url: "http://kuvo-ice.streamguys.org/kuvohd2-aac-128"
         },
         {
-            name: "Colorado Public Radio News",
-            logo: "stations/images-america/c2c/Colorado Public Radio News.png",
-            url: "http://stream2.cprnetwork.org:8000/cpr1_lo"
+            name: "Denver Open Media 89.3-HD3",
+            logo: "stations/images-america/c2c/denver/Denver Open Media 89.3-HD3.svg",
+            url: "http://komfstream.denveropenmedia.org:8000/stream"
         },
         {
-            name: "K-Love",
-            logo: "stations/images-america/c2c/KLove.png",
-            url: "http://emf.streamguys1.com/sk024_mp3_high_web"
+            name: "CPR News 90.1",
+            logo: "stations/images-america/c2c/denver/CPR.png",
+            url: "https://stream1.cprnetwork.org/cpr1_lo"
         },
         {
-            name: "La Suavecita",
-            logo: "stations/images-america/c2c/KJMNFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJMNFMAAC.aac"
+            name: "La Suavecita 92.1",
+            logo: "stations/images-america/c2c/denver/La Suavecita 92.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJMNFM_SC"
         },
         {
             name: "Altitude Sports Radio 92.5",
-            logo: "stations/images-america/c2c/KKSEFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKSEFMAAC.aac"
+            logo: "stations/images-america/c2c/denver/Altitude Sports Radio 92.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKSEFM_SC"
         },
         {
             name: "Channel 93.3",
-            logo: "stations/images-america/c2c/KTCLFM.png",
+            logo: "stations/images-america/c2c/denver/Channel 93.3.png",
             url: "https://c3icy.prod.playlists.ihrhls.com/397_icy"
         },
         {
-            name: "The Rock 93.7 1510",
-            logo: "stations/images-america/c2c/The Rock 93.7 1510.png",
-            url: "http://ice64.securenetsystems.net/KCKK"
+            name: "Punk Tacos 93.3-HD2",
+            logo: "stations/images-america/c2c/denver/Punk Tacos 93.3-HD2.png",
+            url: "https://ample.revma.ihrhls.com/zc6954/1_gqakw0detehf02/playlist.m3u8"
         },
         {
-            name: "95.7 The Party",
-            logo: "stations/images-america/c2c/KPTT.png",
-            url: "https://c8icy.prod.playlists.ihrhls.com/2795_icy"
-        },
-        {
-            name: "La Tricolor 96.5",
-            logo: "stations/images-america/c2c/KXPKFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFMAAC.aac"
-        },
-        {
-            name: "World Class Rock KBCO 97.3",
-            logo: "stations/images-america/c2c/World Class Rock KBCO 97.3.png",
-            url: "https://c8icy.prod.playlists.ihrhls.com/2804_icy"
-        },
-        {
-            name: "Mix 100",
-            logo: "stations/images-america/c2c/KIMN.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIMNFM.mp3"
-        },
-        {
-            name: "102.3 CPR'S Open Air",
-            logo: "stations/images-america/c2c/102.3 CPR'S Open Air.jpg",
-            url: "http://stream2.cprnetwork.org:8000/cpr3_lo"
-        },
-        {
-            name: "103.5 The Fox",
-            logo: "stations/images-america/c2c/103.5 The Fox.png",
-            url: "https://c9icy.prod.playlists.ihrhls.com/393_icy"
-        },
-        {
-            name: "Kool 105",
-            logo: "stations/images-america/c2c/KXKL.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXKLFM.mp3"
-        },
-        {
-            name: "KBPI 107.9",
-            logo: "stations/images-america/c2c/KBPIFM.png",
-            url: "https://c10icy.prod.playlists.ihrhls.com/373_icy"
-        },
-        {
-            name: "Talkradio 630 KHOW",
-            logo: "stations/images-america/c2c/Talkradio 630 KHOW.png",
-            url: "https://c10icy.prod.playlists.ihrhls.com/377_icy"
-        },
-        {
-            name: "Legends 810",
-            logo: "stations/images-america/c2c/Legends 810.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLVZAM.mp3"
-        },
-        {
-            name: "KOA NewsRadio 850",
-            logo: "stations/images-america/c2c/KOA NewsRadio 850.png",
+            name: "KOA 94.1",
+            logo: "stations/images-america/c2c/denver/KOA 94.1.png",
             url: "https://c8icy.prod.playlists.ihrhls.com/389_icy"
         },
         {
+            name: "Legends 94.3",
+            logo: "stations/images-america/c2c/denver/Legends 94.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLVZAM_SC"
+        },
+        {
+            name: "94.7 FM The Word",
+            logo: "stations/images-america/c2c/denver/94.7 FM The Word.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRKSFM_SC"
+        },
+        {
+            name: "95.7 The Party",
+            logo: "stations/images-america/c2c/denver/95.7 The Party.png",
+            url: "https://c8icy.prod.playlists.ihrhls.com/2795_icy"
+        },
+        {
+            name: "Evolution 95.7-HD3",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5953_icy"
+        },
+        {
+            name: "La Tricolor 96.5",
+            logo: "stations/images-america/c2c/denver/La Tricolor 96.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFM_SC"
+        },
+        {
+            name: "97.3 KBCO",
+            logo: "stations/images-america/c2c/denver/97.3 KBCO.png",
+            url: "https://c8icy.prod.playlists.ihrhls.com/2804_icy"
+        },
+        {
+            name: "The Studio C Channel 97.3-HD2",
+            logo: "stations/images-america/c2c/denver/The Studio C Channel 97.3-HD2.png",
+            url: "ttps://c8.prod.playlists.ihrhls.com/4866_icy"
+        },
+        {
+            name: "Pride Radio 97.3-HD3",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://c9.prod.playlists.ihrhls.com/3949_icy"
+        },
+        {
+            name: "98.5 KYGO",
+            logo: "stations/images-america/c2c/denver/98.5 KYGO.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KYGOFM_SC"
+        },
+        {
+            name: "98.5 KYGO HD2",
+            logo: "stations/images-america/c2c/denver/98.5 KYGO HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KYGO_HD2_SC"
+        },
+        {
+            name: "99.5 The Mountain",
+            logo: "stations/images-america/c2c/denver/99.5 The Mountain.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KQMTFM_SC"
+        },
+        {
+            name: "MIX 100",
+            logo: "stations/images-america/c2c/denver/Mix 100.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIMNFM_SC"
+        },
+        {
+            name: "KOSI 101.1",
+            logo: "stations/images-america/c2c/denver/KOSI 101.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFM_SC"
+        },
+        {
+            name: "Indie 102.3",
+            logo: "stations/images-america/c2c/denver/Indie 102.3.png",
+            url: "http://stream2.cprnetwork.org:8000/cpr3_lo"
+        },
+        {
+            name: "Comedy 103.1",
+            logo: "stations/images-america/c2c/denver/Comedy 103.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KQKSHD2_SC"
+        },
+        {
+            name: "103.5 The Fox",
+            logo: "stations/images-america/c2c/denver/103.5 The Fox.png",
+            url: "https://c9icy.prod.playlists.ihrhls.com/393_icy"
+        },
+        {
+            name: "104.3 The Fan",
+            logo: "stations/images-america/c2c/denver/104.3 The Fan.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKFNFM_SC"
+        },
+        {
+            name: "KOOL 105",
+            logo: "stations/images-america/c2c/denver/Kool 105.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXKLFM_SC"
+        },
+        {
+            name: "Alice 105.9",
+            logo: "stations/images-america/c2c/denver/Alice 105.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KALCFM_SC"
+        },
+        {
+            name: "ChannelQ 105.9-HD2",
+            logo: "stations/images-america/00_radio.com/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2_SC"
+        },
+        {
+            name: "106.7 The Bull",
+            logo: "stations/images-america/c2c/denver/106.7 The Bull.png",
+            url: "https://c14.prod.playlists.ihrhls.com/7784_icy"
+        },
+        {
+            name: "KS 107.5",
+            logo: "stations/images-america/c2c/denver/KS 107.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KQKSFM_SC"
+        },
+        {
+            name: "107.9 KBPI",
+            logo: "stations/images-america/c2c/denver/107.9 KBPI.png",
+            url: "https://c10.prod.playlists.ihrhls.com/373_icy"
+        },
+        {
+            name: "630 KHOW",
+            logo: "stations/images-america/c2c/denver/630 KHOW.png",
+            url: "https://c10icy.prod.playlists.ihrhls.com/377_icy"
+        },
+        {
             name: "Radio 1190",
-            logo: "stations/images-america/c2c/Radio 1190.png",
+            logo: "stations/images-america/c2c/denver/Radio 1190.png",
             url: "http://radio1190.colorado.edu:8000/master.mp3"
+        },
+        {
+            name: "1510 The Rock",
+            logo: "stations/images-america/c2c/denver/1510 The Rock.jpg",
+            url: "https://ice64.securenetsystems.net/KCKK"
         },
     ],
     "fort_collins": [
