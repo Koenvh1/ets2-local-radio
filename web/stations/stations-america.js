@@ -9154,7 +9154,7 @@ var stations_c2c = {
         },
         {
             name: "Wow FM Country 104.3",
-            logo: "stations/images-america/ontario/KAWOFM.png",
+            logo: "stations/images-america/c2c/KAWOFM.png",
             url: "http://stream.abacast.net/direct/townsquare-kawofmaac-ibc3"
         },
         {
@@ -9179,7 +9179,7 @@ var stations_c2c = {
         },
         {
             name: "107.9 LiteFM",
-            logo: "stations/images-america/ontario/107.9 LiteFM.png",
+            logo: "stations/images-america/ontario/107.9 Lite FM.png",
             url: "http://stream.abacast.net/direct/townsquare-kxltfmaac-ibc3"
         },
         {
@@ -16068,34 +16068,74 @@ var stations_c2c = {
     ],
     "greenville_nc": [
         {
-            name: "Public Radio East",
-            logo: "stations/images-america/c2c/WTEBFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTEBFM.mp3"
+            name: "PRE News & Ideas 89.3",
+            logo: "stations/images-america/c2c/greenville_nc/PRE.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTEBFM_SC"
         },
         {
-            name: "PRE Classical",
-            logo: "stations/images-america/c2c/WTEBFM.png",
+            name: "PRE Classical & News 90.3",
+            logo: "stations/images-america/c2c/greenville_nc/PRE.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WZNBFM.mp3"
         },
         {
-            name: "WUNC North Carolina Public Radio",
-            logo: "stations/images-america/c2c/WUNC North Carolina Public Radio.png",
-            url: "https://wunc-ice.streamguys1.com/wunc-128-mp3"
+            name: "WZMB 91.3",
+            logo: "stations/images-america/c2c/greenville_nc/WZMB 91.3.png",
+            url: "https://ice41.securenetsystems.net/WZMB"
+        },
+        {
+            name: "Bob 93.3",
+            logo: "stations/images-america/c2c/greenville_nc/Bob 93.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WEROFM_SC"
         },
         {
             name: "94.3 The Game",
-            logo: "stations/images-america/c2c/WRHDFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRHDFMAAC.aac"
+            logo: "stations/images-america/c2c/greenville_nc/WRHDFM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRHDFMAAC_SC"
         },
         {
-            name: "Talk 96.3",
-            logo: "stations/images-america/c2c/WRHTFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRHTFMAAC.aac"
+            name: "WRNS 95.1",
+            logo: "stations/images-america/c2c/greenville_nc/WRNS 95.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WRNSFM_SC"
+        },
+        {
+            name: "Groovin' Oldies 97.9",
+            logo: "stations/images-america/c2c/greenville_nc/Groovin' Oldies 97.9.png",
+            url: "https://ice23.securenetsystems.net/W250CJ"
+        },
+        {
+            name: "Hot 99.5",
+            logo: "stations/images-america/c2c/greenville_nc/Hot 99.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXNRFM_SC"
+        },
+        {
+            name: "101.9 Kiss FM",
+            logo: "stations/images-america/c2c/greenville_nc/101.9 Kiss FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WIKSFM_SC"
+        },
+        {
+            name: "V103.3",
+            logo: "stations/images-america/c2c/greenville_nc/V103.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WMGVFM_SC"
+        },
+        {
+            name: "103.7 WTIB",
+            logo: "stations/images-america/c2c/greenville_nc/103.7 WTIB.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTIBFM_SC"
+        },
+        {
+            name: "Beach Boogie & Blues 105.9",
+            logo: "stations/images-america/c2c/greenville_nc/Beach Boogie & Blues 105.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNCTAMAAC_SC"
+        },
+        {
+            name: "106.5 WSFL",
+            logo: "stations/images-america/c2c/greenville_nc/106.5 WSFL.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSFLFM_SC"
         },
         {
             name: "107.9 WNCT",
-            logo: "stations/images-america/c2c/WNCTFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNCTFMAAC.aac"
+            logo: "stations/images-america/c2c/greenville_nc/107.9 WNCT.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNCTFM_SC"
         },
     ],
     "raleigh": [
