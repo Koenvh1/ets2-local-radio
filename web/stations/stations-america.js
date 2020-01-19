@@ -15919,151 +15919,186 @@ var stations_c2c = {
     ],
     "fayetteville_nc": [
         {
-            name: "89.7 WCPE Wake",
-            logo: "stations/images-america/c2c/89.7 WCPE Wake.png",
-            url: "http://audio-mp3.ibiblio.org:8000/wcpe.mp3"
+            name: "The Classical Station 89.7",
+            logo: "stations/images-america/c2c/raleigh_nc/The Classical Station 89.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM_SC"
         },
         {
-            name: "WUNC North Carolina Public Radio",
-            logo: "stations/images-america/c2c/WUNC North Carolina Public Radio.png",
-            url: "https://wunc-ice.streamguys1.com/wunc-128-mp3"
+            name: "WUNC 91.9",
+            logo: "stations/images-america/c2c/raleigh_nc/WUNC 91.5.png",
+            url: "http://wunc-ice.streamguys1.com:80/wunc-128-mp3"
         },
         {
-            name: "WFAE",
-            logo: "stations/images-america/c2c/WFAE 90.7 NPR.png",
-            url: "http://wfae.iad.streamguys1.com:80/wfae1"
+            name: "My Kiss Radio 93.5",
+            logo: "stations/images-america/c2c/fayetteville_nc/My Kiss Radio 93.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WAZZAMAACHI_SC"
         },
         {
-            name: "HQR News",
-            logo: "stations/images-america/c2c/91.3 HQR News.png",
-            url: "https://audio-mp3.ibiblio.org/whqr_hd1"
+            name: "Sunny 94.3",
+            logo: "stations/images-america/c2c/fayetteville_nc/Sunny 94.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WZFXHD2AAC_SC"
         },
         {
-            name: "WEEB",
-            logo: "stations/images-america/c2c/WEEB.png",
-            url: "http://216.119.148.50:8000/weeb990"
+            name: "WKML 95.7",
+            logo: "stations/images-america/c2c/fayetteville_nc/WKML 95.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WKMLFMAACHI_SC"
+        },
+        {
+            name: "96.5 BOB FM",
+            logo: "stations/images-america/c2c/fayetteville_nc/96.5 BOB FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WFLBFMAACHI_SC"
         },
         {
             name: "Q98",
-            logo: "stations/images-america/c2c/WQSMFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQSMFMAAC.aac"
+            logo: "stations/images-america/c2c/fayetteville_nc/Q98.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQSMFMAAC_SC"
         },
         {
-            name: "Mix 101.5",
-            logo: "stations/images-america/c2c/Mix 101.5.png",
-            url: "https://live.wostreaming.net/direct/capitolbroad-wralfmaac-ibc1"
-        },
-        {
-            name: "Life 103.1",
-            logo: "stations/images-america/c2c/WLHC.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLHCFMAAC.aac"
+            name: "Foxy 99",
+            logo: "stations/images-america/c2c/fayetteville_nc/Foxy 99.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WZFXFMAACHI_SC"
         },
         {
             name: "Rock 103",
-            logo: "stations/images-america/c2c/WRCQFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRCQFMAAC.aac"
+            logo: "stations/images-america/c2c/fayetteville_nc/Rock 103.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRCQFMAAC_SC"
         },
         {
-            name: "WCCG 104.5 FM",
-            logo: "stations/images-america/c2c/WCCG 104.5 FM.png",
-            url: "https://ice66.securenetsystems.net/WCCG"
+            name: "WCCG 104.5",
+            logo: "stations/images-america/c2c/fayetteville_nc/WCCG 104.5.png",
+            url: "http://ice66.securenetsystems.net/WCCG"
         },
         {
             name: "Magic 106.9",
-            logo: "stations/images-america/c2c/WMGUFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMGUFMAAC.aac"
+            logo: "stations/images-america/c2c/fayetteville_nc/Magic 106.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMGUFMAAC_SC"
         },
         {
-            name: "640 WFNC News Talk Radio",
-            logo: "stations/images-america/c2c/640 WFNC News Talk Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFNCAM.mp3"
+            name: "Old School 107.7",
+            logo: "stations/images-america/c2c/fayetteville_nc/Old School 107.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WUKSFMAACHI_SC"
         },
         {
-            name: "Big Wave 77",
-            logo: "stations/images-america/c2c/WLWL.png",
-            url: "http://ice7.securenetsystems.net/WLWL"
+            name: "WFNC 640 AM",
+            logo: "stations/images-america/c2c/fayetteville_nc/WFNC 640 AM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFNCAM_SC"
+        },
+        {
+            name: "WIDU 1600",
+            logo: "stations/images-america/c2c/fayetteville_nc/WIDU 1600.png",
+            url: "https://ice23.securenetsystems.net/WIDU2"
         },
     ],
     "greensboro_nc": [
         {
-            name: "88.5 WFDD News & Arts Wake Forest",
-            logo: "stations/images-america/c2c/88.5 WFDD News & Arts Wake Forest.svg",
+            name: "88.5 WFDD News",
+            logo: "stations/images-america/c2c/greensboro_nc/WFDD.svg",
             url: "https://wfdd.streamguys1.com/wfdd1"
         },
         {
-            name: "88.5 WFDD Classical Wake Forest",
-            logo: "stations/images-america/c2c/88.5 WFDD Classical Wake Forest.svg",
+            name: "WFDD Classical 88.5-HD2",
+            logo: "stations/images-america/c2c/greensboro_nc/WFDD.svg",
             url: "https://wfdd.streamguys1.com/wfdd2"
         },
         {
-            name: "88.5 WFDD Eclectic Wake Forest",
-            logo: "stations/images-america/c2c/88.5 WFDD Eclectic Wake Forest.svg",
+            name: "Wake Radio 88.5-HD3",
+            logo: "stations/images-america/c2c/greensboro_nc/WFDD.svg",
             url: "https://wfdd.streamguys1.com/wfdd3"
         },
         {
-            name: "WSNC 90.5 Winston-Salem State University",
-            logo: "stations/images-america/c2c/WSNC 90.5 Winston-Salem State University.png",
-            url: "http://peace.str3am.com:6400/"
+            name: "WNAA 90.1",
+            logo: "stations/images-america/c2c/greensboro_nc/WNAA 90.1.png",
+            url: "http://thesong.ncat.edu:180/wnaa.mp3"
         },
         {
-            name: "WQFS",
-            logo: "stations/images-america/c2c/WQFS.png",
+            name: "WQFS 90.9",
+            logo: "stations/images-america/c2c/greensboro_nc/WQFS 90.9.png",
             url: "http://guilford.mp3.arcostream.com:29212/;"
         },
         {
-            name: "WUNC North Carolina Public Radio",
-            logo: "stations/images-america/c2c/WUNC North Carolina Public Radio.png",
-            url: "https://wunc-ice.streamguys1.com/wunc-128-mp3"
+            name: "WUNC 91.5",
+            logo: "stations/images-america/c2c/raleigh_nc/WUNC 91.5.png",
+            url: "http://wunc-ice.streamguys1.com:80/wunc-128-mp3"
         },
         {
             name: "Rock 92",
-            logo: "stations/images-america/c2c/Rock 92.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKRRFM.mp3"
+            logo: "stations/images-america/c2c/greensboro_nc/Rock 92.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKRRFM_SC"
         },
         {
-            name: "94.5 WPTI News Talk Sports",
-            logo: "stations/images-america/c2c/94.5 WPTI News Talk Sports.png",
+            name: "93.1 The Wolf",
+            logo: "stations/images-america/c2c/greensboro_nc/93.1 The Wolf.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WPAWFM_SC"
+        },
+        {
+            name: "94.5 WPTI",
+            logo: "stations/images-america/c2c/greensboro_nc/94.5 WPTI.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1617_icy"
         },
         {
-            name: "WMAG",
-            logo: "stations/images-america/c2c/WMAG.png",
+            name: "97.1 QMG",
+            logo: "stations/images-america/c2c/greensboro_nc/97.1 QMG.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WQMGFM_SC"
+        },
+        {
+            name: "98.7 Simon",
+            logo: "stations/images-america/c2c/greensboro_nc/98.7 Simon.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSMWFM_SC"
+        },
+        {
+            name: "99.5 WMAG",
+            logo: "stations/images-america/c2c/greensboro_nc/99.5 WMAG.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1621_icy"
         },
         {
-            name: "99.9 The Zoo",
-            logo: "stations/images-america/c2c/WZOO.png",
-            url: "http://stream1.mtcstream.com:8500/wzoo"
-        },
-        {
-            name: "100.3 Kiss FM",
-            logo: "stations/images-america/c2c/WMKSFM.png",
+            name: "100.3 KISS FM",
+            logo: "stations/images-america/c2c/greensboro_nc/100.3 KISS FM.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1629_icy"
         },
         {
+            name: "La Ley 101.1",
+            logo: "stations/images-america/c2c/greensboro_nc/La Ley 101.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WYMYFMAAC_SC"
+        },
+        {
+            name: "102 Jamz",
+            logo: "stations/images-america/c2c/greensboro_nc/102 Jamz.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WJMHFM_SC"
+        },
+        {
+            name: "WUAG 103.1",
+            logo: "stations/images-america/c2c/greensboro_nc/WUAG 103.1.png",
+            url: "http://152.13.184.174:8000/stream"
+        },
+        {
             name: "Q104.1",
-            logo: "stations/images-america/c2c/WTQRFM.png",
+            logo: "stations/images-america/c2c/greensboro_nc/Q104.1.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1625_icy"
         },
         {
             name: "105.7 Man Up!",
-            logo: "stations/images-america/c2c/WVBZFM.png",
+            logo: "stations/images-america/c2c/greensboro_nc/105.7 Man Up!.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1633_icy"
         },
         {
+            name: "Power 105.7-HD2",
+            logo: "stations/images-america/c2c/greensboro_nc/Power 105.7-HD2.png",
+            url: "https://c14.prod.playlists.ihrhls.com/7360_icy"
+        },
+        {
             name: "107.5 KZL",
-            logo: "stations/images-america/c2c/WKZLFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKZLFMAAC.aac"
+            logo: "stations/images-america/c2c/greensboro_nc/107.5 KZL.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKZLFMAAC_SC"
         },
         {
-            name: "wtob",
-            logo: "stations/images-america/c2c/wtob.png",
-            url: "http://ice23.securenetsystems.net/WTOB"
+            name: "Sports Hub 600 AM",
+            logo: "stations/images-america/c2c/greensboro_nc/Sports Hub 600 AM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSJSAMAAC_SC"
         },
         {
-            name: "1490 WLOE",
-            logo: "stations/images-america/c2c/1490 WLOE.png",
-            url: "http://ice64.securenetsystems.net/WLOE"
+            name: "WZOO 700",
+            logo: "stations/images-america/c2c/greensboro_nc/WZOO 700.png",
+            url: "http://stream1.mtcstream.com:8500/wzoo"
         },
     ],
     "greenville_nc": [
