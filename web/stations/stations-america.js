@@ -17550,7 +17550,7 @@ var stations_c2c = {
             url: "http://hemnos.cdnstream.com/1475_64"
         },
         {
-            name: "Legends 92.9 - 98.9",
+            name: "Legends 98.9",
             logo: "stations/images-america/c2c/Legends 92.9.jpg",
             url: "http://174.127.75.88:8020/live"
         },
@@ -17570,12 +17570,12 @@ var stations_c2c = {
             url: "http://crystalout.surfernetwork.com:8001/KVSP_MP3"
         },
         {
-            name: "KQ106 - 105.9",
+            name: "KQ106",
             logo: "stations/images-america/c2c/KQ106.png",
             url: "http://45.40.163.108:8000/kqtzfm"
         },
         {
-            name: "107 The Zone - 106.9",
+            name: "107 The Zone",
             logo: "stations/images-america/c2c/107 The Zone.png",
             url: "http://hemnos.cdnstream.com/1474_64"
         },
