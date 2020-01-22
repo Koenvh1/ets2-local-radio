@@ -23212,54 +23212,79 @@ var stations_c2c = {
     ],
     "wausau_wi": [
         {
-            name: "88.5 The Family",
-            logo: "stations/images-america/c2c/WGNVFM.png",
-            url: "https://ice64.securenetsystems.net/WGNV"
-        },
-        {
-            name: "Hope Is Here 89Q",
-            logo: "stations/images-america/c2c/WCLQFM.png",
-            url: "https://ice3.securenetsystems.net/WCLQ"
-        },
-        {
-            name: "90FM",
-            logo: "stations/images-america/c2c/WWSPFM.jpg",
-            url: "http://143.236.72.157:8080/broadwave.mp3"
-        },
-        {
-            name: "WPR News & Classical",
-            logo: "stations/images-america/c2c/88.7 WERN WPR News & Classical.png",
+            name: "WPR News & Classical 90.9",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
         {
-            name: "WPR Ideas",
-            logo: "stations/images-america/c2c/90.7 WHAD WPR Ideas.png",
+            name: "WPR - The Ideas Network 91.9",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
         {
-            name: "WXPR",
-            logo: "stations/images-america/c2c/WXPRFM.png",
-            url: "https://amber.streamguys1.com:4372/wxpr2"
+            name: "WXPR 91.9",
+            logo: "stations/images-america/c2c/wausau_wi/WXPR 91.9.png",
+            url: "http://amber.streamguys.com:4370/wxpr2"
         },
         {
             name: "Rock 94.7",
-            logo: "stations/images-america/c2c/WOZZFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WOZZFMAAC.aac"
+            logo: "stations/images-america/c2c/wausau_wi/Rock 94.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WOZZFMAAC_SC"
+        },
+        {
+            name: "WSAU 95.1",
+            logo: "stations/images-america/c2c/wausau_wi/WSAU 95.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSAUAMFMAAC_SC"
         },
         {
             name: "95.5 WIFC",
-            logo: "stations/images-america/c2c/WIFCFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIFCFMAAC.aac"
+            logo: "stations/images-america/c2c/wausau_wi/95.5 WIFC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIFCFMAAC_SC"
+        },
+        {
+            name: "Bluejay 96.3",
+            logo: "stations/images-america/c2c/wausau_wi/Bluejay 96.3.png",
+            url: "http://173.193.205.96:7296/stream"
+        },
+        {
+            name: "Hot 96.7",
+            logo: "stations/images-america/c2c/wausau_wi/Hot 96.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WHTQFMAAC_SC"
+        },
+        {
+            name: "Wave 100.5",
+            logo: "stations/images-america/c2c/wausau_wi/Wave 100.5.png",
+            url: "http://68.117.118.162:8000/WDTX.MP3"
         },
         {
             name: "WDEZ 101.9",
-            logo: "stations/images-america/c2c/WDEZFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDEZFMAAC.aac"
+            logo: "stations/images-america/c2c/wausau_wi/WDEZ 101.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDEZFMAAC_SC"
         },
         {
-            name: "WSAU",
-            logo: "stations/images-america/c2c/WSAU.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSAUAMFMAAC.aac"
+            name: "Classic Rock 103.3",
+            logo: "stations/images-america/c2c/wausau_wi/Classic Rock 103.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WGLXFMAAC_SC"
+        },
+        {
+            name: "B-104.9",
+            logo: "stations/images-america/c2c/wausau_wi/B-104.9.png",
+            url: "https://ice8.securenetsystems.net/WKQH"
+        },
+        {
+            name: "Y106.5",
+            logo: "stations/images-america/c2c/wausau_wi/Y106.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYTEFMAAC_SC"
+        },
+        {
+            name: "Big Cheese 107.9",
+            logo: "stations/images-america/c2c/wausau_wi/Big Cheese 107.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WBCVFMAAC_SC"
+        },
+        {
+            name: "Sports Fan 1230",
+            logo: "stations/images-america/c2c/wausau_wi/Sports Fan 1230.png",
+            url: "http://68.117.118.162:8000/WXCO.MP3"
         },
     ],
     "casper_wy": [
@@ -23438,24 +23463,19 @@ var stations_c2c = {
     ],
     "evanston": [
         {
-            name: "Wyoming Public Radio",
+            name: "WYPR 89.7",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
         },
         {
-            name: "Wyoming Sounds",
-            logo: "stations/images-america/c2c/Wyoming Sounds.png",
-            url: "https://wprhqstream4.uwyo.edu/wys128.mp3"
-        },
-        {
-            name: "Wild Life 98.3",
-            logo: "stations/images-america/c2c/Wild Life 98.3.png",
+            name: "Wildlife 98.3",
+            logo: "stations/images-america/c2c/evanston/Wildlife 98.3.png",
             url: "http://stream.sandhillradio.com:10101/KADQ"
         },
     ],
     "gillette_wy": [
         {
-            name: "WPR 90.9",
+            name: "WYPR 90.9",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
         },
@@ -23467,21 +23487,51 @@ var stations_c2c = {
     ],
     "rawlins": [
         {
-            name: "Wyoming Public Radio",
+            name: "WYPR 89.9",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+        },
+        {
+            name: "Bigfoot 99",
+            logo: "stations/images-america/c2c/rawlins/Bigfoot 99.png",
+            url: "https://ice6.securenetsystems.net/KTGA"
         },
     ],
     "rock_springs": [
         {
-            name: "Wyoming Public Radio",
+            name: "WYPR 90.5",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
         },
         {
-            name: "Wyoming Sounds",
-            logo: "stations/images-america/c2c/Wyoming Sounds.png",
-            url: "https://wprhqstream4.uwyo.edu/wys128.mp3"
+            name: "307 Country - KREO 93.5",
+            logo: "stations/images-america/c2c/rock_springs/307 Country - KREO 93.5.png",
+            url: "https://ice9.securenetsystems.net/CO7WY"
+        },
+        {
+            name: "​​Q96",
+            logo: "stations/images-america/c2c/rock_springs/​​Q96.png",
+            url: "https://ice9.securenetsystems.net/KQSW"
+        },
+        {
+            name: "​​99.7 Jack FM",
+            logo: "stations/images-america/c2c/rock_springs/99.7 Jack FM.png",
+            url: "https://ice9.securenetsystems.net/KSIT"
+        },
+        {
+            name: "KUGR 104.9",
+            logo: "stations/images-america/c2c/rock_springs/KUGR 104.9.png",
+            url: "http://ice5.securenetsystems.net/KUGR"
+        },
+        {
+            name: "Hits Now! 106",
+            logo: "stations/images-america/c2c/rock_springs/Hits Now! 106.png",
+            url: "https://ice9.securenetsystems.net/KMRZ"
+        },
+        {
+            name: "1360 KRKK",
+            logo: "stations/images-america/c2c/rock_springs/1360 KRKK.png",
+            url: "https://ice10.securenetsystems.net/KRKK"
         },
     ],
     "sheridan_wy": [
@@ -23491,7 +23541,7 @@ var stations_c2c = {
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
-            name: "WPR 91.3",
+            name: "WYPR 91.3",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
         },
