@@ -22991,89 +22991,149 @@ var stations_c2c = {
     ],
     "madison_wi": [
         {
-            name: "88.7 WERN WPR News & Classical",
-            logo: "stations/images-america/c2c/88.7 WERN WPR News & Classical.png",
+            name: "WPR News & Classical 88.7",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
         {
-            name: "88.7 WERN HD2 WPR All Classical",
-            logo: "stations/images-america/c2c/88.7 WERN HD2 WPR All Classical.png",
-            url: "http://wpr-ice.streamguys.net:80/wpr-hd2-mp3-96"
-        },
-        {
-            name: "WORT",
-            logo: "stations/images-america/c2c/WORT.png",
+            name: "WORT 89.9",
+            logo: "stations/images-america/c2c/madison_wi/WORT 89.9.png",
             url: "http://stream.wort-fm.org:8000/high.mp3"
         },
         {
+            name: "WSUM 91.7",
+            logo: "stations/images-america/c2c/madison_wi/WSUM 91.7.png",
+            url: "https://ice23.securenetsystems.net/WSUMFM"
+        },
+        {
             name: "Rewind 92.1",
-            logo: "stations/images-america/c2c/Rewind 92.1.png",
+            logo: "stations/images-america/c2c/madison_wi/Rewind 92.1.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/2665_icy"
         },
         {
-            name: "WWMV-LP",
-            logo: "stations/images-america/c2c/WWMV-LP.png",
+            name: "iHeart 80s 92.1-HD2",
+            logo: "stations/images-america/c2c/madison_wi/iHeart 80s 92.1-HD2.png",
+            url: "https://c3.prod.playlists.ihrhls.com/5060_icy"
+        },
+        {
+            name: "The Breeze 92.1-HD3",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://c10.prod.playlists.ihrhls.com/8143_icy"
+        },
+        {
+            name: "Talk 92.7 FM",
+            logo: "stations/images-america/c2c/madison_wi/Talk 92.7 FM.png",
+            url: "https://ice24.securenetsystems.net/WTTN"
+        },
+        {
+            name: "93.1 JAMZ",
+            logo: "stations/images-america/c2c/madison_wi/93.1 JAMZ.png",
+            url: "https://live.wostreaming.net/manifest/mwfmadison-wjqmfmaac-ibc3"
+        },
+        {
+            name: "Solid Rock 94.1",
+            logo: "stations/images-america/c2c/madison_wi/Solid Rock 94.1.png",
+            url: "https://live.wostreaming.net/manifest/mwfmadison-wjjofmaac-ibc3"
+        },
+        {
+            name: "La Movida 94.5",
+            logo: "stations/images-america/c2c/madison_wi/La Movida 94.5.png",
+            url: "https://live.wostreaming.net/manifest/mwfmadison-wlmvamaac-ibc3"
+        },
+        {
+            name: "94.9 WOLX",
+            logo: "stations/images-america/c2c/madison_wi/94.9 WOLX.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WOLXFM_SC"
+        },
+        {
+            name: "WWMV-LP 95.5",
+            logo: "stations/images-america/c2c/madison_wi/WWMV-LP 95.5.png",
             url: "http://50.93.211.90:8000/;"
         },
         {
             name: "96.3 Star Country",
-            logo: "stations/images-america/c2c/WMADFM.png",
+            logo: "stations/images-america/c2c/madison_wi/96.3 Star Country.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/3510_icy"
         },
         {
+            name: "Coffee Shop Radio 96.3-HD2",
+            logo: "stations/images-america/c2c/madison_wi/Coffee Shop Radio 96.3-HD2.png",
+            url: "https://c1icy.prod.playlists.ihrhls.com/6698_icy"
+        },
+        {
+            name: "96.7 The Zone",
+            logo: "stations/images-america/c2c/madison_wi/96.7 The Zone.svg",
+            url: "https://live.wostreaming.net/manifest/mwfmadison-woznamaac-ibc3"
+        },
+        {
+            name: "HANK 97.7",
+            logo: "stations/images-america/c2c/madison_wi/HANK 97.7.png",
+            url: "http://stream.abacast.net/direct/mwfmadison-whitamaac-ibc3"
+        },
+        {
             name: "Magic 98",
-            logo: "stations/images-america/c2c/Magic 98.png",
+            logo: "stations/images-america/c2c/madison_wi/Magic 98.png",
             url: "http://stream.abacast.net/direct/mwfmadison-wmgnfmaac-ibc3"
         },
         {
-            name: "99.7 Max FM",
-            logo: "stations/images-america/c2c/99.7 Max FM.png",
-            url: "http://ice41.securenetsystems.net/WRPQ"
+            name: "98.7 WVMO",
+            logo: "stations/images-america/c2c/madison_wi/98.7 WVMO.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WVMOFMAAC_SC"
         },
         {
-            name: "WIBA FM 101.5",
-            logo: "stations/images-america/c2c/WIBA FM 101.5.png",
+            name: "100.5 ESPN",
+            logo: "stations/images-america/c2c/madison_wi/100.5 ESPN.png",
+            url: "http://stream.abacast.net/direct/goodkarma-wtlxfmmp3-ibc2"
+        },
+        {
+            name: "101.5 WIBA",
+            logo: "stations/images-america/c2c/madison_wi/101.5 WIBA.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/3466_icy"
         },
         {
             name: "Z104",
-            logo: "stations/images-america/c2c/WZEEFM.png",
+            logo: "stations/images-america/c2c/madison_wi/Z104.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/3506_icy"
         },
         {
-            name: "Wisconsin 106.1",
-            logo: "stations/images-america/c2c/Wisconsin 106.1.png",
-            url: "http://stream.abacast.net/direct/caspercommunications-wcwifmaac-ibc3"
+            name: "Classical Highlights 104.1-HD2",
+            logo: "stations/images-america/c2c/madison_wi/Classical Highlights 104.1-HD2.png",
+            url: "http://c9.prod.playlists.ihrhls.com/6377_icy"
         },
         {
-            name: "970 WHA WPR Ideas",
-            logo: "stations/images-america/c2c/970 WHA WPR Ideas.png",
+            name: "Mix 105.1",
+            logo: "stations/images-america/c2c/madison_wi/Mix 105.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WMHXFM_SC"
+        },
+        {
+            name: "105.5 Triple M",
+            logo: "stations/images-america/c2c/madison_wi/105.5 Triple M.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WMMMFM_SC"
+        },
+        {
+            name: "Q106",
+            logo: "stations/images-america/c2c/madison_wi/Q106.png",
+            url: "http://stream.abacast.net/direct/mwfmadison-wwqmfmaac-ibc3"
+        },
+        {
+            name: "107.3 WSJY",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSJYFM_SC"
+        },
+        {
+            name: "WPR - The Ideas Network 107.9",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
         {
             name: "The Big 1070",
-            logo: "stations/images-america/c2c/WTSO.png",
+            logo: "stations/images-america/c2c/madison_wi/The Big 1070.png",
             url: "https://c7icy.prod.playlists.ihrhls.com/3502_icy"
         },
         {
-            name: "News Talk 1310 WIBA",
-            logo: "stations/images-america/c2c/News Talk 1310 WIBA.png",
+            name: "1310 WIBA",
+            logo: "stations/images-america/c2c/madison_wi/1310 WIBA.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/2661_icy"
-        },
-        {
-            name: "1350 WPDR",
-            logo: "stations/images-america/c2c/1350 WPDR.jpg",
-            url: "http://icy2.abacast.com:80/magnumbroadcasting-wpdramaac-48"
-        },
-        {
-            name: "1400 WRDB",
-            logo: "stations/images-america/c2c/1400 WRDB.gif",
-            url: "http://icy2.abacast.com:80/magnumbroadcasting-wrdbamaac-48"
-        },
-        {
-            name: "Hank",
-            logo: "stations/images-america/c2c/Hank.png",
-            url: "http://stream.abacast.net/direct/mwfmadison-whitamaac-ibc3"
         },
     ],
     "milwaukee": [
