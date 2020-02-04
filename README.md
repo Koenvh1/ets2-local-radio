@@ -196,10 +196,6 @@ and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\p
 ### The overlay is stuck in the top left corner
 This usually occurs after changing the graphics settings. It should be gone after ATS/ETS2 is restarted.
 
-### The editor will not load/crashes randomly with the overlay installed
-There is as of yet no solution for this problem, and I very much doubt that there ever will be given that DirectX 9 is very picky and this problem affects very few people.
-Just uninstall the overlay before starting the editor.
-
 ### The overlay is upside down in VR
 Close the server, open the `settings.json` file, and change `vr` to `true`.
 
@@ -216,9 +212,7 @@ Call it "organically grown". Initially, this project was a skin for ETS2 Telemet
 ## How to uninstall it:
 Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel.
 You will need to manually remove the following files from the ETS2/ATS installation directory as well:
-* `\bin\win_x64\d3d9.dll` 
 * `\bin\win_x64\plugins\ets2-telemetry.dll`
-* `\bin\win_x86\d3d9.dll`
 * `\bin\win_x86\plugins\ets2-telemetry.dll`
 
 ## Thanks to:
