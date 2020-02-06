@@ -16628,6 +16628,7 @@ var stations_c2c = {
             url: "http://ice64.securenetsystems.net/KQWBAM"
         },
     ],
+    
     "grand_forks": [
         {
             name: "Prairie Public 89.3",
@@ -16657,12 +16658,12 @@ var stations_c2c = {
         {
             name: "Z94.7",
             logo: "stations/images-america/c2c/KZGFFM.png",
-            url: "http://stream.abacast.net/direct/leighton-kzgffmaac-ibc1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZGFFM_SC"
         },
         {
             name: "Rock 95",
             logo: "stations/images-america/c2c/KGFK.png",
-            url: "http://stream.abacast.net/direct/leighton-kgfkfmaac-ibc1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KGFKAMAAC_SC"
         },
         {
             name: "96.1 The Fox",
@@ -16672,7 +16673,7 @@ var stations_c2c = {
         {
             name: "97 KYCK",
             logo: "stations/images-america/c2c/KYCKFM.png",
-            url: "http://stream.abacast.net/direct/leighton-kyckfmaac-ibc1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYCKFMAAC_SC"
         },
         {
             name: "100.3 Cat Country",
@@ -16687,7 +16688,7 @@ var stations_c2c = {
         {
             name: "104.3 Cities FM",
             logo: "stations/images-america/c2c/KZLT.png",
-            url: "http://stream.abacast.net/direct/leighton-kzltfmaac-ibc1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZLTFMAAC_SC"
         },
         {
             name: "KJ108",
@@ -16697,7 +16698,7 @@ var stations_c2c = {
         {
             name: "KNOX 107.9",
             logo: "stations/images-america/c2c/KNOX.png",
-            url: "http://stream.abacast.net/direct/leighton-knoxamaac-ibc1"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNOXAMAAC_SC"
         },
         {
             name: "740 The Fan",
@@ -16709,7 +16710,7 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/KROX 1260.png",
             url: "http://ice6.securenetsystems.net:80/KROX"
         },
-    ],
+    ], 
     "jamestown_nd": [
         {
             name: "Prairie Public 91.5",
@@ -22049,7 +22050,7 @@ var stations_c2c = {
             url: "https://c1icy.prod.playlists.ihrhls.com/2649_icy"
         },
         {
-            name: "95.9 Jamz",
+            name: "95.9 JAMZ",
             logo: "stations/images-america/c2c/eau_claire/95.9 Jamz.png",
             url: "http://ice24.securenetsystems.net/WEAQ"
         },
