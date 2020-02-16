@@ -28,7 +28,7 @@ var g_hls = null;
 var g_last_command = "0";
 //show all radio stations:
 var g_show_all = false;
-//contains, wether darktheme is enabled or not
+//contains, whether darktheme is enabled or not
 var g_darkThm = false;
 
 function initialise() {
@@ -394,7 +394,9 @@ function setRadioStation(url, country, volume) {
         return e.url;
     }).indexOf(g_current_url);
 
-    $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
+    $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" +
+        calculateReception(g_countries[country].whitenoise) + "/?" +
+        location.origin + location.pathname + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
