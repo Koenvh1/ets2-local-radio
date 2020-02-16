@@ -207,11 +207,11 @@
     function loadScripts() {
         console.log("Start loading scripts");
         $.ajax({
-            url: "/stations/" + g_skinConfig[g_game].stations,
+            url: "stations/" + g_skinConfig[g_game].stations,
             dataType: "script",
             timeout: 3000
         }).done(function () {
-            $.getScript("/stations/stations-custom.js", function () {
+            $.getScript("stations/stations-custom.js", function () {
                 for (var key in stations_custom) {
                     if(stations_custom.hasOwnProperty(key)){
                         if(stations.hasOwnProperty(key)){
@@ -225,7 +225,7 @@
                 }
             });
             $.ajax({
-                url: "/cities/" + g_skinConfig[g_game].map,
+                url: "cities/" + g_skinConfig[g_game].map,
                 dataType: "script",
                 timeout: 3000
             }).done(function () {

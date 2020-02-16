@@ -1,4 +1,6 @@
-﻿//current game (ats or ets2)
+﻿//where the API for this game is
+var g_api = "";
+//current game (ats or ets2)
 var g_game = "ets2";
 //current language set in ETS2 Local Radio server:
 var g_language = "en-GB";
@@ -32,6 +34,9 @@ var g_darkThm = false;
 function initialise() {
     console.log("Start init");
 
+    var url = new URL(window.location);
+    g_api = url.searchParams.get("api") || "";
+
     $(document).ready(function () {
         document.getElementById("switchStation").volume = 0;
         document.getElementById("whitenoise").volume = 0;
@@ -43,7 +48,7 @@ function initialise() {
 
     //Check updates:
     $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", {_: new Date().getTime()}, function (dataRemote) {
-        $.getJSON("/version.json", {_: new Date().getTime()}, function (dataLocal) {
+        $.getJSON(g_api + "/version.json", {_: new Date().getTime()}, function (dataLocal) {
             if (dataLocal.version != dataRemote.version) {
                 $(".update").show();
             }
@@ -74,13 +79,13 @@ function initialise() {
     refreshFavourites();
 
     setInterval(function () {
-        $.getJSON("api/", function (data) {
+        $.getJSON(g_api + "/api/", function (data) {
             refresh(data);
         });
     }, 1000);
 
     setInterval(function () {
-        $.getJSON("commands/").done(function (data) {
+        $.getJSON(g_api + "/commands/").done(function (data) {
             if(data.language != g_language){
                 console.log(data.language);
                 g_language = data.language;
@@ -271,7 +276,7 @@ function refresh(data) {
 
             //Check if there is a favourite station:
             var index = 0;
-            $.getJSON("/favourite/" + country_lowest_distance, function (favourite_lowest_distance) {
+            $.getJSON(g_api + "/favourite/" + country_lowest_distance, function (favourite_lowest_distance) {
                 if (favourite_lowest_distance["Name"] != "") {
                     index = stations[country_lowest_distance].map(function (e) {
                         return e.name;
@@ -389,7 +394,7 @@ function setRadioStation(url, country, volume) {
         return e.url;
     }).indexOf(g_current_url);
 
-    $.get("/station/" + encodeURIComponent(stations[country][index].name) + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
+    $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" + calculateReception(g_countries[country].whitenoise) + "/?" + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -432,7 +437,7 @@ function setFavouriteStation(country, name) {
             });
         }, 500);
     } else {
-        $.get("/favourite/" + country + "/" + encodeURIComponent(name), function(){
+        $.get(g_api + "/favourite/" + country + "/" + encodeURIComponent(name), function(){
             $("#snackbar").html(country_properties[country].name + " <i class='fa fa-heart'></i>  " + name).addClass("show");
             setTimeout(function () {
                 $("#snackbar").removeClass("show");
@@ -672,7 +677,7 @@ function refreshLanguage() {
 }
 
 function refreshFavourites(callback) {
-    $.getJSON("/favourite/", function (data) {
+    $.getJSON(g_api + "/favourite/", function (data) {
         g_favourites = data;
         if(typeof callback !== "undefined") {
             callback();
