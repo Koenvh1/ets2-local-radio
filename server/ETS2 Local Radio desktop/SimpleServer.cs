@@ -176,6 +176,7 @@ namespace ETS2_Local_Radio_server
         private void Process(HttpListenerContext context)
         {
             context.Response.AddHeader("Cache-Control", "no-store, must-revalidate");
+            context.Response.AddHeader("Access-Control-Allow-Origin", "*");
 
             string filename = context.Request.Url.AbsolutePath;
             //Console.WriteLine(filename);

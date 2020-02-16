@@ -47,7 +47,7 @@ function initialise() {
     });
 
     //Check updates:
-    $.getJSON("https://koenvh1.github.io/ets2-local-radio/version.json", {_: new Date().getTime()}, function (dataRemote) {
+    $.getJSON("http://localradio.koenvh.nl/version.json", {_: new Date().getTime()}, function (dataRemote) {
         $.getJSON(g_api + "/version.json", {_: new Date().getTime()}, function (dataLocal) {
             if (dataLocal.version != dataRemote.version) {
                 $(".update").show();

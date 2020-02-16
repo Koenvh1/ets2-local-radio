@@ -591,7 +591,7 @@ namespace ETS2_Local_Radio_server
 
         private void URLLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start(comboIP.SelectedItem.ToString());
+            Process.Start("http://localradio.koenvh.nl/web/?api=" + comboIP.SelectedItem.ToString());
         }
 
         private void Koenvh_Click(object sender, EventArgs e)
