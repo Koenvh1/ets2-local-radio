@@ -35,7 +35,6 @@ Make a station favourite to always switch to that station when entering the coun
 ## Reporting an issue:
 Found a station that does not work, a wrong (or incomplete) translation or something else? 
 Please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum.
-Suggestions are welcome as well of course. 
 
 Make sure to read the troubleshoot section beforehand!
 
