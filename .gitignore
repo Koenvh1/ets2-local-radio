@@ -42,3 +42,4 @@ crashlytics-build.properties
 fabric.properties
 
 server/packages/**
+*.exe

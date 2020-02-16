@@ -15,3 +15,12 @@ F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.csproj.CoreCompileInputs.cac
 F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.csproj.CopyComplete
 F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.dll
 F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.pdb
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Debug\Capture.csprojAssemblyReference.cache
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Debug\Capture.Properties.Resources.resources
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Debug\Capture.csproj.GenerateResource.cache
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Debug\Capture.csproj.CopyComplete
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Debug\Capture.dll
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Debug\Capture.pdb
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\Capture.dll.config
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\Capture.dll
+F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\Capture.pdb
