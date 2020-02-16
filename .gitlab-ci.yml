@@ -1,11 +1,10 @@
-image: alpine:latest
-
 pages:
-  stage: deploy
   script:
-  - echo 'Nothing to do...'
+  - mkdir .public
+  - cp -r web/* .public
+  - mv .public public
   artifacts:
     paths:
-    - web
+    - public
   only:
   - master
