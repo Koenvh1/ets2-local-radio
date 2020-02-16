@@ -100,7 +100,7 @@
         overlay_countries = sortObject(overlay_countries);
         L.control.layers(null, overlay_countries).addTo(map);
 
-        map.attributionControl.addAttribution("<a href='javascript:showCurrentPosition()'>Show current location</a> | <a href='?ats'>ATS map</a>");
+        map.attributionControl.addAttribution("<a href='?ats'>ATS map</a>");
 
         map.on("click", function (e) {
             console.log("X: " + e.latlng.lng + "; Y: " + -e.latlng.lat);
@@ -117,7 +117,7 @@
     var currentMarker = null;
 
     function showCurrentPosition() {
-        $.getJSON("/api/", function (data) {
+        $.getJSON(g_api + "/api/", function (data) {
             var lat = -data.Physics.CoordinateZ;
             var lon = data.Physics.CoordinateX;
             if(currentMarker == null) {
