@@ -195,6 +195,9 @@ and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\p
 ### The overlay is stuck in the top left corner
 This usually occurs after changing the graphics settings. It should be gone after ATS/ETS2 is restarted.
 
+### I cannot hear any sound
+Click the sound icon in your address bar, and set automatic playback to "allow".
+
 ### The overlay is upside down in VR
 Close the server, open the `settings.json` file, and change `vr` to `true`.
 
