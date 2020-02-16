@@ -1,0 +1,5 @@
+deploy:
+  provider: surge
+  project: ./web/
+  domain: localradio.surge.sh
+  skip_cleanup: true
