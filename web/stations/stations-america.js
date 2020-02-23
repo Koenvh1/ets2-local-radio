@@ -20062,7 +20062,7 @@ var stations_c2c = {
     "childress_tx": [
         {
             name: "92.1 The Cat",
-            logo: "stations/images-america/c2c/childress_tx/The Cat 92.1.png",
+            logo: "stations/images-america/c2c/childress_tx/92.1 The Cat.png",
             url: "https://ice42.securenetsystems.net/KCTXAM"
         },
         {
