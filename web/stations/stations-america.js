@@ -19920,66 +19920,71 @@ var stations_c2c = {
     ],
     "beaumont": [
         {
-            name: "91.3 KVLU Lamar University",
-            logo: "stations/images-america/c2c/91.3 KVLU Lamar University.png",
-            url: "http://kvlustream.lamar.edu:8000/stream"
+            name: "91.3 KVLU",
+            logo: "stations/images-america/c2c/beaumont_tx/91.3 KVLU.png",
+            url: "https://kvlustream.lamar.edu:8443/stream"
         },
         {
-            name: "Cool 92.5 FM",
-            logo: "stations/images-america/c2c/Cool 92.5 FM.png",
+            name: "Cool 92.5",
+            logo: "stations/images-america/c2c/beaumont_tx/Cool 92.5.png",
             url: "https://c6icy.prod.playlists.ihrhls.com/2189_icy"
         },
         {
             name: "Q94",
-            logo: "stations/images-america/c2c/KQXYFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQXYFMAAC.aac"
+            logo: "stations/images-america/c2c/beaumont_tx/Q94.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQXYFMAAC_SC"
         },
         {
             name: "Kicker 95.1",
-            logo: "stations/images-america/c2c/KYKRFM.png",
+            logo: "stations/images-america/c2c/beaumont_tx/Kicker 95.1.png",
             url: "https://c6icy.prod.playlists.ihrhls.com/2205_icy"
         },
         {
+            name: "ESPN 97.5",
+            logo: "stations/images-america/c2c/beaumont_tx/ESPN 97.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
+        },
+        {
             name: "Nash FM 101.7",
-            logo: "stations/images-america/c2c/KAYDFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC.aac"
+            logo: "stations/images-america/c2c/beaumont_tx/Nash FM 101.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC_SC"
         },
         {
             name: "Magic 102.5",
-            logo: "stations/images-america/c2c/KTCXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTCXFMAAC.aac"
+            logo: "stations/images-america/c2c/beaumont_tx/Magic 102.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTCXFMAAC_SC"
         },
         {
             name: "103.3 The Beat",
-            logo: "stations/images-america/c2c/KKMYHD2.png",
+            logo: "stations/images-america/c2c/beaumont_tx/103.3 The Beat.png",
             url: "https://c1icy.prod.playlists.ihrhls.com/6457_icy"
         },
         {
-            name: "104.5 Kiss FM",
-            logo: "stations/images-america/c2c/KKMYFM.png",
+            name: "104.5 KISS FM",
+            logo: "stations/images-america/c2c/beaumont_tx/104.5 KISS FM.png",
             url: "https://c6icy.prod.playlists.ihrhls.com/2201_icy"
         },
         {
-            name: "Big Dog 106",
-            logo: "stations/images-america/c2c/KIOCFM.png",
+            name: "105.3 FREE",
+            logo: "stations/images-america/c2c/beaumont_tx/105.3 FREE.png",
+            url: "https://streaming.live365.com/a12159"
+        },
+        {
+            name: "BIG DOG 106",
+            logo: "stations/images-america/c2c/beaumont_tx/BIG DOG 106.png",
             url: "https://c6icy.prod.playlists.ihrhls.com/2193_icy"
         },
         {
-            name: "News Talk KLVI 560",
-            logo: "stations/images-america/c2c/News Talk KLVI 560.png",
+            name: "News Talk 560 KLVI",
+            logo: "stations/images-america/c2c/beaumont_tx/News Talk 560 KLVI.png",
             url: "https://c6icy.prod.playlists.ihrhls.com/2197_icy"
-        },
-        {
-            name: "KOGT 1600",
-            logo: "stations/images-america/c2c/KOGT 1600.png",
-            url: "http://ic1.mainstreamnetwork.com/kogt-am"
         },
     ],
     "brownfield_tx": [
         {
-            name: "Radio Nueva Vida",
-            logo: "stations/images-america/c2c/KMROFM.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            name: "KLTB 89.7",
+            logo: "stations/images-america/c2c/brownfield_tx/KLTB 89.7.png",
+            url: "http://shout2.brnstream.com:8048/;"
         },
     ],
     "bryan_tx": [
