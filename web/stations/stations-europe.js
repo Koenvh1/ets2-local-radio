@@ -2623,7 +2623,7 @@ var stations = {
         {
             name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
-            url: "eskago/eska-warszawa"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=eska-warszawa"
         },
         {
             name: "Radio Maryja",
@@ -2633,12 +2633,12 @@ var stations = {
         {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.jpg",
-            url: "eskago/radio-plus"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=radio-plus"
         },
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "eskago/wawa"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=wawa"
         },
         {
             name: "Radio ZET",
@@ -2680,7 +2680,7 @@ var stations = {
         {
             name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "eskago/vox-fm"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=vox-fm"
         },
     ],
     "portugal": [
