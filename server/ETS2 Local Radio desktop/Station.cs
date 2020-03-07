@@ -191,6 +191,7 @@ namespace ETS2_Local_Radio_server
 
                             g.DrawImage(logo, (256 / 2) - (logoWidth / 2) + 645, (bmp.Height / 2) - (logoHeight / 2), logoWidth,
                                 logoHeight);
+                            logo.Dispose();
                         }
                         catch (Exception ex)
                         {
@@ -235,7 +236,6 @@ namespace ETS2_Local_Radio_server
                         Timer.Enabled = false;
                         Timer.Stop();
                         overlay.Hidden = true;
-                        Log.Write("Hide overlay");
                         CaptureProcess?.CaptureInterface.DrawOverlayInGame(
                             new Capture.Hook.Common.Overlay
                             {
