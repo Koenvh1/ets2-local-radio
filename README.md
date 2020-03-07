@@ -3,8 +3,8 @@ ETS2/ATS Local Radio plays radio from where you are, in ETS2. Feel the immersion
 and the Polish radio in Poland. It will switch automatically, while also allowing you to switch stations while driving.
 You can switch using the web interface, your keyboard, your controller and your mobile phone.
 
-ATS/ETS2 Local Radio contains over 3000 radio stations that you could realistically listen to if you were driving in that actual country.
-Most national radio stations are included; see the full list at the bottom of this page. 
+ATS/ETS2 Local Radio contains over 5000 radio stations that you could realistically listen to if you were driving in that actual area.
+Most national radio stations are included for ETS2; see the full list at the bottom of this page. 
 It does not include radio stations that you would not be able to receive over FM or DAB in that country, like TruckersFM.
 However, you can add those yourself if you so desire.
 
@@ -25,10 +25,10 @@ Not available in yours? [Translate it](https://koenvh.nl/translate). I will add 
 2. Extract it wherever you like
 3. Execute ETS2 Local Radio server.exe
 4. Click the "Install plugin for Euro Truck Simulator/American Truck Simulator" button.
-5. Open ATS/ETS2 Local Radio (or go to [http://localhost:8330](http://localhost:8330)) and have fun.
+5. Click Open ATS/ETS2 Local Radio and have fun.
 
+Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game.
 Additionally, you may want to look at the `web/config.js` file and set some additional settings to make the make your experience even better.
-Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game as well.
 
 Make a station favourite to always switch to that station when entering the country it's located in.
 

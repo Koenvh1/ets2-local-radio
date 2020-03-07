@@ -229,6 +229,7 @@
                 dataType: "script",
                 timeout: 3000
             }).done(function () {
+                $.getScript(g_api + "/custom.js");
                 initialise();
             }).fail(function () {
                 console.log("Failed loading cities");
