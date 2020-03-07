@@ -34,9 +34,6 @@ var g_darkThm = false;
 function initialise() {
     console.log("Start init");
 
-    var url = new URL(window.location);
-    g_api = url.searchParams.get("api") || "";
-
     $(document).ready(function () {
         document.getElementById("switchStation").volume = 0;
         document.getElementById("whitenoise").volume = 0;

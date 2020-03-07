@@ -195,14 +195,8 @@
 <div class="brightness"></div>
 <div id="snackbar" class="snackbar"></div>
 <script>
-    /*
-    var g_game = "ets2";
-    if(window.location.href.split("?").length > 1) {
-        if (window.location.href.split("?")[1].indexOf("ats") == 0){
-            g_game = "ats";
-        }
-    }
-    */
+    var url = new URL(window.location);
+    g_api = url.searchParams.get("api") || "";
 
     function loadScripts() {
         console.log("Start loading scripts");
