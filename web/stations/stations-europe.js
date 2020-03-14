@@ -913,6 +913,11 @@ var stations = {
             logo: "stations/images-europe/finland/Radio Suomipop.png",
             url: "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8"
         },
+        {
+            name: "Järviradio",
+            logo: "stations/images-europe/finland/Järviradio.png",
+            url: "https://jarviradio.radiotaajuus.fi:9000/jr"
+        },
         /*
         {
             name: "Radio Vaasa",
@@ -930,22 +935,22 @@ var stations = {
         {
             name: "France Inter",
             logo: "stations/images-europe/france/France Inter.png",
-            url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3?ID=f9fbk29m84"
+            url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
         },
         {
             name: "France Info",
             logo: "stations/images-europe/france/France Info.png",
-            url: "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3?ID=f9fbk29m84"
+            url: "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
         },
         {
             name: "France Musique",
             logo: "stations/images-europe/france/France Musique.png",
-            url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84"
+            url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
         },
         {
             name: "France Culture",
             logo: "stations/images-europe/france/France Culture.png",
-            url: "http://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=f9fbk29m84"
+            url: "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
         },
         {
             name: "Autoroute Info",
@@ -1035,9 +1040,18 @@ var stations = {
         {
             name: "Virgin Radio",
             logo: "stations/images-europe/france/Virgin Radio.png",
-            url: "https://ais-live.cloud-services.paris:8443/virgin.aac?aw_0_1st.playerid=lagardereWebVirgin"
+            url: "https://ais-live.cloud-services.paris:8443/virgin.aac"
         },
-
+        {
+            name: "Radio Scoop",
+            logo: "stations/images-europe/france/Radio Scoop.png",
+            url: "http://broadcast.infomaniak.net/radioscoop-lyon-128.mp3"
+        },
+        {
+            name: "Sud Radio",
+            logo: "stations/images-europe/france/Sud Radio.png",
+            url: "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"
+        },
     ],
     "georgia": [
         {
@@ -1278,7 +1292,7 @@ var stations = {
         {
             name: "89.0 RTL",
             logo: "stations/images-europe/germany-mdr/89.0 RTL.png",
-            url: "http://stream.89.0rtl.de/live/mp3-256/direktlinkHP/"
+            url: "http://stream.89.0rtl.de/live/mp3-256"
         },
         {
             name: "Antenne Thüringen",
@@ -2042,7 +2056,7 @@ var stations = {
         {
             name: "Авторадио",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
-            url: "http://95.56.234.40:8080/AVTORADIO_256?1548351534777.mp3"
+            url: "http://95.56.234.40:8080/AVTORADIO_256"
         },
         {
             name: "Radio NS",
@@ -2215,7 +2229,7 @@ var stations = {
         {
             name: "PowerHitRadio",
             logo: "stations/images-europe/lithuania/PowerHitRadio.svg",
-            url: "https://powerhit.ls.lv/PHR_AAC?nocache=0.9083007139556344"
+            url: "https://powerhit.ls.lv/PHR_AAC"
         },
         {
             name: "Pūkas",
@@ -2623,7 +2637,7 @@ var stations = {
         {
             name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
-            url: "eskago/eska-warszawa"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=eska-warszawa"
         },
         {
             name: "Radio Maryja",
@@ -2633,12 +2647,12 @@ var stations = {
         {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.jpg",
-            url: "eskago/radio-plus"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=radio-plus"
         },
         {
             name: "Radio WAWA",
             logo: "stations/images-europe/poland/Radio WAWA.png",
-            url: "eskago/wawa"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=wawa"
         },
         {
             name: "Radio ZET",
@@ -2680,7 +2694,7 @@ var stations = {
         {
             name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "eskago/vox-fm"
+            url: "https://koenvh.nl/inc/eskago-parser.php?station=vox-fm"
         },
     ],
     "portugal": [
@@ -2875,7 +2889,7 @@ var stations = {
         {
             name: "Радио ENERGY",
             logo: "stations/images-europe/russia/Радио ENERGY.png",
-            url: "http://ic2.101.ru:8000/v1_1"
+            url: "http://ic6.101.ru:8000/stream/air/aac/64/99"
         },
         {
             name: "Ретро FM",
@@ -3174,7 +3188,7 @@ var stations = {
         {
             name: "Star FM",
             logo: "stations/images-europe/sweden/Star FM.png",
-            url: "http://fm05-ice.stream.khz.se/fm05_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1557586936"
+            url: "https://starfm.babahhcdn.com/starfm"
         },
         {
             name: "Vinyl FM",
@@ -3459,6 +3473,11 @@ var stations = {
             name: "LBC",
             logo: "stations/images-europe/uk/LBC.png",
             url: "http://media-the.musicradio.com/LBCUK"
+        },
+        {
+            name: "LBC News",
+            logo: "stations/images-europe/uk/LBC News.png",
+            url: "http://media-ice.musicradio.com/LBCNewsUK"
         },
         {
             name: "Magic",
