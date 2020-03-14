@@ -12528,7 +12528,7 @@ var stations_c2c = {
     "bemidji": [
         {
             name: "Classical MPR",
-            logo: "stations/images-america/c2c/Classical MPR.svg",
+            logo: "stations/images-america/0_general_logos/Classical MPR.svg",
             url: "http://cms.stream.publicradio.org/cms.mp3"
         },
         {
@@ -12585,7 +12585,7 @@ var stations_c2c = {
         },
         {
             name: "Classical MPR",
-            logo: "stations/images-america/c2c/Classical MPR.svg",
+            logo: "stations/images-america/0_general_logos/Classical MPR.svg",
             url: "http://cms.stream.publicradio.org/cms.mp3"
         },
         {
@@ -12869,7 +12869,7 @@ var stations_c2c = {
         },
         {
             name: "Classical MPR",
-            logo: "stations/images-america/c2c/Classical MPR.svg",
+            logo: "stations/images-america/0_general_logos/Classical MPR.svg",
             url: "http://cms.stream.publicradio.org/cms.mp3"
         },
         {
@@ -13013,7 +13013,7 @@ var stations_c2c = {
     "worthington_mn": [
         {
             name: "Classical MPR",
-            logo: "stations/images-america/c2c/Classical MPR.svg",
+            logo: "stations/images-america/0_general_logos/Classical MPR.svg",
             url: "http://cms.stream.publicradio.org/cms.mp3"
         },
         {
@@ -19071,99 +19071,89 @@ var stations_c2c = {
     ],
     "sioux_falls": [
         {
-            name: "88.1 KRSD",
-            logo: "stations/images-america/c2c/88.1 KRSD.svg",
-            url: "http://cms.stream.publicradio.org/cms.mp3"
+            name: "88.1 Classical MPR",
+            logo: "stations/images-america/0_general_logos/Classical MPR.svg",
+            url: "https://cms.stream.publicradio.org/cms.aac"
         },
         {
-            name: "89.1 KAUR",
-            logo: "stations/images-america/c2c/89.1 KAUR.svg",
-            url: "http://nis.stream.publicradio.org/nis.mp3"
+            name: "89.1 MPR News",
+            logo: "stations/images-america/0_general_logos/MPR News.svg",
+            url: "https://nis.stream.publicradio.org/nis.aac"
         },
         {
-            name: "South Dakota Public Broadcasting",
-            logo: "stations/images-america/c2c/South Dakota Public Broadcasting.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFM.mp3"
+            name: "SDPB 90.9",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
         },
         {
             name: "Big Country 92.5",
-            logo: "stations/images-america/c2c/KTWBFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTWBFMAAC.aac"
+            logo: "stations/images-america/c2c/sioux_falls_sd/Big Country 92.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTWBFMAAC_SC"
         },
         {
-            name: "Q95.7",
-            logo: "stations/images-america/c2c/KQSFFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQSFFMAAC.aac"
+            name: "Sunny 93.3",
+            logo: "stations/images-america/c2c/sioux_falls_sd/Sunny 93.3.png",
+            url: "http://ice3.securenetsystems.net/KZOY"
         },
         {
-            name: "Life 96.5",
-            logo: "stations/images-america/c2c/KNWCFM.webp",
-            url: "http://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            name: "93.9 KSOU",
+            logo: "stations/images-america/c2c/sioux_falls_sd/93.9 KSOU.png",
+            url: "https://ice24.securenetsystems.net/KSOU"
         },
         {
             name: "Mix 97.3",
-            logo: "stations/images-america/c2c/Mix 97.3.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/Mix 97.3.png",
             url: "http://stream.abacast.net/direct/townsquare-kmxcfmaac-ibc3"
         },
         {
+            name: "Sports Radio 98.1",
+            logo: "stations/images-america/c2c/sioux_falls_sd/Sports Radio 98.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWSNAMAAC_SC"
+        },
+        {
             name: "ESPN 99.1",
-            logo: "stations/images-america/c2c/KSOOFM.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/ESPN 99.1.png",
             url: "http://stream.abacast.net/direct/townsquare-ksoofmaac-ibc3"
         },
         {
-            name: "KXRB",
-            logo: "stations/images-america/c2c/KXRB.png",
+            name: "KXRB 100.1",
+            logo: "stations/images-america/c2c/sioux_falls_sd/KXRB 100.1.png",
             url: "http://stream.abacast.net/direct/townsquare-kxrbamaac-ibc3"
         },
         {
             name: "Kickin' Country 100.5",
-            logo: "stations/images-america/c2c/KIKNFM.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/Kickin' Country 100.5.png",
             url: "http://stream.abacast.net/direct/townsquare-kiknfmaac-ibc3"
         },
         {
-            name: "101.9 KELO-FM",
-            logo: "stations/images-america/c2c/101.9 KELO-FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC.aac"
+            name: "101.9 KELO FM",
+            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KELOFM_SC"
         },
         {
-            name: "B 102.7",
-            logo: "stations/images-america/c2c/B 102.7.png",
+            name: "B102.7",
+            logo: "stations/images-america/c2c/sioux_falls_sd/B102.7.png",
             url: "http://stream.abacast.net/direct/townsquare-kybbfmaac-ibc3"
         },
         {
             name: "103.7 KRRO",
-            logo: "stations/images-america/c2c/KRROFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRROFMAAC.aac"
+            logo: "stations/images-america/c2c/sioux_falls_sd/103.7 KRRO.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRROFM_SC"
         },
         {
-            name: "Hot 104.7",
-            logo: "stations/images-america/c2c/KKLSFM.png",
+            name: "HOT 104.7",
+            logo: "stations/images-america/c2c/sioux_falls_sd/HOT 104.7.png",
             url: "http://stream.abacast.net/direct/townsquare-kklsfmaac-ibc3"
         },
         {
-            name: "KQAD",
-            logo: "stations/images-america/c2c/KQAD.png",
-            url: "http://stream.abacast.net/direct/alphamidwest-kqadamaac-ibc2"
+            name: "KELO 107.9",
+            logo: "stations/images-america/c2c/sioux_falls_sd/KELO 107.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KELOAM_SC"
         },
         {
-            name: "Information 1000 KSOO",
-            logo: "stations/images-america/c2c/Information 1000 KSOO.png",
+            name: "1000 KSOO",
+            logo: "stations/images-america/c2c/sioux_falls_sd/1000 KSOO.png",
             url: "http://stream.abacast.net/direct/townsquare-ksooamaac-ibc3"
-        },
-        {
-            name: "KWSN Sports Radio",
-            logo: "stations/images-america/c2c/KWSN.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWSNAMAAC.aac"
-        },
-        {
-            name: "KELO 1320 107.9",
-            logo: "stations/images-america/c2c/KELO 1320 107.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KELOAM.mp3"
-        },
-        {
-            name: "Sunny Radio 1520",
-            logo: "stations/images-america/c2c/Sunny Radio 1520.png",
-            url: "http://ice3.securenetsystems.net:80/KZOY"
         },
     ],
     "chattanooga": [
