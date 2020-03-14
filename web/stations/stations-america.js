@@ -19516,11 +19516,6 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCYQFMAAC_SC"
         },
         {
-            name: "100.3 The Wolf",
-            logo: "stations/images-america/c2c/knoxville_tn/100.3 The Wolf.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCYQFMAAC_SC"
-        },
-        {
             name: "Star 102.1",
             logo: "stations/images-america/c2c/knoxville_tn/Star 102.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWSTFMAAC_SC"
