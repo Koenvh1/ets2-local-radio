@@ -19183,11 +19183,6 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7079_32k.aac"
         },
         {
-            name: "Sunny 92.3",
-            logo: "stations/images-america/c2c/chattanooga_tn/Sunny 92.3.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WDEFFM_SC"
-        },
-        {
             name: "NoogaRadio 92.7",
             logo: "stations/images-america/c2c/chattanooga_tn/NoogaRadio 92.7.png",
             url: "http://s6.voscast.com:7162/;"
@@ -19213,24 +19208,9 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2_SC"
         },
         {
-            name: "Hits 96",
-            logo: "stations/images-america/c2c/chattanooga_tn/Hits 96.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WDODFM_SC"
-        },
-        {
-            name: "Q97.3",
-            logo: "stations/images-america/c2c/chattanooga_tn/Q97.3.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WUUQFM_SC"
-        },
-        {
             name: "98.1 The Lake",
             logo: "stations/images-america/c2c/chattanooga_tn/98.1 The Lake.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WLNDFM_SC"
-        },
-        {
-            name: "ALT 98.7",
-            logo: "stations/images-america/c2c/chattanooga_tn/ALT 98.7.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXCTAM_SC"
         },
         {
             name: "US 101",
@@ -19534,16 +19514,6 @@ var stations_c2c = {
             name: "Hot 104.5",
             logo: "stations/images-america/c2c/knoxville_tn/Hot 104.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKHTFMAAC_SC"
-        },
-        {
-            name: "Good Time 104.9",
-            logo: "stations/images-america/c2c/knoxville_tn/Good Time 104.9.png",
-            url: "https://ice66.securenetsystems.net/WTNQ"
-        },
-        {
-            name: "i105.3",
-            logo: "stations/images-america/c2c/knoxville_tn/i105.3.png",
-            url: "https://ice66.securenetsystems.net/WFIV"
         },
         {
             name: "Fanrun Radio 105.7",
