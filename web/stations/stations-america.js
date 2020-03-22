@@ -5671,6 +5671,11 @@ var stations = {
             url: "https://kunrstream.com:8443/live"
         },
 		{
+            name: "Rock 94.3",
+            logo: "stations/images-america/winnemucca/Rock 94.3.png",
+            url: "https://s20.myradiostream.com/16734/;"
+        },
+		{
             name: "Mix 102.7",
             logo: "stations/images-america/winnemucca/Mix 102.7.png",
             url: "https://s20.myradiostream.com/16732/;"
