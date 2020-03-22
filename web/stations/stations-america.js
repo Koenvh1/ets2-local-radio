@@ -150,6 +150,11 @@ var stations = {
             url: "https://c4.prod.playlists.ihrhls.com/1405_icy"
         },
         {
+            name: "94.5 The Pit",
+            logo: "stations/images-america/albuquerque/94.5 The Pit.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC_SC"
+        },
+        {
             name: "Hot 95.1",
             logo: "stations/images-america/albuquerque/Hot 95.1.png",
             url: "https://c4.prod.playlists.ihrhls.com/1393_icy"
@@ -3915,9 +3920,9 @@ var stations = {
             url: "https://c3.prod.playlists.ihrhls.com/4455_icy"
         },
         {
-            name: "La Tricolor 99.9/101.9",
-            logo: "stations/images-america/sacramento/La Tricolor 99.9_101.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRCXFMAAC.aac"
+            name: "José 101.9",
+            logo: "stations/images-america/sacramento/José 101.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNTYFM_SC"
         },
         {
             name: "102.5 KSFM",
