@@ -871,7 +871,7 @@ var stations = {
     "coos_bay": [
         {
             name: "JPR Rhythm & News 88.5",
-            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
@@ -1163,7 +1163,7 @@ var stations = {
         },
         {
             name: "JPR Rhythm & News 89.1",
-            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org/jpr-news"
         },
         {
@@ -1658,12 +1658,12 @@ var stations = {
     "hornbrook": [
         {
             name: "JPR Rhythm & News 89.1",
-            logo: "stations/images-america/hornbrook/Jefferson Public Radio 89.1.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org/jpr-rhythm"
         },
         {
             name: "JPR Classics & News 91.3",
-            logo: "stations/images-america/hornbrook/Jefferson Public Radio 89.1.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org/jpr-classics"
         },
         {
@@ -2022,7 +2022,7 @@ var stations = {
         },
         {
             name: "JPR Rhythm & News 90.9",
-            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
@@ -2561,12 +2561,12 @@ var stations = {
     "medford": [
         {
             name: "JPR Classics & News 88.3",
-            logo: "stations/images-america/c2c/JPR Classics & News.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org:80/jpr-classics"
         },
         {
             name: "JPR Rhythm & News 89.1",
-            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
@@ -3623,7 +3623,7 @@ var stations = {
         },
         {
             name: "JPR Rhythm & News 89.7",
-            logo: "stations/images-america/c2c/JPR Rhythm & News.png",
+            logo: "stations/images-america/0_general_logos/JPR.png",
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
