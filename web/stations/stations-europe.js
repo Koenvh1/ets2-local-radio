@@ -1003,6 +1003,11 @@ var stations = {
             url: "http://radiofg.impek.com/fg.mp3"
         },
         {
+            name: "Radio Scoop",
+            logo: "stations/images-europe/france/Radio Scoop.png",
+            url: "http://broadcast.infomaniak.net/radioscoop-lyon-128.mp3"
+        },
+        {
             name: "Radio Vinci Autoroutes",
             logo: "stations/images-europe/france/Radio Vinci Autoroutes.gif",
             url: "http://str0.creacast.com/radio_vinci_autoroutes_6"
@@ -1038,19 +1043,14 @@ var stations = {
             url: "http://icecast.skyrock.net/s/natio_mp3_128k"
         },
         {
-            name: "Virgin Radio",
-            logo: "stations/images-europe/france/Virgin Radio.png",
-            url: "https://ais-live.cloud-services.paris:8443/virgin.aac"
-        },
-        {
-            name: "Radio Scoop",
-            logo: "stations/images-europe/france/Radio Scoop.png",
-            url: "http://broadcast.infomaniak.net/radioscoop-lyon-128.mp3"
-        },
-        {
             name: "Sud Radio",
             logo: "stations/images-europe/france/Sud Radio.png",
             url: "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"
+        },
+        {
+            name: "Virgin Radio",
+            logo: "stations/images-europe/france/Virgin Radio.png",
+            url: "https://ais-live.cloud-services.paris:8443/virgin.aac"
         },
     ],
     "georgia": [
