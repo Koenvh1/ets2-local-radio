@@ -4819,11 +4819,6 @@ var stations = {
             url: "https://c6.prod.playlists.ihrhls.com/77_icy"
         },
         {
-            name: "94.9 MIXfm",
-            logo: "stations/images-america/tucson/94.9 MIXfm.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFMAAC_SC"
-        },
-        {
             name: "K101",
             logo: "stations/images-america/sierra_vista/K101.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kzmkfmaac-ibc4"
@@ -5322,11 +5317,6 @@ var stations = {
             url: "http://shoutcast.kvan.fm:8000/radio/;type=mp3"
         },
         {
-            name: "La Caliente 92.1",
-            logo: "stations/images-america/tucson/KCMT La Caliente 92.1.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFMAAC_SC"
-        },
-        {
             name: "My 92.9",
             logo: "stations/images-america/tucson/My 92.9.png",
             url: "http://c6icyelb.prod.playlists.ihrhls.com/65_icy"
@@ -5335,31 +5325,6 @@ var stations = {
             name: "93.7 KRQ",
             logo: "stations/images-america/tucson/93.7 KRQ.png",
             url: "https://c6.prod.playlists.ihrhls.com/77_icy"
-        },
-        {
-            name: "La Buena 94.3",
-            logo: "stations/images-america/tucson/La Buena 94.3.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KTKTFMAAC_SC"
-        },
-        {
-            name: "94.9 MIXfm",
-            logo: "stations/images-america/tucson/94.9 MIXfm.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFMAAC_SC"
-        },
-        {
-            name: "Pure Alt 94.9-HD2",
-            logo: "stations/images-america/tucson/Pure Alt 94.9-HD2.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC_SC"
-        },
-        {
-            name: "96.1 KLPX",
-            logo: "stations/images-america/tucson/96.1 KLPX.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLPXFMAAC_SC"
-        },
-        {
-            name: "96.1 KLPX-HD2",
-            logo: "stations/images-america/tucson/96.1 KLPX-HD2.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLPXH2FMAAC_SC"
         },
         {
             name: "97.1 Bull",
@@ -5379,17 +5344,12 @@ var stations = {
         {
             name: "KIIM 99.5",
             logo: "stations/images-america/tucson/KIIM-FM 99.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIIMFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIIMFM_SC"
         },
         {
             name: "KMKR 99.9",
             logo: "stations/images-america/tucson/KMKR 99.9 FM.png",
             url: "http://ls1.int.live365.net:8000/a25079_live"
-        },
-        {
-            name: "Rock 102.1",
-            logo: "stations/images-america/tucson/Rock 102.1 KFMA.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFMAAC_SC"
         },
         {
             name: "106.3 The Groove",
