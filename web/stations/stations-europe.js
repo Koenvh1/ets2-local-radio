@@ -131,7 +131,7 @@ var stations = {
         {
             name: "Radio 88.6",
             logo: "stations/images-europe/austria/Radio 88.6.png",
-            url: "http://xapp2450489345c1000321.f.l.i.lb.core-cdn.net/1000321copo/live/app2450489345/w2445344770/live_de_96.mp3"
+            url: "https://radio886.fluidstream.eu/886_live.mp3"
         },
         {
             name: "Welle 1 (Salzburg)",
@@ -514,7 +514,7 @@ var stations = {
         {
             name: "Otvoreni radio",
             logo: "stations/images-europe/croatia/Otvoreni radio.png",
-            url: "http://192.240.102.133:12018/;"
+            url: "http://proxima.shoutca.st:8357/;"
         },
     ],
     "cyprus": [
@@ -670,11 +670,6 @@ var stations = {
             name: "DR P6 Beat",
             logo: "stations/images-europe/denmark/DR P6 Beat.png",
             url: "http://live-icy.gss.dr.dk:8000/A/A29H.mp3"
-        },
-        {
-            name: "DR P7 Mix",
-            logo: "stations/images-europe/denmark/DR P7 Mix.png",
-            url: "http://live-icy.gss.dr.dk:8000/A/A21H.mp3"
         },
         {
             name: "DR P8 Jazz",
@@ -965,7 +960,7 @@ var stations = {
         {
             name: "Europe 1",
             logo: "stations/images-europe/france/Europe 1.png",
-            url: "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"
+            url: "http://ais-live.cloud-services.paris:8000/europe1.mp3?aw_0_1st.playerid=lgrdrnwsTuneInE1"
         },
         {
             name: "Fun Radio",
@@ -1015,7 +1010,7 @@ var stations = {
         {
             name: "RFM",
             logo: "stations/images-europe/france/RFM.png",
-            url: "http://rfm-live-mp3-64.scdn.arkena.com/rfm.mp3"
+            url: "https://ais-live.cloud-services.paris:8443/rfm.aac"
         },
         {
             name: "Rire et Chansons",
@@ -1389,7 +1384,7 @@ var stations = {
         {
             name: "Ostseewelle Hit-Radio",
             logo: "stations/images-europe/germany-ndr/Ostseewelle Hit-Radio.png",
-            url: "http://edge.live.mp3.mdn.newmedia.nacamar.net/ostseewellelive/livestream.mp3"
+            url: "http://ostseewelle-ais-edge-3006.fra-eco.cdn.addradio.net/ostseewelle/nord/mp3/high"
         },
         {
             name: "Radio 21",
@@ -2815,7 +2810,7 @@ var stations = {
         {
             name: "Авторадио",
             logo: "stations/images-europe/russia/Авторадио.png",
-            url: "http://ic3.101.ru:8000/a100?userid=0&setst=2114a25da20608305fec7be15d6eeb72"
+            url: "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_tz_0"
         },
         {
             name: "Детское Радио",
@@ -3158,7 +3153,7 @@ var stations = {
         {
             name: "Bandit Rock",
             logo: "stations/images-europe/sweden/Bandit Rock.png",
-            url: "http://fm02-icecast.mtg-r.net/fm02_mp3?platform=web"
+            url: "http://fm02-ice.stream.khz.se/fm02_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1585237179"
         },
         {
             name: "Lugna Favoriter",
