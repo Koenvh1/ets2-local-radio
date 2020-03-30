@@ -20163,7 +20163,7 @@ var stations_c2c = {
         {
             name: "V101.1",
             logo: "stations/images-america/c2c/memphis_tn/V101.1.png",
-            url: "https://c5icy.prod.playlists.ihrhls.com/2121_icy"
+            url: "https://ample.revma.ihrhls.com/zc2121/6_ar3ta5u2sucb02/playlist.m3u8"
         },
         {
             name: "101.9 KISS FM",
