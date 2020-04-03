@@ -15598,78 +15598,73 @@ var stations_c2c = {
     ],
     "asheville_nc": [
         {
-            name: "88.1 WCQS",
-            logo: "stations/images-america/c2c/88.1 WCQS.png",
-            url: "http://stream.abacast.net/direct/wncpr-wcqshd2mp3-icy2"
-        },
-        {
-            name: "88.1 WCQS HD2 BPR News",
-            logo: "stations/images-america/c2c/88.1 WCQS HD2 BPR News.png",
+            name: "BPR Classic 88.1",
+            logo: "stations/images-america/c2c/asheville_nc/Blue Ridge Public Radio.png",
             url: "http://stream.abacast.net/direct/wncpr-wcqshd1mp3-icy2"
         },
         {
-            name: "ESPN",
-            logo: "stations/images-america/c2c/WPEK.png",
+            name: "BPR News 88.1-HD2",
+            logo: "stations/images-america/c2c/asheville_nc/Blue Ridge Public Radio.png",
+            url: "http://stream.abacast.net/direct/wncpr-wcqshd2mp3-icy2"
+        },
+        {
+            name: "WNCW 88.7",
+            logo: "stations/images-america/c2c/greenville_sc/WNCW 101.3.png",
+            url: "http://audio-mp3.ibiblio.org:8000/wncw-128k"
+        },
+        {
+            name: "92.5 WESC",
+            logo: "stations/images-america/c2c/asheville_nc/92.5 WESC.png",
+            url: "https://ample.revma.ihrhls.com/zc2097/35_u459sn4ez41202/playlist.m3u8"
+        },
+        {
+            name: "92.9 ESPN",
+            logo: "stations/images-america/c2c/asheville_nc/92.9 ESPN.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1581_icy"
         },
         {
-            name: "WTZQ",
-            logo: "stations/images-america/c2c/WTZQ.png",
-            url: "http://wtzq.streamon.fm:8000/WTZQ-24k.aac"
-        },
-        {
             name: "97.7 The Brew",
-            logo: "stations/images-america/c2c/WKSFHD2.png",
+            logo: "stations/images-america/c2c/asheville_nc/97.7 The Brew.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/6626_icy"
         },
         {
-            name: "98.1 The River",
-            logo: "stations/images-america/c2c/WOXLHD2.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WOXLHD2AAC.aac"
-        },
-        {
             name: "99.9 Kiss Country",
-            logo: "stations/images-america/c2c/WKSFFM.png",
+            logo: "stations/images-america/c2c/asheville_nc/99.9 Kiss Country.png",
             url: "https://c11icy.prod.playlists.ihrhls.com/1577_icy"
         },
         {
-            name: "Rewind 100.3",
-            logo: "stations/images-america/c2c/WTMTHD2.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTMTHD2.mp3"
-        },
-        {
-            name: "Alt 101.1",
-            logo: "stations/images-america/c2c/WKSFHD3.png",
+            name: "ALT 101.1",
+            logo: "stations/images-america/c2c/asheville_nc/ALT 101.1.png",
             url: "https://c14icy.prod.playlists.ihrhls.com/7870_icy"
         },
         {
-            name: "Q 102",
-            logo: "stations/images-america/c2c/WSQL.jpg",
-            url: "http://janus.cdnstream.com:9000/;"
+            name: "101.5 WQUT",
+            logo: "stations/images-america/c2c/kingsport_tn/101.5 WQUT.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQUTFMAAC_SC"
+        },
+        {
+            name: "103.3 Asheville FM",
+            logo: "stations/images-america/c2c/asheville_nc/103.3 Asheville FM.png",
+            url: "http://192.99.35.215:5239/studio"
+        },
+        {
+            name: "WPVM 103.7",
+            logo: "stations/images-america/c2c/asheville_nc/WPVM 103.7.png",
+            url: "https://stream.wpvmfm.org:8101/;"
         },
         {
             name: "Star 104.3",
-            logo: "stations/images-america/c2c/WQNQFM.png",
+            logo: "stations/images-america/c2c/asheville_nc/Star 104.3.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1585_icy"
         },
         {
             name: "Rock 105.1",
-            logo: "stations/images-america/c2c/Rock 105.1.png",
+            logo: "stations/images-america/c2c/asheville_nc/Rock 105.1.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1589_icy"
         },
         {
-            name: "105.9 WTMT The Mountain Rocks",
-            logo: "stations/images-america/c2c/105.9 WTMT The Mountain Rocks.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTMTFM.mp3"
-        },
-        {
-            name: "540 WRGC The River",
-            logo: "stations/images-america/c2c/540 WRGC The River.png",
-            url: "http://ice24.securenetsystems.net/WRGC"
-        },
-        {
-            name: "News Radio 570 WWNC",
-            logo: "stations/images-america/c2c/News Radio 570 WWNC.png",
+            name: "570 WWNC",
+            logo: "stations/images-america/c2c/asheville_nc/570 WWNC.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1593_icy"
         },
     ],
