@@ -607,7 +607,7 @@ var stations = {
         {
             name: "Evropa 2",
             logo: "stations/images-europe/czech/Evropa 2.png",
-            url: "http://icecast3.play.cz:80/evropa2-128.mp3"
+            url: "https://20043.live.streamtheworld.com/EVROPA2AAC.aac"
         },
         {
             name: "Fajn Radio",
@@ -3158,7 +3158,7 @@ var stations = {
         {
             name: "Lugna Favoriter",
             logo: "stations/images-europe/sweden/Lugna Favoriter.png",
-            url: "http://fm03-icecast.mtg-r.net/fm03_mp3?platform=web"
+            url: "https://fm03-ice.stream.khz.se/fm03_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1586011230"
         },
         {
             name: "Mix Megapol",
