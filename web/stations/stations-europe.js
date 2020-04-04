@@ -2763,7 +2763,7 @@ var stations = {
         {
             name: "Kiss FM",
             logo: "stations/images-europe/romania/Kiss FM.png",
-            url: "http://80.86.106.143:9128/kissfm.aacp"
+            url: "https://live.kissfm.ro/kissfm.aacp"
         },
         {
             name: "Național FM",
@@ -2783,7 +2783,7 @@ var stations = {
         {
             name: "Radio Zu",
             logo: "stations/images-europe/romania/Radio Zu.png",
-            url: "http://live.romanticfm.ro:9123/radiozu.aacp"
+            url: "https://live2ro.antenaplay.ro/radiozu/radiozu-48000.m3u8"
         },
         {
             name: "Virgin Radio",
