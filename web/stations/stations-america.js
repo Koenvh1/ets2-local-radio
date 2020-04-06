@@ -15549,11 +15549,6 @@ var stations_c2c = {
             url: "http://wcny-ice.streamguys.com/Jazz"
         },
         {
-            name: "Jazz 91.3-HD3",
-            logo: "stations/images-america/c2c/syracuse_ny/Jazz 91.3-HD3.png",
-            url: "http://wcny-ice.streamguys.com/Jazz"
-        },
-        {
             name: "93Q",
             logo: "stations/images-america/c2c/syracuse_ny/93Q.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNTQFMAAC_SC"
