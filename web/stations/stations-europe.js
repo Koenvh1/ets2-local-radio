@@ -852,6 +852,11 @@ var stations = {
             url: "https://stream.bauermedia.fi/iskelma/iskelma_64.aac"
         },
         {
+            name: "Järviradio",
+            logo: "stations/images-europe/finland/Järviradio.png",
+            url: "https://jarviradio.radiotaajuus.fi:9000/jr"
+        },
+        {
             name: "Kiss",
             logo: "stations/images-europe/finland/Kiss.png",
             url: "https://stream.bauermedia.fi/kiss/kiss_64.aac"
@@ -886,7 +891,7 @@ var stations = {
         {
             name: "Radio Nostalgia",
             logo: "stations/images-europe/finland/Radio Nostalgia.png",
-            url: "http://cdn.nrjaudio.fm/adwz1/fi/35059/mp3_128.mp3"
+            url: "http://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3"
         },
         {
             name: "Radio Nova",
@@ -907,11 +912,6 @@ var stations = {
             name: "Radio Suomipop",
             logo: "stations/images-europe/finland/Radio Suomipop.png",
             url: "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8"
-        },
-        {
-            name: "Järviradio",
-            logo: "stations/images-europe/finland/Järviradio.png",
-            url: "https://jarviradio.radiotaajuus.fi:9000/jr"
         },
         /*
         {
