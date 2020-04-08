@@ -3107,7 +3107,7 @@ var stations = {
         },
         {
             name: "KWSS 93.9",
-            logo: "stations/images-america/phoenix/KWSS.png",
+            logo: "stations/images-america/phoenix/KWSS 93.9.png",
             url: "http://38.130.230.71:9990/;"
         },
         {
@@ -3231,7 +3231,7 @@ var stations = {
         },
         {
             name: "KONP 101.7",
-            logo: "stations/images-america/port_angeles/Newsradio KONP 101.7 FM.png",
+            logo: "stations/images-america/port_angeles/KONP 101.7.png",
             url: "https://crystalout.surfernetwork.com:8001/KONP_MP3"
         },
         {
@@ -3409,7 +3409,7 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KWSA"
         },
         {
-            name: "Z104 106.3",
+            name: "Z104",
             logo: "stations/images-america/salt_lake/Z104.png",
             url: "http://ice7.securenetsystems.net/KSOPFM"
         },
@@ -3537,7 +3537,7 @@ var stations = {
             url: "http://ice24.securenetsystems.net/KTHU"
         },
         {
-            name: "104.3 K-SHASTA",
+            name: "104.3 K-Shasta",
             logo: "stations/images-america/redding/104.3 K-Shasta.png",
             url: "https://ice5.securenetsystems.net/KSHA"
         },
@@ -3590,7 +3590,7 @@ var stations = {
         },
         {
             name: "K-BULL 98.1",
-            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
+            logo: "stations/images-america/carson_city/K-Bull 98.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
@@ -3615,12 +3615,12 @@ var stations = {
         },
         {
             name: "KTHO 590",
-            logo: "stations/images-america/carson_city/KTHO Radio 590 AM.jpg",
+            logo: "stations/images-america/carson_city/KTHO 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
             name: "780 KOH",
-            logo: "stations/images-america/reno/KOH 780 AM.png",
+            logo: "stations/images-america/reno/780 KOH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
         },
     ],
@@ -3806,7 +3806,7 @@ var stations = {
     "salem": [
         {
             name: "KMUZ 88.5",
-            logo: "stations/images-america/salem/Community Radio KMUZ 88.5 FM.png",
+            logo: "stations/images-america/salem/KMUZ 88.5.png",
             url: "http://sc7.shoutcaststreaming.us:8010/;"
         },
         {
@@ -3890,7 +3890,7 @@ var stations = {
         },
         {
             name: "kuer 90.1-HD2",
-            logo: "stations/images-america/salt_lake/KUER 90.1-HD2.png",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png.png",
             url: "https://audio.kuer.org/kuer2high"
         },
         {
@@ -4124,7 +4124,7 @@ var stations = {
         },
         {
             name: "95.5 KHFM",
-            logo: "stations/images-america/santa_fe/KHFM.png",
+            logo: "stations/images-america/santa_fe/95.5 KHFM.png",
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
@@ -4206,7 +4206,7 @@ var stations = {
         },
         {
             name: "KCBX 90.1",
-            logo: "stations/images-america/santa_maria/KCBX 90.1 FM.png",
+            logo: "stations/images-america/santa_maria/KCBX 90.1.png",
             url: "https://kcbx-ice.streamguys1.com/kcbx-hi"
         },
         {
@@ -4283,7 +4283,7 @@ var stations = {
         },
         {
             name: "96.1 The Answer",
-            logo: "stations/images-america/san_diego/96.1 and 1170 The Answer.png",
+            logo: "stations/images-america/san_diego/96.1 The Answer.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
         },
         {
@@ -4328,12 +4328,12 @@ var stations = {
         },
         {
             name: "600 KOGO",
-            logo: "stations/images-america/san_diego/Newsradio 600 KOGO.png",
+            logo: "stations/images-america/san_diego/600 KOGO.png",
             url: "https://c13.prod.playlists.ihrhls.com/257_icy"
         },
         {
-            name: "XTRA 1360 Fox Sports San Diego",
-            logo: "stations/images-america/san_diego/XTRA 1360 Fox Sports San Diego.png",
+            name: "XTRA 1360",
+            logo: "stations/images-america/san_diego/XTRA 1360.png",
             url: "https://c13.prod.playlists.ihrhls.com/249_icy"
         },
     ],
@@ -4458,8 +4458,8 @@ var stations = {
     ],
     "san_simon": [
         {
-            name: "The Drive AM830",
-            logo: "stations/images-america/san_simon/The Drive AM830.png",
+            name: "The Drive 101.7",
+            logo: "stations/images-america/san_simon/The Drive 101.7.png",
             url: "https://ice5.securenetsystems.net/KDRI"
         },
     ],
@@ -4630,14 +4630,14 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAMAAC_SC"
         },
         {
-            name: "KITI 1420",
-            logo: "stations/images-america/seattle/KITI 1420.png",
+            name: "1420 KITI",
+            logo: "stations/images-america/seattle/1420 KITI.png",
             url: "https://live.wostreaming.net/manifest/premierbroadcasters-kitiamaac-ibc1"
         },
         {
             name: "KXA 1520",
-            logo: "stations/images-america/seattle/KXA 1520.png",
-            url: "http://www.ophanim.net:9410/stream"
+            logo: "stations/images-america/everett/KXA 101.1.png",
+            url: "http://www.ophanim.net:9410/live"
         },
     ],
     "show_low": [
@@ -4700,7 +4700,7 @@ var stations = {
         },
         {
             name: "KTAN 1420",
-            logo: "stations/images-america/sierra_vista/KTAN 1420 AM.png",
+            logo: "stations/images-america/sierra_vista/KTAN 1420.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-ktanamaac-ibc4"
         },
     ],
@@ -4729,17 +4729,17 @@ var stations = {
         },
         {
             name: "PRX Remix 90.3",
-            logo: "stations/images-america/spokane/KPBZ 90.3 - PRX Remix.png",
+            logo: "stations/images-america/spokane/PRX Remix 90.3.png",
             url: "https://tektite.streamguys1.com:5012/KPBZ-mp3"
         },
         {
             name: "KPBX 91.1",
-            logo: "stations/images-america/spokane/KPBX 91.1 - Spokane Public Radio.png",
+            logo: "stations/images-america/spokane/Spokane Public Radio.png",
             url: "https://tektite.streamguys1.com:5012/KPBX-mp3"
         },
         {
             name: "KSFC 91.9",
-            logo: "stations/images-america/spokane/KSFC 91.9 - Spokane Public Radio.png",
+            logo: "stations/images-america/spokane/Spokane Public Radio.png",
             url: "https://tektite.streamguys1.com:5012/KSFC-mp3"
         },
         {
@@ -4798,6 +4798,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLYFMAAC_SC"
         },
         {
+            name: "KXLY 100.7",
+            logo: "stations/images-america/spokane/KXLY 100.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLYAMAAC_SC"
+        },
+        {
             name: "Key 101",
             logo: "stations/images-america/spokane/Key 101 FM.png",
             url: "https://ice6.securenetsystems.net/KEYF"
@@ -4828,6 +4833,11 @@ var stations = {
             url: "http://147.135.84.28/keeh-fm"
         },
         {
+            name: "ESPN 105.3",
+            logo: "stations/images-america/spokane/ESPN 105.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
+        },
+        {
             name: "105.7 NOW FM",
             logo: "stations/images-america/spokane/105.7 Now FM.png",
             url: "https://ice6.securenetsystems.net/KZBD"
@@ -4836,16 +4846,6 @@ var stations = {
             name: "590 KQNT",
             logo: "stations/images-america/spokane/590 KQNT.png",
             url: "https://c7.prod.playlists.ihrhls.com/4952_icy"
-        },
-        {
-            name: "700 ESPN",
-            logo: "stations/images-america/spokane/700 ESPN.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
-        },
-        {
-            name: "News Radio 920",
-            logo: "stations/images-america/spokane/News Radio 920.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXLYAMAAC_SC"
         },
     ],
     "st_george": [
@@ -4861,7 +4861,7 @@ var stations = {
         },
         {
             name: "KDXU 94.9",
-            logo: "stations/images-america/st_george/News Radio KDXU 94.9.png",
+            logo: "stations/images-america/st_george/KDXU 94.9.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kdxuamaac-ibc4"
         },
         {
@@ -4880,8 +4880,8 @@ var stations = {
             url: "http://ice10.securenetsystems.net/KRQX"
         },
         {
-            name: "99.9 KONY Country",
-            logo: "stations/images-america/st_george/99.9 KONY Country.png",
+            name: "99.9 KONY",
+            logo: "stations/images-america/st_george/99.9 KONY.png",
             url: "https://ice10.securenetsystems.net/KONY2"
         },
         {
@@ -5042,7 +5042,7 @@ var stations = {
     "the_dalles": [
         {
             name: "All Classical 88.1",
-            logo: "stations/images-america/the_dalles/All Classical 88.1 FM.png",
+            logo: "stations/images-america/the_dalles/All Classical 88.1.png",
             url: "https://allclassical-ice.streamguys.com/ac96kmp3"
         },
         {
@@ -5061,8 +5061,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMSWFMAAC_SC"
         },
         {
-            name: "KACI FM 93.5",
-            logo: "stations/images-america/the_dalles/KACI FM 93.5.png",
+            name: "KACI 93.5",
+            logo: "stations/images-america/the_dalles/KACI 93.5.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KACIFMAAC_SC"
         },
         {
@@ -5071,7 +5071,7 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KCGBFMAAC_SC"
         },
         {
-            name: "107.3 The Beat - 103.1",
+            name: "The Beat 103.1",
             logo: "stations/images-america/the_dalles/107.3 The Beat.png",
             url: "http://209.95.35.49:7004/stream"
         },
@@ -5087,7 +5087,7 @@ var stations = {
         },
         {
             name: "KLCK 1400",
-            logo: "stations/images-america/the_dalles/KLCK 1400 AM.png",
+            logo: "stations/images-america/the_dalles/KLCK 1400.png",
             url: "http://stream1.haystackbroadcasting.com:8004/;"
         },
     ],
@@ -5218,7 +5218,7 @@ var stations = {
         },
         {
             name: "KIIM 99.5",
-            logo: "stations/images-america/tucson/KIIM-FM 99.5.png",
+            logo: "stations/images-america/tucson/KIIM 99.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIIMFM_SC"
         },
         {
@@ -5256,30 +5256,30 @@ var stations = {
             url: "http://kzyx.mcn.org:4000/kzyxlive"
         },
         {
-            name: "Max 93.5 FM",
-            logo: "stations/images-america/ukiah/Max 93.5 FM.jpg",
+            name: "Max 93.5",
+            logo: "stations/images-america/ukiah/Max 93.5.jpg",
             url: "http://crystalout.surfernetwork.com:8001/KMKX-FM_MP3"
         },
         {
             name: "94.5 K-Wine",
-            logo: "stations/images-america/ukiah/94.5 K-Wine.jpg",
+            logo: "stations/images-america/ukiah/94.5 K-Wine.png",
             url: "http://crystalout.surfernetwork.com:8001/KWNE-FM_MP3"
         },
         {
             name: "The Coast 95.3",
-            logo: "stations/images-america/ukiah/The Coast.png",
+            logo: "stations/images-america/ukiah/The Coast 95.3.png",
             url: "https://live.wostreaming.net/direct/caradio-koztfmmp3-ibc3"
         },
         {
-            name: "The Skunk FM 96.7",
-            logo: "stations/images-america/ukiah/The Skunk FM 96.7.png",
+            name: "The Skunk 96.7",
+            logo: "stations/images-america/ukiah/The Skunk 96.7.png",
             url: "http://streaming.rubinbroadcasting.com/kunk"
         },
     ],
     "vancouver": [
         {
             name: "KXRW 99.9",
-            logo: "stations/images-america/vancouver/KXRW 99.9 FM.png",
+            logo: "stations/images-america/vancouver/KXRW 99.9.png",
             url: "http://listen.xray.fm:8000/stream"
         },
     ],
@@ -5306,7 +5306,7 @@ var stations = {
         },
         {
             name: "KVEL 104.5",
-            logo: "stations/images-america/vernal/Newstalk KVEL 104.5.png",
+            logo: "stations/images-america/vernal/KVEL 104.5.png",
             url: "https://live.leanstream.co/KVELAM"
         },
         {
@@ -5316,7 +5316,7 @@ var stations = {
         },
         {
             name: "KNEU 1250",
-            logo: "stations/images-america/vernal/KNEU AM 1250.png",
+            logo: "stations/images-america/vernal/KNEU 1250.png",
             url: "http://media2.stratanet.com:1935/kneu/mylivestream_aac/playlist.m3u8"
         },
     ],
@@ -5368,7 +5368,7 @@ var stations = {
         },
         {
             name: "KORE-LP 105.9",
-            logo: "stations/images-america/wenatchee/KORE-LP FM 105.9.png",
+            logo: "stations/images-america/wenatchee/KORE-LP 105.9.png",
             url: "https://streams.radio.co/s46e7c30d5/listen"
         },
         {
@@ -5378,7 +5378,7 @@ var stations = {
         },
         {
             name: "560 KPQ",
-            logo: "stations/images-america/wenatchee/NewsRadio 560 KPQ.png",
+            logo: "stations/images-america/wenatchee/560 KPQ.png",
             url: "http://stream.abacast.net/direct/cherrycreek-kpqamaac-ibc4"
         },
         {
@@ -5421,11 +5421,6 @@ var stations = {
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
-            name: "KDNA 91.9",
-            logo: "stations/images-america/yakima/Radio KDNA 91.9 FM.png",
-            url: "http://peridot.streamguys.com:5620/kdna-mp3"
-        },
-        {
             name: "92.9 The Bull",
             logo: "stations/images-america/yakima/92.9 The Bull.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kdblfmaac-ibc3"
@@ -5436,12 +5431,12 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-katsfmaac-ibc3"
         },
         {
-            name: "Mega 99.3",
+            name: "MEGA 99.3",
             logo: "stations/images-america/yakima/Mega 99.3.png",
             url: "http://stream.abacast.net/direct/townsquare-kmgwfmaac-ibc3"
         },
         {
-            name: "Hot 99.7",
+            name: "HOT 99.7",
             logo: "stations/images-america/yakima/Hot 99.7.png",
             url: "https://ice5.securenetsystems.net/KHHK"
         },
@@ -5461,8 +5456,8 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KRSE"
         },
         {
-            name: "Big 106.1",
-            logo: "stations/images-america/yakima/Big 106.1.png",
+            name: "BIG 106.1",
+            logo: "stations/images-america/yakima/BIG 106.1.png",
             url: "https://ice9.securenetsystems.net/KHHKHD2"
         },
         {
@@ -5477,7 +5472,7 @@ var stations = {
         },
         {
             name: "KIT 1280",
-            logo: "stations/images-america/yakima/News Talk KIT 1280.png",
+            logo: "stations/images-america/yakima/KIT 1280.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kitamaac-ibc3"
         },
     ],
@@ -5490,7 +5485,7 @@ var stations = {
         {
             name: "Los 40",
             logo: "stations/images-america/yuma/Los 40.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC"
         },
         {
             name: "Manantial FM 91.9",
@@ -5500,11 +5495,11 @@ var stations = {
         {
             name: "Z93",
             logo: "stations/images-america/yuma/Z93.png",
-            url: "http://keithz931.primcast.com:7976/;stream.mp3"
+            url: "http://keithz931.primcast.com:7976/;"
         },
         {
-            name: "Border Radio 94.7 FM",
-            logo: "stations/images-america/yuma/Border Radio 94.7 FM.png",
+            name: "KOFA 94.7",
+            logo: "stations/images-america/yuma/KOFA 94.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
         },
         {
