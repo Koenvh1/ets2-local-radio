@@ -15521,7 +15521,7 @@ var stations_c2c = {
         {
             name: "Classic FM 91.3",
             logo: "stations/images-america/c2c/syracuse_ny/Classic FM 91.3.png",
-            url: "http://50.31.185.133/classical-fm-hq"
+            url: "http://wcny-ice.streamguys.com/classical-fm-hq"
         },
         {
             name: "Oldies 91.3-HD2",
@@ -15614,11 +15614,6 @@ var stations_c2c = {
             name: "WRVO 91.9",
             logo: "stations/images-america/c2c/utica_ny/WRVO.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM_SC"
-        },
-        {
-            name: "92.7 The Drive",
-            logo: "stations/images-america/c2c/utica_ny/92.7 The Drive.png",
-            url: "http://ice6.securenetsystems.net:80/WXUR"
         },
         {
             name: "94.9 KROCK",
@@ -17525,7 +17520,7 @@ var stations_c2c = {
             url: "https://c7icy.prod.playlists.ihrhls.com/2764_icy"
         },
         {
-            name: "24/7 Comedy 93.3-HD2",
+            name: "24-7 Comedy 93.3-HD2",
             logo: "stations/images-america/c2c/youngstown_oh/247 Comedy 93.3-HD2.png",
             url: "https://ample.revma.ihrhls.com/zc4902/33_11wvfg1h0sjbz02/playlist.m3u8"
         },
@@ -25193,7 +25188,7 @@ var stations_canadream = {
         {
             name: "jump! 106.9",
             logo: "stations/images-america/canadream/ottawa/jump! 106.9.png",
-            url: "https://live.leanstream.co/CKQBFM"
+            url: "https://corus.leanstream.co/CKQBFM"
         },
         {
             name: "CKDJ 107.9",
