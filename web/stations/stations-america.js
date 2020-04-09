@@ -14795,78 +14795,98 @@ var stations_c2c = {
     ],
     "binghamton": [
         {
-            name: "89.3 WSKG",
-            logo: "stations/images-america/c2c/89.3 WSKG.png",
-            url: "http://peace.str3am.com:7070/wskg"
+            name: "WSKG 89.3",
+            logo: "stations/images-america/c2c/binghamton_ny/89.3 WSKG.png",
+            url: "https://wskg.streamguys1.com/wskg"
         },
         {
-            name: "WSQX",
-            logo: "stations/images-america/c2c/WSQX.png",
-            url: "http://peace.str3am.com:7070/wsqx"
+            name: "WSKG Classical 89.3-HD2",
+            logo: "stations/images-america/c2c/binghamton_ny/WSKG Classical 89.3-HD2.png",
+            url: "https://wskg.streamguys1.com/wsqx"
+        },
+        {
+            name: "WHRW 90.5",
+            logo: "stations/images-america/c2c/binghamton_ny/WHRW 90.5.png",
+            url: "http://stream.whrwfm.org/hi"
         },
         {
             name: "92.5 KGB",
-            logo: "stations/images-america/c2c/WKGBFM.png",
+            logo: "stations/images-america/c2c/binghamton_ny/92.5 KGB.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1449_icy"
         },
         {
+            name: "WJOB 93.3",
+            logo: "stations/images-america/c2c/binghamton_ny/WJOB 93.3.png",
+            url: "http://204.80.232.29:9996/listen"
+        },
+        {
             name: "US 96.9",
-            logo: "stations/images-america/c2c/US 96.9.png",
+            logo: "stations/images-america/c2c/binghamton_ny/US 96.9.png",
             url: "https://c10icy.prod.playlists.ihrhls.com/4206_icy"
         },
         {
             name: "98.1 The Hawk",
-            logo: "stations/images-america/c2c/WHWKFM.png",
+            logo: "stations/images-america/c2c/binghamton_ny/98.1 The Hawk.png",
             url: "http://stream.abacast.net/direct/townsquare-whwkfmaac-ibc3"
         },
         {
             name: "The Whale 99.1",
-            logo: "stations/images-america/c2c/The Whale 99.1.png",
+            logo: "stations/images-america/c2c/binghamton_ny/The Whale 99.1.png",
             url: "http://stream.abacast.net/direct/townsquare-waalfmaac-ibc3"
         },
         {
+            name: "100.5 The Drive",
+            logo: "stations/images-america/c2c/binghamton_ny/100.5 The Drive.png",
+            url: "https://ice24.securenetsystems.net/WDRE"
+        },
+        {
             name: "Magic 101.7",
-            logo: "stations/images-america/c2c/WLTBFM.png",
+            logo: "stations/images-america/c2c/binghamton_ny/Magic 101.7.png",
             url: "http://ice3.securenetsystems.net/WLTB"
         },
         {
             name: "Mix 103.3",
-            logo: "stations/images-america/c2c/WMXW.png",
+            logo: "stations/images-america/c2c/binghamton_ny/Mix 103.3.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1445_icy"
         },
         {
-            name: "Kiss 104.1",
-            logo: "stations/images-america/c2c/WWYLFM.png",
+            name: "KISS 104.1",
+            logo: "stations/images-america/c2c/binghamton_ny/KISS 104.1.png",
             url: "http://stream.abacast.net/direct/townsquare-wwylfmaac-ibc3"
         },
         {
-            name: "Now 105.7",
-            logo: "stations/images-america/c2c/WBNWFM.png",
+            name: "NOW 105.7",
+            logo: "stations/images-america/c2c/binghamton_ny/NOW 105.7.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1441_icy"
         },
         {
             name: "Cool 106.7",
-            logo: "stations/images-america/c2c/Cool 106.7.jpg",
-            url: "http://ice24.securenetsystems.net/WCDW"
+            logo: "stations/images-america/c2c/binghamton_ny/Cool 106.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://ice24.securenetsystems.net/WCDW"
         },
         {
             name: "B107.5",
-            logo: "stations/images-america/c2c/WBBIFM.png",
+            logo: "stations/images-america/c2c/binghamton_ny/B107.5.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1453_icy"
         },
         {
-            name: "WNBF News Radio 1290",
-            logo: "stations/images-america/c2c/WNBF News Radio 1290.png",
-            url: "http://stream.abacast.net/direct/townsquare-wnbfamaac-ibc3"
-        },
-        {
-            name: "News Radio WEBO",
-            logo: "stations/images-america/c2c/News Radio WEBO.png",
+            name: "WEBO 107.9",
+            logo: "stations/images-america/c2c/binghamton_ny/WEBO 107.9.png",
             url: "https://ice5.securenetsystems.net/WEBO"
         },
         {
-            name: "Fox Sports 1430",
-            logo: "stations/images-america/c2c/WENE.png",
+            name: "WNBF News Radio 1290",
+            logo: "stations/images-america/c2c/binghamton_ny/WNBF News Radio 1290.png",
+            url: "http://stream.abacast.net/direct/townsquare-wnbfamaac-ibc3"
+        },
+        {
+            name: "CBS Sports Radio 1360",
+            logo: "stations/images-america/c2c/binghamton_ny/CBS Sports Radio 1360.png",
+            url: "http://stream.abacast.net/direct/townsquare-wyosamaac-ibc3"
+        },
+        {
+            name: "FOX Sports 1430",
+            logo: "stations/images-america/c2c/binghamton_ny/FOX Sports 1430.png",
             url: "https://c10icy.prod.playlists.ihrhls.com/3544_icy"
         },
     ],
