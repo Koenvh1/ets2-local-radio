@@ -14796,7 +14796,7 @@ var stations_c2c = {
     "binghamton": [
         {
             name: "WSKG 89.3",
-            logo: "stations/images-america/c2c/binghamton_ny/89.3 WSKG.png",
+            logo: "stations/images-america/c2c/binghamton_ny/WSKG 89.3.png",
             url: "https://wskg.streamguys1.com/wskg"
         },
         {
