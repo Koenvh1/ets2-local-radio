@@ -14860,11 +14860,6 @@ var stations_c2c = {
             url: "https://c5icy.prod.playlists.ihrhls.com/1441_icy"
         },
         {
-            name: "Cool 106.7",
-            logo: "stations/images-america/c2c/binghamton_ny/Cool 106.7.png",
-            url: "https://cors-anywhere.herokuapp.com/http://ice24.securenetsystems.net/WCDW"
-        },
-        {
             name: "B107.5",
             logo: "stations/images-america/c2c/binghamton_ny/B107.5.png",
             url: "https://c5icy.prod.playlists.ihrhls.com/1453_icy"
