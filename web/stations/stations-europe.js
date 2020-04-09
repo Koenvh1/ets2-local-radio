@@ -1735,6 +1735,28 @@ var stations = {
             url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
         },
     ],
+    "iraq": [
+        {
+            name: "راديو سوا",
+            logo: "stations/images-europe/iraq/راديو سوا.png",
+            url: "https://mbnvaudioingest-i.akamaihd.net/hls/live/1004561/MBNV_SAWA_IRAQ/merge.m3u8"
+        },
+        {
+            name: "إذاعة الكفيل",
+            logo: "stations/images-europe/iraq/إذاعة الكفيل.png",
+            url: "https://stream.alkafeel.net/live/radio/manifest.m3u8"
+        },
+        {
+            name: "راديو الآن",
+            logo: "stations/images-europe/iraq/راديو الآن.svg",
+            url: "https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8"
+        },
+        {
+            name: "Nawa",
+            logo: "stations/images-europe/iraq/Nawa.png",
+            url: "http://nawaradio2.primcast.com:1344/;stream.mp3"
+        },
+    ],
     "ireland": [
         {
             name: "RTÉ Radio 1",
@@ -2907,6 +2929,33 @@ var stations = {
             url: "http://ic3.101.ru:8000/v5_1"
         },
     ],
+    "saudia": [
+        {
+            name: "إذاعة الرياض",
+            logo: "stations/images-europe/saudi/إذاعة الرياض.png",
+            url: "http://87.98.130.255:8234/stream"
+        },
+        {
+            name: "إذاعة جدة",
+            logo: "stations/images-europe/saudi/إذاعة جدة.png",
+            url: "http://87.98.130.255:8509/stream"
+        },
+        {
+            name: "إذاعة القران الكريم",
+            logo: "stations/images-europe/saudi/إذاعة القران الكريم.png",
+            url: "http://live2.badrshfaqah.sa:8027/stream"
+        },
+        {
+            name: "Saudi Radio",
+            logo: "stations/images-europe/saudi/Saudi Radio.png",
+            url: "http://live2.badrshfaqah.sa:8021/stream"
+        },
+        {
+            name: "اذاعة UFM",
+            logo: "stations/images-europe/saudi/اذاعة UFM.png",
+            url: "http://104.200.150.186:8000/;stream.mp3"
+        },
+    ],
     "scotland": [
         {
             name: "BBC Radio Scotland",
@@ -3285,6 +3334,28 @@ var stations = {
             name: "Radio Fiume Ticino",
             logo: "stations/images-europe/switzerland-it/Radio Fiume Ticino.jpg",
             url: "http://178.209.40.106:8002/stream"
+        },
+    ],
+    "syria": [
+        {
+            name: "اذاعة دمشق",
+            logo: "stations/images-europe/syria/اذاعة دمشق.png",
+            url: "http://radioliveb.rtv.gov.sy:8002/RadioDimshq"
+        },
+        {
+            name: "صوت الشباب",
+            logo: "stations/images-europe/syria/صوت الشباب.png",
+            url: "http://radioliveb.rtv.gov.sy:8002/RadioShabab"
+        },
+        {
+            name: "راديو الآن",
+            logo: "stations/images-europe/syria/راديو الآن.svg",
+            url: "https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8"
+        },
+        {
+            name: "Ninar FM",
+            logo: "stations/images-europe/syria/Ninar FM.png",
+            url: "http://ninarfm.grtvstream.com:8896/;"
         },
     ],
     "tunis": [
