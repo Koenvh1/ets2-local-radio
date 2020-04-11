@@ -28,7 +28,7 @@ Not available in yours? [Translate it](https://koenvh.nl/translate). I will add 
 5. Click Open ATS/ETS2 Local Radio and have fun.
 
 Please make sure that the keys and buttons you assign in ETS2 Local Radio are not assigned in game.
-Additionally, you may want to look at the `web/config.js` file and set some additional settings to make the make your experience even better.
+Additionally, you may want to look at the `web\custom.js` file and set some additional settings to make the make your experience even better.
 
 Make a station favourite to always switch to that station when entering the country it's located in.
 
@@ -68,9 +68,7 @@ You can also quickly switch to that station if you assign a key/button to the "S
 Yes you can! Just head over to the [submit station](https://koenvh.nl/submit-station) page. 
 If it is accepted, it will be added in the next update.
 However, maybe your station does not meet the criteria (web only, does not broadcast in the majority of a country),
-but you still want to add it. That's possible too. 
-Just go to the `\web\stations\stations-custom.example.js` file, rename it to `stations-custom.js` and add your own stations there.
-More information on that can be found in that file as well.
+but you still want to add it. That's possible too. See the `custom.js` file for more info.
 
 ##### Why does it have to broadcast in a majority of the country?
 Let us take a local radio station from France as an example:
@@ -94,54 +92,29 @@ If you provide the cities and stations, then I will add them. For getting the ci
 see https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever/blob/master/README.md, for the stations, 
 see the custom stations example file for the format.
 
-Generally speaking, I (Koen) will maintain the stations for ETS2 and the ATS base game + DLCs.
+Generally speaking, I (Koen) will maintain the stations for ETS2. [Marcus](https://github.com/04Marcus) maintains the stations for ATS.
 The map mods for ATS are maintained by:
 * Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
 * Coast to Coast - [Avondale Trucking](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=167308)
 * Canadream - veso266 and Marcus
 
-##### How about Project Balkans, Open Spaces, Coast to Coast or YKS Turkey?
+##### How about Project Balkans, Open Spaces, or YKS Turkey?
 A persisting problem is that some maps are incompatible with each other.
-For that reason, some custom maps are not enabled by default.  
-###### ETS2:
-You may want to edit the `\web\cities\cities-ets2.js` file, scroll to the bottom and uncomment the lines for Project Balkans, YKS Turkey and/or Open Spaces.
-###### ATS:
-Edit the `\web\cities\cities-ats.js` file, scroll to the bottom and uncomment the lines for the map to enable it.
+For that reason, some custom maps are not enabled by default. 
+Please use the custom.js file to enable those stations.
 
 This will reset when you update ETS2 Local Radio.  
-
-### Why do Chrome, Opera, Internet Explorer and others not work fully?
-ETS2 Local Radio can only include the stream types a station offers, and these vary station by station.
-One can roughly group them in four groups:
-* MP3
-* AAC
-* HLS
-* OGG
-
-Now, the problem is that not all browsers support all stream types.
-One main problem is an MP3 stream from a server using ShoutCast v1, as Chrome discontinued HTTP/0.9 support on non-standard ports, [something ShoutCast v1 still uses](https://bugs.chromium.org/p/chromium/issues/detail?id=669800).
-To put it all in a table:
-
-|                   | MP3 | AAC | HLS | OGG | ShoutCast v1 |
-|-------------------|-----|-----|-----|-----|--------------|
-| Chrome            | Yes | Yes | Yes | Yes | No           |
-| Edge              | Yes | Yes | Yes | Yes | Yes          |
-| Firefox           | Yes | Yes | Yes | Yes | Yes          |
-| Internet Explorer | Yes | No  | Yes | No  | Yes          |
-| Opera             | Yes | Yes | Yes | Yes | No           |
-
-You can see why I recommend Firefox or Edge. 
-I have considered using VLC for the playback, but the CPU usage for HLS streams would regularly exceed 30%, something I don't consider acceptable.
-Over time stations will probably fix their playback for Chrome and Opera, but I can't do it for them.
-
-* _Update 2017-04-24: It seems like most stations have fixed their playback for Chrome and Opera now._ 
-* _Update 2017-06-26: Actually, Chrome and Opera made an exception for ShoutCast. Still works though._
 
 ### What is this program called?
 Sorry for not being very consistent. Let me tell a short story to explain:  
 It was called ETS2 Local Radio initially, with Local Radio being the short form. Then support for ATS came. 
 To make clear that it also supports ATS, I started using the name ATS/ETS2 Local Radio, ETS2/ATS Local Radio, Local Radio for ATS/ETS2 etc etc.
 Generally speaking, I use ETS2 Local Radio, but I'm not really consistent when it comes to naming.
+
+### Can I still run this program locally like v2?
+Yes you can. Just click the "Clone or download" button above, and then click "Download ZIP".
+Then just copy the contents of the web folder to the web folder of your Local Radio installation.
+You can then visit http://localhost:8330 to use your local files instead.
 
 ## Troubleshooting:
 ### Can't access it from another device

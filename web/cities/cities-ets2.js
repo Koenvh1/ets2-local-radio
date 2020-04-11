@@ -2426,14 +2426,6 @@ var cities = [
         "z": "-30171"
     },
     {
-        "gameName": "honningsvag",
-        "realName": "Honningsvåg",
-        "country": "norway",
-        "x": "36111.50",
-        "y": "34.98",
-        "z": "-113723.19"
-    },
-    {
         "gameName": "huesca",
         "realName": "Huesca",
         "country": "spain",
@@ -2506,14 +2498,6 @@ var cities = [
         "z": "-111213"
     },
     {
-        "gameName": "ivalo",
-        "realName": "Ivalo",
-        "country": "finland",
-        "x": "40990.21",
-        "y": "48.16",
-        "z": "-102242.55"
-    },
-    {
         "gameName": "jekabpils",
         "realName": "Jēkabpils",
         "country": "latvia",
@@ -2568,14 +2552,6 @@ var cities = [
         "x": "20559.5",
         "y": "70.3945",
         "z": "-33634.5"
-    },
-    {
-        "gameName": "kandalaksha",
-        "realName": "Кандалакша (Kandalaksha)",
-        "country": "russia",
-        "x": "56287.63",
-        "y": "-31.13",
-        "z": "-97267.13"
     },
     {
         "gameName": "kardla",
@@ -2672,14 +2648,6 @@ var cities = [
         "x": "36896.1",
         "y": "116.113",
         "z": "-1011.63"
-    },
-    {
-        "gameName": "kirkenes",
-        "realName": "Kirkenes",
-        "country": "norway",
-        "x": "44536.5",
-        "y": "24.5938",
-        "z": "-108965"
     },
     {
         "gameName": "kirkwall",
@@ -3234,14 +3202,6 @@ var cities = [
         "z": "14133"
     },
     {
-        "gameName": "murmansk",
-        "realName": "Мурманск (Murmansk)",
-        "country": "russia",
-        "x": "53970.5",
-        "y": "220.172",
-        "z": "-105283"
-    },
-    {
         "gameName": "narbonne",
         "realName": "Narbonne",
         "country": "france",
@@ -3256,14 +3216,6 @@ var cities = [
         "x": "-39778",
         "y": "139",
         "z": "-38787.7"
-    },
-    {
-        "gameName": "nikel",
-        "realName": "Никель (Nikel)",
-        "country": "russia",
-        "x": "46367.6",
-        "y": "2.66797",
-        "z": "-105017"
     },
     {
         "gameName": "novisad",
@@ -3890,14 +3842,6 @@ var cities = [
         "z": "-42217.29"
     },
     {
-        "gameName": "sodankyla",
-        "realName": "Sodankylä",
-        "country": "finland",
-        "x": "42142.70",
-        "y": "73",
-        "z": "-95641.80"
-    },
-    {
         "gameName": "soderhamn",
         "realName": "Söderhamn",
         "country": "sweden",
@@ -4082,14 +4026,6 @@ var cities = [
         "z": "24565.7"
     },
     {
-        "gameName": "tanabru",
-        "realName": "Tana Bru",
-        "country": "norway",
-        "x": "40732.64",
-        "y": "34.43",
-        "z": "-109981.67"
-    },
-    {
         "gameName": "taurage",
         "realName": "Tauragė",
         "country": "lithuania",
@@ -4258,14 +4194,6 @@ var cities = [
         "z": "-51634.5"
     },
     {
-        "gameName": "utsjoki",
-        "realName": "Utsjoki",
-        "country": "finland",
-        "x": "39371.95",
-        "y": "43.43",
-        "z": "-108070.61"
-    },
-    {
         "gameName": "uzhhorod",
         "realName": "Ужгород (Uzhhorod)",
         "country": "ukraine",
@@ -4344,14 +4272,6 @@ var cities = [
         "x": "5089.88",
         "y": "77.8789",
         "z": "30078.9"
-    },
-    {
-        "gameName": "verkhnetulom",
-        "realName": "Верхнетуломский (Verkhnetulomsky)",
-        "country": "russia",
-        "x": "50698.77",
-        "y": "-27.02",
-        "z": "-101567.13"
     },
     {
         "gameName": "verona",
@@ -6391,14 +6311,6 @@ var cities_pm230 = [
         "z": "-180094"
     },
     {
-        "gameName": "hammerfest",
-        "realName": "Hammerfest",
-        "country": "norway",
-        "x": "32457.9",
-        "y": "94.0039",
-        "z": "-112251"
-    },
-    {
         "gameName": "igoumenitsa",
         "realName": "Ηγουμενίτσα (Igoumenitsa)",
         "country": "greece",
@@ -6682,14 +6594,6 @@ var cities_pm240 = [
         "z": "52222"
     },
     {
-        "gameName": "kittila",
-        "realName": "Kittilä",
-        "country": "finland",
-        "x": "37949.4",
-        "y": "99.4102",
-        "z": "-96550.3"
-    },
-    {
         "gameName": "ljugarn",
         "realName": "Ljugarn",
         "country": "sweden",
@@ -6789,12 +6693,76 @@ var cities_pm245 = [
         "z": "34697.3"
     },
     {
+        "gameName": "hammerfest",
+        "realName": "Hammerfest",
+        "country": "norway",
+        "x": "32017",
+        "y": "94.0039",
+        "z": "-117025"
+    },
+    {
+        "gameName": "honningsvag",
+        "realName": "Honningsvåg",
+        "country": "norway",
+        "x": "35671",
+        "y": "89.5391",
+        "z": "-118483"
+    },
+    {
+        "gameName": "ivalo",
+        "realName": "Ivalo",
+        "country": "finland",
+        "x": "40549.3",
+        "y": "98.1602",
+        "z": "-106997"
+    },
+    {
         "gameName": "jihlava",
         "realName": "Jihlava",
         "country": "czech",
         "x": "18401.4",
         "y": "117.895",
         "z": "8814.57"
+    },
+    {
+        "gameName": "kandalaksha",
+        "realName": "Кандалакша",
+        "country": "russia",
+        "x": "54976.9",
+        "y": "36.9414",
+        "z": "-100226"
+    },
+    {
+        "gameName": "kirkenes",
+        "realName": "Kirkenes",
+        "country": "norway",
+        "x": "44095.6",
+        "y": "24.5938",
+        "z": "-113739"
+    },
+    {
+        "gameName": "kittila",
+        "realName": "Kittilä",
+        "country": "finland",
+        "x": "38063.9",
+        "y": "99.4102",
+        "z": "-97622.9"
+    },
+    {
+        "gameName": "murmansk",
+        "realName": "Мурманск",
+        "country": "russia",
+        "x": "53529.6",
+        "y": "220.172",
+        "z": "-110057"
+    },
+    {
+        "gameName": "nikel",
+        "realName": "Никель",
+        "country": "russia",
+        "x": "45926.7",
+        "y": "2.66797",
+        "z": "-109791"
     },
     {
         "gameName": "pancevo",
@@ -6821,12 +6789,44 @@ var cities_pm245 = [
         "z": "52142.8"
     },
     {
+        "gameName": "sodankyla",
+        "realName": "Sodankylä",
+        "country": "finland",
+        "x": "42257.3",
+        "y": "123",
+        "z": "-96694.4"
+    },
+    {
         "gameName": "stip",
         "realName": "Штип",
         "country": "macedonia",
         "x": "48143.2",
         "y": "85",
         "z": "49575.6"
+    },
+    {
+        "gameName": "tanabru",
+        "realName": "Tana bru",
+        "country": "norway",
+        "x": "40291.7",
+        "y": "94.6211",
+        "z": "-114736"
+    },
+    {
+        "gameName": "utsjoki",
+        "realName": "Utsjoki",
+        "country": "finland",
+        "x": "38931",
+        "y": "93.4336",
+        "z": "-112825"
+    },
+    {
+        "gameName": "verkhnetulom",
+        "realName": "Верхнетуломский",
+        "country": "russia",
+        "x": "50257.8",
+        "y": "22.9844",
+        "z": "-106321"
     },
     {
         "gameName": "virovitica",
