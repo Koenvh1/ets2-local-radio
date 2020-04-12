@@ -841,7 +841,7 @@ var stations = {
         },
         {
             name: "97.3 KSHR",
-            logo: "stations/images-america/coos_bay/97.3 Hot Country KSHR.png",
+            logo: "stations/images-america/coos_bay/97.3 KSHR.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSHRFM_SC"
         },
         {
@@ -2358,11 +2358,6 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KCBSFMAAC_SC"
         },
         {
-            name: "93.5 KDAY",
-            logo: "stations/images-america/los_angeles/93.5 KDAY.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
-        },
-        {
             name: "Cali 93.9",
             logo: "stations/images-america/los_angeles/Cali 93.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC_SC"
@@ -2460,7 +2455,7 @@ var stations = {
         {
             name: "Go Country 105",
             logo: "stations/images-america/los_angeles/Go Country 105.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KBOQAMAAC_SC"
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
         },
         {
             name: "Power 106",
@@ -2958,11 +2953,6 @@ var stations = {
             name: "Q95.9",
             logo: "stations/images-america/los_angeles/Q95.9.png",
             url: "https://ice9.securenetsystems.net/KCAQ"
-        },
-        {
-            name: "KDAR 98.3",
-            logo: "stations/images-america/oxnard/KDAR.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDARFMAAC_SC"
         },
         {
             name: "100.7 KHAY",
@@ -3896,7 +3886,7 @@ var stations = {
         },
         {
             name: "New Country 93",
-            logo: "stations/images-america/eugene/New Country 93.jpg",
+            logo: "stations/images-america/eugene/New Country 93.png",
             url: "http://www.ophanim.net:9170/;"
         },
         {
@@ -4389,7 +4379,7 @@ var stations = {
         {
             name: "97.3 The Fan",
             logo: "stations/images-america/san_diego/97.3 The Fan.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KQFNFMAAC_SC"
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KWFNFMAAC_SC"
         },
         {
             name: "The Angry Playlist 97.3-HD2",
