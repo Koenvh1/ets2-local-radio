@@ -348,6 +348,16 @@ var stations = {
             logo: "stations/images-europe/belgium-fr/Radio Contact.png",
             url: "http://audiostream.rtl.be/contactfr192"
         },
+        {
+            name: "BRF1",
+            logo: "stations/images-europe/belgium-fr/BRF1.svg",
+            url: "https://streaming.brf.be/brf1-high.mp3"
+        },
+        {
+            name: "BRF2",
+            logo: "stations/images-europe/belgium-fr/BRF2.svg",
+            url: "https://streaming.brf.be/brf2-high.mp3"
+        },
     ],
     "bosnia": [
         {
