@@ -713,7 +713,7 @@ var stations = {
         },
         {
             name: "KOH 780",
-            logo: "stations/images-america/reno/KOH 780 AM.png",
+            logo: "stations/images-america/reno/780 KOH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
         },
     ],
@@ -2769,7 +2769,7 @@ var stations = {
         },
         {
             name: "1480 KYOS",
-            logo: "stations/images-america/fresno/KYOS.png",
+            logo: "stations/images-america/fresno/107.3 KYOS.png",
             url: "https://ice42.securenetsystems.net/KYOS"
         },
     ],
@@ -5291,7 +5291,7 @@ var stations = {
         },
         {
             name: "KTHO 590",
-            logo: "stations/images-america/carson_city/KTHO Radio 590 AM.jpg",
+            logo: "stations/images-america/carson_city/KTHO 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
@@ -5301,7 +5301,7 @@ var stations = {
         },
         {
             name: "780 KOH",
-            logo: "stations/images-america/reno/KOH 780 AM.png",
+            logo: "stations/images-america/reno/780 KOH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
         },
         {
