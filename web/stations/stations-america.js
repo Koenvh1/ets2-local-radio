@@ -2122,7 +2122,7 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLUCFM_SC"
         },
         {
-            name: "98.5-HD2 da Shaka",
+            name: "98.5-HD2 Da Shaka",
             logo: "stations/images-america/las_vegas/98.5-HD2 Da Shaka.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLUCHD2_SC"
         },
@@ -4936,7 +4936,12 @@ var stations = {
             name: "Key 101",
             logo: "stations/images-america/spokane/Key 101 FM.png",
             url: "https://ice6.securenetsystems.net/KEYF"
-        },
+        },/*
+        {
+            name: "Hooptown 101.5",
+            logo: "stations/images-america/spokane/Hooptown 101.5.png",
+            url: ""
+        },*/
         {
             name: "103.1 KCDA",
             logo: "stations/images-america/spokane/103.1 KCDA.png",
@@ -21261,8 +21266,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
         },
         {
-            name: "Nash FM 101.7",
-            logo: "stations/images-america/c2c/beaumont_tx/Nash FM 101.7.png",
+            name: "KAYD 101.7",
+            logo: "stations/images-america/c2c/beaumont_tx/KAYD 101.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC_SC"
         },
         {
@@ -22395,6 +22400,11 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7052_32k.aac"
         },
         {
+            name: "Fox Sports 93.9",
+            logo: "stations/images-america/c2c/waco_tx/Fox Sports 93.9.png",
+            url: "https://ais-sa1.streamon.fm/7641_48k.aac"
+        },
+        {
             name: "BIG 95",
             logo: "stations/images-america/c2c/waco_tx/BIG 95.png",
             url: "https://ample.revma.ihrhls.com/zc2365/24_1bzn8xihurufk02/playlist.m3u8"
@@ -22435,11 +22445,6 @@ var stations_c2c = {
             url: "http://radio.clevr.me/kwbu"
         },
         {
-            name: "Fox Sports 104.5",
-            logo: "stations/images-america/c2c/waco_tx/Fox Sports 104.5.png",
-            url: "https://ais-sa1.streamon.fm/7641_48k.aac"
-        },
-        {
             name: "104.9 BOB FM",
             logo: "stations/images-america/c2c/waco_tx/104.9 BOB FM.png",
             url: "https://ais-sa1.streamon.fm/7054_24k.aac"
@@ -22448,6 +22453,11 @@ var stations_c2c = {
             name: "106.7 The Eagle",
             logo: "stations/images-america/c2c/waco_tx/106.7 The Eagle.png",
             url: "https://ice42.securenetsystems.net/KIXT"
+        },
+        {
+            name: "La Mejor 107.3",
+            logo: "stations/images-america/c2c/waco_tx/La Mejor 107.3.png",
+            url: "https://ais-sa1.streamon.fm/7045_24k.aac"
         },
         {
             name: "Power 108",
@@ -22477,9 +22487,9 @@ var stations_c2c = {
             url: "http://stream.abacast.net/direct/townsquare-kninfmaac-ibc3"
         },
         {
-            name: "95.5 ESPN",
-            logo: "stations/images-america/c2c/wichita_falls_tx/95.5 ESPN.png",
-            url: "https://ice41.securenetsystems.net/KXPNFM"
+            name: "95.5 Hank FM",
+            logo: "stations/images-america/c2c/wichita_falls_tx/95.5 Hank FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTFWFMAAC_SC"
         },
         {
             name: "Big Country 97.5",
@@ -23304,8 +23314,8 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/WKLC"
         },
         {
-            name: "Tailgate 107.3",
-            logo: "stations/images-america/c2c/charleston_wv/Tailgate 107.3.png",
+            name: "107.3 KAZ",
+            logo: "stations/images-america/c2c/charleston_wv/107.3 KAZ.png",
             url: "http://stream.abacast.net/direct/wvradio-wkazfmaac-ibc2"
         },
     ],
