@@ -2423,8 +2423,8 @@ var stations = {
             url: "http://ednixon.com:8170/stream"
         },
         {
-            name: "Radio FREE 102.3",
-            logo: "stations/images-america/los_angeles/Radio FREE 102.3.png",
+            name: "102.3 KJLH",
+            logo: "stations/images-america/los_angeles/102.3 KJLH.png",
             url: "https://live.wostreaming.net/direct/kjlh-kjlhfmmp3-ibc2"
         },
         {
@@ -2965,8 +2965,8 @@ var stations = {
             url: "http://ice64.securenetsystems.net/KSBL"
         },
         {
-            name: "Radio FREE 102.3",
-            logo: "stations/images-america/los_angeles/Radio FREE 102.3.png",
+            name: "102.3 KJLH",
+            logo: "stations/images-america/los_angeles/102.3 KJLH.png",
             url: "https://live.wostreaming.net/direct/kjlh-kjlhfmmp3-ibc2"
         },
         {
@@ -3297,8 +3297,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/mhcc-kmhchd2aac-ibc1"
         },
         {
-            name: "89.9 KQAC",
-            logo: "stations/images-america/c2c/89.9 KQAC.jpg",
+            name: "All Classical 89.9",
+            logo: "stations/images-america/portland/All Classical 89.9.png",
             url: "http://allclassical-ice.streamguys.com:80/ac96kmp3"
         },
         {
@@ -5182,7 +5182,7 @@ var stations = {
     "the_dalles": [
         {
             name: "All Classical 88.1",
-            logo: "stations/images-america/the_dalles/All Classical 88.1.png",
+            logo: "stations/images-america/portland/All Classical 89.9.png",
             url: "https://allclassical-ice.streamguys.com/ac96kmp3"
         },
         {
