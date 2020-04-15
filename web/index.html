@@ -22,7 +22,6 @@
     <script src="config.js"></script>
     <script src="lib/js/main.js"></script>
     <script src="lib/js/peer.js"></script>
-    <!--script src="http://cdn.peerjs.com/0.3.14/peer.js"></script-->
     <script src="lib/js/remote-control.js"></script>
 </head>
 <body>
@@ -197,6 +196,7 @@
 <script>
     var url = new URL(window.location);
     g_api = url.searchParams.get("api") || "";
+    $("a[href='map.html']").attr("href", $("a[href='map.html']").attr("href") + "?api=" + g_api);
 
     function loadScripts() {
         console.log("Start loading scripts");
