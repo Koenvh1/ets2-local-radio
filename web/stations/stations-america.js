@@ -4112,7 +4112,7 @@ var stations = {
         },
         {
             name: "94.1 KPFA",
-            logo: "stations/images-america/san_francisco/KPFA.png",
+            logo: "stations/images-america/san_francisco/94.1 KPFA.png",
             url: "https://streams.pacifica.org:9000/kpfa"
         },
         {
@@ -24887,7 +24887,7 @@ var stations_canadream = {
         },
         {
             name: "up! 99.3",
-            logo: "stations/images-america/canadream/edmonton/Up99.3.png",
+            logo: "stations/images-america/canadream/edmonton/up! 99.3.png",
             url: "http://ais.streamon.fm:8000/ais/CIUP-48k.aac"
         },
         {
