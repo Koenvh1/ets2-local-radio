@@ -3758,8 +3758,8 @@ var stations = {
     ],
     "sacramento": [
         {
-            name: "KQEI 89.3",
-            logo: "stations/images-america/san_francisco/KQED.png",
+            name: "KQED 89.3",
+            logo: "stations/images-america/san_francisco/KQED 88.5.png",
             url: "http://50.31.186.115:80/kqedradio"
         },
         {
@@ -3995,7 +3995,7 @@ var stations = {
         },
         {
             name: "kuer 90.1-HD2",
-            logo: "stations/images-america/0_general_logos/BBC World Service.png.png",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
             url: "https://audio.kuer.org/kuer2high"
         },
         {
@@ -4564,9 +4564,19 @@ var stations = {
             url: "https://c4.prod.playlists.ihrhls.com/285_icy"
         },
         {
+            name: "98.5 KFOX",
+            logo: "stations/images-america/san_francisco/98.5 KFOX.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC_SC"
+        },
+        {
             name: "ChannelQ 99.3",
             logo: "stations/images-america/0_general_logos/ChannelQ.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
+        },
+        {
+            name: "99.7 NOW",
+            logo: "stations/images-america/san_francisco/99.7 NOW.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC_SC"
         },
         {
             name: "Star 101.3",
@@ -4587,6 +4597,11 @@ var stations = {
             name: "KXSF-LP 102.5",
             logo: "stations/images-america/san_francisco/KXSF-LP 102.5.png",
             url: "http://stream.kxsf.fm:8000/kxsf"
+        },
+        {
+            name: "102.9 KBLX",
+            logo: "stations/images-america/san_francisco/102.9 KBLX.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KBLXFMAAC_SC"
         },
         {
             name: "iHeart80s @ 103.7",
