@@ -6648,7 +6648,7 @@ var cities_c2c = [
     },
     {
         "gameName": "lansing_mi",
-        "realName": "Landsing",
+        "realName": "Lansing",
         "country": "michigan",
         "x": "47542.9",
         "y": "21.7963",
