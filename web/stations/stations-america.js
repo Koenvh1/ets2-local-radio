@@ -12219,94 +12219,249 @@ var stations_c2c = {
     ],
     "detroit": [
         {
-            name: "CBC Radio 1",
-            logo: "stations/images-america/c2c/CBC Radio 1.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            name: "WHPR 88.1",
+            logo: "stations/images-america/c2c/detroit_mi/WHPR 88.1.png",
+            url: "https://5e70c16b9ab38.streamlock.net:9443/live/881fm.stream_aac/playlist.m3u8"
         },
         {
-            name: "WXOU",
-            logo: "stations/images-america/c2c/WXOU.png",
-            url: "wxou.oakland.edu:8000/listen.pls"
+            name: "89X",
+            logo: "stations/images-america/c2c/detroit_mi/89X.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/CIMXFMAAC_SC"
         },
         {
-            name: "CBC Radio 2",
-            logo: "stations/images-america/c2c/CBE.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            name: "WHFR 89.3",
+            logo: "stations/images-america/c2c/detroit_mi/WHFR 89.3.png",
+            url: "http://whfr.primcast.com:4184/;"
         },
         {
-            name: "90.9 WRCJ Classical Days, Jazzy Nights",
-            logo: "stations/images-america/c2c/90.9 WRCJ Classical Days, Jazzy Nights.png",
+            name: "CBC Music 89.9",
+            logo: "stations/images-america/c2c/detroit_mi/CBC Music 89.9.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor"
+        },
+        {
+            name: "WRCJ 90.9",
+            logo: "stations/images-america/c2c/detroit_mi/WRCJ 90.9.png",
             url: "http://pnj-01.stream101.com:9035/stream"
         },
         {
             name: "Mix 92.3",
-            logo: "stations/images-america/c2c/WMXD.png",
+            logo: "stations/images-america/c2c/detroit_mi/Mix 92.3.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1149_icy"
         },
         {
-            name: "Nash FM 93.1",
-            logo: "stations/images-america/c2c/WDRQFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDRQFMAAC.aac"
+            name: "New Country 93.1",
+            logo: "stations/images-america/c2c/detroit_mi/New Country 93.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDRQFMAAC_SC"
         },
         {
-            name: "94.3 CKSY",
-            logo: "stations/images-america/c2c/CKSY.png",
-            url: "http://blackburn.leanstream.co/CKSYFM"
+            name: "Nash Icon 93.1-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Nash Icon 93.1-HD2.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDRQHD2AAC_SC"
         },
         {
-            name: "Cool 95.1",
-            logo: "stations/images-america/c2c/Cool 95.1.png",
-            url: "http://live.leanstream.co/CKUEFM-MP3"
+            name: "93.9 The River",
+            logo: "stations/images-america/c2c/detroit_mi/93.9 The River.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/CIDRFMAAC_SC"
+        },
+        {
+            name: "94.7 WCSX",
+            logo: "stations/images-america/c2c/detroit_mi/94.7 WCSX.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR_SC"
         },
         {
             name: "Channel 95.5",
-            logo: "stations/images-america/c2c/WKQIFM.png",
+            logo: "stations/images-america/c2c/detroit_mi/Channel 95.5.png",
             url: "https://c8icy.prod.playlists.ihrhls.com/1145_icy"
         },
         {
+            name: "Classic Funk 95.5-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Classic Funk 95.5-HD2.png",
+            url: "https://ample.revma.ihrhls.com/zc6955/66_mgxctzypmp1i02/playlist.m3u8"
+        },
+        {
+            name: "Country 95.9",
+            logo: "stations/images-america/c2c/detroit_mi/Country 95.9.png",
+            url: "https://live.leanstream.co/CJWFFM"
+        },
+        {
             name: "96.3 WDVD",
-            logo: "stations/images-america/c2c/WDVD.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFM.mp3"
+            logo: "stations/images-america/c2c/detroit_mi/96.3 WDVD.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFMAAC_SC"
+        },
+        {
+            name: "Mix 96.7",
+            logo: "stations/images-america/c2c/detroit_mi/Mix 96.7.png",
+            url: "https://live.leanstream.co/CHYRFM"
+        },
+        {
+            name: "WNUC 96.7-LP",
+            logo: "stations/images-america/c2c/detroit_mi/WNUC 96.7-LP.png",
+            url: "https://relays.stream.creek.fm/wnuc"
+        },
+        {
+            name: "97.1 The Ticket",
+            logo: "stations/images-america/c2c/detroit_mi/97.1 The Ticket.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXYTFMAAC_SC"
+        },
+        {
+            name: "CBC Radio One 97.5",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WDR@324611/master.m3u8"
         },
         {
             name: "97.9 WJLB",
-            logo: "stations/images-america/c2c/WJLBFM.png",
+            logo: "stations/images-america/c2c/detroit_mi/97.9 WJLB.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1141_icy"
         },
         {
+            name: "Funkytown 97.9-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Funkytown 97.9-HD2.png",
+            url: "https://ample.revma.ihrhls.com/zc6755/14_1jtpte3veu96502/playlist.m3u8"
+        },
+        {
+            name: "98.7 The Breeze",
+            logo: "stations/images-america/c2c/detroit_mi/98.7 The Breeze.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WDZHFMAAC_SC"
+        },
+        {
+            name: "V98.7-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/V98.7-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WDZHHD2AAC_SC"
+        },
+        {
+            name: "ChannelQ 98.7-HD3",
+            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
+        },
+        {
+            name: "CJAM 99.1",
+            logo: "stations/images-america/c2c/detroit_mi/CJAM 99.1.png",
+            url: "http://stream.cjam.ca:80/CJAM-live-256k.mp3"
+        },
+        {
+            name: "99.5 WYCD",
+            logo: "stations/images-america/c2c/detroit_mi/99.5 WYCD.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYCDFMAAC_SC"
+        },
+        {
+            name: "Wolf Picks 99.5-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Wolf Picks 99.5-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYCDHD2AAC_SC"
+        },
+        {
+            name: "The Crossing 99.5-HD3",
+            logo: "stations/images-america/c2c/detroit_mi/The Crossing 99.5-HD3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYCDHD3AAC_SC"
+        },
+        {
             name: "100.3 WNIC",
-            logo: "stations/images-america/c2c/WNIC.png",
+            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1153_icy"
         },
         {
-            name: "WDET-FM 101.9 Wayne State University",
-            logo: "stations/images-america/c2c/WDET-FM 101.9 Wayne State University.png",
-            url: "https://wdet.streamguys1.com/live-aac2"
+            name: "Sunny Radio 100.3-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Sunny Radio 100.3-HD2.png",
+            url: "https://ample.revma.ihrhls.com/zc5014/68_1arrqnbq40xov02/playlist.m3u8"
+        },
+        {
+            name: "100.7 Cool FM",
+            logo: "stations/images-america/c2c/detroit_mi/100.7 Cool FM.png",
+            url: "https://live.leanstream.co/CKUEFM"
+        },
+        {
+            name: "101 WRIF",
+            logo: "stations/images-america/c2c/detroit_mi/101 WRIF.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAACIHR_SC"
+        },
+        {
+            name: "101.5 The Patriot",
+            logo: "stations/images-america/c2c/detroit_mi/101.5 The Patriot.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAMAAC_SC"
+        },
+        {
+            name: "WDET 101.9",
+            logo: "stations/images-america/c2c/detroit_mi/WDET 101.9.png",
+            url: "http://wdet.streamguys1.com/live-aac2"
+        },
+        {
+            name: "102.3 CINA",
+            logo: "stations/images-america/c2c/detroit_mi/102.3 CINA.png",
+            url: "https://ice9.securenetsystems.net/CINAFM3"
+        },
+        {
+            name: "ICI Musique 103.9",
+            logo: "stations/images-america/canadream/ICI Musique.svg",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
+        },
+        {
+            name: "104.3 WOMC",
+            logo: "stations/images-america/c2c/detroit_mi/104.3 WOMC.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WOMCFMAAC_SC"
+        },
+        {
+            name: "Oldies 104.3-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Oldies 104.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WOMCHD2AAC_SC"
         },
         {
             name: "105.1 The Bounce",
-            logo: "stations/images-america/c2c/WMGCFM.png",
+            logo: "stations/images-america/c2c/detroit_mi/105.1 The Bounce.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFMAAC_SC"
         },
         {
-            name: "106.7 Detroit's Wheels",
-            logo: "stations/images-america/c2c/WLLZFM.png",
+            name: "Radio Canada Première 105.5",
+            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OWDR0_WDR"
+        },
+        {
+            name: "105.9 Kiss FM",
+            logo: "stations/images-america/c2c/detroit_mi/105.9 Kiss FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WDMKFMAAC_SC"
+        },
+        {
+            name: "106.7 WLLZ",
+            logo: "stations/images-america/c2c/detroit_mi/106.7 WLLZ.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1137_icy"
         },
         {
-            name: "WJR",
-            logo: "stations/images-america/c2c/WJR.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJRAM.mp3"
+            name: "WiLD 106.7-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/WiLD 106.7-HD2.png",
+            url: "https://ample.revma.ihrhls.com/zc4722/20_8m4mnjkh5uhe02/playlist.m3u8"
+        },
+        {
+            name: "HOT 107.5",
+            logo: "stations/images-america/c2c/detroit_mi/HOT 107.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGPRFMAAC_SC"
+        },
+        {
+            name: "La Z 107.9",
+            logo: "stations/images-america/c2c/detroit_mi/La Z 107.9.png",
+            url: "https://sh2.radioonlinehd.com:8050/stream"
+        },
+        {
+            name: "AM 580",
+            logo: "stations/images-america/c2c/detroit_mi/AM 580.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/CKWWAMAAC_SC"
+        },
+        {
+            name: "760 WJR",
+            logo: "stations/images-america/c2c/detroit_mi/760 WJR.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJRAMAAC_SC"
         },
         {
             name: "AM 800",
-            logo: "stations/images-america/c2c/CKLW.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAMAAC.aac"
+            logo: "stations/images-america/c2c/detroit_mi/AM 800.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/CKLWAMAAC_SC"
         },
         {
-            name: "WPON",
-            logo: "stations/images-america/c2c/WPON.png",
-            url: "http://audio.birach.com:9010/;"
+            name: "WWJ 950",
+            logo: "stations/images-america/c2c/detroit_mi/WWJ 950.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WWJAMAAC_SC"
+        },
+        {
+            name: "CBS Sports Radio 1270",
+            logo: "stations/images-america/c2c/detroit_mi/CBS Sports Radio 1270.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXYTAMAAC_SC"
         },
     ],
     "grand_rapids": [
