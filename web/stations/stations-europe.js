@@ -3516,6 +3516,11 @@ var stations = {
             url: "http://media-sov.musicradio.com:80/HeartLondonMP3"
         },
         {
+            name: "Heart Dance",
+            logo: "stations/images-europe/uk/Heart-Dance.png",
+            url: "http://media-ice.musicradio.com/HeartDanceMP3"
+        },
+        {
             name: "Heart 80s",
             logo: "stations/images-europe/uk/Heart 80s.png",
             url: "http://media-the.musicradio.com/Heart80s"
