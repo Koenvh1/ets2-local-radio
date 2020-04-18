@@ -33,13 +33,13 @@ var country_properties = {
         name: "Bakersfield",
         name_english: "Bakersfield",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "barstow": {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "bellingham": {
         name: "Bellingham",
@@ -52,6 +52,12 @@ var country_properties = {
         name_english: "Bend",
         code: "us-or",
         relative_radius: 1.2
+    },
+    "bishop": {
+        name: "Bishop",
+        name_english: "Bishop",
+        code: "us-ca",
+        relative_radius: 1.0
     },
     "burns": {
         name: "Burns",
@@ -69,7 +75,7 @@ var country_properties = {
         name: "Carlsbad",
         name_english: "Carlsbad",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
@@ -129,7 +135,7 @@ var country_properties = {
         name: "El Centro",
         name_english: "El Centro",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "eugene": {
         name: "Eugene",
@@ -141,12 +147,18 @@ var country_properties = {
         name: "Eureka",
         name_english: "Eureka",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "everett": {
         name: "Everett",
         name_english: "Everett",
         code: "us-wa",
+        relative_radius: 1.2
+    },
+    "fallon": {
+        name: "Fallon",
+        name_english: "Fallon",
+        code: "us-nv",
         relative_radius: 1.2
     },
     "farmington": {
@@ -165,7 +177,7 @@ var country_properties = {
         name: "Fresno",
         name_english: "Fresno",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "gallup": {
         name: "Gallup",
@@ -201,19 +213,19 @@ var country_properties = {
         name: "Hornbrook",
         name_english: "Hornbrook",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "huron": {
         name: "Huron",
         name_english: "Huron",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "indio": {
         name: "Indio",
         name_english: "Indio",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "jackpot": {
         name: "Jackpot",
@@ -263,6 +275,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.3
     },
+    "leevining": {
+        name: "Lee Vining",
+        name_english: "Lee Vining",
+        code: "us-ca",
+        relative_radius: 1.3
+    },
     "logan": {
         name: "Logan",
         name_english: "Logan",
@@ -279,7 +297,13 @@ var country_properties = {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 1.3
+        relative_radius: 1.0
+    },
+    "ltahoe": {
+        name: "South Lake Tahoe",
+        name_english: "South Lake Tahoe",
+        code: "us-ca",
+        relative_radius: 0.9
     },
     "medford": {
         name: "Medford",
@@ -309,13 +333,13 @@ var country_properties = {
         name: "Oakdale",
         name_english: "Oakdale",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.5
     },
     "oakland": {
         name: "Oakland",
         name_english: "Oakland",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "ogden": {
         name: "Ogden",
@@ -345,7 +369,7 @@ var country_properties = {
         name: "Oxnard",
         name_english: "Oxnard",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "page": {
         name: "Page",
@@ -411,7 +435,7 @@ var country_properties = {
         name: "Redding",
         name_english: "Redding",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "reno": {
         name: "Reno",
@@ -435,7 +459,7 @@ var country_properties = {
         name: "Sacramento",
         name_english: "Sacramento",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "salem": {
         name: "Salem",
@@ -459,7 +483,7 @@ var country_properties = {
         name: "Santa Cruz",
         name_english: "Santa Cruz",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "santa_fe": {
         name: "Santa Fe",
@@ -471,25 +495,25 @@ var country_properties = {
         name: "Santa Maria",
         name_english: "Santa Maria",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "san_diego": {
         name: "San Diego",
         name_english: "San Diego",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "san_francisco": {
         name: "San Francisco",
         name_english: "San Francisco",
         code: "us-ca",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "san_rafael": {
         name: "San Rafael",
         name_english: "San Rafael",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "san_simon": {
         name: "San Simon",
@@ -537,7 +561,13 @@ var country_properties = {
         name: "Stockton",
         name_english: "Stockton",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
+    },
+    "susanv": {
+        name: "Susanville",
+        name_english: "Susanville",
+        code: "us-ca",
+        relative_radius: 0.6
     },
     "tacoma": {
         name: "Tacoma",
@@ -561,7 +591,7 @@ var country_properties = {
         name: "Truckee",
         name_english: "Truckee",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "tucson": {
         name: "Tucson",
@@ -579,7 +609,7 @@ var country_properties = {
         name: "Ukiah",
         name_english: "Ukiah",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "vancouver": {
         name: "Vancouver",
@@ -627,7 +657,7 @@ var country_properties = {
         name: "California",
         name_english: "California",
         code: "us-ca",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "nevada": {
         name: "Nevada",
@@ -651,6 +681,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "barstow": {
+        relative_whitenoise: 0.95
+    },
+    "bishop": {
         relative_whitenoise: 0.95
     },
     "camp_verde": {
@@ -678,6 +711,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "eureka": {
+        relative_whitenoise: 0.95
+    },
+    "fallon": {
         relative_whitenoise: 0.95
     },
     "flagstaff": {
@@ -710,10 +746,16 @@ var city_properties = {
     "las_vegas": {
         relative_whitenoise: 0.95
     },
+    "leevining": {
+        relative_whitenoise: 0.95
+    },
     "logan": {
         relative_whitenoise: 0.95
     },
     "los_angeles": {
+        relative_whitenoise: 0.95
+    },
+    "ltahoe": {
         relative_whitenoise: 0.95
     },
     "moab": {
@@ -803,6 +845,9 @@ var city_properties = {
     "st_george": {
         relative_whitenoise: 0.95
     },
+    "susanv": {
+        relative_whitenoise: 0.95
+    },
     "tonopah": {
         relative_whitenoise: 0.95
     },
@@ -852,6 +897,14 @@ var cities = [
         "x": "-96833.3",
         "y": "90.5898",
         "z": "12105.3"
+    },
+    {
+        "gameName": "bishop",
+        "realName": "Bishop",
+        "country": "california",
+        "x": "-96896.6",
+        "y": "154.188",
+        "z": "-1977.68"
     },
     {
         "gameName": "camp_verde",
@@ -916,6 +969,14 @@ var cities = [
         "x": "-118391",
         "y": "90.7422",
         "z": "-27408.9"
+    },
+    {
+        "gameName": "fallon",
+        "realName": "Fallon",
+        "country": "nevada",
+        "x": "-94765.4",
+        "y": "201.645",
+        "z": "-14308.2"
     },
     {
         "gameName": "flagstaff",
@@ -1006,12 +1067,28 @@ var cities = [
         "z": "6994.32"
     },
     {
+        "gameName": "leevining",
+        "realName": "Lee Vining",
+        "country": "california",
+        "x": "-100840",
+        "y": "250.52",
+        "z": "-8668.42"
+    },
+    {
         "gameName": "los_angeles",
         "realName": "Los Angeles",
         "country": "california",
         "x": "-103989",
         "y": "90.7422",
         "z": "16444.4"
+    },
+    {
+        "gameName": "ltahoe",
+        "realName": "South Lake Tahoe",
+        "country": "california",
+        "x": "-106098",
+        "y": "450.801",
+        "z": "-11897.2"
     },
     {
         "gameName": "nogales",
@@ -1097,9 +1174,9 @@ var cities = [
         "gameName": "sacramento",
         "realName": "Sacramento",
         "country": "california",
-        "x": "-111350",
-        "y": "90.7422",
-        "z": "-12283.6"
+        "x": "-110724",
+        "y": "65.4805",
+        "z": "-12770.4"
     },
     {
         "gameName": "santa_cruz",
@@ -1129,9 +1206,9 @@ var cities = [
         "gameName": "san_francisco",
         "realName": "San Francisco",
         "country": "california",
-        "x": "-114531",
-        "y": "90.7422",
-        "z": "-10140.2"
+        "x": "-114720",
+        "y": "21.2111",
+        "z": "-9427.15"
     },
     {
         "gameName": "san_rafael",
@@ -1172,6 +1249,14 @@ var cities = [
         "x": "-110864",
         "y": "87.7422",
         "z": "-9926.91"
+    },
+    {
+        "gameName": "susanv",
+        "realName": "Susanville",
+        "country": "california",
+        "x": "-106334",
+        "y": "140.5",
+        "z": "-21803.6"
     },
     {
         "gameName": "tonopah",
@@ -1668,7 +1753,7 @@ var country_properties_mexico = {
         name: "Tijuana",
         name_english: "Tijuana",
         code: "mx-bcn",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "durango": {
         name: "Durango",
@@ -1686,13 +1771,13 @@ var country_properties_mexico = {
         name: "Mexicali",
         name_english: "Mexicali",
         code: "mx-bcn",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "ensenada": {
         name: "Ensenada",
         name_english: "Ensenada",
         code: "mx-bcn",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "san_felipe": {
         name: "San Felipe",
@@ -4295,36 +4380,6 @@ var country_properties_c2c = {
     "utah": {
         name: "utah",
         name_english: "utah",
-        code: "us-ut",
-        relative_radius: 1.2
-    },
-    "beaver_ut": {
-        name: "beaver_ut",
-        name_english: "beaver_ut",
-        code: "us-ut",
-        relative_radius: 1.2
-    },
-    "moab": {
-        name: "moab",
-        name_english: "moab",
-        code: "us-ut",
-        relative_radius: 1.2
-    },
-    "richfield_ut": {
-        name: "richfield_ut",
-        name_english: "richfield_ut",
-        code: "us-ut",
-        relative_radius: 1.2
-    },
-    "st_george": {
-        name: "st_george",
-        name_english: "st_george",
-        code: "us-ut",
-        relative_radius: 1.2
-    },
-    "salt_lake_city": {
-        name: "salt_lake_city",
-        name_english: "salt_lake_city",
         code: "us-ut",
         relative_radius: 1.2
     },
@@ -7903,46 +7958,6 @@ var cities_c2c = [
         "x": "-11367.6",
         "y": "117.089",
         "z": "28539.2"
-    },
-    {
-        "gameName": "beaver_ut",
-        "realName": "Beaver",
-        "country": "utah",
-        "x": "-73127.1",
-        "y": "202.603",
-        "z": "-2566.29"
-    },
-    {
-        "gameName": "moab",
-        "realName": "Moab",
-        "country": "utah",
-        "x": "-58909.5",
-        "y": "360",
-        "z": "-2357.87"
-    },
-    {
-        "gameName": "richfield_ut",
-        "realName": "Richfield",
-        "country": "utah",
-        "x": "-69238.5",
-        "y": "261.382",
-        "z": "-5697.75"
-    },
-    {
-        "gameName": "st_george",
-        "realName": "St. George",
-        "country": "utah",
-        "x": "-78447",
-        "y": "88.9533",
-        "z": "3148.3"
-    },
-    {
-        "gameName": "salt_lake_city",
-        "realName": "Salt Lake City",
-        "country": "utah",
-        "x": "-66476.5",
-        "y": "286.949",
-        "z": "-14895.3"
     },
     {
         "gameName": "brattleboro",
