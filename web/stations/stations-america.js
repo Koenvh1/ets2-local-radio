@@ -709,8 +709,8 @@ var stations = {
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
+            name: "96.5 Alice",
+            logo: "stations/images-america/reno/96.5 Alice.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -732,6 +732,11 @@ var stations = {
             name: "Fun 105.1",
             logo: "stations/images-america/reno/Fun 100.9.png",
             url: "http://ice42.securenetsystems.net/KRFN"
+        },
+        {
+            name: "106.9 More FM",
+            logo: "stations/images-america/reno/106.9 More FM.png",
+            url: "https://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "95.1 The Wolf 105.1-HD2",
@@ -1193,8 +1198,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
+            name: "96.5 Alice",
+            logo: "stations/images-america/reno/96.5 Alice.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -2631,8 +2636,8 @@ var stations = {
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
+            name: "96.5 Alice",
+            logo: "stations/images-america/reno/96.5 Alice.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -3782,8 +3787,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
+            name: "96.5 Alice",
+            logo: "stations/images-america/reno/96.5 Alice.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -3815,6 +3820,11 @@ var stations = {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
             url: "https://ice9.securenetsystems.net/KLCAHD3"
+        },
+        {
+            name: "106.9 More FM",
+            logo: "stations/images-america/reno/106.9 More FM.png",
+            url: "https://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "KTHO 590",
