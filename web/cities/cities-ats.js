@@ -6663,7 +6663,7 @@ var cities_c2c = [
     },
     {
         "gameName": "essex",
-        "realName": "Essex County",
+        "realName": "Essex",
         "country": "massachusetts",
         "x": "101715",
         "y": "32.4135",
