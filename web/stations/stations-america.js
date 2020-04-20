@@ -574,7 +574,7 @@ var stations = {
         },
         {
             name: "100.One",
-            logo: "stations/images-america/flagstaff/KVNA.png",
+            logo: "stations/images-america/flagstaff/100.One.png",
             url: "https://live.wostreaming.net/direct/yavapai-kvnafmaac-ibc1"
         },
         {
@@ -1597,7 +1597,7 @@ var stations = {
         },
         {
             name: "92.5 KLAD",
-            logo: "stations/images-america/klamath_falls/KLAD 92.5 FM.png",
+            logo: "stations/images-america/klamath_falls/92.5 KLAD.png",
             url: "https://ice8.securenetsystems.net/KLADFM"
         },
         {
@@ -1626,8 +1626,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMXFMAAC_SC"
         },
         {
-            name: "The Drive 102.7",
-            logo: "stations/images-america/medford/The Drive 102.7.png",
+            name: "102.7 The Drive",
+            logo: "stations/images-america/medford/102.7 The Drive.png",
             url: "http://ic2.mainstreamnetwork.com/kcna-fm"
         },
         {
@@ -3049,7 +3049,7 @@ var stations = {
     "oxnard": [
         {
             name: "KCLU 88.3",
-            logo: "stations/images-america/santa_maria/KCLU.png",
+            logo: "stations/images-america/santa_maria/KCLU 89.7.png",
             url: "https://kclustream.callutheran.edu:8090/kclump3"
         },
         {
@@ -9191,8 +9191,8 @@ var stations_c2c = {
             url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
         },
         {
-            name: "Kissin 92.3 FM",
-            logo: "stations/images-america/ontario/Kissin 92.3 FM.png",
+            name: "Kissin 92.3",
+            logo: "stations/images-america/ontario/Kissin 92.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIZNFMAAC.aac"
         },
         {
@@ -9221,8 +9221,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQXRFMAAC.aac"
         },
         {
-            name: "103.5 Kiss FM",
-            logo: "stations/images-america/ontario/103.5 Kiss FM.png",
+            name: "103.5 KISS FM",
+            logo: "stations/images-america/ontario/103.5 KISS FM.png",
             url: "http://stream.abacast.net/direct/townsquare-ksasfmaac-ibc3"
         },
         {
