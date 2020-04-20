@@ -459,7 +459,7 @@ var country_properties = {
         name: "Sacramento",
         name_english: "Sacramento",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "salem": {
         name: "Salem",
