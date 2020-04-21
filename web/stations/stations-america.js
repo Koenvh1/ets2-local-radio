@@ -675,7 +675,7 @@ var stations = {
         },
         {
             name: "K-Bull 98.1",
-            logo: "stations/images-america/carson_city/K-Bull 98.1.png",
+            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
@@ -1120,7 +1120,7 @@ var stations = {
         },
         {
             name: "99.1 KISS FM",
-            logo: "stations/images-america/eureka/99.1 KISS FM.png",
+            logo: "stations/images-america/eureka/99.1 Kiss FM.png",
             url: "https://ice10.securenetsystems.net/KJNY"
         },
         {
@@ -1602,7 +1602,7 @@ var stations = {
         },
         {
             name: "93.7 Now FM",
-            logo: "stations/images-america/medford/93.7 NOW FM.png",
+            logo: "stations/images-america/medford/93.7 Now FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMTFMAAC_SC"
         },
         {
@@ -1956,7 +1956,7 @@ var stations = {
         },
         {
             name: "93.7 NOW FM",
-            logo: "stations/images-america/medford/93.7 NOW FM.png",
+            logo: "stations/images-america/medford/93.7 Now FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMTFMAAC_SC"
         },
         {
@@ -2167,7 +2167,7 @@ var stations = {
         },
         {
             name: "REAL 103.9",
-            logo: "stations/images-america/las_vegas/REAL 103.9.png",
+            logo: "stations/images-america/las_vegas/Real 103.9.png",
             url: "http://c3icyelb.prod.playlists.ihrhls.com/6967_icy"
         },
         {
@@ -2375,7 +2375,7 @@ var stations = {
         },
         {
             name: "REAL 92.3",
-            logo: "stations/images-america/los_angeles/REAL 92.3.png",
+            logo: "stations/images-america/los_angeles/Real 92.3.png",
             url: "http://c8icyelb.prod.playlists.ihrhls.com/181_icy"
         },
         {
@@ -2592,7 +2592,7 @@ var stations = {
         },
         {
             name: "K-Bull 98.1",
-            logo: "stations/images-america/carson_city/K-Bull 98.1.png",
+            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
@@ -2634,7 +2634,7 @@ var stations = {
         },
         {
             name: "93.7 Now FM",
-            logo: "stations/images-america/medford/93.7 NOW FM.png",
+            logo: "stations/images-america/medford/93.7 Now FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMTFMAAC_SC"
         },
         {
@@ -3022,7 +3022,7 @@ var stations = {
         },
         {
             name: "103.5 KISS FM",
-            logo: "stations/images-america/ontario/103.5 KISS FM.png",
+            logo: "stations/images-america/ontario/103.5 Kiss FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ksasfmaac-ibc3"
         },
         {
@@ -3079,7 +3079,7 @@ var stations = {
         },
         {
             name: "REAL 92.3",
-            logo: "stations/images-america/los_angeles/REAL 92.3.png",
+            logo: "stations/images-america/los_angeles/Real 92.3.png",
             url: "http://c8icyelb.prod.playlists.ihrhls.com/181_icy"
         },
         {
@@ -3295,7 +3295,7 @@ var stations = {
         },
         {
             name: "MIX 96.9",
-            logo: "stations/images-america/phoenix/MIX 96.9.png",
+            logo: "stations/images-america/phoenix/MiX 96.9.png",
             url: "http://c11icyelb.prod.playlists.ihrhls.com/45_icy"
         },
         {
@@ -3696,7 +3696,7 @@ var stations = {
         },
         {
             name: "WiLD 99.3",
-            logo: "stations/images-america/redding/WiLD 99.3.png",
+            logo: "stations/images-america/redding/Wild 99.3.png",
             url: "https://ice6.securenetsystems.net/KWLZ"
         },
         {
@@ -3763,7 +3763,7 @@ var stations = {
         },
         {
             name: "K-Bull 98.1",
-            logo: "stations/images-america/carson_city/K-Bull 98.1.png",
+            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
@@ -3897,7 +3897,7 @@ var stations = {
         },
         {
             name: "MIX 96",
-            logo: "stations/images-america/sacramento/MIX 96.png",
+            logo: "stations/images-america/sacramento/Mix 96.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYMXFMAAC_SC"
         },
         {
@@ -3922,7 +3922,7 @@ var stations = {
         },
         {
             name: "NOW 100.5",
-            logo: "stations/images-america/sacramento/NOW 100.5.png",
+            logo: "stations/images-america/sacramento/Now 100.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZZOFMAAC_SC"
         },
         {
@@ -4633,7 +4633,7 @@ var stations = {
         },
         {
             name: "WiLD 94.9",
-            logo: "stations/images-america/san_francisco/WiLD 94.9.png",
+            logo: "stations/images-america/san_francisco/Wild 94.9.png",
             url: "http://c4icyelb.prod.playlists.ihrhls.com/305_icy"
         },
         {
@@ -4889,7 +4889,7 @@ var stations = {
         },
         {
             name: "HOT 103.7",
-            logo: "stations/images-america/seattle/HOT 103.7.png",
+            logo: "stations/images-america/seattle/Hot 103.7.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KHTPFMAAC_SC"
         },
         {
@@ -5147,7 +5147,7 @@ var stations = {
         },
         {
             name: "105.7 NOW FM",
-            logo: "stations/images-america/spokane/105.7 NOW FM.png",
+            logo: "stations/images-america/spokane/105.7 Now FM.png",
             url: "https://ice6.securenetsystems.net/KZBD"
         },
         {
@@ -5752,7 +5752,7 @@ var stations = {
         },
         {
             name: "HOT 99.7",
-            logo: "stations/images-america/yakima/HOT 99.7.png",
+            logo: "stations/images-america/yakima/Hot 99.7.png",
             url: "https://ice5.securenetsystems.net/KHHK"
         },
         {
@@ -5772,7 +5772,7 @@ var stations = {
         },
         {
             name: "BIG 106.1",
-            logo: "stations/images-america/yakima/BIG 106.1.png",
+            logo: "stations/images-america/yakima/Big 106.1.png",
             url: "https://ice9.securenetsystems.net/KHHKHD2"
         },
         {
@@ -12610,7 +12610,7 @@ var stations_c2c = {
         },
         {
             name: "ICI Musique 103.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
         },
         {
@@ -14740,7 +14740,7 @@ var stations_c2c = {
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/WiLD 104.png",
+            logo: "stations/images-america/0_general_logos/Wild 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -14822,7 +14822,7 @@ var stations_c2c = {
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/WiLD 104.png",
+            logo: "stations/images-america/0_general_logos/Wild 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -15123,7 +15123,7 @@ var stations_c2c = {
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/WiLD 104.png",
+            logo: "stations/images-america/0_general_logos/Wild 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -15236,7 +15236,7 @@ var stations_c2c = {
         },
         {
             name: "alt 101.5",
-            logo: "stations/images-america/c2c/missoula_mt/alt 101.5.png",
+            logo: "stations/images-america/c2c/missoula_mt/Alt 101.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kammfmaac-ibc3"
         },
         {
@@ -15256,7 +15256,7 @@ var stations_c2c = {
         },
         {
             name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/WiLD 104.png",
+            logo: "stations/images-america/0_general_logos/Wild 104.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -21034,8 +21034,8 @@ var stations_c2c = {
             url: "http://stream.abacast.net/direct/brewerchattanooga-wplzfmaac-ibc4"
         },
         {
-            name: "Real 96.1",
-            logo: "stations/images-america/c2c/chattanooga_tn/Real 96.1.png",
+            name: "REAL 96.1",
+            logo: "stations/images-america/c2c/chattanooga_tn/REAL 96.1.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2_SC"
         },
         {
@@ -25302,7 +25302,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 88.3",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QQUE0_QUE"
         },
     ],
@@ -25397,7 +25397,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 89.7",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
         },
         {
@@ -25615,7 +25615,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 90.1",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL"
         },
         {
@@ -25676,7 +25676,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique Halifax 91.5",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
         },
         {
@@ -26048,7 +26048,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 96.1",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT"
         },
         {
@@ -26187,7 +26187,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 100.7",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL"
         },
         {
@@ -26346,7 +26346,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 102.5",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT"
         },
         {
@@ -26499,7 +26499,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 95.3",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QQUE0_QUE"
         },
         {
@@ -26541,7 +26541,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 90.7",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT"
         },
         {
@@ -26563,7 +26563,7 @@ var stations_canadream = {
     "regina": [
         {
             name: "ICI Musique 88.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "https://srcmus-lh.akamaihd.net/i/SRCMUSIQUE_WIN@513780/master.m3u8"
         },
         {
@@ -26630,7 +26630,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 89.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL"
         },
         {
@@ -26699,7 +26699,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 100.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QSAG0_SAG"
         },
         {
@@ -26716,7 +26716,7 @@ var stations_canadream = {
     "saskatoon": [
         {
             name: "ICI Musique 88.7",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "https://srcmus-lh.akamaihd.net/i/SRCMUSIQUE_WIN@513780/master.m3u8"
         },
         {
@@ -26810,7 +26810,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 96.1",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL"
         },
         {
@@ -26845,7 +26845,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 90.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OSUB0_SUB"
         },/*
         {
@@ -26949,7 +26949,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 90.3",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
         },
         {
@@ -27073,7 +27073,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 90.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7BVAN0_VAN"
         },
         {
@@ -27253,7 +27253,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 89.9",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "https://srcmus-lh.akamaihd.net/i/SRCMUSIQUE_WIN@513780/master.m3u8"
         },
         {
@@ -27355,7 +27355,7 @@ var stations_canadream = {
         },
         {
             name: "ICI Musique 106.1",
-            logo: "stations/images-america/canadream/ICI Musique.svg",
+            logo: "stations/images-america/canadream/ICI Musique.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
         },
         {
