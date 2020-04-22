@@ -95,6 +95,10 @@ namespace ETS2_Local_Radio_server
                     var stringSize = g.MeasureString(NowPlaying + " " + name, font);
                     var nowPlayingSize = g.MeasureString(NowPlaying + " ", font);
                     var nameSize = g.MeasureString(name, font);
+                    
+                    var currentStation = name + "(" + signal + ")";
+                    System.IO.File.WriteAllText(@".\CurrentStation.txt", currentStation);
+                    
                     var topLeft = new PointF((512 / 2) - (stringSize.Width / 2) + 123,
                         (bmp.Height / 2) - (stringSize.Height / 2));
                     //var rectangle = new Rectangle(0, 0, (int)stringSize.Width, (int)stringSize.Height);
