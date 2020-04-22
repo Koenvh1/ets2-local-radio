@@ -40,6 +40,9 @@ namespace ETS2_Local_Radio_server
         public static string NowPlaying = "Now playing:";
         public static bool RTL = false;
 
+        public static string RadioStation = "-";
+        public static string RadioSignal = "1";
+        
         public static int Width = 0;
         public static int Height = 0;
 
@@ -94,6 +97,10 @@ namespace ETS2_Local_Radio_server
 
                     var stringSize = g.MeasureString(NowPlaying + " " + name, font);
                     var nowPlayingSize = g.MeasureString(NowPlaying + " ", font);
+                    
+                    RadioStation = name;
+                    RadioSignal = signal;
+                    
                     var nameSize = g.MeasureString(name, font);
                     var topLeft = new PointF((512 / 2) - (stringSize.Width / 2) + 123,
                         (bmp.Height / 2) - (stringSize.Height / 2));
