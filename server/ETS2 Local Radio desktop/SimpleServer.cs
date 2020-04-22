@@ -275,12 +275,11 @@ namespace ETS2_Local_Radio_server
             }
             else if (context.Request.Url.AbsolutePath == "/api/radio/")
             {
-                string json = "{\"Radio\":\"" + Station.RadioStation + "\",\"Signal\":\"" + Station.RadioSignal+ "\"}";
-                string text = Newtonsoft.Json.JsonConvert.SerializeObject(json);
+                string json = "{\"Radio\":\"" + Station.RadioStation + "\",\"Signal\":\"" + Station.RadioSignal + "\"}";
                 context.Response.ContentType = "application/json";
-                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
+                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(json).Length;
                 context.Response.StatusCode = (int)HttpStatusCode.OK;
-                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
+                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(json), 0, Encoding.UTF8.GetBytes(json).Length);
                 context.Response.OutputStream.Flush();
             }
             else if (context.Request.Url.AbsolutePath == "/commands/")
