@@ -704,7 +704,7 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KRNO"
         },
         {
-            name: "590 KTHO",
+            name: "K-Tahoe 590",
             logo: "stations/images-america/ltahoe/KTHO 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
@@ -2581,7 +2581,7 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
-            name: "KTHO 96.1",
+            name: "K-Tahoe 96.1",
             logo: "stations/images-america/ltahoe/KTHO 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
@@ -3792,7 +3792,7 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KRNO"
         },
         {
-            name: "KTHO 590",
+            name: "K-Tahoe 590",
             logo: "stations/images-america/ltahoe/KTHO 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
@@ -5470,12 +5470,12 @@ var stations = {
             url: "http://live.kvmr.org:8000/aac96"
         },
         {
-            name: "KTHO 590",
+            name: "K-Tahoe 590",
             logo: "stations/images-america/ltahoe/KTHO 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
-            name: "Talk 650",
+            name: "650 KSTE",
             logo: "stations/images-america/sacramento/650 KSTE.png",
             url: "https://c2.prod.playlists.ihrhls.com/229_icy"
         },
