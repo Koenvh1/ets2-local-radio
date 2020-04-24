@@ -11225,245 +11225,270 @@ var stations_c2c = {
     ],
     "lafayette_la": [
         {
-            name: "KRVS 88.7 University of Louisiana at Lafayette",
-            logo: "stations/images-america/c2c/KRVS 88.7 University of Louisiana at Lafayette.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFM.mp3"
+            name: "KRVS 88.7",
+            logo: "stations/images-america/c2c/lafayette_la/KRVS 88.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFM_SC"
         },
         {
-            name: "Classic Hits 92.5",
-            logo: "stations/images-america/c2c/Classic Hits 92.5.png",
-            url: "http://ice7.securenetsystems.net/KVPIFM"
+            name: "92.7 Jam Central",
+            logo: "stations/images-america/c2c/lafayette_la/92.7 Jam Central.png",
+            url: "http://45.34.6.204:8001/kzjm"
         },
         {
             name: "94.5 KSMB",
-            logo: "stations/images-america/c2c/94.5 KSMB.png",
+            logo: "stations/images-america/c2c/lafayette_la/94.5 KSMB.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSMBFMAAC_SC"
         },
         {
-            name: "Sunny 95.1",
-            logo: "stations/images-america/c2c/KSIG.png",
-            url: "https://ice23.securenetsystems.net/KSIG1450"
+            name: "Q95.5",
+            logo: "stations/images-america/c2c/lafayette_la/Q95.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRRQFMAAC_SC"
         },
         {
-            name: "KPEL 96.5 News Talk",
-            logo: "stations/images-america/c2c/KPEL 96.5 News Talk.png",
+            name: "96.5 KPEL",
+            logo: "stations/images-america/c2c/lafayette_la/96.5 KPEL.png",
             url: "http://stream.abacast.net/direct/townsquare-kpelfmaac-ibc3"
         },
         {
             name: "97.3 The Dawg",
-            logo: "stations/images-america/c2c/KMDLFM.png",
+            logo: "stations/images-america/c2c/lafayette_la/97.3 The Dawg.png",
             url: "http://stream.abacast.net/direct/townsquare-kmdlfmaac-ibc3"
         },
         {
-            name: "KTDY",
-            logo: "stations/images-america/c2c/KTDY.png",
+            name: "The Rewind 97.7",
+            logo: "stations/images-america/c2c/lafayette_la/The Rewind 97.7.png",
+            url: "https://ice9.securenetsystems.net/KVOL"
+        },
+        {
+            name: "Nash FM 99.1",
+            logo: "stations/images-america/c2c/lafayette_la/Nash FM 99.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
+        },
+        {
+            name: "99.9 KTDY",
+            logo: "stations/images-america/c2c/lafayette_la/99.9 KTDY.png",
             url: "http://stream.abacast.net/direct/townsquare-ktdyfmaac-ibc3"
         },
         {
-            name: "101.1 KBON",
-            logo: "stations/images-america/c2c/101.1 KBON.png",
-            url: "http://ice64.securenetsystems.net/KBON"
-        },
-        {
             name: "Big 102.1",
-            logo: "stations/images-america/c2c/Big 102.1.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYBGFM.mp3"
+            logo: "stations/images-america/c2c/lafayette_la/Big 102.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYBGFMAAC_SC"
         },
         {
             name: "103.7 The Game",
-            logo: "stations/images-america/c2c/KLWBFM.png",
+            logo: "stations/images-america/c2c/lafayette_la/103.7 The Game.png",
             url: "http://ice6.securenetsystems.net/KLWB"
         },
         {
+            name: "Magic 104.7",
+            logo: "stations/images-america/c2c/lafayette_la/Magic 104.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEKFMAAC_SC"
+        },
+        {
             name: "Classic Rock 105.1",
-            logo: "stations/images-america/c2c/Classic Rock 105.1.png",
+            logo: "stations/images-america/c2c/lafayette_la/Classic Rock 105.1.png",
             url: "http://stream.abacast.net/direct/townsquare-kftefmaac-ibc3"
         },
         {
             name: "Z105.9",
-            logo: "stations/images-america/c2c/KFXZFM.png",
+            logo: "stations/images-america/c2c/lafayette_la/Z105.9.png",
             url: "http://ice7.securenetsystems.net/KFXZ"
         },
         {
-            name: "106.3",
-            logo: "stations/images-america/c2c/106.3.png",
+            name: "106Three",
+            logo: "stations/images-america/c2c/lafayette_la/106Three.png",
             url: "http://ice7.securenetsystems.net/KYMK"
         },
         {
             name: "Pure Country 106.7",
-            logo: "stations/images-america/c2c/Pure Country 106.7.png",
+            logo: "stations/images-america/c2c/lafayette_la/Pure Country 106.7.png",
             url: "http://ice41.securenetsystems.net/KSIG1067"
         },
         {
             name: "Mustang 107.1",
-            logo: "stations/images-america/c2c/KOGMFM.png",
+            logo: "stations/images-america/c2c/lafayette_la/Mustang 107.1.png",
             url: "http://ice6.securenetsystems.net/KOGM"
         },
         {
-            name: "Hot 107.9",
-            logo: "stations/images-america/c2c/KHXTFM.png",
+            name: "HOT 107.9",
+            logo: "stations/images-america/c2c/lafayette_la/HOT 107.9.png",
             url: "http://stream.abacast.net/direct/townsquare-khxtfmaac-ibc3"
         },
         {
-            name: "Talk Radio 960",
-            logo: "stations/images-america/c2c/Talk Radio 960.png",
+            name: "TalkRadio 960",
+            logo: "stations/images-america/c2c/lafayette_la/TalkRadio 960.png",
             url: "http://stream.abacast.net/direct/townsquare-krofamaac-ibc3"
         },
         {
-            name: "KANE Radio 1240",
-            logo: "stations/images-america/c2c/KANE Radio 1240.png",
+            name: "KANE 1240",
+            logo: "stations/images-america/c2c/lafayette_la/KANE 1240.png",
             url: "http://sc03.warpradio.com:8554/;"
-        },
-        {
-            name: "Cajun Radio",
-            logo: "stations/images-america/c2c/Cajun Radio.png",
-            url: "http://stream.abacast.net/direct/townsquare-kjefamaac-ibc3"
-        },
-        {
-            name: "KVOL",
-            logo: "stations/images-america/c2c/KVOL.png",
-            url: "http://ice9.securenetsystems.net/KVOL"
-        },
-        {
-            name: "ESPN 1420 KPEL",
-            logo: "stations/images-america/c2c/KPEL.png",
-            url: "http://stream.abacast.net/direct/townsquare-kpelamaac-ibc3"
         },
     ],
     "lake_charles": [
         {
             name: "KBYS 88.3",
-            logo: "stations/images-america/c2c/lake_charles/KBYS 88.3.svg",
+            logo: "stations/images-america/c2c/lake_charles_la/KBYS 88.3.svg",
             url: "http://stream.kbys.fm:8020/1"
         },
         {
             name: "Classic Rock 92.1",
-            logo: "stations/images-america/c2c/lake_charles/Classic Rock 92.1.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Classic Rock 92.1.png",
             url: "http://stream.abacast.net/direct/townsquare-ktsrfmaac-ibc3"
         },
         {
             name: "92.9 The Lake",
-            logo: "stations/images-america/c2c/lake_charles/92.9 The Lake.png",
+            logo: "stations/images-america/c2c/lake_charles_la/92.9 The Lake.png",
             url: "http://stream.abacast.net/direct/townsquare-khlafmaac-ibc3"
         },
         {
             name: "KYKZ 96",
-            logo: "stations/images-america/c2c/lake_charles/KYKZ 96.png",
+            logo: "stations/images-america/c2c/lake_charles_la/KYKZ 96.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYKZFM_SC"
         },
         {
             name: "97.9 Nash Icon",
-            logo: "stations/images-america/c2c/lake_charles/97.9 Nash Icon.png",
+            logo: "stations/images-america/c2c/lake_charles_la/97.9 Nash Icon.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQLKFM_SC"
         },
         {
             name: "Gator 99.5",
-            logo: "stations/images-america/c2c/lake_charles/Gator 99.5.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Gator 99.5.png",
             url: "http://stream.abacast.net/direct/townsquare-kngtfmaac-ibc3"
         },
         {
             name: "Rock 101",
-            logo: "stations/images-america/c2c/lake_charles/Rock 101.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Rock 101.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGBFM_SC"
         },
         {
             name: "Hot 103.3",
-            logo: "stations/images-america/c2c/lake_charles/Hot 103.3.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Hot 103.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBIUFM_SC"
         },
         {
             name: "Live 104.9",
-            logo: "stations/images-america/c2c/lake_charles/Live 104.9.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Live 104.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM_SC"
         },
         {
             name: "107 JAMZ",
-            logo: "stations/images-america/c2c/lake_charles/107 JAMZ.png",
+            logo: "stations/images-america/c2c/lake_charles_la/107 JAMZ.png",
             url: "http://stream.abacast.net/direct/townsquare-kjmhfmaac-ibc3"
         },
         {
             name: "SuperTalk 1400",
-            logo: "stations/images-america/c2c/lake_charles/SuperTalk 1400.png",
+            logo: "stations/images-america/c2c/lake_charles_la/SuperTalk 1400.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KAOKAM_SC"
         },
         {
             name: "Magic 1470",
-            logo: "stations/images-america/c2c/lake_charles/Magic 1470.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Magic 1470.png",
             url: "http://stream.abacast.net/direct/townsquare-klclamaac-ibc3"
         },
         {
             name: "Sports Radio 1580",
-            logo: "stations/images-america/c2c/lake_charles/Sports Radio 1580.png",
+            logo: "stations/images-america/c2c/lake_charles_la/Sports Radio 1580.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXZZAM_SC"
         },
     ],
     "monroe_la": [
         {
-            name: "90.3 KEDM Public Radio",
-            logo: "stations/images-america/c2c/90.3 KEDM Public Radio.png",
+            name: "90.3 KEDM",
+            logo: "stations/images-america/c2c/monroe_la/90.3 KEDM.png",
             url: "https://stream.kedm.org/listen"
         },
         {
-            name: "90.3 KEDM Ideas",
-            logo: "stations/images-america/c2c/90.3 KEDM Ideas.png",
+            name: "KEDM Ideas 90.3-HD2",
+            logo: "stations/images-america/c2c/monroe_la/90.3 KEDM.png",
             url: "https://stream.kedm.org/listen2"
         },
         {
-            name: "KGRM 91.5 Grambling State University",
-            logo: "stations/images-america/c2c/KGRM 91.5 Grambling State University.png",
-            url: "http://ice41.securenetsystems.net/KGRM"
+            name: "91X",
+            logo: "stations/images-america/c2c/monroe_la/91X.png",
+            url: "http://stream.kxul.com/listen"
+        },
+        {
+            name: "92.3 The Wolf",
+            logo: "stations/images-america/c2c/monroe_la/92.3 The Wolf.png",
+            url: "https://ice5.securenetsystems.net/KMYY"
+        },
+        {
+            name: "The Breeze 95.3",
+            logo: "stations/images-america/c2c/monroe_la/The Breeze 95.3.png",
+            url: "http://45.31.15.87:88/broadwave.mp3"
+        },
+        {
+            name: "Live 96.3",
+            logo: "stations/images-america/c2c/monroe_la/Live 96.3.png",
+            url: "http://ic2618.c2433.fast-serv.com/stream"
+        },
+        {
+            name: "Majic 97",
+            logo: "stations/images-america/c2c/monroe_la/Majic 97.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KJMGFMAAC_SC"
         },
         {
             name: "Sunny 98.3",
-            logo: "stations/images-america/c2c/Sunny 98.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZRZFM.mp3"
+            logo: "stations/images-america/c2c/monroe_la/Sunny 98.3.png",
+            url: "https://ice9.securenetsystems.net/KZRZ"
         },
         {
-            name: "99.7 My FM",
-            logo: "stations/images-america/c2c/KRJO.png",
+            name: "99.7 The Legend",
+            logo: "stations/images-america/c2c/monroe_la/99.7 The Legend.png",
             url: "http://ice66.securenetsystems.net/KRJO"
         },
         {
             name: "100.1 The Beat",
-            logo: "stations/images-america/c2c/KRVVFM.png",
+            logo: "stations/images-america/c2c/monroe_la/100.1 The Beat.png",
             url: "https://ice66.securenetsystems.net/KRVV"
         },
         {
             name: "Mix 101.9",
-            logo: "stations/images-america/c2c/KMVXFM.png",
+            logo: "stations/images-america/c2c/monroe_la/Mix 101.9.png",
             url: "https://ice66.securenetsystems.net/KMVX"
         },
         {
+            name: "103.1 NOW FM",
+            logo: "stations/images-america/c2c/monroe_la/103.1 NOW FM.png",
+            url: "https://ice5.securenetsystems.net/KNNW"
+        },
+        {
             name: "K-104",
-            logo: "stations/images-america/c2c/KJLOFM.png",
+            logo: "stations/images-america/c2c/monroe_la/K-104.png",
             url: "https://ice66.securenetsystems.net/KJLO"
         },
         {
-            name: "LA 105 Classic Hits",
-            logo: "stations/images-america/c2c/LA 105 Classic Hits.png",
-            url: "http://ice66.securenetsystems.net/KLIP"
+            name: "LA105",
+            logo: "stations/images-america/c2c/monroe_la/LA105.png",
+            url: "https://ice66.securenetsystems.net/KLIP"
         },
         {
-            name: "KMLB News Talk",
-            logo: "stations/images-america/c2c/KMLB News Talk.jpg",
-            url: "http://ice66.securenetsystems.net/KMLB2"
+            name: "KMLB 105.7",
+            logo: "stations/images-america/c2c/monroe_la/KMLB 105.7.png",
+            url: "https://ice66.securenetsystems.net/KMLB"
         },
         {
             name: "Rock 106",
-            logo: "stations/images-america/c2c/KXRR.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXRRFMAAC.aac"
+            logo: "stations/images-america/c2c/monroe_la/Rock 106.png",
+            url: "https://ice5.securenetsystems.net/KXRR"
+        },
+        {
+            name: "Z107.5",
+            logo: "stations/images-america/c2c/monroe_la/Z107.5.png",
+            url: "https://ice7.securenetsystems.net/KXKZ"
         },
     ],
     "natchitoches_la": [
         {
-            name: "91.7 The Demon KNWD",
-            logo: "stations/images-america/c2c/KNWDFM.png",
+            name: "KNWD 91.7",
+            logo: "stations/images-america/c2c/natchitoches_la/KNWD 91.7.png",
             url: "http://s18.myradiostream.com:10900/;"
         },
         {
-            name: "95.9 Kix Country",
-            logo: "stations/images-america/c2c/KNOC.png",
-            url: "http://69.64.65.171:8192/kix"
+            name: "KZBL 100.7",
+            logo: "stations/images-america/c2c/natchitoches_la/KZBL 100.7.png",
+            url: "http://104.243.161.137:88/broadwave.mp3"
         },
     ],
     "new_orleans": [
