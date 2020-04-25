@@ -98,14 +98,14 @@ namespace ETS2_Local_Radio_server
         private string _rootDirectory;
         private HttpListener _listener;
         private int _port;
-        private int _radioSignal;
+        private string _radioSignal;
 
         public int Port
         {
             get { return _port; }
             private set { }
         }
-        public int RadioSignal
+        public string RadioSignal
         {
             get { return _radioSignal; }
             set { _radioSignal = value; }
@@ -294,7 +294,7 @@ namespace ETS2_Local_Radio_server
                 station = WebUtility.UrlDecode(station);
                 station = station.Split(new string[] { "/api/radio/set/" }, StringSplitOptions.None)[1];
 
-                RadioSignal = Int32.Parse(station.Split("/".ToCharArray())[0]);
+                RadioSignal = station.Split("/".ToCharArray())[0];
 
                 string text = "{\"Success\": true}";
 
