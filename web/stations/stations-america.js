@@ -4408,9 +4408,14 @@ var stations = {
             url: "https://kcbx-ice.streamguys1.com/kcbx-hi"
         },
         {
+            name: "Mega Hits 97.1",
+            logo: "stations/images-america/santa_maria/Mega Hits 97.1.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice10.securenetsystems.net/KRTO"
+        },
+        {
             name: "Old School 99.1",
             logo: "stations/images-america/santa_maria/Old School 99.1.png",
-            url: "https://ice9.securenetsystems.net/KQIE"
+            url: "https://ice6.securenetsystems.net/KQAV"
         },
         {
             name: "Eclectic24 101.3",
@@ -11089,138 +11094,233 @@ var stations_c2c = {
     ],
     "alexandria_la": [
         {
-            name: "Red River Radio",
-            logo: "stations/images-america/c2c/89.9 KDAQ Red River Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM.mp3"
+            name: "Red River Radio 90.7",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
         },
         {
-            name: "Classical Red River Radio",
-            logo: "stations/images-america/c2c/89.9 KDAQ Classical Red River Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2.mp3"
+            name: "Red River Radio Classical 90.7-HD2",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2_SC"
         },
         {
-            name: "News Talk Red River Radio",
-            logo: "stations/images-america/c2c/89.9 KDAQ News Talk Red River Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3"
+            name: "Red River Radio NewsTalk 90.7-HD3",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3_SC"
         },
         {
             name: "Q93",
-            logo: "stations/images-america/c2c/KQIDFM.png",
+            logo: "stations/images-america/c2c/alexandria_la/Q93.png",
             url: "http://ice5.securenetsystems.net/KQID"
         },
         {
-            name: "KZMZ 96.9 Rocks",
-            logo: "stations/images-america/c2c/KZMZFM.png",
+            name: "94.7 ESPN",
+            logo: "stations/images-america/c2c/alexandria_la/94.7 ESPN.png",
+            url: "https://ice9.securenetsystems.net/KDBS"
+        },
+        {
+            name: "96.9 ROCKS",
+            logo: "stations/images-america/c2c/alexandria_la/96.9 ROCKS.png",
             url: "http://ice5.securenetsystems.net/KZMZ"
         },
         {
-            name: "Kiss 98.7 FM",
-            logo: "stations/images-america/c2c/KKSTFM.png",
+            name: "Kiss 98.7",
+            logo: "stations/images-america/c2c/alexandria_la/Kiss 98.7.png",
             url: "http://ice5.securenetsystems.net/KKST"
         },
         {
             name: "100.3 KRRV",
-            logo: "stations/images-america/c2c/KRRVFM.png",
+            logo: "stations/images-america/c2c/alexandria_la/100.3 KRRV.png",
             url: "http://ice5.securenetsystems.net/KRRV"
         },
         {
-            name: "Magic 100.9",
-            logo: "stations/images-america/c2c/KQIDHD2.png",
-            url: "http://ice41.securenetsystems.net/KQIDHD2"
+            name: "KDixie 100.3-HD2",
+            logo: "stations/images-america/c2c/alexandria_la/KDixie 100.3-HD2.png",
+            url: "https://ice41.securenetsystems.net/KDIXIE"
         },
         {
-            name: "KSYL",
-            logo: "stations/images-america/c2c/KSYL.png",
+            name: "KSYL 100.3-HD3",
+            logo: "stations/images-america/c2c/alexandria_la/KSYL 100.3-HD3.png",
             url: "http://ice5.securenetsystems.net/KSYL"
         },
         {
+            name: "Magic 100.9",
+            logo: "stations/images-america/c2c/alexandria_la/Magic 100.9.png",
+            url: "http://ice41.securenetsystems.net/KQIDHD2"
+        },
+        {
+            name: "LA 103.5",
+            logo: "stations/images-america/c2c/alexandria_la/LA 103.5.png",
+            url: "https://ice5.securenetsystems.net/KLAA"
+        },
+        {
             name: "105.5 K-Buck",
-            logo: "stations/images-america/c2c/KBKKFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBKKFMAAC.aac"
+            logo: "stations/images-america/c2c/alexandria_la/105.5 K-Buck.png",
+            url: "https://ice5.securenetsystems.net/KBKK"
         },
         {
             name: "Sunny 106.9",
-            logo: "stations/images-america/c2c/KEDGFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEDGFMAAC.aac"
+            logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9.png",
+            url: "https://ice5.securenetsystems.net/KEDG"
+        },
+        {
+            name: "KTTP 1110",
+            logo: "stations/images-america/c2c/alexandria_la/KTTP 1110.png",
+            url: "http://s6.voscast.com:9286/;"
         },
     ],
     "baton_rouge": [
         {
-            name: "wrkf 89.3",
-            logo: "stations/images-america/c2c/wrkf 89.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRKFFM.mp3"
+            name: "WRKF 89.3",
+            logo: "stations/images-america/c2c/baton_rouge_la/WRKF 89.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRKFFM_SC"
         },
         {
-            name: "wrkf 89.3 HD2",
-            logo: "stations/images-america/c2c/wrkf 89.3 HD2.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRKFHD2.mp3"
+            name: "WRKF 89.3-HD2",
+            logo: "stations/images-america/c2c/baton_rouge_la/WRKF 89.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRKFHD2_SC"
+        },
+        {
+            name: "90.3 WBRH",
+            logo: "stations/images-america/c2c/baton_rouge_la/90.3 WBRH.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBRHFMAAC_64_SC"
+        },
+        {
+            name: "91.1 KLSU",
+            logo: "stations/images-america/c2c/baton_rouge_la/91.1 KLSU.png",
+            url: "http://130.39.238.143:8010/stream.aac"
+        },
+        {
+            name: "ALT 92.3",
+            logo: "stations/images-america/c2c/new_orleans_la/ALT 92.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC"
         },
         {
             name: "Max 94.1",
-            logo: "stations/images-america/c2c/WEMXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEMXFMAAC.aac"
+            logo: "stations/images-america/c2c/mccomb_ms/Max 94.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEMXFMAAC_SC"
         },
         {
             name: "96.1 The River",
-            logo: "stations/images-america/c2c/96.1 The River.png",
+            logo: "stations/images-america/c2c/baton_rouge_la/96.1 The River.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1001_icy"
         },
         {
-            name: "101.5 WYNK",
-            logo: "stations/images-america/c2c/WYNKFM.png",
-            url: "https://c2icy.prod.playlists.ihrhls.com/1021_icy"
+            name: "WHYR 96.9",
+            logo: "stations/images-america/c2c/baton_rouge_la/WHYR 96.9.png",
+            url: "http://184.154.202.243:8061/;"
         },
         {
-            name: "102.5 WFMF",
-            logo: "stations/images-america/c2c/WFMFFM.png",
-            url: "https://c2icy.prod.playlists.ihrhls.com/1005_icy"
-        },
-        {
-            name: "Downtown Radio",
-            logo: "stations/images-america/c2c/101.5 HD2 Downtown Radio.png",
-            url: "https://c7icy.prod.playlists.ihrhls.com/5235_icy"
-        },
-        {
-            name: "Classic Hits 103.3",
-            logo: "stations/images-america/c2c/Classic Hits 103.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRQQFMAAC.aac"
-        },
-        {
-            name: "Q106.5",
-            logo: "stations/images-america/c2c/KQXLFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQXLFMAAC.aac"
-        },
-        {
-            name: "WJBO Newsradio",
-            logo: "stations/images-america/c2c/WJBO Newsradio.png",
+            name: "WJBO 97.7",
+            logo: "stations/images-america/c2c/baton_rouge_la/WJBO 97.7.png",
             url: "https://c2icy.prod.playlists.ihrhls.com/1009_icy"
         },
         {
-            name: "WXOK Heaven 1460",
-            logo: "stations/images-america/c2c/WXOK.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXOKAMAAC.aac"
+            name: "Eagle 98.1",
+            logo: "stations/images-america/c2c/baton_rouge_la/Eagle 98.1.png",
+            url: "https://live.wostreaming.net/manifest/guaranty-wdglfmaac-ibc1"
+        },
+        {
+            name: "100.7 The Tiger",
+            logo: "stations/images-america/c2c/baton_rouge_la/100.7 The Tiger.png",
+            url: "https://live.wostreaming.net/manifest/guaranty-wtgefmaac-ibc1"
+        },
+        {
+            name: "101.5 WYNK",
+            logo: "stations/images-america/c2c/baton_rouge_la/101.5 WYNK.png",
+            url: "https://c2icy.prod.playlists.ihrhls.com/1021_icy"
+        },
+        {
+            name: "Downtown Radio 101.5-HD2",
+            logo: "stations/images-america/c2c/baton_rouge_la/Downtown Radio 101.5-HD2.png",
+            url: "https://c7icy.prod.playlists.ihrhls.com/5235_icy"
+        },
+        {
+            name: "102.5 WFMF",
+            logo: "stations/images-america/c2c/baton_rouge_la/102.5 WFMF.png",
+            url: "https://c2icy.prod.playlists.ihrhls.com/1005_icy"
+        },
+        {
+            name: "Classic Hits 103.3",
+            logo: "stations/images-america/c2c/hammond_la/Classic Hits 103.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRQQFMAAC_SC"
+        },
+        {
+            name: "104.1 The Spot",
+            logo: "stations/images-america/c2c/new_orleans_la/104.1 The Spot.png",
+            url: "https://c3icy.prod.playlists.ihrhls.com/1041_icy"
+        },
+        {
+            name: "Latin 105.5",
+            logo: "stations/images-america/c2c/baton_rouge_la/Latin 105.5.png",
+            url: "https://ice64.securenetsystems.net/KDDK"
+        },
+        {
+            name: "Q106.5",
+            logo: "stations/images-america/c2c/baton_rouge_la/Q106.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQXLFMAAC_SC"
+        },
+        {
+            name: "Talk 107.3",
+            logo: "stations/images-america/c2c/baton_rouge_la/Talk 107.3.png",
+            url: "https://live.wostreaming.net/manifest/guaranty-wbrpfmaac-ibc1"
+        },
+        {
+            name: "KBRH 1260",
+            logo: "stations/images-america/c2c/baton_rouge_la/90.3 WBRH.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBRHFMAAC_64_SC"
+        },
+        {
+            name: "Heaven 1460",
+            logo: "stations/images-america/c2c/baton_rouge_la/Heaven 1460.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXOKAMAAC_SC"
         },
     ],
     "hammond_la": [
         {
-            name: "KSLU 90.9 Southeastern Louisiana University",
-            logo: "stations/images-america/c2c/KSLU 90.9 Southeastern Louisiana University.png",
+            name: "KSLU 90.9",
+            logo: "stations/images-america/c2c/hammond_la/KSLU 90.9.png",
             url: "http://147.174.55.27:8000/;"
         },
         {
-            name: "KSLU 90.9 Blues Southeastern Louisiana University",
-            logo: "stations/images-america/c2c/KSLU 90.9 Blues Southeastern Louisiana University.png",
+            name: "KSLU Blues 90.9-HD2",
+            logo: "stations/images-america/c2c/hammond_la/KSLU 90.9.png",
             url: "http://147.174.55.30:8000/;"
         },
         {
-            name: "WTGG Tangi 96.5",
-            logo: "stations/images-america/c2c/WTGG Tangi 96.5.png",
+            name: "ALT 92.3",
+            logo: "stations/images-america/c2c/new_orleans_la/ALT 92.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC"
+        },
+        {
+            name: "Max 94.1",
+            logo: "stations/images-america/c2c/mccomb_ms/Max 94.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEMXFMAAC_SC"
+        },
+        {
+            name: "Tangi 96.5",
+            logo: "stations/images-america/c2c/hammond_la/Tangi 96.5.png",
             url: "http://ice7.securenetsystems.net/WTGG"
         },
         {
-            name: "The Highway",
-            logo: "stations/images-america/c2c/WJSH.png",
-            url: "http://ice41.securenetsystems.net/WJSH"
+            name: "Classic Hits 103.3",
+            logo: "stations/images-america/c2c/hammond_la/Classic Hits 103.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRQQFMAAC_SC"
+        },
+        {
+            name: "104.1 The Spot",
+            logo: "stations/images-america/c2c/new_orleans_la/104.1 The Spot.png",
+            url: "https://c3icy.prod.playlists.ihrhls.com/1041_icy"
+        },
+        {
+            name: "Nash FM 106.1",
+            logo: "stations/images-america/c2c/hammond_la/Nash FM 106.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
+        },
+        {
+            name: "Kajun 107.1",
+            logo: "stations/images-america/c2c/hammond_la/Kajun 107.1.png",
+            url: "https://ice8.securenetsystems.net/WHMD"
         },
     ],
     "lafayette_la": [
@@ -11530,7 +11630,7 @@ var stations_c2c = {
         {
             name: "ALT 92.3",
             logo: "stations/images-america/c2c/new_orleans_la/ALT 92.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC"
         },
         {
             name: "HOT 92.9",
