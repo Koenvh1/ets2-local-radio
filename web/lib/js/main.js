@@ -79,6 +79,7 @@ function initialise() {
         $.getJSON(g_api + "/api/", function (data) {
             refresh(data);
         });
+        $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
     }, 1000);
 
     setInterval(function () {
@@ -306,7 +307,6 @@ function refresh(data) {
             */
         } else {
             setWhitenoise(available_countries[g_current_country]["whitenoise"]);
-            $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
             g_countries = available_countries;
 
         }
