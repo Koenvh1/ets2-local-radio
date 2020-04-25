@@ -306,6 +306,7 @@ function refresh(data) {
             */
         } else {
             setWhitenoise(available_countries[g_current_country]["whitenoise"]);
+            $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
             g_countries = available_countries;
 
         }
