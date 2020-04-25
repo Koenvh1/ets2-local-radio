@@ -98,11 +98,17 @@ namespace ETS2_Local_Radio_server
         private string _rootDirectory;
         private HttpListener _listener;
         private int _port;
+        private int _radioSignal;
 
         public int Port
         {
             get { return _port; }
             private set { }
+        }
+        public int RadioSignal
+        {
+            get { return _radioSignal; }
+            set { _radioSignal = value; }
         }
 
         /// <summary>
@@ -266,6 +272,31 @@ namespace ETS2_Local_Radio_server
             else if (context.Request.Url.AbsolutePath == "/api/")
             {
                 string text = Newtonsoft.Json.JsonConvert.SerializeObject(Main.ets2data);
+
+                context.Response.ContentType = "application/json";
+                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
+                context.Response.StatusCode = (int)HttpStatusCode.OK;
+                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
+                context.Response.OutputStream.Flush();
+            }
+            else if (context.Request.Url.AbsolutePath == "/api/radio/")
+            {
+                string json = "{\"Radio\":\"" + Station.RadioStation + "\",\"Signal\":\"" + RadioSignal + "\"}";
+                context.Response.ContentType = "application/json";
+                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(json).Length;
+                context.Response.StatusCode = (int)HttpStatusCode.OK;
+                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(json), 0, Encoding.UTF8.GetBytes(json).Length);
+                context.Response.OutputStream.Flush();
+            }
+            else if (context.Request.Url.AbsolutePath.StartsWith("/api/radio/set/"))
+            {
+                string station = context.Request.Url.AbsoluteUri;
+                station = WebUtility.UrlDecode(station);
+                station = station.Split(new string[] { "/api/radio/set/" }, StringSplitOptions.None)[1];
+
+                RadioSignal = Int32.Parse(station.Split("/".ToCharArray())[0]);
+
+                string text = "{\"Success\": true}";
 
                 context.Response.ContentType = "application/json";
                 context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
