@@ -819,7 +819,7 @@ var stations = {
         {
             name: "JPR Rhythm & News 88.5",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-rhythm"
+            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
         },
         {
             name: "Pirate Radio 91.3",
@@ -1947,7 +1947,7 @@ var stations = {
         {
             name: "JPR Rhythm & News 90.9",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-rhythm"
+            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
         },
         {
             name: "92.5 KLAD",
@@ -2620,12 +2620,12 @@ var stations = {
         {
             name: "JPR Classics & News 88.3",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-classics"
+            url: "https://jpr-ice.streamguys1.com/jpr-classics"
         },
         {
             name: "JPR Rhythm & News 89.1",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-rhythm"
+            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
         },
         {
             name: "KSKQ 89.5",
@@ -3714,12 +3714,32 @@ var stations = {
         {
             name: "JPR Rhythm & News 89.7",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-rhythm"
+            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
+        },
+        {
+            name: "JPR News & Information 89.7-HD2",
+            logo: "stations/images-america/0_general_logos/JPR.png",
+            url: "https://jpr-ice.streamguys1.com/jpr-news"
+        },
+        {
+            name: "KFOI 90.9",
+            logo: "stations/images-america/redbluff/KFOI 90.9.png",
+            url: "https://streams.radio.co/sb29fb5132/listen"
         },
         {
             name: "Power 94.7",
             logo: "stations/images-america/redding/Power 94.7.png",
             url: "http://ice42.securenetsystems.net/KEWB2"
+        },
+        {
+            name: "KCNR 96.5",
+            logo: "stations/images-america/redding/KCNR 96.5.png",
+            url: "http://apps.kcnr1460.com:8000/kcnr1460.mp3"
+        },
+        {
+            name: "Q97",
+            logo: "stations/images-america/redbluff/Q97.png",
+            url: "http://ice42.securenetsystems.net/KNCQ2"
         },
         {
             name: "WiLD 99.3",
@@ -3732,14 +3752,39 @@ var stations = {
             url: "http://173.193.205.96:7337/;"
         },
         {
+            name: "JPR Classics & News 101.1",
+            logo: "stations/images-america/0_general_logos/JPR.png",
+            url: "https://jpr-ice.streamguys1.com/jpr-classics"
+        },
+        {
+            name: "Red 103.1",
+            logo: "stations/images-america/redding/Red 103.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://ice24.securenetsystems.net/KHRD"
+        },
+        {
+            name: "FOX Sports 103.9",
+            logo: "stations/images-america/redding/FOX Sports 103.9.png",
+            url: "https://ample.revma.ihrhls.com/zc4732/1_flsig4w9dj4j02/playlist.m3u8"
+        },
+        {
             name: "104.3 K-Shasta",
             logo: "stations/images-america/redding/104.3 K-Shasta.png",
             url: "https://ice5.securenetsystems.net/KSHA"
         },
         {
+            name: "105.7 KQMS",
+            logo: "stations/images-america/redding/105.7 KQMS.png",
+            url: "https://ice42.securenetsystems.net/KQMS"
+        },
+        {
             name: "106X",
             logo: "stations/images-america/redding/106X.png",
             url: "https://ice5.securenetsystems.net/KRRX"
+        },
+        {
+            name: "107.1 Bob FM",
+            logo: "stations/images-america/redding/107.1 Bob FM.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice24.securenetsystems.net/KESR"
         },
     ],
     "reno": [
