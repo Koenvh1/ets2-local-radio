@@ -3663,6 +3663,48 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KNMF"
         },
     ],
+	"redbluff": [
+        {
+            name: "KFOI 90.9",
+            logo: "stations/images-america/redbluff/KFOI 90.9.png",
+            url: "https://streams.radio.co/sb29fb5132/listen"
+        },
+        {
+            name: "95.7 The Wolf",
+            logo: "stations/images-america/redbluff/95.7 The Wolf.png",
+            url: "https://ice6.securenetsystems.net/KALF"
+        },
+        {
+            name: "Q97",
+            logo: "stations/images-america/redbluff/Q97.png",
+            url: "http://ice42.securenetsystems.net/KNCQ2"
+        },
+        {
+            name: "Radio Mexicana 99.7",
+            logo: "stations/images-america/redbluff/Radio Mexicana 99.7.png",
+            url: "https://ice10.securenetsystems.net/KTOR"
+        },
+        {
+            name: "Thunder 100.7",
+            logo: "stations/images-america/redbluff/Thunder 100.7.png",
+            url: "https://ice10.securenetsystems.net/KTHU2"
+        },
+        {
+            name: "Power 102.1",
+            logo: "stations/images-america/redbluff/Power 102.1.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice24.securenetsystems.net/KCEZ"
+        },
+        {
+            name: "KBLF 104.7",
+            logo: "stations/images-america/redbluff/KBLF 104.7.png",
+            url: "http://server.huthbroadcasting.com:8000/kblf"
+        },
+        {
+            name: "106.7 Z-ROCK",
+            logo: "stations/images-america/redbluff/106.7 Z-ROCK.png",
+            url: "https://ice24.securenetsystems.net/KRQR"
+        },
+    ],
     "redding": [
         {
             name: "NSPR 88.9",
@@ -3675,24 +3717,9 @@ var stations = {
             url: "http://jpr.streamguys.org:80/jpr-rhythm"
         },
         {
-            name: "KFOI 90.9",
-            logo: "stations/images-america/redding/KFOI 90.9.png",
-            url: "https://streams.radio.co/sb29fb5132/listen"
-        },
-        {
             name: "Power 94.7",
             logo: "stations/images-america/redding/Power 94.7.png",
             url: "http://ice42.securenetsystems.net/KEWB2"
-        },
-        {
-            name: "95.7 The Wolf",
-            logo: "stations/images-america/redding/95.7 The Wolf.png",
-            url: "https://ice6.securenetsystems.net/KALF"
-        },
-        {
-            name: "Q97",
-            logo: "stations/images-america/redding/KNCQ.png",
-            url: "http://ice42.securenetsystems.net/KNCQ2"
         },
         {
             name: "WiLD 99.3",
@@ -3703,11 +3730,6 @@ var stations = {
             name: "Z100",
             logo: "stations/images-america/redding/Z100.png",
             url: "http://173.193.205.96:7337/;"
-        },
-        {
-            name: "Thunder 100.7",
-            logo: "stations/images-america/redding/Thunder 100.7.png",
-            url: "http://ice24.securenetsystems.net/KTHU"
         },
         {
             name: "104.3 K-Shasta",

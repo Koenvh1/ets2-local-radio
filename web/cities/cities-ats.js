@@ -431,11 +431,17 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 1.2
     },
+    "redbluff": {
+        name: "Red Bluff",
+        name_english: "Red Bluff",
+        code: "us-ca",
+        relative_radius: 0.6
+    },
     "redding": {
         name: "Redding",
         name_english: "Redding",
         code: "us-ca",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "reno": {
         name: "Reno",
@@ -792,6 +798,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "provo": {
+        relative_whitenoise: 0.95
+    },
+    "redbluff": {
         relative_whitenoise: 0.95
     },
     "redding": {
@@ -1153,6 +1162,14 @@ var cities = [
         "x": "-86787.6",
         "y": "84.3945",
         "z": "9272.02"
+    },
+    {
+        "gameName": "redbluff",
+        "realName": "Red Bluff",
+        "country": "california",
+        "x": "-112684",
+        "y": "44.1445",
+        "z": "-21335.8"
     },
     {
         "gameName": "redding",
