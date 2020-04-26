@@ -297,7 +297,7 @@ var country_properties = {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "ltahoe": {
         name: "South Lake Tahoe",
@@ -513,7 +513,7 @@ var country_properties = {
         name: "San Francisco",
         name_english: "San Francisco",
         code: "us-ca",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "san_rafael": {
         name: "San Rafael",
