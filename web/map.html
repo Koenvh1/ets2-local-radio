@@ -107,6 +107,8 @@
         overlay_countries = sortObject(overlay_countries);
         L.control.layers(null, overlay_countries).addTo(map);
 
+        $(".leaflet-control-layers-overlays").append("<a href='javascript:;' onclick='$(\".leaflet-control-layers-selector\").click()'>Toggle show/hide</a>");
+
         map.attributionControl.addAttribution("<a href='?ats'>ATS map</a>");
 
         map.on("click", function (e) {
