@@ -117,7 +117,7 @@ var country_properties = {
         name: "Crescent City",
         name_english: "Crescent City",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "ehrenberg": {
         name: "Ehrenberg",
@@ -702,7 +702,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "crescent_city": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.90
     },
     "ehrenberg": {
         relative_whitenoise: 0.95
