@@ -1,9 +1,9 @@
 var country_properties = {
-    "aberdeen_wa": {
+    "aberdeen": {
         name: "Aberdeen",
         name_english: "Aberdeen",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "alamogordo": {
         name: "Alamogordo",
@@ -27,7 +27,7 @@ var country_properties = {
         name: "Astoria",
         name_english: "Astoria",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "bakersfield": {
         name: "Bakersfield",
@@ -45,13 +45,13 @@ var country_properties = {
         name: "Bellingham",
         name_english: "Bellingham",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "bend": {
         name: "Bend",
         name_english: "Bend",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "bishop": {
         name: "Bishop",
@@ -63,7 +63,7 @@ var country_properties = {
         name: "Burns",
         name_english: "Burns",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "camp_verde": {
         name: "Camp Verde",
@@ -75,7 +75,7 @@ var country_properties = {
         name: "Carlsbad",
         name_english: "Carlsbad",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
@@ -105,13 +105,19 @@ var country_properties = {
         name: "Colville",
         name_english: "Colville",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "coos_bay": {
         name: "Coos Bay",
         name_english: "Coos Bay",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.85
+    },
+    "crescent_city": {
+        name: "Crescent City",
+        name_english: "Crescent City",
+        code: "us-ca",
+        relative_radius: 0.8
     },
     "ehrenberg": {
         name: "Ehrenberg",
@@ -141,19 +147,19 @@ var country_properties = {
         name: "Eugene",
         name_english: "Eugene",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "eureka": {
         name: "Eureka",
         name_english: "Eureka",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "everett": {
         name: "Everett",
         name_english: "Everett",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "fallon": {
         name: "Fallon",
@@ -177,7 +183,7 @@ var country_properties = {
         name: "Fresno",
         name_english: "Fresno",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "gallup": {
         name: "Gallup",
@@ -189,7 +195,7 @@ var country_properties = {
         name: "Grand Coulee",
         name_english: "Grand Coulee",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "g_canyon_vlg": {
         name: "Grand Canyon Village",
@@ -208,12 +214,6 @@ var country_properties = {
         name_english: "Holbrook",
         code: "us-az",
         relative_radius: 1.2
-    },
-    "hornbrook": {
-        name: "Hornbrook",
-        name_english: "Hornbrook",
-        code: "us-ca",
-        relative_radius: 0.6
     },
     "huron": {
         name: "Huron",
@@ -243,7 +243,7 @@ var country_properties = {
         name: "Kennewick",
         name_english: "Kennewick",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "kingman": {
         name: "Kingman",
@@ -255,13 +255,13 @@ var country_properties = {
         name: "Klamath Falls",
         name_english: "Klamath Falls",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "lakeview": {
         name: "Lakeview",
         name_english: "Lakeview",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "las_cruces": {
         name: "Las Cruces",
@@ -273,7 +273,7 @@ var country_properties = {
         name: "Las Vegas",
         name_english: "Las Vegas",
         code: "us-nv",
-        relative_radius: 1.3
+        relative_radius: 1.1
     },
     "leevining": {
         name: "Lee Vining",
@@ -291,13 +291,13 @@ var country_properties = {
         name: "Longview",
         name_english: "Longview",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "los_angeles": {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "ltahoe": {
         name: "South Lake Tahoe",
@@ -309,7 +309,7 @@ var country_properties = {
         name: "Medford",
         name_english: "Medford",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "moab": {
         name: "Moab",
@@ -321,7 +321,7 @@ var country_properties = {
         name: "Newport",
         name_english: "Newport",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.80
     },
     "nogales": {
         name: "Nogales",
@@ -335,12 +335,6 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
-    "oakland": {
-        name: "Oakland",
-        name_english: "Oakland",
-        code: "us-ca",
-        relative_radius: 0.6
-    },
     "ogden": {
         name: "Ogden",
         name_english: "Ogden",
@@ -351,19 +345,19 @@ var country_properties = {
         name: "Olympia",
         name_english: "Olympia",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "omak": {
         name: "Omak",
         name_english: "Omak",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "ontario": {
         name: "Ontario",
         name_english: "Ontario",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "oxnard": {
         name: "Oxnard",
@@ -381,7 +375,7 @@ var country_properties = {
         name: "Pendleton",
         name_english: "Pendleton",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "phoenix": {
         name: "Phoenix",
@@ -399,24 +393,18 @@ var country_properties = {
         name: "Port Angeles",
         name_english: "Port Angeles",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "portland": {
         name: "Portland",
         name_english: "Portland",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "price": {
         name: "Price",
         name_english: "Price",
         code: "us-ut",
-        relative_radius: 1.2
-    },
-    "primm": {
-        name: "Primm",
-        name_english: "Primm",
-        code: "us-nv",
         relative_radius: 1.2
     },
     "provo": {
@@ -441,18 +429,12 @@ var country_properties = {
         name: "Redding",
         name_english: "Redding",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "reno": {
         name: "Reno",
         name_english: "Reno",
         code: "us-nv",
-        relative_radius: 1.3
-    },
-    "rome": {
-        name: "Rome",
-        name_english: "Rome",
-        code: "us-or",
         relative_radius: 1.3
     },
     "roswell": {
@@ -471,7 +453,7 @@ var country_properties = {
         name: "Salem",
         name_english: "Salem",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.6
     },
     "salina": {
         name: "Salina",
@@ -507,19 +489,13 @@ var country_properties = {
         name: "San Diego",
         name_english: "San Diego",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "san_francisco": {
         name: "San Francisco",
         name_english: "San Francisco",
         code: "us-ca",
-        relative_radius: 0.9
-    },
-    "san_rafael": {
-        name: "San Rafael",
-        name_english: "San Rafael",
-        code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "san_simon": {
         name: "San Simon",
@@ -531,7 +507,7 @@ var country_properties = {
         name: "Seattle",
         name_english: "Seattle",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "show_low": {
         name: "Show Low",
@@ -555,7 +531,7 @@ var country_properties = {
         name: "Spokane",
         name_english: "Spokane",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "st_george": {
         name: "St. George",
@@ -579,13 +555,13 @@ var country_properties = {
         name: "Tacoma",
         name_english: "Tacoma",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.2
     },
     "the_dalles": {
         name: "The Dalles",
         name_english: "The Dalles",
         code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "tonopah": {
         name: "Tonopah",
@@ -621,7 +597,7 @@ var country_properties = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.5
     },
     "vernal": {
         name: "Vernal",
@@ -633,7 +609,7 @@ var country_properties = {
         name: "Wenatchee",
         name_english: "Wenatchee",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "winnemucca": {
         name: "Winnemucca",
@@ -645,7 +621,7 @@ var country_properties = {
         name: "Yakima",
         name_english: "Yakima",
         code: "us-wa",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "yuma": {
         name: "Yuma",
@@ -680,28 +656,52 @@ var country_properties = {
 };
 
 var city_properties = {
+    "aberdeen": {
+        relative_whitenoise: 0.90
+    },
     "albuquerque": {
+        relative_whitenoise: 0.90
+    },
+    "astoria": {
         relative_whitenoise: 0.90
     },
     "bakersfield": {
         relative_whitenoise: 0.95
     },
     "barstow": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
+    },
+    "bellingham": {
+        relative_whitenoise: 0.80
+    },
+    "bend": {
+        relative_whitenoise: 0.85
     },
     "bishop": {
         relative_whitenoise: 0.95
+    },
+    "burns": {
+        relative_whitenoise: 0.85
     },
     "camp_verde": {
         relative_whitenoise: 0.95
     },
     "carlsbad": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.90
     },
     "carson_city": {
         relative_whitenoise: 0.95
     },
     "cedar_city": {
+        relative_whitenoise: 0.95
+    },
+    "colville": {
+        relative_whitenoise: 0.85
+    },
+    "coos_bay": {
+        relative_whitenoise: 0.85
+    },
+    "crescent_city": {
         relative_whitenoise: 0.95
     },
     "ehrenberg": {
@@ -716,8 +716,14 @@ var city_properties = {
     "el_centro": {
         relative_whitenoise: 0.95
     },
-    "eureka": {
+    "eugene": {
         relative_whitenoise: 0.95
+    },
+    "eureka": {
+        relative_whitenoise: 0.85
+    },
+    "everett": {
+        relative_whitenoise: 0.85
     },
     "fallon": {
         relative_whitenoise: 0.95
@@ -726,15 +732,15 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "fresno": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "g_canyon_vlg": {
         relative_whitenoise: 0.95
     },
-    "holbrook": {
-        relative_whitenoise: 0.95
+    "grand_coulee": {
+        relative_whitenoise: 0.85
     },
-    "hornbrook": {
+    "holbrook": {
         relative_whitenoise: 0.95
     },
     "huron": {
@@ -746,11 +752,20 @@ var city_properties = {
     "kayenta": {
         relative_whitenoise: 0.95
     },
+    "kennewick": {
+        relative_whitenoise: 0.95
+    },
     "kingman": {
         relative_whitenoise: 0.95
     },
-    "las_vegas": {
+    "klamath_f": {
+        relative_whitenoise: 0.90
+    },
+    "lakeview": {
         relative_whitenoise: 0.95
+    },
+    "las_vegas": {
+        relative_whitenoise: 0.75
     },
     "leevining": {
         relative_whitenoise: 0.95
@@ -758,13 +773,22 @@ var city_properties = {
     "logan": {
         relative_whitenoise: 0.95
     },
-    "los_angeles": {
+    "longview": {
         relative_whitenoise: 0.95
+    },
+    "los_angeles": {
+        relative_whitenoise: 0.80
     },
     "ltahoe": {
         relative_whitenoise: 0.95
     },
+    "medford": {
+        relative_whitenoise: 0.80
+    },
     "moab": {
+        relative_whitenoise: 0.95
+    },
+    "newport": {
         relative_whitenoise: 0.95
     },
     "nogales": {
@@ -773,10 +797,16 @@ var city_properties = {
     "oakdale": {
         relative_whitenoise: 0.95
     },
-    "oakland": {
+    "ogden": {
         relative_whitenoise: 0.95
     },
-    "ogden": {
+    "olympia": {
+        relative_whitenoise: 0.90
+    },
+    "omak": {
+        relative_whitenoise: 0.95
+    },
+    "ontario": {
         relative_whitenoise: 0.95
     },
     "oxnard": {
@@ -785,16 +815,22 @@ var city_properties = {
     "page": {
         relative_whitenoise: 0.95
     },
+    "pendleton": {
+        relative_whitenoise: 0.95
+    },
     "phoenix": {
         relative_whitenoise: 0.95
     },
     "pioche": {
         relative_whitenoise: 0.95
     },
-    "price": {
-        relative_whitenoise: 0.95
+    "port_angeles": {
+        relative_whitenoise: 0.85
     },
-    "primm": {
+    "portland": {
+        relative_whitenoise: 0.80
+    },
+    "price": {
         relative_whitenoise: 0.95
     },
     "provo": {
@@ -810,6 +846,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sacramento": {
+        relative_whitenoise: 1.00
+    },
+    "salem": {
         relative_whitenoise: 0.95
     },
     "salina": {
@@ -828,16 +867,16 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "san_diego": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "san_francisco": {
-        relative_whitenoise: 0.95
-    },
-    "san_rafael": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "san_simon": {
         relative_whitenoise: 0.95
+    },
+    "seattle": {
+        relative_whitenoise: 0.80
     },
     "show_low": {
         relative_whitenoise: 0.95
@@ -848,6 +887,9 @@ var city_properties = {
     "socorro": {
         relative_whitenoise: 0.95
     },
+    "spokane": {
+        relative_whitenoise: 0.95
+    },
     "stockton": {
         relative_whitenoise: 0.95
     },
@@ -855,6 +897,12 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "susanv": {
+        relative_whitenoise: 0.95
+    },
+    "tacoma": {
+        relative_whitenoise: 0.70
+    },
+    "the_dalles": {
         relative_whitenoise: 0.95
     },
     "tonopah": {
@@ -869,10 +917,19 @@ var city_properties = {
     "ukiah": {
         relative_whitenoise: 0.95
     },
+    "vancouver": {
+        relative_whitenoise: 0.95
+    },
     "vernal": {
         relative_whitenoise: 0.95
     },
+    "wenatchee": {
+        relative_whitenoise: 0.95
+    },
     "winnemucca": {
+        relative_whitenoise: 0.95
+    },
+    "yakima": {
         relative_whitenoise: 0.95
     },
     "yuma": {
@@ -1020,14 +1077,6 @@ var cities = [
         "z": "18031.3"
     },
     {
-        "gameName": "hornbrook",
-        "realName": "Hornbrook",
-        "country": "california",
-        "x": "-110260",
-        "y": "129.477",
-        "z": "-31052.7"
-    },
-    {
         "gameName": "huron",
         "realName": "Huron",
         "country": "california",
@@ -1116,14 +1165,6 @@ var cities = [
         "z": "-7004.69"
     },
     {
-        "gameName": "oakland",
-        "realName": "Oakland",
-        "country": "california",
-        "x": "-113452",
-        "y": "90.7422",
-        "z": "-8458.5"
-    },
-    {
         "gameName": "oxnard",
         "realName": "Oxnard",
         "country": "california",
@@ -1154,14 +1195,6 @@ var cities = [
         "x": "-80956.8",
         "y": "177.867",
         "z": "-4638.39"
-    },
-    {
-        "gameName": "primm",
-        "realName": "Primm",
-        "country": "nevada",
-        "x": "-86787.6",
-        "y": "84.3945",
-        "z": "9272.02"
     },
     {
         "gameName": "redbluff",
@@ -1226,14 +1259,6 @@ var cities = [
         "x": "-114720",
         "y": "21.2111",
         "z": "-9427.15"
-    },
-    {
-        "gameName": "san_rafael",
-        "realName": "San Rafael",
-        "country": "california",
-        "x": "-114891",
-        "y": "90.7422",
-        "z": "-13667.2"
     },
     {
         "gameName": "san_simon",
@@ -1468,6 +1493,14 @@ var cities = [
         "z": "-42775.4"
     },
     {
+        "gameName": "crescent_city",
+        "realName": "Crescent City",
+        "country": "california",
+        "x": "-116102",
+        "y": "8.85403",
+        "z": "-34981.4"
+    },
+    {
         "gameName": "eugene",
         "realName": "Eugene",
         "country": "oregon",
@@ -1548,15 +1581,7 @@ var cities = [
         "z": "-51127.6"
     },
     {
-        "gameName": "rome",
-        "realName": "Rome",
-        "country": "oregon",
-        "x": "-89340",
-        "y": "62",
-        "z": "-32323.6"
-    },
-    {
-        "gameName": "aberdeen_wa",
+        "gameName": "aberdeen",
         "realName": "Aberdeen",
         "country": "washington",
         "x": "-105848",
@@ -3990,13 +4015,7 @@ var country_properties_c2c = {
         name: "oregon",
         name_english: "oregon",
         code: "us-or",
-        relative_radius: 1.2
-    },
-    "la_grande": {
-        name: "la_grande",
-        name_english: "la_grande",
-        code: "us-or",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "pennsylvania": {
         name: "pennsylvania",
@@ -4472,90 +4491,6 @@ var country_properties_c2c = {
         code: "us-va",
         relative_radius: 1.2
     },
-    // "washington": {
-    //     name: "washington",
-    //     name_english: "washington",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "aberdeen_wa": {
-    //     name: "Aberdeen",
-    //     name_english: "Aberdeen",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "bellingham_wa": {
-    //     name: "Bellingham",
-    //     name_english: "Bellingham",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "colville_wa": {
-    //     name: "Colville",
-    //     name_english: "Colville",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "grandcoulee_wa": {
-    //     name: "grandcoulee_wa",
-    //     name_english: "grandcoulee_wa",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "kennewick": {
-    //     name: "kennewick",
-    //     name_english: "kennewick",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "longview_wa": {
-    //     name: "Longview",
-    //     name_english: "Longview",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "omak_wa": {
-    //     name: "Omak",
-    //     name_english: "Omak",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "olympia_wa": {
-    //     name: "olympia_wa",
-    //     name_english: "olympia_wa",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "portangeles_wa": {
-    //     name: "portangeles_wa",
-    //     name_english: "portangeles_wa",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "seattle": {
-    //     name: "seattle",
-    //     name_english: "seattle",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "spokane": {
-    //     name: "spokane",
-    //     name_english: "spokane",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "wenatchee": {
-    //     name: "wenatchee",
-    //     name_english: "wenatchee",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
-    // "yakima_wa": {
-    //     name: "Yakima",
-    //     name_english: "Yakima",
-    //     code: "us-wa",
-    //     relative_radius: 1.2
-    // },
     "west_virginia": {
         name: "west_virginia",
         name_english: "west_virginia",
@@ -5411,24 +5346,6 @@ var city_properties_c2c = {
     "woodward_ok": {
         relative_whitenoise: 0.95
     },
-    "oregon": {
-        relative_whitenoise: 0.95
-    },
-    "eugene": {
-        relative_whitenoise: 0.95
-    },
-    "la_grande": {
-        relative_whitenoise: 0.95
-    },
-    "medford_or": {
-        relative_whitenoise: 0.95
-    },
-    "portland_or": {
-        relative_whitenoise: 0.95
-    },
-    "the_dalles": {
-        relative_whitenoise: 0.95
-    },
     "pennsylvania": {
         relative_whitenoise: 0.95
     },
@@ -5685,45 +5602,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "ellensburg": {
-        relative_whitenoise: 0.95
-    },
-    "aberdeen_wa": {
-        relative_whitenoise: 0.95
-    },
-    "bellingham_wa": {
-        relative_whitenoise: 0.95
-    },
-    "colville_wa": {
-        relative_whitenoise: 0.95
-    },
-    "grandcoulee_wa": {
-        relative_whitenoise: 0.95
-    },
-    "kennewick": {
-        relative_whitenoise: 0.95
-    },
-    "longview_wa": {
-        relative_whitenoise: 0.95
-    },
-    "omak_wa": {
-        relative_whitenoise: 0.95
-    },
-    "olympia_wa": {
-        relative_whitenoise: 0.95
-    },
-    "portangeles_wa": {
-        relative_whitenoise: 0.95
-    },
-    "seattle": {
-        relative_whitenoise: 0.95
-    },
-    "spokane": {
-        relative_whitenoise: 0.95
-    },
-    "wenatchee": {
-        relative_whitenoise: 0.95
-    },
-    "yakima_wa": {
         relative_whitenoise: 0.95
     },
     "west_virginia": {
@@ -7455,48 +7333,6 @@ var cities_c2c = [
         "z": "13981.1"
     },
     {
-        "gameName": "la_grande",
-        "realName": "La Grande",
-        "country": "oregon",
-        "x": "-86649.5",
-        "y": "95.4508",
-        "z": "-44987.4"
-    },
-    /*
-    {
-        "gameName": "eugene",
-        "realName": "Eugene",
-        "country": "oregon",
-        "x": "-107998",
-        "y": "89.9844",
-        "z": "-45313"
-    },
-    {
-        "gameName": "medford_or",
-        "realName": "Medford",
-        "country": "oregon",
-        "x": "-110184",
-        "y": "79.1617",
-        "z": "-35836.2"
-    },
-    {
-        "gameName": "portland_or",
-        "realName": "Portland",
-        "country": "oregon",
-        "x": "-104503",
-        "y": "87.7422",
-        "z": "-52880"
-    },
-    {
-        "gameName": "the_dalles",
-        "realName": "The Dalles",
-        "country": "oregon",
-        "x": "-97351.4",
-        "y": "66.662",
-        "z": "-51307.7"
-    },
-    */
-    {
         "gameName": "allentown",
         "realName": "Allentown",
         "country": "pennsylvania",
@@ -8056,110 +7892,6 @@ var cities_c2c = [
         "y": "18.0645",
         "z": "6230.84"
     },
-    // {
-    //     "gameName": "aberdeen_wa",
-    //     "realName": "Aberdeen",
-    //     "country": "washington",
-    //     "x": "-105848",
-    //     "y": "58",
-    //     "z": "-61123.8"
-    // },
-    // {
-    //     "gameName": "bellingham_wa",
-    //     "realName": "Bellingham",
-    //     "country": "washington",
-    //     "x": "-98203",
-    //     "y": "71.3984",
-    //     "z": "-70278.9"
-    // },
-    // {
-    //     "gameName": "colville_wa",
-    //     "realName": "Colville",
-    //     "country": "washington",
-    //     "x": "-81888.3",
-    //     "y": "78.6406",
-    //     "z": "-63979.9"
-    // },
-    // {
-    //     "gameName": "grandcoulee_wa",
-    //     "realName": "Grand Coulee",
-    //     "country": "washington",
-    //     "x": "-86528.1",
-    //     "y": "47.5938",
-    //     "z": "-62675.2"
-    // },
-    // {
-    //     "gameName": "kennewick",
-    //     "realName": "Kennewick",
-    //     "country": "washington",
-    //     "x": "-89747.4",
-    //     "y": "53.4336",
-    //     "z": "-52595.2"
-    // },
-    // {
-    //     "gameName": "longview_wa",
-    //     "realName": "Longview",
-    //     "country": "washington",
-    //     "x": "-104161",
-    //     "y": "62.8281",
-    //     "z": "-56725.8"
-    // },
-    // {
-    //     "gameName": "omak_wa",
-    //     "realName": "Omak",
-    //     "country": "washington",
-    //     "x": "-88227",
-    //     "y": "73.2305",
-    //     "z": "-64692.8"
-    // },
-    // {
-    //     "gameName": "olympia_wa",
-    //     "realName": "Olympia",
-    //     "country": "washington",
-    //     "x": "-102416",
-    //     "y": "66",
-    //     "z": "-60826.9"
-    // },
-    // {
-    //     "gameName": "portangeles_wa",
-    //     "realName": "Port Angeles",
-    //     "country": "washington",
-    //     "x": "-103441",
-    //     "y": "54",
-    //     "z": "-66931.1"
-    // },
-    // {
-    //     "gameName": "seattle",
-    //     "realName": "Seattle",
-    //     "country": "washington",
-    //     "x": "-99469.1",
-    //     "y": "75.8984",
-    //     "z": "-62870"
-    // },
-    // {
-    //     "gameName": "spokane",
-    //     "realName": "Spokane",
-    //     "country": "washington",
-    //     "x": "-80959.5",
-    //     "y": "72",
-    //     "z": "-59089.4"
-    // },
-    // {
-    //     "gameName": "wenatchee",
-    //     "realName": "Wenatchee",
-    //     "country": "washington",
-    //     "x": "-92417.7",
-    //     "y": "55.9883",
-    //     "z": "-60054.8"
-    // },
-    // {
-    //     "gameName": "yakima_wa",
-    //     "realName": "Yakima",
-    //     "country": "washington",
-    //     "x": "-94370.8",
-    //     "y": "50",
-    //     "z": "-55556.1"
-    // },
     {
         "gameName": "charleston_wv",
         "realName": "Charleston",
@@ -8651,7 +8383,7 @@ var country_properties_canadream = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "virden": {
         name: "Virden",
