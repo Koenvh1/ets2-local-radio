@@ -5717,6 +5717,7 @@ var stations = {
 };
 
 var stations_mexico = {
+    "tijuana": [
         {
             name: "Exa FM 91.7",
             logo: "stations/images-america/tijuana/Exa FM 91.7.png",
@@ -6546,7 +6547,7 @@ var stations_mexico = {
             name: "Radio Universidad 106.9",
             logo: "stations/images-america/chihuahua/Radio Universidad 106.9.png",
             url: "http://148.229.18.59:8000/ru.mp3"
-        }
+        },
     ],
     "delicias": [
         {
