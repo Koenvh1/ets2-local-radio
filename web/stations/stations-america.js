@@ -5850,7 +5850,7 @@ var stations_mexico = {
         {
             name: "La Dinámica 105.9",
             logo: "stations/images-america/mexicali/La Dinámica 105.9.png",
-            url: "http://mexicali.radio.wnsol.com:8340/;"
+            url: "http://stream2.dyndns.org:8000/xhsu.mp3"
         },
         {
             name: "More FM 106.7",
@@ -6236,14 +6236,14 @@ var stations_mexico = {
     "el_rosario": [
         {
             name: "La Voz del Valle 780",
-            logo: "stations/images-america/pprieta/La Voz del Valle.png",
+            logo: "stations/images-america/pprieta/La Voz del Valle 780.png",
             url: "http://65.60.45.74:8098/;"
         },
     ],
     "punta_prie": [
         {
             name: "La Voz del Valle 780",
-            logo: "stations/images-america/pprieta/La Voz del Valle.png",
+            logo: "stations/images-america/pprieta/La Voz del Valle 780.png",
             url: "http://65.60.45.74:8098/;"
         },
     ],
@@ -6339,7 +6339,7 @@ var stations_mexico = {
         },
         {
             name: "La Que Buena de San Buena 99.5",
-            logo: "stations/images-america/nvocasas/Radio Madera 96.1.png",
+            logo: "stations/images-america/nvocasas/La Que Buena de San Buena 99.5.png",
             url: "http://stream.zenolive.com/8gb5qrbya84tv"
         },
         {
@@ -6524,11 +6524,6 @@ var stations_mexico = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFMAAC_SC"
         },
         {
-            name: "Classic 103.7",
-            logo: "stations/images-america/chihuahua/Classic 103.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHHEMFMAAC_SC"
-        },
-        {
             name: "HITS 104.5",
             logo: "stations/images-america/chihuahua/HITS 104.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHCHAFMAAC_SC"
@@ -6545,7 +6540,7 @@ var stations_mexico = {
         },
         {
             name: "Radio Universidad 106.9",
-            logo: "stations/images-america/chihuahua/Radio Universidad 106.9.png",
+            logo: "stations/images-america/chihuahua/Radio Universidad 105.3.png",
             url: "http://148.229.18.59:8000/ru.mp3"
         },
     ],
