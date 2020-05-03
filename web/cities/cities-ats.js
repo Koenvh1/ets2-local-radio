@@ -2206,9 +2206,9 @@ var cities_mexico = [
         "gameName": "tijuana",
         "realName": "Tijuana",
         "country": "bajacalifo",
-        "x": "-99148.6",
+        "x": "-99184.2",
         "y": "49.7773",
-        "z": "26168.6"
+        "z": "26196.8"
     },
     {
         "gameName": "culiacan",
@@ -2230,9 +2230,9 @@ var cities_mexico = [
         "gameName": "mexicali",
         "realName": "Mexicali",
         "country": "bajacalifo",
-        "x": "-91576.9",
-        "y": "49.418",
-        "z": "27217.7"
+        "x": "-90883.1",
+        "y": "50.1211",
+        "z": "29113.3"
     },
     {
         "gameName": "ensenada",
@@ -3069,15 +3069,15 @@ var country_properties_c2c = {
         code: "us-ia",
         relative_radius: 1.2
     },
-    "iowa_80": {
-        name: "iowa_80",
-        name_english: "iowa_80",
+    "walcott": {
+        name: "Walcott",
+        name_english: "Walcott",
         code: "us-ia",
         relative_radius: 1.2
     },
-    "iowa_city": {
-        name: "iowa_city",
-        name_english: "iowa_city",
+    "cedar_rapids": {
+        name: "Cedar Rapids",
+        name_english: "Cedar Rapids",
         code: "us-ia",
         relative_radius: 1.2
     },
@@ -3132,12 +3132,6 @@ var country_properties_c2c = {
     "liberal_ks": {
         name: "liberal_ks",
         name_english: "liberal_ks",
-        code: "us-ks",
-        relative_radius: 1.2
-    },
-    "oakley": {
-        name: "oakley",
-        name_english: "oakley",
         code: "us-ks",
         relative_radius: 1.2
     },
@@ -4881,13 +4875,13 @@ var city_properties_c2c = {
     "iowa": {
         relative_whitenoise: 0.95
     },
-    "iowa_80": {
+    "walcott": {
         relative_whitenoise: 0.95
     },
     "desmoines": {
         relative_whitenoise: 0.95
     },
-    "iowa_city": {
+    "cedar_rapids": {
         relative_whitenoise: 0.95
     },
     "sioux_city": {
@@ -4915,9 +4909,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "liberal_ks": {
-        relative_whitenoise: 0.95
-    },
-    "oakley": {
         relative_whitenoise: 0.95
     },
     "salina": {
@@ -6261,8 +6252,8 @@ var cities_c2c = [
         "z": "-15398.4"
     },
     {
-        "gameName": "iowa_80",
-        "realName": "Iowa 80",
+        "gameName": "walcott",
+        "realName": "Walcott",
         "country": "iowa",
         "x": "21931.7",
         "y": "150.094",
@@ -6277,12 +6268,12 @@ var cities_c2c = [
         "z": "-19592.4"
     },
     {
-        "gameName": "iowa_city",
-        "realName": "Iowa city",
+        "gameName": "cedar_rapids",
+        "realName": "Cedar Rapids",
         "country": "iowa",
-        "x": "17201.2",
-        "y": "118.555",
-        "z": "-15767.7"
+        "x": "18196.8",
+        "y": "126.424",
+        "z": "-15914.7"
     },
     {
         "gameName": "colby_ks",
@@ -6339,14 +6330,6 @@ var cities_c2c = [
         "x": "-22130.8",
         "y": "134",
         "z": "10233.8"
-    },
-    {
-        "gameName": "oakley",
-        "realName": "Oakley",
-        "country": "kansas",
-        "x": "-21117.2",
-        "y": "513.417",
-        "z": "-1527.55"
     },
     {
         "gameName": "salina",
