@@ -3069,9 +3069,9 @@ var country_properties_c2c = {
         code: "us-ia",
         relative_radius: 1.2
     },
-    "walcott": {
-        name: "Walcott",
-        name_english: "Walcott",
+    "davenport": {
+        name: "Davenport",
+        name_english: "Davenport",
         code: "us-ia",
         relative_radius: 1.2
     },
@@ -4875,7 +4875,7 @@ var city_properties_c2c = {
     "iowa": {
         relative_whitenoise: 0.95
     },
-    "walcott": {
+    "davenport": {
         relative_whitenoise: 0.95
     },
     "desmoines": {
@@ -6252,12 +6252,12 @@ var cities_c2c = [
         "z": "-15398.4"
     },
     {
-        "gameName": "walcott",
-        "realName": "Walcott",
+        "gameName": "davenport",
+        "realName": "Davenport",
         "country": "iowa",
-        "x": "21931.7",
-        "y": "150.094",
-        "z": "-15677.4"
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-15390.4"
     },
     {
         "gameName": "sioux_city",
