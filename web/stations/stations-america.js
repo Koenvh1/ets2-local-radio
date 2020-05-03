@@ -21702,11 +21702,6 @@ var stations_c2c = {
             url: "http://ice7.securenetsystems.net/KQRN"
         },
         {
-            name: "570 WNAX",
-            logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
-        },
-        {
             name: "1490 KORN",
             logo: "stations/images-america/c2c/mitchell_sd/1490 KORN.png",
             url: "http://ice7.securenetsystems.net/KORN"
