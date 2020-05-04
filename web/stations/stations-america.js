@@ -9880,74 +9880,159 @@ var stations_c2c = {
     ],
     "indianapolis": [
         {
-            name: "88.7 WICR FM HD1",
-            logo: "stations/images-america/c2c/88.7 WICR FM HD1.png",
-            url: "http://stream.abacast.net/direct/univofindy-wicrhd1mp3-ibc4"
+            name: "WICR 88.7",
+            logo: "stations/images-america/c2c/indianapolis_in/WICR 88.7.png",
+            url: "https://live.wostreaming.net/manifest/univofindy-wicrhd1aac-ibc4"
         },
         {
-            name: "88.7 WICR FM HD2",
-            logo: "stations/images-america/c2c/88.7 WICR FM HD2.png",
-            url: "http://stream.abacast.net/direct/univofindy-wicrhd2mp3-ibc4"
+            name: "The Mirror Image 88.7-HD2",
+            logo: "stations/images-america/c2c/indianapolis_in/The Mirror Image 88.7-HD2.png",
+            url: "https://live.wostreaming.net/manifest/univofindy-wicrhd2aac-ibc4"
         },
         {
-            name: "88.7 WICR FM HD3",
-            logo: "stations/images-america/c2c/88.7 WICR FM HD3.png",
-            url: "http://stream.abacast.net/direct/univofindy-wicrhd3mp3-ibc4"
+            name: "UIndy Radio 88.7-HD3",
+            logo: "stations/images-america/c2c/indianapolis_in/UIndy Radio 88.7-HD3.png",
+            url: "https://live.wostreaming.net/manifest/univofindy-wicrhd3aac-ibc4"
         },
         {
             name: "90.1 WFYI",
-            logo: "stations/images-america/c2c/90.1 WFYI.png",
+            logo: "stations/images-america/c2c/indianapolis_in/90.1 WFYI.png",
+            url: "https://wfyi-iad.streamguys1.com/live"
+        },
+        {
+            name: "XPoNential Radio 90.1-HD2",
+            logo: "stations/images-america/c2c/indianapolis_in/XPoNential Radio 90.1-HD2.png",
             url: "http://amber.streamguys.com:5600/live1"
         },
         {
-            name: "93.1 WIBC News Center",
-            logo: "stations/images-america/c2c/93.1 WIBC News Center.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIBCFM.mp3"
+            name: "Giant 90.9",
+            logo: "stations/images-america/c2c/indianapolis_in/Giant 90.9.png",
+            url: "http://104.251.118.50:8084/stream"
         },
         {
-            name: "93.9X",
-            logo: "stations/images-america/c2c/WNDXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNDXFMAAC.aac"
+            name: "91.1 WEDM",
+            logo: "stations/images-america/c2c/indianapolis_in/91.1 WEDM.png",
+            url: "https://crystalout.surfernetwork.com:8001/WEDM-FM_MP3"
         },
         {
-            name: "Q95 Rocks",
-            logo: "stations/images-america/c2c/Q95 Rocks.png",
-            url: "https://c13icy.prod.playlists.ihrhls.com/901_icy"
+            name: "92.3 WTTS",
+            logo: "stations/images-america/c2c/indianapolis_in/92.3 WTTS.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice64.securenetsystems.net/WTTS"
         },
         {
-            name: "WFMS 95.5",
-            logo: "stations/images-america/c2c/WFMSFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFMSFMAAC.aac"
+            name: "93.1 WIBC",
+            logo: "stations/images-america/c2c/indianapolis_in/93.1 WIBC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIBCFMAAC_SC"
+        },
+        {
+            name: "939X",
+            logo: "stations/images-america/c2c/indianapolis_in/939X.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNDXFMAAC_SC"
+        },
+        {
+            name: "Exitos 94.3",
+            logo: "stations/images-america/c2c/indianapolis_in/Exitos 94.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSYW_AMAAC_SC"
+        },
+        {
+            name: "Q95",
+            logo: "stations/images-america/c2c/indianapolis_in/Q95.png",
+            url: "https://ample.revma.ihrhls.com/zc901/65_5hzuwhujqqr802/playlist.m3u8"
+        },
+        {
+            name: "95.5 WFMS",
+            logo: "stations/images-america/c2c/indianapolis_in/95.5 WFMS.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFMSFMAAC_SC"
         },
         {
             name: "Freedom 95",
-            logo: "stations/images-america/c2c/Freedom 95.png",
+            logo: "stations/images-america/c2c/indianapolis_in/Freedom 95.png",
             url: "http://ice24.securenetsystems.net/WFDM"
         },
         {
-            name: "Fox Sports 97.5",
-            logo: "stations/images-america/c2c/WNDE.png",
-            url: "https://c13icy.prod.playlists.ihrhls.com/905_icy"
+            name: "Rock 96.1",
+            logo: "stations/images-america/c2c/indianapolis_in/Rock 96.1.png",
+            url: "https://ice24.securenetsystems.net/WTTSHD2"
         },
         {
-            name: "Real 98.3",
-            logo: "stations/images-america/c2c/WZRLFM.png",
-            url: "https://c13icy.prod.playlists.ihrhls.com/6944_icy"
+            name: "HOT 96.3",
+            logo: "stations/images-america/c2c/indianapolis_in/HOT 96.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WHHHFMAAC_SC"
         },
         {
-            name: "K-Love",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://emf.streamguys1.com/sk024_mp3_high_web"
+            name: "97.1 HANK FM",
+            logo: "stations/images-america/c2c/indianapolis_in/97.1 HANK FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WLHKFMAAC_SC"
         },
         {
-            name: "Alt 103.3",
-            logo: "stations/images-america/c2c/WOLTFM.png",
-            url: "https://c13icy.prod.playlists.ihrhls.com/909_icy"
+            name: "97.5 KISS FM",
+            logo: "stations/images-america/c2c/indianapolis_in/97.5 KISS FM.png",
+            url: "https://ample.revma.ihrhls.com/zc8376/3_1vm7xhkkknmi02/playlist.m3u8"
         },
         {
-            name: "104.5 WJJK Classic Hits",
-            logo: "stations/images-america/c2c/104.5 WJJK Classic Hits.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJJKFMAAC.aac"
+            name: "REAL 98.3",
+            logo: "stations/images-america/c2c/indianapolis_in/REAL 98.3.png",
+            url: "https://ample.revma.ihrhls.com/zc6944/11_1slzemmer4ixy02/playlist.m3u8"
+        },
+        {
+            name: "99.1 WQRT",
+            logo: "stations/images-america/c2c/indianapolis_in/99.1 WQRT.png",
+            url: "https://ice24.securenetsystems.net/WQRTLP"
+        },
+        {
+            name: "99.5 ZPL",
+            logo: "stations/images-america/c2c/indianapolis_in/99.5 ZPL.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WZPLFMAAC_SC"
+        },
+        {
+            name: "RadioNOW 100.9",
+            logo: "stations/images-america/c2c/indianapolis_in/RadioNOW 100.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNOWFMAAC_SC"
+        },
+        {
+            name: "alt 103.3",
+            logo: "stations/images-america/c2c/indianapolis_in/alt 103.3.png",
+            url: "https://ample.revma.ihrhls.com/zc909/69_kxfdp1mx0c9i02/playlist.m3u8"
+        },
+        {
+            name: "104.5 WJJK",
+            logo: "stations/images-america/c2c/indianapolis_in/104.5 WJJK.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJJKFMAAC_SC"
+        },
+        {
+            name: "B105.7",
+            logo: "stations/images-america/c2c/indianapolis_in/B105.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYXBFMAAC_SC"
+        },
+        {
+            name: "106.7 WTLC",
+            logo: "stations/images-america/c2c/indianapolis_in/106.7 WTLC.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WTLCFMAAC_SC"
+        },
+        {
+            name: "Radio Latina 107.1",
+            logo: "stations/images-america/c2c/indianapolis_in/Radio Latina 107.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEDJ_FMAAC_SC"
+        },
+        {
+            name: "107.5 The Fan",
+            logo: "stations/images-america/c2c/indianapolis_in/107.5 The Fan.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFNIAMAAC_SC"
+        },
+        {
+            name: "107.9 The Mix",
+            logo: "stations/images-america/c2c/indianapolis_in/107.9 The Mix.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNTRFMAAC_SC"
+        },
+        {
+            name: "FOX Sports 1260",
+            logo: "stations/images-america/c2c/indianapolis_in/FOX Sports 1260.png",
+            url: "https://ample.revma.ihrhls.com/zc905/46_1gdij9rmjw6z002/playlist.m3u8"
+        },
+        {
+            name: "CBS Sports 1430",
+            logo: "stations/images-america/c2c/indianapolis_in/CBS Sports 1430.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXNTAMAAC_SC"
         },
     ],
     "lafayette_in": [
