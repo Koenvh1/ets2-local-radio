@@ -9952,79 +9952,74 @@ var stations_c2c = {
     ],
     "lafayette_in": [
         {
-            name: "93.5 KHY",
-            logo: "stations/images-america/c2c/WKHYFM.png",
-            url: "http://stream.abacast.net/direct/neuhoffcomm-wkhyfmaac-ibc3"
+            name: "Jeff 92",
+            logo: "stations/images-america/c2c/lafayette_in/Jeff 92.png",
+            url: "https://listen.shoutcast.com/wjefstudentrunradio"
         },
         {
-            name: "Bob FM 95.3",
-            logo: "stations/images-america/c2c/Bob FM 95.3.jpg",
-            url: "http://ic2.mainstreamnetwork.com/wbpe-fm"
+            name: "93.5 WKHY",
+            logo: "stations/images-america/c2c/lafayette_in/93.5 WKHY.png",
+            url: "https://live.wostreaming.net/manifest/neuhoffcomm-wkhyfmaac-ibc3"
         },
         {
-            name: "Y95 Country",
-            logo: "stations/images-america/c2c/WYCMFM.png",
-            url: "http://ic2.mainstreamnetwork.com/wycm-fm"
+            name: "95.3 BOB FM",
+            logo: "stations/images-america/c2c/lafayette_in/95.3 BOB FM.png",
+            url: "https://ic2.sslstream.com/wbpe-fm"
         },
         {
-            name: "Z96.5 WAZY",
-            logo: "stations/images-america/c2c/WAZYFM.png",
-            url: "http://ic2.mainstreamnetwork.com/wazy-fm"
+            name: "Y95",
+            logo: "stations/images-america/c2c/lafayette_in/Y95.png",
+            url: "https://ic2.sslstream.com/wycm-fm"
         },
         {
-            name: "98.1 Gold WIBN",
-            logo: "stations/images-america/c2c/98.1 Gold WIBN.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIBNFMAAC.aac"
+            name: "Z96.5",
+            logo: "stations/images-america/c2c/lafayette_in/Z96.5.png",
+            url: "https://ic2.sslstream.com/wazy-fm"
         },
         {
             name: "98.7 WASK",
-            logo: "stations/images-america/c2c/98.7 WASK.png",
-            url: "http://stream.abacast.net/direct/neuhoffcomm-waskfmaac-ibc3"
+            logo: "stations/images-america/c2c/lafayette_in/98.7 WASK.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WASKFMAAC_SC"
         },
         {
             name: "Shine 99",
-            logo: "stations/images-america/c2c/Shine 99.png",
-            url: "http://stream.abacast.net/direct/kaspar-wshwfmaac-64"
+            logo: "stations/images-america/c2c/lafayette_in/Shine 99.png",
+            url: "https://live.wostreaming.net/manifest/kaspar-wshwfmaac-ibc1"
         },
         {
-            name: "101.3 WBAA Classical Purdue University",
-            logo: "stations/images-america/c2c/101.3 WBAA Classical Purdue University.png",
+            name: "WBAA Classical 101.3",
+            logo: "stations/images-america/c2c/lafayette_in/WBAA.png",
             url: "https://purdue.streamguys1.com/wbaa-classical"
         },
         {
-            name: "101.3 WBAA Jazz Purdue University",
-            logo: "stations/images-america/c2c/101.3 WBAA Jazz Purdue University.png",
+            name: "WBAA Jazz 101.3-HD2",
+            logo: "stations/images-america/c2c/lafayette_in/WBAA.png",
             url: "https://purdue.streamguys1.com/wbaa-jazz"
         },
         {
             name: "101.7 The Hammer",
-            logo: "stations/images-america/c2c/WASKAM.png",
-            url: "http://stream.abacast.net/direct/neuhoffcomm-waskamaac-ibc3"
+            logo: "stations/images-america/c2c/lafayette_in/101.7 The Hammer.png",
+            url: "https://live.wostreaming.net/manifest/neuhoffcomm-waskamaac-ibc3"
         },
         {
             name: "B102.9",
-            logo: "stations/images-america/c2c/WXXBFM.png",
-            url: "http://stream.abacast.net/direct/neuhoffcomm-wxxbfmaac-ibc3"
-        },
-        {
-            name: "Thunder 103.9 WIMC",
-            logo: "stations/images-america/c2c/Thunder 103.9 WIMC.png",
-            url: "http://ice5.securenetsystems.net/WIMC"
+            logo: "stations/images-america/c2c/lafayette_in/B102.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXBFMAAC_SC"
         },
         {
             name: "K105",
-            logo: "stations/images-america/c2c/WKOAFM.jpg",
-            url: "http://stream.abacast.net/direct/neuhoffcomm-wkoafmaac-ibc3"
+            logo: "stations/images-america/c2c/lafayette_in/K105.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKOAFMAAC_SC"
         },
         {
-            name: "920 WBAA News Purdue University",
-            logo: "stations/images-america/c2c/920 WBAA News Purdue University.png",
+            name: "WBAA News 105.9",
+            logo: "stations/images-america/c2c/lafayette_in/WBAA.png",
             url: "https://purdue.streamguys1.com/wbaa-news"
         },
         {
-            name: "WILO 1570",
-            logo: "stations/images-america/c2c/WILO 1570.png",
-            url: "http://stream.abacast.net/direct/kaspar-wiloamaac-64"
+            name: "Q106.7",
+            logo: "stations/images-america/c2c/lafayette_in/Q106.7.png",
+            url: "https://ice24.securenetsystems.net/WLQQ"
         },
     ],
     "richmond_in": [
