@@ -10029,19 +10029,29 @@ var stations_c2c = {
     ],
     "richmond_in": [
         {
-            name: "91.1 WBSH Indiana Public Radio",
-            logo: "stations/images-america/c2c/91.1 WBSH Indiana Public Radio.svg",
-            url: "https://ipr.streamguys1.com/aac"
+            name: "88.5 WMUB",
+            logo: "stations/images-america/c2c/richmond_in/88.5 WMUB.png",
+            url: "https://stream.cinradio.org/wvxu"
         },
         {
-            name: "101.7 The Point",
-            logo: "stations/images-america/c2c/101.7 the point.gif",
-            url: "http://stream.abacast.net/direct/brewerrichmond-whonamaac-ibc4"
+            name: "WECI 91.5",
+            logo: "stations/images-america/c2c/richmond_in/WECI 91.5.png",
+            url: "http://159.28.24.146:8000"
         },
         {
-            name: "WEDI 1130",
-            logo: "stations/images-america/c2c/WEDI 1130.png",
-            url: "http://ice7.securenetsystems.net/WBZI"
+            name: "95.3 The Legend",
+            logo: "stations/images-america/c2c/richmond_in/95.3 The Legend.png",
+            url: "https://live.wostreaming.net/manifest/brewerrichmond-wqlkhd3aac-ibc1"
+        },
+        {
+            name: "G101.3",
+            logo: "stations/images-america/c2c/richmond_in/G101.3.png",
+            url: "http://13.bteradio.com:9090/G1013.mp3"
+        },
+        {
+            name: "Nash FM 102.5",
+            logo: "stations/images-america/c2c/richmond_in/Nash FM 102.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMDHFMAAC_SC"
         },
     ],
     "south_bend": [
