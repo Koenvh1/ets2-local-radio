@@ -9796,85 +9796,145 @@ var stations_c2c = {
     ],
     "springfield_il": [
         {
-            name: "NPR Illinois 91.9 UIS",
-            logo: "stations/images-america/c2c/NPR Illinois 91.9 UIS.jpg",
+            name: "91.9 UIS",
+            logo: "stations/images-america/c2c/springfield_il/91.9 UIS.png",
             url: "https://war.streamguys1.com:7785/wuis.mp3"
         },
         {
-            name: "NPR Illinois Classic",
-            logo: "stations/images-america/c2c/NPR Illinois Classic.jpg",
+            name: "Classic 91.9-HD2",
+            logo: "stations/images-america/c2c/springfield_il/Classic 91.9-HD2.png",
             url: "https://war.streamguys1.com:7785/WUISRIS-2"
         },
         {
-            name: "NPR Illinois The X",
-            logo: "stations/images-america/c2c/NPR Illinois The X.jpg",
+            name: "The X 91.9-HD3",
+            logo: "stations/images-america/c2c/springfield_il/The X 91.9-HD3.png",
             url: "https://war.streamguys1.com:7785/WUISRIS-3"
         },
         {
-            name: "News Talk WMAY",
-            logo: "stations/images-america/c2c/WMAY.png",
+            name: "Sports Radio 92.3",
+            logo: "stations/images-america/c2c/springfield_il/Sports Radio 92.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC_SC"
+        },
+        {
+            name: "US92.7",
+            logo: "stations/images-america/c2c/springfield_il/US92.7.png",
+            url: "http://crystalout.surfernetwork.com:8001/WUSW-FM_MP3"
+        },
+        {
+            name: "94.7 WMAY",
+            logo: "stations/images-america/c2c/springfield_il/94.7 WMAY.png",
             url: "http://crystalout.surfernetwork.com:8001/WMAY-AM_MP3"
         },
         {
+            name: "96.7 BOB FM",
+            logo: "stations/images-america/c2c/springfield_il/96.7 BOB FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCVSFMAAC_SC"
+        },
+        {
+            name: "97.7 QLZ",
+            logo: "stations/images-america/c2c/springfield_il/97.7 QLZ.png",
+            url: "http://crystalout.surfernetwork.com:8001/WQLZ-FM_MP3"
+        },
+        {
             name: "98.7 WNNS",
-            logo: "stations/images-america/c2c/WNNS.png",
+            logo: "stations/images-america/c2c/springfield_il/98.7 WNNS.png",
             url: "http://crystalout.surfernetwork.com:8001/WNNS-FM_MP3"
         },
         {
-            name: "100.5 WYMG Springfield's Classic Rock",
-            logo: "stations/images-america/c2c/100.5 WYMG Springfield's Classic Rock.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WYMGFM.mp3"
+            name: "99.7 The Mix",
+            logo: "stations/images-america/c2c/springfield_il/99.7 The Mix.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXAJFMAAC_SC"
         },
         {
-            name: "WSOY",
-            logo: "stations/images-america/c2c/WSOY.gif",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDZAM.mp3"
+            name: "104.5 WFMB",
+            logo: "stations/images-america/c2c/springfield_il/104.5 WFMB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBFMAAC_SC"
         },
     ],
     "evansville_in": [
         {
-            name: "89.5 WKPB Western Kentucky University",
-            logo: "stations/images-america/c2c/89.5 WKPB Western Kentucky University.png",
+            name: "WNIN 88.3",
+            logo: "stations/images-america/c2c/evansville_in/WNIN 88.3.png",
+            url: "https://wnin.streamguys1.com/live"
+        },
+        {
+            name: "WKU 89.5",
+            logo: "stations/images-america/c2c/bowling_green_ky/WKU 88.9.png",
             url: "https://dal-wku-stream-1.neighborhoodca.com/stream"
         },
         {
-            name: "91.5 WUEV University of Evansville",
-            logo: "stations/images-america/c2c/91.5 WUEV University of Evansville.png",
-            url: "http://wuevstream.evansville.edu:8010/;"
+            name: "90.7 WPSR",
+            logo: "stations/images-america/c2c/evansville_in/90.7 WPSR.png",
+            url: "https://server01.nkstreaming.com:8105/WPSRHD1"
+        },
+        {
+            name: "WBKR 92.5",
+            logo: "stations/images-america/c2c/evansville_in/WBKR 92.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-wbkrfmaac-ibc3"
+        },
+        {
+            name: "93.5 The Lloyd",
+            logo: "stations/images-america/c2c/evansville_in/93.5 The Lloyd.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLYDFMAAC_SC"
+        },
+        {
+            name: "95.7 The Spin",
+            logo: "stations/images-america/c2c/evansville_in/95.7 The Spin.png",
+            url: "https://ice3.securenetsystems.net/WSWI"
+        },
+        {
+            name: "HOT 96",
+            logo: "stations/images-america/c2c/evansville_in/HOT 96.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSTOFMAAC_SC"
+        },
+        {
+            name: "WSON 96.5",
+            logo: "stations/images-america/c2c/evansville_in/WSON 96.5.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice8.securenetsystems.net/WSON"
+        },
+        {
+            name: "98.5 WEOA",
+            logo: "stations/images-america/c2c/evansville_in/98.5 WEOA.png",
+            url: "https://server01.nkstreaming.com:8101/stream"
         },
         {
             name: "99.5 WKDQ",
-            logo: "stations/images-america/c2c/WKDQFM.png",
+            logo: "stations/images-america/c2c/evansville_in/99.5 WKDQ.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wkdqfmaac-ibc3"
         },
         {
             name: "103GBF",
-            logo: "stations/images-america/c2c/WGBFFM.png",
+            logo: "stations/images-america/c2c/evansville_in/103GBF.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wgbffmaac-ibc3"
         },
         {
             name: "104.1 WIKY",
-            logo: "stations/images-america/c2c/104.1 WIKY.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIKYFMAAC.aac"
+            logo: "stations/images-america/c2c/evansville_in/104.1 WIKY.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIKYFMAAC_SC"
         },
         {
-            name: "My 105.3 WJLT",
-            logo: "stations/images-america/c2c/WJLTFM.png",
+            name: "My 105.3",
+            logo: "stations/images-america/c2c/evansville_in/My 105.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wjltfmaac-ibc3"
         },
         {
-            name: "Kiss 106",
-            logo: "stations/images-america/c2c/WDKSFM.png",
+            name: "106.1 KISS FM",
+            logo: "stations/images-america/c2c/evansville_in/106.1 KISS FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wdksfmaac-ibc3"
         },
         {
-            name: "WABX 107.5",
-            logo: "stations/images-america/c2c/WABX 107.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WABXFM.mp3"
+            name: "WJPS 107.1",
+            logo: "stations/images-america/c2c/evansville_in/WJPS 107.1.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice9.securenetsystems.net/WJPS"
         },
         {
-            name: "News Talk 1280 WGBF",
-            logo: "stations/images-america/c2c/News Talk 1280 WGBF.png",
+            name: "WABX 107.5",
+            logo: "stations/images-america/c2c/evansville_in/WABX 107.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WABXFMAAC_SC"
+        },
+        {
+            name: "1280 WGBF",
+            logo: "stations/images-america/c2c/evansville_in/1280 WGBF.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wgbfamaac-ibc3"
         },
     ],
