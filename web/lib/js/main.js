@@ -79,6 +79,7 @@ function initialise() {
         $.getJSON(g_api + "/api/", function (data) {
             refresh(data);
         });
+        $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
     }, 1000);
 
     setInterval(function () {
