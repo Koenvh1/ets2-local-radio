@@ -13,3 +13,16 @@ F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\EasyHook64Svc.exe
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\EasyLoad32.dll
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\bin\EasyLoad64.dll
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csprojAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\bin\EasyHook32.dll
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\bin\EasyHook64.dll
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\bin\EasyLoad32.dll
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\bin\EasyLoad64.dll
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\bin\EasyHook32Svc.exe
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\bin\EasyHook64Svc.exe
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.csprojAssemblyReference.cache
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.Properties.Resources.resources
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.GenerateResource.cache
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CopyComplete
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.dll
+C:\Users\joshu\Documents\GitHub\ets2-local-radio\server\Capture\obj\Release\Capture.pdb
