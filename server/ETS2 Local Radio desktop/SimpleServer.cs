@@ -110,6 +110,12 @@ namespace ETS2_Local_Radio_server
             get { return _radioSignal; }
             set { _radioSignal = value; }
         }
+        private string _radioStation;
+        public string RadioStation
+        {
+            get { return _radioStation; }
+            set { _radioStation = value; }
+        }
 
         /// <summary>
         /// Construct server with given port.
@@ -255,6 +261,8 @@ namespace ETS2_Local_Radio_server
                 try
                 {
                     Station.SetStation(station.Split("/".ToCharArray())[0], station.Split("/".ToCharArray())[1], station.Split("?".ToCharArray())[1]);
+                    RadioStation = station.Split("/".ToCharArray())[0];
+                    RadioSignal = station.Split("/".ToCharArray())[1];
                 }
                 catch (Exception)
                 {
@@ -281,7 +289,7 @@ namespace ETS2_Local_Radio_server
             }
             else if (context.Request.Url.AbsolutePath == "/api/radio/")
             {
-                string json = "{\"Radio\":\"" + Station.RadioStation + "\",\"Signal\":\"" + RadioSignal + "\"}";
+                string json = "{\"Radio\":\"" + RadioStation + "\",\"Signal\":\"" + RadioSignal + "\"}";
                 context.Response.ContentType = "application/json";
                 context.Response.ContentLength64 = Encoding.UTF8.GetBytes(json).Length;
                 context.Response.StatusCode = (int)HttpStatusCode.OK;
@@ -292,9 +300,18 @@ namespace ETS2_Local_Radio_server
             {
                 string station = context.Request.Url.AbsoluteUri;
                 station = WebUtility.UrlDecode(station);
+                //station = station.Split(new string[] { "/station/" }, StringSplitOptions.None)[1];
                 station = station.Split(new string[] { "/api/radio/set/" }, StringSplitOptions.None)[1];
-
-                RadioSignal = station.Split("/".ToCharArray())[0];
+                try
+                {
+                    RadioSignal = station.Split("/".ToCharArray())[0];
+                    Console.WriteLine("Radio Signal: " + RadioSignal);
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine("Radio Signal: " + ex);
+                }
+                //RadioSignal = station;
 
                 string text = "{\"Success\": true}";
 

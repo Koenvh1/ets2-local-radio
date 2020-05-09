@@ -79,7 +79,6 @@ function initialise() {
         $.getJSON(g_api + "/api/", function (data) {
             refresh(data);
         });
-        $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
     }, 1000);
 
     setInterval(function () {
@@ -148,6 +147,7 @@ function initialise() {
                 }
             }
         });
+        $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[g_current_country].whitenoise) + "/");
     }, 250);
 
     $('#volumeControl').on("change mousemove", function () {
@@ -296,7 +296,6 @@ function refresh(data) {
         if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
             //If they don't contain the same keys (ie. a country update)
             g_countries = available_countries;
-
             refreshStations();
             /*
             for(var key in g_countries){
