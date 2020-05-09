@@ -1,6 +1,6 @@
 {
     "web": {
-        "author": "Eryman",
+        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation --> Traduzido por Eryman",
         "now-playing": "Tocando agora:",
         "connect-other-device": "Conectar a outro dispositivo",
         "coverage-map": "Mapa de cobertura",
@@ -12,24 +12,24 @@
         "update-available": "Nova atualiza\u00e7\u00e3o dispon\u00edvel!",
         "update-now": "Atualizar agora",
         "controlled-remotely": "Este r\u00e1dio est\u00e1 sendo controlado remotamente",
-        "submit-station": "Enviar uma nova esta\u00e7\u00e3o",
-        "broken-station": "Relatar esta\u00e7\u00e3o quebrada",
+        "submit-station": "Sugerir uma esta\u00e7\u00e3o nova",
+        "broken-station": "Reportar esta\u00e7\u00e3o com defeito",
         "this-peerid": "PeerID deste dispositivo:",
         "waiting-coordinates": "Esperando por sua localiza\u00e7\u00e3o...",
-        "closest-city": "A cidade mais pr\u00f3xima \u00e9: <span class='nearestCity'><\/span>, <span class='distance'><\/span> metros distante",
-        "amount-static": "Intensidade do chiado:",
-        "chgtheme": "Toggle theme",
+        "closest-city": "A cidade mais pr\u00f3xima \u00e9: <span class='nearestCity'><\/span>, a <span class='distance'><\/span> metros",
+        "amount-static": "Quantidade de chiado:",
+        "chgtheme": "Mudar tema",
         "brightness": "Brilho:",
         "show-all": "Mostrar todas",
-        "enter-peerid-title": "Digite a ID do dispositivo",
-        "enter-peerid-body": "Por favor digite a PeerID que voc\u00ea v\u00ea no dispositivo ao qual quer conectar:",
+        "enter-peerid-title": "Digite o PeerID do dispositivo",
+        "enter-peerid-body": "Por favor digite o PeerID que voc\u00ea v\u00ea no dispositivo ao qual quer conectar:",
         "connect": "Conectar",
-        "make-favourite": "Usar como favorito"
+        "make-favourite": "Favoritar"
     },
     "server": {
         "info": "Informa\u00e7\u00e3o",
         "game": "Jogo:",
-        "status": "Estado:",
+        "status": "Status:",
         "simulator-not-running": "Jogo n\u00e3o iniciado",
         "simulator-not-driving": "Jogo iniciado, vamos dirigir!",
         "simulator-running": "Jogo rodando!",
@@ -44,8 +44,8 @@
         "stop-playback-key": "Tecla para parar reprodu\u00e7\u00e3o:",
         "volume-up-key": "Tecla para aumentar volume:",
         "volume-down-key": "Tecla para diminuir volume:",
-        "make-favourite-key": "Tecla para tornar favorito:",
-        "go-to-favourite-key": "Tecla para ir a favorito:",
+        "make-favourite-key": "Tecla para favoritar:",
+        "go-to-favourite-key": "Tecla para sintonizar favorita:",
         "save": "Salvar",
         "install": "Instalar plugin",
         "install-plugin-ets2": "Instalar plugin para\nEuro Truck Simulator 2",
@@ -53,7 +53,7 @@
         "remove-plugin": "Remover plugin",
         "install-overlay": "Voc\u00ea deseja instalar a sobreposi\u00e7\u00e3o do jogo?\n(Isso ir\u00e1 substituir um d3d9.dll j\u00e1 existente e, em casos raros, o jogo pode travar ao sair.)",
         "remove-overlay": "Deseja remover a sobreposi\u00e7\u00e3o no jogo?\n(Isso remover\u00e1 qualquer d3d9.dll existente.)",
-        "ets2-folder-dialog": "Por favor selecione a pasta do seu ETS2\/ATS, normalmente encontrada em C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
+        "ets2-folder-dialog": "Por favor selecione a pasta do ETS2\/ATS, normalmente encontrada em C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
         "now-playing": "Tocando agora:"
     }
 }
