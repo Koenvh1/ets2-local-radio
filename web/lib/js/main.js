@@ -79,7 +79,7 @@ function initialise() {
         $.getJSON(g_api + "/api/", function (data) {
             refresh(data);
         });
-        $.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
+        //$.post(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
     }, 1000);
 
     setInterval(function () {
@@ -298,6 +298,7 @@ function refresh(data) {
             //If they don't contain the same keys (ie. a country update)
             g_countries = available_countries;
             refreshStations();
+            $.get(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise) + "/");
             /*
             for(var key in g_countries){
                 $.getJSON("/favourite/" + key, function (data) {
@@ -307,6 +308,7 @@ function refresh(data) {
             */
         } else {
             setWhitenoise(available_countries[g_current_country]["whitenoise"]);
+            $.get(g_api + "/api/radio/set/" + calculateReception(g_countries[country].whitenoise)+ "/");
             g_countries = available_countries;
 
         }
