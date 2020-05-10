@@ -3204,7 +3204,7 @@ var stations = {
         {
             name: "The Breeze 99.9-HD2",
             logo: "stations/images-america/phoenix/The Breeze 99.9-HD2.png",
-            url: "https://n41a-e2.revma.ihrhls.com/zc8143/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
             name: "LIVE 101.5",
@@ -8926,415 +8926,705 @@ var stations_c2c = {
     "atlanta": [
         {
             name: "Album 88",
-            logo: "stations/images-america/c2c/Album 88.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRASFM.mp3"
+            logo: "stations/images-america/c2c/atlanta_ga/Album 88.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRASFM_SC"
         },
         {
-            name: "89.3 FM WRFG",
-            logo: "stations/images-america/c2c/89.3 FM WRFG.png",
-            url: "http://streaming.wrfg.org:80/;"
+            name: "WRFG 89.3",
+            logo: "stations/images-america/c2c/atlanta_ga/WRFG 89.3.png",
+            url: "https://s2.radio.co/s2133c4bad/listen"
         },
         {
-            name: "90.1 WABE - Atlanta's NPR Station",
-            logo: "stations/images-america/c2c/WABE.png",
-            url: "http://pba-ice.streamguys.org/wabe.mp3"
+            name: "WABE 90.1",
+            logo: "stations/images-america/c2c/atlanta_ga/WABE 90.1.png",
+            url: "https://pba-ice.wabe.org/wabe.aac"
         },
         {
-            name: "90.1 WABE - Classical",
-            logo: "stations/images-america/c2c/WABE.png",
-            url: "http://pba-ice.streamguys.org/classical.mp3"
+            name: "Classical 24 90.1-HD2",
+            logo: "stations/images-america/c2c/atlanta_ga/Classical 24 90.1-HD2.png",
+            url: "https://pba-ice.wabe.org/classical.aac"
         },
         {
-            name: "WREK",
-            logo: "stations/images-america/c2c/WREK.png",
+            name: "BBC World Service 90.1-HD3",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
+            url: "https://pba-ice.wabe.org/news.aac"
+        },
+        {
+            name: "WREK 91.1",
+            logo: "stations/images-america/c2c/atlanta_ga/WREK 91.1.png",
             url: "http://streaming.wrek.org:8000/wrek_live-128kb"
         },
         {
-            name: "WCLK",
-            logo: "stations/images-america/c2c/WCLK.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM.mp3"
+            name: "WCLK 91.9",
+            logo: "stations/images-america/c2c/atlanta_ga/WCLK 91.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM_SC"
+        },
+        {
+            name: "WCLK 91.9-HD2",
+            logo: "stations/images-america/c2c/atlanta_ga/WCLK 91.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCLKHD2_SC"
+        },
+        {
+            name: "WCLK 91.9-HD3",
+            logo: "stations/images-america/c2c/atlanta_ga/WCLK 91.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCLK_HD3AAC_SC"
+        },
+        {
+            name: "92.9 The Game",
+            logo: "stations/images-america/c2c/atlanta_ga/92.9 The Game.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WZGCFMAAC_SC"
+        },
+        {
+            name: "93.7 The Fan",
+            logo: "stations/images-america/c2c/atlanta_ga/93.7 The Fan.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCNNAMAAC_SC"
+        },
+        {
+            name: "Star 94.1",
+            logo: "stations/images-america/c2c/atlanta_ga/Star 94.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSTRFMAAC_SC"
+        },
+        {
+            name: "Star 94.1-HD2",
+            logo: "stations/images-america/c2c/atlanta_ga/Star 94.1-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSTRHD2AAC_SC"
+        },
+        {
+            name: "ChannelQ 94.1-HD3",
+            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
+        },
+        {
+            name: "Streetz 94.5",
+            logo: "stations/images-america/c2c/atlanta_ga/Streetz 94.5.png",
+            url: "http://104.6.216.93:8000/Streetz"
         },
         {
             name: "94.9 The Bull",
-            logo: "stations/images-america/c2c/WUBLFM.png",
+            logo: "stations/images-america/c2c/atlanta_ga/94.9 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc2829/hls.m3u8"
         },
         {
-            name: "WSB",
-            logo: "stations/images-america/c2c/WSB.png",
-            url: "http://ih-streaming.cmgdigital.com/atl750/atl750-iheart.aac"
+            name: "94.9-HD2 The Lake",
+            logo: "stations/images-america/c2c/atlanta_ga/94.9-HD2 The Lake.png",
+            url: "https://stream.revma.ihrhls.com/zc8189/hls.m3u8"
+        },
+        {
+            name: "95.5 WSB",
+            logo: "stations/images-america/c2c/atlanta_ga/95.5 WSB.png",
+            url: "https://cmg.streamguys1.com/atl750/atl750-sgplayer-aac"
         },
         {
             name: "Power 96.1",
-            logo: "stations/images-america/c2c/WWPWFM.png",
+            logo: "stations/images-america/c2c/atlanta_ga/Power 96.1.png",
             url: "https://stream.revma.ihrhls.com/zc741/hls.m3u8"
         },
         {
-            name: "OG 97.9",
-            logo: "stations/images-america/c2c/WWWQHD3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH3AAC.aac"
+            name: "97.1 The River",
+            logo: "stations/images-america/c2c/atlanta_ga/97.1 The River.png",
+            url: "https://cmg.streamguys1.com/atl971/atl971-sgplayer-aac"
         },
         {
-            name: "99X",
-            logo: "stations/images-america/c2c/WWWQHD2.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2AAC.aac"
+            name: "OG 97.9",
+            logo: "stations/images-america/c2c/atlanta_ga/OG 97.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH3AAC_SC"
+        },
+        {
+            name: "B98.5",
+            logo: "stations/images-america/c2c/atlanta_ga/B98.5.png",
+            url: "https://cmg.streamguys1.com/atl985/atl985-sgplayer-aac"
+        },
+        {
+            name: "99x",
+            logo: "stations/images-america/c2c/atlanta_ga/99x.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2AAC_SC"
         },
         {
             name: "Q99.7",
-            logo: "stations/images-america/c2c/WWWQFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWWQFMAAC.aac"
+            logo: "stations/images-america/c2c/atlanta_ga/Q99.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWWQFMAAC_SC"
         },
         {
-            name: "Rock 100.5",
-            logo: "stations/images-america/c2c/Rock 100.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFM.mp3"
+            name: "ROCK 100.5",
+            logo: "stations/images-america/c2c/atlanta_ga/ROCK 100.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFMAAC_SC"
         },
         {
-            name: "Kicks 101.5",
-            logo: "stations/images-america/c2c/WKHXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKHXFMAAC.aac"
+            name: "Smooth Jazz 101.1",
+            logo: "stations/images-america/c2c/atlanta_ga/Smooth Jazz 101.1.png",
+            url: "https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3"
         },
         {
-            name: "105.3 El Patron",
-            logo: "stations/images-america/c2c/WBZYFM.png",
+            name: "New Country 101.Five",
+            logo: "stations/images-america/c2c/atlanta_ga/New Country 101.Five.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKHXFMAAC_SC"
+        },
+        {
+            name: "Classix 102.9",
+            logo: "stations/images-america/c2c/atlanta_ga/Classix 102.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WAMJHD2AAC_SC"
+        },
+        {
+            name: "V-103",
+            logo: "stations/images-america/c2c/atlanta_ga/V-103.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WVEEFMAAC_SC"
+        },
+        {
+            name: "V-103 International 103.3-HD2",
+            logo: "stations/images-america/c2c/atlanta_ga/V-103 International 103.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WVEEHD2AAC_SC"
+        },
+        {
+            name: "104.7 The Fish",
+            logo: "stations/images-america/c2c/atlanta_ga/104.7 The Fish.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WFSHFMAAC_SC"
+        },
+        {
+            name: "105.3 The Beat",
+            logo: "stations/images-america/c2c/atlanta_ga/105.3 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc3209/hls.m3u8"
         },
         {
-            name: "Alt 105.7",
-            logo: "stations/images-america/c2c/WRDAFM.png",
+            name: "Z105.7",
+            logo: "stations/images-america/c2c/atlanta_ga/Z105.7.png",
             url: "https://stream.revma.ihrhls.com/zc749/hls.m3u8"
         },
         {
-            name: "Talk 106.7",
-            logo: "stations/images-america/c2c/WYAY.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WYAYFM.mp3"
+            name: "ALT Radio 105.3-HD2",
+            logo: "stations/images-america/0_general_logos/ALT Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
         {
-            name: "Talk Radio 640 WGST",
-            logo: "stations/images-america/c2c/Talk Radio 640 WGST.png",
+            name: "Pride Radio 105.3-HD3",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
+            name: "Sports X 106.3",
+            logo: "stations/images-america/c2c/atlanta_ga/Sports X 106.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM_SC"
+        },
+        {
+            name: "Majic 107.5",
+            logo: "stations/images-america/c2c/atlanta_ga/Majic 107.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WAMJFMAAC_SC"
+        },
+        {
+            name: "HOT 107.9",
+            logo: "stations/images-america/c2c/atlanta_ga/HOT 107.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WHTAFMAAC_SC"
+        },
+        {
+            name: "AM 640",
+            logo: "stations/images-america/c2c/atlanta_ga/AM 640.png",
             url: "https://stream.revma.ihrhls.com/zc6066/hls.m3u8"
         },
         {
-            name: "Sports Radio The Fan",
-            logo: "stations/images-america/c2c/WCNNAM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCNNAMAAC.aac"
+            name: "WJTP 890",
+            logo: "stations/images-america/c2c/atlanta_ga/WJTP 890.png",
+            url: "http://68.168.103.13:8357/;"
+        },
+        {
+            name: "AM 920 The Answer",
+            logo: "stations/images-america/c2c/atlanta_ga/AM 920 The Answer.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGKAAMAAC_SC"
+        },
+        {
+            name: "VSAM 1040",
+            logo: "stations/images-america/c2c/atlanta_ga/VSAM 1040.png",
+            url: "http://uni5rtmp.tulix.tv/playout2multi11/playout2multi11.stream/playlist.m3u8"
+        },
+        {
+            name: "REAL 1100",
+            logo: "stations/images-america/c2c/atlanta_ga/REAL 1100.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WWWEAMAAC_SC"
+        },
+        {
+            name: "1380 WAOK",
+            logo: "stations/images-america/c2c/atlanta_ga/1380 WAOK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WAOKAMAAC_SC"
         },
     ],
     "augusta_ga": [
         {
-            name: "South Carolina Public Radio",
-            logo: "stations/images-america/c2c/South Carolina Public Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFM.mp3"
+            name: "SCPR 89.1",
+            logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFMAAC_SC"
         },
         {
-            name: "Georgia Public Radio",
-            logo: "stations/images-america/c2c/Georgia Public Radio.png",
+            name: "90.7 GPB",
+            logo: "stations/images-america/0_general_logos/GPB.png",
             url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
         },
         {
-            name: "WKSX 92.7",
-            logo: "stations/images-america/c2c/WKSX 92.7.png",
-            url: "http://ice3.securenetsystems.net/WKSX"
+            name: "92.3 Smooth Jazz",
+            logo: "stations/images-america/c2c/augusta_ga/92.3 Smooth Jazz.png",
+            url: "https://crystalout.surfernetwork.com:8001/WAEG_MP3"
         },
         {
-            name: "96.3 Kiss FM",
-            logo: "stations/images-america/c2c/WKSPFM.png",
+            name: "92.9 The Soul Mine",
+            logo: "stations/images-america/c2c/augusta_ga/92.9 The Soul Mine.png",
+            url: "https://ice64.securenetsystems.net/WYBO"
+        },
+        {
+            name: "93.9 BOB FM",
+            logo: "stations/images-america/c2c/augusta_ga/93.9 BOB FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WDRRFMAAC_SC"
+        },
+        {
+            name: "Shout 94.7",
+            logo: "stations/images-america/c2c/augusta_ga/Shout 94.7.png",
+            url: "https://ice64.securenetsystems.net/WAAWFM"
+        },
+        {
+            name: "95.1 WGAC",
+            logo: "stations/images-america/c2c/augusta_ga/95.1 WGAC.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WGACAMAAC_SC"
+        },
+        {
+            name: "96.3 KISS FM",
+            logo: "stations/images-america/c2c/augusta_ga/96.3 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc769/hls.m3u8"
         },
         {
-            name: "WBBQ",
-            logo: "stations/images-america/c2c/WBBQ.png",
+            name: "Highwaymen Radio 96.3-HD2",
+            logo: "stations/images-america/c2c/augusta_ga/Highwaymen Radio 96.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6851/hls.m3u8"
+        },
+        {
+            name: "HD98.3",
+            logo: "stations/images-america/c2c/augusta_ga/HD98.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WHHDFMAAC_SC"
+        },
+        {
+            name: "Kicks 99",
+            logo: "stations/images-america/c2c/augusta_ga/Kicks 99.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WKXCFMAAC_SC"
+        },
+        {
+            name: "Magic 100.9",
+            logo: "stations/images-america/c2c/augusta_ga/Magic 100.9.png",
+            url: "https://crystalout.surfernetwork.com:8001/WAKB_MP3"
+        },
+        {
+            name: "Foxie 103 Jamz",
+            logo: "stations/images-america/c2c/augusta_ga/Foxie 103 Jamz.png",
+            url: "https://crystalout.surfernetwork.com:8001/WFXA_MP3"
+        },
+        {
+            name: "104.3 WBBQ",
+            logo: "stations/images-america/c2c/augusta_ga/104.3 WBBQ.png",
             url: "https://stream.revma.ihrhls.com/zc757/hls.m3u8"
         },
         {
+            name: "Today's Mix 104.3-HD2",
+            logo: "stations/images-america/0_general_logos/Today's Mix.png",
+            url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
+        },
+        {
             name: "105.7 The Bull",
-            logo: "stations/images-america/c2c/WLUBFM.png",
+            logo: "stations/images-america/c2c/augusta_ga/105.7 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc765/hls.m3u8"
         },
         {
             name: "Eagle 106.3",
-            logo: "stations/images-america/c2c/WLUBHD2.png",
+            logo: "stations/images-america/c2c/augusta_ga/Eagle 106.3.png",
             url: "https://stream.revma.ihrhls.com/zc753/hls.m3u8"
         },
         {
             name: "Power 107",
-            logo: "stations/images-america/c2c/WPRWFM.png",
+            logo: "stations/images-america/c2c/augusta_ga/Power 107.png",
             url: "https://stream.revma.ihrhls.com/zc773/hls.m3u8"
+        },
+        {
+            name: "Fox Sports 1340",
+            logo: "stations/images-america/c2c/augusta_ga/Fox Sports 1340.png",
+            url: "https://stream.revma.ihrhls.com/zc6696/hls.m3u8"
         },
     ],
     "columbus_ga": [
         {
-            name: "Georgia Public Radio",
-            logo: "stations/images-america/c2c/Georgia Public Radio.png",
+            name: "88.1 GPB",
+            logo: "stations/images-america/0_general_logos/GPB.png",
             url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
         },
         {
-            name: "Sunny 94.7",
-            logo: "stations/images-america/c2c/WGSYAM.png",
+            name: "WCUG 88.5",
+            logo: "stations/images-america/c2c/columbus_ga/WCUG 88.5.png",
+            url: "https://ice66.securenetsystems.net/WCUGFM"
+        },
+        {
+            name: "TPR 91.7",
+            logo: "stations/images-america/c2c/columbus_ga/TPR 91.7.png",
+            url: "http://live.str3am.com:2380/troy1"
+        },
+        {
+            name: "R&B 92.1",
+            logo: "stations/images-america/c2c/columbus_ga/R&B 92.1.png",
+            url: "https://ice42.securenetsystems.net/WRCGAM"
+        },
+        {
+            name: "K92.7",
+            logo: "stations/images-america/c2c/columbus_ga/K92.7.png",
+            url: "https://rocket.surfernetwork.com:10001/live/wkzj-fm_aac/playlist.m3u8"
+        },
+        {
+            name: "MIX 94.7",
+            logo: "stations/images-america/c2c/columbus_ga/MIX 94.7.png",
             url: "https://stream.revma.ihrhls.com/zc3390/hls.m3u8"
         },
         {
-            name: "95.3 Kissin'",
-            logo: "stations/images-america/c2c/95.3 Kissin'.png",
+            name: "95.3 Smooth RnB",
+            logo: "stations/images-america/c2c/columbus_ga/95.3 Smooth RnB.png",
             url: "http://ice42.securenetsystems.net/WRLDFM"
         },
         {
-            name: "Magic 98.1",
-            logo: "stations/images-america/c2c/Magic 98.1.png",
-            url: "https://stream.revma.ihrhls.com/zc3888/hls.m3u8"
+            name: "95.7 ESPN",
+            logo: "stations/images-america/c2c/columbus_ga/95.7 ESPN.png",
+            url: "https://crystalout.surfernetwork.com:8001/WIOL-FM_MP3"
         },
         {
             name: "98.3 The Beat",
-            logo: "stations/images-america/c2c/WBFAFM.png",
+            logo: "stations/images-america/c2c/columbus_ga/98.3 The Beat.png",
             url: "http://ice66.securenetsystems.net/WBFA"
         },
         {
-            name: "Hot 100",
-            logo: "stations/images-america/c2c/WHTYFM.png",
+            name: "Kissin' 99.3",
+            logo: "stations/images-america/c2c/columbus_ga/Kissin' 99.3.png",
+            url: "https://ice66.securenetsystems.net/WKCNFM"
+        },
+        {
+            name: "HOT 100",
+            logo: "stations/images-america/c2c/columbus_ga/HOT 100.png",
             url: "https://stream.revma.ihrhls.com/zc781/hls.m3u8"
         },
         {
             name: "Magic 101.3",
-            logo: "stations/images-america/c2c/WAGHFM.png",
+            logo: "stations/images-america/c2c/columbus_ga/Magic 101.3.png",
             url: "https://stream.revma.ihrhls.com/zc3548/hls.m3u8"
         },
         {
             name: "Boomer 102.5",
-            logo: "stations/images-america/c2c/Boomer 102.5.png",
-            url: "http://ice66.securenetsystems.net/WBOJAM"
+            logo: "stations/images-america/c2c/columbus_ga/Boomer 102.5.png",
+            url: "https://ice66.securenetsystems.net/WBOJAM"
         },
         {
-            name: "Rock 103",
-            logo: "stations/images-america/c2c/WVRKFM.png",
+            name: "ROCK 103",
+            logo: "stations/images-america/c2c/columbus_ga/ROCK 103.png",
             url: "https://stream.revma.ihrhls.com/zc785/hls.m3u8"
         },
         {
-            name: "103.7 Lite",
-            logo: "stations/images-america/c2c/103.7 Lite.png",
+            name: "103.7 Lite FM",
+            logo: "stations/images-america/c2c/columbus_ga/103.7 Lite FM.png",
             url: "http://ice42.securenetsystems.net/WLTCFM"
         },
         {
-            name: "South 106.1",
-            logo: "stations/images-america/c2c/WSTHFM.png",
+            name: "Foxie 105",
+            logo: "stations/images-america/c2c/columbus_ga/Foxie 105.png",
+            url: "https://rocket.surfernetwork.com:10001/live/wfxe-fm_aac/playlist.m3u8"
+        },
+        {
+            name: "Classic Rock 105.5",
+            logo: "stations/images-america/c2c/columbus_ga/Classic Rock 105.5.png",
+            url: "https://ice42.securenetsystems.net/WLTCHD2"
+        },
+        {
+            name: "SOUTH 106.1",
+            logo: "stations/images-america/c2c/columbus_ga/SOUTH 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc2728/hls.m3u8"
         },
         {
-            name: "Newsradio 540 WDAK",
-            logo: "stations/images-america/c2c/Newsradio 540 WDAK.png",
-            url: "https://stream.revma.ihrhls.com/zc3050/hls.m3u8"
+            name: "Hip Hop 106.5",
+            logo: "stations/images-america/c2c/columbus_ga/Hip Hop 106.5.png",
+            url: "https://ice42.securenetsystems.net/WKCNHD3"
         },
         {
-            name: "WVCC",
-            logo: "stations/images-america/c2c/WVCC.png",
-            url: "https://stream.revma.ihrhls.com/zc3054/hls.m3u8"
+            name: "106.9 ROCKS",
+            logo: "stations/images-america/c2c/columbus_ga/106.9 ROCKS.png",
+            url: "https://ice66.securenetsystems.net/WKCNHD2"
+        },
+        {
+            name: "Q107.3",
+            logo: "stations/images-america/c2c/columbus_ga/Q107.3.png",
+            url: "https://ice66.securenetsystems.net/WCGQFM"
+        },
+        {
+            name: "540 WDAK",
+            logo: "stations/images-america/c2c/columbus_ga/540 WDAK.png",
+            url: "https://stream.revma.ihrhls.com/zc3050/hls.m3u8"
         },
     ],
     "kingsland_ga": [
         {
-            name: "WSVH",
-            logo: "stations/images-america/c2c/WSVH.png",
-            url: "http://gpb.iad.streamguys1.com/gpb-savannah-mp3"
-        },
-        {
-            name: "92.7 SSI",
-            logo: "stations/images-america/c2c/92.7 SSI.png",
-            url: "https://ice24.securenetsystems.net/WSSI"
-        },
-        {
-            name: "Hallelujah 96.3 FM",
-            logo: "stations/images-america/c2c/WBGA.png",
-            url: "https://stream.revma.ihrhls.com/zc6860/hls.m3u8"
-        },
-        {
-            name: "WYNR 102.5",
-            logo: "stations/images-america/c2c/WYNRFM.png",
-            url: "https://stream.revma.ihrhls.com/zc6858/hls.m3u8"
-        },
-        {
             name: "103Q",
-            logo: "stations/images-america/c2c/WQGAFM.png",
+            logo: "stations/images-america/c2c/kingsland_ga/103Q.png",
             url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
         },
         {
-            name: "The Fox 107.7",
-            logo: "stations/images-america/c2c/The Fox 107.7.png",
-            url: "https://stream.revma.ihrhls.com/zc6853/hls.m3u8"
-        },
-        {
-            name: "1440 WGIG News - Talk - Sports",
-            logo: "stations/images-america/c2c/1440 WGIG News - Talk - Sports.png",
-            url: "https://stream.revma.ihrhls.com/zc6861/hls.m3u8"
+            name: "K-BAY 106.3",
+            logo: "stations/images-america/c2c/kingsland_ga/K-BAY 106.3.png",
+            url: "https://ice24.securenetsystems.net/WKBX"
         },
     ],
     "macon": [
         {
-            name: "Georgia Public Radio",
-            logo: "stations/images-america/c2c/Georgia Public Radio.png",
-            url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
+            name: "89.7 GPB",
+            logo: "stations/images-america/c2c/macon_ga/89.7 GPB.png",
+            url: "https://gpb.streamguys1.com/gpb-radio-aac"
         },
         {
             name: "Blazin' 92.3",
-            logo: "stations/images-america/c2c/WLZNFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLZNFMAAC.aac"
+            logo: "stations/images-america/c2c/macon_ga/Blazin' 92.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLZNFMAAC_SC"
         },
         {
-            name: "Q 92.3",
-            logo: "stations/images-america/c2c/WMOQ.png",
-            url: "http://ice8.securenetsystems.net/WMOQ"
+            name: "Z93.7",
+            logo: "stations/images-america/c2c/macon_ga/Z93.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WPEZFMAAC_SC"
         },
         {
-            name: "Z 93.7",
-            logo: "stations/images-america/c2c/Z 93.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WPEZFM.mp3"
+            name: "94.7 Fox FM",
+            logo: "stations/images-america/c2c/macon_ga/94.7 Fox FM.png",
+            url: "http://s19.myradiostream.com:14280/;"
         },
         {
             name: "B95.1",
-            logo: "stations/images-america/c2c/WMGBFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMGBFMAAC.aac"
+            logo: "stations/images-america/c2c/macon_ga/B95.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMGBFMAAC_SC"
         },
         {
             name: "96.5 The Bull",
-            logo: "stations/images-america/c2c/WIHBFM.png",
+            logo: "stations/images-america/c2c/macon_ga/96.5 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc3252/hls.m3u8"
         },
         {
-            name: "97.3 The Bull Icons",
-            logo: "stations/images-america/c2c/97.3 The Bull.png",
+            name: "97.3 The Bull ICONS",
+            logo: "stations/images-america/c2c/macon_ga/97.3 The Bull ICONS.png",
             url: "https://stream.revma.ihrhls.com/zc3248/hls.m3u8"
         },
         {
             name: "97.9 WIBB",
-            logo: "stations/images-america/c2c/WIBBFM.png",
+            logo: "stations/images-america/c2c/macon_ga/97.9 WIBB.png",
             url: "https://stream.revma.ihrhls.com/zc3256/hls.m3u8"
         },
         {
-            name: "FM 99 WDEN",
-            logo: "stations/images-america/c2c/WDENFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDENFMAAC.aac"
+            name: "99 WDEN",
+            logo: "stations/images-america/c2c/macon_ga/99 WDEN.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDENFMAAC_SC"
         },
         {
             name: "V101.7",
-            logo: "stations/images-america/c2c/WRBVFM.png",
+            logo: "stations/images-america/c2c/macon_ga/V101.7.png",
             url: "https://stream.revma.ihrhls.com/zc3260/hls.m3u8"
         },
         {
-            name: "Q 106.3",
-            logo: "stations/images-america/c2c/Q 106.3.png",
+            name: "Q106.3",
+            logo: "stations/images-america/c2c/macon_ga/Q106.3.png",
             url: "https://stream.revma.ihrhls.com/zc3268/hls.m3u8"
         },
         {
-            name: "WMAC",
-            logo: "stations/images-america/c2c/WMAC.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMACAM.mp3"
+            name: "Power 107.1",
+            logo: "stations/images-america/c2c/macon_ga/Power 107.1.png",
+            url: "https://s15.myradiostream.com/15440/;"
+        },
+        {
+            name: "940 WMAC",
+            logo: "stations/images-america/c2c/macon_ga/940 WMAC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMACAMAAC_SC"
+        },
+        {
+            name: "Fox Sports 1670",
+            logo: "stations/images-america/c2c/macon_ga/Fox Sports 1670.png",
+            url: "https://stream.revma.ihrhls.com/zc4305/hls.m3u8"
         },
     ],
     "savannah": [
         {
-            name: "WSVH",
-            logo: "stations/images-america/c2c/WSVH.png",
-            url: "http://gpb.iad.streamguys1.com/gpb-savannah-mp3"
+            name: "WHCJ 90.3",
+            logo: "stations/images-america/c2c/savannah_ga/WHCJ 90.3.png",
+            url: "http://radio.savannahstate.edu:88/broadwave.mp3"
+        },
+        {
+            name: "91.1 GPB",
+            logo: "stations/images-america/c2c/savannah_ga/91.1 GPB.png",
+            url: "https://gpb.streamguys1.com/gpb-savannah-aac"
+        },
+        {
+            name: "92.3 Thunder Country",
+            logo: "stations/images-america/c2c/savannah_ga/92.3 Thunder Country.png",
+            url: "https://ice64.securenetsystems.net/WSGAFM"
         },
         {
             name: "E93",
-            logo: "stations/images-america/c2c/WEASFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEASFMAAC.aac"
+            logo: "stations/images-america/c2c/savannah_ga/E93.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEASFMAAC_SC"
         },
         {
             name: "94.1 The Beat",
-            logo: "stations/images-america/c2c/WQBTFM.png",
+            logo: "stations/images-america/c2c/savannah_ga/94.1 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc805/hls.m3u8"
         },
         {
-            name: "I 95",
-            logo: "stations/images-america/c2c/WIXV.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIXVFM.mp3"
+            name: "I-95",
+            logo: "stations/images-america/c2c/savannah_ga/I-95.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIXVFMAAC_SC"
         },
         {
-            name: "Kix 96",
-            logo: "stations/images-america/c2c/WJCLFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJCLFMAAC.aac"
+            name: "KIX 96",
+            logo: "stations/images-america/c2c/savannah_ga/KIX 96.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJCLFMAAC_SC"
         },
         {
-            name: "97.3 Kiss FM",
-            logo: "stations/images-america/c2c/WAEVFM.png",
+            name: "97.3 KISS FM",
+            logo: "stations/images-america/c2c/savannah_ga/97.3 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc809/hls.m3u8"
         },
         {
-            name: "News Radio 97.7",
-            logo: "stations/images-america/c2c/WTKS.png",
+            name: "97.7 WTKS",
+            logo: "stations/images-america/c2c/savannah_ga/97.7 WTKS.png",
             url: "https://stream.revma.ihrhls.com/zc801/hls.m3u8"
         },
         {
+            name: "HOT 98.3",
+            logo: "stations/images-america/c2c/savannah_ga/HOT 98.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WGCOFMAAC_SC"
+        },
+        {
             name: "98.7 The River",
-            logo: "stations/images-america/c2c/WYKZ.png",
+            logo: "stations/images-america/c2c/savannah_ga/98.7 The River.png",
             url: "https://stream.revma.ihrhls.com/zc797/hls.m3u8"
         },
         {
-            name: "Love 101.1",
-            logo: "stations/images-america/c2c/WLVHFM.png",
-            url: "https://stream.revma.ihrhls.com/zc813/hls.m3u8"
-        },
-        {
-            name: "K-Love",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://emf.streamguys1.com/sk024_mp3_high_web"
-        },
-        {
-            name: "103.5 WSOK",
-            logo: "stations/images-america/c2c/WSOK.png",
+            name: "99.7 WSOK",
+            logo: "stations/images-america/c2c/savannah_ga/99.7 WSOK.png",
             url: "https://stream.revma.ihrhls.com/zc817/hls.m3u8"
         },
         {
+            name: "G100.1",
+            logo: "stations/images-america/c2c/savannah_ga/G100.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXYYFMAAC_SC"
+        },
+        {
+            name: "LOVE 101.1",
+            logo: "stations/images-america/c2c/savannah_ga/LOVE 101.1.png",
+            url: "https://stream.revma.ihrhls.com/zc813/hls.m3u8"
+        },
+        {
             name: "Magic 103.9",
-            logo: "stations/images-america/c2c/WTYBFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTYBFMAAC.aac"
+            logo: "stations/images-america/c2c/savannah_ga/Magic 103.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTYBFMAAC_SC"
+        },
+        {
+            name: "ESPN Coastal 104.3",
+            logo: "stations/images-america/c2c/savannah_ga/ESPN Coastal 104.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSEGAMAAC_SC"
         },
         {
             name: "104.7 The Hawk",
-            logo: "stations/images-america/c2c/104.7 The Hawk.jpg",
+            logo: "stations/images-america/c2c/savannah_ga/104.7 The Hawk.png",
             url: "http://ice64.securenetsystems.net/WTHG"
         },
         {
-            name: "Q 105.3",
-            logo: "stations/images-america/c2c/WRHQ.png",
-            url: "http://crystalout.surfernetwork.com:8001/WRHQ_MP3"
+            name: "Q105.3",
+            logo: "stations/images-america/c2c/savannah_ga/Q105.3.png",
+            url: "https://rocket.surfernetwork.com:10001/live/wrhq_aac/playlist.m3u8"
         },
         {
-            name: "News/Talk 630 WBMQ",
-            logo: "stations/images-america/c2c/WBMQ.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBMQAMAAC.aac"
+            name: "ROCK 106.1",
+            logo: "stations/images-america/c2c/savannah_ga/ROCK 106.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WFXHFMAAC_SC"
+        },
+        {
+            name: "BOB 106.9",
+            logo: "stations/images-america/c2c/savannah_ga/BOB 106.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WUBBFMAAC_SC"
+        },
+        {
+            name: "WRUU 107.5",
+            logo: "stations/images-america/c2c/savannah_ga/WRUU 107.5.png",
+            url: "https://relays.stream.creek.fm/wruu"
+        },
+        {
+            name: "Rewind 107.9",
+            logo: "stations/images-america/c2c/savannah_ga/Rewind 107.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WRWNFMAAC_SC"
+        },
+        {
+            name: "630 WBMQ",
+            logo: "stations/images-america/c2c/savannah_ga/630 WBMQ.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBMQAMAAC_SC"
+        },
+        {
+            name: "900 The Ticket",
+            logo: "stations/images-america/c2c/savannah_ga/900 The Ticket.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJLGAMAAC_SC"
         },
     ],
     "valdosta": [
         {
-            name: "Georgia Public Radio",
-            logo: "stations/images-america/c2c/Georgia Public Radio.png",
+            name: "WFSU 88.9",
+            logo: "stations/images-america/c2c/valdosta_ga/WFSU 88.9.png",
+            url: "https://mp3stream.wfsu.org:8443/889hi"
+        },
+        {
+            name: "91.7 GPB",
+            logo: "stations/images-america/0_general_logos/GPB.png",
             url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
         },
         {
             name: "Talk 92.1",
-            logo: "stations/images-america/c2c/Talk 92.1.png",
+            logo: "stations/images-america/c2c/valdosta_ga/Talk 92.1.png",
             url: "http://199.195.194.140:8230/;"
         },
         {
+            name: "95.7 The Mix",
+            logo: "stations/images-america/c2c/valdosta_ga/95.7 The Mix.png",
+            url: "https://ice9.securenetsystems.net/WQPW"
+        },
+        {
+            name: "Fox Sports 96.1",
+            logo: "stations/images-america/c2c/valdosta_ga/Fox Sports 96.1.png",
+            url: "http://67.212.189.122:8009/;"
+        },
+        {
+            name: "WGOV 96.7",
+            logo: "stations/images-america/c2c/valdosta_ga/WGOV 96.7.png",
+            url: "https://streamingv2.shoutcast.com/magic-985-fm"
+        },
+        {
+            name: "Foxy 97.5",
+            logo: "stations/images-america/c2c/valdosta_ga/Foxy 97.5.png",
+            url: "http://ic2.christiannetcast.com/whlj-fm"
+        },
+        {
             name: "99.5 Kix Country",
-            logo: "stations/images-america/c2c/WKAAFM.png",
+            logo: "stations/images-america/c2c/valdosta_ga/99.5 Kix Country.png",
             url: "http://ice9.securenetsystems.net/WKAA"
         },
         {
-            name: "Hot 102.7",
-            logo: "stations/images-america/c2c/WXHTFM.png",
+            name: "HOT 102.7",
+            logo: "stations/images-america/c2c/valdosta_ga/HOT 102.7.png",
             url: "http://ice9.securenetsystems.net/WXHT"
         },
         {
             name: "Star 105.3",
-            logo: "stations/images-america/c2c/WSTIFM.png",
+            logo: "stations/images-america/c2c/valdosta_ga/Star 105.3.png",
             url: "http://ice9.securenetsystems.net/WSTI"
         },
         {
+            name: "105.9 WVGA",
+            logo: "stations/images-america/c2c/valdosta_ga/105.9 WVGA.png",
+            url: "https://ice9.securenetsystems.net/WVGA"
+        },
+        {
             name: "Rock 106.9",
-            logo: "stations/images-america/c2c/WVLDAM.png",
+            logo: "stations/images-america/c2c/valdosta_ga/Rock 106.9.png",
             url: "http://ice64.securenetsystems.net/WVLD"
+        },
+        {
+            name: "107.9 The Beat",
+            logo: "stations/images-america/c2c/valdosta_ga/107.9 The Beat.png",
+            url: "https://ice9.securenetsystems.net/WWRQ"
         },
     ],
     "boise": [
@@ -18426,7 +18716,7 @@ var stations_c2c = {
         },
         {
             name: "Today's Mix 102.9-HD3",
-            logo: "stations/images-america/c2c/austin_tx/Today's Mix 96.7-HD2.png",
+            logo: "stations/images-america/0_general_logos/Today's Mix.png",
             url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
         },
         {
@@ -22166,7 +22456,7 @@ var stations_c2c = {
         },
         {
             name: "GPB 89.9",
-            logo: "stations/images-america/0_general_logos/Georgia Public Broadcasting.svg",
+            logo: "stations/images-america/0_general_logos/GPB.png",
             url: "http://gpb.streamguys1.com/gpb-savannah-mp3"
         },
     ],
@@ -23271,7 +23561,7 @@ var stations_c2c = {
         },
         {
             name: "Today's Mix 96.7-HD2",
-            logo: "stations/images-america/c2c/austin_tx/Today's Mix 96.7-HD2.png",
+            logo: "stations/images-america/0_general_logos/Today's Mix.png",
             url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
         },
         {
