@@ -3307,6 +3307,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
         },
         {
+            name: "Commercial Free Christmas 107.9-HD2",
+            logo: "stations/images-america/phoenix/Commercial Free Christmas 107.9-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMLEHD2AAC_SC"
+        },
+        {
             name: "550 KFYI",
             logo: "stations/images-america/phoenix/550 KFYI.png",
             url: "https://stream.revma.ihrhls.com/zc37/hls.m3u8"
