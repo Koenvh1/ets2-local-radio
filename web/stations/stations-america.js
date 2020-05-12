@@ -3152,8 +3152,8 @@ var stations = {
             url: "https://stream.pulseradio.fm/goldmineradiomp3"
         },
         {
-            name: "KBAQ 89.5",
-            logo: "stations/images-america/phoenix/KBAQ 89.5.png",
+            name: "K-BACH 89.5",
+            logo: "stations/images-america/phoenix/K-BACH 89.5.png",
             url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
         },
         {
@@ -3163,8 +3163,23 @@ var stations = {
         },
         {
             name: "KTAR 92.3",
-            logo: "stations/images-america/phoenix/KTAR 92.3.svg",
+            logo: "stations/images-america/phoenix/KTAR 92.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTARFMAAC_SC"
+        },
+        {
+            name: "Oldies 92.7",
+            logo: "stations/images-america/phoenix/Oldies 92.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAZGAMAAC_SC"
+        },
+        {
+            name: "ALT AZ 93.3",
+            logo: "stations/images-america/phoenix/ALT AZ 93.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDKBFMAAC_SC"
+        },
+        {
+            name: "93.7 El Patrón",
+            logo: "stations/images-america/phoenix/93.7 El Patrón.png",
+            url: "https://stream.revma.ihrhls.com/zc53/hls.m3u8"
         },
         {
             name: "KWSS 93.9",
@@ -3175,6 +3190,16 @@ var stations = {
             name: "94.5 KOOL FM",
             logo: "stations/images-america/phoenix/94.5 KOOL FM.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KOOLFMAAC_SC"
+        },
+        {
+            name: "Your '70s Playlist 94.5-HD2",
+            logo: "stations/images-america/phoenix/Your '70s Playlist 94.5-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KOOLHD2AAC_SC"
+        },
+        {
+            name: "95.1 The Wow Factor",
+            logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -3192,9 +3217,24 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
+            name: "HOT 97.5",
+            logo: "stations/images-america/phoenix/HOT 97.5.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice42.securenetsystems.net/KMVA"
+        },
+        {
+            name: "98 KUPD",
+            logo: "stations/images-america/phoenix/98 KUPD.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KUPDFMAAC_SC"
+        },
+        {
             name: "Arizona Sports 98.7",
-            logo: "stations/images-america/phoenix/Arizona Sports 98.7.svg",
+            logo: "stations/images-america/phoenix/Arizona Sports 98.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMVPFMAAC_SC"
+        },
+        {
+            name: "99.3 The Fanatic",
+            logo: "stations/images-america/phoenix/99.3 The Fanatic.png",
+            url: "https://ice41.securenetsystems.net/KQFN"
         },
         {
             name: "99.9 KEZ",
@@ -3207,6 +3247,16 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
+            name: "100.7 KSLX",
+            logo: "stations/images-america/phoenix/100.7 KSLX.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSLXFMAAC_SC"
+        },
+        {
+            name: "101.1 The Beat",
+            logo: "stations/images-america/phoenix/101.1 The Beat.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice8.securenetsystems.net/KNRJ"
+        },
+        {
             name: "LIVE 101.5",
             logo: "stations/images-america/phoenix/LIVE 101.5.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KALVFMAAC_SC"
@@ -3217,9 +3267,19 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "La Campesina 101.9",
+            logo: "stations/images-america/phoenix/La Campesina 101.9.png",
+            url: "https://ice9.securenetsystems.net/KNAI"
+        },
+        {
             name: "102.5 KNIX",
             logo: "stations/images-america/phoenix/102.5 KNIX.png",
             url: "https://stream.revma.ihrhls.com/zc49/hls.m3u8"
+        },
+        {
+            name: "KDIF 102.9",
+            logo: "stations/images-america/phoenix/KDIF 102.9.png",
+            url: "https://freeus2.listen2myradio.com/live.mp3?typeportmount=s1_35662_stream_451156609"
         },
         {
             name: "La Tricolor 103.5",
@@ -3237,9 +3297,29 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
+            name: "Money Radio 105.3",
+            logo: "stations/images-america/phoenix/Money Radio 105.3.png",
+            url: "https://ice41.securenetsystems.net/KFNN"
+        },
+        {
+            name: "KMLE 107.9",
+            logo: "stations/images-america/phoenix/KMLE 107.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
+        },
+        {
             name: "550 KFYI",
             logo: "stations/images-america/phoenix/550 KFYI.png",
             url: "https://stream.revma.ihrhls.com/zc37/hls.m3u8"
+        },
+        {
+            name: "960 The Patriot",
+            logo: "stations/images-america/phoenix/960 The Patriot.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKNTAMAAC_SC"
+        },
+        {
+            name: "1100 KFNX",
+            logo: "stations/images-america/phoenix/1100 KFNX.png",
+            url: "https://crystalout.surfernetwork.com:8001/KFNX_MP3"
         },
     ],
     "pioche": [
