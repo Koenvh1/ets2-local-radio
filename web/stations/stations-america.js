@@ -5470,22 +5470,27 @@ var stations = {
         {
             name: "NPR 89.1",
             logo: "stations/images-america/tucson/NPR 89.1.png",
-            url: "http://streaming.azpm.org:80/kuaz192.mp3"
+            url: "http://128.196.34.144/z-stream/kuaz.m3u8"
         },
         {
             name: "Classical 90.5",
             logo: "stations/images-america/tucson/Classical 90.5.png",
-            url: "http://streaming.azpm.org:80/kuat192.mp3"
+            url: "http://128.196.34.144/t-stream/kuat.m3u8"
         },
         {
             name: "KXCI 91.3",
             logo: "stations/images-america/tucson/KXCI 91.3.png",
-            url: "http://ais-sa1.streamon.fm/7005_64k.mp3"
+            url: "http://icecastorigin.streamon.fm:1500/KXCI-64k-m.mp3"
         },
         {
             name: "KVAN 91.7",
             logo: "stations/images-america/tucson/KVAN 91.7.png",
-            url: "http://shoutcast.kvan.fm:8000/radio/;type=mp3"
+            url: "http://shoutcast.kvan.fm:8000/radio"
+        },
+        {
+            name: "Toño 92.5",
+            logo: "stations/images-america/tucson/Toño 92.5.png",
+            url: "http://s5.mexside.net:8322/stream"
         },
         {
             name: "My 92.9",
@@ -5498,9 +5503,14 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc77/hls.m3u8"
         },
         {
-            name: "97.1 Bull",
-            logo: "stations/images-america/tucson/97.1 Bull.png",
+            name: "97.1 The Bull",
+            logo: "stations/images-america/tucson/97.1 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc69/hls.m3u8"
+        },
+        {
+            name: "97.5 The Vibe",
+            logo: "stations/images-america/tucson/97.5 The Vibe.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSZRFMAAC_SC"
         },
         {
             name: "Hot 98.3",
@@ -5508,14 +5518,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc73/hls.m3u8"
         },
         {
-            name: "Downtown Radio 99.1",
-            logo: "stations/images-america/tucson/Downtown Radio 99.1.png",
-            url: "http://151.80.42.191:8496/;stream.mp3?_=1"
+            name: "Slow Jams 98.3-HD2",
+            logo: "stations/images-america/los_angeles/Slow Jams 92.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
+        },
+        {
+            name: "99.1 Downtown Radio",
+            logo: "stations/images-america/tucson/99.1 Downtown Radio.png",
+            url: "http://151.80.42.191:8496/;"
         },
         {
             name: "KIIM 99.5",
             logo: "stations/images-america/tucson/KIIM 99.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIIMFM_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIIMFMAAC_SC"
         },
         {
             name: "KMKR 99.9",
@@ -5523,11 +5538,41 @@ var stations = {
             url: "http://ls1.int.live365.net:8000/a25079_live"
         },
         {
+            name: "KPYT 100.3",
+            logo: "stations/images-america/tucson/KPYT 100.3.png",
+            url: "http://edge.mixlr.com/channel/kfoms"
+        },
+        {
+            name: "The Drive 101.7",
+            logo: "stations/images-america/tucson/The Drive 101.7.png",
+            url: "https://ice5.securenetsystems.net/KDRI"
+        },
+        {
+            name: "103.1 KCDX",
+            logo: "stations/images-america/tucson/103.1 KCDX.png",
+            url: "http://vdn.terrafox.com/audio/kcdx/playlist.m3u8"
+        },
+        {
+            name: "ESPN 104.9",
+            logo: "stations/images-america/tucson/ESPN 104.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFFNAMAAC_SC"
+        },
+        {
+            name: "La Poderosa 105.3",
+            logo: "stations/images-america/tucson/La Poderosa 105.3.png",
+            url: "https://ice42.securenetsystems.net/KZLZ"
+        },
+        {
             name: "106.3 The Groove",
             logo: "stations/images-america/tucson/106.3 The Groove.png",
             url: "https://live.wostreaming.net/manifest/bustos-ktgvfmaac-ibc1"
         },
-    ],
+        {
+            name: "K-HIT 107.5",
+            logo: "stations/images-america/tucson/K-HIT 107.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHYTFMAAC_SC"
+        },
+    ], 
     "tucumcari": [
         {
             name: "KENW 88.9",
@@ -8953,59 +8998,79 @@ var stations_c2c = {
     ],
     "albany_ga": [
         {
-            name: "Georgia Public Radio",
-            logo: "stations/images-america/c2c/Georgia Public Radio.png",
+            name: "91.7 GPB",
+            logo: "stations/images-america/0_general_logos/GPB.png",
             url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
         },
         {
+            name: "90.5 WASU",
+            logo: "stations/images-america/c2c/albany_ga/90.5 WASU.png",
+            url: "https://live.wostreaming.net/manifest/wasu-wasuaac-ibc1"
+        },
+        {
+            name: "Cruisin' 94",
+            logo: "stations/images-america/c2c/albany_ga/Cruisin' 94.png",
+            url: "https://us4.internet-radio.com/proxy/cruisin94?mp=/stream;"
+        },
+        {
             name: "Mix 94.7",
-            logo: "stations/images-america/c2c/Mix 94.7.png",
+            logo: "stations/images-america/c2c/albany_ga/Mix 94.7.png",
             url: "http://173.193.205.96:8136/;"
         },
         {
             name: "96.3 WJIZ",
-            logo: "stations/images-america/c2c/WJIZFM.png",
+            logo: "stations/images-america/c2c/albany_ga/96.3 WJIZ.png",
             url: "https://stream.revma.ihrhls.com/zc3229/hls.m3u8"
         },
         {
-            name: "Radio 96.9",
-            logo: "stations/images-america/c2c/Radio 96.9.jpg",
-            url: "http://s10.voscast.com:7208/;"
-        },
-        {
             name: "Power 97.3",
-            logo: "stations/images-america/c2c/WGEXFM.png",
+            logo: "stations/images-america/c2c/albany_ga/Power 97.3.png",
             url: "https://stream.revma.ihrhls.com/zc729/hls.m3u8"
         },
         {
             name: "98.1 Kiss FM",
-            logo: "stations/images-america/c2c/WMRZFM.png",
+            logo: "stations/images-america/c2c/albany_ga/98.1 Kiss FM.png",
             url: "https://stream.revma.ihrhls.com/zc3233/hls.m3u8"
         },
         {
             name: "B100",
-            logo: "stations/images-america/c2c/WOBBFM.png",
+            logo: "stations/images-america/c2c/albany_ga/B100.png",
             url: "https://stream.revma.ihrhls.com/zc3226/hls.m3u8"
         },
         {
             name: "V 101.7",
-            logo: "stations/images-america/c2c/V 101.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQVEFM.mp3"
+            logo: "stations/images-america/c2c/albany_ga/V 101.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQVEFMAAC_SC"
         },
         {
-            name: "102.1 Nash Icon",
-            logo: "stations/images-america/c2c/WNUQFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNUQFMAAC.aac"
+            name: "Q102",
+            logo: "stations/images-america/c2c/albany_ga/Q102.png",
+            url: "http://streamingv2.shoutcast.com/wnuq-q102"
+        },
+        {
+            name: "Rock 103",
+            logo: "stations/images-america/c2c/albany_ga/Rock 103.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJADFMAAC_SC"
+        },
+        {
+            name: "Nash FM 104.5",
+            logo: "stations/images-america/c2c/albany_ga/Nash FM 104.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKAKFMAAC_SC"
         },
         {
             name: "Mix 107",
-            logo: "stations/images-america/c2c/Mix 107.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEGCFMAAC.aac"
+            logo: "stations/images-america/c2c/albany_ga/Mix 107.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEGCFMAAC_SC"
         },
         {
-            name: "WJYZ 960 The Light",
-            logo: "stations/images-america/c2c/WJYZAM.png",
+            name: "960 WJYZ",
+            logo: "stations/images-america/c2c/albany_ga/960 WJYZ.png",
             url: "https://stream.revma.ihrhls.com/zc3358/hls.m3u8"
+        },
+        {
+            name: "1590 WALG",
+            logo: "stations/images-america/c2c/albany_ga/1590 WALG.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WALGAMAAC_SC"
         },
     ],
     "atlanta": [
