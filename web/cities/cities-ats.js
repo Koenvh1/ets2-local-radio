@@ -2865,9 +2865,9 @@ var country_properties_c2c = {
         code: "us-fl",
         relative_radius: 1.2
     },
-    "yeehaw_junction": {
-        name: "yeehaw_junction",
-        name_english: "yeehaw_junction",
+    "vero_beach": {
+        name: "Vero Beach",
+        name_english: "Vero Beach",
         code: "us-fl",
         relative_radius: 1.2
     },
@@ -4776,7 +4776,7 @@ var city_properties_c2c = {
     "tampa": {
         relative_whitenoise: 0.95
     },
-    "yeehaw_junction": {
+    "vero_beach": {
         relative_whitenoise: 0.95
     },
     "georgia": {
@@ -6020,12 +6020,12 @@ var cities_c2c = [
         "z": "57431"
     },
     {
-        "gameName": "yeehaw_junction",
-        "realName": "Yeehaw Junction",
+        "gameName": "vero_beach",
+        "realName": "Vero Beach",
         "country": "florida",
-        "x": "77352.7",
-        "y": "38.9102",
-        "z": "59045.2"
+        "x": "79410.8",
+        "y": "11.1143",
+        "z": "59025"
     },
     {
         "gameName": "albany_ga",

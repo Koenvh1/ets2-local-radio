@@ -8989,11 +8989,96 @@ var stations_c2c = {
             url: "http://home.besedic.com:8000/live"
         },
     ],
-    "yeehaw_junction": [
+    "vero_beach": [
         {
-            name: "WQCS 88.9 Indian River State College",
-            logo: "stations/images-america/c2c/WQCS 88.9 Indian River State College.png",
-            url: "http://96.69.32.253:8006/;"
+            name: "WQCS 88.9",
+            logo: "stations/images-america/c2c/vero_beach_fl/WQCS 88.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFMAAC_SC"
+        },
+        {
+            name: "WQCS 88.9-HD2",
+            logo: "stations/images-america/c2c/vero_beach_fl/WQCS 88.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQCSHD2AAC_SC"
+        },
+        {
+            name: "WQCS 88.9-HD3",
+            logo: "stations/images-america/c2c/vero_beach_fl/WQCS 88.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_HD3_SC"
+        },
+        {
+            name: "WJFP 91.1",
+            logo: "stations/images-america/c2c/vero_beach_fl/WJFP 91.1.png",
+            url: "https://ice23.securenetsystems.net/WJFP"
+        },
+        {
+            name: "WAVE 92.7",
+            logo: "stations/images-america/c2c/vero_beach_fl/WAVE 92.7.png",
+            url: "https://stream.revma.ihrhls.com/zc501/hls.m3u8"
+        },
+        {
+            name: "93.7 GYL",
+            logo: "stations/images-america/c2c/vero_beach_fl/93.7 GYL.png",
+            url: "https://ice8.securenetsystems.net/WGYL"
+        },
+        {
+            name: "WiLD 95.5",
+            logo: "stations/images-america/c2c/vero_beach_fl/WiLD 95.5.png",
+            url: "https://stream.revma.ihrhls.com/zc713/hls.m3u8"
+        },
+        {
+            name: "95.9 The Rocket",
+            logo: "stations/images-america/c2c/vero_beach_fl/95.9 The Rocket.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WROKFMAAC_SC"
+        },
+        {
+            name: "98.7 The Gater",
+            logo: "stations/images-america/c2c/vero_beach_fl/98.7 The Gater.png",
+            url: "https://stream.revma.ihrhls.com/zc709/hls.m3u8"
+        },
+        {
+            name: "Coast 101.3",
+            logo: "stations/images-america/c2c/vero_beach_fl/Coast 101.3.png",
+            url: "https://ice10.securenetsystems.net/WHLG"
+        },
+        {
+            name: "Real Radio 101.7",
+            logo: "stations/images-america/c2c/vero_beach_fl/Real Radio 101.7.png",
+            url: "https://stream.revma.ihrhls.com/zc725/hls.m3u8"
+        },
+        {
+            name: "X102.3",
+            logo: "stations/images-america/c2c/vero_beach_fl/X102.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WMBXFMAAC_SC"
+        },
+        {
+            name: "New Country 103.1",
+            logo: "stations/images-america/c2c/vero_beach_fl/New Country 103.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WIRKFMAAC_SC"
+        },
+        {
+            name: "103.7 WQOL",
+            logo: "stations/images-america/c2c/vero_beach_fl/103.7 WQOL.png",
+            url: "https://stream.revma.ihrhls.com/zc2716/hls.m3u8"
+        },
+        {
+            name: "104.5 The Flame",
+            logo: "stations/images-america/c2c/vero_beach_fl/104.5 The Flame.png",
+            url: "https://ice5.securenetsystems.net/WFLM"
+        },
+        {
+            name: "107.1 A1A",
+            logo: "stations/images-america/c2c/vero_beach_fl/107.1 A1A.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WAOAFMAAC_SC"
+        },
+        {
+            name: "WAXE 107.9",
+            logo: "stations/images-america/c2c/vero_beach_fl/WAXE 107.9.png",
+            url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
+        },
+        {
+            name: "WPSL 1590",
+            logo: "stations/images-america/c2c/vero_beach_fl/WPSL 1590.png",
+            url: "http://173.193.205.96:7309/stream"
         },
     ],
     "albany_ga": [
