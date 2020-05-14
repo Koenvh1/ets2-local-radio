@@ -8837,73 +8837,103 @@ var stations_c2c = {
     ],
     "tallahassee": [
         {
-            name: "WFSU",
-            logo: "stations/images-america/c2c/WFSU.png",
-            url: "http://146.201.215.226:8000/889hi"
+            name: "WFSU 88.9",
+            logo: "stations/images-america/c2c/tallahassee_fl/WFSU 88.9.png",
+            url: "https://mp3stream.wfsu.org:8443/889hi"
         },
         {
-            name: "V89 WVFS",
-            logo: "stations/images-america/c2c/V89 WVFS.png",
+            name: "WVFS 89.7",
+            logo: "stations/images-america/c2c/tallahassee_fl/WVFS 89.7.png",
             url: "http://voice.wvfs.fsu.edu:8000/stream"
         },
         {
-            name: "WFSQ Florida State University",
-            logo: "stations/images-america/c2c/WFSQ Florida State University.png",
-            url: "http://146.201.215.226:8000/915hi"
+            name: "WANM 90.5",
+            logo: "stations/images-america/c2c/tallahassee_fl/WANM 90.5.png",
+            url: "http://famcast9.famu.edu/wanm"
         },
         {
-            name: "94.9TNT",
-            logo: "stations/images-america/c2c/WTNTFM.png",
+            name: "WFSQ 91.5",
+            logo: "stations/images-america/c2c/tallahassee_fl/WFSU 88.9.png",
+            url: "https://mp3stream.wfsu.org:8443/915hi"
+        },
+        {
+            name: "Real Talk 93.3",
+            logo: "stations/images-america/c2c/tallahassee_fl/Real Talk 93.3.png",
+            url: "https://ice9.securenetsystems.net/WVFT"
+        },
+        {
+            name: "94.9 TNT",
+            logo: "stations/images-america/c2c/tallahassee_fl/94.9 TNT.png",
             url: "https://stream.revma.ihrhls.com/zc661/hls.m3u8"
         },
         {
             name: "96.1 Jamz",
-            logo: "stations/images-america/c2c/WHBXFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHBXFMAAC.aac"
+            logo: "stations/images-america/c2c/tallahassee_fl/96.1 Jamz.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHBXFMAAC_SC"
         },
         {
-            name: "Heaven 98.3",
-            logo: "stations/images-america/c2c/WHBTAM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHBTAMAAC.aac"
+            name: "Throwback 96.5",
+            logo: "stations/images-america/c2c/tallahassee_fl/Throwback 96.5.png",
+            url: "https://stream.revma.ihrhls.com/zc653/hls.m3u8"
         },
         {
-            name: "Star 98.9",
-            logo: "stations/images-america/c2c/Star 98.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBZEFM.mp3"
+            name: "97.9 ESPN",
+            logo: "stations/images-america/c2c/tallahassee_fl/97.9 ESPN.png",
+            url: "https://ice41.securenetsystems.net/WTSM"
         },
         {
-            name: "100.7 WFLA Tallahassee's Talk Radio",
-            logo: "stations/images-america/c2c/100.7 WFLA Tallahassee's Talk Radio.png",
+            name: "STAR 98.9",
+            logo: "stations/images-america/c2c/tallahassee_fl/STAR 98.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBZEFMAAC_SC"
+        },
+        {
+            name: "Tally 99.9",
+            logo: "stations/images-america/c2c/tallahassee_fl/Tally 99.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXTYAAC_SC"
+        },
+        {
+            name: "100.7 WFLA",
+            logo: "stations/images-america/c2c/tallahassee_fl/100.7 WFLA.png",
             url: "https://stream.revma.ihrhls.com/zc2819/hls.m3u8"
         },
         {
             name: "X101.5",
-            logo: "stations/images-america/c2c/WXSRFM.png",
+            logo: "stations/images-america/c2c/tallahassee_fl/X101.5.png",
             url: "https://stream.revma.ihrhls.com/zc665/hls.m3u8"
         },
         {
             name: "Blazin' 102.3",
-            logo: "stations/images-america/c2c/WWLDFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWLDFMAAC.aac"
+            logo: "stations/images-america/c2c/tallahassee_fl/Blazin' 102.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWLDFMAAC_SC"
         },
         {
-            name: "Gulf 104",
-            logo: "stations/images-america/c2c/Gulf 104.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGLFFM.mp3"
+            name: "103.1 The Wolf",
+            logo: "stations/images-america/c2c/tallahassee_fl/103.1 The Wolf.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWOFAAC_SC"
+        },
+        {
+            name: "GULF 104",
+            logo: "stations/images-america/c2c/tallahassee_fl/GULF 104.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGLFFMAAC_SC"
+        },
+        {
+            name: "HOT 104.9",
+            logo: "stations/images-america/c2c/tallahassee_fl/HOT 104.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHTFAAC_SC"
         },
         {
             name: "105.3 The Beat",
-            logo: "stations/images-america/c2c/WTLYAM.png",
-            url: "https://stream.revma.ihrhls.com/zc653/hls.m3u8"
+            logo: "stations/images-america/c2c/tallahassee_fl/105.3 The Beat.png",
+            url: "https://stream.revma.ihrhls.com/zc8205/hls.m3u8"
         },
         {
-            name: "106.3 WTUF",
-            logo: "stations/images-america/c2c/106.3 WTUF.gif",
-            url: "https://ice24.securenetsystems.net/WTUFFM"
+            name: "Kool Oldies 106.1",
+            logo: "stations/images-america/c2c/tallahassee_fl/Kool Oldies 106.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQTLFMAAC_SC"
         },
         {
-            name: "107.1 Kiss FM",
-            logo: "stations/images-america/c2c/WGMYFM.png",
+            name: "107.1 KISS FM",
+            logo: "stations/images-america/c2c/tallahassee_fl/107.1 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc657/hls.m3u8"
         },
     ],
@@ -9888,7 +9918,7 @@ var stations_c2c = {
     "valdosta": [
         {
             name: "WFSU 88.9",
-            logo: "stations/images-america/c2c/valdosta_ga/WFSU 88.9.png",
+            logo: "stations/images-america/c2c/tallahassee_fl/WFSU 88.9.png",
             url: "https://mp3stream.wfsu.org:8443/889hi"
         },
         {
