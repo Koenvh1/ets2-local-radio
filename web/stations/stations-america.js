@@ -8909,84 +8909,174 @@ var stations_c2c = {
     ],
     "tampa": [
         {
-            name: "WMNF 88.5 FM",
-            logo: "stations/images-america/c2c/WMNF 88.5 FM.jpg",
-            url: "http://stream.wmnf.org:8000/wmnf_high_quality"
+            name: "88.5 WMNF",
+            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            url: "https://stream.wmnf.org:4443/wmnf_high_quality"
         },
         {
-            name: "WUSF 89.7 University of South Florida",
-            logo: "stations/images-america/c2c/WUSF 89.7 University of South Florida.png",
-            url: "http://131.247.45.225:8000/"
+            name: "New Sounds 88.5-HD2",
+            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            url: "https://stream.wmnf.org:4443/wmnf_hd2"
         },
         {
-            name: "WUSF 89.7 HD2 University of South Florida",
-            logo: "stations/images-america/c2c/WUSF 89.7 HD2 University of South Florida.png",
-            url: "http://131.247.45.251:8064"
+            name: "The Source 88.5-HD3",
+            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            url: "https://stream.wmnf.org:4443/wmnf_hd3"
+        },
+        {
+            name: "Soul School 88.5-HD4",
+            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            url: "https://stream.wmnf.org:4443/wmnf_hd4"
+        },
+        {
+            name: "WUSF 89.7",
+            logo: "stations/images-america/c2c/tampa_fl/WUSF 89.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WUSFFM_SC"
         },
         {
             name: "Power 90.1",
-            logo: "stations/images-america/c2c/Power 90.1.png",
+            logo: "stations/images-america/c2c/tampa_fl/Power 90.1.png",
             url: "https://ice42.securenetsystems.net/PWR901"
         },
         {
+            name: "Money Talk 92.1",
+            logo: "stations/images-america/c2c/tampa_fl/Money Talk 92.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHFSAMFLAACHI_SC"
+        },
+        {
+            name: "92.5 Maxima",
+            logo: "stations/images-america/c2c/tampa_fl/92.5 Maxima.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYUUFMAAC_SC"
+        },
+        {
             name: "93.3 FLZ",
-            logo: "stations/images-america/c2c/WFLZFM.png",
+            logo: "stations/images-america/c2c/tampa_fl/93.3 FLZ.png",
             url: "https://stream.revma.ihrhls.com/zc681/hls.m3u8"
         },
         {
-            name: "95.7 The Beat",
-            logo: "stations/images-america/c2c/WBPTFM.png",
-            url: "https://stream.revma.ihrhls.com/zc669/hls.m3u8"
+            name: "Pride Radio 93.3-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "98 Rock",
-            logo: "stations/images-america/c2c/WXTBFM.png",
-            url: "https://stream.revma.ihrhls.com/zc697/hls.m3u8"
+            name: "Evolution 93.3-HD3",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
-            name: "98.7 The Shark",
-            logo: "stations/images-america/c2c/WPBB.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WPBBFMAAC.aac"
+            name: "WiLD 94.1",
+            logo: "stations/images-america/c2c/tampa_fl/WiLD 94.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WLLDFMAAC_SC"
         },
         {
-            name: "Mix 100.7",
-            logo: "stations/images-america/c2c/WMTX.png",
-            url: "https://stream.revma.ihrhls.com/zc689/hls.m3u8"
-        },
-        {
-            name: "Bone 102.5",
-            logo: "stations/images-america/c2c/WHPTFM.png",
-            url: "https://oom-cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac"
-        },
-        {
-            name: "US 103.5",
-            logo: "stations/images-america/c2c/WFUSFM.png",
-            url: "https://stream.revma.ihrhls.com/zc693/hls.m3u8"
-        },
-        {
-            name: "620 WDAE",
-            logo: "stations/images-america/c2c/WDAE.png",
+            name: "95.3 WDAE",
+            logo: "stations/images-america/c2c/tampa_fl/95.3 WDAE.png",
             url: "https://stream.revma.ihrhls.com/zc673/hls.m3u8"
         },
         {
-            name: "AM 820 News",
-            logo: "stations/images-america/c2c/WWBA.png",
-            url: "http://1.ice1.firststreaming.com:8000/wwba_am.aac"
+            name: "95.7 The Beat",
+            logo: "stations/images-america/c2c/tampa_fl/95.7 The Beat.png",
+            url: "https://stream.revma.ihrhls.com/zc669/hls.m3u8"
         },
         {
-            name: "970 WFLA",
-            logo: "stations/images-america/c2c/970 WFLA.png",
+            name: "ALT 95.7-HD2",
+            logo: "stations/images-america/0_general_logos/ALT Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
+        {
+            name: "98ROCK",
+            logo: "stations/images-america/c2c/tampa_fl/98ROCK.png",
+            url: "https://stream.revma.ihrhls.com/zc697/hls.m3u8"
+        },
+        {
+            name: "Max 98.3",
+            logo: "stations/images-america/c2c/tampa_fl/Max 98.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWRZFMAAC_SC"
+        },
+        {
+            name: "98.7 The Shark",
+            logo: "stations/images-america/c2c/tampa_fl/98.7 The Shark.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WPBBFMAACHI_SC"
+        },
+        {
+            name: "99.5 QYK",
+            logo: "stations/images-america/c2c/tampa_fl/99.5 QYK.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WQYKFMAAC_SC"
+        },
+        {
+            name: "100.1 Viva FM",
+            logo: "stations/images-america/c2c/tampa_fl/100.1 Viva FM.png",
+            url: "https://server7.servistreaming.com/proxy/cantares?mp=/stream"
+        },
+        {
+            name: "MIX 100.7",
+            logo: "stations/images-america/c2c/tampa_fl/MIX 100.7.png",
+            url: "https://stream.revma.ihrhls.com/zc689/hls.m3u8"
+        },
+        {
+            name: "Throwback 100.7-HD2",
+            logo: "stations/images-america/c2c/tampa_fl/Throwback 100.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6434/hls.m3u8"
+        },
+        {
+            name: "102.5 The Bone",
+            logo: "stations/images-america/c2c/tampa_fl/102.5 The Bone.png",
+            url: "https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac"
+        },
+        {
+            name: "US 103.5",
+            logo: "stations/images-america/c2c/tampa_fl/US 103.5.png",
+            url: "https://stream.revma.ihrhls.com/zc693/hls.m3u8"
+        },
+        {
+            name: "WSMR 103.9",
+            logo: "stations/images-america/c2c/tampa_fl/WSMR 103.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSMRFM_SC"
+        },
+        {
+            name: "Q105",
+            logo: "stations/images-america/c2c/tampa_fl/Q105.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WRBQFMAAC_SC"
+        },
+        {
+            name: "WFLA 105.9",
+            logo: "stations/images-america/c2c/tampa_fl/WFLA 105.9.png",
             url: "https://stream.revma.ihrhls.com/zc2823/hls.m3u8"
         },
         {
-            name: "WHNZ Impact Radio",
-            logo: "stations/images-america/c2c/WHNZ.png",
-            url: "https://stream.revma.ihrhls.com/zc685/hls.m3u8"
+            name: "Rumba 106.5",
+            logo: "stations/images-america/c2c/tampa_fl/Rumba 106.5.png",
+            url: "https://stream.revma.ihrhls.com/zc633/hls.m3u8"
         },
         {
-            name: "TanTalk",
-            logo: "stations/images-america/c2c/TanTalk 1340.jpg",
-            url: "http://home.besedic.com:8000/live"
+            name: "106.9 Playa",
+            logo: "stations/images-america/c2c/tampa_fl/106.9 Playa.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WYUUHD2AAC_SC"
+        },
+        {
+            name: "La Ley 107.7",
+            logo: "stations/images-america/c2c/tampa_fl/La Ley 107.7.png",
+            url: "http://192.99.177.194:9304/stream"
+        },
+        {
+            name: "820 WWBA",
+            logo: "stations/images-america/c2c/tampa_fl/820 WWBA.png",
+            url: "https://ice41.securenetsystems.net/WWBA"
+        },
+        {
+            name: "AM 860 The Answer",
+            logo: "stations/images-america/c2c/tampa_fl/AM 860 The Answer.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGULAMAAC_SC"
+        },
+        {
+            name: "1150 WTMP",
+            logo: "stations/images-america/c2c/tampa_fl/1150 WTMP.png",
+            url: "https://ice23.securenetsystems.net/WTMPAM"
+        },
+        {
+            name: "1250 WHNZ",
+            logo: "stations/images-america/c2c/tampa_fl/1250 WHNZ.png",
+            url: "https://stream.revma.ihrhls.com/zc685/hls.m3u8"
         },
     ],
     "vero_beach": [
@@ -9325,7 +9415,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc749/hls.m3u8"
         },
         {
-            name: "ALT Radio 105.3-HD2",
+            name: "ALT 105.3-HD2",
             logo: "stations/images-america/0_general_logos/ALT Radio.png",
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
