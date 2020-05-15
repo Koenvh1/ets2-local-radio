@@ -23662,8 +23662,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://cromwell.leanstream.co/WPRTFM"
         },
         {
-            name: "Nash FM 103.3",
-            logo: "stations/images-america/c2c/nashville_tn/Nash FM 103.3.png",
+            name: "103.3 Country",
+            logo: "stations/images-america/c2c/nashville_tn/103.3 Country.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKDFFMAAC_SC"
         },
         {
