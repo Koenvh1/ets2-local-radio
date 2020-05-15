@@ -3063,8 +3063,8 @@ var stations = {
     ],
     "page": [
         {
-            name: "93.3 Jack FM",
-            logo: "stations/images-america/page/93.3 Jack FM.png",
+            name: "AZ 93.3",
+            logo: "stations/images-america/page/AZ 93.3.png",
             url: "https://ais-sa1.streamon.fm/7019_24k.aac"
         },
         {
@@ -12010,7 +12010,7 @@ var stations_c2c = {
             url: "https://1.ice1.sslstream.com/kscb_am.aac"
         },
     ],
-    "salina": [
+    "salina_ks": [
         {
             name: "Radio Kansas 89.5",
             logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",

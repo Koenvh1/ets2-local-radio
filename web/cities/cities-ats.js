@@ -3135,7 +3135,7 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 1.2
     },
-    "salina": {
+    "salina_ks": {
         name: "salina",
         name_english: "salina",
         code: "us-ks",
@@ -4911,7 +4911,7 @@ var city_properties_c2c = {
     "liberal_ks": {
         relative_whitenoise: 0.95
     },
-    "salina": {
+    "salina_ks": {
         relative_whitenoise: 0.95
     },
     "topeka": {
@@ -6332,7 +6332,7 @@ var cities_c2c = [
         "z": "10233.8"
     },
     {
-        "gameName": "salina",
+        "gameName": "salina_ks",
         "realName": "Salina",
         "country": "kansas",
         "x": "-7276.62",
