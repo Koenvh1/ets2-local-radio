@@ -67,9 +67,6 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Ets2SdkClient">
-      <HintPath>F:\Downloads\ets2-sdk-plugin-master\ets2-client\C#\Ets2SdkClient\bin\Release\Ets2SdkClient.dll</HintPath>
-    </Reference>
     <Reference Include="Gma.System.MouseKeyHook, Version=5.6.130.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MouseKeyHook.5.6.0\lib\net40\Gma.System.MouseKeyHook.dll</HintPath>
     </Reference>
@@ -99,7 +96,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands.cs" />
-    <Compile Include="Coordinates.cs" />
     <Compile Include="Favourites.cs" />
     <Compile Include="Joystick.cs" />
     <Compile Include="Language.cs" />
@@ -167,6 +163,10 @@
     <None Include="Resources\dashboard.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\third_party\scs-sdk-plugin\scs-client\C#\SCSSdkClient\SCSSdkClient.csproj">
+      <Project>{b62f8e57-9d8c-4ea2-90e4-1f6b09dce468}</Project>
+      <Name>SCSSdkClient</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Capture\Capture.csproj">
       <Project>{23178A3D-2AC0-419A-B1B6-59CA45191270}</Project>
       <Name>Capture</Name>

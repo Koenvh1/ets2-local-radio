@@ -14,18 +14,20 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-using Ets2SdkClient;
+using SCSSdkClient;
 using ETS2_Local_Radio_server.Properties;
 using Gma.System.MouseKeyHook;
 using Microsoft.Win32;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using SCSSdkClient.Object;
+using static SCSSdkClient.Object.SCSTelemetry;
 
 namespace ETS2_Local_Radio_server
 {
     public partial class Main : Form
     {
-        public Ets2SdkTelemetry Telemetry;
+        public SCSSdkTelemetry Telemetry;
 
         public SimpleHTTPServer myServer;
 
@@ -35,7 +37,7 @@ namespace ETS2_Local_Radio_server
 
         public int amount = 0;
 
-        public static Coordinates coordinates;
+        public static DVector coordinates;
 
         public static object ets2data;
         public static Commands commandsData;
@@ -97,7 +99,7 @@ namespace ETS2_Local_Radio_server
             Favourites.Load();
 
             //Start telemetry grabbing:
-            Telemetry = new Ets2SdkTelemetry(250);
+            Telemetry = new SCSSdkTelemetry(250);
             Telemetry.Data += Telemetry_Data;
 
             if (Telemetry.Error != null)
@@ -269,9 +271,9 @@ namespace ETS2_Local_Radio_server
                         Directory.CreateDirectory(folder + @"\bin\win_x86\plugins");
                         Directory.CreateDirectory(folder + @"\bin\win_x64\plugins");
 
-                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\plugins\ets2-telemetry.dll",
+                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\plugins\scs-telemetry.dll",
                             folder + @"\bin\win_x86\plugins\ets2-telemetry.dll", true);
-                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\ets2-telemetry.dll",
+                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\scs-telemetry.dll",
                             folder + @"\bin\win_x64\plugins\ets2-telemetry.dll", true);
                         if (result == DialogResult.Yes)
                         {
@@ -346,7 +348,7 @@ namespace ETS2_Local_Radio_server
             }
         }
 
-        private void Telemetry_Data(Ets2Telemetry data, bool updated)
+        private void Telemetry_Data(SCSTelemetry data, bool updated)
         {
             try
             {
@@ -357,15 +359,15 @@ namespace ETS2_Local_Radio_server
                 }
 
                 ets2data = data;
-                coordinates = new Coordinates(data.Physics.CoordinateX, data.Physics.CoordinateY, data.Physics.CoordinateZ);
-                locationLabel.Text = coordinates.X + "; " + coordinates.Y + "; " + coordinates.Z;
+                coordinates = data.TruckValues.CurrentValues.PositionValue.Position;
+                locationLabel.Text = $"{coordinates.X:0.00}; {coordinates.Y:0.00}; {coordinates.Z:0.00}";
 
-                if (data.Version.Ets2Major == 0)
+                if (!data.SdkActive)
                 {
                     statusLabel.Text = simulatorNotRunning;
                     statusLabel.ForeColor = Color.Red;
                 }
-                else if (data.Time == 0)
+                else if (data.Paused)
                 {
                     statusLabel.Text = simulatorNotDriving;
                     statusLabel.ForeColor = Color.DarkOrange;

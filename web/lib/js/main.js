@@ -192,12 +192,13 @@ function refresh(data) {
     */
 
     //Test whether location is real and not disconnected
-    if (!(data.Physics.CoordinateX == 0.0 && data.Physics.CoordinateY == 0.0 && data.Physics.CoordinateZ == 0.0) || g_show_all) {
+    var pos = data.TruckValues.CurrentValues.PositionValue.Position;
+    if (!(pos.X == 0.0 && pos.Y == 0.0 && pos.Z == 0.0) || g_show_all) {
         for (var i = 0; i < cities.length; i++) {
             //Fix uppercase issues (*cough* SCS):
             cities[i]["country"] = cities[i]["country"].toLowerCase();
             //Calculate distance
-            var distance = Math.sqrt(Math.pow((data.Physics.CoordinateX - cities[i]["x"]), 2) + Math.pow((data.Physics.CoordinateZ - cities[i]["z"]), 2));
+            var distance = Math.sqrt(Math.pow((pos.X - cities[i]["x"]), 2) + Math.pow((pos.Z - cities[i]["z"]), 2));
             if (distance < lowest_distance) {
                 //Write lowest distance
                 lowest_distance = distance;
