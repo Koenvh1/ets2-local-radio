@@ -8560,111 +8560,166 @@ var stations_c2c = {
     ],
     "naples": [
         {
-            name: "WGCU",
-            logo: "stations/images-america/c2c/WGCU.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGCUFM.mp3"
+            name: "WGCU 90.1",
+            logo: "stations/images-america/c2c/naples_fl/WGCU 90.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGCUFM_SC"
         },
         {
-            name: "Xponential",
-            logo: "stations/images-america/c2c/WGCUHD2.png",
-            url: "http://xpohi.streamguys.net/xpohi"
+            name: "Classical 24 90.1-HD2",
+            logo: "stations/images-america/c2c/naples_fl/WGCU 90.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGCUFM_CLASSICAL_SC"
         },
         {
-            name: "WGCU Classical",
-            logo: "stations/images-america/c2c/WGCUHD3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGCUFM_CLASSICAL.mp3"
+            name: "92.5 Fox News",
+            logo: "stations/images-america/c2c/naples_fl/92.5 Fox News.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WFSXFMAAC_SC"
+        },
+        {
+            name: "93X",
+            logo: "stations/images-america/c2c/naples_fl/93X.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFMAAC_SC"
+        },
+        {
+            name: "94.5 The Arrow",
+            logo: "stations/images-america/c2c/naples_fl/94.5 The Arrow.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WAROFMAAC_SC"
         },
         {
             name: "95.3 OLZ",
-            logo: "stations/images-america/c2c/95.3 OLZ.png",
+            logo: "stations/images-america/c2c/naples_fl/95.3 OLZ.png",
             url: "https://stream.revma.ihrhls.com/zc493/hls.m3u8"
         },
         {
-            name: "98.1 FM Marco Island",
-            logo: "stations/images-america/c2c/98.1 FM Marco Island.png",
-            url: "http://wvoi21.primcast.com:5246/;"
+            name: "Máxima 95.7",
+            logo: "stations/images-america/c2c/naples_fl/Máxima 95.7.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WJUAAMAAC_SC"
         },
         {
-            name: "98.9 My FM",
-            logo: "stations/images-america/c2c/WBCG.png",
-            url: "https://stream.revma.ihrhls.com/zc5094/hls.m3u8"
+            name: "96k Rock",
+            logo: "stations/images-america/c2c/naples_fl/96k Rock.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WRXKFMAAC_SC"
         },
         {
-            name: "Y 100.1",
-            logo: "stations/images-america/c2c/WZJZ.png",
+            name: "96.9 WINK FM",
+            logo: "stations/images-america/c2c/naples_fl/96.9 WINK FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WINKFMAAC_SC"
+        },
+        {
+            name: "Fly 98.5",
+            logo: "stations/images-america/c2c/naples_fl/Fly 98.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WFFYFMAAC_SC"
+        },
+        {
+            name: "98.9 WGUF",
+            logo: "stations/images-america/c2c/naples_fl/98.9 WGUF.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGUF_FMAAC_SC"
+        },
+        {
+            name: "99.3 ESPN",
+            logo: "stations/images-america/c2c/naples_fl/99.3 ESPN.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WWCNFMAAC_SC"
+        },
+        {
+            name: "Y100.1",
+            logo: "stations/images-america/c2c/naples_fl/Y100.1.png",
             url: "https://stream.revma.ihrhls.com/zc497/hls.m3u8"
         },
         {
-            name: "Seaview 104.9",
-            logo: "stations/images-america/c2c/Seaview 104.9.png",
-            url: "https://stream.revma.ihrhls.com/zc5096/hls.m3u8"
+            name: "WAVV 101.1",
+            logo: "stations/images-america/c2c/naples_fl/WAVV 101.1.png",
+            url: "https://us2.maindigitalstream.com/ssl/wavv"
+        },
+        {
+            name: "WJBX 101.5",
+            logo: "stations/images-america/c2c/naples_fl/WJBX 101.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WJBXAMAAC_SC"
+        },
+        {
+            name: "Gator Country 101.9",
+            logo: "stations/images-america/c2c/naples_fl/Gator Country 101.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WWGR_FMAAC_SC"
+        },
+        {
+            name: "102.9 BOB FM",
+            logo: "stations/images-america/c2c/naples_fl/102.9 BOB FM.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WJGO_FMAAC_SC"
+        },
+        {
+            name: "B103.9",
+            logo: "stations/images-america/c2c/naples_fl/B103.9.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WXKBFMAAC_SC"
+        },
+        {
+            name: "Radio Disney 103.9-HD2",
+            logo: "stations/images-america/c2c/charlotte_nc/Radio Disney 95.1-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_SC"
+        },
+        {
+            name: "104.7 The Mix",
+            logo: "stations/images-america/c2c/naples_fl/104.7 The Mix.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WSGL_FMAAC_SC"
+        },
+        {
+            name: "Playa 105.1",
+            logo: "stations/images-america/c2c/naples_fl/Playa 105.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/THELINKAAC_SC"
         },
         {
             name: "105.5 The Beat",
-            logo: "stations/images-america/c2c/WBTTFM.png",
+            logo: "stations/images-america/c2c/naples_fl/105.5 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc485/hls.m3u8"
         },
         {
-            name: "Cat Country 107.1",
-            logo: "stations/images-america/c2c/WCKTFM.png",
-            url: "https://stream.revma.ihrhls.com/zc489/hls.m3u8"
+            name: "Club Jam Classic Hip Hop 105.5-HD2",
+            logo: "stations/images-america/c2c/naples_fl/Club Jam Classic Hip Hop 105.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7206/hls.m3u8"
         },
         {
-            name: "NewsRadio 1580 WCCF",
-            logo: "stations/images-america/c2c/WCCF.png",
-            url: "https://stream.revma.ihrhls.com/zc5229/hls.m3u8"
+            name: "Sunny 106.3",
+            logo: "stations/images-america/c2c/naples_fl/Sunny 106.3.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WJPTFMAAC_SC"
+        },
+        {
+            name: "Cat Country 107.1",
+            logo: "stations/images-america/c2c/naples_fl/Cat Country 107.1.png",
+            url: "https://stream.revma.ihrhls.com/zc489/hls.m3u8"
         },
     ],
     "new_smyrna_beach": [
         {
+            name: "90.7 WMFE",
+            logo: "stations/images-america/c2c/orlando_fl/90.7 WMFE.png",
+            url: "https://wmfe-iad.streamguys1.com/wmfe"
+        },
+        {
             name: "93.1 Coast Country",
-            logo: "stations/images-america/c2c/WKROFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKROFMAAC.aac"
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/93.1 Coast Country.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKROFMAAC_SC"
         },
         {
-            name: "WNDB",
-            logo: "stations/images-america/c2c/WNDB.jpg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNDBAM_SC"
+            name: "WNDB 93.5",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/WNDB 93.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNDBAMAAC_SC"
         },
         {
-            name: "WHOG 95.7",
-            logo: "stations/images-america/c2c/WHOG 95.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHOGFM.mp3"
-        },
-        {
-            name: "WLOV",
-            logo: "stations/images-america/c2c/WLOV.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLOVFM.mp3"
-        },
-        {
-            name: "Kool 100.9",
-            logo: "stations/images-america/c2c/Kool 100.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBHQHD.mp3"
+            name: "99.5 WLOV",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/99.5 WLOV.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLOVFMAAC_SC"
         },
         {
             name: "103.3 The Vibe",
-            logo: "stations/images-america/c2c/WVYBFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WVYBFMAAC.aac"
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/103.3 The Vibe.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WVYBFMAAC_SC"
         },
         {
-            name: "WROD The Rock of Daytona",
-            logo: "stations/images-america/c2c/WROD The Rock of Daytona.png",
+            name: "104.7 WROD",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/104.7 WROD.png",
             url: "http://ice7.securenetsystems.net/WROD"
         },
         {
-            name: "WSBB",
-            logo: "stations/images-america/c2c/WSBB.jpg",
+            name: "WSBB 106.9",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/WSBB 106.9.png",
             url: "http://quarrel.str3am.com:7290/live-aac"
-        },
-        {
-            name: "1380 The Cat",
-            logo: "stations/images-america/c2c/1380 The Cat.png",
-            url: "http://ice41.securenetsystems.net/WELE"
-        },
-        {
-            name: "WNZF NewsRadio",
-            logo: "stations/images-america/c2c/WNZF NewsRadio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNZFAM.mp3"
         },
     ],
     "orlando": [
