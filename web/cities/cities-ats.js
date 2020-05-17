@@ -2751,21 +2751,15 @@ var country_properties_c2c = {
         code: "us-fl",
         relative_radius: 1.2
     },
-    "defuniak_springs": {
-        name: "defuniak_springs",
-        name_english: "defuniak_springs",
+    "panama_city": {
+        name: "Panama City",
+        name_english: "Panama City",
         code: "us-fl",
         relative_radius: 1.2
     },
     "fort_lauderdale": {
         name: "fort_lauderdale",
         name_english: "fort_lauderdale",
-        code: "us-fl",
-        relative_radius: 1.2
-    },
-    "fort_pierce": {
-        name: "fort_pierce",
-        name_english: "fort_pierce",
         code: "us-fl",
         relative_radius: 1.2
     },
@@ -4719,13 +4713,10 @@ var city_properties_c2c = {
     "boca_raton": {
         relative_whitenoise: 0.95
     },
-    "defuniak_springs": {
+    "panama_city": {
         relative_whitenoise: 0.95
     },
     "fort_lauderdale": {
-        relative_whitenoise: 0.95
-    },
-    "fort_pierce": {
         relative_whitenoise: 0.95
     },
     "gainesville": {
@@ -5868,12 +5859,12 @@ var cities_c2c = [
         "z": "64277.5"
     },
     {
-        "gameName": "defuniak_springs",
-        "realName": "Defuniak Springs",
+        "gameName": "panama_city",
+        "realName": "Panama City",
         "country": "florida",
-        "x": "48500.8",
-        "y": "56.0368",
-        "z": "43881.6"
+        "x": "51618.7",
+        "y": "74.0011",
+        "z": "43546.9"
     },
     {
         "gameName": "fort_lauderdale",
@@ -5882,14 +5873,6 @@ var cities_c2c = [
         "x": "81804.9",
         "y": "54.0859",
         "z": "66062.5",
-    },
-    {
-        "gameName": "fort_pierce",
-        "realName": "Fort Pierce",
-        "country": "florida",
-        "x": "79944.6",
-        "y": "-1.19767",
-        "z": "60125.5"
     },
     {
         "gameName": "gainesville",
