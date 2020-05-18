@@ -2745,21 +2745,15 @@ var country_properties_c2c = {
         code: "us-fl",
         relative_radius: 1.2
     },
-    "boca_raton": {
-        name: "boca _raton",
-        name_english: "boca_raton",
-        code: "us-fl",
-        relative_radius: 1.2
-    },
     "panama_city": {
         name: "Panama City",
         name_english: "Panama City",
         code: "us-fl",
         relative_radius: 1.2
     },
-    "fort_lauderdale": {
-        name: "fort_lauderdale",
-        name_english: "fort_lauderdale",
+    "port_saint_lucie": {
+        name: "Port Saint Lucie",
+        name_english: "Port Saint Lucie",
         code: "us-fl",
         relative_radius: 1.2
     },
@@ -2779,19 +2773,13 @@ var country_properties_c2c = {
         name: "key_largo",
         name_english: "key_largo",
         code: "us-fl",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "key_west": {
         name: "key_west",
         name_english: "key_west",
         code: "us-fl",
-        relative_radius: 1.2
-    },
-    "lake_city": {
-        name: "lake_city",
-        name_english: "lake_city",
-        code: "us-fl",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "marianna": {
         name: "marianna",
@@ -2856,12 +2844,6 @@ var country_properties_c2c = {
     "tampa": {
         name: "tampa",
         name_english: "tampa",
-        code: "us-fl",
-        relative_radius: 1.2
-    },
-    "vero_beach": {
-        name: "Vero Beach",
-        name_english: "Vero Beach",
         code: "us-fl",
         relative_radius: 1.2
     },
@@ -4710,13 +4692,10 @@ var city_properties_c2c = {
     "florida": {
         relative_whitenoise: 0.95
     },
-    "boca_raton": {
-        relative_whitenoise: 0.95
-    },
     "panama_city": {
         relative_whitenoise: 0.95
     },
-    "fort_lauderdale": {
+    "port_saint_lucie": {
         relative_whitenoise: 0.95
     },
     "gainesville": {
@@ -4729,9 +4708,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "key_west": {
-        relative_whitenoise: 0.95
-    },
-    "lake_city": {
         relative_whitenoise: 0.95
     },
     "marianna": {
@@ -4765,9 +4741,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "tampa": {
-        relative_whitenoise: 0.95
-    },
-    "vero_beach": {
         relative_whitenoise: 0.95
     },
     "georgia": {
@@ -5851,14 +5824,6 @@ var cities_c2c = [
         "z": "-13784"
     },
     {
-        "gameName": "boca_raton",
-        "realName": "Boca Raton",
-        "country": "florida",
-        "x": "81352.8",
-        "y": "50.7383",
-        "z": "64277.5"
-    },
-    {
         "gameName": "panama_city",
         "realName": "Panama City",
         "country": "florida",
@@ -5867,12 +5832,12 @@ var cities_c2c = [
         "z": "43546.9"
     },
     {
-        "gameName": "fort_lauderdale",
-        "realName": "Fort Lauderdale",
+        "gameName": "port_saint_lucie",
+        "realName": "Port Saint Lucie",
         "country": "florida",
-        "x": "81804.9",
-        "y": "54.0859",
-        "z": "66062.5",
+        "x": "79975.3",
+        "y": "33.2713",
+        "z": "60176.5",
     },
     {
         "gameName": "gainesville",
@@ -5905,14 +5870,6 @@ var cities_c2c = [
         "x": "75154.8",
         "y": "61.8633",
         "z": "76254.8"
-    },
-    {
-        "gameName": "lake_city",
-        "realName": "Lake City",
-        "country": "florida",
-        "x": "64979.7",
-        "y": "54.5133",
-        "z": "44677.8"
     },
     {
         "gameName": "marianna",
@@ -6001,14 +5958,6 @@ var cities_c2c = [
         "x": "67718.8",
         "y": "120.328",
         "z": "57431"
-    },
-    {
-        "gameName": "vero_beach",
-        "realName": "Vero Beach",
-        "country": "florida",
-        "x": "79410.8",
-        "y": "11.1143",
-        "z": "59025"
     },
     {
         "gameName": "albany_ga",
