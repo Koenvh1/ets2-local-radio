@@ -10119,8 +10119,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGKAAMAAC_SC"
         },
         {
-            name: "VSAM 1040",
-            logo: "stations/images-america/c2c/atlanta_ga/VSAM 1040.png",
+            name: "VS AM1040",
+            logo: "stations/images-america/c2c/atlanta_ga/VS AM1040.png",
             url: "http://uni5rtmp.tulix.tv/playout2multi11/playout2multi11.stream/playlist.m3u8"
         },
         {
