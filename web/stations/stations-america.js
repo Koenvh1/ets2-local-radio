@@ -8089,28 +8089,6 @@ var stations_c2c = {
             url: "http://wshu.streamguys.org/wshu-news"
         },
     ],
-    "wilmington_de": [
-        {
-            name: "91.3 WVUD University of Delaware",
-            logo: "stations/images-america/c2c/91.3 WVUD University of Delaware.jpg",
-            url: "http://128.175.76.123:8000/WVUD-FMlow.mp3"
-        },
-        {
-            name: "94.7 WDSD",
-            logo: "stations/images-america/c2c/WDSDFM.png",
-            url: "https://stream.revma.ihrhls.com/zc461/hls.m3u8"
-        },
-        {
-            name: "WXCY 103.7 FM",
-            logo: "stations/images-america/c2c/WXCYFM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WXCYFMAAC.aac"
-        },
-        {
-            name: "News Radio 1450 WILM",
-            logo: "stations/images-america/c2c/News Radio 1450 WILM.png",
-            url: "https://stream.revma.ihrhls.com/zc465/hls.m3u8"
-        },
-    ],
     "port_saint_lucie": [
         {
             name: "WQCS 88.9",
@@ -8350,6 +8328,11 @@ var stations_c2c = {
             name: "The Goat 92.1",
             logo: "stations/images-america/c2c/gainesville_fl/The Goat 92.1.png",
             url: "http://209.95.35.49:7029/stream"
+        },
+        {
+            name: "Q92.9",
+            logo: "stations/images-america/c2c/gainesville_fl/Q92.9.png",
+            url: "https://ice66.securenetsystems.net/WMFQ"
         },
         {
             name: "GHQ 95.3",
@@ -15003,9 +14986,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4906/hls.m3u8"
         },
         {
-            name: "WMEX 1510",
-            logo: "stations/images-america/c2c/boston_ma/WMEX 1510.png",
-            url: "https://ice64.securenetsystems.net/WMEX"
+            name: "1510 WMEX",
+            logo: "stations/images-america/c2c/boston_ma/1510 WMEX.png",
+            url: "https://live.wostreaming.net/manifest/marshfield-wmexamaac-ibc1"
         },
     ],
     "essex": [

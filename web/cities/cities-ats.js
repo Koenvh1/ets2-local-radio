@@ -2733,12 +2733,6 @@ var country_properties_c2c = {
         code: "us-de",
         relative_radius: 1.2
     },
-    "wilmington_de": {
-        name: "wilmington_de",
-        name_english: "wilmington_de",
-        code: "us-de",
-        relative_radius: 1.2
-    },
     "florida": {
         name: "florida",
         name_english: "florida",
@@ -4686,9 +4680,6 @@ var city_properties_c2c = {
     "delaware": {
         relative_whitenoise: 0.95
     },
-    "wilmington_de": {
-        relative_whitenoise: 0.95
-    },
     "florida": {
         relative_whitenoise: 0.95
     },
@@ -5816,14 +5807,6 @@ var cities_c2c = [
         "z": "-25291.5"
     },
     {
-        "gameName": "wilmington_de",
-        "realName": "Wilmington",
-        "country": "delaware",
-        "x": "87477.5",
-        "y": "55.7888",
-        "z": "-13784"
-    },
-    {
         "gameName": "panama_city",
         "realName": "Panama City",
         "country": "florida",
@@ -5891,9 +5874,9 @@ var cities_c2c = [
         "gameName": "miami",
         "realName": "Miami",
         "country": "florida",
-        "x": "80994",
-        "y": "87.7422",
-        "z": "68663.3"
+        "x": "81409.5",
+        "y": "58.9183",
+        "z": "68934.8"
     },
     {
         "gameName": "naples",
@@ -6083,9 +6066,9 @@ var cities_c2c = [
         "gameName": "chicago",
         "realName": "Chicago",
         "country": "illinois",
-        "x": "34428",
-        "y": "96.3945",
-        "z": "-17767.3"
+        "x": "34826.7",
+        "y": "59.5403",
+        "z": "-17855.9"
     },
     {
         "gameName": "effingham",
@@ -6131,9 +6114,9 @@ var cities_c2c = [
         "gameName": "indianapolis",
         "realName": "Indianapolis",
         "country": "indiana",
-        "x": "42810.4",
+        "x": "42699.5",
         "y": "73.6016",
-        "z": "-7019.82"
+        "z": "-6499.56"
     },
     {
         "gameName": "evansville_in",
@@ -6323,9 +6306,9 @@ var cities_c2c = [
         "gameName": "louisville",
         "realName": "Louisville",
         "country": "kentucky",
-        "x": "46206.9",
-        "y": "94.7539",
-        "z": "2150.79"
+        "x": "45233.7",
+        "y": "62.2891",
+        "z": "1811.28"
     },
     {
         "gameName": "paducah",
@@ -6683,9 +6666,9 @@ var cities_c2c = [
         "gameName": "stlouis",
         "realName": "St. Louis",
         "country": "missouri",
-        "x": "25544.6",
-        "y": "112.152",
-        "z": "1119.46"
+        "x": "25065.6",
+        "y": "81.9595",
+        "z": "806.646"
     },
     {
         "gameName": "springfield_mo",
@@ -7115,9 +7098,9 @@ var cities_c2c = [
         "gameName": "cincinnati",
         "realName": "Cincinnati",
         "country": "ohio",
-        "x": "50639.8",
-        "y": "49.0796",
-        "z": "-3938.15"
+        "x": "50308.5",
+        "y": "90",
+        "z": "-3609.28"
     },
     {
         "gameName": "cleveland_oh",
