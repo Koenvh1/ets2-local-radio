@@ -4263,6 +4263,12 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 1.2
     },
+    "corpus_christi_tx": {
+        name: "Corpus Christi",
+        name_english: "Corpus Christi",
+        code: "us-tx",
+        relative_radius: 1.2
+    },
     "dallas": {
         name: "dallas",
         name_english: "dallas",
@@ -4374,6 +4380,12 @@ var country_properties_c2c = {
     "vernon_tx": {
         name: "vernon_tx",
         name_english: "vernon_tx",
+        code: "us-tx",
+        relative_radius: 1.2
+    },
+    "victoria_tx": {
+        name: "Victoria",
+        name_english: "Victoria",
         code: "us-tx",
         relative_radius: 1.2
     },
@@ -5445,6 +5457,9 @@ var city_properties_c2c = {
     "childress_tx": {
         relative_whitenoise: 0.95
     },
+    "corpus_christi_tx": {
+        relative_whitenoise: 0.95
+    },
     "dallas": {
         relative_whitenoise: 0.95
     },
@@ -5500,6 +5515,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "vernon_tx": {
+        relative_whitenoise: 0.95
+    },
+    "victoria_tx": {
         relative_whitenoise: 0.95
     },
     "waco": {
@@ -7577,6 +7595,14 @@ var cities_c2c = [
         "z": "25348.9"
     },
     {
+        "gameName": "corpus_christi_tx",
+        "realName": "Corpus Christi",
+        "country": "texas",
+        "x": "-7508.78",
+        "y": "11.7572",
+        "z": "63160.7"
+    },
+    {
         "gameName": "dallas",
         "realName": "Dallas",
         "country": "texas",
@@ -7727,6 +7753,14 @@ var cities_c2c = [
         "x": "-15287.3",
         "y": "87.8828",
         "z": "27124.9"
+    },
+    {
+        "gameName": "victoria_tx",
+        "realName": "Victoria",
+        "country": "texas",
+        "x": "-3982.68",
+        "y": "53.4273",
+        "z": "56897.1"
     },
     {
         "gameName": "waco",

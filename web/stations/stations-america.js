@@ -25086,6 +25086,113 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KOLJ"
         },
     ],
+    "corpus_christi_tx": [
+        {
+            name: "KLUX 89.5",
+            logo: "stations/images-america/c2c/corpus_christi_tx/KLUX 89.5.png",
+            url: "http://s5.viastreaming.net:7610/;"
+        },
+        {
+            name: "KEDT 90.3",
+            logo: "stations/images-america/c2c/corpus_christi_tx/KEDT 90.3.png",
+            url: "https://kedt.streamguys1.com/live-mp3"
+        },
+        {
+            name: "ROCK 92.7",
+            logo: "stations/images-america/c2c/corpus_christi_tx/ROCK 92.7.png",
+            url: "https://live.wostreaming.net/manifest/malkan-kkbafmaac-ibc3"
+        },
+        {
+            name: "BIG 93.9",
+            logo: "stations/images-america/c2c/corpus_christi_tx/BIG 93.9.png",
+            url: "https://stream.revma.ihrhls.com/zc3652/hls.m3u8"
+        },
+        {
+            name: "US 94.7",
+            logo: "stations/images-america/c2c/corpus_christi_tx/US 94.7.png",
+            url: "http://ice64.securenetsystems.net/KBSO"
+        },
+        {
+            name: "Z95",
+            logo: "stations/images-america/c2c/corpus_christi_tx/Z95.png",
+            url: "https://live.wostreaming.net/direct/malkan-kzfmfmaac-ibc3"
+        },
+        {
+            name: "Sports Radio 96.1",
+            logo: "stations/images-america/c2c/corpus_christi_tx/Sports Radio 96.1.png",
+            url: "http://sc3.spacialnet.com:36000/;"
+        },
+        {
+            name: "The Beach 96.5",
+            logo: "stations/images-america/c2c/corpus_christi_tx/The Beach 96.5.png",
+            url: "https://ice42.securenetsystems.net/KLTGFM"
+        },
+        {
+            name: "97.5 KFTX",
+            logo: "stations/images-america/c2c/corpus_christi_tx/97.5 KFTX.png",
+            url: "https://ice7.securenetsystems.net/KFTX"
+        },
+        {
+            name: "K99",
+            logo: "stations/images-america/c2c/corpus_christi_tx/K99.png",
+            url: "https://stream.revma.ihrhls.com/zc3184/hls.m3u8"
+        },
+        {
+            name: "KSAB 99.9",
+            logo: "stations/images-america/c2c/corpus_christi_tx/KSAB 99.9.png",
+            url: "https://stream.revma.ihrhls.com/zc3656/hls.m3u8"
+        },
+        {
+            name: "C101",
+            logo: "stations/images-america/c2c/corpus_christi_tx/C101.png",
+            url: "https://stream.revma.ihrhls.com/zc3180/hls.m3u8"
+        },
+        {
+            name: "Planet 102.3",
+            logo: "stations/images-america/c2c/corpus_christi_tx/Planet 102.3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice41.securenetsystems.net/KKPN"
+        },
+        {
+            name: "102.9 Da Bomb",
+            logo: "stations/images-america/c2c/corpus_christi_tx/102.9 Da Bomb.png",
+            url: "http://rcri1.com:9166/;"
+        },
+        {
+            name: "Retro 104.1",
+            logo: "stations/images-america/c2c/corpus_christi_tx/Retro 104.1.png",
+            url: "https://ice41.securenetsystems.net/KCCT"
+        },
+        {
+            name: "Classic Rock 104.5",
+            logo: "stations/images-america/c2c/corpus_christi_tx/Classic Rock 104.5.png",
+            url: "https://ice41.securenetsystems.net/KPUS"
+        },
+        {
+            name: "WILD 105.5",
+            logo: "stations/images-america/c2c/corpus_christi_tx/WILD 105.5.png",
+            url: "https://ice42.securenetsystems.net/KLHBFM"
+        },
+        {
+            name: "106.5 The Shark",
+            logo: "stations/images-america/c2c/corpus_christi_tx/106.5 The Shark.png",
+            url: "https://crystalout.surfernetwork.com:8001/KYRK-FM_MP3"
+        },
+        {
+            name: "107.3 The Bull",
+            logo: "stations/images-america/c2c/corpus_christi_tx/107.3 The Bull.png",
+            url: "https://ice41.securenetsystems.net/KAJE"
+        },
+        {
+            name: "1360 KKTX",
+            logo: "stations/images-america/c2c/corpus_christi_tx/1360 KKTX.png",
+            url: "https://stream.revma.ihrhls.com/zc5270/hls.m3u8"
+        },
+        {
+            name: "1440 KEYS",
+            logo: "stations/images-america/c2c/corpus_christi_tx/1440 KEYS.png",
+            url: "https://live.wostreaming.net/manifest/malkan-keysamaac-ibc3"
+        },
+    ],
     "dallas": [
         {
             name: "88.5 KEOM",
@@ -26065,6 +26172,43 @@ var stations_c2c = {
             name: "94.9 The Outlaw",
             logo: "stations/images-america/c2c/vernon_tx/94.9 The Outlaw.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KOLIFMAAC_SC"
+        },
+    ],
+    "victoria_tx": [
+        {
+            name: "KEDT 90.7",
+            logo: "stations/images-america/c2c/corpus_christi_tx/KEDT 90.3.png",
+            url: "https://kedt.streamguys1.com/live-mp3"
+        },
+        {
+            name: "Q92",
+            logo: "stations/images-america/c2c/victoria_tx/Q92.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kqvtfmaac-ibc3"
+        },
+        {
+            name: "Majic 95.9",
+            logo: "stations/images-america/c2c/victoria_tx/Majic 95.9.png",
+            url: "https://us2.streamingpulse.com/ssl/KHMC"
+        },
+        {
+            name: "98.7 Jack FM",
+            logo: "stations/images-america/c2c/victoria_tx/98.7 Jack FM.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ktxnfmaac-ibc3"
+        },
+        {
+            name: "KVLJ 99.5",
+            logo: "stations/images-america/c2c/victoria_tx/KVLJ 99.5.png",
+            url: "https://ice42.securenetsystems.net/KVLJ"
+        },
+        {
+            name: "KLUB 106.9",
+            logo: "stations/images-america/c2c/victoria_tx/KLUB 106.9.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-klubfmaac-ibc3"
+        },
+        {
+            name: "KIXS FM 108",
+            logo: "stations/images-america/c2c/victoria_tx/KIXS FM 108.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kixsfmaac-ibc3"
         },
     ],
     "waco": [
