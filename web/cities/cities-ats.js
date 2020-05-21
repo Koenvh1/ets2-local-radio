@@ -2619,15 +2619,27 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 1.2
     },
-    "fort_smith": {
-        name: "fort_smith",
-        name_english: "fort_smith",
+    "hot_springs_ar": {
+        name: "Hot Springs",
+        name_english: "Hot Springs",
+        code: "us-ar",
+        relative_radius: 0.9
+    },
+    "jonesboro_ar": {
+        name: "Jonesboro",
+        name_english: "Jonesboro",
+        code: "us-ar",
+        relative_radius: 1.2
+    },
+    "fayetteville_ar": {
+        name: "Fayetteville",
+        name_english: "Fayetteville",
         code: "us-ar",
         relative_radius: 1.2
     },
     "little_rock": {
-        name: "little_rock",
-        name_english: "little_rock",
+        name: "Little Rock",
+        name_english: "Little Rock",
         code: "us-ar",
         relative_radius: 1.2
     },
@@ -4623,7 +4635,13 @@ var city_properties_c2c = {
     "arkansas": {
         relative_whitenoise: 0.95
     },
-    "fort_smith": {
+    "fayetteville_ar": {
+        relative_whitenoise: 0.95
+    },
+    "hot_springs_ar": {
+        relative_whitenoise: 0.95
+    },
+    "jonesboro_ar": {
         relative_whitenoise: 0.95
     },
     "little_rock": {
@@ -5679,12 +5697,28 @@ var cities_c2c = [
         "z": "30224.4"
     },
     {
-        "gameName": "fort_smith",
-        "realName": "Fort Smith",
+        "gameName": "fayetteville_ar",
+        "realName": "Fayetteville",
         "country": "arkansas",
-        "x": "7853.06",
-        "y": "76.8877",
-        "z": "19537.4"
+        "x": "9495.54",
+        "y": "105.207",
+        "z": "16615"
+    },
+    {
+        "gameName": "hot_springs_ar",
+        "realName": "Hot Springs",
+        "country": "arkansas",
+        "x": "13756.2",
+        "y": "98.9141",
+        "z": "24366.1"
+    },
+    {
+        "gameName": "jonesboro_ar",
+        "realName": "Jonesboro",
+        "country": "arkansas",
+        "x": "23472.7",
+        "y": "95.043",
+        "z": "15258.7"
     },
     {
         "gameName": "little_rock",
