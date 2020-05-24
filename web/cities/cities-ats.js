@@ -29,6 +29,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.7
     },
+    "baker_city": {
+        name: "Baker City",
+        name_english: "Baker City",
+        code: "us-or",
+        relative_radius: 1.0
+    },
     "bakersfield": {
         name: "Bakersfield",
         name_english: "Bakersfield",
@@ -231,7 +237,7 @@ var country_properties = {
         name: "Jackpot",
         name_english: "Jackpot",
         code: "us-nv",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "kayenta": {
         name: "Kayenta",
@@ -357,7 +363,7 @@ var country_properties = {
         name: "Ontario",
         name_english: "Ontario",
         code: "us-or",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "oxnard": {
         name: "Oxnard",
@@ -664,6 +670,9 @@ var city_properties = {
     },
     "astoria": {
         relative_whitenoise: 0.90
+    },
+    "baker_city": {
+        relative_whitenoise: 0.95
     },
     "bakersfield": {
         relative_whitenoise: 0.95
@@ -1469,6 +1478,14 @@ var cities = [
         "z": "-57243"
     },
     {
+        "gameName": "baker_city",
+        "realName": "Baker City",
+        "country": "oregon",
+        "x": "-86680.9",
+        "y": "78.1306",
+        "z": "-43232.3"
+    },
+    {
         "gameName": "bend",
         "realName": "Bend",
         "country": "oregon",
@@ -2017,7 +2034,7 @@ var country_properties_mexico = {
         name: "CD. Juárez",
         name_english: "CD. Juarez",
         code: "mx-chh",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "chihuahua": {
         name: "Chihuahua",
@@ -2928,12 +2945,6 @@ var country_properties_c2c = {
     "idaho_falls": {
         name: "idaho_falls",
         name_english: "idaho_falls",
-        code: "us-id",
-        relative_radius: 1.2
-    },
-    "preston_id": {
-        name: "preston_id",
-        name_english: "preston_id",
         code: "us-id",
         relative_radius: 1.2
     },
@@ -4803,9 +4814,6 @@ var city_properties_c2c = {
     "idaho_falls": {
         relative_whitenoise: 0.95
     },
-    "preston_id": {
-        relative_whitenoise: 0.95
-    },
     "twin_falls": {
         relative_whitenoise: 0.95
     },
@@ -6081,14 +6089,6 @@ var cities_c2c = [
         "x": "-64919",
         "y": "265.699",
         "z": "-31834.5"
-    },
-    {
-        "gameName": "preston_id",
-        "realName": "Preston",
-        "country": "idaho",
-        "x": "-67577.6",
-        "y": "216.069",
-        "z": "-23688.5"
     },
     {
         "gameName": "twin_falls",
