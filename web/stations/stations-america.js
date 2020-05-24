@@ -2403,7 +2403,7 @@ var stations = {
         {
             name: "KOST 103.5",
             logo: "stations/images-america/los_angeles/KOST 103.5.png",
-            url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8y"
+            url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
             name: "104.3 MYfm",
@@ -4492,7 +4492,7 @@ var stations = {
         {
             name: "100.7 BIG FM",
             logo: "stations/images-america/san_diego/100.7 BIG FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFMBFMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
         },
         {
             name: "101 KGB",
