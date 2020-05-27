@@ -23280,7 +23280,7 @@ var stations_c2c = {
         },
         {
             name: "WKDU 91.7",
-            logo: "stations/images-america/c2c/philadelphia_pa/WKDU 91.7.svg",
+            logo: "stations/images-america/c2c/philadelphia_pa/WKDU 91.7.png",
             url: "http://streams.wkdu.org/listen.aac"
         },
         {
@@ -23399,8 +23399,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WPHIFMAAC_SC"
         },
         {
-            name: "Radio 104.5",
-            logo: "stations/images-america/c2c/philadelphia_pa/Radio 104.5.png",
+            name: "ALT 104.5",
+            logo: "stations/images-america/c2c/philadelphia_pa/ALT 104.5.png",
             url: "https://stream.revma.ihrhls.com/zc3401/hls.m3u8"
         },
         {
