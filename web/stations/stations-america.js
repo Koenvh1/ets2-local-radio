@@ -933,11 +933,6 @@ var stations = {
             url: "http://radio.radiobilingue.org:8000/;"
         },
         {
-            name: "KFLG 94.7",
-            logo: "stations/images-america/ehrenberg/KFLG 94.7.png",
-            url: "https://live.wostreaming.net/manifest/cameron-kflgfmaac-ibc3"
-        },
-        {
             name: "KNIX 106.3",
             logo: "stations/images-america/ehrenberg/KNIX 106.3.png",
             url: "https://stream.revma.ihrhls.com/zc49/hls.m3u8"
