@@ -3441,7 +3441,7 @@ var stations = {
         {
             name: "Radyo Fenomen",
             logo: "stations/images-europe/turkey/Radyo Fenomen.png",
-            url: "http://195.142.3.84/fenomen/fenomenweb_mpeg_128_home/icecast.audio"
+            url: "https://listen.radyofenomen.com/fenomen/128/icecast.audio"
         },
         {
             name: "Show Radyo",
