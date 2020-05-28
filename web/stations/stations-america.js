@@ -15705,8 +15705,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WKLBFMAAC_SC"
         },
         {
-            name: "103.3 AMP Radio",
-            logo: "stations/images-america/c2c/boston_ma/103.3 AMP Radio.png",
+            name: "BIG 103",
+            logo: "stations/images-america/c2c/boston_ma/BIG 103.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WODSFMAAC_SC"
         },
         {
