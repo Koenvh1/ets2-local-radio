@@ -3394,17 +3394,22 @@ var stations = {
         {
             name: "TRT Radyo 1",
             logo: "stations/images-europe/turkey/TRT Radyo 1.png",
-            url: "http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8"
+            url: "https://radio-trtradyo1.live.trt.com.tr/master_128.m3u8"
         },
         {
             name: "TRT FM",
             logo: "stations/images-europe/turkey/TRT FM.png",
-            url: "http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8"
+            url: "https://radio-trtfm.live.trt.com.tr/master_128.m3u8"
+        },
+        {
+            name: "TRT Radyo 3",
+            logo: "stations/images-europe/turkey/TRT Radyo 3.png",
+            url: "https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8"
         },
         {
             name: "TRT Türkü",
             logo: "stations/images-europe/turkey/TRT Türkü.png",
-            url: "http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8"
+            url: "https://radio-trtturku.live.trt.com.tr/master_128.m3u8"
         },
         {
             name: "Best FM",
@@ -3441,7 +3446,7 @@ var stations = {
         {
             name: "Radyo Fenomen",
             logo: "stations/images-europe/turkey/Radyo Fenomen.png",
-            url: "http://195.142.3.84/fenomen/fenomenweb_mpeg_128_home/icecast.audio"
+            url: "https://listen.radyofenomen.com/fenomen/128/icecast.audio"
         },
         {
             name: "Show Radyo",
