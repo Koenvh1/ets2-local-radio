@@ -3403,7 +3403,7 @@ var stations = {
         },
         {
             name: "TRT Radyo 3",
-            logo: "stations/images-europe/turkey/TRT Radyo-3.png",
+            logo: "stations/images-europe/turkey/TRT Radyo 3.png",
             url: "https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8"
         },
         {
