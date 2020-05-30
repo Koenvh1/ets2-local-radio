@@ -3407,22 +3407,35 @@ var stations = {
             url: "https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8"
         },
         {
+            name: "TRT Nağme",
+            logo: "stations/images-europe/turkey/TRT Nağme.png",
+            url: "https://radio-trtnagme.live.trt.com.tr/master_128.m3u8"
+        },    
+        {
             name: "TRT Türkü",
             logo: "stations/images-europe/turkey/TRT Türkü.png",
             url: "https://radio-trtturku.live.trt.com.tr/master_128.m3u8"
         },
         {
+            name: "TRT Radyo Haber",
+            logo: "stations/images-europe/turkey/TRT Radyo Haber.png",
+            url: "https://radio-trtradyohaber.live.trt.com.tr/master_128.m3u8"
+        },    
+        {
             name: "Best FM",
             logo: "stations/images-europe/turkey/Best FM.png",
             url: "http://46.20.7.125:80/;"
         },
-        /*
+        {
+            name: "Alem FM",
+            logo: "stations/images-europe/turkey/Alem FM.jpg",
+            url: "https://turkmedya.radyotvonline.net/hls/media_MlFo3hxm_15.aac"
+        },
         {
             name: "Bloomberg HT Radyo",
             logo: "stations/images-europe/turkey/Bloomberg HT Radyo.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
+            url: "https://radyodinle.turkhosted.com/live/bloombergradyo_1.m3u8/icecast.audio?tkn=3vJbEtllEmKA9QX-fC1BUg&tms=1590881098"
         },
-        */
         {
             name: "Kral FM",
             logo: "stations/images-europe/turkey/Kral FM.jpg",
@@ -3433,6 +3446,26 @@ var stations = {
             logo: "stations/images-europe/turkey/Metro FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3"
         },
+        {
+            name: "Power FM",
+            logo: "stations/images-europe/turkey/Power FM.png",
+            url: "https://listen.powerapp.com.tr/powerfm/mpeg/icecast.audio?/;stream.mp3"
+        },
+        {
+            name: "Powertürk FM",
+            logo: "stations/images-europe/turkey/Powertürk FM.png",
+            url: "https://listen.powerapp.com.tr/powerturk/mpeg/icecast.audio?/;stream.mp3"
+        },
+        {
+            name: "Joytürk FM",
+            logo: "stations/images-europe/turkey/Joytürk FM.png",
+            url: "https://17753.live.streamtheworld.com/JOY_TURK_SC?/;"
+        },
+        {
+            name: "Joy FM",
+            logo: "stations/images-europe/turkey/Joy FM.png",
+            url: "https://17733.live.streamtheworld.com/JOY_FM2AAC_SC?/;stream.mp3"
+        },    
         {
             name: "NTV Radyo",
             logo: "stations/images-europe/turkey/NTV Radyo.png",
@@ -3458,6 +3491,11 @@ var stations = {
             logo: "stations/images-europe/turkey/Süper FM.jpg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
         },
+        {
+            name: "Virgin Radio Türkiye",
+            logo: "stations/images-europe/turkey/Virgin Radio Türkiye.png",
+            url: "https://17753.live.streamtheworld.com/VIRGIN_RADIO_SC?/;stream.mp3"
+        },    
     ],
     "uk": [
         {
