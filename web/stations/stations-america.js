@@ -617,7 +617,7 @@ var stations = {
     ],
     "carlsbad": [
         {
-            name: "KKSM AM1320",
+            name: "KKSM 1320",
             logo: "stations/images-america/carlsbad/KKSM AM1320.png",
             url: "http://streaming.live365.com/a61597"
         },
@@ -12311,8 +12311,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wjltfmaac-ibc3"
         },
         {
-            name: "106.1 KISS FM",
-            logo: "stations/images-america/c2c/evansville_in/106.1 KISS FM.png",
+            name: "KISS 106",
+            logo: "stations/images-america/c2c/evansville_in/KISS 106.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wdksfmaac-ibc3"
         },
         {
@@ -25155,13 +25155,13 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4878/hls.m3u8"
         },
         {
-            name: "650 AM WSM",
-            logo: "stations/images-america/c2c/nashville_tn/650 AM WSM.png",
+            name: "650 WSM",
+            logo: "stations/images-america/c2c/nashville_tn/650 WSM.png",
             url: "http://stream01048.westreamradio.com/wsm-am-mp3"
         },
         {
-            name: "1430 WPLN AM News",
-            logo: "stations/images-america/c2c/nashville_tn/1430 WPLN AM News.png",
+            name: "1430 WPLN News",
+            logo: "stations/images-america/c2c/nashville_tn/1430 WPLN News.png",
             url: "https://wpln.streamguys1.com/wplnam.mp3"
         },
         {
@@ -25961,8 +25961,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-klaqhd2fmaac-ibc3"
         },
         {
-            name: "96.3 KHEY Country",
-            logo: "stations/images-america/c2c/elpaso_tx/96.3 KHEY Country.png",
+            name: "96.3 KHEY",
+            logo: "stations/images-america/c2c/elpaso_tx/96.3 KHEY.png",
             url: "https://stream.revma.ihrhls.com/zc3192/hls.m3u8"
         },
         {
@@ -26016,8 +26016,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
         },
         {
-            name: "Lone Star Sports Radio 920 AM",
-            logo: "stations/images-america/c2c/elpaso_tx/Lone Star Sports Radio 920 AM.png",
+            name: "Lone Star Sports Radio 920",
+            logo: "stations/images-america/c2c/elpaso_tx/Lone Star Sports Radio 920.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQBUAMAAC_SC"
         },
         {
@@ -26316,8 +26316,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7174_48k.aac"
         },
         {
-            name: "KRFE AM580",
-            logo: "stations/images-america/c2c/lubbock_tx/KRFE AM580.png",
+            name: "KRFE 580",
+            logo: "stations/images-america/c2c/lubbock_tx/KRFE 580.png",
             url: "http://crystalout.surfernetwork.com:8001/KRFE-AM_MP3"
         },
         {
@@ -26363,8 +26363,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7200_48k.aac"
         },
         {
-            name: "Newstalk KCRS 97.5",
-            logo: "stations/images-america/c2c/midland_tx/Newstalk KCRS 97.5.png",
+            name: "KCRS 97.5",
+            logo: "stations/images-america/c2c/midland_tx/KCRS 97.5.png",
             url: "http://ice5.securenetsystems.net:80/KCRSAM"
         },
         {
