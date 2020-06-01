@@ -3356,6 +3356,24 @@ var country_properties_c2c = {
         code: "us-mi",
         relative_radius: 1.2
     },
+    "saginaw_mi": {
+        name: "Saginaw",
+        name_english: "Saginaw",
+        code: "us-mi",
+        relative_radius: 1.2
+    },
+    "traversecity_mi": {
+        name: "Traverse City",
+        name_english: "Traverse City",
+        code: "us-mi",
+        relative_radius: 1.2
+    },
+    "alpena_mi": {
+        name: "Alpena",
+        name_english: "Alpena",
+        code: "us-mi",
+        relative_radius: 1.2
+    },
     "minnesota": {
         name: "minnesota",
         name_english: "minnesota",
@@ -5018,6 +5036,15 @@ var city_properties_c2c = {
     "lansing_mi": {
         relative_whitenoise: 0.95
     },
+    "saginaw_mi": {
+        relative_whitenoise: 0.95
+    },
+    "traversecity_mi": {
+        relative_whitenoise: 0.95
+    },
+    "alpena_mi": {
+        relative_whitenoise: 0.95
+    },
     "minnesota": {
         relative_whitenoise: 0.95
     },
@@ -6553,6 +6580,30 @@ var cities_c2c = [
         "x": "47542.9",
         "y": "21.7963",
         "z": "-24402.9"
+    },
+    {
+        "gameName": "saginaw_mi",
+        "realName": "Saginaw",
+        "country": "michigan",
+        "x": "48749.9",
+        "y": "105",
+        "z": "-28386.9"
+    },
+    {
+        "gameName": "traversecity_mi",
+        "realName": "Traverse City",
+        "country": "michigan",
+        "x": "41267.3",
+        "y": "55.9375",
+        "z": "-34538.1"
+    },
+    {
+        "gameName": "alpena_mi",
+        "realName": "Alpena",
+        "country": "michigan",
+        "x": "49828.8",
+        "y": "48.7539",
+        "z": "-37610.9"
     },
     {
         "gameName": "bemidji",

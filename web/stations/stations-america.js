@@ -16335,6 +16335,147 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://ic2.sslstream.com/wils-am"
         },
     ],
+    "saginaw_mi": [
+        {
+            name: "Q90.1",
+            logo: "stations/images-america/c2c/saginaw_mi/Q90.1.png",
+            url: "https://wucx.streamguys1.com/live"
+        },
+        {
+            name: "WCMU 90.1-HD2",
+            logo: "stations/images-america/c2c/saginaw_mi/WCMU 90.1-HD2.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCMUHD2_SC"
+        },
+        {
+            name: "Z93",
+            logo: "stations/images-america/c2c/saginaw_mi/Z93.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKQZFMAAC_SC"
+        },
+        {
+            name: "Club 93.7",
+            logo: "stations/images-america/c2c/saginaw_mi/Club 93.7.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-wrclfmaac-ibc3"
+        },
+        {
+            name: "My 96.1",
+            logo: "stations/images-america/c2c/saginaw_mi/My 96.1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WHNNFMAAC_SC"
+        },
+        {
+            name: "102.5 WIOG",
+            logo: "stations/images-america/c2c/saginaw_mi/102.5 WIOG.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIOGFMAAC_SC"
+        },
+        {
+            name: "Classic Fox 103.9",
+            logo: "stations/images-america/c2c/saginaw_mi/Classic Fox 103.9.png",
+            url: "https://rocket.surfernetwork.com:10001/live/wrsr-fm_aac/playlist.m3u8"
+        },
+        {
+            name: "Wheelz 104.5",
+            logo: "stations/images-america/c2c/saginaw_mi/Wheelz 104.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WILZFMAAC_SC"
+        },
+        {
+            name: "CK 105.5",
+            logo: "stations/images-america/c2c/saginaw_mi/CK 105.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WWCKFMAAC_SC"
+        },
+    ],
+    "traversecity_mi": [
+        {
+            name: "Classical IPR 88.7",
+            logo: "stations/images-america/c2c/traversecity_mi/IPR.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIAAFM_SC"
+        },
+        {
+            name: "WNMC 90.7",
+            logo: "stations/images-america/c2c/traversecity_mi/WNMC 90.7.png",
+            url: "http://107.182.231.73:7170/;"
+        },
+        {
+            name: "IPR News 91.5",
+            logo: "stations/images-america/c2c/traversecity_mi/IPR.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM_SC"
+        },
+        {
+            name: "Z93",
+            logo: "stations/images-america/c2c/traversecity_mi/Z93.png",
+            url: "https://ice23.securenetsystems.net/WJZQ"
+        },
+        {
+            name: "ROCK 95.5",
+            logo: "stations/images-america/c2c/traversecity_mi/ROCK 95.5.png",
+            url: "https://live.wostreaming.net/manifest/northernstarbroadcasting-wgfmfmaac-ibc1"
+        },
+        {
+            name: "KLT 97.5",
+            logo: "stations/images-america/c2c/traversecity_mi/KLT 97.5.png",
+            url: "https://live.wostreaming.net/manifest/northern-wkltfmaac-ibc2"
+        },
+        {
+            name: "98.1 The Bear",
+            logo: "stations/images-america/c2c/traversecity_mi/98.1 The Bear.png",
+            url: "https://live.wostreaming.net/manifest/northernstarbroadcasting-wgfnfm48aac-ibc1"
+        },
+        {
+            name: "WTCM 103.5",
+            logo: "stations/images-america/c2c/traversecity_mi/WTCM 103.5.png",
+            url: "https://ice24.securenetsystems.net/WTCMFM"
+        },
+        {
+            name: "106.3 North FM",
+            logo: "stations/images-america/c2c/traversecity_mi/106.3 North FM.png",
+            url: "https://ice23.securenetsystems.net/WWMN"
+        },
+        {
+            name: "580 WTCM",
+            logo: "stations/images-america/c2c/traversecity_mi/580 WTCM.png",
+            url: "https://ice64.securenetsystems.net/WTCM"
+        },
+        {
+            name: "WCCW 1310",
+            logo: "stations/images-america/c2c/traversecity_mi/WCCW 1310.png",
+            url: "https://ice24.securenetsystems.net/WCCW"
+        },
+    ],
+    "alpena_mi": [
+        {
+            name: "WCMU 91.7",
+            logo: "stations/images-america/c2c/alpena_mi/WCMU 91.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCMUFM_SC"
+        },
+        {
+            name: "94.9 Hits FM",
+            logo: "stations/images-america/c2c/alpena_mi/94.9 Hits FM.png",
+            url: "https://ice8.securenetsystems.net/WQLB"
+        },
+        {
+            name: "WATZ 99.3",
+            logo: "stations/images-america/c2c/alpena_mi/WATZ 99.3.png",
+            url: "https://ice24.securenetsystems.net/WATZ"
+        },
+        {
+            name: "99.9 The Wave",
+            logo: "stations/images-america/c2c/alpena_mi/99.9 The Wave.png",
+            url: "https://ice23.securenetsystems.net/WHAKFM"
+        },
+        {
+            name: "Eagle 101.5",
+            logo: "stations/images-america/c2c/alpena_mi/Eagle 101.5.png",
+            url: "http://173.193.205.96:7473/stream"
+        },
+        {
+            name: "WKJC 104.7",
+            logo: "stations/images-america/c2c/alpena_mi/WKJC 104.7.png",
+            url: "https://ice7.securenetsystems.net/WKJC"
+        },
+        {
+            name: "107.7 The Bay",
+            logo: "stations/images-america/c2c/alpena_mi/107.7 The Bay.png",
+            url: "https://ice9.securenetsystems.net/WHSB"
+        },
+    ],
     "bemidji": [
         {
             name: "Classical MPR 88.5",
