@@ -24593,12 +24593,12 @@ var stations_c2c = {
         },
         {
             name: "BIG 95.3",
-            logo: "stations/images-america/c2c/chattanooga_tn/BIG 95.3.png",
+            logo: "stations/images-america/c2c/chattanooga_tn/Big 95.3.png",
             url: "https://live.wostreaming.net/direct/brewerchattanooga-wplzfmaac-ibc4"
         },
         {
             name: "REAL 96.1",
-            logo: "stations/images-america/c2c/chattanooga_tn/REAL 96.1.png",
+            logo: "stations/images-america/c2c/chattanooga_tn/Real 96.1.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2_SC"
         },
         {
