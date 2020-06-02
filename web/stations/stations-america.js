@@ -12326,8 +12326,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WLHKFMAAC_SC"
         },
         {
-            name: "97.5 KISS FM",
-            logo: "stations/images-america/c2c/indianapolis_in/97.5 KISS FM.png",
+            name: "Business News 97.5",
+            logo: "stations/images-america/c2c/indianapolis_in/Business News 97.5.png",
             url: "https://stream.revma.ihrhls.com/zc8376/hls.m3u8"
         },
         {
@@ -24463,8 +24463,8 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/KTOQ"
         },
         {
-            name: "Star 106.3",
-            logo: "stations/images-america/c2c/rapid_city_sd/Star 106.3.png",
+            name: "Z106.3",
+            logo: "stations/images-america/c2c/rapid_city_sd/Z106.3.png",
             url: "http://crystalout.surfernetwork.com:8001/KZLK-FM_MP3"
         },
         {
