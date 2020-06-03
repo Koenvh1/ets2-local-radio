@@ -25236,8 +25236,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KABWFMAAC_SC"
         },
         {
-            name: "96Q",
-            logo: "stations/images-america/c2c/abilene_tx/96Q.png",
+            name: "QCountry 96.1",
+            logo: "stations/images-america/c2c/abilene_tx/QCountry 96.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KORQFMAAC_SC"
         },
         {
