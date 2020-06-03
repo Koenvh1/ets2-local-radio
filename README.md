@@ -94,9 +94,11 @@ see the custom stations example file for the format.
 
 Generally speaking, I (Koen) will maintain the stations for ETS2. [Marcus](https://github.com/04Marcus) maintains the stations for ATS.
 The map mods for ATS are maintained by:
-* Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
+* Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806) (not updated at the moment)
 * Coast to Coast - [Avondale Trucking](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=167308)
 * Canadream - veso266 and Marcus
+
+Want to participate? Great! Just open an issue.
 
 ##### How about Project Balkans, Open Spaces, or YKS Turkey?
 A persisting problem is that some maps are incompatible with each other.
