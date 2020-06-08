@@ -25047,8 +25047,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRBOFMAAC_SC"
         },
         {
-            name: "Memphis Soul 104.1",
-            logo: "stations/images-america/c2c/memphis_tn/Memphis Soul 104.1.png",
+            name: "Bumpin 104.1",
+            logo: "stations/images-america/c2c/memphis_tn/Bumpin 104.1.png",
             url: "http://stream1.flinn.com:8000/1041FM.aac"
         },
         {
