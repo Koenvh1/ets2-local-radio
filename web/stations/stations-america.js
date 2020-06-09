@@ -340,7 +340,7 @@ var stations = {
         {
             name: "ALT 106.1",
             logo: "stations/images-america/bakersfield/ALT 106.1.png",
-            url: "https://stream.revma.ihrhls.com/zc3326/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc3236/hls.m3u8"
         },
         {
             name: "KUZZ 107.9",
@@ -2210,7 +2210,7 @@ var stations = {
         },
         {
             name: "101.5 The Wave",
-            logo: "stations/images-america/longview/101.5 The Wave.png",
+            logo: "stations/images-america/longview/101.5 THE WAVE.png",
             url: "http://www.streamcontrol.net:11070/live"
         },
         {
@@ -2557,7 +2557,7 @@ var stations = {
         {
             name: "93.7 Now FM",
             logo: "stations/images-america/medford/93.7 Now FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTMTFMAAC_SC"
+            url: "https://ice6.securenetsystems.net/KTMT"
         },
         {
             name: "95.7 KBOY",
@@ -2679,8 +2679,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFLYFMAAC_SC"
         },
         {
-            name: "Alternative 103.7",
-            logo: "stations/images-america/eugene/Alternative 103.7.png",
+            name: "103.7 KNRQ",
+            logo: "stations/images-america/eugene/103.7 KNRQ.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC_SC"
         },
         {
@@ -3385,12 +3385,12 @@ var stations = {
             url: "http://stream1.opb.org/opbmusic_player.mp3"
         },
         {
-            name: "94/7 FM",
+            name: "94.7 FM",
             logo: "stations/images-america/portland/94.7 FM.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNRKFMAAC_SC"
         },
         {
-            name: "94/7 Too",
+            name: "94.7 Too",
             logo: "stations/images-america/portland/94.7 FM too.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNRKHD2AAC_SC"
         },
