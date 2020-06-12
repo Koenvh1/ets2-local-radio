@@ -686,8 +686,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
-            name: "96.5 Alice",
-            logo: "stations/images-america/reno/96.5 Alice.png",
+            name: "Alice 96.5",
+            logo: "stations/images-america/reno/Alice 96.5.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -1172,8 +1172,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
-            name: "96.5 Alice",
-            logo: "stations/images-america/reno/96.5 Alice.png",
+            name: "Alice 96.5",
+            logo: "stations/images-america/reno/Alice 96.5.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -2508,8 +2508,8 @@ var stations = {
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
-            name: "96.5 Alice",
-            logo: "stations/images-america/reno/96.5 Alice.png",
+            name: "Alice 96.5",
+            logo: "stations/images-america/reno/Alice 96.5.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
@@ -3727,8 +3727,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
-            name: "96.5 Alice",
-            logo: "stations/images-america/reno/96.5 Alice.png",
+            name: "Alice 96.5",
+            logo: "stations/images-america/reno/Alice 96.5.png",
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
