@@ -21,7 +21,7 @@ var country_properties = {
         name: "Artesia",
         name_english: "Artesia",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "astoria": {
         name: "Astoria",
@@ -105,7 +105,7 @@ var country_properties = {
         name: "Clovis",
         name_english: "Clovis",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "colville": {
         name: "Colville",
@@ -483,7 +483,7 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "santa_maria": {
         name: "Santa Maria",
@@ -531,7 +531,7 @@ var country_properties = {
         name: "Socorro",
         name_english: "Socorro",
         code: "us-nm",
-        relative_radius: 1.35
+        relative_radius: 0.9
     },
     "spokane": {
         name: "Spokane",
@@ -4244,17 +4244,11 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 1.1
     },
-    "adrian_tx": {
-        name: "adrian_tx",
-        name_english: "adrian_tx",
-        code: "us-tx",
-        relative_radius: 1.0
-    },
     "amarillo": {
         name: "amarillo",
         name_english: "amarillo",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.2
     },
     "austin_tx": {
         name: "austin_tx",
@@ -4290,13 +4284,13 @@ var country_properties_c2c = {
         name: "Corpus Christi",
         name_english: "Corpus Christi",
         code: "us-tx",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "dallas": {
         name: "dallas",
         name_english: "dallas",
         code: "us-tx",
-        relative_radius: 1.2
+        relative_radius: 1.4
     },
     "dalhart_tx": {
         name: "dalhart_tx",
@@ -4320,13 +4314,13 @@ var country_properties_c2c = {
         name: "elpaso",
         name_english: "elpaso",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "houston": {
         name: "houston",
         name_english: "houston",
         code: "us-tx",
-        relative_radius: 1.2
+        relative_radius: 1.4
     },
     "kerrville": {
         name: "kerrville",
@@ -4344,7 +4338,7 @@ var country_properties_c2c = {
         name: "lubbock",
         name_english: "lubbock",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.2
     },
     "midland_tx": {
         name: "midland_tx",
@@ -4352,17 +4346,11 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 1.0
     },
-    "plainview_tx": {
-        name: "plainview_tx",
-        name_english: "plainview_tx",
-        code: "us-tx",
-        relative_radius: 1.0
-    },
     "sanantonio": {
         name: "sanantonio",
         name_english: "sanantonio",
         code: "us-tx",
-        relative_radius: 1.2
+        relative_radius: 1.4
     },
     "shamrock": {
         name: "shamrock",
@@ -4416,7 +4404,7 @@ var country_properties_c2c = {
         name: "wichita_falls",
         name_english: "wichita_falls",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.2
     },
     "vermont": {
         name: "vermont",
@@ -5453,9 +5441,6 @@ var city_properties_c2c = {
     "abilene": {
         relative_whitenoise: 0.95
     },
-    "adrian_tx": {
-        relative_whitenoise: 0.95
-    },
     "amarillo": {
         relative_whitenoise: 0.95
     },
@@ -5505,9 +5490,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "midland_tx": {
-        relative_whitenoise: 0.95
-    },
-    "plainview_tx": {
         relative_whitenoise: 0.95
     },
     "sanantonio": {
@@ -7569,14 +7551,6 @@ var cities_c2c = [
         "z": "37702.7"
     },
     {
-        "gameName": "adrian_tx",
-        "realName": "Adrian",
-        "country": "texas",
-        "x": "-30424.5",
-        "y": "137.148",
-        "z": "20411"
-    },
-    {
         "gameName": "amarillo",
         "realName": "Amarillo",
         "country": "texas",
@@ -7711,14 +7685,6 @@ var cities_c2c = [
         "x": "-28614.5",
         "y": "31.6219",
         "z": "38784.6"
-    },
-    {
-        "gameName": "plainview_tx",
-        "realName": "Plainview",
-        "country": "texas",
-        "x": "-26527.1",
-        "y": "110.047",
-        "z": "26426.1"
     },
     {
         "gameName": "sanantonio",

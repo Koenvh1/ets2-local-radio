@@ -137,7 +137,7 @@ var stations = {
         {
             name: "99.9 The Beat",
             logo: "stations/images-america/albuquerque/99.9 The Beat.png",
-            url: "http://jellyfish.juststreamwith.us:8064/;"
+            url: "https://ice42.securenetsystems.net/KMGG"
         },
         {
             name: "100.3 The Peak",
@@ -4084,7 +4084,7 @@ var stations = {
         {
             name: "NOW 97.9",
             logo: "stations/images-america/salt_lake/NOW 97.9.png",
-            url: "http://crystalout.surfernetwork.com:8001/KBZN_MP3"
+            url: "ttps://ais-sa3.cdnstream1.com/2283_96.aac"
         },
         {
             name: "VFX 98.3",
@@ -4236,36 +4236,6 @@ var stations = {
     ],
     "santa_fe": [
         {
-            name: "KANW 89.1",
-            logo: "stations/images-america/albuquerque/KANW 89.1.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
-        },
-        {
-            name: "KUNM 89.9",
-            logo: "stations/images-america/albuquerque/KUNM 89.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
-        },
-        {
-            name: "92.3 KRST",
-            logo: "stations/images-america/albuquerque/92.3 KRST.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFMAAC_SC"
-        },
-        {
-            name: "93.3 The Q",
-            logo: "stations/images-america/albuquerque/93.3 The Q.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KOBQFMAAC_SC"
-        },
-        {
-            name: "KIVA 93.7",
-            logo: "stations/images-america/albuquerque/KIVA 93.7.png",
-            url: "http://uk1.internet-radio.com:15889/live"
-        },
-        {
-            name: "94 Rock",
-            logo: "stations/images-america/albuquerque/94 Rock.png",
-            url: "https://stream.revma.ihrhls.com/zc1405/hls.m3u8"
-        },
-        {
             name: "95.5 KHFM",
             logo: "stations/images-america/santa_fe/95.5 KHFM.png",
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
@@ -4274,16 +4244,6 @@ var stations = {
             name: "96.3 Nash Icon",
             logo: "stations/images-america/santa_fe/96.3 Nash Icon.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBZUFMAAC_SC"
-        },
-        {
-            name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/Magic 99.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC_SC"
-        },
-        {
-            name: "100.3 The Peak",
-            logo: "stations/images-america/albuquerque/100.3 The Peak.png",
-            url: "https://stream.revma.ihrhls.com/zc1389/hls.m3u8"
         },
         {
             name: "KSFR 101.1",
@@ -4296,49 +4256,14 @@ var stations = {
             url: "https://58f14b372a413.streamlock.net:444/ktao/ktao.stream_aac/playlist.m3u8"
         },
         {
-            name: "103.3 eD FM",
-            logo: "stations/images-america/albuquerque/103.3 eD FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDRFFMAAC_SC"
-        },
-        {
-            name: "104.1 The Edge",
-            logo: "stations/images-america/albuquerque/104.1 The Edge.png",
-            url: "https://stream.revma.ihrhls.com/zc1397/hls.m3u8"
-        },
-        {
-            name: "Mix 105.1",
-            logo: "stations/images-america/albuquerque/Mix 105.1.png",
-            url: "https://live.wostreaming.net/direct/agmedia28-kkrgfmaac-ibc3"
-        },
-        {
-            name: "La Suavecita 105.9",
-            logo: "stations/images-america/albuquerque/La Suavecita 105.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRZYFMAAC_SC"
-        },
-        {
             name: "KDCE 106.3",
             logo: "stations/images-america/santa_fe/KDCE 106.3.png",
             url: "https://streamer.radio.co/s69ad365c4/listen"
         },
         {
-            name: "770 KKOB",
-            logo: "stations/images-america/albuquerque/770 KKOB.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
-        },
-        {
-            name: "1050 KTBL",
-            logo: "stations/images-america/albuquerque/1050 KTBL.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC_SC"
-        },
-        {
             name: "1260 KTRC",
             logo: "stations/images-america/santa_fe/1260 KTRC.png",
             url: "http://70.90.203.89:8080/;"
-        },
-        {
-            name: "iHeart Podcast 1350",
-            logo: "stations/images-america/albuquerque/iHeart Podcast 1350.png",
-            url: "https://stream.revma.ihrhls.com/zc1401/hls.m3u8"
         },
     ],
     "santa_maria": [
@@ -25358,13 +25283,6 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kixzamaac-ibc3"
         },
     ],
-    "adrian_tx": [
-        {
-            name: "NewsTalk 940",
-            logo: "stations/images-america/c2c/amarillo_tx/NewsTalk 940.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kixzamaac-ibc3"
-        },
-    ],
     "austin_tx": [
         {
             name: "KAZI 88.7",
@@ -26350,8 +26268,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kziifmaac-ibc3"
         },
         {
-            name: "105.7 The Red Dirt Rebel",
-            logo: "stations/images-america/c2c/lubbock_tx/105.7 The Red Dirt Rebel.png",
+            name: "Red Dirt Rebel 105.7",
+            logo: "stations/images-america/c2c/lubbock_tx/Red Dirt Rebel 105.7.png",
             url: "https://ice8.securenetsystems.net/KRBL"
         },
         {
@@ -26460,13 +26378,6 @@ var stations_c2c = {
             name: "Fox Sports 1510",
             logo: "stations/images-america/c2c/midland_tx/Fox Sports 1510.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmndamaac-ibc3"
-        },
-    ],
-    "plainview_tx": [
-        {
-            name: "Red Dirt Rebel 105.7",
-            logo: "stations/images-america/c2c/plainview_tx/Red Dirt Rebel 105.7.png",
-            url: "https://ice8.securenetsystems.net/KRBL"
         },
     ],
     "sanantonio": [
