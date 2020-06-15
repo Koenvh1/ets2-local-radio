@@ -26969,6 +26969,16 @@ var stations_c2c = {
             url: "https://nebcoradio.com:8443/WWMP"
         },
         {
+            name: "JUMP 103.7",
+            logo: "stations/images-america/c2c/burlington_vt/Jump 103.7.png",
+            url: "https://n02.radiojar.com/s6m9cbkd22quv"
+        },
+        {
+            name: "‎Froggy 104.3",
+            logo: "stations/images-america/c2c/burlington_vt/Froggy 104.3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice5.securenetsystems.net/WWFY"
+        },
+        {
             name: "‎The Point 104.7",
             logo: "stations/images-america/c2c/lebanon_nh/The Point 107.7.png",
             url: "https://nebcoradio.com:8443/WNCS"
