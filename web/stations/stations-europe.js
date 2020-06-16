@@ -3242,7 +3242,7 @@ var stations = {
         {
             name: "Star FM",
             logo: "stations/images-europe/sweden/Star FM.png",
-            url: "https://starfm.babahhcdn.com/starfm"
+            url: "http://fm05-ice.stream.khz.se/fm05_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1592336715"
         },
         {
             name: "Vinyl FM",
