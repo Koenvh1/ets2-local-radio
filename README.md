@@ -53,7 +53,7 @@ Each country has its own (random) colour, to make it easier to see the differenc
 ### What is the PeerID and what does it do? / Can I use my phone/tablet to control the radio?
 The PeerID is an ID that identifies that instance of ATS/ETS2 Local Radio. 
 It allows you to control Local Radio from another device, like a phone or tablet.
-Simply go to the URL shown in the server on your phone or tablet, click "Connect to another device", 
+Simply go to the URL shown in the server on your phone or tablet (e.g. http://localradio.koenvh.nl/?api=http://xxx.xxx.xxx.xxx:xxxx), click "Connect to another device", 
 enter your computer's PeerID and you're ready to go.
 All input on your second device will be redirected to your computer.
 
