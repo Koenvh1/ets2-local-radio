@@ -15,7 +15,7 @@ var country_properties = {
         name: "Albuquerque",
         name_english: "Albuquerque",
         code: "us-nm",
-        relative_radius: 1.4
+        relative_radius: 1.3
     },
     "artesia": {
         name: "Artesia",
@@ -483,13 +483,19 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "santa_maria": {
         name: "Santa Maria",
         name_english: "Santa Maria",
         code: "us-ca",
         relative_radius: 0.9
+    },
+    "santa_rosa_nm": {
+        name: "Santa Rosa",
+        name_english: "Santa Rosa",
+        code: "us-nm",
+        relative_radius: 1.0
     },
     "san_diego": {
         name: "San Diego",
@@ -875,6 +881,9 @@ var city_properties = {
     "santa_maria": {
         relative_whitenoise: 0.95
     },
+    "santa_rosa_nm": {
+        relative_whitenoise: 0.95
+    },
     "san_diego": {
         relative_whitenoise: 0.80
     },
@@ -1252,6 +1261,14 @@ var cities = [
         "x": "-111657",
         "y": "60",
         "z": "8655.99"
+    },
+    {
+        "gameName": "santa_rosa_nm",
+        "realName": "Santa Rosa",
+        "country": "new_mexico",
+        "x": "-39338.3",
+        "y": "79.4758",
+        "z": "21093.7"
     },
     {
         "gameName": "san_diego",
