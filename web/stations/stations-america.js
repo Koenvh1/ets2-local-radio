@@ -22790,8 +22790,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KOSUFM_NEWS_SC"
         },
         {
-            name: "107.9 The Franchise",
-            logo: "stations/images-america/c2c/tulsa_ok/107.9 The Franchise.png",
+            name: "Ritmo 107.9",
+            logo: "stations/images-america/c2c/tulsa_ok/Ritmo 107.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRXOAMAAC_SC"
         },
     ],
