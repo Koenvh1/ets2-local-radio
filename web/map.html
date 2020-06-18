@@ -31,12 +31,8 @@
         var game = "ets2";
         var url = new URL(window.location);
         g_api = url.searchParams.get("api") || "";
+        game = url.searchParams.get("game") || "ets2";
 
-        if(window.location.href.split("?").length > 1) {
-            if (window.location.href.split("?")[1].indexOf("ats") == 0) {
-                game = "ats";
-            }
-        }
         $.getScript("stations/" + g_skinConfig[game].stations, function () {
             $.getScript("cities/" + g_skinConfig[game].map, function () {
                 $.getScript(g_api + "/custom.js").done(function () {
@@ -109,7 +105,7 @@
 
         $(".leaflet-control-layers-overlays").append("<a href='javascript:;' onclick='$(\".leaflet-control-layers-selector\").click()'>Toggle show/hide</a>");
 
-        map.attributionControl.addAttribution("<a href='javascript:showCurrentPosition()'>Show current location</a> | <a href='?ats'>ATS map</a>");
+        map.attributionControl.addAttribution("<a href='javascript:showCurrentPosition()'>Show current location</a> | <a href='?game=ats&api=" + g_api + "'>ATS map</a>");
 
         map.on("click", function (e) {
             console.log("X: " + e.latlng.lng + "; Y: " + -e.latlng.lat);
