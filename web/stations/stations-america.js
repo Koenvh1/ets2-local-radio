@@ -305,7 +305,7 @@ var stations = {
         {
             name: "Radio Bilingue 90.1",
             logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
-            url: "http://radio.radiobilingue.org:8000/;"
+            url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
             name: "Family Radio 91.3",
@@ -930,7 +930,7 @@ var stations = {
         {
             name: "Radio Bilingue 88.5",
             logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
-            url: "http://radio.radiobilingue.org:8000/;"
+            url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
             name: "KNIX 106.3",
@@ -1209,6 +1209,11 @@ var stations = {
             url: "http://69.39.14.19:8001/stream1"
         },
         {
+            name: "Fox Sports 93.9",
+            logo: "stations/images-america/farmington/Fox Sports 93.9.png",
+            url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
+        },
+        {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK 94.9.png",
             url: "http://ice41.securenetsystems.net:80/KWYKFM"
@@ -1219,9 +1224,24 @@ var stations = {
             url: "http://69.39.14.19:8000/kpcl"
         },
         {
-            name: "Star 102.9",
+            name: "96.9 The Dog",
+            logo: "stations/images-america/farmington/96.9 The Dog.png",
+            url: "https://stream.revma.ihrhls.com/zc5086/hls.m3u8"
+        },
+        {
+            name: "102 KTRA",
+            logo: "stations/images-america/farmington/102 KTRA.png",
+            url: "https://stream.revma.ihrhls.com/zc5090/hls.m3u8"
+        },
+        {
+            name: "STAR 102.9",
             logo: "stations/images-america/farmington/Star 102.9.png",
             url: "https://stream.revma.ihrhls.com/zc5082/hls.m3u8"
+        },
+        {
+            name: "KOOL 104.5",
+            logo: "stations/images-america/farmington/KOOL 104.5.png",
+            url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
         },
         {
             name: "XRock 105.3",
@@ -1233,7 +1253,7 @@ var stations = {
             logo: "stations/images-america/farmington/KLJH 107.1.png",
             url: "http://69.39.14.19:8002/kljh"
         },
-    ],
+    ], 
     "flagstaff": [
         {
             name: "KNAU 88.7",
@@ -3543,7 +3563,7 @@ var stations = {
         {
             name: "Radio Bilingue 88.9",
             logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
-            url: "http://radio.radiobilingue.org:8000/;"
+            url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
             name: "KRCC 91.7",
@@ -16354,6 +16374,11 @@ var stations_c2c = {
             name: "98.1 The Bear",
             logo: "stations/images-america/c2c/traversecity_mi/98.1 The Bear.png",
             url: "https://live.wostreaming.net/manifest/northernstarbroadcasting-wgfnfm48aac-ibc1"
+        },
+        {
+            name: "Q100",
+            logo: "stations/images-america/c2c/traversecity_mi/Q100.png",
+            url: "https://ice8.securenetsystems.net/WQON"
         },
         {
             name: "WTCM 103.5",
