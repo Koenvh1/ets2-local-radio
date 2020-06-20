@@ -2155,7 +2155,7 @@ var stations = {
         {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KALVFM_TLRAAC_SC"
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KXNTAM_SC"
         },
     ],
     "leevining": [
