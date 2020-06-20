@@ -972,8 +972,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
-            name: "FM 100.3",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -2152,6 +2152,11 @@ var stations = {
             logo: "stations/images-america/las_vegas/Star 107.9.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
         },
+        {
+            name: "840 KXNT",
+            logo: "stations/images-america/las_vegas/840 KXNT.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KALVFM_TLRAAC_SC"
+        },
     ],
     "leevining": [
         {
@@ -2339,6 +2344,11 @@ var stations = {
             name: "94.7 The Wave",
             logo: "stations/images-america/los_angeles/94.7 The Wave.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KTWVFMAAC_SC"
+        },
+        {
+            name: "Second Wave 94.7-HD2",
+            logo: "stations/images-america/los_angeles/Second Wave 94.7-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KTWVHD2AAC_SC"
         },
         {
             name: "95.5 KLOS",
@@ -2652,7 +2662,7 @@ var stations = {
             url: "http://audio.kuer.org:8000/high"
         },
         {
-            name: "K98.3 :: 94.3",
+            name: "K98.3 | 94.3",
             logo: "stations/images-america/price/K98.3.png",
             url: "https://www.ophanim.net:8444/s/7180"
         },
@@ -2662,17 +2672,17 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
-            name: "95.3 The Peak :: 100.3",
+            name: "95.3 The Peak | 100.3",
             logo: "stations/images-america/price/95.3 The Peak.png",
             url: "https://www.ophanim.net:8444/s/7190"
         },
         {
-            name: "Red Rock 92 :: 101.5",
+            name: "Red Rock 92 | 101.5",
             logo: "stations/images-america/moab/Redrock 92.png",
             url: "http://162.244.80.106:9068/stream"
         },
         {
-            name: "92.3 The Moose :: 102.1",
+            name: "92.3 The Moose | 102.1",
             logo: "stations/images-america/c2c/grand_junction_co/92.3 The Moose.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMOZFMAAC_SC"
         },
@@ -3304,8 +3314,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
         },
         {
-            name: "Commercial Free Christmas 107.9-HD2",
-            logo: "stations/images-america/phoenix/Commercial Free Christmas 107.9-HD2.png",
+            name: "New From Nashville 107.9-HD2",
+            logo: "stations/images-america/phoenix/New From Nashville 107.9-HD2.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMLEHD2AAC_SC"
         },
         {
@@ -3557,7 +3567,7 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KWSA"
         },
         {
-            name: "94.1 KODJ :: 101.7",
+            name: "94.1 KODJ | 101.7",
             logo: "stations/images-america/salt_lake/94.1 KODJ.png",
             url: "https://stream.revma.ihrhls.com/zc2393/hls.m3u8"
         },
@@ -3567,12 +3577,12 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KSLL"
         },
         {
-            name: "FM 100.3 :: 105.5",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3 | 105.5",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
-            name: "Z104 :: 106.3",
+            name: "Z104 | 106.3",
             logo: "stations/images-america/salt_lake/Z104.png",
             url: "http://ice7.securenetsystems.net/KSOPFM"
         },
@@ -4110,12 +4120,12 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
-            name: "FM 100.3 :: 103.1",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3 | 103.1",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
-            name: "97.1 ZHT :: 106.3",
+            name: "97.1 ZHT | 106.3",
             logo: "stations/images-america/salt_lake/97.1 ZHT.png",
             url: "https://stream.revma.ihrhls.com/zc2405/hls.m3u8"
         },
@@ -4202,13 +4212,13 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5159/hls.m3u8"
         },
         {
-            name: "My 99.5",
+            name: "my 99.5",
             logo: "stations/images-america/salt_lake/My 99.5.png",
             url: "https://stream.revma.ihrhls.com/zc2385/hls.m3u8"
         },
         {
-            name: "FM 100.3",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -4222,9 +4232,24 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBERFMAAC_SC"
         },
         {
+            name: "101.5 The Eagle",
+            logo: "stations/images-america/salt_lake/101.5 The Eagle.png",
+            url: "https://ais-sa1.streamon.fm/7169_48k.aac"
+        },
+        {
             name: "KSL NewsRadio 102.7",
             logo: "stations/images-america/salt_lake/KSL NewsRadio 102.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSLAMAAC_SC"
+        },
+        {
+            name: "103.1 The Wave",
+            logo: "stations/images-america/salt_lake/103.1 The Wave.png",
+            url: "https://ais-sa3.cdnstream1.com/2284_96.aac"
+        },
+        {
+            name: "103.5 The Arrow",
+            logo: "stations/images-america/salt_lake/103.5 The Arrow.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRSPFMAAC_SC"
         },
         {
             name: "Z104",
