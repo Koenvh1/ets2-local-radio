@@ -793,7 +793,7 @@ namespace ETS2_Local_Radio_server
                     currentGame = "ets2";
                     gameLabel.Text = "Euro Truck Simulator 2";
                     writeFile("game", "0", "0");
-                    Station.AttachProcess("eurotrucks2");
+                    //Station.AttachProcess("eurotrucks2");
                 }
                 ets2Found = true;
             }
@@ -804,7 +804,7 @@ namespace ETS2_Local_Radio_server
                     currentGame = "ats";
                     gameLabel.Text = "American Truck Simulator";
                     writeFile("game", "0", "0");
-                    Station.AttachProcess("amtrucks");
+                    //Station.AttachProcess("amtrucks");
                 }
                 atsFound = true;
             }
