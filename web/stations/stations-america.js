@@ -2662,7 +2662,7 @@ var stations = {
             url: "http://audio.kuer.org:8000/high"
         },
         {
-            name: "K98.3 / 94.3",
+            name: "K98.3 @ 94.3",
             logo: "stations/images-america/price/K98.3.png",
             url: "https://www.ophanim.net:8444/s/7180"
         },
@@ -2672,17 +2672,17 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
-            name: "95.3 The Peak / 100.3",
+            name: "95.3 The Peak @ 100.3",
             logo: "stations/images-america/price/95.3 The Peak.png",
             url: "https://www.ophanim.net:8444/s/7190"
         },
         {
-            name: "Red Rock 92 / 101.5",
+            name: "Redrock 92 @ 101.5",
             logo: "stations/images-america/moab/Redrock 92.png",
             url: "http://162.244.80.106:9068/stream"
         },
         {
-            name: "92.3 The Moose / 102.1",
+            name: "92.3 The Moose @ 102.1",
             logo: "stations/images-america/c2c/grand_junction_co/92.3 The Moose.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMOZFMAAC_SC"
         },
@@ -3567,7 +3567,7 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KWSA"
         },
         {
-            name: "94.1 KODJ / 101.7",
+            name: "94.1 KODJ @ 101.7",
             logo: "stations/images-america/salt_lake/94.1 KODJ.png",
             url: "https://stream.revma.ihrhls.com/zc2393/hls.m3u8"
         },
@@ -3577,12 +3577,12 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KSLL"
         },
         {
-            name: "FM100.3 / 105.5",
+            name: "FM100.3 @ 105.5",
             logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
-            name: "Z104 / 106.3",
+            name: "Z104 @ 106.3",
             logo: "stations/images-america/salt_lake/Z104.png",
             url: "http://ice7.securenetsystems.net/KSOPFM"
         },
@@ -4120,12 +4120,12 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
-            name: "FM100.3 / 103.1",
+            name: "FM100.3 @ 103.1",
             logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
-            name: "97.1 ZHT / 106.3",
+            name: "97.1 ZHT @ 106.3",
             logo: "stations/images-america/salt_lake/97.1 ZHT.png",
             url: "https://stream.revma.ihrhls.com/zc2405/hls.m3u8"
         },
@@ -9123,7 +9123,7 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTRSFMAAC_SC"
         },
         {
-            name: "True Oldies Y100.1 / 102.3-HD2",
+            name: "True Oldies Y100.1 @ 102.3-HD2",
             logo: "stations/images-america/c2c/gainesville_fl/True Oldies Y100.1 102.3-HD2.png",
             url: "https://ice42.securenetsystems.net/WXUSHD2"
         },
