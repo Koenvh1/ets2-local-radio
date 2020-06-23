@@ -125,6 +125,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1393/hls.m3u8"
         },
         {
+            name: "95.9 The Sports Animal",
+            logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC_SC"
+        },
+        {
             name: "96.3 KKOB",
             logo: "stations/images-america/albuquerque/96.3 KKOB.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
@@ -173,6 +178,11 @@ var stations = {
             name: "104.1 The Edge",
             logo: "stations/images-america/albuquerque/104.1 The Edge.png",
             url: "https://stream.revma.ihrhls.com/zc1397/hls.m3u8"
+        },
+        {
+            name: "Dance Nation 90s 104.1-HD2",
+            logo: "stations/images-america/albuquerque/Dance Nation 90s 104.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6946/hls.m3u8"
         },
         {
             name: "104.7 KABQ",
@@ -1403,8 +1413,13 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc137/hls.m3u8"
         },
         {
+            name: "Alternative Rewind Radio 96.7-HD2",
+            logo: "stations/images-america/fresno/Alternative Rewind Radio 96.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6950/hls.m3u8"
+        },
+        {
             name: "Mega 97.9",
-            logo: "stations/images-america/fresno/KMGV.png",
+            logo: "stations/images-america/fresno/Mega 97.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMGVFMAAC_SC"
         },
         {
@@ -1424,18 +1439,13 @@ var stations = {
         },
         {
             name: "99.3 NOW FM",
-            logo: "stations/images-america/fresno/99.3 NOW FM.png",
+            logo: "stations/images-america/fresno/99.3 Now FM.png",
             url: "https://ice9.securenetsystems.net/KWDO"
         },
         {
             name: "Y101",
             logo: "stations/images-america/fresno/Y101 FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWYEFMAAC_SC"
-        },
-        {
-            name: "KKDJ 102.3",
-            logo: "stations/images-america/fresno/KKDJ 102.3.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice9.securenetsystems.net/93KHJ"
         },
         {
             name: "102.7 The Wolf",
@@ -1446,6 +1456,11 @@ var stations = {
             name: "103.7 The Beat",
             logo: "stations/images-america/fresno/103.7 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc149/hls.m3u8"
+        },
+        {
+            name: "Fiesta Latina 103.7-HD2",
+            logo: "stations/images-america/fresno/Fiesta Latina 103.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7191/hls.m3u8"
         },
         {
             name: "New Rock 104.1",
@@ -9208,12 +9223,12 @@ var stations_c2c = {
             name: "96.1 WEJZ",
             logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
-        },/*
+        },
         {
             name: "97.3 El Patrón",
             logo: "stations/images-america/c2c/jacksonville_fl/97.3 El Patrón.png",
-            url: "no stream yet - 05/18/2020"
-        },*/
+            url: "https://stream.revma.ihrhls.com/zc8557/hls.m3u8"
+        },
         {
             name: "97.9 KISS FM",
             logo: "stations/images-america/c2c/jacksonville_fl/97.9 KISS FM.png",
