@@ -666,9 +666,9 @@ var stations = {
             url: "https://kunrstream.com:8443/live"
         },
         {
-            name: "Capital Public Radio 90.5",
+            name: "CapRadio News 90.5",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
             name: "ALT 92.1",
@@ -2528,9 +2528,9 @@ var stations = {
     ],
     "ltahoe": [
         {
-            name: "Capital Public Radio 88.1",
+            name: "CapRadio News 88.1",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
             name: "KUNR 88.7",
@@ -2788,9 +2788,9 @@ var stations = {
     ],
     "oakdale": [
         {
-            name: "Capital Public Radio 91.3",
+            name: "CapRadio News 91.3",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZ_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
             name: "KCSS 91.9",
@@ -3802,7 +3802,7 @@ var stations = {
             url: "https://kunrstream.com:8443/live"
         },
         {
-            name: "Capital Public Radio 90.5",
+            name: "CapRadio News 90.5",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
@@ -3926,14 +3926,29 @@ var stations = {
     ],
     "sacramento": [
         {
+            name: "CapRadio Music 88.9",
+            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXPRAAC_SC"
+        },
+        {
             name: "KQED 89.3",
             logo: "stations/images-america/san_francisco/KQED 88.5.png",
             url: "http://50.31.186.115:80/kqedradio"
         },
         {
-            name: "Capital Public Radio 90.9",
+            name: "KDVS 90.3",
+            logo: "stations/images-america/sacramento/KDVS 90.3.png",
+            url: "https://archives.kdvs.org/stream"
+        },
+        {
+            name: "CapRadio News 90.9",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
+        },
+        {
+            name: "KYDS 91.5",
+            logo: "stations/images-america/sacramento/KYDS 91.5.png",
+            url: "https://c11.radioboss.fm:18079/stream"
         },
         {
             name: "92.5 The Breeze",
@@ -4011,6 +4026,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4455/hls.m3u8"
         },
         {
+            name: "101.5 K-Hits",
+            logo: "stations/images-america/sacramento/101.5 K-Hits.png",
+            url: "https://ice24.securenetsystems.net/KCCL"
+        },
+        {
             name: "José 101.9",
             logo: "stations/images-america/sacramento/José 101.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNTYFMAAC_SC"
@@ -4071,8 +4091,13 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHTKAMAAC_SC"
         },
         {
+            name: "ESPN 1320",
+            logo: "stations/images-america/sacramento/ESPN 1320.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIFMAMAAC_SC"
+        },
+        {
             name: "AM 1380 The Answer",
-            logo: "stations/images-america/sacramento/1380 AM The Answer.png",
+            logo: "stations/images-america/sacramento/AM 1380 The Answer.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTKZAMAAC_SC"
         },
     ],
@@ -5265,12 +5290,12 @@ var stations = {
     ],
     "stockton": [
         {
-            name: "88.9 KXPR",
+            name: "CapRadio Music 88.9",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICALSTREAMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXPRAAC_SC"
         },
         {
-            name: "Capital Public Radio 91.3",
+            name: "CapRadio News 91.3",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
@@ -5445,7 +5470,7 @@ var stations = {
             url: "https://kunrstream.com:8443/live"
         },
         {
-            name: "Capital Public Radio 90.5",
+            name: "CapRadio News 90.5",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
