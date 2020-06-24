@@ -4679,6 +4679,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc305/hls.m3u8"
         },
         {
+            name: "Evolution 94.9-HD2",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
+        },
+        {
             name: "95.7 The Game",
             logo: "stations/images-america/san_francisco/95.7 The Game.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGMZFMAAC_SC"
@@ -4694,6 +4699,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLLCFMAAC_SC"
         },
         {
+            name: "ChannelQ 97.3-HD2",
+            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
+        },
+        {
             name: "98.1 The Breeze",
             logo: "stations/images-america/san_francisco/98.1 The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc285/hls.m3u8"
@@ -4704,14 +4714,14 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC_SC"
         },
         {
-            name: "ChannelQ 99.3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
-        },
-        {
             name: "99.7 NOW",
             logo: "stations/images-america/san_francisco/99.7 NOW.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC_SC"
+        },
+        {
+            name: "Pulse Radio 99.7-HD2",
+            logo: "stations/images-america/san_francisco/Pulse Radio 99.7-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQHD2AAC_SC"
         },
         {
             name: "Star 101.3",
@@ -4757,6 +4767,11 @@ var stations = {
             name: "ALT 105.3",
             logo: "stations/images-america/san_francisco/ALT 105.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KITSFMAAC_SC"
+        },
+        {
+            name: "Live 105 @ 105.3-HD2",
+            logo: "stations/images-america/san_francisco/Live 105.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KITSHD2AAC_SC"
         },
         {
             name: "106.1 KMEL",
@@ -4908,7 +4923,7 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KISWHD2AAC_SC"
         },
         {
-            name: "Star 101.5",
+            name: "STAR 101.5",
             logo: "stations/images-america/seattle/Star 101.5.png",
             url: "https://live.wostreaming.net/direct/sinclair-kplzfmaac-ibc2"
         },
