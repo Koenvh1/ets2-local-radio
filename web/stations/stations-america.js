@@ -4719,11 +4719,6 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC_SC"
         },
         {
-            name: "Pulse Radio 99.7-HD2",
-            logo: "stations/images-america/san_francisco/Pulse Radio 99.7-HD2.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KMVQHD2AAC_SC"
-        },
-        {
             name: "Star 101.3",
             logo: "stations/images-america/san_francisco/Star 101.3.png",
             url: "https://stream.revma.ihrhls.com/zc281/hls.m3u8"
