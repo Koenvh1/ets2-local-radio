@@ -4013,7 +4013,7 @@ var stations = {
         {
             name: "NOW 100.5",
             logo: "stations/images-america/sacramento/Now 100.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZZOFMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZZOFM_SC"
         },
         {
             name: "V101.1",
@@ -4088,7 +4088,7 @@ var stations = {
         {
             name: "1140 KHTK",
             logo: "stations/images-america/sacramento/1140 KHTK.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHTKAMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHTKAM_SC"
         },
         {
             name: "ESPN 1320",
@@ -4883,8 +4883,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7788/hls.m3u8"
         },
         {
-            name: "ALT 96.5-2",
-            logo: "stations/images-america/seattle/ALT 96.5-2.png",
+            name: "ALT 96.5-HD2",
+            logo: "stations/images-america/seattle/ALT 96.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
         {
