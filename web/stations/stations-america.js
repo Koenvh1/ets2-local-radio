@@ -1056,8 +1056,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUJZFMAAC_SC"
         },
         {
-            name: "96 KZEL",
-            logo: "stations/images-america/eugene/96 KZEL.png",
+            name: "96.1 KZEL",
+            logo: "stations/images-america/eugene/96.1 KZEL.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KZELFMAAC_SC"
         },
         {
@@ -1081,8 +1081,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
-            name: "Alternative 103.7",
-            logo: "stations/images-america/eugene/Alternative 103.7.png",
+            name: "103.7 KNRQ",
+            logo: "stations/images-america/eugene/103.7 KNRQ.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC_SC"
         },
         {
@@ -1101,8 +1101,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUGNAMAAC_SC"
         },
         {
-            name: "Solid Gold Radio 840",
-            logo: "stations/images-america/eugene/Solid Gold Radio 840.png",
+            name: "KKNX 840",
+            logo: "stations/images-america/eugene/KKNX 840.png",
             url: "http://173.193.205.96:7154/stream"
         },
     ],
@@ -3455,6 +3455,11 @@ var stations = {
             url: "http://stream1.opb.org/opbmusic_player.mp3"
         },
         {
+            name: "92.3 KGON",
+            logo: "stations/images-america/portland/92.3 KGON.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KGONFMAAC_SC"
+        },
+        {
             name: "94.7 FM",
             logo: "stations/images-america/portland/94.7 FM.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNRKFMAAC_SC"
@@ -3473,6 +3478,11 @@ var stations = {
             name: "97.1 Charlie",
             logo: "stations/images-america/portland/97.1 Charlie.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KYCHFMAAC_SC"
+        },
+        {
+            name: "Funkytown 97.1-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Funkytown 97.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6755/hls.m3u8"
         },
         {
             name: "PRP 99.1",
@@ -3505,11 +3515,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
-            name: "103.7 The Legend",
-            logo: "stations/images-america/portland/103.7 The Legend.png",
-            url: "https://stream.revma.ihrhls.com/zc6704/hls.m3u8"
-        },
-        {
             name: "104.5 MeTV FM",
             logo: "stations/images-america/portland/104.5 MeTV FM.png",
             url: "https://ice9.securenetsystems.net/KXXP"
@@ -3535,13 +3540,28 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4315/hls.m3u8"
         },
         {
+            name: "iHeart60s 106.7-HD2",
+            logo: "stations/images-america/0_general_logos/iHeart60s.png",
+            url: "https://stream.revma.ihrhls.com/zc6873/hls.m3u8"
+        },
+        {
+            name: "The Breeze 106.7-HD3",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
             name: "JAM'N 107.5",
             logo: "stations/images-america/portland/JAM'N 107.5.png",
             url: "https://stream.revma.ihrhls.com/zc4319/hls.m3u8"
         },
         {
-            name: "Sports Radio 620",
-            logo: "stations/images-america/portland/Sports Radio 620.png",
+            name: "Pride Radio 107.5-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
+            name: "Rip City Radio 620",
+            logo: "stations/images-america/portland/Rip City Radio 620.png",
             url: "https://stream.revma.ihrhls.com/zc1965/hls.m3u8"
         },
         {
@@ -3550,14 +3570,29 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
         {
+            name: "1080 The Fan",
+            logo: "stations/images-america/portland/1080 The Fan.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KFXXAMAAC_SC"
+        },
+        {
             name: "1190 KEX",
             logo: "stations/images-america/portland/1190 KEX.png",
             url: "https://stream.revma.ihrhls.com/zc1949/hls.m3u8"
         },
         {
-            name: "1600 KOHI",
-            logo: "stations/images-america/portland/1600 KOHI.png",
-            url: "http://98.246.132.248:8000/;"
+            name: "KBNP 1410",
+            logo: "stations/images-america/portland/KBNP 1410.png",
+            url: "https://crystalout.surfernetwork.com:8001/KBNP_MP3"
+        },
+        {
+            name: "1450 KBPS",
+            logo: "stations/images-america/portland/1450 KBPS.png",
+            url: "https://live.wostreaming.net/manifest/kbpsam-kbpsamaac-ibc1"
+        },
+        {
+            name: "KBMS 1480",
+            logo: "stations/images-america/portland/KBMS 1480.png",
+            url: "http://64.78.234.173:8200/;"
         },
     ],
     "price": [
