@@ -9111,6 +9111,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4033/hls.m3u8"
         },
         {
+            name: "B95.9",
+            logo: "stations/images-america/c2c/panama_city_fl/B95.9.png",
+            url: "https://ice24.securenetsystems.net/WRBA"
+        },
+        {
             name: "97X",
             logo: "stations/images-america/c2c/panama_city_fl/97X.png",
             url: "https://ice41.securenetsystems.net/WYYX"
@@ -9960,11 +9965,6 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
             url: "https://ice.zradio.org/h/high.mp3"
         },
-        { 
-            name: "News 96.5",
-            logo: "stations/images-america/c2c/orlando_fl/News 96.5.png",
-            url: "https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
-        },
         {
             name: "96.9 The Game",
             logo: "stations/images-america/c2c/orlando_fl/96.9 The Game.png",
@@ -10094,6 +10094,11 @@ var stations_c2c = {
             name: "The Breeze 106.7-HD3",
             logo: "stations/images-america/0_general_logos/The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        { 
+            name: "107.3 WDBO",
+            logo: "stations/images-america/c2c/orlando_fl/107.3 WDBO.png",
+            url: "https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
         },
         {
             name: "Magic 107.7",
@@ -25017,11 +25022,6 @@ var stations_c2c = {
             url: "http://ic1.sslstream.com/wmyl-fm"
         },
         {
-            name: "97.1 VLZ",
-            logo: "stations/images-america/c2c/knoxville_tn/97.1 VLZ.png",
-            url: "http://n05.radiojar.com/n360xb16a0quv"
-        },
-        {
             name: "B97.5",
             logo: "stations/images-america/c2c/knoxville_tn/B97.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJXBFMAAC_SC"
@@ -25065,6 +25065,11 @@ var stations_c2c = {
             name: "Fanrun Radio 105.7",
             logo: "stations/images-america/c2c/knoxville_tn/Fanrun Radio 105.7.png",
             url: "https://ice64.securenetsystems.net/WKGN2"
+        },
+        {
+            name: "106.1 VLZ",
+            logo: "stations/images-america/c2c/knoxville_tn/106.1 VLZ.png",
+            url: "http://n05.radiojar.com/n360xb16a0quv"
         },
         {
             name: "WIVK 107.7",
@@ -27187,12 +27192,12 @@ var stations_c2c = {
         },
         {
             name: "Mix 102.3",
-            logo: "stations/images-america/c2c/burlington_vt/Mix 102.3.svg",
+            logo: "stations/images-america/c2c/burlington_vt/Mix 102.3.png",
             url: "https://nebcoradio.com:8443/WIXM"
         },
         {
             name: "Rock 103.3",
-            logo: "stations/images-america/c2c/burlington_vt/Rock 103.3.svg",
+            logo: "stations/images-america/c2c/burlington_vt/Rock 103.3.png",
             url: "https://nebcoradio.com:8443/WWMP"
         },
         {
@@ -27224,6 +27229,11 @@ var stations_c2c = {
             name: "106.7 WIZN",
             logo: "stations/images-america/c2c/burlington_vt/106.7 WIZN.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WIZNFMAAC_SC"
+        },
+        {
+            name: "107.1 Frank FM",
+            logo: "stations/images-america/c2c/burlington_vt/107.1 Frank FM.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice6.securenetsystems.net/WRFK"
         },
         {
             name: "VPR 107.9",
