@@ -25062,6 +25062,11 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKHTFMAAC_SC"
         },
         {
+            name: "Q104.9",
+            logo: "stations/images-america/c2c/knoxville_tn/Q104.9.png",
+            url: "https://stream.radiojar.com/16177nyd41zuv"
+        },
+        {
             name: "Fanrun Radio 105.7",
             logo: "stations/images-america/c2c/knoxville_tn/Fanrun Radio 105.7.png",
             url: "https://ice64.securenetsystems.net/WKGN2"
