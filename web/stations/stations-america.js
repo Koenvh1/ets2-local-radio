@@ -2516,6 +2516,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC_SC"
         },
         {
+            name: "BIN 1440",
+            logo: "stations/images-america/los_angeles/BIN 1440.png",
+            url: "https://stream.revma.ihrhls.com/zc4084/hls.m3u8"
+        },
+        {
             name: "KXSC 1560",
             logo: "stations/images-america/los_angeles/KXSC 1560.png",
             url: "http://68.181.136.188:8000/;"
@@ -4819,8 +4824,8 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSANFMAAC_SC"
         },
         {
-            name: "Real Talk 910",
-            logo: "stations/images-america/san_francisco/Real Talk 910.png",
+            name: "BIN 910",
+            logo: "stations/images-america/san_francisco/BIN 910.png",
             url: "https://stream.revma.ihrhls.com/zc297/hls.m3u8"
         },
         {
@@ -5011,6 +5016,11 @@ var stations = {
             name: "770 KTTH",
             logo: "stations/images-america/seattle/770 KTTH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAMAAC_SC"
+        },
+        {
+            name: "BIN 850",
+            logo: "stations/images-america/seattle/BIN 850.png",
+            url: "https://stream.revma.ihrhls.com/zc8672/hls.m3u8"
         },
         {
             name: "1420 KITI",
@@ -10845,8 +10855,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WHTAFMAAC_SC"
         },
         {
-            name: "AM 640",
-            logo: "stations/images-america/c2c/atlanta_ga/AM 640.png",
+            name: "BIN 640",
+            logo: "stations/images-america/c2c/atlanta_ga/BIN 640.png",
             url: "https://stream.revma.ihrhls.com/zc6066/hls.m3u8"
         },
         {
@@ -10967,8 +10977,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc773/hls.m3u8"
         },
         {
-            name: "Fox Sports 1340",
-            logo: "stations/images-america/c2c/augusta_ga/Fox Sports 1340.png",
+            name: "BIN 1340",
+            logo: "stations/images-america/c2c/augusta_ga/BIN 1340.png",
             url: "https://stream.revma.ihrhls.com/zc6696/hls.m3u8"
         },
     ],
@@ -10999,8 +11009,8 @@ var stations_c2c = {
             url: "https://rocket.surfernetwork.com:10001/live/wkzj-fm_aac/playlist.m3u8"
         },
         {
-            name: "MIX 94.7",
-            logo: "stations/images-america/c2c/columbus_ga/MIX 94.7.png",
+            name: "BIN 94.7",
+            logo: "stations/images-america/c2c/columbus_ga/BIN 94.7.png",
             url: "https://stream.revma.ihrhls.com/zc3390/hls.m3u8"
         },
         {
@@ -11024,8 +11034,8 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WKCNFM"
         },
         {
-            name: "HOT 100",
-            logo: "stations/images-america/c2c/columbus_ga/HOT 100.png",
+            name: "Sunny 100.1",
+            logo: "stations/images-america/c2c/columbus_ga/Sunny 100.1.png",
             url: "https://stream.revma.ihrhls.com/zc781/hls.m3u8"
         },
         {
@@ -11163,8 +11173,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMACAMAAC_SC"
         },
         {
-            name: "Fox Sports 1670",
-            logo: "stations/images-america/c2c/macon_ga/Fox Sports 1670.png",
+            name: "BIN 1670",
+            logo: "stations/images-america/c2c/macon_ga/BIN 1670.png",
             url: "https://stream.revma.ihrhls.com/zc4305/hls.m3u8"
         },
     ],
@@ -14947,8 +14957,8 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/WBOK"
         },
         {
-            name: "Sports 1280",
-            logo: "stations/images-america/c2c/new_orleans_la/Sports 1280.png",
+            name: "BIN 1280",
+            logo: "stations/images-america/c2c/new_orleans_la/BIN 1280.png",
             url: "https://stream.revma.ihrhls.com/zc6223/hls.m3u8"
         },
     ],
@@ -15710,6 +15720,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1089/hls.m3u8"
         },
         {
+            name: "BIN 94.5-HD2",
+            logo: "stations/images-america/0_general_logos/BIN.png",
+            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
+        },
+        {
             name: "Mega 94.9",
             logo: "stations/images-america/c2c/boston_ma/Mega 94.9.png",
             url: "http://146.71.118.220:35044/stream"
@@ -16236,6 +16251,11 @@ var stations_c2c = {
             name: "WWJ 950",
             logo: "stations/images-america/c2c/detroit_mi/WWJ 950.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WWJAMAAC_SC"
+        },
+        {
+            name: "BIN 1130",
+            logo: "stations/images-america/c2c/detroit_mi/BIN 1130.png",
+            url: "https://stream.revma.ihrhls.com/zc1129/hls.m3u8"
         },
         {
             name: "CBS Sports Radio 1270",
@@ -16849,8 +16869,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXXRFMAAC_SC"
         },
         {
-            name: "ALT 93.3",
-            logo: "stations/images-america/c2c/minneapolis_mn/ALT 93.3.png",
+            name: "BIN 93.3",
+            logo: "stations/images-america/c2c/minneapolis_mn/BIN 93.3.png",
             url: "https://stream.revma.ihrhls.com/zc6587/hls.m3u8"
         },
         {
@@ -20704,6 +20724,11 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WPEGFMAAC_SC"
         },
         {
+            name: "BIN 98.7",
+            logo: "stations/images-america/c2c/charlotte_nc/BIN 98.7.png",
+            url: "https://stream.revma.ihrhls.com/zc6656/hls.m3u8"
+        },
+        {
             name: "WBT 99.3",
             logo: "stations/images-america/c2c/charlotte_nc/WBT 99.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WBTAMAAC_SC"
@@ -21909,8 +21934,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WNCXFMAAC_SC"
         },
         {
-            name: "ALT 99.1",
-            logo: "stations/images-america/c2c/cleveland_oh/ALT 99.1.png",
+            name: "BIN 99.1",
+            logo: "stations/images-america/c2c/cleveland_oh/BIN 99.1.png",
             url: "https://stream.revma.ihrhls.com/zc5382/hls.m3u8"
         },
         {
@@ -24352,6 +24377,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/greenville_sc/107.3 JAMZ.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WJMZFMAAC_SC"
         },
+        {
+            name: "BIN 1440",
+            logo: "stations/images-america/c2c/greenville_sc/BIN 1440.png",
+            url: "https://stream.revma.ihrhls.com/zc5312/hls.m3u8"
+        },
     ],
     "greenwood_sc": [
         {
@@ -25289,6 +25319,11 @@ var stations_c2c = {
             name: "96.3 Jack FM",
             logo: "stations/images-america/c2c/nashville_tn/96.3 Jack FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCJKFMAAC_SC"
+        },
+        {
+            name: "BIN 97.5",
+            logo: "stations/images-america/c2c/nashville_tn/BIN 97.5.png",
+            url: "https://stream.revma.ihrhls.com/zc7334/hls.m3u8"
         },
         {
             name: "The BIG 98",
@@ -27549,8 +27584,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
-            name: "ALT 105.3",
-            logo: "stations/images-america/c2c/norfolk_va/ALT 105.3.png",
+            name: "BIN 105.3",
+            logo: "stations/images-america/c2c/norfolk_va/BIN 105.3.png",
             url: "https://stream.revma.ihrhls.com/zc4900/hls.m3u8"
         },
         {
