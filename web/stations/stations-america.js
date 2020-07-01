@@ -9980,6 +9980,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
             url: "https://ice.zradio.org/h/high.mp3"
         },
+        { 
+            name: "Éxitos 96.5",
+            logo: "stations/images-america/c2c/orlando_fl/Éxitos 96.5.png",
+            url: "https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
+        },
         {
             name: "96.9 The Game",
             logo: "stations/images-america/c2c/orlando_fl/96.9 The Game.png",
@@ -10109,11 +10114,6 @@ var stations_c2c = {
             name: "The Breeze 106.7-HD3",
             logo: "stations/images-america/0_general_logos/The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        { 
-            name: "107.3 WDBO",
-            logo: "stations/images-america/c2c/orlando_fl/107.3 WDBO.png",
-            url: "https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
         },
         {
             name: "Magic 107.7",
