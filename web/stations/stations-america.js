@@ -14569,6 +14569,11 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/KVOL"
         },
         {
+            name: "News Talk 98.5",
+            logo: "stations/images-america/c2c/lafayette_la/News Talk 98.5.png",
+            url: "https://ice9.securenetsystems.net/KFXZAM"
+        },
+        {
             name: "Nash FM 99.1",
             logo: "stations/images-america/c2c/lafayette_la/Nash FM 99.1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
