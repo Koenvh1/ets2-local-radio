@@ -1559,15 +1559,15 @@ var stations = {
             url: "https://tektite.streamguys1.com:5012/KPBX-mp3"
         },
         {
-            name: "The Key 98.5",
-            logo: "stations/images-america/grand_coulee/The Key 98.5.png",
-            url: "http://63.135.59.61:8003/;"
-        },
+            name: "Sunny FM 98.5",
+            logo: "stations/images-america/omak/Sunny FM 97.7.png",
+            url: "http://63.142.210.15:8001/;"
+        },/*
         {
             name: "Key Country 1490",
             logo: "stations/images-america/grand_coulee/Key Country 1490.png",
             url: "http://63.135.59.61:8001/;audio.mp3"
-        },
+        },*/
     ],
     "hobbs": [
         {
@@ -2969,9 +2969,9 @@ var stations = {
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
-            name: "The Key 97.7",
-            logo: "stations/images-america/omak/The Key 97.7.png",
-            url: "http://63.135.59.61:8003/;"
+            name: "Sunny FM 97.7",
+            logo: "stations/images-america/omak/Sunny FM 97.7.png",
+            url: "http://63.142.210.15:8001/;"
         },
     ],
     "ontario": [
@@ -5795,6 +5795,11 @@ var stations = {
             name: "Kissin' 97.7",
             logo: "stations/images-america/wenatchee/Kissin 97.7.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kysnfmaac-imc4"
+        },
+        {
+            name: "Sunny FM 98.1",
+            logo: "stations/images-america/omak/Sunny FM 97.7.png",
+            url: "http://63.142.210.15:8001/;"
         },
         {
             name: "99.5 The Bridge",
@@ -25050,6 +25055,11 @@ var stations_c2c = {
             name: "96.7 Merle FM",
             logo: "stations/images-america/c2c/knoxville_tn/96.7 Merle FM.png",
             url: "http://ic1.sslstream.com/wmyl-fm"
+        },
+        {
+            name: "JUMP 97.1",
+            logo: "stations/images-america/c2c/knoxville_tn/JUMP 97.1.png",
+            url: "https://stream.radiojar.com/swyduw8d41zuv"
         },
         {
             name: "B97.5",
