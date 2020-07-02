@@ -9049,9 +9049,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/goodkarma-wuubfmaac-ibc2"
         },
         {
-            name: "Sunny 107.9",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/Sunny 107.9.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WEATFMAAC_SC"
+            name: "Oldies 107.9",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 107.9.png",
+            url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
         },
         {
             name: "Fox Sports 640",
@@ -9072,11 +9072,6 @@ var stations_c2c = {
             name: "1290 WJNO",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/1290 WJNO.png",
             url: "https://stream.revma.ihrhls.com/zc705/hls.m3u8"
-        },
-        {
-            name: "WAXE 1370",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/WAXE 1370.png",
-            url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
         },
         {
             name: "Money Talk Radio 1470",
@@ -22454,8 +22449,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WYLEAAC_SC"
         },
         {
-            name: "95.9 KISS FM",
-            logo: "stations/images-america/c2c/youngstown_oh/95.9 KISS FM.png",
+            name: "REAL 95.9",
+            logo: "stations/images-america/c2c/youngstown_oh/REAL 95.9.png",
             url: "https://stream.revma.ihrhls.com/zc2768/hls.m3u8"
         },
         {
