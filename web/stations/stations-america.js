@@ -333,6 +333,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRJKAAC_SC"
         },
         {
+            name: "98.5 The Fox",
+            logo: "stations/images-america/bakersfield/98.5 The Fox.png",
+            url: "https://stream.revma.ihrhls.com/zc3240/hls.m3u8"
+        },
+        {
             name: "KRUZ 103.3",
             logo: "stations/images-america/oxnard/KRUZ 103.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
@@ -358,14 +363,14 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC"
         },
         {
-            name: "Radio Punjab 660",
-            logo: "stations/images-america/bakersfield/Radio Punjab 660.png",
-            url: "http://stream.zenolive.com/c30rk1318s5tv"
-        },
-        {
             name: "Comedy 800",
             logo: "stations/images-america/bakersfield/Comedy 800.png",
             url: "https://stream.revma.ihrhls.com/zc6141/hls.m3u8"
+        },
+        {
+            name: "Fox Sports 970",
+            logo: "stations/images-america/bakersfield/Fox Sports 970.png",
+            url: "https://stream.revma.ihrhls.com/zc4273/hls.m3u8"
         },
     ],
     "barstow": [
@@ -375,9 +380,9 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
-            name: "KBHR 93.3",
-            logo: "stations/images-america/barstow/KBHR 93.3.png",
-            url: "http://ice5.securenetsystems.net/KBHR"
+            name: "The Highway Drive 96.9",
+            logo: "stations/images-america/barstow/The Highway Drive 96.9.png",
+            url: "https://edge2-b.exa.live365.net/a98605"
         },
         {
             name: "The Highway Vibe 98.1",
@@ -388,6 +393,21 @@ var stations = {
             name: "99.1 KGGI",
             logo: "stations/images-america/barstow/99.1 KGGI.png",
             url: "https://stream.revma.ihrhls.com/zc209/hls.m3u8"
+        },
+        {
+            name: "Fly Nation Radio 99.1-HD2",
+            logo: "stations/images-america/barstow/Fly Nation Radio 99.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6732/hls.m3u8"
+        },
+        {
+            name: "The Highway Country 107.3",
+            logo: "stations/images-america/barstow/The Highway Country 107.3.png",
+            url: "https://edge2-b.exa.live365.net/a58353"
+        },
+        {
+            name: "Fox Sports 610",
+            logo: "stations/images-america/barstow/Fox Sports 610.png",
+            url: "https://ice8.securenetsystems.net/KAVL"
         },
     ],
     "bellingham": [
@@ -2493,7 +2513,7 @@ var stations = {
         {
             name: "710 ESPN",
             logo: "stations/images-america/los_angeles/710 KSPN.png",
-            url: "http://edge.espn.cdn.abacast.net/espn-kspnmp3-48"
+            url: "https://live.wostreaming.net/manifest/espn-kspnmp3-48"
         },
         {
             name: "790 KABC",
@@ -3080,7 +3100,7 @@ var stations = {
         {
             name: "710 ESPN",
             logo: "stations/images-america/los_angeles/710 KSPN.png",
-            url: "http://edge.espn.cdn.abacast.net/espn-kspnmp3-48"
+            url: "https://live.wostreaming.net/manifest/espn-kspnmp3-48"
         },
         {
             name: "AM 870 The Answer",
@@ -4908,8 +4928,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2569/hls.m3u8"
         },
         {
-            name: "KJR 95.7-HD2",
-            logo: "stations/images-america/seattle/Sportsradio KJR 95.7-HD2.png",
+            name: "950 KJR 95.7-HD2",
+            logo: "stations/images-america/seattle/950 KJR.png",
             url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
@@ -4938,13 +4958,13 @@ var stations = {
             url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
         },
         {
-            name: "King FM 98.1",
+            name: "KING FM 98.1",
             logo: "stations/images-america/seattle/King FM 98.1.png",
             url: "http://classicalking.streamguys1.com/king-fm-aac-96k"
         },
         {
-            name: "King FM Evergreen Channel 98.1-HD2",
-            logo: "stations/images-america/seattle/King FM 98.1-2 Evergreen Channel.png",
+            name: "Evergreen Channel 98.1-HD2",
+            logo: "stations/images-america/seattle/Evergreen Channel 98.1-HD2.png",
             url: "http://classicalking.streamguys1.com/evergreen-aac-96k"
         },
         {
@@ -4971,6 +4991,11 @@ var stations = {
             name: "102.5 KZOK",
             logo: "stations/images-america/seattle/102.5 KZOK.png",
             url: "https://stream.revma.ihrhls.com/zc7787/hls.m3u8"
+        },
+        {
+            name: "ChannelQ 103.3",
+            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
             name: "HOT 103.7",
@@ -5003,11 +5028,6 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNDDFMAAC_SC"
         },
         {
-            name: "ChannelQ 107.7-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
-        },
-        {
             name: "570 KVI",
             logo: "stations/images-america/seattle/570 KVI.png",
             url: "https://live.wostreaming.net/manifest/sinclair-kviamaac-ibc2"
@@ -5021,6 +5041,11 @@ var stations = {
             name: "BIN 850",
             logo: "stations/images-america/seattle/BIN 850.png",
             url: "https://stream.revma.ihrhls.com/zc8672/hls.m3u8"
+        },
+        {
+            name: "880 KIXI",
+            logo: "stations/images-america/seattle/880 KIXI.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAMAAC_SC"
         },
         {
             name: "1420 KITI",
@@ -5211,9 +5236,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2589/hls.m3u8"
         },
         {
-            name: "iHeart 80s 103.1-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart80s.png",
-            url: "https://stream.revma.ihrhls.com/zc5060/hls.m3u8"
+            name: "103.5 The Game",
+            logo: "stations/images-america/spokane/103.5 The Game.png",
+            url: "https://ice6.securenetsystems.net/KGA"
         },
         {
             name: "103.9 BOB FM",
@@ -20022,7 +20047,7 @@ var stations_c2c = {
         {
             name: "ESPN 98.7",
             logo: "stations/images-america/c2c/nyc/ESPN 98.7.png",
-            url: "http://espn.edge-1.target.abacast.net/espn-wepnmp3-32"
+            url: "https://live.wostreaming.net/manifest/espn-wepnmp3-32"
         },
         {
             name: "WBAI 99.5",
