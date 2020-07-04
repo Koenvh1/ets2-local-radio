@@ -3993,7 +3993,7 @@ var stations = {
         {
             name: "KQED 89.3",
             logo: "stations/images-america/san_francisco/KQED 88.5.png",
-            url: "http://50.31.186.115:80/kqedradio"
+            url: "https://streams.kqed.org/kqedradio"
         },
         {
             name: "KDVS 90.3",
@@ -19903,13 +19903,18 @@ var stations_c2c = {
             url: "http://peace.str3am.com:7070/wskg"
         },
         {
+            name: "Wingz 93",
+            logo: "stations/images-america/c2c/elmira_ny/Wingz 93.png",
+            url: "https://ice23.securenetsystems.net/WINGZ"
+        },
+        {
             name: "94 Rock",
             logo: "stations/images-america/c2c/elmira_ny/94 Rock.png",
             url: "https://ice3.securenetsystems.net/WLVY"
         },
         {
-            name: "Bigfoot Country 96.9",
-            logo: "stations/images-america/c2c/elmira_ny/Bigfoot Country 96.9.png",
+            name: "Bigfoot Country 96",
+            logo: "stations/images-america/c2c/elmira_ny/Bigfoot Country 96.png",
             url: "https://ice24.securenetsystems.net/WNBT"
         },
         {
@@ -19923,10 +19928,20 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/WOKN"
         },
         {
-            name: "100.9 The Wolf",
-            logo: "stations/images-america/c2c/elmira_ny/100.9 The Wolf.png",
+            name: "100.9 Bigfoot Country",
+            logo: "stations/images-america/c2c/elmira_ny/100.9 Bigfoot Country.png",
             url: "https://ice23.securenetsystems.net/WPGI"
         },
+        {
+            name: "101 The Met",
+            logo: "stations/images-america/c2c/elmira_ny/101 The Met.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice66.securenetsystems.net/WMTT"
+        },/*
+        {
+            name: "Jamz 101.7",
+            logo: "stations/images-america/c2c/elmira_ny/Jamz 101.7.png",
+            url: "stream not available - 04.07.2020"
+        },*/
         {
             name: "Choice 102",
             logo: "stations/images-america/c2c/elmira_ny/Choice 102.png",
@@ -19938,12 +19953,12 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/saga-wqnyfmaac-ibc2"
         },
         {
-            name: "Wingz 104.9",
-            logo: "stations/images-america/c2c/elmira_ny/Wingz 104.9.png",
-            url: "https://ice23.securenetsystems.net/WINGZ"
+            name: "Cool 104.9",
+            logo: "stations/images-america/c2c/elmira_ny/Cool 104.9.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice66.securenetsystems.net/WPHD"
         },
         {
-            name: "WINK 106",
+            name: "Wink 106",
             logo: "stations/images-america/c2c/elmira_ny/WINK 106.png",
             url: "https://ice23.securenetsystems.net/WINK106"
         },
