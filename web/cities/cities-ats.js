@@ -605,12 +605,6 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
-    "vancouver": {
-        name: "Vancouver",
-        name_english: "Vancouver",
-        code: "us-wa",
-        relative_radius: 0.5
-    },
     "vernal": {
         name: "Vernal",
         name_english: "Vernal",
@@ -933,9 +927,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "ukiah": {
-        relative_whitenoise: 0.95
-    },
-    "vancouver": {
         relative_whitenoise: 0.95
     },
     "vernal": {
@@ -1717,14 +1708,6 @@ var cities = [
         "x": "-100595",
         "y": "80",
         "z": "-60834.9"
-    },
-    {
-        "gameName": "vancouver",
-        "realName": "Vancouver",
-        "country": "washington",
-        "x": "-102675",
-        "y": "58",
-        "z": "-55284.7"
     },
     {
         "gameName": "wenatchee",

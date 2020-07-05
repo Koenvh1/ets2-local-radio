@@ -3566,7 +3566,7 @@ var stations = {
         },
         {
             name: "The Breeze 106.7-HD3",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            logo: "stations/images-america/portland/The Breeze 106.7-HD3.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
@@ -5744,13 +5744,6 @@ var stations = {
             name: "The Skunk 96.7",
             logo: "stations/images-america/ukiah/The Skunk 96.7.png",
             url: "http://streaming.rubinbroadcasting.com/kunk"
-        },
-    ],
-    "vancouver": [
-        {
-            name: "KXRW 99.9",
-            logo: "stations/images-america/vancouver/KXRW 99.9.png",
-            url: "http://listen.xray.fm:8000/stream"
         },
     ],
     "vernal": [
