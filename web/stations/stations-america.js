@@ -1828,6 +1828,11 @@ var stations = {
             url: "https://live.wostreaming.net/direct/townsquare-keywfmaac-ibc3"
         },
         {
+            name: "98.7 KFLD",
+            logo: "stations/images-america/kennewick/98.7 KFLD.png",
+            url: "https://live.wostreaming.net/direct/townsquare-kfldamaac-ibc3"
+        },
+        {
             name: "Power 99.1",
             logo: "stations/images-america/kennewick/Power 99.1.png",
             url: "https://ice5.securenetsystems.net/KUJFM"
@@ -1873,19 +1878,9 @@ var stations = {
             url: "http://209.95.35.49:7004/stream"
         },
         {
-            name: "107.7 Hot FM",
-            logo: "stations/images-america/kennewick/107.7 HOT FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWVNFMAAC_SC"
-        },
-        {
             name: "610 KONA",
             logo: "stations/images-america/kennewick/610 KONA.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-konaamaac-ibc4"
-        },
-        {
-            name: "870 KFLD",
-            logo: "stations/images-america/kennewick/870 KFLD.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kfldamaac-ibc3"
         },
     ],
     "kingman": [
@@ -5862,8 +5857,8 @@ var stations = {
             url: "https://live.wostreaming.net/direct/cherrycreek-kpqamaac-ibc4"
         },
         {
-            name: "Fox Sports 1340",
-            logo: "stations/images-america/wenatchee/Fox Sports 1340.png",
+            name: "1340 The Hawk",
+            logo: "stations/images-america/wenatchee/1340 The Hawk.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kyspamaac-ibc4"
         },
     ],
@@ -5911,7 +5906,12 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-katsfmaac-ibc3"
         },
         {
-            name: "MEGA 99.3",
+            name: "95.3 KXLE",
+            logo: "stations/images-america/yakima/95.3 KXLE.png",
+            url: "http://kxlefm.com/kxlefm.ogg"
+        },
+        {
+            name: "Mega 99.3",
             logo: "stations/images-america/yakima/Mega 99.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmgwfmaac-ibc3"
         },
@@ -5954,6 +5954,11 @@ var stations = {
             name: "1280 KIT",
             logo: "stations/images-america/yakima/1280 KIT.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kitamaac-ibc3"
+        },
+        {
+            name: "1460 ESPN",
+            logo: "stations/images-america/yakima/1460 ESPN.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kutiamaac-ibc3"
         },
     ],
     "yuma": [
