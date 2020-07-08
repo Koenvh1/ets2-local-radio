@@ -17982,6 +17982,11 @@ var stations_c2c = {
             url: "https://streaming.kansaspublicradio.org:8001/kpr1"
         },
         {
+            name: "91.9 Classical KC",
+            logo: "stations/images-america/c2c/kansascity_mo/91.9 Classical KC.png",
+            url: "https://kcurlive.umkc.edu/ckc919"
+        },
+        {
             name: "92.7 KKLO",
             logo: "stations/images-america/c2c/kansascity_mo/92.7 KKLO.png",
             url: "https://ice41.securenetsystems.net/KKLO"
@@ -23957,6 +23962,11 @@ var stations_c2c = {
             name: "99.9 The Hawk",
             logo: "stations/images-america/c2c/stroudsburg_pa/99.9 The Hawk.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WODEFMAAC_SC"
+        },
+        {
+            name: "Bigfoot Country 103.1",
+            logo: "stations/images-america/c2c/stroudsburg_pa/Bigfoot Country 103.1.png",
+            url: "https://ice24.securenetsystems.net/WVPO"
         },
         {
             name: "Max 106.3",
