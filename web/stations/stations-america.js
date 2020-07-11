@@ -19939,12 +19939,12 @@ var stations_c2c = {
             name: "101 The Met",
             logo: "stations/images-america/c2c/elmira_ny/101 The Met.png",
             url: "https://cors-anywhere.herokuapp.com/https://ice66.securenetsystems.net/WMTT"
-        },/*
+        },
         {
             name: "Jamz 101.7",
             logo: "stations/images-america/c2c/elmira_ny/Jamz 101.7.png",
-            url: "stream not available - 04.07.2020"
-        },*/
+            url: "https://ice23.securenetsystems.net/JAMZ"
+        },
         {
             name: "Choice 102",
             logo: "stations/images-america/c2c/elmira_ny/Choice 102.png",
