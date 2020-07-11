@@ -29119,12 +29119,12 @@ var stations_c2c = {
         },
         {
             name: "KREO 93.5",
-            logo: "stations/images-america/c2c/rock_springs_wy/307 Country - KREO 93.5.png",
+            logo: "stations/images-america/c2c/rock_springs_wy/KREO 93.5.png",
             url: "https://ice9.securenetsystems.net/CO7WY"
         },
         {
-            name: "​​Q96",
-            logo: "stations/images-america/c2c/rock_springs_wy/​​Q96.png",
+            name: "Q96",
+            logo: "stations/images-america/c2c/rock_springs_wy/Q96.png",
             url: "https://ice9.securenetsystems.net/KQSW"
         },
         {
