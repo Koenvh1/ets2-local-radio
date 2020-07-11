@@ -28905,17 +28905,17 @@ var stations_c2c = {
         {
             name: "WPR 91.3",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
             name: "Classical Wyoming 91.3-HD2",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/kuwy128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
         },
         {
             name: "Wyoming Sounds 91.3-HD3",
             logo: "stations/images-america/0_general_logos/Wyoming Sounds.png",
-            url: "https://wprhqstream4.uwyo.edu/wys128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
         },
         {
             name: "Max 92.5",
@@ -28967,22 +28967,22 @@ var stations_c2c = {
         {
             name: "WPR 91.5",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
             name: "Wyoming Sounds 91.5-HD2",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wys128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
         },
         {
             name: "Jazz Wyoming 91.5-HD3",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/kuwl128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/JZZ128MP3"
         },
         {
             name: "Classical Wyoming 91.9",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/kuwy128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
         },
         {
             name: "92.3 KYOY",
@@ -29079,7 +29079,7 @@ var stations_c2c = {
         {
             name: "WPR 89.7",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
             name: "Wildlife 98.3",
@@ -29091,19 +29091,19 @@ var stations_c2c = {
         {
             name: "WPR 90.9",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
             name: "Wyoming Sounds 90.9-HD3",
             logo: "stations/images-america/0_general_logos/Wyoming Sounds.png",
-            url: "https://wprhqstream4.uwyo.edu/wys128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
         },
     ],
     "rawlins": [
         {
             name: "WPR 89.9",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
             name: "Bigfoot 99",
@@ -29115,7 +29115,7 @@ var stations_c2c = {
         {
             name: "WPR 90.5",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
             name: "KREO 93.5",
@@ -29157,7 +29157,7 @@ var stations_c2c = {
         {
             name: "WPR 91.3",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wprhqstream4.uwyo.edu/wpr128.mp3"
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
     ],
 };
