@@ -359,12 +359,6 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.9
     },
-    "ontario": {
-        name: "Ontario",
-        name_english: "Ontario",
-        code: "us-or",
-        relative_radius: 0.8
-    },
     "oxnard": {
         name: "Oxnard",
         name_english: "Oxnard",
@@ -813,9 +807,6 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "omak": {
-        relative_whitenoise: 0.95
-    },
-    "ontario": {
         relative_whitenoise: 0.95
     },
     "oxnard": {
@@ -1564,14 +1555,6 @@ var cities = [
         "x": "-111075",
         "y": "50.9961",
         "z": "-48807.3"
-    },
-    {
-        "gameName": "ontario",
-        "realName": "Ontario",
-        "country": "oregon",
-        "x": "-84423.1",
-        "y": "92.0703",
-        "z": "-38195.3"
     },
     {
         "gameName": "pendleton",

@@ -2989,13 +2989,6 @@ var stations = {
             url: "http://63.142.210.15:8001/;"
         },
     ],
-    "ontario": [
-        {
-            name: "OPB 107.5",
-            logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
-        },
-    ],
     "oxnard": [
         {
             name: "KCLU 88.3",
