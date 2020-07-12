@@ -13,6 +13,16 @@ var stations = {
         },
     ],
     "albania": [
+    	{
+            name: "ABC News",
+            logo: "stations/images-europe/albania/ABC News.png",
+            url: "https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8;"
+        },
+        {
+            name: "Alpo Radio",
+            logo: "stations/images-europe/albania/Alpo Radio.png",
+            url: "http://62.210.24.124:8379/;stream.mp3"
+        },
         {
             name: "Radio Tirana 1",
             logo: "stations/images-europe/albania/Radio Tirana 1.jpg",
@@ -38,6 +48,7 @@ var stations = {
             logo: "stations/images-europe/albania/Top Gold.png",
             url: "http://live.topgold.al:9080/;"
         },
+
     ],
     "algier": [
         {
