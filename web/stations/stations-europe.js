@@ -24,6 +24,21 @@ var stations = {
             url: "http://62.210.24.124:8379/;stream.mp3"
         },
         {
+            name: "Alsion Radio",
+            logo: "stations/images-europe/albania/Alsion Radio.png",
+            url: "http://109.169.26.216:8018/;"
+        },
+        {
+            name: "Big FM 101.6",
+            logo: "stations/images-europe/albania/Big FM.jpg",
+            url: "http://46.252.33.58:9310/;stream.mp3;"
+        },
+        {
+            name: "NRG (Energy)",
+            logo: "stations/images-europe/albania/NRG.png",
+            url: "https://ice31.securenetsystems.net/AL09?playSessionID=9D798F39-FE4D-F033-9332CBD2C0B8F1DF;"
+        },
+        {
             name: "Radio Tirana 1",
             logo: "stations/images-europe/albania/Radio Tirana 1.jpg",
             url: "http://149.202.220.47:8888/radiotirana1"
