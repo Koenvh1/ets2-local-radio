@@ -34,6 +34,11 @@ var stations = {
             url: "http://46.252.33.58:9310/;stream.mp3;"
         },
         {
+            name: "Kiss FM",
+            logo: "stations/images-europe/albania/Kiss FM.jpg",
+            url: "https://stream.kissfm.com.al:8000/stream.m3u;"
+        },
+        {
             name: "NRG (Energy)",
             logo: "stations/images-europe/albania/NRG.png",
             url: "https://ice31.securenetsystems.net/AL09?playSessionID=9D798F39-FE4D-F033-9332CBD2C0B8F1DF;"
