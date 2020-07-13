@@ -21630,8 +21630,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/KRVX"
         },
         {
-            name: "ESPN 107.1",
-            logo: "stations/images-america/c2c/jamestown_nd/ESPN 107.1.png",
+            name: "Jamestown 107.1",
+            logo: "stations/images-america/c2c/jamestown_nd/Jamestown 107.1.png",
             url: "https://ice23.securenetsystems.net/KQDJ"
         },
         {
