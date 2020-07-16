@@ -492,7 +492,7 @@ var stations = {
         {
             name: "Ràdio Flaixbac",
             logo: "stations/images-europe/catalonia/Ràdio Flaixbac.png",
-            url: "https://www.flaixbac.cat/ca/api/player/live"
+            url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
         },
     ],
     "croatia": [
@@ -627,7 +627,7 @@ var stations = {
         {
             name: "Frekvence 1",
             logo: "stations/images-europe/czech/Frekvence 1.png",
-            url: "http://icecast4.play.cz:80/frekvence1-128.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC.aac"
         },
         {
             name: "Impuls Ráááádio",
@@ -800,7 +800,7 @@ var stations = {
         {
             name: "R7 Kringvarp",
             logo: "stations/images-europe/faroe/R7 Kringvarp.svg",
-            url: "http://lurta.r7.fo:8082/r7_high.ogg"
+            url: "http://lurta.r7.fo:8080/r7_high"
         },
         {
             name: "Rás2",
@@ -1394,7 +1394,7 @@ var stations = {
         {
             name: "Ostseewelle Hit-Radio",
             logo: "stations/images-europe/germany-ndr/Ostseewelle Hit-Radio.png",
-            url: "http://ostseewelle-ais-edge-3006.fra-eco.cdn.addradio.net/ostseewelle/nord/mp3/high"
+            url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
         },
         {
             name: "Radio 21",
@@ -2236,7 +2236,7 @@ var stations = {
         {
             name: "LRT Opus",
             logo: "stations/images-europe/lithuania/LRT Opus.png",
-            url: "https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8"
+            url: "https://lrt-live.lrt.lt/audio/ndvr/hls/lrt_opus/index.m3u8"
         },
         {
             name: "Lietus",
