@@ -3230,9 +3230,9 @@ var stations = {
             url: "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1531145855&companionsAds=true&listenerId=4809db15-af69-411c-821c-538ec4247a0b"
         },
         {
-            name: "Rix FM",
+            name: "RIX FM",
             logo: "stations/images-europe/sweden/Rix FM.png",
-            url: "http://fm01-ice.stream.khz.se/fm01_mp3?platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1592335969"
+            url: "https://fm01-ice.stream.khz.se/fm01_mp3?platform=web"
         },
         {
             name: "Rockklassiker",

@@ -359,12 +359,6 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.9
     },
-    "ontario": {
-        name: "Ontario",
-        name_english: "Ontario",
-        code: "us-or",
-        relative_radius: 0.8
-    },
     "oxnard": {
         name: "Oxnard",
         name_english: "Oxnard",
@@ -605,12 +599,6 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
-    "vancouver": {
-        name: "Vancouver",
-        name_english: "Vancouver",
-        code: "us-wa",
-        relative_radius: 0.5
-    },
     "vernal": {
         name: "Vernal",
         name_english: "Vernal",
@@ -821,9 +809,6 @@ var city_properties = {
     "omak": {
         relative_whitenoise: 0.95
     },
-    "ontario": {
-        relative_whitenoise: 0.95
-    },
     "oxnard": {
         relative_whitenoise: 0.95
     },
@@ -933,9 +918,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "ukiah": {
-        relative_whitenoise: 0.95
-    },
-    "vancouver": {
         relative_whitenoise: 0.95
     },
     "vernal": {
@@ -1575,14 +1557,6 @@ var cities = [
         "z": "-48807.3"
     },
     {
-        "gameName": "ontario",
-        "realName": "Ontario",
-        "country": "oregon",
-        "x": "-84423.1",
-        "y": "92.0703",
-        "z": "-38195.3"
-    },
-    {
         "gameName": "pendleton",
         "realName": "Pendleton",
         "country": "oregon",
@@ -1717,14 +1691,6 @@ var cities = [
         "x": "-100595",
         "y": "80",
         "z": "-60834.9"
-    },
-    {
-        "gameName": "vancouver",
-        "realName": "Vancouver",
-        "country": "washington",
-        "x": "-102675",
-        "y": "58",
-        "z": "-55284.7"
     },
     {
         "gameName": "wenatchee",
