@@ -1715,12 +1715,12 @@ var stations = {
         {
             name: "Big Country 92.7",
             logo: "stations/images-america/grangeville/Big Country 92.7.png",
-            url: "https://209.95.35.49:7774/stream"
+            url: "http://209.95.35.49:7774/stream"
         },
         {
             name: "96.9 KORT",
             logo: "stations/images-america/grangeville/96.9 KORT.png",
-            url: "https://209.95.35.49:7776/stream"
+            url: "http://209.95.35.49:7776/stream"
         },
     ],
     "hobbs": [
@@ -2487,7 +2487,7 @@ var stations = {
         {
             name: "92.1 Hank FM",
             logo: "stations/images-america/lewiston/92.1 Hank FM.png",
-            url: "https://209.95.35.49:7770/stream"
+            url: "http://209.95.35.49:7770/stream"
         },
         {
             name: "Z-Rock 96.5",
@@ -2497,22 +2497,22 @@ var stations = {
         {
             name: "B97.3",
             logo: "stations/images-america/lewiston/B97.3.png",
-            url: "https://209.95.35.49:7768/stream"
+            url: "http://209.95.35.49:7768/stream"
         },
         {
             name: "Big Country 97.7",
             logo: "stations/images-america/lewiston/Big Country 97.7.png",
-            url: "https://209.95.35.49:7764/stream"
+            url: "http://209.95.35.49:7764/stream"
         },
         {
             name: "98.5 K-HITS",
             logo: "stations/images-america/lewiston/98.5 K-HITS.png",
-            url: "https://209.95.35.49:7772/stream"
+            url: "http://209.95.35.49:7772/stream"
         },
         {
             name: "Big Rock 99.1",
             logo: "stations/images-america/lewiston/Big Rock 99.1.png",
-            url: "https://us9.shoutstreaming.com:7766/stream"
+            url: "http://us9.shoutstreaming.com:7766/stream"
         },
         {
             name: "New Country 104.3",
@@ -16237,11 +16237,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7731/hls.m3u8"
         },
         {
-            name: "98.1 The Urban Heat",
-            logo: "stations/images-america/c2c/boston_ma/98.1 The Urban Heat.png",
-            url: "https://streaming.radio.co/s07f9b8a04/listen"
-        },
-        {
             name: "98.5 The Sports Hub",
             logo: "stations/images-america/c2c/boston_ma/98.5 The Sports Hub.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAACHI_SC"
@@ -22546,6 +22541,11 @@ var stations_c2c = {
             name: "WCRS 92.7",
             logo: "stations/images-america/c2c/columbus_oh/WCRS 92.7.png",
             url: "http://stream.wcrsfm.org:8000/wcrsfm_a"
+        },
+        {
+            name: "92.9 WDLR",
+            logo: "stations/images-america/c2c/columbus_oh/92.9 WDLR.png",
+            url: "ttps://ice9.securenetsystems.net/WDLR"
         },
         {
             name: "93.3 The Bus",
