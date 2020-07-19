@@ -18732,11 +18732,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6641/hls.m3u8"
         },
         {
-            name: "ALT 104.9",
-            logo: "stations/images-america/c2c/stlouis_mo/ALT 104.9.png",
-            url: "https://stream.revma.ihrhls.com/zc1281/hls.m3u8"
-        },
-        {
             name: "The Beat 104.9-HD2",
             logo: "stations/images-america/0_general_logos/The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc4429/hls.m3u8"
