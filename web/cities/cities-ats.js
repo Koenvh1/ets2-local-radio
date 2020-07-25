@@ -69,7 +69,7 @@ var country_properties = {
         name: "Boise",
         name_english: "Boise",
         code: "us-id",
-        relative_radius: 1.2
+        relative_radius: 1.1
     },
     "burns": {
         name: "Burns",
@@ -219,7 +219,7 @@ var country_properties = {
         name: "Grangeville",
         name_english: "Grangeville",
         code: "us-id",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "hobbs": {
         name: "Hobbs",
@@ -251,12 +251,6 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.6
     },
-    "jackpot": {
-        name: "Jackpot",
-        name_english: "Jackpot",
-        code: "us-nv",
-        relative_radius: 0.8
-    },
     "kayenta": {
         name: "Kayenta",
         name_english: "Kayenta",
@@ -273,7 +267,7 @@ var country_properties = {
         name: "Ketchum",
         name_english: "Ketchum",
         code: "us-id",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "kingman": {
         name: "Kingman",
@@ -315,7 +309,7 @@ var country_properties = {
         name: "Lewiston",
         name_english: "Lewiston",
         code: "us-id",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "logan": {
         name: "Logan",
@@ -795,7 +789,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "grangeville": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "holbrook": {
         relative_whitenoise: 0.95
@@ -805,9 +799,6 @@ var city_properties = {
     },
     "idaho_falls": {
         relative_whitenoise: 0.85
-    },
-    "jackpot": {
-        relative_whitenoise: 0.95
     },
     "kayenta": {
         relative_whitenoise: 0.95
@@ -960,7 +951,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "spokane": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "stockton": {
         relative_whitenoise: 0.95
@@ -1163,14 +1154,6 @@ var cities = [
         "x": "-93264",
         "y": "108.332",
         "z": "19872"
-    },
-    {
-        "gameName": "jackpot",
-        "realName": "Jackpot",
-        "country": "nevada",
-        "x": "-77998.7",
-        "y": "180.223",
-        "z": "-24885.2"
     },
     {
         "gameName": "kayenta",
