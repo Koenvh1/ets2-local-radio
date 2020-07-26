@@ -125,6 +125,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1393/hls.m3u8"
         },
         {
+            name: "iHeartRadio Bluegrass 95.1-HD2",
+            logo: "stations/images-america/albuquerque/iHeartRadio Bluegrass 95.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6892/hls.m3u8"
+        },
+        {
             name: "95.9 The Sports Animal",
             logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC_SC"
@@ -160,8 +165,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6469/hls.m3u8"
         },
         {
-            name: "Cindy 101.3",
-            logo: "stations/images-america/albuquerque/Cindy 101.3.png",
+            name: "Sunny 101.3",
+            logo: "stations/images-america/albuquerque/Sunny 101.3.png",
             url: "https://ice42.securenetsystems.net/KRKEFM"
         },
         {
