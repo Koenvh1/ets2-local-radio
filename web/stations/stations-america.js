@@ -1841,6 +1841,11 @@ var stations = {
             url: "https://kisufm.isu.edu:8000/kisufm"
         },
         {
+            name: "X92.5",
+            logo: "stations/images-america/idaho_falls/X92.5.png",
+            url: "https://sandhillradio.net/X925"
+        },
+        {
             name: "KZBQ 93.9",
             logo: "stations/images-america/idaho_falls/KZBQ 93.9.png",
             url: "https://ice24.securenetsystems.net/KZBQ2"
@@ -1906,9 +1911,19 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KFTZ"
         },
         {
+            name: "La Super Caliente 103.7",
+            logo: "stations/images-america/idaho_falls/La Super Caliente 103.7.png",
+            url: "https://sandhillradio.net/KLSC"
+        },
+        {
             name: "KORR 104",
             logo: "stations/images-america/idaho_falls/KORR 104.png",
             url: "https://ice24.securenetsystems.net/KORR2"
+        },
+        {
+            name: "NOW 105.1",
+            logo: "stations/images-america/idaho_falls/NOW 105.1.png",
+            url: "http://stream.sandhillradio.com:10101/KAOX"
         },
         {
             name: "105.5 The Hawk",
@@ -1926,9 +1941,9 @@ var stations = {
             url: "http://stream.sandhillradio.com:10101/KQEO"
         },
         {
-            name: "NOW 107.9",
-            logo: "stations/images-america/idaho_falls/NOW 107.9.png",
-            url: "http://stream.sandhillradio.com:10101/KAOX"
+            name: "NewsTalk 107.9",
+            logo: "stations/images-america/idaho_falls/NewsTalk 107.9.png",
+            url: "https://sandhillradio.net/NEWS"
         },
         {
             name: "Country Classics 1290",
