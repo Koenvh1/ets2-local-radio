@@ -6111,8 +6111,8 @@ var stations = {
             url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
         },
         {
-            name: "92.7 KTPZ",
-            logo: "stations/images-america/twin_falls/92.7 KTPZ.png",
+            name: "KTPZ 92.7",
+            logo: "stations/images-america/twin_falls/KTPZ 92.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://ice10.securenetsystems.net/KTPZFM"
         },
         {
