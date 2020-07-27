@@ -18641,12 +18641,12 @@ var stations_c2c = {
     "stlouis": [
         {
             name: "KDHX 88.1",
-            logo: "stations/images-america/c2c/stlouis_mo/KDHX 88.1.svg",
+            logo: "stations/images-america/c2c/stlouis_mo/KDHX 88.1.png",
             url: "http://kdhx-ice.streamguys1.com/live"
         },
         {
             name: "88.7 WSIE",
-            logo: "stations/images-america/c2c/stlouis_mo/88.7 WSIE.svg",
+            logo: "stations/images-america/c2c/stlouis_mo/88.7 WSIE.png",
             url: "http://streaming.siue.edu:8000/wsie"
         },
         {
@@ -18681,7 +18681,7 @@ var stations_c2c = {
         },
         {
             name: "KSHE 95",
-            logo: "stations/images-america/c2c/stlouis_mo/KSHE 95.svg",
+            logo: "stations/images-america/c2c/stlouis_mo/KSHE 95.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSHEFMAAC_SC"
         },
         {
@@ -18710,6 +18710,11 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "Mix 99.5",
+            logo: "stations/images-america/c2c/stlouis_mo/Mix 99.5.png",
+            url: "https://ssl.shoutcaststreaming.us:8125/;"
+        },
+        {
             name: "100.3 The Beat",
             logo: "stations/images-america/c2c/stlouis_mo/100.3 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc1289/hls.m3u8"
@@ -18735,9 +18740,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3463/hls.m3u8"
         },
         {
-            name: "Majic 103.7",
-            logo: "stations/images-america/c2c/stlouis_mo/Majic 103.7.png",
+            name: "BIN 103.7",
+            logo: "stations/images-america/c2c/stlouis_mo/BIN 103.7.png",
             url: "https://stream.revma.ihrhls.com/zc6641/hls.m3u8"
+        },
+        {
+            name: "HOT 104.1",
+            logo: "stations/images-america/c2c/stlouis_mo/HOT 104.1.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WHHLFMAAC_SC"
+        },
+        {
+            name: "Majic 104.9",
+            logo: "stations/images-america/c2c/stlouis_mo/Majic 104.9.png",
+            url: "https://stream.revma.ihrhls.com/zc1281/hls.m3u8"
         },
         {
             name: "The Beat 104.9-HD2",
@@ -18746,13 +18761,18 @@ var stations_c2c = {
         },
         {
             name: "105.7 The Point",
-            logo: "stations/images-america/c2c/stlouis_mo/105.7 The Point.svg",
+            logo: "stations/images-america/c2c/stlouis_mo/105.7 The Point.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KPNTFMAAC_SC"
         },
         {
             name: "106.5 The Arch",
-            logo: "stations/images-america/c2c/stlouis_mo/106.5 The Arch.svg",
+            logo: "stations/images-america/c2c/stlouis_mo/106.5 The Arch.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WARHFMAAC_SC"
+        },
+        {
+            name: "WGNU 106.9",
+            logo: "stations/images-america/c2c/stlouis_mo/WGNU 106.9.png",
+            url: "https://ice24.securenetsystems.net/WGNU"
         },
         {
             name: "Classic 107.3",
@@ -18778,6 +18798,11 @@ var stations_c2c = {
             name: "1120 KMOX",
             logo: "stations/images-america/c2c/stlouis_mo/1120 KMOX.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMOXAMAAC_SC"
+        },
+        {
+            name: "WBGZ 1570",
+            logo: "stations/images-america/c2c/stlouis_mo/WBGZ 1570.png",
+            url: "https://ice41.securenetsystems.net/WBGZ"
         },
     ],
     "springfield_mo": [
