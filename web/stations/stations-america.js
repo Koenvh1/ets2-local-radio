@@ -2424,6 +2424,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KLUCHD2_SC"
         },
         {
+            name: "FOX Sports 98.9",
+            logo: "stations/images-america/las_vegas/FOX Sports 98.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC_SC"
+        },
+        {
             name: "The Highway Vibe 99.7",
             logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
             url: "https://edge2-b.exa.live365.net/a48408"
@@ -2432,6 +2437,11 @@ var stations = {
             name: "Q100.5",
             logo: "stations/images-america/las_vegas/Q100.5.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KXQQFM_SC"
+        },
+        {
+            name: "ESPN 100.9",
+            logo: "stations/images-america/las_vegas/ESPN 100.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAMAAC_SC"
         },
         {
             name: "REAL 103.9",
@@ -2482,6 +2492,11 @@ var stations = {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KXNTAM_SC"
+        },
+        {
+            name: "Raider Nation Radio 920",
+            logo: "stations/images-america/las_vegas/Raider Nation Radio 920.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBADAMAAC_SC"
         },
     ],
     "leevining": [
