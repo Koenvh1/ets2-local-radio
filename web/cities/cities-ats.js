@@ -347,29 +347,35 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.9
     },
+    "merced": {
+        name: "Merced",
+        name_english: "Merced",
+        code: "us-ca",
+        relative_radius: 0.5
+    },
     "moab": {
         name: "Moab",
         name_english: "Moab",
         code: "us-ut",
         relative_radius: 1.2
     },
+    "modesto": {
+        name: "Modesto",
+        name_english: "Modesto",
+        code: "us-ca",
+        relative_radius: 0.5
+    },
     "newport": {
         name: "Newport",
         name_english: "Newport",
         code: "us-or",
-        relative_radius: 0.80
+        relative_radius: 0.8
     },
     "nogales": {
         name: "Nogales",
         name_english: "Nogales",
         code: "us-az",
         relative_radius: 1.2
-    },
-    "oakdale": {
-        name: "Oakdale",
-        name_english: "Oakdale",
-        code: "us-ca",
-        relative_radius: 0.5
     },
     "ogden": {
         name: "Ogden",
@@ -477,7 +483,7 @@ var country_properties = {
         name: "Sacramento",
         name_english: "Sacramento",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.65
     },
     "salem": {
         name: "Salem",
@@ -503,9 +509,9 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 1.2
     },
-    "santa_cruz": {
-        name: "Santa Cruz",
-        name_english: "Santa Cruz",
+    "monterey": {
+        name: "Monterey",
+        name_english: "Monterey",
         code: "us-ca",
         relative_radius: 0.9
     },
@@ -580,12 +586,6 @@ var country_properties = {
         name_english: "St. George",
         code: "us-ut",
         relative_radius: 1.2
-    },
-    "stockton": {
-        name: "Stockton",
-        name_english: "Stockton",
-        code: "us-ca",
-        relative_radius: 0.6
     },
     "susanv": {
         name: "Susanville",
@@ -780,7 +780,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "fresno": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.90
     },
     "g_canyon_vlg": {
         relative_whitenoise: 0.95
@@ -845,16 +845,19 @@ var city_properties = {
     "medford": {
         relative_whitenoise: 0.80
     },
+    "merced": {
+        relative_whitenoise: 0.95
+    },
     "moab": {
         relative_whitenoise: 0.95
+    },
+    "modesto": {
+        relative_whitenoise: 0.70
     },
     "newport": {
         relative_whitenoise: 0.95
     },
     "nogales": {
-        relative_whitenoise: 0.95
-    },
-    "oakdale": {
         relative_whitenoise: 0.95
     },
     "ogden": {
@@ -894,7 +897,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "redbluff": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "redding": {
         relative_whitenoise: 0.95
@@ -903,7 +906,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sacramento": {
-        relative_whitenoise: 1.00
+        relative_whitenoise: 0.80
     },
     "salem": {
         relative_whitenoise: 0.95
@@ -917,7 +920,7 @@ var city_properties = {
     "salt_lake": {
         relative_whitenoise: 0.95
     },
-    "santa_cruz": {
+    "monterey": {
         relative_whitenoise: 0.95
     },
     "santa_fe": {
@@ -952,9 +955,6 @@ var city_properties = {
     },
     "spokane": {
         relative_whitenoise: 0.85
-    },
-    "stockton": {
-        relative_whitenoise: 0.95
     },
     "st_george": {
         relative_whitenoise: 0.95
@@ -1212,14 +1212,6 @@ var cities = [
         "z": "36925.1"
     },
     {
-        "gameName": "oakdale",
-        "realName": "Oakdale",
-        "country": "california",
-        "x": "-109113",
-        "y": "74.7422",
-        "z": "-7004.69"
-    },
-    {
         "gameName": "oxnard",
         "realName": "Oxnard",
         "country": "california",
@@ -1284,12 +1276,12 @@ var cities = [
         "z": "-12770.4"
     },
     {
-        "gameName": "santa_cruz",
-        "realName": "Santa Cruz",
+        "gameName": "monterey",
+        "realName": "Monterey",
         "country": "california",
-        "x": "-114925",
-        "y": "90.7422",
-        "z": "-4429.37"
+        "x": "-114844",
+        "y": "52.6442",
+        "z": "-2643.77"
     },
     {
         "gameName": "santa_maria",
@@ -1346,14 +1338,6 @@ var cities = [
         "x": "-68525.5",
         "y": "125",
         "z": "36654"
-    },
-    {
-        "gameName": "stockton",
-        "realName": "Stockton",
-        "country": "california",
-        "x": "-110864",
-        "y": "87.7422",
-        "z": "-9926.91"
     },
     {
         "gameName": "susanv",
@@ -1780,12 +1764,28 @@ var cities = [
         "z": "-21523.4"
     },
     {
+        "gameName": "merced",
+        "realName": "Merced",
+        "country": "california",
+        "x": "-108283",
+        "y": "41.2276",
+        "z": "-4164.15"
+    },
+    {
         "gameName": "moab",
         "realName": "Moab",
         "country": "utah",
         "x": "-58842.2",
         "y": "119",
         "z": "-2435.75"
+    },
+    {
+        "gameName": "modesto",
+        "realName": "Modesto",
+        "country": "california",
+        "x": "-110338",
+        "y": "21.0421",
+        "z": "-6703.49"
     },
     {
         "gameName": "ogden",
@@ -5577,24 +5577,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "wichita_falls": {
-        relative_whitenoise: 0.95
-    },
-    "utah": {
-        relative_whitenoise: 0.95
-    },
-    "beaver_ut": {
-        relative_whitenoise: 0.95
-    },
-    "moab": {
-        relative_whitenoise: 0.95
-    },
-    "richfield_ut": {
-        relative_whitenoise: 0.95
-    },
-    "st_george": {
-        relative_whitenoise: 0.95
-    },
-    "salt_lake_city": {
         relative_whitenoise: 0.95
     },
     "vermont": {
