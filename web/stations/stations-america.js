@@ -16952,8 +16952,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQTXFMAAC_SC"
         },
         {
-            name: "i92.9",
-            logo: "stations/images-america/c2c/lansing_mi/i92.9.png",
+            name: "Cruisin' 92.9",
+            logo: "stations/images-america/c2c/lansing_mi/Cruisin' 92.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLMIFMAAC_SC"
         },
         {
@@ -18857,8 +18857,8 @@ var stations_c2c = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSPWFMAAC_SC"
         },
         {
-            name: "KBFL 96.9",
-            logo: "stations/images-america/c2c/springfield_mo/KBFL 96.9.png",
+            name: "Jock 96.9",
+            logo: "stations/images-america/c2c/springfield_mo/Jock 96.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBFLAMAAC_SC"
         },
         {
@@ -18870,11 +18870,6 @@ var stations_c2c = {
             name: "KDRU 98.1",
             logo: "stations/images-america/c2c/springfield_mo/KDRU 98.1.png",
             url: "http://n07.radiojar.com/wvs2ku1dfnwtv.mp3"
-        },
-        {
-            name: "Jock 98.7",
-            logo: "stations/images-america/c2c/springfield_mo/Jock 98.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWTOFMAAC_SC"
         },
         {
             name: "100.5 The Wolf",
@@ -28670,7 +28665,7 @@ var stations_c2c = {
     "wheeling": [
         {
             name: "WZUM 88.1",
-            logo: "stations/images-america/c2c/wheeling/WZUM 88.1.png",
+            logo: "stations/images-america/c2c/wheeling_wv/WZUM 88.1.png",
             url: "http://war.str3am.com:7600/;"
         },
         {
@@ -28680,57 +28675,57 @@ var stations_c2c = {
         },
         {
             name: "WPHP Radio 91.9",
-            logo: "stations/images-america/c2c/wheeling/WPHP Radio 91.9.png",
+            logo: "stations/images-america/c2c/wheeling_wv/WPHP Radio 91.9.png",
             url: "https://i1.stretchinternet.com/wphp"
         },
         {
             name: "95.7 KISS FM",
-            logo: "stations/images-america/c2c/wheeling/95.7 KISS FM.png",
+            logo: "stations/images-america/c2c/wheeling_wv/95.7 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc4301/hls.m3u8"
         },
         {
             name: "Rocky 96.5",
-            logo: "stations/images-america/c2c/wheeling/Rocky 96.5.png",
+            logo: "stations/images-america/c2c/wheeling_wv/Rocky 96.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WRQY_SC"
         },
         {
             name: "Mix 97.3",
-            logo: "stations/images-america/c2c/wheeling/Mix 97.3.png",
+            logo: "stations/images-america/c2c/wheeling_wv/Mix 97.3.png",
             url: "https://stream.revma.ihrhls.com/zc4293/hls.m3u8"
         },
         {
             name: "The Watch Dog 98.1",
-            logo: "stations/images-america/c2c/wheeling/The Watch Dog 98.1.png",
+            logo: "stations/images-america/c2c/wheeling_wv/The Watch Dog 98.1.png",
             url: "http://stream.wvly.net/wkkx.mp3"
         },
         {
             name: "98.7 Country WOVK",
-            logo: "stations/images-america/c2c/wheeling/98.7 Country WOVK.png",
+            logo: "stations/images-america/c2c/wheeling_wv/98.7 Country WOVK.png",
             url: "https://stream.revma.ihrhls.com/zc4297/hls.m3u8"
         },
         {
             name: "Biggie 100.5",
-            logo: "stations/images-america/c2c/wheeling/Biggie 100.5.png",
+            logo: "stations/images-america/c2c/wheeling_wv/Biggie 100.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBGIAAC_SC"
         },
         {
             name: "Fox Sports 103.9",
-            logo: "stations/images-america/c2c/wheeling/Fox Sports 103.9.png",
+            logo: "stations/images-america/c2c/wheeling_wv/Fox Sports 103.9.png",
             url: "https://stream.revma.ihrhls.com/zc5098/hls.m3u8"
         },
         {
             name: "KOOL 105",
-            logo: "stations/images-america/c2c/wheeling/KOOL 105.png",
+            logo: "stations/images-america/c2c/wheeling_wv/KOOL 105.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WUKLAAC_SC"
         },
         {
             name: "Eagle 107.5",
-            logo: "stations/images-america/c2c/wheeling/Eagle 107.5.png",
+            logo: "stations/images-america/c2c/wheeling_wv/Eagle 107.5.png",
             url: "https://stream.revma.ihrhls.com/zc4289/hls.m3u8"
         },
         {
             name: "1170 WWVA",
-            logo: "stations/images-america/c2c/wheeling/1170 WWVA.png",
+            logo: "stations/images-america/c2c/wheeling_wv/1170 WWVA.png",
             url: "https://stream.revma.ihrhls.com/zc4848/hls.m3u8"
         },
     ],
@@ -28747,77 +28742,77 @@ var stations_c2c = {
         },
         {
             name: "Classic Rock 92.1",
-            logo: "stations/images-america/c2c/eau_claire/Classic Rock 92.1.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/Classic Rock 92.1.png",
             url: "https://stream.revma.ihrhls.com/zc2645/hls.m3u8"
         },
         {
             name: "92.9 THE X",
-            logo: "stations/images-america/c2c/eau_claire/92.9 THE X.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/92.9 THE X.png",
             url: "http://ice9.securenetsystems.net/WECL"
         },
         {
             name: "I-94",
-            logo: "stations/images-america/c2c/eau_claire/I-94.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/I-94.png",
             url: "http://ice10.securenetsystems.net/WIAL"
         },
         {
             name: "B95",
-            logo: "stations/images-america/c2c/eau_claire/B95.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/B95.png",
             url: "https://stream.revma.ihrhls.com/zc2649/hls.m3u8"
         },
         {
             name: "95.9 JAMZ",
-            logo: "stations/images-america/c2c/eau_claire/95.9 Jamz.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/95.9 Jamz.png",
             url: "http://ice24.securenetsystems.net/WEAQ"
         },
         {
             name: "WHYS-LP 96.3",
-            logo: "stations/images-america/c2c/eau_claire/WHYS-LP 96.3.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/WHYS-LP 96.3.png",
             url: "http://199.175.55.69:8088/whys"
         },
         {
             name: "Greatest Hits 98.1",
-            logo: "stations/images-america/c2c/eau_claire/Greatest Hits 98.1.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/Greatest Hits 98.1.png",
             url: "http://ice64.securenetsystems.net/WISM"
         },
         {
             name: "98.7 The Fan",
-            logo: "stations/images-america/c2c/eau_claire/98.7 The Fan.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/98.7 The Fan.png",
             url: "https://stream.revma.ihrhls.com/zc2637/hls.m3u8"
         },
         {
             name: "Converge Radio 99.9",
-            logo: "stations/images-america/c2c/eau_claire/Converge Radio 99.9.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/Converge Radio 99.9.png",
             url: "http://ice23.securenetsystems.net/WDRK"
         },
         {
             name: "Z100",
-            logo: "stations/images-america/c2c/eau_claire/Z100.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/Z100.png",
             url: "https://stream.revma.ihrhls.com/zc2653/hls.m3u8"
         },
         {
             name: "WOGO 103.1",
-            logo: "stations/images-america/c2c/eau_claire/WOGO 103.1.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/WOGO 103.1.png",
             url: "https://ic1.sslstream.com/wogo-am"
         },
         {
             name: "WAXX 104.5",
-            logo: "stations/images-america/c2c/eau_claire/WAXX 104.5.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/WAXX 104.5.png",
             url: "http://ice9.securenetsystems.net/WAXX"
         },
         {
             name: "Sports Talk 105.1",
-            logo: "stations/images-america/c2c/eau_claire/Sports Talk 105.1.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/Sports Talk 105.1.png",
             url: "http://ice10.securenetsystems.net/WAYY"
         },
         {
             name: "WMEQ News Talk 106.3",
-            logo: "stations/images-america/c2c/eau_claire/WMEQ News Talk 106.3.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/WMEQ News Talk 106.3.png",
             url: "https://stream.revma.ihrhls.com/zc2633/hls.m3u8"
         },
         {
             name: "Moose Country 106.7",
-            logo: "stations/images-america/c2c/eau_claire/Moose Country 106.7.png",
+            logo: "stations/images-america/c2c/eau_claire_wi/Moose Country 106.7.png",
             url: "https://stream.revma.ihrhls.com/zc2641/hls.m3u8"
         },
     ],
@@ -28834,82 +28829,82 @@ var stations_c2c = {
         },
         {
             name: "93.5 Duke FM",
-            logo: "stations/images-america/c2c/green_bay/93.5 Duke FM.png",
+            logo: "stations/images-america/c2c/green_bay_wi/93.5 Duke FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WGEEFMAAC_SC"
         },
         {
             name: "WDOR 93.9",
-            logo: "stations/images-america/c2c/green_bay/WDOR 93.9.png",
+            logo: "stations/images-america/c2c/green_bay_wi/WDOR 93.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDORFMAAC_SC"
         },
         {
             name: "Razor 94.7",
-            logo: "stations/images-america/c2c/green_bay/Razor 94.7.png",
+            logo: "stations/images-america/c2c/green_bay_wi/Razor 94.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://ic2.sslstream.com/wzor-fm"
         },
         {
             name: "95.9 KISS FM",
-            logo: "stations/images-america/c2c/green_bay/95.9 KISS FM.png",
+            logo: "stations/images-america/c2c/green_bay_wi/95.9 KISS FM.png",
             url: "https://cors-anywhere.herokuapp.com/http://ic2.mainstreamnetwork.com/wksz-fm"
         },
         {
             name: "La Más Grande 96.9",
-            logo: "stations/images-america/c2c/green_bay/La Más Grande 96.9.png",
+            logo: "stations/images-america/c2c/green_bay_wi/La Más Grande 96.9.png",
             url: "https://live.wostreaming.net/manifest/magnumbroadcasting-waunfmaac-ibc1"
         },
         {
             name: "WTAQ 97.5",
-            logo: "stations/images-america/c2c/green_bay/WTAQ 97.5.png",
+            logo: "stations/images-america/c2c/green_bay_wi/WTAQ 97.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTAQAMAAC_SC"
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/c2c/green_bay/Star 98.png",
+            logo: "stations/images-america/c2c/green_bay_wi/Star 98.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WQLHFM_SC"
         },
         {
             name: "B99.3",
-            logo: "stations/images-america/c2c/green_bay/B99.3.png",
+            logo: "stations/images-america/c2c/green_bay_wi/B99.3.png",
             url: "http://scv1.radiop1.com:8058/stream"
         },
         {
             name: "Y100",
-            logo: "stations/images-america/c2c/green_bay/Y100.png",
+            logo: "stations/images-america/c2c/green_bay_wi/Y100.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNCYFMAAC_SC"
         },
         {
             name: "101 WIXX",
-            logo: "stations/images-america/c2c/green_bay/101 WIXX.png",
+            logo: "stations/images-america/c2c/green_bay_wi/101 WIXX.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WIXXFMAAC_SC"
         },
         {
             name: "101.9 WNFL",
-            logo: "stations/images-america/c2c/green_bay/101.9 WNFL.png",
+            logo: "stations/images-america/c2c/green_bay_wi/101.9 WNFL.png",
             url: "https://mwc.streamguys1.com/wnfl-aac"
         },
         {
             name: "103.1 WOGB",
-            logo: "stations/images-america/c2c/green_bay/103.1 WOGB.png",
+            logo: "stations/images-america/c2c/green_bay_wi/103.1 WOGB.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WOGBFMAAC_SC"
         },
         {
             name: "KZ104.3",
-            logo: "stations/images-america/c2c/green_bay/KZ104.3.png",
+            logo: "stations/images-america/c2c/green_bay_wi/KZ104.3.png",
             url: "https://cors-anywhere.herokuapp.com/http://ic2.mainstreamnetwork.com/wkzg-fm"
         },
         {
             name: "105.7 WAPL",
-            logo: "stations/images-america/c2c/green_bay/105.7 WAPL.png",
+            logo: "stations/images-america/c2c/green_bay_wi/105.7 WAPL.png",
             url: "https://cors-anywhere.herokuapp.com/http://ic2.mainstreamnetwork.com/wapl-fm"
         },
         {
             name: "Big Dog 106.7",
-            logo: "stations/images-america/c2c/green_bay/Big Dog 106.7.png",
+            logo: "stations/images-america/c2c/green_bay_wi/Big Dog 106.7.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WKRUFMAAC_SC"
         },
         {
             name: "The Fan 107.5",
-            logo: "stations/images-america/c2c/green_bay/The Fan 107.5.png",
+            logo: "stations/images-america/c2c/green_bay_wi/The Fan 107.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WDUZFMAAC_SC"
         },
     ],
@@ -28926,47 +28921,62 @@ var stations_c2c = {
         },
         {
             name: "WIZM 92.3",
-            logo: "stations/images-america/c2c/la_crosse/WIZM 92.3.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/WIZM 92.3.png",
             url: "https://crystalout.surfernetwork.com:8001/WIZM-AM_MP3"
         },
         {
             name: "Z93",
-            logo: "stations/images-america/c2c/la_crosse/Z93.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/Z93.png",
             url: "https://crystalout.surfernetwork.com:8001/WIZM_MP3"
         },
         {
+            name: "94.5 WTMB",
+            logo: "stations/images-america/c2c/la_crosse_wi/94.5 WTMB.png",
+            url: "https://live.wostreaming.net/manifest/magnumbroadcasting-wtmbfmaac-ibc1"
+        },
+        {
             name: "95.7 The Rock",
-            logo: "stations/images-america/c2c/la_crosse/95.7 The Rock.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/95.7 The Rock.png",
             url: "http://crystalout.surfernetwork.com:8001/WRQT_MP3"
         },
         {
             name: "Mix 96",
-            logo: "stations/images-america/c2c/la_crosse/Mix 96.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/Mix 96.png",
             url: "https://live.wostreaming.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
         }, 
         {
             name: "WKTY 96.7",
-            logo: "stations/images-america/c2c/la_crosse/WKTY 96.7.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/WKTY 96.7.png",
             url: "https://crystalout.surfernetwork.com:8001/WKTY-AM_MP3"
         },
         {
             name: "COW97",
-            logo: "stations/images-america/c2c/la_crosse/COW97.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/COW97.png",
             url: "http://64.78.234.165:8000/WCOW"
         },
         {
             name: "101.1 The River",
-            logo: "stations/images-america/c2c/la_crosse/101.1 The River.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/101.1 The River.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRIVFMAAC_SC"
+        },
+        {
+            name: "102.7 WKBH",
+            logo: "stations/images-america/c2c/la_crosse_wi/102.7 WKBH.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRIVFMAAC_SC"
         },
         {
             name: "KNEI 103.5",
-            logo: "stations/images-america/c2c/la_crosse/KNEI 103.5.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/KNEI 103.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNEIFMAAC_SC"
         },
         {
+            name: "1460 WBOG",
+            logo: "stations/images-america/c2c/la_crosse_wi/1460 WBOG.png",
+            url: "https://live.wostreaming.net/manifest/magnumbroadcasting-wbogamaac-ibc1"
+        },
+        {
             name: "1490 WLFN",
-            logo: "stations/images-america/c2c/la_crosse/1490 WLFN.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/1490 WLFN.png",
             url: "http://ice9.securenetsystems.net/WLFNAM"
         },
     ],
