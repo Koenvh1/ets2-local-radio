@@ -4950,6 +4950,11 @@ var stations = {
             url: "https://kcbx-ice.streamguys1.com/kcbx-hi"
         },
         {
+            name: "KCSB 91.9",
+            logo: "stations/images-america/santa_maria/KCSB 91.9.png",
+            url: "http://live.kcsb.org/KCSB_128"
+        },
+        {
             name: "Mega Hits 97.1",
             logo: "stations/images-america/santa_maria/Mega Hits 97.1.png",
             url: "https://cors-anywhere.herokuapp.com/https://ice10.securenetsystems.net/KRTO"
@@ -5326,8 +5331,8 @@ var stations = {
         },
         {
             name: "KEXP 90.3",
-            logo: "stations/images-america/seattle/KEXP 90.3 FM.png",
-            url: "http://live-aacplus-64.kexp.org/kexp64.aac"
+            logo: "stations/images-america/seattle/KEXP 90.3.png",
+            url: "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
         },
         {
             name: "90.7 KSER",
@@ -5375,11 +5380,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2569/hls.m3u8"
         },
         {
-            name: "950 KJR 95.7-HD2",
-            logo: "stations/images-america/seattle/950 KJR.png",
-            url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
-        },
-        {
             name: "The Breeze 95.7-HD3",
             logo: "stations/images-america/seattle/The Breeze 95.7-HD3.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
@@ -5396,7 +5396,7 @@ var stations = {
         },
         {
             name: "KIRO 97.3",
-            logo: "stations/images-america/seattle/KIRO Radio 97.3 FM.png",
+            logo: "stations/images-america/seattle/KIRO 97.3.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
         },
         {
@@ -5415,6 +5415,11 @@ var stations = {
             url: "http://classicalking.streamguys1.com/evergreen-aac-96k"
         },
         {
+            name: "98.9 The Bull",
+            logo: "stations/images-america/seattle/98.9 The Bull.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNUCFMAAC_SC"
+        },
+        {
             name: "99.9 KISW",
             logo: "stations/images-america/seattle/99.9 KISW.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KISWFMAAC_SC"
@@ -5425,13 +5430,18 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KISWHD2AAC_SC"
         },
         {
+            name: "100.7 The Wolf",
+            logo: "stations/images-america/seattle/100.7 The Wolf.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KKWFFMAAC_SC"
+        },
+        {
             name: "STAR 101.5",
             logo: "stations/images-america/seattle/Star 101.5.png",
             url: "https://live.wostreaming.net/direct/sinclair-kplzfmaac-ibc2"
         },
         {
             name: "KXSU 102.1",
-            logo: "stations/images-america/seattle/KXSU 102.1 FM.png",
+            logo: "stations/images-america/seattle/KXSU 102.1.png",
             url: "https://c556.fastserv.com/kxsu"
         },
         {
@@ -5460,8 +5470,8 @@ var stations = {
             url: "http://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
-            name: "106.1 KISS FM",
-            logo: "stations/images-america/seattle/106.1 KISS FM.png",
+            name: "Jubal 106.1",
+            logo: "stations/images-america/seattle/Jubal 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
         },
         {
@@ -5475,9 +5485,14 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNDDFMAAC_SC"
         },
         {
-            name: "570 KVI",
-            logo: "stations/images-america/seattle/570 KVI.png",
+            name: "KVI AM 570",
+            logo: "stations/images-america/seattle/KVI AM 570.png",
             url: "https://live.wostreaming.net/manifest/sinclair-kviamaac-ibc2"
+        },
+        {
+            name: "710 ESPN",
+            logo: "stations/images-america/seattle/710 ESPN.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KIROAMAAC_SC"
         },
         {
             name: "770 KTTH",
@@ -5493,6 +5508,21 @@ var stations = {
             name: "880 KIXI",
             logo: "stations/images-america/seattle/880 KIXI.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAMAAC_SC"
+        },
+        {
+            name: "950 KJR",
+            logo: "stations/images-america/seattle/950 KJR.png",
+            url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
+        },
+        {
+            name: "1090 KJR",
+            logo: "stations/images-america/seattle/1090 KJR.png",
+            url: "https://stream.revma.ihrhls.com/zc7747/hls.m3u8"
+        },
+        {
+            name: "1150 KKNW",
+            logo: "stations/images-america/seattle/1150 KKNW.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKNWAMAAC_SC"
         },
         {
             name: "1420 KITI",
