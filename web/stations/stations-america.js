@@ -2377,6 +2377,16 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "95.5 The Bull",
+            logo: "stations/images-america/las_vegas/95.5 The Bull.png",
+            url: "https://stream.revma.ihrhls.com/zc1345/hls.m3u8"
+        },
+        {
+            name: "96.3 KKLZ",
+            logo: "stations/images-america/las_vegas/96.3 KKLZ.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
+        },
+        {
             name: "La Campesina 96.7",
             logo: "stations/images-america/las_vegas/La Campesina 96.7.png",
             url: "https://ice42.securenetsystems.net/KYLI"
@@ -2425,6 +2435,16 @@ var stations = {
             name: "ESPN 100.9",
             logo: "stations/images-america/las_vegas/ESPN 100.9.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAMAAC_SC"
+        },
+        {
+            name: "KDWN 101.5",
+            logo: "stations/images-america/las_vegas/KDWN 101.5.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDWNFMAAC_SC"
+        },
+        {
+            name: "102.7 Coyote Country",
+            logo: "stations/images-america/las_vegas/102.7 Coyote Country.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
         },
         {
             name: "REAL 103.9",
@@ -3812,6 +3832,11 @@ var stations = {
             name: "La Tricolor 103.5",
             logo: "stations/images-america/phoenix/La Tricolor 103.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KLNZFMAAC_SC"
+        },
+        {
+            name: "Mega 104.3",
+            logo: "stations/images-america/phoenix/Mega 104.3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://ice5.securenetsystems.net/KAJM"
         },
         {
             name: "104.7 KISS FM",
