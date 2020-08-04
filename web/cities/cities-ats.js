@@ -99,7 +99,7 @@ var country_properties = {
         name: "Carson City",
         name_english: "Carson City",
         code: "us-nv",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "cedar_city": {
         name: "Cedar City",
@@ -177,7 +177,7 @@ var country_properties = {
         name: "Fallon",
         name_english: "Fallon",
         code: "us-nv",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "farmington": {
         name: "Farmington",
@@ -303,7 +303,7 @@ var country_properties = {
         name: "Lee Vining",
         name_english: "Lee Vining",
         code: "us-ca",
-        relative_radius: 1.3
+        relative_radius: 1.1
     },
     "lewiston": {
         name: "Lewiston",
@@ -471,7 +471,7 @@ var country_properties = {
         name: "Reno",
         name_english: "Reno",
         code: "us-nv",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "roswell": {
         name: "Roswell",
@@ -738,7 +738,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "carson_city": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "cedar_city": {
         relative_whitenoise: 0.95
@@ -903,7 +903,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "reno": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "sacramento": {
         relative_whitenoise: 0.80
@@ -1271,9 +1271,9 @@ var cities = [
         "gameName": "sacramento",
         "realName": "Sacramento",
         "country": "california",
-        "x": "-110724",
-        "y": "65.4805",
-        "z": "-12770.4"
+        "x": "-111823",
+        "y": "30.0375",
+        "z": "-13353.9"
     },
     {
         "gameName": "monterey",

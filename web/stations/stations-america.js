@@ -1295,23 +1295,6 @@ var stations = {
             url: "http://eurekaradio.streamguys1.com/live"
         },
     ],
-    "everett": [
-        {
-            name: "90.7 KSER",
-            logo: "stations/images-america/everett/90.7 KSER.png",
-            url: "http://jade.streamguys1.com:4050/live"
-        },
-        {
-            name: "95.3 KRKO",
-            logo: "stations/images-america/everett/95.3 KRKO.png",
-            url: "http://www.ophanim.net:9400/live"
-        },
-        {
-            name: "KXA 101.1",
-            logo: "stations/images-america/everett/KXA 101.1.png",
-            url: "http://www.ophanim.net:9410/live"
-        },
-    ],
     "fallon": [
         {
             name: "KUNR 88.7",
@@ -4656,33 +4639,6 @@ var stations = {
             name: "AM 1380 The Answer",
             logo: "stations/images-america/sacramento/AM 1380 The Answer.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTKZAMAAC_SC"
-        },
-    ],
-    "salem": [
-        {
-            name: "KMUZ 88.5",
-            logo: "stations/images-america/salem/KMUZ 88.5.png",
-            url: "http://sc7.shoutcaststreaming.us:8010/;"
-        },
-        {
-            name: "KLCC 89.7",
-            logo: "stations/images-america/oregon/KLCC.png",
-            url: "https://tektite.streamguys1.com:5025/klcc.mp3"
-        },
-        {
-            name: "OPB 91.5",
-            logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
-        },
-        {
-            name: "99.9 KRKT",
-            logo: "stations/images-america/salem/99.9 KRKT.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KRKTFMAAC_SC"
-        },
-        {
-            name: "102.7 Kyte FM",
-            logo: "stations/images-america/portland/102.7 Kyte FM.png",
-            url: "http://68.116.40.122:88/broadwave.mp3"
         },
     ],
     "salina": [
