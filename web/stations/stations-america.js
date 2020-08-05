@@ -2439,7 +2439,7 @@ var stations = {
         {
             name: "KDWN 101.5",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
-            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDWNFMAAC_SC"
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
         },
         {
             name: "102.7 Coyote Country",
@@ -2790,6 +2790,11 @@ var stations = {
             name: "ALT 98.7",
             logo: "stations/images-america/los_angeles/ALT 98.7.png",
             url: "https://stream.revma.ihrhls.com/zc201/hls.m3u8"
+        },
+        {
+            name: "Radio Disney Country 99.1",
+            logo: "stations/images-america/los_angeles/Radio Disney Country 99.1.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64_SC"
         },
         {
             name: "99.5 KKLA",
@@ -5509,11 +5514,6 @@ var stations = {
             name: "1420 KITI",
             logo: "stations/images-america/seattle/1420 KITI.png",
             url: "https://live.wostreaming.net/manifest/premierbroadcasters-kitiamaac-ibc1"
-        },
-        {
-            name: "KXA 1520",
-            logo: "stations/images-america/everett/KXA 101.1.png",
-            url: "http://www.ophanim.net:9410/live"
         },
     ],
     "show_low": [
