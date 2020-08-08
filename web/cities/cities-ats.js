@@ -17,12 +17,6 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 1.3
     },
-    "artesia": {
-        name: "Artesia",
-        name_english: "Artesia",
-        code: "us-nm",
-        relative_radius: 1.0
-    },
     "astoria": {
         name: "Astoria",
         name_english: "Astoria",
@@ -82,12 +76,6 @@ var country_properties = {
         name_english: "Camp Verde",
         code: "us-az",
         relative_radius: 1.2
-    },
-    "carlsbad": {
-        name: "Carlsbad",
-        name_english: "Carlsbad",
-        code: "us-ca",
-        relative_radius: 0.5
     },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
@@ -734,9 +722,6 @@ var city_properties = {
     "camp_verde": {
         relative_whitenoise: 0.95
     },
-    "carlsbad": {
-        relative_whitenoise: 0.90
-    },
     "carson_city": {
         relative_whitenoise: 0.80
     },
@@ -1042,14 +1027,6 @@ var cities = [
         "x": "-73776.6",
         "y": "127.855",
         "z": "19211.8"
-    },
-    {
-        "gameName": "carlsbad",
-        "realName": "Carlsbad",
-        "country": "california",
-        "x": "-100687",
-        "y": "61.4336",
-        "z": "20602.3"
     },
     {
         "gameName": "carson_city",
@@ -1410,14 +1387,6 @@ var cities = [
         "x": "-50091.6",
         "y": "119.625",
         "z": "19426.6"
-    },
-    {
-        "gameName": "artesia",
-        "realName": "Artesia",
-        "country": "new_mexico",
-        "x": "-39437.2",
-        "y": "106.828",
-        "z": "33191.9"
     },
     {
         "gameName": "carlsbad_nm",

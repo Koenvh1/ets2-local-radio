@@ -215,43 +215,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1401/hls.m3u8"
         },
     ],
-    "artesia": [
-        {
-            name: "92.9 The Brand",
-            logo: "stations/images-america/roswell/92.9 The Brand.png",
-            url: "https://ice23.securenetsystems.net/KTZA"
-        },
-        {
-            name: "KSVP 93.7",
-            logo: "stations/images-america/artesia/KSVP 93.7.png",
-            url: "http://ice3.securenetsystems.net:80/KSVP"
-        },
-        {
-            name: "Hot 97",
-            logo: "stations/images-america/roswell/Hot 97.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice42.securenetsystems.net/KBCQ"
-        },
-        {
-            name: "KENW 98.7",
-            logo: "stations/images-america/0_general_logos/KENW.png",
-            url: "http://ice10.securenetsystems.net:80/KENWFM"
-        },
-        {
-            name: "CD104",
-            logo: "stations/images-america/carlsbad_nm/CD104.png",
-            url: "http://209.95.35.49:7019/stream"
-        },
-        {
-            name: "W105",
-            logo: "stations/images-america/carlsbad_nm/W105.png",
-            url: "https://ice3.securenetsystems.net/KWMW"
-        },
-        {
-            name: "B107 The Blaze",
-            logo: "stations/images-america/artesia/B107 The Blaze.png",
-            url: "http://ice2.securenetsystems.net/KTUM"
-        },
-    ],
     "astoria": [
         {
             name: "OPB 89.7",
@@ -267,6 +230,11 @@ var stations = {
             name: "93.3 The Rock",
             logo: "stations/images-america/astoria/93.3 The Rock.png",
             url: "http://209.95.35.49:7025/stream"
+        },
+        {
+            name: "Hits 94.3",
+            logo: "stations/images-america/astoria/Hits 94.3.png",
+            url: "https://ice42.securenetsystems.net/KRKZ"
         },
         {
             name: "94.9 The Bridge",
@@ -767,14 +735,22 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFMAAC_SC"
         },
     ],
-    "carlsbad": [
-        {
-            name: "KKSM 1320",
-            logo: "stations/images-america/carlsbad/KKSM AM1320.png",
-            url: "http://streaming.live365.com/a61597"
-        },
-    ],
     "carlsbad_nm": [
+        {
+            name: "92.1 KATK",
+            logo: "stations/images-america/carlsbad_nm/92.1 KATK.png",
+            url: "https://us9.maindigitalstream.com/ssl/katk"
+        },
+        {
+            name: "93.9 La Raza",
+            logo: "stations/images-america/carlsbad_nm/93.9 La Raza.png",
+            url: "https://us9.maindigitalstream.com/ssl/laraza"
+        },
+        {
+            name: "Q96.3",
+            logo: "stations/images-america/carlsbad_nm/Q96.3.png",
+            url: "https://us9.maindigitalstream.com/ssl/kamq"
+        },
         {
             name: "KENW 98.7",
             logo: "stations/images-america/0_general_logos/KENW.png",
@@ -783,7 +759,7 @@ var stations = {
         {
             name: "CD104",
             logo: "stations/images-america/carlsbad_nm/CD104.png",
-            url: "http://209.95.35.49:7019/stream"
+            url: "https://us9.maindigitalstream.com/ssl/cd104"
         },
         {
             name: "W105",
@@ -797,7 +773,7 @@ var stations = {
         },
         {
             name: "B107 The Blaze",
-            logo: "stations/images-america/artesia/B107 The Blaze.png",
+            logo: "stations/images-america/hobbs/B107 The Blaze.png",
             url: "http://ice2.securenetsystems.net/KTUM"
         },
     ],
@@ -1754,7 +1730,7 @@ var stations = {
         },
         {
             name: "B107 The Blaze",
-            logo: "stations/images-america/artesia/B107 The Blaze.png",
+            logo: "stations/images-america/hobbs/B107 The Blaze.png",
             url: "http://ice2.securenetsystems.net/KTUM"
         },
         {
