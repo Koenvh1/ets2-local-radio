@@ -1110,33 +1110,6 @@ var stations = {
             url: "http://173.193.205.96:7200/stream"
         },
     ],
-    "el_centro": [
-        {
-            name: "La Suavecita 94.5",
-            logo: "stations/images-america/el_centro/La Suavecita 94.5.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSEHFMAAC_SC"
-        },
-        {
-            name: "KPBS 97.7",
-            logo: "stations/images-america/san_diego/KPBS.png",
-            url: "https://kpbs.streamguys1.com/kpbs-mp3"
-        },
-        {
-            name: "La Tricolor 99.3",
-            logo: "stations/images-america/el_centro/La Tricolor 99.3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KMXXFMAAC_SC"
-        },
-        {
-            name: "KMET 99.7",
-            logo: "stations/images-america/el_centro/KMET 99.7.png",
-            url: "http://ice41.securenetsystems.net/KMET"
-        },
-        {
-            name: "KGBA 100.1",
-            logo: "stations/images-america/el_centro/KGBA 100.1.png",
-            url: "http://ice9.securenetsystems.net/KGBAFM"
-        },
-    ],
     "eugene": [
         {
             name: "KWVA 88.1",
@@ -3305,6 +3278,28 @@ var stations = {
             name: "Power Talk 1460",
             logo: "stations/images-america/monterey/Power Talk 1460.png",
             url: "https://stream.revma.ihrhls.com/zc4639/hls.m3u8"
+        },
+    ],
+    "needles": [
+        {
+            name: "95.7 Jack FM",
+            logo: "stations/images-america/kingman/95.7 Jack FM.png",
+            url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
+        },
+        {
+            name: "The Highway Vibe 98.9",
+            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
+            url: "https://edge2-b.exa.live365.net/a48408"
+        },
+        {
+            name: "KTOX 1340",
+            logo: "stations/images-america/needles/KTOX 1340.png",
+            url: "https://streaming.rubinbroadcasting.com/ktox"
+        },
+        {
+            name: "KNTR 980",
+            logo: "stations/images-america/kingman/KNTR 980.png",
+            url: "http://147.135.84.28/kntr-am"
         },
     ],
     "newport": [

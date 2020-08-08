@@ -3,7 +3,7 @@ var country_properties = {
         name: "Aberdeen",
         name_english: "Aberdeen",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "alamogordo": {
         name: "Alamogordo",
@@ -39,7 +39,7 @@ var country_properties = {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "bellingham": {
         name: "Bellingham",
@@ -123,7 +123,7 @@ var country_properties = {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "elko": {
         name: "Elko",
@@ -137,12 +137,6 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.2
     },
-    "el_centro": {
-        name: "El Centro",
-        name_english: "El Centro",
-        code: "us-ca",
-        relative_radius: 0.6
-    },
     "eugene": {
         name: "Eugene",
         name_english: "Eugene",
@@ -154,12 +148,6 @@ var country_properties = {
         name_english: "Eureka",
         code: "us-ca",
         relative_radius: 0.9
-    },
-    "everett": {
-        name: "Everett",
-        name_english: "Everett",
-        code: "us-wa",
-        relative_radius: 0.6
     },
     "fallon": {
         name: "Fallon",
@@ -177,7 +165,7 @@ var country_properties = {
         name: "Flagstaff",
         name_english: "Flagstaff",
         code: "us-az",
-        relative_radius: 1.8
+        relative_radius: 1.3
     },
     "fresno": {
         name: "Fresno",
@@ -237,7 +225,7 @@ var country_properties = {
         name: "Indio",
         name_english: "Indio",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "kayenta": {
         name: "Kayenta",
@@ -261,7 +249,7 @@ var country_properties = {
         name: "Kingman",
         name_english: "Kingman",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "klamath_f": {
         name: "Klamath Falls",
@@ -315,7 +303,7 @@ var country_properties = {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "ltahoe": {
         name: "South Lake Tahoe",
@@ -353,6 +341,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
+    "needles": {
+        name: "Needles",
+        name_english: "Needles",
+        code: "us-ca",
+        relative_radius: 0.8
+    },
     "newport": {
         name: "Newport",
         name_english: "Newport",
@@ -375,7 +369,7 @@ var country_properties = {
         name: "Olympia",
         name_english: "Olympia",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "omak": {
         name: "Omak",
@@ -473,12 +467,6 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.65
     },
-    "salem": {
-        name: "Salem",
-        name_english: "Salem",
-        code: "us-or",
-        relative_radius: 0.6
-    },
     "salina": {
         name: "Salina",
         name_english: "Salina",
@@ -525,7 +513,7 @@ var country_properties = {
         name: "San Diego",
         name_english: "San Diego",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "san_francisco": {
         name: "San Francisco",
@@ -543,7 +531,7 @@ var country_properties = {
         name: "Seattle",
         name_english: "Seattle",
         code: "us-wa",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "show_low": {
         name: "Show Low",
@@ -573,7 +561,7 @@ var country_properties = {
         name: "St. George",
         name_english: "St. George",
         code: "us-ut",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "susanv": {
         name: "Susanville",
@@ -657,7 +645,7 @@ var country_properties = {
         name: "Yuma",
         name_english: "Yuma",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "arizona": {
         name: "Arizona",
@@ -687,7 +675,7 @@ var country_properties = {
 
 var city_properties = {
     "aberdeen": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.80
     },
     "albuquerque": {
         relative_whitenoise: 0.90
@@ -702,7 +690,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "barstow": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.90
     },
     "bellingham": {
         relative_whitenoise: 0.80
@@ -735,7 +723,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "crescent_city": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "ehrenberg": {
         relative_whitenoise: 0.95
@@ -746,16 +734,10 @@ var city_properties = {
     "ely": {
         relative_whitenoise: 0.95
     },
-    "el_centro": {
-        relative_whitenoise: 0.95
-    },
     "eugene": {
         relative_whitenoise: 0.95
     },
     "eureka": {
-        relative_whitenoise: 0.85
-    },
-    "everett": {
         relative_whitenoise: 0.85
     },
     "fallon": {
@@ -785,6 +767,9 @@ var city_properties = {
     "idaho_falls": {
         relative_whitenoise: 0.85
     },
+    "indio": {
+        relative_whitenoise: 0.90
+    },
     "kayenta": {
         relative_whitenoise: 0.95
     },
@@ -804,7 +789,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "las_vegas": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.80
     },
     "leevining": {
         relative_whitenoise: 0.95
@@ -819,7 +804,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "los_angeles": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "ltahoe": {
         relative_whitenoise: 0.95
@@ -839,6 +824,9 @@ var city_properties = {
     "modesto": {
         relative_whitenoise: 0.70
     },
+    "needles": {
+        relative_whitenoise: 0.95
+    },
     "newport": {
         relative_whitenoise: 0.95
     },
@@ -849,7 +837,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "olympia": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.80
     },
     "omak": {
         relative_whitenoise: 0.95
@@ -864,7 +852,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "phoenix": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "pioche": {
         relative_whitenoise: 0.95
@@ -892,9 +880,6 @@ var city_properties = {
     },
     "sacramento": {
         relative_whitenoise: 0.80
-    },
-    "salem": {
-        relative_whitenoise: 0.95
     },
     "salina": {
         relative_whitenoise: 0.95
@@ -927,7 +912,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "seattle": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.90
     },
     "show_low": {
         relative_whitenoise: 0.95
@@ -981,7 +966,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "yuma": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.90
     },
     "arizona": {
         relative_whitenoise: 0.95
@@ -1008,9 +993,9 @@ var cities = [
         "gameName": "barstow",
         "realName": "Barstow",
         "country": "california",
-        "x": "-96833.3",
-        "y": "90.5898",
-        "z": "12105.3"
+        "x": "-96025.3",
+        "y": "66.1934",
+        "z": "12468.9"
     },
     {
         "gameName": "bishop",
@@ -1032,9 +1017,9 @@ var cities = [
         "gameName": "carson_city",
         "realName": "Carson City",
         "country": "nevada",
-        "x": "-101961",
-        "y": "134.836",
-        "z": "-11300.8"
+        "x": "-101458",
+        "y": "246.332",
+        "z": "-14126"
     },
     {
         "gameName": "ehrenberg",
@@ -1059,14 +1044,6 @@ var cities = [
         "x": "-81817",
         "y": "172.629",
         "z": "-10079.4"
-    },
-    {
-        "gameName": "el_centro",
-        "realName": "El Centro",
-        "country": "california",
-        "x": "-92073.9",
-        "y": "64.6445",
-        "z": "24709.8"
     },
     {
         "gameName": "eureka",
@@ -1152,9 +1129,9 @@ var cities = [
         "gameName": "las_vegas",
         "realName": "Las Vegas",
         "country": "nevada",
-        "x": "-84856.9",
-        "y": "199.461",
-        "z": "6994.32"
+        "x": "-85804.9",
+        "y": "80.9905",
+        "z": "7732.53"
     },
     {
         "gameName": "leevining",
@@ -1168,9 +1145,9 @@ var cities = [
         "gameName": "los_angeles",
         "realName": "Los Angeles",
         "country": "california",
-        "x": "-103989",
-        "y": "90.7422",
-        "z": "16444.4"
+        "x": "-102055",
+        "y": "41.8943",
+        "z": "16476.5"
     },
     {
         "gameName": "ltahoe",
@@ -1240,9 +1217,9 @@ var cities = [
         "gameName": "reno",
         "realName": "Reno",
         "country": "nevada",
-        "x": "-102745",
-        "y": "105.766",
-        "z": "-16298"
+        "x": "-99918.2",
+        "y": "191.806",
+        "z": "-18717.4"
     },
     {
         "gameName": "sacramento",
@@ -1368,9 +1345,9 @@ var cities = [
         "gameName": "yuma",
         "realName": "Yuma",
         "country": "arizona",
-        "x": "-88849.8",
-        "y": "64.9961",
-        "z": "26463.2"
+        "x": "-87619.4",
+        "y": "29.8789",
+        "z": "27086.4"
     },
     {
         "gameName": "alamogordo",
@@ -1581,14 +1558,6 @@ var cities = [
         "z": "-52232.6"
     },
     {
-        "gameName": "salem",
-        "realName": "Salem",
-        "country": "oregon",
-        "x": "-106253",
-        "y": "73.7188",
-        "z": "-49404.3"
-    },
-    {
         "gameName": "the_dalles",
         "realName": "The Dalles",
         "country": "oregon",
@@ -1619,14 +1588,6 @@ var cities = [
         "x": "-81888.3",
         "y": "78.6406",
         "z": "-63979.9"
-    },
-    {
-        "gameName": "everett",
-        "realName": "Everett",
-        "country": "washington",
-        "x": "-98694",
-        "y": "54.3125",
-        "z": "-65602.2"
     },
     {
         "gameName": "grand_coulee",
@@ -1680,9 +1641,9 @@ var cities = [
         "gameName": "seattle",
         "realName": "Seattle",
         "country": "washington",
-        "x": "-99469.1",
-        "y": "75.8984",
-        "z": "-62870"
+        "x": "-99598.6",
+        "y": "60.7954",
+        "z": "-63851.2"
     },
     {
         "gameName": "spokane",
@@ -1755,6 +1716,14 @@ var cities = [
         "x": "-110338",
         "y": "21.0421",
         "z": "-6703.49"
+    },
+    {
+        "gameName": "needles",
+        "realName": "Needles",
+        "country": "california",
+        "x": "-85257.7",
+        "y": "34.4319",
+        "z": "14889.6"
     },
     {
         "gameName": "ogden",
@@ -1901,13 +1870,13 @@ var country_properties_mexico = {
         name: "Mexicali",
         name_english: "Mexicali",
         code: "mx-bcn",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "ensenada": {
         name: "Ensenada",
         name_english: "Ensenada",
         code: "mx-bcn",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "san_felipe": {
         name: "San Felipe",
