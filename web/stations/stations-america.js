@@ -3283,7 +3283,7 @@ var stations = {
     "needles": [
         {
             name: "95.7 Jack FM",
-            logo: "stations/images-america/kingman/95.7 Jack FM.png",
+            logo: "stations/images-america/kingman/95.5 Jack FM.png",
             url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
         },
         {
@@ -3298,7 +3298,7 @@ var stations = {
         },
         {
             name: "KNTR 980",
-            logo: "stations/images-america/kingman/KNTR 980.png",
+            logo: "stations/images-america/kingman/980 KNTR.png",
             url: "http://147.135.84.28/kntr-am"
         },
     ],
