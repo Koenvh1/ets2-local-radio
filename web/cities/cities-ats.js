@@ -291,7 +291,7 @@ var country_properties = {
         name: "Logan",
         name_english: "Logan",
         code: "us-ut",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "longview": {
         name: "Longview",
@@ -359,12 +359,6 @@ var country_properties = {
         code: "us-az",
         relative_radius: 1.2
     },
-    "ogden": {
-        name: "Ogden",
-        name_english: "Ogden",
-        code: "us-ut",
-        relative_radius: 0.8
-    },
     "olympia": {
         name: "Olympia",
         name_english: "Olympia",
@@ -422,12 +416,6 @@ var country_properties = {
     "price": {
         name: "Price",
         name_english: "Price",
-        code: "us-ut",
-        relative_radius: 1.2
-    },
-    "provo": {
-        name: "Provo",
-        name_english: "Provo",
         code: "us-ut",
         relative_radius: 1.2
     },
@@ -833,9 +821,6 @@ var city_properties = {
     "nogales": {
         relative_whitenoise: 0.95
     },
-    "ogden": {
-        relative_whitenoise: 0.95
-    },
     "olympia": {
         relative_whitenoise: 0.80
     },
@@ -864,9 +849,6 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "price": {
-        relative_whitenoise: 0.95
-    },
-    "provo": {
         relative_whitenoise: 0.95
     },
     "redbluff": {
@@ -1726,28 +1708,12 @@ var cities = [
         "z": "14889.6"
     },
     {
-        "gameName": "ogden",
-        "realName": "Ogden",
-        "country": "utah",
-        "x": "-67538.6",
-        "y": "117.91",
-        "z": "-18856.8"
-    },
-    {
         "gameName": "price",
         "realName": "Price",
         "country": "utah",
         "x": "-62580.7",
         "y": "124.434",
         "z": "-9222.07"
-    },
-    {
-        "gameName": "provo",
-        "realName": "Provo",
-        "country": "utah",
-        "x": "-66418.5",
-        "y": "116",
-        "z": "-13064.7"
     },
     {
         "gameName": "salina",
@@ -4600,7 +4566,7 @@ var country_properties_c2c = {
         name: "evanston",
         name_english: "evanston",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "gillette_wy": {
         name: "gillette",

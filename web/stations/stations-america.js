@@ -3158,6 +3158,16 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWINFMAAC_SC"
         },
         {
+            name: "Mega 100",
+            logo: "stations/images-america/modesto/Mega 100.png",
+            url: "https://stream.revma.ihrhls.com/zc2926/hls.m3u8"
+        },
+        {
+            name: "Club Jam 100.1-HD2",
+            logo: "stations/images-america/modesto/Club Jam 100.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7023/hls.m3u8"
+        },
+        {
             name: "La Tricolor 100.9",
             logo: "stations/images-america/modesto/La Tricolor 100.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMIXFMAAC_SC"
@@ -3384,18 +3394,6 @@ var stations = {
             name: "Amor 107.9",
             logo: "stations/images-america/nogales/Amor 107.9.png",
             url: "http://whm3.servidorrprivado.com:9316/;stream.mp3"
-        },
-    ],
-    "ogden": [
-        {
-            name: "kuer 90.1",
-            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
-        },
-        {
-            name: "Power 101.9",
-            logo: "stations/images-america/salt_lake/Power 94.9-101.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KENZFMAAC_SC"
         },
     ],
     "olympia": [
@@ -4153,33 +4151,6 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMTI"
         },
     ],
-    "provo": [
-        {
-            name: "Classical 89",
-            logo: "stations/images-america/provo/Classical 89.png",
-            url: "https://radio.byub.org/classical89/classical89_aac"
-        },
-        {
-            name: "kuer 90.1",
-            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
-        },
-        {
-            name: "KOHS 91.7",
-            logo: "stations/images-america/provo/KOHS 91.7.png",
-            url: "http://91.121.65.37:14356/;"
-        },
-        {
-            name: "ESPN 960",
-            logo: "stations/images-america/provo/ESPN 960.png",
-            url: "https://ais-sa1.streamon.fm/7348_48k.aac"
-        },
-        {
-            name: "1280 The Zone",
-            logo: "stations/images-america/provo/1280 The Zone.png",
-            url: "https://live.wostreaming.net/manifest/utahjazz-kznsamaac-ibc4"
-        },
-    ],
     "raton": [
         {
             name: "KENW 88.1",
@@ -4867,6 +4838,11 @@ var stations = {
             logo: "stations/images-america/salt_lake/Rock 106.7.png",
             url: "https://stream.revma.ihrhls.com/zc2397/hls.m3u8"
         },
+        {
+            name: "ALT 106.7-HD2",
+            logo: "stations/images-america/0_general_logos/ALT Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
     ],
     "santa_fe": [
         {
@@ -5024,6 +5000,11 @@ var stations = {
             name: "JAM’N 95.7",
             logo: "stations/images-america/san_diego/Jam'n 95.7.png",
             url: "https://stream.revma.ihrhls.com/zc261/hls.m3u8"
+        },
+        {
+            name: "BIN 95.7-HD2",
+            logo: "stations/images-america/0_general_logos/BIN.png",
+            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
         },
         {
             name: "96.1 The Answer",
@@ -19051,8 +19032,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmhkfmaac-ibc3"
         },
         {
-            name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/Wild 104.png",
+            name: "Boomer 104",
+            logo: "stations/images-america/0_general_logos/Boomer Radio.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -19133,8 +19114,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
         {
-            name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/Wild 104.png",
+            name: "Boomer 104",
+            logo: "stations/images-america/0_general_logos/Boomer Radio.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -19434,8 +19415,8 @@ var stations_c2c = {
             url: "http://138.68.48.163:8000/kxzi"
         },
         {
-            name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/Wild 104.png",
+            name: "Boomer 104",
+            logo: "stations/images-america/0_general_logos/Boomer Radio.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
@@ -19567,8 +19548,8 @@ var stations_c2c = {
             url: "http://69.30.243.166:12498/;"
         },
         {
-            name: "WiLD 104",
-            logo: "stations/images-america/0_general_logos/Wild 104.png",
+            name: "Boomer 104",
+            logo: "stations/images-america/0_general_logos/Boomer Radio.png",
             url: "http://5.135.158.214:14364/;"
         },
         {
