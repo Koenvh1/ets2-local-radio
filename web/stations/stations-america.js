@@ -5082,6 +5082,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc257/hls.m3u8"
         },
         {
+            name: "Mightier 1090",
+            logo: "stations/images-america/san_diego/Mightier 1090.png",
+            url: "https://backbonenetworks.streamguys1.com/XEPRS.mp3"
+        },
+        {
             name: "XTRA 1360",
             logo: "stations/images-america/san_diego/XTRA 1360.png",
             url: "https://stream.revma.ihrhls.com/zc249/hls.m3u8"
@@ -16401,11 +16406,6 @@ var stations_c2c = {
             name: "Talk 1200",
             logo: "stations/images-america/c2c/boston_ma/Talk 1200.png",
             url: "https://stream.revma.ihrhls.com/zc4705/hls.m3u8"
-        },
-        {
-            name: "Rumba 1430",
-            logo: "stations/images-america/c2c/boston_ma/Rumba 1430.png",
-            url: "https://stream.revma.ihrhls.com/zc4906/hls.m3u8"
         },
         {
             name: "1510 WMEX",
