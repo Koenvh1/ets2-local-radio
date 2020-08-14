@@ -1267,7 +1267,7 @@ var stations = {
         {
             name: "MDR Jump",
             logo: "stations/images-europe/germany-mdr/MDR Jump.svg",
-            url: "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3"
+            url: "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/aac/high/stream.aac"
         },
         {
             name: "MDR Aktuell",
