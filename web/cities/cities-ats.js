@@ -203,12 +203,6 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 1.2
     },
-    "holbrook": {
-        name: "Holbrook",
-        name_english: "Holbrook",
-        code: "us-az",
-        relative_radius: 1.2
-    },
     "huron": {
         name: "Huron",
         name_english: "Huron",
@@ -587,12 +581,6 @@ var country_properties = {
         code: "us-az",
         relative_radius: 1.2
     },
-    "tucumcari": {
-        name: "Tucumcari",
-        name_english: "Tucumcari",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
     "twin_falls": {
         name: "Twin Falls",
         name_english: "Twin Falls",
@@ -704,6 +692,9 @@ var city_properties = {
     "cedar_city": {
         relative_whitenoise: 0.95
     },
+    "clovis": {
+        relative_whitenoise: 0.90
+    },
     "colville": {
         relative_whitenoise: 0.85
     },
@@ -744,9 +735,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "grangeville": {
-        relative_whitenoise: 0.95
-    },
-    "holbrook": {
         relative_whitenoise: 0.95
     },
     "huron": {
@@ -1066,14 +1054,6 @@ var cities = [
         "x": "-73445",
         "y": "173.035",
         "z": "10298.5"
-    },
-    {
-        "gameName": "holbrook",
-        "realName": "Holbrook",
-        "country": "arizona",
-        "x": "-64899.9",
-        "y": "130.641",
-        "z": "18031.3"
     },
     {
         "gameName": "huron",
@@ -1426,14 +1406,6 @@ var cities = [
         "x": "-50697.3",
         "y": "123.242",
         "z": "24592.9"
-    },
-    {
-        "gameName": "tucumcari",
-        "realName": "Tucumcari",
-        "country": "new_mexico",
-        "x": "-35286.4",
-        "y": "142.113",
-        "z": "20109.9"
     },
     {
         "gameName": "astoria",
@@ -3680,12 +3652,6 @@ var country_properties_c2c = {
         code: "us-nj",
         relative_radius: 0.8
     },
-    "clayton_nm": {
-        name: "clayton_nm",
-        name_english: "clayton_nm",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
     "new_mexico": {
         name: "new_mexico",
         name_english: "new_mexico",
@@ -5139,9 +5105,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "morristown": {
-        relative_whitenoise: 0.95
-    },
-    "clayton_nm": {
         relative_whitenoise: 0.95
     },
     "new_york": {
@@ -6860,14 +6823,6 @@ var cities_c2c = [
         "x": "90418.5",
         "y": "21.6024",
         "z": "-20146.1"
-    },
-    {
-        "gameName": "clayton_nm",
-        "realName": "Clayton",
-        "country": "new_mexico",
-        "x": "-32291",
-        "y": "137.168",
-        "z": "13313.5"
     },
     {
         "gameName": "albany",

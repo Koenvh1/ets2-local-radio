@@ -63,9 +63,19 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KYEE"
         },
         {
+            name: "Mix 96.7",
+            logo: "stations/images-america/alamogordo/Mix 96.7.png",
+            url: "ttps://ice3.securenetsystems.net/KNMB"
+        },
+        {
             name: "Rock 97.9",
             logo: "stations/images-america/alamogordo/Rock 97.9.png",
             url: "http://ic1.mainstreamnetwork.com/ktmn-fm"
+        },
+        {
+            name: "KidX 101.5",
+            logo: "stations/images-america/alamogordo/KidX 101.5.png",
+            url: "https://ice3.securenetsystems.net/KIDX"
         },
         {
             name: "105.3 KZZX",
@@ -240,6 +250,11 @@ var stations = {
             name: "94.9 The Bridge",
             logo: "stations/images-america/astoria/94.9 The Bridge.png",
             url: "http://ice41.securenetsystems.net/KBGE"
+        },
+        {
+            name: "KSWB 840",
+            logo: "stations/images-america/astoria/KSWB 840.png",
+            url: "http://stream.radiojar.com/6ahprpus6p5tv"
         },
         {
             name: "AM 860 The Answer",
@@ -921,11 +936,6 @@ var stations = {
             name: "Big 101.5",
             logo: "stations/images-america/clovis/Big 101.5.png",
             url: "http://ice7.securenetsystems.net:80/KRMQFM"
-        },
-        {
-            name: "Variety 104.7",
-            logo: "stations/images-america/clovis/Variety 104.7.png",
-            url: "http://variety1047.com:8190/variety"
         },
         {
             name: "KSEL Country 105.9",
@@ -1616,6 +1626,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5952/hls.m3u8"
         },
         {
+            name: "KTNN 101.5",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
             name: "Rock 106.1",
             logo: "stations/images-america/gallup/Rock 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc6002/hls.m3u8"
@@ -1636,12 +1651,7 @@ var stations = {
             name: "Sunny FM 98.5",
             logo: "stations/images-america/omak/Sunny FM 97.7.png",
             url: "http://63.142.210.15:8001/;"
-        },/*
-        {
-            name: "Key Country 1490",
-            logo: "stations/images-america/grand_coulee/Key Country 1490.png",
-            url: "http://63.135.59.61:8001/;audio.mp3"
-        },*/
+        },
     ],
     "grangeville": [
         {
@@ -1710,23 +1720,6 @@ var stations = {
             name: "KIKZ 1250",
             logo: "stations/images-america/hobbs/KIKZ 1250.png",
             url: "http://173.193.205.96:7437/stream"
-        },
-    ],
-    "holbrook": [
-        {
-            name: "Q Country 92.5",
-            logo: "stations/images-america/holbrook/Q Country 92.5.png",
-            url: "https://ice42.securenetsystems.net/KTHQ"
-        },
-        {
-            name: "Power 95.7",
-            logo: "stations/images-america/holbrook/Power 95.7.png",
-            url: "http://stream.radiojar.com/s9y596g305quv.mp3"
-        },
-        {
-            name: "Majik 101.7",
-            logo: "stations/images-america/holbrook/Majik 101.7.png",
-            url: "https://ice42.securenetsystems.net/KQAZ"
         },
     ],
     "huron": [
@@ -5256,8 +5249,13 @@ var stations = {
     ],
     "san_simon": [
         {
-            name: "The Drive 101.7",
-            logo: "stations/images-america/san_simon/The Drive 101.7.png",
+            name: "KNST AM 790",
+            logo: "stations/images-america/tucson/KNST AM 790.png",
+            url: "https://stream.revma.ihrhls.com/zc3282/hls.m3u8"
+        },
+        {
+            name: "The Drive 830",
+            logo: "stations/images-america/tucson/The Drive 101.7.png",
             url: "https://ice5.securenetsystems.net/KDRI"
         },
     ],
@@ -5486,13 +5484,18 @@ var stations = {
         },
         {
             name: "Q Country 92.5",
-            logo: "stations/images-america/holbrook/Q Country 92.5.png",
+            logo: "stations/images-america/show_low/Q Country 92.5.png",
             url: "https://ice42.securenetsystems.net/KTHQ"
         },
         {
             name: "Power 95.7",
-            logo: "stations/images-america/holbrook/Power 95.7.png",
+            logo: "stations/images-america/show_low/Power 95.7.png",
             url: "http://stream.radiojar.com/s9y596g305quv.mp3"
+        },
+        {
+            name: "Mix 98",
+            logo: "stations/images-america/show_low/Mix 98.png",
+            url: "https://ice23.securenetsystems.net/KRFM"
         },
         {
             name: "K-Bear 100.5",
@@ -5501,13 +5504,18 @@ var stations = {
         },
         {
             name: "Majik 101.7",
-            logo: "stations/images-america/holbrook/Majik 101.7.png",
+            logo: "stations/images-america/show_low/Majik 101.7.png",
             url: "https://ice42.securenetsystems.net/KQAZ"
         },
         {
-            name: "107.9 Rewind",
-            logo: "stations/images-america/show_low/107.9 Rewind.png",
-            url: "http://1079rewind.com:8192/rewind128"
+            name: "105.5 KSNX",
+            logo: "stations/images-america/show_low/105.5 KSNX.png",
+            url: "https://ice66.securenetsystems.net/KSNX"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
         },
         {
             name: "970 KVWM",
@@ -5527,19 +5535,19 @@ var stations = {
             url: "http://streaming.azpm.org:80/kuat192.mp3"
         },
         {
-            name: "93.7 KRQ",
-            logo: "stations/images-america/tucson/93.7 KRQ.png",
-            url: "https://stream.revma.ihrhls.com/zc77/hls.m3u8"
+            name: "KWCD 92.3",
+            logo: "stations/images-america/sierra_vista/KWCD 92.3.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kwcdfmaac-ibc4"
+        },
+        {
+            name: "Thunder 98.1",
+            logo: "stations/images-america/sierra_vista/Thunder 98.1.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-ktanamaac-ibc4"
         },
         {
             name: "K101",
             logo: "stations/images-america/sierra_vista/K101.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kzmkfmaac-ibc4"
-        },
-        {
-            name: "KTAN 1420",
-            logo: "stations/images-america/sierra_vista/KTAN 1420.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-ktanamaac-ibc4"
         },
     ],
     "socorro": [
@@ -6059,14 +6067,12 @@ var stations = {
             logo: "stations/images-america/tucson/K-HIT 107.5.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHYTFMAAC_SC"
         },
-    ], 
-    "tucumcari": [
         {
-            name: "KENW 88.9",
-            logo: "stations/images-america/0_general_logos/KENW.png",
-            url: "http://ice10.securenetsystems.net:80/KENWFM"
+            name: "KNST AM 790",
+            logo: "stations/images-america/tucson/KNST AM 790.png",
+            url: "https://stream.revma.ihrhls.com/zc3282/hls.m3u8"
         },
-    ],
+    ], 
     "twin_falls": [
         {
             name: "BSPR Classical 91.7",
