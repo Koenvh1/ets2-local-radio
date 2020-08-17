@@ -2665,7 +2665,7 @@ var stations = {
         },
         {
             name: "Slow Jams 92.3-HD2",
-            logo: "stations/images-america/los_angeles/Slow Jams 92.3-HD2.png",
+            logo: "stations/images-america/0_general_logos/Slow Jams.png",
             url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
         },
         {
@@ -6014,7 +6014,7 @@ var stations = {
         },
         {
             name: "Slow Jams 98.3-HD2",
-            logo: "stations/images-america/los_angeles/Slow Jams 92.3-HD2.png",
+            logo: "stations/images-america/0_general_logos/Slow Jams.png",
             url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
         },
         {
@@ -6103,6 +6103,11 @@ var stations = {
             name: "KOOL 96.5",
             logo: "stations/images-america/twin_falls/KOOL 96.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klixfmaac-ibc3"
+        },
+        {
+            name: "Balanced Rock 97.5",
+            logo: "stations/images-america/twin_falls/Balanced Rock 97.5.png",
+            url: "https://ice9.securenetsystems.net/KXTAAM"
         },
         {
             name: "98.3 The Snake",
@@ -28058,28 +28063,33 @@ var stations_c2c = {
     ],
     "norfolk": [
         {
+            name: "Streetz 87.7",
+            logo: "stations/images-america/c2c/norfolk_va/Streetz 87.7.png",
+            url: "http://104.6.216.93:8000/wmto"
+        },
+        {
             name: "Smooth 88.1",
             logo: "stations/images-america/c2c/norfolk_va/Smooth 88.1.png",
             url: "https://c11icy.prod.playlists.ihrhls.com/5599_icy"
         },
         {
             name: "89.5 WHRV",
-            logo: "stations/images-america/c2c/norfolk_va/89.5 WHRV.svg",
+            logo: "stations/images-america/c2c/norfolk_va/89.5 WHRV.png",
             url: "https://stationwhrv.whro.org/128"
         },
         {
             name: "altradio 89.5-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/altradio 89.5-HD2.svg",
+            logo: "stations/images-america/c2c/norfolk_va/altradio 89.5-HD2.png",
             url: "https://stationaltradio.whro.org/128"
         },
         {
             name: "WHRO 90.3",
-            logo: "stations/images-america/c2c/norfolk_va/WHRO 90.3.svg",
+            logo: "stations/images-america/c2c/norfolk_va/WHRO 90.3.png",
             url: "https://stationwhro.whro.org/128"
         },
         {
             name: "1920s Radio Network 90.3-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/1920s Radio Network 90.3-HD2.svg",
+            logo: "stations/images-america/c2c/norfolk_va/1920s Radio Network 90.3-HD2.png",
             url: "https://station1920s.whro.org/128"
         },
         {
@@ -28199,7 +28209,7 @@ var stations_c2c = {
         },
         {
             name: "Slow Jams 105.3-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/Slow Jams 105.3-HD2.png",
+            logo: "stations/images-america/0_general_logos/Slow Jams.png",
             url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
         },
         {
