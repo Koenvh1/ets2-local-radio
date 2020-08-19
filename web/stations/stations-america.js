@@ -24644,8 +24644,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3062/hls.m3u8"
         },
         {
-            name: "94.7 ESPN",
-            logo: "stations/images-america/c2c/charleston_sc/94.7 ESPN.png",
+            name: "94.7 The Zone",
+            logo: "stations/images-america/c2c/charleston_sc/94.7 The Zone.png",
             url: "https://ice5.securenetsystems.net/WTMZ"
         },
         {
@@ -24669,9 +24669,14 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/WYBB"
         },
         {
-            name: "98.5 The Zone",
-            logo: "stations/images-america/c2c/charleston_sc/98.5 The Zone.png",
+            name: "98.5 WQSC",
+            logo: "stations/images-america/c2c/charleston_sc/98.5 WQSC.png",
             url: "https://ice5.securenetsystems.net/WQSC"
+        },
+        {
+            name: "98.9 ESPN",
+            logo: "stations/images-america/c2c/charleston_sc/98.9 ESPN.png",
+            url: "https://ice5.securenetsystems.net/WWIK"
         },
         {
             name: "102.1 The City",
