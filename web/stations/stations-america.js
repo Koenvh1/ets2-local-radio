@@ -5416,8 +5416,8 @@ var stations = {
             url: "http://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
-            name: "Jubal 106.1",
-            logo: "stations/images-america/seattle/Jubal 106.1.png",
+            name: "HITS 106.1",
+            logo: "stations/images-america/seattle/HITS 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
         },
         {
