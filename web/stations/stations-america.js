@@ -3962,6 +3962,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KGONFMAAC_SC"
         },
         {
+            name: "Waterfront Blues Radio 92.3-HD2",
+            logo: "stations/images-america/portland/Waterfront Blues Radio 92.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KGONHD2AAC_SC"
+        },
+        {
             name: "94.7 FM",
             logo: "stations/images-america/portland/94.7 FM.png",
             url: "https://cors-anywhere.herokuapp.com/http://playerservices.streamtheworld.com/api/livestream-redirect/KNRKFMAAC_SC"
@@ -5145,6 +5150,11 @@ var stations = {
             name: "96.5 koit",
             logo: "stations/images-america/san_francisco/96.5 KOIT.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC_SC"
+        },
+        {
+            name: "Highway 1 Radio 96.5-HD2",
+            logo: "stations/images-america/san_francisco/Highway 1 Radio 96.5-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOIT_HD2AAC_SC"
         },
         {
             name: "Alice@97.3",

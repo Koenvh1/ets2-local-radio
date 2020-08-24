@@ -321,7 +321,7 @@ var country_properties = {
         name: "Merced",
         name_english: "Merced",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "moab": {
         name: "Moab",
