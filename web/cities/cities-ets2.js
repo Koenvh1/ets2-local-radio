@@ -317,6 +317,12 @@ var country_properties = {
         code: "mk",
         relative_radius: 0.6,
     },
+    "mnegro": {
+        name: "Црна Гора",
+        name_english: "Montenegro",
+        code: "me",
+        relative_radius: 1.0,
+    },
     "moldova": {
         name: "Moldova",
         name_english: "Moldova",
@@ -1288,14 +1294,6 @@ var cities = [
         "x": "49264.7",
         "y": "130",
         "z": "15764.6"
-    },
-    {
-        "gameName": "balti",
-        "realName": "Bălţi",
-        "country": "moldova",
-        "x": "65823.7",
-        "y": "120",
-        "z": "12512"
     },
     {
         "gameName": "balvi",
@@ -6838,6 +6836,217 @@ var cities_pm245 = [
     }
 ];
 
+var cities_pm250 = [
+    {
+        "gameName": "balti",
+        "realName": "Bălţi",
+        "country": "moldova",
+        "x": "66036.4",
+        "y": "69.9648",
+        "z": "12143.2"
+    },
+    {
+        "gameName": "bar",
+        "realName": "Бар",
+        "country": "mnegro",
+        "x": "34393.6",
+        "y": "-15.1663",
+        "z": "49199"
+    },
+    {
+        "gameName": "batumi",
+        "realName": "ბათუმი",
+        "country": "georgia",
+        "x": "128202",
+        "y": "57",
+        "z": "31240"
+    },
+    {
+        "gameName": "chemnitz",
+        "realName": "Chemnitz",
+        "country": "germany",
+        "x": "8381.26",
+        "y": "54.168",
+        "z": "196.84"
+    },
+    {
+        "gameName": "ciudadreal",
+        "realName": "Ciudad Real",
+        "country": "spain",
+        "x": "-68250.4",
+        "y": "71.6484",
+        "z": "57201.3"
+    },
+    {
+        "gameName": "elbasani",
+        "realName": "Elbasani",
+        "country": "albania",
+        "x": "38231.5",
+        "y": "53.1953",
+        "z": "54301.4"
+    },
+    {
+        "gameName": "exeter",
+        "realName": "Exeter",
+        "country": "uk",
+        "x": "-57903.7",
+        "y": "94.9688",
+        "z": "-10544.3"
+    },
+    {
+        "gameName": "geta",
+        "realName": "Geta",
+        "country": "aland",
+        "x": "30211",
+        "y": "57.9688",
+        "z": "-55443.6"
+    },
+    {
+        "gameName": "godby",
+        "realName": "Godby",
+        "country": "aland",
+        "x": "30947.3",
+        "y": "57.9688",
+        "z": "-54314.7"
+    },
+    {
+        "gameName": "karesuando",
+        "realName": "Karesuando",
+        "country": "sweden",
+        "x": "30677.7",
+        "y": "101.82",
+        "z": "-102857"
+    },
+    {
+        "gameName": "koper",
+        "realName": "Koper",
+        "country": "slovenia",
+        "x": "9662.57",
+        "y": "70",
+        "z": "31312.5"
+    },
+    {
+        "gameName": "kovel",
+        "realName": "Ковель",
+        "country": "ukraine",
+        "x": "50267.7",
+        "y": "130.605",
+        "z": "-5276.61"
+    },
+    {
+        "gameName": "krasnystaw",
+        "realName": "Krasnystaw",
+        "country": "poland",
+        "x": "45176.6",
+        "y": "125",
+        "z": "-3092.67"
+    },
+    {
+        "gameName": "lulea",
+        "realName": "Luleå",
+        "country": "sweden",
+        "x": "33242.7",
+        "y": "63.0664",
+        "z": "-84747.6"
+    },
+    {
+        "gameName": "lutsk",
+        "realName": "Луцьк",
+        "country": "ukraine",
+        "x": "53567.8",
+        "y": "92.2539",
+        "z": "-2108.44"
+    },
+    {
+        "gameName": "mostar",
+        "realName": "Mostar",
+        "country": "bosnia",
+        "x": "28345.8",
+        "y": "78.9609",
+        "z": "40862.6"
+    },
+    {
+        "gameName": "muonio",
+        "realName": "Muonio",
+        "country": "finland",
+        "x": "34199.8",
+        "y": "93",
+        "z": "-100131"
+    },
+    {
+        "gameName": "norwich",
+        "realName": "Norwich",
+        "country": "uk",
+        "x": "-30444.7",
+        "y": "103.328",
+        "z": "-19256.9"
+    },
+    {
+        "gameName": "novovolynsk",
+        "realName": "Нововолинськ",
+        "country": "ukraine",
+        "x": "49916.4",
+        "y": "100.664",
+        "z": "-901.023"
+    },
+    {
+        "gameName": "piotrkowt",
+        "realName": "Piotrków Trybunalski",
+        "country": "poland",
+        "x": "33627.6",
+        "y": "60.8477",
+        "z": "-3904.72"
+    },
+    {
+        "gameName": "poti",
+        "realName": "ფოთი",
+        "country": "georgia",
+        "x": "128280",
+        "y": "52",
+        "z": "28397.5"
+    },
+    {
+        "gameName": "pula",
+        "realName": "Pula",
+        "country": "croatia",
+        "x": "12262.9",
+        "y": "73",
+        "z": "33592"
+    },
+    {
+        "gameName": "stryi",
+        "realName": "Стрий",
+        "country": "ukraine",
+        "x": "49503.3",
+        "y": "124.992",
+        "z": "6186.38"
+    },
+    {
+        "gameName": "sumeg",
+        "realName": "Sümeg",
+        "country": "hungary",
+        "x": "25193.6",
+        "y": "64.918",
+        "z": "21183.7"
+    },
+    {
+        "gameName": "szombathely",
+        "realName": "Szombathely",
+        "country": "hungary",
+        "x": "24040.9",
+        "y": "79",
+        "z": "19867.5"
+    },
+    {
+        "gameName": "thorlakshofn",
+        "realName": "Þorlákshöfn",
+        "country": "iceland",
+        "x": "-91379",
+        "y": "49.7656",
+        "z": "-95046.1"
+    }
+];
+
 var cities_pm_me = [
     {
         "gameName": "afula",
@@ -10348,6 +10557,7 @@ cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
 cities = cities.concat(cities_pm245); //ProMods 2.45 cities
+cities = cities.concat(cities_pm250); //ProMods 2.50 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map

@@ -1061,8 +1061,28 @@ var stations = {
     "georgia": [
         {
             name: "რადიო 1",
-            logo: "stations/images-europe/georgia/რადიო 1.jpg",
-            url: "https://cors-anywhere.herokuapp.com/https://tv.cdn.xsg.ge/gpb-radio1studia/tracks-v1a1/index.m3u8"
+            logo: "stations/images-europe/georgia/რადიო 1.svg",
+            url: "https://tv.cdn.xsg.ge/gpb-radio1/index.m3u8"
+        },
+        {
+            name: "იმედი",
+            logo: "stations/images-europe/georgia/იმედი.png",
+            url: "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8"
+        },
+        {
+            name: "Fortuna",
+            logo: "stations/images-europe/georgia/Fortuna.png",
+            url: "https://tv.cdn.xsg.ge/cld9-0386/fortuna/index.m3u8"
+        },
+        {
+            name: "Fortuna Plus",
+            logo: "stations/images-europe/georgia/Fortuna Plus.png",
+            url: "https://tv.cdn.xsg.ge/cld9-0386/fortunaplus/index.m3u8"
+        },
+        {
+            name: "რადიო თავისუფლება",
+            logo: "stations/images-europe/georgia/რადიო თავისუფლება.svg",
+            url: "https://ample-08.radiojar.com/s4r86napn3quv?rj-ttl=5&rj-tok=AAABdCta2uMA7vHHEOIczpU1Dg"
         },
     ],
     "germany": [
@@ -2321,6 +2341,23 @@ var stations = {
             name: "Metropolis Radio",
             logo: "stations/images-europe/macedonia/Metropolis Radio.png",
             url: "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
+        },
+    ],
+    "mnegro": [
+        {
+            name: "RTCG RCG",
+            logo: "stations/images-europe/mnegro/RTCG RCG.svg",
+            url: "http://radio.beotel.net:8008/;"
+        },
+        {
+            name: "RTCG R98",
+            logo: "stations/images-europe/mnegro/RTCG R98.svg",
+            url: "http://radio.beotel.net:8010/;"
+        },
+        {
+            name: "Radio D Plus",
+            logo: "stations/images-europe/mnegro/Radio D Plus.svg",
+            url: "http://tachyon.shoutca.st:8303/xstream"
         },
     ],
     "moldova": [
