@@ -13,36 +13,6 @@ var stations = {
         },
     ],
     "albania": [
-    	{
-            name: "ABC News",
-            logo: "stations/images-europe/albania/ABC News.png",
-            url: "https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8;"
-        },
-        {
-            name: "Alpo Radio",
-            logo: "stations/images-europe/albania/Alpo Radio.png",
-            url: "http://62.210.24.124:8379/;stream.mp3"
-        },
-        {
-            name: "Alsion Radio",
-            logo: "stations/images-europe/albania/Alsion Radio.png",
-            url: "http://109.169.26.216:8018/;"
-        },
-        {
-            name: "Big FM 101.6",
-            logo: "stations/images-europe/albania/Big FM.jpg",
-            url: "http://46.252.33.58:9310/;stream.mp3;"
-        },
-        {
-            name: "Kiss FM",
-            logo: "stations/images-europe/albania/Kiss FM.jpg",
-            url: "https://stream.kissfm.com.al:8000/stream.m3u;"
-        },
-        {
-            name: "NRG (Energy)",
-            logo: "stations/images-europe/albania/NRG.png",
-            url: "https://ice31.securenetsystems.net/AL09?playSessionID=9D798F39-FE4D-F033-9332CBD2C0B8F1DF;"
-        },
         {
             name: "Radio Tirana 1",
             logo: "stations/images-europe/albania/Radio Tirana 1.jpg",
@@ -59,16 +29,45 @@ var stations = {
             url: "http://149.202.220.47:8888/radiotirana3"
         },
         {
+            name: "ABC News",
+            logo: "stations/images-europe/albania/ABC News.png",
+            url: "https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8"
+        },
+        {
+            name: "Alpo Radio",
+            logo: "stations/images-europe/albania/Alpo Radio.png",
+            url: "http://62.210.24.124:8379/;stream.mp3"
+        },
+        {
+            name: "Alsion Radio",
+            logo: "stations/images-europe/albania/Alsion Radio.png",
+            url: "http://109.169.26.216:8018/;"
+        },
+        {
+            name: "Big FM 101.6",
+            logo: "stations/images-europe/albania/Big FM.jpg",
+            url: "http://46.252.33.58:9310/;stream.mp3"
+        },
+        {
+            name: "Kiss FM",
+            logo: "stations/images-europe/albania/Kiss FM.jpg",
+            url: "https://stream.kissfm.com.al:8000/stream?ver=699557"
+        },
+        {
+            name: "NRG (Energy)",
+            logo: "stations/images-europe/albania/NRG.png",
+            url: "https://ice31.securenetsystems.net/AL09?playSessionID=9D798F39-FE4D-F033-9332CBD2C0B8F1DF"
+        },
+        {
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
-            url: "http://93.190.141.15:8452/;"
+            url: "http://cp1.sednastream.com:8004/;"
         },
         {
             name: "Top Gold",
             logo: "stations/images-europe/albania/Top Gold.png",
             url: "http://live.topgold.al:9080/;"
         },
-
     ],
     "algier": [
         {
