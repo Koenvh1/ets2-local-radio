@@ -50,7 +50,7 @@ var stations = {
         },
         {
             name: "Kiss FM",
-            logo: "stations/images-europe/albania/Kiss FM.jpg",
+            logo: "stations/images-europe/albania/Kiss FM.png",
             url: "https://stream.kissfm.com.al:8000/stream?ver=699557"
         },
         {
