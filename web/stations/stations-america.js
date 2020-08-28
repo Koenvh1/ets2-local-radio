@@ -17851,9 +17851,19 @@ var stations_c2c = {
             url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
         },
         {
+            name: "97.9 The Beat",
+            logo: "stations/images-america/c2c/greenwood_ms/97.9 The Beat.png",
+            url: "https://ice9.securenetsystems.net/WIBT"
+        },
+        {
             name: "MAX 99",
             logo: "stations/images-america/c2c/greenwood_ms/MAX 99.png",
             url: "https://ice-1.streamhoster.com/lv_wsna1--wymx"
+        },
+        {
+            name: "Q102",
+            logo: "stations/images-america/c2c/greenwood_ms/Q102.png",
+            url: "https://ice41.securenetsystems.net/WIQQ"
         },
         {
             name: "104.3 WGNL",
@@ -23485,7 +23495,7 @@ var stations_c2c = {
         },
         {
             name: "99.7 Hank FM",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/99.7 Hank FM.png",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/99.7 HANK FM.png",
             url: "https://ice8.securenetsystems.net/KNAH"
         },
         {
