@@ -11516,6 +11516,11 @@ var stations_c2c = {
             url: "https://crystalout.surfernetwork.com:8001/WAKB_MP3"
         },
         {
+            name: "Sunny 102.7",
+            logo: "stations/images-america/c2c/augusta_ga/Sunny 102.7.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WGUSFMAAC_SC"
+        },
+        {
             name: "Foxie 103 Jamz",
             logo: "stations/images-america/c2c/augusta_ga/Foxie 103 Jamz.png",
             url: "https://crystalout.surfernetwork.com:8001/WFXA_MP3"
@@ -12848,13 +12853,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC_SC"
         },
         {
-            name: "US92.7",
-            logo: "stations/images-america/c2c/springfield_il/US92.7.png",
-            url: "http://crystalout.surfernetwork.com:8001/WUSW-FM_MP3"
-        },
-        {
-            name: "94.7 WMAY",
-            logo: "stations/images-america/c2c/springfield_il/94.7 WMAY.png",
+            name: "92.7 WMAY",
+            logo: "stations/images-america/c2c/springfield_il/92.7 WMAY.png",
             url: "http://crystalout.surfernetwork.com:8001/WMAY-AM_MP3"
         },
         {
