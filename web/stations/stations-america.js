@@ -7540,8 +7540,8 @@ var stations_c2c = {
             url: "https://ic2.sslstream.com/wcks-fm"
         },
         {
-            name: "MIX 102.9",
-            logo: "stations/images-america/c2c/anniston_al/MIX 102.9.png",
+            name: "FOX Sports 102.9",
+            logo: "stations/images-america/c2c/anniston_al/FOX Sports 102.9.png",
             url: "https://ice41.securenetsystems.net/MIX1029"
         },
         {
@@ -25326,8 +25326,8 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/KSOU"
         },
         {
-            name: "Mix 97.3",
-            logo: "stations/images-america/c2c/sioux_falls_sd/Mix 97.3.png",
+            name: "97.3 KKRC",
+            logo: "stations/images-america/c2c/sioux_falls_sd/97.3 KKRC.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmxcfmaac-ibc3"
         },
         {
@@ -28692,6 +28692,11 @@ var stations_c2c = {
             name: "V96.9",
             logo: "stations/images-america/c2c/parkersburg_wv/V96.9.png",
             url: "http://ice5.securenetsystems.net/WVVVFM"
+        },
+        {
+            name: "98.1 WVAM",
+            logo: "stations/images-america/c2c/parkersburg_wv/98.1 WVAM.png",
+            url: "https://ice64.securenetsystems.net/WVAM"
         },
         {
             name: "MIX 100",
