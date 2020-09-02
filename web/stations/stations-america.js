@@ -22650,8 +22650,8 @@ var stations_c2c = {
             url: "http://stream.wcrsfm.org:8000/wcrsfm_a"
         },
         {
-            name: "92.9 WDLR",
-            logo: "stations/images-america/c2c/columbus_oh/92.9 WDLR.png",
+            name: "My 92.9",
+            logo: "stations/images-america/c2c/columbus_oh/My 92.9.png",
             url: "ttps://ice9.securenetsystems.net/WDLR"
         },
         {
