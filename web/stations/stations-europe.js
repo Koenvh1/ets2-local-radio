@@ -2089,24 +2089,24 @@ var stations = {
     ],
     "jordan": [
         {
-            name: "الإذاعة الأردنية",
-            logo: "stations/images-europe/jordan/الإذاعة الأردنية.png",
-            url: "http://stream.joinvisions.net:1935/jorlive/Jordan_Radio_Audio/playlist.m3u8?DVR"
-        },
-        {
-            name: "إذاعة عمان اف ام",
-            logo: "stations/images-europe/jordan/إذاعة عمان اف ام.png",
-            url: "http://stream.joinvisions.net:1935/Jordantv/Amman-FM-Audio/playlist.m3u8?DVR"
-        },
-        {
-            name: "إذاعة القران الكريم",
-            logo: "stations/images-europe/jordan/إذاعة القران الكريم.png",
-            url: "http://stream.joinvisions.net:1935/jorlive/quranaudio/playlist.m3u8?DVR"
+            name: "اذاعة القرآن الكريم",
+            logo: "stations/images-europe/jordan/اذاعة القرآن الكريم.png",
+            url: "https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8"
         },
         {
             name: "Radio Jordan",
             logo: "stations/images-europe/jordan/Radio Jordan.png",
-            url: "http://stream.joinvisions.net:1935/live/en/playlist.m3u8"
+            url: "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8"
+        },
+        {
+            name: "اذاعة عمان اف ام",
+            logo: "stations/images-europe/jordan/اذاعة عمان اف ام.png",
+            url: "https://jrtv-live.ercdn.net/jrradio/ammanradiovideo.m3u8"
+        },
+        {
+            name: "الإذاعة الأردنية",
+            logo: "stations/images-europe/jordan/الإذاعة الأردنية.png",
+            url: "https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8"
         },
         {
             name: "مونت كارلو الدولية",
@@ -2879,11 +2879,13 @@ var stations = {
             logo: "stations/images-europe/romania/Radio Trinitas.png",
             url: "http://live.radiotrinitas.ro:8000/;"
         },
+        /*
         {
             name: "Radio Zu",
             logo: "stations/images-europe/romania/Radio Zu.png",
             url: "https://live2ro.antenaplay.ro/radiozu/radiozu-48000.m3u8"
         },
+         */
         {
             name: "Virgin Radio",
             logo: "stations/images-europe/romania/Virgin Radio.png",
