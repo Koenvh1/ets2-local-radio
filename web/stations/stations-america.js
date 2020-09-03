@@ -2820,7 +2820,7 @@ var stations = {
         },
         {
             name: "710 ESPN",
-            logo: "stations/images-america/los_angeles/710 KSPN.png",
+            logo: "stations/images-america/los_angeles/710 ESPN.png",
             url: "https://live.wostreaming.net/manifest/espn-kspnmp3-48"
         },
         {
