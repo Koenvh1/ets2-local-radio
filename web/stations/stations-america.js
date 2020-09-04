@@ -12468,8 +12468,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC_SC"
         },
         {
-            name: "BIG 95.5",
-            logo: "stations/images-america/c2c/chicago_il/BIG 95.5.png",
+            name: "ROCK 95.5",
+            logo: "stations/images-america/c2c/chicago_il/ROCK 95.5.png",
             url: "https://stream.revma.ihrhls.com/zc857/hls.m3u8"
         },
         {
@@ -12483,7 +12483,12 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMFMAAC_SC"
         },
         {
-            name: "ChannelQ 96.3-HD2",
+            name: "Energy 96.3-HD2",
+            logo: "stations/images-america/c2c/chicago_il/Energy 96.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WCFSHD2AAC_SC"
+        },
+        {
+            name: "ChannelQ 96.3-HD3",
             logo: "stations/images-america/0_general_logos/ChannelQ.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
@@ -12566,11 +12571,6 @@ var stations_c2c = {
             name: "WBBM 105.9",
             logo: "stations/images-america/c2c/chicago_il/WBBM 105.9.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMAMAAC_SC"
-        },
-        {
-            name: "Energy 105.9-HD2",
-            logo: "stations/images-america/c2c/chicago_il/Energy 105.9-HD2.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WCFSHD2AAC_SC"
         },
         {
             name: "106.3 WSRB",
@@ -14504,8 +14504,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://ice9.securenetsystems.net/WLXG"
         },
         {
-            name: "Nash FM 92.9",
-            logo: "stations/images-america/c2c/lexington_ky/Nash FM 92.9.png",
+            name: "K92.9",
+            logo: "stations/images-america/c2c/lexington_ky/K92.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLXXFMAAC_SC"
         },
         {
@@ -26686,6 +26686,16 @@ var stations_c2c = {
             name: "98.7 KLUV",
             logo: "stations/images-america/c2c/dallas_tx/98.7 KLUV.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLUVFMAAC_SC"
+        },
+        {
+            name: "Smokin' Oldies 98.7-HD2",
+            logo: "stations/images-america/c2c/dallas_tx/Smokin' Oldies 98.7-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLUVHD2AAC_SC"
+        },
+        {
+            name: "98.7 KLUV-HD3",
+            logo: "stations/images-america/c2c/dallas_tx/98.7 KLUV-HD3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLUVHD3AAC_SC"
         },
         {
             name: "99.5 The Wolf",
