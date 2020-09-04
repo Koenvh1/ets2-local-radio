@@ -1110,8 +1110,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
-            name: "FM100.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            name: "FM 100.3",
+            logo: "stations/images-america/salt_lake/FM 100.3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -4134,8 +4134,8 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KSLL"
         },
         {
-            name: "FM100.3 @ 105.5",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            name: "FM 100.3 @ 105.5",
+            logo: "stations/images-america/salt_lake/FM 100.3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -4648,8 +4648,8 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
-            name: "FM100.3 @ 103.1",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            name: "FM 100.3 @ 103.1",
+            logo: "stations/images-america/salt_lake/FM 100.3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -4767,9 +4767,14 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2385/hls.m3u8"
         },
         {
-            name: "FM100.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            name: "FM 100.3",
+            logo: "stations/images-america/salt_lake/FM 100.3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
+        },
+        {
+            name: "Sunday Sounds 100.3-HD2",
+            logo: "stations/images-america/salt_lake/Sunday Sounds 100.3-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
         },
         {
             name: "Rewind 100.7",
@@ -8388,8 +8393,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWHFFM_SC"
         },
         {
-            name: "99.3 Jill FM",
-            logo: "stations/images-america/c2c/jonesboro_ar/99.3 Jill FM.png",
+            name: "Jill @ 99.3",
+            logo: "stations/images-america/c2c/jonesboro_ar/Jill @ 99.3.png",
             url: "https://ice23.securenetsystems.net/KTPG"
         },
         {
