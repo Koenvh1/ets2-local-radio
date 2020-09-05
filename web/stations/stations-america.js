@@ -15143,8 +15143,8 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/KFXZAM"
         },
         {
-            name: "Nash FM 99.1",
-            logo: "stations/images-america/c2c/lafayette_la/Nash FM 99.1.png",
+            name: "99.1 KXKC",
+            logo: "stations/images-america/c2c/lafayette_la/99.1 KXKC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
         },
         {
@@ -25741,6 +25741,11 @@ var stations_c2c = {
             url: "https://stream.radiojar.com/16177nyd41zuv"
         },
         {
+            name: "i105",
+            logo: "stations/images-america/c2c/knoxville_tn/i105.png",
+            url: "https://ice66.securenetsystems.net/WFIV"
+        },
+        {
             name: "Fanrun Radio 105.7",
             logo: "stations/images-america/c2c/knoxville_tn/Fanrun Radio 105.7.png",
             url: "https://ice64.securenetsystems.net/WKGN2"
@@ -27474,6 +27479,11 @@ var stations_c2c = {
             name: "ESPN 94.1",
             logo: "stations/images-america/c2c/texarkana_tx/ESPN 94.1.png",
             url: "http://184.164.135.70:8201/stream"
+        },
+        {
+            name: "The River 95.1",
+            logo: "stations/images-america/c2c/texarkana_tx/The River 95.1.png",
+            url: "https://ice42.securenetsystems.net/KEWL"
         },
         {
             name: "Power 95.9",
