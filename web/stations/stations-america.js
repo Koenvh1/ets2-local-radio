@@ -14663,7 +14663,7 @@ var stations_c2c = {
         {
             name: "SAM 103.9",
             logo: "stations/images-america/c2c/london_ky/SAM 103.9.png",
-            url: "https://ice23.securenetsystems.net/WWEL"
+            url: "https://forcht.streamguys1.com/wwel-fm"
         },
         {
             name: "EZ Country 104.3",
