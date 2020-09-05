@@ -25743,7 +25743,7 @@ var stations_c2c = {
         {
             name: "i105",
             logo: "stations/images-america/c2c/knoxville_tn/i105.png",
-            url: "https://ice66.securenetsystems.net/WFIV"
+            url: "https://cors-anywhere.herokuapp.com/https://ice66.securenetsystems.net/WFIV"
         },
         {
             name: "Fanrun Radio 105.7",
