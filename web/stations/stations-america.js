@@ -10764,6 +10764,11 @@ var stations_c2c = {
             url: "http://mega5.fast-serv.com:8026/"
         },
         {
+            name: "Z96",
+            logo: "stations/images-america/c2c/pensacola_fl/Z96.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZNSFMAAC_SC"
+        },
+        {
             name: "Cat Country 98.7",
             logo: "stations/images-america/c2c/pensacola_fl/Cat Country 98.7.png",
             url: "http://newsradio1620.streamguys.org/catcountryaac"
