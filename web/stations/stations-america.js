@@ -8348,12 +8348,12 @@ var stations_c2c = {
         {
             name: "96.7 The Rocket",
             logo: "stations/images-america/c2c/hot_springs_ar/96.7 The Rocket.png",
-            url: "https://rocket.surfernetwork.com:10001/live/klxq-fm_aac/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/https://crystalout.surfernetwork.com:8001/KLXQ-FM_MP3"
         },
         {
             name: "US 97",
             logo: "stations/images-america/c2c/hot_springs_ar/US 97.png",
-            url: "https://rocket.surfernetwork.com:10001/live/kqus_aac/playlist.m3u8"
+            url: "https://cors-anywhere.herokuapp.com/https://crystalout.surfernetwork.com:8001/KQUS_MP3"
         },
         {
             name: "KOOL 101.5",
