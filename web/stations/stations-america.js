@@ -4176,14 +4176,24 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KBKZFM"
         },
         {
+            name: "Radio Exitos 99.1",
+            logo: "stations/images-america/raton/Radio Exitos 99.1.png",
+            url: "https://us2.maindigitalstream.com/ssl/KXMT"
+        },
+        {
             name: "My 99.3",
             logo: "stations/images-america/raton/My 99.3.png",
             url: "https://ice42.securenetsystems.net/MY993"
         },
         {
+            name: "KKTC 99.9",
+            logo: "stations/images-america/raton/KKTC 99.9.png",
+            url: "https://us2.maindigitalstream.com/ssl/KKTC"
+        },
+        {
             name: "Mix 106.5",
             logo: "stations/images-america/raton/Mix 106.5.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice42.securenetsystems.net/KNMF"
+            url: "https://us2.maindigitalstream.com/ssl/KNMF"
         },
     ],
 	"redbluff": [
@@ -8309,7 +8319,7 @@ var stations_c2c = {
             url: "http://crystalout.surfernetwork.com:8001/KQIS-FM_MP3"
         },
         {
-            name: "POWER 105.7",
+            name: "Power 105.7",
             logo: "stations/images-america/c2c/fayetteville_ar/POWER 105.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMCKFMAAC_SC"
         },
@@ -26809,7 +26819,7 @@ var stations_c2c = {
         {
             name: "Big Country 95.3",
             logo: "stations/images-america/c2c/dumas_tx/Big Country 95.3.png",
-            url: "http://192.111.140.11:9000/stream"
+            url: "https://us2.maindigitalstream.com/ssl/KDDD"
         },
         {
             name: "KJIL 106.9",
