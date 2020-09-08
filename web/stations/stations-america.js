@@ -23021,8 +23021,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1849/hls.m3u8"
         },
         {
-            name: "Q105.5",
-            logo: "stations/images-america/c2c/toledo_oh/Q105.5.png",
+            name: "Q105",
+            logo: "stations/images-america/c2c/toledo_oh/Q105.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQQOFMAAC_SC"
         },
         {
@@ -23151,6 +23151,11 @@ var stations_c2c = {
             name: "Sports Radio 1240",
             logo: "stations/images-america/c2c/youngstown_oh/Sports Radio 1240.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBWAMAAC_SC"
+        },
+        {
+            name: "1390 The Gambler",
+            logo: "stations/images-america/c2c/youngstown_oh/1390 The Gambler.png",
+            url: "https://stream.revma.ihrhls.com/zc2760/hls.m3u8"
         },
     ],
     "altus": [
