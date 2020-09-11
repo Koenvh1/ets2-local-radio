@@ -4454,11 +4454,6 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
-            name: "Hot 97",
-            logo: "stations/images-america/roswell/Hot 97.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice42.securenetsystems.net/KBCQ"
-        },
-        {
             name: "Radio Vida 101.1",
             logo: "stations/images-america/roswell/Radio Vida 101.1.png",
             url: "http://shout2.brnstream.com:8006/stream"
