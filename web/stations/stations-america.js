@@ -834,6 +834,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
+            name: "Ten Country 97.3",
+            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            url: "ttps://ice10.securenetsystems.net/KOLC"
+        },
+        {
             name: "K-Bull 98.1",
             logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
@@ -1271,6 +1276,16 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
+            name: "Ten Country 97.3",
+            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            url: "ttps://ice10.securenetsystems.net/KOLC"
+        },
+        {
+            name: "Biggest Little Radio 101.3",
+            logo: "stations/images-america/fallon/Biggest Little Radio 101.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC"
+        },
+        {
             name: "KELY 102.5",
             logo: "stations/images-america/ely/KELY 1230.png",
             url: "http://173.193.205.96:7200/stream"
@@ -1282,7 +1297,7 @@ var stations = {
         },
         {
             name: "Easy 104.1",
-            logo: "stations/images-america/fallon/Easy 104.1.png",
+            logo: "stations/images-america/reno/Easy 104.1.png",
             url: "https://kuez.streamguys1.com/live"
         },
     ],
@@ -2886,6 +2901,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
+            name: "Ten Country 97.3",
+            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            url: "ttps://ice10.securenetsystems.net/KOLC"
+        },
+        {
             name: "K-Bull 98.1",
             logo: "stations/images-america/carson_city/K-BULL 98.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
@@ -4357,6 +4377,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
+            name: "Ten Country 97.3",
+            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            url: "ttps://ice10.securenetsystems.net/KOLC"
+        },
+        {
             name: "KWNK 97.7",
             logo: "stations/images-america/reno/KWNK 97.7.png",
             url: "https://s3.radio.co/sd2b4bf544/listen"
@@ -4372,6 +4397,11 @@ var stations = {
             url: "http://ice42.securenetsystems.net/KRFN"
         },
         {
+            name: "Biggest Little Radio 101.3",
+            logo: "stations/images-america/fallon/Biggest Little Radio 101.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC"
+        },
+        {
             name: "La Tricolor 102.1",
             logo: "stations/images-america/reno/La Tricolor 102.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFMAAC_SC"
@@ -4380,6 +4410,11 @@ var stations = {
             name: "Wild 102.9",
             logo: "stations/images-america/reno/Wild 102.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
+        },
+        {
+            name: "Easy 104.1",
+            logo: "stations/images-america/reno/Easy 104.1.png",
+            url: "https://kuez.streamguys1.com/live"
         },
         {
             name: "Swag 104.9",
