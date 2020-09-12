@@ -27018,11 +27018,6 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KROIFMAAC_SC"
         },
         {
-            name: "La Calle 92.5",
-            logo: "stations/images-america/c2c/houston_tx/La Calle 92.5.png",
-            url: "http://audio.radiovida.vision:8020/la_calle"
-        },
-        {
             name: "93.7 The Beat",
             logo: "stations/images-america/c2c/houston_tx/93.7 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc2265/hls.m3u8"
@@ -27061,6 +27056,11 @@ var stations_c2c = {
             name: "The Wave 96.5-HD3",
             logo: "stations/images-america/c2c/houston_tx/The Wave 96.5-HD3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KHMXHD3AAC_SC"
+        },
+        {
+            name: "ESPN 97.5",
+            logo: "stations/images-america/c2c/houston_tx/ESPN 97.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
         },
         {
             name: "97.9 The Box",
@@ -27103,9 +27103,9 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMJQFMAAC_SC"
         },
         {
-            name: "Amazing 102.5",
-            logo: "stations/images-america/c2c/houston_tx/Amazing 102.5.png",
-            url: "https://ice41.securenetsystems.net/KMAZ"
+            name: "Rumba 102.5",
+            logo: "stations/images-america/c2c/houston_tx/Rumba 102.5.png",
+            url: "https://us10a.serverse.com/proxy/rumba?mp=/stream"
         },
         {
             name: "104.1 KRBE",
@@ -27116,6 +27116,11 @@ var stations_c2c = {
             name: "NewsRadio 740",
             logo: "stations/images-america/c2c/houston_tx/NewsRadio 740.png",
             url: "https://stream.revma.ihrhls.com/zc2285/hls.m3u8"
+        },
+        {
+            name: "SportsTalk 790",
+            logo: "stations/images-america/c2c/houston_tx/SportsTalk 790.png",
+            url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
         },
     ],
     "kerrville": [
