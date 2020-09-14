@@ -2439,8 +2439,8 @@ var stations = {
             url: "http://65.156.51.154:8000/stream/"
         },
         {
-            name: "X107.5",
-            logo: "stations/images-america/las_vegas/X107.5.png",
+            name: "ALT 107.5",
+            logo: "stations/images-america/las_vegas/ALT 107.5.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFMAAC_SC"
         },
         {
@@ -18613,8 +18613,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHZFMAAC_SC"
         },
         {
-            name: "96.5 The Buzz",
-            logo: "stations/images-america/c2c/kansascity_mo/96.5 The Buzz.png",
+            name: "ALT 96.5",
+            logo: "stations/images-america/c2c/kansascity_mo/ALT 96.5.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRBZFMAAC_SC"
         },
         {
@@ -20505,8 +20505,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WWWSAMAAC_SC"
         },
         {
-            name: "Alternative Buffalo 107.7",
-            logo: "stations/images-america/c2c/buffalo_ny//Alternative Buffalo 107.7.png",
+            name: "ALT 107.7",
+            logo: "stations/images-america/c2c/buffalo_ny/ALT 107.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WLKKFMAAC_SC"
         },
         {
@@ -28430,8 +28430,8 @@ var stations_c2c = {
             url: "http://144.217.158.59:5222/live"
         },
         {
-            name: "XL102",
-            logo: "stations/images-america/c2c/richmond_va/XL102.png",
+            name: "ALT 102.1",
+            logo: "stations/images-america/c2c/richmond_va/ALT 102.1.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRXLFM_SC"
         },
         {
