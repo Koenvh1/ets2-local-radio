@@ -31113,7 +31113,7 @@ var stations_canadream = {
         },
         {
             name: "Mix 99.7",
-            logo: "stations/images-america/canadream/quebec/CHOI 98.1.png",
+            logo: "stations/images-america/canadream/quebec/Mix 99.7.png",
             url: "http://stream.statsradio.com:8054/stream"
         },
         {
@@ -31295,11 +31295,6 @@ var stations_canadream = {
             name: "CBC Radio One 102.7",
             logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
-        },
-        {
-            name: "Radio Galilée 106.7 FM",
-            logo: "stations/images-america/canadream/quebec/Radio Galilee 90.9.jpg",
-            url: "http://192.99.245.110:8000/cionfm.mp3"
         },
     ],
     "saskatoon": [
@@ -31771,7 +31766,7 @@ var stations_canadream = {
     "watsonlake": [
         {
             name: "CHON 90.5",
-            logo: "stations/images-america/canadream/deaselake/CHON.png",
+            logo: "stations/images-america/canadream/deaselake/CHON 90.5.png",
             url: "http://stream.nnby.ca:8042/stream"
         },
         {
@@ -31808,7 +31803,7 @@ var stations_canadream = {
         },
         {
             name: "CHON 98.1",
-            logo: "stations/images-america/canadream/deaselake/CHON.png",
+            logo: "stations/images-america/canadream/deaselake/CHON 90.5.png",
             url: "http://stream.nnby.ca:8042/stream"
         },
         {
