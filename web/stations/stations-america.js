@@ -9440,7 +9440,7 @@ var stations_c2c = {
         },
         {
             name: "‎WDRC 103.3",
-            logo: "stations/images-america/c2c/hartford_ct/‎WDRC 103.3.png",
+            logo: "stations/images-america/c2c/hartford_ct/WDRC 103.3.png",
             url: "https://crystalout.surfernetwork.com:8001/WDRC-AM_MP3"
         },
         {
@@ -30086,7 +30086,7 @@ var stations_canadream = {
         },
         {
             name: "KiSS 91.7",
-            logo: "stations/images-america/canadream/edmonton/KiSS 91.7.png",
+            logo: "stations/images-america/canadream/edmonton/Kiss 91.7.png",
             url: "https://rogers.leanstream.co/rogers/edm917.stream/icy"
         },
         {
@@ -30131,7 +30131,7 @@ var stations_canadream = {
         },
         {
             name: "SONiC 102.9",
-            logo: "stations/images-america/canadream/edmonton/SONiC 102.9.png",
+            logo: "stations/images-america/canadream/edmonton/Sonic 102.9.png",
             url: "https://rogers.leanstream.co/rogers/edm1029.stream/icy"
         },
         {
@@ -30801,7 +30801,7 @@ var stations_canadream = {
         },
         {
             name: "La Voix de St-Lo 90.7",
-            logo: "stations/images-america/canadream/montreal/La Voix de St-Lo.jpg",
+            logo: "stations/images-america/canadream/montreal/La Voix de St-Lo 90.7.png",
             url: "https://listen.radioking.com/radio/11310/stream/22574"
         },
         {
@@ -30846,7 +30846,7 @@ var stations_canadream = {
         },
         {
             name: "CIBL 101.5",
-            logo: "stations/images-america/canadream/montreal/CIBL 101.5.jpg",
+            logo: "stations/images-america/canadream/montreal/CIBL 101.5.png",
             url: "http://stream02.ustream.ca/cibl128.mp3"
         },
         {
@@ -30866,7 +30866,7 @@ var stations_canadream = {
         },
         {
             name: "Radio Circulation 730",
-            logo: "stations/images-america/canadream/montreal/Radio Circulation 730 AM.PNG",
+            logo: "stations/images-america/canadream/montreal/Radio Circulation 730 AM.png",
             url: "https://cogecomedia.leanstream.co/CKACAM-MP3"
         },
         {
@@ -30898,7 +30898,7 @@ var stations_canadream = {
         },
         {
             name: "CFNO 107.1",
-            logo: "stations/images-america/canadream/marathon/CFNO 93.1 FM.jpg",
+            logo: "stations/images-america/canadream/marathon/CFNO 93.1.png",
             url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
         },
     ],
@@ -30965,7 +30965,7 @@ var stations_canadream = {
         },
         {
             name: "106.1 CHEZ",
-            logo: "stations/images-america/canadream/ottawa/106.1 CHEZ.png",
+            logo: "stations/images-america/canadream/ottawa/106.1 Chez.png",
             url: "https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
         },
         {
@@ -31533,7 +31533,7 @@ var stations_canadream = {
         },
         {
             name: "KiSS 92.5",
-            logo: "stations/images-america/canadream/toronto/KiSS 92.5.png",
+            logo: "stations/images-america/canadream/toronto/Kiss 92.5.png",
             url: "https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
         },
         {
