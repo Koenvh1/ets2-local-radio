@@ -3920,8 +3920,13 @@ var stations = {
             url: "http://38.96.148.18:8494/;.mp3"
         },
         {
+            name: "Ocean 98.5",
+            logo: "stations/images-america/canadream/vancouver/Ocean 98.5.png",
+            url: "https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+        },
+        {
             name: "100.3 The Q",
-            logo: "stations/images-america/port_angeles/100.3 The Q.png",
+            logo: "stations/images-america/canadream/vancouver/100.3 The Q.png",
             url: "https://ais-sa1.streamon.fm/7333_48k.aac"
         },
         {
@@ -3933,6 +3938,11 @@ var stations = {
             name: "The Strait 102",
             logo: "stations/images-america/port_angeles/The Strait 102.png",
             url: "https://crystalout.surfernetwork.com:8001/KSTI-FM_MP3"
+        },
+        {
+            name: "JACK 103.1",
+            logo: "stations/images-america/port_angeles/JACK 103.1.png",
+            url: "https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
         },
         {
             name: "Z104.9",
@@ -28432,7 +28442,7 @@ var stations_c2c = {
         {
             name: "ALT 102.1",
             logo: "stations/images-america/c2c/richmond_va/ALT 102.1.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRXLFM_SC"
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRXLFMAAC_SC"
         },
         {
             name: "103.7 Play",
@@ -30442,7 +30452,7 @@ var stations_canadream = {
         {
             name: "CBC Music 104.7",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
             name: "106.5 Moose FM",
@@ -30498,7 +30508,7 @@ var stations_canadream = {
         {
             name: "CBC Music 105.3",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
             name: "Radio NL 610",
@@ -31010,7 +31020,7 @@ var stations_canadream = {
         {
             name: "CBC Music 90.3",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
             name: "CBC Radio One 91.5",
@@ -31643,7 +31653,7 @@ var stations_canadream = {
         {
             name: "ICI Musique 90.9",
             logo: "stations/images-america/canadream/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7BVAN0_VAN"
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
         },
         {
             name: "91.7 Coast FM",
@@ -31691,7 +31701,7 @@ var stations_canadream = {
             url: "ttps://ais-sa1.streamon.fm/7333_48k.aac"
         },
         {
-            name: "COOP Radio 100.5",
+            name: "CO-OP Radio 100.5",
             logo: "stations/images-america/canadream/vancouver/CO-OP Radio 100.5.png",
             url: "https://listen-coopradio.sharp-stream.com/coopradio.mp3"
         },
@@ -31703,12 +31713,12 @@ var stations_canadream = {
         {
             name: "CiTR 101.9",
             logo: "stations/images-america/canadream/vancouver/CiTR 101.9.png",
-            url: "http://live.citr.ca:8000/live.mp3"
+            url: "https://live.citr.ca/live.aac"
         },
         {
             name: "102.7 The Peak",
             logo: "stations/images-america/canadream/vancouver/102.7 The Peak.png",
-            url: "http://ais.streamon.fm:8000/ais/CKPK-48k.aac"
+            url: "https://ais-sa1.streamon.fm/7326_48k.aac"
         },
         {
             name: "KiSS 104.9",
@@ -31718,16 +31728,16 @@ var stations_canadream = {
         {
             name: "CBC Music 105.7",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
-            name: "Mountain FM 107.1",
-            logo: "stations/images-america/canadream/vancouver/Mountain FM 107.1.png",
+            name: "107.1 Mountain FM",
+            logo: "stations/images-america/canadream/vancouver/107.1 Mountain FM.png",
             url: "https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
         {
-            name: "Pulse 107.7",
-            logo: "stations/images-america/canadream/vancouver/Pulse 107.7.png",
+            name: "107.7 Pulse FM",
+            logo: "stations/images-america/canadream/vancouver/107.7 Pulse FM.png",
             url: "https://ais-sa1.streamon.fm/7217_48k.aac"
         },
         {
@@ -31819,7 +31829,7 @@ var stations_canadream = {
         {
             name: "CBC Music 104.5",
             logo: "stations/images-america/canadream/CBC Music.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
     ],
     "williamslake": [
