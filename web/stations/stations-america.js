@@ -10412,7 +10412,7 @@ var stations_c2c = {
         },
         {
             name: "Trump Country 93.7",
-            logo: "stations/images-america/c2c/naples_fl/93X.png",
+            logo: "stations/images-america/c2c/naples_fl/Trump Country 93.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFMAAC_SC"
         },
         {
@@ -11359,8 +11359,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCNNAMAAC_SC"
         },
         {
-            name: "Star 94.1",
-            logo: "stations/images-america/c2c/atlanta_ga/Star 94.1.png",
+            name: "Star 94",
+            logo: "stations/images-america/c2c/atlanta_ga/Star 94.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSTRFMAAC_SC"
         },
         {
@@ -19011,8 +19011,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1265/hls.m3u8"
         },
         {
-            name: "101.3 The Outlaw",
-            logo: "stations/images-america/c2c/springfield_mo/101.3 The Outlaw.png",
+            name: "Real Country 101.3",
+            logo: "stations/images-america/c2c/springfield_mo/Real Country 101.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTXRFMAAC_SC"
         },
         {
