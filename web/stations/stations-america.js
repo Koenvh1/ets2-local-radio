@@ -836,7 +836,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "ttps://ice10.securenetsystems.net/KOLC"
+            url: "https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
@@ -1283,7 +1283,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "ttps://ice10.securenetsystems.net/KOLC"
+            url: "https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "Biggest Little Radio 101.3",
@@ -2908,7 +2908,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "ttps://ice10.securenetsystems.net/KOLC"
+            url: "https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
@@ -4394,7 +4394,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "ttps://ice10.securenetsystems.net/KOLC"
+            url: "https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "KWNK 97.7",
@@ -26277,7 +26277,7 @@ var stations_c2c = {
         },
         {
             name: "KMFA 89.5",
-            logo: "stations/images-america/c2c/austin_tx/KMFA 89.5.svg",
+            logo: "stations/images-america/c2c/austin_tx/KMFA 89.5.png",
             url: "https://kmfa.streamguys1.com/KMFA-mp3"
         },
         {
@@ -26296,8 +26296,8 @@ var stations_c2c = {
             url: "https://kvrx.org/now_playing/stream"
         },
         {
-            name: "Star 93.3",
-            logo: "stations/images-america/c2c/austin_tx/Star 93.3.png",
+            name: "93.3 Austin",
+            logo: "stations/images-america/c2c/austin_tx/93.3 Austin.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
@@ -26347,7 +26347,7 @@ var stations_c2c = {
         },
         {
             name: "KUTX 98.9",
-            logo: "stations/images-america/c2c/austin_tx/KUTX 98.9.svg",
+            logo: "stations/images-america/c2c/austin_tx/KUTX 98.9.png",
             url: "https://kut.streamguys1.com/kutx-free.aac"
         },
         {
