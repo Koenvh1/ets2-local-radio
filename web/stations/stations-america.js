@@ -26333,7 +26333,7 @@ var stations_c2c = {
         {
             name: "ACL Radio 97.1",
             logo: "stations/images-america/c2c/austin_tx/ACL Radio 97.1.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC_SC"
         },
         {
             name: "ALT 97.5",
