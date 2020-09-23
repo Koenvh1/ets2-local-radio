@@ -10901,6 +10901,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc625/hls.m3u8"
         },
         {
+            name: "Hit Nation 92.1-HD2",
+            logo: "stations/images-america/c2c/sarasota_fl/Hit Nation 92.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4422/hls.m3u8"
+        },
+        {
             name: "Kix Country 92.9",
             logo: "stations/images-america/c2c/sarasota_fl/Kix Country 92.9.png",
             url: "https://stream.revma.ihrhls.com/zc4490/hls.m3u8"
