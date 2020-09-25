@@ -1898,8 +1898,8 @@ var stations = {
     ],
     "indio": [
         {
-            name: "88.5 KPSC",
-            logo: "stations/images-america/indio/88.5 KPSC.png",
+            name: "KUSC 88.5",
+            logo: "stations/images-america/0_general_logos/KUSC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC"
         },
         {
@@ -1908,9 +1908,9 @@ var stations = {
             url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
         },
         {
-            name: "90.3 KVLA",
-            logo: "stations/images-america/indio/90.3 KVLA.png",
-            url: "http://live.scpr.org/kpcclive/"
+            name: "90.3 KPCC",
+            logo: "stations/images-america/0_general_logos/KPCC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPCC_FMAAC_SC"
         },
         {
             name: "KIX Hot Country 92.1",
@@ -2650,7 +2650,7 @@ var stations = {
         },
         {
             name: "89.3 KPCC",
-            logo: "stations/images-america/los_angeles/89.3 KPCC.png",
+            logo: "stations/images-america/0_general_logos/KPCC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPCC_FMAAC_SC"
         },
         {
@@ -2675,7 +2675,7 @@ var stations = {
         },
         {
             name: "KUSC 91.5",
-            logo: "stations/images-america/indio/88.5 KPSC.png",
+            logo: "stations/images-america/0_general_logos/KUSC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC"
         },
         {
@@ -2684,9 +2684,14 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc181/hls.m3u8"
         },
         {
-            name: "Slow Jams 92.3-HD2",
-            logo: "stations/images-america/0_general_logos/Slow Jams.png",
-            url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
+            name: "BIN 92.3-HD2",
+            logo: "stations/images-america/0_general_logos/BIN.png",
+            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
+        },
+        {
+            name: "Air1 92.3-HD3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://stream.revma.ihrhls.com/zc5163/hls.m3u8"
         },
         {
             name: "93.1 Jack FM",
@@ -2704,8 +2709,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KTWVFMAAC_SC"
         },
         {
-            name: "Second Wave 94.7-HD2",
-            logo: "stations/images-america/los_angeles/Second Wave 94.7-HD2.png",
+            name: "The AVE 94.7-HD2",
+            logo: "stations/images-america/los_angeles/The Ave 94.7-HD2.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KTWVHD2AAC_SC"
         },
         {
@@ -3515,8 +3520,8 @@ var stations = {
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
         },
         {
-            name: "89.5 KPCC",
-            logo: "stations/images-america/los_angeles/89.3 KPCC.png",
+            name: "89.3 KPCC",
+            logo: "stations/images-america/0_general_logos/KPCC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPCC_FMAAC_SC"
         },
         {
