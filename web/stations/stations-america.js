@@ -25983,9 +25983,9 @@ var stations_c2c = {
             url: "https://securestreams.autopo.st:1048/1071FM.aac"
         },
         {
-            name: "Q107.5",
-            logo: "stations/images-america/c2c/memphis_tn/Q107.5.png",
-            url: "https://securestreams.autopo.st:1048/1075FM.aac"
+            name: "107.5 WHBQ",
+            logo: "stations/images-america/c2c/memphis_tn/107.5 WHBQ.png",
+            url: "https://stream1.flinn.com:8443/1075FM.aac"
         },
         {
             name: "107.9 The Voice",
