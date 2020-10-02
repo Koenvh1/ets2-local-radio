@@ -2463,6 +2463,11 @@ var stations = {
             logo: "stations/images-america/las_vegas/Raider Nation Radio 920.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC_SC"
         },
+        {
+            name: "CBS Sports Radio 1140",
+            logo: "stations/images-america/las_vegas/CBS Sports Radio 1140.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KXSTAMAAC_SC"
+        },
     ],
     "leevining": [
         {
@@ -5305,6 +5310,11 @@ var stations = {
             name: "KCBS 106.9",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KCBSAMAAC_SC"
+        },
+        {
+            name: "KFRC Classic Hits 106.9-HD2",
+            logo: "stations/images-america/san_francisco/KFRC Classic Hits 106.9-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KFRCHD2AAC_SC"
         },
         {
             name: "107.7 The Bone",
@@ -16837,6 +16847,11 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WOMCHD2AAC_SC"
         },
         {
+            name: "Music Town 104.3-HD3",
+            logo: "stations/images-america/c2c/detroit_mi/Music Town 104.3-HD3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WOMCHD3AAC_SC"
+        },
+        {
             name: "105.1 The Bounce",
             logo: "stations/images-america/c2c/detroit_mi/105.1 The Bounce.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFMAAC_SC"
@@ -18726,6 +18741,11 @@ var stations_c2c = {
             name: "1030 KCWJ",
             logo: "stations/images-america/c2c/kansascity_mo/1030 KCWJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCWJAMAAC_SC"
+        },
+        {
+            name: "1660 The Score",
+            logo: "stations/images-america/c2c/kansascity_mo/1660 The Score.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KWODAMAAC_SC"
         },
     ],
     "rolla": [
@@ -20734,8 +20754,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFMAAC_SC"
         },
         {
-            name: "Smooth Jazz 102.7-HD2",
-            logo: "stations/images-america/c2c/nyc/Smooth Jazz 102.7-HD2.png",
+            name: "Christmas Classics 102.7-HD2",
+            logo: "stations/images-america/c2c/nyc/Smooth Jazz 102.7-HD2_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWHD2AAC_SC"
         },
         {
@@ -27106,6 +27126,11 @@ var stations_c2c = {
             name: "100.3 The Bull",
             logo: "stations/images-america/c2c/houston_tx/100.3 The Bull.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KILTFMAAC_SC"
+        },
+        {
+            name: "KIKK 100.3-HD3",
+            logo: "stations/images-america/c2c/houston_tx/KIKK 100.3-HD3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KILTHD3AAC_SC"
         },
         {
             name: "Mega 101",
