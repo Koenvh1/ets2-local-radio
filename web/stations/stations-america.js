@@ -2429,8 +2429,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
         },
         {
-            name: "Q106.9",
-            logo: "stations/images-america/las_vegas/Q106.9.png",
+            name: "106.9 Da Bomb",
+            logo: "stations/images-america/las_vegas/106.9 Da Bomb.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVGQFMAAC_SC"
         },
         {
@@ -10389,9 +10389,9 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WAXYAMAAC_SC"
         },
         {
-            name: "880 The Biz",
-            logo: "stations/images-america/c2c/miami_fl/880 The Biz.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZABAMAAC_SC"
+            name: "BIN 880",
+            logo: "stations/images-america/c2c/miami_fl/BIN 880.png",
+            url: "https://stream.revma.ihrhls.com/zc8729/hls.m3u8"
         },
         {
             name: "940 WINZ",
@@ -22848,6 +22848,11 @@ var stations_c2c = {
             name: "610 WTVN",
             logo: "stations/images-america/c2c/columbus_oh/610 WTVN.png",
             url: "https://stream.revma.ihrhls.com/zc1765/hls.m3u8"
+        },
+        {
+            name: "BIN 1230",
+            logo: "stations/images-america/c2c/columbus_oh/BIN 1230.png",
+            url: "https://stream.revma.ihrhls.com/zc7305/hls.m3u8"
         },
     ],
     "dayton": [
