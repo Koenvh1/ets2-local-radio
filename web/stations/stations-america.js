@@ -22785,9 +22785,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1753/hls.m3u8"
         },
         {
-            name: "Pride Radio 97.9-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            name: "Spin Cycle 97.9-HD2",
+            logo: "stations/images-america/c2c/columbus_oh/Spin Cycle 97.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4776/hls.m3u8"
         },
         {
             name: "Jazz 98.5",
