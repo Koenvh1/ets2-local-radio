@@ -6254,12 +6254,12 @@ var stations = {
         {
             name: "Max 93.5",
             logo: "stations/images-america/ukiah/Max 93.5.png",
-            url: "http://crystalout.surfernetwork.com:8001/KMKX-FM_MP3"
+            url: "https://cors-anywhere.herokuapp.com/http://crystalout.surfernetwork.com:8001/KMKX-FM_MP3"
         },
         {
             name: "94.5 K-Wine",
             logo: "stations/images-america/ukiah/94.5 K-Wine.png",
-            url: "http://crystalout.surfernetwork.com:8001/KWNE-FM_MP3"
+            url: "https://cors-anywhere.herokuapp.com/http://crystalout.surfernetwork.com:8001/KWNE-FM_MP3"
         },
         {
             name: "The Coast 95.3",
