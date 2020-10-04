@@ -3032,7 +3032,7 @@ var stations = {
         {
             name: "Lite 102",
             logo: "stations/images-america/medford/Lite 102.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMXFMAAC_SC"
+            url: "https://ice6.securenetsystems.net/KCMX"
         },
         {
             name: "102.7 The Drive",
@@ -3042,7 +3042,7 @@ var stations = {
         {
             name: "105.1 The Wolf",
             logo: "stations/images-america/medford/105.1 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAKTFMAAC_SC"
+            url: "https://ice6.securenetsystems.net/KAKT"
         },
         {
             name: "107.5 KISS FM",
@@ -3052,7 +3052,7 @@ var stations = {
         {
             name: "880 KCMX",
             logo: "stations/images-america/medford/880 KCMX.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMXAMAAC_SC"
+            url: "https://ice42.securenetsystems.net/KCMXAM"
         },
     ],
     "merced": [
