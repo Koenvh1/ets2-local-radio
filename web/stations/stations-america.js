@@ -15401,12 +15401,12 @@ var stations_c2c = {
     "lake_charles": [
         {
             name: "KBYS 88.3",
-            logo: "stations/images-america/c2c/lake_charles_la/KBYS 88.3.svg",
+            logo: "stations/images-america/c2c/lake_charles_la/KBYS 88.3.png",
             url: "http://stream.kbys.fm:8020/1"
         },
         {
-            name: "92.1 The Bridge",
-            logo: "stations/images-america/c2c/lake_charles_la/92.1 The Bridge.png",
+            name: "Magic 92.1",
+            logo: "stations/images-america/c2c/lake_charles_la/Magic 92.1.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ktsrfmaac-ibc3"
         },
         {
@@ -15453,11 +15453,6 @@ var stations_c2c = {
             name: "SuperTalk 1400",
             logo: "stations/images-america/c2c/lake_charles_la/SuperTalk 1400.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAOKAMAAC_SC"
-        },
-        {
-            name: "Magic 1470",
-            logo: "stations/images-america/c2c/lake_charles_la/Magic 1470.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-klclamaac-ibc3"
         },
         {
             name: "Sports Radio 1580",
