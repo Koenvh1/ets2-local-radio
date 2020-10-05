@@ -1117,33 +1117,113 @@ var stations = {
     ],
     "germany": [
         {
-            name: "Deutschlandfunk",
-            logo: "stations/images-europe/germany/Deutschlandfunk.png",
-            url: "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3"
+            name: "80s80s",
+            logo: "stations/images-europe/germany/80s80s.png",
+            url: "https://streams.80s80s.de/web/mp3-192"
         },
         {
-            name: "Deutschlandfunk Kultur",
-            logo: "stations/images-europe/germany/Deutschlandfunk Kultur.png",
-            url: "http://st02.dlf.de/dlf/02/128/mp3/stream.mp3"
+            name: "Absolut Bella",
+            logo: "stations/images-europe/germany/Absolut Bella.png",
+            url: "https://absolutradio.stream24.net/absolut-bella.mp3"
+        },
+        {
+            name: "Absolut HOT",
+            logo: "stations/images-europe/germany/Absolut HOT.png",
+            url: "https://sec-absolut.hoerradar.de/absolutradio-hot.mp3"
+        },
+        {
+            name: "Absolut Oldie Classics",
+            logo: "stations/images-europe/germany/Absolut Oldie Classics.png",
+            url: "https://absolutradio.stream24.net/absolut-oldie-classics.mp3"
         },
         {
             name: "Absolut Relax",
             logo: "stations/images-europe/germany/Absolut Relax.png",
-            url: "http://stream.absolutradio.de/relax/mp3-128/surfmusik/"
+            url: "https://sec-absolut.hoerradar.de/absolutradio-relax.mp3"
         },
         {
-            name: "NRJ",
-            logo: "stations/images-europe/germany/NRJ.png",
-            url: "http://cdn.nrjaudio.fm/adwz1/de/33003/mp3_128.mp3"
+            name: "Absolut TOP",
+            logo: "stations/images-europe/germany/Absolut TOP.png",
+            url: "https://edge05.streamonkey.net/absolut-top"
         },
         {
-            name: "Radio BOB",
-            logo: "stations/images-europe/germany/Radio BOB.svg",
-            url: "https://streams.radiobob.de/bob-live/mp3-192/homepage/"
+            name: "Antenne Bayern",
+            logo: "stations/images-europe/germany/Antenne Bayern.png",
+            url: "https://s6-webradio.webradio.de/antenne"
         },
         {
-            name: "Schlagerparadies",
-            logo: "stations/images-europe/germany/Schlagerparadies.png",
+            name: "Deutschlandfunk",
+            logo: "stations/images-europe/germany/Deutschlandfunk.png",
+            url: "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac"
+        },
+        {
+            name: "Deutschlandfunk Kultur",
+            logo: "stations/images-europe/germany/Deutschlandfunk Kultur.png",
+            url: "https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac"
+        },
+        {
+            name: "Deutschlandfunk Nova",
+            logo: "stations/images-europe/germany/Deutschlandfunk Nova.png",
+            url: "https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac"
+        },
+        {
+            name: "DRadio DokDeb",
+            logo: "stations/images-europe/germany/DRadio DokDeb.png",
+            url: "https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac"
+        },
+        {
+            name: "ENERGY Digital",
+            logo: "stations/images-europe/germany/Energy.png",
+            url: "https://scdn.nrjaudio.fm/adwz1/de/55659/mp3_128.mp3"
+        },
+        {
+            name: "ERF Plus",
+            logo: "stations/images-europe/germany/ERF Plus.png",
+            url: "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3"
+        },
+        {
+            name: "ERF Pop",
+            logo: "stations/images-europe/germany/ERF Pop.png",
+            url: "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3"
+        },
+        {
+            name: "Klassik Radio Digital",
+            logo: "stations/images-europe/germany/Klassik Radio.png",
+            url: "https://stream.klassikradio.de/live/mp3-192"
+        },
+        {
+            name: "lulu.fm",
+            logo: "stations/images-europe/germany/lulu.fm.png",
+            url: "https://s38.derstream.net/lulufm.mp3"
+        },
+        {
+            name: "MEGA RADIO",
+            logo: "stations/images-europe/germany/MEGA RADIO.png",
+            url: "http://stream.megaradio.bayern:5252"
+        },
+        {
+            name: "RADIO BOB!",
+            logo: "stations/images-europe/germany/Radio BOB.png",
+            url: "https://bob.hoerradar.de/radiobob-national-mp3-hq"
+        },
+        {
+            name: "Radio Horeb",
+            logo: "stations/images-europe/germany/Radio Horeb.png",
+            url: "https://rs16.stream24.net/horeb.mp3"
+        },
+        {
+            name: "RTL Radio",
+            logo: "stations/images-europe/germany/RTL Radio.png",
+            url: "https://rtldtl.hoerradar.de/rtldtl-national-mp3-128"
+        },
+        {
+            name: "ROCK ANTENNE",
+            logo: "stations/images-europe/germany/ROCK ANTENNE.png",
+            url: "https://s1-webradio.webradio.de/rockantenne-deutschland"
+        },
+        {
+            name: "Radio Schlagerparadies",
+            logo: "stations/images-europe/germany/Radio Schlagerparadies.png",
             url: "http://surfmusik.radioschlagerparadies.de/schlagerparadies128k.mp3"
         },
         {
@@ -1152,9 +1232,14 @@ var stations = {
             url: "http://str0.creacast.com/schwarzwaldradio"
         },
         {
-            name: "Sunshine live",
-            logo: "stations/images-europe/germany/Sunshine live.svg",
-            url: "http://stream.sunshine-live.de/live/mp3-192/Webradio-Player/"
+            name: "sunshine live",
+            logo: "stations/images-europe/germany/Sunshine live.png",
+            url: "https://stream.sunshine-live.de/live/mp3-192"
+        },
+        {
+            name: "TOGGO Radio",
+            logo: "stations/images-europe/germany/TOGGO Radio.png",
+            url: "https://radio.toggo.de/live/mp3-192"
         },
     ],
     "germany-br": [
