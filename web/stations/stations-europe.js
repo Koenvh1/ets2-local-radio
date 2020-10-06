@@ -874,13 +874,6 @@ var stations = {
             logo: "stations/images-europe/finland/YleX.png",
             url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8"
         },
-        /*
-        {
-            name: "Bassoradio",
-            logo: "stations/images-europe/finland/Bassoradio.jpg",
-            url: "http://stream.basso.fi:8000/stream"
-        },
-        */
         {
             name: "Helmiradio",
             logo: "stations/images-europe/finland/Helmiradio.png",
@@ -908,16 +901,9 @@ var stations = {
         },
         {
             name: "Radio City",
-            logo: "stations/images-europe/finland/Radio City.svg",
+            logo: "stations/images-europe/finland/Radio City.png",
             url: "https://stream.bauermedia.fi/radiocity/hki_128.mp3?direct=true"
         },
-        /*
-        {
-            name: "Radio Moreeni",
-            logo: "stations/images-europe/finland/Radio Moreeni.png",
-            url: "http://153.1.15.29:8080/moreeni.mp3"
-        },
-        */
         {
             name: "Radio Dei",
             logo: "stations/images-europe/finland/Radio Dei.png",
@@ -935,12 +921,12 @@ var stations = {
         },
         {
             name: "Radio Nova",
-            logo: "stations/images-europe/finland/Radio Nova.svg",
-            url: "http://stream.bauermedia.fi/radionova/radionova_64.aac?direct=true&listenerid=undefined&amsparams=playerid:SBS_RP_WEB;skey:1529788184;&awparams=loggedin:false;&aw_0_req.gdpr=true"
+            logo: "stations/images-europe/finland/Radio Nova.png",
+            url: "http://stream.bauermedia.fi/radionova/radionova_64.aac"
         },
         {
-            name: "Radio NRJ",
-            logo: "stations/images-europe/finland/Radio NRJ.svg",
+            name: "Radio Energy",
+            logo: "stations/images-europe/germany/Energy.png",
             url: "http://cdn.nrjaudio.fm/adwz1/fi/35001/mp3_128.mp3"
         },
         {
@@ -953,13 +939,6 @@ var stations = {
             logo: "stations/images-europe/finland/Radio Suomipop.png",
             url: "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8"
         },
-        /*
-        {
-            name: "Radio Vaasa",
-            logo: "stations/images-europe/finland/Radio Vaasa.jpg",
-            url: "http://stream.radiovaasa.fi:8000/radiovaasa.mp3"
-        },
-        */
     ],
     "france": [
         {
@@ -1245,63 +1224,58 @@ var stations = {
     "germany-br": [
         {
             name: "Bayern 1",
-            logo: "stations/images-europe/germany-br/Bayern 1.jpg",
-            url: "http://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/128/stream.mp3"
+            logo: "stations/images-europe/germany-br/Bayern 1.png",
+            url: "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid"
         },
         {
             name: "Bayern 2",
-            logo: "stations/images-europe/germany-br/Bayern 2.jpg",
-            url: "http://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3"
+            logo: "stations/images-europe/germany-br/Bayern 2.png",
+            url: "https://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid"
         },
         {
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
-            url: "http://br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3"
+            url: "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/mid"
         },
         {
             name: "Bayern plus",
             logo: "stations/images-europe/germany-br/Bayern plus.png",
-            url: "http://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/128/stream.mp3"
+            url: "ttps://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/mid"
         },
         {
             name: "BR Heimat",
             logo: "stations/images-europe/germany-br/BR Heimat.png",
-            url: "http://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3"
+            url: "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/mid"
         },
         {
-            name: "BR-Klassik",
+            name: "BR Klassik",
             logo: "stations/images-europe/germany-br/BR-Klassik.png",
-            url: "http://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3"
+            url: "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high"
         },
         {
             name: "B5 aktuell",
             logo: "stations/images-europe/germany-br/B5 aktuell.png",
-            url: "http://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3"
+            url: "https://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid"
         },
         {
             name: "B5 plus",
             logo: "stations/images-europe/germany-br/B5 plus.png",
-            url: "http://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/128/stream.mp3"
+            url: "https://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/mid"
         },
         {
-            name: "Puls",
-            logo: "stations/images-europe/germany-br/Puls.gif",
-            url: "http://br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3"
+            name: "BR Puls",
+            logo: "stations/images-europe/germany-br/BR Puls.png",
+            url: "https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid"
         },
         {
             name: "Antenne Bayern",
-            logo: "stations/images-europe/germany-br/Antenne Bayern.png",
-            url: "http://mp3channels.webradio.antenne.de:80/antenne"
+            logo: "stations/images-europe/germany/Antenne Bayern.png",
+            url: "https://s1-webradio.webradio.de/antenne"
         },
         {
             name: "egoFM",
             logo: "stations/images-europe/germany-br/egoFM.png",
             url: "http://www.egofm.de/stream/128kb"
-        },
-        {
-            name: "Rock Antenne 7.1 Surround",
-            logo: "stations/images-europe/germany-br/Rock Antenne 7.1 Surround.svg",
-            url: "https://s10-webradio.rockantenne.de/rockantenne/stream/mp3"
         },
     ],
     "germany-bremen": [
@@ -2922,7 +2896,7 @@ var stations = {
         {
             name: "SRR Radio România Actualitati",
             logo: "stations/images-europe/romania/SRR Radio România Actualitati.png",
-            url: "http://stream2.srr.ro:8004/;"
+            url: "http://stream2.srr.ro:8008/;"
         },
         {
             name: "SRR Radio România Cultural",
@@ -2936,7 +2910,7 @@ var stations = {
         },
         {
             name: "DigiFM",
-            logo: "stations/images-europe/romania/DigiFM.svg",
+            logo: "stations/images-europe/romania/DigiFM.png",
             url: "http://edge76.rdsnet.ro:84/digifm/digifm.mp3"
         },
         {
@@ -2964,17 +2938,15 @@ var stations = {
             logo: "stations/images-europe/romania/Radio Trinitas.png",
             url: "http://live.radiotrinitas.ro:8000/;"
         },
-        /*
         {
-            name: "Radio Zu",
+            name: "Radio ZU",
             logo: "stations/images-europe/romania/Radio Zu.png",
-            url: "https://live2ro.antenaplay.ro/radiozu/radiozu-48000.m3u8"
+            url: "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8"
         },
-         */
         {
             name: "Virgin Radio",
             logo: "stations/images-europe/romania/Virgin Radio.png",
-            url: "http://astreaming.virginradio.ro:8000/virgin_aacp_64k"
+            url: "http://astreaming.edi.ro:8000/VirginRadio_aac"
         },
     ],
     "russia": [
