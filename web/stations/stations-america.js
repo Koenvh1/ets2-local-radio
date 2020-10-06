@@ -356,7 +356,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6141/hls.m3u8"
         },
         {
-            name: "Fox Sports 970",
+            name: "FOX Sports 970",
             logo: "stations/images-america/bakersfield/Fox Sports 970.png",
             url: "https://stream.revma.ihrhls.com/zc4273/hls.m3u8"
         },
@@ -393,7 +393,7 @@ var stations = {
             url: "https://edge2-b.exa.live365.net/a58353"
         },
         {
-            name: "Fox Sports 610",
+            name: "FOX Sports 610",
             logo: "stations/images-america/barstow/Fox Sports 610.png",
             url: "https://ice8.securenetsystems.net/KAVL"
         },
@@ -1323,7 +1323,7 @@ var stations = {
             url: "http://69.39.14.19:8001/stream1"
         },
         {
-            name: "Fox Sports 93.9",
+            name: "FOX Sports 93.9",
             logo: "stations/images-america/farmington/Fox Sports 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
         },
@@ -1597,7 +1597,7 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KFIG"
         },
         {
-            name: "Fox Sports Radio 1340",
+            name: "FOX Sports 1340",
             logo: "stations/images-america/fresno/Fox Sports Radio 1340.png",
             url: "https://stream.revma.ihrhls.com/zc5227/hls.m3u8"
         },
@@ -9413,7 +9413,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4814/hls.m3u8"
         },
         {
-            name: "Fox Sports 1350",
+            name: "FOX Sports 1350",
             logo: "stations/images-america/c2c/pueblo_co/Fox Sports 1350.png",
             url: "https://stream.revma.ihrhls.com/zc4015/hls.m3u8"
         },
@@ -9487,7 +9487,7 @@ var stations_c2c = {
             url: "http://newerastreaming.com:9016/;"
         },
         {
-            name: "Fox Sports 1230",
+            name: "FOX Sports 1230",
             logo: "stations/images-america/c2c/sterling_co/Fox Sports 1230.png",
             url: "https://www.ophanim.net:8444/s/8920"
         },
@@ -9813,7 +9813,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
         },
         {
-            name: "Fox Sports 640",
+            name: "FOX Sports 640",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/Fox Sports 640.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMENAMAAC_SC"
         },
@@ -12091,7 +12091,7 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/WQPW"
         },
         {
-            name: "Fox Sports 96.1",
+            name: "FOX Sports 96.1",
             logo: "stations/images-america/c2c/valdosta_ga/Fox Sports 96.1.png",
             url: "http://67.212.189.122:8009/;"
         },
@@ -12476,7 +12476,7 @@ var stations_c2c = {
         {
             name: "HOT 100.7",
             logo: "stations/images-america/c2c/bloomington_il/HOT 100.7.png",
-            url: "https://live.wostreaming.net/direct/neuhoffcomm-wwhxfmaac-ibc3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWHXFMAAC_SC"
         },
         {
             name: "101.5 WBNQ",
@@ -19889,7 +19889,7 @@ var stations_c2c = {
         {
             name: "The Breeze 94.5",
             logo: "stations/images-america/c2c/grand_island_ne/The Breeze 94.5.png",
-            url: "http://platteradio.streamguys1.com/kliq-aac"
+            url: "https://platteriverradio.broadcasttool.com/kliq-aac"
         },
         {
             name: "Country 96",
@@ -20040,7 +20040,7 @@ var stations_c2c = {
         {
             name: "Mix 97 One",
             logo: "stations/images-america/c2c/north_platte_ne/Mix 97 One.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice64.securenetsystems.net/KELN"
+            url: "https://cors-anywhere.herokuapp.com/https://ice10.securenetsystems.net/KELN"
         },
         {
             name: "FM 98.1",
@@ -20122,7 +20122,7 @@ var stations_c2c = {
         {
             name: "Boomer 94.5",
             logo: "stations/images-america/c2c/omaha_ne/Boomer 94.5.png",
-            url: "https://ais-sa1.streamon.fm/7006_48k.aac"
+            url: "https://us2.maindigitalstream.com/ssl/KOBMA"
         },
         {
             name: "Rock 94.9",
@@ -21215,7 +21215,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1505/hls.m3u8"
         },
         {
-            name: "Fox Sports 1280",
+            name: "FOX Sports 1280",
             logo: "stations/images-america/c2c/rochester_ny/Fox Sports 1280.png",
             url: "https://stream.revma.ihrhls.com/zc1509/hls.m3u8"
         },
@@ -22110,7 +22110,7 @@ var stations_c2c = {
             url: "http://ice64.securenetsystems.net/KXRVFM"
         },
         {
-            name: "Fox Sports 710",
+            name: "FOX Sports 710",
             logo: "stations/images-america/c2c/bismarck_nd/Fox Sports 710.png",
             url: "https://stream.revma.ihrhls.com/zc1657/hls.m3u8"
         },
@@ -23062,7 +23062,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1713/hls.m3u8"
         },
         {
-            name: "Fox Sports 980",
+            name: "FOX Sports 980",
             logo: "stations/images-america/c2c/dayton_oh/Fox Sports 980.png",
             url: "https://stream.revma.ihrhls.com/zc4950/hls.m3u8"
         },
@@ -23972,7 +23972,7 @@ var stations_c2c = {
             url: "https://wwfm.streamguys1.com/live"
         },
         {
-            name: "Fox Sports Radio 94.7",
+            name: "FOX Sports 94.7",
             logo: "stations/images-america/c2c/allentown_pa/Fox Sports Radio 94.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEEXAMAAC_SC"
         },
@@ -25499,7 +25499,7 @@ var stations_c2c = {
             url: "http://crystalout.surfernetwork.com:8001/KZLK-FM_MP3"
         },
         {
-            name: "Fox Sports 106.7",
+            name: "FOX Sports 106.7",
             logo: "stations/images-america/c2c/rapid_city_sd/Fox Sports 106.7.png",
             url: "https://ic1.sslstream.com/fsrc-ir"
         },
@@ -27124,7 +27124,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQBUAMAAC_SC"
         },
         {
-            name: "Fox Sports Radio 1380",
+            name: "FOX Sports 1380",
             logo: "stations/images-america/c2c/elpaso_tx/Fox Sports Radio 1380.png",
             url: "https://stream.revma.ihrhls.com/zc5169/hls.m3u8"
         },
@@ -27521,7 +27521,7 @@ var stations_c2c = {
             url: "https://securestreams3.autopo.st:1387/stream"
         },
         {
-            name: "Fox Sports 1510",
+            name: "FOX Sports 1510",
             logo: "stations/images-america/c2c/midland_tx/Fox Sports 1510.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmndamaac-ibc3"
         },
@@ -27706,7 +27706,7 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kpwwfmaac-ibc3"
         },
         {
-            name: "Fox Sports 97.1",
+            name: "FOX Sports 97.1",
             logo: "stations/images-america/c2c/texarkana_tx/Fox Sports 97.1.png",
             url: "http://184.164.135.70:8197/stream"
         },
@@ -27874,7 +27874,7 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7052_32k.aac"
         },
         {
-            name: "Fox Sports 93.9",
+            name: "FOX Sports 93.9",
             logo: "stations/images-america/c2c/waco_tx/Fox Sports 93.9.png",
             url: "https://ais-sa1.streamon.fm/7641_48k.aac"
         },
@@ -28672,7 +28672,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2485/hls.m3u8"
         },
         {
-            name: "Fox Radio 910",
+            name: "FOX Radio 910",
             logo: "stations/images-america/c2c/roanoke_va/Fox Radio 910.png",
             url: "http://crystalout.surfernetwork.com:8001/WFJX_MP3"
         },
@@ -29038,7 +29038,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBGIAAC_SC"
         },
         {
-            name: "Fox Sports 103.9",
+            name: "FOX Sports 103.9",
             logo: "stations/images-america/c2c/wheeling_wv/Fox Sports 103.9.png",
             url: "https://stream.revma.ihrhls.com/zc5098/hls.m3u8"
         },
