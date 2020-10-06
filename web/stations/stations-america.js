@@ -240,12 +240,12 @@ var stations = {
             name: "93.3 The Rock",
             logo: "stations/images-america/astoria/93.3 The Rock.png",
             url: "http://209.95.35.49:7025/stream"
-        },
+        },/*
         {
             name: "Hits 94.3",
             logo: "stations/images-america/astoria/Hits 94.3.png",
-            url: "https://ice42.securenetsystems.net/KRKZ"
-        },
+            url: "wait for reply"
+        },*/
         {
             name: "94.9 The Bridge",
             logo: "stations/images-america/astoria/94.9 The Bridge.png",
@@ -14989,7 +14989,7 @@ var stations_c2c = {
         },
         {
             name: "106.9 PLAY",
-            logo: "stations/images-america/c2c/louisville_ky/106.9 PLAY.png",
+            logo: "stations/images-america/c2c/louisville_ky/106.9 PLAY_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WVEZFMAAC_SC"
         },
         {
@@ -29459,17 +29459,17 @@ var stations_c2c = {
     "milwaukee": [
         {
             name: "88Nine Radio Milwaukee",
-            logo: "stations/images-america/c2c/milwaukee/88Nine Radio Milwaukee.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/88Nine Radio Milwaukee.png",
             url: "http://wyms.streamguys1.com/live"
         },
         {
             name: "414Music.fm 88.9-HD2",
-            logo: "stations/images-america/c2c/milwaukee/414Music.fm 88.9-HD2.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/414Music.fm 88.9-HD2.png",
             url: "https://wyms.streamguys1.com/414music_aac"
         },
         {
             name: "WUWM 89.7",
-            logo: "stations/images-america/c2c/milwaukee/WUWM 89.7.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/WUWM 89.7.png",
             url: "https://wuwm.streamguys1.com/live.mp3"
         },
         {
@@ -29479,27 +29479,27 @@ var stations_c2c = {
         },
         {
             name: "91.7 WMSE",
-            logo: "stations/images-america/c2c/milwaukee/91.7 WMSE.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/91.7 WMSE.png",
             url: "http://peridot.streamguys.com:7530/wmselivemp3"
         },
         {
             name: "B93.3",
-            logo: "stations/images-america/c2c/milwaukee/B93.3.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/B93.3.png",
             url: "http://wldb.streamon.fm:8000/WLDB-48k.aac"
         },
         {
-            name: "La Z 93.7",
-            logo: "stations/images-america/c2c/milwaukee/La Z 93.7.png",
+            name: "La Zeta 93.7",
+            logo: "stations/images-america/c2c/milwaukee_wi/La Zeta 93.7.png",
             url: "http://bustosradio.com:8026/wddwhd2"
         },
         {
             name: "94.5 ESPN",
-            logo: "stations/images-america/c2c/milwaukee/94.5 ESPN.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/94.5 ESPN.png",
             url: "https://live.wostreaming.net/direct/goodkarma-wktifmmp3-ibc2"
         },
         {
             name: "95.7 BIG FM",
-            logo: "stations/images-america/c2c/milwaukee/95.7 BIG FM.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/95.7 BIG FM.png",
             url: "https://stream.revma.ihrhls.com/zc2689/hls.m3u8"
         },
         {
@@ -29509,42 +29509,42 @@ var stations_c2c = {
         },
         {
             name: "96.5 WKLH",
-            logo: "stations/images-america/c2c/milwaukee/96.5 WKLH.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/96.5 WKLH.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKLHFM_SC"
         },
         {
             name: "97.3 The Game",
-            logo: "stations/images-america/c2c/milwaukee/97.3 The Game.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/97.3 The Game.png",
             url: "https://stream.revma.ihrhls.com/zc2685/hls.m3u8"
         },
         {
             name: "Radio Caliente 97.9",
-            logo: "stations/images-america/c2c/milwaukee/Radio Caliente 97.9.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/Radio Caliente 97.9.png",
             url: "https://ice7.securenetsystems.net/WJTI"
         },
         {
             name: "Jammin 98.3",
-            logo: "stations/images-america/c2c/milwaukee/Jammin 98.3.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/Jammin 98.3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WJMRFMAAC_SC"
         },
         {
             name: "99.1 The Mix",
-            logo: "stations/images-america/c2c/milwaukee/99.1 The Mix.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/99.1 The Mix.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMYXFM_SC"
         },
         {
             name: "MeTV 99.1-HD2",
-            logo: "stations/images-america/c2c/milwaukee/MeTV 99.1-HD2.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/MeTV 99.1-HD2.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMYXHD2_SC"
         },
         {
             name: "100.3 Fonz FM",
-            logo: "stations/images-america/c2c/milwaukee/100.3 Fonz FM.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/100.3 Fonz FM.png",
             url: "http://wzti.streamon.fm:8000/WZTI-48k.aac"
         },
         {
             name: "V100.7",
-            logo: "stations/images-america/c2c/milwaukee/V100.7.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/V100.7.png",
             url: "https://stream.revma.ihrhls.com/zc2673/hls.m3u8"
         },
         {
@@ -29553,23 +29553,23 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
-            name: "FM 102/1",
-            logo: "stations/images-america/c2c/milwaukee/FM 102.1.png",
+            name: "Talk 101.7",
+            logo: "stations/images-america/c2c/milwaukee_wi/Talk 101.7.png",
+            url: "https://ice24.securenetsystems.net/WTTN"
+        },
+        {
+            name: "FM 102.1",
+            logo: "stations/images-america/c2c/milwaukee_wi/FM 102.1.png",
             url: "http://wlum.streamon.fm:8000/WLUM-48k.aac"
         },
         {
             name: "102.9 THE HOG",
-            logo: "stations/images-america/c2c/milwaukee/102.9 THE HOG.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/102.9 THE HOG.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WHQGFMAAC_SC"
         },
         {
-            name: "WTMJ 103.3",
-            logo: "stations/images-america/c2c/milwaukee/WTMJ 103.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMJAM_SC"
-        },
-        {
             name: "103.7 KISS FM",
-            logo: "stations/images-america/c2c/milwaukee/103.7 KISS FM.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/103.7 KISS FM.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSFM_SC"
         },
         {
@@ -29579,17 +29579,22 @@ var stations_c2c = {
         },
         {
             name: "104.1 fm Milwaukee",
-            logo: "stations/images-america/c2c/milwaukee/104.1 fm Milwaukee.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/104.1 fm Milwaukee.png",
             url: "https://radio.computer:8443/riverwestradio"
         },
         {
-            name: "105.7 The Fan",
-            logo: "stations/images-america/c2c/milwaukee/105.7 The Fan.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSSPAM_SC"
+            name: "La GranD 104.7",
+            logo: "stations/images-america/c2c/milwaukee_wi/La GranD 104.7.png",
+            url: "http://bustosradio.com:8025/wddw"
+        },
+        {
+            name: "HOT 105.7",
+            logo: "stations/images-america/c2c/milwaukee_wi/HOT 105.7.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSHD2AAC_SC"
         },
         {
             name: "FM106.1",
-            logo: "stations/images-america/c2c/milwaukee/FM106.1.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/FM106.1.png",
             url: "https://stream.revma.ihrhls.com/zc2677/hls.m3u8"
         },
         {
@@ -29599,23 +29604,38 @@ var stations_c2c = {
         },
         {
             name: "ALT2K 106.1-HD3",
-            logo: "stations/images-america/c2c/milwaukee/ALT2K 106.1-HD3.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/ALT2K 106.1-HD3.png",
             url: "https://stream.revma.ihrhls.com/zc7727/hls.m3u8"
         },
         {
             name: "WNOV 106.5",
-            logo: "stations/images-america/c2c/milwaukee/WNOV 106.5.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/WNOV 106.5.png",
             url: "http://crystalout.surfernetwork.com:8001/WNOV-AM_MP3"
         },
         {
             name: "Energy 106.9",
-            logo: "stations/images-america/c2c/milwaukee/Energy 106.9.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/Energy 106.9.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WNRGFMAAC_SC"
         },
         {
-            name: "News/Talk 1130",
-            logo: "stations/images-america/c2c/milwaukee/NewsTalk 1130.png",
+            name: "620 WTMJ",
+            logo: "stations/images-america/c2c/milwaukee_wi/620 WTMJ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMJAMAAC_SC"
+        },
+        {
+            name: "The Big 920",
+            logo: "stations/images-america/c2c/milwaukee_wi/The Big 920.png",
+            url: "https://stream.revma.ihrhls.com/zc2681/hls.m3u8"
+        },
+        {
+            name: "1130 WISN",
+            logo: "stations/images-america/c2c/milwaukee_wi/1130 WISN.png",
             url: "https://stream.revma.ihrhls.com/zc4245/hls.m3u8"
+        },
+        {
+            name: "1250 The Fan",
+            logo: "stations/images-america/c2c/milwaukee_wi/1250 The Fan.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSSPAMAAC_SC"
         },
     ],
     "sheboygan_wi": [
