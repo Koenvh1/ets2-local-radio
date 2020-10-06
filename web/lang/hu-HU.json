@@ -1,6 +1,6 @@
 {
     "web": {
-        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation --> Daniel Valentin",
+        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation --> Ford\u00edtotta\/Translated by: Daniel Valentin",
         "now-playing": "Most ezt j\u00e1tsza le:",
         "connect-other-device": "Csatlakoztat\u00e1s egy m\u00e1sik eszk\u00f6zh\u00f6z",
         "coverage-map": "T\u00e9rk\u00e9p fed\u00e9se",
@@ -12,9 +12,9 @@
         "update-available": "Egy friss\u00edt\u00e9s el\u00e9rhet\u0151!",
         "update-now": "Friss\u00edtsen most",
         "controlled-remotely": "Ez a lej\u00e1tsz\u00f3 t\u00e1volr\u00f3l van ir\u00e1ny\u00edtva",
-        "submit-station": "\u00daj r\u00e1di\u00f3\u00e1llom\u00e1s k\u00e9r\u00e9se",
+        "submit-station": "\u00daj r\u00e1di\u00f3\u00e1llom\u00e1s bek\u00e9r\u00e9se",
         "broken-station": "Nem m\u0171k\u00f6d\u0151 r\u00e1di\u00f3 \u00e1llom\u00e1s bejelent\u00e9se",
-        "this-peerid": "Az eszk\u00f6znek a PeerID-je:",
+        "this-peerid": "Az eszk\u00f6z PeerID-je:",
         "waiting-coordinates": "V\u00e1rakoz\u00e1s a j\u00e1t\u00e9kbeli koordin\u00e1t\u00e1kra...",
         "closest-city": "A legk\u00f6zelebbi v\u00e1ros <span class='nearestCity'><\/span>, <span class='distance'><\/span> m\u00e9ter t\u00e1vols\u00e1gra",
         "amount-static": "Zaj mennyis\u00e9ge:",

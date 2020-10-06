@@ -926,7 +926,7 @@ var stations = {
         },
         {
             name: "Radio Energy",
-            logo: "stations/images-europe/germany/Energy.png",
+            logo: "stations/images-europe/finland/Energy.png",
             url: "http://cdn.nrjaudio.fm/adwz1/fi/35001/mp3_128.mp3"
         },
         {
@@ -1096,11 +1096,6 @@ var stations = {
     ],
     "germany": [
         {
-            name: "80s80s",
-            logo: "stations/images-europe/germany/80s80s.png",
-            url: "https://streams.80s80s.de/web/mp3-192"
-        },
-        {
             name: "Absolut Bella",
             logo: "stations/images-europe/germany/Absolut Bella.png",
             url: "https://absolutradio.stream24.net/absolut-bella.mp3"
@@ -1161,24 +1156,9 @@ var stations = {
             url: "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3"
         },
         {
-            name: "ERF Pop",
-            logo: "stations/images-europe/germany/ERF Pop.png",
-            url: "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3"
-        },
-        {
             name: "Klassik Radio Digital",
             logo: "stations/images-europe/germany/Klassik Radio.png",
             url: "https://stream.klassikradio.de/live/mp3-192"
-        },
-        {
-            name: "lulu.fm",
-            logo: "stations/images-europe/germany/lulu.fm.png",
-            url: "https://s38.derstream.net/lulufm.mp3"
-        },
-        {
-            name: "MEGA RADIO",
-            logo: "stations/images-europe/germany/MEGA RADIO.png",
-            url: "http://stream.megaradio.bayern:5252"
         },
         {
             name: "RADIO BOB!",
@@ -1191,14 +1171,14 @@ var stations = {
             url: "https://rs16.stream24.net/horeb.mp3"
         },
         {
-            name: "RTL Radio",
-            logo: "stations/images-europe/germany/RTL Radio.png",
-            url: "https://rtldtl.hoerradar.de/rtldtl-national-mp3-128"
-        },
-        {
             name: "ROCK ANTENNE",
             logo: "stations/images-europe/germany/ROCK ANTENNE.png",
             url: "https://s1-webradio.webradio.de/rockantenne-deutschland"
+        },
+        {
+            name: "RTL Radio",
+            logo: "stations/images-europe/germany/RTL Radio.png",
+            url: "https://rtldtl.hoerradar.de/rtldtl-national-mp3-128"
         },
         {
             name: "Radio Schlagerparadies",
