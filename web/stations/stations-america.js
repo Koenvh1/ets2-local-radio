@@ -25966,11 +25966,6 @@ var stations_c2c = {
             url: "https://stream.radiojar.com/16177nyd41zuv"
         },
         {
-            name: "i105",
-            logo: "stations/images-america/c2c/knoxville_tn/i105.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice66.securenetsystems.net/WFIV"
-        },
-        {
             name: "Fanrun Radio 105.7",
             logo: "stations/images-america/c2c/knoxville_tn/Fanrun Radio 105.7.png",
             url: "https://ice64.securenetsystems.net/WKGN2"
