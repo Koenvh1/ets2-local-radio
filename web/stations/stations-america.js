@@ -29402,12 +29402,12 @@ var stations_c2c = {
         },
         {
             name: "96.7 The Zone",
-            logo: "stations/images-america/c2c/madison_wi/96.7 The Zone.svg",
+            logo: "stations/images-america/c2c/madison_wi/96.7 The Zone.png",
             url: "https://live.wostreaming.net/manifest/mwfmadison-woznamaac-ibc3"
         },
         {
-            name: "HANK 97.7",
-            logo: "stations/images-america/c2c/madison_wi/HANK 97.7.png",
+            name: "97.7 The Farm",
+            logo: "stations/images-america/c2c/madison_wi/97.7 The Farm.png",
             url: "https://live.wostreaming.net/direct/mwfmadison-whitamaac-ibc3"
         },
         {
