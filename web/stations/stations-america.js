@@ -3387,9 +3387,9 @@ var stations = {
             url: "http://68.116.40.122:502/broadwavehigh.mp3"
         },
         {
-            name: "100.7 Boss FM",
-            logo: "stations/images-america/newport/100.7 Boss FM.png",
-            url: "http://ice10.securenetsystems.net/KPPT"
+            name: "100.7 The Otter",
+            logo: "stations/images-america/newport/100.7 The Otter.png",
+            url: "https://pacnw.streamguys1.com/live"
         },
         {
             name: "US 101",
