@@ -28321,8 +28321,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3320/hls.m3u8"
         },
         {
-            name: "104.3 KCY Country",
-            logo: "stations/images-america/c2c/harrisonburg_va/104.3 KCY Country.png",
+            name: "104.3 KCY",
+            logo: "stations/images-america/c2c/harrisonburg_va/104.3 KCY.png",
             url: "https://stream.revma.ihrhls.com/zc3324/hls.m3u8"
         },
         {
