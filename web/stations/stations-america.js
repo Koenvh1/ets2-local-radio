@@ -7961,6 +7961,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWFFFMAAC_SC"
         },
         {
+            name: "HOT 100 @ 93.7",
+            logo: "stations/images-america/c2c/roanoke_va/HOT 100.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVHKFMAAC_SC"
+        },
+        {
             name: "94.1 WHRP",
             logo: "stations/images-america/c2c/huntsville_al/94.1 WHRP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHRPFMAAC_SC"
@@ -14624,7 +14629,7 @@ var stations_c2c = {
         {
             name: "WHOP 95.3",
             logo: "stations/images-america/c2c/hopkinsville_ky/WHOP 95.3.png",
-            url: "http://ice10.securenetsystems.net/WHOPAM"
+            url: "https://forcht.streamguys1.com/whop-am"
         },
         {
             name: "96.5 WHVO",
@@ -14639,7 +14644,7 @@ var stations_c2c = {
         {
             name: "Lite Rock 98.7",
             logo: "stations/images-america/c2c/hopkinsville_ky/Lite Rock 98.7.png",
-            url: "http://ice10.securenetsystems.net/WHOP"
+            url: "https://forcht.streamguys1.com/whop-fm"
         },
         {
             name: "Beaver 100.3",
@@ -26170,9 +26175,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXAFMAAC_SC"
         },
         {
-            name: "94.9 GAME 2",
-            logo: "stations/images-america/c2c/nashville_tn/94.9 GAME 2.png",
-            url: "https://cromwell.leanstream.co/WBUZH3"
+            name: "ESPN 94.9",
+            logo: "stations/images-america/c2c/nashville_tn/ESPN 94.9.png",
+            url: "https://cromwell-ice.streamguys1.com/WBUZH3"
         },
         {
             name: "95.5 Nash Icon",
@@ -26227,12 +26232,12 @@ var stations_c2c = {
         {
             name: "102.5 The Game",
             logo: "stations/images-america/c2c/nashville_tn/102.5 The Game.png",
-            url: "https://cromwell.leanstream.co/WPRTFM"
+            url: "https://cromwell-ice.streamguys1.com/WPRTFM"
         },
         {
             name: "102.9 The Buzz",
             logo: "stations/images-america/c2c/nashville_tn/102.9 The Buzz.png",
-            url: "https://cors-anywhere.herokuapp.com/https://cromwell.leanstream.co/WPRTFM"
+            url: "https://cors-anywhere.herokuapp.com/https://cromwell-us.streamguys1.com/WBUZFM"
         },
         {
             name: "103.3 Country",
@@ -28281,6 +28286,11 @@ var stations_c2c = {
     ],
     "harrisonburg_va": [
         {
+            name: "88.7 WXJM",
+            logo: "stations/images-america/c2c/winchester_va/88.7 WXJM.png",
+            url: "http://media.wmra.org:8000/wxjm"
+        },
+        {
             name: "WMRA 90.7",
             logo: "stations/images-america/c2c/winchester_va/WMRA 94.5.png",
             url: "http://media.wmra.org:8000/wmra"
@@ -28289,11 +28299,6 @@ var stations_c2c = {
             name: "WEMC 91.7",
             logo: "stations/images-america/c2c/harrisonburg_va/WEMC 91.7.png",
             url: "http://media.wmra.org:8000/wemc"
-        },
-        {
-            name: "WSVA 92.1",
-            logo: "stations/images-america/c2c/harrisonburg_va/WSVA 92.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSVAAMAAC_SC"
         },
         {
             name: "Mix 93.1",
@@ -28311,24 +28316,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_SC"
         },
         {
-            name: "more 96.1",
-            logo: "stations/images-america/c2c/harrisonburg_va/more 96.1.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMQRFM_SC"
-        },
-        {
-            name: "96.9 WSIG",
-            logo: "stations/images-america/c2c/harrisonburg_va/96.9 WSIG.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSIGFM_SC"
-        },
-        {
             name: "98 Rock",
             logo: "stations/images-america/c2c/harrisonburg_va/98 Rock.png",
             url: "https://stream.revma.ihrhls.com/zc3320/hls.m3u8"
-        },
-        {
-            name: "Q101",
-            logo: "stations/images-america/c2c/harrisonburg_va/Q101.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WQPOFM_SC"
         },
         {
             name: "104.3 KCY Country",
@@ -28657,8 +28647,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2481/hls.m3u8"
         },
         {
-            name: "ALT 96 96.3-HD2",
-            logo: "stations/images-america/c2c/roanoke_va/ALT 96 96.3-HD2.png",
+            name: "ALT 96 @ 96.3-HD2",
+            logo: "stations/images-america/c2c/roanoke_va/ALT 96.png",
             url: "https://stream.revma.ihrhls.com/zc5321/hls.m3u8"
         },
         {
@@ -28670,6 +28660,11 @@ var stations_c2c = {
             name: "WRKE 100.3",
             logo: "stations/images-america/c2c/roanoke_va/WRKE 100.3.png",
             url: "http://67.212.189.122:8125/stream"
+        },
+        {
+            name: "HOT 100",
+            logo: "stations/images-america/c2c/roanoke_va/HOT 100.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVHKFMAAC_SC"
         },
         {
             name: "101.5 The Mountain",
