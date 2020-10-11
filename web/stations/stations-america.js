@@ -21968,16 +21968,16 @@ var stations_c2c = {
         {
             name: "Hot 97.9",
             logo: "stations/images-america/c2c/raleigh_nc/Hot 97.9.png",
-            url: "https://freeus2.listen2myradio.com/live.mp3?typeportmount=ice_14690_stream"
+            url: "https://freeus2.listen2myradio.com/live.mp3?typeportmount=ice_20974_stream"
         },
         {
             name: "99.9 The Fan",
-            logo: "stations/images-america/c2c/raleigh_nc/99.9 The Fan.svg",
+            logo: "stations/images-america/c2c/raleigh_nc/99.9 The Fan.png",
             url: "https://live.wostreaming.net/manifest/capitolbroad-wcmcfmaac-ibc1"
         },
         {
             name: "The Buzz 99.9-HD2",
-            logo: "stations/images-america/c2c/raleigh_nc/The Buzz 99.9-HD2.svg",
+            logo: "stations/images-america/c2c/raleigh_nc/The Buzz 99.9-HD2.png",
             url: "https://live.wostreaming.net/manifest/capitolbroad-wcmchd2aac-ibc1"
         },
         {
@@ -21994,11 +21994,6 @@ var stations_c2c = {
             name: "Country Superstars 102.3",
             logo: "stations/images-america/c2c/raleigh_nc/Country Superstars 102.3.png",
             url: "https://ice66.securenetsystems.net/WKJO1023"
-        },
-        {
-            name: "KIX 102.9",
-            logo: "stations/images-america/c2c/raleigh_nc/KIX 102.9.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKIXFMAAC_SC"
         },
         {
             name: "Foxy 104.3",
@@ -26233,11 +26228,6 @@ var stations_c2c = {
             name: "102.5 The Game",
             logo: "stations/images-america/c2c/nashville_tn/102.5 The Game.png",
             url: "https://cromwell-ice.streamguys1.com/WPRTFM"
-        },
-        {
-            name: "102.9 The Buzz",
-            logo: "stations/images-america/c2c/nashville_tn/102.9 The Buzz.png",
-            url: "https://cors-anywhere.herokuapp.com/https://cromwell-us.streamguys1.com/WBUZFM"
         },
         {
             name: "103.3 Country",
