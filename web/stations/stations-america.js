@@ -10312,8 +10312,8 @@ var stations_c2c = {
             url: "https://ice41.securenetsystems.net/WRRJ"
         },
         {
-            name: "Nash FM 102.7",
-            logo: "stations/images-america/c2c/melbourne_fl/Nash FM 102.7.png",
+            name: "102.7 The HitKicker",
+            logo: "stations/images-america/c2c/melbourne_fl/102.7 The HitKicker.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHKRFMAAC_SC"
         },
         {
