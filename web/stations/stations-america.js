@@ -27703,7 +27703,7 @@ var stations_c2c = {
         {
             name: "ESPN 94.1",
             logo: "stations/images-america/c2c/texarkana_tx/ESPN 94.1.png",
-            url: "http://184.164.135.70:8201/stream"
+            url: "https://ssl.shoutcaststreaming.us:8091/stream"
         },
         {
             name: "The River 95.1",

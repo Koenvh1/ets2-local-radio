@@ -2877,7 +2877,7 @@ var stations = {
         {
             name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "http://pldm.ml/radio?url=https://www.eskago.pl/radio/vox-fm"
+            url: "https://ext03.ic.smcdn.pl/t049-1.mp3"
         },
     ],
     "portugal": [
