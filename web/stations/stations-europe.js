@@ -19,6 +19,11 @@ var stations = {
             url: "https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8;"
         },
         {
+            name: "Alfa dhe Omega Radio",
+            logo: "stations/images-europe/albania/Alfa dhe Omega Radio.png",
+            url: "http://cp11.shoutcheap.com:8037/;?1602675279871"
+        },
+        {
             name: "Alpo Radio",
             logo: "stations/images-europe/albania/Alpo Radio.png",
             url: "http://62.210.24.124:8379/;stream.mp3"
@@ -34,14 +39,39 @@ var stations = {
             url: "http://46.252.33.58:9310/;stream.mp3;"
         },
         {
+            name: "City Radio",
+            logo: "stations/images-europe/albania/City Radio.png",
+            url: "https://cp1.sednastream.com/proxy/cityradio?mp=/stream"
+        },
+        {
             name: "Kiss FM",
             logo: "stations/images-europe/albania/Kiss FM.jpg",
             url: "https://stream.kissfm.com.al:8000/stream.m3u;"
         },
         {
+            name: "Love Radio",
+            logo: "stations/images-europe/albania/Love Radio.jpg",
+            url: "http://185.32.20.10:6200/;"
+        },
+        {
+            name: "MCN Radio",
+            logo: "stations/images-europe/albania/MCN Radio.jpg",
+            url: "http://149.202.220.47:8888/mcnradio;"
+        },
+        {
             name: "NRG (Energy)",
             logo: "stations/images-europe/albania/NRG.png",
             url: "https://ice31.securenetsystems.net/AL09?playSessionID=9D798F39-FE4D-F033-9332CBD2C0B8F1DF;"
+        },
+        {
+            name: "Radio 1",
+            logo: "stations/images-europe/albania/Radio 1.webp",
+            url: "http://80.90.87.67:88/broadwavehigh.mp3"
+        },
+        {
+            name: "Radio 7",
+            logo: "stations/images-europe/albania/Radio 7.png",
+            url: "http://cp1.sednastream.com:8013/live"
         },
         {
             name: "Radio Tirana 1",
