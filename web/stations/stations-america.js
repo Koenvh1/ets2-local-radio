@@ -28570,9 +28570,9 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXGIAMAAC_SC"
         },
         {
-            name: "100.9 Jack FM",
-            logo: "stations/images-america/c2c/richmond_va/100.9 Jack FM.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WJSRFM_SC"
+            name: "Santa 100.9",
+            logo: "stations/images-america/c2c/richmond_va/Santa 100.9.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WJSRFMAAC_SC"
         },
         {
             name: "Boomtown Radio 101.7",
