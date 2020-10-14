@@ -482,8 +482,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXIXFM_SC"
         },
         {
-            name: "94.9 Sports Radio",
-            logo: "stations/images-america/bend/94.9 Sports Radio.png",
+            name: "FOX Sports 94.9",
+            logo: "stations/images-america/bend/FOX Sports 94.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCOEFMAAC_SC"
         },
         {
@@ -6007,7 +6007,7 @@ var stations = {
             url: "https://ice3.securenetsystems.net/KODL"
         },
         {
-            name: "The Beat 103.1",
+            name: "The Beat 107.3 @ 103.1",
             logo: "stations/images-america/the_dalles/107.3 The Beat.png",
             url: "http://209.95.35.49:7004/stream"
         },
