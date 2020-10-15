@@ -641,8 +641,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-ksasfmaac-ibc3"
         },
         {
-            name: "WOW 104.3",
-            logo: "stations/images-america/boise/WOW 104.3.png",
+            name: "104.3 WOW Country",
+            logo: "stations/images-america/boise/104.3 WOW Country.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kawofmaac-ibc3"
         },
         {
@@ -10112,11 +10112,6 @@ var stations_c2c = {
             name: "V101.5",
             logo: "stations/images-america/c2c/jacksonville_fl/V101.5.png",
             url: "https://stream.revma.ihrhls.com/zc533/hls.m3u8"
-        },
-        {
-            name: "Sunny 102.3",
-            logo: "stations/images-america/c2c/jacksonville_fl/Sunny 102.3.png",
-            url: "https://ice64.securenetsystems.net/W272CQ"
         },
         {
             name: "104.5 WOKV",
