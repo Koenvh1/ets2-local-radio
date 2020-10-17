@@ -2325,7 +2325,7 @@ var stations = {
         },
         {
             name: "91.5 The Rebel-HD2",
-            logo: "stations/images-america/las_vegas/The Rebel 91.5 FM.png",
+            logo: "stations/images-america/las_vegas/91.5 The Rebel-HD2.png",
             url: "https://s1.radioforge.com:9113/stream/4/"
         },
         {
