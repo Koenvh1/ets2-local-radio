@@ -2354,6 +2354,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "Amor 94.5",
+            logo: "stations/images-america/las_vegas/Amor 94.5.png",
+            url: "http://64.111.18.90:9032/;"
+        },
+        {
             name: "95.5 The Bull",
             logo: "stations/images-america/las_vegas/95.5 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc1345/hls.m3u8"
