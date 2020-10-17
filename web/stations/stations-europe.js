@@ -992,8 +992,8 @@ var stations = {
     ],
     "france": [
         {
-            name: "FIP (national)",
-            logo: "stations/images-europe/france/FIP (national).png",
+            name: "FIP",
+            logo: "stations/images-europe/france/FIP.png",
             url: "http://direct.fipradio.fr/live/fip-midfi.mp3"
         },
         {
@@ -1018,7 +1018,7 @@ var stations = {
         },
         {
             name: "Autoroute Info",
-            logo: "stations/images-europe/france/Autoroute Info.gif",
+            logo: "stations/images-europe/france/Autoroute Info.png",
             url: "http://media.autorouteinfo.fr:8000/direct_nord.mp3"
         },
         {
@@ -1037,14 +1037,14 @@ var stations = {
             url: "http://ais.rtl.fr:80/fun-1-44-128"
         },
         {
-            name: "MFM Radio",
-            logo: "stations/images-europe/france/MFM Radio.png",
+            name: "M Radio",
+            logo: "stations/images-europe/france/M Radio.png",
             url: "http://mfm.ice.infomaniak.ch/mfm-128.mp3"
         },
         {
             name: "Mouv'",
-            logo: "stations/images-europe/france/Mouv'.jpg",
-            url: "http://direct.mouv.fr/live/mouv-midfi.mp3"
+            logo: "stations/images-europe/france/Mouv'.png",
+            url: "https://direct.mouv.fr/live/mouv-midfi.mp3"
         },
         {
             name: "Nostalgie",
@@ -1053,7 +1053,7 @@ var stations = {
         },
         {
             name: "NRJ",
-            logo: "stations/images-europe/france/NRJ.svg",
+            logo: "stations/images-europe/france/NRJ.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
         },
         {
@@ -1069,11 +1069,11 @@ var stations = {
         {
             name: "Radio Scoop",
             logo: "stations/images-europe/france/Radio Scoop.png",
-            url: "http://broadcast.infomaniak.net/radioscoop-lyon-128.mp3"
+            url: "https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac"
         },
         {
             name: "Radio Vinci Autoroutes",
-            logo: "stations/images-europe/france/Radio Vinci Autoroutes.gif",
+            logo: "stations/images-europe/france/Radio Vinci Autoroutes.png",
             url: "http://str0.creacast.com/radio_vinci_autoroutes_6"
         },
         {
@@ -1088,7 +1088,7 @@ var stations = {
         },
         {
             name: "RMC",
-            logo: "stations/images-europe/france/RMC.jpg",
+            logo: "stations/images-europe/france/RMC.png",
             url: "http://rmc.bfmtv.com/rmcinfo-mp3"
         },
         {
@@ -1097,13 +1097,13 @@ var stations = {
             url: "http://ais.rtl.fr:80/rtl-1-44-128"
         },
         {
-            name: "RTL2",
-            logo: "stations/images-europe/france/RTL2.jpg",
+            name: "RTL 2",
+            logo: "stations/images-europe/france/RTL 2.png",
             url: "http://ais.rtl.fr:80/rtl2-1-44-128"
         },
         {
             name: "Skyrock",
-            logo: "stations/images-europe/france/Skyrock.jpg",
+            logo: "stations/images-europe/france/Skyrock.png",
             url: "http://icecast.skyrock.net/s/natio_mp3_128k"
         },
         {
@@ -3373,7 +3373,7 @@ var stations = {
         {
             name: "Lugna Favoriter",
             logo: "stations/images-europe/sweden/Lugna Favoriter.png",
-            url: "ttps://fm03-ice.stream.khz.se/fm03_mp3"
+            url: "https://fm03-ice.stream.khz.se/fm03_mp3"
         },
         {
             name: "Mix Megapol",
