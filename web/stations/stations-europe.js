@@ -773,57 +773,57 @@ var stations = {
         {
             name: "Vikerraadio",
             logo: "stations/images-europe/estonia/Vikerraadio.png",
-            url: "http://icecast.err.ee:80/vikerraadio.mp3"
+            url: "http://icecast.err.ee/vikerraadio.mp3"
         },
         {
             name: "Raadio 2",
             logo: "stations/images-europe/estonia/Raadio 2.png",
-            url: "http://icecast.err.ee:80/raadio2.mp3"
+            url: "http://icecast.err.ee/raadio2.mp3"
         },
         {
             name: "Klassikaraadio",
             logo: "stations/images-europe/estonia/Klassikaraadio.png",
-            url: "http://icecast.err.ee:80/klassikaraadio.mp3"
+            url: "http://icecast.err.ee/klassikaraadio.mp3"
         },
         {
             name: "Raadio 4",
             logo: "stations/images-europe/estonia/Raadio 4.png",
-            url: "http://icecast.err.ee:80/raadio4.mp3"
+            url: "http://icecast.err.ee/raadio4madal.mp3"
         },
         {
             name: "MyHits",
             logo: "stations/images-europe/estonia/MyHits.png",
-            url: "http://striiming.trio.ee:8008/myhits_low.mp3"
+            url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
         },
         {
             name: "Power Hit Radio",
-            logo: "stations/images-europe/estonia/Power Hit Radio.svg",
-            url: "https://phr.babahhcdn.com/phr?t1564238193923"
+            logo: "stations/images-europe/estonia/Power Hit Radio.png",
+            url: "https://ice.leviracloud.eu/phr96-aac"
         },
         {
             name: "Raadio Elmar",
             logo: "stations/images-europe/estonia/Raadio Elmar.png",
-            url: "http://217.146.71.24:80/elmar.mp3"
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
         },
         {
             name: "Raadio Kuku",
             logo: "stations/images-europe/estonia/Raadio Kuku.png",
-            url: "http://217.146.71.24/kuku.mp3"
+            url: "ttp://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
         },
         {
             name: "Retro FM",
             logo: "stations/images-europe/estonia/Retro FM.png",
-            url: "http://retro.babahhcdn.com/RETRO?/retrofm_hi.mp3"
+            url: "https://sky.babahhcdn.com/RETRO"
         },
         {
             name: "Sky Plus",
             logo: "stations/images-europe/estonia/Sky Plus.png",
-            url: "http://skyplus.babahhcdn.com/SKYPLUS?/skyplus_hi.mp3"
+            url: "https://sky.babahhcdn.com/SKYPLUS"
         },
         {
             name: "Star FM",
             logo: "stations/images-europe/estonia/Star FM.png",
-            url: "https://starfm.babahhcdn.com/starfm"
+            url: "https://ice.leviracloud.eu/star96-aac"
         },
     ],
     "faroe": [
