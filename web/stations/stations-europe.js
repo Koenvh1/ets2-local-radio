@@ -808,7 +808,7 @@ var stations = {
         {
             name: "Raadio Kuku",
             logo: "stations/images-europe/estonia/Raadio Kuku.png",
-            url: "ttp://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
+            url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
         },
         {
             name: "Retro FM",
