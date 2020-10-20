@@ -14378,7 +14378,7 @@ var stations_c2c = {
         {
             name: "92.9 The Bull",
             logo: "stations/images-america/c2c/topeka_ks/92.9 The Bull.png",
-            url: "https://live.wostreaming.net/manifest/greatplainsmedia-kmxnfmaac-ibc1"
+            url: "https://ice23.securenetsystems.net/KMXNFM"
         },
         {
             name: "95.7 The Vibe",
@@ -14403,7 +14403,7 @@ var stations_c2c = {
         {
             name: "105.9 KISS FM",
             logo: "stations/images-america/c2c/kansascity_mo/105.9 KISS FM.png",
-            url: "https://live.wostreaming.net/manifest/greatplainsmedia-kkswfmaac-ibc1"
+            url: "https://ice23.securenetsystems.net/KKSWF"
         },
         {
             name: "Majic 107.7",
@@ -14413,7 +14413,7 @@ var stations_c2c = {
         {
             name: "KLWN 1320",
             logo: "stations/images-america/c2c/topeka_ks/KLWN 1320.png",
-            url: "https://live.wostreaming.net/manifest/greatplainsmedia-klwnamaac-ibc1"
+            url: "https://ice23.securenetsystems.net/KLWNAM"
         },
         {
             name: "KMAJ 1440",
@@ -14784,9 +14784,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3499/hls.m3u8"
         },
         {
-            name: "Rewind 105.5",
-            logo: "stations/images-america/c2c/lexington_ky/Rewind 105.5.png",
-            url: "https://stream.revma.ihrhls.com/zc4772/hls.m3u8"
+            name: "Christmas 105.5",
+            logo: "stations/images-america/c2c/lexington_ky/Rewind 105.5_christmas.png",
+            url: "https://ice23.securenetsystems.net/WWRWFM"
         },
         {
             name: "Jess FM 105.9",
@@ -18820,7 +18820,7 @@ var stations_c2c = {
         {
             name: "105.9 KISS FM",
             logo: "stations/images-america/c2c/kansascity_mo/105.9 KISS FM.png",
-            url: "https://live.wostreaming.net/manifest/greatplainsmedia-kkswfmaac-ibc1"
+            url: "https://ice23.securenetsystems.net/KKSWF"
         },
         {
             name: "106.5 The Wolf",
@@ -23841,6 +23841,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5166/hls.m3u8"
         },
         {
+            name: "94.5 Totally Awesome 80's",
+            logo: "stations/images-america/c2c/tulsa_ok/94.5 Totally Awesome 80's.png",
+            url: "http://ice8.securenetsystems.net/KTSO"
+        },
+        {
             name: "97.1 The Sports Animal",
             logo: "stations/images-america/c2c/tulsa_ok/97.1 The Sports Animal.png",
             url: "https://ice6.securenetsystems.net/KYAL"
@@ -23861,9 +23866,9 @@ var stations_c2c = {
             url: "https://crystalout.surfernetwork.com:8001/KYFM-FM_MP3"
         },
         {
-            name: "100.9 Totally Awesome 80's",
-            logo: "stations/images-america/c2c/tulsa_ok/100.9 Totally Awesome 80's.png",
-            url: "http://ice8.securenetsystems.net/KTSO"
+            name: "100.9 KTSO",
+            logo: "stations/images-america/c2c/tulsa_ok/100.9 KTSO.png",
+            url: "https://ice8.securenetsystems.net/KTSO"
         },
         {
             name: "101.5 El Patron",
@@ -23942,24 +23947,7 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/woodward_ok/KZZW 104.5.png",
             url: "https://live.wostreaming.net/direct/omnimedia-kzzwfmmp3-ibc1"
         },
-    ],/*
-    "la_grande": [
-        {
-            name: "88.9 KOBK Oregon Public Broadcasting",
-            logo: "stations/images-america/c2c/88.9 KOBK Oregon Public Broadcasting.png",
-            url: "https://stream5.opb.org/radio.mp3"
-        },
-        {
-            name: "KVBL News Talk 103.1",
-            logo: "stations/images-america/c2c/KVBL News Talk 103.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVBLFM.mp3"
-        },
-        {
-            name: "1340 KWVR",
-            logo: "stations/images-america/c2c/1340 KWVR.png",
-            url: "http://s1.logical.systems:9002/;"
-        },
-    ],*/
+    ],
     "allentown": [
         {
             name: "WDIY 88.1",
@@ -24022,14 +24010,14 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLEVFMAAC_SC"
         },
         {
+            name: "La Mega 101.7",
+            logo: "stations/images-america/c2c/allentown_pa/La Mega 101.7.png",
+            url: "http://ice5.securenetsystems.net/WHOL"
+        },
+        {
             name: "B104",
             logo: "stations/images-america/c2c/allentown_pa/B104.png",
             url: "https://stream.revma.ihrhls.com/zc1969/hls.m3u8"
-        },
-        {
-            name: "La Mega 106.9",
-            logo: "stations/images-america/c2c/allentown_pa/La Mega 106.9.png",
-            url: "http://ice5.securenetsystems.net/WHOL"
         },
         {
             name: "790 WAEB",
