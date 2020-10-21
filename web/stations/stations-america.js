@@ -26033,7 +26033,7 @@ var stations_c2c = {
         {
             name: "i96",
             logo: "stations/images-america/c2c/memphis_tn/i96.png",
-            url: "https://securestreams.autopo.st:1048/963FM.aac"
+            url: "https://stream1.flinn.com:8443/963FM.aac"
         },
         {
             name: "K97.1",
@@ -26088,7 +26088,7 @@ var stations_c2c = {
         {
             name: "SUNNY 103.1",
             logo: "stations/images-america/c2c/memphis_tn/SUNNY 103.1.png",
-            url: "https://securestreams.autopo.st:1048/1210AM.mp3"
+            url: "https://stream1.flinn.com:8443/1210AM.mp3"
         },
         {
             name: "103.5 WRBO",
@@ -26098,7 +26098,7 @@ var stations_c2c = {
         {
             name: "Bumpin 104.1",
             logo: "stations/images-america/c2c/memphis_tn/Bumpin 104.1.png",
-            url: "http://stream1.flinn.com:8000/1041FM.aac"
+            url: "https://stream1.flinn.com:8443/1041FM.aac"
         },
         {
             name: "104.5 The River",
@@ -26113,7 +26113,7 @@ var stations_c2c = {
         {
             name: "HOT 107.1",
             logo: "stations/images-america/c2c/memphis_tn/HOT 107.1.png",
-            url: "https://securestreams.autopo.st:1048/1071FM.aac"
+            url: "https://stream1.flinn.com:8443/1071FM.aac"
         },
         {
             name: "107.5 WHBQ",
@@ -26124,6 +26124,11 @@ var stations_c2c = {
             name: "107.9 The Voice",
             logo: "stations/images-america/c2c/memphis_tn/107.9 The Voice.png",
             url: "https://ice24.securenetsystems.net/KWAM"
+        },
+        {
+            name: "Sports 56",
+            logo: "stations/images-america/c2c/memphis_tn/Sports 56.png",
+            url: "https://stream1.flinn.com:8443/560AM.mp3"
         },
     ],
     "nashville": [
