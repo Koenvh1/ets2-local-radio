@@ -25981,6 +25981,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/shelbycounty-wqoxfmaac-ibc1"
         },
         {
+            name: "Santa 87.7",
+            logo: "stations/images-america/c2c/memphis_tn/Santa 87.7_christmas.png",
+            url: "https://stream1.flinn.com:8443/877FM.aac"
+        },
+        {
             name: "WYPL 89.3",
             logo: "stations/images-america/c2c/memphis_tn/WYPL 89.3.png",
             url: "http://ice64.securenetsystems.net/WYPL"
