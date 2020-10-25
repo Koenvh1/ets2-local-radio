@@ -6810,30 +6810,60 @@ var stations_mexico = {
     ],
     "ensenada": [
         {
-            name: "XS 92.9 FM",
-            logo: "stations/images-america/ensenada/xs.png",
-            url: "http://108.163.173.130:18300/;"
+            name: "La Bestia Gruperia 89.1",
+            logo: "stations/images-america/ensenada/La Bestia Gruperia 89.1.png",
+            url: "http://s1.audiorama.mx:6586/;"
         },
         {
-            name: "Cadena 100.3 FM",
-            logo: "stations/images-america/ensenada/100.png",
-            url: "http://162.144.96.212:8000/cadena1010"
+            name: "La Lupe 92.1",
+            logo: "stations/images-america/ensenada/La Lupe 92.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHHCFMAAC_SC"
         },
         {
-            name: "Radio Romance",
-            logo: "stations/images-america/ensenada/rom.png",
-            url: "http://67.212.189.122:8272/stream"
+            name: "Amor Mío 92.9",
+            logo: "stations/images-america/ensenada/Amor Mío 92.9.png",
+            url: "http://sudominiohoy.com:18300/;"
         },
         {
-            name: "Super 101.1",
-            logo: "stations/images-america/ensenada/sup.png",
-            url: "http://s1.radiorama.com.mx:9552/;"
-        }
+            name: "La Caliente 94.7",
+            logo: "stations/images-america/ensenada/La Caliente 94.7.png",
+            url: "https://radio.urbansa.com/station16"
+        },
+        {
+            name: "UABC Radio 95.5",
+            logo: "stations/images-america/mexicali/UABC Radio 104.1.png",
+            url: "http://148.231.3.56/mxl"
+        },
+        {
+            name: "Fiesta Mexicana 97.9",
+            logo: "stations/images-america/ensenada/Fiesta Mexicana 97.9.png",
+            url: "http://stream2.dyndns.org:8000/xhebc.mp3"
+        },
+        {
+            name: "Cadena 100.3",
+            logo: "stations/images-america/ensenada/Cadena 100.3.png",
+            url: "https://radio.cadenanoticias.com/proxy/cadena1003?mp=/cadena1003"
+        },
+        {
+            name: "Súper 101.1",
+            logo: "stations/images-america/ensenada/Súper 101.1.png",
+            url: "http://s1.audiorama.mx:6588/;"
+        },
+        {
+            name: "La Mejor 103.3",
+            logo: "stations/images-america/ensenada/La Mejor 103.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHENAAAC_SC"
+        },
+        {
+            name: "Exa FM 104.1",
+            logo: "stations/images-america/ensenada/Exa FM 104.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC_SC"
+        },
     ],
     "loreto": [
         {
             name: "La Giganta 730 AM",
-            logo: "stations/images-america/loreto/gig.png",
+            logo: "stations/images-america/rosalia/La Giganta 95.7.png",
             url:
                 "http://www.radiolagiganta.com:8080/radiolagiganta"
         }
