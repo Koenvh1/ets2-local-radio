@@ -2287,6 +2287,11 @@ var stations = {
             url: "http://80.232.162.149:8000/swh96mp3"
         },
         {
+            name: "Radio SWH Rock",
+            logo: "stations/images-europe/latvia/Radio SWH Rock.svg",
+            url: "https://live.radioswh.lv:8443/rockmp3"
+        },
+        {
             name: "Radio TEV",
             logo: "stations/images-europe/latvia/Radio TEV.png",
             url: "http://stream.radiotev.lv:8002/radiov"
