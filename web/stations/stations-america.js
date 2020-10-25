@@ -6840,10 +6840,9 @@ var stations_mexico = {
     ],
     "cabo_sanluc": [
         {
-            name: "Cabo Mil Radio",
-            logo: "stations/images-america/lucas/mil.png",
-            url:
-                "http://50.7.29.178:9976/;"
+            name: "CaboMil 96.3",
+            logo: "stations/images-america/lucas/CaboMil 96.3.png",
+            url:  "https://streamingcwsradio30.com:7070/;"
         }
     ],
     "la_paz": [
