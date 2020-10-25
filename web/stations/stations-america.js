@@ -6847,25 +6847,35 @@ var stations_mexico = {
     ],
     "la_paz": [
         {
-            name: "XEHZ Radio 990 AM",
-            logo: "stations/images-america/paz/xehz.png",
-            url: "http://www.xehz.com:8080/xehz"
-        },
-        {
-            name: "Alegría Mexicana",
-            logo: "stations/images-america/paz/al.png",
+            name: "Alegría Mexicana 90.1",
+            logo: "stations/images-america/paz/Alegría Mexicana 90.1.png",
             url: "http://www.alegriamexicana.com:8080/alegriamexicana"
         },
         {
-            name: "Romántica",
-            logo: "stations/images-america/paz/sup.png",
-            url: "http://www.panoramainformativo.com.mx:8080/panorama"
+            name: "Radiante FM 91.1",
+            logo: "stations/images-america/paz/Radiante FM 91.1.png",
+            url: "https://streamingcwsradio30.com:7035/;"
         },
         {
-            name: "Radio Fórmula",
-            logo: "stations/images-america/paz/for.png",
-            url: "http://144.217.228.52:8000/lapaz"
-        }
+            name: "Digimix 95",
+            logo: "stations/images-america/paz/Digimix 95.png",
+            url: "http://www.digimix95.com:8080/digimix95"
+        },
+        {
+            name: "Super Stereo 96",
+            logo: "stations/images-america/paz/Super Stereo 96.png",
+            url: "http://superstereo96.com:8080/superstereo96"
+        },
+        {
+            name: "Radio Fórmula 97.5",
+            logo: "stations/images-america/paz/Radio Fórmula.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/lapazih"
+        },
+        {
+            name: "XEHZ 990",
+            logo: "stations/images-america/paz/xehz.png",
+            url: "http://www.xehz.com:8080/xehz"
+        },
     ],
     "sonoyta": [
         {
