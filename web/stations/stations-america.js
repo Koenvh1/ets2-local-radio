@@ -17099,8 +17099,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wtrvfmaac-ibc3"
         },
         {
-            name: "101.3 The Brew",
-            logo: "stations/images-america/c2c/grand_rapids_mi/101.3 The Brew.png",
+            name: "BIG 101.3",
+            logo: "stations/images-america/c2c/grand_rapids_mi/BIG 101.3.png",
             url: "https://stream.revma.ihrhls.com/zc1161/hls.m3u8"
         },
         {
