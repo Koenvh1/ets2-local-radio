@@ -717,6 +717,11 @@ var stations = {
             url: "https://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8"
         },
         {
+            name: "Classic FM",
+            logo: "stations/images-europe/denmark/Classic FM.png",
+            url: "https://webradio.classicfm.dk/classic"
+        },
+        {
             name: "myROCK",
             logo: "stations/images-europe/denmark/myROCK.png",
             url: "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
@@ -771,24 +776,9 @@ var stations = {
     ],
     "estonia": [
         {
-            name: "Vikerraadio",
-            logo: "stations/images-europe/estonia/Vikerraadio.png",
-            url: "http://icecast.err.ee/vikerraadio.mp3"
-        },
-        {
-            name: "Raadio 2",
-            logo: "stations/images-europe/estonia/Raadio 2.png",
-            url: "http://icecast.err.ee/raadio2.mp3"
-        },
-        {
             name: "Klassikaraadio",
             logo: "stations/images-europe/estonia/Klassikaraadio.png",
             url: "http://icecast.err.ee/klassikaraadio.mp3"
-        },
-        {
-            name: "Raadio 4",
-            logo: "stations/images-europe/estonia/Raadio 4.png",
-            url: "http://icecast.err.ee/raadio4madal.mp3"
         },
         {
             name: "MyHits",
@@ -801,6 +791,16 @@ var stations = {
             url: "https://ice.leviracloud.eu/phr96-aac"
         },
         {
+            name: "Raadio 2",
+            logo: "stations/images-europe/estonia/Raadio 2.png",
+            url: "http://icecast.err.ee/raadio2.mp3"
+        },
+        {
+            name: "Raadio 4",
+            logo: "stations/images-europe/estonia/Raadio 4.png",
+            url: "http://icecast.err.ee/raadio4madal.mp3"
+        },
+        {
             name: "Raadio Elmar",
             logo: "stations/images-europe/estonia/Raadio Elmar.png",
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
@@ -811,9 +811,19 @@ var stations = {
             url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
         },
         {
+            name: "Relax FM",
+            logo: "stations/images-europe/estonia/Relax FM.png",
+            url: "https://stream.relaxfm.ee/relax"
+        },
+        {
             name: "Retro FM",
             logo: "stations/images-europe/estonia/Retro FM.png",
             url: "https://sky.babahhcdn.com/RETRO"
+        },
+        {
+            name: "Ruskoe Radio",
+            logo: "stations/images-europe/estonia/Ruskoe Radio.png",
+            url: "https://skyplus.babahhcdn.com/RR"
         },
         {
             name: "Sky Plus",
@@ -824,6 +834,11 @@ var stations = {
             name: "Star FM",
             logo: "stations/images-europe/estonia/Star FM.png",
             url: "https://ice.leviracloud.eu/star96-aac"
+        },
+        {
+            name: "Vikerraadio",
+            logo: "stations/images-europe/estonia/Vikerraadio.png",
+            url: "http://icecast.err.ee/vikerraadio.mp3"
         },
     ],
     "faroe": [
@@ -2009,34 +2024,39 @@ var stations = {
     ],
     "italy": [
         {
-            name: "RAI Radio 1",
+            name: "Rai Radio 1",
             logo: "stations/images-europe/italy/RAI Radio 1.png",
-            url: "http://icestreaming.rai.it/1.mp3"
+            url: "https://radiouno1-lh.akamaihd.net/i/radiouno1_1@586814/master.m3u8"
         },
         {
-            name: "RAI Radio 2",
+            name: "Rai Radio 2",
             logo: "stations/images-europe/italy/RAI Radio 2.png",
-            url: "http://icestreaming.rai.it/2.mp3"
+            url: "https://radiodue1-lh.akamaihd.net/i/radiodue1_1@586831/master.m3u8"
         },
         {
-            name: "RAI Radio 3",
+            name: "Rai Radio 3",
             logo: "stations/images-europe/italy/RAI Radio 3.png",
-            url: "http://icestreaming.rai.it/3.mp3"
+            url: "https://radiotre1-lh.akamaihd.net/i/radiotre1_1@586832/master.m3u8"
         },
         {
-            name: "RAI FD4",
-            logo: "stations/images-europe/italy/RAI FD4.png",
-            url: "http://icestreaming.rai.it/4.mp3"
+            name: "Rai Radio Tutta Italiana",
+            logo: "stations/images-europe/italy/Rai Radio Tutta Italiana.png",
+            url: "https://radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/master.m3u8"
         },
         {
-            name: "RAI IsoRadio",
+            name: "Rai Isoradio",
             logo: "stations/images-europe/italy/RAI IsoRadio.png",
-            url: "http://icestreaming.rai.it/12.mp3"
+            url: "https://isoradio1-lh.akamaihd.net/i/isoradio1_1@586840/master.m3u8"
         },
         {
-            name: "M2o",
-            logo: "stations/images-europe/italy/M2o.gif",
-            url: "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8"
+            name: "Rai GR Parlamento",
+            logo: "stations/images-europe/italy/Rai GR Parlamento.png",
+            url: "https://icestreaming.rai.it/7.mp3"
+        },
+        {
+            name: "m2o",
+            logo: "stations/images-europe/italy/m2o.png",
+            url: "https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8"
         },
         {
             name: "R101",
@@ -2044,19 +2064,19 @@ var stations = {
             url: "http://icecast.unitedradio.it/r101"
         },
         {
-            name: "Radio 105 FM",
+            name: "Radio 105",
             logo: "stations/images-europe/italy/Radio 105 FM.png",
-            url: "http://icecast.unitedradio.it/Radio105.mp3"
+            url: "https://icecast.unitedradio.it/Radio105.mp3"
         },
         {
             name: "Radio 24",
             logo: "stations/images-europe/italy/Radio 24.png",
-            url: "http://shoutcast2.radio24.ilsole24ore.com:8000/;stream.nsv"
+            url: "https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8"
         },
         {
             name: "Radio Bruno",
             logo: "stations/images-europe/italy/Radio Bruno.png",
-            url: "http://onair18.xdevel.com:8062/;"
+            url: "http://onair18.xdevel.com:7968/;"
         },
         {
             name: "Radio Capital",
@@ -2069,29 +2089,39 @@ var stations = {
             url: "http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8"
         },
         {
-            name: "Radio Dimensione Suono (RDS)",
-            logo: "stations/images-europe/italy/Radio Dimensione Suono (RDS).png",
+            name: "RDS",
+            logo: "stations/images-europe/italy/RDS.png",
             url: "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8"
         },
         {
-            name: "Radio Freccia",
-            logo: "stations/images-europe/italy/Radio Freccia.png",
-            url: "http://shoutcast.rtl.it:3060/;"
+            name: "Radiofreccia",
+            logo: "stations/images-europe/italy/Radiofreccia.png",
+            url: "https://streamingv2.shoutcast.com/radiofreccia"
+        },
+        {
+            name: "Radio InBlu",
+            logo: "stations/images-europe/italy/Radio InBlu.png",
+            url: "https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8"
         },
         {
             name: "Radio Italia",
             logo: "stations/images-europe/italy/Radio Italia.png",
-            url: "http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8"
+            url: "https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8"
         },
         {
             name: "Radio Kiss Kiss",
             logo: "stations/images-europe/italy/Radio Kiss Kiss.png",
-            url: "http://ice06.fluidstream.net:8080/KissKiss.mp3"
+            url: "https://ice08.fluidstream.net/KissKiss.aac"
+        },
+        {
+            name: "Radio Maria",
+            logo: "stations/images-europe/italy/Radio Maria.png",
+            url: "https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream"
         },
         {
             name: "Radio Monte Carlo",
             logo: "stations/images-europe/italy/Radio Monte Carlo.png",
-            url: "http://icecast.unitedradio.it/RMC.mp3"
+            url: "https://icy.unitedradio.it/RMC.mp3"
         },
         {
             name: "Radio Radicale",
@@ -2101,17 +2131,17 @@ var stations = {
         {
             name: "Radio Sportiva",
             logo: "stations/images-europe/italy/Radio Sportiva.png",
-            url: "http://46.105.114.57:8000/stream"
+            url: "https://mediahit.inmystream.it:9000/stream"
         },
         {
             name: "RTL 102.5",
-            logo: "stations/images-europe/italy/RTL 102.5.jpg",
-            url: "http://shoutcast.rtl.it:3010/stream/1/"
+            logo: "stations/images-europe/italy/RTL 102.5.png",
+            url: "https://streamingv2.shoutcast.com/rtl-1025"
         },
         {
             name: "Virgin Radio",
-            logo: "stations/images-europe/italy/Virgin Radio.jpg",
-            url: "http://icecast.unitedradio.it/Virgin.mp3"
+            logo: "stations/images-europe/italy/Virgin Radio.png",
+            url: "https://icecast.unitedradio.it/Virgin.mp3"
         },
     ],
     "japan": [
@@ -3373,7 +3403,7 @@ var stations = {
         {
             name: "Bandit Rock",
             logo: "stations/images-europe/sweden/Bandit Rock.png",
-            url: "http://fm02-ice.stream.khz.se/fm02_mp3"
+            url: "https://fm02-ice.stream.khz.se/fm02_mp3"
         },
         {
             name: "Lugna Favoriter",
