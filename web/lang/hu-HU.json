@@ -1,7 +1,7 @@
 {
     "web": {
-        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation --> Ford\u00edtotta\/Translated by: Daniel Valentin",
-        "now-playing": "Most ezt j\u00e1tsza le:",
+        "author": "<!-- Enter your name here, so it appears at the bottom of the page, giving you credit for this translation --> Ford\u00edtotta: D\u00e1niel Valentin",
+        "now-playing": "Most j\u00e1tssza:",
         "connect-other-device": "Csatlakoztat\u00e1s egy m\u00e1sik eszk\u00f6zh\u00f6z",
         "coverage-map": "T\u00e9rk\u00e9p fed\u00e9se",
         "stop-playback": "Lej\u00e1tsz\u00e1s le\u00e1l\u00edt\u00e1sa",
@@ -18,7 +18,7 @@
         "waiting-coordinates": "V\u00e1rakoz\u00e1s a j\u00e1t\u00e9kbeli koordin\u00e1t\u00e1kra...",
         "closest-city": "A legk\u00f6zelebbi v\u00e1ros <span class='nearestCity'><\/span>, <span class='distance'><\/span> m\u00e9ter t\u00e1vols\u00e1gra",
         "amount-static": "Zaj mennyis\u00e9ge:",
-        "chgtheme": "T\u00e9ma v\u00e1lt\u00e1sa",
+        "chgtheme": "T\u00e9ma v\u00e1ltoztat\u00e1sa",
         "brightness": "F\u00e9nyer\u0151:",
         "show-all": "Mutasson mindent",
         "enter-peerid-title": "\u00cdrja be a PeerID-t",
@@ -39,13 +39,13 @@
         "settings": "Be\u00e1ll\u00edt\u00e1sok",
         "keyboard": "Billenty\u0171zet",
         "controller": "Kontroller",
-        "next-station-key": "K\u00f6vetkez\u0151 r\u00e1di\u00f3\u00e1llom\u00e1s billenty\u0171:",
-        "previous-station-key": "El\u0151z\u0151 r\u00e1di\u00f3\u00e1llom\u00e1s billenty\u0171:",
-        "stop-playback-key": "Lej\u00e1ttsz\u00e1s le\u00e1ll\u00edt\u00e1sa billenty\u0171:",
-        "volume-up-key": "Hang feler\u0151sitt\u00e9se billenty\u0171:",
-        "volume-down-key": "Hang lehalk\u00edt\u00e1sa billenty\u0171:",
-        "make-favourite-key": "Kendvencc\u00e9 tev\u00e9s billenty\u0171:",
-        "go-to-favourite-key": "Kedvencre v\u00e1lt\u00e1s billenty\u0171:",
+        "next-station-key": "K\u00f6vetkez\u0151 r\u00e1di\u00f3\u00e1llom\u00e1s:",
+        "previous-station-key": "El\u0151z\u0151 r\u00e1di\u00f3\u00e1llom\u00e1s:",
+        "stop-playback-key": "Lej\u00e1ttsz\u00e1s le\u00e1ll\u00edt\u00e1sa:",
+        "volume-up-key": "Hang feler\u0151sitt\u00e9se:",
+        "volume-down-key": "Hang lehalk\u00edt\u00e1sa:",
+        "make-favourite-key": "Kendvencc\u00e9 tev\u00e9s:",
+        "go-to-favourite-key": "Kedvencre v\u00e1lt\u00e1s:",
         "save": "Ment\u00e9s",
         "install": "Plugin telep\u00edt\u00e9se",
         "install-plugin-ets2": "Plugin telep\u00edt\u00e9se \nEuro Truck Simulator 2-h\u00f6z",
@@ -54,6 +54,6 @@
         "install-overlay": "Le akarja telep\u00edteni a j\u00e1t\u00e9kbeli lefed\u00e9st? \n(Ez fel\u00fcl\u00edr egy eleve l\u00e9tez\u0151 d3d9.dll f\u00e1jlt, \u00e9s ritk\u00e1bb esetekben a j\u00e1t\u00e9k \u00f6sszeoml\u00e1s\u00e1t okozza mikor kil\u00e9p bel\u0151le)",
         "remove-overlay": "El akarja t\u00e1vol\u00edtani a j\u00e1t\u00e9kbeli lefed\u00e9st?\n(Ez kit\u00f6rli az \u0151sszes l\u00e9tez\u0151 d3d9.dll f\u00e1jlt)",
         "ets2-folder-dialog": "K\u00e9rj\u0171k, v\u00e1lassza ki az ETS2\/ATS telep\u00edt\u00e9si mapp\u00e1ba, legt\u00f6bbsz\u00f6r itt tal\u00e1lhat\u00f3: C:\\Program Files (x86)\\Steam\\SteamApps\\common\\{Euro Truck Simulator 2\/American Truck Simulator}",
-        "now-playing": "Most j\u00e1tsza:"
+        "now-playing": "Most j\u00e1tssza:"
     }
 }
