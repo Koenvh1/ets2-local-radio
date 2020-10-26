@@ -646,8 +646,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kawofmaac-ibc3"
         },
         {
-            name: "105.5 The Fan",
-            logo: "stations/images-america/boise/105.5 The Fan.png",
+            name: "Power 105.5",
+            logo: "stations/images-america/boise/Power 105.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kfxdfmaac-ibc3"
         },
         {
