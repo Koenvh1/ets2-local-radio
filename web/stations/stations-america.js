@@ -370,12 +370,12 @@ var stations = {
         {
             name: "The Highway Drive 96.9",
             logo: "stations/images-america/barstow/The Highway Drive 96.9.png",
-            url: "https://edge2-b.exa.live365.net/a98605"
+            url: "https://streaming.live365.com/a98605"
         },
         {
             name: "The Highway Vibe 98.1",
             logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
-            url: "https://edge2-b.exa.live365.net/a48408"
+            url: "https://streaming.live365.com/a48408"
         },
         {
             name: "99.1 KGGI",
@@ -390,7 +390,7 @@ var stations = {
         {
             name: "The Highway Country 107.3",
             logo: "stations/images-america/barstow/The Highway Country 107.3.png",
-            url: "https://edge2-b.exa.live365.net/a58353"
+            url: "https://streaming.live365.com/a58353"
         },
         {
             name: "FOX Sports 610",
@@ -2356,7 +2356,7 @@ var stations = {
         {
             name: "Amor 94.5",
             logo: "stations/images-america/las_vegas/Amor 94.5.png",
-            url: "http://64.111.18.90:9032/;"
+            url: "https://ice9.securenetsystems.net/KXLI"
         },
         {
             name: "95.5 The Bull",
@@ -2406,7 +2406,7 @@ var stations = {
         {
             name: "The Highway Vibe 99.7",
             logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
-            url: "https://edge2-b.exa.live365.net/a48408"
+            url: "https://streaming.live365.com/a48408"
         },
         {
             name: "Q100.5",
@@ -3347,7 +3347,7 @@ var stations = {
         {
             name: "The Highway Vibe 98.9",
             logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
-            url: "https://edge2-b.exa.live365.net/a48408"
+            url: "https://streaming.live365.com/a48408"
         },
         {
             name: "KTOX 1340",
