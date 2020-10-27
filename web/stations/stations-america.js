@@ -7848,6 +7848,11 @@ var stations_c2c = {
             url: "https://ice7.securenetsystems.net/WVSU"
         },
         {
+            name: "BIN 92.7",
+            logo: "stations/images-america/c2c/birmingham_al/BIN 92.7.png",
+            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
+        },
+        {
             name: "94.1 WJLD",
             logo: "stations/images-america/c2c/birmingham_al/94.1 WJLD.png",
             url: "https://ic2.sslstream.com/wjld-fm"
