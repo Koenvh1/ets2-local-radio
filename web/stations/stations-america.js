@@ -19250,8 +19250,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1261/hls.m3u8"
         },
         {
-            name: "106.7 The River",
-            logo: "stations/images-america/c2c/springfield_mo/106.7 The River.png",
+            name: "Santa 106.7",
+            logo: "stations/images-america/c2c/springfield_mo/106.7 The River_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRVIFMAAC_SC"
         },
         {
