@@ -24750,6 +24750,11 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "Christmas 92.1 @ 102.7",
+            logo: "stations/images-america/c2c/scranton_pa/ALT 92.1_christmas.png",
+            url: "https://ais-sa1.streamon.fm/7248_48k.aac"
+        },
+        {
             name: "WILK 103.1",
             logo: "stations/images-america/c2c/scranton_pa/WILK 103.1.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WILKAMAAC_SC"
