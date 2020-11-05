@@ -21438,8 +21438,8 @@ var stations_c2c = {
             url: "http://ice5.securenetsystems.net/WSKS"
         },
         {
-            name: "98.3 The Fox",
-            logo: "stations/images-america/c2c/utica_ny/98.3 The Fox.png",
+            name: "El Zorro 98.3",
+            logo: "stations/images-america/c2c/utica_ny/El Zorro 98.3.png",
             url: "https://s2.radio.co/se796ec348/listen"
         },
         {
