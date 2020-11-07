@@ -198,7 +198,7 @@ var stations = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/Magic 99.5.png",
+            logo: "stations/images-america/albuquerque/Magic 99.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC_SC"
         },
         {
@@ -3859,7 +3859,7 @@ var stations = {
         },
         {
             name: "99.9 KEZ",
-            logo: "stations/images-america/phoenix/99.9 KEZ.png",
+            logo: "stations/images-america/phoenix/99.9 KEZ_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8"
         },
         {
