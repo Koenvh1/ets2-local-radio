@@ -626,17 +626,17 @@ var stations = {
     "czech": [
         {
             name: "ČRo Radiožurnál",
-            logo: "stations/images-europe/czech/ČRo Radiožurnál.svg",
+            logo: "stations/images-europe/czech/ČRo Radiožurnál.png",
             url: "http://amp.cesnet.cz:8000/cro1-256.ogg"
         },
         {
             name: "ČRo Dvojka",
-            logo: "stations/images-europe/czech/ČRo Dvojka.svg",
+            logo: "stations/images-europe/czech/ČRo Dvojka.png",
             url: "http://amp.cesnet.cz:8000/cro2-256.ogg"
         },
         {
             name: "ČRo Vltava",
-            logo: "stations/images-europe/czech/ČRo Vltava.svg",
+            logo: "stations/images-europe/czech/ČRo Vltava.png",
             url: "http://amp.cesnet.cz:8000/cro3-256.ogg"
         },
         {
@@ -647,25 +647,25 @@ var stations = {
         {
             name: "Evropa 2",
             logo: "stations/images-europe/czech/Evropa 2.png",
-            url: "https://20043.live.streamtheworld.com/EVROPA2AAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC_SC"
         },
         {
-            name: "Fajn Radio",
+            name: "Fajn Rádio",
             logo: "stations/images-europe/czech/Fajn Radio.png",
             url: "http://ice.abradio.cz/fajn128.mp3"
         },
         {
             name: "Frekvence 1",
             logo: "stations/images-europe/czech/Frekvence 1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC_SC"
         },
         {
-            name: "Impuls Ráááádio",
-            logo: "stations/images-europe/czech/Impuls Ráááádio.png",
+            name: "Rádio Impuls",
+            logo: "stations/images-europe/czech/Rádio Impuls.png",
             url: "http://icecast1.play.cz:80/impuls128.mp3"
         },
         {
-            name: "Kiss",
+            name: "Radio Kiss",
             logo: "stations/images-europe/czech/Kiss.png",
             url: "http://icecast4.play.cz/kiss128.mp3"
         },
