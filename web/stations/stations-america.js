@@ -4914,6 +4914,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
         },
         {
+            name: "FM 100.3 Christmas 100.3-HD3",
+            logo: "stations/images-america/salt_lake/FM 100.3_christmas.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
+        },
+        {
             name: "Rewind 100.7",
             logo: "stations/images-america/salt_lake/Rewind 100.7.png",
             url: "https://ais-sa1.streamon.fm/7164_48k.aac"
@@ -16999,7 +17004,7 @@ var stations_c2c = {
         },
         {
             name: "100.3 WNIC",
-            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC.png",
+            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1153/hls.m3u8"
         },
         {
