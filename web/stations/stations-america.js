@@ -2090,7 +2090,129 @@ var stations = {
             logo: "stations/images-america/g_canyon_vlg/KUGO 102.5.png",
             url: "http://stream.affordablestreaming.com:8000/KUGO-1.mp3"
         },
-    ],
+    ],/*
+    "grand_junction": [
+        {
+            name: "KAFM 88.1",
+            logo: "stations/images-america/grand_junction/KAFM 88.1.png",
+            url: "http://peridot.streamguys.com:5280/kafm"
+        },
+        {
+            name: "CPR News 89.5",
+            logo: "stations/images-america/0_general_logos/CPR.png",
+            url: "http://stream2.cprnetwork.org:8000/cpr1_aac"
+        },
+        {
+            name: "KMSA 91.3",
+            logo: "stations/images-america/grand_junction/KMSA 91.3.png",
+            url: "http://s2.radio.co/sd29f62972/listen"
+        },
+        {
+            name: "92.3 The Moose",
+            logo: "stations/images-america/grand_junction/92.3 The Moose.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMOZFMAAC_SC"
+        },
+        {
+            name: "92.7 KNZZ",
+            logo: "stations/images-america/grand_junction/92.7 KNZZ.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
+        },
+        {
+            name: "Magic 93.1",
+            logo: "stations/images-america/grand_junction/Magic 93.1.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMGJFMAAC_SC"
+        },
+        {
+            name: "94.3 The Beat",
+            logo: "stations/images-america/grand_junction/94.3 The Beat.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_BEATAAC_SC"
+        },
+        {
+            name: "95 Rock",
+            logo: "stations/images-america/grand_junction/95 Rock.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kknnfmaac-ibc3"
+        },
+        {
+            name: "95.7 The Monkey",
+            logo: "stations/images-america/grand_junction/95.7 The Monkey.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTHD2_SC"
+        },
+        {
+            name: "96.1 KSTR",
+            logo: "stations/images-america/montrose/96.1 KSTR.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSTRFMAAC_SC"
+        },
+        {
+            name: "97.7 Jack FM",
+            logo: "stations/images-america/grand_junction/97.7 Jack FM.png",
+            url: "https://ais-sa1.streamon.fm/7060_24k.aac"
+        },
+        {
+            name: "99.9 KEKB",
+            logo: "stations/images-america/grand_junction/99.9 KEKB.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kekbfmaac-ibc3"
+        },
+        {
+            name: "KWSI-LP 100.3",
+            logo: "stations/images-america/grand_junction/KWSI-LP 100.3.png",
+            url: "https://stream.kwsi.org:8001/stream.ogg"
+        },
+        {
+            name: "The Vault 100.7",
+            logo: "stations/images-america/grand_junction/The Vault 100.7.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTFMAAC_SC"
+        },
+        {
+            name: "101.1 The Team",
+            logo: "stations/images-america/grand_junction/101.1 The Team.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KTMMAMAAC_SC"
+        },
+        {
+            name: "101.5 The Junkyard",
+            logo: "stations/images-america/grand_junction/101.5 The Junkyard.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_JUNKYARDAAC_SC"
+        },
+        {
+            name: "CPR Classical 103.3",
+            logo: "stations/images-america/0_general_logos/CPR Classical.png",
+            url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
+        },
+        {
+            name: "103.9 The Planet",
+            logo: "stations/images-america/grand_junction/103.9 The Planet.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTHD3AAC_SC"
+        },
+        {
+            name: "Mix 104.3",
+            logo: "stations/images-america/grand_junction/Mix 104.3.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kmxyfmaac-ibc3"
+        },
+        {
+            name: "X106.9",
+            logo: "stations/images-america/grand_junction/X106.9.png",
+            url: "http://www.rockkmzk.com:9304/;"
+        },
+        {
+            name: "107.3 The Outlaw",
+            logo: "stations/images-america/grand_junction/107.3 The Outlaw.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_OUTLAWAAC_SC"
+        },
+        {
+            name: "KOOL 107.9",
+            logo: "stations/images-america/grand_junction/KOOL 107.9.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kbklfmaac-ibc3"
+        },
+        {
+            name: "KUBC Gold 580",
+            logo: "stations/images-america/grand_junction/KUBC Gold 580.png",
+            url: "https://live.wostreaming.net/direct/cherrycreek-kubcamaac-ibc4"
+        },
+        {
+            name: "1230 ESPN",
+            logo: "stations/images-america/grand_junction/1230 ESPN.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kexoamaac-ibc3"
+        },
+    ],*/
     "gallup": [
         {
             name: "KANW 88.1",
@@ -2721,7 +2843,39 @@ var stations = {
             logo: "stations/images-america/lakeview/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
-    ],
+    ],/*
+    "lamar": [
+        {
+            name: "The Light 89.3",
+            logo: "stations/images-america/0_general_logos/The Light.png",
+            url: "https://stream.ktlf.radio/radio/8000/theLight"
+        },
+        {
+            name: "HPPR 90.7",
+            logo: "stations/images-america/0_general_logos/HPPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
+        },
+        {
+            name: "KJIL 91.9",
+            logo: "stations/images-america/lamar/KJIL 91.9.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "The Heat 93.5",
+            logo: "stations/images-america/lamar/The Heat 93.5.png",
+            url: "https://www.streamvortex.com:8444/s/11570"
+        },
+        {
+            name: "KVAY 105.7",
+            logo: "stations/images-america/lamar/KVAY 105.7.png",
+            url: "https://live.wostreaming.net/manifest/beacon-kvayfmaac-ibc4"
+        },
+        {
+            name: "KOA 850",
+            logo: "stations/images-america/denver/KOA 94.1.png",
+            url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
+        },
+    ],*/
     "las_cruces": [
         {
             name: "Star 88",
@@ -3627,7 +3781,7 @@ var stations = {
         },
         {
             name: "92.3 The Moose @ 102.1",
-            logo: "stations/images-america/c2c/grand_junction_co/92.3 The Moose.png",
+            logo: "stations/images-america/grand_junction/92.3 The Moose.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMOZFMAAC_SC"
         },
         {
@@ -9709,7 +9863,7 @@ var stations_c2c = {
     "grand_junction": [
         {
             name: "KAFM 88.1",
-            logo: "stations/images-america/c2c/grand_junction_co/KAFM 88.1.png",
+            logo: "stations/images-america/grand_junction/KAFM 88.1.png",
             url: "http://peridot.streamguys.com:5280/kafm"
         },
         {
@@ -9719,72 +9873,72 @@ var stations_c2c = {
         },
         {
             name: "KMSA 91.3",
-            logo: "stations/images-america/c2c/grand_junction_co/KMSA 91.3.png",
+            logo: "stations/images-america/grand_junction/KMSA 91.3.png",
             url: "http://s2.radio.co/sd29f62972/listen"
         },
         {
             name: "92.3 The Moose",
-            logo: "stations/images-america/c2c/grand_junction_co/92.3 The Moose.png",
+            logo: "stations/images-america/grand_junction/92.3 The Moose.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMOZFMAAC_SC"
         },
         {
             name: "92.7 KNZZ",
-            logo: "stations/images-america/c2c/grand_junction_co/92.7 KNZZ.png",
+            logo: "stations/images-america/grand_junction/92.7 KNZZ.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
         },
         {
             name: "Magic 93.1",
-            logo: "stations/images-america/c2c/grand_junction_co/Magic 93.1.png",
+            logo: "stations/images-america/grand_junction/Magic 93.1.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMGJFMAAC_SC"
         },
         {
             name: "94.3 The Beat",
-            logo: "stations/images-america/c2c/grand_junction_co/94.3 The Beat.png",
+            logo: "stations/images-america/grand_junction/94.3 The Beat.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_BEATAAC_SC"
         },
         {
             name: "95 Rock",
-            logo: "stations/images-america/c2c/grand_junction_co/95 Rock.png",
+            logo: "stations/images-america/grand_junction/95 Rock.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kknnfmaac-ibc3"
         },
         {
             name: "95.7 The Monkey",
-            logo: "stations/images-america/c2c/grand_junction_co/95.7 The Monkey.png",
+            logo: "stations/images-america/grand_junction/95.7 The Monkey.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTHD2_SC"
         },
         {
             name: "96.1 KSTR",
-            logo: "stations/images-america/c2c/grand_junction_co/96.1 KSTR.png",
+            logo: "stations/images-america/grand_junction/96.1 KSTR.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSTRFMAAC_SC"
         },
         {
             name: "97.7 Jack FM",
-            logo: "stations/images-america/c2c/grand_junction_co/97.7 Jack FM.png",
+            logo: "stations/images-america/grand_junction/97.7 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7060_24k.aac"
         },
         {
             name: "99.9 KEKB",
-            logo: "stations/images-america/c2c/grand_junction_co/99.9 KEKB.png",
+            logo: "stations/images-america/grand_junction/99.9 KEKB.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kekbfmaac-ibc3"
         },
         {
             name: "KWSI-LP 100.3",
-            logo: "stations/images-america/c2c/grand_junction_co/KWSI-LP 100.3.png",
+            logo: "stations/images-america/grand_junction/KWSI-LP 100.3.png",
             url: "https://stream.kwsi.org:8001/stream.ogg"
         },
         {
             name: "The Vault 100.7",
-            logo: "stations/images-america/c2c/grand_junction_co/The Vault 100.7.png",
+            logo: "stations/images-america/grand_junction/The Vault 100.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTFMAAC_SC"
         },
         {
             name: "101.1 The Team",
-            logo: "stations/images-america/c2c/grand_junction_co/101.1 The Team.png",
+            logo: "stations/images-america/grand_junction/101.1 The Team.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KTMMAMAAC_SC"
         },
         {
             name: "101.5 The Junkyard",
-            logo: "stations/images-america/c2c/grand_junction_co/101.5 The Junkyard.png",
+            logo: "stations/images-america/grand_junction/101.5 The Junkyard.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_JUNKYARDAAC_SC"
         },
         {
@@ -9794,37 +9948,37 @@ var stations_c2c = {
         },
         {
             name: "103.9 The Planet",
-            logo: "stations/images-america/c2c/grand_junction_co/103.9 The Planet.png",
+            logo: "stations/images-america/grand_junction/103.9 The Planet.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTHD3AAC_SC"
         },
         {
             name: "Mix 104.3",
-            logo: "stations/images-america/c2c/grand_junction_co/Mix 104.3.png",
+            logo: "stations/images-america/grand_junction/Mix 104.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmxyfmaac-ibc3"
         },
         {
             name: "X106.9",
-            logo: "stations/images-america/c2c/grand_junction_co/X106.9.png",
+            logo: "stations/images-america/grand_junction/X106.9.png",
             url: "http://www.rockkmzk.com:9304/;"
         },
         {
             name: "107.3 The Outlaw",
-            logo: "stations/images-america/c2c/grand_junction_co/107.3 The Outlaw.png",
+            logo: "stations/images-america/grand_junction/107.3 The Outlaw.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_OUTLAWAAC_SC"
         },
         {
             name: "KOOL 107.9",
-            logo: "stations/images-america/c2c/grand_junction_co/KOOL 107.9.png",
+            logo: "stations/images-america/grand_junction/KOOL 107.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbklfmaac-ibc3"
         },
         {
             name: "KUBC Gold 580",
-            logo: "stations/images-america/c2c/grand_junction_co/KUBC Gold 580.png",
+            logo: "stations/images-america/grand_junction/KUBC Gold 580.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-kubcamaac-ibc4"
         },
         {
             name: "ESPN Radio 1230",
-            logo: "stations/images-america/c2c/grand_junction_co/ESPN Radio 1230.png",
+            logo: "stations/images-america/grand_junction/ESPN Radio 1230.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kexoamaac-ibc3"
         },
     ],
