@@ -1844,7 +1844,99 @@ var stations = {
             logo: "stations/images-america/flagstaff/780 KAZM.png",
             url: "https://ice9.securenetsystems.net/KAZM"
         },
-    ],
+    ],/*
+    "fort_collins": [
+        {
+            name: "CPR Classical 88.3",
+            logo: "stations/images-america/0_general_logos/CPR Classical.png",
+            url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
+        },
+        {
+            name: "KRFC 88.9",
+            logo: "stations/images-america/fort_collins/KRFC 88.9.png",
+            url: "https://live.krfcfm.org/radio/8000/live"
+        },
+        {
+            name: "90.5 KCSU",
+            logo: "stations/images-america/fort_collins/90.5 KCSU.png",
+            url: "http://129.82.220.62:8000/;"
+        },
+        {
+            name: "KUNC 91.5",
+            logo: "stations/images-america/fort_collins/KUNC 91.5.png",
+            url: "https://kunc.streamguys1.com/kunc"
+        },
+        {
+            name: "Altitude Sports Radio 92.5",
+            logo: "stations/images-america/denver/Altitude Sports Radio 92.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEFMAAC_SC"
+        },
+        {
+            name: "94.3 The X",
+            logo: "stations/images-america/fort_collins/94.3 THE X.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kmaxfmaac-ibc3"
+        },
+        {
+            name: "Radio 94.9",
+            logo: "stations/images-america/fort_collins/Radio 94.9.png",
+            url: "https://stream.revma.ihrhls.com/zc6134/hls.m3u8"
+        },
+        {
+            name: "96.1 KISS FM",
+            logo: "stations/images-america/fort_collins/96.1 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc417/hls.m3u8"
+        },
+        {
+            name: "98.3 KRKY",
+            logo: "stations/images-america/fort_collins/98.3 KRKY.png",
+            url: "https://ice9.securenetsystems.net/KRKYFM"
+        },
+        {
+            name: "New Country 99.1",
+            logo: "stations/images-america/fort_collins/New Country 99.1.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kuadfmaac-ibc3"
+        },
+        {
+            name: "La Jota Mexicana 101.3",
+            logo: "stations/images-america/fort_collins/La Jota Mexicana 101.3.png",
+            url: "http://199.217.118.97:9988/;"
+        },
+        {
+            name: "Retro 102.5",
+            logo: "stations/images-america/fort_collins/Retro 102.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ktrrfmaac-ibc3"
+        },
+        {
+            name: "Power 102.9",
+            logo: "stations/images-america/fort_collins/Power 102.9.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-karsfmaac-ibc3"
+        },
+        {
+            name: "Jump 104.5",
+            logo: "stations/images-america/fort_collins/Jump 104.5.png",
+            url: "https://stream.radiojar.com/cqf7xwkb3mruv"
+        },
+        {
+            name: "105.5 The Colorado Sound",
+            logo: "stations/images-america/fort_collins/105.5 The Colorado Sound.png",
+            url: "https://kunc.streamguys1.com/kjac"
+        },
+        {
+            name: "107.9 KBPI",
+            logo: "stations/images-america/denver/107.9 KBPI.png",
+            url: "https://stream.revma.ihrhls.com/zc373/hls.m3u8"
+        },
+        {
+            name: "600 KCOL",
+            logo: "stations/images-america/fort_collins/600 KCOL.png",
+            url: "https://stream.revma.ihrhls.com/zc401/hls.m3u8"
+        },
+        {
+            name: "KIIX 1410",
+            logo: "stations/images-america/fort_collins/KIIX 1410.png",
+            url: "https://stream.revma.ihrhls.com/zc405/hls.m3u8"
+        },
+    ],*/
     "fresno": [
         {
             name: "KFCF 88.1",
@@ -9478,62 +9570,62 @@ var stations_c2c = {
         },
         {
             name: "KRFC 88.9",
-            logo: "stations/images-america/c2c/fort_collins_co/KRFC 88.9.png",
+            logo: "stations/images-america/fort_collins/KRFC 88.9.png",
             url: "https://live.krfcfm.org/radio/8000/live"
         },
         {
             name: "90.5 KCSU",
-            logo: "stations/images-america/c2c/fort_collins_co/90.5 KCSU.png",
+            logo: "stations/images-america/fort_collins/90.5 KCSU.png",
             url: "http://129.82.220.62:8000/;"
         },
         {
             name: "KUNC 91.5",
-            logo: "stations/images-america/c2c/fort_collins_co/KUNC 91.5.png",
+            logo: "stations/images-america/fort_collins/KUNC 91.5.png",
             url: "https://kunc.streamguys1.com/kunc"
         },
         {
             name: "94.3 The X",
-            logo: "stations/images-america/c2c/fort_collins_co/94.3 THE X.png",
+            logo: "stations/images-america/fort_collins/94.3 THE X.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmaxfmaac-ibc3"
         },
         {
             name: "Radio 94.9",
-            logo: "stations/images-america/c2c/fort_collins_co/Radio 94.9.png",
+            logo: "stations/images-america/fort_collins/Radio 94.9.png",
             url: "https://stream.revma.ihrhls.com/zc6134/hls.m3u8"
         },
         {
             name: "96.1 KISS FM",
-            logo: "stations/images-america/c2c/fort_collins_co/96.1 KISS FM.png",
+            logo: "stations/images-america/fort_collins/96.1 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc417/hls.m3u8"
         },
         {
             name: "98.3 KRKY",
-            logo: "stations/images-america/c2c/fort_collins_co/98.3 KRKY.png",
+            logo: "stations/images-america/fort_collins/98.3 KRKY.png",
             url: "https://ice9.securenetsystems.net/KRKYFM"
         },
         {
             name: "New Country 99.1",
-            logo: "stations/images-america/c2c/fort_collins_co/New Country 99.1.png",
+            logo: "stations/images-america/fort_collins/New Country 99.1.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kuadfmaac-ibc3"
         },
         {
             name: "Retro 102.5",
-            logo: "stations/images-america/c2c/fort_collins_co/Retro 102.5.png",
+            logo: "stations/images-america/fort_collins/Retro 102.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ktrrfmaac-ibc3"
         },
         {
             name: "Power 102.9",
-            logo: "stations/images-america/c2c/fort_collins_co/Power 102.9.png",
+            logo: "stations/images-america/fort_collins/Power 102.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-karsfmaac-ibc3"
         },
         {
             name: "Jump 104.5",
-            logo: "stations/images-america/c2c/fort_collins_co/Jump 104.5.png",
+            logo: "stations/images-america/fort_collins/Jump 104.5.png",
             url: "https://stream.radiojar.com/cqf7xwkb3mruv"
         },
         {
             name: "105.5 The Colorado Sound",
-            logo: "stations/images-america/c2c/fort_collins_co/105.5 The Colorado Sound.png",
+            logo: "stations/images-america/fort_collins/105.5 The Colorado Sound.png",
             url: "https://kunc.streamguys1.com/kjac"
         },
         {
@@ -9543,12 +9635,12 @@ var stations_c2c = {
         },
         {
             name: "600 KCOL",
-            logo: "stations/images-america/c2c/fort_collins_co/600 KCOL.png",
+            logo: "stations/images-america/fort_collins/600 KCOL.png",
             url: "https://stream.revma.ihrhls.com/zc401/hls.m3u8"
         },
         {
             name: "KIIX 1410",
-            logo: "stations/images-america/c2c/fort_collins_co/KIIX 1410.png",
+            logo: "stations/images-america/fort_collins/KIIX 1410.png",
             url: "https://stream.revma.ihrhls.com/zc405/hls.m3u8"
         },
     ],
