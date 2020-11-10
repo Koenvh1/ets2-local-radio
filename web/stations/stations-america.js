@@ -2656,8 +2656,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
         },
         {
-            name: "106.1 More FM",
-            logo: "stations/images-america/kennewick/106.1 More FM.png",
+            name: "Santa 106.1",
+            logo: "stations/images-america/kennewick/106.1 More FM_christmas.png",
             url: "https://ice9.securenetsystems.net/KALE"
         },
         {
