@@ -7320,19 +7320,19 @@ var stations_mexico = {
      "gomez_p": [
         {
             name: "La Lupe - XHGZ-FM - FM 99.5",
-            logo: "stations/images-america/mexicoreforma/durango/lupe99.png",
+            logo: "stations/images-america/mexico/durango/lupe99.png",
             url: "https://radio.urbansa.com/station6"
         },
         {
             name: "Vida Romántica - XHVK",
-            logo: "stations/images-america/mexicoreforma/durango/romantica.png",
+            logo: "stations/images-america/mexico/durango/romantica.png",
             url: "http://stream2.dyndns.org:8000/xhvk.mp3/;"
         },      
     ],
     "santiagopap": [
         {
             name: "La Tremenda Santiago - XESRD",
-            logo: "stations/images-america/mexicoreforma/durango/shared/tremenda.png",
+            logo: "stations/images-america/mexico/shared/tremenda.png",
             url: "http://170.80.242.11:8040/Santiago"
         },      
     ],
