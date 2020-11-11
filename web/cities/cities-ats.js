@@ -2030,6 +2030,18 @@ var country_properties_mexico = {
         code: "mx-dur",
         relative_radius: 0.5
     },
+    "mexicali": {
+        name: "Mexicali",
+        name_english: "Mexicali",
+        code: "mx-bcn",
+        relative_radius: 0.9
+    },
+    "tijuana": {
+        name: "Tijuana",
+        name_english: "Tijuana",
+        code: "mx-bcn",
+        relative_radius: 0.8
+    },
 };
  
 var city_properties_mexico = {
@@ -2043,6 +2055,12 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "santiagopap": {
+        relative_whitenoise: 0.95
+    },
+    "tijuana": {
+        relative_whitenoise: 0.95
+    },
+    "mexicali": {
         relative_whitenoise: 0.95
     },
 };
@@ -2072,13 +2090,29 @@ var cities_mexico = [
       "y": "82.9336",
       "z": "75478.9"
     },
-{
+	{
       "gameName": "santiagopap",
       "realName": "Stgo. Papasquiaro",
       "country": "durango",
       "x": "-49233.5",
       "y": "55.8047",
       "z": "77940.5"
+    },
+    {
+        "gameName": "tijuana",
+        "realName": "Tijuana",
+        "country": "bajacalifo",
+        "x": "-99184.2",
+        "y": "49.7773",
+        "z": "26196.8"
+    },
+    {
+        "gameName": "mexicali",
+        "realName": "Mexicali",
+        "country": "bajacalifo",
+        "x": "-90883.1",
+        "y": "50.1211",
+        "z": "29113.3"
     },
 ];
 

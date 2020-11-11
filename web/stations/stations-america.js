@@ -7673,6 +7673,125 @@ var stations_mexico = {
             url: "http://170.80.242.11:8040/Santiago"
         },      
     ],
+    "mexicali": [
+        {
+            name: "Radio Sonora 88.5",
+            logo: "stations/images-america/mexico/mexicali/Radio Sonora 88.5.png",
+            url: "http://s2.radiosonorense.com:2150/stream.mp3"
+        },
+        {
+            name: "Súper 89.9",
+            logo: "stations/images-america/mexico/mexicali/Súper 89.9.png",
+            url: "http://s1.audiorama.mx:6590/;"
+        },
+        {
+            name: "Los 40 90.7",
+            logo: "stations/images-america/0_general_logos/Los 40.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC"
+        },
+        {
+            name: "Exa FM 91.5",
+            logo: "stations/images-america/mexico/mexicali/Exa FM 91.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC_SC"
+        },
+        {
+            name: "La Bestia Grupera 92.3",
+            logo: "stations/images-america/mexico/mexicali/La Bestia Grupera 92.3.png",
+            url: "http://s1.audiorama.mx:6592/;"
+        },
+        {
+            name: "La Poderosa 96.9",
+            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
+            url: "http://stream2.dyndns.org:8000/xhmug.mp3"
+        },
+        {
+            name: "Power 98",
+            logo: "stations/images-america/mexico/mexicali/Power 98.png",
+            url: "http://s4.mexside.net:2126/;"
+        },
+        {
+            name: "FM Globo 101.9",
+            logo: "stations/images-america/mexico/mexicali/FM Globo 101.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC_SC"
+        },
+        {
+            name: "La Mejor 103.3",
+            logo: "stations/images-america/mexico/mexicali/La Mejor 103.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFMAAC_SC"
+        },
+        {
+            name: "UABC Radio 104.1",
+            logo: "stations/images-america/mexico/mexicali/UABC Radio 104.1.png",
+            url: "http://148.231.3.56/mxl"
+        },
+        {
+            name: "104.9 @FM",
+            logo: "stations/images-america/mexico/mexicali/104.9 @FM.png",
+            url: "http://stream2.dyndns.org:8000/xhmc.mp3"
+        },
+        {
+            name: "Imagen 105.5",
+            logo: "stations/images-america/mexico/mexicali/Imagen 105.5.png",
+            url: "http://mexicali.radio.wnsol.com:8340/;"
+        },
+        {
+            name: "La Dinámica 105.9",
+            logo: "stations/images-america/mexico/mexicali/La Dinámica 105.9.png",
+            url: "http://stream2.dyndns.org:8000/xhsu.mp3"
+        },
+        {
+            name: "More FM 106.7",
+            logo: "stations/images-america/mexico/mexicali/More FM 106.7.png",
+            url: "http://us10a.serverse.com:8183/stream"
+        },
+    ],
+    "tijuana": [
+        {
+            name: "Exa FM 91.7",
+            logo: "stations/images-america/mexico/tijuana/Exa FM 91.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC_SC"
+        },
+        {
+            name: "Invasora 94.5",
+            logo: "stations/images-america/mexico/tijuana/Invasora 94.5.png",
+            url: "http://166.88.21.98:9736/;"
+        },
+        {
+            name: "La Caliente 95.3",
+            logo: "stations/images-america/mexico/tijuana/La Caliente 95.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LACALIENTEAAC_SC"
+        },
+        {
+            name: "More FM 98.9",
+            logo: "stations/images-america/mexico/tijuana/More FM 98.9.png",
+            url: "http://radio.cadenanoticias.com:8004/morefm989"
+        },
+        {
+            name: "FM Globo 99.3",
+            logo: "stations/images-america/mexico/tijuana/FM Globo 99.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC_SC"
+        },
+        {
+            name: "Fusión 102.5",
+            logo: "stations/images-america/mexico/tijuana/Fusión 102.5.png",
+            url: "https://s2.mexside.net:7026/;"
+        },
+        {
+            name: "104.5 Radio Latina",
+            logo: "stations/images-america/mexico/tijuana/104.5 Radio Latina.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC_SC"
+        },
+        {
+            name: "Pulsar 107.3",
+            logo: "stations/images-america/mexico/tijuana/Pulsar 107.3.png",
+            url: "http://streamingcwsradio30.com:8042/stream/;"
+        },
+        {
+            name: "Los 40 107.7",
+            logo: "stations/images-america/0_general_logos/Los 40.png",
+            url: "http://s1.audiorama.mx:6600/;"
+        },
+    ],
 };
 
 
