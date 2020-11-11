@@ -724,6 +724,26 @@ var stations = {
             logo: "stations/images-america/0_general_logos/The Light.png",
             url: "https://stream.ktlf.radio/radio/8000/theLight"
         },
+        {
+            name: "Hot Country 97.9",
+            logo: "stations/images-america/c2c/colby_ks/Hot Country 97.9.png",
+            url: "https://ice23.securenetsystems.net/KWGB"
+        },
+        {
+            name: "URock 102.5",
+            logo: "stations/images-america/c2c/colby_ks/URock 102.5.png",
+            url: "https://ice42.securenetsystems.net/KKCI"
+        },
+        {
+            name: "KLOE 730",
+            logo: "stations/images-america/c2c/colby_ks/KLOE 730.png",
+            url: "https://ice42.securenetsystems.net/KLOE"
+        },
+        {
+            name: "KXXX 790",
+            logo: "stations/images-america/c2c/colby_ks/KXXX 790.png",
+            url: "https://ice42.securenetsystems.net/KXXX"
+        },
     ],*/
     "burns": [
         {
