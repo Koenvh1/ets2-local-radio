@@ -2012,7 +2012,7 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.5
     },
-    "yecora": {
+    "agua_prieta": {
         name: "Agua Prieta",
         name_english: "Agua Prieta",
         code: "mx-son",
