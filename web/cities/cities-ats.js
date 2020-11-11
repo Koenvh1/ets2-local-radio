@@ -2012,6 +2012,12 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.5
     },
+    "yecora": {
+        name: "Agua Prieta",
+        name_english: "Agua Prieta",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
     "vdurango": {
         name: "Durango",
         name_english: "Durango",
@@ -2036,6 +2042,9 @@ var city_properties_mexico = {
     "yecora": {
         relative_whitenoise: 0.95
     },
+    "agua_prieta": {
+        relative_whitenoise: 0.95
+    },
     "vdurango": {
         relative_whitenoise: 0.95
     },
@@ -2055,6 +2064,14 @@ var cities_mexico = [
       "x": "-65075.4",
       "y": "238.879",
       "z": "57626.5"
+    },
+{
+      "gameName": "agua_prieta",
+      "realName": "Agua Prieta",
+      "country": "sonora",
+      "x": "-66289.2",
+      "y": "110.359",
+      "z": "39137.9"
     },
 {
       "gameName": "vdurango",

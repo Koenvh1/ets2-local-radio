@@ -7273,6 +7273,23 @@ var stations_mexico = {
             url: "http://s1.radiosonorense.com:2150/stream"
         },
     ],
+    "agua_prieta": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "La Ranchera 97.3",
+            logo: "stations/images-america/mexico/sonora/ranchera.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "La Tremenda 98.5 FM",
+            logo: "stations/images-america/mexico/sonora/tremenda.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+    ],
     "vdurango": [
         {
             name: "EXA Durango 101.3",
