@@ -7282,12 +7282,12 @@ var stations_mexico = {
         {
             name: "La Ranchera 97.3",
             logo: "stations/images-america/mexico/sonora/ranchera.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "http://zer.zuperdns.net:9730/stream/;"
         },
         {
             name: "La Tremenda 98.5 FM",
             logo: "stations/images-america/mexico/sonora/tremenda.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "http://zer.zuperdns.net:9855/stream/;"
         },
     ],
     "vdurango": [
