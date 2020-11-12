@@ -7290,6 +7290,18 @@ var stations_mexico = {
             url: "http://zer.zuperdns.net:9855/stream/;"
         },
     ],
+    "caborca": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "Max101 FM",
+            logo: "stations/images-america/mexico/sonora/max.png",
+            url: "http://198.204.234.10:8412/stream"
+        },
+    ],
     "vdurango": [
         {
             name: "EXA Durango 101.3",

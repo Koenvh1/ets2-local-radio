@@ -2018,6 +2018,12 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.5
     },
+    "caborca": {
+        name: "Caborca",
+        name_english: "Caborca",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
     "vdurango": {
         name: "Durango",
         name_english: "Durango",
@@ -2043,6 +2049,9 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "agua_prieta": {
+        relative_whitenoise: 0.95
+    },
+    "caborca": {
         relative_whitenoise: 0.95
     },
     "vdurango": {
@@ -2072,6 +2081,14 @@ var cities_mexico = [
       "x": "-66289.2",
       "y": "110.359",
       "z": "39137.9"
+    },
+ {
+      "gameName": "caborca",
+      "realName": "Caborca",
+      "country": "sonora",
+      "x": "-79152.9",
+      "y": "95.625",
+      "z": "40151.9"
     },
 {
       "gameName": "vdurango",
