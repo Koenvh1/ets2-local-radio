@@ -7317,6 +7317,23 @@ var stations_mexico = {
             url: "http://198.204.234.10:8545/live"
         },
     ],
+    "cananea": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "La FQ 103.1 FM",
+            logo: "stations/images-america/mexico/sonora/fq.png",
+            url: "https://s2.mexside.net/8056/stream"
+        },
+        {
+            name: "Toño 104.7 FM",
+            logo: "stations/images-america/mexico/sonora/tono.png",
+            url: "https://node-14.zeno.fm/m6fh3hq1dzzuv?1605225281=&rj-tok=AAABdb7rMKIA6L64FkzJ53P47A&rj-ttl=5"
+        },
+    ],
     "vdurango": [
         {
             name: "EXA Durango 101.3",

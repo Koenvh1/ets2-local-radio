@@ -2024,6 +2024,12 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.6
     },
+    "cananea": {
+        name: "Cananea",
+        name_english: "Cananea",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
     "vdurango": {
         name: "Durango",
         name_english: "Durango",
@@ -2054,6 +2060,9 @@ var city_properties_mexico = {
     "caborca": {
         relative_whitenoise: 0.95
     },
+    "cananea": {
+        relative_whitenoise: 0.95
+    },
     "vdurango": {
         relative_whitenoise: 0.95
     },
@@ -2082,13 +2091,21 @@ var cities_mexico = [
       "y": "110.359",
       "z": "39137.9"
     },
- {
+{
       "gameName": "caborca",
       "realName": "Caborca",
       "country": "sonora",
       "x": "-79152.9",
       "y": "95.625",
       "z": "40151.9"
+    },    
+{
+      "gameName": "cananea",
+      "realName": "Cananea",
+      "country": "sonora",
+      "x": "-69907",
+      "y": "88.5703",
+      "z": "40315.2"
     },
 {
       "gameName": "vdurango",
