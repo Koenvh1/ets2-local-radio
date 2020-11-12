@@ -7301,6 +7301,21 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sonora/max.png",
             url: "http://198.204.234.10:8412/stream"
         },
+        {
+            name: "La Que Manda 89.9 FM",
+            logo: "stations/images-america/mexico/sonora/manda.png",
+            url: "http://s1.vvtelecom.net:8000/rvisac"
+        },
+        {
+            name: "La Gran Zeta 90.7",
+            logo: "stations/images-america/mexico/sonora/z.png",
+            url: "http://198.204.234.10:8544/live"
+        },
+        {
+            name: "La UK 95.3 FM",
+            logo: "stations/images-america/mexico/sonora/uk.png",
+            url: "http://198.204.234.10:8545/live"
+        },
     ],
     "vdurango": [
         {
