@@ -2029,6 +2029,12 @@ var country_properties_mexico = {
         name_english: "Cananea",
         code: "mx-son",
         relative_radius: 0.5
+    },   
+    "cd_obregon": {
+        name: "Ciudad Obregón",
+        name_english: "Ciudad Obregón",
+        code: "mx-son",
+        relative_radius: 0.8
     },
     "vdurango": {
         name: "Durango",
@@ -2061,6 +2067,9 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "cananea": {
+        relative_whitenoise: 0.95
+    },
+    "cd_obregon": {
         relative_whitenoise: 0.95
     },
     "vdurango": {
@@ -2106,6 +2115,14 @@ var cities_mexico = [
       "x": "-69907",
       "y": "88.5703",
       "z": "40315.2"
+    },
+{
+      "gameName": "cd_obregon",
+      "realName": "CD. Obregon",
+      "country": "sonora",
+      "x": "-70636.1",
+      "y": "50.0313",
+      "z": "61058.9"
     },
 {
       "gameName": "vdurango",

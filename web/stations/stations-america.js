@@ -7334,6 +7334,38 @@ var stations_mexico = {
             url: "https://node-14.zeno.fm/m6fh3hq1dzzuv?1605225281=&rj-tok=AAABdb7rMKIA6L64FkzJ53P47A&rj-ttl=5"
         },
     ],
+    "cd_obregon": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "La Invasora 90.5",
+            logo: "stations/images-america/mexico/sonora/inv.png",
+            url: "https://streamingcwsradio30.com:7029/stream"
+        },
+        {
+            name: "La Poderosa 100.9 FM",
+            logo: "stations/images-america/mexico/sonora/pod.png",
+            url: "https://secure.radiorama.mx:2137/"
+        },
+        {
+            name: "La Zeta 98.5 FM",
+            logo: "stations/images-america/mexico/sonora/zeta.png",
+            url: "https://streamingcwsradio30.com:7030/stream?type=http&nocache=1"
+        },
+        {
+            name: "La Mía 101.7 FM",
+            logo: "stations/images-america/mexico/sonora/mia.png",
+            url: "https://streamingcwsradio30.com:7057/;"
+        },
+        {
+            name: "Exa FM",
+            logo: "stations/images-america/mexico/sonora/exa.png",
+            url: "https://streamingcwsradio30.com:7056/;"
+        },
+    ],
     "vdurango": [
         {
             name: "EXA Durango 101.3",
