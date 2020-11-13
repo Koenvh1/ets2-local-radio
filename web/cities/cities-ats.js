@@ -113,11 +113,11 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
-    "colorado_spr": {
-        name: "Colorado Springs",
-        name_english: "Colorado Springs",
+    "colorado_springs_pueblo": {
+        name: "Colorado Springs / Pueblo",
+        name_english: "Colorado Springs / Pueblo",
         code: "us-co",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "colville": {
         name: "Colville",
@@ -473,12 +473,6 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 1.2
     },
-    "pueblo": {
-        name: "Pueblo",
-        name_english: "Pueblo",
-        code: "us-co",
-        relative_radius: 0.7
-    },
     "rangely": {
         name: "Rangely",
         name_english: "Rangely",
@@ -785,7 +779,7 @@ var city_properties = {
     "clovis": {
         relative_whitenoise: 0.90
     },
-    "colorado_spr": {
+    "colorado_springs_pueblo": {
         relative_whitenoise: 0.80
     },
     "colville": {
@@ -952,9 +946,6 @@ var city_properties = {
     },
     "price": {
         relative_whitenoise: 0.95
-    },
-    "pueblo": {
-        relative_whitenoise: 0.90
     },
     "rangely": {
         relative_whitenoise: 0.90
@@ -1926,12 +1917,12 @@ var cities = [
         "z": "-2904.98"
     },
     {
-        "gameName": "colorado_spr",
-        "realName": "Colorado Springs",
+        "gameName": "colorado_springs_pueblo",
+        "realName": "Colorado Springs / Pueblo",
         "country": "colorado",
-        "x": "-37948.9",
-        "y": "170",
-        "z": "-1454.87"
+        "x": "-37543",
+        "y": "97.4214",
+        "z": "528.353"
     },
     {
         "gameName": "denver",
@@ -1988,14 +1979,6 @@ var cities = [
         "x": "-44653.8",
         "y": "132.538",
         "z": "127.839"
-    },
-    {
-        "gameName": "pueblo",
-        "realName": "Pueblo",
-        "country": "colorado",
-        "x": "-38860",
-        "y": "140.316",
-        "z": "2038.84"
     },
     {
         "gameName": "rangely",
