@@ -6463,6 +6463,11 @@ var stations = {
             url: "http://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
+            name: "LIFT Radio 105.3-HD2",
+            logo: "stations/images-america/seattle/LIFT Radio 105.3-HD2.png",
+            url: "https://crista-lift.streamguys1.com/liftmp3"
+        },
+        {
             name: "HITS 106.1",
             logo: "stations/images-america/seattle/HITS 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
