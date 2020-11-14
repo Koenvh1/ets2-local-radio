@@ -147,6 +147,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
         },
         {
+            name: "KANW 89.1-HD2",
+            logo: "stations/images-america/albuquerque/KANW 89.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2_SC"
+        },
+        {
             name: "KUNM 89.9",
             logo: "stations/images-america/albuquerque/KUNM 89.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
@@ -1184,6 +1189,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc421/hls.m3u8"
         },
         {
+            name: "iHeartRadio Countdown 107.9-HD2",
+            logo: "stations/images-america/colorado_springs_pueblo/iHeartRadio Countdown 107.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6455/hls.m3u8"
+        },
+        {
             name: "590 KCSJ",
             logo: "stations/images-america/colorado_springs_pueblo/590 KCSJ.png",
             url: "https://stream.revma.ihrhls.com/zc4814/hls.m3u8"
@@ -1497,6 +1507,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7784/hls.m3u8"
         },
         {
+            name: "The Breeze 106.7-HD2",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
             name: "HOT 107.1",
             logo: "stations/images-america/denver/HOT 107.1.png",
             url: "https://live.wostreaming.net/manifest/maxmedia-kfcofmaac-ibc1"
@@ -1601,7 +1616,7 @@ var stations = {
         },
         {
             name: "FM 100.3",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            logo: "stations/images-america/salt_lake/FM 100.3_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -5070,7 +5085,7 @@ var stations = {
         },
         {
             name: "FM 100.3 @ 105.5",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            logo: "stations/images-america/salt_lake/FM 100.3_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -5641,7 +5656,7 @@ var stations = {
         },
         {
             name: "FM 100.3 @ 103.1",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            logo: "stations/images-america/salt_lake/FM 100.3_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -5760,7 +5775,7 @@ var stations = {
         },
         {
             name: "FM 100.3",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            logo: "stations/images-america/salt_lake/FM 100.3_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -5769,8 +5784,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
         },
         {
-            name: "FM 100.3 Christmas 100.3-HD3",
-            logo: "stations/images-america/salt_lake/FM 100.3_christmas.png",
+            name: "FM 100.3-HD3",
+            logo: "stations/images-america/salt_lake/FM 100.3.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
         },
         {
@@ -18422,7 +18437,7 @@ var stations_c2c = {
         },
         {
             name: "102.5 KEZK",
-            logo: "stations/images-america/c2c/stlouis_mo/102.5 KEZK.png",
+            logo: "stations/images-america/c2c/stlouis_mo/102.5 KEZK_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KEZKFMAAC_SC"
         },
         {
@@ -19533,7 +19548,7 @@ var stations_c2c = {
         },
         {
             name: "The Wolf 93.3",
-            logo: "stations/images-america/c2c/omaha_ne/The Wolf 93.3.png",
+            logo: "stations/images-america/c2c/omaha_ne/The Wolf 93.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc4101/hls.m3u8"
         },
         {
