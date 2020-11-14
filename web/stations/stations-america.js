@@ -7401,6 +7401,48 @@ var stations_mexico = {
             url: "https://streamingcwsradio30.com:7059/;"
         },
     ],
+    "guaymas": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "Toño 103.7",
+            logo: "stations/images-america/mexico/sonora/tono1.png",
+            url: "http://www.omegaingenieria.com:8034/;"
+        },
+        {
+            name: "Digital 99 1/2 FM",
+            logo: "stations/images-america/mexico/sonora/digital.png",
+            url: "http://51.38.74.200:8440/stream/;"
+        },
+        {
+            name: "Amor 101 FM",
+            logo: "stations/images-america/mexico/sonora/amor.png",
+            url: "http://167.114.116.223:4474/;"
+        },
+        {
+            name: "Sonora Grupera 100.5",
+            logo: "stations/images-america/mexico/sonora/sonoragrupera.png",
+            url: "https://www.sonoragrupera.com/envivo"
+        },
+        {
+            name: "La Que Manda 90.1 FM",
+            logo: "stations/images-america/mexico/sonora/manda1.png",
+            url: "http://s1.vvtelecom.net:8000/rvisag"
+        },
+        {
+            name: "Red 93.3",
+            logo: "stations/images-america/mexico/sonora/red.png",
+            url: "https://rcast.live/stream/65051.mp3"
+        },
+        {
+            name: "La Super Grupera",
+            logo: "stations/images-america/mexico/sonora/sgrupera.png",
+            url: "http://51.38.74.200:8438/;stream.mp3"
+        },
+    ],
     "vdurango": [
         {
             name: "EXA Durango 101.3",

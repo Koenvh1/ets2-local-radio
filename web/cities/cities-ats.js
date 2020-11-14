@@ -2036,6 +2036,12 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.8
     },
+    "guaymas": {
+        name: "Guaymas",
+        name_english: "Guaymas",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
     "vdurango": {
         name: "Durango",
         name_english: "Durango",
@@ -2070,6 +2076,9 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "cd_obregon": {
+        relative_whitenoise: 0.95
+    },
+    "guaymas": {
         relative_whitenoise: 0.95
     },
     "vdurango": {
@@ -2123,6 +2132,14 @@ var cities_mexico = [
       "x": "-70636.1",
       "y": "50.0313",
       "z": "61058.9"
+    },
+{
+      "gameName": "guaymas",
+      "realName": "Guaymas",
+      "country": "sonora",
+      "x": "-75161.3",
+      "y": "57.918",
+      "z": "56623.3"
     },
 {
       "gameName": "vdurango",
