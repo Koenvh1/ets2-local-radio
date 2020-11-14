@@ -7304,12 +7304,12 @@ var stations = {
             name: "KOOL 96.5",
             logo: "stations/images-america/twin_falls/KOOL 96.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klixfmaac-ibc3"
-        },
+        },/*
         {
             name: "Balanced Rock 97.5",
             logo: "stations/images-america/twin_falls/Balanced Rock 97.5.png",
             url: "https://ice9.securenetsystems.net/KXTAAM"
-        },
+        },*/
         {
             name: "98.3 The Snake",
             logo: "stations/images-america/twin_falls/98.3 The Snake.png",
