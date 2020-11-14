@@ -103,22 +103,27 @@ var stations = {
             name: "Radio Bilingue 89.1",
             logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
-        },
+        },/*
         {
             name: "KALQ 93.5",
             logo: "stations/images-america/alamosa/KALQ 93.5.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice9.securenetsystems.net/KALQFM"
-        },
+            url: "https://ice9.securenetsystems.net/KALQFM"
+        },*/
         {
             name: "KYDN 95.3",
             logo: "stations/images-america/alamosa/KYDN 95.3.png",
             url: "https://ice5.securenetsystems.net/KYDN"
         },
         {
+            name: "96.5 The Fox",
+            logo: "stations/images-america/alamosa/96.5 The Fox.png",
+            url: "https://ice24.securenetsystems.net/KSLV"
+        },/*
+        {
             name: "KZBR 97.1",
             logo: "stations/images-america/alamosa/KZBR 97.1.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice9.securenetsystems.net/KZBRFM"
-        },
+            url: "https://ice9.securenetsystems.net/KZBRFM"
+        },*/
         {
             name: "KSPK 100.3",
             logo: "stations/images-america/alamosa/KSPK 100.3.png",
@@ -128,12 +133,12 @@ var stations = {
             name: "The Light 102.7",
             logo: "stations/images-america/0_general_logos/The Light.png",
             url: "https://stream.ktlf.radio/radio/8000/theLight"
-        },
+        },/*
         {
             name: "KGIW 1450",
             logo: "stations/images-america/alamosa/KGIW 1450.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice9.securenetsystems.net/KGIWAM"
-        },
+            url: "https://ice9.securenetsystems.net/KGIWAM"
+        },*/
     ],
     "albuquerque": [
         {
@@ -1065,7 +1070,7 @@ var stations = {
         },
         {
             name: "Jazz 93.5",
-            logo: "stations/images-america/colorado_springs_pueblo/Jazz 93.5.png",
+            logo: "stations/images-america/colorado_springs_pueblo/JAZZ 93.5.png",
             url: "https://ice10.securenetsystems.net/KCME2"
         },
         {
