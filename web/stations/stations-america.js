@@ -7365,6 +7365,41 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sonora/exa.png",
             url: "https://streamingcwsradio30.com:7056/;"
         },
+        {
+            name: "Romántica 96.9 FM",
+            logo: "stations/images-america/mexico/sonora/roman.png",
+            url: "https://sonic.globalstream.pro:10967/stream.mp3"
+        },
+        {
+            name: "Ke Buena 92.1 FM",
+            logo: "stations/images-america/mexico/sonora/roman.png",
+            url: "https://sonic.globalstream.pro:10966/stream.mp3"
+        },
+        {
+            name: "Grupera 92.9 FM",
+            logo: "stations/images-america/mexico/sonora/grupera.png",
+            url: "http://www.tuasesorweb.com:8024/;"
+        },
+        {
+            name: "Máxima 97.7 FM",
+            logo: "stations/images-america/mexico/sonora/max1.png",
+            url: "http://www.omegaingenieria.com:8034/;"
+        },
+        {
+            name: "Oreja - FM 102.5",
+            logo: "stations/images-america/mexico/sonora/oreja.png",
+            url: "https://server3.sit-mexico.com/proxy/madre?mp=/stream"
+        },
+        {
+            name: "La Mejor 103.3 FM",
+            logo: "stations/images-america/mexico/sonora/mejor.png",
+            url: "https://streamingcwsradio30.com:7058/;"
+        },
+        {
+            name: "La Uni-K 105.7 FM",
+            logo: "stations/images-america/mexico/sonora/unik.png",
+            url: "https://streamingcwsradio30.com:7059/;"
+        },
     ],
     "vdurango": [
         {
