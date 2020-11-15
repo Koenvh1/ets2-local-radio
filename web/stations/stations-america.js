@@ -1064,11 +1064,6 @@ var stations = {
             url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
         },
         {
-            name: "KRDO 92.5",
-            logo: "stations/images-america/colorado_springs_pueblo/KRDO 105.5.png",
-            url: "https://ice6.securenetsystems.net/KRDO"
-        },
-        {
             name: "92.9 Peak FM",
             logo: "stations/images-america/colorado_springs_pueblo/92.9 Peak FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKPKFMAAC_SC"
