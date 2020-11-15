@@ -1459,7 +1459,7 @@ var stations = {
         {
             name: "KOSI 101.1",
             logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
-            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
         },
         {
             name: "Jammin' 101.5",
