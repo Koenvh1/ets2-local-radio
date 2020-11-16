@@ -2032,7 +2032,7 @@ var country_properties_mexico = {
     },   
     "cd_obregon": {
         name: "Ciudad Obregón",
-        name_english: "Ciudad Obregón",
+        name_english: "Ciudad Obregon",
         code: "mx-son",
         relative_radius: 0.8
     },
@@ -2042,6 +2042,12 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.6
     },
+    "hermosillo": {
+        name: "Hermosillo",
+        name_english: "Hermosillo",
+        code: "mx-son",
+        relative_radius: 0.8
+    },
     "vdurango": {
         name: "Durango",
         name_english: "Durango",
@@ -2050,7 +2056,7 @@ var country_properties_mexico = {
     },
     "gomez_p": {
         name: "Gómez Palacio",
-        name_english: "Gómez Palacio",
+        name_english: "Gomez Palacio",
         code: "mx-dur",
         relative_radius: 0.6
     },
@@ -2079,6 +2085,9 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "guaymas": {
+        relative_whitenoise: 0.95
+    },
+    "hermosillo": {
         relative_whitenoise: 0.95
     },
     "vdurango": {
@@ -2140,6 +2149,14 @@ var cities_mexico = [
       "x": "-75161.3",
       "y": "57.918",
       "z": "56623.3"
+    },
+{
+      "gameName": "hermosillo",
+      "realName": "Hermosillo",
+      "country": "sonora",
+      "x": "-74603.3",
+      "y": "49.9297",
+      "z": "50492.1"
     },
 {
       "gameName": "vdurango",
