@@ -7454,6 +7454,26 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sonora/lamejor.png",
             url: "https://22213.live.streamtheworld.com/XHBH_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBACsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNTU2ODYwMSwiaXNzIjoidGlzcnYifQ.pyrdGymPNidd2hu8r4i_SBcjdVTwf_VesqldQFTSYRo"
         },
+        {
+            name: "La Voz del Pitic",
+            logo: "stations/images-america/mexico/sonora/pitic.png",
+            url: "https://freeuk2.listen2myradio.com/live.mp3?typeportmount=s1_7243_stream_119421822"
+        },
+        {
+            name: "Los 40 88.9 FM",
+            logo: "stations/images-america/mexico/sonora/40.png",
+            url: "http://167.114.219.240:6562/stream.mp3"
+        },
+        {
+            name: "Activa 89.7",
+            logo: "stations/images-america/mexico/sonora/activa.png",
+            url: "http://www.tuasesorweb.com:8032/;"
+        },
+        {
+            name: "La Kaliente",
+            logo: "stations/images-america/mexico/sonora/kaliente.png",
+            url: "https://14543.live.streamtheworld.com/XHHLLAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=ee66fb7b-5a64-4faf-b52a-e0d7491f837d"
+        },
     ],
     "vdurango": [
         {
