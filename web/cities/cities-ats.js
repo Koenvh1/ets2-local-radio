@@ -2028,7 +2028,7 @@ var country_properties_mexico = {
         name: "Cananea",
         name_english: "Cananea",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },   
     "cd_obregon": {
         name: "Ciudad Obregón",
@@ -2083,6 +2083,12 @@ var country_properties_mexico = {
         name_english: "Sonoyta",
         code: "mx-son",
         relative_radius: 0.5
+    },
+    "sanluisrc": {
+        name: "San Luis Río Colorado",
+        name_english: "San Luis Río Colorado",
+        code: "mx-son",
+        relative_radius: 0.6
     },
     "vdurango": {
         name: "Durango",
@@ -2142,6 +2148,9 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "sonoyta": {
+        relative_whitenoise: 0.95
+    },
+    "sanluisrc": {
         relative_whitenoise: 0.95
     },
     "vdurango": {
@@ -2259,6 +2268,14 @@ var cities_mexico = [
       "x": "-81177.1",
       "y": "95.7148",
       "z": "32482.3"
+    },
+{
+      "gameName": "sanluisrc",
+      "realName": "San Luis Rio Colorado",
+      "country": "sonora",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
     },
 {
       "gameName": "vdurango",
