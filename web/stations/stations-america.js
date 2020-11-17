@@ -7499,6 +7499,67 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sonora/h.png",
             url: "https://n01.radiojar.com/yh8s50nx87zuv?rj-ttl=5&rj-tok=AAABddhFd-wAutW6MX8x_FSchw"
         },
+        {
+            name: "97.1 FM",
+            logo: "stations/images-america/mexico/sonora/97.png",
+            url: "http://198.50.156.92:8559/;stream/1"
+        },
+        {
+            name: "La Mejor 98.5",
+            logo: "stations/images-america/mexico/sonora/mejorh.png",
+            url: "https://22213.live.streamtheworld.com/XHBH_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBACsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNTY1MTI3NSwiaXNzIjoidGlzcnYifQ.DHW3JC_DK723JqjMGEwmRBTTAxTe8sCUaQI7C4UEDOc"
+        },
+        {
+            name: "Stereo 100.3",
+            logo: "stations/images-america/mexico/sonora/stereo.png",
+            url: "https://streamingcwsradio30.com:7026/stream?type=http&nocache=1"
+        },
+        
+        {
+            name: "Match 99.5",
+            logo: "stations/images-america/mexico/sonora/match.png",
+            url: "https://14923.live.streamtheworld.com/XHFEMFM_SC"
+        },
+        {
+            name: "Ke Buena 101.1",
+            logo: "stations/images-america/mexico/sonora/kebuenah.png",
+            url: "https://sonic.globalstream.pro:10972/stream.mp3?ver=346973"
+        },
+        {
+            name: "La Invasora 101.9 FM",
+            logo: "stations/images-america/mexico/sonora/inv1.png",
+            url: "https://streamingcwsradio30.com:7028/stream"
+        },
+        {
+            name: "La Comadre 102.7",
+            logo: "stations/images-america/mexico/sonora/comadre.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDMAAC.aac"
+        },
+        {
+            name: "Lobos 103.5 FM",
+            logo: "stations/images-america/mexico/sonora/lobos.png",
+            url: "http://streamingcwsradio20.com:9422/;stream.mp3"
+        },
+        {
+            name: "Política y Rock'n'roll Radio",
+            logo: "stations/images-america/mexico/sonora/politica.png",
+            url: "https://freeus3.listen2myradio.com/live.mp3?typeportmount=s1_18015_stream_210175516"
+        },
+        {
+            name: "Sonika 105.1",
+            logo: "stations/images-america/mexico/sonora/sonika.png",
+            url: "http://www.tuasesorweb.com:8058/;"
+        },
+        {
+            name: "Toño 105.9",
+            logo: "stations/images-america/mexico/sonora/tonoh.png",
+            url: "https://node-25.zeno.fm/9wtwpgp1dzzuv?1605653590=&rj-tok=AAABddhzO8kAl0Aahs6L3ZLWew&rj-ttl=5"
+        },
+        {
+            name: "Radio Universidad",
+            logo: "stations/images-america/mexico/sonora/uni.png",
+            url: "http://148.225.54.10/broadwavehigh.mp3?src=1"
+        },
     ],
     "vdurango": [
         {
