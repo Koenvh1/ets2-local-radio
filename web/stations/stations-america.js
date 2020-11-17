@@ -7474,6 +7474,31 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sonora/kaliente.png",
             url: "https://14543.live.streamtheworld.com/XHHLLAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=ee66fb7b-5a64-4faf-b52a-e0d7491f837d"
         },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/shared/formula.png",
+            url: "http://144.217.15.135:8000/stream/6/;?type=http&nocache=1"
+        },
+        {
+            name: "Amor 92.3 FM",
+            logo: "stations/images-america/mexico/shared/formula.png",
+            url: "https://18543.live.streamtheworld.com/XHUSSFM.mp3"
+        },
+        {
+            name: "LA ZETA 93.9",
+            logo: "stations/images-america/mexico/sonora/zh.png",
+            url: "https://streamingcwsradio30.com:7027/stream?type=http&nocache=1"
+        },
+        {
+            name: "Zoom 95",
+            logo: "stations/images-america/mexico/sonora/zoom.png",
+            url: "http://167.114.64.181:8486/;?1605650268612"
+        },
+        {
+            name: "El Heraldo Radio",
+            logo: "stations/images-america/mexico/sonora/h.png",
+            url: "https://n01.radiojar.com/yh8s50nx87zuv?rj-ttl=5&rj-tok=AAABddhFd-wAutW6MX8x_FSchw"
+        },
     ],
     "vdurango": [
         {
