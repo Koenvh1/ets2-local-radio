@@ -2048,6 +2048,42 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.8
     },
+    "h_nogales": {
+        name: "Heroica Nogales",
+        name_english: "Heroica Nogales",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "moctezuma": {
+        name: "Moctezuma",
+        name_english: "Moctezuma",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
+    "navojoa": {
+        name: "Navojoa",
+        name_english: "Navojoa",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
+    "puerto_pena": {
+        name: "Puerto Peñasco",
+        name_english: "Puerto Penasco",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
+    "santa_ana": {
+        name: "Santa Ana",
+        name_english: "Santa Ana",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
+    "sonoyta": {
+        name: "Sonoyta",
+        name_english: "Sonoyta",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
     "vdurango": {
         name: "Durango",
         name_english: "Durango",
@@ -2088,6 +2124,24 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "hermosillo": {
+        relative_whitenoise: 0.95
+    },
+    "h_nogales": {
+        relative_whitenoise: 0.95
+    },
+    "moctezuma": {
+        relative_whitenoise: 0.95
+    },
+    "navojoa": {
+        relative_whitenoise: 0.95
+    },
+    "puerto_pena": {
+        relative_whitenoise: 0.95
+    },
+    "santa_ana": {
+        relative_whitenoise: 0.95
+    },
+    "sonoyta": {
         relative_whitenoise: 0.95
     },
     "vdurango": {
@@ -2157,6 +2211,54 @@ var cities_mexico = [
       "x": "-74603.3",
       "y": "49.9297",
       "z": "50492.1"
+    },
+{
+      "gameName": "h_nogales",
+      "realName": "H. Nogales",
+      "country": "sonora",
+      "x": "-73256.1",
+      "y": "108.121",
+      "z": "37728.7"
+    },
+{
+      "gameName": "moctezuma",
+      "realName": "Moctezuma",
+      "country": "sonora",
+      "x": "-67626.8",
+      "y": "57.832",
+      "z": "47166.7"
+    },
+{
+      "gameName": "navojoa",
+      "realName": "Navojoa",
+      "country": "sonora",
+      "x": "-68552.6",
+      "y": "50.0195",
+      "z": "64116.6"
+    },
+{
+      "gameName": "puerto_pena",
+      "realName": "Puerto Penasco",
+      "country": "sonora",
+      "x": "-84643.3",
+      "y": "78.4609",
+      "z": "34661.3"
+    },
+{
+      "gameName": "santa_ana",
+      "realName": "Santa Ana",
+      "country": "sonora",
+      "x": "-74493.6",
+      "y": "95.625",
+      "z": "41979.7"
+    },
+{
+      "gameName": "sonoyta",
+      "realName": "Sonoyta",
+      "country": "sonora",
+      "x": "-81177.1",
+      "y": "95.7148",
+      "z": "32482.3"
     },
 {
       "gameName": "vdurango",
