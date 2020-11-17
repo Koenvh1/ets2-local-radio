@@ -6870,6 +6870,14 @@ var cities_pm250 = [
         "z": "196.84"
     },
     {
+        "gameName": "chisinau",
+        "realName": "Chişinău",
+        "country": "moldova",
+        "x": "70134.7",
+        "y": "120",
+        "z": "16235.3"
+    },
+    {
         "gameName": "ciudadreal",
         "realName": "Ciudad Real",
         "country": "spain",
