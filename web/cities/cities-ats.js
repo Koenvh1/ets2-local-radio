@@ -2046,7 +2046,7 @@ var country_properties_mexico = {
         name: "Hermosillo",
         name_english: "Hermosillo",
         code: "mx-son",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "h_nogales": {
         name: "Heroica Nogales",
@@ -2094,13 +2094,13 @@ var country_properties_mexico = {
         name: "Durango",
         name_english: "Durango",
         code: "mx-dur",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "gomez_p": {
         name: "Gómez Palacio",
         name_english: "Gomez Palacio",
         code: "mx-dur",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "santiagopap": {
         name: "Santiago Papasquiaro",
