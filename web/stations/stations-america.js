@@ -22382,7 +22382,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7305/hls.m3u8"
         },
         {
-            name: "105.7 The Brew",
+            name: "Columbus Alternative 105.7",
             logo: "stations/images-america/c2c/columbus_oh/105.7 The Brew.png",
             url: "https://stream.revma.ihrhls.com/zc2946/hls.m3u8"
         },
@@ -25889,6 +25889,11 @@ var stations_c2c = {
             name: "93.3 Austin",
             logo: "stations/images-america/c2c/austin_tx/93.3 Austin.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
+        },
+        {
+            name: "No Control Radio 93.3-HD3",
+            logo: "stations/images-america/c2c/austin_tx/No Control Radio 93.3-HD3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3AAC_SC"
         },
         {
             name: "93.7 KLBJ",
