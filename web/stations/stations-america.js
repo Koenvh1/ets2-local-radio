@@ -13547,17 +13547,17 @@ var stations_c2c = {
         {
             name: "Radio Kansas 90.9",
             logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://hd1.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
         },
         {
             name: "NewGrass Valley 90.9-HD2",
             logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://hd2.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
         },
         {
             name: "The Breeze 90.9-HD3",
             logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://hd3.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
         },
         {
             name: "My 93.1",
@@ -13599,17 +13599,17 @@ var stations_c2c = {
         {
             name: "Radio Kansas 90.9",
             logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://hd1.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
         },
         {
             name: "NewGrass Valley 90.9-HD2",
             logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://hd2.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
         },
         {
             name: "The Breeze 90.9-HD3",
             logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://hd3.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
         },
         {
             name: "HPPR 91.7",
@@ -13708,17 +13708,17 @@ var stations_c2c = {
         {
             name: "Radio Kansas 89.5",
             logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://hd1.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
         },
         {
             name: "NewGrass Valley 89.5-HD2",
             logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://hd2.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
         },
         {
             name: "The Breeze 89.5-HD3",
             logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://hd3.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
         },
         {
             name: "92.7 The Zoo",
@@ -13852,17 +13852,17 @@ var stations_c2c = {
         {
             name: "Radio Kansas 90.1",
             logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://hd1.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
         },
         {
             name: "NewGrass Valley 90.1-HD2",
             logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://hd2.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
         },
         {
             name: "The Breeze 90.1-HD3",
             logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://hd3.radiokansas.net/"
+            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
         },
         {
             name: "KGSO 93.9",
