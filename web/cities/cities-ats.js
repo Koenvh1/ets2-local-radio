@@ -2086,7 +2086,7 @@ var country_properties_mexico = {
     },
     "sanluisrc": {
         name: "San Luis Río Colorado",
-        name_english: "San Luis Río Colorado",
+        name_english: "San Luis Rio Colorado",
         code: "mx-son",
         relative_radius: 0.6
     },
@@ -2136,6 +2136,24 @@ var country_properties_mexico = {
         name: "Guamúchil",
         name_english: "Guamuchil",
         code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "parral": {
+        name: "Parral",
+        name_english: "Parral",
+        code: "mx-chh",
+        relative_radius: 0.8
+    },
+    "jimenez": {
+        name: "Jimenez",
+        name_english: "Jimenez",
+        code: "mx-chh",
+        relative_radius: 0.8
+    },
+    "guachoch": {
+        name: "Guachochi",
+        name_english: "Guachochi",
+        code: "mx-chh",
         relative_radius: 0.6
     },
 };
@@ -2205,6 +2223,15 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "guamuchil": {
+        relative_whitenoise: 0.95
+    },
+    "parral": {
+        relative_whitenoise: 0.95
+    },
+    "jimenez": {
+        relative_whitenoise: 0.95
+    },
+    "guachoch": {
         relative_whitenoise: 0.95
     },
 };
@@ -2385,6 +2412,30 @@ var cities_mexico = [
         "x": "-62492.3",
         "y": "49.9297",
         "z": "74015.6"
+    },
+{
+      "gameName": "parral",
+      "realName": "Parral",
+      "country": "chihuah",
+      "x": "-49800.4",
+      "y": "110",
+      "z": "66558.9"
+    },
+{
+      "gameName": "jimenez",
+      "realName": "Jimenez",
+      "country": "chihuah",
+      "x": "-45481.6",
+      "y": "50.6445",
+      "z": "65762.4"
+    },
+{
+      "gameName": "guachoch",
+      "realName": "Guachochi",
+      "country": "chihuah",
+      "x": "-57713.7",
+      "y": "381.328",
+      "z": "66510.7"
     },
 ];
 
