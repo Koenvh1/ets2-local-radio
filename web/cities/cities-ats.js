@@ -2016,7 +2016,7 @@ var country_properties_mexico = {
         name: "Agua Prieta",
         name_english: "Agua Prieta",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "caborca": {
         name: "Caborca",
@@ -2058,31 +2058,31 @@ var country_properties_mexico = {
         name: "Moctezuma",
         name_english: "Moctezuma",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "navojoa": {
         name: "Navojoa",
         name_english: "Navojoa",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "puerto_pena": {
         name: "Puerto Peñasco",
         name_english: "Puerto Penasco",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "santa_ana": {
         name: "Santa Ana",
         name_english: "Santa Ana",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "sonoyta": {
         name: "Sonoyta",
         name_english: "Sonoyta",
         code: "mx-son",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "sanluisrc": {
         name: "San Luis Río Colorado",
@@ -2106,7 +2106,37 @@ var country_properties_mexico = {
         name: "Santiago Papasquiaro",
         name_english: "Santiago Papasquiaro",
         code: "mx-dur",
-        relative_radius: 0.5
+        relative_radius: 0.8
+    },
+    "guasave": {
+        name: "Guasave",
+        name_english: "Guasave",
+        code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "los_mochis": {
+        name: "Los Mochis",
+        name_english: "Los Mochis",
+        code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "mazatlan": {
+        name: "Mazatlán",
+        name_english: "Mazatlan",
+        code: "mx-sin",
+        relative_radius: 0.8
+    },
+    "culiacan": {
+        name: "Culiacán",
+        name_english: "Culiacan",
+        code: "mx-sin",
+        relative_radius: 1.0
+    },
+    "guamuchil": {
+        name: "Guamúchil",
+        name_english: "Guamuchil",
+        code: "mx-sin",
+        relative_radius: 0.6
     },
 };
  
@@ -2160,6 +2190,21 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "santiagopap": {
+        relative_whitenoise: 0.95
+    },
+    "guasave": {
+        relative_whitenoise: 0.95
+    },
+    "los_mochis": {
+        relative_whitenoise: 0.95
+    },
+    "mazatlan": {
+        relative_whitenoise: 0.95
+    },
+    "culiacan": {
+        relative_whitenoise: 0.95
+    },
+    "guamuchil": {
         relative_whitenoise: 0.95
     },
 };
@@ -2300,6 +2345,46 @@ var cities_mexico = [
       "x": "-49233.5",
       "y": "55.8047",
       "z": "77940.5"
+    },
+{
+      "gameName": "guasave",
+      "realName": "Guasave",
+      "country": "sinaloa",
+      "x": "-64504.9",
+      "y": "52.6367",
+      "z": "72909.2"
+    },
+{
+      "gameName": "los_mochis",
+      "realName": "Los Mochis",
+      "country": "sinaloa",
+      "x": "-67160.2",
+      "y": "82.9336",
+      "z": "71272.9"
+    },
+{
+      "gameName": "mazatlan",
+      "realName": "Mazatlan",
+      "country": "sinaloa",
+      "x": "-54732.3",
+      "y": "52.3203",
+      "z": "87832.3"
+    },
+{
+        "gameName": "culiacan",
+        "realName": "Culiacan",
+        "country": "sinaloa",
+        "x": "-59247.3",
+        "y": "31.6797",
+        "z": "78285.8"
+    },
+{
+        "gameName": "guamuchil",
+        "realName": "Guamuchil",
+        "country": "sinaloa",
+        "x": "-62492.3",
+        "y": "49.9297",
+        "z": "74015.6"
     },
 ];
 
