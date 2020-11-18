@@ -7316,6 +7316,11 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sonora/uk.png",
             url: "http://198.204.234.10:8545/live"
         },
+        {
+            name: "Radio Universidad",
+            logo: "stations/images-america/mexico/sonora/uni.png",
+            url: "http://148.225.54.10/broadwavehigh.mp3?src=1"
+        },
     ],
     "cananea": [
         {
@@ -7426,6 +7431,11 @@ var stations_mexico = {
             name: "Sonora Grupera 100.5",
             logo: "stations/images-america/mexico/sonora/sonoragrupera.png",
             url: "https://www.sonoragrupera.com/envivo"
+        },
+        {
+            name: "Pop Extremo",
+            logo: "stations/images-america/mexico/sonora/pop.png",
+            url: "https://www.popextremo.com/envivo"
         },
         {
             name: "La Que Manda 90.1 FM",
@@ -7559,6 +7569,53 @@ var stations_mexico = {
             name: "Radio Universidad",
             logo: "stations/images-america/mexico/sonora/uni.png",
             url: "http://148.225.54.10/broadwavehigh.mp3?src=1"
+        },
+    ],
+    "navojoa": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "Radio Universidad",
+            logo: "stations/images-america/mexico/sonora/uni.png",
+            url: "http://148.225.54.10/broadwavehigh.mp3?src=1"
+        },
+        {
+            name: "Sonora Grupera",
+            logo: "stations/images-america/mexico/sonora/sonoragrupera1.png",
+            url: "https://www.sonoragrupera.com/envivo"
+        },
+        {
+            name: "Pop Extremo",
+            logo: "stations/images-america/mexico/sonora/pop.png",
+            url: "https://www.popextremo.com/envivo"
+        },
+        {
+            name: "Toño 95.5",
+            logo: "stations/images-america/mexico/sonora/tonon.png",
+            url: "https://node-34.zeno.fm/ecg5ucq1dzzuv?1605739571=&rj-tok=AAABdd2fpFUAsEoZQkAx_sMEUA&rj-ttl=5"
+        },
+        {
+            name: "La Nuestra",
+            logo: "stations/images-america/mexico/sonora/nuestra.png",
+            url: "https://s5.mexside.net:8018/stream"
+        },
+        {
+            name: "Z88.9FM",
+            logo: "stations/images-america/mexico/sonora/zn.png",
+            url: "https://streamingcwsradio30.com:7032/stream?type=http&nocache=1"
+        },
+        {
+            name: "KE 104.5 FM",
+            logo: "stations/images-america/mexico/sonora/ke.png",
+            url: "https://streamingcwsradio30.com:7031/stream?type=http&nocache=1"
+        },
+        {
+            name: "La Invasora 90.5",
+            logo: "stations/images-america/mexico/sonora/invasoran.png",
+            url: "https://streamingcwsradio30.com:7029/stream?type=http&nocache=1"
         },
     ],
     "vdurango": [
