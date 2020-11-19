@@ -16194,8 +16194,8 @@ var stations_c2c = {
             url: "https://5e70c16b9ab38.streamlock.net:9443/live/881fm.stream_aac/playlist.m3u8"
         },
         {
-            name: "89X",
-            logo: "stations/images-america/c2c/detroit_mi/89X.png",
+            name: "Pure Country 89",
+            logo: "stations/images-america/c2c/detroit_mi/Pure Country 89.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/CIMXFMAAC_SC"
         },
         {
@@ -16229,8 +16229,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRQHD2AAC_SC"
         },
         {
-            name: "93.9 The River",
-            logo: "stations/images-america/c2c/detroit_mi/93.9 The River.png",
+            name: "Virgin Radio 93.9",
+            logo: "stations/images-america/c2c/detroit_mi/Virgin Radio 93.9.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/CIDRFMAAC_SC"
         },
         {
@@ -16289,8 +16289,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6755/hls.m3u8"
         },
         {
-            name: "98.7 The Breeze",
-            logo: "stations/images-america/c2c/detroit_mi/98.7 The Breeze_christmas.png",
+            name: "ALT 98.7",
+            logo: "stations/images-america/c2c/detroit_mi/ALT 98.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WDZHFMAAC_SC"
         },
         {
@@ -16342,6 +16342,11 @@ var stations_c2c = {
             name: "101 WRIF",
             logo: "stations/images-america/c2c/detroit_mi/101 WRIF.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAACIHR_SC"
+        },
+        {
+            name: "Dave & Chuck 24-7 101.1-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Dave & Chuck 24-7 101.1-HD2.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRIFHD2AAC_SC"
         },
         {
             name: "101.5 The Patriot",
@@ -23854,8 +23859,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7193/hls.m3u8"
         },
         {
-            name: "100.3 WRNB",
-            logo: "stations/images-america/c2c/philadelphia_pa/100.3 WRNB.png",
+            name: "100.3 RNB",
+            logo: "stations/images-america/c2c/philadelphia_pa/100.3 RNB.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRNBFMAAC_SC"
         },
         {
@@ -28082,9 +28087,14 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2481/hls.m3u8"
         },
         {
-            name: "ALT 96 @ 96.3-HD2",
-            logo: "stations/images-america/c2c/roanoke_va/ALT 96.png",
+            name: "BIN 96.7",
+            logo: "stations/images-america/c2c/roanoke_va/BIN 96.7.png",
             url: "https://stream.revma.ihrhls.com/zc5321/hls.m3u8"
+        },
+        {
+            name: "ALT 96",
+            logo: "stations/images-america/c2c/roanoke_va/ALT 96.png",
+            url: "https://stream.revma.ihrhls.com/zc8773/hls.m3u8"
         },
         {
             name: "ESPN 99.5",
