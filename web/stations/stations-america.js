@@ -8166,7 +8166,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 96.9",
-            logo: "stations/images-america/c2c/huntsville_al/Mix 96.9.png",
+            logo: "stations/images-america/c2c/huntsville_al/Mix 96.9_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://ice24.securenetsystems.net/WRSA"
         },
         {
