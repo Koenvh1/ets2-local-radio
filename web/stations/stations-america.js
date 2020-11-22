@@ -7471,7 +7471,7 @@ var stations_mexico = {
         },
         {
             name: "Los 40 88.9 FM",
-            logo: "stations/images-america/mexico/sonora/40.png",
+            logo: "stations/images-america/mexico/shared/40.png",
             url: "http://167.114.219.240:6562/stream.mp3"
         },
         {
@@ -7616,6 +7616,68 @@ var stations_mexico = {
             name: "La Invasora 90.5",
             logo: "stations/images-america/mexico/sonora/invasoran.png",
             url: "https://streamingcwsradio30.com:7029/stream?type=http&nocache=1"
+        },
+    ],
+    "moctezuma": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+    ],
+    "puerto_pena": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+    ],
+    "santa_ana": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "Radio Universidad",
+            logo: "stations/images-america/mexico/sonora/uni.png",
+            url: "http://148.225.54.10/broadwavehigh.mp3?src=1"
+        },
+    ],
+    "sonoyta": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+    ],
+    "nogales": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
+        },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/sonora/formula.png",
+            url: "http://strmrfe.grupoformula.com.mx:8000/nogales"
+        },
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "https://sonic.globalstream.pro:10970/stream.mp3"
+        },
+        {
+            name: "Los 40",
+            logo: "stations/images-america/mexico/shared/40.png",
+            url: "https://sonic.globalstream.pro:10968/stream.mp3"
+        },
+    ],
+    "sanluisrc": [
+        {
+            name: "Radio Sonora",
+            logo: "stations/images-america/mexico/sonora/sonora.png",
+            url: "http://s1.radiosonorense.com:2150/stream"
         },
     ],
     "vdurango": [
