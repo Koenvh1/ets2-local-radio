@@ -65,7 +65,7 @@ var stations = {
         {
             name: "Mix 96.7",
             logo: "stations/images-america/alamogordo/Mix 96.7.png",
-            url: "ttps://ice3.securenetsystems.net/KNMB"
+            url: "https://ice3.securenetsystems.net/KNMB"
         },
         {
             name: "Rock 97.9",
@@ -22053,9 +22053,9 @@ var stations_c2c = {
             url: "http://stream.wcrsfm.org:8000/wcrsfm_a"
         },
         {
-            name: "My 92.9",
-            logo: "stations/images-america/c2c/columbus_oh/My 92.9.png",
-            url: "ttps://ice9.securenetsystems.net/WDLR"
+            name: "CD 92.9",
+            logo: "stations/images-america/c2c/columbus_oh/CD 92.9.png",
+            url: "https://s3.radio.co/s5cd4f1566/listen"
         },
         {
             name: "93.3 The Bus",
@@ -31044,7 +31044,7 @@ var stations_canadream = {
         {
             name: "100.3 The Q",
             logo: "stations/images-america/canadream/vancouver/100.3 The Q.png",
-            url: "ttps://ais-sa1.streamon.fm/7333_48k.aac"
+            url: "https://ais-sa1.streamon.fm/7333_48k.aac"
         },
         {
             name: "CO-OP Radio 100.5",
