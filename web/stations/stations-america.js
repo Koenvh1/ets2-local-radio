@@ -5942,6 +5942,11 @@ var stations = {
             logo: "stations/images-america/santa_maria/KTNK 103.7.png",
             url: "http://66.55.143.197:8020/;"
         },
+        {
+            name: "KRAZy Country 105.9",
+            logo: "stations/images-america/santa_maria/KRAZy Country 105.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRAZAAC_SC"
+        },
     ],
     "santa_rosa_nm": [
         {
