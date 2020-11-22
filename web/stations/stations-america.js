@@ -944,7 +944,7 @@ var stations = {
         },
         {
             name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
+            logo: "stations/images-america/reno/106.9 More FM_christmas.png",
             url: "https://ice10.securenetsystems.net/KRNO"
         },
         {
@@ -3718,7 +3718,7 @@ var stations = {
         },
         {
             name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
+            logo: "stations/images-america/reno/106.9 More FM_christmas.png",
             url: "https://ice10.securenetsystems.net/KRNO"
         },
     ],
@@ -5390,7 +5390,7 @@ var stations = {
         },
         {
             name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
+            logo: "stations/images-america/reno/106.9 More FM_christmas.png",
             url: "https://ice10.securenetsystems.net/KRNO"
         },
         {
