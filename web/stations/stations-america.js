@@ -1758,6 +1758,11 @@ var stations = {
             logo: "stations/images-america/eureka/KINS 106.3.png",
             url: "http://eurekaradio.streamguys1.com/live"
         },
+        {
+            name: "106.7 The Edge",
+            logo: "stations/images-america/eureka/106.7 The Edge.png",
+            url: "https://ice10.securenetsystems.net/KXGO"
+        },
     ],
     "fallon": [
         {
@@ -5908,9 +5913,14 @@ var stations = {
             url: "http://live.kcsb.org/KCSB_128"
         },
         {
-            name: "Mega Hits 97.1",
-            logo: "stations/images-america/santa_maria/Mega Hits 97.1_christmas.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice10.securenetsystems.net/KRTO"
+            name: "Mix 96.7",
+            logo: "stations/images-america/santa_maria/Mix 96.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSYVAAC_SC"
+        },
+        {
+            name: "Mega 97.1",
+            logo: "stations/images-america/santa_maria/Mega 97.1_christmas.png",
+            url: "http://75.147.133.197:8097/;"
         },
         {
             name: "Old School 99.1",
