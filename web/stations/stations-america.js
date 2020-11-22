@@ -5909,7 +5909,7 @@ var stations = {
         },
         {
             name: "Mega Hits 97.1",
-            logo: "stations/images-america/santa_maria/Mega Hits 97.1.png",
+            logo: "stations/images-america/santa_maria/Mega Hits 97.1_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://ice10.securenetsystems.net/KRTO"
         },
         {
@@ -6067,8 +6067,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
         },
         {
-            name: "101 KGB",
-            logo: "stations/images-america/san_diego/101 KGB.png",
+            name: "101.5 KGB",
+            logo: "stations/images-america/san_diego/101.5 KGB.png",
             url: "https://stream.revma.ihrhls.com/zc237/hls.m3u8"
         },
         {
@@ -6095,6 +6095,21 @@ var stations = {
             name: "600 KOGO",
             logo: "stations/images-america/san_diego/600 KOGO.png",
             url: "https://stream.revma.ihrhls.com/zc257/hls.m3u8"
+        },
+        {
+            name: "URadio 690",
+            logo: "stations/images-america/san_diego/URadio 690.png",
+            url: "http://76.79.188.95:8000/ulive.mp3"
+        },
+        {
+            name: "760 AM",
+            logo: "stations/images-america/san_diego/760 AM.png",
+            url: "https://stream.revma.ihrhls.com/zc8528/hls.m3u8"
+        },
+        {
+            name: "La Poderosa 860",
+            logo: "stations/images-america/san_diego/La Poderosa 860.png",
+            url: "https://streamingcwsradio30.com:7024/stream"
         },
         {
             name: "Mightier 1090",
