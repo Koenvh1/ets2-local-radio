@@ -7672,6 +7672,11 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/shared/40.png",
             url: "https://sonic.globalstream.pro:10968/stream.mp3"
         },
+        {
+            name: "La Sonora de Nogales",
+            logo: "stations/images-america/mexico/shared/nogales.png",
+            url: "https://stream9.mexiserver.com/8066/stream"
+        },
     ],
     "sanluisrc": [
         {
