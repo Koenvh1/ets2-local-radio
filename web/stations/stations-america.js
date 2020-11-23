@@ -8208,11 +8208,6 @@ var stations_mexico = {
     ],
     "mexicali": [
         {
-            name: "Radio Sonora 88.5",
-            logo: "stations/images-america/mexico/mexicali/Radio Sonora 88.5.png",
-            url: "http://s2.radiosonorense.com:2150/stream.mp3"
-        },
-        {
             name: "Súper 89.9",
             logo: "stations/images-america/mexico/mexicali/Súper 89.9.png",
             url: "http://s1.audiorama.mx:6590/;"
