@@ -549,7 +549,7 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "borisoglebsk": {
-        relative_radius: 2,
+        relative_radius: 2.15,
     },
     "bozen": {
         relative_radius: 0.5,
@@ -639,7 +639,7 @@ var city_properties = {
         relative_whitenoise: 0.9
     },
     "engels": {
-        relative_radius: 2,
+        relative_radius: 1.38,
     },
     "falkenberg": {
         relative_radius: 0.6,
@@ -743,6 +743,9 @@ var city_properties = {
     },
     "kamenomost": {
         relative_radius: 0.5,
+    },
+    "kamensk": {
+        relative_radius: 1.5,
     },
     "karachaevsk": {
         relative_radius: 0.35,
@@ -1001,7 +1004,7 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "saratov": {
-        relative_radius: 2,
+        relative_radius: 1.5,
     },
     "shaumyan": {
         relative_radius: 0.5,
@@ -1066,7 +1069,7 @@ var city_properties = {
         relative_radius: 0.65,
     },
     "tambov": {
-        relative_radius: 2,
+        relative_radius: 2.25,
     },
     "tanabru": {
         relative_radius: 0.4,
