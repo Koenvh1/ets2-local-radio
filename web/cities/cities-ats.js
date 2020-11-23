@@ -10,13 +10,13 @@ var country_properties = {
         name_english: "Alamogordo",
         code: "us-nm",
         relative_radius: 1.2
-    },/*
+    },
     "alamosa": {
         name: "Alamosa",
         name_english: "Alamosa",
         code: "us-co",
-        relative_radius: 1.0
-    },*/
+        relative_radius: 0.8
+    },
     "albuquerque": {
         name: "Albuquerque",
         name_english: "Albuquerque",
@@ -70,13 +70,13 @@ var country_properties = {
         name_english: "Boise",
         code: "us-id",
         relative_radius: 1.1
-    },/*
+    },
     "burlington": {
         name: "Burlington",
         name_english: "Burlington",
         code: "us-co",
-        relative_radius: 1.0
-    },*/
+        relative_radius: 0.8
+    },
     "burns": {
         name: "Burns",
         name_english: "Burns",
@@ -112,13 +112,13 @@ var country_properties = {
         name_english: "Clovis",
         code: "us-nm",
         relative_radius: 0.9
-    },/*
-    "colorado_springs": {
-        name: "Colorado Springs",
-        name_english: "Colorado Springs",
+    },
+    "colorado_springs_pueblo": {
+        name: "Colorado Springs / Pueblo",
+        name_english: "Colorado Springs / Pueblo",
         code: "us-co",
         relative_radius: 1.0
-    },*/
+    },
     "colville": {
         name: "Colville",
         name_english: "Colville",
@@ -136,19 +136,19 @@ var country_properties = {
         name_english: "Crescent City",
         code: "us-ca",
         relative_radius: 0.6
-    },/*
+    },
     "denver": {
         name: "Denver",
         name_english: "Denver",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "durango": {
         name: "Durango",
         name_english: "Durango",
         code: "us-co",
         relative_radius: 1.0
-    },*/
+    },
     "ehrenberg": {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
@@ -189,20 +189,20 @@ var country_properties = {
         name: "Farmington",
         name_english: "Farmington",
         code: "us-nm",
-        relative_radius: 1.7
+        relative_radius: 1.1
     },
     "flagstaff": {
         name: "Flagstaff",
         name_english: "Flagstaff",
         code: "us-az",
         relative_radius: 1.3
-    },/*
+    },
     "fort_collins": {
         name: "Fort Collins",
         name_english: "Fort Collins",
         code: "us-co",
-        relative_radius: 1.0
-    },*/
+        relative_radius: 0.8
+    },
     "fresno": {
         name: "Fresno",
         name_english: "Fresno",
@@ -226,13 +226,13 @@ var country_properties = {
         name_english: "Grand Canyon Village",
         code: "us-az",
         relative_radius: 1.2
-    },/*
-    "grand_junction": {
+    },
+    "grand_juncti": {
         name: "Grand Junction",
         name_english: "Grand Junction",
         code: "us-co",
         relative_radius: 1.0
-    },*/
+    },
     "grangeville": {
         name: "Grangeville",
         name_english: "Grangeville",
@@ -298,13 +298,13 @@ var country_properties = {
         name_english: "Lakeview",
         code: "us-or",
         relative_radius: 0.8
-    },/*
+    },
     "lamar": {
         name: "Lamar",
         name_english: "Lamar",
         code: "us-co",
         relative_radius: 1.0
-    },*/
+    },
     "las_cruces": {
         name: "Las Cruces",
         name_english: "Las Cruces",
@@ -375,20 +375,20 @@ var country_properties = {
         name: "Moab",
         name_english: "Moab",
         code: "us-ut",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "modesto": {
         name: "Modesto",
         name_english: "Modesto",
         code: "us-ca",
         relative_radius: 0.5
-    },/*
+    },
     "montrose": {
         name: "Montrose",
         name_english: "Montrose",
         code: "us-co",
         relative_radius: 1.0
-    },*/
+    },
     "needles": {
         name: "Needles",
         name_english: "Needles",
@@ -449,6 +449,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.2
     },
+    "poncha_springs": {
+        name: "Poncha Springs",
+        name_english: "Poncha Springs",
+        code: "us-wa",
+        relative_radius: 0.7
+    },
     "port_angeles": {
         name: "Port Angeles",
         name_english: "Port Angeles",
@@ -466,19 +472,13 @@ var country_properties = {
         name_english: "Price",
         code: "us-ut",
         relative_radius: 1.2
-    },/*
-    "pueblo": {
-        name: "Pueblo",
-        name_english: "Pueblo",
-        code: "us-co",
-        relative_radius: 1.0
-    },/*
+    },
     "rangely": {
         name: "Rangely",
         name_english: "Rangely",
         code: "us-co",
-        relative_radius: 1.0
-    },*/
+        relative_radius: 0.8
+    },
     "raton": {
         name: "Raton",
         name_english: "Raton",
@@ -532,19 +532,19 @@ var country_properties = {
         name_english: "Salt Lake City",
         code: "us-ut",
         relative_radius: 1.2
-    },/*
-    "steamboat_springs": {
+    },
+    "steamboat_sp": {
         name: "Steamboat Springs",
         name_english: "Steamboat Springs",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "sterling": {
         name: "Sterling",
         name_english: "Sterling",
         code: "us-co",
         relative_radius: 1.0
-    },*/
+    },
     "monterey": {
         name: "Monterey",
         name_english: "Monterey",
@@ -675,7 +675,7 @@ var country_properties = {
         name: "Vernal",
         name_english: "Vernal",
         code: "us-ut",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "wenatchee": {
         name: "Wenatchee",
@@ -762,7 +762,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "burlington": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.80
     },
     "burns": {
         relative_whitenoise: 0.85
@@ -779,8 +779,8 @@ var city_properties = {
     "clovis": {
         relative_whitenoise: 0.90
     },
-    "colorado_springs": {
-        relative_whitenoise: 0.90
+    "colorado_springs_pueblo": {
+        relative_whitenoise: 0.80
     },
     "colville": {
         relative_whitenoise: 0.85
@@ -792,7 +792,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "denver": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.80
     },
     "durango": {
         relative_whitenoise: 0.90
@@ -830,7 +830,7 @@ var city_properties = {
     "grand_coulee": {
         relative_whitenoise: 0.85
     },
-    "grand_junction": {
+    "grand_juncti": {
         relative_whitenoise: 0.90
     },
     "grangeville": {
@@ -864,7 +864,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "lamar": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.80
     },
     "las_vegas": {
         relative_whitenoise: 0.80
@@ -897,7 +897,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "moab": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.90
     },
     "modesto": {
         relative_whitenoise: 0.70
@@ -935,6 +935,9 @@ var city_properties = {
     "pioche": {
         relative_whitenoise: 0.95
     },
+    "poncha_springs": {
+        relative_whitenoise: 0.85
+    },
     "port_angeles": {
         relative_whitenoise: 0.85
     },
@@ -943,9 +946,6 @@ var city_properties = {
     },
     "price": {
         relative_whitenoise: 0.95
-    },
-    "pueblo": {
-        relative_whitenoise: 0.90
     },
     "rangely": {
         relative_whitenoise: 0.90
@@ -971,8 +971,8 @@ var city_properties = {
     "salt_lake": {
         relative_whitenoise: 0.95
     },
-    "steamboat_springs": {
-        relative_whitenoise: 0.90
+    "steamboat_sp": {
+        relative_whitenoise: 0.85
     },
     "sterling": {
         relative_whitenoise: 0.90
@@ -1899,111 +1899,111 @@ var cities = [
         "x": "-75344.6",
         "y": "115.207",
         "z": "-28521.1"
-    },/*
+    },
     {
         "gameName": "alamosa",
         "realName": "Alamosa",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-44120.3",
+        "y": "146.652",
+        "z": "6136.21"
     },
     {
         "gameName": "burlington",
         "realName": "Burlington",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-27255.2",
+        "y": "145.367",
+        "z": "-2904.98"
     },
     {
-        "gameName": "colorado_springs",
-        "realName": "Colorado Springs",
+        "gameName": "colorado_springs_pueblo",
+        "realName": "Colorado Springs / Pueblo",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-37543",
+        "y": "97.4214",
+        "z": "528.353"
     },
     {
         "gameName": "denver",
         "realName": "Denver",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-38561.4",
+        "y": "138.176",
+        "z": "-5191.34"
     },
     {
         "gameName": "durango",
         "realName": "Durango",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-53028.9",
+        "y": "231.629",
+        "z": "5898.53"
     },
     {
         "gameName": "fort_collins",
         "realName": "Fort Collins",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-39016.8",
+        "y": "125.043",
+        "z": "-11147.9"
     },
     {
-        "gameName": "grand_junction",
+        "gameName": "grand_juncti",
         "realName": "Grand Junction",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-53960.4",
+        "y": "123.477",
+        "z": "-3558.85"
     },
     {
         "gameName": "lamar",
         "realName": "Lamar",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-29205.3",
+        "y": "178.398",
+        "z": "3966.89"
     },
     {
         "gameName": "montrose",
         "realName": "Montrose",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-52039",
+        "y": "156.707",
+        "z": "-663.594"
     },
     {
-        "gameName": "pueblo",
-        "realName": "Pueblo",
+        "gameName": "poncha_springs",
+        "realName": "Poncha Springs",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-44653.8",
+        "y": "132.538",
+        "z": "127.839"
     },
     {
         "gameName": "rangely",
         "realName": "Rangely",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-54394.8",
+        "y": "137.723",
+        "z": "-10196.7"
     },
     {
-        "gameName": "steamboat_springs",
+        "gameName": "steamboat_sp",
         "realName": "Steamboat Springs",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-46238.9",
+        "y": "256.355",
+        "z": "-11100.9"
     },
     {
         "gameName": "sterling",
         "realName": "Sterling",
         "country": "colorado",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-32170.9",
+        "y": "110.477",
+        "z": "-10118.3"
+    },
 ];
 var country_properties_mexico = {
     "yecora": {
@@ -2156,6 +2156,18 @@ var country_properties_mexico = {
         code: "mx-chh",
         relative_radius: 0.6
     },
+    "mexicali": {
+        name: "Mexicali",
+        name_english: "Mexicali",
+        code: "mx-bcn",
+        relative_radius: 0.9
+    },
+    "tijuana": {
+        name: "Tijuana",
+        name_english: "Tijuana",
+        code: "mx-bcn",
+        relative_radius: 0.8
+    },
 };
  
 var city_properties_mexico = {
@@ -2232,6 +2244,12 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "guachoch": {
+        relative_whitenoise: 0.95
+    },
+    "tijuana": {
+        relative_whitenoise: 0.95
+    },
+    "mexicali": {
         relative_whitenoise: 0.95
     },
 };
@@ -2365,7 +2383,7 @@ var cities_mexico = [
       "y": "82.9336",
       "z": "75478.9"
     },
-{
+	{
       "gameName": "santiagopap",
       "realName": "Stgo. Papasquiaro",
       "country": "durango",
@@ -2436,6 +2454,22 @@ var cities_mexico = [
       "x": "-57713.7",
       "y": "381.328",
       "z": "66510.7"
+    },
+{
+        "gameName": "tijuana",
+        "realName": "Tijuana",
+        "country": "bajacalifo",
+        "x": "-99184.2",
+        "y": "49.7773",
+        "z": "26196.8"
+    },
+{
+        "gameName": "mexicali",
+        "realName": "Mexicali",
+        "country": "bajacalifo",
+        "x": "-90883.1",
+        "y": "50.1211",
+        "z": "29113.3"
     },
 ];
 
@@ -2517,84 +2551,6 @@ var country_properties_c2c = {
         name_english: "Little Rock",
         code: "us-ar",
         relative_radius: 1.1
-    },
-    "colorado": {
-        name: "colorado",
-        name_english: "colorado",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "cheyenne_wells": {
-        name: "cheyenne_wells",
-        name_english: "cheyenne_wells",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "colorado_springs": {
-        name: "colorado_springs",
-        name_english: "colorado_springs",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "denver": {
-        name: "denver",
-        name_english: "denver",
-        code: "us-co",
-        relative_radius: 1.2
-    },
-    "fort_collins": {
-        name: "Fort Collins",
-        name_english: "Fort Collins",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "glenwood_springs": {
-        name: "glenwood_springs",
-        name_english: "glenwood_springs",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "grand_junction": {
-        name: "grand_junction",
-        name_english: "grand_junction",
-        code: "us-co",
-        relative_radius: 1.0
-    },
-    "kit_carson": {
-        name: "kit_carson",
-        name_english: "kit_carson",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "limon": {
-        name: "limon",
-        name_english: "limon",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "pueblo": {
-        name: "pueblo",
-        name_english: "pueblo",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "seibert_co": {
-        name: "seibert_co",
-        name_english: "seibert_co",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "sterling_co": {
-        name: "sterling_co",
-        name_english: "sterling_co",
-        code: "us-co",
-        relative_radius: 0.8
-    },
-    "trinidad_co": {
-        name: "trinidad_co",
-        name_english: "trinidad_co",
-        code: "us-co",
-        relative_radius: 0.8
     },
     "connecticut": {
         name: "connecticut",
@@ -2788,6 +2744,12 @@ var country_properties_c2c = {
         code: "us-ga",
         relative_radius: 0.9
     },
+    "hilo": {
+        name: "Hilo",
+        name_english: "Hilo",
+        code: "us-hi",
+        relative_radius: 1.1
+    },
     "illinois": {
         name: "illinois",
         name_english: "illinois",
@@ -2924,7 +2886,7 @@ var country_properties_c2c = {
         name: "colby_ks",
         name_english: "colby_ks",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "dodgecity": {
         name: "dodgecity",
@@ -4234,7 +4196,7 @@ var country_properties_c2c = {
         code: "us-vt",
         relative_radius: 0.9
     },
-    "burlington": {
+    "burlington_vt": {
         name: "burlington",
         name_english: "burlington",
         code: "us-vt",
@@ -4406,7 +4368,7 @@ var country_properties_c2c = {
         name: "cheyenne",
         name_english: "cheyenne",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 0.9
     },
     "evanston": {
         name: "evanston",
@@ -4478,45 +4440,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "little_rock": {
-        relative_whitenoise: 0.95
-    },
-    "colorado": {
-        relative_whitenoise: 0.95
-    },
-    "cheyenne_wells": {
-        relative_whitenoise: 0.95
-    },
-    "colorado_springs": {
-        relative_whitenoise: 0.95
-    },
-    "denver": {
-        relative_whitenoise: 0.95
-    },
-    "fort_collins": {
-        relative_whitenoise: 0.95
-    },
-    "glenwood_springs": {
-        relative_whitenoise: 0.95
-    },
-    "grand_junction": {
-        relative_whitenoise: 0.95
-    },
-    "kit_carson": {
-        relative_whitenoise: 0.95
-    },
-    "limon": {
-        relative_whitenoise: 0.95
-    },
-    "pueblo": {
-        relative_whitenoise: 0.95
-    },
-    "seibert_co": {
-        relative_whitenoise: 0.95
-    },
-    "sterling_co": {
-        relative_whitenoise: 0.95
-    },
-    "trinidad_co": {
         relative_whitenoise: 0.95
     },
     "connecticut": {
@@ -4614,6 +4537,9 @@ var city_properties_c2c = {
     },
     "valdosta": {
         relative_whitenoise: 0.95
+    },
+    "hilo": {
+        relative_whitenoise: 0.90
     },
     "illinois": {
         relative_whitenoise: 0.95
@@ -5332,7 +5258,7 @@ var city_properties_c2c = {
     "brattleboro": {
         relative_whitenoise: 0.95
     },
-    "burlington": {
+    "burlington_vt": {
         relative_whitenoise: 0.95
     },
     "lebanon": {
@@ -5527,102 +5453,6 @@ var cities_c2c = [
         "x": "16499.3",
         "y": "197.602",
         "z": "23593.3"
-    },
-    {
-        "gameName": "cheyenne_wells",
-        "realName": "Cheyenne Wells",
-        "country": "colorado",
-        "x": "-27745.5",
-        "y": "318.391",
-        "z": "-112.527"
-    },
-    {
-        "gameName": "colorado_springs",
-        "realName": "Colorado Springs",
-        "country": "colorado",
-        "x": "-38153.7",
-        "y": "613.57",
-        "z": "-988.141"
-    },
-    {
-        "gameName": "denver",
-        "realName": "Denver",
-        "country": "colorado",
-        "x": "-38620.3",
-        "y": "662.988",
-        "z": "-6821.22"
-    },
-    {
-        "gameName": "fort_collins",
-        "realName": "Fort Collins",
-        "country": "colorado",
-        "x": "-38441.4",
-        "y": "321.477",
-        "z": "-9958.11"
-    },
-    {
-        "gameName": "glenwood_springs",
-        "realName": "Glenwood Springs",
-        "country": "colorado",
-        "x": "-46530.4",
-        "y": "553.967",
-        "z": "-6434.77"
-    },
-    {
-        "gameName": "grand_junction",
-        "realName": "Grand Junction",
-        "country": "colorado",
-        "x": "-54280.4",
-        "y": "441.195",
-        "z": "-4128.69"
-    },
-    {
-        "gameName": "kit_carson",
-        "realName": "Kit Carson",
-        "country": "colorado",
-        "x": "-30085.2",
-        "y": "317.773",
-        "z": "23.75"
-    },
-    {
-        "gameName": "limon",
-        "realName": "Limon",
-        "country": "colorado",
-        "x": "-33625.3",
-        "y": "601.934",
-        "z": "-2870.64"
-    },
-    {
-        "gameName": "pueblo",
-        "realName": "Pueblo",
-        "country": "colorado",
-        "x": "-38291",
-        "y": "242.178",
-        "z": "2888.05"
-    },
-    {
-        "gameName": "seibert_co",
-        "realName": "Seibert",
-        "country": "colorado",
-        "x": "-29674.2",
-        "y": "283.797",
-        "z": "-3193.96"
-    },
-    {
-        "gameName": "sterling_co",
-        "realName": "Sterling",
-        "country": "colorado",
-        "x": "-30995.4",
-        "y": "478.057",
-        "z": "-9742.83"
-    },
-    {
-        "gameName": "trinidad_co",
-        "realName": "Trinidad",
-        "country": "colorado",
-        "x": "-37969.3",
-        "y": "357.327",
-        "z": "8652.75"
     },
     {
         "gameName": "hartford",
@@ -5847,6 +5677,14 @@ var cities_c2c = [
         "x": "61486.7",
         "y": "115.338",
         "z": "41379.2"
+    },
+    {
+        "gameName": "hilo",
+        "realName": "Hilo",
+        "country": "hawaii",
+        "x": "-293173",
+        "y": "74.7109",
+        "z": "42103.5"
     },
     {
         "gameName": "bloomington_il",
@@ -7521,7 +7359,7 @@ var cities_c2c = [
         "z": "-33239.6"
     },
     {
-        "gameName": "burlington",
+        "gameName": "burlington_vt",
         "realName": "Burlington",
         "country": "vermont",
         "x": "91517.3",
