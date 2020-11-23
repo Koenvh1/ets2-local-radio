@@ -7674,13 +7674,18 @@ var stations_mexico = {
         },
         {
             name: "La Sonora de Nogales",
-            logo: "stations/images-america/mexico/shared/nogales.png",
+            logo: "stations/images-america/mexico/sonora/nogales.png",
             url: "https://stream9.mexiserver.com/8066/stream"
         },
         {
             name: "Romántica 106.7 FM",
-            logo: "stations/images-america/mexico/shared/romantica.png",
+            logo: "stations/images-america/mexico/sonora/romantica.png",
             url: "https://sonic.globalstream.pro:10969/stream.mp3"
+        },
+        {
+            name: "La Mejor 96.7",
+            logo: "stations/images-america/mexico/shared/lamejor.png",
+            url: "https://15363.live.streamtheworld.com/XHNGS_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjA2MTQxNzAxLCJ0ZC1yZWciOmZhbHNlfQ.vBZeqNC7QxZdfuYM8Y7_nljcq4E8z3UUX_pLl17mSWY&gdpr_consent=CO8nsPHO8nsPHAcABBENBBCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjE0MTcwMSwiaXNzIjoidGlzcnYifQ.rMLmhGn2yUwvhrKLuWeetyFevLMOUfE0_KtTiNPuRvk"
         },
     ],
     "sanluisrc": [
