@@ -7677,6 +7677,11 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/shared/nogales.png",
             url: "https://stream9.mexiserver.com/8066/stream"
         },
+        {
+            name: "Romántica 106.7 FM",
+            logo: "stations/images-america/mexico/shared/romantica.png",
+            url: "https://sonic.globalstream.pro:10969/stream.mp3"
+        },
     ],
     "sanluisrc": [
         {
