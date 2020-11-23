@@ -2293,8 +2293,8 @@ var stations = {
             url: "https://stream.kwsi.org:8001/stream.ogg"
         },
         {
-            name: "The Vault 100.7",
-            logo: "stations/images-america/grand_juncti/The Vault 100.7.png",
+            name: "100.7 The Vault",
+            logo: "stations/images-america/grand_juncti/100.7 The Vault.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTFMAAC_SC"
         },
         {
@@ -25197,8 +25197,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKHTFMAAC_SC"
         },
         {
-            name: "Q104.9",
-            logo: "stations/images-america/c2c/knoxville_tn/Q104.9.png",
+            name: "Santa 104.9",
+            logo: "stations/images-america/c2c/knoxville_tn/Q104.9_christmas.png",
             url: "https://stream.radiojar.com/16177nyd41zuv"
         },
         {
