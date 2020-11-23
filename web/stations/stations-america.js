@@ -8106,7 +8106,7 @@ var stations_mexico = {
             url: "http://s1.radiosonorense.com:2150/stream"
         },
     ],
-    "nogales": [
+    "h_nogales": [
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
