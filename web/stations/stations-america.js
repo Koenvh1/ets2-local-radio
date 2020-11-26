@@ -8177,9 +8177,39 @@ var stations_mexico = {
             url: "http://192.99.14.225:9700/;"
         },
         {
-            name: "107.7@FM",
-            logo: "stations/images-america/mexico/durango/107.7@FM.png",
-            url: "https://sts5.aplradiorama.mx/xhoh.mp3"
+            name: "99.7@FM",
+            logo: "stations/images-america/mexico/durango/99.7@FM.png",
+            url: "https://sts.pergom.mx/xhoh"
+        },
+        {
+            name: "La Mejor 103.7",
+            logo: "stations/images-america/mexico/durango/mejor.png",
+            url: "https://stream3.mexiserver.com:10055/stream"
+        },
+        {
+            name: "La Poderosa 98.1 FM",
+            logo: "stations/images-america/mexico/durango/poderosa.png",
+            url: "http://sts.pergom.mx/xhwx"
+        },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/shared/formula.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/durih?1606395625196"
+        },
+        {
+            name: "Estéreo Tecnológico",
+            logo: "stations/images-america/mexico/durango/estereo.png",
+            url: "http://167.114.116.223:3196/;stream/1"
+        },
+        {
+            name: "España FM",
+            logo: "stations/images-america/mexico/durango/espana.png",
+            url: "http://99.198.107.186:8526/stream.m3u"
+        },
+        {
+            name: "Lobos 94.1 FM",
+            logo: "stations/images-america/mexico/durango/lobos.png",
+            url: "http://streamingcwsradio10.com:9300/;stream.mp3"
         },
     ],
      "gomez_p": [
@@ -8192,7 +8222,22 @@ var stations_mexico = {
             name: "Vida Romántica - XHVK",
             logo: "stations/images-america/mexico/durango/romantica.png",
             url: "http://stream2.dyndns.org:8000/xhvk.mp3/;"
-        },      
+        }, 
+        {
+            name: "El Heraldo Radio",
+            logo: "stations/images-america/mexico/durango/heraldo.png",
+            url: "https://n06.radiojar.com/qdgxacanva0uv?rj-ttl=5&rj-tok=AAABdgTAj9EANGD6dU8pj8D0_Q"
+        },
+        {
+            name: "Lobos 88.7 FM",
+            logo: "stations/images-america/mexico/durango/lobosg.png",
+            url: "http://streamingcwsradio10.com:9302/;stream.mp3"
+        },
+        {
+            name: "@FM",
+            logo: "stations/images-america/mexico/durango/@FM.png",
+            url: "https://sts.pergom.mx/xhtj"
+        },           
     ],
     "santiagopap": [
         {
