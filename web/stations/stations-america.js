@@ -996,7 +996,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-krecfmaac-imc4"
         },
         {
@@ -1535,11 +1535,6 @@ var stations = {
             name: "EZ 1430",
             logo: "stations/images-america/denver/EZ 1430.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KEZWAMAAC_SC"
-        },
-        {
-            name: "1510 The Rock",
-            logo: "stations/images-america/denver/1510 The Rock.png",
-            url: "https://ice64.securenetsystems.net/KCKK"
         },
         {
             name: "ESPN Denver 1600",
@@ -4137,7 +4132,7 @@ var stations = {
         },
         {
             name: "The Vault 100.7 @ 98.1",
-            logo: "stations/images-america/grand_juncti/The Vault 100.7.png",
+            logo: "stations/images-america/grand_juncti/100.7 The Vault.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTFMAAC_SC"
         },
         {
@@ -6458,8 +6453,8 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKWFFMAAC_SC"
         },
         {
-            name: "STAR 101.5",
-            logo: "stations/images-america/seattle/Star 101.5.png",
+            name: "Santa 101.5",
+            logo: "stations/images-america/seattle/Star 101.5_christmas.png",
             url: "https://live.wostreaming.net/direct/sinclair-kplzfmaac-ibc2"
         },
         {
@@ -6968,7 +6963,7 @@ var stations = {
         },
         {
             name: "Sunny 101.5",
-            logo: "stations/images-america/st_george/Sunny 101.5.png",
+            logo: "stations/images-america/st_george/Sunny 101.5_christmas.png",
             url: "https://ice10.securenetsystems.net/KCLS"
         },
         {
@@ -7647,7 +7642,7 @@ var stations = {
         },
         {
             name: "100.9 Cherry FM",
-            logo: "stations/images-america/yakima/100.9 Cherry FM.png",
+            logo: "stations/images-america/yakima/100.9 Cherry FM_christmas.png",
             url: "https://ice5.securenetsystems.net/KARY"
         },
         {
@@ -20255,8 +20250,8 @@ var stations_c2c = {
             url: "https://www.streamvortex.com:8444/s/10670"
         },
         {
-            name: "92.9 Jack FM",
-            logo: "stations/images-america/c2c/buffalo_ny/92.9 Jack FM.png",
+            name: "92.9 WBUF",
+            logo: "stations/images-america/c2c/buffalo_ny/92.9 WBUF.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wbuffmaac-ibc3"
         },
         {
