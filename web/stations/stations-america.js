@@ -223,7 +223,7 @@ var stations = {
         },
         {
             name: "100.9 The Breeze",
-            logo: "stations/images-america/albuquerque/100.9 The Breeze.png",
+            logo: "stations/images-america/albuquerque/100.9 The Breeze_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6469/hls.m3u8"
         },
         {
