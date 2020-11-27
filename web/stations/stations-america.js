@@ -8360,6 +8360,28 @@ var stations_mexico = {
             url: "http://s1.audiorama.mx:6600/;"
         },
     ],
+    "parral": [
+        {
+            name: "Romántica",
+            logo: "stations/images-america/mexico/chihuahua/rom.png",
+            url: "http://stream3.dyndns.org:8000/xhhpc.mp3"
+        },
+        {
+            name: "La Capital de la Noticia",
+            logo: "stations/images-america/mexico/chihuahua/not.png",
+            url: "http://ample-zeno-02.radiojar.com/kzxf3h1xa84tv?rj-ttl=5&rj-token=AAABXrUuJw8RcWQMB9KEMhLJ7zthUPcTExR_fYQcF5X1buKTP41mtA"
+        },
+        {
+            name: "La Caliente 101.7",
+            logo: "stations/images-america/mexico/chihuahua/La Caliente 101.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHATFMAAC_SC"
+        },
+        {
+            name: "@FM (Parral)",
+            logo: "stations/images-america/mexico/chihuahua/fm.png",
+            url: "http://stream2.dyndns.org:8000/xhhhi.mp3"
+        }
+    ],
 };
 
 
