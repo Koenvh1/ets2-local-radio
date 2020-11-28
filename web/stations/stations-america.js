@@ -2380,6 +2380,73 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6002/hls.m3u8"
         },
     ],
+    "glenwood_springs": [
+        {
+            name: "KDNK 88.1",
+            logo: "stations/images-america/glenwood_springs/KDNK 88.1.png",
+            url: "https://kdnk.streamguys1.com/live"
+        },
+        {
+            name: "APR 88.9",
+            logo: "stations/images-america/0_general_logos/Aspen Public Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAJXFM_SC"
+        },
+        {
+            name: "CPR Classical 90.5",
+            logo: "stations/images-america/0_general_logos/CPR Classical.png",
+            url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
+        },
+        {
+            name: "The LIFT FM 92.7",
+            logo: "stations/images-america/glenwood_springs/The LIFT FM_christmas.png",
+            url: "https://ais-sa1.streamon.fm/7107_48k.aac"
+        },
+        {
+            name: "Cat Country 93.1",
+            logo: "stations/images-america/glenwood_springs/Cat Country 93.1.png",
+            url: "https://ice42.securenetsystems.net/KHHT"
+        },
+        {
+            name: "Thunder 93.5",
+            logo: "stations/images-america/glenwood_springs/Thunder 93.5.png",
+            url: "https://ice7.securenetsystems.net/KTND"
+        },
+        {
+            name: "KZYR 97.7",
+            logo: "stations/images-america/glenwood_springs/KZYR 97.7.png",
+            url: "https://us2.maindigitalstream.com/ssl/KZYR"
+        },
+        {
+            name: "Ski Country FM 98.3",
+            logo: "stations/images-america/glenwood_springs/Ski Country FM 98.3.png",
+            url: "https://ais-sa1.streamon.fm/7106_48k.aac"
+        },
+        {
+            name: "KMTS 99.1",
+            logo: "stations/images-america/glenwood_springs/KMTS 99.1.png",
+            url: "https://ice7.securenetsystems.net/KMTSFM"
+        },
+        {
+            name: "HOT 100.5",
+            logo: "stations/images-america/glenwood_springs/HOT 100.5.png",
+            url: "https://ice7.securenetsystems.net/KGHT"
+        },
+        {
+            name: "KGLN 101.3",
+            logo: "stations/images-america/glenwood_springs/KGLN 101.3.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
+        },
+        {
+            name: "103.9 KSNO",
+            logo: "stations/images-america/glenwood_springs/103.9 KSNO.png",
+            url: "https://us2.maindigitalstream.com/ssl/KSNO"
+        },
+        {
+            name: "La Tricolor 107.1",
+            logo: "stations/images-america/glenwood_springs/La Tricolor 107.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPVWFMAAC_SC"
+        },
+    ],
     "grand_coulee": [
         {
             name: "KYRS 88.1",
@@ -4928,7 +4995,7 @@ var stations = {
         },
         {
             name: "97.1 Charlie",
-            logo: "stations/images-america/portland/97.1 Charlie.png",
+            logo: "stations/images-america/portland/97.1 Charlie_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KYCHFMAAC_SC"
         },
         {
@@ -6813,9 +6880,9 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7125_48k.aac"
         },
         {
-            name: "The LIFT 95.9",
-            logo: "stations/images-america/steamboat_sp/The Lift 95.9.png",
-            url: "https://ais-sa1.streamon.fm/7122_48k.aac"
+            name: "The LIFT FM 95.9",
+            logo: "stations/images-america/glenwood_springs/The LIFT FM_christmas.png",
+            url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
             name: "KBCR 96.9",
@@ -6838,8 +6905,8 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KTYV"
         },
         {
-            name: "The LIFT 106.3",
-            logo: "stations/images-america/steamboat_sp/The Lift 95.9.png",
+            name: "The LIFT FM 106.3",
+            logo: "stations/images-america/glenwood_springs/The LIFT FM_christmas.png",
             url: "https://ice1.amtstreaming.com:9005/kiftic"
         },
         {
@@ -9892,7 +9959,7 @@ var stations_c2c = {
         },
         {
             name: "98.5 KTK",
-            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK.png",
+            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKTKFMAAC_SC"
         },
         {
@@ -10359,7 +10426,7 @@ var stations_c2c = {
         },
         {
             name: "101.5 Lite FM",
-            logo: "stations/images-america/c2c/miami_fl/101.5 Lite FM.png",
+            logo: "stations/images-america/c2c/miami_fl/101.5 Lite FM_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WLYFFMAAC_SC"
         },
         {
@@ -12383,8 +12450,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WUSNFMAAC_SC"
         },
         {
-            name: "99.5 The Wolf-HD2",
-            logo: "stations/images-america/c2c/chicago_il/99.5 The Wolf-HD2.png",
+            name: "US 99 Country Christmas 99.5-HD2",
+            logo: "stations/images-america/c2c/chicago_il/99.5 The Wolf-HD2_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WUSNHD2AAC_SC"
         },
         {
@@ -26180,7 +26247,7 @@ var stations_c2c = {
         },
         {
             name: "Majic 95.5",
-            logo: "stations/images-america/c2c/austin_tx/Majic 95.5.png",
+            logo: "stations/images-america/c2c/austin_tx/Majic 95.5_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKMJFM_SC"
         },
         {
