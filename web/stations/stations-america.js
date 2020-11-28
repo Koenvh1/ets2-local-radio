@@ -8362,24 +8362,24 @@ var stations_mexico = {
     ],
     "parral": [
         {
-            name: "Romántica",
+            name: "Magica 100.1",
             logo: "stations/images-america/mexico/chihuahua/rom.png",
-            url: "http://stream3.dyndns.org:8000/xhhpc.mp3"
+            url: "http://streamingcwsradio30.com:8124/stream/;"
         },
         {
             name: "La Capital de la Noticia",
             logo: "stations/images-america/mexico/chihuahua/not.png",
-            url: "http://ample-zeno-02.radiojar.com/kzxf3h1xa84tv?rj-ttl=5&rj-token=AAABXrUuJw8RcWQMB9KEMhLJ7zthUPcTExR_fYQcF5X1buKTP41mtA"
+            url: "https://node-03.zeno.fm/61xzhxzc28quv?rj-ttl=5&rj-tok=AAABdg8GOl4AMfgAEcqZDQTFnw"
         },
         {
             name: "La Caliente 101.7",
             logo: "stations/images-america/mexico/chihuahua/La Caliente 101.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHATFMAAC_SC"
+            url: "https://16603.live.streamtheworld.com/XHATFM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CO8nsPHO8nsPHAcABBENBCCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjU2OTU1OSwiaXNzIjoidGlzcnYifQ.MwNawVqUT7q19Fp4oUt8Bk3iNT944vndjB-ZEe7AFPo"
         },
         {
-            name: "@FM (Parral)",
+            name: "@FM",
             logo: "stations/images-america/mexico/chihuahua/fm.png",
-            url: "http://stream2.dyndns.org:8000/xhhhi.mp3"
+            url: "https://sts.pergom.mx/xhsb"
         }
     ],
 };
