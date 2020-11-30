@@ -659,7 +659,7 @@ var stations = {
         },
         {
             name: "Magic 97.9",
-            logo: "stations/images-america/boise/Magic 97.9.png",
+            logo: "stations/images-america/boise/Magic 97.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQFCFMAAC_SC"
         },
         {
@@ -2397,8 +2397,8 @@ var stations = {
             url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
         },
         {
-            name: "The LIFT FM 92.7",
-            logo: "stations/images-america/glenwood_springs/The LIFT FM_christmas.png",
+            name: "The LIFT 92.7",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -2417,8 +2417,8 @@ var stations = {
             url: "https://us2.maindigitalstream.com/ssl/KZYR"
         },
         {
-            name: "Ski Country FM 98.3",
-            logo: "stations/images-america/glenwood_springs/Ski Country FM 98.3.png",
+            name: "Ski Country 98.3",
+            logo: "stations/images-america/glenwood_springs/Ski Country 98.3.png",
             url: "https://ais-sa1.streamon.fm/7106_48k.aac"
         },
         {
@@ -3077,7 +3077,7 @@ var stations = {
         {
             name: "Star 88",
             logo: "stations/images-america/las_cruces/Star 88.png",
-            url: "http://stream.radiojar.com/85agbbzk4k5tv.mp3"
+            url: "http://stream.radiojar.com/85agbbzk4k5tv"
         },
         {
             name: "KRWG 90.7",
@@ -3090,9 +3090,24 @@ var stations = {
             url: "https://kruxstream.nmsu.edu/KRUX"
         },
         {
-            name: "La Equis X 96.7",
-            logo: "stations/images-america/las_cruces/La Equis X 96.7.png",
-            url: "https://live.wostreaming.net/manifest/bravomic-kobeamaac-ibc4"
+            name: "Rejoice Radio 91.9",
+            logo: "stations/images-america/las_cruces/Rejoice Radio 91.9.png",
+            url: "https://aos02-abeka.secure.footprint.net/egress/bhandler/pccremuxlive/pccremuxlive2/manifest.m3u8"
+        },
+        {
+            name: "FM News Talk 92.7",
+            logo: "stations/images-america/las_cruces/FM News Talk 92.7.png",
+            url: "https://ice42.securenetsystems.net/KOBE"
+        },
+        {
+            name: "95.1 The Mixx",
+            logo: "stations/images-america/las_cruces/95.1 The Mixx.png",
+            url: "https://ice42.securenetsystems.net/KNUW"
+        },
+        {
+            name: "La Equis 96.7",
+            logo: "stations/images-america/las_cruces/La Equis 96.7.png",
+            url: "https://ice42.securenetsystems.net/KMVRHD2"
         },
         {
             name: "Classic Rock 98.7",
@@ -3107,7 +3122,12 @@ var stations = {
         {
             name: "101 Gold",
             logo: "stations/images-america/las_cruces/101 Gold.png",
-            url: "https://cors-anywhere.herokuapp.com/https://ice42.securenetsystems.net/KVLC"
+            url: "https://ice42.securenetsystems.net/KVLC"
+        },
+        {
+            name: "KTAL 101.5",
+            logo: "stations/images-america/las_cruces/KTAL 101.5.png",
+            url: "http://165.227.52.31/stream"
         },
         {
             name: "Hot 103.1",
@@ -3128,6 +3148,11 @@ var stations = {
             name: "Magic 104.9",
             logo: "stations/images-america/las_cruces/Magic 104.9.png",
             url: "https://ice42.securenetsystems.net/KMVRHD1"
+        },
+        {
+            name: "LatinX 94.3 @ 107.1",
+            logo: "stations/images-america/c2c/elpaso_tx/LatinX 94.3.png",
+            url: "https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1"
         },
     ],
     "las_vegas": [
@@ -3663,7 +3688,7 @@ var stations = {
         },
         {
             name: "Go Country 105",
-            logo: "stations/images-america/los_angeles/Go Country 105.png",
+            logo: "stations/images-america/los_angeles/Go Country 105_christmas.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
         },
         {
@@ -6880,8 +6905,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7125_48k.aac"
         },
         {
-            name: "The LIFT FM 95.9",
-            logo: "stations/images-america/glenwood_springs/The LIFT FM_christmas.png",
+            name: "The LIFT 95.9",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -6905,8 +6930,8 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KTYV"
         },
         {
-            name: "The LIFT FM 106.3",
-            logo: "stations/images-america/glenwood_springs/The LIFT FM_christmas.png",
+            name: "The LIFT 106.3",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ice1.amtstreaming.com:9005/kiftic"
         },
         {
@@ -18491,7 +18516,7 @@ var stations_c2c = {
         },
         {
             name: "94.9 KCMO",
-            logo: "stations/images-america/c2c/kansascity_mo/94.9 KCMO.png",
+            logo: "stations/images-america/c2c/kansascity_mo/94.9 KCMO_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOFMAAC_SC"
         },
         {
@@ -19402,7 +19427,7 @@ var stations_c2c = {
         },
         {
             name: "105.3 KMTX",
-            logo: "stations/images-america/c2c/helena_mt/105.3 KMTX.png",
+            logo: "stations/images-america/c2c/helena_mt/105.3 KMTX_christmas.png",
             url: "https://live.wostreaming.net/direct/montanaradioco-kmtxfmaac-imc4"
         },
         {
@@ -24317,7 +24342,7 @@ var stations_c2c = {
         },
         {
             name: "94.5 3WS",
-            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS.png",
+            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2029/hls.m3u8"
         },
         {
@@ -25935,8 +25960,8 @@ var stations_c2c = {
             url: "https://wpln.streamguys1.com/wplnfm.mp3"
         },
         {
-            name: "91Classical",
-            logo: "stations/images-america/c2c/nashville_tn/91Classical.png",
+            name: "91.One",
+            logo: "stations/images-america/c2c/nashville_tn/91.One.png",
             url: "https://wpln.streamguys1.com/wfclfm.mp3"
         },
         {
