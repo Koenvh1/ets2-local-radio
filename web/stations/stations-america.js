@@ -1554,6 +1554,11 @@ var stations = {
             url: "http://kdurradio.fortlewis.edu/stream"
         },
         {
+            name: "XRock 105.3",
+            logo: "stations/images-america/durango/XRock 105.3.png",
+            url: "https://ice6.securenetsystems.net/KXRC"
+        },
+        {
             name: "STAR 107.7",
             logo: "stations/images-america/farmington/Star 102.9.png",
             url: "https://stream.revma.ihrhls.com/zc5082/hls.m3u8"
@@ -1810,7 +1815,7 @@ var stations = {
         {
             name: "KSJE 90.9",
             logo: "stations/images-america/farmington/KSJE 90.9.png",
-            url: "http://edge-audio-01-cr.sharp-stream.com/ksje.mp3"
+            url: "https://ksje.streamguys1.com/live"
         },
         {
             name: "KTGW 91.7",
@@ -1851,11 +1856,6 @@ var stations = {
             name: "KOOL 104.5",
             logo: "stations/images-america/farmington/KOOL 104.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
-        },
-        {
-            name: "XRock 105.3",
-            logo: "stations/images-america/farmington/XRock 105.3.png",
-            url: "https://ice6.securenetsystems.net/KXRC"
         },
         {
             name: "KLJH 107.1",
@@ -27291,8 +27291,8 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/KMRK"
         },
         {
-            name: "97Gold",
-            logo: "stations/images-america/c2c/midland_tx/97Gold.png",
+            name: "97 Gold",
+            logo: "stations/images-america/c2c/midland_tx/97 Gold.png",
             url: "https://ais-sa1.streamon.fm/7200_48k.aac"
         },
         {
@@ -27309,6 +27309,11 @@ var stations_c2c = {
             name: "KICKS 99.1",
             logo: "stations/images-america/c2c/midland_tx/KICKS 99.1.png",
             url: "https://ais-sa1.streamon.fm/7321_48k.aac"
+        },
+        {
+            name: "FOX Sports 99.5",
+            logo: "stations/images-america/c2c/midland_tx/FOX Sports 99.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kmndamaac-ibc3"
         },
         {
             name: "KBAT 99.9",
@@ -27338,12 +27343,7 @@ var stations_c2c = {
         {
             name: "Q108",
             logo: "stations/images-america/c2c/midland_tx/Q108.png",
-            url: "https://securestreams3.autopo.st:1387/stream"
-        },
-        {
-            name: "FOX Sports 1510",
-            logo: "stations/images-america/c2c/midland_tx/Fox Sports 1510.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kmndamaac-ibc3"
+            url: "https://sonicpanel.hostradios.com:7131/stream"
         },
     ],
     "sanantonio": [
