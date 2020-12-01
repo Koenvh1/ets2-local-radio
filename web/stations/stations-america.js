@@ -25962,7 +25962,7 @@ var stations_c2c = {
         {
             name: "91.One",
             logo: "stations/images-america/c2c/nashville_tn/91.One.png",
-            url: "https://wpln.streamguys1.com/wfclfm.mp3"
+            url: "https://wpln.streamguys1.com/wnxpfm.mp3"
         },
         {
             name: "92Q",
