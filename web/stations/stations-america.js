@@ -18059,6 +18059,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/wrbjfm-wrbjfmaac-ibc4"
         },
         {
+            name: "BIN 98.1",
+            logo: "stations/images-america/c2c/jackson_ms/BIN 98.1.png",
+            url: "https://stream.revma.ihrhls.com/zc8774/hls.m3u8"
+        },
+        {
             name: "Mix 98.7",
             logo: "stations/images-america/c2c/vicksburg_ms/Mix 98.7_christmas.png",
             url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
