@@ -836,9 +836,19 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/katk"
         },
         {
+            name: "92.9 The Brand",
+            logo: "stations/images-america/roswell/92.9 The Brand.png",
+            url: "https://ice23.securenetsystems.net/KTZA"
+        },
+        {
             name: "93.9 La Raza",
             logo: "stations/images-america/carlsbad_nm/93.9 La Raza.png",
             url: "https://us9.maindigitalstream.com/ssl/laraza"
+        },
+        {
+            name: "94.9 The Country Giant",
+            logo: "stations/images-america/roswell/94.9 The Country Giant.png",
+            url: "https://ais-sa2.cdnstream1.com/2336_128.mp3"
         },
         {
             name: "Q96.3",
@@ -857,7 +867,7 @@ var stations = {
         },
         {
             name: "W105",
-            logo: "stations/images-america/carlsbad_nm/W105.png",
+            logo: "stations/images-america/hobbs/W105.png",
             url: "https://ice3.securenetsystems.net/KWMW"
         },
         {
@@ -2488,11 +2498,6 @@ var stations = {
     ],
     "hobbs": [
         {
-            name: "92.9 The Brand",
-            logo: "stations/images-america/roswell/92.9 The Brand.png",
-            url: "https://ice23.securenetsystems.net/KTZA"
-        },
-        {
             name: "Z94",
             logo: "stations/images-america/hobbs/Z94.png",
             url: "http://ais-sa2.cdnstream1.com/2338_128.mp3"
@@ -2523,14 +2528,14 @@ var stations = {
             url: "http://crystalout.surfernetwork.com:8001/KPZA_MP3"
         },
         {
+            name: "W105",
+            logo: "stations/images-america/hobbs/W105.png",
+            url: "https://ice3.securenetsystems.net/KWMW"
+        },
+        {
             name: "B107 The Blaze",
             logo: "stations/images-america/hobbs/B107 The Blaze.png",
             url: "http://ice2.securenetsystems.net/KTUM"
-        },
-        {
-            name: "KIKZ 1250",
-            logo: "stations/images-america/hobbs/KIKZ 1250.png",
-            url: "http://173.193.205.96:7437/stream"
         },
     ],
     "huron": [
@@ -5513,6 +5518,11 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
+            name: "94.9 The Country Giant",
+            logo: "stations/images-america/roswell/94.9 The Country Giant.png",
+            url: "https://ais-sa2.cdnstream1.com/2336_128.mp3"
+        },
+        {
             name: "Radio Vida 101.1",
             logo: "stations/images-america/roswell/Radio Vida 101.1.png",
             url: "http://shout2.brnstream.com:8006/stream"
@@ -5526,6 +5536,11 @@ var stations = {
             name: "103.1 KHFM",
             logo: "stations/images-america/roswell/95.5 KHFM.png",
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
+        },
+        {
+            name: "104.7 KMOU",
+            logo: "stations/images-america/roswell/104.7 KMOU.png",
+            url: "http://173.193.205.96:7559/stream/;"
         },
         {
             name: "Fierro 106.1",
