@@ -7367,6 +7367,12 @@ var country_properties_canadream = {
         code: "ca-ab",
         relative_radius: 1.3
     },
+    "hope": {
+        name: "Hope",
+        name_english: "Hope",
+        code: "ca-bc",
+        relative_radius: 0.8
+    },
     "houstoncan": {
         name: "Houston",
         name_english: "Houston",
@@ -7389,7 +7395,13 @@ var country_properties_canadream = {
         name: "Kamloops",
         name_english: "Kamloops",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 1.0
+    },
+    "kelowna": {
+        name: "Kelowna",
+        name_english: "Kelowna",
+        code: "ca-bc",
+        relative_radius: 0.9
     },
     "kindersley": {
         name: "Kindersley",
@@ -7581,7 +7593,7 @@ var country_properties_canadream = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "ca-bc",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "virden": {
         name: "Virden",
@@ -7685,6 +7697,9 @@ var city_properties_canadream = {
     "highlevel": {
         relative_whitenoise: 0.95
     },
+    "hope": {
+        relative_whitenoise: 0.95
+    },
     "houstoncan": {
         relative_whitenoise: 0.95
     },
@@ -7695,6 +7710,9 @@ var city_properties_canadream = {
         relative_whitenoise: 0.95
     },
     "kamloops": {
+        relative_whitenoise: 0.95
+    },
+    "kelowna": {
         relative_whitenoise: 0.95
     },
     "kindersley": {
@@ -7970,6 +7988,14 @@ var cities_canadream = [
         "z": "-120900"
     },
     {
+        "gameName": "hope",
+        "realName": "Hope",
+        "country": "britcolumb",
+        "x": "-93519.3",
+        "y": "51.2422",
+        "z": "-72161.5"
+    },
+    {
         "gameName": "houstoncan",
         "realName": "Houston",
         "country": "britcolumb",
@@ -7997,9 +8023,17 @@ var cities_canadream = [
         "gameName": "kamloops",
         "realName": "Kamloops",
         "country": "britcolumb",
-        "x": "-86562.3",
-        "y": "111.246",
-        "z": "-79463.3"
+        "x": "-87872.4",
+        "y": "97.0352",
+        "z": "-78290.7"
+    },
+    {
+        "gameName": "kelowna",
+        "realName": "Kelowna",
+        "country": "britcolumb",
+        "x": "-85262.3",
+        "y": "48.5546",
+        "z": "-72796.7"
     },
     {
         "gameName": "kindersley",
@@ -8253,9 +8287,9 @@ var cities_canadream = [
         "gameName": "vancouver_bc",
         "realName": "Vancouver",
         "country": "britcolumb",
-        "x": "-98879.3",
-        "y": "122.016",
-        "z": "-73589.9"
+        "x": "-101665",
+        "y": "61.7656",
+        "z": "-74033.4"
     },
     {
         "gameName": "virden",
