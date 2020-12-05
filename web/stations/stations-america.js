@@ -8389,6 +8389,32 @@ var stations_mexico = {
             url: "http://grupochavezradio.com/radio/spots/99.mp3"
         },     
     ],
+    "mazatlan": [
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/sinaloa/formula.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/mazih?1607208889236"
+        },     
+    ],
+    "culiacan": [
+        {
+            name: "Ke Buena 91.9 FM",
+            logo: "stations/images-america/mexico/sinaloa/kebuena.png",
+            url: "https://icy.gvstream.live/radiotvmexico-kbuena919.aac"
+        },  
+        {
+            name: "La Comadre",
+            logo: "stations/images-america/mexico/sinaloa/comadre.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac"
+        },    
+    ],
+    "los_mochis": [
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/sinaloa/mexicana.png",
+            url: "http://167.114.116.223:1044/;stream.nsv"
+        },     
+    ],
 };
 
 
