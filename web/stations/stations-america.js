@@ -8374,7 +8374,7 @@ var stations_mexico = {
         {
             name: "La Caliente 101.7",
             logo: "stations/images-america/mexico/chihuahua/La Caliente 101.7.png",
-            url: "https://16603.live.streamtheworld.com/XHATFM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CO8nsPHO8nsPHAcABBENBCCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjU2OTU1OSwiaXNzIjoidGlzcnYifQ.MwNawVqUT7q19Fp4oUt8Bk3iNT944vndjB-ZEe7AFPo"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHATFMAAC_SC"
         },
         {
             name: "@FM",
