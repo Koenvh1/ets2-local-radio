@@ -7911,8 +7911,8 @@ var stations_mexico = {
         },
         {
             name: "La Mejor 98.5",
-            logo: "stations/images-america/mexico/sonora/lamejor.png",
-            url: "https://22213.live.streamtheworld.com/XHBH_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBACsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNTU2ODYwMSwiaXNzIjoidGlzcnYifQ.pyrdGymPNidd2hu8r4i_SBcjdVTwf_VesqldQFTSYRo"
+            logo: "stations/images-america/mexico/sonora/mejorh.png",
+            url: "https://22213.live.streamtheworld.com/XHBH_SC"
         },
         {
             name: "La Voz del Pitic",
@@ -7963,11 +7963,6 @@ var stations_mexico = {
             name: "97.1 FM",
             logo: "stations/images-america/mexico/sonora/97.png",
             url: "http://198.50.156.92:8559/;stream/1"
-        },
-        {
-            name: "La Mejor 98.5",
-            logo: "stations/images-america/mexico/sonora/mejorh.png",
-            url: "https://22213.live.streamtheworld.com/XHBH_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBACsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNTY1MTI3NSwiaXNzIjoidGlzcnYifQ.DHW3JC_DK723JqjMGEwmRBTTAxTe8sCUaQI7C4UEDOc"
         },
         {
             name: "Stereo 100.3",
@@ -8135,12 +8130,12 @@ var stations_mexico = {
         {
             name: "La Mejor 96.7",
             logo: "stations/images-america/mexico/shared/lamejor.png",
-            url: "https://15363.live.streamtheworld.com/XHNGS_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjA2MTQxNzAxLCJ0ZC1yZWciOmZhbHNlfQ.vBZeqNC7QxZdfuYM8Y7_nljcq4E8z3UUX_pLl17mSWY&gdpr_consent=CO8nsPHO8nsPHAcABBENBBCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjE0MTcwMSwiaXNzIjoidGlzcnYifQ.rMLmhGn2yUwvhrKLuWeetyFevLMOUfE0_KtTiNPuRvk"
+            url: "https://14103.live.streamtheworld.com/XHNGS_SC"
         },
         {
             name: "Exa FM",
             logo: "stations/images-america/mexico/shared/exa.png",
-            url: "https://20813.live.streamtheworld.com/XHQT_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBBCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjE0MjAyOCwiaXNzIjoidGlzcnYifQ.awQjiL2PwnWhy12V9CcZB9S8G33TBMRKAdDd6lXIsAM"
+            url: "https://20813.live.streamtheworld.com/XHQT_SC"
         },
         {
             name: "Estéreo Genial",
