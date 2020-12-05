@@ -8382,6 +8382,18 @@ var stations_mexico = {
             url: "https://sts.pergom.mx/xhsb"
         }
     ],
+    "guamuchil": [
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "http://grupochavezradio.com/radio/spots/92.mp3"
+        }, 
+        {
+            name: "La JL",
+            logo: "stations/images-america/mexico/sinaloa/jl.png",
+            url: "http://grupochavezradio.com/radio/spots/99.mp3"
+        },     
+    ],
 };
 
 
