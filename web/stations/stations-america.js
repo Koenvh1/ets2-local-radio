@@ -2449,7 +2449,7 @@ var stations = {
         {
             name: "KQSE 102.5",
             logo: "stations/images-america/glenwood_springs/KQSE 102.5.png",
-            url: "https://ais-sa1.streamon.fm/7121_48k.aac"
+            url: "https://ais-sa1.streamon.fm/7118_48k.aac"
         },
         {
             name: "KSPN 103.1",
@@ -4859,7 +4859,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-krecfmaac-imc4"
         },
     ],
