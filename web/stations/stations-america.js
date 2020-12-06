@@ -30455,7 +30455,7 @@ var stations_canadream = {
             url: "https://stream.jpbgdigital.com/CHWK/HEAAC/48k/playlist.m3u8"
         },
         {
-            name: "KiSS 104.9 @ 92.5",
+            name: "KiSS 92.5",
             logo: "stations/images-america/canada_promods/vancouver/KiSS 104.9.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
