@@ -8407,12 +8407,27 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sinaloa/comadre.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac"
         },    
+        {
+            name: "Match 100.1 FM",
+            logo: "stations/images-america/mexico/sinaloa/match.png",
+            url: "https://15383.live.streamtheworld.com/XHCNAFM_SC"
+        },    
+        {
+            name: "Romántica",
+            logo: "stations/images-america/mexico/sinaloa/rom.png",
+            url: "https://secure.radiorama.mx:2133/"
+        },    
     ],
     "los_mochis": [
         {
             name: "Radio Fórmula",
             logo: "stations/images-america/mexico/sinaloa/mexicana.png",
             url: "http://167.114.116.223:1044/;stream.nsv"
+        },  
+        {
+            name: "La Z",
+            logo: "stations/images-america/mexico/sinaloa/z.png",
+            url: "http://c2009.streamguys1.com/Mochis1"
         },     
     ],
 };
