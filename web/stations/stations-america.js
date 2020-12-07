@@ -1936,7 +1936,7 @@ var stations = {
         },
         {
             name: "Rewind 104.1",
-            logo: "stations/images-america/flagstaff/Rewind 104.1.png",
+            logo: "stations/images-america/flagstaff/Rewind 104.1_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFMAAC_SC"
         },
         {
@@ -2447,9 +2447,24 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
         },
         {
+            name: "KQSE 102.5",
+            logo: "stations/images-america/glenwood_springs/KQSE 102.5.png",
+            url: "https://ais-sa1.streamon.fm/7118_48k.aac"
+        },
+        {
+            name: "KSPN 103.1",
+            logo: "stations/images-america/glenwood_springs/KSPN 103.1.png",
+            url: "https://ais-sa1.streamon.fm/7121_48k.aac"
+        },
+        {
             name: "103.9 KSNO",
             logo: "stations/images-america/glenwood_springs/103.9 KSNO.png",
             url: "https://us2.maindigitalstream.com/ssl/KSNO"
+        },
+        {
+            name: "KNFO 106.1",
+            logo: "stations/images-america/glenwood_springs/KNFO 106.1.png",
+            url: "https://ice1.amtstreaming.com:9004/knfoic"
         },
         {
             name: "La Tricolor 107.1",
@@ -4844,7 +4859,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-krecfmaac-imc4"
         },
     ],
@@ -30440,7 +30455,7 @@ var stations_canadream = {
             url: "https://stream.jpbgdigital.com/CHWK/HEAAC/48k/playlist.m3u8"
         },
         {
-            name: "KiSS 104.9 @ 92.5",
+            name: "KiSS 92.5",
             logo: "stations/images-america/canada_promods/vancouver/KiSS 104.9.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
