@@ -2125,6 +2125,54 @@ var country_properties_mexico = {
         code: "mx-dur",
         relative_radius: 0.5
     },
+    "guasave": {
+        name: "Guasave",
+        name_english: "Guasave",
+        code: "mx-sin",
+        relative_radius: 0.5
+    },
+    "los_mochis": {
+        name: "Los Mochis",
+        name_english: "Los Mochis",
+        code: "mx-sin",
+        relative_radius: 0.5
+    },
+    "mazatlan": {
+        name: "Mazatlan",
+        name_english: "Mazatlan",
+        code: "mx-sin",
+        relative_radius: 0.5
+    },
+    "culiacan": {
+        name: "Culiacan",
+        name_english: "Culiacan",
+        code: "mx-sin",
+        relative_radius: 0.5
+    },
+    "guamuchil": {
+        name: "Guamuchil",
+        name_english: "Guamuchil",
+        code: "mx-sin",
+        relative_radius: 0.5
+    },
+    "parral": {
+        name: "Parral",
+        name_english: "Parral",
+        code: "mx-chh",
+        relative_radius: 0.5
+    },
+    "jimenez": {
+        name: "Jimenez",
+        name_english: "Jimenez",
+        code: "mx-chh",
+        relative_radius: 0.5
+    },
+    "guachoch": {
+        name: "Guachochi",
+        name_english: "Guachochi",
+        code: "mx-chh",
+        relative_radius: 0.5
+    },
     "mexicali": {
         name: "Mexicali",
         name_english: "Mexicali",
