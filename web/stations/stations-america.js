@@ -10592,6 +10592,11 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFMAAC_SC"
         },
         {
+            name: "Gelly 94.1",
+            logo: "stations/images-america/c2c/naples_fl/Gelly 94.1.png",
+            url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFM2AAC_SC"
+        },
+        {
             name: "94.5 The Arrow",
             logo: "stations/images-america/c2c/naples_fl/94.5 The Arrow.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WAROFMAAC_SC"
