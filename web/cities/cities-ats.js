@@ -2046,7 +2046,7 @@ var country_properties_mexico = {
         name_english: "Cananea",
         code: "mx-son",
         relative_radius: 0.6
-    },
+    },   
     "cd_obregon": {
         name: "Ciudad Obregón",
         name_english: "Ciudad Obregon",
@@ -2111,67 +2111,67 @@ var country_properties_mexico = {
         name: "Durango",
         name_english: "Durango",
         code: "mx-dur",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "gomez_p": {
         name: "Gómez Palacio",
-        name_english: "Gómez Palacio",
+        name_english: "Gomez Palacio",
         code: "mx-dur",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "santiagopap": {
         name: "Santiago Papasquiaro",
         name_english: "Santiago Papasquiaro",
         code: "mx-dur",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "guasave": {
         name: "Guasave",
         name_english: "Guasave",
         code: "mx-sin",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "los_mochis": {
         name: "Los Mochis",
         name_english: "Los Mochis",
         code: "mx-sin",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "mazatlan": {
-        name: "Mazatlan",
+        name: "Mazatlán",
         name_english: "Mazatlan",
         code: "mx-sin",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "culiacan": {
-        name: "Culiacan",
+        name: "Culiacán",
         name_english: "Culiacan",
         code: "mx-sin",
-        relative_radius: 0.5
+        relative_radius: 1.0
     },
     "guamuchil": {
-        name: "Guamuchil",
+        name: "Guamúchil",
         name_english: "Guamuchil",
         code: "mx-sin",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "parral": {
         name: "Parral",
         name_english: "Parral",
         code: "mx-chh",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "jimenez": {
         name: "Jimenez",
         name_english: "Jimenez",
         code: "mx-chh",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "guachoch": {
         name: "Guachochi",
         name_english: "Guachochi",
         code: "mx-chh",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "mexicali": {
         name: "Mexicali",
@@ -2186,7 +2186,7 @@ var country_properties_mexico = {
         relative_radius: 0.8
     },
 };
-
+ 
 var city_properties_mexico = {
     "yecora": {
         relative_whitenoise: 0.95
@@ -2272,167 +2272,167 @@ var city_properties_mexico = {
 };
 
 var cities_mexico = [
-    {
-        "gameName": "yecora",
-        "realName": "Yecora",
-        "country": "sonora",
-        "x": "-65075.4",
-        "y": "238.879",
-        "z": "57626.5"
+{
+      "gameName": "yecora",
+      "realName": "Yecora",
+      "country": "sonora",
+      "x": "-65075.4",
+      "y": "238.879",
+      "z": "57626.5"
     },
-    {
-        "gameName": "agua_prieta",
-        "realName": "Agua Prieta",
-        "country": "sonora",
-        "x": "-66289.2",
-        "y": "110.359",
-        "z": "39137.9"
+{
+      "gameName": "agua_prieta",
+      "realName": "Agua Prieta",
+      "country": "sonora",
+      "x": "-66289.2",
+      "y": "110.359",
+      "z": "39137.9"
     },
-    {
-        "gameName": "caborca",
-        "realName": "Caborca",
-        "country": "sonora",
-        "x": "-79152.9",
-        "y": "95.625",
-        "z": "40151.9"
+{
+      "gameName": "caborca",
+      "realName": "Caborca",
+      "country": "sonora",
+      "x": "-79152.9",
+      "y": "95.625",
+      "z": "40151.9"
+    },    
+{
+      "gameName": "cananea",
+      "realName": "Cananea",
+      "country": "sonora",
+      "x": "-69907",
+      "y": "88.5703",
+      "z": "40315.2"
     },
-    {
-        "gameName": "cananea",
-        "realName": "Cananea",
-        "country": "sonora",
-        "x": "-69907",
-        "y": "88.5703",
-        "z": "40315.2"
+{
+      "gameName": "cd_obregon",
+      "realName": "CD. Obregon",
+      "country": "sonora",
+      "x": "-70636.1",
+      "y": "50.0313",
+      "z": "61058.9"
     },
-    {
-        "gameName": "cd_obregon",
-        "realName": "CD. Obregon",
-        "country": "sonora",
-        "x": "-70636.1",
-        "y": "50.0313",
-        "z": "61058.9"
+{
+      "gameName": "guaymas",
+      "realName": "Guaymas",
+      "country": "sonora",
+      "x": "-75161.3",
+      "y": "57.918",
+      "z": "56623.3"
     },
-    {
-        "gameName": "guaymas",
-        "realName": "Guaymas",
-        "country": "sonora",
-        "x": "-75161.3",
-        "y": "57.918",
-        "z": "56623.3"
+{
+      "gameName": "hermosillo",
+      "realName": "Hermosillo",
+      "country": "sonora",
+      "x": "-74603.3",
+      "y": "49.9297",
+      "z": "50492.1"
     },
-    {
-        "gameName": "hermosillo",
-        "realName": "Hermosillo",
-        "country": "sonora",
-        "x": "-74603.3",
-        "y": "49.9297",
-        "z": "50492.1"
+{
+      "gameName": "h_nogales",
+      "realName": "H. Nogales",
+      "country": "sonora",
+      "x": "-73256.1",
+      "y": "108.121",
+      "z": "37728.7"
     },
-    {
-        "gameName": "h_nogales",
-        "realName": "H. Nogales",
-        "country": "sonora",
-        "x": "-73256.1",
-        "y": "108.121",
-        "z": "37728.7"
+{
+      "gameName": "moctezuma",
+      "realName": "Moctezuma",
+      "country": "sonora",
+      "x": "-67626.8",
+      "y": "57.832",
+      "z": "47166.7"
     },
-    {
-        "gameName": "moctezuma",
-        "realName": "Moctezuma",
-        "country": "sonora",
-        "x": "-67626.8",
-        "y": "57.832",
-        "z": "47166.7"
+{
+      "gameName": "navojoa",
+      "realName": "Navojoa",
+      "country": "sonora",
+      "x": "-68552.6",
+      "y": "50.0195",
+      "z": "64116.6"
     },
-    {
-        "gameName": "navojoa",
-        "realName": "Navojoa",
-        "country": "sonora",
-        "x": "-68552.6",
-        "y": "50.0195",
-        "z": "64116.6"
+{
+      "gameName": "puerto_pena",
+      "realName": "Puerto Penasco",
+      "country": "sonora",
+      "x": "-84643.3",
+      "y": "78.4609",
+      "z": "34661.3"
     },
-    {
-        "gameName": "puerto_pena",
-        "realName": "Puerto Penasco",
-        "country": "sonora",
-        "x": "-84643.3",
-        "y": "78.4609",
-        "z": "34661.3"
+{
+      "gameName": "santa_ana",
+      "realName": "Santa Ana",
+      "country": "sonora",
+      "x": "-74493.6",
+      "y": "95.625",
+      "z": "41979.7"
     },
-    {
-        "gameName": "santa_ana",
-        "realName": "Santa Ana",
-        "country": "sonora",
-        "x": "-74493.6",
-        "y": "95.625",
-        "z": "41979.7"
+{
+      "gameName": "sonoyta",
+      "realName": "Sonoyta",
+      "country": "sonora",
+      "x": "-81177.1",
+      "y": "95.7148",
+      "z": "32482.3"
     },
-    {
-        "gameName": "sonoyta",
-        "realName": "Sonoyta",
-        "country": "sonora",
-        "x": "-81177.1",
-        "y": "95.7148",
-        "z": "32482.3"
+{
+      "gameName": "sanluisrc",
+      "realName": "San Luis Rio Colorado",
+      "country": "sonora",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
     },
-    {
-        "gameName": "sanluisrc",
-        "realName": "San Luis Rio Colorado",
-        "country": "sonora",
-        "x": "-85822",
-        "y": "50.1211",
-        "z": "30702.9"
+{
+      "gameName": "vdurango",
+      "realName": "Durango",
+      "country": "durango",
+      "x": "-45394.6",
+      "y": "40",
+      "z": "84324.4"
     },
-    {
-        "gameName": "vdurango",
-        "realName": "Durango",
-        "country": "durango",
-        "x": "-45394.6",
-        "y": "40",
-        "z": "84324.4"
+{
+      "gameName": "gomez_p",
+      "realName": "Gomez Palacio",
+      "country": "durango",
+      "x": "-38817.5",
+      "y": "82.9336",
+      "z": "75478.9"
     },
-    {
-        "gameName": "gomez_p",
-        "realName": "Gomez Palacio",
-        "country": "durango",
-        "x": "-38817.5",
-        "y": "82.9336",
-        "z": "75478.9"
+	{
+      "gameName": "santiagopap",
+      "realName": "Stgo. Papasquiaro",
+      "country": "durango",
+      "x": "-49233.5",
+      "y": "55.8047",
+      "z": "77940.5"
     },
-    {
-        "gameName": "santiagopap",
-        "realName": "Stgo. Papasquiaro",
-        "country": "durango",
-        "x": "-49233.5",
-        "y": "55.8047",
-        "z": "77940.5"
+{
+      "gameName": "guasave",
+      "realName": "Guasave",
+      "country": "sinaloa",
+      "x": "-64504.9",
+      "y": "52.6367",
+      "z": "72909.2"
     },
-    {
-        "gameName": "guasave",
-        "realName": "Guasave",
-        "country": "sinaloa",
-        "x": "-64504.9",
-        "y": "52.6367",
-        "z": "72909.2"
+{
+      "gameName": "los_mochis",
+      "realName": "Los Mochis",
+      "country": "sinaloa",
+      "x": "-67160.2",
+      "y": "82.9336",
+      "z": "71272.9"
     },
-    {
-        "gameName": "los_mochis",
-        "realName": "Los Mochis",
-        "country": "sinaloa",
-        "x": "-67160.2",
-        "y": "82.9336",
-        "z": "71272.9"
+{
+      "gameName": "mazatlan",
+      "realName": "Mazatlan",
+      "country": "sinaloa",
+      "x": "-54732.3",
+      "y": "52.3203",
+      "z": "87832.3"
     },
-    {
-        "gameName": "mazatlan",
-        "realName": "Mazatlan",
-        "country": "sinaloa",
-        "x": "-54732.3",
-        "y": "52.3203",
-        "z": "87832.3"
-    },
-    {
+{
         "gameName": "culiacan",
         "realName": "Culiacan",
         "country": "sinaloa",
@@ -2440,7 +2440,7 @@ var cities_mexico = [
         "y": "31.6797",
         "z": "78285.8"
     },
-    {
+{
         "gameName": "guamuchil",
         "realName": "Guamuchil",
         "country": "sinaloa",
@@ -2448,31 +2448,31 @@ var cities_mexico = [
         "y": "49.9297",
         "z": "74015.6"
     },
-    {
-        "gameName": "parral",
-        "realName": "Parral",
-        "country": "chihuah",
-        "x": "-49800.4",
-        "y": "110",
-        "z": "66558.9"
+{
+      "gameName": "parral",
+      "realName": "Parral",
+      "country": "chihuah",
+      "x": "-49800.4",
+      "y": "110",
+      "z": "66558.9"
     },
-    {
-        "gameName": "jimenez",
-        "realName": "Jimenez",
-        "country": "chihuah",
-        "x": "-45481.6",
-        "y": "50.6445",
-        "z": "65762.4"
+{
+      "gameName": "jimenez",
+      "realName": "Jimenez",
+      "country": "chihuah",
+      "x": "-45481.6",
+      "y": "50.6445",
+      "z": "65762.4"
     },
-    {
-        "gameName": "guachoch",
-        "realName": "Guachochi",
-        "country": "chihuah",
-        "x": "-57713.7",
-        "y": "381.328",
-        "z": "66510.7"
+{
+      "gameName": "guachoch",
+      "realName": "Guachochi",
+      "country": "chihuah",
+      "x": "-57713.7",
+      "y": "381.328",
+      "z": "66510.7"
     },
-    {
+{
         "gameName": "tijuana",
         "realName": "Tijuana",
         "country": "bajacalifo",
@@ -2480,7 +2480,7 @@ var cities_mexico = [
         "y": "49.7773",
         "z": "26196.8"
     },
-    {
+{
         "gameName": "mexicali",
         "realName": "Mexicali",
         "country": "bajacalifo",
