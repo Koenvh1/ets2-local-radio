@@ -2162,7 +2162,7 @@ var country_properties_mexico = {
         relative_radius: 0.8
     },
     "jimenez": {
-        name: "Jimenez",
+        name: "Jiménez",
         name_english: "Jimenez",
         code: "mx-chh",
         relative_radius: 0.8
