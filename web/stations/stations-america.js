@@ -8477,8 +8477,8 @@ var stations_mexico = {
             url: "http://streamingcwsradio30.com:8042/stream/;"
         },
         {
-            name: "Los 40 107.7",
-            logo: "stations/images-america/0_general_logos/Los 40.png",
+            name: "Más Flo 107.7",
+            logo: "stations/images-america/mexico/tijuana/Más Flo 107.7.png",
             url: "http://s1.audiorama.mx:6600/;"
         },
     ],
@@ -13608,9 +13608,9 @@ var stations_c2c = {
             url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
-            name: "Q92.3",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Q92.3.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kkhqfmaac-ibc3"
+            name: "K92.3",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/K92.3_christmas.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-koelfmaac-ibc3"
         },
         {
             name: "KMRY 93.1",
@@ -13641,6 +13641,11 @@ var stations_c2c = {
             name: "98.1 KHAK",
             logo: "stations/images-america/c2c/cedar_rapids_ia/98.1 KHAK.png",
             url: "https://live.wostreaming.net/manifest/townsquare-khakfmaac-ibc3"
+        },
+        {
+            name: "Q98.5",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/Q98.5_christmas.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kkhqfmaac-ibc3"
         },
         {
             name: "100.7 The Fox",
@@ -20221,6 +20226,11 @@ var stations_c2c = {
             name: "FLY 92.3",
             logo: "stations/images-america/c2c/albany_ny/FLY 92.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFLYFMAAC_SC"
+        },
+        {
+            name: "K94.1",
+            logo: "stations/images-america/c2c/albany_ny/K94.1.png",
+            url: "https://stream.radiojar.com/64pdhr32pbruv"
         },
         {
             name: "B95",
