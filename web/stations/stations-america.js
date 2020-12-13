@@ -8516,7 +8516,12 @@ var stations_mexico = {
             name: "Radio Fórmula",
             logo: "stations/images-america/mexico/sinaloa/formula.png",
             url: "https://strmrfe.grupoformula.com.mx:8443/mazih?1607208889236"
-        },     
+        },
+        {
+            name: "La Jefa 104.3",
+            logo: "stations/images-america/mexico/sinaloa/jefa.png",
+            url: "https://radio.spiritmedia.mx/xhenx"
+        },      
     ],
     "culiacan": [
         {
@@ -8538,11 +8543,22 @@ var stations_mexico = {
             name: "Romántica",
             logo: "stations/images-america/mexico/sinaloa/rom.png",
             url: "https://secure.radiorama.mx:2133/"
-        },    
+        }, 
+        {
+            name: "La Mejor FM 104.1",
+            logo: "stations/images-america/mexico/sinaloa/lamejor.png",
+            url: "https://icy.gvstream.live/gpm-cq.aac"
+        },
+        {
+            name: "Los 40",
+            logo: "stations/images-america/mexico/sinaloa/40.png",
+            url: "https://icy.gvstream.live/radiotvmexico-40principales929.aac"
+        },
+             
     ],
     "los_mochis": [
         {
-            name: "Radio Fórmula",
+            name: "La Mexicana",
             logo: "stations/images-america/mexico/sinaloa/mexicana.png",
             url: "http://167.114.116.223:1044/;stream.nsv"
         },  
@@ -8550,7 +8566,17 @@ var stations_mexico = {
             name: "La Z",
             logo: "stations/images-america/mexico/sinaloa/z.png",
             url: "http://c2009.streamguys1.com/Mochis1"
-        },     
+        },
+        {
+            name: "La Rancherita",
+            logo: "stations/images-america/mexico/sinaloa/rancherita.png",
+            url: "http://c2009.streamguys1.com/Mochis2"
+        }, 
+        {
+            name: "Vox 94.1",
+            logo: "stations/images-america/mexico/sinaloa/vox.png",
+            url: "https://icy.gvstream.live/gpm-pop.aac"
+        },          
     ],
 };
 
