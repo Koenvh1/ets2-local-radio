@@ -30560,12 +30560,12 @@ var stations_canadream = {
         {
             name: "98.3 CIFM",
             logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
-            url: "http://ais.streamon.fm:8000/ais/CIFM-48k.aac"
+            url: "https://stream.jpbgdigital.com/CIFM/HEAAC/48k/playlist.m3u8"
         },
         {
             name: "B100",
             logo: "stations/images-america/canada_promods/kamloops/B100.png",
-            url: "http://CKBZ.streamon.fm:8000/CKBZ-48k.aac"
+            url: "https://stream.jpbgdigital.com/CKBZ/HEAAC/48k/playlist.m3u8"
         },
         {
             name: "CBC Music 105.3",
