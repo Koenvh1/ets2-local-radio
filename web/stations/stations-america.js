@@ -8521,7 +8521,12 @@ var stations_mexico = {
             name: "La Jefa 104.3",
             logo: "stations/images-america/mexico/sinaloa/jefa.png",
             url: "https://radio.spiritmedia.mx/xhenx"
-        },      
+        }, 
+        {
+            name: "La Nueva RJ",
+            logo: "stations/images-america/mexico/sinaloa/rj.png",
+            url: "http://audioout.gvstream.net/gpm-rj.aac"
+        },       
     ],
     "culiacan": [
         {
@@ -8554,6 +8559,16 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sinaloa/40.png",
             url: "https://icy.gvstream.live/radiotvmexico-40principales929.aac"
         },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/sinaloa/formulac.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/culih?1608074836634"
+        },
+        {
+            name: "Exa FM",
+            logo: "stations/images-america/mexico/shared/exa.png",
+            url: "http://167.114.116.223:1082/;"
+        },
              
     ],
     "los_mochis": [
@@ -8577,6 +8592,13 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sinaloa/vox.png",
             url: "https://icy.gvstream.live/gpm-pop.aac"
         },          
+    ],
+    "guasave": [
+        {
+            name: "La Mera Jefa",
+            logo: "stations/images-america/mexico/sinaloa/mera.png",
+            url: "http://192.99.16.17:8804/stream.mp3"
+        },      
     ],
 };
 
