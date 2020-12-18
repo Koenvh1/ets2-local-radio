@@ -10587,8 +10587,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WFSXFMAAC_SC"
         },
         {
-            name: "Trump Country 93.7",
-            logo: "stations/images-america/c2c/naples_fl/Trump Country 93.7.png",
+            name: "Hell Yeah! 93.7",
+            logo: "stations/images-america/c2c/naples_fl/Hell Yeah! 93.7.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFMAAC_SC"
         },
         {
