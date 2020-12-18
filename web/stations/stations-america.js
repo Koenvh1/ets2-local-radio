@@ -262,6 +262,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/agmedia28-kkrgfmaac-ibc3"
         },
         {
+            name: "Air1 105.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "La Zeta 106.3",
             logo: "stations/images-america/socorro/La Zeta 106.3.png",
             url: "https://ice42.securenetsystems.net/KDLWFM"
@@ -386,6 +391,11 @@ var stations = {
             name: "Forge 103.9",
             logo: "stations/images-america/bakersfield/Forge 103.9.png",
             url: "http://ice10.securenetsystems.net/KBDS"
+        },
+        {
+            name: "Air1 104.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "Sunny 105.3",
@@ -517,6 +527,11 @@ var stations = {
             name: "KPOV 88.9",
             logo: "stations/images-america/bend/KPOV 88.9.png",
             url: "http://amber.streamguys.com:4810/"
+        },
+        {
+            name: "Air1 89.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "OPB 91.3",
@@ -661,6 +676,11 @@ var stations = {
             name: "Magic 97.9",
             logo: "stations/images-america/boise/Magic 97.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQFCFMAAC_SC"
+        },
+        {
+            name: "Air1 98.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "99.1 I-Rock",
@@ -891,6 +911,11 @@ var stations = {
             name: "CapRadio News 90.5",
             logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
+        },
+        {
+            name: "Air1 90.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "ALT 92.1",
@@ -1174,6 +1199,11 @@ var stations = {
             url: "http://csrb.streamguys1.com/krxp-mp3"
         },
         {
+            name: "Air1 104.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "KRDO 105.5",
             logo: "stations/images-america/colorado_springs_pueblo/KRDO 105.5.png",
             url: "https://ice6.securenetsystems.net/KRDO"
@@ -1345,6 +1375,11 @@ var stations = {
             name: "CPR Classical 88.1",
             logo: "stations/images-america/0_general_logos/CPR Classical.png",
             url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
+        },
+        {
+            name: "Air1 88.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "KUVO 89.3",
@@ -2084,6 +2119,11 @@ var stations = {
             url: "http://stream3.streamq.net:8020/;"
         },
         {
+            name: "Air1 88.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "KVPR 89.3",
             logo: "stations/images-america/0_general_logos/Valley Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFMAAC_SC"
@@ -2286,6 +2326,11 @@ var stations = {
             name: "97.7 Jack FM",
             logo: "stations/images-america/grand_juncti/97.7 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7060_24k.aac"
+        },
+        {
+            name: "Air1 98.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "99.9 KEKB",
@@ -2591,6 +2636,11 @@ var stations = {
         },
     ],
     "idaho_falls": [
+        {
+            name: "Air1 90.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
         {
             name: "KISU FM 91",
             logo: "stations/images-america/idaho_falls/KISU FM 91.png",
@@ -3187,6 +3237,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
+            name: "Air1 89.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "91.5 Jazz & More",
             logo: "stations/images-america/las_vegas/91.5 Jazz & More.png",
             url: "http://131.216.101.42:8000/stream/2/"
@@ -3584,7 +3639,7 @@ var stations = {
         {
             name: "Air1 92.3-HD3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://stream.revma.ihrhls.com/zc5163/hls.m3u8"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "93.1 Jack FM",
@@ -4816,6 +4871,11 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KFNN"
         },
         {
+            name: "Air1 105.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "KMLE 107.9",
             logo: "stations/images-america/phoenix/KMLE 107.9.png",
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
@@ -4973,6 +5033,11 @@ var stations = {
         },
     ],
     "portland": [
+        {
+            name: "Air1 88.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
         {
             name: "KMHD 89.1",
             logo: "stations/images-america/portland/KMHD 89.1.png",
@@ -5354,6 +5419,11 @@ var stations = {
             url: "https://jpr-ice.streamguys1.com/jpr-news"
         },
         {
+            name: "Air1 90.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "KFOI 90.9",
             logo: "stations/images-america/redbluff/KFOI 90.9.png",
             url: "http://75.128.17.88:88/broadwave.mp3"
@@ -5420,6 +5490,11 @@ var stations = {
         },
     ],
     "reno": [
+        {
+            name: "Air1 88.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/0_general_logos/KUNR.png",
@@ -5655,6 +5730,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRXQFMAAC_SC"
         },
         {
+            name: "Air1 98.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "NOW 100.5",
             logo: "stations/images-america/sacramento/Now 100.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZZOFM_SC"
@@ -5814,6 +5894,11 @@ var stations = {
             name: "KCPW 88.3",
             logo: "stations/images-america/salt_lake/KCPW 88.3.png",
             url: "http://stream.xmission.com/kcpw"
+        },
+        {
+            name: "Air1 89.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "kuer 90.1",
@@ -6104,6 +6189,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
         },
         {
+            name: "Air1 92.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "Magic 92.5",
             logo: "stations/images-america/san_diego/Magic 92.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRMFMAAC_SC"
@@ -6371,6 +6461,11 @@ var stations = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KBLXFMAAC_SC"
         },
         {
+            name: "Air1 103.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
             name: "iHeart80s @ 103.7",
             logo: "stations/images-america/san_francisco/iHeart80s @ 103.7.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
@@ -6454,6 +6549,11 @@ var stations = {
         },
     ],
     "seattle": [
+        {
+            name: "Air1 88.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
         {
             name: "KNKX 88.5",
             logo: "stations/images-america/0_general_logos/KNKX.png",
@@ -6856,6 +6956,11 @@ var stations = {
             name: "Hooptown 101.5",
             logo: "stations/images-america/spokane/Hooptown 101.5.png",
             url: "https://stream.revma.ihrhls.com/zc8556/hls.m3u8"
+        },
+        {
+            name: "Air1 101.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "103.1 KCDA",
@@ -7354,6 +7459,11 @@ var stations = {
             name: "93.7 KRQ",
             logo: "stations/images-america/tucson/93.7 KRQ.png",
             url: "https://stream.revma.ihrhls.com/zc77/hls.m3u8"
+        },
+        {
+            name: "Air1 96.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
             name: "97.1 The Bull",
