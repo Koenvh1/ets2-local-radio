@@ -21729,8 +21729,8 @@ var stations_c2c = {
             url: "https://cors-anywhere.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSMWFMAAC_SC"
         },
         {
-            name: "99.5 WMAG",
-            logo: "stations/images-america/c2c/greensboro_nc/99.5 WMAG_christmas.png",
+            name: "Mix 99.5",
+            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1621/hls.m3u8"
         },
         {
