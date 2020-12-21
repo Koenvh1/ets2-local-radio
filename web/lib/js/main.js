@@ -349,7 +349,7 @@ function setRadioStation(url, country, volume) {
                 cleanUrl = cleanUrl.split("?")[0];
             }
 
-            if (cleanUrl.startsWith("https://cors-anywhere.herokuapp.com")) {
+            if (cleanUrl.startsWith("https://corslocalradio.herokuapp.com")) {
                 $("#player").attr("crossorigin", "anonymous");
             } else {
                 $("#player").removeAttr("crossorigin");
