@@ -18065,11 +18065,6 @@ var stations_c2c = {
             url: "https://ice-1.streamhoster.com/lv_wsna1--supertalkmississippigulfcoast"
         },
         {
-            name: "103.5 The Possum",
-            logo: "stations/images-america/c2c/gulfport_ms/103.5 The Possum.png",
-            url: "https://live.wostreaming.net/manifest/telesouth-wangamaac-ibc1"
-        },
-        {
             name: "News Talk 104.9",
             logo: "stations/images-america/c2c/gulfport_ms/News Talk 104.9.png",
             url: "https://stream.revma.ihrhls.com/zc1237/hls.m3u8"
@@ -18078,6 +18073,11 @@ var stations_c2c = {
             name: "105.9 The Monkey",
             logo: "stations/images-america/c2c/gulfport_ms/105.9 The Monkey.png",
             url: "https://live.wostreaming.net/manifest/telesouth-wxykfmaac-ibc1"
+        },
+        {
+            name: "106.3 Casino Radio",
+            logo: "stations/images-america/c2c/gulfport_ms/106.3 Casino Radio.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wangamaac-ibc1"
         },
         {
             name: "Kicker 108",
@@ -23960,6 +23960,11 @@ var stations_c2c = {
             name: "WVIA 99.3",
             logo: "stations/images-america/c2c/scranton_pa/WVIA 89.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVIAFMAAC_SC"
+        },
+        {
+            name: "Loud 99.5",
+            logo: "stations/images-america/c2c/allentown_pa/Loud 99.5.png",
+            url: "https://ice23.securenetsystems.net/WEST"
         },
         {
             name: "99.9 The Hawk",
