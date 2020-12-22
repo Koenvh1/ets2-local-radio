@@ -1161,6 +1161,11 @@ var stations = {
     ],
     "germany": [
         {
+            name: "80s80s",
+            logo: "stations/images-europe/germany/80s80s.png",
+            url: "https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq"
+        },
+        {
             name: "Absolut Bella",
             logo: "stations/images-europe/germany/Absolut Bella.png",
             url: "https://absolutradio.stream24.net/absolut-bella.mp3"
@@ -1209,6 +1214,11 @@ var stations = {
             name: "DRadio DokDeb",
             logo: "stations/images-europe/germany/DRadio DokDeb.png",
             url: "https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac"
+        },
+        {
+            name: "dpd DRIVER`S RADIO",
+            logo: "stations/images-europe/germany/dpd DRIVER`S RADIO.png",
+            url: "https://edge05.streamonkey.net/dpd-driversradio"
         },
         {
             name: "ENERGY Digital",

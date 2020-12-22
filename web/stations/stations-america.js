@@ -5991,8 +5991,8 @@ var stations = {
             url: "https://corslocalradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
         },
         {
-            name: "Rewind 100.7",
-            logo: "stations/images-america/salt_lake/Rewind 100.7.png",
+            name: "100.7 BOB FM",
+            logo: "stations/images-america/salt_lake/100.7 BOB FM.png",
             url: "https://ais-sa1.streamon.fm/7164_48k.aac"
         },
         {
