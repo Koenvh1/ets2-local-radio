@@ -723,6 +723,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kcixfmaac-ibc3"
         },
         {
+            name: "La GranD 106.3",
+            logo: "stations/images-america/boise/La GranD 106.3.png",
+            url: "https://ice9.securenetsystems.net/KDBI"
+        },
+        {
             name: "KIDO 107.5",
             logo: "stations/images-america/boise/KIDO 107.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kidoamaac-ibc3"
@@ -995,9 +1000,9 @@ var stations = {
             url: "https://ic2.sslstream.com/kchg-fm"
         },
         {
-            name: "kuer 90.1",
+            name: "KUER 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
+            url: "http://audio.KUER.org:8000/high"
         },
         {
             name: "Thunder 91.1",
@@ -3483,9 +3488,9 @@ var stations = {
     ],
     "logan": [
         {
-            name: "kuer 90.1",
+            name: "KUER 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
+            url: "http://audio.KUER.org:8000/high"
         },
         {
             name: "UPR 91.5",
@@ -4062,9 +4067,9 @@ var stations = {
             url: "http://tektite.streamguys1.com:5450/live"
         },
         {
-            name: "kuer 91.7",
+            name: "KUER 91.7",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
+            url: "http://audio.KUER.org:8000/high"
         },
         {
             name: "K98.3 @ 94.3",
@@ -4681,7 +4686,7 @@ var stations = {
         {
             name: "96.5 KUMA",
             logo: "stations/images-america/pendleton/96.5 KUMA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUMAAMAAC_SC"
+            url: "https://corslocalradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KUMAAMAAC_SC"
         },
         {
             name: "97Rock",
@@ -5911,18 +5916,18 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
-            name: "kuer 90.1",
+            name: "KUER 90.1",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
+            url: "http://audio.KUER.org:8000/high"
         },
         {
-            name: "kuer 90.1-HD2",
+            name: "BBC World Service 90.1-HD2",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
             url: "https://audio.kuer.org/kuer2high"
         },
         {
-            name: "kuer 90.1-HD3",
-            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            name: "KUER Classical 90.1-HD3",
+            logo: "stations/images-america/0_general_logos/KUER Classical.png",
             url: "https://audio.kuer.org/kuer3high"
         },
         {
@@ -5964,6 +5969,11 @@ var stations = {
             name: "97.1 ZHT",
             logo: "stations/images-america/salt_lake/97.1 ZHT.png",
             url: "https://stream.revma.ihrhls.com/zc2405/hls.m3u8"
+        },
+        {
+            name: "97.5 The Zone",
+            logo: "stations/images-america/salt_lake/The Zone.png",
+            url: "https://live.wostreaming.net/direct/utahjazz-kznsfmaac-ibc4"
         },
         {
             name: "NOW 97.9",
@@ -6056,8 +6066,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7350_48k.aac"
         },
         {
-            name: "Talk Radio 105.9",
-            logo: "stations/images-america/salt_lake/Talk Radio 105.9.png",
+            name: "105.9 KNRS",
+            logo: "stations/images-america/salt_lake/105.9 KNRS.png",
             url: "https://stream.revma.ihrhls.com/zc2389/hls.m3u8"
         },
         {
@@ -6074,6 +6084,26 @@ var stations = {
             name: "ALT 106.7-HD2",
             logo: "stations/images-america/0_general_logos/ALT Radio.png",
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
+        {
+            name: "BYU Radio 107.9",
+            logo: "stations/images-america/salt_lake/BYU Radio 107.9.png",
+            url: "https://radio.byub.org/byuradio/byuradio_aac"
+        },
+        {
+            name: "ESPN 700",
+            logo: "stations/images-america/salt_lake/ESPN 700.png",
+            url: "https://ais-sa1.streamon.fm/7349_48k.aac"
+        },
+        {
+            name: "860 KKAT",
+            logo: "stations/images-america/salt_lake/860 KKAT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAMAAC_SC"
+        },
+        {
+            name: "1280 The Zone",
+            logo: "stations/images-america/salt_lake/The Zone.png",
+            url: "https://live.wostreaming.net/direct/utahjazz-kznsamaac-ibc4"
         },
     ],
     "santa_fe": [
@@ -7012,6 +7042,11 @@ var stations = {
             logo: "stations/images-america/spokane/590 KQNT.png",
             url: "https://stream.revma.ihrhls.com/zc4952/hls.m3u8"
         },
+        {
+            name: "1230 KSBN",
+            logo: "stations/images-america/spokane/1230 KSBN.png",
+            url: "https://ic1.sslstream.com/ksbn-am"
+        },
     ],
 	"steamboat_sp": [
         {
@@ -7722,9 +7757,9 @@ var stations = {
             url: "http://uprxstreamer.usu.edu:8000/stream"
         },
         {
-            name: "kuer 89.3",
+            name: "KUER 89.3",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.kuer.org:8000/high"
+            url: "http://audio.KUER.org:8000/high"
         },
         {
             name: "Channel X94",
