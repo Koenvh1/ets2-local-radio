@@ -3352,11 +3352,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6967/hls.m3u8"
         },
         {
-            name: "104.3 NOW FM",
-            logo: "stations/images-america/las_vegas/104.3 NOW FM.png",
-            url: "https://ice10.securenetsystems.net/KFRH"
-        },
-        {
             name: "La Tricolor 105.1",
             logo: "stations/images-america/las_vegas/La Tricolor 105.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQRTFMAAC_SC"
@@ -3400,11 +3395,6 @@ var stations = {
             name: "AM670 KMZQ",
             logo: "stations/images-america/las_vegas/AM670 KMZQ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMZQAMAAC_SC"
-        },
-        {
-            name: "790 KBET",
-            logo: "stations/images-america/las_vegas/790 KBET.png",
-            url: "https://ice9.securenetsystems.net/KBET"
         },
         {
             name: "840 KXNT",
