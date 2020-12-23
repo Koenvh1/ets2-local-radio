@@ -3352,6 +3352,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6967/hls.m3u8"
         },
         {
+            name: "104.3 NOW FM",
+            logo: "stations/images-america/las_vegas/104.3 NOW FM.png",
+            url: "https://ice10.securenetsystems.net/KFRH"
+        },
+        {
             name: "La Tricolor 105.1",
             logo: "stations/images-america/las_vegas/La Tricolor 105.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQRTFMAAC_SC"
@@ -3392,6 +3397,16 @@ var stations = {
             url: "https://corslocalradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
         },
         {
+            name: "AM670 KMZQ",
+            logo: "stations/images-america/las_vegas/AM670 KMZQ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMZQAMAAC_SC"
+        },
+        {
+            name: "790 KBET",
+            logo: "stations/images-america/las_vegas/790 KBET.png",
+            url: "https://ice9.securenetsystems.net/KBET"
+        },
+        {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
             url: "https://corslocalradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KXNTAMAAC_SC"
@@ -3405,6 +3420,16 @@ var stations = {
             name: "CBS Sports Radio 1140",
             logo: "stations/images-america/las_vegas/CBS Sports Radio 1140.png",
             url: "https://corslocalradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KXSTAMAAC_SC"
+        },
+        {
+            name: "1230 The Game",
+            logo: "stations/images-america/las_vegas/1230 The Game.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLAVAMAAC_SC"
+        },
+        {
+            name: "1400 KSHP",
+            logo: "stations/images-america/las_vegas/1400 KSHP.png",
+            url: "https://ice24.securenetsystems.net/KSHP"
         },
     ],
     "leevining": [
@@ -7441,9 +7466,9 @@ var stations = {
             url: "http://shoutcast.kvan.fm:8000/radio"
         },
         {
-            name: "Toño 92.5",
-            logo: "stations/images-america/tucson/Toño 92.5.png",
-            url: "http://s5.mexside.net:8322/stream"
+            name: "92.5 Urbana",
+            logo: "stations/images-america/tucson/92.5 Urbana.png",
+            url: "https://bustosradio.com:9055/urbana92"
         },
         {
             name: "My 92.9",
