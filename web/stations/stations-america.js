@@ -8499,6 +8499,13 @@ var stations_mexico = {
             url: "https://sts.pergom.mx/xhsb"
         }
     ],
+    "guachoch": [
+        {
+            name: "La Patrona",
+            logo: "stations/images-america/mexico/chihuahua/patrona.png",
+            url: "https://streamingcwsradio30.com/8132/stream"
+        },
+    ],
     "guamuchil": [
         {
             name: "Ke Buena",
