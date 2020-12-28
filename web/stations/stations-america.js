@@ -24718,8 +24718,8 @@ var stations_c2c = {
             url: "https://corslocalradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
-            name: "Christmas 92.1 @ 102.7",
-            logo: "stations/images-america/c2c/scranton_pa/ALT 92.1_christmas.png",
+            name: "Q92.1 @ 102.7",
+            logo: "stations/images-america/c2c/scranton_pa/Q92.1.png",
             url: "https://ais-sa1.streamon.fm/7248_48k.aac"
         },
         {
@@ -25713,8 +25713,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/clearmedia-wnooamaac-ibc1"
         },
         {
-            name: "Country 107.9",
-            logo: "stations/images-america/c2c/chattanooga_tn/Country 107.9.png",
+            name: "107.9 Country",
+            logo: "stations/images-america/c2c/chattanooga_tn/107.9 Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOGTFMAAC_SC"
         },
     ],
