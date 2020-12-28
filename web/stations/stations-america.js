@@ -1503,7 +1503,7 @@ var stations = {
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/denver/KOSI 101.1.png",
+            logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
         },
         {
@@ -21928,8 +21928,8 @@ var stations_c2c = {
             url: "http://wunc-ice.streamguys1.com/wunc-hd2-128-mp3"
         },
         {
-            name: "Star 92.9",
-            logo: "stations/images-america/c2c/raleigh_nc/Star 92.9.png",
+            name: "Rock 92.9",
+            logo: "stations/images-america/c2c/raleigh_nc/Rock 92.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQDRAMAAC_SC"
         },
         {
@@ -29959,18 +29959,6 @@ var stations_c2c = {
             name: "1480 KRAE",
             logo: "stations/images-america/c2c/cheyenne_wy/1480 KRAE.png",
             url: "http://ice7.securenetsystems.net/KYOYFM"
-        },
-    ],
-    "evanston": [
-        {
-            name: "WPR 89.7",
-            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
-            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
-        },
-        {
-            name: "Wildlife 98.3",
-            logo: "stations/images-america/c2c/evanston_wy/Wildlife 98.3.png",
-            url: "http://stream.sandhillradio.com:10101/KADQ"
         },
     ],
     "gillette_wy": [

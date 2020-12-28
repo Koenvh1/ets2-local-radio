@@ -549,7 +549,7 @@ var country_properties = {
         name: "Sterling",
         name_english: "Sterling",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "monterey": {
         name: "Monterey",
@@ -828,7 +828,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "fort_collins": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "glenwood_springs": {
         relative_whitenoise: 0.90
@@ -3467,7 +3467,7 @@ var country_properties_c2c = {
         name: "McCook",
         name_english: "McCook",
         code: "us-ne",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "north_platte": {
         name: "North Platte",
@@ -4386,12 +4386,6 @@ var country_properties_c2c = {
         name_english: "cheyenne",
         code: "us-wy",
         relative_radius: 0.9
-    },
-    "evanston": {
-        name: "evanston",
-        name_english: "evanston",
-        code: "us-wy",
-        relative_radius: 0.8
     },
     "gillette_wy": {
         name: "gillette",
@@ -5363,9 +5357,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "cheyenne": {
-        relative_whitenoise: 0.95
-    },
-    "evanston": {
         relative_whitenoise: 0.95
     },
     "gillette_wy": {
@@ -7566,14 +7557,6 @@ var cities_c2c = [
         "x": "-36591.9",
         "y": "655.961",
         "z": "-14475.8"
-    },
-    {
-        "gameName": "evanston",
-        "realName": "Evanston",
-        "country": "wyoming",
-        "x": "-62754.5",
-        "y": "269.175",
-        "z": "-18060.2"
     },
     {
         "gameName": "gillette_wy",
