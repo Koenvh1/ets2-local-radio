@@ -8506,6 +8506,18 @@ var stations_mexico = {
             url: "https://streamingcwsradio30.com/8132/stream"
         },
     ],
+    "jimenez": [
+        {
+            name: "Halcón Stereo",
+            logo: "stations/images-america/mexico/chihuahua/halcon.png",
+            url: "http://167.114.173.72:8054/;type=mp3"
+        },
+        {
+            name: "La Campera 92.9 FM",
+            logo: "stations/images-america/mexico/chihuahua/campera.png",
+            url: "https://node-32.zeno.fm/bn3kza1f1mruv?rj-ttl=5&rj-tok=AAABdqq1pLoABL5xAP7KL0HWJw"
+        },
+    ],
     "guamuchil": [
         {
             name: "Ke Buena",
