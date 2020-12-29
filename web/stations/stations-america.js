@@ -277,6 +277,21 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1385/hls.m3u8"
         },
         {
+            name: "Conservative Talk ABQ AM730",
+            logo: "stations/images-america/albuquerque/Conservative Talk ABQ AM730.png",
+            url: "https://2-fss-2.streamhoster.com/pl_120/200226-1376722-1/playlist.m3u8"
+        },
+        {
+            name: "1000 KKIM",
+            logo: "stations/images-america/albuquerque/1000 KKIM.png",
+            url: "https://ice9.securenetsystems.net/KKIMAM"
+        },
+        {
+            name: "1190 The Answer",
+            logo: "stations/images-america/albuquerque/1190 The Answer.png",
+            url: "https://ice41.securenetsystems.net/KXKS"
+        },
+        {
             name: "iHeart Podcast 1350",
             logo: "stations/images-america/albuquerque/iHeart Podcast 1350.png",
             url: "https://stream.revma.ihrhls.com/zc1401/hls.m3u8"
@@ -805,48 +820,6 @@ var stations = {
             name: "New Life Radio 95.9",
             logo: "stations/images-america/burns/New Life Radio 97.5.png",
             url: "http://ic1.christiannetcast.com/knlr-fm"
-        },
-    ],
-    "camp_verde": [
-        {
-            name: "KNAU 88.7",
-            logo: "stations/images-america/0_general_logos/KNAU.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
-        },
-        {
-            name: "95.9 The Cloud",
-            logo: "stations/images-america/camp_verde/95.9 The Cloud.png",
-            url: "https://live.wostreaming.net/manifest/yavapai-kkldfmaac-ibc1"
-        },
-        {
-            name: "Magic 99.1",
-            logo: "stations/images-america/camp_verde/Magic 99.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTMGFMAAC_SC"
-        },
-        {
-            name: "100.One",
-            logo: "stations/images-america/flagstaff/100.One.png",
-            url: "https://live.wostreaming.net/direct/yavapai-kvnafmaac-ibc1"
-        },
-        {
-            name: "Q102.9",
-            logo: "stations/images-america/flagstaff/Q102.9.png",
-            url: "https://live.wostreaming.net/direct/yavapai-kqstfmmp3-ibc1"
-        },
-        {
-            name: "KVRD 105.7",
-            logo: "stations/images-america/flagstaff/KVRD Country 105.7.png",
-            url: "https://live.wostreaming.net/manifest/yavapai-kvrdfmmp3-ibc1"
-        },
-        {
-            name: "Hits 106",
-            logo: "stations/images-america/flagstaff/Hits 106.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFMAAC_SC"
-        },
-        {
-            name: "107.5 KOLT",
-            logo: "stations/images-america/flagstaff/107.5 KOLT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFMAAC_SC"
         },
     ],
     "carlsbad_nm": [
@@ -1941,7 +1914,7 @@ var stations = {
         },
         {
             name: "95.9 The Cloud",
-            logo: "stations/images-america/camp_verde/95.9 The Cloud.png",
+            logo: "stations/images-america/flagstaff/95.9 The Cloud.png",
             url: "https://live.wostreaming.net/manifest/yavapai-kkldfmaac-ibc1"
         },
         {
@@ -4906,6 +4879,11 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
+            name: "La Mejor 106.5",
+            logo: "stations/images-america/phoenix/La Mejor 106.5.png",
+            url: "https://stream8.mexiserver.com/lamejor/lamejor/playlist.m3u8"
+        },
+        {
             name: "KMLE 107.9",
             logo: "stations/images-america/phoenix/KMLE 107.9.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
@@ -4921,14 +4899,34 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc37/hls.m3u8"
         },
         {
+            name: "FOX Sports 910",
+            logo: "stations/images-america/phoenix/FOX Sports 910.png",
+            url: "https://stream.revma.ihrhls.com/zc41/hls.m3u8"
+        },
+        {
             name: "960 The Patriot",
             logo: "stations/images-america/phoenix/960 The Patriot.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNTAMAAC_SC"
         },
         {
+            name: "Family Values Radio 1010",
+            logo: "stations/images-america/phoenix/Family Values Radio 1010.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXXTAMAAC_SC"
+        },
+        {
+            name: "KDUS 1060",
+            logo: "stations/images-america/phoenix/KDUS 1060.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDUSAMAAC_SC"
+        },
+        {
             name: "1100 KFNX",
             logo: "stations/images-america/phoenix/1100 KFNX.png",
             url: "https://crystalout.surfernetwork.com:8001/KFNX_MP3"
+        },
+        {
+            name: "1360 KPXQ",
+            logo: "stations/images-america/phoenix/1360 KPXQ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
         },
     ],
     "pioche": [

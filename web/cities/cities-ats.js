@@ -83,12 +83,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.85
     },
-    "camp_verde": {
-        name: "Camp Verde",
-        name_english: "Camp Verde",
-        code: "us-az",
-        relative_radius: 1.2
-    },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
         name_english: "Carlsbad (NM)",
@@ -773,9 +767,6 @@ var city_properties = {
     "burns": {
         relative_whitenoise: 0.85
     },
-    "camp_verde": {
-        relative_whitenoise: 0.95
-    },
     "carson_city": {
         relative_whitenoise: 0.80
     },
@@ -1100,14 +1091,6 @@ var cities = [
         "x": "-96896.6",
         "y": "154.188",
         "z": "-1977.68"
-    },
-    {
-        "gameName": "camp_verde",
-        "realName": "Camp Verde",
-        "country": "arizona",
-        "x": "-73776.6",
-        "y": "127.855",
-        "z": "19211.8"
     },
     {
         "gameName": "carson_city",
