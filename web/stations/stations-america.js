@@ -2144,6 +2144,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3421/hls.m3u8"
         },
         {
+            name: "El Patrón 92.9-HD2",
+            logo: "stations/images-america/fresno/El Patrón 92.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7004/hls.m3u8"
+        },
+        {
             name: "93.7 Kiss Country",
             logo: "stations/images-america/fresno/93.7 Kiss Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFMAAC_SC"
@@ -2212,6 +2217,11 @@ var stations = {
             name: "102.7 The Wolf",
             logo: "stations/images-america/fresno/102.7 The Wolf.png",
             url: "https://stream.revma.ihrhls.com/zc145/hls.m3u8"
+        },
+        {
+            name: "Salsa Bembé 102.7-HD2",
+            logo: "stations/images-america/fresno/Salsa Bembé 102.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7192/hls.m3u8"
         },
         {
             name: "103.7 The Beat",
@@ -15606,6 +15616,11 @@ var stations_c2c = {
             name: "98.5 WYLD",
             logo: "stations/images-america/c2c/new_orleans_la/98.5 WYLD.png",
             url: "https://stream.revma.ihrhls.com/zc1053/hls.m3u8"
+        },
+        {
+            name: "Sweat Hotel with Keith Sweat 98.5-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/Sweat Hotel with Keith Sweat 98.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6529/hls.m3u8"
         },
         {
             name: "WXDR 99.1",
