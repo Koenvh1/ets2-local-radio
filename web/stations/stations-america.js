@@ -3953,7 +3953,7 @@ var stations = {
         {
             name: "95.7 KBOY",
             logo: "stations/images-america/medford/95.7 KBOY.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBOYFMAAC_SC"
+            url: "https://ice6.securenetsystems.net/KBOY"
         },
         {
             name: "The Game 96.1",
