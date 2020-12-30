@@ -549,7 +549,7 @@ var country_properties = {
         name: "Monterey",
         name_english: "Monterey",
         code: "us-ca",
-        relative_radius: 0.9
+        relative_radius: 0.75
     },
     "santa_fe": {
         name: "Santa Fe",
@@ -900,7 +900,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "modesto": {
-        relative_whitenoise: 0.70
+        relative_whitenoise: 0.80
     },
     "montrose": {
         relative_whitenoise: 0.90
@@ -978,7 +978,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "monterey": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "santa_fe": {
         relative_whitenoise: 0.90
@@ -1776,9 +1776,9 @@ var cities = [
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "california",
-        "x": "-110338",
-        "y": "21.0421",
-        "z": "-6703.49"
+        "x": "-110170",
+        "y": "39.3146",
+        "z": "-6400.11"
     },
     {
         "gameName": "needles",
