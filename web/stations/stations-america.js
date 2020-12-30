@@ -3700,11 +3700,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/sbsystems-klaxfmaac-ib-64"
         },
         {
-            name: "98.2 The Beat",
-            logo: "stations/images-america/los_angeles/98.2 The Beat.png",
-            url: "http://198.7.62.157:8007/stream"
-        },
-        {
             name: "ALT 98.7",
             logo: "stations/images-america/los_angeles/ALT 98.7.png",
             url: "https://stream.revma.ihrhls.com/zc201/hls.m3u8"
@@ -3746,7 +3741,7 @@ var stations = {
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -3818,16 +3813,6 @@ var stations = {
             name: "KNX 1070",
             logo: "stations/images-america/los_angeles/KNX 1070.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC_SC"
-        },
-        {
-            name: "KXSC 1560",
-            logo: "stations/images-america/los_angeles/KXSC 1560.png",
-            url: "http://68.181.136.188:8000/;"
-        },
-        {
-            name: "KLIQ 1670",
-            logo: "stations/images-america/los_angeles/KLIQ 1670.png",
-            url: "http://psn3.prostreaming.net:8202/1"
         },
     ],
     "ltahoe": [
@@ -4786,7 +4771,7 @@ var stations = {
         {
             name: "Your '70s Playlist 94.5-HD2",
             logo: "stations/images-america/phoenix/Your '70s Playlist 94.5-HD2.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOOLHD2AAC_SC"
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOOLHD3AAC_SC"
         },
         {
             name: "95.1 The Wow Factor",
@@ -4871,7 +4856,7 @@ var stations = {
         {
             name: "KDIF 102.9",
             logo: "stations/images-america/phoenix/KDIF 102.9.png",
-            url: "https://freeus2.listen2myradio.com/live.mp3?typeportmount=s1_35662_stream_451156609"
+            url: "https://freeus3.listen2myradio.com/live.mp3?typeportmount=s1_7601_stream_552405756"
         },
         {
             name: "La Tricolor 103.5",
@@ -4922,6 +4907,11 @@ var stations = {
             name: "550 KFYI",
             logo: "stations/images-america/phoenix/550 KFYI.png",
             url: "https://stream.revma.ihrhls.com/zc37/hls.m3u8"
+        },
+        {
+            name: "ESPN 620",
+            logo: "stations/images-america/phoenix/ESPN 620.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAMAAC_SC"
         },
         {
             name: "FOX Sports 910",
