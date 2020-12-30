@@ -1148,8 +1148,8 @@ var stations = {
         },
         {
             name: "Way FM 99.9-HD2",
-            logo: "stations/images-america/portland/96.3 Way FM.png",
-            url: "http://wayfm.streamguys1.com/wayw.mp3"
+            logo: "stations/images-america/0_general_logos/Way FM.png",
+            url: "http://wayfm.streamguys1.com/wayw.aac"
         },
         {
             name: "KSPK 100.3",
@@ -3946,14 +3946,19 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KTMT"
         },
         {
+            name: "95.1 The Wolf",
+            logo: "stations/images-america/medford/95.1 The Wolf.png",
+            url: "https://ice6.securenetsystems.net/KAKTHD2"
+        },
+        {
             name: "95.7 KBOY",
             logo: "stations/images-america/medford/95.7 KBOY.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBOYFMAAC_SC"
         },
         {
-            name: "KIX 96",
-            logo: "stations/images-america/klamath_falls/KIX 96.png",
-            url: "http://ice10.securenetsystems.net/KFLSFM"
+            name: "The Game 96.1",
+            logo: "stations/images-america/medford/The Game 96.1.png",
+            url: "https://ice42.securenetsystems.net/KTMTAM"
         },
         {
             name: "The Rogue 96.9",
@@ -3981,6 +3986,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/grantspass-kajoamaac-ibc2"
         },
         {
+            name: "Q100.3",
+            logo: "stations/images-america/medford/Q100.3.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRWQFMAAC_SC"
+        },
+        {
             name: "Lite 102",
             logo: "stations/images-america/medford/Lite 102.png",
             url: "https://ice6.securenetsystems.net/KCMX"
@@ -3991,9 +4001,24 @@ var stations = {
             url: "http://ic2.mainstreamnetwork.com/kcna-fm"
         },
         {
+            name: "KOOL 103",
+            logo: "stations/images-america/medford/KOOL 103.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLDZFMAAC_SC"
+        },
+        {
             name: "105.1 The Wolf",
             logo: "stations/images-america/medford/105.1 The Wolf.png",
             url: "https://ice6.securenetsystems.net/KAKT"
+        },
+        {
+            name: "The Valley 106.3",
+            logo: "stations/images-america/medford/The Valley 106.3.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KYVLFMAAC_SC"
+        },
+        {
+            name: "106.7 KMED",
+            logo: "stations/images-america/medford/106.7 KMED.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMEDAMAAC_SC"
         },
         {
             name: "107.5 KISS FM",
@@ -5128,8 +5153,8 @@ var stations = {
         },
         {
             name: "96.3 Way FM",
-            logo: "stations/images-america/portland/96.3 Way FM.png",
-            url: "http://wayfm.streamguys1.com/wayw.mp3"
+            logo: "stations/images-america/0_general_logos/Way FM.png",
+            url: "http://wayfm.streamguys1.com/wayw.aac"
         },
         {
             name: "97.1 Charlie",
@@ -25765,6 +25790,11 @@ var stations_c2c = {
     ],
     "jackson_tn": [
         {
+            name: "Way FM 89.3",
+            logo: "stations/images-america/0_general_logos/Way FM.png",
+            url: "http://wayfm.streamguys1.com/wayw.aac"
+        },
+        {
             name: "WKNP 90.1",
             logo: "stations/images-america/c2c/memphis_tn/WKNO 91.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOFM_SC"
@@ -25780,13 +25810,13 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/forevercomm-whhgfmaac-ibc4"
         },
         {
-            name: "WTJS 93.1",
-            logo: "stations/images-america/c2c/jackson_tn/WTJS 93.1.png",
-            url: "http://173.249.0.141:8065/stream"
+            name: "93.1 WTJS",
+            logo: "stations/images-america/c2c/jackson_tn/93.1 WTJS.png",
+            url: "https://s4.citrus3.com:8166/stream"
         },
         {
-            name: "Willie 94.1",
-            logo: "stations/images-america/c2c/jackson_tn/Willie 94.1.png",
+            name: "Tennessee Patriot Network 94.1",
+            logo: "stations/images-america/c2c/jackson_tn/Tennessee Patriot Network 94.1.png",
             url: "https://live.wostreaming.net/direct/forevercomm-wlyefmaac-ibc4"
         },
         {
@@ -25795,7 +25825,7 @@ var stations_c2c = {
             url: "http://ice23.securenetsystems.net/WFKX"
         },
         {
-            name: "Hot 96.1",
+            name: "HOT 96.1",
             logo: "stations/images-america/c2c/jackson_tn/Hot 96.1.png",
             url: "https://ice10.securenetsystems.net/WJAK"
         },
@@ -25808,6 +25838,11 @@ var stations_c2c = {
             name: "WLCD 98.7",
             logo: "stations/images-america/c2c/jackson_tn/WLCD 98.7.png",
             url: "http://64.78.234.165:8000/WLCD"
+        },
+        {
+            name: "100 Jack FM",
+            logo: "stations/images-america/c2c/jackson_tn/100 Jack FM.png",
+            url: "https://ice10.securenetsystems.net/WASL"
         },
         {
             name: "NewsTalk 101.5",
