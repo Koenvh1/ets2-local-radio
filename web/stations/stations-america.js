@@ -8221,8 +8221,8 @@ var stations_mexico = {
         },
         {
             name: "La Mejor 98.5",
-            logo: "stations/images-america/mexico/sonora/lamejor.png",
-            url: "https://22213.live.streamtheworld.com/XHBH_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBACsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNTU2ODYwMSwiaXNzIjoidGlzcnYifQ.pyrdGymPNidd2hu8r4i_SBcjdVTwf_VesqldQFTSYRo"
+            logo: "stations/images-america/mexico/sonora/mejorh.png",
+            url: "https://22213.live.streamtheworld.com/XHBH_SC"
         },
         {
             name: "La Voz del Pitic",
@@ -8273,11 +8273,6 @@ var stations_mexico = {
             name: "97.1 FM",
             logo: "stations/images-america/mexico/sonora/97.png",
             url: "http://198.50.156.92:8559/;stream/1"
-        },
-        {
-            name: "La Mejor 98.5",
-            logo: "stations/images-america/mexico/sonora/mejorh.png",
-            url: "https://22213.live.streamtheworld.com/XHBH_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBACsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNTY1MTI3NSwiaXNzIjoidGlzcnYifQ.DHW3JC_DK723JqjMGEwmRBTTAxTe8sCUaQI7C4UEDOc"
         },
         {
             name: "Stereo 100.3",
@@ -8445,12 +8440,12 @@ var stations_mexico = {
         {
             name: "La Mejor 96.7",
             logo: "stations/images-america/mexico/shared/lamejor.png",
-            url: "https://15363.live.streamtheworld.com/XHNGS_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNjA2MTQxNzAxLCJ0ZC1yZWciOmZhbHNlfQ.vBZeqNC7QxZdfuYM8Y7_nljcq4E8z3UUX_pLl17mSWY&gdpr_consent=CO8nsPHO8nsPHAcABBENBBCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjE0MTcwMSwiaXNzIjoidGlzcnYifQ.rMLmhGn2yUwvhrKLuWeetyFevLMOUfE0_KtTiNPuRvk"
+            url: "https://14103.live.streamtheworld.com/XHNGS_SC"
         },
         {
             name: "Exa FM",
             logo: "stations/images-america/mexico/shared/exa.png",
-            url: "https://20813.live.streamtheworld.com/XHQT_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr_consent=CO8nsPHO8nsPHAcABBENBBCsAP_AAH_AACiQHCQJgAMgAgABoAEWAJgAmgBSAC2AF8AUoAroB3AHeAU0As4BdQDgQH7AfwBFQCRAFNgLzgX-BgEDDQMlgZOBl0DMAM7AZ7Az8DRYGjgaRA0oDVIGrAa_A2EDZQGzwNqA24BuADcgG6QN2A3uBvoHAwODA4QDgoFQAGQAQAA0ACYAFIAL4ApYB3AHeAXUBFQCRAFNgLzAYbAw8DEAGJAMWAYwAx6BkIGSAMnAZUAyyBlwGXgM5AZ4Az4BoUDRANGgaQBpcDTQNOgakBqcDWANZAa8A2OBtAG0gNsAbcA3IBukDfwOAAcEAAAA.YAAAAAAAAAAA&gdpr=1&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYwNjE0MjAyOCwiaXNzIjoidGlzcnYifQ.awQjiL2PwnWhy12V9CcZB9S8G33TBMRKAdDd6lXIsAM"
+            url: "https://20813.live.streamtheworld.com/XHQT_SC"
         },
         {
             name: "Estéreo Genial",
@@ -8670,8 +8665,149 @@ var stations_mexico = {
             url: "http://s1.audiorama.mx:6600/;"
         },
     ],
+    "parral": [
+        {
+            name: "Magica 100.1",
+            logo: "stations/images-america/mexico/chihuahua/rom.png",
+            url: "http://streamingcwsradio30.com:8124/stream/;"
+        },
+        {
+            name: "La Capital de la Noticia",
+            logo: "stations/images-america/mexico/chihuahua/not.png",
+            url: "https://node-03.zeno.fm/61xzhxzc28quv?rj-ttl=5&rj-tok=AAABdg8GOl4AMfgAEcqZDQTFnw"
+        },
+        {
+            name: "La Caliente 101.7",
+            logo: "stations/images-america/mexico/chihuahua/La Caliente 101.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHATFMAAC_SC"
+        },
+        {
+            name: "@FM",
+            logo: "stations/images-america/mexico/chihuahua/fm.png",
+            url: "https://sts.pergom.mx/xhsb"
+        }
+    ],
+    "guachoch": [
+        {
+            name: "La Patrona",
+            logo: "stations/images-america/mexico/chihuahua/patrona.png",
+            url: "https://streamingcwsradio30.com/8132/stream"
+        },
+    ],
+    "jimenez": [
+        {
+            name: "Halcón Stereo",
+            logo: "stations/images-america/mexico/chihuahua/halcon.png",
+            url: "http://167.114.173.72:8054/;type=mp3"
+        },
+        {
+            name: "La Campera 92.9 FM",
+            logo: "stations/images-america/mexico/chihuahua/campera.png",
+            url: "https://node-32.zeno.fm/bn3kza1f1mruv?rj-ttl=5&rj-tok=AAABdqq1pLoABL5xAP7KL0HWJw"
+        },
+    ],
+    "guamuchil": [
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "http://grupochavezradio.com/radio/spots/92.mp3"
+        }, 
+        {
+            name: "La JL",
+            logo: "stations/images-america/mexico/sinaloa/jl.png",
+            url: "http://grupochavezradio.com/radio/spots/99.mp3"
+        },     
+    ],
+    "mazatlan": [
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/sinaloa/formula.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/mazih?1607208889236"
+        },
+        {
+            name: "La Jefa 104.3",
+            logo: "stations/images-america/mexico/sinaloa/jefa.png",
+            url: "https://radio.spiritmedia.mx/xhenx"
+        }, 
+        {
+            name: "La Nueva RJ",
+            logo: "stations/images-america/mexico/sinaloa/rj.png",
+            url: "http://audioout.gvstream.net/gpm-rj.aac"
+        },       
+    ],
+    "culiacan": [
+        {
+            name: "Ke Buena 91.9 FM",
+            logo: "stations/images-america/mexico/sinaloa/kebuena.png",
+            url: "https://icy.gvstream.live/radiotvmexico-kbuena919.aac"
+        },  
+        {
+            name: "La Comadre",
+            logo: "stations/images-america/mexico/sinaloa/comadre.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac"
+        },    
+        {
+            name: "Match 100.1 FM",
+            logo: "stations/images-america/mexico/sinaloa/match.png",
+            url: "https://15383.live.streamtheworld.com/XHCNAFM_SC"
+        },    
+        {
+            name: "Romántica",
+            logo: "stations/images-america/mexico/sinaloa/rom.png",
+            url: "https://secure.radiorama.mx:2133/"
+        }, 
+        {
+            name: "La Mejor FM 104.1",
+            logo: "stations/images-america/mexico/sinaloa/lamejor.png",
+            url: "https://icy.gvstream.live/gpm-cq.aac"
+        },
+        {
+            name: "Los 40",
+            logo: "stations/images-america/mexico/sinaloa/40.png",
+            url: "https://icy.gvstream.live/radiotvmexico-40principales929.aac"
+        },
+        {
+            name: "Radio Fórmula",
+            logo: "stations/images-america/mexico/sinaloa/formulac.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/culih?1608074836634"
+        },
+        {
+            name: "Exa FM",
+            logo: "stations/images-america/mexico/shared/exa.png",
+            url: "http://167.114.116.223:1082/;"
+        },
+             
+    ],
+    "los_mochis": [
+        {
+            name: "La Mexicana",
+            logo: "stations/images-america/mexico/sinaloa/mexicana.png",
+            url: "http://167.114.116.223:1044/;stream.nsv"
+        },  
+        {
+            name: "La Z",
+            logo: "stations/images-america/mexico/sinaloa/z.png",
+            url: "http://c2009.streamguys1.com/Mochis1"
+        },
+        {
+            name: "La Rancherita",
+            logo: "stations/images-america/mexico/sinaloa/rancherita.png",
+            url: "http://c2009.streamguys1.com/Mochis2"
+        }, 
+        {
+            name: "Vox 94.1",
+            logo: "stations/images-america/mexico/sinaloa/vox.png",
+            url: "https://icy.gvstream.live/gpm-pop.aac"
+        },          
+    ],
+    "guasave": [
+        {
+            name: "La Mera Jefa",
+            logo: "stations/images-america/mexico/sinaloa/mera.png",
+            url: "http://192.99.16.17:8804/stream.mp3"
+        },      
+    ],
 };
-
 
 var stations_c2c = {
     "anniston_al": [
