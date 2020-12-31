@@ -4011,48 +4011,6 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KIFSFMAAC_SC"
         },
     ],
-    "merced": [
-        {
-            name: "KUBB Country 96.3",
-            logo: "stations/images-america/merced/KUBB Country 96.3.png",
-            url: "https://ice9.securenetsystems.net/KUBB"
-        },
-        {
-            name: "CapRadio News 96.7",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
-        },
-        {
-            name: "K97.5",
-            logo: "stations/images-america/merced/K97.5.png",
-            url: "https://ice9.securenetsystems.net/KABX"
-        },
-        {
-            name: "Radio Lobo 98.7",
-            logo: "stations/images-america/merced/Radio Lobo 98.7.png",
-            url: "https://ice9.securenetsystems.net/KLOQ"
-        },
-        {
-            name: "104.1 The Hawk",
-            logo: "stations/images-america/modesto/104.1 The Hawk.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFMAAC_SC"
-        },
-        {
-            name: "HOT 104.7",
-            logo: "stations/images-america/merced/HOT 104.7.png",
-            url: "https://ice9.securenetsystems.net/KHTN"
-        },
-        {
-            name: "The Bear 105.7",
-            logo: "stations/images-america/merced/The Bear 105.7.png",
-            url: "https://ice9.securenetsystems.net/KBRE"
-        },
-        {
-            name: "107.3 KYOS",
-            logo: "stations/images-america/fresno/107.3 KYOS.png",
-            url: "https://ice42.securenetsystems.net/KYOS"
-        },
-    ],
     "moab": [
         {
             name: "UPR 88.7",
@@ -4127,6 +4085,11 @@ var stations = {
             url: "http://s35.myradiostream.com:31716/;listen.mp3"
         },
         {
+            name: "KUBB Country 96.3",
+            logo: "stations/images-america/modesto/KUBB Country 96.3.png",
+            url: "https://ice9.securenetsystems.net/KUBB"
+        },
+        {
             name: "ROCK 96.7",
             logo: "stations/images-america/modesto/ROCK 96.7.png",
             url: "https://stream.revma.ihrhls.com/zc2918/hls.m3u8"
@@ -4137,9 +4100,19 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTSEFMAAC_SC"
         },
         {
+            name: "K97.5",
+            logo: "stations/images-america/modesto/K97.5.png",
+            url: "https://ice9.securenetsystems.net/KABX"
+        },
+        {
             name: "98.3 KWIN",
             logo: "stations/images-america/modesto/98.3 KWIN.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWINFMAAC_SC"
+        },
+        {
+            name: "Radio Lobo 98.7",
+            logo: "stations/images-america/modesto/Radio Lobo 98.7.png",
+            url: "https://ice9.securenetsystems.net/KLOQ"
         },
         {
             name: "Mega 100",
@@ -4170,6 +4143,21 @@ var stations = {
             name: "104.1 The Hawk",
             logo: "stations/images-america/modesto/104.1 The Hawk.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFMAAC_SC"
+        },
+        {
+            name: "HOT 104.7",
+            logo: "stations/images-america/modesto/HOT 104.7.png",
+            url: "https://ice9.securenetsystems.net/KHTN"
+        },
+        {
+            name: "The Bear 105.7",
+            logo: "stations/images-america/modesto/The Bear 105.7.png",
+            url: "https://ice9.securenetsystems.net/KBRE"
+        },
+        {
+            name: "107.3 KYOS",
+            logo: "stations/images-america/fresno/107.3 KYOS.png",
+            url: "https://ice42.securenetsystems.net/KYOS"
         },
         {
             name: "Power Talk 1360",

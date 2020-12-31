@@ -365,12 +365,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.9
     },
-    "merced": {
-        name: "Merced",
-        name_english: "Merced",
-        code: "us-ca",
-        relative_radius: 0.6
-    },
     "moab": {
         name: "Moab",
         name_english: "Moab",
@@ -381,7 +375,7 @@ var country_properties = {
         name: "Modesto",
         name_english: "Modesto",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "montrose": {
         name: "Montrose",
@@ -892,9 +886,6 @@ var city_properties = {
     },
     "medford": {
         relative_whitenoise: 0.80
-    },
-    "merced": {
-        relative_whitenoise: 0.95
     },
     "moab": {
         relative_whitenoise: 0.90
@@ -1757,14 +1748,6 @@ var cities = [
         "z": "-21523.4"
     },
     {
-        "gameName": "merced",
-        "realName": "Merced",
-        "country": "california",
-        "x": "-108283",
-        "y": "41.2276",
-        "z": "-4164.15"
-    },
-    {
         "gameName": "moab",
         "realName": "Moab",
         "country": "utah",
@@ -1776,9 +1759,9 @@ var cities = [
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "california",
-        "x": "-110170",
-        "y": "39.3146",
-        "z": "-6400.11"
+        "x": "-108883",
+        "y": "34.6504",
+        "z": "-5139.2"
     },
     {
         "gameName": "needles",
