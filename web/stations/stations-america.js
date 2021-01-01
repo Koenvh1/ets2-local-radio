@@ -3705,11 +3705,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc201/hls.m3u8"
         },
         {
-            name: "Radio Disney Country 99.1",
-            logo: "stations/images-america/los_angeles/Radio Disney Country 99.1.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/RDCOUNTRYAAC64_SC"
-        },
-        {
             name: "99.5 KKLA",
             logo: "stations/images-america/los_angeles/99.5 KKLA.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC"
@@ -3720,8 +3715,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRTHFMAAC_SC"
         },
         {
-            name: "101.5 KQBH",
-            logo: "stations/images-america/los_angeles/101.5 KQBH.png",
+            name: "KQBH 101.5",
+            logo: "stations/images-america/los_angeles/KQBH 101.5.png",
             url: "http://ednixon.com:8170/stream"
         },
         {
@@ -3813,6 +3808,11 @@ var stations = {
             name: "KNX 1070",
             logo: "stations/images-america/los_angeles/KNX 1070.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC_SC"
+        },
+        {
+            name: "The Patriot 1150",
+            logo: "stations/images-america/los_angeles/The Patriot 1150.png",
+            url: "https://stream.revma.ihrhls.com/zc197/hls.m3u8"
         },
     ],
     "ltahoe": [
@@ -19103,9 +19103,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSHEFMAAC_SC"
         },
         {
-            name: "NOW 96.3",
-            logo: "stations/images-america/c2c/stlouis_mo/NOW 96.3.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUFMAAC_SC"
+            name: "BOOST 95.5",
+            logo: "stations/images-america/c2c/stlouis_mo/BOOST 95.5.png",
+            url: "https://boost1019.streamguys1.com/live-aac-website"
+        },
+        {
+            name: "96.3 The Lou",
+            logo: "stations/images-america/c2c/stlouis_mo/96.3 The Lou.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WFUNFMAAC_SC"
         },
         {
             name: "97.1 Talk",
@@ -19146,11 +19151,6 @@ var stations_c2c = {
             name: "101 ESPN",
             logo: "stations/images-america/c2c/stlouis_mo/101 ESPN.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXOSFMAAC_SC"
-        },
-        {
-            name: "Boost 101.9",
-            logo: "stations/images-america/c2c/stlouis_mo/Boost 101.9.png",
-            url: "https://boost1019.streamguys1.com/live-aac"
         },
         {
             name: "102.5 KEZK",
@@ -19221,11 +19221,6 @@ var stations_c2c = {
             name: "590 The Fan",
             logo: "stations/images-america/c2c/stlouis_mo/590 The Fan.png",
             url: "https://ice8.securenetsystems.net/1108"
-        },
-        {
-            name: "WGNU 920",
-            logo: "stations/images-america/c2c/stlouis_mo/WGNU 920.png",
-            url: "http://173.193.205.96:7248/stream"
         },
         {
             name: "1120 KMOX",
@@ -28886,9 +28881,14 @@ var stations_c2c = {
             url: "https://wvpublic.streamguys1.com/wvpb256k.aac"
         },
         {
-            name: "92.5 WINC FM",
-            logo: "stations/images-america/c2c/winchester_va/92.5 WINC FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WINCFM_SC"
+            name: "Air1 92.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+        },
+        {
+            name: "94.1 QZK",
+            logo: "stations/images-america/c2c/winchester_va/94.1 QZK.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wqzkfmaac-ibc2"
         },
         {
             name: "WMRA 94.5",
@@ -28929,6 +28929,16 @@ var stations_c2c = {
             name: "102.9 Valley FM",
             logo: "stations/images-america/c2c/winchester_va/102.9 Valley FM.png",
             url: "http://stream.wxva.com:8000/live"
+        },
+        {
+            name: "105 WINC FM",
+            logo: "stations/images-america/c2c/winchester_va/105 WINC FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WINCFMAAC_SC"
+        },
+        {
+            name: "WRNR 106.5",
+            logo: "stations/images-america/c2c/winchester_va/WRNR 106.5.png",
+            url: "https://streaming.radio.co/sd2c75a914/listen"
         },
     ],
     "wytheville_va": [
