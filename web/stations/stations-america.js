@@ -6462,8 +6462,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC_SC"
         },
         {
-            name: "Highway 1 Radio 96.5-HD2",
-            logo: "stations/images-america/san_francisco/Highway 1 Radio 96.5-HD2.png",
+            name: "Highway 1 96.5-HD2",
+            logo: "stations/images-america/san_francisco/Highway 1 96.5-HD2.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KOIT_HD2AAC_SC"
         },
         {
