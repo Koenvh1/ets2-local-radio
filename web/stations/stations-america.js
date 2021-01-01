@@ -5507,7 +5507,7 @@ var stations = {
         {
             name: "105.7 KQMS",
             logo: "stations/images-america/redding/105.7 KQMS.png",
-            url: "https://ice42.securenetsystems.net/KQMS"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQMSFMAAC_SC"
         },
         {
             name: "106X",
@@ -5515,7 +5515,7 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KRRX"
         },
         {
-            name: "107.1 Bob FM",
+            name: "107.1 BOB FM",
             logo: "stations/images-america/redding/107.1 Bob FM.png",
             url: "https://atsradio.herokuapp.com/https://ice24.securenetsystems.net/KESR"
         },
