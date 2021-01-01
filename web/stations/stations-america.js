@@ -6447,6 +6447,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
+            name: "95.3 KRTY",
+            logo: "stations/images-america/san_francisco/95.3 KRTY.png",
+            url: "https://live.wostreaming.net/manifest/empirebroadcasting-krtyfmaac-ibc1"
+        },
+        {
             name: "95.7 The Game",
             logo: "stations/images-america/san_francisco/95.7 The Game.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGMZFMAAC_SC"
