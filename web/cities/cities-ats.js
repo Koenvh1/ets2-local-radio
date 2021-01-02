@@ -291,7 +291,7 @@ var country_properties = {
         name: "Klamath Falls",
         name_english: "Klamath Falls",
         code: "us-or",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "lakeview": {
         name: "Lakeview",
@@ -443,10 +443,10 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.2
     },
-    "poncha_springs": {
-        name: "Poncha Springs",
-        name_english: "Poncha Springs",
-        code: "us-wa",
+    "salida": {
+        name: "Salida",
+        name_english: "Salida",
+        code: "us-co",
         relative_radius: 0.7
     },
     "port_angeles": {
@@ -852,7 +852,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "klamath_f": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.95
     },
     "lakeview": {
         relative_whitenoise: 0.95
@@ -926,7 +926,7 @@ var city_properties = {
     "pioche": {
         relative_whitenoise: 0.95
     },
-    "poncha_springs": {
+    "salida": {
         relative_whitenoise: 0.85
     },
     "port_angeles": {
@@ -1567,9 +1567,9 @@ var cities = [
         "gameName": "klamath_f",
         "realName": "Klamath Falls",
         "country": "oregon",
-        "x": "-105784",
-        "y": "116.527",
-        "z": "-33779.6"
+        "x": "-104728",
+        "y": "165.972",
+        "z": "-34541.4"
     },
     {
         "gameName": "lakeview",
@@ -1956,8 +1956,8 @@ var cities = [
         "z": "-663.594"
     },
     {
-        "gameName": "poncha_springs",
-        "realName": "Poncha Springs",
+        "gameName": "salida",
+        "realName": "Salida",
         "country": "colorado",
         "x": "-44653.8",
         "y": "132.538",
@@ -3133,13 +3133,13 @@ var country_properties_c2c = {
         name: "Lansing",
         name_english: "Lansing",
         code: "us-mi",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
-    "saginaw_mi": {
-        name: "Saginaw",
-        name_english: "Saginaw",
+    "flint_mi": {
+        name: "Flint",
+        name_english: "Flint",
         code: "us-mi",
-        relative_radius: 1.1
+        relative_radius: 1.0
     },
     "traversecity_mi": {
         name: "Traverse City",
@@ -4719,7 +4719,7 @@ var city_properties_c2c = {
     "lansing_mi": {
         relative_whitenoise: 0.95
     },
-    "saginaw_mi": {
+    "flint_mi": {
         relative_whitenoise: 0.95
     },
     "traversecity_mi": {
@@ -6112,17 +6112,17 @@ var cities_c2c = [
         "gameName": "lansing_mi",
         "realName": "Lansing",
         "country": "michigan",
-        "x": "47542.9",
-        "y": "21.7963",
-        "z": "-24402.9"
+        "x": "46487.4",
+        "y": "-2296.55",
+        "z": "-23688.5"
     },
     {
-        "gameName": "saginaw_mi",
-        "realName": "Saginaw",
+        "gameName": "flint_mi",
+        "realName": "Flint",
         "country": "michigan",
-        "x": "48749.9",
-        "y": "105",
-        "z": "-28386.9"
+        "x": "49938.1",
+        "y": "120.899",
+        "z": "-27218.3"
     },
     {
         "gameName": "traversecity_mi",
