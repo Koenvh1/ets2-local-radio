@@ -20307,7 +20307,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1321/hls.m3u8"
         },
         {
-            name: "Rock 100.7",
+            name: "Flatrock 100.7",
             logo: "stations/images-america/c2c/north_platte_ne/Rock 100.7.png",
             url: "https://atsradio.herokuapp.com/https://ice9.securenetsystems.net/KRNP"
         },
@@ -20322,9 +20322,51 @@ var stations_c2c = {
             url: "http://ice9.securenetsystems.net/KODY"
         },
         {
+            name: "Hot Country 106.5",
+            logo: "stations/images-america/c2c/north_platte_ne/Hot Country 106.5.png",
+            url: "https://stream.revma.ihrhls.com/zc1313/hls.m3u8"
+        },
+        {
             name: "Q Country Legends 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
             url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KNPQ"
+        },
+    ],
+    "ogallala_ne": [
+        {
+            name: "NET 91.7",
+            logo: "stations/images-america/0_general_logos/NET.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+        {
+            name: "Z93.5",
+            logo: "stations/images-america/c2c/north_platte_ne/Z93.5.png",
+            url: "https://atsradio.herokuapp.com/https://ice9.securenetsystems.net/KZTL"
+        },
+        {
+            name: "99.7 The Lake",
+            logo: "stations/images-america/c2c/north_platte_ne/99.7 The Lake.png",
+            url: "https://stream.revma.ihrhls.com/zc1321/hls.m3u8"
+        },
+        {
+            name: "Flatrock 100.7",
+            logo: "stations/images-america/c2c/north_platte_ne/Rock 100.7.png",
+            url: "https://atsradio.herokuapp.com/https://ice9.securenetsystems.net/KRNP"
+        },
+        {
+            name: "Hot Country 106.5",
+            logo: "stations/images-america/c2c/north_platte_ne/Hot Country 106.5.png",
+            url: "https://stream.revma.ihrhls.com/zc1313/hls.m3u8"
+        },
+        {
+            name: "KRVN 880",
+            logo: "stations/images-america/c2c/mccook_ne/KRVN 880.png",
+            url: "https://ais-sa1.streamon.fm/7323_48k.aac"
+        },
+        {
+            name: "930 KOGA",
+            logo: "stations/images-america/c2c/ogallala_ne/930 KOGA.png",
+            url: "https://stream.revma.ihrhls.com/zc1317/hls.m3u8"
         },
     ],
     "omaha": [

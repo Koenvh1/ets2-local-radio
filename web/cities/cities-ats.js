@@ -3441,6 +3441,12 @@ var country_properties_c2c = {
         code: "us-ne",
         relative_radius: 1.0
     },
+    "ogallala_ne": {
+        name: "Ogallala",
+        name_english: "Ogallala",
+        code: "us-ne",
+        relative_radius: 0.9
+    },
     "omaha": {
         name: "omaha",
         name_english: "omaha",
@@ -4870,6 +4876,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "north_platte": {
+        relative_whitenoise: 0.95
+    },
+    "ogallala_ne": {
         relative_whitenoise: 0.95
     },
     "omaha": {
@@ -6483,6 +6492,14 @@ var cities_c2c = [
         "x": "-20111.6",
         "y": "292.426",
         "z": "-12577"
+    },
+    {
+        "gameName": "ogallala_ne",
+        "realName": "Ogallala",
+        "country": "nebraska",
+        "x": "-25219.9",
+        "y": "66.012",
+        "z": "-12820"
     },
     {
         "gameName": "omaha",
