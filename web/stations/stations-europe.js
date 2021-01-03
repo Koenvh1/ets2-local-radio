@@ -1236,6 +1236,11 @@ var stations = {
             url: "https://stream.klassikradio.de/live/mp3-192"
         },
         {
+            name: "NOSTALGIE",
+            logo: "stations/images-europe/germany/NOSTALGIE.png",
+            url: "https://scdn.nrjaudio.fm/adwz1/de/57447/mp3_128.mp3"
+        },
+        {
             name: "RADIO BOB!",
             logo: "stations/images-europe/germany/Radio BOB.png",
             url: "https://bob.hoerradar.de/radiobob-national-mp3-hq"
@@ -1340,14 +1345,14 @@ var stations = {
             url: "http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3"
         },
         {
-            name: "Bremen Vier",
-            logo: "stations/images-europe/germany-ndr/Bremen Vier.svg",
-            url: "http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3"
+            name: "Bremen Zwei",
+            logo: "stations/images-europe/germany-ndr/Bremen Zwei.png",
+            url: "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3"
         },
         {
-            name: "Nordwestradio",
-            logo: "stations/images-europe/germany-ndr/Nordwestradio.png",
-            url: "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3"
+            name: "Bremen Vier",
+            logo: "stations/images-europe/germany-ndr/Bremen Vier.png",
+            url: "http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen NEXT",
@@ -1355,9 +1360,46 @@ var stations = {
             url: "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3"
         },
         {
-            name: "Cosmo",
-            logo: "stations/images-europe/germany-ndr/WDR Cosmo.svg",
-            url: "http://addrad.io/4WRN3Y"
+            name: "COSMO",
+            logo: "stations/images-europe/germany/COSMO.png",
+            url: "https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8"
+        },
+        {
+            name: "ENERGY Bremen",
+            logo: "stations/images-europe/germany/Energy.png",
+            url: "https://stream.ffn.de/energybremen/mp3-192/livestream.mp3"
+        },
+    ],
+    "germany-hh": [
+        {
+            name: "917xfm",
+            logo: "stations/images-europe/germany-hh/917xfm.png",
+            url: "https://mp3channels.rockantenne.hamburg/917xfm"
+        },
+        {
+            name: "HAMBURG ZWEI",
+            logo: "stations/images-europe/germany-hh/HAMBURG ZWEI.png",
+            url: "https://rhh.streamabc.net/rhh-hh2livestream-mp3-128-9203677"
+        },
+        {
+            name: "TIDE 96.0",
+            logo: "stations/images-europe/germany-hh/TIDE 96.0.png",
+            url: "https://rcstream0001.redcastle.net/radio/8000/tide-192.mp3"
+        },
+        {
+            name: "ENERGY Hamburg",
+            logo: "stations/images-europe/germany/Energy.png",
+            url: "https://scdn.nrjaudio.fm/adwz1/de/33009/mp3_128.mp3"
+        },
+        {
+            name: "Radio Hamburg",
+            logo: "stations/images-europe/germany-hh/Radio Hamburg.png",
+            url: "https://rhh.streamabc.net/rhh-rhhlivestream-mp3-128-5239250"
+        },
+        {
+            name: "FluxFM",
+            logo: "stations/images-europe/germany-hh/FluxFM.png",
+            url: "https://streams.fluxfm.de/flux-hamburg/mp3-320/streams.fluxfm.de/"
         },
     ],
     "germany-hr": [
@@ -1491,39 +1533,14 @@ var stations = {
     ],
     "germany-ndr": [
         {
-            name: "NDR 1 Niedersachsen",
-            logo: "stations/images-europe/germany-ndr/NDR 1 Niedersachsen.png",
-            url: "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
-        },
-        {
             name: "NDR 1 Welle Nord",
             logo: "stations/images-europe/germany-ndr/NDR 1 Welle Nord.png",
             url: "http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
         },
         {
-            name: "NDR 1 Radio MV",
-            logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
-            url: "http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
-        },
-        {
-            name: "NDR 2",
-            logo: "stations/images-europe/germany-ndr/NDR 2.svg",
-            url: "http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
-        },
-        {
-            name: "NDR Info",
-            logo: "stations/images-europe/germany-ndr/NDR Info.svg",
-            url: "http://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
-        },
-        {
             name: "NDR Kultur",
-            logo: "stations/images-europe/germany-ndr/NDR Kultur.svg",
+            logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
             url: "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
-        },
-        {
-            name: "N-Joy",
-            logo: "stations/images-europe/germany-ndr/N-Joy.svg",
-            url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
         },
         {
             name: "NDR Blue",
@@ -1536,101 +1553,152 @@ var stations = {
             url: "http://ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3"
         },
         {
-            name: "Antenne MV",
-            logo: "stations/images-europe/germany-ndr/Antenne MV.png",
-            url: "https://antennemv.hoerradar.de/antennemv-live-mp3-hq"
+            name: "NDR 2",
+            logo: "stations/images-europe/germany-ndr/NDR 2.png",
+            url: "http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
         },
         {
-            name: "Antenne Niedersachsen",
-            logo: "stations/images-europe/germany-ndr/Antenne Niedersachsen.png",
-            url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
+            name: "N-JOY",
+            logo: "stations/images-europe/germany-ndr/N-Joy.png",
+            url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
         },
         {
             name: "delta radio",
             logo: "stations/images-europe/germany-ndr/delta radio.png",
             url: "http://streams.deltaradio.de/delta-live/mp3-192/streams.deltaradio.de/"
         },
+    ],
+    "germany-nds": [
         {
-            name: "FFN",
+            name: "Antenne Niedersachsen",
+            logo: "stations/images-europe/germany-nds/Antenne Niedersachsen.png",
+            url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
+        },
+        {
+            name: "NDR 1 Niedersachsen",
+            logo: "stations/images-europe/germany-nds/NDR 1 Niedersachsen.png",
+            url: "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
+        },
+        {
+            name: "ffn",
             logo: "stations/images-europe/germany-ndr/FFN.png",
-            url: "http://stream.ffn.de/ffn/mp3-192/;stream.nsv"
+            url: "https://stream.ffn.de/ffn/mp3-192/;"
         },
         {
-            name: "Ostseewelle Hit-Radio",
-            logo: "stations/images-europe/germany-ndr/Ostseewelle Hit-Radio.png",
-            url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
-        },
-        {
-            name: "Radio 21",
-            logo: "stations/images-europe/germany-ndr/Radio 21.png",
-            url: "http://188.94.97.91/radio21.mp3"
-        },
-        {
-            name: "R.SH (Radio Schleswig-Holstein)",
-            logo: "stations/images-europe/germany-ndr/R.SH (Radio Schleswig-Holstein).png",
-            url: "https://rsh.hoerradar.de/rsh-live-mp3-hq"
+            name: "RADIO 21",
+            logo: "stations/images-europe/germany-nds/RADIO 21.png",
+            url: "https://stream.radio21.de/radio21.mp3"
         },
     ],
-    "germany-rbb": [
+    "germany-mv": [
         {
-            name: "RBB Antenne Brandenburg",
-            logo: "stations/images-europe/germany-rbb/RBB Antenne Brandenburg.png",
-            url: "https://rbb-antennebrandenburg-live.sslcast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3"
+            name: "Antenne MV",
+            logo: "stations/images-europe/germany-mv/Antenne MV.png",
+            url: "https://antennemv.hoerradar.de/antennemv-live-mp3-hq"
         },
         {
-            name: "RBB Fritz",
-            logo: "stations/images-europe/germany-rbb/RBB Fritz.png",
-            url: "https://rbb-fritz-live.sslcast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3"
+            name: "NDR 1 Radio MV",
+            logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
+            url: "http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
         },
         {
-            name: "RBB Radio Eins",
-            logo: "stations/images-europe/germany-rbb/RBB Radio Eins.png",
-            url: "https://rbb-radioeins-live.sslcast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3"
+            name: "NDR 2",
+            logo: "stations/images-europe/germany-ndr/NDR 2.png",
+            url: "https://ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
         },
         {
-            name: "RBB Inforadio",
-            logo: "stations/images-europe/germany-rbb/RBB Inforadio.png",
-            url: "https://rbb-inforadio-live.sslcast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3"
+            name: "NDR Kultur",
+            logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
+            url: "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
         },
         {
-            name: "RBB Radio Berlin 88,8",
-            logo: "stations/images-europe/germany-rbb/RBB Radio Berlin 88,8.png",
-            url: "https://rbb-radioberlin-live.sslcast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3"
+            name: "NDR Info",
+            logo: "stations/images-europe/germany-ndr/NDR Info.png",
+            url: "https://ndr-ndrinfo-mecklenburgvorpommern.cast.addradio.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3"
         },
         {
-            name: "RBB Kulturradio",
-            logo: "stations/images-europe/germany-rbb/RBB Kulturradio.png",
-            url: "http://rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3"
+            name: "N-JOY",
+            logo: "stations/images-europe/germany-ndr/N-Joy.png",
+            url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
         },
         {
-            name: "Cosmo",
-            logo: "stations/images-europe/germany-rbb/WDR Cosmo.svg",
-            url: "http://addrad.io/4WRN3Y"
-        },
-        {
-            name: "104.6 RTL",
-            logo: "stations/images-europe/germany-rbb/104.6 RTL.svg",
-            url: "http://stream.104.6rtl.com/rtl-live/mp3-128/konsole/"
-        },
-        {
-            name: "BB Radio",
-            logo: "stations/images-europe/germany-rbb/BB Radio.svg",
-            url: "http://streambbr.ir-media-tec.com/live/mp3-128/radioplayer_web/play.mp3"
-        },
-        {
-            name: "FluxFM",
-            logo: "stations/images-europe/germany-rbb/FluxFM.png",
-            url: "http://streams.fluxfm.de/live/mp3-320/audio/"
+            name: "Ostseewelle",
+            logo: "stations/images-europe/germany-mv/Ostseewelle.png",
+            url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
         },
         {
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
-            url: "http://ir-media.hoerradar.de/teddy-live-mp3-mq?sABC=58697nn6%231%2326nr8094s1012no571r7np7896r19p4p%23jro&amsparams=playerid:web;skey:1483307686"
+            url: "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268"
+        },
+    ],
+    "germany-rbb": [
+        {
+            name: "Antenne Brandenburg",
+            logo: "stations/images-europe/germany-rbb/Antenne Brandenburg.png",
+            url: "https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid"
         },
         {
-            name: "rs2",
-            logo: "stations/images-europe/germany-rbb/rs2.png",
-            url: "https://stream.rs2.de/rs2/mp3-128/radioplayerde/;stream.nsv"
+            name: "BB Radio",
+            logo: "stations/images-europe/germany-rbb/BB Radio.png",
+            url: "https://irmedia.streamabc.net/irm-bbradiolive-mp3-192-2174969"
+        },
+        {
+            name: "COSMO",
+            logo: "stations/images-europe/germany/COSMO.png",
+            url: "https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8"
+        },
+        {
+            name: "Radio Fritz",
+            logo: "stations/images-europe/germany-rbb/Radio Fritz.png",
+            url: "https://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid"
+        },
+        {
+            name: "radioeins",
+            logo: "stations/images-europe/germany-rbb/radioeins.png",
+            url: "https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid"
+        },
+        {
+            name: "rbb Inforadio",
+            logo: "stations/images-europe/germany-rbb/RBB Inforadio.png",
+            url: "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid"
+        },
+        {
+            name: "rbbKultur",
+            logo: "stations/images-europe/germany-rbb/rbbKultur.png",
+            url: "https://rbb-rbbkultur-live.cast.addradio.de/rbb/rbbkultur/live/mp3/high"
+        },
+        {
+            name: "Radio TEDDY",
+            logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
+            url: "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268"
+        },
+        {
+            name: "rbb 88.8",
+            logo: "stations/images-europe/germany-rbb/rbb 88.8.png",
+            url: "https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid"
+        },
+        {
+            name: "94,3 rs2",
+            logo: "stations/images-europe/germany-rbb/94,3 rs2.png",
+            url: "https://topradio-stream21.radiohost.de/rs2_mp3-192"
+        },
+        {
+            name: "104.6 RTL",
+            logo: "stations/images-europe/germany-rbb/104.6 RTL.png",
+            url: "https://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-128-3429579"
+        },
+        {
+            name: "FluxFM 100.6",
+            logo: "stations/images-europe/germany-rbb/FluxFM.png",
+            url: "http://streams.fluxfm.de/live/mp3-320/audio/"
+        },
+    ],
+    "germany-sh": [
+        {
+            name: "R.SH",
+            logo: "stations/images-europe/germany-sh/R.SH.png",
+            url: "https://rsh.hoerradar.de/rsh-live-mp3-hq"
         },
     ],
     "germany-swr": [
@@ -1737,9 +1805,9 @@ var stations = {
             url: "http://addrad.io/4WRNgG"
         },
         {
-            name: "Cosmo",
-            logo: "stations/images-europe/germany-wdr/WDR Cosmo.svg",
-            url: "http://addrad.io/4WRN3Y"
+            name: "COSMO",
+            logo: "stations/images-europe/germany/COSMO.png",
+            url: "https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8"
         },
         {
             name: "Domradio",
