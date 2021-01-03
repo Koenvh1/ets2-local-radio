@@ -12739,7 +12739,7 @@ var stations_c2c = {
         {
             name: "WLUW 88.7",
             logo: "stations/images-america/c2c/chicago_il/WLUW 88.7.png",
-            url: "http://amber.streamguys.com:4100/stream.mp3"
+            url: "https://wluw.streamguys1.com/stream.mp3"
         },
         {
             name: "WIIT 88.9",
@@ -20158,7 +20158,7 @@ var stations_c2c = {
         {
             name: "Power 99",
             logo: "stations/images-america/c2c/grand_island_ne/Power 99.png",
-            url: "http://platteradio.streamguys1.com/kkpr-aac"
+            url: "https://platteriverradio.broadcasttool.com/kkpr-aac"
         },
         {
             name: "Classic Rock 101.5",
@@ -20307,8 +20307,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1321/hls.m3u8"
         },
         {
-            name: "Flatrock 100.7",
-            logo: "stations/images-america/c2c/north_platte_ne/Rock 100.7.png",
+            name: "Flat Rock 100.7",
+            logo: "stations/images-america/c2c/north_platte_ne/Flat Rock 100.7.png",
             url: "https://atsradio.herokuapp.com/https://ice9.securenetsystems.net/KRNP"
         },
         {
@@ -20327,7 +20327,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1313/hls.m3u8"
         },
         {
-            name: "Q Country Legends 107.3",
+            name: "Q Country Classics 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
             url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KNPQ"
         },
@@ -20349,8 +20349,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1321/hls.m3u8"
         },
         {
-            name: "Flatrock 100.7",
-            logo: "stations/images-america/c2c/north_platte_ne/Rock 100.7.png",
+            name: "Flat Rock 100.7",
+            logo: "stations/images-america/c2c/north_platte_ne/Flat Rock 100.7.png",
             url: "https://atsradio.herokuapp.com/https://ice9.securenetsystems.net/KRNP"
         },
         {
