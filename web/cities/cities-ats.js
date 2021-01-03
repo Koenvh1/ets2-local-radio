@@ -2601,12 +2601,6 @@ var country_properties_c2c = {
         code: "us-fl",
         relative_radius: 1.0
     },
-    "marianna": {
-        name: "marianna",
-        name_english: "marianna",
-        code: "us-fl",
-        relative_radius: 0.7
-    },
     "melbourne_fl": {
         name: "melbourne_fl",
         name_english: "melbourne_fl",
@@ -2743,19 +2737,19 @@ var country_properties_c2c = {
         name: "bloomington_il",
         name_english: "bloomington_il",
         code: "us-il",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "champaign": {
         name: "champaign",
         name_english: "champaign",
         code: "us-il",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "chicago": {
         name: "chicago",
         name_english: "chicago",
         code: "us-il",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "effingham": {
         name: "effingham",
@@ -2767,7 +2761,7 @@ var country_properties_c2c = {
         name: "lasalle",
         name_english: "lasalle",
         code: "us-il",
-        relative_radius: 1.0
+        relative_radius: 0.65
     },
     "mt_vernon": {
         name: "mt_vernon",
@@ -2779,7 +2773,7 @@ var country_properties_c2c = {
         name: "Rockford",
         name_english: "Rockford",
         code: "us-il",
-        relative_radius: 1.0
+        relative_radius: 0.65
     },
     "springfield_il": {
         name: "springfield_il",
@@ -2809,7 +2803,7 @@ var country_properties_c2c = {
         name: "lafayette_in",
         name_english: "lafayette_in",
         code: "us-in",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "richmond_in": {
         name: "richmond_in",
@@ -2821,7 +2815,7 @@ var country_properties_c2c = {
         name: "south_bend",
         name_english: "south_bend",
         code: "us-in",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "terre_haute": {
         name: "terre_haute",
@@ -2845,13 +2839,13 @@ var country_properties_c2c = {
         name: "Davenport",
         name_english: "Davenport",
         code: "us-ia",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "cedar_rapids": {
         name: "Cedar Rapids",
         name_english: "Cedar Rapids",
         code: "us-ia",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "sioux_city": {
         name: "sioux_city",
@@ -3169,7 +3163,7 @@ var country_properties_c2c = {
         name: "duluth",
         name_english: "duluth",
         code: "us-mn",
-        relative_radius: 1.0
+        relative_radius: 1.2
     },
     "minneapolis": {
         name: "minneapolis",
@@ -4321,13 +4315,13 @@ var country_properties_c2c = {
         name: "madison_wi",
         name_english: "madison_wi",
         code: "us-wi",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "milwaukee": {
         name: "milwaukee",
         name_english: "milwaukee",
         code: "us-wi",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "sheboygan_wi": {
         name: "Sheboygan",
@@ -4458,9 +4452,6 @@ var city_properties_c2c = {
     "key_west": {
         relative_whitenoise: 0.95
     },
-    "marianna": {
-        relative_whitenoise: 0.95
-    },
     "melbourne_fl": {
         relative_whitenoise: 0.95
     },
@@ -4528,10 +4519,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "bloomington_il": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "champaign": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "chicago": {
         relative_whitenoise: 0.95
@@ -4540,13 +4531,13 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "lasalle": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "mt_vernon": {
         relative_whitenoise: 0.95
     },
     "rockford_il": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "springfield_il": {
         relative_whitenoise: 0.95
@@ -4561,13 +4552,13 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "lafayette_in": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "richmond_in": {
         relative_whitenoise: 0.95
     },
     "south_bend": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "terre_haute": {
         relative_whitenoise: 0.95
@@ -5314,10 +5305,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "madison_wi": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "milwaukee": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "sheboygan_wi": {
         relative_whitenoise: 0.95
@@ -5500,14 +5491,6 @@ var cities_c2c = [
         "x": "75154.8",
         "y": "61.8633",
         "z": "76254.8"
-    },
-    {
-        "gameName": "marianna",
-        "realName": "Marianna",
-        "country": "florida",
-        "x": "52705.5",
-        "y": "62.3707",
-        "z": "43267.1"
     },
     {
         "gameName": "melbourne_fl",
