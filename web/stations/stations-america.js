@@ -9127,12 +9127,12 @@ var stations_c2c = {
             name: "104.3 ZYP",
             logo: "stations/images-america/c2c/huntsville_al/104.3 ZYP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZYPFMAAC_SC"
-        },
+        },/*
         {
-            name: "WTKI 105.3",
-            logo: "stations/images-america/c2c/huntsville_al/WTKI 105.3.png",
-            url: "http://cast.az-streamingserver.com:8323/stream"
-        },
+            name: "Easy 105.3",
+            logo: "stations/images-america/c2c/huntsville_al/Easy 105.3.png",
+            url: "N.N."
+        },*/
         {
             name: "106.1 WTAK",
             logo: "stations/images-america/c2c/huntsville_al/106.1 WTAK.png",
@@ -14390,11 +14390,6 @@ var stations_c2c = {
             url: "https://dal-wku-stream-1.neighborhoodca.com/stream"
         },
         {
-            name: "Revolution 91.7",
-            logo: "stations/images-america/c2c/bowling_green_ky/Revolution 91.7.png",
-            url: "http://173.236.19.90:8246/;"
-        },
-        {
             name: "D93",
             logo: "stations/images-america/c2c/bowling_green_ky/D93.png",
             url: "http://ice5.securenetsystems.net/WDNS"
@@ -14402,7 +14397,7 @@ var stations_c2c = {
         {
             name: "Goober 95.1",
             logo: "stations/images-america/c2c/bowling_green_ky/Goober 95.1.png",
-            url: "https://ice7.securenetsystems.net/WGGC"
+            url: "https://atsradio.herokuapp.com/https://ice7.securenetsystems.net/WGGC"
         },
         {
             name: "95.9 The Vibe",
@@ -14430,11 +14425,6 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKLX_FMAAC_SC"
         },
         {
-            name: "101.1 The Beat",
-            logo: "stations/images-america/c2c/nashville_tn/101.1 The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc2153/hls.m3u8"
-        },
-        {
             name: "ESPN 102.7",
             logo: "stations/images-america/c2c/bowling_green_ky/ESPN 102.7.png",
             url: "https://ice23.securenetsystems.net/WWKU"
@@ -14450,8 +14440,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTQFMAAC_SC"
         },
         {
-            name: "WOVO 106.3",
-            logo: "stations/images-america/c2c/bowling_green_ky/WOVO 106.3.png",
+            name: "106.3 WOVO",
+            logo: "stations/images-america/c2c/bowling_green_ky/106.3 WOVO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOVO_FMAAC_SC"
         },
         {
@@ -16425,7 +16415,7 @@ var stations_c2c = {
             url: "http://38.96.148.28:8088/;"
         },
         {
-            name: "NASH Icon 98.1",
+            name: "Nash Icon 98.1",
             logo: "stations/images-america/c2c/springfield_ma/NASH Icon 98.1.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WHLLAMAAC_SC"
         },
@@ -16998,7 +16988,7 @@ var stations_c2c = {
             url: "https://wkuf.fm:8443/wkuf-lp"
         },
         {
-            name: "NASH FM 95.1",
+            name: "Nash FM 95.1",
             logo: "stations/images-america/c2c/flint_mi/NASH FM 95.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFBEFMAAC_SC"
         },
@@ -24417,8 +24407,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WVEIFM_SC"
         },
         {
-            name: "Lite Rock 105",
-            logo: "stations/images-america/c2c/providence_ri/Lite Rock 105.png",
+            name: "Lite 105",
+            logo: "stations/images-america/c2c/providence_ri/Lite 105.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLIFMAAC_SC"
         },
         {
@@ -25965,7 +25955,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2.mp3"
         },
         {
-            name: "107.1 NASH Icon",
+            name: "107.1 Nash Icon",
             logo: "stations/images-america/c2c/amarillo_tx/107.1 NASH Icon.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KARXFM_SC"
         },
@@ -26007,8 +25997,8 @@ var stations_c2c = {
             url: "https://kvrx.org/now_playing/stream"
         },
         {
-            name: "93.3 Austin",
-            logo: "stations/images-america/c2c/austin_tx/93.3 Austin.png",
+            name: "Lucy 93.3",
+            logo: "stations/images-america/c2c/austin_tx/Lucy 93.3.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
