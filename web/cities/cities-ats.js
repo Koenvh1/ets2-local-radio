@@ -2581,7 +2581,7 @@ var country_properties_c2c = {
         name: "jacksonville",
         name_english: "jacksonville",
         code: "us-fl",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "key_west": {
         name: "key_west",
@@ -2905,7 +2905,7 @@ var country_properties_c2c = {
         name: "louisville",
         name_english: "louisville",
         code: "us-ky",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "paducah": {
         name: "paducah",
@@ -4267,7 +4267,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "jacksonville": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.90
     },
     "key_west": {
         relative_whitenoise: 0.95
@@ -4429,7 +4429,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "louisville": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "paducah": {
         relative_whitenoise: 0.95
@@ -4906,7 +4906,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "nashville": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "texas": {
         relative_whitenoise: 0.95
