@@ -9819,7 +9819,7 @@ var stations_c2c = {
         },
         {
             name: "106.7 BUZ2",
-            logo: "stations/images-america/c2c/little_rock_ar/106.7 The Ride.png",
+            logo: "stations/images-america/c2c/little_rock_ar/106.7 BUZ2.png",
             url: "https://signalmedia.streamguys1.com/signalmedia/khlr-aac"
         },
         {
