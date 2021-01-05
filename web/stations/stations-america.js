@@ -208,7 +208,7 @@ var stations = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/Magic 99.5_christmas.png",
+            logo: "stations/images-america/albuquerque/Magic 99.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC_SC"
         },
         {
@@ -1476,7 +1476,7 @@ var stations = {
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
+            logo: "stations/images-america/denver/KOSI 101.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
         },
         {
@@ -3746,7 +3746,7 @@ var stations = {
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -3939,6 +3939,11 @@ var stations = {
             name: "93.7 NOW FM",
             logo: "stations/images-america/medford/93.7 Now FM.png",
             url: "https://ice6.securenetsystems.net/KTMT"
+        },
+        {
+            name: "KRRM 94.7",
+            logo: "stations/images-america/medford/KRRM 94.7.png",
+            url: "https://live.wostreaming.net/manifest/grantspass-krrmfmaac-imc2"
         },
         {
             name: "95.1 The Wolf",
@@ -4421,7 +4426,7 @@ var stations = {
         },
         {
             name: "My 92.9",
-            logo: "stations/images-america/tucson/My 92.9_christmas.png",
+            logo: "stations/images-america/tucson/My 92.9.png",
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
@@ -6201,8 +6206,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSYVAAC_SC"
         },
         {
-            name: "Mega 97.1",
-            logo: "stations/images-america/santa_maria/Mega 97.1_christmas.png",
+            name: "Fuego 97.1",
+            logo: "stations/images-america/santa_maria/Fuego 97.1.png",
             url: "http://75.147.133.197:8097/;"
         },
         {
@@ -7543,7 +7548,7 @@ var stations = {
         },
         {
             name: "My 92.9",
-            logo: "stations/images-america/tucson/My 92.9_christmas.png",
+            logo: "stations/images-america/tucson/My 92.9.png",
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
@@ -9813,7 +9818,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         },
         {
-            name: "106.7 The Ride",
+            name: "106.7 BUZ2",
             logo: "stations/images-america/c2c/little_rock_ar/106.7 The Ride.png",
             url: "https://signalmedia.streamguys1.com/signalmedia/khlr-aac"
         },
@@ -25529,7 +25534,7 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/shelbycounty-wqoxfmaac-ibc1"
         },
         {
-            name: "The Memphis Train 87.7",
+            name: "87.7",
             logo: "stations/images-america/c2c/memphis_tn/Santa 87.7_christmas.png",
             url: "https://stream1.flinn.com:8443/877FM.aac"
         },
@@ -28923,9 +28928,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
-            name: "Talk 101.7",
-            logo: "stations/images-america/c2c/milwaukee_wi/Talk 101.7.png",
-            url: "https://ice24.securenetsystems.net/WTTN"
+            name: "101.7 The Truth",
+            logo: "stations/images-america/c2c/milwaukee_wi/101.7 The Truth.png",
+            url: "https://live.wostreaming.net/manifest/goodkarma-wgkbamaac-hlsc1.m3u8"
         },
         {
             name: "FM 102.1",
