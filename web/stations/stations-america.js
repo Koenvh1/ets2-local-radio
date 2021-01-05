@@ -28930,7 +28930,7 @@ var stations_c2c = {
         {
             name: "101.7 The Truth",
             logo: "stations/images-america/c2c/milwaukee_wi/101.7 The Truth.png",
-            url: "https://live.wostreaming.net/manifest/goodkarma-wgkbamaac-hlsc1.m3u8"
+            url: "https://live.wostreaming.net/manifest/goodkarma-wgkbamaac-ibc1"
         },
         {
             name: "FM 102.1",
