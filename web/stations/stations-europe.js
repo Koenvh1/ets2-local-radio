@@ -776,9 +776,24 @@ var stations = {
     ],
     "estonia": [
         {
+            name: "Vikerraadio",
+            logo: "stations/images-europe/estonia/Vikerraadio.png",
+            url: "http://icecast.err.ee/vikerraadio.mp3"
+        },
+        {
+            name: "Raadio 2",
+            logo: "stations/images-europe/estonia/Raadio 2.png",
+            url: "http://icecast.err.ee/raadio2.mp3"
+        },
+        {
             name: "Klassikaraadio",
             logo: "stations/images-europe/estonia/Klassikaraadio.png",
             url: "http://icecast.err.ee/klassikaraadio.mp3"
+        },
+        {
+            name: "Raadio 4",
+            logo: "stations/images-europe/estonia/Raadio 4.png",
+            url: "http://icecast.err.ee/raadio4madal.mp3"
         },
         {
             name: "MyHits",
@@ -789,16 +804,6 @@ var stations = {
             name: "Power Hit Radio",
             logo: "stations/images-europe/estonia/Power Hit Radio.png",
             url: "https://ice.leviracloud.eu/phr96-aac"
-        },
-        {
-            name: "Raadio 2",
-            logo: "stations/images-europe/estonia/Raadio 2.png",
-            url: "http://icecast.err.ee/raadio2.mp3"
-        },
-        {
-            name: "Raadio 4",
-            logo: "stations/images-europe/estonia/Raadio 4.png",
-            url: "http://icecast.err.ee/raadio4madal.mp3"
         },
         {
             name: "Raadio Elmar",
@@ -834,11 +839,6 @@ var stations = {
             name: "Star FM",
             logo: "stations/images-europe/estonia/Star FM.png",
             url: "https://ice.leviracloud.eu/star96-aac"
-        },
-        {
-            name: "Vikerraadio",
-            logo: "stations/images-europe/estonia/Vikerraadio.png",
-            url: "http://icecast.err.ee/vikerraadio.mp3"
         },
     ],
     "faroe": [
@@ -1161,6 +1161,26 @@ var stations = {
     ],
     "germany": [
         {
+            name: "Deutschlandfunk",
+            logo: "stations/images-europe/germany/Deutschlandfunk.png",
+            url: "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac"
+        },
+        {
+            name: "Deutschlandfunk Kultur",
+            logo: "stations/images-europe/germany/Deutschlandfunk Kultur.png",
+            url: "https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac"
+        },
+        {
+            name: "Deutschlandfunk Nova",
+            logo: "stations/images-europe/germany/Deutschlandfunk Nova.png",
+            url: "https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac"
+        },
+        {
+            name: "DRadio DokDeb",
+            logo: "stations/images-europe/germany/DRadio DokDeb.png",
+            url: "https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac"
+        },
+        {
             name: "80s80s",
             logo: "stations/images-europe/germany/80s80s.png",
             url: "https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq"
@@ -1194,26 +1214,6 @@ var stations = {
             name: "Antenne Bayern",
             logo: "stations/images-europe/germany/Antenne Bayern.png",
             url: "https://s6-webradio.webradio.de/antenne"
-        },
-        {
-            name: "Deutschlandfunk",
-            logo: "stations/images-europe/germany/Deutschlandfunk.png",
-            url: "https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac"
-        },
-        {
-            name: "Deutschlandfunk Kultur",
-            logo: "stations/images-europe/germany/Deutschlandfunk Kultur.png",
-            url: "https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac"
-        },
-        {
-            name: "Deutschlandfunk Nova",
-            logo: "stations/images-europe/germany/Deutschlandfunk Nova.png",
-            url: "https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac"
-        },
-        {
-            name: "DRadio DokDeb",
-            logo: "stations/images-europe/germany/DRadio DokDeb.png",
-            url: "https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac"
         },
         {
             name: "dpd DRIVER`S RADIO",
@@ -1570,14 +1570,14 @@ var stations = {
     ],
     "germany-nds": [
         {
-            name: "Antenne Niedersachsen",
-            logo: "stations/images-europe/germany-nds/Antenne Niedersachsen.png",
-            url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
-        },
-        {
             name: "NDR 1 Niedersachsen",
             logo: "stations/images-europe/germany-nds/NDR 1 Niedersachsen.png",
             url: "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
+        },
+        {
+            name: "Antenne Niedersachsen",
+            logo: "stations/images-europe/germany-nds/Antenne Niedersachsen.png",
+            url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
         },
         {
             name: "ffn",
@@ -1591,11 +1591,6 @@ var stations = {
         },
     ],
     "germany-mv": [
-        {
-            name: "Antenne MV",
-            logo: "stations/images-europe/germany-mv/Antenne MV.png",
-            url: "https://antennemv.hoerradar.de/antennemv-live-mp3-hq"
-        },
         {
             name: "NDR 1 Radio MV",
             logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
@@ -1622,6 +1617,11 @@ var stations = {
             url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
         },
         {
+            name: "Antenne MV",
+            logo: "stations/images-europe/germany-mv/Antenne MV.png",
+            url: "https://antennemv.hoerradar.de/antennemv-live-mp3-hq"
+        },
+        {
             name: "Ostseewelle",
             logo: "stations/images-europe/germany-mv/Ostseewelle.png",
             url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
@@ -1633,16 +1633,6 @@ var stations = {
         },
     ],
     "germany-rbb": [
-        {
-            name: "Antenne Brandenburg",
-            logo: "stations/images-europe/germany-rbb/Antenne Brandenburg.png",
-            url: "https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid"
-        },
-        {
-            name: "BB Radio",
-            logo: "stations/images-europe/germany-rbb/BB Radio.png",
-            url: "https://irmedia.streamabc.net/irm-bbradiolive-mp3-192-2174969"
-        },
         {
             name: "COSMO",
             logo: "stations/images-europe/germany/COSMO.png",
@@ -1659,6 +1649,11 @@ var stations = {
             url: "https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid"
         },
         {
+            name: "rbb 88.8",
+            logo: "stations/images-europe/germany-rbb/rbb 88.8.png",
+            url: "https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid"
+        },
+        {
             name: "rbb Inforadio",
             logo: "stations/images-europe/germany-rbb/RBB Inforadio.png",
             url: "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid"
@@ -1669,14 +1664,19 @@ var stations = {
             url: "https://rbb-rbbkultur-live.cast.addradio.de/rbb/rbbkultur/live/mp3/high"
         },
         {
+            name: "Antenne Brandenburg",
+            logo: "stations/images-europe/germany-rbb/Antenne Brandenburg.png",
+            url: "https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid"
+        },
+        {
+            name: "BB Radio",
+            logo: "stations/images-europe/germany-rbb/BB Radio.png",
+            url: "https://irmedia.streamabc.net/irm-bbradiolive-mp3-192-2174969"
+        },
+        {
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
             url: "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268"
-        },
-        {
-            name: "rbb 88.8",
-            logo: "stations/images-europe/germany-rbb/rbb 88.8.png",
-            url: "https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid"
         },
         {
             name: "94,3 rs2",
