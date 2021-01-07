@@ -4425,8 +4425,8 @@ var stations = {
             url: "https://ic2.sslstream.com/knog-fm"
         },
         {
-            name: "My 92.9",
-            logo: "stations/images-america/tucson/My 92.9.png",
+            name: "92.9 The Bull",
+            logo: "stations/images-america/tucson/92.9 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
@@ -7547,8 +7547,8 @@ var stations = {
             url: "https://bustosradio.com:9055/urbana92"
         },
         {
-            name: "My 92.9",
-            logo: "stations/images-america/tucson/My 92.9.png",
+            name: "92.9 The Bull",
+            logo: "stations/images-america/tucson/92.9 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
@@ -7562,8 +7562,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
-            name: "97.1 The Bull",
-            logo: "stations/images-america/tucson/97.1 The Bull.png",
+            name: "my 97.1",
+            logo: "stations/images-america/tucson/my 97.1.png",
             url: "https://stream.revma.ihrhls.com/zc69/hls.m3u8"
         },
         {
