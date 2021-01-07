@@ -9691,14 +9691,9 @@ var stations_c2c = {
             url: "http://hemnos.cdnstream.com/1415_64"
         },
         {
-            name: "KLEK 102.5",
-            logo: "stations/images-america/c2c/jonesboro_ar/KLEK 102.5.png",
-            url: "https://atsradio.herokuapp.com/https://ice41.securenetsystems.net/KLEKLP"
-        },
-        {
             name: "KFLO-LP 102.9",
             logo: "stations/images-america/c2c/jonesboro_ar/KFLO-LP 102.9.png",
-            url: "http://74.220.143.142:8080/stream.mp3"
+            url: "http://216.163.19.29:8080/stream.mp3"
         },
         {
             name: "107.1 Jack FM",
