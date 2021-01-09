@@ -18272,6 +18272,11 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/KCGQ"
         },
         {
+            name: "KAPE 100.3",
+            logo: "stations/images-america/c2c/cape_girardeau_mo/KAPE 100.3.png",
+            url: "https://ice.wbcengineering.com:8111/stream"
+        },
+        {
             name: "100.7 KGMO",
             logo: "stations/images-america/c2c/cape_girardeau_mo/100.7 KGMO.png",
             url: "http://198.71.63.71:8006/stream"
@@ -18290,6 +18295,11 @@ var stations_c2c = {
             name: "K103",
             logo: "stations/images-america/c2c/cape_girardeau_mo/K103.png",
             url: "https://ice23.securenetsystems.net/KEZS"
+        },
+        {
+            name: "104.7 The Bridge",
+            logo: "stations/images-america/c2c/cape_girardeau_mo/104.7 The Bridge.png",
+            url: "https://ice.wbcengineering.com:8114/stream"
         },
         {
             name: "C106",
@@ -25529,9 +25539,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/shelbycounty-wqoxfmaac-ibc1"
         },
         {
-            name: "87.7",
-            logo: "stations/images-america/c2c/memphis_tn/Santa 87.7_christmas.png",
-            url: "https://stream1.flinn.com:8443/877FM.aac"
+            name: "Drake Hall Memphis Radio 87.7",
+            logo: "stations/images-america/c2c/memphis_tn/Drake Hall Memphis Radio 87.7.png",
+            url: "https://live.wostreaming.net/manifest/aceandtj-drakehallshowaac-imc2"
         },
         {
             name: "WYPL 89.3",
