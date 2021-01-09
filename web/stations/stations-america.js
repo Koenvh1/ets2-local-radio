@@ -10402,7 +10402,7 @@ var stations_c2c = {
         {
             name: "95.5 Spinnaker Radio",
             logo: "stations/images-america/c2c/jacksonville_fl/95.5 Spinnaker Radio.png",
-            url: "http://stream.spinnakerradio.com:8000/mp3"
+            url: "http://208.73.20.10:8000/mp3"
         },
         {
             name: "96.1 WEJZ",
@@ -10999,7 +10999,7 @@ var stations_c2c = {
         {
             name: "OK 93.5",
             logo: "stations/images-america/c2c/orlando_fl/OK 93.5.png",
-            url: "http://158.69.242.81:9968/;"
+            url: "http://s2.mexside.net:9968/;stream.mp3"
         },
         {
             name: "Intima FM 93.9",
@@ -11446,17 +11446,17 @@ var stations_c2c = {
         },
         {
             name: "New Sounds 88.5-HD2",
-            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            logo: "stations/images-america/c2c/tampa_fl/New Sounds 88.5-HD2.png",
             url: "https://stream.wmnf.org:4443/wmnf_hd2"
         },
         {
             name: "The Source 88.5-HD3",
-            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            logo: "stations/images-america/c2c/tampa_fl/The Source 88.5-HD3.png",
             url: "https://stream.wmnf.org:4443/wmnf_hd3"
         },
         {
             name: "Soul School 88.5-HD4",
-            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            logo: "stations/images-america/c2c/tampa_fl/Soul School 88.5-HD4.png",
             url: "https://stream.wmnf.org:4443/wmnf_hd4"
         },
         {
@@ -24481,7 +24481,7 @@ var stations_c2c = {
         {
             name: "Ohm Radio 96.3",
             logo: "stations/images-america/c2c/charleston_sc/Ohm Radio 96.3.png",
-            url: "http://edge1-a.exa.live365.net/a92834"
+            url: "http://streaming.live365.com/a92834"
         },
         {
             name: "96.9 The Wolf",
@@ -24778,7 +24778,7 @@ var stations_c2c = {
         },
         {
             name: "Whistle 100.5",
-            logo: "stations/images-america/c2c/greenwood_sc/Whistle 100.5.png",
+            logo: "stations/images-america/c2c/greenville_sc/Whistle 100.5.png",
             url: "https://stream.revma.ihrhls.com/zc2105/hls.m3u8"
         },
         {
