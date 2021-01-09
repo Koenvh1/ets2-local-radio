@@ -5774,9 +5774,14 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNCIFMAAC_SC"
         },
         {
-            name: "The Wolf 105.1-HD2",
-            logo: "stations/images-america/sacramento/The Wolf 105.1-HD2.png",
+            name: "105.1-HD2 The Wolf",
+            logo: "stations/images-america/sacramento/105.1-HD2 The Wolf.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNCIHD2AAC_SC"
+        },
+        {
+            name: "105.1-HD3 The Ranch",
+            logo: "stations/images-america/sacramento/105.1-HD3 The Ranch.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNCIHD3AAC_SC"
         },
         {
             name: "Money 105.5",
@@ -23348,6 +23353,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQOBFMAAC_SC"
         },
         {
+            name: "97.7 The Hawk",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/97.7 The Hawk.png",
+            url: "https://ice42.securenetsystems.net/KHRK"
+        },
+        {
             name: "The Sports Animal 98.1",
             logo: "stations/images-america/c2c/oklahoma_city_ok/The Sports Animal 98.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC_SC"
@@ -23363,18 +23373,8 @@ var stations_c2c = {
             url: "https://ice8.securenetsystems.net/KNAH"
         },
         {
-            name: "Freymiller Radio 99.7-HD3",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Freymiller Radio 99.7-HD3.png",
-            url: "https://ice41.securenetsystems.net/FREY"
-        },
-        {
-            name: "The Eagle 99.7-HD4",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/The Eagle 99.7-HD4.png",
-            url: "https://ice8.securenetsystems.net/KZLS"
-        },
-        {
-            name: "Rock 100.5",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Rock 100.5.png",
+            name: "100.5 The KATT",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/100.5 The KATT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KATTFMAAC_SC"
         },
         {
@@ -23441,6 +23441,11 @@ var stations_c2c = {
             name: "1000 KTOK",
             logo: "stations/images-america/c2c/oklahoma_city_ok/1000 KTOK.png",
             url: "https://stream.revma.ihrhls.com/zc1909/hls.m3u8"
+        },
+        {
+            name: "1640 The Eagle",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/1640 The Eagle.png",
+            url: "https://ice8.securenetsystems.net/KZLS"
         },
     ],
     "tulsa": [
