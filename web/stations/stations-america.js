@@ -10487,9 +10487,14 @@ var stations_c2c = {
             url: "https://stream.wlrn.mobi/WLRNFMAAC64"
         },
         {
-            name: "92.7 WEOW FM",
-            logo: "stations/images-america/c2c/key_west_fl/92.7 WEOW FM.png",
+            name: "WEOW 92.7",
+            logo: "stations/images-america/c2c/key_west_fl/WEOW 92.7.png",
             url: "https://ice42.securenetsystems.net/WEOW"
+        },
+        {
+            name: "95.7 WHNJ",
+            logo: "stations/images-america/c2c/key_west_fl/95.7 WHNJ.png",
+            url: "http://peridot.streamguys.com:7060/live-aac"
         },
         {
             name: "97.7 The Zone",
@@ -10512,8 +10517,8 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/WKYZ"
         },
         {
-            name: "104.1 US1 Radio",
-            logo: "stations/images-america/c2c/key_west_fl/104.1 US1 Radio.png",
+            name: "US1 104.1",
+            logo: "stations/images-america/c2c/key_west_fl/US1 104.1.png",
             url: "https://ice42.securenetsystems.net/WWUS"
         },
         {
@@ -10651,11 +10656,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4243/hls.m3u8"
         },
         {
-            name: "The Bull 93.9-HD2",
-            logo: "stations/images-america/c2c/miami_fl/The Bull 104.7.png",
-            url: "https://stream.revma.ihrhls.com/zc6617/hls.m3u8"
-        },
-        {
             name: "Tú 94.9",
             logo: "stations/images-america/c2c/miami_fl/Tú 94.9.png",
             url: "https://stream.revma.ihrhls.com/zc577/hls.m3u8"
@@ -10691,9 +10691,9 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKISFMAAC_SC"
         },
         {
-            name: "100.3 The Grind",
+            name: "The Grind 100.3",
             logo: "stations/images-america/c2c/miami_fl/100.3 The Grind.png",
-            url: "https://node-24.zeno.fm/10t6t40rneruv.aac"
+            url: "https://stream.zenolive.com/10t6t40rneruv.aac"
         },
         {
             name: "Y100",
@@ -10734,6 +10734,11 @@ var stations_c2c = {
             name: "104.3 The Shark",
             logo: "stations/images-america/c2c/miami_fl/104.3 The Shark.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSFSFMAAC_SC"
+        },
+        {
+            name: "The Bull 104.7",
+            logo: "stations/images-america/c2c/miami_fl/The Bull 104.7.png",
+            url: "https://stream.revma.ihrhls.com/zc6617/hls.m3u8"
         },
         {
             name: "Throwback 105.5",
