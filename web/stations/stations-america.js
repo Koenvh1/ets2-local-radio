@@ -11824,6 +11824,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKHXFMAAC_SC"
         },
         {
+            name: "102.1 Fox FM",
+            logo: "stations/images-america/c2c/atlanta_ga/102.1 Fox FM.png",
+            url: "http://s34.myradiostream.com:14064/listen.mp3"
+        },
+        {
             name: "Classix 102.9",
             logo: "stations/images-america/c2c/atlanta_ga/Classix 102.9.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WAMJHD2AAC_SC"
@@ -17975,103 +17980,6 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/WZKX"
         },
     ],
-    "jackson_ms": [
-        {
-            name: "WJSU 88.5",
-            logo: "stations/images-america/c2c/jackson_ms/WJSU 88.5.png",
-            url: "https://ic2.sslstream.com/wjsu-fm"
-        },
-        {
-            name: "WMPR 90.1",
-            logo: "stations/images-america/c2c/jackson_ms/WMPR 90.1.png",
-            url: "https://ice7.securenetsystems.net/WMPR"
-        },
-        {
-            name: "MPB Think Radio 91.3",
-            logo: "stations/images-america/0_general_logos/MPB Think Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_128_SC"
-        },
-        {
-            name: "MPB Music Radio 91.3-HD2",
-            logo: "stations/images-america/0_general_logos/MPB Music Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_128_SC"
-        },
-        {
-            name: "Blues 93.1",
-            logo: "stations/images-america/c2c/jackson_ms/Blues 93.1.png",
-            url: "https://live.wostreaming.net/manifest/newsouth-wiinamaac-ibc2"
-        },
-        {
-            name: "93.5 The Legend",
-            logo: "stations/images-america/c2c/jackson_ms/93.5 The Legend.png",
-            url: "https://live.wostreaming.net/direct/newsouth-whjtfmaac-ibc4"
-        },
-        {
-            name: "US 96",
-            logo: "stations/images-america/c2c/vicksburg_ms/US 96.png",
-            url: "https://live.wostreaming.net/manifest/newsouth-wusjfmaac-ibc3"
-        },
-        {
-            name: "97.3 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/jackson_ms/97.3 SuperTalk Mississippi.png",
-            url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
-        },
-        {
-            name: "97.7 WRBJ",
-            logo: "stations/images-america/c2c/jackson_ms/97.7 WRBJ.png",
-            url: "https://live.wostreaming.net/manifest/wrbjfm-wrbjfmaac-ibc4"
-        },
-        {
-            name: "BIN 98.1",
-            logo: "stations/images-america/c2c/jackson_ms/BIN 98.1.png",
-            url: "https://stream.revma.ihrhls.com/zc8774/hls.m3u8"
-        },
-        {
-            name: "Mix 98.7",
-            logo: "stations/images-america/c2c/vicksburg_ms/Mix 98.7.png",
-            url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
-        },
-        {
-            name: "Smooth Soul 100.5",
-            logo: "stations/images-america/c2c/jackson_ms/Smooth Soul 100.5.png",
-            url: "https://ice10.securenetsystems.net/WRTMFM"
-        },
-        {
-            name: "Y101",
-            logo: "stations/images-america/c2c/jackson_ms/Y101.png",
-            url: "https://live.wostreaming.net/direct/newsouth-wyoyfmaac-ibc3"
-        },
-        {
-            name: "WTWZ 102.5",
-            logo: "stations/images-america/c2c/jackson_ms/WTWZ 102.5.png",
-            url: "https://us2.maindigitalstream.com/ssl/WTWZ"
-        },
-        {
-            name: "MISS 103",
-            logo: "stations/images-america/c2c/vicksburg_ms/MISS 103.png",
-            url: "https://stream.revma.ihrhls.com/zc1241/hls.m3u8"
-        },
-        {
-            name: "WYAB 103.9",
-            logo: "stations/images-america/c2c/jackson_ms/WYAB 103.9.png",
-            url: "http://www.wyab.com:81/stream"
-        },
-        {
-            name: "REAL 105.1",
-            logo: "stations/images-america/c2c/jackson_ms/REAL 105.1.png",
-            url: "https://stream.revma.ihrhls.com/zc1249/hls.m3u8"
-        },
-        {
-            name: "Z106.7",
-            logo: "stations/images-america/c2c/jackson_ms/Z106.7.png",
-            url: "https://stream.revma.ihrhls.com/zc1245/hls.m3u8"
-        },
-        {
-            name: "620 WJDX",
-            logo: "stations/images-america/c2c/jackson_ms/620 WJDX.png",
-            url: "https://stream.revma.ihrhls.com/zc4483/hls.m3u8"
-        },
-    ],
     "meridian_ms": [
         {
             name: "MPB Think Radio 88.1",
@@ -18215,9 +18123,24 @@ var stations_c2c = {
     ],
     "vicksburg_ms": [
         {
+            name: "WJSU 88.5",
+            logo: "stations/images-america/c2c/vicksburg_ms/WJSU 88.5.png",
+            url: "https://ic2.sslstream.com/wjsu-fm"
+        },
+        {
+            name: "WMPR 90.1",
+            logo: "stations/images-america/c2c/vicksburg_ms/WMPR 90.1.png",
+            url: "https://ice7.securenetsystems.net/WMPR"
+        },
+        {
             name: "MPB Think Radio 91.3",
             logo: "stations/images-america/0_general_logos/MPB Think Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_128_SC"
+        },
+        {
+            name: "MPB Music Radio 91.3-HD2",
+            logo: "stations/images-america/0_general_logos/MPB Music Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_128_SC"
         },
         {
             name: "92.7 The Touch",
@@ -18225,9 +18148,34 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KSBU"
         },
         {
+            name: "Blues 93.1",
+            logo: "stations/images-america/c2c/vicksburg_ms/Blues 93.1.png",
+            url: "https://live.wostreaming.net/manifest/newsouth-wiinamaac-ibc2"
+        },
+        {
+            name: "93.5 The Legend",
+            logo: "stations/images-america/c2c/vicksburg_ms/93.5 The Legend.png",
+            url: "https://live.wostreaming.net/direct/newsouth-whjtfmaac-ibc4"
+        },
+        {
             name: "US 96",
             logo: "stations/images-america/c2c/vicksburg_ms/US 96.png",
             url: "https://live.wostreaming.net/manifest/newsouth-wusjfmaac-ibc3"
+        },
+        {
+            name: "97.3 SuperTalk Mississippi",
+            logo: "stations/images-america/c2c/vicksburg_ms/97.3 SuperTalk Mississippi.png",
+            url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
+        },
+        {
+            name: "97.7 WRBJ",
+            logo: "stations/images-america/c2c/vicksburg_ms/97.7 WRBJ.png",
+            url: "https://live.wostreaming.net/manifest/wrbjfm-wrbjfmaac-ibc4"
+        },
+        {
+            name: "BIN 98.1",
+            logo: "stations/images-america/c2c/vicksburg_ms/BIN 98.1.png",
+            url: "https://stream.revma.ihrhls.com/zc8774/hls.m3u8"
         },
         {
             name: "Mix 98.7",
@@ -18235,9 +18183,24 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
         },
         {
+            name: "Smooth Soul 100.5",
+            logo: "stations/images-america/c2c/vicksburg_ms/Smooth Soul 100.5.png",
+            url: "https://ice10.securenetsystems.net/WRTMFM"
+        },
+        {
+            name: "Y101",
+            logo: "stations/images-america/c2c/vicksburg_ms/Y101.png",
+            url: "https://live.wostreaming.net/direct/newsouth-wyoyfmaac-ibc3"
+        },
+        {
             name: "River 101.3",
             logo: "stations/images-america/c2c/vicksburg_ms/River 101.3.png",
             url: "http://ice42.securenetsystems.net/WBBV"
+        },
+        {
+            name: "WTWZ 102.5",
+            logo: "stations/images-america/c2c/vicksburg_ms/WTWZ 102.5.png",
+            url: "https://us2.maindigitalstream.com/ssl/WTWZ"
         },
         {
             name: "MISS 103",
@@ -18245,14 +18208,34 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1241/hls.m3u8"
         },
         {
+            name: "WYAB 103.9",
+            logo: "stations/images-america/c2c/vicksburg_ms/WYAB 103.9.png",
+            url: "http://www.wyab.com:81/stream"
+        },
+        {
             name: "K-HITS 104.5",
             logo: "stations/images-america/c2c/vicksburg_ms/K-HITS 104.5.png",
             url: "https://ice42.securenetsystems.net/KLSM"
         },
         {
+            name: "REAL 105.1",
+            logo: "stations/images-america/c2c/vicksburg_ms/REAL 105.1.png",
+            url: "https://stream.revma.ihrhls.com/zc1249/hls.m3u8"
+        },
+        {
             name: "V105.5",
             logo: "stations/images-america/c2c/vicksburg_ms/V105.5.png",
             url: "http://66.245.184.90:8002/;"
+        },
+        {
+            name: "Z106.7",
+            logo: "stations/images-america/c2c/vicksburg_ms/Z106.7.png",
+            url: "https://stream.revma.ihrhls.com/zc1245/hls.m3u8"
+        },
+        {
+            name: "620 WJDX",
+            logo: "stations/images-america/c2c/vicksburg_ms/620 WJDX.png",
+            url: "https://stream.revma.ihrhls.com/zc4483/hls.m3u8"
         },
         {
             name: "1490 WVBG",

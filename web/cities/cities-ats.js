@@ -3141,12 +3141,6 @@ var country_properties_c2c = {
         code: "us-ms",
         relative_radius: 0.9
     },
-    "jackson_ms": {
-        name: "jackson_ms",
-        name_english: "jackson_ms",
-        code: "us-ms",
-        relative_radius: 0.9
-    },
     "meridian_ms": {
         name: "meridian_ms",
         name_english: "meridian_ms",
@@ -3955,7 +3949,7 @@ var country_properties_c2c = {
         name: "houston",
         name_english: "houston",
         code: "us-tx",
-        relative_radius: 1.1
+        relative_radius: 0.8
     },
     "kerrville": {
         name: "kerrville",
@@ -4447,7 +4441,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "lake_charles": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "monroe_la": {
         relative_whitenoise: 0.95
@@ -4546,9 +4540,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "hattiesburg": {
-        relative_whitenoise: 0.95
-    },
-    "jackson_ms": {
         relative_whitenoise: 0.95
     },
     "meridian_ms": {
@@ -4945,7 +4936,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "houston": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "kerrville": {
         relative_whitenoise: 0.95
@@ -5846,14 +5837,6 @@ var cities_c2c = [
         "x": "32292.2",
         "y": "25.157",
         "z": "41669"
-    },
-    {
-        "gameName": "jackson_ms",
-        "realName": "Jackson",
-        "country": "mississippi",
-        "x": "27414.8",
-        "y": "94.7539",
-        "z": "35938.7"
     },
     {
         "gameName": "meridian_ms",
