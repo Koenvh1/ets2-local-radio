@@ -10825,7 +10825,7 @@ var stations_c2c = {
         {
             name: "Gelly 94.1",
             logo: "stations/images-america/c2c/naples_fl/Gelly 94.1.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFM2AAC_SC"
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/W231DC_FMAAC_SC"
         },
         {
             name: "94.5 The Arrow",
