@@ -26412,9 +26412,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/mesquite-keomfmaac-ibc4"
         },
         {
-            name: "KNON 89.3fm",
-            logo: "stations/images-america/c2c/dallas_tx/KNON 89.3fm.jpg",
-            url: "http://rfa-icecast-loadbalancer-113035401.us-east-1.elb.amazonaws.com:8000/knon"
+            name: "KNON 89.3",
+            logo: "stations/images-america/c2c/dallas_tx/KNON 89.3.png",
+            url: "http://64.78.234.165:8000/KNON"
         },
         {
             name: "KERA 90.1",
@@ -26562,9 +26562,24 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "NewsRadio 1080 KRLD",
-            logo: "stations/images-america/c2c/dallas_tx/NewsRadio 1080 KRLD.png",
+            name: "1080 KRLD",
+            logo: "stations/images-america/c2c/dallas_tx/1080 KRLD.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRLDAMAAC_SC"
+        },
+        {
+            name: "Talk Radio 1190",
+            logo: "stations/images-america/c2c/dallas_tx/Talk Radio 1190.png",
+            url: "https://stream.revma.ihrhls.com/zc4276/hls.m3u8"
+        },
+        {
+            name: "1310 The Ticket",
+            logo: "stations/images-america/c2c/dallas_tx/1310 The Ticket.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC_SC"
+        },
+        {
+            name: "BIN 1630",
+            logo: "stations/images-america/c2c/dallas_tx/BIN 1630.png",
+            url: "https://stream.revma.ihrhls.com/zc8821/hls.m3u8"
         },
     ],
     "dalhart_tx": [
@@ -26838,6 +26853,11 @@ var stations_c2c = {
             name: "104.1 KRBE",
             logo: "stations/images-america/c2c/houston_tx/104.1 KRBE.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEFMAAC_SC"
+        },
+        {
+            name: "Power 105.3",
+            logo: "stations/images-america/c2c/houston_tx/Power 105.3.png",
+            url: "http://96.73.119.50:8002/power1053"
         },
         {
             name: "NewsRadio 740",
@@ -27212,8 +27232,8 @@ var stations_c2c = {
             url: "http://184.164.135.70:8197/stream"
         },
         {
-            name: "98.7 The Fox",
-            logo: "stations/images-america/c2c/texarkana_tx/98.7 The Fox.png",
+            name: "Real Country 98.7",
+            logo: "stations/images-america/c2c/texarkana_tx/Real Country 98.7.png",
             url: "https://ice41.securenetsystems.net/KTFS"
         },
         {
