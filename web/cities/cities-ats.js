@@ -2599,13 +2599,13 @@ var country_properties_c2c = {
         name: "miami",
         name_english: "miami",
         code: "us-fl",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "naples": {
         name: "naples",
         name_english: "naples",
         code: "us-fl",
-        relative_radius: 1.0
+        relative_radius: 0.75
     },
     "new_smyrna_beach": {
         name: "new_smyrna_beach",
@@ -2617,7 +2617,7 @@ var country_properties_c2c = {
         name: "orlando",
         name_english: "orlando",
         code: "us-fl",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "pensacola": {
         name: "pensacola",
@@ -2629,7 +2629,7 @@ var country_properties_c2c = {
         name: "Sarasota",
         name_english: "Sarasota",
         code: "us-fl",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "tallahassee": {
         name: "tallahassee",
@@ -2641,7 +2641,7 @@ var country_properties_c2c = {
         name: "tampa",
         name_english: "tampa",
         code: "us-fl",
-        relative_radius: 1.1
+        relative_radius: 0.8
     },
     "georgia": {
         name: "georgia",
@@ -4276,28 +4276,28 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "miami": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "naples": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "new_smyrna_beach": {
         relative_whitenoise: 0.95
     },
     "orlando": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "pensacola": {
         relative_whitenoise: 0.95
     },
     "sarasota_fl": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "tallahassee": {
         relative_whitenoise: 0.95
     },
     "tampa": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "georgia": {
         relative_whitenoise: 0.95
