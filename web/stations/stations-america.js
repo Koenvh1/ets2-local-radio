@@ -10320,7 +10320,7 @@ var stations_c2c = {
         {
             name: "US 102.3",
             logo: "stations/images-america/c2c/gainesville_fl/US 102.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTRSFMAAC_SC"
+            url: "https://ice66.securenetsystems.net/WXUS"
         },
         {
             name: "True Oldies Y100.1 @ 102.3-HD2",
@@ -12358,7 +12358,7 @@ var stations_c2c = {
         {
             name: "FOX Sports 96.1",
             logo: "stations/images-america/c2c/valdosta_ga/Fox Sports 96.1.png",
-            url: "http://67.212.189.122:8009/;"
+            url: "http://108.163.223.242:8122/;stream.mp3"
         },
         {
             name: "WGOV 96.7",
