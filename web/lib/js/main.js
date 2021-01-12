@@ -614,8 +614,8 @@ function refreshStations() {
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
                     '<div class="frame text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
-                    '<span class="overflow">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) + '</span>' +
-                    (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") +
+                    '<span class="overflow station-subtitle">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) +
+                    (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") + '</span>' +
                     '<img src="lib/img/signal/' + reception + '.png" class="signal">' +
                     '</div>' +
                     '<div class="play-button"></div>' +
