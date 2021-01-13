@@ -201,12 +201,12 @@ var stations = {
             url: "https://radio7.streaming-pro.com:6146/radio7.mp3"
         },
     ],
-    "belarus": [
+    "belarus": [/*
         {
             name: "1 канал",
             logo: "stations/images-europe/belarus/1 канал.jpg",
             url: "http://video.tvr.by:8000/radio1"
-        },
+        },*/
         {
             name: "Канал Культура",
             logo: "stations/images-europe/belarus/Канал Культура.jpg",
@@ -554,7 +554,7 @@ var stations = {
         {
             name: "Otvoreni radio",
             logo: "stations/images-europe/croatia/Otvoreni radio.png",
-            url: "http://proxima.shoutca.st:8357/;"
+            url: "https://stream.otvoreni.hr/otvoreni"
         },
     ],
     "cyprus": [
@@ -604,22 +604,20 @@ var stations = {
             url: "http://r1.phileradio.com:8193/sfera"
         },
         {
-            name: "Sunshine Radio",
-            logo: "stations/images-europe/cyprus/Sunshine Radio.webp",
-            url: "http://5.63.151.52:7172/stream/;stream.mp3?_=1"
-        },
-        /*
-        {
             name: "BFBS Cyprus",
             logo: "stations/images-europe/cyprus/Bayrak Radyosu.png",
-            url: "http://edge-audio-01-cr.sharp-stream.com/ssvcbfbs8.aac"
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac"
         },
-        */
-        /*
         {
             name: "Capital Radio",
             logo: "stations/images-europe/cyprus/Capital Radio.jpg",
-            url: "http://78.159.112.254:8308/listen.pls"
+            url: "http://159.253.37.137:9956/;"
+        },
+        /*
+        {
+            name: "Sunshine Radio",
+            logo: "stations/images-europe/cyprus/Sunshine Radio.webp",
+            url: "http://5.63.151.52:7172/stream/;stream.mp3?_=1"
         },
         */
     ],
@@ -912,7 +910,7 @@ var stations = {
         {
             name: "ENERGY",
             logo: "stations/images-europe/finland/Energy.png",
-            url: "http://cdn.nrjaudio.fm/adwz1/fi/35001/mp3_128.mp3"
+            url: "https://stream.bauermedia.fi/nrj/nrj_64.aac"
         },
         {
             name: "Helmiradio",
@@ -3266,7 +3264,7 @@ var stations = {
         {
             name: "Hit FM",
             logo: "stations/images-europe/serbia/Hit FM.png",
-            url: "http://streaming.hitfm.rs:8000/hit"
+            url: "https://streaming.hitfm.rs/hit.mp3"
         },
         {
             name: "Play Radio",
@@ -3724,7 +3722,7 @@ var stations = {
         },
         {
             name: "Süper FM",
-            logo: "stations/images-europe/turkey/Süper FM.jpg",
+            logo: "stations/images-europe/turkey/Süper FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
         },
     ],
