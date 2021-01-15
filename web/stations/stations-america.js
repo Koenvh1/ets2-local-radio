@@ -18352,11 +18352,6 @@ var stations_c2c = {
             url: "http://ic1.mainstreamnetwork.com/kwrt-fm"
         },
         {
-            name: "Mix Country 96",
-            logo: "stations/images-america/c2c/columbia_mo/Mix Country 96.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice42.securenetsystems.net/KWWR"
-        },
-        {
             name: "Power 97.7",
             logo: "stations/images-america/c2c/columbia_mo/Power 97.7.png",
             url: "http://icecast.yhti.net:8000/KPOW977_high"
@@ -18483,7 +18478,7 @@ var stations_c2c = {
         {
             name: "ESPN 94.5",
             logo: "stations/images-america/c2c/kansascity_mo/ESPN 94.5.png",
-            url: "https://ice6.securenetsystems.net/KCTE"
+            url: "https://live.wostreaming.net/manifest/unionbroadcasting-kcteamaac-ibc2"
         },
         {
             name: "94.9 KCMO",
@@ -18558,7 +18553,7 @@ var stations_c2c = {
         {
             name: "105.9 KISS FM",
             logo: "stations/images-america/c2c/kansascity_mo/105.9 KISS FM.png",
-            url: "https://ice23.securenetsystems.net/KKSWF"
+            url: "https://ice23.securenetsystems.net/KKSWFM"
         },
         {
             name: "106.5 The Wolf",
