@@ -383,6 +383,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
         },
         {
+            name: "Q92.1",
+            logo: "stations/images-america/bakersfield/Q92.1.png",
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KQKZFMAAC_SC"
+        },
+        {
             name: "La Campesina 92.5",
             logo: "stations/images-america/bakersfield/La Campesina 92.5.png",
             url: "https://ice7.securenetsystems.net/KMYX"
@@ -25179,17 +25184,17 @@ var stations_c2c = {
         {
             name: "REAL 96.1",
             logo: "stations/images-america/c2c/chattanooga_tn/Real 96.1.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2_SC"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2AAC_SC"
         },
         {
             name: "98.1 The Lake",
             logo: "stations/images-america/c2c/chattanooga_tn/98.1 The Lake.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WLNDFM_SC"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WLNDFMAAC_SC"
         },
         {
             name: "US 101",
             logo: "stations/images-america/c2c/chattanooga_tn/US 101.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSYFM_SC"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSYFMAAC_SC"
         },
         {
             name: "Talk Radio 102.3",
@@ -25199,7 +25204,7 @@ var stations_c2c = {
         {
             name: "103.7 KISS FM",
             logo: "stations/images-america/c2c/chattanooga_tn/103.7 KISS FM.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WKXJFM_SC"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WKXJFMAAC_SC"
         },
         {
             name: "105.1 ESPN",
@@ -25209,7 +25214,7 @@ var stations_c2c = {
         {
             name: "ROCK 105",
             logo: "stations/images-america/c2c/chattanooga_tn/ROCK 105.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WRXRFM_SC"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WRXRFMAAC_SC"
         },
         {
             name: "Mix 106.1",
