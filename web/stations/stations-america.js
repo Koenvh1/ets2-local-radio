@@ -3660,6 +3660,11 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KCBSFMAAC_SC"
         },
         {
+            name: "93.5 KDAY",
+            logo: "stations/images-america/los_angeles/93.5 KDAY.png",
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
+        },
+        {
             name: "Cali 93.9",
             logo: "stations/images-america/los_angeles/Cali 93.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC_SC"
@@ -14038,11 +14043,6 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice9.securenetsystems.net/KBGLFM"
         },
         {
-            name: "Old School 107.9",
-            logo: "stations/images-america/c2c/hays_ks/Old School 107.9.png",
-            url: "https://ice42.securenetsystems.net/KZRS"
-        },
-        {
             name: "KVGB 1590",
             logo: "stations/images-america/c2c/greatbend_ks/KVGB 1590.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice10.securenetsystems.net/KVGBAM2"
@@ -14103,11 +14103,6 @@ var stations_c2c = {
             name: "KISS 104.7",
             logo: "stations/images-america/c2c/hays_ks/KISS 104.7.png",
             url: "https://ice6.securenetsystems.net/KXNC"
-        },
-        {
-            name: "Old School 107.9",
-            logo: "stations/images-america/c2c/hays_ks/Old School 107.9.png",
-            url: "https://ice42.securenetsystems.net/KZRS"
         },
         {
             name: "KFRM 550",
