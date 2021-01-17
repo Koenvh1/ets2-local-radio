@@ -45,7 +45,7 @@ var country_properties = {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "bellingham": {
         name: "Bellingham",
@@ -261,7 +261,7 @@ var country_properties = {
         name: "Indio",
         name_english: "Indio",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "kayenta": {
         name: "Kayenta",
@@ -345,7 +345,7 @@ var country_properties = {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 0.9
+        relative_radius: 0.75
     },
     "ltahoe": {
         name: "South Lake Tahoe",
@@ -496,6 +496,12 @@ var country_properties = {
         name_english: "Reno",
         code: "us-nv",
         relative_radius: 0.8
+    },
+    "riverside": {
+        name: "Riverside",
+        name_english: "Riverside",
+        code: "us-ca",
+        relative_radius: 0.5
     },
     "roswell": {
         name: "Roswell",
@@ -741,7 +747,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "barstow": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "bellingham": {
         relative_whitenoise: 0.80
@@ -837,7 +843,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "indio": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.95
     },
     "kayenta": {
         relative_whitenoise: 0.95
@@ -876,7 +882,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "los_angeles": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "ltahoe": {
         relative_whitenoise: 0.95
@@ -949,6 +955,9 @@ var city_properties = {
     },
     "reno": {
         relative_whitenoise: 0.80
+    },
+    "riverside": {
+        relative_whitenoise: 0.85
     },
     "sacramento": {
         relative_whitenoise: 0.80
@@ -1071,9 +1080,9 @@ var cities = [
         "gameName": "barstow",
         "realName": "Barstow",
         "country": "california",
-        "x": "-96025.3",
-        "y": "66.1934",
-        "z": "12468.9"
+        "x": "-95069.8",
+        "y": "121.652",
+        "z": "12704.5"
     },
     {
         "gameName": "bishop",
@@ -1207,9 +1216,9 @@ var cities = [
         "gameName": "los_angeles",
         "realName": "Los Angeles",
         "country": "california",
-        "x": "-102055",
-        "y": "41.8943",
-        "z": "16476.5"
+        "x": "-104281",
+        "y": "64.3862",
+        "z": "16218.6"
     },
     {
         "gameName": "ltahoe",
@@ -1282,6 +1291,14 @@ var cities = [
         "x": "-99918.2",
         "y": "191.806",
         "z": "-18717.4"
+    },
+    {
+        "gameName": "riverside",
+        "realName": "Riverside",
+        "country": "california",
+        "x": "-98135.7",
+        "y": "5.11605",
+        "z": "17353.7"
     },
     {
         "gameName": "sacramento",
