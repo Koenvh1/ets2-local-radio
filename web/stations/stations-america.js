@@ -1545,8 +1545,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KALCFMAAC_SC"
         },
         {
-            name: "ChannelQ 105.9-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 105.9-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -1933,7 +1933,7 @@ var stations = {
             url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
         },
         {
-            name: "92.9 KAFF",
+            name: "92.9 KAFF Country",
             logo: "stations/images-america/flagstaff/92.9 KAFF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFMAAC_SC"
         },
@@ -1978,9 +1978,9 @@ var stations = {
             url: "https://live.wostreaming.net/direct/yavapai-kqstfmmp3-ibc1"
         },
         {
-            name: "103.7 The Eagle Rocks",
-            logo: "stations/images-america/flagstaff/103.7 The Eagle Rocks.png",
-            url: "http://stream.affordablestreaming.com:8000/eaglerocks.mp3"
+            name: "103.7 The Eagle",
+            logo: "stations/images-america/flagstaff/103.7 The Eagle.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGN_2_0_SC"
         },
         {
             name: "Rewind 104.1",
@@ -2832,8 +2832,8 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KRHQ"
         },
         {
-            name: "ChannelQ 103.1",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 103.1",
+            logo: "stations/images-america/indio/Channel Q 103.1.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -3129,7 +3129,7 @@ var stations = {
             url: "https://ice8.securenetsystems.net/KLADFM"
         },
         {
-            name: "Radio 74 Internationale 98.1",
+            name: "Radio 74 98.1",
             logo: "stations/images-america/lakeview/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
@@ -3295,8 +3295,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KMXBFMAAC_SC"
         },
         {
-            name: "ChannelQ 94.1-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 94.1-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -3602,7 +3602,12 @@ var stations = {
         {
             name: "KJazz 88.1",
             logo: "stations/images-america/los_angeles/KJazz 88.1.png",
-            url: "http://1.ice1.firststreaming.com/kkjz_fm.mp3"
+            url: "https://1.ice1.sslstream.com/kkjz_fm.aac"
+        },
+        {
+            name: "KJazz Cool Jazz 88.1-HD2",
+            logo: "stations/images-america/los_angeles/KJazz Cool Jazz 88.1-HD2.png",
+            url: "https://1.ice1.sslstream.com/kkjz_hd.aac"
         },
         {
             name: "22 West Radio 88.1-HD3",
@@ -3725,13 +3730,13 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/sbsystems-kxolfmaac-ib-64"
         },
         {
-            name: "97.1 AMP",
+            name: "97.1 AMP Radio",
             logo: "stations/images-america/los_angeles/97.1 AMP Radio.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPFMAAC_SC"
         },
         {
-            name: "ChannelQ 97.1-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 97.1-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -4738,8 +4743,13 @@ var stations = {
         },
         {
             name: "KJZZ 91.5",
-            logo: "stations/images-america/phoenix/KJZZ.png",
+            logo: "stations/images-america/phoenix/KJZZ 91.5.png",
             url: "http://kjzz.streamguys1.com:80/kjzz_mp3_128"
+        },
+        {
+            name: "KJZZ 91.5-HD2",
+            logo: "stations/images-america/phoenix/KJZZ 91.5-HD2.png",
+            url: "https://kjzz.streamguys1.com/kjzzhd2_mp3_128"
         },
         {
             name: "KTAR 92.3",
@@ -4842,8 +4852,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KALVFMAAC_SC"
         },
         {
-            name: "ChannelQ 101.5-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 101.5-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -5143,8 +5153,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KRSKFMAAC_SC"
         },
         {
-            name: "ChannelQ 105.1-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 105.1-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -5771,8 +5781,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KKDOFMAAC_SC"
         },
         {
-            name: "ChannelQ 94.7-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 94.7-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -6452,8 +6462,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KXSNHD2AAC_SC"
         },
         {
-            name: "ChannelQ 98.1-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 98.1-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -6604,8 +6614,8 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC_SC"
         },
         {
-            name: "ChannelQ 99.3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 99.3",
+            logo: "stations/images-america/san_francisco/Channel Q 99.3.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -6868,8 +6878,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7787/hls.m3u8"
         },
         {
-            name: "ChannelQ 103.3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 103.3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -6962,16 +6972,16 @@ var stations = {
         {
             name: "Q Country 92.5",
             logo: "stations/images-america/show_low/Q Country 92.5.png",
-            url: "https://ice42.securenetsystems.net/KTHQ"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice42.securenetsystems.net/KTHQ"
         },
         {
             name: "Power 95.7",
             logo: "stations/images-america/show_low/Power 95.7.png",
-            url: "http://stream.radiojar.com/s9y596g305quv.mp3"
+            url: "http://stream.radiojar.com/s9y596g305quv"
         },
         {
-            name: "Mix 98",
-            logo: "stations/images-america/show_low/Mix 98.png",
+            name: "98.5 KRFM",
+            logo: "stations/images-america/show_low/98.5 KRFM.png",
             url: "https://ice23.securenetsystems.net/KRFM"
         },
         {
@@ -6982,7 +6992,7 @@ var stations = {
         {
             name: "Majik 101.7",
             logo: "stations/images-america/show_low/Majik 101.7.png",
-            url: "https://ice42.securenetsystems.net/KQAZ"
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice42.securenetsystems.net/KQAZ"
         },
         {
             name: "105.5 KSNX",
@@ -9947,8 +9957,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WZMXFMAAC_SC"
         },
         {
-            name: "ChannelQ 93.7-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 93.7-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -10758,8 +10768,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/REGGAENATION_SC"
         },
         {
-            name: "ChannelQ 96.5-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 96.5-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -11199,8 +11209,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WOMXFMAAC_SC"
         },
         {
-            name: "ChannelQ 105.1-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 105.1-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -11841,8 +11851,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WSTRHD2AAC_SC"
         },
         {
-            name: "ChannelQ 94.1-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 94.1-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -12709,8 +12719,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WCFSHD2AAC_SC"
         },
         {
-            name: "ChannelQ 96.3-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 96.3-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -15494,8 +15504,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WEZBFMAAC_SC"
         },
         {
-            name: "ChannelQ 97.1-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 97.1-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -16026,8 +16036,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WWMXFMAAC_SC"
         },
         {
-            name: "ChannelQ 106.5-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 106.5-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -16093,8 +16103,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WIADFMAAC_SC"
         },
         {
-            name: "ChannelQ 94.7-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 94.7-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -16370,8 +16380,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WBGBFMAAC_SC"
         },
         {
-            name: "ChannelQ 103.3-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 103.3-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -16639,8 +16649,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WDZHHD2AAC_SC"
         },
         {
-            name: "ChannelQ 98.7-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 98.7-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -18563,8 +18573,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KRBZFMAAC_SC"
         },
         {
-            name: "ChannelQ 96.5-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 96.5-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -18799,8 +18809,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KYKYHD2AAC_SC"
         },
         {
-            name: "ChannelQ 98.1-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 98.1-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -20042,7 +20052,7 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KOOOFMNAAC_SC"
         },
         {
-            name: "102.3 El Patron",
+            name: "102.3 El Patrón",
             logo: "stations/images-america/c2c/omaha_ne/102.3 El Patron.png",
             url: "https://stream.revma.ihrhls.com/zc6715/hls.m3u8"
         },
@@ -20686,8 +20696,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2AAC_SC"
         },
         {
-            name: "ChannelQ 92.3-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 92.3-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -21042,8 +21052,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WPXYFMAAC_SC"
         },
         {
-            name: "ChannelQ 97.9-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 97.9-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -22603,8 +22613,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WQALFMAAC_SC"
         },
         {
-            name: "ChannelQ 104.1-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 104.1-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -23565,7 +23575,7 @@ var stations_c2c = {
             url: "https://ice8.securenetsystems.net/KTSO"
         },
         {
-            name: "101.5 El Patron",
+            name: "101.5 El Patrón",
             logo: "stations/images-america/c2c/tulsa_ok/101.5 El Patron.png",
             url: "https://stream.revma.ihrhls.com/zc1925/hls.m3u8"
         },
@@ -24081,8 +24091,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WTDYFM_SC"
         },
         {
-            name: "ChannelQ 96.5-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 96.5-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -24318,8 +24328,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WDSYFM_SC"
         },
         {
-            name: "ChannelQ 107.9-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 107.9-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -24395,8 +24405,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WMQXFMAAC_SC"
         },
         {
-            name: "ChannelQ 102.3-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 102.3-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -26597,8 +26607,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KVILHD2AAC_SC"
         },
         {
-            name: "ChannelQ 103.7-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 103.7-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -26830,8 +26840,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KKHHFMAAC_SC"
         },
         {
-            name: "ChannelQ 95.7-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 95.7-HD2",
+            logo: "stations/images-america/c2c/houston_tx/Channel Q 95.7-HD2.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -28012,8 +28022,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WNVZFMAAC_SC"
         },
         {
-            name: "ChannelQ 104.5-HD2",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 104.5-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
@@ -29038,8 +29048,8 @@ var stations_c2c = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSFM_SC"
         },
         {
-            name: "ChannelQ 103.7-HD3",
-            logo: "stations/images-america/0_general_logos/ChannelQ.png",
+            name: "Channel Q 103.7-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
