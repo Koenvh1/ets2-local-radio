@@ -225,7 +225,7 @@ var country_properties = {
         name: "Grand Canyon Village",
         name_english: "Grand Canyon Village",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 0.5
     },
     "grand_juncti": {
         name: "Grand Junction",
@@ -395,12 +395,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.8
     },
-    "nogales": {
-        name: "Nogales",
-        name_english: "Nogales",
-        code: "us-az",
-        relative_radius: 1.2
-    },
     "olympia": {
         name: "Olympia",
         name_english: "Olympia",
@@ -435,7 +429,7 @@ var country_properties = {
         name: "Phoenix",
         name_english: "Phoenix",
         code: "us-az",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "pioche": {
         name: "Pioche",
@@ -585,7 +579,7 @@ var country_properties = {
         name: "San Simon",
         name_english: "San Simon",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "seattle": {
         name: "Seattle",
@@ -603,7 +597,7 @@ var country_properties = {
         name: "Sierra Vista",
         name_english: "Sierra Vista",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "socorro": {
         name: "Socorro",
@@ -657,7 +651,7 @@ var country_properties = {
         name: "Tucson",
         name_english: "Tucson",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 0.75
     },
     "twin_falls": {
         name: "Twin Falls",
@@ -908,9 +902,6 @@ var city_properties = {
     "newport": {
         relative_whitenoise: 0.95
     },
-    "nogales": {
-        relative_whitenoise: 0.95
-    },
     "olympia": {
         relative_whitenoise: 0.80
     },
@@ -927,7 +918,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "phoenix": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "pioche": {
         relative_whitenoise: 0.95
@@ -996,7 +987,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "san_simon": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "seattle": {
         relative_whitenoise: 0.90
@@ -1005,7 +996,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sierra_vista": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "socorro": {
         relative_whitenoise: 0.95
@@ -1032,7 +1023,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "tucson": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "twin_falls": {
         relative_whitenoise: 0.95
@@ -1229,14 +1220,6 @@ var cities = [
         "z": "-11897.2"
     },
     {
-        "gameName": "nogales",
-        "realName": "Nogales",
-        "country": "arizona",
-        "x": "-72018.8",
-        "y": "115",
-        "z": "36925.1"
-    },
-    {
         "gameName": "oxnard",
         "realName": "Oxnard",
         "country": "california",
@@ -1400,9 +1383,9 @@ var cities = [
         "gameName": "tucson",
         "realName": "Tucson",
         "country": "arizona",
-        "x": "-71475.1",
-        "y": "97",
-        "z": "31556.9"
+        "x": "-71749.5",
+        "y": "70.3653",
+        "z": "32610.5"
     },
     {
         "gameName": "ukiah",
