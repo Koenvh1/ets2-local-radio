@@ -698,6 +698,11 @@ var stations = {
             url: "http://radioboise-ice.streamguys1.com/live"
         },
         {
+            name: "94.9 The River",
+            logo: "stations/images-america/boise/94.9 The River.png",
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KRVBFMAAC_SC"
+        },
+        {
             name: "96.1 Bob FM",
             logo: "stations/images-america/boise/96.1 BOB FM.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice64.securenetsystems.net/KSRV"
@@ -726,6 +731,11 @@ var stations = {
             name: "99.1 I-Rock",
             logo: "stations/images-america/boise/99.1 I-Rock.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice64.securenetsystems.net/KQBLHD2"
+        },
+        {
+            name: "100.3 The X Rocks",
+            logo: "stations/images-america/boise/100.3 The X Rocks.png",
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KQXRFMAAC_SC"
         },
         {
             name: "Wild 101.1",
@@ -758,6 +768,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kawofmaac-ibc3"
         },
         {
+            name: "J105",
+            logo: "stations/images-america/boise/J105.png",
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KJOTFMAAC_SC"
+        },
+        {
             name: "Power 105.5",
             logo: "stations/images-america/boise/Power 105.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kfxdfmaac-ibc3"
@@ -771,6 +786,11 @@ var stations = {
             name: "La GranD 106.3",
             logo: "stations/images-america/boise/La GranD 106.3.png",
             url: "https://ice9.securenetsystems.net/KDBI"
+        },
+        {
+            name: "107.1 K-HITS",
+            logo: "stations/images-america/boise/107.1 K-HITS.png",
+            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHIFMAAC_SC"
         },
         {
             name: "KIDO 107.5",
@@ -3275,14 +3295,24 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
         },
         {
+            name: "Classical 89.7",
+            logo: "stations/images-america/las_vegas/Classical 89.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNVFMAAC_SC"
+        },
+        {
             name: "91.5 Jazz & More",
             logo: "stations/images-america/las_vegas/91.5 Jazz & More.png",
-            url: "http://131.216.101.42:8000/stream/2/"
+            url: "https://kunv.oit.unlv.edu/stream/2/"
         },
         {
             name: "91.5 The Rebel-HD2",
             logo: "stations/images-america/las_vegas/91.5 The Rebel-HD2.png",
-            url: "https://s1.radioforge.com:9113/stream/4/"
+            url: "https://kunv.oit.unlv.edu/stream/4/"
+        },
+        {
+            name: "Where Jazz Lives 91.5-HD3",
+            logo: "stations/images-america/las_vegas/Where Jazz Lives 91.5-HD3.png",
+            url: "https://kunv.oit.unlv.edu/stream/3/"
         },
         {
             name: "KOMP 92.3",
@@ -3325,9 +3355,9 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
         },
         {
-            name: "La Campesina 96.7",
-            logo: "stations/images-america/las_vegas/La Campesina 96.7.png",
-            url: "https://ice42.securenetsystems.net/KYLI"
+            name: "iHeartCountry Classics 96.7",
+            logo: "stations/images-america/0_general_logos/iHeartCountry Classics.png",
+            url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
         },
         {
             name: "97.1 The Point",
@@ -3403,6 +3433,11 @@ var stations = {
             name: "Sunny 106.5",
             logo: "stations/images-america/las_vegas/Sunny 106.5.png",
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
+        },
+        {
+            name: "Soft Rock 106.5-HD2",
+            logo: "stations/images-america/0_general_logos/Soft Rock.png",
+            url: "https://stream.revma.ihrhls.com/zc4414/hls.m3u8"
         },
         {
             name: "106.9 Da Bomb",
@@ -4198,6 +4233,11 @@ var stations = {
             name: "Sunny 102.3",
             logo: "stations/images-america/modesto/Sunny 102.3.png",
             url: "https://stream.revma.ihrhls.com/zc2910/hls.m3u8"
+        },
+        {
+            name: "iHeartRadio Freestyle 102.3-HD2",
+            logo: "stations/images-america/modesto/iHeartRadio Freestyle 102.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7368/hls.m3u8"
         },
         {
             name: "Kat Country 103",
@@ -5096,6 +5136,11 @@ var stations = {
             url: "http://wayfm.streamguys1.com/wayw.aac"
         },
         {
+            name: "The Numberz.FM 96.1",
+            logo: "stations/images-america/portland/The Numberz.FM 96.1.png",
+            url: "https://listen.thenumberz.fm/stream"
+        },
+        {
             name: "97.1 Charlie",
             logo: "stations/images-america/portland/97.1 Charlie.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KYCHFMAAC_SC"
@@ -5124,11 +5169,6 @@ var stations = {
             name: "ALT 102.3",
             logo: "stations/images-america/portland/ALT 102.3.png",
             url: "https://stream.revma.ihrhls.com/zc6384/hls.m3u8"
-        },
-        {
-            name: "WE 102.9",
-            logo: "stations/images-america/portland/WE 102.9.png",
-            url: "https://live.wostreaming.net/manifest/alphacorporate-kinkhd2aac-ibc4"
         },
         {
             name: "K103",
@@ -5799,6 +5839,11 @@ var stations = {
             url: "https://ic2.sslstream.com/kdee-fm"
         },
         {
+            name: "97.9 Latino",
+            logo: "stations/images-america/sacramento/97.9 Latino.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLMGFMAAC_SC"
+        },
+        {
             name: "98 Rock",
             logo: "stations/images-america/sacramento/98 Rock.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KRXQFMAAC_SC"
@@ -6132,8 +6177,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBEEFMAAC_SC"
         },
         {
-            name: "Easy 99.1",
-            logo: "stations/images-america/salt_lake/Easy 99.1.png",
+            name: "Business 99.1",
+            logo: "stations/images-america/salt_lake/Business 99.1.png",
             url: "https://stream.revma.ihrhls.com/zc5159/hls.m3u8"
         },
         {
@@ -6208,7 +6253,7 @@ var stations = {
         },
         {
             name: "Soft Rock 105.9-HD2",
-            logo: "stations/images-america/salt_lake/Soft Rock 105.9-HD2.png",
+            logo: "stations/images-america/0_general_logos/Soft Rock.png",
             url: "https://stream.revma.ihrhls.com/zc4414/hls.m3u8"
         },
         {
@@ -6856,6 +6901,11 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KKWFFMAAC_SC"
         },
         {
+            name: "Space 101.1",
+            logo: "stations/images-america/seattle/Space 101.1.png",
+            url: "http://67.212.165.106:8239/stream"
+        },
+        {
             name: "Star 101.5",
             logo: "stations/images-america/seattle/Star 101.5.png",
             url: "https://live.wostreaming.net/direct/sinclair-kplzfmaac-ibc2"
@@ -6899,6 +6949,11 @@ var stations = {
             name: "HITS 106.1",
             logo: "stations/images-america/seattle/HITS 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
+        },
+        {
+            name: "Evolution 106.1-HD3",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
             name: "Warm 106.9",
