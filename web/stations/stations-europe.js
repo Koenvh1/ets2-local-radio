@@ -201,31 +201,31 @@ var stations = {
             url: "https://radio7.streaming-pro.com:6146/radio7.mp3"
         },
     ],
-    "belarus": [/*
+    "belarus": [
         {
             name: "1 канал",
             logo: "stations/images-europe/belarus/1 канал.jpg",
-            url: "http://video.tvr.by:8000/radio1"
-        },*/
+            url: "https://stream.hoster.by/tvrbyradio/radio1/icecast.audio"
+        },
         {
             name: "Канал Культура",
             logo: "stations/images-europe/belarus/Канал Культура.jpg",
-            url: "http://video.tvr.by:8000/culture"
+            url: "https://stream.hoster.by/tvrbyradio/cultura/icecast.audio"
         },
         {
             name: "Радиус-FM",
             logo: "stations/images-europe/belarus/Радиус-FM.png",
-            url: "http://video.tvr.by:8000/radiusfm"
+            url: "https://stream.hoster.by/tvrbyradio/radius_main/icecast.audio"
         },
         {
             name: "Радыё Беларусь",
             logo: "stations/images-europe/belarus/Радыё Беларусь.png",
-            url: "http://video.tvr.by:8000/belfm"
+            url: "https://stream.hoster.by/tvrbyradio/belarus/icecast.audio"
         },
         {
             name: "Радио Сталіца",
             logo: "stations/images-europe/belarus/Радио Сталіца.jpg",
-            url: "http://video.tvr.by:8000/stolica"
+            url: "https://stream.hoster.by/tvrbyradio/stalica/icecast.audio"
         },
         {
             name: "Радио BA",
