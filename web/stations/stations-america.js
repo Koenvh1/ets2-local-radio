@@ -5166,11 +5166,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
         },
         {
-            name: "Space 101.1",
-            logo: "stations/images-america/portland/Space 101.1.png",
-            url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
-        },
-        {
             name: "ALT 102.3",
             logo: "stations/images-america/portland/ALT 102.3.png",
             url: "https://stream.revma.ihrhls.com/zc6384/hls.m3u8"
