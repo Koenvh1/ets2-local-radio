@@ -5166,6 +5166,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
         },
         {
+            name: "Space 101.1",
+            logo: "stations/images-america/portland/Space 101.1.png",
+            url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
+        },
+        {
             name: "ALT 102.3",
             logo: "stations/images-america/portland/ALT 102.3.png",
             url: "https://stream.revma.ihrhls.com/zc6384/hls.m3u8"
@@ -6951,7 +6956,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
         },
         {
-            name: "Evolution 106.1-HD3",
+            name: "Evolution 106.1-HD2",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
