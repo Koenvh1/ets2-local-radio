@@ -391,6 +391,21 @@ var stations = {
     ],
     "bosnia": [
         {
+            name: "BHR1",
+            logo: "stations/images-europe/bosnia/BHR1.png",
+            url: "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8"
+        },
+        {
+            name: "RTVF",
+            logo: "stations/images-europe/bosnia/RTVF.jpg",
+            url: "https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_37270_stream_960775473;stream/1;"
+        },
+        {
+            name: "РТРС",
+            logo: "stations/images-europe/bosnia/РТРС.png",
+            url: "https://parh.rtrs.tv/radio/live/playlist.m3u8"
+        },
+        {
             name: "Bobar Radio",
             logo: "stations/images-europe/bosnia/Bobar Radio.png",
             url: "http://94.130.11.28:9010/stream/1/"
