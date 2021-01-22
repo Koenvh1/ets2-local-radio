@@ -4023,12 +4023,6 @@ var country_properties_c2c = {
         code: "us-vt",
         relative_radius: 0.9
     },
-    "brattleboro": {
-        name: "brattleboro",
-        name_english: "brattleboro",
-        code: "us-vt",
-        relative_radius: 0.9
-    },
     "lebanon": {
         name: "lebanon",
         name_english: "lebanon",
@@ -4969,9 +4963,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "vermont": {
-        relative_whitenoise: 0.95
-    },
-    "brattleboro": {
         relative_whitenoise: 0.95
     },
     "burlington_vt": {
@@ -6837,14 +6828,6 @@ var cities_c2c = [
         "x": "-11367.6",
         "y": "117.089",
         "z": "28539.2"
-    },
-    {
-        "gameName": "brattleboro",
-        "realName": "Brattleboro",
-        "country": "vermont",
-        "x": "96126.8",
-        "y": "18.3764",
-        "z": "-33239.6"
     },
     {
         "gameName": "burlington_vt",
