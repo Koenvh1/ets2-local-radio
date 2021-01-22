@@ -8222,7 +8222,7 @@ var stations = {
         },
         {
             name: "95.1 KTTI",
-            logo: "stations/images-america/yuma/95.1 KITI.png",
+            logo: "stations/images-america/yuma/95.1 KTTI.png",
             url: "https://live.wostreaming.net/manifest/eldorado-kttifmaac-ibc2?source=v7player"
         },
         {
