@@ -8213,7 +8213,7 @@ var stations = {
         {
             name: "Z93",
             logo: "stations/images-america/yuma/Z93.png",
-            url: "http://keithz931.primcast.com:7976/;"
+            url: "http://162.244.80.33:7976/;"
         },
         {
             name: "Border Radio 94.7",
@@ -8221,9 +8221,29 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
         },
         {
+            name: "95.1 KTTI",
+            logo: "stations/images-america/yuma/95.1 KITI.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-kttifmaac-ibc2?source=v7player"
+        },
+        {
+            name: "KYMZ 99.9",
+            logo: "stations/images-america/yuma/KYMZ 99.9.png",
+            url: "https://streamingv2.shoutcast.com/radio-sin-fronteras-somerton"
+        },
+        {
+            name: "Mix 100.9",
+            logo: "stations/images-america/yuma/Mix 100.9.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-kqsrfmaac-ibc2?source=v7player"
+        },
+        {
             name: "920 KGX",
             logo: "stations/images-america/yuma/920 KGX.png",
             url: "https://ice10.securenetsystems.net/KGX"
+        },
+        {
+            name: "Outlaw Country 1400",
+            logo: "stations/images-america/yuma/Outlaw Country 1400.png",
+            url: "http://keithz932.primcast.com:5168/stream"
         },
     ],
 };
