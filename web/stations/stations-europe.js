@@ -3737,7 +3737,7 @@ var stations = {
         },
         {
             name: "Süper FM",
-            logo: "stations/images-europe/turkey/Süper FM.png",
+            logo: "https://mediacdns.karnaval.com/stationsites/superfm/assets/styles/images/logo_superfm.svg",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
         },
     ],
