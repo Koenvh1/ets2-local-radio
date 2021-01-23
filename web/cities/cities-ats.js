@@ -21,7 +21,7 @@ var country_properties = {
         name: "Albuquerque",
         name_english: "Albuquerque",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "astoria": {
         name: "Astoria",
@@ -99,7 +99,7 @@ var country_properties = {
         name: "Cedar City",
         name_english: "Cedar City",
         code: "us-ut",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "clovis": {
         name: "Clovis",
@@ -147,7 +147,7 @@ var country_properties = {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
         code: "us-az",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "elko": {
         name: "Elko",
@@ -183,13 +183,13 @@ var country_properties = {
         name: "Farmington",
         name_english: "Farmington",
         code: "us-nm",
-        relative_radius: 1.1
+        relative_radius: 0.8
     },
     "flagstaff": {
         name: "Flagstaff",
         name_english: "Flagstaff",
         code: "us-az",
-        relative_radius: 1.3
+        relative_radius: 0.9
     },
     "fort_collins": {
         name: "Fort Collins",
@@ -207,7 +207,7 @@ var country_properties = {
         name: "Gallup",
         name_english: "Gallup",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "glenwood_springs": {
         name: "Glenwood Springs",
@@ -267,7 +267,7 @@ var country_properties = {
         name: "Kayenta",
         name_english: "Kayenta",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "kennewick": {
         name: "Kennewick",
@@ -315,7 +315,7 @@ var country_properties = {
         name: "Las Vegas",
         name_english: "Las Vegas",
         code: "us-nv",
-        relative_radius: 1.1
+        relative_radius: 1.0
     },
     "leevining": {
         name: "Lee Vining",
@@ -417,7 +417,7 @@ var country_properties = {
         name: "Page",
         name_english: "Page",
         code: "us-az",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "pendleton": {
         name: "Pendleton",
@@ -471,7 +471,7 @@ var country_properties = {
         name: "Raton",
         name_english: "Raton",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "redbluff": {
         name: "Red Bluff",
@@ -549,7 +549,7 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "santa_maria": {
         name: "Santa Maria",
@@ -591,7 +591,7 @@ var country_properties = {
         name: "Show Low",
         name_english: "Show Low",
         code: "us-az",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "sierra_vista": {
         name: "Sierra Vista",
@@ -603,7 +603,7 @@ var country_properties = {
         name: "Socorro",
         name_english: "Socorro",
         code: "us-nm",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "spokane": {
         name: "Spokane",
@@ -615,7 +615,7 @@ var country_properties = {
         name: "St. George",
         name_english: "St. George",
         code: "us-ut",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "susanv": {
         name: "Susanville",
@@ -693,7 +693,7 @@ var country_properties = {
         name: "Yuma",
         name_english: "Yuma",
         code: "us-az",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "arizona": {
         name: "Arizona",
@@ -729,7 +729,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "albuquerque": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.80
     },
     "astoria": {
         relative_whitenoise: 0.90
@@ -765,7 +765,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "cedar_city": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "clovis": {
         relative_whitenoise: 0.90
@@ -789,7 +789,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "ehrenberg": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "elko": {
         relative_whitenoise: 0.95
@@ -806,14 +806,20 @@ var city_properties = {
     "fallon": {
         relative_whitenoise: 0.95
     },
+    "farmington": {
+        relative_whitenoise: 0.85
+    },
     "flagstaff": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "fresno": {
         relative_whitenoise: 0.90
     },
     "fort_collins": {
         relative_whitenoise: 0.85
+    },
+    "gallup": {
+        relative_whitenoise: 0.80
     },
     "glenwood_springs": {
         relative_whitenoise: 0.90
@@ -840,7 +846,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "kayenta": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "kennewick": {
         relative_whitenoise: 0.95
@@ -861,7 +867,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "las_vegas": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "leevining": {
         relative_whitenoise: 0.95
@@ -912,7 +918,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "page": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "pendleton": {
         relative_whitenoise: 0.95
@@ -937,6 +943,9 @@ var city_properties = {
     },
     "rangely": {
         relative_whitenoise: 0.90
+    },
+    "raton": {
+        relative_whitenoise: 0.85
     },
     "redbluff": {
         relative_whitenoise: 0.80
@@ -972,7 +981,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "santa_fe": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "santa_maria": {
         relative_whitenoise: 0.95
@@ -993,19 +1002,19 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "show_low": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "sierra_vista": {
         relative_whitenoise: 0.85
     },
     "socorro": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "spokane": {
         relative_whitenoise: 0.85
     },
     "st_george": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "susanv": {
         relative_whitenoise: 0.95
@@ -1044,7 +1053,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "yuma": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.95
     },
     "arizona": {
         relative_whitenoise: 0.95
@@ -1191,9 +1200,9 @@ var cities = [
         "gameName": "las_vegas",
         "realName": "Las Vegas",
         "country": "nevada",
-        "x": "-85804.9",
-        "y": "80.9905",
-        "z": "7732.53"
+        "x": "-85750",
+        "y": "67.2275",
+        "z": "7502.84"
     },
     {
         "gameName": "leevining",
@@ -1239,9 +1248,9 @@ var cities = [
         "gameName": "phoenix",
         "realName": "Phoenix",
         "country": "arizona",
-        "x": "-76543.6",
-        "y": "66.9961",
-        "z": "24448.1"
+        "x": "-75196.4",
+        "y": "32.0577",
+        "z": "24257.7"
     },
     {
         "gameName": "pioche",
@@ -1343,9 +1352,9 @@ var cities = [
         "gameName": "show_low",
         "realName": "Show Low",
         "country": "arizona",
-        "x": "-65590.3",
-        "y": "146.48",
-        "z": "21658.3"
+        "x": "-65151",
+        "y": "102.9",
+        "z": "21330.9"
     },
     {
         "gameName": "sierra_vista",
@@ -1423,9 +1432,9 @@ var cities = [
         "gameName": "albuquerque",
         "realName": "Albuquerque",
         "country": "new_mexico",
-        "x": "-50091.6",
-        "y": "119.625",
-        "z": "19426.6"
+        "x": "-48693.2",
+        "y": "126.762",
+        "z": "19234.7"
     },
     {
         "gameName": "carlsbad_nm",
@@ -1735,9 +1744,9 @@ var cities = [
         "gameName": "cedar_city",
         "realName": "Cedar City",
         "country": "utah",
-        "x": "-74848.7",
-        "y": "141.516",
-        "z": "-972.027"
+        "x": "-73887.1",
+        "y": "124.221",
+        "z": "-2243.96"
     },
     {
         "gameName": "logan",
@@ -1799,9 +1808,9 @@ var cities = [
         "gameName": "st_george",
         "realName": "St. George",
         "country": "utah",
-        "x": "-78434.4",
-        "y": "92.9219",
-        "z": "2826.92"
+        "x": "-79056.8",
+        "y": "70.63",
+        "z": "3000.27"
     },
     {
         "gameName": "vernal",

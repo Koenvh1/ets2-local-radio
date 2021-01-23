@@ -7158,14 +7158,19 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
         {
-            name: "Q Country 92.5",
-            logo: "stations/images-america/show_low/Q Country 92.5.png",
+            name: "QCountry 92.5",
+            logo: "stations/images-america/show_low/QCountry 92.5.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice42.securenetsystems.net/KTHQ"
         },
         {
             name: "Power 95.7",
             logo: "stations/images-america/show_low/Power 95.7.png",
             url: "http://stream.radiojar.com/s9y596g305quv"
+        },
+        {
+            name: "Rewind 97.7",
+            logo: "stations/images-america/show_low/Rewind 97.7.png",
+            url: "http://rewind97.com:8190/rewind"
         },
         {
             name: "98.5 KRFM",
@@ -7181,6 +7186,11 @@ var stations = {
             name: "Majik 101.7",
             logo: "stations/images-america/show_low/Majik 101.7.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice42.securenetsystems.net/KQAZ"
+        },
+        {
+            name: "103.5 The Vibe",
+            logo: "stations/images-america/show_low/103.5 The Vibe.png",
+            url: "http://1035thevibe.com:8190/vibe"
         },
         {
             name: "105.5 KSNX",
