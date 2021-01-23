@@ -5726,6 +5726,7 @@ var stations = {
             name: "ROCK 104.5",
             logo: "stations/images-america/reno/ROCK 104.5.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KDOTFMAAC_SC"
+        },
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
