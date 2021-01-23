@@ -147,8 +147,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
         },
         {
-            name: "KANW 89.1-HD2",
-            logo: "stations/images-america/albuquerque/KANW 89.1.png",
+            name: "KANW-2 89.1-HD2",
+            logo: "stations/images-america/albuquerque/KANW-2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2_SC"
         },
         {
@@ -175,6 +175,11 @@ var stations = {
             name: "94 Rock",
             logo: "stations/images-america/albuquerque/94 Rock.png",
             url: "https://stream.revma.ihrhls.com/zc1405/hls.m3u8"
+        },
+        {
+            name: "The Breeze 94.1-HD2",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
             name: "94.5 The Pit",
@@ -222,8 +227,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1389/hls.m3u8"
         },
         {
-            name: "100.9 The Breeze",
-            logo: "stations/images-america/albuquerque/100.9 The Breeze.png",
+            name: "Power 100.9",
+            logo: "stations/images-america/albuquerque/Power 100.9.png",
             url: "https://stream.revma.ihrhls.com/zc6469/hls.m3u8"
         },
         {
@@ -6294,6 +6299,11 @@ var stations = {
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
+            name: "Jam'n 94.7",
+            logo: "stations/images-america/santa_fe/Jam'n 94.7.png",
+            url: "https://58f14b372a413.streamlock.net:444/juan/juan.stream_aac/playlist.m3u8"
+        },
+        {
             name: "98.1 KBAC",
             logo: "stations/images-america/santa_fe/98.1 KBAC.png",
             url: "https://58f14b372a413.streamlock.net:444/kbac/kbac.stream_aac/playlist.m3u8"
@@ -6302,6 +6312,11 @@ var stations = {
             name: "KSFR 101.1",
             logo: "stations/images-america/santa_fe/KSFR 101.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFRFM_SC"
+        },
+        {
+            name: "101.5 The Cat",
+            logo: "stations/images-america/santa_fe/101.5 The Cat.png",
+            url: "https://58f14b372a413.streamlock.net:444/kvsf/kvsf.stream_aac/playlist.m3u8"
         },
         {
             name: "KTAOS 101.9",
@@ -6314,9 +6329,19 @@ var stations = {
             url: "https://streamer.radio.co/s69ad365c4/listen"
         },
         {
+            name: "107.5 Outlaw Country",
+            logo: "stations/images-america/santa_fe/107.5 Outlaw Country.png",
+            url: "https://58f14b372a413.streamlock.net:444/kqba/kqba.stream_aac/playlist.m3u8"
+        },
+        {
             name: "1260 KTRC",
             logo: "stations/images-america/santa_fe/1260 KTRC.png",
             url: "http://70.90.203.89:8080/;"
+        },
+        {
+            name: "1400 ESPN",
+            logo: "stations/images-america/santa_fe/1400 ESPN.png",
+            url: "http://edge.espn.cdn.abacast.net/espn-network-48"
         },
     ],
     "santa_maria": [
@@ -10675,8 +10700,8 @@ var stations_c2c = {
             url: "https://cmg.streamguys1.com/jac690/jac690-sgplayer-aac"
         },
         {
-            name: "930 The Game",
-            logo: "stations/images-america/c2c/jacksonville_fl/930 The Game.png",
+            name: "Hallelujah 930",
+            logo: "stations/images-america/c2c/jacksonville_fl/Hallelujah 930.png",
             url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
         },
     ],
@@ -25782,8 +25807,8 @@ var stations_c2c = {
             url: "https://ice7.securenetsystems.net/WEBL"
         },
         {
-            name: "i96",
-            logo: "stations/images-america/c2c/memphis_tn/i96.png",
+            name: "B96",
+            logo: "stations/images-america/c2c/memphis_tn/B96.png",
             url: "https://stream1.flinn.com:8443/963FM.aac"
         },
         {
