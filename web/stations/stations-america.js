@@ -1845,11 +1845,6 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KEJOAMAAC_SC"
         },
         {
-            name: "1340 KLOO",
-            logo: "stations/images-america/eugene/1340 KLOO.png",
-            url: "https://html5radioplayer5us.herokuapp.com/?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KLOOAMAAC_SC"
-        },
-        {
             name: "KEED 1450",
             logo: "stations/images-america/eugene/KEED 1450.png",
             url: "http://173.193.205.96:7439/stream"
