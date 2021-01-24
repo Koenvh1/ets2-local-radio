@@ -2060,14 +2060,19 @@ var stations = {
     ], 
     "flagstaff": [
         {
-            name: "KNAU 88.7",
+            name: "Classical KNAU 88.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
         {
             name: "KJZA 91.3",
             logo: "stations/images-america/flagstaff/KJZA 89.5.png",
             url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
+        },
+        {
+            name: "KNAU News 91.7",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
         {
             name: "92.9 KAFF Country",
@@ -2426,7 +2431,7 @@ var stations = {
     ],
     "g_canyon_vlg": [
         {
-            name: "KNAU 90.3",
+            name: "KNAU News 90.3",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
@@ -3152,9 +3157,9 @@ var stations = {
     ],
     "kingman": [
         {
-            name: "KNAU 89.3",
+            name: "Classical KNAU 89.3",
             logo: "stations/images-america/0_general_logos/KNAU.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
         {
             name: "KJZK 90.7",
@@ -4803,12 +4808,17 @@ var stations = {
     ],
     "page": [
         {
-            name: "AZ 93.3",
-            logo: "stations/images-america/page/AZ 93.3.png",
+            name: "Classical KNAU 91.7",
+            logo: "stations/images-america/0_general_logos/KNAU.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
+        },
+        {
+            name: "93.3 Jack FM",
+            logo: "stations/images-america/page/93.3 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7019_24k.aac"
         },
         {
-            name: "KNAU 102.7",
+            name: "KNAU News 102.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
@@ -7175,9 +7185,9 @@ var stations = {
     ],
     "show_low": [
         {
-            name: "KNAU 90.7",
+            name: "Classical KNAU 90.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
         {
             name: "QCountry 92.5",
