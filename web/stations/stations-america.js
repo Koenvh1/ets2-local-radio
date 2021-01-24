@@ -2687,23 +2687,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPVWFMAAC_SC"
         },
     ],
-    "grand_coulee": [
-        {
-            name: "KYRS 88.1",
-            logo: "stations/images-america/grand_coulee/KYRS 88.1.png",
-            url: "http://www.ophanim.net:7170/;"
-        },
-        {
-            name: "KPBX 91.9",
-            logo: "stations/images-america/grand_coulee/KPBX 91.9.png",
-            url: "https://tektite.streamguys1.com:5012/KPBX-mp3"
-        },
-        {
-            name: "Sunny FM 98.5",
-            logo: "stations/images-america/omak/Sunny FM 97.7.png",
-            url: "http://63.142.210.15:8001/;"
-        },
-    ],
     "grangeville": [
         {
             name: "Real Hope Radio 90.9",
@@ -4719,9 +4702,9 @@ var stations = {
     ],
     "omak": [
         {
-            name: "KOMQ 88.5",
-            logo: "stations/images-america/omak/KOMQ 88.5.png",
-            url: "http://tektite.streamguys1.com:5010/KPBX-aac"
+            name: "KPBX 88.9",
+            logo: "stations/images-america/spokane/Spokane Public Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPBX_FM_SC"
         },
         {
             name: "NWPR News 90.1",
@@ -7313,17 +7296,17 @@ var stations = {
         {
             name: "PRX Remix 90.3",
             logo: "stations/images-america/0_general_logos/PRX Remix.png",
-            url: "https://tektite.streamguys1.com:5012/KPBZ-mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPBZ_FM_SC"
         },
         {
             name: "KPBX 91.1",
             logo: "stations/images-america/spokane/Spokane Public Radio.png",
-            url: "https://tektite.streamguys1.com:5012/KPBX-mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPBX_FM_SC"
         },
         {
             name: "KSFC 91.9",
             logo: "stations/images-america/spokane/Spokane Public Radio.png",
-            url: "https://tektite.streamguys1.com:5012/KSFC-mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFC_FM_SC"
         },
         {
             name: "92.9 ZZU",
@@ -7431,7 +7414,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
         },
         {
-            name: "105.7 NOW FM",
+            name: "105.7 Now FM",
             logo: "stations/images-america/spokane/105.7 Now FM.png",
             url: "https://ice6.securenetsystems.net/KZBD"
         },
@@ -8031,8 +8014,8 @@ var stations = {
             url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
         },
         {
-            name: "KTPZ 92.7",
-            logo: "stations/images-america/twin_falls/KTPZ 92.7.png",
+            name: "92.7 The Music Monster",
+            logo: "stations/images-america/twin_falls/92.7 The Music Monster.png",
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice10.securenetsystems.net/KTPZFM"
         },
         {
