@@ -1078,6 +1078,33 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-ksubamaac-ibc4"
         },
     ],
+    "clifton": [
+        {
+            name: "Moody Radio 88.7",
+            logo: "stations/images-america/clifton/Moody Radio 88.7.png",
+            url: "https://primary.moodyradiostream.org/Network.mp3"
+        },
+        {
+            name: "KNLB 89.9",
+            logo: "stations/images-america/barstow/KNLB 90.9.png",
+            url: "https://ic1.sslstream.com/knlb-fm"
+        },
+        {
+            name: "K-LOVE 90.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
+            name: "Kat Kountry 94.5",
+            logo: "stations/images-america/clifton/Kat Kountry 94.5.png",
+            url: "https://ice42.securenetsystems.net/KXKQFM"
+        },
+        {
+            name: "The Drive 830",
+            logo: "stations/images-america/tucson/The Drive 101.7.png",
+            url: "https://ice5.securenetsystems.net/KDRI"
+        },
+    ],
     "clovis": [
         {
             name: "KENW 89.5",
@@ -5529,11 +5556,6 @@ var stations = {
             url: "https://html5radioplayer5us.herokuapp.com/?q=https://ice24.securenetsystems.net/KCEZ"
         },
         {
-            name: "KBLF 104.7",
-            logo: "stations/images-america/redbluff/KBLF 104.7.png",
-            url: "http://server.huthbroadcasting.com:8000/kblf"
-        },
-        {
             name: "106.7 Z-ROCK",
             logo: "stations/images-america/redbluff/106.7 Z-ROCK.png",
             url: "https://ice24.securenetsystems.net/KRQR"
@@ -7242,6 +7264,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
         },
         {
+            name: "Family Radio 91.9",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+        },
+        {
             name: "104.7 KABQ",
             logo: "stations/images-america/albuquerque/104.7 KABQ.png",
             url: "https://stream.revma.ihrhls.com/zc6305/hls.m3u8"
@@ -7250,6 +7277,21 @@ var stations = {
             name: "La Zeta 106.3",
             logo: "stations/images-america/socorro/La Zeta 106.3.png",
             url: "https://ice42.securenetsystems.net/KDLWFM"
+        },
+        {
+            name: "610 The Sports Animal",
+            logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC_SC"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+        },
+        {
+            name: "Fuego 102.9 @ 840 AM",
+            logo: "stations/images-america/albuquerque/Fuego 102.9.png",
+            url: "https://live.wostreaming.net/direct/agmedia28-kjfafmaac-ibc3"
         },
     ],
     "spokane": [

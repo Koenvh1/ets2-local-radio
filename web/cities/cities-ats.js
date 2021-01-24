@@ -9,7 +9,7 @@ var country_properties = {
         name: "Alamogordo",
         name_english: "Alamogordo",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "alamosa": {
         name: "Alamosa",
@@ -87,7 +87,7 @@ var country_properties = {
         name: "Carlsbad (NM)",
         name_english: "Carlsbad (NM)",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "carson_city": {
         name: "Carson City",
@@ -101,6 +101,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
+    "clifton": {
+        name: "Clifton",
+        name_english: "Clifton",
+        code: "us-az",
+        relative_radius: 0.7
+    },
     "clovis": {
         name: "Clovis",
         name_english: "Clovis",
@@ -111,7 +117,7 @@ var country_properties = {
         name: "Colorado Springs / Pueblo",
         name_english: "Colorado Springs / Pueblo",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "colville": {
         name: "Colville",
@@ -153,7 +159,7 @@ var country_properties = {
         name: "Elko",
         name_english: "Elko",
         code: "us-nv",
-        relative_radius: 1.4
+        relative_radius: 1.2
     },
     "ely": {
         name: "Ely",
@@ -243,7 +249,7 @@ var country_properties = {
         name: "Hobbs",
         name_english: "Hobbs",
         code: "us-nm",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "huron": {
         name: "Huron",
@@ -303,13 +309,13 @@ var country_properties = {
         name: "Lamar",
         name_english: "Lamar",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "las_cruces": {
         name: "Las Cruces",
         name_english: "Las Cruces",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "las_vegas": {
         name: "Las Vegas",
@@ -321,7 +327,7 @@ var country_properties = {
         name: "Lee Vining",
         name_english: "Lee Vining",
         code: "us-ca",
-        relative_radius: 1.1
+        relative_radius: 0.8
     },
     "lewiston": {
         name: "Lewiston",
@@ -483,7 +489,7 @@ var country_properties = {
         name: "Redding",
         name_english: "Redding",
         code: "us-ca",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "reno": {
         name: "Reno",
@@ -501,7 +507,7 @@ var country_properties = {
         name: "Roswell",
         name_english: "Roswell",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 0.8
     },
     "sacramento": {
         name: "Sacramento",
@@ -525,7 +531,7 @@ var country_properties = {
         name: "Salt Lake City",
         name_english: "Salt Lake City",
         code: "us-ut",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "steamboat_sp": {
         name: "Steamboat Springs",
@@ -579,7 +585,7 @@ var country_properties = {
         name: "San Simon",
         name_english: "San Simon",
         code: "us-az",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "seattle": {
         name: "Seattle",
@@ -597,7 +603,7 @@ var country_properties = {
         name: "Sierra Vista",
         name_english: "Sierra Vista",
         code: "us-az",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "socorro": {
         name: "Socorro",
@@ -728,6 +734,9 @@ var city_properties = {
     "alamosa": {
         relative_whitenoise: 0.90
     },
+    "alamogordo": {
+        relative_whitenoise: 0.85
+    },
     "albuquerque": {
         relative_whitenoise: 0.80
     },
@@ -761,17 +770,23 @@ var city_properties = {
     "burns": {
         relative_whitenoise: 0.85
     },
+    "carlsbad_nm": {
+        relative_whitenoise: 0.85
+    },
     "carson_city": {
         relative_whitenoise: 0.80
     },
     "cedar_city": {
         relative_whitenoise: 0.85
     },
+    "clifton": {
+        relative_whitenoise: 0.85
+    },
     "clovis": {
         relative_whitenoise: 0.90
     },
     "colorado_springs_pueblo": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "colville": {
         relative_whitenoise: 0.85
@@ -792,7 +807,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "elko": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "ely": {
         relative_whitenoise: 0.95
@@ -836,8 +851,8 @@ var city_properties = {
     "grangeville": {
         relative_whitenoise: 0.95
     },
-    "huron": {
-        relative_whitenoise: 0.95
+    "hobbs": {
+        relative_whitenoise: 0.85
     },
     "idaho_falls": {
         relative_whitenoise: 0.85
@@ -866,11 +881,14 @@ var city_properties = {
     "lamar": {
         relative_whitenoise: 0.80
     },
+    "las_cruces": {
+        relative_whitenoise: 0.85
+    },
     "las_vegas": {
         relative_whitenoise: 0.85
     },
     "leevining": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "lewiston": {
         relative_whitenoise: 0.95
@@ -951,12 +969,15 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "redding": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "reno": {
         relative_whitenoise: 0.80
     },
     "riverside": {
+        relative_whitenoise: 0.85
+    },
+    "roswell": {
         relative_whitenoise: 0.85
     },
     "sacramento": {
@@ -969,7 +990,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "salt_lake": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "steamboat_sp": {
         relative_whitenoise: 0.90
@@ -1112,9 +1133,9 @@ var cities = [
         "gameName": "elko",
         "realName": "Elko",
         "country": "nevada",
-        "x": "-83038.2",
-        "y": "112.223",
-        "z": "-19609.2"
+        "x": "-81952",
+        "y": "107.351",
+        "z": "-20153"
     },
     {
         "gameName": "ely",
@@ -1272,9 +1293,9 @@ var cities = [
         "gameName": "redding",
         "realName": "Redding",
         "country": "california",
-        "x": "-110650",
-        "y": "93.7422",
-        "z": "-24844.6"
+        "x": "-110950",
+        "y": "46.3998",
+        "z": "-25872.1"
     },
     {
         "gameName": "reno",
@@ -1344,9 +1365,9 @@ var cities = [
         "gameName": "san_simon",
         "realName": "San Simon",
         "country": "arizona",
-        "x": "-62858.7",
-        "y": "111.145",
-        "z": "33093"
+        "x": "-62119.2",
+        "y": "62.4849",
+        "z": "33562"
     },
     {
         "gameName": "show_low",
@@ -1445,6 +1466,14 @@ var cities = [
         "z": "35353.5"
     },
     {
+        "gameName": "clifton",
+        "realName": "Clifton",
+        "country": "arizona",
+        "x": "-62631.9",
+        "y": "90.8672",
+        "z": "28255.8"
+    },
+    {
         "gameName": "clovis",
         "realName": "Clovis",
         "country": "new_mexico",
@@ -1480,9 +1509,9 @@ var cities = [
         "gameName": "las_cruces",
         "realName": "Las Cruces",
         "country": "new_mexico",
-        "x": "-51595.3",
-        "y": "110",
-        "z": "34674.6"
+        "x": "-53615.8",
+        "y": "104.428",
+        "z": "34945.3"
     },
     {
         "gameName": "raton",
@@ -1512,9 +1541,9 @@ var cities = [
         "gameName": "socorro",
         "realName": "Socorro",
         "country": "new_mexico",
-        "x": "-50697.3",
-        "y": "123.242",
-        "z": "24592.9"
+        "x": "-50710.1",
+        "y": "105.216",
+        "z": "25677.1"
     },
     {
         "gameName": "astoria",
@@ -3898,7 +3927,7 @@ var country_properties_c2c = {
         name: "amarillo",
         name_english: "amarillo",
         code: "us-tx",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "austin_tx": {
         name: "austin_tx",
@@ -3952,7 +3981,7 @@ var country_properties_c2c = {
         name: "elpaso",
         name_english: "elpaso",
         code: "us-tx",
-        relative_radius: 1.1
+        relative_radius: 0.8
     },
     "houston": {
         name: "houston",
@@ -4909,7 +4938,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "amarillo": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "austin_tx": {
         relative_whitenoise: 0.95
@@ -4936,7 +4965,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "elpaso": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "houston": {
         relative_whitenoise: 0.75

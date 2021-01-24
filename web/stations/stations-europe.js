@@ -1551,6 +1551,11 @@ var stations = {
             url: "http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
         },
         {
+            name: "NDR Info",
+            logo: "stations/images-europe/germany-ndr/NDR Info.png",
+            url: "https://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
+        },
+        {
             name: "NDR Kultur",
             logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
             url: "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
@@ -1613,21 +1618,6 @@ var stations = {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
             url: "https://ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
-        },
-        {
-            name: "NDR Kultur",
-            logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
-            url: "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
-        },
-        {
-            name: "NDR Info",
-            logo: "stations/images-europe/germany-ndr/NDR Info.png",
-            url: "https://ndr-ndrinfo-mecklenburgvorpommern.cast.addradio.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3"
-        },
-        {
-            name: "N-JOY",
-            logo: "stations/images-europe/germany-ndr/N-Joy.png",
-            url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
         },
         {
             name: "Antenne MV",
