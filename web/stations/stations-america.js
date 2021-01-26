@@ -31554,7 +31554,7 @@ var stations_canadream = {
         {
             name: "93.7 JR Country",
             logo: "stations/images-america/canada_promods/vancouver/93.7 JR Country.png",
-            url: "http://ais.streamon.fm:8000/ais/JRfm-48k.aac"
+            url: "https://redirect.jpbgdigital.com/CJJR.m3u8"
         },
         {
             name: "JACK 96.9",
@@ -31579,7 +31579,7 @@ var stations_canadream = {
         {
             name: "100.3 The Q",
             logo: "stations/images-america/canada_promods/vancouver/100.3 The Q.png",
-            url: "https://ais-sa1.streamon.fm/7333_48k.aac"
+            url: "https://redirect.jpbgdigital.com/CKKQ.m3u8"
         },
         {
             name: "CO-OP Radio 100.5",
@@ -31599,7 +31599,7 @@ var stations_canadream = {
         {
             name: "102.7 The Peak",
             logo: "stations/images-america/canada_promods/vancouver/102.7 The Peak.png",
-            url: "https://ais-sa1.streamon.fm/7326_48k.aac"
+            url: "https://redirect.jpbgdigital.com/CKPK.m3u8"
         },
         {
             name: "KiSS 104.9",
