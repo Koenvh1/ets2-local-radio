@@ -5171,7 +5171,7 @@ var stations = {
         {
             name: "100.3 The Q",
             logo: "stations/images-america/canada_promods/vancouver/100.3 The Q.png",
-            url: "https://ais-sa1.streamon.fm/7333_48k.aac"
+            url: "https://redirect.jpbgdigital.com/CKKQ.m3u8"
         },
         {
             name: "KONP 101.7",
