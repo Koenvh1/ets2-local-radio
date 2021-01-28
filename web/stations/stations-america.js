@@ -937,7 +937,7 @@ var stations = {
         },
         {
             name: "CapRadio News 90.5",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
@@ -2205,6 +2205,11 @@ var stations = {
             name: "96.1 KISS FM",
             logo: "stations/images-america/fort_collins/96.1 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc417/hls.m3u8"
+        },
+        {
+            name: "K96.9",
+            logo: "stations/images-america/fort_collins/K96.9.png",
+            url: "https://stream.radiojar.com/0hwdhsy92mruv"
         },
         {
             name: "BIG 97.9",
@@ -4028,7 +4033,7 @@ var stations = {
     "ltahoe": [
         {
             name: "CapRadio News 88.1",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
@@ -4276,7 +4281,7 @@ var stations = {
     "modesto": [
         {
             name: "CapRadio News 91.3",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
@@ -5659,7 +5664,7 @@ var stations = {
         },
         {
             name: "CapRadio News 90.5",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
@@ -5895,7 +5900,7 @@ var stations = {
     "sacramento": [
         {
             name: "CapRadio Music 88.9",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio Music.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPRAAC_SC"
         },
         {
@@ -5910,7 +5915,7 @@ var stations = {
         },
         {
             name: "CapRadio News 90.9",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
@@ -6270,6 +6275,11 @@ var stations = {
             name: "94.1 KODJ",
             logo: "stations/images-america/salt_lake/94.1 KODJ.png",
             url: "https://stream.revma.ihrhls.com/zc2393/hls.m3u8"
+        },
+        {
+            name: "UP! 94.1-HD2",
+            logo: "stations/images-america/salt_lake/UP! 94.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7203/hls.m3u8"
         },
         {
             name: "Power 94.9",
@@ -7796,7 +7806,7 @@ var stations = {
         },
         {
             name: "CapRadio News 90.5",
-            logo: "stations/images-america/0_general_logos/Capital Public Radio.png",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
@@ -19480,9 +19490,9 @@ var stations_c2c = {
     ],
     "butte": [
         {
-            name: "YPR 91.3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live-aac"
+            name: "MTPR 91.3",
+            logo: "stations/images-america/0_general_logos/MTPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
         },
         {
             name: "92.5 KAAR",
@@ -19491,18 +19501,28 @@ var stations_c2c = {
         },
         {
             name: "94.1 KOPR",
-            logo: "stations/images-america/c2c/helena_mt/94.1 KOPR.png",
+            logo: "stations/images-america/c2c/butte_mt/94.1 KOPR.png",
             url: "http://butte.leanstream.co/KOPRFM"
         },
         {
+            name: "KXTL 94.7",
+            logo: "stations/images-america/c2c/butte_mt/KXTL 94.7.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kxtlamaac-ibc4"
+        },
+        {
             name: "95.5 KMBR",
-            logo: "stations/images-america/c2c/helena_mt/95.5 KMBR.png",
+            logo: "stations/images-america/c2c/butte_mt/95.5 KMBR.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-kmbrfmaac-ibc4"
         },
         {
-            name: "Magic 97.7 & 100.3",
+            name: "Magic 97.7",
             logo: "stations/images-america/c2c/butte_mt/Magic 97.7.png",
             url: "http://butte.leanstream.co/KGLMFM"
+        },
+        {
+            name: "KBOW 101.5",
+            logo: "stations/images-america/c2c/butte_mt/KBOW 101.5.png",
+            url: "http://butte.leanstream.co/KBOWAM"
         },
         {
             name: "KBMF 102.5",
@@ -19511,23 +19531,18 @@ var stations_c2c = {
         },
         {
             name: "KMSM 103.9",
-            logo: "stations/images-america/c2c/butte_mt/KMSM 103.9.svg",
+            logo: "stations/images-america/c2c/butte_mt/KMSM 103.9.png",
             url: "https://peridot.streamguys1.com:5205/stream"
         },
         {
-            name: "107.7 Dave FM",
-            logo: "stations/images-america/c2c/butte_mt/107.7 Dave FM.png",
+            name: "Dave FM 107.7",
+            logo: "stations/images-america/c2c/butte_mt/Dave FM 107.7.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kmtzfmaac-ibc4"
         },
         {
-            name: "KBOW 550",
-            logo: "stations/images-america/c2c/butte_mt/KBOW 550.png",
-            url: "http://butte.leanstream.co/KBOWAM"
-        },
-        {
-            name: "KXTL 1370",
-            logo: "stations/images-america/c2c/butte_mt/KXTL 1370.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kxtlamaac-ibc4"
+            name: "1310 KEIN",
+            logo: "stations/images-america/c2c/butte_mt/1310 KEIN.png",
+            url: "https://1310am.ml:8000/kein"
         },
     ],
     "forsyth": [
@@ -19715,16 +19730,6 @@ var stations_c2c = {
             name: "MTPR 91.7",
             logo: "stations/images-america/0_general_logos/MTPR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
-        },
-        {
-            name: "94.1 KOPR",
-            logo: "stations/images-america/c2c/helena_mt/94.1 KOPR.png",
-            url: "http://butte.leanstream.co/KOPRFM"
-        },
-        {
-            name: "95.5 KMBR",
-            logo: "stations/images-america/c2c/helena_mt/95.5 KMBR.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kmbrfmaac-ibc4"
         },
         {
             name: "Rock 96.3",
@@ -22384,11 +22389,6 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOYYFMAAC_SC"
         },
         {
-            name: "KFGO 94.1",
-            logo: "stations/images-america/c2c/fargo_nd/KFGO 94.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAMAAC_SC"
-        },
-        {
             name: "The City 94.5",
             logo: "stations/images-america/c2c/fargo_nd/The City 94.5.png",
             url: "http://ice10.securenetsystems.net/KBVBHD2"
@@ -22415,7 +22415,7 @@ var stations_c2c = {
         },
         {
             name: "LIFE 97.9",
-            logo: "stations/images-america/c2c/fargo_nd/LIFE 97.9.svg",
+            logo: "stations/images-america/c2c/fargo_nd/LIFE 97.9.png",
             url: "http://nwmedia-kfnwfm.streamguys1.com/kfnw-fm"
         },
         {
@@ -22439,9 +22439,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZCRFMAAC_SC"
         },
         {
-            name: "104.7 The Bear",
-            logo: "stations/images-america/c2c/fargo_nd/104.7 The Bear.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJOFMAAC_SC"
+            name: "104.7 KFGO",
+            logo: "stations/images-america/c2c/fargo_nd/104.7 KFGO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAMAAC_SC"
         },
         {
             name: "Q105.1",
