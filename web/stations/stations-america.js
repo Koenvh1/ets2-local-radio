@@ -26805,8 +26805,13 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3379/hls.m3u8"
         },
         {
+            name: "iHeart Eclectic 92.5-HD2",
+            logo: "stations/images-america/c2c/dallas_tx/iHeart Eclectic 92.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4982/hls.m3u8"
+        },
+        {
             name: "HOT 93.3",
-            logo: "stations/images-america/c2c/dallas_tx/HOT 93.3_BLM.png",
+            logo: "stations/images-america/c2c/dallas_tx/HOT 93.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC_SC"
         },
         {
@@ -26835,9 +26840,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2241/hls.m3u8"
         },
         {
-            name: "The Breeze 97.1-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "Slippery When Wet 97.1-HD2",
+            logo: "stations/images-america/c2c/dallas_tx/Slippery When Wet 97.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4858/hls.m3u8"
         },
         {
             name: "97.9 The Beat",
