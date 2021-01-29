@@ -25977,6 +25977,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2141/hls.m3u8"
         },
         {
+            name: "The Beat Top 20 97.1-HD2",
+            logo: "stations/images-america/c2c/memphis_tn/The Beat Top 20 97.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4886/hls.m3u8"
+        },
+        {
             name: "97.7 Guess FM",
             logo: "stations/images-america/c2c/memphis_tn/97.7 Guess FM.png",
             url: "https://ice42.securenetsystems.net/WOWW"
