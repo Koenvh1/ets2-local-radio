@@ -4315,6 +4315,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2918/hls.m3u8"
         },
         {
+            name: "One Hit Wonder Radio 96.7-HD2",
+            logo: "stations/images-america/modesto/One Hit Wonder Radio 96.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6669/hls.m3u8"
+        },
+        {
             name: "La Suavecita 97.1",
             logo: "stations/images-america/modesto/La Suavecita 97.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTSEFMAAC_SC"
