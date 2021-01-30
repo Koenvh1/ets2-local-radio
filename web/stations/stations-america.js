@@ -2842,17 +2842,17 @@ var stations = {
         {
             name: "98.7 The Zone",
             logo: "stations/images-america/idaho_falls/98.7 The Zone.png",
-            url: "http://stream.sandhillradio.com:10101/KSPZ"
+            url: "https://sandhillradio.net/KSPZ"
         },
         {
             name: "99 KUPI",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "http://stream.sandhillradio.com:10101/KUPI"
+            url: "https://sandhillradio.net/KUPI"
         },
         {
             name: "100.7 MYfm",
             logo: "stations/images-america/idaho_falls/100.7 MYfm.png",
-            url: "http://stream.sandhillradio.com:10101/KSNA"
+            url: "https://sandhillradio.net/KSNA"
         },
         {
             name: "Cannonball 101",
@@ -2887,7 +2887,7 @@ var stations = {
         {
             name: "NOW 105.1",
             logo: "stations/images-america/idaho_falls/NOW 105.1.png",
-            url: "http://stream.sandhillradio.com:10101/KAOX"
+            url: "https://sandhillradio.net/NOW"
         },
         {
             name: "105.5 The Hawk",
@@ -2902,7 +2902,7 @@ var stations = {
         {
             name: "Arrow 107.1",
             logo: "stations/images-america/idaho_falls/Arrow 107.1.png",
-            url: "http://stream.sandhillradio.com:10101/KQEO"
+            url: "https://sandhillradio.net/KQEO"
         },
         {
             name: "NewsTalk 107.9",
