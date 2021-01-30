@@ -8198,6 +8198,21 @@ var stations = {
             url: "http://audio.KUER.org:8000/high"
         },
         {
+            name: "Key Radio 91.7",
+            logo: "stations/images-america/vernal/Key Radio 91.7.png",
+            url: "https://ic2.sslstream.com/keyy-am"
+        },
+        {
+            name: "92.5 Jack FM",
+            logo: "stations/images-america/vernal/92.5 Jack FM.png",
+            url: "http://media2.stratanet.com:1935/jack/mylivestream_aac/playlist.m3u8"
+        },
+        {
+            name: "KNEU 93.5",
+            logo: "stations/images-america/vernal/KNEU 93.5.png",
+            url: "http://media2.stratanet.com:1935/kneu/mylivestream_aac/playlist.m3u8"
+        },
+        {
             name: "Channel X94",
             logo: "stations/images-america/vernal/Channel X94.png",
             url: "http://channelx94.com:9302/;"
@@ -8208,19 +8223,14 @@ var stations = {
             url: "http://ashley.leanstream.co/KIFXFM"
         },
         {
-            name: "KVEL 104.5",
-            logo: "stations/images-america/vernal/KVEL 104.5.png",
-            url: "https://live.leanstream.co/KVELAM"
+            name: "104.5 KVEL",
+            logo: "stations/images-america/vernal/104.5 KVEL.png",
+            url: "http://ashley.leanstream.co/KVELAM"
         },
         {
-            name: "Eagle Country 105.5",
-            logo: "stations/images-america/vernal/Eagle Country 105.5.png",
-            url: "http://live.leanstream.co/KLCYFM-MP3"
-        },
-        {
-            name: "KNEU 1250",
-            logo: "stations/images-america/vernal/KNEU 1250.png",
-            url: "http://media2.stratanet.com:1935/kneu/mylivestream_aac/playlist.m3u8"
+            name: "105.5 Eagle Country",
+            logo: "stations/images-america/vernal/105.5 Eagle Country.png",
+            url: "http://ashley.leanstream.co/KLCYFM"
         },
     ],
     "wenatchee": [
