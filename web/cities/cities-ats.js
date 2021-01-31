@@ -375,7 +375,7 @@ var country_properties = {
         name: "Modesto",
         name_english: "Modesto",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "montrose": {
         name: "Montrose",
@@ -909,7 +909,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "modesto": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "montrose": {
         relative_whitenoise: 0.90
@@ -1183,9 +1183,9 @@ var cities = [
         "gameName": "huron",
         "realName": "Huron",
         "country": "california",
-        "x": "-109205",
-        "y": "108.332",
-        "z": "1883.56"
+        "x": "-109939",
+        "y": "86.5572",
+        "z": "2102.63"
     },
     {
         "gameName": "indio",
@@ -1351,9 +1351,9 @@ var cities = [
         "gameName": "san_francisco",
         "realName": "San Francisco",
         "country": "california",
-        "x": "-114720",
-        "y": "21.2111",
-        "z": "-9427.15"
+        "x": "-116432",
+        "y": "85.9965",
+        "z": "-9907.99"
     },
     {
         "gameName": "san_simon",
@@ -1783,9 +1783,9 @@ var cities = [
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "california",
-        "x": "-108883",
-        "y": "34.6504",
-        "z": "-5139.2"
+        "x": "-109383",
+        "y": "128.264",
+        "z": "-6504.07"
     },
     {
         "gameName": "needles",
