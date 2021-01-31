@@ -129,7 +129,7 @@ var country_properties = {
         name: "Coos Bay",
         name_english: "Coos Bay",
         code: "us-or",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "crescent_city": {
         name: "Crescent City",
@@ -249,7 +249,7 @@ var country_properties = {
         name: "Huron",
         name_english: "Huron",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "idaho_falls": {
         name: "Idaho Falls",
@@ -339,13 +339,13 @@ var country_properties = {
         name: "Longview",
         name_english: "Longview",
         code: "us-wa",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "los_angeles": {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 0.75
+        relative_radius: 0.7
     },
     "ltahoe": {
         name: "South Lake Tahoe",
@@ -393,7 +393,7 @@ var country_properties = {
         name: "Newport",
         name_english: "Newport",
         code: "us-or",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "olympia": {
         name: "Olympia",
