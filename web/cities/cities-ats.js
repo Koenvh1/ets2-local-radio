@@ -57,7 +57,7 @@ var country_properties = {
         name: "Bend",
         name_english: "Bend",
         code: "us-or",
-        relative_radius: 0.85
+        relative_radius: 0.7
     },
     "bishop": {
         name: "Bishop",
@@ -165,7 +165,7 @@ var country_properties = {
         name: "Ely",
         name_english: "Ely",
         code: "us-nv",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "eugene": {
         name: "Eugene",
@@ -363,7 +363,7 @@ var country_properties = {
         name: "Medford",
         name_english: "Medford",
         code: "us-or",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "moab": {
         name: "Moab",
@@ -459,7 +459,7 @@ var country_properties = {
         name: "Price",
         name_english: "Price",
         code: "us-ut",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "rangely": {
         name: "Rangely",
@@ -804,7 +804,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "ely": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "eugene": {
         relative_whitenoise: 0.85
@@ -903,7 +903,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "medford": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "moab": {
         relative_whitenoise: 0.90
@@ -951,7 +951,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "price": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "rangely": {
         relative_whitenoise: 0.90
@@ -7204,7 +7204,7 @@ var country_properties_canadream = {
         name: "Kelowna",
         name_english: "Kelowna",
         code: "ca-bc",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "kindersley": {
         name: "Kindersley",
@@ -7516,7 +7516,7 @@ var city_properties_canadream = {
         relative_whitenoise: 0.85
     },
     "kelowna": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "kindersley": {
         relative_whitenoise: 0.95
