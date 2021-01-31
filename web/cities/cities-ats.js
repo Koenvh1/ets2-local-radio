@@ -177,7 +177,7 @@ var country_properties = {
         name: "Eureka",
         name_english: "Eureka",
         code: "us-ca",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "fallon": {
         name: "Fallon",
@@ -663,7 +663,7 @@ var country_properties = {
         name: "Ukiah",
         name_english: "Ukiah",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "vernal": {
         name: "Vernal",
@@ -960,7 +960,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "redbluff": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "redding": {
         relative_whitenoise: 0.85
@@ -1053,7 +1053,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "ukiah": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "vernal": {
         relative_whitenoise: 0.95
@@ -1279,9 +1279,9 @@ var cities = [
         "gameName": "redbluff",
         "realName": "Red Bluff",
         "country": "california",
-        "x": "-112684",
-        "y": "44.1445",
-        "z": "-21335.8"
+        "x": "-112992",
+        "y": "153.224",
+        "z": "-20492.6"
     },
     {
         "gameName": "redding",
@@ -1415,9 +1415,9 @@ var cities = [
         "gameName": "ukiah",
         "realName": "Ukiah",
         "country": "california",
-        "x": "-116865",
-        "y": "95.4648",
-        "z": "-19252.1"
+        "x": "-117873",
+        "y": "98.8021",
+        "z": "-19116"
     },
     {
         "gameName": "winnemucca",
@@ -1607,9 +1607,9 @@ var cities = [
         "gameName": "lakeview",
         "realName": "Lakeview",
         "country": "oregon",
-        "x": "-100530",
-        "y": "154.777",
-        "z": "-31392"
+        "x": "-100861",
+        "y": "110.329",
+        "z": "-30060.6"
     },
     {
         "gameName": "medford",

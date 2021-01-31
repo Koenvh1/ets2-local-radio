@@ -2286,7 +2286,7 @@ var stations = {
         {
             name: "90.7 KFSR",
             logo: "stations/images-america/fresno/90.7 KFSR.png",
-            url: "http://129.8.40.34:8000/;"
+            url: "https://atsradio.herokuapp.com/http://129.8.40.34:8000/;"
         },
         {
             name: "La Preciosa 92.9",
