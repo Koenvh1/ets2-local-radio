@@ -2227,6 +2227,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kuadfmaac-ibc3"
         },
         {
+            name: "99.9 The Point",
+            logo: "stations/images-america/fort_collins/99.9 The Point.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kkplfmaac-ibc3"
+        },
+        {
             name: "Retro 102.5",
             logo: "stations/images-america/fort_collins/Retro 102.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ktrrfmaac-ibc3"
@@ -29510,11 +29515,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7018/hls.m3u8"
         },
         {
-            name: "99.9 The Point",
-            logo: "stations/images-america/c2c/cheyenne_wy/99.9 The Point.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kkplfmaac-ibc3"
-        },
-        {
             name: "100.7 KOLT FM",
             logo: "stations/images-america/c2c/cheyenne_wy/100.7 KOLT FM.png",
             url: "https://stream.revma.ihrhls.com/zc2705/hls.m3u8"
@@ -29540,8 +29540,8 @@ var stations_c2c = {
             url: "http://streaming.radiowyo.com:1010/KRRR"
         },
         {
-            name: "106.3 Cowboy Country",
-            logo: "stations/images-america/c2c/cheyenne_wy/106.3 Cowboy Country.png",
+            name: "106.3 NOW FM",
+            logo: "stations/images-america/c2c/cheyenne_wy/106.3 NOW FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klenfmaac-ibc3"
         },
         {
