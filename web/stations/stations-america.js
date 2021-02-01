@@ -6,8 +6,8 @@ var stations = {
             url: "http://173.193.205.96:7341/stream"
         },
         {
-            name: "Mixx 96",
-            logo: "stations/images-america/washington/Mixx 96.png",
+            name: "Mixx 96.1",
+            logo: "stations/images-america/washington/Mixx 96.1.png",
             url: "https://ice10.securenetsystems.net/KXXO"
         },
         {
@@ -4655,8 +4655,8 @@ var stations = {
             url: "http://stream1.noctel.com:7002/953kgy"
         },
         {
-            name: "Mixx 96",
-            logo: "stations/images-america/washington/Mixx 96.png",
+            name: "Mixx 96.1",
+            logo: "stations/images-america/washington/Mixx 96.1.png",
             url: "https://ice10.securenetsystems.net/KXXO"
         },
         {
