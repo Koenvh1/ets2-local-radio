@@ -9957,8 +9957,8 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/KAKSFM"
         },
         {
-            name: "Star 101.5",
-            logo: "stations/images-america/c2c/fayetteville_ar/Star 101.5.png",
+            name: "101.5 MYfm",
+            logo: "stations/images-america/c2c/fayetteville_ar/101.5 MyFM.png",
             url: "https://ice7.securenetsystems.net/KFMD"
         },
         {
