@@ -4858,6 +4858,11 @@ var stations = {
             url: "http://ice9.securenetsystems.net/KUBQFM"
         },
         {
+            name: "KTEL 99.7",
+            logo: "stations/images-america/pendleton/KTEL 99.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAMAAC_SC"
+        },
+        {
             name: "102.3 The River",
             logo: "stations/images-america/pendleton/102.3 The River.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWRLFM_SC"
@@ -4866,6 +4871,11 @@ var stations = {
             name: "102.7 KORD",
             logo: "stations/images-america/kennewick/102.7 KORD.png",
             url: "https://live.wostreaming.net/direct/townsquare-kordfmaac-ibc3"
+        },
+        {
+            name: "103.1 The Outlaw",
+            logo: "stations/images-america/pendleton/103.1 The Outlaw.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIXAMAAC_SC"
         },
         {
             name: "103.5 K-Wheat",
