@@ -297,7 +297,7 @@ var country_properties = {
         name: "Lakeview",
         name_english: "Lakeview",
         code: "us-or",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "lamar": {
         name: "Lamar",
@@ -867,7 +867,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "klamath_f": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "lakeview": {
         relative_whitenoise: 0.95
@@ -1035,7 +1035,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "tacoma": {
-        relative_whitenoise: 0.70
+        relative_whitenoise: 0.85
     },
     "the_dalles": {
         relative_whitenoise: 0.85
@@ -1559,9 +1559,9 @@ var cities = [
         "gameName": "bend",
         "realName": "Bend",
         "country": "oregon",
-        "x": "-100856",
-        "y": "104.578",
-        "z": "-42806.8"
+        "x": "-101347",
+        "y": "91.4112",
+        "z": "-42357.6"
     },
     {
         "gameName": "burns",
@@ -1591,9 +1591,9 @@ var cities = [
         "gameName": "eugene",
         "realName": "Eugene",
         "country": "oregon",
-        "x": "-107954",
-        "y": "42.0815",
-        "z": "-44637.8"
+        "x": "-107931",
+        "y": "28.8633",
+        "z": "-44733.4"
     },
     {
         "gameName": "klamath_f",
