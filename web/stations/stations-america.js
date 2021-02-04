@@ -5181,7 +5181,7 @@ var stations = {
         {
             name: "100.3 The Q",
             logo: "stations/images-america/canada_promods/vancouver/100.3 The Q.png",
-            url: "https://redirect.jpbgdigital.com/CKKQ.m3u8"
+            url: "https://redirect.jpbgdigital.com/CKKQ"
         },
         {
             name: "KONP 101.7",
@@ -30229,7 +30229,7 @@ var stations_canadream = {
         {
             name: "89.5 The Drive",
             logo: "stations/images-america/canada_promods/hope/89.5 The Drive.png",
-            url: "https://stream.jpbgdigital.com/CHWK/HEAAC/48k/playlist.m3u8"
+            url: "https://redirect.jpbgdigital.com/CHWK"
         },
         {
             name: "KiSS 92.5",
@@ -30322,12 +30322,12 @@ var stations_canadream = {
         {
             name: "98.3 CIFM",
             logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
-            url: "https://stream.jpbgdigital.com/CIFM/HEAAC/48k/playlist.m3u8"
+            url: "https://redirect.jpbgdigital.com/CIFM"
         },
         {
             name: "B100",
             logo: "stations/images-america/canada_promods/kamloops/B100.png",
-            url: "https://stream.jpbgdigital.com/CKBZ/HEAAC/48k/playlist.m3u8"
+            url: "https://redirect.jpbgdigital.com/CKBZ"
         },
         {
             name: "CBC Music 105.3",
@@ -30357,14 +30357,14 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
-            name: "Beach Radio 103.1",
-            logo: "stations/images-america/canada_promods/kelowna/Beach Radio 103.1.png",
-            url: "https://ais-sa1.streamon.fm/7330_48k.aac"
+            name: "103.1 Beach Radio",
+            logo: "stations/images-america/canada_promods/kelowna/103.1 Beach Radio.png",
+            url: "https://redirect.jpbgdigital.com/CKQQ"
         },
         {
             name: "Power 104",
             logo: "stations/images-america/canada_promods/kelowna/Power 104.png",
-            url: "https://ais-sa1.streamon.fm/7332_48k.aac"
+            url: "https://redirect.jpbgdigital.com/CKLZ"
         },
         {
             name: "770 CHQR",
@@ -31539,7 +31539,7 @@ var stations_canadream = {
         {
             name: "93.7 JR Country",
             logo: "stations/images-america/canada_promods/vancouver/93.7 JR Country.png",
-            url: "https://redirect.jpbgdigital.com/CJJR.m3u8"
+            url: "https://redirect.jpbgdigital.com/CJJR"
         },
         {
             name: "JACK 96.9",
@@ -31564,7 +31564,7 @@ var stations_canadream = {
         {
             name: "100.3 The Q",
             logo: "stations/images-america/canada_promods/vancouver/100.3 The Q.png",
-            url: "https://redirect.jpbgdigital.com/CKKQ.m3u8"
+            url: "https://redirect.jpbgdigital.com/CKKQ"
         },
         {
             name: "CO-OP Radio 100.5",
@@ -31584,7 +31584,7 @@ var stations_canadream = {
         {
             name: "102.7 The Peak",
             logo: "stations/images-america/canada_promods/vancouver/102.7 The Peak.png",
-            url: "https://redirect.jpbgdigital.com/CKPK.m3u8"
+            url: "https://redirect.jpbgdigital.com/CKPK"
         },
         {
             name: "KiSS 104.9",
