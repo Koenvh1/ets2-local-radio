@@ -147,7 +147,7 @@ var country_properties = {
         name: "Durango",
         name_english: "Durango",
         code: "us-co",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "ehrenberg": {
         name: "Ehrenberg",
@@ -237,7 +237,7 @@ var country_properties = {
         name: "Grangeville",
         name_english: "Grangeville",
         code: "us-id",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "hobbs": {
         name: "Hobbs",
@@ -267,7 +267,7 @@ var country_properties = {
         name: "Kayenta",
         name_english: "Kayenta",
         code: "us-az",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "kennewick": {
         name: "Kennewick",
@@ -327,7 +327,7 @@ var country_properties = {
         name: "Lewiston",
         name_english: "Lewiston",
         code: "us-id",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "logan": {
         name: "Logan",
@@ -357,7 +357,7 @@ var country_properties = {
         name: "McCall",
         name_english: "McCall",
         code: "us-id",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "medford": {
         name: "Medford",
@@ -471,7 +471,7 @@ var country_properties = {
         name: "Raton",
         name_english: "Raton",
         code: "us-nm",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "redbluff": {
         name: "Red Bluff",
@@ -519,7 +519,7 @@ var country_properties = {
         name: "Salmon",
         name_english: "Salmon",
         code: "us-id",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "salt_lake": {
         name: "Salt Lake City",
@@ -561,7 +561,7 @@ var country_properties = {
         name: "Santa Rosa",
         name_english: "Santa Rosa",
         code: "us-nm",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "san_diego": {
         name: "San Diego",
@@ -795,7 +795,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "durango": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "ehrenberg": {
         relative_whitenoise: 0.85
@@ -840,7 +840,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "grangeville": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "hobbs": {
         relative_whitenoise: 0.85
@@ -870,7 +870,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lakeview": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "lamar": {
         relative_whitenoise: 0.80
@@ -885,7 +885,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lewiston": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "logan": {
         relative_whitenoise: 0.85
@@ -900,7 +900,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "mccall": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "medford": {
         relative_whitenoise: 0.85
@@ -981,7 +981,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "salmon": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "salt_lake": {
         relative_whitenoise: 0.85
@@ -1002,7 +1002,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "santa_rosa_nm": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "san_diego": {
         relative_whitenoise: 0.80
@@ -3265,7 +3265,7 @@ var country_properties_c2c = {
         name: "butte",
         name_english: "butte",
         code: "us-mt",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "forsyth": {
         name: "forsyth",
@@ -3307,7 +3307,7 @@ var country_properties_c2c = {
         name: "kalispell",
         name_english: "kalispell",
         code: "us-mt",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "lewistown": {
         name: "lewistown",
@@ -3416,24 +3416,6 @@ var country_properties_c2c = {
         name_english: "new_jersey",
         code: "us-nj",
         relative_radius: 0.8
-    },
-    "new_mexico": {
-        name: "new_mexico",
-        name_english: "new_mexico",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "santa_rosa": {
-        name: "santa_rosa",
-        name_english: "santa_rosa",
-        code: "us-nm",
-        relative_radius: 1.2
-    },
-    "truth_or_consequences": {
-        name: "truth_or_consequences",
-        name_english: "truth_or_consequences",
-        code: "us-nm",
-        relative_radius: 1.2
     },
     "new_york": {
         name: "new_york",
@@ -4609,7 +4591,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "butte": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "forsyth": {
         relative_whitenoise: 0.95
@@ -4630,7 +4612,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "kalispell": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "lewistown": {
         relative_whitenoise: 0.95
@@ -4642,7 +4624,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "missoula": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "roundup": {
         relative_whitenoise: 0.95

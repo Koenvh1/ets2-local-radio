@@ -6439,19 +6439,24 @@ var stations = {
     ],
     "santa_fe": [
         {
-            name: "95.5 KHFM",
-            logo: "stations/images-america/santa_fe/95.5 KHFM.png",
-            url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
-        },
-        {
             name: "Jam'n 94.7",
             logo: "stations/images-america/santa_fe/Jam'n 94.7.png",
             url: "https://58f14b372a413.streamlock.net:444/juan/juan.stream_aac/playlist.m3u8"
         },
         {
+            name: "95.5 KHFM",
+            logo: "stations/images-america/roswell/95.5 KHFM.png",
+            url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
+        },
+        {
             name: "98.1 KBAC",
             logo: "stations/images-america/santa_fe/98.1 KBAC.png",
             url: "https://58f14b372a413.streamlock.net:444/kbac/kbac.stream_aac/playlist.m3u8"
+        },
+        {
+            name: "99.9 KSWV",
+            logo: "stations/images-america/santa_fe/99.9 KSWV.png",
+            url: "https://crystalout.surfernetwork.com:8001/KSWV-AM_MP3"
         },
         {
             name: "KSFR 101.1",
@@ -6467,6 +6472,16 @@ var stations = {
             name: "KTAOS 101.9",
             logo: "stations/images-america/santa_fe/KTAOS 101.9.png",
             url: "https://58f14b372a413.streamlock.net:444/ktao/ktao.stream_aac/playlist.m3u8"
+        },
+        {
+            name: "104.1 The Edge",
+            logo: "stations/images-america/albuquerque/104.1 The Edge.png",
+            url: "https://stream.revma.ihrhls.com/zc1397/hls.m3u8"
+        },
+        {
+            name: "Mix 105.1",
+            logo: "stations/images-america/albuquerque/Mix 105.1.png",
+            url: "https://live.wostreaming.net/manifest/agmedia28-kkrgfmaac-ibc3"
         },
         {
             name: "KDCE 106.3",
@@ -7057,7 +7072,7 @@ var stations = {
         },
         {
             name: "99.9 KISW",
-            logo: "stations/images-america/seattle/99.9 KISW.png",
+            logo: "stations/images-america/seattle/99.9 KISW_50years.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KISWFMAAC_SC"
         },
         {
