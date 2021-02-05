@@ -3025,7 +3025,7 @@ var stations = {
         {
             name: "Rádio Renascença",
             logo: "stations/images-europe/portugal/Rádio Renascença.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC_SC"
         },
         {
             name: "RFM",
