@@ -1249,6 +1249,11 @@ var stations = {
             url: "https://stream.klassikradio.de/live/mp3-192"
         },
         {
+            name: "Klassik Radio Movie",
+            logo: "stations/images-europe/germany/Klassik Radio Movie.png",
+            url: "https://klassikr.streamabc.net/klr-movie-mp3-128-5064634"
+        },
+        {
             name: "NOSTALGIE",
             logo: "stations/images-europe/germany/NOSTALGIE.png",
             url: "https://scdn.nrjaudio.fm/adwz1/de/57447/mp3_128.mp3"
@@ -1271,7 +1276,7 @@ var stations = {
         {
             name: "RTL Radio",
             logo: "stations/images-europe/germany/RTL Radio.png",
-            url: "https://rtldtl.hoerradar.de/rtldtl-national-mp3-128"
+            url: "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113"
         },
         {
             name: "Radio Schlagerparadies",
