@@ -131,40 +131,40 @@ var stations = {
         {
             name: "ORF Ö1",
             logo: "stations/images-europe/austria/ORF Ö1.png",
-            url: "http://mp3stream3.apasf.apa.at/;stream.mp3"
+            url: "https://orf-live.ors-shoutcast.at/oe1-q2a"
         },
         {
-            name: "ORF Ö2 (Wien)",
-            logo: "stations/images-europe/austria/ORF Ö2.png",
-            url: "http://mp3stream2.apasf.apa.at/;stream.mp3"
+            name: "Radio Wien",
+            logo: "stations/images-europe/austria/Radio Wien.png",
+            url: "https://orf-live.ors-shoutcast.at/wie-q2a"
         },
         {
-            name: "ORF Ö3",
-            logo: "stations/images-europe/austria/ORF Ö3.png",
-            url: "http://mp3stream7.apasf.apa.at/;stream.mp3"
+            name: "Hitradio Ö3",
+            logo: "stations/images-europe/austria/Hitradio Ö3.png",
+            url: "https://orf-live.ors-shoutcast.at/oe3-q2a"
         },
         {
-            name: "ORF FM4",
-            logo: "stations/images-europe/austria/ORF FM4.png",
-            url: "http://mp3stream1.apasf.apa.at/;stream.mp3"
+            name: "FM4",
+            logo: "stations/images-europe/austria/FM4.png",
+            url: "https://orf-live.ors-shoutcast.at/fm4-q2a"
         },
         {
-            name: "KroneHit",
+            name: "kronehit",
             logo: "stations/images-europe/austria/KroneHit.png",
-            url: "http://onair-ha1.krone.at/kronehit-hp.mp3"
+            url: "https://secureonair.krone.at/kronehit-hp.mp3"
         },
         {
             name: "Life Radio",
-            logo: "stations/images-europe/austria/Life Radio.jpg",
-            url: "http://stream1.liferadio.at/"
+            logo: "stations/images-europe/austria/Life Radio.png",
+            url: "https://liferadio.streamabc.net/lfr-lr-mp3-128-9299368"
         },
         {
-            name: "Radio 88.6",
+            name: "radio 88.6",
             logo: "stations/images-europe/austria/Radio 88.6.png",
             url: "https://radio886.fluidstream.eu/886_live.mp3"
         },
         {
-            name: "Welle 1 (Salzburg)",
+            name: "WELLE 1",
             logo: "stations/images-europe/austria/Welle 1.png",
             url: "https://live.welle1.at:18128/stream"
         },
@@ -697,37 +697,37 @@ var stations = {
         {
             name: "DR P1",
             logo: "stations/images-europe/denmark/DR P1.png",
-            url: "https://drradio1-lh.akamaihd.net/i/p1_9@143503/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8"
         },
         {
             name: "DR P2",
             logo: "stations/images-europe/denmark/DR P2.png",
-            url: "https://drradio2-lh.akamaihd.net/i/p2_9@143504/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8"
         },
         {
             name: "DR P3",
             logo: "stations/images-europe/denmark/DR P3.png",
-            url: "https://drradio3-lh.akamaihd.net/i/p3_9@143506/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p3/masterab.m3u8"
         },
         {
             name: "DR P4",
             logo: "stations/images-europe/denmark/DR P4.png",
-            url: "https://drradio1-lh.akamaihd.net/i/p4midtvest_9@143510/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p4kobenhavn/masterab.m3u8"
         },
         {
             name: "DR P5",
             logo: "stations/images-europe/denmark/DR P5.png",
-            url: "https://drradio1-lh.akamaihd.net/i/P5midtvest_dvr@827100/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p5kobenhavn/masterab.m3u8"
         },
         {
             name: "DR P6",
             logo: "stations/images-europe/denmark/DR P6.png",
-            url: "https://drradio3-lh.akamaihd.net/i/p6beat_9@143533/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p6beat/masterab.m3u8"
         },
         {
             name: "DR P8",
             logo: "stations/images-europe/denmark/DR P8.png",
-            url: "https://drradio2-lh.akamaihd.net/i/p8jazz_9@143524/master.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/masterab.m3u8"
         },
         {
             name: "Classic FM",
@@ -2339,12 +2339,12 @@ var stations = {
             name: "Radio NS",
             logo: "stations/images-europe/kazakhstan/Radio NS.png",
             url: "http://89.219.35.26:8000/radions"
-        },
+        },/*
         {
             name: "Ретро FM",
             logo: "stations/images-europe/kazakhstan/Ретро FM.png",
             url: "http://s1.radioheart.ru:8001/retrofm-kz-128"
-        },
+        },*/
         {
             name: "Русское Радио Азия",
             logo: "stations/images-europe/kazakhstan/Русское Радио Азия.png",
@@ -3025,12 +3025,12 @@ var stations = {
         {
             name: "Rádio Renascença",
             logo: "stations/images-europe/portugal/Rádio Renascença.png",
-            url: "https://19573.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac?tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCAAAC"
         },
         {
             name: "RFM",
             logo: "stations/images-europe/portugal/RFM.png",
-            url: "https://19573.live.streamtheworld.com/RFMAAC.aac?tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC"
         },
         {
             name: "TSF Rádio Notícias",
