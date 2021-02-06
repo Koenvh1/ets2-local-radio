@@ -10552,12 +10552,32 @@ var cities_japan = [
     }
 ];
 
+var cities_pm251 = [
+    {
+        "gameName": "iskenderun",
+        "realName": "İskenderun",
+        "country": "turkey",
+        "x": "112776.9",
+        "y": "4,005996",
+        "z": "64687,3"
+    },
+    {
+        "gameName": "antakya",
+        "realName": "Antakya",
+        "x": "113529",
+        "y": "10,02945"
+        "z": "66960,86"
+    }
+
+]
+
 
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
 cities = cities.concat(cities_pm245); //ProMods 2.45 cities
 cities = cities.concat(cities_pm250); //ProMods 2.50 cities
+cities = cities.concat(cities_pm251); //ProMods 2.51 cities (WIP But fonctionnal)
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
