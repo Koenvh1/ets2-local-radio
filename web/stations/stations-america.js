@@ -222,6 +222,11 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KMGG"
         },
         {
+            name: "Legends of Hip Hop 99.9-HD2",
+            logo: "stations/images-america/albuquerque/Legends of Hip Hop 99.9-HD2.png",
+            url: "https://ice6.securenetsystems.net/KMGGHD2"
+        },
+        {
             name: "100.3 The Peak",
             logo: "stations/images-america/albuquerque/100.3 The Peak.png",
             url: "https://stream.revma.ihrhls.com/zc1389/hls.m3u8"
@@ -235,6 +240,11 @@ var stations = {
             name: "Sunny 101.3",
             logo: "stations/images-america/albuquerque/Sunny 101.3.png",
             url: "https://ice42.securenetsystems.net/KRKEFM"
+        },
+        {
+            name: "101.7 The Team",
+            logo: "stations/images-america/albuquerque/101.7 The Team.png",
+            url: "https://ice8.securenetsystems.net/KQTM"
         },
         {
             name: "Fuego 102.9",
@@ -269,7 +279,7 @@ var stations = {
         {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "La Zeta 106.3",
@@ -420,7 +430,7 @@ var stations = {
         {
             name: "Air1 104.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "Sunny 105.3",
@@ -467,7 +477,7 @@ var stations = {
         {
             name: "Air1 92.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KBHR 93.3",
@@ -581,7 +591,7 @@ var stations = {
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "OPB 91.3",
@@ -730,7 +740,7 @@ var stations = {
         {
             name: "Air1 98.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "99.1 I-Rock",
@@ -943,7 +953,7 @@ var stations = {
         {
             name: "Air1 90.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "ALT 92.1",
@@ -1261,7 +1271,7 @@ var stations = {
         {
             name: "Air1 104.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KRDO 105.5",
@@ -1449,7 +1459,7 @@ var stations = {
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KUVO 89.3",
@@ -2281,7 +2291,7 @@ var stations = {
         {
             name: "Air1 88.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KVPR 89.3",
@@ -2505,7 +2515,7 @@ var stations = {
         {
             name: "Air1 98.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "99.9 KEKB",
@@ -2797,7 +2807,7 @@ var stations = {
         {
             name: "Air1 90.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KISU FM 91",
@@ -3392,7 +3402,7 @@ var stations = {
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "Classical 89.7",
@@ -3842,7 +3852,7 @@ var stations = {
         {
             name: "Air1 92.3-HD3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "93.1 Jack FM",
@@ -4962,7 +4972,7 @@ var stations = {
         {
             name: "Air1 96.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "MIX 96.9",
@@ -5072,7 +5082,7 @@ var stations = {
         {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "La Mejor 106.5",
@@ -5208,7 +5218,7 @@ var stations = {
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KMHD 89.1",
@@ -5593,7 +5603,7 @@ var stations = {
         {
             name: "Air1 90.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KFOI 90.9",
@@ -5665,7 +5675,7 @@ var stations = {
         {
             name: "Air1 88.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KUNR 88.7",
@@ -5857,6 +5867,11 @@ var stations = {
     ],
     "roswell": [
         {
+            name: "Air1 89.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
             name: "Effect Radio 89.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
@@ -6001,7 +6016,7 @@ var stations = {
         {
             name: "Air1 98.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "NOW 100.5",
@@ -6244,7 +6259,7 @@ var stations = {
         {
             name: "Air1 89.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KUER 90.1",
@@ -6597,7 +6612,7 @@ var stations = {
         {
             name: "Air1 92.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "Magic 92.5",
@@ -6874,7 +6889,7 @@ var stations = {
         {
             name: "Air1 103.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "iHeart80s @ 103.7",
@@ -6963,7 +6978,7 @@ var stations = {
         {
             name: "Air1 88.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "KNKX 88.5",
@@ -7411,7 +7426,7 @@ var stations = {
         {
             name: "Air1 101.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "103.1 KCDA",
@@ -7969,7 +7984,7 @@ var stations = {
         {
             name: "Air1 100.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "The Drive 101.7",
@@ -28506,7 +28521,7 @@ var stations_c2c = {
         {
             name: "Air1 92.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "94.1 QZK",
