@@ -8746,7 +8746,12 @@ var stations_mexico = {
             name: "La Nueva RJ",
             logo: "stations/images-america/mexico/sinaloa/rj.png",
             url: "http://audioout.gvstream.net/gpm-rj.aac"
-        },       
+        },
+        {
+            name: "Switch 88.9FM",
+            logo: "stations/images-america/mexico/sinaloa/switch.png",
+            url: "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_5539_stream_603657811"
+        },         
     ],
     "culiacan": [
         {
