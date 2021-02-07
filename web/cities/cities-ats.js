@@ -15,7 +15,7 @@ var country_properties = {
         name: "Alamosa",
         name_english: "Alamosa",
         code: "us-co",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "albuquerque": {
         name: "Albuquerque",
@@ -141,7 +141,7 @@ var country_properties = {
         name: "Denver",
         name_english: "Denver",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "durango": {
         name: "Durango",
@@ -219,7 +219,7 @@ var country_properties = {
         name: "Glenwood Springs",
         name_english: "Glenwood Springs",
         code: "us-co",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "g_canyon_vlg": {
         name: "Grand Canyon Village",
@@ -227,11 +227,11 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.4
     },
-    "grand_juncti": {
-        name: "Grand Junction",
-        name_english: "Grand Junction",
+    "grand_junction_montrose": {
+        name: "Grand Junction / Montrose",
+        name_english: "Grand Junction / Montrose",
         code: "us-co",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "grangeville": {
         name: "Grangeville",
@@ -369,19 +369,13 @@ var country_properties = {
         name: "Moab",
         name_english: "Moab",
         code: "us-ut",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "modesto": {
         name: "Modesto",
         name_english: "Modesto",
         code: "us-ca",
         relative_radius: 0.7
-    },
-    "montrose": {
-        name: "Montrose",
-        name_english: "Montrose",
-        code: "us-co",
-        relative_radius: 1.0
     },
     "needles": {
         name: "Needles",
@@ -465,7 +459,7 @@ var country_properties = {
         name: "Rangely",
         name_english: "Rangely",
         code: "us-co",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "raton": {
         name: "Raton",
@@ -531,7 +525,7 @@ var country_properties = {
         name: "Steamboat Springs",
         name_english: "Steamboat Springs",
         code: "us-co",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "sterling": {
         name: "Sterling",
@@ -726,7 +720,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "alamosa": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "alamogordo": {
         relative_whitenoise: 0.85
@@ -792,7 +786,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "denver": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "durango": {
         relative_whitenoise: 0.85
@@ -831,13 +825,13 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "glenwood_springs": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "g_canyon_vlg": {
         relative_whitenoise: 0.85
     },
-    "grand_juncti": {
-        relative_whitenoise: 0.90
+    "grand_junction_montrose": {
+        relative_whitenoise: 0.85
     },
     "grangeville": {
         relative_whitenoise: 0.85
@@ -906,13 +900,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "moab": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "modesto": {
         relative_whitenoise: 0.85
-    },
-    "montrose": {
-        relative_whitenoise: 0.90
     },
     "needles": {
         relative_whitenoise: 0.95
@@ -954,7 +945,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "rangely": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "raton": {
         relative_whitenoise: 0.85
@@ -987,7 +978,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "steamboat_sp": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "sterling": {
         relative_whitenoise: 0.90
@@ -1775,9 +1766,9 @@ var cities = [
         "gameName": "moab",
         "realName": "Moab",
         "country": "utah",
-        "x": "-58842.2",
-        "y": "119",
-        "z": "-2435.75"
+        "x": "-59408.7",
+        "y": "172.866",
+        "z": "-1841.51"
     },
     {
         "gameName": "modesto",
@@ -1956,12 +1947,12 @@ var cities = [
         "z": "-5649.02"
     },
     {
-        "gameName": "grand_juncti",
-        "realName": "Grand Junction",
+        "gameName": "grand_junction_montrose",
+        "realName": "Grand Junction / Montrose",
         "country": "colorado",
-        "x": "-53960.4",
-        "y": "123.477",
-        "z": "-3558.85"
+        "x": "-52937.9",
+        "y": "121.101",
+        "z": "-2215.41"
     },
     {
         "gameName": "lamar",
@@ -1970,14 +1961,6 @@ var cities = [
         "x": "-29205.3",
         "y": "178.398",
         "z": "3966.89"
-    },
-    {
-        "gameName": "montrose",
-        "realName": "Montrose",
-        "country": "colorado",
-        "x": "-52039",
-        "y": "156.707",
-        "z": "-663.594"
     },
     {
         "gameName": "salida",
@@ -4171,7 +4154,7 @@ var country_properties_c2c = {
         name: "cheyenne",
         name_english: "cheyenne",
         code: "us-wy",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "gillette_wy": {
         name: "gillette",
@@ -4183,13 +4166,13 @@ var country_properties_c2c = {
         name: "rawlings",
         name_english: "rawlings",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "rock_springs": {
         name: "rock_springs",
         name_english: "rock_springs",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "sheridan_wy": {
         name: "sheridan_wy",
@@ -5050,16 +5033,16 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "cheyenne": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "gillette_wy": {
         relative_whitenoise: 0.95
     },
     "rawlins": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "rock_springs": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "sheridan_wy": {
         relative_whitenoise: 0.95
