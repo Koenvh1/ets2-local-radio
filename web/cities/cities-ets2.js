@@ -10570,13 +10570,20 @@ var cities_pm251 = [
         "z": "66960.86"
     }
     {
-        "gameName": "Latakia"
+        "gameName": "latakia"
         "realName": "اللاذقية"
         "country": "syria"
         "x": "112815.5"
         "y": "6.481182"
         "z": "70919.05"
-
+    }
+    {
+        "gameName": "tartus"
+        "realName": "طَرْطُوس‎ "
+        "country": "syria"
+        "x": "113580.9"
+        "y": "4.029435"
+        "z": "74175.76"
     }
 
 ]
