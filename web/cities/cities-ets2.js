@@ -10564,6 +10564,7 @@ var cities_pm251 = [
     {
         "gameName": "antakya",
         "realName": "Antakya",
+        "country": "syria"
         "x": "113529",
         "y": "10.02945"
         "z": "66960.86"
@@ -10571,6 +10572,7 @@ var cities_pm251 = [
     {
         "gameName": "Latakia"
         "realName": "اللاذقية"
+        "country": "syria"
         "x": "112815.5"
         "y": "6.481182"
         "z": "70919.05"
