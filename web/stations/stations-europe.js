@@ -29,16 +29,6 @@ var stations = {
             url: "http://149.202.220.47:8888/radiotirana3"
         },
         {
-            name: "ABC News",
-            logo: "stations/images-europe/albania/ABC News.png",
-            url: "https://abcradiolivehls-lh.akamaihd.net/i/newsradio_1@327297/master.m3u8"
-        },
-        {
-            name: "Alpo Radio",
-            logo: "stations/images-europe/albania/Alpo Radio.png",
-            url: "http://62.210.24.124:8379/;stream.mp3"
-        },
-        {
             name: "Alsion Radio",
             logo: "stations/images-europe/albania/Alsion Radio.png",
             url: "http://109.169.26.216:8018/;"
@@ -47,11 +37,6 @@ var stations = {
             name: "Big FM 101.6",
             logo: "stations/images-europe/albania/Big FM.jpg",
             url: "http://46.252.33.58:9310/;stream.mp3"
-        },
-        {
-            name: "Kiss FM",
-            logo: "stations/images-europe/albania/Kiss FM.png",
-            url: "https://stream.kissfm.com.al:8000/stream?ver=699557"
         },
         {
             name: "NRG (Energy)",
