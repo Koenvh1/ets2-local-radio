@@ -524,11 +524,14 @@ var city_properties = {
     "andorra": {
         relative_whitenoise: 1.1,
     },
+    "alban": {
+        relative_radius: 1.4,
+    },
     "amsterdam": {
         relative_radius: 1.4,
     },
-    "alban": {
-        relative_radius: 1.4,
+    "antakya": {
+        relative_radius: 0.4,
     },
     "apsheronsk": {
         relative_radius: 0.5,
@@ -754,6 +757,9 @@ var city_properties = {
         relative_radius: 1.1,
     },
     "irun": {
+        relative_radius: 0.6,
+    },
+    "iskenderun": {
         relative_radius: 0.6,
     },
     "jekabpils": {
@@ -7592,7 +7598,40 @@ var cities_pm_me = [
         "x": "118257",
         "y": "100.125",
         "z": "90744.4"
+    },
+    {
+        "gameName": "iskenderun",
+        "realName": "İskenderun",
+        "country": "turkey",
+        "x": "112776.9",
+        "y": "4.005996",
+        "z": "64687.3"
+    },
+    {
+        "gameName": "antakya",
+        "realName": "Antakya",
+        "country": "turkey",
+        "x": "113529",
+        "y": "10.02945",
+        "z": "66960.86"
+    },
+    {
+        "gameName": "latakia",
+        "realName": "اللاذقية",
+        "country": "syria",
+        "x": "112815.5",
+        "y": "6.481182",
+        "z": "70919.05"
+    },
+    {
+        "gameName": "tartus",
+        "realName": "طَرْطُوس ",
+        "country": "syria",
+        "x": "113580.9",
+        "y": "4.029435",
+        "z": "74175.76"
     }
+
 ];
 
 var cities_wip = [
