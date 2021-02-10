@@ -31450,14 +31450,19 @@ var stations_canadream = {
             url: "https://live.leanstream.co/CKNWAM-MP3"
         },
         {
-            name: "TSN 1040",
-            logo: "stations/images-america/canada_promods/vancouver/TSN 1040.png",
+            name: "FUNNY 1040",
+            logo: "stations/images-america/canada_promods/vancouver/FUNNY 1040.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC_SC"
         },
         {
             name: "NEWS 1130",
             logo: "stations/images-america/canada_promods/vancouver/News 1130.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy"
+        },
+        {
+            name: "BNN Bloomberg Radio 1410",
+            logo: "stations/images-america/canada_promods/vancouver/BNN Bloomberg Radio 1410.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC"
         },
     ],
     "virden": [
