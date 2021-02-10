@@ -537,7 +537,7 @@ var country_properties = {
         name: "Monterey",
         name_english: "Monterey",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "santa_fe": {
         name: "Santa Fe",
@@ -657,7 +657,7 @@ var country_properties = {
         name: "Ukiah",
         name_english: "Ukiah",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "vernal": {
         name: "Vernal",
@@ -1310,9 +1310,9 @@ var cities = [
         "gameName": "monterey",
         "realName": "Monterey",
         "country": "california",
-        "x": "-115483",
-        "y": "89.2334",
-        "z": "-1239.04"
+        "x": "-115286",
+        "y": "91.818",
+        "z": "-1766.18"
     },
     {
         "gameName": "santa_maria",
@@ -1342,9 +1342,9 @@ var cities = [
         "gameName": "san_francisco",
         "realName": "San Francisco",
         "country": "california",
-        "x": "-116432",
-        "y": "85.9965",
-        "z": "-9907.99"
+        "x": "-116467",
+        "y": "78.0898",
+        "z": "-10076.9"
     },
     {
         "gameName": "san_simon",
@@ -1406,9 +1406,9 @@ var cities = [
         "gameName": "ukiah",
         "realName": "Ukiah",
         "country": "california",
-        "x": "-117873",
-        "y": "98.8021",
-        "z": "-19116"
+        "x": "-118375",
+        "y": "113.669",
+        "z": "-18662.5"
     },
     {
         "gameName": "winnemucca",
