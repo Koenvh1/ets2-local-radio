@@ -24,13 +24,14 @@ using Svg;
 
 namespace ETS2_Local_Radio_server
 {
-    static class Station
+    public class Station
     {
         [DllImport("user32.dll")]
         public static extern bool GetWindowRect(IntPtr hwnd, ref Rect rectangle);
 
         public struct Rect
         {
+            //public string RadioStation;
             public int Left { get; set; }
             public int Top { get; set; }
             public int Right { get; set; }
@@ -38,8 +39,12 @@ namespace ETS2_Local_Radio_server
         }
 
         public static string NowPlaying = "Now playing:";
+
         public static bool RTL = false;
 
+        public static string RadioStation = "-";
+        public static string RadioSignal = "1";
+        
         public static int Width = 0;
         public static int Height = 0;
 
@@ -48,6 +53,7 @@ namespace ETS2_Local_Radio_server
         public static System.Timers.Timer Timer = new System.Timers.Timer();
 
         public static void SetStation(string name, string signal, string logoPath = null)
+
         {
             try
             {
@@ -62,7 +68,7 @@ namespace ETS2_Local_Radio_server
                             return;
                         }
                     }
-
+                    
                     Rect rectangle = new Rect();
                     GetWindowRect(CaptureProcess.Process.MainWindowHandle, ref rectangle);
                     Width = rectangle.Right - rectangle.Left;
@@ -94,6 +100,10 @@ namespace ETS2_Local_Radio_server
 
                     var stringSize = g.MeasureString(NowPlaying + " " + name, font);
                     var nowPlayingSize = g.MeasureString(NowPlaying + " ", font);
+                    
+                    RadioStation = name;
+                    RadioSignal = signal;
+                    
                     var nameSize = g.MeasureString(name, font);
                     var topLeft = new PointF((512 / 2) - (stringSize.Width / 2) + 123,
                         (bmp.Height / 2) - (stringSize.Height / 2));
