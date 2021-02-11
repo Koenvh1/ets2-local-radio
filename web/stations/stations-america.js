@@ -1467,16 +1467,6 @@ var stations = {
             url: "https://kuvo-ice.streamguys1.com/kuvo-aac-128"
         },
         {
-            name: "The Drop 89.3-HD2",
-            logo: "stations/images-america/denver/The Drop 89.3-HD2.png",
-            url: "http://kuvo-ice.streamguys.org/kuvohd2-aac-128"
-        },
-        {
-            name: "Denver Open Media 89.3-HD3",
-            logo: "stations/images-america/denver/Denver Open Media 89.3-HD3.png",
-            url: "http://komfstream.denveropenmedia.org:8000/stream"
-        },
-        {
             name: "CPR News 90.1",
             logo: "stations/images-america/0_general_logos/CPR.png",
             url: "http://stream2.cprnetwork.org:8000/cpr1_aac"
@@ -1490,6 +1480,11 @@ var stations = {
             name: "Altitude Sports Radio 92.5",
             logo: "stations/images-america/denver/Altitude Sports Radio 92.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEFMAAC_SC"
+        },
+        {
+            name: "Denver Open Media 92.9",
+            logo: "stations/images-america/denver/Denver Open Media 92.9.png",
+            url: "http://komfstream.denveropenmedia.org:8000/stream"
         },
         {
             name: "Channel 93.3",
@@ -1605,6 +1600,11 @@ var stations = {
             name: "104.3 The Fan",
             logo: "stations/images-america/denver/104.3 The Fan.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKFNFMAAC_SC"
+        },
+        {
+            name: "104.7 The Drop",
+            logo: "stations/images-america/denver/104.7 The Drop.png",
+            url: "http://kuvo-ice.streamguys.org/kuvohd2-aac-128"
         },
         {
             name: "Kool 105",
