@@ -3168,8 +3168,13 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KIKXFM"
         },
         {
-            name: "Star 107.5",
-            logo: "stations/images-america/ketchum/Star 107.5.png",
+            name: "Q106.7",
+            logo: "stations/images-america/ketchum/Q106.7.png",
+            url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KIRQFM"
+        },
+        {
+            name: "Mountain Country 107.5",
+            logo: "stations/images-america/ketchum/Mountain Country 107.5.png",
             url: "https://ice24.securenetsystems.net/KYZK"
         },
     ],
@@ -8083,7 +8088,7 @@ var stations = {
         },
         {
             name: "Q106.7",
-            logo: "stations/images-america/twin_falls/Q106.7.png",
+            logo: "stations/images-america/ketchum/Q106.7.png",
             url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KIRQFM"
         },
         {
