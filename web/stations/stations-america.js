@@ -562,16 +562,6 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KARI550"
         },
         {
-            name: "790 KGMI",
-            logo: "stations/images-america/bellingham/790 KGMI.png",
-            url: "https://live.wostreaming.net/manifest/saga-kgmiamaac-ibc1"
-        },
-        {
-            name: "1170 KPUG",
-            logo: "stations/images-america/bellingham/1170 KPUG.png",
-            url: "https://live.wostreaming.net/direct/saga-kpugammp3-ibc1"
-        },
-        {
             name: "KRPI 1550",
             logo: "stations/images-america/bellingham/KRPI 1550.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAMAAC_SC"
@@ -31455,7 +31445,7 @@ var stations_canadream = {
             url: "https://live.leanstream.co/CKNWAM-MP3"
         },
         {
-            name: "FUNNY 1040",
+            name: "Funny 1040",
             logo: "stations/images-america/canada_promods/vancouver/FUNNY 1040.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC_SC"
         },
