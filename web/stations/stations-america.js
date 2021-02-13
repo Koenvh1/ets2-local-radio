@@ -7749,8 +7749,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KACIFMAAC_SC"
         },
         {
-            name: "KCGB 96.9",
-            logo: "stations/images-america/the_dalles/KCGB 96.9.png",
+            name: "96.9 KCGB",
+            logo: "stations/images-america/the_dalles/96.9 KCGB.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KCGBFMAAC_SC"
         },
         {
