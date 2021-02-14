@@ -7342,7 +7342,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2593/hls.m3u8"
         },
         {
-            name: "Hot 96.9",
+            name: "HOT 96.9",
             logo: "stations/images-america/spokane/Hot 96.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEZEFMAAC_SC"
         },
@@ -7417,7 +7417,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
         },
         {
-            name: "105.7 Now FM",
+            name: "105.7 NOW FM",
             logo: "stations/images-america/spokane/105.7 Now FM.png",
             url: "https://ice6.securenetsystems.net/KZBD"
         },
@@ -19418,8 +19418,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-kaarfmaac-ibc4"
         },
         {
-            name: "94.1 KOPR",
-            logo: "stations/images-america/c2c/butte_mt/94.1 KOPR.png",
+            name: "KOPR 94.1",
+            logo: "stations/images-america/c2c/butte_mt/KOPR 94.1.png",
             url: "http://butte.leanstream.co/KOPRFM"
         },
         {
@@ -19446,11 +19446,6 @@ var stations_c2c = {
             name: "KBMF 102.5",
             logo: "stations/images-america/c2c/butte_mt/KBMF 102.5.png",
             url: "http://72.175.136.125:9999/stream"
-        },
-        {
-            name: "KMSM 103.9",
-            logo: "stations/images-america/c2c/butte_mt/KMSM 103.9.png",
-            url: "https://peridot.streamguys1.com:5205/stream"
         },
         {
             name: "Dave FM 107.7",
