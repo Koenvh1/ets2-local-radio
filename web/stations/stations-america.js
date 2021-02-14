@@ -13005,8 +13005,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WUSNFMAAC_SC"
         },
         {
-            name: "99.5 The Wolf-HD2",
-            logo: "stations/images-america/c2c/chicago_il/99.5 The Wolf-HD2.png",
+            name: "99.5-HD2 The Wolf",
+            logo: "stations/images-america/c2c/chicago_il/99.5-HD2 The Wolf.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WUSNHD2AAC_SC"
         },
         {
