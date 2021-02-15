@@ -3383,7 +3383,7 @@ var stations = {
             url: "http://165.227.52.31/stream"
         },
         {
-            name: "Hot 103.1",
+            name: "HOT 103.1",
             logo: "stations/images-america/las_cruces/Hot 103.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHQTFMAAC_SC"
         },
@@ -26827,7 +26827,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC_SC"
         },
         {
-            name: "93.1 Kiss FM",
+            name: "93.1 KISS FM",
             logo: "stations/images-america/c2c/elpaso_tx/93.1 Kiss FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ksiifmaac-ibc3"
         },
@@ -26867,9 +26867,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3192/hls.m3u8"
         },
         {
-            name: "iHeartCountry Classics 96.3-HD2",
-            logo: "stations/images-america/0_general_logos/iHeartCountry Classics.png",
-            url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
+            name: "Country Top 30 with Bobby Bones 96.3-HD2",
+            logo: "stations/images-america/c2c/elpaso_tx/Country Top 30 with Bobby Bones 96.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
         },
         {
             name: "KéBuena 97.5",
@@ -26905,6 +26905,16 @@ var stations_c2c = {
             name: "104.3 HITfm",
             logo: "stations/images-america/c2c/elpaso_tx/104.3 HITfm.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTO_FMAAC_SC"
+        },
+        {
+            name: "Switch 105.9",
+            logo: "stations/images-america/c2c/elpaso_tx/Switch 105.9.png",
+            url: "https://freeus4.listen2myradio.com/live.mp3?typeportmount=s1_26880_stream"
+        },
+        {
+            name: "Órbita 106.7",
+            logo: "stations/images-america/c2c/elpaso_tx/Órbita 106.7.png",
+            url: "http://s2.mexside.net:8044/;"
         },
         {
             name: "600 ESPN",
