@@ -7164,6 +7164,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNWAMAAC_SC"
         },
         {
+            name: "Radio Hankook 1230",
+            logo: "stations/images-america/seattle/Radio Hankook 1230.png",
+            url: "http://75.145.16.210:8080/stream"
+        },
+        {
             name: "1420 KITI",
             logo: "stations/images-america/seattle/1420 KITI.png",
             url: "https://live.wostreaming.net/manifest/premierbroadcasters-kitiamaac-ibc1"
@@ -27639,8 +27644,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2377/hls.m3u8"
         },
         {
-            name: "101.3 The Highway",
-            logo: "stations/images-america/c2c/waco_tx/101.3 The Highway.png",
+            name: "Hits 101.3",
+            logo: "stations/images-america/c2c/waco_tx/Hits 101.3.png",
             url: "https://ais-sa1.streamon.fm/7044_24k.aac"
         },
         {
