@@ -19417,7 +19417,7 @@ var stations_c2c = {
         },
         {
             name: "My 103.5",
-            logo: "stations/images-america/c2c/helena_mt/My 103.5.png",
+            logo: "stations/images-america/c2c/bozeman_mt/My 103.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
         {
@@ -19691,7 +19691,7 @@ var stations_c2c = {
         },
         {
             name: "My 103.5",
-            logo: "stations/images-america/c2c/helena_mt/My 103.5.png",
+            logo: "stations/images-america/c2c/bozeman_mt/My 103.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
         {
