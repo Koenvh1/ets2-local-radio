@@ -4049,6 +4049,26 @@ var stations = {
             logo: "stations/images-america/los_angeles/The Patriot 1150.png",
             url: "https://stream.revma.ihrhls.com/zc197/hls.m3u8"
         },
+        {
+            name: "GBC 1190",
+			logo: "stations/images-america/los_angeles/GBC 1190.png",
+			url: "https://streamer.radio.co/scb2948df3/listen"
+        },
+        {
+            name: "RadioK 1230",
+			logo: "stations/images-america/los_angeles/RadioK 1230.png",
+			url: "http://peridot.streamguys.com:5210/live"
+        },
+        {
+            name: "Radio Korea 1540",
+			logo: "stations/images-america/los_angeles/Radio Korea 1540.png",
+			url: "https://onairweb.radiokorea.com/live;stream/1"
+        },
+        {
+            name: "Radio Seoul 1650",
+			logo: "stations/images-america/los_angeles/Radio Seoul 1650.png",
+			url: "http://radio1.koreatimes.com:8080/radioseoul"
+        },
     ],
     "ltahoe": [
         {
