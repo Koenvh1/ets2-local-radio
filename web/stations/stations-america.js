@@ -1012,7 +1012,7 @@ var stations = {
         },
         {
             name: "K-Tahoe 590",
-            logo: "stations/images-america/ltahoe/KTHO 96.1.png",
+            logo: "stations/images-america/ltahoe/K-Tahoe 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
@@ -4093,7 +4093,7 @@ var stations = {
         },
         {
             name: "K-Tahoe 96.1",
-            logo: "stations/images-america/ltahoe/KTHO 96.1.png",
+            logo: "stations/images-america/ltahoe/K-Tahoe 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
@@ -5747,7 +5747,7 @@ var stations = {
         },
         {
             name: "K-Tahoe 590",
-            logo: "stations/images-america/ltahoe/KTHO 96.1.png",
+            logo: "stations/images-america/ltahoe/K-Tahoe 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
@@ -7854,7 +7854,7 @@ var stations = {
         },
         {
             name: "K-Tahoe 590",
-            logo: "stations/images-america/ltahoe/KTHO 96.1.png",
+            logo: "stations/images-america/ltahoe/K-Tahoe 96.1.png",
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
@@ -22971,11 +22971,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3632/hls.m3u8"
         },
         {
-            name: "Mix 107.9",
-            logo: "stations/images-america/c2c/columbus_oh/Mix 107.9.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WVMXFMAAC_SC"
-        },
-        {
             name: "610 WTVN",
             logo: "stations/images-america/c2c/columbus_oh/610 WTVN.png",
             url: "https://stream.revma.ihrhls.com/zc1765/hls.m3u8"
@@ -24862,8 +24857,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2081/hls.m3u8"
         },
         {
-            name: "Throwback 105.5",
-            logo: "stations/images-america/c2c/columbia_sc/Throwback 105.5.png",
+            name: "BIN 105.5",
+            logo: "stations/images-america/c2c/columbia_sc/BIN 105.5.png",
             url: "https://stream.revma.ihrhls.com/zc7047/hls.m3u8"
         },
         {
