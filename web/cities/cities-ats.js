@@ -153,7 +153,7 @@ var country_properties = {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
         code: "us-az",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "elko": {
         name: "Elko",
@@ -207,7 +207,7 @@ var country_properties = {
         name: "Fresno",
         name_english: "Fresno",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "gallup": {
         name: "Gallup",
@@ -261,7 +261,7 @@ var country_properties = {
         name: "Indio",
         name_english: "Indio",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "kayenta": {
         name: "Kayenta",
@@ -375,7 +375,7 @@ var country_properties = {
         name: "Modesto",
         name_english: "Modesto",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "needles": {
         name: "Needles",
@@ -489,7 +489,7 @@ var country_properties = {
         name: "Riverside",
         name_english: "Riverside",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "roswell": {
         name: "Roswell",
@@ -1110,9 +1110,9 @@ var cities = [
         "gameName": "ehrenberg",
         "realName": "Ehrenberg",
         "country": "arizona",
-        "x": "-85758.9",
-        "y": "66.1992",
-        "z": "21364.7"
+        "x": "-86563.6",
+        "y": "35.4612",
+        "z": "20968.2"
     },
     {
         "gameName": "elko",
@@ -1158,9 +1158,9 @@ var cities = [
         "gameName": "fresno",
         "realName": "Fresno",
         "country": "california",
-        "x": "-105164",
-        "y": "75.7031",
-        "z": "-144.297"
+        "x": "-103983",
+        "y": "123.581",
+        "z": "94.0789"
     },
     {
         "gameName": "g_canyon_vlg",
@@ -1182,9 +1182,9 @@ var cities = [
         "gameName": "indio",
         "realName": "Indio",
         "country": "california",
-        "x": "-93264",
-        "y": "108.332",
-        "z": "19872"
+        "x": "-93764.8",
+        "y": "92.0252",
+        "z": "19623.9"
     },
     {
         "gameName": "kayenta",
@@ -1302,9 +1302,9 @@ var cities = [
         "gameName": "sacramento",
         "realName": "Sacramento",
         "country": "california",
-        "x": "-109611",
-        "y": "108.167",
-        "z": "-14668.9"
+        "x": "-109820",
+        "y": "123.818",
+        "z": "-14095.8"
     },
     {
         "gameName": "monterey",
@@ -1774,9 +1774,9 @@ var cities = [
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "california",
-        "x": "-109383",
-        "y": "128.264",
-        "z": "-6504.07"
+        "x": "-109113",
+        "y": "135.387",
+        "z": "-5622.85"
     },
     {
         "gameName": "needles",
