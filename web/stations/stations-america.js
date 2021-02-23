@@ -18454,8 +18454,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6958"
         },
         {
-            name: "ALT 107.7",
-            logo: "stations/images-america/c2c/tupelo_ms/ALT 107.7.png",
+            name: "BIN 107.7",
+            logo: "stations/images-america/c2c/tupelo_ms/BIN 107.7.png",
             url: "https://stream.revma.ihrhls.com/zc6999"
         },
     ],
