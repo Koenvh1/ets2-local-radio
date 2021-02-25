@@ -314,6 +314,11 @@ var stations = {
     ],
     "astoria": [
         {
+            name: "K-LOVE 88.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
             name: "OPB 89.7",
             logo: "stations/images-america/0_general_logos/OPB.png",
             url: "https://stream5.opb.org/radio.mp3"
@@ -1398,14 +1403,14 @@ var stations = {
             url: "http://hestia.cdnstream.com/1571_128"
         },
         {
+            name: "KBBR 1340",
+            logo: "stations/images-america/coos_bay/KBBR 1340.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KBBRAMAAC_SC"
+        },
+        {
             name: "Pirate Radio 1420",
             logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
             url: "http://kmhsam.coos-bay.k12.or.us:8000/kmhsam"
-        },
-        {
-            name: "KBBR 1430",
-            logo: "stations/images-america/coos_bay/KBBR 1430.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KBBRAMAAC_SC"
         },
     ],
     "crescent_city": [

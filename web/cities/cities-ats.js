@@ -27,7 +27,7 @@ var country_properties = {
         name: "Astoria",
         name_english: "Astoria",
         code: "us-or",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "baker_city": {
         name: "Baker City",
@@ -129,13 +129,13 @@ var country_properties = {
         name: "Coos Bay",
         name_english: "Coos Bay",
         code: "us-or",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "crescent_city": {
         name: "Crescent City",
         name_english: "Crescent City",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "denver": {
         name: "Denver",
@@ -171,7 +171,7 @@ var country_properties = {
         name: "Eugene",
         name_english: "Eugene",
         code: "us-or",
-        relative_radius: 0.7
+        relative_radius: 0.75
     },
     "eureka": {
         name: "Eureka",
@@ -447,7 +447,7 @@ var country_properties = {
         name: "Portland",
         name_english: "Portland",
         code: "us-or",
-        relative_radius: 0.7
+        relative_radius: 0.75
     },
     "price": {
         name: "Price",
@@ -729,7 +729,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "astoria": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "baker_city": {
         relative_whitenoise: 0.85
@@ -801,7 +801,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "eugene": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "eureka": {
         relative_whitenoise: 0.85
@@ -1534,9 +1534,9 @@ var cities = [
         "gameName": "astoria",
         "realName": "Astoria",
         "country": "oregon",
-        "x": "-107774",
-        "y": "69.8196",
-        "z": "-57545.3"
+        "x": "-109480",
+        "y": "110.426",
+        "z": "-56823.9"
     },
     {
         "gameName": "baker_city",
@@ -1566,25 +1566,25 @@ var cities = [
         "gameName": "coos_bay",
         "realName": "Coos Bay",
         "country": "oregon",
-        "x": "-113632",
-        "y": "55.2227",
-        "z": "-42775.4"
+        "x": "-115694",
+        "y": "24.7122",
+        "z": "-43570.7"
     },
     {
         "gameName": "crescent_city",
         "realName": "Crescent City",
         "country": "california",
-        "x": "-116102",
-        "y": "8.85403",
-        "z": "-34981.4"
+        "x": "-117438",
+        "y": "96.2736",
+        "z": "-35254.1"
     },
     {
         "gameName": "eugene",
         "realName": "Eugene",
         "country": "oregon",
-        "x": "-107931",
-        "y": "28.8633",
-        "z": "-44733.4"
+        "x": "-108218",
+        "y": "24.3578",
+        "z": "-43727.7"
     },
     {
         "gameName": "klamath_f",
