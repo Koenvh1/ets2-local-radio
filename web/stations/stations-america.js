@@ -16103,8 +16103,8 @@ var stations_c2c = {
     ],
     "houlton": [
         {
-            name: "Radio Canada Première 91.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 91.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2EMCT0_MCT"
         },
         {
@@ -17040,8 +17040,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGCFMAAC_SC"
         },
         {
-            name: "Radio Canada Première 105.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 105.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OWDR0_WDR"
         },
         {
@@ -29546,8 +29546,8 @@ var stations_canadream = {
             url: "http://podcast.servlinks.com:8416/;"
         },
         {
-            name: "Radio Canada Première 106.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 106.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSEP0_SEP"
         },
     ],
@@ -29640,8 +29640,8 @@ var stations_canadream = {
     ],
     "caraquet": [
         {
-            name: "Radio Canada Première 95.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSEP0_SEP"
         },
         {
@@ -29662,8 +29662,8 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
         },
         {
-            name: "Radio Canada Première 91.9",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 91.9",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -29728,8 +29728,8 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
         },
         {
-            name: "Radio Canada Première 102.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 102.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -29755,8 +29755,8 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
         },
         {
-            name: "Radio Canada Première 90.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 90.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -29857,8 +29857,8 @@ var stations_canadream = {
             url: "http://cfob.streamon.fm:8000/CFOB-48k.aac"
         },
         {
-            name: "Radio Canada Première 98.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 98.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
     ],
@@ -29889,8 +29889,8 @@ var stations_canadream = {
             url: "http://chft.streamon.fm:8000/CHFT-64k.aac"
         },
         {
-            name: "Radio Canada Première 101.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 101.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -29958,8 +29958,8 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
-            name: "Radio Canada Première 89.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 89.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMAT0_MAT"
         },
         {
@@ -30024,8 +30024,8 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
         },
         {
-            name: "Radio Canada Première 92.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 92.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "https://srcprem-lh.akamaihd.net/i/SRCPREMIERE_EDM@23454/master.m3u8"
         },
         {
@@ -30071,8 +30071,8 @@ var stations_canadream = {
     ],
     "hearst": [
         {
-            name: "Radio Canada Première 90.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 90.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -30186,8 +30186,8 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8"
         },
         {
-            name: "Radio Canada Première 101.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 101.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2AEDM0_EDM"
         },
     ],
@@ -30203,8 +30203,8 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
         },
         {
-            name: "Radio Canada Première 95.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
@@ -30240,8 +30240,8 @@ var stations_canadream = {
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
-            name: "Radio Canada Première 90.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 90.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
@@ -30329,8 +30329,8 @@ var stations_canadream = {
             url: "https://ice66.securenetsystems.net/WFRY"
         },
         {
-            name: "Radio Canada Première 99.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 99.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
         },
         {
@@ -30386,8 +30386,8 @@ var stations_canadream = {
     ],
     "labradorcity": [
         {
-            name: "Radio Canada Première 97.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 97.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT"
         },
         {
@@ -30410,8 +30410,8 @@ var stations_canadream = {
     ],
     "latuque": [
         {
-            name: "Radio Canada Première 95.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMTL0_MTL"
         },
         {
@@ -30434,8 +30434,8 @@ var stations_canadream = {
     ],
     "maniwaki": [
         {
-            name: "Radio Canada Première 95.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT"
         },
         {
@@ -30468,8 +30468,8 @@ var stations_canadream = {
             url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
         },
         {
-            name: "Radio Canada Première 102.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 102.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -30480,8 +30480,8 @@ var stations_canadream = {
     ],
     "matane": [
         {
-            name: "Radio Canada Première 89.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 89.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT"
         },
         {
@@ -30502,8 +30502,8 @@ var stations_canadream = {
     ],
     "moncton": [
         {
-            name: "Radio Canada Première 88.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 88.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "https://srcprem-lh.akamaihd.net/i/SRCPREMIERE_EDM@23454/master.m3u8"
         },
         {
@@ -30584,8 +30584,8 @@ var stations_canadream = {
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
         },
         {
-            name: "Radio Canada Première 95.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMTL0_MTL"
         },
         {
@@ -30693,8 +30693,8 @@ var stations_canadream = {
             url: "http://ice7.securenetsystems.net/CJLLFM"
         },
         {
-            name: "Radio Canada Première 98.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 98.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT"
         },
         {
@@ -30792,8 +30792,8 @@ var stations_canadream = {
             url: "http://s1.hotdogradio.com/CIRX"
         },
         {
-            name: "Radio Canada Première 95.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
@@ -30896,15 +30896,15 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
         {
-            name: "Radio Canada Première 106.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 106.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QQUE0_QUE"
         },
     ],
     "rdl": [
         {
-            name: "Radio Canada Première 89.5",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 89.5",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT"
         },
         {
@@ -30960,8 +30960,8 @@ var stations_canadream = {
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8"
         },
         {
-            name: "Radio Canada Première 97.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 97.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2SREG0_REG"
         },
         {
@@ -31002,8 +31002,8 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QMTL0_MTL"
         },
         {
-            name: "Radio Canada Première 90.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 90.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMTL0_MTL"
         },
         {
@@ -31024,8 +31024,8 @@ var stations_canadream = {
             url: "http://cfgw.streamon.fm:8000/CFGW-64k.aac"
         },
         {
-            name: "Radio Canada Première 95.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 95.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
     ],
@@ -31036,8 +31036,8 @@ var stations_canadream = {
             url: "http://stream.statsradio.com:8060/stream"
         },
         {
-            name: "Radio Canada Première 93.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 93.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSAG0_SAG"
         },
         {
@@ -31123,15 +31123,15 @@ var stations_canadream = {
             url: "http://rawlco.leanstream.co/CKOMAM"
         },
         {
-            name: "Radio Canada Première 860",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 860",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2SREG0_REG"
         },
     ],
     "saultmarie": [
         {
-            name: "Radio Canada Première 88.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 88.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
         },
         {
@@ -31147,8 +31147,8 @@ var stations_canadream = {
             url: "http://173.236.19.90:8001/stream"
         },
         {
-            name: "Radio Canada Première 91.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 91.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSEP0_SEP"
         },
         {
@@ -31207,8 +31207,8 @@ var stations_canadream = {
             url: "http://ckluradio.laurentian.ca:88/broadwave.mp3"
         },
         {
-            name: "Radio Canada Première 97.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 97.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
         },
         {
@@ -31219,8 +31219,8 @@ var stations_canadream = {
     ],
     "thunderbay": [
         {
-            name: "Radio Canada Première 89.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 89.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
         },
         {
@@ -31415,11 +31415,6 @@ var stations_canadream = {
             url: "https://listenlive.vistaradio.ca/CKAY"
         },
         {
-            name: "92.9 KISM",
-            logo: "stations/images-america/canada_promods/vancouver/92.9 KISM.png",
-            url: "https://live.wostreaming.net/manifest/saga-kismfmaac-ibc1"
-        },
-        {
             name: "Red FM 93.1",
             logo: "stations/images-america/canada_promods/vancouver/Red FM 93.1.png",
             url: "https://ice24.securenetsystems.net/CKYE"
@@ -31435,8 +31430,8 @@ var stations_canadream = {
             url: "https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
         },
         {
-            name: "Radio Canada Première 97.7",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 97.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
@@ -31581,8 +31576,8 @@ var stations_canadream = {
             url: "http://ciay.streamon.fm:8000/ciay-24k.aac"
         },
         {
-            name: "Radio Canada Première 102.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 102.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
         },
         {
@@ -31610,8 +31605,8 @@ var stations_canadream = {
     ],
     "winnipeg": [
         {
-            name: "Radio Canada Première 88.1",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 88.1",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB"
         },
         {
@@ -31727,8 +31722,8 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
         },
         {
-            name: "Radio Canada Première 107.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 107.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "https://srcprem-lh.akamaihd.net/i/SRCPREMIERE_EDM@23454/master.m3u8"
         },
     ],
@@ -31739,8 +31734,8 @@ var stations_canadream = {
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8"
         },
         {
-            name: "Radio Canada Première 97.3",
-            logo: "stations/images-america/canadream/Radio Premiere Chaine.png",
+            name: "ICI Première 97.3",
+            logo: "stations/images-america/canadream/ICI Première.png",
             url: "https://srcprem-lh.akamaihd.net/i/SRCPREMIERE_EDM@23454/master.m3u8"
         },
         {
