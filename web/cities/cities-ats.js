@@ -1926,9 +1926,9 @@ var cities = [
         "gameName": "durango",
         "realName": "Durango",
         "country": "colorado",
-        "x": "-53028.9",
-        "y": "231.629",
-        "z": "5898.53"
+        "x": "-52062.4",
+        "y": "245.111",
+        "z": "5510.96"
     },
     {
         "gameName": "fort_collins",

@@ -1684,6 +1684,21 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KXRC"
         },
         {
+            name: "KPCL 95.7 @ 105.9",
+            logo: "stations/images-america/farmington/KPCL 95.7.png",
+            url: "http://69.39.14.19:8000/kpcl"
+        },
+        {
+            name: "96.9 The Dog @ 106.7",
+            logo: "stations/images-america/farmington/96.9 The Dog.png",
+            url: "https://stream.revma.ihrhls.com/zc5086"
+        },
+        {
+            name: "KLJH 107.1",
+            logo: "stations/images-america/farmington/KLJH 107.1.png",
+            url: "http://69.39.14.19:8002/kljh"
+        },
+        {
             name: "STAR 107.7",
             logo: "stations/images-america/farmington/Star 102.9.png",
             url: "https://stream.revma.ihrhls.com/zc5082"
@@ -6388,6 +6403,11 @@ var stations = {
             name: "Mix 105.1",
             logo: "stations/images-america/salt_lake/Mix 105.1.png",
             url: "https://ais-sa1.streamon.fm/7350_48k.aac"
+        },
+        {
+            name: "105.5 KOOL FM",
+            logo: "stations/images-america/salt_lake/105.5 KOOL FM.png",
+            url: "https://ais-sa1.streamon.fm/7730_48k.aac"
         },
         {
             name: "105.9 KNRS",
@@ -21000,6 +21020,11 @@ var stations_c2c = {
             name: "WCBS FM 101.1",
             logo: "stations/images-america/c2c/nyc/WCBS FM 101.1.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC_SC"
+        },
+        {
+            name: "True Oldies Channel 101.1-HD3",
+            logo: "stations/images-america/c2c/nyc/True Oldies Channel 101.1-HD3.png",
+            url: "https://ais-sa5.cdnstream1.com/b92108_64aac"
         },
         {
             name: "WFAN 101.9",
