@@ -10246,14 +10246,24 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc105"
         },
         {
-            name: "New Country 95.7-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart New Country.png",
-            url: "https://stream.revma.ihrhls.com/zc4712"
+            name: "WiLD 95.7-HD2",
+            logo: "stations/images-america/0_general_logos/WiLD.png",
+            url: "https://stream.revma.ihrhls.com/zc4722"
+        },
+        {
+            name: "Air1 96.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "96.5 The Box",
             logo: "stations/images-america/c2c/little_rock_ar/96.5 The Box.png",
             url: "http://thebox.streamguys1.com/live"
+        },
+        {
+            name: "K-LOVE 96.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
         },
         {
             name: "La Raza 97.7",
@@ -10294,6 +10304,11 @@ var stations_c2c = {
             name: "103.7 The Buzz",
             logo: "stations/images-america/c2c/little_rock_ar/103.7 The Buzz.png",
             url: "https://signalmedia.streamguys1.com/signalmedia/kabz-aac"
+        },
+        {
+            name: "Cool 104.7",
+            logo: "stations/images-america/c2c/little_rock_ar/Cool 104.7.png",
+            url: "https://crystalout.surfernetwork.com:8001/KFLI-FM_MP3"
         },
         {
             name: "105.1 The Wolf",
@@ -25358,7 +25373,7 @@ var stations_c2c = {
         {
             name: "The Eagle 95.9",
             logo: "stations/images-america/c2c/rapid_city_sd/The Eagle 95.9.png",
-            url: "http://stream.affordablestreaming.com:8000/eaglerocks.mp3"
+            url: "https://rocket.surfernetwork.com:10001/live/kzzi-fm_aac/playlist.m3u8"
         },
         {
             name: "True Country 99.5",
