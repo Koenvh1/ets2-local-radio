@@ -678,6 +678,16 @@ var stations = {
     ],
     "boise": [
         {
+            name: "Project 88.7",
+            logo: "stations/images-america/boise/Project 88.7.png",
+            url: "https://ic2.sslstream.com/koay-fm"
+        },
+        {
+            name: "Radio Boise 89.9",
+            logo: "stations/images-america/boise/Radio Boise 89.9.png",
+            url: "http://radioboise-ice.streamguys1.com/live"
+        },
+        {
             name: "BSPR Classical 90.3",
             logo: "stations/images-america/0_general_logos/BSPR.png",
             url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
@@ -701,11 +711,6 @@ var stations = {
             name: "93.1 KTIK",
             logo: "stations/images-america/boise/93.1 KTIK.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIKFMAAC_SC"
-        },
-        {
-            name: "Radio Boise 93.5",
-            logo: "stations/images-america/boise/Radio Boise 93.5.png",
-            url: "http://radioboise-ice.streamguys1.com/live"
         },
         {
             name: "94.9 The River",
