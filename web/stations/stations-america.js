@@ -3930,11 +3930,6 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
         },
         {
-            name: "Q95.9",
-            logo: "stations/images-america/los_angeles/Q95.9.png",
-            url: "https://ice9.securenetsystems.net/KCAQ"
-        },
-        {
             name: "Mega 96.3",
             logo: "stations/images-america/los_angeles/Mega 96.3.png",
             url: "https://live.wostreaming.net/manifest/sbsystems-kxolfmaac-ib-64"
@@ -4757,6 +4752,26 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBBYFMAAC_SC"
         },
         {
+            name: "Q95.9",
+            logo: "stations/images-america/oxnard/Q95.9.png",
+            url: "https://ice9.securenetsystems.net/KCAQ"
+        },
+        {
+            name: "La Voz 96.3",
+            logo: "stations/images-america/oxnard/La Voz 96.3.png",
+            url: "https://ice9.securenetsystems.net/KKZZ"
+        },
+        {
+            name: "98.3 The Word",
+            logo: "stations/images-america/oxnard/98.3 The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDARFMAAC_SC"
+        },
+        {
+            name: "99.9 KTYD",
+            logo: "stations/images-america/riverside/99.9 KTYD.png",
+            url: "https://ice9.securenetsystems.net/KTYD"
+        },
+        {
             name: "100.7 KHAY",
             logo: "stations/images-america/oxnard/100.7 KHAY.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHAYFMAAC_SC"
@@ -4765,6 +4780,16 @@ var stations = {
             name: "K-Lite 101.7",
             logo: "stations/images-america/oxnard/K-Lite 101.7.png",
             url: "http://ice64.securenetsystems.net/KSBL"
+        },
+        {
+            name: "K-Lite 101.7",
+            logo: "stations/images-america/oxnard/K-Lite 101.7.png",
+            url: "http://ice64.securenetsystems.net/KSBL"
+        },
+        {
+            name: "Radio Lazer 102.9",
+            logo: "stations/images-america/oxnard/Radio Lazer 102.9.png",
+            url: "https://audiossl.radiolazer.stream/LBC/kxlm.stream/playlist.m3u8"
         },
         {
             name: "KRUZ 103.3",
@@ -4782,9 +4807,19 @@ var stations = {
             url: "http://ice9.securenetsystems.net/KQIE"
         },
         {
+            name: "Live 105.5",
+            logo: "stations/images-america/riverside/Live 105.5.png",
+            url: "https://ice24.securenetsystems.net/KFYV"
+        },
+        {
             name: "106.3 The Vibe",
             logo: "stations/images-america/oxnard/106.3 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVYBFMAAC_SC"
+        },
+        {
+            name: "José 107.1",
+            logo: "stations/images-america/riverside/José 97.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC_SC"
         },
         {
             name: "Oasis Radio 107.9",
@@ -4795,6 +4830,16 @@ var stations = {
             name: "AM 870 The Answer",
             logo: "stations/images-america/oxnard/AM 870 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
+        },
+        {
+            name: "Sports Radio 1450",
+            logo: "stations/images-america/oxnard/Sports Radio 1450.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVENAMAAC_SC"
+        },
+        {
+            name: "1590 KVTA",
+            logo: "stations/images-america/oxnard/1590 KVTA.png",
+            url: "https://ice9.securenetsystems.net/KVTA"
         },
     ],
     "page": [
@@ -10537,6 +10582,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WROKFMAAC_SC"
         },
         {
+            name: "Party 96.3",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Party 96.3.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMBXHD2AAC_SC"
+        },
+        {
             name: "97.9 WRMF",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/97.9 WRMF.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRMFFMAAC_SC"
@@ -10582,9 +10632,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc717"
         },
         {
+            name: "Country Top 30 with Bobby Bones 105.5-HD2",
+            logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
+            url: "https://stream.revma.ihrhls.com/zc6760"
+        },
+        {
             name: "ESPN 106.3",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/ESPN 106.3.png",
             url: "https://live.wostreaming.net/direct/goodkarma-wuubfmaac-ibc2"
+        },
+        {
+            name: "YO! 107.1",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/YO! 107.1.png",
+            url: "http://64.128.251.80:8222/wllyhd3"
         },
         {
             name: "Oldies 107.9",
@@ -26928,7 +26988,7 @@ var stations_c2c = {
         },
         {
             name: "Country Top 30 with Bobby Bones 96.3-HD2",
-            logo: "stations/images-america/c2c/elpaso_tx/Country Top 30 with Bobby Bones 96.3-HD2.png",
+            logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
             url: "https://stream.revma.ihrhls.com/zc6760"
         },
         {
