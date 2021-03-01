@@ -12282,6 +12282,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8189"
         },
         {
+            name: "The Breeze 94.9-HD3",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143"
+        },
+        {
             name: "95.5 WSB",
             logo: "stations/images-america/c2c/atlanta_ga/95.5 WSB.png",
             url: "https://cmg.streamguys1.com/atl750/atl750-sgplayer-aac"
@@ -12415,6 +12420,11 @@ var stations_c2c = {
             name: "1380 WAOK",
             logo: "stations/images-america/c2c/atlanta_ga/1380 WAOK.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WAOKAMAAC_SC"
+        },
+        {
+            name: "Freedom 1690",
+            logo: "stations/images-america/c2c/atlanta_ga/Freedom 1690.png",
+            url: "https://jfradioshow.streamguys1.com/live"
         },
     ],
     "augusta_ga": [
@@ -20858,6 +20868,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKSEFMAAC_SC"
         },
         {
+            name: "98.9 The Vibe",
+            logo: "stations/images-america/c2c/buffalo_ny/98.9 The Vibe.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC_SC"
+        },
+        {
             name: "101 More FM",
             logo: "stations/images-america/c2c/buffalo_ny/101 More FM.png",
             url: "http://cflz.streamon.fm:8000/CFLZ-48k.aac"
@@ -23365,6 +23380,11 @@ var stations_c2c = {
             name: "107.7 The Wolf",
             logo: "stations/images-america/c2c/toledo_oh/107.7 The Wolf.png",
             url: "https://ice9.securenetsystems.net/WPFX"
+        },
+        {
+            name: "1230 The Gambler",
+            logo: "stations/images-america/c2c/toledo_oh/1230 The Gambler.png",
+            url: "https://stream.revma.ihrhls.com/zc3535"
         },
     ],
     "youngstown": [
