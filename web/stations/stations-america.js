@@ -4838,7 +4838,7 @@ var stations = {
         },
         {
             name: "AM 870 The Answer",
-            logo: "stations/images-america/oxnard/AM 870 The Answer.png",
+            logo: "stations/images-america/los_angeles/AM 870 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
         },
         {
@@ -26556,8 +26556,8 @@ var stations_c2c = {
         },
         {
             name: "ESPN 97.5",
-            logo: "stations/images-america/c2c/beaumont_tx/ESPN 97.5.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
+            logo: "stations/images-america/c2c/houston_tx/ESPN 97.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
         },
         {
             name: "KAYD 101.7",
