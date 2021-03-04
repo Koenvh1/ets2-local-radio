@@ -3935,6 +3935,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
         },
         {
+            name: "KLOS 2 95.5-HD2",
+            logo: "stations/images-america/los_angeles/KLOS 2 95.5-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC_SC"
+        },
+        {
             name: "Mega 96.3",
             logo: "stations/images-america/los_angeles/Mega 96.3.png",
             url: "https://live.wostreaming.net/manifest/sbsystems-kxolfmaac-ib-64"
@@ -15440,8 +15445,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFFM_SC"
         },
         {
-            name: "WRKF 89.3-HD2",
-            logo: "stations/images-america/c2c/baton_rouge_la/WRKF 89.3.png",
+            name: "Classical Louisiana 89.3-HD2",
+            logo: "stations/images-america/c2c/baton_rouge_la/Classical Louisiana 89.3-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFHD2_SC"
         },
         {
@@ -15470,6 +15475,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC"
         },
         {
+            name: "K-LOVE 92.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
             name: "Max 94.1",
             logo: "stations/images-america/c2c/mccomb_ms/Max 94.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEMXFMAAC_SC"
@@ -15480,13 +15490,28 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1001"
         },
         {
-            name: "WHYR 96.9",
-            logo: "stations/images-america/c2c/baton_rouge_la/WHYR 96.9.png",
+            name: "Hallelujah 96.1-HD2",
+            logo: "stations/images-america/0_general_logos/Hallelujah.png",
+            url: "https://stream.revma.ihrhls.com/zc7005"
+        },
+        {
+            name: "Air1 96.1-HD3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
+            name: "Baton Rouge Community Radio 96.9",
+            logo: "stations/images-america/c2c/baton_rouge_la/Baton Rouge Community Radio 96.9.png",
             url: "http://198.143.144.226:8426/;"
         },
         {
-            name: "WJBO 97.7",
-            logo: "stations/images-america/c2c/baton_rouge_la/WJBO 97.7.png",
+            name: "Downtown Radio 97.7",
+            logo: "stations/images-america/c2c/baton_rouge_la/Downtown Radio 97.7.png",
+            url: "https://stream.revma.ihrhls.com/zc5235"
+        },
+        {
+            name: "WJBO 98.7",
+            logo: "stations/images-america/c2c/baton_rouge_la/WJBO 98.7.png",
             url: "https://stream.revma.ihrhls.com/zc1009"
         },
         {
@@ -15503,11 +15528,6 @@ var stations_c2c = {
             name: "101.5 WYNK",
             logo: "stations/images-america/c2c/baton_rouge_la/101.5 WYNK.png",
             url: "https://stream.revma.ihrhls.com/zc1021"
-        },
-        {
-            name: "Downtown Radio 101.5-HD2",
-            logo: "stations/images-america/c2c/baton_rouge_la/Downtown Radio 101.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc5235"
         },
         {
             name: "102.5 WFMF",
@@ -16529,8 +16549,8 @@ var stations_c2c = {
             url: "http://whur.streamon.fm:8000/WHUR-48k.aac"
         },
         {
-            name: "WHUR World 96.3-HD2",
-            logo: "stations/images-america/c2c/washington_dc/WHUR World 96.3-HD2.png",
+            name: "The Quiet Storm Station 96.3-HD2",
+            logo: "stations/images-america/c2c/washington_dc/The Quiet Storm Station 96.3-HD2.png",
             url: "https://ais-sa1.streamon.fm/7167_48k.aac"
         },
         {
@@ -21951,17 +21971,17 @@ var stations_c2c = {
     "greensboro_nc": [
         {
             name: "88.5 WFDD News",
-            logo: "stations/images-america/c2c/greensboro_nc/WFDD.svg",
+            logo: "stations/images-america/c2c/greensboro_nc/WFDD.png",
             url: "https://wfdd.streamguys1.com/wfdd1"
         },
         {
             name: "WFDD Classical 88.5-HD2",
-            logo: "stations/images-america/c2c/greensboro_nc/WFDD.svg",
+            logo: "stations/images-america/c2c/greensboro_nc/WFDD.png",
             url: "https://wfdd.streamguys1.com/wfdd2"
         },
         {
             name: "Wake Radio 88.5-HD3",
-            logo: "stations/images-america/c2c/greensboro_nc/WFDD.svg",
+            logo: "stations/images-america/c2c/greensboro_nc/WFDD.png",
             url: "https://wfdd.streamguys1.com/wfdd3"
         },
         {
@@ -22035,8 +22055,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1625"
         },
         {
-            name: "105.7 Man Up!",
-            logo: "stations/images-america/c2c/greensboro_nc/105.7 Man Up!.png",
+            name: "Real Rock 105.7",
+            logo: "stations/images-america/c2c/greensboro_nc/Real Rock 105.7.png",
             url: "https://stream.revma.ihrhls.com/zc1633"
         },
         {
