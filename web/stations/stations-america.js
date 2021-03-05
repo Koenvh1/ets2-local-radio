@@ -28418,29 +28418,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRXLFMAAC_SC"
         },
         {
-            name: "103.7 Play",
-            logo: "stations/images-america/c2c/richmond_va/103.7 Play.png",
-            url: "https://atsradio.herokuapp.com/https://ais-sa1.streamon.fm/7713_128k.aac/playlist.m3u8"
-        },
-        {
-            name: "G104.3",
-            logo: "stations/images-america/c2c/richmond_va/G104.3.png",
-            url: "https://atsradio.herokuapp.com/https://ais-sa1.streamon.fm/7711_128k.aac/playlist.m3u8"
-        },
-        {
             name: "105.1 The Fan",
             logo: "stations/images-america/c2c/richmond_va/105.1 The Fan.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WRNLAMAAC_SC"
         },
         {
-            name: "105.7 Kiss FM",
+            name: "105.7 KISS FM",
             logo: "stations/images-america/c2c/richmond_va/105.7 Kiss FM.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKJSFM_SC"
-        },
-        {
-            name: "Sports 106.1",
-            logo: "stations/images-america/c2c/richmond_va/Sports 106.1.png",
-            url: "https://atsradio.herokuapp.com/https://ais-sa1.streamon.fm/7726_128k.aac/playlist.m3u8"
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKJSFMAAC_SC"
         },
         {
             name: "106.5 The Beat",
