@@ -9726,7 +9726,7 @@ var stations_c2c = {
         {
             name: "FM Talk 106.5",
             logo: "stations/images-america/c2c/mobile_al/FM Talk 106.5.png",
-            url: "http://199.180.75.109/stream"
+            url: "https://us9.maindigitalstream.com/ssl/wavhfm"
         },
         {
             name: "710 WNTM",
@@ -21782,13 +21782,33 @@ var stations_c2c = {
         },
         {
             name: "The Charlotte Jazz Channel 90.7-HD2",
-            logo: "stations/images-america/c2c/charlotte_nc/WFAE 90.7.png",
+            logo: "stations/images-america/c2c/charlotte_nc/The Charlotte Jazz Channel 90.7-HD2.png",
             url: "https://wfae-ice.streamguys1.com/wfae2"
         },
         {
-            name: "Public Radio Remix 90.7-HD3",
-            logo: "stations/images-america/c2c/charlotte_nc/WFAE 90.7.png",
+            name: "PRX Remix 90.7-HD3",
+            logo: "stations/images-america/0_general_logos/PRX Remix.png",
             url: "https://wfae-ice.streamguys1.com/wfae3"
+        },
+        {
+            name: "K-LOVE 91.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
+            name: "Air1 91.9-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
+            name: "K-LOVE 90s 91.9-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+        },
+        {
+            name: "92.7 The Block",
+            logo: "stations/images-america/c2c/charlotte_nc/92.7 The Block.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WQNCFMAAC_SC"
         },
         {
             name: "FOX Sports 94.7",
@@ -21796,7 +21816,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBCNAMAAC_SC"
         },
         {
-            name: "KISS 95.1",
+            name: "Kiss 95.1",
             logo: "stations/images-america/c2c/charlotte_nc/KISS 95.1.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WNKSFMAAC_SC"
         },
@@ -21809,6 +21829,11 @@ var stations_c2c = {
             name: "HITS 96.1",
             logo: "stations/images-america/c2c/charlotte_nc/HITS 96.1.png",
             url: "https://stream.revma.ihrhls.com/zc1601"
+        },
+        {
+            name: "HIS Radio 96.5",
+            logo: "stations/images-america/c2c/charlotte_nc/HIS Radio 96.5.png",
+            url: "https://rtn.cdnstream1.com/2566_96.aac"
         },
         {
             name: "96.9 The Kat",
@@ -21826,8 +21851,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6656"
         },
         {
-            name: "WBT 99.3",
-            logo: "stations/images-america/c2c/charlotte_nc/WBT 99.3.png",
+            name: "99.3 WBT",
+            logo: "stations/images-america/c2c/charlotte_nc/99.3 WBT.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBTAMAAC_SC"
         },
         {
@@ -25226,11 +25251,6 @@ var stations_c2c = {
             name: "106.3 WORD",
             logo: "stations/images-america/c2c/greenville_sc/106.3 WORD.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WYRDFMAAC_SC"
-        },
-        {
-            name: "107.3 JAMZ",
-            logo: "stations/images-america/c2c/greenville_sc/107.3 JAMZ.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WJMZFMAAC_SC"
         },
         {
             name: "BIN 1440",
