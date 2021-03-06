@@ -19950,6 +19950,11 @@ var stations_c2c = {
             url: "http://edge.mixlr.com/channel/veouw"
         },
         {
+            name: "Effect Radio 91.9",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
             name: "Griz Sports 92.7",
             logo: "stations/images-america/c2c/missoula_mt/Griz Sports 92.7.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kgrzamaac-ibc4"
@@ -19958,6 +19963,11 @@ var stations_c2c = {
             name: "93.3 Eagle Country",
             logo: "stations/images-america/c2c/missoula_mt/93.3 Eagle Country.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kgglfmaac-ibc4"
+        },
+        {
+            name: "K-LOVE 93.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
         },
         {
             name: "94.9 KYSS",
