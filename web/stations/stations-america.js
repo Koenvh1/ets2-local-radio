@@ -24639,6 +24639,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2029"
         },
         {
+            name: "94.5 3WS-HD2",
+            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6663"
+        },
+        {
             name: "96.1 KISS",
             logo: "stations/images-america/c2c/pittsburgh_pa/96.1 KISS.png",
             url: "https://stream.revma.ihrhls.com/zc2021"
@@ -24652,6 +24657,16 @@ var stations_c2c = {
             name: "96.9 BOB FM",
             logo: "stations/images-america/c2c/pittsburgh_pa/96.9 BOB FM.png",
             url: "https://ais-sa1.streamon.fm/7215_48k.aac"
+        },
+        {
+            name: "K-LOVE 98.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
+            name: "Air1 98.3-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "WISH 99.7",
@@ -24702,6 +24717,11 @@ var stations_c2c = {
             name: "ESPN 106.3",
             logo: "stations/images-america/c2c/pittsburgh_pa/ESPN 106.3.png",
             url: "https://stream.revma.ihrhls.com/zc2013"
+        },
+        {
+            name: "WAMO 107.3",
+            logo: "stations/images-america/c2c/pittsburgh_pa/WAMO 107.3.png",
+            url: "https://atsradio.herokuapp.com/https://ice66.securenetsystems.net/WAMO"
         },
         {
             name: "Y108",
@@ -28673,7 +28693,7 @@ var stations_c2c = {
         {
             name: "103 CIR",
             logo: "stations/images-america/c2c/charleston_wv/103 CIR.png",
-            url: "https://live.wostreaming.net/manifest/southerncomm-wcirfmaac-ibc1"
+            url: "https://ice24.securenetsystems.net/WCIR"
         },
         {
             name: "ROCK 105",
