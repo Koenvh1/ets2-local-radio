@@ -21938,6 +21938,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FMAAC_SC"
         },
         {
+            name: "HIS Radio 90.1",
+            logo: "stations/images-america/c2c/fayetteville_nc/HIS Radio 90.1.png",
+            url: "https://rtn.cdnstream1.com/2570_96.aac"
+        },
+        {
             name: "WUNC 91.9",
             logo: "stations/images-america/c2c/raleigh_nc/WUNC 91.5.png",
             url: "http://wunc-ice.streamguys1.com:80/wunc-128-mp3"
@@ -22184,19 +22189,29 @@ var stations_c2c = {
     ],
     "raleigh": [
         {
-            name: "88.1 WKNC",
-            logo: "stations/images-america/c2c/raleigh_nc/88.1 WKNC.png",
+            name: "WKNC 88.1",
+            logo: "stations/images-america/c2c/raleigh_nc/WKNC 88.1.png",
             url: "http://sc8.streammystation.com:7430/stream"
         },
         {
-            name: "88.1 WKNC-HD2",
-            logo: "stations/images-america/c2c/raleigh_nc/88.1 WKNC.png",
+            name: "WKNC 88.1-HD2",
+            logo: "stations/images-america/c2c/raleigh_nc/WKNC 88.1-HD2.png",
             url: "http://sc8.streammystation.com:7447/stream"
+        },
+        {
+            name: "WolfBytes Radio 88.1-HD3",
+            logo: "stations/images-america/c2c/raleigh_nc/WolfBytes Radio 88.1-HD3.png",
+            url: "https://wbserver.oit.ncsu.edu/index.html?sid=1"
         },
         {
             name: "The Classical Station 89.7",
             logo: "stations/images-america/c2c/raleigh_nc/The Classical Station 89.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FMAAC_SC"
+        },
+        {
+            name: "HIS Radio 91.1",
+            logo: "stations/images-america/c2c/raleigh_nc/HIS Radio 91.1.png",
+            url: "https://rtn.cdnstream1.com/2570_96.aac"
         },
         {
             name: "WUNC 91.5",
@@ -22279,6 +22294,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/capitolbroad-wralfmaac-ibc1"
         },
         {
+            name: "Cornerstone Radio 101.5-HD2",
+            logo: "stations/images-america/c2c/raleigh_nc/Cornerstone Radio 101.5-HD2.png",
+            url: "https://live.wostreaming.net/manifest/capitolbroad-wralhd2aac-ibc1"
+        },
+        {
             name: "Country Superstars 102.3",
             logo: "stations/images-america/c2c/raleigh_nc/Country Superstars 102.3.png",
             url: "https://ice66.securenetsystems.net/WKJO1023"
@@ -22294,9 +22314,29 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1641"
         },
         {
+            name: "The Truth 105.7",
+            logo: "stations/images-america/c2c/raleigh_nc/The Truth 105.7.png",
+            url: "https://stream.falconinternet.net:9014/;"
+        },
+        {
             name: "106.1 FM Talk",
             logo: "stations/images-america/c2c/raleigh_nc/106.1 FM Talk.png",
             url: "https://stream.revma.ihrhls.com/zc1649"
+        },
+        {
+            name: "The Standard Radio 106.1-HD2",
+            logo: "stations/images-america/c2c/raleigh_nc/The Standard Radio 106.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6784"
+        },
+        {
+            name: "620 The Ticket",
+            logo: "stations/images-america/c2c/raleigh_nc/620 The Ticket.png",
+            url: "https://live.wostreaming.net/manifest/capitolbroad-wdncamaac-ibc1"
+        },
+        {
+            name: "680 WPTF",
+            logo: "stations/images-america/c2c/raleigh_nc/680 WPTF.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTFAMAAC_SC"
         },
     ],
     "wilmington_nc": [
@@ -24604,6 +24644,16 @@ var stations_c2c = {
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
+            name: "Pittsburgh Concert Channel 89.3-HD2",
+            logo: "stations/images-america/c2c/pittsburgh_pa/Pittsburgh Concert Channel 89.3-HD2.png",
+            url: "https://ice-1.streamhoster.com/lv_wqed--concert"
+        },
+        {
+            name: "Q The Music 89.3-HD3",
+            logo: "stations/images-america/c2c/pittsburgh_pa/Q The Music 89.3-HD3.png",
+            url: "https://ice-1.streamhoster.com/lv_wqed--qthemusic"
+        },
+        {
             name: "90.5 WESA",
             logo: "stations/images-america/c2c/pittsburgh_pa/90.5 WESA.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WESAFM_SC"
@@ -24639,8 +24689,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2029"
         },
         {
-            name: "94.5 3WS-HD2",
-            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS-HD2.png",
+            name: "94.5 3WS HD2",
+            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6663"
         },
         {
@@ -24652,6 +24702,11 @@ var stations_c2c = {
             name: "Pride Radio 96.1-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc3949"
+        },
+        {
+            name: "WPIT 96.5",
+            logo: "stations/images-america/c2c/pittsburgh_pa/WPIT 96.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPITAMAAC_SC"
         },
         {
             name: "96.9 BOB FM",
@@ -24672,6 +24727,11 @@ var stations_c2c = {
             name: "WISH 99.7",
             logo: "stations/images-america/c2c/pittsburgh_pa/WISH 99.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSHHFMAAC_SC"
+        },
+        {
+            name: "100.1 KDKA",
+            logo: "stations/images-america/c2c/pittsburgh_pa/100.1 KDKA.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KDKAAMAAC_SC"
         },
         {
             name: "100.7 Star",
