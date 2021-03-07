@@ -6846,9 +6846,9 @@ var cities_c2c = [
         "gameName": "harrisonburg_va",
         "realName": "Harrisonburg",
         "country": "virginia",
-        "x": "73816.1",
-        "y": "30.0894",
-        "z": "-836.538"
+        "x": "75155.6",
+        "y": "61.5765",
+        "z": "-5940.08"
     },
     {
         "gameName": "norfolk",

@@ -23407,9 +23407,19 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WXTS"
         },
         {
+            name: "YES FM 89.3",
+            logo: "stations/images-america/c2c/toledo_oh/YES FM 89.3.png",
+            url: "https://ice24.securenetsystems.net/YESFM"
+        },
+        {
             name: "FM91",
             logo: "stations/images-america/c2c/toledo_oh/FM91.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGTEFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 90s 92.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
             name: "92.5 KISS FM",
@@ -23442,6 +23452,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/glasscity-wimxfmaac-ibc2"
         },
         {
+            name: "K-LOVE 96.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
             name: "HOT 97.3",
             logo: "stations/images-america/c2c/toledo_oh/HOT 97.3.png",
             url: "https://live.wostreaming.net/manifest/glasscity-wjzefmaac-ibc2"
@@ -23465,6 +23480,16 @@ var stations_c2c = {
             name: "101.5 The River",
             logo: "stations/images-america/c2c/toledo_oh/101.5 The River.png",
             url: "https://stream.revma.ihrhls.com/zc1853"
+        },
+        {
+            name: "Proclaim FM 102.3",
+            logo: "stations/images-america/c2c/toledo_oh/Proclaim FM 102.3.png",
+            url: "https://147.135.84.28/wpos-fm/;"
+        },
+        {
+            name: "103.7 CKY",
+            logo: "stations/images-america/c2c/toledo_oh/103.7 CKY.png",
+            url: "https://stream.revma.ihrhls.com/zc4028"
         },
         {
             name: "104.7 WIOT",
@@ -28255,7 +28280,7 @@ var stations_c2c = {
     "harrisonburg_va": [
         {
             name: "88.7 WXJM",
-            logo: "stations/images-america/c2c/winchester_va/88.7 WXJM.png",
+            logo: "stations/images-america/c2c/harrisonburg_va/88.7 WXJM.png",
             url: "http://media.wmra.org:8000/wxjm"
         },
         {
