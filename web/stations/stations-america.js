@@ -21039,7 +21039,12 @@ var stations_c2c = {
         {
             name: "88.3 WBGO",
             logo: "stations/images-america/c2c/nyc/88.3 WBGO.png",
-            url: "http://wbgo.streamguys.net/wbgo96"
+            url: "https://wbgo.streamguys1.com/wbgo128"
+        },
+        {
+            name: "The Jazz Bee 88.3-HD2",
+            logo: "stations/images-america/c2c/nyc/The Jazz Bee 88.3-HD2.png",
+            url: "https://wbgo.streamguys1.com/thejazzstream"
         },
         {
             name: "RetroRadio Oldies on WFDU 89.1",
@@ -21127,8 +21132,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKJYFMAAC_SC"
         },
         {
-            name: "ESPN 98.7",
-            logo: "stations/images-america/c2c/nyc/ESPN 98.7.png",
+            name: "98.7 ESPN",
+            logo: "stations/images-america/c2c/nyc/98.7 ESPN.png",
             url: "https://live.wostreaming.net/manifest/espn-wepnmp3-32"
         },
         {
@@ -21140,6 +21145,11 @@ var stations_c2c = {
             name: "Z100",
             logo: "stations/images-america/c2c/nyc/Z100.png",
             url: "https://stream.revma.ihrhls.com/zc1469"
+        },
+        {
+            name: "Hit Nation Junior 100.3-HD2",
+            logo: "stations/images-america/c2c/nyc/Hit Nation Junior 100.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6395"
         },
         {
             name: "WCBS FM 101.1",
@@ -21175,6 +21185,11 @@ var stations_c2c = {
             name: "Pride Radio 103.5-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc3949"
+        },
+        {
+            name: "The Breeze 103.5-HD3",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143"
         },
         {
             name: "Radio 103.9",
@@ -21235,6 +21250,11 @@ var stations_c2c = {
             name: "1010 WINS",
             logo: "stations/images-america/c2c/nyc/1010 WINS.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC_SC"
+        },
+        {
+            name: "BIN 1600",
+            logo: "stations/images-america/c2c/nyc/BIN 1600.png",
+            url: "https://stream.revma.ihrhls.com/zc8772"
         },
     ],
     "olean_ny": [
