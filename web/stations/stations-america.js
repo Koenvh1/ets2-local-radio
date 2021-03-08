@@ -1577,6 +1577,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
         },
         {
+            name: "Latter-day Saints Channel 101.1-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
+        },
+        {
             name: "Jammin' 101.5",
             logo: "stations/images-america/denver/Jammin' 101.5.png",
             url: "https://live.wostreaming.net/manifest/maxmedia-kjhmfmaac-ibc1"
@@ -3975,6 +3980,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC"
         },
         {
+            name: "K-LOVE 100.3",
+            logo: "stations/images-america/los_angeles/K-LOVE 100.3.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+        },
+        {
             name: "K-EARTH 101",
             logo: "stations/images-america/los_angeles/K-EARTH 101.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KRTHFMAAC_SC"
@@ -3998,6 +4008,11 @@ var stations = {
             name: "Evolution 102.7-HD2",
             logo: "stations/images-america/0_general_logos/Evolution.png",
             url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
+        },
+        {
+            name: "Viva 103.1",
+            logo: "stations/images-america/los_angeles/Viva 103.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC_SC"
         },
         {
             name: "KOST 103.5",
@@ -4981,6 +4996,11 @@ var stations = {
             name: "KTAR 92.3",
             logo: "stations/images-america/phoenix/KTAR 92.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTARFMAAC_SC"
+        },
+        {
+            name: "Latter-day Saints Channel 92.3-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
             name: "Oldies 92.7",
@@ -6430,6 +6450,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLAMAAC_SC"
         },
         {
+            name: "Latter-day Saints Channel 102.7-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
+        },
+        {
             name: "103.1 The Wave",
             logo: "stations/images-america/salt_lake/103.1 The Wave.png",
             url: "https://ais-sa3.cdnstream1.com/2284_96.aac"
@@ -7137,6 +7162,11 @@ var stations = {
             name: "KIRO 97.3",
             logo: "stations/images-america/seattle/KIRO 97.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
+        },
+        {
+            name: "Latter-day Saints Channel 97.3-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
             name: "KOMO News 97.7",
@@ -13178,6 +13208,11 @@ var stations_c2c = {
             name: "SHE 100.3",
             logo: "stations/images-america/c2c/chicago_il/SHE 100.3.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WSHEFMAAC_SC"
+        },
+        {
+            name: "Latter-day Saints Channel 100.3-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
             name: "101WKQX",
@@ -19275,6 +19310,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WARHFMAAC_SC"
         },
         {
+            name: "Latter-day Saints Channel 106.5-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
+        },
+        {
             name: "WGNU 106.9",
             logo: "stations/images-america/c2c/stlouis_mo/WGNU 106.9.png",
             url: "http://173.193.205.96:7248/stream"
@@ -22935,6 +22975,11 @@ var stations_c2c = {
             name: "97.3 The Wolf",
             logo: "stations/images-america/c2c/cincinnati_oh/97.3 The Wolf.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WYGYFMAAC_SC"
+        },
+        {
+            name: "Latter-day Saints Channel 97.3-HD2",
+            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
+            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
             name: "Warm 98.5",
