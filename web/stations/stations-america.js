@@ -1770,8 +1770,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
-            name: "FM 100.3",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -5511,8 +5511,8 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KSLL"
         },
         {
-            name: "FM 100.3 @ 105.5",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3 @ 105.5",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -6286,8 +6286,8 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
-            name: "FM 100.3 @ 103.1",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3 @ 103.1",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -6420,14 +6420,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2385/hls.m3u8"
         },
         {
-            name: "FM 100.3",
-            logo: "stations/images-america/salt_lake/FM 100.3.png",
+            name: "FM100.3",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
             name: "Sunday Sounds 100.3-HD2",
             logo: "stations/images-america/salt_lake/Sunday Sounds 100.3-HD2.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
+        },
+        {
+            name: "Christmas Music 24-7 100.3-HD3",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
         },
         {
             name: "100.7 BOB FM",
