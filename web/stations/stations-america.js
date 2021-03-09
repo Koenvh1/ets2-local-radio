@@ -15344,8 +15344,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WFMP"
         },
         {
-            name: "106.9 PLAY",
-            logo: "stations/images-america/c2c/louisville_ky/106.9 PLAY.png",
+            name: "Mix 106.9",
+            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WVEZFMAAC_SC"
         },
         {
