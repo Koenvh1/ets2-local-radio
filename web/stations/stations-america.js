@@ -316,7 +316,7 @@ var stations = {
         {
             name: "K-LOVE 88.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "OPB 89.7",
@@ -1102,7 +1102,7 @@ var stations = {
         {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "Kat Kountry 94.5",
@@ -3982,7 +3982,7 @@ var stations = {
         {
             name: "K-LOVE 100.3",
             logo: "stations/images-america/los_angeles/K-LOVE 100.3.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "K-EARTH 101",
@@ -7027,7 +7027,7 @@ var stations = {
         {
             name: "K-LOVE 107.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "107.7 The Bone",
@@ -10313,7 +10313,7 @@ var stations_c2c = {
         {
             name: "K-LOVE 96.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "La Raza 97.7",
@@ -15239,6 +15239,11 @@ var stations_c2c = {
             url: "http://165.138.141.21:88/broadwavehigh.mp3"
         },
         {
+            name: "Air1 88.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
             name: "89.3 WFPL",
             logo: "stations/images-america/c2c/louisville_ky/89.3 WFPL.png",
             url: "https://lpm.streamguys1.com/wfpl-web"
@@ -15274,6 +15279,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://ice66.securenetsystems.net/WULF"
         },
         {
+            name: "K-LOVE 95.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "95.7 QMF",
             logo: "stations/images-america/c2c/louisville_ky/95.7 QMF.png",
             url: "https://stream.revma.ihrhls.com/zc3383/hls.m3u8"
@@ -15299,9 +15309,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc977/hls.m3u8"
         },
         {
-            name: "iHeart New Country 97.5-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart New Country.png",
-            url: "https://stream.revma.ihrhls.com/zc4712/hls.m3u8"
+            name: "Halloween Radio 97.5-HD2",
+            logo: "stations/images-america/c2c/louisville_ky/Halloween Radio 97.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7001/hls.m3u8"
         },
         {
             name: "98.9 KISS FM",
@@ -15527,7 +15537,7 @@ var stations_c2c = {
         {
             name: "K-LOVE 92.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "Max 94.1",
@@ -20022,7 +20032,7 @@ var stations_c2c = {
         {
             name: "K-LOVE 93.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "94.9 KYSS",
@@ -21878,7 +21888,7 @@ var stations_c2c = {
         {
             name: "K-LOVE 91.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "Air1 91.9-HD2",
@@ -23514,7 +23524,7 @@ var stations_c2c = {
         {
             name: "K-LOVE 96.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "HOT 97.3",
@@ -24821,7 +24831,7 @@ var stations_c2c = {
         {
             name: "K-LOVE 98.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "Air1 98.3-HD2",
