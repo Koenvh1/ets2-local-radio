@@ -23899,14 +23899,39 @@ var stations_c2c = {
     ],
     "oklahoma_city": [
         {
+            name: "Oasis Radio 88.1",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Oasis Radio 88.1.png",
+            url: "https://oasis.streamguys1.com/live-aac"
+        },
+        {
+            name: "K-LOVE 88.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "KUCO 90.1",
             logo: "stations/images-america/c2c/oklahoma_city_ok/KUCO 90.1.png",
             url: "https://kuco.streamguys1.com/live_acc"
         },
         {
+            name: "RadioU 90.5",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/RadioU 90.5.png",
+            url: "https://s5.reliastream.com/proxy/live?mp=/stream"
+        },
+        {
+            name: "Air1 90.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
             name: "KOSU 91.7",
             logo: "stations/images-america/c2c/oklahoma_city_ok/KOSU 91.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSUFM_NEWS_SC"
+        },
+        {
+            name: "The Spy 91.7-HD2",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/The Spy 91.7-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSUHD2AAC_SC"
         },
         {
             name: "Heart & Soul 92.1",
@@ -23964,6 +23989,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC_SC"
         },
         {
+            name: "98.5 El Patrón",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/98.5 El Patrón.png",
+            url: "https://stream.revma.ihrhls.com/zc6969/hls.m3u8"
+        },
+        {
             name: "98.9 KISS FM",
             logo: "stations/images-america/c2c/oklahoma_city_ok/98.9 KISS FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYISFMAAC_SC"
@@ -23982,6 +24012,11 @@ var stations_c2c = {
             name: "101.9 The Twister",
             logo: "stations/images-america/c2c/oklahoma_city_ok/101.9 The Twister.png",
             url: "https://stream.revma.ihrhls.com/zc1913/hls.m3u8"
+        },
+        {
+            name: "The Crook and Chase Countdown 101.9-HD2",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/The Crook and Chase Countdown 101.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6921/hls.m3u8"
         },
         {
             name: "KJ103",
@@ -24042,6 +24077,21 @@ var stations_c2c = {
             name: "1000 KTOK",
             logo: "stations/images-america/c2c/oklahoma_city_ok/1000 KTOK.png",
             url: "https://stream.revma.ihrhls.com/zc1909/hls.m3u8"
+        },
+        {
+            name: "1340 The Game",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/1340 The Game.png",
+            url: "https://stream.revma.ihrhls.com/zc3066/hls.m3u8"
+        },
+        {
+            name: "Sports Talk 1400",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Sports Talk 1400.png",
+            url: "https://ice9.securenetsystems.net/KREF"
+        },
+        {
+            name: "1560 The Franchise 2",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/1560 The Franchise 2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC_SC"
         },
         {
             name: "1640 The Eagle",
