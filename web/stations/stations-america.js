@@ -16077,6 +16077,11 @@ var stations_c2c = {
     ],
     "shreveport": [
         {
+            name: "K-LOVE 88.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "Red River Radio 89.9",
             logo: "stations/images-america/0_general_logos/Red River Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
@@ -26103,6 +26108,16 @@ var stations_c2c = {
     ],
     "knoxville_tn": [
         {
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
+            name: "Air1 89.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
             name: "90.3 The Rock",
             logo: "stations/images-america/c2c/knoxville_tn/90.3 The Rock.png",
             url: "http://streamer.cci.utk.edu:8000/wutk-vorbis"
@@ -26121,11 +26136,6 @@ var stations_c2c = {
             name: "WUOT 91.9-HD2",
             logo: "stations/images-america/c2c/knoxville_tn/WUOT 91.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOTHD2_SC"
-        },
-        {
-            name: "93.1 WNOX",
-            logo: "stations/images-america/c2c/knoxville_tn/93.1 WNOX.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNOXFMAAC_SC"
         },
         {
             name: "94.3 Jack FM",
@@ -26163,16 +26173,6 @@ var stations_c2c = {
             url: "https://ice8.securenetsystems.net/WJBE"
         },
         {
-            name: "100.3 The Wolf",
-            logo: "stations/images-america/c2c/knoxville_tn/100.3 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCYQFMAAC_SC"
-        },
-        {
-            name: "Star 102.1",
-            logo: "stations/images-america/c2c/knoxville_tn/Star 102.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWSTFMAAC_SC"
-        },
-        {
             name: "103.5 WIMZ",
             logo: "stations/images-america/c2c/knoxville_tn/103.5 WIMZ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIMZFMAAC_SC"
@@ -26181,11 +26181,6 @@ var stations_c2c = {
             name: "WOZO-LP 103.9",
             logo: "stations/images-america/c2c/knoxville_tn/WOZO-LP 103.9.png",
             url: "http://188.165.240.90:8802/stream"
-        },
-        {
-            name: "Hot 104.5",
-            logo: "stations/images-america/c2c/knoxville_tn/Hot 104.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKHTFMAAC_SC"
         },
         {
             name: "104.9 Lake FM",
