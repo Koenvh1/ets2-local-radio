@@ -8751,6 +8751,11 @@ var stations_mexico = {
             name: "Switch 88.9FM",
             logo: "stations/images-america/mexico/sinaloa/switch.png",
             url: "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_5539_stream_603657811"
+        },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/shared/sinrad.png",
+            url: "http://192.99.16.17:8170/;"
         },         
     ],
     "culiacan": [
@@ -8794,6 +8799,11 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/shared/exa.png",
             url: "http://167.114.116.223:1082/;"
         },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/shared/sinrad94.png",
+            url: "http://192.99.16.17:8170/;"
+        },
              
     ],
     "los_mochis": [
@@ -8816,6 +8826,11 @@ var stations_mexico = {
             name: "Vox 94.1",
             logo: "stations/images-america/mexico/sinaloa/vox.png",
             url: "https://icy.gvstream.live/gpm-pop.aac"
+        },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/shared/sinrad.png",
+            url: "http://192.99.16.17:8170/;"
         },          
     ],
     "guasave": [
