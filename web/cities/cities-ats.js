@@ -2512,6 +2512,12 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 1.0
     },
+    "el_dorado_ar": {
+        name: "El Dorado",
+        name_english: "El Dorado",
+        code: "us-ar",
+        relative_radius: 0.8
+    },
     "hot_springs_ar": {
         name: "Hot Springs",
         name_english: "Hot Springs",
@@ -4207,6 +4213,9 @@ var city_properties_c2c = {
     "arkansas": {
         relative_whitenoise: 0.95
     },
+    "el_dorado_ar": {
+        relative_whitenoise: 0.95
+    },
     "fayetteville_ar": {
         relative_whitenoise: 0.95
     },
@@ -5097,6 +5106,14 @@ var cities_c2c = [
         "x": "40725.8",
         "y": "91.6523",
         "z": "30224.4"
+    },
+    {
+        "gameName": "el_dorado_ar",
+        "realName": "El Dorado",
+        "country": "arkansas",
+        "x": "15735.6",
+        "y": "112.68",
+        "z": "31890.9"
     },
     {
         "gameName": "fayetteville_ar",

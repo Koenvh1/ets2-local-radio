@@ -3042,8 +3042,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KPLM"
         },
         {
-            name: "106.5 KGAY",
-            logo: "stations/images-america/indio/106.5 KGAY.png",
+            name: "KGAY 106.5",
+            logo: "stations/images-america/indio/KGAY 106.5.png",
             url: "https://ice9.securenetsystems.net/KGAY"
         },
     ],
@@ -10036,6 +10036,48 @@ var stations_c2c = {
             name: "Rock 106.3",
             logo: "stations/images-america/c2c/tuscaloosa_al/Rock 106.3.png",
             url: "http://173.193.205.96:7202/stream"
+        },
+    ],
+    "el_dorado_ar": [
+        {
+            name: "K-LOVE 88.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
+            name: "Red River Radio 90.9",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
+        },
+        {
+            name: "Y95",
+            logo: "stations/images-america/c2c/el_dorado_ar/Y95.png",
+            url: "https://ice6.securenetsystems.net/KCXY"
+        },
+        {
+            name: "BIG 96.1",
+            logo: "stations/images-america/c2c/el_dorado_ar/BIG 96.1.png",
+            url: "http://ais-sa2.cdnstream1.com/2334_128.mp3"
+        },
+        {
+            name: "KMLK 98.7",
+            logo: "stations/images-america/c2c/el_dorado_ar/KMLK 98.7.png",
+            url: "https://ais-sa2.cdnstream1.com/2456_128.mp3"
+        },
+        {
+            name: "K-104",
+            logo: "stations/images-america/c2c/monroe_la/K-104.png",
+            url: "https://ice66.securenetsystems.net/KJLO"
+        },
+        {
+            name: "Magic 104.5",
+            logo: "stations/images-america/c2c/el_dorado_ar/Magic 104.5.png",
+            url: "https://ice6.securenetsystems.net/KMGC"
+        },
+        {
+            name: "Rock 106",
+            logo: "stations/images-america/c2c/monroe_la/Rock 106.png",
+            url: "https://ice5.securenetsystems.net/KXRR"
         },
     ],
     "fayetteville_ar": [
