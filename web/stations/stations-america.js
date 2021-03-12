@@ -5741,14 +5741,19 @@ var stations = {
     ],
     "reno": [
         {
-            name: "Air1 88.3",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "KUNR 88.7",
             logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
+        },
+        {
+            name: "89.5 KNCJ",
+            logo: "stations/images-america/reno/89.5 KNCJ.png",
+            url: "https://kncjstream.com:8443/live"
         },
         {
             name: "CapRadio News 90.5",
@@ -5764,6 +5769,16 @@ var stations = {
             name: "Reno's Crazy 80's 93.7",
             logo: "stations/images-america/reno/Reno's Crazy 80's 93.7.png",
             url: "https://ice6.securenetsystems.net/KPGF"
+        },
+        {
+            name: "CBS Sports Radio 94.1",
+            logo: "stations/images-america/reno/CBS Sports Radio 94.1.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KHITAMAAC_SC"
+        },
+        {
+            name: "ESPN Radio 94.5",
+            logo: "stations/images-america/reno/ESPN Radio 94.5.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KUUBFMAAC_SC"
         },
         {
             name: "95.1 The Wolf",
@@ -5846,9 +5861,19 @@ var stations = {
             url: "http://s7.viastreaming.net:7540/;"
         },
         {
+            name: "FOX Sports 630",
+            logo: "stations/images-america/reno/FOX Sports 630.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KPLYAMAAC_SC"
+        },
+        {
             name: "780 KOH",
             logo: "stations/images-america/reno/780 KOH.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
+        },
+        {
+            name: "Wolf Pack Radio 1700",
+            logo: "stations/images-america/reno/Wolf Pack Radio 1700.png",
+            url: "http://streamer.radio.co/s01995b9a1/listen"
         },
     ],
     "riverside": [
@@ -15552,6 +15577,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFHD2_SC"
         },
         {
+            name: "Lifesongs 90.7",
+            logo: "stations/images-america/0_general_logos/Lifesongs.png",
+            url: "https://lifesongs.streamguys1.com/lifesongs-aac"
+        },
+        {
             name: "KSLU 90.9",
             logo: "stations/images-america/c2c/baton_rouge_la/KSLU 90.9.png",
             url: "http://147.174.55.27:8000/;"
@@ -15952,18 +15982,23 @@ var stations_c2c = {
             url: "http://184.188.96.244:8080/wrbh.mp3"
         },
         {
+            name: "Lifesongs 89.1",
+            logo: "stations/images-america/0_general_logos/Lifesongs.png",
+            url: "https://lifesongs.streamguys1.com/lifesongs-aac"
+        },
+        {
             name: "89.9 WWNO",
             logo: "stations/images-america/c2c/new_orleans_la/89.9 WWNO.png",
             url: "https://tektite.streamguys1.com:5145/wwnolive"
         },
         {
-            name: "Classical WWNO 89.9-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/89.9 WWNO.png",
+            name: "Classical 89.9-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/Classical 89.9-HD2.png",
             url: "https://tektite.streamguys1.com:5145/wwnoclassical"
         },
         {
-            name: "Jazz WWNO 89.9-HD3",
-            logo: "stations/images-america/c2c/new_orleans_la/89.9 WWNO.png",
+            name: "Jazz 89.9-HD3",
+            logo: "stations/images-america/c2c/new_orleans_la/Jazz 89.9-HD3.png",
             url: "https://tektite.streamguys1.com:5145/wwnojazz"
         },
         {
@@ -15975,6 +16010,16 @@ var stations_c2c = {
             name: "WWOZ 90.7",
             logo: "stations/images-america/c2c/new_orleans_la/WWOZ 90.7.png",
             url: "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3"
+        },
+        {
+            name: "WWOZ-2 90.7-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/WWOZ 90.7.png",
+            url: "https://wwoz-sc.streamguys1.com/wwozhd2-hi"
+        },
+        {
+            name: "K-LOVE 91.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "WTUL 91.5",
@@ -15997,6 +16042,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1037/hls.m3u8"
         },
         {
+            name: "All my Jams Top 20 93.3-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/All my Jams Top 20 93.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4940/hls.m3u8"
+        },
+        {
             name: "WTIX 94.3",
             logo: "stations/images-america/c2c/new_orleans_la/WTIX 94.3.png",
             url: "http://hemnos.cdnstream.com/1427_64"
@@ -16010,6 +16060,11 @@ var stations_c2c = {
             name: "Bayou 95.7",
             logo: "stations/images-america/c2c/new_orleans_la/Bayou 95.7.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WKBUFMAAC_SC"
+        },
+        {
+            name: "Metal Militia 95.7-HD2",
+            logo: "stations/images-america/seattle/Metal Militia 99.9-HD2.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KISWHD2AAC_SC"
         },
         {
             name: "Throwback 96.3",
@@ -16027,13 +16082,18 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "La Calle 97.9",
+            logo: "stations/images-america/c2c/new_orleans_la/La Calle 97.9.png",
+            url: "https://sonic01.instainternet.com/8276/stream"
+        },
+        {
             name: "98.5 WYLD",
             logo: "stations/images-america/c2c/new_orleans_la/98.5 WYLD.png",
             url: "https://stream.revma.ihrhls.com/zc1053/hls.m3u8"
         },
         {
-            name: "Sweat Hotel with Keith Sweat 98.5-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/Sweat Hotel with Keith Sweat 98.5-HD2.png",
+            name: "The Sweat Hotel with Keith Sweat 98.5-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/The Sweat Hotel with Keith Sweat 98.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6529/hls.m3u8"
         },
         {
@@ -16095,6 +16155,11 @@ var stations_c2c = {
             name: "Tropical 105.7",
             logo: "stations/images-america/c2c/new_orleans_la/Tropical 105.7.png",
             url: "https://sonicpanel.hostradios.com:7123/;"
+        },
+        {
+            name: "Nash Icon 106.1",
+            logo: "stations/images-america/c2c/new_orleans_la/Nash Icon 106.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
         },
         {
             name: "106.7 The Krewe",
