@@ -1542,14 +1542,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2804/hls.m3u8"
         },
         {
-            name: "The Studio C Channel 97.3-HD2",
-            logo: "stations/images-america/denver/The Studio C Channel 97.3-HD2.png",
+            name: "The KBCO Studio C Channel 97.3-HD2",
+            logo: "stations/images-america/denver/The KBCO Studio C Channel 97.3-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc4866/hls.m3u8"
         },
         {
             name: "Pride Radio 97.3-HD3",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
+            name: "Mile High Sports 98.1",
+            logo: "stations/images-america/denver/Mile High Sports 98.1.png",
+            url: "https://www.streamcontrol.net:8444/s/12230"
         },
         {
             name: "98.5 KYGO",
