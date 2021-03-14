@@ -1209,8 +1209,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc353/hls.m3u8"
         },
         {
-            name: "J. Anthony Brown Radio Show 96.1-HD2",
-            logo: "stations/images-america/colorado_springs_pueblo/J. Anthony Brown Radio Show 96.1-HD2.png",
+            name: "The J. Anthony Brown Radio Show 96.1-HD2",
+            logo: "stations/images-america/colorado_springs_pueblo/The J. Anthony Brown Radio Show 96.1-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc7751/hls.m3u8"
         },
         {
@@ -1612,8 +1612,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKFNFMAAC_SC"
         },
         {
-            name: "104.7 The Drop",
-            logo: "stations/images-america/denver/104.7 The Drop.png",
+            name: "The DROP 104.7",
+            logo: "stations/images-america/denver/The DROP 104.7.png",
             url: "http://kuvo-ice.streamguys.org/kuvohd2-aac-128"
         },
         {
