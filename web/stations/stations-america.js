@@ -6708,9 +6708,24 @@ var stations = {
             url: "https://ksds-ice.streamguys1.com/ksds.mp3"
         },
         {
+            name: "SDS Radio 88.3-HD2",
+            logo: "stations/images-america/san_diego/SDS Radio 88.3-HD2.png",
+            url: "http://ksds-ice.streamguys.com/sds.mp3"
+        },
+        {
             name: "KPBS 89.5",
             logo: "stations/images-america/san_diego/KPBS.png",
             url: "https://kpbs.streamguys1.com/kpbs-mp3"
+        },
+        {
+            name: "Classical San Diego 89.5-HD2",
+            logo: "stations/images-america/san_diego/Classical San Diego 89.5-HD2.png",
+            url: "https://kpbs-classical.streamguys1.com/kpbs-classical"
+        },
+        {
+            name: "Groove Salad 89.5-HD3",
+            logo: "stations/images-america/san_diego/Groove Salad 89.5-HD3.png",
+            url: "https://ice1.somafm.com/groovesalad-128-mp3"
         },
         {
             name: "Z90.3",
