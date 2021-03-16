@@ -18839,7 +18839,7 @@ var stations_c2c = {
         },
         {
             name: "SuperTalk Hattiesburg 97.3",
-            logo: "stations/images-america/c2c/vicksburg_ms/SuperTalk Hattiesburg 97.3.png",
+            logo: "stations/images-america/c2c/hattiesburg_ms/SuperTalk Hattiesburg 97.3.png",
             url: "https://live.wostreaming.net/manifest/telesouth-wfmmfmaac-hlsc1.m3u8"
         },
         {
