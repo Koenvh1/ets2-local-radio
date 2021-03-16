@@ -18833,13 +18833,18 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/newsouth-whjtfmaac-ibc4"
         },
         {
+            name: "K-LOVE 94.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "US 96",
             logo: "stations/images-america/c2c/vicksburg_ms/US 96.png",
             url: "https://live.wostreaming.net/manifest/newsouth-wusjfmaac-ibc3"
         },
         {
-            name: "SuperTalk Hattiesburg 97.3",
-            logo: "stations/images-america/c2c/hattiesburg_ms/SuperTalk Hattiesburg 97.3.png",
+            name: "SuperTalk Jackson 97.3",
+            logo: "stations/images-america/c2c/vicksburg_ms/SuperTalk Jackson 97.3.png",
             url: "https://live.wostreaming.net/manifest/telesouth-wfmmfmaac-hlsc1.m3u8"
         },
         {
@@ -18856,6 +18861,11 @@ var stations_c2c = {
             name: "Mix 98.7",
             logo: "stations/images-america/c2c/vicksburg_ms/Mix 98.7.png",
             url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
+        },
+        {
+            name: "BDAY 99.1",
+            logo: "stations/images-america/c2c/vicksburg_ms/BDAY 99.1.png",
+            url: "http://wfqy.streamguys1.com/live"
         },
         {
             name: "Smooth Soul 100.5",

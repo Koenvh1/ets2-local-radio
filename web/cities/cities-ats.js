@@ -4544,7 +4544,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "vicksburg_ms": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "missouri": {
         relative_whitenoise: 0.95
@@ -5861,11 +5861,11 @@ var cities_c2c = [
     },
     {
         "gameName": "vicksburg_ms",
-        "realName": "Vicksburg",
+        "realName": "Jackson/Vicksburg",
         "country": "mississippi",
-        "x": "24555.4",
-        "y": "44.3242",
-        "z": "35441.9"
+        "x": "26945.4",
+        "y": "86.5699",
+        "z": "36484.4"
     },
     {
         "gameName": "cape_girardeau",
