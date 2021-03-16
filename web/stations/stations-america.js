@@ -26196,6 +26196,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/forevercomm-wlyefmaac-ibc4"
         },
         {
+            name: "94.7 WOJG",
+            logo: "stations/images-america/c2c/jackson_tn/94.7 WOJG.png",
+            url: "https://crystalout.surfernetwork.com:8001/WOJG-FM_MP3"
+        },
+        {
             name: "96 KIX",
             logo: "stations/images-america/c2c/jackson_tn/96 KIX.png",
             url: "http://ice23.securenetsystems.net/WFKX"
@@ -26204,6 +26209,11 @@ var stations_c2c = {
             name: "HOT 96.1",
             logo: "stations/images-america/c2c/jackson_tn/Hot 96.1.png",
             url: "https://ice10.securenetsystems.net/WJAK"
+        },
+        {
+            name: "96.5 ESPN",
+            logo: "stations/images-america/c2c/jackson_tn/96.5 ESPN.png",
+            url: "https://ice7.securenetsystems.net/WBFG"
         },
         {
             name: "JJ 97.7",
@@ -26216,9 +26226,19 @@ var stations_c2c = {
             url: "http://64.78.234.165:8000/WLCD"
         },
         {
+            name: "FM 100",
+            logo: "stations/images-america/c2c/memphis_tn/FM 100.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMCFMAAC_SC"
+        },
+        {
             name: "100 Jack FM",
             logo: "stations/images-america/c2c/jackson_tn/100 Jack FM.png",
             url: "https://ice10.securenetsystems.net/WASL"
+        },
+        {
+            name: "100.9 The Farm",
+            logo: "stations/images-america/c2c/jackson_tn/100.9 The Farm.png",
+            url: "https://ice9.securenetsystems.net/WEIO"
         },
         {
             name: "NewsTalk 101.5",
@@ -26236,8 +26256,8 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WDXI"
         },
         {
-            name: "Froggy 104.1",
-            logo: "stations/images-america/c2c/jackson_tn/Froggy 104.1.png",
+            name: "FROGGY 104",
+            logo: "stations/images-america/c2c/jackson_tn/FROGGY 104.png",
             url: "https://live.wostreaming.net/direct/forevercomm-wogyfmaac-ibc4"
         },
         {
@@ -26249,6 +26269,16 @@ var stations_c2c = {
             name: "Star 107.7",
             logo: "stations/images-america/c2c/jackson_tn/Star 107.7.png",
             url: "https://ice23.securenetsystems.net/WHHM"
+        },
+        {
+            name: "Sports 56",
+            logo: "stations/images-america/c2c/memphis_tn/Sports 56.png",
+            url: "https://stream1.flinn.com:8443/560AM.mp3"
+        },
+        {
+            name: "680 ESPN",
+            logo: "stations/images-america/c2c/memphis_tn/92.9 ESPN.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMFSFMAAC_SC"
         },
     ],
     "kingsport_tn": [
