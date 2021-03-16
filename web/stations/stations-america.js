@@ -3326,7 +3326,7 @@ var stations = {
         {
             name: "Kat Country 100.7",
             logo: "stations/images-america/kramer_junction/Kat Country 100.7.png",
-            url: "https://live.wostreaming.net/manifest/eldorado-katjfmaac-hlsc2.m3u8"
+            url: "https://live.wostreaming.net/manifest/eldorado-katjfmaac-ibc2?source=v7player"
         },
         {
             name: "100.9 The Heat",
@@ -3341,7 +3341,7 @@ var stations = {
         {
             name: "La X 103.1",
             logo: "stations/images-america/kramer_junction/La X 103.1.png",
-            url: "https://live.wostreaming.net/manifest/eldorado-kxvvfmaac-hlsc1.m3u8"
+            url: "https://live.wostreaming.net/manifest/eldorado-kxvvfmaac-ibc1?source=v7player"
         },
         {
             name: "BOB FM 103.9",
@@ -3384,9 +3384,9 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/espn-kspnmp3-48"
         },
         {
-            name: "Talk 960.png",
+            name: "Talk 960",
             logo: "stations/images-america/kramer_junction/Talk 960.png",
-            url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-hlsc2.m3u8"
+            url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-hlsc2.m3u8source=v7player"
         },
     ],
     "lakeview": [
