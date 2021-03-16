@@ -3386,7 +3386,7 @@ var stations = {
         {
             name: "Talk 960",
             logo: "stations/images-america/kramer_junction/Talk 960.png",
-            url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-hlsc2.m3u8source=v7player"
+            url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-ibc2?source=v7player"
         },
     ],
     "lakeview": [
