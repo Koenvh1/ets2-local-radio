@@ -413,6 +413,21 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KMYX"
         },
         {
+            name: "Hits 93.1",
+            logo: "stations/images-america/bakersfield/Hits 93.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/agmedia28-kkxxfmaac-ibc3"
+        },
+        {
+            name: "Hot 94.1",
+            logo: "stations/images-america/bakersfield/Hot 94.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/agmedia28-kisvfmaac-ibc3"
+        },
+        {
+            name: "Energy 95.3",
+            logo: "stations/images-america/bakersfield/Energy 95.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kllyfmaac-ibc4"
+        },
+        {
             name: "The Bull 97.3",
             logo: "stations/images-america/bakersfield/The Bull 97.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRJKAAC_SC"
@@ -421,6 +436,21 @@ var stations = {
             name: "98.5 The Fox",
             logo: "stations/images-america/bakersfield/98.5 The Fox.png",
             url: "https://stream.revma.ihrhls.com/zc3240/hls.m3u8"
+        },
+        {
+            name: "Groove 99.3",
+            logo: "stations/images-america/bakersfield/Groove 99.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kkbbfmaac-ibc4"
+        },
+        {
+            name: "ESPN Bakersfield 101.1",
+            logo: "stations/images-america/bakersfield/ESPN Bakersfield 101.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/agmedia28-kgeoamaac-ibc3"
+        },
+        {
+            name: "101.5 KGFM",
+            logo: "stations/images-america/bakersfield/101.5 KGFM.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/agmedia28-kgfmfmaac-ibc3"
         },
         {
             name: "KRUZ 103.3",
@@ -1694,6 +1724,21 @@ var stations = {
             url: "http://kdurradio.fortlewis.edu/stream"
         },
         {
+            name: "92.9 The Point",
+            logo: "stations/images-america/durango/92.9 The Point.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kptefmaac-ibc3"
+        },
+        {
+            name: "KDGO 98.3",
+            logo: "stations/images-america/durango/KDGO 98.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kdgoamaac-ibc3"
+        },
+        {
+            name: "99X",
+            logo: "stations/images-america/durango/99X.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kkdgfmaac-ibc3"
+        },
+        {
             name: "XRock 105.3",
             logo: "stations/images-america/durango/XRock 105.3.png",
             url: "https://ice6.securenetsystems.net/KXRC"
@@ -2071,6 +2116,11 @@ var stations = {
             name: "96.9 The Dog",
             logo: "stations/images-america/farmington/96.9 The Dog.png",
             url: "https://stream.revma.ihrhls.com/zc5086/hls.m3u8"
+        },
+        {
+            name: "97.9 KISS Country",
+            logo: "stations/images-america/farmington/97.9 KISS Country.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kiszfmaac-ibc3"
         },
         {
             name: "102 KTRA",
@@ -2992,6 +3042,21 @@ var stations = {
             url: "http://ice5.securenetsystems.net/KXCM"
         },
         {
+            name: "U-92.7",
+            logo: "stations/images-america/indio/U-92.7.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kkuufmaac-imc4"
+        },
+        {
+            name: "93.7 KCLB",
+            logo: "stations/images-america/indio/93.7 KCLB.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kclbfmaac-imc4"
+        },
+        {
+            name: "K-NEWS 94.3",
+            logo: "stations/images-america/indio/K-NEWS 94.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-knwzamaac-imc4"
+        },
+        {
             name: "La Suavecita 94.7",
             logo: "stations/images-america/indio/La Suavecita 94.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOBFMAAC_SC"
@@ -3002,9 +3067,19 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KJJZ"
         },
         {
+            name: "98.5 The Bull",
+            logo: "stations/images-america/indio/98.5 The Bull.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kdesfmaac-ibc4"
+        },
+        {
             name: "Jammin' 99.5",
             logo: "stations/images-america/indio/Jammin' 99.5.png",
             url: "https://ice10.securenetsystems.net/KMRJ"
+        },
+        {
+            name: "MIX 100.5",
+            logo: "stations/images-america/indio/MIX 100.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kpsifmaac-ibc4"
         },
         {
             name: "101.3 The Mix",
@@ -3032,12 +3107,17 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC_SC"
         },
         {
+            name: "ESPN 103.9",
+            logo: "stations/images-america/indio/ESPN 103.9.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kkuuhd2aac-imc4"
+        },
+        {
             name: "CV104.3",
             logo: "stations/images-america/indio/CV104.3.png",
             url: "https://ice9.securenetsystems.net/KHCV"
         },
         {
-            name: "Big 106",
+            name: "BIG 106",
             logo: "stations/images-america/indio/Big 106.png",
             url: "https://ice9.securenetsystems.net/KPLM"
         },
@@ -3045,6 +3125,16 @@ var stations = {
             name: "KGAY 106.5",
             logo: "stations/images-america/indio/KGAY 106.5.png",
             url: "https://ice9.securenetsystems.net/KGAY"
+        },
+        {
+            name: "106.9 The Eagle",
+            logo: "stations/images-america/indio/106.9 The Eagle.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kdglfmaac-imc4"
+        },
+        {
+            name: "107.3 Mod FM",
+            logo: "stations/images-america/indio/107.3 Mod FM.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kdeshd2mp3-ibc4"
         },
     ],
     "kayenta": [
@@ -4436,7 +4526,7 @@ var stations = {
         },
         {
             name: "92.3 The Moose @ 102.1",
-            logo: "stations/images-america/grand_juncti/92.3 The Moose.png",
+            logo: "stations/images-america/grand_junction_montrose/92.3 The Moose.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMOZFMAAC_SC"
         },
         {
@@ -5436,6 +5526,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KNRKHD2AAC_SC"
         },
         {
+            name: "Live 95.5",
+            logo: "stations/images-america/portland/Live 95.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kbfffmaac-ibc4"
+        },
+        {
             name: "96.3 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "http://wayfm.streamguys1.com/wayw.aac"
@@ -5456,6 +5551,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6755/hls.m3u8"
         },
         {
+            name: "98.7 The Bull",
+            logo: "stations/images-america/portland/98.7 The Bull.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kuplfmaac-ibc4"
+        },
+        {
             name: "PRP 99.1",
             logo: "stations/images-america/portland/PRP 99.1.png",
             url: "http://ais-sa1.streamon.fm/7335_64k.aac"
@@ -5471,9 +5571,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
         },
         {
+            name: "101.9 KINK",
+            logo: "stations/images-america/portland/101.9 KINK.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kinkfmaac-ibc4"
+        },
+        {
             name: "ALT 102.3",
             logo: "stations/images-america/portland/ALT 102.3.png",
             url: "https://stream.revma.ihrhls.com/zc6384/hls.m3u8"
+        },
+        {
+            name: "WE 102.9",
+            logo: "stations/images-america/portland/WE 102.9.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kinkhd2aac-ibc4"
         },
         {
             name: "K103",
@@ -5621,22 +5731,22 @@ var stations = {
         },
         {
             name: "Magic 93.1",
-            logo: "stations/images-america/grand_juncti/Magic 93.1.png",
+            logo: "stations/images-america/grand_junction_montrose/Magic 93.1.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KMGJFMAAC_SC"
         },
         {
             name: "99.9 KEKB",
-            logo: "stations/images-america/grand_juncti/99.9 KEKB.png",
+            logo: "stations/images-america/grand_junction_montrose/99.9 KEKB.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kekbfmaac-ibc3"
         },
         {
             name: "Mix 104.3",
-            logo: "stations/images-america/grand_juncti/Mix 104.3.png",
+            logo: "stations/images-america/grand_junction_montrose/Mix 104.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmxyfmaac-ibc3"
         },
         {
             name: "X106.9",
-            logo: "stations/images-america/grand_juncti/X106.9.png",
+            logo: "stations/images-america/grand_junction_montrose/X106.9.png",
             url: "http://www.rockkmzk.com:9304/;"
         },
         {
@@ -6731,6 +6841,11 @@ var stations = {
             url: "http://live.kcsb.org/KCSB_128"
         },
         {
+            name: "95.7 The Beat",
+            logo: "stations/images-america/santa_maria/95.7 The Beat.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kpatfmaac-ibc3"
+        },
+        {
             name: "Mix 96.7",
             logo: "stations/images-america/santa_maria/Mix 96.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSYVAAC_SC"
@@ -6751,6 +6866,11 @@ var stations = {
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
         },
         {
+            name: "Sunny 102.5",
+            logo: "stations/images-america/santa_maria/Sunny 102.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-ksnifmaac-ibc3"
+        },
+        {
             name: "KRUZ 103.3",
             logo: "stations/images-america/oxnard/KRUZ 103.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
@@ -6759,6 +6879,11 @@ var stations = {
             name: "KTNK 103.7",
             logo: "stations/images-america/santa_maria/KTNK 103.7.png",
             url: "https://streaming.live365.com/a34169"
+        },
+        {
+            name: "Pirate Radio 104.1",
+            logo: "stations/images-america/santa_maria/Pirate Radio 104.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kboxfmaac-ibc3"
         },
         {
             name: "KRAZy Country 105.9",
