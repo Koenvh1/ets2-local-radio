@@ -2623,11 +2623,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kbklfmaac-ibc3"
         },
         {
-            name: "KUBC Gold 580",
-            logo: "stations/images-america/grand_junction_montrose/KUBC Gold 104.5.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kubcamaac-ibc4"
-        },
-        {
             name: "1230 ESPN",
             logo: "stations/images-america/grand_junction_montrose/1230 ESPN.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kexoamaac-ibc3"
@@ -3305,6 +3300,93 @@ var stations = {
             name: "Sunny 107",
             logo: "stations/images-america/klamath_falls/Sunny 107.png",
             url: "http://ice10.securenetsystems.net/KKRB"
+        },
+    ],
+    "kramer_junction": [
+        {
+            name: "KCRW 88.1",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
+            url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
+        },
+        {
+            name: "95.5 KLOS",
+            logo: "stations/images-america/los_angeles/95.5 KLOS.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
+        },
+        {
+            name: "DRIVE 96.9",
+            logo: "stations/images-america/barstow/DRIVE 96.9.png",
+            url: "https://streaming.live365.com/a98605"
+        },
+        {
+            name: "The Highway Vibe 98.1",
+            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
+            url: "https://streaming.live365.com/a48408"
+        },
+        {
+            name: "Kat Country 100.7",
+            logo: "stations/images-america/kramer_junction/Kat Country 100.7.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-katjfmaac-hlsc2.m3u8"
+        },
+        {
+            name: "100.9 The Heat",
+            logo: "stations/images-america/kramer_junction/100.9 The Heat.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio61.php"
+        },
+        {
+            name: "Old School 101.3",
+            logo: "stations/images-america/barstow/Old School 101.3.png",
+            url: "http://ice9.securenetsystems.net/KQIE"
+        },
+        {
+            name: "La X 103.1",
+            logo: "stations/images-america/kramer_junction/La X 103.1.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-kxvvfmaac-hlsc1.m3u8"
+        },
+        {
+            name: "BOB FM 103.9",
+            logo: "stations/images-america/kramer_junction/BOB FM 103.9.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio60.php"
+        },
+        {
+            name: "KePadre 104.9",
+            logo: "stations/images-america/kramer_junction/KePadre 104.9.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio62.php"
+        },
+        {
+            name: "KMIX 106.3",
+            logo: "stations/images-america/kramer_junction/KMIX 106.3.png",
+            url: "http://ice10.securenetsystems.net/KGMX"
+        },
+        {
+            name: "The Highway Country 107.3",
+            logo: "stations/images-america/barstow/The Highway Country 107.3.png",
+            url: "https://streaming.live365.com/a58353"
+        },
+        {
+            name: "AM 590 The Answer",
+            logo: "stations/images-america/riverside/AM 590 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
+        },
+        {
+            name: "FOX Sports 610",
+            logo: "stations/images-america/barstow/Fox Sports 610.png",
+            url: "https://ice8.securenetsystems.net/KAVL"
+        },
+        {
+            name: "KFI AM 640",
+            logo: "stations/images-america/los_angeles/KFI AM 640.png",
+            url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
+        },
+        {
+            name: "710 ESPN",
+            logo: "stations/images-america/los_angeles/710 ESPN.png",
+            url: "https://live.wostreaming.net/manifest/espn-kspnmp3-48"
+        },
+        {
+            name: "Talk 960.png",
+            logo: "stations/images-america/kramer_junction/Talk 960.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-hlsc2.m3u8"
         },
     ],
     "lakeview": [
@@ -26234,11 +26316,6 @@ var stations_c2c = {
             name: "100 Jack FM",
             logo: "stations/images-america/c2c/jackson_tn/100 Jack FM.png",
             url: "https://ice10.securenetsystems.net/WASL"
-        },
-        {
-            name: "100.9 The Farm",
-            logo: "stations/images-america/c2c/jackson_tn/100.9 The Farm.png",
-            url: "https://ice9.securenetsystems.net/WEIO"
         },
         {
             name: "NewsTalk 101.5",

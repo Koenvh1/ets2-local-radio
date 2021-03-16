@@ -293,6 +293,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "kramer_junction": {
+        name: "Kramer Junction",
+        name_english: "Kramer Junction",
+        code: "us-ca",
+        relative_radius: 0.6
+    },
     "lakeview": {
         name: "Lakeview",
         name_english: "Lakeview",
@@ -861,6 +867,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "klamath_f": {
+        relative_whitenoise: 0.85
+    },
+    "kramer_junction": {
         relative_whitenoise: 0.85
     },
     "lakeview": {
@@ -1593,6 +1602,14 @@ var cities = [
         "x": "-104728",
         "y": "165.972",
         "z": "-34541.4"
+    },
+    {
+        "gameName": "kramer_junction",
+        "realName": "Kramer Junction",
+        "country": "california",
+        "x": "-101306",
+        "y": "46.9573",
+        "z": "10385.2"
     },
     {
         "gameName": "lakeview",
