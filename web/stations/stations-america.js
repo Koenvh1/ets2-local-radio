@@ -25307,6 +25307,21 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3062/hls.m3u8"
         },
         {
+            name: "94.3 WSC",
+            logo: "stations/images-america/c2c/charleston_sc/94.3 WSC.png",
+            url: "https://stream.revma.ihrhls.com/zc3062/hls.m3u8"
+        },
+        {
+            name: "iRie Radio 94.3-HD2",
+            logo: "stations/images-america/c2c/charleston_sc/iRie Radio 94.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6788/hls.m3u8"
+        },
+        {
+            name: "Way FM 94.3-HD3",
+            logo: "stations/images-america/0_general_logos/Way FM.png",
+            url: "http://wayfm.streamguys1.com/wayw.aac"
+        },
+        {
             name: "94.7 The Zone",
             logo: "stations/images-america/c2c/charleston_sc/94.7 The Zone.png",
             url: "https://ice5.securenetsystems.net/WTMZ"
@@ -25657,14 +25672,34 @@ var stations_c2c = {
     ],
     "myrtlebeach_sc": [
         {
+            name: "K-LOVE 88.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "SCPR 90.1",
             logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFMAAC_SC"
         },
         {
+            name: "Radio Bahá'í 90.9",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/Radio Bahá'í 90.9.png",
+            url: "https://wlgi.streamguys1.com/live"
+        },
+        {
             name: "Energy 92.1",
             logo: "stations/images-america/c2c/myrtlebeach_sc/Energy 92.1.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WMYBFMAAC_SC"
+        },
+        {
+            name: "93.9 WMIR",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/93.9 WMIR.png",
+            url: "https://atsradio.herokuapp.com/https://ice66.securenetsystems.net/WMIR"
+        },
+        {
+            name: "Talk 94.5",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/Talk 94.5.png",
+            url: "https://ice64.securenetsystems.net/WYEZ"
         },
         {
             name: "94.9 The Surf",
@@ -25717,7 +25752,7 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WYAVFMAAC_SC"
         },
         {
-            name: "104.9 Bob FM",
+            name: "104.9 BOB FM",
             logo: "stations/images-america/c2c/myrtlebeach_sc/104.9 Bob FM.png",
             url: "https://stream.revma.ihrhls.com/zc6871/hls.m3u8"
         },
