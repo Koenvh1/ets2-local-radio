@@ -783,8 +783,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kawofmaac-ibc3"
         },
         {
-            name: "J105",
-            logo: "stations/images-america/boise/J105.png",
+            name: "105.1 Jack FM",
+            logo: "stations/images-america/boise/105.1 Jack FM.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KJOTFMAAC_SC"
         },
         {
@@ -1209,7 +1209,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc353/hls.m3u8"
         },
         {
-            name: "The J. Anthony Brown Radio Show 96.1-HD2",
+            name: "The J.A. Brown Radio Show 96.1-HD2",
             logo: "stations/images-america/colorado_springs_pueblo/The J. Anthony Brown Radio Show 96.1-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc7751/hls.m3u8"
         },
@@ -10172,9 +10172,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMWFMAAC_SC"
         },
         {
-            name: "96.7 The Coyote",
-            logo: "stations/images-america/c2c/fayetteville_ar/96.7 The Coyote.png",
-            url: "https://ice8.securenetsystems.net/KCYTFM"
+            name: "Red Dirt 96.7",
+            logo: "stations/images-america/c2c/fayetteville_ar/Red Dirt 96.7.png",
+            url: "https://ice6.securenetsystems.net/KFFK"
         },
         {
             name: "KPSQ 97.3",
@@ -18446,9 +18446,9 @@ var stations_c2c = {
             url: "http://173.193.205.96:7214/stream"
         },
         {
-            name: "96.9 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/greenwood_ms/96.9 SuperTalk Mississippi.png",
-            url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
+            name: "SuperTalk Delta 96.9",
+            logo: "stations/images-america/c2c/greenwood_ms/SuperTalk Delta 96.9.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wtcdfmaac-hlsc1.m3u8"
         },
         {
             name: "97.9 The Beat",
@@ -18538,9 +18538,9 @@ var stations_c2c = {
             url: "http://ice42.securenetsystems.net/WGCMFM"
         },
         {
-            name: "103.1 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/gulfport_ms/103.1 SuperTalk Mississippi.png",
-            url: "https://live.wostreaming.net/manifest/telesouth-wosmfmaac-imc1"
+            name: "SuperTalk MS Gulf Coast 103.1",
+            logo: "stations/images-america/c2c/gulfport_ms/SuperTalk MS Gulf Coast 103.1.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wosmfmaac-hlsc1.m3u8"
         },
         {
             name: "News Talk 104.9",
@@ -18595,9 +18595,9 @@ var stations_c2c = {
             url: "http://ice9.securenetsystems.net/WBBN"
         },
         {
-            name: "97.3 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/hattiesburg_ms/97.3 SuperTalk Mississippi.png",
-            url: "https://live.wostreaming.net/manifest/telesouth-wfmnfmaac-imc1"
+            name: "SuperTalk Hattiesburg 97.3",
+            logo: "stations/images-america/c2c/hattiesburg_ms/SuperTalk Hattiesburg 97.3.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wfmmfmaac-hlsc1.m3u8"
         },
         {
             name: "98.1 WMXI",
@@ -18672,8 +18672,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/mississippibroadcasters-wjdqfmaac-ibc1"
         },
         {
-            name: "103.3 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/meridian_ms/103.3 SuperTalk Mississippi.png",
+            name: "SuperTalk Meridian 103.3",
+            logo: "stations/images-america/c2c/meridian_ms/SuperTalk Meridian 103.3.png",
             url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
         },
         {
@@ -18694,14 +18694,24 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_128_SC"
         },
         {
-            name: "93.5 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/mccomb_ms/93.5 SuperTalk Mississippi.png",
-            url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
+            name: "SuperTalk Pike County 93.5",
+            logo: "stations/images-america/c2c/mccomb_ms/SuperTalk Pike County 93.5.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wmpkfmaac-hlsc1.m3u8"
         },
         {
             name: "Max 94.1",
             logo: "stations/images-america/c2c/mccomb_ms/Max 94.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEMXFMAAC_SC"
+        },
+        {
+            name: "SuperTalk Southwest Mississippi 102.1",
+            logo: "stations/images-america/c2c/mccomb_ms/SuperTalk Southwest Mississippi 102.1.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wrqofmaac-hlsc1.m3u8"
+        },
+        {
+            name: "MISS 103",
+            logo: "stations/images-america/c2c/vicksburg_ms/MISS 103.png",
+            url: "https://stream.revma.ihrhls.com/zc1241/hls.m3u8"
         },
         {
             name: "Magic 104.3",
@@ -18761,9 +18771,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7173/hls.m3u8"
         },
         {
-            name: "101.9 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/tupelo_ms/101.9 SuperTalk Mississippi.png",
-            url: "https://live.wostreaming.net/manifest/telesouth-wftafmaac-imc1"
+            name: "SuperTalk Tupelo 101.9",
+            logo: "stations/images-america/c2c/tupelo_ms/SuperTalk Tupelo 101.9.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wftafmaac-hlsc1.m3u8"
         },
         {
             name: "KZ103",
@@ -18828,9 +18838,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/newsouth-wusjfmaac-ibc3"
         },
         {
-            name: "97.3 SuperTalk Mississippi",
-            logo: "stations/images-america/c2c/vicksburg_ms/97.3 SuperTalk Mississippi.png",
-            url: "http://d3powywvt07n1j.cloudfront.net/hls-live/livepkgr/_definst_/liveevent/livestreamCldFrt.m3u8"
+            name: "SuperTalk Hattiesburg 97.3",
+            logo: "stations/images-america/c2c/vicksburg_ms/SuperTalk Hattiesburg 97.3.png",
+            url: "https://live.wostreaming.net/manifest/telesouth-wfmmfmaac-hlsc1.m3u8"
         },
         {
             name: "97.7 WRBJ",
@@ -26074,14 +26084,39 @@ var stations_c2c = {
             url: "http://ice66.securenetsystems.net/WUCT"
         },
         {
+            name: "94.7 The Country Giant",
+            logo: "stations/images-america/c2c/cookeville_tn/94.7 The Country Giant.png",
+            url: "https://atsradio.herokuapp.com/https://ice42.securenetsystems.net/WGSQFM"
+        },
+        {
             name: "Lite Rock 95.9",
             logo: "stations/images-america/c2c/cookeville_tn/Lite Rock 95.9.png",
             url: "http://ice66.securenetsystems.net/WLQK"
         },
         {
+            name: "98.5 KISS FM",
+            logo: "stations/images-america/c2c/cookeville_tn/98.5 KISS FM.png",
+            url: "https://atsradio.herokuapp.com/https://ice42.securenetsystems.net/WKSWFM"
+        },
+        {
+            name: "WLIV 104.7",
+            logo: "stations/images-america/c2c/cookeville_tn/WLIV 104.7.png",
+            url: "http://rs1.radiostreamer.com:8010/;"
+        },
+        {
+            name: "106.1 The Eagle",
+            logo: "stations/images-america/c2c/cookeville_tn/106.1 The Eagle.png",
+            url: "https://atsradio.herokuapp.com/https://ice42.securenetsystems.net/WPTNAM"
+        },
+        {
             name: "106.9 Kicks Country",
             logo: "stations/images-america/c2c/cookeville_tn/106.9 Kicks Country.png",
             url: "http://ice66.securenetsystems.net/WKXD"
+        },
+        {
+            name: "107.7 The HUB",
+            logo: "stations/images-america/c2c/cookeville_tn/107.7 The HUB.png",
+            url: "https://atsradio.herokuapp.com/https://ice42.securenetsystems.net/WHUBAM"
         },
     ],
     "jackson_tn": [
