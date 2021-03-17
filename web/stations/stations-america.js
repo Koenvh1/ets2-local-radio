@@ -4970,18 +4970,13 @@ var stations = {
         },
         {
             name: "99.9 KTYD",
-            logo: "stations/images-america/riverside/99.9 KTYD.png",
+            logo: "stations/images-america/oxnard/99.9 KTYD.png",
             url: "https://ice9.securenetsystems.net/KTYD"
         },
         {
             name: "100.7 KHAY",
             logo: "stations/images-america/oxnard/100.7 KHAY.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHAYFMAAC_SC"
-        },
-        {
-            name: "K-Lite 101.7",
-            logo: "stations/images-america/oxnard/K-Lite 101.7.png",
-            url: "http://ice64.securenetsystems.net/KSBL"
         },
         {
             name: "K-Lite 101.7",
@@ -5010,7 +5005,7 @@ var stations = {
         },
         {
             name: "Live 105.5",
-            logo: "stations/images-america/riverside/Live 105.5.png",
+            logo: "stations/images-america/oxnard/Live 105.5.png",
             url: "https://ice24.securenetsystems.net/KFYV"
         },
         {
@@ -6841,6 +6836,16 @@ var stations = {
             url: "http://live.kcsb.org/KCSB_128"
         },
         {
+            name: "The Krush 92.5",
+            logo: "stations/images-america/santa_maria/The Krush 92.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kkalfmaac-ibc3"
+        },
+        {
+            name: "93.3 KZOZ",
+            logo: "stations/images-america/santa_maria/93.3 KZOZ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kzozfmaac-ibc3"
+        },
+        {
             name: "95.7 The Beat",
             logo: "stations/images-america/santa_maria/95.7 The Beat.png",
             url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kpatfmaac-ibc3"
@@ -6884,6 +6889,11 @@ var stations = {
             name: "Pirate Radio 104.1",
             logo: "stations/images-america/santa_maria/Pirate Radio 104.1.png",
             url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kboxfmaac-ibc3"
+        },
+        {
+            name: "Coast 104.5",
+            logo: "stations/images-america/santa_maria/Coast 104.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-ksttfmaac-ibc3"
         },
         {
             name: "KRAZy Country 105.9",
@@ -15078,9 +15088,19 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/KMXNFM"
         },
         {
+            name: "94.5 Country",
+            logo: "stations/images-america/c2c/topeka_ks/94.5 Country.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-wibwfmaac-ibc4"
+        },
+        {
             name: "95.7 The Vibe",
             logo: "stations/images-america/c2c/kansascity_mo/95.7 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHZFMAAC_SC"
+        },
+        {
+            name: "98.5 Jack FM",
+            logo: "stations/images-america/c2c/topeka_ks/98.5 Jack FM.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-ksajfmaac-ibc4"
         },
         {
             name: "99.3 The Eagle",
@@ -15103,9 +15123,19 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/KKSWFM"
         },
         {
+            name: "Country 106.9",
+            logo: "stations/images-america/c2c/topeka_ks/Country 106.9.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-ktpkfmaac-ibc4"
+        },
+        {
             name: "Majic 107.7",
             logo: "stations/images-america/c2c/topeka_ks/Majic 107.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
+        },
+        {
+            name: "580 WIBW",
+            logo: "stations/images-america/c2c/topeka_ks/580 WIBW.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
             name: "KLWN 1320",
@@ -26612,6 +26642,11 @@ var stations_c2c = {
             url: "https://ice8.securenetsystems.net/WJBE"
         },
         {
+            name: "Star 102.1",
+            logo: "stations/images-america/c2c/knoxville_tn/Star 102.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://ais-sa1.streamon.fm/7700_128k.aac"
+        },
+        {
             name: "103.5 WIMZ",
             logo: "stations/images-america/c2c/knoxville_tn/103.5 WIMZ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIMZFMAAC_SC"
@@ -26625,6 +26660,11 @@ var stations_c2c = {
             name: "104.9 Lake FM",
             logo: "stations/images-america/c2c/knoxville_tn/104.9 Lake FM.png",
             url: "https://stream.radiojar.com/16177nyd41zuv"
+        },
+        {
+            name: "105.1 WKCE",
+            logo: "stations/images-america/c2c/knoxville_tn/105.1 WKCE.png",
+            url: "https://stream.radiojar.com/q04ksted22quv"
         },
         {
             name: "Fanrun Radio 105.7",
