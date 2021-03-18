@@ -207,9 +207,19 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
         },
         {
+            name: "KISS 97.3",
+            logo: "stations/images-america/santa_fe/KISS 97.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kkssfmaac-ibc3"
+        },
+        {
             name: "98.1 The Bull",
             logo: "stations/images-america/albuquerque/98.1 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc1381/hls.m3u8"
+        },
+        {
+            name: "BIG 98.5",
+            logo: "stations/images-america/albuquerque/BIG 98.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kabgfmaac-ibc3"
         },
         {
             name: "Magic 99.5",
@@ -2128,6 +2138,11 @@ var stations = {
             url: "http://69.39.14.19:8001/stream1"
         },
         {
+            name: "92.5 KRWN",
+            logo: "stations/images-america/farmington/92.5 KRWN.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-krwnfmaac-ibc3"
+        },
+        {
             name: "FOX Sports 93.9",
             logo: "stations/images-america/farmington/Fox Sports 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
@@ -2171,6 +2186,16 @@ var stations = {
             name: "KLJH 107.1",
             logo: "stations/images-america/farmington/KLJH 107.1.png",
             url: "http://69.39.14.19:8002/kljh"
+        },
+        {
+            name: "Pirate Radio 107.9",
+            logo: "stations/images-america/farmington/Pirate Radio 107.9.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kprtfmaac-ibc3"
+        },
+        {
+            name: "1390 KENN",
+            logo: "stations/images-america/farmington/1390 KENN.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kennamaac-ibc3"
         },
     ], 
     "flagstaff": [
@@ -6794,9 +6819,19 @@ var stations = {
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
+            name: "KISS 97.3",
+            logo: "stations/images-america/santa_fe/KISS 97.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kkssfmaac-ibc3"
+        },
+        {
             name: "98.1 KBAC",
             logo: "stations/images-america/santa_fe/98.1 KBAC.png",
             url: "https://58f14b372a413.streamlock.net:444/kbac/kbac.stream_aac/playlist.m3u8"
+        },
+        {
+            name: "BIG 98.5",
+            logo: "stations/images-america/albuquerque/BIG 98.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kabgfmaac-ibc3"
         },
         {
             name: "99.9 KSWV",
@@ -6896,6 +6931,11 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KQAV"
         },
         {
+            name: "100.3 La Ley",
+            logo: "stations/images-america/santa_maria/100.3 La Ley.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-krqkfmaac-ibc3"
+        },
+        {
             name: "Eclectic24 101.3",
             logo: "stations/images-america/0_general_logos/Eclectic24.png",
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
@@ -6929,6 +6969,11 @@ var stations = {
             name: "KRAZy Country 105.9",
             logo: "stations/images-america/santa_maria/KRAZy Country 105.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRAZAAC_SC"
+        },
+        {
+            name: "1240 KSMA",
+            logo: "stations/images-america/santa_maria/1240 KSMA.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-ksmaamaac-ibc3"
         },
     ],
     "santa_rosa_nm": [
