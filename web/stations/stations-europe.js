@@ -2370,22 +2370,22 @@ var stations = {
         {
             name: "Latvijas Radio 1",
             logo: "stations/images-europe/latvia/Latvijas Radio 1.png",
-            url: "http://muste.radio.org.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8"
+            url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr1a.stream/playlist.m3u8"
         },
         {
             name: "Latvijas Radio 2",
             logo: "stations/images-europe/latvia/Latvijas Radio 2.png",
-            url: "http://muste.radio.org.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8"
+            url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr2a.stream/playlist.m3u8"
         },
         {
             name: "Latvijas Radio 3 Klasika",
             logo: "stations/images-europe/latvia/Latvijas Radio 3 Klasika.png",
-            url: "http://muste.radio.org.lv/shoutcast/mp4:lr3a.stream/playlist.m3u8"
+            url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr3a.stream/playlist.m3u8"
         },
         {
             name: "Latvijas Radio 4 Домская Площадь",
             logo: "stations/images-europe/latvia/Latvijas Radio 4 Домская Площадь.png",
-            url: "http://muste.radio.org.lv/shoutcast/mp4:lr4a.stream/playlist.m3u8"
+            url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8"
         },
         {
             name: "EHR",

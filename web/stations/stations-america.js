@@ -6,6 +6,11 @@ var stations = {
             url: "http://173.193.205.96:7341/stream"
         },
         {
+            name: "KIX 95.3",
+            logo: "stations/images-america/aberdeen/KIX 95.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kxxkfmaac-ibc4"
+        },
+        {
             name: "Mixx 96.1",
             logo: "stations/images-america/washington/Mixx 96.1.png",
             url: "https://ice10.securenetsystems.net/KXXO"
@@ -26,19 +31,34 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
         },
         {
+            name: "KXRO 101.7",
+            logo: "stations/images-america/aberdeen/KXRO 101.7.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kxroamaac-ibc4"
+        },
+        {
             name: "Sunny 102.1",
             logo: "stations/images-america/aberdeen/Sunny 102.1.png",
-            url: "http://173.193.205.96:7294/stream"
+            url: "http://us2.maindigitalstream.com/ssl/KSWW"
+        },
+        {
+            name: "KBKW 103.5",
+            logo: "stations/images-america/aberdeen/KBKW 103.5.png",
+            url: "https://us2.streamingpulse.com/ssl/KBKW"
+        },
+        {
+            name: "104.7 KDUX",
+            logo: "stations/images-america/aberdeen/104.7 KDUX.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kduxfmaac-ibc4"
         },
         {
             name: "105.7 The Jet",
             logo: "stations/images-america/aberdeen/105.7 The Jet.png",
-            url: "http://173.193.205.96:7295/stream"
+            url: "https://us2.streamingpulse.com/ssl/KJET"
         },
         {
-            name: "1450 KBKW",
-            logo: "stations/images-america/aberdeen/1450 KBKW.png",
-            url: "http://173.193.205.96:7000/stream"
+            name: "1490 KWOK",
+            logo: "stations/images-america/aberdeen/1490 KWOK.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kwokamaac-ibc4"
         },
     ],
     "alamogordo": [
@@ -436,6 +456,16 @@ var stations = {
             name: "Energy 95.3",
             logo: "stations/images-america/bakersfield/Energy 95.3.png",
             url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kllyfmaac-ibc4"
+        },
+        {
+            name: "KERN Radio 96.1",
+            logo: "stations/images-america/bakersfield/KERN Radio 96.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/agmedia28-kernamaac-ibc3"
+        },
+        {
+            name: "96.9 La Caliente",
+            logo: "stations/images-america/bakersfield/96.9 La Caliente.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/agmedia28-kebtfmaac-ibc3"
         },
         {
             name: "The Bull 97.3",
@@ -1774,6 +1804,11 @@ var stations = {
             url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kdgoamaac-ibc3"
         },
         {
+            name: "98.7 KRTZ",
+            logo: "stations/images-america/durango/98.7 KRTZ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
+        },
+        {
             name: "99X",
             logo: "stations/images-america/durango/99X.png",
             url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kkdgfmaac-ibc3"
@@ -2168,6 +2203,11 @@ var stations = {
             url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-kiszfmaac-ibc3"
         },
         {
+            name: "98.7 KRTZ",
+            logo: "stations/images-america/durango/98.7 KRTZ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
+        },
+        {
             name: "102 KTRA",
             logo: "stations/images-america/farmington/102 KTRA.png",
             url: "https://stream.revma.ihrhls.com/zc5090/hls.m3u8"
@@ -2181,6 +2221,11 @@ var stations = {
             name: "KOOL 104.5",
             logo: "stations/images-america/farmington/KOOL 104.5.png",
             url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
+        },
+        {
+            name: "98.7 KRTZ",
+            logo: "stations/images-america/durango/98.7 KRTZ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
         },
         {
             name: "KLJH 107.1",
@@ -7237,6 +7282,11 @@ var stations = {
             url: "http://streams.kpfa.org:8000/kpfa"
         },
         {
+            name: "94.5 Bay FM",
+            logo: "stations/images-america/san_francisco/94.5 Bay FM.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kbayfmaac-ibc4"
+        },
+        {
             name: "WiLD 94.9",
             logo: "stations/images-america/san_francisco/Wild 94.9.png",
             url: "https://stream.revma.ihrhls.com/zc305/hls.m3u8"
@@ -7350,6 +7400,11 @@ var stations = {
             name: "106.1 KMEL",
             logo: "stations/images-america/san_francisco/106.1 KMEL.png",
             url: "https://stream.revma.ihrhls.com/zc293/hls.m3u8"
+        },
+        {
+            name: "Mix 106.5",
+            logo: "stations/images-america/san_francisco/Mix 106.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kezrfmaac-ibc4"
         },
         {
             name: "KCBS 106.9",
@@ -8725,6 +8780,11 @@ var stations = {
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
+            name: "94.3 Jack FM",
+            logo: "stations/images-america/wenatchee/94.3 Jack FM.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kkrvhd3aac-ibc4"
+        },
+        {
             name: "Z-Country 94.7",
             logo: "stations/images-america/wenatchee/Z-Country 94.7.png",
             url: "https://live.wostreaming.net/direct/icicle-kzalfmaac-ibc4"
@@ -8745,6 +8805,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-kqbgfmaac-imc4"
         },
         {
+            name: "100.5 KWIQ",
+            logo: "stations/images-america/wenatchee/100.5 KWIQ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kwiqfmaac-ibc4"
+        },
+        {
             name: "KOHO 101",
             logo: "stations/images-america/wenatchee/KOHO 101.png",
             url: "https://live.wostreaming.net/manifest/icicle-kohofmaac-ibc4"
@@ -8755,9 +8820,19 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-kpqfmaac-imc4"
         },
         {
+            name: "La Nueva 103.3",
+            logo: "stations/images-america/wenatchee/La Nueva 103.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kwlnfmaac-ibc4"
+        },
+        {
             name: "KW3 103.9",
             logo: "stations/images-america/wenatchee/KW3 103.9.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kwwwfmaac-imc4"
+        },
+        {
+            name: "Country 104.7",
+            logo: "stations/images-america/wenatchee/Country 104.7.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kkrvfmaac-ibc4"
         },
         {
             name: "KORE-LP 105.9",
@@ -23409,6 +23484,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/dapeterson-wdjqfmaac-ibc4"
         },
         {
+            name: "Mix 94.1",
+            logo: "stations/images-america/c2c/canton_oh/Mix 94.1.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-whbcfmaac-ibc4"
+        },
+        {
             name: "94.9 WQMX",
             logo: "stations/images-america/c2c/cleveland_oh/94.9 WQMX.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQMXFMAAC_SC"
@@ -23432,6 +23512,11 @@ var stations_c2c = {
             name: "Rock 106.9",
             logo: "stations/images-america/c2c/canton_oh/Rock 106.9.png",
             url: "https://stream.revma.ihrhls.com/zc3294/hls.m3u8"
+        },
+        {
+            name: "1480 WHBC",
+            logo: "stations/images-america/c2c/canton_oh/1480 WHBC.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-whbcamaac-ibc4"
         },
     ],
     "cincinnati": [
