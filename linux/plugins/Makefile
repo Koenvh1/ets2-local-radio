@@ -13,10 +13,10 @@ SDK_INCLUDES=\
 all: ets2-telemetry-lin.so read_util
 
 ets2-telemetry-lin.so: plugin.cpp $(SDK_HEADERS)
-	g++ -o $@ -fPIC -Wall --shared -Wl,-soname,$@ $(SDK_INCLUDES) plugin.cpp -lrt
+	g++ -O2 -o $@ -fPIC -Wall --shared -Wl,-soname,$@ $(SDK_INCLUDES) plugin.cpp -lrt
 
 read_util: read_util.cpp $(SDK_HEADERS)
-	g++ -g -o $@ -Wall $(SDK_INCLUDES) read_util.cpp -lrt
+	g++ -O2 -o $@ -Wall $(SDK_INCLUDES) read_util.cpp -lrt
 
 .PHONY: clean
 clean:
