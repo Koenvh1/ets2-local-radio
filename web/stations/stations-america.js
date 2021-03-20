@@ -5415,6 +5415,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
+            name: "Latino Mix 100.3",
+            logo: "stations/images-america/phoenix/Latino Mix 100.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/univision-kqmrfmaac-imc2"
+        },
+        {
             name: "100.7 KSLX",
             logo: "stations/images-america/phoenix/100.7 KSLX.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KSLXFMAAC_SC"
@@ -5478,6 +5483,11 @@ var stations = {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
+            name: "Qué Buena 105.9",
+            logo: "stations/images-america/phoenix/Qué Buena 105.9.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/univision-khotfmaac-imc2"
         },
         {
             name: "La Mejor 106.5",
@@ -6295,6 +6305,21 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBRTAMAAC_SC"
         },
         {
+            name: "Angels Radio AM 830",
+            logo: "stations/images-america/los_angeles/Angels Radio AM 830.png",
+            url: "http://klaa.streamguys1.com/live"
+        },
+        {
+            name: "FOX Sports 1350",
+            logo: "stations/images-america/riverside/FOX Sports 1350.png",
+            url: "https://stream.revma.ihrhls.com/zc213/hls.m3u8"
+        },
+        {
+            name: "La Mexicana 1410",
+            logo: "stations/images-america/riverside/La Mexicana 1410.png",
+            url: "https://audiossl.radiolazer.stream/LBC/kxml.stream/playlist.m3u8"
+        },
+        {
             name: "BIN 1440",
             logo: "stations/images-america/riverside/BIN 1440.png",
             url: "https://stream.revma.ihrhls.com/zc4084/hls.m3u8"
@@ -6875,6 +6900,11 @@ var stations = {
             name: "Rock 106.7",
             logo: "stations/images-america/salt_lake/Rock 106.7.png",
             url: "https://stream.revma.ihrhls.com/zc2397/hls.m3u8"
+        },
+        {
+            name: "Latino 106.3",
+            logo: "stations/images-america/salt_lake/Latino 106.3.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-kbmgfmaac-ibc4"
         },
         {
             name: "ALT 106.7-HD2",
