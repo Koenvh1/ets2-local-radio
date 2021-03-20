@@ -30,6 +30,7 @@ class CustomHandler(SimpleHTTPRequestHandler):
         super().__init__(*args, directory="../../web/")
 
     def handle_api(self):
+        global last_value
         payload = {
             "Physics": {
                 "CoordinateX": last_value[0],

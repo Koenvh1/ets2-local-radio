@@ -45,6 +45,6 @@ server/packages/**
 *.exe
 
 # Linux stuff
-linux/plugins/telemetry.so
+linux/plugins/ets2-telemetry-lin.so
 linux/plugins/read_util
 linux/server/read_util

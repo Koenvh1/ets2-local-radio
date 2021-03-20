@@ -10,10 +10,10 @@ SDK_INCLUDES=\
 	-I../sdk/include/amtrucks/ \
 	-I../sdk/include/eurotrucks2
 
-all: telemetry.so read_util
+all: ets2-telemetry-lin.so read_util
 
-telemetry.so: telemetry_mem.cpp $(SDK_HEADERS)
-	g++ -o $@ -fPIC -Wall --shared -Wl,-soname,$@ $(SDK_INCLUDES) telemetry_mem.cpp -lrt
+ets2-telemetry-lin.so: plugin.cpp $(SDK_HEADERS)
+	g++ -o $@ -fPIC -Wall --shared -Wl,-soname,$@ $(SDK_INCLUDES) plugin.cpp -lrt
 
 read_util: read_util.cpp $(SDK_HEADERS)
 	g++ -o $@ -Wall $(SDK_INCLUDES) read_util.cpp -lrt
