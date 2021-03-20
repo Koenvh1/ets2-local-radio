@@ -5,8 +5,7 @@ import subprocess
 import json
 import signal
 import time
-
-PORT = 3142
+import argparse
 
 last_value = (0, 0, 0)
 has_elec = [False, False]  # current, last read by command handler
@@ -109,6 +108,12 @@ signal.signal(signal.SIGINT, signal_handler)
 
 read_thread = threading.Thread(target=start_read)
 server_thread = threading.Thread(target=run_server)
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--port", type=int, default=3141)
+
+args = parser.parse_args()
+PORT = args.port
 
 read_thread.start()
 server_thread.start()
