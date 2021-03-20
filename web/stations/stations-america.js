@@ -6317,7 +6317,7 @@ var stations = {
         {
             name: "La Mexicana 1410",
             logo: "stations/images-america/riverside/La Mexicana 1410.png",
-            url: "https://audiossl.radiolazer.stream/LBC/kxml.stream/playlist.m3u8"
+            url: "https://audiossl.radiolazer.stream/LBC/kcal.stream/playlist.m3u8"
         },
         {
             name: "BIN 1440",
