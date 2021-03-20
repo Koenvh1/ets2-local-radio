@@ -24,4 +24,4 @@ python3 main.py
 
 This will by default run at `localhost:3141`, but feel free to change the port by adding the `--port` flag.
 
-Then just visit `localhost:3141` (or your specified) port to view the web interface!
+Then just visit `localhost:3141` (or your specified port) to view the web interface!
