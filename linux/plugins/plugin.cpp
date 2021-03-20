@@ -11,13 +11,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 
-// SDK
-
-#include "scssdk_telemetry.h"
-#include "eurotrucks2/scssdk_eut2.h"
-#include "eurotrucks2/scssdk_telemetry_eut2.h"
-#include "amtrucks/scssdk_ats.h"
-#include "amtrucks/scssdk_telemetry_ats.h"
+#include "defs.h"
 
 #define UNUSED(x)
 
@@ -29,11 +23,7 @@ bool output_paused = true;
 /**
  * @brief Useful telemetry data.
  */
-struct telemetry_state_t
-{
-	scs_value_dplacement_t world_position;
-	scs_value_bool_t electricity;
-} telemetry;
+telemetry_state_t telemetry;
 
 /**
  * @brief Time since last mmap
@@ -47,8 +37,6 @@ static scs_timestamp_t update_interval = 5e5;	// every 0.5s
  */
 void* mapped_region = NULL;
 size_t MAP_SIZE = -1;
-
-static char shm_name[] = "/ets2radiolinux";
 
 /**
  * @brief Function writing message to the game internal log.
@@ -231,7 +219,7 @@ SCSAPI_RESULT scs_telemetry_init(const scs_u32_t version, const scs_telemetry_in
 	memset(&telemetry, 0, sizeof(telemetry));
 
 	// We only need one page of memory
-	MAP_SIZE = getpagesize();
+	MAP_SIZE = getpagesize() * NUM_PAGES;
 
 	// Open shared memory
 	int handle = shm_open(shm_name, O_RDWR | O_CREAT | O_TRUNC, S_IRUSR | S_IWUSR);

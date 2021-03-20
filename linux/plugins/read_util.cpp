@@ -9,6 +9,8 @@
 #include <unistd.h>
 #include <fcntl.h>
 
+#include "defs.h"
+
 // SDK
 
 #include "scssdk_telemetry.h"
@@ -16,14 +18,6 @@
 #include "eurotrucks2/scssdk_telemetry_eut2.h"
 #include "amtrucks/scssdk_ats.h"
 #include "amtrucks/scssdk_telemetry_ats.h"
-
-static char shm_name[] = "/ets2radiolinux";
-
-typedef struct telemetry_state_t
-{
-	scs_value_dplacement_t world_position;
-	scs_value_bool_t electricity;
-} telemetry_state_t;
 
 void print_info(telemetry_state_t info) {
     scs_value_dvector_t pos = info.world_position.position;
@@ -34,7 +28,7 @@ void print_info(telemetry_state_t info) {
 
 int main() {
 	// We only need one page of memory
-	size_t MAP_SIZE = getpagesize();
+	size_t MAP_SIZE = getpagesize() * NUM_PAGES;
 
 	// Open shared memory
 	int handle = shm_open(shm_name, O_RDONLY, S_IRUSR);
