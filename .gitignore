@@ -43,3 +43,8 @@ fabric.properties
 
 server/packages/**
 *.exe
+
+# Linux stuff
+linux/plugins/telemetry.so
+linux/plugins/read_util
+linux/server/read_util
