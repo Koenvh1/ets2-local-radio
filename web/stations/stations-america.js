@@ -13548,7 +13548,7 @@ var stations_c2c = {
         },
         {
             name: "WILL 90.9",
-            logo: "stations/images-america/c2c/champaign_il/WILL 90.9.png",
+            logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
             url: "https://icecast.will.illinois.edu/WILLFM-48"
         },
         {
