@@ -17,12 +17,18 @@
 #include "amtrucks/scssdk_ats.h"
 #include "amtrucks/scssdk_telemetry_ats.h"
 
-
 static char shm_name[] = "/ets2radiolinux";
 
-void print_position(scs_value_dplacement_t placement) {
-    scs_value_dvector_t pos = placement.position;
-    fprintf(stdout, "%f,%f,%f\n", pos.x, pos.y, pos.z);
+typedef struct telemetry_state_t
+{
+	scs_value_dplacement_t world_position;
+	scs_value_bool_t electricity;
+} telemetry_state_t;
+
+void print_info(telemetry_state_t info) {
+    scs_value_dvector_t pos = info.world_position.position;
+    int elec = info.electricity.value > 0 ? 1 : 0;
+    fprintf(stdout, "%f,%f,%f;%d\n", pos.x, pos.y, pos.z, elec);
 	fflush(stdout);
 }
 
@@ -51,11 +57,11 @@ int main() {
 		return 1;
 	}
 
-    scs_value_dplacement_t current;
-    memset(&current, 0, sizeof(scs_value_dplacement_t));
+	telemetry_state_t telemetry;
+    memset(&telemetry, 0, sizeof(telemetry_state_t));
     while (1) {
-        memcpy(&current, mapped_region, MAP_SIZE);
-        print_position(current);
+        memcpy(&telemetry, mapped_region, MAP_SIZE);
+        print_info(telemetry);
         usleep(500000);
     }
 

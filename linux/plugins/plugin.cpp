@@ -32,6 +32,7 @@ bool output_paused = true;
 struct telemetry_state_t
 {
 	scs_value_dplacement_t world_position;
+	scs_value_bool_t electricity;
 } telemetry;
 
 /**
@@ -117,6 +118,26 @@ SCSAPI_VOID telemetry_store_dplacement(const scs_string_t name, const scs_u32_t 
 	scs_value_dplacement_t *const placement = static_cast<scs_value_dplacement_t *>(context);
 	*placement = value->value_dplacement;
 }
+
+SCSAPI_VOID telemetry_store_bool(const scs_string_t name, const scs_u32_t index, const scs_value_t *const value, const scs_context_t context)
+{
+	if (!context) {
+		game_log(SCS_LOG_TYPE_error, "Local radio: no context!");
+		return;
+	}
+	if (!value) {
+		game_log(SCS_LOG_TYPE_error, "Local radio: no value!");
+		return;
+	}
+	if (value->type != SCS_VALUE_TYPE_bool) {
+		game_log(SCS_LOG_TYPE_error, "Local radio: value wrong type!");
+		return;
+	}
+
+	scs_value_bool_t *const setting = static_cast<scs_value_bool_t *>(context);
+	*setting = value->value_bool;
+}
+
 
 /**
  * @brief Telemetry API initialization function.
@@ -204,6 +225,7 @@ SCSAPI_RESULT scs_telemetry_init(const scs_u32_t version, const scs_telemetry_in
 	// (SCS_RESULT_unsupported_type). For purpose of this example we ignore the failues
 	// so the unsupported channels will remain at theirs default value.
 	version_params->register_for_channel(SCS_TELEMETRY_TRUCK_CHANNEL_world_placement, SCS_U32_NIL, SCS_VALUE_TYPE_dplacement, SCS_TELEMETRY_CHANNEL_FLAG_none, telemetry_store_dplacement, &telemetry.world_position);
+	version_params->register_for_channel(SCS_TELEMETRY_TRUCK_CHANNEL_electric_enabled, SCS_U32_NIL, SCS_VALUE_TYPE_bool, SCS_TELEMETRY_CHANNEL_FLAG_none, telemetry_store_bool, &telemetry.electricity);
 
 	// Set the structure with defaults.
 	memset(&telemetry, 0, sizeof(telemetry));

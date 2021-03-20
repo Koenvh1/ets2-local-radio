@@ -4,15 +4,17 @@ import socketserver
 import subprocess
 import json
 import signal
+import time
 
-PORT = 3141
+PORT = 3142
 
 last_value = (0, 0, 0)
+has_elec = [False, False]  # current, last read by command handler
 alive = True
 httpd = None
 
 def start_read():
-    global last_value
+    global last_value, has_elec
     global alive
 
     read_util = subprocess.Popen(["./read_util"], stdout=subprocess.PIPE, bufsize=1, universal_newlines=True)
@@ -20,7 +22,10 @@ def start_read():
         txt = read_util.stdout.readline().strip()
         if not txt:
             continue
-        last_value = tuple([float(x) for x in txt.split(",")])
+
+        parts = txt.split(";")
+        last_value = tuple([float(x) for x in parts[0].split(",")])
+        has_elec[0] = int(parts[1]) > 0
 
     read_util.stdout.close()
     read_util.send_signal(signal.SIGKILL)
@@ -45,12 +50,30 @@ class CustomHandler(SimpleHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(json.dumps(payload).encode("utf-8"))
 
+    def handle_cmd(self):
+        global has_elec
+
+        payload = {
+            "id": time.time(),
+            "language": "en-GB",
+            "game": "ets2",
+        }
+
+        if has_elec[0] != has_elec[1]:
+            has_elec[1] = has_elec[0]
+            payload["action"] = "engineOn" if has_elec[0] else "engineOff" 
+
+        self.send_response(200)
+        self.send_header("Content-Type", "application/json")
+        self.send_header("Content-Encoding", "utf-8")
+        self.end_headers()
+        self.wfile.write(json.dumps(payload).encode("utf-8"))
+
     def do_GET(self):
         if self.path[:4] == "/api":
             self.handle_api()
         elif self.path[:9] == "/commands":
-            self.send_response(200)
-            self.end_headers()
+            self.handle_cmd()
         else:
             super().do_GET()
 
@@ -67,6 +90,9 @@ def run_server():
 def signal_handler(sig, frame):
     global alive
     global httpd
+
+    if not alive:
+        return
 
     print("Interrupted, shutting down")
     alive = False

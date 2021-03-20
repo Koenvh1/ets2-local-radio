@@ -16,7 +16,7 @@ ets2-telemetry-lin.so: plugin.cpp $(SDK_HEADERS)
 	g++ -o $@ -fPIC -Wall --shared -Wl,-soname,$@ $(SDK_INCLUDES) plugin.cpp -lrt
 
 read_util: read_util.cpp $(SDK_HEADERS)
-	g++ -o $@ -Wall $(SDK_INCLUDES) read_util.cpp -lrt
+	g++ -g -o $@ -Wall $(SDK_INCLUDES) read_util.cpp -lrt
 
 .PHONY: clean
 clean:
