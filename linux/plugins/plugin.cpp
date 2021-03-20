@@ -1,5 +1,5 @@
 /**
- * @brief TODO
+ * @brief This plugin hooks into the telemetry API for ETS2, and writes it to a shm file.
  */
 
 #include <stdio.h>
