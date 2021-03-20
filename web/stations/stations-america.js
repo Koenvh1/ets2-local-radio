@@ -674,9 +674,14 @@ var stations = {
     ],
     "bend": [
         {
-            name: "KLBR 88.1",
+            name: "KLCC 88.1",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
+        },
+        {
+            name: "PRX Remix 88.1-HD2",
+            logo: "stations/images-america/0_general_logos/PRX Remix.png",
+            url: "http://backbonenetworks.streamguys.com/remixxm.mp3"
         },
         {
             name: "KPOV 88.9",
@@ -687,6 +692,16 @@ var stations = {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
+            name: "K-LOVE 90.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
+            name: "KWAX 91.1",
+            logo: "stations/images-america/eugene/KWAX 91.1.png",
+            url: "http://75.150.43.46:8000/;"
         },
         {
             name: "OPB 91.3",
@@ -719,6 +734,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMTKFMAAC_SC"
         },
         {
+            name: "100.1 KBND",
+            logo: "stations/images-america/bend/100.1 KBND.png",
+            url: "https://ice10.securenetsystems.net/KBND"
+        },
+        {
             name: "Mix 100.7",
             logo: "stations/images-america/bend/Mix 100.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGXFM_SC"
@@ -739,6 +759,11 @@ var stations = {
             url: "https://live.wostreaming.net/direct/horizonbroadcasting-kwpkfmmp3-ibc1"
         },
         {
+            name: "104.5 KBNW",
+            logo: "stations/images-america/bend/104.5 KBNW.png",
+            url: "https://live.wostreaming.net/manifest/horizonbroadcasting-kbnwamaac-ibc1"
+        },
+        {
             name: "KQAK 105.7",
             logo: "stations/images-america/bend/KQAK 105.7.png",
             url: "https://live.wostreaming.net/direct/horizonbroadcasting-kqakfmmp3-ibc1"
@@ -747,6 +772,11 @@ var stations = {
             name: "107.7 The Beat",
             logo: "stations/images-america/bend/107.7 The Beat.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWXSFMAAC_SC"
+        },
+        {
+            name: "690 KRCO",
+            logo: "stations/images-america/bend/690 KRCO.png",
+            url: "https://live.wostreaming.net/manifest/horizonbroadcasting-krcoamaac-ibc1"
         },
     ],
     "bishop": [
