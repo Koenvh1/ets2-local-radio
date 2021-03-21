@@ -3189,9 +3189,9 @@ var country_properties_c2c = {
         code: "us-ms",
         relative_radius: 0.9
     },
-    "vicksburg_ms": {
-        name: "vicksburg_ms",
-        name_english: "vicksburg_ms",
+    "jackson_ms": {
+        name: "jackson_ms",
+        name_english: "jackson_ms",
         code: "us-ms",
         relative_radius: 0.9
     },
@@ -4560,7 +4560,7 @@ var city_properties_c2c = {
     "tupelo_ms": {
         relative_whitenoise: 0.95
     },
-    "vicksburg_ms": {
+    "jackson_ms": {
         relative_whitenoise: 0.85
     },
     "missouri": {
@@ -5877,7 +5877,7 @@ var cities_c2c = [
         "z": "24680.7"
     },
     {
-        "gameName": "vicksburg_ms",
+        "gameName": "jackson_ms",
         "realName": "Jackson/Vicksburg",
         "country": "mississippi",
         "x": "26945.4",
