@@ -5079,7 +5079,7 @@ var stations = {
         {
             name: "Sunny FM 97.7",
             logo: "stations/images-america/omak/Sunny FM 97.7.png",
-            url: "http://63.142.210.15:8001/;"
+            url: "http://96.46.17.81:8001/;stream"
         },
     ],
     "oxnard": [
@@ -8897,7 +8897,7 @@ var stations = {
         {
             name: "Sunny FM 98.1",
             logo: "stations/images-america/omak/Sunny FM 97.7.png",
-            url: "http://63.142.210.15:8001/;"
+            url: "http://96.46.17.81:8001/;stream"
         },
         {
             name: "99.5 The Bridge",
