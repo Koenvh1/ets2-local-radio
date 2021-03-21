@@ -2932,6 +2932,11 @@ var stations = {
             url: "https://us2.maindigitalstream.com/ssl/KSNO"
         },
         {
+            name: "104.7 The Mile",
+            logo: "stations/images-america/glenwood_springs/104.7 The Mile.png",
+            url: "https://us2.maindigitalstream.com/ssl/KKVM"
+        },
+        {
             name: "KNFO 106.1",
             logo: "stations/images-america/glenwood_springs/KNFO 106.1.png",
             url: "https://ice1.amtstreaming.com:9004/knfoic"
