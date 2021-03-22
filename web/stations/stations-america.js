@@ -4252,6 +4252,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KFRGFMAAC_SC"
         },
         {
+            name: "The Bet 93.1-HD3",
+            logo: "stations/images-america/los_angeles/The Bet 93.1-HD3.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KCBSHD3AAC_SC"
+        },
+        {
             name: "93.5 KDAY",
             logo: "stations/images-america/los_angeles/93.5 KDAY.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
@@ -13744,12 +13749,7 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMFMAAC_SC"
         },
         {
-            name: "Energy 96.3-HD2",
-            logo: "stations/images-america/c2c/chicago_il/Energy 96.3-HD2.png",
-            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WCFSHD2AAC_SC"
-        },
-        {
-            name: "Channel Q 96.3-HD3",
+            name: "Channel Q 96.3-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
@@ -13837,6 +13837,11 @@ var stations_c2c = {
             name: "WBBM 105.9",
             logo: "stations/images-america/c2c/chicago_il/WBBM 105.9.png",
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WBBMAMAAC_SC"
+        },
+        {
+            name: "The Bet 105.9-HD2",
+            logo: "stations/images-america/c2c/chicago_il/The Bet 105.9-HD2.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/WCFSHD2AAC_SC"
         },
         {
             name: "106.3 WSRB",
@@ -20300,8 +20305,8 @@ var stations_c2c = {
             url: "http://shoutcast.kglt.net:8000/;"
         },
         {
-            name: "The Moose 95.1",
-            logo: "stations/images-america/c2c/bozeman_mt/The Moose 95.1.png",
+            name: "The Moose 94.7",
+            logo: "stations/images-america/c2c/bozeman_mt/The Moose 94.7.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmmsfmaac-ibc3"
         },
         {
@@ -20345,9 +20350,19 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
         {
-            name: "Boomer 104",
-            logo: "stations/images-america/0_general_logos/Boomer Radio.png",
-            url: "http://5.135.158.214:14364/;"
+            name: "104.1 The Zone",
+            logo: "stations/images-america/c2c/bozeman_mt/104.1 The Zone.png",
+            url: "https://desertmountainbroadcasting.streamguys1.com/KYWL"
+        },
+        {
+            name: "The Eagle 105.7",
+            logo: "stations/images-america/c2c/bozeman_mt/The Eagle 105.7.png",
+            url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKQXFMAAC_SC"
+        },
+        {
+            name: "K-SKY 106.9",
+            logo: "stations/images-america/c2c/bozeman_mt/K-SKY 106.9.png",
+            url: "https://atsradio.herokuapp.com/https://ice23.securenetsystems.net/KSCY"
         },
         {
             name: "1450 KMMS",
