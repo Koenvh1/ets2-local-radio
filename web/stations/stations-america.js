@@ -3628,6 +3628,11 @@ var stations = {
             logo: "stations/images-america/kramer_junction/Talk 960.png",
             url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-ibc2?source=v7player"
         },
+        {
+            name: "1020 KTNQ",
+            logo: "stations/images-america/los_angeles/1020 KTNQ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/univision-ktnqamaac-imc2"
+        },
     ],
     "lakeview": [
         {
@@ -3842,8 +3847,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
         },
         {
-            name: "iHeartCountry Classics 96.7",
-            logo: "stations/images-america/0_general_logos/iHeartCountry Classics.png",
+            name: "iHeart Country Classics 96.7",
+            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
             url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
         },
         {
@@ -4337,6 +4342,11 @@ var stations = {
             url: "http://ednixon.com:8170/stream"
         },
         {
+            name: "LA 101.9",
+            logo: "stations/images-america/los_angeles/LA 101.9.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/univision-kscafmaac-imc2"
+        },
+        {
             name: "102.3 KJLH",
             logo: "stations/images-america/los_angeles/102.3 KJLH.png",
             url: "https://live.wostreaming.net/direct/kjlh-kjlhfmmp3-ibc2"
@@ -4392,6 +4402,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://playerservices.streamtheworld.com/api/livestream-redirect/KROQHD2AAC_SC"
         },
         {
+            name: "K-LOVE 107.5",
+            logo: "stations/images-america/los_angeles/K-LOVE 107.5.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/univision-klvefmaac-imc2"
+        },
+        {
             name: "570 LA Sports",
             logo: "stations/images-america/los_angeles/570 LA Sports.png",
             url: "https://stream.revma.ihrhls.com/zc189/hls.m3u8"
@@ -4420,6 +4435,11 @@ var stations = {
             name: "AM 870 The Answer",
             logo: "stations/images-america/los_angeles/AM 870 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
+        },
+        {
+            name: "1020 KTNQ",
+            logo: "stations/images-america/los_angeles/1020 KTNQ.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/univision-ktnqamaac-imc2"
         },
         {
             name: "KNX 1070",
@@ -8734,6 +8754,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KIKXFM"
         },
         {
+            name: "Kat Kountry 106",
+            logo: "stations/images-america/ketchum/Kat Kountry 106.png",
+            url: "https://ic1.mainstreamnetwork.com/kkmv-fm"
+        },
+        {
             name: "Q106.7",
             logo: "stations/images-america/ketchum/Q106.7.png",
             url: "https://atsradio.herokuapp.com/https://ice10.securenetsystems.net/KIRQFM"
@@ -10251,8 +10276,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3119/hls.m3u8"
         },
         {
-            name: "iHeartCountry Classics 94.9-HD2",
-            logo: "stations/images-america/0_general_logos/iHeartCountry Classics.png",
+            name: "iHeart Country Classics 94.9-HD2",
+            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
             url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
         },
         {
@@ -15495,8 +15520,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc957/hls.m3u8"
         },
         {
-            name: "iHeartCountry Classics 102.1-HD2",
-            logo: "stations/images-america/0_general_logos/iHeartCountry Classics.png",
+            name: "iHeart Country Classics 102.1-HD2",
+            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
             url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
         },
         {
@@ -17308,8 +17333,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2513/hls.m3u8"
         },
         {
-            name: "iHeartCountry Classics 98.7-HD2",
-            logo: "stations/images-america/0_general_logos/iHeartCountry Classics.png",
+            name: "iHeart Country Classics 98.7-HD2",
+            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
             url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
         },
         {
@@ -30781,7 +30806,7 @@ var stations_c2c = {
         },
         {
             name: "Classical Wyoming 91.3-HD2",
-            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Classical Wyoming.png",
             url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
         },
         {
@@ -30843,17 +30868,17 @@ var stations_c2c = {
         },
         {
             name: "Wyoming Sounds 91.5-HD2",
-            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Wyoming Sounds.png",
             url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
         },
         {
             name: "Jazz Wyoming 91.5-HD3",
-            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Jazz Wyoming.png",
             url: "https://wyoming-public-ice.streamguys1.com/JZZ128MP3"
         },
         {
             name: "Classical Wyoming 91.9",
-            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
+            logo: "stations/images-america/0_general_logos/Classical Wyoming.png",
             url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
         },
         {
