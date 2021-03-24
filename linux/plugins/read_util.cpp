@@ -62,7 +62,7 @@ int main() {
 	telemetry_state_t telemetry;
     memset(&telemetry, 0, sizeof(telemetry_state_t));
     while (1) {
-        memcpy(&telemetry, mapped_region, MAP_SIZE);
+        memcpy(&telemetry, mapped_region, sizeof(telemetry_state_t));
         print_info(telemetry);
         usleep(500000);
     }
