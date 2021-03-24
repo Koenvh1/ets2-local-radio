@@ -1,5 +1,10 @@
 /**
  * @brief Utility that will output the value of the position in the shared memory.
+ * 
+ * Return codes:
+ *   0: ok - exited normally (currently not reachable)
+ *   1: error - could not open shared memory
+ *   2: error - failed to mmap shared memory
  */
 
 #include <stdio.h>
@@ -19,11 +24,14 @@
 #include "amtrucks/scssdk_ats.h"
 #include "amtrucks/scssdk_telemetry_ats.h"
 
+#define ERR_COULD_NOT_OPEN_MEMORY 1
+#define ERR_MMAP_FAILED 2
+
 void print_info(telemetry_state_t info) {
     scs_value_dvector_t pos = info.world_position.position;
     int elec = info.electricity.value > 0 ? 1 : 0;
-    fprintf(stdout, "%f,%f,%f;%d\n", pos.x, pos.y, pos.z, elec);
-	fflush(stdout);
+    fprintf(stdout, "INFO %f,%f,%f;%d\n", pos.x, pos.y, pos.z, elec);
+    fflush(stdout);
 }
 
 int main() {
@@ -34,7 +42,7 @@ int main() {
 	int handle = shm_open(shm_name, O_RDONLY, S_IRUSR);
 	if (handle < 0) {
 		fprintf(stderr, "ERR Could not open shared memory\n");
-		return 1;
+		return ERR_COULD_NOT_OPEN_MEMORY;
 	}
 
 	void* mapped_region = mmap(
@@ -48,7 +56,7 @@ int main() {
 
 	if (mapped_region == MAP_FAILED) {
 		fprintf(stderr, "ERR Could not mmap shared memory\n");
-		return 1;
+		return ERR_MMAP_FAILED;
 	}
 
 	telemetry_state_t telemetry;
