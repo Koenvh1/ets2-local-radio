@@ -10,7 +10,9 @@ SDK_INCLUDES=\
 	-I../sdk/include/amtrucks/ \
 	-I../sdk/include/eurotrucks2
 
-all: ets2-telemetry-lin.so read_util
+CLEANABLE=*.so read_util dummy
+
+all: ets2-telemetry-lin.so read_util dummy
 
 ets2-telemetry-lin.so: plugin.cpp $(SDK_HEADERS) defs.h
 	g++ -O2 -o $@ -fPIC -Wall --shared -Wl,-soname,$@ $(SDK_INCLUDES) plugin.cpp -lrt
@@ -18,6 +20,9 @@ ets2-telemetry-lin.so: plugin.cpp $(SDK_HEADERS) defs.h
 read_util: read_util.cpp $(SDK_HEADERS) defs.h
 	g++ -O2 -o $@ -Wall $(SDK_INCLUDES) read_util.cpp -lrt
 
+dummy: dummy.cpp $(SDK_HEADERS) defs.h
+	g++ -O2 -o $@ -Wall $(SDK_INCLUDES) dummy.cpp -lrt
+
 .PHONY: clean
 clean:
-	@rm -f -- *.so read_util
+	@rm -f -- $(CLEANABLE)

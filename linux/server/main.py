@@ -94,6 +94,13 @@ class CustomHandler(SimpleHTTPRequestHandler):
         self.wfile.write(json.dumps(payload).encode("utf-8"))
 
     def do_GET(self):
+        try:
+            self.GET_handler()
+        except Exception as e:
+            print("Server: encountered error while responding to request:", e)
+            print("Ignoring and continuing to run.")
+
+    def GET_handler(self):
         if self.path[:4] == "/api":
             self.handle_api()
         elif self.path[:9] == "/commands":
