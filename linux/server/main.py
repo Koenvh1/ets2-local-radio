@@ -6,11 +6,18 @@ import json
 import signal
 import time
 import argparse
+from urllib.parse import unquote
+
+from lib import favourites as favourite_manager
+
+FAVOURITES_FILE = "favourites.json"
 
 last_value = (0, 0, 0)
 has_elec = [False, False]  # current, last read by command handler
 alive = True
 httpd = None
+favourites = None
+
 
 def start_read():
     global last_value, has_elec
@@ -58,21 +65,22 @@ class CustomHandler(SimpleHTTPRequestHandler):
     def __init__(self, *args):
         super().__init__(*args, directory="../../web/")
 
+    def send_json(self, obj):
+        self.send_response(200)
+        self.send_header("Content-Type", "application/json")
+        self.send_header("Content-Encoding", "utf-8")
+        self.end_headers()
+        self.wfile.write(json.dumps(obj).encode("utf-8"))
+
     def handle_api(self):
         global last_value
-        payload = {
+        self.send_json({
             "Physics": {
                 "CoordinateX": last_value[0],
                 "CoordinateY": last_value[1],
                 "CoordinateZ": last_value[2],
             }
-        }
-
-        self.send_response(200)
-        self.send_header("Content-Type", "application/json")
-        self.send_header("Content-Encoding", "utf-8")
-        self.end_headers()
-        self.wfile.write(json.dumps(payload).encode("utf-8"))
+        })
 
     def handle_cmd(self):
         global has_elec
@@ -87,24 +95,54 @@ class CustomHandler(SimpleHTTPRequestHandler):
             has_elec[1] = has_elec[0]
             payload["action"] = "engineOn" if has_elec[0] else "engineOff" 
 
-        self.send_response(200)
-        self.send_header("Content-Type", "application/json")
-        self.send_header("Content-Encoding", "utf-8")
+        self.send_json(payload)
+
+    def get_favourite(self, parts):
+        fav = favourites.get_favourite(parts[1])
+        self.send_json({
+            "Name": fav,
+        })
+
+    def set_favourite(self, parts):
+        favourites.set_favourite(parts[1], parts[2])
+        self.send_response_only(200)
         self.end_headers()
-        self.wfile.write(json.dumps(payload).encode("utf-8"))
+
+    def get_all_favourites(self):
+        self.send_json(favourites.stored)
+
+    def handle_fav(self):
+        global favourites
+
+        parts = [x.strip() for x in self.path.split("/")]
+        parts = [unquote(x) for x in parts if x]
+        
+        if len(parts) == 1:
+            self.get_all_favourites()
+        elif len(parts) == 2:
+            # We need to return the favourite for this country
+            self.get_favourite(parts)
+        elif len(parts) == 3:
+            # We need to set the favourite for this country
+            self.set_favourite(parts)
+        else:
+            self.send_response_only(400)
+            self.end_headers()
 
     def do_GET(self):
         try:
             self.GET_handler()
         except Exception as e:
             print("Server: encountered error while responding to request:", e)
-            print("Ignoring and continuing to run.")
+            print("Server: ignoring and continuing to run")
 
     def GET_handler(self):
         if self.path[:4] == "/api":
             self.handle_api()
         elif self.path[:9] == "/commands":
             self.handle_cmd()
+        elif self.path[:10] == "/favourite":
+            self.handle_fav()
         else:
             super().do_GET()
 
@@ -117,7 +155,6 @@ def run_server():
     global last_value
     global alive
     global httpd
-    global PORT
 
     while alive:
         try:
@@ -160,6 +197,8 @@ parser.add_argument("--port", type=int, default=3141)
 
 args = parser.parse_args()
 PORT = args.port
+
+favourites = favourite_manager.Favourites(FAVOURITES_FILE)
 
 read_thread.start()
 server_thread.start()
