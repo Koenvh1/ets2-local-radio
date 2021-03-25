@@ -37,6 +37,10 @@
     border-color: #424242;
 }
 
+.dark .music-controller {
+    background: #424242;
+}
+
 .dark #koenvhLogo {
   filter: invert(100%);
 }

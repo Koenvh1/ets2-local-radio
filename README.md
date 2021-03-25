@@ -167,6 +167,10 @@ then please try to reinstall the plugin by pressing the "Install plugin" button,
 If that doesn't work, then please try the [alternative dll](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_ets2-telemetry.dll/ets2-telemetry.dll)
 and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\plugins` folder. (The alternative only works on 64-bit)
 
+### The overlay does not show up
+* Make sure you run the game in DirectX mode
+* Make sure you have not disabled the overlay in the settings
+
 ### The overlay is stuck in the top left corner
 This usually occurs after changing the graphics settings. It should be gone after ATS/ETS2 is restarted.
 
