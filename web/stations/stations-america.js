@@ -7054,14 +7054,44 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7349_48k.aac"
         },
         {
+            name: "The Truth 820",
+            logo: "stations/images-america/salt_lake/The Truth 820.png",
+            url: "https://stream.falconinternet.net:9018/;"
+        },
+        {
             name: "860 KKAT",
             logo: "stations/images-america/salt_lake/860 KKAT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAMAAC_SC"
         },
         {
+            name: "1230 The Place",
+            logo: "stations/images-america/salt_lake/1230 The Place.png",
+            url: "https://stream.radiojar.com/5sbf1ptsy2quv"
+        },
+        {
             name: "1280 The Zone",
             logo: "stations/images-america/salt_lake/The Zone.png",
             url: "https://live.wostreaming.net/direct/utahjazz-kznsamaac-ibc4"
+        },
+        {
+            name: "La Mas Picosita 1550",
+            logo: "stations/images-america/salt_lake/La Mas Picosita 1550.png",
+            url: "https://usa19.fastcast4u.com/lamaspicosita"
+        },
+        {
+            name: "Juan 1600",
+            logo: "stations/images-america/salt_lake/Juan 1600.png",
+            url: "https://phproxy.herokuapp.com/index.php?q=https://live.wostreaming.net/direct/alphacorporate-ktubamaac-ibc4"
+        },
+        {
+            name: "K-UTE Radio 1620",
+            logo: "stations/images-america/salt_lake/K-UTE Radio 1620.png",
+            url: "https://stream.radiojar.com/t5uc7dqek5zuv"
+        },
+        {
+            name: "KTALK 1640",
+            logo: "stations/images-america/salt_lake/KTALK 1640.png",
+            url: "http://s3.voscast.com:7204/;"
         },
     ],
     "santa_fe": [
