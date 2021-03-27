@@ -4135,9 +4135,19 @@ var stations = {
             url: "http://uprxstreamer.usu.edu:8002/stream"
         },
         {
+            name: "Aggie Radio 92.3",
+            logo: "stations/images-america/logan/Aggie Radio 92.3.png",
+            url: "https://aggiestream.bluezone.usu.edu:8888/;stream.mp3"
+        },
+        {
             name: "Q92.9",
             logo: "stations/images-america/logan/Q92.9.png",
             url: "https://ice9.securenetsystems.net/KBLQ"
+        },
+        {
+            name: "K-LOVE 94.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "VFX 94.5",
@@ -4155,14 +4165,29 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KKEX"
         },
         {
+            name: "Juan 97.3",
+            logo: "stations/images-america/logan/Juan 97.3.png",
+            url: "https://ice9.securenetsystems.net/JUAN"
+        },
+        {
             name: "KVNU 102.1",
             logo: "stations/images-america/logan/KVNU 102.1.png",
             url: "https://ice9.securenetsystems.net/KVNU"
         },
         {
+            name: "Lite FM 103.3",
+            logo: "stations/images-america/logan/Lite FM 103.3.png",
+            url: "https://ice9.securenetsystems.net/KLGN"
+        },
+        {
             name: "KOOL 103.9",
             logo: "stations/images-america/logan/KOOL 103.9.png",
             url: "https://ice9.securenetsystems.net/KGNT"
+        },
+        {
+            name: "104.9 The Ranch",
+            logo: "stations/images-america/logan/104.9 The Ranch.png",
+            url: "https://ice9.securenetsystems.net/KKEX3"
         },
         {
             name: "106.9 The Fan",
