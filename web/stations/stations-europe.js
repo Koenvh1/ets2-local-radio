@@ -81,7 +81,7 @@ var stations = {
         {
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
-            url: "http://cp1.sednastream.com:8004/;"
+            url: "https://live.top-media.al/tar"
         },
         {
             name: "Top Gold",
@@ -722,7 +722,7 @@ var stations = {
         {
             name: "DR P2",
             logo: "stations/images-europe/denmark/DR P2.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8"
+            url: "https://drliveradio.akamaized.net/hls/live/2022411/p2/masterab.m3u8"
         },
         {
             name: "DR P3",
@@ -1381,9 +1381,9 @@ var stations = {
             url: "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/mid"
         },
         {
-            name: "Bayern plus",
-            logo: "stations/images-europe/germany-br/Bayern plus.png",
-            url: "ttps://br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/mid"
+            name: "Bayern Schlager",
+            logo: "stations/images-europe/germany-br/Bayern Schlager.png",
+            url: "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/mid"
         },
         {
             name: "BR Heimat",
@@ -2708,7 +2708,7 @@ var stations = {
         {
             name: "BNR Nieuwsradio",
             logo: "stations/images-europe/netherlands/BNR Nieuwsradio.svg",
-            url: "http://icecast-bnr.cdp.triple-it.nl/bnr_aac_32_04",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3",
         },
         {
             name: "FunX",
@@ -2736,9 +2736,9 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
         },
         {
-            name: "Radio 538 Top 40",
+            name: "Radio 538 Top 50",
             logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR02.mp3",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
         },
         {
             name: "Radio Maria",
@@ -2768,7 +2768,7 @@ var stations = {
         {
             name: "Sublime FM",
             logo: "stations/images-europe/netherlands/Sublime FM.png",
-            url: "http://stream02.sublimefm.nl/SublimeFM_mp3",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3",
         },
     ],
     "nireland": [
@@ -2887,12 +2887,12 @@ var stations = {
         {
             name: "Norsk pop",
             logo: "stations/images-europe/norway/Norsk pop.jpg",
-            url: "http://edge-bauerno-01-cr.sharp-stream.com/norskpop_no_mp3"
+            url: "https://live-bauerno.sharp-stream.com/norskpop_no_mp3"
         },
         {
             name: "Radio Norge",
             logo: "stations/images-europe/norway/Radio Norge.png",
-            url: "http://edge-bauerno-01-cr.sharp-stream.com/radionorge_no_mp3"
+            url: "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
         },
         {
             name: "Radio Vinyl",
