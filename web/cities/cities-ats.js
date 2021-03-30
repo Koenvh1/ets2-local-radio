@@ -179,6 +179,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "evanston": {
+        name: "Evanston",
+        name_english: "Evanston",
+        code: "us-wy",
+        relative_radius: 0.5
+    },
     "fallon": {
         name: "Fallon",
         name_english: "Fallon",
@@ -812,6 +818,9 @@ var city_properties = {
     "eureka": {
         relative_whitenoise: 0.85
     },
+    "evanston": {
+        relative_whitenoise: 0.85
+    },
     "fallon": {
         relative_whitenoise: 0.85
     },
@@ -1146,6 +1155,14 @@ var cities = [
         "x": "-118391",
         "y": "90.7422",
         "z": "-27408.9"
+    },
+    {
+        "gameName": "evanston",
+        "realName": "Evanston",
+        "country": "wyoming",
+        "x": "-60461",
+        "y": "124.699",
+        "z": "-18638.7"
     },
     {
         "gameName": "fallon",
@@ -4171,7 +4188,7 @@ var country_properties_c2c = {
         name: "casper_wy",
         name_english: "casper_wy",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "cheyenne": {
         name: "cheyenne",
@@ -4189,13 +4206,13 @@ var country_properties_c2c = {
         name: "rawlings",
         name_english: "rawlings",
         code: "us-wy",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "rock_springs": {
         name: "rock_springs",
         name_english: "rock_springs",
         code: "us-wy",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "sheridan_wy": {
         name: "sheridan_wy",
@@ -5056,7 +5073,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "casper_wy": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "cheyenne": {
         relative_whitenoise: 0.85
