@@ -349,7 +349,7 @@ function setRadioStation(url, country, volume) {
                 cleanUrl = cleanUrl.split("?")[0];
             }
 
-            if (cleanUrl.startsWith("https://atsradio.herokuapp.com/")) {
+            if (cleanUrl.startsWith("https://atsradio.herokuapp.com/index.php?ats=")) {
                 $("#player").attr("crossorigin", "anonymous");
             } else {
                 $("#player").removeAttr("crossorigin");

@@ -858,7 +858,7 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRVBFMAAC_SC"
         },
         {
-            name: "96.1 Bob FM",
+            name: "96.1 BOB FM",
             logo: "stations/images-america/boise/96.1 BOB FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KSRV"
         },
@@ -4486,7 +4486,7 @@ var stations = {
         {
             name: "Viva 103.1",
             logo: "stations/images-america/los_angeles/Viva 103.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC_SC"
         },
         {
             name: "KOST 103.5",
@@ -12035,9 +12035,19 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
+            name: "HITS 97.3",
+            logo: "stations/images-america/c2c/miami_fl/HITS 97.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/mia973/mia973-sgplayer-aac"
+        },
+        {
             name: "97.9 WRMF",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/97.9 WRMF.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRMFFMAAC_SC"
+        },
+        {
+            name: "Mix 98.3",
+            logo: "stations/images-america/c2c/miami_fl/Mix 98.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-wrtofmaac-ibc1"
         },
         {
             name: "KISS Country 99.9",
@@ -12093,6 +12103,11 @@ var stations_c2c = {
             name: "The Bull 104.7",
             logo: "stations/images-america/c2c/miami_fl/The Bull 104.7.png",
             url: "https://stream.revma.ihrhls.com/zc6617/hls.m3u8"
+        },
+        {
+            name: "HOT 105",
+            logo: "stations/images-america/c2c/miami_fl/HOT 105.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/mia1051/mia1051-sgplayer-aac"
         },
         {
             name: "Throwback 105.5",
@@ -12364,6 +12379,11 @@ var stations_c2c = {
             name: "94.9 The Answer",
             logo: "stations/images-america/c2c/orlando_fl/94.9 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WORLAMAAC_SC"
+        },
+        {
+            name: "Power 95.3",
+            logo: "stations/images-america/c2c/orlando_fl/Power 95.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl953/orl953-sgplayer-aac"
         },
         {
             name: "HOT 95.9",
