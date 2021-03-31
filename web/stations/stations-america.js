@@ -17939,8 +17939,8 @@ var stations_c2c = {
             url: "http://38.96.148.28:8088/;"
         },
         {
-            name: "Nash Icon 98.1",
-            logo: "stations/images-america/c2c/springfield_ma/NASH Icon 98.1.png",
+            name: "Hall of Fame Country 98.1",
+            logo: "stations/images-america/c2c/springfield_ma/Hall of Fame Country 98.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHLLAMAAC_SC"
         },
         {
@@ -25217,14 +25217,39 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1937/hls.m3u8"
         },
         {
+            name: "Marriott 92.1-HD2",
+            logo: "stations/images-america/c2c/tulsa_ok/Marriott 92.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7385/hls.m3u8"
+        },
+        {
             name: "93.5 The Jet",
             logo: "stations/images-america/c2c/tulsa_ok/93.5 The Jet.png",
             url: "https://stream.revma.ihrhls.com/zc5166/hls.m3u8"
         },
         {
+            name: "94.1 KXOJ",
+            logo: "stations/images-america/c2c/tulsa_ok/94.1 KXOJ.png",
+            url: "https://ice7.securenetsystems.net/KXOJ"
+        },
+        {
+            name: "94.1-HD2 KXOJ2",
+            logo: "stations/images-america/c2c/tulsa_ok/94.1-HD2 KXOJ2.png",
+            url: "http://ice8.securenetsystems.net/KTSO"
+        },
+        {
             name: "94.5 Totally Awesome 80's",
             logo: "stations/images-america/c2c/tulsa_ok/94.5 Totally Awesome 80's.png",
             url: "http://ice8.securenetsystems.net/KTSO"
+        },
+        {
+            name: "K95.5",
+            logo: "stations/images-america/c2c/tulsa_ok/K95.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/tul955/tul955-sgplayer-aac"
+        },
+        {
+            name: "Mix 96.5",
+            logo: "stations/images-america/c2c/tulsa_ok/Mix 96.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/tul965/tul965-sgplayer-aac"
         },
         {
             name: "97.1 The Sports Animal",
@@ -25237,9 +25262,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1929/hls.m3u8"
         },
         {
+            name: "The Bull 98.5",
+            logo: "stations/images-america/c2c/tulsa_ok/The Bull 98.5.png",
+            url: "https://live.wostreaming.net/direct/griffin-kvoofmmp3-ibc1"
+        },
+        {
             name: "Heart and Soul 99.1",
             logo: "stations/images-america/c2c/tulsa_ok/Heart and Soul 99.1.png",
             url: "https://crystalout.surfernetwork.com:8001/KGTO_MP3"
+        },
+        {
+            name: "Big Country 99.5",
+            logo: "stations/images-america/c2c/tulsa_ok/Big Country 99.5.png",
+            url: "https://live.wostreaming.net/direct/griffin-kxblfmmp3-ibc1"
         },
         {
             name: "Bright Star 100.1",
@@ -25255,6 +25290,11 @@ var stations_c2c = {
             name: "101.5 El Patrón",
             logo: "stations/images-america/c2c/tulsa_ok/101.5 El Patron.png",
             url: "https://stream.revma.ihrhls.com/zc1925/hls.m3u8"
+        },
+        {
+            name: "Jam Bands Radio 101.5-HD2",
+            logo: "stations/images-america/c2c/tulsa_ok/Jam Bands Radio 101.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7278/hls.m3u8"
         },
         {
             name: "La Zeta 101.9",
@@ -27429,6 +27469,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOTHD2_SC"
         },
         {
+            name: "93.1 WNOX",
+            logo: "stations/images-america/c2c/knoxville_tn/93.1 WNOX.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7699_128k.aac"
+        },
+        {
             name: "94.3 Jack FM",
             logo: "stations/images-america/c2c/knoxville_tn/94.3 Jack FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNFZFMAAC_SC"
@@ -27477,6 +27522,11 @@ var stations_c2c = {
             name: "WOZO-LP 103.9",
             logo: "stations/images-america/c2c/knoxville_tn/WOZO-LP 103.9.png",
             url: "http://188.165.240.90:8802/stream"
+        },
+        {
+            name: "Hot 104.5",
+            logo: "stations/images-america/c2c/knoxville_tn/Hot 104.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7698_128k.aac"
         },
         {
             name: "104.9 Lake FM",
