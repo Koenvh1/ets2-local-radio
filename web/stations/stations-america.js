@@ -3339,8 +3339,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
         },
         {
-            name: "La Tricolor 103.5",
-            logo: "stations/images-america/indio/La Tricolor 103.5.png",
+            name: "Fuego 103.5",
+            logo: "stations/images-america/0_general_logos/Fuego.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC_SC"
         },
         {
@@ -3909,8 +3909,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOMPFMAAC_SC"
         },
         {
-            name: "La Suavecita 92.7",
-            logo: "stations/images-america/las_vegas/La Suavecita 92.7.png",
+            name: "Fuego 92.7",
+            logo: "stations/images-america/0_general_logos/Fuego.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRNFMAAC_SC"
         },
         {
@@ -18497,8 +18497,8 @@ var stations_c2c = {
             url: "https://wkuf.fm:8443/wkuf-lp"
         },
         {
-            name: "Nash FM 95.1",
-            logo: "stations/images-america/c2c/flint_mi/NASH FM 95.1.png",
+            name: "B95",
+            logo: "stations/images-america/c2c/flint_mi/B95.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFBEFMAAC_SC"
         },
         {
