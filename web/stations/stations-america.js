@@ -5813,6 +5813,11 @@ var stations = {
             url: "http://allclassical-ice.streamguys.com:80/ac96kmp3"
         },
         {
+            name: "ICAN Radio 89.9-HD2",
+            logo: "stations/images-america/portland/ICAN Radio 89.9-HD2.png",
+            url: "https://allclassical-ord.streamguys1.com/ICAN"
+        },
+        {
             name: "Freeform Portland 90.3",
             logo: "stations/images-america/portland/Freeform Portland 90.3.png",
             url: "http://listen.freeformportland.org:8000/stream"
@@ -5851,6 +5856,11 @@ var stations = {
             name: "KNRK 2 94.7-HD2",
             logo: "stations/images-america/portland/KNRK 2 94.7-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNRKHD2AAC_SC"
+        },
+        {
+            name: "KISN 95.1",
+            logo: "stations/images-america/portland/KISN 95.1.png",
+            url: "https://ice6.securenetsystems.net/KISNLP"
         },
         {
             name: "Live 95.5",
@@ -5898,6 +5908,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
         },
         {
+            name: "FM News 101 KXL",
+            logo: "stations/images-america/portland/FM News 101 KXL.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kxlfmaac-ibc4"
+        },
+        {
             name: "101.9 KINK",
             logo: "stations/images-america/portland/101.9 KINK.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kinkfmaac-ibc4"
@@ -5916,6 +5931,11 @@ var stations = {
             name: "K103",
             logo: "stations/images-america/portland/K103.png",
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
+        },
+        {
+            name: "K-LOVE 90s 103.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
             name: "104.5 MeTV FM",
@@ -5966,6 +5986,11 @@ var stations = {
             name: "Rip City Radio 620",
             logo: "stations/images-america/portland/Rip City Radio 620.png",
             url: "https://stream.revma.ihrhls.com/zc1965/hls.m3u8"
+        },
+        {
+            name: "750 The Game",
+            logo: "stations/images-america/portland/750 The Game.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kxtgamaac-ibc4"
         },
         {
             name: "AM 860 The Answer",
@@ -8591,6 +8616,11 @@ var stations = {
             name: "All Classical 88.1",
             logo: "stations/images-america/portland/All Classical 89.9.png",
             url: "https://allclassical-ice.streamguys.com/ac96kmp3"
+        },
+        {
+            name: "ICAN Radio 88.1-HD2",
+            logo: "stations/images-america/portland/ICAN Radio 89.9-HD2.png",
+            url: "https://allclassical-ord.streamguys1.com/ICAN"
         },
         {
             name: "OPB 89.7",
@@ -20010,6 +20040,16 @@ var stations_c2c = {
             url: "https://ice41.securenetsystems.net/KKLO"
         },
         {
+            name: "Mix 93.3",
+            logo: "stations/images-america/c2c/kansascity_mo/Mix 93.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7039_48k.aac"
+        },
+        {
+            name: "Country 94.1",
+            logo: "stations/images-america/c2c/kansascity_mo/Country 94.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7040_48k.aac"
+        },
+        {
             name: "ESPN 94.5",
             logo: "stations/images-america/c2c/kansascity_mo/ESPN 94.5.png",
             url: "https://live.wostreaming.net/manifest/unionbroadcasting-kcteamaac-ibc2"
@@ -20033,6 +20073,11 @@ var stations_c2c = {
             name: "Channel Q 96.5-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD2AAC_SC"
+        },
+        {
+            name: "K-LOVE 97.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "98.1 KMBZ",
@@ -20073,6 +20118,11 @@ var stations_c2c = {
             name: "KCMO 103.7",
             logo: "stations/images-america/c2c/kansascity_mo/KCMO 103.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOAMAAC_SC"
+        },
+        {
+            name: "Q104",
+            logo: "stations/images-america/c2c/kansascity_mo/Q104.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7038_48k.aac"
         },
         {
             name: "KOJH 104.7",
@@ -27116,7 +27166,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUTCFM_SC"
         },
         {
-            name: "WUTC 88.1-HD2",
+            name: "Genre-Free Radio 88.1-HD2",
             logo: "stations/images-america/c2c/chattanooga_tn/WUTC 88.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUTCHD2_SC"
         },
