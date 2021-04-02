@@ -488,8 +488,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/agmedia28-kgeoamaac-ibc3"
         },
         {
-            name: "101.5 KGFM",
-            logo: "stations/images-america/bakersfield/101.5 KGFM.png",
+            name: "101.5 BIG FM",
+            logo: "stations/images-america/bakersfield/101.5 BIG FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/agmedia28-kgfmfmaac-ibc3"
         },
         {
@@ -5597,8 +5597,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSLXFMAAC_SC"
         },
         {
-            name: "101.1 The Beat",
-            logo: "stations/images-america/phoenix/101.1 The Beat.png",
+            name: "101.1 The Bounce",
+            logo: "stations/images-america/phoenix/101.1 The Bounce.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice8.securenetsystems.net/KNRJ"
         },
         {
