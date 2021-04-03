@@ -792,7 +792,7 @@ var stations = {
         },
         {
             name: "Pilgrim Radio 91.3",
-            logo: "stations/images-america/ely/Pilgrim Radio 91.9.png",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
@@ -1931,7 +1931,7 @@ var stations = {
         },
         {
             name: "Pilgrim Radio 91.9",
-            logo: "stations/images-america/ely/Pilgrim Radio 91.9.png",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
@@ -2162,7 +2162,7 @@ var stations = {
         },
         {
             name: "Pilgrim Radio 91.9",
-            logo: "stations/images-america/ely/Pilgrim Radio 91.9.png",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
@@ -8610,7 +8610,7 @@ var stations = {
         },
         {
             name: "Pilgrim Radio 91.3",
-            logo: "stations/images-america/ely/Pilgrim Radio 91.9.png",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
@@ -8738,7 +8738,7 @@ var stations = {
         },
         {
             name: "Pilgrim Radio 91.3",
-            logo: "stations/images-america/ely/Pilgrim Radio 91.9.png",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
@@ -31367,12 +31367,32 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/rawlins_wy/Bigfoot 99.png",
             url: "https://ice6.securenetsystems.net/KTGA"
         },
+        {
+            name: "55 Country",
+            logo: "stations/images-america/rangely/55 Country.png",
+            url: "https://ice6.securenetsystems.net/KRAIAM"
+        },
+        {
+            name: "K2 Radio 1030",
+            logo: "stations/images-america/c2c/casper_wy/K2 Radio 1030.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ktwoamaac-ibc3"
+        },
     ],
     "rock_springs": [
+        {
+            name: "Pilgrim Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
+        },
         {
             name: "WPR 90.5",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
+        },
+        {
+            name: "KFRZ 92.1",
+            logo: "stations/images-america/c2c/rock_springs_wy/KFRZ 92.1.png",
+            url: "http://209.95.35.49:7857/stream"
         },
         {
             name: "KREO 93.5",
@@ -31380,14 +31400,39 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/CO7WY"
         },
         {
+            name: "KYCS 95.1",
+            logo: "stations/images-america/c2c/rock_springs_wy/KYCS 95.1.png",
+            url: "https://us9.maindigitalstream.com/ssl/7855"
+        },
+        {
             name: "Q96",
             logo: "stations/images-america/c2c/rock_springs_wy/Q96.png",
             url: "https://ice9.securenetsystems.net/KQSW"
         },
         {
+            name: "The Big Dog 97.9",
+            logo: "stations/images-america/c2c/rock_springs_wy/The Big Dog 97.9.png",
+            url: "https://us9.maindigitalstream.com/ssl/7859"
+        },
+        {
+            name: "Air1 98.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
             name: "​​99.7 Jack FM",
             logo: "stations/images-america/c2c/rock_springs_wy/99.7 Jack FM.png",
             url: "https://ice9.securenetsystems.net/KSIT"
+        },
+        {
+            name: "K-LOVE 101.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
+            name: "The Freeze 104.3",
+            logo: "stations/images-america/c2c/rock_springs_wy/The Freeze 104.3.png",
+            url: "https://us9.maindigitalstream.com/ssl/7861"
         },
         {
             name: "KUGR 104.9",
