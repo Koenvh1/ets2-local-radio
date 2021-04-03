@@ -2257,6 +2257,16 @@ var stations = {
             logo: "stations/images-america/reno/Easy 104.1.png",
             url: "https://ice42.securenetsystems.net/KUEZ"
         },
+        {
+            name: "Radio Lazer 105.3",
+            logo: "stations/images-america/reno/Radio Lazer 107.7.png",
+            url: "https://audiossl.radiolazer.stream/LBC/ksrn.stream/playlist.m3u8"
+        },
+        {
+            name: "La Mejor 107.3",
+            logo: "stations/images-america/reno/La Mejor 107.3.png",
+            url: "https://audiossl.radiolazer.stream/LBC/knez.stream/playlist.m3u8"
+        },
     ],
     "farmington": [
         {
@@ -4799,6 +4809,11 @@ var stations = {
             logo: "stations/images-america/medford/107.5 KISS FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIFSFMAAC_SC"
         },
+        {
+            name: "KAPL 1300",
+            logo: "stations/images-america/medford/KAPL 1300.png",
+            url: "https://ice-1.streamhoster.com/lv_acfit3--broadcast1"
+        },
     ],
     "moab": [
         {
@@ -6360,6 +6375,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
+            name: "99.1 FM Talk",
+            logo: "stations/images-america/ltahoe/99.1 FM Talk.png",
+            url: "https://ice7.securenetsystems.net/KKFT"
+        },
+        {
             name: "The X 100.1",
             logo: "stations/images-america/reno/The X 100.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
@@ -6400,9 +6420,24 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
+            name: "105.7 KOZZ",
+            logo: "stations/images-america/reno/105.7 KOZZ.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOZZFMAAC_SC"
+        },
+        {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
             url: "https://ice10.securenetsystems.net/KRNO"
+        },
+        {
+            name: "La Mejor 107.3",
+            logo: "stations/images-america/reno/La Mejor 107.3.png",
+            url: "https://audiossl.radiolazer.stream/LBC/knez.stream/playlist.m3u8"
+        },
+        {
+            name: "Radio Lazer 107.7",
+            logo: "stations/images-america/reno/Radio Lazer 107.7.png",
+            url: "https://audiossl.radiolazer.stream/LBC/ksrn.stream/playlist.m3u8"
         },
         {
             name: "K-Tahoe 590",
