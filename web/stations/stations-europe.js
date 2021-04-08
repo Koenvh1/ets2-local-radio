@@ -3424,7 +3424,7 @@ var stations = {
             url: "https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rne5/main/mp3/high"
         },
         {
-            name: "CADENA 100",
+            name: "Cadena 100",
             logo: "stations/images-europe/spain/Cadena 100.png",
             url: "https://cadena100-cope.flumotion.com/playlist.m3u8"
         },
