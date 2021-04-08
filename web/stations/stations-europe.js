@@ -521,7 +521,7 @@ var stations = {
     "catalonia": [
         {
             name: "Catalunya Ràdio",
-            logo: "stations/images-europe/catalonia/Catalunya Ràdio.svg",
+            logo: "stations/images-europe/catalonia/Catalunya Ràdio.png",
             url: "https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8"
         },
         {
@@ -535,14 +535,24 @@ var stations = {
             url: "https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8"
         },
         {
+            name: "iCat",
+            logo: "stations/images-europe/catalonia/iCat.png",
+            url: "https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8"
+        },
+        {
             name: "Flaix FM",
             logo: "stations/images-europe/catalonia/Flaix FM.png",
-            url: "http://flaixfmweb.streaming-pro.com:8000/;"
+            url: "https://flaixfm.streaming-pro.com:8001/flaixfm.aacp"
+        },
+        {
+            name: "Flaixbac",
+            logo: "stations/images-europe/catalonia/Ràdio Flaixbac.png",
+            url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
         },
         {
             name: "RAC1",
-            logo: "stations/images-europe/catalonia/RAC1.jpg",
-            url: "http://rac1.radiocat.net/;*.nsv"
+            logo: "stations/images-europe/catalonia/RAC1.png",
+            url: "https://streaming.rac1.cat/"
         },
         {
             name: "RAC105",
@@ -550,14 +560,14 @@ var stations = {
             url: "https://streaming.rac105.cat/"
         },
         {
-            name: "RàdioEstel",
-            logo: "stations/images-europe/catalonia/RàdioEstel.png",
-            url: "http://srv3021.lcinternet.com:8019/live"
+            name: "Ràdio Estel",
+            logo: "stations/images-europe/catalonia/Ràdio Estel.png",
+            url: "http://srv3021.lcinternet.com:8019/stream"
         },
         {
-            name: "Ràdio Flaixbac",
-            logo: "stations/images-europe/catalonia/Ràdio Flaixbac.png",
-            url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
+            name: "SER Catalunya",
+            logo: "stations/images-europe/catalonia/SER Catalunya.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CATAAC_SC"
         },
     ],
     "croatia": [
@@ -3481,7 +3491,7 @@ var stations = {
         {
             name: "Melodía FM",
             logo: "stations/images-europe/spain/Melodía FM.png",
-            url: "https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8"
+            url: "https://icecast-streaming.nice264.com/melodiafmback"
         },
         {
             name: "Onda Cero",
@@ -3492,6 +3502,11 @@ var stations = {
             name: "Radio Intereconomía",
             logo: "stations/images-europe/spain/Radio Intereconomía.png",
             url: "https://streaming.intereconomia.com/siliconorg"
+        },
+        {
+            name: "Radiolé",
+            logo: "stations/images-europe/spain/Radiolé.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC_SC"
         },
         {
             name: "Radio MARCA",

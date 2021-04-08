@@ -448,6 +448,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/agmedia28-kkxxfmaac-ibc3"
         },
         {
+            name: "El Gallito 93.7",
+            logo: "stations/images-america/bakersfield/El Gallito 93.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KCHJAM_FMAAC_SC"
+        },
+        {
             name: "Hot 94.1",
             logo: "stations/images-america/bakersfield/Hot 94.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/agmedia28-kisvfmaac-ibc3"
@@ -2671,6 +2676,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYEFMAAC_SC"
         },
         {
+            name: "La Buena 101.9",
+            logo: "stations/images-america/fresno/La Buena 101.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBNFMAAC_SC"
+        },
+        {
             name: "102.7 The Wolf",
             logo: "stations/images-america/fresno/102.7 The Wolf.png",
             url: "https://stream.revma.ihrhls.com/zc145/hls.m3u8"
@@ -2701,6 +2711,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KHTN"
         },
         {
+            name: "105.1 The Blaze",
+            logo: "stations/images-america/fresno/105.1 The Blaze.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBZFMAAC_SC"
+        },
+        {
             name: "K-Jewel 105.5",
             logo: "stations/images-america/fresno/K-Jewel 105.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC_SC"
@@ -2709,6 +2724,11 @@ var stations = {
             name: "105.9 KMJ",
             logo: "stations/images-america/fresno/105.9 KMJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC_SC"
+        },
+        {
+            name: "Exitos 107.1",
+            logo: "stations/images-america/fresno/Exitos 107.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KHITFMAAC_SC"
         },
         {
             name: "107.3 KYOS",
@@ -2734,6 +2754,11 @@ var stations = {
             name: "1550 KXEX",
             logo: "stations/images-america/fresno/1550 KXEX.png",
             url: "http://173.193.205.96:7403/stream"
+        },
+        {
+            name: "Multi Cultural 1600",
+            logo: "stations/images-america/fresno/Multi Cultural 1600.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGSTAMAAC_SC"
         },
     ],
     "g_canyon_vlg": [
@@ -4592,6 +4617,11 @@ var stations = {
             name: "The Patriot 1150",
             logo: "stations/images-america/los_angeles/The Patriot 1150.png",
             url: "https://stream.revma.ihrhls.com/zc197/hls.m3u8"
+        },
+        {
+            name: "Tu Liga Radio 1330",
+            logo: "stations/images-america/los_angeles/Tu Liga Radio 1330.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC_SC"
         },
         {
             name: "GBC 1190",
@@ -23249,8 +23279,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGUFMAAC_SC"
         },
         {
-            name: "Old School 107.7",
-            logo: "stations/images-america/c2c/fayetteville_nc/Old School 107.7.png",
+            name: "107.7 Jamz",
+            logo: "stations/images-america/c2c/fayetteville_nc/107.7 Jamz.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WUKSFMAACHI_SC"
         },
         {
