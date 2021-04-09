@@ -2933,7 +2933,7 @@ var stations = {
         },
         {
             name: "Polskie Radio 4",
-            logo: "stations/images-europe/poland/Polskie Radio 4.svg",
+            logo: "stations/images-europe/poland/Polskie Radio 4.png",
             url: "http://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8"
         },
         {
@@ -2978,7 +2978,7 @@ var stations = {
         },
         {
             name: "Radio ZET",
-            logo: "stations/images-europe/poland/Radio Zet.svg",
+            logo: "stations/images-europe/poland/Radio Zet.png",
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx"
         },
         {
@@ -2993,7 +2993,7 @@ var stations = {
         },
         {
             name: "RMF FM",
-            logo: "stations/images-europe/poland/RMF FM.svg",
+            logo: "stations/images-europe/poland/RMF FM.png",
             url: "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48"
         },
         {
