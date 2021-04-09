@@ -3983,7 +3983,7 @@ var stations = {
         },
         {
             name: "UCB 2",
-            logo: "stations/images-europe/uk/UCB 1.png",
+            logo: "stations/images-europe/uk/UCB 2.png",
             url: "https://edge-audio-02-gos1.sharp-stream.com/ucbinspirational.mp3"
         },
     ],
