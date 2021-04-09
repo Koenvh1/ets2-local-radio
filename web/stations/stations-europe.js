@@ -3908,7 +3908,7 @@ var stations = {
         },
         {
             name: "Heart 70s",
-            logo: "stations/images-europe/uk/Heart 80s.png",
+            logo: "stations/images-europe/uk/Heart 70s.png",
             url: "https://media-ssl.musicradio.com/Heart70s"
         },
         {
@@ -3918,7 +3918,7 @@ var stations = {
         },
         {
             name: "Heart 90s",
-            logo: "stations/images-europe/uk/Heart 80s.png",
+            logo: "stations/images-europe/uk/Heart 90s.png",
             url: "https://media-ssl.musicradio.com/Heart90s"
         },
         {
@@ -4026,12 +4026,12 @@ var stations = {
         {
             name: "Xiт FM",
             logo: "stations/images-europe/ukraine/Xiт FM.png",
-            url: "http://online-hitfm.tavrmedia.ua/HitFM"
+            url: "https://online.hitfm.ua/HitFM_HD"
         },
         {
             name: "KISS FM",
             logo: "stations/images-europe/ukraine/KISS FM.png",
-            url: "http://online-kissfm.tavrmedia.ua/KissFM"
+            url: "https://online.kissfm.ua/KissFM_HD"
         },
         {
             name: "Країна ФМ",
@@ -4102,11 +4102,6 @@ var stations = {
             name: "Русское Радио Україна",
             logo: "stations/images-europe/ukraine/Русское Радио Україна.png",
             url: "https://online.rusradio.ua/RusRadio_HD"
-        },
-        {
-            name: "Стильное радио ПЕРЕЦ FM",
-            logo: "stations/images-europe/ukraine/Стильное радио ПЕРЕЦ FM.png",
-            url: "https://radio.urg.ua/radio-stilnoe"
         },
     ],
     "wales": [
