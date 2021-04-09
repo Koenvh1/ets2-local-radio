@@ -418,7 +418,7 @@ var stations = {
     ],
     "bakersfield": [
         {
-            name: "KVPR 89.1",
+            name: "VPR 89.1",
             logo: "stations/images-america/0_general_logos/Valley Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFMAAC_SC"
         },
@@ -476,6 +476,11 @@ var stations = {
             name: "The Bull 97.3",
             logo: "stations/images-america/bakersfield/The Bull 97.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRJKAAC_SC"
+        },
+        {
+            name: "Rewind 98.1",
+            logo: "stations/images-america/bakersfield/Rewind 98.1.png",
+            url: "http://streaming.rubinbroadcasting.com/rewind"
         },
         {
             name: "98.5 The Fox",
@@ -541,6 +546,11 @@ var stations = {
             name: "FOX Sports 970",
             logo: "stations/images-america/bakersfield/Fox Sports 970.png",
             url: "https://stream.revma.ihrhls.com/zc4273/hls.m3u8"
+        },
+        {
+            name: "KNZR 1560",
+            logo: "stations/images-america/bakersfield/KNZR 1560.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-knzramaac-ibc4"
         },
     ],
     "barstow": [

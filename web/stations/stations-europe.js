@@ -3034,14 +3034,24 @@ var stations = {
             url: "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8"
         },
         {
+            name: "Cidade FM",
+            logo: "stations/images-europe/portugal/Cidade FM.png",
+            url: "https://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8"
+        },
+        {
+            name: "Mega Hits",
+            logo: "stations/images-europe/portugal/Mega Hits.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITSAAC_SC"
+        },
+        {
             name: "M80 Rádio",
-            logo: "stations/images-europe/portugal/M80 Rádio.svg",
-            url: "http://mcrwowza5.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8?rnd=22623.10219134147"
+            logo: "stations/images-europe/portugal/M80 Rádio.png",
+            url: "https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8"
         },
         {
             name: "Rádio Comercial",
             logo: "stations/images-europe/portugal/Rádio Comercial.png",
-            url: "http://mcrwowza3.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8?rnd=36276.07556961788"
+            url: "https://mcrwowza3.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8"
         },
         {
             name: "Rádio Renascença",
@@ -3056,7 +3066,7 @@ var stations = {
         {
             name: "TSF Rádio Notícias",
             logo: "stations/images-europe/portugal/TSF Rádio Notícias.png",
-            url: "http://tsfdirecto.tsf.pt/tsfdirecto.mp3"
+            url: "https://tsfdirecto.tsf.pt/tsfdirecto.aac"
         },
     ],
     "romania": [
