@@ -2274,7 +2274,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "mexicali": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
 };
 

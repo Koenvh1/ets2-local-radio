@@ -9423,6 +9423,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/eldorado-kttifmaac-ibc2?source=v7player"
         },
         {
+            name: "Power 98",
+            logo: "stations/images-america/mexico/mexicali/Power 98.png",
+            url: "http://s4.mexside.net:2126/;"
+        },
+        {
             name: "KYMZ 99.9",
             logo: "stations/images-america/yuma/KYMZ 99.9.png",
             url: "https://streamingv2.shoutcast.com/radio-sin-fronteras-somerton"
@@ -9951,7 +9956,7 @@ var stations_mexico = {
         {
             name: "El Heraldo Radio",
             logo: "stations/images-america/mexico/durango/heraldo.png",
-            url: "https://n06.radiojar.com/qdgxacanva0uv?rj-ttl=5&rj-tok=AAABdgTAj9EANGD6dU8pj8D0_Q"
+            url: "https://stream.radiojar.com/qdgxacanva0uv"
         },
         {
             name: "Lobos 88.7 FM",
@@ -10036,6 +10041,31 @@ var stations_mexico = {
             name: "More FM 106.7",
             logo: "stations/images-america/mexico/mexicali/More FM 106.7.png",
             url: "http://us10a.serverse.com:8183/stream"
+        },
+        {
+            name: "Buenísima 850",
+            logo: "stations/images-america/mexico/mexicali/Buenísima 850.png",
+            url: "https://streamssl.eu:2222/;stream"
+        },
+        {
+            name: "Radio Mexicana 910",
+            logo: "stations/images-america/mexico/mexicali/Radio Mexicana 910.png",
+            url: "https://streamssl.eu:2226/;stream"
+        },
+        {
+            name: "La Rocola 990",
+            logo: "stations/images-america/mexico/mexicali/La Rocola 990.png",
+            url: "https://sts.pergom.mx/XECL"
+        },
+        {
+            name: "Cadena 1190",
+            logo: "stations/images-america/mexico/mexicali/Cadena 1190.png",
+            url: "http://radio.cadenanoticias.com:8002/cadena1190"
+        },
+        {
+            name: "Vida 1370",
+            logo: "stations/images-america/mexico/mexicali/Vida 1370.png",
+            url: "https://streamssl.eu:2224/;stream"
         },
     ],
     "tijuana": [
