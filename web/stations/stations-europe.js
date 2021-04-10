@@ -3096,9 +3096,19 @@ var stations = {
             url: "http://astreaming.europafm.ro:8000/europafm_aacp48k"
         },
         {
+            name: "Itsy Bitsy FM",
+            logo: "stations/images-europe/romania/Itsy Bitsy FM.png",
+            url: "https://live.itsybitsy.ro:8443/itsybitsy"
+        },
+        {
             name: "Kiss FM",
             logo: "stations/images-europe/romania/Kiss FM.png",
             url: "https://live.kissfm.ro/kissfm.aacp"
+        },
+        {
+            name: "Magic FM",
+            logo: "stations/images-europe/romania/Magic FM.png",
+            url: "https://live.magicfm.ro/magicfm.aacp"
         },
         {
             name: "Național FM",
@@ -3111,7 +3121,17 @@ var stations = {
             url: "http://edge126.rdsnet.ro:84/profm/profm.mp3"
         },
         {
-            name: "Radio Trinitas",
+            name: "Radio Guerrilla",
+            logo: "stations/images-europe/romania/Radio Guerrilla.png",
+            url: "https://live.guerrillaradio.ro:8443/guerrilla.aac"
+        },
+        {
+            name: "Radio Impuls",
+            logo: "stations/images-europe/romania/Radio Impuls.png",
+            url: "https://live.radio-impuls.ro/stream"
+        },
+        {
+            name: "Radio TRINITAS",
             logo: "stations/images-europe/romania/Radio Trinitas.png",
             url: "http://live.radiotrinitas.ro:8000/;"
         },
@@ -3119,6 +3139,21 @@ var stations = {
             name: "Radio ZU",
             logo: "stations/images-europe/romania/Radio Zu.png",
             url: "https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8"
+        },
+        {
+            name: "RFI România",
+            logo: "stations/images-europe/romania/RFI România.png",
+            url: "https://asculta.rfi.ro:8443/live.aac"
+        },
+        {
+            name: "Rock FM",
+            logo: "stations/images-europe/romania/Rock FM.png",
+            url: "https://live.rockfm.ro/rockfm.aacp"
+        },
+        {
+            name: "TANĂNANA",
+            logo: "stations/images-europe/romania/TANĂNANA.png",
+            url: "http://live.tananana.ro:8010/stream-48.aac"
         },
         {
             name: "Virgin Radio",
