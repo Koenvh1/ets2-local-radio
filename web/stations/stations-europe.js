@@ -546,7 +546,7 @@ var stations = {
         },
         {
             name: "Flaixbac",
-            logo: "stations/images-europe/catalonia/Ràdio Flaixbac.png",
+            logo: "stations/images-europe/catalonia/Flaixbac.png",
             url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
         },
         {
@@ -3963,7 +3963,7 @@ var stations = {
         },
         {
             name: "KISS",
-            logo: "stations/images-europe/uk/KISS.png",
+            logo: "stations/images-europe/uk/Kiss.png",
             url: "https://stream-kiss.planetradio.co.uk/kissnational.aac"
         },
         {
@@ -3973,7 +3973,7 @@ var stations = {
         },
         {
             name: "KISSTORY",
-            logo: "stations/images-europe/uk/KISSTORY.png",
+            logo: "stations/images-europe/uk/Kisstory.png",
             url: "https://stream-kiss.planetradio.co.uk/kisstory.aac"
         },
         {
