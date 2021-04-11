@@ -4591,6 +4591,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
+            name: "103.9 Recuerdo",
+            logo: "stations/images-america/los_angeles/103.9 Recuerdo.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-krcdfmaac-imc2"
+        },
+        {
             name: "104.3 MYfm",
             logo: "stations/images-america/los_angeles/104.3 MYfm.png",
             url: "https://stream.revma.ihrhls.com/zc173/hls.m3u8"
@@ -4639,6 +4644,11 @@ var stations = {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
             url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
+        },
+        {
+            name: "URadio 690",
+            logo: "stations/images-america/san_diego/URadio 690.png",
+            url: "http://76.79.188.95:8000/ulive.mp3"
         },
         {
             name: "710 ESPN",
@@ -6669,6 +6679,11 @@ var stations = {
             name: "AM 590 The Answer",
             logo: "stations/images-america/riverside/AM 590 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
+        },
+        {
+            name: "URadio 690",
+            logo: "stations/images-america/san_diego/URadio 690.png",
+            url: "http://76.79.188.95:8000/ulive.mp3"
         },
         {
             name: "KBRT 740",
@@ -9409,6 +9424,11 @@ var stations = {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
             url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
+        },
+        {
+            name: "URadio 690",
+            logo: "stations/images-america/san_diego/URadio 690.png",
+            url: "http://76.79.188.95:8000/ulive.mp3"
         },
         {
             name: "Angels Radio AM 830",
