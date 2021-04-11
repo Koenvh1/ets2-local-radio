@@ -29,6 +29,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "baker": {
+        name: "Baker",
+        name_english: "Baker",
+        code: "us-ca",
+        relative_radius: 0.5
+    },
     "baker_city": {
         name: "Baker City",
         name_english: "Baker City",
@@ -45,7 +51,7 @@ var country_properties = {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "bellingham": {
         name: "Bellingham",
@@ -327,7 +333,7 @@ var country_properties = {
         name: "Las Vegas",
         name_english: "Las Vegas",
         code: "us-nv",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "leevining": {
         name: "Lee Vining",
@@ -364,6 +370,12 @@ var country_properties = {
         name_english: "South Lake Tahoe",
         code: "us-ca",
         relative_radius: 0.5
+    },
+    "ludlow": {
+        name: "Ludlow",
+        name_english: "Ludlow",
+        code: "us-ca",
+        relative_radius: 0.4
     },
     "mccall": {
         name: "McCall",
@@ -501,7 +513,7 @@ var country_properties = {
         name: "Riverside",
         name_english: "Riverside",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "roswell": {
         name: "Roswell",
@@ -677,6 +689,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
+    "victorville": {
+        name: "Victorville",
+        name_english: "Victorville",
+        code: "us-ca",
+        relative_radius: 0.45
+    },
     "wenatchee": {
         name: "Wenatchee",
         name_english: "Wenatchee",
@@ -742,6 +760,9 @@ var city_properties = {
     },
     "astoria": {
         relative_whitenoise: 0.75
+    },
+    "baker": {
+        relative_whitenoise: 0.85
     },
     "baker_city": {
         relative_whitenoise: 0.85
@@ -891,7 +912,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "las_vegas": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "leevining": {
         relative_whitenoise: 0.85
@@ -909,6 +930,9 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "ltahoe": {
+        relative_whitenoise: 0.85
+    },
+    "ludlow": {
         relative_whitenoise: 0.85
     },
     "mccall": {
@@ -1067,6 +1091,9 @@ var city_properties = {
     "vernal": {
         relative_whitenoise: 0.95
     },
+    "victorville": {
+        relative_whitenoise: 0.85
+    },
     "wenatchee": {
         relative_whitenoise: 0.85
     },
@@ -1092,6 +1119,14 @@ var city_properties = {
 
 //Cities from: https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever
 var cities = [
+    {
+        "gameName": "baker",
+        "realName": "Baker",
+        "country": "california",
+        "x": "-90919.7",
+        "y": "83.7424",
+        "z": "11180.3"
+    },
     {
         "gameName": "bakersfield",
         "realName": "Bakersfield",
@@ -1232,9 +1267,9 @@ var cities = [
         "gameName": "las_vegas",
         "realName": "Las Vegas",
         "country": "nevada",
-        "x": "-85750",
-        "y": "67.2275",
-        "z": "7502.84"
+        "x": "-85816.2",
+        "y": "76.7917",
+        "z": "5816.68"
     },
     {
         "gameName": "leevining",
@@ -1259,6 +1294,14 @@ var cities = [
         "x": "-105692",
         "y": "695.078",
         "z": "-10812.2"
+    },
+    {
+        "gameName": "ludlow",
+        "realName": "Ludlow",
+        "country": "california",
+        "x": "-90423.7",
+        "y": "122.505",
+        "z": "14670.1"
     },
     {
         "gameName": "oxnard",
@@ -1320,9 +1363,9 @@ var cities = [
         "gameName": "riverside",
         "realName": "Riverside",
         "country": "california",
-        "x": "-98135.7",
-        "y": "5.11605",
-        "z": "17353.7"
+        "x": "-99043.6",
+        "y": "38.0766",
+        "z": "17999.1"
     },
     {
         "gameName": "sacramento",
@@ -1859,6 +1902,14 @@ var cities = [
         "x": "-57321.6",
         "y": "131",
         "z": "-12804.7"
+    },
+    {
+        "gameName": "victorville",
+        "realName": "Victorville",
+        "country": "california",
+        "x": "-98494.6",
+        "y": "163.151",
+        "z": "15237.6"
     },
     {
         "gameName": "boise",
