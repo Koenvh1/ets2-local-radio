@@ -2671,7 +2671,7 @@ var stations = {
         {
             name: "NPO Radio 1",
             logo: "stations/images-europe/netherlands/NPO Radio 1.png",
-            url: "http://icecast.omroep.nl/radio1-bb-mp3"
+            url: "https://icecast.omroep.nl/radio1-bb-mp3"
         },
         {
             name: "NPO Radio 2",
@@ -2708,17 +2708,15 @@ var stations = {
             logo: "stations/images-europe/netherlands/100 NL.png",
             url: "http://stream.100p.nl/100pctnl.mp3",
         },
-        /*
         {
             name: "Arrow Classic Rock",
             logo: "stations/images-europe/netherlands/Arrow Classic Rock.jpg",
-            url: "http://91.221.151.155:80/;"
+            url: "https://stream.player.arrow.nl/arrow"
         },
-        */
         {
             name: "BNR Nieuwsradio",
-            logo: "stations/images-europe/netherlands/BNR Nieuwsradio.svg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIO.mp3",
+            logo: "stations/images-europe/netherlands/BNR Nieuwsradio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIOAAC_SC",
         },
         {
             name: "FunX",
@@ -2726,29 +2724,39 @@ var stations = {
             url: "http://icecast.omroep.nl/funx-bb-mp3"
         },
         {
-            name: "GrootNieuwsRadio",
-            logo: "stations/images-europe/netherlands/GrootNieuwsRadio.png",
+            name: "Groot Nieuws Radio",
+            logo: "stations/images-europe/netherlands/Groot Nieuws Radio.png",
             url: "http://grootnieuwsradio.streampartner.nl:8000/live"
         },
         {
             name: "Q-Music",
-            logo: "stations/images-europe/netherlands/Q-Music.svg",
+            logo: "stations/images-europe/netherlands/Q-Music.png",
             url: "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_32.aac",
+        },
+        {
+            name: "NH Radio",
+            logo: "stations/images-europe/netherlands/NH Radio.png",
+            url: "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3"
         },
         {
             name: "Radio 10",
             logo: "stations/images-europe/netherlands/Radio 10.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC_SC",
         },
         {
             name: "Radio 538",
             logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC_SC",
         },
         {
-            name: "Radio 538 Top 50",
-            logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3",
+            name: "538 TOP 50",
+            logo: "stations/images-europe/netherlands/538 TOP 50.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC_SC",
+        },
+        {
+            name: "Radio Decibel",
+            logo: "stations/images-europe/netherlands/Radio Decibel.png",
+            url: "https://stream.decibel.nl/decibel.mp3"
         },
         {
             name: "Radio Maria",
@@ -2758,7 +2766,7 @@ var stations = {
         {
             name: "Radio Veronica",
             logo: "stations/images-europe/netherlands/Radio Veronica.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC_SC"
         },
         {
             name: "RadioNL",
@@ -2766,19 +2774,19 @@ var stations = {
             url: "http://stream.radionl.fm/radionl",
         },
         {
-            name: "Sky Radio 101 FM",
-            logo: "stations/images-europe/netherlands/Sky Radio 101 FM.svg",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+            name: "Sky Radio",
+            logo: "stations/images-europe/netherlands/Sky Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC_SC",
         },
         {
-            name: "Slam!",
+            name: "SLAM!",
             logo: "stations/images-europe/netherlands/Slam!.png",
             url: "http://stream.slam.nl/slam",
         },
         {
             name: "Sublime FM",
             logo: "stations/images-europe/netherlands/Sublime FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEAAC_SC",
         },
     ],
     "nireland": [
