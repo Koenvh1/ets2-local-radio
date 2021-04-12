@@ -231,7 +231,7 @@ var country_properties = {
         name: "Gibraltar",
         name_english: "Gibraltar",
         code: "gi",
-        relative_radius: 1,
+        relative_radius: 0.5,
     },
     "greece": {
         name: "Ελλάδα",
@@ -1182,6 +1182,9 @@ var city_properties = {
     "vidin": {
         relative_radius: 0.77,
     },
+    "vigo": {
+        relative_radius: 0.5,
+    },
     "vik": {
         relative_radius: 1.4,
     },
@@ -1293,6 +1296,30 @@ var cities = [
         "x": "39005.8",
         "y": "113.234",
         "z": "-70673.2"
+    },
+    {
+        "gameName": "albacete",
+        "realName": "Albacete",
+        "country": "spain",
+        "x": "-58305.4",
+        "y": "70.0703",
+        "z": "58465.1"
+    },
+    {
+        "gameName": "almaraz",
+        "realName": "Almaraz",
+        "country": "spain",
+        "x": "-74583.6",
+        "y": "66.0508",
+        "z": "49536.4"
+    },
+    {
+        "gameName": "almeria",
+        "realName": "Almeria",
+        "country": "spain",
+        "x": "-63592",
+        "y": "82.9922",
+        "z": "69261.1"
     },
     {
         "gameName": "amsterdam",
@@ -1426,17 +1453,17 @@ var cities = [
         "gameName": "barcelona",
         "realName": "Barcelona",
         "country": "spain",
-        "x": "-38510",
-        "y": "141.66",
-        "z": "49926.6"
+        "x": "-38266.4",
+        "y": "82.9922",
+        "z": "48093.5"
     },
     {
         "gameName": "barcelona",
         "realName": "Barcelona",
         "country": "catalonia",
-        "x": "-38510",
-        "y": "141.66",
-        "z": "49926.6"
+        "x": "-38266.4",
+        "y": "82.9922",
+        "z": "48093.5"
     },
     {
         "gameName": "basel",
@@ -1530,17 +1557,17 @@ var cities = [
         "gameName": "bilbao",
         "realName": "Bilbao",
         "country": "spain",
-        "x": "-58174.8",
-        "y": "80.5313",
-        "z": "32488.9"
+        "x": "-58108.2",
+        "y": "116.25",
+        "z": "32949.6"
     },
     {
         "gameName": "bilbao",
         "realName": "Bilbao",
         "country": "basque",
-        "x": "-58174.8",
-        "y": "80.5313",
-        "z": "32488.9"
+        "x": "-58108.2",
+        "y": "116.25",
+        "z": "32949.6"
     },
     {
         "gameName": "birmingham",
@@ -3311,6 +3338,14 @@ var cities = [
         "z": "-52861.73"
     },
     {
+        "gameName": "mengibar",
+        "realName": "Mengibar",
+        "country": "spain",
+        "x": "-67814.9",
+        "y": "93.2773",
+        "z": "63139.8"
+    },
+    {
         "gameName": "metz",
         "realName": "Metz",
         "country": "france",
@@ -3783,12 +3818,12 @@ var cities = [
         "z": "3973.53"
     },
     {
-        "gameName": "puttgarden",
-        "realName": "Puttgarden",
-        "country": "germany-sh",
-        "x": "4001.17",
-        "y": "43.8906",
-        "z": "-21612.7"
+        "gameName": "almeria",
+        "realName": "Almeria",
+        "country": "spain",
+        "x": "-63592",
+        "y": "82.9922",
+        "z": "69261.1"
     },
     {
         "gameName": "puttgarden",
@@ -9342,12 +9377,28 @@ var cities_afromap = [
 
 var cities_tsm = [
     {
+        "gameName": "almaraz",
+        "realName": "Almaraz",
+        "country": "spain",
+        "x": "-74583.6",
+        "y": "66.0508",
+        "z": "49536.4"
+    },
+    {
         "gameName": "athen",
         "realName": "Athina",
         "country": "greece",
         "x": "59718.7",
         "y": "71.6016",
         "z": "69052.3"
+    },
+    {
+        "gameName": "badajoz",
+        "realName": "Badajoz",
+        "country": "spain",
+        "x": "-78679.5",
+        "y": "69.7055",
+        "z": "53325.3"
     },
     {
         "gameName": "bedous",
@@ -9374,12 +9425,20 @@ var cities_tsm = [
         "z": "83131.3"
     },
     {
+        "gameName": "coimbra",
+        "realName": "Coimbra",
+        "country": "portugal",
+        "x": "-86585",
+        "y": "82.9922",
+        "z": "44747"
+    },
+    {
         "gameName": "cordoba",
-        "realName": "Cordoba",
+        "realName": "Córdoba",
         "country": "spain",
-        "x": "-74354.7",
-        "y": "99.4922",
-        "z": "58555.6"
+        "x": "-74352",
+        "y": "82.9922",
+        "z": "61483"
     },
     {
         "gameName": "drama",
@@ -9409,9 +9468,9 @@ var cities_tsm = [
         "gameName": "faro",
         "realName": "Faro",
         "country": "portugal",
-        "x": "-87025.5",
-        "y": "56.7461",
-        "z": "63303"
+        "x": "-90480.2",
+        "y": "78.9922",
+        "z": "62485.7"
     },
     {
         "gameName": "gibraltar",
@@ -9425,9 +9484,9 @@ var cities_tsm = [
         "gameName": "gijon",
         "realName": "Gijón",
         "country": "spain",
-        "x": "-67959.9",
-        "y": "53.2539",
-        "z": "29506.7"
+        "x": "-70228",
+        "y": "81.6133",
+        "z": "29264"
     },
     {
         "gameName": "iraklio",
@@ -9489,33 +9548,25 @@ var cities_tsm = [
         "gameName": "lisboa",
         "realName": "Lisboa",
         "country": "portugal",
-        "x": "-89558.3",
-        "y": "52.0703",
-        "z": "51228.7"
+        "x": "-92720.2",
+        "y": "82.9922",
+        "z": "51001.9"
     },
     {
         "gameName": "madrid",
         "realName": "Madrid",
         "country": "spain",
-        "x": "-63567.2",
-        "y": "50",
-        "z": "52774.4"
+        "x": "-65397.7",
+        "y": "82.9922",
+        "z": "48721.1"
     },
     {
         "gameName": "malaga",
         "realName": "Malaga",
         "country": "spain",
-        "x": "-73654.5",
-        "y": "99.4922",
-        "z": "68008.5"
-    },
-    {
-        "gameName": "merida",
-        "realName": "Merida",
-        "country": "spain",
-        "x": "-78102.8",
-        "y": "77.8047",
-        "z": "52050.3"
+        "x": "-73044.2",
+        "y": "82.8164",
+        "z": "68830"
     },
     {
         "gameName": "murcia",
@@ -9524,6 +9575,14 @@ var cities_tsm = [
         "x": "-54158.5",
         "y": "44.1289",
         "z": "65264.6"
+    },
+    {
+        "gameName": "o_barco",
+        "realName": "O Barco",
+        "country": "spain",
+        "x": "-77271.8",
+        "y": "67.8281",
+        "z": "34199.9"
     },
     {
         "gameName": "patra",
@@ -9537,9 +9596,9 @@ var cities_tsm = [
         "gameName": "porto",
         "realName": "Porto",
         "country": "portugal",
-        "x": "-84282",
-        "y": "53.4102",
-        "z": "40186.4"
+        "x": "-85324.7",
+        "y": "115",
+        "z": "39550.9"
     },
     {
         "gameName": "preveza",
@@ -9553,9 +9612,9 @@ var cities_tsm = [
         "gameName": "salamanca",
         "realName": "Salamanca",
         "country": "spain",
-        "x": "-71863.8",
-        "y": "35.4727",
-        "z": "42379"
+        "x": "-73475.9",
+        "y": "82.9922",
+        "z": "43487.8"
     },
     {
         "gameName": "serres",
@@ -9569,9 +9628,17 @@ var cities_tsm = [
         "gameName": "sevilla",
         "realName": "Sevilla",
         "country": "spain",
-        "x": "-80132.5",
-        "y": "76.4883",
-        "z": "61591"
+        "x": "-79726",
+        "y": "82.9922",
+        "z": "62856"
+    },
+    {
+        "gameName": "sines",
+        "realName": "Sines",
+        "country": "portugal",
+        "x": "-91831.4",
+        "y": "61.457",
+        "z": "56468.6"
     },
     {
         "gameName": "sparti",
@@ -9612,14 +9679,6 @@ var cities_tsm = [
         "x": "-66636",
         "y": "56.0742",
         "z": "38485.7"
-    },
-    {
-        "gameName": "villanubla",
-        "realName": "Villanubla",
-        "country": "spain",
-        "x": "-68890.7",
-        "y": "90.2969",
-        "z": "37235.1"
     },
     {
         "gameName": "viseu",
