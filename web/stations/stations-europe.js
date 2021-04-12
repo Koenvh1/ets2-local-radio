@@ -292,39 +292,34 @@ var stations = {
     ],
     "belgium-nl": [
         {
-            name: "VRT Radio 1",
-            logo: "stations/images-europe/belgium-nl/VRT Radio 1.gif",
-            url: "http://icecast.vrtcdn.be/radio1-high.mp3"
+            name: "Radio 1",
+            logo: "stations/images-europe/belgium-nl/Radio 1.png",
+            url: "https://live-radio-cf-vrt.akamaized.net/groupb/live/47303075-8243-434b-8199-2e62cf4dd97a/live.isml/.m3u8"
         },
         {
-            name: "VRT Radio 2 Antwerpen",
-            logo: "stations/images-europe/belgium-nl/VRT Radio 2 Antwerpen.png",
-            url: "http://icecast.vrtcdn.be/ra2ant-high.mp3"
+            name: "Radio 2",
+            logo: "stations/images-europe/belgium-nl/Radio 2.png",
+            url: "https://live-radio-cf-vrt.akamaized.net/groupc/live/1e08f370-1f20-4807-aaa3-051c7f0d8359/live.isml/.m3u8"
         },
         {
-            name: "VRT Klara",
-            logo: "stations/images-europe/belgium-nl/VRT Klara.png",
-            url: "http://icecast.vrtcdn.be/klara-high.mp3"
+            name: "Klara",
+            logo: "stations/images-europe/belgium-nl/Klara.png",
+            url: "https://live-radio-cf-vrt.akamaized.net/groupa/live/a9f36fda-cb3c-4b4e-9405-a5bba55654c0/live.isml/.m3u8"
         },
         {
-            name: "VRT Studio Brussel",
-            logo: "stations/images-europe/belgium-nl/VRT Studio Brussel.png",
-            url: "http://icecast.vrtcdn.be/stubru-high.mp3"
-        },
-        {
-            name: "VRT MNM",
+            name: "MNM",
             logo: "stations/images-europe/belgium-nl/VRT MNM.png",
-            url: "http://icecast.vrtcdn.be/mnm-high.mp3"
+            url: "https://live-radio-cf-vrt.akamaized.net/groupa/live/68dc3b80-040e-4a75-a394-72f3bb7aff9a/live.isml/.m3u8"
+        },
+        {
+            name: "Studio Brussel",
+            logo: "stations/images-europe/belgium-nl/Studio Brussel.png",
+            url: "https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8"
         },
         {
             name: "Club FM",
             logo: "stations/images-europe/belgium-nl/Club FM.png",
-            url: "http://www.clubfmserver.be:8000/clubfm.mp3"
-        },
-        {
-            name: "Nostalgie (Vlaanderen)",
-            logo: "stations/images-europe/belgium-nl/Nostalgie.png",
-            url: "http://nostalgiewhatafeeling.ice.infomaniak.ch/nostalgiewhatafeeling-128.mp3"
+            url: "http://www.clubfmserver.be:8000/radioclubfm.mp3"
         },
         {
             name: "Family Radio",
@@ -332,51 +327,81 @@ var stations = {
             url: "http://www.clubfmserver.be:8000/family.mp3"
         },
         {
-            name: "Q-Music (Vlaanderen)",
-            logo: "stations/images-europe/belgium-nl/Q-Music.svg",
-            url: "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_64.aac?rnd=3680314053584514"
+            name: "Nostalgie",
+            logo: "stations/images-europe/belgium-nl/Nostalgie.png",
+            url: "https://streamingp.shoutcast.com/NostalgiePremium"
+        },
+        {
+            name: "NRJ België",
+            logo: "stations/images-europe/belgium-nl/Energy.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIEAAC_SC"
+        },
+        {
+            name: "Qmusic",
+            logo: "stations/images-europe/belgium-nl/Qmusic.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/QMUSICAAC_SC"
         },
         {
             name: "Radio FG",
             logo: "stations/images-europe/belgium-nl/Radio FG.png",
-            url: "http://radiofg.impek.com:80/fga"
+            url: "https://radiofg.impek.com/fga"
+        },
+        {
+            name: "Stadsradio Vlaanderen",
+            logo: "stations/images-europe/belgium-nl/Stadsradio Vlaanderen.png",
+            url: "http://randstad.wirelessbelgie.be:8330/stream.mp3"
         },
         {
             name: "TOPradio",
             logo: "stations/images-europe/belgium-nl/TOPradio.png",
-            url: "http://lb.topradio.be/topradio.mp3"
+            url: "https://str.topradio.be/topradio.aac"
         },
     ],
     "belgium-fr": [
         {
-            name: "RTBF La Première",
-            logo: "stations/images-europe/belgium-fr/RTBF La Première.png",
-            url: "http://radios.rtbf.be/laprem1ere-64.aac"
+            name: "La Première",
+            logo: "stations/images-europe/belgium-fr/La Première.png",
+            url: "https://radios.rtbf.be/laprem1ere-64.aac"
         },
         {
-            name: "RTBF Classic 21",
-            logo: "stations/images-europe/belgium-fr/RTBF Classic 21.png",
-            url: "http://radios.rtbf.be/classic21-64.aac"
+            name: "Classic 21",
+            logo: "stations/images-europe/belgium-fr/Classic 21.png",
+            url: "https://radios.rtbf.be/classic21-64.aac"
         },
         {
-            name: "RTBF Musiq 3",
-            logo: "stations/images-europe/belgium-fr/RTBF Musiq 3.png",
+            name: "Musiq 3",
+            logo: "stations/images-europe/belgium-fr/Musiq 3.png",
             url: "https://radios.rtbf.be/musiq3-128.aac"
         },
         {
-            name: "RTBF Pure FM",
-            logo: "stations/images-europe/belgium-fr/RTBF Pure FM.png",
-            url: "http://radios.rtbf.be/pure-64.aac"
+            name: "Tipik",
+            logo: "stations/images-europe/belgium-fr/Tipik.png",
+            url: "https://radios.rtbf.be/pure-64.aac"
         },
         {
-            name: "RTBF Vivacité",
-            logo: "stations/images-europe/belgium-fr/RTBF Vivacité.png",
+            name: "Vivacité",
+            logo: "stations/images-europe/belgium-fr/Vivacité.png",
             url: "http://radios.rtbf.be/vivabxl-64.aac"
         },
         {
             name: "Bel RTL",
-            logo: "stations/images-europe/belgium-fr/Bel RTL.jpg",
+            logo: "stations/images-europe/belgium-fr/Bel RTL.png",
             url: "http://audiostream.rtl.be/belrtl128"
+        },
+        {
+            name: "BRF1",
+            logo: "stations/images-europe/belgium-fr/BRF1.png",
+            url: "https://streaming.brf.be/brf1-high.mp3"
+        },
+        {
+            name: "BRF2",
+            logo: "stations/images-europe/belgium-fr/BRF2.svg",
+            url: "https://streaming.brf.be/brf2-high.mp3"
+        },
+        {
+            name: "DH Radio",
+            logo: "stations/images-europe/belgium-fr/DH Radio.png",
+            url: "https://stream.rcs.revma.com/th89pet3pzzuv"
         },
         {
             name: "Fun Radio",
@@ -384,29 +409,24 @@ var stations = {
             url: "http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
         },
         {
-            name: "Nostalgie",
-            logo: "stations/images-europe/belgium-fr/Nostalgie.png",
-            url: "https://streamingp.shoutcast.com/NostalgiePremium-mp3?aw_0_1st.playerid=nobe216web&aw_0_req.gdpr=true&&listenerid=1555254776"
+            name: "Joe",
+            logo: "stations/images-europe/belgium-fr/Joe.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/JOEAAC_SC"
         },
         {
-            name: "NRJ",
-            logo: "stations/images-europe/belgium-fr/NRJ.svg",
-            url: "https://streamingp.shoutcast.com/NRJ?gdpr=true&gdpr_consent=BOorpfjOorpfjAKAZBENCr-AAAArl7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-3zd4u_1vf99yfm1-7etr3tp_87ues2_Xur__79__3z3_9phP78k89r7337Ew-v-3o8LzBA&lang=nl&userref=AERiMm8YdO2fTjsxgmK4tMEXt98AWt1571491649943"
+            name: "Nostalgie",
+            logo: "stations/images-europe/belgium-fr/Nostalgie.png",
+            url: "https://streamingp.shoutcast.com/NostalgiePremium"
+        },
+        {
+            name: "NRJ Belgique",
+            logo: "stations/images-europe/belgium-fr/Energy.png",
+            url: "https://streamingp.shoutcast.com/NRJ-aac"
         },
         {
             name: "Radio Contact",
             logo: "stations/images-europe/belgium-fr/Radio Contact.png",
-            url: "http://audiostream.rtl.be/contactfr192"
-        },
-        {
-            name: "BRF1",
-            logo: "stations/images-europe/belgium-fr/BRF1.svg",
-            url: "https://streaming.brf.be/brf1-high.mp3"
-        },
-        {
-            name: "BRF2",
-            logo: "stations/images-europe/belgium-fr/BRF2.svg",
-            url: "https://streaming.brf.be/brf2-high.mp3"
+            url: "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3"
         },
     ],
     "bosnia": [
