@@ -2830,57 +2830,62 @@ var stations = {
         {
             name: "NRK P1",
             logo: "stations/images-europe/norway/NRK P1.png",
-            url: "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_h"
+            url: "https://nrklivep1osloakershus-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/60/0/hls/nrk_p1_oslo_akershus/playlist.m3u8"
         },
         {
             name: "NRK P1+",
-            logo: "stations/images-europe/norway/NRK P1 plus.svg",
-            url: "http://lyd.nrk.no:80/nrk_radio_p1pluss_mp3_h"
+            logo: "stations/images-europe/norway/NRK P1 plus.png",
+            url: "https://nrk-p1pluss.akamaized.net/47/0/hls/nrk_p1_pluss/playlist.m3u8"
         },
         {
             name: "NRK P2",
             logo: "stations/images-europe/norway/NRK P2.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_p2_mp3_h"
+            url: "https://nrklivep2-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/35/0/hls/nrk_p2/playlist.m3u8"
         },
         {
             name: "NRK P3",
             logo: "stations/images-europe/norway/NRK P3.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_p3_mp3_h"
+            url: "https://nrk-p3.akamaized.net/36/0/hls/nrk_p3/playlist.m3u8"
         },
         {
             name: "NRK Klassisk",
             logo: "stations/images-europe/norway/NRK Klassisk.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_klassisk_mp3_h"
+            url: "https://nrk-klassisk.akamaized.net/42/0/hls/nrk_klassisk/playlist.m3u8"
         },
         {
             name: "NRK Alltid Nyheter",
             logo: "stations/images-europe/norway/NRK Alltid Nyheter.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_alltid_nyheter_mp3_h"
+            url: "https://nrklivealltidnyheter-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/40/0/hls/nrk_alltid_nyheter/playlist.m3u8"
         },
         {
             name: "NRK Folkemusikk",
-            logo: "stations/images-europe/norway/NRK Folkemusikk.svg",
-            url: "http://lyd.nrk.no:80/nrk_radio_folkemusikk_mp3_h"
+            logo: "stations/images-europe/norway/NRK Folkemusikk.png",
+            url: "https://nrk-radio-live.telenorcdn.net/49/0/hls/nrk_folkemusikk/playlist.m3u8"
         },
         {
-            name: "NRK Sámi Radio",
-            logo: "stations/images-europe/norway/NRK Sámi Radio.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_sami_mp3_h"
+            name: "NRK Sápmi",
+            logo: "stations/images-europe/norway/NRK Sápmi.png",
+            url: "https://nrk-sapmi.akamaized.net/43/0/hls/nrk_sami_radio/playlist.m3u8"
         },
         {
             name: "NRK Jazz",
-            logo: "stations/images-europe/norway/NRK Jazz.svg",
-            url: "http://lyd.nrk.no:80/nrk_radio_jazz_mp3_h"
+            logo: "stations/images-europe/norway/NRK Jazz.png",
+            url: "https://nrk-radio-live.telenorcdn.net/48/0/hls/nrk_jazz/playlist.m3u8"
         },
         {
             name: "NRK P13",
-            logo: "stations/images-europe/norway/NRK P13.svg",
-            url: "http://lyd.nrk.no:80/nrk_radio_p13_mp3_h"
+            logo: "stations/images-europe/norway/NRK P13.png",
+            url: "https://nrk-p13.akamaized.net/44/0/hls/nrk_p13/playlist.m3u8"
         },
         {
             name: "NRK mP3",
             logo: "stations/images-europe/norway/NRK mP3.png",
-            url: "http://lyd.nrk.no:80/nrk_radio_mp3_mp3_m"
+            url: "https://nrk-mp3.akamaized.net/41/0/hls/nrk_mp3/playlist.m3u8"
+        },
+        {
+            name: "KISS",
+            logo: "stations/images-europe/norway/KISS.png",
+            url: "https://live-bauerno.sharp-stream.com/kiss_no_aac"
         },
         {
             name: "P4",
@@ -2918,29 +2923,44 @@ var stations = {
             url: "https://p10.p4groupaudio.com/P10_MM"
         },
         {
-            name: "NRJ",
-            logo: "stations/images-europe/norway/NRJ.svg",
+            name: "NRJ Norge",
+            logo: "stations/images-europe/norway/Energy.png",
             url: "https://nrj.p4groupaudio.com/NRJ_MM"
         },
         {
-            name: "Norsk pop",
-            logo: "stations/images-europe/norway/Norsk pop.jpg",
-            url: "https://live-bauerno.sharp-stream.com/norskpop_no_mp3"
+            name: "Norsk Pop",
+            logo: "stations/images-europe/norway/Norsk Pop.png",
+            url: "https://live-bauerno.sharp-stream.com/norskpop_no_aac"
+        },
+        {
+            name: "P24-7 Mix",
+            logo: "stations/images-europe/norway/P24-7 Mix.png",
+            url: "https://live-bauerno.sharp-stream.com/p247mix_no_aac"
+        },
+        {
+            name: "Radio 1",
+            logo: "stations/images-europe/norway/Radio 1.png",
+            url: "http://live-bauerno.sharp-stream.com/radio1_no_aac"
         },
         {
             name: "Radio Norge",
             logo: "stations/images-europe/norway/Radio Norge.png",
-            url: "https://live-bauerno.sharp-stream.com/radionorge_no_mp3"
+            url: "http://live-bauerno.sharp-stream.com/radionorge_no_aac"
         },
         {
-            name: "Radio Vinyl",
-            logo: "stations/images-europe/norway/Radio Vinyl.jpg",
-            url: "http://edge-bauerno-03-gos2.sharp-stream.com/vinyl_no_mp3"
+            name: "Radio ROCK",
+            logo: "stations/images-europe/norway/Radio ROCK.png",
+            url: "http://live-bauerno.sharp-stream.com/radiorock_no_aac"
         },
         {
             name: "Topp 40",
-            logo: "stations/images-europe/norway/Topp 40.jpg",
-            url: "https://live-bauerno.sharp-stream.com/top40_no_mp3"
+            logo: "stations/images-europe/norway/Topp 40.png",
+            url: "https://live-bauerno.sharp-stream.com/top40_no_aac"
+        },
+        {
+            name: "Vinyl",
+            logo: "stations/images-europe/norway/Vinyl.png",
+            url: "https://live-bauerno.sharp-stream.com/vinyl_no_aac"
         },
     ],
     "poland": [
