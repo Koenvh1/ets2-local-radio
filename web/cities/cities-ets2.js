@@ -1255,6 +1255,14 @@ var cities = [
         "z": "-55270.3"
     },
     {
+        "gameName": "a_coruna",
+        "realName": "A Coruna",
+        "country": "spain",
+        "x": "-82022.2",
+        "y": "82.3516",
+        "z": "26714.3"
+    },
+    {
         "gameName": "airolo",
         "realName": "Airolo",
         "country": "switzerland-it",
@@ -4501,6 +4509,14 @@ var cities = [
         "x": "44214.6",
         "y": "109.898",
         "z": "-72353.1"
+    },
+    {
+        "gameName": "vigo",
+        "realName": "Vigo",
+        "country": "spain",
+        "x": "-84721.4",
+        "y": "82.9922",
+        "z": "32600.7"
     },
     {
         "gameName": "vik",
