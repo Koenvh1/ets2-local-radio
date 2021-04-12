@@ -27885,8 +27885,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOTHD2_SC"
         },
         {
-            name: "93.1 WNOX",
-            logo: "stations/images-america/c2c/knoxville_tn/93.1 WNOX.png",
+            name: "Awesome 93.1",
+            logo: "stations/images-america/c2c/knoxville_tn/Awesome 93.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7699_128k.aac"
         },
         {
