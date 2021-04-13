@@ -473,6 +473,12 @@ var country_properties = {
         code: "es",
         relative_radius: 1,
     },
+    "spain-madrid": {
+        name: "España [Madrid]",
+        name_english: "Spain [Madrid]",
+        code: "es",
+        relative_radius: 1,
+    },
     "svalbard": {
         name: "Svalbard",
         name_english: "Svalbard",
@@ -9726,6 +9732,14 @@ var cities_tsm = [
         "gameName": "madrid",
         "realName": "Madrid",
         "country": "spain",
+        "x": "-65397.7",
+        "y": "82.9922",
+        "z": "48721.1"
+    },
+    {
+        "gameName": "madrid",
+        "realName": "Madrid",
+        "country": "spain-madrid",
         "x": "-65397.7",
         "y": "82.9922",
         "z": "48721.1"
