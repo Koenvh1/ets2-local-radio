@@ -3654,6 +3654,11 @@ var stations = {
             url: "https://eu1.lhdserver.es:8009/stream"
         },
         {
+            name: "Flow Radio",
+            logo: "stations/images-europe/spain/Flow Radio.png",
+            url: "http://37.187.76.127:8010/flow"
+        },
+        {
             name: "KISS FM",
             logo: "stations/images-europe/spain/KISS FM.png",
             url: "https://kissfm.kissfmradio.cires21.com/kissfm.mp3"
@@ -3761,6 +3766,11 @@ var stations = {
             url: "https://eu1.lhdserver.es:8021/stream"
         },
         {
+            name: "Flow Radio Madrid 91.2",
+            logo: "stations/images-europe/spain-madrid/Flow Radio Madrid 91.2.png",
+            url: "http://st2.sytes.net:8010/flow_mad"
+        },
+        {
             name: "Radio Tentación 91.4",
             logo: "stations/images-europe/spain-madrid/Radio Tentación 91.4.png",
             url: "http://88.26.228.190:8010/;"
@@ -3829,11 +3839,6 @@ var stations = {
             name: "COPE Madrid 106.3",
             logo: "stations/images-europe/spain-madrid/Cope.png",
             url: "https://flucast-b01-01.flumotion.com/cope/madrid.mp3"
-        },
-        {
-            name: "Flow Radio 106.5",
-            logo: "stations/images-europe/spain-madrid/Flow Radio 106.5.png",
-            url: "https://radiohd.streaminghd.co:7014/live"
         },
         {
             name: "Suena FM 107.2",
