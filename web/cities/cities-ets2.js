@@ -167,6 +167,12 @@ var country_properties = {
         code: "de",
         relative_radius: 1,
     },
+    "germany-bw": {
+        name: "Deutschland [Baden-Württemberg]",
+        name_english: "Germany [Baden-Württemberg]",
+        code: "de",
+        relative_radius: 1,
+    },
     "germany-hh": {
         name: "Deutschland [HH]",
         name_english: "Germany [HH]",
@@ -179,9 +185,21 @@ var country_properties = {
         code: "de",
         relative_radius: 1,
     },
+    "germany-koeln": {
+        name: "Deutschland [Köln]",
+        name_english: "Germany [Köln]",
+        code: "de",
+        relative_radius: 1,
+    },
     "germany-mdr": {
         name: "Deutschland [MDR]",
         name_english: "Germany [MDR]",
+        code: "de",
+        relative_radius: 1,
+    },
+    "germany-muenchen": {
+        name: "Deutschland [München]",
+        name_english: "Germany [München]",
         code: "de",
         relative_radius: 1,
     },
@@ -209,6 +227,24 @@ var country_properties = {
         code: "de",
         relative_radius: 1,
     },
+    "germany-rp": {
+        name: "Deutschland [Rheinland-Pfalz]",
+        name_english: "Germany [Rheinland-Pfalz]",
+        code: "de",
+        relative_radius: 1,
+    },
+    "germany-sachsen": {
+        name: "Deutschland [Sachsen]",
+        name_english: "Germany [Sachsen]",
+        code: "de",
+        relative_radius: 1,
+    },
+    "germany-sachsen_anhalt": {
+        name: "Deutschland [Sachsen-Anhalt]",
+        name_english: "Germany [Sachsen-Anhalt]",
+        code: "de",
+        relative_radius: 1,
+    },
     "germany-sh": {
         name: "Deutschland [SH]",
         name_english: "Germany [SH]",
@@ -218,6 +254,12 @@ var country_properties = {
     "germany-swr": {
         name: "Deutschland [SWR]",
         name_english: "Germany [SWR]",
+        code: "de",
+        relative_radius: 1,
+    },
+    "germany-thueringen": {
+        name: "Deutschland [Thüringen]",
+        name_english: "Germany [Thüringen]",
         code: "de",
         relative_radius: 1,
     },
@@ -450,7 +492,7 @@ var country_properties = {
         relative_radius: 0.8,
     },
     "switzerland-de": {
-        name: "Die Schweiz",
+        name: "Schweiz",
         name_english: "Switzerland (DE)",
         code: "ch",
         relative_radius: 0.8,
@@ -1628,6 +1670,14 @@ var cities = [
     {
         "gameName": "bonn",
         "realName": "Bonn",
+        "country": "germany-koeln",
+        "x": "-12498.27",
+        "y": "42.51",
+        "z": "-467.13"
+    },
+    {
+        "gameName": "bonn",
+        "realName": "Bonn",
         "country": "germany-wdr",
         "x": "-12498.27",
         "y": "42.51",
@@ -2028,6 +2078,14 @@ var cities = [
     {
         "gameName": "dresden",
         "realName": "Dresden",
+        "country": "germany-sachsen",
+        "x": "12411.8",
+        "y": "101.914",
+        "z": "-1606.27"
+    },
+    {
+        "gameName": "dresden",
+        "realName": "Dresden",
         "country": "germany",
         "x": "12411.8",
         "y": "101.914",
@@ -2109,6 +2167,14 @@ var cities = [
         "gameName": "erfurt",
         "realName": "Erfurt",
         "country": "germany-mdr",
+        "x": "2436.19",
+        "y": "101.914",
+        "z": "-1733.77"
+    },
+    {
+        "gameName": "erfurt",
+        "realName": "Erfurt",
+        "country": "germany-thueringen",
         "x": "2436.19",
         "y": "101.914",
         "z": "-1733.77"
@@ -2460,6 +2526,14 @@ var cities = [
     {
         "gameName": "halle",
         "realName": "Halle (Saale)",
+        "country": "germany-sachsen_anhalt",
+        "x": "5833.82",
+        "y": "84.0977",
+        "z": "-5407.88"
+    },
+    {
+        "gameName": "halle",
+        "realName": "Halle (Saale)",
         "country": "germany",
         "x": "5833.82",
         "y": "84.0977",
@@ -2541,6 +2615,14 @@ var cities = [
         "gameName": "heilbronn",
         "realName": "Heilbronn",
         "country": "germany-swr",
+        "x": "-6325.54",
+        "y": "108.797",
+        "z": "8009.55"
+    },
+    {
+        "gameName": "heilbronn",
+        "realName": "Heilbronn",
+        "country": "germany-bw",
         "x": "-6325.54",
         "y": "108.797",
         "z": "8009.55"
@@ -2900,6 +2982,14 @@ var cities = [
     {
         "gameName": "koblenz",
         "realName": "Koblenz",
+        "country": "germany-rp",
+        "x": "-11350.14",
+        "y": "38.87",
+        "z": "1411.76"
+    },
+    {
+        "gameName": "koblenz",
+        "realName": "Koblenz",
         "country": "germany",
         "x": "-11350.14",
         "y": "38.87",
@@ -2928,6 +3018,14 @@ var cities = [
         "x": "39247.91",
         "y": "20.57",
         "z": "-40718.97"
+    },
+    {
+        "gameName": "koln",
+        "realName": "Köln",
+        "country": "germany-koeln",
+        "x": "-13150.8",
+        "y": "97.9297",
+        "z": "-2732.75"
     },
     {
         "gameName": "koln",
@@ -3045,6 +3143,14 @@ var cities = [
         "gameName": "leipzig",
         "realName": "Leipzig",
         "country": "germany-mdr",
+        "x": "7238.62",
+        "y": "101.914",
+        "z": "-3384.61"
+    },
+    {
+        "gameName": "leipzig",
+        "realName": "Leipzig",
+        "country": "germany-sachsen",
         "x": "7238.62",
         "y": "101.914",
         "z": "-3384.61"
@@ -3244,6 +3350,14 @@ var cities = [
     {
         "gameName": "magdeburg",
         "realName": "Magdeburg",
+        "country": "germany-sachsen_anhalt",
+        "x": "4484.25",
+        "y": "94.7773",
+        "z": "-7752.3"
+    },
+    {
+        "gameName": "magdeburg",
+        "realName": "Magdeburg",
         "country": "germany",
         "x": "4484.25",
         "y": "94.7773",
@@ -3253,6 +3367,14 @@ var cities = [
         "gameName": "mainz",
         "realName": "Mainz",
         "country": "germany-hr",
+        "x": "-10114.50",
+        "y": "33",
+        "z": "2678.53"
+    },
+    {
+        "gameName": "mainz",
+        "realName": "Mainz",
+        "country": "germany-rp",
         "x": "-10114.50",
         "y": "33",
         "z": "2678.53"
@@ -3285,6 +3407,14 @@ var cities = [
         "gameName": "mannheim",
         "realName": "Mannheim",
         "country": "germany-swr",
+        "x": "-7751.22",
+        "y": "88",
+        "z": "6075.05"
+    },
+    {
+        "gameName": "mannheim",
+        "realName": "Mannheim",
+        "country": "germany-rp",
         "x": "-7751.22",
         "y": "88",
         "z": "6075.05"
@@ -3397,6 +3527,14 @@ var cities = [
         "gameName": "munchen",
         "realName": "München",
         "country": "germany-br",
+        "x": "3179.07",
+        "y": "83.375",
+        "z": "14133"
+    },
+    {
+        "gameName": "munchen",
+        "realName": "München",
+        "country": "germany-muenchen",
         "x": "3179.07",
         "y": "83.375",
         "z": "14133"
@@ -3988,6 +4126,14 @@ var cities = [
     {
         "gameName": "sangerhausen",
         "realName": "Sangerhausen",
+        "country": "germany-sachsen_anhalt",
+        "x": "2204.59",
+        "y": "48",
+        "z": "-4672.66"
+    },
+    {
+        "gameName": "sangerhausen",
+        "realName": "Sangerhausen",
         "country": "germany",
         "x": "2204.59",
         "y": "48",
@@ -4173,6 +4319,14 @@ var cities = [
         "gameName": "stuttgart",
         "realName": "Stuttgart",
         "country": "germany-swr",
+        "x": "-4957.84",
+        "y": "101.973",
+        "z": "10047"
+    },
+    {
+        "gameName": "stuttgart",
+        "realName": "Stuttgart",
+        "country": "germany-bw",
         "x": "-4957.84",
         "y": "101.973",
         "z": "10047"
@@ -4389,6 +4543,14 @@ var cities = [
         "gameName": "ulm",
         "realName": "Ulm",
         "country": "germany-swr",
+        "x": "-2928.57",
+        "y": "88.75",
+        "z": "12657"
+    },
+    {
+        "gameName": "ulm",
+        "realName": "Ulm",
+        "country": "germany-bw",
         "x": "-2928.57",
         "y": "88.75",
         "z": "12657"
@@ -7091,6 +7253,14 @@ var cities_pm250 = [
         "gameName": "chemnitz",
         "realName": "Chemnitz",
         "country": "germany",
+        "x": "8381.26",
+        "y": "54.168",
+        "z": "196.84"
+    },
+    {
+        "gameName": "chemnitz",
+        "realName": "Chemnitz",
+        "country": "germany-sachsen",
         "x": "8381.26",
         "y": "54.168",
         "z": "196.84"
