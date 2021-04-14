@@ -191,19 +191,14 @@ var stations = {
     ],
     "basque": [
         {
-            name: "Euskadi Irratia",
-            logo: "stations/images-europe/basque/Euskadi Irratia.png",
-            url: "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
-        },
-        {
             name: "Radio Euskadi",
             logo: "stations/images-europe/basque/Radio Euskadi.png",
             url: "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3"
         },
         {
-            name: "Gaztea",
-            logo: "stations/images-europe/basque/Gaztea.png",
-            url: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
+            name: "Euskadi Irratia",
+            logo: "stations/images-europe/basque/Euskadi Irratia.png",
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3"
         },
         {
             name: "EITB Musika",
@@ -211,14 +206,34 @@ var stations = {
             url: "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3"
         },
         {
-            name: "Bizkaia Irratia FM",
-            logo: "stations/images-europe/basque/Bizkaia Irratia FM.png",
+            name: "Arrate Irratia",
+            logo: "stations/images-europe/basque/Arrate Irratia.png",
+            url: "http://radio1.tecnicofm.com:8002/;"
+        },
+        {
+            name: "Bizkaia Irratia",
+            logo: "stations/images-europe/basque/Bizkaia Irratia.png",
             url: "https://nerbioi.radiopopular.eus/bizkaiairratia2"
         },
         {
-            name: "Radio 7",
-            logo: "stations/images-europe/basque/Radio 7.jpg",
-            url: "https://radio7.streaming-pro.com:6146/radio7.mp3"
+            name: "Gaztea",
+            logo: "stations/images-europe/basque/Gaztea.png",
+            url: "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3"
+        },
+        {
+            name: "Naiz Irratia",
+            logo: "stations/images-europe/basque/Naiz Irratia.png",
+            url: "https://zuzenean.naiz.eus/naiz_irratia.mp3"
+        },
+        {
+            name: "Radio Nervión",
+            logo: "stations/images-europe/basque/Radio Nervión.png",
+            url: "https://radionervion.streaming-pro.com:6132/radionervion"
+        },
+        {
+            name: "Radio Popular",
+            logo: "stations/images-europe/basque/Radio Popular.png",
+            url: "https://nerbioi.radiopopular.eus/radiopopular3"
         },
     ],
     "belarus": [
@@ -3746,7 +3761,7 @@ var stations = {
             url: "https://streamprivate.live:10917/live"
         },
         {
-            name: "PEPERADIO 89.3",
+            name: "Pepe Radio 89.3",
             logo: "stations/images-europe/spain-madrid/Pepe Radio 89.3.png",
             url: "https://server10.emitironline.com:8032/"
         },

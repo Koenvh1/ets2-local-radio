@@ -9732,17 +9732,17 @@ var cities_tsm = [
         "gameName": "madrid",
         "realName": "Madrid",
         "country": "spain",
-        "x": "-65397.7",
-        "y": "82.9922",
-        "z": "48721.1"
+       "x": "-65397.7",
+        "y": "131.006",
+        "z": "49032.6"
     },
     {
         "gameName": "madrid",
         "realName": "Madrid",
         "country": "spain-madrid",
         "x": "-65397.7",
-        "y": "82.9922",
-        "z": "48721.1"
+        "y": "131.006",
+        "z": "49032.6"
     },
     {
         "gameName": "malaga",
