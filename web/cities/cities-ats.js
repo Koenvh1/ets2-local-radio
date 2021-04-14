@@ -509,6 +509,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 0.8
     },
+    "ridgecrest": {
+        name: "Ridgecrest",
+        name_english: "Ridgecrest",
+        code: "us-ca",
+        relative_radius: 0.5
+    },
     "riverside": {
         name: "Riverside",
         name_english: "Riverside",
@@ -1001,6 +1007,9 @@ var city_properties = {
     "reno": {
         relative_whitenoise: 0.80
     },
+    "ridgecrest": {
+        relative_whitenoise: 0.85
+    },
     "riverside": {
         relative_whitenoise: 0.85
     },
@@ -1358,6 +1367,14 @@ var cities = [
         "x": "-99918.2",
         "y": "191.806",
         "z": "-18717.4"
+    },
+    {
+        "gameName": "ridgecrest",
+        "realName": "Ridgecrest",
+        "country": "california",
+        "x": "-98773.3",
+        "y": "18.5564",
+        "z": "6136.26"
     },
     {
         "gameName": "riverside",

@@ -6589,6 +6589,88 @@ var stations = {
             url: "http://streamer.radio.co/s01995b9a1/listen"
         },
     ],
+    "ridgecrest": [
+        {
+            name: "KNPR 88.1",
+            logo: "stations/images-america/nevada/KNPR.svg",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
+        },
+        {
+            name: "Air1 88.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
+            name: "Radio 74 89.3",
+            logo: "stations/images-america/lakeview/Radio 74.png",
+            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
+            name: "92.7 Qlite",
+            logo: "stations/images-america/ridgecrest/92.7 Qlite.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio63.php"
+        },
+        {
+            name: "Z93.7",
+            logo: "stations/images-america/ridgecrest/Z93.7.png",
+            url: "https://streaming.live365.com/a41027"
+        },
+        {
+            name: "BOB FM 103.9 - 94.3",
+            logo: "stations/images-america/kramer_junction/BOB FM 103.9.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio60.php"
+        },
+        {
+            name: "KOST 103.5 - 94.7",
+            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
+        },
+        {
+            name: "94.7 The Wave - 96.7",
+            logo: "stations/images-america/los_angeles/94.7 The Wave.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTWVFMAAC_SC"
+        },
+        {
+            name: "95.5 KLOS - 98.9",
+            logo: "stations/images-america/los_angeles/95.5 KLOS.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
+        },
+        {
+            name: "KPFK 90.7 - 99.5",
+            logo: "stations/images-america/los_angeles/KPFK 90.7.png",
+            url: "https://ic1.sslstream.com/kpfk-fm.mp3"
+        },
+        {
+            name: "KCRW 100.1",
+            logo: "stations/images-america/0_general_logos/KCRW.png",
+            url: "http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air"
+        },
+        {
+            name: "100.9 The Heat",
+            logo: "stations/images-america/kramer_junction/100.9 The Heat.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio61.php"
+        },
+        {
+            name: "KePadre 104.9",
+            logo: "stations/images-america/kramer_junction/KePadre 104.9.png",
+            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio62.php"
+        },
+        {
+            name: "Classical 107.1",
+            logo: "stations/images-america/las_vegas/Classical 89.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNVFMAAC_SC"
+        },
+        {
+            name: "KUZZ 550",
+            logo: "stations/images-america/bakersfield/KUZZ 107.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC"
+        },
+        {
+            name: "FOX Sports 610",
+            logo: "stations/images-america/barstow/Fox Sports 610.png",
+            url: "https://ice8.securenetsystems.net/KAVL"
+        },
+    ],
     "riverside": [
         {
             name: "KUCR 88.3",
