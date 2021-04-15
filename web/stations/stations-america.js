@@ -19350,14 +19350,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFMAAC_SC"
         },
         {
-            name: "Go 95.3",
-            logo: "stations/images-america/c2c/minneapolis_mn/Go 95.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZGOFMAAC_SC"
+            name: "praiseLive 95.3",
+            logo: "stations/images-america/c2c/minneapolis_mn/praiseLive 95.3.png",
+            url: "https://ais-sa1.streamon.fm/7143_64k.aac"
         },
         {
-            name: "Go 96.3",
-            logo: "stations/images-america/c2c/minneapolis_mn/Go 96.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTWNFMAAC_SC"
+            name: "Air1 96.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
             name: "Cities 97.1",
@@ -19410,7 +19410,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
-            name: "Hot 102.5",
+            name: "HOT 102.5",
             logo: "stations/images-america/c2c/minneapolis_mn/Hot 102.5.png",
             url: "https://stream.revma.ihrhls.com/zc6913/hls.m3u8"
         },
