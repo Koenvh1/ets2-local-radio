@@ -4516,8 +4516,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/sbsystems-kxolfmaac-ib-64"
         },
         {
-            name: "97.1 AMP Radio",
-            logo: "stations/images-america/los_angeles/97.1 AMP Radio.png",
+            name: "97.1 NOW!",
+            logo: "stations/images-america/los_angeles/97.1 NOW!.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPFMAAC_SC"
         },
         {
