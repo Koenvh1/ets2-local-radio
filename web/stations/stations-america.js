@@ -10682,8 +10682,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3081/hls.m3u8"
         },
         {
-            name: "97.3 Play",
-            logo: "stations/images-america/c2c/birmingham_al/97.3 Play.png",
+            name: "Mix 97.3",
+            logo: "stations/images-america/c2c/birmingham_al/Mix 97.3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPYAFMAAC_SC"
         },
         {
@@ -19345,7 +19345,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPAMAAC_SC"
         },
         {
-            name: "KS95 94.5",
+            name: "KS95",
             logo: "stations/images-america/c2c/minneapolis_mn/KS95.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTPFMAAC_SC"
         },
