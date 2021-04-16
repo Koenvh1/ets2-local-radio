@@ -1354,6 +1354,14 @@ var cities = [
         "z": "58465.1"
     },
     {
+        "gameName": "algeciras",
+        "realName": "Algeciras",
+        "country": "spain",
+        "x": "-79942.5",
+        "y": "82.9922",
+        "z": "70281.5"
+    },
+    {
         "gameName": "almaraz",
         "realName": "Almaraz",
         "country": "spain",

@@ -2061,22 +2061,22 @@ var stations = {
         {
             name: "BFBS Gibraltar",
             logo: "stations/images-europe/gibraltar/BFBS Gibraltar.png",
-            url: "https://tx.sharp-stream.com/http_live.php?i=ssvcbfbs7.aac&device=bfbs_gibraltar"
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac"
         },
         {
             name: "BFBS Radio 2",
             logo: "stations/images-europe/gibraltar/BFBS Radio 2.png",
-            url: "https://tx.sharp-stream.com/http_live.php?i=ssvcbfbs2.aac&device=bfbs_radio2"
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac"
         },
         {
             name: "Radio Gibraltar",
-            logo: "stations/images-europe/gibraltar/Radio Gibraltar.jpg",
-            url: "http://37.123.118.13:8041/stream"
+            logo: "stations/images-europe/gibraltar/Radio Gibraltar.png",
+            url: "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream"
         },
         {
-            name: "Radio Gibraltar Plus",
-            logo: "stations/images-europe/gibraltar/Radio Gibraltar.jpg",
-            url: "http://s2.myradiostream.com:32910/;stream.nsv&type=mp3"
+            name: "Radio Gibraltar PLUS",
+            logo: "stations/images-europe/gibraltar/Radio Gibraltar Plus.png",
+            url: "https://s2.myradiostream.com/32910/listen.mp3"
         },
     ],
     "greece": [
