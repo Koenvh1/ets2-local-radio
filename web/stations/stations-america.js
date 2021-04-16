@@ -5992,6 +5992,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KGONHD2AAC_SC"
         },
         {
+            name: "93.1 El Rey",
+            logo: "stations/images-america/portland/93.1 El Rey.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRYPFMAAC_SC"
+        },
+        {
             name: "94.7 FM",
             logo: "stations/images-america/portland/94.7 FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNRKFMAAC_SC"
@@ -8269,8 +8274,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNDDFMAAC_SC"
         },
         {
-            name: "KVI AM 570",
-            logo: "stations/images-america/seattle/KVI AM 570.png",
+            name: "570 KVI",
+            logo: "stations/images-america/seattle/570 KVI.png",
             url: "https://live.wostreaming.net/manifest/sinclair-kviamaac-ibc2"
         },
         {
@@ -8317,6 +8322,11 @@ var stations = {
             name: "1420 KITI",
             logo: "stations/images-america/seattle/1420 KITI.png",
             url: "https://live.wostreaming.net/manifest/premierbroadcasters-kitiamaac-ibc1"
+        },
+        {
+            name: "La Patrona 1680",
+            logo: "stations/images-america/seattle/La Patrona 1680.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNTSAMAAC_SC"
         },
     ],
     "show_low": [
