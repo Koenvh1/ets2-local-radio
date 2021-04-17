@@ -327,7 +327,7 @@ var country_properties = {
         name: "Las Cruces",
         name_english: "Las Cruces",
         code: "us-nm",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "las_vegas": {
         name: "Las Vegas",
@@ -4040,7 +4040,7 @@ var country_properties_c2c = {
         name: "elpaso",
         name_english: "elpaso",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "houston": {
         name: "houston",
@@ -6845,9 +6845,9 @@ var cities_c2c = [
         "gameName": "elpaso",
         "realName": "El Paso",
         "country": "texas",
-        "x": "-49342.9",
-        "y": "116.93",
-        "z": "37139"
+        "x": "-51000",
+        "y": "113.516",
+        "z": "37944.1"
     },
     {
         "gameName": "houston",

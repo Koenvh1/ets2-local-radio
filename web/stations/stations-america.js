@@ -2397,11 +2397,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
         },
         {
-            name: "98.7 KRTZ",
-            logo: "stations/images-america/durango/98.7 KRTZ.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
-        },
-        {
             name: "KLJH 107.1",
             logo: "stations/images-america/farmington/KLJH 107.1.png",
             url: "http://69.39.14.19:8002/kljh"
@@ -8058,6 +8053,11 @@ var stations = {
             name: "1220 KDOW",
             logo: "stations/images-america/san_francisco/1220 KDOW.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAMAAC_SC"
+        },
+        {
+            name: "KEST 1450",
+            logo: "stations/images-america/san_francisco/KEST 1450.png",
+            url: "http://radiokest.serverroom.us:6670/stream.mp3"
         },
     ],
     "san_simon": [
@@ -21501,14 +21501,44 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
         },
         {
+            name: "95.9 Outlaw Country",
+            logo: "stations/images-america/c2c/kalispell_mt/95.9 Outlaw Country.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice6.securenetsystems.net/KHNK"
+        },
+        {
+            name: "B98",
+            logo: "stations/images-america/c2c/kalispell_mt/B98.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice6.securenetsystems.net/KBBZ"
+        },
+        {
             name: "Montana Radio Cafe 101.9",
             logo: "stations/images-america/c2c/kalispell_mt/Montana Radio Cafe 101.9.png",
             url: "http://138.68.48.163:8000/kxzi"
         },
         {
+            name: "102.7 KSAM",
+            logo: "stations/images-america/c2c/kalispell_mt/102.7 KSAM.png",
+            url: "https://ice23.securenetsystems.net/KSAMAM"
+        },
+        {
+            name: "103.1 The River",
+            logo: "stations/images-america/c2c/kalispell_mt/103.1 The River.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice6.securenetsystems.net/KRVO"
+        },
+        {
             name: "Boomer 104",
             logo: "stations/images-america/0_general_logos/Boomer Radio.png",
             url: "http://5.135.158.214:14364/;"
+        },
+        {
+            name: "KOOL 105.1",
+            logo: "stations/images-america/c2c/kalispell_mt/KOOL 105.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice6.securenetsystems.net/KWOL"
+        },
+        {
+            name: "106.3 The Bear",
+            logo: "stations/images-america/c2c/kalispell_mt/106.3 The Bear.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice23.securenetsystems.net/KDBR"
         },
         {
             name: "107.9 KJJR",
