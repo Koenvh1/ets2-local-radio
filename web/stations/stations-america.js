@@ -12849,6 +12849,11 @@ var stations_c2c = {
             url: "http://s9.voscast.com:7024/;"
         },
         {
+            name: "K92.3",
+            logo: "stations/images-america/c2c/orlando_fl/K92.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl923/orl923-sgplayer-aac"
+        },
+        {
             name: "93.1 WFLA",
             logo: "stations/images-america/c2c/orlando_fl/93.1 WFLA.png",
             url: "https://stream.revma.ihrhls.com/zc589/hls.m3u8"
@@ -12864,6 +12869,11 @@ var stations_c2c = {
             url: "http://stream.broadcastserver.net:8010/stream"
         },
         {
+            name: "Star 94.5",
+            logo: "stations/images-america/c2c/orlando_fl/Star 94.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl945/orl945-sgplayer-aac"
+        },
+        {
             name: "94.9 The Answer",
             logo: "stations/images-america/c2c/orlando_fl/94.9 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WORLAMAAC_SC"
@@ -12877,6 +12887,11 @@ var stations_c2c = {
             name: "HOT 95.9",
             logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
             url: "https://ice.zradio.org/h/high.mp3"
+        },
+        {
+            name: "Éxitos 96.5",
+            logo: "stations/images-america/c2c/orlando_fl/Éxitos 96.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
         },
         {
             name: "96.9 The Game",
@@ -12907,6 +12922,11 @@ var stations_c2c = {
             name: "98.5 The Wire",
             logo: "stations/images-america/c2c/orlando_fl/98.5 The Wire.png",
             url: "https://whpb.radioca.st/stream"
+        },
+        {
+            name: "98.9 WMMO",
+            logo: "stations/images-america/c2c/orlando_fl/98.9 WMMO.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl989/orl989-sgplayer-aac"
         },
         {
             name: "Viva FM 99.5",
@@ -13362,6 +13382,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLLDFMAAC_SC"
         },
         {
+            name: "Magic 94.9",
+            logo: "stations/images-america/c2c/tampa_fl/Magic 94.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam949/tam949-sgplayer-aac"
+        },
+        {
             name: "95.3 WDAE",
             logo: "stations/images-america/c2c/tampa_fl/95.3 WDAE.png",
             url: "https://stream.revma.ihrhls.com/zc673/hls.m3u8"
@@ -13375,6 +13400,11 @@ var stations_c2c = {
             name: "ALT 95.7-HD2",
             logo: "stations/images-america/0_general_logos/ALT Radio.png",
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
+        {
+            name: "97X",
+            logo: "stations/images-america/c2c/tampa_fl/97X.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam971/tam971-sgplayer-aac"
         },
         {
             name: "98ROCK",
@@ -13412,6 +13442,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6434/hls.m3u8"
         },
         {
+            name: "HOT 101.5",
+            logo: "stations/images-america/c2c/tampa_fl/HOT 101.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam1015/tam1015-sgplayer-aac"
+        },
+        {
             name: "102.5 The Bone",
             logo: "stations/images-america/c2c/tampa_fl/102.5 The Bone.png",
             url: "https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac"
@@ -13432,6 +13467,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRBQFMAAC_SC"
         },
         {
+            name: "105.5 WDUV",
+            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam1055/tam1055-sgplayer-aac"
+        },
+        {
             name: "WFLA 105.9",
             logo: "stations/images-america/c2c/tampa_fl/WFLA 105.9.png",
             url: "https://stream.revma.ihrhls.com/zc2823/hls.m3u8"
@@ -13445,6 +13485,11 @@ var stations_c2c = {
             name: "106.9 Playa",
             logo: "stations/images-america/c2c/tampa_fl/106.9 Playa.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUHD2AAC_SC"
+        },
+        {
+            name: "107.3 The Eagle",
+            logo: "stations/images-america/c2c/tampa_fl/107.3 The Eagle.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam1073/tam1073-sgplayer-aac"
         },
         {
             name: "La Ley 107.7",
@@ -14462,6 +14507,11 @@ var stations_c2c = {
             name: "94.7 WLS",
             logo: "stations/images-america/c2c/chicago_il/94.7 WLS.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC_SC"
+        },
+        {
+            name: "Streetz 95",
+            logo: "stations/images-america/c2c/chicago_il/Streetz 95.png",
+            url: "http://104.6.216.93:8000/chitown"
         },
         {
             name: "ROCK 95.5",
@@ -28525,8 +28575,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kgncfmaac-ibc4"
         },
         {
-            name: "Thunder 98.7",
-            logo: "stations/images-america/c2c/amarillo_tx/Thunder 98.7.png",
+            name: "98.7 The Bomb",
+            logo: "stations/images-america/c2c/amarillo_tx/98.7 The Bomb.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kprffmaac-ibc3"
         },
         {
