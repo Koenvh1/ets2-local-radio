@@ -11981,7 +11981,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc717/hls.m3u8"
         },
         {
-            name: "Country Top 30 with Bobby Bones 105.5-HD2",
+            name: "Country Top 30 with Bobby B. 105.5-HD2",
             logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
             url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
         },
@@ -29271,7 +29271,7 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-ksiifmaac-ibc3"
         },
         {
-            name: "Hot 93.5",
+            name: "HOT 93.5",
             logo: "stations/images-america/c2c/elpaso_tx/Hot 93.5.png",
             url: "https://stream.revma.ihrhls.com/zc6841/hls.m3u8"
         },
@@ -29306,7 +29306,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3192/hls.m3u8"
         },
         {
-            name: "Country Top 30 with Bobby Bones 96.3-HD2",
+            name: "Country Top 30 with Bobby B. 96.3-HD2",
             logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
             url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
         },
@@ -29366,8 +29366,13 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
         },
         {
-            name: "Lone Star Sports Radio 920",
-            logo: "stations/images-america/c2c/elpaso_tx/Lone Star Sports Radio 920.png",
+            name: "KAMA 750",
+            logo: "stations/images-america/c2c/elpaso_tx/KAMA 750.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAMA750_AMAAC_SC"
+        },
+        {
+            name: "Lone Star 920",
+            logo: "stations/images-america/c2c/elpaso_tx/Lone Star 920.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQBUAMAAC_SC"
         },
         {
