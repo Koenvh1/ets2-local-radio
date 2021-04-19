@@ -5738,7 +5738,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice8.securenetsystems.net/KNRJ"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KZCE"
         },
         {
             name: "LIVE 101.5",
@@ -9075,7 +9075,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSZRFMAAC_SC"
         },
         {
-            name: "Hot 98.3",
+            name: "HOT 98.3",
             logo: "stations/images-america/tucson/Hot 98.3.png",
             url: "https://stream.revma.ihrhls.com/zc73/hls.m3u8"
         },
@@ -9087,7 +9087,7 @@ var stations = {
         {
             name: "99.1 Downtown Radio",
             logo: "stations/images-america/tucson/99.1 Downtown Radio.png",
-            url: "http://151.80.42.191:8496/;"
+            url: "https://securestreams6.autopo.st:2110/stream.mp3"
         },
         {
             name: "KIIM 99.5",
@@ -9122,7 +9122,7 @@ var stations = {
         {
             name: "103.1 KCDX",
             logo: "stations/images-america/tucson/103.1 KCDX.png",
-            url: "http://vdn.terrafox.com/audio/kcdx/playlist.m3u8"
+            url: "https://vdn.terrafox.com/audio/kcdx/playlist.m3u8"
         },
         {
             name: "ESPN 104.9",
@@ -12914,9 +12914,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7959/hls.m3u8"
         },
         {
-            name: "Salsa 98.1",
-            logo: "stations/images-america/c2c/orlando_fl/Salsa 98.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUEFMAAC_SC"
+            name: "The JOY FM 98.1",
+            logo: "stations/images-america/c2c/orlando_fl/The JOY FM 98.1.png",
+            url: "http://sc.rtndigital.com:20010/;"
         },
         {
             name: "98.5 The Wire",
@@ -13776,8 +13776,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "Sports X 106.3",
-            logo: "stations/images-america/c2c/atlanta_ga/Sports X 106.3.png",
+            name: "Xtra 106.3",
+            logo: "stations/images-america/c2c/atlanta_ga/Xtra 106.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFOMAM_SC"
         },
         {
@@ -30672,6 +30672,11 @@ var stations_c2c = {
     ],
     "richmond_va": [
         {
+            name: "WNRN 88.5",
+            logo: "stations/images-america/c2c/richmond_va/WNRN 88.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_128_SC"
+        },
+        {
             name: "VPM News 88.9",
             logo: "stations/images-america/c2c/richmond_va/VPM News 88.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCVEFM_SC"
@@ -30685,6 +30690,11 @@ var stations_c2c = {
             name: "WDCE 90.1",
             logo: "stations/images-america/c2c/richmond_va/WDCE 90.1.png",
             url: "http://wdce3.richmond.edu:8004/;"
+        },
+        {
+            name: "WPER 90.5",
+            logo: "stations/images-america/c2c/richmond_va/WPER 90.5.png",
+            url: "https://positivealtradio.streamguys1.com/wper"
         },
         {
             name: "iPower 92.1",
@@ -30707,6 +30717,16 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRVAAMAAC_SC"
         },
         {
+            name: "K95",
+            logo: "stations/images-america/c2c/richmond_va/K95.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7710_128k.aac"
+        },
+        {
+            name: "Classic Rock 96.5",
+            logo: "stations/images-america/c2c/richmond_va/Classic Rock 96.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7712_128k.aac"
+        },
+        {
             name: "WRIR 97.3",
             logo: "stations/images-america/c2c/richmond_va/WRIR 97.3.png",
             url: "http://files.wrir.org:8000/WRIR96kbps"
@@ -30722,9 +30742,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRXLHD2AAC_SC"
         },
         {
-            name: "ESPN 99.5",
-            logo: "stations/images-america/c2c/richmond_va/ESPN 99.5.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WTPSAMAAC_SC"
+            name: "99.5 The Box",
+            logo: "stations/images-america/c2c/richmond_va/99.5 The Box.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXGIAMAAC_SC"
+        },
+        {
+            name: "Awesome 100.9",
+            logo: "stations/images-america/c2c/richmond_va/Awesome 100.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7709_128k.aac"
         },
         {
             name: "Boomtown Radio 101.7",
@@ -30737,6 +30762,21 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRXLFMAAC_SC"
         },
         {
+            name: "103.7 Your Variety",
+            logo: "stations/images-america/c2c/richmond_va/103.7 Your Variety.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7713_128k.aac"
+        },
+        {
+            name: "G104.3",
+            logo: "stations/images-america/c2c/richmond_va/G104.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7711_128k.aac"
+        },
+        {
+            name: "Praise 104.7",
+            logo: "stations/images-america/c2c/richmond_va/Praise 104.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPZZFMAAC_SC"
+        },
+        {
             name: "105.1 The Fan",
             logo: "stations/images-america/c2c/richmond_va/105.1 The Fan.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRNLAMAAC_SC"
@@ -30745,6 +30785,11 @@ var stations_c2c = {
             name: "105.7 KISS FM",
             logo: "stations/images-america/c2c/richmond_va/105.7 Kiss FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKJSFMAAC_SC"
+        },
+        {
+            name: "ESPN 106.1",
+            logo: "stations/images-america/c2c/richmond_va/ESPN 106.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7726_128k.aac"
         },
         {
             name: "106.5 The Beat",
