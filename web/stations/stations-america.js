@@ -30712,14 +30712,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRVQFMAAC_SC"
         },
         {
-            name: "Newsradio WRVA 94.5-HD2",
-            logo: "stations/images-america/c2c/richmond_va/Newsradio WRVA 94.5-HD2.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRVAAMAAC_SC"
-        },
-        {
             name: "K95",
             logo: "stations/images-america/c2c/richmond_va/K95.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7710_128k.aac"
+        },
+        {
+            name: "96.1 WRVA",
+            logo: "stations/images-america/c2c/richmond_va/96.1 WRVA.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRVAAMAAC_SC"
         },
         {
             name: "Classic Rock 96.5",
