@@ -1936,7 +1936,7 @@ var stations = {
             url: "http://69.39.14.19:8002/kljh"
         },
         {
-            name: "STAR 107.7",
+            name: "Star 107.7",
             logo: "stations/images-america/farmington/Star 102.9.png",
             url: "https://stream.revma.ihrhls.com/zc5082/hls.m3u8"
         },
@@ -2332,6 +2332,11 @@ var stations = {
     ],
     "farmington": [
         {
+            name: "Vertical Radio 88.9",
+            logo: "stations/images-america/farmington/Vertical Radio 88.9.png",
+            url: "https://ais-sa1.streamon.fm/7095_32k.aac"
+        },
+        {
             name: "KSUT 89.7",
             logo: "stations/images-america/farmington/KSUT 89.7.png",
             url: "https://ksut.streamguys1.com/ksut"
@@ -2387,7 +2392,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5090/hls.m3u8"
         },
         {
-            name: "STAR 102.9",
+            name: "Star 102.9",
             logo: "stations/images-america/farmington/Star 102.9.png",
             url: "https://stream.revma.ihrhls.com/zc5082/hls.m3u8"
         },
