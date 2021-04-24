@@ -9939,6 +9939,108 @@ var stations_mexico = {
             url: "https://streamingcwsradio30.com:7059/;"
         },
     ],
+    "chihuahua": [
+        {
+            name: "88.5 @FM",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/88.5 @FM.png",
+            url: "https://sts.pergom.mx/xhdi"
+        },
+        {
+            name: "La Poderosa 89.3",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Poderosa 89.3.png",
+            url: "https://sts.pergom.mx/xhfa"
+        },
+        {
+            name: "Love FM 90.1",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Love FM 90.1.png",
+            url: "https://ss1.audiorama.com.mx:6650/;"
+        },
+        {
+            name: "La Caliente 90.9",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Caliente 90.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAHCFMAAC_SC"
+        },
+        {
+            name: "La Norteñita 91.7",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Norteñita 91.7.png",
+            url: "https://freeuk15.listen2myradio.com/live.mp3?typeportmount=s1_14055_stream"
+        },
+        {
+            name: "Súper 92.5",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Súper 92.5.png",
+            url: "http://streamingcwsradio30.com:8126/;"
+        },
+        {
+            name: "Magia Digital 93.3",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Magia Digital 93.3.png",
+            url: "https://freeuk15.listen2myradio.com/live.mp3?typeportmount=s1_15480_stream"
+        },
+        {
+            name: "La Patrona 94.1",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Patrona 94.1.png",
+            url: "https://streamingcwsradio30.com/8166/stream"
+        },
+        {
+            name: "D95",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/D95.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCHHFMAAC_SC"
+        },
+        {
+            name: "Switch 95.7",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Switch 95.7.png",
+            url: "https://freeuk24.listen2myradio.com/live.mp3?typeportmount=s1_9286_stream"
+        },
+        {
+            name: "Studio 96.5",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Studio 96.5.png",
+            url: "https://sts.pergom.mx/xhfi"
+        },
+        {
+            name: "Imagen Chihuahua 97.3",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Imagen Chihuahua 97.3.png",
+            url: "http://chihuahua.radio.wnsol.com:8220/;stream.mp3"
+        },
+        {
+            name: "La Bestia Grupera 99.3",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Bestia Grupera 99.3.png",
+            url: "https://ss1.audiorama.com.mx:6646/;stream"
+        },
+        {
+            name: "Exa FM 100.9",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Exa FM 100.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSBTAAC_SC"
+        },
+        {
+            name: "Radio Fórmula 101.7",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Radio Fórmula 101.7.png",
+            url: "https://stream.radiojar.com/bsu9493n3p8uv"
+        },
+        {
+            name: "Antena 102.5",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Antena 102.5.png",
+            url: "https://streamingcwsradio30.com:7093/;"
+        },
+        {
+            name: "Hits 103.7",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Hits 103.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCHAFMAAC_SC"
+        },
+        {
+            name: "La Lupe 104.5",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Lupe 104.5.png",
+            url: "https://radio.urbansa.com/station25"
+        },
+        {
+            name: "Radio Universidad 105.3",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Radio Universidad 105.3.png",
+            url: "https://stream.zeno.fm/k0729k3kwzzuv"
+        },
+        {
+            name: "El Lobo 106.1",
+            logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/El Lobo 106.1.png",
+            url: "https://streamingcwsradio30.com/8172/stream"
+        },
+    ],
     "guaymas": [
         {
             name: "Radio Sonora",
@@ -29799,6 +29901,33 @@ var stations_c2c = {
             name: "Q108",
             logo: "stations/images-america/c2c/midland_tx/Q108.png",
             url: "https://sonicpanel.hostradios.com:7131/stream"
+        },
+    ],
+    "presidio": [
+        {
+            name: "Radio Bilingue 88.1",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "Marfa Public Radio 95.3",
+            logo: "stations/images-america/c2c/midland_tx/KXWT 91.3.png",
+            url: "http://marfapr-ice.streamguys1.com/krts"
+        },
+        {
+            name: "Estéreo Romance 100.1",
+            logo: "stations/images-america/mexico/chihuahua/Estéreo Romance 100.1.png",
+            url: "https://stream.zenolive.com/8nfp7m8ub84tv"
+        },
+        {
+            name: "La Poderosa 100.9",
+            logo: "stations/images-america/mexico/chihuahua/La Poderosa 100.9.png",
+            url: "https://stream.zenolive.com/ueqx86mza84tv"
+        },
+        {
+            name: "La Primera 101.7",
+            logo: "stations/images-america/mexico/chihuahua/La Primera 101.7.png",
+            url: "https://stream.zenolive.com/4kr8kn5ub84tv"
         },
     ],
     "sanantonio": [

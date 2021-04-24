@@ -2128,6 +2128,12 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.8
     },
+    "chihuahua": {
+        name: "Chihuahua",
+        name_english: "Chihuahua",
+        code: "mx-chh",
+        relative_radius: 0.9
+    },  
     "guaymas": {
         name: "Guaymas",
         name_english: "Guaymas",
@@ -2278,6 +2284,9 @@ var city_properties_mexico = {
     "cd_obregon": {
         relative_whitenoise: 0.95
     },
+    "chihuahua": {
+        relative_whitenoise: 0.85
+    },
     "guaymas": {
         relative_whitenoise: 0.95
     },
@@ -2355,7 +2364,7 @@ var cities_mexico = [
       "y": "238.879",
       "z": "57626.5"
     },
-{
+    {
       "gameName": "agua_prieta",
       "realName": "Agua Prieta",
       "country": "sonora",
@@ -2363,7 +2372,7 @@ var cities_mexico = [
       "y": "110.359",
       "z": "39137.9"
     },
-{
+    {
       "gameName": "caborca",
       "realName": "Caborca",
       "country": "sonora",
@@ -2371,7 +2380,7 @@ var cities_mexico = [
       "y": "95.625",
       "z": "40151.9"
     },    
-{
+    {
       "gameName": "cananea",
       "realName": "Cananea",
       "country": "sonora",
@@ -2379,7 +2388,7 @@ var cities_mexico = [
       "y": "88.5703",
       "z": "40315.2"
     },
-{
+    {
       "gameName": "cd_obregon",
       "realName": "CD. Obregon",
       "country": "sonora",
@@ -2387,7 +2396,15 @@ var cities_mexico = [
       "y": "50.0313",
       "z": "61058.9"
     },
-{
+    {
+      "gameName": "chihuahua",
+      "realName": "Chihuahua",
+      "country": "chihuahua",
+      "x": "-52091.8",
+      "y": "100.114",
+      "z": "54247.2"
+    },
+    {
       "gameName": "guaymas",
       "realName": "Guaymas",
       "country": "sonora",
@@ -2395,7 +2412,7 @@ var cities_mexico = [
       "y": "57.918",
       "z": "56623.3"
     },
-{
+    {
       "gameName": "hermosillo",
       "realName": "Hermosillo",
       "country": "sonora",
@@ -2403,7 +2420,7 @@ var cities_mexico = [
       "y": "49.9297",
       "z": "50492.1"
     },
-{
+    {
       "gameName": "h_nogales",
       "realName": "H. Nogales",
       "country": "sonora",
@@ -2411,7 +2428,7 @@ var cities_mexico = [
       "y": "108.121",
       "z": "37728.7"
     },
-{
+    {
       "gameName": "moctezuma",
       "realName": "Moctezuma",
       "country": "sonora",
@@ -2419,7 +2436,7 @@ var cities_mexico = [
       "y": "57.832",
       "z": "47166.7"
     },
-{
+    {
       "gameName": "navojoa",
       "realName": "Navojoa",
       "country": "sonora",
@@ -2427,7 +2444,7 @@ var cities_mexico = [
       "y": "50.0195",
       "z": "64116.6"
     },
-{
+    {
       "gameName": "puerto_pena",
       "realName": "Puerto Penasco",
       "country": "sonora",
@@ -2435,7 +2452,7 @@ var cities_mexico = [
       "y": "78.4609",
       "z": "34661.3"
     },
-{
+    {
       "gameName": "santa_ana",
       "realName": "Santa Ana",
       "country": "sonora",
@@ -2443,7 +2460,7 @@ var cities_mexico = [
       "y": "95.625",
       "z": "41979.7"
     },
-{
+    {
       "gameName": "sonoyta",
       "realName": "Sonoyta",
       "country": "sonora",
@@ -2451,7 +2468,7 @@ var cities_mexico = [
       "y": "95.7148",
       "z": "32482.3"
     },
-{
+    {
       "gameName": "sanluisrc",
       "realName": "San Luis Rio Colorado",
       "country": "sonora",
@@ -2459,7 +2476,7 @@ var cities_mexico = [
       "y": "50.1211",
       "z": "30702.9"
     },
-{
+    {
       "gameName": "vdurango",
       "realName": "Durango",
       "country": "durango",
@@ -2467,7 +2484,7 @@ var cities_mexico = [
       "y": "40",
       "z": "84324.4"
     },
-{
+    {
       "gameName": "gomez_p",
       "realName": "Gomez Palacio",
       "country": "durango",
@@ -2483,7 +2500,7 @@ var cities_mexico = [
       "y": "55.8047",
       "z": "77940.5"
     },
-{
+    {
       "gameName": "guasave",
       "realName": "Guasave",
       "country": "sinaloa",
@@ -2491,7 +2508,7 @@ var cities_mexico = [
       "y": "52.6367",
       "z": "72909.2"
     },
-{
+    {
       "gameName": "los_mochis",
       "realName": "Los Mochis",
       "country": "sinaloa",
@@ -2499,7 +2516,7 @@ var cities_mexico = [
       "y": "82.9336",
       "z": "71272.9"
     },
-{
+    {
       "gameName": "mazatlan",
       "realName": "Mazatlan",
       "country": "sinaloa",
@@ -2507,7 +2524,7 @@ var cities_mexico = [
       "y": "52.3203",
       "z": "87832.3"
     },
-{
+    {
         "gameName": "culiacan",
         "realName": "Culiacan",
         "country": "sinaloa",
@@ -2515,7 +2532,7 @@ var cities_mexico = [
         "y": "31.6797",
         "z": "78285.8"
     },
-{
+    {
         "gameName": "guamuchil",
         "realName": "Guamuchil",
         "country": "sinaloa",
@@ -2523,7 +2540,7 @@ var cities_mexico = [
         "y": "49.9297",
         "z": "74015.6"
     },
-{
+    {
       "gameName": "parral",
       "realName": "Parral",
       "country": "chihuah",
@@ -2531,7 +2548,7 @@ var cities_mexico = [
       "y": "110",
       "z": "66558.9"
     },
-{
+    {
       "gameName": "jimenez",
       "realName": "Jimenez",
       "country": "chihuah",
@@ -2539,7 +2556,7 @@ var cities_mexico = [
       "y": "50.6445",
       "z": "65762.4"
     },
-{
+    {
       "gameName": "guachoch",
       "realName": "Guachochi",
       "country": "chihuah",
@@ -2547,7 +2564,7 @@ var cities_mexico = [
       "y": "381.328",
       "z": "66510.7"
     },
-{
+    {
         "gameName": "tijuana",
         "realName": "Tijuana",
         "country": "bajacalifo",
@@ -2555,7 +2572,7 @@ var cities_mexico = [
         "y": "49.7773",
         "z": "26196.8"
     },
-{
+    {
         "gameName": "mexicali",
         "realName": "Mexicali",
         "country": "bajacalifo",
@@ -4066,6 +4083,12 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 1.0
     },
+    "presidio": {
+        name: "Presidio",
+        name_english: "Presidio",
+        code: "us-tx",
+        relative_radius: 0.8
+    },
     "sanantonio": {
         name: "sanantonio",
         name_english: "sanantonio",
@@ -5040,6 +5063,9 @@ var city_properties_c2c = {
     },
     "midland_tx": {
         relative_whitenoise: 0.95
+    },
+    "presidio": {
+        relative_whitenoise: 0.85
     },
     "sanantonio": {
         relative_whitenoise: 0.95
@@ -6880,6 +6906,14 @@ var cities_c2c = [
         "x": "-28614.5",
         "y": "31.6219",
         "z": "38784.6"
+    },
+    {
+        "gameName": "presidio",
+        "realName": "Presidio",
+        "country": "texas",
+        "x": "-39989.5",
+        "y": "38.5195",
+        "z": "51575.1"
     },
     {
         "gameName": "sanantonio",
