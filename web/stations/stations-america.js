@@ -34143,6 +34143,11 @@ var stations_canadream = {
             url: "https://ais-sa1.streamon.fm/7161_64k.aac"
         },
         {
+            name: "Sportsnet 650",
+            logo: "stations/images-america/canada_promods/vancouver/Sportsnet 650.png",
+            url: "https://rogers-hls.leanstream.co/rogers/van650.stream/icy"
+        },
+        {
             name: "AM 730",
             logo: "stations/images-america/canada_promods/vancouver/AM 730.png",
             url: "http://live.leanstream.co/CHMJAM-MP3"
