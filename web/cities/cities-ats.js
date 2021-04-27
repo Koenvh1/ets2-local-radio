@@ -4156,10 +4156,10 @@ var country_properties_c2c = {
         relative_radius: 0.9
     },
     "fredericksburg_va": {
-        name: "fredericksburg_va",
-        name_english: "fredericksburg_va",
+        name: "Fredericksburg, VA",
+        name_english: "Fredericksburg, VA",
         code: "us-va",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "harrisonburg_va": {
         name: "harrisonburg_va",
@@ -4177,7 +4177,7 @@ var country_properties_c2c = {
         name: "richmond_va",
         name_english: "richmond_va",
         code: "us-va",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "roanoke_va": {
         name: "roanoke_va",
@@ -5101,7 +5101,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "fredericksburg_va": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "harrisonburg_va": {
         relative_whitenoise: 0.95
@@ -5110,7 +5110,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "richmond_va": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "roanoke_va": {
         relative_whitenoise: 0.95
@@ -6991,9 +6991,9 @@ var cities_c2c = [
         "gameName": "fredericksburg_va",
         "realName": "Fredericksburg",
         "country": "virginia",
-        "x": "81359.7",
-        "y": "55.1063",
-        "z": "-3722.27"
+        "x": "81330",
+        "y": "82.017",
+        "z": "-4494.48"
     },
     {
         "gameName": "harrisonburg_va",
@@ -7015,9 +7015,9 @@ var cities_c2c = [
         "gameName": "richmond_va",
         "realName": "Richmond",
         "country": "virginia",
-        "x": "82237.8",
-        "y": "52.6704",
-        "z": "-424.104"
+        "x": "82279.8",
+        "y": "75.1099",
+        "z": "490.537"
     },
     {
         "gameName": "roanoke_va",
