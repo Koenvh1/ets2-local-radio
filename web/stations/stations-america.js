@@ -1610,11 +1610,6 @@ var stations = {
             url: "http://hestia.cdnstream.com/1571_128"
         },
         {
-            name: "1230 KHSN",
-            logo: "stations/images-america/coos_bay/1230 KHSN.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KHSNAMAAC_SC"
-        },
-        {
             name: "KBBR 1340",
             logo: "stations/images-america/coos_bay/KBBR 1340.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBBRAMAAC_SC"
