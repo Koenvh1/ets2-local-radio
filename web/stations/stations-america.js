@@ -23787,8 +23787,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4932/hls.m3u8"
         },
         {
-            name: "107.9 The Link",
-            logo: "stations/images-america/c2c/charlotte_nc/107.9 The Link.png",
+            name: "Mix 107.9",
+            logo: "stations/images-america/c2c/charlotte_nc/Mix 107.9.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLNKFMAAC_SC"
         },
     ],
