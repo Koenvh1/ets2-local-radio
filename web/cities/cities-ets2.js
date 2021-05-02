@@ -1866,6 +1866,14 @@ var cities = [
         "z": "-21142.2"
     },
     {
+        "gameName": "burgos",
+        "realName": "Burgos",
+        "country": "spain",
+        "x": "-61834",
+        "y": "145.523",
+        "z": "37727.1"
+    },
+    {
         "gameName": "bydgoszcz",
         "realName": "Bydgoszcz",
         "country": "poland",
@@ -9591,14 +9599,6 @@ var cities_tsm = [
         "x": "-48149.8",
         "y": "95.4805",
         "z": "33688.8"
-    },
-    {
-        "gameName": "bilbao",
-        "realName": "Bilbao",
-        "country": "spain",
-        "x": "-58021.5",
-        "y": "56.3086",
-        "z": "33519.2"
     },
     {
         "gameName": "chania",

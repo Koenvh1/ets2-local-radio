@@ -3788,7 +3788,7 @@ var stations = {
         {
             name: "Flow Radio Madrid 91.2",
             logo: "stations/images-europe/spain-madrid/Flow Radio Madrid 91.2.png",
-            url: "http://st2.sytes.net:8010/flow_mad"
+            url: "http://37.187.76.127:8010/flow"
         },
         {
             name: "Radio Tentación 91.4",

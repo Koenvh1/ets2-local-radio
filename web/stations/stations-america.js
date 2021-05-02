@@ -1293,7 +1293,7 @@ var stations = {
     "clifton": [
         {
             name: "Moody Radio 88.7",
-            logo: "stations/images-america/clifton/Moody Radio 88.7.png",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
             url: "https://primary.moodyradiostream.org/Network.mp3"
         },
         {
@@ -3103,9 +3103,19 @@ var stations = {
     ],
     "grangeville": [
         {
+            name: "NWPR Classical 90.1",
+            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
+        },
+        {
             name: "Real Hope Radio 90.9",
             logo: "stations/images-america/grangeville/Real Hope Radio 90.9.png",
             url: "https://ais-sa1.streamon.fm/7066_24k.aac"
+        },
+        {
+            name: "Effect Radio 91.3",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
             name: "NWPR Classical 91.7",
@@ -3116,6 +3126,11 @@ var stations = {
             name: "Big Country 92.7",
             logo: "stations/images-america/grangeville/Big Country 92.7.png",
             url: "http://209.95.35.49:7774/stream"
+        },
+        {
+            name: "Z-Rock 96.5",
+            logo: "stations/images-america/lewiston/Z-Rock 96.5.png",
+            url: "https://live.wostreaming.net/manifest/mcvey-kozefmaac-ibc1"
         },
         {
             name: "96.9 KORT",
@@ -4238,6 +4253,16 @@ var stations = {
             name: "Big Rock 99.1",
             logo: "stations/images-america/lewiston/Big Rock 99.1.png",
             url: "http://us9.shoutstreaming.com:7766/stream"
+        },
+        {
+            name: "Effect Radio 99.9",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "Moody Radio 100.9",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://primary.moodyradiostream.org/kmbi.mp3"
         },
         {
             name: "News Talk 104.7",
@@ -11717,6 +11742,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC_SC"
         },
         {
+            name: "Faith Talk 99.5",
+            logo: "stations/images-america/c2c/little_rock_ar/Faith Talk 99.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDISFMAAC_SC"
+        },
+        {
             name: "100.3 The Edge",
             logo: "stations/images-america/c2c/little_rock_ar/100.3 The Edge.png",
             url: "https://stream.revma.ihrhls.com/zc89/hls.m3u8"
@@ -11775,6 +11805,11 @@ var stations_c2c = {
             name: "Sports Animal 920",
             logo: "stations/images-america/c2c/little_rock_ar/Sports Animal 920.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KARNAMAAC_SC"
+        },
+        {
+            name: "1090 KAAY",
+            logo: "stations/images-america/c2c/little_rock_ar/1090 KAAY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAAYAMAAC_SC"
         },
     ],
     "hartford": [
