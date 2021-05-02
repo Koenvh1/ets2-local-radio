@@ -2865,6 +2865,12 @@ var country_properties_c2c = {
         code: "us-il",
         relative_radius: 1.0
     },
+    "peoria_il": {
+        name: "Peoria",
+        name_english: "Peoria",
+        code: "us-il",
+        relative_radius: 0.7
+    },
     "rockford_il": {
         name: "Rockford",
         name_english: "Rockford",
@@ -3310,22 +3316,28 @@ var country_properties_c2c = {
         relative_radius: 0.9
     },
     "columbia_mo": {
-        name: "columbia_mo",
-        name_english: "columbia_mo",
+        name: "Columbia, MO",
+        name_english: "Columbia, MO",
         code: "us-mo",
         relative_radius: 0.9
     },
     "joplin": {
-        name: "joplin",
-        name_english: "joplin",
+        name: "Joplin, MO",
+        name_english: "Joplin, MO",
         code: "us-mo",
         relative_radius: 0.9
     },
     "kansascity": {
-        name: "kansascity",
-        name_english: "kansascity",
+        name: "Kansas City",
+        name_english: "Kansas City",
         code: "us-mo",
         relative_radius: 1.1
+    },
+    "kirksville_mo": {
+        name: "Kirksville, MO",
+        name_english: "Kirksville, MO",
+        code: "us-mo",
+        relative_radius: 0.8
     },
     "rolla": {
         name: "rolla",
@@ -4444,7 +4456,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "bloomington_il": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.85
     },
     "chicago": {
         relative_whitenoise: 0.95
@@ -4454,6 +4466,9 @@ var city_properties_c2c = {
     },
     "mt_vernon": {
         relative_whitenoise: 0.95
+    },
+    "peoria_il": {
+        relative_whitenoise: 0.85
     },
     "rockford_il": {
         relative_whitenoise: 0.75
@@ -4684,7 +4699,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "kansascity": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
+    },
+    "kirksville_mo": {
+        relative_whitenoise: 0.85
     },
     "rolla": {
         relative_whitenoise: 0.95
@@ -5508,6 +5526,14 @@ var cities_c2c = [
         "z": "2314.56"
     },
     {
+        "gameName": "peoria_il",
+        "realName": "Peoria",
+        "country": "illinois",
+        "x": "25361.1",
+        "y": "42.8892",
+        "z": "-10042.6"
+    },
+    {
         "gameName": "rockford_il",
         "realName": "Rockford",
         "country": "illinois",
@@ -6026,6 +6052,14 @@ var cities_c2c = [
         "x": "6370.48",
         "y": "192.055",
         "z": "-507.648"
+    },
+    {
+        "gameName": "kirksville_mo",
+        "realName": "Kirksville",
+        "country": "missouri",
+        "x": "15336.8",
+        "y": "44.8823",
+        "z": "-6367.12"
     },
     {
         "gameName": "rolla",
