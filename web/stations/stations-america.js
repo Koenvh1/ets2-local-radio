@@ -1466,9 +1466,9 @@ var stations = {
             url: "https://stream1.cprnetwork.org/cpr3_aac"
         },
         {
-            name: "RXP@103.9",
-            logo: "stations/images-america/colorado_springs_pueblo/RXP@103.9.png",
-            url: "http://csrb.streamguys1.com/krxp-mp3"
+            name: "X103.9",
+            logo: "stations/images-america/colorado_springs_pueblo/X103.9.png",
+            url: "https://csrb.streamguys1.com/krxp-mp3"
         },
         {
             name: "Air1 104.9",
@@ -8711,6 +8711,11 @@ var stations = {
             url: "http://newerastreaming.com:9018/;"
         },
         {
+            name: "Cheyenne County Country 95.7",
+            logo: "stations/images-america/sterling/Cheyenne County Country 95.7.png",
+            url: "https://ice6.securenetsystems.net/KSID"
+        },
+        {
             name: "97.5 BOB FM",
             logo: "stations/images-america/sterling/97.5 BOB FM.png",
             url: "https://www.ophanim.net:8444/s/8880"
@@ -8721,8 +8726,8 @@ var stations = {
             url: "https://www.streamcontrol.net:8444/s/12310"
         },
         {
-            name: "98.7 Sky FM",
-            logo: "stations/images-america/sterling/98.7 Sky FM.png",
+            name: "98.7 The Big Boy",
+            logo: "stations/images-america/sterling/98.7 The Big Boy.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice6.securenetsystems.net/KSIDFM"
         },
         {
@@ -11519,6 +11524,11 @@ var stations_c2c = {
             name: "HOT 101.9",
             logo: "stations/images-america/c2c/fayetteville_ar/HOT 101.9.png",
             url: "https://stream.revma.ihrhls.com/zc3442/hls.m3u8"
+        },
+        {
+            name: "New Country 102.9",
+            logo: "stations/images-america/c2c/fayetteville_ar/New Country 102.9.png",
+            url: "http://173.193.205.96:7525/stream"
         },
         {
             name: "KIX 104",
@@ -20649,6 +20659,11 @@ var stations_c2c = {
             name: "K103",
             logo: "stations/images-america/c2c/cape_girardeau_mo/K103.png",
             url: "https://ice23.securenetsystems.net/KEZS"
+        },
+        {
+            name: "Positive Country 104.1",
+            logo: "stations/images-america/c2c/cape_girardeau_mo/Positive Country 104.1.png",
+            url: "https://ice24.securenetsystems.net/KMHM"
         },
         {
             name: "104.7 The Bridge",
