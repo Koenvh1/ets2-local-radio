@@ -2707,7 +2707,7 @@ var country_properties_c2c = {
         name: "gainesville",
         name_english: "gainesville",
         code: "us-fl",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "jacksonville": {
         name: "jacksonville",
@@ -4387,7 +4387,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "gainesville": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "jacksonville": {
         relative_whitenoise: 0.90
@@ -5329,9 +5329,9 @@ var cities_c2c = [
         "gameName": "gainesville",
         "realName": "Gainesville",
         "country": "florida",
-        "x": "68135.1",
-        "y": "42.5565",
-        "z": "48981.7"
+        "x": "65934.9",
+        "y": "113.122",
+        "z": "48829"
     },
     {
         "gameName": "jacksonville",
