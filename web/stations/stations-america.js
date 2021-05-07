@@ -21825,7 +21825,7 @@ var stations_c2c = {
         },
         {
             name: "ESPN 105.5",
-            logo: "stations/images-america/c2c/billings_mt/ESPN 910.png",
+            logo: "stations/images-america/c2c/billings_mt/ESPN 105.5.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KBLG"
         },
         {
