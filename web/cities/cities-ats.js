@@ -3453,12 +3453,6 @@ var country_properties_c2c = {
         code: "us-mt",
         relative_radius: 0.9
     },
-    "roundup": {
-        name: "roundup",
-        name_english: "roundup",
-        code: "us-mt",
-        relative_radius: 0.9
-    },
     "shelby": {
         name: "shelby",
         name_english: "shelby",
@@ -4720,7 +4714,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "billings": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "bozeman": {
         relative_whitenoise: 0.95
@@ -4760,9 +4754,6 @@ var city_properties_c2c = {
     },
     "missoula": {
         relative_whitenoise: 0.85
-    },
-    "roundup": {
-        relative_whitenoise: 0.95
     },
     "shelby": {
         relative_whitenoise: 0.95
@@ -6204,14 +6195,6 @@ var cities_c2c = [
         "x": "-69491.6",
         "y": "268.016",
         "z": "-51664.9"
-    },
-    {
-        "gameName": "roundup",
-        "realName": "Roundup",
-        "country": "montana",
-        "x": "-48725.7",
-        "y": "199.484",
-        "z": "-45784.5"
     },
     {
         "gameName": "shelby",

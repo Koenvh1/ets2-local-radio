@@ -21729,6 +21729,26 @@ var stations_c2c = {
     ],
     "billings": [
         {
+            name: "Pilgrim Radio 89.3",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
+        },
+        {
+            name: "Air1 89.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+        },
+        {
+            name: "Effect Radio 90.5",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "K-LOVE 90.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "YPR 91.7",
             logo: "stations/images-america/0_general_logos/YPR_spring.png",
             url: "http://ypr-sc.streamguys.net/live"
@@ -21754,13 +21774,13 @@ var stations_c2c = {
             url: "https://desertmountainbroadcasting.streamguys1.com/KRKX"
         },
         {
-            name: "NewsTalk 95.5",
-            logo: "stations/images-america/c2c/billings_mt/NewsTalk 95.5.png",
+            name: "KBUL 95.5",
+            logo: "stations/images-america/c2c/billings_mt/KBUL 95.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbulamaac-ibc3"
         },
         {
             name: "The Zone 96.3",
-            logo: "stations/images-america/c2c/roundup_mt/The Zone 96.3.png",
+            logo: "stations/images-america/c2c/billings_mt/The Zone 96.3.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KRZN"
         },
         {
@@ -21785,12 +21805,12 @@ var stations_c2c = {
         },
         {
             name: "HOT 101.9",
-            logo: "stations/images-america/c2c/roundup_mt/Hot 101.9.png",
+            logo: "stations/images-america/c2c/billings_mt/Hot 101.9.png",
             url: "http://benedettimedia.com:8000/KRSQFMM"
         },
         {
-            name: "Cat Country 103",
-            logo: "stations/images-america/c2c/roundup_mt/Cat Country 103.png",
+            name: "Cat Country 102.9",
+            logo: "stations/images-america/c2c/billings_mt/Cat Country 102.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kctrfmaac-ibc3"
         },
         {
@@ -21804,14 +21824,24 @@ var stations_c2c = {
             url: "http://5.135.158.214:14364/;"
         },
         {
+            name: "ESPN 105.5",
+            logo: "stations/images-america/c2c/billings_mt/ESPN 910.png",
+            url: "https://desertmountainbroadcasting.streamguys1.com/KBLG"
+        },
+        {
             name: "My 105.9",
             logo: "stations/images-america/c2c/billings_mt/My 105.9.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KWMY"
         },
         {
             name: "Planet 106.7",
-            logo: "stations/images-america/c2c/roundup_mt/Planet 106.7.png",
+            logo: "stations/images-america/c2c/billings_mt/Planet 106.7.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KPLN"
+        },
+        {
+            name: "The River 107.1",
+            logo: "stations/images-america/c2c/billings_mt/The River 107.1.png",
+            url: "https://ice10.securenetsystems.net/MOUNTAIN"
         },
         {
             name: "Twang 107.5",
@@ -21822,11 +21852,6 @@ var stations_c2c = {
             name: "790 KGHL",
             logo: "stations/images-america/c2c/billings_mt/790 KGHL.png",
             url: "https://ice5.securenetsystems.net/KGHLAM"
-        },
-        {
-            name: "ESPN 910",
-            logo: "stations/images-america/c2c/billings_mt/ESPN 910.png",
-            url: "https://desertmountainbroadcasting.streamguys1.com/KBLG"
         },
     ],
     "bozeman": [
@@ -22398,33 +22423,6 @@ var stations_c2c = {
             name: "1290 KGVO",
             logo: "stations/images-america/c2c/missoula_mt/1290 KGVO.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kgvoamaac-ibc3"
-        },
-    ],
-    "roundup": [
-        {
-            name: "The Zone 96.3",
-            logo: "stations/images-america/c2c/roundup_mt/The Zone 96.3.png",
-            url: "https://desertmountainbroadcasting.streamguys1.com/KRZN"
-        },
-        {
-            name: "KLMB 99.9",
-            logo: "stations/images-america/c2c/roundup_mt/KLMB 99.9.png",
-            url: "https://ice6.securenetsystems.net/KLMB"
-        },
-        {
-            name: "Hot 101.9",
-            logo: "stations/images-america/c2c/roundup_mt/Hot 101.9.png",
-            url: "http://benedettimedia.com:8000/KRSQFMM"
-        },
-        {
-            name: "Cat Country 103",
-            logo: "stations/images-america/c2c/roundup_mt/Cat Country 103.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kctrfmaac-ibc3"
-        },
-        {
-            name: "Planet 106.7",
-            logo: "stations/images-america/c2c/roundup_mt/Planet 106.7.png",
-            url: "https://desertmountainbroadcasting.streamguys1.com/KPLN"
         },
     ],
     "shelby": [
