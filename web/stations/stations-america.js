@@ -12593,7 +12593,7 @@ var stations_c2c = {
         {
             name: "WKWM 91.5",
             logo: "stations/images-america/c2c/key_west_fl/WKWM 91.5.png",
-            url: "https://stream.wlrn.mobi/WLRNFMAAC64"
+            url: "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnfmaac-imc1"
         },
         {
             name: "WEOW 92.7",
@@ -12727,7 +12727,7 @@ var stations_c2c = {
         {
             name: "88.9 WDNA",
             logo: "stations/images-america/c2c/miami_fl/88.9 WDNA.png",
-            url: "https://wdna.streamguys1.com/live"
+            url: "https://us9.streamingpulse.com/ssl/WDNA"
         },
         {
             name: "WVUM 90.5",
@@ -12737,12 +12737,12 @@ var stations_c2c = {
         {
             name: "WLRN 91.3",
             logo: "stations/images-america/c2c/miami_fl/WLRN 91.3.png",
-            url: "https://stream.wlrn.mobi/WLRNFMAAC64"
+            url: "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnfmaac-imc1"
         },
         {
             name: "WLRN Classical 91.3-HD2",
             logo: "stations/images-america/c2c/miami_fl/WLRN Classical 91.3-HD2.png",
-            url: "https://stream.wlrn.mobi/WLRNHD2AAC64"
+            url: "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1"
         },
         {
             name: "Zeta 92.3",
@@ -12817,7 +12817,7 @@ var stations_c2c = {
         {
             name: "The Grind 100.3",
             logo: "stations/images-america/c2c/miami_fl/100.3 The Grind.png",
-            url: "https://stream.zenolive.com/10t6t40rneruv.aac"
+            url: "https://stream.zeno.fm/10t6t40rneruv"
         },
         {
             name: "Y100",
