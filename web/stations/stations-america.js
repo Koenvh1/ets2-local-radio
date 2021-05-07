@@ -12391,6 +12391,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/gainesville_fl/PlayFM 105.7.png",
             url: "https://ais-sa2.cdnstream1.com/1125_192"
         },
+        {
+            name: "I am Country 106.9",
+            logo: "stations/images-america/c2c/gainesville_fl/I am Country 106.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/WPLL"
+        },
     ],
     "jacksonville": [
         {
