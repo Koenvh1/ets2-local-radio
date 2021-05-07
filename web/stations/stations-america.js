@@ -12272,14 +12272,39 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7648_48k.aac"
         },
         {
+            name: "89.5 WMFV",
+            logo: "stations/images-america/c2c/gainesville_fl/89.5 WMFV.png",
+            url: "https://wmfe-iad.streamguys1.com/wmfv"
+        },
+        {
+            name: "WMBT 90.1",
+            logo: "stations/images-america/c2c/gainesville_fl/WMBT 90.1.png",
+            url: "https://ice9.securenetsystems.net/WMBT"
+        },
+        {
             name: "The Goat 92.1",
             logo: "stations/images-america/c2c/gainesville_fl/The Goat 92.1.png",
             url: "http://209.95.35.49:7029/stream"
         },
         {
+            name: "Wind FM 92.5",
+            logo: "stations/images-america/c2c/gainesville_fl/Wind FM 92.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wyndfmaac-ibc1"
+        },
+        {
             name: "Q92.9",
             logo: "stations/images-america/c2c/gainesville_fl/Q92.9.png",
             url: "https://ice66.securenetsystems.net/WMFQ"
+        },
+        {
+            name: "93.7 K-Country",
+            logo: "stations/images-america/c2c/gainesville_fl/93.7 K-Country.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wogkfmaac-ibc1"
+        },
+        {
+            name: "R&B 94.1",
+            logo: "stations/images-america/c2c/gainesville_fl/R&B 94.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice66.securenetsystems.net/RNB941"
         },
         {
             name: "GHQ 95.3",
@@ -12302,6 +12327,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKTKFMAAC_SC"
         },
         {
+            name: "98.9 JAMZ",
+            logo: "stations/images-america/c2c/gainesville_fl/98.9 JAMZ.png",
+            url: "https://ice24.securenetsystems.net/WAJD"
+        },
+        {
             name: "Gold 99 FM",
             logo: "stations/images-america/c2c/gainesville_fl/Gold 99 FM.png",
             url: "http://stream.broadcastserver.net:9988/;"
@@ -12315,6 +12345,16 @@ var stations_c2c = {
             name: "100.5 The Buzz",
             logo: "stations/images-america/c2c/gainesville_fl/100.5 The Buzz.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/WHHZ"
+        },
+        {
+            name: "Classic Hits 100.9",
+            logo: "stations/images-america/c2c/gainesville_fl/Classic Hits 100.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice66.securenetsystems.net/WXJZ"
+        },
+        {
+            name: "Magic 101.3",
+            logo: "stations/images-america/c2c/gainesville_fl/Magic 101.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice66.securenetsystems.net/WTMG"
         },
         {
             name: "US 102.3",
@@ -12335,6 +12375,11 @@ var stations_c2c = {
             name: "103.7 The Gator",
             logo: "stations/images-america/c2c/gainesville_fl/103.7 The Gator.png",
             url: "https://ais-sa1.streamon.fm/7645_48k.aac"
+        },
+        {
+            name: "Y105",
+            logo: "stations/images-america/c2c/gainesville_fl/Y105.png",
+            url: "http://ais-sa2.cdnstream1.com/2104_80.mp3"
         },
         {
             name: "KISS 105.3",
@@ -13029,6 +13074,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNDBAMAAC_SC"
         },
         {
+            name: "HOT 94.1",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/HOT 94.1.png",
+            url: "https://live.wostreaming.net/manifest/southernstonefl-whoghd2aac-ibc4"
+        },
+        {
             name: "Star 94.5",
             logo: "stations/images-america/c2c/orlando_fl/Star 94.5.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl945/orl945-sgplayer-aac"
@@ -13067,6 +13117,11 @@ var stations_c2c = {
             name: "FM 101.9",
             logo: "stations/images-america/c2c/orlando_fl/FM 101.9.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQMPFMAAC_SC"
+        },
+        {
+            name: "WIKD 102.5",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/WIKD 102.5.png",
+            url: "https://stream.revma.ihrhls.com/zc6300/hls.m3u8"
         },
         {
             name: "103.3 The Vibe",
@@ -13122,6 +13177,11 @@ var stations_c2c = {
             name: "Viva 1030",
             logo: "stations/images-america/c2c/orlando_fl/Viva 99.5.png",
             url: "http://192.99.177.194:9982/stream"
+        },
+        {
+            name: "1380 The Cat",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/1380 The Cat.png",
+            url: "https://ice41.securenetsystems.net/WELE"
         },
     ],
     "orlando": [
@@ -13322,13 +13382,18 @@ var stations_c2c = {
         },
         {
             name: "Pride Radio 106.7-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            logo: "stations/images-america/c2c/orlando_fl/Pride Radio 106.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7108/hls.m3u8"
         },
         {
             name: "The Breeze 106.7-HD3",
             logo: "stations/images-america/0_general_logos/The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
+            name: "WDBO 107.3",
+            logo: "stations/images-america/c2c/orlando_fl/WDBO 107.3.png",
+            url: "https://cmg.streamguys1.com/orl1073/orl1073-sgplayer-aac"
         },
         {
             name: "Magic 107.7",
