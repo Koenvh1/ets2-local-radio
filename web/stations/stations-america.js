@@ -12531,7 +12531,7 @@ var stations_c2c = {
         {
             name: "Easy 102.9",
             logo: "stations/images-america/c2c/jacksonville_fl/Easy 102.9.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/jac1029/jac1029-sgplayer-aac"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/jac1065/jac1065-sgplayer-aac"
         },
         {
             name: "Pure Radio 103.7",
@@ -12556,7 +12556,7 @@ var stations_c2c = {
         {
             name: "X106.5",
             logo: "stations/images-america/c2c/jacksonville_fl/X106.5.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/jac1065/jac1065-sgplayer-aac"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/jac1029/jac1029-sgplayer-aac"
         },
         {
             name: "Rumba 106.9",
