@@ -26531,7 +26531,7 @@ var stations_c2c = {
         {
             name: "The Bull 98.5",
             logo: "stations/images-america/c2c/tulsa_ok/The Bull 98.5.png",
-            url: "https://live.wostreaming.net/direct/griffin-kvoofmmp3-ibc1"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/griffin-kvoofmmp3-ibc1"
         },
         {
             name: "Heart and Soul 99.1",
@@ -26541,7 +26541,7 @@ var stations_c2c = {
         {
             name: "Big Country 99.5",
             logo: "stations/images-america/c2c/tulsa_ok/Big Country 99.5.png",
-            url: "https://live.wostreaming.net/direct/griffin-kxblfmmp3-ibc1"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/griffin-kxblfmmp3-ibc1"
         },
         {
             name: "Bright Star 100.1",
