@@ -1874,9 +1874,9 @@ var stations = {
             url: "https://streamingv2.shoutcast.com/radio-1190"
         },
         {
-            name: "1430 The Bet",
-            logo: "stations/images-america/denver/1430 The Bet.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KEZWAMAAC_SC"
+            name: "The Bet 1430",
+            logo: "stations/images-america/denver/The Bet 1430.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPAMAAC_SC"
         },
         {
             name: "ESPN Denver 1600",
@@ -16642,7 +16642,7 @@ var stations_c2c = {
         {
             name: "99KG",
             logo: "stations/images-america/c2c/salina_ks/99KG.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KSKG"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KSKG2"
         },
         {
             name: "FM104.9",
@@ -16662,7 +16662,7 @@ var stations_c2c = {
         {
             name: "910 KINA",
             logo: "stations/images-america/c2c/salina_ks/910 KINA.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KINA"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KINA2"
         },
         {
             name: "KSAL 1150",
@@ -16791,7 +16791,7 @@ var stations_c2c = {
         {
             name: "T95",
             logo: "stations/images-america/c2c/wichita_ks/T95.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KICTFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7721_128k.aac"
         },
         {
             name: "Channel 96.3",
@@ -16821,7 +16821,7 @@ var stations_c2c = {
         {
             name: "KFDI 101.3",
             logo: "stations/images-america/c2c/wichita_ks/KFDI 101.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFDIFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7718_128k.aac"
         },
         {
             name: "102.1 The Bull",
@@ -16846,7 +16846,7 @@ var stations_c2c = {
         {
             name: "104.5 The Fox",
             logo: "stations/images-america/c2c/wichita_ks/104.5 The Fox.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFXJFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7720_128k.aac"
         },
         {
             name: "105.3 The Buzz",
@@ -16856,7 +16856,7 @@ var stations_c2c = {
         {
             name: "Radio Lobo 106.5",
             logo: "stations/images-america/c2c/wichita_ks/Radio Lobo 106.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYQQFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7722_128k.aac"
         },
         {
             name: "ALT 107.3",
