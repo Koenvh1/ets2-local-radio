@@ -26504,11 +26504,6 @@ var stations_c2c = {
             url: "https://ice7.securenetsystems.net/KXOJ"
         },
         {
-            name: "94.1-HD2 KXOJ2",
-            logo: "stations/images-america/c2c/tulsa_ok/94.1-HD2 KXOJ2.png",
-            url: "http://ice8.securenetsystems.net/KTSO"
-        },
-        {
             name: "94.5 Totally Awesome 80's",
             logo: "stations/images-america/c2c/tulsa_ok/94.5 Totally Awesome 80's.png",
             url: "http://ice8.securenetsystems.net/KTSO"
@@ -26557,6 +26552,11 @@ var stations_c2c = {
             name: "100.9 KTSO",
             logo: "stations/images-america/c2c/tulsa_ok/100.9 KTSO.png",
             url: "https://ice8.securenetsystems.net/KTSO"
+        },
+        {
+            name: "KXOJ2 100.9-HD2",
+            logo: "stations/images-america/c2c/tulsa_ok/KXOJ2 100.9-HD2.png",
+            url: "https://ice41.securenetsystems.net/KXOJ2"
         },
         {
             name: "101.5 El Patrón",
