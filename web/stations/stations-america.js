@@ -2957,8 +2957,8 @@ var stations = {
             url: "https://live.wostreaming.net/direct/cherrycreek-kubcamaac-ibc4"
         },
         {
-            name: "X106.9",
-            logo: "stations/images-america/grand_junction_montrose/X106.9.png",
+            name: "106.9 Radio Z",
+            logo: "stations/images-america/grand_junction_montrose/106.9 Radio Z.png",
             url: "http://www.rockkmzk.com:9304/;"
         },
         {
@@ -6276,8 +6276,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmxyfmaac-ibc3"
         },
         {
-            name: "X106.9",
-            logo: "stations/images-america/grand_junction_montrose/X106.9.png",
+            name: "106.9 Radio Z",
+            logo: "stations/images-america/grand_junction_montrose/106.9 Radio Z.png",
             url: "http://www.rockkmzk.com:9304/;"
         },
         {
