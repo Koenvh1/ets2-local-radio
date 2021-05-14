@@ -7419,6 +7419,12 @@ var country_properties_canadream = {
         code: "ca-on",
         relative_radius: 1.2
     },
+    "osoyoos": {
+        name: "Osoyoos",
+        name_english: "Osoyoos",
+        code: "ca-bc",
+        relative_radius: 0.5
+    },
     "ottawa": {
         name: "Ottawa",
         name_english: "Ottawa",
@@ -7691,6 +7697,9 @@ var city_properties_canadream = {
     },
     "nakina": {
         relative_whitenoise: 0.95
+    },
+    "osoyoos": {
+        relative_whitenoise: 0.85
     },
     "ottawa": {
         relative_whitenoise: 0.95
@@ -8076,6 +8085,14 @@ var cities_canadream = [
         "x": "34124.8",
         "y": "104.055",
         "z": "-66400.7"
+    },
+    {
+        "gameName": "osoyoos",
+        "realName": "Osoyoos",
+        "country": "britcolumb",
+        "x": "-86504.2",
+        "y": "83.5898",
+        "z": "-67646.3"
     },
     {
         "gameName": "ottawa",
