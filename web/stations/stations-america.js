@@ -20935,7 +20935,7 @@ var stations_c2c = {
         {
             name: "93.9 The Eagle",
             logo: "stations/images-america/c2c/columbia_mo/93.9 The Eagle.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7399_48k.aac"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7406_48k.aac"
         },
         {
             name: "94.3 KAT Country",
@@ -33982,12 +33982,12 @@ var stations_canadream = {
             name: "ICI Première 95.1",
             logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMTL0_MTL"
-        },
+        },/*
         {
             name: "CHOM 97.7",
             logo: "stations/images-america/canadream/montreal/CHOM 97.7.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC_SC"
-        },
+        },*/
         {
             name: "98.5 FM",
             logo: "stations/images-america/canadream/montreal/98.5 FM.png",
@@ -34461,7 +34461,7 @@ var stations_canadream = {
             name: "ICI Première 93.7",
             logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSAG0_SAG"
-        },
+        },/*
         {
             name: "94.5 Énergie",
             logo: "stations/images-america/canadream/saguenay/94.5 Énergie.png",
@@ -34471,7 +34471,7 @@ var stations_canadream = {
             name: "96.9 Rouge FM",
             logo: "stations/images-america/canadream/saguenay/96.9 Rouge FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC.aac"
-        },
+        },*/
         {
             name: "ICI Musique 100.9",
             logo: "stations/images-america/canadream/ICI Musique.png",
