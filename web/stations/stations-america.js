@@ -30149,8 +30149,8 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/KTSUFM"
         },
         {
-            name: "Radio Now 92.1",
-            logo: "stations/images-america/c2c/houston_tx/Radio Now 92.1.png",
+            name: "Praise 92.1",
+            logo: "stations/images-america/c2c/houston_tx/Praise 92.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KROIFMAAC_SC"
         },
         {
