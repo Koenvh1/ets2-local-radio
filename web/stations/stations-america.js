@@ -6544,8 +6544,8 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KKFT"
         },
         {
-            name: "The X 100.1",
-            logo: "stations/images-america/reno/The X 100.1.png",
+            name: "100.1 The X",
+            logo: "stations/images-america/reno/100.1 The X.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
@@ -18749,8 +18749,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WERSHD2AAC_SC"
         },
         {
-            name: "89.7 WGBH",
-            logo: "stations/images-america/c2c/boston_ma/89.7 WGBH.png",
+            name: "GBH 89.7",
+            logo: "stations/images-america/c2c/boston_ma/GBH 89.7.png",
             url: "https://streams.audio.wgbh.org:8200/wgbh-aac"
         },
         {
@@ -18819,14 +18819,19 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAACHI_SC"
         },
         {
-            name: "99.5 WCRB",
-            logo: "stations/images-america/c2c/boston_ma/99.5 WCRB.png",
-            url: "http://audio.wgbh.org:8004/"
+            name: "CRB 99.5",
+            logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
+            url: "https://streams.audio.wgbh.org:8204/classical-hi"
         },
         {
             name: "100.7 WZLX",
             logo: "stations/images-america/c2c/boston_ma/100.7 WZLX.png",
             url: "https://stream.revma.ihrhls.com/zc7730/hls.m3u8"
+        },
+        {
+            name: "101.1 WBMS",
+            logo: "stations/images-america/c2c/boston_ma/101.1 WBMS.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/marshfield-wbmsamaac-ibc1"
         },
         {
             name: "101.7 The Bull",
@@ -18912,6 +18917,11 @@ var stations_c2c = {
             name: "WRKO AM 680",
             logo: "stations/images-america/c2c/boston_ma/WRKO AM 680.png",
             url: "https://stream.revma.ihrhls.com/zc7750/hls.m3u8"
+        },
+        {
+            name: "WEEI 850",
+            logo: "stations/images-america/c2c/boston_ma/WEEI 850.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WEEIAMAAC_SC"
         },
         {
             name: "WBZ NewsRadio 1030",
