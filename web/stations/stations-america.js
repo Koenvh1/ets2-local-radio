@@ -4553,7 +4553,7 @@ var stations = {
         {
             name: "Fire Lane 97.1-HD3",
             logo: "stations/images-america/los_angeles/Fire Lane 97.1-HD3.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPHD3AAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUHD3AAC_SC"
         },
         {
             name: "97.9 La Raza",
