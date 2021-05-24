@@ -186,7 +186,7 @@ var stations = {
         {
             name: "WELLE 1",
             logo: "stations/images-europe/austria/Welle 1.png",
-            url: "https://live.welle1.at:18128/stream"
+            url: "https://live.welle1.at:19000/live"
         },
     ],
     "basque": [
@@ -1275,12 +1275,12 @@ var stations = {
             name: "Fortuna Plus",
             logo: "stations/images-europe/georgia/Fortuna Plus.png",
             url: "https://tv.cdn.xsg.ge/cld9-0386/fortunaplus/index.m3u8"
-        },
+        },/*
         {
             name: "რადიო თავისუფლება",
             logo: "stations/images-europe/georgia/რადიო თავისუფლება.svg",
-            url: "https://ample-08.radiojar.com/s4r86napn3quv?rj-ttl=5&rj-tok=AAABdCta2uMA7vHHEOIczpU1Dg"
-        },
+            url: "https://stream.radiojar.com/s4r86napn3quv"
+        },*/
     ],
     "germany": [
         {
@@ -2488,7 +2488,7 @@ var stations = {
         {
             name: "BBC World Service Arabic",
             logo: "stations/images-europe/jordan/BBC World Service Arabic.png",
-            url: "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba?s=1427311155"
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_arabic"
         },
     ],
     "kazakhstan": [
@@ -2588,19 +2588,19 @@ var stations = {
     "lebanon": [
         {
             name: "Radio Liban",
-            logo: "stations/images-europe/lebanon/Radio Liban.svg",
+            logo: "stations/images-europe/lebanon/Radio Liban.png",
             url: "http://162.244.80.118:3160/;stream.mp3"
         },
         {
             name: "Sawt El Ghad",
             logo: "stations/images-europe/lebanon/Sawt El Ghad.png",
-            url: "https://live.hibridcdn.net/ghadciel/ghadradio/playlist.m3u8"
-        },
+            url: "https://edge.mixlr.com/channel/llhwd"
+        },/*
         {
             name: "صوت الحرية",
             logo: "stations/images-europe/lebanon/صوت الحرية.jpg",
             url: "http://vps1.osina.cloud:9302/;"
-        },
+        },*/
         {
             name: "Fame FM",
             logo: "stations/images-europe/lebanon/Fame FM.png",
@@ -2635,6 +2635,11 @@ var stations = {
             name: "Sawt El Shaeb",
             logo: "stations/images-europe/lebanon/Sawt El Shaeb.png",
             url: "http://vps1.osina.cloud:9320/;"
+        },
+        {
+            name: "Virgin Radio Lebanon",
+            logo: "stations/images-europe/lebanon/Virgin Radio Lebanon.png",
+            url: "https://stream.zeno.fm/p3m819pkha0uv"
         },
     ],
     "liecht": [
@@ -2935,7 +2940,7 @@ var stations = {
         {
             name: "BBC Radio Ulster",
             logo: "stations/images-europe/nireland/BBC Radio Ulster.png",
-            url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_ulster_mf_p?s=1479063391&e=1479077791&h=7456f8d848519bd3032f51100004c366"
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster"
         },
         {
             name: "U105",
@@ -3478,12 +3483,12 @@ var stations = {
         {
             name: "BBC Radio Scotland",
             logo: "stations/images-europe/scotland/BBC Radio Scotland.png",
-            url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_scotlandfm_mf_p"
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm"
         },
         {
             name: "BBC Radio nan Gàidheal",
             logo: "stations/images-europe/scotland/BBC Radio nan Gàidheal.png",
-            url: "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_nangaidheal_mf_p"
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal"
         },
     ],
     "serbia": [

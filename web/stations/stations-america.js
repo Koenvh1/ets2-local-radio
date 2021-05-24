@@ -34591,7 +34591,7 @@ var stations_canadream = {
         {
             name: "Plaisir 94.1",
             logo: "stations/images-america/canadream/septiles/Plaisir 94.1.png",
-            url: "http://stream.statsradio.com:8034/stream"
+            url: "https://stream.statsradio.com:8034/stream"
         },
         {
             name: "ICI Musique 96.1",
@@ -34603,7 +34603,11 @@ var stations_canadream = {
             logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
-
+        {
+            name: "O99,1",
+            logo: "stations/images-america/canadream/septiles/O99,1.png",
+            url: "https://stream.statsradio.com:8020/stream"
+        },
     ],
     "stewart": [
         {
