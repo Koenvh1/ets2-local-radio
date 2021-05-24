@@ -21,7 +21,7 @@ var g_volume = 1;
 //nearest country:
 var g_last_nearest_country = "";
 //whitenoise active:
-var g_whitenoise = false;
+var g_whitenoise = true;
 //global hls object:
 var g_hls = null;
 //last command id from desktop received:
