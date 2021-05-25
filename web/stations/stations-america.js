@@ -8000,8 +8000,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
         },
         {
-            name: "iHeart80s @ 103.7",
-            logo: "stations/images-america/san_francisco/iHeart80s @ 103.7.png",
+            name: "103.7 80s+",
+            logo: "stations/images-america/san_francisco/103.7 80s+.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
         {
