@@ -2655,6 +2655,12 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 1.0
     },
+    "fort_smith_ar": {
+        name: "Fort Smith",
+        name_english: "Fort Smith",
+        code: "us-ar",
+        relative_radius: 0.8
+    },
     "little_rock": {
         name: "Little Rock",
         name_english: "Little Rock",
@@ -4350,6 +4356,9 @@ var city_properties_c2c = {
     "fayetteville_ar": {
         relative_whitenoise: 0.95
     },
+    "fort_smith_ar": {
+        relative_whitenoise: 0.85
+    },
     "hot_springs_ar": {
         relative_whitenoise: 0.95
     },
@@ -5259,6 +5268,14 @@ var cities_c2c = [
         "x": "9495.54",
         "y": "105.207",
         "z": "16615"
+    },
+    {
+        "gameName": "fort_smith_ar",
+        "realName": "Fort Smith",
+        "country": "arkansas",
+        "x": "7007.55",
+        "y": "93.8315",
+        "z": "21483.1"
     },
     {
         "gameName": "hot_springs_ar",
