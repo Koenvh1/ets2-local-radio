@@ -12661,6 +12661,11 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/WJNJAM"
         },
         {
+            name: "BIN 104.1",
+            logo: "stations/images-america/c2c/jacksonville_fl/BIN 104.1.png",
+            url: "https://stream.revma.ihrhls.com/zc8932/hls.m3u8"
+        },
+        {
             name: "104.5 WOKV",
             logo: "stations/images-america/c2c/jacksonville_fl/104.5 WOKV.png",
             url: "https://cmg.streamguys1.com/jac1045/jac1045-sgplayer-aac"
@@ -29613,8 +29618,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "Latino 102.7",
-            logo: "stations/images-america/c2c/austin_tx/Latino 102.7.png",
+            name: "102.7 The Vibe",
+            logo: "stations/images-america/c2c/austin_tx/102.7 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
         },
         {
