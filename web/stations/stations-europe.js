@@ -1354,6 +1354,11 @@ var stations = {
             url: "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3"
         },
         {
+            name: "Femotion Radio",
+            logo: "stations/images-europe/germany/Femotion Radio.png",
+            url: "https://frontend.streamonkey.net/femotion-radio"
+        },
+        {
             name: "Klassik Radio Digital",
             logo: "stations/images-europe/germany/Klassik Radio.png",
             url: "https://stream.klassikradio.de/live/mp3-192"
@@ -1397,6 +1402,11 @@ var stations = {
             name: "Schwarzwaldradio",
             logo: "stations/images-europe/germany/Schwarzwaldradio.png",
             url: "http://str0.creacast.com/schwarzwaldradio"
+        },
+        {
+            name: "Sportradio Deutschland",
+            logo: "stations/images-europe/germany/Sportradio Deutschland.png",
+            url: "https://frontend.streamonkey.net/sportradio-deutschland"
         },
         {
             name: "sunshine live",
