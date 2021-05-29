@@ -13089,8 +13089,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WAROFMAAC_SC"
         },
         {
-            name: "95.3 OLZ",
-            logo: "stations/images-america/c2c/naples_fl/95.3 OLZ.png",
+            name: "95.3 The Beach",
+            logo: "stations/images-america/c2c/naples_fl/95.3 The Beach.png",
             url: "https://stream.revma.ihrhls.com/zc493/hls.m3u8"
         },
         {
@@ -13119,9 +13119,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGUF_FMAAC_SC"
         },
         {
-            name: "99.3 ESPN",
-            logo: "stations/images-america/c2c/naples_fl/99.3 ESPN.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWCNFMAAC_SC"
+            name: "Playa 99.3",
+            logo: "stations/images-america/c2c/naples_fl/Playa 99.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/THELINKAAC_SC"
         },
         {
             name: "Y100.1",
@@ -13154,14 +13154,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXKBFMAAC_SC"
         },
         {
+            name: "ESPN 104.3",
+            logo: "stations/images-america/c2c/naples_fl/ESPN 104.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWCNFMAAC_SC"
+        },
+        {
             name: "104.7 The Mix",
             logo: "stations/images-america/c2c/naples_fl/104.7 The Mix.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WSGL_FMAAC_SC"
-        },
-        {
-            name: "Playa 105.1",
-            logo: "stations/images-america/c2c/naples_fl/Playa 105.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/THELINKAAC_SC"
         },
         {
             name: "105.5 The Beat",
@@ -26996,6 +26996,16 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WITFFM.mp3"
         },
         {
+            name: "The Pulse 90.7",
+            logo: "stations/images-america/c2c/harrisburg_pa/The Pulse 90.7.png",
+            url: "http://mediastreams.flagstream.com/wvmmlive.aac"
+        },
+        {
+            name: "WMSS 91.1",
+            logo: "stations/images-america/c2c/harrisburg_pa/WMSS 91.1.png",
+            url: "http://stream.wmssfm.com:8000/main"
+        },
+        {
             name: "WQED 91.7",
             logo: "stations/images-america/c2c/johnstown_pa/WQED 89.7.png",
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
@@ -27006,8 +27016,8 @@ var stations_c2c = {
             url: "http://live.wostreaming.net/direct/espn-network-48"
         },
         {
-            name: "Nash 93.5 FM",
-            logo: "stations/images-america/c2c/harrisburg_pa/Nash 93.5 FM.png",
+            name: "93.5 Nash FM",
+            logo: "stations/images-america/c2c/harrisburg_pa/93.5 Nash FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZCYFMAAC_SC"
         },
         {
@@ -27031,9 +27041,14 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1985/hls.m3u8"
         },
         {
-            name: "ALT 99.3",
-            logo: "stations/images-america/c2c/harrisburg_pa/ALT 99.3.png",
+            name: "REAL 99.3",
+            logo: "stations/images-america/c2c/harrisburg_pa/REAL 99.3.png",
             url: "https://stream.revma.ihrhls.com/zc1981/hls.m3u8"
+        },
+        {
+            name: "fun 101.3",
+            logo: "stations/images-america/c2c/harrisburg_pa/fun 101.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WROZFMAAC_SC"
         },
         {
             name: "RED 102.3",
@@ -27044,6 +27059,26 @@ var stations_c2c = {
             name: "WINK 104",
             logo: "stations/images-america/c2c/harrisburg_pa/WINK 104.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNKFMAAC_SC"
+        },
+        {
+            name: "105.7 The X",
+            logo: "stations/images-america/c2c/harrisburg_pa/105.7 The X.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQXAFMAAC_SC"
+        },
+        {
+            name: "HOT 106.7",
+            logo: "stations/images-america/c2c/harrisburg_pa/HOT 106.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC"
+        },
+        {
+            name: "WHP 580",
+            logo: "stations/images-america/c2c/harrisburg_pa/WHP 580.png",
+            url: "https://stream.revma.ihrhls.com/zc4027/hls.m3u8"
+        },
+        {
+            name: "FOX Sports 1460",
+            logo: "stations/images-america/c2c/harrisburg_pa/FOX Sports 1460.png",
+            url: "https://stream.revma.ihrhls.com/zc5161/hls.m3u8"
         },
     ],
     "johnstown": [
