@@ -185,6 +185,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "eureka_nv": {
+        name: "Eureka",
+        name_english: "Eureka",
+        code: "us-nv",
+        relative_radius: 0.8
+    },
     "evanston": {
         name: "Evanston",
         name_english: "Evanston",
@@ -845,6 +851,9 @@ var city_properties = {
     "eureka": {
         relative_whitenoise: 0.85
     },
+    "eureka_nv": {
+        relative_whitenoise: 0.85
+    },
     "evanston": {
         relative_whitenoise: 0.85
     },
@@ -1199,6 +1208,14 @@ var cities = [
         "x": "-118391",
         "y": "90.7422",
         "z": "-27408.9"
+    },
+    {
+        "gameName": "eureka_nv",
+        "realName": "Eureka",
+        "country": "nevada",
+        "x": "-88331.5",
+        "y": "134.886",
+        "z": "-13386"
     },
     {
         "gameName": "evanston",

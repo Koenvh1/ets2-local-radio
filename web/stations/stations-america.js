@@ -2216,6 +2216,23 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KGOEAMAAC_SC"
         },
     ],
+    "eureka_nv": [
+        {
+            name: "KNPR 88.7",
+            logo: "stations/images-america/nevada/KNPR.svg",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
+        },
+        {
+            name: "Pilgrim Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
+        },
+        {
+            name: "KUNR 90.9",
+            logo: "stations/images-america/0_general_logos/KUNR.png",
+            url: "https://kunrstream.com:8443/live"
+        },
+    ],
     "evanston": [
         {
             name: "WPR 89.7",
