@@ -177,6 +177,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
         },
         {
+            name: "Family Life Radio 91.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
             name: "92.3 KRST",
             logo: "stations/images-america/albuquerque/92.3 KRST.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFMAAC_SC"
@@ -267,8 +272,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6469/hls.m3u8"
         },
         {
-            name: "Sunny 101.3",
-            logo: "stations/images-america/albuquerque/Sunny 101.3.png",
+            name: "101.3 The Hustle",
+            logo: "stations/images-america/albuquerque/101.3 The Hustle.png",
             url: "https://ice42.securenetsystems.net/KRKEFM"
         },
         {
@@ -6218,6 +6223,11 @@ var stations = {
             logo: "stations/images-america/portland/KBMS 1480.png",
             url: "http://64.78.234.173:8200/;"
         },
+        {
+            name: "La Patrona 1640",
+            logo: "stations/images-america/portland/La Patrona 1640.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDZRAMAAC_SC"
+        },
     ],
     "price": [
         {
@@ -7494,6 +7504,21 @@ var stations = {
     ],
     "santa_fe": [
         {
+            name: "KANW 89.1",
+            logo: "stations/images-america/albuquerque/KANW 89.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
+        },
+        {
+            name: "KUNM 89.9",
+            logo: "stations/images-america/albuquerque/KUNM 89.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
+        },
+        {
+            name: "Family Life Radio 91.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
             name: "Jam'n 94.7",
             logo: "stations/images-america/santa_fe/Jam'n 94.7.png",
             url: "https://58f14b372a413.streamlock.net:444/juan/juan.stream_aac/playlist.m3u8"
@@ -7537,6 +7562,11 @@ var stations = {
             name: "KTAOS 101.9",
             logo: "stations/images-america/santa_fe/KTAOS 101.9.png",
             url: "https://58f14b372a413.streamlock.net:444/ktao/ktao.stream_aac/playlist.m3u8"
+        },
+        {
+            name: "Fuego 102.9",
+            logo: "stations/images-america/albuquerque/Fuego 102.9.png",
+            url: "https://live.wostreaming.net/direct/agmedia28-kjfafmaac-ibc3"
         },
         {
             name: "104.1 The Edge",
@@ -28097,12 +28127,12 @@ var stations_c2c = {
         {
             name: "HOT 98.1",
             logo: "stations/images-america/c2c/greenville_sc/HOT 98.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHZTFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7689_128k.aac"
         },
         {
             name: "X98.5",
             logo: "stations/images-america/c2c/greenville_sc/X98.5.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WJMZHD2AAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7691_128k.aac"
         },
         {
             name: "Magic 98.9",
@@ -28110,9 +28140,9 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WSPAFMAAC_SC"
         },
         {
-            name: "99.5 Jack FM",
-            logo: "stations/images-america/c2c/greenville_sc/99.5 Jack FM.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WJMZHD3AAC_SC"
+            name: "Awesome 99.5",
+            logo: "stations/images-america/c2c/greenville_sc/Awesome 99.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7692_128k.aac"
         },
         {
             name: "99.9 Kiss Country",
@@ -28153,6 +28183,11 @@ var stations_c2c = {
             name: "106.3 WORD",
             logo: "stations/images-america/c2c/greenville_sc/106.3 WORD.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WYRDFMAAC_SC"
+        },
+        {
+            name: "107.3 JAMZ",
+            logo: "stations/images-america/c2c/greenville_sc/107.3 JAMZ.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7690_128k.aac"
         },
         {
             name: "BIN 1440",
