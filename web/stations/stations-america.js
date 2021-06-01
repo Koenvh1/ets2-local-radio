@@ -272,8 +272,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6469/hls.m3u8"
         },
         {
-            name: "101.3 The Hustle",
-            logo: "stations/images-america/albuquerque/101.3 The Hustle.png",
+            name: "Hustle 101.3",
+            logo: "stations/images-america/albuquerque/Hustle 101.3.png",
             url: "https://ice42.securenetsystems.net/KRKEFM"
         },
         {
