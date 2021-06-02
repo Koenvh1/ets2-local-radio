@@ -14,7 +14,7 @@ body {
     display: none;
 }
 
-.remote, .unsupported-browser, .update, .microsoft-edge {
+.remote, .unsupported-browser, .update, .https {
     display: none;
 }
 
