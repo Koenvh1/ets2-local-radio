@@ -183,6 +183,9 @@ Close the server, open the `settings.json` file, and change `vr` to `true`.
 ### The server won't start due to some SlimDX.dll problem
 Make sure that [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555) is installed.
 
+### The page keeps showing "Waiting for your in-game coordinates...", even though the server does know the coordinates
+Make sure you use a modern browser, and have no add-ons that conflict with Local Radio. Also make sure your firewall does not block access to the Local Radio server, and that your browser settings are not so restrictive that they block access to Local Radio (e.g. by forcing HTTPS usage).
+
 ### Something else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
 If that does not work, then please open [an issue](https://github.com/Koenvh1/ets2-local-radio/issues) or post it on the ProMods/SCS forum. Include the `Error log.txt` file if possible.
