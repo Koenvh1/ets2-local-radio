@@ -54,8 +54,10 @@ function initialise() {
 
     if(getBrowser().ie || getBrowser().safari){
         $(".unsupported-browser").show();
-    } else if (getBrowser().edge) {
-        $(".microsoft-edge").show();
+    }
+
+    if (location.protocol === "https:") {
+        $(".https").show();
     }
 
     if (localStorage.getItem("volume") == null) {
