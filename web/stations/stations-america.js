@@ -23537,6 +23537,11 @@ var stations_c2c = {
             url: "http://peace.str3am.com:7070/wskg"
         },
         {
+            name: "Magic 92.7",
+            logo: "stations/images-america/c2c/elmira_ny/Magic 92.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice3.securenetsystems.net/WENYFM"
+        },
+        {
             name: "Wingz 93",
             logo: "stations/images-america/c2c/elmira_ny/Wingz 93.png",
             url: "https://ice23.securenetsystems.net/WINGZ"
