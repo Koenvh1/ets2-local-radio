@@ -34621,7 +34621,7 @@ var stations_canadream = {
         {
             name: "CIBM 107",
             logo: "stations/images-america/canadream/rdl/CIBM 107.png",
-            url: "http://podcast.servlinks.com:8407/;stream/1"
+            url: "http://stream.statsradio.com:8050/stream"
         },
     ],
     "regina": [
@@ -35004,6 +35004,11 @@ var stations_canadream = {
             name: "CBC Music 94.1",
             logo: "stations/images-america/canadream/CBC Music.png",
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+        },
+        {
+            name: "94.9 The Rock",
+            logo: "stations/images-america/canadream/toronto/94.9 The Rock.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKGEFMAAC_SC"
         },
         {
             name: "KX96",
