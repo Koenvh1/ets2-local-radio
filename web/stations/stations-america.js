@@ -4103,6 +4103,11 @@ var stations = {
             url: "http://64.150.176.42:8182/stream"
         },
         {
+            name: "Fiesta 98.1",
+            logo: "stations/images-america/las_vegas/Fiesta 98.1.png",
+            url: "https://sonicpanel.hostradios.com/8166/stream"
+        },
+        {
             name: "98.5 KLUC",
             logo: "stations/images-america/las_vegas/98.5 KLUC.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLUCFMAAC_SC"
@@ -6706,6 +6711,11 @@ var stations = {
             name: "Radio 74 89.3",
             logo: "stations/images-america/lakeview/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
+            name: "K-LOVE 89.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "92.7 Qlite",
