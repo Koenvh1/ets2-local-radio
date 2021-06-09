@@ -1622,7 +1622,7 @@ var stations = {
         {
             name: "Pirate Radio 1420",
             logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
-            url: "http://kmhsam.coos-bay.k12.or.us:8000/kmhsam"
+            url: "https://s9.voscast.com:9647/stream"
         },
     ],
     "crescent_city": [
