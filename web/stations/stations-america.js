@@ -229,7 +229,7 @@ var stations = {
         {
             name: "96.3 KKOB",
             logo: "stations/images-america/albuquerque/96.3 KKOB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
         },
         {
             name: "KISS 97.3",
@@ -377,12 +377,12 @@ var stations = {
             name: "Coast Community Radio 90.9",
             logo: "stations/images-america/astoria/Coast Community Radio 90.9.png",
             url: "https://ice5.securenetsystems.net/KMUN"
-        },
+        },/*
         {
             name: "93.3 The Rock",
             logo: "stations/images-america/astoria/93.3 The Rock.png",
             url: "http://209.95.35.49:7025/stream"
-        },/*
+        },
         {
             name: "Hits 94.3",
             logo: "stations/images-america/astoria/Hits 94.3.png",
@@ -3604,7 +3604,7 @@ var stations = {
         {
             name: "101.1 La Ley",
             logo: "stations/images-america/kennewick/101.1 La Ley.png",
-            url: "https://usa7.fastcast4u.com/proxy/gafelipe?mp=/;"
+            url: "https://ice10.securenetsystems.net/LALEY"
         },
         {
             name: "102.7 KORD",
@@ -3614,7 +3614,7 @@ var stations = {
         {
             name: "Exitos 104.9",
             logo: "stations/images-america/kennewick/Exitos 104.9.png",
-            url: "https://usa6.fastcast4u.com/proxy/qkxykrwb?mp=/1"
+            url: "https://ice10.securenetsystems.net/EXI"
         },
         {
             name: "Mix 105.3",
