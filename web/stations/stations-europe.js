@@ -3232,8 +3232,8 @@ var stations = {
             url: "http://waw.ic.smcdn.pl/4000-1.aac"
         },
         {
-            name: "Radio WAWA",
-            logo: "stations/images-europe/poland/Radio WAWA.png",
+            name: "Radio SuperNova",
+            logo: "stations/images-europe/poland/Radio SuperNova.png",
             url: "https://waw.ic.smcdn.pl/1380-1.aac"
         },
         {
