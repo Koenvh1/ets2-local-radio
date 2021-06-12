@@ -449,16 +449,16 @@ var stations = {
             name: "BHR1",
             logo: "stations/images-europe/bosnia/BHR1.png",
             url: "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8"
-        },
+        },/*
         {
-            name: "RTVF",
-            logo: "stations/images-europe/bosnia/RTVF.jpg",
+            name: "Radio FBiH",
+            logo: "stations/images-europe/bosnia/Radio FBiH.png",
             url: "https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_37270_stream_960775473;stream/1;"
-        },
+        },*/
         {
-            name: "РТРС",
-            logo: "stations/images-europe/bosnia/РТРС.png",
-            url: "https://parh.rtrs.tv/radio/live/playlist.m3u8"
+            name: "BIG 2",
+            logo: "stations/images-europe/bosnia/BIG 2.png",
+            url: "https://big2.bigportal.ba:8080/big2"
         },
         {
             name: "Bobar Radio",
@@ -466,9 +466,19 @@ var stations = {
             url: "http://94.130.11.28:9010/stream/1/"
         },
         {
-            name: "Radiopostaja Mir Međugorje",
-            logo: "stations/images-europe/bosnia/Radiopostaja Mir Međugorje.jpg",
-            url: "http://85.25.135.86:23565/;"
+            name: "Kalman Radio",
+            logo: "stations/images-europe/bosnia/Kalman Radio.png",
+            url: "http://163.172.47.181:8203/stream"
+        },
+        {
+            name: "Nes radio",
+            logo: "stations/images-europe/bosnia/Nes radio.png",
+            url: "http://188.40.62.20:8070/stream"
+        },
+        {
+            name: "Otvorena Mreža",
+            logo: "stations/images-europe/bosnia/Otvorena Mreža.png",
+            url: "http://s8.iqstreaming.com:8050/;"
         },
         {
             name: "Radio BIR",
@@ -476,19 +486,34 @@ var stations = {
             url: "http://188.40.62.20:8090/;"
         },
         {
+            name: "Radio BN",
+            logo: "stations/images-europe/bosnia/Radio BN.png",
+            url: "http://stream.rtvbn.com/;stream.mp3"
+        },
+        {
+            name: "Radio HB",
+            logo: "stations/images-europe/bosnia/Radio HB.png",
+            url: "http://178.209.2.100:7060/;"
+        },
+        {
             name: "Radio M",
             logo: "stations/images-europe/bosnia/Radio M.png",
             url: "http://team-data.ba:8030/;"
         },
         {
-            name: "Radio RSG",
-            logo: "stations/images-europe/bosnia/Radio RSG.jpg",
-            url: "http://195.201.112.14:9000/;stream"
+            name: "Radio Mir",
+            logo: "stations/images-europe/bosnia/Radio Mir.png",
+            url: "https://mirm.live/mir.mp3"
         },
         {
-            name: "Radio Bihac",
-            logo: "stations/images-europe/bosnia/Radio Bihac.jpg",
-            url: "https://radiobihaclive.radioca.st/;"
+            name: "RSG Radio",
+            logo: "stations/images-europe/bosnia/RSG Radio.png",
+            url: "http://stream.rsg.ba:9000/;stream"
+        },
+        {
+            name: "RTRS",
+            logo: "stations/images-europe/bosnia/RTRS.png",
+            url: "https://parh.rtrs.tv/radio/live/playlist.m3u8"
         },
     ],
     "bulgaria": [
@@ -607,34 +632,39 @@ var stations = {
     ],
     "croatia": [
         {
-            name: "HR1 Prvi",
-            logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3"
+            name: "HR 1",
+            logo: "stations/images-europe/croatia/HRT 1.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC_SC"
         },
         {
-            name: "HR2 Drugi",
-            logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3"
+            name: "HR 2",
+            logo: "stations/images-europe/croatia/HR 2.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC_SC"
         },
         {
-            name: "HR3 Treci",
-            logo: "stations/images-europe/croatia/HR1 Prvi.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3"
+            name: "HR 3",
+            logo: "stations/images-europe/croatia/HR 3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC_SC"
         },
         {
-            name: "Hrvatski katolički radio",
-            logo: "stations/images-europe/croatia/Hrvatski katolički radio.jpg",
+            name: "Hrvatski Katolički Radio",
+            logo: "stations/images-europe/croatia/Hrvatski Katolički Radio.png",
             url: "http://stream.hkr.hr:8000/hkr.mp3"
         },
         {
-            name: "Narodni radio",
-            logo: "stations/images-europe/croatia/Narodni radio.svg",
+            name: "Narodni",
+            logo: "stations/images-europe/croatia/Narodni.png",
             url: "http://live.narodni.hr:8059/;"
         },
         {
             name: "Otvoreni radio",
             logo: "stations/images-europe/croatia/Otvoreni radio.png",
             url: "https://stream.otvoreni.hr/otvoreni"
+        },
+        {
+            name: "Radio Kaj",
+            logo: "stations/images-europe/croatia/Radio Kaj.png",
+            url: "https://stream.rcast.net/66509"
         },
     ],
     "cyprus": [
@@ -2762,19 +2792,64 @@ var stations = {
     ],
     "mnegro": [
         {
-            name: "RTCG RCG",
-            logo: "stations/images-europe/mnegro/RTCG RCG.svg",
+            name: "RCG",
+            logo: "stations/images-europe/mnegro/RTCG.png",
             url: "http://radio.beotel.net:8008/;"
         },
         {
-            name: "RTCG R98",
-            logo: "stations/images-europe/mnegro/RTCG R98.svg",
+            name: "R98",
+            logo: "stations/images-europe/mnegro/RTCG.png",
             url: "http://radio.beotel.net:8010/;"
         },
         {
+            name: "Antena M",
+            logo: "stations/images-europe/mnegro/Antena M.png",
+            url: "http://radioservis.me:8010/antenamlive"
+        },
+        {
+            name: "DRS",
+            logo: "stations/images-europe/mnegro/DRS.png",
+            url: "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream&1623505984682"
+        },
+        {
+            name: "Play",
+            logo: "stations/images-europe/mnegro/Play radio.png",
+            url: "https://stream.playradio.me:8443/play-me.aac"
+        },
+        {
+            name: "Radio D",
+            logo: "stations/images-europe/mnegro/Radio D.png",
+            url: "http://tachyon.shoutca.st:8289/xstream"
+        },
+        {
             name: "Radio D Plus",
-            logo: "stations/images-europe/mnegro/Radio D Plus.svg",
+            logo: "stations/images-europe/mnegro/Radio D Plus.png",
             url: "http://tachyon.shoutca.st:8303/xstream"
+        },
+        {
+            name: "Radio Fatih",
+            logo: "stations/images-europe/mnegro/Radio Fatih.png",
+            url: "http://radioservis.me:8070/radiofatih"
+        },
+        {
+            name: "Radio S1",
+            logo: "stations/images-europe/mnegro/Radio S1.png",
+            url: "https://53be5ef2d13aa.streamlock.net/asmedia/radios1-cg/playlist.m3u8"
+        },
+        {
+            name: "Radio Svetigora",
+            logo: "stations/images-europe/mnegro/Radio Svetigora.png",
+            url: "https://svetigoralive.com/Radio%20Svetigora;"
+        },
+        {
+            name: "Srpski Radio",
+            logo: "stations/images-europe/mnegro/Srpski Radio.png",
+            url: "http://188.166.30.166:8000/stream"
+        },
+        {
+            name: "TDI Radio",
+            logo: "stations/images-europe/mnegro/TDI Radio.png",
+            url: "https://streaming.tdiradio.com/crnagora.mp3"
         },
     ],
     "moldova": [
@@ -3587,49 +3662,64 @@ var stations = {
     ],
     "slovenia": [
         {
-            name: "Radio Slovenija A1",
-            logo: "stations/images-europe/slovenia/Radio Slovenija A1.png",
-            url: "http://mp3.rtvslo.si:80/ra1"
+            name: "ARS",
+            logo: "stations/images-europe/slovenia/ARS.png",
+            url: "https://mp3.rtvslo.si/ars"
         },
         {
-            name: "Radio Slovenija Val202",
-            logo: "stations/images-europe/slovenia/Radio Slovenija Val202.png",
-            url: "http://mp3.rtvslo.si:80/val202"
+            name: "Radio Prvi",
+            logo: "stations/images-europe/slovenia/Radio Prvi.png",
+            url: "https://mp3.rtvslo.si/ra1"
         },
         {
-            name: "Radio Slovenija Ars",
-            logo: "stations/images-europe/slovenia/Radio Slovenija Ars.png",
-            url: "http://mp3.rtvslo.si:80/ars"
-        },
-        {
-            name: "Radio SI",
-            logo: "stations/images-europe/slovenia/Radio SI.jpg",
+            name: "Radio Si",
+            logo: "stations/images-europe/slovenia/Radio Si.png",
             url: "http://mp3.rtvslo.si/rsi"
         },
         {
+            name: "Val 202",
+            logo: "stations/images-europe/slovenia/Val 202.png",
+            url: "https://mp3.rtvslo.si/val202"
+        },
+        {
             name: "Hitradio Center",
-            logo: "stations/images-europe/slovenia/Hitradio Center.svg",
-            url: "http://stream2.radiocenter.si:8000/;"
+            logo: "stations/images-europe/slovenia/Hitradio Center.png",
+            url: "http://stream3.radiocenter.si:8000/;center/1"
         },
         {
             name: "Radio 1",
             logo: "stations/images-europe/slovenia/Radio 1.png",
-            url: "http://live.radio.si/Radio1"
+            url: "https://live.radio1.si/Radio1"
         },
         {
             name: "Radio Aktual",
             logo: "stations/images-europe/slovenia/Radio Aktual.png",
-            url: "http://stream.radioaktual.si/Aktual"
+            url: "https://live.radio.si/Aktual"
         },
         {
             name: "Radio City",
             logo: "stations/images-europe/slovenia/Radio City.png",
-            url: "http://82.149.22.34:8000/CityMp364mono.mp3"
+            url: "https://stream1.radiocity.si/CityMp3128.mp3"
+        },
+        {
+            name: "Radio Ekspres",
+            logo: "stations/images-europe/slovenia/Radio Ekspres.png",
+            url: "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream"
         },
         {
             name: "Radio Ognjišče",
-            logo: "stations/images-europe/slovenia/Radio Ognjišče.jpg",
-            url: "http://real.ognjisce.si:8000/ognjisce.mp3"
+            logo: "stations/images-europe/slovenia/Radio Ognjišče.png",
+            url: "https://live.radio.si/ognjisce.mp3"
+        },
+        {
+            name: "Radio Prvi",
+            logo: "stations/images-europe/slovenia/Radio Prvi.png",
+            url: "https://live.radio.si/ognjisce.mp3"
+        },
+        {
+            name: "Radio Veseljak",
+            logo: "stations/images-europe/slovenia/Radio Veseljak.png",
+            url: "https://live.radio.si/Veseljak"
         },
     ],
     "spain": [

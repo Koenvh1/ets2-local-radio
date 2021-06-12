@@ -237,6 +237,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-kkssfmaac-ibc3"
         },
         {
+            name: "Radio Lobo 97.7",
+            logo: "stations/images-america/albuquerque/Radio Lobo 97.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-klvofmaac-ibc3"
+        },
+        {
             name: "98.1 The Bull",
             logo: "stations/images-america/albuquerque/98.1 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc1381/hls.m3u8"
@@ -282,6 +287,11 @@ var stations = {
             url: "https://ice8.securenetsystems.net/KQTM"
         },
         {
+            name: "Coyote 102.5",
+            logo: "stations/images-america/albuquerque/Coyote 102.5.png",
+            url: "https://live.wostreaming.net/manifest/agmedia28-kiotfmaac-ibc3"
+        },
+        {
             name: "Fuego 102.9",
             logo: "stations/images-america/albuquerque/Fuego 102.9.png",
             url: "https://live.wostreaming.net/direct/agmedia28-kjfafmaac-ibc3"
@@ -290,6 +300,11 @@ var stations = {
             name: "103.3 eD FM",
             logo: "stations/images-america/albuquerque/103.3 eD FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDRFFMAAC_SC"
+        },
+        {
+            name: "103.7 The Oasis",
+            logo: "stations/images-america/albuquerque/103.7 The Oasis.png",
+            url: "https://ice42.securenetsystems.net/KOAZAM"
         },
         {
             name: "104.1 The Edge",
@@ -6414,7 +6429,7 @@ var stations = {
         {
             name: "Q97",
             logo: "stations/images-america/redbluff/Q97.png",
-            url: "http://ice42.securenetsystems.net/KNCQ2"
+            url: "https://atsradio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KNCQ2"
         },
         {
             name: "Radio Mexicana 99.7",
@@ -6424,7 +6439,7 @@ var stations = {
         {
             name: "Thunder 100.7",
             logo: "stations/images-america/redbluff/Thunder 100.7.png",
-            url: "https://ice10.securenetsystems.net/KTHU2"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KTHU"
         },
         {
             name: "Power 102.1",
@@ -6434,7 +6449,7 @@ var stations = {
         {
             name: "106.7 Z-ROCK",
             logo: "stations/images-america/redbluff/106.7 Z-ROCK.png",
-            url: "https://ice24.securenetsystems.net/KRQR"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KRQR"
         },
     ],
     "redding": [
@@ -6471,7 +6486,7 @@ var stations = {
         {
             name: "Power 94.7",
             logo: "stations/images-america/redding/Power 94.7.png",
-            url: "http://ice42.securenetsystems.net/KEWB2"
+            url: "https://atsradio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KEWB2"
         },
         {
             name: "KCNR 96.5",
@@ -6481,7 +6496,7 @@ var stations = {
         {
             name: "Q97",
             logo: "stations/images-america/redbluff/Q97.png",
-            url: "http://ice42.securenetsystems.net/KNCQ2"
+            url: "https://atsradio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KNCQ2"
         },
         {
             name: "WiLD 99.3",
