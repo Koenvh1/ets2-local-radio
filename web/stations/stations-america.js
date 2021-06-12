@@ -6985,7 +6985,7 @@ var stations = {
         },
         {
             name: "KQED 89.3",
-            logo: "stations/images-america/san_francisco/KQED 88.5.png",
+            logo: "stations/images-america/0_general_logos/KQED.png",
             url: "https://streams.kqed.org/kqedradio"
         },
         {
@@ -7968,7 +7968,7 @@ var stations = {
     "san_francisco": [
         {
             name: "KQED 88.5",
-            logo: "stations/images-america/san_francisco/KQED 88.5.png",
+            logo: "stations/images-america/0_general_logos/KQED.png",
             url: "https://streams.kqed.org/kqedradio"
         },
         {
