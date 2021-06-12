@@ -15,78 +15,63 @@ var stations = {
     "albania": [
         {
             name: "Radio Tirana 1",
-            logo: "stations/images-europe/albania/Radio Tirana 1.jpg",
+            logo: "stations/images-europe/albania/Radio Tirana 1.png",
             url: "http://149.202.220.47:8888/radiotirana1"
         },
         {
             name: "Radio Tirana 2",
-            logo: "stations/images-europe/albania/Radio Tirana 2.jpg",
+            logo: "stations/images-europe/albania/Radio Tirana 2.png",
             url: "http://149.202.220.47:8888/radiotirana2"
         },
         {
             name: "Radio Tirana 3",
-            logo: "stations/images-europe/albania/Radio Tirana 3.jpg",
+            logo: "stations/images-europe/albania/Radio Tirana 3.png",
             url: "http://149.202.220.47:8888/radiotirana3"
         },
         {
-            name: "Alfa dhe Omega Radio",
-            logo: "stations/images-europe/albania/Alfa dhe Omega Radio.png",
-            url: "http://cp11.shoutcheap.com:8037/;?1602675279871"
+            name: "Club FM",
+            logo: "stations/images-europe/albania/Club FM.png",
+            url: "https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1"
         },
         {
-            name: "Alsion Radio",
-            logo: "stations/images-europe/albania/Alsion Radio.png",
-            url: "http://109.169.26.216:8018/;"
-        },
-        {
-            name: "Big FM 101.6",
-            logo: "stations/images-europe/albania/Big FM.jpg",
-            url: "http://46.252.33.58:9310/;stream.mp3"
-        },
-        {
-            name: "City Radio",
-            logo: "stations/images-europe/albania/City Radio.png",
-            url: "https://cp1.sednastream.com/proxy/cityradio?mp=/stream"
-        },
-        {
-            name: "Kiss FM",
-            logo: "stations/images-europe/albania/Kiss FM.png",
-            url: "https://stream.kissfm.com.al:8000/stream?ver=699557"
-        },
-        {
-            name: "Love Radio",
-            logo: "stations/images-europe/albania/Love Radio.jpg",
-            url: "http://185.32.20.10:6200/;"
-        },
-        {
-            name: "MCN Radio",
-            logo: "stations/images-europe/albania/MCN Radio.jpg",
-            url: "http://149.202.220.47:8888/mcnradio;"
-        },
-        {
-            name: "NRG (Energy)",
+            name: "NRG",
             logo: "stations/images-europe/albania/NRG.png",
-            url: "https://ice31.securenetsystems.net/AL09?playSessionID=9D798F39-FE4D-F033-9332CBD2C0B8F1DF;"
+            url: "https://ice31.securenetsystems.net/AL09"
         },
         {
             name: "Radio 1",
             logo: "stations/images-europe/albania/Radio 1.webp",
-            url: "http://80.90.87.67:88/broadwavehigh.mp3"
+            url: "https://video.radio1.al/broadwavehigh.mp3"
         },
         {
             name: "Radio 7",
             logo: "stations/images-europe/albania/Radio 7.png",
-            url: "http://cp1.sednastream.com:8013/live"
+            url: "https://cp1.sednastream.com/proxy/radio7albania?mp=/live"
+        },
+        {
+            name: "Radio Ngjallja",
+            logo: "stations/images-europe/albania/Radio Ngjallja.png",
+            url: "http://84.20.84.114:1234/radiongjallja"
+        },
+        {
+            name: "Radio One",
+            logo: "stations/images-europe/albania/Radio One.png",
+            url: "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
+        },
+        {
+            name: "Radio Travel",
+            logo: "stations/images-europe/albania/Radio Travel.png",
+            url: "http://84.16.241.205:8010/stream"
+        },
+        {
+            name: "RFI Monde Albania",
+            logo: "stations/images-europe/albania/RFI Monde Albania.png",
+            url: "http://live02.rfi.fr/rfimonde-64.mp3"
         },
         {
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
             url: "https://live.top-media.al/tar"
-        },
-        {
-            name: "Top Gold",
-            logo: "stations/images-europe/albania/Top Gold.png",
-            url: "http://live.topgold.al:9080/;"
         },
     ],
     "algier": [
@@ -2126,8 +2111,8 @@ var stations = {
     ],
     "greece": [
         {
-            name: "ΕΡΤ Πρώτο Πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο Πρόγραμμα.png",
+            name: "ΕΡΤ Πρώτο πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕRA 1.png",
             url: "http://radiostreaming.ert.gr/ert-proto"
         },
         {
@@ -2137,8 +2122,38 @@ var stations = {
         },
         {
             name: "ΕΡΤ Τρίτο Πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.jpg",
+            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.png",
             url: "http://radiostreaming.ert.gr/ert-trito"
+        },
+        {
+            name: "ΕΡΑ Σπορ",
+            logo: "stations/images-europe/greece/ΕΡΑ Σπορ.png",
+            url: "http://radiostreaming.ert.gr/ert-trito"
+        },
+        {
+            name: "Aria FM",
+            logo: "stations/images-europe/greece/Aria FM.png",
+            url: "https://cast4.magicstreams.gr/sc/oisvampg/stream"
+        },
+        {
+            name: "Άρωμα FM",
+            logo: "stations/images-europe/greece/Άρωμα FM.png",
+            url: "http://streams.enjoyfm.gr:48500/aroma.mp3"
+        },
+        {
+            name: "HIT 93.5",
+            logo: "stations/images-europe/greece/HIT 93.5.png",
+            url: "http://s3.onweb.gr:8006/;"
+        },
+        {
+            name: "KISS FM",
+            logo: "stations/images-europe/greece/KISS FM.png",
+            url: "https://kissfm.live24.gr/kissfmathens"
+        },
+        {
+            name: "Metropolis 95.5",
+            logo: "stations/images-europe/greece/Metropolis 95.5.png",
+            url: "http://metropolis.live24.gr/metropolis955thess"
         },
         {
             name: "Μελωδια",
@@ -2146,19 +2161,44 @@ var stations = {
             url: "https://stream.radiojar.com/melodia992"
         },
         {
-            name: "Rythmos FM",
-            logo: "stations/images-europe/greece/Rythmos FM.png",
-            url: "http://ample-10.radiojar.com/g4tyehk5yvduv?rj-ttl=5&rj-token=AAABYTfr6LcyzlBtcDzLiw3qph6r3X7oRS_PO28pTSHS9xEI3FO90Q"
+            name: "Mythos Radio",
+            logo: "stations/images-europe/greece/Mythos Radio.png",
+            url: "http://s2.free-shoutcast.com:18560/stream/;.mp3"
+        },
+        {
+            name: "Ράδιο Ήπειρος",
+            logo: "stations/images-europe/greece/Ράδιο Ήπειρος.png",
+            url: "https://rdst.win:59450/stream"
+        },
+        {
+            name: "ΡΥΘΜΟΣ 94.9",
+            logo: "stations/images-europe/greece/ΡΥΘΜΟΣ 94.9.png",
+            url: "https://stream.rcs.revma.com/0btynq5r4a0uv"
         },
         {
             name: "ΣΚΑΪ 100,3",
-            logo: "stations/images-europe/greece/ΣΚΑΪ 100,3.svg",
-            url: "http://liveradio.skai.gr/skaihd/skai/playlist.m3u8"
+            logo: "stations/images-europe/greece/ΣΚΑΪ 100,3.png",
+            url: "https://skai.live24.gr/skai1003"
+        },
+        {
+            name: "ΣΠΟΡ FM",
+            logo: "stations/images-europe/greece/ΣΠΟΡ FM.png",
+            url: "https://sportfm.live24.gr/sportfm7712"
         },
         {
             name: "Star FM",
             logo: "stations/images-europe/greece/Star FM.png",
-            url: "http://s1.onweb.gr:8800/;"
+            url: "http://136.243.102.164:8044/stream"
+        },
+        {
+            name: "Θέμα Radio",
+            logo: "stations/images-europe/greece/Θέμα Radio.png",
+            url: "https://stream.radiojar.com/cdk030dsvv5tv"
+        },
+        {
+            name: "Χρώμα FM",
+            logo: "stations/images-europe/greece/Χρώμα FM.png",
+            url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
     "hungary": [
@@ -3578,18 +3618,23 @@ var stations = {
     ],
     "serbia": [
         {
-            name: "Радио Београд 1",
-            logo: "stations/images-europe/serbia/Радио Београд 1.png",
+            name: "Radio Beograd 1",
+            logo: "stations/images-europe/serbia/Radio Beograd 1.png",
             url: "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8"
         },
         {
-            name: "Радио Београд 2",
-            logo: "stations/images-europe/serbia/Радио Београд 2.png",
+            name: "Radio Beograd 2",
+            logo: "stations/images-europe/serbia/Radio Beograd 2.png",
             url: "https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8"
         },
         {
-            name: "Радио Београд 202",
-            logo: "stations/images-europe/serbia/Радио Београд 202.png",
+            name: "Radio Beograd 3",
+            logo: "stations/images-europe/serbia/Radio Beograd 3.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_003/playlist.m3u8"
+        },
+        {
+            name: "Beograd 202",
+            logo: "stations/images-europe/serbia/Beograd 202.png",
             url: "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8"
         },
         {
@@ -3598,9 +3643,19 @@ var stations = {
             url: "https://streaming.hitfm.rs/hit.mp3"
         },
         {
+            name: "Naxi Radio",
+            logo: "stations/images-europe/serbia/Naxi Radio.png",
+            url: "https://naxi64ssl.streaming.rs:9162/;stream.nsv"
+        },
+        {
             name: "Play Radio",
             logo: "stations/images-europe/serbia/Play Radio.png",
             url: "http://stream.playradio.rs:8001/play.mp3"
+        },
+        {
+            name: "Radio AS FM",
+            logo: "stations/images-europe/serbia/Radio AS FM.png",
+            url: "https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream"
         },
         {
             name: "Radio S1",
@@ -3611,6 +3666,26 @@ var stations = {
             name: "Radio S2",
             logo: "stations/images-europe/serbia/Radio S2.png",
             url: "http://edge-rs-01.maksnet.tv/asmedia/index/playlist.m3u8"
+        },
+        {
+            name: "RNS 1",
+            logo: "stations/images-europe/serbia/RNS 1.png",
+            url: "http://79.101.121.123:1935/rns1/prviprogram/livestream/playlist.m3u8"
+        },
+        {
+            name: "RNS 2",
+            logo: "stations/images-europe/serbia/RNS 2.png",
+            url: "http://79.101.121.123:1935/rns2/drugiprogram/livestream/playlist.m3u8"
+        },
+        {
+            name: "RNS 3",
+            logo: "stations/images-europe/serbia/RNS 3.png",
+            url: "http://79.101.121.123:1935/rns3/treciprogram/livestream/playlist.m3u8"
+        },
+        {
+            name: "TDI Radio",
+            logo: "stations/images-europe/serbia/TDI Radio.png",
+            url: "https://streaming.tdiradio.com/tdiradio.mp3"
         },
     ],
     "slovakia": [
