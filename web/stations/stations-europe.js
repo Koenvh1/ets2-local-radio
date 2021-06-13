@@ -520,7 +520,7 @@ var stations = {
         {
             name: "Bulgaria ON AIR",
             logo: "stations/images-europe/bulgaria/Bulgaria ON AIR.png",
-            url: "http://lb-hls.cdn.bg/2006/fls/onair.stream/playlist.m3u8"
+            url: "http://edge15.cdn.bg:2006/fls/onair.stream/playlist.m3u8"
         },
         {
             name: "Darik",
@@ -529,7 +529,7 @@ var stations = {
         },
         {
             name: "ENERGY",
-            logo: "stations/images-europe/bulgaria/Radio Energy.png",
+            logo: "stations/images-europe/bulgaria/ENERGY.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L_SC"
         },
         {
