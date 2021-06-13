@@ -533,8 +533,13 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L_SC"
         },
         {
-            name: "N-JOY",
-            logo: "stations/images-europe/bulgaria/N-JOY.png",
+            name: "FM+",
+            logo: "stations/images-europe/bulgaria/FM-Plus.png",
+            url: "http://193.108.24.21:8000/fmplus?file=.mp3"
+        },
+        {
+            name: "NJOY",
+            logo: "stations/images-europe/bulgaria/NJOY.png",
             url: "https://bravo.btv.bg/radio/njoy-radio-proxy/index.php"
         },
         {
@@ -551,11 +556,6 @@ var stations = {
             name: "Радио CITY",
             logo: "stations/images-europe/bulgaria/Radio City.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CITYAAC_L_SC"
-        },
-        {
-            name: "Radio FM+",
-            logo: "stations/images-europe/bulgaria/Radio FM+.png",
-            url: "http://193.108.24.21:8000/fmplus?file=.mp3"
         },
         {
             name: "Радио Фокус - Radio Focus",
