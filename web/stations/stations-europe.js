@@ -503,64 +503,84 @@ var stations = {
     ],
     "bulgaria": [
         {
-            name: "БНР Хоризонт",
+            name: "БНР Хоризонт - BNR Horizont",
             logo: "stations/images-europe/bulgaria/БНР Хоризонт.png",
-            url: "http://stream.bnr.bg:8002/horizont.mp3"
+            url: "http://edge13.cdn.bg:2032/fls/Horizont.stream/playlist.m3u8"
         },
         {
-            name: "БНР Христо Ботев",
+            name: "БНР Христо Ботев - BNR Hristo Botev",
             logo: "stations/images-europe/bulgaria/БНР Христо Ботев.png",
-            url: "http://stream.bnr.bg:8012/hristo-botev.aac"
+            url: "http://edge12.cdn.bg:2032/fls/HrBotev.stream/playlist.m3u8"
         },
-        // {
-        //     name: "Alpha Radio",
-        //     logo: "stations/images-europe/bulgaria/Alpha Radio.png",
-        //     url: "http://alpharadio.bg:8000/stream"
-        // },
         {
-            name: "БГ Радио",
+            name: "БГ Радио - BG Radio",
             logo: "stations/images-europe/bulgaria/БГ Радио.png",
-            url: "http://149.13.0.81/bgradio128"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_L_SC"
         },
         {
             name: "Bulgaria ON AIR",
             logo: "stations/images-europe/bulgaria/Bulgaria ON AIR.png",
-            url: "http://lb-hls.cdn.bg/2006/fls/onair.stream/playlist.m3u8?at=84383cd0ed2c1c0ae2f55f43d4941c3b"
+            url: "http://lb-hls.cdn.bg/2006/fls/onair.stream/playlist.m3u8"
         },
         {
-            name: "Дарик Радио",
-            logo: "stations/images-europe/bulgaria/Дарик Радио.png",
+            name: "Darik",
+            logo: "stations/images-europe/bulgaria/Darik.png",
             url: "https://darikradio.by.host.bg:8000/S2-128"
+        },
+        {
+            name: "ENERGY",
+            logo: "stations/images-europe/bulgaria/Radio Energy.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L_SC"
+        },
+        {
+            name: "N-JOY",
+            logo: "stations/images-europe/bulgaria/N-JOY.png",
+            url: "https://bravo.btv.bg/radio/njoy-radio-proxy/index.php"
+        },
+        {
+            name: "NOVA NEWS",
+            logo: "stations/images-europe/bulgaria/NOVA NEWS.png",
+            url: "https://radio.nova.bg/novanews.ogg"
         },
         {
             name: "Радио 1",
             logo: "stations/images-europe/bulgaria/Радио 1.png",
-            url: "http://play.global.audio/radio1.opus"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_L_SC"
         },
         {
-            name: "Радио FM+",
-            logo: "stations/images-europe/bulgaria/Радио FMplus.jpg",
+            name: "Радио CITY",
+            logo: "stations/images-europe/bulgaria/Radio City.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CITYAAC_L_SC"
+        },
+        {
+            name: "Radio FM+",
+            logo: "stations/images-europe/bulgaria/Radio FM+.png",
             url: "http://193.108.24.21:8000/fmplus?file=.mp3"
         },
         {
-            name: "Radio Energy",
-            logo: "stations/images-europe/bulgaria/Radio Energy.png",
-            url: "http://149.13.0.80/nrj128"
-        },
-        {
-            name: "Радио Верига Фокус",
-            logo: "stations/images-europe/bulgaria/Радио Верига Фокус.png",
+            name: "Радио Фокус - Radio Focus",
+            logo: "stations/images-europe/bulgaria/Радио Фокус.png",
             url: "http://online.focus-radio.net:8100/sofia"
         },
         {
-            name: "Радио Fresh!",
-            logo: "stations/images-europe/bulgaria/Радио Fresh!.png",
-            url: "http://193.108.24.21:8000/fresh"
+            name: "Radio Fresh!",
+            logo: "stations/images-europe/bulgaria/Radio Fresh!.png",
+            url: "http://193.108.24.21:8000/fresh?file=.mp3"
         },
         {
-            name: "Радио Веселина",
+            name: "Радио Веселина - Radio Veselina",
             logo: "stations/images-europe/bulgaria/Радио Веселина.png",
             url: "https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8"
+        },
+        {
+            name: "Радио Витоша - Radio Vitosha",
+            logo: "stations/images-europe/bulgaria/Радио Витоша.png",
+            url: "https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8"
+        },
+        {
+            name: "Z-ROCK",
+            logo: "stations/images-europe/bulgaria/Z-ROCK.png",
+            url: "http://46.10.150.243/z-rock.mp3"
         },
     ],
     "catalonia": [
