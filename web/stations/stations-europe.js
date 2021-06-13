@@ -638,7 +638,7 @@ var stations = {
     "croatia": [
         {
             name: "HR 1",
-            logo: "stations/images-europe/croatia/HRT 1.png",
+            logo: "stations/images-europe/croatia/HR 1.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC_SC"
         },
         {
