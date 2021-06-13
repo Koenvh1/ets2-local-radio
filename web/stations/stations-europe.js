@@ -3809,7 +3809,7 @@ var stations = {
         {
             name: "Radio Prvi",
             logo: "stations/images-europe/slovenia/Radio Prvi.png",
-            url: "https://live.radio.si/ognjisce.mp3"
+            url: "https://34-rtvslo-ra-ra1.cdn.eurovisioncdn.net/playlist.m3u8"
         },
         {
             name: "Radio Veseljak",
