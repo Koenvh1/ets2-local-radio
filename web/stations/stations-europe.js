@@ -662,8 +662,8 @@ var stations = {
             url: "http://live.narodni.hr:8059/;"
         },
         {
-            name: "Otvoreni radio",
-            logo: "stations/images-europe/croatia/Otvoreni radio.png",
+            name: "Otvoreni",
+            logo: "stations/images-europe/croatia/Otvoreni.png",
             url: "https://stream.otvoreni.hr/otvoreni"
         },
         {
