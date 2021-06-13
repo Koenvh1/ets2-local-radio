@@ -3391,18 +3391,18 @@ var stations = {
     ],
     "romania": [
         {
-            name: "SRR Radio România Actualitati",
-            logo: "stations/images-europe/romania/SRR Radio România Actualitati.png",
+            name: "Radio România Actualitati",
+            logo: "stations/images-europe/romania/Radio România Actualitati.png",
             url: "http://stream2.srr.ro:8008/;"
         },
         {
-            name: "SRR Radio România Cultural",
-            logo: "stations/images-europe/romania/SRR Radio România Cultural.png",
+            name: "Radio România Cultural",
+            logo: "stations/images-europe/romania/Radio România Cultural.png",
             url: "http://stream2.srr.ro:8012/;"
         },
         {
-            name: "SRR Radio România Muzical",
-            logo: "stations/images-europe/romania/SRR Radio România Muzical.png",
+            name: "Radio România Muzical",
+            logo: "stations/images-europe/romania/Radio România Muzical.png",
             url: "http://stream2.srr.ro:8022/;"
         },
         {
