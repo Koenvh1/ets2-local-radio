@@ -3421,7 +3421,7 @@ var stations = {
             url: "https://live.itsybitsy.ro:8443/itsybitsy"
         },
         {
-            name: "Kiss FM",
+            name: "KISS FM",
             logo: "stations/images-europe/romania/Kiss FM.png",
             url: "https://live.kissfm.ro/kissfm.aacp"
         },
