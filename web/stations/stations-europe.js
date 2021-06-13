@@ -40,7 +40,7 @@ var stations = {
         },
         {
             name: "Radio 1",
-            logo: "stations/images-europe/albania/Radio 1.webp",
+            logo: "stations/images-europe/albania/Radio 1.png",
             url: "https://video.radio1.al/broadwavehigh.mp3"
         },
         {
@@ -533,7 +533,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L_SC"
         },
         {
-            name: "FM+",
+            name: "FM Plus",
             logo: "stations/images-europe/bulgaria/FM-Plus.png",
             url: "http://193.108.24.21:8000/fmplus?file=.mp3"
         },
@@ -2132,7 +2132,7 @@ var stations = {
     "greece": [
         {
             name: "ΕΡΤ Πρώτο πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕRA 1.png",
+            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
             url: "http://radiostreaming.ert.gr/ert-proto"
         },
         {
@@ -2148,7 +2148,7 @@ var stations = {
         {
             name: "ΕΡΑ Σπορ",
             logo: "stations/images-europe/greece/ΕΡΑ Σπορ.png",
-            url: "http://radiostreaming.ert.gr/ert-trito"
+            url: "http://radiostreaming.ert.gr/ert-erasport"
         },
         {
             name: "Aria FM",
@@ -4432,54 +4432,152 @@ var stations = {
         {
             name: "TRT Radyo 1",
             logo: "stations/images-europe/turkey/TRT Radyo 1.png",
-            url: "https://radio-trtradyo1.live.trt.com.tr/master_128.m3u8"
+            url: "https://radio-trtradyo1.live.trt.com.tr/master.m3u8"
         },
         {
             name: "TRT FM",
             logo: "stations/images-europe/turkey/TRT FM.png",
-            url: "https://radio-trtfm.live.trt.com.tr/master_128.m3u8"
+            url: "https://radio-trtfm.live.trt.com.tr/master.m3u8"
         },
         {
             name: "TRT Radyo 3",
             logo: "stations/images-europe/turkey/TRT Radyo 3.png",
-            url: "https://radio-trtradyo3.live.trt.com.tr/master_128.m3u8"
+            url: "https://radio-trtradyo3.live.trt.com.tr/master.m3u8"
+        },
+        {
+            name: "TRT Nağme",
+            logo: "stations/images-europe/turkey/TRT Nağme.png",
+            url: "https://radio-trtnagme.live.trt.com.tr/master.m3u8"
         },
         {
             name: "TRT Türkü",
             logo: "stations/images-europe/turkey/TRT Türkü.png",
-            url: "https://radio-trtturku.live.trt.com.tr/master_128.m3u8"
+            url: "https://radio-trtturku.live.trt.com.tr/master.m3u8"
+        },
+        {
+            name: "TRT Radyo Haber",
+            logo: "stations/images-europe/turkey/TRT Radyo Haber.png",
+            url: "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8"
+        },
+        {
+            name: "A Haber Radyo",
+            logo: "stations/images-europe/turkey/A Haber Radyo.png",
+            url: "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8"
+        },
+        {
+            name: "Akra FM",
+            logo: "stations/images-europe/turkey/Akra FM.png",
+            url: "https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"
+        },
+        {
+            name: "Alem FM",
+            logo: "stations/images-europe/turkey/Alem FM.png",
+            url: "https://turkmedya.radyotvonline.net/alemfmaac"
+        },
+        {
+            name: "A Spor Radyo",
+            logo: "stations/images-europe/turkey/A Spor Radyo.png",
+            url: "https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8"
+        },
+        {
+            name: "Bayram FM",
+            logo: "stations/images-europe/turkey/Bayram FM.png",
+            url: "https://sslyayin.netyayin.net:10962/live"
         },
         {
             name: "Best FM",
             logo: "stations/images-europe/turkey/Best FM.png",
-            url: "http://46.20.7.125:80/;"
+            url: "https://bestfm.turkhosted.com/;stream.mp3"
         },
-        /*
         {
-            name: "Bloomberg HT Radyo",
-            logo: "stations/images-europe/turkey/Bloomberg HT Radyo.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://mn-l.mncdn.com/bloomberghtradyo/bloomberghtradyo/playlist.m3u8"
+            name: "CNN Türk Radyo",
+            logo: "stations/images-europe/turkey/CNN Türk Radyo.png",
+            url: "https://radyo.duhnet.tv/cnnturk?/"
         },
-        */
         {
-            name: "Kral FM",
-            logo: "stations/images-europe/turkey/Kral FM.jpg",
-            url: "http://46.20.3.204:80/;"
+            name: "CRI TÜRK",
+            logo: "stations/images-europe/turkey/CRI TÜRK.png",
+            url: "https://www.guventechnology.com:2020/stream/RadyoCriturk"
+        },
+        {
+            name: "Diyanet Radyo",
+            logo: "stations/images-europe/turkey/Diyanet Radyo.png",
+            url: "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8"
+        },
+        {
+            name: "Diyanet Kur'an Radyo",
+            logo: "stations/images-europe/turkey/Diyanet Kur'an Radyo.png",
+            url: "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8"
+        },
+        {
+            name: "Diyanet Risalet Radyo",
+            logo: "stations/images-europe/turkey/Diyanet Risalet Radyo.png",
+            url: "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8"
+        },
+        {
+            name: "Erkam Radyo",
+            logo: "stations/images-europe/turkey/Erkam Radyo.png",
+            url: "https://usd.nocvp.com/asset/7G7oEaxS/playlist.m3u8"
+        },
+        {
+            name: "Joy Türk",
+            logo: "stations/images-europe/turkey/Joy Türk.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC_SC"
+        },
+        {
+            name: "Kafa Radyo",
+            logo: "stations/images-europe/turkey/Kafa Radyo.png",
+            url: "https://live.kafaradyo.com/radyoland/kafaradyo.stream/playlist.m3u8"
+        },
+        {
+            name: "KRAL FM",
+            logo: "stations/images-europe/turkey/KRAL FM.png",
+            url: "http://46.20.3.204/;stream.nsv"
+        },
+        {
+            name: "KRAL POP",
+            logo: "stations/images-europe/turkey/KRAL POP.png",
+            url: "http://46.20.3.201/;stream.nsv"
+        },
+        {
+            name: "Meteorolojinin Sesi Radyosu",
+            logo: "stations/images-europe/turkey/Meteorolojinin Sesi Radyosu.png",
+            url: "http://radyomgm.canliyayinda.com/;stream.mp3"
         },
         {
             name: "Metro FM",
             logo: "stations/images-europe/turkey/Metro FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC"
         },
         {
             name: "NTV Radyo",
             logo: "stations/images-europe/turkey/NTV Radyo.png",
-            url: "http://46.20.3.207:80/;"
+            url: "https://rto.turkhosted.com/smil/smil:ntvradyo.smil/playlist.m3u8"
         },
         {
-            name: "Radyo 7 Nostalji",
-            logo: "stations/images-europe/turkey/Radyo 7 Nostalji.png",
-            url: "http://37.247.98.8/stream/25//listen.pls"
+            name: "Pal Nostalji",
+            logo: "stations/images-europe/turkey/Pal Nostalji.png",
+            url: "http://shoutcast.radyogrup.com:1010/;stream/1"
+        },
+        {
+            name: "Power FM",
+            logo: "stations/images-europe/turkey/Power FM.png",
+            url: "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
+        },
+        {
+            name: "Power Türk",
+            logo: "stations/images-europe/turkey/Power Türk.png",
+            url: "https://listen.powerapp.com.tr/powerturk/abr/playlist.m3u8"
+        },
+        {
+            name: "Radyo 7",
+            logo: "stations/images-europe/turkey/Radyo 7.png",
+            url: "https://ssl4.radyotvonline.com/radyo7/radyo7_test.stream/playlist.m3u8"
+        },
+        {
+            name: "Radyo D",
+            logo: "stations/images-europe/turkey/Radyo D.png",
+            url: "https://radyo.duhnet.tv/ak_dtvh_radyod"
         },
         {
             name: "Radyo Fenomen",
@@ -4487,14 +4585,69 @@ var stations = {
             url: "https://listen.radyofenomen.com/fenomen/128/icecast.audio"
         },
         {
+            name: "Radyo Seymen",
+            logo: "stations/images-europe/turkey/Radyo Seymen.png",
+            url: "https://yayin.radyoseymen.com.tr:1070/stream"
+        },
+        {
+            name: "Radyospor",
+            logo: "stations/images-europe/turkey/Radyospor.png",
+            url: "https://s12.canli-radyo.biz/stream/70/"
+        },
+        {
+            name: "Radyo Turkuvaz",
+            logo: "stations/images-europe/turkey/Radyo Turkuvaz.png",
+            url: "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+        },
+        {
+            name: "Radyo Viva",
+            logo: "stations/images-europe/turkey/Radyo Viva.png",
+            url: "http://46.20.3.231/;stream.nsv/;"
+        },
+        {
+            name: "Ribat FM",
+            logo: "stations/images-europe/turkey/Ribat FM.png",
+            url: "http://yayin1.canliyayin.org:7010/;"
+        },
+        {
             name: "Show Radyo",
-            logo: "stations/images-europe/turkey/Show Radyo.jpg",
-            url: "http://46.20.3.234:80/;"
+            logo: "stations/images-europe/turkey/Show Radyo.png",
+            url: "http://46.20.3.229/;"
+        },
+        {
+            name: "SlowTürk",
+            logo: "stations/images-europe/turkey/SlowTürk.png",
+            url: "https://radyo.duhnet.tv/ak_dtvh_slowturk"
         },
         {
             name: "Süper FM",
             logo: "stations/images-europe/turkey/Süper FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FMAAC_SC"
+        },
+        {
+            name: "TGRT FM",
+            logo: "stations/images-europe/turkey/TGRT FM.png",
+            url: "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8"
+        },
+        {
+            name: "Türkiye Polis Radyosu",
+            logo: "stations/images-europe/turkey/Türkiye Polis Radyosu.png",
+            url: "https://m.egm.gov.tr:8093//;"
+        },
+        {
+            name: "Vav Radyo",
+            logo: "stations/images-europe/turkey/Vav Radyo.png",
+            url: "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8"
+        },
+        {
+            name: "Virgin Radio",
+            logo: "stations/images-europe/turkey/Virgin Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC"
+        },
+        {
+            name: "Yön Radyo",
+            logo: "stations/images-europe/turkey/Yön Radyo.png",
+            url: "https://stream.radyolarburada.com/radio/8020/yonradyo"
         },
     ],
     "uk": [
