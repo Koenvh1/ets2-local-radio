@@ -4688,6 +4688,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
         },
         {
+            name: "K-SURF 105.1-HD2",
+            logo: "stations/images-america/los_angeles/K-SURF 105.1-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSURAMAAC_SC"
+        },
+        {
             name: "Power 106",
             logo: "stations/images-america/los_angeles/Power 106.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC"
@@ -5130,6 +5135,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KLOQ"
         },
         {
+            name: "Fuego 98.9",
+            logo: "stations/images-america/modesto/Fuego 98.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHHMFMAAC_SC"
+        },
+        {
             name: "Mega 100",
             logo: "stations/images-america/modesto/Mega 100.png",
             url: "https://stream.revma.ihrhls.com/zc2926/hls.m3u8"
@@ -5188,6 +5198,11 @@ var stations = {
             name: "107.3 KYOS",
             logo: "stations/images-america/fresno/107.3 KYOS.png",
             url: "https://ice42.securenetsystems.net/KYOS"
+        },
+        {
+            name: "FOX Sports 1280",
+            logo: "stations/images-america/modesto/FOX Sports 1280.png",
+            url: "https://stream.revma.ihrhls.com/zc5236/hls.m3u8"
         },
         {
             name: "Power Talk 1360",
@@ -8244,6 +8259,16 @@ var stations = {
             name: "c89.5",
             logo: "stations/images-america/seattle/c89.5.png",
             url: "http://knhc-ice.streamguys1.com/live"
+        },
+        {
+            name: "89.9 KGRG",
+            logo: "stations/images-america/seattle/89.9 KGRG.png",
+            url: "https://stream.revma.ihrhls.com/zc5247/hls.m3u8"
+        },
+        {
+            name: "89.9 KGRG-HD2",
+            logo: "stations/images-america/seattle/89.9 KGRG-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7241/hls.m3u8"
         },
         {
             name: "KEXP 90.3",
