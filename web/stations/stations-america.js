@@ -4084,7 +4084,7 @@ var stations = {
         },
         {
             name: "Fuego 92.7",
-            logo: "stations/images-america/0_general_logos/Fuego.png",
+            logo: "stations/images-america/las_vegas/Fuego 92.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRNFMAAC_SC"
         },
         {
@@ -4233,8 +4233,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
         },
         {
-            name: "AM670 KMZQ",
-            logo: "stations/images-america/las_vegas/AM670 KMZQ.png",
+            name: "AM670",
+            logo: "stations/images-america/las_vegas/AM670.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMZQAMAAC_SC"
         },
         {
