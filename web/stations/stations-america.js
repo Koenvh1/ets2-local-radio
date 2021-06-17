@@ -1936,6 +1936,16 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-kkdgfmaac-ibc3"
         },
         {
+            name: "100.5 KRSJ",
+            logo: "stations/images-america/durango/100.5 KRSJ.png",
+            url: "https://fcb.streamguys1.com/KRSJ"
+        },
+        {
+            name: "Radio 101",
+            logo: "stations/images-america/durango/Radio 101.png",
+            url: "https://fcb.streamguys1.com/KIQX"
+        },
+        {
             name: "XRock 105.3",
             logo: "stations/images-america/durango/XRock 105.3.png",
             url: "https://ice6.securenetsystems.net/KXRC"
@@ -2447,6 +2457,11 @@ var stations = {
             name: "Pirate Radio 107.9",
             logo: "stations/images-america/farmington/Pirate Radio 107.9.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-kprtfmaac-ibc3"
+        },
+        {
+            name: "KNDN 960",
+            logo: "stations/images-america/farmington/KNDN 960.png",
+            url: "https://ice9.securenetsystems.net/KNDN"
         },
         {
             name: "1390 KENN",
