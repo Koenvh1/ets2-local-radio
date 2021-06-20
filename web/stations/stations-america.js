@@ -16755,7 +16755,7 @@ var stations_c2c = {
         {
             name: "100.7 Eagle Country",
             logo: "stations/images-america/c2c/greatbend_ks/100.7 Eagle Country.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KHOKFM2"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KHOKFM2"
         },
         {
             name: "B104.3",
@@ -16770,7 +16770,7 @@ var stations_c2c = {
         {
             name: "KVGB 1590",
             logo: "stations/images-america/c2c/greatbend_ks/KVGB 1590.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KVGBAM2"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KVGBAM2"
         },
     ],
     "hays": [
@@ -21336,7 +21336,7 @@ var stations_c2c = {
         {
             name: "95.1 Mike FM",
             logo: "stations/images-america/c2c/joplin_mo/95.1 Mike FM.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KMXL"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KMXL"
         },
         {
             name: "96.9 KKOW",
@@ -22953,12 +22953,12 @@ var stations_c2c = {
         {
             name: "Mix 97 One",
             logo: "stations/images-america/c2c/north_platte_ne/Mix 97 One.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KELN"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KELN"
         },
         {
             name: "FM 98.1",
             logo: "stations/images-america/c2c/north_platte_ne/FM 98.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KOOQ"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KOOQ"
         },
         {
             name: "The Hawk 98.5",
@@ -22993,7 +22993,7 @@ var stations_c2c = {
         {
             name: "Q Country Classics 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/KNPQ"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KNPQ"
         },
     ],
     "ogallala_ne": [
@@ -27036,7 +27036,7 @@ var stations_c2c = {
         {
             name: "POP 93.1",
             logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice10.securenetsystems.net/WQYX"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/WQYX"
         },
         {
             name: "Connect FM 96.7",
