@@ -329,7 +329,7 @@ var stations = {
         {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "La Zeta 106.3",
@@ -582,7 +582,7 @@ var stations = {
         {
             name: "Air1 104.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Sunny 105.3",
@@ -634,7 +634,7 @@ var stations = {
         {
             name: "Air1 92.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KBHR 93.3",
@@ -773,7 +773,7 @@ var stations = {
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "K-LOVE 90.5",
@@ -962,7 +962,7 @@ var stations = {
         {
             name: "Air1 98.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "99.1 I-Rock",
@@ -1175,7 +1175,7 @@ var stations = {
         {
             name: "Air1 90.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "ALT 92.1",
@@ -1493,7 +1493,7 @@ var stations = {
         {
             name: "Air1 104.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KRDO 105.5",
@@ -1681,7 +1681,7 @@ var stations = {
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KUVO 89.3",
@@ -2692,7 +2692,7 @@ var stations = {
         {
             name: "Air1 88.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KVPR 89.3",
@@ -2956,7 +2956,7 @@ var stations = {
         {
             name: "Air1 98.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "99.9 KEKB",
@@ -3180,11 +3180,6 @@ var stations = {
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
         },
         {
-            name: "NWPR Classical 91.7",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
-            url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
-        },
-        {
             name: "Big Country 92.7",
             logo: "stations/images-america/grangeville/Big Country 92.7.png",
             url: "https://us9.maindigitalstream.com/ssl/bigcountry927kort"
@@ -3283,7 +3278,7 @@ var stations = {
         {
             name: "Air1 90.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KISU FM 91",
@@ -3425,7 +3420,7 @@ var stations = {
         {
             name: "Air1 91.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KIX Hot Country 92.1",
@@ -4055,7 +4050,7 @@ var stations = {
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Classical 89.7",
@@ -4248,8 +4243,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC_SC"
         },
         {
-            name: "CBS Sports Radio 1140",
-            logo: "stations/images-america/las_vegas/CBS Sports Radio 1140.png",
+            name: "The Bet 1140",
+            logo: "stations/images-america/las_vegas/The Bet 1140.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KXSTAMAAC_SC"
         },
         {
@@ -4555,7 +4550,7 @@ var stations = {
         {
             name: "Air1 92.3-HD3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "93.1 Jack FM",
@@ -5289,7 +5284,7 @@ var stations = {
         {
             name: "Air1 97.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "La Tricolor 99.9",
@@ -5820,7 +5815,7 @@ var stations = {
         {
             name: "Air1 96.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "MIX 96.9",
@@ -5935,7 +5930,7 @@ var stations = {
         {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Qué Buena 105.9",
@@ -6076,7 +6071,7 @@ var stations = {
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KMHD 89.1",
@@ -6516,7 +6511,7 @@ var stations = {
         {
             name: "Air1 90.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KFOI 90.9",
@@ -6760,7 +6755,7 @@ var stations = {
         {
             name: "Air1 88.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Radio 74 89.3",
@@ -6867,7 +6862,7 @@ var stations = {
         {
             name: "Air1 92.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "93.5 KDAY",
@@ -6964,7 +6959,7 @@ var stations = {
         {
             name: "Air1 89.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Effect Radio 89.5",
@@ -7111,7 +7106,7 @@ var stations = {
         {
             name: "Air1 98.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "NOW 100.5",
@@ -7354,7 +7349,7 @@ var stations = {
         {
             name: "Air1 89.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KUER 90.1",
@@ -7852,7 +7847,7 @@ var stations = {
         {
             name: "Air1 92.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Magic 92.5",
@@ -8149,7 +8144,7 @@ var stations = {
         {
             name: "Air1 103.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "103.7 80s+",
@@ -8258,7 +8253,7 @@ var stations = {
         {
             name: "Air1 88.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KNKX 88.5",
@@ -8741,7 +8736,7 @@ var stations = {
         {
             name: "Air1 101.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "103.1 KCDA",
@@ -9309,7 +9304,7 @@ var stations = {
         {
             name: "Air1 100.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "The Drive 101.7",
@@ -9622,7 +9617,7 @@ var stations = {
         {
             name: "Air1 92.3-HD3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "93.1 Jack FM",
@@ -12013,7 +12008,7 @@ var stations_c2c = {
         {
             name: "Air1 96.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "96.5 The Box",
@@ -12680,7 +12675,7 @@ var stations_c2c = {
         {
             name: "Air1 89.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "WJCT 89.9",
@@ -13236,8 +13231,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXNXFMAAC_SC"
         },
         {
-            name: "Gelly 94.1",
-            logo: "stations/images-america/c2c/naples_fl/Gelly 94.1.png",
+            name: "Gelly 93.7-HD2",
+            logo: "stations/images-america/c2c/naples_fl/Gelly 93.7-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/W231DC_FMAAC_SC"
         },
         {
@@ -15513,7 +15508,7 @@ var stations_c2c = {
         {
             name: "Air1 107.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
     ],
     "rockford_il": [
@@ -17448,7 +17443,7 @@ var stations_c2c = {
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "89.3 WFPL",
@@ -17794,7 +17789,7 @@ var stations_c2c = {
         {
             name: "Air1 96.1-HD3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Baton Rouge Community Radio 96.9",
@@ -18804,8 +18799,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WOLBAMAAC_SC"
         },
         {
-            name: "CBS Sports Radio 1300",
-            logo: "stations/images-america/c2c/baltimore_md/CBS Sports Radio 1300.png",
+            name: "The Bet 1300",
+            logo: "stations/images-america/c2c/baltimore_md/The Bet 1300.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WJZAMAAC_SC"
         },
     ],
@@ -18874,11 +18869,6 @@ var stations_c2c = {
             name: "Connecting Vets 95.5-HD3",
             logo: "stations/images-america/c2c/washington_dc/Connecting Vets 95.5-HD3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPGCHD3AAC_SC"
-        },
-        {
-            name: "The Team 95.9",
-            logo: "stations/images-america/c2c/washington_dc/The Team 95.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTEMAMAAC_SC"
         },
         {
             name: "WHUR 96.3",
@@ -18971,6 +18961,21 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7311/hls.m3u8"
         },
         {
+            name: "WAVA 105.1",
+            logo: "stations/images-america/c2c/washington_dc/WAVA 105.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAFMAAC_SC"
+        },
+        {
+            name: "WAVA 105.1-HD2",
+            logo: "stations/images-america/c2c/washington_dc/WAVA 105.1-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAAMAAC_SC"
+        },
+        {
+            name: "AM 570 The Answer 105.1-HD3",
+            logo: "stations/images-america/c2c/washington_dc/AM 570 The Answer 105.1-HD3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAMAAC_SC"
+        },
+        {
             name: "105.9 WMAL",
             logo: "stations/images-america/c2c/washington_dc/105.9 WMAL.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFMAAC_SC"
@@ -18986,19 +18991,19 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLZLFMAAC_SC"
         },
         {
-            name: "AM 570 The Answer",
-            logo: "stations/images-america/c2c/washington_dc/AM 570 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAMAAC_SC"
-        },
-        {
             name: "ESPN 630",
             logo: "stations/images-america/c2c/washington_dc/ESPN 630.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBNAMAAC_SC"
         },
         {
-            name: "WUST 1120",
-            logo: "stations/images-america/c2c/washington_dc/WUST 1120.png",
-            url: "https://ice5.securenetsystems.net/WUST"
+            name: "The Team 980",
+            logo: "stations/images-america/c2c/washington_dc/The Team 980.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WTEMAMAAC_SC"
+        },
+        {
+            name: "BIN 1120",
+            logo: "stations/images-america/c2c/washington_dc/BIN 1120.png",
+            url: "https://stream.revma.ihrhls.com/zc8726/hls.m3u8"
         },
         {
             name: "News Talk 1450",
@@ -19009,6 +19014,11 @@ var stations_c2c = {
             name: "Federal News Radio 1500",
             logo: "stations/images-america/c2c/washington_dc/Federal News Radio 1500.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAMAAC_SC"
+        },
+        {
+            name: "The Bet 1580",
+            logo: "stations/images-america/c2c/washington_dc/The Bet 1580.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WJFKAMAAC_SC"
         },
     ],
     "boston": [
@@ -19552,8 +19562,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1129/hls.m3u8"
         },
         {
-            name: "CBS Sports Radio 1270",
-            logo: "stations/images-america/c2c/detroit_mi/CBS Sports Radio 1270.png",
+            name: "The Bet 1270",
+            logo: "stations/images-america/c2c/detroit_mi/The Bet 1270.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXYTAMAAC_SC"
         },
     ],
@@ -20220,7 +20230,7 @@ var stations_c2c = {
         {
             name: "Air1 96.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Cities 97.1",
@@ -21546,8 +21556,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCWJAMAAC_SC"
         },
         {
-            name: "1660 The Score",
-            logo: "stations/images-america/c2c/kansascity_mo/1660 The Score.png",
+            name: "The Bet 1660",
+            logo: "stations/images-america/c2c/kansascity_mo/The Bet 1660.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KWODAMAAC_SC"
         },
     ],
@@ -22030,7 +22040,7 @@ var stations_c2c = {
         {
             name: "Air1 89.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Effect Radio 90.5",
@@ -22348,6 +22358,11 @@ var stations_c2c = {
             name: "89.9 KGPR",
             logo: "stations/images-america/c2c/greatfalls_mt/89.9 KGPR.png",
             url: "http://184.154.90.186:8023/stream"
+        },
+        {
+            name: "Air1 90.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KOOL 92.9",
@@ -24540,7 +24555,7 @@ var stations_c2c = {
         {
             name: "Air1 91.9-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "K-LOVE 90s 91.9-HD3",
@@ -26578,7 +26593,7 @@ var stations_c2c = {
         {
             name: "Air1 90.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KOSU 91.7",
@@ -27618,7 +27633,7 @@ var stations_c2c = {
         {
             name: "Air1 98.3-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "WISH 99.7",
@@ -29087,7 +29102,7 @@ var stations_c2c = {
         {
             name: "Air1 89.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "90.3 The Rock",
@@ -29707,7 +29722,7 @@ var stations_c2c = {
         {
             name: "Air1 92.5-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "K-LOVE 90s 92.5-HD3",
@@ -30601,6 +30616,11 @@ var stations_c2c = {
             name: "Power 105.3",
             logo: "stations/images-america/c2c/houston_tx/Power 105.3.png",
             url: "http://96.73.119.50:8002/power1053"
+        },
+        {
+            name: "The Bet 650",
+            logo: "stations/images-america/c2c/houston_tx/The Bet 650.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIKKAMAAC_SC"
         },
         {
             name: "NewsRadio 740",
@@ -32048,7 +32068,7 @@ var stations_c2c = {
         {
             name: "Air1 92.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "94.1 QZK",
@@ -33175,7 +33195,7 @@ var stations_c2c = {
         {
             name: "Air1 98.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "​​99.7 Jack FM",
