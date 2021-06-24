@@ -2613,6 +2613,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6134/hls.m3u8"
         },
         {
+            name: "Bonnaroo Radio 94.9-HD2",
+            logo: "stations/images-america/0_general_logos/Bonnaroo Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc6160/hls.m3u8"
+        },
+        {
             name: "96.1 KISS FM",
             logo: "stations/images-america/fort_collins/96.1 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc417/hls.m3u8"
@@ -6219,6 +6224,11 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
+            name: "The Fish 104.1",
+            logo: "stations/images-america/portland/The Fish 104.1.png",
+            url: "https://stream.revma.ihrhls.com/zc6704/hls.m3u8"
+        },
+        {
             name: "Urbana 104.5",
             logo: "stations/images-america/portland/Urbana 104.5.png",
             url: "http://sv6.bustosradio.com:8050/urbana1010"
@@ -6226,7 +6236,7 @@ var stations = {
         {
             name: "105.1 The Buzz",
             logo: "stations/images-america/portland/105.1 The Buzz.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRSKFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFISFMAAC_SC"
         },
         {
             name: "Channel Q 105.1-HD2",
@@ -6234,9 +6244,19 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUHD2AAC_SC"
         },
         {
+            name: "Русское Радио Америка 105.5",
+            logo: "stations/images-america/portland/Русское Радио Америка 105.5.png",
+            url: "https://s0.radioheart.ru:8000/RH47810"
+        },
+        {
             name: "105.9 The Brew",
             logo: "stations/images-america/portland/105.9 The Brew.png",
             url: "https://stream.revma.ihrhls.com/zc3540/hls.m3u8"
+        },
+        {
+            name: "The Legend 105.9-HD3",
+            logo: "stations/images-america/portland/The Legend 105.9-HD3.png",
+            url: "https://stream.revma.ihrhls.com/zc6704/hls.m3u8"
         },
         {
             name: "106.7 The Eagle",
@@ -6277,6 +6297,16 @@ var stations = {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
+        },
+        {
+            name: "La Pantera 940",
+            logo: "stations/images-america/portland/La Pantera 940.png",
+            url: "https://bustosradio.com:9036/kwby"
+        },
+        {
+            name: "TUDN Deportes 1010",
+            logo: "stations/images-america/portland/TUDN Deportes 1010.png",
+            url: "https://ice9.securenetsystems.net/KOOR"
         },
         {
             name: "1080 The Fan",
@@ -6870,6 +6900,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
         },
         {
+            name: "Radio 94.5",
+            logo: "stations/images-america/riverside/Radio 94.5.png",
+            url: "https://stream.revma.ihrhls.com/zc333/hls.m3u8"
+        },
+        {
             name: "95.1 K-FROG",
             logo: "stations/images-america/riverside/95.1 K-FROG.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFRGFMAAC_SC"
@@ -6908,6 +6943,11 @@ var stations = {
             name: "KCAA 102.3",
             logo: "stations/images-america/riverside/KCAA 102.3.png",
             url: "http://stream.kcaastreaming.com/kcaa.mp3"
+        },
+        {
+            name: "Q103.3",
+            logo: "stations/images-america/riverside/Q103.3.png",
+            url: "https://stream.revma.ihrhls.com/zc5130/hls.m3u8"
         },
         {
             name: "Hot 103.9",
@@ -8694,6 +8734,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2593/hls.m3u8"
         },
         {
+            name: "Bonnaroo Radio 96.1-HD2",
+            logo: "stations/images-america/0_general_logos/Bonnaroo Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc6160/hls.m3u8"
+        },
+        {
             name: "HOT 96.9",
             logo: "stations/images-america/spokane/Hot 96.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEZEFMAAC_SC"
@@ -9365,6 +9410,11 @@ var stations = {
             name: "FOX Sports 1450",
             logo: "stations/images-america/tucson/FOX Sports 1450.png",
             url: "https://stream.revma.ihrhls.com/zc3286/hls.m3u8"
+        },
+        {
+            name: "Tejano 1600",
+            logo: "stations/images-america/tucson/Tejano 1600.png",
+            url: "https://stream.revma.ihrhls.com/zc3290/hls.m3u8"
         },
     ],
     "twin_falls": [
@@ -13199,9 +13249,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc565/hls.m3u8"
         },
         {
-            name: "1210 The Man",
-            logo: "stations/images-america/c2c/miami_fl/1210 The Man.png",
-            url: "https://s2.radio.co/s04ae9a68b/listen"
+            name: "Oasis 1210",
+            logo: "stations/images-america/c2c/miami_fl/Oasis 1210.png",
+            url: "https://sh4.radioonlinehd.com:8539/stream"
         },
         {
             name: "Radio Mega 1700",
