@@ -4803,6 +4803,11 @@ var stations = {
 			url: "https://onairweb.radiokorea.com/live;stream/1"
         },
         {
+            name: "KBLA 1580",
+			logo: "stations/images-america/los_angeles/KBLA 1580.png",
+			url: "https://ice9.securenetsystems.net/KBLA"
+        },
+        {
             name: "Radio Seoul 1650",
 			logo: "stations/images-america/los_angeles/Radio Seoul 1650.png",
 			url: "https://radio1.koreatimes.com/"
