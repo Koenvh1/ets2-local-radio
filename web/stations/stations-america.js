@@ -16028,6 +16028,11 @@ var stations_c2c = {
             url: "https://ic2.sslstream.com/wsnd-fm"
         },
         {
+            name: "WUBS 89.7",
+            logo: "stations/images-america/c2c/south_bend_in/WUBS 89.7.png",
+            url: "https://mediastreamingcp.com:8046/stream"
+        },
+        {
             name: "WAUS 90.7",
             logo: "stations/images-america/c2c/south_bend_in/WAUS 90.7.png",
             url: "http://waus.streamguys1.com/live-smart"
@@ -16053,10 +16058,15 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/federatedmedia-wtrcfmaac-ibc2"
         },
         {
-            name: "96.1 WSBT",
-            logo: "stations/images-america/c2c/south_bend_in/96.1 WSBT.png",
-            url: "https://live.wostreaming.net/manifest/wsbt-wsbtamaac-ibc1"
-        },
+            name: "95.7 The Lake",
+            logo: "stations/images-america/c2c/south_bend_in/95.7 The Lake.png",
+            url: "https://live.wostreaming.net/manifest/wsbt-wqlqhd2aac-ibc1"
+        },/*
+        {
+            name: "96.1 The Ton",
+            logo: "stations/images-america/c2c/south_bend_in/96.1 The Ton.png",
+            url: "https://live.wostreaming.net/manifest/wsbt-wqlqhd3aac-ibc1"
+        },*/
         {
             name: "97.7 Rock",
             logo: "stations/images-america/c2c/south_bend_in/97.7 Rock.png",
@@ -16096,6 +16106,21 @@ var stations_c2c = {
             name: "Mix 106",
             logo: "stations/images-america/c2c/south_bend_in/Mix 106.png",
             url: "https://live.wostreaming.net/manifest/federatedmedia-wubufmaac-ibc2"
+        },
+        {
+            name: "960 WSBT",
+            logo: "stations/images-america/c2c/south_bend_in/960 WSBT.png",
+            url: "https://live.wostreaming.net/manifest/wsbt-wsbtamaac-ibc1"
+        },
+        {
+            name: "Frank 1340",
+            logo: "stations/images-america/c2c/south_bend_in/Frank 1340.png",
+            url: "https://ice24.securenetsystems.net/WTRC"
+        },
+        {
+            name: "La Raza 1580",
+            logo: "stations/images-america/c2c/south_bend_in/La Raza 1580.png",
+            url: "https://casthd.net:7009/laraza.mp3"
         },
     ],
     "terre_haute": [
