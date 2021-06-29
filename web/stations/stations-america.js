@@ -27828,8 +27828,8 @@ var stations_c2c = {
             url: "http://rss5.domint.net:8186/;stream.mp3"
         },
         {
-            name: "97BHT",
-            logo: "stations/images-america/c2c/scranton_pa/97BHT.png",
+            name: "97.1 BHT",
+            logo: "stations/images-america/c2c/scranton_pa/97.1 BHT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBHTFMAAC_SC"
         },
         {
@@ -27878,8 +27878,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WILKAMAAC_SC"
         },
         {
-            name: "GEM 104",
-            logo: "stations/images-america/c2c/scranton_pa/Gem 104.png",
+            name: "Gem 100 & 104",
+            logo: "stations/images-america/c2c/scranton_pa/Gem 100 & 104.png",
             url: "http://geocom.leanstream.co/WGMFAM"
         },
         {
