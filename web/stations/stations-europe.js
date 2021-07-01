@@ -3752,7 +3752,7 @@ var stations = {
         {
             name: "Rádio Vlna",
             logo: "stations/images-europe/slovakia/Rádio Vlna.jpg",
-            url: "http://stream.radiovlna.sk/vlna-hi.mp3"
+            url: "https://stream.radioservices.sk/vlna-hi.mp3"
         },
     ],
     "slovenia": [

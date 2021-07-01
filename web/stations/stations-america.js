@@ -1099,6 +1099,11 @@ var stations = {
             url: "http://stream1.opb.org/kmhd.mp3"
         },
         {
+            name: "KZHC 92.7",
+            logo: "stations/images-america/burns/KZHC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZHCFMAAC_SC"
+        },
+        {
             name: "94.5 KJDY",
             logo: "stations/images-america/burns/94.5 KJDY.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJDYFM_SC"
@@ -1107,6 +1112,11 @@ var stations = {
             name: "New Life Radio 95.9",
             logo: "stations/images-america/burns/New Life Radio 97.5.png",
             url: "http://ic1.christiannetcast.com/knlr-fm"
+        },
+        {
+            name: "KZHC 99.1",
+            logo: "stations/images-america/burns/KZHC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZHCAMAAC_SC"
         },
     ],
     "carlsbad_nm": [
@@ -6502,6 +6512,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KNCQ2"
         },
         {
+            name: "La GranD 97.7",
+            logo: "stations/images-america/redbluff/La GranD 97.7.png",
+            url: "https://bustosradio.com:9020/khhz"
+        },
+        {
             name: "Radio Mexicana 99.7",
             logo: "stations/images-america/redbluff/Radio Mexicana 99.7.png",
             url: "https://ice10.securenetsystems.net/KTOR"
@@ -6520,6 +6535,16 @@ var stations = {
             name: "106.7 Z-ROCK",
             logo: "stations/images-america/redbluff/106.7 Z-ROCK.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KRQR"
+        },
+        {
+            name: "La Z 107.5",
+            logo: "stations/images-america/redbluff/La Z 107.5.png",
+            url: "https://bustosradio.com:9021/kzsz"
+        },
+        {
+            name: "107.9 Urbana",
+            logo: "stations/images-america/redbluff/107.9 Urbana.png",
+            url: "https://ice6.securenetsystems.net/KZSZHD2"
         },
     ],
     "redding": [
@@ -23710,14 +23735,9 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWWSAMAAC_SC"
         },
         {
-            name: "ALT 107.7",
-            logo: "stations/images-america/c2c/buffalo_ny/ALT 107.7.png",
+            name: "107.7 & 104.7 The Wolf",
+            logo: "stations/images-america/c2c/buffalo_ny/107.7 & 104.7 The Wolf.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLKKFMAAC_SC"
-        },
-        {
-            name: "The Lake 107.7-HD2",
-            logo: "stations/images-america/c2c/buffalo_ny/The Lake 107.7-HD2.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLKKHD2AAC_SC"
         },
         {
             name: "WGR 550",
@@ -31428,8 +31448,8 @@ var stations_c2c = {
             url: "http://radio.clevr.me/kwbu"
         },
         {
-            name: "104.9 BOB FM",
-            logo: "stations/images-america/c2c/waco_tx/104.9 BOB FM.png",
+            name: "Star 104.9",
+            logo: "stations/images-america/c2c/waco_tx/Star 104.9.png",
             url: "https://ais-sa1.streamon.fm/7054_24k.aac"
         },
         {
