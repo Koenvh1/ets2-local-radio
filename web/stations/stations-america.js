@@ -3219,12 +3219,12 @@ var stations = {
         {
             name: "Z94",
             logo: "stations/images-america/hobbs/Z94.png",
-            url: "http://ais-sa2.cdnstream1.com/2338_128.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/KZOR"
         },
         {
             name: "KOOL 95.7",
             logo: "stations/images-america/hobbs/KOOL 95.7.png",
-            url: "http://ais-sa2.cdnstream1.com/2340_128.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/KLEA"
         },
         {
             name: "KENW 98.7",
@@ -3234,17 +3234,17 @@ var stations = {
         {
             name: "Eagle 100.5",
             logo: "stations/images-america/hobbs/Eagle 100.5.png",
-            url: "http://ais-sa2.cdnstream1.com/2341_128.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/KEJL"
         },
         {
             name: "KIX 103",
             logo: "stations/images-america/hobbs/KIX 103.png",
-            url: "http://ais-sa2.cdnstream1.com/2337_128.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/KIXN"
         },
         {
             name: "La Zeta 103.7",
             logo: "stations/images-america/hobbs/La Zeta 103.7.png",
-            url: "http://ais-sa2.cdnstream1.com/2339_128.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/KPZA"
         },
         {
             name: "W105",
@@ -3255,6 +3255,11 @@ var stations = {
             name: "B107 The Blaze",
             logo: "stations/images-america/hobbs/B107 The Blaze.png",
             url: "http://ice2.securenetsystems.net/KTUM"
+        },
+        {
+            name: "KCRS 550",
+            logo: "stations/images-america/c2c/midland_tx/KCRS 97.5.png",
+            url: "http://ice5.securenetsystems.net:80/KCRSAM"
         },
     ],
     "huron": [
@@ -8110,6 +8115,11 @@ var stations = {
             name: "Bolly 92.3",
             logo: "stations/images-america/san_francisco/Bolly 92.3.png",
             url: "http://www.streamcontrol.net:12010/;"
+        },
+        {
+            name: "Radio Zindagi 92.3-HD2",
+            logo: "stations/images-america/san_francisco/Radio Zindagi 92.3-HD2.png",
+            url: "https://us9.maindigitalstream.com/ssl/RadioZindagi"
         },
         {
             name: "La Raza 93.3",
@@ -14310,9 +14320,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQVEFMAAC_SC"
         },
         {
-            name: "Q102",
-            logo: "stations/images-america/c2c/albany_ga/Q102.png",
-            url: "http://streamingv2.shoutcast.com/wnuq-q102"
+            name: "Retro FM 102.1",
+            logo: "stations/images-america/c2c/albany_ga/Retro FM 102.1.png",
+            url: "https://streaming.live365.com/a26828"
         },
         {
             name: "Rock 103",
@@ -23817,9 +23827,9 @@ var stations_c2c = {
             url: "http://peace.str3am.com:7070/wskg"
         },
         {
-            name: "Magic 92.7",
-            logo: "stations/images-america/c2c/elmira_ny/Magic 92.7.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice3.securenetsystems.net/WENYFM"
+            name: "92.7 The Met",
+            logo: "stations/images-america/c2c/elmira_ny/92.7 The Met.png",
+            url: "https://ice66.securenetsystems.net/WMTT"
         },
         {
             name: "Wingz 93",
@@ -23837,24 +23847,19 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WNBT"
         },
         {
-            name: "GEM 98.7",
-            logo: "stations/images-america/c2c/elmira_ny/GEM 98.7.png",
-            url: "https://ice8.securenetsystems.net/WGMM"
+            name: "Family Life Radio 97.7",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "Cool 98.7",
+            logo: "stations/images-america/c2c/elmira_ny/Cool 98.7.png",
+            url: "https://ice66.securenetsystems.net/WPHD"
         },
         {
             name: "99.5 WOKN",
             logo: "stations/images-america/c2c/elmira_ny/99.5 WOKN.png",
             url: "https://ice5.securenetsystems.net/WOKN"
-        },
-        {
-            name: "100.9 Bigfoot Country",
-            logo: "stations/images-america/c2c/elmira_ny/100.9 Bigfoot Country.png",
-            url: "https://ice23.securenetsystems.net/WPGI"
-        },
-        {
-            name: "101 The Met",
-            logo: "stations/images-america/c2c/elmira_ny/101 The Met.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice66.securenetsystems.net/WMTT"
         },
         {
             name: "Jamz 101.7",
@@ -23872,19 +23877,29 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/saga-wqnyfmaac-ibc2"
         },
         {
-            name: "Cool 104.9",
-            logo: "stations/images-america/c2c/elmira_ny/Cool 104.9.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice66.securenetsystems.net/WPHD"
-        },
-        {
             name: "Wink 106",
             logo: "stations/images-america/c2c/elmira_ny/WINK 106.png",
             url: "https://ice23.securenetsystems.net/WINK106"
         },
         {
+            name: "106.5 The Pirate",
+            logo: "stations/images-america/c2c/elmira_ny/106.5 The Pirate.png",
+            url: "https://ice66.securenetsystems.net/WELM"
+        },
+        {
+            name: "Magic 106.7",
+            logo: "stations/images-america/c2c/elmira_ny/Magic 106.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice3.securenetsystems.net/WENYFM"
+        },
+        {
             name: "107.7 WECW",
             logo: "stations/images-america/c2c/elmira_ny/107.7 WECW.png",
             url: "http://janus.cdnstream.com:5297/;"
+        },
+        {
+            name: "WEHH 1600",
+            logo: "stations/images-america/c2c/elmira_ny/WEHH 1600.png",
+            url: "https://ice3.securenetsystems.net/WEHH"
         },
     ],
     "newyork": [
