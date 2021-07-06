@@ -7373,8 +7373,13 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KUTC"
         },
         {
+            name: "Kosy 96.7",
+            logo: "stations/images-america/salina/Kosy 96.7.png",
+            url: "http://45.79.99.31:8000/stream"
+        },
+        {
             name: "97.7 The Wolf",
-            logo: "stations/images-america/cedar_city/97.7 The Wolf.png",
+            logo: "stations/images-america/salina/97.7 The Wolf.png",
             url: "https://ice9.securenetsystems.net/KWUT"
         },
         {
@@ -7396,6 +7401,16 @@ var stations = {
             name: "97.1 ZHT - 106.3",
             logo: "stations/images-america/salt_lake/97.1 ZHT.png",
             url: "https://stream.revma.ihrhls.com/zc2405/hls.m3u8"
+        },
+        {
+            name: "KYAH 540",
+            logo: "stations/images-america/salina/KYAH 540.png",
+            url: "https://stream.zeno.fm/2g7q70k6n0quv"
+        },
+        {
+            name: "ESPN 700",
+            logo: "stations/images-america/salt_lake/ESPN 700.png",
+            url: "https://ais-sa1.streamon.fm/7349_48k.aac"
         },
     ],
     "salmon": [
