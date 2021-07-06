@@ -1306,7 +1306,7 @@ var stations = {
         },
         {
             name: "97.7 The Wolf",
-            logo: "stations/images-america/cedar_city/97.7 The Wolf.png",
+            logo: "stations/images-america/salina/97.7 The Wolf.png",
             url: "https://ice9.securenetsystems.net/KWUT"
         },
         {
