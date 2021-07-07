@@ -3496,12 +3496,12 @@ var stations = {
             name: "MIX 100.5",
             logo: "stations/images-america/indio/MIX 100.5.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kpsifmaac-ibc4"
-        },
+        },/*
         {
             name: "Pure Radio 100.9",
             logo: "stations/images-america/indio/Pure Radio 100.9.png",
             url: "https://ice24.securenetsystems.net/PUREPS"
-        },
+        },*/
         {
             name: "101.3 The Mix",
             logo: "stations/images-america/indio/101.3 The Mix.png",
@@ -9035,6 +9035,16 @@ var stations = {
             url: "https://stream.radio.dixie.edu/kxds.mp3"
         },
         {
+            name: "Ondas de Vida 91.7",
+            logo: "stations/images-america/st_george/Ondas de Vida 91.7.png",
+            url: "http://23.239.68.71:9624/;"
+        },
+        {
+            name: "B92.1",
+            logo: "stations/images-america/cedar_city/B92.1.png",
+            url: "https://live.wostreaming.net/direct/cherrycreek-kxbnfmaac-ibc4"
+        },
+        {
             name: "KDXU 94.9",
             logo: "stations/images-america/st_george/KDXU 94.9.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kdxuamaac-ibc4"
@@ -9045,6 +9055,11 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KZHK"
         },
         {
+            name: "96X",
+            logo: "stations/images-america/st_george/96X.png",
+            url: "https://ice41.securenetsystems.net/KCLSHD2"
+        },
+        {
             name: "La Campesina 96.7",
             logo: "stations/images-america/st_george/La Campesina 96.7.png",
             url: "https://ice42.securenetsystems.net/KYLI"
@@ -9053,6 +9068,11 @@ var stations = {
             name: "ESPN 97.7",
             logo: "stations/images-america/st_george/ESPN 97.7.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-khkrfmaac-ibc4"
+        },
+        {
+            name: "Star 98",
+            logo: "stations/images-america/cedar_city/Star 98.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-krecfmaac-imc4"
         },
         {
             name: "Kool 98.9",
@@ -9075,6 +9095,11 @@ var stations = {
             url: "https://estereounicastreaming.com:8012/EstereoUnicaEnVivo"
         },
         {
+            name: "Dave FM 101.9",
+            logo: "stations/images-america/st_george/Dave FM 101.9.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-kxfffmaac-ibc4"
+        },
+        {
             name: "102.3 Coyote Country",
             logo: "stations/images-america/st_george/102.3 Coyote Country.png",
             url: "http://ice10.securenetsystems.net/KUTQ"
@@ -9083,16 +9108,6 @@ var stations = {
             name: "Sunny 101.5",
             logo: "stations/images-america/st_george/Sunny 101.5.png",
             url: "https://ice10.securenetsystems.net/KCLS"
-        },
-        {
-            name: "96X 101.5-HD2",
-            logo: "stations/images-america/st_george/96X.png",
-            url: "https://ice41.securenetsystems.net/KCLSHD2"
-        },
-        {
-            name: "Juan 106 101.5-HD3",
-            logo: "stations/images-america/st_george/Juan 106.png",
-            url: "https://ice41.securenetsystems.net/KCLSHD3"
         },
         {
             name: "Mix 103.1",
@@ -9113,6 +9128,11 @@ var stations = {
             name: "Smooth Jazz Utah 105.7",
             logo: "stations/images-america/st_george/Smooth Jazz Utah 105.7.png",
             url: "http://broadcaster.smoothjazzutah.com:8000/kwbr"
+        },
+        {
+            name: "Juan 106",
+            logo: "stations/images-america/st_george/Juan 106.png",
+            url: "https://ice41.securenetsystems.net/KCLSHD3"
         },
         {
             name: "107.3 New Country",
@@ -14830,8 +14850,8 @@ var stations_c2c = {
             url: "https://gpb.streamguys1.com/gpb-radio-aac"
         },
         {
-            name: "Blazin' 92.3",
-            logo: "stations/images-america/c2c/macon_ga/Blazin' 92.3.png",
+            name: "Macon 92.3",
+            logo: "stations/images-america/c2c/macon_ga/Macon 92.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLZNFMAAC_SC"
         },
         {
