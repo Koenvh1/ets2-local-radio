@@ -1501,6 +1501,11 @@ var stations = {
             url: "https://stream1.cprnetwork.org/cpr3_aac"
         },
         {
+            name: "Q102.7",
+            logo: "stations/images-america/colorado_springs_pueblo/Q102.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBIQFMAAC_SC"
+        },
+        {
             name: "X103.9",
             logo: "stations/images-america/colorado_springs_pueblo/X103.9.png",
             url: "https://csrb.streamguys1.com/krxp-mp3"
@@ -18392,9 +18397,14 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZRHFMAAC_SC"
         },
         {
-            name: "HOT 92.9",
-            logo: "stations/images-america/c2c/new_orleans_la/HOT 92.9.png",
+            name: "The Bet 92.9",
+            logo: "stations/images-america/c2c/new_orleans_la/The Bet 92.9.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWWLAMAAC_SC"
+        },
+        {
+            name: "HOT 92.9-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/The Bet 92.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLMGHD2AAC_SC"
         },
         {
             name: "Q93",
@@ -29457,11 +29467,6 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/shelbycounty-wqoxfmaac-ibc1"
         },
         {
-            name: "Drake Hall Memphis Radio 87.7",
-            logo: "stations/images-america/c2c/memphis_tn/Drake Hall Memphis Radio 87.7.png",
-            url: "https://live.wostreaming.net/manifest/aceandtj-drakehallshowaac-imc2"
-        },
-        {
             name: "WYPL 89.3",
             logo: "stations/images-america/c2c/memphis_tn/WYPL 89.3.png",
             url: "http://ice64.securenetsystems.net/WYPL"
@@ -29507,9 +29512,24 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLFPFMAAC_SC"
         },
         {
+            name: "95.7 Hallelujah FM",
+            logo: "stations/images-america/c2c/memphis_tn/95.7 Hallelujah FM.png",
+            url: "https://stream.revma.ihrhls.com/zc2137/hls.m3u8"
+        },
+        {
+            name: "iHeart Christian Country Radio 95.7-HD2",
+            logo: "stations/images-america/c2c/memphis_tn/iHeart Christian Country Radio 95.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6845/hls.m3u8"
+        },
+        {
             name: "95.3 The Rebel",
             logo: "stations/images-america/c2c/memphis_tn/95.3 The Rebel.png",
             url: "https://ice7.securenetsystems.net/WEBL"
+        },
+        {
+            name: "96.1 Drake Hall Memphis Radio",
+            logo: "stations/images-america/c2c/memphis_tn/96.1 Drake Hall Memphis Radio.png",
+            url: "https://live.wostreaming.net/manifest/aceandtj-drakehallshowaac-imc2"
         },
         {
             name: "B96",
@@ -29615,6 +29635,21 @@ var stations_c2c = {
             name: "Sports 56",
             logo: "stations/images-america/c2c/memphis_tn/Sports 56.png",
             url: "https://stream1.flinn.com:8443/560AM.mp3"
+        },
+        {
+            name: "SportsMap Radio 730",
+            logo: "stations/images-america/c2c/memphis_tn/SportsMap Radio 730.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SPORTS_MAP_RADIOAAC_SC"
+        },
+        {
+            name: "The Mighty 990",
+            logo: "stations/images-america/c2c/memphis_tn/The Mighty 990.png",
+            url: "https://ice24.securenetsystems.net/KWAM"
+        },
+        {
+            name: "1070 WDIA",
+            logo: "stations/images-america/c2c/memphis_tn/1070 WDIA.png",
+            url: "https://stream.revma.ihrhls.com/zc2129/hls.m3u8"
         },
     ],
     "nashville": [
