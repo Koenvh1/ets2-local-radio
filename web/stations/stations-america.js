@@ -5935,7 +5935,7 @@ var stations = {
         {
             name: "KDIF 102.9",
             logo: "stations/images-america/phoenix/KDIF 102.9.png",
-            url: "https://freeus3.listen2myradio.com/live.mp3?typeportmount=s1_7601_stream_946185780"
+            url: "https://us5freenew.listen2myradio.com/live.mp3?typeportmount=s1_21538"
         },
         {
             name: "La Tricolor 103.5",
@@ -5961,11 +5961,6 @@ var stations = {
             name: "Money Radio 105.3",
             logo: "stations/images-america/phoenix/Money Radio 105.3.png",
             url: "https://ice41.securenetsystems.net/KFNN"
-        },
-        {
-            name: "Air1 105.5",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Qué Buena 105.9",
