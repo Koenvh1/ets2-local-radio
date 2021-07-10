@@ -7532,6 +7532,11 @@ var stations = {
             url: "http://stream.xmission.com/kcpw"
         },
         {
+            name: "Classical 89",
+            logo: "stations/images-america/0_general_logos/Classical 89.png",
+            url: "https://radio.byub.org/classical89/classical89_aac"
+        },
+        {
             name: "Air1 89.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -9208,6 +9213,11 @@ var stations = {
             name: "Radio St. George 100.3",
             logo: "stations/images-america/st_george/Radio St. George 100.3.png",
             url: "https://stream.radio.dixie.edu/kxdi.mp3"
+        },
+        {
+            name: "K264BM 100.7",
+            logo: "stations/images-america/0_general_logos/Classical 89.png",
+            url: "https://radio.byub.org/classical89/classical89_aac"
         },
         {
             name: "EstereoUnica 101.1",
