@@ -469,12 +469,12 @@ var stations = {
         },
         {
             name: "102.3 The River",
-            logo: "stations/images-america/pendleton/102.3 The River.png",
+            logo: "stations/images-america/baker_city/102.3 The River.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWRLFM_SC"
         },
         {
             name: "104.7 KCMB",
-            logo: "stations/images-america/pendleton/104.7 KCMB.png",
+            logo: "stations/images-america/baker_city/104.7 KCMB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMBFM_SC"
         },
         {
@@ -3685,12 +3685,7 @@ var stations = {
             name: "94.9 The Wolf",
             logo: "stations/images-america/kennewick/94.9 The Wolf.png",
             url: "https://ice6.securenetsystems.net/KIOK"
-        },/*
-        {
-            name: "95.3 U-ROCK",
-            logo: "stations/images-america/kennewick/95.3 U-ROCK.png",
-            url: "http://209.95.35.49:7002/stream"
-        },*/
+        },
         {
             name: "95.7 The Bridge",
             logo: "stations/images-america/kennewick/95.7 The Bridge.png",
@@ -3750,12 +3745,7 @@ var stations = {
             name: "Eagle 106.5",
             logo: "stations/images-america/kennewick/Eagle 106.5.png",
             url: "https://ice5.securenetsystems.net/KEGX"
-        },/*
-        {
-            name: "107.3 The Beat",
-            logo: "stations/images-america/kennewick/107.3 The Beat.png",
-            url: "http://209.95.35.49:7004/stream"
-        },*/
+        },
         {
             name: "610 KONA",
             logo: "stations/images-america/kennewick/610 KONA.png",
@@ -5811,24 +5801,29 @@ var stations = {
             url: "http://ice6.securenetsystems.net/KIOK"
         },
         {
+            name: "95.7 The Bridge",
+            logo: "stations/images-america/kennewick/95.7 The Bridge.png",
+            url: "https://ice7.securenetsystems.net/KKSR"
+        },
+        {
             name: "96.5 KUMA",
             logo: "stations/images-america/pendleton/96.5 KUMA.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KUMAAMAAC_SC"
         },
         {
-            name: "97Rock",
-            logo: "stations/images-america/pendleton/97Rock.png",
+            name: "97 Rock",
+            logo: "stations/images-america/pendleton/97 Rock.png",
             url: "https://live.wostreaming.net/direct/townsquare-kxrxfmaac-ibc3"
         },
         {
-            name: "KTEL 99.7",
-            logo: "stations/images-america/pendleton/KTEL 99.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAMAAC_SC"
+            name: "98.3 The Key",
+            logo: "stations/images-america/kennewick/98.3 The Key.png",
+            url: "https://live.wostreaming.net/direct/townsquare-keywfmaac-ibc3"
         },
         {
-            name: "102.3 The River",
-            logo: "stations/images-america/pendleton/102.3 The River.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWRLFM_SC"
+            name: "Power 99.1",
+            logo: "stations/images-america/kennewick/Power 99.1.png",
+            url: "https://ice5.securenetsystems.net/KUJFM"
         },
         {
             name: "102.7 KORD",
@@ -5846,14 +5841,29 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWHTFMAAC_SC"
         },
         {
-            name: "104.7 KCMB",
-            logo: "stations/images-america/pendleton/104.7 KCMB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMBFM_SC"
+            name: "Mix 105.3",
+            logo: "stations/images-america/kennewick/Mix 105.3.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
+        },
+        {
+            name: "Eagle 106.5",
+            logo: "stations/images-america/kennewick/Eagle 106.5.png",
+            url: "https://ice5.securenetsystems.net/KEGX"
         },
         {
             name: "107.7 Hot FM",
             logo: "stations/images-america/pendleton/107.7 Hot FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWVNFMAAC_SC"
+        },
+        {
+            name: "610 KONA",
+            logo: "stations/images-america/kennewick/610 KONA.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-konaamaac-ibc4"
+        },
+        {
+            name: "KTEL 1490",
+            logo: "stations/images-america/pendleton/KTEL 1490.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAMAAC_SC"
         },
     ],
     "phoenix": [
