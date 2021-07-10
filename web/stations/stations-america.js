@@ -5809,12 +5809,7 @@ var stations = {
             name: "94.9 The Wolf",
             logo: "stations/images-america/pendleton/94.9 The Wolf.png",
             url: "http://ice6.securenetsystems.net/KIOK"
-        },/*
-        {
-            name: "95.3 U Rock",
-            logo: "stations/images-america/pendleton/95.3 U Rock.png",
-            url: "http://209.95.35.49:7002/stream"
-        },*/
+        },
         {
             name: "96.5 KUMA",
             logo: "stations/images-america/pendleton/96.5 KUMA.png",
@@ -5824,11 +5819,6 @@ var stations = {
             name: "97Rock",
             logo: "stations/images-america/pendleton/97Rock.png",
             url: "https://live.wostreaming.net/direct/townsquare-kxrxfmaac-ibc3"
-        },
-        {
-            name: "98.7 The Rock",
-            logo: "stations/images-america/pendleton/98.7 The Rock.png",
-            url: "http://ice9.securenetsystems.net/KUBQFM"
         },
         {
             name: "KTEL 99.7",
@@ -6339,9 +6329,9 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
-            name: "The Fish 104.1",
-            logo: "stations/images-america/portland/The Fish 104.1.png",
-            url: "https://stream.revma.ihrhls.com/zc6704/hls.m3u8"
+            name: "104.1 The Fish",
+            logo: "stations/images-america/portland/104.1 The Fish.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFISFMAAC_SC"
         },
         {
             name: "Urbana 104.5",
@@ -33555,7 +33545,7 @@ var stations_c2c = {
         {
             name: "KFRZ 92.1",
             logo: "stations/images-america/c2c/rock_springs_wy/KFRZ 92.1.png",
-            url: "http://209.95.35.49:7857/stream"
+            url: "http://107.182.234.197:7857/stream"
         },
         {
             name: "KREO 93.5",
@@ -33600,7 +33590,7 @@ var stations_c2c = {
         {
             name: "KUGR 104.9",
             logo: "stations/images-america/c2c/rock_springs_wy/KUGR 104.9.png",
-            url: "http://ice5.securenetsystems.net/KUGR"
+            url: "https://us9.maindigitalstream.com/ssl/7853"
         },
         {
             name: "Hits Now! 106",
