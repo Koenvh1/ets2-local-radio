@@ -3665,8 +3665,8 @@ var stations = {
             url: "http://162.244.80.106:9068/stream"
         },
         {
-            name: "Redrock 103.5",
-            logo: "stations/images-america/kayenta/Redrock 103.5.png",
+            name: "Red Rock 103.5",
+            logo: "stations/images-america/kayenta/Red Rock 103.5.png",
             url: "http://142.44.136.201:5152/stream"
         },
         {
