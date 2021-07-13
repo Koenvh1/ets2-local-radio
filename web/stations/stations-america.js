@@ -3660,9 +3660,24 @@ var stations = {
     ],
     "kayenta": [
         {
-            name: "Redrock 92.7",
-            logo: "stations/images-america/kayenta/Redrock 92.7.png",
+            name: "Red Rock 92",
+            logo: "stations/images-america/moab/Red Rock 92.png",
             url: "http://162.244.80.106:9068/stream"
+        },
+        {
+            name: "Redrock 103.5",
+            logo: "stations/images-america/kayenta/Redrock 103.5.png",
+            url: "http://142.44.136.201:5152/stream"
+        },
+        {
+            name: "KFXR 107.3",
+            logo: "stations/images-america/gallup/99.1 KGLX.png",
+            url: "https://stream.revma.ihrhls.com/zc5951/hls.m3u8"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
         },
     ],
     "kennewick": [
@@ -5179,7 +5194,7 @@ var stations = {
         },
         {
             name: "K268AV 101.5",
-            logo: "stations/images-america/moab/Redrock 92.png",
+            logo: "stations/images-america/moab/Red Rock 92.png",
             url: "http://162.244.80.106:9068/stream"
         },
         {
