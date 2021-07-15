@@ -1814,8 +1814,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRKSFMAAC_SC"
         },
         {
-            name: "95.7 The Party",
-            logo: "stations/images-america/denver/95.7 The Party.png",
+            name: "HITS 95.7",
+            logo: "stations/images-america/denver/HITS 95.7.png",
             url: "https://stream.revma.ihrhls.com/zc2795/hls.m3u8"
         },
         {
@@ -3666,7 +3666,7 @@ var stations = {
         },
         {
             name: "Red Rock 103.5",
-            logo: "stations/images-america/kayenta/Red Rock 103.5.png",
+            logo: "stations/images-america/page/Red Rock 103.5.png",
             url: "http://142.44.136.201:5152/stream"
         },
         {
@@ -5071,6 +5071,11 @@ var stations = {
             url: "https://ice41.securenetsystems.net/HITS"
         },
         {
+            name: "Joy 93.7",
+            logo: "stations/images-america/medford/Joy 93.7.png",
+            url: "https://ice6.securenetsystems.net/KTMT"
+        },
+        {
             name: "KRRM 94.7",
             logo: "stations/images-america/medford/KRRM 94.7.png",
             url: "https://live.wostreaming.net/manifest/grantspass-krrmfmaac-imc2"
@@ -5779,9 +5784,29 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7019_24k.aac"
         },
         {
+            name: "K251BC 97.9",
+            logo: "stations/images-america/moab/Red Rock 92.png",
+            url: "http://162.244.80.106:9068/stream"
+        },
+        {
             name: "KNAU News 102.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
+        },
+        {
+            name: "Red Rock 103.5",
+            logo: "stations/images-america/page/Red Rock 103.5.png",
+            url: "http://142.44.136.201:5152/stream"
+        },
+        {
+            name: "KSUB 590",
+            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            url: "https://live.wostreaming.net/manifest/cherrycreek-ksubamaac-ibc4"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
         },
     ],
     "pendleton": [
