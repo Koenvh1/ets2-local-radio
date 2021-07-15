@@ -1954,6 +1954,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc373/hls.m3u8"
         },
         {
+            name: "KLZ 560",
+            logo: "stations/images-america/denver/KLZ 560.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZAMAAC_SC"
+        },
+        {
             name: "630 KHOW",
             logo: "stations/images-america/denver/630 KHOW.png",
             url: "https://stream.revma.ihrhls.com/zc377/hls.m3u8"
