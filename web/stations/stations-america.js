@@ -6391,7 +6391,7 @@ var stations = {
         {
             name: "105.1 The Buzz",
             logo: "stations/images-america/portland/105.1 The Buzz.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFISFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRSKFMAAC_SC"
         },
         {
             name: "Channel Q 105.1-HD2",
