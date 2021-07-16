@@ -89,6 +89,9 @@ function receiveCommand(data) {
     if(response.type == "togglePlay"){
         togglePlay(true);
     }
+    if(response.type == "setPlay"){
+        setPlay(response.value, true);
+    }
 }
 
 function connect(peerID) {

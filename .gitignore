@@ -43,3 +43,10 @@ fabric.properties
 
 server/packages/**
 *.exe
+
+# Linux stuff
+linux/plugins/ets2-telemetry-lin.so
+linux/plugins/read_util
+linux/server/read_util
+favourites.json*
+__pycache__/
