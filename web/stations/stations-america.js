@@ -2204,11 +2204,6 @@ var stations = {
             url: "http://www.streamvortex.com:11150/stream"
         },
         {
-            name: "98.1 The Valley",
-            logo: "stations/images-america/eugene/98.1 The Valley.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSCRAMAAC_SC"
-        },
-        {
             name: "Kool 99.1",
             logo: "stations/images-america/eugene/Kool 99.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KODZFMAAC_SC"
