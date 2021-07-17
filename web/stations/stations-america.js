@@ -1104,7 +1104,7 @@ var stations = {
             url: "http://stream1.opb.org/kmhd.mp3"
         },
         {
-            name: "KZHC 92.7",
+            name: "92.7 KZHC",
             logo: "stations/images-america/burns/KZHC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZHCFMAAC_SC"
         },
@@ -1119,7 +1119,7 @@ var stations = {
             url: "http://ic1.christiannetcast.com/knlr-fm"
         },
         {
-            name: "KZHC 99.1",
+            name: "99.1 KZHC",
             logo: "stations/images-america/burns/KZHC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZHCAMAAC_SC"
         },
