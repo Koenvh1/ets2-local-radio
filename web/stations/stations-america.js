@@ -980,8 +980,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KQBLHD2"
         },
         {
-            name: "100.3 The X Rocks",
-            logo: "stations/images-america/boise/100.3 The X Rocks.png",
+            name: "100.3 The X",
+            logo: "stations/images-america/boise/100.3 The X.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KQXRFMAAC_SC"
         },
         {
@@ -2581,6 +2581,21 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
         {
+            name: "KNLB 89.1",
+            logo: "stations/images-america/barstow/KNLB 90.9.png",
+            url: "https://ic1.sslstream.com/knlb-fm"
+        },
+        {
+            name: "Family Life Radio 89.9",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "K-LOVE 90.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "KJZA 91.3",
             logo: "stations/images-america/flagstaff/KJZA 89.5.png",
             url: "http://stream.affordablestreaming.com:8000/KJZA.mp3"
@@ -2664,6 +2679,11 @@ var stations = {
             name: "107.5 KOLT",
             logo: "stations/images-america/flagstaff/107.5 KOLT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFMAAC_SC"
+        },
+        {
+            name: "Arizona Shine 107.9",
+            logo: "stations/images-america/flagstaff/Arizona Shine 107.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNOTAMAAC_SC"
         },
         {
             name: "600 KVNA",
@@ -9746,7 +9766,7 @@ var stations = {
         {
             name: "KOOL 96.5",
             logo: "stations/images-america/twin_falls/KOOL 96.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-klixfmaac-ibc3"
+            url: "https://live.wostreaming.net/manifest/townsquare-klixamaac-ibc3"
         },/*
         {
             name: "Balanced Rock 97.5",
@@ -9787,6 +9807,11 @@ var stations = {
             name: "104.7 BOB FM",
             logo: "stations/images-america/twin_falls/104.7 BOB FM.png",
             url: "https://ice10.securenetsystems.net/KIKXFM"
+        },
+        {
+            name: "I-Rock 105.1",
+            logo: "stations/images-america/twin_falls/I-Rock 105.1.png",
+            url: "https://ice24.securenetsystems.net/KYUNHD2"
         },
         {
             name: "Kat Kountry 106",
