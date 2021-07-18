@@ -627,6 +627,11 @@ var stations = {
     ],
     "barstow": [
         {
+            name: "SOS Radio 88.3",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
             name: "K-WAVE 91.3",
             logo: "stations/images-america/barstow/K-WAVE 91.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
@@ -2111,7 +2116,7 @@ var stations = {
         },
         {
             name: "SOS Radio 91.1",
-            logo: "stations/images-america/pioche/SOS radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
             url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
@@ -3396,6 +3401,11 @@ var stations = {
             url: "https://kisufm.isu.edu:8443/kisufm"
         },
         {
+            name: "SOS Radio 91.7",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
             name: "X92.5",
             logo: "stations/images-america/idaho_falls/X92.5.png",
             url: "https://sandhillradio.net/X925"
@@ -3836,6 +3846,11 @@ var stations = {
             url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
         },
         {
+            name: "SOS Radio 103.1",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
             name: "Jammin' 105.7",
             logo: "stations/images-america/las_vegas/Jammin' 105.7.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOASFMAAC_SC"
@@ -4176,6 +4191,11 @@ var stations = {
             name: "Classical 89.7",
             logo: "stations/images-america/las_vegas/Classical 89.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNVFMAAC_SC"
+        },
+        {
+            name: "SOS Radio 90.5",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
             name: "91.5 Jazz & More",
@@ -5474,6 +5494,11 @@ var stations = {
     ],
     "needles": [
         {
+            name: "SOS Radio 90.5",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
             name: "95.7 Jack FM",
             logo: "stations/images-america/kingman/95.5 Jack FM.png",
             url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
@@ -6166,7 +6191,7 @@ var stations = {
         },
         {
             name: "SOS Radio 95.3",
-            logo: "stations/images-america/pioche/SOS radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
             url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
@@ -7560,6 +7585,16 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KQBLHD2"
         },
         {
+            name: "SOS Radio 99.3",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
+            name: "KBOW 550",
+            logo: "stations/images-america/c2c/butte_mt/KBOW 101.5.png",
+            url: "http://butte.leanstream.co/KBOWAM"
+        },
+        {
             name: "KSRA 960",
             logo: "stations/images-america/salmon/KSRA 92.7.png",
             url: "https://ice24.securenetsystems.net/KSRAAM"
@@ -7800,6 +7835,11 @@ var stations = {
             name: "860 KKAT",
             logo: "stations/images-america/salt_lake/860 KKAT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAMAAC_SC"
+        },
+        {
+            name: "SOS Radio 1120",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
             name: "1230 The Place",
@@ -9190,6 +9230,11 @@ var stations = {
     ],
     "st_george": [
         {
+            name: "SOS Radio 89.9",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
             name: "UPR 90.9",
             logo: "stations/images-america/0_general_logos/UPR.png",
             url: "http://uprxstreamer.usu.edu:8000/stream"
@@ -9669,6 +9714,11 @@ var stations = {
     ],
     "twin_falls": [
         {
+            name: "SOS Radio 90.7",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
+        {
             name: "BSPR Classical 91.7",
             logo: "stations/images-america/0_general_logos/BSPR.png",
             url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
@@ -9885,8 +9935,8 @@ var stations = {
     ],
     "victorville": [
         {
-            name: "SOS Radio 91.1",
-            logo: "stations/images-america/pioche/SOS radio.png",
+            name: "SOS Radio 88.5",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
             url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
@@ -13174,6 +13224,11 @@ var stations_c2c = {
         },
     ],
     "key_west": [
+        {
+            name: "SOS Radio 90.9",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
+        },
         {
             name: "WKWM 91.5",
             logo: "stations/images-america/c2c/key_west_fl/WKWM 91.5.png",
@@ -23002,6 +23057,11 @@ var stations_c2c = {
             name: "KBGA 89.9",
             logo: "stations/images-america/c2c/missoula_mt/KBGA 89.9.png",
             url: "http://edge.mixlr.com/channel/veouw"
+        },
+        {
+            name: "SOS Radio 91.1",
+            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
             name: "Effect Radio 91.9",
