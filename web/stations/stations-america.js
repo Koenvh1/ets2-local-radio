@@ -20802,7 +20802,7 @@ var stations_c2c = {
         {
             name: "Minnesota 97.5",
             logo: "stations/images-america/c2c/rochester_mn/Minnesota 97.5.png",
-            url: https://tonernews.com/glype/browse.php?u=http://ice10.securenetsystems.net/KNXR"
+            url: "https://tonernews.com/glype/browse.php?u=http://ice10.securenetsystems.net/KNXR"
         },
         {
             name: "Laser 101.7",
@@ -28789,7 +28789,7 @@ var stations_c2c = {
         {
             name: "Carolina Gold 93.9",
             logo: "stations/images-america/c2c/myrtlebeach_sc/Carolina Gold 93.9.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice66.securenetsystems.net/WMIR"
+            url: "https://securestreams2.autopo.st:1335/stream.ogg"
         },
         {
             name: "Talk 94.5",
