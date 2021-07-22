@@ -8801,6 +8801,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/premierbroadcasters-kitiamaac-ibc1"
         },
         {
+            name: "1520 KXA",
+            logo: "stations/images-america/seattle/1520 KXA.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://www.ophanim.net:8444/s/9410"
+        },
+        {
             name: "La Patrona 1680",
             logo: "stations/images-america/seattle/La Patrona 1680.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNTSAMAAC_SC"
