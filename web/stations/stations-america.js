@@ -31503,11 +31503,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
         },
         {
-            name: "Smooth Jazz 101.9-HD2",
-            logo: "stations/images-america/0_general_logos/Smooth Jazz.png",
-            url: "https://stream.revma.ihrhls.com/zc8170/hls.m3u8"
-        },
-        {
             name: "102.7 Jack FM",
             logo: "stations/images-america/c2c/sanantonio_tx/102.7 Jack FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kjxkfmaac-ibc4"
