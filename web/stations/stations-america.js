@@ -19291,11 +19291,6 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPGCFMAAC_SC"
         },
         {
-            name: "Area 95.5-HD2",
-            logo: "stations/images-america/c2c/washington_dc/Area 95.5-HD2.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPGCHD2AAC_SC"
-        },
-        {
             name: "Connecting Vets 95.5-HD3",
             logo: "stations/images-america/c2c/washington_dc/Connecting Vets 95.5-HD3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPGCHD3AAC_SC"
@@ -20768,7 +20763,7 @@ var stations_c2c = {
             url: "http://stream.am950ktnf.com:8000/;"
         },
         {
-            name: "News/Talk AM 1130",
+            name: "NewsTalk AM 1130",
             logo: "stations/images-america/c2c/minneapolis_mn/News-Talk AM 1130.png",
             url: "https://stream.revma.ihrhls.com/zc1213/hls.m3u8"
         },
@@ -25575,7 +25570,7 @@ var stations_c2c = {
     ],
     "bismarck": [
         {
-            name: "PPB News/Classical 90.5",
+            name: "PPB News Classical 90.5",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
@@ -25652,7 +25647,7 @@ var stations_c2c = {
     ],
     "dickinson_nd": [
         {
-            name: "PPB News/Classical 89.9",
+            name: "PPB News Classical 89.9",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
@@ -25704,7 +25699,7 @@ var stations_c2c = {
             url: "https://cms.stream.publicradio.org/cms.aac"
         },
         {
-            name: "PPB News/Classical 91.9",
+            name: "PPB News Classical 91.9",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
@@ -25816,7 +25811,7 @@ var stations_c2c = {
     ],
     "grand_forks": [
         {
-            name: "PPB News/Classical 89.3",
+            name: "PPB News Classical 89.3",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
@@ -25893,7 +25888,7 @@ var stations_c2c = {
     ], 
     "jamestown_nd": [
         {
-            name: "PPB News/Classical 91.5",
+            name: "PPB News Classical 91.5",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
@@ -25940,7 +25935,7 @@ var stations_c2c = {
     ],
     "williston_nd": [
         {
-            name: "PPB News/Classical 89.5",
+            name: "PPB News Classical 89.5",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
@@ -25950,7 +25945,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2AAC_SC"
         },
         {
-            name: "PPB News/AAA Music 89.5-HD2",
+            name: "PPB News AAA Music 89.5-HD2",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD3AAC_SC"
         },
@@ -26167,7 +26162,7 @@ var stations_c2c = {
         },
         {
             name: "WCSB 89.3",
-            logo: "stations/images-america/c2c/cleveland_oh/WCSB 89.3.svg",
+            logo: "stations/images-america/c2c/cleveland_oh/WCSB 89.3.png",
             url: "https://shoutcastwidgets.com/ssl/523/.mp3"
         },
         {
