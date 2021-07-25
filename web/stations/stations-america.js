@@ -277,8 +277,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6469/hls.m3u8"
         },
         {
-            name: "Hustle 101.3",
-            logo: "stations/images-america/albuquerque/Hustle 101.3.png",
+            name: "The Hustle 101.3",
+            logo: "stations/images-america/albuquerque/The Hustle 101.3.png",
             url: "https://ice42.securenetsystems.net/KRKEFM"
         },
         {
@@ -3094,11 +3094,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kekbfmaac-ibc3"
         },
         {
-            name: "KWSI-LP 100.3",
-            logo: "stations/images-america/grand_junction_montrose/KWSI-LP 100.3.png",
-            url: "https://stream.kwsi.org:8001/stream.ogg"
-        },
-        {
             name: "100.7 The Vault",
             logo: "stations/images-america/grand_junction_montrose/100.7 The Vault.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTFMAAC_SC"
@@ -4863,6 +4858,11 @@ var stations = {
             url: "https://1.ice1.sslstream.com/kkgo_h3.aac"
         },
         {
+            name: "K-Mozart 105.1-HD4",
+            logo: "stations/images-america/los_angeles/K-Mozart 105.1-HD4.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
+        },
+        {
             name: "Power 106",
             logo: "stations/images-america/los_angeles/Power 106.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC"
@@ -6108,11 +6108,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc49/hls.m3u8"
         },
         {
-            name: "KDIF 102.9",
-            logo: "stations/images-america/phoenix/KDIF 102.9.png",
-            url: "https://us5freenew.listen2myradio.com/live.mp3?typeportmount=s1_21538"
-        },
-        {
             name: "La Tricolor 103.5",
             logo: "stations/images-america/phoenix/La Tricolor 103.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLNZFMAAC_SC"
@@ -7250,11 +7245,6 @@ var stations = {
             name: "103.1 KHFM",
             logo: "stations/images-america/roswell/95.5 KHFM.png",
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
-        },
-        {
-            name: "104.7 KMOU",
-            logo: "stations/images-america/roswell/104.7 KMOU.png",
-            url: "https://us2.maindigitalstream.com/ssl/KMOU"
         },
         {
             name: "Fierro 106.1",
@@ -8525,6 +8515,11 @@ var stations = {
             name: "1220 KDOW",
             logo: "stations/images-america/san_francisco/1220 KDOW.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAMAAC_SC"
+        },
+        {
+            name: "Radio De'Hotties 1310",
+            logo: "stations/images-america/san_francisco/Radio De'Hotties 1310.png",
+            url: "https://s6.myradiostream.com/15054/;"
         },
         {
             name: "KEST 1450",
