@@ -60,6 +60,13 @@ function initialise() {
         $(".https").show();
     }
 
+    var chromeMatch = navigator.userAgent.match(/Chrom(e|ium)\/([0-9]+)\./);
+    var chromeVersion = chromeMatch ? parseInt(chromeMatch[2], 10) : false;
+
+    if (chromeVersion && chromeVersion >= 93) {
+        $(".non-local").show();
+    }
+
     if (localStorage.getItem("volume") == null) {
         localStorage.setItem("volume", 1);
     }

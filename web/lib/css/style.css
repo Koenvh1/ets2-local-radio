@@ -14,7 +14,7 @@ body {
     display: none;
 }
 
-.remote, .unsupported-browser, .update, .https {
+.remote, .unsupported-browser, .update, .https, .non-local {
     display: none;
 }
 
