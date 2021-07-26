@@ -13078,9 +13078,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc517/hls.m3u8"
         },
         {
-            name: "Club Jam Classic Hip Hop 93.3-HD2",
-            logo: "stations/images-america/0_general_logos/Club Jam Classic Hip Hop.png",
-            url: "https://stream.revma.ihrhls.com/zc7206/hls.m3u8"
+            name: "Hallelujah 93.3-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/Hallelujah 93.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
         },
         {
             name: "Jax Country 94.1",
@@ -13108,9 +13108,9 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/jac969/jac969-sgplayer-aac"
         },
         {
-            name: "97.3 El Patrón",
-            logo: "stations/images-america/c2c/jacksonville_fl/97.3 El Patrón.png",
-            url: "https://stream.revma.ihrhls.com/zc8557/hls.m3u8"
+            name: "Acción 97.3",
+            logo: "stations/images-america/c2c/jacksonville_fl/Acción 97.3.png",
+            url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
         },
         {
             name: "97.9 KISS FM",
@@ -13208,6 +13208,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6284/hls.m3u8"
         },
         {
+            name: "The Breeze 107.3-HD2",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
             name: "550 Way Radio",
             logo: "stations/images-america/c2c/jacksonville_fl/550 Way Radio.png",
             url: "https://ice7.securenetsystems.net/WAYRAM"
@@ -13216,11 +13221,6 @@ var stations_c2c = {
             name: "ESPN 690",
             logo: "stations/images-america/c2c/jacksonville_fl/ESPN 690.png",
             url: "https://cmg.streamguys1.com/jac690/jac690-sgplayer-aac"
-        },
-        {
-            name: "Hallelujah 930",
-            logo: "stations/images-america/c2c/jacksonville_fl/Hallelujah 930.png",
-            url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
         },
         {
             name: "1010 XL",
@@ -14413,9 +14413,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc669/hls.m3u8"
         },
         {
-            name: "ALT 95.7-HD2",
-            logo: "stations/images-america/0_general_logos/ALT Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+            name: "BIN 95.7-HD2",
+            logo: "stations/images-america/0_general_logos/BIN.png",
+            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
         },
         {
             name: "97X",
@@ -14458,6 +14458,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6434/hls.m3u8"
         },
         {
+            name: "The Breeze 100.7-HD3",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
             name: "HOT 101.5",
             logo: "stations/images-america/c2c/tampa_fl/HOT 101.5.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam1015/tam1015-sgplayer-aac"
@@ -14488,9 +14493,9 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/tam1055/tam1055-sgplayer-aac"
         },
         {
-            name: "WFLA 105.9",
-            logo: "stations/images-america/c2c/tampa_fl/WFLA 105.9.png",
-            url: "https://stream.revma.ihrhls.com/zc2823/hls.m3u8"
+            name: "Acción 105.9",
+            logo: "stations/images-america/c2c/tampa_fl/Acción 105.9.png",
+            url: "https://stream.revma.ihrhls.com/zc685/hls.m3u8"
         },
         {
             name: "Rumba 106.5",
@@ -14521,6 +14526,11 @@ var stations_c2c = {
             name: "AM 860 The Answer",
             logo: "stations/images-america/c2c/tampa_fl/AM 860 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGULAMAAC_SC"
+        },
+        {
+            name: "WFLA 970",
+            logo: "stations/images-america/c2c/tampa_fl/WFLA 970.png",
+            url: "https://stream.revma.ihrhls.com/zc2823/hls.m3u8"
         },
         {
             name: "1150 WTMP",
