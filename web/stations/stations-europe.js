@@ -1486,14 +1486,14 @@ var stations = {
             url: "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high"
         },
         {
-            name: "B5 aktuell",
-            logo: "stations/images-europe/germany-br/B5 aktuell.png",
-            url: "https://br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/mid"
+            name: "BR24",
+            logo: "stations/images-europe/germany-br/BR24.png",
+            url: "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/mid"
         },
         {
-            name: "B5 plus",
-            logo: "stations/images-europe/germany-br/B5 plus.png",
-            url: "https://br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/mid"
+            name: "BR24live",
+            logo: "stations/images-europe/germany-br/BR24live.png",
+            url: "https://br-br24live-live.cast.addradio.de/br/br24live/live/mp3/mid"
         },
         {
             name: "BR Puls",
