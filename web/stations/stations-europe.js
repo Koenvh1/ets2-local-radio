@@ -1399,9 +1399,9 @@ var stations = {
             url: "https://stream.klassikradio.de/live/mp3-192"
         },
         {
-            name: "Klassik Radio Movie",
-            logo: "stations/images-europe/germany/Klassik Radio Movie.png",
-            url: "https://klassikr.streamabc.net/klr-movie-mp3-128-5064634"
+            name: "Klassik Radio Beats",
+            logo: "stations/images-europe/germany/Klassik Radio Beats.png",
+            url: "https://klassikr.streamabc.net/klr-klassikradiobeats-mp3-192-6710802"
         },
         {
             name: "NOSTALGIE",
@@ -2753,12 +2753,12 @@ var stations = {
         {
             name: "LRT 1",
             logo: "stations/images-europe/lithuania/LRT 1.jpg",
-            url: "https://radijas.lrt.lt/radijas/lrt_radijas_cam2/playlist.m3u8"
+            url: "https://radijas.lrt.lt/radijas/lrt_radijas/playlist.m3u8"
         },
         {
             name: "LRT Klasika",
             logo: "stations/images-europe/lithuania/LRT Klasika.png",
-            url: "https://radijas.lrt.lt/radijas/lrt_klasika_cam1/playlist.m3u8"
+            url: "https://radijas.lrt.lt/radijas/lrt_klasika/playlist.m3u8"
         },
         {
             name: "LRT Opus",
