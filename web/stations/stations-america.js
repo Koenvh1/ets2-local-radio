@@ -3648,11 +3648,6 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kkuuhd2aac-imc4"
         },
         {
-            name: "CV104.3",
-            logo: "stations/images-america/indio/CV104.3.png",
-            url: "https://ice9.securenetsystems.net/KHCV"
-        },
-        {
             name: "K-LOVE 105.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -26413,12 +26408,12 @@ var stations_c2c = {
             name: "91.3 WYSO",
             logo: "stations/images-america/c2c/dayton_oh/91.3 WYSO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYSOFM_SC"
-        },
+        },/*
         {
-            name: "B94.5",
-            logo: "stations/images-america/c2c/dayton_oh/B94.5.png",
-            url: "https://stream.revma.ihrhls.com/zc1777/hls.m3u8"
-        },
+            name: "FM94.5",
+            logo: "stations/images-america/c2c/dayton_oh/FM94.5.png",
+            url: "tba - 03.08.2021"
+        },*/
         {
             name: "95.3 The Eagle",
             logo: "stations/images-america/c2c/dayton_oh/95.3 The Eagle.png",
@@ -26478,11 +26473,6 @@ var stations_c2c = {
             name: "104.7 WTUE",
             logo: "stations/images-america/c2c/dayton_oh/104.7 WTUE.png",
             url: "https://stream.revma.ihrhls.com/zc1785/hls.m3u8"
-        },
-        {
-            name: "BIG 106.5",
-            logo: "stations/images-america/c2c/dayton_oh/BIG 106.5.png",
-            url: "https://stream.revma.ihrhls.com/zc1773/hls.m3u8"
         },
         {
             name: "MIX 107.7",
