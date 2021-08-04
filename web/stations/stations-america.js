@@ -19573,6 +19573,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WBGBHD3AAC_SC"
         },
         {
+            name: "LatinX 103.7",
+            logo: "stations/images-america/c2c/boston_ma/LatinX 103.7.png",
+            url: "https://stream.zeno.fm/wuecf39qc18uv.aac"
+        },
+        {
             name: "Mix 104.1",
             logo: "stations/images-america/c2c/boston_ma/Mix 104.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWBXFMAAC_SC"
@@ -29175,9 +29180,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWSNAMAAC_SC"
         },
         {
-            name: "ESPN 99.1",
-            logo: "stations/images-america/c2c/sioux_falls_sd/ESPN 99.1.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-ksoofmaac-ibc3"
+            name: "Kickin' Country 99.1",
+            logo: "stations/images-america/c2c/sioux_falls_sd/Kickin' Country 99.1.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kiknfmaac-ibc3"
         },
         {
             name: "KXRB 100.1",
@@ -29185,14 +29190,14 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kxrbamaac-ibc3"
         },
         {
-            name: "Kickin' Country 100.5",
-            logo: "stations/images-america/c2c/sioux_falls_sd/Kickin' Country 100.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kiknfmaac-ibc3"
-        },
-        {
             name: "101.9 KELO FM",
             logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC"
+        },
+        {
+            name: "ESPN 102.3",
+            logo: "stations/images-america/c2c/sioux_falls_sd/ESPN 102.3.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ksooamaac-ibc3"
         },
         {
             name: "B102.7",
