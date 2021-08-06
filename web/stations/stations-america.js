@@ -4818,6 +4818,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
+            name: "Viva 103.1",
+            logo: "stations/images-america/los_angeles/Viva 103.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC_SC"
+        },
+        {
             name: "KOST 103.5",
             logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
@@ -15269,6 +15274,11 @@ var stations_c2c = {
             url: "http://199.195.194.140:8230/;"
         },
         {
+            name: "Rock 93.3",
+            logo: "stations/images-america/c2c/valdosta_ga/Rock 93.3.png",
+            url: "http://ice64.securenetsystems.net/WVLD"
+        },
+        {
             name: "95.7 The Mix",
             logo: "stations/images-america/c2c/valdosta_ga/95.7 The Mix.png",
             url: "https://ice9.securenetsystems.net/WQPW"
@@ -15307,11 +15317,6 @@ var stations_c2c = {
             name: "105.9 WVGA",
             logo: "stations/images-america/c2c/valdosta_ga/105.9 WVGA.png",
             url: "https://ice9.securenetsystems.net/WVGA"
-        },
-        {
-            name: "Rock 106.9",
-            logo: "stations/images-america/c2c/valdosta_ga/Rock 106.9.png",
-            url: "http://ice64.securenetsystems.net/WVLD"
         },
         {
             name: "107.9 The Beat",

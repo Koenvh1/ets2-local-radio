@@ -884,12 +884,12 @@ var stations = {
         {
             name: "MIX FM 87.8",
             logo: "stations/images-europe/egypt/MIX FM 87.8.png",
-            url: "https://196.219.52.61:8000/;"
+            url: "https://c34.radioboss.fm:18035/stream"
         },
         {
             name: "Radio Hits 88.2",
             logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
-            url: "https://audiostreaming.twesto.com/radiohits215"
+            url: "http://178.32.62.154:8957/;"
         },
         {
             name: "El Radio 9090 FM",
@@ -4956,12 +4956,12 @@ var stations = {
             name: "راديو أجيال",
             logo: "stations/images-europe/westbank/راديو أجيال.png",
             url: "http://streamer.mada.ps:8008/AJYAL"
-        },
+        },/*
         {
             name: "راديو انغام",
             logo: "stations/images-europe/westbank/راديو انغام.jpg",
             url: "http://streamer.mada.ps:8010/ANGHAM"
-        },
+        },*/
     ]
 };
 
