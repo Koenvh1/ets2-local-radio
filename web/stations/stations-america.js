@@ -22758,14 +22758,19 @@ var stations_c2c = {
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
-            name: "Z96",
-            logo: "stations/images-america/c2c/glendive_mt/Z96.png",
+            name: "96.5 KDZN",
+            logo: "stations/images-america/c2c/glendive_mt/96.5 KDZN.png",
             url: "http://ice5.securenetsystems.net:80/KDZN"
         },
         {
-            name: "KXGN 1400",
-            logo: "stations/images-america/c2c/glendive_mt/KXGN 1400.png",
+            name: "KXGN 103.1",
+            logo: "stations/images-america/c2c/glendive_mt/KXGN 103.1.png",
             url: "http://ice8.securenetsystems.net:80/KXGN"
+        },
+        {
+            name: "KGLE 590",
+            logo: "stations/images-america/c2c/glendive_mt/KGLE 590.png",
+            url: "https://ais-sa1.streamon.fm/7063_24k.aac"
         },
     ],
     "greatfalls": [
@@ -25575,6 +25580,16 @@ var stations_c2c = {
     ],
     "bismarck": [
         {
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 89.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "PPB News Classical 90.5",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
@@ -25595,7 +25610,7 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kbyzfmaac-ibc3"
         },
         {
-            name: "Hot 97.5",
+            name: "HOT 97.5",
             logo: "stations/images-america/c2c/bismarck_nd/Hot 97.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kkctfmaac-ibc3"
         },
@@ -25628,6 +25643,11 @@ var stations_c2c = {
             name: "Big Rig 105.9",
             logo: "stations/images-america/c2c/bismarck_nd/Big Rig 105.9.png",
             url: "https://ice9.securenetsystems.net/KKBO"
+        },
+        {
+            name: "Radio 74 106.7",
+            logo: "stations/images-america/lakeview/Radio 74.png",
+            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
         },
         {
             name: "MOJO 107.5",
