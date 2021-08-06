@@ -1293,7 +1293,12 @@ var stations = {
             name: "B92.1",
             logo: "stations/images-america/cedar_city/B92.1.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-kxbnfmaac-ibc4"
-        },
+        },/*
+        {
+            name: "FOX Sports 93.1",
+            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            url: "tbd - 06.08.2021"
+        },*/
         {
             name: "94.9 New Country",
             logo: "stations/images-america/cedar_city/94.9 New Country.png",
@@ -4818,11 +4823,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
-            name: "Viva 103.1",
-            logo: "stations/images-america/los_angeles/Viva 103.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC_SC"
-        },
-        {
             name: "KOST 103.5",
             logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
@@ -4951,6 +4951,11 @@ var stations = {
             name: "RadioK 1230",
 			logo: "stations/images-america/los_angeles/RadioK 1230.png",
 			url: "http://peridot.streamguys.com:5210/live"
+        },
+        {
+            name: "KAZN AM1300",
+			logo: "stations/images-america/los_angeles/KAZN AM1300.png",
+			url: "http://mobilewzrc.serverroom.us:6914/;stream.mp3"
         },
         {
             name: "Radio Korea 1540",
@@ -9298,7 +9303,12 @@ var stations = {
             name: "Kool 98.9",
             logo: "stations/images-america/st_george/Kool 98.9.png",
             url: "http://ice10.securenetsystems.net/KRQX"
-        },
+        },/*
+        {
+            name: "FOX Sports 99.5",
+            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            url: "tbd - 06.08.2021"
+        },*/
         {
             name: "99.9 KONY Country",
             logo: "stations/images-america/st_george/99.9 KONY.png",
