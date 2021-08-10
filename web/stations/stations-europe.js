@@ -2915,38 +2915,53 @@ var stations = {
     "moldova": [
         {
             name: "Radio Moldova Actualităţi",
-            logo: "stations/images-europe/moldova/Radio Moldova Actualităţi.jpg",
-            url: "http://radiolive.trm.md:8000/PGM1_128kb"
+            logo: "stations/images-europe/moldova/Radio Moldova Actualităţi.png",
+            url: "http://radiolive.trm.md:8000/PGM1_256kb"
         },
         {
             name: "Radio Moldova Muzical",
-            logo: "stations/images-europe/moldova/Radio Moldova Muzical.jpg",
-            url: "http://radiolive.trm.md:8000/RM-muzical-128"
+            logo: "stations/images-europe/moldova/Radio Moldova Muzical.png",
+            url: "http://radiolive.trm.md:8000/RM-muzical-256"
         },
         {
             name: "Radio Moldova Tineret",
-            logo: "stations/images-europe/moldova/Radio Moldova Tineret.jpg",
-            url: "http://radiolive.trm.md:8000/RM-tineret-128"
+            logo: "stations/images-europe/moldova/Radio Moldova Tineret.png",
+            url: "http://radiolive.trm.md:8000/RM-tineret-256"
         },
         {
-            name: "Kiss FM",
+            name: "Diaspora FM",
+            logo: "stations/images-europe/moldova/Diaspora FM.png",
+            url: "http://stream.radiojar.com/58ts0hd5hrquv"
+        },
+        {
+            name: "KISS FM",
             logo: "stations/images-europe/moldova/Kiss FM.png",
-            url: "http://89.28.66.205:8000/;"
+            url: "https://live.kissfm.md/kissfm.chisinau"
+        },
+        {
+            name: "HIT FM",
+            logo: "stations/images-europe/moldova/HIT FM.png",
+            url: "https://stream.hitfm.md:8443/HitFM"
+        },
+        {
+            name: "Новое Радио",
+            logo: "stations/images-europe/moldova/Новое Радио.png",
+            url: "http://89.28.72.10:7030/live"
         },
         {
             name: "Publika FM",
-            logo: "stations/images-europe/moldova/Publika FM.jpg",
+            logo: "stations/images-europe/moldova/Publika FM.png",
             url: "http://live.maestrofm.md:8000/publikafm"
         },
         {
             name: "Radio Micul Samaritean",
-            logo: "stations/images-europe/moldova/Radio Micul Samaritean.jpg",
+            logo: "stations/images-europe/moldova/Radio Micul Samaritean.png",
             url: "http://162.251.160.26:80/stream"
         },
         {
             name: "Radio Noroc",
             logo: "stations/images-europe/moldova/Radio Noroc.png",
-            url: "http://live.noroc.tv:8000/radionoroc.mp3"
+            url: "https://s5.radio.co/sfff7b7e97/listen"
         },
         {
             name: "Radio Plai",
@@ -2954,9 +2969,19 @@ var stations = {
             url: "http://stream.radioplai.md:8000/live"
         },
         {
+            name: "Radio Sputnik Moldova",
+            logo: "stations/images-europe/moldova/Radio Sputnik Moldova.png",
+            url: "https://riavoice.gcdn.co/voicemda"
+        },
+        {
+            name: "Russkoe Radio Moldova",
+            logo: "stations/images-europe/moldova/Russkoe Radio Moldova.png",
+            url: "http://live.ruradio.md:8000/ruradio"
+        },
+        {
             name: "Vocea Basarabiei",
             logo: "stations/images-europe/moldova/Vocea Basarabiei.png",
-            url: "http://storage.voceabasarabiei.md:8000/radiovb_96kb"
+            url: "https://storage.voceabasarabiei.md:8001/radiocomvb"
         },
     ],
     "netherlands": [
