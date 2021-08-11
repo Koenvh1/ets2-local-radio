@@ -4304,9 +4304,9 @@ var country_properties_c2c = {
         code: "us-wy",
         relative_radius: 1.2
     },
-    "casper_wy": {
-        name: "casper_wy",
-        name_english: "casper_wy",
+    "casper": {
+        name: "Casper",
+        name_english: "Casper",
         code: "us-wy",
         relative_radius: 1.0
     },
@@ -4334,9 +4334,9 @@ var country_properties_c2c = {
         code: "us-wy",
         relative_radius: 0.7
     },
-    "sheridan_wy": {
-        name: "sheridan_wy",
-        name_english: "sheridan_wy",
+    "sheridan": {
+        name: "Sheridan",
+        name_english: "Sheridan",
         code: "us-wy",
         relative_radius: 1.2
     },
@@ -5201,7 +5201,7 @@ var city_properties_c2c = {
     "wyoming": {
         relative_whitenoise: 0.95
     },
-    "casper_wy": {
+    "casper": {
         relative_whitenoise: 0.85
     },
     "cheyenne": {
@@ -5216,7 +5216,7 @@ var city_properties_c2c = {
     "rock_springs": {
         relative_whitenoise: 0.85
     },
-    "sheridan_wy": {
+    "sheridan": {
         relative_whitenoise: 0.95
     },
 };
@@ -7175,7 +7175,7 @@ var cities_c2c = [
         "z": "-33688.5"
     },
     {
-        "gameName": "casper_wy",
+        "gameName": "casper",
         "realName": "Casper",
         "country": "wyoming",
         "x": "-41823.7",
@@ -7215,7 +7215,7 @@ var cities_c2c = [
         "z": "-19115.9"
     },
     {
-        "gameName": "sheridan_wy",
+        "gameName": "sheridan",
         "realName": "Sheridan",
         "country": "wyoming",
         "x": "-43180.4",
