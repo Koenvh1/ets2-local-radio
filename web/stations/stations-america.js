@@ -8915,8 +8915,8 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KHRW"
         },
         {
-            name: "93.7 Coyote Country",
-            logo: "stations/images-america/sheridan/93.7 Coyote Country.png",
+            name: "93.7 The Coyote",
+            logo: "stations/images-america/sheridan/93.7 The Coyote.png",
             url: "https://ice23.securenetsystems.net/KYTI"
         },
         {
