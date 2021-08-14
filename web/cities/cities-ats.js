@@ -101,11 +101,23 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 0.6
     },
+    "casper": {
+        name: "Casper",
+        name_english: "Casper",
+        code: "us-wy",
+        relative_radius: 1.0
+    },
     "cedar_city": {
         name: "Cedar City",
         name_english: "Cedar City",
         code: "us-ut",
         relative_radius: 0.8
+    },
+    "cheyenne": {
+        name: "cheyenne",
+        name_english: "cheyenne",
+        code: "us-wy",
+        relative_radius: 0.7
     },
     "clifton": {
         name: "Clifton",
@@ -232,6 +244,12 @@ var country_properties = {
         name_english: "Gallup",
         code: "us-nm",
         relative_radius: 0.8
+    },
+    "gillette": {
+        name: "Gillette",
+        name_english: "Gillette",
+        code: "us-wy",
+        relative_radius: 1.2
     },
     "glenwood_springs": {
         name: "Glenwood Springs",
@@ -497,6 +515,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
+    "rawlins": {
+        name: "Rawlins",
+        name_english: "Rawlins",
+        code: "us-wy",
+        relative_radius: 0.8
+    },
     "redbluff": {
         name: "Red Bluff",
         name_english: "Red Bluff",
@@ -527,6 +551,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
+    "rock_springs": {
+        name: "Rock Springs",
+        name_english: "Rock Springs",
+        code: "us-wy",
+        relative_radius: 0.7
+    },
     "roswell": {
         name: "Roswell",
         name_english: "Roswell",
@@ -556,6 +586,12 @@ var country_properties = {
         name_english: "Salt Lake City",
         code: "us-ut",
         relative_radius: 1.0
+    },
+    "sheridan": {
+        name: "Sheridan",
+        name_english: "Sheridan",
+        code: "us-wy",
+        relative_radius: 1.2
     },
     "steamboat_sp": {
         name: "Steamboat Springs",
@@ -809,7 +845,13 @@ var city_properties = {
     "carson_city": {
         relative_whitenoise: 0.85
     },
+    "casper": {
+        relative_whitenoise: 0.85
+    },
     "cedar_city": {
+        relative_whitenoise: 0.85
+    },
+    "cheyenne": {
         relative_whitenoise: 0.85
     },
     "clifton": {
@@ -874,6 +916,9 @@ var city_properties = {
     },
     "gallup": {
         relative_whitenoise: 0.80
+    },
+    "gillette": {
+        relative_whitenoise: 0.95
     },
     "glenwood_springs": {
         relative_whitenoise: 0.85
@@ -1007,6 +1052,9 @@ var city_properties = {
     "raton": {
         relative_whitenoise: 0.85
     },
+    "rawlins": {
+        relative_whitenoise: 0.85
+    },
     "redbluff": {
         relative_whitenoise: 0.85
     },
@@ -1020,6 +1068,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "riverside": {
+        relative_whitenoise: 0.85
+    },
+    "rock_springs": {
         relative_whitenoise: 0.85
     },
     "roswell": {
@@ -1036,6 +1087,9 @@ var city_properties = {
     },
     "salt_lake": {
         relative_whitenoise: 0.85
+    },
+    "sheridan": {
+        relative_whitenoise: 0.95
     },
     "steamboat_sp": {
         relative_whitenoise: 0.85
@@ -1554,6 +1608,22 @@ var cities = [
         "z": "35353.5"
     },
     {
+        "gameName": "casper",
+        "realName": "Casper",
+        "country": "wyoming",
+        "x": "-41823.7",
+        "y": "441.58",
+        "z": "-24332.2"
+    },
+    {
+        "gameName": "cheyenne",
+        "realName": "Cheyenne",
+        "country": "wyoming",
+        "x": "-36591.9",
+        "y": "655.961",
+        "z": "-14475.8"
+    },
+    {
         "gameName": "clifton",
         "realName": "Clifton",
         "country": "arizona",
@@ -1586,6 +1656,14 @@ var cities = [
         "z": "15448.3"
     },
     {
+        "gameName": "gillette",
+        "realName": "Gillette",
+        "country": "wyoming",
+        "x": "-38652.4",
+        "y": "269.667",
+        "z": "-32139.1"
+    },
+    {
         "gameName": "hobbs",
         "realName": "Hobbs",
         "country": "new_mexico",
@@ -1608,6 +1686,22 @@ var cities = [
         "x": "-38146.3",
         "y": "154.02",
         "z": "10209.8"
+    },
+    {
+        "gameName": "rawlins",
+        "realName": "Rawlins",
+        "country": "wyoming",
+        "x": "-48995",
+        "y": "430.228",
+        "z": "-18817.5"
+    },
+    {
+        "gameName": "rock_springs",
+        "realName": "Rock Springs",
+        "country": "wyoming",
+        "x": "-54468.8",
+        "y": "381.333",
+        "z": "-19115.9"
     },
     {
         "gameName": "roswell",
@@ -1920,6 +2014,14 @@ var cities = [
         "x": "-68092",
         "y": "111.199",
         "z": "-16343.5"
+    },
+    {
+        "gameName": "sheridan",
+        "realName": "Sheridan",
+        "country": "wyoming",
+        "x": "-43180.4",
+        "y": "284.636",
+        "z": "-35274.9"
     },
     {
         "gameName": "st_george",
@@ -4298,48 +4400,6 @@ var country_properties_c2c = {
         code: "us-wi",
         relative_radius: 1.0
     },
-    "wyoming": {
-        name: "wyoming",
-        name_english: "wyoming",
-        code: "us-wy",
-        relative_radius: 1.2
-    },
-    "casper": {
-        name: "Casper",
-        name_english: "Casper",
-        code: "us-wy",
-        relative_radius: 1.0
-    },
-    "cheyenne": {
-        name: "cheyenne",
-        name_english: "cheyenne",
-        code: "us-wy",
-        relative_radius: 0.7
-    },
-    "gillette_wy": {
-        name: "gillette",
-        name_english: "gillette",
-        code: "us-wy",
-        relative_radius: 1.2
-    },
-    "rawlins": {
-        name: "rawlings",
-        name_english: "rawlings",
-        code: "us-wy",
-        relative_radius: 0.8
-    },
-    "rock_springs": {
-        name: "rock_springs",
-        name_english: "rock_springs",
-        code: "us-wy",
-        relative_radius: 0.7
-    },
-    "sheridan": {
-        name: "Sheridan",
-        name_english: "Sheridan",
-        code: "us-wy",
-        relative_radius: 1.2
-    },
 };
 
 var city_properties_c2c = {
@@ -5196,27 +5256,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "wausau_wi": {
-        relative_whitenoise: 0.95
-    },
-    "wyoming": {
-        relative_whitenoise: 0.95
-    },
-    "casper": {
-        relative_whitenoise: 0.85
-    },
-    "cheyenne": {
-        relative_whitenoise: 0.85
-    },
-    "gillette_wy": {
-        relative_whitenoise: 0.95
-    },
-    "rawlins": {
-        relative_whitenoise: 0.85
-    },
-    "rock_springs": {
-        relative_whitenoise: 0.85
-    },
-    "sheridan": {
         relative_whitenoise: 0.95
     },
 };
@@ -7173,54 +7212,6 @@ var cities_c2c = [
         "x": "26019.9",
         "y": "51.445",
         "z": "-33688.5"
-    },
-    {
-        "gameName": "casper",
-        "realName": "Casper",
-        "country": "wyoming",
-        "x": "-41823.7",
-        "y": "441.58",
-        "z": "-24332.2"
-    },
-    {
-        "gameName": "cheyenne",
-        "realName": "Cheyenne",
-        "country": "wyoming",
-        "x": "-36591.9",
-        "y": "655.961",
-        "z": "-14475.8"
-    },
-    {
-        "gameName": "gillette_wy",
-        "realName": "Gillette",
-        "country": "wyoming",
-        "x": "-38652.4",
-        "y": "269.667",
-        "z": "-32139.1"
-    },
-    {
-        "gameName": "rawlins",
-        "realName": "Rawlins",
-        "country": "wyoming",
-        "x": "-48995",
-        "y": "430.228",
-        "z": "-18817.5"
-    },
-    {
-        "gameName": "rock_springs",
-        "realName": "Rock Springs",
-        "country": "wyoming",
-        "x": "-54468.8",
-        "y": "381.333",
-        "z": "-19115.9"
-    },
-    {
-        "gameName": "sheridan",
-        "realName": "Sheridan",
-        "country": "wyoming",
-        "x": "-43180.4",
-        "y": "284.636",
-        "z": "-35274.9"
     },
 ];
 
