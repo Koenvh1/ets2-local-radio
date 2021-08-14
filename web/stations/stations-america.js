@@ -3407,11 +3407,6 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KAML"
         },
         {
-            name: "KAML 97.3",
-            logo: "stations/images-america/gillette/KAML 97.3.png",
-            url: "https://ice23.securenetsystems.net/KAML"
-        },
-        {
             name: "K253AZ 98.5",
             logo: "stations/images-america/sheridan/Q104.9.png",
             url: "https://ice23.securenetsystems.net/KLQQ"
