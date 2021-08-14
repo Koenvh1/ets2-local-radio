@@ -3384,7 +3384,7 @@ var stations = {
         {
             name: "Real Presence Radio 88.1",
             logo: "stations/images-america/gillette/Real Presence Radio 88.1.png",
-            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
             name: "K-LOVE 88.9",
