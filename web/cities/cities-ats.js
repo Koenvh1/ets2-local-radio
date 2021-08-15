@@ -5208,7 +5208,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "roanoke_va": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "winchester_va": {
         relative_whitenoise: 0.95
@@ -7113,9 +7113,9 @@ var cities_c2c = [
         "gameName": "roanoke_va",
         "realName": "Roanoke",
         "country": "virginia",
-        "x": "71202.9",
-        "y": "31.5614",
-        "z": "3459.54"
+        "x": "72370.9",
+        "y": "133.222",
+        "z": "2572.97"
     },
     {
         "gameName": "winchester_va",

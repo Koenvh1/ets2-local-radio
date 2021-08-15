@@ -3642,6 +3642,11 @@ var stations = {
     ],
     "idaho_falls": [
         {
+            name: "The REV 90.1",
+            logo: "stations/images-america/0_general_logos/The REV.png",
+            url: "http://173.192.207.51:8043/stream"
+        },
+        {
             name: "Air1 90.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -3913,7 +3918,104 @@ var stations = {
             logo: "stations/images-america/yuma/920 KGX.png",
             url: "https://ice10.securenetsystems.net/KGX"
         },
-    ],
+    ],/*
+    "jackson": [
+        {
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "The REV 88.7",
+            logo: "stations/images-america/0_general_logos/The REV.png",
+            url: "http://173.192.207.51:8043/stream"
+        },
+        {
+            name: "KHOL 89.1",
+            logo: "stations/images-america/jackson/KHOL 89.1.png",
+            url: "http://peridot.streamguys.com:6010/live"
+        },
+        {
+            name: "WPR 90.3",
+            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
+        },
+        {
+            name: "Moody Radio 91.1",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+        {
+            name: "KJAX 93.5",
+            logo: "stations/images-america/jackson/KJAX 93.5.png",
+            url: "https://us2.maindigitalstream.com/ssl/KJAX"
+        },
+        {
+            name: "Bott Radio 94.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://ic1.christiannetcast.com/bottradio"
+        },
+        {
+            name: "KZ95",
+            logo: "stations/images-america/jackson/KZ95.png",
+            url: "https://us2.maindigitalstream.com/ssl/KZJH"
+        },
+        {
+            name: "Classical Wyoming 95.9",
+            logo: "stations/images-america/0_general_logos/Classical Wyoming.png",
+            url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
+        },
+        {
+            name: "La Nueva 96.3",
+            logo: "stations/images-america/jackson/KZ95.png",
+            url: "http://173.193.205.96:7529/stream"
+        },
+        {
+            name: "KMTN 96.9",
+            logo: "stations/images-america/jackson/KMTN 96.9.png",
+            url: "https://us2.maindigitalstream.com/ssl/KMTN"
+        },
+        {
+            name: "Wyoming Sounds 97.3",
+            logo: "stations/images-america/0_general_logos/Wyoming Sounds.png",
+            url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
+        },
+        {
+            name: "99 KUPI",
+            logo: "stations/images-america/idaho_falls/99 KUPI.png",
+            url: "https://sandhillradio.net/KUPI"
+        },
+        {
+            name: "102.1 The Wolf",
+            logo: "stations/images-america/idaho_falls/96.1 The Wolf.png",
+            url: "https://ice24.securenetsystems.net/KIDFM"
+        },
+        {
+            name: "104.3 The Bronc",
+            logo: "stations/images-america/jackson/104.3 The Bronc.png",
+            url: "https://streaming.live365.com/a24308"
+        },
+        {
+            name: "KBYI 105.9",
+            logo: "stations/images-america/idaho_falls/KBYI 94.3.png",
+            url: "https://radiostream.byui.edu/kbyi"
+        },
+        {
+            name: "KID 590",
+            logo: "stations/images-america/idaho_falls/KID 106.3.png",
+            url: "https://ice24.securenetsystems.net/KIDAM"
+        },
+        {
+            name: "KVNU 610",
+            logo: "stations/images-america/logan/KVNU 102.1.png",
+            url: "https://ice9.securenetsystems.net/KVNU"
+        },
+        {
+            name: "980 The Zone",
+            logo: "stations/images-america/jackson/980 The Zone.png",
+            url: "https://sandhillradio.net/KSPZ"
+        },
+    ],*/
     "kayenta": [
         {
             name: "Red Rock 92",

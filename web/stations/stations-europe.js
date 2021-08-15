@@ -1366,7 +1366,7 @@ var stations = {
         {
             name: "Absolut TOP",
             logo: "stations/images-europe/germany/Absolut TOP.png",
-            url: "https://edge05.streamonkey.net/absolut-top"
+            url: "https://frontend.streamonkey.net/absolut-top"
         },
         {
             name: "Antenne Bayern",
@@ -1376,12 +1376,12 @@ var stations = {
         {
             name: "dpd DRIVER`S RADIO",
             logo: "stations/images-europe/germany/dpd DRIVER`S RADIO.png",
-            url: "https://edge05.streamonkey.net/dpd-driversradio"
+            url: "https://frontend.streamonkey.net/dpd-driversradio"
         },
         {
             name: "ENERGY Digital",
             logo: "stations/images-europe/germany/Energy.png",
-            url: "https://scdn.nrjaudio.fm/adwz1/de/55659/mp3_128.mp3"
+            url: "https://frontend.streamonkey.net/energy-digital/stream/mp3"
         },
         {
             name: "ERF Plus",
