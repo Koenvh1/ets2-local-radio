@@ -22962,12 +22962,17 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHLFMAAC_SC"
         },
         {
-            name: "Majic 104.9",
-            logo: "stations/images-america/c2c/stlouis_mo/Majic 104.9.png",
+            name: "104.9 The Patriot",
+            logo: "stations/images-america/c2c/stlouis_mo/104.9 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc1281/hls.m3u8"
         },
         {
-            name: "The Beat 104.9-HD2",
+            name: "Majic 104.9-HD2",
+            logo: "stations/images-america/c2c/stlouis_mo/Majic 104.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc9063/hls.m3u8"
+        },
+        {
+            name: "The Beat 104.9-HD3",
             logo: "stations/images-america/0_general_logos/The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc4429/hls.m3u8"
         },
