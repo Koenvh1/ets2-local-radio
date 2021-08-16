@@ -28993,8 +28993,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPROFMAAC_SC"
         },
         {
-            name: "Coast 93.3",
-            logo: "stations/images-america/c2c/providence_ri/Coast 93.3.png",
+            name: "NOW 93.3",
+            logo: "stations/images-america/c2c/providence_ri/NOW 93.3.png",
             url: "https://stream.revma.ihrhls.com/zc2053/hls.m3u8"
         },
         {
