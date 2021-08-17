@@ -31356,8 +31356,8 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KLHBFM"
         },
         {
-            name: "106.5 The Shark",
-            logo: "stations/images-america/c2c/corpus_christi_tx/106.5 The Shark.png",
+            name: "106.5 BANDTANGO Radio",
+            logo: "stations/images-america/c2c/corpus_christi_tx/106.5 BANDTANGO Radio.png",
             url: "https://crystalout.surfernetwork.com:8001/KYRK-FM_MP3"
         },
         {

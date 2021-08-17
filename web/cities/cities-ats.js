@@ -298,7 +298,13 @@ var country_properties = {
         name_english: "Indio",
         code: "us-ca",
         relative_radius: 0.6
-    },
+    },/*
+    "jackson": {
+        name: "Jackson",
+        name_english: "Jackson",
+        code: "us-wy",
+        relative_radius: 0.7
+    },*/
     "kayenta": {
         name: "Kayenta",
         name_english: "Kayenta",
@@ -346,7 +352,13 @@ var country_properties = {
         name_english: "Lamar",
         code: "us-co",
         relative_radius: 0.8
-    },
+    },/*
+    "laramie": {
+        name: "Laramie",
+        name_english: "Laramie",
+        code: "us-wy",
+        relative_radius: 0.7
+    },*/
     "las_cruces": {
         name: "Las Cruces",
         name_english: "Las Cruces",
@@ -550,7 +562,13 @@ var country_properties = {
         name_english: "Riverside",
         code: "us-ca",
         relative_radius: 0.5
-    },
+    },/*
+    "riverton": {
+        name: "Riverton",
+        name_english: "Riverton",
+        code: "us-wy",
+        relative_radius: 0.7
+    },*/
     "rock_springs": {
         name: "Rock Springs",
         name_english: "Rock Springs",
@@ -943,7 +961,10 @@ var city_properties = {
     },
     "indio": {
         relative_whitenoise: 0.85
-    },
+    },/*
+    "jackson": {
+        relative_whitenoise: 0.85
+    },*/
     "kayenta": {
         relative_whitenoise: 0.85
     },
@@ -967,7 +988,10 @@ var city_properties = {
     },
     "lamar": {
         relative_whitenoise: 0.80
-    },
+    },/*
+    "laramie": {
+        relative_whitenoise: 0.85
+    },*/
     "las_cruces": {
         relative_whitenoise: 0.85
     },
@@ -1069,7 +1093,10 @@ var city_properties = {
     },
     "riverside": {
         relative_whitenoise: 0.85
-    },
+    },/*
+    "riverton": {
+        relative_whitenoise: 0.85
+    },*/
     "rock_springs": {
         relative_whitenoise: 0.85
     },
@@ -1326,7 +1353,15 @@ var cities = [
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
-    },
+    },/*
+    {
+        "gameName": "jackson",
+        "realName": "Jackson",
+        "country": "wyoming",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "kayenta",
         "realName": "Kayenta",
@@ -1342,7 +1377,15 @@ var cities = [
         "x": "-80255.8",
         "y": "65.603",
         "z": "13606.3"
-    },
+    },/*
+    {
+        "gameName": "laramie",
+        "realName": "Laramie",
+        "country": "wyoming",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "las_vegas",
         "realName": "Las Vegas",
@@ -1454,7 +1497,15 @@ var cities = [
         "x": "-99043.6",
         "y": "38.0766",
         "z": "17999.1"
-    },
+    },/*
+    {
+        "gameName": "riverton",
+        "realName": "Riverton",
+        "country": "wyoming",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "sacramento",
         "realName": "Sacramento",
