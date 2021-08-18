@@ -27759,8 +27759,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJKEFMAAC_SC"
         },
         {
-            name: "94.7 The Brew",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/94.7 The Brew.png",
+            name: "94.7 The Ref",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/94.7 The Ref.png",
             url: "https://stream.revma.ihrhls.com/zc1901/hls.m3u8"
         },
         {
