@@ -4558,7 +4558,7 @@ var stations = {
         {
             name: "Classic Rock 98.7",
             logo: "stations/images-america/las_cruces/Classic Rock 98.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSNMFMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/adamsradio-ksnmfmaac-ibc1"
         },
         {
             name: "Zia Country 99.5",
@@ -4578,17 +4578,17 @@ var stations = {
         {
             name: "HOT 103.1",
             logo: "stations/images-america/las_cruces/Hot 103.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHQTFMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/adamsradio-khqtfmaac-ibc1"
         },
         {
             name: "KGRT 103.9",
             logo: "stations/images-america/las_cruces/KGRT 103.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGRTFMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/adamsradio-kgrtfmaac-ibc1"
         },
         {
             name: "KOOL Oldies 104.5",
             logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWMLAMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/adamsradio-kwmlamaac-ibc1"
         },
         {
             name: "Magic 104.9",
