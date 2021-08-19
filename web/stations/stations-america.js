@@ -279,7 +279,7 @@ var stations = {
         {
             name: "The Hustle 101.3",
             logo: "stations/images-america/albuquerque/The Hustle 101.3.png",
-            url: "https://ice42.securenetsystems.net/KRKEFM"
+            url: "https://ice42.securenetsystems.net/KRKE"
         },
         {
             name: "101.7 The Team",
