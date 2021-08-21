@@ -4723,6 +4723,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
         },
         {
+            name: "99.3 Latino Mix",
+            logo: "stations/images-america/las_vegas/99.3 Latino Mix.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-krgtfmaac-imc2"
+        },
+        {
             name: "The Highway Vibe 99.7",
             logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
             url: "https://streaming.live365.com/a48408"
@@ -4743,9 +4748,19 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
         },
         {
+            name: "La Buena 101.9",
+            logo: "stations/images-america/las_vegas/La Buena 101.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KWIDFMAAC_SC"
+        },
+        {
             name: "102.7 Coyote Country",
             logo: "stations/images-america/las_vegas/102.7 Coyote Country.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
+        },
+        {
+            name: "Zona MX 103.5",
+            logo: "stations/images-america/las_vegas/Zona MX 103.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kisffmaac-imc2"
         },
         {
             name: "REAL 103.9",
@@ -16497,11 +16512,6 @@ var stations_c2c = {
             name: "95.5 GLO",
             logo: "stations/images-america/c2c/peoria_il/95.5 GLO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC_SC"
-        },
-        {
-            name: "95.9 The SportsNut",
-            logo: "stations/images-america/c2c/peoria_il/95.9 The SportsNut.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGHD3AAC_SC"
         },
         {
             name: "97.3 River Country",

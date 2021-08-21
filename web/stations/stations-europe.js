@@ -664,7 +664,7 @@ var stations = {
         {
             name: "Otvoreni",
             logo: "stations/images-europe/croatia/Otvoreni.png",
-            url: "https://stream.otvoreni.hr/otvoreni"
+            url: "https://stream2.otvoreni.hr/otvoreni"
         },
         {
             name: "Radio Kaj",
@@ -1755,9 +1755,9 @@ var stations = {
             url: "https://ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
         },
         {
-            name: "Antenne MV",
-            logo: "stations/images-europe/germany-mv/Antenne MV.png",
-            url: "https://antennemv.hoerradar.de/antennemv-live-mp3-hq"
+            name: "80s80s MV",
+            logo: "stations/images-europe/germany/80s80s.png",
+            url: "http://streams.80s80s.de/80s80sMV/mp3-192/streams.80s80s.de/"
         },
         {
             name: "Ostseewelle",
