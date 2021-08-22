@@ -33,8 +33,8 @@
         g_api = url.searchParams.get("api") || "";
         game = url.searchParams.get("game") || "ets2";
 
-        $.getScript("stations/" + g_skinConfig[game].stations, function () {
-            $.getScript("cities/" + g_skinConfig[game].map, function () {
+        $.getScript(g_skinConfig[game].stations, function () {
+            $.getScript(g_skinConfig[game].map, function () {
                 $.getScript(g_api + "/custom.js").done(function () {
                     initialise();
                 }).fail(function () {

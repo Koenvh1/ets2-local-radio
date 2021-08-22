@@ -16,12 +16,13 @@ var g_skinConfig = {
     "whitenoise": true,                     //Whether to play static when a station is far away
     "transition-whitenoise": true,          //Whether to play static when changing stations
     "peerJSkey": "damhc79361fhto6r",        //API key for PeerJS (remote control), no reason to change this yet
+    "url-prefix": "https://localradio.koenvh.nl/",
     "ets2": {
-        "map": "cities-ets2.js",            //What map you're using, this is default + ProMods + RusMap + Project Balkans + Egypt add-on by default. Pick one of the files in the cities folder.
-        "stations": "stations-europe.js",   //What stations file to use, currently only stations-europe available.
+        "map": "https://localradio.koenvh.nl/cities/cities-ets2.js",                //What map you're using, this is default + ProMods + RusMap + Project Balkans + Egypt add-on by default. Pick one of the files in the cities folder.
+        "stations": "https://localradio.koenvh.nl/stations/stations-europe.js",     //What stations file to use, currently only stations-europe available.
     },
     "ats": {
-        "map": "cities-ats.js",             //What map you're using, this is default by default.
-        "stations": "stations-america.js",  //What stations file to use, currently only stations-america available.
+        "map": "https://localradio.koenvh.nl/cities/cities-ats.js",                 //What map you're using, this is default by default.
+        "stations": "https://localradio.koenvh.nl/stations/stations-america.js",    //What stations file to use, currently only stations-america available.
     }
 };
