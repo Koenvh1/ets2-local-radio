@@ -395,7 +395,7 @@ function setRadioStation(url, country, volume) {
 
     $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" +
         calculateReception(g_countries[country].whitenoise) + "/?" +
-        location.origin + location.pathname + stations[country][index].logo);
+        g_skinConfig["url-prefix"] + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -634,7 +634,7 @@ function refreshStations() {
     }).indexOf(g_current_url);
 
     $(".current-station").html(stations[g_current_country][index].name);
-    $(".current-station-image").attr("src", stations[g_current_country][index].logo);
+    $(".current-station-image").attr("src", g_skinConfig["url-prefix"] + stations[g_current_country][index].logo);
     $(".current-station-country").html(country_properties[g_current_country].name);
     $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
     if(g_favourites[g_current_country] == stations[g_current_country][index].name) {
