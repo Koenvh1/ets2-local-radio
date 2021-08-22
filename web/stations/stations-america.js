@@ -6001,9 +6001,39 @@ var stations = {
     ],
     "newport": [
         {
+            name: "All Classical 88.1",
+            logo: "stations/images-america/portland/All Classical 89.9.png",
+            url: "http://allclassical-ice.streamguys.com:80/ac96kmp3"
+        },
+        {
+            name: "ICAN Radio 88.1-HD2",
+            logo: "stations/images-america/portland/ICAN Radio 89.9-HD2.png",
+            url: "https://allclassical-ord.streamguys1.com/ICAN"
+        },
+        {
+            name: "Rejoice Radio 88.7",
+            logo: "stations/images-america/las_cruces/Rejoice Radio 91.9.png",
+            url: "https://aos02-abeka.secure.footprint.net/egress/bhandler/pccremuxlive/pccremuxlive2/manifest.m3u8"
+        },
+        {
+            name: "K-LOVE 89.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "KLCC 90.5",
             logo: "stations/images-america/oregon/KLCC.png",
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
+        },
+        {
+            name: "PRX Remix 90.5-HD2",
+            logo: "stations/images-america/0_general_logos/PRX Remix.png",
+            url: "http://backbonenetworks.streamguys.com/remixxm.mp3"
+        },
+        {
+            name: "KWAX 91.3",
+            logo: "stations/images-america/eugene/KWAX 91.1.png",
+            url: "http://streaming.kwax.com:8000/stream1"
         },
         {
             name: "KYAQ 91.7",
@@ -6058,7 +6088,7 @@ var stations = {
         {
             name: "KNPT 1310",
             logo: "stations/images-america/newport/KNPT 1310.png",
-            url: "http://68.116.40.121:35286/broadwave.mp3"
+            url: "http://68.116.40.121:88/broadwave.mp3"
         },
     ],
     "olympia": [
