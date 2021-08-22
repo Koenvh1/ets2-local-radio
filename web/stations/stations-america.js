@@ -8587,7 +8587,7 @@ var stations = {
         {
             name: "1400 ESPN",
             logo: "stations/images-america/santa_fe/1400 ESPN.png",
-            url: "http://edge.espn.cdn.abacast.net/espn-network-48"
+            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
         },
     ],
     "santa_maria": [
@@ -8647,8 +8647,8 @@ var stations = {
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
         },
         {
-            name: "Sunny 102.5",
-            logo: "stations/images-america/santa_maria/Sunny 102.5.png",
+            name: "Sunny Country 102.5",
+            logo: "stations/images-america/santa_maria/Sunny Country 102.5.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-ksnifmaac-ibc3"
         },
         {
@@ -10038,8 +10038,8 @@ var stations = {
             url: "http://ice10.securenetsystems.net/KURR"
         },
         {
-            name: "Zion 104.1",
-            logo: "stations/images-america/st_george/Zion 104.1.png",
+            name: "104.1 Zion FM",
+            logo: "stations/images-america/st_george/104.1 Zion FM.png",
             url: "http://ice24.securenetsystems.net/KZYN"
         },
         {
