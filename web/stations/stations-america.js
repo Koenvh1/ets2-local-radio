@@ -1839,9 +1839,24 @@ var stations = {
             url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
         },
         {
+            name: "JPR Classics & News 89.1",
+            logo: "stations/images-america/0_general_logos/JPR.png",
+            url: "http://jpr.streamguys.org:80/jpr-classics"
+        },
+        {
+            name: "Effect Radio 89.9",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
             name: "Pirate Radio 91.3",
             logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
             url: "http://kmhs.coos-bay.k12.or.us:8000/kmhsfm"
+        },
+        {
+            name: "K-LOVE 91.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "K-DOCK 92.9",
@@ -1869,6 +1884,11 @@ var stations = {
             url: "https://s46.myradiostream.com/9514/;"
         },
         {
+            name: "K-Light 98.7",
+            logo: "stations/images-america/coos_bay/K-Light 98.7.png",
+            url: "https://s5.voscast.com:9461/stream"
+        },
+        {
             name: "99.5 KJMX",
             logo: "stations/images-america/coos_bay/99.5 KJMX.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KJMXFMAAC_SC"
@@ -1877,6 +1897,11 @@ var stations = {
             name: "101.1 KWRO",
             logo: "stations/images-america/coos_bay/101.1 KWRO.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KWROAMAAC_SC"
+        },
+        {
+            name: "Pirate Radio 105.1",
+            logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
+            url: "https://s9.voscast.com:9647/stream"
         },
         {
             name: "105.9 The Legend",
@@ -1897,11 +1922,6 @@ var stations = {
             name: "KBBR 1340",
             logo: "stations/images-america/coos_bay/KBBR 1340.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBBRAMAAC_SC"
-        },
-        {
-            name: "Pirate Radio 1420",
-            logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
-            url: "https://s9.voscast.com:9647/stream"
         },
     ],
     "crescent_city": [
@@ -2413,8 +2433,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEHKFMAAC_SC"
         },
         {
-            name: "103.7 KNRQ",
-            logo: "stations/images-america/eugene/103.7 KNRQ.png",
+            name: "103.7 NRQ",
+            logo: "stations/images-america/eugene/103.7 NRQ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC_SC"
         },
         {
@@ -6021,8 +6041,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFLYFMAAC_SC"
         },
         {
-            name: "103.7 KNRQ",
-            logo: "stations/images-america/eugene/103.7 KNRQ.png",
+            name: "103.7 NRQ",
+            logo: "stations/images-america/eugene/103.7 NRQ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNRQFMAAC_SC"
         },
         {
