@@ -394,6 +394,11 @@ var stations = {
             url: "http://ice41.securenetsystems.net/KBGE"
         },
         {
+            name: "Mixx 96.1",
+            logo: "stations/images-america/washington/Mixx 96.1.png",
+            url: "https://ice10.securenetsystems.net/KXXO"
+        },
+        {
             name: "KSWB 840",
             logo: "stations/images-america/astoria/KSWB 840.png",
             url: "http://stream.radiojar.com/6ahprpus6p5tv"
@@ -737,6 +742,16 @@ var stations = {
             name: "KAFE 104.1",
             logo: "stations/images-america/bellingham/KAFE 104.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-kafefmaac-ibc1"
+        },
+        {
+            name: "PRAISE 106.5",
+            logo: "stations/images-america/bellingham/PRAISE 106.5.png",
+            url: "https://crista-kwpz.streamguys1.com/kwpzmp3"
+        },
+        {
+            name: "SkyCountry Radio 106.5-HD2",
+            logo: "stations/images-america/bellingham/SkyCountry Radio 106.5-HD2.png",
+            url: "https://crista-skycountry.streamguys1.com/skycountrymp3"
         },
         {
             name: "KARI 550",
@@ -6697,14 +6712,24 @@ var stations = {
     ],
     "port_angeles": [
         {
+            name: "ICI Musique 88.9",
+            logo: "stations/images-america/canadream/ICI Musique.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
+        },
+        {
             name: "KNKX 89.3",
             logo: "stations/images-america/0_general_logos/KNKX.png",
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
         },
         {
-            name: "NWPR Classical 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
-            url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
+            name: "NWPR News 90.1",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            url: "http://streams.nwpr.org:8000/NWPRNEWS"
+        },
+        {
+            name: "Air1 90.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "CBC Radio One 90.5",
@@ -6712,9 +6737,24 @@ var stations = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
+            name: "The Zone @ 91.3",
+            logo: "stations/images-america/port_angeles/The Zone @ 91.3.png",
+            url: "https://redirect.jpbgdigital.com/CJZN"
+        },
+        {
             name: "KSQM 91.5",
             logo: "stations/images-america/port_angeles/KSQM 91.5.png",
             url: "https://video1.getstreamhosting.com:8182/stream"
+        },
+        {
+            name: "CBC Music 92.1",
+            logo: "stations/images-america/canadream/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+        },
+        {
+            name: "92.9 KISM",
+            logo: "stations/images-america/bellingham/92.9 KISM.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-kismfmaac-ibc1"
         },
         {
             name: "Ocean 98.5",
@@ -6727,24 +6767,29 @@ var stations = {
             url: "https://redirect.jpbgdigital.com/CKKQ"
         },
         {
-            name: "KONP 101.7",
-            logo: "stations/images-america/port_angeles/KONP 101.7.png",
-            url: "https://crystalout.surfernetwork.com:8001/KONP_MP3"
-        },
-        {
-            name: "The Strait 102",
-            logo: "stations/images-america/port_angeles/The Strait 102.png",
-            url: "https://crystalout.surfernetwork.com:8001/KSTI-FM_MP3"
-        },
-        {
             name: "JACK 103.1",
             logo: "stations/images-america/port_angeles/JACK 103.1.png",
             url: "https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
         },
         {
+            name: "KAFE 104.1",
+            logo: "stations/images-america/bellingham/KAFE 104.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-kafefmaac-ibc1"
+        },
+        {
             name: "Z104.9",
             logo: "stations/images-america/port_angeles/Z 104.9.png",
             url: "https://crystalout.surfernetwork.com:8001/KZQM-FM_MP3"
+        },
+        {
+            name: "PRAISE 106.5",
+            logo: "stations/images-america/bellingham/PRAISE 106.5.png",
+            url: "https://crista-kwpz.streamguys1.com/kwpzmp3"
+        },
+        {
+            name: "SkyCountry Radio 106.5-HD2",
+            logo: "stations/images-america/bellingham/SkyCountry Radio 106.5-HD2.png",
+            url: "https://crista-skycountry.streamguys1.com/skycountrymp3"
         },
     ],
     "portland": [
