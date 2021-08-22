@@ -120,15 +120,15 @@
             <div class="row">
                 <div class="col-lg-12">
                     <p class="well-sm">
-                        <span class="lang-closest-city">Closest city is: <span class="nearestCity"></span>, <span class="distance"></span> meters away</span> |
-                        <span class="lang-amount-static">Amount of static:</span> <span class="whitenoise-volume"></span> |
-                        PeerID: <span class="peer-id"></span> |
+                        <span class="lang-closest-city">Closest city is: <span class="nearestCity">-</span>, <span class="distance">-</span> meters away</span> |
+                        <span class="lang-amount-static">Amount of static:</span> <span class="whitenoise-volume">-</span> |
+                        PeerID: <span class="peer-id">00000</span> |
                         <span class="game">ets2</span> |
                         <button onclick="toggleTheme();" id="themeToggle" class="btn btn-xs btn-primary lang-chgtheme">Switch Theme</button> |
                         <span class="lang-brightness">Brightness:</span>
                         <button onclick="$('.brightness').css('opacity', '+=0.05');" class="btn btn-xs btn-primary">-</button>
                         <button onclick="$('.brightness').css('opacity', '-=0.05');" class="btn btn-xs btn-primary">+</button> |
-                        <a onclick="g_show_all = !g_show_all;" href="#" class="lang-show-all">Toggle show all</a>
+                        <button onclick="g_show_all = !g_show_all;" class="btn btn-xs btn-primary lang-show-all">Toggle show all</button>
                     </p>
                     <div class="text-center" style="margin-bottom: 10px">
                         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
