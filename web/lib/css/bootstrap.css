@@ -4499,7 +4499,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
     color: #ffffff;
-    background-color: #393a35;
+    background-color: #191a28;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4512,7 +4512,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #393a35;
+    background-color: #191a28;
 }
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #9198be;
@@ -4524,7 +4524,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-    background-color: #393a35;
+    background-color: #191a28;
     color: #ffffff;
 }
 @media (max-width: 767px) {
@@ -4540,7 +4540,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
     .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
         color: #ffffff;
-        background-color: #393a35;
+        background-color: #191a28;
     }
     .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
     .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
