@@ -114,9 +114,9 @@ To make clear that it also supports ATS, I started using the name ATS/ETS2 Local
 Generally speaking, I use ETS2 Local Radio, but I'm not really consistent when it comes to naming.
 
 ### Can I still run this program locally like v2?
-Yes you can. Just click the "Clone or download" button above, and then click "Download ZIP".
-Then just copy the contents of the web folder to the web folder of your Local Radio installation.
-You can then visit http://localhost:8330 to use your local files instead.
+Yes you can. Click the "Clone or download" button above, and then click "Download ZIP".
+Then copy the contents of the web folder to the web folder of your Local Radio installation.
+Edit the config.js file (overwritten on update), or set the config in the custom.js file (permanent).
 
 ## Troubleshooting:
 ### Can't access it from another device
@@ -223,10 +223,14 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _Another in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](https://i.imgur.com/lrGysB7.png)
+![Screenshot](https://user-images.githubusercontent.com/5168825/130339936-79c77cd8-312e-4e08-ba58-4bbe76b3ea60.png)
 
-_An example of the web interface near Dresden_
+_An example of the web interface_
 
-![Screenshot](https://i.imgur.com/E9h001F.jpg)
+![Screenshot](https://user-images.githubusercontent.com/5168825/130339941-d3f20613-871a-4b1c-a774-01d9358c8ad8.png)
+
+_Another example of the web interface (dark theme)_
+
+![Screenshot](https://i.imgur.com/R8SjMna.png)
 
 _The interface on the mobile app/website_
