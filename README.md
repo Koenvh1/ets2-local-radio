@@ -203,8 +203,9 @@ You will need to manually remove the following files from the ETS2/ATS installat
 
 I could not have possibly done this alone, so thanks to the following people:
 * SCS Software for creating ETS2
-* **nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)**
-* **Michael Koch for creating [GPP](http://www.mikoweb.eu/?page_id=54)**
+* nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)
+* Michael Koch for creating [GPP](http://www.mikoweb.eu/?page_id=54)
+* Loading.io for the radio loading icon
 * All the translators
 * Everyone who submitted a new station
 * You, the user

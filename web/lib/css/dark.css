@@ -1,10 +1,10 @@
 ﻿body.dark {
     color: #ffffff;
-    background-color: #212121;
+    background-color: #202132;
 }
 
 .dark .modal-content {
-    background-color: #212121;
+    background-color: #202132;
 }
 
 .dark .modal-header {
@@ -20,8 +20,9 @@
 }
 
 .dark .thumbnail {
-    background-color: #424242;
-    border: 1px solid #424242;
+    background-color: #555970;
+    border: 1px solid #555970;
+    color: #ffffff;
 }
 
 .dark .signal {
@@ -32,13 +33,8 @@
     background-color: #373737;
 }
 
-.dark .navbar-default {
-    background-color: #424242;
-    border-color: #424242;
-}
-
 .dark .music-controller {
-    background: #424242;
+    background: #555970;
 }
 
 .dark #koenvhLogo {
