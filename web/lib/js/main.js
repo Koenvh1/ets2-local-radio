@@ -60,13 +60,6 @@ function initialise() {
         $(".https").show();
     }
 
-    var chromeMatch = navigator.userAgent.match(/Chrom(e|ium)\/([0-9]+)\./);
-    var chromeVersion = chromeMatch ? parseInt(chromeMatch[2], 10) : false;
-
-    if (chromeVersion && chromeVersion >= 93) {
-        $(".non-local").show();
-    }
-
     if (localStorage.getItem("volume") == null) {
         localStorage.setItem("volume", 1);
     }
@@ -402,7 +395,7 @@ function setRadioStation(url, country, volume) {
 
     $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" +
         calculateReception(g_countries[country].whitenoise) + "/?" +
-        location.origin + location.pathname + stations[country][index].logo);
+        g_skinConfig["url-prefix"] + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -621,7 +614,7 @@ function refreshStations() {
                     '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-selected" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
-                    '<div class="frame text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
+                    '<div class="frame text-center"><div class="station-image-container"><img src="' + g_skinConfig['url-prefix'] + stations[key][j]['logo'] + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
                     '<span class="overflow station-subtitle">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) +
                     (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") + '</span>' +
@@ -641,7 +634,7 @@ function refreshStations() {
     }).indexOf(g_current_url);
 
     $(".current-station").html(stations[g_current_country][index].name);
-    $(".current-station-image").attr("src", stations[g_current_country][index].logo);
+    $(".current-station-image").attr("src", g_skinConfig["url-prefix"] + stations[g_current_country][index].logo);
     $(".current-station-country").html(country_properties[g_current_country].name);
     $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
     if(g_favourites[g_current_country] == stations[g_current_country][index].name) {
