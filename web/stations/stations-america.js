@@ -29763,7 +29763,7 @@ var stations_c2c = {
         },
         {
             name: "Kickin' Country 100.5",
-            logo: "stations/images-america/c2c/sioux_falls_sd/Kickin' Country 100.5.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/Kickin' Country 99.1.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kiknfmaac-ibc3"
         },
         {
@@ -31178,9 +31178,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
         },
         {
-            name: "103.1 The Zone",
-            logo: "stations/images-america/c2c/austin_tx/103.1 The Zone.png",
-            url: "https://stream.revma.ihrhls.com/zc2181/hls.m3u8"
+            name: "103.1 Austin’s 80s Station",
+            logo: "stations/images-america/c2c/austin_tx/103.1 Austin’s 80s Station.png",
+            url: "https://stream.revma.ihrhls.com/zc8403/hls.m3u8"
         },
         {
             name: "103.5 BOB FM",
@@ -31211,6 +31211,11 @@ var stations_c2c = {
             name: "107.1 La Z",
             logo: "stations/images-america/c2c/austin_tx/107.1 La Z.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFMAAC_SC"
+        },
+        {
+            name: "1300 The Zone",
+            logo: "stations/images-america/c2c/austin_tx/1300 The Zone.png",
+            url: "https://stream.revma.ihrhls.com/zc2181/hls.m3u8"
         },
         {
             name: "Talk Radio 1370",
