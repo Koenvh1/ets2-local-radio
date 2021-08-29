@@ -10,7 +10,7 @@
             background-color: lightblue;
         }
         body {
-            background: url('lib/img/loading.gif') no-repeat fixed center;
+            background: #202132 url('lib/img/loading.svg') no-repeat fixed center;
         }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -33,8 +33,8 @@
         g_api = url.searchParams.get("api") || "";
         game = url.searchParams.get("game") || "ets2";
 
-        $.getScript("stations/" + g_skinConfig[game].stations, function () {
-            $.getScript("cities/" + g_skinConfig[game].map, function () {
+        $.getScript(g_skinConfig[game].stations, function () {
+            $.getScript(g_skinConfig[game].map, function () {
                 $.getScript(g_api + "/custom.js").done(function () {
                     initialise();
                 }).fail(function () {
