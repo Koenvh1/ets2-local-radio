@@ -717,7 +717,7 @@ var country_properties = {
         name: "The Dalles",
         name_english: "The Dalles",
         code: "us-or",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "tonopah": {
         name: "Tonopah",
