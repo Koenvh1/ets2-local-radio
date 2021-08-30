@@ -507,7 +507,7 @@ var country_properties = {
         name: "Portland",
         name_english: "Portland",
         code: "us-or",
-        relative_radius: 0.75
+        relative_radius: 0.8
     },
     "price": {
         name: "Price",
@@ -777,7 +777,7 @@ var country_properties = {
         name: "Yakima",
         name_english: "Yakima",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "yuma": {
         name: "Yuma",
@@ -1886,17 +1886,17 @@ var cities = [
         "gameName": "portland",
         "realName": "Portland",
         "country": "oregon",
-        "x": "-105155",
-        "y": "108.427",
-        "z": "-51594.5"
+        "x": "-104350",
+        "y": "96.7465",
+        "z": "-51491.9"
     },
     {
         "gameName": "the_dalles",
         "realName": "The Dalles",
         "country": "oregon",
-        "x": "-97556.2",
-        "y": "20.7665",
-        "z": "-50896.9"
+        "x": "-96967.8",
+        "y": "79.5923",
+        "z": "-50162.2"
     },
     {
         "gameName": "aberdeen",
@@ -1998,9 +1998,9 @@ var cities = [
         "gameName": "yakima",
         "realName": "Yakima",
         "country": "washington",
-        "x": "-95124.1",
-        "y": "67.0175",
-        "z": "-55784.6"
+        "x": "-95722.7",
+        "y": "37.4318",
+        "z": "-55991.9"
     },
     {
         "gameName": "cedar_city",

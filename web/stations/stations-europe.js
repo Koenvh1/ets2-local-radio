@@ -3297,11 +3297,6 @@ var stations = {
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx"
         },
         {
-            name: "Planeta FM",
-            logo: "stations/images-europe/poland/Planeta FM.png",
-            url: "http://pla02.cdn.eurozet.pl:8700/pla-net.mp3"
-        },
-        {
             name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
             url: "http://waw.ic.smcdn.pl/2380-1.aac"
