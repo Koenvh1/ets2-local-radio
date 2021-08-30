@@ -6861,7 +6861,7 @@ var stations = {
         {
             name: "93.9 KPDQ",
             logo: "stations/images-america/portland/93.9 KPDQ.png",
-            url: "https://ice6.securenetsystems.net/KISNLP"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPDQFMAAC_SC"
         },
         {
             name: "94.7 FM",
@@ -29808,7 +29808,7 @@ var stations_c2c = {
         },
         {
             name: "1000 KSOO",
-            logo: "stations/images-america/c2c/sioux_falls_sd/1000 KSOO.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/ESPN 102.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ksooamaac-ibc3"
         },
         {
@@ -30056,11 +30056,6 @@ var stations_c2c = {
             name: "KELO 107.9",
             logo: "stations/images-america/c2c/sioux_falls_sd/KELO 107.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOAMAAC_SC"
-        },
-        {
-            name: "1000 KSOO",
-            logo: "stations/images-america/c2c/sioux_falls_sd/1000 KSOO.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-ksooamaac-ibc3"
         },
     ],
     "chattanooga": [
