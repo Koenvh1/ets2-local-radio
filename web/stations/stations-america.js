@@ -1121,7 +1121,7 @@ var stations = {
         {
             name: "KMHD 91.7",
             logo: "stations/images-america/portland/KMHD 89.1.png",
-            url: "http://stream1.opb.org/kmhd.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2442_128.aac"
         },
         {
             name: "92.7 KZHC",
@@ -6794,6 +6794,11 @@ var stations = {
     ],
     "portland": [
         {
+            name: "Mater Dei Radio 88.3",
+            logo: "stations/images-america/portland/Mater Dei Radio 88.3.png",
+            url: "https://ic2.sslstream.com/kbvm-fm"
+        },
+        {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -6801,11 +6806,11 @@ var stations = {
         {
             name: "KMHD 89.1",
             logo: "stations/images-america/portland/KMHD 89.1.png",
-            url: "http://stream1.opb.org/kmhd.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2442_128.aac"
         },
         {
-            name: "KMHD 89.1-HD2",
-            logo: "stations/images-america/portland/KMHD 89.1-HD2.png",
+            name: "89.1 KMHD2",
+            logo: "stations/images-america/portland/89.1 KMHD2.png",
             url: "https://live.wostreaming.net/manifest/mhcc-kmhchd2aac-ibc1"
         },
         {
@@ -6854,6 +6859,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRYPFMAAC_SC"
         },
         {
+            name: "93.9 KPDQ",
+            logo: "stations/images-america/portland/93.9 KPDQ.png",
+            url: "https://ice6.securenetsystems.net/KISNLP"
+        },
+        {
             name: "94.7 FM",
             logo: "stations/images-america/portland/94.7 FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNRKFMAAC_SC"
@@ -6892,6 +6902,11 @@ var stations = {
             name: "Funkytown 97.1-HD2",
             logo: "stations/images-america/c2c/detroit_mi/Funkytown 97.9-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6755/hls.m3u8"
+        },
+        {
+            name: "K-LOVE 97.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "98.7 The Bull",
@@ -6937,6 +6952,11 @@ var stations = {
             name: "K103",
             logo: "stations/images-america/portland/K103.png",
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
+        },
+        {
+            name: "Smooth Jazz 103.3-HD2",
+            logo: "stations/images-america/0_general_logos/Smooth Jazz.png",
+            url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
         },
         {
             name: "BOOST Radio 103.7",
@@ -20817,8 +20837,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wlhtfmaac-ibc3"
         },
         {
-            name: "ESPN 96.1",
-            logo: "stations/images-america/c2c/grand_rapids_mi/ESPN 96.1.png",
+            name: "96.1 The Game",
+            logo: "stations/images-america/c2c/grand_rapids_mi/96.1 The Game.png",
             url: "https://stream.revma.ihrhls.com/zc1181/hls.m3u8"
         },
         {
