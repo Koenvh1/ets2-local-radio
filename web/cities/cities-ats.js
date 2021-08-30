@@ -57,7 +57,7 @@ var country_properties = {
         name: "Bellingham",
         name_english: "Bellingham",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "bend": {
         name: "Bend",
@@ -840,7 +840,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "bellingham": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.85
     },
     "bend": {
         relative_whitenoise: 0.85
@@ -1910,9 +1910,9 @@ var cities = [
         "gameName": "bellingham",
         "realName": "Bellingham",
         "country": "washington",
-        "x": "-98203",
-        "y": "71.3984",
-        "z": "-70298.9"
+        "x": "-98654.2",
+        "y": "55.59",
+        "z": "-69115"
     },
     {
         "gameName": "colville",

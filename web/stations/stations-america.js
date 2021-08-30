@@ -709,14 +709,24 @@ var stations = {
             url: "http://peridot.streamguys.com:7170/kugs-mp3"
         },
         {
-            name: "KUOW 90.7",
-            logo: "stations/images-america/bellingham/KUOW 90.7.png",
+            name: "KUOW 90.3",
+            logo: "stations/images-america/bellingham/KUOW 90.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3_SC"
+        },
+        {
+            name: "BBC World Service 90.7",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
         },
         {
             name: "NWPR Classical 91.7",
             logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
+        },
+        {
+            name: "CBC Music 92.1",
+            logo: "stations/images-america/canadream/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
             name: "92.9 KISM",
@@ -1467,8 +1477,8 @@ var stations = {
             url: "http://ice10.securenetsystems.net/KURR"
         },
         {
-            name: "Zion 104.1",
-            logo: "stations/images-america/st_george/Zion 104.1.png",
+            name: "104.1 Zion FM",
+            logo: "stations/images-america/st_george/104.1 Zion FM.png",
             url: "http://ice24.securenetsystems.net/KZYN"
         },
         {
@@ -16836,11 +16846,6 @@ var stations_c2c = {
             name: "104.5 WFMB",
             logo: "stations/images-america/c2c/springfield_il/104.5 WFMB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBFMAAC_SC"
-        },
-        {
-            name: "WTAX 1240",
-            logo: "stations/images-america/c2c/springfield_il/WTAX 1240.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wtaxamaac-ibc1"
         },
     ],
     "evansville_in": [
