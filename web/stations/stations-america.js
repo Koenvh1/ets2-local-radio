@@ -18518,12 +18518,12 @@ var stations_c2c = {
             name: "iHeartCountry Top 20 94.5-HD2",
             logo: "stations/images-america/c2c/lexington_ky/iHeartCountry Top 20 94.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc4882/hls.m3u8"
-        },
+        },/*
         {
-            name: "HANK 96.1",
-            logo: "stations/images-america/c2c/lexington_ky/HANK 96.1.png",
+            name: "Sports 96.1",
+            logo: "stations/images-america/c2c/lexington_ky/Sports 96.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice9.securenetsystems.net/WLXO"
-        },
+        },*/
         {
             name: "KISS 96.9",
             logo: "stations/images-america/c2c/lexington_ky/KISS 96.9.png",

@@ -1165,24 +1165,9 @@ var stations = {
     ],
     "france": [
         {
-            name: "FIP",
-            logo: "stations/images-europe/france/FIP.png",
-            url: "http://direct.fipradio.fr/live/fip-midfi.mp3"
-        },
-        {
-            name: "France Inter",
-            logo: "stations/images-europe/france/France Inter.png",
-            url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
-        },
-        {
-            name: "France Info",
-            logo: "stations/images-europe/france/France Info.png",
-            url: "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
-        },
-        {
-            name: "France Musique",
-            logo: "stations/images-europe/france/France Musique.png",
-            url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
+            name: "France Bleu",
+            logo: "stations/images-europe/france/France Bleu.png",
+            url: "https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8"
         },
         {
             name: "France Culture",
@@ -1190,9 +1175,34 @@ var stations = {
             url: "http://direct.franceculture.fr/live/franceculture-midfi.mp3"
         },
         {
+            name: "France Info",
+            logo: "stations/images-europe/france/France Info.png",
+            url: "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
+        },
+        {
+            name: "France Inter",
+            logo: "stations/images-europe/france/France Inter.png",
+            url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
+        },
+        {
+            name: "France Musique",
+            logo: "stations/images-europe/france/France Musique.png",
+            url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
+        },
+        {
+            name: "Alouette",
+            logo: "stations/images-europe/france/Alouette.png",
+            url: "https://alouette-nantes.ice.infomaniak.ch/alouette-nantes-128.mp3"
+        },
+        {
             name: "Autoroute Info",
             logo: "stations/images-europe/france/Autoroute Info.png",
             url: "http://media.autorouteinfo.fr:8000/direct_nord.mp3"
+        },
+        {
+            name: "BFM Business",
+            logo: "stations/images-europe/france/BFM Business.png",
+            url: "https://audio.bfmtv.com/bfmbusiness_128.mp3"
         },
         {
             name: "Chérie FM",
@@ -1205,9 +1215,29 @@ var stations = {
             url: "http://ais-live.cloud-services.paris:8000/europe1.mp3?aw_0_1st.playerid=lgrdrnwsTuneInE1"
         },
         {
+            name: "FIP",
+            logo: "stations/images-europe/france/FIP.png",
+            url: "http://direct.fipradio.fr/live/fip-midfi.mp3"
+        },
+        {
+            name: "FORUM",
+            logo: "stations/images-europe/france/FORUM.png",
+            url: "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3"
+        },
+        {
             name: "Fun Radio",
             logo: "stations/images-europe/france/Fun Radio.png",
             url: "http://ais.rtl.fr:80/fun-1-44-128"
+        },
+        {
+            name: "Jazz Radio",
+            logo: "stations/images-europe/france/Jazz Radio.png",
+            url: "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
+        },
+        {
+            name: "La Radio Plus",
+            logo: "stations/images-europe/france/La Radio Plus.png",
+            url: "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3"
         },
         {
             name: "M Radio",
@@ -1230,6 +1260,11 @@ var stations = {
             url: "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
         },
         {
+            name: "Ouï FM",
+            logo: "stations/images-europe/france/Ouï FM.png",
+            url: "https://stream.ouifm.fr/ouifm-high.mp3"
+        },
+        {
             name: "Radio Classique",
             logo: "stations/images-europe/france/Radio Classique.png",
             url: "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
@@ -1240,6 +1275,11 @@ var stations = {
             url: "http://radiofg.impek.com/fg.mp3"
         },
         {
+            name: "Radio Nova",
+            logo: "stations/images-europe/france/Radio Nova.png",
+            url: "https://novazz.ice.infomaniak.ch/novazz-128.mp3"
+        },
+        {
             name: "Radio Scoop",
             logo: "stations/images-europe/france/Radio Scoop.png",
             url: "https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac"
@@ -1248,6 +1288,11 @@ var stations = {
             name: "Radio Vinci Autoroutes",
             logo: "stations/images-europe/france/Radio Vinci Autoroutes.png",
             url: "http://str0.creacast.com/radio_vinci_autoroutes_6"
+        },
+        {
+            name: "RCF",
+            logo: "stations/images-europe/france/RCF.png",
+            url: "https://rcf.streamakaci.com/rcf41.mp3"
         },
         {
             name: "RFM",
@@ -1275,6 +1320,11 @@ var stations = {
             url: "http://ais.rtl.fr:80/rtl2-1-44-128"
         },
         {
+            name: "Sanef 107.7",
+            logo: "stations/images-europe/france/Sanef 107.7.png",
+            url: "https://sanef.ice.infomaniak.ch/sanef1077-idf.mp3"
+        },
+        {
             name: "Skyrock",
             logo: "stations/images-europe/france/Skyrock.png",
             url: "http://icecast.skyrock.net/s/natio_mp3_128k"
@@ -1283,6 +1333,16 @@ var stations = {
             name: "Sud Radio",
             logo: "stations/images-europe/france/Sud Radio.png",
             url: "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"
+        },
+        {
+            name: "TOTEM",
+            logo: "stations/images-europe/france/TOTEM.png",
+            url: "https://aratotem.ice.infomaniak.ch/auvergne.mp3"
+        },
+        {
+            name: "Vibration",
+            logo: "stations/images-europe/france/Vibration.png",
+            url: "https://vibration.ice.infomaniak.ch/vibration-high.mp3"
         },
         {
             name: "Virgin Radio",
