@@ -4931,7 +4931,7 @@ var stations = {
         {
             name: "DJ FM",
             logo: "stations/images-europe/ukraine/DJ FM.png",
-            url: "https://cast.fex.net:8000/djfm_l"
+            url: "https://cast.brg.ua/djfm96.aacp"
         },
         {
             name: "Ера FM",
@@ -4986,7 +4986,7 @@ var stations = {
         {
             name: "Power FM",
             logo: "stations/images-europe/ukraine/Power FM.png",
-            url: "https://cast.fex.net/power_h"
+            url: "https://cast.brg.ua/powerfm96.aacp"
         },
         {
             name: "Radio Relax",
