@@ -13575,9 +13575,9 @@ var stations_c2c = {
             url: "https://ice3.securenetsystems.net/WLML"
         },
         {
-            name: "Coast 101.3",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/Coast 101.3.png",
-            url: "https://ice10.securenetsystems.net/WHLG"
+            name: "The JOY FM 101.3",
+            logo: "stations/images-america/0_general_logos/The JOY FM.png",
+            url: "https://rtn.cdnstream1.com/2579_96.aac"
         },
         {
             name: "X102.3",
@@ -14563,7 +14563,7 @@ var stations_c2c = {
         {
             name: "The JOY FM 98.1",
             logo: "stations/images-america/c2c/orlando_fl/The JOY FM 98.1.png",
-            url: "http://sc.rtndigital.com:20010/;"
+            url: "https://rtn.cdnstream1.com/2579_96.aac"
         },
         {
             name: "99.5 WLOV",
@@ -15094,9 +15094,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc653/hls.m3u8"
         },
         {
-            name: "97.9 ESPN",
-            logo: "stations/images-america/c2c/tallahassee_fl/97.9 ESPN.png",
-            url: "https://ice41.securenetsystems.net/WTSM"
+            name: "The JOY FM 97.9",
+            logo: "stations/images-america/0_general_logos/The JOY FM.png",
+            url: "https://rtn.cdnstream1.com/2579_96.aac"
         },
         {
             name: "STAR 98.9",
@@ -18518,12 +18518,12 @@ var stations_c2c = {
             name: "iHeartCountry Top 20 94.5-HD2",
             logo: "stations/images-america/c2c/lexington_ky/iHeartCountry Top 20 94.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc4882/hls.m3u8"
-        },/*
+        },
         {
             name: "Sports 96.1",
             logo: "stations/images-america/c2c/lexington_ky/Sports 96.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice9.securenetsystems.net/WLXO"
-        },*/
+            url: "https://ice23.securenetsystems.net/WZNN"
+        },
         {
             name: "KISS 96.9",
             logo: "stations/images-america/c2c/lexington_ky/KISS 96.9.png",
@@ -20127,6 +20127,11 @@ var stations_c2c = {
             name: "DC Radio 96.3-HD4",
             logo: "stations/images-america/c2c/washington_dc/DC Radio 96.3-HD4.png",
             url: "https://ais-sa1.streamon.fm/7043_48k.aac"
+        },
+        {
+            name: "WQER-LP 96.7",
+            logo: "stations/images-america/c2c/washington_dc/WQER-LP 96.7.png",
+            url: "http://livecast2.soundofhope.org:2086/Rockville"
         },
         {
             name: "WERA 96.7",
@@ -30100,9 +30105,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/brewerchattanooga-wjttfmaac-ibc4"
         },
         {
-            name: "BIG 95.3",
-            logo: "stations/images-america/c2c/chattanooga_tn/Big 95.3.png",
-            url: "https://live.wostreaming.net/direct/brewerchattanooga-wplzfmaac-ibc4"
+            name: "ESPN 95.3",
+            logo: "stations/images-america/c2c/chattanooga_tn/ESPN 95.3.png",
+            url: "https://live.wostreaming.net/manifest/brewerchattanooga-walvfmaac-ibc4"
         },
         {
             name: "Hits 96",
@@ -30155,11 +30160,6 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKXJFMAAC_SC"
         },
         {
-            name: "105.1 ESPN",
-            logo: "stations/images-america/c2c/chattanooga_tn/105.1 ESPN.png",
-            url: "https://live.wostreaming.net/direct/brewerchattanooga-walvfmaac-ibc4"
-        },
-        {
             name: "ROCK 105",
             logo: "stations/images-america/c2c/chattanooga_tn/ROCK 105.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRXRFMAAC_SC"
@@ -30175,9 +30175,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSKZFMAAC_SC"
         },
         {
-            name: "Easy 106.9",
-            logo: "stations/images-america/c2c/chattanooga_tn/Easy 106.9.png",
-            url: "https://live.wostreaming.net/direct/brewerchattanooga-wplzhd2mp3-ibc4"
+            name: "BIG 106.9",
+            logo: "stations/images-america/c2c/chattanooga_tn/BIG 106.9.png",
+            url: "https://live.wostreaming.net/manifest/brewerchattanooga-wplzfmaac-ibc4"
         },
         {
             name: "WNOO 107.3",
@@ -31486,7 +31486,7 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KLHBFM"
         },
         {
-            name: "106.5 BANDTANGO Radio",
+            name: "106.5 Bandtango Radio",
             logo: "stations/images-america/c2c/corpus_christi_tx/106.5 BANDTANGO Radio.png",
             url: "https://crystalout.surfernetwork.com:8001/KYRK-FM_MP3"
         },
@@ -33365,6 +33365,11 @@ var stations_c2c = {
             name: "JJS 93.5",
             logo: "stations/images-america/c2c/roanoke_va/JJS 93.5.png",
             url: "https://stream.revma.ihrhls.com/zc2493/hls.m3u8"
+        },
+        {
+            name: "Rhythm & Praise 94.1",
+            logo: "stations/images-america/c2c/roanoke_va/Rhythm & Praise 94.1.png",
+            url: "https://ice24.securenetsystems.net/GOSPH"
         },
         {
             name: "96.3 ROV",

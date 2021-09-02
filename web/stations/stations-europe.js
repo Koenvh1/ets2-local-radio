@@ -3639,7 +3639,7 @@ var stations = {
         {
             name: "Радио Рекорд",
             logo: "stations/images-europe/russia/Радио Рекорд.png",
-            url: "http://air.radiorecord.ru:805/rr_320"
+            url: "https://radiorecord.hostingradio.ru/rr_main96.aacp"
         },
         {
             name: "Радио Шансон",
