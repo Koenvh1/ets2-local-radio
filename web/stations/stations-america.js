@@ -3892,12 +3892,12 @@ var stations = {
             name: "MIX 100.5",
             logo: "stations/images-america/indio/MIX 100.5.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kpsifmaac-ibc4"
-        },/*
+        },
         {
-            name: "Pure Radio 100.9",
-            logo: "stations/images-america/indio/Pure Radio 100.9.png",
-            url: "https://ice24.securenetsystems.net/PUREPS"
-        },*/
+            name: "Studio 100.9",
+            logo: "stations/images-america/indio/Studio 100.9.png",
+            url: "https://shaincast.caster.fm:12645/listen.mp3?authnbf0451baa76ab69abcbff66d9ef39b32"
+        },
         {
             name: "101.3 The Mix",
             logo: "stations/images-america/indio/101.3 The Mix.png",
@@ -17219,12 +17219,12 @@ var stations_c2c = {
             name: "95.7 The Lake",
             logo: "stations/images-america/c2c/south_bend_in/95.7 The Lake.png",
             url: "https://live.wostreaming.net/manifest/wsbt-wqlqhd2aac-ibc1"
-        },/*
+        },
         {
             name: "96.1 The Ton",
             logo: "stations/images-america/c2c/south_bend_in/96.1 The Ton.png",
-            url: "https://live.wostreaming.net/manifest/wsbt-wqlqhd3aac-ibc1"
-        },*/
+            url: "https://live.wostreaming.net/direct/wsbt-wqlqhd3tonaac-ibc2"
+        },
         {
             name: "97.7 Rock",
             logo: "stations/images-america/c2c/south_bend_in/97.7 Rock.png",
