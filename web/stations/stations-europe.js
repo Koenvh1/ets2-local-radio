@@ -1807,12 +1807,12 @@ var stations = {
         {
             name: "NDR 1 Radio MV",
             logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
-            url: "http://ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1radiomv_hro.m3u"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
-            url: "https://ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr2_mv.m3u"
         },
         {
             name: "80s80s MV",
@@ -1866,37 +1866,37 @@ var stations = {
         {
             name: "NDR 1 Welle Nord",
             logo: "stations/images-europe/germany-ndr/NDR 1 Welle Nord.png",
-            url: "http://ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1wellenord.m3u"
         },
         {
             name: "NDR Info",
             logo: "stations/images-europe/germany-ndr/NDR Info.png",
-            url: "https://ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_spezial.m3u"
         },
         {
             name: "NDR Kultur",
             logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
-            url: "http://ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrkultur.m3u"
         },
         {
             name: "NDR Blue",
             logo: "stations/images-europe/germany-ndr/NDR Blue.png",
-            url: "http://ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrblue.m3u"
         },
         {
             name: "NDR Plus",
             logo: "stations/images-europe/germany-ndr/NDR Plus.png",
-            url: "http://ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrplus.m3u"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
-            url: "http://ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr2.m3u"
         },
         {
             name: "N-JOY",
             logo: "stations/images-europe/germany-ndr/N-Joy.png",
-            url: "http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/n-joy.m3u"
         },
         {
             name: "delta radio",
@@ -1908,7 +1908,7 @@ var stations = {
         {
             name: "NDR 1 Niedersachsen",
             logo: "stations/images-europe/germany-nds/NDR 1 Niedersachsen.png",
-            url: "http://ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen.m3u"
         },
         {
             name: "Antenne Niedersachsen",

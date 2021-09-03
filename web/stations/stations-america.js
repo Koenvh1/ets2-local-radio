@@ -5046,11 +5046,6 @@ var stations = {
     ],
     "longview": [
         {
-            name: "Real Country 93.5",
-            logo: "stations/images-america/longview/Real Country 93.5.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBAMAMAAC_SC"
-        },
-        {
             name: "94.5 KLYK",
             logo: "stations/images-america/longview/94.5 KLYK.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLYKFMAAC_SC"
@@ -5059,6 +5054,16 @@ var stations = {
             name: "The Peak 98.3",
             logo: "stations/images-america/longview/The Peak 98.3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KPPKFMAAC_SC"
+        },
+        {
+            name: "Real Country 99.1",
+            logo: "stations/images-america/longview/Real Country 99.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBAMAMAAC_SC"
+        },
+        {
+            name: "KEDO 99.9",
+            logo: "stations/images-america/longview/1400 KEDO.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KEDOAMAAC_SC"
         },
         {
             name: "100.7 KLOG",
@@ -5089,11 +5094,6 @@ var stations = {
             name: "Rocket 107",
             logo: "stations/images-america/longview/Rocket 107.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRQTFMAAC_SC"
-        },
-        {
-            name: "1400 KEDO",
-            logo: "stations/images-america/longview/1400 KEDO.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KEDOAMAAC_SC"
         },
     ],
     "los_angeles": [
@@ -17246,8 +17246,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/wsbt-wnsnfmaac-ibc1"
         },
         {
-            name: "102.3 WYET",
-            logo: "stations/images-america/c2c/south_bend_in/102.3 WYET.png",
+            name: "Throwback 102.3",
+            logo: "stations/images-america/c2c/south_bend_in/Throwback 102.3.png",
             url: "https://ic2.sslstream.com/wyet-fm"
         },
         {
