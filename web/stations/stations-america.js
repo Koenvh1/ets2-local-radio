@@ -8856,9 +8856,19 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTZFMAAC_SC"
         },
         {
+            name: "La Mejor 90.7",
+            logo: "stations/images-america/mexico/tijuana/La Mejor 90.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC_SC"
+        },
+        {
             name: "91X",
             logo: "stations/images-america/san_diego/91X.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
+        },
+        {
+            name: "Exa FM 91.7",
+            logo: "stations/images-america/mexico/tijuana/Exa FM 91.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC_SC"
         },
         {
             name: "Air1 92.1",
@@ -8881,6 +8891,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
+            name: "Relevant Radio 93.7",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+        },
+        {
             name: "Star 94.1",
             logo: "stations/images-america/san_diego/Star 94.1.png",
             url: "https://stream.revma.ihrhls.com/zc253/hls.m3u8"
@@ -8889,6 +8904,11 @@ var stations = {
             name: "The Breeze 94.1-HD3",
             logo: "stations/images-america/san_diego/The Breeze 94.1-HD3.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
+            name: "Invasora 94.5",
+            logo: "stations/images-america/mexico/tijuana/Invasora 94.5.png",
+            url: "http://166.88.21.98:9736/;"
         },
         {
             name: "ALT 94.9",
@@ -8912,13 +8932,8 @@ var stations = {
         },
         {
             name: "BIN 95.7-HD2",
-            logo: "stations/images-america/0_general_logos/BIN.png",
-            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
-        },
-        {
-            name: "96.1 The Answer",
-            logo: "stations/images-america/san_diego/96.1 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
+            logo: "stations/images-america/riverside/BIN 1440.png",
+            url: "https://stream.revma.ihrhls.com/zc4084/hls.m3u8"
         },
         {
             name: "KyXy 96.5",
@@ -8926,8 +8941,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYXYFMAAC_SC"
         },
         {
-            name: "Flashback ALT 96.5-HD3",
-            logo: "stations/images-america/san_diego/Flashback ALT 96.5-HD3.png",
+            name: "Flashback ALT 96.5-HD2",
+            logo: "stations/images-america/san_diego/Flashback ALT 96.5-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYXYHD3AAC_SC"
         },
         {
@@ -8956,6 +8971,16 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUHD2AAC_SC"
         },
         {
+            name: "More FM 98.9",
+            logo: "stations/images-america/mexico/tijuana/More FM 98.9.png",
+            url: "http://radio.cadenanoticias.com:8004/morefm989"
+        },
+        {
+            name: "FM Globo 99.3",
+            logo: "stations/images-america/mexico/tijuana/FM Globo 99.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC_SC"
+        },
+        {
             name: "100.7 BIG FM",
             logo: "stations/images-america/san_diego/100.7 BIG FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
@@ -8964,6 +8989,21 @@ var stations = {
             name: "101.5 KGB",
             logo: "stations/images-america/san_diego/101.5 KGB.png",
             url: "https://stream.revma.ihrhls.com/zc237/hls.m3u8"
+        },
+        {
+            name: "K-LOVE 102.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Fusión 102.5",
+            logo: "stations/images-america/mexico/tijuana/Fusión 102.5.png",
+            url: "https://s2.mexside.net:7026/;"
+        },
+        {
+            name: "Amor 102.9",
+            logo: "stations/images-america/san_diego/Amor 102.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-klqvfmaac-ibc2"
         },
         {
             name: "103.7 KSON",
@@ -8976,6 +9016,21 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSONHD2AAC_SC"
         },
         {
+            name: "KSON-HD3 103.7-HD3",
+            logo: "stations/images-america/los_angeles/106.7 KROQ.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KROQFMAAC_SC"
+        },
+        {
+            name: "104.5 Radio Latina",
+            logo: "stations/images-america/mexico/tijuana/104.5 Radio Latina.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC_SC"
+        },
+        {
+            name: "La Número Uno 104.9",
+            logo: "stations/images-america/mexico/tijuana/La Número Uno 104.9.png",
+            url: "http://13806.cloudrad.io:9260/live"
+        },
+        {
             name: "ROCK 105.3",
             logo: "stations/images-america/san_diego/ROCK 105.3.png",
             url: "https://stream.revma.ihrhls.com/zc245/hls.m3u8"
@@ -8984,6 +9039,21 @@ var stations = {
             name: "ALT 105.3-HD2",
             logo: "stations/images-america/san_diego/ALT 105.3-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
+        {
+            name: "Qué Buena 106.5",
+            logo: "stations/images-america/san_diego/Qué Buena 106.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-klnvfmaac-ibc2"
+        },
+        {
+            name: "Pulsar 107.3",
+            logo: "stations/images-america/mexico/tijuana/Pulsar 107.3.png",
+            url: "http://streamingcwsradio30.com:8042/stream/;"
+        },
+        {
+            name: "Más Flo 107.7",
+            logo: "stations/images-america/mexico/tijuana/Más Flo 107.7.png",
+            url: "http://s1.audiorama.mx:6600/;"
         },
         {
             name: "600 KOGO",
@@ -9009,6 +9079,11 @@ var stations = {
             name: "Mightier 1090",
             logo: "stations/images-america/san_diego/Mightier 1090.png",
             url: "https://backbonenetworks.streamguys1.com/XEPRS.mp3"
+        },
+        {
+            name: "1170 The Answer",
+            logo: "stations/images-america/san_diego/1170 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
         },
         {
             name: "XTRA 1360",
@@ -11900,6 +11975,11 @@ var stations_mexico = {
     ],
     "tijuana": [
         {
+            name: "La Mejor 90.7",
+            logo: "stations/images-america/mexico/tijuana/La Mejor 90.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC_SC"
+        },
+        {
             name: "Exa FM 91.7",
             logo: "stations/images-america/mexico/tijuana/Exa FM 91.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC_SC"
@@ -11933,6 +12013,11 @@ var stations_mexico = {
             name: "104.5 Radio Latina",
             logo: "stations/images-america/mexico/tijuana/104.5 Radio Latina.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC_SC"
+        },
+        {
+            name: "La Número Uno 104.9",
+            logo: "stations/images-america/mexico/tijuana/La Número Uno 104.9.png",
+            url: "http://13806.cloudrad.io:9260/live"
         },
         {
             name: "Pulsar 107.3",
@@ -21662,6 +21747,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/rochester_mn/106.9 KROC.png",
             url: "https://live.wostreaming.net/manifest/townsquare-krocfmaac-ibc3"
         },
+        {
+            name: "Sasquatch 107.7",
+            logo: "stations/images-america/c2c/rochester_mn/Sasquatch 107.7.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kdczfmaac-ibc3"
+        },
     ],
     "st_cloud": [
         {
@@ -24652,11 +24742,6 @@ var stations_c2c = {
             name: "103.1 WGY",
             logo: "stations/images-america/c2c/albany_ny/103.1 WGY.png",
             url: "https://stream.revma.ihrhls.com/zc1413/hls.m3u8"
-        },
-        {
-            name: "ALT 103.5",
-            logo: "stations/images-america/c2c/albany_ny/ALT 103.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-wqshfmaac-ibc3"
         },
         {
             name: "103.9 The Breeze",
