@@ -6520,7 +6520,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KOAI"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -6590,7 +6590,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KZCE"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice42.securenetsystems.net/KZCE"
         },
         {
             name: "LIVE 101.5",
@@ -6620,7 +6620,7 @@ var stations = {
         {
             name: "Mega 104.3",
             logo: "stations/images-america/phoenix/Mega 104.3.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice5.securenetsystems.net/KAJM"
+            url: "https://tonernews.com/glype/browse.php?u=https://ice5.securenetsystems.net/KAJM"
         },
         {
             name: "104.7 KISS FM",
@@ -13968,7 +13968,7 @@ var stations_c2c = {
         {
             name: "Latina 92.1",
             logo: "stations/images-america/c2c/jacksonville_fl/Latina 92.1.png",
-            url: "https://vofile.ru/usa/WJXR/icecast.audio"
+            url: "http://rock.norsanmedia.com/tumusicajax"
         },
         {
             name: "XL 92.5",
