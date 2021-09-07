@@ -71,6 +71,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
+    "big_piney": {
+        name: "Big Piney",
+        name_english: "Big Piney",
+        code: "us-wy",
+        relative_radius: 0.5
+    },
     "boise": {
         name: "Boise",
         name_english: "Boise",
@@ -105,7 +111,7 @@ var country_properties = {
         name: "Casper",
         name_english: "Casper",
         code: "us-wy",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "cedar_city": {
         name: "Cedar City",
@@ -233,6 +239,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.8
     },
+    "freedom": {
+        name: "Freedom",
+        name_english: "Freedom",
+        code: "us-wy",
+        relative_radius: 0.5
+    },
     "fresno": {
         name: "Fresno",
         name_english: "Fresno",
@@ -249,7 +261,7 @@ var country_properties = {
         name: "Gillette",
         name_english: "Gillette",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "glenwood_springs": {
         name: "Glenwood Springs",
@@ -275,6 +287,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.6
     },
+    "greybull": {
+        name: "Greybull",
+        name_english: "Greybull",
+        code: "us-wy",
+        relative_radius: 0.6
+    },
     "hobbs": {
         name: "Hobbs",
         name_english: "Hobbs",
@@ -291,20 +309,20 @@ var country_properties = {
         name: "Idaho Falls",
         name_english: "Idaho Falls",
         code: "us-id",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "indio": {
         name: "Indio",
         name_english: "Indio",
         code: "us-ca",
         relative_radius: 0.6
-    },/*
+    },
     "jackson": {
         name: "Jackson",
         name_english: "Jackson",
         code: "us-wy",
         relative_radius: 0.7
-    },*/
+    },
     "kayenta": {
         name: "Kayenta",
         name_english: "Kayenta",
@@ -352,13 +370,13 @@ var country_properties = {
         name_english: "Lamar",
         code: "us-co",
         relative_radius: 0.8
-    },/*
+    },
     "laramie": {
         name: "Laramie",
         name_english: "Laramie",
         code: "us-wy",
-        relative_radius: 0.7
-    },*/
+        relative_radius: 0.6
+    },
     "las_cruces": {
         name: "Las Cruces",
         name_english: "Las Cruces",
@@ -436,6 +454,12 @@ var country_properties = {
         name_english: "Modesto",
         code: "us-ca",
         relative_radius: 0.8
+    },
+    "montpelier": {
+        name: "Montpelier",
+        name_english: "Montpelier",
+        code: "us-id",
+        relative_radius: 0.5
     },
     "needles": {
         name: "Needles",
@@ -531,7 +555,7 @@ var country_properties = {
         name: "Rawlins",
         name_english: "Rawlins",
         code: "us-wy",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "redbluff": {
         name: "Red Bluff",
@@ -562,13 +586,13 @@ var country_properties = {
         name_english: "Riverside",
         code: "us-ca",
         relative_radius: 0.5
-    },/*
+    },
     "riverton": {
         name: "Riverton",
         name_english: "Riverton",
         code: "us-wy",
-        relative_radius: 0.7
-    },*/
+        relative_radius: 0.8
+    },
     "rock_springs": {
         name: "Rock Springs",
         name_english: "Rock Springs",
@@ -609,7 +633,7 @@ var country_properties = {
         name: "Sheridan",
         name_english: "Sheridan",
         code: "us-wy",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "steamboat_sp": {
         name: "Steamboat Springs",
@@ -767,6 +791,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.6
     },
+    "wheatland": {
+        name: "Wheatland",
+        name_english: "Wheatland",
+        code: "us-wy",
+        relative_radius: 0.6
+    },
     "winnemucca": {
         name: "Winnemucca",
         name_english: "Winnemucca",
@@ -815,6 +845,9 @@ var city_properties = {
     "aberdeen": {
         relative_whitenoise: 0.85
     },
+    "afton": {
+        relative_whitenoise: 0.85
+    },
     "alamosa": {
         relative_whitenoise: 0.85
     },
@@ -846,6 +879,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "bishop": {
+        relative_whitenoise: 0.85
+    },
+    "big_piney": {
         relative_whitenoise: 0.85
     },
     "boise": {
@@ -926,6 +962,9 @@ var city_properties = {
     "flagstaff": {
         relative_whitenoise: 0.85
     },
+    "freedom": {
+        relative_whitenoise: 0.85
+    },
     "fresno": {
         relative_whitenoise: 0.85
     },
@@ -936,7 +975,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "gillette": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "glenwood_springs": {
         relative_whitenoise: 0.85
@@ -950,6 +989,9 @@ var city_properties = {
     "grangeville": {
         relative_whitenoise: 0.85
     },
+    "greybull": {
+        relative_whitenoise: 0.85
+    },
     "hobbs": {
         relative_whitenoise: 0.85
     },
@@ -961,10 +1003,10 @@ var city_properties = {
     },
     "indio": {
         relative_whitenoise: 0.85
-    },/*
+    },
     "jackson": {
         relative_whitenoise: 0.85
-    },*/
+    },
     "kayenta": {
         relative_whitenoise: 0.85
     },
@@ -988,10 +1030,10 @@ var city_properties = {
     },
     "lamar": {
         relative_whitenoise: 0.80
-    },/*
+    },
     "laramie": {
         relative_whitenoise: 0.85
-    },*/
+    },
     "las_cruces": {
         relative_whitenoise: 0.85
     },
@@ -1029,6 +1071,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "modesto": {
+        relative_whitenoise: 0.85
+    },
+    "montpelier": {
         relative_whitenoise: 0.85
     },
     "needles": {
@@ -1093,10 +1138,10 @@ var city_properties = {
     },
     "riverside": {
         relative_whitenoise: 0.85
-    },/*
+    },
     "riverton": {
         relative_whitenoise: 0.85
-    },*/
+    },
     "rock_springs": {
         relative_whitenoise: 0.85
     },
@@ -1116,7 +1161,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "sheridan": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "steamboat_sp": {
         relative_whitenoise: 0.85
@@ -1196,6 +1241,9 @@ var city_properties = {
     "wenatchee": {
         relative_whitenoise: 0.85
     },
+    "wheatland": {
+        relative_whitenoise: 0.85
+    },
     "winnemucca": {
         relative_whitenoise: 0.80
     },
@@ -1241,6 +1289,14 @@ var cities = [
         "x": "-95069.8",
         "y": "121.652",
         "z": "12704.5"
+    },
+    {
+        "gameName": "big_piney",
+        "realName": "Big Piney",
+        "country": "wyoming",
+        "x": "-58068.8",
+        "y": "133.689",
+        "z": "-24662.5"
     },
     {
         "gameName": "bishop",
@@ -1323,6 +1379,14 @@ var cities = [
         "z": "15275.2"
     },
     {
+        "gameName": "freedom",
+        "realName": "Freedom",
+        "country": "wyoming",
+        "x": "-62024.8",
+        "y": "135.305",
+        "z": "-26921.5"
+    },
+    {
         "gameName": "fresno",
         "realName": "Fresno",
         "country": "california",
@@ -1353,15 +1417,15 @@ var cities = [
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
-    },/*
+    },
     {
         "gameName": "jackson",
         "realName": "Jackson",
         "country": "wyoming",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-58060.3",
+        "y": "158.566",
+        "z": "-31351.6"
+    },
     {
         "gameName": "kayenta",
         "realName": "Kayenta",
@@ -1377,15 +1441,15 @@ var cities = [
         "x": "-80255.8",
         "y": "65.603",
         "z": "13606.3"
-    },/*
+    },
     {
         "gameName": "laramie",
         "realName": "Laramie",
         "country": "wyoming",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-41711.4",
+        "y": "162.801",
+        "z": "-17557"
+    },
     {
         "gameName": "las_vegas",
         "realName": "Las Vegas",
@@ -1497,15 +1561,15 @@ var cities = [
         "x": "-99043.6",
         "y": "38.0766",
         "z": "17999.1"
-    },/*
+    },
     {
         "gameName": "riverton",
         "realName": "Riverton",
         "country": "wyoming",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-50587.1",
+        "y": "187.723",
+        "z": "-27268.7"
+    },
     {
         "gameName": "sacramento",
         "realName": "Sacramento",
@@ -1662,9 +1726,9 @@ var cities = [
         "gameName": "casper",
         "realName": "Casper",
         "country": "wyoming",
-        "x": "-41823.7",
-        "y": "441.58",
-        "z": "-24332.2"
+        "x": "-41501.4",
+        "y": "165.318",
+        "z": "-25775"
     },
     {
         "gameName": "cheyenne",
@@ -1710,9 +1774,9 @@ var cities = [
         "gameName": "gillette",
         "realName": "Gillette",
         "country": "wyoming",
-        "x": "-38652.4",
-        "y": "269.667",
-        "z": "-32139.1"
+        "x": "-37555",
+        "y": "126.43",
+        "z": "-31984.8"
     },
     {
         "gameName": "hobbs",
@@ -1742,17 +1806,17 @@ var cities = [
         "gameName": "rawlins",
         "realName": "Rawlins",
         "country": "wyoming",
-        "x": "-48995",
-        "y": "430.228",
-        "z": "-18817.5"
+        "x": "-47429.8",
+        "y": "156.344",
+        "z": "-20265"
     },
     {
         "gameName": "rock_springs",
         "realName": "Rock Springs",
         "country": "wyoming",
-        "x": "-54468.8",
-        "y": "381.333",
-        "z": "-19115.9"
+        "x": "-53904.7",
+        "y": "152.172",
+        "z": "-18853.2"
     },
     {
         "gameName": "roswell",
@@ -2035,6 +2099,14 @@ var cities = [
         "z": "-5622.85"
     },
     {
+        "gameName": "montpelier",
+        "realName": "Montpelier",
+        "country": "idaho",
+        "x": "-62548.9",
+        "y": "170.788",
+        "z": "-23269.8"
+    },
+    {
         "gameName": "needles",
         "realName": "Needles",
         "country": "california",
@@ -2070,9 +2142,9 @@ var cities = [
         "gameName": "sheridan",
         "realName": "Sheridan",
         "country": "wyoming",
-        "x": "-43180.4",
-        "y": "284.636",
-        "z": "-35274.9"
+        "x": "-42261.8",
+        "y": "150.823",
+        "z": "-35202.9"
     },
     {
         "gameName": "st_george",
@@ -2099,6 +2171,14 @@ var cities = [
         "z": "15237.6"
     },
     {
+        "gameName": "wheatland",
+        "realName": "Wheatland",
+        "country": "wyoming",
+        "x": "-36817.5",
+        "y": "100.94",
+        "z": "-20075.8"
+    },
+    {
         "gameName": "boise",
         "realName": "Boise",
         "country": "idaho",
@@ -2113,6 +2193,14 @@ var cities = [
         "x": "-77628.2",
         "y": "106.348",
         "z": "-48313.5"
+    },
+    {
+        "gameName": "greybull",
+        "realName": "Greybull",
+        "country": "wyoming",
+        "x": "-49548.5",
+        "y": "125.816",
+        "z": "-35164.9"
     },
     {
         "gameName": "idaho_falls",
@@ -4113,7 +4201,7 @@ var country_properties_c2c = {
         name: "rapid_city",
         name_english: "rapid_city",
         code: "us-sd",
-        relative_radius: 1.1
+        relative_radius: 0.9
     },
     "sioux_falls": {
         name: "sioux_falls",
@@ -5133,7 +5221,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "rapid_city": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "sioux_falls": {
         relative_whitenoise: 0.95
