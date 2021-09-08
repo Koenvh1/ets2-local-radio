@@ -120,8 +120,8 @@ var country_properties = {
         relative_radius: 0.8
     },
     "cheyenne": {
-        name: "cheyenne",
-        name_english: "cheyenne",
+        name: "Cheyenne",
+        name_english: "Cheyenne",
         code: "us-wy",
         relative_radius: 0.7
     },

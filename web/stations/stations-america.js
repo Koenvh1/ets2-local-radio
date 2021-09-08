@@ -28551,6 +28551,11 @@ var stations_c2c = {
             url: "https://cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac"
         },
         {
+            name: "103.3 The Eagle",
+            logo: "stations/images-america/c2c/tulsa_ok/103.3 The Eagle.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/tul1033/tul1033-sgplayer-aac"
+        },
+        {
             name: "Z104.5 The Edge",
             logo: "stations/images-america/c2c/tulsa_ok/Z104.5 The Edge.png",
             url: "https://ice8.securenetsystems.net/KMYZ"
@@ -28564,6 +28569,11 @@ var stations_c2c = {
             name: "106.1 The Twister",
             logo: "stations/images-america/c2c/tulsa_ok/106.1 The Twister.png",
             url: "https://stream.revma.ihrhls.com/zc1933/hls.m3u8"
+        },
+        {
+            name: "106.9 KHITS",
+            logo: "stations/images-america/c2c/tulsa_ok/106.9 KHITS.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/griffin-khttfmaac-imc2"
         },
         {
             name: "KOSU 107.5",
@@ -34671,8 +34681,8 @@ var stations_c2c = {
             url: "http://amber.streamguys.com:4370/wxpr2"
         },
         {
-            name: "Rock 94.7",
-            logo: "stations/images-america/c2c/wausau_wi/Rock 94.7.png",
+            name: "94.7 Jack FM",
+            logo: "stations/images-america/c2c/wausau_wi/94.7 Jack FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOZZFMAAC_SC"
         },
         {
