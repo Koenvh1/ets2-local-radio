@@ -1958,7 +1958,7 @@ var stations = {
         {
             name: "KDUN 1030",
             logo: "stations/images-america/coos_bay/KDUN 1030.png",
-            url: "http://hestia.cdnstream.com/1571_128"
+            url: "http://s24.total-streaming.com:7000/KDUNAM"
         },
         {
             name: "KBBR 1340",
