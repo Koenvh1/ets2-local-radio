@@ -7989,7 +7989,7 @@ var stations = {
         {
             name: "Rustler Radio 88.1",
             logo: "stations/images-america/riverton/Rustler Radio 88.1.png",
-            url: "https://live.wostreaming.net/manifest/kcwc-kcwcfmaac-ibc3"
+            url: "https://us2.maindigitalstream.com/ssl/KCWC"
         },
         {
             name: "Pilgrim Radio 89.1",
@@ -9855,6 +9855,11 @@ var stations = {
             name: "Z94",
             logo: "stations/images-america/sheridan/Z94.png",
             url: "https://ice24.securenetsystems.net/Z94"
+        },
+        {
+            name: "95.9 The Edge",
+            logo: "stations/images-america/sheridan/95.9 The Edge.png",
+            url: "https://ice6.securenetsystems.net/K24DW"
         },
         {
             name: "KIX 96.5",
