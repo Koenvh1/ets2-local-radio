@@ -3,7 +3,7 @@ var country_properties = {
         name: "افغانستان",
         name_english: "Afghanistan",
         code: "af",
-        relative_radius: 1.1,
+        relative_radius: 1.3,
     },
     "aland": {
         name: "Åland",
@@ -287,6 +287,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 0.8,
     },
+    "greenland": {
+        name: "Kalaallit Nunaat",
+        name_english: "Greenland",
+        code: "gl",
+        relative_radius: 0.55,
+    },
     "hungary": {
         name: "Magyarország",
         name_english: "Hungary",
@@ -503,6 +509,12 @@ var country_properties = {
         code: "es",
         relative_radius: 1,
     },
+    "sudan": {
+        name: "السودان",
+        name_english: "Sudan",
+        code: "sd",
+        relative_radius: 0.5,
+    },
     "svalbard": {
         name: "Svalbard",
         name_english: "Svalbard",
@@ -561,7 +573,7 @@ var country_properties = {
         name: "Türkmenistan",
         name_english: "Turkmenistan",
         code: "tm",
-        relative_radius: 1.1,
+        relative_radius: 1.3,
     },
     "uk": {
         name: "United Kingdom",
@@ -604,6 +616,9 @@ var city_properties = {
     },
     "alban": {
         relative_radius: 1.4,
+    },
+    "alqusayr": {
+        relative_radius: 3.0,
     },
     "amsterdam": {
         relative_radius: 1.4,
@@ -649,6 +664,9 @@ var city_properties = {
     },
     "bilbao": {
         relative_radius: 0.7,
+    },
+    "birtawil": {
+        relative_radius: 3.0,
     },
     "bonn": {
         relative_radius: 0.5,
@@ -799,6 +817,9 @@ var city_properties = {
     },
     "hadzhico": {
         relative_radius: 0.5,
+    },
+    "halayeb": {
+        relative_radius: 3.0,
     },
     "hamburg": {
         relative_radius: 0.8,
@@ -964,8 +985,14 @@ var city_properties = {
     "mamedovashel": {
         relative_radius: 0.3,
     },
+    "marsaalam": {
+        relative_radius: 3.0,
+    },
     "marseille": {
         relative_radius: 1.2,
+    },
+    "muhammadqol": {
+        relative_radius: 3.0,
     },
     "mukacheve": {
         relative_radius: 0.5,
@@ -1105,6 +1132,9 @@ var city_properties = {
     "ruwaished": {
         relative_radius: 1.6,
     },
+    "safaga": {
+        relative_radius: 3.0,
+    },
     "safawi": {
         relative_radius: 1.5,
     },
@@ -1116,6 +1146,9 @@ var city_properties = {
     },
     "saratov": {
         relative_radius: 1.5,
+    },
+    "shalaten": {
+        relative_radius: 3.0,
     },
     "shaumyan": {
         relative_radius: 0.5,
@@ -1217,6 +1250,9 @@ var city_properties = {
     },
     "tula": {
         relative_radius: 1.6,
+    },
+    "türkmenabat": {
+        relative_radius: 3.0,
     },
     "turku": {
         relative_radius: 0.8,
@@ -3600,6 +3636,22 @@ var cities = [
         "z": "14133"
     },
     {
+        "gameName": "nanortalik",
+        "realName": "Nanortalik",
+        "country": "greenland",
+        "x": "-170631.7",
+        "y": "1.509087",
+        "z": "-155141"
+    },
+    {
+        "gameName": "nanortalik",
+        "realName": "Nanortalik",
+        "country": "denmark",
+        "x": "-170631.7",
+        "y": "1.509087",
+        "z": "-155141"
+    },
+    {
         "gameName": "narbonne",
         "realName": "Narbonne",
         "country": "france",
@@ -4955,6 +5007,14 @@ var cities_rusmap = [
         "z": "-26771.6"
     },
     {
+        "gameName": "izosimovo",
+        "realName": "Изо́симовo",
+        "country": "russia",
+        "x": "99691.66",
+        "y": "-28.01825",
+        "z": "-31369.82"
+    },
+    {
         "gameName": "gomel",
         "realName": "Гомель",
         "country": "belarus",
@@ -5219,6 +5279,14 @@ var cities_rusmap = [
         "z": "-27910"
     },
     {
+        "gameName": "segezha",
+        "realName": "Сеге́жа",
+        "country": "russia",
+        "x": "68541.54",
+        "y": "26.15217",
+        "z": "-81986.51"
+    },
+    {
         "gameName": "shlisselburg",
         "realName": "Шлиссельбург",
         "country": "russia",
@@ -5393,10 +5461,607 @@ var cities_rusmap = [
         "x": "57673.2",
         "y": "42.2695",
         "z": "-93488.3"
+    },
+    {
+        "gameName": "hlybokaje",
+        "realName": "Глыбокае",
+        "country": "belarus",
+        "x": "58843.06",
+        "y": "20.43494",
+        "z": "-29155.79"
+    },
+    {
+        "gameName": "polotsk",
+        "realName": "По́лацк",
+        "country": "belarus",
+        "x": "62093.79",
+        "y": "3.166012",
+        "z": "-31243.15"
+    },
+];
+
+var cities_vm = [
+     
+    {
+	    "gameName": "samara",
+	    "realName": "Самара",
+	    "country": "russia",
+	    "x": "135174.3",
+	    "y": "11.23351",
+	    "z": "-43691.61"
+    },
+    {
+	    "gameName": "sennoi",
+	    "realName": "Сенной",
+	    "country": "russia",
+	    "x": "123428.8",
+	    "y": "40.2844",
+	    "z": "-32749.04"
+     },
+     {
+	    "gameName": "volsk",
+	    "realName": "Вольск",
+	    "country": "russia",
+	    "x": "127782.4",
+	    "y": "26.3553",
+	    "z": "-32491.75"
+     },
+     {
+	    "gameName": "syzran",
+	    "realName": "Сызрань",
+	    "country": "russia",
+	    "x": "127562.2",
+	    "y": "16.65963",
+	    "z": "-40557.15"
+      },
+      {
+	    "gameName": "jigulevsk",
+	    "realName": "Жигулёвск",
+	    "country": "russia",
+	    "x": "129934.2",
+	    "y": "-3.575092",
+	    "z": "-42662.47"
+      },
+      {
+	    "gameName": "tolyatti",
+	    "realName": "Тольятти",
+	    "country": "russia",
+	    "x": "127987.4",
+	    "y": "19.28115",
+	    "z": "-44872.02"
+      }
+ ];
+
+var cities_vvm = [
+    {
+        "gameName": "cirkewwa",
+        "realName": "Cirkewwa",
+        "country": "malta",
+        "x": "12910.66",
+        "y": "2.700461",
+        "z": "83251.16"
+    },
+    {
+        "gameName": "stpaulsbay",
+        "realName": "Stpaulsbay",
+        "country": "malta",
+        "x": "13428.87",
+        "y": "-5.614941",
+        "z": "83524.97"
+    },
+        {
+        "gameName": "valletta",
+        "realName": "Valletta",
+        "country": "malta",
+        "x": "14133",
+        "y": "3.206636",
+        "z": "84028.38"
+    }
+];
+    
+var cities_sm = [
+    
+    {
+        "gameName": "chelyabinsk",
+        "realName": "Челябинск",
+        "country": "russia",
+	    "x": "157514.6",
+	    "y": "125.9981",
+	    "z": "-70658.13"
+    },
+    {
+	    "gameName": "formacheva",
+	    "realName": "формачево",
+	    "country": "russia",
+	    "x": "158932.8",
+	    "y": "114.1031",
+	    "z": "-68253.64"
+    },
+    {
+	    "gameName": "uzhnouralsk",
+	    "realName": "Южноуральск",
+	    "country": "russia",
+	    "x": "159417.5",
+	    "y": "114.1046",
+	    "z": "-67325.07"
+    },
+    {
+	    "gameName": "troitsk",
+	    "realName": "Троицк",
+	    "country": "russia",
+	    "x": "161687.7",
+	    "y": "110.9953",
+	    "z": "-66026.29"
+     },
+     {
+	    "gameName": "novotroitsk",
+	    "realName": "Новотроицк",
+	    "country": "russia",
+	    "x": "161771.7",
+	    "y": "149.6452",
+	    "z": "-46018.37"
+     },
+     {
+	    "gameName": "orsk",
+	    "realName": "Орск",
+	    "country": "russia",
+	    "x": "161702.2",
+	    "y": "159.0266",
+	    "z": "-47664.05"
+     },
+     {
+	    "gameName": "gai",
+	    "realName": "Гай",
+	    "country": "russia",
+	    "x": "159431.9",
+	    "y": "120.8415",
+	    "z": "-47644.44"
+     },
+     {
+	    "gameName": "akyar",
+	    "realName": "Акъяр,",
+	    "country": "russia",
+	    "x": "159715.9",
+	    "y": "116.6996",
+	    "z": "-49888.63"
+     },
+     {
+	    "gameName": "baimak",
+	    "realName": "Баймак",
+	    "country": "russia",
+	    "x": "156860",
+	    "y": "103.5765",
+	    "z": "-51479.05"
+     },
+     {
+	    "gameName": "sibai",
+	    "realName": "Сибай",
+	    "country": "russia",
+	    "x": "158914.6",
+	    "y": "98.95707",
+	    "z": "-52904.04"
+     },
+     {
+	    "gameName": "magnitogorsk",
+	    "realName": "Магнитогорск",
+	    "country": "russia",
+	    "x": "156540.2",
+	    "y": "91.49921",
+	    "z": "-57259.67"
+     },
+     {
+	    "gameName": "verhneuralsk",
+	    "realName": "Верхнеуральск",
+	    "country": "russia",
+	    "x": "156093.1",
+	    "y": "95.07208",
+	    "z": "-61455.38"
+      },
+      {
+	    "gameName": "tyulgan",
+	    "realName": "Тюльган",
+	    "country": "russia",
+	    "x": "150724.6",
+	    "y": "116.9061",
+	    "z": "-49920.69"
+      },
+      {
+	    "gameName": "isyangulovo",
+	    "realName": "Исянгулово",
+	    "country": "russia",
+	    "x": "152795.3",
+	    "y": "87.29482",
+	    "z": "-48969.07"
     }
 ];
 
+var cities_rta = [
+    
+    {
+        "gameName": "andkhoy",
+        "realName": "اندخوی",
+        "country": "afghanistan",
+        "x": "232440.8",
+        "y": "91.10274",
+        "z": "1145.991"
+    },
+    {
+        "gameName": "meymaneh",
+        "realName": "میمنه",
+        "country": "afghanistan",
+        "x": "235068.8",
+        "y": "91.12736",
+        "z": "7001.711"
+    },
+    {
+        "gameName": "abdolhak",
+        "realName": "عبدالحق",
+        "country": "afghanistan",
+        "x": "232541.9",
+        "y": "91.10263",
+        "z": "15853.6"
+    },
+    {
+        "gameName": "herat",
+        "realName": "هرات",
+        "country": "afghanistan",
+        "x": "230951.3",
+        "y": "91.00137",
+        "z": "21836.73"
+    },
+    {
+        "gameName": "serhetabat",
+        "realName": "Serhetabat",
+        "country": "turkmenistan",
+        "x": "228262.6",
+        "y": "91.00105",
+        "z": "16739.75"
+    },
+    {
+        "gameName": "gyzylgaya",
+        "realName": "Gyzylgaya",
+        "country": "turkmenistan",
+        "x": "186404.7",
+        "y": "99.93156",
+        "z": "8843.917"
+    },
+    {
+        "gameName": "jebel",
+        "realName": "Jebel",
+        "country": "turkmenistan",
+        "x": "181416.5",
+        "y": "125.0067",
+        "z": "15097.24"
+    },
+    {
+        "gameName": "tejen",
+        "realName": "Tejen",
+        "country": "turkmenistan",
+        "x": "214125.2",
+        "y": "91.00137",
+        "z": "12239.49"
+    },
+    {
+        "gameName": "mary",
+        "realName": "Mary",
+        "country": "turkmenistan",
+        "x": "217338.1",
+        "y": "92.54792",
+        "z": "7968.763"
+    },
+    {
+        "gameName": "türkmenabat",
+        "realName": "Türkmenabat",
+        "country": "turkmenistan",
+        "x": "219245",
+        "y": "91.7207",
+        "z": "-3565.431"
+    },
+    {
+        "gameName": "dasoguz",
+        "realName": "Dasoguz",
+        "country": "turkmenistan",
+        "x": "196287.8",
+        "y": "84.02451",
+        "z": "-7239.238"
+    },
+    {
+        "gameName": "goyang",
+        "realName": "고양시",
+        "country": "skorea",
+        "x": "353003.7",
+        "y": "1.001073",
+        "z": "-247050.8"
+    },
+    {
+        "gameName": "paju",
+        "realName": "파주시",
+        "country": "skorea",
+        "x": "351972.4",
+        "y": "1.001594",
+        "z": "-246962.7"
+    },
+    {
+        "gameName": "dorasan",
+        "realName": "도라산",
+        "country": "skorea",
+        "x": "351319.2",
+        "y": "0.6384999",
+        "z": "-247714.6"
+    },
+    {
+        "gameName": "kaesong",
+        "realName": "개성시",
+        "country": "nkorea",
+        "x": "350879.6",
+        "y": "1.005589",
+        "z": "-246214.5"
+    },
+    {
+        "gameName": "nampo",
+        "realName": "남포시",
+        "country": "nkorea",
+        "x": "345968.6",
+        "y": "0.2653362",
+        "z": "-240263.2"
+    },
+    
+     {
+        "gameName": "esenguly",
+        "realName": "Esenguly",
+        "country": "turkmenistan",
+        "x": "188086.6",
+        "y": "87.0181",
+        "z": "27708.97"
+    },
+    {
+        "gameName": "balkanabat",
+        "realName": "Balkanabat",
+        "country": "turkmenistan",
+        "x": "184012.2",
+        "y": "93.2453",
+        "z": "17155.19"
+    },
+    {
+        "gameName": "turkmenbashi",
+        "realName": "Turkmenbashi",
+        "country": "turkmenistan",
+        "x": "176868",
+        "y": "102.0012",
+        "z": "16727.03"
+    },
+    {
+        "gameName": "garabogaz",
+        "realName": "Garabogaz",
+        "country": "turkmenistan",
+        "x": "171211.4",
+        "y": "89.90245",
+        "z": "11132.56"
+    },
+    {
+        "gameName": "kaechon",
+        "realName": "개천시",
+        "country": "nkorea",
+        "x": "340754.9",
+        "y": "1.57897",
+        "z": "-243772.5"
+    },
+    {
+        "gameName": "pyongyang",
+        "realName": "평양",
+        "country": "nkorea",
+        "x": "344752.7",
+        "y": "0.001052052",
+        "z": "-243501.7"
+    },
+    {
+        "gameName": "sharlavuk",
+        "realName": "Sharlavuk",
+        "country": "turkmenistan",
+        "x": "191233",
+        "y": "93.00105",
+        "z": "22586.32"
+    },
+    {
+        "gameName": "serdar",
+        "realName": "Serdar",
+        "country": "turkmenistan",
+        "x": "192575.2",
+        "y": "89.48089",
+        "z": "15482.22"
+    },
+    {
+        "gameName": "baherden",
+        "realName": "Baherden",
+        "country": "turkmenistan",
+        "x": "198489.7",
+        "y": "91.00105",
+        "z": "15563.82"
+    },
+    {
+        "gameName": "ashgabat",
+        "realName": "Ashgabat",
+        "country": "turkmenistan",
+        "x": "204559.1",
+        "y": "91.20452",
+        "z": "15789.16"
+    },
+    {
+        "gameName": "yerbent",
+        "realName": "Yerbent",
+        "country": "turkmenistan",
+        "x": "200253.9",
+        "y": "79.24261",
+        "z": "7963.814"
+    },
+    {
+        "gameName": "derweze",
+        "realName": "Derweze",
+        "country": "turkmenistan",
+        "x": "196971.4",
+        "y": "79.78562",
+        "z": "4191.776"
+    },
+    {
+        "gameName": "koneurgenc",
+        "realName": "Köneürgenç",
+        "country": "turkmenistan",
+        "x": "192205.4",
+        "y": "84.00111",
+        "z": "-7475.048"
+    }
+];
+
+var cities_rsm = [
+    
+{
+        "gameName": "marsaalam",
+        "realName": "مرسى علم",
+        "country": "egypt",
+        "x": "123135.6",
+        "y": "15.00141",
+        "z": "135740.8"
+    },
+    {
+        "gameName": "birtawil",
+        "realName": "بير طويل",
+        "country": "egypt",
+        "x": "121078.8",
+        "y": "15.04923",
+        "z": "154154"
+    },
+    {
+        "gameName": "birtawil",
+        "realName": "بير طويل",
+        "country": "sudan",
+        "x": "121078.8",
+        "y": "15.04923",
+        "z": "154154"
+    },
+    {
+        "gameName": "muhammadqol",
+        "realName": "محمد قل",
+        "country": "sudan",
+        "x": "147780.7",
+        "y": "23.67823",
+        "z": "156704.3"
+    },
+    {
+        "gameName": "halayeb",
+        "realName": "حلايب",
+        "country": "egypt",
+        "x": "139188.8",
+        "y": "17.69661",
+        "z": "148558"
+    },
+    {
+        "gameName": "halayeb",
+        "realName": "حلايب",
+        "country": "sudan",
+        "x": "139188.8",
+        "y": "17.69661",
+        "z": "148558"
+    },
+    {
+        "gameName": "shalaten",
+        "realName": "شلاتين",
+        "country": "egypt",
+        "x": "129424.1",
+        "y": "15.81781",
+        "z": "145113"
+    },
+    {
+        "gameName": "alqusayr",
+        "realName": "القصير",
+        "country": "egypt",
+        "x": "120180.2",
+        "y": "15.00137",
+        "z": "132462"
+    },
+    {
+        "gameName": "safaga",
+        "realName": "سفاجا",
+        "country": "egypt",
+        "x": "115670.6",
+        "y": "5.96349",
+        "z": "128176.5"
+    },
+    {
+        "gameName": "hurghada",
+        "realName": "الغردقة",
+        "country": "egypt",
+        "x": "111432.5",
+        "y": "-9.713734",
+        "z": "120275.8"
+    },
+    {
+        "gameName": "alkhuraybah",
+        "realName": "الخريبة",
+        "country": "saudia",
+        "x": "120025.5",
+        "y": "8.848724",
+        "z": "115518.5"
+    },
+    {
+        "gameName": "alsharaf",
+        "realName": "الشرف",
+        "country": "saudia",
+        "x": "118580.9",
+        "y": "16.79061",
+        "z": "108527"
+    },
+    {
+        "gameName": "albad",
+        "realName": "البدع",
+        "country": "saudia",
+        "x": "117475.6",
+        "y": "5.163407",
+        "z": "113015.7"
+    },
+    {
+        "gameName": "stkatherine",
+        "realName": "سانت كاترين",
+        "country": "egypt",
+        "x": "109659.1",
+        "y": "8.591083",
+        "z": "110929.6"
+    },
+    {
+        "gameName": "eltor",
+        "realName": "الطور",
+        "country": "egypt",
+        "x": "108850.4",
+        "y": "-1.344146",
+        "z": "113490.9"
+    },
+    {
+        "gameName": "sharmalsheikh",
+        "realName": "شرم الشيخ",
+        "country": "egypt",
+        "x": "113178.1",
+        "y": "-13.86647",
+        "z": "115759.8"
+    },
+    {
+        "gameName": "dahab",
+        "realName": "دهب",
+        "country": "egypt",
+        "x": "113601.3",
+        "y": "10.13743",
+        "z": "110923.3"
+    },
+    {
+        "gameName": "nuweiba",
+        "realName": "نويبع",
+        "country": "egypt",
+        "x": "113754.5",
+        "y": "-39.66796",
+        "z": "108016.2"
+    }
+ ];
+
 var cities_fr = [
+    
     {
         "gameName": "alban",
         "realName": "Saint-Alban-du-Rhône",
@@ -8387,6 +9052,70 @@ var cities_open_spaces = [
 
 var cities_kz = [
     {
+	    "gameName": "karabalyk",
+	    "realName": "Karabalyk",
+	    "country": "kazakhstan",
+	    "x": "164177",
+	    "y": "110.128",
+	    "z": "-65516.55"
+     },
+     {
+	    "gameName": "kostanay",
+	    "realName": "Kostanay",
+	    "country": "kazakhstan",
+	    "x": "169768.4",
+	    "y": "99.97845",
+	    "z": "-67243.98"
+     },
+     {
+	    "gameName": "zatobolsk",
+	    "realName": "Zatobolsk",
+	    "country": "kazakhstan",
+	    "x": "171553.1",
+	    "y": "95.01852",
+	    "z": "-68572.24"
+     },
+     {
+	    "gameName": "rudnyy",
+	    "realName": "Rudnyy",
+	    "country": "kazakhstan",
+	    "x": "168613.2",
+	    "y": "112.1554",
+	    "z": "-62997.54"
+     },
+     {
+	    "gameName": "tobol",
+	    "realName": "Tobol",
+	    "country": "kazakhstan",
+	    "x": "168075.3",
+	    "y": "117.6884",
+	    "z": "-60767.09"
+     },
+     {
+	    "gameName": "lisakovsk",
+	    "realName": "Lisakovsk",
+	    "country": "kazakhstan",
+	    "x": "168394.8",
+	    "y": "120.066",
+	    "z": "-59598.76"
+     },
+     {
+	    "gameName": "karabutak",
+	    "realName": "Karabutak",
+	    "country": "kazakhstan",
+	    "x": "171522.1",
+	    "y": "183.8979",
+	    "z": "-44466.59"
+     },
+     {
+	    "gameName": "khromtau",
+	    "realName": "Khromtau",
+	    "country": "kazakhstan",
+	    "x": "166161.1",
+	    "y": "228.6237",
+	    "z": "-43580.57"
+      },
+    {
         "gameName": "akshat",
         "realName": "Akshat",
         "country": "kazakhstan",
@@ -8949,7 +9678,7 @@ var cities_yks_turkey = [
         "y": "100.402",
         "z": "90886.4"
     },
-    {
+   
         "gameName": "mugla",
         "realName": "Mugla",
         "country": "turkey",
@@ -11170,6 +11899,12 @@ cities = cities.concat(cities_kz); //The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
 cities = cities.concat(cities_japan); //AfroMap
 cities = cities.concat(cities_tsm); //TruckSim-Map
+cities = cities.concat(cities_rta); //Road to Asia
+cities = cities.concat(cities_rsm); //Red Sea Map
+cities = cities.concat(cities_vm); //Volga Map
+cities = cities.concat(cities_sm); //Sibir Map
+cities = cities.concat(cities_vvm); //Viva Malta
+
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
