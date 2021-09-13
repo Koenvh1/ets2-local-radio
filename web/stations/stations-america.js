@@ -1782,7 +1782,7 @@ var stations = {
             url: "http://s3.voscast.com:9140/;"
         },
         {
-            name: "Indie 102.3",
+            name: "K271CK 102.1",
             logo: "stations/images-america/denver/Indie 102.3.png",
             url: "https://stream1.cprnetwork.org/cpr3_aac"
         },
@@ -2959,6 +2959,11 @@ var stations = {
             url: "http://129.82.220.62:8000/;"
         },
         {
+            name: "K215FM 90.9",
+            logo: "stations/images-america/denver/Indie 102.3.png",
+            url: "https://stream1.cprnetwork.org/cpr3_aac"
+        },
+        {
             name: "KUNC 91.5",
             logo: "stations/images-america/fort_collins/KUNC 91.5.png",
             url: "https://kunc.streamguys1.com/kunc"
@@ -3653,6 +3658,11 @@ var stations = {
             name: "Thunder 93.5",
             logo: "stations/images-america/glenwood_springs/Thunder 93.5.png",
             url: "https://ice7.securenetsystems.net/KTND"
+        },
+        {
+            name: "KNDH 96.7",
+            logo: "stations/images-america/denver/Indie 102.3.png",
+            url: "https://stream1.cprnetwork.org/cpr3_aac"
         },
         {
             name: "KZYR 97.7",
@@ -18559,8 +18569,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDVVFMAAC_SC"
         },
         {
-            name: "102.9 Nash Icon",
-            logo: "stations/images-america/c2c/topeka_ks/102.9 Nash Icon.png",
+            name: "102.9 Cat Country",
+            logo: "stations/images-america/c2c/topeka_ks/102.9 Cat Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPFMAAC_SC"
         },
         {
@@ -19895,8 +19905,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
         },
         {
-            name: "106.7 The Krewe",
-            logo: "stations/images-america/c2c/new_orleans_la/106.7 The Krewe.png",
+            name: "Heaven 106.7",
+            logo: "stations/images-america/c2c/new_orleans_la/Heaven 106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC_SC"
         },
         {
@@ -20923,7 +20933,12 @@ var stations_c2c = {
             name: "Nash Icon 93.1-HD2",
             logo: "stations/images-america/c2c/detroit_mi/Nash Icon 93.1-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRQHD2AAC_SC"
-        },
+        },/*
+        {
+            name: "The Roar 93.5",
+            logo: "stations/images-america/c2c/detroit_mi/The Roar 93.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXHD2AAC_SC"
+        },*/
         {
             name: "93.9 Virgin Radio",
             logo: "stations/images-america/c2c/detroit_mi/93.9 Virgin Radio.png",
@@ -28590,6 +28605,31 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/tulsa_ok/Ritmo 107.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOAMAAC_SC"
         },
+        {
+            name: "KGGF 690",
+            logo: "stations/images-america/c2c/tulsa_ok/KGGF 690.png",
+            url: "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3"
+        },
+        {
+            name: "970 KCFO",
+            logo: "stations/images-america/c2c/tulsa_ok/970 KCFO.png",
+            url: "https://ice9.securenetsystems.net/KCFO"
+        },
+        {
+            name: "The Blitz 1170",
+            logo: "stations/images-america/c2c/tulsa_ok/The Blitz 1170.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/griffin-kfaqamaac-imc2"
+        },
+        {
+            name: "1300 The Buzz",
+            logo: "stations/images-america/c2c/tulsa_ok/1300 The Buzz.png",
+            url: "https://stream.revma.ihrhls.com/zc1921/hls.m3u8"
+        },
+        {
+            name: "1430 The Buzz",
+            logo: "stations/images-america/c2c/tulsa_ok/1430 The Buzz.png",
+            url: "https://stream.revma.ihrhls.com/zc1941/hls.m3u8"
+        },
     ],
     "woodward_ok": [
         {
@@ -30048,8 +30088,8 @@ var stations_c2c = {
             url: "https://radiolatina.live:10997/;"
         },
         {
-            name: "Real Rock 104.9",
-            logo: "stations/images-america/c2c/greenville_sc/Real Rock 104.9.png",
+            name: "104.9 FOX Sports",
+            logo: "stations/images-america/c2c/greenville_sc/104.9 FOX Sports.png",
             url: "https://stream.revma.ihrhls.com/zc2093/hls.m3u8"
         },
         {
