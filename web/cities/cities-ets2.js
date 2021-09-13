@@ -1,4 +1,10 @@
 var country_properties = {
+    "afghanistan": {
+        name: "افغانستان",
+        name_english: "Afghanistan",
+        code: "af",
+        relative_radius: 1.1,
+    },
     "aland": {
         name: "Åland",
         name_english: "Åland",
@@ -383,6 +389,12 @@ var country_properties = {
         code: "mk",
         relative_radius: 0.6,
     },
+    "malta": {
+        name: "Malta",
+        name_english: "Malta",
+        code: "mt",
+        relative_radius: 1.0,
+    },
     "mnegro": {
         name: "Црна Гора",
         name_english: "Montenegro",
@@ -406,6 +418,12 @@ var country_properties = {
         name_english: "Northern Ireland",
         code: "gb-nir",
         relative_radius: 1.15,
+    },
+    "nkorea": {
+        name: "조선",
+        name_english: "North Korea",
+        code: "kp",
+        relative_radius: 1.0,
     },
     "norway": {
         name: "Norge",
@@ -454,6 +472,12 @@ var country_properties = {
         name_english: "Serbia",
         code: "rs",
         relative_radius: 0.7,
+    },
+    "skorea": {
+        name: "한국",
+        name_english: "South Korea",
+        code: "kr",
+        relative_radius: 1.0,
     },
     "slovakia": {
         name: "Slovensko",
@@ -531,6 +555,12 @@ var country_properties = {
         name: "Türkiye",
         name_english: "Turkey",
         code: "tr",
+        relative_radius: 1.1,
+    },
+    "turkmenistan": {
+        name: "Türkmenistan",
+        name_english: "Turkmenistan",
+        code: "tm",
         relative_radius: 1.1,
     },
     "uk": {
