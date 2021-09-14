@@ -25252,6 +25252,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/buffalo_ny/WEBR AM 1440.png",
             url: "https://s3.radio.co/s99c3ad220/listen"
         },
+        {
+            name: "The Bet 1520",
+            logo: "stations/images-america/c2c/buffalo_ny/The Bet 1520.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWKBAMAAC_SC"
+        },
     ],
     "elmira": [
         {
@@ -30088,8 +30093,8 @@ var stations_c2c = {
             url: "https://radiolatina.live:10997/;"
         },
         {
-            name: "104.9 FOX Sports",
-            logo: "stations/images-america/c2c/greenville_sc/104.9 FOX Sports.png",
+            name: "FOX Sports 104.9",
+            logo: "stations/images-america/c2c/greenville_sc/FOX Sports 104.9.png",
             url: "https://stream.revma.ihrhls.com/zc2093/hls.m3u8"
         },
         {
