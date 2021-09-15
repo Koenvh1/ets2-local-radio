@@ -14022,9 +14022,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2808/hls.m3u8"
         },
         {
-            name: "94.5 WFLA",
-            logo: "stations/images-america/c2c/panama_city_fl/94.5 WFLA.png",
+            name: "Christmas 94.5",
+            logo: "stations/images-america/c2c/panama_city_fl/Christmas 94.5.png",
             url: "https://stream.revma.ihrhls.com/zc4033/hls.m3u8"
+        },
+        {
+            name: "B95.9",
+            logo: "stations/images-america/c2c/panama_city_fl/B95.9.png",
+            url: "https://ice24.securenetsystems.net/WRBA"
+        },
+        {
+            name: "96.3 WFLA",
+            logo: "stations/images-america/c2c/panama_city_fl/96.3 WFLA.png",
+            url: "https://stream.revma.ihrhls.com/zc6912/hls.m3u8"
         },
         {
             name: "97X",
@@ -14052,14 +14062,29 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/WYOO"
         },
         {
+            name: "Kick'n 103.5",
+            logo: "stations/images-america/c2c/panama_city_fl/Kick'n 103.5.png",
+            url: "https://ice24.securenetsystems.net/WKNK"
+        },
+        {
             name: "104.3 ESPN",
             logo: "stations/images-america/c2c/panama_city_fl/104.3 ESPN.png",
             url: "http://96.27.4.54:88/broadwave.mp3"
         },
         {
+            name: "105.1 BOB FM",
+            logo: "stations/images-america/c2c/panama_city_fl/105.1 BOB FM.png",
+            url: "https://ice24.securenetsystems.net/WASJ"
+        },
+        {
             name: "Island 106",
             logo: "stations/images-america/c2c/panama_city_fl/Island 106.png",
             url: "https://ice41.securenetsystems.net/WILN"
+        },
+        {
+            name: "K-LOVE 107.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
     ],
     "gainesville": [
@@ -28626,8 +28651,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/griffin-kfaqamaac-imc2"
         },
         {
-            name: "1300 The Buzz",
-            logo: "stations/images-america/c2c/tulsa_ok/1300 The Buzz.png",
+            name: "1300 The Patriot",
+            logo: "stations/images-america/c2c/tulsa_ok/1300 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc1921/hls.m3u8"
         },
         {
