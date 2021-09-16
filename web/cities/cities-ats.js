@@ -237,7 +237,7 @@ var country_properties = {
         name: "Fort Collins",
         name_english: "Fort Collins",
         code: "us-co",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "freedom": {
         name: "Freedom",
