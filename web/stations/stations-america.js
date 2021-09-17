@@ -5155,8 +5155,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "VFX 94.5",
-            logo: "stations/images-america/logan/VFX 94.5.png",
+            name: "94.5 Utah's VFX",
+            logo: "stations/images-america/logan/94.5 Utah's VFX.png",
             url: "https://ice9.securenetsystems.net/KVFX"
         },
         {
@@ -6150,8 +6150,8 @@ var stations = {
     ],
     "montpelier": [
         {
-            name: "VFX 94.5",
-            logo: "stations/images-america/logan/VFX 94.5.png",
+            name: "94.5 Utah's VFX",
+            logo: "stations/images-america/logan/94.5 Utah's VFX.png",
             url: "https://ice9.securenetsystems.net/KVFX"
         },
         {
@@ -8641,8 +8641,8 @@ var stations = {
             url: "https://ais-sa3.cdnstream1.com/2283_96.aac"
         },
         {
-            name: "VFX 98.3",
-            logo: "stations/images-america/logan/VFX 94.5.png",
+            name: "94.5 Utah's VFX",
+            logo: "stations/images-america/logan/94.5 Utah's VFX.png",
             url: "https://ice9.securenetsystems.net/KVFX"
         },
         {
