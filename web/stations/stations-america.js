@@ -22911,7 +22911,7 @@ var stations_c2c = {
         },
         {
             name: "104.7 KRES",
-            logo: "stations/images-america/0_general_logos/104.7 KRES.png",
+            logo: "stations/images-america/c2c/kirksville_mo/104.7 KRES.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kresfmaac-ibc2"
         },
         {
@@ -23182,7 +23182,7 @@ var stations_c2c = {
         },
         {
             name: "88.7 KTRM",
-            logo: "stations/images-america/0_general_logos/88.7 KTRM.png",
+            logo: "stations/images-america/c2c/kirksville_mo/88.7 KTRM.png",
             url: "https://securestream.truman.edu/ktrm"
         },
         {
@@ -23192,32 +23192,32 @@ var stations_c2c = {
         },
         {
             name: "Spirit FM 90.7",
-            logo: "stations/images-america/0_general_logos/Spirit FM 90.7.png",
+            logo: "stations/images-america/c2c/kirksville_mo/Spirit FM 90.7.png",
             url: "https://ic1.sslstream.com/kcvo-fm"
         },
         {
             name: "Covenant Network 91.5",
-            logo: "stations/images-america/0_general_logos/Covenant Network 91.5.png",
+            logo: "stations/images-america/c2c/kirksville_mo/Covenant Network 91.5.png",
             url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
         },
         {
             name: "The Pulse Channel 91.9",
-            logo: "stations/images-america/0_general_logos/The Pulse Channel 91.9.png",
+            logo: "stations/images-america/c2c/kirksville_mo/The Pulse Channel 91.9.png",
             url: "https://ic2.sslstream.com/pulse"
         },
         {
             name: "98.7 KMGO",
-            logo: "stations/images-america/0_general_logos/98.7 KMGO.png",
+            logo: "stations/images-america/c2c/kirksville_mo/98.7 KMGO.png",
             url: "https://us1.streamingpulse.com/ssl/987Kmgo"
         },
         {
             name: "KMEM FM 100.5",
-            logo: "stations/images-america/0_general_logos/KMEM FM 100.5.png",
+            logo: "stations/images-america/c2c/kirksville_mo/KMEM FM 100.5.png",
             url: "https://securestreams3.autopo.st:1257/stream.mp3"
         },
         {
             name: "104.7 KRES",
-            logo: "stations/images-america/0_general_logos/104.7 KRES.png",
+            logo: "stations/images-america/c2c/kirksville_mo/104.7 KRES.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kresfmaac-ibc2"
         },
         {
@@ -33171,8 +33171,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2377/hls.m3u8"
         },
         {
-            name: "Hits 101.3",
-            logo: "stations/images-america/c2c/waco_tx/Hits 101.3.png",
+            name: "Cool 101.3",
+            logo: "stations/images-america/c2c/waco_tx/Cool 101.3.png",
             url: "https://ais-sa1.streamon.fm/7044_24k.aac"
         },
         {
