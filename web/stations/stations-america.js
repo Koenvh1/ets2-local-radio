@@ -14022,8 +14022,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2808/hls.m3u8"
         },
         {
-            name: "Christmas 94.5",
-            logo: "stations/images-america/c2c/panama_city_fl/Christmas 94.5.png",
+            name: "ROCK 94.5",
+            logo: "stations/images-america/c2c/panama_city_fl/ROCK 94.5.png",
             url: "https://stream.revma.ihrhls.com/zc4033/hls.m3u8"
         },
         {
