@@ -1583,7 +1583,7 @@ var stations = {
         {
             name: "iMix 104.5",
             logo: "stations/images-america/cheyenne/iMix 104.5.png",
-            url: "http://nebcoradio.com:1010/KIMX"
+            url: "http://nebcoradio.com:1010/KIMXFM"
         },
         {
             name: "104.9 KRRR",
@@ -4692,7 +4692,7 @@ var stations = {
         {
             name: "iMix 104.5",
             logo: "stations/images-america/cheyenne/iMix 104.5.png",
-            url: "http://nebcoradio.com:1010/KIMX"
+            url: "http://nebcoradio.com:1010/KIMXFM"
         },
         {
             name: "Hits 106",
