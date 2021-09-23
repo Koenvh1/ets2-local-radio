@@ -127,7 +127,7 @@ var stations = {
         {
             name: "KALQ 93.5",
             logo: "stations/images-america/alamosa/KALQ 93.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KALQFM"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KALQFM"
         },*/
         {
             name: "KYDN 95.3",
@@ -1247,7 +1247,7 @@ var stations = {
         {
             name: "Swag 93.5",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "93.9 The Lake",
@@ -1267,12 +1267,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KLCA"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KOLC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
@@ -1287,7 +1287,7 @@ var stations = {
         {
             name: "103.7 The River",
             logo: "stations/images-america/reno/103.7 The River.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KODS"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KODS"
         },
         {
             name: "Fun 105.1",
@@ -1302,7 +1302,7 @@ var stations = {
         {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KRNO"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "K-Tahoe 590",
@@ -2690,12 +2690,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KLCA"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KOLC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "Biggest Little Radio 101.3",
@@ -4030,8 +4030,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOBFMAAC_SC"
         },
         {
-            name: "KOOL 95.9",
-            logo: "stations/images-america/indio/KOOL 95.9.png",
+            name: "HOT 95.9",
+            logo: "stations/images-america/indio/HOT 95.9.png",
             url: "https://ice41.securenetsystems.net/KJJZ"
         },
         {
@@ -5633,12 +5633,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KLCA"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KOLC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
@@ -5658,12 +5658,12 @@ var stations = {
         {
             name: "103.7 The River",
             logo: "stations/images-america/reno/103.7 The River.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KODS"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KODS"
         },
         {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KRNO"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KRNO"
         },
     ],
     "ludlow": [
@@ -6723,7 +6723,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice42.securenetsystems.net/KOAI"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -6793,7 +6793,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice42.securenetsystems.net/KZCE"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice42.securenetsystems.net/KZCE"
         },
         {
             name: "LIVE 101.5",
@@ -6823,7 +6823,7 @@ var stations = {
         {
             name: "Mega 104.3",
             logo: "stations/images-america/phoenix/Mega 104.3.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice5.securenetsystems.net/KAJM"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice5.securenetsystems.net/KAJM"
         },
         {
             name: "104.7 KISS FM",
@@ -7673,12 +7673,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KLCA"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KOLC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "KWNK 97.7",
@@ -7733,7 +7733,7 @@ var stations = {
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "105.7 KOZZ",
@@ -7743,7 +7743,7 @@ var stations = {
         {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KRNO"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "La Mejor 107.3",
@@ -18353,7 +18353,7 @@ var stations_c2c = {
         {
             name: "100.7 Eagle Country",
             logo: "stations/images-america/c2c/greatbend_ks/100.7 Eagle Country.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KHOKFM2"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KHOKFM2"
         },
         {
             name: "B104.3",
@@ -18368,7 +18368,7 @@ var stations_c2c = {
         {
             name: "KVGB 1590",
             logo: "stations/images-america/c2c/greatbend_ks/KVGB 1590.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KVGBAM2"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KVGBAM2"
         },
     ],
     "hays": [
@@ -19141,7 +19141,7 @@ var stations_c2c = {
         {
             name: "WAKY 100.1",
             logo: "stations/images-america/c2c/louisville_ky/WAKY 100.1.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice7.securenetsystems.net/WAKY"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice7.securenetsystems.net/WAKY"
         },
         {
             name: "100.5FM",
@@ -22000,7 +22000,7 @@ var stations_c2c = {
         {
             name: "Minnesota 97.5",
             logo: "stations/images-america/c2c/rochester_mn/Minnesota 97.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=http://ice10.securenetsystems.net/KNXR"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KNXR"
         },
         {
             name: "Laser 101.7",
@@ -22959,7 +22959,7 @@ var stations_c2c = {
         {
             name: "95.1 Mike FM",
             logo: "stations/images-america/c2c/joplin_mo/95.1 Mike FM.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KMXL"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KMXL"
         },
         {
             name: "96.9 KKOW",
@@ -24408,8 +24408,8 @@ var stations_c2c = {
     ],
     "grand_island": [
         {
-            name: "NET 89.1",
-            logo: "stations/images-america/0_general_logos/NET.png",
+            name: "NPM 89.1",
+            logo: "stations/images-america/0_general_logos/NPM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
         },
         {
@@ -24475,8 +24475,8 @@ var stations_c2c = {
             url: "https://s8.yesstreaming.net:17004/krnu"
         },
         {
-            name: "NET 91.1",
-            logo: "stations/images-america/0_general_logos/NET.png",
+            name: "NPM 91.1",
+            logo: "stations/images-america/0_general_logos/NPM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
         },
         {
@@ -24584,8 +24584,8 @@ var stations_c2c = {
     ],
     "north_platte": [
         {
-            name: "NET 91.7",
-            logo: "stations/images-america/0_general_logos/NET.png",
+            name: "NPM 91.7",
+            logo: "stations/images-america/0_general_logos/NPM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
         },
         {
@@ -24596,12 +24596,12 @@ var stations_c2c = {
         {
             name: "Mix 97 One",
             logo: "stations/images-america/c2c/north_platte_ne/Mix 97 One.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KELN"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KELN"
         },
         {
             name: "FM 98.1",
             logo: "stations/images-america/c2c/north_platte_ne/FM 98.1.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KOOQ"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOOQ"
         },
         {
             name: "The Hawk 98.5",
@@ -24636,13 +24636,13 @@ var stations_c2c = {
         {
             name: "Q Country Classics 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/KNPQ"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KNPQ"
         },
     ],
     "ogallala_ne": [
         {
-            name: "NET 91.7",
-            logo: "stations/images-america/0_general_logos/NET.png",
+            name: "NPM 91.7",
+            logo: "stations/images-america/0_general_logos/NPM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
         },
         {
@@ -28799,7 +28799,7 @@ var stations_c2c = {
         {
             name: "POP 93.1",
             logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://ice10.securenetsystems.net/WQYX"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/WQYX"
         },
         {
             name: "Connect FM 96.7",
@@ -34815,7 +34815,50 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/wausau_wi/Sports Fan 1230.png",
             url: "http://68.117.118.162:8000/WXCO.MP3"
         },
-    ],
+    ],/*
+	##Great America##
+    "alliance_ne": [
+        {
+            name: "NPM 91.1",
+            logo: "stations/images-america/0_general_logos/NPM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+        {
+            name: "FM 92.5",
+            logo: "stations/images-america/great_america/alliance_ne/FM 92.5.png",
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KCOW"
+        },
+        {
+            name: "B94.7",
+            logo: "stations/images-america/great_america/alliance_ne/B94.7.png",
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KQSK"
+        },
+        {
+            name: "Radio 74 99.9",
+            logo: "stations/images-america/lakeview/Radio 74.png",
+            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
+        },
+        {
+            name: "My Bridge Radio 102.3",
+            logo: "stations/images-america/great_america/alliance_ne/My Bridge Radio 102.3.png",
+            url: "https://ais-sa1.streamon.fm/7069_64k.aac"
+        },
+        {
+            name: "Spirit Catholic Radio 103.9",
+            logo: "stations/images-america/great_america/alliance_ne/Spirit Catholic Radio 103.9.png",
+            url: "http://ice7.securenetsystems.net/KVSS"
+        },
+        {
+            name: "Double Q Country 105.9",
+            logo: "stations/images-america/great_america/alliance_ne/Double Q Country 105.9.png",
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KAAQ"
+        },
+        {
+            name: "Power 107.1",
+            logo: "stations/images-america/c2c/rapid_city_sd/Power 107.1.png",
+            url: "https://ice9.securenetsystems.net/KSLT"
+        },
+    ],*/
 };
 
 var stations_canadream = {
@@ -35480,7 +35523,7 @@ var stations_canadream = {
         {
             name: "EZ Rock 91.5",
             logo: "stations/images-america/canada_promods/kamloops/EZ Rock 91.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
         },*/
         {
             name: "92.5 The X",
@@ -35500,7 +35543,7 @@ var stations_canadream = {
         {
             name: "K97.5",
             logo: "stations/images-america/canada_promods/kamloops/K97.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://newcap.leanstream.co/CKRVFM"
+            url: "http://freeplace.info/proxy/browse.php?u=http://newcap.leanstream.co/CKRVFM"
         },*/
         {
             name: "98.3 CIFM",
@@ -35567,7 +35610,7 @@ var stations_canadream = {
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada_promods/kelowna/Move 101.5.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
         },*/
         {
             name: "103.1 Beach Radio",
@@ -36803,7 +36846,7 @@ var stations_canadream = {
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada_promods/vancouver/94.5 Virgin Radio.png",
-            url: "https://tonernews.com/glype/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
+            url: "http://freeplace.info/proxy/browse.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
         },
         {
             name: "Z95.3",
