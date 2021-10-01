@@ -7686,8 +7686,8 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KKFT"
         },
         {
-            name: "100.1 The X",
-            logo: "stations/images-america/reno/100.1 The X.png",
+            name: "100.1 We FM",
+            logo: "stations/images-america/reno/100.1 We FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
@@ -9441,7 +9441,7 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "103.7 80s+",
+            name: "103.7 80s Plus",
             logo: "stations/images-america/san_francisco/103.7 80s+.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
@@ -10862,7 +10862,7 @@ var stations = {
         {
             name: "Balanced Rock 97.5",
             logo: "stations/images-america/twin_falls/Balanced Rock 97.5.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://ice9.securenetsystems.net/KXTAAM"
+            url: "http://freeplace.info/proxy/browse.php?u=https://ice9.securenetsystems.net/KXTAAM"
         },*/
         {
             name: "98.3 The Snake",
@@ -13833,11 +13833,6 @@ var stations_c2c = {
             name: "WQCS 88.9-HD3",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/WQCS 88.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQCSFM_HD3_SC"
-        },
-        {
-            name: "WJFP 91.1",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/WJFP 91.1.png",
-            url: "https://ice23.securenetsystems.net/WJFP"
         },
         {
             name: "Real Radio 92.1",
@@ -20953,12 +20948,12 @@ var stations_c2c = {
             name: "Nash Icon 93.1-HD2",
             logo: "stations/images-america/c2c/detroit_mi/Nash Icon 93.1-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRQHD2AAC_SC"
-        },/*
+        },
         {
             name: "The Roar 93.5",
             logo: "stations/images-america/c2c/detroit_mi/The Roar 93.5.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCSXHD2AAC_SC"
-        },*/
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCSX_HD2AAC_SC"
+        },
         {
             name: "93.9 Virgin Radio",
             logo: "stations/images-america/c2c/detroit_mi/93.9 Virgin Radio.png",
@@ -22008,13 +22003,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4459/hls.m3u8"
         },
         {
-            name: "103.9 The Doc",
-            logo: "stations/images-america/c2c/rochester_mn/103.9 The Doc.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kdocfmaac-ibc3"
-        },
-        {
-            name: "Fun 104.3",
-            logo: "stations/images-america/c2c/rochester_mn/Fun 104.3.png",
+            name: "Fun 104",
+            logo: "stations/images-america/c2c/rochester_mn/Fun 104.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kfnlfmaac-ibc3"
         },
         {
@@ -33621,11 +33611,6 @@ var stations_c2c = {
             name: "FM99",
             logo: "stations/images-america/c2c/norfolk_va/FM99.png",
             url: "https://live.wostreaming.net/manifest/saga-wnorfmaac-ibc1"
-        },
-        {
-            name: "Joy FM 98.7-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/Joy FM 98.7-HD2.png",
-            url: "https://live.wostreaming.net/manifest/saga-wjoiamaac-ibc1"
         },
         {
             name: "HOT 100",
