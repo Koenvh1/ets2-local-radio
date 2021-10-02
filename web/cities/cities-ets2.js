@@ -9801,6 +9801,14 @@ var cities_tsm = [
         "z": "64601.2"
     },
     {
+        "gameName": "rhodes",
+        "realName": "rhodes",
+        "country": "greece",
+        "x": "74722.0",
+        "y": "4.0988",
+        "z": "74684"
+    },
+    {
         "gameName": "salamanca",
         "realName": "Salamanca",
         "country": "spain",
