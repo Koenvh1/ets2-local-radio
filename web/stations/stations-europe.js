@@ -1,5 +1,27 @@
 //window.open("http:" + TuneIn.payload.Station.broadcast.StreamUrl)
 var stations = {
+    "afghanistan": [
+        {
+            name: "Radio Ariana",
+            logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hcqeBFJErjbCPCvZkZP-uRj1oxUZFePZew&usqp=CAU",
+            url: "https://streams.radio.co/sa3345aaa8/listen?listening-from-radio-garden=1630622764"
+        },
+        {
+            name: "Radio Azadi",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/agxm36sbtbaa.png",
+            url: "https://n13.radiojar.com/bzbzqgcpn3quv?download=1&rj-tok=AAABe7tGkW4AdVohkPQI4c_Xww&rj-ttl=5"
+        },
+        {
+            name: "Afghanistan Ghag Radio",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/e5uknbkysclh.jpeg",
+            url: "http://139.162.54.229:8000/stream/;"
+        },
+        {
+            name: "Shamshad FM",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/r3TRSNsBeA.jpg",
+            url: "http://nl1.streamingpulse.com:7080/stream"
+        },
+    ],
     "aland": [
         {
             name: "Ålands Radio",
@@ -172,6 +194,13 @@ var stations = {
             name: "WELLE 1",
             logo: "stations/images-europe/austria/Welle 1.png",
             url: "https://live.welle1.at:19000/live"
+        },
+    ],
+    "azerbaijan": [
+        {
+            name: "Radio Respublika",
+            logo: "https://cdn.onlineradiobox.com/img/l/8/43228.v13.png",
+            url: "http://85.132.27.212:8888/azradio?listening-from-radio-garden=1623511483141"
         },
     ],
     "basque": [
@@ -2281,6 +2310,18 @@ var stations = {
             url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
+    "greenland": [
+        {
+            name: "Kalaallit Nunaata Radioa",
+            logo: "https://liveonlineradio.net/wp-content/uploads/2015/07/KNR-Radio.jpg",
+            url: "https://ice.cr5.streamzilla.xlcdn.com:8000/sz=knr=audio192?token=d196a16ae5b0fd0940bde4e012360abd&time=60997aa7"
+        },
+        {
+            name: "Ice FM 95.3",
+            logo: "https://liveonlineradio.net/wp-content/uploads/2018/10/ice-fm-220x108.jpg",
+            url: "http://media.limfjordnetradio.dk/icefm"
+        },
+    ],   
     "hungary": [
         {
             name: "MR1-Kossuth Rádió",
@@ -2910,6 +2951,33 @@ var stations = {
             url: "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
         },
     ],
+    "malta": [
+        {
+            name: "Radju Malta",
+            logo: "https://assets.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/logo-radju-malta.png",
+            url: "https://s38.myradiostream.com/6982/;?type=http&nocache=1619347324?0.6518953434272927"
+        },
+        {
+            name: "Radju Malta 2",
+            logo: "https://assets.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/logo-radju-malta-2.png",
+            url: "https://s11.myradiostream.com/4954/;?type=http&nocache=1619347096?0.9089565644623254"
+        },
+        {
+            name: "Magic Malta",
+            logo: "https://assets.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/logo-magic-malta.png",
+            url: "https://s46.myradiostream.com/:6076/;?type=http&nocache=1619347452?0.07365943075758064"
+        },
+        {
+            name: "Radju Marija",
+            logo: "https://radjumarija.org/wp-content/uploads/2020/08/radju-marija-logo-250x63.png",
+            url: "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream"
+        },
+        {
+            name: "89.7 Bay FM",
+            logo: "https://media-exp1.licdn.com/dms/image/C4D0BAQH5GlBlHFbSOQ/company-logo_200_200/0/1612193399341?e=2159024400&v=beta&t=jWQ-UPxweEw3X8L-paku8K-1IqwL7LXM7yCWV5tnIms",
+            url: "https://stream.v3.network:18022/;stream.mp3?_=1"
+        },
+    ],    
     "mnegro": [
         {
             name: "RCG",
@@ -3183,6 +3251,13 @@ var stations = {
             url: "http://tx.sharp-stream.com/http_live.php?i=qr967.mp3&device=rpweb"
         },
     ],
+    "nkorea": [
+        {
+            name: "Pyongyang Radio",
+            logo: "https://i.ytimg.com/vi/NZ4BR4CX-Fk/hqdefault.jpg",
+            url: "https://listen7.myradio24.com/69366"
+        },
+    ],    
     "norway": [
         {
             name: "NRK P1",
@@ -3892,6 +3967,28 @@ var stations = {
             url: "https://live.radio.si/Veseljak"
         },
     ],
+    "skorea": [
+        {
+            name: "SBS Radio",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uCLZMDDnbs.png",
+            url: "http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/playlist.m3u8"
+        },
+        {
+            name: "Box Radio - KPop",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/9trz2jrmqvcq.png",
+            url: "https://boxradio-edge-00.streamafrica.net/kpop"
+        },
+        {
+            name: "Radio Seoul",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/NDBTGjVj9y.png",
+            url: "http://radio2.koreatimes.com:8080/radioseoul"
+        },
+        {
+            name: "Arirang Radio",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/XjsGxwjyqW.png",
+            url: "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        },
+     ],
     "spain": [
         {
             name: "RNE Radio Nacional",
@@ -4464,6 +4561,23 @@ var stations = {
             url: "https://streaming.smartradio.ch:8502/stream"
         },
     ],
+    "sudan": [
+        {
+            name: "Radio Sawa",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wjeln9ymtlme.png",
+            url: "http://n0f.radiojar.com/yx0q47hna3quv?rj-ttl=5&rj-tok=AAABed3opeMAHzs8Qd7oE-2KqA"
+        },
+        {
+            name: "Hala Radio (Sudan)",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gt54ujnj86nz.png",
+            url: "http://108.61.34.50:7026/stream"
+        },
+        {
+            name: "Capital Radio (Sudan)",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/j3pgn26ueh2l.png",
+            url: "http://198.245.61.161:8642/stream"
+        },
+    ],
     "syria": [
         {
             name: "اذاعة دمشق",
@@ -4728,6 +4842,28 @@ var stations = {
             name: "Yön Radyo",
             logo: "stations/images-europe/turkey/Yön Radyo.png",
             url: "https://stream.radyolarburada.com/radio/8020/yonradyo"
+        },
+    ],
+    "turkmenistan": [
+        {
+            name: "Watan Radio",
+            logo: "https://turkmentv.gov.tm/static/img/radio/watan.jpg",
+            url: "https://radio.telecom.tm/watan.mp3"
+        },
+        {
+            name: "Radio Çar Tarapdan",
+            logo: "https://turkmentv.gov.tm/static/img/radio/char.jpg",
+            url: "https://radio.telecom.tm/tarap.mp3"
+        },
+        {
+            name: "Radio Miras",
+            logo: "https://turkmentv.gov.tm/static/img/radio/miras.jpg",
+            url: "https://radio.telecom.tm/miras.mp3"
+        },
+        {
+            name: "Radio Owaz",
+            logo: "https://turkmentv.gov.tm/static/img/radio/owaz.jpg",
+            url: "https://radio.telecom.tm/owaz.mp3"
         },
     ],
     "uk": [
