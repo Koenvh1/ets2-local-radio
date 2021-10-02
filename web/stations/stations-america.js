@@ -28039,8 +28039,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYFMFMAAC_SC"
         },
         {
-            name: "Z104",
-            logo: "stations/images-america/c2c/youngstown_oh/Z104.png",
+            name: "Christmas 104",
+            logo: "stations/images-america/c2c/youngstown_oh/Z104_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWIZFMAAC_SC"
         },
         {
@@ -33270,9 +33270,24 @@ var stations_c2c = {
     ],
     "burlington_vt": [
         {
+            name: "NCPR 88.1",
+            logo: "stations/images-america/0_general_logos/NCPR.png",
+            url: "https://ncpr-ice.streamguys1.com/ncpr-96k.mp3"
+        },
+        {
+            name: "Family Radio 89.3",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+        },
+        {
             name: "90.1 WRUV",
             logo: "stations/images-america/c2c/burlington_vt/90.1 WRUV.png",
             url: "http://icecast.uvm.edu:8005/wruv_fm_128"
+        },
+        {
+            name: "The Light 91.5",
+            logo: "stations/images-america/c2c/burlington_vt/The Light 91.5.png",
+            url: "http://cmi.streamguys1.com/live"
         },
         {
             name: "92.5 The Mike",
@@ -33285,6 +33300,26 @@ var stations_c2c = {
             url: "http://crystalout.surfernetwork.com:8001/WEZF_MP3"
         },
         {
+            name: "‎The Point 93.7",
+            logo: "stations/images-america/c2c/lebanon_nh/The Point 107.7.png",
+            url: "https://nebcoradio.com:8443/WNCS"
+        },
+        {
+            name: "Air1 94.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "95.5 Triple X",
+            logo: "stations/images-america/c2c/burlington_vt/95.5 Triple X.png",
+            url: "https://crystalout.surfernetwork.com:8001/WXXX-FM_MP3"
+        },
+        {
+            name: "WDEV 96.1",
+            logo: "stations/images-america/c2c/burlington_vt/WDEV 96.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDEVFMAAC_SC"
+        },
+        {
             name: "96.3 WVMT",
             logo: "stations/images-america/c2c/burlington_vt/96.3 WVMT.png",
             url: "http://crystalout.surfernetwork.com:8001/WVMT-AM_MP3"
@@ -33295,10 +33330,20 @@ var stations_c2c = {
             url: "http://crystalout.surfernetwork.com:8001/WXZO_MP3"
         },
         {
+            name: "97.1 The Game",
+            logo: "stations/images-america/c2c/burlington_vt/97.1 The Game.png",
+            url: "https://crystalout.surfernetwork.com:8001/WCPV_MP3"
+        },
+        {
             name: "Eagle Country 97.5",
             logo: "stations/images-america/c2c/burlington_vt/Eagle Country 97.5.png",
             url: "http://crystalout.surfernetwork.com:8001/WTNN_MP3"
-        },
+        },/*
+        {
+            name: "97.9 WXMS",
+            logo: "stations/images-america/c2c/burlington_vt/-------.png",
+            url: "tbd"
+        },*/
         {
             name: "98.9 The Big Station",
             logo: "stations/images-america/c2c/burlington_vt/98.9 The Big Station.png",
