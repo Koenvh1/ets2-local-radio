@@ -8732,6 +8732,116 @@ var cities_greatamerica = [
     }
 ];
 
+var country_properties_caribbean = {
+    "freeport": {
+        name: "Freeport",
+        name_english: "Freeport",
+        code: "bs",
+        relative_radius: 0.5
+    },
+    "guantanamo_bay": {
+        name: "Yankton",
+        name_english: "Guantanamo Bay",
+        code: "us-gb",
+        relative_radius: 0.5
+    },
+    "havana": {
+        name: "Havana",
+        name_english: "Havana",
+        code: "cu",
+        relative_radius: 0.8
+    },
+    "kingston": {
+        name: "Kingston",
+        name_english: "Kingston",
+        code: "jm",
+        relative_radius: 0.6
+    },
+    "nassau": {
+        name: "Nassau",
+        name_english: "Nassau",
+        code: "bs",
+        relative_radius: 0.6
+    },
+    "oranjestad": {
+        name: "Oranjestad",
+        name_english: "Oranjestad",
+        code: "aw",
+        relative_radius: 0.5
+    },
+};
+
+var city_properties_caribbean = {
+    "freeport": {
+        relative_whitenoise: 0.85
+    },
+    "guantanamo_bay": {
+        relative_whitenoise: 0.85
+    },
+    "havana": {
+        relative_whitenoise: 0.85
+    },
+    "kingston": {
+        relative_whitenoise: 0.85
+    },
+    "nassau": {
+        relative_whitenoise: 0.85
+    },
+    "oranjestad": {
+        relative_whitenoise: 0.85
+    },
+};
+
+var cities_caribbean = [
+    {
+      "gameName": "freeport",
+      "realName": "Freeport",
+      "country": "bahamas",
+      "x": "88350.9",
+      "y": "23.4512",
+      "z": "62912.5"
+    },
+    {
+      "gameName": "guantanamo_bay",
+      "realName": "Guantanamo Bay",
+      "country": "guantanamo_bay",
+      "x": "115113",
+      "y": "70",
+      "z": "97014.4"
+    },
+    {
+      "gameName": "havana",
+      "realName": "Havana",
+      "country": "cuba",
+      "x": "72902.3",
+      "y": "138.711",
+      "z": "85783.6"
+    },
+    {
+      "gameName": "kingston",
+      "realName": "Kingston",
+      "country": "jamaica",
+      "x": "108606",
+      "y": "60",
+      "z": "110186"
+    },
+    {
+      "gameName": "nassau",
+      "realName": "Nassau",
+      "country": "bahamas",
+      "x": "96750.8",
+      "y": "39.375",
+      "z": "69835.9"
+    },
+    {
+      "gameName": "oranjestad",
+      "realName": "Oranjestad",
+      "country": "aruba",
+      "x": "155584",
+      "y": "65",
+      "z": "133214"
+    },
+];
 country_properties = $.extend(country_properties, country_properties_mexico);
 city_properties = $.extend(city_properties, city_properties_mexico);
 cities = cities.concat(cities_mexico);
@@ -8760,6 +8870,11 @@ cities = cities.concat(cities_canadream);
 country_properties = $.extend(country_properties, country_properties_greatamerica);
 city_properties = $.extend(city_properties, city_properties_greatamerica);
 cities = cities.concat(cities_greatamerica);
+
+//Uncomment the lines below to enable Terra Maps Caribbean
+country_properties = $.extend(country_properties, country_properties_caribbean);
+city_properties = $.extend(city_properties, city_properties_caribbean);
+cities = cities.concat(cities_caribbean);
 
 //Set country to gameName, because stations are bound to a city.
 for (var i = 0; i < cities.length; i++) {

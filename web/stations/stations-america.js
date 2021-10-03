@@ -38320,7 +38320,253 @@ var stations_greatamerica = {
     ],
 };
 
+var stations_caribbean = {
+    "freeport": [
+        {
+            name: "Global 99.5",
+            logo: "stations/images-america/caribbean/nassau/Global 99.5.png",
+            url: "https://ice66.securenetsystems.net/GLOBALFP"
+        },
+    ],
+    "guantanamo_bay": [
+        {
+            name: "Radio Baracoa 90.1",
+            logo: "stations/images-america/caribbean/guantanamo_bay/Radio Baracoa 90.1.png",
+            url: "https://icecast.teveo.cu/srfcdPC7"
+        },
+        {
+            name: "Radio Guantánamo 95.5",
+            logo: "stations/images-america/caribbean/guantanamo_bay/Radio Guantánamo 91.5.png",
+            url: "https://icecast.teveo.cu/Csb3zdfv"
+        },
+        {
+            name: "Radio Músical Nacional 98.5",
+            logo: "stations/images-america/caribbean/havana/Radio Músical Nacional 99.1.png",
+            url: "https://icecast.teveo.cu/Nbtz7HT3"
+        },
+        {
+            name: "Habana Radio 101.9",
+            logo: "stations/images-america/caribbean/havana/Habana Radio 106.9.png",
+            url: "http://media.ohc.cu/habanaradio"
+        },
+        {
+            name: "AFN Guantanamo Bay 102.1",
+            logo: "stations/images-america/caribbean/guantanamo_bay/AFN Guantanamo Bay 102.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC"
+        },
+        {
+            name: "Radio Bahía 104.3",
+            logo: "stations/images-america/caribbean/guantanamo_bay/Radio Bahía 104.3.png",
+            url: "https://icecast.teveo.cu/PKWhw37L"
+        },
+        {
+            name: "Radio Taíno 105.1",
+            logo: "stations/images-america/caribbean/havana/Radio Taíno 93.3.png",
+            url: "https://icecast.teveo.cu/3MCwWg3V"
+        },
+    ],
+    "havana": [
+        {
+            name: "Radio Progreso 90.3",
+            logo: "stations/images-america/caribbean/havana/Radio Progreso 90.3.png",
+            url: "https://icecast.teveo.cu/XjfW7qWN"
+        },
+        {
+            name: "Radio COCO 91.7",
+            logo: "stations/images-america/caribbean/havana/Radio COCO 91.7.png",
+            url: "https://icecast.teveo.cu/fvc4RVRz"
+        },
+        {
+            name: "WEOW 92.7",
+            logo: "stations/images-america/c2c/key_west_fl/WEOW 92.7.png",
+            url: "https://ice42.securenetsystems.net/WEOW"
+        },
+        {
+            name: "Radio Ciudad de La Habana 94.7",
+            logo: "stations/images-america/caribbean/havana/Radio Ciudad de La Habana 94.7.png",
+            url: "https://icecast.teveo.cu/g73XCjCH"
+        },
+        {
+            name: "Radio Taíno 93.3",
+            logo: "stations/images-america/caribbean/havana/Radio Taíno 93.3.png",
+            url: "https://icecast.teveo.cu/3MCwWg3V"
+        },
+        {
+            name: "Radio Enciclopedia 94.1",
+            logo: "stations/images-america/caribbean/havana/Radio Enciclopedia 94.1.png",
+            url: "https://icecast.teveo.cu/9Rnrbjzq"
+        },
+        {
+            name: "Radio Rebelde 96.7",
+            logo: "stations/images-america/caribbean/havana/Radio Rebelde 96.7.png",
+            url: "https://icecast.teveo.cu/zrXXWK9F"
+        },
+        {
+            name: "Radio Metropolitana 98.3",
+            logo: "stations/images-america/caribbean/havana/Radio Metropolitana 98.3.png",
+            url: "https://icecast.teveo.cu/ktW3mW74"
+        },
+        {
+            name: "Radio Músical Nacional 99.1",
+            logo: "stations/images-america/caribbean/havana/Radio Músical Nacional 99.1.png",
+            url: "https://icecast.teveo.cu/Nbtz7HT3"
+        },
+        {
+            name: "WAIL 99.5",
+            logo: "stations/images-america/c2c/key_west_fl/WAIL 99.5.png",
+            url: "https://ice42.securenetsystems.net/WAIL"
+        },
+        {
+            name: "Radio Cadena Habana 99.9",
+            logo: "stations/images-america/caribbean/havana/Radio Cadena Habana 99.9.png",
+            url: "https://icecast.teveo.cu/Jdq3Rbrg"
+        },
+        {
+            name: "Radio Reloj 101.5",
+            logo: "stations/images-america/caribbean/havana/Radio Reloj 101.5.png",
+            url: "https://icecast.teveo.cu/b3jbfThq"
+        },
+        {
+            name: "Radio Habana Cuba 102.5",
+            logo: "stations/images-america/caribbean/havana/Radio Habana Cuba 102.5.png",
+            url: "https://icecast.teveo.cu/McW3fLhs"
+        },
+        {
+            name: "Radio Mayabeque 104.7",
+            logo: "stations/images-america/caribbean/havana/Radio Mayabeque 104.7.png",
+            url: "https://icecast.teveo.cu/Rsrm7P9h"
+        },
+        {
+            name: "Habana Radio 106.9",
+            logo: "stations/images-america/caribbean/havana/Habana Radio 106.9.png",
+            url: "http://media.ohc.cu/habanaradio"
+        },
+    ],
+    "kingston": [
+        {
+            name: "NPM 91.1",
+            logo: "stations/images-america/0_general_logos/NPM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+    ],
+    "nassau": [
+        {
+            name: "WORD 88.3",
+            logo: "stations/images-america/caribbean/nassau/WORD 88.3.png",
+            url: "https://ais-sa1.streamon.fm/7013_64k.aac"
+        },
+        {
+            name: "HOT 91.7",
+            logo: "stations/images-america/caribbean/nassau/HOT 91.7.png",
+            url: "https://stream.zeno.fm/643udufw1ceuv"
+        },
+        {
+            name: "92.5 Bahamian or Nuttin",
+            logo: "stations/images-america/caribbean/nassau/92.5 Bahamian or Nuttin.png",
+            url: "https://s2.reliastream.com/proxy/rumcayme?mp=/stream"
+        },
+        {
+            name: "Glory FM 93.9",
+            logo: "stations/images-america/caribbean/nassau/Glory FM 93.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC173_SC"
+        },
+        {
+            name: "More 94 FM",
+            logo: "stations/images-america/caribbean/nassau/More 94 FM.png",
+            url: "http://icecast.more94fm.com:8000/more94.ogg"
+        },
+        {
+            name: "KISS 96",
+            logo: "stations/images-america/caribbean/nassau/KISS 96.png",
+            url: "https://ice42.securenetsystems.net/96KISSFM"
+        },
+        {
+            name: "Guardian Radio 96.9",
+            logo: "stations/images-america/caribbean/nassau/Guardian Radio 96.9.png",
+            url: "https://58ecba5577693.streamlock.net/tngr969fm/tngr969fm-64kbps_stream/playlist.m3u8"
+        },
+        {
+            name: "Love 97.5",
+            logo: "stations/images-america/caribbean/nassau/Love 97.5.png",
+            url: "http://radiocdn1.streamcomedia.com:5670/love975fm"
+        },
+        {
+            name: "Y98.7",
+            logo: "stations/images-america/caribbean/nassau/Y98.7.png",
+            url: "https://ice42.securenetsystems.net/Y98FM"
+        },
+        {
+            name: "Global 99.5",
+            logo: "stations/images-america/caribbean/nassau/Global 99.5.png",
+            url: "https://ice64.securenetsystems.net/GLOBALBS"
+        },
+        {
+            name: "100 Jamz",
+            logo: "stations/images-america/caribbean/nassau/100 Jamz.png",
+            url: "https://ice66.securenetsystems.net/100JAMZ"
+        },
+        {
+            name: "101.9 Joy FM",
+            logo: "stations/images-america/caribbean/nassau/101.9 Joy FM.png",
+            url: "https://ice42.securenetsystems.net/JOYFM242"
+        },
+        {
+            name: "BBN 102.3",
+            logo: "stations/images-america/caribbean/nassau/BBN 102.3.png",
+            url: "http://radiocdn1.streamcomedia.com:5670/tprb1023fm"
+        },
+        {
+            name: "Island 102.9",
+            logo: "stations/images-america/caribbean/nassau/Island 102.9.png",
+            url: "http://radiocdn1.streamcomedia.com:5670/island1029fm"
+        },
+        {
+            name: "103.5 The Beat",
+            logo: "stations/images-america/caribbean/nassau/103.5 The Beat.png",
+            url: "https://stream.radiojar.com/01d8c449cyduv"
+        },
+        {
+            name: "Power 104.5",
+            logo: "stations/images-america/caribbean/nassau/Power 104.5.png",
+            url: "http://159.89.224.85:9788/power1045fm"
+        },
+        {
+            name: "Star 106.5",
+            logo: "stations/images-america/caribbean/nassau/Star 106.5.png",
+            url: "http://184.154.43.106:8384/stream"
+        },
+        {
+            name: "Gospel 107",
+            logo: "stations/images-america/caribbean/nassau/Gospel 107.png",
+            url: "https://stream.zeno.fm/8145cb0nwtzuv"
+        },
+        {
+            name: "Peace 107.5",
+            logo: "stations/images-america/caribbean/nassau/Peace 107.5.png",
+            url: "https://listen.mixlr.com/20fed03c0e6cc697bedbcc985b84b8e2"
+        },
+        {
+            name: "Inspiration 107.9",
+            logo: "stations/images-america/caribbean/nassau/Inspiration 107.9.png",
+            url: "http://znsradiogroup.streamcomedia.com:9788/zns1079fm"
+        },
+        {
+            name: "The National Voice 1540",
+            logo: "stations/images-america/caribbean/nassau/The National Voice 1540.png",
+            url: "http://znsradiogroup.streamcomedia.com:9788/zns1540am"
+        },
+    ],
+    "oranjestad": [
+        {
+            name: "NPM 91.1",
+            logo: "stations/images-america/0_general_logos/NPM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+    ],
+};
+
 stations = $.extend(stations, stations_mexico);
 stations = $.extend(stations, stations_c2c);
 stations = $.extend(stations, stations_canadream);
+//stations = $.extend(stations, stations_caribbean);
 stations = $.extend(stations, stations_greatamerica);
