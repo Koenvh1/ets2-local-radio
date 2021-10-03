@@ -8740,7 +8740,7 @@ var country_properties_caribbean = {
         relative_radius: 0.5
     },
     "guantanamo_bay": {
-        name: "Yankton",
+        name: "Guantanamo Bay",
         name_english: "Guantanamo Bay",
         code: "us-gb",
         relative_radius: 0.5
