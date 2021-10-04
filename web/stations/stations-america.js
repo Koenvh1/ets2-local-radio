@@ -25213,8 +25213,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WTSSFMAAC_SC"
         },
         {
-            name: "WECK 102.9",
-            logo: "stations/images-america/c2c/buffalo_ny/WECK 102.9.png",
+            name: "BIG WECK 102.9",
+            logo: "stations/images-america/c2c/buffalo_ny/BIG WECK 102.9.png",
             url: "https://live.wostreaming.net/direct/radioonebuffalo-weckamaac-ibc3"
         },
         {
@@ -38323,9 +38323,39 @@ var stations_greatamerica = {
 var stations_caribbean = {
     "freeport": [
         {
+            name: "More 94 FM",
+            logo: "stations/images-america/caribbean/nassau/More 94 FM.png",
+            url: "http://icecast.more94fm.com:8000/more94.ogg"
+        },
+        {
+            name: "Love 97.5",
+            logo: "stations/images-america/caribbean/nassau/Love 97.5.png",
+            url: "http://radiocdn1.streamcomedia.com:5670/love975fm"
+        },
+        {
             name: "Global 99.5",
             logo: "stations/images-america/caribbean/nassau/Global 99.5.png",
             url: "https://ice66.securenetsystems.net/GLOBALFP"
+        },
+        {
+            name: "100 Jamz",
+            logo: "stations/images-america/caribbean/nassau/100 Jamz.png",
+            url: "https://ice66.securenetsystems.net/100JAMZ"
+        },
+        {
+            name: "Dove 103.7",
+            logo: "stations/images-america/caribbean/freeport/Dove 103.7.png",
+            url: "https://stream.zenolive.com/6pr08s3arfeuv"
+        },
+        {
+            name: "Power 104.5",
+            logo: "stations/images-america/caribbean/nassau/Power 104.5.png",
+            url: "http://159.89.224.85:9788/power1045fm"
+        },
+        {
+            name: "The National Voice 1540",
+            logo: "stations/images-america/caribbean/nassau/The National Voice 1540.png",
+            url: "http://znsradiogroup.streamcomedia.com:9788/zns1540am"
         },
     ],
     "guantanamo_bay": [
@@ -38444,9 +38474,119 @@ var stations_caribbean = {
     ],
     "kingston": [
         {
-            name: "NPM 91.1",
-            logo: "stations/images-america/0_general_logos/NPM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+            name: "Mello FM 88.1",
+            logo: "stations/images-america/caribbean/kingston/Mello FM 88.1.png",
+            url: "http://peridot.streamguys.com:5660/live"
+        },
+        {
+            name: "TBC Radio 88.5",
+            logo: "stations/images-america/caribbean/kingston/TBC Radio 88.5.png",
+            url: "https://live.wostreaming.net/direct/tbcradio-tbcradioaac-ibc1"
+        },
+        {
+            name: "KLAS Sports 89.9",
+            logo: "stations/images-america/caribbean/kingston/KLAS Sports 89.9.png",
+            url: "https://stream.zeno.fm/2vaypn80g3quv"
+        },
+        {
+            name: "Nationwide 90FM",
+            logo: "stations/images-america/caribbean/kingston/Nationwide 90FM.png",
+            url: "https://stream.zeno.fm/sx58ugee4s5tv"
+        },
+        {
+            name: "NCU 91.3",
+            logo: "stations/images-america/caribbean/kingston/NCU 91.3.png",
+            url: "https://stream.zeno.fm/n8fydg9gwuquv"
+        },
+        {
+            name: "Gospel JA fm 91.7",
+            logo: "stations/images-america/caribbean/kingston/Gospel JA fm 91.7.png",
+            url: "https://media.usamogul.com:7001/stream"
+        },
+        {
+            name: "Hitz 92",
+            logo: "stations/images-america/caribbean/kingston/Hitz 92.png",
+            url: "https://univradio.streamgates.net/univ_radio/rjrhit/playlist.m3u8"
+        },
+        {
+            name: "Newstalk 93 FM",
+            logo: "stations/images-america/caribbean/kingston/Newstalk 93 FM.png",
+            url: "https://newstalk93fm.radioca.st/stream"
+        },
+        {
+            name: "Radio Jamaica 94.1",
+            logo: "stations/images-america/caribbean/kingston/Radio Jamaica 94.1.png",
+            url: "https://stream.zeno.fm/rxzm1y9gwuquv"
+        },
+        {
+            name: "Fame 95 FM",
+            logo: "stations/images-america/caribbean/kingston/Fame 95 FM.png",
+            url: "https://stream.zeno.fm/1p1xshe85wquv"
+        },
+        {
+            name: "Roots 96.1",
+            logo: "stations/images-america/caribbean/kingston/Roots 96.1.png",
+            url: "https://stream.zeno.fm/efnv8ft3gd0uv"
+        },
+        {
+            name: "RFI Monde 96.5",
+            logo: "stations/images-america/caribbean/kingston/RFI Monde 96.5.png",
+            url: "https://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3"
+        },
+        {
+            name: "Energy FM 96.7",
+            logo: "stations/images-america/caribbean/kingston/Energy FM 96.7.png",
+            url: "https://stream.zeno.fm/yv3f0smu26duv"
+        },
+        {
+            name: "KOOL 97 FM",
+            logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
+            url: "https://listen.mixlr.com/8340e32445467406f57c33b027407ac2"
+        },
+        {
+            name: "Mega Jamz 98 FM",
+            logo: "stations/images-america/caribbean/kingston/Mega Jamz 98 FM.png",
+            url: "https://ice9.securenetsystems.net/MEGAJAMZ"
+        },
+        {
+            name: "Bes' 100 FM",
+            logo: "stations/images-america/caribbean/kingston/Bes' 100 FM.png",
+            url: "https://streamingv2.shoutcast.com/bes-100-fm"
+        },
+        {
+            name: "Love 101 FM",
+            logo: "stations/images-america/caribbean/kingston/Love 101 FM.png",
+            url: "https://stream.zeno.fm/webzstrtpy5tv"
+        },
+        {
+            name: "Riddim 102 FM",
+            logo: "stations/images-america/caribbean/kingston/Riddim 102 FM.png",
+            url: "https://stream.zeno.fm/z270ev93enruv"
+        },
+        {
+            name: "Zip 103 FM",
+            logo: "stations/images-america/caribbean/kingston/Zip 103 FM.png",
+            url: "https://stream.zeno.fm/30nm88cf2v8uv"
+        },
+        {
+            name: "BBC World Service 104.3",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+        },
+        {
+            name: "Fyah 105",
+            logo: "stations/images-america/caribbean/kingston/Fyah 105.png",
+            url: "http://live.str3am.com:9210/live.m3u"
+        },
+        {
+            name: "Power 106",
+            logo: "stations/images-america/caribbean/kingston/Power 106.png",
+            url: "http://stream.zeno.fm/kke12ee08wquv"
+        },
+        {
+            name: "Irie FM 107.9",
+            logo: "stations/images-america/caribbean/kingston/Irie FM 107.9.png",
+            url: "https://stream.zeno.fm/6zszyw9tarzuv"
         },
     ],
     "nassau": [
@@ -38558,9 +38698,99 @@ var stations_caribbean = {
     ],
     "oranjestad": [
         {
-            name: "NPM 91.1",
-            logo: "stations/images-america/0_general_logos/NPM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+            name: "Mega 88 FM",
+            logo: "stations/images-america/caribbean/oranjestad/Mega 88 FM.png",
+            url: "http://s5.voscast.com:10218/live"
+        },
+        {
+            name: "Bo Guia 88.9",
+            logo: "stations/images-america/caribbean/oranjestad/Bo Guia 88.9.png",
+            url: "http://whooshserver.net:9880/live"
+        },
+        {
+            name: "Canal 90",
+            logo: "stations/images-america/caribbean/oranjestad/Canal 90.png",
+            url: "http://198.245.51.58:10879/Canal90"
+        },
+        {
+            name: "Caliente 90.7",
+            logo: "stations/images-america/caribbean/oranjestad/Caliente 90.7.png",
+            url: "https://securestreams.eu:8003/live"
+        },
+        {
+            name: "Latina 92.3",
+            logo: "stations/images-america/caribbean/oranjestad/Latina 92.3.png",
+            url: "http://192.99.63.189:19075/latinatufm"
+        },
+        {
+            name: "Radio Victoria 93.1",
+            logo: "stations/images-america/caribbean/oranjestad/Radio Victoria 93.1.png",
+            url: "https://stream.zeno.fm/36728pv3tk8uv"
+        },
+        {
+            name: "HIT 94",
+            logo: "stations/images-america/caribbean/oranjestad/HIT 94.png",
+            url: "http://162.244.80.20:8490/;stream.mp3"
+        },
+        {
+            name: "Top 95",
+            logo: "stations/images-america/caribbean/oranjestad/Top 95.png",
+            url: "http://198.245.51.58:10995/topfm"
+        },
+        {
+            name: "Magic 96.5",
+            logo: "stations/images-america/caribbean/oranjestad/Magic 96.5.png",
+            url: "http://158.69.114.190:8072/;"
+        },
+        {
+            name: "easy 97.9",
+            logo: "stations/images-america/caribbean/oranjestad/easy 97.9.png",
+            url: "http://96.31.83.86:8134/;stream.mp3"
+        },
+        {
+            name: "Cool FM 98.9",
+            logo: "stations/images-america/caribbean/oranjestad/Cool FM 98.9.png",
+            url: "https://live2.tensila.com/cool-v-1.arubara/hls/live/mystream.m3u8"
+        },
+        {
+            name: "GFM 99.9",
+            logo: "stations/images-america/caribbean/oranjestad/GFM 99.9.png",
+            url: "https://securestreams5.autopo.st:1922/;"
+        },
+        {
+            name: "Hits 100",
+            logo: "stations/images-america/caribbean/oranjestad/Hits 100.png",
+            url: "https://streams.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e"
+        },
+        {
+            name: "Power 101.7",
+            logo: "stations/images-america/caribbean/oranjestad/Power 101.7.png",
+            url: "http://38.96.148.28:11832/stream?type=.mp3"
+        },
+        {
+            name: "Massive 103.5",
+            logo: "stations/images-america/caribbean/oranjestad/Massive 103.5.png",
+            url: "https://streamklik.com/radio/8000/massive.mp3"
+        },
+        {
+            name: "Fresh FM 104.3",
+            logo: "stations/images-america/caribbean/oranjestad/Fresh FM 104.3.png",
+            url: "http://www.fresharuba.com:8006/;"
+        },
+        {
+            name: "Heart Radio 106.7",
+            logo: "stations/images-america/caribbean/oranjestad/Heart Radio 106.7.png",
+            url: "https://live2.tensila.com/heart-v-1.heartar/hls/master.m3u8"
+        },
+        {
+            name: "Blue FM 107.5",
+            logo: "stations/images-america/caribbean/oranjestad/Blue FM 107.5.png",
+            url: "https://s31.myradiostream.com/7384/listen.mp3"
+        },
+        {
+            name: "Radio Z86",
+            logo: "stations/images-america/caribbean/oranjestad/Radio Z86.png",
+            url: "https://ott.streann.com/loadbalancer/services/web-players/radios-reseller-secure/5b059db22cdc3216615630d8/edbab57d-6c24-4435-b6ad-68b601779dfa/osd1scm8rpretuqej90ae0frpt/5afb60fe2cdc911600aff6c5/playlist.m3u8"
         },
     ],
 };
@@ -38568,5 +38798,5 @@ var stations_caribbean = {
 stations = $.extend(stations, stations_mexico);
 stations = $.extend(stations, stations_c2c);
 stations = $.extend(stations, stations_canadream);
-//stations = $.extend(stations, stations_caribbean);
+stations = $.extend(stations, stations_caribbean);
 stations = $.extend(stations, stations_greatamerica);

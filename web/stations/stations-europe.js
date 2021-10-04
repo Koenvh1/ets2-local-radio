@@ -2283,34 +2283,59 @@ var stations = {
     ],
     "hungary": [
         {
-            name: "MR1-Kossuth Rádió",
-            logo: "stations/images-europe/hungary/MR1-Kossuth Rádió.jpg",
-            url: "http://icast.connectmedia.hu/4726/mr1ex.mp3"
+            name: "Kossuth Rádió",
+            logo: "stations/images-europe/hungary/Kossuth Rádió.png",
+            url: "https://icast.connectmedia.hu/4726/mr1ex.mp3"
         },
         {
-            name: "MR2-Petofi Rádió",
-            logo: "stations/images-europe/hungary/MR2-Petofi Rádió.jpeg",
-            url: "http://icast.connectmedia.hu/4738/mr2.mp3"
+            name: "Petőfi Rádió",
+            logo: "stations/images-europe/hungary/Petőfi Rádió.png",
+            url: "https://mr-stream.connectmedia.hu/4738/mr2.mp3"
         },
         {
-            name: "MR3-Bartók Rádió",
-            logo: "stations/images-europe/hungary/MR3-Bartók Rádió.png",
-            url: "http://mr-stream.mediaconnect.hu/4741/mr3.mp3"
+            name: "Bartók Rádió",
+            logo: "stations/images-europe/hungary/Bartók Rádió.png",
+            url: "https://mr-stream.connectmedia.hu/4741/mr3.mp3"
         },
         {
-            name: "MR6-Dankó Rádió",
+            name: "Dankó Rádió",
             logo: "stations/images-europe/hungary/Dankó Rádió.png",
-            url: "http://icast.connectmedia.hu/4748/mr7.mp3"
+            url: "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
         },
         {
-            name: "Radio 1",
-            logo: "stations/images-europe/hungary/Radio 1.png",
-            url: "http://www.bytestorm.hu/radio1Stream/"
+            name: "Best FM",
+            logo: "stations/images-europe/hungary/Best FM.png",
+            url: "https://icast.connectmedia.hu/5101/live.mp3/"
+        },
+        {
+            name: "Karc FM",
+            logo: "stations/images-europe/hungary/Karc FM.png",
+            url: "https://karcfm.42netmedia.com:8443/karcfm-high"
+        },
+        {
+            name: "Magyar Katolikus Rádió",
+            logo: "stations/images-europe/hungary/Magyar Katolikus Rádió.png",
+            url: "https://katolikusradio.hu:8001/live_hi.mp3"
+        },
+        {
+            name: "Mária Rádió",
+            logo: "stations/images-europe/hungary/Mária Rádió.png",
+            url: "https://stream.mariaradio.hu:8000/mr"
+        },
+        {
+            name: "Rádió 1",
+            logo: "stations/images-europe/hungary/Rádió 1.png",
+            url: "https://icast.connectmedia.hu/5201/live.mp3"
         },
         {
             name: "Retro Rádió",
             logo: "stations/images-europe/hungary/Retro Rádió.png",
-            url: "http://stream.retroradio.hu/mid.mp3?time=1540043852?time=1540043885744"
+            url: "https://icast.connectmedia.hu/5001/live.mp3"
+        },
+        {
+            name: "Szent István Rádió",
+            logo: "stations/images-europe/hungary/Szent István Rádió.png",
+            url: "http://online.szentistvanradio.hu:7000/adas"
         },
     ],
     "iceland": [
@@ -3436,7 +3461,7 @@ var stations = {
         {
             name: "Cidade FM",
             logo: "stations/images-europe/portugal/Cidade FM.png",
-            url: "https://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8"
+            url: "https://media2.mcr.iol.pt/livefm/cidade/playlist.m3u8"
         },
         {
             name: "Mega Hits",
