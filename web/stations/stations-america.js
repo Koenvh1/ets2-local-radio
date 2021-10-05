@@ -142,7 +142,7 @@ var stations = {
         {
             name: "KZBR 97.1",
             logo: "stations/images-america/alamosa/KZBR 97.1.png",
-            url: "https://ice9.securenetsystems.net/KZBRFM"
+            url: "https://ice9.securenetsystems.net/KZBRFM?playSessionID=C706CB9E-449C-4C47-A5202F0CF156933F"
         },*/
         {
             name: "KSPK 100.3",
@@ -6656,9 +6656,29 @@ var stations = {
             url: "https://stream.pulseradio.fm/goldmineradiomp3"
         },
         {
+            name: "K-LOVE 89.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "K-BACH 89.5",
             logo: "stations/images-america/phoenix/K-BACH 89.5.png",
             url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
+        },
+        {
+            name: "Radio Bilingue 89.5-HD2",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "Sounds of Arizona 89.5-HD3",
+            logo: "stations/images-america/phoenix/Sounds of Arizona 89.5-HD3.png",
+            url: "https://kjzz.streamguys1.com/sunsounds_aac_256"
+        },
+        {
+            name: "Family Life Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
         },
         {
             name: "KJZZ 91.5",
@@ -6706,8 +6726,13 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOOLFMAAC_SC"
         },
         {
-            name: "Your '70s Playlist 94.5-HD2",
-            logo: "stations/images-america/phoenix/Your '70s Playlist 94.5-HD2.png",
+            name: "Roq of the 80s 94.5-HD2",
+            logo: "stations/images-america/los_angeles/Roq of the 80s 106.7-HD2.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KROQHD2AAC_SC"
+        },
+        {
+            name: "Your '70s Playlist 94.5-HD3",
+            logo: "stations/images-america/phoenix/Your '70s Playlist 94.5-HD3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOOLHD3AAC_SC"
         },
         {
@@ -6796,6 +6821,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUHD2AAC_SC"
         },
         {
+            name: "CBS Sports Radio 101.5-HD3",
+            logo: "stations/images-america/0_general_logos/CBS Sports Radio.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTSAAC_SC"
+        },
+        {
             name: "La Campesina 101.9",
             logo: "stations/images-america/phoenix/La Campesina 101.9.png",
             url: "https://ice9.securenetsystems.net/KNAI"
@@ -6846,8 +6876,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
         },
         {
-            name: "New From Nashville 107.9-HD2",
-            logo: "stations/images-america/phoenix/New From Nashville 107.9-HD2.png",
+            name: "Leading Ladies 107.9-HD2",
+            logo: "stations/images-america/phoenix/Leading Ladies 107.9-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEHD2AAC_SC"
         },
         {
@@ -10731,6 +10761,11 @@ var stations = {
             name: "Slow Jams 98.3-HD2",
             logo: "stations/images-america/0_general_logos/Slow Jams.png",
             url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
+        },
+        {
+            name: "KJZZ 98.9",
+            logo: "stations/images-america/phoenix/KJZZ 91.5.png",
+            url: "http://kjzz.streamguys1.com:80/kjzz_mp3_128"
         },
         {
             name: "99.1 Downtown Radio",
