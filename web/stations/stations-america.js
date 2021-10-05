@@ -12363,6 +12363,11 @@ var stations_mexico = {
             name: "La Mejor 102.7 FM",
             logo: "stations/images-america/mexico/sinaloa/mejor.png",
             url: "https://sp3.servidorrprivado.com:10968/stream?type=http&nocache=646"
+        },
+        {
+            name: "LA LUPE 92.1 FM",
+            logo: "stations/images-america/mexico/sinaloa/lupe.png",
+            url: "https://radio.urbansa.com/station"
         },        
     ],
     "culiacan": [
@@ -12453,6 +12458,11 @@ var stations_mexico = {
             name: "Ke Buena",
             logo: "stations/images-america/mexico/sinaloa/buena.png",
             url: "http://grupochavezradio.com/radio/spots/102.mp3"
+        },
+        {
+            name: "Radio Variedades",
+            logo: "stations/images-america/mexico/sinaloa/variedades.png",
+            url: "http://c2009.streamguys1.com/Mochis3"
         },          
     ],
     "guasave": [
