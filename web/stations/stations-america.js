@@ -8766,7 +8766,7 @@ var stations_mexico = {
             name: "La Mejor 102.7 FM",
             logo: "stations/images-america/mexico/sinaloa/mejor.png",
             url: "https://sp3.servidorrprivado.com:10968/stream?type=http&nocache=646"
-        },         
+        },        
     ],
     "culiacan": [
         {
@@ -8868,6 +8868,11 @@ var stations_mexico = {
             name: "La GS",
             logo: "stations/images-america/mexico/sinaloa/gs.png",
             url: "http://grupochavezradio.com/radio/spots/106.mp3"
+        },
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "https://24273.live.streamtheworld.com/KEBUENAAAC.aac"
         },      
     ],
 };
