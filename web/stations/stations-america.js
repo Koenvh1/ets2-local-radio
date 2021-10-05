@@ -10080,6 +10080,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFC_FM_SC"
         },
         {
+            name: "92.5 Classic Hits",
+            logo: "stations/images-america/spokane/92.5 Classic Hits.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVNIAMAAC_SC"
+        },
+        {
             name: "92.9 ZZU",
             logo: "stations/images-america/spokane/92.9 ZZU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZZUFMAAC_SC"
@@ -38791,6 +38796,18 @@ var stations_caribbean = {
             name: "Radio Z86",
             logo: "stations/images-america/caribbean/oranjestad/Radio Z86.png",
             url: "https://ott.streann.com/loadbalancer/services/web-players/radios-reseller-secure/5b059db22cdc3216615630d8/edbab57d-6c24-4435-b6ad-68b601779dfa/osd1scm8rpretuqej90ae0frpt/5afb60fe2cdc911600aff6c5/playlist.m3u8"
+        },
+    ],
+    "treasure_cay": [
+        {
+            name: "100 Jamz",
+            logo: "stations/images-america/caribbean/nassau/100 Jamz.png",
+            url: "https://ice66.securenetsystems.net/100JAMZ"
+        },
+        {
+            name: "The National Voice 1540",
+            logo: "stations/images-america/caribbean/nassau/The National Voice 1540.png",
+            url: "http://znsradiogroup.streamcomedia.com:9788/zns1540am"
         },
     ],
 };

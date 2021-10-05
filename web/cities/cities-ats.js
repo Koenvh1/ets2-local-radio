@@ -8769,6 +8769,12 @@ var country_properties_caribbean = {
         code: "aw",
         relative_radius: 0.5
     },
+    "treasure_cay": {
+        name: "Oranjestad",
+        name_english: "Oranjestad",
+        code: "bs",
+        relative_radius: 0.5
+    },
 };
 
 var city_properties_caribbean = {
@@ -8788,6 +8794,9 @@ var city_properties_caribbean = {
         relative_whitenoise: 0.85
     },
     "oranjestad": {
+        relative_whitenoise: 0.85
+    },
+    "treasure_cay": {
         relative_whitenoise: 0.85
     },
 };
@@ -8840,6 +8849,14 @@ var cities_caribbean = [
       "x": "155584",
       "y": "65",
       "z": "133214"
+    },
+    {
+      "gameName": "treasure_cay",
+      "realName": "Treasure Cay",
+      "country": "bahamas",
+      "x": "96667.7",
+      "y": "38.3665",
+      "z": "61340.7"
     },
 ];
 country_properties = $.extend(country_properties, country_properties_mexico);
