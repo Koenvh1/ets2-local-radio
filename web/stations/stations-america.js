@@ -12368,6 +12368,11 @@ var stations_mexico = {
             name: "LA LUPE 92.1 FM",
             logo: "stations/images-america/mexico/sinaloa/lupe.png",
             url: "https://radio.urbansa.com/station"
+        },
+        {
+            name: "Quiéreme 98.7",
+            logo: "stations/images-america/mexico/sinaloa/quiereme.png",
+            url: "https://radio.spiritmedia.mx/xhvox"
         },        
     ],
     "culiacan": [
@@ -12421,6 +12426,16 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/sinaloa/arroba.png",
             url: "http://sts.aplradiorama.mx/xhin.mp3"
         },
+        {
+            name: "La Bestia Grupera 102.5 FM",
+            logo: "stations/images-america/mexico/sinaloa/bestia.png",
+            url: "https://secure.radiorama.mx:2131/;"
+        },
+        {
+            name: "W Radio",
+            logo: "stations/images-america/mexico/sinaloa/w.png",
+            url: "https://streamingv2.shoutcast.com/w-radio-977-fm"
+        },
              
     ],
     "los_mochis": [
@@ -12468,6 +12483,11 @@ var stations_mexico = {
             name: "La Interesante de Los Mochis",
             logo: "stations/images-america/mexico/sinaloa/interesante_m.png",
             url: "https://intemochis-megacaster.radioca.st/stream"
+        },
+        {
+            name: "Radio 65",
+            logo: "stations/images-america/mexico/sinaloa/65.png",
+            url: "http://grupochavezradio.com/radio/spots/650.mp3"
         },          
     ],
     "guasave": [
