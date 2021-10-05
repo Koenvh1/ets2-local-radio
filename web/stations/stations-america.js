@@ -12463,6 +12463,11 @@ var stations_mexico = {
             name: "Radio Variedades",
             logo: "stations/images-america/mexico/sinaloa/variedades.png",
             url: "http://c2009.streamguys1.com/Mochis3"
+        },
+        {
+            name: "La Interesante de Los Mochis",
+            logo: "stations/images-america/mexico/sinaloa/interesante_m.png",
+            url: "http://megacaster.net/radios/mochis/"
         },          
     ],
     "guasave": [
@@ -12480,6 +12485,11 @@ var stations_mexico = {
             name: "Ke Buena",
             logo: "stations/images-america/mexico/shared/buena.png",
             url: "https://24273.live.streamtheworld.com/KEBUENAAAC.aac"
+        },
+        {
+            name: "La Interesante de Guasave",
+            logo: "stations/images-america/mexico/sinaloa/interesante_g.png",
+            url: "http://megacaster.net/radios/guasave/"
         },      
     ],
 };
