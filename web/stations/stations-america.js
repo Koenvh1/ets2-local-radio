@@ -12467,7 +12467,7 @@ var stations_mexico = {
         {
             name: "La Interesante de Los Mochis",
             logo: "stations/images-america/mexico/sinaloa/interesante_m.png",
-            url: "http://megacaster.net/radios/mochis/"
+            url: "https://intemochis-megacaster.radioca.st/stream"
         },          
     ],
     "guasave": [
@@ -12489,7 +12489,7 @@ var stations_mexico = {
         {
             name: "La Interesante de Guasave",
             logo: "stations/images-america/mexico/sinaloa/interesante_g.png",
-            url: "http://megacaster.net/radios/guasave/"
+            url: "https://xhgve-megacaster.radioca.st/stream"
         },      
     ],
 };
