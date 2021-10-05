@@ -12366,6 +12366,11 @@ var stations_mexico = {
             name: "La JL",
             logo: "stations/images-america/mexico/sinaloa/jl.png",
             url: "http://grupochavezradio.com/radio/spots/99.mp3"
+        },
+        {
+            name: "Ke Buena 92.1 FM",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "http://grupochavezradio.com/radio/spots/92.mp3"
         },     
     ],
     "mazatlan": [
@@ -12383,7 +12388,32 @@ var stations_mexico = {
             name: "La Nueva RJ",
             logo: "stations/images-america/mexico/sinaloa/rj.png",
             url: "http://audioout.gvstream.net/gpm-rj.aac"
-        },       
+        },
+        {
+            name: "Switch 88.9FM",
+            logo: "stations/images-america/mexico/sinaloa/switch.png",
+            url: "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_5539_stream_603657811"
+        },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/sinaloa/sinrad.png",
+            url: "http://192.99.16.17:8170/;"
+        },
+        {
+            name: "La Mejor 102.7 FM",
+            logo: "stations/images-america/mexico/sinaloa/mejor.png",
+            url: "https://sp3.servidorrprivado.com:10968/stream?type=http&nocache=646"
+        },
+        {
+            name: "LA LUPE 92.1 FM",
+            logo: "stations/images-america/mexico/sinaloa/lupe.png",
+            url: "https://radio.urbansa.com/station"
+        },
+        {
+            name: "Quiéreme 98.7",
+            logo: "stations/images-america/mexico/sinaloa/quiereme.png",
+            url: "https://radio.spiritmedia.mx/xhvox"
+        },        
     ],
     "culiacan": [
         {
@@ -12426,6 +12456,26 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/shared/exa.png",
             url: "http://167.114.116.223:1082/;"
         },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/sinaloa/sinrad94.png",
+            url: "http://192.99.16.17:8170/;"
+        },
+        {
+            name: "@FM",
+            logo: "stations/images-america/mexico/sinaloa/arroba.png",
+            url: "http://sts.aplradiorama.mx/xhin.mp3"
+        },
+        {
+            name: "La Bestia Grupera 102.5 FM",
+            logo: "stations/images-america/mexico/sinaloa/bestia.png",
+            url: "https://secure.radiorama.mx:2131/;"
+        },
+        {
+            name: "W Radio",
+            logo: "stations/images-america/mexico/sinaloa/w.png",
+            url: "https://streamingv2.shoutcast.com/w-radio-977-fm"
+        },
              
     ],
     "los_mochis": [
@@ -12448,6 +12498,36 @@ var stations_mexico = {
             name: "Vox 94.1",
             logo: "stations/images-america/mexico/sinaloa/vox.png",
             url: "https://icy.gvstream.live/gpm-pop.aac"
+        },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/sinaloa/sinrad.png",
+            url: "http://192.99.16.17:8170/;"
+        },
+        {
+            name: "Stereo Uno",
+            logo: "stations/images-america/mexico/sinaloa/stereo.png",
+            url: "https://audiostreaming.luz.network/;?type=http&nocache=1318"
+        },
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/sinaloa/buena.png",
+            url: "http://grupochavezradio.com/radio/spots/102.mp3"
+        },
+        {
+            name: "Radio Variedades",
+            logo: "stations/images-america/mexico/sinaloa/variedades.png",
+            url: "http://c2009.streamguys1.com/Mochis3"
+        },
+        {
+            name: "La Interesante de Los Mochis",
+            logo: "stations/images-america/mexico/sinaloa/interesante_m.png",
+            url: "https://intemochis-megacaster.radioca.st/stream"
+        },
+        {
+            name: "Radio 65",
+            logo: "stations/images-america/mexico/sinaloa/65.png",
+            url: "http://grupochavezradio.com/radio/spots/650.mp3"
         },          
     ],
     "guasave": [
@@ -12455,6 +12535,21 @@ var stations_mexico = {
             name: "La Mera Jefa",
             logo: "stations/images-america/mexico/sinaloa/mera.png",
             url: "http://192.99.16.17:8804/stream.mp3"
+        },
+        {
+            name: "La GS",
+            logo: "stations/images-america/mexico/sinaloa/gs.png",
+            url: "http://grupochavezradio.com/radio/spots/106.mp3"
+        },
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "https://24273.live.streamtheworld.com/KEBUENAAAC.aac"
+        },
+        {
+            name: "La Interesante de Guasave",
+            logo: "stations/images-america/mexico/sinaloa/interesante_g.png",
+            url: "https://xhgve-megacaster.radioca.st/stream"
         },      
     ],
 };
