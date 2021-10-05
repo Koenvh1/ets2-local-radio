@@ -12326,6 +12326,11 @@ var stations_mexico = {
             name: "La JL",
             logo: "stations/images-america/mexico/sinaloa/jl.png",
             url: "http://grupochavezradio.com/radio/spots/99.mp3"
+        },
+        {
+            name: "Ke Buena 92.1 FM",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "http://grupochavezradio.com/radio/spots/92.mp3"
         },     
     ],
     "mazatlan": [
@@ -12343,7 +12348,22 @@ var stations_mexico = {
             name: "La Nueva RJ",
             logo: "stations/images-america/mexico/sinaloa/rj.png",
             url: "http://audioout.gvstream.net/gpm-rj.aac"
-        },       
+        },
+        {
+            name: "Switch 88.9FM",
+            logo: "stations/images-america/mexico/sinaloa/switch.png",
+            url: "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_5539_stream_603657811"
+        },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/sinaloa/sinrad.png",
+            url: "http://192.99.16.17:8170/;"
+        },
+        {
+            name: "La Mejor 102.7 FM",
+            logo: "stations/images-america/mexico/sinaloa/mejor.png",
+            url: "https://sp3.servidorrprivado.com:10968/stream?type=http&nocache=646"
+        },        
     ],
     "culiacan": [
         {
@@ -12386,6 +12406,16 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/shared/exa.png",
             url: "http://167.114.116.223:1082/;"
         },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/sinaloa/sinrad94.png",
+            url: "http://192.99.16.17:8170/;"
+        },
+        {
+            name: "@FM",
+            logo: "stations/images-america/mexico/sinaloa/arroba.png",
+            url: "http://sts.aplradiorama.mx/xhin.mp3"
+        },
              
     ],
     "los_mochis": [
@@ -12408,6 +12438,21 @@ var stations_mexico = {
             name: "Vox 94.1",
             logo: "stations/images-america/mexico/sinaloa/vox.png",
             url: "https://icy.gvstream.live/gpm-pop.aac"
+        },
+        {
+            name: "Radio Sinaloa",
+            logo: "stations/images-america/mexico/sinaloa/sinrad.png",
+            url: "http://192.99.16.17:8170/;"
+        },
+        {
+            name: "Stereo Uno",
+            logo: "stations/images-america/mexico/sinaloa/stereo.png",
+            url: "https://audiostreaming.luz.network/;?type=http&nocache=1318"
+        },
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/sinaloa/buena.png",
+            url: "http://grupochavezradio.com/radio/spots/102.mp3"
         },          
     ],
     "guasave": [
@@ -12415,6 +12460,16 @@ var stations_mexico = {
             name: "La Mera Jefa",
             logo: "stations/images-america/mexico/sinaloa/mera.png",
             url: "http://192.99.16.17:8804/stream.mp3"
+        },
+        {
+            name: "La GS",
+            logo: "stations/images-america/mexico/sinaloa/gs.png",
+            url: "http://grupochavezradio.com/radio/spots/106.mp3"
+        },
+        {
+            name: "Ke Buena",
+            logo: "stations/images-america/mexico/shared/buena.png",
+            url: "https://24273.live.streamtheworld.com/KEBUENAAAC.aac"
         },      
     ],
 };
