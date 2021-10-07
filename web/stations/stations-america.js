@@ -1022,6 +1022,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KQBLHD2"
         },
         {
+            name: "FOX Sports 99.9",
+            logo: "stations/images-america/boise/FOX Sports 99.9.png",
+            url: "https://ice64.securenetsystems.net/KSRVHD2"
+        },
+        {
             name: "100.3 The X",
             logo: "stations/images-america/boise/100.3 The X.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KQXRFMAAC_SC"
@@ -9147,11 +9152,6 @@ var stations = {
             name: "Bob Radio 94.9-HD2",
             logo: "stations/images-america/san_diego/Bob Radio 94.9-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBZTHD2AAC_SC"
-        },
-        {
-            name: "GLOW 94.9-HD3",
-            logo: "stations/images-america/san_diego/GLOW 94.9-HD3.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBZTHD3AAC_SC"
         },
         {
             name: "JAM’N 95.7",
