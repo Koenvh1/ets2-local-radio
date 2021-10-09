@@ -10472,6 +10472,14 @@ var cities_roextended_turkey = [
         "z": "72995.4"
     },
     {
+        "gameName": "canakkale",
+        "realName": "Çanakkale",
+        "country": "turkey",
+        "x": "66800.1",
+        "y": "30.8948",
+        "z": "58027"
+    },
+    {
         "gameName": "denizli",
         "realName": "Denizli",
         "country": "turkey",
