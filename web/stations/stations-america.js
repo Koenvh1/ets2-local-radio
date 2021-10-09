@@ -1432,12 +1432,12 @@ var stations = {
             name: "B92.1",
             logo: "stations/images-america/cedar_city/B92.1.png",
             url: "https://live.wostreaming.net/direct/cherrycreek-kxbnfmaac-ibc4"
-        },/*
+        },
         {
             name: "FOX Sports 93.1",
             logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "tbd - 06.08.2021"
-        },*/
+            url: "https://ice6.securenetsystems.net/KAZZ"
+        },
         {
             name: "94.9 New Country",
             logo: "stations/images-america/cedar_city/94.9 New Country.png",
@@ -10429,12 +10429,12 @@ var stations = {
             name: "Kool 98.9",
             logo: "stations/images-america/st_george/Kool 98.9.png",
             url: "http://ice10.securenetsystems.net/KRQX"
-        },/*
+        },
         {
             name: "FOX Sports 99.5",
             logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "tbd - 06.08.2021"
-        },*/
+            url: "https://ice6.securenetsystems.net/KAZZ"
+        },
         {
             name: "99.9 KONY Country",
             logo: "stations/images-america/st_george/99.9 KONY.png",
