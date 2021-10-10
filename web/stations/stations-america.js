@@ -6881,8 +6881,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
         },
         {
-            name: "Leading Ladies 107.9-HD2",
-            logo: "stations/images-america/phoenix/Leading Ladies 107.9-HD2.png",
+            name: "Country Love 107.9-HD2",
+            logo: "stations/images-america/phoenix/Country Love 107.9-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEHD2AAC_SC"
         },
         {
@@ -22868,8 +22868,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/telesouth-wxykfmaac-ibc1"
         },
         {
-            name: "106.3 Casino Radio",
-            logo: "stations/images-america/c2c/gulfport_ms/106.3 Casino Radio.png",
+            name: "BOB 106.3",
+            logo: "stations/images-america/c2c/gulfport_ms/BOB 106.3.png",
             url: "https://live.wostreaming.net/manifest/telesouth-wangamaac-ibc1"
         },
         {
