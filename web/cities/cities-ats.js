@@ -2304,9 +2304,9 @@ var cities = [
         "gameName": "dateland",
         "realName": "Dateland",
         "country": "arizona",
-        "x": "-82520.3",
-        "y": "4.56502",
-        "z": "26724.1"
+        "x": "-82820.2",
+        "y": "114.894",
+        "z": "28604.3"
     },
     {
         "gameName": "denver",

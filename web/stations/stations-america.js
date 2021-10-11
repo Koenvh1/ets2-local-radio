@@ -4217,12 +4217,12 @@ var stations = {
             name: "107.3 Mod FM",
             logo: "stations/images-america/indio/107.3 Mod FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kdeshd2aac-ibc4"
-        },
+        },/*
         {
             name: "920 KGX",
             logo: "stations/images-america/yuma/920 KGX.png",
-            url: "https://ice10.securenetsystems.net/KGX"
-        },
+            url: "silent - 11.10.2021"
+        },*/
     ],
     "jackson": [
         {
@@ -11628,12 +11628,12 @@ var stations = {
             name: "560 KBLU",
             logo: "stations/images-america/yuma/560 KBLU.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2?source=v7player"
-        },
+        },/*
         {
             name: "920 KGX",
             logo: "stations/images-america/yuma/920 KGX.png",
-            url: "https://ice10.securenetsystems.net/KGX"
-        },
+            url: "silent - 11.10.2021"
+        },*/
         {
             name: "Outlaw Country 1400",
             logo: "stations/images-america/yuma/Outlaw Country 1400.png",
@@ -11647,14 +11647,14 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
     ],
     "agua_prieta": [
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "La Ranchera 97.3",
@@ -11671,7 +11671,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "Max101 FM",
@@ -11703,7 +11703,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "La FQ 103.1 FM",
@@ -11720,7 +11720,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "La Invasora 90.5",
@@ -11889,7 +11889,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "Toño 103.7",
@@ -11936,7 +11936,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "La Mejor 98.5",
@@ -12049,7 +12049,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "Radio Universidad",
@@ -12096,21 +12096,21 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
     ],
     "puerto_pena": [
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
     ],
     "santa_ana": [
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "Radio Universidad",
@@ -12122,14 +12122,14 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
     ],
     "h_nogales": [
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
         {
             name: "Radio Fórmula",
@@ -12176,7 +12176,7 @@ var stations_mexico = {
         {
             name: "Radio Sonora",
             logo: "stations/images-america/mexico/sonora/sonora.png",
-            url: "http://s1.radiosonorense.com:2150/stream"
+            url: "https://s5.mexside.net:2000/stream/radiosonora/stream"
         },
     ],
     "vdurango": [
