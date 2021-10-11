@@ -951,7 +951,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "ehrenberg": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "elko": {
         relative_whitenoise: 0.85
@@ -2304,8 +2304,8 @@ var cities = [
         "gameName": "dateland",
         "realName": "Dateland",
         "country": "arizona",
-        "x": "-82820.2",
-        "y": "114.894",
+        "x": "-81820.2",
+        "y": "24.894",
         "z": "28604.3"
     },
     {
@@ -2478,7 +2478,7 @@ var country_properties_mexico = {
         name: "San Luis Río Colorado",
         name_english: "San Luis Rio Colorado",
         code: "mx-son",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "vdurango": {
         name: "Durango",
@@ -2730,7 +2730,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "sanluisrc": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "vdurango": {
         relative_whitenoise: 0.95
@@ -4025,98 +4025,104 @@ var country_properties_c2c = {
         relative_radius: 0.9
     },
     "billings": {
-        name: "billings",
-        name_english: "billings",
+        name: "Billings",
+        name_english: "Billings",
         code: "us-mt",
         relative_radius: 0.9
     },
     "bozeman": {
-        name: "bozeman",
-        name_english: "bozeman",
+        name: "Bozeman",
+        name_english: "Bozeman",
         code: "us-mt",
         relative_radius: 0.9
     },
     "butte": {
-        name: "butte",
-        name_english: "butte",
+        name: "Butte",
+        name_english: "Butte",
         code: "us-mt",
         relative_radius: 0.8
     },
+    "dillon": {
+        name: "Dillon",
+        name_english: "Dillon",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "forsyth": {
-        name: "forsyth",
-        name_english: "forsyth",
+        name: "Forsyth",
+        name_english: "Forsyth",
         code: "us-mt",
         relative_radius: 0.9
     },
     "glasgow": {
-        name: "glasgow",
-        name_english: "glasgow",
+        name: "Glasgow",
+        name_english: "Glasgow",
         code: "us-mt",
         relative_radius: 0.9
     },
     "glendive": {
-        name: "glendive",
-        name_english: "glendive",
+        name: "Glendive",
+        name_english: "Glendive",
         code: "us-mt",
         relative_radius: 0.9
     },
     "greatfalls": {
-        name: "greatfalls",
-        name_english: "greatfalls",
+        name: "Great Falls",
+        name_english: "Great Falls",
         code: "us-mt",
         relative_radius: 0.9
     },
     "havre": {
-        name: "havre",
-        name_english: "havre",
+        name: "Havre",
+        name_english: "Havre",
         code: "us-mt",
         relative_radius: 0.9
     },
     "helena": {
-        name: "helena",
-        name_english: "helena",
+        name: "Helena",
+        name_english: "Helena",
         code: "us-mt",
         relative_radius: 0.9
     },
     "kalispell": {
-        name: "kalispell",
-        name_english: "kalispell",
+        name: "Kalispell",
+        name_english: "Kalispell",
         code: "us-mt",
         relative_radius: 1.0
     },
     "lewistown": {
-        name: "lewistown",
-        name_english: "lewistown",
+        name: "Lewistown",
+        name_english: "Lewistown",
         code: "us-mt",
         relative_radius: 0.9
     },
     "malta": {
-        name: "malta",
-        name_english: "malta",
+        name: "Malta",
+        name_english: "Malta",
         code: "us-mt",
         relative_radius: 0.9
     },
     "milescity": {
-        name: "milescity",
-        name_english: "milescity",
+        name: "Miles City",
+        name_english: "Miles City",
         code: "us-mt",
         relative_radius: 0.9
     },
     "missoula": {
-        name: "missoula",
-        name_english: "missoula",
+        name: "Missoula",
+        name_english: "Missoula",
         code: "us-mt",
         relative_radius: 0.9
     },
     "shelby": {
-        name: "shelby",
-        name_english: "shelby",
+        name: "Shelby",
+        name_english: "Shelby",
         code: "us-mt",
         relative_radius: 0.9
     },
     "wolfpoint": {
-        name: "wolfpoint",
-        name_english: "wolfpoint",
+        name: "Wolf Point",
+        name_english: "Wolf Point",
         code: "us-mt",
         relative_radius: 0.9
     },
@@ -5336,6 +5342,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "butte": {
+        relative_whitenoise: 0.85
+    },
+    "dillon": {
         relative_whitenoise: 0.85
     },
     "forsyth": {
@@ -6710,6 +6719,14 @@ var cities_c2c = [
         "x": "-64351.9",
         "y": "290",
         "z": "-46049.2"
+    },
+    {
+        "gameName": "dillon",
+        "realName": "Dillon",
+        "country": "montana",
+        "x": "-65659.8",
+        "y": "372.834",
+        "z": "-40232.8"
     },
     {
         "gameName": "forsyth",

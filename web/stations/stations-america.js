@@ -24531,6 +24531,53 @@ var stations_c2c = {
             url: "https://1310am.ml:8000/kein"
         },
     ],
+    "dillon": [
+        {
+            name: "YNOP 90.3",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "90.9 KDWG",
+            logo: "stations/images-america/c2c/dillon_mt/90.9 KDWG.png",
+            url: "https://ice9.securenetsystems.net/KDWG"
+        },
+        {
+            name: "MTPR 91.7",
+            logo: "stations/images-america/0_general_logos/MTPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
+        },
+        {
+            name: "KOPR 94.1",
+            logo: "stations/images-america/c2c/butte_mt/KOPR 94.1.png",
+            url: "http://butte.leanstream.co/KOPRFM"
+        },
+        {
+            name: "95.5 KMBR",
+            logo: "stations/images-america/c2c/butte_mt/95.5 KMBR.png",
+            url: "https://live.wostreaming.net/direct/cherrycreek-kmbrfmaac-ibc4"
+        },
+        {
+            name: "98.3 KBEV",
+            logo: "stations/images-america/c2c/dillon_mt/98.3 KBEV.png",
+            url: "https://ice9.securenetsystems.net/KBEVFM"
+        },
+        {
+            name: "The Eagle 104.7",
+            logo: "stations/images-america/c2c/bozeman_mt/The Eagle 105.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKQXFMAAC_SC"
+        },
+        {
+            name: "KBYI 105.5",
+            logo: "stations/images-america/freedom/KBYA 89.9.png",
+            url: "https://radiostream.byui.edu/kbyi"
+        },
+        {
+            name: "KBOW 550",
+            logo: "stations/images-america/c2c/butte_mt/KBOW 101.5.png",
+            url: "http://butte.leanstream.co/KBOWAM"
+        },
+    ],
     "forsyth": [
         {
             name: "YPR 91.1",
@@ -33983,7 +34030,7 @@ var stations_c2c = {
         {
             name: "97.1 The Game",
             logo: "stations/images-america/c2c/burlington_vt/97.1 The Game.png",
-            url: "https://crystalout.surfernetwork.com:8001/WCPV_MP3"
+            url: "https://crystalout.surfernetwork.com:8001/WEAV-AM_MP3"
         },
         {
             name: "Eagle Country 97.5",
@@ -34014,6 +34061,11 @@ var stations_c2c = {
             name: "101 The One",
             logo: "stations/images-america/c2c/burlington_vt/101 The One.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCVTFMAAC_SC"
+        },
+        {
+            name: "101.3 The Wolf",
+            logo: "stations/images-america/c2c/burlington_vt/101.3 The Wolf.png",
+            url: "https://crystalout.surfernetwork.com:8001/WCPV_MP3"
         },
         {
             name: "Mix 102.3",
