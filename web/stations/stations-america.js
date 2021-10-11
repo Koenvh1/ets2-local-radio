@@ -9575,8 +9575,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "103.7 80s Plus",
-            logo: "stations/images-america/san_francisco/103.7 80s+.png",
+            name: "103.7 80s+",
+            logo: "stations/images-america/san_francisco/103.7 80s.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
         {
@@ -9603,6 +9603,11 @@ var stations = {
             name: "106.1 KMEL",
             logo: "stations/images-america/san_francisco/106.1 KMEL.png",
             url: "https://stream.revma.ihrhls.com/zc293/hls.m3u8"
+        },
+        {
+            name: "AT40 106.1-HD2",
+            logo: "stations/images-america/san_francisco/AT40 106.1-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4802/hls.m3u8"
         },
         {
             name: "Mix 106.5",
