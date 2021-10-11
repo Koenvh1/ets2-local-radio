@@ -83,6 +83,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 1.0
     },
+    "brawley": {
+        name: "Brawley",
+        name_english: "Brawley",
+        code: "us-ca",
+        relative_radius: 0.4
+    },
     "burlington": {
         name: "Burlington",
         name_english: "Burlington",
@@ -161,6 +167,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "dateland": {
+        name: "Dateland",
+        name_english: "Dateland",
+        code: "us-az",
+        relative_radius: 0.5
+    },
     "denver": {
         name: "Denver",
         name_english: "Denver",
@@ -177,7 +189,7 @@ var country_properties = {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
         code: "us-az",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "elko": {
         name: "Elko",
@@ -315,7 +327,7 @@ var country_properties = {
         name: "Indio",
         name_english: "Indio",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "jackson": {
         name: "Jackson",
@@ -813,7 +825,7 @@ var country_properties = {
         name: "Yuma",
         name_english: "Yuma",
         code: "us-az",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "arizona": {
         name: "Arizona",
@@ -887,6 +899,9 @@ var city_properties = {
     "boise": {
         relative_whitenoise: 0.85
     },
+    "brawley": {
+        relative_whitenoise: 0.85
+    },
     "burlington": {
         relative_whitenoise: 0.80
     },
@@ -924,6 +939,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "crescent_city": {
+        relative_whitenoise: 0.85
+    },
+    "dateland": {
         relative_whitenoise: 0.85
     },
     "denver": {
@@ -1251,7 +1269,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "yuma": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "arizona": {
         relative_whitenoise: 0.95
@@ -1305,6 +1323,14 @@ var cities = [
         "x": "-97447.9",
         "y": "192.806",
         "z": "-835.484"
+    },
+    {
+        "gameName": "brawley",
+        "realName": "Brawley",
+        "country": "california",
+        "x": "-92227.9",
+        "y": "60.2773",
+        "z": "23340.7"
     },
     {
         "gameName": "carson_city",
@@ -2275,6 +2301,14 @@ var cities = [
         "z": "528.353"
     },
     {
+        "gameName": "dateland",
+        "realName": "Dateland",
+        "country": "arizona",
+        "x": "-82520.3",
+        "y": "4.56502",
+        "z": "26724.1"
+    },
+    {
         "gameName": "denver",
         "realName": "Denver",
         "country": "colorado",
@@ -2516,7 +2550,7 @@ var country_properties_mexico = {
         name: "Mexicali",
         name_english: "Mexicali",
         code: "mx-bcn",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "tijuana": {
         name: "Tijuana",
@@ -2600,7 +2634,7 @@ var country_properties_mexico = {
         name: "Ensenada",
         name_english: "Ensenada",
         code: "mx-bcn",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "la_paz": {
         name: "La Paz",

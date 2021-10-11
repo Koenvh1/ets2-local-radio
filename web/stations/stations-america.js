@@ -1107,6 +1107,78 @@ var stations = {
             url: "https://ic2.sslstream.com/kspd-am"
         },
     ],
+    "brawley": [
+        {
+            name: "Radio Bilingue 88.7",
+            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "Los 40 90.7",
+            logo: "stations/images-america/0_general_logos/Los 40.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC"
+        },
+        {
+            name: "Exa FM 91.5",
+            logo: "stations/images-america/mexico/mexicali/Exa FM 91.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC_SC"
+        },
+        {
+            name: "Manantial FM 91.9",
+            logo: "stations/images-america/yuma/Manantial FM 91.9.png",
+            url: "http://ic2.christiannetcast.com/kyrm-fm"
+        },
+        {
+            name: "JP2 Radio 93.3",
+            logo: "stations/images-america/brawley/JP2 Radio 93.3.png",
+            url: "https://ssl-2.stream.miriamtech.net/jp2radio/jp2radio.mp3"
+        },
+        {
+            name: "La Suavecita 94.5",
+            logo: "stations/images-america/brawley/La Suavecita 94.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSEHFMAAC_SC"
+        },
+        {
+            name: "KPBS 97.7",
+            logo: "stations/images-america/san_diego/KPBS.png",
+            url: "https://kpbs.streamguys1.com/kpbs-mp3"
+        },
+        {
+            name: "Power 98",
+            logo: "stations/images-america/mexico/mexicali/Power 98.png",
+            url: "http://s4.mexside.net:2126/;"
+        },
+        {
+            name: "La Tricolor 99.3",
+            logo: "stations/images-america/brawley/La Tricolor 99.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMXXFMAAC_SC"
+        },
+        {
+            name: "KGBA 100.1",
+            logo: "stations/images-america/brawley/KGBA 100.1.png",
+            url: "https://ice9.securenetsystems.net/KGBAFM"
+        },
+        {
+            name: "FM Globo 101.9",
+            logo: "stations/images-america/mexico/mexicali/FM Globo 101.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC_SC"
+        },
+        {
+            name: "La Mejor 103.3",
+            logo: "stations/images-america/mexico/mexicali/La Mejor 103.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFMAAC_SC"
+        },
+        {
+            name: "UABC Radio 104.1",
+            logo: "stations/images-america/mexico/mexicali/UABC Radio 104.1.png",
+            url: "http://148.231.3.56/mxl"
+        },
+        {
+            name: "560 KBLU",
+            logo: "stations/images-america/yuma/560 KBLU.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2?source=v7player"
+        },
+    ],
     "burlington": [
         {
             name: "The Light 90.5",
@@ -2001,6 +2073,43 @@ var stations = {
             name: "KPOD 106.7",
             logo: "stations/images-america/crescent_city/KPOD 106.7.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KPODAMAAC_SC"
+        },
+    ],
+    "dateland": [
+        {
+            name: "550 KFYI",
+            logo: "stations/images-america/phoenix/550 KFYI.png",
+            url: "https://stream.revma.ihrhls.com/zc37/hls.m3u8"
+        },
+        {
+            name: "560 KBLU",
+            logo: "stations/images-america/yuma/560 KBLU.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2?source=v7player"
+        },
+        {
+            name: "ESPN 620",
+            logo: "stations/images-america/phoenix/ESPN 620.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAMAAC_SC"
+        },
+        {
+            name: "The Drive 830",
+            logo: "stations/images-america/tucson/The Drive 101.7.png",
+            url: "https://ice5.securenetsystems.net/KDRI"
+        },
+        {
+            name: "FOX Sports 910",
+            logo: "stations/images-america/phoenix/FOX Sports 910.png",
+            url: "https://stream.revma.ihrhls.com/zc41/hls.m3u8"
+        },
+        {
+            name: "1100 KFNX",
+            logo: "stations/images-america/phoenix/1100 KFNX.png",
+            url: "https://crystalout.surfernetwork.com:8001/KFNX_MP3"
+        },
+        {
+            name: "1360 KPXQ",
+            logo: "stations/images-america/phoenix/1360 KPXQ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
         },
     ],
     "denver": [
@@ -4003,11 +4112,6 @@ var stations = {
             name: "KIX Hot Country 92.1",
             logo: "stations/images-america/indio/KIX Hot Country 92.1.png",
             url: "http://ice5.securenetsystems.net/KXCM"
-        },
-        {
-            name: "92.3 KWXY",
-            logo: "stations/images-america/indio/92.3 KWXY.png",
-            url: "https://ice9.securenetsystems.net/KWXY"
         },
         {
             name: "U-92.7",
@@ -6881,8 +6985,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEFMAAC_SC"
         },
         {
-            name: "Country Love 107.9-HD2",
-            logo: "stations/images-america/phoenix/Country Love 107.9-HD2.png",
+            name: "Leading Ladies 107.9-HD2",
+            logo: "stations/images-america/phoenix/Leading Ladies 107.9-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEHD2AAC_SC"
         },
         {
