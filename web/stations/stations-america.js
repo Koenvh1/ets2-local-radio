@@ -2146,7 +2146,7 @@ var stations = {
         {
             name: "Denver Open Media 92.9",
             logo: "stations/images-america/denver/Denver Open Media 92.9.png",
-            url: "http://komfstream.denveropenmedia.org:8000/stream"
+            url: "http://50.214.13.97:8000/stream"
         },
         {
             name: "Channel 93.3",
@@ -7544,7 +7544,7 @@ var stations = {
         {
             name: "Radio Exitos 99.1",
             logo: "stations/images-america/raton/Radio Exitos 99.1.png",
-            url: "https://ice41.securenetsystems.net/KXMT"
+            url: "http://centova87.instainternet.com:8055/stream"
         },
         {
             name: "My 99.3",
@@ -7554,7 +7554,7 @@ var stations = {
         {
             name: "KKTC 99.9",
             logo: "stations/images-america/raton/KKTC 99.9.png",
-            url: "https://ice42.securenetsystems.net/KKTC"
+            url: "http://centova87.instainternet.com:8737/stream"
         },
         {
             name: "K269GQ 101.7",
@@ -7564,7 +7564,7 @@ var stations = {
         {
             name: "Mix 106.5",
             logo: "stations/images-america/raton/Mix 106.5.png",
-            url: "https://us2.maindigitalstream.com/ssl/KNMF"
+            url: "http://centova87.instainternet.com:8725/stream"
         },
     ],
     "rawlins": [
@@ -24113,6 +24113,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHLFMAAC_SC"
         },
         {
+            name: "The Game 104.5",
+            logo: "stations/images-america/c2c/stlouis_mo/The Game 104.5.png",
+            url: "https://ice24.securenetsystems.net/WGNU"
+        },
+        {
             name: "104.9 The Patriot",
             logo: "stations/images-america/c2c/stlouis_mo/104.9 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc1281/hls.m3u8"
@@ -24141,11 +24146,6 @@ var stations_c2c = {
             name: "Latter-day Saints Channel 106.5-HD2",
             logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
-        },
-        {
-            name: "WGNU 106.9",
-            logo: "stations/images-america/c2c/stlouis_mo/WGNU 106.9.png",
-            url: "https://ice24.securenetsystems.net/WGNU"
         },
         {
             name: "Classic 107.3",
