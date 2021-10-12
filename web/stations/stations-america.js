@@ -8790,6 +8790,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2385/hls.m3u8"
         },
         {
+            name: "KUAA 99.9",
+            logo: "stations/images-america/salt_lake/KUAA 99.9.png",
+            url: "https://stream.xmission.com/kuaa"
+        },
+        {
             name: "FM100.3",
             logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
