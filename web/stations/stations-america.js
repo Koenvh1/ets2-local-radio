@@ -2569,7 +2569,7 @@ var stations = {
             url: "http://www.streamvortex.com:11150/stream"
         },
         {
-            name: "Kool 99.1",
+            name: "KOOL 99.1",
             logo: "stations/images-america/eugene/Kool 99.1.png",
             url: "https://us9.maindigitalstream.com/ssl/KODZ"
         },
