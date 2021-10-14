@@ -29,6 +29,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "baggs": {
+        name: "Baggs",
+        name_english: "Baggs",
+        code: "us-wy",
+        relative_radius: 0.5
+    },
     "baker": {
         name: "Baker",
         name_english: "Baker",
@@ -872,6 +878,9 @@ var city_properties = {
     "astoria": {
         relative_whitenoise: 0.75
     },
+    "baggs": {
+        relative_whitenoise: 0.85
+    },
     "baker": {
         relative_whitenoise: 0.85
     },
@@ -1284,6 +1293,14 @@ var city_properties = {
 
 //Cities from: https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever
 var cities = [
+    {
+        "gameName": "baggs",
+        "realName": "Baggs",
+        "country": "wyoming",
+        "x": "-49498.6",
+        "y": "106.1",
+        "z": "-15309.5"
+    },
     {
         "gameName": "baker",
         "realName": "Baker",
