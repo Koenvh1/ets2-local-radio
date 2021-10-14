@@ -1518,47 +1518,47 @@ var stations = {
         {
             name: "Bayern 1",
             logo: "stations/images-europe/germany-br/Bayern 1.png",
-            url: "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8"
         },
         {
             name: "Bayern 2",
             logo: "stations/images-europe/germany-br/Bayern 2.png",
-            url: "https://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/b2sued/master.m3u8"
         },
         {
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
-            url: "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/b3/master.m3u8"
         },
         {
             name: "BR Schlager",
             logo: "stations/images-europe/germany-br/BR Schlager.png",
-            url: "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/brschlager/master.m3u8"
         },
         {
             name: "BR Heimat",
             logo: "stations/images-europe/germany-br/BR Heimat.png",
-            url: "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/brheimat/master.m3u8"
         },
         {
             name: "BR Klassik",
             logo: "stations/images-europe/germany-br/BR-Klassik.png",
-            url: "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high"
+            url: "https://mcdn.hf.br.de/br/hf/brklassik/master.m3u8"
         },
         {
             name: "BR24",
             logo: "stations/images-europe/germany-br/BR24.png",
-            url: "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/br24/master.m3u8"
         },
         {
             name: "BR24live",
             logo: "stations/images-europe/germany-br/BR24live.png",
-            url: "https://br-br24live-live.cast.addradio.de/br/br24live/live/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/br24live/master.m3u8"
         },
         {
             name: "BR Puls",
             logo: "stations/images-europe/germany-br/BR Puls.png",
-            url: "https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid"
+            url: "https://mcdn.hf.br.de/br/hf/puls/master.m3u8"
         },
         {
             name: "Antenne Bayern",
@@ -1807,12 +1807,12 @@ var stations = {
         {
             name: "NDR 1 Radio MV",
             logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1radiomv_hro.m3u"
+            url: "https://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr2_mv.m3u"
+            url: "https://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
         },
         {
             name: "80s80s MV",
@@ -1866,37 +1866,37 @@ var stations = {
         {
             name: "NDR 1 Welle Nord",
             logo: "stations/images-europe/germany-ndr/NDR 1 Welle Nord.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1wellenord.m3u"
+            url: "https://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
         },
         {
             name: "NDR Info",
             logo: "stations/images-europe/germany-ndr/NDR Info.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_spezial.m3u"
+            url: "https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
         },
         {
             name: "NDR Kultur",
             logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrkultur.m3u"
+            url: "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
         },
         {
             name: "NDR Blue",
             logo: "stations/images-europe/germany-ndr/NDR Blue.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrblue.m3u"
+            url: "https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3"
         },
         {
             name: "NDR Plus",
             logo: "stations/images-europe/germany-ndr/NDR Plus.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrplus.m3u"
+            url: "https://icecast.ndr.de/ndr/ndrplus/live/mp3/128/stream.mp3"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr2.m3u"
+            url: "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
         },
         {
             name: "N-JOY",
             logo: "stations/images-europe/germany-ndr/N-Joy.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/n-joy.m3u"
+            url: "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3"
         },
         {
             name: "delta radio",
@@ -1908,7 +1908,7 @@ var stations = {
         {
             name: "NDR 1 Niedersachsen",
             logo: "stations/images-europe/germany-nds/NDR 1 Niedersachsen.png",
-            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen.m3u"
+            url: "https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
         },
         {
             name: "Antenne Niedersachsen",

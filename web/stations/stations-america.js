@@ -17098,7 +17098,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc801/hls.m3u8"
         },
         {
-            name: "HOT 98.3",
+            name: "hot 98.3",
             logo: "stations/images-america/c2c/savannah_ga/HOT 98.3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WGCOFMAAC_SC"
         },
@@ -24185,11 +24185,6 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHLFMAAC_SC"
         },
         {
-            name: "The Game 104.5",
-            logo: "stations/images-america/c2c/stlouis_mo/The Game 104.5.png",
-            url: "https://ice24.securenetsystems.net/WGNU"
-        },
-        {
             name: "104.9 The Patriot",
             logo: "stations/images-america/c2c/stlouis_mo/104.9 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc1281/hls.m3u8"
@@ -25470,7 +25465,7 @@ var stations_c2c = {
         {
             name: "Z92",
             logo: "stations/images-america/c2c/omaha_ne/Z92.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEZOFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7649_128k.aac"
         },
         {
             name: "The Wolf 93.3",
@@ -25540,12 +25535,12 @@ var stations_c2c = {
         {
             name: "Star 104.5",
             logo: "stations/images-america/c2c/omaha_ne/Star 104.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSRZFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7707_128k.aac"
         },
         {
             name: "Classic Rock 105.9",
             logo: "stations/images-america/c2c/omaha_ne/Classic Rock 105.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKCDFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7705_128k.aac"
         },
         {
             name: "Power 106.9",
@@ -32102,7 +32097,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2780/hls.m3u8"
         },
         {
-            name: "Hot 106.7",
+            name: "HOT 106.7",
             logo: "stations/images-america/c2c/nashville_tn/Hot 106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNFNFMAAC_SC"
         },
