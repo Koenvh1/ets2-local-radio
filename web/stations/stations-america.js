@@ -17163,6 +17163,93 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRWNFMAAC_SC"
         },
     ],
+    "statesboro": [
+        {
+            name: "WSLT 88.5",
+            logo: "stations/images-america/c2c/statesboro_ga/WSLT 88.5.png",
+            url: "https://ice42.securenetsystems.net/WSLT"
+        },
+        {
+            name: "HIS Radio 88.9",
+            logo: "stations/images-america/c2c/statesboro_ga/HIS Radio 88.9.png",
+            url: "https://rtn.cdnstream1.com/2566_96.aac"
+        },
+        {
+            name: "91.1 GPB",
+            logo: "stations/images-america/c2c/savannah_ga/91.1 GPB.png",
+            url: "https://gpb.streamguys1.com/gpb-savannah-aac"
+        },
+        {
+            name: "E93",
+            logo: "stations/images-america/c2c/savannah_ga/E93.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEASFMAAC_SC"
+        },
+        {
+            name: "94.1 The Beat",
+            logo: "stations/images-america/c2c/savannah_ga/94.1 The Beat.png",
+            url: "https://stream.revma.ihrhls.com/zc805/hls.m3u8"
+        },
+        {
+            name: "Eagle 94.9",
+            logo: "stations/images-america/c2c/statesboro_ga/Eagle 94.9.png",
+            url: "https://ice64.securenetsystems.net/WPMX"
+        },
+        {
+            name: "I-95",
+            logo: "stations/images-america/c2c/savannah_ga/I-95.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIXVFMAAC_SC"
+        },
+        {
+            name: "KIX 96",
+            logo: "stations/images-america/c2c/savannah_ga/KIX 96.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCLFMAAC_SC"
+        },
+        {
+            name: "97.3 KISS FM",
+            logo: "stations/images-america/c2c/savannah_ga/97.3 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc809/hls.m3u8"
+        },
+        {
+            name: "Magic 98.1",
+            logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1.png",
+            url: "https://ice64.securenetsystems.net/WEDB"
+        },
+        {
+            name: "Hashtag 99.7",
+            logo: "stations/images-america/c2c/statesboro_ga/Hashtag 99.7.png",
+            url: "https://ice64.securenetsystems.net/WPTB"
+        },
+        {
+            name: "K-LOVE 102.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "The LifeFM 102.9",
+            logo: "stations/images-america/c2c/statesboro_ga/The LifeFM 102.9.png",
+            url: "https://ice41.securenetsystems.net/WHQA"
+        },
+        {
+            name: "103.7 The Boomer",
+            logo: "stations/images-america/c2c/statesboro_ga/103.7 The Boomer.png",
+            url: "https://ice64.securenetsystems.net/WBMZ"
+        },
+        {
+            name: "106.5 The Boro",
+            logo: "stations/images-america/c2c/statesboro_ga/106.5 The Boro.png",
+            url: "https://ice64.securenetsystems.net/WMCD"
+        },
+        {
+            name: "Air1 107.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "FOX News 107.7",
+            logo: "stations/images-america/c2c/statesboro_ga/FOX News 107.7.png",
+            url: "http://ice64.securenetsystems.net/WWNS"
+        },
+    ],
     "valdosta": [
         {
             name: "WFSU 88.9",

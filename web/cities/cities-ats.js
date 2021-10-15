@@ -3495,6 +3495,12 @@ var country_properties_c2c = {
         code: "us-ga",
         relative_radius: 0.9
     },
+    "statesboro": {
+        name: "Statesboro",
+        name_english: "Statesboro",
+        code: "us-ga",
+        relative_radius: 0.7
+    },
     "valdosta": {
         name: "valdosta",
         name_english: "valdosta",
@@ -5079,6 +5085,9 @@ var city_properties_c2c = {
     "savannah": {
         relative_whitenoise: 0.95
     },
+    "statesboro": {
+        relative_whitenoise: 0.85
+    },
     "valdosta": {
         relative_whitenoise: 0.95
     },
@@ -6096,6 +6105,14 @@ var cities_c2c = [
         "x": "71340.3",
         "y": "96.3945",
         "z": "33230.1"
+    },
+    {
+        "gameName": "statesboro",
+        "realName": "Statesboro",
+        "country": "georgia",
+        "x": "65187.3",
+        "y": "59.0311",
+        "z": "32035.8"
     },
     {
         "gameName": "valdosta",
