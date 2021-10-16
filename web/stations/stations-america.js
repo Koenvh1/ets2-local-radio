@@ -9627,8 +9627,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC_SC"
         },
         {
-            name: "ALT 105.3",
-            logo: "stations/images-america/san_francisco/ALT 105.3.png",
+            name: "105.3 Dave FM",
+            logo: "stations/images-america/san_francisco/105.3 Dave FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KITSFMAAC_SC"
         },
         {
@@ -10394,12 +10394,12 @@ var stations = {
             name: "103.9 BOB FM",
             logo: "stations/images-america/spokane/103.9 BOB FM.png",
             url: "https://ice6.securenetsystems.net/KBBD"
-        },
+        },/*
         {
-            name: "104.5 Hank FM",
-            logo: "stations/images-america/spokane/104.5 Hank FM.png",
-            url: "https://ice9.securenetsystems.net/KNHK"
-        },
+            name: "All Christmas 104.5",
+            logo: "stations/images-america/spokane/All Christmas 104.5.png",
+            url: "no stream yet - 16.10.2021"
+        },*/
         {
             name: "Shine 104.9",
             logo: "stations/images-america/spokane/Shine 104.9.png",
