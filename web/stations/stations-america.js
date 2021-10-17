@@ -14979,11 +14979,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc517/hls.m3u8"
         },
         {
-            name: "Hallelujah 93.3-HD2",
-            logo: "stations/images-america/c2c/jacksonville_fl/Hallelujah 93.3-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
-        },
-        {
             name: "Jax Country 94.1",
             logo: "stations/images-america/c2c/jacksonville_fl/Jax Country 94.1.png",
             url: "https://ice42.securenetsystems.net/WSOS"
