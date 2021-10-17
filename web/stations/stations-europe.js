@@ -3471,7 +3471,7 @@ var stations = {
         {
             name: "M80 Rádio",
             logo: "stations/images-europe/portugal/M80 Rádio.png",
-            url: "https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8"
+            url: "https://media2.mcr.iol.pt/livefm/m80/playlist.m3u8"
         },
         {
             name: "Rádio Comercial",

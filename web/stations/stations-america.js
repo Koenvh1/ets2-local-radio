@@ -14849,7 +14849,7 @@ var stations_c2c = {
         {
             name: "GHQ 95.3",
             logo: "stations/images-america/c2c/gainesville_fl/GHQ 95.3.png",
-            url: "https://ais-sa1.streamon.fm/7269_48k.aac"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7269_48k.aac"
         },
         {
             name: "97.3 The Sky",
@@ -15064,6 +15064,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/jac1065/jac1065-sgplayer-aac"
         },
         {
+            name: "103Q",
+            logo: "stations/images-america/c2c/jacksonville_fl/103Q.png",
+            url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
+        },
+        {
             name: "Pure Radio 103.7",
             logo: "stations/images-america/c2c/jacksonville_fl/Pure Radio 103.7.png",
             url: "https://ice64.securenetsystems.net/WJNJAM"
@@ -15092,6 +15097,11 @@ var stations_c2c = {
             name: "Power 106.1",
             logo: "stations/images-america/c2c/jacksonville_fl/Power 106.1.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/jac969hd2/jac969hd2-sgplayer-aac"
+        },
+        {
+            name: "K-BAY 106.3",
+            logo: "stations/images-america/c2c/jacksonville_fl/K-BAY 106.3.png",
+            url: "https://ice24.securenetsystems.net/WKBX"
         },
         {
             name: "X106.5",
@@ -16967,18 +16977,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3050/hls.m3u8"
         },
     ],
-    "kingsland_ga": [
-        {
-            name: "103Q",
-            logo: "stations/images-america/c2c/kingsland_ga/103Q.png",
-            url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
-        },
-        {
-            name: "K-BAY 106.3",
-            logo: "stations/images-america/c2c/kingsland_ga/K-BAY 106.3.png",
-            url: "https://ice24.securenetsystems.net/WKBX"
-        },
-    ],
     "macon": [
         {
             name: "89.7 GPB",
@@ -17282,8 +17280,8 @@ var stations_c2c = {
             url: "http://108.163.223.242:8122/;stream.mp3"
         },
         {
-            name: "WGOV 96.7",
-            logo: "stations/images-america/c2c/valdosta_ga/WGOV 96.7.png",
+            name: "Power 96.7",
+            logo: "stations/images-america/c2c/valdosta_ga/Power 96.7.png",
             url: "https://streamingv2.shoutcast.com/magic-985-fm"
         },
         {
@@ -20611,7 +20609,7 @@ var stations_c2c = {
         },
         {
             name: "HOT 92.9-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/The Bet 92.9.png",
+            logo: "stations/images-america/c2c/new_orleans_la/HOT 92.9-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLMGHD2AAC_SC"
         },
         {
@@ -20670,7 +20668,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1053/hls.m3u8"
         },
         {
-            name: "The Sweat Hotel with Keith Sweat 98.5-HD2",
+            name: "The Sweat Hotel with K. Sweat 98.5-HD2",
             logo: "stations/images-america/c2c/new_orleans_la/The Sweat Hotel with Keith Sweat 98.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6529/hls.m3u8"
         },

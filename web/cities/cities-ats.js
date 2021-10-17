@@ -3385,7 +3385,7 @@ var country_properties_c2c = {
         name: "jacksonville",
         name_english: "jacksonville",
         code: "us-fl",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "key_west": {
         name: "key_west",
@@ -3468,12 +3468,6 @@ var country_properties_c2c = {
     "augusta_ga": {
         name: "augusta_ga",
         name_english: "augusta_ga",
-        code: "us-ga",
-        relative_radius: 0.9
-    },
-    "kingsland_ga": {
-        name: "kingsland_ga",
-        name_english: "kingsland_ga",
         code: "us-ga",
         relative_radius: 0.9
     },
@@ -5029,7 +5023,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "jacksonville": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.85
     },
     "key_west": {
         relative_whitenoise: 0.95
@@ -5071,9 +5065,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "augusta_ga": {
-        relative_whitenoise: 0.95
-    },
-    "kingsland_ga": {
         relative_whitenoise: 0.95
     },
     "columbus_ga": {
@@ -5966,9 +5957,9 @@ var cities_c2c = [
         "gameName": "jacksonville",
         "realName": "Jacksonville",
         "country": "florida",
-        "x": "70433.8",
-        "y": "57.4102",
-        "z": "43424.5"
+        "x": "70683.2",
+        "y": "114.177",
+        "z": "42033.6"
     },
     {
         "gameName": "key_west",
@@ -6073,14 +6064,6 @@ var cities_c2c = [
         "x": "65444.4",
         "y": "25.1757",
         "z": "25661.2"
-    },
-    {
-        "gameName": "kingsland_ga",
-        "realName": "Kingsland",
-        "country": "georgia",
-        "x": "69471.4",
-        "y": "12.696",
-        "z": "40258"
     },
     {
         "gameName": "columbus_ga",
