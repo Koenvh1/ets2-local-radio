@@ -3507,6 +3507,12 @@ var country_properties_c2c = {
         code: "us-hi",
         relative_radius: 1.1
     },
+    "honolulu": {
+        name: "Honolulu",
+        name_english: "Honolulu",
+        code: "us-hi",
+        relative_radius: 1.1
+    },
     "illinois": {
         name: "illinois",
         name_english: "illinois",
@@ -5085,6 +5091,9 @@ var city_properties_c2c = {
     "hilo": {
         relative_whitenoise: 0.90
     },
+    "honolulu": {
+        relative_whitenoise: 0.90
+    },
     "illinois": {
         relative_whitenoise: 0.95
     },
@@ -6112,6 +6121,14 @@ var cities_c2c = [
         "x": "-293173",
         "y": "74.7109",
         "z": "42103.5"
+    },
+    {
+        "gameName": "honolulu",
+        "realName": "Honolulu",
+        "country": "hawaii",
+        "x": "-313617",
+        "y": "3.34848",
+        "z": "-11027.75"
     },
     {
         "gameName": "bloomington_il",

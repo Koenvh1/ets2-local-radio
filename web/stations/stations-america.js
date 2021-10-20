@@ -17337,6 +17337,33 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7724_48k.aac"
         }, 
     ],	
+    "honolulu": [
+        {
+            name: "HPR News 89.1",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/khpr2"
+        }, 
+        {
+            name: "HPR Classical 91.3",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/kipo2"
+        },
+        {
+            name: "The Wave@92FM",
+            logo: "stations/images-america/c2c/hilo_hi/The Wave@92FM.png",
+            url: "https://ais-sa1.streamon.fm/7002_48k.aac"
+        },
+        {
+            name: "102.7 The Beach",
+            logo: "stations/images-america/c2c/hilo_hi/102.7 The Beach.png",
+            url: "https://ais-sa1.streamon.fm/7360_48k.aac"
+        }, 
+        {
+            name: "KOA Country 107.7",
+            logo: "stations/images-america/c2c/hilo_hi/KOA Country 107.7.png",
+            url: "https://ais-sa1.streamon.fm/7724_48k.aac"
+        }, 
+    ],	
     "bloomington_il": [
         {
             name: "WESN 88.1",
