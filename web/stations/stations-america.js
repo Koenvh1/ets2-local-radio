@@ -15161,6 +15161,16 @@ var stations_c2c = {
     ],
     "key_west": [
         {
+            name: "K-LOVE 90.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "SonLife Radio 90.5",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://sonlifeflash-lh.akamaihd.net/i/sonliferadioflash_hls@119768/master.m3u8"
+        },
+        {
             name: "SOS Radio 90.9",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
             url: "https://ic2.sslstream.com/sosnet.mp3"
@@ -15169,6 +15179,16 @@ var stations_c2c = {
             name: "WKWM 91.5",
             logo: "stations/images-america/c2c/key_west_fl/WKWM 91.5.png",
             url: "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnfmaac-imc1"
+        },
+        {
+            name: "Classical 91.5-HD2",
+            logo: "stations/images-america/c2c/miami_fl/WLRN Classical 91.3-HD2.png",
+            url: "https://live.wostreaming.net/direct/wlrnpublicmedia-wlrnhd2aac-imc1"
+        },
+        {
+            name: "Hope 91.9",
+            logo: "stations/images-america/c2c/key_west_fl/Hope 91.9.png",
+            url: "https://ice66.securenetsystems.net/WKWJ"
         },
         {
             name: "WEOW 92.7",
@@ -15211,9 +15231,19 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/WFKZ"
         },
         {
+            name: "WKWF 103.3",
+            logo: "stations/images-america/c2c/key_west_fl/WKWF 103.3.png",
+            url: "https://sh.fl-us.audio-stream.com/proxy/rconne02?mp=/stream"
+        },
+        {
             name: "US1 104.1",
             logo: "stations/images-america/c2c/key_west_fl/US1 104.1.png",
             url: "https://ice42.securenetsystems.net/WWUS"
+        },
+        {
+            name: "104.9 The X",
+            logo: "stations/images-america/c2c/key_west_fl/104.9 The X.png",
+            url: "https://ice9.securenetsystems.net/WXKW"
         },
         {
             name: "Party 105.7",
@@ -15229,6 +15259,11 @@ var stations_c2c = {
             name: "El Zol 107.9",
             logo: "stations/images-america/c2c/miami_fl/El Zol 106.7.png",
             url: "https://live.wostreaming.net/manifest/sbsystems-wxdjfmaac-imc1"
+        },
+        {
+            name: "Radio Martí 1180",
+            logo: "stations/images-america/c2c/key_west_fl/Radio Martí 1180.png",
+            url: "https://stream.radiojar.com/3ds9yqpgq3quv"
         },
     ],
     "melbourne_fl": [
