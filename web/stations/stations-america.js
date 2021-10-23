@@ -9315,6 +9315,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBZTHD2AAC_SC"
         },
         {
+            name: "Comedy Now 94.9-HD3",
+            logo: "stations/images-america/san_diego/Comedy Now 94.9-HD3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/COMEDYNOWAAC_SC"
+        },
+        {
             name: "JAM’N 95.7",
             logo: "stations/images-america/san_diego/Jam'n 95.7.png",
             url: "https://stream.revma.ihrhls.com/zc261/hls.m3u8"
@@ -15334,6 +15339,11 @@ var stations_c2c = {
         },
     ],
     "miami": [
+        {
+            name: "La Nueva 88.3",
+            logo: "stations/images-america/c2c/miami_fl/La Nueva 88.3.png",
+            url: "https://radio.worldkast.com:2000/stream/8042"
+        },
         {
             name: "88.9 WDNA",
             logo: "stations/images-america/c2c/miami_fl/88.9 WDNA.png",
@@ -26287,18 +26297,18 @@ var stations_c2c = {
             url: "https://wbgo.streamguys1.com/thejazzstream"
         },
         {
-            name: "RetroRadio Oldies on WFDU 89.1",
+            name: "WFDU 89.1",
             logo: "stations/images-america/c2c/nyc/WFDU 89.1.png",
             url: "http://peridot.streamguys.com:5350/iheart"
         },
         {
-            name: "The Eclectic Sound of WFUD 89.1-HD2",
-            logo: "stations/images-america/c2c/nyc/WFDU 89.1.png",
+            name: "WFUD 89.1-HD2",
+            logo: "stations/images-america/c2c/nyc/WFUD 89.1-HD2.png",
             url: "http://peridot.streamguys.com:5350/iheartjazz"
         },
         {
-            name: "The WFDU Student Station 89.1-HD3",
-            logo: "stations/images-america/c2c/nyc/WFDU 89.1.png",
+            name: "WFDU 89.1-HD3",
+            logo: "stations/images-america/c2c/nyc/WFDU 89.1-HD3.png",
             url: "http://peridot.streamguys.com:5350/iheartclassical"
         },
         {
@@ -26322,9 +26332,19 @@ var stations_c2c = {
             url: "https://onair.wfuv.org/onair-aacplus"
         },
         {
+            name: "WFUV All Music 90.7-HD2",
+            logo: "stations/images-america/c2c/nyc/90.7 WFUV.png",
+            url: "https://music.wfuv.org/music-aacplus"
+        },
+        {
             name: "WFMU 91.9",
             logo: "stations/images-america/c2c/nyc/WFMU 91.1.png",
             url: "http://stream0.wfmu.org/freeform-128k.mp3"
+        },
+        {
+            name: "Qué Buena 92.7",
+            logo: "stations/images-america/c2c/nyc/Qué Buena 92.7.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-wqbufmaac-ibc1"
         },
         {
             name: "ALT 92.3",
@@ -26332,8 +26352,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC_SC"
         },
         {
-            name: "ALT 92.3-HD2",
-            logo: "stations/images-america/c2c/nyc/ALT 92.3-HD2.png",
+            name: "New Arrivals 92.3-HD2",
+            logo: "stations/images-america/c2c/nyc/New Arrivals 92.3-HD2.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2AAC_SC"
         },
         {
@@ -26347,14 +26367,44 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/sbsystems-wpatfmaac-imc1"
         },
         {
+            name: "La Nueva 93.1-HD2",
+            logo: "stations/images-america/c2c/nyc/La Nueva 93.1-HD2.png",
+            url: "https://radio.worldkast.com:2000/stream/8042"
+        },
+        {
             name: "WNYC 93.9",
             logo: "stations/images-america/c2c/nyc/WNYC.png",
             url: "https://fm939.wnyc.org/wnycfm-web"
         },
         {
-            name: "New York's Country 94.7",
-            logo: "stations/images-america/c2c/nyc/New York's Country 94.7.png",
+            name: "94.7 The Block",
+            logo: "stations/images-america/c2c/nyc/94.7 The Block.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNSHFMAAC_SC"
+        },
+        {
+            name: "New York's Country 94.7-HD2",
+            logo: "stations/images-america/c2c/nyc/New York's Country 94.7-HD2.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNSHHD2AAC_SC"
+        },
+        {
+            name: "K-LOVE 95.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "K-LOVE 90s 95.5-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+        },
+        {
+            name: "Air1 95.5-HD3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "X96.3",
+            logo: "stations/images-america/c2c/nyc/X96.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-wxnyfmaac-ibc1"
         },
         {
             name: "HOT 97",
@@ -26407,6 +26457,11 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC_SC"
         },
         {
+            name: "CBS Sports Radio 101.9-HD2",
+            logo: "stations/images-america/0_general_logos/CBS Sports Radio.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CBSSPORTSAAC_SC"
+        },
+        {
             name: "NEW 102.7",
             logo: "stations/images-america/c2c/nyc/New 102.7.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFMAAC_SC"
@@ -26440,6 +26495,11 @@ var stations_c2c = {
             name: "Q104.3",
             logo: "stations/images-america/c2c/nyc/Q104.3.png",
             url: "https://stream.revma.ihrhls.com/zc1465/hls.m3u8"
+        },
+        {
+            name: "ALT 104.3-HD3",
+            logo: "stations/images-america/0_general_logos/ALT Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
         {
             name: "Power 105.1",
