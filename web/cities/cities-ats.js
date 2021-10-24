@@ -3817,13 +3817,13 @@ var country_properties_c2c = {
         name: "baltimore",
         name_english: "baltimore",
         code: "us-md",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "washington_dc": {
         name: "washington_dc",
         name_english: "washington_dc",
         code: "us-md",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "massachusetts": {
         name: "massachusetts",
@@ -4849,7 +4849,7 @@ var country_properties_c2c = {
         name: "harrisonburg_va",
         name_english: "harrisonburg_va",
         code: "us-va",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "norfolk": {
         name: "norfolk",
@@ -5239,10 +5239,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "baltimore": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "washington_dc": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "massachusetts": {
         relative_whitenoise: 0.95
@@ -5755,7 +5755,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "harrisonburg_va": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "norfolk": {
         relative_whitenoise: 0.95
@@ -6467,7 +6467,7 @@ var cities_c2c = [
     },
     {
         "gameName": "washington_dc",
-        "realName": "Washington",
+        "realName": "Washington, DC",
         "country": "maryland",
         "x": "82526",
         "y": "130.223",
