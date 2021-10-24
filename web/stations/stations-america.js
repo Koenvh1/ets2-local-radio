@@ -34907,6 +34907,11 @@ var stations_c2c = {
             url: "http://wvtf-ice.streamguys1.com/wvtfmusic-aac-128"
         },
         {
+            name: "K92",
+            logo: "stations/images-america/c2c/roanoke_va/K92.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-k92aac-imc1"
+        },
+        {
             name: "JJS 93.5",
             logo: "stations/images-america/c2c/roanoke_va/JJS 93.5.png",
             url: "https://stream.revma.ihrhls.com/zc2493/hls.m3u8"
@@ -34915,6 +34920,11 @@ var stations_c2c = {
             name: "Rhythm & Praise 94.1",
             logo: "stations/images-america/c2c/roanoke_va/Rhythm & Praise 94.1.png",
             url: "https://ice24.securenetsystems.net/GOSPH"
+        },
+        {
+            name: "94.9 Star Country",
+            logo: "stations/images-america/c2c/roanoke_va/94.9 Star Country.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-star94aac-imc1"
         },
         {
             name: "96.3 ROV",
@@ -34930,6 +34940,16 @@ var stations_c2c = {
             name: "ALT 96",
             logo: "stations/images-america/c2c/roanoke_va/ALT 96.png",
             url: "https://stream.revma.ihrhls.com/zc8773/hls.m3u8"
+        },
+        {
+            name: "The Rock Channel 97.3",
+            logo: "stations/images-america/c2c/roanoke_va/The Rock Channel 97.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-wxlkhd2aac-imc4"
+        },
+        {
+            name: "Q99",
+            logo: "stations/images-america/c2c/roanoke_va/Q99.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-q99aac-imc1"
         },
         {
             name: "ESPN 99.5",
@@ -35041,6 +35061,11 @@ var stations_c2c = {
             url: "http://wvtf-ice.streamguys1.com/radioiq-aac-128"
         },
         {
+            name: "K92",
+            logo: "stations/images-america/c2c/roanoke_va/K92.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-k92aac-imc1"
+        },
+        {
             name: "WLOY 93.3",
             logo: "stations/images-america/c2c/wytheville_va/WLOY 93.3.png",
             url: "http://war.str3am.com:8130/live"
@@ -35051,6 +35076,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/bristolbroad-wmevfmaac-ibc2"
         },
         {
+            name: "94.9 Star Country",
+            logo: "stations/images-america/c2c/roanoke_va/94.9 Star Country.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-star94aac-imc1"
+        },
+        {
             name: "KOOL 95.3",
             logo: "stations/images-america/c2c/wytheville_va/KOOL 95.3.png",
             url: "https://live.wostreaming.net/manifest/threeriversmedia-wxbxfmaac-ibc1"
@@ -35059,6 +35089,26 @@ var stations_c2c = {
             name: "Classic Country 98.1",
             logo: "stations/images-america/c2c/wytheville_va/Classic Country 98.1.png",
             url: "https://live.wostreaming.net/manifest/blueridgeradio-wbrffmaac-ibc4"
+        },
+        {
+            name: "Q99",
+            logo: "stations/images-america/c2c/roanoke_va/Q99.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-q99aac-imc1"
+        },
+        {
+            name: "99.5 WJLS",
+            logo: "stations/images-america/c2c/wytheville_va/99.5 WJLS.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wjlsfmaac-ibc2"
+        },
+        {
+            name: "J104",
+            logo: "stations/images-america/c2c/wytheville_va/J104.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/firstmediaservices-whajfmaac-ibc1"
+        },
+        {
+            name: "107.1 WPSK",
+            logo: "stations/images-america/c2c/wytheville_va/107.1 WPSK.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPSKFMAAC_SC"
         },
     ],
     "charleston_wv": [
