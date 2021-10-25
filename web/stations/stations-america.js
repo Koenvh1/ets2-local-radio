@@ -17884,12 +17884,12 @@ var stations_c2c = {
         {
             name: "98.5 KISS FM",
             logo: "stations/images-america/c2c/peoria_il/98.5 KISS FM.png",
-            url: "https://rocket.surfernetwork.com:10001/live/wpia-fm_aac/playlist.m3u8"
+            url: "https://ice24.securenetsystems.net/WPIA"
         },
         {
             name: "99.9 WWCT",
             logo: "stations/images-america/c2c/peoria_il/99.9 WWCT.png",
-            url: "https://rocket.surfernetwork.com:10001/live/wwct-fm_aac/playlist.m3u8"
+            url: "https://ice24.securenetsystems.net/WWCT"
         },
         {
             name: "100.3 WMBD",
@@ -21073,6 +21073,16 @@ var stations_c2c = {
     ],
     "portland_me": [
         {
+            name: "God's Country 88.9",
+            logo: "stations/images-america/c2c/portland_me/God's Country 88.9.png",
+            url: "http://ic1.christiannetcast.com/wmdr-fm"
+        },
+        {
+            name: "K-LOVE 89.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "Maine Public Radio 90.1",
             logo: "stations/images-america/0_general_logos/Maine Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEAFM_SC"
@@ -21088,6 +21098,26 @@ var stations_c2c = {
             url: "http://quarrel.str3am.com:7270/"
         },
         {
+            name: "Seacoast Oldies 92.1",
+            logo: "stations/images-america/c2c/portsmouth_nh/Seacoast Oldies 97.1.png",
+            url: "https://ais-sa1.streamon.fm/7671_48k.aac"
+        },
+        {
+            name: "92 Moose",
+            logo: "stations/images-america/c2c/augusta_me/92 Moose.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-wmmefmaac-ibc3"
+        },
+        {
+            name: "Coast 93.1",
+            logo: "stations/images-america/c2c/portland_me/Coast 93.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wmgxfmaac-ibc1"
+        },
+        {
+            name: "Air1 93.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "94.3 WCYY",
             logo: "stations/images-america/c2c/portland_me/94.3 WCYY.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wcyyfmaac-ibc3"
@@ -21096,6 +21126,11 @@ var stations_c2c = {
             name: "94.9 WHOM",
             logo: "stations/images-america/c2c/portland_me/94.9 WHOM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-whomfmaac-ibc3"
+        },
+        {
+            name: "WPEI 95.9",
+            logo: "stations/images-america/c2c/portland_me/WPEI 95.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WEEIFMAAC_SC"
         },
         {
             name: "96.3 The Big JAB",
@@ -21108,6 +21143,16 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wjbqfmaac-ibc3"
         },
         {
+            name: "WGAN 98.5",
+            logo: "stations/images-america/c2c/portland_me/WGAN 98.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wganamaac-ibc1"
+        },
+        {
+            name: "98.9 WCLZ",
+            logo: "stations/images-america/c2c/portland_me/98.9 WCLZ.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wclzfmaac-ibc1"
+        },
+        {
             name: "99.9 The Wolf",
             logo: "stations/images-america/c2c/portland_me/99.9 The Wolf.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTHT_FMAAC_SC"
@@ -21116,6 +21161,16 @@ var stations_c2c = {
             name: "100.5 WLOB",
             logo: "stations/images-america/c2c/portland_me/100.5 WLOB.png",
             url: "http://ic1.mainstreamnetwork.com/wlob-am"
+        },
+        {
+            name: "Rewind 100.9",
+            logo: "stations/images-america/c2c/portland_me/Rewind 100.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wynzfmaac-ibc1"
+        },
+        {
+            name: "101.9 POR",
+            logo: "stations/images-america/c2c/portland_me/101.9 POR.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wporfmaac-ibc1"
         },
         {
             name: "102.9 WBLM",
@@ -21128,9 +21183,19 @@ var stations_c2c = {
             url: "https://ice9.securenetsystems.net/WHTP"
         },
         {
+            name: "WBCI 105.9",
+            logo: "stations/images-america/c2c/portland_me/WBCI 105.9.png",
+            url: "https://ic1.sslstream.com/wbci-fm"
+        },
+        {
             name: "106.3 The Bone",
             logo: "stations/images-america/c2c/portland_me/106.3 The Bone.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHXR_FMAAC_SC"
+        },
+        {
+            name: "107.1 The Bay",
+            logo: "stations/images-america/c2c/portland_me/107.1 The Bay.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wbaeamaac-ibc1"
         },
         {
             name: "107.5 Frank",
@@ -26778,8 +26843,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WBZAFMAAC_SC"
         },
         {
-            name: "Mix 100.5",
-            logo: "stations/images-america/c2c/rochester_ny/Mix 100.5.png",
+            name: "Country 100.5",
+            logo: "stations/images-america/c2c/rochester_ny/Country 100.5.png",
             url: "https://stream.revma.ihrhls.com/zc1521/hls.m3u8"
         },
         {
