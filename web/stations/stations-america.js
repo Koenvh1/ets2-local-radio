@@ -9415,11 +9415,6 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSONHD2AAC_SC"
         },
         {
-            name: "KSON-HD3 103.7-HD3",
-            logo: "stations/images-america/los_angeles/106.7 KROQ.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KROQFMAAC_SC"
-        },
-        {
             name: "104.5 Radio Latina",
             logo: "stations/images-america/mexico/tijuana/104.5 Radio Latina.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC_SC"
@@ -34400,8 +34395,8 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "95.5 Triple X",
-            logo: "stations/images-america/c2c/burlington_vt/95.5 Triple X.png",
+            name: "95 Triple X",
+            logo: "stations/images-america/c2c/burlington_vt/95 Triple X.png",
             url: "https://crystalout.surfernetwork.com:8001/WXXX-FM_MP3"
         },
         {
