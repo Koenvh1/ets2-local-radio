@@ -4293,6 +4293,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
+            name: "iMix 92.3",
+            logo: "stations/images-america/jackson/iMix 92.3.png",
+            url: "http://nebcoradio.com:1010/KIXM"
+        },
+        {
             name: "KJAX 93.5",
             logo: "stations/images-america/jackson/KJAX 93.5.png",
             url: "https://us2.maindigitalstream.com/ssl/KJAX"
