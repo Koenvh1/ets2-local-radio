@@ -1354,9 +1354,19 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
+            name: "Pilgrim Radio 91.3",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
+        },
+        {
             name: "ALT 92.1",
             logo: "stations/images-america/reno/ALT 92.1.png",
             url: "https://ice24.securenetsystems.net/ALT921"
+        },
+        {
+            name: "K-LOVE 93.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "Swag 93.5",
@@ -1367,6 +1377,11 @@ var stations = {
             name: "93.9 The Lake",
             logo: "stations/images-america/ltahoe/93.9 The Lake.png",
             url: "http://75.140.35.218:88/broadwavehigh.mp3"
+        },
+        {
+            name: "ESPN Radio 94.5",
+            logo: "stations/images-america/reno/ESPN Radio 94.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KUUBFMAAC_SC"
         },
         {
             name: "KNVC 95.1",
@@ -1394,6 +1409,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
+            name: "100.1 We FM",
+            logo: "stations/images-america/reno/100.1 We FM.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
+        },
+        {
             name: "Wild 102.9",
             logo: "stations/images-america/reno/Wild 102.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
@@ -1404,14 +1424,24 @@ var stations = {
             url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KODS"
         },
         {
-            name: "Fun 105.1",
-            logo: "stations/images-america/reno/Fun 100.9.png",
+            name: "ROCK 104.5",
+            logo: "stations/images-america/reno/ROCK 104.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDOTFMAAC_SC"
+        },
+        {
+            name: "FUN 105.1",
+            logo: "stations/images-america/reno/FUN 101.png",
             url: "http://ice42.securenetsystems.net/KRFN"
         },
         {
             name: "The Wolf 105.1-HD2",
             logo: "stations/images-america/reno/95.1 The Wolf.png",
             url: "https://ice42.securenetsystems.net/KWFP"
+        },
+        {
+            name: "105.7 KOZZ",
+            logo: "stations/images-america/reno/105.7 KOZZ.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOZZFMAAC_SC"
         },
         {
             name: "106.9 More FM",
@@ -2521,6 +2551,26 @@ var stations = {
             logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
         },
+        {
+            name: "93.7 Jack FM",
+            logo: "stations/images-america/elko/93.7 Jack FM.png",
+            url: "https://us2.maindigitalstream.com/ssl/KLKO"
+        },
+        {
+            name: "KRJC 95.3",
+            logo: "stations/images-america/elko/KRJC 95.3.png",
+            url: "https://us2.maindigitalstream.com/ssl/KRJC"
+        },
+        {
+            name: "KELK 95.9",
+            logo: "stations/images-america/elko/KELK 95.9.png",
+            url: "https://us2.maindigitalstream.com/ssl/KELK"
+        },
+        {
+            name: "FOX Sports 104.7",
+            logo: "stations/images-america/elko/FOX Sports 104.7.png",
+            url: "http://173.193.205.96:7653/;stream"
+        },
     ],
     "ely": [
         {
@@ -2534,7 +2584,12 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
-            name: "FM100.3",
+            name: "KDSS 92.7",
+            logo: "stations/images-america/ely/KDSS 92.7.png",
+            url: "http://208.70.75.109:8100/stream"
+        },
+        {
+            name: "K237AJ 95.3",
             logo: "stations/images-america/salt_lake/FM100.3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
@@ -7887,8 +7942,8 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
-            name: "Fun 100.9",
-            logo: "stations/images-america/reno/Fun 100.9.png",
+            name: "FUN 101",
+            logo: "stations/images-america/reno/FUN 101.png",
             url: "http://ice42.securenetsystems.net/KRFN"
         },
         {
@@ -7955,6 +8010,21 @@ var stations = {
             name: "780 KOH",
             logo: "stations/images-america/reno/780 KOH.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
+        },
+        {
+            name: "Relevant Radio 920",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+        },
+        {
+            name: "America Matters Media 1060",
+            logo: "stations/images-america/reno/America Matters Media 1060.png",
+            url: "https://ais-sa1.streamon.fm/7198_24k.aac"
+        },
+        {
+            name: "Radio Vida 1550",
+            logo: "stations/images-america/roswell/Radio Vida 101.1.png",
+            url: "http://shout2.brnstream.com:8006/stream"
         },
         {
             name: "Wolf Pack Radio 1700",
@@ -15380,6 +15450,11 @@ var stations_c2c = {
             url: "http://216.21.64.84:8000/THE-CRIB"
         },
         {
+            name: "Easy 93.1",
+            logo: "stations/images-america/c2c/miami_fl/Easy 93.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/mia931/mia931-sgplayer-aac"
+        },
+        {
             name: "Revolution 93.5",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
             url: "https://streaming.revolution935.com/live"
@@ -15398,6 +15473,11 @@ var stations_c2c = {
             name: "Ritmo 95.7",
             logo: "stations/images-america/c2c/miami_fl/Ritmo 95.7.png",
             url: "https://live.wostreaming.net/manifest/sbsystems-wrmafmaac-imc1"
+        },
+        {
+            name: "96.1 WZPP",
+            logo: "stations/images-america/c2c/miami_fl/96.1 WZPP.png",
+            url: "https://aud1.sjamz.com/8132/stream"
         },
         {
             name: "Power 96.5",
@@ -15430,14 +15510,14 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-wrtofmaac-ibc1"
         },
         {
+            name: "99 JAMZ",
+            logo: "stations/images-america/c2c/miami_fl/99 JAMZ.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/mia991/mia991-sgplayer-aac"
+        },
+        {
             name: "KISS Country 99.9",
             logo: "stations/images-america/c2c/miami_fl/KISS Country 99.9.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKISFMAAC_SC"
-        },
-        {
-            name: "The Grind 100.3",
-            logo: "stations/images-america/c2c/miami_fl/100.3 The Grind.png",
-            url: "https://stream.zeno.fm/10t6t40rneruv"
         },
         {
             name: "Y100",
@@ -15510,8 +15590,8 @@ var stations_c2c = {
             url: "http://173.193.205.96:7034/stream"
         },
         {
-            name: "560 The JOE",
-            logo: "stations/images-america/c2c/miami_fl/560 The JOE.png",
+            name: "560 WQAM",
+            logo: "stations/images-america/c2c/miami_fl/560 WQAM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQAMAMAAC_SC"
         },
         {
