@@ -9428,6 +9428,11 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KRRS"
         },
         {
+            name: "106.3 The Beat",
+            logo: "stations/images-america/santa_rosa_ca/106.3 The Beat.png",
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KJZYSFM?f=noreferer"
+        },
+        {
             name: "La Z 107.5",
             logo: "stations/images-america/santa_rosa_ca/La Z 107.5.png",
             url: "https://ice9.securenetsystems.net/KZNB"
