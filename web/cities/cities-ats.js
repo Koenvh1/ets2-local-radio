@@ -647,6 +647,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 1.0
     },
+    "santa_rosa_ca": {
+        name: "Santa Rosa",
+        name_english: "Santa Rosa",
+        code: "us-ca",
+        relative_radius: 0.4
+    },
     "sheridan": {
         name: "Sheridan",
         name_english: "Sheridan",
@@ -789,7 +795,7 @@ var country_properties = {
         name: "Ukiah",
         name_english: "Ukiah",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "vernal": {
         name: "Vernal",
@@ -1187,6 +1193,9 @@ var city_properties = {
     "salt_lake": {
         relative_whitenoise: 0.85
     },
+    "santa_rosa_ca": {
+        relative_whitenoise: 0.75
+    },
     "sheridan": {
         relative_whitenoise: 0.85
     },
@@ -1257,7 +1266,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "ukiah": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "vernal": {
         relative_whitenoise: 0.95
@@ -1721,9 +1730,9 @@ var cities = [
         "gameName": "ukiah",
         "realName": "Ukiah",
         "country": "california",
-        "x": "-118375",
-        "y": "113.669",
-        "z": "-18662.5"
+        "x": "-119005",
+        "y": "-69.9031",
+        "z": "-20503.9"
     },
     {
         "gameName": "winnemucca",
@@ -2180,6 +2189,14 @@ var cities = [
         "x": "-68092",
         "y": "111.199",
         "z": "-16343.5"
+    },
+    {
+        "gameName": "santa_rosa_ca",
+        "realName": "Santa Rosa",
+        "country": "california",
+        "x": "-117954",
+        "y": "98.7086",
+        "z": "-16022.9"
     },
     {
         "gameName": "sheridan",
