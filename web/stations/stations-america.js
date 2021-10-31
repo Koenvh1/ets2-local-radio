@@ -197,6 +197,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
         },
         {
+            name: "KUNM 89.9-HD2",
+            logo: "stations/images-america/albuquerque/KUNM 89.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_2AAC_SC"
+        },
+        {
             name: "Family Life Radio 91.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "https://icecast.streammyflr.org/FLRstream"
@@ -3113,6 +3118,11 @@ var stations = {
             url: "https://live.wostreaming.net/direct/yavapai-kvnafmaac-ibc1"
         },
         {
+            name: "KPPV 100.7",
+            logo: "stations/images-america/flagstaff/KPPV 100.7.png",
+            url: "http://stream.affordablestreaming.com:8000/KPPV.mp3"
+        },
+        {
             name: "Radio Sunnyside 101.5",
             logo: "stations/images-america/flagstaff/Radio Sunnyside 101.5.png",
             url: "http://208.113.128.99:8000/stream"
@@ -3143,11 +3153,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFMAAC_SC"
         },
         {
-            name: "KPPV 106.7",
-            logo: "stations/images-america/flagstaff/KPPV 106.7.png",
-            url: "http://stream.affordablestreaming.com:8000/KPPV.mp3"
-        },
-        {
             name: "107.5 KOLT",
             logo: "stations/images-america/flagstaff/107.5 KOLT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFMAAC_SC"
@@ -3166,6 +3171,11 @@ var stations = {
             name: "780 KAZM",
             logo: "stations/images-america/flagstaff/780 KAZM.png",
             url: "https://ice9.securenetsystems.net/KAZM"
+        },
+        {
+            name: "KQNA 1130",
+            logo: "stations/images-america/flagstaff/KQNA 1130.png",
+            url: "http://stream.affordablestreaming.com:8000/KQNA.mp3"
         },
     ],
     "fort_collins": [
@@ -3666,6 +3676,11 @@ var stations = {
             name: "Air1 98.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "KJOL 99.5",
+            logo: "stations/images-america/grand_junction_montrose/KJOL 99.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJOLFMAAC_SC"
         },
         {
             name: "99.9 KEKB",
@@ -9430,7 +9445,7 @@ var stations = {
         {
             name: "106.3 The Beat",
             logo: "stations/images-america/santa_rosa_ca/106.3 The Beat.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KJZYSFM?f=noreferer"
+            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KJZYSFM"
         },
         {
             name: "La Z 107.5",
