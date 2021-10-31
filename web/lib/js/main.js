@@ -147,6 +147,13 @@ function initialise() {
                         }
                     }
                 }
+
+                if (data.action === "engineOff") {
+                    setPlay(false, false);
+                }
+                if (data.action === "engineOn") {
+                    setPlay(true, false);
+                }
             }
         });
     }, 250);
@@ -492,6 +499,37 @@ function togglePlay(fromRemote) {
         if(!fromRemote && conn !== null && conn.open) {
             conn.send(JSON.stringify({
                 type: "togglePlay"
+            }));
+        }
+    }
+}
+
+function setPlay(value, fromRemote) {
+    if(typeof fromRemote === "undefined") fromRemote = false;
+    if(controlRemote){
+        if(!fromRemote) {
+            conn.send(JSON.stringify({
+                type: "setPlay",
+                value: value,
+            }));
+        }
+        togglePlayVisual(!value);
+    } else {
+        if (value) {
+            var src = document.getElementById('player').src;
+            document.getElementById('player').src = "about:blank";
+            document.getElementById('player').src = src;
+            document.getElementById('player').play();
+            document.getElementById('whitenoise').play();
+        } else {
+            document.getElementById('player').pause();
+            document.getElementById('whitenoise').pause();
+        }
+        togglePlayVisual(!value);
+        if(!fromRemote && conn !== null && conn.open) {
+            conn.send(JSON.stringify({
+                type: "setPlay",
+                value: value,
             }));
         }
     }
