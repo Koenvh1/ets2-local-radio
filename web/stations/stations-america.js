@@ -5452,7 +5452,7 @@ var stations = {
         },
         {
             name: "Lite FM 103.3",
-            logo: "stations/images-america/logan/Lite FM 103.3.png",
+            logo: "stations/images-america/logan/Lite FM 103.3_christmas.png",
             url: "https://ice9.securenetsystems.net/KLGN"
         },
         {
@@ -17914,7 +17914,7 @@ var stations_c2c = {
         },
         {
             name: "93.9 LITE FM",
-            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM.png",
+            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
         },
         {
