@@ -5473,9 +5473,34 @@ var stations = {
     ],
     "longview": [
         {
+            name: "Family Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+        },
+        {
+            name: "K-LOVE 90.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "94.5 KLYK",
             logo: "stations/images-america/longview/94.5 KLYK.png",
             url: "https://us9.maindigitalstream.com/ssl/KLYK"
+        },
+        {
+            name: "K235CU 94.9",
+            logo: "stations/images-america/portland/105.9 The Brew.png",
+            url: "https://stream.revma.ihrhls.com/zc3540/hls.m3u8"
+        },
+        {
+            name: "Live 95.5",
+            logo: "stations/images-america/portland/Live 95.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kbfffmaac-ibc4"
+        },
+        {
+            name: "NWPR News 97.5",
+            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
             name: "The Peak 98.3",
@@ -5493,14 +5518,29 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KEDO"
         },
         {
+            name: "Z100",
+            logo: "stations/images-america/portland/Z100.png",
+            url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
+        },
+        {
             name: "100.7 KLOG",
             logo: "stations/images-america/longview/100.7 KLOG.png",
             url: "http://www.streamcontrol.net:11050/live"
         },
         {
-            name: "101.5 The Wave",
-            logo: "stations/images-america/longview/101.5 THE WAVE.png",
+            name: "101.5 The Sleigh",
+            logo: "stations/images-america/longview/101.5 The Sleigh.png",
             url: "http://www.streamcontrol.net:11070/live"
+        },
+        {
+            name: "101.9 KINK",
+            logo: "stations/images-america/portland/101.9 KINK.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kinkfmaac-ibc4"
+        },
+        {
+            name: "K103",
+            logo: "stations/images-america/portland/K103.png",
+            url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
             name: "KMNT Country 104.3",
@@ -5518,9 +5558,34 @@ var stations = {
             url: "http://www.streamcontrol.net:11060/live"
         },
         {
+            name: "106.7 The Eagle",
+            logo: "stations/images-america/portland/106.7 The Eagle.png",
+            url: "https://stream.revma.ihrhls.com/zc4315/hls.m3u8"
+        },
+        {
             name: "Rocket 107",
             logo: "stations/images-america/longview/Rocket 107.png",
             url: "https://us9.maindigitalstream.com/ssl/KRQT"
+        },
+        {
+            name: "JAM'N 107.5",
+            logo: "stations/images-america/portland/JAM'N 107.5.png",
+            url: "https://stream.revma.ihrhls.com/zc4319/hls.m3u8"
+        },
+        {
+            name: "Rip City Radio 620",
+            logo: "stations/images-america/portland/Rip City Radio 620.png",
+            url: "https://stream.revma.ihrhls.com/zc1965/hls.m3u8"
+        },
+        {
+            name: "750 The Game",
+            logo: "stations/images-america/portland/750 The Game.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kxtgamaac-ibc4"
+        },
+        {
+            name: "AM 860 The Answer",
+            logo: "stations/images-america/oregon/AM 860 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
     ],
     "los_angeles": [
@@ -30437,9 +30502,9 @@ var stations_c2c = {
             url: "https://stream.radiojar.com/21w6x4u9gseuv.mp3"
         },
         {
-            name: "ESPN Radio 92.5",
-            logo: "stations/images-america/c2c/lancaster_pa/ESPN Radio 92.5.png",
-            url: "http://live.wostreaming.net/direct/espn-network-48"
+            name: "nu 92.7",
+            logo: "stations/images-america/c2c/lancaster_pa/nu 92.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUUFMAAC_SC"
         },
         {
             name: "96.1 SOX",
@@ -30495,6 +30560,11 @@ var stations_c2c = {
             name: "HOT 106.7",
             logo: "stations/images-america/c2c/lancaster_pa/HOT 106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC"
+        },
+        {
+            name: "Froggy 107.7",
+            logo: "stations/images-america/c2c/lancaster_pa/Froggy 107.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGTYFMAAC_SC"
         },
         {
             name: "910 WSBA",
