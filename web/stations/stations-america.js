@@ -633,7 +633,7 @@ var stations = {
         },
         {
             name: "Sunny 105.3",
-            logo: "stations/images-america/bakersfield/Sunny 105.3.png",
+            logo: "stations/images-america/bakersfield/Sunny 105.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3340/hls.m3u8"
         },
         {
@@ -1726,7 +1726,7 @@ var stations = {
         },
         {
             name: "Star 97.1",
-            logo: "stations/images-america/cheyenne/Star 97.1.png",
+            logo: "stations/images-america/cheyenne/Star 97.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc7018/hls.m3u8"
         },
         {
@@ -1972,7 +1972,7 @@ var stations = {
         },
         {
             name: "Sunny 106.3",
-            logo: "stations/images-america/colorado_springs_pueblo/Sunny 106.3.png",
+            logo: "stations/images-america/colorado_springs_pueblo/Sunny 106.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc357/hls.m3u8"
         },
         {
@@ -3037,7 +3037,7 @@ var stations = {
         },
         {
             name: "KOOL 104.5",
-            logo: "stations/images-america/farmington/KOOL 104.5.png",
+            logo: "stations/images-america/farmington/KOOL 104.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
         },
         {
@@ -3490,7 +3490,7 @@ var stations = {
         },
         {
             name: "Soft Rock 98.9",
-            logo: "stations/images-america/fresno/Soft Rock 98.9.png",
+            logo: "stations/images-america/fresno/Soft Rock 98.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc153/hls.m3u8"
         },
         {
@@ -6348,7 +6348,7 @@ var stations = {
         },
         {
             name: "Sunny 102.3",
-            logo: "stations/images-america/modesto/Sunny 102.3.png",
+            logo: "stations/images-america/modesto/Sunny 102.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2910/hls.m3u8"
         },
         {
@@ -9083,7 +9083,7 @@ var stations = {
         },
         {
             name: "my 99.5",
-            logo: "stations/images-america/salt_lake/My 99.5.png",
+            logo: "stations/images-america/salt_lake/My 99.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2385/hls.m3u8"
         },
         {
@@ -11347,7 +11347,7 @@ var stations = {
         },
         {
             name: "my 97.1",
-            logo: "stations/images-america/tucson/my 97.1.png",
+            logo: "stations/images-america/tucson/my 97.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc69/hls.m3u8"
         },
         {
@@ -14178,7 +14178,7 @@ var stations_c2c = {
         },
         {
             name: "96.9 MYfm",
-            logo: "stations/images-america/c2c/tuscaloosa_al/96.9 MYfm.png",
+            logo: "stations/images-america/c2c/tuscaloosa_al/96.9 MYfm_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6832/hls.m3u8"
         },
         {
@@ -16583,7 +16583,7 @@ var stations_c2c = {
         },
         {
             name: "103.9 KISS FM",
-            logo: "stations/images-america/c2c/sarasota_fl/103.9 KISS FM.png",
+            logo: "stations/images-america/c2c/sarasota_fl/103.9 KISS FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3309/hls.m3u8"
         },
         {
@@ -17103,6 +17103,11 @@ var stations_c2c = {
             name: "Power 96.1",
             logo: "stations/images-america/c2c/atlanta_ga/Power 96.1.png",
             url: "https://stream.revma.ihrhls.com/zc741/hls.m3u8"
+        },
+        {
+            name: "Christmas 96.7",
+            logo: "stations/images-america/c2c/atlanta_ga/Christmas 96.7.png",
+            url: "https://stream.revma.ihrhls.com/zc9205/hls.m3u8"
         },
         {
             name: "97.1 The River",
@@ -19335,7 +19340,7 @@ var stations_c2c = {
         },
         {
             name: "LEO 1360",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/LEO 1360.png",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/LEO 1360_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc4744/hls.m3u8"
         },
     ],
@@ -20656,7 +20661,7 @@ var stations_c2c = {
         },
         {
             name: "96.1 The River",
-            logo: "stations/images-america/c2c/baton_rouge_la/96.1 The River.png",
+            logo: "stations/images-america/c2c/baton_rouge_la/96.1 The River_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1001/hls.m3u8"
         },
         {
@@ -28300,14 +28305,24 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
         {
-            name: "Y93",
-            logo: "stations/images-america/c2c/bismarck_nd/Y93.png",
+            name: "Real Presence Radio 91.7",
+            logo: "stations/images-america/gillette/Real Presence Radio 88.1.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
+        },
+        {
+            name: "Christmas 92.9",
+            logo: "stations/images-america/c2c/bismarck_nd/Christmas 92.9.png",
             url: "https://stream.revma.ihrhls.com/zc4794/hls.m3u8"
         },
         {
             name: "KQ94.5",
             logo: "stations/images-america/c2c/bismarck_nd/KQ94.png",
             url: "https://stream.revma.ihrhls.com/zc4792/hls.m3u8"
+        },
+        {
+            name: "Radio 74 95.3",
+            logo: "stations/images-america/lakeview/Radio 74.png",
+            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
         },
         {
             name: "96.5 The Fox",
@@ -28330,6 +28345,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1661/hls.m3u8"
         },
         {
+            name: "Club Radio 100.7",
+            logo: "stations/images-america/c2c/bismarck_nd/Club Radio 100.7.png",
+            url: "https://ais-sa1.streamon.fm/7058_24k.aac"
+        },
+        {
             name: "Rock 101",
             logo: "stations/images-america/c2c/bismarck_nd/Rock 101.png",
             url: "https://stream.revma.ihrhls.com/zc4768/hls.m3u8"
@@ -28348,11 +28368,6 @@ var stations_c2c = {
             name: "Big Rig 105.9",
             logo: "stations/images-america/c2c/bismarck_nd/Big Rig 105.9.png",
             url: "https://ice9.securenetsystems.net/KKBO"
-        },
-        {
-            name: "Radio 74 106.7",
-            logo: "stations/images-america/lakeview/Radio 74.png",
-            url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
         },
         {
             name: "MOJO 107.5",
@@ -29054,7 +29069,7 @@ var stations_c2c = {
         },
         {
             name: "93.3 The Bus",
-            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus.png",
+            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1761/hls.m3u8"
         },
         {
@@ -29380,7 +29395,7 @@ var stations_c2c = {
         },
         {
             name: "101.5 The River",
-            logo: "stations/images-america/c2c/toledo_oh/101.5 The River.png",
+            logo: "stations/images-america/c2c/toledo_oh/101.5 The River_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1853/hls.m3u8"
         },
         {
@@ -30797,7 +30812,7 @@ var stations_c2c = {
         },
         {
             name: "94.5 3WS",
-            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS.png",
+            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2029/hls.m3u8"
         },
         {
@@ -31683,7 +31698,7 @@ var stations_c2c = {
         },
         {
             name: "104.9 BOB FM",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/104.9 Bob FM.png",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/104.9 Bob FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6871/hls.m3u8"
         },
         {
@@ -33394,7 +33409,7 @@ var stations_c2c = {
         },
         {
             name: "BIG 93.9",
-            logo: "stations/images-america/c2c/corpus_christi_tx/BIG 93.9.png",
+            logo: "stations/images-america/c2c/corpus_christi_tx/BIG 93.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3652/hls.m3u8"
         },
         {
@@ -33745,7 +33760,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 99.9",
-            logo: "stations/images-america/c2c/elpaso_tx/Sunny 99.9.png",
+            logo: "stations/images-america/c2c/elpaso_tx/Sunny 99.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3188/hls.m3u8"
         },
         {
@@ -33909,7 +33924,7 @@ var stations_c2c = {
         },
         {
             name: "SUNNY 99.1",
-            logo: "stations/images-america/c2c/houston_tx/SUNNY 99.1.png",
+            logo: "stations/images-america/c2c/houston_tx/SUNNY 99.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2273/hls.m3u8"
         },
         {
@@ -35735,7 +35750,7 @@ var stations_c2c = {
         },
         {
             name: "MIX 100",
-            logo: "stations/images-america/c2c/parkersburg_wv/MIX 100.png",
+            logo: "stations/images-america/c2c/parkersburg_wv/MIX 100_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc4854/hls.m3u8"
         },
         {
