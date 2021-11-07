@@ -10119,6 +10119,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFAXAMAAC_SC"
         },
         {
+            name: "The Light 1190",
+            logo: "stations/images-america/san_francisco/The Light 1190.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDYAAMAAC_SC"
+        },
+        {
             name: "1220 KDOW",
             logo: "stations/images-america/san_francisco/1220 KDOW.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAMAAC_SC"
@@ -10132,6 +10137,11 @@ var stations = {
             name: "KEST 1450",
             logo: "stations/images-america/san_francisco/KEST 1450.png",
             url: "http://radiokest.serverroom.us:6670/stream.mp3"
+        },
+        {
+            name: "KDIA 1640",
+            logo: "stations/images-america/san_francisco/KDIA 1640.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDIAAMAAC_SC"
         },
     ],
     "san_simon": [
