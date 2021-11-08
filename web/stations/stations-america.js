@@ -6401,7 +6401,6 @@ var stations = {
             logo: "stations/images-america/modesto/The Bear 105.7.png",
             url: "https://ice9.securenetsystems.net/KBRE"
         },
-        },
         {
             name: "107.3 KYOS",
             logo: "stations/images-america/fresno/107.3 KYOS.png",
@@ -17887,30 +17886,220 @@ var stations_c2c = {
     ],	
     "honolulu": [
         {
-            name: "HPR News 89.1",
+            name: "HPR News 88.1",
             logo: "stations/images-america/0_general_logos/HPR.png",
             url: "https://khpr-ice.streamguys1.com/khpr2"
         }, 
         {
-            name: "HPR Classical 91.3",
+            name: "HPR Classical 89.3",
             logo: "stations/images-america/0_general_logos/HPR.png",
             url: "https://khpr-ice.streamguys1.com/kipo2"
         },
         {
-            name: "The Wave@92FM",
-            logo: "stations/images-america/c2c/hilo_hi/The Wave@92FM.png",
-            url: "https://ais-sa1.streamon.fm/7002_48k.aac"
+            name: "KTUH 90.1",
+            logo: "stations/images-america/c2c/honolulu_hi/KTUH 90.1.png",
+            url: "https://stream.ktuh.org:8001/stream"
         },
         {
-            name: "102.7 The Beach",
-            logo: "stations/images-america/c2c/hilo_hi/102.7 The Beach.png",
-            url: "https://ais-sa1.streamon.fm/7360_48k.aac"
+            name: "Effect Radio 91.1",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "KLHT 91.5",
+            logo: "stations/images-america/c2c/honolulu_hi/KLHT 91.5.png",
+            url: "https://ssl.shoutcaststreaming.us:8099/;stream.mp3"
+        },
+        {
+            name: "92.3 KSSK",
+            logo: "stations/images-america/c2c/honolulu_hi/92.3 KSSK_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc829/hls.m3u8"
+        },
+        {
+            name: "iHeartCountry Radio 92.3-HD2",
+            logo: "stations/images-america/0_general_logos/iHeartCountry Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4418/hls.m3u8"
         }, 
         {
-            name: "KOA Country 107.7",
-            logo: "stations/images-america/c2c/hilo_hi/KOA Country 107.7.png",
-            url: "https://ais-sa1.streamon.fm/7724_48k.aac"
+            name: "ESPN 92.7",
+            logo: "stations/images-america/c2c/honolulu_hi/ESPN 92.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKEAAM_AAC_SC"
+        },
+        {
+            name: "HI93",
+            logo: "stations/images-america/c2c/honolulu_hi/HI93.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kqmqfmaac-ibc1"
+        },
+        {
+            name: "93.9 The Beat",
+            logo: "stations/images-america/c2c/honolulu_hi/93.9 The Beat.png",
+            url: "https://stream.revma.ihrhls.com/zc825/hls.m3u8"
         }, 
+        {
+            name: "Jamz Hawaii 93.9-HD2",
+            logo: "stations/images-america/c2c/honolulu_hi/Jamz Hawaii 93.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6798/hls.m3u8"
+        }, 
+        {
+            name: "94.3 The Answer",
+            logo: "stations/images-america/c2c/honolulu_hi/94.3 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC_SC"
+        },
+        {
+            name: "94.7 KUMU",
+            logo: "stations/images-america/c2c/honolulu_hi/94.7 KUMU.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kumufmaac-ibc1"
+        },
+        {
+            name: "95.1 HSRN",
+            logo: "stations/images-america/c2c/honolulu_hi/95.1 HSRN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAMAAC_SC"
+        },
+        {
+            name: "The Fish 95.5",
+            logo: "stations/images-america/c2c/honolulu_hi/The Fish 95.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KAIMFMAAC_SC"
+        },
+        {
+            name: "My 95.9",
+            logo: "stations/images-america/c2c/honolulu_hi/My 95.9.png",
+            url: "http://linode.obscurenetworks.com:8000/stream.aac"
+        },
+        {
+            name: "Krater 96",
+            logo: "stations/images-america/c2c/honolulu_hi/Krater 96.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7696_128k.aac"
+        },
+        {
+            name: "Shaka 96.7",
+            logo: "stations/images-america/c2c/honolulu_hi/Shaka 96.7.png",
+            url: "https://streaming.live365.com/a67821"
+        },
+        {
+            name: "Retro 97.1",
+            logo: "stations/images-america/c2c/honolulu_hi/Retro 97.1.png",
+            url: "https://streaming.live365.com/a14102"
+        },
+        {
+            name: "Country 97.5",
+            logo: "stations/images-america/c2c/honolulu_hi/Country 97.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KHCMFMAAC_SC"
+        },
+        {
+            name: "Island 98.5",
+            logo: "stations/images-america/c2c/honolulu_hi/Island 98.5.png",
+            url: "https://stream.revma.ihrhls.com/zc821/hls.m3u8"
+        }, 
+        {
+            name: "Hawaii No Ka Oi 98.5-HD2",
+            logo: "stations/images-america/c2c/honolulu_hi/Hawaii No Ka Oi 98.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6148/hls.m3u8"
+        }, 
+        {
+            name: "PoP! 99.1",
+            logo: "stations/images-america/c2c/honolulu_hi/PoP! 99.1.png",
+            url: "https://stream.revma.ihrhls.com/zc8470/hls.m3u8"
+        },
+        {
+            name: "99.5 The Word",
+            logo: "stations/images-america/c2c/honolulu_hi/99.5 The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGUFMAAC_SC"
+        },
+        {
+            name: "FM100",
+            logo: "stations/images-america/c2c/honolulu_hi/FM100.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7693_128k.aac"
+        },
+        {
+            name: "Oldies 101.1",
+            logo: "stations/images-america/c2c/honolulu_hi/Oldies 101.1.png",
+            url: "https://streaming.live365.com/a48122"
+        },
+        {
+            name: "101.5 K-Rock",
+            logo: "stations/images-america/c2c/honolulu_hi/101.5 K-Rock.png",
+            url: "https://streaming.live365.com/a23357"
+        },
+        {
+            name: "Star 101.9",
+            logo: "stations/images-america/c2c/honolulu_hi/Star 101.9.png",
+            url: "https://stream.revma.ihrhls.com/zc833/hls.m3u8"
+        },
+        {
+            name: "102.7 Da Bomb",
+            logo: "stations/images-america/c2c/honolulu_hi/102.7 Da Bomb.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kddbfmaac-ibc1"
+        },
+        {
+            name: "K-LOVE 103.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 103.5-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 90s 103.5-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+        },
+        {
+            name: "103.9 The X",
+            logo: "stations/images-america/c2c/honolulu_hi/103.9 The X.png",
+            url: "https://streaming.live365.com/a01758"
+        },
+        {
+            name: "Power 104.3",
+            logo: "stations/images-america/c2c/honolulu_hi/Power 104.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7695_128k.aac"
+        },
+        {
+            name: "Hawaiian 105",
+            logo: "stations/images-america/c2c/honolulu_hi/Hawaiian 105.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7694_128k.aac"
+        },
+        {
+            name: "105.9 The Wave",
+            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kpoifmaac-ibc1"
+        },
+        {
+            name: "Jazzy 107.5",
+            logo: "stations/images-america/c2c/honolulu_hi/Jazzy 107.5.png",
+            url: "https://streaming.live365.com/a25436"
+        },
+        {
+            name: "Decades 107.9",
+            logo: "stations/images-america/c2c/honolulu_hi/Decades 107.9.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLFMAAC_SC"
+        },
+        {
+            name: "830 KHVH",
+            logo: "stations/images-america/c2c/honolulu_hi/830 KHVH.png",
+            url: "https://stream.revma.ihrhls.com/zc4748/hls.m3u8"
+        },
+        {
+            name: "FOX Sports 990",
+            logo: "stations/images-america/c2c/honolulu_hi/FOX Sports 990.png",
+            url: "https://stream.revma.ihrhls.com/zc4750/hls.m3u8"
+        },
+        {
+            name: "KLHT 1040",
+            logo: "stations/images-america/c2c/honolulu_hi/KLHT 1040.png",
+            url: "https://ssl.shoutcaststreaming.us:8099/;*.mp3"
+        },
+        {
+            name: "KZOO 1210",
+            logo: "stations/images-america/c2c/honolulu_hi/KZOO 1210.png",
+            url: "https://us2.streamingpulse.com/ssl/KZOO"
+        },
+        {
+            name: "CBS 1500",
+            logo: "stations/images-america/c2c/honolulu_hi/CBS 1500.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKAAM_SC"
+        },
     ],	
     "bloomington_il": [
         {
