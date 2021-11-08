@@ -637,6 +637,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3340/hls.m3u8"
         },
         {
+            name: "Punjabi Radio 105.7",
+            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
+            url: "https://s5.voscast.com:9281/stream"
+        },
+        {
             name: "ALT 106.1",
             logo: "stations/images-america/bakersfield/ALT 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc3236/hls.m3u8"
@@ -3539,7 +3544,12 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRRFMAAC_SC"
         },
         {
-            name: "Hot 104.7",
+            name: "Punjabi Radio 104.5",
+            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
+            url: "https://s5.voscast.com:9281/stream"
+        },
+        {
+            name: "HOT 104.7",
             logo: "stations/images-america/fresno/Hot 104.7.png",
             url: "https://ice9.securenetsystems.net/KHTN"
         },
@@ -6282,6 +6292,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2922/hls.m3u8"
         },
         {
+            name: "93.5 KWDC",
+            logo: "stations/images-america/modesto/93.5 KWDC.png",
+            url: "https://pavo.prostreaming.net:8110/stream"
+        },
+        {
             name: "KHOP @ 95.1",
             logo: "stations/images-america/modesto/KHOP @ 95.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHOPFMAAC_SC"
@@ -6386,6 +6401,7 @@ var stations = {
             logo: "stations/images-america/modesto/The Bear 105.7.png",
             url: "https://ice9.securenetsystems.net/KBRE"
         },
+        },
         {
             name: "107.3 KYOS",
             logo: "stations/images-america/fresno/107.3 KYOS.png",
@@ -6400,6 +6416,11 @@ var stations = {
             name: "Power Talk 1360",
             logo: "stations/images-america/modesto/Power Talk 1360.png",
             url: "https://stream.revma.ihrhls.com/zc2914/hls.m3u8"
+        },
+        {
+            name: "Punjabi Radio 1570",
+            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
+            url: "https://s5.voscast.com:9281/stream"
         },
     ],
     "monterey": [
@@ -8629,6 +8650,11 @@ var stations = {
     ],
     "sacramento": [
         {
+            name: "Family Radio 88.1",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+        },
+        {
             name: "CapRadio Music 88.9",
             logo: "stations/images-america/0_general_logos/CapRadio Music.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPRAAC_SC"
@@ -8637,6 +8663,21 @@ var stations = {
             name: "KQED 89.3",
             logo: "stations/images-america/0_general_logos/KQED.png",
             url: "https://streams.kqed.org/kqedradio"
+        },
+        {
+            name: "KVMR 89.5",
+            logo: "stations/images-america/sacramento/KVMR 89.5.png",
+            url: "https://sslstream.kvmr.org:9433/aac96"
+        },
+        {
+            name: "KVMRx 89.5-HD2",
+            logo: "stations/images-america/sacramento/KVMRx 89.5-HD2.png",
+            url: "https://sslstream.kvmr.org:9433/kvmr2-aac-96"
+        },
+        {
+            name: "K-LOVE 89.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "KDVS 90.3",
@@ -8754,6 +8795,11 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFMFMAAC_SC"
         },
         {
+            name: "Real Country 103.5",
+            logo: "stations/images-america/sacramento/Real Country 103.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNTYFMAAC_SC"
+        },
+        {
             name: "103.9 The Fish",
             logo: "stations/images-america/sacramento/103.9 The Fish.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKFSFMAAC_SC"
@@ -8782,6 +8828,11 @@ var stations = {
             name: "Money 105.5",
             logo: "stations/images-america/sacramento/Money 105.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSACFMAAC_SC"
+        },
+        {
+            name: "Punjabi Radio 105.9",
+            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
+            url: "https://s5.voscast.com:9281/stream"
         },
         {
             name: "106.5 The End",
@@ -11284,9 +11335,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
         },
         {
-            name: "KVMR 105.1",
-            logo: "stations/images-america/truckee/KVMR 105.1.png",
-            url: "http://live.kvmr.org:8000/aac96"
+            name: "K286AN 105.1",
+            logo: "stations/images-america/sacramento/KVMR 89.5.png",
+            url: "https://sslstream.kvmr.org:9433/aac96"
         },
         {
             name: "K-Tahoe 590",
