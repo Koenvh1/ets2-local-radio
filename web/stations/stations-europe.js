@@ -1580,22 +1580,22 @@ var stations = {
         {
             name: "Bremen Eins",
             logo: "stations/images-europe/germany-ndr/Bremen Eins.png",
-            url: "http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3"
+            url: "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen Zwei",
             logo: "stations/images-europe/germany-ndr/Bremen Zwei.png",
-            url: "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3"
+            url: "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen Vier",
             logo: "stations/images-europe/germany-ndr/Bremen Vier.png",
-            url: "http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3"
+            url: "https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen NEXT",
             logo: "stations/images-europe/germany-ndr/Bremen NEXT.png",
-            url: "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3"
+            url: "https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3"
         },
         {
             name: "COSMO",

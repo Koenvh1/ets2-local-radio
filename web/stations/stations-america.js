@@ -278,7 +278,7 @@ var stations = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/Magic 99.5.png",
+            logo: "stations/images-america/albuquerque/Magic 99.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC_SC"
         },
         {
@@ -12045,6 +12045,11 @@ var stations = {
             name: "100.9 Cherry FM",
             logo: "stations/images-america/yakima/100.9 Cherry FM.png",
             url: "https://ice5.securenetsystems.net/KARY"
+        },
+        {
+            name: "K-LOVE 103.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "104.1 KXDD",
