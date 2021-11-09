@@ -17,8 +17,8 @@ var stations = {
         },
         {
             name: "K221BG 92.1",
-            logo: "stations/images-america/seattle/Spirit 105.3.png",
-            url: "http://crista-kcms.streamguys1.com/kcmsmp3"
+            logo: "stations/images-america/seattle/Spirit 105.3_christmas.png",
+            url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
             name: "KIX 95.3",
@@ -10399,8 +10399,8 @@ var stations = {
         },
         {
             name: "Spirit 105.3",
-            logo: "stations/images-america/seattle/Spirit 105.3.png",
-            url: "http://crista-kcms.streamguys1.com/kcmsmp3"
+            logo: "stations/images-america/seattle/Spirit 105.3_christmas.png",
+            url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
             name: "LIFT Radio 105.3-HD2",
@@ -13744,9 +13744,9 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WBHKFMAAC_SC"
         },
         {
-            name: "ALT 99.1",
-            logo: "stations/images-america/c2c/birmingham_al/ALT 99.1.png",
-            url: "https://stream.revma.ihrhls.com/zc6642/hls.m3u8"
+            name: "Way FM 99.1",
+            logo: "stations/images-america/0_general_logos/Way FM.png",
+            url: "http://wayfm.streamguys1.com/wayw.aac"
         },
         {
             name: "Talk 99.5",
@@ -13777,6 +13777,11 @@ var stations_c2c = {
             name: "103.7 The Q",
             logo: "stations/images-america/c2c/birmingham_al/103.7 The Q.png",
             url: "https://stream.revma.ihrhls.com/zc3093/hls.m3u8"
+        },
+        {
+            name: "ALT 103.7-HD3",
+            logo: "stations/images-america/c2c/birmingham_al/ALT 103.7-HD3.png",
+            url: "https://stream.revma.ihrhls.com/zc6642/hls.m3u8"
         },
         {
             name: "104.1 The Beat",
