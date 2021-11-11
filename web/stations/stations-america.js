@@ -2332,7 +2332,7 @@ var stations = {
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/denver/KOSI 101.1.png",
+            logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
         },
         {
@@ -28358,8 +28358,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQDRFMAAC_SC"
         },
         {
-            name: "ALT 95.3",
-            logo: "stations/images-america/c2c/raleigh_nc/ALT 95.3.png",
+            name: "Christmas 95.3",
+            logo: "stations/images-america/c2c/raleigh_nc/Christmas 95.3.png",
             url: "https://stream.revma.ihrhls.com/zc6140/hls.m3u8"
         },
         {
