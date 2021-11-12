@@ -2625,7 +2625,7 @@ var stations = {
         },
         {
             name: "K237AJ 95.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -5549,7 +5549,7 @@ var stations = {
         },
         {
             name: "K103",
-            logo: "stations/images-america/portland/K103.png",
+            logo: "stations/images-america/portland/K103_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
@@ -5801,7 +5801,7 @@ var stations = {
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -7589,7 +7589,7 @@ var stations = {
         },
         {
             name: "K103",
-            logo: "stations/images-america/portland/K103.png",
+            logo: "stations/images-america/portland/K103_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
@@ -7761,7 +7761,7 @@ var stations = {
         },
         {
             name: "K288AN 105.5",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -8979,7 +8979,7 @@ var stations = {
         },
         {
             name: "K276AT 103.1",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -9143,7 +9143,7 @@ var stations = {
         },
         {
             name: "FM100.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
         },
         {
@@ -25085,7 +25085,7 @@ var stations_c2c = {
         },
         {
             name: "102.5 KEZK",
-            logo: "stations/images-america/c2c/stlouis_mo/102.5 KEZK.png",
+            logo: "stations/images-america/c2c/stlouis_mo/102.5 KEZK_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KEZKFMAAC_SC"
         },
         {
@@ -31032,7 +31032,7 @@ var stations_c2c = {
         },
         {
             name: "106.1 The Breeze",
-            logo: "stations/images-america/c2c/philadelphia_pa/106.1 The Breeze.png",
+            logo: "stations/images-america/c2c/philadelphia_pa/106.1 The Breeze_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2001/hls.m3u8"
         },
         {
