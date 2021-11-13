@@ -667,6 +667,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4273/hls.m3u8"
         },
         {
+            name: "KVMI 1270",
+            logo: "stations/images-america/fresno/My 97.5_christmas.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/momentum-kvmifmaac-ibc2"
+        },
+        {
             name: "1410 KERI",
             logo: "stations/images-america/bakersfield/1410 KERI.png",
             url: "https://ice6.securenetsystems.net/KERI"
