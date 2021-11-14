@@ -1962,7 +1962,7 @@ var stations = {
         },
         {
             name: "Q102.7",
-            logo: "stations/images-america/colorado_springs_pueblo/Q102.7.png",
+            logo: "stations/images-america/colorado_springs_pueblo/Q102.7_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBIQFMAAC_SC"
         },
         {
@@ -2702,7 +2702,7 @@ var stations = {
         },
         {
             name: "KOOL 99.1",
-            logo: "stations/images-america/eugene/Kool 99.1.png",
+            logo: "stations/images-america/eugene/KOOL 99.1_christmas.png",
             url: "https://us9.maindigitalstream.com/ssl/KODZ"
         },
         {
@@ -10000,7 +10000,7 @@ var stations = {
         },
         {
             name: "94.5 Bay FM",
-            logo: "stations/images-america/san_francisco/94.5 Bay FM.png",
+            logo: "stations/images-america/san_francisco/94.5 Bay FM_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kbayfmaac-ibc4"
         },
         {
@@ -22152,7 +22152,7 @@ var stations_c2c = {
         },
         {
             name: "97.1 WASH-FM",
-            logo: "stations/images-america/c2c/washington_dc/97.1 WASH-FM.png",
+            logo: "stations/images-america/c2c/washington_dc/97.1 WASH-FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2501/hls.m3u8"
         },
         {
@@ -33626,6 +33626,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2209/hls.m3u8"
         },
         {
+            name: "Christmas 97.3",
+            logo: "stations/images-america/c2c/bryan_tx/KAGC 97.3_christmas.png",
+            url: "https://ice42.securenetsystems.net/KAGCAM"
+        },
+        {
             name: "Willy 97.7",
             logo: "stations/images-america/c2c/bryan_tx/Willy 97.7.png",
             url: "https://ice24.securenetsystems.net/WILLY97"
@@ -33923,7 +33928,7 @@ var stations_c2c = {
         },
         {
             name: "Star 102.1",
-            logo: "stations/images-america/c2c/dallas_tx/Star 102.1.png",
+            logo: "stations/images-america/c2c/dallas_tx/Star 102.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2815/hls.m3u8"
         },
         {
