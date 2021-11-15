@@ -147,7 +147,7 @@ var stations = {
         {
             name: "KALQ 93.5",
             logo: "stations/images-america/alamosa/KALQ 93.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KALQFM"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KALQFM"
         },*/
         {
             name: "KYDN 95.3",
@@ -1401,7 +1401,7 @@ var stations = {
         {
             name: "Swag 93.5",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCAHD3"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "93.9 The Lake",
@@ -1426,12 +1426,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
@@ -1451,7 +1451,7 @@ var stations = {
         {
             name: "103.7 The River",
             logo: "stations/images-america/reno/103.7 The River.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KODS"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KODS"
         },
         {
             name: "ROCK 104.5",
@@ -1476,7 +1476,7 @@ var stations = {
         {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KRNO"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "K-Tahoe 590",
@@ -2941,12 +2941,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "Biggest Little Radio 101.3",
@@ -5984,12 +5984,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
@@ -6009,12 +6009,12 @@ var stations = {
         {
             name: "103.7 The River",
             logo: "stations/images-america/reno/103.7 The River.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KODS"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KODS"
         },
         {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KRNO"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
     ],
     "ludlow": [
@@ -7149,7 +7149,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice42.securenetsystems.net/KOAI"
+            url: "https://p.itoad.net/browse.php?u=https://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -7219,7 +7219,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice42.securenetsystems.net/KZCE"
+            url: "https://p.itoad.net/browse.php?u=https://ice42.securenetsystems.net/KZCE"
         },
         {
             name: "LIVE 101.5",
@@ -7254,7 +7254,7 @@ var stations = {
         {
             name: "Mega 104.3",
             logo: "stations/images-america/phoenix/Mega 104.3.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice5.securenetsystems.net/KAJM"
+            url: "https://p.itoad.net/browse.php?u=https://ice5.securenetsystems.net/KAJM"
         },
         {
             name: "104.7 KISS FM",
@@ -8104,12 +8104,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOLC"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "KWNK 97.7",
@@ -8164,7 +8164,7 @@ var stations = {
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KLCAHD3"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "105.7 KOZZ",
@@ -8174,7 +8174,7 @@ var stations = {
         {
             name: "106.9 More FM",
             logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KRNO"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "La Mejor 107.3",
@@ -9600,7 +9600,7 @@ var stations = {
         {
             name: "106.3 The Beat",
             logo: "stations/images-america/santa_rosa_ca/106.3 The Beat.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KJZYSFM"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KJZYSFM"
         },
         {
             name: "La Z 107.5",
@@ -10305,7 +10305,7 @@ var stations = {
         {
             name: "KIRO 97.3",
             logo: "stations/images-america/seattle/KIRO 97.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
         },
         {
             name: "Latter-day Saints Channel 97.3-HD2",
@@ -19920,7 +19920,7 @@ var stations_c2c = {
         {
             name: "100.7 Eagle Country",
             logo: "stations/images-america/c2c/greatbend_ks/100.7 Eagle Country.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KHOKFM2"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KHOKFM2"
         },
         {
             name: "B104.3",
@@ -19935,7 +19935,7 @@ var stations_c2c = {
         {
             name: "KVGB 1590",
             logo: "stations/images-america/c2c/greatbend_ks/KVGB 1590.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KVGBAM2"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KVGBAM2"
         },
     ],
     "hays": [
@@ -20708,7 +20708,7 @@ var stations_c2c = {
         {
             name: "WAKY 100.1",
             logo: "stations/images-america/c2c/louisville_ky/WAKY 100.1.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice7.securenetsystems.net/WAKY"
+            url: "https://p.itoad.net/browse.php?u=https://ice7.securenetsystems.net/WAKY"
         },
         {
             name: "100.5FM",
@@ -23637,7 +23637,7 @@ var stations_c2c = {
         {
             name: "Minnesota 97.5",
             logo: "stations/images-america/c2c/rochester_mn/Minnesota 97.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KNXR"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KNXR"
         },
         {
             name: "Laser 101.7",
@@ -24591,7 +24591,7 @@ var stations_c2c = {
         {
             name: "95.1 Mike FM",
             logo: "stations/images-america/c2c/joplin_mo/95.1 Mike FM.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KMXL"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KMXL"
         },
         {
             name: "96.9 KKOW",
@@ -24958,7 +24958,7 @@ var stations_c2c = {
         },
         {
             name: "JoeTown 107.5",
-            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5.png",
+            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5_christmas.png",
             url: "https://live.wostreaming.net/direct/eagleradio-kesjamaac-ibc4"
         },
         {
@@ -26280,12 +26280,12 @@ var stations_c2c = {
         {
             name: "Mix 97 One",
             logo: "stations/images-america/c2c/north_platte_ne/Mix 97 One.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KELN"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KELN"
         },
         {
             name: "FM 98.1",
             logo: "stations/images-america/c2c/north_platte_ne/FM 98.1.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KOOQ"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOOQ"
         },
         {
             name: "The Hawk 98.5",
@@ -26320,7 +26320,7 @@ var stations_c2c = {
         {
             name: "Q Country Classics 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KNPQ"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KNPQ"
         },
     ],
     "ogallala_ne": [
@@ -30553,7 +30553,7 @@ var stations_c2c = {
         {
             name: "POP 93.1",
             logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/WQYX"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/WQYX"
         },
         {
             name: "Connect FM 96.7",
@@ -37389,7 +37389,7 @@ var stations_canadream = {
         {
             name: "EZ Rock 91.5",
             logo: "stations/images-america/canada_promods/kamloops/EZ Rock 91.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
+            url: "https://p.itoad.net/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
         },*/
         {
             name: "92.5 The X",
@@ -37409,7 +37409,7 @@ var stations_canadream = {
         {
             name: "K97.5",
             logo: "stations/images-america/canada_promods/kamloops/K97.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://newcap.leanstream.co/CKRVFM"
+            url: "https://p.itoad.net/browse.php?u=https://newcap.leanstream.co/CKRVFM"
         },*/
         {
             name: "98.3 CIFM",
@@ -37471,12 +37471,12 @@ var stations_canadream = {
         {
             name: "New Country 100.7",
             logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://newcap.leanstream.co/CIGVFM"
+            url: "https://p.itoad.net/browse.php?u=https://newcap.leanstream.co/CIGVFM"
         },
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada_promods/kelowna/Move 101.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
+            url: "https://p.itoad.net/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
         },*/
         {
             name: "103.1 Beach Radio",
@@ -38707,7 +38707,7 @@ var stations_canadream = {
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada_promods/vancouver/94.5 Virgin Radio.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
+            url: "https://p.itoad.net/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
         },
         {
             name: "Z95.3",
@@ -39091,7 +39091,7 @@ var stations_greatamerica = {
         {
             name: "FM 92.5",
             logo: "stations/images-america/great_america/alliance/FM 92.5.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice10.securenetsystems.net/KCOW"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KCOW"
         },
         {
             name: "B94.7",
@@ -39121,7 +39121,7 @@ var stations_greatamerica = {
         {
             name: "Double Q Country 105.9",
             logo: "stations/images-america/great_america/chadron/Double Q Country.png",
-            url: "http://freeplace.info/proxy/browse.php?u=http://ice9.securenetsystems.net/KAAQ"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KAAQ"
         },
         {
             name: "106.9 The Trail",
