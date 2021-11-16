@@ -37994,22 +37994,22 @@ var stations_canadream = {
             name: "CBC Radio One 95.3",
             logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
-        },/*
-        {
-            name: "New Country 100.7 - 98.9",
-            logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://newcap.leanstream.co/CIGVFM"
         },
         {
-            name: "Move 97.1",
+            name: "CIGV-FM-1 98.9",
+            logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fneGdoE"
+        },
+        {
+            name: "CJMG-FM-2 99.9",
             logo: "stations/images-america/canada_promods/osoyoos/Move 97.1.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMGFMAAC_SC"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGeXaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2CfHaEdXJ4wbWp"
         },
         {
             name: "EZ Rock 102.9",
             logo: "stations/images-america/canada_promods/osoyoos/EZ Rock 102.9.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaWqcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2Eh3aEdXJ4wbWp"
+        },
     ],
     "ottawa": [
         {
