@@ -7932,7 +7932,7 @@ var country_properties_canadream = {
         name: "Hope",
         name_english: "Hope",
         code: "ca-bc",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "houstoncan": {
         name: "Houston",
@@ -7956,13 +7956,13 @@ var country_properties_canadream = {
         name: "Kamloops",
         name_english: "Kamloops",
         code: "ca-bc",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "kelowna": {
         name: "Kelowna",
         name_english: "Kelowna",
         code: "ca-bc",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "kindersley": {
         name: "Kindersley",
@@ -7994,6 +7994,12 @@ var country_properties_canadream = {
         code: "ca-qc",
         relative_radius: 1.2
     },
+    "lillooet": {
+        name: "Lillooet",
+        name_english: "Lillooet",
+        code: "ca-bc",
+        relative_radius: 0.6
+    },
     "lloydminster": {
         name: "Lloydminster",
         name_english: "Lloydminster",
@@ -8023,6 +8029,12 @@ var country_properties_canadream = {
         name_english: "Matane",
         code: "ca-qc",
         relative_radius: 1.2
+    },
+    "merrit": {
+        name: "Merrit",
+        name_english: "Merrit",
+        code: "ca-bc",
+        relative_radius: 0.5
     },
     "moncton": {
         name: "Moncton",
@@ -8059,6 +8071,12 @@ var country_properties_canadream = {
         name_english: "Parry Sound",
         code: "ca-on",
         relative_radius: 1.2
+    },
+    "pemberton": {
+        name: "Pemberton",
+        name_english: "Pemberton",
+        code: "ca-bc",
+        relative_radius: 0.6
     },
     "princegeorge": {
         name: "Prince George",
@@ -8160,7 +8178,7 @@ var country_properties_canadream = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "ca-bc",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "virden": {
         name: "Virden",
@@ -8184,7 +8202,7 @@ var country_properties_canadream = {
         name: "Williams Lake",
         name_english: "Williams Lake",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "winnipeg": {
         name: "Winnipeg",
@@ -8265,7 +8283,7 @@ var city_properties_canadream = {
         relative_whitenoise: 0.95
     },
     "hope": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "houstoncan": {
         relative_whitenoise: 0.95
@@ -8297,6 +8315,9 @@ var city_properties_canadream = {
     "latuque": {
         relative_whitenoise: 0.95
     },
+    "lillooet": {
+        relative_whitenoise: 0.85
+    },
     "lloydminster": {
         relative_whitenoise: 0.95
     },
@@ -8311,6 +8332,9 @@ var city_properties_canadream = {
     },
     "matane": {
         relative_whitenoise: 0.95
+    },
+    "merrit": {
+        relative_whitenoise: 0.85
     },
     "moncton": {
         relative_whitenoise: 0.95
@@ -8329,6 +8353,9 @@ var city_properties_canadream = {
     },
     "parrysound": {
         relative_whitenoise: 0.95
+    },
+    "pemberton": {
+        relative_whitenoise: 0.85
     },
     "princegeorge": {
         relative_whitenoise: 0.95
@@ -8391,7 +8418,7 @@ var city_properties_canadream = {
         relative_whitenoise: 0.95
     },
     "williamslake": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "winnipeg": {
         relative_whitenoise: 0.95
@@ -8593,9 +8620,9 @@ var cities_canadream = [
         "gameName": "kamloops",
         "realName": "Kamloops",
         "country": "britcolumb",
-        "x": "-87872.4",
-        "y": "97.0352",
-        "z": "-78290.7"
+        "x": "-85885.3",
+        "y": "115.435",
+        "z": "-78420.5"
     },
     {
         "gameName": "kelowna",
@@ -8646,6 +8673,14 @@ var cities_canadream = [
         "z": "-58882.9"
     },
     {
+        "gameName": "lillooet",
+        "realName": "Lillooet",
+        "country": "britcolumb",
+        "x": "-93234.8",
+        "y": "108.098",
+        "z": "-79834.4"
+    },
+    {
         "gameName": "lloydminster",
         "realName": "Lloydminster",
         "country": "saskatchew",
@@ -8684,6 +8719,14 @@ var cities_canadream = [
         "x": "103192",
         "y": "48.1836",
         "z": "-72119.8"
+    },
+    {
+        "gameName": "merrit",
+        "realName": "Merrit",
+        "country": "britishcolumb",
+        "x": "-90468.8",
+        "y": "340.643",
+        "z": "-75121"
     },
     {
         "gameName": "moncton",
@@ -8732,6 +8775,14 @@ var cities_canadream = [
         "x": "65455.3",
         "y": "104.055",
         "z": "-41134.3"
+    },
+    {
+        "gameName": "pemberton",
+        "realName": "Pemberton",
+        "country": "britcolumb",
+        "x": "-97086.9",
+        "y": "106.828",
+        "z": "-78672.3"
     },
     {
         "gameName": "princegeorge",

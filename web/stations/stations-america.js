@@ -24701,6 +24701,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHZFMAAC_SC"
         },
         {
+            name: "KCNW 96.1",
+            logo: "stations/images-america/c2c/kansascity_mo/KCNW 96.1.png",
+            url: "https://ice24.securenetsystems.net/KCNWFM"
+        },
+        {
             name: "ALT 96.5",
             logo: "stations/images-america/c2c/kansascity_mo/ALT 96.5.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRBZFMAAC_SC"
@@ -24781,6 +24786,11 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/KKSWFM"
         },
         {
+            name: "Gospel 106.1",
+            logo: "stations/images-america/c2c/kansascity_mo/Gospel 106.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRTAMAAC_SC"
+        },
+        {
             name: "106.5 The Wolf",
             logo: "stations/images-america/c2c/kansascity_mo/106.5 The Wolf.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WDAFFMAAC_SC"
@@ -24809,6 +24819,11 @@ var stations_c2c = {
             name: "Radio Vida 1030",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
             url: "http://shout2.brnstream.com:8006/stream"
+        },
+        {
+            name: "KCNW 1380",
+            logo: "stations/images-america/c2c/kansascity_mo/KCNW 1380.png",
+            url: "https://ice41.securenetsystems.net/KCNW"
         },
         {
             name: "The Bet 1660",
@@ -37395,12 +37410,12 @@ var stations_canadream = {
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2AEDM0_EDM"
         },
     ],
-    "kamloops": [/*
+    "kamloops": [
         {
             name: "EZ Rock 91.5",
             logo: "stations/images-america/canada_promods/kamloops/EZ Rock 91.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGyVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6Nh3aEdXJ4wbWp"
+        },
         {
             name: "92.5 The X",
             logo: "stations/images-america/canada_promods/kamloops/92.5 The X.png",
@@ -37415,12 +37430,12 @@ var stations_canadream = {
             name: "ICI Première 95.1",
             logo: "stations/images-america/canadream/ICI Première.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2BVAN0_VAN"
-        },/*
+        },
         {
             name: "K97.5",
             logo: "stations/images-america/canada_promods/kamloops/K97.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://newcap.leanstream.co/CKRVFM"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIKGdoE"
+        },
         {
             name: "98.3 CIFM",
             logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
@@ -37430,12 +37445,12 @@ var stations_canadream = {
             name: "B100",
             logo: "stations/images-america/canada_promods/kamloops/B100.png",
             url: "https://redirect.jpbgdigital.com/CKBZ"
-        },/*
+        },
         {
             name: "New Country 103.1",
             logo: "stations/images-america/canada_promods/kamloops/New Country 103.1.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://newcap.leanstream.co/CJKCFM"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f3tzdoE"
+        },
         {
             name: "CBC Music 105.3",
             logo: "stations/images-america/canadream/CBC Music.png",
@@ -37467,27 +37482,27 @@ var stations_canadream = {
             name: "Tourist Radio 95.3",
             logo: "stations/images-america/canada_promods/kelowna/Tourist Radio 95.3.png",
             url: "https://www.touristradio.ca/kelowna/loop.mp3"
-        },/*
+        },
         {
             name: "K96.3",
             logo: "stations/images-america/canada_promods/kelowna/K96.3.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://newcap.leanstream.co/CKKOFM"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gHt_doE"
         },
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada_promods/kelowna/99.9 Virgin Radio.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CHSUFMAAC_SC"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGeVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquIinaEdXJ4wbWp"
         },
         {
             name: "New Country 100.7",
             logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://p.itoad.net/browse.php?u=https://newcap.leanstream.co/CIGVFM"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fneGdoE"
         },
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada_promods/kelowna/Move 101.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGmVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyBgHaEdXJ4wbWp"
+        },
         {
             name: "103.1 Beach Radio",
             logo: "stations/images-america/canada_promods/kelowna/103.1 Beach Radio.png",
@@ -37502,12 +37517,12 @@ var stations_canadream = {
             name: "Power 104",
             logo: "stations/images-america/canada_promods/kelowna/Power 104.png",
             url: "https://redirect.jpbgdigital.com/CKLZ"
-        },/*
+        },
         {
             name: "Pure Country 105.7",
             logo: "stations/images-america/canada_promods/kelowna/Pure Country 105.7.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CICFFMAAC_SC"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmY2mcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqx4e3aEdXJ4wbWp"
+        },
         {
             name: "770 CHQR",
             logo: "stations/images-america/canadream/calgary/770 CHQR.png",
@@ -37674,6 +37689,38 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
         },
     ],
+    "lillooet": [
+        {
+            name: "CBC Radio One 92.7",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+        },
+        {
+            name: "VF2144 93.9",
+            logo: "stations/images-america/canada_promods/kamloops/B100.png",
+            url: "https://redirect.jpbgdigital.com/CKBZ"
+        },
+        {
+            name: "VOAR 94.5",
+            logo: "stations/images-america/canadream/VOAR.png",
+            url: "http://s3.voscast.com:7820/;"
+        },
+        {
+            name: "CBC Music 98.7",
+            logo: "stations/images-america/canadream/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+        },
+        {
+            name: "CIAK-FM 102.3",
+            logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
+            url: "https://redirect.jpbgdigital.com/CIFM"
+        },
+        {
+            name: "VF2194 104.5",
+            logo: "stations/images-america/canada_promods/vancouver/Rock 101.png",
+            url: "http://live.leanstream.co/CFMIFM"
+        },
+    ],
     "lloydminster": [
         {
             name: "CKUA 97.5",
@@ -37752,6 +37799,28 @@ var stations_canadream = {
             name: "plaisir 105.3",
             logo: "stations/images-america/canadream/matane/plaisir 105.3.png",
             url: "http://stream.statsradio.com:8028/stream"
+        },
+    ],
+    "merrit": [
+        {
+            name: "Lighthouse Radio 95.9",
+            logo: "stations/images-america/canada_promods/hope/Lighthouse Radio 96.7.png",
+            url: "http://192.99.17.12:5836/;"
+        },
+        {
+            name: "CKBZ-FM-3 99.5",
+            logo: "stations/images-america/canada_promods/kamloops/B100.png",
+            url: "https://redirect.jpbgdigital.com/CKBZ"
+        },
+        {
+            name: "Q101",
+            logo: "stations/images-america/canada_promods/merritt/Q101.png",
+            url: "https://redirect.jpbgdigital.com/CKMQ"
+        },
+        {
+            name: "CIFM-FM-3 103.9",
+            logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
+            url: "https://redirect.jpbgdigital.com/CIFM"
         },
     ],
     "moncton": [
@@ -38036,14 +38105,46 @@ var stations_canadream = {
     ],
     "parrysound": [
         {
-            name: "CBC Radio One 89.9",
+            name: "CBC Radio One 91.5",
             logo: "stations/images-america/canadream/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
             name: "103.3 Moose FM",
             logo: "stations/images-america/canadream/parrysound/103.3 Moose FM.png",
             url: "http://s1.hotdogradio.com/CKLP"
+        },
+    ],
+    "pemberton": [
+        {
+            name: "CBC Radio One 89.9",
+            logo: "stations/images-america/canadream/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+        },
+        {
+            name: "VF2558 92.7",
+            logo: "stations/images-america/canadream/calgary/Country 105.png",
+            url: "http://live.leanstream.co/CKRYFM"
+        },
+        {
+            name: "VF2549 98.1",
+            logo: "stations/images-america/canada_promods/vancouver/Rock 101.png",
+            url: "http://live.leanstream.co/CFMIFM"
+        },/*
+        {
+            name: "Mountain FM 104.5",
+            logo: "stations/images-america/canada_promods/vancouver/107.1 Mountain FM.png",
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaihqJRlbGFlp6Wnx8PTYJuUqQ"
+        },*/
+        {
+            name: "CBC Music 105.3",
+            logo: "stations/images-america/canadream/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+        },
+        {
+            name: "VF2005 106.7",
+            logo: "stations/images-america/canadream/edmonton/103.9 CISN Country.png",
+            url: "http://live.leanstream.co/CISNFM-MP3"
         },
     ],
     "princegeorge": [
@@ -38713,17 +38814,17 @@ var stations_canadream = {
             name: "93.7 JR Country",
             logo: "stations/images-america/canada_promods/vancouver/93.7 JR Country.png",
             url: "https://redirect.jpbgdigital.com/CJJR"
-        },/*
+        },
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada_promods/vancouver/94.5 Virgin Radio.png",
-            url: "https://p.itoad.net/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnY2STaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdql3iXaEdXJ4wbWp"
         },
         {
             name: "Z95.3",
             logo: "stations/images-america/canada_promods/vancouver/Z95.3.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://newcap.leanstream.co/CKZZFM"
-        },*/
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIqKdoE"
+        },
         {
             name: "Fairchild Radio 96.1",
             logo: "stations/images-america/canada_promods/vancouver/Fairchild Radio 96.1.png",
@@ -38773,17 +38874,17 @@ var stations_canadream = {
             name: "102.7 The Peak",
             logo: "stations/images-america/canada_promods/vancouver/102.7 The Peak.png",
             url: "https://redirect.jpbgdigital.com/CKPK"
-        },/*
+        },
         {
             name: "Move 103.5",
             logo: "stations/images-america/canada_promods/vancouver/Move 103.5.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CHQMFMAAC_SC"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGyaaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquGgnaEdXJ4wbWp"
         },
         {
             name: "104.3 The Breeze",
-            logo: "stations/images-america/canada_promods/vancouver/104.3 The Breeze.png",
-            url: "https://www.freeproxyserver.co/browse.php?u=https://newcap.leanstream.co/CHLGFM"
-        },*/
+            logo: "stations/images-america/canada_promods/vancouver/104.3 The Breeze_christmas.png",
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fXx3doE"
+        },
         {
             name: "KiSS 104.9",
             logo: "stations/images-america/canada_promods/vancouver/KiSS 104.9.png",
@@ -38797,7 +38898,7 @@ var stations_canadream = {
         {
             name: "107.1 Mountain FM",
             logo: "stations/images-america/canada_promods/vancouver/107.1 Mountain FM.png",
-            url: "https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
+            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaihqJRlbGFlp6Wnx8PTYJuUqQ"
         },
         {
             name: "107.7 Pulse FM",
