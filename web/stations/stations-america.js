@@ -437,7 +437,7 @@ var stations = {
     "baggs": [
         {
             name: "KRAI 93.7",
-            logo: "stations/images-america/steamboat_sp/KRAI 93.7.png",
+            logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
             url: "https://ice6.securenetsystems.net/KRAI"
         },
         {
@@ -8213,7 +8213,7 @@ var stations = {
         },
         {
             name: "Radio Vida 1550",
-            logo: "stations/images-america/roswell/Radio Vida 101.1.png",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
             url: "http://shout2.brnstream.com:8006/stream"
         },
         {
@@ -8623,7 +8623,7 @@ var stations = {
         },
         {
             name: "Radio Vida 101.1",
-            logo: "stations/images-america/roswell/Radio Vida 101.1.png",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
             url: "http://shout2.brnstream.com:8006/stream"
         },
         {
@@ -10915,9 +10915,14 @@ var stations = {
             url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
         },
         {
-            name: "CPR News 91.1",
-            logo: "stations/images-america/0_general_logos/CPR.png",
-            url: "http://stream2.cprnetwork.org:8000/cpr1_aac"
+            name: "K-LOVE 89.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 90.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "WWFM 91.1",
@@ -10925,9 +10930,9 @@ var stations = {
             url: "https://wwfm.streamguys1.com/live"
         },
         {
-            name: "KRAI 93.7",
-            logo: "stations/images-america/steamboat_sp/KRAI 93.7.png",
-            url: "https://ice6.securenetsystems.net/KRAI"
+            name: "The Light 91.7",
+            logo: "stations/images-america/0_general_logos/The Light.png",
+            url: "https://stream.ktlf.radio/radio/8000/theLight"
         },
         {
             name: "Easy 94.1",
@@ -10953,6 +10958,11 @@ var stations = {
             name: "The River 98.9",
             logo: "stations/images-america/steamboat_sp/The River 98.9.png",
             url: "https://ice6.securenetsystems.net/KCOQ"
+        },
+        {
+            name: "KRAI 102.3",
+            logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
+            url: "https://ice6.securenetsystems.net/KRAI"
         },
         {
             name: "KFMU 105.5",
@@ -22976,9 +22986,9 @@ var stations_c2c = {
             url: "http://play.impact89fm.org:8000/impact89fm"
         },
         {
-            name: "89.7 WLNZ",
-            logo: "stations/images-america/c2c/lansing_mi/89.7 WLNZ.png",
-            url: "https://ice64.securenetsystems.net/WLNZ"
+            name: "Michigan Radio 89.7",
+            logo: "stations/images-america/0_general_logos/Michigan Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOMFM_SC"
         },
         {
             name: "90.5 WKAR",
@@ -24732,7 +24742,7 @@ var stations_c2c = {
         },
         {
             name: "KC 102.1",
-            logo: "stations/images-america/c2c/kansascity_mo/KC 102.1.png",
+            logo: "stations/images-america/c2c/kansascity_mo/KC 102.1_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7042_48k.aac"
         },
         {
@@ -24797,7 +24807,7 @@ var stations_c2c = {
         },
         {
             name: "Radio Vida 1030",
-            logo: "stations/images-america/roswell/Radio Vida 101.1.png",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
             url: "http://shout2.brnstream.com:8006/stream"
         },
         {
@@ -31265,8 +31275,8 @@ var stations_c2c = {
             url: "http://rss5.domint.net:8186/;stream.mp3"
         },
         {
-            name: "97.1 BHT",
-            logo: "stations/images-america/c2c/scranton_pa/97.1 BHT.png",
+            name: "HOT 97.1",
+            logo: "stations/images-america/c2c/scranton_pa/HOT 97.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBHTFMAAC_SC"
         },
         {
