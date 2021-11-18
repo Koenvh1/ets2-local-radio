@@ -37412,9 +37412,9 @@ var stations_canadream = {
     ],
     "kamloops": [
         {
-            name: "EZ Rock 91.5",
-            logo: "stations/images-america/canada_promods/kamloops/EZ Rock 91.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGyVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6Nh3aEdXJ4wbWp"
+            name: "Bounce 91.5",
+            logo: "stations/images-america/canada_promods/kamloops/Bounce 91.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhicWuXZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoea6KtKyFpKamlYak"
         },
         {
             name: "92.5 The X",
@@ -37434,7 +37434,7 @@ var stations_canadream = {
         {
             name: "K97.5",
             logo: "stations/images-america/canada_promods/kamloops/K97.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIKGdoE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzrLaLqoQ"
         },
         {
             name: "98.3 CIFM",
@@ -37449,7 +37449,7 @@ var stations_canadream = {
         {
             name: "New Country 103.1",
             logo: "stations/images-america/canada_promods/kamloops/New Country 103.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f3tzdoE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzq694qoQ"
         },
         {
             name: "CBC Music 105.3",
@@ -37486,22 +37486,22 @@ var stations_canadream = {
         {
             name: "K96.3",
             logo: "stations/images-america/canada_promods/kelowna/K96.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gHt_doE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzrK-EqoQ"
         },
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada_promods/kelowna/99.9 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGeVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquIinaEdXJ4wbWp"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhjbWmaZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoea54r6yFpKamlYak"
         },
         {
             name: "New Country 100.7",
             logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fneGdoE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzqquLqoQ"
         },
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada_promods/kelowna/Move 101.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGmVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyBgHaEdXJ4wbWp"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhicWqVZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoeax-rayFpKamlYak"
         },
         {
             name: "103.1 Beach Radio",
@@ -37521,7 +37521,7 @@ var stations_canadream = {
         {
             name: "Pure Country 105.7",
             logo: "stations/images-america/canada_promods/kelowna/Pure Country 105.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmY2mcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqx4e3aEdXJ4wbWp"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhibW-bZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoeax1qKyFpKamlYak"
         },
         {
             name: "770 CHQR",
@@ -37998,17 +37998,17 @@ var stations_canadream = {
         {
             name: "CIGV-FM-1 98.9",
             logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fneGdoE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzqquLqoQ"
         },
         {
             name: "CJMG-FM-2 99.9",
             logo: "stations/images-america/canada_promods/osoyoos/Move 97.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGeXaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2CfHaEdXJ4wbWp"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhicWqXZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoea1_qayFpKamlYak"
         },
         {
-            name: "EZ Rock 102.9",
-            logo: "stations/images-america/canada_promods/osoyoos/EZ Rock 102.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaWqcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2Eh3aEdXJ4wbWp"
+            name: "Bounce 1240",
+            logo: "stations/images-america/canada_promods/osoyoos/Bounce 1240.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhicG-ZZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoea2BtKyFpKamlYak"
         },
     ],
     "ottawa": [
@@ -38134,7 +38134,7 @@ var stations_canadream = {
         {
             name: "Mountain FM 104.5",
             logo: "stations/images-america/canada_promods/vancouver/107.1 Mountain FM.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaihqJRlbGFlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGijqJ3IpNWToM_YkaKYwp-r2KKWlp5exNNk1qaXytXYaKSqq5RimZdm1tnVm5TOYKHHqQ"
         },
         {
             name: "CBC Music 105.3",
@@ -38818,12 +38818,12 @@ var stations_canadream = {
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada_promods/vancouver/94.5 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnY2STaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdql3iXaEdXJ4wbWp"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhjbGeTZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoeal0tqyFpKamlYak"
         },
         {
             name: "Z95.3",
             logo: "stations/images-america/canada_promods/vancouver/Z95.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIqKdoE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzrL6PqoQ"
         },
         {
             name: "Fairchild Radio 96.1",
@@ -38878,12 +38878,12 @@ var stations_canadream = {
         {
             name: "Move 103.5",
             logo: "stations/images-america/canada_promods/vancouver/Move 103.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGyaaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquGgnaEdXJ4wbWp"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGhicmiYZZDSodnKkamn05aZ0aSZmqif09CZkpqf0p2ZbWRoeauDr6yFpKamlYak"
         },
         {
             name: "104.3 The Breeze",
             logo: "stations/images-america/canada_promods/vancouver/104.3 The Breeze_christmas.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fXx3doE"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGifnq3Gk9KUpMjG0amn05aZ0V6UpGBzqbB8qoQ"
         },
         {
             name: "KiSS 104.9",
@@ -38898,7 +38898,7 @@ var stations_canadream = {
         {
             name: "107.1 Mountain FM",
             logo: "stations/images-america/canada_promods/vancouver/107.1 Mountain FM.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaihqJRlbGFlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https%3A%2F%2Fus1-web.getbehind.me%2Findex.php%3Fq%3DndiroNidlGijqJ3IpNWToM_YkaKYwp-r2KKWlp5exNNk1qaXytXYaKSqq5RimZdm1tnVm5TOYKHHqQ"
         },
         {
             name: "107.7 Pulse FM",
