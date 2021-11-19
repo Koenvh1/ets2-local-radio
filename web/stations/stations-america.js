@@ -532,8 +532,8 @@ var stations = {
     ],
     "bakersfield": [
         {
-            name: "VPR 89.1",
-            logo: "stations/images-america/0_general_logos/Valley Public Radio.png",
+            name: "KVPR 89.1",
+            logo: "stations/images-america/0_general_logos/KVPR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFMAAC_SC"
         },
         {
@@ -3430,8 +3430,13 @@ var stations = {
         },
         {
             name: "KVPR 89.3",
-            logo: "stations/images-america/0_general_logos/Valley Public Radio.png",
+            logo: "stations/images-america/0_general_logos/KVPR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFMAAC_SC"
+        },
+        {
+            name: "KVPR Classical 89.3-HD2",
+            logo: "stations/images-america/0_general_logos/KVPR Classical.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVPR_CLASSICALAAC_SC"
         },
         {
             name: "90.7 KFSR",
@@ -36842,8 +36847,8 @@ var stations_canadream = {
             url: "http://live.leanstream.co/CILQFM-MP3"
         },
         {
-            name: "660 News",
-            logo: "stations/images-america/canadream/calgary/660 News.png",
+            name: "CityNews 660",
+            logo: "stations/images-america/canadream/calgary/CityNews 660.png",
             url: "https://rogers-hls.leanstream.co/rogers/cal660.stream/icy"
         },
         {
@@ -37248,8 +37253,8 @@ var stations_canadream = {
             url: "https://srcprem-lh.akamaihd.net/i/SRCPREMIERE_EDM@23454/master.m3u8"
         },
         {
-            name: "NEWS 95.7",
-            logo: "stations/images-america/canadream/halifax/News 95.7.png",
+            name: "CityNews 95.7",
+            logo: "stations/images-america/canadream/halifax/CityNews 95.7.png",
             url: "http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/icy"
         },
         {
@@ -38053,6 +38058,11 @@ var stations_canadream = {
             url: "https://live.leanstream.co/CJOTFM"
         },
         {
+            name: "CityNews 101.1",
+            logo: "stations/images-america/canadream/ottawa/CityNews 101.1.png",
+            url: "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy"
+        },
+        {
             name: "Rebel 101.7",
             logo: "stations/images-america/canadream/ottawa/Rebel 101.7.png",
             url: "http://stream.rebel1017.com:8442/rebel1017"
@@ -38096,11 +38106,6 @@ var stations_canadream = {
             name: "TSN 1200",
             logo: "stations/images-america/canadream/ottawa/TSN 1200.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
-        },
-        {
-            name: "1310 News",
-            logo: "stations/images-america/canadream/ottawa/1310 News.png",
-            url: "https://rogers-hls.leanstream.co/rogers/ott1310.stream/icy"
         },
     ],
     "parrysound": [
@@ -38742,8 +38747,8 @@ var stations_canadream = {
             url: "https://live.leanstream.co/CFMJAM-MP3"
         },
         {
-            name: "680 News",
-            logo: "stations/images-america/canadream/toronto/680 News.png",
+            name: "CityNews 680",
+            logo: "stations/images-america/canadream/toronto/CityNews 680.png",
             url: "https://rogers-hls.leanstream.co/rogers/tor680.stream/icy"
         },
         {
@@ -38931,8 +38936,8 @@ var stations_canadream = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC_SC"
         },
         {
-            name: "NEWS 1130",
-            logo: "stations/images-america/canada_promods/vancouver/News 1130.png",
+            name: "CityNews 1130",
+            logo: "stations/images-america/canada_promods/vancouver/CityNews 1130.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy"
         },
         {

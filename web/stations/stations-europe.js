@@ -1642,7 +1642,7 @@ var stations = {
         {
             name: "Radio 7",
             logo: "stations/images-europe/germany-bw/Radio 7.png",
-            url: "https://edge04.streamonkey.net/radio7-dab"
+            url: "https://frontend.streamonkey.net/radio7-dab"
         },
         {
             name: "Radio Ton",
@@ -1664,7 +1664,7 @@ var stations = {
         {
             name: "HAMBURG ZWEI",
             logo: "stations/images-europe/germany-hh/HAMBURG ZWEI.png",
-            url: "https://rhh.streamabc.net/rhh-hh2livestream-mp3-128-9203677"
+            url: "https://frontend.streamonkey.net/hh2-950"
         },
         {
             name: "TIDE 96.0",
@@ -1679,7 +1679,7 @@ var stations = {
         {
             name: "Radio Hamburg",
             logo: "stations/images-europe/germany-hh/Radio Hamburg.png",
-            url: "https://rhh.streamabc.net/rhh-rhhlivestream-mp3-128-5239250"
+            url: "https://frontend.streamonkey.net/rhh-1036"
         },
         {
             name: "FluxFM",
