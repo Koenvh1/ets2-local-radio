@@ -10279,7 +10279,7 @@ var stations = {
         },
         {
             name: "94.1 The Sound",
-            logo: "stations/images-america/seattle/94.1 The Sound.png",
+            logo: "stations/images-america/seattle/94.1 The Sound_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSWDFMAAC_SC"
         },
         {
@@ -10429,7 +10429,7 @@ var stations = {
         },
         {
             name: "Warm 106.9",
-            logo: "stations/images-america/seattle/Warm 106.9.png",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFMAAC_SC"
         },
         {
@@ -20386,7 +20386,7 @@ var stations_c2c = {
         },
         {
             name: "106.3 WOVO",
-            logo: "stations/images-america/c2c/bowling_green_ky/106.3 WOVO.png",
+            logo: "stations/images-america/c2c/bowling_green_ky/106.3 WOVO_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOVO_FMAAC_SC"
         },
         {
@@ -22010,7 +22010,7 @@ var stations_c2c = {
         },
         {
             name: "Today's 101.9",
-            logo: "stations/images-america/c2c/baltimore_md/Today's 101.9.png",
+            logo: "stations/images-america/c2c/baltimore_md/Today's 101.9_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLIFFMAAC_SC"
         },
         {
@@ -30545,7 +30545,7 @@ var stations_c2c = {
         },
         {
             name: "100.7 WLEV",
-            logo: "stations/images-america/c2c/allentown_pa/100.7 WLEV.png",
+            logo: "stations/images-america/c2c/allentown_pa/100.7 WLEV_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLEVFMAAC_SC"
         },
         {
@@ -37419,7 +37419,7 @@ var stations_canadream = {
         {
             name: "Bounce 91.5",
             logo: "stations/images-america/canada_promods/kamloops/Bounce 91.5.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://14923.live.streamtheworld.com/CKXRFMAAC_SC&hl=3c0"
         },
         {
             name: "92.5 The X",
@@ -37496,7 +37496,7 @@ var stations_canadream = {
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada_promods/kelowna/99.9 Virgin Radio.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://20603.live.streamtheworld.com/CKFMFMAAC_SC&hl=3c0"
         },
         {
             name: "New Country 100.7",
@@ -37506,7 +37506,7 @@ var stations_canadream = {
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada_promods/kelowna/Move 101.5.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://25023.live.streamtheworld.com/CILKFMAAC_SC&hl=3c0"
         },
         {
             name: "103.1 Beach Radio",
@@ -37526,7 +37526,7 @@ var stations_canadream = {
         {
             name: "Pure Country 105.7",
             logo: "stations/images-america/canada_promods/kelowna/Pure Country 105.7.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CICFFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://18443.live.streamtheworld.com/CICFFMAAC_SC&hl=3c0"
         },
         {
             name: "770 CHQR",
@@ -37919,7 +37919,7 @@ var stations_canadream = {
         {
             name: "CHOM 97.7",
             logo: "stations/images-america/canadream/montreal/CHOM 97.7.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://19003.live.streamtheworld.com/CHOMFMAAC_SC&hl=3c0"
         },
         {
             name: "98.5 FM",
@@ -38008,12 +38008,12 @@ var stations_canadream = {
         {
             name: "CJMG-FM-2 99.9",
             logo: "stations/images-america/canada_promods/osoyoos/Move 97.1.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMGFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://13693.live.streamtheworld.com/CJMGFMAAC_SC&hl=3c0"
         },
         {
             name: "Bounce 1240",
             logo: "stations/images-america/canada_promods/osoyoos/Bounce 1240.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://19793.live.streamtheworld.com/CJORFMAAC_SC&hl=3c0"
         },
     ],
     "ottawa": [
@@ -38425,12 +38425,12 @@ var stations_canadream = {
         {
             name: "94.5 Énergie",
             logo: "stations/images-america/canadream/saguenay/94.5 Énergie.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://20263.live.streamtheworld.com/CJABFMAAC_SC&hl=3c0"
         },
         {
             name: "96.9 Rouge FM",
             logo: "stations/images-america/canadream/saguenay/96.9 Rouge FM.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://20263.live.streamtheworld.com/CFIXFMAAC_SC&hl=3c0"
         },
         {
             name: "ICI Musique 100.9",
@@ -38823,7 +38823,7 @@ var stations_canadream = {
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada_promods/vancouver/94.5 Virgin Radio.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://23103.live.streamtheworld.com/CFBTFMAAC_SC&hl=3c0"
         },
         {
             name: "Z95.3",
@@ -38883,7 +38883,7 @@ var stations_canadream = {
         {
             name: "Move 103.5",
             logo: "stations/images-america/canada_promods/vancouver/Move 103.5.png",
-            url: "https://www.ekamali.com/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/CHQMFMAAC_SC&hl=3c0"
+            url: "https://www.ekamali.com/index.php?q=https://18803.live.streamtheworld.com/CHQMFMAAC_SC&hl=3c0"
         },
         {
             name: "104.3 The Breeze",
