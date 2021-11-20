@@ -37014,7 +37014,7 @@ var stations_canadream = {
         },
         {
             name: "CIAM 107.5",
-            logo: "stations/images-america/canadream/CIAM 107.5.png",
+            logo: "stations/images-america/canadream/dawsoncreek/CIAM 107.5.png",
             url: "https://5b4aa1d044c5b.streamlock.net/ciam-live/ciamfv.stream/playlist.m3u8"
         },
     ],
@@ -37351,7 +37351,7 @@ var stations_canadream = {
         },
         {
             name: "CHSR 97.9",
-            logo: "stations/images-america/canadream/fredericton/CHSR 97.9 FM.png",
+            logo: "stations/images-america/canadream/fredericton/CHSR 97.9.png",
             url: "http://usa6.fastcast4u.com:5005/stream"
         },
         {
