@@ -37110,12 +37110,12 @@ var stations_canadream = {
         },
         {
             name: "96.3 The Breeze",
-            logo: "stations/images-america/canada_promods/edmonton/96.3 The Breeze_christmas.png",
+            logo: "stations/images-america/canadream/edmonton/96.3 The Breeze_christmas.png",
             url: "https://www.ekamali.com/index.php?q=https://newcap.leanstream.co/CKRAFM&hl=3c0"
         },
         {
             name: "K-97",
-            logo: "stations/images-america/canada_promods/edmonton/K-97.png",
+            logo: "stations/images-america/canadream/edmonton/K-97.png",
             url: "https://www.ekamali.com/index.php?q=https://newcap.leanstream.co/CIRKFM&hl=3c0"
         },
         {
@@ -37135,7 +37135,7 @@ var stations_canadream = {
         },
         {
             name: "100.3 The Bear",
-            logo: "stations/images-america/canada_promods/edmonton/100.3 The Bear.png",
+            logo: "stations/images-america/canadream/edmonton/100.3 The Bear.png",
             url: "https://www.ekamali.com/index.php?q=https://24863.live.streamtheworld.com/CFBRFMAAC_SC&hl=3c0"
         },
         {
@@ -37165,7 +37165,7 @@ var stations_canadream = {
         },
         {
             name: "104.9 Virgin Radio",
-            logo: "stations/images-america/canada_promods/edmonton/104.9 Virgin Radio.png",
+            logo: "stations/images-america/canadream/edmonton/104.9 Virgin Radio.png",
             url: "https://www.ekamali.com/index.php?q=https://14543.live.streamtheworld.com/CFMGFMAAC_SC&hl=3c0"
         },
         {
@@ -37287,7 +37287,7 @@ var stations_canadream = {
         },
         {
             name: "Bounce 102.3",
-            logo: "stations/images-america/canada_promods/fortnelson/Bounce 102.3.png",
+            logo: "stations/images-america/canadream/fortnelson/Bounce 102.3.png",
             url: "https://www.ekamali.com/index.php?q=https://18543.live.streamtheworld.com/CKRXFMAAC_SC&hl=3c0"
         },
     ],
@@ -37381,7 +37381,7 @@ var stations_canadream = {
         },
         {
             name: "Pure Country 103.5",
-            logo: "stations/images-america/canada_promods/fredericton/Pure Country 103.5.png",
+            logo: "stations/images-america/canadream/fredericton/Pure Country 103.5.png",
             url: "https://www.ekamali.com/index.php?q=https://24293.live.streamtheworld.com/CKHJAMAAC_SC&hl=3c0"
         },
         {
@@ -37391,12 +37391,12 @@ var stations_canadream = {
         },
         {
             name: "Bounce 105.3",
-            logo: "stations/images-america/canada_promods/fredericton/Bounce 105.3.png",
+            logo: "stations/images-america/canadream/fredericton/Bounce 105.3.png",
             url: "https://www.ekamali.com/index.php?q=https://17563.live.streamtheworld.com/CFXYFMAAC_SC&hl=3c0"
         },
         {
             name: "Move 106.9",
-            logo: "stations/images-america/canada_promods/fredericton/Move 106.9.png",
+            logo: "stations/images-america/canadream/fredericton/Move 106.9.png",
             url: "https://www.ekamali.com/index.php?q=https://17563.live.streamtheworld.com/CIBXFMAAC_SC&hl=3c0"
         },
     ],
@@ -37430,7 +37430,7 @@ var stations_canadream = {
         },
         {
             name: "Bounce 106.3",
-            logo: "stations/images-america/canada_promods/golden/Bounce 106.3.png",
+            logo: "stations/images-america/canadream/golden/Bounce 106.3.png",
             url: "https://www.ekamali.com/index.php?q=https://25023.live.streamtheworld.com/CKGRAAC_SC&hl=3c0"
         },
     ],
