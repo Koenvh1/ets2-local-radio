@@ -2408,6 +2408,41 @@ var stations = {
             logo: "stations/images-europe/iraq/Nawa.png",
             url: "http://nawaradio2.primcast.com:1344/;stream.mp3"
         },
+        {
+            name: "mix FM",
+            logo: "stations/images-europe/iraq/mixfm.png",
+            url: "http://c2.radioboss.fm:8184/stream"
+        },
+        {
+            name: "OneFM",
+            logo: "stations/images-europe/iraq/onefm.png",
+            url: "https://s2.radio.co/s03d947c9d/listen"
+        },
+        {
+            name: "راديو الغد",
+            logo: "stations/images-europe/iraq/راديو الغد.jpg",
+            url: "http://s10.voscast.com:9410/;"
+        },
+        {
+            name: "Monte Carlo Doualiya",
+            logo: "stations/images-europe/iraq/dUoovfGl_400x400.jpg",
+            url: "http://icepe12.infomaniak.ch/mc-doualiya.mp3"
+        },
+        {
+            name: "راديو الحياة الجديدة",
+            logo: "stations/images-europe/iraq/sd3c7f8539.webp",
+            url: "https://s2.radio.co/sd3c7f8539/listen"
+        },
+        {
+            name: "Monte Carlo Doualiya",
+            logo: "stations/images-europe/iraq/s99075d.png",
+            url: "http://alrasheedmedia.com:9998/;"
+        },
+        {
+            name: "SumerFM",
+            logo: "stations/images-europe/iraq/logosumerfm.png",
+            url: "https://l3.itworkscdn.net/itwaudio/9012/stream"
+        },
     ],
     "ireland": [
         {
