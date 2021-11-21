@@ -7408,7 +7408,7 @@ var stations = {
         {
             name: "Ocean 98.5",
             logo: "stations/images-america/canada_promods/vancouver/Ocean 98.5.png",
-            url: "https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy&hl=3c0"
         },
         {
             name: "100.3 The Q",
@@ -7418,7 +7418,7 @@ var stations = {
         {
             name: "JACK 103.1",
             logo: "stations/images-america/port_angeles/JACK 103.1.png",
-            url: "https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy&hl=3c0"
         },
         {
             name: "KAFE 104.1",
@@ -9122,7 +9122,7 @@ var stations = {
             url: "https://ais-sa3.cdnstream1.com/2283_96.aac"
         },
         {
-            name: "94.5 Utah's VFX",
+            name: "K252DI 98.3",
             logo: "stations/images-america/logan/94.5 Utah's VFX.png",
             url: "https://ice9.securenetsystems.net/KVFX"
         },
@@ -37483,9 +37483,9 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
         },
         {
-            name: "ICI Musique Halifax 91.5",
+            name: "ICI Musique 91.5",
             logo: "stations/images-america/canadream/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7EMCT0_MCT"
         },
         {
             name: "ICI Première 92.3",
@@ -37493,9 +37493,19 @@ var stations_canadream = {
             url: "https://srcprem-lh.akamaihd.net/i/SRCPREMIERE_EDM@23454/master.m3u8"
         },
         {
+            name: "JACK 92.9",
+            logo: "stations/images-america/canadream/halifax/JACK 92.9.png",
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/hal929.stream/icy&hl=3c0"
+        },
+        {
             name: "CityNews 95.7",
             logo: "stations/images-america/canadream/halifax/CityNews 95.7.png",
             url: "http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/icy"
+        },
+        {
+            name: "96.5 The Breeze",
+            logo: "stations/images-america/canadream/halifax/96.5 The Breeze_christmas.png",
+            url: "https://www.ekamali.com/index.php?q=https://newcap.leanstream.co/CKULFM&hl=3c0"
         },
         {
             name: "Oui 98",
@@ -37503,12 +37513,22 @@ var stations_canadream = {
             url: "https://stream2.statsradio.com/8076/stream"
         },
         {
-            name: "CHHU 99.1",
+            name: "Radio Middle East 99.1",
             logo: "stations/images-america/canadream/halifax/Radio Middle East.png",
             url: "http://s7.voscast.com:10566/stream"
         },
         {
-            name: "FX 101.9",
+            name: "Move 100.1",
+            logo: "stations/images-america/canadream/halifax/Move 100.1.png",
+            url: "https://www.ekamali.com/index.php?q=https://17553.live.streamtheworld.com/CIOOFMAAC_SC&hl=3c0"
+        },
+        {
+            name: "101.3 Virgin Radio",
+            logo: "stations/images-america/canadream/halifax/101.3 Virgin Radio.png",
+            url: "https://www.ekamali.com/index.php?q=https://24373.live.streamtheworld.com/CJCHFMAAC_SC&hl=3c0"
+        },
+        {
+            name: "FX101.9",
             logo: "stations/images-america/canadream/halifax/FX 101.9.png",
             url: "http://mbsradio.leanstream.co/CHFXFM-MP3"
         },
@@ -37521,6 +37541,11 @@ var stations_canadream = {
             name: "Hot Country 103.5",
             logo: "stations/images-america/canadream/halifax/Hot Country 103.5.png",
             url: "https://ais-sa1.streamon.fm/7738_128k.aac"
+        },
+        {
+            name: "Q104",
+            logo: "stations/images-america/canadream/halifax/Q104.png",
+            url: "https://www.ekamali.com/index.php?q=https://newcap.leanstream.co/CFRQFM&hl=3c0"
         },
         {
             name: "Surge 105.1",
@@ -37550,26 +37575,26 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
         },
         {
-            name: "Moose FM 94.5",
-            logo: "stations/images-america/canadream/hearst/Moose FM 94.5.png",
+            name: "CKHT 94.5",
+            logo: "stations/images-america/canadream/hearst/CKHT 94.5.png",
             url: "http://s1.hotdogradio.com/CKAP"
-        },
-        {
-            name: "Le Loup 104.1",
-            logo: "stations/images-america/canadream/hearst/Le Loup 104.1.png",
-            url: "http://equinox.shoutca.st:9174/;"
         },
     ],
     "highlevel": [
         {
-            name: "River Country 94.9",
-            logo: "stations/images-america/canadream/highlevel/River Country 94.9 FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKYLFMAAC_SC"
-        },
-        {
             name: "CBC Radio One 99.5",
             logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_EDM@372985/master.m3u8"
+        },
+        {
+            name: "CKHL 102.1",
+            logo: "stations/images-america/canadream/highlevel/CKHL 102.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKYLFMAAC_SC"
+        },
+        {
+            name: "KIX 106",
+            logo: "stations/images-america/canadream/highlevel/KIX 106.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKKXFMAAC_SC"
         },
     ],
     "hope": [
@@ -37596,7 +37621,7 @@ var stations_canadream = {
         {
             name: "Star 98.3",
             logo: "stations/images-america/canada_promods/hope/Star 98.3.png",
-            url: "https://rogers-hls.leanstream.co/rogers/chi983.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/chi983.stream/icy&hl=3c0"
         },
         {
             name: "Rock 101",
@@ -37611,7 +37636,7 @@ var stations_canadream = {
         {
             name: "Country 107.1",
             logo: "stations/images-america/canada_promods/hope/Country 107.1.png",
-            url: "https://rogers-hls.leanstream.co/rogers/abb1071.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/abb1071.stream/icy&hl=3c0"
         },
     ],
     "houstoncan": [
@@ -37815,7 +37840,7 @@ var stations_canadream = {
         {
             name: "Country 93.5",
             logo: "stations/images-america/canadream/kingston/Country 93.5.png",
-            url: "https://rogers-hls.leanstream.co/rogers/kin935.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/kin935.stream/icy&hl=3c0"
         },
         {
             name: "95.5 Hits FM",
@@ -37870,7 +37895,7 @@ var stations_canadream = {
         {
             name: "KiSS 102.7",
             logo: "stations/images-america/canadream/kingston/KiSS 102.7.png",
-            url: "https://rogers-hls.leanstream.co/rogers/kin1027.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/kin1027.stream/icy&hl=3c0"
         },
         {
             name: "Magic 103.1",
@@ -37885,7 +37910,7 @@ var stations_canadream = {
         {
             name: "K-ROCK 105.7",
             logo: "stations/images-america/canadream/kingston/K-ROCK 105.7.png",
-            url: "https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy&hl=3c0"
         },
         {
             name: "The Border 106.7",
@@ -38300,7 +38325,7 @@ var stations_canadream = {
         {
             name: "JACK 92.3",
             logo: "stations/images-america/canadream/ottawa/JACK 92.3.png",
-            url: "https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy&hl=3c0"
         },
         {
             name: "CKCU 93.1",
@@ -38350,12 +38375,12 @@ var stations_canadream = {
         {
             name: "KiSS 105.3",
             logo: "stations/images-america/canadream/ottawa/KiSS 105.3.png",
-            url: "https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy&hl=3c0"
         },
         {
             name: "106.1 CHEZ",
             logo: "stations/images-america/canadream/ottawa/106.1 Chez.png",
-            url: "https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy&hl=3c0"
         },
         {
             name: "jump! 106.9",
@@ -38949,7 +38974,7 @@ var stations_canadream = {
         {
             name: "KiSS 92.5",
             logo: "stations/images-america/canadream/toronto/Kiss 92.5.png",
-            url: "https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy&hl=3c0"
         },
         {
             name: "CBC Music 94.1",
@@ -39103,7 +39128,7 @@ var stations_canadream = {
         {
             name: "JACK 96.9",
             logo: "stations/images-america/canada_promods/vancouver/JACK 96.9.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/van969.stream/icy&hl=3c0"
         },
         {
             name: "ICI Première 97.7",
@@ -39113,7 +39138,7 @@ var stations_canadream = {
         {
             name: "Ocean 98.5",
             logo: "stations/images-america/canada_promods/vancouver/Ocean 98.5.png",
-            url: "https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+            url: "https://www.ekamali.com/index.php?q=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy&hl=3c0"
         },
         {
             name: "CFOX 99.3",
