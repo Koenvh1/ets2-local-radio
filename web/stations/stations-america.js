@@ -9783,7 +9783,7 @@ var stations = {
         },
         {
             name: "KyXy 96.5",
-            logo: "stations/images-america/san_diego/KyXy 96.5.png",
+            logo: "stations/images-america/san_diego/KyXy 96.5_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYXYFMAAC_SC"
         },
         {
@@ -10020,7 +10020,7 @@ var stations = {
         },
         {
             name: "96.5 KOIT",
-            logo: "stations/images-america/san_francisco/96.5 KOIT.png",
+            logo: "stations/images-america/san_francisco/96.5 KOIT_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC_SC"
         },
         {
@@ -11579,7 +11579,7 @@ var stations = {
         },
         {
             name: "KOOL 96.5",
-            logo: "stations/images-america/twin_falls/KOOL 96.5.png",
+            logo: "stations/images-america/twin_falls/KOOL 96.5_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klixamaac-ibc3"
         },/*
         {
@@ -15370,7 +15370,7 @@ var stations_c2c = {
         },
         {
             name: "98.5 KTK",
-            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK.png",
+            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKTKFMAAC_SC"
         },
         {
@@ -15502,7 +15502,7 @@ var stations_c2c = {
         },
         {
             name: "96.1 WEJZ",
-            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
         },
         {
@@ -21833,7 +21833,7 @@ var stations_c2c = {
         },
         {
             name: "94.9 WHOM",
-            logo: "stations/images-america/c2c/portland_me/94.9 WHOM.png",
+            logo: "stations/images-america/c2c/portland_me/94.9 WHOM_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-whomfmaac-ibc3"
         },
         {
@@ -23377,7 +23377,7 @@ var stations_c2c = {
         },
         {
             name: "KOOL 101.7",
-            logo: "stations/images-america/c2c/duluth_mn/KOOL 101.7.png",
+            logo: "stations/images-america/c2c/duluth_mn/KOOL 101.7_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kldjfmaac-ibc3"
         },
         {
@@ -28061,7 +28061,7 @@ var stations_c2c = {
         },
         {
             name: "K104.7",
-            logo: "stations/images-america/c2c/charlotte_nc/K104.7.png",
+            logo: "stations/images-america/c2c/charlotte_nc/K104.7_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKQCFMAAC_SC"
         },
         {
@@ -28847,7 +28847,7 @@ var stations_c2c = {
         },
         {
             name: "106.9 The Eagle",
-            logo: "stations/images-america/c2c/fargo_nd/106.9 The Eagle.png",
+            logo: "stations/images-america/c2c/fargo_nd/106.9 The Eagle_christmas.png",
             url: "http://ice9.securenetsystems.net/KEGK"
         },
         {
@@ -33281,7 +33281,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 94.1",
-            logo: "stations/images-america/c2c/amarillo_tx/Mix 94.1.png",
+            logo: "stations/images-america/c2c/amarillo_tx/Mix 94.1_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmxjfmaac-ibc3"
         },
         {
@@ -33428,7 +33428,7 @@ var stations_c2c = {
         },
         {
             name: "Majic 95.5",
-            logo: "stations/images-america/c2c/austin_tx/Majic 95.5.png",
+            logo: "stations/images-america/c2c/austin_tx/Majic 95.5_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKMJFMAAC_SC"
         },
         {
@@ -39888,7 +39888,7 @@ var stations_greatamerica = {
         },
         {
             name: "104.1 EZ FM",
-            logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM.png",
+            logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-koezfmaac-ibc1"
         },
         {
