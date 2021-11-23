@@ -382,7 +382,7 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KXKS"
         },
         {
-            name: "iHeart Podcast 1350",
+            name: "Santa 1350",
             logo: "stations/images-america/albuquerque/iHeart Podcast 1350.png",
             url: "https://stream.revma.ihrhls.com/zc1401/hls.m3u8"
         },
@@ -26857,9 +26857,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOFMAAC_SC"
         },
         {
-            name: "JazzWorks 88.7-HD2",
-            logo: "stations/images-america/0_general_logos/JazzWorks.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOHD2_SC"
+            name: "The Bridge 88.7-HD2",
+            logo: "stations/images-america/c2c/buffalo_ny/The Bridge 88.7-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBFO_THE_BRIDGEAAC_SC"
         },
         {
             name: "Country 89",
@@ -26890,6 +26890,11 @@ var stations_c2c = {
             name: "Classical 94.5",
             logo: "stations/images-america/c2c/buffalo_ny/Classical 94.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNEDFM_SC"
+        },
+        {
+            name: "JazzWorks 94.5-HD2",
+            logo: "stations/images-america/0_general_logos/JazzWorks.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOHD2_SC"
         },
         {
             name: "Energy 95.3",
@@ -30636,6 +30641,11 @@ var stations_c2c = {
             name: "94.7 BOB FM",
             logo: "stations/images-america/c2c/erie_pa/94.7 BOB FM.png",
             url: "https://stream.revma.ihrhls.com/zc8295/hls.m3u8"
+        },
+        {
+            name: "iHeart Podcast 95.9",
+            logo: "stations/images-america/c2c/erie_pa/iHeart Podcast 95.9.png",
+            url: "https://stream.revma.ihrhls.com/zc8291/hls.m3u8"
         },
         {
             name: "Nash FM 97.9",
