@@ -7998,7 +7998,7 @@ var country_properties_canadream = {
         name: "Lillooet",
         name_english: "Lillooet",
         code: "ca-bc",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "lloydminster": {
         name: "Lloydminster",
@@ -8076,7 +8076,7 @@ var country_properties_canadream = {
         name: "Pemberton",
         name_english: "Pemberton",
         code: "ca-bc",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "princegeorge": {
         name: "Prince George",

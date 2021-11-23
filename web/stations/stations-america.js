@@ -10642,6 +10642,11 @@ var stations = {
             url: "https://ice66.securenetsystems.net/KSNX"
         },
         {
+            name: "107.9 The Eagle",
+            logo: "stations/images-america/show_low/107.9 The Eagle.png",
+            url: "http://1079theeagle.com:8190/eagle"
+        },
+        {
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
@@ -37946,7 +37951,7 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
         },
         {
-            name: "CKBZ-FM 93.9",
+            name: "CKBZ 93.9",
             logo: "stations/images-america/canada_promods/kamloops/B100.png",
             url: "https://redirect.jpbgdigital.com/CKBZ"
         },
@@ -37961,12 +37966,12 @@ var stations_canadream = {
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
         },
         {
-            name: "CIAK-FM 102.3",
+            name: "CIAK 102.3",
             logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
             url: "https://redirect.jpbgdigital.com/CIFM"
         },
         {
-            name: "CFMI-FM 104.5",
+            name: "CFMI 104.5",
             logo: "stations/images-america/canada_promods/vancouver/Rock 101.png",
             url: "http://live.leanstream.co/CFMIFM"
         },
@@ -38058,7 +38063,7 @@ var stations_canadream = {
             url: "http://192.99.17.12:5836/;"
         },
         {
-            name: "CKBZ-FM-3 99.5",
+            name: "CKBZ 99.5",
             logo: "stations/images-america/canada_promods/kamloops/B100.png",
             url: "https://redirect.jpbgdigital.com/CKBZ"
         },
@@ -38068,7 +38073,7 @@ var stations_canadream = {
             url: "https://redirect.jpbgdigital.com/CKMQ"
         },
         {
-            name: "CIFM-FM-3 103.9",
+            name: "CIFM 103.9",
             logo: "stations/images-america/canada_promods/kamloops/98.3 CIFM.png",
             url: "https://redirect.jpbgdigital.com/CIFM"
         },
@@ -38402,12 +38407,12 @@ var stations_canadream = {
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
         },
         {
-            name: "Country 105 92.7",
+            name: "CKRY 92.7",
             logo: "stations/images-america/canadream/calgary/Country 105.png",
             url: "http://live.leanstream.co/CKRYFM"
         },
         {
-            name: "Rock 101 98.1",
+            name: "CFMI 98.1",
             logo: "stations/images-america/canada_promods/vancouver/Rock 101.png",
             url: "http://live.leanstream.co/CFMIFM"
         },
