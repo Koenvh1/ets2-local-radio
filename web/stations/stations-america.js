@@ -18617,7 +18617,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/peoria_il/Mix 106.9.png",
+            logo: "stations/images-america/c2c/peoria_il/Mix 106.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
         },
         {
@@ -19358,7 +19358,7 @@ var stations_c2c = {
         },
         {
             name: "104.1 EZ FM",
-            logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM.png",
+            logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-koezfmaac-ibc1"
         },
         {
@@ -24958,7 +24958,7 @@ var stations_c2c = {
         },
         {
             name: "KC 102.1",
-            logo: "stations/images-america/c2c/kansascity_mo/KC 102.1.png",
+            logo: "stations/images-america/c2c/kansascity_mo/KC 102.1_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7042_48k.aac"
         },
         {
