@@ -383,7 +383,7 @@ var stations = {
         },
         {
             name: "Santa 1350",
-            logo: "stations/images-america/albuquerque/iHeart Podcast 1350.png",
+            logo: "stations/images-america/albuquerque/Santa 1350.png",
             url: "https://stream.revma.ihrhls.com/zc1401/hls.m3u8"
         },
     ],
@@ -29532,8 +29532,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7204_24k.aac"
         },
         {
-            name: "ALT 103.9",
-            logo: "stations/images-america/c2c/dayton_oh/ALT 103.9.png",
+            name: "Christmas 103.9",
+            logo: "stations/images-america/c2c/dayton_oh/Christmas 103.9.png",
             url: "https://stream.revma.ihrhls.com/zc1789/hls.m3u8"
         },
         {
