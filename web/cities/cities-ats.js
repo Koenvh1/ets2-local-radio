@@ -8012,9 +8012,9 @@ var country_properties_canadream = {
         code: "ca-qc",
         relative_radius: 1.2
     },
-    "maplecreek": {
-        name: "Maple Creek",
-        name_english: "Maple Creek",
+    "medicinehat": {
+        name: "Medicine Hat",
+        name_english: "Medicine Hat",
         code: "ca-sk",
         relative_radius: 1.2
     },
@@ -8324,7 +8324,7 @@ var city_properties_canadream = {
     "maniwaki": {
         relative_whitenoise: 0.95
     },
-    "maplecreek": {
+    "medicinehat": {
         relative_whitenoise: 0.95
     },
     "marathon": {
@@ -8697,8 +8697,8 @@ var cities_canadream = [
         "z": "-51041.1"
     },
     {
-        "gameName": "maplecreek",
-        "realName": "Maple Creek",
+        "gameName": "medicinehat",
+        "realName": "Medicine Hat",
         "country": "saskatchew",
         "x": "-48690.6",
         "y": "96.9609",
