@@ -4598,7 +4598,7 @@ var stations = {
         },
         {
             name: "Mix 105.3",
-            logo: "stations/images-america/kennewick/Mix 105.3.png",
+            logo: "stations/images-america/kennewick/Mix 105.3_christmas.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
         },
         {
@@ -6986,7 +6986,7 @@ var stations = {
         },
         {
             name: "94.9 The Wolf",
-            logo: "stations/images-america/pendleton/94.9 The Wolf.png",
+            logo: "stations/images-america/kennewick/94.9 The Wolf.png",
             url: "http://ice6.securenetsystems.net/KIOK"
         },
         {
@@ -7001,7 +7001,7 @@ var stations = {
         },
         {
             name: "97 Rock",
-            logo: "stations/images-america/pendleton/97 Rock.png",
+            logo: "stations/images-america/kennewick/97 Rock.png",
             url: "https://live.wostreaming.net/direct/townsquare-kxrxfmaac-ibc3"
         },
         {
@@ -7031,7 +7031,7 @@ var stations = {
         },
         {
             name: "Mix 105.3",
-            logo: "stations/images-america/kennewick/Mix 105.3.png",
+            logo: "stations/images-america/kennewick/Mix 105.3_christmas.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
         },
         {
@@ -7604,7 +7604,7 @@ var stations = {
         },
         {
             name: "104.1 The Fish",
-            logo: "stations/images-america/portland/104.1 The Fish.png",
+            logo: "stations/images-america/portland/104.1 The Fish_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFISFMAAC_SC"
         },
         {
@@ -16202,7 +16202,7 @@ var stations_c2c = {
         },
         {
             name: "99.5 WLOV",
-            logo: "stations/images-america/c2c/new_smyrna_beach_fl/99.5 WLOV.png",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/99.5 WLOV_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLOVFMAAC_SC"
         },
         {
