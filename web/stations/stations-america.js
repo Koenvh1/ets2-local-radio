@@ -3937,7 +3937,7 @@ var stations = {
         },
         {
             name: "The LIFT 92.7",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -8587,6 +8587,11 @@ var stations = {
     ],
     "roswell": [
         {
+            name: "Relevant Radio 88.5",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+        },
+        {
             name: "Air1 89.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -8595,6 +8600,11 @@ var stations = {
             name: "Effect Radio 89.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "K-LOVE 90.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
             name: "KENW 91.1",
@@ -8612,6 +8622,16 @@ var stations = {
             url: "https://ais-sa2.cdnstream1.com/2336_128.mp3"
         },
         {
+            name: "VCY America 97.9",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "Family Life Radio 99.3",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
             name: "Radio Vida 101.1",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
             url: "http://shout2.brnstream.com:8006/stream"
@@ -8627,6 +8647,11 @@ var stations = {
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
+            name: "CD104",
+            logo: "stations/images-america/carlsbad_nm/CD104.png",
+            url: "https://us9.maindigitalstream.com/ssl/cd104"
+        },
+        {
             name: "Fierro 106.1",
             logo: "stations/images-america/carlsbad_nm/Fierro 106.1.png",
             url: "http://ice3.securenetsystems.net:80/KPZE"
@@ -8635,6 +8660,16 @@ var stations = {
             name: "106.5 Roswell's Talk FM",
             logo: "stations/images-america/roswell/106.5 Roswell's Talk FM.png",
             url: "https://ice23.securenetsystems.net/KEND"
+        },
+        {
+            name: "B107 The Blaze",
+            logo: "stations/images-america/hobbs/B107 The Blaze.png",
+            url: "http://ice2.securenetsystems.net/KTUM"
+        },
+        {
+            name: "KEJL 1110",
+            logo: "stations/images-america/hobbs/Eagle 100.5.png",
+            url: "https://us2.maindigitalstream.com/ssl/KEJL"
         },
     ],
     "sacramento": [
@@ -10941,7 +10976,7 @@ var stations = {
         },
         {
             name: "The LIFT 95.9",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -10971,7 +11006,7 @@ var stations = {
         },
         {
             name: "The LIFT 106.3",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ice1.amtstreaming.com:9005/kiftic"
         },
         {
@@ -38569,9 +38604,14 @@ var stations_canadream = {
     ],
     "nakina": [
         {
-            name: "CBC Radio One 99.1",
+            name: "CBC Radio One 89.1",
             logo: "stations/images-america/canadream/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
+        },
+        {
+            name: "ICI Première 93.7",
+            logo: "stations/images-america/canadream/ICI Première.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
         },
         {
             name: "CFNO 107.1",
