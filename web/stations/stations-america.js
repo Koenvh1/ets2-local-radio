@@ -1475,7 +1475,7 @@ var stations = {
         },
         {
             name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
+            logo: "stations/images-america/reno/106.9 More FM_christmas.png",
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
         {
@@ -5826,7 +5826,7 @@ var stations = {
         },
         {
             name: "Go Country 105",
-            logo: "stations/images-america/los_angeles/Go Country 105.png",
+            logo: "stations/images-america/los_angeles/Go Country 105_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
         },
         {
@@ -6008,7 +6008,7 @@ var stations = {
         },
         {
             name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
+            logo: "stations/images-america/reno/106.9 More FM_christmas.png",
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
     ],
@@ -8168,7 +8168,7 @@ var stations = {
         },
         {
             name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
+            logo: "stations/images-america/reno/106.9 More FM_christmas.png",
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
         {
@@ -22483,7 +22483,7 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMJXFMAAC_SC"
         },
         {
-            name: "Magic Christmas 106.7-HD2",
+            name: "Magic 106.7-HD2",
             logo: "stations/images-america/c2c/boston_ma/Magic 106.7.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMJXHD2AAC_SC"
         },
