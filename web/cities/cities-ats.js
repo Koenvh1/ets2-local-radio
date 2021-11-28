@@ -3530,6 +3530,18 @@ var country_properties_c2c = {
         code: "us-hi",
         relative_radius: 1.1
     },
+    "kilua_kona": {
+        name: "Kilua Kona",
+        name_english: "Kilua Kona",
+        code: "us-hi",
+        relative_radius: 0.8
+    },
+    "naalehu": {
+        name: "Naalehu",
+        name_english: "Naalehu",
+        code: "us-hi",
+        relative_radius: 0.8
+    },
     "illinois": {
         name: "illinois",
         name_english: "illinois",
@@ -5111,6 +5123,12 @@ var city_properties_c2c = {
     "honolulu": {
         relative_whitenoise: 0.90
     },
+    "kilua_kona": {
+        relative_whitenoise: 0.85
+    },
+    "naalehu": {
+        relative_whitenoise: 0.85
+    },
     "illinois": {
         relative_whitenoise: 0.95
     },
@@ -6146,6 +6164,22 @@ var cities_c2c = [
         "x": "-313617",
         "y": "3.34848",
         "z": "-11027.75"
+    },
+    {
+        "gameName": "kilua_kona",
+        "realName": "Kilua Kona",
+        "country": "hawaii",
+        "x": "-305466",
+        "y": "7.46992",
+        "z": "40895.7"
+    },
+    {
+        "gameName": "naalehu",
+        "realName": "Naalehu",
+        "country": "hawaii",
+        "x": "-302175",
+        "y": "85.836",
+        "z": "48855.6"
     },
     {
         "gameName": "bloomington_il",

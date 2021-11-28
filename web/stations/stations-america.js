@@ -1624,7 +1624,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-krecfmaac-imc4"
         },
         {
@@ -7345,7 +7345,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-krecfmaac-imc4"
         },
     ],
@@ -11130,7 +11130,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-krecfmaac-imc4"
         },
         {
@@ -17904,6 +17904,11 @@ var stations_c2c = {
     ],	 	  
     "hilo": [
         {
+            name: "K-LOVE 88.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "HPR News 89.1",
             logo: "stations/images-america/0_general_logos/HPR.png",
             url: "https://khpr-ice.streamguys1.com/khpr2"
@@ -17914,9 +17919,19 @@ var stations_c2c = {
             url: "https://khpr-ice.streamguys1.com/kipo2"
         },
         {
+            name: "Moody Radio 91.9",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://primary.moodyradiostream.org/Network.mp3"
+        },
+        {
             name: "The Wave@92FM",
             logo: "stations/images-america/c2c/hilo_hi/The Wave@92FM.png",
             url: "https://ais-sa1.streamon.fm/7002_48k.aac"
+        },
+        {
+            name: "KUHH 101.1",
+            logo: "stations/images-america/c2c/hilo_hi/KUHH 101.1.png",
+            url: "https://live.wostreaming.net/manifest/uofhawaii-kuhhlpaac-hlsc1.m3u8"
         },
         {
             name: "102.7 The Beach",
@@ -18145,7 +18160,111 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/honolulu_hi/CBS 1500.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKAAM_SC"
         },
-    ],	
+    ],	 	  
+    "kilua_kona": [
+        {
+            name: "HPR News 88.7",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/khpr2"
+        }, 
+        {
+            name: "Effect Radio 89.1",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "HPR Classical 91.3",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/kipo2"
+        },
+        {
+            name: "The Wave@92FM",
+            logo: "stations/images-america/c2c/hilo_hi/The Wave@92FM.png",
+            url: "https://ais-sa1.streamon.fm/7002_48k.aac"
+        },
+        {
+            name: "K-LOVE 94.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Kona 100.5",
+            logo: "stations/images-america/c2c/kilua_kona_hi/Kona 100.5.png",
+            url: "https://s17.ssl-stream.com/proxy/alchemy?mp=/stream&1638107039533"
+        }, 
+        {
+            name: "105.3 LAVA",
+            logo: "stations/images-america/c2c/kilua_kona_hi/105.3 LAVA.png",
+            url: "https://ais-sa1.streamon.fm/7725_48k.aac"
+        },
+        {
+            name: "K289BE 105.7",
+            logo: "stations/images-america/c2c/honolulu_hi/Krater 96.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7696_128k.aac"
+        },
+        {
+            name: "106.9 The Beach",
+            logo: "stations/images-america/c2c/hilo_hi/102.7 The Beach.png",
+            url: "https://ais-sa1.streamon.fm/7360_48k.aac"
+        },
+        {
+            name: "KOA Country 107.7",
+            logo: "stations/images-america/c2c/hilo_hi/KOA Country 107.7.png",
+            url: "https://ais-sa1.streamon.fm/7724_48k.aac"
+        }, 
+        {
+            name: "KSSK 590",
+            logo: "stations/images-america/c2c/honolulu_hi/92.3 KSSK_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc829/hls.m3u8"
+        }, 
+        {
+            name: "690 The Answer",
+            logo: "stations/images-america/c2c/honolulu_hi/94.3 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC_SC"
+        },
+        {
+            name: "760 HSRN",
+            logo: "stations/images-america/c2c/honolulu_hi/95.1 HSRN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAMAAC_SC"
+        },
+        {
+            name: "830 KHVH",
+            logo: "stations/images-america/c2c/honolulu_hi/830 KHVH.png",
+            url: "https://stream.revma.ihrhls.com/zc4748/hls.m3u8"
+        },
+    ],
+    "naalehu": [
+        {
+            name: "HPR News 89.1",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/khpr2"
+        }, 
+        {
+            name: "HPR Classical 91.3",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/kipo2"
+        },
+        {
+            name: "The Wave@92FM",
+            logo: "stations/images-america/c2c/hilo_hi/The Wave@92FM.png",
+            url: "https://ais-sa1.streamon.fm/7002_48k.aac"
+        }, 
+        {
+            name: "102.7 The Beach",
+            logo: "stations/images-america/c2c/hilo_hi/102.7 The Beach.png",
+            url: "https://ais-sa1.streamon.fm/7360_48k.aac"
+        },
+        {
+            name: "105.3 LAVA",
+            logo: "stations/images-america/c2c/kilua_kona_hi/105.3 LAVA.png",
+            url: "https://ais-sa1.streamon.fm/7725_48k.aac"
+        },
+        {
+            name: "KOA Country 107.7",
+            logo: "stations/images-america/c2c/hilo_hi/KOA Country 107.7.png",
+            url: "https://ais-sa1.streamon.fm/7724_48k.aac"
+        }, 
+    ],
     "bloomington_il": [
         {
             name: "WESN 88.1",
