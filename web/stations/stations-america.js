@@ -2672,7 +2672,7 @@ var stations = {
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM.png",
             url: "http://204.141.167.19:8970/stream"
         },
         {
@@ -3149,7 +3149,7 @@ var stations = {
         },
         {
             name: "Rewind 104.1",
-            logo: "stations/images-america/flagstaff/Rewind 104.1.png",
+            logo: "stations/images-america/flagstaff/Rewind 104.1_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFMAAC_SC"
         },
         {
@@ -5735,6 +5735,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC_SC"
         },
         {
+            name: "95.9 The Fish",
+            logo: "stations/images-america/los_angeles/95.9 The Fish_christmas.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC_SC"
+        },
+        {
             name: "Mega 96.3",
             logo: "stations/images-america/los_angeles/Mega 96.3.png",
             url: "https://live.wostreaming.net/manifest/sbsystems-kxolfmaac-ib-64"
@@ -6676,7 +6681,7 @@ var stations = {
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM.png",
             url: "http://204.141.167.19:8970/stream"
         },/*
         {
@@ -7534,7 +7539,7 @@ var stations = {
         },
         {
             name: "97.1 Charlie",
-            logo: "stations/images-america/portland/97.1 Charlie.png",
+            logo: "stations/images-america/portland/97.1 Charlie_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYCHFMAAC_SC"
         },
         {
@@ -8250,7 +8255,7 @@ var stations = {
         },
         {
             name: "K234CR 94.7",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -24667,7 +24672,7 @@ var stations_c2c = {
         },
         {
             name: "98.3 The Dove",
-            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove.png",
+            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KDVC"
         },
         {
@@ -25518,7 +25523,7 @@ var stations_c2c = {
         },
         {
             name: "98.1 K-Bear",
-            logo: "stations/images-america/c2c/billings_mt/98.1 K-Bear.png",
+            logo: "stations/images-america/c2c/billings_mt/98.1 K-Bear_christmas.png",
             url: "http://desertmountainbroadcasting.streamguys1.com/KYYA"
         },
         {
@@ -26389,7 +26394,7 @@ var stations_c2c = {
         },
         {
             name: "B107.3",
-            logo: "stations/images-america/c2c/lincoln_ne/B107.3.png",
+            logo: "stations/images-america/c2c/lincoln_ne/B107.3_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBBKFMAAC_SC"
         },
     ],
