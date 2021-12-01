@@ -1612,12 +1612,12 @@ var stations = {
         {
             name: "SWR1 BW",
             logo: "stations/images-europe/germany-swr/SWR1.png",
-            url: "http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3"
         },
         {
             name: "SWR4 BW",
             logo: "stations/images-europe/germany-swr/SWR4.png",
-            url: "http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3"
         },
         {
             name: "antenne 1",
@@ -1997,12 +1997,12 @@ var stations = {
         {
             name: "SWR1 Rheinland-Pfalz",
             logo: "stations/images-europe/germany-swr/SWR1.png",
-            url: "http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swr1/rp/mp3/128/stream.mp3"
         },
         {
             name: "SWR4 Rheinland-Pfalz",
             logo: "stations/images-europe/germany-swr/SWR4.png",
-            url: "http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3"
         },
         {
             name: "bigFM",
@@ -2085,22 +2085,22 @@ var stations = {
         {
             name: "SWR2",
             logo: "stations/images-europe/germany-swr/SWR2.png",
-            url: "http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3"
         },
         {
             name: "SWR3",
             logo: "stations/images-europe/germany-swr/SWR3.png",
-            url: "http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3"
         },
         {
             name: "SWR Aktuell",
             logo: "stations/images-europe/germany-swr/SWR Aktuell.png",
-            url: "http://swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3"
         },
         {
             name: "DASDING",
             logo: "stations/images-europe/germany-swr/DASDING.png",
-            url: "http://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3"
         },
         {
             name: "Radio Regenbogen",
