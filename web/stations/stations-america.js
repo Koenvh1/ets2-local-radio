@@ -254,7 +254,7 @@ var stations = {
         {
             name: "96.3 KKOB",
             logo: "stations/images-america/albuquerque/96.3 KKOB.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
         },
         {
             name: "KISS 97.3",
@@ -7403,7 +7403,7 @@ var stations = {
         {
             name: "Ocean 98.5",
             logo: "stations/images-america/canada_promods/vancouver/Ocean 98.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZauZlpxtal6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
         },
         {
             name: "100.3 The Q",
@@ -7413,7 +7413,7 @@ var stations = {
         {
             name: "JACK 103.1",
             logo: "stations/images-america/port_angeles/JACK 103.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZauZlpRlaGFlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
         },
         {
             name: "KAFE 104.1",
@@ -36951,12 +36951,12 @@ var stations_canadream = {
         {
             name: "98.7 Énergie",
             logo: "stations/images-america/canadream/baiecomeau/98.7 Énergie.png",
-            url: "http://www.commonsound.com/fud/prox/index.php?q=aHR0cHM6Ly8xODIyMy5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQ0lLSUZNQUFDX1ND&r=5358fe3251092cc0511fce0156e1d351"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=aHR0cHM6Ly8xODIyMy5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQ0lLSUZNQUFDX1ND&r=5358fe3251092cc0511fce0156e1d351"
         },
         {
             name: "99.9 Rouge",
             logo: "stations/images-america/canadream/baiecomeau/99.9 Rouge.png",
-            url: "http://www.commonsound.com/fud/prox/index.php?q=aHR0cHM6Ly8yNDI3My5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQ0ZWTUZNQUFDX1ND&r=5358fe3251092cc0511fce0156e1d351"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=aHR0cHM6Ly8yNDI3My5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQ0ZWTUZNQUFDX1ND&r=5358fe3251092cc0511fce0156e1d351"
         },
         {
             name: "plaisir 105.3",
@@ -36988,7 +36988,7 @@ var stations_canadream = {
         {
             name: "90.3 AMP",
             logo: "stations/images-america/canadream/calgary/90.3 AMP.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gH2AdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKMPFM"
         },
         {
             name: "CJSW 90.9",
@@ -36998,7 +36998,7 @@ var stations_canadream = {
         {
             name: "CJAY 92",
             logo: "stations/images-america/canadream/calgary/CJAY 92.png",
-            url: "http://www.commonsound.com/fud/prox/index.php?q=aHR0cHM6Ly8xNTM2My5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQ0pBWUZNQUFDX1ND&r=5358fe3251092cc0511fce0156e1d351"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJAYFMAAC_SC"
         },
         {
             name: "X92.9",
@@ -37023,12 +37023,12 @@ var stations_canadream = {
         {
             name: "95.9 CHFM",
             logo: "stations/images-america/canadream/calgary/95.9 CHFM.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZiRn5xqbl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/cal959.stream/icy"
         },
         {
             name: "JACK 96.9",
             logo: "stations/images-america/canadream/calgary/JACK 96.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZiRn5xrbl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/cal969.stream/icy"
         },
         {
             name: "C97.7",
@@ -37038,7 +37038,7 @@ var stations_canadream = {
         {
             name: "98.5 Virgin Radio",
             logo: "stations/images-america/canadream/calgary/98.5 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmY2mcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqx3gHaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CIBKFMAAC_SC"
         },
         {
             name: "CBC Radio One 99.1",
@@ -37068,7 +37068,7 @@ var stations_canadream = {
         {
             name: "XL103",
             logo: "stations/images-america/canadream/calgary/XL103.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0e4h8doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CFXLFM"
         },
         {
             name: "Country 105",
@@ -37169,7 +37169,7 @@ var stations_canadream = {
         {
             name: "CHRX 95.1",
             logo: "stations/images-america/canadream/dawsoncreek/Move 98.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGObaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquHjXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CHRXFMAAC_SC"
         },
         {
             name: "96.3 Reach FM",
@@ -37179,7 +37179,7 @@ var stations_canadream = {
         {
             name: "Bounce 101.5",
             logo: "stations/images-america/canadream/dawsoncreek/Bounce 101.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGmbaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6DgXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKNLFMAAC_SC"
         },
         {
             name: "Peace FM 104.1",
@@ -37285,7 +37285,7 @@ var stations_canadream = {
         {
             name: "boom 95.3",
             logo: "stations/images-america/canadream/edmonton/boom 95.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f4h7doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CJXKFM"
         },
         {
             name: "95.7 Cruz FM",
@@ -37295,12 +37295,12 @@ var stations_canadream = {
         {
             name: "96.3 The Breeze",
             logo: "stations/images-america/canadream/edmonton/96.3 The Breeze_christmas.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIJxdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKRAFM"
         },
         {
             name: "K-97",
             logo: "stations/images-america/canadream/edmonton/K-97.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0foJ7doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CIRKFM"
         },
         {
             name: "Radio Cité 97.9",
@@ -37320,7 +37320,7 @@ var stations_canadream = {
         {
             name: "100.3 The Bear",
             logo: "stations/images-america/canadream/edmonton/100.3 The Bear.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGqVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdql3h3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFMAAC_SC"
         },
         {
             name: "ICI Musique 101.1",
@@ -37350,8 +37350,8 @@ var stations_canadream = {
         {
             name: "104.9 Virgin Radio",
             logo: "stations/images-america/canadream/edmonton/104.9 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGiXaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqmCfHaEdXJ4wbWp"
-        },/*https://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFMAAC_SC*/
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFMAAC_SC"
+        },
         {
             name: "105.9 Shine FM",
             logo: "stations/images-america/canadream/edmonton/105.9 Shine FM.png",
@@ -37419,7 +37419,7 @@ var stations_canadream = {
         {
             name: "Country 93.3",
             logo: "stations/images-america/canadream/fortmcmurray/Country 93.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZufpZxoaF6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/for933.stream/icy"
         },
         {
             name: "CFWE 94.5",
@@ -37434,7 +37434,7 @@ var stations_canadream = {
         {
             name: "97.9 ROCK",
             logo: "stations/images-america/canadream/fortmcmurray/97.9 ROCK.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZufpZxsbl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/for979.stream/icy"
         },
         {
             name: "CBC Radio One 99.3",
@@ -37472,7 +37472,7 @@ var stations_canadream = {
         {
             name: "Bounce 102.3",
             logo: "stations/images-america/canadream/fortnelson/Bounce 102.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZGyVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6HjXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKRXFMAAC_SC"
         },
     ],
     "fortsimpson": [
@@ -37496,7 +37496,7 @@ var stations_canadream = {
         {
             name: "Q88.9",
             logo: "stations/images-america/canadream/fredericton/Q88.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fX55doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CHNIFM"
         },
         {
             name: "CJPN 90.5",
@@ -37506,12 +37506,12 @@ var stations_canadream = {
         {
             name: "New Country 92.3",
             logo: "stations/images-america/canadream/fredericton/New Country 92.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0e4J7doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CFRKFM"
         },
         {
             name: "rewind 93.1",
             logo: "stations/images-america/canadream/fredericton/rewind 93.1_christmas.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fnh5doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CIHIFM"
         },
         {
             name: "Country 94",
@@ -37566,7 +37566,7 @@ var stations_canadream = {
         {
             name: "Pure Country 103.5",
             logo: "stations/images-america/canadream/fredericton/Pure Country 103.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGWcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq59f3GEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKHJFMAAC_SC"
         },
         {
             name: "CJRI Radio 104.5",
@@ -37576,12 +37576,12 @@ var stations_canadream = {
         {
             name: "Bounce 105.3",
             logo: "stations/images-america/canadream/fredericton/Bounce 105.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZmyTaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqmNjnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFXYFMAAC_SC"
         },
         {
             name: "Move 106.9",
             logo: "stations/images-america/canadream/fredericton/Move 106.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZ2iZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqx3jXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CIBXFMAAC_SC"
         },
     ],
     "gaspe": [
@@ -37615,7 +37615,7 @@ var stations_canadream = {
         {
             name: "Bounce 106.3",
             logo: "stations/images-america/canadream/golden/Bounce 106.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZWOVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq58h3F4d5CIpQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGRFMAAC_SC"
         },
     ],
     "grandfalls": [
@@ -37637,7 +37637,7 @@ var stations_canadream = {
         {
             name: "102.3 K-ROCK",
             logo: "stations/images-america/canadream/grandfalls/102.3 K-ROCK.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIh3doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKXGFM"
         },
         {
             name: "CBC Radio One 540",
@@ -37679,7 +37679,7 @@ var stations_canadream = {
         {
             name: "JACK 92.9",
             logo: "stations/images-america/canadream/halifax/JACK 92.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZ2Rn5xnbl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/hal929.stream/icy"
         },
         {
             name: "CityNews 95.7",
@@ -37689,7 +37689,7 @@ var stations_canadream = {
         {
             name: "96.5 The Breeze",
             logo: "stations/images-america/canadream/halifax/96.5 The Breeze_christmas.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIV8doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKULFM"
         },
         {
             name: "Oui 98",
@@ -37704,12 +37704,12 @@ var stations_canadream = {
         {
             name: "Move 100.1",
             logo: "stations/images-america/canadream/halifax/Move 100.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZWSUaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyEhHaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CIOOFMAAC_SC"
         },
         {
             name: "101.3 Virgin Radio",
             logo: "stations/images-america/canadream/halifax/101.3 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYGmTaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq14fXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJCHFMAAC_SC"
         },
         {
             name: "FX101.9",
@@ -37729,7 +37729,7 @@ var stations_canadream = {
         {
             name: "Q104",
             logo: "stations/images-america/canadream/halifax/Q104.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0e4KBdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CFRQFM"
         },
         {
             name: "Surge 105.1",
@@ -37805,7 +37805,7 @@ var stations_canadream = {
         {
             name: "Star 98.3",
             logo: "stations/images-america/canada_promods/hope/Star 98.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZiYnJxtaF6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/chi983.stream/icy"
         },
         {
             name: "Rock 101",
@@ -37820,7 +37820,7 @@ var stations_canadream = {
         {
             name: "Country 107.1",
             logo: "stations/images-america/canada_promods/hope/Country 107.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZZaSlZRlbGFlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/abb1071.stream/icy"
         },
     ],
     "houstoncan": [
@@ -37842,7 +37842,7 @@ var stations_canadream = {
         {
             name: "Pure Country 105.5",
             logo: "stations/images-america/canadream/houstoncan/Pure Country 105.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmY2qXaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq17jHaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKQMFMAAC_SC"
         },
         {
             name: "106.5 Moose FM",
@@ -37854,7 +37854,7 @@ var stations_canadream = {
         {
             name: "92.1 ROCK",
             logo: "stations/images-america/canadream/iroquoisfall/92.1 ROCK.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZamZoJxnZl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/tim921.stream/icy"
         },
         {
             name: "CBC Radio One 96.1",
@@ -37874,7 +37874,7 @@ var stations_canadream = {
         {
             name: "KiSS 99.3",
             logo: "stations/images-america/canadream/iroquoisfall/KiSS 99.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZamZoJxuaF6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/tim993.stream/icy"
         },
         {
             name: "CHIM 102.7",
@@ -37886,12 +37886,12 @@ var stations_canadream = {
         {
             name: "CJAG 92.3",
             logo: "stations/images-america/canadream/jasper/CJAG 92.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGqVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdql3h3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFMAAC_SC"
         },
         {
             name: "Real Country West 95.5",
             logo: "stations/images-america/canadream/jasper/Real Country West 95.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0e4h1doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CFXEFM"
         },
         {
             name: "CBC Radio One 98.1",
@@ -37908,7 +37908,7 @@ var stations_canadream = {
         {
             name: "Bounce 91.5",
             logo: "stations/images-america/canada_promods/kamloops/Bounce 91.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGiXaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6Nh3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://14523.live.streamtheworld.com/CKXRFMAAC_SC"
         },
         {
             name: "92.5 The X",
@@ -37933,7 +37933,7 @@ var stations_canadream = {
         {
             name: "K97.5",
             logo: "stations/images-america/canada_promods/kamloops/K97.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIKGdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKRVFM"
         },
         {
             name: "98.3 CIFM",
@@ -37948,7 +37948,7 @@ var stations_canadream = {
         {
             name: "New Country 103.1",
             logo: "stations/images-america/canada_promods/kamloops/New Country 103.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f3tzdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CJKCFM"
         },
         {
             name: "CBC Music 105.3",
@@ -37985,22 +37985,22 @@ var stations_canadream = {
         {
             name: "K96.3",
             logo: "stations/images-america/canada_promods/kelowna/K96.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gHt_doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKKOFM"
         },
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada_promods/kelowna/99.9 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZWaUaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq57gnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://15313.live.streamtheworld.com/CKFMFMAAC_SC"
         },
         {
             name: "New Country 100.7",
             logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fneGdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CIGVFM"
         },
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada_promods/kelowna/Move 101.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZWOVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyBgHaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://18423.live.streamtheworld.com/CILKFMAAC_SC"
         },
         {
             name: "103.1 Beach Radio",
@@ -38020,7 +38020,7 @@ var stations_canadream = {
         {
             name: "Pure Country 105.7",
             logo: "stations/images-america/canada_promods/kelowna/Pure Country 105.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmY2mcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqx4e3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://13693.live.streamtheworld.com/CICFFMAAC_SC"
         },
         {
             name: "770 CHQR",
@@ -38074,7 +38074,7 @@ var stations_canadream = {
         {
             name: "Country 93.5",
             logo: "stations/images-america/canadream/kingston/Country 93.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaCZoZxoal6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/kin935.stream/icy"
         },
         {
             name: "95.5 Hits FM",
@@ -38104,12 +38104,12 @@ var stations_canadream = {
         {
             name: "Move 98.3",
             logo: "stations/images-america/canadream/kingston/Move 98.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGeVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqmBjnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFLYFMAAC_SC"
         },
         {
             name: "Pure Country 99",
             logo: "stations/images-america/canadream/kingston/Pure Country 99.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZmuVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6BeHaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKLCFMAAC_SC"
         },
         {
             name: "ICI Première 99.5",
@@ -38139,7 +38139,7 @@ var stations_canadream = {
         {
             name: "KiSS 102.7",
             logo: "stations/images-america/canadream/kingston/KiSS 102.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaCZoZRlZ2dlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/kin1027.stream/icy"
         },
         {
             name: "Magic 103.1",
@@ -38149,7 +38149,7 @@ var stations_canadream = {
         {
             name: "Bounce 103.7",
             logo: "stations/images-america/canadream/kingston/Bounce 103.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYmOaaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2FiXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJPTFMAAC_SC"
         },
         {
             name: "104.3 Fresh Radio",
@@ -38159,7 +38159,7 @@ var stations_canadream = {
         {
             name: "K-ROCK 105.7",
             logo: "stations/images-america/canadream/kingston/K-ROCK 105.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaCZoZRlamdlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
         },
         {
             name: "The Border 106.7",
@@ -38181,7 +38181,7 @@ var stations_canadream = {
         {
             name: "Big Land 94.7",
             logo: "stations/images-america/canadream/labradorcity/Big Land 94.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0e3x-doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CFLNFM"
         },
         {
             name: "CBC Radio One 96.3",
@@ -38191,7 +38191,7 @@ var stations_canadream = {
         {
             name: "98.1 CHFI",
             logo: "stations/images-america/canadream/toronto/98.1 CHFI.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZamfpZxtZl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy"
         },
         {
             name: "CISN 101.3",
@@ -38218,7 +38218,7 @@ var stations_canadream = {
         {
             name: "boom 95.3",
             logo: "stations/images-america/canadream/edmonton/boom 95.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f4h7doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CJXKFM"
         },
         {
             name: "Country 99",
@@ -38233,12 +38233,12 @@ var stations_canadream = {
         {
             name: "HOT 101.3",
             logo: "stations/images-america/canadream/laclabiche/HOT 101.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f3V3doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CJEGFM"
         },
         {
             name: "boom 103.5",
             logo: "stations/images-america/canadream/laclabiche/boom 103.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fnxydoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CILBFM"
         },
         {
             name: "630 CHED",
@@ -38309,12 +38309,12 @@ var stations_canadream = {
         {
             name: "HOT 93.7",
             logo: "stations/images-america/canadream/lloydminster/HOT 93.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIeJdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKWYFM"
         },
         {
             name: "Real Country 95.9",
             logo: "stations/images-america/canadream/lloydminster/Real Country 95.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gINxdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKSAFM"
         },
         {
             name: "CKUA 97.5",
@@ -38324,7 +38324,7 @@ var stations_canadream = {
         {
             name: "boom 101.9",
             logo: "stations/images-america/canadream/lloydminster/boom 101.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gHuJdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKKYFM"
         },
         {
             name: "106.1 The Goat",
@@ -38346,12 +38346,12 @@ var stations_canadream = {
         {
             name: "Pure Country 94",
             logo: "stations/images-america/canadream/ottawa/Pure Country 94.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGSZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6AgXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKKLFMAAC_SC"
         },
         {
             name: "94.9 Rouge",
             logo: "stations/images-america/canadream/ottawa/94.9 Rouge.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGOcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyCe3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC"
         },
         {
             name: "CBC Radio One 95.5",
@@ -38366,7 +38366,7 @@ var stations_canadream = {
         {
             name: "Move 100.3",
             logo: "stations/images-america/canadream/ottawa/Move 100.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYGWZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2Cf3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMJFMAAC_SC"
         },
         {
             name: "CKWE 103.9",
@@ -38381,12 +38381,12 @@ var stations_canadream = {
         {
             name: "KiSS 105.3",
             logo: "stations/images-america/canadream/ottawa/KiSS 105.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaSkp5RlamNlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
         },
         {
             name: "106.1 CHEZ",
             logo: "stations/images-america/canadream/ottawa/106.1 Chez.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaSkp5Rla2Flp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
         },
         {
             name: "jump! 106.9",
@@ -38413,7 +38413,7 @@ var stations_canadream = {
         {
             name: "JACK 102.1",
             logo: "stations/images-america/canadream/medicinehat/JACK 102.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaKVl5RlZ2Flp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/med1021.stream/icy"
         },
         {
             name: "CKUD 104.5",
@@ -38423,7 +38423,7 @@ var stations_canadream = {
         {
             name: "105.3 ROCK",
             logo: "stations/images-america/canadream/medicinehat/105.3 ROCK.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaKVl5RlamNlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/med1053.stream/icy"
         },
     ],
     "marathon": [
@@ -38457,12 +38457,12 @@ var stations_canadream = {
         {
             name: "98.7 ÉNERGIE",
             logo: "stations/images-america/canadream/matane/98.7 ÉNERGIE.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGWWaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyAfnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC_SC"
         },
         {
             name: "99.9 Rouge",
             logo: "stations/images-america/canadream/baiecomeau/99.9 Rouge.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGWaaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqmLgnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC"
         },
         {
             name: "ICI Première 102.1",
@@ -38541,7 +38541,7 @@ var stations_canadream = {
         {
             name: "New Country 96.9",
             logo: "stations/images-america/canadream/moncton/New Country 96.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f4h8doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CJXLFM"
         },
         {
             name: "ICI Musique 98.3",
@@ -38556,7 +38556,7 @@ var stations_canadream = {
         {
             name: "Q103",
             logo: "stations/images-america/canadream/moncton/Q103.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0f31_doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CJMOFM"
         },
         {
             name: "103.9 MAX FM",
@@ -38613,7 +38613,7 @@ var stations_canadream = {
         {
             name: "The Beat 92.5",
             logo: "stations/images-america/canadream/montreal/The Beat 92.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWYn5rImKSdnJialpDOy5KgpKSrl5OeY5OfX3eDd6esgw"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKBEFM"
         },
         {
             name: "CBC Music 93.5",
@@ -38628,17 +38628,17 @@ var stations_canadream = {
         {
             name: "95.9 Virgin Radio",
             logo: "stations/images-america/canadream/montreal/95.9 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYmSVaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq17gnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFMFMAAC_SC"
         },
         {
             name: "96.9 CKOI",
             logo: "stations/images-america/canadream/montreal/96.9 CKOI.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWYn5rImKSdnJialpDOy5KgpKSrl5OeY5OfX3eDhKusgw"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKOIFM"
         },
         {
             name: "CHOM 97.7",
             logo: "stations/images-america/canadream/montreal/CHOM 97.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGecaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquEgnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC_SC"
         },
         {
             name: "98.5",
@@ -38683,7 +38683,7 @@ var stations_canadream = {
         {
             name: "rythme 105.7",
             logo: "stations/images-america/canadream/montreal/rythme 105.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWYn5rImKSdnJialpDOy5KgpKSrl5OeY5OfX3d-fK6sgw"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CFGLFM"
         },
         {
             name: "CINA 107.3",
@@ -38693,7 +38693,7 @@ var stations_canadream = {
         {
             name: "107.3 Rouge",
             logo: "stations/images-america/canadream/montreal/107.3 Rouge.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnZGebaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyJenaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC"
         },
         {
             name: "TSN 690",
@@ -38772,17 +38772,17 @@ var stations_canadream = {
         {
             name: "CIGV 98.9",
             logo: "stations/images-america/canada_promods/kelowna/New Country 100.7.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fneGdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CIGVFM"
         },
         {
             name: "CJMG 99.9",
             logo: "stations/images-america/canada_promods/osoyoos/Move 97.1.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmY2mcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2CfHaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://13693.live.streamtheworld.com/CJMGFMAAC_SC"
         },
         {
             name: "Bounce 102.9",
             logo: "stations/images-america/canada_promods/osoyoos/Bounce 102.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmZ2yZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2Eh3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://13743.live.streamtheworld.com/CJORFMAAC_SC"
         },
         {
             name: "CIRO 106.5",
@@ -38809,7 +38809,7 @@ var stations_canadream = {
         {
             name: "JACK 92.3",
             logo: "stations/images-america/canadream/ottawa/JACK 92.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaSkp5xnaF6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
         },
         {
             name: "CKCU 93.1",
@@ -38819,12 +38819,12 @@ var stations_canadream = {
         {
             name: "Pure Country 94",
             logo: "stations/images-america/canadream/ottawa/Pure Country 94.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGSZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq6AgXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CKKLFMAAC_SC"
         },
         {
             name: "94.9 Rouge",
             logo: "stations/images-america/canadream/ottawa/94.9 Rouge.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGOcaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdqyCe3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC"
         },
         {
             name: "97.9 CHIN",
@@ -38849,7 +38849,7 @@ var stations_canadream = {
         {
             name: "Move 100.3",
             logo: "stations/images-america/canadream/ottawa/Move 100.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYGWZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq2Cf3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMJFMAAC_SC"
         },
         {
             name: "CityNews 101.1",
@@ -38874,12 +38874,12 @@ var stations_canadream = {
         {
             name: "KiSS 105.3",
             logo: "stations/images-america/canadream/ottawa/KiSS 105.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaSkp5RlamNlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
         },
         {
             name: "106.1 CHEZ",
             logo: "stations/images-america/canadream/ottawa/106.1 Chez.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaSkp5Rla2Flp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
         },
         {
             name: "jump! 106.9",
@@ -38933,7 +38933,7 @@ var stations_canadream = {
         {
             name: "104.5 Mountain FM",
             logo: "stations/images-america/canada_promods/vancouver/107.1 Mountain FM.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaihqJRlbGFlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
         {
             name: "CBC Music 105.3",
@@ -39214,12 +39214,12 @@ var stations_canadream = {
         {
             name: "94.5 Énergie",
             logo: "stations/images-america/canadream/saguenay/94.5 Énergie.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYGWZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdq12d3aEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC"
         },
         {
             name: "96.9 Rouge FM",
             logo: "stations/images-america/canadream/saguenay/96.9 Rouge FM.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnYGWZaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdql-jXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC"
         },
         {
             name: "ICI Musique 100.9",
@@ -39473,7 +39473,7 @@ var stations_canadream = {
         {
             name: "KiSS 92.5",
             logo: "stations/images-america/canadream/toronto/Kiss 92.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZamfpZxnal6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
         },
         {
             name: "CBC Music 94.1",
@@ -39498,7 +39498,7 @@ var stations_canadream = {
         {
             name: "98.1 CHFI",
             logo: "stations/images-america/canadream/toronto/98.1 CHFI.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZamfpZxtZl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy"
         },
         {
             name: "G98.7",
@@ -39617,12 +39617,12 @@ var stations_canadream = {
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada_promods/vancouver/94.5 Virgin Radio.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVnY2STaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdql3iXaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://23103.live.streamtheworld.com/CFBTFMAAC_SC"
         },
         {
             name: "Z95.3",
             logo: "stations/images-america/canada_promods/vancouver/Z95.3.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0gIqKdoE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CKZZFM"
         },
         {
             name: "Fairchild Radio 96.1",
@@ -39632,7 +39632,7 @@ var stations_canadream = {
         {
             name: "JACK 96.9",
             logo: "stations/images-america/canada_promods/vancouver/JACK 96.9.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZauRoZxrbl6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
         },
         {
             name: "ICI Première 97.7",
@@ -39642,7 +39642,7 @@ var stations_canadream = {
         {
             name: "Ocean 98.5",
             logo: "stations/images-america/canada_promods/vancouver/Ocean 98.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZauZlpxtal6qqKOaw8-VmpWq"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
         },
         {
             name: "CFOX 99.3",
@@ -39677,12 +39677,12 @@ var stations_canadream = {
         {
             name: "Move 103.5",
             logo: "stations/images-america/canada_promods/vancouver/Move 103.5.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWVmaGuTaGOcoKqWY9XW2JaTnqShl6mgp5yUXpenopyaamhfdquGgnaEdXJ4wbWp"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://18803.live.streamtheworld.com/livestream-redirect/CHQMFMAAC_SC"
         },
         {
             name: "104.3 The Breeze",
             logo: "stations/images-america/canada_promods/vancouver/104.3 The Breeze_christmas.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWjlarGlqVeo5mSo9XW2JaTnl6coWF0fXx3doE"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://newcap.leanstream.co/CHLGFM"
         },
         {
             name: "KiSS 104.9",
@@ -39697,7 +39697,7 @@ var stations_canadream = {
         {
             name: "107.1 Mountain FM",
             logo: "stations/images-america/canada_promods/vancouver/107.1 Mountain FM.png",
-            url: "https://us1-web.getbehind.me/index.php?q=mKSoqKiclWWnn5rIp6hdn6CkY87Hx5-lpaKek59fmJ9foqOfmtTZZaihqJRlbGFlp6Wnx8PTYJuUqQ"
+            url: "https://atsradio.go.yj.fr/atsradio/index.php?_proxurl=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
         {
             name: "107.7 Pulse FM",
