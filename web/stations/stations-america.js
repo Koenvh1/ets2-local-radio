@@ -39390,7 +39390,7 @@ var stations_canadream = {
         },
         {
             name: "CFCR 90.5",
-            logo: "stations/images-america/canadream/saskatoon/CFCR 90.5 FM.png",
+            logo: "stations/images-america/canadream/saskatoon/CFCR 90.5.png",
             url: "http://68.183.199.246:8000/m4a"
         },
         {
