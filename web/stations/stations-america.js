@@ -39197,7 +39197,7 @@ var stations_canadream = {
         },
         {
             name: "91.3 CJTR",
-            logo: "stations/images-america/canadream/regina/91.3 FM CJTR.png",
+            logo: "stations/images-america/canadream/regina/91.3 CJTR.png",
             url: "http://108.178.13.122:8152/;"
         },
         {
@@ -39527,7 +39527,7 @@ var stations_canadream = {
         },
         {
             name: "KFM 106.5",
-            logo: "stations/images-america/canadream/saultmarie/KFM 106.5_christmas.png",
+            logo: "stations/images-america/canadream/KFM_christmas.png",
             url: "https://us2.streamingpulse.com/ssl/KFM"
         },
     ],
@@ -39607,9 +39607,9 @@ var stations_canadream = {
             url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CIGMFM"
         },
         {
-            name: "KFM Radio 95.5",
-            logo: "stations/images-america/canadream/sudbury/KFM Radio.png",
-            url: "http://173.193.205.96:8116/;"
+            name: "KFM 95.5",
+            logo: "stations/images-america/canadream/KFM_christmas.png",
+            url: "https://us2.streamingpulse.com/ssl/KFM"
         },
         {
             name: "92.7 ROCK",
