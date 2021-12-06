@@ -501,7 +501,7 @@ var country_properties = {
         name: "Omak",
         name_english: "Omak",
         code: "us-wa",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "oxnard": {
         name: "Oxnard",
@@ -543,7 +543,7 @@ var country_properties = {
         name: "Port Angeles",
         name_english: "Port Angeles",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "portland": {
         name: "Portland",
@@ -717,7 +717,7 @@ var country_properties = {
         name: "Seattle",
         name_english: "Seattle",
         code: "us-wa",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "show_low": {
         name: "Show Low",
@@ -754,12 +754,6 @@ var country_properties = {
         name_english: "Susanville",
         code: "us-ca",
         relative_radius: 0.6
-    },
-    "tacoma": {
-        name: "Tacoma",
-        name_english: "Tacoma",
-        code: "us-wa",
-        relative_radius: 0.2
     },
     "the_dalles": {
         name: "The Dalles",
@@ -1227,7 +1221,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "seattle": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "show_low": {
         relative_whitenoise: 0.80
@@ -1246,9 +1240,6 @@ var city_properties = {
     },
     "susanv": {
         relative_whitenoise: 0.95
-    },
-    "tacoma": {
-        relative_whitenoise: 0.85
     },
     "the_dalles": {
         relative_whitenoise: 0.85
@@ -2058,9 +2049,9 @@ var cities = [
         "gameName": "olympia",
         "realName": "Olympia",
         "country": "washington",
-        "x": "-102416",
-        "y": "66",
-        "z": "-60826.9"
+        "x": "-103161",
+        "y": "49.8525",
+        "z": "-61813"
     },
     {
         "gameName": "omak",
@@ -2074,17 +2065,17 @@ var cities = [
         "gameName": "port_angeles",
         "realName": "Port Angeles",
         "country": "washington",
-        "x": "-103441",
-        "y": "54",
-        "z": "-66931.1"
+        "x": "-104688",
+        "y": "52.6207",
+        "z": "-67597.6"
     },
     {
         "gameName": "seattle",
         "realName": "Seattle",
         "country": "washington",
-        "x": "-99598.6",
-        "y": "60.7954",
-        "z": "-63851.2"
+        "x": "-97690.4",
+        "y": "101.912",
+        "z": "-63065.2"
     },
     {
         "gameName": "spokane",
@@ -2093,14 +2084,6 @@ var cities = [
         "x": "-81652.4",
         "y": "64.3417",
         "z": "-58561.8"
-    },
-    {
-        "gameName": "tacoma",
-        "realName": "Tacoma",
-        "country": "washington",
-        "x": "-100595",
-        "y": "80",
-        "z": "-60834.9"
     },
     {
         "gameName": "wenatchee",
@@ -7966,7 +7949,7 @@ var country_properties_canadream = {
         name: "Hope",
         name_english: "Hope",
         code: "ca-bc",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "houstoncan": {
         name: "Houston",
@@ -8110,7 +8093,7 @@ var country_properties_canadream = {
         name: "Pemberton",
         name_english: "Pemberton",
         code: "ca-bc",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "princegeorge": {
         name: "Prince George",
@@ -8123,6 +8106,12 @@ var country_properties_canadream = {
         name_english: "Prince Rupert",
         code: "ca-bc",
         relative_radius: 1.2
+    },
+    "princeton": {
+        name: "Princeton",
+        name_english: "Princeton",
+        code: "ca-bc",
+        relative_radius: 0.4
     },
     "quebec": {
         name: "Québec",
@@ -8190,6 +8179,12 @@ var country_properties_canadream = {
         code: "ca-on",
         relative_radius: 1.2
     },
+    "squamish": {
+        name: "Squamish",
+        name_english: "Squamish",
+        code: "ca-bc",
+        relative_radius: 0.4
+    },
     "thunderbay": {
         name: "Thunder Bay",
         name_english: "Thunder Bay",
@@ -8212,7 +8207,7 @@ var country_properties_canadream = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "ca-bc",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "virden": {
         name: "Virden",
@@ -8397,6 +8392,9 @@ var city_properties_canadream = {
     "princerupert": {
         relative_whitenoise: 0.95
     },
+    "princeton": {
+        relative_whitenoise: 0.85
+    },
     "quebec": {
         relative_whitenoise: 0.95
     },
@@ -8429,6 +8427,9 @@ var city_properties_canadream = {
     },
     "sudbury": {
         relative_whitenoise: 0.95
+    },
+    "squamish": {
+        relative_whitenoise: 0.85
     },
     "thunderbay": {
         relative_whitenoise: 0.95
@@ -8622,9 +8623,9 @@ var cities_canadream = [
         "gameName": "hope",
         "realName": "Hope",
         "country": "britcolumb",
-        "x": "-93519.3",
-        "y": "51.2422",
-        "z": "-72161.5"
+        "x": "-94110.7",
+        "y": "56.58",
+        "z": "-71841.2"
     },
     {
         "gameName": "houstoncan",
@@ -8835,6 +8836,14 @@ var cities_canadream = [
         "z": "-107909"
     },
     {
+        "gameName": "princeton",
+        "realName": "Princeton",
+        "country": "britcolumb",
+        "x": "-89911.4",
+        "y": "117.077",
+        "z": "-69829"
+    },
+    {
         "gameName": "quebec",
         "realName": "Quebec",
         "country": "quebec",
@@ -8923,6 +8932,14 @@ var cities_canadream = [
         "z": "-47613.1"
     },
     {
+        "gameName": "squamish",
+        "realName": "Squamish",
+        "country": "britcolumb",
+        "x": "-101849",
+        "y": "71.5388",
+        "z": "-78880.2"
+    },
+    {
         "gameName": "thunderbay",
         "realName": "Thunder Bay",
         "country": "ontario",
@@ -8950,9 +8967,9 @@ var cities_canadream = [
         "gameName": "vancouver_bc",
         "realName": "Vancouver",
         "country": "britcolumb",
-        "x": "-101665",
-        "y": "61.7656",
-        "z": "-74033.4"
+        "x": "-99466.8",
+        "y": "75.6241",
+        "z": "-73646.3"
     },
     {
         "gameName": "virden",
