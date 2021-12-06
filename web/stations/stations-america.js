@@ -5765,9 +5765,9 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/sbsystems-kxolfmaac-ib-64"
         },
         {
-            name: "97.1 NOW!",
-            logo: "stations/images-america/los_angeles/97.1 NOW!.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUFMAAC_SC"
+            name: "KNX News 97.1",
+            logo: "stations/images-america/los_angeles/KNX News 97.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC_SC"
         },
         {
             name: "Channel Q 97.1-HD2",
@@ -5933,11 +5933,6 @@ var stations = {
             name: "1020 KTNQ",
             logo: "stations/images-america/los_angeles/1020 KTNQ.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-ktnqamaac-imc2"
-        },
-        {
-            name: "KNX 1070",
-            logo: "stations/images-america/los_angeles/KNX 1070.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC_SC"
         },
         {
             name: "The Patriot 1150",
