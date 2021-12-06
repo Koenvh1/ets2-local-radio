@@ -1110,7 +1110,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "olympia": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.65
     },
     "omak": {
         relative_whitenoise: 0.85
