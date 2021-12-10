@@ -5767,7 +5767,7 @@ var stations = {
         {
             name: "KNX News 97.1",
             logo: "stations/images-america/los_angeles/KNX News 97.1.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXAMAAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNOUFMAAC_SC"
         },
         {
             name: "Channel Q 97.1-HD2",
@@ -27535,6 +27535,11 @@ var stations_c2c = {
             url: "https://ais-sa2.cdnstream1.com/2349_128.mp3"
         },
         {
+            name: "Christmas Radio 101.5",
+            logo: "stations/images-america/c2c/olean_ny/Mix 101.5_christmas.png",
+            url: "https://ice3.securenetsystems.net/WMXO"
+        },
+        {
             name: "Star 102.5",
             logo: "stations/images-america/c2c/buffalo_ny/Star 102.5_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WTSSFMAAC_SC"
@@ -27702,6 +27707,11 @@ var stations_c2c = {
             name: "Radio 95.1",
             logo: "stations/images-america/c2c/rochester_ny/Radio 95.1.png",
             url: "https://stream.revma.ihrhls.com/zc1501/hls.m3u8"
+        },
+        {
+            name: "95.7 The Fan",
+            logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WROCAMAAC_SC"
         },
         {
             name: "96.5 WCMF",
@@ -33219,6 +33229,11 @@ var stations_c2c = {
             name: "SportsMap Radio 730",
             logo: "stations/images-america/c2c/memphis_tn/SportsMap Radio 730.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SPORTS_MAP_RADIOAAC_SC"
+        },
+        {
+            name: "The Bet 790",
+            logo: "stations/images-america/c2c/memphis_tn/The Bet 790.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORK_SC"
         },
         {
             name: "The Mighty 990",
