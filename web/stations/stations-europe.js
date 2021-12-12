@@ -2514,32 +2514,32 @@ var stations = {
         {
             name: "Rai Radio 1",
             logo: "stations/images-europe/italy/RAI Radio 1.png",
-            url: "https://radiouno1-lh.akamaihd.net/i/radiouno1_1@586814/master.m3u8"
+            url: "https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8"
         },
         {
             name: "Rai Radio 2",
             logo: "stations/images-europe/italy/RAI Radio 2.png",
-            url: "https://radiodue1-lh.akamaihd.net/i/radiodue1_1@586831/master.m3u8"
+            url: "https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8"
         },
         {
             name: "Rai Radio 3",
             logo: "stations/images-europe/italy/RAI Radio 3.png",
-            url: "https://radiotre1-lh.akamaihd.net/i/radiotre1_1@586832/master.m3u8"
+            url: "https://radiotre-live.akamaized.net/hls/live/2032594/radiotre/radiotre/playlist.m3u8"
         },
         {
             name: "Rai Radio Tutta Italiana",
             logo: "stations/images-europe/italy/Rai Radio Tutta Italiana.png",
-            url: "https://radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/master.m3u8"
+            url: "https://radiotuttaitaliana-live.akamaized.net/hls/live/2032596/radiotuttaitaliana/radiotuttaitaliana/playlist.m3u8"
         },
         {
             name: "Rai Isoradio",
             logo: "stations/images-europe/italy/RAI IsoRadio.png",
-            url: "https://isoradio1-lh.akamaihd.net/i/isoradio1_1@586840/master.m3u8"
+            url: "https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8"
         },
         {
             name: "Rai GR Parlamento",
             logo: "stations/images-europe/italy/Rai GR Parlamento.png",
-            url: "https://icestreaming.rai.it/7.mp3"
+            url: "https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/playlist.m3u8"
         },
         {
             name: "m2o",
