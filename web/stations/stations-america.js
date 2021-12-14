@@ -32989,8 +32989,8 @@ var stations_c2c = {
             url: "http://ic1.sslstream.com/wmyl-fm"
         },
         {
-            name: "JUMP 97.1",
-            logo: "stations/images-america/c2c/knoxville_tn/JUMP 97.1.png",
+            name: "Lit 97.1",
+            logo: "stations/images-america/c2c/knoxville_tn/Lit 97.1.png",
             url: "https://stream.radiojar.com/swyduw8d41zuv"
         },
         {
