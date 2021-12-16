@@ -9623,6 +9623,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KJZYHD2"
         },
         {
+            name: "99.3 The Vine",
+            logo: "stations/images-america/santa_rosa_ca/99.3 The Vine.png",
+            url: "https://ice10.securenetsystems.net/KVYN"
+        },
+        {
             name: "KZST 100.1",
             logo: "stations/images-america/santa_rosa_ca/KZST 100.1.png",
             url: "https://ice10.securenetsystems.net/KZSTFM"
@@ -9711,6 +9716,11 @@ var stations = {
             name: "BIN 910",
             logo: "stations/images-america/san_francisco/BIN 910.png",
             url: "https://stream.revma.ihrhls.com/zc297/hls.m3u8"
+        },
+        {
+            name: "1440 KVON",
+            logo: "stations/images-america/santa_rosa_ca/1440 KVON.png",
+            url: "http://ice10.securenetsystems.net/KVON"
         },
     ],
     "santa_rosa_nm": [
@@ -27887,7 +27897,7 @@ var stations_c2c = {
         },
         {
             name: "SUNNY 102.1",
-            logo: "stations/images-america/c2c/syracuse_ny/SUNNY 102.1.png",
+            logo: "stations/images-america/c2c/syracuse_ny/SUNNY 102.1_christmas.png",
             url: "https://live.wostreaming.net/manifest/galaxy-wzunfmaac-ibc1"
         },
         {
@@ -31457,8 +31467,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVIAFMAAC_SC"
         },
         {
-            name: "VMFM 91.7",
-            logo: "stations/images-america/c2c/scranton_pa/VMFM 91.7.png",
+            name: "Christmas 91.7",
+            logo: "stations/images-america/c2c/scranton_pa/VMFM 91.7_christmas.png",
             url: "https://wvmw.streamguys1.com/live"
         },
         {
