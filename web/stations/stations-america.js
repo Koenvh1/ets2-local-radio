@@ -3675,7 +3675,7 @@ var stations = {
         {
             name: "KMSA 91.3",
             logo: "stations/images-america/grand_junction_montrose/KMSA 91.3.png",
-            url: "http://s2.radio.co/sd29f62972/listen"
+            url: "https://stream.radio.co/sbe6b707bd/listen"
         },
         {
             name: "92.3 The Moose",
@@ -30942,8 +30942,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUUFMAAC_SC"
         },
         {
-            name: "93.5 Nash FM",
-            logo: "stations/images-america/c2c/harrisburg_pa/93.5 Nash FM.png",
+            name: "93.5 WTPA",
+            logo: "stations/images-america/c2c/harrisburg_pa/93.5 WTPA.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZCYFMAAC_SC"
         },
         {
@@ -42427,6 +42427,255 @@ var stations_caribbean = {
             name: "Mega 106.9",
             logo: "stations/images-america/caribbean/puerto_rico/Mega 106.9.png",
             url: "https://live.wostreaming.net/manifest/sbsystems-wmegfmaac-imc1"
+        },
+    ],
+    "puntofijo": [
+		{
+            name: "Radio Hesperides 88.7",
+            logo: "stations/images-america/caribbean/puntofijo/Radio Hesperides 88.7.png",
+            url: "https://centova.intervenhosting.net:9870/live"
+        },
+		{
+            name: "RNV Informativo 89.5",
+            logo: "stations/images-america/caribbean/puntofijo/RNV Informativo 89.5.png",
+            url: "http://rnv.lorini.net:29100/RNVINFORMATIVO"
+        },
+		{
+            name: "La Romántica 90.3",
+            logo: "stations/images-america/caribbean/puntofijo/La Romántica 90.3.png",
+            url: "https://server6.globalhostla.com:9044/stream"
+        },
+		{
+            name: "Hit 90.7",
+            logo: "stations/images-america/caribbean/puntofijo/Hit 90.7.png",
+            url: "http://streamingned.com:7096/stream"
+        },
+		{
+            name: "Pegaísima 91.7",
+            logo: "stations/images-america/caribbean/puntofijo/Pegaísima 91.7.png",
+            url: "http://streamingned.com:7058/stream"
+        },
+		{
+            name: "Radio Show 92.7",
+            logo: "stations/images-america/caribbean/puntofijo/Radio Show 92.7.png",
+            url: "http://streamingned.com:7082/stream"
+        },
+		{
+            name: "La FM Mundial 93.7",
+            logo: "stations/images-america/caribbean/puntofijo/La FM Mundial 93.7.png",
+            url: "http://51.161.93.180:7074/;"
+        },
+		{
+            name: "Súper Stereo 94.5",
+            logo: "stations/images-america/caribbean/puntofijo/Súper Stereo 94.5.png",
+            url: "http://streamingned.com:7204/stream"
+        },
+		{
+            name: "Mambo 94.9",
+            logo: "stations/images-america/caribbean/puntofijo/Mambo 94.9.png",
+            url: "http://streamingned.com:7170/stream"
+        },
+		{
+            name: "La Voz Internacional 95.7",
+            logo: "stations/images-america/caribbean/puntofijo/La Voz Internacional 95.7.png",
+            url: "https://stream.eleden.com/lavoz106.aac/lavoz106.aac.stream/playlist.m3u8"
+        },
+		{
+            name: "Más Network 96.9",
+            logo: "stations/images-america/caribbean/puntofijo/Más Network 96.9.png",
+            url: "http://stream.zeno.fm/2n57a8rsks8uv"
+        },
+		{
+            name: "Melodía Stereo 104.9",
+            logo: "stations/images-america/caribbean/puntofijo/Melodía Stereo 104.9.png",
+            url: "https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_7832_stream_817966952"
+        },
+		{
+            name: "Kayros 106.3",
+            logo: "stations/images-america/caribbean/puntofijo/Kayros 106.3.png",
+            url: "http://162.252.57.250:9884/;"
+        },
+		{
+            name: "Radio Comunidad 107.5",
+            logo: "stations/images-america/caribbean/puntofijo/Radio Comunidad 107.5.png",
+            url: "https://stream.rcast.net/67443"
+        },
+    ],
+    "sanjuan": [
+        {
+            name: "88.1 Inspira FM",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/88.1 Inspira FM.png",
+            url: "https://smioradio.com:1050/stream"
+        },
+        {
+            name: "Sacra FM 88.5",
+            logo: "stations/images-america/caribbean/puerto_rico/mayagüez/Sacra FM 89.5.png",
+            url: "https://stream.eleden.com/rsacrab.aac/rsacrab.aac.stream/playlist.m3u8"
+        },
+        {
+            name: "Radio Universidad de Puerto Rico 89.7",
+            logo: "stations/images-america/caribbean/puerto_rico/Radio Universidad de Puerto Rico.png",
+            url: "http://streaming.radiouniversidad.pr:8062/;"
+        },
+        {
+            name: "Radio Vida 90.5",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/Radio Vida 90.5.png",
+            url: "http://166.88.21.98:9592/;"
+        },
+        {
+            name: "Allegro 91.3",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/Allegro 91.3.png",
+            url: "http://192.254.105.36:8080/broadwavehigh.mp3"
+        },
+        {
+            name: "92.1 Estacion de la Familia",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/92.1 Estacion de la Familia.png",
+            url: "https://stream.eleden.com:8320//laestaciondelafamiliapr.mp3"
+        },
+        {
+            name: "WORO 92.5",
+            logo: "stations/images-america/caribbean/puerto_rico/ponce/WORO 92.5.png",
+            url: "https://us2.internet-radio.com/proxy/woro?mp=/stream"
+        },
+        {
+            name: "Zeta 93.7",
+            logo: "stations/images-america/caribbean/puerto_rico/Zeta 93.png",
+            url: "https://live.wostreaming.net/manifest/sbsystems-wzntfmaac-imc1"
+        },
+        {
+            name: "Noti Uno 94.3",
+            logo: "stations/images-america/caribbean/puerto_rico/Noti Uno.png",
+            url: "https://server20.servistreaming.com:9022/stream"
+        },
+        {
+            name: "La Nueva 94",
+            logo: "stations/images-america/caribbean/puerto_rico/La Nueva 94.png",
+            url: "https://live.wostreaming.net/manifest/sbsystems-wodafmaac-imc1"
+        },
+        {
+            name: "fidelity 95.7",
+            logo: "stations/images-america/caribbean/puerto_rico/fidelity 95.7.png",
+            url: "https://server7.servistreaming.com/proxy/fidelity?mp=%2Fstream%3Ftype%3D.mp3&_=1"
+        },
+        {
+            name: "iHeart Latino Hits 95.7-HD2",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/iHeart Latino Hits 95.7-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc7193/hls.m3u8"
+        },
+        {
+            name: "WFID 95.7-HD3",
+            logo: "stations/images-america/c2c/orlando_fl/Acción 97.9.png",
+            url: "https://stream.revma.ihrhls.com/zc7959/hls.m3u8"
+        },
+        {
+            name: "FOX Sports 95.7-HD4",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/FOX Sports 95.7-HD4.png",
+            url: "https://stream.revma.ihrhls.com/zc4732/hls.m3u8"
+        },
+        {
+            name: "play 96.5",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/play 96.5.png",
+            url: "https://live.wostreaming.net/direct/sbsystems-wrxdfmaac-imc1"
+        },
+        {
+            name: "Triunfo 96.9",
+            logo: "stations/images-america/caribbean/puerto_rico/mayagüez/Triunfo 96.9.png",
+            url: "https://embed.unored.tv/stream/index.php?s=unoredradio.com&p=9894&m=;stream"
+        },
+        {
+            name: "Magic 97.3",
+            logo: "stations/images-america/caribbean/puerto_rico/Magic.png",
+            url: "https://stream.eleden.com:8210/magic.aac"
+        },
+        {
+            name: "Nueva Vida 97.7",
+            logo: "stations/images-america/caribbean/puerto_rico/mayagüez/Nueva Vida 94.5.png",
+            url: "https://panel.streamenviron.com:8136/stream.mp3"
+        },
+        {
+            name: "Radio Sol 98.3",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/Radio Sol 98.3.png",
+            url: "https://stream.eleden.com/wzol.aac/wzol.aac.stream/playlist.m3u8"
+        },
+        {
+            name: "Salsoul 99.1",
+            logo: "stations/images-america/caribbean/puerto_rico/Salsoul 99.1.png",
+            url: "https://server20.servistreaming.com:9023/stream?type=.mp3&_=1"
+        },
+        {
+            name: "BIN 99.1-HD2",
+            logo: "stations/images-america/0_general_logos/BIN.png",
+            url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
+        },
+        {
+            name: "Rumba 99.1-HD3",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/Rumba 99.1-HD3.png",
+            url: "https://stream.revma.ihrhls.com/zc4451/hls.m3u8"
+        },
+        {
+            name: "Pride Radio 99.1-HD4",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
+            name: "Fresh 99.9",
+            logo: "stations/images-america/caribbean/puerto_rico/Fresh 99.9.png",
+            url: "https://streamlov.alsolnet.com/fresh999/live/playlist.m3u8"
+        },
+        {
+            name: "La X 100.7",
+            logo: "stations/images-america/caribbean/puerto_rico/mayagüez/La X 103.7.png",
+            url: "http://stream.eleden.com:8235/lax.ogg"
+        },
+        {
+            name: "ESPN Radio 100.7-HD2",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/ESPN Radio 100.7-HD2.png",
+            url: "https://live.wostreaming.net/direct/espn-networkmp3-48"
+        },
+        {
+            name: "HOT 102",
+            logo: "stations/images-america/caribbean/puerto_rico/HOT 102.png",
+            url: "https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1"
+        },
+        {
+            name: "Dimension 103",
+            logo: "stations/images-america/caribbean/puerto_rico/Dimension 103.png",
+            url: "http://stream.eleden.com:8350/dimension.aac"
+        },
+        {
+            name: "Cima 103.7",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/Cima 103.7.png",
+            url: "https://stream.eleden.com:8262/rcima.aac"
+        },
+        {
+            name: "KQ 105",
+            logo: "stations/images-america/caribbean/puerto_rico/KQ 105.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-wkaqfmaac-imc1"
+        },
+        {
+            name: "K-LOVE 105.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 105.7-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 2000s 105.7-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+        },
+        {
+            name: "Mega 106.9",
+            logo: "stations/images-america/caribbean/puerto_rico/Mega 106.9.png",
+            url: "https://live.wostreaming.net/manifest/sbsystems-wmegfmaac-imc1"
+        },
+        {
+            name: "MIX 107",
+            logo: "stations/images-america/caribbean/puerto_rico/MIX 107.png",
+            url: "http://174.36.206.197:7062/;"
         },
     ],
     "treasure_cay": [
