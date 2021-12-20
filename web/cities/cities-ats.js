@@ -9294,6 +9294,18 @@ var cities_greatamerica = [
 ];
 
 var country_properties_caribbean = {
+    "adicora": {
+        name: "Adicora",
+        name_english: "Adicora",
+        code: "ve",
+        relative_radius: 0.4
+    },
+    "coro": {
+        name: "Coro",
+        name_english: "Coro",
+        code: "ve",
+        relative_radius: 0.4
+    },
     "freeport": {
         name: "Freeport",
         name_english: "Freeport",
@@ -9318,6 +9330,18 @@ var country_properties_caribbean = {
         code: "jm",
         relative_radius: 0.6
     },
+    "mayagüez": {
+        name: "Mayagüez",
+        name_english: "Mayagüez",
+        code: "pr",
+        relative_radius: 0.6
+    },
+    "montegobay": {
+        name: "Montego Bay",
+        name_english: "Montego Bay",
+        code: "jm",
+        relative_radius: 0.6
+    },
     "nassau": {
         name: "Nassau",
         name_english: "Nassau",
@@ -9328,7 +9352,25 @@ var country_properties_caribbean = {
         name: "Oranjestad",
         name_english: "Oranjestad",
         code: "aw",
+        relative_radius: 0.4
+    },
+    "ponce": {
+        name: "Ponce",
+        name_english: "Ponce",
+        code: "pr",
         relative_radius: 0.5
+    },
+    "puntofijo": {
+        name: "Punto Fijo",
+        name_english: "Punto Fijo",
+        code: "ve",
+        relative_radius: 0.4
+    },
+    "sanjuan": {
+        name: "San Juan",
+        name_english: "San Juan",
+        code: "pr",
+        relative_radius: 0.6
     },
     "treasure_cay": {
         name: "Oranjestad",
@@ -9339,6 +9381,12 @@ var country_properties_caribbean = {
 };
 
 var city_properties_caribbean = {
+    "adicora": {
+        relative_whitenoise: 0.85
+    },
+    "coro": {
+        relative_whitenoise: 0.85
+    },
     "freeport": {
         relative_whitenoise: 0.85
     },
@@ -9351,10 +9399,25 @@ var city_properties_caribbean = {
     "kingston": {
         relative_whitenoise: 0.85
     },
+    "mayagüez": {
+        relative_whitenoise: 0.85
+    },
+    "montegobay": {
+        relative_whitenoise: 0.85
+    },
     "nassau": {
         relative_whitenoise: 0.85
     },
     "oranjestad": {
+        relative_whitenoise: 0.85
+    },
+    "puntofijo": {
+        relative_whitenoise: 0.85
+    },
+    "ponce": {
+        relative_whitenoise: 0.85
+    },
+    "sanjuan": {
         relative_whitenoise: 0.85
     },
     "treasure_cay": {
@@ -9363,6 +9426,22 @@ var city_properties_caribbean = {
 };
 
 var cities_caribbean = [
+    {
+      "gameName": "adicora",
+      "realName": "Adicora",
+      "country": "venezuela",
+      "x": "157727",
+      "y": "112.589",
+      "z": "136283"
+    },
+    {
+      "gameName": "coro",
+      "realName": "Coro",
+      "country": "venezuela",
+      "x": "159451",
+      "y": "82.316",
+      "z": "139921"
+    },
     {
       "gameName": "freeport",
       "realName": "Freeport",
@@ -9396,6 +9475,22 @@ var cities_caribbean = [
       "z": "110186"
     },
     {
+      "gameName": "mayagüez",
+      "realName": "Mayagüez",
+      "country": "puerto_rico",
+      "x": "161247",
+      "y": "184.977",
+      "z": "94517.4"
+    },
+    {
+      "gameName": "montegobay",
+      "realName": "Montego Bay",
+      "country": "jamaica",
+      "x": "101687",
+      "y": "18.6364",
+      "z": "108924"
+    },
+    {
       "gameName": "nassau",
       "realName": "Nassau",
       "country": "bahamas",
@@ -9410,6 +9505,30 @@ var cities_caribbean = [
       "x": "155584",
       "y": "65",
       "z": "133214"
+    },
+    {
+      "gameName": "puntofijo",
+      "realName": "Punto Fijo",
+      "country": "venezuela",
+      "x": "155329",
+      "y": "77.9219",
+      "z": "138177"
+    },
+    {
+      "gameName": "ponce",
+      "realName": "Ponce",
+      "country": "puerto_rico",
+      "x": "165673",
+      "y": "197.952",
+      "z": "95513.8"
+    },
+    {
+      "gameName": "sanjuan",
+      "realName": "San Juan",
+      "country": "puerto_rico",
+      "x": "166305",
+      "y": "188.551",
+      "z": "90296.7"
     },
     {
       "gameName": "treasure_cay",
