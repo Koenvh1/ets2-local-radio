@@ -17891,7 +17891,7 @@ var stations_c2c = {
         },
         {
             name: "95.7 The Mix",
-            logo: "stations/images-america/c2c/valdosta_ga/95.7 The Mix.png",
+            logo: "stations/images-america/c2c/valdosta_ga/95.7 The Mix_christmas.png",
             url: "https://ice9.securenetsystems.net/WQPW"
         },
         {
@@ -18155,7 +18155,7 @@ var stations_c2c = {
         },
         {
             name: "105.9 The Wave",
-            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave.png",
+            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kpoifmaac-ibc1"
         },
         {
@@ -33010,7 +33010,7 @@ var stations_c2c = {
         },
         {
             name: "B97.5",
-            logo: "stations/images-america/c2c/knoxville_tn/B97.5.png",
+            logo: "stations/images-america/c2c/knoxville_tn/B97.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXBFMAAC_SC"
         },
         {
