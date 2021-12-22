@@ -169,7 +169,7 @@ var stations = {
         },
         {
             name: "KOOL Oldies 570",
-            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5_christmas.png",
             url: "https://live.wostreaming.net/manifest/adamsradio-kwmlamaac-ibc1"
         },
         {
@@ -5159,7 +5159,7 @@ var stations = {
         },
         {
             name: "KOOL Oldies 104.5",
-            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5_christmas.png",
             url: "https://live.wostreaming.net/manifest/adamsradio-kwmlamaac-ibc1"
         },
         {
