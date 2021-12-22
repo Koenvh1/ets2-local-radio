@@ -143,9 +143,14 @@ var stations = {
             url: "http://ic1.mainstreamnetwork.com/ktmn-fm"
         },
         {
-            name: "KidX 101.5",
+            name: "KIDX 101.5",
             logo: "stations/images-america/alamogordo/KidX 101.5.png",
             url: "https://ice3.securenetsystems.net/KIDX"
+        },
+        {
+            name: "Alamo Sports + Talk 101.9",
+            logo: "stations/images-america/alamogordo/Alamo Sports + Talk 101.9.png",
+            url: "https://ice41.securenetsystems.net/KRSYAM"
         },
         {
             name: "Stealth 103.7",
