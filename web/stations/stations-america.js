@@ -88,9 +88,34 @@ var stations = {
             url: "https://ic1.sslstream.com/khii-fm"
         },
         {
+            name: "VCY America 88.5",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
             name: "KRWG 89.5",
             logo: "stations/images-america/alamogordo/KRWG 89.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRWGFMAAC_SC"
+        },
+        {
+            name: "Family Life Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "Effect Radio 91.1",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+        },
+        {
+            name: "K-LOVE 91.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Coyote Country 92.7",
+            logo: "stations/images-america/alamogordo/Coyote Country 92.7.png",
+            url: "https://ice41.securenetsystems.net/KRSY"
         },
         {
             name: "KWES 93.5",
@@ -101,6 +126,11 @@ var stations = {
             name: "94 KEY",
             logo: "stations/images-america/alamogordo/94 KEY.png",
             url: "https://ice10.securenetsystems.net/KYEE"
+        },
+        {
+            name: "KALH 95.1",
+            logo: "stations/images-america/alamogordo/KALH 95.1_christmas.png",
+            url: "https://s7.voscast.com:9371/stream"
         },
         {
             name: "Mix 96.7",
@@ -118,6 +148,11 @@ var stations = {
             url: "https://ice3.securenetsystems.net/KIDX"
         },
         {
+            name: "Stealth 103.7",
+            logo: "stations/images-america/alamogordo/Stealth 103.7.png",
+            url: "https://ice41.securenetsystems.net/KNMZ"
+        },
+        {
             name: "105.3 KZZX",
             logo: "stations/images-america/alamogordo/105.3 KZZX.png",
             url: "https://ice10.securenetsystems.net/KZZX"
@@ -131,6 +166,21 @@ var stations = {
             name: "107.9 Cool FM",
             logo: "stations/images-america/alamogordo/107.9 Cool FM.png",
             url: "http://ice10.securenetsystems.net/KQEL"
+        },
+        {
+            name: "KOOL Oldies 570",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-kwmlamaac-ibc1"
+        },
+        {
+            name: "600 ESPN",
+            logo: "stations/images-america/c2c/elpaso_tx/600 ESPN.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-krodamaac-ibc3"
+        },
+        {
+            name: "690 KTSM",
+            logo: "stations/images-america/c2c/elpaso_tx/690 KTSM.png",
+            url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
         },
     ],
     "alamosa": [
@@ -34353,8 +34403,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-krodamaac-ibc3"
         },
         {
-            name: "News Radio 690",
-            logo: "stations/images-america/c2c/elpaso_tx/News Radio 690.png",
+            name: "690 KTSM",
+            logo: "stations/images-america/c2c/elpaso_tx/690 KTSM.png",
             url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
         },
         {
@@ -35253,7 +35303,7 @@ var stations_c2c = {
         },
         {
             name: "Star 104.9",
-            logo: "stations/images-america/c2c/waco_tx/Star 104.9.png",
+            logo: "stations/images-america/c2c/waco_tx/Star 104.9_christmas.png",
             url: "https://ais-sa1.streamon.fm/7054_24k.aac"
         },
         {
