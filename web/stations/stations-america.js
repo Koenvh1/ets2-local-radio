@@ -9451,7 +9451,7 @@ var stations = {
         {
             name: "Jam'n 94.7",
             logo: "stations/images-america/santa_fe/Jam'n 94.7.png",
-            url: "https://58f14b372a413.streamlock.net:444/juan/juan.stream_aac/playlist.m3u8"
+            url: "http://live1.brownrice.com:8008/;"
         },
         {
             name: "95.5 KHFM",
@@ -9466,7 +9466,7 @@ var stations = {
         {
             name: "98.1 KBAC",
             logo: "stations/images-america/santa_fe/98.1 KBAC.png",
-            url: "https://58f14b372a413.streamlock.net:444/kbac/kbac.stream_aac/playlist.m3u8"
+            url: "https://shoutcast.brownrice.com:8000/;"
         },
         {
             name: "BIG 98.5",
@@ -9481,17 +9481,17 @@ var stations = {
         {
             name: "KSFR 101.1",
             logo: "stations/images-america/santa_fe/KSFR 101.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFRFM_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFRFM_ICE_SC"
         },
         {
             name: "101.5 The Cat",
             logo: "stations/images-america/santa_fe/101.5 The Cat.png",
-            url: "https://58f14b372a413.streamlock.net:444/kvsf/kvsf.stream_aac/playlist.m3u8"
+            url: "http://live1.brownrice.com:8002/;"
         },
         {
             name: "KTAOS 101.9",
             logo: "stations/images-america/santa_fe/KTAOS 101.9.png",
-            url: "https://58f14b372a413.streamlock.net:444/ktao/ktao.stream_aac/playlist.m3u8"
+            url: "https://live1.brownrice.com:8014/;"
         },
         {
             name: "Fuego 102.9",
@@ -9516,12 +9516,12 @@ var stations = {
         {
             name: "107.5 Outlaw Country",
             logo: "stations/images-america/santa_fe/107.5 Outlaw Country.png",
-            url: "https://58f14b372a413.streamlock.net:444/kqba/kqba.stream_aac/playlist.m3u8"
+            url: "http://172.97.100.38:8004/;"
         },
         {
             name: "1260 KTRC",
             logo: "stations/images-america/santa_fe/1260 KTRC.png",
-            url: "http://70.90.203.89:8080/;"
+            url: "https://live1.brownrice.com:8012/;"
         },
         {
             name: "1400 ESPN",
