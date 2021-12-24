@@ -4280,7 +4280,7 @@ var stations = {
         },
         {
             name: "100.7 MYfm",
-            logo: "stations/images-america/idaho_falls/100.7 MYfm.png",
+            logo: "stations/images-america/idaho_falls/100.7 MYfm_christmas.png",
             url: "https://sandhillradio.net/KSNA"
         },
         {
