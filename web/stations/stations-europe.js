@@ -1691,32 +1691,32 @@ var stations = {
         {
             name: "hr1",
             logo: "stations/images-europe/germany-hr/hr1.png",
-            url: "http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3"
+            url: "http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3"
         },
         {
             name: "hr2",
             logo: "stations/images-europe/germany-hr/hr2.png",
-            url: "http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3"
+            url: "http://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3"
         },
         {
             name: "hr3",
             logo: "stations/images-europe/germany-hr/hr3.png",
-            url: "http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3"
+            url: "http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3"
         },
         {
             name: "hr4",
             logo: "stations/images-europe/germany-hr/hr4.png",
-            url: "http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3"
+            url: "http://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3"
         },
         {
             name: "hr-iNFO",
             logo: "stations/images-europe/germany-hr/hr-info.png",
-            url: "http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3"
+            url: "http://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/96/stream.mp3"
         },
         {
             name: "YOU FM",
             logo: "stations/images-europe/germany-hr/YOU FM.png",
-            url: "http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3"
+            url: "http://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3"
         },
         {
             name: "harmony.fm",
