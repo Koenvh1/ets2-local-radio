@@ -5633,8 +5633,8 @@ var stations = {
             url: "http://www.streamcontrol.net:11050/live"
         },
         {
-            name: "101.5 The Sleigh",
-            logo: "stations/images-america/longview/101.5 The Sleigh.png",
+            name: "101.5 The Blitz",
+            logo: "stations/images-america/longview/101.5 The Blitz.png",
             url: "http://www.streamcontrol.net:11070/live"
         },
         {
