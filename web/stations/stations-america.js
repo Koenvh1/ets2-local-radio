@@ -9278,7 +9278,7 @@ var stations = {
         },
         {
             name: "FM100.3-HD3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
         },
         {
@@ -32855,9 +32855,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/forevercomm-whhgfmaac-ibc4"
         },
         {
-            name: "93.1 WTJS",
-            logo: "stations/images-america/c2c/jackson_tn/93.1 WTJS.png",
-            url: "https://s5.radio.co/s8ead4734f/low"
+            name: "Good News 93.1",
+            logo: "stations/images-america/c2c/jackson_tn/Good News 93.1.png",
+            url: "http://d9ro8y1qa3t7t.cloudfront.net/livepkgr/GN9312/playlist.m3u8"
         },
         {
             name: "Tennessee Patriot Network 94.1",
