@@ -1,5 +1,27 @@
 //window.open("http:" + TuneIn.payload.Station.broadcast.StreamUrl)
 var stations = {
+    "afghanistan": [
+        {
+            name: "Radio Ariana",
+            logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hcqeBFJErjbCPCvZkZP-uRj1oxUZFePZew&usqp=CAU",
+            url: "https://streams.radio.co/sa3345aaa8/listen?listening-from-radio-garden=1630622764"
+        },
+        {
+            name: "Radio Azadi",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/agxm36sbtbaa.png",
+            url: "https://n13.radiojar.com/bzbzqgcpn3quv?download=1&rj-tok=AAABe7tGkW4AdVohkPQI4c_Xww&rj-ttl=5"
+        },
+        {
+            name: "Afghanistan Ghag Radio",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/e5uknbkysclh.jpeg",
+            url: "http://139.162.54.229:8000/stream/;"
+        },
+        {
+            name: "Shamshad FM",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/r3TRSNsBeA.jpg",
+            url: "http://nl1.streamingpulse.com:7080/stream"
+        },
+    ],
     "aland": [
         {
             name: "Ålands Radio",
@@ -172,6 +194,13 @@ var stations = {
             name: "WELLE 1",
             logo: "stations/images-europe/austria/Welle 1.png",
             url: "https://live.welle1.at:19000/live"
+        },
+    ],
+    "azerbaijan": [
+        {
+            name: "Radio Respublika",
+            logo: "https://cdn.onlineradiobox.com/img/l/8/43228.v13.png",
+            url: "http://85.132.27.212:8888/azradio?listening-from-radio-garden=1623511483141"
         },
     ],
     "basque": [
@@ -1518,47 +1547,47 @@ var stations = {
         {
             name: "Bayern 1",
             logo: "stations/images-europe/germany-br/Bayern 1.png",
-            url: "https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8"
+            url: "https://br-br1-obb.cast.addradio.de/br/br1/obb/mp3/mid"
         },
         {
             name: "Bayern 2",
             logo: "stations/images-europe/germany-br/Bayern 2.png",
-            url: "https://mcdn.hf.br.de/br/hf/b2sued/master.m3u8"
+            url: "https://br-br2-sued.cast.addradio.de/br/br2/sued/mp3/mid"
         },
         {
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
-            url: "https://mcdn.hf.br.de/br/hf/b3/master.m3u8"
+            url: "https://br-br3-live.cast.addradio.de/br/br3/live/mp3/mid"
         },
         {
             name: "BR Schlager",
             logo: "stations/images-europe/germany-br/BR Schlager.png",
-            url: "https://mcdn.hf.br.de/br/hf/brschlager/master.m3u8"
+            url: "https://br-brschlager-live.cast.addradio.de/br/brschlager/live/mp3/mid"
         },
         {
             name: "BR Heimat",
             logo: "stations/images-europe/germany-br/BR Heimat.png",
-            url: "https://mcdn.hf.br.de/br/hf/brheimat/master.m3u8"
+            url: "https://br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/mid"
         },
         {
             name: "BR Klassik",
             logo: "stations/images-europe/germany-br/BR-Klassik.png",
-            url: "https://mcdn.hf.br.de/br/hf/brklassik/master.m3u8"
+            url: "https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high"
         },
         {
             name: "BR24",
             logo: "stations/images-europe/germany-br/BR24.png",
-            url: "https://mcdn.hf.br.de/br/hf/br24/master.m3u8"
+            url: "https://br-br24-live.cast.addradio.de/br/br24/live/mp3/mid"
         },
         {
             name: "BR24live",
             logo: "stations/images-europe/germany-br/BR24live.png",
-            url: "https://mcdn.hf.br.de/br/hf/br24live/master.m3u8"
+            url: "https://br-br24live-live.cast.addradio.de/br/br24live/live/mp3/mid"
         },
         {
             name: "BR Puls",
             logo: "stations/images-europe/germany-br/BR Puls.png",
-            url: "https://mcdn.hf.br.de/br/hf/puls/master.m3u8"
+            url: "https://br-puls-live.cast.addradio.de/br/puls/live/mp3/mid"
         },
         {
             name: "Antenne Bayern",
@@ -1580,22 +1609,22 @@ var stations = {
         {
             name: "Bremen Eins",
             logo: "stations/images-europe/germany-ndr/Bremen Eins.png",
-            url: "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3"
+            url: "http://rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen Zwei",
             logo: "stations/images-europe/germany-ndr/Bremen Zwei.png",
-            url: "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3"
+            url: "http://rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen Vier",
             logo: "stations/images-europe/germany-ndr/Bremen Vier.png",
-            url: "https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3"
+            url: "http://rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen NEXT",
             logo: "stations/images-europe/germany-ndr/Bremen NEXT.png",
-            url: "https://icecast.radiobremen.de/rb/bremennext/live/mp3/128/stream.mp3"
+            url: "http://rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3"
         },
         {
             name: "COSMO",
@@ -1612,12 +1641,12 @@ var stations = {
         {
             name: "SWR1 BW",
             logo: "stations/images-europe/germany-swr/SWR1.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3"
+            url: "http://swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3"
         },
         {
             name: "SWR4 BW",
             logo: "stations/images-europe/germany-swr/SWR4.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3"
+            url: "http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3"
         },
         {
             name: "antenne 1",
@@ -1642,7 +1671,7 @@ var stations = {
         {
             name: "Radio 7",
             logo: "stations/images-europe/germany-bw/Radio 7.png",
-            url: "https://frontend.streamonkey.net/radio7-dab"
+            url: "https://edge04.streamonkey.net/radio7-dab"
         },
         {
             name: "Radio Ton",
@@ -1664,7 +1693,7 @@ var stations = {
         {
             name: "HAMBURG ZWEI",
             logo: "stations/images-europe/germany-hh/HAMBURG ZWEI.png",
-            url: "https://frontend.streamonkey.net/hh2-950"
+            url: "https://rhh.streamabc.net/rhh-hh2livestream-mp3-128-9203677"
         },
         {
             name: "TIDE 96.0",
@@ -1679,7 +1708,7 @@ var stations = {
         {
             name: "Radio Hamburg",
             logo: "stations/images-europe/germany-hh/Radio Hamburg.png",
-            url: "https://frontend.streamonkey.net/rhh-1036"
+            url: "https://rhh.streamabc.net/rhh-rhhlivestream-mp3-128-5239250"
         },
         {
             name: "FluxFM",
@@ -1691,32 +1720,32 @@ var stations = {
         {
             name: "hr1",
             logo: "stations/images-europe/germany-hr/hr1.png",
-            url: "http://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3"
+            url: "http://hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3"
         },
         {
             name: "hr2",
             logo: "stations/images-europe/germany-hr/hr2.png",
-            url: "http://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3"
+            url: "http://hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3"
         },
         {
             name: "hr3",
             logo: "stations/images-europe/germany-hr/hr3.png",
-            url: "http://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3"
+            url: "http://hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3"
         },
         {
             name: "hr4",
             logo: "stations/images-europe/germany-hr/hr4.png",
-            url: "http://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3"
+            url: "http://hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3"
         },
         {
             name: "hr-iNFO",
             logo: "stations/images-europe/germany-hr/hr-info.png",
-            url: "http://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/96/stream.mp3"
+            url: "http://hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3"
         },
         {
             name: "YOU FM",
             logo: "stations/images-europe/germany-hr/YOU FM.png",
-            url: "http://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3"
+            url: "http://hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3"
         },
         {
             name: "harmony.fm",
@@ -1807,12 +1836,12 @@ var stations = {
         {
             name: "NDR 1 Radio MV",
             logo: "stations/images-europe/germany-ndr/NDR 1 Radio MV.png",
-            url: "https://icecast.ndr.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1radiomv_hro.m3u"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
-            url: "https://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr2_mv.m3u"
         },
         {
             name: "80s80s MV",
@@ -1866,37 +1895,37 @@ var stations = {
         {
             name: "NDR 1 Welle Nord",
             logo: "stations/images-europe/germany-ndr/NDR 1 Welle Nord.png",
-            url: "https://icecast.ndr.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1wellenord.m3u"
         },
         {
             name: "NDR Info",
             logo: "stations/images-europe/germany-ndr/NDR Info.png",
-            url: "https://icecast.ndr.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrinfo_spezial.m3u"
         },
         {
             name: "NDR Kultur",
             logo: "stations/images-europe/germany-ndr/NDR Kultur.png",
-            url: "https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrkultur.m3u"
         },
         {
             name: "NDR Blue",
             logo: "stations/images-europe/germany-ndr/NDR Blue.png",
-            url: "https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrblue.m3u"
         },
         {
             name: "NDR Plus",
             logo: "stations/images-europe/germany-ndr/NDR Plus.png",
-            url: "https://icecast.ndr.de/ndr/ndrplus/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndrplus.m3u"
         },
         {
             name: "NDR 2",
             logo: "stations/images-europe/germany-ndr/NDR 2.png",
-            url: "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr2.m3u"
         },
         {
             name: "N-JOY",
             logo: "stations/images-europe/germany-ndr/N-Joy.png",
-            url: "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/n-joy.m3u"
         },
         {
             name: "delta radio",
@@ -1908,7 +1937,7 @@ var stations = {
         {
             name: "NDR 1 Niedersachsen",
             logo: "stations/images-europe/germany-nds/NDR 1 Niedersachsen.png",
-            url: "https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3"
+            url: "https://www.ndr.de/resources/metadaten/audio/aac/ndr1niedersachsen.m3u"
         },
         {
             name: "Antenne Niedersachsen",
@@ -1997,12 +2026,12 @@ var stations = {
         {
             name: "SWR1 Rheinland-Pfalz",
             logo: "stations/images-europe/germany-swr/SWR1.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr1/rp/mp3/128/stream.mp3"
+            url: "http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3"
         },
         {
             name: "SWR4 Rheinland-Pfalz",
             logo: "stations/images-europe/germany-swr/SWR4.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr4/rp/mp3/128/stream.mp3"
+            url: "http://swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3"
         },
         {
             name: "bigFM",
@@ -2085,22 +2114,22 @@ var stations = {
         {
             name: "SWR2",
             logo: "stations/images-europe/germany-swr/SWR2.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3"
+            url: "http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3"
         },
         {
             name: "SWR3",
             logo: "stations/images-europe/germany-swr/SWR3.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3"
+            url: "http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3"
         },
         {
             name: "SWR Aktuell",
             logo: "stations/images-europe/germany-swr/SWR Aktuell.png",
-            url: "https://dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3"
+            url: "http://swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3"
         },
         {
             name: "DASDING",
             logo: "stations/images-europe/germany-swr/DASDING.png",
-            url: "https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3"
+            url: "http://swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3"
         },
         {
             name: "Radio Regenbogen",
@@ -2281,61 +2310,48 @@ var stations = {
             url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
+    "greenland": [
+        {
+            name: "Kalaallit Nunaata Radioa",
+            logo: "https://liveonlineradio.net/wp-content/uploads/2015/07/KNR-Radio.jpg",
+            url: "https://ice.cr5.streamzilla.xlcdn.com:8000/sz=knr=audio192?token=d196a16ae5b0fd0940bde4e012360abd&time=60997aa7"
+        },
+        {
+            name: "Ice FM 95.3",
+            logo: "https://liveonlineradio.net/wp-content/uploads/2018/10/ice-fm-220x108.jpg",
+            url: "http://media.limfjordnetradio.dk/icefm"
+        },
+    ],   
     "hungary": [
         {
-            name: "Kossuth Rádió",
-            logo: "stations/images-europe/hungary/Kossuth Rádió.png",
-            url: "https://icast.connectmedia.hu/4726/mr1ex.mp3"
+            name: "MR1-Kossuth Rádió",
+            logo: "stations/images-europe/hungary/MR1-Kossuth Rádió.jpg",
+            url: "http://icast.connectmedia.hu/4726/mr1ex.mp3"
         },
         {
-            name: "Petőfi Rádió",
-            logo: "stations/images-europe/hungary/Petőfi Rádió.png",
-            url: "https://mr-stream.connectmedia.hu/4738/mr2.mp3"
+            name: "MR2-Petofi Rádió",
+            logo: "stations/images-europe/hungary/MR2-Petofi Rádió.jpeg",
+            url: "http://icast.connectmedia.hu/4738/mr2.mp3"
         },
         {
-            name: "Bartók Rádió",
-            logo: "stations/images-europe/hungary/Bartók Rádió.png",
-            url: "https://mr-stream.connectmedia.hu/4741/mr3.mp3"
+            name: "MR3-Bartók Rádió",
+            logo: "stations/images-europe/hungary/MR3-Bartók Rádió.png",
+            url: "http://mr-stream.mediaconnect.hu/4741/mr3.mp3"
         },
         {
-            name: "Dankó Rádió",
+            name: "MR6-Dankó Rádió",
             logo: "stations/images-europe/hungary/Dankó Rádió.png",
-            url: "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
+            url: "http://icast.connectmedia.hu/4748/mr7.mp3"
         },
         {
-            name: "Best FM",
-            logo: "stations/images-europe/hungary/Best FM.png",
-            url: "https://icast.connectmedia.hu/5101/live.mp3/"
-        },
-        {
-            name: "Karc FM",
-            logo: "stations/images-europe/hungary/Karc FM.png",
-            url: "https://karcfm.42netmedia.com:8443/karcfm-high"
-        },
-        {
-            name: "Magyar Katolikus Rádió",
-            logo: "stations/images-europe/hungary/Magyar Katolikus Rádió.png",
-            url: "https://katolikusradio.hu:8001/live_hi.mp3"
-        },
-        {
-            name: "Mária Rádió",
-            logo: "stations/images-europe/hungary/Mária Rádió.png",
-            url: "https://stream.mariaradio.hu:8000/mr"
-        },
-        {
-            name: "Rádió 1",
-            logo: "stations/images-europe/hungary/Rádió 1.png",
-            url: "https://icast.connectmedia.hu/5201/live.mp3"
+            name: "Radio 1",
+            logo: "stations/images-europe/hungary/Radio 1.png",
+            url: "http://www.bytestorm.hu/radio1Stream/"
         },
         {
             name: "Retro Rádió",
             logo: "stations/images-europe/hungary/Retro Rádió.png",
-            url: "https://icast.connectmedia.hu/5001/live.mp3"
-        },
-        {
-            name: "Szent István Rádió",
-            logo: "stations/images-europe/hungary/Szent István Rádió.png",
-            url: "http://online.szentistvanradio.hu:7000/adas"
+            url: "http://stream.retroradio.hu/mid.mp3?time=1540043852?time=1540043885744"
         },
     ],
     "iceland": [
@@ -2514,32 +2530,32 @@ var stations = {
         {
             name: "Rai Radio 1",
             logo: "stations/images-europe/italy/RAI Radio 1.png",
-            url: "https://radiounoest-live.akamaized.net/hls/live/2032586/radiounoest/radiounoest/playlist.m3u8"
+            url: "https://radiouno1-lh.akamaihd.net/i/radiouno1_1@586814/master.m3u8"
         },
         {
             name: "Rai Radio 2",
             logo: "stations/images-europe/italy/RAI Radio 2.png",
-            url: "https://radiodue-live.akamaized.net/hls/live/2032592/radiodue/radiodue/playlist.m3u8"
+            url: "https://radiodue1-lh.akamaihd.net/i/radiodue1_1@586831/master.m3u8"
         },
         {
             name: "Rai Radio 3",
             logo: "stations/images-europe/italy/RAI Radio 3.png",
-            url: "https://radiotre-live.akamaized.net/hls/live/2032594/radiotre/radiotre/playlist.m3u8"
+            url: "https://radiotre1-lh.akamaihd.net/i/radiotre1_1@586832/master.m3u8"
         },
         {
             name: "Rai Radio Tutta Italiana",
             logo: "stations/images-europe/italy/Rai Radio Tutta Italiana.png",
-            url: "https://radiotuttaitaliana-live.akamaized.net/hls/live/2032596/radiotuttaitaliana/radiotuttaitaliana/playlist.m3u8"
+            url: "https://radioitaliana1-lh.akamaihd.net/i/radioitaliana1_1@586844/master.m3u8"
         },
         {
             name: "Rai Isoradio",
             logo: "stations/images-europe/italy/RAI IsoRadio.png",
-            url: "https://isoradioest-live.akamaized.net/hls/live/2032602/isoradioest/isoradioest/playlist.m3u8"
+            url: "https://isoradio1-lh.akamaihd.net/i/isoradio1_1@586840/master.m3u8"
         },
         {
             name: "Rai GR Parlamento",
             logo: "stations/images-europe/italy/Rai GR Parlamento.png",
-            url: "https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/playlist.m3u8"
+            url: "https://icestreaming.rai.it/7.mp3"
         },
         {
             name: "m2o",
@@ -2935,6 +2951,33 @@ var stations = {
             url: "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
         },
     ],
+    "malta": [
+        {
+            name: "Radju Malta",
+            logo: "https://assets.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/logo-radju-malta.png",
+            url: "https://s38.myradiostream.com/6982/;?type=http&nocache=1619347324?0.6518953434272927"
+        },
+        {
+            name: "Radju Malta 2",
+            logo: "https://assets.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/logo-radju-malta-2.png",
+            url: "https://s11.myradiostream.com/4954/;?type=http&nocache=1619347096?0.9089565644623254"
+        },
+        {
+            name: "Magic Malta",
+            logo: "https://assets.tvm.com.mt/mt/wp-content/themes/tvm/dist/images/logo-magic-malta.png",
+            url: "https://s46.myradiostream.com/:6076/;?type=http&nocache=1619347452?0.07365943075758064"
+        },
+        {
+            name: "Radju Marija",
+            logo: "https://radjumarija.org/wp-content/uploads/2020/08/radju-marija-logo-250x63.png",
+            url: "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream"
+        },
+        {
+            name: "89.7 Bay FM",
+            logo: "https://media-exp1.licdn.com/dms/image/C4D0BAQH5GlBlHFbSOQ/company-logo_200_200/0/1612193399341?e=2159024400&v=beta&t=jWQ-UPxweEw3X8L-paku8K-1IqwL7LXM7yCWV5tnIms",
+            url: "https://stream.v3.network:18022/;stream.mp3?_=1"
+        },
+    ],    
     "mnegro": [
         {
             name: "RCG",
@@ -3208,6 +3251,13 @@ var stations = {
             url: "http://tx.sharp-stream.com/http_live.php?i=qr967.mp3&device=rpweb"
         },
     ],
+    "nkorea": [
+        {
+            name: "Pyongyang Radio",
+            logo: "https://i.ytimg.com/vi/NZ4BR4CX-Fk/hqdefault.jpg",
+            url: "https://listen7.myradio24.com/69366"
+        },
+    ],    
     "norway": [
         {
             name: "NRK P1",
@@ -3461,7 +3511,7 @@ var stations = {
         {
             name: "Cidade FM",
             logo: "stations/images-europe/portugal/Cidade FM.png",
-            url: "https://media2.mcr.iol.pt/livefm/cidade/playlist.m3u8"
+            url: "https://mcrwowza6.mcr.iol.pt/cidade/smil:cidade.smil/playlist.m3u8"
         },
         {
             name: "Mega Hits",
@@ -3471,7 +3521,7 @@ var stations = {
         {
             name: "M80 Rádio",
             logo: "stations/images-europe/portugal/M80 Rádio.png",
-            url: "https://media2.mcr.iol.pt/livefm/m80/playlist.m3u8"
+            url: "https://mcrwowza4.mcr.iol.pt/m80/smil:m80.smil/playlist.m3u8"
         },
         {
             name: "Rádio Comercial",
@@ -3917,6 +3967,28 @@ var stations = {
             url: "https://live.radio.si/Veseljak"
         },
     ],
+    "skorea": [
+        {
+            name: "SBS Radio",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uCLZMDDnbs.png",
+            url: "http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/playlist.m3u8"
+        },
+        {
+            name: "Box Radio - KPop",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/9trz2jrmqvcq.png",
+            url: "https://boxradio-edge-00.streamafrica.net/kpop"
+        },
+        {
+            name: "Radio Seoul",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/NDBTGjVj9y.png",
+            url: "http://radio2.koreatimes.com:8080/radioseoul"
+        },
+        {
+            name: "Arirang Radio",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/XjsGxwjyqW.png",
+            url: "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+        },
+     ],
     "spain": [
         {
             name: "RNE Radio Nacional",
@@ -4489,6 +4561,23 @@ var stations = {
             url: "https://streaming.smartradio.ch:8502/stream"
         },
     ],
+    "sudan": [
+        {
+            name: "Radio Sawa",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/wjeln9ymtlme.png",
+            url: "http://n0f.radiojar.com/yx0q47hna3quv?rj-ttl=5&rj-tok=AAABed3opeMAHzs8Qd7oE-2KqA"
+        },
+        {
+            name: "Hala Radio (Sudan)",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/gt54ujnj86nz.png",
+            url: "http://108.61.34.50:7026/stream"
+        },
+        {
+            name: "Capital Radio (Sudan)",
+            logo: "https://mytuner.global.ssl.fastly.net/media/tvos_radios/j3pgn26ueh2l.png",
+            url: "http://198.245.61.161:8642/stream"
+        },
+    ],
     "syria": [
         {
             name: "اذاعة دمشق",
@@ -4753,6 +4842,28 @@ var stations = {
             name: "Yön Radyo",
             logo: "stations/images-europe/turkey/Yön Radyo.png",
             url: "https://stream.radyolarburada.com/radio/8020/yonradyo"
+        },
+    ],
+    "turkmenistan": [
+        {
+            name: "Watan Radio",
+            logo: "https://turkmentv.gov.tm/static/img/radio/watan.jpg",
+            url: "https://radio.telecom.tm/watan.mp3"
+        },
+        {
+            name: "Radio Çar Tarapdan",
+            logo: "https://turkmentv.gov.tm/static/img/radio/char.jpg",
+            url: "https://radio.telecom.tm/tarap.mp3"
+        },
+        {
+            name: "Radio Miras",
+            logo: "https://turkmentv.gov.tm/static/img/radio/miras.jpg",
+            url: "https://radio.telecom.tm/miras.mp3"
+        },
+        {
+            name: "Radio Owaz",
+            logo: "https://turkmentv.gov.tm/static/img/radio/owaz.jpg",
+            url: "https://radio.telecom.tm/owaz.mp3"
         },
     ],
     "uk": [
