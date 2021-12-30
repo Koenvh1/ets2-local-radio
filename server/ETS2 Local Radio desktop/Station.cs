@@ -53,7 +53,7 @@ namespace ETS2_Local_Radio_server
             {
                 if (Settings.Overlay)
                 {
-                    if (CaptureProcess == null)
+                    if (CaptureProcess == null || CaptureProcess.Process.HasExited)
                     {
                         AttachProcess(Main.currentGame == "ets2" ? "eurotrucks2" : "amtrucks");
                         Log.Write("No capture process bound");

@@ -10,7 +10,7 @@ However, you can add those yourself if you so desire.
 
 **Supported maps:**  
 ETS2: Default, Going East, Scandinavia, France, Italy, Baltics, Road to the Black Sea, ProMods, ProMods Middle-East, RusMap, Southern Region, TruckSim Map, Project Balkans*, Egypt Add-on, YKS Turkey*, Russian Open Spaces*, YKSRSK*, Romania Extended*, The Great Steppe, AfroMap and Italy Map.  
-ATS: California, Nevada, Arizona, New Mexico, Oregon, Washington, Utah, Viva Mexico, Coast to Coast, Canadream.  
+ATS: California, Nevada, Arizona, New Mexico, Oregon, Washington, Utah, Idaho, Viva Mexico, Coast to Coast, Canadream.  
 \*Disabled by default  
 
 **It's available in over 20 languages!**  
@@ -53,7 +53,7 @@ Each country has its own (random) colour, to make it easier to see the differenc
 ### What is the PeerID and what does it do? / Can I use my phone/tablet to control the radio?
 The PeerID is an ID that identifies that instance of ATS/ETS2 Local Radio. 
 It allows you to control Local Radio from another device, like a phone or tablet.
-Simply go to the URL shown in the server on your phone or tablet, click "Connect to another device", 
+Simply go to the URL shown in the server on your phone or tablet (e.g. http://xxx.xxx.xxx.xxx:xxxx), click "Connect to another device", 
 enter your computer's PeerID and you're ready to go.
 All input on your second device will be redirected to your computer.
 
@@ -94,9 +94,11 @@ see the custom stations example file for the format.
 
 Generally speaking, I (Koen) will maintain the stations for ETS2. [Marcus](https://github.com/04Marcus) maintains the stations for ATS.
 The map mods for ATS are maintained by:
-* Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806)
+* Viva la Mexico - [rafa.martínez](https://promods.net/memberlist.php?mode=viewprofile&u=183806) (not updated at the moment)
 * Coast to Coast - [Avondale Trucking](https://forum.scssoft.com/memberlist.php?mode=viewprofile&u=167308)
 * Canadream - veso266 and Marcus
+
+Want to participate? Great! Just open an issue.
 
 ##### How about Project Balkans, Open Spaces, or YKS Turkey?
 A persisting problem is that some maps are incompatible with each other.
@@ -112,9 +114,9 @@ To make clear that it also supports ATS, I started using the name ATS/ETS2 Local
 Generally speaking, I use ETS2 Local Radio, but I'm not really consistent when it comes to naming.
 
 ### Can I still run this program locally like v2?
-Yes you can. Just click the "Clone or download" button above, and then click "Download ZIP".
-Then just copy the contents of the web folder to the web folder of your Local Radio installation.
-You can then visit http://localhost:8330 to use your local files instead.
+Yes you can. Click the "Clone or download" button above, and then click "Download ZIP".
+Then copy the contents of the web folder to the web folder of your Local Radio installation.
+Edit the config.js file (overwritten on update), or set the config in the custom.js file (permanent).
 
 ## Troubleshooting:
 ### Can't access it from another device
@@ -165,6 +167,10 @@ then please try to reinstall the plugin by pressing the "Install plugin" button,
 If that doesn't work, then please try the [alternative dll](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_ets2-telemetry.dll/ets2-telemetry.dll)
 and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\plugins` folder. (The alternative only works on 64-bit)
 
+### The overlay does not show up
+* Make sure you run the game in DirectX mode
+* Make sure you have not disabled the overlay in the settings
+
 ### The overlay is stuck in the top left corner
 This usually occurs after changing the graphics settings. It should be gone after ATS/ETS2 is restarted.
 
@@ -176,6 +182,9 @@ Close the server, open the `settings.json` file, and change `vr` to `true`.
 
 ### The server won't start due to some SlimDX.dll problem
 Make sure that [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555) is installed.
+
+### The page keeps showing "Waiting for your in-game coordinates...", even though the server does know the coordinates
+Make sure you use a modern browser, and have no add-ons that conflict with Local Radio. Also make sure your firewall does not block access to the Local Radio server, and that your browser settings are not so restrictive that they block access to Local Radio (e.g. by forcing HTTPS usage).
 
 ### Something else does not work!
 Try restarting ETS2/ATS, rebooting your PC, and reloading the ETS2 Local Radio web page (as your browser may still have an invalid cached version of the page). 
@@ -194,8 +203,9 @@ You will need to manually remove the following files from the ETS2/ATS installat
 
 I could not have possibly done this alone, so thanks to the following people:
 * SCS Software for creating ETS2
-* **nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)**
-* **Michael Koch for creating [GPP](http://www.mikoweb.eu/?page_id=54)**
+* nlhans for creating the [ETS2 SDK plugin](https://github.com/nlhans/ets2-sdk-plugin)
+* Michael Koch for creating [GPP](http://www.mikoweb.eu/?page_id=54)
+* Loading.io for the radio loading icon
 * All the translators
 * Everyone who submitted a new station
 * You, the user
@@ -213,10 +223,14 @@ _The in-game view when switching stations (if the overlay is installed)_
 
 _Another in-game view when switching stations (if the overlay is installed)_
 
-![Screenshot](https://i.imgur.com/lrGysB7.png)
+![Screenshot](https://user-images.githubusercontent.com/5168825/130339936-79c77cd8-312e-4e08-ba58-4bbe76b3ea60.png)
 
-_An example of the web interface near Dresden_
+_An example of the web interface_
 
-![Screenshot](https://i.imgur.com/E9h001F.jpg)
+![Screenshot](https://user-images.githubusercontent.com/5168825/130339941-d3f20613-871a-4b1c-a774-01d9358c8ad8.png)
+
+_Another example of the web interface (dark theme)_
+
+![Screenshot](https://i.imgur.com/R8SjMna.png)
 
 _The interface on the mobile app/website_

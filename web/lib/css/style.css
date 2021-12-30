@@ -14,7 +14,7 @@ body {
     display: none;
 }
 
-.remote, .unsupported-browser, .update, .microsoft-edge {
+.remote, .unsupported-browser, .update, .https {
     display: none;
 }
 
@@ -55,6 +55,11 @@ body {
     text-overflow: ellipsis;
 }
 
+.station-subtitle {
+    width: 100%;
+    display: inline-block;
+}
+
 .navbar {
     box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.3);
 }
@@ -63,12 +68,12 @@ body {
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.1), 0 0 10px 0 rgba(0, 0, 0, 0.09);
     text-align: center;
     cursor: pointer;
-    color: #2ebb1e;
+    color: #202132;
     border-radius: 2px;
 }
 
 .thumbnail-selected {
-    background-color: rgb(46, 187, 30) !important;
+    background-color: #39B54A !important;
     color: #ffffff;
 }
 
@@ -86,7 +91,7 @@ body {
 }
 
 .alert-primary {
-    background-color: rgb(46, 187, 30);
+    background-color: #39B54A;
     border-color: transparent;
     color: #ffffff;
 }
@@ -111,7 +116,7 @@ body {
 }
 
 .play-button {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(32, 33, 50, 0.6);
     background-image: url('../img/play-button.png');
     background-size: 50% auto;
     background-repeat: no-repeat;

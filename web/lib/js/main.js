@@ -21,7 +21,7 @@ var g_volume = 1;
 //nearest country:
 var g_last_nearest_country = "";
 //whitenoise active:
-var g_whitenoise = false;
+var g_whitenoise = true;
 //global hls object:
 var g_hls = null;
 //last command id from desktop received:
@@ -54,8 +54,10 @@ function initialise() {
 
     if(getBrowser().ie || getBrowser().safari){
         $(".unsupported-browser").show();
-    } else if (getBrowser().edge) {
-        $(".microsoft-edge").show();
+    }
+
+    if (location.protocol === "https:") {
+        $(".https").show();
     }
 
     if (localStorage.getItem("volume") == null) {
@@ -349,7 +351,7 @@ function setRadioStation(url, country, volume) {
                 cleanUrl = cleanUrl.split("?")[0];
             }
 
-            if (cleanUrl.startsWith("https://cors-anywhere.herokuapp.com")) {
+            if (cleanUrl.startsWith("https://atsradio.herokuapp.com/index.php?ats=")) {
                 $("#player").attr("crossorigin", "anonymous");
             } else {
                 $("#player").removeAttr("crossorigin");
@@ -393,7 +395,7 @@ function setRadioStation(url, country, volume) {
 
     $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" +
         calculateReception(g_countries[country].whitenoise) + "/?" +
-        location.origin + location.pathname + stations[country][index].logo);
+        g_skinConfig["url-prefix"] + stations[country][index].logo);
 }
 
 function setWhitenoise(volume) {
@@ -612,10 +614,10 @@ function refreshStations() {
                     '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-selected" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
-                    '<div class="frame text-center"><div class="station-image-container"><img src="' + stations[key][j]['logo'] + '"></div><br>' +
+                    '<div class="frame text-center"><div class="station-image-container"><img src="' + g_skinConfig['url-prefix'] + stations[key][j]['logo'] + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
-                    '<span class="overflow">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) + '</span>' +
-                    (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") +
+                    '<span class="overflow station-subtitle">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) +
+                    (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") + '</span>' +
                     '<img src="lib/img/signal/' + reception + '.png" class="signal">' +
                     '</div>' +
                     '<div class="play-button"></div>' +
@@ -632,7 +634,7 @@ function refreshStations() {
     }).indexOf(g_current_url);
 
     $(".current-station").html(stations[g_current_country][index].name);
-    $(".current-station-image").attr("src", stations[g_current_country][index].logo);
+    $(".current-station-image").attr("src", g_skinConfig["url-prefix"] + stations[g_current_country][index].logo);
     $(".current-station-country").html(country_properties[g_current_country].name);
     $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
     if(g_favourites[g_current_country] == stations[g_current_country][index].name) {

@@ -107,13 +107,6 @@
         ready = true;
 
         var id = currentId;
-        geoTest("NL", url, function (data) {
-            $("#list>tr:nth-child(" + (id + 1) + ")>td:nth-child(3)").append(
-                (data.valid ?
-                    "<img src='https://status.aws.amazon.com/images/status0.gif'>" :
-                    "<img src='https://status.aws.amazon.com/images/status3.gif'>")
-            + " NL ");
-        });
 
         if (hls != null) {
             hls.detachMedia();
@@ -146,22 +139,6 @@
                 testStation();
             }
         }, 15000);
-    }
-
-    function geoTest(country, url, callback) {
-        var requestUrl = "";
-        switch (country.toUpperCase()) {
-            case "NL":
-                requestUrl = "https://home.koenvh.nl/stationtest.php";
-                break;
-            case "US":
-                requestUrl = "http://koenvh.eu5.org/stationtest.php";
-                break;
-        }
-
-        $.post(requestUrl, {"url": url}, function (data) {
-            callback(data);
-        });
     }
 </script>
 </body>

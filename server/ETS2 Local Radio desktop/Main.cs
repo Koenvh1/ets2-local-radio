@@ -591,7 +591,7 @@ namespace ETS2_Local_Radio_server
 
         private void URLLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("http://localradio.koenvh.nl/?api=" + comboIP.SelectedItem.ToString());
+            Process.Start(comboIP.SelectedItem.ToString());
         }
 
         private void Koenvh_Click(object sender, EventArgs e)
@@ -793,7 +793,7 @@ namespace ETS2_Local_Radio_server
                     currentGame = "ets2";
                     gameLabel.Text = "Euro Truck Simulator 2";
                     writeFile("game", "0", "0");
-                    Station.AttachProcess("eurotrucks2");
+                    //Station.AttachProcess("eurotrucks2");
                 }
                 ets2Found = true;
             }
@@ -804,7 +804,7 @@ namespace ETS2_Local_Radio_server
                     currentGame = "ats";
                     gameLabel.Text = "American Truck Simulator";
                     writeFile("game", "0", "0");
-                    Station.AttachProcess("amtrucks");
+                    //Station.AttachProcess("amtrucks");
                 }
                 atsFound = true;
             }
