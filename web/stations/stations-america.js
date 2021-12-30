@@ -2032,7 +2032,7 @@ var stations = {
         },
         {
             name: "Q102.7",
-            logo: "stations/images-america/colorado_springs_pueblo/Q102.7_christmas.png",
+            logo: "stations/images-america/colorado_springs_pueblo/Q102.7.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBIQFMAAC_SC"
         },
         {
@@ -2772,7 +2772,7 @@ var stations = {
         },
         {
             name: "KOOL 99.1",
-            logo: "stations/images-america/eugene/KOOL 99.1_christmas.png",
+            logo: "stations/images-america/eugene/KOOL 99.1.png",
             url: "https://us9.maindigitalstream.com/ssl/KODZ"
         },
         {
@@ -5557,7 +5557,7 @@ var stations = {
         },
         {
             name: "Lite FM 103.3",
-            logo: "stations/images-america/logan/Lite FM 103.3_christmas.png",
+            logo: "stations/images-america/logan/Lite FM 103.3.png",
             url: "https://ice9.securenetsystems.net/KLGN"
         },
         {
@@ -5901,7 +5901,7 @@ var stations = {
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -8350,7 +8350,7 @@ var stations = {
         },
         {
             name: "K234CR 94.7",
-            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -9277,7 +9277,7 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
         },
         {
-            name: "FM100.3-HD3",
+            name: "Christmas Music 100.3-HD3",
             logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
         },
@@ -10563,7 +10563,7 @@ var stations = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFMAAC_SC"
         },
         {
-            name: "Warm 106.9-HD2",
+            name: "Warm Christmas 106.9-HD2",
             logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMXMASAAC_SC"
         },
@@ -35149,6 +35149,11 @@ var stations_c2c = {
             name: "KTFS 107.1",
             logo: "stations/images-america/c2c/texarkana_tx/KTFS 107.1.png",
             url: "http://198.178.121.76:8153/;"
+        },
+        {
+            name: "Good Time Oldies 107.5",
+            logo: "stations/images-america/c2c/texarkana_tx/Good Time Oldies 107.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kosyamaac-ibc3"
         },
     ],
     "tyler_tx": [
