@@ -1935,32 +1935,32 @@ var stations = {
         {
             name: "Radio Fritz",
             logo: "stations/images-europe/germany-rbb/Radio Fritz.png",
-            url: "https://rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/mid"
+            url: "http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid"
         },
         {
             name: "radioeins",
             logo: "stations/images-europe/germany-rbb/radioeins.png",
-            url: "https://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/mid"
+            url: "http://dispatcher.rndfnk.com/rbb/radioeins/live/mp3/mid"
         },
         {
             name: "rbb 88.8",
             logo: "stations/images-europe/germany-rbb/rbb 88.8.png",
-            url: "https://rbb-rbb888-live.cast.addradio.de/rbb/rbb888/live/mp3/mid"
+            url: "http://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid"
         },
         {
             name: "rbb Inforadio",
             logo: "stations/images-europe/germany-rbb/RBB Inforadio.png",
-            url: "https://rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/mid"
+            url: "http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid"
         },
         {
             name: "rbbKultur",
             logo: "stations/images-europe/germany-rbb/rbbKultur.png",
-            url: "https://rbb-rbbkultur-live.cast.addradio.de/rbb/rbbkultur/live/mp3/high"
+            url: "http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high"
         },
         {
             name: "Antenne Brandenburg",
             logo: "stations/images-europe/germany-rbb/Antenne Brandenburg.png",
-            url: "https://rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/mid"
+            url: "http://dispatcher.rndfnk.com/rbb/antennebrandenburg/live/mp3/mid"
         },
         {
             name: "BB Radio",
@@ -3822,42 +3822,72 @@ var stations = {
         {
             name: "Rádio Devin",
             logo: "stations/images-europe/slovakia/Rádio Devin.png",
-            url: "http://live.slovakradio.sk:8000/Devin_256.mp3"
+            url: "https://icecast.stv.livebox.sk/devin_128.mp3"
         },
         {
             name: "Rádio_FM",
             logo: "stations/images-europe/slovakia/Rádio_FM.png",
-            url: "http://live.slovakradio.sk:8000/FM_256.mp3"
+            url: "https://icecast.stv.livebox.sk/fm_128.mp3"
+        },
+        {
+            name: "Rádio Patria",
+            logo: "stations/images-europe/slovakia/Rádio Patria.png",
+            url: "https://icecast.stv.livebox.sk/patria_128.mp3"
+        },
+        {
+            name: "Rádio Regina",
+            logo: "stations/images-europe/slovakia/Rádio Regina.png",
+            url: "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
         },
         {
             name: "Europa 2",
             logo: "stations/images-europe/slovakia/Europa 2.png",
-            url: "https://stream.radioservices.sk/europa2.mp3"
+            url: "https://stream.bauermedia.sk/europa2.mp3"
         },
         {
-            name: "Fun rádio",
-            logo: "stations/images-europe/slovakia/Fun rádio.png",
-            url: "http://stream.funradio.sk:8000/fun128.mp3"
+            name: "Fun Rádio",
+            logo: "stations/images-europe/slovakia/Fun Rádio.png",
+            url: "https://stream.funradio.sk:18443/fun192.mp3"
         },
         {
-            name: "Rádio Anténa Rock",
-            logo: "stations/images-europe/slovakia/Rádio Anténa Rock.png",
-            url: "http://stream.antenarock.sk/antena-hi.mp3"
+            name: "Rádio 7",
+            logo: "stations/images-europe/slovakia/Rádio 7.png",
+            url: "https://play.radio7.sk/128"
+        },
+        {
+            name: "Rádio Best FM",
+            logo: "stations/images-europe/slovakia/Rádio Best FM.png",
+            url: "http://stream2.bestfm.sk/128.mp3"
         },
         {
             name: "Rádio Expres",
             logo: "stations/images-europe/slovakia/Rádio Expres.png",
-            url: "https://stream.expres.sk/128.mp3?aw_0_req.gdpr=false"
+            url: "https://stream.bauermedia.sk/128.mp3"
         },
         {
             name: "Rádio Jemné",
-            logo: "stations/images-europe/slovakia/Rádio Jemné.jpg",
+            logo: "stations/images-europe/slovakia/Rádio Jemné.png",
             url: "http://stream.jemne.sk/jemne-hi.mp3"
         },
         {
+            name: "Rádio Košice",
+            logo: "stations/images-europe/slovakia/Rádio Košice.png",
+            url: "https://stream.21.sk/radiokosice-128.mp3"
+        },
+        {
+            name: "Rádio Lumen",
+            logo: "stations/images-europe/slovakia/Rádio Lumen.png",
+            url: "https://audio.lumen.sk/live128.mp3"
+        },
+        {
             name: "Rádio Vlna",
-            logo: "stations/images-europe/slovakia/Rádio Vlna.jpg",
-            url: "https://stream.radioservices.sk/vlna-hi.mp3"
+            logo: "stations/images-europe/slovakia/Rádio Vlna.png",
+            url: "https://stream.radiovlna.sk/vlna-hi.mp3"
+        },
+        {
+            name: "Rádio WOW",
+            logo: "stations/images-europe/slovakia/Rádio WOW.png",
+            url: "http://stream.sepia.sk:8000/wow320.mp3"
         },
     ],
     "slovenia": [
