@@ -1598,7 +1598,7 @@ var stations = {
         {
             name: "Max 92.5",
             logo: "stations/images-america/casper/Max 92.5.png",
-            url: "http://bmg.streamguys1.com/kmxw"
+            url: "https://ice23.securenetsystems.net/KMXW"
         },
         {
             name: "My Country 95.5",
@@ -1613,7 +1613,7 @@ var stations = {
         {
             name: "100.5 KTED",
             logo: "stations/images-america/casper/100.5 KTED.png",
-            url: "https://bmg.streamguys1.com/kted"
+            url: "https://ice23.securenetsystems.net/KTED"
         },
         {
             name: "104.7 KISS FM",
@@ -1623,7 +1623,7 @@ var stations = {
         {
             name: "KOOL 105.5",
             logo: "stations/images-america/casper/KOOL 105.5.png",
-            url: "https://bmg.streamguys1.com/kzql"
+            url: "https://ice23.securenetsystems.net/KZQL"
         },
         {
             name: "107.9 Jack FM",
@@ -4433,7 +4433,7 @@ var stations = {
         {
             name: "Studio 100.9",
             logo: "stations/images-america/indio/Studio 100.9.png",
-            url: "https://shaincast.caster.fm:12645/listen.mp3?authnbf0451baa76ab69abcbff66d9ef39b32"
+            url: "https://shaincast.caster.fm:12645/listen.mp3?authne9987d985f17b7ec5442bbe00bef0867"
         },
         {
             name: "101.3 The Mix",
@@ -5499,9 +5499,19 @@ var stations = {
             url: "https://primary.moodyradiostream.org/kmbi.mp3"
         },
         {
-            name: "News Talk 104.7",
-            logo: "stations/images-america/lewiston/News Talk 104.7.png",
-            url: "https://ice8.securenetsystems.net/KQQQAM"
+            name: "News Talk 102.1",
+            logo: "stations/images-america/lewiston/News Talk 102.1.png",
+            url: "http://107.182.234.197:7801/stream"
+        },
+        {
+            name: "New Country 104.3",
+            logo: "stations/images-america/lewiston/New Country 104.3.png",
+            url: "http://107.182.234.197:7803/stream"
+        },
+        {
+            name: "HITS 104.7",
+            logo: "stations/images-america/lewiston/HITS 104.7.png",
+            url: "http://107.182.234.197:7805/stream"
         },
         {
             name: "NWPR News 1250",
@@ -6566,7 +6576,7 @@ var stations = {
         {
             name: "KSPB 91.9",
             logo: "stations/images-america/monterey/KSPB 91.9.png",
-            url: "http://50.206.39.25:88/broadwavehigh.mp3"
+            url: "https://livestream.kspb.org/kspbstream"
         },
         {
             name: "92.7 KTOM",
@@ -32726,8 +32736,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRXRFMAAC_SC"
         },
         {
-            name: "Mix 106.1",
-            logo: "stations/images-america/c2c/chattanooga_tn/Mix 106.1.png",
+            name: "106.1 The Eagle",
+            logo: "stations/images-america/c2c/chattanooga_tn/106.1 The Eagle.png",
             url: "http://199.91.56.36:8000/listen"
         },
         {
@@ -35544,6 +35554,11 @@ var stations_c2c = {
             name: "KOOL 105",
             logo: "stations/images-america/c2c/burlington_vt/KOOL 105.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKOLFMAAC_SC"
+        },
+        {
+            name: "The Penguin 105.7",
+            logo: "stations/images-america/c2c/burlington_vt/The Penguin 105.7.png",
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/WJKS"
         },
         {
             name: "105.9 The Radiator",
