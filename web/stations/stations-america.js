@@ -1114,9 +1114,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIZNFMAAC_SC"
         },
         {
-            name: "93.1 KTIK",
-            logo: "stations/images-america/boise/93.1 KTIK.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIKFMAAC_SC"
+            name: "93.1 KBOI",
+            logo: "stations/images-america/boise/93.1 KBOI.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAMAAC_SC"
         },
         {
             name: "94.1 The Voice",
@@ -1127,6 +1127,11 @@ var stations = {
             name: "94.9 The River",
             logo: "stations/images-america/boise/94.9 The River.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRVBFMAAC_SC"
+        },
+        {
+            name: "95.3 The Ticket",
+            logo: "stations/images-america/boise/95.3 The Ticket.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIKFMAAC_SC"
         },
         {
             name: "96.1 BOB FM",
@@ -1232,11 +1237,6 @@ var stations = {
             name: "107.9 Lite FM",
             logo: "stations/images-america/boise/107.9 Lite FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kxltfmaac-ibc3"
-        },
-        {
-            name: "670 KBOI",
-            logo: "stations/images-america/boise/670 KBOI.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAMAAC_SC"
         },
         {
             name: "790 KSPD",
@@ -21477,11 +21477,6 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/lake_charles_la/SuperTalk 1400.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAOKAMAAC_SC"
         },
-        {
-            name: "Sports Radio 1580",
-            logo: "stations/images-america/c2c/lake_charles_la/Sports Radio 1580.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXZZAMAAC_SC"
-        },
     ],
     "monroe_la": [
         {
@@ -27553,9 +27548,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
-            name: "Radio 103.9",
-            logo: "stations/images-america/c2c/nyc/Radio 103.9.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNBMFMAAC_SC"
+            name: "103.9 Talk FM",
+            logo: "stations/images-america/c2c/nyc/103.9 Talk FM.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFASAMAAC_SC"
         },
         {
             name: "Q104.3",
