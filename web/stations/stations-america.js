@@ -11214,8 +11214,8 @@ var stations = {
             url: "http://uprxstreamer.usu.edu:8000/stream"
         },
         {
-            name: "Radio Dixie 91.3",
-            logo: "stations/images-america/st_george/Radio Dixie 91.3.png",
+            name: "91.3 The Blaze",
+            logo: "stations/images-america/st_george/91.3 The Blaze.png",
             url: "https://stream.radio.dixie.edu/kxds.mp3"
         },
         {
