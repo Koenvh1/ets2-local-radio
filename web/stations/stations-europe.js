@@ -3476,7 +3476,7 @@ var stations = {
         {
             name: "Rádio Comercial",
             logo: "stations/images-europe/portugal/Rádio Comercial.png",
-            url: "https://mcrwowza3.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8"
+            url: "https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8"
         },
         {
             name: "Rádio Renascença",
