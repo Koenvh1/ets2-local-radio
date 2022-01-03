@@ -479,11 +479,6 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KXXO"
         },
         {
-            name: "KSWB 840",
-            logo: "stations/images-america/astoria/KSWB 840.png",
-            url: "http://stream.radiojar.com/6ahprpus6p5tv"
-        },
-        {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
@@ -578,11 +573,6 @@ var stations = {
             name: "104.7 KCMB",
             logo: "stations/images-america/baker_city/104.7 KCMB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMBFM_SC"
-        },
-        {
-            name: "Supertalk 1490",
-            logo: "stations/images-america/baker_city/Supertalk 1490.png",
-            url: "http://209.58.143.143:8000/klbm-live"
         },
     ],
     "bakersfield": [
@@ -2100,7 +2090,7 @@ var stations = {
         {
             name: "KYRS 88.1",
             logo: "stations/images-america/colville/KYRS 88.1.png",
-            url: "http://www.ophanim.net:7170/;"
+            url: "https://stream.pacificaservice.org:9000/kyrs_128"
         },
         {
             name: "CBC Radio One 94.9",
@@ -2738,7 +2728,7 @@ var stations = {
         {
             name: "New Country 93",
             logo: "stations/images-america/eugene/New Country 93.png",
-            url: "http://www.ophanim.net:9170/;"
+            url: "https://www.ophanim.net:8444/s/9170"
         },
         {
             name: "93.7 KPNW",
@@ -6787,7 +6777,7 @@ var stations = {
         {
             name: "New Country 93",
             logo: "stations/images-america/eugene/New Country 93.png",
-            url: "http://www.ophanim.net:9170/;"
+            url: "https://www.ophanim.net:8444/s/9170"
         },
         {
             name: "94.5 Mix FM",
