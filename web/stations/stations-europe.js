@@ -1405,27 +1405,27 @@ var stations = {
         {
             name: "Absolut Bella",
             logo: "stations/images-europe/germany/Absolut Bella.png",
-            url: "https://absolutradio.stream24.net/absolut-bella.mp3"
+            url: "https://absolut-bella.live-sm.absolutradio.de/absolut-bella"
         },
         {
             name: "Absolut HOT",
             logo: "stations/images-europe/germany/Absolut HOT.png",
-            url: "https://sec-absolut.hoerradar.de/absolutradio-hot.mp3"
+            url: "https://absolut-hot.live-sm.absolutradio.de/absolut-hot"
         },
         {
             name: "Absolut Oldie Classics",
             logo: "stations/images-europe/germany/Absolut Oldie Classics.png",
-            url: "https://absolutradio.stream24.net/absolut-oldie-classics.mp3"
+            url: "https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics"
         },
         {
             name: "Absolut Relax",
             logo: "stations/images-europe/germany/Absolut Relax.png",
-            url: "https://sec-absolut.hoerradar.de/absolutradio-relax.mp3"
+            url: "https://absolut-relax.live-sm.absolutradio.de/absolut-relax"
         },
         {
             name: "Absolut TOP",
             logo: "stations/images-europe/germany/Absolut TOP.png",
-            url: "https://frontend.streamonkey.net/absolut-top"
+            url: "https://absolut-top.live-sm.absolutradio.de/absolut-top"
         },
         {
             name: "Antenne Bayern",
@@ -1445,7 +1445,7 @@ var stations = {
         {
             name: "ERF Plus",
             logo: "stations/images-europe/germany/ERF Plus.png",
-            url: "https://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3"
+            url: "https://addrad.io/44599kb"
         },
         {
             name: "Femotion Radio",
