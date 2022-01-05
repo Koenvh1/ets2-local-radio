@@ -3877,7 +3877,7 @@ var stations = {
         },
         {
             name: "Fun Rádio",
-            logo: "stations/images-europe/slovakia/Fun Rádio.png",
+            logo: "stations/images-europe/slovakia/Fun rádio.png",
             url: "https://stream.funradio.sk:18443/fun192.mp3"
         },
         {
@@ -3898,7 +3898,7 @@ var stations = {
         {
             name: "Rádio Jemné",
             logo: "stations/images-europe/slovakia/Rádio Jemné.png",
-            url: "http://stream.jemne.sk/jemne-hi.mp3"
+            url: "https://stream.bauermedia.sk/jemne-hi.mp3"
         },
         {
             name: "Rádio Košice",
@@ -3918,7 +3918,7 @@ var stations = {
         {
             name: "Rádio WOW",
             logo: "stations/images-europe/slovakia/Rádio WOW.png",
-            url: "http://stream.sepia.sk:8000/wow320.mp3"
+            url: "https://radioserver.online:9816/radiowow.mp3"
         },
     ],
     "slovenia": [
