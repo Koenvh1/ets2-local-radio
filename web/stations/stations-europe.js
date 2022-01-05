@@ -4859,7 +4859,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "https://ais.absoluteradio.co.uk/absoluteradiohigh.aac"
+            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac"
         },
         {
             name: "Capital FM",
