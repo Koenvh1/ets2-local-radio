@@ -165,7 +165,7 @@ var stations = {
         {
             name: "radio 88.6",
             logo: "stations/images-europe/austria/Radio 88.6.png",
-            url: "https://radio886.fluidstream.eu/886_live.mp3"
+            url: "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
         },
         {
             name: "WELLE 1",
