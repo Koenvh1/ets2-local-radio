@@ -16,17 +16,17 @@ var stations = {
         {
             name: "Radio Tirana 1",
             logo: "stations/images-europe/albania/Radio Tirana 1.png",
-            url: "http://149.202.220.47:8888/radiotirana1"
+            url: "https://radiolive.rtsh.dev/radiotirana1"
         },
         {
             name: "Radio Tirana 2",
             logo: "stations/images-europe/albania/Radio Tirana 2.png",
-            url: "http://149.202.220.47:8888/radiotirana2"
+            url: "https://radiolive.rtsh.dev/radiotirana2"
         },
         {
             name: "Radio Tirana 3",
             logo: "stations/images-europe/albania/Radio Tirana 3.png",
-            url: "http://149.202.220.47:8888/radiotirana3"
+            url: "https://radiolive.rtsh.dev/radiotirana3"
         },
         {
             name: "Club FM",
@@ -100,12 +100,12 @@ var stations = {
         {
             name: "Andorra Difusió RNA",
             logo: "stations/images-europe/andorra/AndorraDifusió.png",
-            url: "http://videos.rtva.ad:1935/live/rna/playlist.m3u8"
+            url: "https://videos.rtva.ad/live/rna/playlist.m3u8?wowzatokenstarttime=1641413701&wowzatokenendtime=1641435301&wowzatokenhash=x7mi2sITURVPla_43sEI3XsBMs2C7E--DlbPGfC6n6w="
         },
         {
             name: "Andorra Difusió AM",
             logo: "stations/images-europe/andorra/AndorraDifusió.png",
-            url: "http://videos.rtva.ad:1935/live/am/playlist.m3u8"
+            url: "https://videos.rtva.ad/live/am/playlist.m3u8?wowzatokenstarttime=1641413926&wowzatokenendtime=1641435526&wowzatokenhash=86-dVbB_R1iLVMSwDbWGNw27Xk3-8hBB63PavT04iIM="
         },
         /*
         {
@@ -225,27 +225,27 @@ var stations = {
         {
             name: "1 канал",
             logo: "stations/images-europe/belarus/1 канал.jpg",
-            url: "https://stream.hoster.by/tvrbyradio/radio1/icecast.audio"
+            url: "https://stream2.datacenter.by/1kanal"
         },
         {
             name: "Канал Культура",
             logo: "stations/images-europe/belarus/Канал Культура.jpg",
-            url: "https://stream.hoster.by/tvrbyradio/cultura/icecast.audio"
+            url: "https://stream2.datacenter.by/kultura"
         },
         {
             name: "Радиус-FM",
             logo: "stations/images-europe/belarus/Радиус-FM.png",
-            url: "https://stream.hoster.by/tvrbyradio/radius_main/icecast.audio"
+            url: "https://stream2.datacenter.by/radiusfm_main"
         },
         {
             name: "Радыё Беларусь",
             logo: "stations/images-europe/belarus/Радыё Беларусь.png",
-            url: "https://stream.hoster.by/tvrbyradio/belarus/icecast.audio"
+            url: "https://stream2.datacenter.by/belarus"
         },
         {
             name: "Радио Сталіца",
             logo: "stations/images-europe/belarus/Радио Сталіца.jpg",
-            url: "https://stream.hoster.by/tvrbyradio/stalica/icecast.audio"
+            url: "https://stream2.datacenter.by/stalica"
         },
         {
             name: "Радио BA",
@@ -981,17 +981,17 @@ var stations = {
         {
             name: "Retro FM",
             logo: "stations/images-europe/estonia/Retro FM.png",
-            url: "https://sky.babahhcdn.com/RETRO"
+            url: "https://stream.skymedia.ee/live/RETRO"
         },
         {
             name: "Ruskoe Radio",
             logo: "stations/images-europe/estonia/Ruskoe Radio.png",
-            url: "https://skyplus.babahhcdn.com/RR"
+            url: "https://stream.skymedia.ee/live/RR"
         },
         {
             name: "Sky Plus",
             logo: "stations/images-europe/estonia/Sky Plus.png",
-            url: "https://sky.babahhcdn.com/SKYPLUS"
+            url: "https://stream.skymedia.ee/live/SKYPLUS"
         },
         {
             name: "Star FM",
@@ -2507,7 +2507,7 @@ var stations = {
         {
             name: "FMרדיוס 100",
             logo: "stations/images-europe/israel/FMרדיוס 100.png",
-            url: "http://100fm.streamgates.net/Radios100Fm"
+            url: "https://cp.multix.co.il/100FmLiveVideo/index.m3u8"
         },
     ],
     "italy": [
