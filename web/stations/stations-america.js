@@ -412,8 +412,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "La Zeta 106.3",
-            logo: "stations/images-america/socorro/La Zeta 106.3.png",
+            name: "Exitos 106.3",
+            logo: "stations/images-america/socorro/Exitos 106.3.png",
             url: "https://ice42.securenetsystems.net/KDLWFM"
         },
         {
@@ -9788,8 +9788,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc297/hls.m3u8"
         },
         {
-            name: "1440 KVON",
-            logo: "stations/images-america/santa_rosa_ca/1440 KVON.png",
+            name: "Mega Mix 1440",
+            logo: "stations/images-america/santa_rosa_ca/Mega Mix 1440.png",
             url: "http://ice10.securenetsystems.net/KVON"
         },
     ],
@@ -10876,8 +10876,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "La Zeta 106.3",
-            logo: "stations/images-america/socorro/La Zeta 106.3.png",
+            name: "Exitos 106.3",
+            logo: "stations/images-america/socorro/Exitos 106.3.png",
             url: "https://ice42.securenetsystems.net/KDLWFM"
         },
         {
@@ -30420,9 +30420,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOHD3AAC_SC"
         },
         {
-            name: "Alice 96.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Alice 96.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQOBFMAAC_SC"
+            name: "The Eagle 96.9",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/The Eagle 96.9.png",
+            url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
             name: "97.7 The Hawk",
@@ -30538,11 +30538,6 @@ var stations_c2c = {
             name: "1560 The Franchise 2",
             logo: "stations/images-america/c2c/oklahoma_city_ok/1560 The Franchise 2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC_SC"
-        },
-        {
-            name: "1640 The Eagle",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/1640 The Eagle.png",
-            url: "https://ice8.securenetsystems.net/KZLS"
         },
     ],
     "tulsa": [
@@ -32656,8 +32651,8 @@ var stations_c2c = {
             url: "https://s6.voscast.com:7163/stream"
         },
         {
-            name: "Groove 93",
-            logo: "stations/images-america/c2c/chattanooga_tn/Groove 93.png",
+            name: "G93",
+            logo: "stations/images-america/c2c/chattanooga_tn/G93.png",
             url: "https://live.wostreaming.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
         },
         {
@@ -36903,6 +36898,11 @@ var stations_c2c = {
             name: "The Breeze 100.7-HD2",
             logo: "stations/images-america/0_general_logos/The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+        },
+        {
+            name: "The 'Sha 101FM",
+            logo: "stations/images-america/c2c/milwaukee_wi/The 'Sha 101FM.png",
+            url: "https://ice23.securenetsystems.net/WAUK"
         },
         {
             name: "101.7 The Truth",

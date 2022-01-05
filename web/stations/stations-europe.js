@@ -3588,118 +3588,149 @@ var stations = {
     ],
     "russia": [
         {
-            name: "Радио России",
-            logo: "stations/images-europe/russia/Радио России.png",
-            url: "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
+            name: "Радио России - Radio Rossii",
+            logo: "stations/images-europe/russia/Радио России - Radio Rossii.png",
+            url: "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
         },
         {
-            name: "Радио Маяк",
-            logo: "stations/images-europe/russia/Радио Маяк.png",
+            name: "Маяк - Mayak",
+            logo: "stations/images-europe/russia/Маяк - Mayak.png",
             url: "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps"
         },
         {
-            name: "Радио Культура",
-            logo: "stations/images-europe/russia/Радио Культура.png",
-            url: "http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps"
+            name: "Авторадио - Avtoradio",
+            logo: "stations/images-europe/russia/Авторадио - Avtoradio.png",
+            url: "https://pub0202.101.ru:8443/stream/air/aac/64/100"
         },
         {
-            name: "Авторадио",
-            logo: "stations/images-europe/russia/Авторадио.png",
-            url: "http://pub0101.101.ru:8000/stream/reg/mp3/128/region_avto_tz_0"
+            name: "Comedy Radio",
+            logo: "stations/images-europe/russia/Comedy Radio.png",
+            url: "https://pub0201.101.ru:8443/stream/air/aac/64/202"
         },
         {
-            name: "Детское Радио",
-            logo: "stations/images-europe/russia/Детское Радио.png",
-            url: "http://pub0201.101.ru:8000/stream/air/aac/64/199"
+            name: "Детское Радио - Detskoe Radio",
+            logo: "stations/images-europe/russia/Детское Радио - Detskoe Radio.png",
+            url: "https://pub0201.101.ru:8443/stream/air/aac/64/199"
         },
         {
-            name: "Дорожное радио",
-            logo: "stations/images-europe/russia/Дорожное радио.png",
-            url: "http://dorognoe.hostingradio.ru:8000/dorognoe"
-        },
-        {
-            name: "Европа Плюс",
-            logo: "stations/images-europe/russia/Европа Плюс.png",
-            url: "http://ep128server.streamr.ru:8030/ep128"
-        },
-        {
-            name: "Наше Радио",
-            logo: "stations/images-europe/russia/Наше Радио.gif",
-            url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
-        },
-        {
-            name: "Новое Радио",
-            logo: "stations/images-europe/russia/Новое Радио.png",
-            url: "http://emgspb.hostingradio.ru/novoespb128.mp3"
-        },
-        {
-            name: "Комеди Радио",
-            logo: "stations/images-europe/russia/Комеди радио.png",
-            url: "http://pub0201.101.ru:8000/stream/air/aac/64/202"
-        },
-        /*
-        {
-            name: "Радио Ваня",
-            logo: "stations/images-europe/russia/Радио Ваня.png",
-            url: "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
-        },
-        */
-        /*
-        {
-            name: "Радио Дача",
-            logo: "stations/images-europe/russia/Радио Дача.png",
-            url: "http://stream.radiodacha.ru/14_dacha_56?type=.aac&UID=4C8B9B2415CF97BEB64E0A5DF985DD3F"
-        },
-         */
-        {
-            name: "Радио Maximum",
-            logo: "stations/images-europe/russia/Радио Maximum.jpg",
-            url: "https://maximum.hostingradio.ru/maximum96.aacp"
-        },
-        {
-            name: "Радио Родных Дорог",
-            logo: "stations/images-europe/russia/Радио Родных Дорог.svg",
-            url: "http://stream1.radiord.ru:8000/live96.aac"
-        },
-        {
-            name: "Радио Рекорд",
-            logo: "stations/images-europe/russia/Радио Рекорд.png",
-            url: "https://radiorecord.hostingradio.ru/rr_main96.aacp"
-        },
-        {
-            name: "Радио Шансон",
-            logo: "stations/images-europe/russia/Радио Шансон.png",
-            url: "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8"
-        },
-        {
-            name: "Радио DFM",
-            logo: "stations/images-europe/russia/Радио DFM.svg",
+            name: "DFM",
+            logo: "stations/images-europe/russia/DFM.png",
             url: "https://dfm.hostingradio.ru/dfm96.aacp"
         },
         {
-            name: "Радио ENERGY",
-            logo: "stations/images-europe/russia/Радио ENERGY.png",
+            name: "Дорожное FM - Dorozhnoe FM",
+            logo: "stations/images-europe/russia/Дорожное FM - Dorozhnoe FM.png",
+            url: "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8"
+        },
+        {
+            name: "Европа Плюс - Europa Plus",
+            logo: "stations/images-europe/russia/Европа Плюс - Europa Plus.png",
+            url: "https://hls-01-regions.emgsound.ru/11_msk/playlist.m3u8"
+        },
+        {
+            name: "ENERGY",
+            logo: "stations/images-europe/russia/ENERGY.png",
             url: "http://ic6.101.ru:8000/stream/air/aac/64/99"
         },
         {
-            name: "Ретро FM",
-            logo: "stations/images-europe/russia/Ретро FM.png",
-            url: "http://hls-01-retro.emgsound.ru/12/playlist.m3u8"
+            name: "Хит FM - HIT FM",
+            logo: "stations/images-europe/russia/Хит FM - HIT FM.png",
+            url: "https://hitfm.hostingradio.ru/hitfm96.aacp"
         },
         {
-            name: "Русское Радио",
-            logo: "stations/images-europe/russia/Русское Радио.png",
+            name: "Юмор FM - Humor FM",
+            logo: "stations/images-europe/russia/Юмор FM - Humor FM.png",
+            url: "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6"
+        },
+        {
+            name: "Love Radio",
+            logo: "stations/images-europe/russia/Love Radio.png",
+            url: "https://stream.n340.com/12_love_64"
+        },
+        {
+            name: "НАШЕ Радио - Nashe Radio",
+            logo: "stations/images-europe/russia/НАШЕ Радио - Nashe Radio.png",
+            url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
+        },
+        {
+            name: "Новое Радио - New Radio",
+            logo: "stations/images-europe/russia/Новое Радио - New Radio.png",
+            url: "https://icecast-newradio.cdnvideo.ru/newradio3"
+        },
+        {
+            name: "Radio 7",
+            logo: "stations/images-europe/russia/Radio 7.png",
+            url: "https://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8"
+        },
+        {
+            name: "Радио АСТВ - Radio ASTV",
+            logo: "stations/images-europe/russia/Радио АСТВ - Radio ASTV.png",
+            url: "https://misato.ru-hoster.com:8000/stream"
+        },
+        {
+            name: "Радио Шансон - Radio Chanson",
+            logo: "stations/images-europe/russia/Радио Шансон - Radio Chanson.png",
+            url: "https://chanson.hostingradio.ru:8041/chanson128.mp3"
+        },
+        {
+            name: "Радио Дача - Radio Dacha",
+            logo: "stations/images-europe/russia/Радио Дача - Radio Dacha.png",
+            url: "https://stream.radiodacha.ru/14_dacha_64"
+        },
+        {
+            name: "Радио Кп - Radio KP",
+            logo: "stations/images-europe/russia/Радио Кп - Radio KP.png",
+            url: "https://kpradio.hostingradio.ru:8000/64"
+        },
+        {
+            name: "Маруся Фм - Marusya FM",
+            logo: "stations/images-europe/russia/Маруся Фм - Marusya FM.png",
+            url: "https://radio-holding.ru:9433/marusya_default"
+        },
+        {
+            name: "Радио Мир - Radio Mir",
+            logo: "stations/images-europe/russia/Радио Мир - Radio Mir.png",
+            url: "https://icecast-mirtv.cdnvideo.ru/radio_mir128"
+        },
+        {
+            name: "Radio Monte Carlo",
+            logo: "stations/images-europe/russia/Radio Monte Carlo.png",
+            url: "https://montecarlo.hostingradio.ru/montecarlo96.aacp"
+        },
+        {
+            name: "Radio Record",
+            logo: "stations/images-europe/russia/Radio Record.png",
+            url: "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8"
+        },
+        {
+            name: "Радио ВАНЯ - Radio Vanya",
+            logo: "stations/images-europe/russia/Радио ВАНЯ - Radio Vanya.png",
+            url: "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
+        },
+        {
+            name: "Радио ВЕРА - Radio Vera",
+            logo: "stations/images-europe/russia/Радио ВЕРА - Radio Vera.png",
+            url: "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
+        },
+        {
+            name: "Ретро FM - Retro FM",
+            logo: "stations/images-europe/russia/Ретро FM - Retro FM.png",
+            url: "https://hls-01-retro.emgsound.ru/12/playlist.m3u8"
+        },
+        {
+            name: "Русское Радио - Ruskoe Radio",
+            logo: "stations/images-europe/russia/Русское Радио - Ruskoe Radio.png",
             url: "https://rusradio.hostingradio.ru/rusradio96.aacp"
         },
         {
-            name: "Эхо Москвы",
-            logo: "stations/images-europe/russia/Эхо Москвы.svg",
-            url: "http://ice912.echo.msk.ru:9120/stream"
+            name: "Серебряный Дождь - Silver Rain",
+            logo: "stations/images-europe/russia/Серебряный Дождь - Silver Rain.png",
+            url: "https://silverrain.hostingradio.ru/silver128.mp3"
         },
         {
-            name: "Юмор FM",
-            logo: "stations/images-europe/russia/Юмор FM.png",
-            url: "http://ic4.101.ru:8000/a102?d5cc"
+            name: "Вести FM - Vesti FM",
+            logo: "stations/images-europe/russia/Вести FM - Vesti FM.png",
+            url: "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps"
         },
     ],
     "saudia": [
