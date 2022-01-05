@@ -1,4 +1,3 @@
-//window.open("http:" + TuneIn.payload.Station.broadcast.StreamUrl)
 var stations = {
     "aland": [
         {
