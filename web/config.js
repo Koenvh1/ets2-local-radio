@@ -9,7 +9,7 @@
 
 var g_skinConfig = {
     "radius": 7500,                         //What the base radius (broadcasting range) for all cities is in meters.
-    "threshold": {                           //How much closer you need to be to a different country to switch to that country (in meters)
+    "threshold": {                           //How much better the reception needs to be in a different country/city to switch [0-1]
         "ets2": 0.15,
         "ats": 0.15
     },
