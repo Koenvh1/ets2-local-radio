@@ -20161,18 +20161,23 @@ var stations_c2c = {
     "greatbend_ks": [
         {
             name: "Radio Kansas 90.9",
-            logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/Radio Kansas.png",
+            url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
         },
         {
             name: "NewGrass Valley 90.9-HD2",
-            logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
+            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
         },
         {
-            name: "The Breeze 90.9-HD3",
-            logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
+            name: "Kansas Breeze 90.9-HD3",
+            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
+            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
+        },
+        {
+            name: "Radio Kansas Jazz 90.9-HD4",
+            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
+            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
             name: "My 93.1",
@@ -20208,18 +20213,23 @@ var stations_c2c = {
     "hays": [
         {
             name: "Radio Kansas 90.9",
-            logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/Radio Kansas.png",
+            url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
         },
         {
             name: "NewGrass Valley 90.9-HD2",
-            logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
+            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
         },
         {
-            name: "The Breeze 90.9-HD3",
-            logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
+            name: "Kansas Breeze 90.9-HD3",
+            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
+            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
+        },
+        {
+            name: "Radio Kansas Jazz 90.9-HD4",
+            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
+            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
             name: "HPPR 91.7",
@@ -20312,18 +20322,23 @@ var stations_c2c = {
     "salina_ks": [
         {
             name: "Radio Kansas 89.5",
-            logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/Radio Kansas.png",
+            url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
         },
         {
             name: "NewGrass Valley 89.5-HD2",
-            logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
+            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
         },
         {
-            name: "The Breeze 89.5-HD3",
-            logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
+            name: "Kansas Breeze 89.5-HD3",
+            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
+            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
+        },
+        {
+            name: "Radio Kansas Jazz 89.5-HD4",
+            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
+            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
             name: "92.7 The Zoo",
@@ -20476,18 +20491,23 @@ var stations_c2c = {
         },
         {
             name: "Radio Kansas 90.1",
-            logo: "stations/images-america/c2c/wichita_ks/Radio Kansas 90.1.png",
-            url: "http://198.241.60.214:1935/RK/HD1.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/Radio Kansas.png",
+            url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
         },
         {
             name: "NewGrass Valley 90.1-HD2",
-            logo: "stations/images-america/c2c/wichita_ks/NewGrass Valley 90.1-HD2.png",
-            url: "http://198.241.60.214:1935/RK/HD2.stream/playlist.m3u8"
+            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
+            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
         },
         {
-            name: "The Breeze 90.1-HD3",
-            logo: "stations/images-america/c2c/wichita_ks/The Breeze 90.1-HD3.png",
-            url: "http://198.241.60.214:1935/RK/HD3.stream/playlist.m3u8"
+            name: "Kansas Breeze 90.1-HD3",
+            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
+            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
+        },
+        {
+            name: "Radio Kansas Jazz 90.1-HD4",
+            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
+            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
             name: "ESPN Wichita 92.3",
@@ -23224,11 +23244,6 @@ var stations_c2c = {
             name: "1230 WTKG",
             logo: "stations/images-america/c2c/grand_rapids_mi/1230 WTKG.png",
             url: "https://stream.revma.ihrhls.com/zc1177/hls.m3u8"
-        },
-        {
-            name: "Real Oldies 1480",
-            logo: "stations/images-america/c2c/grand_rapids_mi/Real Oldies 1480.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGVUAM_SC"
         },
     ],
     "lansing_mi": [
