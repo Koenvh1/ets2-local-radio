@@ -37074,7 +37074,7 @@ var stations_c2c = {
     ],
 };
 
-var stations_canadream = {
+var stations_canada = {
     "baiecomeau": [
         {
             name: "CBC Radio One 93.7 FM",
@@ -42789,6 +42789,6 @@ var stations_caribbean = {
 
 stations = $.extend(stations, stations_mexico);
 stations = $.extend(stations, stations_c2c);
-stations = $.extend(stations, stations_canadream);
+stations = $.extend(stations, stations_canada);
 stations = $.extend(stations, stations_caribbean);
 stations = $.extend(stations, stations_greatamerica);
