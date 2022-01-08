@@ -2855,7 +2855,7 @@ var stations = {
         {
             name: "KSLG 93.1",
             logo: "stations/images-america/eureka/KSLG 93.1.png",
-            url: "http://lostcoast.streamguys.us/kslg-hi"
+            url: "http://lostcoast.streamguys.us/kslg"
         },
         {
             name: "94.1 The Lounge",
@@ -3240,7 +3240,7 @@ var stations = {
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://live.wostreaming.net/direct/espn-networkmp3-48"
+            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
         },
         {
             name: "780 KAZM",
@@ -42725,7 +42725,7 @@ var stations_caribbean = {
         {
             name: "ESPN Radio 100.7-HD2",
             logo: "stations/images-america/caribbean/puerto_rico/sanjuan/ESPN Radio 100.7-HD2.png",
-            url: "https://live.wostreaming.net/direct/espn-networkmp3-48"
+            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
         },
         {
             name: "HOT 102",
