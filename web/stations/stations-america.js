@@ -10435,7 +10435,7 @@ var stations = {
         {
             name: "KIRO 97.3",
             logo: "stations/images-america/seattle/KIRO 97.3.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
+            url: "https://dai.google.com/linear/hls/pa/event/7HG97CeYSlCFykhK9JWiig/stream/6c40bf2e-9362-4bb0-a531-8b533196d950:GRQ/master.m3u8"
         },
         {
             name: "Latter-day Saints Channel 97.3-HD2",
@@ -10469,7 +10469,7 @@ var stations = {
         },
         {
             name: "99.9 KISW",
-            logo: "stations/images-america/seattle/99.9 KISW_50years.png",
+            logo: "stations/images-america/seattle/99.9 KISW.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KISWFMAAC_SC"
         },
         {
@@ -10580,7 +10580,7 @@ var stations = {
         {
             name: "710 ESPN",
             logo: "stations/images-america/seattle/710 ESPN.png",
-            url: "https://multix-x4.akamaized.net/ESPN/Live/playlist.m3u8"
+            url: "https://espn.akamaized.net/hls/live/2033987/ESPN/master.m3u8"
         },
         {
             name: "770 KTTH",

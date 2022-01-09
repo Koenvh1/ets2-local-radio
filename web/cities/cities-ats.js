@@ -495,7 +495,7 @@ var country_properties = {
         name: "Olympia",
         name_english: "Olympia",
         code: "us-wa",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "omak": {
         name: "Omak",
@@ -717,7 +717,7 @@ var country_properties = {
         name: "Seattle",
         name_english: "Seattle",
         code: "us-wa",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "show_low": {
         name: "Show Low",
@@ -1110,7 +1110,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "olympia": {
-        relative_whitenoise: 0.65
+        relative_whitenoise: 0.85
     },
     "omak": {
         relative_whitenoise: 0.85
@@ -1221,7 +1221,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "seattle": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.70
     },
     "show_low": {
         relative_whitenoise: 0.80
@@ -7949,7 +7949,7 @@ var country_properties_canada = {
         name: "Hope",
         name_english: "Hope",
         code: "ca-bc",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "houstoncan": {
         name: "Houston",
@@ -8312,7 +8312,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "hope": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "houstoncan": {
         relative_whitenoise: 0.95
@@ -8441,7 +8441,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "vancouver_bc": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.70
     },
     "virden": {
         relative_whitenoise: 0.95
@@ -8967,7 +8967,7 @@ var cities_canada = [
         "gameName": "vancouver_bc",
         "realName": "Vancouver",
         "country": "bc",
-        "x": "-99466.8",
+        "x": "-100466.8",
         "y": "75.6241",
         "z": "-73646.3"
     },
