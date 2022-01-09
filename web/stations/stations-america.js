@@ -33716,7 +33716,7 @@ var stations_c2c = {
         {
             name: "102.7 The Vibe",
             logo: "stations/images-america/c2c/austin_tx/102.7 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2AAC_SC"
         },
         {
             name: "103.1 Austin’s 80s Station",
@@ -33727,11 +33727,6 @@ var stations_c2c = {
             name: "103.5 BOB FM",
             logo: "stations/images-america/c2c/austin_tx/103.5 BOB FM.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAFMAAC_SC"
-        },
-        {
-            name: "Mega 103.5-HD2",
-            logo: "stations/images-america/c2c/austin_tx/Mega 103.5-HD2.png",
-            url: "https://atsradio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2AAC_SC"
         },
         {
             name: "The Horn 104.9",
@@ -33752,6 +33747,11 @@ var stations_c2c = {
             name: "107.1 La Z",
             logo: "stations/images-america/c2c/austin_tx/107.1 La Z.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFMAAC_SC"
+        },
+        {
+            name: "Latino 107.1-HD2",
+            logo: "stations/images-america/c2c/austin_tx/Latino 107.1-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
         },
         {
             name: "1300 The Zone",
