@@ -21855,6 +21855,11 @@ var stations_c2c = {
     ],
     "bangor": [
         {
+            name: "WHCF 88.5",
+            logo: "stations/images-america/c2c/bangor_me/WHCF 88.5.png",
+            url: "https://ic2.sslstream.com/whcf-fm"
+        },
+        {
             name: "WHSN 89.3",
             logo: "stations/images-america/c2c/bangor_me/WHSN 89.3.png",
             url: "https://ice7.securenetsystems.net/WHSN"
@@ -21863,6 +21868,11 @@ var stations_c2c = {
             name: "WERU 89.9",
             logo: "stations/images-america/c2c/bangor_me/WERU 89.9.png",
             url: "http://pacificaservice.org:8000/weru_128"
+        },
+        {
+            name: "Relevant Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
         },
         {
             name: "Maine Public Radio 90.9",
@@ -21885,9 +21895,19 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wezqfmaac-ibc3"
         },
         {
+            name: "Solution FM 93.3",
+            logo: "stations/images-america/c2c/bangor_me/Solution FM 93.3.png",
+            url: "https://ic2.sslstream.com/whmx-fm"
+        },
+        {
             name: "94.1 The Wave",
             logo: "stations/images-america/c2c/bangor_me/94.1 The Wave.png",
             url: "https://ais-sa1.streamon.fm/7672_48k.aac"
+        },
+        {
+            name: "KISS FM 94.5",
+            logo: "stations/images-america/c2c/bangor_me/KISS FM 94.5.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/blueberry-wksqfmaac-ibc1"
         },
         {
             name: "I-95",
@@ -21898,6 +21918,16 @@ var stations_c2c = {
             name: "96.1 WGUY",
             logo: "stations/images-america/c2c/bangor_me/96.1 WGUY.png",
             url: "https://ais-sa1.streamon.fm/7673_48k.aac"
+        },
+        {
+            name: "The Bear 97.1",
+            logo: "stations/images-america/c2c/bangor_me/The Bear 97.1.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/blueberry-wbfbfmaac-ibc1"
+        },
+        {
+            name: "WJCX 99.5",
+            logo: "stations/images-america/c2c/bangor_me/WJCX 99.5.png",
+            url: "https://ice7.securenetsystems.net/WJCX"
         },
         {
             name: "100.3 WKIT",
@@ -21915,9 +21945,24 @@ var stations_c2c = {
             url: "http://ice6.securenetsystems.net/WZON"
         },
         {
+            name: "K-LOVE 101.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "HOT 102.9",
             logo: "stations/images-america/c2c/portland_me/HOT 104.7.png",
             url: "https://ice9.securenetsystems.net/WHTP"
+        },
+        {
+            name: "BIG 104 FM",
+            logo: "stations/images-america/c2c/bangor_me/BIG 104 FM.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/blueberry-wabkfmaac-ibc1"
+        },
+        {
+            name: "WTOS 105.3",
+            logo: "stations/images-america/c2c/bangor_me/WTOS 105.3.png",
+            url: "https://atsradio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/blueberry-wtosfmaac-ibc1"
         },
         {
             name: "Q106.5",
@@ -30835,8 +30880,8 @@ var stations_c2c = {
             url: "http://sc1200.c2174.fast-serv.com/listen"
         },
         {
-            name: "WQLN Radio 91.3",
-            logo: "stations/images-america/c2c/erie_pa/WQLN Radio 91.3.png",
+            name: "WQLN 91.3",
+            logo: "stations/images-america/c2c/erie_pa/WQLN 91.3.png",
             url: "https://www.wqln.org:8443/"
         },
         {
@@ -30898,6 +30943,11 @@ var stations_c2c = {
             name: "Money Radio 107.1",
             logo: "stations/images-america/c2c/erie_pa/Money Radio 107.1.png",
             url: "https://radio.bd.psu.edu:8501/wpse"
+        },
+        {
+            name: "FOX Sports 1330",
+            logo: "stations/images-america/c2c/erie_pa/FOX Sports 1330.png",
+            url: "https://stream.revma.ihrhls.com/zc8289/hls.m3u8"
         },
         {
             name: "Jet Radio 1400",
