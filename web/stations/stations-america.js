@@ -195,8 +195,8 @@ var stations = {
             url: "http://crystalout.surfernetwork.com:8001/KRZA-FM_MP3"
         },
         {
-            name: "Radio Bilingue 89.1",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 89.1",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },/*
         {
@@ -582,8 +582,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFMAAC_SC"
         },
         {
-            name: "Radio Bilingue 90.1",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 90.1",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -769,8 +769,8 @@ var stations = {
             url: "https://streaming.live365.com/a48408"
         },
         {
-            name: "Radio Bilingue 99.5",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 99.5",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -1231,8 +1231,8 @@ var stations = {
     ],
     "brawley": [
         {
-            name: "Radio Bilingue 88.7",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 88.7",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -2580,8 +2580,8 @@ var stations = {
     ],
     "ehrenberg": [
         {
-            name: "Radio Bilingue 88.5",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 88.5",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -2833,9 +2833,14 @@ var stations = {
             url: "http://jpr.streamguys.org/jpr-news"
         },
         {
+            name: "KVIP 89.3",
+            logo: "stations/images-america/burns/KVIP 89.5.png",
+            url: "https://ic1.sslstream.com/kvip"
+        },
+        {
             name: "KHSU 90.5",
             logo: "stations/images-america/eureka/KHSU 90.5.png",
-            url: "http://peace.str3am.com:6650/"
+            url: "https://peace.streamguys1.com:6655/live-aac"
         },
         {
             name: "Big Red Country 92.3",
@@ -2863,6 +2868,21 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KMDR"
         },
         {
+            name: "EZ 95.5",
+            logo: "stations/images-america/eureka/EZ 95.5.png",
+            url: "https://eurekaradio.streamguys1.com/live2"
+        },
+        {
+            name: "K-LOVE 95.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KZZH-LP 96.7",
+            logo: "stations/images-america/eureka/KZZH-LP 96.7.png",
+            url: "https://s2.stationplaylist.com:7090/listen.mp3"
+        },
+        {
             name: "Power 96.3",
             logo: "stations/images-america/eureka/Power 96.3.png",
             url: "https://us9.maindigitalstream.com/ssl/KFMI"
@@ -2878,9 +2898,19 @@ var stations = {
             url: "http://lostcoast.streamguys.us/kwpt-hi"
         },
         {
+            name: "Radio Bilingüe 103.3",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
+            url: "https://peace.streamguys1.com:6655/rbl-aac"
+        },
+        {
             name: "KHUM 104.7",
             logo: "stations/images-america/eureka/KHUM 104.7.png",
             url: "http://lostcoast.streamguys.us/khum-hi"
+        },
+        {
+            name: "KRFH 105.1",
+            logo: "stations/images-america/eureka/KRFH 105.1.png",
+            url: "http://amber.streamguys.com:4690/krfh"
         },
         {
             name: "Cool 105.5",
@@ -7162,8 +7192,8 @@ var stations = {
             url: "https://kbaq.streamguys1.com/kbaq_mp3_128"
         },
         {
-            name: "Radio Bilingue 89.5-HD2",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 89.5-HD2",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -7914,8 +7944,8 @@ var stations = {
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
-            name: "Radio Bilingue 88.9",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 88.9",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -34830,8 +34860,8 @@ var stations_c2c = {
     ],
     "presidio": [
         {
-            name: "Radio Bilingue 88.1",
-            logo: "stations/images-america/0_general_logos/Radio Bilingue.png",
+            name: "Radio Bilingüe 88.1",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
@@ -35220,8 +35250,8 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KVLJ"
         },
         {
-            name: "KLUB 106.9",
-            logo: "stations/images-america/c2c/victoria_tx/KLUB 106.9.png",
+            name: "KLUB Tejano 106.9",
+            logo: "stations/images-america/c2c/victoria_tx/KLUB Tejano 106.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klubfmaac-ibc3"
         },
         {
@@ -35951,8 +35981,8 @@ var stations_c2c = {
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7713_128k.aac"
         },
         {
-            name: "G104.3",
-            logo: "stations/images-america/c2c/richmond_va/G104.3.png",
+            name: "Classic Country 104.3",
+            logo: "stations/images-america/c2c/richmond_va/Classic Country 104.3.png",
             url: "https://atsradio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7711_128k.aac"
         },
         {

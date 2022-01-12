@@ -4503,12 +4503,6 @@ var country_properties_c2c = {
         code: "us-pa",
         relative_radius: 1.0
     },
-    "bloomsburg": {
-        name: "bloomsburg",
-        name_english: "bloomsburg",
-        code: "us-pa",
-        relative_radius: 1.0
-    },
     "dubois_pa": {
         name: "dubois_pa",
         name_english: "dubois_pa",
@@ -5599,9 +5593,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "allentown": {
-        relative_whitenoise: 0.95
-    },
-    "bloomsburg": {
         relative_whitenoise: 0.95
     },
     "dubois_pa": {
@@ -7275,14 +7266,6 @@ var cities_c2c = [
         "x": "87413.7",
         "y": "38.8426",
         "z": "-19170.9"
-    },
-    {
-        "gameName": "bloomsburg",
-        "realName": "Bloomsburg",
-        "country": "pennsylvania",
-        "x": "82490.5",
-        "y": "22.8942",
-        "z": "-20639.1"
     },
     {
         "gameName": "dubois_pa",
