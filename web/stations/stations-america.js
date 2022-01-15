@@ -29764,9 +29764,24 @@ var stations_c2c = {
             url: "http://backbonenetworks.streamguys.com/dayton.mp3"
         },
         {
+            name: "K-LOVE 90.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "91.3 WYSO",
             logo: "stations/images-america/c2c/dayton_oh/91.3 WYSO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYSOFM_SC"
+        },
+        {
+            name: "92.1 WROU",
+            logo: "stations/images-america/c2c/dayton_oh/92.1 WROU.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wroufmaac-ibc4"
+        },
+        {
+            name: "92.9 Jack FM",
+            logo: "stations/images-america/c2c/dayton_oh/92.9 Jack FM.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wgtzfmaac-ibc4"
         },/*
         {
             name: "FM94.5",
@@ -29819,9 +29834,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
         },
         {
+            name: "101.5 HANK FM",
+            logo: "stations/images-america/c2c/dayton_oh/101.5 HANK FM.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wclifmaac-ibc4"
+        },
+        {
             name: "WDAO 102.3",
             logo: "stations/images-america/c2c/dayton_oh/WDAO 102.3.png",
             url: "https://ais-sa1.streamon.fm/7204_24k.aac"
+        },
+        {
+            name: "RadioU 102.5",
+            logo: "stations/images-america/0_general_logos/RadioU.png",
+            url: "https://s5.reliastream.com/proxy/live?mp=/stream"
         },
         {
             name: "HOT 102.9",
@@ -29834,9 +29859,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1789/hls.m3u8"
         },
         {
+            name: "WGNZ 104.3",
+            logo: "stations/images-america/c2c/dayton_oh/WGNZ 104.3.png",
+            url: "https://shout2.brnstream.com/proxy/wgnz?mp=/stream"
+        },
+        {
             name: "104.7 WTUE",
             logo: "stations/images-america/c2c/dayton_oh/104.7 WTUE.png",
             url: "https://stream.revma.ihrhls.com/zc1785/hls.m3u8"
+        },
+        {
+            name: "WWSU 106.9",
+            logo: "stations/images-america/c2c/dayton_oh/WWSU 106.9.png",
+            url: "https://server.wwsu1069.org/stream"
         },
         {
             name: "MIX 107.7",
@@ -29862,6 +29897,16 @@ var stations_c2c = {
             name: "BIN 1340",
             logo: "stations/images-america/c2c/dayton_oh/BIN 1340.png",
             url: "https://stream.revma.ihrhls.com/zc5114/hls.m3u8"
+        },
+        {
+            name: "ESPN 1410",
+            logo: "stations/images-america/c2c/dayton_oh/ESPN 1410.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wingamaac-ibc4"
+        },
+        {
+            name: "Real Roots Radio 1500",
+            logo: "stations/images-america/c2c/dayton_oh/Real Roots Radio 1500.png",
+            url: "https://ice7.securenetsystems.net/WBZI"
         },
     ],
     "lima_oh": [
@@ -30366,7 +30411,7 @@ var stations_c2c = {
         },
         {
             name: "RadioU 90.5",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/RadioU 90.5.png",
+            logo: "stations/images-america/0_general_logos/RadioU.png",
             url: "https://s5.reliastream.com/proxy/live?mp=/stream"
         },
         {
