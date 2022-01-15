@@ -10610,7 +10610,7 @@ var stations = {
         {
             name: "710 ESPN",
             logo: "stations/images-america/seattle/710 ESPN.png",
-            url: "https://espn.akamaized.net/hls/live/2033987/ESPN/master.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROAMAAC_SC"
         },
         {
             name: "770 KTTH",
