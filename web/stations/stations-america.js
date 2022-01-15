@@ -10465,7 +10465,7 @@ var stations = {
         {
             name: "KIRO 97.3",
             logo: "stations/images-america/seattle/KIRO 97.3.png",
-            url: "https://dai.google.com/linear/hls/pa/event/7HG97CeYSlCFykhK9JWiig/stream/6c40bf2e-9362-4bb0-a531-8b533196d950:GRQ/master.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
         },
         {
             name: "Latter-day Saints Channel 97.3-HD2",
