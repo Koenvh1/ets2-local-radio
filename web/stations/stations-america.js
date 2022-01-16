@@ -2099,7 +2099,7 @@ var stations = {
         },
         {
             name: "Joy 104.5",
-            logo: "stations/images-america/spokane/All Christmas 104.5.png",
+            logo: "stations/images-america/spokane/Joy 104.5.png",
             url: "https://ice6.securenetsystems.net/KJYR"
         },
     ],
@@ -7473,7 +7473,7 @@ var stations = {
         {
             name: "ICI Musique 88.9",
             logo: "stations/images-america/canadream/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
         },
         {
             name: "KNKX 89.3",
@@ -9817,7 +9817,7 @@ var stations = {
         {
             name: "98.1 KBAC",
             logo: "stations/images-america/santa_fe/98.1 KBAC.png",
-            url: "https://58f14b372a413.streamlock.net:444/kbac/kbac.stream_aac/playlist.m3u8"
+            url: "http://shoutcast.brownrice.com:8000/;"
         },
     ],
     "san_diego": [
@@ -10049,7 +10049,7 @@ var stations = {
         {
             name: "Más Flo 107.7",
             logo: "stations/images-america/mexico/tijuana/Más Flo 107.7.png",
-            url: "http://s1.audiorama.mx:6600/;"
+            url: "http://vsstreaming.com:8026/stream"
         },
         {
             name: "600 KOGO",
@@ -10122,11 +10122,6 @@ var stations = {
             name: "Bolly 92.3",
             logo: "stations/images-america/san_francisco/Bolly 92.3.png",
             url: "http://www.streamcontrol.net:12010/;"
-        },
-        {
-            name: "Radio Zindagi 92.3-HD2",
-            logo: "stations/images-america/san_francisco/Radio Zindagi 92.3-HD2.png",
-            url: "https://us9.maindigitalstream.com/ssl/RadioZindagi"
         },
         {
             name: "VCY America 92.7",
@@ -10347,6 +10342,11 @@ var stations = {
             name: "KEST 1450",
             logo: "stations/images-america/san_francisco/KEST 1450.png",
             url: "http://radiokest.serverroom.us:6670/stream.mp3"
+        },
+        {
+            name: "Radio Zindagi 1550",
+            logo: "stations/images-america/san_francisco/Radio Zindagi 1550.png",
+            url: "https://us9.maindigitalstream.com/ssl/RadioZindagi"
         },
         {
             name: "KDIA 1640",
@@ -11044,7 +11044,7 @@ var stations = {
         },
         {
             name: "Joy 104.5",
-            logo: "stations/images-america/spokane/All Christmas 104.5.png",
+            logo: "stations/images-america/spokane/Joy 104.5.png",
             url: "https://ice6.securenetsystems.net/KJYR"
         },
         {
@@ -23021,7 +23021,7 @@ var stations_c2c = {
         {
             name: "ICI Musique 103.9",
             logo: "stations/images-america/canadream/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
         },
         {
             name: "104.3 WOMC",
@@ -39940,7 +39940,7 @@ var stations_canada = {
         {
             name: "ICI Musique 90.3",
             logo: "stations/images-america/canadream/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OTOR0_TOR"
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
         },
         {
             name: "JAZZ.FM91",
