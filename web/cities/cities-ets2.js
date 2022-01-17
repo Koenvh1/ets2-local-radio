@@ -11904,7 +11904,6 @@ cities = cities.concat(cities_rsm); //Red Sea Map
 cities = cities.concat(cities_vm); //Volga Map
 cities = cities.concat(cities_sm); //Sibir Map
 cities = cities.concat(cities_vvm); //Viva Malta
-
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
