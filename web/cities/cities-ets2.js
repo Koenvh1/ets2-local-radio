@@ -9678,7 +9678,7 @@ var cities_yks_turkey = [
         "y": "100.402",
         "z": "90886.4"
     },
-   
+    {
         "gameName": "mugla",
         "realName": "Mugla",
         "country": "turkey",
