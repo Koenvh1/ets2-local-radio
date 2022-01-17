@@ -495,7 +495,7 @@ var country_properties = {
         name: "Olympia",
         name_english: "Olympia",
         code: "us-wa",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "omak": {
         name: "Omak",
@@ -717,7 +717,7 @@ var country_properties = {
         name: "Seattle",
         name_english: "Seattle",
         code: "us-wa",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "show_low": {
         name: "Show Low",
@@ -1110,7 +1110,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "olympia": {
-        relative_whitenoise: 0.65
+        relative_whitenoise: 0.85
     },
     "omak": {
         relative_whitenoise: 0.85
@@ -1221,7 +1221,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "seattle": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.70
     },
     "show_low": {
         relative_whitenoise: 0.80
@@ -4503,12 +4503,6 @@ var country_properties_c2c = {
         code: "us-pa",
         relative_radius: 1.0
     },
-    "bloomsburg": {
-        name: "bloomsburg",
-        name_english: "bloomsburg",
-        code: "us-pa",
-        relative_radius: 1.0
-    },
     "dubois_pa": {
         name: "dubois_pa",
         name_english: "dubois_pa",
@@ -5599,9 +5593,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "allentown": {
-        relative_whitenoise: 0.95
-    },
-    "bloomsburg": {
         relative_whitenoise: 0.95
     },
     "dubois_pa": {
@@ -7277,14 +7268,6 @@ var cities_c2c = [
         "z": "-19170.9"
     },
     {
-        "gameName": "bloomsburg",
-        "realName": "Bloomsburg",
-        "country": "pennsylvania",
-        "x": "82490.5",
-        "y": "22.8942",
-        "z": "-20639.1"
-    },
-    {
         "gameName": "dubois_pa",
         "realName": "DuBois",
         "country": "pennsylvania",
@@ -7830,7 +7813,7 @@ var cities_c2c = [
     },
 ];
 
-var country_properties_canadream = {
+var country_properties_canada = {
     "baiecomeau": {
         name: "Baie-Comeau",
         name_english: "Baie-Comeau",
@@ -7949,7 +7932,7 @@ var country_properties_canadream = {
         name: "Hope",
         name_english: "Hope",
         code: "ca-bc",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "houstoncan": {
         name: "Houston",
@@ -8253,7 +8236,7 @@ var country_properties_canadream = {
     }
 };
 
-var city_properties_canadream = {
+var city_properties_canada = {
     "baiecomeau": {
         relative_whitenoise: 0.95
     },
@@ -8312,7 +8295,7 @@ var city_properties_canadream = {
         relative_whitenoise: 0.95
     },
     "hope": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "houstoncan": {
         relative_whitenoise: 0.95
@@ -8441,7 +8424,7 @@ var city_properties_canadream = {
         relative_whitenoise: 0.95
     },
     "vancouver_bc": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.70
     },
     "virden": {
         relative_whitenoise: 0.95
@@ -8466,11 +8449,11 @@ var city_properties_canadream = {
     },
 };
 
-var cities_canadream = [
+var cities_canada = [
     {
         "gameName": "baiecomeau",
         "realName": "Baie-Comeau",
-        "country": "quebec",
+        "country": "qc",
         "x": "99059.4",
         "y": "112.98",
         "z": "-73027.1"
@@ -8478,7 +8461,7 @@ var cities_canadream = [
     {
         "gameName": "calgary",
         "realName": "Calgary",
-        "country": "alberta",
+        "country": "ab",
         "x": "-64088.6",
         "y": "225.559",
         "z": "-74325.2"
@@ -8486,7 +8469,7 @@ var cities_canadream = [
     {
         "gameName": "caraquet",
         "realName": "Caraquet",
-        "country": "newbrunswi",
+        "country": "nb",
         "x": "114593",
         "y": "86.7188",
         "z": "-69287.6"
@@ -8494,7 +8477,7 @@ var cities_canadream = [
     {
         "gameName": "chapleau",
         "realName": "Chapleau",
-        "country": "ontario",
+        "country": "on",
         "x": "48197.1",
         "y": "140.434",
         "z": "-53884.2"
@@ -8502,7 +8485,7 @@ var cities_canadream = [
     {
         "gameName": "dawsoncreek",
         "realName": "Dawson Creek",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-74949.1",
         "y": "98.7344",
         "z": "-106148"
@@ -8510,7 +8493,7 @@ var cities_canadream = [
     {
         "gameName": "deaselake",
         "realName": "Dease Lake",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-95251.7",
         "y": "98.5313",
         "z": "-129369"
@@ -8518,7 +8501,7 @@ var cities_canadream = [
     {
         "gameName": "dryden",
         "realName": "Dryden",
-        "country": "ontario",
+        "country": "on",
         "x": "12291.8",
         "y": "89.3789",
         "z": "-63082.2"
@@ -8526,7 +8509,7 @@ var cities_canadream = [
     {
         "gameName": "edmonton",
         "realName": "Edmonton",
-        "country": "alberta",
+        "country": "ab",
         "x": "-58262",
         "y": "160.844",
         "z": "-89326.9"
@@ -8534,7 +8517,7 @@ var cities_canadream = [
     {
         "gameName": "fortfrances",
         "realName": "Fort Frances",
-        "country": "ontario",
+        "country": "on",
         "x": "9220.64",
         "y": "89.3789",
         "z": "-55796.3"
@@ -8542,7 +8525,7 @@ var cities_canadream = [
     {
         "gameName": "fortmcmurray",
         "realName": "Fort McMurray",
-        "country": "alberta",
+        "country": "ab",
         "x": "-47067.2",
         "y": "50.4766",
         "z": "-107664"
@@ -8550,7 +8533,7 @@ var cities_canadream = [
     {
         "gameName": "fortnelson",
         "realName": "Fort Nelson",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-75233.3",
         "y": "98.5313",
         "z": "-124972"
@@ -8558,7 +8541,7 @@ var cities_canadream = [
     {
         "gameName": "fortsimpson",
         "realName": "Fort Simpson",
-        "country": "northterrr",
+        "country": "nt",
         "x": "-67255",
         "y": "98.5313",
         "z": "-141067"
@@ -8566,7 +8549,7 @@ var cities_canadream = [
     {
         "gameName": "fredericton",
         "realName": "Fredericton",
-        "country": "newbrunswi",
+        "country": "nb",
         "x": "112384",
         "y": "39.0586",
         "z": "-57236.5"
@@ -8574,7 +8557,7 @@ var cities_canadream = [
     {
         "gameName": "gaspe",
         "realName": "Gaspe",
-        "country": "quebec",
+        "country": "qc",
         "x": "113350",
         "y": "88.3594",
         "z": "-74955.3"
@@ -8582,7 +8565,7 @@ var cities_canadream = [
     {
         "gameName": "golden",
         "realName": "Golden",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-73410.9",
         "y": "264.496",
         "z": "-79297.7"
@@ -8590,7 +8573,7 @@ var cities_canadream = [
     {
         "gameName": "grandfalls",
         "realName": "Grand Falls",
-        "country": "newbrunswi",
+        "country": "nb",
         "x": "106470",
         "y": "46.3906",
         "z": "-63541.6"
@@ -8598,7 +8581,7 @@ var cities_canadream = [
     {
         "gameName": "halifax",
         "realName": "Halifax",
-        "country": "novascotia",
+        "country": "ns",
         "x": "126331",
         "y": "73.2773",
         "z": "-54553"
@@ -8606,7 +8589,7 @@ var cities_canadream = [
     {
         "gameName": "hearst",
         "realName": "Hearst",
-        "country": "ontario",
+        "country": "on",
         "x": "45405.4",
         "y": "104.34",
         "z": "-64762.7"
@@ -8614,7 +8597,7 @@ var cities_canadream = [
     {
         "gameName": "highlevel",
         "realName": "High Level",
-        "country": "alberta",
+        "country": "ab",
         "x": "-60917.7",
         "y": "98.5313",
         "z": "-120900"
@@ -8622,7 +8605,7 @@ var cities_canadream = [
     {
         "gameName": "hope",
         "realName": "Hope",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-94110.7",
         "y": "56.58",
         "z": "-71841.2"
@@ -8630,7 +8613,7 @@ var cities_canadream = [
     {
         "gameName": "houstoncan",
         "realName": "Houston",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-97567.9",
         "y": "98.5313",
         "z": "-104145"
@@ -8638,7 +8621,7 @@ var cities_canadream = [
     {
         "gameName": "iroquoisfall",
         "realName": "Iroquois Falls",
-        "country": "ontario",
+        "country": "on",
         "x": "57355.1",
         "y": "104.055",
         "z": "-60873.2"
@@ -8646,7 +8629,7 @@ var cities_canadream = [
     {
         "gameName": "jasper",
         "realName": "Jasper",
-        "country": "alberta",
+        "country": "ab",
         "x": "-73415",
         "y": "184.633",
         "z": "-88979.8"
@@ -8654,7 +8637,7 @@ var cities_canadream = [
     {
         "gameName": "kamloops",
         "realName": "Kamloops",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-85885.3",
         "y": "115.435",
         "z": "-78420.5"
@@ -8662,7 +8645,7 @@ var cities_canadream = [
     {
         "gameName": "kelowna",
         "realName": "Kelowna",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-85262.3",
         "y": "48.5546",
         "z": "-72796.7"
@@ -8670,7 +8653,7 @@ var cities_canadream = [
     {
         "gameName": "kindersley",
         "realName": "Kindersley",
-        "country": "saskatchew",
+        "country": "sk",
         "x": "-45923",
         "y": "101.059",
         "z": "-75881.9"
@@ -8678,7 +8661,7 @@ var cities_canadream = [
     {
         "gameName": "kingston",
         "realName": "Kingston",
-        "country": "ontario",
+        "country": "on",
         "x": "79248.8",
         "y": "104.355",
         "z": "-38968.6"
@@ -8686,7 +8669,7 @@ var cities_canadream = [
     {
         "gameName": "labradorcity",
         "realName": "Labrador City",
-        "country": "newfoundla",
+        "country": "nl",
         "x": "93507.1",
         "y": "42.5859",
         "z": "-93864.3"
@@ -8694,7 +8677,7 @@ var cities_canadream = [
     {
         "gameName": "laclabiche",
         "realName": "Lac La Biche",
-        "country": "alberta",
+        "country": "ab",
         "x": "-51299.1",
         "y": "58.4609",
         "z": "-96200.2"
@@ -8702,7 +8685,7 @@ var cities_canadream = [
     {
         "gameName": "latuque",
         "realName": "La Tuque",
-        "country": "quebec",
+        "country": "qc",
         "x": "86850.1",
         "y": "85.5508",
         "z": "-58882.9"
@@ -8710,7 +8693,7 @@ var cities_canadream = [
     {
         "gameName": "lillooet",
         "realName": "Lillooet",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-93234.8",
         "y": "108.098",
         "z": "-79834.4"
@@ -8718,7 +8701,7 @@ var cities_canadream = [
     {
         "gameName": "lloydminster",
         "realName": "Lloydminster",
-        "country": "saskatchew",
+        "country": "sk",
         "x": "-47007",
         "y": "178.246",
         "z": "-86748.3"
@@ -8726,7 +8709,7 @@ var cities_canadream = [
     {
         "gameName": "maniwaki",
         "realName": "Maniwaki",
-        "country": "quebec",
+        "country": "qc",
         "x": "76695.3",
         "y": "95.2305",
         "z": "-51041.1"
@@ -8734,7 +8717,7 @@ var cities_canadream = [
     {
         "gameName": "medicinehat",
         "realName": "Medicine Hat",
-        "country": "saskatchew",
+        "country": "sk",
         "x": "-48690.6",
         "y": "96.9609",
         "z": "-65890.8"
@@ -8742,7 +8725,7 @@ var cities_canadream = [
     {
         "gameName": "marathon",
         "realName": "Marathon",
-        "country": "ontario",
+        "country": "on",
         "x": "37156.5",
         "y": "104.055",
         "z": "-57067.3"
@@ -8750,7 +8733,7 @@ var cities_canadream = [
     {
         "gameName": "matane",
         "realName": "Matane",
-        "country": "quebec",
+        "country": "qc",
         "x": "103192",
         "y": "48.1836",
         "z": "-72119.8"
@@ -8758,7 +8741,7 @@ var cities_canadream = [
     {
         "gameName": "merrit",
         "realName": "Merrit",
-        "country": "britishcolumb",
+        "country": "bc",
         "x": "-90468.8",
         "y": "340.643",
         "z": "-75121"
@@ -8766,7 +8749,7 @@ var cities_canadream = [
     {
         "gameName": "moncton",
         "realName": "Moncton",
-        "country": "newbrunswi",
+        "country": "nb",
         "x": "118089",
         "y": "48.2109",
         "z": "-61184.6"
@@ -8774,7 +8757,7 @@ var cities_canadream = [
     {
         "gameName": "montreal",
         "realName": "Montreal",
-        "country": "quebec",
+        "country": "qc",
         "x": "88078.1",
         "y": "46.8359",
         "z": "-48357.2"
@@ -8782,7 +8765,7 @@ var cities_canadream = [
     {
         "gameName": "nakina",
         "realName": "Nakina",
-        "country": "ontario",
+        "country": "on",
         "x": "34124.8",
         "y": "104.055",
         "z": "-66400.7"
@@ -8790,7 +8773,7 @@ var cities_canadream = [
     {
         "gameName": "osoyoos",
         "realName": "Osoyoos",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-86504.2",
         "y": "83.5898",
         "z": "-67646.3"
@@ -8798,7 +8781,7 @@ var cities_canadream = [
     {
         "gameName": "ottawa",
         "realName": "Ottawa",
-        "country": "ontario",
+        "country": "on",
         "x": "81267",
         "y": "99.2305",
         "z": "-46320.4"
@@ -8806,7 +8789,7 @@ var cities_canadream = [
     {
         "gameName": "parrysound",
         "realName": "Parry Sound",
-        "country": "ontario",
+        "country": "on",
         "x": "65455.3",
         "y": "104.055",
         "z": "-41134.3"
@@ -8814,7 +8797,7 @@ var cities_canadream = [
     {
         "gameName": "pemberton",
         "realName": "Pemberton",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-97086.9",
         "y": "106.828",
         "z": "-78672.3"
@@ -8822,7 +8805,7 @@ var cities_canadream = [
     {
         "gameName": "princegeorge",
         "realName": "Prince George",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-87517.5",
         "y": "85.8359",
         "z": "-99375.6"
@@ -8830,7 +8813,7 @@ var cities_canadream = [
     {
         "gameName": "princerupert",
         "realName": "Prince Rupert",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-108895",
         "y": "88",
         "z": "-107909"
@@ -8838,7 +8821,7 @@ var cities_canadream = [
     {
         "gameName": "princeton",
         "realName": "Princeton",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-89911.4",
         "y": "117.077",
         "z": "-69829"
@@ -8846,7 +8829,7 @@ var cities_canadream = [
     {
         "gameName": "quebec",
         "realName": "Quebec",
-        "country": "quebec",
+        "country": "qc",
         "x": "93155.4",
         "y": "33.3398",
         "z": "-58398.7"
@@ -8854,7 +8837,7 @@ var cities_canadream = [
     {
         "gameName": "rdl",
         "realName": "Riviere-du-Loup",
-        "country": "quebec",
+        "country": "qc",
         "x": "98911.1",
         "y": "49.168",
         "z": "-64965.4"
@@ -8862,7 +8845,7 @@ var cities_canadream = [
     {
         "gameName": "regina",
         "realName": "Regina",
-        "country": "saskatchew",
+        "country": "sk",
         "x": "-31901.6",
         "y": "90.3281",
         "z": "-68350.9"
@@ -8870,7 +8853,7 @@ var cities_canadream = [
     {
         "gameName": "rouynnoranda",
         "realName": "Rouyn-Noranda",
-        "country": "quebec",
+        "country": "qc",
         "x": "64290.2",
         "y": "64.8164",
         "z": "-59556.8"
@@ -8878,7 +8861,7 @@ var cities_canadream = [
     {
         "gameName": "russel",
         "realName": "Russel",
-        "country": "manitob",
+        "country": "mb",
         "x": "-18438.4",
         "y": "103",
         "z": "-68912.5"
@@ -8886,7 +8869,7 @@ var cities_canadream = [
     {
         "gameName": "saguenay",
         "realName": "Saguenay",
-        "country": "quebec",
+        "country": "qc",
         "x": "91106.6",
         "y": "105.066",
         "z": "-66192.5"
@@ -8894,7 +8877,7 @@ var cities_canadream = [
     {
         "gameName": "saskatoon",
         "realName": "Saskatoon",
-        "country": "saskatchew",
+        "country": "sk",
         "x": "-37439.1",
         "y": "82.7734",
         "z": "-77226.7"
@@ -8902,7 +8885,7 @@ var cities_canadream = [
     {
         "gameName": "saultmarie",
         "realName": "Sault-Ste-Marie",
-        "country": "ontario",
+        "country": "on",
         "x": "46658.4",
         "y": "94.9297",
         "z": "-45949.8"
@@ -8910,7 +8893,7 @@ var cities_canadream = [
     {
         "gameName": "septiles",
         "realName": "Sept-iles",
-        "country": "quebec",
+        "country": "qb",
         "x": "103300",
         "y": "50",
         "z": "-80432.5"
@@ -8918,7 +8901,7 @@ var cities_canadream = [
     {
         "gameName": "stewart",
         "realName": "Stewart",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-102241",
         "y": "98.5313",
         "z": "-115701"
@@ -8926,7 +8909,7 @@ var cities_canadream = [
     {
         "gameName": "sudbury",
         "realName": "Sudbury",
-        "country": "ontario",
+        "country": "on",
         "x": "59362.2",
         "y": "87.5352",
         "z": "-47613.1"
@@ -8934,7 +8917,7 @@ var cities_canadream = [
     {
         "gameName": "squamish",
         "realName": "Squamish",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-101849",
         "y": "71.5388",
         "z": "-78880.2"
@@ -8942,7 +8925,7 @@ var cities_canadream = [
     {
         "gameName": "thunderbay",
         "realName": "Thunder Bay",
-        "country": "ontario",
+        "country": "on",
         "x": "25157.2",
         "y": "100.648",
         "z": "-54438.7"
@@ -8950,7 +8933,7 @@ var cities_canadream = [
     {
         "gameName": "toronto",
         "realName": "Toronto",
-        "country": "ontario",
+        "country": "on",
         "x": "67315",
         "y": "100.648",
         "z": "-33489.6"
@@ -8958,7 +8941,7 @@ var cities_canadream = [
     {
         "gameName": "truro",
         "realName": "Truro",
-        "country": "novascotia",
+        "country": "ns",
         "x": "126436",
         "y": "69.418",
         "z": "-59150.2"
@@ -8966,15 +8949,15 @@ var cities_canadream = [
     {
         "gameName": "vancouver_bc",
         "realName": "Vancouver",
-        "country": "britcolumb",
-        "x": "-99466.8",
+        "country": "bc",
+        "x": "-100466.8",
         "y": "75.6241",
         "z": "-73646.3"
     },
     {
         "gameName": "virden",
         "realName": "Virden",
-        "country": "manitob",
+        "country": "mb",
         "x": "-17350.5",
         "y": "37.8477",
         "z": "-63395.2"
@@ -8982,7 +8965,7 @@ var cities_canadream = [
     {
         "gameName": "watsonlake",
         "realName": "Watson Lake",
-        "country": "yukonn",
+        "country": "yt",
         "x": "-86524.3",
         "y": "129.629",
         "z": "-136995"
@@ -8990,7 +8973,7 @@ var cities_canadream = [
     {
         "gameName": "whitehorse",
         "realName": "Whitehorse",
-        "country": "yukonn",
+        "country": "yt",
         "x": "-99299",
         "y": "93.9961",
         "z": "-145242"
@@ -8998,7 +8981,7 @@ var cities_canadream = [
     {
         "gameName": "williamslake",
         "realName": "Williams Lake",
-        "country": "britcolumb",
+        "country": "bc",
         "x": "-89195.2",
         "y": "145.02",
         "z": "-88717.9"
@@ -9006,7 +8989,7 @@ var cities_canadream = [
     {
         "gameName": "winnipeg",
         "realName": "Winnipeg",
-        "country": "manitob",
+        "country": "mb",
         "x": "-3862.98",
         "y": "57.9648",
         "z": "-62793.3"
@@ -9014,7 +8997,7 @@ var cities_canadream = [
     {
         "gameName": "yarmouth",
         "realName": "Yarmouth",
-        "country": "novascotia",
+        "country": "ns",
         "x": "118775",
         "y": "74.4766",
         "z": "-48255.3"
@@ -9022,7 +9005,7 @@ var cities_canadream = [
     {
         "gameName": "yellowknife",
         "realName": "Yellowknife",
-        "country": "northterrr",
+        "country": "nt",
         "x": "-46836.9",
         "y": "88",
         "z": "-140606"
@@ -9539,9 +9522,6 @@ var cities_caribbean = [
       "z": "61340.7"
     },
 ];
-country_properties = $.extend(country_properties, country_properties_mexico);
-city_properties = $.extend(city_properties, city_properties_mexico);
-cities = cities.concat(cities_mexico);
 
 for (var key in country_properties_c2c) {
     if (!country_properties_c2c.hasOwnProperty(key)) continue;
@@ -9553,15 +9533,20 @@ for (var key in country_properties_c2c) {
     }
 }
 
+//Mexico
+country_properties = $.extend(country_properties, country_properties_mexico);
+city_properties = $.extend(city_properties, city_properties_mexico);
+cities = cities.concat(cities_mexico);
+
 //Uncomment the lines below to enable C2C
 cities = cities.concat(cities_c2c);
 country_properties = $.extend(country_properties, country_properties_c2c);
 city_properties = $.extend(city_properties, city_properties_c2c);
 
 //Uncomment the lines below to enable Canadream
-country_properties = $.extend(country_properties, country_properties_canadream);
-city_properties = $.extend(city_properties, city_properties_canadream);
-cities = cities.concat(cities_canadream);
+country_properties = $.extend(country_properties, country_properties_canada);
+city_properties = $.extend(city_properties, city_properties_canada);
+cities = cities.concat(cities_canada);
 
 //Uncomment the lines below to enable Great America
 country_properties = $.extend(country_properties, country_properties_greatamerica);

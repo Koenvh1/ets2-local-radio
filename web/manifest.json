@@ -3,7 +3,7 @@
   "short_name": "Local Radio",
   "display": "standalone",
   "background_color": "#3e3f3a",
-  "theme_color": "#2EBB1E",
+  "theme_color": "#39B54A",
   "description": "Plays radio from wherever you are.",
   "icons": [{
     "src": "icon.png",
