@@ -29620,8 +29620,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1749/hls.m3u8"
         },
         {
-            name: "jenY 107.3",
-            logo: "stations/images-america/c2c/cleveland_oh/jenY 107.3.png",
+            name: "107.3 Alternative Cleveland",
+            logo: "stations/images-america/c2c/cleveland_oh/107.3 Alternative Cleveland.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNWVFMAAC_SC"
         },
     ],
@@ -30831,8 +30831,8 @@ var stations_c2c = {
             url: "http://192.104.181.26:8000/stream"
         },
         {
-            name: "Latina FM 92.1",
-            logo: "stations/images-america/c2c/allentown_pa/Latina FM 92.1.png",
+            name: "Latina 92.1",
+            logo: "stations/images-america/c2c/allentown_pa/Latina 92.1.png",
             url: "https://cp.phpmystream.com/radioSSLnew/s/47"
         },
         {
@@ -30856,14 +30856,14 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCTOFMAAC_SC"
         },
         {
+            name: "Loud 98.5",
+            logo: "stations/images-america/c2c/allentown_pa/Loud 98.5.png",
+            url: "https://ice66.securenetsystems.net/WLEVHD4"
+        },
+        {
             name: "WVIA 99.3",
             logo: "stations/images-america/c2c/scranton_pa/WVIA 89.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVIAFMAAC_SC"
-        },
-        {
-            name: "Loud 99.5",
-            logo: "stations/images-america/c2c/allentown_pa/Loud 99.5.png",
-            url: "https://ice23.securenetsystems.net/WEST"
         },
         {
             name: "99.9 The Hawk",
@@ -31229,6 +31229,11 @@ var stations_c2c = {
             name: "HOT 106.7",
             logo: "stations/images-america/c2c/lancaster_pa/HOT 106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC"
+        },
+        {
+            name: "Mega 107.1",
+            logo: "stations/images-america/c2c/lancaster_pa/Mega 107.1.png",
+            url: "https://ice5.securenetsystems.net/WHOL"
         },
         {
             name: "Froggy 107.7",
@@ -34159,8 +34164,13 @@ var stations_c2c = {
     ],
     "dallas": [
         {
-            name: "88.5 KEOM",
-            logo: "stations/images-america/c2c/dallas_tx/88.5 KEOM.png",
+            name: "88.1 The One",
+            logo: "stations/images-america/c2c/dallas_tx/KEOM 88.5.png",
+            url: "http://stream.kntu.unt.edu:8000/kntulive.aac"
+        },
+        {
+            name: "KEOM 88.5",
+            logo: "stations/images-america/c2c/dallas_tx/KEOM 88.5.png",
             url: "https://live.wostreaming.net/manifest/mesquite-keomfmaac-ibc4"
         },
         {
@@ -34249,6 +34259,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLUVHD3AAC_SC"
         },
         {
+            name: "Zona MX 99.1",
+            logo: "stations/images-america/c2c/dallas_tx/Zona MX 99.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kfzofmaac-imc1"
+        },
+        {
             name: "99.5 The Wolf",
             logo: "stations/images-america/c2c/dallas_tx/99.5 The Wolf.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFMAAC_SC"
@@ -34284,6 +34299,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2815/hls.m3u8"
         },
         {
+            name: "102.5 El Pez",
+            logo: "stations/images-america/c2c/dallas_tx/102.5 El Pez.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC"
+        },
+        {
             name: "102.9 NOW",
             logo: "stations/images-america/c2c/dallas_tx/102.9 NOW.png",
             url: "https://stream.revma.ihrhls.com/zc2237/hls.m3u8"
@@ -34304,6 +34324,16 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXHD2AAC_SC"
         },
         {
+            name: "K104",
+            logo: "stations/images-america/c2c/dallas_tx/K104.png",
+            url: "https://ais-sa1.streamon.fm/7285_64k.aac"
+        },
+        {
+            name: "105.3 The Fan",
+            logo: "stations/images-america/c2c/dallas_tx/105.3 The Fan.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLDFMAAC_SC"
+        },
+        {
             name: "Smooth R&B 105.7",
             logo: "stations/images-america/c2c/dallas_tx/Smooth R&B 105.7.png",
             url: "http://krnb.streamon.fm:8000/KRNB-64k.aac"
@@ -34319,9 +34349,64 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
+            name: "La Ranchera 106.7",
+            logo: "stations/images-america/c2c/dallas_tx/La Ranchera 106.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KZZAFMAAC_SC"
+        },
+        {
+            name: "La Grande 107.5",
+            logo: "stations/images-america/c2c/dallas_tx/La Grande 107.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMVKFMAAC_SC"
+        },
+        {
+            name: "Fierro 107.5-HD2",
+            logo: "stations/images-america/c2c/dallas_tx/Fierro 107.5-HD2.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMVKHD2AAC_SC"
+        },
+        {
+            name: "DALE! 107.5-HD3",
+            logo: "stations/images-america/c2c/dallas_tx/DALE! 107.5-HD3.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMVKHD3AAC_SC"
+        },
+        {
+            name: "Latino Mix 107.9",
+            logo: "stations/images-america/c2c/dallas_tx/Latino Mix 107.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kdxxfmaac-imc1"
+        },
+        {
+            name: "Radio Caravan 700",
+            logo: "stations/images-america/c2c/dallas_tx/Radio Caravan 700.png",
+            url: "https://us3new.listen2myradio.com:2199/listen.php?port=8167&type=s1&mount=/stream"
+        },
+        {
+            name: "KKDA 730",
+            logo: "stations/images-america/c2c/dallas_tx/KKDA 730.png",
+            url: "https://us3new.listen2myradio.com:2199/listen.php?port=8167&type=s1&mount=/stream"
+        },
+        {
+            name: "The Truth 770",
+            logo: "stations/images-america/c2c/dallas_tx/The Truth 770.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/770AM_GOD_COUNTRYAAC_SC"
+        },
+        {
+            name: "BizTalkRadio 870",
+            logo: "stations/images-america/c2c/dallas_tx/BizTalkRadio 870.png",
+            url: "http://64.78.234.165:8030/BizTalkRadio"
+        },
+        {
             name: "1080 KRLD",
             logo: "stations/images-america/c2c/dallas_tx/1080 KRLD.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLDAMAAC_SC"
+        },
+        {
+            name: "1160 KBDT",
+            logo: "stations/images-america/c2c/dallas_tx/1160 KBDT.png",
+            url: "http://64.78.234.165:8030/BizTalkRadio"
+        },
+        {
+            name: "Republic Broadcasting Network 1140",
+            logo: "stations/images-america/c2c/dallas_tx/Republic Broadcasting Network 1140.png",
+            url: "http://216.240.133.177:2005/;"
         },
         {
             name: "Talk Radio 1190",
