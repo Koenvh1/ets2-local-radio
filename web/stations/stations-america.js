@@ -34165,7 +34165,7 @@ var stations_c2c = {
     "dallas": [
         {
             name: "88.1 The One",
-            logo: "stations/images-america/c2c/dallas_tx/KEOM 88.5.png",
+            logo: "stations/images-america/c2c/dallas_tx/88.1 The One.png",
             url: "http://stream.kntu.unt.edu:8000/kntulive.aac"
         },
         {
@@ -34376,7 +34376,7 @@ var stations_c2c = {
         {
             name: "Radio Caravan 700",
             logo: "stations/images-america/c2c/dallas_tx/Radio Caravan 700.png",
-            url: "https://us3new.listen2myradio.com:2199/listen.php?port=8167&type=s1&mount=/stream"
+            url: "https://stream.voxx.pro/radio/8260/radio.mp3"
         },
         {
             name: "KKDA 730",
