@@ -34399,9 +34399,9 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLDAMAAC_SC"
         },
         {
-            name: "1160 KBDT",
-            logo: "stations/images-america/c2c/dallas_tx/1160 KBDT.png",
-            url: "http://64.78.234.165:8030/BizTalkRadio"
+            name: "KBDT 1160",
+            logo: "stations/images-america/c2c/dallas_tx/KBDT 1160.png",
+            url: "http://173.193.205.96:7419/stream"
         },
         {
             name: "Republic Broadcasting Network 1140",
