@@ -21,6 +21,11 @@ var stations = {
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
+            name: "Timber Country 94.7",
+            logo: "stations/images-america/aberdeen/Timber Country 94.7.png",
+            url: "https://us2.streamingpulse.com/ssl/KBKW"
+        },
+        {
             name: "KIX 95.3",
             logo: "stations/images-america/aberdeen/KIX 95.3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kxxkfmaac-ibc4"
@@ -59,11 +64,6 @@ var stations = {
             name: "Sunny 102.1",
             logo: "stations/images-america/aberdeen/Sunny 102.1.png",
             url: "http://us2.maindigitalstream.com/ssl/KSWW"
-        },
-        {
-            name: "KBKW 103.5",
-            logo: "stations/images-america/aberdeen/KBKW 103.5.png",
-            url: "https://us2.streamingpulse.com/ssl/KBKW"
         },
         {
             name: "104.7 KDUX",
@@ -34577,6 +34577,11 @@ var stations_c2c = {
     ],
     "houston": [
         {
+            name: "AFR Talk 88.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
             name: "News 88.7",
             logo: "stations/images-america/c2c/houston_tx/News 88.7.png",
             url: "https://stream.houstonpublicmedia.org/news-aac"
@@ -34612,6 +34617,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KROIFMAAC_SC"
         },
         {
+            name: "The New 93Q",
+            logo: "stations/images-america/c2c/houston_tx/The New 93Q.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/hou929/hou929-sgplayer-aac"
+        },
+        {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/c2c/houston_tx/TUDN Radio 93.3.png",
             url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
@@ -34642,6 +34652,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXHD2AAC_SC"
         },
         {
+            name: "KTRU 96.1",
+            logo: "stations/images-america/c2c/houston_tx/KTRU 96.1.png",
+            url: "http://128.42.128.26/live"
+        },
+        {
             name: "MIX 96.5",
             logo: "stations/images-america/c2c/houston_tx/MIX 96.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KHMXFMAAC_SC"
@@ -34657,6 +34672,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KHMXHD3AAC_SC"
         },
         {
+            name: "Country Legends 97.1",
+            logo: "stations/images-america/c2c/houston_tx/Country Legends 97.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/hou971/hou971-sgplayer-aac"
+        },
+        {
             name: "ESPN 97.5",
             logo: "stations/images-america/c2c/houston_tx/ESPN 97.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC_SC"
@@ -34665,6 +34685,11 @@ var stations_c2c = {
             name: "97.9 The Box",
             logo: "stations/images-america/c2c/houston_tx/97.9 The Box.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBXXFMAAC_SC"
+        },
+        {
+            name: "La Raza 98.5",
+            logo: "stations/images-america/c2c/houston_tx/La Raza 98.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTJMFMAAC_SC"
         },
         {
             name: "SUNNY 99.1",
@@ -34687,19 +34712,14 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KILTHD3AAC_SC"
         },
         {
+            name: "100.7 The Word",
+            logo: "stations/images-america/c2c/houston_tx/100.7 The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKHTFMAAC_SC"
+        },
+        {
             name: "Mega 101",
             logo: "stations/images-america/c2c/houston_tx/Mega 101.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLOLFMAAC_SC"
-        },
-        {
-            name: "Rock 101 KLOL-HD2",
-            logo: "stations/images-america/c2c/houston_tx/Rock 101 KLOL-HD2.png",
-            url: "http://62.138.14.167:8000/Rock101KLOL128k.mp3/;"
-        },
-        {
-            name: "Power 101.5",
-            logo: "stations/images-america/c2c/houston_tx/Power 101.5.png",
-            url: "http://91.121.165.88:8246/stream"
         },
         {
             name: "Majic 102.1",
@@ -34707,9 +34727,24 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMJQFMAAC_SC"
         },
         {
-            name: "Rumba 102.5",
-            logo: "stations/images-america/c2c/houston_tx/Rumba 102.5.png",
-            url: "https://us10a.serverse.com/proxy/rumba?mp=/stream"
+            name: "Amazing 102.5",
+            logo: "stations/images-america/c2c/houston_tx/Amazing 102.5.png",
+            url: "https://ice41.securenetsystems.net/KMAZ"
+        },
+        {
+            name: "Qué Buena 102.9",
+            logo: "stations/images-america/c2c/houston_tx/Qué Buena 102.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kltnfmaac-imc1"
+        },
+        {
+            name: "103.5 HUM FM",
+            logo: "stations/images-america/c2c/houston_tx/103.5 HUM FM.png",
+            url: "https://ice10.securenetsystems.net/HUMFM"
+        },
+        {
+            name: "Air1 103.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "104.1 KRBE",
@@ -34717,9 +34752,34 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEFMAAC_SC"
         },
         {
+            name: "Latino Mix 104.9",
+            logo: "stations/images-america/c2c/houston_tx/Latino Mix 104.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kamafmaac-imc1"
+        },
+        {
             name: "Power 105.3",
             logo: "stations/images-america/c2c/houston_tx/Power 105.3.png",
             url: "http://96.73.119.50:8002/power1053"
+        },
+        {
+            name: "Amor 106.5",
+            logo: "stations/images-america/c2c/houston_tx/Amor 106.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kovefmaac-imc1"
+        },
+        {
+            name: "The Eagle 107.5",
+            logo: "stations/images-america/c2c/houston_tx/The Eagle 107.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ad-oom-cmg.streamguys1.com/hou1075/hou1075-sgplayer-aac"
+        },
+        {
+            name: "El Norte 107.9",
+            logo: "stations/images-america/c2c/houston_tx/El Norte 107.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KQQKFMAAC_SC"
+        },
+        {
+            name: "Sports Radio 610",
+            logo: "stations/images-america/c2c/houston_tx/Sports Radio 610.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KILTAMAAC_SC"
         },
         {
             name: "The Bet 650",
@@ -34727,8 +34787,13 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIKKAMAAC_SC"
         },
         {
-            name: "NewsRadio 740",
-            logo: "stations/images-america/c2c/houston_tx/NewsRadio 740.png",
+            name: "KSEV 700",
+            logo: "stations/images-america/c2c/houston_tx/KSEV 700.png",
+            url: "https://live.wostreaming.net/direct/ksevradio-ksevamaac-ibc1"
+        },
+        {
+            name: "740 KTRH",
+            logo: "stations/images-america/c2c/houston_tx/740 KTRH.png",
             url: "https://stream.revma.ihrhls.com/zc2285/hls.m3u8"
         },
         {
@@ -34736,6 +34801,31 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/houston_tx/SportsTalk 790.png",
             url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
         },
+        {
+            name: "Saigon Radio 900",
+            logo: "stations/images-america/c2c/houston_tx/Saigon Radio 900.png",
+            url: "https://ice5.securenetsystems.net/KREH"
+        },
+        {
+            name: "KPRC 950",
+            logo: "stations/images-america/c2c/houston_tx/KPRC 950.png",
+            url: "https://stream.revma.ihrhls.com/zc2277/hls.m3u8"
+        }, 
+        {
+            name: "AM 1070 The Answer",
+            logo: "stations/images-america/c2c/houston_tx/AM 1070 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNTHAMAAC_SC"
+        },
+        {
+            name: "Relevant Radio 1110",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+        },
+        {
+            name: "BIN 1320",
+            logo: "stations/images-america/c2c/houston_tx/BIN 1320.png",
+            url: "https://stream.revma.ihrhls.com/zc8820/hls.m3u8"
+        }, 
     ],
     "kerrville": [
         {
