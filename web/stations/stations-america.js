@@ -33849,9 +33849,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "102.7 The Vibe",
-            logo: "stations/images-america/c2c/austin_tx/102.7 The Vibe.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2AAC_SC"
+            name: "Mega 102.7",
+            logo: "stations/images-america/c2c/austin_tx/Mega 102.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
         },
         {
             name: "103.1 Austin’s 80s Station",
@@ -33889,12 +33889,17 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
         },
         {
+            name: "Relevant Radio 970",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+        },
+        {
             name: "1300 The Zone",
             logo: "stations/images-america/c2c/austin_tx/1300 The Zone.png",
             url: "https://stream.revma.ihrhls.com/zc2181/hls.m3u8"
         },
         {
-            name: "Talk Radio 1370",
+            name: "Talk 1370",
             logo: "stations/images-america/c2c/austin_tx/Talk Radio 1370.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KJCEAMAAC_SC"
         },
@@ -35267,6 +35272,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kvbhfmaac-imc2"
         },
         {
+            name: "Tejano 107.5-HD2",
+            logo: "stations/images-america/c2c/sanantonio_tx/Tejano 107.5-HD2.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kxtnfmaac-imc2"
+        },
+        {
             name: "AM 630 The Word",
             logo: "stations/images-america/c2c/sanantonio_tx/AM 630 The Word.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
@@ -35285,6 +35295,11 @@ var stations_c2c = {
             name: "930 AM The Answer",
             logo: "stations/images-america/c2c/sanantonio_tx/930 AM The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLUPAMAAC_SC"
+        },
+        {
+            name: "Relevant Radio 1160",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
         },
         {
             name: "1200 WOAI",
