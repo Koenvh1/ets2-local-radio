@@ -2672,24 +2672,54 @@ var stations = {
             url: "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
         },
         {
-            name: "Авторадио",
+            name: "Shalqar radiosy",
+            logo: "stations/images-europe/kazakhstan/Qazaq radiosy.png",
+            url: "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio"
+        },
+        {
+            name: "Авторадио Казахстан",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
-            url: "http://95.56.234.40:8080/AVTORADIO_256"
+            url: "http://95.56.234.40:8080/AVTORADIO_AAC"
+        },
+        {
+            name: "Dala FM",
+            logo: "stations/images-europe/kazakhstan/Dala FM.png",
+            url: "http://95.56.234.40:8080/DALA_128"
+        },
+        {
+            name: "Европа Плюс Казахстан",
+            logo: "stations/images-europe/kazakhstan/Европа Плюс - Europa Plus.png",
+            url: "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8"
+        },
+        {
+            name: "Love Radio",
+            logo: "stations/images-europe/kazakhstan/Love Radio.png",
+            url: "https://stream.gakku.tv:8443/love128.mp3"
+        },
+        {
+            name: "Радио Дача",
+            logo: "stations/images-europe/kazakhstan/Радио Дача.png",
+            url: "https://stream.gakku.tv:8443/dacha"
+        },
+        {
+            name: "Русское Радио Азия",
+            logo: "stations/images-europe/kazakhstan/Русское Радио Азия.png",
+            url: "https://rusradio.cdnqb.net/stream"
         },
         {
             name: "Radio NS",
             logo: "stations/images-europe/kazakhstan/Radio NS.png",
             url: "http://89.219.35.26:8000/radions"
-        },/*
+        },
         {
-            name: "Ретро FM",
-            logo: "stations/images-europe/kazakhstan/Ретро FM.png",
-            url: "http://s1.radioheart.ru:8001/retrofm-kz-128"
-        },*/
+            name: "Той Думан",
+            logo: "stations/images-europe/kazakhstan/Той Думан.png",
+            url: "https://stream.gakku.tv:8443/live.mp3"
+        },
         {
-            name: "Русское Радио Азия",
-            logo: "stations/images-europe/kazakhstan/Русское Радио Азия.png",
-            url: "http://31.148.22.35:9000/stream"
+            name: "Жұлдыз FM",
+            logo: "stations/images-europe/kazakhstan/Жұлдыз FM.png",
+            url: "http://91.201.214.229:8000/zhulduz"
         },
     ],
     "latvia": [
@@ -4001,7 +4031,7 @@ var stations = {
         {
             name: "Europa FM",
             logo: "stations/images-europe/spain/Europa FM.png",
-            url: "https://livefastly-webs.europafm.com/europafm/audio/chunklist.m3u8"
+            url: "https://live-audio.europafm.com/radio/europafm/master.m3u8"
         },
         {
             name: "esRadio",
