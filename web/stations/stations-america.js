@@ -1891,6 +1891,16 @@ var stations = {
     ],
     "colorado_springs_pueblo": [
         {
+            name: "KTPL Word 88.3",
+            logo: "stations/images-america/colorado_springs_pueblo/KTPL Word 88.3.png",
+            url: "https://stream.ktlf.radio/radio/8020/ktpl"
+        },
+        {
+            name: "The Legacy 88.3-HD2",
+            logo: "stations/images-america/colorado_springs_pueblo/The Legacy 88.3-HD2.png",
+            url: "https://stream.ktlf.radio/radio/8010//theLegacy"
+        },
+        {
             name: "KCME 88.7",
             logo: "stations/images-america/colorado_springs_pueblo/KCME 88.7.png",
             url: "https://ice9.securenetsystems.net/KCME"
@@ -2069,6 +2079,16 @@ var stations = {
             name: "KOA 850",
             logo: "stations/images-america/denver/KOA 94.1.png",
             url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
+        },
+        {
+            name: "Catholic Radio Network 1060",
+            logo: "stations/images-america/colorado_springs_pueblo/Catholic Radio Network 1060.png",
+            url: "https://ice24.securenetsystems.net/KRCN"
+        },
+        {
+            name: "Que Bueno 1280",
+            logo: "stations/images-america/colorado_springs_pueblo/Que Bueno 1280.png",
+            url: "http://ca3.rcast.net:8038/;stream.mp3"
         },
         {
             name: "XTRA Sports 1300",
