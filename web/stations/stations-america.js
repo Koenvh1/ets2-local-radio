@@ -14409,8 +14409,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6832/hls.m3u8"
         },
         {
-            name: "Nick 97.5",
-            logo: "stations/images-america/c2c/tuscaloosa_al/Nick 97.5.png",
+            name: "MeTV FM 97.5",
+            logo: "stations/images-america/c2c/tuscaloosa_al/MeTV FM 97.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wtughd3aac-ibc3"
         },
         {
@@ -33743,12 +33743,12 @@ var stations_c2c = {
             url: "https://kut.streamguys1.com/kuthd2-free.aac"
         },
         {
-            name: "KOOP Radio 91.7",
+            name: "KOOP Radio 91.7 (Day)",
             logo: "stations/images-america/c2c/austin_tx/KOOP Radio 91.7.png",
             url: "http://streaming.koop.org/stream.aac"
         },
         {
-            name: "KVRX 91.7",
+            name: "KVRX 91.7 (Night)",
             logo: "stations/images-america/c2c/austin_tx/KVRX 91.7.png",
             url: "https://kvrx.org/now_playing/stream"
         },

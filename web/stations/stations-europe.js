@@ -4251,7 +4251,7 @@ var stations = {
             name: "SR P4 Stockholm",
             logo: "stations/images-europe/sweden/Sveriges Radio P4.png",
             url: "http://http-live.sr.se/p4stockholm-mp3-192"
-        },/* -- Geoblocking for both stations --
+        },
         {
             name: "Bandit Rock",
             logo: "stations/images-europe/sweden/Bandit Rock.png",
@@ -4261,7 +4261,7 @@ var stations = {
             name: "Lugna Favoriter",
             logo: "stations/images-europe/sweden/Lugna Favoriter.png",
             url: "https://fm03-ice.stream.khz.se/fm03_mp3"
-        },*/
+        },
         {
             name: "Mix Megapol",
             logo: "stations/images-europe/sweden/Mix Megapol.png",
@@ -4271,22 +4271,22 @@ var stations = {
             name: "NRJ",
             logo: "stations/images-europe/sweden/Energy.png",
             url: "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp"
-        },/* Geoblocking
+        },
         {
             name: "RIX FM",
             logo: "stations/images-europe/sweden/Rix FM.png",
             url: "https://fm01-ice.stream.khz.se/fm01_mp3"
-        },*/
+        },
         {
             name: "Rockklassiker",
             logo: "stations/images-europe/sweden/Rockklassiker.png",
             url: "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp"
-        },/* - Geoblocking
+        },
         {
             name: "Star FM",
             logo: "stations/images-europe/sweden/Star FM.png",
             url: "http://fm05-ice.stream.khz.se/fm05_mp3"
-        },*/
+        },
         {
             name: "Vinyl FM",
             logo: "stations/images-europe/sweden/Vinyl FM.png",
