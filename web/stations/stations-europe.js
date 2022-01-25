@@ -1740,6 +1740,11 @@ var stations = {
     ],
     "germany-koeln": [
         {
+            name: "Antenne Düsseldorf",
+            logo: "stations/images-europe/germany-koeln/Antenne Düsseldorf.png",
+            url: "https://antennedus-ais-edge-4004-dus-dtag-cdn.cast.addradio.de/antennedus/live/mp3/high"
+        },
+        {
             name: "DOMRADIO",
             logo: "stations/images-europe/germany-koeln/DOMRADIO.png",
             url: "https://dom.audiostream.io/domradio/1000/mp3/128/domradio-rp.mp3"
@@ -1758,6 +1763,16 @@ var stations = {
             name: "Radio Köln",
             logo: "stations/images-europe/germany-koeln/Radio Köln.png",
             url: "https://radiokoeln-ais-edge-3003-fra-eco-cdn.cast.addradio.de/radiokoeln/live/mp3/high"
+        },
+        {
+            name: "Radio Neandertal",
+            logo: "stations/images-europe/germany-koeln/Radio Neandertal.png",
+            url: "https://neandertal-ais-edge-4005-dus-dtag-cdn.cast.addradio.de/neandertal/live/mp3/high"
+        },
+        {
+            name: "Radio Wuppertal",
+            logo: "stations/images-europe/germany-koeln/Radio Wuppertal.png",
+            url: "https://radiowuppertal-ais-edge-3004-fra-eco-cdn.cast.addradio.de/radiowuppertal/live/mp3/high"
         },
     ],
     "germany-mdr": [
@@ -2709,7 +2724,7 @@ var stations = {
         {
             name: "Radio NS",
             logo: "stations/images-europe/kazakhstan/Radio NS.png",
-            url: "http://89.219.35.26:8000/radions"
+            url: "https://icecast.ns.kz/radions"
         },
         {
             name: "Той Думан",
@@ -4710,6 +4725,11 @@ var stations = {
             url: "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8"
         },
         {
+            name: "Lig Radyo 92.3",
+            logo: "stations/images-europe/turkey/Lig Radyo 92.3.png",
+            url: "https://ligradyo.radyotvonline.net/ligradyo"
+        },
+        {
             name: "Meteorolojinin Sesi Radyosu",
             logo: "stations/images-europe/turkey/Meteorolojinin Sesi Radyosu.png",
             url: "http://radyomgm.canliyayinda.com/;stream.mp3"
@@ -4725,6 +4745,11 @@ var stations = {
             url: "https://rto.turkhosted.com/smil/smil:ntvradyo.smil/playlist.m3u8"
         },
         {
+            name: "Number 1",
+            logo: "stations/images-europe/turkey/Number 1.png",
+            url: "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
+        },
+        {
             name: "Pal Nostalji",
             logo: "stations/images-europe/turkey/Pal Nostalji.png",
             url: "http://shoutcast.radyogrup.com:1010/;stream/1"
@@ -4733,6 +4758,11 @@ var stations = {
             name: "Power FM",
             logo: "stations/images-europe/turkey/Power FM.png",
             url: "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
+        },
+        {
+            name: "Power Pop",
+            logo: "stations/images-europe/turkey/Power Pop.png",
+            url: "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8"
         },
         {
             name: "Power Türk",
