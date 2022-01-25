@@ -8190,7 +8190,7 @@ var country_properties_canada = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "ca-bc",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "virden": {
         name: "Virden",
@@ -8412,7 +8412,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "squamish": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "thunderbay": {
         relative_whitenoise: 0.95
@@ -8424,7 +8424,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "vancouver_bc": {
-        relative_whitenoise: 0.70
+        relative_whitenoise: 0.75
     },
     "virden": {
         relative_whitenoise: 0.95
@@ -8918,9 +8918,9 @@ var cities_canada = [
         "gameName": "squamish",
         "realName": "Squamish",
         "country": "bc",
-        "x": "-101849",
+        "x": "-101549",
         "y": "71.5388",
-        "z": "-78880.2"
+        "z": "-78990.2"
     },
     {
         "gameName": "thunderbay",
@@ -8952,7 +8952,7 @@ var cities_canada = [
         "country": "bc",
         "x": "-100466.8",
         "y": "75.6241",
-        "z": "-73646.3"
+        "z": "-72646.3"
     },
     {
         "gameName": "virden",
