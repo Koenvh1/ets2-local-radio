@@ -1893,9 +1893,9 @@ var stations = {
             url: "https://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3"
         },
         {
-            name: "NDR Plus",
-            logo: "stations/images-europe/germany-ndr/NDR Plus.png",
-            url: "https://icecast.ndr.de/ndr/ndrplus/live/mp3/128/stream.mp3"
+            name: "NDR Schlager",
+            logo: "stations/images-europe/germany-ndr/NDR Schlager.png",
+            url: "https://icecast.ndr.de/ndr/ndrschlager/live/mp3/128/stream.mp3"
         },
         {
             name: "NDR 2",
