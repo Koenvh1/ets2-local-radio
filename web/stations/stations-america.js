@@ -149,7 +149,7 @@ var stations = {
         },
         {
             name: "Alamo Sports + Talk 101.9",
-            logo: "stations/images-america/alamogordo/Alamo Sports + Talk 101.9.png",
+            logo: "stations/images-america/alamogordo/Alamo Sports_Talk 101.9.png",
             url: "https://ice41.securenetsystems.net/KRSYAM"
         },
         {
@@ -7384,7 +7384,7 @@ var stations = {
         {
             name: "102.9 KDIF-LP",
             logo: "stations/images-america/phoenix/102.9 KDIF-LP.png",
-            url: "https://us5freenew.listen2myradio.com/live.mp3?typeportmount=s1_21538_stream_625718680"
+            url: "https://us5freenew.listen2myradio.com/live.mp3?typeportmount=s1_21538"
         },
         {
             name: "La Tricolor 103.5",
@@ -25221,8 +25221,8 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/KDAA"
         },
         {
-            name: "HOT 104.9",
-            logo: "stations/images-america/c2c/rolla_mo/HOT 104.9.png",
+            name: "ESPN 104.9",
+            logo: "stations/images-america/c2c/rolla_mo/ESPN 104.9.png",
             url: "https://ice10.securenetsystems.net/POWER104"
         },
         {
@@ -28933,8 +28933,8 @@ var stations_c2c = {
             url: "http://radio74.ice.infomaniak.ch:80/radio74-high"
         },
         {
-            name: "96.5 The Fox",
-            logo: "stations/images-america/c2c/bismarck_nd/96.5 The Fox.png",
+            name: "96.5 The Walleye",
+            logo: "stations/images-america/c2c/bismarck_nd/96.5 The Walleye.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbyzfmaac-ibc3"
         },
         {
@@ -30335,9 +30335,9 @@ var stations_c2c = {
             url: "https://ice8.securenetsystems.net/KXLS"
         },
         {
-            name: "Alice 96.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Alice 96.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQOBFMAAC_SC"
+            name: "The Eagle 96.9",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/The Eagle 96.9.png",
+            url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
             name: "97.7 The Hawk",
@@ -30932,9 +30932,9 @@ var stations_c2c = {
             url: "https://wpsu-ice.streamguys1.com/wpsu1"
         },
         {
-            name: "POP 93.1",
+            name: "POP! 93.1",
             logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/WQYX"
+            url: "https://ice10.securenetsystems.net/WQYX"
         },
         {
             name: "Connect FM 96.7",
@@ -31002,11 +31002,6 @@ var stations_c2c = {
             name: "94.7 BOB FM",
             logo: "stations/images-america/c2c/erie_pa/94.7 BOB FM.png",
             url: "https://stream.revma.ihrhls.com/zc8295/hls.m3u8"
-        },
-        {
-            name: "iHeart Podcast 95.9",
-            logo: "stations/images-america/c2c/erie_pa/iHeart Podcast 95.9.png",
-            url: "https://stream.revma.ihrhls.com/zc8291/hls.m3u8"
         },
         {
             name: "Nash FM 97.9",
@@ -33924,7 +33919,7 @@ var stations_c2c = {
         },
         {
             name: "Talk 1370",
-            logo: "stations/images-america/c2c/austin_tx/Talk Radio 1370.png",
+            logo: "stations/images-america/c2c/austin_tx/Talk 1370.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KJCEAMAAC_SC"
         },
     ],
@@ -34153,7 +34148,7 @@ var stations_c2c = {
         {
             name: "Planet 102.3",
             logo: "stations/images-america/c2c/corpus_christi_tx/Planet 102.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice41.securenetsystems.net/KKPN"
+            url: "https://ice41.securenetsystems.net/KKPN"
         },
         {
             name: "Retro 104.1",
