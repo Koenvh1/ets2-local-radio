@@ -52,14 +52,17 @@ Can be found as `web/config.js`, follows JavaScript object syntax.
 #### radius
 What the base radius (broadcasting range) for all cities is in meters.
 
-#### treshold
-How much closer you need to be to a different country to switch to that country (in meters)
+#### threshold
+How much better the reception needs to be in a different country (ETS2)/city (ATS) to switch to that country/city. 0 switches immediately, 1 switches never.
 
 #### whitenoise
 Whether to play static when a station is far away
 
 #### transition-whitenoise
 Whether to play static when changing stations
+
+#### url-prefix
+The URL prefix for loading station images
 
 #### map
 What map you're using. Based on a file in the cities directory. Leave default if you do not know what you are doing.
