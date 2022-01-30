@@ -1296,7 +1296,7 @@ var cities = [
     {
         "gameName": "baggs",
         "realName": "Baggs",
-        "country": "wyoming",
+        "country": "baggs",
         "x": "-49498.6",
         "y": "106.1",
         "z": "-15309.5"
@@ -1304,7 +1304,7 @@ var cities = [
     {
         "gameName": "baker",
         "realName": "Baker",
-        "country": "california",
+        "country": "baker",
         "x": "-90919.7",
         "y": "83.7424",
         "z": "11180.3"
@@ -1312,7 +1312,7 @@ var cities = [
     {
         "gameName": "bakersfield",
         "realName": "Bakersfield",
-        "country": "california",
+        "country": "bakersfield",
         "x": "-104572",
         "y": "61.457",
         "z": "6987.57"
@@ -1320,7 +1320,7 @@ var cities = [
     {
         "gameName": "barstow",
         "realName": "Barstow",
-        "country": "california",
+        "country": "barstow",
         "x": "-95069.8",
         "y": "121.652",
         "z": "12704.5"
@@ -1328,7 +1328,7 @@ var cities = [
     {
         "gameName": "big_piney",
         "realName": "Big Piney",
-        "country": "wyoming",
+        "country": "big_piney",
         "x": "-58068.8",
         "y": "133.689",
         "z": "-24662.5"
@@ -1336,7 +1336,7 @@ var cities = [
     {
         "gameName": "bishop",
         "realName": "Bishop",
-        "country": "california",
+        "country": "bishop",
         "x": "-97447.9",
         "y": "192.806",
         "z": "-835.484"
@@ -1344,7 +1344,7 @@ var cities = [
     {
         "gameName": "brawley",
         "realName": "Brawley",
-        "country": "california",
+        "country": "brawley",
         "x": "-92227.9",
         "y": "60.2773",
         "z": "23340.7"
@@ -1352,7 +1352,7 @@ var cities = [
     {
         "gameName": "carson_city",
         "realName": "Carson City",
-        "country": "nevada",
+        "country": "carson_city",
         "x": "-102681",
         "y": "262.479",
         "z": "-13171.5"
@@ -1360,7 +1360,7 @@ var cities = [
     {
         "gameName": "ehrenberg",
         "realName": "Ehrenberg",
-        "country": "arizona",
+        "country": "ehrenberg",
         "x": "-86563.6",
         "y": "35.4612",
         "z": "20968.2"
@@ -1368,7 +1368,7 @@ var cities = [
     {
         "gameName": "elko",
         "realName": "Elko",
-        "country": "nevada",
+        "country": "elko",
         "x": "-81952",
         "y": "107.351",
         "z": "-20153"
@@ -1376,7 +1376,7 @@ var cities = [
     {
         "gameName": "ely",
         "realName": "Ely",
-        "country": "nevada",
+        "country": "ely",
         "x": "-81817",
         "y": "172.629",
         "z": "-10079.4"
@@ -1384,7 +1384,7 @@ var cities = [
     {
         "gameName": "eureka",
         "realName": "Eureka",
-        "country": "california",
+        "country": "eureka",
         "x": "-118391",
         "y": "90.7422",
         "z": "-27408.9"
@@ -1392,7 +1392,7 @@ var cities = [
     {
         "gameName": "eureka_nv",
         "realName": "Eureka",
-        "country": "nevada",
+        "country": "eureka_nv",
         "x": "-88331.5",
         "y": "134.886",
         "z": "-13386"
@@ -1400,7 +1400,7 @@ var cities = [
     {
         "gameName": "evanston",
         "realName": "Evanston",
-        "country": "wyoming",
+        "country": "evanston",
         "x": "-60461",
         "y": "124.699",
         "z": "-18638.7"
@@ -1408,7 +1408,7 @@ var cities = [
     {
         "gameName": "fallon",
         "realName": "Fallon",
-        "country": "nevada",
+        "country": "fallon",
         "x": "-94981.2",
         "y": "203.214",
         "z": "-12840.8"
@@ -1416,7 +1416,7 @@ var cities = [
     {
         "gameName": "flagstaff",
         "realName": "Flagstaff",
-        "country": "arizona",
+        "country": "flagstaff",
         "x": "-72334.6",
         "y": "132.778",
         "z": "15275.2"
@@ -1424,7 +1424,7 @@ var cities = [
     {
         "gameName": "freedom",
         "realName": "Freedom",
-        "country": "wyoming",
+        "country": "freedom",
         "x": "-62024.8",
         "y": "135.305",
         "z": "-26921.5"
@@ -1432,7 +1432,7 @@ var cities = [
     {
         "gameName": "fresno",
         "realName": "Fresno",
-        "country": "california",
+        "country": "fresno",
         "x": "-103983",
         "y": "123.581",
         "z": "94.0789"
@@ -1440,7 +1440,7 @@ var cities = [
     {
         "gameName": "g_canyon_vlg",
         "realName": "Grand Canyon Village",
-        "country": "arizona",
+        "country": "g_canyon_vlg",
         "x": "-73445",
         "y": "173.035",
         "z": "10298.5"
@@ -1448,7 +1448,7 @@ var cities = [
     {
         "gameName": "huron",
         "realName": "Huron",
-        "country": "california",
+        "country": "huron",
         "x": "-109939",
         "y": "86.5572",
         "z": "2102.63"
@@ -1456,7 +1456,7 @@ var cities = [
     {
         "gameName": "indio",
         "realName": "Indio",
-        "country": "california",
+        "country": "indio",
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
@@ -1464,7 +1464,7 @@ var cities = [
     {
         "gameName": "jackson",
         "realName": "Jackson",
-        "country": "wyoming",
+        "country": "jackson",
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
@@ -1472,7 +1472,7 @@ var cities = [
     {
         "gameName": "kayenta",
         "realName": "Kayenta",
-        "country": "arizona",
+        "country": "kayenta",
         "x": "-64177",
         "y": "145.051",
         "z": "7337.55"
@@ -1480,7 +1480,7 @@ var cities = [
     {
         "gameName": "kingman",
         "realName": "Kingman",
-        "country": "arizona",
+        "country": "kingman",
         "x": "-80255.8",
         "y": "65.603",
         "z": "13606.3"
@@ -1488,7 +1488,7 @@ var cities = [
     {
         "gameName": "laramie",
         "realName": "Laramie",
-        "country": "wyoming",
+        "country": "laramie",
         "x": "-41711.4",
         "y": "162.801",
         "z": "-17557"
@@ -1496,7 +1496,7 @@ var cities = [
     {
         "gameName": "las_vegas",
         "realName": "Las Vegas",
-        "country": "nevada",
+        "country": "las_vegas",
         "x": "-85816.2",
         "y": "76.7917",
         "z": "5816.68"
@@ -1504,7 +1504,7 @@ var cities = [
     {
         "gameName": "leevining",
         "realName": "Lee Vining",
-        "country": "california",
+        "country": "leevining",
         "x": "-100992",
         "y": "362.955",
         "z": "-7469.51"
@@ -1512,7 +1512,7 @@ var cities = [
     {
         "gameName": "los_angeles",
         "realName": "Los Angeles",
-        "country": "california",
+        "country": "los_angeles",
         "x": "-104281",
         "y": "64.3862",
         "z": "16218.6"
@@ -1520,7 +1520,7 @@ var cities = [
     {
         "gameName": "ltahoe",
         "realName": "South Lake Tahoe",
-        "country": "california",
+        "country": "ltahoe",
         "x": "-105692",
         "y": "695.078",
         "z": "-10812.2"
@@ -1528,7 +1528,7 @@ var cities = [
     {
         "gameName": "ludlow",
         "realName": "Ludlow",
-        "country": "california",
+        "country": "ludlow",
         "x": "-90423.7",
         "y": "122.505",
         "z": "14670.1"
@@ -1536,7 +1536,7 @@ var cities = [
     {
         "gameName": "oxnard",
         "realName": "Oxnard",
-        "country": "california",
+        "country": "oxnard",
         "x": "-108859",
         "y": "31.3819",
         "z": "12807.6"
@@ -1544,7 +1544,7 @@ var cities = [
     {
         "gameName": "page",
         "realName": "Page",
-        "country": "arizona",
+        "country": "page",
         "x": "-69181.3",
         "y": "124.344",
         "z": "5521.9"
@@ -1552,7 +1552,7 @@ var cities = [
     {
         "gameName": "phoenix",
         "realName": "Phoenix",
-        "country": "arizona",
+        "country": "phoenix",
         "x": "-75196.4",
         "y": "32.0577",
         "z": "24257.7"
@@ -1560,7 +1560,7 @@ var cities = [
     {
         "gameName": "pioche",
         "realName": "Pioche",
-        "country": "nevada",
+        "country": "pioche",
         "x": "-80956.8",
         "y": "177.867",
         "z": "-4638.39"
@@ -1568,7 +1568,7 @@ var cities = [
     {
         "gameName": "redbluff",
         "realName": "Red Bluff",
-        "country": "california",
+        "country": "redbluff",
         "x": "-112992",
         "y": "153.224",
         "z": "-20492.6"
@@ -1576,7 +1576,7 @@ var cities = [
     {
         "gameName": "redding",
         "realName": "Redding",
-        "country": "california",
+        "country": "redding",
         "x": "-110950",
         "y": "46.3998",
         "z": "-25872.1"
@@ -1584,7 +1584,7 @@ var cities = [
     {
         "gameName": "reno",
         "realName": "Reno",
-        "country": "nevada",
+        "country": "reno",
         "x": "-99918.2",
         "y": "191.806",
         "z": "-18717.4"
@@ -1592,7 +1592,7 @@ var cities = [
     {
         "gameName": "ridgecrest",
         "realName": "Ridgecrest",
-        "country": "california",
+        "country": "ridgecrest",
         "x": "-98773.3",
         "y": "18.5564",
         "z": "6136.26"
@@ -1600,7 +1600,7 @@ var cities = [
     {
         "gameName": "riverside",
         "realName": "Riverside",
-        "country": "california",
+        "country": "riverside",
         "x": "-99043.6",
         "y": "38.0766",
         "z": "17999.1"
@@ -1608,7 +1608,7 @@ var cities = [
     {
         "gameName": "riverton",
         "realName": "Riverton",
-        "country": "wyoming",
+        "country": "riverton",
         "x": "-50587.1",
         "y": "187.723",
         "z": "-27268.7"
@@ -1616,7 +1616,7 @@ var cities = [
     {
         "gameName": "sacramento",
         "realName": "Sacramento",
-        "country": "california",
+        "country": "sacramento",
         "x": "-109820",
         "y": "123.818",
         "z": "-14095.8"
@@ -1624,7 +1624,7 @@ var cities = [
     {
         "gameName": "monterey",
         "realName": "Monterey",
-        "country": "california",
+        "country": "monterey",
         "x": "-115286",
         "y": "91.818",
         "z": "-1766.18"
@@ -1632,7 +1632,7 @@ var cities = [
     {
         "gameName": "santa_maria",
         "realName": "Santa Maria",
-        "country": "california",
+        "country": "santa_maria",
         "x": "-112374",
         "y": "88.8446",
         "z": "7463.42"
@@ -1640,7 +1640,7 @@ var cities = [
     {
         "gameName": "santa_rosa_nm",
         "realName": "Santa Rosa",
-        "country": "new_mexico",
+        "country": "santa_rosa_nm",
         "x": "-39338.3",
         "y": "79.4758",
         "z": "21093.7"
@@ -1648,7 +1648,7 @@ var cities = [
     {
         "gameName": "san_diego",
         "realName": "San Diego",
-        "country": "california",
+        "country": "san_diego",
         "x": "-98862.2",
         "y": "90.8438",
         "z": "24029.7"
@@ -1656,7 +1656,7 @@ var cities = [
     {
         "gameName": "san_francisco",
         "realName": "San Francisco",
-        "country": "california",
+        "country": "san_francisco",
         "x": "-116467",
         "y": "78.0898",
         "z": "-10076.9"
@@ -1664,7 +1664,7 @@ var cities = [
     {
         "gameName": "san_simon",
         "realName": "San Simon",
-        "country": "arizona",
+        "country": "san_simon",
         "x": "-62119.2",
         "y": "62.4849",
         "z": "33562"
@@ -1672,7 +1672,7 @@ var cities = [
     {
         "gameName": "show_low",
         "realName": "Show Low",
-        "country": "arizona",
+        "country": "show_low",
         "x": "-65151",
         "y": "102.9",
         "z": "21330.9"
@@ -1680,7 +1680,7 @@ var cities = [
     {
         "gameName": "sierra_vista",
         "realName": "Sierra Vista",
-        "country": "arizona",
+        "country": "sierra_vista",
         "x": "-68525.5",
         "y": "125",
         "z": "36654"
@@ -1688,7 +1688,7 @@ var cities = [
     {
         "gameName": "susanv",
         "realName": "Susanville",
-        "country": "california",
+        "country": "susanv",
         "x": "-106334",
         "y": "140.5",
         "z": "-21803.6"
@@ -1696,7 +1696,7 @@ var cities = [
     {
         "gameName": "tonopah",
         "realName": "Tonopah",
-        "country": "nevada",
+        "country": "tonopah",
         "x": "-92209.5",
         "y": "231.075",
         "z": "-4832.38"
@@ -1704,7 +1704,7 @@ var cities = [
     {
         "gameName": "truckee",
         "realName": "Truckee",
-        "country": "california",
+        "country": "truckee",
         "x": "-107618",
         "y": "490.608",
         "z": "-17000.3"
@@ -1712,7 +1712,7 @@ var cities = [
     {
         "gameName": "tucson",
         "realName": "Tucson",
-        "country": "arizona",
+        "country": "tucson",
         "x": "-71749.5",
         "y": "70.3653",
         "z": "32610.5"
@@ -1720,7 +1720,7 @@ var cities = [
     {
         "gameName": "ukiah",
         "realName": "Ukiah",
-        "country": "california",
+        "country": "ukiah",
         "x": "-119005",
         "y": "-69.9031",
         "z": "-20503.9"
@@ -1728,7 +1728,7 @@ var cities = [
     {
         "gameName": "winnemucca",
         "realName": "Winnemucca",
-        "country": "nevada",
+        "country": "winnemucca",
         "x": "-91334.8",
         "y": "144.754",
         "z": "-22075.4"
@@ -1736,7 +1736,7 @@ var cities = [
     {
         "gameName": "yuma",
         "realName": "Yuma",
-        "country": "arizona",
+        "country": "yuma",
         "x": "-87619.4",
         "y": "29.8789",
         "z": "27086.4"
@@ -1744,7 +1744,7 @@ var cities = [
     {
         "gameName": "alamogordo",
         "realName": "Alamogordo",
-        "country": "new_mexico",
+        "country": "alamogordo",
         "x": "-46944.1",
         "y": "127.48",
         "z": "31604"
@@ -1752,7 +1752,7 @@ var cities = [
     {
         "gameName": "albuquerque",
         "realName": "Albuquerque",
-        "country": "new_mexico",
+        "country": "albuquerque",
         "x": "-48693.2",
         "y": "126.762",
         "z": "19234.7"
@@ -1760,7 +1760,7 @@ var cities = [
     {
         "gameName": "carlsbad_nm",
         "realName": "Carlsbad",
-        "country": "new_mexico",
+        "country": "carlsbad_nm",
         "x": "-38330.6",
         "y": "102.016",
         "z": "35353.5"
@@ -1768,7 +1768,7 @@ var cities = [
     {
         "gameName": "casper",
         "realName": "Casper",
-        "country": "wyoming",
+        "country": "casper",
         "x": "-41501.4",
         "y": "165.318",
         "z": "-25775"
@@ -1776,7 +1776,7 @@ var cities = [
     {
         "gameName": "cheyenne",
         "realName": "Cheyenne",
-        "country": "wyoming",
+        "country": "cheyenne",
         "x": "-36591.9",
         "y": "655.961",
         "z": "-14475.8"
@@ -1784,7 +1784,7 @@ var cities = [
     {
         "gameName": "clifton",
         "realName": "Clifton",
-        "country": "arizona",
+        "country": "clifton",
         "x": "-62631.9",
         "y": "90.8672",
         "z": "28255.8"
@@ -1792,7 +1792,7 @@ var cities = [
     {
         "gameName": "clovis",
         "realName": "Clovis",
-        "country": "new_mexico",
+        "country": "clovis",
         "x": "-33411.9",
         "y": "138.973",
         "z": "24758.7"
@@ -1800,7 +1800,7 @@ var cities = [
     {
         "gameName": "farmington",
         "realName": "Farmington",
-        "country": "new_mexico",
+        "country": "farmington",
         "x": "-54704.5",
         "y": "135",
         "z": "8813.18"
@@ -1808,7 +1808,7 @@ var cities = [
     {
         "gameName": "gallup",
         "realName": "Gallup",
-        "country": "new_mexico",
+        "country": "gallup",
         "x": "-58246.5",
         "y": "166.41",
         "z": "15448.3"
@@ -1816,7 +1816,7 @@ var cities = [
     {
         "gameName": "gillette",
         "realName": "Gillette",
-        "country": "wyoming",
+        "country": "gillette",
         "x": "-37555",
         "y": "126.43",
         "z": "-31984.8"
@@ -1824,7 +1824,7 @@ var cities = [
     {
         "gameName": "hobbs",
         "realName": "Hobbs",
-        "country": "new_mexico",
+        "country": "hobbs",
         "x": "-33734.9",
         "y": "64.0195",
         "z": "33858.8"
@@ -1832,7 +1832,7 @@ var cities = [
     {
         "gameName": "las_cruces",
         "realName": "Las Cruces",
-        "country": "new_mexico",
+        "country": "las_cruces",
         "x": "-53615.8",
         "y": "104.428",
         "z": "34945.3"
@@ -1840,7 +1840,7 @@ var cities = [
     {
         "gameName": "raton",
         "realName": "Raton",
-        "country": "new_mexico",
+        "country": "raton",
         "x": "-38146.3",
         "y": "154.02",
         "z": "10209.8"
@@ -1848,7 +1848,7 @@ var cities = [
     {
         "gameName": "rawlins",
         "realName": "Rawlins",
-        "country": "wyoming",
+        "country": "rawlins",
         "x": "-47429.8",
         "y": "156.344",
         "z": "-20265"
@@ -1856,7 +1856,7 @@ var cities = [
     {
         "gameName": "rock_springs",
         "realName": "Rock Springs",
-        "country": "wyoming",
+        "country": "rock_springs",
         "x": "-53904.7",
         "y": "152.172",
         "z": "-18853.2"
@@ -1864,7 +1864,7 @@ var cities = [
     {
         "gameName": "roswell",
         "realName": "Roswell",
-        "country": "new_mexico",
+        "country": "roswell",
         "x": "-39713.4",
         "y": "106.012",
         "z": "29859.5"
@@ -1872,7 +1872,7 @@ var cities = [
     {
         "gameName": "santa_fe",
         "realName": "Santa Fe",
-        "country": "new_mexico",
+        "country": "santa_fe",
         "x": "-44752.1",
         "y": "149.02",
         "z": "16062.1"
@@ -1880,7 +1880,7 @@ var cities = [
     {
         "gameName": "socorro",
         "realName": "Socorro",
-        "country": "new_mexico",
+        "country": "socorro",
         "x": "-50710.1",
         "y": "105.216",
         "z": "25677.1"
@@ -1888,7 +1888,7 @@ var cities = [
     {
         "gameName": "astoria",
         "realName": "Astoria",
-        "country": "oregon",
+        "country": "astoria",
         "x": "-109480",
         "y": "110.426",
         "z": "-56823.9"
@@ -1896,7 +1896,7 @@ var cities = [
     {
         "gameName": "baker_city",
         "realName": "Baker City",
-        "country": "oregon",
+        "country": "baker_city",
         "x": "-86680.9",
         "y": "78.1306",
         "z": "-43232.3"
@@ -1904,7 +1904,7 @@ var cities = [
     {
         "gameName": "bend",
         "realName": "Bend",
-        "country": "oregon",
+        "country": "bend",
         "x": "-101347",
         "y": "91.4112",
         "z": "-42357.6"
@@ -1912,7 +1912,7 @@ var cities = [
     {
         "gameName": "burns",
         "realName": "Burns",
-        "country": "oregon",
+        "country": "burns",
         "x": "-92989.7",
         "y": "113.398",
         "z": "-37951.5"
@@ -1920,7 +1920,7 @@ var cities = [
     {
         "gameName": "coos_bay",
         "realName": "Coos Bay",
-        "country": "oregon",
+        "country": "coos_bay",
         "x": "-115694",
         "y": "24.7122",
         "z": "-43570.7"
@@ -1928,7 +1928,7 @@ var cities = [
     {
         "gameName": "crescent_city",
         "realName": "Crescent City",
-        "country": "california",
+        "country": "crescent_city",
         "x": "-117438",
         "y": "96.2736",
         "z": "-35254.1"
@@ -1936,7 +1936,7 @@ var cities = [
     {
         "gameName": "eugene",
         "realName": "Eugene",
-        "country": "oregon",
+        "country": "eugene",
         "x": "-108218",
         "y": "24.3578",
         "z": "-43727.7"
@@ -1944,7 +1944,7 @@ var cities = [
     {
         "gameName": "klamath_f",
         "realName": "Klamath Falls",
-        "country": "oregon",
+        "country": "klamath_f",
         "x": "-104728",
         "y": "165.972",
         "z": "-34541.4"
@@ -1952,7 +1952,7 @@ var cities = [
     {
         "gameName": "kramer_junction",
         "realName": "Kramer Junction",
-        "country": "california",
+        "country": "kramer_junction",
         "x": "-101306",
         "y": "46.9573",
         "z": "10385.2"
@@ -1960,7 +1960,7 @@ var cities = [
     {
         "gameName": "lakeview",
         "realName": "Lakeview",
-        "country": "oregon",
+        "country": "lakeview",
         "x": "-100861",
         "y": "110.329",
         "z": "-30060.6"
@@ -1968,7 +1968,7 @@ var cities = [
     {
         "gameName": "medford",
         "realName": "Medford",
-        "country": "oregon",
+        "country": "medford",
         "x": "-110683",
         "y": "91.8906",
         "z": "-35739.2"
@@ -1976,7 +1976,7 @@ var cities = [
     {
         "gameName": "newport",
         "realName": "Newport",
-        "country": "oregon",
+        "country": "newport",
         "x": "-112428",
         "y": "70.2531",
         "z": "-49031.1"
@@ -1984,7 +1984,7 @@ var cities = [
     {
         "gameName": "pendleton",
         "realName": "Pendleton",
-        "country": "oregon",
+        "country": "pendleton",
         "x": "-89810.3",
         "y": "100.761",
         "z": "-48112.9"
@@ -1992,7 +1992,7 @@ var cities = [
     {
         "gameName": "portland",
         "realName": "Portland",
-        "country": "oregon",
+        "country": "portland",
         "x": "-104350",
         "y": "96.7465",
         "z": "-51491.9"
@@ -2000,7 +2000,7 @@ var cities = [
     {
         "gameName": "the_dalles",
         "realName": "The Dalles",
-        "country": "oregon",
+        "country": "the_dalles",
         "x": "-96967.8",
         "y": "79.5923",
         "z": "-50162.2"
@@ -2008,7 +2008,7 @@ var cities = [
     {
         "gameName": "aberdeen",
         "realName": "Aberdeen",
-        "country": "washington",
+        "country": "aberdeen",
         "x": "-106953",
         "y": "59.9489",
         "z": "-61418.6"
@@ -2016,7 +2016,7 @@ var cities = [
     {
         "gameName": "bellingham",
         "realName": "Bellingham",
-        "country": "washington",
+        "country": "bellingham",
         "x": "-98654.2",
         "y": "55.59",
         "z": "-69115"
@@ -2024,7 +2024,7 @@ var cities = [
     {
         "gameName": "colville",
         "realName": "Colville",
-        "country": "washington",
+        "country": "colville",
         "x": "-81594.7",
         "y": "87.9793",
         "z": "-64715.6"
@@ -2032,7 +2032,7 @@ var cities = [
     {
         "gameName": "kennewick",
         "realName": "Kennewick",
-        "country": "washington",
+        "country": "kennewick",
         "x": "-89029.3",
         "y": "68.645",
         "z": "-53557.5"
@@ -2040,7 +2040,7 @@ var cities = [
     {
         "gameName": "longview",
         "realName": "Longview",
-        "country": "washington",
+        "country": "longview",
         "x": "-103165",
         "y": "30.18",
         "z": "-57231.5"
@@ -2048,7 +2048,7 @@ var cities = [
     {
         "gameName": "olympia",
         "realName": "Olympia",
-        "country": "washington",
+        "country": "olympia",
         "x": "-103161",
         "y": "49.8525",
         "z": "-61813"
@@ -2056,7 +2056,7 @@ var cities = [
     {
         "gameName": "omak",
         "realName": "Omak",
-        "country": "washington",
+        "country": "omak",
         "x": "-89094.8",
         "y": "49.3279",
         "z": "-64462"
@@ -2064,7 +2064,7 @@ var cities = [
     {
         "gameName": "port_angeles",
         "realName": "Port Angeles",
-        "country": "washington",
+        "country": "port_angeles",
         "x": "-104688",
         "y": "52.6207",
         "z": "-67597.6"
@@ -2072,7 +2072,7 @@ var cities = [
     {
         "gameName": "seattle",
         "realName": "Seattle",
-        "country": "washington",
+        "country": "seattle",
         "x": "-97690.4",
         "y": "101.912",
         "z": "-63065.2"
@@ -2080,7 +2080,7 @@ var cities = [
     {
         "gameName": "spokane",
         "realName": "Spokane",
-        "country": "washington",
+        "country": "spokane",
         "x": "-81652.4",
         "y": "64.3417",
         "z": "-58561.8"
@@ -2088,7 +2088,7 @@ var cities = [
     {
         "gameName": "wenatchee",
         "realName": "Wenatchee",
-        "country": "washington",
+        "country": "wenatchee",
         "x": "-92417.7",
         "y": "55.9883",
         "z": "-60054.8"
@@ -2096,7 +2096,7 @@ var cities = [
     {
         "gameName": "yakima",
         "realName": "Yakima",
-        "country": "washington",
+        "country": "yakima",
         "x": "-95722.7",
         "y": "37.4318",
         "z": "-55991.9"
@@ -2104,7 +2104,7 @@ var cities = [
     {
         "gameName": "cedar_city",
         "realName": "Cedar City",
-        "country": "utah",
+        "country": "cedar_city",
         "x": "-73887.1",
         "y": "124.221",
         "z": "-2243.96"
@@ -2112,7 +2112,7 @@ var cities = [
     {
         "gameName": "logan",
         "realName": "Logan",
-        "country": "utah",
+        "country": "logan",
         "x": "-67620.3",
         "y": "98.4575",
         "z": "-23411.3"
@@ -2120,7 +2120,7 @@ var cities = [
     {
         "gameName": "moab",
         "realName": "Moab",
-        "country": "utah",
+        "country": "moab",
         "x": "-59408.7",
         "y": "172.866",
         "z": "-1841.51"
@@ -2128,7 +2128,7 @@ var cities = [
     {
         "gameName": "modesto",
         "realName": "Modesto",
-        "country": "california",
+        "country": "modesto",
         "x": "-109113",
         "y": "135.387",
         "z": "-5622.85"
@@ -2136,7 +2136,7 @@ var cities = [
     {
         "gameName": "montpelier",
         "realName": "Montpelier",
-        "country": "idaho",
+        "country": "montpelier",
         "x": "-62548.9",
         "y": "170.788",
         "z": "-23269.8"
@@ -2144,7 +2144,7 @@ var cities = [
     {
         "gameName": "needles",
         "realName": "Needles",
-        "country": "california",
+        "country": "needles",
         "x": "-85257.7",
         "y": "34.4319",
         "z": "14889.6"
@@ -2152,7 +2152,7 @@ var cities = [
     {
         "gameName": "price",
         "realName": "Price",
-        "country": "utah",
+        "country": "price",
         "x": "-62580.7",
         "y": "124.434",
         "z": "-9222.07"
@@ -2160,7 +2160,7 @@ var cities = [
     {
         "gameName": "salina",
         "realName": "Salina",
-        "country": "utah",
+        "country": "salina",
         "x": "-68567.1",
         "y": "131",
         "z": "-6747.52"
@@ -2168,7 +2168,7 @@ var cities = [
     {
         "gameName": "salt_lake",
         "realName": "Salt Lake City",
-        "country": "utah",
+        "country": "salt_lake",
         "x": "-68092",
         "y": "111.199",
         "z": "-16343.5"
@@ -2176,7 +2176,7 @@ var cities = [
     {
         "gameName": "santa_rosa_ca",
         "realName": "Santa Rosa",
-        "country": "california",
+        "country": "santa_rosa_ca",
         "x": "-117954",
         "y": "98.7086",
         "z": "-16022.9"
@@ -2184,7 +2184,7 @@ var cities = [
     {
         "gameName": "sheridan",
         "realName": "Sheridan",
-        "country": "wyoming",
+        "country": "sheridan",
         "x": "-42261.8",
         "y": "150.823",
         "z": "-35202.9"
@@ -2192,7 +2192,7 @@ var cities = [
     {
         "gameName": "st_george",
         "realName": "St. George",
-        "country": "utah",
+        "country": "st_george",
         "x": "-79056.8",
         "y": "70.63",
         "z": "3000.27"
@@ -2200,7 +2200,7 @@ var cities = [
     {
         "gameName": "vernal",
         "realName": "Vernal",
-        "country": "utah",
+        "country": "vernal",
         "x": "-57321.6",
         "y": "131",
         "z": "-12804.7"
@@ -2208,7 +2208,7 @@ var cities = [
     {
         "gameName": "victorville",
         "realName": "Victorville",
-        "country": "california",
+        "country": "victorville",
         "x": "-98494.6",
         "y": "163.151",
         "z": "15237.6"
@@ -2216,7 +2216,7 @@ var cities = [
     {
         "gameName": "wheatland",
         "realName": "Wheatland",
-        "country": "wyoming",
+        "country": "wheatland",
         "x": "-36817.5",
         "y": "100.94",
         "z": "-20075.8"
@@ -2224,7 +2224,7 @@ var cities = [
     {
         "gameName": "boise",
         "realName": "Boise",
-        "country": "idaho",
+        "country": "boise",
         "x": "-81820.6",
         "y": "78.4663",
         "z": "-35583.8"
@@ -2232,7 +2232,7 @@ var cities = [
     {
         "gameName": "grangeville",
         "realName": "Grangeville",
-        "country": "idaho",
+        "country": "grangeville",
         "x": "-77628.2",
         "y": "106.348",
         "z": "-48313.5"
@@ -2240,7 +2240,7 @@ var cities = [
     {
         "gameName": "greybull",
         "realName": "Greybull",
-        "country": "wyoming",
+        "country": "greybull",
         "x": "-49548.5",
         "y": "125.816",
         "z": "-35164.9"
@@ -2248,7 +2248,7 @@ var cities = [
     {
         "gameName": "idaho_falls",
         "realName": "Idaho Falls",
-        "country": "idaho",
+        "country": "idaho_falls",
         "x": "-65859.8",
         "y": "82.7051",
         "z": "-31584.5"
@@ -2256,7 +2256,7 @@ var cities = [
     {
         "gameName": "ketchum",
         "realName": "Ketchum",
-        "country": "idaho",
+        "country": "ketchum",
         "x": "-73985.5",
         "y": "177.754",
         "z": "-34851.1"
@@ -2264,7 +2264,7 @@ var cities = [
     {
         "gameName": "lewiston",
         "realName": "Lewiston",
-        "country": "idaho",
+        "country": "lewiston",
         "x": "-80795.7",
         "y": "62.4727",
         "z": "-51559.7"
@@ -2272,7 +2272,7 @@ var cities = [
     {
         "gameName": "mccall",
         "realName": "McCall",
-        "country": "idaho",
+        "country": "mccall",
         "x": "-79313.3",
         "y": "84.9904",
         "z": "-42465"
@@ -2280,7 +2280,7 @@ var cities = [
     {
         "gameName": "salmon",
         "realName": "Salmon",
-        "country": "idaho",
+        "country": "salmon",
         "x": "-70460.2",
         "y": "109.973",
         "z": "-42379.9"
@@ -2288,7 +2288,7 @@ var cities = [
     {
         "gameName": "twin_falls",
         "realName": "Twin Falls",
-        "country": "idaho",
+        "country": "twin_falls",
         "x": "-75516.3",
         "y": "87.2408",
         "z": "-27484.9"
@@ -2296,7 +2296,7 @@ var cities = [
     {
         "gameName": "alamosa",
         "realName": "Alamosa",
-        "country": "colorado",
+        "country": "alamosa",
         "x": "-44120.3",
         "y": "146.652",
         "z": "6136.21"
@@ -2304,7 +2304,7 @@ var cities = [
     {
         "gameName": "burlington",
         "realName": "Burlington",
-        "country": "colorado",
+        "country": "burlington",
         "x": "-27255.2",
         "y": "145.367",
         "z": "-2904.98"
@@ -2312,7 +2312,7 @@ var cities = [
     {
         "gameName": "colorado_springs_pueblo",
         "realName": "Colorado Springs / Pueblo",
-        "country": "colorado",
+        "country": "colorado_springs_pueblo",
         "x": "-37543",
         "y": "97.4214",
         "z": "528.353"
@@ -2320,7 +2320,7 @@ var cities = [
     {
         "gameName": "dateland",
         "realName": "Dateland",
-        "country": "arizona",
+        "country": "dateland",
         "x": "-81820.2",
         "y": "24.894",
         "z": "28604.3"
@@ -2328,7 +2328,7 @@ var cities = [
     {
         "gameName": "denver",
         "realName": "Denver",
-        "country": "colorado",
+        "country": "denver",
         "x": "-38561.4",
         "y": "138.176",
         "z": "-5191.34"
@@ -2336,7 +2336,7 @@ var cities = [
     {
         "gameName": "durango",
         "realName": "Durango",
-        "country": "colorado",
+        "country": "durango",
         "x": "-52062.4",
         "y": "245.111",
         "z": "5510.96"
@@ -2344,7 +2344,7 @@ var cities = [
     {
         "gameName": "fort_collins",
         "realName": "Fort Collins",
-        "country": "colorado",
+        "country": "fort_collins",
         "x": "-39016.8",
         "y": "125.043",
         "z": "-11147.9"
@@ -2352,7 +2352,7 @@ var cities = [
     {
         "gameName": "glenwood_springs",
         "realName": "Glenwood Springs",
-        "country": "colorado",
+        "country": "glenwood_springs",
         "x": "-48845.1",
         "y": "93.5559",
         "z": "-5649.02"
@@ -2360,7 +2360,7 @@ var cities = [
     {
         "gameName": "grand_junction_montrose",
         "realName": "Grand Junction / Montrose",
-        "country": "colorado",
+        "country": "grand_junction_montrose",
         "x": "-52937.9",
         "y": "121.101",
         "z": "-2215.41"
@@ -2368,7 +2368,7 @@ var cities = [
     {
         "gameName": "lamar",
         "realName": "Lamar",
-        "country": "colorado",
+        "country": "lamar",
         "x": "-29205.3",
         "y": "178.398",
         "z": "3966.89"
@@ -2376,7 +2376,7 @@ var cities = [
     {
         "gameName": "salida",
         "realName": "Salida",
-        "country": "colorado",
+        "country": "salida",
         "x": "-44653.8",
         "y": "132.538",
         "z": "127.839"
@@ -2384,7 +2384,7 @@ var cities = [
     {
         "gameName": "rangely",
         "realName": "Rangely",
-        "country": "colorado",
+        "country": "rangely",
         "x": "-54394.8",
         "y": "137.723",
         "z": "-10196.7"
@@ -2392,7 +2392,7 @@ var cities = [
     {
         "gameName": "steamboat_sp",
         "realName": "Steamboat Springs",
-        "country": "colorado",
+        "country": "steamboat_sp",
         "x": "-46238.9",
         "y": "256.355",
         "z": "-11100.9"
@@ -2400,7 +2400,7 @@ var cities = [
     {
         "gameName": "sterling",
         "realName": "Sterling",
-        "country": "colorado",
+        "country": "sterling",
         "x": "-32170.9",
         "y": "110.477",
         "z": "-10118.3"
@@ -2430,7 +2430,7 @@ var country_properties_mexico = {
         name_english: "Cananea",
         code: "mx-son",
         relative_radius: 0.6
-    },   
+    },
     "cd_obregon": {
         name: "Ciudad Obregón",
         name_english: "Ciudad Obregon",
@@ -2442,7 +2442,7 @@ var country_properties_mexico = {
         name_english: "Chihuahua",
         code: "mx-chh",
         relative_radius: 0.9
-    },  
+    },
     "guaymas": {
         name: "Guaymas",
         name_english: "Guaymas",
@@ -2702,7 +2702,7 @@ var country_properties_mexico = {
         relative_radius: 0.7
     },
 };
- 
+
 var city_properties_mexico = {
     "yecora": {
         relative_whitenoise: 0.95
@@ -2854,178 +2854,178 @@ var city_properties_mexico = {
 };
 
 var cities_mexico = [
-{
-      "gameName": "yecora",
-      "realName": "Yecora",
-      "country": "sonora",
-      "x": "-65075.4",
-      "y": "238.879",
-      "z": "57626.5"
+    {
+        "gameName": "yecora",
+        "realName": "Yecora",
+        "country": "yecora",
+        "x": "-65075.4",
+        "y": "238.879",
+        "z": "57626.5"
     },
     {
-      "gameName": "agua_prieta",
-      "realName": "Agua Prieta",
-      "country": "sonora",
-      "x": "-66289.2",
-      "y": "110.359",
-      "z": "39137.9"
+        "gameName": "agua_prieta",
+        "realName": "Agua Prieta",
+        "country": "agua_prieta",
+        "x": "-66289.2",
+        "y": "110.359",
+        "z": "39137.9"
     },
     {
-      "gameName": "caborca",
-      "realName": "Caborca",
-      "country": "sonora",
-      "x": "-79152.9",
-      "y": "95.625",
-      "z": "40151.9"
-    },    
-    {
-      "gameName": "cananea",
-      "realName": "Cananea",
-      "country": "sonora",
-      "x": "-69907",
-      "y": "88.5703",
-      "z": "40315.2"
+        "gameName": "caborca",
+        "realName": "Caborca",
+        "country": "caborca",
+        "x": "-79152.9",
+        "y": "95.625",
+        "z": "40151.9"
     },
     {
-      "gameName": "cd_obregon",
-      "realName": "CD. Obregon",
-      "country": "sonora",
-      "x": "-70636.1",
-      "y": "50.0313",
-      "z": "61058.9"
+        "gameName": "cananea",
+        "realName": "Cananea",
+        "country": "cananea",
+        "x": "-69907",
+        "y": "88.5703",
+        "z": "40315.2"
     },
     {
-      "gameName": "chihuahua",
-      "realName": "Chihuahua",
-      "country": "chihuahua",
-      "x": "-52091.8",
-      "y": "100.114",
-      "z": "54247.2"
+        "gameName": "cd_obregon",
+        "realName": "CD. Obregon",
+        "country": "cd_obregon",
+        "x": "-70636.1",
+        "y": "50.0313",
+        "z": "61058.9"
     },
     {
-      "gameName": "guaymas",
-      "realName": "Guaymas",
-      "country": "sonora",
-      "x": "-75161.3",
-      "y": "57.918",
-      "z": "56623.3"
+        "gameName": "chihuahua",
+        "realName": "Chihuahua",
+        "country": "chihuahua",
+        "x": "-52091.8",
+        "y": "100.114",
+        "z": "54247.2"
     },
     {
-      "gameName": "hermosillo",
-      "realName": "Hermosillo",
-      "country": "sonora",
-      "x": "-74603.3",
-      "y": "49.9297",
-      "z": "50492.1"
+        "gameName": "guaymas",
+        "realName": "Guaymas",
+        "country": "guaymas",
+        "x": "-75161.3",
+        "y": "57.918",
+        "z": "56623.3"
     },
     {
-      "gameName": "h_nogales",
-      "realName": "H. Nogales",
-      "country": "sonora",
-      "x": "-73256.1",
-      "y": "108.121",
-      "z": "37728.7"
+        "gameName": "hermosillo",
+        "realName": "Hermosillo",
+        "country": "hermosillo",
+        "x": "-74603.3",
+        "y": "49.9297",
+        "z": "50492.1"
     },
     {
-      "gameName": "moctezuma",
-      "realName": "Moctezuma",
-      "country": "sonora",
-      "x": "-67626.8",
-      "y": "57.832",
-      "z": "47166.7"
+        "gameName": "h_nogales",
+        "realName": "H. Nogales",
+        "country": "h_nogales",
+        "x": "-73256.1",
+        "y": "108.121",
+        "z": "37728.7"
     },
     {
-      "gameName": "navojoa",
-      "realName": "Navojoa",
-      "country": "sonora",
-      "x": "-68552.6",
-      "y": "50.0195",
-      "z": "64116.6"
+        "gameName": "moctezuma",
+        "realName": "Moctezuma",
+        "country": "moctezuma",
+        "x": "-67626.8",
+        "y": "57.832",
+        "z": "47166.7"
     },
     {
-      "gameName": "puerto_pena",
-      "realName": "Puerto Penasco",
-      "country": "sonora",
-      "x": "-84643.3",
-      "y": "78.4609",
-      "z": "34661.3"
+        "gameName": "navojoa",
+        "realName": "Navojoa",
+        "country": "navojoa",
+        "x": "-68552.6",
+        "y": "50.0195",
+        "z": "64116.6"
     },
     {
-      "gameName": "santa_ana",
-      "realName": "Santa Ana",
-      "country": "sonora",
-      "x": "-74493.6",
-      "y": "95.625",
-      "z": "41979.7"
+        "gameName": "puerto_pena",
+        "realName": "Puerto Penasco",
+        "country": "puerto_pena",
+        "x": "-84643.3",
+        "y": "78.4609",
+        "z": "34661.3"
     },
     {
-      "gameName": "sonoyta",
-      "realName": "Sonoyta",
-      "country": "sonora",
-      "x": "-81177.1",
-      "y": "95.7148",
-      "z": "32482.3"
+        "gameName": "santa_ana",
+        "realName": "Santa Ana",
+        "country": "santa_ana",
+        "x": "-74493.6",
+        "y": "95.625",
+        "z": "41979.7"
     },
     {
-      "gameName": "sanluisrc",
-      "realName": "San Luis Rio Colorado",
-      "country": "sonora",
-      "x": "-85822",
-      "y": "50.1211",
-      "z": "30702.9"
+        "gameName": "sonoyta",
+        "realName": "Sonoyta",
+        "country": "sonoyta",
+        "x": "-81177.1",
+        "y": "95.7148",
+        "z": "32482.3"
     },
     {
-      "gameName": "vdurango",
-      "realName": "Durango",
-      "country": "durango",
-      "x": "-45394.6",
-      "y": "40",
-      "z": "84324.4"
+        "gameName": "sanluisrc",
+        "realName": "San Luis Rio Colorado",
+        "country": "sanluisrc",
+        "x": "-85822",
+        "y": "50.1211",
+        "z": "30702.9"
     },
     {
-      "gameName": "gomez_p",
-      "realName": "Gomez Palacio",
-      "country": "durango",
-      "x": "-38817.5",
-      "y": "82.9336",
-      "z": "75478.9"
-    },
-	{
-      "gameName": "santiagopap",
-      "realName": "Stgo. Papasquiaro",
-      "country": "durango",
-      "x": "-49233.5",
-      "y": "55.8047",
-      "z": "77940.5"
+        "gameName": "vdurango",
+        "realName": "Durango",
+        "country": "vdurango",
+        "x": "-45394.6",
+        "y": "40",
+        "z": "84324.4"
     },
     {
-      "gameName": "guasave",
-      "realName": "Guasave",
-      "country": "sinaloa",
-      "x": "-64504.9",
-      "y": "52.6367",
-      "z": "72909.2"
+        "gameName": "gomez_p",
+        "realName": "Gomez Palacio",
+        "country": "gomez_p",
+        "x": "-38817.5",
+        "y": "82.9336",
+        "z": "75478.9"
     },
     {
-      "gameName": "los_mochis",
-      "realName": "Los Mochis",
-      "country": "sinaloa",
-      "x": "-67160.2",
-      "y": "82.9336",
-      "z": "71272.9"
+        "gameName": "santiagopap",
+        "realName": "Stgo. Papasquiaro",
+        "country": "santiagopap",
+        "x": "-49233.5",
+        "y": "55.8047",
+        "z": "77940.5"
     },
     {
-      "gameName": "mazatlan",
-      "realName": "Mazatlan",
-      "country": "sinaloa",
-      "x": "-54732.3",
-      "y": "52.3203",
-      "z": "87832.3"
+        "gameName": "guasave",
+        "realName": "Guasave",
+        "country": "guasave",
+        "x": "-64504.9",
+        "y": "52.6367",
+        "z": "72909.2"
+    },
+    {
+        "gameName": "los_mochis",
+        "realName": "Los Mochis",
+        "country": "los_mochis",
+        "x": "-67160.2",
+        "y": "82.9336",
+        "z": "71272.9"
+    },
+    {
+        "gameName": "mazatlan",
+        "realName": "Mazatlan",
+        "country": "mazatlan",
+        "x": "-54732.3",
+        "y": "52.3203",
+        "z": "87832.3"
     },
     {
         "gameName": "culiacan",
         "realName": "Culiacan",
-        "country": "sinaloa",
+        "country": "culiacan",
         "x": "-59247.3",
         "y": "31.6797",
         "z": "78285.8"
@@ -3033,39 +3033,39 @@ var cities_mexico = [
     {
         "gameName": "guamuchil",
         "realName": "Guamuchil",
-        "country": "sinaloa",
+        "country": "guamuchil",
         "x": "-62492.3",
         "y": "49.9297",
         "z": "74015.6"
     },
     {
-      "gameName": "parral",
-      "realName": "Parral",
-      "country": "chihuah",
-      "x": "-49800.4",
-      "y": "110",
-      "z": "66558.9"
+        "gameName": "parral",
+        "realName": "Parral",
+        "country": "parral",
+        "x": "-49800.4",
+        "y": "110",
+        "z": "66558.9"
     },
     {
-      "gameName": "jimenez",
-      "realName": "Jimenez",
-      "country": "chihuah",
-      "x": "-45481.6",
-      "y": "50.6445",
-      "z": "65762.4"
+        "gameName": "jimenez",
+        "realName": "Jimenez",
+        "country": "jimenez",
+        "x": "-45481.6",
+        "y": "50.6445",
+        "z": "65762.4"
     },
     {
-      "gameName": "guachoch",
-      "realName": "Guachochi",
-      "country": "chihuah",
-      "x": "-57713.7",
-      "y": "381.328",
-      "z": "66510.7"
+        "gameName": "guachoch",
+        "realName": "Guachochi",
+        "country": "guachoch",
+        "x": "-57713.7",
+        "y": "381.328",
+        "z": "66510.7"
     },
     {
         "gameName": "tijuana",
         "realName": "Tijuana",
-        "country": "bajacalifo",
+        "country": "tijuana",
         "x": "-99184.2",
         "y": "49.7773",
         "z": "26196.8"
@@ -3073,178 +3073,178 @@ var cities_mexico = [
     {
         "gameName": "mexicali",
         "realName": "Mexicali",
-        "country": "bajacalifo",
+        "country": "mexicali",
         "x": "-90883.1",
         "y": "50.1211",
         "z": "29113.3"
     },
     {
-      	"gameName": "jalpa",
-      	"realName": "Jalpa",
-      	"country": "zacatecas",
-      	"x": "-38033.5",
-      	"y": "85.5391",
-      	"z": "99312.3"
+        "gameName": "jalpa",
+        "realName": "Jalpa",
+        "country": "jalpa",
+        "x": "-38033.5",
+        "y": "85.5391",
+        "z": "99312.3"
     },
     {
         "gameName": "tamazunchale",
         "realName": "Tamazunchale",
-        "country": "sanluis",
+        "country": "tamazunchale",
         "x": "-15649.9",
         "y": "129.145",
         "z": "100829"
     },
     {
-      "gameName": "matehuala",
-      "realName": "Matehuala",
-      "country": "sanluis",
-      "x": "-24749.5",
-      "y": "114.105",
-      "z": "87939.7"
+        "gameName": "matehuala",
+        "realName": "Matehuala",
+        "country": "matehuala",
+        "x": "-24749.5",
+        "y": "114.105",
+        "z": "87939.7"
     },
     {
-      "gameName": "rioverde",
-      "realName": "Rioverde",
-      "country": "sanluis",
-      "x": "-21672.4",
-      "y": "94.5195",
-      "z": "98529.3"
+        "gameName": "rioverde",
+        "realName": "Rioverde",
+        "country": "rioverde",
+        "x": "-21672.4",
+        "y": "94.5195",
+        "z": "98529.3"
     },
     {
-      "gameName": "sanluisp",
-      "realName": "San Luis Potosi",
-      "country": "sanluis",
-      "x": "-27379.3",
-      "y": "98.7383",
-      "z": "96228.5"
+        "gameName": "sanluisp",
+        "realName": "San Luis Potosi",
+        "country": "sanluisp",
+        "x": "-27379.3",
+        "y": "98.7383",
+        "z": "96228.5"
     },
     {
-      "gameName": "aguasca",
-      "realName": "Aguascalientes",
-      "country": "aguasca",
-      "x": "-34084.9",
-      "y": "133.504",
-      "z": "97703.4"
+        "gameName": "aguasca",
+        "realName": "Aguascalientes",
+        "country": "aguasca",
+        "x": "-34084.9",
+        "y": "133.504",
+        "z": "97703.4"
     },
     {
-      "gameName": "calvillo",
-      "realName": "Calvillo",
-      "country": "aguasca",
-      "x": "-36306.9",
-      "y": "118",
-      "z": "98081.7"
+        "gameName": "calvillo",
+        "realName": "Calvillo",
+        "country": "calvillo",
+        "x": "-36306.9",
+        "y": "118",
+        "z": "98081.7"
     },
     {
-      "gameName": "fresnillo",
-      "realName": "Fresnillo",
-      "country": "zacatecas",
-      "x": "-36298.9",
-      "y": "132",
-      "z": "89484.7"
+        "gameName": "fresnillo",
+        "realName": "Fresnillo",
+        "country": "fresnillo",
+        "x": "-36298.9",
+        "y": "132",
+        "z": "89484.7"
     },
     {
-      "gameName": "zacatecas",
-      "realName": "Zacatecas",
-      "country": "zacatecas",
-      "x": "-33904.4",
-      "y": "150",
-      "z": "92182.5"
+        "gameName": "zacatecas",
+        "realName": "Zacatecas",
+        "country": "zacatecas",
+        "x": "-33904.4",
+        "y": "150",
+        "z": "92182.5"
     },
     {
-      "gameName": "jerez",
-      "realName": "Jerez",
-      "country": "zacatecas",
-      "x": "-37503.1",
-      "y": "124.91",
-      "z": "93193.4"
+        "gameName": "jerez",
+        "realName": "Jerez",
+        "country": "jerez",
+        "x": "-37503.1",
+        "y": "124.91",
+        "z": "93193.4"
     },
     {
-      "gameName": "sombre",
-      "realName": "Sombrerete",
-      "country": "zacatecas",
-      "x": "-39808.1",
-      "y": "53.6172",
-      "z": "86782.2"
+        "gameName": "sombre",
+        "realName": "Sombrerete",
+        "country": "sombre",
+        "x": "-39808.1",
+        "y": "53.6172",
+        "z": "86782.2"
     },
     {
-      "gameName": "riogrande",
-      "realName": "Rio Grande",
-      "country": "zacatecas",
-      "x": "-36954.9",
-      "y": "86.3477",
-      "z": "84909.9"
+        "gameName": "riogrande",
+        "realName": "Rio Grande",
+        "country": "riogrande",
+        "x": "-36954.9",
+        "y": "86.3477",
+        "z": "84909.9"
     },
     {
-      "gameName": "ensenada",
-      "realName": "Ensenada",
-      "country": "bajacalifo",
-      "x": "-98139.2",
-      "y": "50.1133",
-      "z": "29962.7"
+        "gameName": "ensenada",
+        "realName": "Ensenada",
+        "country": "ensenada",
+        "x": "-98139.2",
+        "y": "50.1133",
+        "z": "29962.7"
     },
     {
-      "gameName": "la_paz",
-      "realName": "La Paz",
-      "country": "bajacalisu",
-      "x": "-74554",
-      "y": "65.7578",
-      "z": "79288"
+        "gameName": "la_paz",
+        "realName": "La Paz",
+        "country": "la_paz",
+        "x": "-74554",
+        "y": "65.7578",
+        "z": "79288"
     },
     {
-      "gameName": "tepic",
-      "realName": "Tepic",
-      "country": "nayarit",
-      "x": "-46889.3",
-      "y": "145",
-      "z": "98193.3"
+        "gameName": "tepic",
+        "realName": "Tepic",
+        "country": "tepic",
+        "x": "-46889.3",
+        "y": "145",
+        "z": "98193.3"
     },
     {
-      "gameName": "jesusma",
-      "realName": "Jesus Maria",
-      "country": "nayarit",
-      "x": "-45786.7",
-      "y": "8.98438",
-      "z": "93429.3"
+        "gameName": "jesusma",
+        "realName": "Jesus Maria",
+        "country": "jesusma",
+        "x": "-45786.7",
+        "y": "8.98438",
+        "z": "93429.3"
     },
     {
-      "gameName": "ixtlan_rio",
-      "realName": "Ixtlan del Rio",
-      "country": "nayarit",
-      "x": "-44781",
-      "y": "150.039",
-      "z": "100884"
+        "gameName": "ixtlan_rio",
+        "realName": "Ixtlan del Rio",
+        "country": "ixtlan_rio",
+        "x": "-44781",
+        "y": "150.039",
+        "z": "100884"
     },
     {
-      "gameName": "tecuala",
-      "realName": "Tecuala",
-      "country": "nayarit",
-      "x": "-51019.6",
-      "y": "61.0508",
-      "z": "93164.7"
+        "gameName": "tecuala",
+        "realName": "Tecuala",
+        "country": "tecuala",
+        "x": "-51019.6",
+        "y": "61.0508",
+        "z": "93164.7"
     },
     {
-      "gameName": "acaponeta",
-      "realName": "Acaponeta",
-      "country": "nayarit",
-      "x": "-49634.9",
-      "y": "57.8359",
-      "z": "92334.3"
+        "gameName": "acaponeta",
+        "realName": "Acaponeta",
+        "country": "acaponeta",
+        "x": "-49634.9",
+        "y": "57.8359",
+        "z": "92334.3"
     },
     {
-      "gameName": "compostela",
-      "realName": "Compostela",
-      "country": "nayarit",
-      "x": "-47145.5",
-      "y": "140",
-      "z": "100437"
+        "gameName": "compostela",
+        "realName": "Compostela",
+        "country": "compostela",
+        "x": "-47145.5",
+        "y": "140",
+        "z": "100437"
     },
     {
-      "gameName": "conchaoro",
-      "realName": "Concepcion del Oro",
-      "country": "zacatecas",
-      "x": "-28231.4",
-      "y": "153.504",
-      "z": "82038.7"
+        "gameName": "conchaoro",
+        "realName": "Concepcion del Oro",
+        "country": "conchaoro",
+        "x": "-28231.4",
+        "y": "153.504",
+        "z": "82038.7"
     },
 ];
 
@@ -5838,7 +5838,7 @@ var cities_c2c = [
     {
         "gameName": "anniston_al",
         "realName": "Anniston",
-        "country": "alabama",
+        "country": "anniston_al",
         "x": "47052.7",
         "y": "6.03226",
         "z": "27017.7"
@@ -5846,7 +5846,7 @@ var cities_c2c = [
     {
         "gameName": "birmingham_al",
         "realName": "Birmingham",
-        "country": "alabama",
+        "country": "birmingham_al",
         "x": "43256.8",
         "y": "16.1978",
         "z": "28322"
@@ -5854,7 +5854,7 @@ var cities_c2c = [
     {
         "gameName": "huntsville_al",
         "realName": "Huntsville",
-        "country": "alabama",
+        "country": "huntsville_al",
         "x": "41799.1",
         "y": "37.621",
         "z": "21186.1"
@@ -5862,7 +5862,7 @@ var cities_c2c = [
     {
         "gameName": "mobile",
         "realName": "Mobile",
-        "country": "alabama",
+        "country": "mobile",
         "x": "39248",
         "y": "130.223",
         "z": "45610.4"
@@ -5870,7 +5870,7 @@ var cities_c2c = [
     {
         "gameName": "montgomery_al",
         "realName": "Montgomery",
-        "country": "alabama",
+        "country": "montgomery_al",
         "x": "46209.6",
         "y": "55.5704",
         "z": "34586.9"
@@ -5878,7 +5878,7 @@ var cities_c2c = [
     {
         "gameName": "tuscaloosa_al",
         "realName": "Tuscaloosa",
-        "country": "alabama",
+        "country": "tuscaloosa_al",
         "x": "40725.8",
         "y": "91.6523",
         "z": "30224.4"
@@ -5886,7 +5886,7 @@ var cities_c2c = [
     {
         "gameName": "el_dorado_ar",
         "realName": "El Dorado",
-        "country": "arkansas",
+        "country": "el_dorado_ar",
         "x": "15735.6",
         "y": "112.68",
         "z": "31890.9"
@@ -5894,7 +5894,7 @@ var cities_c2c = [
     {
         "gameName": "fayetteville_ar",
         "realName": "Fayetteville",
-        "country": "arkansas",
+        "country": "fayetteville_ar",
         "x": "9495.54",
         "y": "105.207",
         "z": "16615"
@@ -5902,7 +5902,7 @@ var cities_c2c = [
     {
         "gameName": "fort_smith_ar",
         "realName": "Fort Smith",
-        "country": "arkansas",
+        "country": "fort_smith_ar",
         "x": "7007.55",
         "y": "93.8315",
         "z": "21483.1"
@@ -5910,7 +5910,7 @@ var cities_c2c = [
     {
         "gameName": "hot_springs_ar",
         "realName": "Hot Springs",
-        "country": "arkansas",
+        "country": "hot_springs_ar",
         "x": "13756.2",
         "y": "98.9141",
         "z": "24366.1"
@@ -5918,7 +5918,7 @@ var cities_c2c = [
     {
         "gameName": "jonesboro_ar",
         "realName": "Jonesboro",
-        "country": "arkansas",
+        "country": "jonesboro_ar",
         "x": "23472.7",
         "y": "95.043",
         "z": "15258.7"
@@ -5926,7 +5926,7 @@ var cities_c2c = [
     {
         "gameName": "little_rock",
         "realName": "Little Rock",
-        "country": "arkansas",
+        "country": "little_rock",
         "x": "16499.3",
         "y": "197.602",
         "z": "23593.3"
@@ -5934,7 +5934,7 @@ var cities_c2c = [
     {
         "gameName": "hartford",
         "realName": "Hartford",
-        "country": "connecticut",
+        "country": "hartford",
         "x": "96897.8",
         "y": "45.0938",
         "z": "-28362.4"
@@ -5942,7 +5942,7 @@ var cities_c2c = [
     {
         "gameName": "new_haven",
         "realName": "New Haven",
-        "country": "connecticut",
+        "country": "new_haven",
         "x": "96746.5",
         "y": "14.3767",
         "z": "-25291.5"
@@ -5950,7 +5950,7 @@ var cities_c2c = [
     {
         "gameName": "panama_city",
         "realName": "Panama City",
-        "country": "florida",
+        "country": "panama_city",
         "x": "51618.7",
         "y": "74.0011",
         "z": "43546.9"
@@ -5958,7 +5958,7 @@ var cities_c2c = [
     {
         "gameName": "port_saint_lucie",
         "realName": "Port Saint Lucie",
-        "country": "florida",
+        "country": "port_saint_lucie",
         "x": "79975.3",
         "y": "33.2713",
         "z": "60176.5",
@@ -5966,7 +5966,7 @@ var cities_c2c = [
     {
         "gameName": "gainesville",
         "realName": "Gainesville",
-        "country": "florida",
+        "country": "gainesville",
         "x": "65934.9",
         "y": "113.122",
         "z": "48829"
@@ -5974,7 +5974,7 @@ var cities_c2c = [
     {
         "gameName": "jacksonville",
         "realName": "Jacksonville",
-        "country": "florida",
+        "country": "jacksonville",
         "x": "70683.2",
         "y": "114.177",
         "z": "42033.6"
@@ -5982,7 +5982,7 @@ var cities_c2c = [
     {
         "gameName": "key_west",
         "realName": "Key West",
-        "country": "florida",
+        "country": "key_west",
         "x": "75154.8",
         "y": "61.8633",
         "z": "76254.8"
@@ -5990,7 +5990,7 @@ var cities_c2c = [
     {
         "gameName": "melbourne_fl",
         "realName": "Melbourne",
-        "country": "florida",
+        "country": "melbourne_fl",
         "x": "77407.9",
         "y": "2.48506",
         "z": "55267.3"
@@ -5998,7 +5998,7 @@ var cities_c2c = [
     {
         "gameName": "miami",
         "realName": "Miami",
-        "country": "florida",
+        "country": "miami",
         "x": "81409.5",
         "y": "58.9183",
         "z": "68934.8"
@@ -6006,7 +6006,7 @@ var cities_c2c = [
     {
         "gameName": "naples",
         "realName": "Naples",
-        "country": "florida",
+        "country": "naples",
         "x": "73653",
         "y": "80",
         "z": "66650.7"
@@ -6014,7 +6014,7 @@ var cities_c2c = [
     {
         "gameName": "new_smyrna_beach",
         "realName": "New Smyrna Beach",
-        "country": "florida",
+        "country": "new_smyrna_beach",
         "x": "74529",
         "y": "66.9414",
         "z": "50411.4"
@@ -6022,7 +6022,7 @@ var cities_c2c = [
     {
         "gameName": "orlando",
         "realName": "Orlando",
-        "country": "florida",
+        "country": "orlando",
         "x": "72499.1",
         "y": "78.9297",
         "z": "53947.9"
@@ -6030,7 +6030,7 @@ var cities_c2c = [
     {
         "gameName": "pensacola",
         "realName": "Pensacola",
-        "country": "florida",
+        "country": "pensacola",
         "x": "43251.7",
         "y": "43.8531",
         "z": "45536.2"
@@ -6038,7 +6038,7 @@ var cities_c2c = [
     {
         "gameName": "sarasota_fl",
         "realName": "Sarasota",
-        "country": "florida",
+        "country": "sarasota_fl",
         "x": "69058.5",
         "y": "34.2867",
         "z": "61218.6"
@@ -6046,7 +6046,7 @@ var cities_c2c = [
     {
         "gameName": "tallahassee",
         "realName": "Tallahassee",
-        "country": "florida",
+        "country": "tallahassee",
         "x": "57304.9",
         "y": "53.2383",
         "z": "44458.2"
@@ -6054,7 +6054,7 @@ var cities_c2c = [
     {
         "gameName": "tampa",
         "realName": "Tampa",
-        "country": "florida",
+        "country": "tampa",
         "x": "67718.8",
         "y": "120.328",
         "z": "57431"
@@ -6062,7 +6062,7 @@ var cities_c2c = [
     {
         "gameName": "albany_ga",
         "realName": "Albany",
-        "country": "georgia",
+        "country": "albany_ga",
         "x": "59300.6",
         "y": "124.933",
         "z": "36924.4"
@@ -6070,7 +6070,7 @@ var cities_c2c = [
     {
         "gameName": "atlanta",
         "realName": "Atlanta",
-        "country": "georgia",
+        "country": "atlanta",
         "x": "53503.3",
         "y": "87.7422",
         "z": "25862"
@@ -6078,7 +6078,7 @@ var cities_c2c = [
     {
         "gameName": "augusta_ga",
         "realName": "Augusta",
-        "country": "georgia",
+        "country": "augusta_ga",
         "x": "65444.4",
         "y": "25.1757",
         "z": "25661.2"
@@ -6086,7 +6086,7 @@ var cities_c2c = [
     {
         "gameName": "columbus_ga",
         "realName": "Columbus",
-        "country": "georgia",
+        "country": "columbus_ga",
         "x": "51200.3",
         "y": "18.1238",
         "z": "31099.5"
@@ -6094,7 +6094,7 @@ var cities_c2c = [
     {
         "gameName": "macon",
         "realName": "Macon",
-        "country": "georgia",
+        "country": "macon",
         "x": "58277.8",
         "y": "52.1662",
         "z": "30230.2"
@@ -6102,7 +6102,7 @@ var cities_c2c = [
     {
         "gameName": "savannah",
         "realName": "Savannah",
-        "country": "georgia",
+        "country": "savannah",
         "x": "71340.3",
         "y": "96.3945",
         "z": "33230.1"
@@ -6110,7 +6110,7 @@ var cities_c2c = [
     {
         "gameName": "statesboro",
         "realName": "Statesboro",
-        "country": "georgia",
+        "country": "statesboro",
         "x": "65187.3",
         "y": "59.0311",
         "z": "32035.8"
@@ -6118,7 +6118,7 @@ var cities_c2c = [
     {
         "gameName": "valdosta",
         "realName": "Valdosta",
-        "country": "georgia",
+        "country": "valdosta",
         "x": "61486.7",
         "y": "115.338",
         "z": "41379.2"
@@ -6126,7 +6126,7 @@ var cities_c2c = [
     {
         "gameName": "hilo",
         "realName": "Hilo",
-        "country": "hawaii",
+        "country": "hilo",
         "x": "-293173",
         "y": "74.7109",
         "z": "42103.5"
@@ -6134,7 +6134,7 @@ var cities_c2c = [
     {
         "gameName": "honolulu",
         "realName": "Honolulu",
-        "country": "hawaii",
+        "country": "honolulu",
         "x": "-313617",
         "y": "3.34848",
         "z": "-11027.75"
@@ -6142,7 +6142,7 @@ var cities_c2c = [
     {
         "gameName": "kilua_kona",
         "realName": "Kilua Kona",
-        "country": "hawaii",
+        "country": "kilua_kona",
         "x": "-305466",
         "y": "7.46992",
         "z": "40895.7"
@@ -6150,7 +6150,7 @@ var cities_c2c = [
     {
         "gameName": "naalehu",
         "realName": "Naalehu",
-        "country": "hawaii",
+        "country": "naalehu",
         "x": "-302175",
         "y": "85.836",
         "z": "48855.6"
@@ -6158,7 +6158,7 @@ var cities_c2c = [
     {
         "gameName": "bloomington_il",
         "realName": "Bloomington",
-        "country": "illinois",
+        "country": "bloomington_il",
         "x": "30066.2",
         "y": "9.52509",
         "z": "-9248.75"
@@ -6166,7 +6166,7 @@ var cities_c2c = [
     {
         "gameName": "chicago",
         "realName": "Chicago",
-        "country": "illinois",
+        "country": "chicago",
         "x": "34826.7",
         "y": "59.5403",
         "z": "-17855.9"
@@ -6174,7 +6174,7 @@ var cities_c2c = [
     {
         "gameName": "lasalle",
         "realName": "LaSalle",
-        "country": "illinois",
+        "country": "lasalle",
         "x": "28595.5",
         "y": "15.2193",
         "z": "-14477.3"
@@ -6182,7 +6182,7 @@ var cities_c2c = [
     {
         "gameName": "mt_vernon",
         "realName": "Mt. Vernon",
-        "country": "illinois",
+        "country": "mt_vernon",
         "x": "31140.6",
         "y": "23.1445",
         "z": "2314.56"
@@ -6190,7 +6190,7 @@ var cities_c2c = [
     {
         "gameName": "peoria_il",
         "realName": "Peoria",
-        "country": "illinois",
+        "country": "peoria_il",
         "x": "25361.1",
         "y": "42.8892",
         "z": "-10042.6"
@@ -6198,7 +6198,7 @@ var cities_c2c = [
     {
         "gameName": "rockford_il",
         "realName": "Rockford",
-        "country": "illinois",
+        "country": "rockford_il",
         "x": "29326.7",
         "y": "35.5893",
         "z": "-19394.9"
@@ -6206,7 +6206,7 @@ var cities_c2c = [
     {
         "gameName": "springfield_il",
         "realName": "Springfield",
-        "country": "illinois",
+        "country": "springfield_il",
         "x": "27536.2",
         "y": "90.6132",
         "z": "-4769.32"
@@ -6214,7 +6214,7 @@ var cities_c2c = [
     {
         "gameName": "indianapolis",
         "realName": "Indianapolis",
-        "country": "indiana",
+        "country": "indianapolis",
         "x": "42699.5",
         "y": "73.6016",
         "z": "-6499.56"
@@ -6222,7 +6222,7 @@ var cities_c2c = [
     {
         "gameName": "evansville_in",
         "realName": "Evansville",
-        "country": "indiana",
+        "country": "evansville_in",
         "x": "38176.1",
         "y": "89.8925",
         "z": "3043.07"
@@ -6230,7 +6230,7 @@ var cities_c2c = [
     {
         "gameName": "lafayette_in",
         "realName": "Lafayette",
-        "country": "indiana",
+        "country": "lafayette_in",
         "x": "38297.4",
         "y": "27.6158",
         "z": "-10933.1"
@@ -6238,7 +6238,7 @@ var cities_c2c = [
     {
         "gameName": "south_bend",
         "realName": "South Bend",
-        "country": "indiana",
+        "country": "south_bend",
         "x": "41206.4",
         "y": "41.6752",
         "z": "-17693.6"
@@ -6246,7 +6246,7 @@ var cities_c2c = [
     {
         "gameName": "terre_haute",
         "realName": "Terre Haute",
-        "country": "indiana",
+        "country": "terre_haute",
         "x": "35385.1",
         "y": "40.6383",
         "z": "-3420.99"
@@ -6254,7 +6254,7 @@ var cities_c2c = [
     {
         "gameName": "desmoines",
         "realName": "Des Moines",
-        "country": "iowa",
+        "country": "desmoines",
         "x": "10449.6",
         "y": "280.758",
         "z": "-15398.4"
@@ -6262,7 +6262,7 @@ var cities_c2c = [
     {
         "gameName": "davenport",
         "realName": "Davenport",
-        "country": "iowa",
+        "country": "davenport",
         "x": "22909.3",
         "y": "88.9163",
         "z": "-15390.4"
@@ -6270,7 +6270,7 @@ var cities_c2c = [
     {
         "gameName": "sioux_city",
         "realName": "Sioux City",
-        "country": "iowa",
+        "country": "sioux_city",
         "x": "-1276.06",
         "y": "111.75",
         "z": "-19592.4"
@@ -6278,7 +6278,7 @@ var cities_c2c = [
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
-        "country": "iowa",
+        "country": "cedar_rapids",
         "x": "18196.8",
         "y": "126.424",
         "z": "-15914.7"
@@ -6286,7 +6286,7 @@ var cities_c2c = [
     {
         "gameName": "colby_ks",
         "realName": "Colby",
-        "country": "kansas",
+        "country": "colby_ks",
         "x": "-22384.1",
         "y": "270",
         "z": "-3269.34"
@@ -6294,7 +6294,7 @@ var cities_c2c = [
     {
         "gameName": "dodgecity",
         "realName": "Dodge City",
-        "country": "kansas",
+        "country": "dodgecity",
         "x": "-18001.7",
         "y": "140",
         "z": "6714.36"
@@ -6302,7 +6302,7 @@ var cities_c2c = [
     {
         "gameName": "emporia",
         "realName": "Emporia",
-        "country": "kansas",
+        "country": "emporia",
         "x": "-1659.19",
         "y": "175.192",
         "z": "4401.77"
@@ -6310,7 +6310,7 @@ var cities_c2c = [
     {
         "gameName": "gardencity",
         "realName": "Garden City",
-        "country": "kansas",
+        "country": "gardencity",
         "x": "-21669.2",
         "y": "180",
         "z": "4876.24"
@@ -6318,7 +6318,7 @@ var cities_c2c = [
     {
         "gameName": "greatbend_ks",
         "realName": "Great Bend",
-        "country": "kansas",
+        "country": "greatbend_ks",
         "x": "-12390.6",
         "y": "188",
         "z": "3328.88"
@@ -6326,7 +6326,7 @@ var cities_c2c = [
     {
         "gameName": "hays",
         "realName": "Hays",
-        "country": "kansas",
+        "country": "hays",
         "x": "-15143.8",
         "y": "281.967",
         "z": "-10.7185"
@@ -6334,7 +6334,7 @@ var cities_c2c = [
     {
         "gameName": "liberal_ks",
         "realName": "Liberal",
-        "country": "kansas",
+        "country": "liberal_ks",
         "x": "-22130.8",
         "y": "134",
         "z": "10233.8"
@@ -6342,7 +6342,7 @@ var cities_c2c = [
     {
         "gameName": "salina_ks",
         "realName": "Salina",
-        "country": "kansas",
+        "country": "salina_ks",
         "x": "-7276.62",
         "y": "354.108",
         "z": "684.355"
@@ -6350,7 +6350,7 @@ var cities_c2c = [
     {
         "gameName": "topeka",
         "realName": "Topeka",
-        "country": "kansas",
+        "country": "topeka",
         "x": "-1862.19",
         "y": "175.426",
         "z": "-96.5295"
@@ -6358,7 +6358,7 @@ var cities_c2c = [
     {
         "gameName": "wichita",
         "realName": "Wichita",
-        "country": "kansas",
+        "country": "wichita",
         "x": "-5937.22",
         "y": "175.43",
         "z": "6685.19"
@@ -6366,7 +6366,7 @@ var cities_c2c = [
     {
         "gameName": "bowling_green",
         "realName": "Bowling Green",
-        "country": "kentucky",
+        "country": "bowling_green",
         "x": "43937",
         "y": "25.8797",
         "z": "8545.25"
@@ -6374,7 +6374,7 @@ var cities_c2c = [
     {
         "gameName": "lexington_ky",
         "realName": "Lexington",
-        "country": "kentucky",
+        "country": "lexington_ky",
         "x": "51012.7",
         "y": "38.8306",
         "z": "2368.46"
@@ -6382,7 +6382,7 @@ var cities_c2c = [
     {
         "gameName": "london_ky",
         "realName": "London",
-        "country": "kentucky",
+        "country": "london_ky",
         "x": "52935.9",
         "y": "64.2498",
         "z": "8618.22"
@@ -6390,7 +6390,7 @@ var cities_c2c = [
     {
         "gameName": "louisville",
         "realName": "Louisville",
-        "country": "kentucky",
+        "country": "louisville",
         "x": "45233.7",
         "y": "62.2891",
         "z": "1811.28"
@@ -6398,7 +6398,7 @@ var cities_c2c = [
     {
         "gameName": "paducah",
         "realName": "Paducah",
-        "country": "kentucky",
+        "country": "paducah",
         "x": "32843.7",
         "y": "26.005",
         "z": "9181.52"
@@ -6406,7 +6406,7 @@ var cities_c2c = [
     {
         "gameName": "alexandria_la",
         "realName": "Alexandria",
-        "country": "louisiana",
+        "country": "alexandria_la",
         "x": "17350.1",
         "y": "64.9961",
         "z": "42386.1"
@@ -6414,7 +6414,7 @@ var cities_c2c = [
     {
         "gameName": "baton_rouge",
         "realName": "Baton Rouge",
-        "country": "louisiana",
+        "country": "baton_rouge",
         "x": "23112.9",
         "y": "41.9934",
         "z": "47069.5"
@@ -6422,7 +6422,7 @@ var cities_c2c = [
     {
         "gameName": "lafayette_la",
         "realName": "Lafayette",
-        "country": "louisiana",
+        "country": "lafayette_la",
         "x": "19753.2",
         "y": "25.4653",
         "z": "48213.6"
@@ -6430,7 +6430,7 @@ var cities_c2c = [
     {
         "gameName": "lake_charles",
         "realName": "Lake Charles",
-        "country": "louisiana",
+        "country": "lake_charles",
         "x": "13587.6",
         "y": "28.9116",
         "z": "48573"
@@ -6438,7 +6438,7 @@ var cities_c2c = [
     {
         "gameName": "monroe_la",
         "realName": "Monroe",
-        "country": "louisiana",
+        "country": "monroe_la",
         "x": "18310.5",
         "y": "34.1494",
         "z": "35505.5"
@@ -6446,7 +6446,7 @@ var cities_c2c = [
     {
         "gameName": "natchitoches_la",
         "realName": "Natchitoches",
-        "country": "louisiana",
+        "country": "natchitoches_la",
         "x": "14267.8",
         "y": "91.4961",
         "z": "38305.5"
@@ -6454,7 +6454,7 @@ var cities_c2c = [
     {
         "gameName": "new_orleans",
         "realName": "New Orleans",
-        "country": "louisiana",
+        "country": "new_orleans",
         "x": "29456.7",
         "y": "112.188",
         "z": "50159.6"
@@ -6462,7 +6462,7 @@ var cities_c2c = [
     {
         "gameName": "shreveport",
         "realName": "Shreveport",
-        "country": "louisiana",
+        "country": "shreveport",
         "x": "11127.9",
         "y": "30.749",
         "z": "35626.7"
@@ -6470,7 +6470,7 @@ var cities_c2c = [
     {
         "gameName": "augusta_me",
         "realName": "Augusta",
-        "country": "maine",
+        "country": "augusta_me",
         "x": "104817",
         "y": "31.4174",
         "z": "-47146.5"
@@ -6478,7 +6478,7 @@ var cities_c2c = [
     {
         "gameName": "bangor",
         "realName": "Bangor",
-        "country": "maine",
+        "country": "bangor",
         "x": "107520",
         "y": "73.7617",
         "z": "-49291.6"
@@ -6486,7 +6486,7 @@ var cities_c2c = [
     {
         "gameName": "houlton",
         "realName": "Houlton",
-        "country": "maine",
+        "country": "houlton",
         "x": "106893",
         "y": "80.957",
         "z": "-57324.5"
@@ -6494,7 +6494,7 @@ var cities_c2c = [
     {
         "gameName": "portland_me",
         "realName": "Portland",
-        "country": "maine",
+        "country": "portland_me",
         "x": "103879",
         "y": "111.551",
         "z": "-41233.5"
@@ -6502,7 +6502,7 @@ var cities_c2c = [
     {
         "gameName": "baltimore",
         "realName": "Baltimore",
-        "country": "maryland",
+        "country": "baltimore",
         "x": "83921.1",
         "y": "109.738",
         "z": "-10999.3"
@@ -6510,7 +6510,7 @@ var cities_c2c = [
     {
         "gameName": "washington_dc",
         "realName": "Washington, DC",
-        "country": "maryland",
+        "country": "washington_dc",
         "x": "82526",
         "y": "130.223",
         "z": "-8588.73"
@@ -6518,7 +6518,7 @@ var cities_c2c = [
     {
         "gameName": "boston",
         "realName": "Boston",
-        "country": "massachusetts",
+        "country": "boston",
         "x": "102655",
         "y": "146.824",
         "z": "-33039.5"
@@ -6526,7 +6526,7 @@ var cities_c2c = [
     {
         "gameName": "springfield_ma",
         "realName": "Springfield",
-        "country": "massachusetts",
+        "country": "springfield_ma",
         "x": "96752.6",
         "y": "19.2037",
         "z": "-30428.4"
@@ -6534,7 +6534,7 @@ var cities_c2c = [
     {
         "gameName": "detroit",
         "realName": "Detroit",
-        "country": "michigan",
+        "country": "detroit",
         "x": "53558.8",
         "y": "112.152",
         "z": "-22861.4"
@@ -6542,7 +6542,7 @@ var cities_c2c = [
     {
         "gameName": "grand_rapids",
         "realName": "Grand Rapids",
-        "country": "michigan",
+        "country": "grand_rapids",
         "x": "41965.5",
         "y": "99.2422",
         "z": "-25104.4"
@@ -6550,7 +6550,7 @@ var cities_c2c = [
     {
         "gameName": "lansing_mi",
         "realName": "Lansing",
-        "country": "michigan",
+        "country": "lansing_mi",
         "x": "46487.4",
         "y": "-2296.55",
         "z": "-23688.5"
@@ -6558,7 +6558,7 @@ var cities_c2c = [
     {
         "gameName": "flint_mi",
         "realName": "Flint",
-        "country": "michigan",
+        "country": "flint_mi",
         "x": "49938.1",
         "y": "120.899",
         "z": "-27218.3"
@@ -6566,7 +6566,7 @@ var cities_c2c = [
     {
         "gameName": "traversecity_mi",
         "realName": "Traverse City",
-        "country": "michigan",
+        "country": "traversecity_mi",
         "x": "41267.3",
         "y": "55.9375",
         "z": "-34538.1"
@@ -6574,7 +6574,7 @@ var cities_c2c = [
     {
         "gameName": "alpena_mi",
         "realName": "Alpena",
-        "country": "michigan",
+        "country": "alpena_mi",
         "x": "49828.8",
         "y": "48.7539",
         "z": "-37610.9"
@@ -6582,7 +6582,7 @@ var cities_c2c = [
     {
         "gameName": "bemidji",
         "realName": "Bemidji",
-        "country": "minnesota",
+        "country": "bemidji",
         "x": "4582.52",
         "y": "61.0368",
         "z": "-48284.4"
@@ -6590,7 +6590,7 @@ var cities_c2c = [
     {
         "gameName": "duluth",
         "realName": "Duluth",
-        "country": "minnesota",
+        "country": "duluth",
         "x": "15242.3",
         "y": "85.1055",
         "z": "-44691"
@@ -6598,7 +6598,7 @@ var cities_c2c = [
     {
         "gameName": "minneapolis",
         "realName": "Minneapolis",
-        "country": "minnesota",
+        "country": "minneapolis",
         "x": "10360",
         "y": "149.457",
         "z": "-34026.9"
@@ -6606,7 +6606,7 @@ var cities_c2c = [
     {
         "gameName": "rochester_mn",
         "realName": "Rochester",
-        "country": "minnesota",
+        "country": "rochester_mn",
         "x": "15607.5",
         "y": "93.4564",
         "z": "-28327"
@@ -6614,7 +6614,7 @@ var cities_c2c = [
     {
         "gameName": "st_cloud",
         "realName": "St. Cloud",
-        "country": "minnesota",
+        "country": "st_cloud",
         "x": "6270.76",
         "y": "97.8348",
         "z": "-37767.2"
@@ -6622,7 +6622,7 @@ var cities_c2c = [
     {
         "gameName": "worthington_mn",
         "realName": "Worthington",
-        "country": "minnesota",
+        "country": "worthington_mn",
         "x": "3612.22",
         "y": "111.855",
         "z": "-26280.8"
@@ -6630,7 +6630,7 @@ var cities_c2c = [
     {
         "gameName": "greenwood_ms",
         "realName": "Greenwood",
-        "country": "mississippi",
+        "country": "greenwood_ms",
         "x": "29233.2",
         "y": "132.743",
         "z": "29617.8"
@@ -6638,7 +6638,7 @@ var cities_c2c = [
     {
         "gameName": "gulfport_ms",
         "realName": "Gulfport",
-        "country": "mississippi",
+        "country": "gulfport_ms",
         "x": "33807.3",
         "y": "51.1406",
         "z": "47029"
@@ -6646,7 +6646,7 @@ var cities_c2c = [
     {
         "gameName": "hattiesburg",
         "realName": "Hattiesburg",
-        "country": "mississippi",
+        "country": "hattiesburg",
         "x": "32292.2",
         "y": "25.157",
         "z": "41669"
@@ -6654,7 +6654,7 @@ var cities_c2c = [
     {
         "gameName": "meridian_ms",
         "realName": "Meridian",
-        "country": "mississippi",
+        "country": "meridian_ms",
         "x": "35012.5",
         "y": "31.3351",
         "z": "35380.1"
@@ -6662,7 +6662,7 @@ var cities_c2c = [
     {
         "gameName": "mccomb_ms",
         "realName": "McComb",
-        "country": "mississippi",
+        "country": "mccomb_ms",
         "x": "27807.6",
         "y": "31.0195",
         "z": "41437.5"
@@ -6670,7 +6670,7 @@ var cities_c2c = [
     {
         "gameName": "tupelo_ms",
         "realName": "Tupelo",
-        "country": "mississippi",
+        "country": "tupelo_ms",
         "x": "34178.3",
         "y": "158.59",
         "z": "24680.7"
@@ -6678,7 +6678,7 @@ var cities_c2c = [
     {
         "gameName": "jackson_ms",
         "realName": "Jackson/Vicksburg",
-        "country": "mississippi",
+        "country": "jackson_ms",
         "x": "26945.4",
         "y": "86.5699",
         "z": "36484.4"
@@ -6686,7 +6686,7 @@ var cities_c2c = [
     {
         "gameName": "cape_girardeau",
         "realName": "Cape Girardeau",
-        "country": "missouri",
+        "country": "cape_girardeau",
         "x": "29501.2",
         "y": "47.5692",
         "z": "10440.7"
@@ -6694,7 +6694,7 @@ var cities_c2c = [
     {
         "gameName": "columbia_mo",
         "realName": "Columbia",
-        "country": "missouri",
+        "country": "columbia_mo",
         "x": "17386.3",
         "y": "125.087",
         "z": "-138.205"
@@ -6702,7 +6702,7 @@ var cities_c2c = [
     {
         "gameName": "joplin",
         "realName": "Joplin",
-        "country": "missouri",
+        "country": "joplin",
         "x": "6903.6",
         "y": "130.968",
         "z": "11188.4"
@@ -6710,7 +6710,7 @@ var cities_c2c = [
     {
         "gameName": "kansascity",
         "realName": "Kansas City",
-        "country": "missouri",
+        "country": "kansascity",
         "x": "6370.48",
         "y": "192.055",
         "z": "-507.648"
@@ -6718,7 +6718,7 @@ var cities_c2c = [
     {
         "gameName": "kirksville_mo",
         "realName": "Kirksville",
-        "country": "missouri",
+        "country": "kirksville_mo",
         "x": "15336.8",
         "y": "44.8823",
         "z": "-6367.12"
@@ -6726,7 +6726,7 @@ var cities_c2c = [
     {
         "gameName": "rolla",
         "realName": "Rolla",
-        "country": "missouri",
+        "country": "rolla",
         "x": "18164.2",
         "y": "24.3027",
         "z": "6092.5"
@@ -6734,7 +6734,7 @@ var cities_c2c = [
     {
         "gameName": "st_joseph",
         "realName": "St. Joseph",
-        "country": "missouri",
+        "country": "st_joseph",
         "x": "5300.43",
         "y": "136.541",
         "z": "-4684.05"
@@ -6742,7 +6742,7 @@ var cities_c2c = [
     {
         "gameName": "stlouis",
         "realName": "St. Louis",
-        "country": "missouri",
+        "country": "stlouis",
         "x": "25065.6",
         "y": "81.9595",
         "z": "806.646"
@@ -6750,7 +6750,7 @@ var cities_c2c = [
     {
         "gameName": "springfield_mo",
         "realName": "Springfield",
-        "country": "missouri",
+        "country": "springfield_mo",
         "x": "12774.7",
         "y": "112.742",
         "z": "10257.9"
@@ -6758,7 +6758,7 @@ var cities_c2c = [
     {
         "gameName": "billings",
         "realName": "Billings",
-        "country": "montana",
+        "country": "billings",
         "x": "-49254.5",
         "y": "302.777",
         "z": "-42753.2"
@@ -6766,7 +6766,7 @@ var cities_c2c = [
     {
         "gameName": "bozeman",
         "realName": "Bozeman",
-        "country": "montana",
+        "country": "bozeman",
         "x": "-57968.1",
         "y": "195.588",
         "z": "-42775.3"
@@ -6774,7 +6774,7 @@ var cities_c2c = [
     {
         "gameName": "butte",
         "realName": "Butte",
-        "country": "montana",
+        "country": "butte",
         "x": "-64351.9",
         "y": "290",
         "z": "-46049.2"
@@ -6782,7 +6782,7 @@ var cities_c2c = [
     {
         "gameName": "dillon",
         "realName": "Dillon",
-        "country": "montana",
+        "country": "dillon",
         "x": "-65659.8",
         "y": "372.834",
         "z": "-40232.8"
@@ -6790,7 +6790,7 @@ var cities_c2c = [
     {
         "gameName": "forsyth",
         "realName": "Forsyth",
-        "country": "montana",
+        "country": "forsyth",
         "x": "-42303.6",
         "y": "303.387",
         "z": "-44059.5"
@@ -6798,7 +6798,7 @@ var cities_c2c = [
     {
         "gameName": "glasgow",
         "realName": "Glasgow",
-        "country": "montana",
+        "country": "glasgow",
         "x": "-40287.7",
         "y": "245.02",
         "z": "-54780.7"
@@ -6806,7 +6806,7 @@ var cities_c2c = [
     {
         "gameName": "glendive",
         "realName": "Glendive",
-        "country": "montana",
+        "country": "glendive",
         "x": "-33705.3",
         "y": "234.624",
         "z": "-47863.6"
@@ -6814,7 +6814,7 @@ var cities_c2c = [
     {
         "gameName": "greatfalls",
         "realName": "Great Falls",
-        "country": "montana",
+        "country": "greatfalls",
         "x": "-57695.8",
         "y": "287.27",
         "z": "-53380"
@@ -6822,7 +6822,7 @@ var cities_c2c = [
     {
         "gameName": "havre",
         "realName": "Havre",
-        "country": "montana",
+        "country": "havre",
         "x": "-50549.2",
         "y": "237.535",
         "z": "-58015.8"
@@ -6830,7 +6830,7 @@ var cities_c2c = [
     {
         "gameName": "helena",
         "realName": "Helena",
-        "country": "montana",
+        "country": "helena",
         "x": "-61695.5",
         "y": "314.918",
         "z": "-48818.2"
@@ -6838,7 +6838,7 @@ var cities_c2c = [
     {
         "gameName": "kalispell",
         "realName": "Kalispell",
-        "country": "montana",
+        "country": "kalispell",
         "x": "-68533.6",
         "y": "274.883",
         "z": "-59476.3"
@@ -6846,7 +6846,7 @@ var cities_c2c = [
     {
         "gameName": "lewistown",
         "realName": "Lewistown",
-        "country": "montana",
+        "country": "lewistown",
         "x": "-51981.1",
         "y": "128.777",
         "z": "-49980.6"
@@ -6854,7 +6854,7 @@ var cities_c2c = [
     {
         "gameName": "malta",
         "realName": "Malta",
-        "country": "montana",
+        "country": "malta",
         "x": "-44372.8",
         "y": "218.148",
         "z": "-55913.4"
@@ -6862,7 +6862,7 @@ var cities_c2c = [
     {
         "gameName": "milescity",
         "realName": "Miles City",
-        "country": "montana",
+        "country": "milescity",
         "x": "-37842.4",
         "y": "296.844",
         "z": "-44954.1"
@@ -6870,7 +6870,7 @@ var cities_c2c = [
     {
         "gameName": "missoula",
         "realName": "Missoula",
-        "country": "montana",
+        "country": "missoula",
         "x": "-69491.6",
         "y": "268.016",
         "z": "-51664.9"
@@ -6878,7 +6878,7 @@ var cities_c2c = [
     {
         "gameName": "shelby",
         "realName": "Shelby",
-        "country": "montana",
+        "country": "shelby",
         "x": "-58535.3",
         "y": "268.91",
         "z": "-59103.9"
@@ -6886,7 +6886,7 @@ var cities_c2c = [
     {
         "gameName": "wolfpoint",
         "realName": "Wolf Point",
-        "country": "montana",
+        "country": "wolfpoint",
         "x": "-36778.1",
         "y": "266.906",
         "z": "-53491"
@@ -6894,7 +6894,7 @@ var cities_c2c = [
     {
         "gameName": "grand_island",
         "realName": "Grand Island",
-        "country": "nebraska",
+        "country": "grand_island",
         "x": "-10181.3",
         "y": "160.713",
         "z": "-10546"
@@ -6902,7 +6902,7 @@ var cities_c2c = [
     {
         "gameName": "lincoln",
         "realName": "Lincoln",
-        "country": "nebraska",
+        "country": "lincoln",
         "x": "-2976.41",
         "y": "153.148",
         "z": "-10568.5"
@@ -6910,7 +6910,7 @@ var cities_c2c = [
     {
         "gameName": "mccook_ne",
         "realName": "McCook",
-        "country": "nebraska",
+        "country": "mccook_ne",
         "x": "-20050.5",
         "y": "295",
         "z": "-7667.82"
@@ -6918,7 +6918,7 @@ var cities_c2c = [
     {
         "gameName": "north_platte",
         "realName": "North Platte",
-        "country": "nebraska",
+        "country": "north_platte",
         "x": "-20111.6",
         "y": "292.426",
         "z": "-12577"
@@ -6926,7 +6926,7 @@ var cities_c2c = [
     {
         "gameName": "ogallala_ne",
         "realName": "Ogallala",
-        "country": "nebraska",
+        "country": "ogallala_ne",
         "x": "-25219.9",
         "y": "66.012",
         "z": "-12820"
@@ -6934,7 +6934,7 @@ var cities_c2c = [
     {
         "gameName": "omaha",
         "realName": "Omaha",
-        "country": "nebraska",
+        "country": "omaha",
         "x": "406.785",
         "y": "214.711",
         "z": "-12568.8"
@@ -6942,7 +6942,7 @@ var cities_c2c = [
     {
         "gameName": "manchester_nh",
         "realName": "Manchester",
-        "country": "new_hampshire",
+        "country": "manchester_nh",
         "x": "100251",
         "y": "73.7617",
         "z": "-36421.9"
@@ -6950,7 +6950,7 @@ var cities_c2c = [
     {
         "gameName": "portsmouth_nh",
         "realName": "Portsmouth",
-        "country": "new_hampshire",
+        "country": "portsmouth_nh",
         "x": "102968",
         "y": "31.0148",
         "z": "-38020"
@@ -6958,7 +6958,7 @@ var cities_c2c = [
     {
         "gameName": "albany",
         "realName": "Albany",
-        "country": "new_york",
+        "country": "albany",
         "x": "91460.4",
         "y": "89.9844",
         "z": "-32164.3"
@@ -6966,7 +6966,7 @@ var cities_c2c = [
     {
         "gameName": "binghamton",
         "realName": "Binghamton",
-        "country": "new_york",
+        "country": "binghamton",
         "x": "84069.2",
         "y": "8.87",
         "z": "-26854.7"
@@ -6974,7 +6974,7 @@ var cities_c2c = [
     {
         "gameName": "buffalo_ny",
         "realName": "Buffalo",
-        "country": "new_york",
+        "country": "buffalo_ny",
         "x": "70709",
         "y": "33.0455",
         "z": "-28759.2"
@@ -6982,7 +6982,7 @@ var cities_c2c = [
     {
         "gameName": "elmira",
         "realName": "Elmira",
-        "country": "new_york",
+        "country": "elmira",
         "x": "77838.5",
         "y": "16.6975",
         "z": "-26805.9"
@@ -6990,7 +6990,7 @@ var cities_c2c = [
     {
         "gameName": "newyork",
         "realName": "New York",
-        "country": "new_york",
+        "country": "newyork",
         "x": "94380.8",
         "y": "96.3945",
         "z": "-21379.9"
@@ -6998,7 +6998,7 @@ var cities_c2c = [
     {
         "gameName": "olean_ny",
         "realName": "Olean",
-        "country": "Olean",
+        "country": "olean_ny",
         "x": "73204.3",
         "y": "24.8254",
         "z": "-24820"
@@ -7006,7 +7006,7 @@ var cities_c2c = [
     {
         "gameName": "poughkeepsie",
         "realName": "Poughkeepsie",
-        "country": "new_york",
+        "country": "poughkeepsie",
         "x": "91584.8",
         "y": "21.6885",
         "z": "-26687.8"
@@ -7014,7 +7014,7 @@ var cities_c2c = [
     {
         "gameName": "rochester_ny",
         "realName": "Rochester",
-        "country": "new_york",
+        "country": "rochester_ny",
         "x": "74809.1",
         "y": "99.2422",
         "z": "-31480.9"
@@ -7022,7 +7022,7 @@ var cities_c2c = [
     {
         "gameName": "syracuse",
         "realName": "Syracuse",
-        "country": "new_york",
+        "country": "syracuse",
         "x": "81289.3",
         "y": "25.052",
         "z": "-32124.2"
@@ -7030,7 +7030,7 @@ var cities_c2c = [
     {
         "gameName": "utica_ny",
         "realName": "Utica",
-        "country": "new_york",
+        "country": "utica_ny",
         "x": "85032.6",
         "y": "62.535",
         "z": "-33357.1"
@@ -7038,7 +7038,7 @@ var cities_c2c = [
     {
         "gameName": "asheville_nc",
         "realName": "Asheville",
-        "country": "north_carolina",
+        "country": "asheville_nc",
         "x": "61439.6",
         "y": "18.5441",
         "z": "14311.7"
@@ -7046,7 +7046,7 @@ var cities_c2c = [
     {
         "gameName": "charlotte_nc",
         "realName": "Charlotte",
-        "country": "north_carolina",
+        "country": "charlotte_nc",
         "x": "68977.8",
         "y": "21.8051",
         "z": "15468.7"
@@ -7054,7 +7054,7 @@ var cities_c2c = [
     {
         "gameName": "fayetteville_nc",
         "realName": "Fayetteville",
-        "country": "north_carolina",
+        "country": "fayetteville_nc",
         "x": "78325.3",
         "y": "155.898",
         "z": "14592.2"
@@ -7062,7 +7062,7 @@ var cities_c2c = [
     {
         "gameName": "greensboro_nc",
         "realName": "Greensboro",
-        "country": "north_carolina",
+        "country": "greensboro_nc",
         "x": "72004.6",
         "y": "16.1415",
         "z": "9829.19"
@@ -7070,7 +7070,7 @@ var cities_c2c = [
     {
         "gameName": "greenville_nc",
         "realName": "Greenville",
-        "country": "north_carolina",
+        "country": "greenville_nc",
         "x": "86825.3",
         "y": "28.1265",
         "z": "12477.3"
@@ -7078,7 +7078,7 @@ var cities_c2c = [
     {
         "gameName": "raleigh",
         "realName": "Raleigh",
-        "country": "north_carolina",
+        "country": "raleigh",
         "x": "78658.2",
         "y": "129.691",
         "z": "10362.4"
@@ -7086,7 +7086,7 @@ var cities_c2c = [
     {
         "gameName": "wilmington_nc",
         "realName": "Wilmington",
-        "country": "north_carolina",
+        "country": "wilmington_nc",
         "x": "82775.7",
         "y": "229.594",
         "z": "18383.1"
@@ -7094,7 +7094,7 @@ var cities_c2c = [
     {
         "gameName": "bismarck",
         "realName": "Bismarck",
-        "country": "north_dakota",
+        "country": "bismarck",
         "x": "-18309.1",
         "y": "211.887",
         "z": "-44849"
@@ -7102,7 +7102,7 @@ var cities_c2c = [
     {
         "gameName": "dickinson_nd",
         "realName": "Dickinson",
-        "country": "north_dakota",
+        "country": "dickinson_nd",
         "x": "-25178",
         "y": "235.112",
         "z": "-45496.6"
@@ -7110,7 +7110,7 @@ var cities_c2c = [
     {
         "gameName": "fargo",
         "realName": "Fargo",
-        "country": "north_dakota",
+        "country": "fargo",
         "x": "-4158.69",
         "y": "143.82",
         "z": "-45997.3"
@@ -7118,7 +7118,7 @@ var cities_c2c = [
     {
         "gameName": "grand_forks",
         "realName": "Grand Forks",
-        "country": "north_dakota",
+        "country": "grand_forks",
         "x": "-3210.07",
         "y": "201.867",
         "z": "-51147.3"
@@ -7126,7 +7126,7 @@ var cities_c2c = [
     {
         "gameName": "jamestown_nd",
         "realName": "Jamestown",
-        "country": "north_dakota",
+        "country": "jamestown_nd",
         "x": "-11006.8",
         "y": "140.743",
         "z": "-45126.9"
@@ -7134,7 +7134,7 @@ var cities_c2c = [
     {
         "gameName": "williston_nd",
         "realName": "Williston",
-        "country": "north_dakota",
+        "country": "williston_nd",
         "x": "-29149.3",
         "y": "221.45",
         "z": "-52932.4"
@@ -7142,7 +7142,7 @@ var cities_c2c = [
     {
         "gameName": "canton_oh",
         "realName": "Canton",
-        "country": "ohio",
+        "country": "canton_oh",
         "x": "62529.6",
         "y": "44.0972",
         "z": "-14281.3"
@@ -7150,7 +7150,7 @@ var cities_c2c = [
     {
         "gameName": "cincinnati",
         "realName": "Cincinnati",
-        "country": "ohio",
+        "country": "cincinnati",
         "x": "50308.5",
         "y": "90",
         "z": "-3609.28"
@@ -7158,7 +7158,7 @@ var cities_c2c = [
     {
         "gameName": "cleveland_oh",
         "realName": "Cleveland",
-        "country": "ohio",
+        "country": "cleveland_oh",
         "x": "60607.5",
         "y": "96.3945",
         "z": "-18904.6"
@@ -7166,7 +7166,7 @@ var cities_c2c = [
     {
         "gameName": "columbus_oh",
         "realName": "Columbus",
-        "country": "ohio",
+        "country": "columbus_oh",
         "x": "56294.3",
         "y": "130.223",
         "z": "-9968.84"
@@ -7174,7 +7174,7 @@ var cities_c2c = [
     {
         "gameName": "dayton",
         "realName": "Dayton",
-        "country": "ohio",
+        "country": "dayton",
         "x": "50875.4",
         "y": "38.3651",
         "z": "-7785.59"
@@ -7182,7 +7182,7 @@ var cities_c2c = [
     {
         "gameName": "lima_oh",
         "realName": "Lima",
-        "country": "ohio",
+        "country": "lima_oh",
         "x": "51602.9",
         "y": "48.418",
         "z": "-13929.9"
@@ -7190,7 +7190,7 @@ var cities_c2c = [
     {
         "gameName": "toledo",
         "realName": "Toledo",
-        "country": "ohio",
+        "country": "toledo",
         "x": "52495.3",
         "y": "27.1718",
         "z": "-18242.3"
@@ -7198,7 +7198,7 @@ var cities_c2c = [
     {
         "gameName": "youngstown",
         "realName": "Youngstown",
-        "country": "ohio",
+        "country": "youngstown",
         "x": "64949.2",
         "y": "28.8862",
         "z": "-18030.3"
@@ -7206,7 +7206,7 @@ var cities_c2c = [
     {
         "gameName": "ardmore",
         "realName": "Ardmore",
-        "country": "oklahoma",
+        "country": "ardmore",
         "x": "-5258",
         "y": "62.8369",
         "z": "29225"
@@ -7214,7 +7214,7 @@ var cities_c2c = [
     {
         "gameName": "elk_city",
         "realName": "Elk City",
-        "country": "oklahoma",
+        "country": "elk_city",
         "x": "-17246.3",
         "y": "102.43",
         "z": "20601.1"
@@ -7222,7 +7222,7 @@ var cities_c2c = [
     {
         "gameName": "enid",
         "realName": "Enid",
-        "country": "oklahoma",
+        "country": "enid",
         "x": "-6162.18",
         "y": "211.521",
         "z": "12021"
@@ -7230,7 +7230,7 @@ var cities_c2c = [
     {
         "gameName": "lawton",
         "realName": "Lawton",
-        "country": "oklahoma",
+        "country": "lawton",
         "x": "-11475.8",
         "y": "125.398",
         "z": "24298"
@@ -7238,7 +7238,7 @@ var cities_c2c = [
     {
         "gameName": "oklahoma_city",
         "realName": "Oklahoma City",
-        "country": "oklahoma",
+        "country": "oklahoma_city",
         "x": "-6335.23",
         "y": "183.293",
         "z": "19930.8"
@@ -7246,7 +7246,7 @@ var cities_c2c = [
     {
         "gameName": "tulsa",
         "realName": "Tulsa",
-        "country": "oklahoma",
+        "country": "tulsa",
         "x": "-464.898",
         "y": "159.32",
         "z": "15048.7"
@@ -7254,7 +7254,7 @@ var cities_c2c = [
     {
         "gameName": "woodward_ok",
         "realName": "Woodward",
-        "country": "oklahoma",
+        "country": "woodward_ok",
         "x": "-15341.2",
         "y": "133",
         "z": "13981.1"
@@ -7262,7 +7262,7 @@ var cities_c2c = [
     {
         "gameName": "allentown",
         "realName": "Allentown",
-        "country": "pennsylvania",
+        "country": "allentown",
         "x": "87413.7",
         "y": "38.8426",
         "z": "-19170.9"
@@ -7270,7 +7270,7 @@ var cities_c2c = [
     {
         "gameName": "dubois_pa",
         "realName": "DuBois",
-        "country": "pennsylvania",
+        "country": "dubois_pa",
         "x": "74653.1",
         "y": "26.5137",
         "z": "-18980.1"
@@ -7278,7 +7278,7 @@ var cities_c2c = [
     {
         "gameName": "erie_pa",
         "realName": "Erie",
-        "country": "pennsylvania",
+        "country": "erie_pa",
         "x": "66023",
         "y": "36.5276",
         "z": "-23433.8"
@@ -7286,7 +7286,7 @@ var cities_c2c = [
     {
         "gameName": "harrisburg",
         "realName": "Harrisburg",
-        "country": "pennsylvania",
+        "country": "harrisburg",
         "x": "81389.3",
         "y": "39.4747",
         "z": "-15847.9"
@@ -7294,7 +7294,7 @@ var cities_c2c = [
     {
         "gameName": "johnstown",
         "realName": "Johnstown",
-        "country": "pennsylvania",
+        "country": "johnstown",
         "x": "75254.8",
         "y": "37.9334",
         "z": "-13310"
@@ -7302,7 +7302,7 @@ var cities_c2c = [
     {
         "gameName": "lancaster_pa",
         "realName": "Lancaster",
-        "country": "pennsylvania",
+        "country": "lancaster_pa",
         "x": "85055.5",
         "y": "38.9515",
         "z": "-15408.2"
@@ -7310,7 +7310,7 @@ var cities_c2c = [
     {
         "gameName": "pittsburgh",
         "realName": "Pittsburgh",
-        "country": "pennsylvania",
+        "country": "pittsburgh",
         "x": "68714.6",
         "y": "130.223",
         "z": "-14459.6"
@@ -7318,7 +7318,7 @@ var cities_c2c = [
     {
         "gameName": "scranton_pa",
         "realName": "Scranton",
-        "country": "pennsylvania",
+        "country": "scranton_pa",
         "x": "85315.1",
         "y": "10.4392",
         "z": "-23451.5"
@@ -7326,7 +7326,7 @@ var cities_c2c = [
     {
         "gameName": "philadelphia",
         "realName": "Philadelphia",
-        "country": "pennsylvania",
+        "country": "philadelphia",
         "x": "89052.6",
         "y": "130.203",
         "z": "-16044"
@@ -7334,7 +7334,7 @@ var cities_c2c = [
     {
         "gameName": "providence",
         "realName": "Providence",
-        "country": "rhode_island",
+        "country": "providence",
         "x": "101936",
         "y": "77.4375",
         "z": "-29754.1"
@@ -7342,7 +7342,7 @@ var cities_c2c = [
     {
         "gameName": "charleston_sc",
         "realName": "Charleston",
-        "country": "south_carolina",
+        "country": "charleston_sc",
         "x": "74815.6",
         "y": "59.6797",
         "z": "28091.9"
@@ -7350,7 +7350,7 @@ var cities_c2c = [
     {
         "gameName": "columbia",
         "realName": "Columbia",
-        "country": "south_carolina",
+        "country": "columbia",
         "x": "68910.3",
         "y": "55.1797",
         "z": "22065.1"
@@ -7358,7 +7358,7 @@ var cities_c2c = [
     {
         "gameName": "florence_sc",
         "realName": "Florence",
-        "country": "south_carolina",
+        "country": "florence_sc",
         "x": "75656.7",
         "y": "56.2188",
         "z": "20125.4"
@@ -7366,7 +7366,7 @@ var cities_c2c = [
     {
         "gameName": "georgetown_sc",
         "realName": "Georgetown",
-        "country": "south_carolina",
+        "country": "georgetown_sc",
         "x": "78769.9",
         "y": "91.043",
         "z": "24070.8"
@@ -7374,7 +7374,7 @@ var cities_c2c = [
     {
         "gameName": "greenville_sc",
         "realName": "Greenville",
-        "country": "south_carolina",
+        "country": "greenville_sc",
         "x": "62776.2",
         "y": "55.1875",
         "z": "19010.3"
@@ -7382,7 +7382,7 @@ var cities_c2c = [
     {
         "gameName": "myrtlebeach_sc",
         "realName": "Myrtle Beach",
-        "country": "south_carolina",
+        "country": "myrtlebeach_sc",
         "x": "80484.6",
         "y": "51.1406",
         "z": "21544.3"
@@ -7390,7 +7390,7 @@ var cities_c2c = [
     {
         "gameName": "mitchell_sd",
         "realName": "Mitchell",
-        "country": "south_dakota",
+        "country": "mitchell_sd",
         "x": "-10707.6",
         "y": "163.37",
         "z": "-27015.4"
@@ -7398,7 +7398,7 @@ var cities_c2c = [
     {
         "gameName": "pierre",
         "realName": "Pierre",
-        "country": "south_dakota",
+        "country": "pierre",
         "x": "-17267.9",
         "y": "256.21",
         "z": "-28592.6"
@@ -7406,7 +7406,7 @@ var cities_c2c = [
     {
         "gameName": "rapid_city",
         "realName": "Rapid City",
-        "country": "south_dakota",
+        "country": "rapid_city",
         "x": "-28875.1",
         "y": "349.984",
         "z": "-30052.5"
@@ -7414,7 +7414,7 @@ var cities_c2c = [
     {
         "gameName": "sioux_falls",
         "realName": "Sioux Falls",
-        "country": "south_dakota",
+        "country": "sioux_falls",
         "x": "-3253.96",
         "y": "147.301",
         "z": "-25688.5"
@@ -7422,7 +7422,7 @@ var cities_c2c = [
     {
         "gameName": "chattanooga",
         "realName": "Chattanooga",
-        "country": "tennessee",
+        "country": "chattanooga",
         "x": "48735.4",
         "y": "27.838",
         "z": "19086.8"
@@ -7430,7 +7430,7 @@ var cities_c2c = [
     {
         "gameName": "cookeville_tn",
         "realName": "Cookeville",
-        "country": "tennessee",
+        "country": "cookeville_tn",
         "x": "48082.3",
         "y": "76.3602",
         "z": "13205"
@@ -7438,7 +7438,7 @@ var cities_c2c = [
     {
         "gameName": "jackson_tn",
         "realName": "Jackson",
-        "country": "tennessee",
+        "country": "jackson_tn",
         "x": "33107.8",
         "y": "46.417",
         "z": "17386.2"
@@ -7446,7 +7446,7 @@ var cities_c2c = [
     {
         "gameName": "kingsport_tn",
         "realName": "Kingsport",
-        "country": "tennessee",
+        "country": "kingsport_tn",
         "x": "61494.8",
         "y": "24.2804",
         "z": "9143.76"
@@ -7454,7 +7454,7 @@ var cities_c2c = [
     {
         "gameName": "knoxville_tn",
         "realName": "Knoxville",
-        "country": "tennessee",
+        "country": "knoxville_tn",
         "x": "53402.1",
         "y": "24.8829",
         "z": "13898.1"
@@ -7462,7 +7462,7 @@ var cities_c2c = [
     {
         "gameName": "memphis",
         "realName": "Memphis",
-        "country": "tennessee",
+        "country": "memphis",
         "x": "26982.5",
         "y": "155.227",
         "z": "20436.6"
@@ -7470,7 +7470,7 @@ var cities_c2c = [
     {
         "gameName": "nashville",
         "realName": "Nashville",
-        "country": "tennessee",
+        "country": "nashville",
         "x": "41926.1",
         "y": "107.449",
         "z": "13211.2"
@@ -7478,7 +7478,7 @@ var cities_c2c = [
     {
         "gameName": "abilene",
         "realName": "Abilene",
-        "country": "texas",
+        "country": "abilene",
         "x": "-17393",
         "y": "77.1016",
         "z": "37702.7"
@@ -7486,7 +7486,7 @@ var cities_c2c = [
     {
         "gameName": "amarillo",
         "realName": "Amarillo",
-        "country": "texas",
+        "country": "amarillo",
         "x": "-26709.7",
         "y": "130.223",
         "z": "21468.3"
@@ -7494,7 +7494,7 @@ var cities_c2c = [
     {
         "gameName": "austin_tx",
         "realName": "Austin",
-        "country": "texas",
+        "country": "austin_tx",
         "x": "-7879.96",
         "y": "39.4637",
         "z": "46151.5"
@@ -7502,7 +7502,7 @@ var cities_c2c = [
     {
         "gameName": "beaumont",
         "realName": "Beaumont",
-        "country": "texas",
+        "country": "beaumont",
         "x": "9918.67",
         "y": "37.2571",
         "z": "49513.6"
@@ -7510,7 +7510,7 @@ var cities_c2c = [
     {
         "gameName": "bryan_tx",
         "realName": "Bryan",
-        "country": "texas",
+        "country": "bryan_tx",
         "x": "2054.41",
         "y": "26.756",
         "z": "46537.4"
@@ -7518,7 +7518,7 @@ var cities_c2c = [
     {
         "gameName": "childress_tx",
         "realName": "Childress",
-        "country": "texas",
+        "country": "childress_tx",
         "x": "-19801.9",
         "y": "96.5742",
         "z": "25348.9"
@@ -7526,7 +7526,7 @@ var cities_c2c = [
     {
         "gameName": "corpus_christi_tx",
         "realName": "Corpus Christi",
-        "country": "texas",
+        "country": "corpus_christi_tx",
         "x": "-7508.78",
         "y": "11.7572",
         "z": "63160.7"
@@ -7534,7 +7534,7 @@ var cities_c2c = [
     {
         "gameName": "dallas",
         "realName": "Dallas",
-        "country": "texas",
+        "country": "dallas",
         "x": "-2389.34",
         "y": "89.9727",
         "z": "35999.3"
@@ -7542,7 +7542,7 @@ var cities_c2c = [
     {
         "gameName": "dalhart_tx",
         "realName": "Dalhart",
-        "country": "texas",
+        "country": "dalhart_tx",
         "x": "-29602.4",
         "y": "137.168",
         "z": "15561.6"
@@ -7550,7 +7550,7 @@ var cities_c2c = [
     {
         "gameName": "fort_stockton",
         "realName": "Fort Stockton",
-        "country": "texas",
+        "country": "fort_stockton",
         "x": "-33199.1",
         "y": "38.92",
         "z": "44892.6"
@@ -7558,7 +7558,7 @@ var cities_c2c = [
     {
         "gameName": "elpaso",
         "realName": "El Paso",
-        "country": "texas",
+        "country": "elpaso",
         "x": "-51000",
         "y": "113.516",
         "z": "37944.1"
@@ -7566,7 +7566,7 @@ var cities_c2c = [
     {
         "gameName": "houston",
         "realName": "Houston",
-        "country": "texas",
+        "country": "houston",
         "x": "3270.67",
         "y": "96.3945",
         "z": "52596.9"
@@ -7574,7 +7574,7 @@ var cities_c2c = [
     {
         "gameName": "kerrville",
         "realName": "Kerrville",
-        "country": "texas",
+        "country": "kerrville",
         "x": "-17590.8",
         "y": "28.3667",
         "z": "48438.6"
@@ -7582,7 +7582,7 @@ var cities_c2c = [
     {
         "gameName": "lubbock",
         "realName": "Lubbock",
-        "country": "texas",
+        "country": "lubbock",
         "x": "-26420.1",
         "y": "122.629",
         "z": "29984"
@@ -7590,7 +7590,7 @@ var cities_c2c = [
     {
         "gameName": "midland_tx",
         "realName": "Midland",
-        "country": "texas",
+        "country": "midland_tx",
         "x": "-28614.5",
         "y": "31.6219",
         "z": "38784.6"
@@ -7598,7 +7598,7 @@ var cities_c2c = [
     {
         "gameName": "presidio",
         "realName": "Presidio",
-        "country": "texas",
+        "country": "presidio",
         "x": "-39989.5",
         "y": "38.5195",
         "z": "51575.1"
@@ -7606,7 +7606,7 @@ var cities_c2c = [
     {
         "gameName": "sanantonio",
         "realName": "San Antonio",
-        "country": "texas",
+        "country": "sanantonio",
         "x": "-12359.3",
         "y": "94.2344",
         "z": "54468.2"
@@ -7614,7 +7614,7 @@ var cities_c2c = [
     {
         "gameName": "snyder_tx",
         "realName": "Snyder",
-        "country": "texas",
+        "country": "snyder_tx",
         "x": "-22784.7",
         "y": "90",
         "z": "35016"
@@ -7622,7 +7622,7 @@ var cities_c2c = [
     {
         "gameName": "texarkana",
         "realName": "Texarkana",
-        "country": "texas",
+        "country": "texarkana",
         "x": "9472.25",
         "y": "65.5185",
         "z": "30479.3"
@@ -7630,7 +7630,7 @@ var cities_c2c = [
     {
         "gameName": "tyler_tx",
         "realName": "Tyler",
-        "country": "texas",
+        "country": "tyler_tx",
         "x": "2811.19",
         "y": "85",
         "z": "36532.7"
@@ -7638,7 +7638,7 @@ var cities_c2c = [
     {
         "gameName": "victoria_tx",
         "realName": "Victoria",
-        "country": "texas",
+        "country": "victoria_tx",
         "x": "-3982.68",
         "y": "53.4273",
         "z": "56897.1"
@@ -7646,7 +7646,7 @@ var cities_c2c = [
     {
         "gameName": "waco",
         "realName": "Waco",
-        "country": "texas",
+        "country": "waco",
         "x": "-5471.96",
         "y": "38.032",
         "z": "42075.4"
@@ -7654,7 +7654,7 @@ var cities_c2c = [
     {
         "gameName": "wichita_falls",
         "realName": "Wichita Falls",
-        "country": "texas",
+        "country": "wichita_falls",
         "x": "-11367.6",
         "y": "117.089",
         "z": "28539.2"
@@ -7662,7 +7662,7 @@ var cities_c2c = [
     {
         "gameName": "burlington_vt",
         "realName": "Burlington",
-        "country": "vermont",
+        "country": "burlington_vt",
         "x": "91517.3",
         "y": "99.2422",
         "z": "-42651.6"
@@ -7670,7 +7670,7 @@ var cities_c2c = [
     {
         "gameName": "lebanon",
         "realName": "Lebanon",
-        "country": "vermont",
+        "country": "lebanon",
         "x": "95627",
         "y": "38.9625",
         "z": "-39177.6"
@@ -7678,7 +7678,7 @@ var cities_c2c = [
     {
         "gameName": "fredericksburg_va",
         "realName": "Fredericksburg",
-        "country": "virginia",
+        "country": "fredericksburg_va",
         "x": "81330",
         "y": "82.017",
         "z": "-4494.48"
@@ -7686,7 +7686,7 @@ var cities_c2c = [
     {
         "gameName": "harrisonburg_va",
         "realName": "Harrisonburg",
-        "country": "virginia",
+        "country": "harrisonburg_va",
         "x": "75155.6",
         "y": "61.5765",
         "z": "-5940.08"
@@ -7694,7 +7694,7 @@ var cities_c2c = [
     {
         "gameName": "norfolk",
         "realName": "Norfolk",
-        "country": "virginia",
+        "country": "norfolk",
         "x": "87689.6",
         "y": "57.3125",
         "z": "2326.24"
@@ -7702,7 +7702,7 @@ var cities_c2c = [
     {
         "gameName": "richmond_va",
         "realName": "Richmond",
-        "country": "virginia",
+        "country": "richmond_va",
         "x": "82279.8",
         "y": "75.1099",
         "z": "490.537"
@@ -7710,7 +7710,7 @@ var cities_c2c = [
     {
         "gameName": "roanoke_va",
         "realName": "Roanoke",
-        "country": "virginia",
+        "country": "roanoke_va",
         "x": "72370.9",
         "y": "133.222",
         "z": "2572.97"
@@ -7718,7 +7718,7 @@ var cities_c2c = [
     {
         "gameName": "winchester_va",
         "realName": "Winchester",
-        "country": "virginia",
+        "country": "winchester_va",
         "x": "78895.3",
         "y": "21.132",
         "z": "-12636.7"
@@ -7726,7 +7726,7 @@ var cities_c2c = [
     {
         "gameName": "wytheville_va",
         "realName": "Wytheville",
-        "country": "virginia",
+        "country": "wytheville_va",
         "x": "66609.6",
         "y": "18.0645",
         "z": "6230.84"
@@ -7734,7 +7734,7 @@ var cities_c2c = [
     {
         "gameName": "charleston_wv",
         "realName": "Charleston",
-        "country": "west_virginia",
+        "country": "charleston_wv",
         "x": "63115.5",
         "y": "94.7539",
         "z": "-672.621"
@@ -7742,7 +7742,7 @@ var cities_c2c = [
     {
         "gameName": "huntington_wv",
         "realName": "Huntington",
-        "country": "west_virginia",
+        "country": "huntington_wv",
         "x": "59199.1",
         "y": "12.0144",
         "z": "-745.599"
@@ -7750,7 +7750,7 @@ var cities_c2c = [
     {
         "gameName": "parkersburg_wv",
         "realName": "Parkersburg",
-        "country": "west_virginia",
+        "country": "parkersburg_wv",
         "x": "63509.9",
         "y": "37.1811",
         "z": "-7009.07"
@@ -7758,7 +7758,7 @@ var cities_c2c = [
     {
         "gameName": "weston_wv",
         "realName": "Weston",
-        "country": "west_virginia",
+        "country": "weston_wv",
         "x": "67729.6",
         "y": "31.8618",
         "z": "-5651.21"
@@ -7766,7 +7766,7 @@ var cities_c2c = [
     {
         "gameName": "eau_claire",
         "realName": "Eau Claire",
-        "country": "wisconsin",
+        "country": "eau_claire",
         "x": "18094.4",
         "y": "91.356",
         "z": "-33687.8"
@@ -7774,7 +7774,7 @@ var cities_c2c = [
     {
         "gameName": "green_bay",
         "realName": "Green Bay",
-        "country": "wisconsin",
+        "country": "green_bay",
         "x": "32131.6",
         "y": "96.3945",
         "z": "-32069.8"
@@ -7782,7 +7782,7 @@ var cities_c2c = [
     {
         "gameName": "la_crosse",
         "realName": "La Crosse",
-        "country": "wisconsin",
+        "country": "la_crosse",
         "x": "19789.5",
         "y": "73.8993",
         "z": "-27736"
@@ -7790,7 +7790,7 @@ var cities_c2c = [
     {
         "gameName": "madison_wi",
         "realName": "Madison",
-        "country": "wisconsin",
+        "country": "madison_wi",
         "x": "27438.6",
         "y": "88.2568",
         "z": "-23828.8"
@@ -7798,7 +7798,7 @@ var cities_c2c = [
     {
         "gameName": "milwaukee",
         "realName": "Milwaukee",
-        "country": "wisconsin",
+        "country": "milwaukee",
         "x": "32376.2",
         "y": "144.438",
         "z": "-24465.1"
@@ -7806,7 +7806,7 @@ var cities_c2c = [
     {
         "gameName": "wausau_wi",
         "realName": "Wausau",
-        "country": "wisconsin",
+        "country": "wausau_wi",
         "x": "26019.9",
         "y": "51.445",
         "z": "-33688.5"
@@ -8453,7 +8453,7 @@ var cities_canada = [
     {
         "gameName": "baiecomeau",
         "realName": "Baie-Comeau",
-        "country": "qc",
+        "country": "baiecomeau",
         "x": "99059.4",
         "y": "112.98",
         "z": "-73027.1"
@@ -8461,7 +8461,7 @@ var cities_canada = [
     {
         "gameName": "calgary",
         "realName": "Calgary",
-        "country": "ab",
+        "country": "calgary",
         "x": "-64088.6",
         "y": "225.559",
         "z": "-74325.2"
@@ -8469,7 +8469,7 @@ var cities_canada = [
     {
         "gameName": "caraquet",
         "realName": "Caraquet",
-        "country": "nb",
+        "country": "caraquet",
         "x": "114593",
         "y": "86.7188",
         "z": "-69287.6"
@@ -8477,7 +8477,7 @@ var cities_canada = [
     {
         "gameName": "chapleau",
         "realName": "Chapleau",
-        "country": "on",
+        "country": "chapleau",
         "x": "48197.1",
         "y": "140.434",
         "z": "-53884.2"
@@ -8485,7 +8485,7 @@ var cities_canada = [
     {
         "gameName": "dawsoncreek",
         "realName": "Dawson Creek",
-        "country": "bc",
+        "country": "dawsoncreek",
         "x": "-74949.1",
         "y": "98.7344",
         "z": "-106148"
@@ -8493,7 +8493,7 @@ var cities_canada = [
     {
         "gameName": "deaselake",
         "realName": "Dease Lake",
-        "country": "bc",
+        "country": "deaselake",
         "x": "-95251.7",
         "y": "98.5313",
         "z": "-129369"
@@ -8501,7 +8501,7 @@ var cities_canada = [
     {
         "gameName": "dryden",
         "realName": "Dryden",
-        "country": "on",
+        "country": "dryden",
         "x": "12291.8",
         "y": "89.3789",
         "z": "-63082.2"
@@ -8509,7 +8509,7 @@ var cities_canada = [
     {
         "gameName": "edmonton",
         "realName": "Edmonton",
-        "country": "ab",
+        "country": "edmonton",
         "x": "-58262",
         "y": "160.844",
         "z": "-89326.9"
@@ -8517,7 +8517,7 @@ var cities_canada = [
     {
         "gameName": "fortfrances",
         "realName": "Fort Frances",
-        "country": "on",
+        "country": "fortfrances",
         "x": "9220.64",
         "y": "89.3789",
         "z": "-55796.3"
@@ -8525,7 +8525,7 @@ var cities_canada = [
     {
         "gameName": "fortmcmurray",
         "realName": "Fort McMurray",
-        "country": "ab",
+        "country": "fortmcmurray",
         "x": "-47067.2",
         "y": "50.4766",
         "z": "-107664"
@@ -8533,7 +8533,7 @@ var cities_canada = [
     {
         "gameName": "fortnelson",
         "realName": "Fort Nelson",
-        "country": "bc",
+        "country": "fortnelson",
         "x": "-75233.3",
         "y": "98.5313",
         "z": "-124972"
@@ -8541,7 +8541,7 @@ var cities_canada = [
     {
         "gameName": "fortsimpson",
         "realName": "Fort Simpson",
-        "country": "nt",
+        "country": "fortsimpson",
         "x": "-67255",
         "y": "98.5313",
         "z": "-141067"
@@ -8549,7 +8549,7 @@ var cities_canada = [
     {
         "gameName": "fredericton",
         "realName": "Fredericton",
-        "country": "nb",
+        "country": "fredericton",
         "x": "112384",
         "y": "39.0586",
         "z": "-57236.5"
@@ -8557,7 +8557,7 @@ var cities_canada = [
     {
         "gameName": "gaspe",
         "realName": "Gaspe",
-        "country": "qc",
+        "country": "gaspe",
         "x": "113350",
         "y": "88.3594",
         "z": "-74955.3"
@@ -8565,7 +8565,7 @@ var cities_canada = [
     {
         "gameName": "golden",
         "realName": "Golden",
-        "country": "bc",
+        "country": "golden",
         "x": "-73410.9",
         "y": "264.496",
         "z": "-79297.7"
@@ -8573,7 +8573,7 @@ var cities_canada = [
     {
         "gameName": "grandfalls",
         "realName": "Grand Falls",
-        "country": "nb",
+        "country": "grandfalls",
         "x": "106470",
         "y": "46.3906",
         "z": "-63541.6"
@@ -8581,7 +8581,7 @@ var cities_canada = [
     {
         "gameName": "halifax",
         "realName": "Halifax",
-        "country": "ns",
+        "country": "halifax",
         "x": "126331",
         "y": "73.2773",
         "z": "-54553"
@@ -8589,7 +8589,7 @@ var cities_canada = [
     {
         "gameName": "hearst",
         "realName": "Hearst",
-        "country": "on",
+        "country": "hearst",
         "x": "45405.4",
         "y": "104.34",
         "z": "-64762.7"
@@ -8597,7 +8597,7 @@ var cities_canada = [
     {
         "gameName": "highlevel",
         "realName": "High Level",
-        "country": "ab",
+        "country": "highlevel",
         "x": "-60917.7",
         "y": "98.5313",
         "z": "-120900"
@@ -8605,7 +8605,7 @@ var cities_canada = [
     {
         "gameName": "hope",
         "realName": "Hope",
-        "country": "bc",
+        "country": "hope",
         "x": "-94110.7",
         "y": "56.58",
         "z": "-71841.2"
@@ -8613,7 +8613,7 @@ var cities_canada = [
     {
         "gameName": "houstoncan",
         "realName": "Houston",
-        "country": "bc",
+        "country": "houstoncan",
         "x": "-97567.9",
         "y": "98.5313",
         "z": "-104145"
@@ -8621,7 +8621,7 @@ var cities_canada = [
     {
         "gameName": "iroquoisfall",
         "realName": "Iroquois Falls",
-        "country": "on",
+        "country": "iroquoisfall",
         "x": "57355.1",
         "y": "104.055",
         "z": "-60873.2"
@@ -8629,7 +8629,7 @@ var cities_canada = [
     {
         "gameName": "jasper",
         "realName": "Jasper",
-        "country": "ab",
+        "country": "jasper",
         "x": "-73415",
         "y": "184.633",
         "z": "-88979.8"
@@ -8637,7 +8637,7 @@ var cities_canada = [
     {
         "gameName": "kamloops",
         "realName": "Kamloops",
-        "country": "bc",
+        "country": "kamloops",
         "x": "-85885.3",
         "y": "115.435",
         "z": "-78420.5"
@@ -8645,7 +8645,7 @@ var cities_canada = [
     {
         "gameName": "kelowna",
         "realName": "Kelowna",
-        "country": "bc",
+        "country": "kelowna",
         "x": "-85262.3",
         "y": "48.5546",
         "z": "-72796.7"
@@ -8653,7 +8653,7 @@ var cities_canada = [
     {
         "gameName": "kindersley",
         "realName": "Kindersley",
-        "country": "sk",
+        "country": "kindersley",
         "x": "-45923",
         "y": "101.059",
         "z": "-75881.9"
@@ -8661,7 +8661,7 @@ var cities_canada = [
     {
         "gameName": "kingston",
         "realName": "Kingston",
-        "country": "on",
+        "country": "kingston",
         "x": "79248.8",
         "y": "104.355",
         "z": "-38968.6"
@@ -8669,7 +8669,7 @@ var cities_canada = [
     {
         "gameName": "labradorcity",
         "realName": "Labrador City",
-        "country": "nl",
+        "country": "labradorcity",
         "x": "93507.1",
         "y": "42.5859",
         "z": "-93864.3"
@@ -8677,7 +8677,7 @@ var cities_canada = [
     {
         "gameName": "laclabiche",
         "realName": "Lac La Biche",
-        "country": "ab",
+        "country": "laclabiche",
         "x": "-51299.1",
         "y": "58.4609",
         "z": "-96200.2"
@@ -8685,7 +8685,7 @@ var cities_canada = [
     {
         "gameName": "latuque",
         "realName": "La Tuque",
-        "country": "qc",
+        "country": "latuque",
         "x": "86850.1",
         "y": "85.5508",
         "z": "-58882.9"
@@ -8693,7 +8693,7 @@ var cities_canada = [
     {
         "gameName": "lillooet",
         "realName": "Lillooet",
-        "country": "bc",
+        "country": "lillooet",
         "x": "-93234.8",
         "y": "108.098",
         "z": "-79834.4"
@@ -8701,7 +8701,7 @@ var cities_canada = [
     {
         "gameName": "lloydminster",
         "realName": "Lloydminster",
-        "country": "sk",
+        "country": "lloydminster",
         "x": "-47007",
         "y": "178.246",
         "z": "-86748.3"
@@ -8709,7 +8709,7 @@ var cities_canada = [
     {
         "gameName": "maniwaki",
         "realName": "Maniwaki",
-        "country": "qc",
+        "country": "maniwaki",
         "x": "76695.3",
         "y": "95.2305",
         "z": "-51041.1"
@@ -8717,7 +8717,7 @@ var cities_canada = [
     {
         "gameName": "medicinehat",
         "realName": "Medicine Hat",
-        "country": "sk",
+        "country": "medicinehat",
         "x": "-48690.6",
         "y": "96.9609",
         "z": "-65890.8"
@@ -8725,7 +8725,7 @@ var cities_canada = [
     {
         "gameName": "marathon",
         "realName": "Marathon",
-        "country": "on",
+        "country": "marathon",
         "x": "37156.5",
         "y": "104.055",
         "z": "-57067.3"
@@ -8733,7 +8733,7 @@ var cities_canada = [
     {
         "gameName": "matane",
         "realName": "Matane",
-        "country": "qc",
+        "country": "matane",
         "x": "103192",
         "y": "48.1836",
         "z": "-72119.8"
@@ -8741,7 +8741,7 @@ var cities_canada = [
     {
         "gameName": "merrit",
         "realName": "Merrit",
-        "country": "bc",
+        "country": "merrit",
         "x": "-90468.8",
         "y": "340.643",
         "z": "-75121"
@@ -8749,7 +8749,7 @@ var cities_canada = [
     {
         "gameName": "moncton",
         "realName": "Moncton",
-        "country": "nb",
+        "country": "moncton",
         "x": "118089",
         "y": "48.2109",
         "z": "-61184.6"
@@ -8757,7 +8757,7 @@ var cities_canada = [
     {
         "gameName": "montreal",
         "realName": "Montreal",
-        "country": "qc",
+        "country": "montreal",
         "x": "88078.1",
         "y": "46.8359",
         "z": "-48357.2"
@@ -8765,7 +8765,7 @@ var cities_canada = [
     {
         "gameName": "nakina",
         "realName": "Nakina",
-        "country": "on",
+        "country": "nakina",
         "x": "34124.8",
         "y": "104.055",
         "z": "-66400.7"
@@ -8773,7 +8773,7 @@ var cities_canada = [
     {
         "gameName": "osoyoos",
         "realName": "Osoyoos",
-        "country": "bc",
+        "country": "osoyoos",
         "x": "-86504.2",
         "y": "83.5898",
         "z": "-67646.3"
@@ -8781,7 +8781,7 @@ var cities_canada = [
     {
         "gameName": "ottawa",
         "realName": "Ottawa",
-        "country": "on",
+        "country": "ottawa",
         "x": "81267",
         "y": "99.2305",
         "z": "-46320.4"
@@ -8789,7 +8789,7 @@ var cities_canada = [
     {
         "gameName": "parrysound",
         "realName": "Parry Sound",
-        "country": "on",
+        "country": "parrysound",
         "x": "65455.3",
         "y": "104.055",
         "z": "-41134.3"
@@ -8797,7 +8797,7 @@ var cities_canada = [
     {
         "gameName": "pemberton",
         "realName": "Pemberton",
-        "country": "bc",
+        "country": "pemberton",
         "x": "-97086.9",
         "y": "106.828",
         "z": "-78672.3"
@@ -8805,7 +8805,7 @@ var cities_canada = [
     {
         "gameName": "princegeorge",
         "realName": "Prince George",
-        "country": "bc",
+        "country": "princegeorge",
         "x": "-87517.5",
         "y": "85.8359",
         "z": "-99375.6"
@@ -8813,7 +8813,7 @@ var cities_canada = [
     {
         "gameName": "princerupert",
         "realName": "Prince Rupert",
-        "country": "bc",
+        "country": "princerupert",
         "x": "-108895",
         "y": "88",
         "z": "-107909"
@@ -8821,7 +8821,7 @@ var cities_canada = [
     {
         "gameName": "princeton",
         "realName": "Princeton",
-        "country": "bc",
+        "country": "princeton",
         "x": "-89911.4",
         "y": "117.077",
         "z": "-69829"
@@ -8829,7 +8829,7 @@ var cities_canada = [
     {
         "gameName": "quebec",
         "realName": "Quebec",
-        "country": "qc",
+        "country": "quebec",
         "x": "93155.4",
         "y": "33.3398",
         "z": "-58398.7"
@@ -8837,7 +8837,7 @@ var cities_canada = [
     {
         "gameName": "rdl",
         "realName": "Riviere-du-Loup",
-        "country": "qc",
+        "country": "rdl",
         "x": "98911.1",
         "y": "49.168",
         "z": "-64965.4"
@@ -8845,7 +8845,7 @@ var cities_canada = [
     {
         "gameName": "regina",
         "realName": "Regina",
-        "country": "sk",
+        "country": "regina",
         "x": "-31901.6",
         "y": "90.3281",
         "z": "-68350.9"
@@ -8853,7 +8853,7 @@ var cities_canada = [
     {
         "gameName": "rouynnoranda",
         "realName": "Rouyn-Noranda",
-        "country": "qc",
+        "country": "rouynnoranda",
         "x": "64290.2",
         "y": "64.8164",
         "z": "-59556.8"
@@ -8861,7 +8861,7 @@ var cities_canada = [
     {
         "gameName": "russel",
         "realName": "Russel",
-        "country": "mb",
+        "country": "russel",
         "x": "-18438.4",
         "y": "103",
         "z": "-68912.5"
@@ -8869,7 +8869,7 @@ var cities_canada = [
     {
         "gameName": "saguenay",
         "realName": "Saguenay",
-        "country": "qc",
+        "country": "saguenay",
         "x": "91106.6",
         "y": "105.066",
         "z": "-66192.5"
@@ -8877,7 +8877,7 @@ var cities_canada = [
     {
         "gameName": "saskatoon",
         "realName": "Saskatoon",
-        "country": "sk",
+        "country": "saskatoon",
         "x": "-37439.1",
         "y": "82.7734",
         "z": "-77226.7"
@@ -8885,7 +8885,7 @@ var cities_canada = [
     {
         "gameName": "saultmarie",
         "realName": "Sault-Ste-Marie",
-        "country": "on",
+        "country": "saultmarie",
         "x": "46658.4",
         "y": "94.9297",
         "z": "-45949.8"
@@ -8893,7 +8893,7 @@ var cities_canada = [
     {
         "gameName": "septiles",
         "realName": "Sept-iles",
-        "country": "qb",
+        "country": "septiles",
         "x": "103300",
         "y": "50",
         "z": "-80432.5"
@@ -8901,7 +8901,7 @@ var cities_canada = [
     {
         "gameName": "stewart",
         "realName": "Stewart",
-        "country": "bc",
+        "country": "stewart",
         "x": "-102241",
         "y": "98.5313",
         "z": "-115701"
@@ -8909,7 +8909,7 @@ var cities_canada = [
     {
         "gameName": "sudbury",
         "realName": "Sudbury",
-        "country": "on",
+        "country": "sudbury",
         "x": "59362.2",
         "y": "87.5352",
         "z": "-47613.1"
@@ -8917,7 +8917,7 @@ var cities_canada = [
     {
         "gameName": "squamish",
         "realName": "Squamish",
-        "country": "bc",
+        "country": "squamish",
         "x": "-101549",
         "y": "71.5388",
         "z": "-78990.2"
@@ -8925,7 +8925,7 @@ var cities_canada = [
     {
         "gameName": "thunderbay",
         "realName": "Thunder Bay",
-        "country": "on",
+        "country": "thunderbay",
         "x": "25157.2",
         "y": "100.648",
         "z": "-54438.7"
@@ -8933,7 +8933,7 @@ var cities_canada = [
     {
         "gameName": "toronto",
         "realName": "Toronto",
-        "country": "on",
+        "country": "toronto",
         "x": "67315",
         "y": "100.648",
         "z": "-33489.6"
@@ -8941,7 +8941,7 @@ var cities_canada = [
     {
         "gameName": "truro",
         "realName": "Truro",
-        "country": "ns",
+        "country": "truro",
         "x": "126436",
         "y": "69.418",
         "z": "-59150.2"
@@ -8949,7 +8949,7 @@ var cities_canada = [
     {
         "gameName": "vancouver_bc",
         "realName": "Vancouver",
-        "country": "bc",
+        "country": "vancouver_bc",
         "x": "-100466.8",
         "y": "75.6241",
         "z": "-72646.3"
@@ -8957,7 +8957,7 @@ var cities_canada = [
     {
         "gameName": "virden",
         "realName": "Virden",
-        "country": "mb",
+        "country": "virden",
         "x": "-17350.5",
         "y": "37.8477",
         "z": "-63395.2"
@@ -8965,7 +8965,7 @@ var cities_canada = [
     {
         "gameName": "watsonlake",
         "realName": "Watson Lake",
-        "country": "yt",
+        "country": "watsonlake",
         "x": "-86524.3",
         "y": "129.629",
         "z": "-136995"
@@ -8973,7 +8973,7 @@ var cities_canada = [
     {
         "gameName": "whitehorse",
         "realName": "Whitehorse",
-        "country": "yt",
+        "country": "whitehorse",
         "x": "-99299",
         "y": "93.9961",
         "z": "-145242"
@@ -8981,7 +8981,7 @@ var cities_canada = [
     {
         "gameName": "williamslake",
         "realName": "Williams Lake",
-        "country": "bc",
+        "country": "williamslake",
         "x": "-89195.2",
         "y": "145.02",
         "z": "-88717.9"
@@ -8989,7 +8989,7 @@ var cities_canada = [
     {
         "gameName": "winnipeg",
         "realName": "Winnipeg",
-        "country": "mb",
+        "country": "winnipeg",
         "x": "-3862.98",
         "y": "57.9648",
         "z": "-62793.3"
@@ -8997,7 +8997,7 @@ var cities_canada = [
     {
         "gameName": "yarmouth",
         "realName": "Yarmouth",
-        "country": "ns",
+        "country": "yarmouth",
         "x": "118775",
         "y": "74.4766",
         "z": "-48255.3"
@@ -9005,7 +9005,7 @@ var cities_canada = [
     {
         "gameName": "yellowknife",
         "realName": "Yellowknife",
-        "country": "nt",
+        "country": "yellowknife",
         "x": "-46836.9",
         "y": "88",
         "z": "-140606"
@@ -9155,124 +9155,124 @@ var city_properties_greatamerica = {
 
 var cities_greatamerica = [
     {
-      "gameName": "alliance",
-      "realName": "Alliance",
-      "country": "nebraska",
-      "x": "-28861",
-      "y": "116.184",
-      "z": "-18829.1"
+        "gameName": "alliance",
+        "realName": "Alliance",
+        "country": "alliance",
+        "x": "-28861",
+        "y": "116.184",
+        "z": "-18829.1"
     },
     {
-      "gameName": "broken_bow",
-      "realName": "Broken Bow",
-      "country": "nebraska",
-      "x": "-15779.5",
-      "y": "158.941",
-      "z": "-13906.3"
+        "gameName": "broken_bow",
+        "realName": "Broken Bow",
+        "country": "broken_bow",
+        "x": "-15779.5",
+        "y": "158.941",
+        "z": "-13906.3"
     },
     {
-      "gameName": "chadron",
-      "realName": "Chadron",
-      "country": "nebraska",
-      "x": "-28633.3",
-      "y": "74.918",
-      "z": "-23186.1"
+        "gameName": "chadron",
+        "realName": "Chadron",
+        "country": "chadron",
+        "x": "-28633.3",
+        "y": "74.918",
+        "z": "-23186.1"
     },
     {
-      "gameName": "columbus_ne",
-      "realName": "Columbus",
-      "country": "nebraska",
-      "x": "-6014.79",
-      "y": "206.5",
-      "z": "-13918.1"
+        "gameName": "columbus_ne",
+        "realName": "Columbus",
+        "country": "columbus_ne",
+        "x": "-6014.79",
+        "y": "206.5",
+        "z": "-13918.1"
     },
     {
-      "gameName": "dubuque",
-      "realName": "Dubuque",
-      "country": "iowa",
-      "x": "22118.7",
-      "y": "233.926",
-      "z": "-20649.3"
+        "gameName": "dubuque",
+        "realName": "Dubuque",
+        "country": "dubuque",
+        "x": "22118.7",
+        "y": "233.926",
+        "z": "-20649.3"
     },
     {
-      "gameName": "eagle_butte",
-      "realName": "Eagle Butte",
-      "country": "south_dakota",
-      "x": "-21105.7",
-      "y": "118.09",
-      "z": "-35053.9"
+        "gameName": "eagle_butte",
+        "realName": "Eagle Butte",
+        "country": "eagle_butte",
+        "x": "-21105.7",
+        "y": "118.09",
+        "z": "-35053.9"
     },
     {
-      "gameName": "fortdodge",
-      "realName": "Fort Dodge",
-      "country": "iowa",
-      "x": "7910.06",
-      "y": "235.262",
-      "z": "-19903.3"
+        "gameName": "fortdodge",
+        "realName": "Fort Dodge",
+        "country": "fortdodge",
+        "x": "7910.06",
+        "y": "235.262",
+        "z": "-19903.3"
     },
     {
-      "gameName": "huron_sd",
-      "realName": "Huron",
-      "country": "south_dakota",
-      "x": "-9025.04",
-      "y": "126.984",
-      "z": "-30515.4"
+        "gameName": "huron_sd",
+        "realName": "Huron",
+        "country": "huron_sd",
+        "x": "-9025.04",
+        "y": "126.984",
+        "z": "-30515.4"
     },
     {
-      "gameName": "mobridge",
-      "realName": "Mobridge",
-      "country": "south_dakota",
-      "x": "-17006.1",
-      "y": "79.4531",
-      "z": "-37635.6"
+        "gameName": "mobridge",
+        "realName": "Mobridge",
+        "country": "mobridge",
+        "x": "-17006.1",
+        "y": "79.4531",
+        "z": "-37635.6"
     },
     {
-      "gameName": "norfolk_ne",
-      "realName": "Norfolk",
-      "country": "nebraska",
-      "x": "-5990.77",
-      "y": "123",
-      "z": "-17339.5"
+        "gameName": "norfolk_ne",
+        "realName": "Norfolk",
+        "country": "norfolk_ne",
+        "x": "-5990.77",
+        "y": "123",
+        "z": "-17339.5"
     },
     {
-      "gameName": "spiritlake",
-      "realName": "Spirit Lake",
-      "country": "iowa",
-      "x": "5018.85",
-      "y": "208.172",
-      "z": "-23455.7"
+        "gameName": "spiritlake",
+        "realName": "Spirit Lake",
+        "country": "spiritlake",
+        "x": "5018.85",
+        "y": "208.172",
+        "z": "-23455.7"
     },
     {
-      "gameName": "stormlake",
-      "realName": "Storm Lake",
-      "country": "iowa",
-      "x": "4461.02",
-      "y": "208.469",
-      "z": "-20922.3"
+        "gameName": "stormlake",
+        "realName": "Storm Lake",
+        "country": "stormlake",
+        "x": "4461.02",
+        "y": "208.469",
+        "z": "-20922.3"
     },
     {
-      "gameName": "valentine",
-      "realName": "Valentine",
-      "country": "nebraska",
-      "x": "-19031",
-      "y": "107.887",
-      "z": "-22209.9"
+        "gameName": "valentine",
+        "realName": "Valentine",
+        "country": "valentine",
+        "x": "-19031",
+        "y": "107.887",
+        "z": "-22209.9"
     },
     {
-      "gameName": "waterloo",
-      "realName": "Waterloo",
-      "country": "iowa",
-      "x": "16034.5",
-      "y": "226.152",
-      "z": "-20441.4"
+        "gameName": "waterloo",
+        "realName": "Waterloo",
+        "country": "waterloo",
+        "x": "16034.5",
+        "y": "226.152",
+        "z": "-20441.4"
     },
     {
-      "gameName": "yankton",
-      "realName": "Yankton",
-      "country": "south_dakota",
-      "x": "-6035.41",
-      "y": "91.3828",
-      "z": "-21946.2"
+        "gameName": "yankton",
+        "realName": "Yankton",
+        "country": "yankton",
+        "x": "-6035.41",
+        "y": "91.3828",
+        "z": "-21946.2"
     }
 ];
 
@@ -9410,116 +9410,116 @@ var city_properties_caribbean = {
 
 var cities_caribbean = [
     {
-      "gameName": "adicora",
-      "realName": "Adicora",
-      "country": "venezuela",
-      "x": "157727",
-      "y": "112.589",
-      "z": "136283"
+        "gameName": "adicora",
+        "realName": "Adicora",
+        "country": "adicora",
+        "x": "157727",
+        "y": "112.589",
+        "z": "136283"
     },
     {
-      "gameName": "coro",
-      "realName": "Coro",
-      "country": "venezuela",
-      "x": "159451",
-      "y": "82.316",
-      "z": "139921"
+        "gameName": "coro",
+        "realName": "Coro",
+        "country": "coro",
+        "x": "159451",
+        "y": "82.316",
+        "z": "139921"
     },
     {
-      "gameName": "freeport",
-      "realName": "Freeport",
-      "country": "bahamas",
-      "x": "88350.9",
-      "y": "23.4512",
-      "z": "62912.5"
+        "gameName": "freeport",
+        "realName": "Freeport",
+        "country": "freeport",
+        "x": "88350.9",
+        "y": "23.4512",
+        "z": "62912.5"
     },
     {
-      "gameName": "guantanamo_bay",
-      "realName": "Guantanamo Bay",
-      "country": "guantanamo_bay",
-      "x": "115113",
-      "y": "70",
-      "z": "97014.4"
+        "gameName": "guantanamo_bay",
+        "realName": "Guantanamo Bay",
+        "country": "guantanamo_bay",
+        "x": "115113",
+        "y": "70",
+        "z": "97014.4"
     },
     {
-      "gameName": "havana",
-      "realName": "Havana",
-      "country": "cuba",
-      "x": "72902.3",
-      "y": "138.711",
-      "z": "85783.6"
+        "gameName": "havana",
+        "realName": "Havana",
+        "country": "havana",
+        "x": "72902.3",
+        "y": "138.711",
+        "z": "85783.6"
     },
     {
-      "gameName": "kingston",
-      "realName": "Kingston",
-      "country": "jamaica",
-      "x": "108606",
-      "y": "60",
-      "z": "110186"
+        "gameName": "kingston",
+        "realName": "Kingston",
+        "country": "kingston",
+        "x": "108606",
+        "y": "60",
+        "z": "110186"
     },
     {
-      "gameName": "mayagüez",
-      "realName": "Mayagüez",
-      "country": "puerto_rico",
-      "x": "161247",
-      "y": "184.977",
-      "z": "94517.4"
+        "gameName": "mayagüez",
+        "realName": "Mayagüez",
+        "country": "mayagüez",
+        "x": "161247",
+        "y": "184.977",
+        "z": "94517.4"
     },
     {
-      "gameName": "montegobay",
-      "realName": "Montego Bay",
-      "country": "jamaica",
-      "x": "101687",
-      "y": "18.6364",
-      "z": "108924"
+        "gameName": "montegobay",
+        "realName": "Montego Bay",
+        "country": "montegobay",
+        "x": "101687",
+        "y": "18.6364",
+        "z": "108924"
     },
     {
-      "gameName": "nassau",
-      "realName": "Nassau",
-      "country": "bahamas",
-      "x": "96750.8",
-      "y": "39.375",
-      "z": "69835.9"
+        "gameName": "nassau",
+        "realName": "Nassau",
+        "country": "nassau",
+        "x": "96750.8",
+        "y": "39.375",
+        "z": "69835.9"
     },
     {
-      "gameName": "oranjestad",
-      "realName": "Oranjestad",
-      "country": "aruba",
-      "x": "155584",
-      "y": "65",
-      "z": "133214"
+        "gameName": "oranjestad",
+        "realName": "Oranjestad",
+        "country": "oranjestad",
+        "x": "155584",
+        "y": "65",
+        "z": "133214"
     },
     {
-      "gameName": "puntofijo",
-      "realName": "Punto Fijo",
-      "country": "venezuela",
-      "x": "155329",
-      "y": "77.9219",
-      "z": "138177"
+        "gameName": "puntofijo",
+        "realName": "Punto Fijo",
+        "country": "puntofijo",
+        "x": "155329",
+        "y": "77.9219",
+        "z": "138177"
     },
     {
-      "gameName": "ponce",
-      "realName": "Ponce",
-      "country": "puerto_rico",
-      "x": "165673",
-      "y": "197.952",
-      "z": "95513.8"
+        "gameName": "ponce",
+        "realName": "Ponce",
+        "country": "ponce",
+        "x": "165673",
+        "y": "197.952",
+        "z": "95513.8"
     },
     {
-      "gameName": "sanjuan",
-      "realName": "San Juan",
-      "country": "puerto_rico",
-      "x": "166305",
-      "y": "188.551",
-      "z": "90296.7"
+        "gameName": "sanjuan",
+        "realName": "San Juan",
+        "country": "sanjuan",
+        "x": "166305",
+        "y": "188.551",
+        "z": "90296.7"
     },
     {
-      "gameName": "treasure_cay",
-      "realName": "Treasure Cay",
-      "country": "bahamas",
-      "x": "96667.7",
-      "y": "38.3665",
-      "z": "61340.7"
+        "gameName": "treasure_cay",
+        "realName": "Treasure Cay",
+        "country": "treasure_cay",
+        "x": "96667.7",
+        "y": "38.3665",
+        "z": "61340.7"
     },
 ];
 
@@ -9557,8 +9557,3 @@ cities = cities.concat(cities_greatamerica);
 country_properties = $.extend(country_properties, country_properties_caribbean);
 city_properties = $.extend(city_properties, city_properties_caribbean);
 cities = cities.concat(cities_caribbean);
-
-//Set country to gameName, because stations are bound to a city.
-for (var i = 0; i < cities.length; i++) {
-    cities[i].country = cities[i].gameName;
-}
