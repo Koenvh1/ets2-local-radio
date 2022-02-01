@@ -347,9 +347,9 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.8
     },
-    "kennewick": {
-        name: "Kennewick",
-        name_english: "Kennewick",
+    "kennewick_pendleton": {
+        name: "Kennewick / Pendleton",
+        name_english: "Kennewick / Pendleton",
         code: "us-wa",
         relative_radius: 0.7
     },
@@ -375,7 +375,7 @@ var country_properties = {
         name: "Kramer Junction",
         name_english: "Kramer Junction",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "lakeview": {
         name: "Lakeview",
@@ -507,18 +507,12 @@ var country_properties = {
         name: "Oxnard",
         name_english: "Oxnard",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "page": {
         name: "Page",
         name_english: "Page",
         code: "us-az",
-        relative_radius: 0.7
-    },
-    "pendleton": {
-        name: "Pendleton",
-        name_english: "Pendleton",
-        code: "us-or",
         relative_radius: 0.7
     },
     "phoenix": {
@@ -603,7 +597,7 @@ var country_properties = {
         name: "Riverside",
         name_english: "Riverside",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "riverton": {
         name: "Riverton",
@@ -681,7 +675,7 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "santa_maria": {
         name: "Santa Maria",
@@ -747,7 +741,7 @@ var country_properties = {
         name: "St. George",
         name_english: "St. George",
         code: "us-ut",
-        relative_radius: 0.6
+		relative_radius: 0.8
     },
     "susanv": {
         name: "Susanville",
@@ -801,7 +795,7 @@ var country_properties = {
         name: "Victorville",
         name_english: "Victorville",
         code: "us-ca",
-        relative_radius: 0.45
+        relative_radius: 0.7
     },
     "wenatchee": {
         name: "Wenatchee",
@@ -1038,6 +1032,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kennewick": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "ketchum": {
@@ -1050,7 +1045,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kramer_junction": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "lakeview": {
         relative_whitenoise: 0.85
@@ -1116,12 +1111,14 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "oxnard": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "page": {
         relative_whitenoise: 0.85
     },
     "pendleton": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "phoenix": {
@@ -1164,6 +1161,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "riverside": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "riverton": {
@@ -1203,7 +1201,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "santa_fe": {
-        relative_whitenoise: 0.85
+        relative_radius: 0.7,
+        relative_whitenoise: 0.70
     },
     "santa_maria": {
         relative_whitenoise: 0.85
@@ -1236,6 +1235,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "st_george": {
+		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "susanv": {
@@ -1263,6 +1263,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "victorville": {
+		relative_radius: 0.45,
         relative_whitenoise: 0.85
     },
     "wenatchee": {
@@ -1542,6 +1543,14 @@ var cities = [
         "z": "12807.6"
     },
     {
+        "gameName": "oxnard",
+        "realName": "Oxnard",
+        "country": "los_angeles",
+        "x": "-108859",
+        "y": "31.3819",
+        "z": "12807.6"
+    },
+    {
         "gameName": "page",
         "realName": "Page",
         "country": "page",
@@ -1601,6 +1610,14 @@ var cities = [
         "gameName": "riverside",
         "realName": "Riverside",
         "country": "riverside",
+        "x": "-99043.6",
+        "y": "38.0766",
+        "z": "17999.1"
+    },
+    {
+        "gameName": "riverside",
+        "realName": "Riverside",
+        "country": "los_angeles",
         "x": "-99043.6",
         "y": "38.0766",
         "z": "17999.1"
@@ -1878,6 +1895,14 @@ var cities = [
         "z": "16062.1"
     },
     {
+        "gameName": "santa_fe",
+        "realName": "Santa Fe",
+        "country": "albuquerque",
+        "x": "-44752.1",
+        "y": "149.02",
+        "z": "16062.1"
+    },
+    {
         "gameName": "socorro",
         "realName": "Socorro",
         "country": "socorro",
@@ -1953,7 +1978,7 @@ var cities = [
         "gameName": "kramer_junction",
         "realName": "Kramer Junction",
         "country": "kramer_junction",
-        "x": "-101306",
+        "x": "-99306",
         "y": "46.9573",
         "z": "10385.2"
     },
@@ -1984,10 +2009,10 @@ var cities = [
     {
         "gameName": "pendleton",
         "realName": "Pendleton",
-        "country": "pendleton",
-        "x": "-89810.3",
+        "country": "kennewick_pendleton",
+        "x": "-90510.3",
         "y": "100.761",
-        "z": "-48112.9"
+        "z": "-47812.9"
     },
     {
         "gameName": "portland",
@@ -2032,7 +2057,7 @@ var cities = [
     {
         "gameName": "kennewick",
         "realName": "Kennewick",
-        "country": "kennewick",
+        "country": "kennewick_pendleton",
         "x": "-89029.3",
         "y": "68.645",
         "z": "-53557.5"
@@ -2193,7 +2218,15 @@ var cities = [
         "gameName": "st_george",
         "realName": "St. George",
         "country": "st_george",
-        "x": "-79056.8",
+        "x": "-78856.8",
+        "y": "70.63",
+        "z": "3000.27"
+    },
+    {
+        "gameName": "st_george",
+        "realName": "St. George",
+        "country": "cedar_city",
+        "x": "-78856.8",
         "y": "70.63",
         "z": "3000.27"
     },
@@ -2209,6 +2242,14 @@ var cities = [
         "gameName": "victorville",
         "realName": "Victorville",
         "country": "victorville",
+        "x": "-98494.6",
+        "y": "163.151",
+        "z": "15237.6"
+    },
+    {
+        "gameName": "victorville",
+        "realName": "Victorville",
+        "country": "los_angeles",
         "x": "-98494.6",
         "y": "163.151",
         "z": "15237.6"
@@ -8297,6 +8338,10 @@ var city_properties_canada = {
     "hope": {
         relative_whitenoise: 0.80
     },
+    "horseshoe_bay": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.75
+    },
     "houstoncan": {
         relative_whitenoise: 0.95
     },
@@ -8609,6 +8654,14 @@ var cities_canada = [
         "x": "-94110.7",
         "y": "56.58",
         "z": "-71841.2"
+    },
+    {
+        "gameName": "horseshoe_bay",
+        "realName": "Horseshoe Bay",
+        "country": "vancouver_bc",
+        "x": "-103698",
+        "y": "3.82032",
+        "z": "-75997.2"
     },
     {
         "gameName": "houstoncan",
