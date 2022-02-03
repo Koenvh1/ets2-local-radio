@@ -26859,6 +26859,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1441/hls.m3u8"
         },
         {
+            name: "107.1 The Bear",
+            logo: "stations/images-america/c2c/binghamton_ny/107.1 The Bear.png",
+            url: "https://ice64.securenetsystems.net/WCDWHD4"
+        },
+        {
             name: "B107.5",
             logo: "stations/images-america/c2c/binghamton_ny/B107.5.png",
             url: "https://stream.revma.ihrhls.com/zc1453/hls.m3u8"

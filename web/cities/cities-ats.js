@@ -639,7 +639,7 @@ var country_properties = {
         name: "Salt Lake City",
         name_english: "Salt Lake City",
         code: "us-ut",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "santa_rosa_ca": {
         name: "Santa Rosa",
@@ -789,7 +789,7 @@ var country_properties = {
         name: "Vernal",
         name_english: "Vernal",
         code: "us-ut",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "victorville": {
         name: "Victorville",
@@ -1183,7 +1183,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "salt_lake": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "santa_rosa_ca": {
         relative_whitenoise: 0.75
@@ -1260,7 +1260,7 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "vernal": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "victorville": {
 		relative_radius: 0.45,
