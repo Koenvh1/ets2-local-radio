@@ -1461,7 +1461,7 @@ var stations = {
         {
             name: "Swag 93.5",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://beckoningcat.com/catx/index.php?q=https://ice9.securenetsystems.net/KLCAHD3"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "93.9 The Lake",
@@ -1486,7 +1486,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=https://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
@@ -3051,7 +3051,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=https://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
@@ -6159,7 +6159,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=https://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
@@ -8192,7 +8192,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=https://ice9.securenetsystems.net/KLCA"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
@@ -8252,7 +8252,7 @@ var stations = {
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://beckoningcat.com/catx/index.php?q=https://ice9.securenetsystems.net/KLCAHD3"
+            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "105.7 KOZZ",
@@ -27207,7 +27207,7 @@ var stations_c2c = {
         {
             name: "New York's Country 94.7-HD2",
             logo: "stations/images-america/c2c/nyc/New York's Country 94.7-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNSHHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKHD2AAC_SC"
         },
         {
             name: "K-LOVE 95.5",
