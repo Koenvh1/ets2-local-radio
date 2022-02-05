@@ -32619,7 +32619,7 @@ var stations_c2c = {
         {
             name: "94.7 WOJG",
             logo: "stations/images-america/c2c/jackson_tn/94.7 WOJG.png",
-            url: "https://crystalout.surfernetwork.com:8001/WOJG-FM_MP3"
+            url: "https://ais-sa1.streamon.fm/7742_96k.aac"
         },
         {
             name: "96 KIX",
@@ -35663,7 +35663,7 @@ var stations_c2c = {
         {
             name: "1920s Radio Network 90.3-HD2",
             logo: "stations/images-america/c2c/norfolk_va/1920s Radio Network 90.3-HD2.png",
-            url: "http://tess.fast-serv.com:8570/"
+            url: "http://tess.fast-serv.com:8570/;"
         },
         {
             name: "Blazin' Hot 91",
@@ -35758,7 +35758,7 @@ var stations_c2c = {
         {
             name: "La Selecta 103.3",
             logo: "stations/images-america/c2c/norfolk_va/La Selecta 103.3.png",
-            url: "https://ice23.securenetsystems.net/WVXX"
+            url: "http://144.91.98.151:8389/xstream"
         },
         {
             name: "Z104",
@@ -36458,12 +36458,12 @@ var stations_c2c = {
         {
             name: "Razor 94.7",
             logo: "stations/images-america/c2c/green_bay_wi/Razor 94.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ic2.sslstream.com/wzor-fm"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://woodward-radio.streamb.live/SB00039"
         },
         {
             name: "95.9 KISS FM",
             logo: "stations/images-america/c2c/green_bay_wi/95.9 KISS FM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=http://ic2.mainstreamnetwork.com/wksz-fm"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://woodward-radio.streamb.live/SB00132"
         },
         {
             name: "La Más Grande 96.9",
@@ -36508,7 +36508,7 @@ var stations_c2c = {
         {
             name: "105.7 WAPL",
             logo: "stations/images-america/c2c/green_bay_wi/105.7 WAPL.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=http://ic2.mainstreamnetwork.com/wapl-fm"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://woodward-radio.streamb.live/SB00020"
         },
         {
             name: "Big Dog 106.7",
@@ -37660,7 +37660,7 @@ var stations_canada = {
         {
             name: "Bounce 106.3",
             logo: "stations/images-america/canadream/golden/Bounce 106.3.png",
-            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGRFMAAC_SC"
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGRAAC_SC"
         },
     ],
     "grandfalls": [
@@ -37914,7 +37914,7 @@ var stations_canada = {
         {
             name: "98.1 Moose FM",
             logo: "stations/images-america/canadream/iroquoisfall/98.1 Moose FM.png",
-            url: "http://s1.hotdogradio.com/CHPB"
+            url: "https://vistaradio.streamb.live/SB00103"
         },
         {
             name: "KiSS 99.3",
@@ -40887,7 +40887,7 @@ var stations_greatamerica = {
         {
             name: "Q95",
             logo: "stations/images-america/great_america/fortdodge/Q95.png",
-            url: "https://ice9.securenetsystems.net/KQWC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice9.securenetsystems.net/KQWC"
         },
         {
             name: "K97",
@@ -40947,7 +40947,7 @@ var stations_greatamerica = {
         {
             name: "1570 The Breeze",
             logo: "stations/images-america/great_america/fortdodge/1570 The Breeze.png",
-            url: "https://ice9.securenetsystems.net/KQWCAM"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice9.securenetsystems.net/KQWCAM"
         },
     ],
     "huron_sd": [
@@ -40974,12 +40974,12 @@ var stations_greatamerica = {
         {
             name: "Big Jim 93.3",
             logo: "stations/images-america/great_america/huron_sd/Big Jim 93.3.png",
-            url: "https://ice5.securenetsystems.net/KJRV"
+            url: "https://p.itoad.net/browse.php?u=https://ice5.securenetsystems.net/KJRV"
         },
         {
             name: "Tiger 95",
             logo: "stations/images-america/great_america/huron_sd/Tiger 95.png",
-            url: "https://ice8.securenetsystems.net/KIJVAM"
+            url: "https://p.itoad.net/browse.php?u=https://ice8.securenetsystems.net/KIJVAM"
         },
         {
             name: "96.9 KDLO",
@@ -41004,7 +41004,7 @@ var stations_greatamerica = {
         {
             name: "KOKK 1210",
             logo: "stations/images-america/great_america/huron_sd/KOKK 1210.png",
-            url: "https://ice8.securenetsystems.net/KOKKAM"
+            url: "https://p.itoad.net/browse.php?u=https://ice8.securenetsystems.net/KOKKAM"
         },
     ],
     "mobridge": [
@@ -41041,7 +41041,7 @@ var stations_greatamerica = {
         {
             name: "930 KSDN",
             logo: "stations/images-america/great_america/mobridge/930 KSDN.png",
-            url: "https://ice10.securenetsystems.net/KSDNAM"
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KSDNAM"
         },
     ],
     "norfolk_ne": [
@@ -41159,13 +41159,13 @@ var stations_greatamerica = {
         },
         {
             name: "ROCK IT 93.5",
-            logo: "stations/images-america/great_america/spiritlake/ROCK IT 93.5.png",
-            url: "https://ice8.securenetsystems.net/KITN"
+            logo: "stations/images-america/c2c/worthington_mn/ROCK IT 93.5.png",
+            url: "https://us2.maindigitalstream.com/ssl/KITN"
         },
         {
             name: "US95",
-            logo: "stations/images-america/great_america/spiritlake/US95.png",
-            url: "https://ice8.securenetsystems.net/KUSQ"
+            logo: "stations/images-america/c2c/worthington_mn/US95.png",
+            url: "https://us2.maindigitalstream.com/ssl/KUSQ"
         },
         {
             name: "KILR 95.9",
@@ -41205,7 +41205,7 @@ var stations_greatamerica = {
         {
             name: "106.5 Lakes FM",
             logo: "stations/images-america/great_america/spiritlake/106.5 Lakes FM.png",
-            url: "https://ice7.securenetsystems.net/KFMC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice7.securenetsystems.net/KFMC"
         },
         {
             name: "Big Country 107.7",
