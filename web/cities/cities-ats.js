@@ -3414,7 +3414,7 @@ var country_properties_c2c = {
         name: "Port Saint Lucie",
         name_english: "Port Saint Lucie",
         code: "us-fl",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "gainesville": {
         name: "gainesville",
@@ -3438,7 +3438,7 @@ var country_properties_c2c = {
         name: "melbourne_fl",
         name_english: "melbourne_fl",
         code: "us-fl",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "miami": {
         name: "miami",
@@ -3453,10 +3453,10 @@ var country_properties_c2c = {
         relative_radius: 0.75
     },
     "new_smyrna_beach": {
-        name: "new_smyrna_beach",
-        name_english: "new_smyrna_beach",
+        name: "New Smyrna Beach",
+        name_english: "New Smyrna Beach",
         code: "us-fl",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "orlando": {
         name: "orlando",
@@ -4746,7 +4746,7 @@ var country_properties_c2c = {
         name: "austin_tx",
         name_english: "austin_tx",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "beaumont": {
         name: "beaumont",
@@ -4770,7 +4770,7 @@ var country_properties_c2c = {
         name: "Corpus Christi",
         name_english: "Corpus Christi",
         code: "us-tx",
-        relative_radius: 1.3
+        relative_radius: 1.0
     },
     "dallas": {
         name: "dallas",
@@ -4830,7 +4830,7 @@ var country_properties_c2c = {
         name: "sanantonio",
         name_english: "sanantonio",
         code: "us-tx",
-        relative_radius: 1.4
+        relative_radius: 1.0
     },
     "snyder_tx": {
         name: "Snyder",
@@ -4854,13 +4854,13 @@ var country_properties_c2c = {
         name: "Victoria",
         name_english: "Victoria",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "waco": {
         name: "waco",
         name_english: "waco",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "wichita_falls": {
         name: "wichita_falls",
@@ -5070,7 +5070,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "port_saint_lucie": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "gainesville": {
         relative_whitenoise: 0.85
@@ -5082,7 +5082,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "melbourne_fl": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "miami": {
         relative_whitenoise: 0.75
@@ -5091,7 +5091,8 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "new_smyrna_beach": {
-        relative_whitenoise: 0.95
+		relative_radius: 1.0,
+        relative_whitenoise: 0.85
     },
     "orlando": {
         relative_whitenoise: 0.75
@@ -5736,7 +5737,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "austin_tx": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "beaumont": {
         relative_whitenoise: 0.95
@@ -5748,7 +5749,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "corpus_christi_tx": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "dallas": {
         relative_whitenoise: 0.95
@@ -5778,7 +5779,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "sanantonio": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.75
     },
     "snyder_tx": {
         relative_whitenoise: 0.95
@@ -5790,10 +5791,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "victoria_tx": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "waco": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "wichita_falls": {
         relative_whitenoise: 0.95
@@ -6057,8 +6058,16 @@ var cities_c2c = [
         "realName": "New Smyrna Beach",
         "country": "new_smyrna_beach",
         "x": "74529",
+        "y": "68.9414",
+        "z": "48411.4"
+    },
+    {
+        "gameName": "new_smyrna_beach",
+        "realName": "New Smyrna Beach",
+        "country": "orlando",
+        "x": "74529",
         "y": "66.9414",
-        "z": "50411.4"
+        "z": "48411.4"
     },
     {
         "gameName": "orlando",
