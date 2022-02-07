@@ -2640,7 +2640,12 @@ var stations = {
         {
             name: "NHK-FM放送",
             logo: "stations/images-europe/japan/NHK-FM放送.png",
-            url: "https://nhkradioakfm-i.akamaihd.net/hls/live/512290/1-fm/1-fm-01.m3u8"
+            url: "https://jppx.azurewebsites.net/browse.php?u=https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8"
+        },
+        {
+            name: "NHK Radio 1",
+            logo: "stations/images-europe/japan/NHKラジオ第1放送.png",
+            url: "https://jppx.azurewebsites.net/browse.php?u=https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master.m3u8"
         },
     ],
     "jordan": [
@@ -2688,7 +2693,7 @@ var stations = {
         },
         {
             name: "Shalqar radiosy",
-            logo: "stations/images-europe/kazakhstan/Qazaq radiosy.png",
+            logo: "stations/images-europe/kazakhstan/Shalqar radiosy.png",
             url: "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio"
         },
         {

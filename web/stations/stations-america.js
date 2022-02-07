@@ -1427,123 +1427,6 @@ var stations = {
             url: "http://ice2.securenetsystems.net/KTUM"
         },
     ],
-    "carson_city": [
-        {
-            name: "KUNR 88.7",
-            logo: "stations/images-america/0_general_logos/KUNR.png",
-            url: "https://kunrstream.com:8443/live"
-        },
-        {
-            name: "CapRadio News 90.5",
-            logo: "stations/images-america/0_general_logos/CapRadio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
-        },
-        {
-            name: "Air1 90.9",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "Pilgrim Radio 91.3",
-            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
-        },
-        {
-            name: "ALT 92.1",
-            logo: "stations/images-america/reno/ALT 92.1.png",
-            url: "https://ice24.securenetsystems.net/ALT921"
-        },
-        {
-            name: "K-LOVE 93.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "Swag 93.5",
-            logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
-        },
-        {
-            name: "93.9 The Lake",
-            logo: "stations/images-america/ltahoe/93.9 The Lake.png",
-            url: "http://75.140.35.218:88/broadwavehigh.mp3"
-        },
-        {
-            name: "ESPN Radio 94.5",
-            logo: "stations/images-america/reno/ESPN Radio 94.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
-        },
-        {
-            name: "KNVC 95.1",
-            logo: "stations/images-america/carson_city/KNVC 95.1.png",
-            url: "http://www.streamcontrol.net:16400/stream"
-        },
-        {
-            name: "95.5 The Vibe",
-            logo: "stations/images-america/reno/95.5 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
-        },
-        {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
-        },
-        {
-            name: "Ten Country 97.3",
-            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
-        },
-        {
-            name: "K-Bull 98.1",
-            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
-        },
-        {
-            name: "100.1 We FM",
-            logo: "stations/images-america/reno/100.1 We FM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
-        },
-        {
-            name: "Wild 102.9",
-            logo: "stations/images-america/reno/Wild 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
-        },
-        {
-            name: "103.7 The River",
-            logo: "stations/images-america/reno/103.7 The River.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KODS"
-        },
-        {
-            name: "ROCK 104.5",
-            logo: "stations/images-america/reno/ROCK 104.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDOTFMAAC_SC"
-        },
-        {
-            name: "FUN 105.1",
-            logo: "stations/images-america/reno/FUN 101.png",
-            url: "http://ice42.securenetsystems.net/KRFN"
-        },
-        {
-            name: "94.9 The Party 105.1-HD2",
-            logo: "stations/images-america/reno/94.9 The Party.png",
-            url: "https://ice42.securenetsystems.net/KWFP"
-        },
-        {
-            name: "105.7 KOZZ",
-            logo: "stations/images-america/reno/105.7 KOZZ.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOZZFMAAC_SC"
-        },
-        {
-            name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
-        },
-        {
-            name: "KOH 780",
-            logo: "stations/images-america/reno/780 KOH.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
-        },
-    ],
     "casper": [
         {
             name: "Air1 88.1",
@@ -3055,7 +2938,7 @@ var stations = {
         },
         {
             name: "Ten Country 97.3",
-            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            logo: "stations/images-america/reno/Ten Country 97.3.png",
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
@@ -6163,12 +6046,12 @@ var stations = {
         },
         {
             name: "Ten Country 97.3",
-            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            logo: "stations/images-america/reno/Ten Country 97.3.png",
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "K-Bull 98.1",
-            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
+            logo: "stations/images-america/reno/K-BULL 98.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
@@ -8196,7 +8079,7 @@ var stations = {
         },
         {
             name: "Ten Country 97.3",
-            logo: "stations/images-america/carson_city/Ten Country 97.3.png",
+            logo: "stations/images-america/reno/Ten Country 97.3.png",
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
@@ -8206,7 +8089,7 @@ var stations = {
         },
         {
             name: "K-Bull 98.1",
-            logo: "stations/images-america/carson_city/K-BULL 98.1.png",
+            logo: "stations/images-america/reno/K-BULL 98.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
         },
         {
@@ -21123,6 +21006,11 @@ var stations_c2c = {
             name: "Hot 103.3",
             logo: "stations/images-america/c2c/lake_charles_la/Hot 103.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIUFMAAC_SC"
+        },
+        {
+            name: "104.1 The Game",
+            logo: "stations/images-america/c2c/lafayette_la/103.7 The Game.png",
+            url: "http://ice6.securenetsystems.net/KLWB"
         },
         {
             name: "Live 104.9",

@@ -113,12 +113,6 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
-    "carson_city": {
-        name: "Carson City",
-        name_english: "Carson City",
-        code: "us-nv",
-        relative_radius: 0.6
-    },
     "casper": {
         name: "Casper",
         name_english: "Casper",
@@ -915,6 +909,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "carson_city": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "casper": {
@@ -1353,7 +1348,7 @@ var cities = [
     {
         "gameName": "carson_city",
         "realName": "Carson City",
-        "country": "carson_city",
+        "country": "reno",
         "x": "-102681",
         "y": "262.479",
         "z": "-13171.5"
