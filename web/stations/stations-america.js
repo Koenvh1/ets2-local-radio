@@ -5990,7 +5990,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0E="
         },
         {
             name: "Ten Country 97.3",
@@ -8023,7 +8023,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0E="
         },
         {
             name: "Ten Country 97.3",
@@ -8083,7 +8083,7 @@ var stations = {
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCAHD3"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0FIRDM="
         },
         {
             name: "105.7 KOZZ",
