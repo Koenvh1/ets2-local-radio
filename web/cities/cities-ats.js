@@ -227,12 +227,6 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.5
     },
-    "fallon": {
-        name: "Fallon",
-        name_english: "Fallon",
-        code: "us-nv",
-        relative_radius: 0.7
-    },
     "farmington": {
         name: "Farmington",
         name_english: "Farmington",
@@ -970,6 +964,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "fallon": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "farmington": {
@@ -1404,7 +1399,7 @@ var cities = [
     {
         "gameName": "fallon",
         "realName": "Fallon",
-        "country": "fallon",
+        "country": "reno",
         "x": "-94981.2",
         "y": "203.214",
         "z": "-12840.8"

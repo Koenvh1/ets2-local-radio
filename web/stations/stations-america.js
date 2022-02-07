@@ -2920,58 +2920,6 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KVNU"
         },
     ],
-    "fallon": [
-        {
-            name: "KUNR 88.7",
-            logo: "stations/images-america/0_general_logos/KUNR.png",
-            url: "https://kunrstream.com:8443/live"
-        },
-        {
-            name: "95.5 The Vibe",
-            logo: "stations/images-america/reno/95.5 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
-        },
-        {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KLCA"
-        },
-        {
-            name: "Ten Country 97.3",
-            logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
-        },
-        {
-            name: "Biggest Little Radio 101.3",
-            logo: "stations/images-america/fallon/Biggest Little Radio 101.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC"
-        },
-        {
-            name: "KELY 102.5",
-            logo: "stations/images-america/ely/KELY 1230.png",
-            url: "http://173.193.205.96:7200/stream"
-        },
-        {
-            name: "Wild 102.9",
-            logo: "stations/images-america/reno/Wild 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
-        },
-        {
-            name: "Easy 104.1",
-            logo: "stations/images-america/reno/Easy 104.1.png",
-            url: "https://ice42.securenetsystems.net/KUEZ"
-        },
-        {
-            name: "Radio Lazer 105.3",
-            logo: "stations/images-america/reno/Radio Lazer 107.7.png",
-            url: "https://audiossl.radiolazer.stream/LBC/ksrn.stream/playlist.m3u8"
-        },
-        {
-            name: "La Mejor 107.3",
-            logo: "stations/images-america/reno/La Mejor 107.3.png",
-            url: "https://audiossl.radiolazer.stream/LBC/knez.stream/playlist.m3u8"
-        },
-    ],
     "farmington": [
         {
             name: "K-LOVE 88.9",
@@ -8109,7 +8057,7 @@ var stations = {
         },
         {
             name: "Biggest Little Radio 101.3",
-            logo: "stations/images-america/fallon/Biggest Little Radio 101.3.png",
+            logo: "stations/images-america/reno/Biggest Little Radio 101.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC"
         },
         {
