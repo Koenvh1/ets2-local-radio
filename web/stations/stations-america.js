@@ -5968,59 +5968,9 @@ var stations = {
     ],
     "ltahoe": [
         {
-            name: "CapRadio News 88.1",
-            logo: "stations/images-america/0_general_logos/CapRadio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
-        },
-        {
-            name: "KUNR 88.7",
-            logo: "stations/images-america/0_general_logos/KUNR.png",
-            url: "https://kunrstream.com:8443/live"
-        },
-        {
             name: "93.9 The Lake",
             logo: "stations/images-america/ltahoe/93.9 The Lake.png",
             url: "http://75.140.35.218:88/broadwavehigh.mp3"
-        },
-        {
-            name: "95.5 The Vibe",
-            logo: "stations/images-america/reno/95.5 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
-        },
-        {
-            name: "Alice 96.5",
-            logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0E="
-        },
-        {
-            name: "Ten Country 97.3",
-            logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
-        },
-        {
-            name: "K-Bull 98.1",
-            logo: "stations/images-america/reno/K-BULL 98.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBULFMAAC_SC"
-        },
-        {
-            name: "99.1 FM Talk",
-            logo: "stations/images-america/ltahoe/99.1 FM Talk.png",
-            url: "https://ice7.securenetsystems.net/KKFT"
-        },
-        {
-            name: "Wild 102.9",
-            logo: "stations/images-america/reno/Wild 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
-        },
-        {
-            name: "103.7 The River",
-            logo: "stations/images-america/reno/103.7 The River.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KODS"
-        },
-        {
-            name: "106.9 More FM",
-            logo: "stations/images-america/reno/106.9 More FM.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KRNO"
         },
     ],
     "ludlow": [
@@ -8042,7 +7992,7 @@ var stations = {
         },
         {
             name: "99.1 FM Talk",
-            logo: "stations/images-america/ltahoe/99.1 FM Talk.png",
+            logo: "stations/images-america/reno/99.1 FM Talk.png",
             url: "https://ice7.securenetsystems.net/KKFT"
         },
         {

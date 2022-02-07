@@ -429,7 +429,7 @@ var country_properties = {
         name: "South Lake Tahoe",
         name_english: "South Lake Tahoe",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "ludlow": {
         name: "Ludlow",
@@ -1068,6 +1068,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "ltahoe": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "ludlow": {
@@ -1512,6 +1513,14 @@ var cities = [
         "gameName": "ltahoe",
         "realName": "South Lake Tahoe",
         "country": "ltahoe",
+        "x": "-105692",
+        "y": "695.078",
+        "z": "-10812.2"
+    },
+    {
+        "gameName": "ltahoe",
+        "realName": "South Lake Tahoe",
+        "country": "reno",
         "x": "-105692",
         "y": "695.078",
         "z": "-10812.2"
