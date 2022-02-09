@@ -3821,7 +3821,7 @@ var stations = {
     "gillette": [
         {
             name: "Real Presence Radio 88.1",
-            logo: "stations/images-america/gillette/Real Presence Radio 88.1.png",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
             url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
@@ -23076,6 +23076,11 @@ var stations_c2c = {
     ],
     "duluth": [
         {
+            name: "Real Presence Radio 88.1",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
+        },
+        {
             name: "WPR News & Classical 88.5",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
@@ -23104,11 +23109,6 @@ var stations_c2c = {
             name: "My 95.7",
             logo: "stations/images-america/c2c/duluth_mn/My 95.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDALFMAAC_SC"
-        },
-        {
-            name: "98.1 WDSM",
-            logo: "stations/images-america/c2c/duluth_mn/98.1 WDSM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDSMAMAAC_SC"
         },
         {
             name: "98.9 KTCO",
@@ -23159,6 +23159,16 @@ var stations_c2c = {
             name: "MIX 108",
             logo: "stations/images-america/c2c/duluth_mn/MIX 108.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbmxfmaac-ibc3"
+        },
+        {
+            name: "710 The Game",
+            logo: "stations/images-america/c2c/duluth_mn/710 The Game.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDSMAMAAC_SC"
+        },
+        {
+            name: "VCY America 850",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
     ],
     "minneapolis": [
@@ -28368,7 +28378,7 @@ var stations_c2c = {
         },
         {
             name: "Real Presence Radio 91.7",
-            logo: "stations/images-america/gillette/Real Presence Radio 88.1.png",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
             url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
@@ -41333,7 +41343,7 @@ var stations_greatamerica = {
         },
         {
             name: "Real Presence Radio 91.3",
-            logo: "stations/images-america/gillette/Real Presence Radio 88.1.png",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
             url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
