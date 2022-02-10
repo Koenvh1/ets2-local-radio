@@ -35396,7 +35396,7 @@ var stations_c2c = {
         },
         {
             name: "WMRA 90.7",
-            logo: "stations/images-america/c2c/winchester_va/WMRA 94.5.png",
+            logo: "stations/images-america/c2c/harrisonburg_va/WMRA 94.5.png",
             url: "http://media.wmra.org:8000/wmra"
         },
         {
@@ -35829,73 +35829,6 @@ var stations_c2c = {
             name: "FOX Radio 910",
             logo: "stations/images-america/c2c/roanoke_va/Fox Radio 910.png",
             url: "http://crystalout.surfernetwork.com:8001/WFJX_MP3"
-        },
-    ],
-    "winchester_va": [
-        {
-            name: "WVPR 88.9",
-            logo: "stations/images-america/0_general_logos/West Virginia Public Radio.png",
-            url: "https://wvpublic.streamguys1.com/wvpb256k.aac"
-        },
-        {
-            name: "Air1 92.5",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "94.1 QZK",
-            logo: "stations/images-america/c2c/winchester_va/94.1 QZK.png",
-            url: "https://live.wostreaming.net/manifest/wvradio-wqzkfmaac-ibc2"
-        },
-        {
-            name: "WMRA 94.5",
-            logo: "stations/images-america/c2c/winchester_va/WMRA 94.5.png",
-            url: "http://media.wmra.org:8000/wmra"
-        },
-        {
-            name: "The River 95.3",
-            logo: "stations/images-america/c2c/winchester_va/The River 95.3.png",
-            url: "http://crystalout.surfernetwork.com:8001/WZRV_MP3"
-        },
-        {
-            name: "Classic Country 95.7",
-            logo: "stations/images-america/c2c/winchester_va/Classic Country 95.7.png",
-            url: "https://stream.revma.ihrhls.com/zc6428/hls.m3u8"
-        },
-        {
-            name: "Today's 97.5",
-            logo: "stations/images-america/c2c/winchester_va/Today's 97.5.png",
-            url: "https://live.wostreaming.net/manifest/wvradio-wltffmaac-ibc2"
-        },
-        {
-            name: "KISS 98.3",
-            logo: "stations/images-america/c2c/winchester_va/KISS 98.3.png",
-            url: "https://stream.revma.ihrhls.com/zc3299/hls.m3u8"
-        },
-        {
-            name: "99.3 The Fox",
-            logo: "stations/images-america/c2c/winchester_va/99.3 The Fox.png",
-            url: "https://stream.revma.ihrhls.com/zc3524/hls.m3u8"
-        },
-        {
-            name: "Q102",
-            logo: "stations/images-america/c2c/winchester_va/Q102.png",
-            url: "https://stream.revma.ihrhls.com/zc3439/hls.m3u8"
-        },
-        {
-            name: "102.9 Valley FM",
-            logo: "stations/images-america/c2c/winchester_va/102.9 Valley FM.png",
-            url: "http://stream.wxva.com:8000/live"
-        },
-        {
-            name: "105 WINC FM",
-            logo: "stations/images-america/c2c/winchester_va/105 WINC FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WINCFMAAC_SC"
-        },
-        {
-            name: "WRNR 106.5",
-            logo: "stations/images-america/c2c/winchester_va/WRNR 106.5.png",
-            url: "https://streaming.radio.co/sd2c75a914/listen"
         },
     ],
     "wytheville_va": [

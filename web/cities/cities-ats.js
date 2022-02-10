@@ -4921,12 +4921,6 @@ var country_properties_c2c = {
         code: "us-va",
         relative_radius: 0.9
     },
-    "winchester_va": {
-        name: "winchester_va",
-        name_english: "winchester_va",
-        code: "us-va",
-        relative_radius: 0.9
-    },
     "wytheville_va": {
         name: "wytheville_va",
         name_english: "wytheville_va",
@@ -5824,9 +5818,6 @@ var city_properties_c2c = {
     },
     "roanoke_va": {
         relative_whitenoise: 0.85
-    },
-    "winchester_va": {
-        relative_whitenoise: 0.95
     },
     "wytheville_va": {
         relative_whitenoise: 0.95
@@ -7763,14 +7754,6 @@ var cities_c2c = [
         "x": "72370.9",
         "y": "133.222",
         "z": "2572.97"
-    },
-    {
-        "gameName": "winchester_va",
-        "realName": "Winchester",
-        "country": "winchester_va",
-        "x": "78895.3",
-        "y": "21.132",
-        "z": "-12636.7"
     },
     {
         "gameName": "wytheville_va",
