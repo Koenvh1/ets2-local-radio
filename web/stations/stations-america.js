@@ -30993,6 +30993,11 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7215_48k.aac"
         },
         {
+            name: "Bet Sports Radio 96.9-HD2",
+            logo: "stations/images-america/c2c/pittsburgh_pa/Bet Sports Radio 96.9-HD2.png",
+            url: "https://vsin-sgrewind.streamguys1.com/sgrewind/live/playlist.m3u8"
+        },
+        {
             name: "K-LOVE 98.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
