@@ -15523,8 +15523,8 @@ var stations_c2c = {
             url: "https://streaming.revolution935.com/live"
         },
         {
-            name: "Totally 93.9",
-            logo: "stations/images-america/c2c/miami_fl/Totally 93.9.png",
+            name: "93.9 MIA",
+            logo: "stations/images-america/c2c/miami_fl/93.9 MIA.png",
             url: "https://stream.revma.ihrhls.com/zc4243/hls.m3u8"
         },
         {
