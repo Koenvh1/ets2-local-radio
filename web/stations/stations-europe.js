@@ -4899,7 +4899,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "http://live.absolute.sharp-stream.com/absoluteradio.aac"
+            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "Capital FM",
@@ -4929,7 +4929,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac"
+            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "Gold Radio",
@@ -4964,22 +4964,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "https://stream-al.planetradio.co.uk/heat.aac"
+            url: "https://stream-al.planetradio.co.uk/heat.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac"
+            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac"
+            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac"
+            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "LBC",
@@ -4994,7 +4994,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/magicnational.aac"
+            url: "https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
         },
         {
             name: "Radio X",
