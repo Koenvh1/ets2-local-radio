@@ -34681,12 +34681,12 @@ var stations_c2c = {
     "ozona": [
         {
             name: "94.3 REV-FM",
-            logo: "stations/images-america/c2c/ozona/94.3 REV-FM.png",
+            logo: "stations/images-america/c2c/ozona_tx/94.3 REV-FM.png",
             url: "https://www.streamvortex.com:8444/s/11370"
         },
         {
             name: "103.5 Jack FM",
-            logo: "stations/images-america/c2c/ozona/103.5 Jack FM.png",
+            logo: "stations/images-america/c2c/ozona_tx/103.5 Jack FM.png",
             url: "https://ice10.securenetsystems.net/KBJX"
         },
         {
