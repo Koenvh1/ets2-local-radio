@@ -99,7 +99,7 @@ var country_properties = {
         name: "Burlington",
         name_english: "Burlington",
         code: "us-co",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "burns": {
         name: "Burns",
@@ -3389,7 +3389,7 @@ var country_properties_c2c = {
         name: "new_haven",
         name_english: "new_haven",
         code: "us-ct",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "delaware": {
         name: "delaware",
@@ -3851,13 +3851,7 @@ var country_properties_c2c = {
         name: "portland_me",
         name_english: "portland_me",
         code: "us-me",
-        relative_radius: 0.8
-    },
-    "maryland": {
-        name: "maryland",
-        name_english: "maryland",
-        code: "us-md",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "baltimore": {
         name: "baltimore",
@@ -4247,7 +4241,7 @@ var country_properties_c2c = {
         name: "portsmouth_nh",
         name_english: "portsmouth_nh",
         code: "us-nh",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "new_jersey": {
         name: "new_jersey",
@@ -4265,7 +4259,7 @@ var country_properties_c2c = {
         name: "binghamton",
         name_english: "binghamton",
         code: "us-ny",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "buffalo_ny": {
         name: "buffalo_ny",
@@ -4291,6 +4285,12 @@ var country_properties_c2c = {
         code: "us-ny",
         relative_radius: 0.5
     },
+    "oneonta_ny": {
+        name: "Oneonta",
+        name_english: "Oneonta",
+        code: "us-ny",
+        relative_radius: 0.5
+    },
     "poughkeepsie": {
         name: "poughkeepsie",
         name_english: "poughkeepsie",
@@ -4301,7 +4301,7 @@ var country_properties_c2c = {
         name: "rochester_ny",
         name_english: "rochester_ny",
         code: "us-ny",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "syracuse": {
         name: "syracuse",
@@ -4427,7 +4427,7 @@ var country_properties_c2c = {
         name: "cleveland_oh",
         name_english: "cleveland_oh",
         code: "us-oh",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "columbus_oh": {
         name: "columbus_oh",
@@ -4529,7 +4529,7 @@ var country_properties_c2c = {
         name: "erie_pa",
         name_english: "erie_pa",
         code: "us-pa",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "harrisburg": {
         name: "harrisburg",
@@ -4559,19 +4559,19 @@ var country_properties_c2c = {
         name: "Williamsport",
         name_english: "Williamsport",
         code: "us-pa",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "pittsburgh": {
         name: "pittsburgh",
         name_english: "pittsburgh",
         code: "us-pa",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "scranton_pa": {
         name: "Scranton",
         name_english: "Scranton",
         code: "us-pa",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "providence": {
         name: "providence",
@@ -5406,6 +5406,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "olean_ny": {
+        relative_whitenoise: 0.85
+    },
+    "oneonta_ny": {
         relative_whitenoise: 0.85
     },
     "poughkeepsie": {
@@ -6921,6 +6924,14 @@ var cities_c2c = [
         "z": "-24820"
     },
     {
+        "gameName": "oneonta_ny",
+        "realName": "Oneonta",
+        "country": "oneonta_ny",
+        "x": "86289.3",
+        "y": "25.052",
+        "z": "-30124.2"
+    },
+    {
         "gameName": "poughkeepsie",
         "realName": "Poughkeepsie",
         "country": "poughkeepsie",
@@ -7060,7 +7071,7 @@ var cities_c2c = [
         "gameName": "canton_oh",
         "realName": "Canton",
         "country": "canton_oh",
-        "x": "61529.6",
+        "x": "60529.6",
         "y": "44.0972",
         "z": "-13281.3"
     },
@@ -7078,7 +7089,7 @@ var cities_c2c = [
         "country": "cleveland_oh",
         "x": "60607.5",
         "y": "96.3945",
-        "z": "-18904.6"
+        "z": "-21904.6"
     },
     {
         "gameName": "columbus_oh",
@@ -7196,9 +7207,9 @@ var cities_c2c = [
         "gameName": "erie_pa",
         "realName": "Erie",
         "country": "erie_pa",
-        "x": "66023",
+        "x": "67823",
         "y": "36.5276",
-        "z": "-23433.8"
+        "z": "-23033.8"
     },
     {
         "gameName": "harrisburg",
@@ -7230,7 +7241,7 @@ var cities_c2c = [
         "country": "pittsburgh",
         "x": "68714.6",
         "y": "130.223",
-        "z": "-14459.6"
+        "z": "-12459.6"
     },
     {
         "gameName": "scranton_pa",
@@ -7252,7 +7263,7 @@ var cities_c2c = [
         "gameName": "williamsport_pa",
         "realName": "Williamsport",
         "country": "williamsport_pa",
-        "x": "79838.5",
+        "x": "81838.5",
         "y": "16.6975",
         "z": "-19805.9"
     },
@@ -8111,7 +8122,7 @@ var country_properties_canada = {
         name: "Toronto",
         name_english: "Toronto",
         code: "ca-on",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "truro": {
         name: "Truro",
@@ -9042,12 +9053,6 @@ var country_properties_greatamerica = {
         code: "us-ia",
         relative_radius: 0.8
     },
-    "yankton": {
-        name: "Yankton",
-        name_english: "Yankton",
-        code: "us-sd",
-        relative_radius: 0.8
-    }
 };
 
 var city_properties_greatamerica = {
@@ -9091,11 +9096,9 @@ var city_properties_greatamerica = {
         relative_whitenoise: 0.85
     },
     "waterloo": {
+		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
-    "yankton": {
-        relative_whitenoise: 0.85
-    }
 };
 
 var cities_greatamerica = [
@@ -9212,13 +9215,13 @@ var cities_greatamerica = [
         "z": "-20441.4"
     },
     {
-        "gameName": "yankton",
-        "realName": "Yankton",
-        "country": "yankton",
-        "x": "-6035.41",
-        "y": "91.3828",
-        "z": "-21946.2"
-    }
+        "gameName": "waterloo",
+        "realName": "Waterloo",
+        "country": "cedar_rapids",
+        "x": "16034.5",
+        "y": "226.152",
+        "z": "-20441.4"
+    },
 ];
 
 var country_properties_caribbean = {
