@@ -41,8 +41,8 @@ var stations = {
             url: "http://stream1.noctel.com:7003/969kayo"
         },
         {
-            name: "KOMO News 97.7",
-            logo: "stations/images-america/seattle/KOMO News 97.7.png",
+            name: "Northwest Newsradio 97.7",
+            logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
             url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
         },
         {
@@ -10162,8 +10162,8 @@ var stations = {
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
-            name: "KOMO News 97.7",
-            logo: "stations/images-america/seattle/KOMO News 97.7.png",
+            name: "Northwest Newsradio 97.7",
+            logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
             url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
         },
         {
@@ -38020,8 +38020,8 @@ var stations_canada = {
             url: "http://live.leanstream.co/CHQRAM-MP3"
         },
         {
-            name: "KOMO News 1000",
-            logo: "stations/images-america/seattle/KOMO News 97.7.png",
+            name: "Northwest Newsradio 1000",
+            logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
             url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
         },
         {
