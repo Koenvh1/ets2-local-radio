@@ -483,7 +483,7 @@ var country_properties = {
         name: "Olympia",
         name_english: "Olympia",
         code: "us-wa",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "omak": {
         name: "Omak",
@@ -1096,6 +1096,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "olympia": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "omak": {
@@ -2073,6 +2074,14 @@ var cities = [
         "gameName": "olympia",
         "realName": "Olympia",
         "country": "olympia",
+        "x": "-103161",
+        "y": "49.8525",
+        "z": "-61813"
+    },
+    {
+        "gameName": "olympia",
+        "realName": "Olympia",
+        "country": "seattle",
         "x": "-103161",
         "y": "49.8525",
         "z": "-61813"
@@ -4547,7 +4556,7 @@ var country_properties_c2c = {
         name: "Lancaster",
         name_english: "Lancaster",
         code: "us-pa",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "philadelphia": {
         name: "philadelphia",
@@ -5223,6 +5232,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "washington_dc": {
+		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "boston": {
@@ -5523,6 +5533,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "lancaster_pa": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "philadelphia": {
@@ -6436,6 +6447,14 @@ var cities_c2c = [
         "z": "-8588.73"
     },
     {
+        "gameName": "washington_dc",
+        "realName": "Washington, DC",
+        "country": "baltimore",
+        "x": "82526",
+        "y": "130.223",
+        "z": "-8588.73"
+    },
+    {
         "gameName": "boston",
         "realName": "Boston",
         "country": "boston",
@@ -7231,6 +7250,14 @@ var cities_c2c = [
         "gameName": "lancaster_pa",
         "realName": "Lancaster",
         "country": "lancaster_pa",
+        "x": "87055.5",
+        "y": "38.9515",
+        "z": "-15408.2"
+    },
+    {
+        "gameName": "lancaster_pa",
+        "realName": "Lancaster",
+        "country": "baltimore",
         "x": "87055.5",
         "y": "38.9515",
         "z": "-15408.2"

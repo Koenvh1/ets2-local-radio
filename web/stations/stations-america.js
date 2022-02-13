@@ -827,7 +827,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 91.7",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -1727,7 +1727,7 @@ var stations = {
         {
             name: "Moody Radio 88.7",
             logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://primary.moodyradiostream.org/Network.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
             name: "KNLB 89.9",
@@ -1800,8 +1800,8 @@ var stations = {
         },
         {
             name: "KEPC 89.7",
-            logo: "stations/images-america/colorado_springs_pueblo/KEPC 89.7.png",
-            url: "https://ice24.securenetsystems.net/KEPC"
+            logo: "stations/images-america/denver/Indie 102.3.png",
+            url: "https://stream1.cprnetwork.org/cpr3_aac"
         },
         {
             name: "The Light 90.5",
@@ -1909,9 +1909,9 @@ var stations = {
             url: "http://s3.voscast.com:9140/;"
         },
         {
-            name: "K271CK 102.1",
-            logo: "stations/images-america/denver/Indie 102.3.png",
-            url: "https://stream1.cprnetwork.org/cpr3_aac"
+            name: "eXtra Music 102.1",
+            logo: "stations/images-america/denver/eXtra Music 102.1.png",
+            url: "https://ice6.securenetsystems.net/KXRE"
         },
         {
             name: "Q102.7",
@@ -3970,7 +3970,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -4499,12 +4499,12 @@ var stations = {
     "kennewick_pendleton": [
         {
             name: "NWPR Classical 89.1",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
             name: "NWPR News 89.7",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -5356,7 +5356,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.5",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -5397,7 +5397,7 @@ var stations = {
         {
             name: "Moody Radio 100.9",
             logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://primary.moodyradiostream.org/kmbi.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMBIFMAAC_SC"
         },
         {
             name: "News Talk 102.1",
@@ -5416,7 +5416,7 @@ var stations = {
         },
         {
             name: "NWPR News 1250",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
     ],
@@ -5525,7 +5525,7 @@ var stations = {
         },
         {
             name: "NWPR News 97.5",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -6694,7 +6694,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.9",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -6766,7 +6766,7 @@ var stations = {
         },
         {
             name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -7236,7 +7236,7 @@ var stations = {
         },
         {
             name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -10098,7 +10098,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.9",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
@@ -11013,7 +11013,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.5",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -11604,12 +11604,12 @@ var stations = {
     "wenatchee": [
         {
             name: "NWPR Classical 90.7",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
             name: "NWPR News 90.3",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -11755,12 +11755,12 @@ var stations = {
     "yakima": [
         {
             name: "NWPR News 88.5",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
             name: "NWPR Classical 90.3",
-            logo: "stations/images-america/0_general_logos/NWPR NPR & Classical Music.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -17467,7 +17467,7 @@ var stations_c2c = {
         {
             name: "Moody Radio 91.9",
             logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://primary.moodyradiostream.org/Network.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
             name: "The Wave@92FM",
@@ -38739,11 +38739,11 @@ var stations_canada = {
         {
             name: "Moody Radio 89.3",
             logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://primary.moodyradiostream.org/Network.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
             name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR NPR News.png",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -40921,7 +40921,7 @@ var stations_greatamerica = {
         {
             name: "Moody Radio 90.5",
             logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://primary.moodyradiostream.org/Network.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
             name: "SDPB 91.3",
