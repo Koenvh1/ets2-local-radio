@@ -39792,6 +39792,11 @@ var stations_canada = {
             url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
         },
         {
+            name: "93.5 Today Radio",
+            logo: "stations/images-america/canada/toronto/93.5 Today Radio.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CFXJFM"
+        },
+        {
             name: "CBC Music 94.1",
             logo: "stations/images-america/canada/CBC Music.png",
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"

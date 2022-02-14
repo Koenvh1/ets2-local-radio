@@ -673,7 +673,7 @@ var stations = {
         {
             name: "Radio Kaj",
             logo: "stations/images-europe/croatia/Radio Kaj.png",
-            url: "https://stream.rcast.net/66509"
+            url: "http://s8.iqstreaming.com:8050/stream"
         },
     ],
     "cyprus": [
