@@ -1742,7 +1742,7 @@ var stations = {
         {
             name: "Antenne Düsseldorf",
             logo: "stations/images-europe/germany-koeln/Antenne Düsseldorf.png",
-            url: "https://antennedus-ais-edge-4004-dus-dtag-cdn.cast.addradio.de/antennedus/live/mp3/high"
+            url: "https://antennedus--di--nacs-ais-lgc--11--cdn.cast.addradio.de/antennedus/live/mp3/high"
         },
         {
             name: "DOMRADIO",
@@ -1757,22 +1757,22 @@ var stations = {
         {
             name: "Radio Erft",
             logo: "stations/images-europe/germany-koeln/Radio Erft.png",
-            url: "https://radioerft-ais-edge-400b-dus-dtag-cdn.cast.addradio.de/radioerft/live/mp3/high"
+            url: "https://radioerft--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radioerft/live/mp3/high"
         },
         {
             name: "Radio Köln",
             logo: "stations/images-europe/germany-koeln/Radio Köln.png",
-            url: "https://radiokoeln-ais-edge-3003-fra-eco-cdn.cast.addradio.de/radiokoeln/live/mp3/high"
+            url: "https://radiokoeln--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radiokoeln/live/mp3/high"
         },
         {
             name: "Radio Neandertal",
             logo: "stations/images-europe/germany-koeln/Radio Neandertal.png",
-            url: "https://neandertal-ais-edge-4005-dus-dtag-cdn.cast.addradio.de/neandertal/live/mp3/high"
+            url: "https://neandertal--di--nacs-ais-lgc--11--cdn.cast.addradio.de/neandertal/live/mp3/high"
         },
         {
             name: "Radio Wuppertal",
             logo: "stations/images-europe/germany-koeln/Radio Wuppertal.png",
-            url: "https://radiowuppertal-ais-edge-3004-fra-eco-cdn.cast.addradio.de/radiowuppertal/live/mp3/high"
+            url: "https://radiowuppertal--di--nacs-ais-lgc--06--cdn.cast.addradio.de/radiowuppertal/live/mp3/high"
         },
     ],
     "germany-mdr": [
