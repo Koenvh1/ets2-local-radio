@@ -1474,6 +1474,11 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KMXW"
         },
         {
+            name: "K2 Radio 95.1",
+            logo: "stations/images-america/casper/K2 Radio 1030.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ktwoamaac-ibc3"
+        },
+        {
             name: "My Country 95.5",
             logo: "stations/images-america/casper/My Country 95.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kwyyfmaac-ibc3"
@@ -1487,6 +1492,11 @@ var stations = {
             name: "100.5 KTED",
             logo: "stations/images-america/casper/100.5 KTED.png",
             url: "https://ice23.securenetsystems.net/KTED"
+        },
+        {
+            name: "101.9 The Cowboy",
+            logo: "stations/images-america/casper/101.9 The Cowboy.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kktlamaac-ibc3"
         },
         {
             name: "104.7 KISS FM",
@@ -1507,16 +1517,6 @@ var stations = {
             name: "KUYO AM 830",
             logo: "stations/images-america/casper/KUYO AM 830.png",
             url: "https://ais-sa1.streamon.fm/7061_24k.aac"
-        },
-        {
-            name: "K2 Radio 1030",
-            logo: "stations/images-america/casper/K2 Radio 1030.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-ktwoamaac-ibc3"
-        },
-        {
-            name: "AM 1400 The Cowboy",
-            logo: "stations/images-america/casper/AM 1400 The Cowboy.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kktlamaac-ibc3"
         },
     ],
     "cedar_city": [
@@ -30941,6 +30941,11 @@ var stations_c2c = {
             name: "102.9 WMGK",
             logo: "stations/images-america/c2c/philadelphia_pa/102.9 WMGK.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMGKFMAACIHR_SC"
+        },
+        {
+            name: "Liberty Radio 103.3",
+            logo: "stations/images-america/c2c/philadelphia_pa/Liberty Radio 103.3.png",
+            url: "https://disruptor-radio.streamguys1.com/wmlb-live"
         },
         {
             name: "KYW Newsradio 103.9",
