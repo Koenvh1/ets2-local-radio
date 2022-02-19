@@ -10117,14 +10117,14 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KQMVFMAAC_SC"
         },
         {
-            name: "KUBE 93.3",
-            logo: "stations/images-america/seattle/KUBE 93.3.png",
+            name: "93.3",
+            logo: "stations/images-america/seattle/93.3.png",
             url: "https://stream.revma.ihrhls.com/zc2577/hls.m3u8"
         },
         {
-            name: "Pride Radio 93.3-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            name: "KUBE 93.3-HD2",
+            logo: "stations/images-america/seattle/KUBE 93.3-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc9346/hls.m3u8"
         },
         {
             name: "94.1 The Sound",
