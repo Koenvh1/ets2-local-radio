@@ -5053,6 +5053,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "sarasota_fl": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.80
     },
     "tallahassee": {
@@ -5954,6 +5955,14 @@ var cities_c2c = [
         "gameName": "sarasota_fl",
         "realName": "Sarasota",
         "country": "sarasota_fl",
+        "x": "69058.5",
+        "y": "34.2867",
+        "z": "61218.6"
+    },
+    {
+        "gameName": "sarasota_fl",
+        "realName": "Sarasota",
+        "country": "tampa",
         "x": "69058.5",
         "y": "34.2867",
         "z": "61218.6"

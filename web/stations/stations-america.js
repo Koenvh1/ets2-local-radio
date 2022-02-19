@@ -25665,6 +25665,11 @@ var stations_c2c = {
             url: "https://ic2.sslstream.com/klcm-fm"
         },
         {
+            name: "104.9 The Wolf",
+            logo: "stations/images-america/c2c/greatfalls_mt/104.9 The Wolf.png",
+            url: "https://ice23.securenetsystems.net/KIKF"
+        },
+        {
             name: "KXLO 1230",
             logo: "stations/images-america/c2c/lewistown_mt/KXLO 1230.png",
             url: "https://ic2.sslstream.com/kxlo-am"
