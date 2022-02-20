@@ -3411,6 +3411,21 @@ var stations = {
             url: "http://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
         },
         {
+            name: "Polskie Radio Chopin",
+            logo: "stations/images-europe/poland/Polskie Radio Chopin.png",
+            url: "https://stream85.polskieradio.pl/live/rytm.sdp/playlist.m3u8"
+        },
+        {
+            name: "Polskie Radio dla Zagranicy",
+            logo: "stations/images-europe/poland/Polskie Radio dla Zagranicy.png",
+            url: "https://stream85.polskieradio.pl/pr5/pr5_dab.sdp/playlist.m3u8"
+        },
+        {
+            name: "Polskie Radio Kierowców",
+            logo: "stations/images-europe/poland/Polskie Radio Kierowców.png",
+            url: "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8"
+        },
+        {
             name: "Antyradio",
             logo: "stations/images-europe/poland/Antyradio.png",
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx"
