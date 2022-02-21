@@ -25412,6 +25412,21 @@ var stations_c2c = {
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
         },
+        {
+            name: "620 CKRM",
+            logo: "stations/images-america/canada/regina/620 CKRM.png",
+            url: "https://ais-sa1.streamon.fm/7267_64k.aac"
+        },
+        {
+            name: "800 CHAB",
+            logo: "stations/images-america/c2c/wolfpoint_mt/800 CHAB.png",
+            url: "https://goldenwest.leanstream.co/CHABAM"
+        },
+        {
+            name: "AM 1190",
+            logo: "stations/images-america/c2c/glasgow_mt/AM 1190.png",
+            url: "https://goldenwest.leanstream.co/CFSLAM"
+        },
     ],
     "glendive": [
         {
