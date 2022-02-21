@@ -28760,8 +28760,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYCKFMAAC_SC"
         },
         {
-            name: "100.3 Cat Country",
-            logo: "stations/images-america/c2c/grand_forks_nd/100.3 Cat Country.png",
+            name: "100.3 The Cat",
+            logo: "stations/images-america/c2c/grand_forks_nd/100.3 The Cat.png",
             url: "https://stream.revma.ihrhls.com/zc1673/hls.m3u8"
         },
         {
