@@ -3729,7 +3729,7 @@ var stations = {
         {
             name: "Радио Дача - Radio Dacha",
             logo: "stations/images-europe/russia/Радио Дача - Radio Dacha.png",
-            url: "https://stream.radiodacha.ru/14_dacha_64"
+            url: "https://stream.n340.com/14_dacha_64?type=.aac&UID=4C1E842A7F932A2D53BEA33AA6E64601"
         },
         {
             name: "Радио Кп - Radio KP",

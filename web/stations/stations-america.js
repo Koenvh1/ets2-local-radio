@@ -28653,7 +28653,7 @@ var stations_c2c = {
             url: "http://nwmedia-kfnwfm.streamguys1.com/kfnw-fm"
         },
         {
-            name: "Big 98.7",
+            name: "BIG 98.7",
             logo: "stations/images-america/c2c/fargo_nd/Big 98.7.png",
             url: "http://ice3.securenetsystems.net/KLTA"
         },
