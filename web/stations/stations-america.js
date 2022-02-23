@@ -2421,11 +2421,6 @@ var stations = {
     ],
     "durango": [
         {
-            name: "KSUT 89.3",
-            logo: "stations/images-america/farmington/KSUT 89.7.png",
-            url: "https://ksut.streamguys1.com/ksut"
-        },
-        {
             name: "KDUR 91.9",
             logo: "stations/images-america/durango/KDUR 91.9.png",
             url: "http://kdurradio.fortlewis.edu/stream"
@@ -2464,26 +2459,6 @@ var stations = {
             name: "XRock 105.3",
             logo: "stations/images-america/durango/XRock 105.3.png",
             url: "https://ice6.securenetsystems.net/KXRC"
-        },
-        {
-            name: "K290AD 105.9",
-            logo: "stations/images-america/farmington/KPCL 95.7.png",
-            url: "http://69.39.14.19:8000/kpcl"
-        },
-        {
-            name: "K294AJ 106.7",
-            logo: "stations/images-america/farmington/96.9 The Dog.png",
-            url: "https://stream.revma.ihrhls.com/zc5086/hls.m3u8"
-        },
-        {
-            name: "KLJH 107.1",
-            logo: "stations/images-america/farmington/KLJH 107.1.png",
-            url: "http://69.39.14.19:8002/kljh"
-        },
-        {
-            name: "Star 107.7",
-            logo: "stations/images-america/farmington/Star 102.9.png",
-            url: "https://stream.revma.ihrhls.com/zc5082/hls.m3u8"
         },
     ],
     "ehrenberg": [
@@ -2970,11 +2945,6 @@ var stations = {
             name: "97.9 KISS Country",
             logo: "stations/images-america/farmington/97.9 KISS Country.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-kiszfmaac-ibc3"
-        },
-        {
-            name: "98.7 KRTZ",
-            logo: "stations/images-america/durango/98.7 KRTZ.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
         },
         {
             name: "102 KTRA",

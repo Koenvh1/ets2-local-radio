@@ -183,7 +183,7 @@ var country_properties = {
         name: "Durango",
         name_english: "Durango",
         code: "us-co",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "ehrenberg": {
         name: "Ehrenberg",
@@ -940,6 +940,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "durango": {
+        relative_radius: 1.0,
         relative_whitenoise: 0.85
     },
     "ehrenberg": {
@@ -968,6 +969,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "farmington": {
+		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "flagstaff": {
@@ -1823,6 +1825,14 @@ var cities = [
         "z": "8813.18"
     },
     {
+        "gameName": "farmington",
+        "realName": "Farmington",
+        "country": "durango",
+        "x": "-54704.5",
+        "y": "135",
+        "z": "8813.18"
+    },
+    {
         "gameName": "gallup",
         "realName": "Gallup",
         "country": "gallup",
@@ -2386,6 +2396,14 @@ var cities = [
         "gameName": "durango",
         "realName": "Durango",
         "country": "durango",
+        "x": "-52062.4",
+        "y": "245.111",
+        "z": "5510.96"
+    },
+    {
+        "gameName": "durango",
+        "realName": "Durango",
+        "country": "farmington",
         "x": "-52062.4",
         "y": "245.111",
         "z": "5510.96"
