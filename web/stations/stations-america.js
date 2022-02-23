@@ -7161,6 +7161,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMLEHD2AAC_SC"
         },
         {
+            name: "The Bet 107.9-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
+        },
+        {
             name: "550 KFYI",
             logo: "stations/images-america/phoenix/550 KFYI.png",
             url: "https://stream.revma.ihrhls.com/zc37/hls.m3u8"
@@ -16027,6 +16032,11 @@ var stations_c2c = {
             name: "FM 101.9",
             logo: "stations/images-america/c2c/orlando_fl/FM 101.9.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQMPFMAAC_SC"
+        },
+        {
+            name: "The Bet 101.9-HD2",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
         },
         {
             name: "103.1 The Wolf",
@@ -28056,6 +28066,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WSMWFMAAC_SC"
         },
         {
+            name: "The Bet 98.7-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
+        },
+        {
             name: "Mix 99.5",
             logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5.png",
             url: "https://stream.revma.ihrhls.com/zc1621/hls.m3u8"
@@ -31262,9 +31277,14 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WDSYFMAAC_SC"
         },
         {
-            name: "Channel Q 107.9-HD3",
+            name: "Channel Q 107.9-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXHD2AAC_SC"
+        },
+        {
+            name: "The Bet 107.9-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
         },
         {
             name: "1320 WJAS",
@@ -31362,6 +31382,11 @@ var stations_c2c = {
             name: "WILK 103.1",
             logo: "stations/images-america/c2c/scranton_pa/WILK 103.1.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WILKAMAAC_SC"
+        },
+        {
+            name: "The Bet 103.1-HD2",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
         },
         {
             name: "Gem 100 & 104",
@@ -31859,6 +31884,11 @@ var stations_c2c = {
             name: "93.3 The Planet",
             logo: "stations/images-america/c2c/greenville_sc/93.3 The Planet.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WTPTFMAAC_SC"
+        },
+        {
+            name: "The Bet 93.3-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
         },
         {
             name: "B93.7",
@@ -35753,6 +35783,11 @@ var stations_c2c = {
             name: "KOOL 95.7-HD2",
             logo: "stations/images-america/c2c/norfolk_va/KOOL 95.7-HD2.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WVKLHD2AAC_SC"
+        },
+        {
+            name: "The Bet 95.7-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
         },
         {
             name: "96X",
