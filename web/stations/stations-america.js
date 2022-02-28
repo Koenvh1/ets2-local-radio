@@ -14067,8 +14067,8 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/KAKSFM"
         },
         {
-            name: "101.5 MYfm",
-            logo: "stations/images-america/c2c/fayetteville_ar/101.5 MyFM.png",
+            name: "101.5 The Vibe",
+            logo: "stations/images-america/c2c/fayetteville_ar/101.5 The Vibe.png",
             url: "https://ice7.securenetsystems.net/KFMD"
         },
         {
@@ -18281,8 +18281,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKZFFMAAC_SC"
         },
         {
-            name: "WIRL 102.7",
-            logo: "stations/images-america/c2c/peoria_il/WIRL 102.7.png",
+            name: "102.7 Super Hits",
+            logo: "stations/images-america/c2c/peoria_il/102.7 Super Hits.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRLAMAAC_SC"
         },
         {
@@ -20824,8 +20824,8 @@ var stations_c2c = {
             url: "http://ice7.securenetsystems.net/KYMK"
         },
         {
-            name: "Pure Country 106.7",
-            logo: "stations/images-america/c2c/lafayette_la/Pure Country 106.7.png",
+            name: "Freedom 106.7",
+            logo: "stations/images-america/c2c/lafayette_la/Freedom 106.7.png",
             url: "http://ice41.securenetsystems.net/KSIG1067"
         },
         {
@@ -34866,8 +34866,8 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ktfmhd2aac-ibc4"
         },
         {
-            name: "La Ley 95.7",
-            logo: "stations/images-america/c2c/sanantonio_tx/La Ley 95.7.png",
+            name: "Tejano 95.7",
+            logo: "stations/images-america/c2c/sanantonio_tx/Tejano 95.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kleyfmaac-ibc4"
         },
         {
