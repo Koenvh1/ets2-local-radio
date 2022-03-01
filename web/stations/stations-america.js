@@ -27787,9 +27787,9 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
-            name: "92.7 The Block",
-            logo: "stations/images-america/c2c/charlotte_nc/92.7 The Block.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQNCFMAAC_SC"
+            name: "WFNZ 92.7",
+            logo: "stations/images-america/c2c/charlotte_nc/WFNZ 102.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFNZAMAAC_SC"
         },
         {
             name: "FOX Sports 94.7",
@@ -27852,6 +27852,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WBAVFMAAC_SC"
         },
         {
+            name: "102.5 The Block",
+            logo: "stations/images-america/c2c/charlotte_nc/102.5 The Block.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQNCFMAAC_SC"
+        },
+        {
             name: "102.9 The Lake",
             logo: "stations/images-america/c2c/charlotte_nc/102.9 The Lake.png",
             url: "https://stream.revma.ihrhls.com/zc1609/hls.m3u8"
@@ -27865,11 +27870,6 @@ var stations_c2c = {
             name: "Today's Mix 102.9-HD3",
             logo: "stations/images-america/0_general_logos/Today's Mix.png",
             url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
-        },
-        {
-            name: "WFNZ 102.5",
-            logo: "stations/images-america/c2c/charlotte_nc/WFNZ 102.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFNZAMAAC_SC"
         },
         {
             name: "Streetz 103.3",

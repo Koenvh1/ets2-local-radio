@@ -1500,7 +1500,7 @@ var stations = {
         {
             name: "Schwarzwaldradio",
             logo: "stations/images-europe/germany/Schwarzwaldradio.png",
-            url: "http://str0.creacast.com/schwarzwaldradio"
+            url: "https://stream.schwarzwaldradio.com/schwarzwaldradio"
         },
         {
             name: "Sportradio Deutschland",
