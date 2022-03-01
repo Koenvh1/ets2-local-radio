@@ -198,6 +198,7 @@ Just remove the ETS2 Local Radio folder or, if you used the installer, remove it
 You will need to manually remove the following files from the ETS2/ATS installation directory as well:
 * `\bin\win_x64\plugins\ets2-telemetry.dll`
 * `\bin\win_x86\plugins\ets2-telemetry.dll`
+You might find some residual files left in your installation folder that you need to manually remove.
 
 ## Thanks to:
 
