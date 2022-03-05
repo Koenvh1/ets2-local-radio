@@ -31973,8 +31973,8 @@ var stations_c2c = {
             url: "https://wlgi.streamguys1.com/live"
         },
         {
-            name: "Energy 92.1",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Energy 92.1.png",
+            name: "Ukraine 92.1",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/Ukraine 92.1.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYBFMAAC_SC"
         },
         {
