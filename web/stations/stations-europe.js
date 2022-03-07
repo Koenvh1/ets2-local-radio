@@ -4024,24 +4024,24 @@ var stations = {
     ],
     "spain": [
         {
-            name: "RNE Radio Nacional",
+            name: "Radio Nacional",
             logo: "stations/images-europe/spain/RNE Radio Nacional.png",
-            url: "https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rne1/main/mp3/high"
+            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8"
         },
         {
-            name: "RNE Radio Clásica",
+            name: "Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "https://crtve-ice-edge-2002-fra-eco-cdn.cast.addradio.de/crtve/rnerc/main/mp3/high"
+            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8"
         },
         {
-            name: "RNE Radio 3",
+            name: "Radio 3",
             logo: "stations/images-europe/spain/RNE Radio 3.png",
-            url: "http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8"
+            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r3_main.m3u8"
         },
         {
-            name: "RNE Radio 5",
+            name: "Radio 5",
             logo: "stations/images-europe/spain/RNE Radio 5.png",
-            url: "https://crtve-ice-edge-2001-fra-eco-cdn.cast.addradio.de/crtve/rne5/main/mp3/high"
+            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r5_madrid_main.m3u8"
         },
         {
             name: "Cadena 100",

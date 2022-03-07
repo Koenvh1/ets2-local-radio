@@ -10277,8 +10277,8 @@ var stations = {
             url: "https://crista-kcis.streamguys1.com/kcismp3"
         },
         {
-            name: "710 ESPN",
-            logo: "stations/images-america/seattle/710 ESPN.png",
+            name: "Seattle Sports 710",
+            logo: "stations/images-america/seattle/Seattle Sports 710.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROAMAAC_SC"
         },
         {
