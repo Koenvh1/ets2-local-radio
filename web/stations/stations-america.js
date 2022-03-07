@@ -35345,8 +35345,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLURFMAAC_SC"
         },
         {
-            name: "100.9 BOB FM",
-            logo: "stations/images-america/c2c/wichita_falls_tx/100.9 BOB FM.png",
+            name: "100.9 Jack FM",
+            logo: "stations/images-america/c2c/wichita_falls_tx/100.9 Jack FM.png",
             url: "http://ice41.securenetsystems.net/KWFB"
         },
         {
