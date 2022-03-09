@@ -10092,9 +10092,9 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KQMVFMAAC_SC"
         },
         {
-            name: "93.3",
-            logo: "stations/images-america/seattle/93.3.png",
-            url: "https://stream.revma.ihrhls.com/zc2577/hls.m3u8"
+            name: "93.3 KJR",
+            logo: "stations/images-america/seattle/93.3 KJR.png",
+            url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
             name: "KUBE 93.3-HD2",
@@ -10295,11 +10295,6 @@ var stations = {
             name: "880 KIXI",
             logo: "stations/images-america/seattle/880 KIXI.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAMAAC_SC"
-        },
-        {
-            name: "950 KJR",
-            logo: "stations/images-america/seattle/950 KJR.png",
-            url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
             name: "1090 KJR",
@@ -20774,8 +20769,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmdlfmaac-ibc3"
         },
         {
-            name: "The Rewind 97.7",
-            logo: "stations/images-america/c2c/lafayette_la/The Rewind 97.7.png",
+            name: "97.7 MeTV FM",
+            logo: "stations/images-america/c2c/lafayette_la/97.7 MeTV FM.png",
             url: "https://ice9.securenetsystems.net/KVOL"
         },
         {
