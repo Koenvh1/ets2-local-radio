@@ -364,7 +364,7 @@ var stations = {
         {
             name: "The Hustle 101.3",
             logo: "stations/images-america/albuquerque/The Hustle 101.3.png",
-            url: "https://ice42.securenetsystems.net/KRKE"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KRKE"
         },
         {
             name: "101.7 The Team",
@@ -563,12 +563,12 @@ var stations = {
             name: "91.9 KESY",
             logo: "stations/images-america/baker_city/91.9 KESY.png",
             url: "http://147.135.84.27/ktsy-fm"
-        },
+        },/*
         {
             name: "92.9 The Hawk",
             logo: "stations/images-america/baker_city/92.9 The Hawk.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVBLFM_SC"
-        },
+        },*/
         {
             name: "102.3 The River",
             logo: "stations/images-america/baker_city/102.3 The River.png",
@@ -3718,12 +3718,12 @@ var stations = {
         {
             name: "KTAG 97.9",
             logo: "stations/images-america/greybull/KTAG 97.9.png",
-            url: "https://ice9.securenetsystems.net/KTAG"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTAGFMAAC_SC"
         },
         {
             name: "KZMQ 100.3",
             logo: "stations/images-america/greybull/KZMQ 100.3.png",
-            url: "https://ice9.securenetsystems.net/KZMQ"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZMQFMAAC_SC"
         },
         {
             name: "101.1 The KROW",
@@ -3738,7 +3738,7 @@ var stations = {
         {
             name: "104.1 The Eagle",
             logo: "stations/images-america/greybull/104.1 The Eagle.png",
-            url: "https://ice9.securenetsystems.net/KCGL"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCGLFMAAC_SC"
         },
         {
             name: "107.1 The Adventure",
@@ -4783,7 +4783,7 @@ var stations = {
         {
             name: "100.9 The Heat",
             logo: "stations/images-america/kramer_junction/100.9 The Heat.png",
-            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio61.php"
+            url: "https://centova12.instainternet.com/proxy/kraj?mp=/stream"
         },
         {
             name: "Old School 101.3",
@@ -4803,7 +4803,7 @@ var stations = {
         {
             name: "KePadre 104.9",
             logo: "stations/images-america/kramer_junction/KePadre 104.9.png",
-            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio62.php"
+            url: "https://centova12.instainternet.com/proxy/kepadre?mp=/stream"
         },
         {
             name: "KMIX 106.3",
@@ -8043,7 +8043,7 @@ var stations = {
         {
             name: "Relevant Radio 920",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "America Matters Media 1060",
@@ -8085,7 +8085,7 @@ var stations = {
         {
             name: "92.7 Qlite",
             logo: "stations/images-america/ridgecrest/92.7 Qlite.png",
-            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio63.php"
+            url: "https://centova12.instainternet.com/proxy/kziq?mp=/stream"
         },
         {
             name: "Z93.7",
@@ -8125,12 +8125,12 @@ var stations = {
         {
             name: "100.9 The Heat",
             logo: "stations/images-america/kramer_junction/100.9 The Heat.png",
-            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio61.php"
+            url: "https://centova12.instainternet.com/proxy/kraj?mp=/stream"
         },
         {
             name: "KePadre 104.9",
             logo: "stations/images-america/kramer_junction/KePadre 104.9.png",
-            url: "https://sslstreamconverter.com/public/radiostreamfiles/radio62.php"
+            url: "https://centova12.instainternet.com/proxy/kepadre?mp=/stream"
         },
         {
             name: "Classical 107.1",
@@ -8418,7 +8418,7 @@ var stations = {
         {
             name: "Relevant Radio 88.5",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "Air1 89.1",
@@ -9205,7 +9205,7 @@ var stations = {
         {
             name: "1260 KTRC",
             logo: "stations/images-america/santa_fe/1260 KTRC.png",
-            url: "https://live1.brownrice.com:8012/;"
+            url: "http://172.97.100.38:8012/;" 
         },
         {
             name: "1400 ESPN",
@@ -9412,9 +9412,9 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KRRS"
         },
         {
-            name: "106.3 The Beat",
-            logo: "stations/images-america/santa_rosa_ca/106.3 The Beat.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KJZYSFM"
+            name: "Air1 106.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "La Z 107.5",
@@ -9553,7 +9553,7 @@ var stations = {
         {
             name: "Relevant Radio 93.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "Star 94.1",
@@ -9603,7 +9603,7 @@ var stations = {
         {
             name: "Flashback ALT 96.5-HD2",
             logo: "stations/images-america/san_diego/Flashback ALT 96.5-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYXYHD3AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYXYHD2AAC_SC"
         },
         {
             name: "97.3 The Fan",
@@ -10309,7 +10309,7 @@ var stations = {
         {
             name: "Radio Hankook 1230",
             logo: "stations/images-america/seattle/Radio Hankook 1230.png",
-            url: "http://75.145.16.210:8080/stream"
+            url: "http://50.222.186.230:8080/stream"
         },
         {
             name: "KRKO 1380",
@@ -10537,7 +10537,7 @@ var stations = {
         {
             name: "Relevant Radio 99.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "Buenas Nuevas 104.7",
@@ -21360,7 +21360,7 @@ var stations_c2c = {
         {
             name: "Relevant Radio 90.3",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "Maine Public Radio 90.9",
@@ -33568,7 +33568,7 @@ var stations_c2c = {
         {
             name: "Relevant Radio 970",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "1300 The Zone",
@@ -33989,6 +33989,11 @@ var stations_c2c = {
             name: "102.9 NOW",
             logo: "stations/images-america/c2c/dallas_tx/102.9 NOW.png",
             url: "https://stream.revma.ihrhls.com/zc2237/hls.m3u8"
+        },
+        {
+            name: "VCY America 103.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
         {
             name: "ALT 103.7",
@@ -34501,7 +34506,7 @@ var stations_c2c = {
         {
             name: "Relevant Radio 1110",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "BIN 1320",
@@ -34993,7 +34998,7 @@ var stations_c2c = {
         {
             name: "Relevant Radio 1160",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://relevantradio-rs.streamguys1.com/relevantradio/relevantradio-web"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "1200 WOAI",

@@ -1266,7 +1266,7 @@ var stations = {
         {
             name: "Ouï FM",
             logo: "stations/images-europe/france/Ouï FM.png",
-            url: "https://stream.ouifm.fr/ouifm-high.mp3"
+            url: "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
         },
         {
             name: "Radio Classique",
@@ -1307,12 +1307,12 @@ var stations = {
             name: "Rire et Chansons",
             logo: "stations/images-europe/france/Rire et Chansons.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"
-        },
+        },/*
         {
             name: "RMC",
             logo: "stations/images-europe/france/RMC.png",
             url: "https://audio.bfmtv.com/rmcradio_128.mp3"
-        },
+        },*/
         {
             name: "RTL",
             logo: "stations/images-europe/france/RTL.png",
@@ -1742,7 +1742,7 @@ var stations = {
         {
             name: "Antenne Düsseldorf",
             logo: "stations/images-europe/germany-koeln/Antenne Düsseldorf.png",
-            url: "https://antennedus--di--nacs-ais-lgc--11--cdn.cast.addradio.de/antennedus/live/mp3/high"
+            url: "https://addrad.io/444z5n3"
         },
         {
             name: "DOMRADIO",
@@ -1757,22 +1757,22 @@ var stations = {
         {
             name: "Radio Erft",
             logo: "stations/images-europe/germany-koeln/Radio Erft.png",
-            url: "https://radioerft--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radioerft/live/mp3/high"
+            url: "https://addrad.io/444z76t"
         },
         {
             name: "Radio Köln",
             logo: "stations/images-europe/germany-koeln/Radio Köln.png",
-            url: "https://radiokoeln--di--nacs-ais-lgc--01--cdn.cast.addradio.de/radiokoeln/live/mp3/high"
+            url: "https://addrad.io/444z7kb"
         },
         {
             name: "Radio Neandertal",
             logo: "stations/images-europe/germany-koeln/Radio Neandertal.png",
-            url: "https://neandertal--di--nacs-ais-lgc--11--cdn.cast.addradio.de/neandertal/live/mp3/high"
+            url: "https://addrad.io/444z66t"
         },
         {
             name: "Radio Wuppertal",
             logo: "stations/images-europe/germany-koeln/Radio Wuppertal.png",
-            url: "https://radiowuppertal--di--nacs-ais-lgc--06--cdn.cast.addradio.de/radiowuppertal/live/mp3/high"
+            url: "https://addrad.io/444z68k"
         },
     ],
     "germany-mdr": [
@@ -1831,7 +1831,7 @@ var stations = {
         {
             name: "Ostseewelle",
             logo: "stations/images-europe/germany-mv/Ostseewelle.png",
-            url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
+            url: "https://addrad.io/4454pjf"
         },
         {
             name: "Radio TEDDY",
@@ -1863,7 +1863,7 @@ var stations = {
         {
             name: "Radio München",
             logo: "stations/images-europe/germany-muenchen/Radio München.png",
-            url: "http://icecast01.netzwerkoptimierung.com:8000/radiomuenchen.mp3"
+            url: "https://stream.radiomuenchen.net/rm256.mp3"
         },
         {
             name: "Radio Arabella München",
@@ -2021,7 +2021,7 @@ var stations = {
         {
             name: "Rockland Radio",
             logo: "stations/images-europe/germany-rp/Rockland Radio.png",
-            url: "https://stream.rockland.de/rockland.mp3"
+            url: "https://streams.rockland.de/mainz/mp3-192/web/"
         },
         {
             name: "RPR1.",
@@ -4091,12 +4091,12 @@ var stations = {
         {
             name: "Loca FM",
             logo: "stations/images-europe/spain/Loca FM.png",
-            url: "http://81.46.247.191:8045/live"
+            url: "http://s3.we4stream.com:8045/liv"
         },
         {
             name: "Loca Urban",
             logo: "stations/images-europe/spain/Loca Urban.png",
-            url: "http://81.25.120.165:8015/live"
+            url: "http://locafm02.we4stream.com:8015/live"
         },
         {
             name: "LOS40",
@@ -5152,12 +5152,12 @@ var stations = {
             name: "Радио Пятница",
             logo: "stations/images-europe/ukraine/Радио Пятница.png",
             url: "https://cast.radiogroup.com.ua/radiopyatnica320"
-        },
+        },/*
         {
             name: "Русское Радио Україна",
             logo: "stations/images-europe/ukraine/Русское Радио Україна.png",
             url: "https://online.rusradio.ua/RusRadio_HD"
-        },
+        },*/
     ],
     "wales": [
         {
@@ -5173,15 +5173,45 @@ var stations = {
     ],
     "westbank": [
         {
-            name: "راديو أجيال",
+            name: "راديو أجيال - Ajyal News",
             logo: "stations/images-europe/westbank/راديو أجيال.png",
-            url: "http://streamer.mada.ps:8008/AJYAL"
-        },/*
+            url: "https://icecast.mada.ps:8495/ajyalnewssl"
+        },
         {
-            name: "راديو انغام",
-            logo: "stations/images-europe/westbank/راديو انغام.jpg",
+            name: "راديو انغام - Angham",
+            logo: "stations/images-europe/westbank/راديو انغام.png",
             url: "http://streamer.mada.ps:8010/ANGHAM"
-        },*/
+        },
+        {
+            name: "Radio 101",
+            logo: "stations/images-europe/westbank/Radio 101.png",
+            url: "http://streamer.mada.ps:8027/onefm"
+        },
+        {
+            name: "راديو كلاسيك - Classic Radio",
+            logo: "stations/images-europe/westbank/راديو كلاسيك.png",
+            url: "http://streamer.mada.ps:8037/classic"
+        },
+        {
+            name: "راديو الموسيقى - Music Radio",
+            logo: "stations/images-europe/westbank/راديو الموسيقى.png",
+            url: "http://streamer.mada.ps:8039/musiconly"
+        },
+        {
+            name: "راديو طرب - Tarab",
+            logo: "stations/images-europe/westbank/راديو طرب.png",
+            url: "http://streamer.mada.ps:8012/tarab"
+        },
+        {
+            name: "راديو رام الله - Radio Ramallah",
+            logo: "stations/images-europe/westbank/راديو رام الله.png",
+            url: "http://streamer.mada.ps:8031/radioramallah"
+        },
+        {
+            name: "راديو رام الله للقران الكريم - Quran FM",
+            logo: "stations/images-europe/westbank/راديو رام الله للقران الكريم.png",
+            url: "http://streamer.mada.ps:8029/quranfm"
+        },
     ]
 };
 
