@@ -30968,8 +30968,8 @@ var stations_c2c = {
             url: "https://ice41.securenetsystems.net/WEMG"
         },
         {
-            name: "106.1 The Breeze",
-            logo: "stations/images-america/c2c/philadelphia_pa/106.1 The Breeze.png",
+            name: "Rumba 106.1",
+            logo: "stations/images-america/c2c/philadelphia_pa/Rumba 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc2001/hls.m3u8"
         },
         {
@@ -34643,8 +34643,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7195_48k.aac"
         },
         {
-            name: "101.1 The Beard",
-            logo: "stations/images-america/c2c/lubbock_tx/101.1 The Beard.png",
+            name: "Rock 101",
+            logo: "stations/images-america/c2c/lubbock_tx/Rock 101.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-konefmaac-ibc4"
         },
         {
