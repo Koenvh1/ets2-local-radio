@@ -207,7 +207,7 @@ var stations = {
         {
             name: "KYDN 95.3",
             logo: "stations/images-america/alamosa/KYDN 95.3.png",
-            url: "https://ice5.securenetsystems.net/KYDN"
+            url: "https://p.itoad.net/browse.php?u=https://ice5.securenetsystems.net/KYDN"
         },
         {
             name: "96.5 The Fox",
@@ -5846,6 +5846,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KROQHD2AAC_SC"
         },
         {
+            name: "New Arrivals 106.7-HD3",
+            logo: "stations/images-america/0_general_logos/New Arrivals.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2AAC_SC"
+        },
+        {
             name: "K-LOVE 107.5",
             logo: "stations/images-america/los_angeles/K-LOVE 107.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-klvefmaac-imc2"
@@ -10448,7 +10453,7 @@ var stations = {
         {
             name: "Rewind 97.7",
             logo: "stations/images-america/show_low/Rewind 97.7.png",
-            url: "http://rewind97.com:8190/rewind"
+            url: "http://rewind97.com:8190/rewind22"
         },
         {
             name: "98.5 KRFM",
@@ -10458,7 +10463,7 @@ var stations = {
         {
             name: "K-Bear 100.5",
             logo: "stations/images-america/show_low/K-Bear 100.5.png",
-            url: "http://kbear100.com:8190/kbear"
+            url: "http://kbear100.com:8190/kbear22"
         },
         {
             name: "Majik 101.7",
@@ -10468,7 +10473,7 @@ var stations = {
         {
             name: "103.5 The Vibe",
             logo: "stations/images-america/show_low/103.5 The Vibe.png",
-            url: "http://1035thevibe.com:8190/vibe"
+            url: "http://1035thevibe.com:8190/vibe22"
         },
         {
             name: "105.5 KSNX",
@@ -10478,7 +10483,7 @@ var stations = {
         {
             name: "107.9 The Eagle",
             logo: "stations/images-america/show_low/107.9 The Eagle.png",
-            url: "http://1079theeagle.com:8190/eagle"
+            url: "http://1079theeagle.com:8190/eagle22"
         },
         {
             name: "KTNN 660",
