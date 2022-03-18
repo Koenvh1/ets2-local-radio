@@ -1202,12 +1202,12 @@ var stations = {
             name: "Autoroute Info",
             logo: "stations/images-europe/france/Autoroute Info.png",
             url: "http://media.autorouteinfo.fr:8000/direct_nord.mp3"
-        },
+        },/*
         {
             name: "BFM Business",
             logo: "stations/images-europe/france/BFM Business.png",
             url: "https://audio.bfmtv.com/bfmbusiness_128.mp3"
-        },
+        },*/
         {
             name: "Chérie FM",
             logo: "stations/images-europe/france/Chérie FM.png",
@@ -1932,7 +1932,7 @@ var stations = {
         {
             name: "RADIO 21",
             logo: "stations/images-europe/germany-nds/RADIO 21.png",
-            url: "https://stream.radio21.de/radio21.mp3"
+            url: "https://streams.radio21.de/hannover/mp3-192/web/"
         },
     ],
     "germany-rbb": [
@@ -2278,12 +2278,12 @@ var stations = {
             name: "Star FM",
             logo: "stations/images-europe/greece/Star FM.png",
             url: "http://136.243.102.164:8044/stream"
-        },
+        },/*
         {
             name: "Θέμα Radio",
             logo: "stations/images-europe/greece/Θέμα Radio.png",
             url: "https://stream.radiojar.com/cdk030dsvv5tv"
-        },
+        },*/
         {
             name: "Χρώμα FM",
             logo: "stations/images-europe/greece/Χρώμα FM.png",
@@ -2749,34 +2749,39 @@ var stations = {
     ],
     "latvia": [
         {
-            name: "Latvijas Radio 1",
+            name: "LR1",
             logo: "stations/images-europe/latvia/Latvijas Radio 1.png",
             url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr1a.stream/playlist.m3u8"
         },
         {
-            name: "Latvijas Radio 2",
+            name: "LR2",
             logo: "stations/images-europe/latvia/Latvijas Radio 2.png",
             url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr2a.stream/playlist.m3u8"
         },
         {
-            name: "Latvijas Radio 3 Klasika",
-            logo: "stations/images-europe/latvia/Latvijas Radio 3 Klasika.png",
+            name: "LR3 Klasika",
+            logo: "stations/images-europe/latvia/Latvijas Radio 3.png",
             url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr3a.stream/playlist.m3u8"
         },
         {
-            name: "Latvijas Radio 4 Домская Площадь",
-            logo: "stations/images-europe/latvia/Latvijas Radio 4 Домская Площадь.png",
+            name: "LR4 Doma Laukums",
+            logo: "stations/images-europe/latvia/Latvijas Radio 4.png",
             url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8"
+        },
+        {
+            name: "LR5 Pieci.lv",
+            logo: "stations/images-europe/latvia/Latvijas Radio 5.png",
+            url: "https://live.pieci.lv/live19-hq.aac"
         },
         {
             name: "EHR",
             logo: "stations/images-europe/latvia/EHR.png",
-            url: "http://stream.europeanhitradio.com:8000/ehr.mp3"
+            url: "https://stream.ehrhiti.lv:8000/ehr.aac"
         },
         {
-            name: "EHR Superhits",
+            name: "EHR SuperHits",
             logo: "stations/images-europe/latvia/EHR Superhits.png",
-            url: "http://stream.europeanhitradio.com:8000/Stream_21.mp3"
+            url: "https://stream.ehrhiti.lv:8000/Stream_21.aac"
         },
         {
             name: "Latvijas Kristīgais Radio",
@@ -2784,9 +2789,14 @@ var stations = {
             url: "http://91.228.7.124:7007/;?type=http&nocache=905"
         },
         {
+            name: "Radio Marija",
+            logo: "stations/images-europe/latvia/Radio Marija.png",
+            url: "http://195.122.25.178:8000/;stream.mp3"
+        },
+        {
             name: "Radio Skonto",
             logo: "stations/images-europe/latvia/Radio Skonto.png",
-            url: "http://skonto.datucentrs.eu/mp3"
+            url: "https://stream.radioskonto.lv:8443/stereo"
         },
         {
             name: "Radio SWH",
@@ -2880,8 +2890,8 @@ var stations = {
     ],
     "lithuania": [
         {
-            name: "LRT 1",
-            logo: "stations/images-europe/lithuania/LRT 1.jpg",
+            name: "LRT Radijas",
+            logo: "stations/images-europe/lithuania/LRT Radijas.png",
             url: "https://radijas.lrt.lt/radijas/lrt_radijas/playlist.m3u8"
         },
         {
@@ -2892,47 +2902,77 @@ var stations = {
         {
             name: "LRT Opus",
             logo: "stations/images-europe/lithuania/LRT Opus.png",
-            url: "https://lrt-live.lrt.lt/audio/ndvr/hls/lrt_opus/index.m3u8"
+            url: "https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8"
+        },
+        {
+            name: "extra FM",
+            logo: "stations/images-europe/lithuania/extra FM.png",
+            url: "https://82.135.234.195:8443/extrafm.aac"
+        },
+        {
+            name: "Gold FM",
+            logo: "stations/images-europe/lithuania/Gold FM.png",
+            url: "http://82.135.234.195:8000/goldfm.aac"
         },
         {
             name: "Lietus",
-            logo: "stations/images-europe/lithuania/Lietus.jpg",
-            url: "http://radio.m-1.fm:80/LIETUS"
+            logo: "stations/images-europe/lithuania/Lietus.png",
+            url: "https://stream.m-1.fm/lietus/aacp64"
         },
         {
             name: "M-1",
             logo: "stations/images-europe/lithuania/M-1.png",
-            url: "http://radio.m-1.fm:80/m1/mp3"
+            url: "https://stream.m-1.fm/m1/aacp64"
         },
         {
             name: "M-1 Plius",
-            logo: "stations/images-europe/lithuania/M-1 Plius.jpg",
-            url: "http://radio.m-1.fm:80/M-1PLIUS"
+            logo: "stations/images-europe/lithuania/M-1 Plius.png",
+            url: "https://radio.m-1.fm/m1plius/aacp64"
         },
         {
-            name: "PowerHitRadio",
-            logo: "stations/images-europe/lithuania/PowerHitRadio.svg",
-            url: "https://powerhit.ls.lv/PHR_AAC"
+            name: "Marijos Radijas",
+            logo: "stations/images-europe/lithuania/Marijos Radijas.png",
+            url: "http://stream.marijosradijas.lt:8001/marijosradijas.mp3"
+        },
+        {
+            name: "Power Hit Radio",
+            logo: "stations/images-europe/lithuania/Power Hit Radio.png",
+            url: "https://stream.powerhitradio.lt/PHR_AAC"
         },
         {
             name: "Pūkas",
-            logo: "stations/images-europe/lithuania/Pūkas.jpg",
+            logo: "stations/images-europe/lithuania/Pūkas.png",
             url: "http://82.135.234.195:8000/pukas.mp3"
         },
         {
             name: "Radiocentras",
             logo: "stations/images-europe/lithuania/Radiocentras.png",
-            url: "http://84.46.205.13:80/rc128.mp3"
+            url: "https://stream1.rc.lt/rc128.mp3"
         },
         {
-            name: "Русское Радио Балтия",
-            logo: "stations/images-europe/lithuania/Русское Радио Балтия.png",
-            url: "http://5.20.223.18/rrb128.mp3"
+            name: "Relax FM",
+            logo: "stations/images-europe/lithuania/Relax FM.png",
+            url: "https://stream2.relaxfm.lt/relaxfm128.mp3"
+        },
+        {
+            name: "RUS Radio LT",
+            logo: "stations/images-europe/lithuania/RUS Radio LT.png",
+            url: "http://stream1.rusradio.lt/rrb128.mp3"
+        },
+        {
+            name: "XFM",
+            logo: "stations/images-europe/lithuania/XFM.png",
+            url: "http://88.119.151.74:8001/xfm"
+        },
+        {
+            name: "Žinių Radijas",
+            logo: "stations/images-europe/lithuania/Žinių Radijas.png",
+            url: "https://netradio.ziniur.lt/ziniur.mp3"
         },
         {
             name: "ZIP FM",
-            logo: "stations/images-europe/lithuania/ZIP FM.jpg",
-            url: "http://84.46.205.13/zipfm128.mp3"
+            logo: "stations/images-europe/lithuania/ZIP FM.png",
+            url: "https://transliacija.zipfm.lt/zipfm128.mp3"
         },
     ],
     "luxembourg": [
