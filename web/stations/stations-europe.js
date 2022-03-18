@@ -2359,29 +2359,34 @@ var stations = {
             url: "https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8"
         },
         {
-            name: "Bylgjan 98,9",
-            logo: "stations/images-europe/iceland/Bylgjan 98,9.jpg",
-            url: "http://vcache1.365net.is/hls-radio/bylgjan/playlist.m3u8?DVR"
+            name: "Bylgjan",
+            logo: "stations/images-europe/iceland/Bylgjan.png",
+            url: "https://live.visir.is/hls-radio/bylgjan/playlist.m3u8"
         },
         {
             name: "FM957",
             logo: "stations/images-europe/iceland/FM957.png",
-            url: "http://icecast.365net.is:8000/orbFm957.aac"
+            url: "https://live.visir.is/hls-radio/fm957/playlist.m3u8"
+        },
+        {
+            name: "K100",
+            logo: "stations/images-europe/iceland/K100.png",
+            url: "http://stream3.radio.is:443/kaninnmobile"
+        },
+        {
+            name: "KISS FM",
+            logo: "stations/images-europe/iceland/KISS FM.png",
+            url: "http://ice-11.spilarinn.is/kissfm"
         },
         {
             name: "Lindin",
             logo: "stations/images-europe/iceland/Lindin.png",
-            url: "http://62.145.147.50:8001/lindin"
+            url: "https://high.lindin.fo/"
         },
         {
             name: "Útvarp Saga",
             logo: "stations/images-europe/iceland/Útvarp Saga.png",
-            url: "http://radio.is:443/saga"
-        },
-        {
-            name: "X-ið 977",
-            logo: "stations/images-europe/iceland/X-ið 977.png",
-            url: "http://icecast.365net.is:8000/orbXid.aac"
+            url: "https://stream.utvarpsaga.is/Hljodver"
         },
     ],
     "iom": [
