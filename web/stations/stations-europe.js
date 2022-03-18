@@ -1005,24 +1005,29 @@ var stations = {
     ],
     "faroe": [
         {
+            name: "FM1",
+            logo: "stations/images-europe/faroe/FM1.png",
+            url: "http://stream.midlar.fo/ras2"
+        },
+        {
             name: "Kringvarp Føroya",
             logo: "stations/images-europe/faroe/Kringvarp Føroya.jpg",
             url: "http://netvarp.kringvarp.fo:443/uvhm"
         },
         {
-            name: "R7 Kringvarp",
-            logo: "stations/images-europe/faroe/R7 Kringvarp.svg",
-            url: "http://lurta.r7.fo:8080/r7_high"
+            name: "Lindin",
+            logo: "stations/images-europe/faroe/Lindin.png",
+            url: "https://high.lindin.fo/"
         },
         {
-            name: "Rás2",
-            logo: "stations/images-europe/faroe/Rás2.png",
-            url: "http://stream.midlar.fo/ras2-128"
+            name: "Radio.fo",
+            logo: "stations/images-europe/faroe/Radio.fo.png",
+            url: "https://streaming.radio.co/s4d14b9fcc/listen"
         },
         {
             name: "VoxPop",
             logo: "stations/images-europe/faroe/VoxPop.png",
-            url: "http://stream.midlar.fo/voxpop-128"
+            url: "http://stream.midlar.fo/voxpop"
         },
     ],
     "finland": [
@@ -2380,7 +2385,7 @@ var stations = {
         },
         {
             name: "Lindin",
-            logo: "stations/images-europe/iceland/Lindin.png",
+            logo: "stations/images-europe/faroe/Lindin.png",
             url: "https://high.lindin.fo/"
         },
         {
