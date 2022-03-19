@@ -769,7 +769,7 @@ var stations = {
         },
         {
             name: "KISS",
-            logo: "stations/images-europe/cyprus/KISS FM.png",
+            logo: "stations/images-europe/cyprus/KISS.png",
             url: "https://securestreams3.autopo.st:1417/89FM"
         },
         {
@@ -1454,30 +1454,70 @@ var stations = {
     ],
     "georgia": [
         {
-            name: "რადიო 1",
-            logo: "stations/images-europe/georgia/რადიო 1.svg",
+            name: "რადიო 1 - Radio 1",
+            logo: "stations/images-europe/georgia/რადიო 1.png",
             url: "https://tv.cdn.xsg.ge/gpb-radio1/index.m3u8"
         },
         {
-            name: "იმედი",
+            name: "იმედი - Imedi",
             logo: "stations/images-europe/georgia/იმედი.png",
-            url: "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8"
+            url: "http://188.93.95.83/radioimedi/stream01/index.m3u8"
+        },
+        {
+            name: "Avtoradio",
+            logo: "stations/images-europe/georgia/Avtoradio.png",
+            url: "http://188.93.95.83/cld9-0386/avtoradio/index.m3u8"
+        },
+        {
+            name: "არ დაიდარდო - Ardaidardo",
+            logo: "stations/images-europe/georgia/არ დაიდარდო.png",
+            url: "http://188.93.95.83/cld9-0386/ardaidardo/index.m3u8"
         },
         {
             name: "Fortuna",
             logo: "stations/images-europe/georgia/Fortuna.png",
-            url: "https://tv.cdn.xsg.ge/cld9-0386/fortuna/index.m3u8"
+            url: "http://188.93.95.83/cld9-0386/fortuna/index.m3u8"
         },
         {
             name: "Fortuna Plus",
             logo: "stations/images-europe/georgia/Fortuna Plus.png",
-            url: "https://tv.cdn.xsg.ge/cld9-0386/fortunaplus/index.m3u8"
-        },/*
+            url: "http://188.93.95.83/cld9-0386/fortunaplus/index.m3u8"
+        },
         {
-            name: "რადიო თავისუფლება",
-            logo: "stations/images-europe/georgia/რადიო თავისუფლება.svg",
-            url: "https://stream.radiojar.com/s4r86napn3quv"
-        },*/
+            name: "მთავარი გვერდი - Odishi +",
+            logo: "stations/images-europe/georgia/მთავარი გვერდი.png",
+            url: "https://live.radio.odishi.ge/odishi.mp3"
+        },
+        {
+            name: "პირველი რადიო - Pirveli Radio",
+            logo: "stations/images-europe/georgia/პირველი რადიო.png",
+            url: "http://178.134.47.58:88/broadwave.mp3"
+        },
+        {
+            name: "რადიო აჭარა - Radio Ajara",
+            logo: "stations/images-europe/georgia/რადიო აჭარა.png",
+            url: "https://listen.mixlr.com/1537114d30c2620fb2c5ad0ee741af8e"
+        },
+        {
+            name: "რადიო მაესტროს - Radio Maestro",
+            logo: "stations/images-europe/georgia/Radio Maestro.png",
+            url: "http://nue01-edge01.itdc.ge/fm-maestro-94.7/index.m3u8"
+        },
+        {
+            name: "Radio Palitra",
+            logo: "stations/images-europe/georgia/Radio Palitra.png",
+            url: "https://radio1.palitra.ge:8443/stream.mp3"
+        },
+        {
+            name: "Sputnik Абхазия",
+            logo: "stations/images-europe/georgia/Sputnik Абхазия.png",
+            url: "https://voicecdn.sputnikimages.com/voicesuh"
+        },
+        {
+            name: "Voice Of Abkhazia",
+            logo: "stations/images-europe/georgia/Voice Of Abkhazia.png",
+            url: "http://109.172.136.60:8081/broadwavelow.mp3"
+        },
     ],
     "germany": [
         {
@@ -3579,6 +3619,11 @@ var stations = {
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx"
         },
         {
+            name: "MUZO.FM",
+            logo: "stations/images-europe/poland/MUZO.FM.png",
+            url: "https://stream.rcs.revma.com/1nnezw8qz7zuv"
+        },
+        {
             name: "Radio ESKA",
             logo: "stations/images-europe/poland/Radio Eska.png",
             url: "http://waw.ic.smcdn.pl/2380-1.aac"
@@ -3614,8 +3659,8 @@ var stations = {
             url: "http://lodz.radio.pionier.net.pl:8000/pl/tuba9-1.mp3"
         },
         {
-            name: "RMF FM",
-            logo: "stations/images-europe/poland/RMF FM.png",
+            name: "RMF",
+            logo: "stations/images-europe/poland/RMF.png",
             url: "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48"
         },
         {
