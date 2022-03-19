@@ -698,47 +698,140 @@ var stations = {
             url: "http://r1.cloudskep.com/cybcr/cybc4/icecast.audio"
         },
         {
-            name: "ANT1 FM",
-            logo: "stations/images-europe/cyprus/ANT1 FM.jpg",
-            url: "http://r1.cloudskep.com/radio2/ant1fm/icecast.audio"
+            name: "ant1 Radio",
+            logo: "stations/images-europe/cyprus/ant1 Radio.png",
+            url: "https://stream.rcs.revma.com/f4xvg13btc9uv"
         },
         {
-            name: "Astra",
-            logo: "stations/images-europe/cyprus/Astra.jpg",
-            url: "http://radio.dialogos.com.cy:8000/stream"
+            name: "Bayrak FM",
+            logo: "stations/images-europe/cyprus/Bayrak.png",
+            url: "http://sc.brtk.net:8000/;"
+        },
+        {
+            name: "Bayrak Klasik",
+            logo: "stations/images-europe/cyprus/Bayrak.png",
+            url: "http://sc.brtk.net:8006/;"
         },
         {
             name: "Bayrak Radyosu",
-            logo: "stations/images-europe/cyprus/Bayrak Radyosu.png",
+            logo: "stations/images-europe/cyprus/Bayrak.png",
             url: "http://sc.brtk.net:8002/;"
+        },
+        {
+            name: "Bayrak Radyo Haber",
+            logo: "stations/images-europe/cyprus/Bayrak.png",
+            url: "http://sc.brtk.net:8008/;"
+        },
+        {
+            name: "BFBS Cyprus",
+            logo: "stations/images-europe/cyprus/BFBS Cyprus.png",
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac"
+        },
+        {
+            name: "BFBS Radio 2",
+            logo: "stations/images-europe/cyprus/BFBS Radio 2.png",
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac"
+        },
+        {
+            name: "Dance FM",
+            logo: "stations/images-europe/cyprus/Dance FM.png",
+            url: "http://live.nrgplay.com/stream/1/;"
+        },
+        {
+            name: "Deejay Radio",
+            logo: "stations/images-europe/cyprus/Deejay Radio.png",
+            url: "https://eradio.networksolutions.com.cy:1943/DeeJay/DeeJay.stream/playlist.m3u8"
+        },
+        {
+            name: "Δίεση",
+            logo: "stations/images-europe/cyprus/Δίεση.png",
+            url: "https://r1.cloudskep.com/radio/diesi/icecast.audio"
+        },
+        {
+            name: "Dromos FM",
+            logo: "stations/images-europe/cyprus/Dromos FM.png",
+            url: "https://stream.rcs.revma.com/10q3enqxbfhvv"
+        },
+        {
+            name: "ENERGY Cyprus",
+            logo: "stations/images-europe/cyprus/ENERGY Cyprus.png",
+            url: "http://broadcaster.iteam4media.com/ke923q0hhf9uv"
+        },
+        {
+            name: "Kanali 6",
+            logo: "stations/images-europe/cyprus/Kanali 6.png",
+            url: "http://live3.istoikona.net:8372/stream/2/Title1=Kanali"
+        },
+        {
+            name: "Kanali 7",
+            logo: "stations/images-europe/cyprus/Kanali 7.png",
+            url: "http://live.radioalphaomega.com:4012/;"
+        },
+        {
+            name: "KISS",
+            logo: "stations/images-europe/cyprus/KISS FM.png",
+            url: "https://securestreams3.autopo.st:1417/89FM"
+        },
+        {
+            name: "Klik FM",
+            logo: "stations/images-europe/cyprus/Klik FM.png",
+            url: "http://eco.onestreaming.com:8310/;"
+        },
+        {
+            name: "Love FM",
+            logo: "stations/images-europe/cyprus/Love FM.png",
+            url: "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8"
         },
         {
             name: "Mix FM",
             logo: "stations/images-europe/cyprus/Mix FM.png",
-            url: "http://eco.onestreaming.com:8127/;"
+            url: "https://live3.istoikona.net:9706/stream"
         },
         {
-            name: "Radio Sfera",
-            logo: "stations/images-europe/cyprus/Radio Sfera.png",
-            url: "http://r1.phileradio.com:8193/sfera"
+            name: "NJOY",
+            logo: "stations/images-europe/cyprus/NJOY.png",
+            url: "http://shout.kalsedia.com:9950/njoy9950_128"
         },
         {
-            name: "BFBS Cyprus",
-            logo: "stations/images-europe/cyprus/Bayrak Radyosu.png",
-            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac"
+            name: "Ο αληθινός Λόγος",
+            logo: "stations/images-europe/cyprus/Ο αληθινός Λόγος.png",
+            url: "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio"
         },
         {
-            name: "Capital Radio",
-            logo: "stations/images-europe/cyprus/Capital Radio.jpg",
-            url: "http://159.253.37.137:9956/;"
+            name: "ΠΟΛΙΤΗΣ",
+            logo: "stations/images-europe/cyprus/ΠΟΛΙΤΗΣ.png",
+            url: "https://cdn.istoikona.com/politis/live/icecast.audio"
         },
-        /*
         {
-            name: "Sunshine Radio",
-            logo: "stations/images-europe/cyprus/Sunshine Radio.webp",
-            url: "http://5.63.151.52:7172/stream/;stream.mp3?_=1"
+            name: "Ράδιο Πρώτο",
+            logo: "stations/images-europe/cyprus/Ράδιο Πρώτο.png",
+            url: "https://live3.istoikona.net:18191/stream"
         },
-        */
+        {
+            name: "sfera",
+            logo: "stations/images-europe/cyprus/sfera.png",
+            url: "https://securestreams3.autopo.st:1417/sfera"
+        },
+        {
+            name: "Radyo Güven",
+            logo: "stations/images-europe/cyprus/Radyo Güven.png",
+            url: "http://us2freenew.listen2myradio.com:33673/;"
+        },
+        {
+            name: "Русское Радио Кипр",
+            logo: "stations/images-europe/cyprus/Русское Радио Кипр.png",
+            url: "https://stream.radiojar.com/wy42n4wvdf9uv"
+        },
+        {
+            name: "Super FM",
+            logo: "stations/images-europe/cyprus/Super FM.png",
+            url: "https://live3.istoikona.net:18826/stream"
+        },
+        {
+            name: "Super Sport FM",
+            logo: "stations/images-europe/cyprus/Super Sport FM.png",
+            url: "https://sportfm-cyprus.live24.gr/sportfm-cyprus"
+        },
     ],
     "czech": [
         {
@@ -1468,9 +1561,9 @@ var stations = {
             url: "https://stream.klassikradio.de/live/mp3-192"
         },
         {
-            name: "Klassik Radio Beats",
-            logo: "stations/images-europe/germany/Klassik Radio Beats.png",
-            url: "https://klassikr.streamabc.net/klr-klassikradiobeats-mp3-192-6710802"
+            name: "Beats Radio",
+            logo: "stations/images-europe/germany/Beats Radio.png",
+            url: "https://live.streams.klassikradio.de/beats-radio/stream/mp3"
         },
         {
             name: "NOSTALGIE",
