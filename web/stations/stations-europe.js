@@ -3808,7 +3808,7 @@ var stations = {
         {
             name: "Europa FM",
             logo: "stations/images-europe/romania/Europa FM.png",
-            url: "http://astreaming.europafm.ro:8000/europafm_aacp48k"
+            url: "https://astreaming.edi.ro:8443/EuropaFM_aac"
         },
         {
             name: "Itsy Bitsy FM",
@@ -5358,11 +5358,6 @@ var stations = {
             name: "DJ FM",
             logo: "stations/images-europe/ukraine/DJ FM.png",
             url: "https://cast.radiogroup.com.ua/djfm320"
-        },
-        {
-            name: "Ера FM",
-            logo: "stations/images-europe/ukraine/Ера FM.png",
-            url: "http://91.218.212.84:8000/radionv.mp3"
         },
         {
             name: "Xiт FM",
