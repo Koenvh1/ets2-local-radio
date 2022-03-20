@@ -995,7 +995,7 @@ var stations = {
         },
         {
             name: "95 FM",
-            logo: "stations/images-europe/egypt/FM 95.png",
+            logo: "stations/images-europe/egypt/95 FM.png",
             url: "http://178.32.62.154:9010/;"
         },
         {
@@ -4088,7 +4088,7 @@ var stations = {
         },
         {
             name: "Scottish Sun Chilled",
-            logo: "stations/images-europe/scotland/Scottish Sun Hits.png",
+            logo: "stations/images-europe/scotland/Scottish Sun Chilled.png",
             url: "https://gbradio.cdn.tibus.net/SUNGRTHITS"
         },
         {
