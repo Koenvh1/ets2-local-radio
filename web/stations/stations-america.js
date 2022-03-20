@@ -35884,7 +35884,7 @@ var stations_c2c = {
         {
             name: "WDCE 90.1",
             logo: "stations/images-america/c2c/richmond_va/WDCE 90.1.png",
-            url: "http://wdce3.richmond.edu:8004/;"
+            url: "https://streaming.live365.com/a39711"
         },
         {
             name: "WPER 90.5",
