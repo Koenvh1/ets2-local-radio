@@ -442,7 +442,7 @@ var stations = {
         {
             name: "Radio FBiH",
             logo: "stations/images-europe/bosnia/Radio FBiH.png",
-            url: "https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_37270_stream_960775473;stream/1;"
+            url: "https://freeuk28.listen2myradio.com:37270/;"
         },*/
         {
             name: "BIG 2",
@@ -2560,37 +2560,27 @@ var stations = {
         {
             name: "RTÉ Radio 1",
             logo: "stations/images-europe/ireland/RTÉ Radio 1.png",
-            url: "http://icecast1.rte.ie/radio1"
+            url: "https://www.rte.ie/manifests/radio1.m3u8"
         },
         {
-            name: "RTÉ 2fm",
+            name: "RTÉ 2FM",
             logo: "stations/images-europe/ireland/RTÉ 2fm.png",
-            url: "http://icecast1.rte.ie/2fm"
+            url: "https://www.rte.ie/manifests/2fm.m3u8"
         },
         {
-            name: "RTÉ Lyric FM",
+            name: "RTÉ lyric fm",
             logo: "stations/images-europe/ireland/RTÉ Lyric FM.png",
-            url: "http://icecast1.rte.ie/lyric"
+            url: "https://www.rte.ie/manifests/lyric.m3u8"
         },
         {
             name: "RTÉ Raidió na Gaeltachta",
             logo: "stations/images-europe/ireland/RTÉ Raidió na Gaeltachta.png",
-            url: "http://icecast1.rte.ie/rnag"
+            url: "https://www.rte.ie/manifests/rnag.m3u8"
         },
         {
-            name: "RTÉ Gold",
-            logo: "stations/images-europe/ireland/RTÉ Gold.png",
-            url: "http://icecast1.rte.ie/gold"
-        },
-        {
-            name: "RTÉ Pulse",
-            logo: "stations/images-europe/ireland/RTÉ Pulse.png",
-            url: "http://icecast1.rte.ie/pulse"
-        },
-        {
-            name: "Classic Hits 4FM",
-            logo: "stations/images-europe/ireland/Classic Hits 4FM.png",
-            url: "http://edge2.audioxi.com/CLASSIC"
+            name: "Classic Hits",
+            logo: "stations/images-europe/ireland/Classic Hits.png",
+            url: "https://edge2.audioxi.com/CLASSIC"
         },
         {
             name: "iRadio",
@@ -2598,62 +2588,75 @@ var stations = {
             url: "https://stream.audioxi.com/IRADNW"
         },
         {
-            name: "News Talk 106-108 FM",
-            logo: "stations/images-europe/ireland/Newstalk 106-108 FM.jpg",
+            name: "Newstalk",
+            logo: "stations/images-europe/ireland/Newstalk.png",
             url: "https://stream.audioxi.com/NT"
         },
         {
-            name: "Raidió Rí-Rá",
-            logo: "stations/images-europe/ireland/Raidió Rí-Rá.png",
-            url: "http://185.80.220.12:8166/stream"
+            name: "Spirit Radio",
+            logo: "stations/images-europe/ireland/Spirit Radio.png",
+            url: "https://st2.webradioworld.net:2020/stream/SpiritRadio1"
         },
         {
             name: "Today FM",
-            logo: "stations/images-europe/ireland/Today FM.jpg",
+            logo: "stations/images-europe/ireland/Today FM.png",
             url: "https://stream.audioxi.com/TD"
         },
     ],
     "israel": [
         {
-            name: "כאן ב",
-            logo: "stations/images-europe/israel/KAN BET LAM.png",
-            url: "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3?providername=rlive"
+            name: "כאן 88 - KAN 88",
+            logo: "stations/images-europe/israel/KAN 88.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/749623_mp3"
         },
         {
-            name: "כאן 88",
-            logo: "stations/images-europe/israel/KAN 88 LAM.png",
-            url: "http://kanliveicy.media.kan.org.il/icy/kan88_mp3?providername=rlive"
+            name: "כאן ב - KAN Bet",
+            logo: "stations/images-europe/israel/KAN BET.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/749624_mp3"
         },
         {
-            name: "כאן גימל",
-            logo: "stations/images-europe/israel/KAN GIMMEL LAM.png",
-            url: "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3?providername=rlive"
+            name: "כאן גימל - KAN Gimmel",
+            logo: "stations/images-europe/israel/KAN GIMMEL.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/749625_mp3"
         },
         {
-            name: "כאן תרבות",
-            logo: "stations/images-europe/israel/KAN TARBUT LAM.png",
-            url: "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3?providername=rlive"
-        },
-        {
-            name: "כאן קול המוסיקה",
+            name: "כאן קול המוסיקה - KAN Kol HaMusika",
             logo: "stations/images-europe/israel/KAN Kol HaMusika.png",
-            url: "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3?providername=rlive"
-        },
-        /*
-        {
-            name: "גלגלצ",
-            logo: "stations/images-europe/israel/GLGLZ.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://glglzwizzlv.bynetcdn.com/glglz/glglz_aac/playlist.m3u8?listeningSessionID=591bd9e17b04109d_210307_HwxzCso9_MTAuMTEuMjIuMTI6ODA!_0000000KXO4&downloadSessionID=0"
+            url: "https://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
         },
         {
-            name: "גלי צהל‎‎",
-            logo: "stations/images-europe/israel/GLZ.jpg",
-            url: "https://cors-anywhere.herokuapp.com/http://glzwizzlv.bynetcdn.com/glz/glz_aac/playlist.m3u8?listeningSessionID=591bd9e17b04109d_210307_HwxzCso9_MTAuMTEuMjIuMTI6ODA!_0000000KXO4&downloadSessionID=0"
+            name: "כאן רקע - KAN Reka",
+            logo: "stations/images-europe/israel/KAN Reka.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/kanreka_mp3"
         },
-        */
         {
-            name: "FMרדיוס 100",
-            logo: "stations/images-europe/israel/FMרדיוס 100.png",
+            name: "כאן מורשת - KAN Moreshet",
+            logo: "stations/images-europe/israel/KAN Moreshet.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
+        },
+        {
+            name: "כאן תרבות - KAN Tarbut",
+            logo: "stations/images-europe/israel/KAN Tarbut.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
+        },
+        {
+            name: "רדיו מַכַּאן - Radio Makan",
+            logo: "stations/images-europe/israel/Radio Makan.png",
+            url: "https://kanliveicy.media.kan.org.il/icy/makan_mp3"
+        },
+        {
+            name: "גלגלצ - GalGalatz",
+            logo: "stations/images-europe/israel/GalGalatz.png",
+            url: "https://glzwizzlv.bynetcdn.com/glglz_mp3"
+        },
+        {
+            name: "מנגן עכשיו‎‎ - Galei Zahal",
+            logo: "stations/images-europe/israel/Galei Zahal.png",
+            url: "https://glzwizzlv.bynetcdn.com/glz_mp3"
+        },
+        {
+            name: "100FM רדיוס",
+            logo: "stations/images-europe/israel/100FM רדיוס.png",
             url: "https://cp.multix.co.il/100FmLiveVideo/index.m3u8"
         },
     ],
@@ -3420,14 +3423,59 @@ var stations = {
             url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster"
         },
         {
+            name: "BBC Radio Foyle",
+            logo: "stations/images-europe/nireland/BBC Radio Foyle.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle"
+        },
+        {
+            name: "Absolute Classic Rock",
+            logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
+            url: "https://stream-ar.planetradio.co.uk/absoluteclassicrockhigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Cool FM",
+            logo: "stations/images-europe/nireland/Cool FM.png",
+            url: "https://stream-al.planetradio.co.uk/coolfm.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Downtown Radio",
+            logo: "stations/images-europe/nireland/Downtown Radio.png",
+            url: "https://stream-al.planetradio.co.uk/downtown.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Downtown Country",
+            logo: "stations/images-europe/nireland/Downtown Country.png",
+            url: "https://stream-al.planetradio.co.uk/downtowncountry.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Hits Radio",
+            logo: "stations/images-europe/nireland/Hits Radio.png",
+            url: "https://stream-al.planetradio.co.uk/hits.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Hits Radio Pride",
+            logo: "stations/images-europe/nireland/Hits Radio Pride.png",
+            url: "https://stream-al.planetradio.co.uk/hitsradiopride.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Greatest Hits Radio",
+            logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
+            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
+            name: "Magic Soul",
+            logo: "stations/images-europe/nireland/Magic Soul.png",
+            url: "https://stream-mz.planetradio.co.uk/magicsoul.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+        },
+        {
             name: "U105",
             logo: "stations/images-europe/nireland/U105.png",
-            url: "http://gbradio.cdn.tibus.net/U105"
+            url: "https://gbradio.cdn.tibus.net/U105"
         },
         {
             name: "Q Radio",
             logo: "stations/images-europe/nireland/Q Radio.png",
-            url: "http://tx.sharp-stream.com/http_live.php?i=qr967.mp3&device=rpweb"
+            url: "https://direct-qradio.sharp-stream.com/qr1060.mp3"
         },
     ],
     "norway": [
@@ -4002,6 +4050,56 @@ var stations = {
             name: "BBC Radio nan Gàidheal",
             logo: "stations/images-europe/scotland/BBC Radio nan Gàidheal.png",
             url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal"
+        },
+        {
+            name: "Capital FM Scotland",
+            logo: "stations/images-europe/scotland/Capital FM Scotland.png",
+            url: "https://media-ssl.musicradio.com/CapitalGlasgow"
+        },
+        {
+            name: "Central FM",
+            logo: "stations/images-europe/scotland/Central FM.png",
+            url: "https://webradio.radiomonitor.com/stream/CentralFM"
+        },
+        {
+            name: "Go Radio",
+            logo: "stations/images-europe/scotland/Go Radio.png",
+            url: "https://streaming.broadcastradio.com:8252/goradio"
+        },
+        {
+            name: "Kingdom FM",
+            logo: "stations/images-europe/scotland/Kingdom FM.png",
+            url: "https://listen-kingdomfm.sharp-stream.com/kingdomfm.mp3"
+        },
+        {
+            name: "Nation Radio Scotland",
+            logo: "stations/images-europe/scotland/Nation Radio Scotland.png",
+            url: "https://edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac"
+        },
+        {
+            name: "Pure Radio",
+            logo: "stations/images-europe/scotland/Pure Radio.png",
+            url: "https://listen-pureradio.sharp-stream.com/pure_radio.mp3"
+        },
+        {
+            name: "Scottish Sun 80s",
+            logo: "stations/images-europe/scotland/Scottish Sun 80s.png",
+            url: "https://gbradio.cdn.tibus.net/80SSUN"
+        },
+        {
+            name: "Scottish Sun Chilled",
+            logo: "stations/images-europe/scotland/Scottish Sun Hits.png",
+            url: "https://gbradio.cdn.tibus.net/SUNGRTHITS"
+        },
+        {
+            name: "Scottish Sun Hits",
+            logo: "stations/images-europe/scotland/Scottish Sun Hits.png",
+            url: "https://gbradio.cdn.tibus.net/SUNHITS"
+        },
+        {
+            name: "Virgin Radio Groove",
+            logo: "stations/images-europe/scotland/Virgin Radio Groove.png",
+            url: "https://radio.virginradio.co.uk/stream-groove"
         },
     ],
     "serbia": [
@@ -5102,7 +5200,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "Capital FM",
@@ -5132,7 +5230,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "Gold Radio",
@@ -5167,22 +5265,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "https://stream-al.planetradio.co.uk/heat.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-al.planetradio.co.uk/heat.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "LBC",
@@ -5197,7 +5295,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1644694577&aw_0_1st.bauer_loggedin=false"
+            url: "https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "Radio X",
