@@ -1,13 +1,48 @@
 var stations = {
     "aland": [
         {
+            name: "SR P1",
+            logo: "stations/images-europe/sweden/Sveriges Radio P1.png",
+            url: "http://http-live.sr.se/p1-mp3-192"
+        },
+        {
+            name: "SR P2",
+            logo: "stations/images-europe/sweden/Sveriges Radio P2.png",
+            url: "http://http-live.sr.se/p2-mp3-192"
+        },
+        {
+            name: "SR P3",
+            logo: "stations/images-europe/sweden/Sveriges Radio P3.png",
+            url: "http://http-live.sr.se/p3-mp3-192"
+        },
+        {
+            name: "Yle Vega",
+            logo: "stations/images-europe/finland/YLE Vega.png",
+            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8"
+        },
+        {
+            name: "Yle X3M",
+            logo: "stations/images-europe/finland/Yle X3M.png",
+            url: "https://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8"
+        },
+        {
             name: "Ålands Radio",
             logo: "stations/images-europe/aland/Ålands Radio.png",
             url: "https://stream.alandsradio.ax/stream.ogg"
         },
         {
+            name: "Mix Megapol",
+            logo: "stations/images-europe/sweden/Mix Megapol.png",
+            url: "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp"
+        },
+        {
+            name: "Rockklassiker",
+            logo: "stations/images-europe/sweden/Rockklassiker.png",
+            url: "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp"
+        },
+        {
             name: "Steel FM",
-            logo: "stations/images-europe/aland/Steel FM.jpg",
+            logo: "stations/images-europe/aland/Steel FM.png",
             url: "https://ice6.securenetsystems.net/STEELFM"
         },
     ],
