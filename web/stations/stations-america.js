@@ -38359,6 +38359,113 @@ var stations_canada = {
             url: "http://s1.hotdogradio.com/CKLM"
         },
     ],
+    "london": [
+        {
+            name: "Pure Country 93",
+            logo: "stations/images-america/canada/london/Pure Country 93.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBXFMAAC_SC"
+        },
+        {
+            name: "CBC Radio One 93.5",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+        },
+        {
+            name: "94.9 Radio Western",
+            logo: "stations/images-america/canada/london/94.9 Radio Western.png",
+            url: "https://949fm.ca/stream"
+        },
+        {
+            name: "FM96",
+            logo: "stations/images-america/canada/london/FM96.png",
+            url: "https://corus.leanstream.co/CFPLFM"
+        },
+        {
+            name: "CHYM 96.7",
+            logo: "stations/images-america/canada/london/CHYM 96.7.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/kit967.stream/icy"
+        },
+        {
+            name: "97.5 Virgin Radio",
+            logo: "stations/images-america/canada/london/97.5 Virgin Radio.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIQMFMAAC_SC"
+        },
+        {
+            name: "Classic Rock 98.1",
+            logo: "stations/images-america/canada/london/Classic Rock 98.1.png",
+            url: "https://blackburn-ais.leanstream.co/CKLOFM"
+        },
+        {
+            name: "ICI Musique 99.3",
+            logo: "stations/images-america/canada/ICI Musique.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
+        },
+        {
+            name: "faith FM 99.9",
+            logo: "stations/images-america/canada/london/faith FM 99.9.png",
+            url: "https://ice7.securenetsystems.net/CHJXFM"
+        },
+        {
+            name: "CBC Music 100.5",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+        },
+        {
+            name: "Easy 101.3",
+            logo: "stations/images-america/canada/london/Easy 101.3.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/til1013.stream/icy"
+        },
+        {
+            name: "JACK 102.3",
+            logo: "stations/images-america/canada/london/JACK 102.3.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/lon1023.stream/icy"
+        },
+        {
+            name: "103.1 fresh Radio",
+            logo: "stations/images-america/canada/london/103.1 fresh Radio.png",
+            url: "https://corus.leanstream.co/CFHKFM"
+        },
+        {
+            name: "Country 104",
+            logo: "stations/images-america/canada/london/Country 104.png",
+            url: "https://corus.leanstream.co/CKDKFM"
+        },
+        {
+            name: "104.7 Heart FM",
+            logo: "stations/images-america/canada/london/104.7 Heart FM.png",
+            url: "https://ais-sa1.streamon.fm/7135_48k.aac"
+        },
+        {
+            name: "Heart FM Rewind 104.7-HD2",
+            logo: "stations/images-america/canada/london/Heart FM Rewind 104.7-HD2.png",
+            url: "https://stream2.statsradio.com:8104/stream"
+        },
+        {
+            name: "106.9 The X",
+            logo: "stations/images-america/canada/london/106.9 The X.png",
+            url: "https://ice23.securenetsystems.net/CIXXFM"
+        },
+        {
+            name: "Country 107.3",
+            logo: "stations/images-america/canada/london/Country 107.3.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/til1073.stream/icy"
+        },
+        {
+            name: "CityNews 570",
+            logo: "stations/images-america/canada/london/CityNews 570.png",
+            url: "https://rogers-hls.leanstream.co/rogers/kit570.stream/icy"
+        },
+        {
+            name: "980 CFPL",
+            logo: "stations/images-america/canada/london/980 CFPL.png",
+            url: "https://corus.leanstream.co/CFPLAM-MP3"
+        },
+        {
+            name: "1290 CJBK",
+            logo: "stations/images-america/canada/london/1290 CJBK.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBKAMAAC_SC"
+        },
+    ],
     "maniwaki": [
         {
             name: "ICI Musique 91.1",
@@ -39879,7 +39986,7 @@ var stations_canada = {
         {
             name: "FLOW 98.7",
             logo: "stations/images-america/canada/toronto/FLOW 98.7.png",
-            url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CFXJFM"
+            url: "https://ice64.securenetsystems.net/CKFG"
         },
         {
             name: "CBC Radio One 99.1",

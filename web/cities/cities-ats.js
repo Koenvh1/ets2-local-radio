@@ -8004,6 +8004,12 @@ var country_properties_canada = {
         code: "ca-sk",
         relative_radius: 1.2
     },
+    "london": {
+        name: "London",
+        name_english: "London",
+        code: "ca-on",
+        relative_radius: 0.8
+    },
     "maniwaki": {
         name: "Maniwaki",
         name_english: "Maniwaki",
@@ -8334,6 +8340,9 @@ var city_properties_canada = {
     },
     "lloydminster": {
         relative_whitenoise: 0.95
+    },
+    "london": {
+        relative_whitenoise: 0.85
     },
     "maniwaki": {
         relative_whitenoise: 0.85
@@ -8715,6 +8724,14 @@ var cities_canada = [
         "x": "-47007",
         "y": "178.246",
         "z": "-86748.3"
+    },
+    {
+        "gameName": "london",
+        "realName": "London",
+        "country": "london",
+        "x": "59810.2",
+        "y": "39.5732",
+        "z": "-28415.4"
     },
     {
         "gameName": "maniwaki",
