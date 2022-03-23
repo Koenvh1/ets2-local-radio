@@ -7834,7 +7834,7 @@ var country_properties_canada = {
         name: "Chapleau",
         name_english: "Chapleau",
         code: "ca-on",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "dawsoncreek": {
         name: "Dawson Creek",
@@ -8058,6 +8058,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 1.2
     },
+    "north_bay": {
+        name: "North Bay",
+        name_english: "North Bay",
+        code: "ca-on",
+        relative_radius: 0.7
+    },
     "osoyoos": {
         name: "Osoyoos",
         name_english: "Osoyoos",
@@ -8070,11 +8076,17 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 1.0
     },
+    "owensound": {
+        name: "Owen Sound",
+        name_english: "Owen Sound",
+        code: "ca-on",
+        relative_radius: 0.8
+    },
     "parrysound": {
         name: "Parry Sound",
         name_english: "Parry Sound",
         code: "ca-on",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "pemberton": {
         name: "Pemberton",
@@ -8164,7 +8176,7 @@ var country_properties_canada = {
         name: "Sudbury",
         name_english: "Sudbury",
         code: "ca-on",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "squamish": {
         name: "Squamish",
@@ -8368,10 +8380,16 @@ var city_properties_canada = {
     "nakina": {
         relative_whitenoise: 0.95
     },
+    "north_bay": {
+        relative_whitenoise: 0.85
+    },
     "osoyoos": {
         relative_whitenoise: 0.85
     },
     "ottawa": {
+        relative_whitenoise: 0.85
+    },
+    "owensound": {
         relative_whitenoise: 0.85
     },
     "parrysound": {
@@ -8790,6 +8808,14 @@ var cities_canada = [
         "z": "-48357.2"
     },
     {
+        "gameName": "north_bay",
+        "realName": "North Bay",
+        "country": "north_bay",
+        "x": "63927.5",
+        "y": "35.4557",
+        "z": "-47243.8"
+    },
+    {
         "gameName": "nakina",
         "realName": "Nakina",
         "country": "nakina",
@@ -8812,6 +8838,14 @@ var cities_canada = [
         "x": "81267",
         "y": "99.2305",
         "z": "-46320.4"
+    },
+    {
+        "gameName": "owensound",
+        "realName": "Owen Sound",
+        "country": "owensound",
+        "x": "59307.3",
+        "y": "53.8012",
+        "z": "-36299.4"
     },
     {
         "gameName": "parrysound",
@@ -8937,7 +8971,7 @@ var cities_canada = [
         "gameName": "sudbury",
         "realName": "Sudbury",
         "country": "sudbury",
-        "x": "59362.2",
+        "x": "56362.2",
         "y": "87.5352",
         "z": "-47613.1"
     },

@@ -31876,9 +31876,9 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFBCHD2AAC_SC"
         },
         {
-            name: "ESPN Upstate 97.7",
-            logo: "stations/images-america/c2c/greenville_sc/ESPN Upstate 97.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WORDAMAAC_SC"
+            name: "The Fan Upstate 97.7",
+            logo: "stations/images-america/c2c/greenville_sc/The Fan Upstate 97.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wyrdamaac-hlsc.m3u8"
         },
         {
             name: "HOT 98.1",
@@ -37905,7 +37905,7 @@ var stations_canada = {
         },
         {
             name: "CHIM 102.7",
-            logo: "stations/images-america/canada/iroquoisfall/CHIM 102.7.png",
+            logo: "stations/images-america/canada/CHIM.png",
             url: "https://ice7.securenetsystems.net/CHIMFM"
         },
     ],
@@ -38877,6 +38877,53 @@ var stations_canada = {
             url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
         },
     ],
+    "north_bay": [
+        {
+            name: "Country 90.5",
+            logo: "stations/images-america/canada/north_bay/Country 90.5.png",
+            url: "https://vistaradio.streamb.live/SB00101"
+        },
+        {
+            name: "CHIM 92.5",
+            logo: "stations/images-america/canada/CHIM.png",
+            url: "https://ice7.securenetsystems.net/CHIMFM"
+        },
+        {
+            name: "ICI Première 95.1",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR"
+        },
+        {
+            name: "CBC Radio One 96.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+        },
+        {
+            name: "KiSS 100.5",
+            logo: "stations/images-america/canada/north_bay/KiSS 100.5.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor1005.stream/icy"
+        },
+        {
+            name: "101.9 ROCK",
+            logo: "stations/images-america/canada/north_bay/101.9 ROCK.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy"
+        },
+        {
+            name: "KFM 103.5",
+            logo: "stations/images-america/canada/KFM.png",
+            url: "https://us2.streamingpulse.com/ssl/KFM"
+        },
+        {
+            name: "106.3 Moose FM",
+            logo: "stations/images-america/canada/north_bay/106.3 Moose FM.png",
+            url: "https://vistaradio.streamb.live/SB00100"
+        },
+        {
+            name: "Country 600",
+            logo: "stations/images-america/canada/north_bay/Country 600.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
+        },
+    ],
     "osoyoos": [
         {
             name: "Moody Radio 89.3",
@@ -39034,6 +39081,73 @@ var stations_canada = {
             name: "TSN 1200",
             logo: "stations/images-america/canada/ottawa/TSN 1200.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
+        },
+    ],
+    "owensound": [
+        {
+            name: "CFRH 88.1",
+            logo: "stations/images-america/canada/owensound/CFRH 88.1.png",
+            url: "https://stream2.statsradio.com:8030/stream"
+        },
+        {
+            name: "Bounce 92.3",
+            logo: "stations/images-america/canada/owensound/Bounce 92.3.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJOSFMAAC_SC"
+        },
+        {
+            name: "Country 93",
+            logo: "stations/images-america/canada/owensound/Country 93.png",
+            url: "https://bayshore-ais.leanstream.co/CKYCFM"
+        },
+        {
+            name: "Cool 94.5",
+            logo: "stations/images-america/canada/owensound/Cool 94.5.png",
+            url: "https://blackburn-ais.leanstream.co/CIBUFM"
+        },
+        {
+            name: "CBC Music 97.1",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+        },
+        {
+            name: "CBC Radio One 98.7",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+        },
+        {
+            name: "Life 100.3",
+            logo: "stations/images-america/canada/owensound/Life 100.3.png",
+            url: "https://netstream.lifeonline.fm/CJLF/ogg_high"
+        },
+        {
+            name: "101.7 The One",
+            logo: "stations/images-america/canada/owensound/101.7 The One.png",
+            url: "https://blackburn-ais.leanstream.co/CKNXFM"
+        },
+        {
+            name: "Classical 102.9",
+            logo: "stations/images-america/canada/owensound/Classical 102.9.png",
+            url: "https://live.wostreaming.net/direct/mzmedia-cfmzfmmp3-ibc2"
+        },
+        {
+            name: "Mix 106.5",
+            logo: "stations/images-america/canada/owensound/mix 106.5.png",
+            url: "https://bayshore-ais.leanstream.co/CIXKFM"
+        },
+        {
+            name: "560 CFOS",
+            logo: "stations/images-america/canada/owensound/560 CFOS.png",
+            url: "https://bayshore-ais.leanstream.co/CFOSAM"
+        },
+        {
+            name: "Zoomer Radio 740",
+            logo: "stations/images-america/canada/toronto/Zoomer Radio.png",
+            url: "https://live.wostreaming.net/direct/mzmedia-cfzmamaac1-ibc2"
+        },
+        {
+            name: "CKNX AM 920",
+            logo: "stations/images-america/canada/owensound/CKNX AM 920.png",
+            url: "https://blackburn-ais.leanstream.co/CKNXAM"
         },
     ],
     "parrysound": [
@@ -39633,7 +39747,7 @@ var stations_canada = {
         },
         {
             name: "CHIM 97.3",
-            logo: "stations/images-america/canada/iroquoisfall/CHIM 102.7.png",
+            logo: "stations/images-america/canada/CHIM.png",
             url: "https://ice7.securenetsystems.net/CHIMFM"
         },
         {
@@ -39804,7 +39918,7 @@ var stations_canada = {
         },
         {
             name: "CHIM 101.7",
-            logo: "stations/images-america/canada/iroquoisfall/CHIM 102.7.png",
+            logo: "stations/images-america/canada/CHIM.png",
             url: "https://ice7.securenetsystems.net/CHIMFM"
         },
         {
