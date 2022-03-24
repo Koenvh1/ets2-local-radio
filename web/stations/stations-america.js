@@ -38924,6 +38924,93 @@ var stations_canada = {
             url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
         },
     ],
+    "orillia": [
+        {
+            name: "CFRH 88.1",
+            logo: "stations/images-america/canada/owensound/CFRH 88.1.png",
+            url: "https://stream2.statsradio.com:8030/stream"
+        },
+        {
+            name: "LITE 88.5",
+            logo: "stations/images-america/canada/toronto/Lite 88.5.png",
+            url: "https://ice23.securenetsystems.net/CKDX"
+        },
+        {
+            name: "89.1 Max FM",
+            logo: "stations/images-america/canada/orillia/89.1 Max FM.png",
+            url: "https://bayshore-ais.leanstream.co/CISOFM"
+        },
+        {
+            name: "CBC Music 90.7",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+        },
+        {
+            name: "CBC Radio One 99.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+        },
+        {
+            name: "93.1 fresh Radio",
+            logo: "stations/images-america/canada/orillia/93.1 fresh Radio.png",
+            url: "https://corus.leanstream.co/CHAYFM"
+        },
+        {
+            name: "K Country 93.7",
+            logo: "stations/images-america/canada/orillia/K Country 93.7.png",
+            url: "https://torres.leanstream.co/CKOUFM-MP3"
+        },
+        {
+            name: "ROCK 95",
+            logo: "stations/images-america/canada/orillia/ROCK 95.png",
+            url: "https://cob-ais.leanstream.co/CFJBFM"
+        },
+        {
+            name: "Life 100.3",
+            logo: "stations/images-america/canada/owensound/Life 100.3.png",
+            url: "https://netstream.lifeonline.fm/CJLF/ogg_high"
+        },
+        {
+            name: "101.1 BIG FM",
+            logo: "stations/images-america/canada/orillia/101.1 BIG FM.png",
+            url: "https://corus.leanstream.co/CIQBFM"
+        },
+        {
+            name: "Bounce Radio 104.1",
+            logo: "stations/images-america/canada/orillia/Bounce Radio 104.1.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICZFMAAC_SC"
+        },
+        {
+            name: "Pure Country 106",
+            logo: "stations/images-america/canada/orillia/Pure Country 106.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICXFMAAC_SC"
+        },
+        {
+            name: "107.5 KOOL FM",
+            logo: "stations/images-america/canada/orillia/107.5 KOOL FM.png",
+            url: "https://cob-ais.leanstream.co/CKMBFM"
+        },
+        {
+            name: "590 The Fan",
+            logo: "stations/images-america/canada/toronto/590 The Fan.png",
+            url: "https://rogers-hls.leanstream.co/rogers/tor590.stream/icy"
+        },
+        {
+            name: "Zoomer Radio 740",
+            logo: "stations/images-america/canada/toronto/Zoomer Radio.png",
+            url: "https://live.wostreaming.net/direct/mzmedia-cfzmamaac1-ibc2"
+        },
+        {
+            name: "NewsTalk 1010",
+            logo: "stations/images-america/canada/toronto/NewsTalk 1010.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC_SC"
+        },
+        {
+            name: "TSN 1050",
+            logo: "stations/images-america/canada/toronto/TSN 1050.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
+        },
+    ],
     "osoyoos": [
         {
             name: "Moody Radio 89.3",

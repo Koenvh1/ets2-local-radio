@@ -8064,6 +8064,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 0.7
     },
+    "orillia": {
+        name: "Orillia",
+        name_english: "Orillia",
+        code: "ca-on",
+        relative_radius: 0.5
+    },
     "osoyoos": {
         name: "Osoyoos",
         name_english: "Osoyoos",
@@ -8086,7 +8092,7 @@ var country_properties_canada = {
         name: "Parry Sound",
         name_english: "Parry Sound",
         code: "ca-on",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "pemberton": {
         name: "Pemberton",
@@ -8381,6 +8387,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "north_bay": {
+        relative_whitenoise: 0.85
+    },
+    "orillia": {
         relative_whitenoise: 0.85
     },
     "osoyoos": {
@@ -8824,6 +8833,14 @@ var cities_canada = [
         "z": "-66400.7"
     },
     {
+        "gameName": "orillia",
+        "realName": "Orillia",
+        "country": "orillia",
+        "x": "67028.8",
+        "y": "28.5181",
+        "z": "-38455.8"
+    },
+    {
         "gameName": "osoyoos",
         "realName": "Osoyoos",
         "country": "osoyoos",
@@ -8852,8 +8869,8 @@ var cities_canada = [
         "realName": "Parry Sound",
         "country": "parrysound",
         "x": "65455.3",
-        "y": "104.055",
-        "z": "-41134.3"
+        "y": "194.055",
+        "z": "-42134.3"
     },
     {
         "gameName": "pemberton",
