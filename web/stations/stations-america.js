@@ -4274,7 +4274,7 @@ var stations = {
         {
             name: "Studio 100.9",
             logo: "stations/images-america/indio/Studio 100.9.png",
-            url: "https://shaincast.caster.fm:12645/listen.mp3?authne9987d985f17b7ec5442bbe00bef0867"
+            url: "https://shaincast.caster.fm:12645/listen.mp3?authnc86ee71a30c661bd87fd324bda20172d"
         },
         {
             name: "101.3 The Mix",
@@ -32383,11 +32383,6 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDEFFMAAC_SC"
         },
         {
-            name: "NoogaRadio 92.7",
-            logo: "stations/images-america/c2c/chattanooga_tn/NoogaRadio 92.7.png",
-            url: "https://s6.voscast.com:7163/stream"
-        },
-        {
             name: "G93",
             logo: "stations/images-america/c2c/chattanooga_tn/G93.png",
             url: "https://live.wostreaming.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
@@ -32411,6 +32406,11 @@ var stations_c2c = {
             name: "REAL 96.1",
             logo: "stations/images-america/c2c/chattanooga_tn/Real 96.1.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2AAC_SC"
+        },
+        {
+            name: "NoogaRadio 96.9",
+            logo: "stations/images-america/c2c/chattanooga_tn/NoogaRadio 96.9.png",
+            url: "https://s6.voscast.com:7163/stream"
         },
         {
             name: "Q 97.3",
