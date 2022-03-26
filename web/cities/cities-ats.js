@@ -8068,7 +8068,7 @@ var country_properties_canada = {
         name: "Orillia",
         name_english: "Orillia",
         code: "ca-on",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "osoyoos": {
         name: "Osoyoos",
@@ -8092,7 +8092,7 @@ var country_properties_canada = {
         name: "Parry Sound",
         name_english: "Parry Sound",
         code: "ca-on",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "pemberton": {
         name: "Pemberton",

@@ -39239,14 +39239,24 @@ var stations_canada = {
     ],
     "parrysound": [
         {
-            name: "CBC Radio One 91.5",
+            name: "CBC Radio One 89.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
         },
         {
+            name: "Rez 91",
+            logo: "stations/images-america/canada/parrysound/Rez 91.png",
+            url: "http://192.99.14.49:9009/stream"
+        },
+        {
             name: "103.3 Moose FM",
             logo: "stations/images-america/canada/parrysound/103.3 Moose FM.png",
-            url: "http://s1.hotdogradio.com/CKLP"
+            url: "https://vistaradio.streamb.live/SB00114"
+        },
+        {
+            name: "CBC Music 106.9",
+            logo: "stations/images-america/c2c/detroit_mi/CBC Music 89.9.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor"
         },
     ],
     "pemberton": [
