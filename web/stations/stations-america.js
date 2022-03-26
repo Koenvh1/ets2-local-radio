@@ -5873,7 +5873,7 @@ var stations = {
         {
             name: "URadio 690",
             logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://76.79.188.95:8000/ulive.mp3"
+            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "710 ESPN",
@@ -6603,7 +6603,7 @@ var stations = {
         {
             name: "KYAQ 91.7",
             logo: "stations/images-america/newport/KYAQ 91.7.png",
-            url: "https://sixminutes.com:9000/kyaq_64"
+            url: "https://kpftx.org:9000/kyaq"
         },
         {
             name: "U92 Country",
@@ -8242,7 +8242,7 @@ var stations = {
         {
             name: "URadio 690",
             logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://76.79.188.95:8000/ulive.mp3"
+            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "KBRT 740",
@@ -9728,7 +9728,7 @@ var stations = {
         {
             name: "URadio 690",
             logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://76.79.188.95:8000/ulive.mp3"
+            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "760 AM",
@@ -10473,7 +10473,7 @@ var stations = {
         {
             name: "103.5 The Vibe",
             logo: "stations/images-america/show_low/103.5 The Vibe.png",
-            url: "http://1035thevibe.com:8190/vibe22"
+            url: "http://1035thevibe.com:8190/vibe"
         },
         {
             name: "105.5 KSNX",
@@ -11573,7 +11573,7 @@ var stations = {
         {
             name: "URadio 690",
             logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://76.79.188.95:8000/ulive.mp3"
+            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "Talk 960",
