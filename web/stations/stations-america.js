@@ -9076,8 +9076,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7350_48k.aac"
         },
         {
-            name: "105.5 KOOL FM",
-            logo: "stations/images-america/salt_lake/105.5 KOOL FM.png",
+            name: "KOOL FM 105.1-HD2",
+            logo: "stations/images-america/salt_lake/KOOL FM 105.1-HD2.png",
             url: "https://ais-sa1.streamon.fm/7730_48k.aac"
         },
         {
@@ -18948,6 +18948,11 @@ var stations_c2c = {
             name: "102.7 WBOW",
             logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOWFMAAC_SC"
+        },
+        {
+            name: "104.3 The Party",
+            logo: "stations/images-america/c2c/terre_haute_in/104.3 The Party.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://cromwell-us.streamguys1.com/WCBHFM"
         },
         {
             name: "104.9 WAXI",
@@ -38946,11 +38951,6 @@ var stations_canada = {
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
         },
         {
-            name: "CBC Radio One 99.1",
-            logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
-        },
-        {
             name: "93.1 fresh Radio",
             logo: "stations/images-america/canada/orillia/93.1 fresh Radio.png",
             url: "https://corus.leanstream.co/CHAYFM"
@@ -38964,6 +38964,11 @@ var stations_canada = {
             name: "ROCK 95",
             logo: "stations/images-america/canada/orillia/ROCK 95.png",
             url: "https://cob-ais.leanstream.co/CFJBFM"
+        },
+        {
+            name: "CBC Radio One 99.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
         },
         {
             name: "Life 100.3",
@@ -40011,7 +40016,7 @@ var stations_canada = {
         {
             name: "Hits 100",
             logo: "stations/images-america/canada/sudbury/Hits 100.png",
-            url: "https://stream.rcast.net/63090"
+            url: "https://sboucher.radioca.st/stream"
         },
         {
             name: "CHIM 101.7",
@@ -40027,6 +40032,11 @@ var stations_canada = {
             name: "KiSS 105.3",
             logo: "stations/images-america/canada/sudbury/KiSS 105.3.png",
             url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/sud1053.stream/icy"
+        },
+        {
+            name: "Country 600",
+            logo: "stations/images-america/canada/north_bay/Country 600.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
         },
     ],
     "squamish": [

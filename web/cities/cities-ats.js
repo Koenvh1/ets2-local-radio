@@ -8092,7 +8092,7 @@ var country_properties_canada = {
         name: "Parry Sound",
         name_english: "Parry Sound",
         code: "ca-on",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "pemberton": {
         name: "Pemberton",
