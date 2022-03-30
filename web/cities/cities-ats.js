@@ -1192,7 +1192,7 @@ var city_properties = {
         relative_whitenoise: 0.90
     },
     "monterey": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "santa_fe": {
         relative_radius: 0.7,

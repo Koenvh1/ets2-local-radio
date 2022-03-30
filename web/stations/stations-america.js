@@ -148,7 +148,7 @@ var stations = {
             url: "https://ice3.securenetsystems.net/KIDX"
         },
         {
-            name: "Alamo Sports + Talk 101.9",
+            name: "Alamo Sports & Talk 101.9",
             logo: "stations/images-america/alamogordo/Alamo Sports_Talk 101.9.png",
             url: "https://ice41.securenetsystems.net/KRSYAM"
         },
@@ -1273,7 +1273,7 @@ var stations = {
         {
             name: "Power 98",
             logo: "stations/images-america/mexico/mexicali/Power 98.png",
-            url: "http://s4.mexside.net:2126/;"
+            url: "http://s4.mexside.net:2126/;stream.mp3"
         },
         {
             name: "La Tricolor 99.3",
@@ -9908,7 +9908,7 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "103.7 80s+",
+            name: "103.7 80s",
             logo: "stations/images-america/san_francisco/103.7 80s.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
@@ -11853,7 +11853,7 @@ var stations = {
         {
             name: "Power 98",
             logo: "stations/images-america/mexico/mexicali/Power 98.png",
-            url: "http://s4.mexside.net:2126/;"
+            url: "http://s4.mexside.net:2126/;stream.mp3"
         },
         {
             name: "KYMZ 99.9",
@@ -12544,7 +12544,7 @@ var stations_mexico = {
         {
             name: "Power 98",
             logo: "stations/images-america/mexico/mexicali/Power 98.png",
-            url: "http://s4.mexside.net:2126/;"
+            url: "http://s4.mexside.net:2126/;stream.mp3"
         },
         {
             name: "FM Globo 101.9",
@@ -33352,6 +33352,11 @@ var stations_c2c = {
             name: "101.9 The Bull",
             logo: "stations/images-america/c2c/amarillo_tx/101.9 The Bull.png",
             url: "https://live.wostreaming.net/manifest/townsquare-katpfmaac-ibc3"
+        },
+        {
+            name: "Worship 24-7 102.3",
+            logo: "stations/images-america/c2c/amarillo_tx/Worship 24-7 102.3.png",
+            url: "http://worship247.streamguys1.com/live-aac-web"
         },
         {
             name: "WE 102.9",
