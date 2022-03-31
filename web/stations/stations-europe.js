@@ -542,17 +542,17 @@ var stations = {
     ],
     "bulgaria": [
         {
-            name: "БНР Хоризонт - BNR Horizont",
+            name: "БНР Хоризонт",
             logo: "stations/images-europe/bulgaria/БНР Хоризонт.png",
             url: "http://edge13.cdn.bg:2032/fls/Horizont.stream/playlist.m3u8"
         },
         {
-            name: "БНР Христо Ботев - BNR Hristo Botev",
+            name: "БНР Христо Ботев",
             logo: "stations/images-europe/bulgaria/БНР Христо Ботев.png",
             url: "http://edge12.cdn.bg:2032/fls/HrBotev.stream/playlist.m3u8"
         },
         {
-            name: "БГ Радио - BG Radio",
+            name: "БГ Радио",
             logo: "stations/images-europe/bulgaria/БГ Радио.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_L_SC"
         },
@@ -597,7 +597,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CITYAAC_L_SC"
         },
         {
-            name: "Радио Фокус - Radio Focus",
+            name: "Радио Фокус",
             logo: "stations/images-europe/bulgaria/Радио Фокус.png",
             url: "http://online.focus-radio.net:8100/sofia"
         },
@@ -607,12 +607,12 @@ var stations = {
             url: "http://193.108.24.21:8000/fresh?file=.mp3"
         },
         {
-            name: "Радио Веселина - Radio Veselina",
+            name: "Радио Веселина",
             logo: "stations/images-europe/bulgaria/Радио Веселина.png",
             url: "https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8"
         },
         {
-            name: "Радио Витоша - Radio Vitosha",
+            name: "Радио Витоша",
             logo: "stations/images-europe/bulgaria/Радио Витоша.png",
             url: "https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8"
         },
@@ -1489,12 +1489,12 @@ var stations = {
     ],
     "georgia": [
         {
-            name: "რადიო 1 - Radio 1",
+            name: "რადიო 1",
             logo: "stations/images-europe/georgia/რადიო 1.png",
             url: "https://tv.cdn.xsg.ge/gpb-radio1/index.m3u8"
         },
         {
-            name: "იმედი - Imedi",
+            name: "იმედი",
             logo: "stations/images-europe/georgia/იმედი.png",
             url: "http://188.93.95.83/radioimedi/stream01/index.m3u8"
         },
@@ -1504,7 +1504,7 @@ var stations = {
             url: "http://188.93.95.83/cld9-0386/avtoradio/index.m3u8"
         },
         {
-            name: "არ დაიდარდო - Ardaidardo",
+            name: "არ დაიდარდო",
             logo: "stations/images-europe/georgia/არ დაიდარდო.png",
             url: "http://188.93.95.83/cld9-0386/ardaidardo/index.m3u8"
         },
@@ -1519,22 +1519,22 @@ var stations = {
             url: "http://188.93.95.83/cld9-0386/fortunaplus/index.m3u8"
         },
         {
-            name: "მთავარი გვერდი - Odishi +",
+            name: "მთავარი გვერდი",
             logo: "stations/images-europe/georgia/მთავარი გვერდი.png",
             url: "https://live.radio.odishi.ge/odishi.mp3"
         },
         {
-            name: "პირველი რადიო - Pirveli Radio",
+            name: "პირველი რადიო",
             logo: "stations/images-europe/georgia/პირველი რადიო.png",
             url: "http://178.134.47.58:88/broadwave.mp3"
         },
         {
-            name: "რადიო აჭარა - Radio Ajara",
+            name: "რადიო აჭარა",
             logo: "stations/images-europe/georgia/რადიო აჭარა.png",
             url: "https://listen.mixlr.com/1537114d30c2620fb2c5ad0ee741af8e"
         },
         {
-            name: "რადიო მაესტროს - Radio Maestro",
+            name: "რადიო მაესტროს",
             logo: "stations/images-europe/georgia/Radio Maestro.png",
             url: "http://nue01-edge01.itdc.ge/fm-maestro-94.7/index.m3u8"
         },
@@ -2640,52 +2640,52 @@ var stations = {
     ],
     "israel": [
         {
-            name: "כאן 88 - KAN 88",
+            name: "כאן 88",
             logo: "stations/images-europe/israel/KAN 88.png",
             url: "https://kanliveicy.media.kan.org.il/icy/749623_mp3"
         },
         {
-            name: "כאן ב - KAN Bet",
+            name: "כאן ב",
             logo: "stations/images-europe/israel/KAN BET.png",
             url: "https://kanliveicy.media.kan.org.il/icy/749624_mp3"
         },
         {
-            name: "כאן גימל - KAN Gimmel",
+            name: "כאן גימל",
             logo: "stations/images-europe/israel/KAN GIMMEL.png",
             url: "https://kanliveicy.media.kan.org.il/icy/749625_mp3"
         },
         {
-            name: "כאן קול המוסיקה - KAN Kol HaMusika",
+            name: "כאן קול המוסיקה",
             logo: "stations/images-europe/israel/KAN Kol HaMusika.png",
             url: "https://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
         },
         {
-            name: "כאן רקע - KAN Reka",
+            name: "כאן רקע",
             logo: "stations/images-europe/israel/KAN Reka.png",
             url: "https://kanliveicy.media.kan.org.il/icy/kanreka_mp3"
         },
         {
-            name: "כאן מורשת - KAN Moreshet",
+            name: "כאן מורשת",
             logo: "stations/images-europe/israel/KAN Moreshet.png",
             url: "https://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3"
         },
         {
-            name: "כאן תרבות - KAN Tarbut",
+            name: "כאן תרבות",
             logo: "stations/images-europe/israel/KAN Tarbut.png",
             url: "https://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
         },
         {
-            name: "רדיו מַכַּאן - Radio Makan",
+            name: "רדיו מַכַּאן",
             logo: "stations/images-europe/israel/Radio Makan.png",
             url: "https://kanliveicy.media.kan.org.il/icy/makan_mp3"
         },
         {
-            name: "גלגלצ - GalGalatz",
+            name: "גלגלצ",
             logo: "stations/images-europe/israel/GalGalatz.png",
             url: "https://glzwizzlv.bynetcdn.com/glglz_mp3"
         },
         {
-            name: "מנגן עכשיו‎‎ - Galei Zahal",
+            name: "מנגן עכשיו‎‎",
             logo: "stations/images-europe/israel/Galei Zahal.png",
             url: "https://glzwizzlv.bynetcdn.com/glz_mp3"
         },
@@ -3166,18 +3166,18 @@ var stations = {
     "macedonia": [
         {
             name: "МР1",
-            logo: "stations/images-europe/macedonia/МР.png",
-            url: "https://koenvh.nl/inc/mrt-parser.php?station=47.m3u8"
+            logo: "stations/images-europe/macedonia/MP1.png",
+            url: "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MDc6MzkgUE0maGFzaF92YWx1ZT1UY0NRRmhKRjRkeFhPSmVlRStBM3BnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVkZmRiYTQwYmE="
         },
         {
             name: "МР2",
-            logo: "stations/images-europe/macedonia/МР.png",
-            url: "https://koenvh.nl/inc/mrt-parser.php?station=48.m3u8"
+            logo: "stations/images-europe/macedonia/MP2.png",
+            url: "https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MTA6NTQgUE0maGFzaF92YWx1ZT1taFFYTzNBNnZ2bitReHYzam9zeTZBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVlMDllM2EyYjY="
         },
         {
             name: "МР3",
-            logo: "stations/images-europe/macedonia/МР.png",
-            url: "https://koenvh.nl/inc/mrt-parser.php?station=49.m3u8"
+            logo: "stations/images-europe/macedonia/MP3.png",
+            url: "https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MTI6MzkgUE0maGFzaF92YWx1ZT1aYitoSm1IK1BkLzY4emExTy8vbnZBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVlMTA3MWM4YWQ="
         },
         {
             name: "Antenna 5",
@@ -3185,9 +3185,14 @@ var stations = {
             url: "http://antenna5stream.neotel.mk:8000/live128"
         },
         {
-            name: "Радио Канал 77",
-            logo: "stations/images-europe/macedonia/Радио Канал 77.png",
-            url: "http://kanal77.mk:8088/live.mp3"
+            name: "Jon Radio",
+            logo: "stations/images-europe/macedonia/Jon Radio.png",
+            url: "http://radiostream.neotel.mk:8000/jonradio"
+        },
+        {
+            name: "Канал 77",
+            logo: "stations/images-europe/macedonia/Канал 77.png",
+            url: "https://live.kanal77.com.mk:8089/acc"
         },
         {
             name: "Metropolis Radio",
@@ -3913,17 +3918,17 @@ var stations = {
     ],
     "russia": [
         {
-            name: "Радио России - Radio Rossii",
+            name: "Радио России",
             logo: "stations/images-europe/russia/Радио России - Radio Rossii.png",
             url: "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps"
         },
         {
-            name: "Маяк - Mayak",
+            name: "Маяк",
             logo: "stations/images-europe/russia/Маяк - Mayak.png",
             url: "http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps"
         },
         {
-            name: "Авторадио - Avtoradio",
+            name: "Авторадио",
             logo: "stations/images-europe/russia/Авторадио - Avtoradio.png",
             url: "https://pub0202.101.ru:8443/stream/air/aac/64/100"
         },
@@ -3933,7 +3938,7 @@ var stations = {
             url: "https://pub0201.101.ru:8443/stream/air/aac/64/202"
         },
         {
-            name: "Детское Радио - Detskoe Radio",
+            name: "Детское Радио",
             logo: "stations/images-europe/russia/Детское Радио - Detskoe Radio.png",
             url: "https://pub0201.101.ru:8443/stream/air/aac/64/199"
         },
@@ -3943,12 +3948,12 @@ var stations = {
             url: "https://dfm.hostingradio.ru/dfm96.aacp"
         },
         {
-            name: "Дорожное FM - Dorozhnoe FM",
+            name: "Дорожное FM",
             logo: "stations/images-europe/russia/Дорожное FM - Dorozhnoe FM.png",
             url: "https://hls-01-regions.emgsound.ru/15_msk/playlist.m3u8"
         },
         {
-            name: "Европа Плюс - Europa Plus",
+            name: "Европа Плюс",
             logo: "stations/images-europe/russia/Европа Плюс - Europa Plus.png",
             url: "https://hls-01-regions.emgsound.ru/11_msk/playlist.m3u8"
         },
@@ -3958,12 +3963,12 @@ var stations = {
             url: "http://ic6.101.ru:8000/stream/air/aac/64/99"
         },
         {
-            name: "Хит FM - HIT FM",
+            name: "Хит FM",
             logo: "stations/images-europe/russia/Хит FM - HIT FM.png",
             url: "https://hitfm.hostingradio.ru/hitfm96.aacp"
         },
         {
-            name: "Юмор FM - Humor FM",
+            name: "Юмор FM",
             logo: "stations/images-europe/russia/Юмор FM - Humor FM.png",
             url: "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6"
         },
@@ -3973,12 +3978,12 @@ var stations = {
             url: "https://stream.n340.com/12_love_64"
         },
         {
-            name: "НАШЕ Радио - Nashe Radio",
+            name: "НАШЕ Радио",
             logo: "stations/images-europe/russia/НАШЕ Радио - Nashe Radio.png",
             url: "http://nashe1.hostingradio.ru/nashespb128.mp3"
         },
         {
-            name: "Новое Радио - New Radio",
+            name: "Новое Радио",
             logo: "stations/images-europe/russia/Новое Радио - New Radio.png",
             url: "https://icecast-newradio.cdnvideo.ru/newradio3"
         },
@@ -3988,32 +3993,32 @@ var stations = {
             url: "https://hls-01-regions.emgsound.ru/13_msk/playlist.m3u8"
         },
         {
-            name: "Радио АСТВ - Radio ASTV",
+            name: "Радио АСТВ",
             logo: "stations/images-europe/russia/Радио АСТВ - Radio ASTV.png",
             url: "https://misato.ru-hoster.com:8000/stream"
         },
         {
-            name: "Радио Шансон - Radio Chanson",
+            name: "Радио Шансон",
             logo: "stations/images-europe/russia/Радио Шансон - Radio Chanson.png",
             url: "https://chanson.hostingradio.ru:8041/chanson128.mp3"
         },
         {
-            name: "Радио Дача - Radio Dacha",
+            name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача - Radio Dacha.png",
             url: "https://stream.n340.com/14_dacha_64?type=.aac&UID=4C1E842A7F932A2D53BEA33AA6E64601"
         },
         {
-            name: "Радио Кп - Radio KP",
+            name: "Радио Кп",
             logo: "stations/images-europe/russia/Радио Кп - Radio KP.png",
             url: "https://kpradio.hostingradio.ru:8000/64"
         },
         {
-            name: "Маруся Фм - Marusya FM",
+            name: "Маруся Фм",
             logo: "stations/images-europe/russia/Маруся Фм - Marusya FM.png",
             url: "https://radio-holding.ru:9433/marusya_default"
         },
         {
-            name: "Радио Мир - Radio Mir",
+            name: "Радио Мир",
             logo: "stations/images-europe/russia/Радио Мир - Radio Mir.png",
             url: "https://icecast-mirtv.cdnvideo.ru/radio_mir128"
         },
@@ -4028,32 +4033,32 @@ var stations = {
             url: "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8"
         },
         {
-            name: "Радио ВАНЯ - Radio Vanya",
+            name: "Радио ВАНЯ",
             logo: "stations/images-europe/russia/Радио ВАНЯ - Radio Vanya.png",
             url: "https://icecast-radiovanya.cdnvideo.ru/radiovanya"
         },
         {
-            name: "Радио ВЕРА - Radio Vera",
+            name: "Радио ВЕРА",
             logo: "stations/images-europe/russia/Радио ВЕРА - Radio Vera.png",
             url: "https://hls-01-radiovera.hostingradio.ru/rewind/radiovera/playlist.m3u8"
         },
         {
-            name: "Ретро FM - Retro FM",
+            name: "Ретро FM",
             logo: "stations/images-europe/russia/Ретро FM - Retro FM.png",
             url: "https://hls-01-retro.emgsound.ru/12/playlist.m3u8"
         },
         {
-            name: "Русское Радио - Ruskoe Radio",
+            name: "Русское Радио",
             logo: "stations/images-europe/russia/Русское Радио - Ruskoe Radio.png",
             url: "https://rusradio.hostingradio.ru/rusradio96.aacp"
         },
         {
-            name: "Серебряный Дождь - Silver Rain",
+            name: "Серебряный Дождь",
             logo: "stations/images-europe/russia/Серебряный Дождь - Silver Rain.png",
             url: "https://silverrain.hostingradio.ru/silver128.mp3"
         },
         {
-            name: "Вести FM - Vesti FM",
+            name: "Вести FM",
             logo: "stations/images-europe/russia/Вести FM - Vesti FM.png",
             url: "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps"
         },
@@ -5425,7 +5430,7 @@ var stations = {
             url: "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8"
         },
         {
-            name: "Радио NRJ Украина",
+            name: "NRJ Украина",
             logo: "stations/images-europe/ukraine/Energy.png",
             url: "https://cast.radiogroup.com.ua/nrj"
         },
@@ -5489,12 +5494,12 @@ var stations = {
     ],
     "westbank": [
         {
-            name: "راديو أجيال - Ajyal News",
+            name: "راديو أجيال",
             logo: "stations/images-europe/westbank/راديو أجيال.png",
             url: "https://icecast.mada.ps:8495/ajyalnewssl"
         },
         {
-            name: "راديو انغام - Angham",
+            name: "راديو انغام",
             logo: "stations/images-europe/westbank/راديو انغام.png",
             url: "http://streamer.mada.ps:8010/ANGHAM"
         },
@@ -5504,27 +5509,27 @@ var stations = {
             url: "http://streamer.mada.ps:8027/onefm"
         },
         {
-            name: "راديو كلاسيك - Classic Radio",
+            name: "راديو كلاسيك",
             logo: "stations/images-europe/westbank/راديو كلاسيك.png",
             url: "http://streamer.mada.ps:8037/classic"
         },
         {
-            name: "راديو الموسيقى - Music Radio",
+            name: "راديو الموسيقى",
             logo: "stations/images-europe/westbank/راديو الموسيقى.png",
             url: "http://streamer.mada.ps:8039/musiconly"
         },
         {
-            name: "راديو طرب - Tarab",
+            name: "راديو طرب",
             logo: "stations/images-europe/westbank/راديو طرب.png",
             url: "http://streamer.mada.ps:8012/tarab"
         },
         {
-            name: "راديو رام الله - Radio Ramallah",
+            name: "راديو رام الله",
             logo: "stations/images-europe/westbank/راديو رام الله.png",
             url: "http://streamer.mada.ps:8031/radioramallah"
         },
         {
-            name: "راديو رام الله للقران الكريم - Quran FM",
+            name: "راديو رام الله للقران الكريم",
             logo: "stations/images-europe/westbank/راديو رام الله للقران الكريم.png",
             url: "http://streamer.mada.ps:8029/quranfm"
         },
