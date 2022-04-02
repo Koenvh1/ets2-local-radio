@@ -953,19 +953,24 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXIXFM_SC"
         },
         {
-            name: "95.7 FM",
-            logo: "stations/images-america/bend/95.7 FM.png",
+            name: "95.7 The Ranch",
+            logo: "stations/images-america/bend/95.7 The Ranch.png",
             url: "https://live.wostreaming.net/direct/horizonbroadcasting-kltwfmaac-ibc1"
+        },
+        {
+            name: "96.9 The Ticket",
+            logo: "stations/images-america/bend/96.9 The Ticket.png",
+            url: "https://live.wostreaming.net/manifest/horizonbroadcasting-krcoamaac-ibc1"
         },
         {
             name: "98.3 The Twins",
             logo: "stations/images-america/bend/98.3 The Twins.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTWSFMAAC_SC"
+            url: "https://ice5.securenetsystems.net/KTWS"
         },
         {
             name: "99.7 The Bull",
             logo: "stations/images-america/bend/99.7 The Bull.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMTKFMAAC_SC"
+            url: "https://ice5.securenetsystems.net/KMTK"
         },
         {
             name: "100.1 KBND",
@@ -980,7 +985,7 @@ var stations = {
         {
             name: "101.7",
             logo: "stations/images-america/bend/101.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLRRFMAAC_SC"
+            url: "https://ice5.securenetsystems.net/KLRR"
         },
         {
             name: "KSJJ 102.9",
@@ -1005,12 +1010,7 @@ var stations = {
         {
             name: "107.7 The Beat",
             logo: "stations/images-america/bend/107.7 The Beat.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWXSFMAAC_SC"
-        },
-        {
-            name: "690 KRCO",
-            logo: "stations/images-america/bend/690 KRCO.png",
-            url: "https://live.wostreaming.net/manifest/horizonbroadcasting-krcoamaac-ibc1"
+            url: "https://ice5.securenetsystems.net/KWXS"
         },
     ],
     "big_piney": [
@@ -25892,8 +25892,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7323_48k.aac"
         },
         {
-            name: "Power 99",
-            logo: "stations/images-america/c2c/grand_island_ne/Power 99.png",
+            name: "98.9 The Vibe",
+            logo: "stations/images-america/c2c/grand_island_ne/98.9 The Vibe.png",
             url: "https://platteriverradio.broadcasttool.com/kkpr-aac"
         },
         {
@@ -31274,8 +31274,8 @@ var stations_c2c = {
             url: "https://wvmw.streamguys1.com/live"
         },
         {
-            name: "Q92.1",
-            logo: "stations/images-america/c2c/scranton_pa/Q92.1.png",
+            name: "QFM 92.1",
+            logo: "stations/images-america/c2c/scranton_pa/QFM 92.1.png",
             url: "https://ais-sa1.streamon.fm/7248_48k.aac"
         },
         {
