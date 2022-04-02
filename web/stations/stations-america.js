@@ -1969,6 +1969,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
         },
         {
+            name: "Power Talk 1040",
+            logo: "stations/images-america/colorado_springs_pueblo/Power Talk 1040.png",
+            url: "https://ice9.securenetsystems.net/1040KPPF"
+        },
+        {
             name: "Catholic Radio Network 1060",
             logo: "stations/images-america/colorado_springs_pueblo/Catholic Radio Network 1060.png",
             url: "https://ice24.securenetsystems.net/KRCN"
@@ -2397,6 +2402,11 @@ var stations = {
             name: "Altitude 950",
             logo: "stations/images-america/denver/Altitude 950.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEAMAAC_SC"
+        },
+        {
+            name: "Onda 1150",
+            logo: "stations/images-america/denver/Onda 1150.png",
+            url: "https://eu2.fastcast4u.com/proxy/julparra?mp=/;"
         },
         {
             name: "Radio 1190",
@@ -15914,14 +15924,14 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl945/orl945-sgplayer-aac"
         },
         {
+            name: "Power 94.5-HD2",
+            logo: "stations/images-america/c2c/orlando_fl/Power 94.5-HD2.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl953/orl953-sgplayer-aac"
+        },
+        {
             name: "94.9 The Answer",
             logo: "stations/images-america/c2c/orlando_fl/94.9 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WORLAMAAC_SC"
-        },
-        {
-            name: "Power 95.3",
-            logo: "stations/images-america/c2c/orlando_fl/Power 95.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/orl953/orl953-sgplayer-aac"
         },
         {
             name: "HOT 95.9",
