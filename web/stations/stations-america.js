@@ -456,7 +456,7 @@ var stations = {
         {
             name: "OPB 89.7",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "Coast Community Radio 90.9",
@@ -557,7 +557,7 @@ var stations = {
         {
             name: "OPB 88.9",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "91.9 KESY",
@@ -940,7 +940,7 @@ var stations = {
         {
             name: "OPB 91.3",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "92.9 FM",
@@ -1342,7 +1342,7 @@ var stations = {
         {
             name: "OPB 90.1",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "Effect Radio 90.5",
@@ -4490,7 +4490,7 @@ var stations = {
         {
             name: "OPB 90.9",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "KBLD 91.7",
@@ -4860,7 +4860,7 @@ var stations = {
         {
             name: "OPB 88.7",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "Effect Radio 90.3",
@@ -7349,7 +7349,7 @@ var stations = {
         {
             name: "OPB 91.5",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "92.3 KGON",
@@ -10999,7 +10999,7 @@ var stations = {
         {
             name: "OPB 89.7",
             logo: "stations/images-america/0_general_logos/OPB.png",
-            url: "https://stream5.opb.org/radio.mp3"
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
             name: "NWPR Classical 90.5",
