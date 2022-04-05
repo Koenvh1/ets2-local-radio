@@ -31722,9 +31722,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6875/hls.m3u8"
         },
         {
-            name: "Star 93.7",
-            logo: "stations/images-america/c2c/florence_sc/Star 93.7.png",
-            url: "https://cb.streamguys1.com/wsim.aac"
+            name: "93.7 Frank FM",
+            logo: "stations/images-america/c2c/florence_sc/93.7 Frank FM.png",
+            url: "https://cb.streamguys1.com/wsim-hd3.aac"
         },
         {
             name: "Magic 94.3",
@@ -31735,6 +31735,11 @@ var stations_c2c = {
             name: "Live 95.3",
             logo: "stations/images-america/c2c/florence_sc/Live 95.3.png",
             url: "https://cb.streamguys1.com/wfrk.aac"
+        },
+        {
+            name: "Star 97.1",
+            logo: "stations/images-america/c2c/florence_sc/Star 97.1.png",
+            url: "https://cb.streamguys1.com/wsim.aac"
         },
         {
             name: "Rock 97.9",
