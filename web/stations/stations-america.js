@@ -9823,8 +9823,8 @@ var stations = {
             url: "http://streams.kpfa.org:8000/kpfa"
         },
         {
-            name: "94.5 KBAY",
-            logo: "stations/images-america/san_francisco/94.5 KBAY.png",
+            name: "Bay Country 94.5",
+            logo: "stations/images-america/san_francisco/Bay Country 94.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kbayfmaac-ibc4"
         },
         {
