@@ -32627,6 +32627,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/forevercomm-wlyefmaac-ibc4"
         },
         {
+            name: "News Talk West TN 94.5",
+            logo: "stations/images-america/c2c/jackson_tn/News Talk West TN 94.5.png",
+            url: "https://s5.radio.co/s8ead4734f/low"
+        },
+        {
             name: "94.7 WOJG",
             logo: "stations/images-america/c2c/jackson_tn/94.7 WOJG.png",
             url: "https://ais-sa1.streamon.fm/7742_96k.aac"
