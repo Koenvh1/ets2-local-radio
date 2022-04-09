@@ -38084,7 +38084,7 @@ var stations_canada = {
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada/kelowna/99.9 Virgin Radio.png",
-            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC_SC"
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHSUFMAAC_SC"
         },
         {
             name: "New Country 100.7",
