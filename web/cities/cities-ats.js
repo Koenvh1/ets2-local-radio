@@ -737,6 +737,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.6
     },
+    "tacoma": {
+        name: "Tacoma",
+        name_english: "Tacoma",
+        code: "us-wa",
+        relative_radius: 0.7
+    },
     "the_dalles": {
         name: "The Dalles",
         name_english: "The Dalles",
@@ -1234,6 +1240,10 @@ var city_properties = {
     },
     "susanv": {
         relative_whitenoise: 0.95
+    },
+    "tacoma": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.85
     },
     "the_dalles": {
         relative_whitenoise: 0.85
@@ -2031,6 +2041,22 @@ var cities = [
         "x": "-104350",
         "y": "96.7465",
         "z": "-51491.9"
+    },
+    {
+        "gameName": "tacoma",
+        "realName": "Tacoma",
+        "country": "tacoma",
+        "x": "-100595",
+        "y": "80",
+        "z": "-60834.9"
+    },
+    {
+        "gameName": "tacoma",
+        "realName": "Tacoma",
+        "country": "seattle",
+        "x": "-100595",
+        "y": "80",
+        "z": "-60834.9"
     },
     {
         "gameName": "the_dalles",

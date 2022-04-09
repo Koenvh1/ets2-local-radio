@@ -948,6 +948,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXFFM_SC"
         },
         {
+            name: "Worship 24-7 93.7",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "http://worship247.streamguys1.com/live-aac-web"
+        },
+        {
             name: "Power 94",
             logo: "stations/images-america/bend/Power 94.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXIXFM_SC"
@@ -1482,6 +1487,11 @@ var stations = {
             name: "My Country 95.5",
             logo: "stations/images-america/casper/My Country 95.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kwyyfmaac-ibc3"
+        },
+        {
+            name: "96.3 KRKY",
+            logo: "stations/images-america/fort_collins/98.3 KRKY.png",
+            url: "https://ice9.securenetsystems.net/KRKYFM"
         },
         {
             name: "Rock 96.7",
@@ -10985,6 +10995,18 @@ var stations = {
             url: "https://ic1.sslstream.com/kvip"
         },
     ],
+    "tacoma": [
+        {
+            name: "KTQA 95.3",
+            logo: "stations/images-america/tacoma/KTQA 95.3.png",
+            url: "https://stream.ktqa.org/ktqa.mp3"
+        },
+        {
+            name: "Radio Tacoma 101.9",
+            logo: "stations/images-america/tacoma/Radio Tacoma 101.9.png",
+            url: "https://stream.radiotacoma.org/ktah.mp3"
+        },
+    ],
     "the_dalles": [
         {
             name: "All Classical 88.1",
@@ -15369,8 +15391,8 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/WWUS"
         },
         {
-            name: "104.9 The X",
-            logo: "stations/images-america/c2c/key_west_fl/104.9 The X.png",
+            name: "104.9 Barefoot Radio",
+            logo: "stations/images-america/c2c/key_west_fl/104.9 Barefoot Radio.png",
             url: "https://ice9.securenetsystems.net/WXKW"
         },
         {
@@ -33390,7 +33412,7 @@ var stations_c2c = {
         },
         {
             name: "Worship 24-7 102.3",
-            logo: "stations/images-america/c2c/amarillo_tx/Worship 24-7 102.3.png",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
             url: "http://worship247.streamguys1.com/live-aac-web"
         },
         {
