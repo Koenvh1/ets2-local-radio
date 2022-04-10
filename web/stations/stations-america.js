@@ -10322,8 +10322,8 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAMAAC_SC"
         },
         {
-            name: "1090 KJR",
-            logo: "stations/images-america/seattle/1090 KJR.png",
+            name: "1090 The Patriot",
+            logo: "stations/images-america/seattle/1090 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc7747/hls.m3u8"
         },
         {
@@ -10355,6 +10355,11 @@ var stations = {
             name: "KXPA 1540",
             logo: "stations/images-america/seattle/KXPA 1540.png",
             url: "http://kxparadio.serverroom.us:5852/;"
+        },
+        {
+            name: "AM 1590 The Answer",
+            logo: "stations/images-america/seattle/AM 1590 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLFEAMAAC_SC"
         },
         {
             name: "1620 KYIZ",
