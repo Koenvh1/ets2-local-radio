@@ -3735,7 +3735,7 @@ var stations = {
             url: "https://waw.ic.smcdn.pl/1380-1.aac"
         },
         {
-            name: "Radio ZET",
+            name: "RadioZET",
             logo: "stations/images-europe/poland/Radio Zet.png",
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx"
         },
@@ -3750,7 +3750,7 @@ var stations = {
             url: "http://lodz.radio.pionier.net.pl:8000/pl/tuba9-1.mp3"
         },
         {
-            name: "RMF",
+            name: "RMF FM",
             logo: "stations/images-europe/poland/RMF.png",
             url: "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48"
         },
@@ -3765,7 +3765,7 @@ var stations = {
             url: "https://rs203-krk-cyfronet.rmfstream.pl/RMFCLASSIC48"
         },
         {
-            name: "Tok FM",
+            name: "TOK FM",
             logo: "stations/images-europe/poland/Tok FM.png",
             url: "https://pl-play.adtonos.com/tok-fm"
         },
