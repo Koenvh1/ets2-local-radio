@@ -9843,16 +9843,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc305/hls.m3u8"
         },
         {
-            name: "Evolution 94.9-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
-        },
-        {
-            name: "95.3 KRTY",
-            logo: "stations/images-america/san_francisco/95.3 KRTY.png",
-            url: "https://live.wostreaming.net/manifest/empirebroadcasting-krtyfmaac-ibc1"
-        },
-        {
             name: "95.7 The Game",
             logo: "stations/images-america/san_francisco/95.7 The Game.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KGMZFMAAC_SC"
@@ -9928,7 +9918,7 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "103.7 80s",
+            name: "103.7 80s Plus",
             logo: "stations/images-america/san_francisco/103.7 80s.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
@@ -9961,11 +9951,6 @@ var stations = {
             name: "106.1 KMEL",
             logo: "stations/images-america/san_francisco/106.1 KMEL.png",
             url: "https://stream.revma.ihrhls.com/zc293/hls.m3u8"
-        },
-        {
-            name: "AT40 106.1-HD2",
-            logo: "stations/images-america/san_francisco/AT40 106.1-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4802/hls.m3u8"
         },
         {
             name: "Mix 106.5",
@@ -14609,7 +14594,12 @@ var stations_c2c = {
             url: "http://146.71.118.220:35050/stream"
         },
         {
-            name: "‎102.9 The Whale",
+            name: "102.5",
+            logo: "stations/images-america/c2c/hartford_ct/‎102.5.png",
+            url: "https://crystalout.surfernetwork.com:8001/WBOM-AM_MP3"
+        },
+        {
+            name: "102.9 The Whale",
             logo: "stations/images-america/c2c/hartford_ct/102.9 The Whale.png",
             url: "https://crystalout.surfernetwork.com:8001/WDRC-FM_MP3"
         },
