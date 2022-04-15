@@ -3004,7 +3004,7 @@ var stations = {
     ], 
     "flagstaff": [
         {
-            name: "Classical KNAU 88.7",
+            name: "KNAU 88.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
@@ -4558,11 +4558,6 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KUJFM"
         },
         {
-            name: "101.1 La Ley",
-            logo: "stations/images-america/kennewick_pendleton/101.1 La Ley.png",
-            url: "https://ice10.securenetsystems.net/LALEY"
-        },
-        {
             name: "102.7 KORD",
             logo: "stations/images-america/kennewick_pendleton/102.7 KORD.png",
             url: "https://live.wostreaming.net/direct/townsquare-kordfmaac-ibc3"
@@ -4667,7 +4662,7 @@ var stations = {
     ],
     "kingman": [
         {
-            name: "Classical KNAU 89.3",
+            name: "KNAU 89.3",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
@@ -6929,7 +6924,7 @@ var stations = {
     ],
     "page": [
         {
-            name: "Classical KNAU 91.7",
+            name: "KNAU 91.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
@@ -10486,7 +10481,7 @@ var stations = {
     ],
     "show_low": [
         {
-            name: "Classical KNAU 90.7",
+            name: "KNAU 90.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
@@ -29382,6 +29377,11 @@ var stations_c2c = {
             name: "Rewind 103.5",
             logo: "stations/images-america/c2c/columbus_oh/Rewind 103.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wnndfmaac-ibc2"
+        },
+        {
+            name: "Country 103.9",
+            logo: "stations/images-america/c2c/columbus_oh/Country 103.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/nabco-wjkrfmaac-ibc4"
         },
         {
             name: "Throwback 105.3",
