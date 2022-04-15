@@ -4672,9 +4672,49 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
         },
         {
+            name: "K-LOVE 89.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KFLG 94.7",
+            logo: "stations/images-america/kingman/KFLG 94.7.png",
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdmbWFhYy1pYmMz"
+        },
+        {
             name: "95.5 Jack FM",
             logo: "stations/images-america/kingman/95.5 Jack FM.png",
             url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
+        },
+        {
+            name: "KAAA 97.5",
+            logo: "stations/images-america/kingman/KAAA 97.5.png",
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWthYWFhbWFhYy1pYmMz"
+        },
+        {
+            name: "Lucky 98 FM",
+            logo: "stations/images-america/kingman/Lucky 98 FM.png",
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtsdWtmbWFhYy1pYmMz"
+        },
+        {
+            name: "KGPS 98.7",
+            logo: "stations/images-america/kingman/KGPS 98.7.png",
+            url: "http://live.str3am.com:2330/live"
+        },
+        {
+            name: "K-STAR Legends 99.3",
+            logo: "stations/images-america/kingman/K-STAR Legends 99.3.png",
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdhbWFhYy1pYmMz"
+        },
+        {
+            name: "Air1 101.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "Nash 102.3",
+            logo: "stations/images-america/kingman/Nash 102.3.png",
+            url: "https://ic2.sslstream.com/kjjj-fm"
         },
         {
             name: "SOS Radio 103.1",
@@ -4685,6 +4725,11 @@ var stations = {
             name: "Jammin' 105.7",
             logo: "stations/images-america/las_vegas/Jammin' 105.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOASFMAAC_SC"
+        },
+        {
+            name: "The Knack 107.1",
+            logo: "stations/images-america/kingman/The Knack 107.1.png",
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
         },
         {
             name: "Star 107.9",
@@ -5191,8 +5236,8 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLUCFMAAC_SC"
         },
         {
-            name: "98.5-HD2 Da Shaka",
-            logo: "stations/images-america/las_vegas/98.5-HD2 Da Shaka.png",
+            name: "98.5-HD2 The Fan",
+            logo: "stations/images-america/las_vegas/98.5-HD2 The Fan.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLUCHD2AAC_SC"
         },
         {
@@ -9898,8 +9943,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "Q102.1",
-            logo: "stations/images-america/san_francisco/Q102.1.png",
+            name: "102 JAMS",
+            logo: "stations/images-america/san_francisco/102 JAMS.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRBQFMAAC_SC"
         },
         {
@@ -25279,9 +25324,29 @@ var stations_c2c = {
     ],
     "butte": [
         {
+            name: "Family Radio 88.9",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+        },
+        {
+            name: "K-LOVE 89.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "YNOP 90.5",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
             name: "MTPR 91.3",
             logo: "stations/images-america/0_general_logos/MTPR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
+        },
+        {
+            name: "Air1 91.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "92.5 KAAR",
@@ -33486,6 +33551,11 @@ var stations_c2c = {
             name: "Lucy 93.3",
             logo: "stations/images-america/c2c/austin_tx/Lucy 93.3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
+        },
+        {
+            name: "The Party! 93.3-HD3",
+            logo: "stations/images-america/c2c/austin_tx/The Party! 93.3-HD3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3AAC_SC"
         },
         {
             name: "93.7 KLBJ",
