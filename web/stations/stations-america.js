@@ -4697,8 +4697,8 @@ var stations = {
             url: "http://live.str3am.com:2330/live"
         },
         {
-            name: "K-STAR Legends 99.3",
-            logo: "stations/images-america/kingman/K-STAR Legends 99.3.png",
+            name: "K-STAR 99.3",
+            logo: "stations/images-america/kingman/K-STAR 99.3.png",
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdhbWFhYy1pYmMz"
         },
         {
