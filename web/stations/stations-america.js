@@ -10523,7 +10523,7 @@ var stations = {
         {
             name: "103.5 The Vibe",
             logo: "stations/images-america/show_low/103.5 The Vibe.png",
-            url: "http://1035thevibe.com:8190/vibe"
+            url: "http://1035thevibe.com:8190/vibe22"
         },
         {
             name: "105.5 KSNX",
