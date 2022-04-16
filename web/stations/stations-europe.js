@@ -300,14 +300,14 @@ var stations = {
             url: "https://stream2.datacenter.by/stalica"
         },
         {
-            name: "Радио BA",
+            name: "Радио Би-Эй",
             logo: "stations/images-europe/belarus/Радио BA.png",
-            url: "http://93.125.106.180:8000/BA128?1531145287388.mp3"
+            url: "https://air.radioba.by:8443/ba"
         },
         {
             name: "Радио Минск",
             logo: "stations/images-europe/belarus/Радио Минск.jpg",
-            url: "http://93.84.113.142:8000/radio"
+            url: "http://178.172.236.179:8000/mk128"
         },
         {
             name: "Радио Мир",
@@ -547,12 +547,12 @@ var stations = {
         {
             name: "БНР Хоризонт",
             logo: "stations/images-europe/bulgaria/БНР Хоризонт.png",
-            url: "http://edge13.cdn.bg:2032/fls/Horizont.stream/playlist.m3u8"
+            url: "https://e106-ts.evpn.bg/2032/2032/fls/Horizont.stream/playlist.m3u8"
         },
         {
             name: "БНР Христо Ботев",
             logo: "stations/images-europe/bulgaria/БНР Христо Ботев.png",
-            url: "http://edge12.cdn.bg:2032/fls/HrBotev.stream/playlist.m3u8"
+            url: "https://e106-ts.evpn.bg/2032/2032/fls/HrBotev.stream/playlist.m3u8"
         },
         {
             name: "БГ Радио",
@@ -562,7 +562,7 @@ var stations = {
         {
             name: "Bulgaria ON AIR",
             logo: "stations/images-europe/bulgaria/Bulgaria ON AIR.png",
-            url: "http://edge15.cdn.bg:2006/fls/onair.stream/playlist.m3u8"
+            url: "https://live.radio.bgonair.bg/RadioBOA"
         },
         {
             name: "Darik",
@@ -612,12 +612,12 @@ var stations = {
         {
             name: "Радио Веселина",
             logo: "stations/images-europe/bulgaria/Радио Веселина.png",
-            url: "https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8"
+            url: "https://bss1.neterra.tv/veselina/veselina.m3u8"
         },
         {
             name: "Радио Витоша",
             logo: "stations/images-europe/bulgaria/Радио Витоша.png",
-            url: "https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8"
+            url: "https://bss1.neterra.tv/vitosha/vitosha.m3u8"
         },
         {
             name: "Z-ROCK",
@@ -3086,7 +3086,7 @@ var stations = {
         {
             name: "extra FM",
             logo: "stations/images-europe/lithuania/extra FM.png",
-            url: "https://82.135.234.195:8443/extrafm.aac"
+            url: "https://82.135.234.195:8443/extrafm.mp3"
         },
         {
             name: "Gold FM",
@@ -3166,7 +3166,7 @@ var stations = {
             url: "http://81.92.238.33/;"
         },
     ],
-    "macedonia": [
+    "macedonia": [/*
         {
             name: "МР1",
             logo: "stations/images-europe/macedonia/MP1.png",
@@ -3181,7 +3181,7 @@ var stations = {
             name: "МР3",
             logo: "stations/images-europe/macedonia/MP3.png",
             url: "https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MTI6MzkgUE0maGFzaF92YWx1ZT1aYitoSm1IK1BkLzY4emExTy8vbnZBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVlMTA3MWM4YWQ="
-        },
+        },*/
         {
             name: "Antenna 5",
             logo: "stations/images-europe/macedonia/Antenna 5.png",
@@ -3309,7 +3309,7 @@ var stations = {
         {
             name: "Radio Micul Samaritean",
             logo: "stations/images-europe/moldova/Radio Micul Samaritean.png",
-            url: "http://162.251.160.26:80/stream"
+            url: "https://s5.radio.co/sfff7b7e97/listen"
         },
         {
             name: "Radio Noroc",
@@ -3330,12 +3330,12 @@ var stations = {
             name: "Russkoe Radio Moldova",
             logo: "stations/images-europe/moldova/Russkoe Radio Moldova.png",
             url: "http://live.ruradio.md:8000/ruradio"
-        },
+        },/*
         {
             name: "Vocea Basarabiei",
             logo: "stations/images-europe/moldova/Vocea Basarabiei.png",
             url: "https://vobook.ru:8080/live.noroc.tv:8000/radiovb_96kb"
-        },
+        },*/
     ],
     "netherlands": [
         {
@@ -3431,7 +3431,7 @@ var stations = {
         {
             name: "Radio Maria",
             logo: "stations/images-europe/netherlands/Radio Maria.png",
-            url: "http://87.233.180.73:8000/;stream.mp3"
+            url: "https://stream.radiomaria.nl/mp3"
         },
         {
             name: "Radio Veronica",
@@ -3473,42 +3473,42 @@ var stations = {
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "https://stream-ar.planetradio.co.uk/absoluteclassicrockhigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-ar.planetradio.co.uk/absoluteclassicrockhigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "https://stream-al.planetradio.co.uk/coolfm.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-al.planetradio.co.uk/coolfm.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "https://stream-al.planetradio.co.uk/downtown.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-al.planetradio.co.uk/downtown.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "https://stream-al.planetradio.co.uk/downtowncountry.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-al.planetradio.co.uk/downtowncountry.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/nireland/Hits Radio.png",
-            url: "https://stream-al.planetradio.co.uk/hits.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-al.planetradio.co.uk/hits.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/nireland/Hits Radio Pride.png",
-            url: "https://stream-al.planetradio.co.uk/hitsradiopride.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-al.planetradio.co.uk/hitsradiopride.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "https://stream-mz.planetradio.co.uk/magicsoul.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-mz.planetradio.co.uk/magicsoul.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "U105",
@@ -5243,7 +5243,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Capital FM",
@@ -5273,7 +5273,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Gold Radio",
@@ -5308,22 +5308,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "https://stream-al.planetradio.co.uk/heat.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-al.planetradio.co.uk/heat.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "LBC",
@@ -5338,7 +5338,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://stream-mz.planetradio.co.uk/magicnational.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1650120992"
         },
         {
             name: "Radio X",
