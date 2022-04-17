@@ -665,6 +665,18 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "san_clemente": {
+        name: "San Clemente",
+        name_english: "San Clemente",
+        code: "us-ca",
+        relative_radius: 0.4
+    },
+    "san_diego": {
+        name: "San Diego",
+        name_english: "San Diego",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
     "santa_fe": {
         name: "Santa Fe",
         name_english: "Santa Fe",
@@ -682,12 +694,6 @@ var country_properties = {
         name_english: "Santa Rosa",
         code: "us-nm",
         relative_radius: 0.8
-    },
-    "san_diego": {
-        name: "San Diego",
-        name_english: "San Diego",
-        code: "us-ca",
-        relative_radius: 0.7
     },
     "san_francisco": {
         name: "San Francisco",
@@ -1221,6 +1227,10 @@ var city_properties = {
     "santa_rosa_nm": {
         relative_whitenoise: 0.85
     },
+    "san_clemente": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.85
+    },
     "san_diego": {
         relative_whitenoise: 0.80
     },
@@ -1692,6 +1702,14 @@ var cities = [
         "x": "-39338.3",
         "y": "79.4758",
         "z": "21093.7"
+    },
+    {
+        "gameName": "san_clemente",
+        "realName": "San Clemente",
+        "country": "los_angeles",
+        "x": "-100884",
+        "y": "1.70155",
+        "z": "19845.3"
     },
     {
         "gameName": "san_diego",
@@ -2201,9 +2219,9 @@ var cities = [
         "gameName": "cedar_city",
         "realName": "Cedar City",
         "country": "cedar_city",
-        "x": "-73887.1",
+        "x": "-74187.1",
         "y": "124.221",
-        "z": "-2243.96"
+        "z": "-2143.96"
     },
     {
         "gameName": "logan",
@@ -2693,7 +2711,7 @@ var country_properties_mexico = {
         name: "Tijuana",
         name_english: "Tijuana",
         code: "mx-bcn",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "jalpa": {
         name: "Jalpa",
@@ -2903,7 +2921,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.95
     },
     "tijuana": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "mexicali": {
         relative_whitenoise: 0.85
@@ -3185,10 +3203,10 @@ var cities_mexico = [
     {
         "gameName": "tijuana",
         "realName": "Tijuana",
-        "country": "tijuana",
+        "country": "san_diego",
         "x": "-99184.2",
         "y": "49.7773",
-        "z": "26196.8"
+        "z": "27196.8"
     },
     {
         "gameName": "mexicali",
@@ -3300,7 +3318,7 @@ var cities_mexico = [
         "country": "ensenada",
         "x": "-98139.2",
         "y": "50.1133",
-        "z": "29962.7"
+        "z": "30962.7"
     },
     {
         "gameName": "la_paz",
