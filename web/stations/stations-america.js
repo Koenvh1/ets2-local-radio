@@ -12818,7 +12818,7 @@ var stations_mexico = {
         {
             name: "Switch 88.9FM",
             logo: "stations/images-america/mexico/sinaloa/switch.png",
-            url: "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_5539_stream_603657811"
+            url: "https://tv.radiohosting.online:8112/stream"
         },
         {
             name: "Radio Sinaloa",
@@ -37377,7 +37377,7 @@ var stations_canada = {
         {
             name: "CKDR 92.7",
             logo: "stations/images-america/canada/dryden/CKDR 92.7.png",
-            url: "http://ckdr.streamon.fm:8000/CKDR-48k.aac"
+            url: "https://ais-sa1.streamon.fm/7231_128k.aac"
         },
         {
             name: "CBC Radio One 100.9",
@@ -37429,7 +37429,7 @@ var stations_canada = {
         {
             name: "92.5 The Chuck",
             logo: "stations/images-america/canada/edmonton/92.5 The Chuck.png",
-            url: "http://live.leanstream.co/CKNGFM-MP3"
+            url: "https://corus.leanstream.co/CKNGFM-MP3"
         },
         {
             name: "CBC Radio One 93.9",
@@ -37504,7 +37504,7 @@ var stations_canada = {
         {
             name: "103.9 CISN Country",
             logo: "stations/images-america/canada/edmonton/103.9 CISN Country.png",
-            url: "http://live.leanstream.co/CISNFM-MP3"
+            url: "https://corus.leanstream.co/CISNFM"
         },
         {
             name: "104.9 Virgin Radio",
@@ -37529,12 +37529,12 @@ var stations_canada = {
         {
             name: "630 CHED",
             logo: "stations/images-america/canada/edmonton/630 CHED.png",
-            url: "http://live.leanstream.co/CHEDAM-MP3"
+            url: "https://corus.leanstream.co/CHEDAM-MP3"
         },
         {
             name: "Global News 880",
             logo: "stations/images-america/canada/edmonton/Global News 880 Edmonton.png",
-            url: "http://live.leanstream.co/CHQTAM-MP3"
+            url: "https://corus.leanstream.co/CHQTAM-MP3"
         },
         {
             name: "TSN 1260",
@@ -37920,7 +37920,7 @@ var stations_canada = {
         {
             name: "CKHT 94.5",
             logo: "stations/images-america/canada/hearst/CKHT 94.5.png",
-            url: "http://s1.hotdogradio.com/CKAP"
+            url: "https://vistaradio.streamb.live/SB00104"
         },
     ],
     "highlevel": [
@@ -37974,7 +37974,7 @@ var stations_canada = {
         {
             name: "101.7 CIVL",
             logo: "stations/images-america/canada/hope/101.7 CIVL.png",
-            url: "http://198.162.116.249:8085/live.mp3"
+            url: "https://live.civl.ca:8000/live.mp3"
         },
         {
             name: "Country 107.1",
@@ -38006,7 +38006,7 @@ var stations_canada = {
         {
             name: "106.5 Moose FM",
             logo: "stations/images-america/canada/houstoncan/106.5 Moose FM.png",
-            url: "http://s1.hotdogradio.com/CFBV"
+            url: "https://vistaradio.streamb.live/SB00109"
         },
     ],
     "iroquoisfall": [
@@ -38355,7 +38355,7 @@ var stations_canada = {
         {
             name: "CISN 101.3",
             logo: "stations/images-america/canada/edmonton/103.9 CISN Country.png",
-            url: "http://live.leanstream.co/CISNFM-MP3"
+            url: "https://corus.leanstream.co/CISNFM"
         },
         {
             name: "Lighthouse FM 102.5",
@@ -38382,7 +38382,7 @@ var stations_canada = {
         {
             name: "Country 99",
             logo: "stations/images-america/canada/laclabiche/Country 99.png",
-            url: "https://listenlive.vistaradio.ca/CFNA"
+            url: "https://vistaradio.streamb.live/SB00089"
         },
         {
             name: "CFWE 98.5",
@@ -38402,12 +38402,12 @@ var stations_canada = {
         {
             name: "630 CHED",
             logo: "stations/images-america/canada/edmonton/630 CHED.png",
-            url: "http://live.leanstream.co/CHEDAM-MP3"
+            url: "https://corus.leanstream.co/CHEDAM-MP3"
         },
         {
             name: "Global News 880",
             logo: "stations/images-america/canada/edmonton/Global News 880 Edmonton.png",
-            url: "http://live.leanstream.co/CHQTAM-MP3"
+            url: "https://corus.leanstream.co/CHQTAM-MP3"
         },
         {
             name: "TSN 1260",
@@ -38488,7 +38488,7 @@ var stations_canada = {
         {
             name: "106.1 The Goat",
             logo: "stations/images-america/canada/lloydminster/106.1 The Goat.png",
-            url: "http://s1.hotdogradio.com/CKLM"
+            url: "https://vistaradio.streamb.live/SB00090"
         },
     ],
     "london": [
@@ -38664,7 +38664,7 @@ var stations_canada = {
         {
             name: "93.7 Praise FM",
             logo: "stations/images-america/canada/medicinehat/93.7 Praise FM.png",
-            url: "https://listenlive.vistaradio.ca/CJLT"
+            url: "https://vistaradio.streamb.live/SB00092"
         },
         {
             name: "my96",
@@ -38792,7 +38792,7 @@ var stations_canada = {
         {
             name: "91.9 The Bend",
             logo: "stations/images-america/canada/moncton/91.9 The Bend.png",
-            url: "http://ckni.streamon.fm:8000/CKNI-48k.aac"
+            url: "https://ais-sa1.streamon.fm/7232_128k.aac"
         },
         {
             name: "Codiac 93.5",
@@ -39442,7 +39442,7 @@ var stations_canada = {
         {
             name: "94.3 The Goat",
             logo: "stations/images-america/canada/princegeorge/94.3 The Goat.png",
-            url: "http://s1.hotdogradio.com/CIRX"
+            url: "https://vistaradio.streamb.live/SB00066"
         },
         {
             name: "ICI Première 95.5",
@@ -39452,7 +39452,7 @@ var stations_canada = {
         {
             name: "Country 97",
             logo: "stations/images-america/canada/princegeorge/Country 97.png",
-            url: "http://s1.hotdogradio.com/CJCI"
+            url: "https://vistaradio.streamb.live/SB00040"
         },
         {
             name: "99.3 Rewind Radio",
@@ -39484,7 +39484,7 @@ var stations_canada = {
         {
             name: "Bounce 99.1",
             logo: "stations/images-america/canada/princerupert/Bounce 99.1.png",
-            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHTKFMAAC_SC"
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHTKAMAAC_SC"
         },
         {
             name: "CJFW 101.9",
@@ -39542,8 +39542,8 @@ var stations_canada = {
         },
         {
             name: "Radio Classique 92.7",
-            logo: "stations/images-america/canada/montreal/Radio Classique.png",
-            url: "http://stream.statsradio.com:8004/stream"
+            logo: "stations/images-america/canada/quebec/Radio Classique 92.7.png",
+            url: "https://listen.radioking.com/radio/256885/stream/301510"
         },
         {
             name: "FM93",
@@ -40044,7 +40044,7 @@ var stations_canada = {
         {
             name: "CKAU 90.1",
             logo: "stations/images-america/canada/septiles/CKAU 90.1.png",
-            url: "https://cp13.shoutcheap.com:18065/stream"
+            url: "https://cp13.shoutcheap.com:18005/live"
         },
         {
             name: "Plaisir 94.1",
@@ -40197,7 +40197,7 @@ var stations_canada = {
         {
             name: "Information Radio 90.5",
             logo: "stations/images-america/canada/thunderbay/Information Radio.png",
-            url: "https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_13171_stream"
+            url: "http://freeuk21.listen2myradio.com:36457/;"
         },
         {
             name: "91.5 CKPR",
@@ -40217,7 +40217,7 @@ var stations_canada = {
         {
             name: "99.9 The Bay",
             logo: "stations/images-america/canada/thunderbay/99.9 The Bay.png",
-            url: "http://cjuk.streamon.fm:8000/CJUK-48k.aac"
+            url: "https://ais-sa1.streamon.fm/7237_128k.aac"
         },
         {
             name: "CBC Music 101.7",
@@ -40707,7 +40707,7 @@ var stations_canada = {
         {
             name: "CHON 90.5",
             logo: "stations/images-america/canada/CHON.png",
-            url: "http://stream.nnby.ca:8042/stream"
+            url: "http://64.251.25.76:8001/stream"
         },
         {
             name: "96.1 The Rush",
@@ -40744,7 +40744,7 @@ var stations_canada = {
         {
             name: "CHON 98.1",
             logo: "stations/images-america/canada/CHON.png",
-            url: "http://stream.nnby.ca:8042/stream"
+            url: "http://64.251.25.76:8001/stream"
         },
         {
             name: "Life 100.7",
@@ -40776,12 +40776,12 @@ var stations_canada = {
         {
             name: "97.5 The Goat",
             logo: "stations/images-america/canada/williamslake/97.5 The Goat.png",
-            url: "http://s1.hotdogradio.com/CFFM"
+            url: "https://vistaradio.streamb.live/SB00074"
         },
         {
             name: "570 Cariboo Country",
             logo: "stations/images-america/canada/williamslake/570 Cariboo Country.png",
-            url: "http://s1.hotdogradio.com/CKCQ"
+            url: "https://vistaradio.streamb.live/SB00071"
         },
         {
             name: "CBC Radio One 860",
@@ -40818,7 +40818,7 @@ var stations_canada = {
         {
             name: "93.7 CJNU",
             logo: "stations/images-america/canada/winnipeg/93.7 CJNU.png",
-            url: "http://noasrv.caster.fm:10188/live"
+            url: "http://noasrv.caster.fm:10188/stream"
         },
         {
             name: "94.3 NOW! radio",
@@ -40920,7 +40920,7 @@ var stations_canada = {
         {
             name: "Y95",
             logo: "stations/images-america/canada/yarmouth/Y95.png",
-            url: "http://cjls.streamon.fm:8000/CJLS-48k.aac"
+            url: "https://ais-sa1.streamon.fm/7228_128k.aac"
         },
         {
             name: "CIFA 104.1",
@@ -41424,16 +41424,6 @@ var stations_greatamerica = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
         },
         {
-            name: "Big Jim 93.3",
-            logo: "stations/images-america/great_america/huron_sd/Big Jim 93.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice5.securenetsystems.net/KJRV"
-        },
-        {
-            name: "Tiger 95",
-            logo: "stations/images-america/great_america/huron_sd/Tiger 95.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice8.securenetsystems.net/KIJVAM"
-        },
-        {
             name: "96.9 KDLO",
             logo: "stations/images-america/great_america/huron_sd/96.9 KDLO.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/alphamidwest-kdlofmaac-ibc2"
@@ -41452,11 +41442,6 @@ var stations_greatamerica = {
             name: "Q107.3",
             logo: "stations/images-america/c2c/mitchell_sd/Q107.3.png",
             url: "http://ice7.securenetsystems.net/KQRN"
-        },
-        {
-            name: "KOKK 1210",
-            logo: "stations/images-america/great_america/huron_sd/KOKK 1210.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice8.securenetsystems.net/KOKKAM"
         },
     ],
     "mobridge": [
@@ -41622,7 +41607,7 @@ var stations_greatamerica = {
         {
             name: "KILR 95.9",
             logo: "stations/images-america/great_america/spiritlake/KILR 95.9.png",
-            url: "http://ice5.securenetsystems.net/KILR"
+            url: "https://ais-sa1.streamon.fm/7749_96k.aac"
         },
         {
             name: "KKOJ 97.7",
@@ -41947,7 +41932,7 @@ var stations_caribbean = {
         {
             name: "More 94 FM",
             logo: "stations/images-america/caribbean/nassau/More 94 FM.png",
-            url: "http://icecast.more94fm.com:8000/more94.ogg"
+            url: "http://icecast.more94fm.com:8000/more94.mp3"
         },
         {
             name: "Love 97.5",
@@ -42128,7 +42113,7 @@ var stations_caribbean = {
         {
             name: "Hitz 92",
             logo: "stations/images-america/caribbean/kingston/Hitz 92.png",
-            url: "https://univradio.streamgates.net/univ_radio/rjrhit/playlist.m3u8"
+            url: "https://stream.zeno.fm/mbng1nnyxrquv"
         },
         {
             name: "Newstalk 93 FM",
@@ -42163,7 +42148,7 @@ var stations_caribbean = {
         {
             name: "KOOL 97 FM",
             logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
-            url: "https://listen.mixlr.com/8340e32445467406f57c33b027407ac2"
+            url: "https://listen.mixlr.com/148bb59258ec89f3b0abef504bb8959a"
         },
         {
             name: "Mega Jamz 98 FM",
@@ -42198,7 +42183,7 @@ var stations_caribbean = {
         {
             name: "Fyah 105",
             logo: "stations/images-america/caribbean/kingston/Fyah 105.png",
-            url: "http://live.str3am.com:9210/live.m3u"
+            url: "https://listen.radioking.com/radio/459389/stream/514595"
         },
         {
             name: "Power 106",
@@ -42220,7 +42205,7 @@ var stations_caribbean = {
         {
             name: "Católica Radio 89.1",
             logo: "stations/images-america/caribbean/puerto_rico/Católica Radio.png",
-            url: "http://stream.rarserver.net:8078/catolicapr"
+            url: "https://live.turadio.stream:7017/catolicaradiopr"
         },
         {
             name: "W208AE 89.5",
@@ -42352,7 +42337,7 @@ var stations_caribbean = {
         {
             name: "Hitz 92",
             logo: "stations/images-america/caribbean/kingston/Hitz 92.png",
-            url: "https://univradio.streamgates.net/univ_radio/rjrhit/playlist.m3u8"
+            url: "https://stream.zeno.fm/mbng1nnyxrquv"
         },
         {
             name: "Newstalk 93 FM",
@@ -42377,7 +42362,7 @@ var stations_caribbean = {
         {
             name: "KOOL 97 FM",
             logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
-            url: "https://listen.mixlr.com/8340e32445467406f57c33b027407ac2"
+            url: "https://listen.mixlr.com/148bb59258ec89f3b0abef504bb8959a"
         },
         {
             name: "Love 101 FM",
@@ -42434,7 +42419,7 @@ var stations_caribbean = {
         {
             name: "More 94 FM",
             logo: "stations/images-america/caribbean/nassau/More 94 FM.png",
-            url: "http://icecast.more94fm.com:8000/more94.ogg"
+            url: "http://icecast.more94fm.com:8000/more94.mp3"
         },
         {
             name: "KISS 96",
@@ -42546,7 +42531,7 @@ var stations_caribbean = {
         {
             name: "Radio Victoria 93.1",
             logo: "stations/images-america/caribbean/oranjestad/Radio Victoria 93.1.png",
-            url: "https://stream.zeno.fm/36728pv3tk8uv"
+            url: "https://stream.zeno.fm/702pgnahqchvv"
         },
         {
             name: "HIT 94",
@@ -42591,7 +42576,7 @@ var stations_caribbean = {
         {
             name: "Massive 103.5",
             logo: "stations/images-america/caribbean/oranjestad/Massive 103.5.png",
-            url: "https://streamklik.com/radio/8000/massive.mp3"
+            url: "https://radio.streamklik.com/radio/8000/massive.mp3"
         },
         {
             name: "Fresh FM 104.3",
@@ -42608,17 +42593,12 @@ var stations_caribbean = {
             logo: "stations/images-america/caribbean/oranjestad/Blue FM 107.5.png",
             url: "https://s31.myradiostream.com/7384/listen.mp3"
         },
-        {
-            name: "Radio Z86",
-            logo: "stations/images-america/caribbean/oranjestad/Radio Z86.png",
-            url: "https://ott.streann.com/loadbalancer/services/web-players/radios-reseller-secure/5b059db22cdc3216615630d8/edbab57d-6c24-4435-b6ad-68b601779dfa/osd1scm8rpretuqej90ae0frpt/5afb60fe2cdc911600aff6c5/playlist.m3u8"
-        },
     ],
     "ponce": [
 		{
             name: "Católica Radio 88.9",
             logo: "stations/images-america/caribbean/puerto_rico/Católica Radio.png",
-            url: "http://stream.rarserver.net:8078/catolicapr"
+            url: "https://live.turadio.stream:7017/catolicaradiopr"
         },
         {
             name: "Radio Universidad de Puerto Rico 89.7",
@@ -42775,7 +42755,7 @@ var stations_caribbean = {
 		{
             name: "Melodía Stereo 104.9",
             logo: "stations/images-america/caribbean/puntofijo/Melodía Stereo 104.9.png",
-            url: "https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_7832_stream_817966952"
+            url: "http://freeuk26.listen2myradio.com:8002/;"
         },
 		{
             name: "Kayros 106.3",
