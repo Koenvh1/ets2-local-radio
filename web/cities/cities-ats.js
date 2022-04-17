@@ -299,6 +299,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "hilt": {
+        name: "Hilt",
+        name_english: "Hilt",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
     "hobbs": {
         name: "Hobbs",
         name_english: "Hobbs",
@@ -561,13 +567,13 @@ var country_properties = {
         name: "Red Bluff",
         name_english: "Red Bluff",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "redding": {
         name: "Redding",
         name_english: "Redding",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "reno": {
         name: "Reno",
@@ -1011,6 +1017,10 @@ var city_properties = {
     "greybull": {
         relative_whitenoise: 0.85
     },
+    "hilt": {
+        relative_radius: 0.6,
+        relative_whitenoise: 0.85
+    },
     "hobbs": {
         relative_whitenoise: 0.85
     },
@@ -1149,9 +1159,11 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "redbluff": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "redding": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "reno": {
@@ -1595,12 +1607,28 @@ var cities = [
         "z": "-20492.6"
     },
     {
+        "gameName": "redbluff",
+        "realName": "Red Bluff",
+        "country": "redding",
+        "x": "-112992",
+        "y": "153.224",
+        "z": "-20492.6"
+    },
+    {
         "gameName": "redding",
         "realName": "Redding",
         "country": "redding",
         "x": "-110950",
         "y": "46.3998",
-        "z": "-25872.1"
+        "z": "-24872.1"
+    },
+    {
+        "gameName": "redding",
+        "realName": "Redding",
+        "country": "redbluff",
+        "x": "-110950",
+        "y": "46.3998",
+        "z": "-24872.1"
     },
     {
         "gameName": "reno",
@@ -1857,6 +1885,14 @@ var cities = [
         "x": "-37555",
         "y": "126.43",
         "z": "-31984.8"
+    },
+    {
+        "gameName": "hilt",
+        "realName": "Hilt",
+        "country": "medford",
+        "x": "-110151",
+        "y": "62.8512",
+        "z": "-30511"
     },
     {
         "gameName": "hobbs",

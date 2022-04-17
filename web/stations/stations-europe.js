@@ -1589,6 +1589,11 @@ var stations = {
             url: "https://absolut-bella.live-sm.absolutradio.de/absolut-bella"
         },
         {
+            name: "Absolut Germany",
+            logo: "stations/images-europe/germany/Absolut Germany.png",
+            url: "https://absolut-germany.live-sm.absolutradio.de/absolut-germany"
+        },
+        {
             name: "Absolut HOT",
             logo: "stations/images-europe/germany/Absolut HOT.png",
             url: "https://absolut-hot.live-sm.absolutradio.de/absolut-hot"

@@ -7837,24 +7837,14 @@ var stations = {
     ],
 	"redbluff": [
         {
-            name: "KFOI 90.9",
-            logo: "stations/images-america/redbluff/KFOI 90.9.png",
-            url: "http://75.128.17.88:88/broadwave.mp3"
+            name: "Mix 95.1",
+            logo: "stations/images-america/redbluff/Mix 95.1.png",
+            url: "https://ice10.securenetsystems.net/KMXI"
         },
         {
             name: "95.7 The Wolf",
             logo: "stations/images-america/redbluff/95.7 The Wolf.png",
             url: "https://ice6.securenetsystems.net/KALF"
-        },
-        {
-            name: "Q97",
-            logo: "stations/images-america/redbluff/Q97.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KNCQ2"
-        },
-        {
-            name: "La GranD 97.7",
-            logo: "stations/images-america/redbluff/La GranD 97.7.png",
-            url: "https://bustosradio.com:9020/khhz"
         },
         {
             name: "Radio Mexicana 99.7",
@@ -7876,23 +7866,8 @@ var stations = {
             logo: "stations/images-america/redbluff/106.7 Z-ROCK.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KRQR"
         },
-        {
-            name: "La Z 107.5",
-            logo: "stations/images-america/redbluff/La Z 107.5.png",
-            url: "https://bustosradio.com:9021/kzsz"
-        },
-        {
-            name: "107.9 Urbana",
-            logo: "stations/images-america/redbluff/107.9 Urbana.png",
-            url: "https://ice6.securenetsystems.net/KZSZHD2"
-        },
     ],
     "redding": [
-        {
-            name: "Hella Radio 87.7",
-            logo: "stations/images-america/redding/Hella Radio 87.7.png",
-            url: "https://ice10.securenetsystems.net/KNNN"
-        },
         {
             name: "NSPR 88.9",
             logo: "stations/images-america/redding/North State Public Radio.jpg",
@@ -7922,6 +7897,11 @@ var stations = {
             name: "Power 94.7",
             logo: "stations/images-america/redding/Power 94.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KEWB2"
+        },
+        {
+            name: "XS Sports 96.1",
+            logo: "stations/images-america/redding/XS Sports 96.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KKXS"
         },
         {
             name: "KCNR 96.5",
@@ -8171,6 +8151,11 @@ var stations = {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
+            name: "La Radio Cristiana 91.3",
+            logo: "stations/images-america/0_general_logos/La Radio Cristiana.png",
+            url: "http://s2.voscast.com:9758/;"
         },
         {
             name: "92.7 Qlite",
@@ -33523,6 +33508,11 @@ var stations_c2c = {
             url: "https://kut.streamguys1.com/kuthd2-free.aac"
         },
         {
+            name: "La Radio Cristiana 91.3",
+            logo: "stations/images-america/0_general_logos/La Radio Cristiana.png",
+            url: "http://s2.voscast.com:9758/;"
+        },
+        {
             name: "KOOP Radio 91.7 (Day)",
             logo: "stations/images-america/c2c/austin_tx/KOOP Radio 91.7.png",
             url: "http://streaming.koop.org/stream.aac"
@@ -35327,6 +35317,11 @@ var stations_c2c = {
         },
     ],
     "victoria_tx": [
+        {
+            name: "La Radio Cristiana 90.1",
+            logo: "stations/images-america/0_general_logos/La Radio Cristiana.png",
+            url: "http://s2.voscast.com:9758/;"
+        },
         {
             name: "KEDT 90.7",
             logo: "stations/images-america/c2c/corpus_christi_tx/KEDT 90.3.png",
