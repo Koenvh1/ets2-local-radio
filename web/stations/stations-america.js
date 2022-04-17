@@ -7073,7 +7073,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice42.securenetsystems.net/KOAI"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
         },
         {
             name: "95.5 The Mountain",
@@ -7143,7 +7143,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice42.securenetsystems.net/KZCE"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWkNF"
         },
         {
             name: "LIVE 101.5",
@@ -7183,7 +7183,7 @@ var stations = {
         {
             name: "Mega 104.3",
             logo: "stations/images-america/phoenix/Mega 104.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice5.securenetsystems.net/KAJM"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U1LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tBSk0="
         },
         {
             name: "104.7 KISS FM",
@@ -9432,7 +9432,7 @@ var stations = {
         {
             name: "Jazzy 99.1",
             logo: "stations/images-america/santa_rosa_ca/Jazzy 99.1.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice9.securenetsystems.net/KJZYHD2"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKWllIRDI="
         },
         {
             name: "99.3 The Vine",
@@ -18219,7 +18219,7 @@ var stations_c2c = {
         {
             name: "WGLC 100.1",
             logo: "stations/images-america/c2c/lasalle_il/WGLC 100.1.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice41.securenetsystems.net/WGLC"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0MS5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XR0xD"
         },
         {
             name: "WALLS 102",
@@ -19561,7 +19561,7 @@ var stations_c2c = {
         {
             name: "96.9 KVOE",
             logo: "stations/images-america/c2c/emporia_ks/96.9 KVOE.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice64.securenetsystems.net/KVOE"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U2NC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LVk9F"
         },
         {
             name: "My Country 99.5",
@@ -26637,7 +26637,7 @@ var stations_c2c = {
         {
             name: "100.5 The Drive",
             logo: "stations/images-america/c2c/binghamton_ny/100.5 The Drive.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice24.securenetsystems.net/WDRE"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2UyNC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XRFJF"
         },
         {
             name: "Magic 101.7",
