@@ -7835,38 +7835,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-ktwoamaac-ibc3"
         },
     ],
-	"redbluff": [
-        {
-            name: "Mix 95.1",
-            logo: "stations/images-america/redbluff/Mix 95.1.png",
-            url: "https://ice10.securenetsystems.net/KMXI"
-        },
-        {
-            name: "95.7 The Wolf",
-            logo: "stations/images-america/redbluff/95.7 The Wolf.png",
-            url: "https://ice6.securenetsystems.net/KALF"
-        },
-        {
-            name: "Radio Mexicana 99.7",
-            logo: "stations/images-america/redbluff/Radio Mexicana 99.7.png",
-            url: "https://ice10.securenetsystems.net/KTOR"
-        },
-        {
-            name: "Thunder 100.7",
-            logo: "stations/images-america/redbluff/Thunder 100.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KTHU"
-        },
-        {
-            name: "Power 102.1",
-            logo: "stations/images-america/redbluff/Power 102.1.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KCEZ"
-        },
-        {
-            name: "106.7 Z-ROCK",
-            logo: "stations/images-america/redbluff/106.7 Z-ROCK.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KRQR"
-        },
-    ],
     "redding": [
         {
             name: "NSPR 88.9",
@@ -7890,13 +7858,23 @@ var stations = {
         },
         {
             name: "KFOI 90.9",
-            logo: "stations/images-america/redbluff/KFOI 90.9.png",
+            logo: "stations/images-america/redding/KFOI 90.9.png",
             url: "http://75.128.17.88:88/broadwave.mp3"
         },
         {
             name: "Power 94.7",
             logo: "stations/images-america/redding/Power 94.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KEWB2"
+        },
+        {
+            name: "Mix 95.1",
+            logo: "stations/images-america/redding/Mix 95.1.png",
+            url: "https://ice10.securenetsystems.net/KMXI"
+        },
+        {
+            name: "95.7 The Wolf",
+            logo: "stations/images-america/redding/95.7 The Wolf.png",
+            url: "https://ice6.securenetsystems.net/KALF"
         },
         {
             name: "XS Sports 96.1",
@@ -7910,7 +7888,7 @@ var stations = {
         },
         {
             name: "Q97",
-            logo: "stations/images-america/redbluff/Q97.png",
+            logo: "stations/images-america/redding/Q97.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=http://ice42.securenetsystems.net/KNCQ2"
         },
         {
@@ -7919,14 +7897,29 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KWLZ"
         },
         {
+            name: "Radio Mexicana 99.7",
+            logo: "stations/images-america/redding/Radio Mexicana 99.7.png",
+            url: "https://ice10.securenetsystems.net/KTOR"
+        },
+        {
             name: "Z100",
             logo: "stations/images-america/redding/Z100.png",
             url: "http://173.193.205.96:7337/;"
         },
         {
+            name: "Thunder 100.7",
+            logo: "stations/images-america/redding/Thunder 100.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KTHU"
+        },
+        {
             name: "JPR Classics & News 101.1",
             logo: "stations/images-america/0_general_logos/JPR.png",
             url: "https://jpr-ice.streamguys1.com/jpr-classics"
+        },
+        {
+            name: "Power 102.1",
+            logo: "stations/images-america/redding/Power 102.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KCEZ"
         },
         {
             name: "Red 103.1",
@@ -7947,6 +7940,11 @@ var stations = {
             name: "106X",
             logo: "stations/images-america/redding/106X.png",
             url: "https://ice5.securenetsystems.net/KRRX"
+        },
+        {
+            name: "106.7 Z-ROCK",
+            logo: "stations/images-america/redding/106.7 Z-ROCK.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KRQR"
         },
         {
             name: "107.1 BOB FM",
