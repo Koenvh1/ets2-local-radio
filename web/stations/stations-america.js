@@ -26740,11 +26740,6 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHTTFMAAC_SC"
         },
         {
-            name: "Energy Radio Buffalo 105.9",
-            logo: "stations/images-america/c2c/buffalo_ny/Energy Radio Buffalo 105.9.png",
-            url: "https://s5.radio.co/s811a138c3/listen"
-        },
-        {
             name: "106.5 WYRK",
             logo: "stations/images-america/c2c/buffalo_ny/106.5 WYRK.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wyrkfmaac-ibc3"
@@ -27164,11 +27159,6 @@ var stations_c2c = {
             name: "Star 102.5",
             logo: "stations/images-america/c2c/buffalo_ny/Star 102.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WTSSFMAAC_SC"
-        },
-        {
-            name: "Energy Radio Buffalo 105.9",
-            logo: "stations/images-america/c2c/buffalo_ny/Energy Radio Buffalo 105.9.png",
-            url: "https://s5.radio.co/s811a138c3/listen"
         },
         {
             name: "Big Oly 107.1",
