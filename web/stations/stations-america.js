@@ -5569,16 +5569,6 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KLYK"
         },
         {
-            name: "K235CU 94.9",
-            logo: "stations/images-america/portland/105.9 The Brew.png",
-            url: "https://stream.revma.ihrhls.com/zc3540/hls.m3u8"
-        },
-        {
-            name: "Live 95.5",
-            logo: "stations/images-america/portland/Live 95.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kbfffmaac-ibc4"
-        },
-        {
             name: "NWPR News 97.5",
             logo: "stations/images-america/0_general_logos/NWPB_100years.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
@@ -5599,11 +5589,6 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KEDO"
         },
         {
-            name: "Z100",
-            logo: "stations/images-america/portland/Z100.png",
-            url: "https://stream.revma.ihrhls.com/zc1961/hls.m3u8"
-        },
-        {
             name: "100.7 KLOG",
             logo: "stations/images-america/longview/100.7 KLOG.png",
             url: "http://www.streamcontrol.net:11050/live"
@@ -5612,16 +5597,6 @@ var stations = {
             name: "101.5 The Blitz",
             logo: "stations/images-america/longview/101.5 The Blitz.png",
             url: "http://www.streamcontrol.net:11070/live"
-        },
-        {
-            name: "101.9 KINK",
-            logo: "stations/images-america/portland/101.9 KINK.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kinkfmaac-ibc4"
-        },
-        {
-            name: "K103",
-            logo: "stations/images-america/portland/K103.png",
-            url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
             name: "KMNT Country 104.3",
@@ -5639,34 +5614,9 @@ var stations = {
             url: "http://www.streamcontrol.net:11060/live"
         },
         {
-            name: "106.7 The Eagle",
-            logo: "stations/images-america/portland/106.7 The Eagle.png",
-            url: "https://stream.revma.ihrhls.com/zc4315/hls.m3u8"
-        },
-        {
             name: "Rocket 107",
             logo: "stations/images-america/longview/Rocket 107.png",
             url: "https://us9.maindigitalstream.com/ssl/KRQT"
-        },
-        {
-            name: "JAM'N 107.5",
-            logo: "stations/images-america/portland/JAM'N 107.5.png",
-            url: "https://stream.revma.ihrhls.com/zc4319/hls.m3u8"
-        },
-        {
-            name: "Rip City Radio 620",
-            logo: "stations/images-america/portland/Rip City Radio 620.png",
-            url: "https://stream.revma.ihrhls.com/zc1965/hls.m3u8"
-        },
-        {
-            name: "750 The Game",
-            logo: "stations/images-america/portland/750 The Game.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kxtgamaac-ibc4"
-        },
-        {
-            name: "AM 860 The Answer",
-            logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
     ],
     "los_angeles": [
@@ -40696,6 +40646,38 @@ var stations_canada = {
             name: "CBC Music 104.5",
             logo: "stations/images-america/canada/CBC Music.png",
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+        },
+    ],
+    "whistler": [
+        {
+            name: "CFMI 90.7",
+            logo: "stations/images-america/canada/vancouver/Rock 101.png",
+            url: "http://live.leanstream.co/CFMIFM"
+        },
+        {
+            name: "CFOX 92.3",
+            logo: "stations/images-america/canada/vancouver/CFOX 99.3.png",
+            url: "http://live.leanstream.co/CFOXFM-MP3"
+        },
+        {
+            name: "CBC Radio One 100.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+        },
+        {
+            name: "101.5 Whistler FM",
+            logo: "stations/images-america/canada/whistler/101.5 Whistler FM.png",
+            url: "https://ais-sa1.streamon.fm/7188_32k.aac"
+        }, 
+        {
+            name: "102.1 Mountain FM",
+            logo: "stations/images-america/canada/squamish/107.1 Mountain FM.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
+        },
+        {
+            name: "ICI Première 103.1",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/playlist.m3u8"
         },
     ],
     "williamslake": [

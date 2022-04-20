@@ -423,7 +423,7 @@ var country_properties = {
         name: "Longview",
         name_english: "Longview",
         code: "us-wa",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "los_angeles": {
         name: "Los Angeles",
@@ -1086,6 +1086,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "longview": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "los_angeles": {
@@ -2147,6 +2148,14 @@ var cities = [
         "gameName": "longview",
         "realName": "Longview",
         "country": "longview",
+        "x": "-103165",
+        "y": "30.18",
+        "z": "-57231.5"
+    },
+    {
+        "gameName": "longview",
+        "realName": "Longview",
+        "country": "portland",
         "x": "-103165",
         "y": "30.18",
         "z": "-57231.5"
@@ -8283,7 +8292,7 @@ var country_properties_canada = {
         name: "Vancouver",
         name_english: "Vancouver",
         code: "ca-bc",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "virden": {
         name: "Virden",
@@ -8296,6 +8305,12 @@ var country_properties_canada = {
         name_english: "Watson Lake",
         code: "ca-yt",
         relative_radius: 1.4
+    },
+    "whistler": {
+        name: "Whistler",
+        name_english: "Whistler",
+        code: "ca-bc",
+        relative_radius: 0.4
     },
     "whitehorse": {
         name: "Whitehorse",
@@ -8533,7 +8548,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "vancouver_bc": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.70
     },
     "virden": {
         relative_whitenoise: 0.95
@@ -8543,6 +8558,10 @@ var city_properties_canada = {
     },
     "whitehorse": {
         relative_whitenoise: 0.95
+    },
+    "whistler": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.85
     },
     "williamslake": {
         relative_whitenoise: 0.85
@@ -9126,6 +9145,14 @@ var cities_canada = [
         "x": "-99299",
         "y": "93.9961",
         "z": "-145242"
+    },
+    {
+        "gameName": "whistler",
+        "realName": "Whistler",
+        "country": "whistler",
+        "x": "-98948.1",
+        "y": "21.2014",
+        "z": "-77017"
     },
     {
         "gameName": "williamslake",
