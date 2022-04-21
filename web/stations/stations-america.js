@@ -37009,6 +37009,85 @@ var stations_canada = {
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/playlist.m3u8"
         },
     ],
+    "belleville": [
+        {
+            name: "91X",
+            logo: "stations/images-america/canada/belleville/91X.png",
+            url: "https://lweb04.lcaat.ca:8443/91x.mp3"
+        },
+        {
+            name: "ICI Première 94.3",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8"
+        },
+        {
+            name: "99.3 County FM",
+            logo: "stations/images-america/canada/belleville/99.3 County FM.png",
+            url: "https://media1.radioservers.biz:1936/993CountryFM/993CountryFM/playlist.m3u8"
+        },
+        {
+            name: "UCB Canada 102.3",
+            logo: "stations/images-america/canada/belleville/UCB Canada 102.3.png",
+            url: "https://ice24.securenetsystems.net/BELL1023"
+        },
+        {
+            name: "Classical 103.1",
+            logo: "stations/images-america/canada/toronto/The new Classical 96.3.png",
+            url: "https://live.wostreaming.net/direct/mzmedia-cfmzfmaac-ibc2"
+        },
+        {
+            name: "CBC Music 103.9",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+        },
+        {
+            name: "ROCK 107",
+            logo: "stations/images-america/canada/belleville/ROCK 107.png",
+            url: "https://live.leanstream.co/CJTNFM-MP3"
+        },
+        {
+            name: "Classic Rock 107.9",
+            logo: "stations/images-america/canada/belleville/Classic Rock 107.9.png",
+            url: "https://ice64.securenetsystems.net/CHUC"
+        },
+    ],
+    "belleville_kingston": [
+        {
+            name: "myFM 88.7",
+            logo: "stations/images-america/canada/belleville/myFM 88.7.png",
+            url: "https://ice23.securenetsystems.net/CKYM"
+        },
+        {
+            name: "95.5 Hits FM",
+            logo: "stations/images-america/canada/belleville/95.5 Hits FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICHITSAAC_SC"
+        },
+        {
+            name: "96.3 BIG FM",
+            logo: "stations/images-america/canada/belleville/96.3 BIG FM.png",
+            url: "https://corus.leanstream.co/CFMKFM"
+        },
+        {
+            name: "Mix 97",
+            logo: "stations/images-america/canada/belleville/Mix 97.png",
+            url: "http://live.leanstream.co/CIGLFM-MP3"
+        },
+        {
+            name: "Cool 100.1",
+            logo: "stations/images-america/canada/belleville/Cool 100.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/COOLAAC_SC"
+        },
+        {
+            name: "K-ROCK 105.7",
+            logo: "stations/images-america/canada/kingston/K-ROCK 105.7.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
+        },
+        {
+            name: "CJBQ 800 am",
+            logo: "stations/images-america/canada/belleville/CJBQ 800 am.png",
+            url: "https://quinte.leanstream.co/CJBQAM-MP3"
+        },
+    ],
     "calgary": [
         {
             name: "CJWE 88.1",
@@ -38090,12 +38169,7 @@ var stations_canada = {
             url: "https://goldenwest.leanstream.co/CFYMAM"
         },
     ],
-    "kingston": [
-        {
-            name: "MyFM 88.7",
-            logo: "stations/images-america/canada/kingston/MyFM 88.7.png",
-            url: "https://ice23.securenetsystems.net/CKYM"
-        },
+    "kingston_on": [
         {
             name: "91.9 The Cave",
             logo: "stations/images-america/canada/kingston/91.9 The Cave.png",
@@ -38117,24 +38191,9 @@ var stations_canada = {
             url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin935.stream/icy"
         },
         {
-            name: "95.5 Hits FM",
-            logo: "stations/images-america/canada/kingston/95.5 Hits FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICHITSAAC_SC"
-        },
-        {
-            name: "BIG 96.3",
-            logo: "stations/images-america/canada/kingston/BIG 96.3.png",
-            url: "http://live.leanstream.co/CFMKFM"
-        },
-        {
             name: "96.7 YES FM",
             logo: "stations/images-america/canada/kingston/96.7 YES FM.png",
             url: "https://ice42.securenetsystems.net/WYSX"
-        },
-        {
-            name: "Mix 97",
-            logo: "stations/images-america/canada/kingston/Mix 97.png",
-            url: "http://live.leanstream.co/CIGLFM-MP3"
         },
         {
             name: "Froggy 97",
@@ -38155,11 +38214,6 @@ var stations_canada = {
             name: "ICI Première 99.5",
             logo: "stations/images-america/canada/ICI Première.png",
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8"
-        },
-        {
-            name: "Cool 100",
-            logo: "stations/images-america/canada/kingston/Cool 100.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/COOLAAC_SC"
         },
         {
             name: "UCB Canada 100.5",
@@ -38195,11 +38249,6 @@ var stations_canada = {
             name: "104.3 Fresh Radio",
             logo: "stations/images-america/canada/kingston/104.3 Fresh Radio.png",
             url: "http://live.leanstream.co/CKWSFM"
-        },
-        {
-            name: "K-ROCK 105.7",
-            logo: "stations/images-america/canada/kingston/K-ROCK 105.7.png",
-            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
         },
         {
             name: "The Border 106.7",

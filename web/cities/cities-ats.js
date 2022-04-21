@@ -7898,6 +7898,18 @@ var country_properties_canada = {
         code: "ca-qc",
         relative_radius: 1.2
     },
+    "belleville": {
+        name: "Belleville",
+        name_english: "Belleville",
+        code: "ca-on",
+        relative_radius: 0.7
+    },
+    "belleville_kingston": {
+        name: "Belleville / Kingston",
+        name_english: "Belleville / Kingston",
+        code: "ca-on",
+        relative_radius: 0.7
+    },
     "calgary": {
         name: "Calgary",
         name_english: "Calgary",
@@ -8048,11 +8060,11 @@ var country_properties_canada = {
         code: "ca-sk",
         relative_radius: 1.2
     },
-    "kingston": {
+    "kingston_on": {
         name: "Kingston",
         name_english: "Kingston",
         code: "ca-on",
-        relative_radius: 1.2
+        relative_radius: 0.7
     },
     "labradorcity": {
         name: "Labrador City",
@@ -8348,6 +8360,13 @@ var city_properties_canada = {
     "baiecomeau": {
         relative_whitenoise: 0.95
     },
+    "belleville": {
+		relative_radius: 0.7,
+        relative_whitenoise: 0.85
+    },
+    "belleville_kingston": {
+        relative_whitenoise: 0.85
+    },
     "calgary": {
         relative_whitenoise: 0.95
     },
@@ -8427,8 +8446,9 @@ var city_properties_canada = {
     "kindersley": {
         relative_whitenoise: 0.95
     },
-    "kingston": {
-        relative_whitenoise: 0.95
+    "kingston_on": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.80
     },
     "labradorcity": {
         relative_whitenoise: 0.95
@@ -8585,6 +8605,22 @@ var cities_canada = [
         "x": "99059.4",
         "y": "112.98",
         "z": "-73027.1"
+    },
+    {
+        "gameName": "belleville",
+        "realName": "Belleville",
+        "country": "belleville",
+        "x": "73964",
+        "y": "33.2816",
+        "z": "-36945.2"
+    },
+    {
+        "gameName": "belleville",
+        "realName": "Belleville",
+        "country": "belleville_kingston",
+        "x": "73964",
+        "y": "33.2816",
+        "z": "-36945.2"
     },
     {
         "gameName": "calgary",
@@ -8795,12 +8831,20 @@ var cities_canada = [
         "z": "-75881.9"
     },
     {
-        "gameName": "kingston",
+        "gameName": "kingston_on",
         "realName": "Kingston",
-        "country": "kingston",
-        "x": "79248.8",
-        "y": "104.355",
-        "z": "-38968.6"
+        "country": "kingston_on",
+        "x": "78648.3",
+        "y": "71.6845",
+        "z": "-39027.5"
+    },
+    {
+        "gameName": "kingston_on",
+        "realName": "Kingston",
+        "country": "belleville_kingston",
+        "x": "78648.3",
+        "y": "71.6845",
+        "z": "-39027.5"
     },
     {
         "gameName": "labradorcity",
