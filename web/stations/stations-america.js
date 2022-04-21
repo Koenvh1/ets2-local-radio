@@ -4699,7 +4699,7 @@ var stations = {
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
-            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rZmxnZm1hYWMtaWJjMw==&b=13"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdmbWFhYy1pYmMz"
         },
         {
             name: "95.5 Jack FM",
@@ -4709,12 +4709,12 @@ var stations = {
         {
             name: "KAAA 97.5",
             logo: "stations/images-america/kingman/KAAA 97.5.png",
-            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rYWFhYW1hYWMtaWJjMw=="
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWthYWFhbWFhYy1pYmMz"
         },
         {
             name: "Lucky 98 FM",
             logo: "stations/images-america/kingman/Lucky 98 FM.png",
-            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rbHVrZm1hYWMtaWJjMw=="
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtsdWtmbWFhYy1pYmMz"
         },
         {
             name: "KGPS 98.7",
@@ -4724,7 +4724,7 @@ var stations = {
         {
             name: "K-STAR 99.3",
             logo: "stations/images-america/kingman/K-STAR 99.3.png",
-            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rZmxnYW1hYWMtaWJjMw=="
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdhbWFhYy1pYmMz"
         },
         {
             name: "Air1 101.3",
@@ -4749,7 +4749,7 @@ var stations = {
         {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
-            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rbmtrZm1hYWMtaWJjMw=="
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
         },
         {
             name: "Star 107.9",
