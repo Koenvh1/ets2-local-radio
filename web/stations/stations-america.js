@@ -404,7 +404,7 @@ var stations = {
         {
             name: "Buenas Nuevas 104.7",
             logo: "stations/images-america/albuquerque/Buenas Nuevas 104.7.png",
-            url: "https://radio.livecastnet.com/proxy/restream?mp=/buenasnuevas.mp3"
+            url: "https://vip.livecastnet.com:4343/buenasnuevas.mp3"
         },
         {
             name: "Mix 105.1",
@@ -4699,7 +4699,7 @@ var stations = {
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdmbWFhYy1pYmMz"
+            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rZmxnZm1hYWMtaWJjMw==&b=13"
         },
         {
             name: "95.5 Jack FM",
@@ -4709,12 +4709,12 @@ var stations = {
         {
             name: "KAAA 97.5",
             logo: "stations/images-america/kingman/KAAA 97.5.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWthYWFhbWFhYy1pYmMz"
+            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rYWFhYW1hYWMtaWJjMw=="
         },
         {
             name: "Lucky 98 FM",
             logo: "stations/images-america/kingman/Lucky 98 FM.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtsdWtmbWFhYy1pYmMz"
+            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rbHVrZm1hYWMtaWJjMw=="
         },
         {
             name: "KGPS 98.7",
@@ -4724,7 +4724,7 @@ var stations = {
         {
             name: "K-STAR 99.3",
             logo: "stations/images-america/kingman/K-STAR 99.3.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdhbWFhYy1pYmMz"
+            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rZmxnYW1hYWMtaWJjMw=="
         },
         {
             name: "Air1 101.3",
@@ -4749,7 +4749,7 @@ var stations = {
         {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
+            url: "http://www.squealingrat.org/url/browse.php?u=Oi8vbGl2ZS53b3N0cmVhbWluZy5uZXQvbWFuaWZlc3QvY2FtZXJvbi1rbmtrZm1hYWMtaWJjMw=="
         },
         {
             name: "Star 107.9",
@@ -6365,7 +6365,7 @@ var stations = {
         {
             name: "104.9 The Gig",
             logo: "stations/images-america/modesto/104.9 The Gig.png",
-            url: "http://47.27.217.193:8002/;"
+            url: "http://68.189.8.24:8002/;"
         },
         {
             name: "The River 105.5",
@@ -7028,7 +7028,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
         },
         {
             name: "95.5 The Mountain",
@@ -7098,7 +7098,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWkNF"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWkNF"
         },
         {
             name: "LIVE 101.5",
@@ -7138,7 +7138,7 @@ var stations = {
         {
             name: "Mega 104.3",
             logo: "stations/images-america/phoenix/Mega 104.3.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U1LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tBSk0="
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U1LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tBSk0="
         },
         {
             name: "104.7 KISS FM",
@@ -9387,7 +9387,7 @@ var stations = {
         {
             name: "Jazzy 99.1",
             logo: "stations/images-america/santa_rosa_ca/Jazzy 99.1.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKWllIRDI="
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKWllIRDI="
         },
         {
             name: "99.3 The Vine",
@@ -10560,7 +10560,7 @@ var stations = {
         {
             name: "Buenas Nuevas 104.7",
             logo: "stations/images-america/albuquerque/Buenas Nuevas 104.7.png",
-            url: "https://radio.livecastnet.com/proxy/restream?mp=/buenasnuevas.mp3"
+            url: "https://vip.livecastnet.com:4343/buenasnuevas.mp3"
         },
         {
             name: "Air1 105.5",
@@ -11745,6 +11745,11 @@ var stations = {
             name: "KUNR 91.3",
             logo: "stations/images-america/0_general_logos/KUNR.png",
             url: "https://kunrstream.com:8443/live"
+        },
+		{
+            name: "KWNA 92.7",
+            logo: "stations/images-america/winnemucca/KWNA 92.7.png",
+            url: "https://us2.maindigitalstream.com/ssl/KWNA"
         },
 		{
             name: "Rock 94.3",
@@ -18122,7 +18127,7 @@ var stations_c2c = {
         {
             name: "WGLC 100.1",
             logo: "stations/images-america/c2c/lasalle_il/WGLC 100.1.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0MS5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XR0xD"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0MS5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XR0xD"
         },
         {
             name: "WALLS 102",
@@ -19464,7 +19469,7 @@ var stations_c2c = {
         {
             name: "96.9 KVOE",
             logo: "stations/images-america/c2c/emporia_ks/96.9 KVOE.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U2NC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LVk9F"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U2NC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LVk9F"
         },
         {
             name: "My Country 99.5",
@@ -19722,11 +19727,6 @@ var stations_c2c = {
             url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
-            name: "92.7 The Zoo",
-            logo: "stations/images-america/c2c/salina_ks/92.7 The Zoo.png",
-            url: "https://ice41.securenetsystems.net/KZUH"
-        },
-        {
             name: "Y93.7",
             logo: "stations/images-america/c2c/salina_ks/Y93.7.png",
             url: "https://ice23.securenetsystems.net/KYEZ"
@@ -19735,11 +19735,6 @@ var stations_c2c = {
             name: "94.5 KG Prime",
             logo: "stations/images-america/c2c/salina_ks/94.5 KG Prime.png",
             url: "https://ice42.securenetsystems.net/KSKGHD2"
-        },
-        {
-            name: "95.5 The Rock",
-            logo: "stations/images-america/c2c/salina_ks/95.5 The Rock.png",
-            url: "https://ice41.securenetsystems.net/KVOB"
         },
         {
             name: "Power Hits 97.5",
@@ -26540,7 +26535,7 @@ var stations_c2c = {
         {
             name: "100.5 The Drive",
             logo: "stations/images-america/c2c/binghamton_ny/100.5 The Drive.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2UyNC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XRFJF"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2UyNC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XRFJF"
         },
         {
             name: "Magic 101.7",
