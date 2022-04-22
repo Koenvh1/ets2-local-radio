@@ -105,7 +105,7 @@ var stations = {
         {
             name: "Effect Radio 91.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "K-LOVE 91.7",
@@ -803,7 +803,7 @@ var stations = {
         {
             name: "Effect Radio 88.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "KNKX 88.7",
@@ -1106,7 +1106,7 @@ var stations = {
         {
             name: "Effect Radio 91.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Kissin' 92.3",
@@ -1352,7 +1352,7 @@ var stations = {
         {
             name: "Effect Radio 90.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "KMHD 91.7",
@@ -2065,7 +2065,7 @@ var stations = {
         {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Pirate Radio 91.3",
@@ -3996,7 +3996,7 @@ var stations = {
         {
             name: "Effect Radio 91.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Big Country 92.7",
@@ -4940,7 +4940,7 @@ var stations = {
         {
             name: "Effect Radio 90.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "92.5 KLAD",
@@ -5148,7 +5148,7 @@ var stations = {
         {
             name: "Power 88",
             logo: "stations/images-america/las_vegas/Power 88.png",
-            url: "http://ice7.securenetsystems.net:80/KCEP"
+            url: "https://ice7.securenetsystems.net/KCEP"
         },
         {
             name: "KNPR 88.9",
@@ -5447,7 +5447,7 @@ var stations = {
         {
             name: "Effect Radio 99.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Moody Radio 100.9",
@@ -6044,7 +6044,7 @@ var stations = {
         {
             name: "Effect Radio 99.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
     ],
     "medford": [
@@ -7931,7 +7931,7 @@ var stations = {
         {
             name: "Effect Radio 90.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Pilgrim Radio 91.3",
@@ -8456,7 +8456,7 @@ var stations = {
         {
             name: "Effect Radio 89.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "K-LOVE 90.1",
@@ -10970,7 +10970,7 @@ var stations = {
         {
             name: "Effect Radio 88.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Pilgrim Radio 91.3",
@@ -11543,7 +11543,7 @@ var stations = {
         {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "BIN 92.3-HD2",
@@ -11739,7 +11739,7 @@ var stations = {
         {
             name: "Effect Radio 88.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "KUNR 91.3",
@@ -17452,7 +17452,7 @@ var stations_c2c = {
         {
             name: "Effect Radio 91.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "KLHT 91.5",
@@ -17659,7 +17659,7 @@ var stations_c2c = {
         {
             name: "Effect Radio 89.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "HPR Classical 91.3",
@@ -25018,7 +25018,7 @@ var stations_c2c = {
         {
             name: "Effect Radio 90.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "K-LOVE 90.9",
@@ -25701,7 +25701,7 @@ var stations_c2c = {
         {
             name: "Effect Radio 91.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Griz Sports 92.7",
@@ -37011,6 +37011,11 @@ var stations_canada = {
     ],
     "belleville": [
         {
+            name: "myFM 88.7",
+            logo: "stations/images-america/canada/belleville/myFM 88.7.png",
+            url: "https://ice23.securenetsystems.net/CKYM"
+        },
+        {
             name: "91X",
             logo: "stations/images-america/canada/belleville/91X.png",
             url: "https://lweb04.lcaat.ca:8443/91x.mp3"
@@ -37021,9 +37026,29 @@ var stations_canada = {
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8"
         },
         {
+            name: "95.5 Hits FM",
+            logo: "stations/images-america/canada/belleville/95.5 Hits FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICHITSAAC_SC"
+        },
+        {
+            name: "96.3 BIG FM",
+            logo: "stations/images-america/canada/belleville/96.3 BIG FM.png",
+            url: "https://corus.leanstream.co/CFMKFM"
+        },
+        {
+            name: "Mix 97",
+            logo: "stations/images-america/canada/belleville/Mix 97.png",
+            url: "http://live.leanstream.co/CIGLFM-MP3"
+        },
+        {
             name: "99.3 County FM",
             logo: "stations/images-america/canada/belleville/99.3 County FM.png",
             url: "https://media1.radioservers.biz:1936/993CountryFM/993CountryFM/playlist.m3u8"
+        },
+        {
+            name: "Cool 100.1",
+            logo: "stations/images-america/canada/belleville/Cool 100.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/COOLAAC_SC"
         },
         {
             name: "UCB Canada 102.3",
@@ -37049,38 +37074,6 @@ var stations_canada = {
             name: "Classic Rock 107.9",
             logo: "stations/images-america/canada/belleville/Classic Rock 107.9.png",
             url: "https://ice64.securenetsystems.net/CHUC"
-        },
-    ],
-    "belleville_kingston": [
-        {
-            name: "myFM 88.7",
-            logo: "stations/images-america/canada/belleville/myFM 88.7.png",
-            url: "https://ice23.securenetsystems.net/CKYM"
-        },
-        {
-            name: "95.5 Hits FM",
-            logo: "stations/images-america/canada/belleville/95.5 Hits FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASSICHITSAAC_SC"
-        },
-        {
-            name: "96.3 BIG FM",
-            logo: "stations/images-america/canada/belleville/96.3 BIG FM.png",
-            url: "https://corus.leanstream.co/CFMKFM"
-        },
-        {
-            name: "Mix 97",
-            logo: "stations/images-america/canada/belleville/Mix 97.png",
-            url: "http://live.leanstream.co/CIGLFM-MP3"
-        },
-        {
-            name: "Cool 100.1",
-            logo: "stations/images-america/canada/belleville/Cool 100.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/COOLAAC_SC"
-        },
-        {
-            name: "K-ROCK 105.7",
-            logo: "stations/images-america/canada/kingston/K-ROCK 105.7.png",
-            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
         },
         {
             name: "CJBQ 800 am",
@@ -38249,6 +38242,11 @@ var stations_canada = {
             name: "104.3 Fresh Radio",
             logo: "stations/images-america/canada/kingston/104.3 Fresh Radio.png",
             url: "http://live.leanstream.co/CKWSFM"
+        },
+        {
+            name: "K-ROCK 105.7",
+            logo: "stations/images-america/canada/kingston/K-ROCK 105.7.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
         },
         {
             name: "The Border 106.7",
@@ -41457,7 +41455,7 @@ var stations_greatamerica = {
         {
             name: "Effect Radio 89.7",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "http://ice6.securenetsystems.net:80/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "Air1 90.1",
