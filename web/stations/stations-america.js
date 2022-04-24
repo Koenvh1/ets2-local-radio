@@ -21791,7 +21791,7 @@ var stations_c2c = {
         {
             name: "WOWD 94.3",
             logo: "stations/images-america/c2c/washington_dc/WOWD 94.3.png",
-            url: "http://live2.takomaradio.org/stream"
+            url: "https://wowd.broadcasttool.stream/stream"
         },
         {
             name: "94.7 The Drive",
@@ -21993,7 +21993,7 @@ var stations_c2c = {
         {
             name: "WZBC 90.3",
             logo: "stations/images-america/c2c/boston_ma/WZBC 90.3.png",
-            url: "http://amber.streamguys.com:4860/;"
+            url: "https://stream.rcast.net/65227"
         },
         {
             name: "90.9 WBUR",
@@ -22340,9 +22340,9 @@ var stations_c2c = {
             url: "https://live.leanstream.co/CHYRFM"
         },
         {
-            name: "WNUC 96.7-LP",
-            logo: "stations/images-america/c2c/detroit_mi/WNUC 96.7-LP.png",
-            url: "https://relays.stream.creek.fm/wnuc"
+            name: "WNUC 96.7",
+            logo: "stations/images-america/c2c/detroit_mi/WNUC 96.7.png",
+            url: "https://stream.wnuc.org/stream"
         },
         {
             name: "97.1 The Ticket",
@@ -22768,7 +22768,7 @@ var stations_c2c = {
         {
             name: "WFOV 92.1",
             logo: "stations/images-america/c2c/flint_mi/WFOV 92.1.png",
-            url: "http://96.94.144.33:8000/listen"
+            url: "https://stream.zeno.fm/un9qev06g18uv"
         },
         {
             name: "Z92.7",
@@ -22855,7 +22855,7 @@ var stations_c2c = {
         {
             name: "WNMC 90.7",
             logo: "stations/images-america/c2c/traversecity_mi/WNMC 90.7.png",
-            url: "http://107.182.231.73:7170/;"
+            url: "http://107.182.226.132:7170/;"
         },
         {
             name: "IPR News 91.5",
