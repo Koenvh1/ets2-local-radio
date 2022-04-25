@@ -5323,12 +5323,12 @@ var stations = {
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissfresh.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "https://stream-al.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "https://stream-kiss.planetradio.co.uk/kisstory.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "https://stream-al.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
         },
         {
             name: "LBC",
