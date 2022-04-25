@@ -18408,6 +18408,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wlfzfmaac-ibc1"
         },
         {
+            name: "102.5 The Lake",
+            logo: "stations/images-america/c2c/springfield_il/102.5 The Lake.png",
+            url: "https://crystalout.surfernetwork.com:8001/THELAKE_MP3"
+        },
+        {
             name: "WDBR 103.7",
             logo: "stations/images-america/c2c/springfield_il/WDBR 103.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wdbrfmaac-ibc1"
@@ -23052,6 +23057,11 @@ var stations_c2c = {
             name: "My 95.7",
             logo: "stations/images-america/c2c/duluth_mn/My 95.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDALFMAAC_SC"
+        },
+        {
+            name: "HOT 98.1",
+            logo: "stations/images-america/c2c/duluth_mn/HOT 98.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDULAMAAC_SC"
         },
         {
             name: "98.9 KTCO",
