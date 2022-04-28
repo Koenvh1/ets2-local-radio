@@ -1631,6 +1631,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-ksubamaac-ibc4"
         },
         {
+            name: "KDWN 720",
+            logo: "stations/images-america/las_vegas/KDWN 101.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
+        },
+        {
             name: "KDXU 890",
             logo: "stations/images-america/cedar_city/KDXU 890.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kdxuamaac-ibc4"
@@ -4755,6 +4760,11 @@ var stations = {
             name: "Star 107.9",
             logo: "stations/images-america/las_vegas/Star 107.9.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
+        },
+        {
+            name: "KDWN 720",
+            logo: "stations/images-america/las_vegas/KDWN 101.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
         },
         {
             name: "980 KNTR",
@@ -15055,8 +15065,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTHD3AAC_SC"
         },
         {
-            name: "Electro Lounge 89.9-HD4",
-            logo: "stations/images-america/c2c/jacksonville_fl/Electro Lounge 89.9-HD4.png",
+            name: "The Independent 89.9-HD4",
+            logo: "stations/images-america/c2c/jacksonville_fl/The Independent 89.9-HD4.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4AAC_SC"
         },
         {
@@ -30846,8 +30856,8 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPENFMAACIHR_SC"
         },
         {
-            name: "98.1 WOGL",
-            logo: "stations/images-america/c2c/philadelphia_pa/98.1 WOGL.png",
+            name: "BIG 98.1",
+            logo: "stations/images-america/c2c/philadelphia_pa/BIG 98.1.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WOGLFMAAC_SC"
         },
         {
