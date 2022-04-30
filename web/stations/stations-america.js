@@ -115,7 +115,7 @@ var stations = {
         {
             name: "Coyote Country 92.7",
             logo: "stations/images-america/alamogordo/Coyote Country 92.7.png",
-            url: "https://ice41.securenetsystems.net/KRSY"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice41.securenetsystems.net/KRSY"
         },
         {
             name: "KWES 93.5",
@@ -135,7 +135,7 @@ var stations = {
         {
             name: "Mix 96.7",
             logo: "stations/images-america/alamogordo/Mix 96.7.png",
-            url: "https://ice3.securenetsystems.net/KNMB"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice3.securenetsystems.net/KNMB"
         },
         {
             name: "Rock 97.9",
@@ -145,17 +145,17 @@ var stations = {
         {
             name: "KIDX 101.5",
             logo: "stations/images-america/alamogordo/KidX 101.5.png",
-            url: "https://ice3.securenetsystems.net/KIDX"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice3.securenetsystems.net/KIDX"
         },
         {
             name: "Alamo Sports & Talk 101.9",
             logo: "stations/images-america/alamogordo/Alamo Sports_Talk 101.9.png",
-            url: "https://ice41.securenetsystems.net/KRSYAM"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice41.securenetsystems.net/KRSYAM"
         },
         {
             name: "Stealth 103.7",
             logo: "stations/images-america/alamogordo/Stealth 103.7.png",
-            url: "https://ice41.securenetsystems.net/KNMZ"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice41.securenetsystems.net/KNMZ"
         },
         {
             name: "105.3 KZZX",
@@ -3054,7 +3054,7 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "KNAU News 91.7",
+            name: "KNAU 91.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
@@ -3231,8 +3231,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KRKYFM"
         },
         {
-            name: "New Country 99.1",
-            logo: "stations/images-america/fort_collins/New Country 99.1.png",
+            name: "K99",
+            logo: "stations/images-america/fort_collins/K99.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kuadfmaac-ibc3"
         },
         {
@@ -3587,7 +3587,7 @@ var stations = {
     ],
     "g_canyon_vlg": [
         {
-            name: "KNAU News 90.3",
+            name: "KNAU 90.3",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
@@ -6929,7 +6929,7 @@ var stations = {
             url: "http://162.244.80.106:9068/stream"
         },
         {
-            name: "KNAU News 102.7",
+            name: "KNAU 102.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
         },
@@ -7534,7 +7534,7 @@ var stations = {
         {
             name: "Русское Радио Америка 105.5",
             logo: "stations/images-america/portland/Русское Радио Америка 105.5.png",
-            url: "https://s0.radioheart.ru:8000/RH47810"
+            url: "http://s0.radioheart.ru:8000/RH47810"
         },
         {
             name: "105.9 The Brew",
@@ -7986,7 +7986,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
+            url: "https://p.itoad.net/browse.php?u=Oi8vaWNlMTAuc2VjdXJlbmV0c3lzdGVtcy5uZXQvS09MQw=="
         },
         {
             name: "KWNK 97.7",
@@ -12036,7 +12036,7 @@ var stations_mexico = {
         {
             name: "Romántica 96.9",
             logo: "stations/images-america/mexico/sonora/roman.png",
-            url: "https://sonic.globalstream.pro:10967/stream.mp3"
+            url: "https://sts.pergom.mx/xhap"
         },
         {
             name: "Ke Buena 92.1 FM",
@@ -12429,7 +12429,7 @@ var stations_mexico = {
         {
             name: "Los 40",
             logo: "stations/images-america/mexico/shared/40.png",
-            url: "https://sonic.globalstream.pro:10968/stream.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC"
         },
         {
             name: "La Sonora de Nogales",
@@ -12552,7 +12552,7 @@ var stations_mexico = {
         {
             name: "La Tremenda Santiago - XESRD",
             logo: "stations/images-america/mexico/shared/tremenda.png",
-            url: "http://170.80.242.11:8040/Santiago"
+            url: "https://radio.latremenda.com.mx/Santiago"
         },      
     ],
     "mexicali": [
@@ -12615,12 +12615,12 @@ var stations_mexico = {
             name: "La Dinámica 105.9",
             logo: "stations/images-america/mexico/mexicali/La Dinámica 105.9.png",
             url: "https://sts.pergom.mx/XHSU"
-        },
+        },/*
         {
             name: "More FM 106.7",
             logo: "stations/images-america/mexico/mexicali/More FM 106.7.png",
             url: "http://us10a.serverse.com:8183/stream"
-        },
+        },*/
         {
             name: "Buenísima 850",
             logo: "stations/images-america/mexico/mexicali/Buenísima 850.png",
@@ -12761,7 +12761,7 @@ var stations_mexico = {
         {
             name: "Romántica",
             logo: "stations/images-america/mexico/sinaloa/rom.png",
-            url: "https://secure.radiorama.mx:2133/"
+            url: "https://sts.pergom.mx/xhcsi"
         }, 
         {
             name: "La Mejor FM 104.1",
@@ -12771,7 +12771,7 @@ var stations_mexico = {
         {
             name: "Los 40",
             logo: "stations/images-america/mexico/sinaloa/40.png",
-            url: "https://icy.gvstream.live/radiotvmexico-40principales929.aac"
+            url: "https://stream.zeno.fm/20mdtf6hfphvv"
         },
         {
             name: "Radio Fórmula",
@@ -12781,7 +12781,7 @@ var stations_mexico = {
         {
             name: "Exa FM",
             logo: "stations/images-america/mexico/shared/exa.png",
-            url: "http://167.114.116.223:1082/;"
+            url: "https://sp3.servidorrprivado.com:10940/stream/1/"
         },
         {
             name: "Radio Sinaloa",
@@ -12791,7 +12791,7 @@ var stations_mexico = {
         {
             name: "@FM",
             logo: "stations/images-america/mexico/sinaloa/arroba.png",
-            url: "http://sts.aplradiorama.mx/xhin.mp3"
+            url: "http://sts.aplradiorama.mx/XHIN.mp3"
         },
         {
             name: "La Bestia Grupera 102.5 FM",
@@ -12801,7 +12801,7 @@ var stations_mexico = {
         {
             name: "W Radio",
             logo: "stations/images-america/mexico/sinaloa/w.png",
-            url: "https://streamingv2.shoutcast.com/w-radio-977-fm"
+            url: "https://stream.zeno.fm/g0t0mx3xbphvv"
         },
              
     ],
@@ -12888,7 +12888,7 @@ var stations_mexico = {
         {
             name: "El Heraldo Radio",
             logo: "stations/images-america/mexico/nayarit/heraldotepic.png",
-            url: "https://stream.radiojar.com/45xcpkg457zuv"
+            url: "https://stream.radiojar.com/g33sp4yqd6quv"
         },
         {
             name: "Romántica",
@@ -12903,7 +12903,7 @@ var stations_mexico = {
         {
             name: "Fiesta Mexicana",
             logo: "stations/images-america/mexico/nayarit/fiestatepic.png",
-            url: "https://server2.sit-mexico.com/proxy/xhpa?mp=%2Fstream"
+            url: "https://streamingcwsradio30.com:7042/;"
         },
         {
             name: "@FM (Arroba FM)",
@@ -12930,7 +12930,7 @@ var stations_mexico = {
         {
             name: "La Lupe",
             logo: "stations/images-america/mexico/nayarit/lupecompostela.png",
-            url: "https://radio.urbansa.com/station11"
+            url: "https://streaming.multimedios.com/station11"
         },
     ],
     "jesusma": [
@@ -13049,12 +13049,12 @@ var stations_mexico = {
         {
             name: "Stereo Fresnillo",
             logo: "stations/images-america/mexico/fresnillo/stereofresnillo.png",
-            url: "https://live.zuperdns.net/3006/stream/;"
+            url: "http://cast.zuperdns.net:8018/stream/;"
         },
         {
             name: "La Tremenda",
             logo: "stations/images-america/mexico/fresnillo/tremendafresnillo.png",
-            url: "https://live.zuperdns.net/9850/stream/;stream.mp3"
+            url: "http://cast.zuperdns.net:8004/stream/;"
         },                                    
     ],
     "zacatecas": [
@@ -13066,22 +13066,22 @@ var stations_mexico = {
         {
             name: "Lupe",
             logo: "stations/images-america/mexico/zacatecas_city/lupezac.png",
-            url: "https://live.zuperdns.net/9330/stream/;stream.mp3"
+            url: "https://cast.zuperdns.net/8010/stream/;"
         },
         {
             name: "Digital",
             logo: "stations/images-america/mexico/zacatecas_city/digitalzac.png",
-            url: "http://live.zuperdns.net:1065/stream"
+            url: "https://cast.zuperdns.net/8020/stream/1/"
         },
         {
             name: "Amor Es",
             logo: "stations/images-america/mexico/zacatecas_city/amoreszac.png",
-            url: "https://live.zuperdns.net/9930/stream/;stream.mp3"
+            url: "https://cast.zuperdns.net/8002/stream/;"
         },
         {
             name: "Stereo ZER",
             logo: "stations/images-america/mexico/zacatecas_city/stereozerzac.png",
-            url: "http://live.zuperdns.net:9650/stream"
+            url: "https://cast.zuperdns.net/8006/stream/;"
         },      
     ],
     "jalpa": [
@@ -13093,19 +13093,19 @@ var stations_mexico = {
         {
             name: "Caxcán FM",
             logo: "stations/images-america/mexico/zacatecas/caxcanjalpa.png",
-            url: "https://live.zuperdns.net/9501/stream/;stream.mp3"
+            url: "https://cast.zuperdns.net/8008/stream/;"
         },      
     ],
     "jerez": [
         {
             name: "Inolvidable",
             logo: "stations/images-america/mexico/zacatecas/radioalegriajalpa.png",
-            url: "https://live.zuperdns.net/9007/stream/;stream.mp3"
+            url: "http://cast.zuperdns.net:8014/stream/;"
         },
         {
             name: "Radio Jerez",
             logo: "stations/images-america/mexico/zacatecas/jerezac.png",
-            url: "http://live.zuperdns.net:8901/stream"
+            url: "https://cast.zuperdns.net/8016/stream/;"
         },      
     ],
     "riogrande": [
@@ -13229,7 +13229,7 @@ var stations_mexico = {
         {
             name: "La Sanmarqueña",
             logo: "stations/images-america/mexico/aguascalientes/sanags.png",
-            url: "http://live.zuperdns.net:2001/stream"
+            url: "https://cast.zuperdns.net/8028/stream/1/"
         },
         {
             name: "Radio BI",
@@ -13239,17 +13239,17 @@ var stations_mexico = {
         {
             name: "Amor Es",
             logo: "stations/images-america/mexico/aguascalientes/amoresags.png",
-            url: "https://live.uperdns.net/1045/stream"
+            url: "https://cast.zuperdns.net/8026/stream"
         },
         {
             name: "La Kaliente",
             logo: "stations/images-america/mexico/aguascalientes/lakalienteags.png",
-            url: "https://live.zuperdns.net/1021/stream"
+            url: "https://cast.zuperdns.net/8024/stream"
         },
         {
             name: "La Ranchera",
             logo: "stations/images-america/mexico/aguascalientes/rancheraags.png",
-            url: "https://live.zuperdns.net/1006/stream/;stream.mp3"
+            url: "https://cast.zuperdns.net/8022/stream"
         },
         {
             name: "Alternativa",
@@ -13286,7 +13286,7 @@ var stations_mexico = {
         {
             name: "Radio Ranchito",
             logo: "stations/images-america/mexico/aguascalientes/ranchitoags.png",
-            url: "https://streamingcwsradio30.com:7006/stream.mp3/"
+            url: "https://streamingcwsradio30.com:7006/stream.mp3"
         },
     ],
     "conchaoro": [
@@ -16453,11 +16453,6 @@ var stations_c2c = {
             name: "MIX 100.7",
             logo: "stations/images-america/c2c/tampa_fl/MIX 100.7.png",
             url: "https://stream.revma.ihrhls.com/zc689/hls.m3u8"
-        },
-        {
-            name: "Throwback 100.7-HD2",
-            logo: "stations/images-america/c2c/tampa_fl/Throwback 100.7-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6434/hls.m3u8"
         },
         {
             name: "The Breeze 100.7-HD3",
@@ -24991,7 +24986,7 @@ var stations_c2c = {
         {
             name: "KWPQ 103.3",
             logo: "stations/images-america/c2c/springfield_mo/KWPQ 103.3.png",
-            url: "https://streamingv2.shoutcast.com/kwpq-1033-fm"
+            url: "https://streamer.radio.co/sb6b812e46/listen"
         },
         {
             name: "104.1 KSGF",
@@ -35575,7 +35570,7 @@ var stations_c2c = {
             url: "https://vprbbc.streamguys1.com/vprbbc24.mp3"
         },
     ],
-    "lebanon": [
+    "lebanon_nh": [
         {
             name: "VPR Classical 88.1",
             logo: "stations/images-america/0_general_logos/VPR.png",
@@ -42128,7 +42123,7 @@ var stations_caribbean = {
         {
             name: "KOOL 97 FM",
             logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
-            url: "https://listen.mixlr.com/148bb59258ec89f3b0abef504bb8959a"
+            url: "http://208.163.43.44:8000/stream.mp3"
         },
         {
             name: "Mega Jamz 98 FM",
@@ -42342,7 +42337,7 @@ var stations_caribbean = {
         {
             name: "KOOL 97 FM",
             logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
-            url: "https://listen.mixlr.com/148bb59258ec89f3b0abef504bb8959a"
+            url: "http://208.163.43.44:8000/stream.mp3"
         },
         {
             name: "Love 101 FM",
@@ -42465,12 +42460,12 @@ var stations_caribbean = {
             name: "Gospel 107",
             logo: "stations/images-america/caribbean/nassau/Gospel 107.png",
             url: "https://stream.zeno.fm/8145cb0nwtzuv"
-        },
+        },/*
         {
             name: "Peace 107.5",
             logo: "stations/images-america/caribbean/nassau/Peace 107.5.png",
             url: "https://listen.mixlr.com/20fed03c0e6cc697bedbcc985b84b8e2"
-        },
+        },*/
         {
             name: "Inspiration 107.9",
             logo: "stations/images-america/caribbean/nassau/Inspiration 107.9.png",

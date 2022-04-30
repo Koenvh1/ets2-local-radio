@@ -329,7 +329,7 @@ var stations = {
         {
             name: "Радио Юмор ФМ",
             logo: "stations/images-europe/belarus/Радио Юмор ФМ.png",
-            url: "http://live.humorfm.by:8000/veseloeradio"
+            url: "http://live.huRmorfm.by:8000/veseloeradio"
         },
         {
             name: "Новое Радио",
@@ -453,7 +453,7 @@ var stations = {
         {
             name: "DH Radio",
             logo: "stations/images-europe/belgium-fr/DH Radio.png",
-            url: "https://stream.rcs.revma.com/th89pet3pzzuv"
+            url: "https://stream.rcs.revma.com/anew1ctrgzzuv"
         },
         {
             name: "Fun Radio",
@@ -2737,7 +2737,7 @@ var stations = {
         {
             name: "m2o",
             logo: "stations/images-europe/italy/m2o.png",
-            url: "https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8"
+            url: "https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8"
         },
         {
             name: "R101",
@@ -2752,7 +2752,7 @@ var stations = {
         {
             name: "Radio 24",
             logo: "stations/images-europe/italy/Radio 24.png",
-            url: "https://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8"
+            url: "https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8"
         },
         {
             name: "Radio Bruno",
@@ -2762,12 +2762,12 @@ var stations = {
         {
             name: "Radio Capital",
             logo: "stations/images-europe/italy/Radio Capital.png",
-            url: "http://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8"
+            url: "https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8"
         },
         {
             name: "Radio Deejay",
             logo: "stations/images-europe/italy/Radio Deejay.png",
-            url: "http://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8"
+            url: "https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8"
         },
         {
             name: "RDS",
@@ -3478,22 +3478,22 @@ var stations = {
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "https://stream-ar.planetradio.co.uk/absoluteclassicrockhigh.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "https://stream-al.planetradio.co.uk/coolfm.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=coolfm-aac"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "https://stream-al.planetradio.co.uk/downtown.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=downtown-aac"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "https://stream-al.planetradio.co.uk/downtowncountry.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=downtowncountry-aac"
         },
         {
             name: "Hits Radio",
@@ -3513,7 +3513,7 @@ var stations = {
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "https://stream-mz.planetradio.co.uk/magicsoul.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=magicsoul-aac"
         },
         {
             name: "U105",
@@ -4009,12 +4009,12 @@ var stations = {
             name: "Радио Шансон",
             logo: "stations/images-europe/russia/Радио Шансон - Radio Chanson.png",
             url: "https://chanson.hostingradio.ru:8041/chanson128.mp3"
-        },
+        },/*
         {
             name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача - Radio Dacha.png",
             url: "https://stream.n340.com/14_dacha_64?type=.aac&UID=4C1E842A7F932A2D53BEA33AA6E64601"
-        },
+        },*/
         {
             name: "Радио Кп",
             logo: "stations/images-europe/russia/Радио Кп - Radio KP.png",
@@ -5248,7 +5248,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=absoluteradiohigh-aac"
         },
         {
             name: "Capital FM",
@@ -5318,7 +5318,7 @@ var stations = {
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "https://stream-kiss.planetradio.co.uk/kissnational.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=kissnational-mp3"
         },
         {
             name: "KISS Fresh",
@@ -5343,7 +5343,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/magicnational.aac?aw_0_1st.skey=1650804763&aw_0_1st.playerid=BMUK_RPi"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=magicnational-mp3"
         },
         {
             name: "Radio X",
