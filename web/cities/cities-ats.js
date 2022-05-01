@@ -4956,7 +4956,7 @@ var country_properties_c2c = {
         code: "us-vt",
         relative_radius: 0.9
     },
-    "lebanon_vt": {
+    "lebanon": {
         name: "Lebanon",
         name_english: "Lebanon",
         code: "us-vt",
@@ -5779,7 +5779,7 @@ var city_properties_c2c = {
     "burlington_vt": {
         relative_whitenoise: 0.85
     },
-    "lebanon_vt": {
+    "lebanon": {
         relative_whitenoise: 0.85
     },
     "fredericksburg_va": {
@@ -7754,7 +7754,7 @@ var cities_c2c = [
         "z": "-42651.6"
     },
     {
-        "gameName": "lebanon_vt",
+        "gameName": "lebanon",
         "realName": "Lebanon",
         "country": "lebanon",
         "x": "95627",
