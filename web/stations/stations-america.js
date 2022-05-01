@@ -35570,7 +35570,7 @@ var stations_c2c = {
             url: "https://vprbbc.streamguys1.com/vprbbc24.mp3"
         },
     ],
-    "lebanon_nh": [
+    "lebanon": [
         {
             name: "VPR Classical 88.1",
             logo: "stations/images-america/0_general_logos/VPR.png",
