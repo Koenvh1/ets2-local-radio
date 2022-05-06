@@ -17993,8 +17993,8 @@ var stations_c2c = {
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
-            name: "101WKQX",
-            logo: "stations/images-america/c2c/chicago_il/101WKQX.png",
+            name: "Q101",
+            logo: "stations/images-america/c2c/chicago_il/Q101.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC_SC"
         },
         {

@@ -3478,42 +3478,42 @@ var stations = {
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=absoluteclassicrockhigh-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=coolfm-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=coolfm-aac"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=downtown-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=downtown-aac"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=downtowncountry-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=downtowncountry-aac"
         },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/nireland/Hits Radio.png",
-            url: "https://stream-al.planetradio.co.uk/hits.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=hitsradio-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/nireland/Hits Radio Pride.png",
-            url: "https://stream-al.planetradio.co.uk/hitsradiopride.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=hitsradiopride-aac"
         },
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=magicsoul-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "U105",
@@ -5248,7 +5248,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=absoluteradiohigh-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=absoluteradiohigh-aac"
         },
         {
             name: "Capital FM",
@@ -5278,7 +5278,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Gold Radio",
@@ -5313,22 +5313,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "https://stream-al.planetradio.co.uk/heat.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "http://www.radiofeeds.net/bauerflash.pls?station=heat-aac"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=kissnational-mp3"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=kissnational-aac"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "https://stream-al.planetradio.co.uk/kissfresh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=kissfresh-aac"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "https://stream-al.planetradio.co.uk/kisstory.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=kisstory-aac"
         },
         {
             name: "LBC",
@@ -5343,7 +5343,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=magicnational-mp3"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=magicnational-aac"
         },
         {
             name: "Radio X",
