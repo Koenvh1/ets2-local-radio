@@ -329,7 +329,7 @@ var stations = {
         {
             name: "Радио Юмор ФМ",
             logo: "stations/images-europe/belarus/Радио Юмор ФМ.png",
-            url: "http://live.huRmorfm.by:8000/veseloeradio"
+            url: "http://live.humorfm.by:8000/veseloeradio"
         },
         {
             name: "Новое Радио",

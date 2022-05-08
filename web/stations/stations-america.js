@@ -4324,7 +4324,7 @@ var stations = {
         {
             name: "Studio 100.9",
             logo: "stations/images-america/indio/Studio 100.9.png",
-            url: "https://shaincast.caster.fm:12645/listen.mp3?authnc86ee71a30c661bd87fd324bda20172d"
+            url: "https://shaincast.caster.fm:12645/listen.mp3?authn6b09030e353dba8eb7321f04426394c3"
         },
         {
             name: "101.3 The Mix",
@@ -8734,6 +8734,11 @@ var stations = {
             name: "107.1 The Bull",
             logo: "stations/images-america/sacramento/107.1 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc6775/hls.m3u8"
+        },
+        {
+            name: "The New 107.9",
+            logo: "stations/images-america/sacramento/The new 107.9.png",
+            url: "https://stream.revma.ihrhls.com/zc9429/hls.m3u8"
         },
         {
             name: "650 KSTE",
@@ -41808,7 +41813,7 @@ var stations_greatamerica = {
         {
             name: "94.5 KULT",
             logo: "stations/images-america/great_america/waterloo/94.5 KULT.png",
-            url: "http://shaincast.caster.fm:37819/listen.mp3?authnbf0451baa76ab69abcbff66d9ef39b32"
+            url: "http://shaincast.caster.fm:37819/listen.mp3?authn6b09030e353dba8eb7321f04426394c3"
         },
         {
             name: "KCRR 97.7",
