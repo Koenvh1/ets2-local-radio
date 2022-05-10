@@ -27302,9 +27302,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRURFMAAC_SC"
         },
         {
-            name: "WITR 89.7",
-            logo: "stations/images-america/c2c/rochester_ny/WITR 89.7.png",
-            url: "http://streaming.witr.rit.edu:8000/live"
+            name: "89.7 WITR",
+            logo: "stations/images-america/c2c/rochester_ny/89.7 WITR.png",
+            url: "https://streaming.witr.rit.edu/witr-mp3-192"
         },
         {
             name: "Jazz 90.1",
