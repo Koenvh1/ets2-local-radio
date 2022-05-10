@@ -281,6 +281,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.4
     },
+    "grand_junction": {
+        name: "Grand Junction",
+        name_english: "Grand Junction",
+        code: "us-co",
+        relative_radius: 0.7
+    },
     "grand_junction_montrose": {
         name: "Grand Junction / Montrose",
         name_english: "Grand Junction / Montrose",
@@ -1012,6 +1018,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "g_canyon_vlg": {
+        relative_whitenoise: 0.85
+    },
+    "grand_junction": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "grand_junction_montrose": {
@@ -2503,6 +2513,14 @@ var cities = [
         "x": "-48845.1",
         "y": "93.5559",
         "z": "-5649.02"
+    },
+    {
+        "gameName": "grand_junction",
+        "realName": "Grand Junction",
+        "country": "grand_junction_montrose",
+        "x": "-54552.1",
+        "y": "108.517",
+        "z": "-4304.88"
     },
     {
         "gameName": "grand_junction_montrose",
