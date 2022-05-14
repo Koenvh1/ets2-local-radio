@@ -3365,7 +3365,7 @@ var stations = {
         {
             name: "K296EJ 107.1",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "https://sandhillradio.net/KUPI"
+            url: "https://ice7.securenetsystems.net/KUPI"
         },
         {
             name: "KID 590",
@@ -4127,7 +4127,7 @@ var stations = {
         {
             name: "X92.5",
             logo: "stations/images-america/idaho_falls/X92.5.png",
-            url: "https://sandhillradio.net/X925"
+            url: "https://ice5.securenetsystems.net/KQEOHD2"
         },
         {
             name: "KZBQ 93.9",
@@ -4162,17 +4162,17 @@ var stations = {
         {
             name: "98.7 The Zone",
             logo: "stations/images-america/idaho_falls/98.7 The Zone.png",
-            url: "https://sandhillradio.net/KSPZ"
+            url: "https://ice7.securenetsystems.net/KSPZ"
         },
         {
             name: "99 KUPI",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "https://sandhillradio.net/KUPI"
+            url: "https://ice7.securenetsystems.net/KUPI"
         },
         {
             name: "100.7 MYfm",
             logo: "stations/images-america/idaho_falls/100.7 MYfm.png",
-            url: "https://sandhillradio.net/KSNA"
+            url: "https://ice5.securenetsystems.net/KSNA"
         },
         {
             name: "Cannonball 101",
@@ -4197,7 +4197,7 @@ var stations = {
         {
             name: "La Super Caliente 103.7",
             logo: "stations/images-america/idaho_falls/La Super Caliente 103.7.png",
-            url: "https://sandhillradio.net/KLSC"
+            url: "https://ice5.securenetsystems.net/KQEOHD3"
         },
         {
             name: "KORR 104",
@@ -4207,7 +4207,7 @@ var stations = {
         {
             name: "NOW 105.1",
             logo: "stations/images-america/idaho_falls/NOW 105.1.png",
-            url: "https://sandhillradio.net/NOW"
+            url: "https://ice8.securenetsystems.net/KAOXHD2"
         },
         {
             name: "105.5 The Hawk",
@@ -4222,12 +4222,12 @@ var stations = {
         {
             name: "Arrow 107.1",
             logo: "stations/images-america/idaho_falls/Arrow 107.1.png",
-            url: "https://sandhillradio.net/KQEO"
+            url: "https://ice8.securenetsystems.net/KQEO"
         },
         {
             name: "NewsTalk 107.9",
             logo: "stations/images-america/idaho_falls/NewsTalk 107.9.png",
-            url: "https://sandhillradio.net/NEWS"
+            url: "https://ice8.securenetsystems.net/KAOX"
         },
         {
             name: "Country Classics 1290",
@@ -4461,7 +4461,7 @@ var stations = {
         {
             name: "99 KUPI",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "https://sandhillradio.net/KUPI"
+            url: "https://ice7.securenetsystems.net/KUPI"
         },
         {
             name: "102.1 The Wolf",
@@ -4491,7 +4491,7 @@ var stations = {
         {
             name: "980 The Zone",
             logo: "stations/images-america/jackson/980 The Zone.png",
-            url: "https://sandhillradio.net/KSPZ"
+            url: "https://ice7.securenetsystems.net/KSPZ"
         },
     ],
     "kayenta": [
@@ -5253,12 +5253,12 @@ var stations = {
         {
             name: "KIOF 97.9",
             logo: "stations/images-america/las_vegas/KIOF 97.9.png",
-            url: "http://64.150.176.42:8182/stream"
+            url: "https://stream1.portsonic.net/8182/;"
         },
         {
             name: "Fiesta 98.1",
             logo: "stations/images-america/las_vegas/Fiesta 98.1.png",
-            url: "https://sonicpanel.hostradios.com/8166/stream"
+            url: "https://streamer.radio.co/s564c61bce/listen"
         },
         {
             name: "98.5 KLUC",
@@ -32956,11 +32956,6 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/aceandtj-drakehallshowaac-imc2"
         },
         {
-            name: "B96",
-            logo: "stations/images-america/c2c/memphis_tn/B96.png",
-            url: "https://stream1.flinn.com:8443/963FM.aac"
-        },
-        {
             name: "K97.1",
             logo: "stations/images-america/c2c/memphis_tn/K97.1.png",
             url: "https://stream.revma.ihrhls.com/zc2141/hls.m3u8"
@@ -32971,9 +32966,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4886/hls.m3u8"
         },
         {
-            name: "97.7 Guess FM",
-            logo: "stations/images-america/c2c/memphis_tn/97.7 Guess FM.png",
-            url: "https://ice42.securenetsystems.net/WOWW"
+            name: "B97.7",
+            logo: "stations/images-america/c2c/memphis_tn/B97.7.png",
+            url: "https://stream1.flinn.com:8443/963FM.aac"
         },
         {
             name: "98.1 The Max",
