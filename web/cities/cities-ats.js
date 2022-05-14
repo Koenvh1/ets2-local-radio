@@ -305,6 +305,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "hillcrest": {
+        name: "Hillcrest",
+        name_english: "Hillcrest",
+        code: "us-ca",
+        relative_radius: 0.6
+    },
     "hilt": {
         name: "Hilt",
         name_english: "Hilt",
@@ -663,6 +669,12 @@ var country_properties = {
         name: "Sterling",
         name_english: "Sterling",
         code: "us-co",
+        relative_radius: 0.8
+    },
+    "stockton": {
+        name: "Stockton",
+        name_english: "Stockton",
+        code: "us-ca",
         relative_radius: 0.8
     },
     "monterey": {
@@ -1033,6 +1045,10 @@ var city_properties = {
     "greybull": {
         relative_whitenoise: 0.85
     },
+    "hillcrest": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.85
+    },
     "hilt": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
@@ -1224,6 +1240,10 @@ var city_properties = {
     },
     "sterling": {
         relative_whitenoise: 0.90
+    },
+    "stockton": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.85
     },
     "monterey": {
         relative_whitenoise: 0.75
@@ -1907,6 +1927,14 @@ var cities = [
         "z": "-31984.8"
     },
     {
+        "gameName": "hillcrest",
+        "realName": "Hillcrest",
+        "country": "redding",
+        "x": "-106360",
+        "y": "84.146",
+        "z": "-26962.8"
+    },
+    {
         "gameName": "hilt",
         "realName": "Hilt",
         "country": "medford",
@@ -2569,6 +2597,14 @@ var cities = [
         "x": "-32170.9",
         "y": "110.477",
         "z": "-10118.3"
+    },
+    {
+        "gameName": "stockton",
+        "realName": "Stockton",
+        "country": "modesto",
+        "x": "-111220",
+        "y": "16.011",
+        "z": "-9965.24"
     },
 ];
 var country_properties_mexico = {
