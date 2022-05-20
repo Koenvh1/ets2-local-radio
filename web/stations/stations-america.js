@@ -29770,8 +29770,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCCUFM_SC"
         },
         {
-            name: "92.7 KTRX",
-            logo: "stations/images-america/c2c/ardmore_ok/92.7 KTRX.png",
+            name: "Star 92.7",
+            logo: "stations/images-america/c2c/ardmore_ok/Star 92.7.png",
             url: "https://ice42.securenetsystems.net/KTRX"
         },
         {
