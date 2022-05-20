@@ -6582,38 +6582,6 @@ var stations = {
             url: "https://svinews.com:8443/spur"
         },
     ],
-    "needles": [
-        {
-            name: "SOS Radio 90.5",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
-        },
-        {
-            name: "95.7 Jack FM",
-            logo: "stations/images-america/kingman/95.5 Jack FM.png",
-            url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
-        },
-        {
-            name: "The Highway Vibe 98.9",
-            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
-            url: "https://streaming.live365.com/a48408"
-        },
-        {
-            name: "KTOX 1340",
-            logo: "stations/images-america/needles/KTOX 1340.png",
-            url: "http://streaming.rubinbroadcasting.com/ktox"
-        },
-        {
-            name: "KNTR 980",
-            logo: "stations/images-america/kingman/980 KNTR.png",
-            url: "http://147.135.84.28/kntr-am"
-        },
-        {
-            name: "KLPZ 1380",
-            logo: "stations/images-america/kingman/KLPZ 1380.png",
-            url: "http://s5.voscast.com:7836/;.mp3"
-        },
-    ],
     "newport": [
         {
             name: "All Classical 88.1",

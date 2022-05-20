@@ -489,7 +489,7 @@ var country_properties = {
         name: "Needles",
         name_english: "Needles",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "newport": {
         name: "Newport",
@@ -1141,6 +1141,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "needles": {
+		relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "newport": {
@@ -2305,7 +2306,7 @@ var cities = [
     {
         "gameName": "needles",
         "realName": "Needles",
-        "country": "needles",
+        "country": "kingman",
         "x": "-85257.7",
         "y": "34.4319",
         "z": "14889.6"
