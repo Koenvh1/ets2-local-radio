@@ -198,6 +198,16 @@ var stations = {
             name: "Radio Bilingüe 89.1",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "Family Life Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "Cultural Energy 90.1",
+            logo: "stations/images-america/alamosa/Cultural Energy 90.1.png",
+            url: "https://stream.pacificaservice.org:9000/kcei_128"
         },/*
         {
             name: "KALQ 93.5",
@@ -220,9 +230,19 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KZBRFM?playSessionID=C706CB9E-449C-4C47-A5202F0CF156933F"
         },*/
         {
+            name: "Radio Exitos 99.1",
+            logo: "stations/images-america/raton/Radio Exitos 99.1.png",
+            url: "http://centova87.instainternet.com:8055/stream"
+        },
+        {
             name: "KSPK 100.3",
             logo: "stations/images-america/alamosa/KSPK 100.3.png",
             url: "http://stream.kspk.com:8000/live.mp3"
+        },
+        {
+            name: "FOX Sports 101.3",
+            logo: "stations/images-america/alamosa/FOX Sports 101.3.png",
+            url: "https://ice6.securenetsystems.net/KBGV"
         },
         {
             name: "The Light 102.7",
@@ -4322,11 +4342,6 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kpsifmaac-ibc4"
         },
         {
-            name: "Studio 100.9",
-            logo: "stations/images-america/indio/Studio 100.9.png",
-            url: "https://shaincast.caster.fm:12645/listen.mp3?authn6b09030e353dba8eb7321f04426394c3"
-        },
-        {
             name: "101.3 The Mix",
             logo: "stations/images-america/indio/101.3 The Mix.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KATYFMAAC_SC"
@@ -7924,7 +7939,7 @@ var stations = {
         {
             name: "Reno's Crazy 80's 93.7",
             logo: "stations/images-america/reno/Reno's Crazy 80's 93.7.png",
-            url: "https://ice6.securenetsystems.net/KPGF"
+            url: "https://c3.radioboss.fm:18286/stream"
         },
         {
             name: "CBS Sports Radio 94.1",
@@ -7954,7 +7969,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "https://p.itoad.net/browse.php?u=Oi8vaWNlMTAuc2VjdXJlbmV0c3lzdGVtcy5uZXQvS09MQw=="
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "KWNK 97.7",
@@ -8372,7 +8387,7 @@ var stations = {
         {
             name: "KYCS 95.1",
             logo: "stations/images-america/rock_springs/KYCS 95.1.png",
-            url: "https://us9.maindigitalstream.com/ssl/7855"
+            url: "https://us9.maindigitalstream.com/ssl/KYCS"
         },
         {
             name: "Q96",
@@ -8402,7 +8417,7 @@ var stations = {
         {
             name: "The Freeze 104.3",
             logo: "stations/images-america/rock_springs/The Freeze 104.3.png",
-            url: "https://us9.maindigitalstream.com/ssl/7861"
+            url: "https://us9.maindigitalstream.com/ssl/KFZE"
         },
         {
             name: "KUGR 104.9",
@@ -25446,6 +25461,11 @@ var stations_c2c = {
             name: "Big Stack 103.9",
             logo: "stations/images-america/c2c/greatfalls_mt/Big Stack 103.9.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd4aac-ibc4"
+        },
+        {
+            name: "Real Country 104.3",
+            logo: "stations/images-america/c2c/greatfalls_mt/Real Country 104.3.png",
+            url: "https://s2.stationplaylist.com:7034/listen.mp3"
         },
         {
             name: "104.9 The Wolf",

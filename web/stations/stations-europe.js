@@ -18,12 +18,12 @@ var stations = {
         {
             name: "Yle Vega",
             logo: "stations/images-europe/finland/YLE Vega.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027712/in-YleVegaOsterbotten/master.m3u8"
         },
         {
             name: "Yle X3M",
             logo: "stations/images-europe/finland/Yle X3M.png",
-            url: "https://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8"
         },
         {
             name: "Ålands Radio",
@@ -324,7 +324,7 @@ var stations = {
         {
             name: "Радио РОКС",
             logo: "stations/images-europe/belarus/Радио РОКС.png",
-            url: "http://de.streams.radioplayer.by:8000/live"
+            url: "https://stream.hoster.by/radioroks/roks_hd/icecast.audio"
         },
         {
             name: "Радио Юмор ФМ",
@@ -500,7 +500,7 @@ var stations = {
         {
             name: "Kalman Radio",
             logo: "stations/images-europe/bosnia/Kalman Radio.png",
-            url: "http://163.172.47.181:8203/stream"
+            url: "http://158.69.119.6:8203/stream"
         },
         {
             name: "Nes radio",
@@ -1165,37 +1165,37 @@ var stations = {
         {
             name: "Yle Radio 1",
             logo: "stations/images-europe/finland/YLE Radio 1.png",
-            url: "https://yleuni-f.akamaihd.net/i/yleliveradiohd_1@113878/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8"
         },
         {
             name: "Yle Puhe",
             logo: "stations/images-europe/finland/YLE Puhe.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_5@113882/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8"
         },
         {
             name: "Yle Klassinen",
             logo: "stations/images-europe/finland/YLE Klassinen.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_4@113881/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8"
         },
         {
             name: "Yle Radio Suomi",
             logo: "stations/images-europe/finland/YLE Radio Suomi.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_3@113880/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8"
         },
         {
             name: "Yle Vega",
             logo: "stations/images-europe/finland/YLE Vega.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027712/in-YleVegaOsterbotten/master.m3u8"
         },
         {
             name: "YleX",
             logo: "stations/images-europe/finland/YleX.png",
-            url: "http://yleuni-f.akamaihd.net/i/yleliveradiohd_2@113879/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8"
         },
         {
             name: "Yle X3M",
             logo: "stations/images-europe/finland/Yle X3M.png",
-            url: "https://yleuni-f.akamaihd.net/i/yleliveradiohd_6@113883/master.m3u8"
+            url: "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8"
         },
         {
             name: "Aito Iskelmä",
