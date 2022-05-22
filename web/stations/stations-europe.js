@@ -1614,9 +1614,19 @@ var stations = {
             url: "https://absolut-top.live-sm.absolutradio.de/absolut-top"
         },
         {
+            name: "AIDAradio",
+            logo: "stations/images-europe/germany/AIDAradio.png",
+            url: "https://frontend.streamonkey.net/aidaradio-meergefuehl"
+        },
+        {
             name: "Antenne Bayern",
             logo: "stations/images-europe/germany/Antenne Bayern.png",
             url: "https://s6-webradio.webradio.de/antenne"
+        },
+        {
+            name: "Brillux Radio",
+            logo: "stations/images-europe/germany/Brillux Radio.png",
+            url: "https://stream.brillux.radio/app"
         },
         {
             name: "dpd DRIVER`S RADIO",
