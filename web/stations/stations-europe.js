@@ -3508,12 +3508,12 @@ var stations = {
         {
             name: "Hits Radio",
             logo: "stations/images-europe/nireland/Hits Radio.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=hitsradio-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/nireland/Hits Radio Pride.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=hitsradiopride-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
             name: "Greatest Hits Radio",
@@ -3677,27 +3677,27 @@ var stations = {
         {
             name: "Polskie Radio 1",
             logo: "stations/images-europe/poland/Polskie Radio 1.png",
-            url: "http://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8"
+            url: "http://mp3.polskieradio.pl:8900/;.mp3"
         },
         {
             name: "Polskie Radio 2",
             logo: "stations/images-europe/poland/Polskie Radio 2.png",
-            url: "http://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8"
+            url: "http://stream3.polskieradio.pl:8952/;.mp3"
         },
         {
             name: "Polskie Radio 3",
             logo: "stations/images-europe/poland/Polskie Radio 3.png",
-            url: "http://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8"
+            url: "http://mp3.polskieradio.pl:8904/;.mp3"
         },
         {
             name: "Polskie Radio 4",
             logo: "stations/images-europe/poland/Polskie Radio 4.png",
-            url: "http://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8"
+            url: "http://stream3.polskieradio.pl:8906/;.mp3"
         },
         {
             name: "Polskie Radio 24",
             logo: "stations/images-europe/poland/Polskie Radio 24.png",
-            url: "http://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
+            url: "http://stream3.polskieradio.pl:8080/;.mp3"
         },
         {
             name: "Polskie Radio Chopin",
@@ -5323,7 +5323,7 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "http://www.radiofeeds.net/bauerflash.pls?station=heat-aac"
+            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=heat-aac"
         },
         {
             name: "KISS",
