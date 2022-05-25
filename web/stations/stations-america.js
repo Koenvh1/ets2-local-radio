@@ -7783,6 +7783,11 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KTGA"
         },
         {
+            name: "B102 The Bandit",
+            logo: "stations/images-america/rawlins/B102 The Bandit.png",
+            url: "http://173.193.205.96:7331/;"
+        },
+        {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
             url: "https://ice6.securenetsystems.net/KRAIAM"
@@ -9670,11 +9675,6 @@ var stations = {
             name: "Channel Q 98.1-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNXHD2AAC_SC"
-        },
-        {
-            name: "More FM 98.9",
-            logo: "stations/images-america/san_diego/More FM 98.9.png",
-            url: "http://radio.cadenanoticias.com:8004/morefm989"
         },
         {
             name: "FM Globo 99.3",
@@ -12618,12 +12618,7 @@ var stations_mexico = {
             name: "La Dinámica 105.9",
             logo: "stations/images-america/mexico/mexicali/La Dinámica 105.9.png",
             url: "https://sts.pergom.mx/XHSU"
-        },/*
-        {
-            name: "More FM 106.7",
-            logo: "stations/images-america/mexico/mexicali/More FM 106.7.png",
-            url: "http://us10a.serverse.com:8183/stream"
-        },*/
+        },
         {
             name: "Buenísima 850",
             logo: "stations/images-america/mexico/mexicali/Buenísima 850.png",
@@ -12638,11 +12633,6 @@ var stations_mexico = {
             name: "La Rocola 990",
             logo: "stations/images-america/mexico/mexicali/La Rocola 990.png",
             url: "https://sts.pergom.mx/XECL"
-        },
-        {
-            name: "Cadena 1190",
-            logo: "stations/images-america/mexico/mexicali/Cadena 1190.png",
-            url: "http://radio.cadenanoticias.com:8002/cadena1190"
         },
         {
             name: "Vida 1370",
@@ -25923,8 +25913,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
         },
         {
-            name: "The Breeze 94.5",
-            logo: "stations/images-america/c2c/grand_island_ne/The Breeze 94.5.png",
+            name: "Fiesta 94.5",
+            logo: "stations/images-america/c2c/grand_island_ne/Fiesta 94.5.png",
             url: "https://platteriverradio.broadcasttool.com/kliq-aac"
         },
         {
@@ -30166,8 +30156,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOHD2AAC_SC"
         },
         {
-            name: "Wild 104.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Wild 104.9.png",
+            name: "Alice 104.9",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Alice 104.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKWDFMAAC_SC"
         },
         {
