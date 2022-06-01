@@ -9428,9 +9428,9 @@ var stations = {
             url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KWVFFM"
         },
         {
-            name: "Broken FM 103.1",
-            logo: "stations/images-america/ukiah/Broken FM 88.7.png",
-            url: "http://brokenfm.primcast.com:6834/;stream/1"
+            name: "KFAITH 103.1",
+            logo: "stations/images-america/santa_rosa_ca/KFAITH 103.1.png",
+            url: "tbd"
         },
         {
             name: "KSRO 103.5",
@@ -24176,6 +24176,11 @@ var stations_c2c = {
             url: "https://ice.wbcengineering.com:8107/stream"
         },
         {
+            name: "Freedom 97.9",
+            logo: "stations/images-america/c2c/cape_girardeau_mo/Freedom 97.9.png",
+            url: "https://ice.wbcengineering.com:8109/stream"
+        },
+        {
             name: "Real Rock 99.3",
             logo: "stations/images-america/c2c/cape_girardeau_mo/Real Rock 99.3.png",
             url: "https://ice23.securenetsystems.net/KCGQ"
@@ -33540,6 +33545,11 @@ var stations_c2c = {
             name: "HOT 95.9",
             logo: "stations/images-america/c2c/austin_tx/HOT 95.9.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKMJHD3AAC_SC"
+        },
+        {
+            name: "96.3 Jack FM",
+            logo: "stations/images-america/c2c/austin_tx/96.3 Jack FM.png",
+            url: "https://ice8.securenetsystems.net/1490"
         },
         {
             name: "96.7 KISS FM",
