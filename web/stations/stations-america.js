@@ -34957,9 +34957,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6639/hls.m3u8"
         },
         {
-            name: "Energy 94.1",
-            logo: "stations/images-america/c2c/sanantonio_tx/Energy 94.1.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ktfmfmaac-ibc4"
+            name: "Sports Star 94.1",
+            logo: "stations/images-america/c2c/sanantonio_tx/Sports Star 94.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kzdcamaac-ibc4"
         },
         {
             name: "WE 94.5",
@@ -35027,11 +35027,6 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kjxkfmaac-ibc4"
         },
         {
-            name: "Sports Star 103.3",
-            logo: "stations/images-america/c2c/sanantonio_tx/Sports Star 103.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kzdcamaac-ibc4"
-        },
-        {
             name: "Norteño 104.1",
             logo: "stations/images-america/c2c/sanantonio_tx/Norteño 104.1.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ksahamaac-ibc4"
@@ -35097,6 +35092,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLUPAMAAC_SC"
         },
         {
+            name: "KDRY AM 1100",
+            logo: "stations/images-america/c2c/sanantonio_tx/KDRY AM 1100.png",
+            url: "https://ic2.sslstream.com/kdry-am"
+        },
+        {
             name: "Relevant Radio 1160",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
@@ -35105,6 +35105,11 @@ var stations_c2c = {
             name: "1200 WOAI",
             logo: "stations/images-america/c2c/sanantonio_tx/1200 WOAI.png",
             url: "https://stream.revma.ihrhls.com/zc2361/hls.m3u8"
+        },
+        {
+            name: "Gospel 1480",
+            logo: "stations/images-america/c2c/sanantonio_tx/Gospel 1480.png",
+            url: "https://ic2.sslstream.com/kchl-am"
         },
     ],
     "snyder_tx": [
