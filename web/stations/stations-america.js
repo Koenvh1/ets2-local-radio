@@ -4367,8 +4367,8 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KRHQ"
         },
         {
-            name: "102.7 KXPS",
-            logo: "stations/images-america/indio/102.7 KXPS.png",
+            name: "102.7 The Fanatic",
+            logo: "stations/images-america/indio/102.7 The Fanatic.png",
             url: "https://ice6.securenetsystems.net/KXPS"
         },
         {
@@ -19984,6 +19984,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNSSAMAAC_SC"
         },
         {
+            name: "KNSS 98.7",
+            logo: "stations/images-america/c2c/wichita_ks/KNSS 98.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNSSAMAAC_SC"
+        },
+        {
             name: "KFDI 101.3",
             logo: "stations/images-america/c2c/wichita_ks/KFDI 101.3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7718_128k.aac"
@@ -32079,9 +32084,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSEAFMAAC_SC"
         },
         {
-            name: "HQR Classical 102.3",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/HQR Classical 102.3.png",
-            url: "https://whqr.streamguys1.com/whqr_hd2"
+            name: "El Gallo 102.3",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/El Gallo 102.3.png",
+            url: "https://securenetg.com/radio/8160/radio.aac"
         },
         {
             name: "Sunny 103.1",
