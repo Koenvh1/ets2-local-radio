@@ -8734,8 +8734,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6775/hls.m3u8"
         },
         {
-            name: "The New 107.9",
-            logo: "stations/images-america/sacramento/The new 107.9.png",
+            name: "KISS 107.9",
+            logo: "stations/images-america/sacramento/KISS 107.9.png",
             url: "https://stream.revma.ihrhls.com/zc9429/hls.m3u8"
         },
         {
