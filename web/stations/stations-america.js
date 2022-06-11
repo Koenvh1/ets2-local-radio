@@ -14827,8 +14827,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC_SC"
         },
         {
-            name: "1230 The Zone",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/1230 The Zone.png",
+            name: "1230 The Gambler",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/1230 The Gambler.png",
             url: "https://stream.revma.ihrhls.com/zc701/hls.m3u8"
         },
         {
