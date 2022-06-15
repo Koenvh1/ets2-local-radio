@@ -727,11 +727,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC"
         },
         {
-            name: "Comedy 800",
-            logo: "stations/images-america/bakersfield/Comedy 800.png",
-            url: "https://stream.revma.ihrhls.com/zc6141/hls.m3u8"
-        },
-        {
             name: "KYNO 940",
             logo: "stations/images-america/fresno/KYNO 940.png",
             url: "https://ice8.securenetsystems.net/KYNO"
@@ -16319,6 +16314,11 @@ var stations_c2c = {
             name: "Tally 99.9",
             logo: "stations/images-america/c2c/tallahassee_fl/Tally 99.9.png",
             url: "https://live.wostreaming.net/manifest/adamsradio-wxtyfmaac-ibc1"
+        },
+        {
+            name: "BIN 100.3",
+            logo: "stations/images-america/c2c/tallahassee_fl/BIN 100.3.png",
+            url: "https://stream.revma.ihrhls.com/zc9385/hls.m3u8"
         },
         {
             name: "100.7 WFLA",
