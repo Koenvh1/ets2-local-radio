@@ -29276,12 +29276,12 @@ var stations_c2c = {
             name: "Sunny 95",
             logo: "stations/images-america/c2c/columbus_oh/Sunny 95.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wsnyfmaac-ibc2"
-        },
+        },/*
         {
-            name: "easy 95.1",
-            logo: "stations/images-america/c2c/columbus_oh/easy 95.1.png",
-            url: "https://live.wostreaming.net/manifest/nabco-wmniamaac-ibc4"
-        },
+            name: "Star 95.1",
+            logo: "stations/images-america/c2c/columbus_oh/Star 95.1.png",
+            url: "https://live.wostreaming.net/manifest/nabco-wmnifmaac-ibc4"
+        },*/
         {
             name: "Qfm 96",
             logo: "stations/images-america/c2c/columbus_oh/Qfm 96.png",
@@ -29361,6 +29361,11 @@ var stations_c2c = {
             name: "610 WTVN",
             logo: "stations/images-america/c2c/columbus_oh/610 WTVN.png",
             url: "https://stream.revma.ihrhls.com/zc1765/hls.m3u8"
+        },
+        {
+            name: "FOX Sports 920",
+            logo: "stations/images-america/c2c/columbus_oh/FOX Sports 920.png",
+            url: "https://live.wostreaming.net/manifest/nabco-wmniamaac-ibc4"
         },
         {
             name: "BIN 1230",
