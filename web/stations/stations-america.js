@@ -4573,8 +4573,8 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KIOK"
         },
         {
-            name: "95.7 The Bridge",
-            logo: "stations/images-america/kennewick_pendleton/95.7 The Bridge.png",
+            name: "BIG 95.7",
+            logo: "stations/images-america/kennewick_pendleton/BIG 95.7.png",
             url: "https://ice7.securenetsystems.net/KKSR"
         },
         {
@@ -4633,8 +4633,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
         },
         {
-            name: "106.1 More FM",
-            logo: "stations/images-america/kennewick_pendleton/106.1 More FM.png",
+            name: "106.1 The Bridge",
+            logo: "stations/images-america/kennewick_pendleton/106.1 The Bridge.png",
             url: "https://ice9.securenetsystems.net/KALE"
         },
         {
@@ -7771,6 +7771,11 @@ var stations = {
             name: "WPR 89.9",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
+        },
+        {
+            name: "Pilgrim Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
             name: "Bigfoot 99",
@@ -35901,8 +35906,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/saga-wnorfmaac-ibc1"
         },
         {
-            name: "HOT 100",
-            logo: "stations/images-america/c2c/norfolk_va/HOT 100.png",
+            name: "100.5 The Vibe",
+            logo: "stations/images-america/c2c/norfolk_va/100.5 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVHTFMAAC_SC"
         },
         {
