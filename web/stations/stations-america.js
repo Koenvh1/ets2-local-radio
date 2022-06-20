@@ -1598,7 +1598,7 @@ var stations = {
         {
             name: "99.9 KONY Country",
             logo: "stations/images-america/cedar_city/99.9 KONY.png",
-            url: "https://ice10.securenetsystems.net/KONY2"
+            url: "https://ice10.securenetsystems.net/KONY"
         },
         {
             name: "K262BM 100.3",
@@ -1957,12 +1957,12 @@ var stations = {
             name: "101.1 The Answer",
             logo: "stations/images-america/colorado_springs_pueblo/101.1 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZNTAMAAC_SC"
-        },
+        },/*
         {
             name: "Gnarly 101.3",
             logo: "stations/images-america/colorado_springs_pueblo/Gnarly 101.3.png",
             url: "http://s3.voscast.com:9140/;"
-        },
+        },*/
         {
             name: "eXtra Music 102.1",
             logo: "stations/images-america/denver/eXtra Music 102.1.png",
@@ -3136,7 +3136,7 @@ var stations = {
         {
             name: "Rewind 104.1",
             logo: "stations/images-america/flagstaff/Rewind 104.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFLXFMAAC_SC"
+            url: "https://ice.wbcengineering.com:8120/stream
         },
         {
             name: "KVRD Country 105.7",
@@ -3602,7 +3602,7 @@ var stations = {
         {
             name: "1550 KXEX",
             logo: "stations/images-america/fresno/1550 KXEX.png",
-            url: "http://173.193.205.96:7403/stream"
+            url: "https://stream.radiojar.com/8bkcxp4pduhvv"
         },
         {
             name: "Multi Cultural 1600",
@@ -4125,7 +4125,7 @@ var stations = {
         {
             name: "1550 KXEX",
             logo: "stations/images-america/fresno/1550 KXEX.png",
-            url: "http://173.193.205.96:7403/stream"
+            url: "https://stream.radiojar.com/8bkcxp4pduhvv"
         },
     ],
     "idaho_falls": [
@@ -4519,12 +4519,12 @@ var stations = {
             name: "Red Rock 92",
             logo: "stations/images-america/moab/Red Rock 92.png",
             url: "http://162.244.80.106:9068/stream"
-        },
+        },/*
         {
             name: "Red Rock 103.5",
             logo: "stations/images-america/page/Red Rock 103.5.png",
             url: "http://142.44.136.201:5152/stream"
-        },
+        },*/
         {
             name: "KFXR 107.3",
             logo: "stations/images-america/gallup/99.1 KGLX.png",
@@ -6920,12 +6920,12 @@ var stations = {
             name: "KNAU 102.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
-        },
+        },/*
         {
             name: "Red Rock 103.5",
             logo: "stations/images-america/page/Red Rock 103.5.png",
             url: "http://142.44.136.201:5152/stream"
-        },
+        },*/
         {
             name: "KSUB 590",
             logo: "stations/images-america/cedar_city/KSUB 590.png",
@@ -9045,12 +9045,12 @@ var stations = {
             name: "Sunday Sounds 100.3-HD2",
             logo: "stations/images-america/salt_lake/Sunday Sounds 100.3-HD2.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
-        },
+        },/*
         {
             name: "FM100.3 Christmas 100.3-HD3",
             logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
-        },
+        },*/
         {
             name: "100.7 BOB FM",
             logo: "stations/images-america/salt_lake/100.7 BOB FM.png",
