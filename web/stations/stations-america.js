@@ -1407,11 +1407,6 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KTZA"
         },
         {
-            name: "93.9 La Raza",
-            logo: "stations/images-america/carlsbad_nm/93.9 La Raza.png",
-            url: "https://us9.maindigitalstream.com/ssl/laraza"
-        },
-        {
             name: "94.9 The Country Giant",
             logo: "stations/images-america/roswell/94.9 The Country Giant.png",
             url: "https://ais-sa2.cdnstream1.com/2336_128.mp3"
@@ -1445,6 +1440,21 @@ var stations = {
             name: "B107 The Blaze",
             logo: "stations/images-america/hobbs/B107 The Blaze.png",
             url: "http://ice2.securenetsystems.net/KTUM"
+        },
+        {
+            name: "KCRS 550",
+            logo: "stations/images-america/c2c/midland_tx/KCRS 97.5.png",
+            url: "http://ice5.securenetsystems.net:80/KCRSAM"
+        },
+        {
+            name: "KATK 740",
+            logo: "stations/images-america/carlsbad_nm/93.9 La Raza.png",
+            url: "https://us9.maindigitalstream.com/ssl/laraza"
+        },
+        {
+            name: "KEJL 1110",
+            logo: "stations/images-america/hobbs/Eagle 100.5.png",
+            url: "https://us2.maindigitalstream.com/ssl/KEJL"
         },
     ],
     "casper": [
@@ -3136,7 +3146,7 @@ var stations = {
         {
             name: "Rewind 104.1",
             logo: "stations/images-america/flagstaff/Rewind 104.1.png",
-            url: "https://ice.wbcengineering.com:8120/stream
+            url: "https://ice.wbcengineering.com:8120/stream"
         },
         {
             name: "KVRD Country 105.7",
@@ -4074,21 +4084,6 @@ var stations = {
             name: "La Zeta 103.7",
             logo: "stations/images-america/hobbs/La Zeta 103.7.png",
             url: "https://us2.maindigitalstream.com/ssl/KPZA"
-        },
-        {
-            name: "W105",
-            logo: "stations/images-america/hobbs/W105.png",
-            url: "https://ice3.securenetsystems.net/KWMW"
-        },
-        {
-            name: "B107 The Blaze",
-            logo: "stations/images-america/hobbs/B107 The Blaze.png",
-            url: "http://ice2.securenetsystems.net/KTUM"
-        },
-        {
-            name: "KCRS 550",
-            logo: "stations/images-america/c2c/midland_tx/KCRS 97.5.png",
-            url: "http://ice5.securenetsystems.net:80/KCRSAM"
         },
     ],
     "huron": [
@@ -8477,16 +8472,6 @@ var stations = {
             url: "http://ice10.securenetsystems.net:80/KENWFM"
         },
         {
-            name: "92.9 The Brand",
-            logo: "stations/images-america/roswell/92.9 The Brand.png",
-            url: "https://ice23.securenetsystems.net/KTZA"
-        },
-        {
-            name: "94.9 The Country Giant",
-            logo: "stations/images-america/roswell/94.9 The Country Giant.png",
-            url: "https://ais-sa2.cdnstream1.com/2336_128.mp3"
-        },
-        {
             name: "VCY America 97.9",
             logo: "stations/images-america/0_general_logos/VCY America.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
@@ -8512,29 +8497,9 @@ var stations = {
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
-            name: "CD104",
-            logo: "stations/images-america/carlsbad_nm/CD104.png",
-            url: "https://us9.maindigitalstream.com/ssl/cd104"
-        },
-        {
-            name: "Fierro 106.1",
-            logo: "stations/images-america/carlsbad_nm/Fierro 106.1.png",
-            url: "http://ice3.securenetsystems.net:80/KPZE"
-        },
-        {
             name: "106.5 Roswell's Talk FM",
             logo: "stations/images-america/roswell/106.5 Roswell's Talk FM.png",
             url: "https://ice23.securenetsystems.net/KEND"
-        },
-        {
-            name: "B107 The Blaze",
-            logo: "stations/images-america/hobbs/B107 The Blaze.png",
-            url: "http://ice2.securenetsystems.net/KTUM"
-        },
-        {
-            name: "KEJL 1110",
-            logo: "stations/images-america/hobbs/Eagle 100.5.png",
-            url: "https://us2.maindigitalstream.com/ssl/KEJL"
         },
     ],
     "sacramento": [

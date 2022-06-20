@@ -1946,6 +1946,14 @@ var cities = [
     {
         "gameName": "hobbs",
         "realName": "Hobbs",
+        "country": "carlsbad_nm",
+        "x": "-33734.9",
+        "y": "64.0195",
+        "z": "33858.8"
+    },
+    {
+        "gameName": "hobbs",
+        "realName": "Hobbs",
         "country": "hobbs",
         "x": "-33734.9",
         "y": "64.0195",
@@ -1982,6 +1990,14 @@ var cities = [
         "x": "-53904.7",
         "y": "152.172",
         "z": "-18853.2"
+    },
+    {
+        "gameName": "roswell",
+        "realName": "Roswell",
+        "country": "carlsbad_nm",
+        "x": "-39713.4",
+        "y": "106.012",
+        "z": "29859.5"
     },
     {
         "gameName": "roswell",
