@@ -580,8 +580,8 @@ var stations = {
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
-            name: "91.9 KESY",
-            logo: "stations/images-america/baker_city/91.9 KESY.png",
+            name: "KESY 91.1",
+            logo: "stations/images-america/boise/89.5 KTSY.png",
             url: "http://147.135.84.27/ktsy-fm"
         },/*
         {
@@ -1095,7 +1095,7 @@ var stations = {
         },
         {
             name: "89.5 KTSY",
-            logo: "stations/images-america/baker_city/91.9 KESY.png",
+            logo: "stations/images-america/boise/89.5 KTSY.png",
             url: "http://147.135.84.27/ktsy-fm"
         },
         {
@@ -1111,7 +1111,7 @@ var stations = {
         {
             name: "BSPR Jazz 90.3-HD2",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org:9030/KBSK"
+            url: "https://boisestate.streamguys1.com/Jazz-aac-256k-icy"
         },
         {
             name: "BSPR News 91.5",
@@ -4400,12 +4400,7 @@ var stations = {
             name: "107.3 Mod FM",
             logo: "stations/images-america/indio/107.3 Mod FM.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kdeshd2aac-ibc4"
-        },/*
-        {
-            name: "920 KGX",
-            logo: "stations/images-america/yuma/920 KGX.png",
-            url: "silent - 11.10.2021"
-        },*/
+        },
     ],
     "jackson": [
         {
@@ -6042,9 +6037,19 @@ var stations = {
     ],
     "mccall": [
         {
+            name: "KGSY 88.3",
+            logo: "stations/images-america/boise/89.5 KTSY.png",
+            url: "http://147.135.84.27/ktsy-fm"
+        },
+        {
+            name: "Project 88.7",
+            logo: "stations/images-america/boise/Project 88.7.png",
+            url: "https://ic2.sslstream.com/koay-fm"
+        },
+        {
             name: "BSPR Jazz 89.9",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org:9030/KBSK"
+            url: "https://boisestate.streamguys1.com/Jazz-aac-256k-icy"
         },
         {
             name: "BSPR News 90.7",
@@ -8709,8 +8714,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
         },
         {
-            name: "1140 KHTK",
-            logo: "stations/images-america/sacramento/1140 KHTK.png",
+            name: "Sactown Sports 1140",
+            logo: "stations/images-america/sacramento/Sactown Sports 1140.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHTKAMAAC_SC"
         },
         {
@@ -11201,11 +11206,6 @@ var stations = {
             url: "http://streaming.live365.com/a25079"
         },
         {
-            name: "KPYT 100.3",
-            logo: "stations/images-america/tucson/KPYT 100.3.png",
-            url: "http://edge.mixlr.com/channel/kfoms"
-        },
-        {
             name: "Air1 100.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -11882,12 +11882,12 @@ var stations = {
             name: "560 KBLU",
             logo: "stations/images-america/yuma/560 KBLU.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2?source=v7player"
-        },/*
+        },
         {
             name: "920 KGX",
-            logo: "stations/images-america/yuma/920 KGX.png",
-            url: "silent - 11.10.2021"
-        },*/
+            logo: "stations/images-america/indio/99.1 KGX.png",
+            url: "https://ice10.securenetsystems.net/KGX"
+        },
         {
             name: "Outlaw Country 1400",
             logo: "stations/images-america/yuma/Outlaw Country 1400.png",

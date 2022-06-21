@@ -455,6 +455,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.4
     },
+    "martins": {
+        name: "Martins",
+        name_english: "Martins",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
     "mccall": {
         name: "McCall",
         name_english: "McCall",
@@ -520,6 +526,12 @@ var country_properties = {
         name_english: "Page",
         code: "us-az",
         relative_radius: 0.7
+    },
+    "palm_springs": {
+        name: "Palm Springs",
+        name_english: "Palm Springs",
+        code: "us-ca",
+        relative_radius: 0.5
     },
     "phoenix": {
         name: "Phoenix",
@@ -909,7 +921,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "barstow": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.65
     },
     "bellingham": {
         relative_whitenoise: 0.85
@@ -1125,6 +1137,10 @@ var city_properties = {
     "ludlow": {
         relative_whitenoise: 0.85
     },
+    "martins_ca": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.85
+    },
     "mccall": {
         relative_whitenoise: 0.85
     },
@@ -1159,6 +1175,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "page": {
+        relative_whitenoise: 0.85
+    },
+    "palm_springs": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "pendleton": {
@@ -1622,6 +1642,14 @@ var cities = [
         "x": "-69181.3",
         "y": "124.344",
         "z": "5521.9"
+    },
+    {
+        "gameName": "palm_springs",
+        "realName": "Palm Springs",
+        "country": "indio",
+        "x": "-96082.8",
+        "y": "4.40258",
+        "z": "17375.5"
     },
     {
         "gameName": "phoenix",
@@ -2470,6 +2498,14 @@ var cities = [
         "x": "-79313.3",
         "y": "84.9904",
         "z": "-42465"
+    },
+    {
+        "gameName": "martins_ca",
+        "realName": "Martins",
+        "country": "los_angeles",
+        "x": "-104462",
+        "y": "65.4794",
+        "z": "11502.9"
     },
     {
         "gameName": "salmon",
