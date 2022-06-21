@@ -24673,7 +24673,7 @@ var stations_c2c = {
         {
             name: "ESPN 104.9",
             logo: "stations/images-america/c2c/rolla_mo/ESPN 104.9.png",
-            url: "https://ice10.securenetsystems.net/POWER104"
+            url: "https://ice23.securenetsystems.net/ESPN1049"
         },
         {
             name: "105.3 KZNN",

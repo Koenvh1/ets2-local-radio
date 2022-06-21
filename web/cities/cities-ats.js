@@ -551,6 +551,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.7
     },
+    "pocatello": {
+        name: "Pocatello",
+        name_english: "Pocatello",
+        code: "us-id",
+        relative_radius: 0.8
+    },
     "port_angeles": {
         name: "Port Angeles",
         name_english: "Port Angeles",
@@ -1194,6 +1200,10 @@ var city_properties = {
     "salida": {
         relative_whitenoise: 0.85
     },
+    "pocatello": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
     "port_angeles": {
         relative_whitenoise: 0.85
     },
@@ -1331,7 +1341,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "twin_falls": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "ukiah": {
         relative_whitenoise: 0.75
@@ -2266,6 +2276,14 @@ var cities = [
         "x": "-89094.8",
         "y": "49.3279",
         "z": "-64462"
+    },
+    {
+        "gameName": "pocatello",
+        "realName": "Pocatello",
+        "country": "idaho_falls",
+        "x": "-68356.2",
+        "y": "81.6259",
+        "z": "-27970.9"
     },
     {
         "gameName": "port_angeles",
