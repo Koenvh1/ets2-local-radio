@@ -4767,11 +4767,6 @@ var stations = {
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
         },
         {
-            name: "Star 107.9",
-            logo: "stations/images-america/las_vegas/Star 107.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
-        },
-        {
             name: "KDWN 720",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
@@ -5241,6 +5236,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1345/hls.m3u8"
         },
         {
+            name: "iHeart Country Classics 95.5-HD2",
+            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
+            url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
+        },
+        {
             name: "96.3 KKLZ",
             logo: "stations/images-america/las_vegas/96.3 KKLZ.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
@@ -5316,9 +5316,9 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KWIDFMAAC_SC"
         },
         {
-            name: "102.7 Coyote Country",
-            logo: "stations/images-america/las_vegas/102.7 Coyote Country.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
+            name: "102.7 VGS",
+            logo: "stations/images-america/las_vegas/102.7 VGS.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
         },
         {
             name: "Zona MX 103.5",
@@ -5351,9 +5351,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
         },
         {
-            name: "Soft Rock 106.5-HD2",
-            logo: "stations/images-america/0_general_logos/Soft Rock.png",
-            url: "https://stream.revma.ihrhls.com/zc4414/hls.m3u8"
+            name: "The Breeze 106.5-HD2",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
             name: "106.9 Da Bomb",
@@ -5371,9 +5371,9 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEHD2AAC_SC"
         },
         {
-            name: "Star 107.9",
-            logo: "stations/images-america/las_vegas/Star 107.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
+            name: "107.9 Coyote Country",
+            logo: "stations/images-america/las_vegas/107.9 Coyote Country.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
         },
         {
             name: "AM670",
@@ -29246,12 +29246,12 @@ var stations_c2c = {
             name: "Sunny 95",
             logo: "stations/images-america/c2c/columbus_oh/Sunny 95.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wsnyfmaac-ibc2"
-        },/*
+        },
         {
             name: "Star 95.1",
             logo: "stations/images-america/c2c/columbus_oh/Star 95.1.png",
-            url: "https://live.wostreaming.net/manifest/nabco-wmnifmaac-ibc4"
-        },*/
+            url: "https://live.wostreaming.net/manifest/nabco-wjkrhd2aac-hlsc.m3u8"
+        },
         {
             name: "Qfm 96",
             logo: "stations/images-america/c2c/columbus_oh/Qfm 96.png",
