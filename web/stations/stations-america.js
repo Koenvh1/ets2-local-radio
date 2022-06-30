@@ -37983,8 +37983,8 @@ var stations_canada = {
             url: "https://redirect.jpbgdigital.com/CHWK"
         },
         {
-            name: "KiSS 92.5",
-            logo: "stations/images-america/canada/vancouver/KiSS 104.9.png",
+            name: "SONiC 92.5",
+            logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
@@ -40597,8 +40597,8 @@ var stations_canada = {
             url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CHLGFM"
         },
         {
-            name: "KiSS 104.9",
-            logo: "stations/images-america/canada/vancouver/KiSS 104.9.png",
+            name: "SONiC 104.9",
+            logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {

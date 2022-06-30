@@ -1770,6 +1770,11 @@ var stations = {
             logo: "stations/images-europe/germany-br/Radio Arabella Bayern.png",
             url: "https://live.arabella-bayern.de/arabella-bayern.mp3"
         },
+        {
+            name: "TOP FM",
+            logo: "stations/images-europe/germany-br/TOP FM.png",
+            url: "https://topfm-live.cast.addradio.de/topfm/live/mp3/high"
+        },
     ],
     "germany-bremen": [
         {
@@ -2797,7 +2802,7 @@ var stations = {
         {
             name: "Radio Italia",
             logo: "stations/images-europe/italy/Radio Italia.png",
-            url: "https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8"
+            url: "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8"
         },
         {
             name: "Radio Kiss Kiss",
