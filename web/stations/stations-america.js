@@ -11313,9 +11313,14 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kezjfmaac-ibc3"
         },
         {
+            name: "96.1 KLIX",
+            logo: "stations/images-america/twin_falls/96.1 KLIX.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-klixamaac-ibc3"
+        },
+        {
             name: "KOOL 96.5",
             logo: "stations/images-america/twin_falls/KOOL 96.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-klixamaac-ibc3"
+            url: "https://live.wostreaming.net/manifest/townsquare-klixfmaac-ibc3"
         },/*
         {
             name: "Balanced Rock 97.5",
@@ -11371,11 +11376,6 @@ var stations = {
             name: "Q106.7",
             logo: "stations/images-america/ketchum/Q106.7.png",
             url: "https://ice10.securenetsystems.net/KIRQFM"
-        },
-        {
-            name: "1310 KLIX",
-            logo: "stations/images-america/twin_falls/1310 KLIX.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-klixamaac-ibc3"
         },
     ],
     "ukiah": [
