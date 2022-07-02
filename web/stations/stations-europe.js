@@ -50,17 +50,17 @@ var stations = {
         {
             name: "Radio Tirana 1",
             logo: "stations/images-europe/albania/Radio Tirana 1.png",
-            url: "https://radiolive.rtsh.dev/radiotirana1"
+            url: "http://79.106.48.2:8000/radiotirana1"
         },
         {
             name: "Radio Tirana 2",
             logo: "stations/images-europe/albania/Radio Tirana 2.png",
-            url: "https://radiolive.rtsh.dev/radiotirana2"
+            url: "http://79.106.48.2:8000/radiotirana2"
         },
         {
             name: "Radio Tirana 3",
             logo: "stations/images-europe/albania/Radio Tirana 3.png",
-            url: "https://radiolive.rtsh.dev/radiotirana3"
+            url: "http://79.106.48.2:8000/radiotirana3"
         },
         {
             name: "Club FM",
@@ -669,7 +669,7 @@ var stations = {
         {
             name: "Ràdio Estel",
             logo: "stations/images-europe/catalonia/Ràdio Estel.png",
-            url: "https://srv7021.dns-lcinternet.com/8020/stream"
+            url: "https://srv6021.dns-lcinternet.com:10244/stream"
         },
         {
             name: "SER Catalunya",
@@ -853,7 +853,7 @@ var stations = {
         {
             name: "Radyo Güven",
             logo: "stations/images-europe/cyprus/Radyo Güven.png",
-            url: "http://us2freenew.listen2myradio.com:33673/;"
+            url: "http://freeuk29.listen2myradio.com:8956/;"
         },
         {
             name: "Русское Радио Кипр",
@@ -1015,12 +1015,12 @@ var stations = {
             name: "ERTU Al Orobi",
             logo: "stations/images-europe/egypt/ERTU.png",
             url: "https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8"
-        },
+        },/*
         {
             name: "MIX FM 87.8",
             logo: "stations/images-europe/egypt/MIX FM 87.8.png",
             url: "https://c34.radioboss.fm:18035/stream"
-        },
+        },*/
         {
             name: "Radio Hits 88.2",
             logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
@@ -1064,7 +1064,7 @@ var stations = {
         {
             name: "Radio Masr",
             logo: "stations/images-europe/egypt/Radio Masr.png",
-            url: "https://live.radiomasr.net/RADIOMASR"
+            url: "https://streaming.radio.co/scc13a6b96/listen"
         },
     ],
     "estonia": [
@@ -1756,6 +1756,11 @@ var stations = {
             url: "https://mcdn.hf.br.de/br/hf/puls/master.m3u8"
         },
         {
+            name: "AFN Bavaria",
+            logo: "stations/images-europe/germany-br/AFN Bavaria.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAV_SC"
+        },
+        {
             name: "Antenne Bayern",
             logo: "stations/images-europe/germany/Antenne Bayern.png",
             url: "https://s1-webradio.webradio.de/antenne"
@@ -2197,6 +2202,11 @@ var stations = {
             logo: "stations/images-europe/germany-rbb/FluxFM.png",
             url: "http://streams.fluxfm.de/live/mp3-320/audio/"
         },
+        {
+            name: "JAM FM",
+            logo: "stations/images-europe/germany-rbb/JAM FM.png",
+            url: "https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-128-6002587"
+        },
     ],
     "germany-rp": [
         {
@@ -2611,7 +2621,7 @@ var stations = {
         {
             name: "راديو الآن",
             logo: "stations/images-europe/iraq/راديو الآن.svg",
-            url: "https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8"
+            url: "https://alaanfm.radioman.fi:8443/medianode1"
         },
     ],
     "ireland": [
@@ -5151,7 +5161,7 @@ var stations = {
         {
             name: "Radyo Fenomen",
             logo: "stations/images-europe/turkey/Radyo Fenomen.png",
-            url: "https://listen.radyofenomen.com/fenomen/128/icecast.audio"
+            url: "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
         },
         {
             name: "Radyo Seymen",

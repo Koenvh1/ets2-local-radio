@@ -39,7 +39,7 @@ var country_properties = {
         name: "Baker",
         name_english: "Baker",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "baker_city": {
         name: "Baker City",
@@ -410,6 +410,12 @@ var country_properties = {
     "las_vegas": {
         name: "Las Vegas",
         name_english: "Las Vegas",
+        code: "us-nv",
+        relative_radius: 0.8
+    },
+    "south_las_vegas": {
+        name: "South Las Vegas",
+        name_english: "South Las Vegas",
         code: "us-nv",
         relative_radius: 0.8
     },
@@ -918,6 +924,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "baker": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "baker_city": {
@@ -1118,6 +1125,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "las_vegas": {
+        relative_whitenoise: 0.80
+    },
+    "south_las_vegas": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.80
     },
     "leevining": {
@@ -1392,10 +1403,10 @@ var cities = [
     {
         "gameName": "baker",
         "realName": "Baker",
-        "country": "baker",
-        "x": "-90919.7",
+        "country": "las_vegas",
+        "x": "-89919.7",
         "y": "83.7424",
-        "z": "11180.3"
+        "z": "10180.3"
     },
     {
         "gameName": "bakersfield",
@@ -1588,6 +1599,14 @@ var cities = [
         "x": "-85816.2",
         "y": "76.7917",
         "z": "5816.68"
+    },
+    {
+        "gameName": "south_las_vegas",
+        "realName": "South Las Vegas",
+        "country": "las_vegas",
+        "x": "-82931.7",
+        "y": "47.725",
+        "z": "10694.9"
     },
     {
         "gameName": "leevining",

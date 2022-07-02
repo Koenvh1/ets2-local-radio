@@ -526,53 +526,6 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KRAIAM"
         },
     ],
-    "baker": [
-        {
-            name: "KNPR 88.9",
-            logo: "stations/images-america/nevada/KNPR.svg",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
-        },
-        {
-            name: "KOMP 92.3",
-            logo: "stations/images-america/las_vegas/KOMP 92.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOMPFMAAC_SC"
-        },
-        {
-            name: "93.1 The Mountain",
-            logo: "stations/images-america/las_vegas/93.1 The Mountain.png",
-            url: "https://stream.revma.ihrhls.com/zc1337/hls.m3u8"
-        },
-        {
-            name: "DRIVE 94.9",
-            logo: "stations/images-america/barstow/DRIVE 96.9.png",
-            url: "https://streaming.live365.com/a98605"
-        },
-        {
-            name: "97.1 The Point",
-            logo: "stations/images-america/las_vegas/97.1 The Point.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTFMAAC_SC"
-        },
-        {
-            name: "The Highway Vibe 99.7",
-            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
-            url: "https://streaming.live365.com/a48408"
-        },
-        {
-            name: "The Highway Country 101.5",
-            logo: "stations/images-america/barstow/The Highway Country 107.3.png",
-            url: "https://streaming.live365.com/a58353"
-        },
-        {
-            name: "ALT 107.5",
-            logo: "stations/images-america/las_vegas/ALT 107.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFMAAC_SC"
-        },
-        {
-            name: "840 KXNT",
-            logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KXNTAMAAC_SC"
-        },
-    ],
     "baker_city": [
         {
             name: "OPB 88.9",
@@ -11626,9 +11579,9 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kwiqfmaac-ibc4"
         },
         {
-            name: "KOHO 101",
-            logo: "stations/images-america/wenatchee/KOHO 101.png",
-            url: "https://live.wostreaming.net/manifest/icicle-kohofmaac-ibc4"
+            name: "NWPR Jazz 101.1",
+            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            url: "https://streams.nwpr.org:8443/NWPRKJEM"
         },
         {
             name: "The Quake 102.1",
@@ -27455,8 +27408,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7089/hls.m3u8"
         },
         {
-            name: "107.3 The Bull",
-            logo: "stations/images-america/c2c/rochester_ny/107.3 The Bull.png",
+            name: "BIG 107.3",
+            logo: "stations/images-america/c2c/rochester_ny/BIG 107.3.png",
             url: "https://stream.revma.ihrhls.com/zc5323/hls.m3u8"
         },
         {
@@ -42027,7 +41980,7 @@ var stations_caribbean = {
         {
             name: "AFN Guantanamo Bay 102.1",
             logo: "stations/images-america/caribbean/guantanamo_bay/AFN Guantanamo Bay 102.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC"
+            url: "http://www.hell-man.de/proxy/index.php?q=aHR0cHM6Ly8yNTUzMy5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQUZORV9HTU9fU0M%3D"
         },
         {
             name: "Radio Bahía 104.3",
