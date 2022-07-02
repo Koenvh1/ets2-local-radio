@@ -14028,6 +14028,11 @@ var stations_c2c = {
     ],
     "fort_smith_ar": [
         {
+            name: "Air1 88.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "Bott Radio 88.9",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
             url: "http://ic1.christiannetcast.com/bottradio"
@@ -14071,6 +14076,11 @@ var stations_c2c = {
             name: "Rock 94.1",
             logo: "stations/images-america/c2c/fort_smith_ar/Rock 94.1.png",
             url: "https://ice42.securenetsystems.net/KISRHD2"
+        },
+        {
+            name: "The Fort 94.5",
+            logo: "stations/images-america/c2c/fort_smith_ar/The Fort 94.5.png",
+            url: "https://ice41.securenetsystems.net/KFPW"
         },
         {
             name: "Big Dog 95.9",
@@ -14126,6 +14136,11 @@ var stations_c2c = {
             name: "KOOL 104.7",
             logo: "stations/images-america/c2c/fort_smith_ar/KOOL 104.7.png",
             url: "https://ice42.securenetsystems.net/KQBK"
+        },
+        {
+            name: "Mix 105.1",
+            logo: "stations/images-america/c2c/fort_smith_ar/Mix 105.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice41.securenetsystems.net/KXMX"
         },
         {
             name: "The Rooster 105.5",
