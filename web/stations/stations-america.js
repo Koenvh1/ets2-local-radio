@@ -4531,11 +4531,6 @@ var stations = {
             url: "https://live.wostreaming.net/direct/townsquare-kxrxfmaac-ibc3"
         },
         {
-            name: "97.5 KISS FM",
-            logo: "stations/images-america/kennewick_pendleton/97.5 KISS FM.png",
-            url: "https://live.wostreaming.net/direct/townsquare-kolwfmaac-ibc3"
-        },
-        {
             name: "98.3 The Key",
             logo: "stations/images-america/kennewick_pendleton/98.3 The Key.png",
             url: "https://live.wostreaming.net/direct/townsquare-keywfmaac-ibc3"
@@ -4571,8 +4566,8 @@ var stations = {
             url: "https://usa4.fastcast4u.com/proxy/qzxeehgd?mp=/1"
         },
         {
-            name: "Mix 105.3",
-            logo: "stations/images-america/kennewick_pendleton/Mix 105.3.png",
+            name: "105.3 KISS FM",
+            logo: "stations/images-america/kennewick_pendleton/105.3 KISS FM.png",
             url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
         },
         {
@@ -7957,7 +7952,7 @@ var stations = {
         {
             name: "100.1 We FM",
             logo: "stations/images-america/reno/100.1 We FM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KWEEFMAAC_SC"
         },
         {
             name: "FUN 101",
