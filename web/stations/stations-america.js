@@ -3463,9 +3463,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7934/hls.m3u8"
         },
         {
-            name: "99.3 NOW FM",
-            logo: "stations/images-america/fresno/99.3 Now FM.png",
-            url: "https://ice9.securenetsystems.net/KWDO"
+            name: "K-Jewel 99.3",
+            logo: "stations/images-america/fresno/K-Jewel 99.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC_SC"
         },
         {
             name: "Y101",
@@ -3516,11 +3516,6 @@ var stations = {
             name: "105.1 The Blaze",
             logo: "stations/images-america/fresno/105.1 The Blaze.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBZFMAAC_SC"
-        },
-        {
-            name: "K-Jewel 105.5",
-            logo: "stations/images-america/fresno/K-Jewel 105.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJWLFMAAC_SC"
         },
         {
             name: "105.9 KMJ",
