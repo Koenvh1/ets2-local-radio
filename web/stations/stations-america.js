@@ -6882,11 +6882,6 @@ var stations = {
     ],
     "phoenix": [
         {
-            name: "88.7 The Pulse",
-            logo: "stations/images-america/phoenix/88.7 The Pulse.png",
-            url: "https://stream.pulseradio.fm/goldmineradiomp3"
-        },
-        {
             name: "K-LOVE 89.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -11323,11 +11318,6 @@ var stations = {
     ],
     "ukiah": [
         {
-            name: "Broken FM 88.7",
-            logo: "stations/images-america/ukiah/Broken FM 88.7.png",
-            url: "http://brokenfm.primcast.com:6834/;stream/1"
-        },
-        {
             name: "KZYX 91.5",
             logo: "stations/images-america/ukiah/KZYX 91.5.png",
             url: "http://kzyx.mcn.org:4000/kzyxlive"
@@ -14655,6 +14645,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3633/hls.m3u8"
         },
         {
+            name: "Oldies 95.3",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 95.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWNNAMAAC_SC"
+        },
+        {
             name: "WiLD 95.5",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/WiLD 95.5.png",
             url: "https://stream.revma.ihrhls.com/zc713/hls.m3u8"
@@ -14758,11 +14753,6 @@ var stations_c2c = {
             name: "1290 WJNO",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/1290 WJNO.png",
             url: "https://stream.revma.ihrhls.com/zc705/hls.m3u8"
-        },
-        {
-            name: "Money Talk Radio 1470",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/Money Talk Radio 1470.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWNNAMAAC_SC"
         },
         {
             name: "WPSL 1590",
