@@ -653,6 +653,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "sacramento_i80": {
+        name: "Sacramento",
+        name_english: "Sacramento",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
     "salina": {
         name: "Salina",
         name_english: "Salina",
@@ -789,7 +795,7 @@ var country_properties = {
         name: "Susanville",
         name_english: "Susanville",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "tacoma": {
         name: "Tacoma",
@@ -1029,6 +1035,10 @@ var city_properties = {
         relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
+    "fallon_nv": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
     "farmington": {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
@@ -1262,6 +1272,10 @@ var city_properties = {
     "sacramento": {
         relative_whitenoise: 0.85
     },
+    "sacramento_i80": {
+		relative_radius: 0.35,
+        relative_whitenoise: 0.75
+    },
     "salina": {
         relative_whitenoise: 0.85
     },
@@ -1333,7 +1347,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "susanv": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "tacoma": {
         relative_radius: 0.5,
@@ -1511,6 +1525,14 @@ var cities = [
         "x": "-94981.2",
         "y": "203.214",
         "z": "-12840.8"
+    },
+    {
+        "gameName": "fallon_nv",
+        "realName": "Fallon",
+        "country": "reno",
+        "x": "-94089.7",
+        "y": "184.324",
+        "z": "-16853.6"
     },
     {
         "gameName": "flagstaff",
@@ -1769,6 +1791,14 @@ var cities = [
         "z": "-14095.8"
     },
     {
+        "gameName": "sacramento_i80",
+        "realName": "Sacramento",
+        "country": "sacramento",
+        "x": "-110145",
+        "y": "286.367",
+        "z": "-19580.3"
+    },
+    {
         "gameName": "monterey",
         "realName": "Monterey",
         "country": "monterey",
@@ -1860,7 +1890,7 @@ var cities = [
         "gameName": "truckee",
         "realName": "Truckee",
         "country": "truckee",
-        "x": "-107618",
+        "x": "-106818",
         "y": "490.608",
         "z": "-17000.3"
     },

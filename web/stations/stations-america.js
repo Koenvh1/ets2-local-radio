@@ -25530,6 +25530,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
         },
         {
+            name: "KCAP 95.9",
+            logo: "stations/images-america/c2c/helena_mt/KCAP 95.9.png",
+            url: "https://live.wostreaming.net/direct/montanaradioco-kcapamaac-imc4"
+        },
+        {
             name: "Rock 96.3",
             logo: "stations/images-america/c2c/helena_mt/Rock 96.3.png",
             url: "https://live.wostreaming.net/direct/montanaradioco-kimoh4aac-imc4"
@@ -35484,12 +35489,7 @@ var stations_c2c = {
             name: "Eagle Country 97.5",
             logo: "stations/images-america/c2c/burlington_vt/Eagle Country 97.5.png",
             url: "http://crystalout.surfernetwork.com:8001/WTNN_MP3"
-        },/*
-        {
-            name: "97.9 WXMS",
-            logo: "stations/images-america/c2c/burlington_vt/-------.png",
-            url: "tbd"
-        },*/
+        },
         {
             name: "98.9 The Big Station",
             logo: "stations/images-america/c2c/burlington_vt/98.9 The Big Station.png",
@@ -35516,9 +35516,19 @@ var stations_c2c = {
             url: "https://crystalout.surfernetwork.com:8001/WCPV_MP3"
         },
         {
+            name: "Mud Radio 101.5",
+            logo: "stations/images-america/c2c/burlington_vt/Mud Radio 101.5.png",
+            url: "https://playoutonestreaming.com/proxy/wmud?mp=/stream"
+        },
+        {
             name: "Mix 102.3",
             logo: "stations/images-america/c2c/burlington_vt/Mix 102.3.png",
             url: "https://nebcoradio.com:8443/WIXM"
+        },
+        {
+            name: "Farm Fresh 102.9",
+            logo: "stations/images-america/c2c/burlington_vt/Farm Fresh 102.9.png",
+            url: "https://playoutonestreaming.com/proxy/wclx?mp=/stream"
         },
         {
             name: "Rock 103.3",
