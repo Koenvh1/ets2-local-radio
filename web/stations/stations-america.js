@@ -212,7 +212,7 @@ var stations = {
         {
             name: "KALQ 93.5",
             logo: "stations/images-america/alamosa/KALQ 93.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice9.securenetsystems.net/KALQFM"
+            url: "https://ice9.securenetsystems.net/KALQFM"
         },*/
         {
             name: "KYDN 95.3",
@@ -1526,7 +1526,7 @@ var stations = {
         {
             name: "B92.1",
             logo: "stations/images-america/cedar_city/B92.1.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kxbnfmaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-kxbnfmaac-ibc3"
         },
         {
             name: "FOX Sports 93.1",
@@ -1536,7 +1536,7 @@ var stations = {
         {
             name: "94.9 New Country",
             logo: "stations/images-america/cedar_city/94.9 New Country.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kcinfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kcinfmaac-ibc3"
         },
         {
             name: "95.9 The Hawk",
@@ -1551,12 +1551,12 @@ var stations = {
         {
             name: "ESPN 97.7",
             logo: "stations/images-america/cedar_city/ESPN 97.7.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-khkrfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-khkrfmaac-ibc3"
         },
         {
             name: "Star 98",
             logo: "stations/images-america/cedar_city/Star 98.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-krecfmaac-imc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-krecfmaac-ibc3"
         },
         {
             name: "99.9 KONY Country",
@@ -1581,7 +1581,7 @@ var stations = {
         {
             name: "Dave FM 101.9",
             logo: "stations/images-america/cedar_city/Dave FM 101.9.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kxfffmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kxfffmaac-ibc3"
         },
         {
             name: "102.3 Coyote Country",
@@ -1606,7 +1606,7 @@ var stations = {
         {
             name: "KSUB 590",
             logo: "stations/images-america/cedar_city/KSUB 590.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-ksubamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-ksubamaac-ibc3"
         },
         {
             name: "KDWN 720",
@@ -1616,7 +1616,7 @@ var stations = {
         {
             name: "KDXU 890",
             logo: "stations/images-america/cedar_city/KDXU 890.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kdxuamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kdxuamaac-ibc3"
         },
         {
             name: "ESPN 1100",
@@ -3629,7 +3629,7 @@ var stations = {
         {
             name: "94 KIX Country",
             logo: "stations/images-america/grand_junction_montrose/94 KIX Country.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kkxkfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kkxkfmaac-ibc3"
         },
         {
             name: "95 Rock",
@@ -3677,8 +3677,8 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTMMAMAAC_SC"
         },
         {
-            name: "101.5 The Junkyard",
-            logo: "stations/images-america/grand_junction_montrose/101.5 The Junkyard.png",
+            name: "Junction 101.5",
+            logo: "stations/images-america/grand_junction_montrose/Junction 101.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_JUNKYARDAAC_SC"
         },
         {
@@ -3689,7 +3689,7 @@ var stations = {
         {
             name: "103.7 The River",
             logo: "stations/images-america/grand_junction_montrose/103.7 The River.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-ksnnfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-ksnnfmaac-ibc3"
         },
         {
             name: "103.9 The Planet",
@@ -3704,7 +3704,7 @@ var stations = {
         {
             name: "KUBC Gold 104.5",
             logo: "stations/images-america/grand_junction_montrose/KUBC Gold 104.5.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kubcamaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-kubcamaac-ibc3"
         },
         {
             name: "106.9 Radio Z",
@@ -4503,7 +4503,7 @@ var stations = {
         {
             name: "La Super 92.5",
             logo: "stations/images-america/kennewick_pendleton/La Super 92.5.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kzhrfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kzhrfmaac-ibc3"
         },
         {
             name: "94.9 The Wolf",
@@ -4563,7 +4563,7 @@ var stations = {
         {
             name: "105.3 KISS FM",
             logo: "stations/images-america/kennewick_pendleton/105.3 KISS FM.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-konafmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-konafmaac-ibc3"
         },
         {
             name: "106.1 The Bridge",
@@ -4583,7 +4583,7 @@ var stations = {
         {
             name: "610 KONA",
             logo: "stations/images-america/kennewick_pendleton/610 KONA.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-konaamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-konaamaac-ibc3"
         },
         {
             name: "KTEL 1490",
@@ -6872,7 +6872,7 @@ var stations = {
         {
             name: "KSUB 590",
             logo: "stations/images-america/cedar_city/KSUB 590.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-ksubamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-ksubamaac-ibc3"
         },
         {
             name: "KTNN 660",
@@ -7166,7 +7166,7 @@ var stations = {
         {
             name: "B92.1",
             logo: "stations/images-america/cedar_city/B92.1.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kxbnfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kxbnfmaac-ibc3"
         },
         {
             name: "SOS Radio 95.3",
@@ -7176,7 +7176,7 @@ var stations = {
         {
             name: "Star 98",
             logo: "stations/images-america/cedar_city/Star 98.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-krecfmaac-imc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-krecfmaac-ibc3"
         },
     ],
     "port_angeles": [
@@ -10439,17 +10439,17 @@ var stations = {
         {
             name: "KWCD 92.3",
             logo: "stations/images-america/sierra_vista/KWCD 92.3.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kwcdfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kwcdfmaac-ibc3"
         },
         {
             name: "Thunder 98.1",
             logo: "stations/images-america/sierra_vista/Thunder 98.1.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-ktanamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-ktanamaac-ibc3"
         },
         {
             name: "K101",
             logo: "stations/images-america/sierra_vista/K101.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kzmkfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kzmkfmaac-ibc3"
         },
     ],
     "socorro": [
@@ -11541,7 +11541,7 @@ var stations = {
         {
             name: "Kissin' 97.7",
             logo: "stations/images-america/wenatchee/Kissin 97.7.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kysnfmaac-imc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kysnfmaac-ibc3"
         },
         {
             name: "Sunny FM 98.1",
@@ -11551,7 +11551,7 @@ var stations = {
         {
             name: "99.5 The Bridge",
             logo: "stations/images-america/wenatchee/99.5 The Bridge.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kqbgfmaac-imc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kqbgfmaac-ibc3"
         },
         {
             name: "100.5 KWIQ",
@@ -11566,7 +11566,7 @@ var stations = {
         {
             name: "The Quake 102.1",
             logo: "stations/images-america/wenatchee/The Quake 102.1.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kpqfmaac-imc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kpqfmaac-ibc3"
         },
         {
             name: "La Nueva 103.3",
@@ -11576,7 +11576,7 @@ var stations = {
         {
             name: "KW3 103.9",
             logo: "stations/images-america/wenatchee/KW3 103.9.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kwwwfmaac-imc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kwwwfmaac-ibc3"
         },
         {
             name: "Country 104.7",
@@ -11591,17 +11591,17 @@ var stations = {
         {
             name: "Talk 106.7",
             logo: "stations/images-america/wenatchee/Talk 106.7.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kkwnfmaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-kkwnfmaac-ibc3"
         },
         {
             name: "560 KPQ",
             logo: "stations/images-america/wenatchee/560 KPQ.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kpqamaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-kpqamaac-ibc3"
         },
         {
             name: "1340 The Hawk",
             logo: "stations/images-america/wenatchee/1340 The Hawk.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kyspamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kyspamaac-ibc3"
         },
     ],
     "wheatland": [
@@ -25223,7 +25223,7 @@ var stations_c2c = {
         {
             name: "92.5 KAAR",
             logo: "stations/images-america/c2c/butte_mt/92.5 KAAR.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kaarfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kaarfmaac-ibc3"
         },
         {
             name: "KOPR 94.1",
@@ -25233,18 +25233,18 @@ var stations_c2c = {
         {
             name: "KXTL 94.7",
             logo: "stations/images-america/c2c/butte_mt/KXTL 94.7.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kxtlamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kxtlamaac-ibc3"
         },
         {
             name: "95.5 KMBR",
             logo: "stations/images-america/c2c/butte_mt/95.5 KMBR.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kmbrfmaac-ibc4"
-        },
+            url: "https://live.wostreaming.net/direct/townsquare-kmbrfmaac-ibc3"
+        },/*
         {
             name: "Magic 97.7",
             logo: "stations/images-america/c2c/butte_mt/Magic 97.7.png",
             url: "http://butte.leanstream.co/KGLMFM"
-        },
+        },*/
         {
             name: "KBOW 101.5",
             logo: "stations/images-america/c2c/butte_mt/KBOW 101.5.png",
@@ -25258,7 +25258,7 @@ var stations_c2c = {
         {
             name: "107.7 Dave FM",
             logo: "stations/images-america/c2c/butte_mt/107.7 Dave FM.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmtzfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kmtzfmaac-ibc3"
         },
         {
             name: "1310 KEIN",
@@ -25290,7 +25290,7 @@ var stations_c2c = {
         {
             name: "95.5 KMBR",
             logo: "stations/images-america/c2c/butte_mt/95.5 KMBR.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kmbrfmaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-kmbrfmaac-ibc3"
         },
         {
             name: "98.3 KBEV",
@@ -25418,27 +25418,27 @@ var stations_c2c = {
         {
             name: "KOOL 92.9",
             logo: "stations/images-america/c2c/greatfalls_mt/KOOL 92.9.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-klfmfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-klfmfmaac-ibc3"
         },
         {
             name: "Max Country 94.5",
             logo: "stations/images-america/c2c/greatfalls_mt/Max Country 94.5.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kmonfmaac-ibc3"
         },
         {
             name: "The River 97.9",
             logo: "stations/images-america/c2c/greatfalls_mt/The River 97.9.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kvvrfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kvvrfmaac-ibc3"
         },
         {
             name: "K99",
             logo: "stations/images-america/c2c/greatfalls_mt/K99.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kaakfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kaakfmaac-ibc3"
         },
         {
             name: "99.9 Big Sky Sports",
             logo: "stations/images-america/c2c/greatfalls_mt/99.9 Big Sky Sports.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd3aac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kmonhd3aac-ibc3"
         },
         {
             name: "Star 101.7",
@@ -25453,7 +25453,7 @@ var stations_c2c = {
         {
             name: "Big Stack 103.9",
             logo: "stations/images-america/c2c/greatfalls_mt/Big Stack 103.9.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd4aac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kmonhd4aac-ibc3"
         },
         {
             name: "Real Country 104.3",
@@ -25473,12 +25473,12 @@ var stations_c2c = {
         {
             name: "107.5 The Peak",
             logo: "stations/images-america/c2c/greatfalls_mt/107.5 The Peak.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonhd2aac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kmonhd2aac-ibc3"
         },
         {
             name: "560 KMON",
-            logo: "stations/images-america/c2c/shelby_mt/560 KMON.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonamaac-ibc4"
+            logo: "stations/images-america/c2c/greatfalls_mt/560 KMON.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kmonamaac-ibc3"
         },
         {
             name: "1450 KQDI",
@@ -25712,12 +25712,12 @@ var stations_c2c = {
         {
             name: "Griz Sports 92.7",
             logo: "stations/images-america/c2c/missoula_mt/Griz Sports 92.7.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kgrzamaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kgrzamaac-ibc3"
         },
         {
             name: "93.3 Eagle Country",
             logo: "stations/images-america/c2c/missoula_mt/93.3 Eagle Country.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kgglfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kgglfmaac-ibc3"
         },
         {
             name: "K-LOVE 93.7",
@@ -25730,9 +25730,19 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kyssfmaac-ibc3"
         },
         {
+            name: "alt 95.7",
+            logo: "stations/images-america/c2c/missoula_mt/alt 95.7.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kammfmaac-ibc3"
+        },
+        {
             name: "96.3 The Blaze",
             logo: "stations/images-america/c2c/missoula_mt/96.3 The Blaze.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbazfmaac-ibc3"
+        },
+        {
+            name: "96.9 Zoo FM",
+            logo: "stations/images-america/c2c/missoula_mt/96.9 Zoo FM.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kenrfmaac-ibc3"
         },
         {
             name: "97.9 The Ranch",
@@ -25742,17 +25752,17 @@ var stations_c2c = {
         {
             name: "Max 98.7",
             logo: "stations/images-america/c2c/missoula_mt/Max 98.7.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-khkmfmaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-khkmfmaac-ibc3"
+        },
+        {
+            name: "99.7 KMPT",
+            logo: "stations/images-america/c2c/missoula_mt/99.7 KMPT.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kmptamaac-ibc3"
         },
         {
             name: "Z100",
             logo: "stations/images-america/c2c/missoula_mt/Z100.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kzoqfmaac-ibc4"
-        },
-        {
-            name: "alt 101.5",
-            logo: "stations/images-america/c2c/missoula_mt/Alt 101.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kammfmaac-ibc3"
+            url: "https://live.wostreaming.net/direct/townsquare-kzoqfmaac-ibc3"
         },
         {
             name: "Mountain 102.5",
@@ -25782,17 +25792,7 @@ var stations_c2c = {
         {
             name: "NOW 106.7",
             logo: "stations/images-america/c2c/missoula_mt/NOW 106.7.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-kxdrfmaac-ibc4"
-        },
-        {
-            name: "107.5 Zoo FM",
-            logo: "stations/images-america/c2c/missoula_mt/107.5 Zoo FM.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kenrfmaac-ibc3"
-        },
-        {
-            name: "1290 KGVO",
-            logo: "stations/images-america/c2c/missoula_mt/1290 KGVO.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kgvoamaac-ibc3"
+            url: "https://live.wostreaming.net/direct/townsquare-kxdrfmaac-ibc3"
         },
     ],
     "shelby": [
@@ -25808,8 +25808,8 @@ var stations_c2c = {
         },
         {
             name: "560 KMON",
-            logo: "stations/images-america/c2c/shelby_mt/560 KMON.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kmonamaac-ibc4"
+            logo: "stations/images-america/c2c/greatfalls_mt/560 KMON.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kmonamaac-ibc3"
         },
         {
             name: "770 CHQR",
@@ -28815,12 +28815,12 @@ var stations_c2c = {
         {
             name: "Power 95",
             logo: "stations/images-america/c2c/williston_nd/Power 95.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kthcfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kthcfmaac-ibc3"
         },
         {
             name: "Z96.1",
             logo: "stations/images-america/c2c/williston_nd/Z96.1.png",
-            url: "https://live.wostreaming.net/manifest/cherrycreek-kyyzfmaac-ibc4"
+            url: "https://live.wostreaming.net/manifest/townsquare-kyyzfmaac-ibc3"
         },
         {
             name: "KXWI 98.5",
@@ -28835,7 +28835,7 @@ var stations_c2c = {
         {
             name: "660 News Radio",
             logo: "stations/images-america/c2c/williston_nd/660 News Radio.png",
-            url: "https://live.wostreaming.net/direct/cherrycreek-keyzamaac-ibc4"
+            url: "https://live.wostreaming.net/direct/townsquare-keyzamaac-ibc3"
         },
     ],
     "canton_oh": [
@@ -29326,12 +29326,12 @@ var stations_c2c = {
             name: "92.9 Jack FM",
             logo: "stations/images-america/c2c/dayton_oh/92.9 Jack FM.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wgtzfmaac-ibc4"
-        },/*
+        },
         {
-            name: "FM94.5",
-            logo: "stations/images-america/c2c/dayton_oh/FM94.5.png",
-            url: "tba - 03.08.2021"
-        },*/
+            name: "94.5 The Answer",
+            logo: "stations/images-america/c2c/dayton_oh/94.5 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYDBFMAAC_SC"
+        },
         {
             name: "95.3 The Eagle",
             logo: "stations/images-america/c2c/dayton_oh/95.3 The Eagle.png",

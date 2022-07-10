@@ -201,9 +201,44 @@ var stations = {
             url: "https://orf-live.ors-shoutcast.at/oe3-q2a"
         },
         {
+            name: "Antenne Österreich",
+            logo: "stations/images-europe/austria/Antenne Österreich.png",
+            url: "https://frontend.streamonkey.net/antoesterreich-live"
+        },
+        {
+            name: "arabella HOT",
+            logo: "stations/images-europe/austria/arabella HOT.png",
+            url: "https://frontend.streams.arabella.at/arabella-hot"
+        },
+        {
+            name: "arabella RELAX",
+            logo: "stations/images-europe/austria/arabella RELAX.png",
+            url: "https://frontend.streams.arabella.at/arabella-relax"
+        },
+        {
+            name: "ENERGY ÖSTERREICH",
+            logo: "stations/images-europe/austria/ENERGY ÖSTERREICH.png",
+            url: "https://scdn.nrjaudio.fm/adwz1/at/36001/aac_64.mp3"
+        },
+        {
+            name: "ERF Süd",
+            logo: "stations/images-europe/austria/ERF Süd.png",
+            url: "https://de1.internet-radio.com/proxy/erfmedien/stream"
+        },
+        {
+            name: "jö.live",
+            logo: "stations/images-europe/austria/jö.live.png",
+            url: "https://clubradio.joelive.at/clubradio.mp3"
+        },
+        {
             name: "FM4",
             logo: "stations/images-europe/austria/FM4.png",
             url: "https://orf-live.ors-shoutcast.at/fm4-q2a"
+        },
+        {
+            name: "Klassik Radio Digital",
+            logo: "stations/images-europe/germany/Klassik Radio.png",
+            url: "https://stream.klassikradio.de/live/mp3-192"
         },
         {
             name: "kronehit",
@@ -216,9 +251,44 @@ var stations = {
             url: "https://liferadio.streamabc.net/lfr-lr-mp3-128-9299368"
         },
         {
+            name: "Mein Kinderradio",
+            logo: "stations/images-europe/austria/Mein Kinderradio.png",
+            url: "https://stream01.zogl.net:8907/stream"
+        },
+        {
             name: "radio 88.6",
             logo: "stations/images-europe/austria/Radio 88.6.png",
             url: "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+        },
+        {
+            name: "radio austria",
+            logo: "stations/images-europe/austria/radio austria.png",
+            url: "https://onair.securestream.radioaustria.at/radioaustria"
+        },
+        {
+            name: "Radio Flamingo",
+            logo: "stations/images-europe/austria/Radio Flamingo.png",
+            url: "https://live.antenne.at/rf"
+        },
+        {
+            name: "Radio Maria Österreich",
+            logo: "stations/images-europe/austria/Radio Maria Österreich.png",
+            url: "http://live.radiomaria.at:8000/rma"
+        },
+        {
+            name: "radio klassik Stephansdom",
+            logo: "stations/images-europe/austria/radio klassik Stephansdom.png",
+            url: "https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3"
+        },
+        {
+            name: "ROCK ANTENNE Österreich",
+            logo: "stations/images-europe/austria/ROCK ANTENNE Österreich.png",
+            url: "https://s4-webradio.rockantenne.at/rockantenne-oesterreich"
+        },
+        {
+            name: "Technikum One",
+            logo: "stations/images-europe/austria/Technikum One.png",
+            url: "https://stream.radiotechnikum.at/TECHONE"
         },
         {
             name: "WELLE 1",
@@ -3414,6 +3484,11 @@ var stations = {
             url: "https://stream.player.arrow.nl/arrow"
         },
         {
+            name: "BBC World Service",
+            logo: "stations/images-europe/netherlands/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        },
+        {
             name: "BNR Nieuwsradio",
             logo: "stations/images-europe/netherlands/BNR Nieuwsradio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIOAAC_SC",
@@ -3429,9 +3504,19 @@ var stations = {
             url: "http://grootnieuwsradio.streampartner.nl:8000/live"
         },
         {
-            name: "Q-Music",
-            logo: "stations/images-europe/netherlands/Q-Music.png",
-            url: "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_nl_live_32.aac",
+            name: "KINK",
+            logo: "stations/images-europe/netherlands/KINK.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC",
+        },
+        {
+            name: "KINK Classics",
+            logo: "stations/images-europe/netherlands/KINK.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC",
+        },
+        {
+            name: "ꓘ-ROCK",
+            logo: "stations/images-europe/netherlands/ꓘ-ROCK.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KROCKAAC_SC",
         },
         {
             name: "NH Radio",
@@ -3439,19 +3524,54 @@ var stations = {
             url: "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3"
         },
         {
-            name: "Radio 10",
-            logo: "stations/images-europe/netherlands/Radio 10.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC_SC",
+            name: "538",
+            logo: "stations/images-europe/netherlands/538.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC_SC",
         },
         {
-            name: "Radio 538",
-            logo: "stations/images-europe/netherlands/Radio 538.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC_SC",
+            name: "538 Classics",
+            logo: "stations/images-europe/netherlands/538 Classics.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC_SC",
+        },
+        {
+            name: "538 NON-STOP",
+            logo: "stations/images-europe/netherlands/538 NON-STOP.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC_SC",
         },
         {
             name: "538 TOP 50",
             logo: "stations/images-europe/netherlands/538 TOP 50.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC_SC",
+        },
+        {
+            name: "Qmusic",
+            logo: "stations/images-europe/netherlands/Qmusic.png",
+            url: "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac",
+        },
+        {
+            name: "Qmusic Non-Stop",
+            logo: "stations/images-europe/netherlands/Qmusic Non-Stop.png",
+            url: "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_high.aac",
+        },
+        {
+            name: "Qmusic Top 40",
+            logo: "stations/images-europe/netherlands/Qmusic Top 40.png",
+            url: "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac",
+        },
+        {
+            name: "Radio 10",
+            logo: "stations/images-europe/netherlands/Radio 10.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC_SC",
+        },
+        {
+            name: "Radio 10 60's & 70's Hits",
+            logo: "stations/images-europe/netherlands/Radio 10 60's & 70's Hits.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC_SC",
+        },
+        {
+            name: "Radio 10 80's",
+            logo: "stations/images-europe/netherlands/Radio 10 80's.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC_SC",
         },
         {
             name: "Radio Decibel",
@@ -3464,19 +3584,34 @@ var stations = {
             url: "https://stream.radiomaria.nl/mp3"
         },
         {
-            name: "Radio Veronica",
-            logo: "stations/images-europe/netherlands/Radio Veronica.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC_SC"
-        },
-        {
             name: "RadioNL",
             logo: "stations/images-europe/netherlands/RadioNL.png",
             url: "http://stream.radionl.fm/radionl",
         },
         {
+            name: "Radio Veronica",
+            logo: "stations/images-europe/netherlands/Radio Veronica.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC_SC"
+        },
+        {
+            name: "Vintage Veronica",
+            logo: "stations/images-europe/netherlands/Vintage Veronica.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR09AAC_SC"
+        },
+        {
             name: "Sky Radio",
             logo: "stations/images-europe/netherlands/Sky Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC_SC",
+        },
+        {
+            name: "Sky Radio Non-Stop Hits",
+            logo: "stations/images-europe/netherlands/Sky Radio Non-Stop Hits.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC_SC",
+        },
+        {
+            name: "Sky Radio Nice & Easy",
+            logo: "stations/images-europe/netherlands/Sky Radio Nice & Easy.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC_SC",
         },
         {
             name: "SLAM!",
@@ -3487,6 +3622,11 @@ var stations = {
             name: "Sublime FM",
             logo: "stations/images-europe/netherlands/Sublime FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIMEAAC_SC",
+        },
+        {
+            name: "Sunlite",
+            logo: "stations/images-europe/netherlands/Sunlite.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE_AAC_SC"
         },
     ],
     "nireland": [
