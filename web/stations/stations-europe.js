@@ -699,22 +699,22 @@ var stations = {
         {
             name: "Catalunya Ràdio",
             logo: "stations/images-europe/catalonia/Catalunya Ràdio.png",
-            url: "https://directes-radio-int.ccma.cat/int/mp4:catradio/playlist.m3u8"
+            url: "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
         },
         {
             name: "Catalunya Informació",
             logo: "stations/images-europe/catalonia/Catalunya Informació.png",
-            url: "https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8"
+            url: "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3"
         },
         {
             name: "Catalunya Música",
             logo: "stations/images-europe/catalonia/Catalunya Música.png",
-            url: "https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8"
+            url: "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3"
         },
         {
             name: "iCat",
             logo: "stations/images-europe/catalonia/iCat.png",
-            url: "https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8"
+            url: "https://shoutcast.ccma.cat/ccma/icatHD.mp3"
         },
         {
             name: "Flaix FM",
