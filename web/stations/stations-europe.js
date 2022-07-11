@@ -3464,6 +3464,11 @@ var stations = {
             url: "http://icecast.omroep.nl/radio5-bb-mp3"
         },
         {
+            name: "NPO FunX",
+            logo: "stations/images-europe/netherlands/FunX.png",
+            url: "http://icecast.omroep.nl/funx-bb-mp3"
+        },
+        {
             name: "NPO Soul & Jazz",
             logo: "stations/images-europe/netherlands/NPO Soul & Jazz.png",
             url: "http://icecast.omroep.nl/radio6-bb-mp3"
@@ -3492,11 +3497,6 @@ var stations = {
             name: "BNR Nieuwsradio",
             logo: "stations/images-europe/netherlands/BNR Nieuwsradio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_NIEUWSRADIOAAC_SC",
-        },
-        {
-            name: "FunX",
-            logo: "stations/images-europe/netherlands/FunX.png",
-            url: "http://icecast.omroep.nl/funx-bb-mp3"
         },
         {
             name: "Groot Nieuws Radio",
@@ -3611,7 +3611,7 @@ var stations = {
         {
             name: "Sky Radio Nice & Easy",
             logo: "stations/images-europe/netherlands/Sky Radio Nice & Easy.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC_SC",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC_SC",
         },
         {
             name: "SLAM!",
