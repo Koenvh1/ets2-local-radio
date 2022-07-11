@@ -1828,7 +1828,7 @@ var stations = {
         {
             name: "AFN Bavaria",
             logo: "stations/images-europe/germany-br/AFN Bavaria.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAV_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAVAAC_SC"
         },
         {
             name: "Antenne Bayern",

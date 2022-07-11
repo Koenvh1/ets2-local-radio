@@ -41985,7 +41985,7 @@ var stations_caribbean = {
         {
             name: "AFN Guantanamo Bay 102.1",
             logo: "stations/images-america/caribbean/guantanamo_bay/AFN Guantanamo Bay 102.1.png",
-            url: "http://www.hell-man.de/proxy/index.php?q=aHR0cHM6Ly8yNTUzMy5saXZlLnN0cmVhbXRoZXdvcmxkLmNvbTo0NDMvQUZORV9HTU9fU0M%3D"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMOAAC_SC"
         },
         {
             name: "Radio Bahía 104.3",
