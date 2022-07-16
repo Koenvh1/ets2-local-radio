@@ -3740,7 +3740,7 @@ var stations = {
         },
         {
             name: "YPR 91.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -10279,7 +10279,7 @@ var stations = {
     "sheridan": [
         {
             name: "YPR 88.1",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -19765,11 +19765,6 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wibwfmaac-ibc4"
         },
         {
-            name: "95.7 The Vibe",
-            logo: "stations/images-america/c2c/kansascity_mo/95.7 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHZFMAAC_SC"
-        },
-        {
             name: "96.9 The Beat",
             logo: "stations/images-america/c2c/topeka_ks/96.9 The Beat.png",
             url: "https://ice41.securenetsystems.net/KQRB"
@@ -19793,11 +19788,6 @@ var stations_c2c = {
             name: "102.9 Cat Country",
             logo: "stations/images-america/c2c/topeka_ks/102.9 Cat Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPFMAAC_SC"
-        },
-        {
-            name: "105.9 KISS FM",
-            logo: "stations/images-america/c2c/kansascity_mo/105.9 KISS FM.png",
-            url: "https://ice23.securenetsystems.net/KKSWFM"
         },
         {
             name: "Country 106.9",
@@ -24656,11 +24646,6 @@ var stations_c2c = {
             url: "https://us9.maindigitalstream.com/ssl/kair"
         },
         {
-            name: "94.9 KCMO",
-            logo: "stations/images-america/c2c/kansascity_mo/94.9 KCMO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOFMAAC_SC"
-        },
-        {
             name: "K-LOVE 98.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -24669,11 +24654,6 @@ var stations_c2c = {
             name: "SJMF 99.3",
             logo: "stations/images-america/c2c/st_joseph_mo/SJMF 99.3.png",
             url: "http://99.169.52.137:90/;?cb=138724.mp3"
-        },
-        {
-            name: "KC 102.1",
-            logo: "stations/images-america/c2c/kansascity_mo/KC 102.1.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7042_48k.aac"
         },
         {
             name: "KY 102",
@@ -24696,24 +24676,9 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
-            name: "610 Sports Radio",
-            logo: "stations/images-america/c2c/kansascity_mo/610 Sports Radio.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KCSPAMAAC_SC"
-        },
-        {
             name: "680 KFEQ",
             logo: "stations/images-america/c2c/st_joseph_mo/680 KFEQ.png",
             url: "https://live.wostreaming.net/direct/eagleradio-kfeqamaac-ibc4"
-        },
-        {
-            name: "KCMO 710",
-            logo: "stations/images-america/c2c/kansascity_mo/KCMO 103.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOAMAAC_SC"
-        },
-        {
-            name: "810 WHB",
-            logo: "stations/images-america/c2c/kansascity_mo/810 WHB.png",
-            url: "https://live.wostreaming.net/manifest/unionbroadcasting-whbamaac-ibc2"
         },
     ],
     "stlouis": [
@@ -25033,17 +24998,17 @@ var stations_c2c = {
         },
         {
             name: "YPR 91.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
             name: "YPR Classical 91.7-HD2",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-2"
         },
         {
             name: "YPR Jazz 91.7-HD3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-3"
         },
         {
@@ -25165,17 +25130,17 @@ var stations_c2c = {
         },
         {
             name: "YPR 102.1",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
             name: "YPR Classical 102.1-HD2",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-2"
         },
         {
             name: "YPR Jazz 102.1-HD3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-3"
         },
         {
@@ -25326,7 +25291,7 @@ var stations_c2c = {
     "forsyth": [
         {
             name: "YPR 91.1",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25353,7 +25318,7 @@ var stations_c2c = {
     "glasgow": [
         {
             name: "YPR 91.9",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25390,7 +25355,7 @@ var stations_c2c = {
     "glendive": [
         {
             name: "YPR 88.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25412,7 +25377,7 @@ var stations_c2c = {
     "greatfalls": [
         {
             name: "YPR 89.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25504,7 +25469,7 @@ var stations_c2c = {
         },
         {
             name: "YPR 91.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25526,7 +25491,7 @@ var stations_c2c = {
     "helena": [
         {
             name: "YPR 88.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25640,7 +25605,7 @@ var stations_c2c = {
     "lewistown": [
         {
             name: "YPR 89.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25674,7 +25639,7 @@ var stations_c2c = {
     "milescity": [
         {
             name: "YPR 90.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25808,7 +25773,7 @@ var stations_c2c = {
     "shelby": [
         {
             name: "YPR 90.3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
@@ -25835,7 +25800,7 @@ var stations_c2c = {
     "wolfpoint": [
         {
             name: "YPR 88.3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live"
         },
         {

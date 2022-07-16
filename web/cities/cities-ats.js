@@ -4006,7 +4006,7 @@ var country_properties_c2c = {
         name: "topeka",
         name_english: "topeka",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 1.1
     },
     "wichita": {
         name: "wichita",
@@ -4342,7 +4342,7 @@ var country_properties_c2c = {
         name: "st_joseph",
         name_english: "st_joseph",
         code: "us-mo",
-        relative_radius: 0.7
+        relative_radius: 1.1
     },
     "stlouis": {
         name: "stlouis",
@@ -5443,6 +5443,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "topeka": {
+        relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
     "wichita": {
@@ -5590,6 +5591,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "st_joseph": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "stlouis": {
@@ -6552,6 +6554,14 @@ var cities_c2c = [
         "z": "-96.5295"
     },
     {
+        "gameName": "topeka",
+        "realName": "Topeka",
+        "country": "kansascity",
+        "x": "-1862.19",
+        "y": "175.426",
+        "z": "-96.5295"
+    },
+    {
         "gameName": "wichita",
         "realName": "Wichita",
         "country": "wichita",
@@ -6955,6 +6965,14 @@ var cities_c2c = [
         "gameName": "st_joseph",
         "realName": "St. Joseph",
         "country": "st_joseph",
+        "x": "5300.43",
+        "y": "136.541",
+        "z": "-7084.05"
+    },
+    {
+        "gameName": "st_joseph",
+        "realName": "St. Joseph",
+        "country": "kansascity",
         "x": "5300.43",
         "y": "136.541",
         "z": "-7084.05"
