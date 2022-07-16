@@ -25100,7 +25100,7 @@ var stations_c2c = {
     "bozeman": [
         {
             name: "KGLT 91.9",
-            logo: "stations/images-america/c2c/helena_mt/KGLT 89.1.png",
+            logo: "stations/images-america/c2c/bozeman_mt/KGLT 91.9.png",
             url: "http://shoutcast.kglt.net:8000/;"
         },
         {
@@ -25495,14 +25495,19 @@ var stations_c2c = {
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
-            name: "KGLT 89.1",
-            logo: "stations/images-america/c2c/helena_mt/KGLT 89.1.png",
-            url: "http://shoutcast.kglt.net:8000/;"
+            name: "K-LOVE 90.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "MTPR 91.7",
             logo: "stations/images-america/0_general_logos/MTPR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
+        },
+        {
+            name: "KGR 93.1",
+            logo: "stations/images-america/c2c/helena_mt/KGR 93.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7068_24k.aac"
         },
         {
             name: "KCAP 95.9",
@@ -25513,6 +25518,16 @@ var stations_c2c = {
             name: "Rock 96.3",
             logo: "stations/images-america/c2c/helena_mt/Rock 96.3.png",
             url: "https://live.wostreaming.net/direct/montanaradioco-kimoh4aac-imc4"
+        },
+        {
+            name: "KNEH 97.3",
+            logo: "stations/images-america/c2c/helena_mt/KNEH 97.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "YNOP 98.5",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
         },
         {
             name: "99.5 The Bull",
