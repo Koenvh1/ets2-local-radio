@@ -13745,12 +13745,12 @@ var stations_c2c = {
             name: "WBHM 90.3",
             logo: "stations/images-america/0_general_logos/WBHM.png",
             url: "https://audio.wbhm.org/live.mp3"
-        },
+        },/*
         {
             name: "WVUA 90.7",
             logo: "stations/images-america/c2c/tuscaloosa_al/WVUA 90.7.png",
             url: "https://ice8.securenetsystems.net/WVUA"
-        },
+        },*/
         {
             name: "APR News & Classics 91.5",
             logo: "stations/images-america/0_general_logos/APR.png",
@@ -14633,12 +14633,12 @@ var stations_c2c = {
             name: "Revolution 93.5",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
             url: "https://streaming.revolution935.com/live"
-        },
+        },/*
         {
             name: "93.7 GYL",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/93.7 GYL.png",
             url: "https://ice8.securenetsystems.net/WGYL"
-        },
+        },*/
         {
             name: "Mia 94.3",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/Mia 94.3.png",
@@ -15490,12 +15490,12 @@ var stations_c2c = {
             name: "103.5 The Beat",
             logo: "stations/images-america/c2c/miami_fl/103.5 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc581/hls.m3u8"
-        },
+        },/*
         {
             name: "DaNu Radio 103.5-HD2",
             logo: "stations/images-america/0_general_logos/DaNu Radio.png",
             url: "http://173.68.130.170:8040/;"
-        },
+        },*/
         {
             name: "104.3 The Shark",
             logo: "stations/images-america/c2c/miami_fl/104.3 The Shark.png",
@@ -20048,17 +20048,17 @@ var stations_c2c = {
         {
             name: "WUKY 91.3",
             logo: "stations/images-america/c2c/lexington_ky/WUKY 91.3.png",
-            url: "https://stream.qx.net:8000/xstream"
+            url: "https://wuky.streamguys1.com/wuky"
         },
         {
             name: "Essential Classics 91.3-HD2",
             logo: "stations/images-america/c2c/lexington_ky/WUKY 91.3.png",
-            url: "https://stream.qx.net:8005/xstream"
+            url: "https://wuky.streamguys1.com/HD2"
         },
         {
             name: "BBC World Service 91.3-HD3",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
-            url: "https://stream.qx.net:8010/xstream"
+            url: "https://wuky.streamguys1.com/HD3"
         },
         {
             name: "Classic Rock 92.1",
@@ -20553,12 +20553,12 @@ var stations_c2c = {
         {
             name: "KSLU 90.9",
             logo: "stations/images-america/c2c/baton_rouge_la/KSLU 90.9.png",
-            url: "http://147.174.55.27:8000/;"
+            url: "http://147.174.32.27:8000/;"
         },
         {
             name: "KSLU Blues 90.9-HD2",
             logo: "stations/images-america/c2c/baton_rouge_la/KSLU 90.9.png",
-            url: "http://147.174.55.14:8000/;"
+            url: "http://147.174.33.16:8000/;"
         },
         {
             name: "90.3 WBRH",
@@ -21630,7 +21630,7 @@ var stations_c2c = {
         {
             name: "91.5 WBJC",
             logo: "stations/images-america/c2c/baltimore_md/91.5 WBJC.png",
-            url: "http://wbjc-ice.streamguys1.com:80/live"
+            url: "https://ice64.securenetsystems.net/WBJC"
         },
         {
             name: "92Q",
@@ -23619,7 +23619,7 @@ var stations_c2c = {
         {
             name: "JZ 94.5",
             logo: "stations/images-america/c2c/gulfport_ms/JZ 94.5.png",
-            url: "http://ccfcon11.primcast.com:9124/;"
+            url: "https://media.streambrothers.com:8648/stream"
         },
         {
             name: "95.3 Gorilla",
@@ -30875,12 +30875,12 @@ var stations_c2c = {
             name: "Q102",
             logo: "stations/images-america/c2c/philadelphia_pa/Q102.png",
             url: "https://stream.revma.ihrhls.com/zc1997/hls.m3u8"
-        },
+        },/*
         {
             name: "DaNu Radio 102.1-HD2",
             logo: "stations/images-america/0_general_logos/DaNu Radio.png",
             url: "http://173.68.130.170:8040/;"
-        },
+        },*/
         {
             name: "Pride Radio 102.1-HD3",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
