@@ -1020,14 +1020,14 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
-            name: "Alt 92.5",
-            logo: "stations/images-america/bishop/Alt 92.5.png",
+            name: "92.5 KSRW",
+            logo: "stations/images-america/bishop/92.5 KSRW.png",
             url: "https://ais-edge50-live365-dal02.cdnstream.com/a20270"
         },
         {
             name: "KRHV 93.3",
             logo: "stations/images-america/bishop/KRHV 93.3.png",
-            url: "https://ic2.sslstream.com/krhv-fm"
+            url: "https://ice8.securenetsystems.net/KRHV"
         },
         {
             name: "KBPT 96.1",
@@ -2049,12 +2049,12 @@ var stations = {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "https://ice6.securenetsystems.net/EFXAAC"
-        },
+        },/*
         {
             name: "Pirate Radio 91.3",
             logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
             url: "http://kmhs.coos-bay.k12.or.us:8000/kmhsfm"
-        },
+        },*/
         {
             name: "K-LOVE 91.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
@@ -2099,12 +2099,12 @@ var stations = {
             name: "101.1 KWRO",
             logo: "stations/images-america/coos_bay/101.1 KWRO.png",
             url: "https://us9.maindigitalstream.com/ssl/KWRO"
-        },
+        },/*
         {
             name: "Pirate Radio 105.1",
             logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
             url: "https://s9.voscast.com:9647/stream"
-        },
+        },*/
         {
             name: "105.9 The Legend",
             logo: "stations/images-america/coos_bay/105.9 The Legend.png",
@@ -2135,7 +2135,7 @@ var stations = {
         {
             name: "KHSU 90.5",
             logo: "stations/images-america/eureka/KHSU 90.5.png",
-            url: "http://peace.str3am.com:6650/"
+            url: "https://peace.streamguys1.com:6655/live-aac"
         },
         {
             name: "94.3 KCRE",
@@ -2660,12 +2660,12 @@ var stations = {
             name: "96.1 KZEL",
             logo: "stations/images-america/eugene/96.1 KZEL.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZELFMAAC_SC"
-        },
+        },/*
         {
             name: "KEPW 97.3",
             logo: "stations/images-america/eugene/KEPW 97.3.png",
             url: "https://stream.pacificaservice.org:9000/kepw_64"
-        },
+        },*/
         {
             name: "La Que Buena 97.7",
             logo: "stations/images-america/eugene/La Que Buena 97.7.png",
@@ -4222,7 +4222,7 @@ var stations = {
         {
             name: "90.3 KPCC",
             logo: "stations/images-america/0_general_logos/KPCC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPCC_FMAAC_SC"
+            url: "https://live.wostreaming.net/direct/southerncalipr-kpccfmaac-imc.aac"
         },
         {
             name: "Air1 91.7",
@@ -5363,15 +5363,15 @@ var stations = {
         {
             name: "KMMT 107.7",
             logo: "stations/images-america/leevining/KMMT 107.7.png",
-            url: "https://ic2.sslstream.com/kmmt-fm"
+            url: "https://ice8.securenetsystems.net/KMMT"
         },
     ],
-    "lewiston": [
+    "lewiston": [/*
         {
             name: "KLCZ 88.9",
             logo: "stations/images-america/lewiston/KLCZ 88.9.png",
             url: "http://warriorradio.lcsc.edu/stream"
-        },
+        },*/
         {
             name: "NWPR Classical 90.5",
             logo: "stations/images-america/0_general_logos/NWPB_100years.png",
@@ -5626,7 +5626,7 @@ var stations = {
         {
             name: "89.3 KPCC",
             logo: "stations/images-america/0_general_logos/KPCC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPCC_FMAAC_SC"
+            url: "https://live.wostreaming.net/direct/southerncalipr-kpccfmaac-imc.aac"
         },
         {
             name: "The Current 89.3-HD2",
@@ -6243,7 +6243,7 @@ var stations = {
         {
             name: "93.5 KWDC",
             logo: "stations/images-america/modesto/93.5 KWDC.png",
-            url: "https://pavo.prostreaming.net:8110/stream"
+            url: "https://us2.maindigitalstream.com/ssl/KWDC"
         },
         {
             name: "KHOP @ 95.1",
@@ -6677,12 +6677,12 @@ var stations = {
             name: "100.3 Olympia's Classic Rock",
             logo: "stations/images-america/olympia/100.3 Olympia's Classic Rock.png",
             url: "http://198.178.121.76:8042/stream"
-        },
+        },/*
         {
             name: "KMAS 103.3",
             logo: "stations/images-america/olympia/KMAS 103.3.png",
             url: "http://ice.ifiber.tv:8000/kmas"
-        },
+        },*/
         {
             name: "KMNT Country 104.3",
             logo: "stations/images-america/olympia/KMNT Country 104.3.png",
@@ -6750,7 +6750,7 @@ var stations = {
         {
             name: "89.3 KPCC",
             logo: "stations/images-america/0_general_logos/KPCC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPCC_FMAAC_SC"
+            url: "https://live.wostreaming.net/direct/southerncalipr-kpccfmaac-imc.aac"
         },
         {
             name: "KCSB 91.9",
@@ -7099,7 +7099,7 @@ var stations = {
         {
             name: "La Mejor 106.5",
             logo: "stations/images-america/phoenix/La Mejor 106.5.png",
-            url: "https://stream8.mexiserver.com/lamejor/lamejor/playlist.m3u8"
+            url: "https://sonic01.instainternet.com/8342/stream"
         },
         {
             name: "KMLE 107.9",
@@ -7460,7 +7460,7 @@ var stations = {
         {
             name: "Русское Радио Америка 105.5",
             logo: "stations/images-america/portland/Русское Радио Америка 105.5.png",
-            url: "http://s0.radioheart.ru:8000/RH47810"
+            url: "http://radio.rusradio.fm:24000/;stream.mp3"
         },
         {
             name: "105.9 The Brew",

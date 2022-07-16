@@ -2627,12 +2627,12 @@ var stations = {
         {
             name: "Rás 1",
             logo: "stations/images-europe/iceland/Rás 1.png",
-            url: "https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live.m3u8"
+            url: "http://netradio.ruv.is/ras1.mp3"
         },
         {
             name: "Rás 2",
             logo: "stations/images-europe/iceland/Rás 2.png",
-            url: "https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8"
+            url: "http://netradio.ruv.is/ras2.mp3"
         },
         {
             name: "Bylgjan",
@@ -3420,11 +3420,6 @@ var stations = {
             name: "Radio Plai",
             logo: "stations/images-europe/moldova/Radio Plai.png",
             url: "http://stream.radioplai.md:8000/live"
-        },
-        {
-            name: "Radio Sputnik Moldova",
-            logo: "stations/images-europe/moldova/Radio Sputnik Moldova.png",
-            url: "https://riavoice.gcdn.co/voicemda"
         },
         {
             name: "Russkoe Radio Moldova",
@@ -4677,22 +4672,12 @@ var stations = {
         {
             name: "HIT FM 89.9",
             logo: "stations/images-europe/spain-madrid/HIT FM 89.9.png",
-            url: "https://hitfm.kissfmradio.cires21.com/hitfm.mp3"
+            url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
         },
         {
             name: "Super Latina 90.1",
             logo: "stations/images-europe/spain-madrid/Super Latina 90.1.png",
             url: "https://securestream.radioshd.info:7037/;"
-        },
-        {
-            name: "XY Radio 90.5",
-            logo: "stations/images-europe/spain-madrid/XY Radio 90.5.png",
-            url: "https://eu1.lhdserver.es:8021/stream"
-        },
-        {
-            name: "Flow Radio Madrid 91.2",
-            logo: "stations/images-europe/spain-madrid/Flow Radio Madrid 91.2.png",
-            url: "http://37.187.76.127:8010/flow"
         },
         {
             name: "Radio Tentación 91.4",
@@ -4707,7 +4692,7 @@ var stations = {
         {
             name: "La Equis 95.4",
             logo: "stations/images-europe/spain-madrid/La Equis 95.4.png",
-            url: "https://streaming12.elitecomunicacion.es:8264/stream"
+            url: "https://babel.ddns.net/laequis"
         },
         {
             name: "La Suegra FM 96.7",
@@ -4747,7 +4732,7 @@ var stations = {
         {
             name: "Kandela Te Prende 101.9",
             logo: "stations/images-europe/spain-madrid/Kandela Te Pretende 101.9.png",
-            url: "https://one.cloudstreaming.eu:6158/kandela?_=1"
+            url: "http://one.cloudstreaming.eu:6158/kandela?_=1"
         },
         {
             name: "Únika FM 103.0",
