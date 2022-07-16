@@ -3647,6 +3647,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTRFMAAC_SC"
         },
         {
+            name: "ESPN 96.5",
+            logo: "stations/images-america/grand_junction_montrose/ESPN 96.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kexoamaac-ibc3"
+        },
+        {
             name: "97.7 Jack FM",
             logo: "stations/images-america/grand_junction_montrose/97.7 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7060_24k.aac"
@@ -3720,11 +3725,6 @@ var stations = {
             name: "KOOL 107.9",
             logo: "stations/images-america/grand_junction_montrose/KOOL 107.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbklfmaac-ibc3"
-        },
-        {
-            name: "1230 ESPN",
-            logo: "stations/images-america/grand_junction_montrose/1230 ESPN.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kexoamaac-ibc3"
         },
     ],
     "greybull": [
@@ -19770,6 +19770,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHZFMAAC_SC"
         },
         {
+            name: "96.9 The Beat",
+            logo: "stations/images-america/c2c/kansascity_mo/96.9 The Beat.png",
+            url: "https://ice41.securenetsystems.net/KQRB"
+        },
+        {
             name: "98.5 Jack FM",
             logo: "stations/images-america/c2c/topeka_ks/98.5 Jack FM.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ksajfmaac-ibc4"
@@ -20736,6 +20741,11 @@ var stations_c2c = {
             name: "BIG 102.1",
             logo: "stations/images-america/c2c/lafayette_la/Big 102.1.png",
             url: "https://ice42.securenetsystems.net/BIG"
+        },
+        {
+            name: "ESPN 102.3",
+            logo: "stations/images-america/c2c/lafayette_la/ESPN 102.3.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kpelamaac-ibc3"
         },
         {
             name: "103.7 The Game",
@@ -34687,6 +34697,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kziifmaac-ibc3"
         },
         {
+            name: "Talk 103.9",
+            logo: "stations/images-america/c2c/lubbock_tx/Talk 103.9.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kkamamaac-ibc3"
+        },
+        {
             name: "104.9 The Beat",
             logo: "stations/images-america/c2c/lubbock_tx/104.9 The Beat.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kbtefmaac-ibc4"
@@ -34710,11 +34725,6 @@ var stations_c2c = {
             name: "KRFE 580",
             logo: "stations/images-america/c2c/lubbock_tx/KRFE 580.png",
             url: "http://crystalout.surfernetwork.com:8001/KRFE-AM_MP3"
-        },
-        {
-            name: "Talk 1340",
-            logo: "stations/images-america/c2c/lubbock_tx/Talk 1340.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kkamamaac-ibc3"
         },
     ],
     "midland_tx": [
@@ -34802,6 +34812,16 @@ var stations_c2c = {
             name: "Q108",
             logo: "stations/images-america/c2c/midland_tx/Q108.png",
             url: "https://sonicpanel.hostradios.com:7131/stream"
+        },
+        {
+            name: "Q108",
+            logo: "stations/images-america/c2c/midland_tx/Q108.png",
+            url: "https://sonicpanel.hostradios.com:7131/stream"
+        },
+        {
+            name: "Family Life Radio 920",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
         },
     ],
     "ozona": [
