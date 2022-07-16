@@ -19771,7 +19771,7 @@ var stations_c2c = {
         },
         {
             name: "96.9 The Beat",
-            logo: "stations/images-america/c2c/kansascity_mo/96.9 The Beat.png",
+            logo: "stations/images-america/c2c/topeka_ks/96.9 The Beat.png",
             url: "https://ice41.securenetsystems.net/KQRB"
         },
         {
