@@ -11775,12 +11775,12 @@ var stations = {
             name: "Manantial FM 91.9",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
             url: "http://ic2.christiannetcast.com/kyrm-fm"
-        },
+        },/*
         {
             name: "Z93",
             logo: "stations/images-america/yuma/Z93.png",
             url: "http://162.244.80.33:7976/;"
-        },
+        },*/
         {
             name: "Border Radio 94.7",
             logo: "stations/images-america/yuma/Border Radio 94.7.png",
@@ -11820,12 +11820,12 @@ var stations = {
             name: "920 KGX",
             logo: "stations/images-america/indio/99.1 KGX.png",
             url: "https://ice10.securenetsystems.net/KGX"
-        },
+        },/*
         {
             name: "Outlaw Country 1400",
             logo: "stations/images-america/yuma/Outlaw Country 1400.png",
             url: "http://keithz932.primcast.com:5168/stream"
-        },
+        },*/
     ],
 };
 
@@ -18022,6 +18022,11 @@ var stations_c2c = {
             name: "AM 560 The Answer",
             logo: "stations/images-america/c2c/chicago_il/AM 560 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC_SC"
+        },
+        {
+            name: "BIN 640",
+            logo: "stations/images-america/c2c/chicago_il/BIN 640.png",
+            url: "https://stream.revma.ihrhls.com/zc9553/hls.m3u8"
         },
         {
             name: "670 The Score",
