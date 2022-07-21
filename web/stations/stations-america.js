@@ -2529,12 +2529,12 @@ var stations = {
             name: "ESPN 620",
             logo: "stations/images-america/phoenix/ESPN 620.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAMAAC_SC"
-        },
+        },/*
         {
             name: "980 KNTR",
             logo: "stations/images-america/kingman/980 KNTR.png",
             url: "http://147.135.84.28/kntr-am"
-        },
+        },*/
         {
             name: "KLPZ 1380",
             logo: "stations/images-america/kingman/KLPZ 1380.png",
@@ -4705,6 +4705,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOASFMAAC_SC"
         },
         {
+            name: "KNTR 106.3",
+            logo: "stations/images-america/kingman/KNTR 106.3.png",
+            url: "https://ic2.sslstream.com/kntr-fm"
+        },
+        {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
@@ -4713,12 +4718,12 @@ var stations = {
             name: "KDWN 720",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
-        },
+        },/*
         {
             name: "980 KNTR",
             logo: "stations/images-america/kingman/980 KNTR.png",
-            url: "http://147.135.84.28/kntr-am"
-        },
+            url: "https://ic2.sslstream.com/kntr-am"
+        },*/
         {
             name: "KLPZ 1380",
             logo: "stations/images-america/kingman/KLPZ 1380.png",
@@ -11917,7 +11922,7 @@ var stations_mexico = {
         {
             name: "La Poderosa 100.9",
             logo: "stations/images-america/mexico/sonora/pod.png",
-            url: "https://server3.sit-mexico.com:2199/proxy/poderosacdobr?mp=/stream"
+            url: "https://stream.zeno.fm/sugfd4mza84tv"
         },
         {
             name: "La Zeta 98.5",
@@ -11937,7 +11942,7 @@ var stations_mexico = {
         {
             name: "Romántica 96.9",
             logo: "stations/images-america/mexico/sonora/roman.png",
-            url: "https://sts.pergom.mx/xhap"
+            url: "https://freepi.host:9065/stream"
         },
         {
             name: "Ke Buena 92.1 FM",
@@ -11974,12 +11979,12 @@ var stations_mexico = {
         {
             name: "88.5 @FM",
             logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/88.5 @FM.png",
-            url: "https://sts.pergom.mx/xhdi"
+            url: "https://stream.zeno.fm/hv5u0bg9d78uv"
         },
         {
             name: "La Poderosa 89.3",
             logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/La Poderosa 89.3.png",
-            url: "https://sts.pergom.mx/xhfa"
+            url: "https://stream.zeno.fm/uza8mzt5dkhvv"
         },
         {
             name: "Love FM 90.1",
@@ -12024,7 +12029,7 @@ var stations_mexico = {
         {
             name: "Studio 96.5",
             logo: "stations/images-america/mexico/chihuahua/city_of_chihuahua/Studio 96.5.png",
-            url: "https://sts.pergom.mx/xhfi"
+            url: "https://stream.zeno.fm/n5bw2cz5dkhvv"
         },
         {
             name: "Imagen Chihuahua 97.3",
@@ -12096,12 +12101,12 @@ var stations_mexico = {
         {
             name: "Sonora Grupera 100.5",
             logo: "stations/images-america/mexico/sonora/sonoragrupera.png",
-            url: "https://www.sonoragrupera.com/envivo"
+            url: "http://144.217.15.135:8000/stream/4/"
         },
         {
             name: "Pop Extremo",
             logo: "stations/images-america/mexico/sonora/pop.png",
-            url: "https://www.popextremo.com/envivo"
+            url: "https://www.popextremo.mx/envivo"
         },
         {
             name: "La Que Manda 90.1 FM",
@@ -12245,12 +12250,12 @@ var stations_mexico = {
         {
             name: "Sonora Grupera",
             logo: "stations/images-america/mexico/sonora/sonoragrupera1.png",
-            url: "https://www.sonoragrupera.com/envivo"
+            url: "http://144.217.15.135:8000/stream/2/"
         },
         {
             name: "Pop Extremo",
             logo: "stations/images-america/mexico/sonora/pop.png",
-            url: "https://www.popextremo.com/envivo"
+            url: "https://www.popextremo.mx/envivo"
         },
         {
             name: "Toño 95.5",
@@ -12340,7 +12345,7 @@ var stations_mexico = {
         {
             name: "Romántica 106.7 FM",
             logo: "stations/images-america/mexico/sonora/romantica.png",
-            url: "https://sonic.globalstream.pro:10969/stream.mp3"
+            url: "https://stream.zeno.fm/ed0au4fxea0uv"
         },
         {
             name: "La Mejor 96.7",
@@ -12379,7 +12384,7 @@ var stations_mexico = {
         {
             name: "La Lupe 102.9",
             logo: "stations/images-america/mexico/durango/lalupe.png",
-            url: "http://radio.urbansa.com:8000/station21"
+            url: "https://streaming.multimedios.com/station21"
         },
         {
             name: "Más Pop 95.7",
@@ -12426,7 +12431,7 @@ var stations_mexico = {
         {
             name: "La Lupe 99.5",
             logo: "stations/images-america/mexico/durango/lupe99.png",
-            url: "https://radio.urbansa.com/station6"
+            url: "https://streaming.multimedios.com/station6"
         },
         {
             name: "Vida Romántica - XHVK",
@@ -12480,7 +12485,7 @@ var stations_mexico = {
         {
             name: "La Poderosa 96.9",
             logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
-            url: "https://sts.pergom.mx/XHMUG"
+            url: "https://stream.zeno.fm/k8rm10r5dkhvv"
         },
         {
             name: "Power 98",
@@ -12505,7 +12510,7 @@ var stations_mexico = {
         {
             name: "104.9 @FM",
             logo: "stations/images-america/mexico/mexicali/104.9 @FM.png",
-            url: "https://sts.pergom.mx/XHMC"
+            url: "https://stream.zeno.fm/vbs3f2ezbfhvv"
         },
         {
             name: "Imagen 105.5",
@@ -12515,7 +12520,7 @@ var stations_mexico = {
         {
             name: "La Dinámica 105.9",
             logo: "stations/images-america/mexico/mexicali/La Dinámica 105.9.png",
-            url: "https://sts.pergom.mx/XHSU"
+            url: "https://stream.zeno.fm/ndwg5rs5dkhvv"
         },
         {
             name: "Buenísima 850",
@@ -12530,7 +12535,7 @@ var stations_mexico = {
         {
             name: "La Rocola 990",
             logo: "stations/images-america/mexico/mexicali/La Rocola 990.png",
-            url: "https://sts.pergom.mx/XECL"
+            url: "https://stream.zeno.fm/25a0y7s5dkhvv"
         },
         {
             name: "Vida 1370",
@@ -12625,7 +12630,7 @@ var stations_mexico = {
         {
             name: "LA LUPE 92.1 FM",
             logo: "stations/images-america/mexico/sinaloa/lupe.png",
-            url: "https://radio.urbansa.com/station"
+            url: "https://streaming.multimedios.com/station"
         },
         {
             name: "Quiéreme 98.7",
@@ -12876,7 +12881,7 @@ var stations_mexico = {
         {
             name: "La Caliente",
             logo: "stations/images-america/mexico/bajacalifornia/calientebc.png",
-            url: "https://radio.urbansa.com/station10"
+            url: "https://streaming.multimedios.com/station10"
         },      
     ],
     "la_paz": [
@@ -13027,7 +13032,7 @@ var stations_mexico = {
         {
             name: "La Lupe",
             logo: "stations/images-america/mexico/sanluisp/lupeslp.png",
-            url: "https://radio.urbansa.com/station30"
+            url: "https://streaming.multimedios.com/station30"
         }, 
         {
             name: "Romantica",
@@ -28033,6 +28038,11 @@ var stations_c2c = {
             name: "Q104.1",
             logo: "stations/images-america/c2c/greensboro_nc/Q104.1.png",
             url: "https://stream.revma.ihrhls.com/zc1625/hls.m3u8"
+        },
+        {
+            name: "Rebel 104.5",
+            logo: "stations/images-america/c2c/greensboro_nc/Rebel 104.5.png",
+            url: "https://ice24.securenetsystems.net/WKHF"
         },
         {
             name: "Real Rock 105.7",
