@@ -831,7 +831,7 @@ var stations = {
         {
             name: "KMRE 102.3",
             logo: "stations/images-america/bellingham/KMRE 102.3.png",
-            url: "http://199.180.75.2:9391/;"
+            url: "https://ice6.securenetsystems.net/KMRE"
         },
         {
             name: "KAFE 104.1",
@@ -4712,7 +4712,7 @@ var stations = {
         {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1obHNjMy5tM3U4"
         },
         {
             name: "KDWN 720",
@@ -6994,12 +6994,12 @@ var stations = {
         {
             name: "HOT 97.5",
             logo: "stations/images-america/phoenix/HOT 97.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KMVA"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LTVZB"
         },
         {
             name: "Power 98.3",
             logo: "stations/images-america/phoenix/Power 98.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KKFR"
+            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LS0ZS"
         },
         {
             name: "98 KUPD",
@@ -12404,7 +12404,7 @@ var stations_mexico = {
         {
             name: "La Poderosa 98.1 FM",
             logo: "stations/images-america/mexico/durango/poderosa.png",
-            url: "http://sts.pergom.mx/xhwx"
+            url: "https://stream.zeno.fm/cta4n595dkhvv"
         },
         {
             name: "Radio Fórmula",
