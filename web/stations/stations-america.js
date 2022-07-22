@@ -19636,7 +19636,7 @@ var stations_c2c = {
         {
             name: "KFRM 550",
             logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
-            url: "https://kfrm.streamguys1.com/live"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
             name: "KRVN 880",
@@ -19735,7 +19735,7 @@ var stations_c2c = {
         {
             name: "KFRM 550",
             logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
-            url: "https://kfrm.streamguys1.com/live"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
             name: "910 KINA",
@@ -19900,11 +19900,6 @@ var stations_c2c = {
             name: "KISS 97.9-HD2",
             logo: "stations/images-america/0_general_logos/KISS.png",
             url: "https://stream.revma.ihrhls.com/zc7362/hls.m3u8"
-        },
-        {
-            name: "KNSS 98.7",
-            logo: "stations/images-america/c2c/wichita_ks/KNSS 98.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNSSAMAAC_SC"
         },
         {
             name: "KNSS 98.7",
