@@ -25727,7 +25727,7 @@ var stations_c2c = {
         {
             name: "alt 95.7",
             logo: "stations/images-america/c2c/missoula_mt/alt 95.7.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kammfmaac-ibc3"
+            url: "https://live.wostreaming.net/manifest/townsquare-kgglhd3aac-ibc3"
         },
         {
             name: "96.3 The Blaze",
