@@ -25737,7 +25737,7 @@ var stations_c2c = {
         {
             name: "96.9 Zoo FM",
             logo: "stations/images-america/c2c/missoula_mt/96.9 Zoo FM.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kenrfmaac-ibc3"
+            url: "https://live.wostreaming.net/manifest/townsquare-kgglhd2aac-ibc3"
         },
         {
             name: "97.9 The Ranch",
