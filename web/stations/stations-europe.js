@@ -3307,12 +3307,12 @@ var stations = {
         {
             name: "RCG",
             logo: "stations/images-europe/mnegro/RTCG.png",
-            url: "http://radio.beotel.net:8008/;"
+            url: "https://rtcg.ipradio.rs:9008/;"
         },
         {
             name: "R98",
             logo: "stations/images-europe/mnegro/RTCG.png",
-            url: "http://radio.beotel.net:8010/;"
+            url: "https://rtcg.ipradio.rs:9010/;"
         },
         {
             name: "Antena M",
@@ -4267,7 +4267,7 @@ var stations = {
         {
             name: "Central FM",
             logo: "stations/images-europe/scotland/Central FM.png",
-            url: "https://webradio.radiomonitor.com/stream/CentralFM"
+            url: "http://webradio.radiomonitor.com/stream/CentralFM"
         },
         {
             name: "Go Radio",
@@ -4344,7 +4344,7 @@ var stations = {
         {
             name: "Play Radio",
             logo: "stations/images-europe/serbia/Play Radio.png",
-            url: "http://stream.playradio.rs:8001/play.mp3"
+            url: "https://stream.playradio.rs:8443/play.aac"
         },
         {
             name: "Radio AS FM",
@@ -5206,7 +5206,7 @@ var stations = {
         {
             name: "Erkam Radyo",
             logo: "stations/images-europe/turkey/Erkam Radyo.png",
-            url: "https://usd.nocvp.com/asset/7G7oEaxS/playlist.m3u8"
+            url: "https://raddyo.com/radio/8010/radio.mp3"
         },
         {
             name: "Joy Türk",
@@ -5332,12 +5332,12 @@ var stations = {
             name: "TGRT FM",
             logo: "stations/images-europe/turkey/TGRT FM.png",
             url: "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8"
-        },
+        },/*
         {
             name: "Türkiye Polis Radyosu",
             logo: "stations/images-europe/turkey/Türkiye Polis Radyosu.png",
-            url: "https://m.egm.gov.tr:8093//;"
-        },
+            url: "https://m.egm.gov.tr:8093/;*.mp3"
+        },*/
         {
             name: "Vav Radyo",
             logo: "stations/images-europe/turkey/Vav Radyo.png",

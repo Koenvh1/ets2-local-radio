@@ -10373,12 +10373,12 @@ var stations = {
             name: "Z92",
             logo: "stations/images-america/show_low/Z92.png",
             url: "https://ice66.securenetsystems.net/KZUA"
-        },
+        },/*
         {
             name: "QCountry 92.5",
             logo: "stations/images-america/show_low/QCountry 92.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KTHQ"
-        },
+        },*/
         {
             name: "Power 95.7",
             logo: "stations/images-america/show_low/Power 95.7.png",
@@ -10398,22 +10398,22 @@ var stations = {
             name: "K-Bear 100.5",
             logo: "stations/images-america/show_low/K-Bear 100.5.png",
             url: "http://kbear100.com:8190/kbear22"
-        },
+        },/*
         {
             name: "Majik 101.7",
             logo: "stations/images-america/show_low/Majik 101.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KQAZ"
-        },
+        },*/
         {
             name: "103.5 The Vibe",
             logo: "stations/images-america/show_low/103.5 The Vibe.png",
             url: "http://1035thevibe.com:8190/vibe22"
-        },
+        },/*
         {
             name: "105.5 KSNX",
             logo: "stations/images-america/show_low/105.5 KSNX.png",
             url: "https://ice66.securenetsystems.net/KSNX"
-        },
+        },*/
         {
             name: "107.9 The Eagle",
             logo: "stations/images-america/show_low/107.9 The Eagle.png",
