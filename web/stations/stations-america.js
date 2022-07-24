@@ -1658,7 +1658,7 @@ var stations = {
         {
             name: "93.7 KAZY",
             logo: "stations/images-america/cheyenne/93.7 KAZY.png",
-            url: "http://streaming.radiowyo.com:1010/KAZY"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KAZY"
         },
         {
             name: "Y95 Country",
@@ -1683,17 +1683,17 @@ var stations = {
         {
             name: "103.3 The Range",
             logo: "stations/images-america/cheyenne/103.3 The Range.png",
-            url: "http://streaming.radiowyo.com:1010/KRAN"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KRAN"
         },
         {
             name: "iMix 104.5",
             logo: "stations/images-america/cheyenne/iMix 104.5.png",
-            url: "http://nebcoradio.com:1010/KIMX"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://nebcoradio.com:1010/KIMX"
         },
         {
             name: "104.9 KRRR",
             logo: "stations/images-america/cheyenne/104.9 KRRR.png",
-            url: "http://streaming.radiowyo.com:1010/KRRR"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KRRR"
         },
         {
             name: "106.3 NOW FM",
@@ -3761,12 +3761,12 @@ var stations = {
         {
             name: "101.1 The KROW",
             logo: "stations/images-america/greybull/101.1 The KROW.png",
-            url: "http://streaming.radiowyo.com:1010/KROW"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KROW"
         },
         {
             name: "103.3 The Range",
             logo: "stations/images-america/greybull/103.3 The Range.png",
-            url: "http://nebcoradio.com:1010/KBEN"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://nebcoradio.com:1010/KBEN"
         },
         {
             name: "104.1 The Eagle",
@@ -3776,7 +3776,7 @@ var stations = {
         {
             name: "107.1 The Adventure",
             logo: "stations/images-america/greybull/107.1 The Adventure.png",
-            url: "http://nebcoradio.com:1010/KWHO"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://nebcoradio.com:1010/KWHO"
         },
         {
             name: "KROE 930",
@@ -4379,7 +4379,7 @@ var stations = {
         {
             name: "iMix 92.3",
             logo: "stations/images-america/jackson/iMix 92.3.png",
-            url: "http://nebcoradio.com:1010/KIXM"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://nebcoradio.com:1010/KIXM"
         },
         {
             name: "KJAX 93.5",
@@ -4982,12 +4982,12 @@ var stations = {
         {
             name: "New Country 96.7",
             logo: "stations/images-america/laramie/New Country 96.7.png",
-            url: "http://streaming.radiowyo.com:1010/KHAT"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KHAT"
         },
         {
             name: "98.7 Vintage Vinyl",
             logo: "stations/images-america/laramie/98.7 Vintage Vinyl.png",
-            url: "http://nebcoradio.com:1010/KRQU"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://nebcoradio.com:1010/KRQU"
         },
         {
             name: "Power 102.9",
@@ -5002,7 +5002,7 @@ var stations = {
         {
             name: "iMix 104.5",
             logo: "stations/images-america/cheyenne/iMix 104.5.png",
-            url: "http://nebcoradio.com:1010/KIMX"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://nebcoradio.com:1010/KIMX"
         },
         {
             name: "Hits 106",
@@ -6969,7 +6969,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
+            url: "https://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -32195,7 +32195,7 @@ var stations_c2c = {
         {
             name: "True Country 99.5",
             logo: "stations/images-america/c2c/rapid_city_sd/True Country 99.5.png",
-            url: "http://streaming.radiowyo.com:1010/KRKI"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KRKI"
         },
         {
             name: "100.3 The Fox",
@@ -32215,7 +32215,7 @@ var stations_c2c = {
         {
             name: "KOOL 101.9",
             logo: "stations/images-america/c2c/rapid_city_sd/KOOL 101.9.png",
-            url: "http://streaming.radiowyo.com:1010/KFMH"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://streaming.radiowyo.com:1010/KFMH"
         },
         {
             name: "Hits 102.7",
