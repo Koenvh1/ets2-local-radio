@@ -6969,7 +6969,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "https://ice42.securenetsystems.net/KOAI"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
         },
         {
             name: "95.5 The Mountain",
