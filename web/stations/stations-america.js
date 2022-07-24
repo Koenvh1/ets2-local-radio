@@ -5357,7 +5357,7 @@ var stations = {
     "leevining": [
         {
             name: "K243BC 96.5",
-            logo: "stations/images-america/bishop/Alt 92.5.png",
+            logo: "stations/images-america/bishop/92.5 KSRW.png",
             url: "https://ais-edge50-live365-dal02.cdnstream.com/a20270"
         },
         {
@@ -6969,7 +6969,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
+            url: "https://ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -7039,7 +7039,7 @@ var stations = {
         {
             name: "101.1 The Bounce",
             logo: "stations/images-america/phoenix/101.1 The Bounce.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWkNF"
+            url: "https://ice42.securenetsystems.net/KZCE"
         },
         {
             name: "LIVE 101.5",
@@ -7079,7 +7079,7 @@ var stations = {
         {
             name: "Mega 104.3",
             logo: "stations/images-america/phoenix/Mega 104.3.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U1LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tBSk0="
+            url: "https://ice5.securenetsystems.net/KAJM"
         },
         {
             name: "104.7 KISS FM",
@@ -7922,12 +7922,12 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0E="
+            url: "https://ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOLC"
+            url: "https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "KWNK 97.7",
@@ -7982,7 +7982,7 @@ var stations = {
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0FIRDM="
+            url: "https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "105.7 KOZZ",
@@ -9283,7 +9283,7 @@ var stations = {
         {
             name: "93.7 The Bull",
             logo: "stations/images-america/santa_rosa_ca/93.7 The Bull.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KBBLFM"
+            url: "https://ice10.securenetsystems.net/KBBLFM"
         },
         {
             name: "Latino 95.5",
@@ -9313,7 +9313,7 @@ var stations = {
         {
             name: "Jazzy 99.1",
             logo: "stations/images-america/santa_rosa_ca/Jazzy 99.1.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKWllIRDI="
+            url: "https://ice9.securenetsystems.net/KJZYHD2"
         },
         {
             name: "99.3 The Vine",
@@ -9323,7 +9323,7 @@ var stations = {
         {
             name: "KZST 100.1",
             logo: "stations/images-america/santa_rosa_ca/KZST 100.1.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KZSTFM"
+            url: "https://ice10.securenetsystems.net/KZSTFM"
         },
         {
             name: "The 101",
@@ -9338,7 +9338,7 @@ var stations = {
         {
             name: "102.7 The Wolf",
             logo: "stations/images-america/santa_rosa_ca/102.7 The Wolf.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KWVFFM"
+            url: "https://ice10.securenetsystems.net/KWVFFM"
         },
         {
             name: "KFAITH 103.1",
@@ -18093,7 +18093,7 @@ var stations_c2c = {
         {
             name: "WGLC 100.1",
             logo: "stations/images-america/c2c/lasalle_il/WGLC 100.1.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0MS5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XR0xD"
+            url: "https://ice41.securenetsystems.net/WGLC"
         },
         {
             name: "WALLS 102",
@@ -19445,7 +19445,7 @@ var stations_c2c = {
         {
             name: "96.9 KVOE",
             logo: "stations/images-america/c2c/emporia_ks/96.9 KVOE.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U2NC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LVk9F"
+            url: "https://ice64.securenetsystems.net/KVOE"
         },
         {
             name: "My Country 99.5",
@@ -19554,7 +19554,7 @@ var stations_c2c = {
         {
             name: "100.7 Eagle Country",
             logo: "stations/images-america/c2c/greatbend_ks/100.7 Eagle Country.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KHOKFM2"
+            url: "https://ice10.securenetsystems.net/KHOKFM2"
         },
         {
             name: "B104.3",
@@ -19569,7 +19569,7 @@ var stations_c2c = {
         {
             name: "KVGB 1590",
             logo: "stations/images-america/c2c/greatbend_ks/KVGB 1590.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KVGBAM2"
+            url: "https://ice10.securenetsystems.net/KVGBAM2"
         },
     ],
     "hays": [
@@ -20352,7 +20352,7 @@ var stations_c2c = {
         {
             name: "WAKY 100.1",
             logo: "stations/images-america/c2c/louisville_ky/WAKY 100.1.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice7.securenetsystems.net/WAKY"
+            url: "https://ice7.securenetsystems.net/WAKY"
         },
         {
             name: "100.5FM",
@@ -23346,7 +23346,7 @@ var stations_c2c = {
         {
             name: "Minnesota 97.5",
             logo: "stations/images-america/c2c/rochester_mn/Minnesota 97.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KNXR"
+            url: "https://ice10.securenetsystems.net/KNXR"
         },
         {
             name: "Laser 101.7",
@@ -24305,7 +24305,7 @@ var stations_c2c = {
         {
             name: "95.1 Mike FM",
             logo: "stations/images-america/c2c/joplin_mo/95.1 Mike FM.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KMXL"
+            url: "https://ice10.securenetsystems.net/KMXL"
         },
         {
             name: "96.9 KKOW",
@@ -26029,12 +26029,12 @@ var stations_c2c = {
         {
             name: "Mix 97 One",
             logo: "stations/images-america/c2c/north_platte_ne/Mix 97 One.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KELN"
+            url: "https://ice10.securenetsystems.net/KELN"
         },
         {
             name: "FM 98.1",
             logo: "stations/images-america/c2c/north_platte_ne/FM 98.1.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KOOQ"
+            url: "https://ice10.securenetsystems.net/KOOQ"
         },
         {
             name: "The Hawk 98.5",
@@ -26069,7 +26069,7 @@ var stations_c2c = {
         {
             name: "Q Country Classics 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KNPQ"
+            url: "https://ice10.securenetsystems.net/KNPQ"
         },
     ],
     "ogallala_ne": [
@@ -26536,7 +26536,7 @@ var stations_c2c = {
         {
             name: "100.5 The Drive",
             logo: "stations/images-america/c2c/binghamton_ny/100.5 The Drive.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2UyNC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XRFJF"
+            url: "https://ice24.securenetsystems.net/WDRE"
         },
         {
             name: "Magic 101.7",
@@ -27752,7 +27752,7 @@ var stations_c2c = {
         },
         {
             name: "WFNZ 92.7",
-            logo: "stations/images-america/c2c/charlotte_nc/WFNZ 102.5.png",
+            logo: "stations/images-america/c2c/charlotte_nc/WFNZ 92.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFNZAMAAC_SC"
         },
         {
@@ -35568,7 +35568,7 @@ var stations_c2c = {
         {
             name: "The Penguin 105.7",
             logo: "stations/images-america/c2c/burlington_vt/The Penguin 105.7.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/WJKS"
+            url: "https://ice10.securenetsystems.net/WJKS"
         },
         {
             name: "105.9 The Radiator",
@@ -40988,7 +40988,7 @@ var stations_greatamerica = {
         {
             name: "FM 92.5",
             logo: "stations/images-america/great_america/alliance/FM 92.5.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KCOW"
+            url: "https://ice10.securenetsystems.net/KCOW"
         },
         {
             name: "B94.7",
@@ -41107,7 +41107,7 @@ var stations_greatamerica = {
         {
             name: "Double Q Country 95.7",
             logo: "stations/images-america/great_america/chadron/Double Q Country.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KQSK"
+            url: "https://ice10.securenetsystems.net/KQSK"
         },
         {
             name: "K276DM 103.1",
@@ -41484,7 +41484,7 @@ var stations_greatamerica = {
         {
             name: "930 KSDN",
             logo: "stations/images-america/great_america/mobridge/930 KSDN.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KSDNAM"
+            url: "https://ice10.securenetsystems.net/KSDNAM"
         },
     ],
     "norfolk_ne": [
