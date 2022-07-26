@@ -33555,8 +33555,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "Mega 102.7",
-            logo: "stations/images-america/c2c/austin_tx/Mega 102.7.png",
+            name: "102.7 ESPN",
+            logo: "stations/images-america/c2c/austin_tx/102.7 ESPN.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTHD2AAC_SC"
         },
         {
@@ -36544,7 +36544,7 @@ var stations_c2c = {
         {
             name: "KZ 104.3",
             logo: "stations/images-america/c2c/green_bay_wi/KZ 104.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=http://ic2.mainstreamnetwork.com/wkzg-fm"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://woodward-radio.streamb.live/SB00131"
         },
         {
             name: "105.7 WAPL",
@@ -40545,7 +40545,12 @@ var stations_canada = {
             url: "https://live.citr.ca/live.aac"
         },
         {
-            name: "102.7 The Peak",
+            name: "102.7 NOW!radio",
+            logo: "stations/images-america/canada/vancouver/102.7 NOW!radio.png",
+            url: "https://redirect.jpbgdigital.com/CKPKFM"
+        },
+        {
+            name: "102.7-HD2 The Peak",
             logo: "stations/images-america/canada/vancouver/102.7 The Peak.png",
             url: "https://redirect.jpbgdigital.com/CKPK"
         },
