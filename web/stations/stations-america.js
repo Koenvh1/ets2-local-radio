@@ -3727,61 +3727,81 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kbklfmaac-ibc3"
         },
     ],
-    "greybull": [
+    "cody": [
+        {
+            name: "KFGR 88.1",
+            logo: "stations/images-america/cody/KFGR 88.1.png",
+            url: "https://tbc.streamguys1.com/live2"
+        },
+        {
+            name: "YPR 88.5",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
+            url: "http://ypr-sc.streamguys.net/live"
+        },
         {
             name: "Wyoming Sounds 89.1",
             logo: "stations/images-america/0_general_logos/Wyoming Sounds.png",
             url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
         },
         {
+            name: "WPR 90.1",
+            logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
+            url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
+        },
+        {
             name: "KOFG 91.1",
-            logo: "stations/images-america/greybull/KOFG 91.1.png",
+            logo: "stations/images-america/cody/KOFG 91.1.png",
             url: "https://ais-sa1.streamon.fm/7065_24k.aac"
         },
         {
-            name: "YPR 91.5",
-            logo: "stations/images-america/0_general_logos/YPR_summer.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            name: "The Cowboy 92.1",
+            logo: "stations/images-america/cody/The Cowboy 92.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCWBFMAAC_SC"
         },
         {
-            name: "Pilgrim Radio 96.9",
+            name: "Pilgrim Radio 95.1",
             logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
+            name: "KODI 96.7",
+            logo: "stations/images-america/cody/KODI 96.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KODIAMAAC_SC"
+        },
+        {
             name: "KTAG 97.9",
-            logo: "stations/images-america/greybull/KTAG 97.9.png",
+            logo: "stations/images-america/cody/KTAG 97.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTAGFMAAC_SC"
         },
         {
             name: "KZMQ 100.3",
-            logo: "stations/images-america/greybull/KZMQ 100.3.png",
+            logo: "stations/images-america/cody/KZMQ 100.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZMQFMAAC_SC"
         },
         {
             name: "101.1 The KROW",
-            logo: "stations/images-america/greybull/101.1 The KROW.png",
+            logo: "stations/images-america/cody/101.1 The KROW.png",
             url: "http://streaming.radiowyo.com:1010/KROW"
         },
         {
             name: "103.3 The Range",
-            logo: "stations/images-america/greybull/103.3 The Range.png",
+            logo: "stations/images-america/cody/103.3 The Range.png",
             url: "http://nebcoradio.com:1010/KBEN"
         },
         {
             name: "104.1 The Eagle",
-            logo: "stations/images-america/greybull/104.1 The Eagle.png",
+            logo: "stations/images-america/cody/104.1 The Eagle.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCGLFMAAC_SC"
         },
         {
             name: "107.1 The Adventure",
-            logo: "stations/images-america/greybull/107.1 The Adventure.png",
+            logo: "stations/images-america/cody/107.1 The Adventure.png",
             url: "http://nebcoradio.com:1010/KWHO"
         },
         {
-            name: "KROE 930",
-            logo: "stations/images-america/sheridan/KROE 103.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice24.securenetsystems.net/KROE"
+            name: "KPOW 1260",
+            logo: "stations/images-america/cody/KPOW 1260.png",
+            url: "https://us2.maindigitalstream.com/ssl/KPOW"
         },
     ],
     "gallup": [

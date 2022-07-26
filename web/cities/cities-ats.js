@@ -143,6 +143,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "cody": {
+        name: "Cody",
+        name_english: "Cody",
+        code: "us-wy",
+        relative_radius: 0.6
+    },
     "colorado_springs_pueblo": {
         name: "Colorado Springs / Pueblo",
         name_english: "Colorado Springs / Pueblo",
@@ -988,6 +994,9 @@ var city_properties = {
     "clovis": {
         relative_whitenoise: 0.90
     },
+    "cody": {
+        relative_whitenoise: 0.85
+    },
     "colorado_springs_pueblo": {
         relative_whitenoise: 0.85
     },
@@ -1078,6 +1087,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "greybull": {
+		relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "hillcrest": {
@@ -2151,6 +2161,14 @@ var cities = [
         "z": "-37951.5"
     },
     {
+        "gameName": "cody",
+        "realName": "Cody",
+        "country": "cody",
+        "x": "-51705.6",
+        "y": "125",
+        "z": "-36109.9"
+    },
+    {
         "gameName": "coos_bay",
         "realName": "Coos Bay",
         "country": "coos_bay",
@@ -2529,8 +2547,8 @@ var cities = [
     {
         "gameName": "greybull",
         "realName": "Greybull",
-        "country": "greybull",
-        "x": "-49548.5",
+        "country": "cody",
+        "x": "-48448.5",
         "y": "125.816",
         "z": "-35164.9"
     },
