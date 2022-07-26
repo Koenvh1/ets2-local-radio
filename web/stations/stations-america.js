@@ -3764,6 +3764,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
+            name: "KKLX 96.1",
+            logo: "stations/images-america/cody/KKLX 96.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKLXFMAAC_SC"
+        },
+        {
             name: "KODI 96.7",
             logo: "stations/images-america/cody/KODI 96.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KODIAMAAC_SC"
