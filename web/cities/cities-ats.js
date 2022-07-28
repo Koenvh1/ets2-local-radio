@@ -1087,7 +1087,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "greybull": {
-		relative_radius: 0.6,
+		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "hillcrest": {
@@ -2164,9 +2164,9 @@ var cities = [
         "gameName": "cody",
         "realName": "Cody",
         "country": "cody",
-        "x": "-51705.6",
+        "x": "-51905.6",
         "y": "125",
-        "z": "-36109.9"
+        "z": "-35109.9"
     },
     {
         "gameName": "coos_bay",
@@ -2550,7 +2550,7 @@ var cities = [
         "country": "cody",
         "x": "-48448.5",
         "y": "125.816",
-        "z": "-35164.9"
+        "z": "-33764.9"
     },
     {
         "gameName": "idaho_falls",
