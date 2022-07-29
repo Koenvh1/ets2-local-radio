@@ -17964,8 +17964,8 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSNHD2AAC_SC"
         },
         {
-            name: "SHE 100.3",
-            logo: "stations/images-america/c2c/chicago_il/SHE 100.3.png",
+            name: "100.3 SHE",
+            logo: "stations/images-america/c2c/chicago_il/100.3 SHE.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WSHEFMAAC_SC"
         },
         {
@@ -33900,9 +33900,9 @@ var stations_c2c = {
     ],
     "dallas": [
         {
-            name: "88.1 The One",
-            logo: "stations/images-america/c2c/dallas_tx/88.1 The One.png",
-            url: "http://stream.kntu.unt.edu:8000/kntulive.aac"
+            name: "88.1 indie",
+            logo: "stations/images-america/c2c/dallas_tx/88.1 indie.png",
+            url: "https://5a8b296144892.streamlock.net/live2/radiostation.stream/playlist.m3u8"
         },
         {
             name: "KEOM 88.5",
