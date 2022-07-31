@@ -4452,6 +4452,11 @@ var stations = {
             url: "https://ice24.securenetsystems.net/KIDFM"
         },
         {
+            name: "103.7 The Range",
+            logo: "stations/images-america/idaho_falls/103.7 The Range.png",
+            url: "https://nebcoradio.com:1010/KDAD"
+        },
+        {
             name: "104.3 The Bronc",
             logo: "stations/images-america/jackson/104.3 The Bronc.png",
             url: "https://streaming.live365.com/a24308"

@@ -96,12 +96,12 @@ var stations = {
             name: "Radio One",
             logo: "stations/images-europe/albania/Radio One.png",
             url: "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
-        },
+        },/*
         {
             name: "Radio Travel",
             logo: "stations/images-europe/albania/Radio Travel.png",
             url: "http://84.16.241.205:8010/stream"
-        },
+        },*/
         {
             name: "RFI Monde Albania",
             logo: "stations/images-europe/albania/RFI Monde Albania.png",
