@@ -7024,12 +7024,12 @@ var stations = {
         {
             name: "HOT 97.5",
             logo: "stations/images-america/phoenix/HOT 97.5.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LTVZB"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LTVZB"
         },
         {
             name: "Power 98.3",
             logo: "stations/images-america/phoenix/Power 98.3.png",
-            url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LS0ZS"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LS0ZS"
         },
         {
             name: "98 KUPD",
@@ -10276,6 +10276,11 @@ var stations = {
             url: "http://50.222.186.230:8080/stream"
         },
         {
+            name: "AM 1300 The Answer",
+            logo: "stations/images-america/seattle/AM 1300 The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLFEAMAAC_SC"
+        },
+        {
             name: "KRKO 1380",
             logo: "stations/images-america/seattle/KRKO 1380.png",
             url: "https://www.ophanim.net:8444/s/9400"
@@ -10294,11 +10299,6 @@ var stations = {
             name: "KXPA 1540",
             logo: "stations/images-america/seattle/KXPA 1540.png",
             url: "http://kxparadio.serverroom.us:5852/;"
-        },
-        {
-            name: "AM 1590 The Answer",
-            logo: "stations/images-america/seattle/AM 1590 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLFEAMAAC_SC"
         },
         {
             name: "1620 KYIZ",
@@ -15948,8 +15948,8 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORKAAC_SC"
         },
         {
-            name: "103.1 The Wolf",
-            logo: "stations/images-america/c2c/orlando_fl/103.1 The Wolf.png",
+            name: "FLY 103.1",
+            logo: "stations/images-america/c2c/orlando_fl/FLY 103.1.png",
             url: "https://ice66.securenetsystems.net/WOTW"
         },
         {
