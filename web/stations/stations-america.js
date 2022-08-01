@@ -15215,7 +15215,7 @@ var stations_c2c = {
         {
             name: "SonLife Radio 90.5",
             logo: "stations/images-america/0_general_logos/SonLife Radio.png",
-            url: "https://sonlifeflash-lh.akamaihd.net/i/sonliferadioflash_hls@119768/master.m3u8"
+            url: "https://live.radio.sonlife.olympusatmedia.com/index.m3u8"
         },
         {
             name: "SOS Radio 90.9",
@@ -24569,7 +24569,7 @@ var stations_c2c = {
         {
             name: "SonLife Radio 88.1",
             logo: "stations/images-america/0_general_logos/SonLife Radio.png",
-            url: "https://sonlifeflash-lh.akamaihd.net/i/sonliferadioflash_hls@119768/master.m3u8"
+            url: "https://live.radio.sonlife.olympusatmedia.com/index.m3u8"
         },
         {
             name: "88.7 KTRM",
