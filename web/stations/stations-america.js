@@ -5304,7 +5304,7 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kisffmaac-imc2"
         },
         {
-            name: "REAL 103.9",
+            name: "Real 103.9",
             logo: "stations/images-america/las_vegas/Real 103.9.png",
             url: "https://stream.revma.ihrhls.com/zc6967/hls.m3u8"
         },
@@ -5689,7 +5689,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC"
         },
         {
-            name: "REAL 92.3",
+            name: "Real 92.3",
             logo: "stations/images-america/los_angeles/Real 92.3.png",
             url: "https://stream.revma.ihrhls.com/zc181/hls.m3u8"
         },
@@ -18603,7 +18603,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8376/hls.m3u8"
         },
         {
-            name: "REAL 98.3",
+            name: "Real 98.3",
             logo: "stations/images-america/c2c/indianapolis_in/REAL 98.3.png",
             url: "https://stream.revma.ihrhls.com/zc6944/hls.m3u8"
         },
@@ -20176,7 +20176,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXZZFMAAC_SC"
         },
         {
-            name: "REAL 103.9",
+            name: "Real 103.9",
             logo: "stations/images-america/c2c/lexington_ky/REAL 103.9.png",
             url: "https://stream.revma.ihrhls.com/zc5136/hls.m3u8"
         },
@@ -20305,7 +20305,7 @@ var stations_c2c = {
             url: "https://lpm.streamguys1.com/wfpk-web"
         },
         {
-            name: "REAL 93.1",
+            name: "Real 93.1",
             logo: "stations/images-america/c2c/louisville_ky/REAL 93.1.png",
             url: "https://stream.revma.ihrhls.com/zc981/hls.m3u8"
         },
@@ -24077,7 +24077,7 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KLSM"
         },
         {
-            name: "REAL 105.1",
+            name: "Real 105.1",
             logo: "stations/images-america/c2c/jackson_ms/REAL 105.1.png",
             url: "https://stream.revma.ihrhls.com/zc1249/hls.m3u8"
         },
@@ -29709,7 +29709,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYLEAAC_SC"
         },
         {
-            name: "REAL 95.9",
+            name: "Real 95.9",
             logo: "stations/images-america/c2c/youngstown_oh/REAL 95.9.png",
             url: "https://stream.revma.ihrhls.com/zc2768/hls.m3u8"
         },
@@ -30651,7 +30651,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1985/hls.m3u8"
         },
         {
-            name: "REAL 99.3",
+            name: "Real 99.3",
             logo: "stations/images-america/c2c/harrisburg_pa/REAL 99.3.png",
             url: "https://stream.revma.ihrhls.com/zc1981/hls.m3u8"
         },
@@ -32422,8 +32422,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDODFMAAC_SC"
         },
         {
-            name: "REAL 96.1",
-            logo: "stations/images-america/c2c/chattanooga_tn/Real 96.1.png",
+            name: "Real 97.7",
+            logo: "stations/images-america/c2c/chattanooga_tn/REAL 97.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WUSYHD2AAC_SC"
         },
         {
