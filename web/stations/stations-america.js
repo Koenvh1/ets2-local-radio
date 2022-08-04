@@ -10156,9 +10156,9 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/sonoma-kfgyfmaac-ibc3?source=v7player"
         },
         {
-            name: "93.7 The Bull",
-            logo: "stations/images-america/santa_rosa_ca/93.7 The Bull.png",
-            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KBBLFM"
+            name: "Jazzy 93.7",
+            logo: "stations/images-america/santa_rosa_ca/Jazzy 93.7.png",
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKWllIRDI="
         },
         {
             name: "Latino 95.5",
@@ -10186,9 +10186,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXTSFMAAC_SC"
         },
         {
-            name: "Jazzy 99.1",
-            logo: "stations/images-america/santa_rosa_ca/Jazzy 99.1.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKWllIRDI="
+            name: "99.1 The Bull",
+            logo: "stations/images-america/santa_rosa_ca/99.1 The Bull.png",
+            url: "https://p.itoad.net/browse.php?u=https://ice10.securenetsystems.net/KBBLFM"
         },
         {
             name: "99.3 The Vine",
@@ -10246,8 +10246,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KZNB"
         },
         {
-            name: "K-Hits 107.9",
-            logo: "stations/images-america/santa_rosa_ca/K-Hits 107.9.png",
+            name: "Oldies 107.9",
+            logo: "stations/images-america/santa_rosa_ca/Oldies 107.9.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/sonoma-kdhtfmaac-ibc3?source=v7player"
         },
         {
@@ -25021,6 +25021,11 @@ var stations_c2c = {
             name: "Mix 96.5",
             logo: "stations/images-america/c2c/cape_girardeau_mo/Mix 96.5.png",
             url: "https://ice.wbcengineering.com:8107/stream"
+        },
+        {
+            name: "FOX Sports 97.3",
+            logo: "stations/images-america/c2c/cape_girardeau_mo/FOX Sports 97.3.png",
+            url: "https://ice.wbcengineering.com:8116/stream"
         },
         {
             name: "Freedom 97.9",
