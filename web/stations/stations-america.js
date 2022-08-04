@@ -4540,6 +4540,13 @@ var stations = {
             url: "http://www.ophanim.net:7920/stream"
         },
     ],
+    "jordan": [
+        {
+            name: "770 KATL",
+            logo: "stations/images-america/milescity/770 KATL.png",
+            url: "https://live.wostreaming.net/manifest/katl-katlamaac-ibc1"
+        },
+    ],
     "helena": [
         {
             name: "YPR 88.5",
