@@ -2718,53 +2718,6 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KEPNAMAAC_SC"
         },
     ],
-    "dillon": [
-        {
-            name: "YNOP 90.3",
-            logo: "stations/images-america/0_general_logos/YNOP.png",
-            url: "http://ice23.securenetsystems.net/YNOP"
-        },
-        {
-            name: "90.9 KDWG",
-            logo: "stations/images-america/dillon/90.9 KDWG.png",
-            url: "https://ice9.securenetsystems.net/KDWG"
-        },
-        {
-            name: "MTPR 91.7",
-            logo: "stations/images-america/0_general_logos/MTPR.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUFMFMAAC_SC"
-        },
-        {
-            name: "KOPR 94.1",
-            logo: "stations/images-america/butte/KOPR 94.1.png",
-            url: "http://butte.leanstream.co/KOPRFM"
-        },
-        {
-            name: "95.5 KMBR",
-            logo: "stations/images-america/butte/95.5 KMBR.png",
-            url: "https://live.wostreaming.net/direct/townsquare-kmbrfmaac-ibc3"
-        },
-        {
-            name: "98.3 KBEV",
-            logo: "stations/images-america/dillon/98.3 KBEV.png",
-            url: "https://ice9.securenetsystems.net/KBEVFM"
-        },
-        {
-            name: "The Eagle 104.7",
-            logo: "stations/images-america/bozeman/The Eagle 105.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKQXFMAAC_SC"
-        },
-        {
-            name: "KBYI 105.5",
-            logo: "stations/images-america/freedom/KBYA 89.9.png",
-            url: "https://radiostream.byui.edu/kbyi"
-        },
-        {
-            name: "KBOW 550",
-            logo: "stations/images-america/butte/KBOW 101.5.png",
-            url: "http://butte.leanstream.co/KBOWAM"
-        },
-    ],
     "durango": [
         {
             name: "KDUR 91.9",

@@ -513,7 +513,7 @@ var country_properties = {
         name: "Missoula",
         name_english: "Missoula",
         code: "us-mt",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "moab": {
         name: "Moab",
@@ -994,7 +994,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "bozeman": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "brawley": {
         relative_whitenoise: 0.85
@@ -1006,7 +1006,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "butte": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "carlsbad_nm": {
         relative_whitenoise: 0.85
@@ -1153,7 +1153,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kalispell": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "kayenta": {
         relative_whitenoise: 0.85
@@ -1227,7 +1227,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "missoula": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.75
     },
     "moab": {
         relative_whitenoise: 0.85
@@ -2011,7 +2011,7 @@ var cities = [
         "country": "butte",
         "x": "-64788.6",
         "y": "128.582",
-        "z": "-45335.3"
+        "z": "-44135.3"
     },
     {
         "gameName": "carlsbad_nm",
@@ -2665,7 +2665,7 @@ var cities = [
         "gameName": "salmon",
         "realName": "Salmon",
         "country": "salmon",
-        "x": "-70460.2",
+        "x": "-71060.2",
         "y": "109.973",
         "z": "-42379.9"
     },
@@ -7081,10 +7081,10 @@ var cities_c2c = [
     {
         "gameName": "dillon",
         "realName": "Dillon",
-        "country": "dillon",
-        "x": "-65659.8",
+        "country": "butte",
+        "x": "-65859.8",
         "y": "372.834",
-        "z": "-38932.8"
+        "z": "-39032.8"
     },
     {
         "gameName": "forsyth",
