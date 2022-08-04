@@ -93,7 +93,7 @@ var country_properties = {
         name: "Bozeman",
         name_english: "Bozeman",
         code: "us-mt",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "brawley": {
         name: "Brawley",
@@ -513,7 +513,7 @@ var country_properties = {
         name: "Missoula",
         name_english: "Missoula",
         code: "us-mt",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "moab": {
         name: "Moab",
@@ -2217,9 +2217,9 @@ var cities = [
         "gameName": "bozeman",
         "realName": "Bozeman",
         "country": "bozeman",
-        "x": "-59779.1",
+        "x": "-56979.1",
         "y": "124.777",
-        "z": "-42966.3"
+        "z": "-41966.3"
     },
     {
         "gameName": "burns",
@@ -2787,7 +2787,7 @@ var cities = [
         "country": "missoula",
         "x": "-69914.2",
         "y": "109",
-        "z": "-52575.5"
+        "z": "-51575.5"
     },
     {
         "gameName": "salida",
@@ -4507,6 +4507,12 @@ var country_properties_c2c = {
         code: "us-mt",
         relative_radius: 0.6
     },
+    "jordan": {
+        name: "Jordan",
+        name_english: "Jordan",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "laurel": {
         name: "Laurel",
         name_english: "Laurel",
@@ -4523,13 +4529,13 @@ var country_properties_c2c = {
         name: "Malta",
         name_english: "Malta",
         code: "us-mt",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "milescity": {
         name: "Miles City",
         name_english: "Miles City",
         code: "us-mt",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "shelby": {
         name: "Shelby",
@@ -4541,7 +4547,7 @@ var country_properties_c2c = {
         name: "Wolf Point",
         name_english: "Wolf Point",
         code: "us-mt",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "nebraska": {
         name: "nebraska",
@@ -5698,6 +5704,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "havre": {
+        relative_whitenoise: 0.85
+    },
+    "jordan": {
         relative_whitenoise: 0.85
     },
     "laurel": {
@@ -7075,7 +7084,7 @@ var cities_c2c = [
         "country": "dillon",
         "x": "-65659.8",
         "y": "372.834",
-        "z": "-40232.8"
+        "z": "-38932.8"
     },
     {
         "gameName": "forsyth",
@@ -7113,9 +7122,17 @@ var cities_c2c = [
         "gameName": "havre",
         "realName": "Havre",
         "country": "havre",
-        "x": "-51179.6",
+        "x": "-53179.6",
         "y": "84.9414",
         "z": "-57026.8"
+    },
+    {
+        "gameName": "jordan",
+        "realName": "Jordan",
+        "country": "jordan",
+        "x": "-41930.1",
+        "y": "76.3096",
+        "z": "-49571.2"
     },
     {
         "gameName": "laurel",
@@ -7137,7 +7154,7 @@ var cities_c2c = [
         "gameName": "malta",
         "realName": "Malta",
         "country": "malta",
-        "x": "-44372.8",
+        "x": "-46872.8",
         "y": "218.148",
         "z": "-55913.4"
     },
