@@ -761,6 +761,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "sandpoint": {
+        name: "Sandpoint",
+        name_english: "Sandpoint",
+        code: "us-id",
+        relative_radius: 0.8
+    },
     "santa_fe": {
         name: "Santa Fe",
         name_english: "Santa Fe",
@@ -892,6 +898,12 @@ var country_properties = {
         name_english: "Wenatchee",
         code: "us-wa",
         relative_radius: 0.6
+    },
+    "wallace": {
+        name: "Wallace",
+        name_english: "Wallace",
+        code: "us-id",
+        relative_radius: 0.7
     },
     "wheatland": {
         name: "Wheatland",
@@ -1376,6 +1388,10 @@ var city_properties = {
     "san_diego": {
         relative_whitenoise: 0.80
     },
+    "sandpoint": {
+        relative_radius: 0.6,
+        relative_whitenoise: 0.85
+    },
     "san_francisco": {
         relative_whitenoise: 0.85
     },
@@ -1431,6 +1447,10 @@ var city_properties = {
     },
     "victorville": {
 		relative_radius: 0.45,
+        relative_whitenoise: 0.85
+    },
+    "wallace": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "wenatchee": {
@@ -1900,6 +1920,22 @@ var cities = [
         "x": "-98862.2",
         "y": "90.8438",
         "z": "24029.7"
+    },
+    {
+        "gameName": "sandpoint",
+        "realName": "Sandpoint",
+        "country": "sandpoint",
+        "x": "-76528.2",
+        "y": "36.0636",
+        "z": "-63044.7"
+    },
+    {
+        "gameName": "sandpoint",
+        "realName": "Sandpoint",
+        "country": "spokane",
+        "x": "-76528.2",
+        "y": "36.0636",
+        "z": "-63044.7"
     },
     {
         "gameName": "san_francisco",
@@ -2444,6 +2480,22 @@ var cities = [
         "x": "-81652.4",
         "y": "64.3417",
         "z": "-58561.8"
+    },
+    {
+        "gameName": "wallace",
+        "realName": "Wallace",
+        "country": "spokane",
+        "x": "-76900.3",
+        "y": "85.5161",
+        "z": "-55897.9"
+    },
+    {
+        "gameName": "wallace",
+        "realName": "Wallace",
+        "country": "missoula",
+        "x": "-73500.3",
+        "y": "85.5161",
+        "z": "-53897.9"
     },
     {
         "gameName": "wenatchee",
@@ -4541,7 +4593,7 @@ var country_properties_c2c = {
         name: "Shelby",
         name_english: "Shelby",
         code: "us-mt",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "wolfpoint": {
         name: "Wolf Point",
@@ -7172,7 +7224,7 @@ var cities_c2c = [
         "country": "shelby",
         "x": "-59648.5",
         "y": "114.752",
-        "z": "-60213.5"
+        "z": "-61213.5"
     },
     {
         "gameName": "wolfpoint",

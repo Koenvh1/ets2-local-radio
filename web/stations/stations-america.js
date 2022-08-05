@@ -10535,6 +10535,43 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc249/hls.m3u8"
         },
     ],
+    "sandpoint": [
+        {
+            name: "KRFY 88.5",
+            logo: "stations/images-america/sandpoint/KRFY 88.5.png",
+            url: "http://199.231.117.18:8004/listen"
+        },
+        {
+            name: "KYMS 89.9",
+            logo: "stations/images-america/sandpoint/KYMS 89.9.png",
+            url: "https://playoutonestreaming.com/proxy/kyms/?mp=/stream"
+        },
+        {
+            name: "K102 Country",
+            logo: "stations/images-america/sandpoint/K102 Country.png",
+            url: "https://live.wostreaming.net/manifest/blueskybroadcasting-kicrfmaac-ibc1"
+        },
+        {
+            name: "ROCK 103",
+            logo: "stations/images-america/sandpoint/ROCK 103.png",
+            url: "https://live.wostreaming.net/manifest/blueskybroadcasting-ktpohdaac-ibc1"
+        },
+        {
+            name: "105.3 The Beach",
+            logo: "stations/images-america/sandpoint/105.3 The Beach.png",
+            url: "https://live.wostreaming.net/manifest/blueskybroadcasting-ktpohd3aac-ibc1"
+        },
+        {
+            name: "KTPO 106.7",
+            logo: "stations/images-america/spokane/KPND 95.3 FM.png",
+            url: "https://live.wostreaming.net/direct/blueskybroadcasting-kpndfmaac-ibc1"
+        },
+        {
+            name: "1400 KSPT",
+            logo: "stations/images-america/sandpoint/1400 KSPT.png",
+            url: "https://live.wostreaming.net/manifest/blueskybroadcasting-ksptamaac-ibc1"
+        },
+    ],
     "san_francisco": [
         {
             name: "KQED 88.5",
