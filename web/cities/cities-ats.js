@@ -5163,7 +5163,7 @@ var country_properties_c2c = {
         name: "dalhart_tx",
         name_english: "dalhart_tx",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "fort_stockton": {
         name: "fort_stockton",
@@ -6031,6 +6031,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "dalhart_tx": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "fort_stockton": {
@@ -7910,6 +7911,14 @@ var cities_c2c = [
         "gameName": "dalhart_tx",
         "realName": "Dalhart",
         "country": "dalhart_tx",
+        "x": "-29602.4",
+        "y": "137.168",
+        "z": "15561.6"
+    },
+    {
+        "gameName": "dalhart_tx",
+        "realName": "Dalhart",
+        "country": "amarillo",
         "x": "-29602.4",
         "y": "137.168",
         "z": "15561.6"
