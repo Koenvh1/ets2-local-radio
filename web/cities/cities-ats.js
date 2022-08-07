@@ -117,7 +117,7 @@ var country_properties = {
         name: "Butte",
         name_english: "Butte",
         code: "us-mt",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
@@ -513,7 +513,7 @@ var country_properties = {
         name: "Missoula",
         name_english: "Missoula",
         code: "us-mt",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "moab": {
         name: "Moab",
@@ -1006,7 +1006,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "bozeman": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.9
     },
     "brawley": {
         relative_whitenoise: 0.85
@@ -1018,7 +1018,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "butte": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.9
     },
     "carlsbad_nm": {
         relative_whitenoise: 0.85
@@ -1139,7 +1139,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "helena": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.9
     },
     "hillcrest": {
         relative_radius: 0.6,
@@ -1239,7 +1239,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "missoula": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.95
     },
     "moab": {
         relative_whitenoise: 0.85
@@ -2045,9 +2045,9 @@ var cities = [
         "gameName": "butte",
         "realName": "Butte",
         "country": "butte",
-        "x": "-64788.6",
+        "x": "-65388.6",
         "y": "128.582",
-        "z": "-44135.3"
+        "z": "-44535.3"
     },
     {
         "gameName": "carlsbad_nm",
@@ -2253,7 +2253,7 @@ var cities = [
         "gameName": "bozeman",
         "realName": "Bozeman",
         "country": "bozeman",
-        "x": "-56979.1",
+        "x": "-57979.1",
         "y": "124.777",
         "z": "-41966.3"
     },
