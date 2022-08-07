@@ -3262,8 +3262,23 @@ var stations = {
         },
         {
             name: "EldoRadio",
-            logo: "stations/images-europe/luxembourg/EldoRadio.jpg",
+            logo: "stations/images-europe/luxembourg/EldoRadio.png",
             url: "https://eldo-streaming.eldo.lu/eldotv/smil:eldotv.smil/1080p.m3u8"
+        },
+        {
+            name: "L'essentiel Radio",
+            logo: "stations/images-europe/luxembourg/L'essentiel Radio.png",
+            url: "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+        },
+        {
+            name: "Radio ARA",
+            logo: "stations/images-europe/luxembourg/Radio ARA.png",
+            url: "https://s1.voscast.com:11187/RadioARA.mp3"
+        },
+        {
+            name: "Radio Latina",
+            logo: "stations/images-europe/luxembourg/Radio Latina.png",
+            url: "https://ice.creacast.com/radio-latina-lu-mp3"
         },
     ],
     "macedonia": [/*
@@ -3496,7 +3511,7 @@ var stations = {
         {
             name: "Groot Nieuws Radio",
             logo: "stations/images-europe/netherlands/Groot Nieuws Radio.png",
-            url: "http://grootnieuwsradio.streampartner.nl:8000/live"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC_SC"
         },
         {
             name: "KINK",
@@ -5631,12 +5646,12 @@ var stations = {
             name: "Радио Пятница",
             logo: "stations/images-europe/ukraine/Радио Пятница.png",
             url: "https://cast.radiogroup.com.ua/radiopyatnica320"
-        },/*
+        },
         {
-            name: "Русское Радио Україна",
-            logo: "stations/images-europe/ukraine/Русское Радио Україна.png",
-            url: "https://online.rusradio.ua/RusRadio_HD"
-        },*/
+            name: "Радіо БАЙРАКТАР",
+            logo: "stations/images-europe/ukraine/Радіо БАЙРАКТАР.png",
+            url: "https://online.radiobayraktar.com.ua/RadioBayraktar_HD"
+        },
     ],
     "wales": [
         {

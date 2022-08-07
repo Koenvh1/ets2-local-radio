@@ -11143,6 +11143,11 @@ var stations = {
             url: "http://kxparadio.serverroom.us:5852/;"
         },
         {
+            name: "Relevant Radio 1590",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
             name: "1620 KYIZ",
             logo: "stations/images-america/seattle/1620 KYIZ.png",
             url: "http://64.78.234.173:8578/;"
