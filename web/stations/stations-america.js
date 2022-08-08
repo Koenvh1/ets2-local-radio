@@ -3403,33 +3403,6 @@ var stations = {
             url: "http://stream.affordablestreaming.com:8000/KQNA.mp3"
         },
     ],
-    "forsyth": [
-        {
-            name: "YPR 91.1",
-            logo: "stations/images-america/0_general_logos/YPR_summer.png",
-            url: "http://ypr-sc.streamguys.net/live"
-        },
-        {
-            name: "KYUS 92.3",
-            logo: "stations/images-america/milescity/KYUS 92.3.png",
-            url: "http://ice6.securenetsystems.net/KYUS"
-        },
-        {
-            name: "KICK 94.5",
-            logo: "stations/images-america/forsyth/KICK 94.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-wliqamaac-ibc3"
-        },
-        {
-            name: "KIK Country 101.3",
-            logo: "stations/images-america/milescity/KIK Country 101.3.png",
-            url: "https://ice5.securenetsystems.net/KICKFM"
-        },
-        {
-            name: "770 KATL",
-            logo: "stations/images-america/milescity/770 KATL.png",
-            url: "https://live.wostreaming.net/manifest/katl-katlamaac-ibc1"
-        },
-    ],
     "fort_collins": [
         {
             name: "CPR Classical 88.3",
@@ -6883,6 +6856,11 @@ var stations = {
             name: "KYUS 92.3",
             logo: "stations/images-america/milescity/KYUS 92.3.png",
             url: "http://ice6.securenetsystems.net/KYUS"
+        },
+        {
+            name: "KICK 94.5",
+            logo: "stations/images-america/milescity/KICK 94.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-wliqamaac-ibc3"
         },
         {
             name: "Good Time Oldies 95.3",

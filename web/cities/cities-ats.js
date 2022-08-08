@@ -4533,7 +4533,7 @@ var country_properties_c2c = {
         name: "Forsyth",
         name_english: "Forsyth",
         code: "us-mt",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "glasgow": {
         name: "Glasgow",
@@ -5744,6 +5744,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "forsyth": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "glasgow": {
@@ -7142,7 +7143,7 @@ var cities_c2c = [
     {
         "gameName": "forsyth",
         "realName": "Forsyth",
-        "country": "forsyth",
+        "country": "milescity",
         "x": "-42303.6",
         "y": "303.387",
         "z": "-44059.5"
