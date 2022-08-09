@@ -4599,7 +4599,7 @@ var country_properties_c2c = {
         name: "Wolf Point",
         name_english: "Wolf Point",
         code: "us-mt",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "nebraska": {
         name: "nebraska",
@@ -5779,6 +5779,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "wolfpoint": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "grand_island": {
@@ -7231,7 +7232,7 @@ var cities_c2c = [
     {
         "gameName": "wolfpoint",
         "realName": "Wolf Point",
-        "country": "wolfpoint",
+        "country": "glasgow",
         "x": "-36778.1",
         "y": "266.906",
         "z": "-53491"

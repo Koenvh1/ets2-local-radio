@@ -4176,6 +4176,11 @@ var stations = {
             url: "https://ice6.securenetsystems.net/MIX93"
         },
         {
+            name: "KCGM 95.7",
+            logo: "stations/images-america/glasgow/KCGM 95.7.png",
+            url: "https://ice10.securenetsystems.net/KCGM957"
+        },
+        {
             name: "KLTZ 102.5",
             logo: "stations/images-america/glasgow/KLTZ 102.5.png",
             url: "https://ice6.securenetsystems.net/KLTZ"
@@ -4192,7 +4197,7 @@ var stations = {
         },
         {
             name: "800 CHAB",
-            logo: "stations/images-america/wolfpoint/800 CHAB.png",
+            logo: "stations/images-america/glasgow/800 CHAB.png",
             url: "https://goldenwest.leanstream.co/CHABAM"
         },
         {
@@ -9688,8 +9693,8 @@ var stations = {
             url: "http://stream.xmission.com/krcl-high"
         },
         {
-            name: "U92",
-            logo: "stations/images-america/salt_lake/U92.png",
+            name: "92.5 The Beat",
+            logo: "stations/images-america/salt_lake/92.5 The Beat.png",
             url: "https://kuuu.streamon.fm/stream/KUUU-48k.aac"
         },
         {
@@ -12558,23 +12563,6 @@ var stations = {
             name: "Mix 102.7",
             logo: "stations/images-america/winnemucca/Mix 102.7.png",
             url: "https://s20.myradiostream.com/16732/;"
-        },
-    ],
-    "wolfpoint": [
-        {
-            name: "YPR 88.3",
-            logo: "stations/images-america/0_general_logos/YPR_summer.png",
-            url: "http://ypr-sc.streamguys.net/live"
-        },
-        {
-            name: "KCGM 95.7",
-            logo: "stations/images-america/wolfpoint/KCGM 95.7.png",
-            url: "https://ice10.securenetsystems.net/KCGM957"
-        },
-        {
-            name: "800 CHAB",
-            logo: "stations/images-america/wolfpoint/800 CHAB.png",
-            url: "https://goldenwest.leanstream.co/CHABAM"
         },
     ],
     "yakima": [
@@ -31485,8 +31473,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPROAMAAC_SC"
         },
         {
-            name: "AM 790",
-            logo: "stations/images-america/c2c/providence_ri/AM 790.png",
+            name: "790 The Score",
+            logo: "stations/images-america/c2c/providence_ri/790 The Score.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPRVAMAAC_SC"
         },
         {
