@@ -28851,6 +28851,26 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD3AAC_SC"
         },
         {
+            name: "Air1 90.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "YNOP 90.7",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "K-LOVE 91.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Eagle 93",
+            logo: "stations/images-america/c2c/williston_nd/Eagle 93.png",
+            url: "https://ice6.securenetsystems.net/KGCX"
+        },
+        {
             name: "Power 95",
             logo: "stations/images-america/c2c/williston_nd/Power 95.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kthcfmaac-ibc3"
@@ -28871,9 +28891,59 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/KDSRFM"
         },
         {
+            name: "Real Presence Radio 104.1",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
+        },
+        {
+            name: "KFYR 550",
+            logo: "stations/images-america/c2c/bismarck_nd/KFYR.png",
+            url: "https://stream.revma.ihrhls.com/zc1661/hls.m3u8"
+        },
+        {
+            name: "620 CKRM",
+            logo: "stations/images-america/canada/regina/620 CKRM.png",
+            url: "https://ais-sa1.streamon.fm/7267_64k.aac"
+        },
+        {
             name: "660 News Radio",
             logo: "stations/images-america/c2c/williston_nd/660 News Radio.png",
             url: "https://live.wostreaming.net/direct/townsquare-keyzamaac-ibc3"
+        },
+        {
+            name: "730 CKDM",
+            logo: "stations/images-america/c2c/williston_nd/730 CKDM.png",
+            url: "http://ckdm.smartstreamingsolutions.ca:7052/stream"
+        },
+        {
+            name: "800 CHAB",
+            logo: "stations/images-america/glasgow/800 CHAB.png",
+            url: "https://goldenwest.leanstream.co/CHABAM"
+        },
+        {
+            name: "91 KCJB",
+            logo: "stations/images-america/c2c/williston_nd/91 KCJB.png",
+            url: "https://stream.revma.ihrhls.com/zc5076/hls.m3u8"
+        },
+        {
+            name: "GX94",
+            logo: "stations/images-america/c2c/williston_nd/GX94.png",
+            url: "https://ais-sa1.streamon.fm/7259_64k.aac"
+        },
+        {
+            name: "980 CJME",
+            logo: "stations/images-america/canada/regina/980 CJME.png",
+            url: "http://rawlco.leanstream.co/CJMEAM"
+        },
+        {
+            name: "1090 The Flag",
+            logo: "stations/images-america/c2c/williston_nd/1090 The Flag.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTGOAMAAC_SC"
+        },
+        {
+            name: "AM 1190",
+            logo: "stations/images-america/glasgow/AM 1190.png",
+            url: "https://goldenwest.leanstream.co/CFSLAM"
         },
     ],
     "canton_oh": [
