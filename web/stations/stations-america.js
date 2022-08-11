@@ -28906,8 +28906,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7267_64k.aac"
         },
         {
-            name: "660 News Radio",
-            logo: "stations/images-america/c2c/williston_nd/660 News Radio.png",
+            name: "KEYZ 660",
+            logo: "stations/images-america/c2c/williston_nd/KEYZ 660.png",
             url: "https://live.wostreaming.net/direct/townsquare-keyzamaac-ibc3"
         },
         {

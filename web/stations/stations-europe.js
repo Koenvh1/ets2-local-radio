@@ -3429,7 +3429,7 @@ var stations = {
         {
             name: "Radio Noroc",
             logo: "stations/images-europe/moldova/Radio Noroc.png",
-            url: "https://s5.radio.co/sfff7b7e97/listen"
+            url: "https://storage.voceabasarabiei.md:8001/radionoroc.mp3"
         },
         {
             name: "Radio Plai",
