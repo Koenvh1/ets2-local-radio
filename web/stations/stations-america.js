@@ -1082,7 +1082,7 @@ var stations = {
         {
             name: "HOT 101.9",
             logo: "stations/images-america/billings/Hot 101.9.png",
-            url: "http://benedettimedia.com:8000/KRSQFMM"
+            url: "https://securestream.casthost.net:8269/stream"
         },
         {
             name: "Cat Country 102.9",
@@ -5288,17 +5288,17 @@ var stations = {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
+        },/*
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdmbWFhYy1pYmMz"
-        },
+        },*/
         {
             name: "95.5 Jack FM",
             logo: "stations/images-america/kingman/95.5 Jack FM.png",
             url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
-        },
+        },/*
         {
             name: "KAAA 97.5",
             logo: "stations/images-america/kingman/KAAA 97.5.png",
@@ -5308,17 +5308,17 @@ var stations = {
             name: "Lucky 98 FM",
             logo: "stations/images-america/kingman/Lucky 98 FM.png",
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtsdWtmbWFhYy1pYmMz"
-        },
+        },*/
         {
             name: "KGPS 98.7",
             logo: "stations/images-america/kingman/KGPS 98.7.png",
             url: "http://live.str3am.com:2330/live"
-        },
+        },/*
         {
             name: "K-STAR 99.3",
             logo: "stations/images-america/kingman/K-STAR 99.3.png",
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtmbGdhbWFhYy1pYmMz"
-        },
+        },*/
         {
             name: "Air1 101.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
@@ -5343,12 +5343,12 @@ var stations = {
             name: "KNTR 106.3",
             logo: "stations/images-america/kingman/KNTR 106.3.png",
             url: "https://ic2.sslstream.com/kntr-fm"
-        },
+        },/*
         {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
             url: "http://h4ck0r.com/index.php?q=aHR0cHM6Ly9saXZlLndvc3RyZWFtaW5nLm5ldC9tYW5pZmVzdC9jYW1lcm9uLWtua2tmbWFhYy1obHNjMy5tM3U4"
-        },
+        },*/
         {
             name: "KDWN 720",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
