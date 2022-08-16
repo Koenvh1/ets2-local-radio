@@ -1050,11 +1050,6 @@ var stations = {
             url: "https://desertmountainbroadcasting.streamguys1.com/KRKX"
         },
         {
-            name: "KBUL 95.5",
-            logo: "stations/images-america/billings/KBUL 95.5.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kbulamaac-ibc3"
-        },
-        {
             name: "The Zone 96.3",
             logo: "stations/images-america/billings/The Zone 96.3.png",
             url: "https://desertmountainbroadcasting.streamguys1.com/KRZN"
@@ -1088,6 +1083,11 @@ var stations = {
             name: "Cat Country 102.9",
             logo: "stations/images-america/billings/Cat Country 102.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kctrfmaac-ibc3"
+        },
+        {
+            name: "KBUL 103.3",
+            logo: "stations/images-america/billings/KBUL 103.3.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kbulamaac-ibc3"
         },
         {
             name: "103.7 The Hawk",
@@ -17106,8 +17106,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHBXFMAAC_SC"
         },
         {
-            name: "Throwback 96.5",
-            logo: "stations/images-america/c2c/tallahassee_fl/Throwback 96.5.png",
+            name: "96.5 The Spear",
+            logo: "stations/images-america/c2c/tallahassee_fl/96.5 The Spear.png",
             url: "https://stream.revma.ihrhls.com/zc653/hls.m3u8"
         },
         {
@@ -33471,8 +33471,8 @@ var stations_c2c = {
             url: "http://worship247.streamguys1.com/live-aac-web"
         },
         {
-            name: "WE 102.9",
-            logo: "stations/images-america/c2c/amarillo_tx/WE 102.9.png",
+            name: "Panhandle Sports Star 102.9",
+            logo: "stations/images-america/c2c/amarillo_tx/Panhandle Sports Star 102.9.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kvwefmaac-ibc4"
         },
         {

@@ -93,7 +93,7 @@ var country_properties = {
         name: "Bozeman",
         name_english: "Bozeman",
         code: "us-mt",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "brawley": {
         name: "Brawley",
@@ -1006,7 +1006,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "bozeman": {
-        relative_whitenoise: 0.9
+        relative_whitenoise: 0.95
     },
     "brawley": {
         relative_whitenoise: 0.85
@@ -1139,7 +1139,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "helena": {
-        relative_whitenoise: 0.9
+        relative_whitenoise: 0.95
     },
     "hillcrest": {
         relative_radius: 0.6,
@@ -2823,7 +2823,7 @@ var cities = [
         "country": "helena",
         "x": "-61403.9",
         "y": "122.141",
-        "z": "-49028.7"
+        "z": "-49728.7"
     },
     {
         "gameName": "lamar",
@@ -5744,7 +5744,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "forsyth": {
-		relative_radius: 0.5,
+		relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "glasgow": {
