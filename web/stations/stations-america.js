@@ -337,6 +337,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
         },
         {
+            name: "Pirate Radio 96.7",
+            logo: "stations/images-america/albuquerque/Pirate Radio 96.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice5.securenetsystems.net/KSFE"
+        },
+        {
             name: "KISS 97.3",
             logo: "stations/images-america/albuquerque/KISS 97.3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/agmedia28-kkssfmaac-ibc3"
@@ -465,6 +470,11 @@ var stations = {
             name: "FOX Sports 1350",
             logo: "stations/images-america/albuquerque/FOX Sports 1350.png",
             url: "https://stream.revma.ihrhls.com/zc1401/hls.m3u8"
+        },
+        {
+            name: "TUDN Radio 1450",
+            logo: "stations/images-america/albuquerque/TUDN Radio 1450.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
     ],
     "astoria": [
@@ -34448,7 +34458,7 @@ var stations_c2c = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/c2c/houston_tx/TUDN Radio 93.3.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
             name: "93.7 The Beat",
