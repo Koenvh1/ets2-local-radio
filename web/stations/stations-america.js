@@ -19445,11 +19445,6 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WTTSHD2"
         },
         {
-            name: "HOT 96.3",
-            logo: "stations/images-america/c2c/indianapolis_in/HOT 96.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHHFMAAC_SC"
-        },
-        {
             name: "97.1 HANK FM",
             logo: "stations/images-america/c2c/indianapolis_in/97.1 HANK FM.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLHKFMAAC_SC"
@@ -19475,9 +19470,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZPLFMAAC_SC"
         },
         {
-            name: "RadioNOW 100.9",
-            logo: "stations/images-america/c2c/indianapolis_in/RadioNOW 100.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNOWFMAAC_SC"
+            name: "HOT 100.9",
+            logo: "stations/images-america/c2c/indianapolis_in/HOT 100.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHHFMAAC_SC"
         },
         {
             name: "alt 103.3",
