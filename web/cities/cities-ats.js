@@ -119,6 +119,18 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.7
     },
+    "butte_north": {
+        name: "Butte",
+        name_english: "Butte",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
+    "butte_east": {
+        name: "Butte",
+        name_english: "Butte",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
         name_english: "Carlsbad (NM)",
@@ -1019,6 +1031,14 @@ var city_properties = {
     },
     "butte": {
         relative_whitenoise: 0.9
+    },
+    "butte_north": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
+    "butte_east": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
     },
     "carlsbad_nm": {
         relative_whitenoise: 0.85
@@ -2048,6 +2068,38 @@ var cities = [
         "x": "-65388.6",
         "y": "128.582",
         "z": "-44535.3"
+    },
+    {
+        "gameName": "butte_north",
+        "realName": "Butte",
+        "country": "butte",
+        "x": "-63813.1",
+        "y": "155.58",
+        "z": "-46794"
+    },
+    {
+        "gameName": "butte_north",
+        "realName": "Butte",
+        "country": "helena",
+        "x": "-63813.1",
+        "y": "155.58",
+        "z": "-46794"
+    },
+    {
+        "gameName": "butte_east",
+        "realName": "Butte",
+        "country": "butte",
+        "x": "-62900.5",
+        "y": "175.298",
+        "z": "-43777.3"
+    },
+    {
+        "gameName": "butte_east",
+        "realName": "Butte",
+        "country": "bozeman",
+        "x": "-62900.5",
+        "y": "175.298",
+        "z": "-43777.3"
     },
     {
         "gameName": "carlsbad_nm",
