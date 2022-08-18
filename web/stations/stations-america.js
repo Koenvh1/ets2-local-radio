@@ -1614,6 +1614,21 @@ var stations = {
             url: "http://72.175.136.125:9999/stream"
         },
         {
+            name: "My 103.5",
+            logo: "stations/images-america/bozeman/My 103.5.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kzmyfmaac-ibc3"
+        },
+        {
+            name: "105.3 KMTX",
+            logo: "stations/images-america/helena/105.3 KMTX.png",
+            url: "https://live.wostreaming.net/direct/montanaradioco-kmtxfmaac-imc4"
+        },
+        {
+            name: "The Mighty Mo 107",
+            logo: "stations/images-america/helena/The Mighty Mo 107.png",
+            url: "https://live.wostreaming.net/direct/montanaradioco-kimofmaac-imc4"
+        },
+        {
             name: "107.7 Dave FM",
             logo: "stations/images-america/butte/107.7 Dave FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmtzfmaac-ibc3"
