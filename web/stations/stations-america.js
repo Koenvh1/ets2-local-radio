@@ -6266,8 +6266,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/22WESTFMAAC_SC"
         },
         {
-            name: "88.5 FM",
-            logo: "stations/images-america/los_angeles/88.5 FM.png",
+            name: "88.5 The SoCal Sound",
+            logo: "stations/images-america/los_angeles/88.5 The SoCal Sound.png",
             url: "http://130.166.82.184:8000/;stream.mp3"
         },
         {
