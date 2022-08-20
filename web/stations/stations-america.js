@@ -6997,7 +6997,7 @@ var stations = {
         {
             name: "105.5 KFGM",
             logo: "stations/images-america/missoula/105.5 KFGM.png",
-            url: "http://vps115848.vps.ovh.ca:8000/stream"
+            url: "https://s4.radio.co/s136b8d11e/listen"
         },
         {
             name: "NOW 106.7",
@@ -7208,7 +7208,7 @@ var stations = {
         {
             name: "KZSC 88.1",
             logo: "stations/images-america/monterey/KZSC 88.1.png",
-            url: "http://188.165.192.5:8242/kzschigh"
+            url: "https://kzscfms1-geckohost.radioca.st/kzschigh"
         },
         {
             name: "K-LOVE 88.9",
@@ -8082,11 +8082,6 @@ var stations = {
             name: "PRAISE 106.5",
             logo: "stations/images-america/bellingham/PRAISE 106.5.png",
             url: "https://crista-kwpz.streamguys1.com/kwpzmp3"
-        },
-        {
-            name: "SkyCountry Radio 106.5-HD2",
-            logo: "stations/images-america/bellingham/SkyCountry Radio 106.5-HD2.png",
-            url: "https://crista-skycountry.streamguys1.com/skycountrymp3"
         },
         {
             name: "107.3 Virgin Radio",
@@ -9493,6 +9488,11 @@ var stations = {
             name: "AM 1380 The Answer",
             logo: "stations/images-america/sacramento/AM 1380 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTKZAMAAC_SC"
+        },
+        {
+            name: "KJAY 1430",
+            logo: "stations/images-america/sacramento/KJAY 1430.png",
+            url: "https://crystalout.surfernetwork.com:8001/KJAY-AM_MP3"
         },
     ],
     "salida": [
@@ -39324,6 +39324,11 @@ var stations_canada = {
             url: "http://ice23.securenetsystems.net/CJWL"
         },
         {
+            name: "CHRI 99.1",
+            logo: "stations/images-america/canada/CHRI.png",
+            url: "https://s8.yesstreaming.net:17186/stream"
+        },
+        {
             name: "boom 99.7",
             logo: "stations/images-america/canada/ottawa/boom 99.7.png",
             url: "https://live.leanstream.co/CJOTFM"
@@ -39498,6 +39503,43 @@ var stations_canada = {
             name: "CBC Music 105.3",
             logo: "stations/images-america/canada/CBC Music.png",
             url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+        },
+    ],
+    "pembroke": [
+        {
+            name: "ICI Première 88.7",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/playlist.m3u8"
+        },
+        {
+            name: "CBC Radio One 92.5",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+        },
+        {
+            name: "Pure Country 96.7",
+            logo: "stations/images-america/canada/pembroke/Pure Country 96.7.png",
+            url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHVRFMAAC_SC"
+        },
+        {
+            name: "Valley Heritage Radio 98.7",
+            logo: "stations/images-america/canada/pembroke/Valley Heritage Radio 98.7.png",
+            url: "https://201.netromedia.com/valleyheritage/valleyheritage/playlist.m3u8"
+        },
+        {
+            name: "CKQB-FM-1 99.9",
+            logo: "stations/images-america/canada/ottawa/jump! 106.9.png",
+            url: "https://corus.leanstream.co/CKQBFM"
+        },
+        {
+            name: "CHRI 100.7",
+            logo: "stations/images-america/canada/CHRI.png",
+            url: "https://s8.yesstreaming.net:17186/stream"
+        },
+        {
+            name: "myFM 104.9",
+            logo: "stations/images-america/canada/pembroke/myFM 104.9.png",
+            url: "https://ice23.securenetsystems.net/CIMY"
         },
     ],
     "princegeorge": [
