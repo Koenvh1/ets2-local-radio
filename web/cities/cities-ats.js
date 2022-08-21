@@ -59,6 +59,18 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "barstow_east": {
+        name: "Barstow",
+        name_english: "Barstow",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
+    "barstow_west": {
+        name: "Barstow",
+        name_english: "Barstow",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
     "bellingham": {
         name: "Bellingham",
         name_english: "Bellingham",
@@ -1003,6 +1015,14 @@ var city_properties = {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
+    "barstow_east": {
+        relative_radius: 0.3,
+        relative_whitenoise: 0.85
+    },
+    "barstow_west": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.85
+    },
     "bellingham": {
         relative_whitenoise: 0.85
     },
@@ -1541,6 +1561,30 @@ var cities = [
         "x": "-95069.8",
         "y": "121.652",
         "z": "12704.5"
+    },
+    {
+        "gameName": "barstow_east",
+        "realName": "Barstow",
+        "country": "barstow",
+        "x": "-92359",
+        "y": "20.9942",
+        "z": "11976.2"
+    },
+    {
+        "gameName": "barstow_west",
+        "realName": "Barstow",
+        "country": "barstow",
+        "x": "-98124.8",
+        "y": "37.3969",
+        "z": "12579.6"
+    },
+    {
+        "gameName": "barstow_west",
+        "realName": "Barstow",
+        "country": "victorville",
+        "x": "-98124.8",
+        "y": "37.3969",
+        "z": "12579.6"
     },
     {
         "gameName": "big_piney",
