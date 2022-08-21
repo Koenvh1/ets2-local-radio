@@ -57,7 +57,7 @@ var country_properties = {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "bellingham": {
         name: "Bellingham",
@@ -1000,7 +1000,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "barstow": {
-        relative_whitenoise: 0.65
+        relative_radius: 0.5,
+        relative_whitenoise: 0.85
     },
     "bellingham": {
         relative_whitenoise: 0.85
@@ -1529,6 +1530,14 @@ var cities = [
         "gameName": "barstow",
         "realName": "Barstow",
         "country": "barstow",
+        "x": "-95069.8",
+        "y": "121.652",
+        "z": "12704.5"
+    },
+    {
+        "gameName": "barstow",
+        "realName": "Barstow",
+        "country": "victorville",
         "x": "-95069.8",
         "y": "121.652",
         "z": "12704.5"

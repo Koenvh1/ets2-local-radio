@@ -771,11 +771,6 @@ var stations = {
             logo: "stations/images-america/barstow/The Highway Country 107.3.png",
             url: "https://streaming.live365.com/a58353"
         },
-        {
-            name: "FOX Sports 610",
-            logo: "stations/images-america/barstow/Fox Sports 610.png",
-            url: "https://ice8.securenetsystems.net/KAVL"
-        },
     ],
     "bellingham": [
         {
@@ -852,11 +847,6 @@ var stations = {
             name: "PRAISE 106.5",
             logo: "stations/images-america/bellingham/PRAISE 106.5.png",
             url: "https://crista-kwpz.streamguys1.com/kwpzmp3"
-        },
-        {
-            name: "SkyCountry Radio 106.5-HD2",
-            logo: "stations/images-america/bellingham/SkyCountry Radio 106.5-HD2.png",
-            url: "https://crista-skycountry.streamguys1.com/skycountrymp3"
         },
         {
             name: "KARI 550",
@@ -1611,7 +1601,7 @@ var stations = {
         {
             name: "KBMF 102.5",
             logo: "stations/images-america/butte/KBMF 102.5.png",
-            url: "http://72.175.136.125:9999/stream"
+            url: "http://local.kbmf.fm:9999/stream"
         },
         {
             name: "107.7 Dave FM",
@@ -5509,11 +5499,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
         },
         {
-            name: "FOX Sports 610",
-            logo: "stations/images-america/barstow/Fox Sports 610.png",
-            url: "https://ice8.securenetsystems.net/KAVL"
-        },
-        {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
             url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
@@ -6960,9 +6945,9 @@ var stations = {
             url: "http://www.ophanim.net:7530/stream"
         },
         {
-            name: "Max 98.7",
-            logo: "stations/images-america/missoula/Max 98.7.png",
-            url: "https://live.wostreaming.net/direct/townsquare-khkmfmaac-ibc3"
+            name: "Today's Christian Country 98.7",
+            logo: "stations/images-america/missoula/Today's Christian Country 98.7.png",
+            url: "https://playoutonestreaming.com/proxy/khkm?mp=/stream"
         },
         {
             name: "99.7 KMPT",
@@ -6998,11 +6983,6 @@ var stations = {
             name: "105.5 KFGM",
             logo: "stations/images-america/missoula/105.5 KFGM.png",
             url: "https://s4.radio.co/s136b8d11e/listen"
-        },
-        {
-            name: "NOW 106.7",
-            logo: "stations/images-america/missoula/NOW 106.7.png",
-            url: "https://live.wostreaming.net/direct/townsquare-kxdrfmaac-ibc3"
         },
     ],
     "moab": [
@@ -8938,11 +8918,6 @@ var stations = {
             name: "KUZZ 550",
             logo: "stations/images-america/bakersfield/KUZZ 107.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC"
-        },
-        {
-            name: "FOX Sports 610",
-            logo: "stations/images-america/barstow/Fox Sports 610.png",
-            url: "https://ice8.securenetsystems.net/KAVL"
         },
     ],
     "riverside": [
@@ -14775,7 +14750,7 @@ var stations_c2c = {
         {
             name: "KXUA 88.3",
             logo: "stations/images-america/c2c/fayetteville_ar/KXUA 88.3.png",
-            url: "http://kxua.uark.edu:8830/;"
+            url: "http://kxuasrv.uark.edu:8830/;"
         },
         {
             name: "KUAF 91.3",
@@ -15661,7 +15636,7 @@ var stations_c2c = {
         {
             name: "Way FM 88.3",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "WFSU 89.1",
@@ -18913,7 +18888,7 @@ var stations_c2c = {
         {
             name: "La Ley 107.9",
             logo: "stations/images-america/c2c/chicago_il/La Ley 107.9.png",
-            url: "https://live.wostreaming.net/manifest/sbsystems-wleyfmaac-ib-64"
+            url: "https://liveaudio.lamusica.com/CHI_WLEY_icy"
         },
         {
             name: "AM 560 The Answer",
@@ -19300,7 +19275,7 @@ var stations_c2c = {
         {
             name: "Way FM 91.5",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "WBKR 92.5",
@@ -20746,7 +20721,7 @@ var stations_c2c = {
         {
             name: "Way FM 90.7",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "ESPN Wichita 92.3",
@@ -20843,7 +20818,7 @@ var stations_c2c = {
         {
             name: "Way FM 88.1",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "WKU 88.9",
@@ -31587,7 +31562,7 @@ var stations_c2c = {
         {
             name: "Way FM 94.3-HD3",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "94.7 The Zone",
@@ -32584,7 +32559,7 @@ var stations_c2c = {
         {
             name: "Way FM 90.5",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "King of Kings Radio 90.9",
@@ -32676,7 +32651,7 @@ var stations_c2c = {
         {
             name: "Way FM 89.3",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://wayfm.streamguys1.com/wayw.aac"
+            url: "https://wayfm.streamguys1.com/kywa.aac"
         },
         {
             name: "WKNP 90.1",

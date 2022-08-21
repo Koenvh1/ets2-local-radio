@@ -4154,12 +4154,12 @@ var stations = {
             name: "Юмор FM",
             logo: "stations/images-europe/russia/Юмор FM - Humor FM.png",
             url: "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6"
-        },
+        },/*
         {
             name: "Love Radio",
             logo: "stations/images-europe/russia/Love Radio.png",
-            url: "https://stream.n340.com/12_love_64"
-        },
+            url: "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=7C4152B04BE724CF3825D0E4F02328D0"
+        },*/
         {
             name: "НАШЕ Радио",
             logo: "stations/images-europe/russia/НАШЕ Радио - Nashe Radio.png",
@@ -5113,7 +5113,7 @@ var stations = {
     "tunis": [
         {
             name: "Mosaïque FM",
-            logo: "stations/images-europe/tunis/Mosaïque FM.jpg",
+            logo: "stations/images-europe/tunis/Mosaïque FM.png",
             url: "https://radio.mosaiquefm.net/mosalive"
         },
         {
