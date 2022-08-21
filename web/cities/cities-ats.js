@@ -57,7 +57,19 @@ var country_properties = {
         name: "Barstow",
         name_english: "Barstow",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.7
+    },
+    "barstow_east": {
+        name: "Barstow",
+        name_english: "Barstow",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
+    "barstow_west": {
+        name: "Barstow",
+        name_english: "Barstow",
+        code: "us-ca",
+        relative_radius: 0.7
     },
     "bellingham": {
         name: "Bellingham",
@@ -93,7 +105,7 @@ var country_properties = {
         name: "Bozeman",
         name_english: "Bozeman",
         code: "us-mt",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "brawley": {
         name: "Brawley",
@@ -114,6 +126,18 @@ var country_properties = {
         relative_radius: 0.85
     },
     "butte": {
+        name: "Butte",
+        name_english: "Butte",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
+    "butte_north": {
+        name: "Butte",
+        name_english: "Butte",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
+    "butte_east": {
         name: "Butte",
         name_english: "Butte",
         code: "us-mt",
@@ -988,7 +1012,16 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "barstow": {
-        relative_whitenoise: 0.65
+        relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
+    "barstow_east": {
+        relative_radius: 0.3,
+        relative_whitenoise: 0.85
+    },
+    "barstow_west": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.85
     },
     "bellingham": {
         relative_whitenoise: 0.85
@@ -1006,7 +1039,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "bozeman": {
-        relative_whitenoise: 0.9
+        relative_whitenoise: 0.95
     },
     "brawley": {
         relative_whitenoise: 0.85
@@ -1019,6 +1052,14 @@ var city_properties = {
     },
     "butte": {
         relative_whitenoise: 0.9
+    },
+    "butte_north": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
+    "butte_east": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
     },
     "carlsbad_nm": {
         relative_whitenoise: 0.85
@@ -1139,7 +1180,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "helena": {
-        relative_whitenoise: 0.9
+        relative_whitenoise: 0.95
     },
     "hillcrest": {
         relative_radius: 0.6,
@@ -1512,6 +1553,38 @@ var cities = [
         "x": "-95069.8",
         "y": "121.652",
         "z": "12704.5"
+    },
+    {
+        "gameName": "barstow",
+        "realName": "Barstow",
+        "country": "victorville",
+        "x": "-95069.8",
+        "y": "121.652",
+        "z": "12704.5"
+    },
+    {
+        "gameName": "barstow_east",
+        "realName": "Barstow",
+        "country": "barstow",
+        "x": "-92359",
+        "y": "20.9942",
+        "z": "11976.2"
+    },
+    {
+        "gameName": "barstow_west",
+        "realName": "Barstow",
+        "country": "barstow",
+        "x": "-98124.8",
+        "y": "37.3969",
+        "z": "12579.6"
+    },
+    {
+        "gameName": "barstow_west",
+        "realName": "Barstow",
+        "country": "victorville",
+        "x": "-98124.8",
+        "y": "37.3969",
+        "z": "12579.6"
     },
     {
         "gameName": "big_piney",
@@ -2048,6 +2121,38 @@ var cities = [
         "x": "-65388.6",
         "y": "128.582",
         "z": "-44535.3"
+    },
+    {
+        "gameName": "butte_north",
+        "realName": "Butte",
+        "country": "butte",
+        "x": "-63813.1",
+        "y": "155.58",
+        "z": "-46794"
+    },
+    {
+        "gameName": "butte_north",
+        "realName": "Butte",
+        "country": "helena",
+        "x": "-63813.1",
+        "y": "155.58",
+        "z": "-46794"
+    },
+    {
+        "gameName": "butte_east",
+        "realName": "Butte",
+        "country": "butte",
+        "x": "-62900.5",
+        "y": "175.298",
+        "z": "-43777.3"
+    },
+    {
+        "gameName": "butte_east",
+        "realName": "Butte",
+        "country": "bozeman",
+        "x": "-62900.5",
+        "y": "175.298",
+        "z": "-43777.3"
     },
     {
         "gameName": "carlsbad_nm",
@@ -2823,7 +2928,7 @@ var cities = [
         "country": "helena",
         "x": "-61403.9",
         "y": "122.141",
-        "z": "-49028.7"
+        "z": "-49728.7"
     },
     {
         "gameName": "lamar",
@@ -5744,7 +5849,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "forsyth": {
-		relative_radius: 0.5,
+		relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "glasgow": {
@@ -8242,6 +8347,12 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 1.2
     },
+    "deux-rivieres": {
+        name: "Deux-Rivieres",
+        name_english: "Deux-Rivieres",
+        code: "ca-on",
+        relative_radius: 0.7
+    },
     "dryden": {
         name: "Dryden",
         name_english: "Dryden",
@@ -8408,7 +8519,7 @@ var country_properties_canada = {
         name: "Maniwaki",
         name_english: "Maniwaki",
         code: "ca-qc",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "medicinehat": {
         name: "Medicine Hat",
@@ -8444,7 +8555,7 @@ var country_properties_canada = {
         name: "Montreal",
         name_english: "Montreal",
         code: "ca-qc",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "nakina": {
         name: "Nakina",
@@ -8493,6 +8604,12 @@ var country_properties_canada = {
         name_english: "Pemberton",
         code: "ca-bc",
         relative_radius: 0.4
+    },
+    "pembroke": {
+        name: "Pembroke",
+        name_english: "Pembroke",
+        code: "ca-on",
+        relative_radius: 0.5
     },
     "princegeorge": {
         name: "Prince George",
@@ -8680,6 +8797,10 @@ var city_properties_canada = {
     "deaselake": {
         relative_whitenoise: 0.95
     },
+    "deux-rivieres": {
+		relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
     "dryden": {
         relative_whitenoise: 0.95
     },
@@ -8809,6 +8930,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.85
     },
     "pemberton": {
+        relative_whitenoise: 0.85
+    },
+    "pembroke": {
         relative_whitenoise: 0.85
     },
     "princegeorge": {
@@ -8951,6 +9075,14 @@ var cities_canada = [
         "x": "-95251.7",
         "y": "98.5313",
         "z": "-129369"
+    },
+    {
+        "gameName": "deux-rivieres",
+        "realName": "Deux-Rivieres",
+        "country": "north_bay",
+        "x": "68679",
+        "y": "16.1",
+        "z": "-47707.5"
     },
     {
         "gameName": "dryden",
@@ -9303,6 +9435,14 @@ var cities_canada = [
         "x": "-97086.9",
         "y": "106.828",
         "z": "-78672.3"
+    },
+    {
+        "gameName": "pembroke",
+        "realName": "Pembroke",
+        "country": "pembroke",
+        "x": "73649",
+        "y": "61.5476",
+        "z": "-46389.3"
     },
     {
         "gameName": "princegeorge",
