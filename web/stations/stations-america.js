@@ -40682,6 +40682,11 @@ var stations_canada = {
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/playlist.m3u8"
         },
         {
+            name: "Wave 98.3",
+            logo: "stations/images-america/canada/vancouver/Wave 98.3.png",
+            url: "https://stream2.statsradio.com:8152/stream"
+        },
+        {
             name: "CFOX 99.3",
             logo: "stations/images-america/canada/vancouver/CFOX 99.3.png",
             url: "http://live.leanstream.co/CFOXFM-MP3"
