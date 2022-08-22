@@ -1473,6 +1473,23 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2?source=v7player"
         },
     ],
+    "broadus": [
+        {
+            name: "YPR 91.9",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
+            url: "http://ypr-sc.streamguys.net/live"
+        },
+        {
+            name: "YNOP 102.3",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "BIG 81",
+            logo: "stations/images-america/c2c/rapid_city_sd/BIG 81.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/homeslice-kbhbamaac-ibc4"
+        },
+    ],
     "burlington": [
         {
             name: "The Light 90.5",
@@ -4471,13 +4488,6 @@ var stations = {
             url: "http://www.ophanim.net:7920/stream"
         },
     ],
-    "jordan": [
-        {
-            name: "770 KATL",
-            logo: "stations/images-america/milescity/770 KATL.png",
-            url: "https://live.wostreaming.net/manifest/katl-katlamaac-ibc1"
-        },
-    ],
     "helena": [
         {
             name: "YPR 88.5",
@@ -5003,6 +5013,13 @@ var stations = {
             name: "980 The Zone",
             logo: "stations/images-america/jackson/980 The Zone.png",
             url: "https://ice7.securenetsystems.net/KSPZ"
+        },
+    ],
+    "katl": [
+        {
+            name: "770 KATL",
+            logo: "stations/images-america/milescity/770 KATL.png",
+            url: "https://live.wostreaming.net/manifest/katl-katlamaac-ibc1"
         },
     ],
     "kalispell": [

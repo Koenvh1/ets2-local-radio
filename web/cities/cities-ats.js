@@ -113,6 +113,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.4
     },
+    "broadus": {
+        name: "Broadus",
+        name_english: "Broadus",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "burlington": {
         name: "Burlington",
         name_english: "Burlington",
@@ -1044,6 +1050,10 @@ var city_properties = {
     "brawley": {
         relative_whitenoise: 0.85
     },
+    "broadus": {
+		relative_radius: 0.9,
+        relative_whitenoise: 0.85
+    },
     "burlington": {
         relative_whitenoise: 0.80
     },
@@ -1207,6 +1217,9 @@ var city_properties = {
     },
     "kalispell": {
         relative_whitenoise: 0.75
+    },
+    "katl": {
+        relative_whitenoise: 0.85
     },
     "kayenta": {
         relative_whitenoise: 0.85
@@ -1611,6 +1624,22 @@ var cities = [
         "z": "23340.7"
     },
     {
+        "gameName": "broadus",
+        "realName": "Broadus",
+        "country": "broadus",
+        "x": "-37438.1",
+        "y": "87.7157",
+        "z": "-39430.3"
+    },
+    {
+        "gameName": "broadus",
+        "realName": "Broadus",
+        "country": "katl",
+        "x": "-37438.1",
+        "y": "87.7157",
+        "z": "-39430.3"
+    },
+    {
         "gameName": "carson_city",
         "realName": "Carson City",
         "country": "reno",
@@ -1745,6 +1774,14 @@ var cities = [
         "x": "-69691.6",
         "y": "95",
         "z": "-59999.2"
+    },
+    {
+        "gameName": "katl",
+        "realName": "770 KATL",
+        "country": "katl",
+        "x": "-38197.5",
+        "y": "78.9609",
+        "z": "-45381.5"
     },
     {
         "gameName": "kayenta",
@@ -4670,6 +4707,12 @@ var country_properties_c2c = {
         code: "us-mt",
         relative_radius: 0.6
     },
+    "katl": {
+        name: "770 KATL",
+        name_english: "770 KATL",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "laurel": {
         name: "Laurel",
         name_english: "Laurel",
@@ -5849,7 +5892,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "forsyth": {
-		relative_radius: 0.6,
+		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "glasgow": {
@@ -7255,6 +7298,14 @@ var cities_c2c = [
         "z": "-44059.5"
     },
     {
+        "gameName": "forsyth",
+        "realName": "Forsyth",
+        "country": "katl",
+        "x": "-42303.6",
+        "y": "303.387",
+        "z": "-44059.5"
+    },
+    {
         "gameName": "glasgow",
         "realName": "Glasgow",
         "country": "glasgow",
@@ -7266,6 +7317,14 @@ var cities_c2c = [
         "gameName": "glendive",
         "realName": "Glendive",
         "country": "glendive",
+        "x": "-33819.1",
+        "y": "89.2656",
+        "z": "-47322.6"
+    },
+    {
+        "gameName": "glendive",
+        "realName": "Glendive",
+        "country": "katl",
         "x": "-33819.1",
         "y": "89.2656",
         "z": "-47322.6"
@@ -7289,7 +7348,7 @@ var cities_c2c = [
     {
         "gameName": "jordan",
         "realName": "Jordan",
-        "country": "jordan",
+        "country": "katl",
         "x": "-41930.1",
         "y": "76.3096",
         "z": "-49571.2"
@@ -7322,6 +7381,14 @@ var cities_c2c = [
         "gameName": "milescity",
         "realName": "Miles City",
         "country": "milescity",
+        "x": "-38197.5",
+        "y": "78.9609",
+        "z": "-45381.5"
+    },
+    {
+        "gameName": "milescity",
+        "realName": "Miles City",
+        "country": "katl",
         "x": "-38197.5",
         "y": "78.9609",
         "z": "-45381.5"
