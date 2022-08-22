@@ -577,7 +577,7 @@ var stations = {
         {
             name: "Family Radio 91.3",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "Q92.1",
@@ -806,7 +806,7 @@ var stations = {
         {
             name: "CBC Music 92.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "92.9 KISM",
@@ -1546,7 +1546,7 @@ var stations = {
         {
             name: "Family Radio 88.9",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "K-LOVE 89.7",
@@ -1715,7 +1715,7 @@ var stations = {
         {
             name: "Family Radio 91.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "Max 92.5",
@@ -2287,7 +2287,7 @@ var stations = {
         {
             name: "CBC Radio One 94.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "KCHW 102.7",
@@ -4188,7 +4188,7 @@ var stations = {
         {
             name: "CBC Radio One 540",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_reg"
         },
         {
             name: "620 CKRM",
@@ -6171,7 +6171,7 @@ var stations = {
         {
             name: "Family Radio 89.5",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "K-LOVE 90.3",
@@ -6632,6 +6632,11 @@ var stations = {
     ],
     "malta": [
         {
+            name: "YNOP 96.1",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
             name: "KMMR 100.1",
             logo: "stations/images-america/malta/KMMR 100.1.png",
             url: "https://ice8.securenetsystems.net/KMMR"
@@ -6639,7 +6644,12 @@ var stations = {
         {
             name: "CBC Radio One 540",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
+            url: "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
+        },
+        {
+            name: "800 CHAB",
+            logo: "stations/images-america/glasgow/800 CHAB.png",
+            url: "https://goldenwest.leanstream.co/CHABAM"
         },
     ],
     "mccall": [
@@ -6708,7 +6718,7 @@ var stations = {
         {
             name: "Family Radio 90.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "The Dove 91.7",
@@ -8011,7 +8021,7 @@ var stations = {
         {
             name: "CBC Radio One 90.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "The Zone @ 91.3",
@@ -8026,7 +8036,7 @@ var stations = {
         {
             name: "CBC Music 92.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "92.9 KISM",
@@ -9247,7 +9257,7 @@ var stations = {
         {
             name: "Family Radio 88.1",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "CapRadio Music 88.9",
@@ -11333,7 +11343,7 @@ var stations = {
         {
             name: "Family Radio 91.9",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "Radio Lobo 97.7",
@@ -11948,7 +11958,7 @@ var stations = {
         {
             name: "92.5 Urbana",
             logo: "stations/images-america/tucson/92.5 Urbana.png",
-            url: "https://bustosradio.com:9055/urbana92"
+            url: "https://ice42.securenetsystems.net/KZLZHD2"
         },
         {
             name: "92.9 The Bull",
@@ -16142,7 +16152,7 @@ var stations_c2c = {
         {
             name: "El Zol 107.9",
             logo: "stations/images-america/c2c/miami_fl/El Zol 106.7.png",
-            url: "https://live.wostreaming.net/manifest/sbsystems-wxdjfmaac-imc1"
+            url: "https://liveaudio.lamusica.com/MIA_WXDJ_icy"
         },
         {
             name: "Radio Martí 1180",
@@ -16251,7 +16261,7 @@ var stations_c2c = {
         {
             name: "Zeta 92.3",
             logo: "stations/images-america/c2c/miami_fl/Zeta 92.3.png",
-            url: "https://live.wostreaming.net/manifest/sbsystems-wcmqfmaac-imc1"
+            url: "https://liveaudio.lamusica.com/MIA_WCMQ_icy"
         },
         {
             name: "Vibe 92.7",
@@ -16286,7 +16296,7 @@ var stations_c2c = {
         {
             name: "Ritmo 95.7",
             logo: "stations/images-america/c2c/miami_fl/Ritmo 95.7.png",
-            url: "https://live.wostreaming.net/manifest/sbsystems-wrmafmaac-imc1"
+            url: "https://liveaudio.lamusica.com/MIA_WRMA_icy"
         },
         {
             name: "96.1 WZPP",
@@ -16396,12 +16406,12 @@ var stations_c2c = {
         {
             name: "Salsa 106.3",
             logo: "stations/images-america/c2c/miami_fl/Salsa 106.3.png",
-            url: "https://live.wostreaming.net/manifest/sbsystems-wrmafmaac-imc1"
+            url: "https://liveaudio.lamusica.com/MIA_WRAZ_icy"
         },
         {
             name: "El Zol 106.7",
             logo: "stations/images-america/c2c/miami_fl/El Zol 106.7.png",
-            url: "https://live.wostreaming.net/manifest/sbsystems-wxdjfmaac-imc1"
+            url: "https://liveaudio.lamusica.com/MIA_WXDJ_icy"
         },
         {
             name: "WAVS 107.9",
@@ -18062,7 +18072,7 @@ var stations_c2c = {
         {
             name: "WRUU 107.5",
             logo: "stations/images-america/c2c/savannah_ga/WRUU 107.5.png",
-            url: "https://relays.stream.creek.fm/wruu"
+            url: "https://listen.wruu.org/stream"
         },
         {
             name: "Rewind 107.9",
@@ -22308,7 +22318,7 @@ var stations_c2c = {
         {
             name: "CBC Radio One 103.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_FRD@134846/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "Maine Public Radio 106.1",
@@ -32958,6 +32968,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIVKFMAAC_SC"
         },
         {
+            name: "Random Music Radio 850",
+            logo: "stations/images-america/c2c/knoxville_tn/Random Music Radio 850.png",
+            url: "https://stream.radiojar.com/atuv6c1sv38uv"
+        },
+        {
             name: "NewsTalk 1490",
             logo: "stations/images-america/c2c/knoxville_tn/NewsTalk 1490.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WEREAMAAC_SC"
@@ -35521,7 +35536,7 @@ var stations_c2c = {
         {
             name: "Family Radio 89.3",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC"
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "90.1 WRUV",
@@ -37110,7 +37125,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 93.7 FM",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
         {
             name: "fm 97.1",
@@ -37192,7 +37207,7 @@ var stations_canada = {
         {
             name: "CBC Music 103.9",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "ROCK 107",
@@ -37304,7 +37319,7 @@ var stations_canada = {
         {
             name: "CBC Music 102.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_edm"
         },
         {
             name: "XL103",
@@ -37371,14 +37386,14 @@ var stations_canada = {
         {
             name: "CBC Radio One 97.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mct"
         },
     ],
     "chapleau": [
         {
             name: "CBC Radio One 89.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
         },
         {
             name: "ICI Première 91.9",
@@ -37400,7 +37415,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ykn"
         },
         {
             name: "ICI Première 93.7",
@@ -37447,7 +37462,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 98.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "Rock 101",
@@ -37464,7 +37479,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 100.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tba"
         },
         {
             name: "ICI Première 102.7",
@@ -37501,7 +37516,7 @@ var stations_canada = {
         {
             name: "CBC Music 90.9",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_edm"
         },
         {
             name: "KiSS 91.7",
@@ -37638,7 +37653,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 90.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tba"
         },
         {
             name: "93.1 The Border",
@@ -37703,7 +37718,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ykn"
         },
         {
             name: "CFNR 96.1",
@@ -37725,7 +37740,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 107.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ykn"
         },
     ],
     "fredericton": [
@@ -37787,7 +37802,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 99.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_FRD@134846/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "K100",
@@ -37797,7 +37812,7 @@ var stations_canada = {
         {
             name: "CBC Music 101.5",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "ICI Première 102.3",
@@ -37829,7 +37844,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
         {
             name: "ICI Première 89.3",
@@ -37851,7 +37866,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 101.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kam"
         },
         {
             name: "Bounce 106.3",
@@ -37863,7 +37878,7 @@ var stations_canada = {
         {
             name: "CBC Music 90.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx"
         },
         {
             name: "OZFM 95.9",
@@ -37905,7 +37920,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 90.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_hfx"
         },
         {
             name: "ICI Musique 91.5",
@@ -37960,7 +37975,7 @@ var stations_canada = {
         {
             name: "CBC Music 102.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx"
         },
         {
             name: "Hot Country 103.5",
@@ -37997,7 +38012,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 91.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
         },
         {
             name: "CKHT 94.5",
@@ -38026,7 +38041,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "89.5 The Drive",
@@ -38073,12 +38088,12 @@ var stations_canada = {
         {
             name: "CBC Radio One 102.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ykn"
         },
         {
             name: "CBC Music 104.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "Pure Country 105.5",
@@ -38100,7 +38115,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 96.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
         },
         {
             name: "ICI Première 97.1",
@@ -38159,7 +38174,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 94.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kam"
         },
         {
             name: "Lighthouse FM 95.1",
@@ -38194,7 +38209,7 @@ var stations_canada = {
         {
             name: "CBC Music 105.3",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "Radio NL 610",
@@ -38206,12 +38221,12 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kam"
         },
         {
             name: "CBC Music 89.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "ICI Première 90.5",
@@ -38305,7 +38320,7 @@ var stations_canada = {
         {
             name: "CBC Music 92.9",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "Country 93.5",
@@ -38385,7 +38400,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 107.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
         },
     ],
     "labradorcity": [
@@ -38402,7 +38417,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 96.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
         },
         {
             name: "98.1 CHFI",
@@ -38481,7 +38496,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 101.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
         {
             name: "ICI Première 103.7",
@@ -38493,7 +38508,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 92.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kam"
         },
         {
             name: "CKBZ 93.9",
@@ -38508,7 +38523,7 @@ var stations_canada = {
         {
             name: "CBC Music 98.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "CIAK 102.3",
@@ -38557,7 +38572,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 93.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "94.9 Radio Western",
@@ -38597,7 +38612,7 @@ var stations_canada = {
         {
             name: "CBC Music 100.5",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "Easy 101.3",
@@ -38679,7 +38694,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 95.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
         },
         {
             name: "CHGA 97.3",
@@ -38753,7 +38768,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tba"
         },
         {
             name: "CFNO 93.1",
@@ -38844,7 +38859,7 @@ var stations_canada = {
         {
             name: "CBC Music 90.9",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx"
         },
         {
             name: "91.9 The Bend",
@@ -38894,7 +38909,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 106.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MCT@360345/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mct"
         },
         {
             name: "CKOE 107.3",
@@ -38906,7 +38921,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_MTL@360544/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mtl"
         },
         {
             name: "CISM 89.3",
@@ -38941,7 +38956,7 @@ var stations_canada = {
         {
             name: "CBC Music 93.5",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "ICI Première 95.1",
@@ -39053,7 +39068,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tba"
         },
         {
             name: "ICI Première 93.7",
@@ -39085,7 +39100,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 96.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
         },
         {
             name: "KiSS 100.5",
@@ -39132,7 +39147,7 @@ var stations_canada = {
         {
             name: "CBC Music 90.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "93.1 fresh Radio",
@@ -39152,7 +39167,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 99.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "Life 100.3",
@@ -39224,7 +39239,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 95.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
         },
         {
             name: "CIGV 98.9",
@@ -39249,7 +39264,7 @@ var stations_canada = {
         {
             name: "CBC Music 106.9",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
     ],
     "ottawa": [
@@ -39261,7 +39276,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 91.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
         },
         {
             name: "JACK 92.3",
@@ -39331,7 +39346,7 @@ var stations_canada = {
         {
             name: "CBC Music 103.3",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "KiSS 105.3",
@@ -39388,12 +39403,12 @@ var stations_canada = {
         {
             name: "CBC Music 97.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "CBC Radio One 98.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "Life 100.3",
@@ -39435,7 +39450,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "Rez 91",
@@ -39457,7 +39472,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "CKRY 92.7",
@@ -39477,7 +39492,7 @@ var stations_canada = {
         {
             name: "CBC Music 105.3",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
     ],
     "pembroke": [
@@ -39489,7 +39504,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 92.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
         },
         {
             name: "Pure Country 96.7",
@@ -39526,12 +39541,12 @@ var stations_canada = {
         {
             name: "CBC Music 90.3",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "CBC Radio One 91.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ykn"
         },
         {
             name: "CFIS 93.1",
@@ -39593,7 +39608,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 860",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_INK@313092/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ink"
         },
     ],
     "princeton": [
@@ -39605,7 +39620,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 93.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "CIGV 98.1",
@@ -39652,7 +39667,7 @@ var stations_canada = {
         {
             name: "CBC Music 93.5",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx"
         },
         {
             name: "CHYZ 94.3",
@@ -39667,7 +39682,7 @@ var stations_canada = {
         {
             name: "CBC Music 96.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "96.9 Lévis",
@@ -39707,7 +39722,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 104.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
         {
             name: "ICI Première 106.3",
@@ -39811,7 +39826,7 @@ var stations_canada = {
         {
             name: "CBC Music 96.9",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_edm"
         },
         {
             name: "ICI Première 97.7",
@@ -39831,7 +39846,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 102.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_reg"
         },
         {
             name: "MIX 103.9",
@@ -39893,7 +39908,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 101.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
     ],
     "russel": [
@@ -39957,7 +39972,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 102.7",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
         {
             name: "Planète 104.5",
@@ -39994,7 +40009,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 94.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_reg"
         },
         {
             name: "C95",
@@ -40029,7 +40044,7 @@ var stations_canada = {
         {
             name: "CBC Music 105.5",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "600 CJWW",
@@ -40056,7 +40071,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
         },
         {
             name: "91.5 Smile FM",
@@ -40158,7 +40173,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 96.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_QQU@366526/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_qqu"
         },
         {
             name: "ICI Première 98.1",
@@ -40185,14 +40200,14 @@ var stations_canada = {
         {
             name: "CBC Radio One 1450",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_REG@118346/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_reg"
         },
     ],
     "sudbury": [
         {
             name: "CBC Music 90.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "ICI Musique 90.9",
@@ -40237,7 +40252,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 99.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_SUD@384513/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
         },
         {
             name: "Hits 100",
@@ -40274,7 +40289,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 98.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "107.1 Mountain FM",
@@ -40286,7 +40301,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TBA@366707/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tba"
         },
         {
             name: "ICI Première 89.3",
@@ -40321,7 +40336,7 @@ var stations_canada = {
         {
             name: "CBC Music 101.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "CILU 102.7",
@@ -40388,7 +40403,7 @@ var stations_canada = {
         {
             name: "CBC Music 94.1",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "KX94.7",
@@ -40438,7 +40453,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 99.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
         },
         {
             name: "99.9 Virgin Radio",
@@ -40560,7 +40575,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_hfx"
         },
         {
             name: "94.1 The Breeze",
@@ -40592,7 +40607,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 88.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vcr"
         },
         {
             name: "CJSF 90.1",
@@ -40702,7 +40717,7 @@ var stations_canada = {
         {
             name: "CBC Music 105.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
         {
             name: "PRAISE 106.5",
@@ -40774,7 +40789,7 @@ var stations_canada = {
         {
             name: "CBC Music 92.7",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "94.7 STAR FM",
@@ -40789,7 +40804,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 97.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_wpg"
         },
         {
             name: "ICI Première 99.5",
@@ -40826,7 +40841,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 990",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WHS@66072/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_whs"
         },
     ],
     "whitehorse": [
@@ -40838,7 +40853,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 94.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WHS@66072/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_whs"
         },
         {
             name: "96.1 The Rush",
@@ -40863,7 +40878,7 @@ var stations_canada = {
         {
             name: "CBC Music 104.5",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr"
         },
     ],
     "whistler": [
@@ -40880,7 +40895,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 100.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kam"
         },
         {
             name: "101.5 Whistler FM",
@@ -40922,7 +40937,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 860",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_KAM@384142/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_kam"
         },
     ],
     "winnipeg": [
@@ -40934,7 +40949,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 89.3",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_WPG@384111/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_wpg"
         },
         {
             name: "ICI Musique 89.9",
@@ -40984,7 +40999,7 @@ var stations_canada = {
         {
             name: "CBC Music 98.3",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_WPG@385274/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
         {
             name: "Peggy @ 99.1",
@@ -41051,7 +41066,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 92.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_HFX@353708/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_hfx"
         },
         {
             name: "Y95",
@@ -41078,7 +41093,7 @@ var stations_canada = {
         {
             name: "CBC Music 95.3",
             logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_EDM@48972/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_edm"
         },
         {
             name: "ICI Première 97.3",
@@ -41088,7 +41103,7 @@ var stations_canada = {
         {
             name: "CBC Radio One 98.9",
             logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://cbcliveradio-lh.akamaihd.net/i/CBCR1_YKN@330427/master.m3u8"
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ykn"
         },
         {
             name: "100.1 True North",
