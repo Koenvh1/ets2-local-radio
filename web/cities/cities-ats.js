@@ -929,6 +929,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.6
     },
+    "west_yellowstone": {
+        name: "West Yellowstone",
+        name_english: "West Yellowstone",
+        code: "us-mt",
+        relative_radius: 0.5
+    },
     "wallace": {
         name: "Wallace",
         name_english: "Wallace",
@@ -1508,6 +1514,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "wenatchee": {
+        relative_whitenoise: 0.85
+    },
+    "west_yellowstone": {
         relative_whitenoise: 0.85
     },
     "wheatland": {
@@ -2411,7 +2420,7 @@ var cities = [
         "gameName": "cody",
         "realName": "Cody",
         "country": "cody",
-        "x": "-51905.6",
+        "x": "-53205.6",
         "y": "125",
         "z": "-35109.9"
     },
@@ -2646,6 +2655,14 @@ var cities = [
         "x": "-92417.7",
         "y": "55.9883",
         "z": "-60054.8"
+    },
+    {
+        "gameName": "west_yellowstone",
+        "realName": "West Yellowstone",
+        "country": "west_yellowstone",
+        "x": "-59029.6",
+        "y": "164.703",
+        "z": "-37340.4"
     },
     {
         "gameName": "yakima",

@@ -4818,8 +4818,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOBFMAAC_SC"
         },
         {
-            name: "HOT 95.9",
-            logo: "stations/images-america/indio/HOT 95.9.png",
+            name: "Kool 95.9",
+            logo: "stations/images-america/indio/Kool 95.9.png",
             url: "https://ice41.securenetsystems.net/KJJZ"
         },
         {
@@ -12501,6 +12501,38 @@ var stations = {
             name: "1340 The Hawk",
             logo: "stations/images-america/wenatchee/1340 The Hawk.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kyspamaac-ibc3"
+        },
+    ],
+    "west_yellowstone": [
+        {
+            name: "The REV 88.7",
+            logo: "stations/images-america/0_general_logos/The REV.png",
+            url: "http://173.192.207.51:8043/stream"
+        },
+        {
+            name: "YNOP 90.7",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "K220GV 91.9",
+            logo: "stations/images-america/idaho_falls/KBYI 94.3.png",
+            url: "https://radiostream.byui.edu/kbyi"
+        },
+        {
+            name: "KID 102.9",
+            logo: "stations/images-america/idaho_falls/KID 106.3.png",
+            url: "https://ice24.securenetsystems.net/KIDAM"
+        },
+        {
+            name: "The Eagle 104.7",
+            logo: "stations/images-america/bozeman/The Eagle 105.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKQXFMAAC_SC"
+        },
+        {
+            name: "YPR 105.9",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
+            url: "http://ypr-sc.streamguys.net/live"
         },
     ],
     "wheatland": [

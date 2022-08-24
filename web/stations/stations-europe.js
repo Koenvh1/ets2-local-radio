@@ -1320,7 +1320,7 @@ var stations = {
         {
             name: "Radio City",
             logo: "stations/images-europe/finland/Radio City.png",
-            url: "https://stream.bauermedia.fi/radiocity/hki_128.mp3?direct=true"
+            url: "https://stream-redirect.bauermedia.fi/radiocity/radiocity_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Classic",
@@ -1547,7 +1547,7 @@ var stations = {
         {
             name: "TOTEM",
             logo: "stations/images-europe/france/TOTEM.png",
-            url: "https://aratotem.ice.infomaniak.ch/auvergne.mp3"
+            url: "https://aratotem.ice.infomaniak.ch/tarn-et-garonne.mp3"
         },
         {
             name: "Vibration",
@@ -1604,7 +1604,7 @@ var stations = {
         {
             name: "რადიო აჭარა",
             logo: "stations/images-europe/georgia/რადიო აჭარა.png",
-            url: "https://listen.mixlr.com/1537114d30c2620fb2c5ad0ee741af8e"
+            url: "https://edge.mixlr.com/channel/bzorq"
         },
         {
             name: "რადიო მაესტროს",
@@ -1615,12 +1615,12 @@ var stations = {
             name: "Radio Palitra",
             logo: "stations/images-europe/georgia/Radio Palitra.png",
             url: "https://radio1.palitra.ge:8443/stream.mp3"
-        },
+        },/*
         {
             name: "Sputnik Абхазия",
             logo: "stations/images-europe/georgia/Sputnik Абхазия.png",
             url: "https://voicecdn.sputnikimages.com/voicesuh"
-        },
+        },*/
         {
             name: "Voice Of Abkhazia",
             logo: "stations/images-europe/georgia/Voice Of Abkhazia.png",
