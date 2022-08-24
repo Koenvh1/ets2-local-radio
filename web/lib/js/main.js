@@ -173,7 +173,6 @@ function initialise() {
 }
 
 function refresh(data) {
-
     var country_lowest_distance = "nothing";
     var city_lowest_distance = "nothing";
     var lowest_distance = 999999999999999999;
@@ -406,7 +405,7 @@ function setRadioStation(url, country, volume) {
 
     $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" +
         calculateReception(g_countries[country].whitenoise) + "/?" +
-        g_skinConfig["url-prefix"] + stations[country][index].logo);
+        getFullLogoUrl(stations[country][index].logo));
 }
 
 function setWhitenoise(volume) {
@@ -565,6 +564,14 @@ function scrollToStation() {
     },500);
 }
 
+function getFullLogoUrl(logo) {
+    if (logo.startsWith("http://") || logo.startsWith("https://")) {
+        return logo;
+    } else {
+        return g_skinConfig['url-prefix'] + logo;
+    }
+}
+
 function calculateReception(whitenoise) {
     var reception = Math.pow(parseFloat(whitenoise), 2) - 0.15;
     if(reception  < 0.05){
@@ -625,7 +632,7 @@ function refreshStations() {
                     '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-selected" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
-                    '<div class="frame text-center"><div class="station-image-container"><img src="' + g_skinConfig['url-prefix'] + stations[key][j]['logo'] + '"></div><br>' +
+                    '<div class="frame text-center"><div class="station-image-container"><img src="' + getFullLogoUrl(stations[key][j]['logo']) + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
                     '<span class="overflow station-subtitle">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) +
                     (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") + '</span>' +
@@ -645,7 +652,7 @@ function refreshStations() {
     }).indexOf(g_current_url);
 
     $(".current-station").html(stations[g_current_country][index].name);
-    $(".current-station-image").attr("src", g_skinConfig["url-prefix"] + stations[g_current_country][index].logo);
+    $(".current-station-image").attr("src", getFullLogoUrl(stations[g_current_country][index].logo));
     $(".current-station-country").html(country_properties[g_current_country].name);
     $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
     if(g_favourites[g_current_country] == stations[g_current_country][index].name) {
