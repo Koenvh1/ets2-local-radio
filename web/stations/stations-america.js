@@ -19514,8 +19514,8 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHHFMAAC_SC"
         },
         {
-            name: "alt 103.3",
-            logo: "stations/images-america/c2c/indianapolis_in/alt 103.3.png",
+            name: "Indy 103.3",
+            logo: "stations/images-america/c2c/indianapolis_in/Indy 103.3.png",
             url: "https://stream.revma.ihrhls.com/zc909/hls.m3u8"
         },
         {
