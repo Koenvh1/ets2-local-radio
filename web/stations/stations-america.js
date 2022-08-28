@@ -4848,6 +4848,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kpsifmaac-ibc4"
         },
         {
+            name: "100.9 NRG",
+            logo: "stations/images-america/indio/100.9 NRG.png",
+            url: "https://streams.radiomast.io/dd12e70b-da48-4d71-9212-eb8f8e9de597"
+        },
+        {
             name: "101.3 The Mix",
             logo: "stations/images-america/indio/101.3 The Mix.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KATYFMAAC_SC"
