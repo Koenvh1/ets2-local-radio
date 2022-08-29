@@ -13576,7 +13576,7 @@ var stations_mexico = {
             url: "https://sts.pergom.mx/xhcsi"
         }, 
         {
-            name: "Ke Buena 91.9 FM",
+            name: "Ke Buena 91.9",
             logo: "stations/images-america/mexico/sinaloa/kebuena.png",
             url: "https://icy.gvstream.live/radiotvmexico-kbuena919.aac"
         },  
