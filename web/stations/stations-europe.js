@@ -2714,7 +2714,6 @@ var stations = {
             url: "https://l3.itworkscdn.net/itwaudio/9012/stream"
         },
     ],
-    ],
     "ireland": [
         {
             name: "RTÉ Radio 1",
