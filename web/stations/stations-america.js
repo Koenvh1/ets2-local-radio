@@ -13566,64 +13566,89 @@ var stations_mexico = {
     ],
     "culiacan": [
         {
+            name: "Radio Fórmula 88.7",
+            logo: "stations/images-america/mexico/sinaloa/formulac.png",
+            url: "https://strmrfe.grupoformula.com.mx:8443/culih?1608074836634"
+        },
+        {
+            name: "Romántica 89.5",
+            logo: "stations/images-america/mexico/sinaloa/rom.png",
+            url: "https://sts.pergom.mx/xhcsi"
+        }, 
+        {
             name: "Ke Buena 91.9 FM",
             logo: "stations/images-america/mexico/sinaloa/kebuena.png",
             url: "https://icy.gvstream.live/radiotvmexico-kbuena919.aac"
         },  
         {
-            name: "La Comadre",
-            logo: "stations/images-america/mexico/sinaloa/comadre.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC_SC"
-        },    
-        {
-            name: "Match 100.1 FM",
-            logo: "stations/images-america/mexico/sinaloa/match.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCNAFMAAC_SC"
-        },    
-        {
-            name: "Romántica",
-            logo: "stations/images-america/mexico/sinaloa/rom.png",
-            url: "https://sts.pergom.mx/xhcsi"
-        }, 
-        {
-            name: "La Mejor FM 104.1",
-            logo: "stations/images-america/mexico/sinaloa/lamejor.png",
-            url: "https://icy.gvstream.live/gpm-cq.aac"
-        },
-        {
-            name: "Los 40",
+            name: "Los 40 92.9",
             logo: "stations/images-america/mexico/sinaloa/40.png",
             url: "https://stream.zeno.fm/20mdtf6hfphvv"
         },
         {
-            name: "Radio Fórmula",
-            logo: "stations/images-america/mexico/sinaloa/formulac.png",
-            url: "https://strmrfe.grupoformula.com.mx:8443/culih?1608074836634"
+            name: "Lobos FM 93.7",
+            logo: "stations/images-america/mexico/sinaloa/Lobos FM 93.7.png",
+            url: "http://streamingcwsradio20.com:9330/;"
         },
         {
-            name: "Exa FM",
-            logo: "stations/images-america/mexico/shared/exa.png",
-            url: "https://sp3.servidorrprivado.com:10940/stream/1/"
-        },
-        {
-            name: "Radio Sinaloa",
+            name: "Radio Sinaloa 94.5",
             logo: "stations/images-america/mexico/sinaloa/sinrad94.png",
             url: "http://192.99.16.17:8170/;"
         },
         {
-            name: "@FM",
+            name: "95.3 @FM",
             logo: "stations/images-america/mexico/sinaloa/arroba.png",
             url: "http://sts.aplradiorama.mx/XHIN.mp3"
         },
         {
-            name: "La Bestia Grupera 102.5 FM",
+            name: "Radio UAS 96.1",
+            logo: "stations/images-america/mexico/sinaloa/Radio UAS.png",
+            url: "https://stream5.mexiserver.com:1123/stream"
+        },
+        {
+            name: "Vibra Radio 96.9",
+            logo: "stations/images-america/mexico/sinaloa/Vibra Radio 96.9.png",
+            url: "http://192.99.16.17:8172/stream/;"
+        },    
+        {
+            name: "W Radio 97.7",
+            logo: "stations/images-america/mexico/sinaloa/w.png",
+            url: "https://stream.zeno.fm/g0t0mx3xbphvv"
+        },
+        {
+            name: "La Comadre 98.5",
+            logo: "stations/images-america/mexico/sinaloa/comadre.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC_SC"
+        },    
+        {
+            name: "Match 100.1",
+            logo: "stations/images-america/mexico/sinaloa/match.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCNAFMAAC_SC"
+        },   
+        {
+            name: "Exa FM 101.7",
+            logo: "stations/images-america/mexico/shared/exa.png",
+            url: "https://sp3.servidorrprivado.com:10940/stream/1/"
+        }, 
+        {
+            name: "La Bestia Grupera 102.5",
             logo: "stations/images-america/mexico/sinaloa/bestia.png",
             url: "https://secure.radiorama.mx:2131/;"
         },
         {
-            name: "W Radio",
-            logo: "stations/images-america/mexico/sinaloa/w.png",
-            url: "https://stream.zeno.fm/g0t0mx3xbphvv"
+            name: "Maxiradio 103.3",
+            logo: "stations/images-america/mexico/sinaloa/Maxiradio 103.3.png",
+            url: "https://stream.maxiradio.mx:1033/live"
+        },
+        {
+            name: "La Mejor 104.1",
+            logo: "stations/images-america/mexico/sinaloa/lamejor.png",
+            url: "https://icy.gvstream.live/gpm-cq.aac"
+        },
+        {
+            name: "La Bella 104.9",
+            logo: "stations/images-america/mexico/sinaloa/La Bella 104.9.png",
+            url: "https://sp3.servidorrprivado.com:10938/;"
         },
              
     ],
