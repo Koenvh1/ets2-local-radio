@@ -176,7 +176,7 @@ var stations = {
         {
             name: "Ռադիո Հայ",
             logo: "stations/images-europe/armenia/Ռադիո Հայ Ցանց.png",
-            url: "http://89.163.246.155:8000/Radiohay"
+            url: "http://14678.cloudrad.io:9440/live"
         },
         {
             name: "Radio Yerevan",
@@ -919,12 +919,12 @@ var stations = {
             name: "sfera",
             logo: "stations/images-europe/cyprus/sfera.png",
             url: "https://securestreams3.autopo.st:1417/sfera"
-        },
+        },/*
         {
             name: "Radyo Güven",
             logo: "stations/images-europe/cyprus/Radyo Güven.png",
             url: "http://freeuk29.listen2myradio.com:8956/;"
-        },
+        },*/
         {
             name: "Русское Радио Кипр",
             logo: "stations/images-europe/cyprus/Русское Радио Кипр.png",
@@ -2679,9 +2679,14 @@ var stations = {
     ],
     "iraq": [
         {
+            name: "BBC Arabic",
+            logo: "stations/images-europe/iraq/BBC Arabic.png",
+            url: "http://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
+        },
+        {
             name: "راديو سوا",
             logo: "stations/images-europe/iraq/راديو سوا.png",
-            url: "https://mbnvaudioingest-i.akamaihd.net/hls/live/1004561/MBNV_SAWA_IRAQ/merge.m3u8"
+            url: "https://stream.radiojar.com/t9h51xwr92quv"
         },
         {
             name: "إذاعة الكفيل",
@@ -2690,9 +2695,25 @@ var stations = {
         },
         {
             name: "راديو الآن",
-            logo: "stations/images-europe/iraq/راديو الآن.svg",
+            logo: "stations/images-europe/iraq/راديو الآن.png",
             url: "https://alaanfm.radioman.fi:8443/medianode1"
         },
+        {
+            name: "راديو الحياة الجديدة",
+            logo: "stations/images-europe/iraq/راديو الحياة الجديدة.png",
+            url: "https://s2.radio.co/sd3c7f8539/listen"
+        },
+        {
+            name: "Radio Sawa",
+            logo: "stations/images-europe/iraq/Radio Sawa.png",
+            url: "http://stream.radiojar.com/t9h51xwr92quv"
+        },
+        {
+            name: "Sumer FM",
+            logo: "stations/images-europe/iraq/Sumer FM.png",
+            url: "https://l3.itworkscdn.net/itwaudio/9012/stream"
+        },
+    ],
     ],
     "ireland": [
         {
@@ -3327,7 +3348,7 @@ var stations = {
         {
             name: "R98",
             logo: "stations/images-europe/mnegro/RTCG.png",
-            url: "https://rtcg.ipradio.rs:9010/;"
+            url: "https://r98.ipradio.rs:10100/;"
         },
         {
             name: "Antena M",
