@@ -6716,6 +6716,13 @@ var stations = {
             url: "https://ice6.securenetsystems.net/EFXAAC"
         },
     ],
+    "mcdermitt": [
+        {
+            name: "Pilgrim Radio 91.7",
+            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
+        },
+    ],
     "medford": [
         {
             name: "JPR Classics & News 88.3",

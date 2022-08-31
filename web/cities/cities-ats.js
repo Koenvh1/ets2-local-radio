@@ -533,6 +533,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.7
     },
+    "mcdermitt": {
+        name: "McDermitt",
+        name_english: "McDermitt",
+        code: "us-nv",
+        relative_radius: 0.5
+    },
     "medford": {
         name: "Medford",
         name_english: "Medford",
@@ -1293,6 +1299,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "mccall": {
+        relative_whitenoise: 0.85
+    },
+    "mcdermitt": {
         relative_whitenoise: 0.85
     },
     "medford": {
@@ -2863,6 +2872,14 @@ var cities = [
         "x": "-79313.3",
         "y": "84.9904",
         "z": "-42465"
+    },
+    {
+        "gameName": "mcdermitt",
+        "realName": "McDermitt",
+        "country": "mcdermitt",
+        "x": "-89641.8",
+        "y": "74.6754",
+        "z": "-28539.1"
     },
     {
         "gameName": "martins_ca",
