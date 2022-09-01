@@ -1124,6 +1124,11 @@ var stations = {
             logo: "stations/images-america/billings/790 KGHL.png",
             url: "https://ice5.securenetsystems.net/KGHLAM"
         },
+        {
+            name: "Billings Catholic Radio 1240",
+            logo: "stations/images-america/billings/Billings Catholic Radio 1240.png",
+            url: "https://ssl-2.stream.miriamtech.net/agnusdeicommunications/kjcr-fm"
+        },
     ],
     "bishop": [
         {
@@ -3703,7 +3708,7 @@ var stations = {
         {
             name: "Forge 95.3",
             logo: "stations/images-america/fresno/Forge 95.3.png",
-            url: "http://ice42.securenetsystems.net/FORGE"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBHHFMAAC_SC"
         },
         {
             name: "95.7 The Fox",
@@ -4590,43 +4595,6 @@ var stations = {
             name: "La Zeta 103.7",
             logo: "stations/images-america/hobbs/La Zeta 103.7.png",
             url: "https://us2.maindigitalstream.com/ssl/KPZA"
-        },
-    ],
-    "huron": [
-        {
-            name: "93.7 Kiss Country",
-            logo: "stations/images-america/fresno/93.7 Kiss Country.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKSFMAAC_SC"
-        },
-        {
-            name: "Forge 95.3",
-            logo: "stations/images-america/fresno/Forge 95.3.png",
-            url: "http://ice42.securenetsystems.net/FORGE"
-        },
-        {
-            name: "103.7 The Beat",
-            logo: "stations/images-america/fresno/103.7 The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc149/hls.m3u8"
-        },
-        {
-            name: "Jammin' 107.9",
-            logo: "stations/images-america/fresno/Jammin' 94.3.png",
-            url: "https://ice8.securenetsystems.net/KOKO"
-        },
-        {
-            name: "580 KMJ",
-            logo: "stations/images-america/fresno/105.9 KMJ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC_SC"
-        },
-        {
-            name: "1430 ESPN",
-            logo: "stations/images-america/fresno/1430 ESPN.png",
-            url: "https://ice5.securenetsystems.net/KFIG"
-        },
-        {
-            name: "1550 KXEX",
-            logo: "stations/images-america/fresno/1550 KXEX.png",
-            url: "https://stream.radiojar.com/8bkcxp4pduhvv"
         },
     ],
     "idaho_falls": [
@@ -10507,8 +10475,8 @@ var stations = {
             url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
-            name: "760 AM",
-            logo: "stations/images-america/san_diego/760 AM.png",
+            name: "San Diego Sports 760",
+            logo: "stations/images-america/san_diego/San Diego Sports 760.png",
             url: "https://stream.revma.ihrhls.com/zc8528/hls.m3u8"
         },
         {
@@ -10527,8 +10495,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
         },
         {
-            name: "XTRA 1360",
-            logo: "stations/images-america/san_diego/XTRA 1360.png",
+            name: "The Patriot 1360",
+            logo: "stations/images-america/san_diego/The Patriot 1360.png",
             url: "https://stream.revma.ihrhls.com/zc249/hls.m3u8"
         },
     ],

@@ -381,7 +381,7 @@ var country_properties = {
         name: "Huron",
         name_english: "Huron",
         code: "us-ca",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "idaho_falls": {
         name: "Idaho Falls",
@@ -1216,6 +1216,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "huron": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "idaho_falls": {
@@ -1764,7 +1765,7 @@ var cities = [
     {
         "gameName": "huron",
         "realName": "Huron",
-        "country": "huron",
+        "country": "fresno",
         "x": "-109939",
         "y": "86.5572",
         "z": "2102.63"
