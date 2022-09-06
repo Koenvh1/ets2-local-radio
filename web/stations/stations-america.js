@@ -650,6 +650,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/agmedia28-kgfmfmaac-ibc3"
         },
         {
+            name: "Radio Lobo 102.9",
+            logo: "stations/images-america/bakersfield/Radio Lobo 102.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIFMAAC_SC"
+        },
+        {
             name: "KRUZ 103.3",
             logo: "stations/images-america/oxnard/KRUZ 103.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
@@ -8820,8 +8825,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
-            name: "America Matters Media 1060",
-            logo: "stations/images-america/reno/America Matters Media 1060.png",
+            name: "Radio for America 1060",
+            logo: "stations/images-america/reno/Radio for America 1060.png",
             url: "https://ais-sa1.streamon.fm/7198_24k.aac"
         },
         {
@@ -29744,6 +29749,11 @@ var stations_c2c = {
             url: "https://147.135.84.28:80/wpos-fm"
         },
         {
+            name: "Party 103.3",
+            logo: "stations/images-america/c2c/toledo_oh/Party 103.3.png",
+            url: "https://ice41.securenetsystems.net/WTODHD2"
+        },
+        {
             name: "103.7 CKY",
             logo: "stations/images-america/c2c/toledo_oh/103.7 CKY.png",
             url: "https://stream.revma.ihrhls.com/zc4028/hls.m3u8"
@@ -31503,6 +31513,11 @@ var stations_c2c = {
             name: "JMJ Catholic Radio 750",
             logo: "stations/images-america/c2c/scranton_pa/JMJ Catholic Radio 750.png",
             url: "http://173.163.113.134:8000/stream"
+        },
+        {
+            name: "POP! 1280",
+            logo: "stations/images-america/c2c/scranton_pa/POP! 1280.png",
+            url: "https://ice64.securenetsystems.net/WHLMFM"
         },
         {
             name: "1550 WITK",
@@ -35969,6 +35984,11 @@ var stations_c2c = {
             name: "96X",
             logo: "stations/images-america/c2c/norfolk_va/96X.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WROXFMAAC_SC"
+        },
+        {
+            name: "Lucy 96.5",
+            logo: "stations/images-america/c2c/norfolk_va/Lucy 96.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTARAMAAC_SC"
         },
         {
             name: "97.3 The Eagle",
