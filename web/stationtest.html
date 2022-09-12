@@ -10,7 +10,9 @@
 <p>
     <button onclick="testStation()">Start</button>
     <button onclick="currentId++; testStation();">Manually go to next station</button>
-    (Green = Working, Yellow = Timeout, Red = Broken) | <span id="percentage"></span>% works.</p>
+    (Green = Working, Yellow = Timeout, Red = Broken) | <span id="percentage"></span>% works.
+    <button onclick="downloadCSV();">Export table as CSV</button>
+</p>
 <script src="lib/js/jquery-3.1.1.js"></script>
 <script src="lib/js/hls.js"></script>
 <!-- Behold the ugly fix to add both ATS and ETS2 stations: -->
@@ -22,15 +24,13 @@
 <script>
     stations = Object.assign(stationsEts, stations);
 </script>
-<table style="width: 100%" border="1">
+<table style="width: 100%" border="1" id="table">
     <thead>
     <tr>
         <th>Name</th>
         <th>URL</th>
-        <!--
-        <th>Error</th>
-        -->
-        <th width="50px">Geo</th>
+        <th>Country</th>
+        <th>Working</th>
     </tr>
     </thead>
     <tbody id="list">
@@ -60,16 +60,15 @@
             $("#list").append("<tr data-url='" + stations[key][i].url + "'>" +
                 "<td>" + stations[key][i].name + "</td>" +
                 "<td><a href='" + stations[key][i].url + "' target='_blank'>" + stations[key][i].url + "</a></td>" +
-                //"<td></td>" +
-                "<td>" +
-                "" +
-                "</td>");
+                "<td>" + key + "</td>" +
+                "<td></td>");
         }
     }
 
     $("#player").on("canplay", function (e) {
         if(ready) {
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "green");
+            $("#list>tr:nth-child(" + (currentId + 1) + ")>td:last-child").text("Yes");
             functioning++;
             showPercentage();
             if (currentId < $("#list>tr").length) {
@@ -84,6 +83,7 @@
         if(ready) {
             console.log(e.originalEvent.currentTarget.error);
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "red");
+            $("#list>tr:nth-child(" + (currentId + 1) + ")>td:last-child").text("No");
             nonfunctioning++;
             showPercentage();
             if (currentId < $("#list>tr").length) {
@@ -109,12 +109,19 @@
         var id = currentId;
 
         if (hls != null) {
-            hls.detachMedia();
+            hls.stopLoad();
+            hls.destroy();
+            hls = null;
         }
         hls = new Hls();
         var cleanUrl = url;
         if(url.indexOf("?") !== -1){
             cleanUrl = cleanUrl.split("?")[0];
+        }
+        if (cleanUrl.startsWith("https://atsradio.herokuapp.com/index.php?ats=")) {
+            $("#player").attr("crossorigin", "anonymous");
+        } else {
+            $("#player").removeAttr("crossorigin");
         }
         if (cleanUrl.endsWith("m3u8") || url.endsWith("m3u8")) {
             //If HLS, continue here
@@ -131,6 +138,7 @@
                 return;
             }
             $("#list>tr:nth-child(" + (currentId + 1) + ")").css("background-color", "yellow");
+            $("#list>tr:nth-child(" + (currentId + 1) + ")>td:last-child").text("Time-out");
             nonfunctioning++;
             showPercentage();
             if (currentId < $("#list>tr").length) {
@@ -139,6 +147,39 @@
                 testStation();
             }
         }, 15000);
+    }
+
+    // https://stackoverflow.com/questions/15547198/export-html-table-to-csv-using-vanilla-javascript
+    function downloadCSV() {
+        table_id = "table"
+        separator = ","
+        // Select rows from table_id
+        var rows = document.querySelectorAll('table#' + table_id + ' tr');
+        // Construct csv
+        var csv = [];
+        for (var i = 0; i < rows.length; i++) {
+            var row = [], cols = rows[i].querySelectorAll('td, th');
+            for (var j = 0; j < cols.length; j++) {
+                // Clean innertext to remove multiple spaces and jumpline (break csv)
+                var data = cols[j].innerText.replace(/(\r\n|\n|\r)/gm, '').replace(/(\s\s)/gm, ' ')
+                // Escape double-quote with double-double-quote (see https://stackoverflow.com/questions/17808511/properly-escape-a-double-quote-in-csv)
+                data = data.replace(/"/g, '""');
+                // Push escaped string
+                row.push('"' + data + '"');
+            }
+            csv.push(row.join(separator));
+        }
+        var csv_string = csv.join('\n');
+        // Download it
+        var filename = 'export_' + table_id + '_' + new Date().toLocaleDateString() + '.csv';
+        var link = document.createElement('a');
+        link.style.display = 'none';
+        link.setAttribute('target', '_blank');
+        link.setAttribute('href', 'data:text/csv;charset=utf-8,' + encodeURIComponent(csv_string));
+        link.setAttribute('download', filename);
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
     }
 </script>
 </body>

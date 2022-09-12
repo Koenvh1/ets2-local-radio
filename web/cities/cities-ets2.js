@@ -567,7 +567,7 @@ var country_properties = {
         name: "Türkiye",
         name_english: "Turkey",
         code: "tr",
-        relative_radius: 1.1,
+        relative_radius: 1.0,
     },
     "turkmenistan": {
         name: "Türkmenistan",
@@ -11188,6 +11188,138 @@ var cities_yksrsk = [
     }
 ];
 
+
+var cities_roextended_turkey = [
+    {
+        "gameName": "adana",
+        "realName": "Adana",
+        "country": "turkey",
+        "x": "110348",
+        "y": "75.0313",
+        "z": "64598.5"
+    },
+    {
+        "gameName": "afyonkarahisir",
+        "realName": "Afyonkarahisir",
+        "country": "turkey",
+        "x": "86341.8",
+        "y": "110.238",
+        "z": "59261.1"
+    },
+    {
+        "gameName": "antalya",
+        "realName": "Antalya",
+        "country": "turkey",
+        "x": "89110.1",
+        "y": "94.8008",
+        "z": "70171.3"
+    },
+    {
+        "gameName": "balikesir",
+        "realName": "Balikesir",
+        "country": "turkey",
+        "x": "73428.4",
+        "y": "80",
+        "z": "57320.3"
+    },
+    {
+        "gameName": "bodrum",
+        "realName": "Bodrum",
+        "country": "turkey",
+        "x": "72652.4",
+        "y": "265.008",
+        "z": "72995.4"
+    },
+    {
+        "gameName": "canakkale",
+        "realName": "Çanakkale",
+        "country": "turkey",
+        "x": "66800.1",
+        "y": "30.8948",
+        "z": "58027"
+    },
+    {
+        "gameName": "denizli",
+        "realName": "Denizli",
+        "country": "turkey",
+        "x": "80310.3",
+        "y": "125",
+        "z": "66906.4"
+    },
+    {
+        "gameName": "eskisehir",
+        "realName": "Eskisehir",
+        "country": "turkey",
+        "x": "84895.9",
+        "y": "128.77",
+        "z": "54483.9"
+    },
+    {
+        "gameName": "izmir",
+        "realName": "İzmir",
+        "country": "turkey",
+        "x": "71451.3",
+        "y": "80.1406",
+        "z": "64719"
+    },
+    {
+        "gameName": "kas",
+        "realName": "Kaş",
+        "country": "turkey",
+        "x": "85192.3",
+        "y": "86.0742",
+        "z": "75176.2"
+    },
+    {
+        "gameName": "kastamonu",
+        "realName": "Kastamonu",
+        "country": "turkey",
+        "x": "96470.9",
+        "y": "92.043",
+        "z": "42966"
+    },
+    {
+        "gameName": "konya",
+        "realName": "Konya",
+        "country": "turkey",
+        "x": "95971.4",
+        "y": "111.691",
+        "z": "63057"
+    },
+    {
+        "gameName": "samsun",
+        "realName": "Samsun",
+        "country": "turkey",
+        "x": "107297",
+        "y": "80",
+        "z": "39719.5"
+    },
+    {
+        "gameName": "silifke",
+        "realName": "Silifke",
+        "country": "turkey",
+        "x": "104684",
+        "y": "82.3789",
+        "z": "69625"
+    },
+    {
+        "gameName": "trabzon",
+        "realName": "Trabzon",
+        "country": "turkey",
+        "x": "121408",
+        "y": "70",
+        "z": "37133.9"
+    },
+    {
+        "gameName": "zonguldak",
+        "realName": "Zonguldak",
+        "country": "turkey",
+        "x": "88663.5",
+        "y": "102",
+        "z": "44084.4"
+    },
+];
+
 var cities_romania_extended = [
     {
         "gameName": "alba",
@@ -11904,6 +12036,7 @@ cities = cities.concat(cities_rsm); //Red Sea Map
 cities = cities.concat(cities_vm); //Volga Map
 cities = cities.concat(cities_sm); //Sibir Map
 cities = cities.concat(cities_vvm); //Viva Malta
+cities = cities.concat(cities_roextended_turkey); //RoExtended Turkey (v2.8)
 //Uncomment the lines below to activate support for Project Balkans/Open Spaces/YKS Turkey:
 //cities = cities.concat(cities_projects_balkans); //Project Balkans
 //cities = cities.concat(cities_open_spaces); //Open Spaces
