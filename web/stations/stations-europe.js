@@ -4421,7 +4421,7 @@ var stations = {
         {
             name: "Rádio Slovensko",
             logo: "stations/images-europe/slovakia/Rádio Slovensko.png",
-            url: "http://live.slovakradio.sk:8000/Slovensko_256.mp3"
+            url: "https://icecast.stv.livebox.sk/slovensko_128.mp3"
         },
         {
             name: "Rádio Devin",
