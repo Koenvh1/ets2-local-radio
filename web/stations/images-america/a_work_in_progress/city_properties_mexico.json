@@ -223,9 +223,11 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "loreto": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "los_barriles": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "los_mochis": {

@@ -1519,3 +1519,52 @@ var stations_mexico = {
             url: "https://ssl.sigmaradio.stream:9010/;"
         },
     ],
+    "la_paz": [
+        {
+            name: "Alegría Mexicana 90.1",
+            logo: "stations/images-america/mexico/la_paz/Alegría Mexicana 90.1.png",
+            url: "http://www.alegriamexicana.com:8080/alegriamexicana"
+        },
+        {
+            name: "Radiante FM 91.1",
+            logo: "stations/images-america/mexico/la_paz/Radiante FM 91.1.png",
+            url: "https://streamingcwsradio30.com:7035/;"
+        },
+        {
+            name: "Digimix 95",
+            logo: "stations/images-america/mexico/la_paz/Digimix 95.png",
+            url: "http://www.digimix95.com:8080/digimix95"
+        },
+        {
+            name: "Super Stereo 96",
+            logo: "stations/images-america/mexico/la_paz/Super Stereo 96.png",
+            url: "http://superstereo96.com:8080/superstereo96"
+        },	
+        {
+            name: "Radio Fórmula 97.5",
+            logo: "stations/images-america/mexico/la_paz/Radio Fórmula 97.5.png",
+            url: "https://stream.radiojar.com/n9nz7y4n3p8uv"
+        },
+        {
+            name: "La Radio de Sudcalifornia 99.1",
+            logo: "stations/images-america/mexico/0_general_logos/La Radio de Sudcalifornia.png",
+            url: "https://stream.zeno.fm/z4yhsevc998uv"
+        },
+        {
+            name: "Estereo Romance 100.7",
+            logo: "stations/images-america/mexico/la_paz/Estereo Romance 100.7.png",
+            url: "http://www.estereoromance.com:8080/estromance"
+        },
+        {
+            name: "Radio 990",
+            logo: "stations/images-america/mexico/la_paz/Radio 990.png",
+            url: "http://www.xehz.com:8080/xehz"
+        },
+    ],
+    "loreto": [
+        {
+            name: "Radio La Giganta 730",
+            logo: "stations/images-america/mexico/loreto/Radio La Giganta 730.png",
+            url: "http://www.radiolagiganta.com:8080/radiolagiganta"
+        },
+    ],
