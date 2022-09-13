@@ -600,9 +600,17 @@ var cities_mexico = [
       "z": "42157.5"
     },
     {
+      "gameName": "magdalenak",
+      "realName": "Magdalena de Kino",
+      "country": "h_nogales",
+      "x": "-75137.9",
+      "y": "109.477",
+      "z": "42157.5"
+    },
+    {
       "gameName": "maiz",
       "realName": "Ciudad del Maíz",
-      "country": "maiz",
+      "country": "rioverde",
       "x": "-19190.1",
       "y": "123",
       "z": "95666.4"

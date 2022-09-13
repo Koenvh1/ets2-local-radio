@@ -234,9 +234,11 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "magdalenak": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "maiz": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "mapimi": {

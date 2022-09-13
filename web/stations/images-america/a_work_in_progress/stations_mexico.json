@@ -530,28 +530,6 @@ var stations_mexico = {
             url: "https://radios.inpi.gob.mx:8080/xeetch"
         },	
     ],
-    "matehuala": [
-        {
-            name: "La Norteña 89.3",
-            logo: "stations/images-america/mexico/matehuala/La Norteña 89.3.png",
-            url: "https://stream9.mexiserver.com/8206/stream:8206/stream"
-        },
-        {
-            name: "Vive FM 96.5",
-            logo: "stations/images-america/mexico/matehuala/Vive FM 96.5.png",
-            url: "http://s2.mexside.net:8112/stream"
-        },
-        {
-            name: "La Poderosa 96.9",
-            logo: "stations/images-america/mexico/matehuala/La Poderosa 96.9.png",
-            url: "https://stream9.mexiserver.com:7105/;"
-        },
-        {
-            name: "Oye 105.5",
-            logo: "stations/images-america/mexico/matehuala/Oye 105.5.png",
-            url: "https://stream9.mexiserver.com:8136/stream/1/"
-        },
-    ],
     "chihuahua": [
         {
             name: "88.5 @FM",
@@ -754,9 +732,9 @@ var stations_mexico = {
             url: "https://stream5.mexiserver.com:1123/stream"
         },
         {
-            name: "Vibra Radio 96.9",
-            logo: "stations/images-america/mexico/culiacan/Vibra Radio 96.9.png",
-            url: "http://192.99.16.17:8172/stream/;"
+            name: "Vibra 96.9",
+            logo: "stations/images-america/mexico/0_general_logos/Vibra.png",
+            url: "https://sp2.servidorrprivado.com:10859/stream"
         },
         {
             name: "W Radio 97.7",
@@ -1566,5 +1544,230 @@ var stations_mexico = {
             name: "Radio La Giganta 730",
             logo: "stations/images-america/mexico/loreto/Radio La Giganta 730.png",
             url: "http://www.radiolagiganta.com:8080/radiolagiganta"
+        },
+    ],
+    "los_mochis": [
+        {
+            name: "La Interesante de Los Mochis 88.5",
+            logo: "stations/images-america/mexico/los_mochis/La Interesante de Los Mochis 88.5.png",
+            url: "https://intemochis-megacaster.radioca.st/stream"
+        },
+        {
+            name: "Radio UAdeO 89.3",
+            logo: "stations/images-america/mexico/los_mochis/Radio UAdeO 89.3.png",
+            url: "https://xhudo-megacaster.radioca.st/stream"
+        },
+        {
+            name: "La Ke Buena 90.1",
+            logo: "stations/images-america/mexico/los_mochis/La Ke Buena 90.1.png",
+            url: "https://stream.zeno.fm/5t4ngp8hfphvv"
+        },
+        {
+            name: "La Mejor 90.9",
+            logo: "stations/images-america/mexico/los_mochis/La Mejor 90.9.png",
+            url: "https://sp3.servidorrprivado.com:10929/stream"
+        },
+        {
+            name: "La Mejor 90.9",
+            logo: "stations/images-america/mexico/los_mochis/La Mejor 90.9.png",
+            url: "https://sp3.servidorrprivado.com:10929/stream"
+        },
+        {
+            name: "Radio Sinaloa 92.5",
+            logo: "stations/images-america/mexico/culiacan/Radio Sinaloa 94.5.png",
+            url: "http://192.99.16.17:8170/stream/;"
+        },
+        {
+            name: "La Mexicana 93.3",
+            logo: "stations/images-america/mexico/los_mochis/La Mexicana 93.3.png",
+            url: "http://167.114.116.223:1044/;stream.mp3"
+        },
+        {
+            name: "Los 40 94.1",
+            logo: "stations/images-america/mexico/los_mochis/Los 40 94.1.png",
+            url: "https://stream.zeno.fm/3z6w5h8hfphvv"
+        },
+        {
+            name: "La Z 96.5",
+            logo: "stations/images-america/mexico/los_mochis/La Z 96.5.png",
+            url: "http://c2009.streamguys1.com/Mochis1"
+        },
+        {
+            name: "Lobos FM 97.3",
+            logo: "stations/images-america/mexico/los_mochis/Lobos FM 97.3.png",
+            url: "http://streamingcwsradio20.com:9418/;"
+        },
+        {
+            name: "exa 98.9",
+            logo: "stations/images-america/mexico/los_mochis/exa 98.9.png",
+            url: "https://sp2.servidorrprivado.com:10858/stream"
+        },
+        {
+            name: "Planeta 99.7",
+            logo: "stations/images-america/mexico/los_mochis/Planeta 99.7.png",
+            url: "http://c2009.streamguys1.com/Mochis4"
+        },
+        {
+            name: "Radio 65 100.5",
+            logo: "stations/images-america/mexico/los_mochis/Radio 65 100.5.png",
+            url: "http://grupochavezradio.ddns.net:8001/r65"
+        },
+        {
+            name: "Stereo Uno 101.3",
+            logo: "stations/images-america/mexico/los_mochis/Stereo Uno 101.3.png",
+            url: "https://audiostreaming.luz.network/;"
+        },
+        {
+            name: "Vintage 100.3-HD2",
+            logo: "stations/images-america/mexico/los_mochis/Vintage 100.3-HD2.png",
+            url: "https://audiostreaming.luz.network/stream/2/;"
+        },
+        {
+            name: "Siempre 100.3-HD3",
+            logo: "stations/images-america/mexico/los_mochis/Siempre 100.3-HD3.png",
+            url: "https://audiostreaming.luz.network/stream/3/;"
+        },
+        {
+            name: "La Maxi 102.5",
+            logo: "stations/images-america/mexico/los_mochis/La Maxi 102.5.png",
+            url: "http://grupochavezradio.ddns.net:8001/kb"
+        },
+        {
+            name: "Radio Variedades 103.5",
+            logo: "stations/images-america/mexico/los_mochis/Radio Variedades 103.5.png",
+            url: "http://c2009.streamguys1.com/Mochis3"
+        },
+        {
+            name: "Vibra 104.3",
+            logo: "stations/images-america/mexico/0_general_logos/Vibra.png",
+            url: "https://sp3.servidorrprivado.com:10828/stream"
+        },
+    ],
+    "magdalenak": [
+        {
+            name: "KY 90.7",
+            logo: "stations/images-america/mexico/magdalenak/KY 90.7.png",
+            url: "https://ss1.audiorama.com.mx:6620/;"
+        },
+        {
+            name: "Radio Sonora 95.5",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Sonora.png",
+            url: "https://s5.mexside.net:2150/stream/1/"
+        },
+    ],
+    "mapimi": [
+        {
+            name: "No stations in this area",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: "No stations in this area"
+        },
+    ],
+    "matehuala": [
+        {
+            name: "La Norteña 89.3",
+            logo: "stations/images-america/mexico/matehuala/La Norteña 89.3.png",
+            url: "https://stream9.mexiserver.com/8206/stream:8206/stream"
+        },
+        {
+            name: "Vive FM 96.5",
+            logo: "stations/images-america/mexico/matehuala/Vive FM 96.5.png",
+            url: "http://s2.mexside.net:8112/stream"
+        },
+        {
+            name: "La Poderosa 96.9",
+            logo: "stations/images-america/mexico/matehuala/La Poderosa 96.9.png",
+            url: "https://stream9.mexiserver.com:7105/;"
+        },
+        {
+            name: "Oye 105.5",
+            logo: "stations/images-america/mexico/matehuala/Oye 105.5.png",
+            url: "https://stream9.mexiserver.com:8136/stream/1/"
+        },
+    ],
+    "mazatlan": [
+        {
+            name: "Switch 88.9",
+            logo: "stations/images-america/mexico/mazatlan/Switch 88.9.png",
+            url: "https://stream9.mexiserver.com/8206/stream:8206/stream"
+        },
+        {
+            name: "exa 89.7",
+            logo: "stations/images-america/mexico/mazatlan/exa 89.7.png",
+            url: "https://icy.gvstream.live/gpm-exa897.mp3"
+        },
+        {
+            name: "Radio Fórmula 91.3",
+            logo: "stations/images-america/mexico/mazatlan/Radio Fórmula 91.3.png",
+            url: "https://stream.radiojar.com/z86v178e3p8uv"
+        },
+        {
+            name: "La Lupe 92.1",
+            logo: "stations/images-america/mexico/mazatlan/La Lupe 92.1.png",
+            url: "https://streaming.multimedios.com/station"
+        },
+        {
+            name: "Studio 93.1",
+            logo: "stations/images-america/mexico/mazatlan/Studio 93.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMZTFMAAC_SC"
+        },	
+        {
+            name: "Ke Buena 94.7",
+            logo: "stations/images-america/mexico/mazatlan/Ke Buena 94.7.png",
+            url: "https://stream.zeno.fm/vhebfx7hfphvv"
+        },
+        {
+            name: "Magia Digital 97.1",
+            logo: "stations/images-america/mexico/mazatlan/Magia Digital 97.1.png",
+            url: "https://tv.radiohosting.online:8110/stream"
+        },	
+        {
+            name: "FM Globo 97.9",
+            logo: "stations/images-america/mexico/mazatlan/FM Globo 97.9.png",
+            url: "https://sp2.servidorrprivado.com:10861/stream"
+        },
+        {
+            name: "FM Globo 97.9",
+            logo: "stations/images-america/mexico/mazatlan/FM Globo 97.9.png",
+            url: "https://sp2.servidorrprivado.com:10861/stream"
+        },
+        {
+            name: "Radio Cañón 98.7",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Cañón.png",
+            url: "http://201.netromedia.com/radiocanonhls/radiocanonhls/playlist.m3u8"
+        },
+        {
+            name: "Vibra 99.5",
+            logo: "stations/images-america/mexico/0_general_logos/Vibra.png",
+            url: "https://sp3.servidorrprivado.com:10827/stream"
+        },
+        {
+            name: "XHZS 100.3",
+            logo: "stations/images-america/mexico/los_mochis/Stereo Uno 101.3.png",
+            url: "https://audiostreaming.luz.network/;"
+        },
+        {
+            name: "La Mejor 102.7",
+            logo: "stations/images-america/mexico/mazatlan/La Mejor 102.7.png",
+            url: "https://sp3.servidorrprivado.com:10968/stream"
+        },
+        {
+            name: "XHSPRM 103.5",
+            logo: "stations/images-america/mexico/mazatlan/Reactor.png",
+            url: "https://s2.mexside.net/8002/stream"
+        },
+        {
+            name: "La Más Buena 104.3",
+            logo: "stations/images-america/mexico/mazatlan/La Más Buena 104.3.png",
+            url: "https://streaming.servicioswebmx.com/8278/stream/1/"
+        },	
+        {
+            name: "La RJ 105.1",
+            logo: "stations/images-america/mexico/mazatlan/La RJ 105.1.png",
+            url: "https://hls.gvstream.live/gpm/rj.stream/playlist.m3u8"
+        },
+        {
+            name: "Lobos FM 106.7",
+            logo: "stations/images-america/mexico/mazatlan/Lobos FM 106.7.png",
+            url: "http://streamingcwsradio10.com:9304/;"
         },
     ],
