@@ -666,7 +666,7 @@ var cities_mexico = [
     {
       "gameName": "moctezumaslp",
       "realName": "Moctezuma",
-      "country": "moctezumaslp",
+      "country": "sanluisp",
       "x": "-27109.6",
       "y": "117.059",
       "z": "92962.3"
@@ -683,6 +683,14 @@ var cities_mexico = [
       "gameName": "navojoa",
       "realName": "Navojoa",
       "country": "navojoa",
+      "x": "-68552.6",
+      "y": "50.0195",
+      "z": "64116.6"
+    },
+    {
+      "gameName": "navojoa",
+      "realName": "Navojoa",
+      "country": "cd_obregon",
       "x": "-68552.6",
       "y": "50.0195",
       "z": "64116.6"

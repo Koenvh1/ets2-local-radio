@@ -32818,6 +32818,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/direct/forevercomm-wogyfmaac-ibc4"
         },
         {
+            name: "La Poderosa 105.3",
+            logo: "stations/images-america/c2c/jackson_tn/La Poderosa 105.3.png",
+            url: "https://us2.maindigitalstream.com/ssl/WTJK"
+        },
+        {
             name: "WYN 106.9",
             logo: "stations/images-america/c2c/jackson_tn/WYN 106.9.png",
             url: "http://ice23.securenetsystems.net/WWYN"

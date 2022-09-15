@@ -260,12 +260,14 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "moctezumaslp": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "nacozari": {
         relative_whitenoise: 0.85
     },
     "navojoa": {
+        relative_radius: 0.5
         relative_whitenoise: 0.85
     },
     "nvo_casas": {
