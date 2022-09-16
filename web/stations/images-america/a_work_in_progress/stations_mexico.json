@@ -738,7 +738,7 @@ var stations_mexico = {
         },
         {
             name: "W Radio 97.7",
-            logo: "stations/images-america/mexico/culiacan/W Radio 97.7.png",
+            logo: "stations/images-america/mexico/0_general_logos/W Radio.png",
             url: "https://stream.zeno.fm/g0t0mx3xbphvv"
         },
         {
@@ -902,7 +902,7 @@ var stations_mexico = {
         },
         {
             name: "W Radio 100.9",
-            logo: "stations/images-america/mexico/ebano/W Radio 100.9.png",
+            logo: "stations/images-america/mexico/0_general_logos/W Radio.png",
             url: "https://radio.grupoas.stream:5507/stream"
         },	
         {
@@ -1935,4 +1935,88 @@ var stations_mexico = {
             logo: "stations/images-america/mexico/navojoa/La Nuestra 1270.png",
             url: "https://s5.mexside.net:8018/stream"
         },	
+    ],
+    "nvo_casas": [
+        {
+            name: "La Ranchera de Paquimé 90.5",
+            logo: "stations/images-america/mexico/nvo_casas/La Ranchera de Paquimé.png",
+            url: "https://stream.zeno.fm/6syzgc5xa84tv"
+        },
+        {
+            name: "Stereo Digital 104.9",
+            logo: "stations/images-america/mexico/nvo_casas/Stereo Digital 104.9.png",
+            url: "https://stream.zenolive.com/a6mbde9ub84tv"
+        },
+    ],
+    "nvo_vallarta": [
+        {
+            name: "Match 89.5",
+            logo: "stations/images-america/mexico/nvo_vallarta/Match 89.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMEFMAAC_SC"
+        },
+        {
+            name: "W Radio 104.9",
+            logo: "stations/images-america/mexico/0_general_logos/W Radio.png",
+            url: "https://playradio.mx/proxy/wvallarta?mp=/stream"
+        },
+        {
+            name: "Los 40 91.1",
+            logo: "stations/images-america/mexico/nvo_vallarta/Los 40 91.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VALLARTAAAC_SC"
+        },
+        {
+            name: "MIX 92.7",
+            logo: "stations/images-america/mexico/nvo_vallarta/MIX 92.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVAYFMAAC_SC"
+        },
+        {
+            name: "La Patrona 93.5",
+            logo: "stations/images-america/mexico/nvo_vallarta/La Patrona 93.5.png",
+            url: "https://www.radiohosting.online/stream/?puerto=9774"
+        },	
+        {
+            name: "La Poderosa 94.3",
+            logo: "stations/images-america/mexico/nvo_vallarta/La Poderosa 94.3.png",
+            url: "http://5.79.86.14:8286/stream"
+        },
+        {
+            name: "La Poderosa 94.3",
+            logo: "stations/images-america/mexico/nvo_vallarta/La Poderosa 94.3.png",
+            url: "http://5.79.86.14:8286/stream"
+        },
+        {
+            name: "Ke Buena 95.9",
+            logo: "stations/images-america/mexico/nvo_vallarta/Ke Buena 95.9.png",
+            url: "https://cdn.digitalradio.mx/radio/8360/XHCJU"
+        },
+        {
+            name: "Radiante FM 98.3",
+            logo: "stations/images-america/mexico/nvo_vallarta/Radiante FM 98.3.png",
+            url: "https://streamingcwsradio30.com:7034/;"
+        },	
+        {
+            name: "La Mejor 99.9",
+            logo: "stations/images-america/mexico/nvo_vallarta/La Mejor 99.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJXAAC_SC"
+        },
+        {
+            name: "Radio María México 100.7",
+            logo: "stations/images-america/mexico/0_general_logos/Radio María México.png",
+            url: "https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream"
+        },
+        {
+            name: "Radio UdeG 104.3",
+            logo: "stations/images-america/mexico/nvo_vallarta/Radio UdeG 104.3.png",
+            url: "https://stream.zeno.fm/6mm85mmh6ehvv"
+        },
+        {
+            name: "Oreja 105.1",
+            logo: "stations/images-america/mexico/nvo_vallarta/Oreja 105.1.png",
+            url: "https://server3.sit-mexico.com:2199/proxy/orejapvj?mp=/stream"
+        }, 
+        {
+            name: "Lokura 105.9",
+            logo: "stations/images-america/mexico/nvo_vallarta/Lokura 105.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGAIAAC_SC"
+        },
     ],
