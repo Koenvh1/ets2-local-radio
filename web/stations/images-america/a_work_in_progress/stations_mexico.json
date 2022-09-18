@@ -1853,6 +1853,11 @@ var stations_mexico = {
             url: "https://stream.zeno.fm/25a0y7s5dkhvv"
         },
         {
+            name: "La GranD 1050",
+            logo: "stations/images-america/mexico/mexicali/La GranD 1050.png",
+            url: "https://stream.zeno.fm/9bxuxcuv538uv"
+        },
+        {
             name: "Vida 1370",
             logo: "stations/images-america/mexico/mexicali/Vida 1370.png",
             url: "https://streamssl.eu:2224/;stream"
@@ -2018,5 +2023,105 @@ var stations_mexico = {
             name: "Lokura 105.9",
             logo: "stations/images-america/mexico/nvo_vallarta/Lokura 105.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGAIAAC_SC"
+        },
+    ],
+    "ojinaga": [
+        {
+            name: "Marfa Public Radio 95.3",
+            logo: "stations/images-america/c2c/midland_tx/KXWT 91.3.png",
+            url: "http://marfapr-ice.streamguys1.com/krts"
+        },
+        {
+            name: "Estéreo Romance 100.1",
+            logo: "stations/images-america/mexico/ojinaga/Estéreo Romance 100.1.png",
+            url: "https://stream.zeno.fm/8nfp7m8ub84tv"
+        },
+        {
+            name: "La Poderosa 100.9",
+            logo: "stations/images-america/mexico/ojinaga/La Poderosa 100.9.png",
+            url: "https://stream.zeno.fm/sugfd4mza84tv"
+        },
+        {
+            name: "La Primera 101.7",
+            logo: "stations/images-america/mexico/ojinaga/La Primera 101.7.png",
+            url: "https://stream.zeno.fm/g0fffb5ub84tv"
+        },
+        {
+            name: "La Ley 102.5",
+            logo: "stations/images-america/mexico/ojinaga/La Ley 102.5.png",
+            url: "http://162.212.56.146:9392/;"
+        },
+    ],
+    "parral": [
+        {
+            name: "La Poderosa 90.3",
+            logo: "stations/images-america/mexico/parral/La Poderosa 90.3.png",
+            url: "https://stream.zeno.fm/dq8pbmz20a0uv"
+        },
+        {
+            name: "Éxtasis Digital 94.9",
+            logo: "stations/images-america/mexico/parral/Éxtasis Digital 94.9.png",
+            url: "https://stream.zeno.fm/fa29nyyv538uv"
+        },
+        {
+            name: "La Tremenda 96.9",
+            logo: "stations/images-america/mexico/parral/La Tremenda 96.9.png",
+            url: "https://radio.latremenda.com.mx/Parral"
+        },
+        {
+            name: "La Capital 98.5",
+            logo: "stations/images-america/mexico/parral/La Capital 98.5.png",
+            url: "https://stream.zeno.fm/q5ed7t1xa84tv"
+        },
+        {
+            name: "Magica 100.1",
+            logo: "stations/images-america/mexico/parral/Magica 100.1.png",
+            url: "https://secure.radiorama.mx:2042/"
+        },	
+        {
+            name: "La Lupe 101.7",
+            logo: "stations/images-america/mexico/parral/La Lupe 101.7.png",
+            url: "https://streaming.multimedios.com/station3"
+        },	
+        {
+            name: "La Más Picuda 104.7",
+            logo: "stations/images-america/mexico/parral/La Más Picuda 104.7.png",
+            url: "https://stream.zeno.fm/p45k5uz5dkhvv"
+        },
+        {
+            name: "Radio Familia 107.9",
+            logo: "stations/images-america/mexico/parral/Radio Familia 107.9.png",
+            url: "https://radiofamilia1.radioca.st/stream"
+        },
+    ],
+    "puerto_pena": [
+        {
+            name: "Súper 93.5",
+            logo: "stations/images-america/mexico/puerto_pena/Súper 93.5.png",
+            url: "https://ss1.audiorama.com.mx:6662/;stream"
+        },
+        {
+            name: "La Bestia Grupera 96.5",
+            logo: "stations/images-america/mexico/parral/La Bestia Grupera 96.5.png",
+            url: "https://ss1.audiorama.com.mx:6664/;stream"
+        },
+        {
+            name: "Radio Sonora 105.3",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Sonora.png",
+            url: "https://s5.mexside.net:2150/stream/1/"
+        },
+    ],
+    "punta_prie": [
+        {
+            name: "Radio Asunción 95.7",
+            logo: "stations/images-america/mexico/punta_prie/Radio Asunción 95.7.png",
+            url: "https://cast1.asurahosting.com/proxy/cesaraug/stream"
+        },
+    ],
+    "rcatorce":[
+        {
+            name: "No stations in this area",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: "No stations in this area"
         },
     ],

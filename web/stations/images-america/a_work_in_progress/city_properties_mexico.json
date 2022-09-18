@@ -267,7 +267,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "navojoa": {
-        relative_radius: 0.5
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "nvo_casas": {
@@ -280,21 +280,25 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "ojuelos": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "parral": {
         relative_whitenoise: 0.85
     },
     "pinos": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "puerto_pena": {
         relative_whitenoise: 0.85
     },
     "puerto_sanc": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "punta_abreo": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "punta_prie": {

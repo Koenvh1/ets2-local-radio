@@ -47,9 +47,9 @@ var country_properties_mexico = {
         code: "mx-chh",
         relative_radius: 0.5
     },
-    "bahia_tortu": {
-        name: "Bahía Tortugas",
-        name_english: "Bahía Tortugas",
+    "baja_cali_sur": {
+        name: "Baja California Sur",
+        name_english: "Baja California Sur",
         code: "mx-bcs",
         relative_radius: 0.5
     },

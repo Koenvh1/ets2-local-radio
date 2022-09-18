@@ -64,9 +64,9 @@ var cities_mexico = [
       "z": "42160.6"
     },
     {
-      "gameName": "bahia_tortu",
-      "realName": "Bahía Tortugas",
-      "country": "bahia_tortu",
+      "gameName": "baja_cali_sur",
+      "realName": "Baja California Sur",
+      "country": "baja_cali_sur",
       "x": "-95133.8",
       "y": "134.258",
       "z": "54741.5"
@@ -170,7 +170,7 @@ var cities_mexico = [
     {
       "gameName": "cd_constit",
       "realName": "Ciudad Constitución",
-      "country": "bahia_tortu",
+      "country": "baja_cali_sur",
       "x": "-81092.8",
       "y": "52.4023",
       "z": "73674.7"
@@ -186,7 +186,7 @@ var cities_mexico = [
     {
       "gameName": "cd_insurgen",
       "realName": "Ciudad Insurgentes",
-      "country": "bahia_tortu",
+      "country": "baja_cali_sur",
       "x": "-81605.8",
       "y": "52.168",
       "z": "71951.1"
@@ -450,7 +450,7 @@ var cities_mexico = [
     {
       "gameName": "guerrero_ne",
       "realName": "Guerrero Negro",
-      "country": "bahia_tortu",
+      "country": "baja_cali_sur",
       "x": "-90866.2",
       "y": "79.3672",
       "z": "54339.1"
@@ -570,7 +570,7 @@ var cities_mexico = [
     {
       "gameName": "loreto",
       "realName": "Loreto",
-      "country": "bahia_tortu",
+      "country": "baja_cali_sur",
       "x": "-78850.3",
       "y": "50",
       "z": "68185.9"
@@ -722,7 +722,7 @@ var cities_mexico = [
     {
       "gameName": "ojuelos",
       "realName": "Ojuelos",
-      "country": "ojuelos",
+      "country": "sanluisp",
       "x": "-30366.1",
       "y": "180",
       "z": "97724.8"
@@ -738,7 +738,7 @@ var cities_mexico = [
     {
       "gameName": "pinos",
       "realName": "Pinos",
-      "country": "pinos",
+      "country": "sanluisp",
       "x": "-29029.3",
       "y": "144.211",
       "z": "94768.1"
@@ -754,7 +754,7 @@ var cities_mexico = [
     {
       "gameName": "puerto_sanc",
       "realName": "Puerto San Carlos",
-      "country": "puerto_sanc",
+      "country": "baja_cali_sur",
       "x": "-84728.6",
       "y": "50.875",
       "z": "75038"
@@ -762,7 +762,7 @@ var cities_mexico = [
     {
       "gameName": "punta_abreo",
       "realName": "Punta Abreojos",
-      "country": "punta_abreo",
+      "country": "baja_cali_sur",
       "x": "-89163.6",
       "y": "54.3359",
       "z": "61505.1"

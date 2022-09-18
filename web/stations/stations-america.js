@@ -35067,6 +35067,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ktfmhd2aac-ibc4"
         },
         {
+            name: "Amor 95.1",
+            logo: "stations/images-america/c2c/sanantonio_tx/Amor 95.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kmyofmaac-imc2"
+        },
+        {
             name: "Tejano 95.7",
             logo: "stations/images-america/c2c/sanantonio_tx/Tejano 95.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kleyfmaac-ibc4"
