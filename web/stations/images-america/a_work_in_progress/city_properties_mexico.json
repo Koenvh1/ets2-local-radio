@@ -320,12 +320,15 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "sanluisrc": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "santa_ana": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "santa_rosa": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "santiagopap": {
@@ -344,6 +347,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "stamariar": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "tamasopo": {

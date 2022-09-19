@@ -2128,7 +2128,7 @@ var stations_mexico = {
     "riogrande":[
         {
             name: "La Bonita del Norte 92.7",
-            logo: "stations/images-america/mexico/riogrande/La Bonita del Norte 92.7.png",
+            logo: "stations/images-america/mexico/0_general_logos/La Bonita del Norte.png",
             url: "http://192.187.112.50:8220/;"
         },
         {
@@ -2296,5 +2296,67 @@ var stations_mexico = {
             name: "Radio Universidad 1190",
             logo: "stations/images-america/mexico/sanluisp/Radio y Televisión UASLP.png",
             url: "http://transmisiones.uaslp.mx:8000/radioam.mp3"
+        },
+    ],
+    "sanluisrc":[
+        {
+            name: "Radio Sonora 88.5",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Sonora.png",
+            url: "https://s5.mexside.net:2150/stream/1/"
+        },
+        {
+            name: "91.1 Rio Digital",
+            logo: "stations/images-america/mexico/sanluisrc/91.1 Rio Digital.png",
+            url: "http://live.str3am.com:3110/;"
+        },
+        {
+            name: "Radio Ranchito 107.1",
+            logo: "stations/images-america/mexico/sanluisrc/Radio Ranchito 107.1.png",
+            url: "http://live.str3am.com:3060/;"
+        },
+    ],
+    "santiagopap":[
+        {
+            name: "La Tremenda 89.3",
+            logo: "stations/images-america/mexico/santiagopap/La Tremenda 89.3.png",
+            url: "https://radio.latremenda.com.mx/Santiago"
+        },
+    ],
+    "san_felipe":[
+        {
+            name: "No stations in this area",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: "No stations in this area"
+        },
+    ],
+    "sombre":[
+        {
+            name: "La Bonita del Norte 90.7",
+            logo: "stations/images-america/mexico/0_general_logos/La Bonita del Norte.png",
+            url: "http://192.187.112.50:8238/stream"
+        },
+        {
+            name: "Radio Cañón 92.3",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Cañón.png",
+            url: "http://201.netromedia.com/radiocanonhls/radiocanonhls/playlist.m3u8"
+        },
+    ],
+    "sonoyta":[
+        {
+            name: "Radio Sonora 88.9",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Sonora.png",
+            url: "https://s5.mexside.net:2150/stream/1/"
+        },
+        {
+            name: "La Bestia Grupera 96.5",
+            logo: "stations/images-america/mexico/sonoyta/La Bestia Grupera 96.5.png",
+            url: "https://ss1.audiorama.com.mx:6664/;stream"
+        },
+    ],
+    "stamaoro":[
+        {
+            name: "No stations in this area",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: "No stations in this area"
         },
     ],

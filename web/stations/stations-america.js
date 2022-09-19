@@ -1060,8 +1060,8 @@ var stations = {
             url: "https://desertmountainbroadcasting.streamguys1.com/KRZN"
         },
         {
-            name: "97.1 KISS FM",
-            logo: "stations/images-america/billings/97.1 KISS FM.png",
+            name: "Mix 97.1",
+            logo: "stations/images-america/billings/Mix 97.1.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kkbrfmaac-ibc3"
         },
         {

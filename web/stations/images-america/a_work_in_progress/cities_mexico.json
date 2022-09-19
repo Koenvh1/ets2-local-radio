@@ -824,9 +824,25 @@ var cities_mexico = [
       "z": "30702.9"
     },
     {
+      "gameName": "sanluisrc",
+      "realName": "San Luis Río Colorado",
+      "country": "mexicali",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
+    },
+    {
+      "gameName": "sanluisrc",
+      "realName": "San Luis Río Colorado",
+      "country": "yuma",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
+    },
+    {
       "gameName": "santa_ana",
       "realName": "Santa Ana",
-      "country": "santa_ana",
+      "country": "cd_obregon",
       "x": "-77887.8",
       "y": "91.8164",
       "z": "41657.6"
@@ -834,7 +850,7 @@ var cities_mexico = [
     {
       "gameName": "santa_rosa",
       "realName": "Santa Rosalía",
-      "country": "santa_rosa",
+      "country": "baja_cali_sur",
       "x": "-81985",
       "y": "55.4961",
       "z": "59817"
@@ -882,7 +898,7 @@ var cities_mexico = [
     {
       "gameName": "stamariar",
       "realName": "Santa María del Rio",
-      "country": "stamariar",
+      "country": "sanluisp",
       "x": "-25493.9",
       "y": "103.008",
       "z": "99220.6"
