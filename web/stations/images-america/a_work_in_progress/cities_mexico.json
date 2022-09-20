@@ -906,7 +906,7 @@ var cities_mexico = [
     {
       "gameName": "tamasopo",
       "realName": "Tamasopo",
-      "country": "tamasopo",
+      "country": "valles",
       "x": "-17129.8",
       "y": "66.2773",
       "z": "97746.8"
@@ -914,7 +914,7 @@ var cities_mexico = [
     {
       "gameName": "tamazula",
       "realName": "Tamazula",
-      "country": "tamazula",
+      "country": "culiacan",
       "x": "-55266.3",
       "y": "46.8047",
       "z": "78948.5"
@@ -930,7 +930,7 @@ var cities_mexico = [
     {
       "gameName": "tamuin",
       "realName": "Tamuín",
-      "country": "tamuin",
+      "country": "ebano",
       "x": "-14025.1",
       "y": "95.7031",
       "z": "97681.2"
@@ -938,7 +938,7 @@ var cities_mexico = [
     {
       "gameName": "tecuala",
       "realName": "Tecuala",
-      "country": "tecuala",
+      "country": "acaponeta",
       "x": "-51019.6",
       "y": "61.0508",
       "z": "93164.7"
@@ -954,10 +954,10 @@ var cities_mexico = [
     {
       "gameName": "tijuana",
       "realName": "Tijuana",
-      "country": "tijuana",
-      "x": "-99089.5",
-      "y": "49.6758",
-      "z": "26252.4"
+      "country": "san_diego",
+      "x": "-99184.2",
+      "y": "49.7773",
+      "z": "27196.8"
     },
     {
       "gameName": "tlalte",
@@ -1002,7 +1002,7 @@ var cities_mexico = [
     {
       "gameName": "venegas",
       "realName": "Vanegas",
-      "country": "venegas",
+      "country": "matehuala",
       "x": "-26572.9",
       "y": "119.891",
       "z": "85806.8"
@@ -1010,7 +1010,7 @@ var cities_mexico = [
     {
       "gameName": "vicentegro",
       "realName": "Vicente Guerrero",
-      "country": "vicentegro",
+      "country": "vdurango",
       "x": "-41965.1",
       "y": "25.7305",
       "z": "85626.1"
@@ -1018,7 +1018,7 @@ var cities_mexico = [
     {
       "gameName": "villanueva",
       "realName": "Villanueva",
-      "country": "villanueva",
+      "country": "zacatecas",
       "x": "-36782.9",
       "y": "151.527",
       "z": "95035"
@@ -1026,7 +1026,7 @@ var cities_mexico = [
     {
       "gameName": "villa_g",
       "realName": "Villa de Guadalupe",
-      "country": "villa_g",
+      "country": "matehuala",
       "x": "-25183",
       "y": "100.305",
       "z": "89954.2"
@@ -1034,7 +1034,7 @@ var cities_mexico = [
     {
       "gameName": "vreyes",
       "realName": "Villa de Reyes",
-      "country": "vreyes",
+      "country": "sanluisp",
       "x": "-26282.7",
       "y": "98.2266",
       "z": "99140.5"
@@ -1042,7 +1042,7 @@ var cities_mexico = [
     {
       "gameName": "vzaragoza",
       "realName": "Villa Zaragoza",
-      "country": "vzaragoza",
+      "country": "sanluisp",
       "x": "-25323.1",
       "y": "117.215",
       "z": "97196.6"
@@ -1050,7 +1050,7 @@ var cities_mexico = [
     {
       "gameName": "v_ahumada",
       "realName": "Villa Ahumada",
-      "country": "v_ahumada",
+      "country": "elpaso_tx",
       "x": "-51593.6",
       "y": "139.609",
       "z": "45591.8"
@@ -1058,7 +1058,7 @@ var cities_mexico = [
     {
       "gameName": "xilitla",
       "realName": "Xilitla",
-      "country": "xilitla",
+      "country": "tamazunchale",
       "x": "-16684.8",
       "y": "160.934",
       "z": "100802"
@@ -1075,6 +1075,14 @@ var cities_mexico = [
       "gameName": "zacatecas",
       "realName": "Zacatecas",
       "country": "zacatecas",
+      "x": "-33904.4",
+      "y": "150",
+      "z": "92182.5"
+    },
+    {
+      "gameName": "zacatecas",
+      "realName": "Zacatecas",
+      "country": "fresnillo",
       "x": "-33904.4",
       "y": "150",
       "z": "92182.5"

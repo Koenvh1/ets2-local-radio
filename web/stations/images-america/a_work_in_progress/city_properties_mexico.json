@@ -351,18 +351,22 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "tamasopo": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "tamazula": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "tamazunchale": {
         relative_whitenoise: 0.85
     },
     "tamuin": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "tecuala": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "tepic": {
@@ -387,33 +391,42 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "venegas": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "vicentegro": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "villanueva": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "villa_g": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "vreyes": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "vzaragoza": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "v_ahumada": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "xilitla": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "yecora": {
         relative_whitenoise: 0.85
     },
     "zacatecas": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
 };

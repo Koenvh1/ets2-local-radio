@@ -663,7 +663,7 @@ var country_properties_mexico = {
         name: "Tijuana",
         name_english: "Tijuana",
         code: "mx-bcn",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "tlalte": {
         name: "Tlaltenango",
