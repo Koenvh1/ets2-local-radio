@@ -111,7 +111,7 @@ var country_properties = {
         name: "Brawley",
         name_english: "Brawley",
         code: "us-ca",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "broadus": {
         name: "Broadus",
@@ -1060,6 +1060,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "brawley": {
+		relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "broadus": {
@@ -1640,7 +1641,15 @@ var cities = [
         "country": "brawley",
         "x": "-92227.9",
         "y": "60.2773",
-        "z": "23340.7"
+        "z": "23840.7"
+    },
+    {
+        "gameName": "brawley",
+        "realName": "Brawley",
+        "country": "mexicali",
+        "x": "-92227.9",
+        "y": "60.2773",
+        "z": "23840.7"
     },
     {
         "gameName": "broadus",
@@ -3059,17 +3068,72 @@ var cities = [
         "z": "-9965.24"
     },
 ];
+
 var country_properties_mexico = {
-    "yecora": {
-        name: "Yécora",
-        name_english: "Yecora",
-        code: "mx-son",
-        relative_radius: 0.5
+    "acaponeta": {
+        name: "Acaponeta",
+        name_english: "Acaponeta",
+        code: "mx-nay",
+        relative_radius: 0.6
+    },
+    "aguasca": {
+        name: "Aguascalientes",
+        name_english: "Aguascalientes",
+        code: "mx-agu",
+        relative_radius: 0.6
     },
     "agua_prieta": {
         name: "Agua Prieta",
         name_english: "Agua Prieta",
         code: "mx-son",
+        relative_radius: 0.4
+    },
+    "aldama": {
+        name: "Juan Aldama",
+        name_english: "Juan Aldama",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "arivechi": {
+        name: "Arivechi",
+        name_english: "Arivechi",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "ascension": {
+        name: "Ascensión",
+        name_english: "Ascensión",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "baja_cali_sur": {
+        name: "Baja California Sur",
+        name_english: "Baja California Sur",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "basas": {
+        name: "Basaseachi",
+        name_english: "Basaseachi",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "batopil": {
+        name: "Batopilas",
+        name_english: "Batopilas",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "boycona": {
+        name: "Bocoyna",
+        name_english: "Bocoyna",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "buenvent": {
+        name: "San Buenaventura",
+        name_english: "San Buenaventura",
+        code: "mx-chh",
         relative_radius: 0.6
     },
     "caborca": {
@@ -3078,17 +3142,83 @@ var country_properties_mexico = {
         code: "mx-son",
         relative_radius: 0.6
     },
+    "cabo_sanluc": {
+        name: "Cabo San Lucas",
+        name_english: "Cabo San Lucas",
+        code: "mx-bcs",
+        relative_radius: 0.6
+    },
+    "calvillo": {
+        name: "Calvillo",
+        name_english: "Calvillo",
+        code: "mx-agu",
+        relative_radius: 0.6
+    },
+    "camargo": {
+        name: "Camargo",
+        name_english: "Camargo",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
     "cananea": {
         name: "Cananea",
         name_english: "Cananea",
         code: "mx-son",
+        relative_radius: 0.4
+    },
+    "canatlan": {
+        name: "Canatlán",
+        name_english: "Canatlán",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "canelas": {
+        name: "Canelas",
+        name_english: "Canelas",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "cd_constit": {
+        name: "Ciudad Constitución",
+        name_english: "Ciudad Constitución",
+        code: "mx-bcs",
+        relative_radius: 0.6
+    },
+    "cd_cuauh": {
+        name: "Cuauhtémoc",
+        name_english: "Cuauhtémoc",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "cd_insurgen": {
+        name: "Ciudad Insurgentes",
+        name_english: "Ciudad Insurgentes",
+        code: "mx-bcs",
         relative_radius: 0.6
     },
     "cd_obregon": {
         name: "Ciudad Obregón",
-        name_english: "Ciudad Obregon",
+        name_english: "Ciudad Obregón",
         code: "mx-son",
-        relative_radius: 0.8
+        relative_radius: 0.6
+    },
+    "cedral": {
+        name: "Cedral",
+        name_english: "Cedral",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "cerritos": {
+        name: "Cerritos",
+        name_english: "Cerritos",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "charcas": {
+        name: "Charcas",
+        name_english: "Charcas",
+        code: "mx-slp",
+        relative_radius: 0.6
     },
     "chihuahua": {
         name: "Chihuahua",
@@ -3096,82 +3226,238 @@ var country_properties_mexico = {
         code: "mx-chh",
         relative_radius: 0.9
     },
-    "guaymas": {
-        name: "Guaymas",
-        name_english: "Guaymas",
-        code: "mx-son",
+    "ciro": {
+        name: "San Ciro de Acosta",
+        name_english: "San Ciro de Acosta",
+        code: "mx-slp",
         relative_radius: 0.6
     },
-    "hermosillo": {
-        name: "Hermosillo",
-        name_english: "Hermosillo",
-        code: "mx-son",
-        relative_radius: 1.0
-    },
-    "h_nogales": {
-        name: "Heroica Nogales",
-        name_english: "Heroica Nogales",
-        code: "mx-son",
-        relative_radius: 0.6
-    },
-    "moctezuma": {
-        name: "Moctezuma",
-        name_english: "Moctezuma",
-        code: "mx-son",
-        relative_radius: 0.6
-    },
-    "navojoa": {
-        name: "Navojoa",
-        name_english: "Navojoa",
-        code: "mx-son",
-        relative_radius: 0.6
-    },
-    "puerto_pena": {
-        name: "Puerto Peñasco",
-        name_english: "Puerto Penasco",
-        code: "mx-son",
-        relative_radius: 0.6
-    },
-    "santa_ana": {
-        name: "Santa Ana",
-        name_english: "Santa Ana",
-        code: "mx-son",
-        relative_radius: 0.6
-    },
-    "sonoyta": {
-        name: "Sonoyta",
-        name_english: "Sonoyta",
-        code: "mx-son",
-        relative_radius: 0.6
-    },
-    "sanluisrc": {
-        name: "San Luis Río Colorado",
-        name_english: "San Luis Rio Colorado",
-        code: "mx-son",
+    "ciucoahuila": {
+        name: "Ciudad Coahuila",
+        name_english: "Ciudad Coahuila",
+        code: "mx-bcn",
         relative_radius: 0.5
     },
-    "vdurango": {
-        name: "Durango",
-        name_english: "Durango",
+    "colotlan": {
+        name: "Colotlán",
+        name_english: "Colotlán",
+        code: "mx-jls",
+        relative_radius: 0.6
+    },
+    "compostela": {
+        name: "Compostela",
+        name_english: "Compostela",
+        code: "mx-nay",
+        relative_radius: 0.6
+    },
+    "conchaoro": {
+        name: "Concepción del Oro",
+        name_english: "Concepción del Oro",
+        code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "cosala": {
+        name: "Cosalá",
+        name_english: "Cosalá",
+        code: "mx-sin",
+        relative_radius: 0.4
+    },
+    "cuencame": {
+        name: "Cuencamé",
+        name_english: "Cuencamé",
         code: "mx-dur",
-        relative_radius: 1.0
+        relative_radius: 0.6
+    },
+    "culiacan": {
+        name: "Culiacán",
+        name_english: "Culiacán",
+        code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "delicias": {
+        name: "Delicias",
+        name_english: "Delicias",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "ebano": {
+        name: "Ébano",
+        name_english: "Ébano",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "elnaranjo": {
+        name: "El Naranjo",
+        name_english: "El Naranjo",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "el_rosario": {
+        name: "El Rosario",
+        name_english: "El Rosario",
+        code: "mx-bcn",
+        relative_radius: 0.9
+    },
+    "el_salto": {
+        name: "El Salto",
+        name_english: "El Salto",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "ensenada": {
+        name: "Ensenada",
+        name_english: "Ensenada",
+        code: "mx-bcn",
+        relative_radius: 0.6
+    },
+    "fresnillo": {
+        name: "Fresnillo",
+        name_english: "Fresnillo",
+        code: "mx-zac",
+        relative_radius: 0.6
     },
     "gomez_p": {
         name: "Gómez Palacio",
-        name_english: "Gomez Palacio",
+        name_english: "Gómez Palacio",
         code: "mx-dur",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
-    "santiagopap": {
-        name: "Santiago Papasquiaro",
-        name_english: "Santiago Papasquiaro",
+    "gpeical": {
+        name: "Guadalupe y Calvo",
+        name_english: "Guadalupe y Calvo",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "gpevictoria": {
+        name: "Guadalupe Victoria",
+        name_english: "Guadalupe Victoria",
         code: "mx-dur",
-        relative_radius: 0.8
+        relative_radius: 0.6
+    },
+    "guachoch": {
+        name: "Guachochi",
+        name_english: "Guachochi",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "guamuchil": {
+        name: "Guamúchil",
+        name_english: "Guamúchil",
+        code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "guanacevi": {
+        name: "Guanaceví",
+        name_english: "Guanaceví",
+        code: "mx-dur",
+        relative_radius: 0.6
     },
     "guasave": {
         name: "Guasave",
         name_english: "Guasave",
         code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "guaymas": {
+        name: "Guaymas",
+        name_english: "Guaymas",
+        code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "guerrero_ne": {
+        name: "Guerrero Negro",
+        name_english: "Guerrero Negro",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "hermosillo": {
+        name: "Hermosillo",
+        name_english: "Hermosillo",
+        code: "mx-son",
+        relative_radius: 0.7
+    },
+    "huazamota": {
+        name: "Huazamota",
+        name_english: "Huazamota",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "huejuq": {
+        name: "Huejuquilla",
+        name_english: "Huejuquilla",
+        code: "mx-jls",
+        relative_radius: 0.6
+    },
+    "h_nogales": {
+        name: "Heróica Nogales",
+        name_english: "Heróica Nogales",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
+    "illescas": {
+        name: "Illescas",
+        name_english: "Illescas",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "ixtlan_rio": {
+        name: "Ixtlán del Río",
+        name_english: "Ixtlán del Río",
+        code: "mx-nay",
+        relative_radius: 0.6
+    },
+    "jalpa": {
+        name: "Jalpa",
+        name_english: "Jalpa",
+        code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "jerez": {
+        name: "Jerez de García Salinas",
+        name_english: "Jerez de García Salinas",
+        code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "jesusma": {
+        name: "Jesús María",
+        name_english: "Jesús María",
+        code: "mx-nay",
+        relative_radius: 0.6
+    },
+    "jimenez": {
+        name: "Ciudad Jiménez",
+        name_english: "Ciudad Jiménez",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "lacruz": {
+        name: "La Cruz",
+        name_english: "La Cruz",
+        code: "mx-sin",
+        relative_radius: 0.6
+    },
+    "laperla": {
+        name: "La Perla",
+        name_english: "La Perla",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "la_paz": {
+        name: "La Paz",
+        name_english: "La Paz",
+        code: "mx-bcs",
+        relative_radius: 0.6
+    },
+    "loreto": {
+        name: "Loreto",
+        name_english: "Loreto",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "los_barriles": {
+        name: "Los Barriles",
+        name_english: "Los Barriles",
+        code: "mx-bcs",
         relative_radius: 0.6
     },
     "los_mochis": {
@@ -3180,59 +3466,221 @@ var country_properties_mexico = {
         code: "mx-sin",
         relative_radius: 0.6
     },
-    "mazatlan": {
-        name: "Mazatlán",
-        name_english: "Mazatlan",
-        code: "mx-sin",
-        relative_radius: 0.8
+    "magdalenak": {
+        name: "Magdalena de Kino",
+        name_english: "Magdalena de Kino",
+        code: "mx-son",
+        relative_radius: 0.5
     },
-    "culiacan": {
-        name: "Culiacán",
-        name_english: "Culiacan",
-        code: "mx-sin",
-        relative_radius: 1.0
-    },
-    "guamuchil": {
-        name: "Guamúchil",
-        name_english: "Guamuchil",
-        code: "mx-sin",
+    "maiz": {
+        name: "Ciudad del Maíz",
+        name_english: "Ciudad del Maíz",
+        code: "mx-slp",
         relative_radius: 0.6
     },
-    "parral": {
-        name: "Parral",
-        name_english: "Parral",
-        code: "mx-chh",
-        relative_radius: 0.8
+    "mapimi": {
+        name: "Mapimí",
+        name_english: "Mapimí",
+        code: "mx-dur",
+        relative_radius: 0.6
     },
-    "jimenez": {
-        name: "Jiménez",
-        name_english: "Jimenez",
-        code: "mx-chh",
-        relative_radius: 0.8
+    "matehuala": {
+        name: "Matehuala",
+        name_english: "Matehuala",
+        code: "mx-slp",
+        relative_radius: 0.6
     },
-    "guachoch": {
-        name: "Guachochi",
-        name_english: "Guachochi",
-        code: "mx-chh",
+    "mazatlan": {
+        name: "Mazatlán",
+        name_english: "Mazatlán",
+        code: "mx-sin",
         relative_radius: 0.6
     },
     "mexicali": {
         name: "Mexicali",
         name_english: "Mexicali",
         code: "mx-bcn",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
-    "tijuana": {
-        name: "Tijuana",
-        name_english: "Tijuana",
+    "mezquital": {
+        name: "Mezquital",
+        name_english: "Mezquital",
+        code: "mx-dur",
+        relative_radius: 0.4
+    },
+    "moctezuma": {
+        name: "Moctezuma",
+        name_english: "Moctezuma",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "moctezumaslp": {
+        name: "Moctezuma",
+        name_english: "Moctezuma",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "nacozari": {
+        name: "Nacozari",
+        name_english: "Nacozari",
+        code: "mx-son",
+        relative_radius: 0.3
+    },
+    "navojoa": {
+        name: "Navojoa",
+        name_english: "Navojoa",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "nvo_casas": {
+        name: "Nuevo Casas Grandes",
+        name_english: "Nuevo Casas Grandes",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "nvo_vallarta": {
+        name: "Nuevo Vallarta",
+        name_english: "Nuevo Vallarta",
+        code: "mx-nay",
+        relative_radius: 0.6
+    },
+    "ojinaga": {
+        name: "Ojinaga",
+        name_english: "Ojinaga",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "ojuelos": {
+        name: "Ojuelos",
+        name_english: "Ojuelos",
+        code: "mx-jls",
+        relative_radius: 0.6
+    },
+    "parral": {
+        name: "Parral",
+        name_english: "Parral",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "pinos": {
+        name: "Pinos",
+        name_english: "Pinos",
+        code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "puerto_pena": {
+        name: "Puerto Peñasco",
+        name_english: "Puerto Peñasco",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "puerto_sanc": {
+        name: "Puerto San Carlos",
+        name_english: "Puerto San Carlos",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "punta_abreo": {
+        name: "Punta Abreojos",
+        name_english: "Punta Abreojos",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "punta_prie": {
+        name: "Punta Prieta",
+        name_english: "Punta Prieta",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "rcatorce": {
+        name: "Real de Catorce",
+        name_english: "Real de Catorce",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "riogrande": {
+        name: "Río Grande",
+        name_english: "Río Grande",
+        code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "rioverde": {
+        name: "Río Verde",
+        name_english: "Río Verde",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "sanblas": {
+        name: "San Blas",
+        name_english: "San Blas",
+        code: "mx-nay",
+        relative_radius: 0.6
+    },
+    "sanluisp": {
+        name: "San Luis Potosí",
+        name_english: "San Luis Potosí",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "sanluisrc": {
+        name: "San Luis Río Colorado",
+        name_english: "San Luis Río Colorado",
+        code: "mx-son",
+        relative_radius: 0.5
+    },
+    "santa_ana": {
+        name: "Santa Ana",
+        name_english: "Santa Ana",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "santa_rosa": {
+        name: "Santa Rosalía",
+        name_english: "Santa Rosalía",
+        code: "mx-bcs",
+        relative_radius: 0.8
+    },
+    "santiagopap": {
+        name: "Santiago Papasquiaro",
+        name_english: "Santiago Papasquiaro",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "san_felipe": {
+        name: "San Felípe",
+        name_english: "San Felípe",
         code: "mx-bcn",
         relative_radius: 0.6
     },
-    "jalpa": {
-        name: "Jalpa",
-        name_english: "Jalpa",
+    "sombre": {
+        name: "Sombrerete",
+        name_english: "Sombrerete",
         code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "sonoyta": {
+        name: "Sonoyta",
+        name_english: "Sonoyta",
+        code: "mx-son",
         relative_radius: 0.4
+    },
+    "stamaoro": {
+        name: "Santa María del Oro",
+        name_english: "Santa María del Oro",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "stamariar": {
+        name: "Santa María del Rio",
+        name_english: "Santa María del Rio",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "tamazula": {
+        name: "Tamazula",
+        name_english: "Tamazula",
+        code: "mx-dur",
+        relative_radius: 0.6
     },
     "tamazunchale": {
         name: "Tamazunchale",
@@ -3240,592 +3688,819 @@ var country_properties_mexico = {
         code: "mx-slp",
         relative_radius: 0.6
     },
-    "matehuala": {
-        name: "Matehuala",
-        name_english: "Matehuala",
-        code: "mx-slp",
-        relative_radius: 0.7
-    },
-    "rioverde": {
-        name: "Rioverde",
-        name_english: "Rioverde",
-        code: "mx-slp",
+    "tecuala": {
+        name: "Tecuala",
+        name_english: "Tecuala",
+        code: "mx-nay",
         relative_radius: 0.6
-    },
-    "sanluisp": {
-        name: "San Luis Potosi",
-        name_english: "San Luis Potosi",
-        code: "mx-slp",
-        relative_radius: 0.9
-    },
-    "aguasca": {
-        name: "Aguascalientes",
-        name_english: "Aguascalientes",
-        code: "mx-agu",
-        relative_radius: 0.7
-    },
-    "calvillo": {
-        name: "Calvillo",
-        name_english: "Calvillo",
-        code: "mx-agu",
-        relative_radius: 0.4
-    },
-    "fresnillo": {
-        name: "Fresnillo",
-        name_english: "Fresnillo",
-        code: "mx-zac",
-        relative_radius: 0.9
-    },
-    "zacatecas": {
-        name: "Zacatecas",
-        name_english: "Zacatecas",
-        code: "mx-zac",
-        relative_radius: 0.8
-    },
-    "jerez": {
-        name: "Jerez",
-        name_english: "Jerez",
-        code: "mx-zac",
-        relative_radius: 0.4
-    },
-    "sombre": {
-        name: "Sombrete",
-        name_english: "Sombrete",
-        code: "mx-zac",
-        relative_radius: 0.3
-    },
-    "riogrande": {
-        name: "Rio Grande",
-        name_english: "Rio Grande",
-        code: "mx-zac",
-        relative_radius: 0.5
-    },
-    "ensenada": {
-        name: "Ensenada",
-        name_english: "Ensenada",
-        code: "mx-bcn",
-        relative_radius: 0.6
-    },
-    "la_paz": {
-        name: "La Paz",
-        name_english: "La Paz",
-        code: "mx-bcs",
-        relative_radius: 0.8
     },
     "tepic": {
         name: "Tepic",
         name_english: "Tepic",
         code: "mx-nay",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
-    "jesusma": {
-        name: "Jesus Maria",
-        name_english: "Jesus Maria",
-        code: "mx-nay",
-        relative_radius: 0.4
+    "tijuana": {
+        name: "Tijuana",
+        name_english: "Tijuana",
+        code: "mx-bcn",
+        relative_radius: 0.6
     },
-    "ixtlan_rio": {
-        name: "Ixtlan del Rio",
-        name_english: "Ixtlan del Rio",
-        code: "mx-nay",
-        relative_radius: 0.3
-    },
-    "tecuala": {
-        name: "Tecuala",
-        name_english: "Tecuala",
-        code: "mx-nay",
-        relative_radius: 0.4
-    },
-    "acaponeta": {
-        name: "Acaponeta",
-        name_english: "Acaponeta",
-        code: "mx-nay",
-        relative_radius: 0.4
-    },
-    "compostela": {
-        name: "Compostela",
-        name_english: "Compostela",
-        code: "mx-nay",
-        relative_radius: 0.4
-    },
-    "conchaoro": {
-        name: "Concepcion del Oro",
-        name_english: "Concepcion del Oro",
+    "tlalte": {
+        name: "Tlaltenango",
+        name_english: "Tlaltenango",
         code: "mx-zac",
-        relative_radius: 0.7
+        relative_radius: 0.6
+    },
+    "urique": {
+        name: "Urique",
+        name_english: "Urique",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "valles": {
+        name: "Ciudad Valles",
+        name_english: "Ciudad Valles",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "vdurango": {
+        name: "Durango",
+        name_english: "Durango",
+        code: "mx-dur",
+        relative_radius: 0.6
+    },
+    "venegas": {
+        name: "Vanegas",
+        name_english: "Vanegas",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "villanueva": {
+        name: "Villanueva",
+        name_english: "Villanueva",
+        code: "mx-zac",
+        relative_radius: 0.6
+    },
+    "villa_g": {
+        name: "Villa de Guadalupe",
+        name_english: "Villa de Guadalupe",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "vzaragoza": {
+        name: "Villa Zaragoza",
+        name_english: "Villa Zaragoza",
+        code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "v_ahumada": {
+        name: "Villa Ahumada",
+        name_english: "Villa Ahumada",
+        code: "mx-chh",
+        relative_radius: 0.6
+    },
+    "yecora": {
+        name: "Yécora",
+        name_english: "Yécora",
+        code: "mx-son",
+        relative_radius: 0.6
+    },
+    "zacatecas": {
+        name: "Zacatecas",
+        name_english: "Zacatecas",
+        code: "mx-zac",
+        relative_radius: 0.6
     },
 };
 
 var city_properties_mexico = {
-    "yecora": {
-        relative_whitenoise: 0.95
+    "acaponeta": {
+        relative_whitenoise: 0.85
+    },
+    "aguasca": {
+        relative_whitenoise: 0.85
     },
     "agua_prieta": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
+    },
+    "aldama": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "arivechi": {
+        relative_whitenoise: 0.85
+    },
+    "ascension": {
+        relative_whitenoise: 0.85
+    },
+    "bahia_tortu": {
+        relative_whitenoise: 0.85
+    },
+    "basas": {
+        relative_whitenoise: 0.85
+    },
+    "batopil": {
+        relative_whitenoise: 0.85
+    },
+    "boycona": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.85
+    },
+    "buenvent": {
+        relative_whitenoise: 0.85
     },
     "caborca": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
+    },
+    "cabo_sanluc": {
+        relative_whitenoise: 0.85
+    },
+    "calvillo": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "camargo": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
     "cananea": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
+    },
+    "canatlan": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "canelas": {
+        relative_whitenoise: 0.85
+    },
+    "cd_constit": {
+		relative_radius: 1.0,
+        relative_whitenoise: 0.85
+    },
+    "cd_cuauh": {
+        relative_whitenoise: 0.85
+    },
+    "cd_insurgen": {
+		relative_radius: 1.0,
+        relative_whitenoise: 0.85
     },
     "cd_obregon": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
+    },
+    "cedral": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "cerritos": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "charcas": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
     "chihuahua": {
         relative_whitenoise: 0.85
     },
-    "guaymas": {
-        relative_whitenoise: 0.95
-    },
-    "hermosillo": {
-        relative_whitenoise: 0.95
-    },
-    "h_nogales": {
-        relative_whitenoise: 0.95
-    },
-    "moctezuma": {
-        relative_whitenoise: 0.95
-    },
-    "navojoa": {
-        relative_whitenoise: 0.95
-    },
-    "puerto_pena": {
-        relative_whitenoise: 0.95
-    },
-    "santa_ana": {
-        relative_whitenoise: 0.95
-    },
-    "sonoyta": {
-        relative_whitenoise: 0.95
-    },
-    "sanluisrc": {
+    "ciro": {
+		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
-    "vdurango": {
-        relative_whitenoise: 0.95
+    "ciucoahuila": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "gomez_p": {
-        relative_whitenoise: 0.95
+    "colotlan": {
+        relative_whitenoise: 0.85
     },
-    "santiagopap": {
-        relative_whitenoise: 0.95
+    "compostela": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "guasave": {
-        relative_whitenoise: 0.95
+    "conchaoro": {
+        relative_whitenoise: 0.85
     },
-    "los_mochis": {
-        relative_whitenoise: 0.95
+    "cosala": {
+        relative_whitenoise: 0.85
     },
-    "mazatlan": {
-        relative_whitenoise: 0.95
+    "cuencame": {
+        relative_whitenoise: 0.85
     },
     "culiacan": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
-    "guamuchil": {
-        relative_whitenoise: 0.95
+    "delicias": {
+        relative_whitenoise: 0.85
     },
-    "parral": {
-        relative_whitenoise: 0.95
+    "ebano": {
+        relative_whitenoise: 0.85
     },
-    "jimenez": {
-        relative_whitenoise: 0.95
+    "elnaranjo": {
+        relative_whitenoise: 0.85
+    },
+    "el_rosario": {
+        relative_whitenoise: 0.85
+    },
+    "el_salto": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "ensenada": {
+        relative_whitenoise: 0.85
+    },
+    "fresnillo": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "gomez_p": {
+        relative_whitenoise: 0.85
+    },
+    "gpeical": {
+        relative_whitenoise: 0.85
+    },
+    "gpevictoria": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
     "guachoch": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
-    "tijuana": {
+    "guamuchil": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "guanacevi": {
+        relative_whitenoise: 0.85
+    },
+    "guasave": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "guaymas": {
+        relative_whitenoise: 0.85
+    },
+    "guerrero_ne": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "hermosillo": {
+        relative_whitenoise: 0.85
+    },
+    "huazamota": {
+        relative_whitenoise: 0.85
+    },
+    "huejuq": {
+        relative_whitenoise: 0.85
+    },
+    "h_nogales": {
+        relative_whitenoise: 0.85
+    },
+    "illescas": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "ixtlan_rio": {
+        relative_whitenoise: 0.85
+    },
+    "jalpa": {
+        relative_whitenoise: 0.85
+    },
+    "jerez": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "jesusma": {
+        relative_whitenoise: 0.85
+    },
+    "jimenez": {
+        relative_whitenoise: 0.85
+    },
+    "lacruz": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "laperla": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "la_paz": {
+        relative_whitenoise: 0.85
+    },
+    "loreto": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "los_barriles": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "los_mochis": {
+        relative_whitenoise: 0.85
+    },
+    "magdalenak": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "maiz": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "mapimi": {
+        relative_whitenoise: 0.85
+    },
+    "matehuala": {
+        relative_whitenoise: 0.85
+    },
+    "mazatlan": {
         relative_whitenoise: 0.85
     },
     "mexicali": {
         relative_whitenoise: 0.85
     },
-    "jalpa": {
-        relative_whitenoise: 0.95
+    "mezquital": {
+        relative_whitenoise: 0.85
     },
-    "tamazunchale": {
-        relative_whitenoise: 0.95
+    "moctezuma": {
+        relative_whitenoise: 0.85
     },
-    "matehuala": {
-        relative_whitenoise: 0.95
+    "moctezumaslp": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "rioverde": {
-        relative_whitenoise: 0.95
+    "nacozari": {
+        relative_whitenoise: 0.85
     },
-    "sanluisp": {
-        relative_whitenoise: 0.95
+    "navojoa": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "aguasca": {
-        relative_whitenoise: 0.95
+    "nvo_casas": {
+        relative_whitenoise: 0.85
     },
-    "calvillo": {
-        relative_whitenoise: 0.95
+    "nvo_vallarta": {
+        relative_whitenoise: 0.85
     },
-    "fresnillo": {
-        relative_whitenoise: 0.95
+    "ojinaga": {
+        relative_whitenoise: 0.85
     },
-    "zacatecas": {
-        relative_whitenoise: 0.95
+    "ojuelos": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "jerez": {
-        relative_whitenoise: 0.95
+    "parral": {
+        relative_whitenoise: 0.85
     },
-    "sombre": {
-        relative_whitenoise: 0.95
+    "pinos": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "puerto_pena": {
+        relative_whitenoise: 0.85
+    },
+    "puerto_sanc": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "punta_abreo": {
+        relative_radius: 1.0,
+        relative_whitenoise: 0.85
+    },
+    "punta_prie": {
+        relative_whitenoise: 0.85
+    },
+    "rcatorce": {
+        relative_whitenoise: 0.85
     },
     "riogrande": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
-    "ensenada": {
-        relative_whitenoise: 0.95
+    "rioverde": {
+        relative_whitenoise: 0.85
     },
-    "la_paz": {
-        relative_whitenoise: 0.95
+    "sanblas": {
+        relative_whitenoise: 0.85
     },
-    "tepic": {
-        relative_whitenoise: 0.95
+    "sanluisp": {
+        relative_whitenoise: 0.85
     },
-    "jesusma": {
-        relative_whitenoise: 0.95
+    "sanluisrc": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "ixtlan_rio": {
-        relative_whitenoise: 0.95
+    "santa_ana": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "santa_rosa": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "santiagopap": {
+        relative_whitenoise: 0.85
+    },
+    "san_felipe": {
+        relative_whitenoise: 0.85
+    },
+    "sombre": {
+        relative_whitenoise: 0.85
+    },
+    "sonoyta": {
+        relative_whitenoise: 0.85
+    },
+    "stamaoro": {
+        relative_whitenoise: 0.85
+    },
+    "stamariar": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "tamazula": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "tamazunchale": {
+        relative_whitenoise: 0.85
     },
     "tecuala": {
-        relative_whitenoise: 0.95
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
-    "acaponeta": {
-        relative_whitenoise: 0.95
+    "tepic": {
+        relative_whitenoise: 0.85
     },
-    "compostela": {
-        relative_whitenoise: 0.95
+    "tijuana": {
+        relative_whitenoise: 0.85
     },
-    "conchaoro": {
-        relative_whitenoise: 0.95
+    "tlalte": {
+        relative_whitenoise: 0.85
+    },
+    "urique": {
+        relative_whitenoise: 0.85
+    },
+    "valles": {
+        relative_whitenoise: 0.85
+    },
+    "vdurango": {
+        relative_whitenoise: 0.85
+    },
+    "venegas": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "villanueva": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "villa_g": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "vzaragoza": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
+    "v_ahumada": {
+        relative_radius: 1.0,
+        relative_whitenoise: 0.85
+    },
+    "yecora": {
+        relative_whitenoise: 0.85
+    },
+    "zacatecas": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85
     },
 };
 
 var cities_mexico = [
     {
-        "gameName": "yecora",
-        "realName": "Yecora",
-        "country": "yecora",
-        "x": "-65075.4",
-        "y": "238.879",
-        "z": "57626.5"
+      "gameName": "acaponeta",
+      "realName": "Acaponeta",
+      "country": "acaponeta",
+      "x": "-49634.9",
+      "y": "57.8359",
+      "z": "92334.3"
     },
     {
-        "gameName": "agua_prieta",
-        "realName": "Agua Prieta",
-        "country": "agua_prieta",
-        "x": "-66289.2",
-        "y": "110.359",
-        "z": "39137.9"
+      "gameName": "aguasca",
+      "realName": "Aguascalientes",
+      "country": "aguasca",
+      "x": "-34084.9",
+      "y": "133.391",
+      "z": "97712.8"
     },
     {
-        "gameName": "caborca",
-        "realName": "Caborca",
-        "country": "caborca",
-        "x": "-79152.9",
-        "y": "95.625",
-        "z": "40151.9"
+      "gameName": "agua_prieta",
+      "realName": "Agua Prieta",
+      "country": "agua_prieta",
+      "x": "-65394.4",
+      "y": "120.129",
+      "z": "39217.9"
     },
     {
-        "gameName": "cananea",
-        "realName": "Cananea",
-        "country": "cananea",
-        "x": "-69907",
-        "y": "88.5703",
-        "z": "40315.2"
+      "gameName": "aldama",
+      "realName": "Juan Aldama",
+      "country": "chihuahua",
+      "x": "-48410.2",
+      "y": "100.762",
+      "z": "50661.1"
     },
     {
-        "gameName": "cd_obregon",
-        "realName": "CD. Obregon",
-        "country": "cd_obregon",
-        "x": "-70636.1",
-        "y": "50.0313",
-        "z": "61058.9"
+      "gameName": "arivechi",
+      "realName": "Arivechi",
+      "country": "arivechi",
+      "x": "-64595.3",
+      "y": "63.9609",
+      "z": "49911.9"
     },
     {
-        "gameName": "chihuahua",
-        "realName": "Chihuahua",
-        "country": "chihuahua",
-        "x": "-52091.8",
-        "y": "100.114",
-        "z": "54247.2"
+      "gameName": "ascension",
+      "realName": "Ascensión",
+      "country": "ascension",
+      "x": "-56361.9",
+      "y": "140.813",
+      "z": "42160.6"
     },
     {
-        "gameName": "guaymas",
-        "realName": "Guaymas",
-        "country": "guaymas",
-        "x": "-75161.3",
-        "y": "57.918",
-        "z": "56623.3"
+      "gameName": "baja_cali_sur",
+      "realName": "Baja California Sur",
+      "country": "baja_cali_sur",
+      "x": "-95133.8",
+      "y": "134.258",
+      "z": "54741.5"
     },
     {
-        "gameName": "hermosillo",
-        "realName": "Hermosillo",
-        "country": "hermosillo",
-        "x": "-74603.3",
-        "y": "49.9297",
-        "z": "50492.1"
+      "gameName": "basas",
+      "realName": "Basaseachi",
+      "country": "basas",
+      "x": "-61744.8",
+      "y": "353.867",
+      "z": "55995.1"
     },
     {
-        "gameName": "h_nogales",
-        "realName": "H. Nogales",
-        "country": "h_nogales",
-        "x": "-73256.1",
-        "y": "108.121",
-        "z": "37728.7"
+      "gameName": "batopil",
+      "realName": "Batopilas",
+      "country": "batopil",
+      "x": "-60167.8",
+      "y": "-316.84",
+      "z": "63194.3"
     },
     {
-        "gameName": "moctezuma",
-        "realName": "Moctezuma",
-        "country": "moctezuma",
-        "x": "-67626.8",
-        "y": "57.832",
-        "z": "47166.7"
+      "gameName": "boycona",
+      "realName": "Bocoyna",
+      "country": "basas",
+      "x": "-58843.1",
+      "y": "113.094",
+      "z": "58234.3"
     },
     {
-        "gameName": "navojoa",
-        "realName": "Navojoa",
-        "country": "navojoa",
-        "x": "-68552.6",
-        "y": "50.0195",
-        "z": "64116.6"
+      "gameName": "buenvent",
+      "realName": "San Buenaventura",
+      "country": "buenvent",
+      "x": "-59363.8",
+      "y": "144.988",
+      "z": "48015.3"
     },
     {
-        "gameName": "puerto_pena",
-        "realName": "Puerto Penasco",
-        "country": "puerto_pena",
-        "x": "-84643.3",
-        "y": "78.4609",
-        "z": "34661.3"
+      "gameName": "caborca",
+      "realName": "Caborca",
+      "country": "caborca",
+      "x": "-81887.7",
+      "y": "70",
+      "z": "37355.9"
     },
     {
-        "gameName": "santa_ana",
-        "realName": "Santa Ana",
-        "country": "santa_ana",
-        "x": "-74493.6",
-        "y": "95.625",
-        "z": "41979.7"
+      "gameName": "cabo_sanluc",
+      "realName": "Cabo San Lucas",
+      "country": "cabo_sanluc",
+      "x": "-73303.8",
+      "y": "65.1523",
+      "z": "87060.1"
     },
     {
-        "gameName": "sonoyta",
-        "realName": "Sonoyta",
-        "country": "sonoyta",
-        "x": "-81177.1",
-        "y": "95.7148",
-        "z": "32482.3"
+      "gameName": "calvillo",
+      "realName": "Calvillo",
+      "country": "aguasca",
+      "x": "-36306.9",
+      "y": "118",
+      "z": "98081.7"
     },
     {
-        "gameName": "sanluisrc",
-        "realName": "San Luis Rio Colorado",
-        "country": "sanluisrc",
-        "x": "-85822",
-        "y": "50.1211",
-        "z": "30702.9"
+      "gameName": "camargo",
+      "realName": "Camargo",
+      "country": "camargo",
+      "x": "-46753.6",
+      "y": "43.2422",
+      "z": "61959"
     },
     {
-        "gameName": "vdurango",
-        "realName": "Durango",
-        "country": "vdurango",
-        "x": "-45394.6",
-        "y": "40",
-        "z": "84324.4"
+      "gameName": "camargo",
+      "realName": "Camargo",
+      "country": "delicias",
+      "x": "-46753.6",
+      "y": "43.2422",
+      "z": "61959"
     },
     {
-        "gameName": "gomez_p",
-        "realName": "Gomez Palacio",
-        "country": "gomez_p",
-        "x": "-38817.5",
-        "y": "82.9336",
-        "z": "75478.9"
+      "gameName": "cananea",
+      "realName": "Cananea",
+      "country": "cananea",
+      "x": "-69120.9",
+      "y": "129.297",
+      "z": "40193.8"
     },
     {
-        "gameName": "santiagopap",
-        "realName": "Stgo. Papasquiaro",
-        "country": "santiagopap",
-        "x": "-49233.5",
-        "y": "55.8047",
-        "z": "77940.5"
+      "gameName": "canatlan",
+      "realName": "Canatlán",
+      "country": "vdurango",
+      "x": "-46551",
+      "y": "65.8984",
+      "z": "80756.9"
     },
     {
-        "gameName": "guasave",
-        "realName": "Guasave",
-        "country": "guasave",
-        "x": "-64504.9",
-        "y": "52.6367",
-        "z": "72909.2"
+      "gameName": "canelas",
+      "realName": "Canelas",
+      "country": "canelas",
+      "x": "-52549.8",
+      "y": "172.828",
+      "z": "76837.7"
     },
     {
-        "gameName": "los_mochis",
-        "realName": "Los Mochis",
-        "country": "los_mochis",
-        "x": "-67160.2",
-        "y": "82.9336",
-        "z": "71272.9"
+      "gameName": "cd_constit",
+      "realName": "Ciudad Constitución",
+      "country": "baja_cali_sur",
+      "x": "-81092.8",
+      "y": "52.4023",
+      "z": "73674.7"
     },
     {
-        "gameName": "mazatlan",
-        "realName": "Mazatlan",
-        "country": "mazatlan",
-        "x": "-54732.3",
-        "y": "52.3203",
-        "z": "87832.3"
+      "gameName": "cd_cuauh",
+      "realName": "Cuauhtémoc",
+      "country": "cd_cuauh",
+      "x": "-56051.3",
+      "y": "110.785",
+      "z": "56136.4"
     },
     {
-        "gameName": "culiacan",
-        "realName": "Culiacan",
-        "country": "culiacan",
-        "x": "-59247.3",
-        "y": "31.6797",
-        "z": "78285.8"
+      "gameName": "cd_insurgen",
+      "realName": "Ciudad Insurgentes",
+      "country": "baja_cali_sur",
+      "x": "-85605.8",
+      "y": "52.168",
+      "z": "67951.1"
     },
     {
-        "gameName": "guamuchil",
-        "realName": "Guamuchil",
-        "country": "guamuchil",
-        "x": "-62492.3",
-        "y": "49.9297",
-        "z": "74015.6"
+      "gameName": "cd_obregon",
+      "realName": "Ciudad Obregón",
+      "country": "cd_obregon",
+      "x": "-70636.1",
+      "y": "50.0313",
+      "z": "61058.9"
     },
     {
-        "gameName": "parral",
-        "realName": "Parral",
-        "country": "parral",
-        "x": "-49800.4",
-        "y": "110",
-        "z": "66558.9"
+      "gameName": "cedral",
+      "realName": "Cedral",
+      "country": "matehuala",
+      "x": "-24881.9",
+      "y": "118.086",
+      "z": "86722.1"
     },
     {
-        "gameName": "jimenez",
-        "realName": "Jimenez",
-        "country": "jimenez",
-        "x": "-45481.6",
-        "y": "50.6445",
-        "z": "65762.4"
+      "gameName": "cerritos",
+      "realName": "Cerritos",
+      "country": "rioverde",
+      "x": "-21721.4",
+      "y": "112.969",
+      "z": "96150.3"
     },
     {
-        "gameName": "guachoch",
-        "realName": "Guachochi",
-        "country": "guachoch",
-        "x": "-57713.7",
-        "y": "381.328",
-        "z": "66510.7"
+      "gameName": "charcas",
+      "realName": "Charcas",
+      "country": "sanluisp",
+      "x": "-27185.1",
+      "y": "124.508",
+      "z": "90552.2"
     },
     {
-        "gameName": "tijuana",
-        "realName": "Tijuana",
-        "country": "san_diego",
-        "x": "-99184.2",
-        "y": "49.7773",
-        "z": "27196.8"
+      "gameName": "chihuahua",
+      "realName": "Chihuahua",
+      "country": "chihuahua",
+      "x": "-52091.8",
+      "y": "100.114",
+      "z": "54247.2"
     },
     {
-        "gameName": "mexicali",
-        "realName": "Mexicali",
-        "country": "mexicali",
-        "x": "-90883.1",
-        "y": "50.1211",
-        "z": "29113.3"
+      "gameName": "ciro",
+      "realName": "San Ciro de Acosta",
+      "country": "rioverde",
+      "x": "-20907.8",
+      "y": "118.137",
+      "z": "100003"
     },
     {
-        "gameName": "jalpa",
-        "realName": "Jalpa",
-        "country": "jalpa",
-        "x": "-38033.5",
-        "y": "85.5391",
-        "z": "99312.3"
+      "gameName": "ciucoahuila",
+      "realName": "Ciudad Coahuila",
+      "country": "mexicali",
+      "x": "-88703.4",
+      "y": "50.2344",
+      "z": "31551"
     },
     {
-        "gameName": "tamazunchale",
-        "realName": "Tamazunchale",
-        "country": "tamazunchale",
-        "x": "-15649.9",
-        "y": "129.145",
-        "z": "100829"
+      "gameName": "ciucoahuila",
+      "realName": "Ciudad Coahuila",
+      "country": "yuma",
+      "x": "-88703.4",
+      "y": "50.2344",
+      "z": "31551"
     },
     {
-        "gameName": "matehuala",
-        "realName": "Matehuala",
-        "country": "matehuala",
-        "x": "-24749.5",
-        "y": "114.105",
-        "z": "87939.7"
+      "gameName": "colotlan",
+      "realName": "Colotlán",
+      "country": "colotlan",
+      "x": "-39521.7",
+      "y": "110",
+      "z": "95257.5"
     },
     {
-        "gameName": "rioverde",
-        "realName": "Rioverde",
-        "country": "rioverde",
-        "x": "-21672.4",
-        "y": "94.5195",
-        "z": "98529.3"
+      "gameName": "compostela",
+      "realName": "Compostela",
+      "country": "tepic",
+      "x": "-47145.5",
+      "y": "140",
+      "z": "100437"
     },
     {
-        "gameName": "sanluisp",
-        "realName": "San Luis Potosi",
-        "country": "sanluisp",
-        "x": "-27379.3",
-        "y": "98.7383",
-        "z": "96228.5"
+      "gameName": "conchaoro",
+      "realName": "Concepción del Oro",
+      "country": "conchaoro",
+      "x": "-28231.4",
+      "y": "153.504",
+      "z": "82038.7"
     },
     {
-        "gameName": "aguasca",
-        "realName": "Aguascalientes",
-        "country": "aguasca",
-        "x": "-34084.9",
-        "y": "133.504",
-        "z": "97703.4"
+      "gameName": "cosala",
+      "realName": "Cosalá",
+      "country": "cosala",
+      "x": "-55158",
+      "y": "108.027",
+      "z": "80503.4"
     },
     {
-        "gameName": "calvillo",
-        "realName": "Calvillo",
-        "country": "calvillo",
-        "x": "-36306.9",
-        "y": "118",
-        "z": "98081.7"
+      "gameName": "cuencame",
+      "realName": "Cuencamé",
+      "country": "cuencame",
+      "x": "-40048.1",
+      "y": "53.3906",
+      "z": "79864.4"
     },
     {
-        "gameName": "fresnillo",
-        "realName": "Fresnillo",
-        "country": "fresnillo",
-        "x": "-36298.9",
-        "y": "132",
-        "z": "89484.7"
+      "gameName": "culiacan",
+      "realName": "Culiacán",
+      "country": "culiacan",
+      "x": "-58924.2",
+      "y": "34.1523",
+      "z": "76832"
     },
     {
-        "gameName": "zacatecas",
-        "realName": "Zacatecas",
-        "country": "zacatecas",
-        "x": "-33904.4",
-        "y": "150",
-        "z": "92182.5"
+      "gameName": "delicias",
+      "realName": "Delicias",
+      "country": "delicias",
+      "x": "-48038.5",
+      "y": "27.0508",
+      "z": "59106.5"
     },
     {
-        "gameName": "jerez",
-        "realName": "Jerez",
-        "country": "jerez",
-        "x": "-37503.1",
-        "y": "124.91",
-        "z": "93193.4"
+      "gameName": "ebano",
+      "realName": "Ébano",
+      "country": "ebano",
+      "x": "-12719.3",
+      "y": "88.1094",
+      "z": "96517.6"
     },
     {
-        "gameName": "sombre",
-        "realName": "Sombrerete",
-        "country": "sombre",
-        "x": "-39808.1",
-        "y": "53.6172",
-        "z": "86782.2"
+      "gameName": "elnaranjo",
+      "realName": "El Naranjo",
+      "country": "elnaranjo",
+      "x": "-15972",
+      "y": "66.4219",
+      "z": "94750.5"
     },
     {
-        "gameName": "riogrande",
-        "realName": "Rio Grande",
-        "country": "riogrande",
-        "x": "-36954.9",
-        "y": "86.3477",
-        "z": "84909.9"
+      "gameName": "el_rosario",
+      "realName": "El Rosario",
+      "country": "el_rosario",
+      "x": "-96007.1",
+      "y": "50.2383",
+      "z": "40800.4"
+    },
+    {
+      "gameName": "el_salto",
+      "realName": "El Salto",
+      "country": "vdurango",
+      "x": "-49104.3",
+      "y": "182.605",
+      "z": "84737.7"
     },
     {
         "gameName": "ensenada",
@@ -3833,71 +4508,687 @@ var cities_mexico = [
         "country": "ensenada",
         "x": "-98139.2",
         "y": "50.1133",
-        "z": "30962.7"
+        "z": "32962.7"
     },
     {
-        "gameName": "la_paz",
-        "realName": "La Paz",
-        "country": "la_paz",
-        "x": "-74554",
-        "y": "65.7578",
-        "z": "79288"
+      "gameName": "fresnillo",
+      "realName": "Fresnillo",
+      "country": "fresnillo",
+      "x": "-36298.9",
+      "y": "132",
+      "z": "89484.7"
     },
     {
-        "gameName": "tepic",
-        "realName": "Tepic",
-        "country": "tepic",
-        "x": "-46889.3",
-        "y": "145",
-        "z": "98193.3"
+      "gameName": "fresnillo",
+      "realName": "Fresnillo",
+      "country": "zacatecas",
+      "x": "-36298.9",
+      "y": "132",
+      "z": "89484.7"
     },
     {
-        "gameName": "jesusma",
-        "realName": "Jesus Maria",
-        "country": "jesusma",
-        "x": "-45786.7",
-        "y": "8.98438",
-        "z": "93429.3"
+      "gameName": "gomez_p",
+      "realName": "Gómez Palacio",
+      "country": "gomez_p",
+      "x": "-38817.5",
+      "y": "82.9336",
+      "z": "75478.9"
     },
     {
-        "gameName": "ixtlan_rio",
-        "realName": "Ixtlan del Rio",
-        "country": "ixtlan_rio",
-        "x": "-44781",
-        "y": "150.039",
-        "z": "100884"
+      "gameName": "gpeical",
+      "realName": "Guadalupe y Calvo",
+      "country": "gpeical",
+      "x": "-55970.1",
+      "y": "137.301",
+      "z": "70551.4"
     },
     {
-        "gameName": "tecuala",
-        "realName": "Tecuala",
-        "country": "tecuala",
-        "x": "-51019.6",
-        "y": "61.0508",
-        "z": "93164.7"
+      "gameName": "gpevictoria",
+      "realName": "Guadalupe Victoria",
+      "country": "vdurango",
+      "x": "-42041",
+      "y": "52.8438",
+      "z": "81972.1"
     },
     {
-        "gameName": "acaponeta",
-        "realName": "Acaponeta",
-        "country": "acaponeta",
-        "x": "-49634.9",
-        "y": "57.8359",
-        "z": "92334.3"
+      "gameName": "guachoch",
+      "realName": "Guachochi",
+      "country": "guachoch",
+      "x": "-57713.7",
+      "y": "381.328",
+      "z": "66510.7"
     },
     {
-        "gameName": "compostela",
-        "realName": "Compostela",
-        "country": "compostela",
-        "x": "-47145.5",
-        "y": "140",
-        "z": "100437"
+      "gameName": "guamuchil",
+      "realName": "Guamúchil",
+      "country": "acaponeta",
+      "x": "-61624.6",
+      "y": "46.9258",
+      "z": "74681"
     },
     {
-        "gameName": "conchaoro",
-        "realName": "Concepcion del Oro",
-        "country": "conchaoro",
-        "x": "-28231.4",
-        "y": "153.504",
-        "z": "82038.7"
+      "gameName": "guanacevi",
+      "realName": "Guanaceví",
+      "country": "guanacevi",
+      "x": "-52316",
+      "y": "130.902",
+      "z": "72506.4"
+    },
+    {
+      "gameName": "guasave",
+      "realName": "Guasave",
+      "country": "guasave",
+      "x": "-64504.9",
+      "y": "52.6367",
+      "z": "72909.2"
+    },
+    {
+      "gameName": "guasave",
+      "realName": "Guasave",
+      "country": "los_mochis",
+      "x": "-64504.9",
+      "y": "52.6367",
+      "z": "72909.2"
+    },
+    {
+      "gameName": "guaymas",
+      "realName": "Guaymas",
+      "country": "guaymas",
+      "x": "-75161.3",
+      "y": "57.918",
+      "z": "56623.3"
+    },
+    {
+      "gameName": "guerrero_ne",
+      "realName": "Guerrero Negro",
+      "country": "baja_cali_sur",
+      "x": "-90866.2",
+      "y": "79.3672",
+      "z": "54339.1"
+    },
+    {
+      "gameName": "hermosillo",
+      "realName": "Hermosillo",
+      "country": "hermosillo",
+      "x": "-73603.3",
+      "y": "49.9297",
+      "z": "50492.1"
+    },
+    {
+      "gameName": "huazamota",
+      "realName": "Huazamota",
+      "country": "huazamota",
+      "x": "-45749",
+      "y": "-16.3438",
+      "z": "91863.7"
+    },
+    {
+      "gameName": "huejuq",
+      "realName": "Huejuquilla",
+      "country": "huejuq",
+      "x": "-41910.4",
+      "y": "100",
+      "z": "91370.9"
+    },
+    {
+      "gameName": "h_nogales",
+      "realName": "Heróica Nogales",
+      "country": "h_nogales",
+      "x": "-72031.8",
+      "y": "95.4336",
+      "z": "39032.1"
+    },
+    {
+      "gameName": "illescas",
+      "realName": "Illescas",
+      "country": "zacatecas",
+      "x": "-31647.1",
+      "y": "146.738",
+      "z": "89753"
+    },
+    {
+      "gameName": "ixtlan_rio",
+      "realName": "Ixtlán del Río",
+      "country": "ixtlan_rio",
+      "x": "-44781",
+      "y": "150.039",
+      "z": "100884"
+    },
+    {
+      "gameName": "jalpa",
+      "realName": "Jalpa",
+      "country": "jalpa",
+      "x": "-38033.5",
+      "y": "85.5391",
+      "z": "99312.3"
+    },
+    {
+      "gameName": "jerez",
+      "realName": "Jerez de García Salinas",
+      "country": "zacatecas",
+      "x": "-37503.1",
+      "y": "124.91",
+      "z": "93193.4"
+    },
+    {
+      "gameName": "jesusma",
+      "realName": "Jesús María",
+      "country": "jesusma",
+      "x": "-45786.7",
+      "y": "8.98438",
+      "z": "93429.3"
+    },
+    {
+      "gameName": "jimenez",
+      "realName": "Ciudad Jiménez",
+      "country": "jimenez",
+      "x": "-45481.6",
+      "y": "50.6445",
+      "z": "65762.4"
+    },
+    {
+      "gameName": "lacruz",
+      "realName": "La Cruz",
+      "country": "mazatlan",
+      "x": "-56966.7",
+      "y": "50.7227",
+      "z": "83215.3"
+    },
+    {
+      "gameName": "laperla",
+      "realName": "La Perla",
+      "country": "delicias",
+      "x": "-42553",
+      "y": "76.7148",
+      "z": "58949.1"
+    },
+    {
+      "gameName": "la_paz",
+      "realName": "La Paz",
+      "country": "la_paz",
+      "x": "-74741.2",
+      "y": "65.7773",
+      "z": "79135.7"
+    },
+    {
+      "gameName": "loreto",
+      "realName": "Loreto",
+      "country": "loreto",
+      "x": "-78850.3",
+      "y": "50",
+      "z": "68185.9"
+    },
+    {
+      "gameName": "loreto",
+      "realName": "Loreto",
+      "country": "baja_cali_sur",
+      "x": "-78850.3",
+      "y": "50",
+      "z": "68185.9"
+    },
+    {
+      "gameName": "los_barriles",
+      "realName": "Los Barriles",
+      "country": "cabo_sanluc",
+      "x": "-72301.5",
+      "y": "64.6563",
+      "z": "81982.4"
+    },
+    {
+      "gameName": "los_mochis",
+      "realName": "Los Mochis",
+      "country": "los_mochis",
+      "x": "-67797",
+      "y": "82.9336",
+      "z": "69818.5"
+    },
+    {
+      "gameName": "magdalenak",
+      "realName": "Magdalena de Kino",
+      "country": "magdalenak",
+      "x": "-75137.9",
+      "y": "109.477",
+      "z": "43157.5"
+    },
+    {
+      "gameName": "magdalenak",
+      "realName": "Magdalena de Kino",
+      "country": "h_nogales",
+      "x": "-75137.9",
+      "y": "109.477",
+      "z": "43157.5"
+    },
+    {
+      "gameName": "maiz",
+      "realName": "Ciudad del Maíz",
+      "country": "rioverde",
+      "x": "-19190.1",
+      "y": "123",
+      "z": "95666.4"
+    },
+    {
+      "gameName": "mapimi",
+      "realName": "Mapimí",
+      "country": "mapimi",
+      "x": "-40751.6",
+      "y": "70",
+      "z": "73471.1"
+    },
+    {
+      "gameName": "matehuala",
+      "realName": "Matehuala",
+      "country": "matehuala",
+      "x": "-24749.5",
+      "y": "114.105",
+      "z": "87939.7"
+    },
+    {
+      "gameName": "mazatlan",
+      "realName": "Mazatlán",
+      "country": "mazatlan",
+      "x": "-54732.3",
+      "y": "52.3203",
+      "z": "87832.3"
+    },
+    {
+      "gameName": "mexicali",
+      "realName": "Mexicali",
+      "country": "mexicali",
+      "x": "-92383.1",
+      "y": "50.1211",
+      "z": "28113.3"
+    },
+    {
+      "gameName": "mezquital",
+      "realName": "Mezquital",
+      "country": "mezquital",
+      "x": "-43981.6",
+      "y": "-29.2656",
+      "z": "87915"
+    },
+    {
+      "gameName": "moctezuma",
+      "realName": "Moctezuma",
+      "country": "moctezuma",
+      "x": "-68328.5",
+      "y": "70.3047",
+      "z": "45879.5"
+    },
+    {
+      "gameName": "moctezumaslp",
+      "realName": "Moctezuma",
+      "country": "sanluisp",
+      "x": "-27109.6",
+      "y": "117.059",
+      "z": "92962.3"
+    },
+    {
+      "gameName": "nacozari",
+      "realName": "Nacozari",
+      "country": "nacozari",
+      "x": "-68180.9",
+      "y": "85.9336",
+      "z": "42257.1"
+    },
+    {
+      "gameName": "navojoa",
+      "realName": "Navojoa",
+      "country": "navojoa",
+      "x": "-68552.6",
+      "y": "50.0195",
+      "z": "64116.6"
+    },
+    {
+      "gameName": "navojoa",
+      "realName": "Navojoa",
+      "country": "cd_obregon",
+      "x": "-68552.6",
+      "y": "50.0195",
+      "z": "64116.6"
+    },
+    {
+      "gameName": "nvo_casas",
+      "realName": "Nuevo Casas Grandes",
+      "country": "nvo_casas",
+      "x": "-58325.3",
+      "y": "140",
+      "z": "44735.5"
+    },
+    {
+      "gameName": "nvo_vallarta",
+      "realName": "Nuevo Vallarta",
+      "country": "nvo_vallarta",
+      "x": "-49966.9",
+      "y": "86.7461",
+      "z": "102900"
+    },
+    {
+      "gameName": "ojinaga",
+      "realName": "Ojinaga",
+      "country": "ojinaga",
+      "x": "-41514.9",
+      "y": "34.8047",
+      "z": "53936.1"
+    },
+    {
+      "gameName": "ojuelos",
+      "realName": "Ojuelos",
+      "country": "sanluisp",
+      "x": "-30366.1",
+      "y": "180",
+      "z": "97724.8"
+    },
+    {
+      "gameName": "parral",
+      "realName": "Parral",
+      "country": "parral",
+      "x": "-49800.4",
+      "y": "110",
+      "z": "66558.9"
+    },
+    {
+      "gameName": "pinos",
+      "realName": "Pinos",
+      "country": "sanluisp",
+      "x": "-29029.3",
+      "y": "144.211",
+      "z": "94768.1"
+    },
+    {
+      "gameName": "puerto_pena",
+      "realName": "Puerto Peñasco",
+      "country": "puerto_pena",
+      "x": "-84643.3",
+      "y": "78.4609",
+      "z": "34661.3"
+    },
+    {
+      "gameName": "puerto_sanc",
+      "realName": "Puerto San Carlos",
+      "country": "baja_cali_sur",
+      "x": "-84728.6",
+      "y": "50.875",
+      "z": "75038"
+    },
+    {
+      "gameName": "punta_abreo",
+      "realName": "Punta Abreojos",
+      "country": "baja_cali_sur",
+      "x": "-89163.6",
+      "y": "54.3359",
+      "z": "61505.1"
+    },
+    {
+      "gameName": "punta_prie",
+      "realName": "Punta Prieta",
+      "country": "punta_prie",
+      "x": "-89711.4",
+      "y": "47.3906",
+      "z": "48742"
+    },
+    {
+      "gameName": "rcatorce",
+      "realName": "Real de Catorce",
+      "country": "rcatorce",
+      "x": "-26718.7",
+      "y": "159.316",
+      "z": "87304"
+    },
+    {
+      "gameName": "riogrande",
+      "realName": "Río Grande",
+      "country": "riogrande",
+      "x": "-36954.9",
+      "y": "86.3477",
+      "z": "84909.9"
+    },
+    {
+      "gameName": "rioverde",
+      "realName": "Río Verde",
+      "country": "rioverde",
+      "x": "-21672.4",
+      "y": "94.5195",
+      "z": "98529.3"
+    },
+    {
+      "gameName": "sanblas",
+      "realName": "San Blas",
+      "country": "sanblas",
+      "x": "-50755.9",
+      "y": "49.543",
+      "z": "97179.3"
+    },
+    {
+      "gameName": "sanluisp",
+      "realName": "San Luis Potosí",
+      "country": "sanluisp",
+      "x": "-27379.3",
+      "y": "98.7383",
+      "z": "96228.5"
+    },
+    {
+      "gameName": "sanluisrc",
+      "realName": "San Luis Río Colorado",
+      "country": "sanluisrc",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
+    },
+    {
+      "gameName": "sanluisrc",
+      "realName": "San Luis Río Colorado",
+      "country": "mexicali",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
+    },
+    {
+      "gameName": "sanluisrc",
+      "realName": "San Luis Río Colorado",
+      "country": "yuma",
+      "x": "-85822",
+      "y": "50.1211",
+      "z": "30702.9"
+    },
+    {
+      "gameName": "santa_ana",
+      "realName": "Santa Ana",
+      "country": "cd_obregon",
+      "x": "-77887.8",
+      "y": "91.8164",
+      "z": "41657.6"
+    },
+    {
+      "gameName": "santa_rosa",
+      "realName": "Santa Rosalía",
+      "country": "baja_cali_sur",
+      "x": "-81985",
+      "y": "55.4961",
+      "z": "59817"
+    },
+    {
+      "gameName": "santiagopap",
+      "realName": "Santiago Papasquiaro",
+      "country": "santiagopap",
+      "x": "-49233.5",
+      "y": "55.8047",
+      "z": "77940.5"
+    },
+    {
+      "gameName": "san_felipe",
+      "realName": "San Felípe",
+      "country": "san_felipe",
+      "x": "-90542.5",
+      "y": "50.4297",
+      "z": "36321.8"
+    },
+    {
+      "gameName": "sombre",
+      "realName": "Sombrerete",
+      "country": "sombre",
+      "x": "-39808.1",
+      "y": "53.6172",
+      "z": "86782.2"
+    },
+    {
+      "gameName": "sonoyta",
+      "realName": "Sonoyta",
+      "country": "sonoyta",
+      "x": "-81177.1",
+      "y": "95.7148",
+      "z": "32482.3"
+    },
+    {
+      "gameName": "stamaoro",
+      "realName": "Santa María del Oro",
+      "country": "stamaoro",
+      "x": "-47788",
+      "y": "130",
+      "z": "71899.9"
+    },
+    {
+      "gameName": "stamariar",
+      "realName": "Santa María del Rio",
+      "country": "sanluisp",
+      "x": "-25493.9",
+      "y": "103.008",
+      "z": "99220.6"
+    },
+    {
+      "gameName": "tamazula",
+      "realName": "Tamazula",
+      "country": "culiacan",
+      "x": "-55266.3",
+      "y": "46.8047",
+      "z": "78948.5"
+    },
+    {
+      "gameName": "tamazunchale",
+      "realName": "Tamazunchale",
+      "country": "tamazunchale",
+      "x": "-15649.9",
+      "y": "129.145",
+      "z": "100829"
+    },
+    {
+      "gameName": "tecuala",
+      "realName": "Tecuala",
+      "country": "acaponeta",
+      "x": "-51019.6",
+      "y": "61.0508",
+      "z": "93164.7"
+    },
+    {
+      "gameName": "tepic",
+      "realName": "Tepic",
+      "country": "tepic",
+      "x": "-46889.3",
+      "y": "145",
+      "z": "98193.3"
+    },
+    {
+      "gameName": "tijuana",
+      "realName": "Tijuana",
+      "country": "san_diego",
+      "x": "-99184.2",
+      "y": "49.7773",
+      "z": "27196.8"
+    },
+    {
+      "gameName": "tlalte",
+      "realName": "Tlaltenango",
+      "country": "tlalte",
+      "x": "-39775.4",
+      "y": "84.0586",
+      "z": "97674.3"
+    },
+    {
+      "gameName": "urique",
+      "realName": "Urique",
+      "country": "urique",
+      "x": "-62632.4",
+      "y": "-549.055",
+      "z": "62993.2"
+    },
+    {
+      "gameName": "valles",
+      "realName": "Ciudad Valles",
+      "country": "valles",
+      "x": "-15868.6",
+      "y": "95.6523",
+      "z": "97722.6"
+    },
+    {
+      "gameName": "vdurango",
+      "realName": "Durango",
+      "country": "vdurango",
+      "x": "-45394.6",
+      "y": "40",
+      "z": "84324.4"
+    },
+    {
+      "gameName": "venegas",
+      "realName": "Vanegas",
+      "country": "matehuala",
+      "x": "-26572.9",
+      "y": "119.891",
+      "z": "85806.8"
+    },
+    {
+      "gameName": "villanueva",
+      "realName": "Villanueva",
+      "country": "zacatecas",
+      "x": "-36782.9",
+      "y": "151.527",
+      "z": "95035"
+    },
+    {
+      "gameName": "villa_g",
+      "realName": "Villa de Guadalupe",
+      "country": "matehuala",
+      "x": "-25183",
+      "y": "100.305",
+      "z": "89954.2"
+    },
+    {
+      "gameName": "vzaragoza",
+      "realName": "Villa Zaragoza",
+      "country": "sanluisp",
+      "x": "-25323.1",
+      "y": "117.215",
+      "z": "97196.6"
+    },
+    {
+      "gameName": "v_ahumada",
+      "realName": "Villa Ahumada",
+      "country": "elpaso",
+      "x": "-51593.6",
+      "y": "139.609",
+      "z": "44591.8"
+    },
+    {
+      "gameName": "yecora",
+      "realName": "Yécora",
+      "country": "yecora",
+      "x": "-65075.4",
+      "y": "238.879",
+      "z": "57626.5"
+    },
+    {
+      "gameName": "zacatecas",
+      "realName": "Zacatecas",
+      "country": "zacatecas",
+      "x": "-33904.4",
+      "y": "150",
+      "z": "92182.5"
+    },
+    {
+      "gameName": "zacatecas",
+      "realName": "Zacatecas",
+      "country": "fresnillo",
+      "x": "-33904.4",
+      "y": "150",
+      "z": "92182.5"
     },
 ];
 
