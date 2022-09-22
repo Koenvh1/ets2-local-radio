@@ -5521,12 +5521,12 @@ var stations = {
             name: "KJIL 91.9",
             logo: "stations/images-america/lamar/KJIL 91.9.png",
             url: "https://ice41.securenetsystems.net/KJILW"
-        },
+        },/*
         {
             name: "The Heat 93.5",
             logo: "stations/images-america/lamar/The Heat 93.5.png",
             url: "https://www.streamvortex.com:8444/s/11570"
-        },
+        },*/
         {
             name: "KVAY 105.7",
             logo: "stations/images-america/lamar/KVAY 105.7.png",
@@ -12690,7 +12690,7 @@ var stations = {
         {
             name: "La Campesina 104.5",
             logo: "stations/images-america/yuma/La Campesina 104.5.png",
-            url: "https://ice9.securenetsystems.net/KCEC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCECFMAAC_SC"
         },
         {
             name: "560 KBLU",
@@ -12916,7 +12916,7 @@ var stations_mexico = {
         {
             name: "Radio Voz y Vision 99.5",
             logo: "stations/images-america/mexico/buenvent/Radio Voz y Vision 99.5.png",
-            url: "https://stream2.305stream.com/proxy/client079?mp=/;"
+            url: "http://stream.zenolive.com/kpypbn16hm5tv"
         },
     ],
     "caborca": [
@@ -13483,7 +13483,7 @@ var stations_mexico = {
         {
             name: "Los 40 100.5",
             logo: "stations/images-america/mexico/delicias/Los 40 100.5.png",
-            url: "https://sigmaradio.stream:9004/;"
+            url: "http://sigmaradio.stream:9004/;"
         },
         {
             name: "Romántica 102.1",
@@ -14927,12 +14927,12 @@ var stations_mexico = {
         {
             name: "Imagen Radio 103.1",
             logo: "stations/images-america/mexico/sanluisp/Imagen Radio 103.1.png",
-            url: "https://hd.digitalradio.mx:5910/;"
+            url: "http://hd.digitalradio.mx:5910/;"
         },
         {
             name: "Los 40 103.9",
             logo: "stations/images-america/mexico/sanluisp/Los 40 103.9.png",
-            url: "https://hd.digitalradio.mx:5914/;"
+            url: "http://hd.digitalradio.mx:5914/;"
         },
         {
             name: "La Lupe 104.9",
