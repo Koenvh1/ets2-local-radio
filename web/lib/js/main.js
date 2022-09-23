@@ -173,7 +173,6 @@ function initialise() {
 }
 
 function refresh(data) {
-
     var country_lowest_distance = "nothing";
     var city_lowest_distance = "nothing";
     var lowest_distance = 999999999999999999;
@@ -261,23 +260,34 @@ function refresh(data) {
             };
         }
 
+        var country_best_reception = "nothing";
+        var lowest_whitenoise = 999999;
+        for (var key in available_countries) {
+            if (!available_countries.hasOwnProperty(key)) continue;
+            if (key === "global") continue;
+            if (available_countries[key].whitenoise <= lowest_whitenoise) {
+                lowest_whitenoise = available_countries[key].whitenoise;
+                country_best_reception = available_countries[key].country;
+            }
+        }
+
         available_countries = sortObject(available_countries);
 
         $(".nearestCity").html(city_lowest_distance + "; " + country_lowest_distance);
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
         if (!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_lowest_distance]["distance"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["distance"] &&
-            g_last_nearest_country != country_lowest_distance)) {
+            (available_countries[country_best_reception]["whitenoise"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["whitenoise"] &&
+            g_last_nearest_country != country_best_reception)) {
             //If current station country is not close enough OR (the distance + threshold is larger than the new country's distance and the last station wasn't set manually.
-            g_last_nearest_country = country_lowest_distance;
+            g_last_nearest_country = country_best_reception;
 
 
             //Check if there is a favourite station:
             var index = 0;
-            $.getJSON(g_api + "/favourite/" + country_lowest_distance, function (favourite_lowest_distance) {
+            $.getJSON(g_api + "/favourite/" + country_best_reception, function (favourite_lowest_distance) {
                 if (favourite_lowest_distance["Name"] != "") {
-                    index = stations[country_lowest_distance].map(function (e) {
+                    index = stations[country_best_reception].map(function (e) {
                         return e.name;
                     }).indexOf(favourite_lowest_distance["Name"]);
                     if(index < 0){
@@ -286,9 +296,9 @@ function refresh(data) {
                 }
                 if(!controlRemote) {
                     //If remote player, don't set radio station
-                    setRadioStation(stations[country_lowest_distance][index]["url"], country_lowest_distance, available_countries[country_lowest_distance]["whitenoise"]);
+                    setRadioStation(stations[country_best_reception][index]["url"], country_best_reception, available_countries[country_best_reception]["whitenoise"]);
                 } else {
-                    g_current_url = stations[country_lowest_distance][index]["url"];
+                    g_current_url = stations[country_best_reception][index]["url"];
                 }
                 refreshStations();
             });
@@ -395,7 +405,7 @@ function setRadioStation(url, country, volume) {
 
     $.get(g_api + "/station/" + encodeURIComponent(stations[country][index].name) + "/" +
         calculateReception(g_countries[country].whitenoise) + "/?" +
-        g_skinConfig["url-prefix"] + stations[country][index].logo);
+        getFullLogoUrl(stations[country][index].logo));
 }
 
 function setWhitenoise(volume) {
@@ -554,6 +564,14 @@ function scrollToStation() {
     },500);
 }
 
+function getFullLogoUrl(logo) {
+    if (logo.startsWith("http://") || logo.startsWith("https://")) {
+        return logo;
+    } else {
+        return g_skinConfig['url-prefix'] + logo;
+    }
+}
+
 function calculateReception(whitenoise) {
     var reception = Math.pow(parseFloat(whitenoise), 2) - 0.15;
     if(reception  < 0.05){
@@ -614,7 +632,7 @@ function refreshStations() {
                     '<div class="thumbnail ' + ((g_current_url == stations[key][j]['url'] && g_current_country == key) ? "thumbnail-selected" : "") + '" href="#" onclick="setRadioStation(\'' + stations[key][j]['url'] + '\',' +
                     ' \'' + key + '\',' +
                     ' \'' + volume + '\'); document.getElementById(\'player\').play(); event.preventDefault();">' +
-                    '<div class="frame text-center"><div class="station-image-container"><img src="' + g_skinConfig['url-prefix'] + stations[key][j]['logo'] + '"></div><br>' +
+                    '<div class="frame text-center"><div class="station-image-container"><img src="' + getFullLogoUrl(stations[key][j]['logo']) + '"></div><br>' +
                     '<h3 class="station-title overflow">' + stations[key][j]['name'] + '</h3>' +
                     '<span class="overflow station-subtitle">' + (typeof country_properties[key].name !== "undefined" ? country_properties[key].name : key.toUpperCase()) +
                     (typeof country_properties[key].code !== "undefined" ? " <img src='lib/flags/" + country_properties[key].code + ".svg' class='flag' alt='Flag'>" : "") + '</span>' +
@@ -634,7 +652,7 @@ function refreshStations() {
     }).indexOf(g_current_url);
 
     $(".current-station").html(stations[g_current_country][index].name);
-    $(".current-station-image").attr("src", g_skinConfig["url-prefix"] + stations[g_current_country][index].logo);
+    $(".current-station-image").attr("src", getFullLogoUrl(stations[g_current_country][index].logo));
     $(".current-station-country").html(country_properties[g_current_country].name);
     $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
     if(g_favourites[g_current_country] == stations[g_current_country][index].name) {
@@ -703,15 +721,6 @@ if (!String.prototype.startsWith) {
         return this.substr(!pos || pos < 0 ? 0 : +pos, search.length) === search;
     };
 }
-
-/*
-function sortObject(obj) {
-    return Object.keys(obj).sort().reduce(function (result, key) {
-        result[key] = obj[key];
-        return result;
-    }, {});
-}
-*/
 
 function sortObject(obj) {
     var arr = [];

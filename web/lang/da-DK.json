@@ -1,7 +1,7 @@
 {
     "web": {
         "author": "D9",
-        "now-playing": "Spiller:",
+        "now-playing": "Afspiller:",
         "connect-other-device": "Forbind til en anden enhed",
         "coverage-map": "D\u00e6kningskort",
         "stop-playback": "Stop afspilning",
