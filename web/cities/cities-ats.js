@@ -6685,7 +6685,7 @@ var country_properties_c2c = {
         name: "Presidio",
         name_english: "Presidio",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "sanantonio": {
         name: "sanantonio",
@@ -7532,6 +7532,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "presidio": {
+		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "sanantonio": {
@@ -9482,7 +9483,7 @@ var cities_c2c = [
     {
         "gameName": "presidio",
         "realName": "Presidio",
-        "country": "presidio",
+        "country": "ojinaga",
         "x": "-39989.5",
         "y": "38.5195",
         "z": "51575.1"
