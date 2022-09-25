@@ -14535,13 +14535,6 @@ var stations_mexico = {
             url: "https://streamssl.eu:2224/;stream"
         },
     ],
-    "mezquital": [
-        {
-            name: "No stations in Mezquital",
-            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
-            url: ""
-        },
-    ],
     "moctezuma": [
         {
             name: "Radio Sonora 94.7",
@@ -35506,6 +35499,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC_SC"
         },
         {
+            name: "Radio Victoria 92.7",
+            logo: "stations/images-america/c2c/elpaso_tx/Radio Victoria 92.7.png",
+            url: "https://stream.radiojar.com/y5zx4f9x7bhvv"
+        },
+        {
             name: "93.1 KISS FM",
             logo: "stations/images-america/c2c/elpaso_tx/93.1 Kiss FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ksiifmaac-ibc3"
@@ -35601,9 +35599,19 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-krodamaac-ibc3"
         },
         {
+            name: "La Lupe 640",
+            logo: "stations/images-america/c2c/elpaso_tx/La Lupe 640.png",
+            url: "https://streaming.multimedios.com/station4"
+        },
+        {
             name: "690 KTSM",
             logo: "stations/images-america/c2c/elpaso_tx/690 KTSM.png",
             url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
+        },
+        {
+            name: "XEJCC 720",
+            logo: "stations/images-america/c2c/elpaso_tx/La Z 103.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC_SC"
         },
         {
             name: "KAMA 750",
@@ -35611,14 +35619,74 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAMA750_AMAAC_SC"
         },
         {
+            name: "Calibre 800",
+            logo: "stations/images-america/c2c/elpaso_tx/Calibre 800.png",
+            url: "http://radio.spiritmedia.mx:8000/xerok"
+        },
+        {
+            name: "860 Líder Informativo",
+            logo: "stations/images-america/c2c/elpaso_tx/860 Líder Informativo.png",
+            url: "https://tv.radiohosting.online:8102/stream"
+        },
+        {
             name: "Lone Star 920",
             logo: "stations/images-america/c2c/elpaso_tx/Lone Star 920.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQBUAMAAC_SC"
         },
         {
+            name: "La Rancherita 1000",
+            logo: "stations/images-america/c2c/elpaso_tx/La Rancherita 1000.png",
+            url: "https://tv.radiohosting.online:8104/stream"
+        },
+        {
+            name: "Cristo Rey 1110",
+            logo: "stations/images-america/c2c/elpaso_tx/Cristo Rey 1110.png",
+            url: "http://ice9.securenetsystems.net/STPX"
+        },
+        {
+            name: "XEPZ 1190",
+            logo: "stations/images-america/mexico/h_nogales/Máxima 99.1.png",
+            url: "https://ice42.securenetsystems.net/KOFH"
+        },
+        {
+            name: "Radio Guadalupana 1240",
+            logo: "stations/images-america/c2c/elpaso_tx/Radio Guadalupana 1240.png",
+            url: "https://edge.mixlr.com/channel/bhama"
+        },
+        {
             name: "FOX Sports 1380",
             logo: "stations/images-america/c2c/elpaso_tx/Fox Sports Radio 1380.png",
             url: "https://stream.revma.ihrhls.com/zc5169/hls.m3u8"
+        },
+        {
+            name: "Activa 1420",
+            logo: "stations/images-america/c2c/elpaso_tx/Activa 1420.png",
+            url: "https://tv.radiohosting.online:8100/stream"
+        },	
+        {
+            name: "Radio Fórmula 1460",
+            logo: "stations/images-america/c2c/elpaso_tx/Radio Fórmula 1460.png",
+            url: "https://stream.radiojar.com/fh5c5rmr2p8uv"
+        },
+        {
+            name: "Radionet 1490",
+            logo: "stations/images-america/c2c/elpaso_tx/Radionet 1490.png",
+            url: "http://167.114.173.72:8166/;"
+        },
+        {
+            name: "Radio Deportiva 1560",
+            logo: "stations/images-america/c2c/elpaso_tx/Radio Deportiva 1560.png",
+            url: "http://52.52.51.21:8000/XEJPV.ogg"
+        },
+        {
+            name: "KELP 1590",
+            logo: "stations/images-america/c2c/elpaso_tx/KELP 1590.png",
+            url: "https://ais-sa1.streamon.fm/7218_32k.aac"
+        },
+        {
+            name: "TUDN Radio 1650",
+            logo: "stations/images-america/c2c/elpaso_tx/TUDN Radio 1650.png",
+            url: "https://live.wostreaming.net/manifest/univision-deportesaac-ibc2"
         },
     ],
     "fort_stockton": [

@@ -465,7 +465,7 @@ var country_properties = {
         name: "Las Cruces",
         name_english: "Las Cruces",
         code: "us-nm",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "las_vegas": {
         name: "Las Vegas",
@@ -1264,6 +1264,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "las_cruces": {
+		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
     "las_vegas": {
@@ -2327,7 +2328,15 @@ var cities = [
         "gameName": "las_cruces",
         "realName": "Las Cruces",
         "country": "las_cruces",
-        "x": "-53615.8",
+        "x": "-54015.8",
+        "y": "104.428",
+        "z": "34945.3"
+    },
+    {
+        "gameName": "las_cruces",
+        "realName": "Las Cruces",
+        "country": "elpaso",
+        "x": "-54015.8",
         "y": "104.428",
         "z": "34945.3"
     },
@@ -3104,7 +3113,7 @@ var country_properties_mexico = {
         name: "Ascensión",
         name_english: "Ascensión",
         code: "mx-chh",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "baja_cali_sur": {
         name: "Baja California Sur",
@@ -3502,12 +3511,6 @@ var country_properties_mexico = {
         code: "mx-bcn",
         relative_radius: 0.5
     },
-    "mezquital": {
-        name: "Mezquital",
-        name_english: "Mezquital",
-        code: "mx-dur",
-        relative_radius: 0.4
-    },
     "moctezuma": {
         name: "Moctezuma",
         name_english: "Moctezuma",
@@ -3758,7 +3761,7 @@ var country_properties_mexico = {
         name: "Villa Ahumada",
         name_english: "Villa Ahumada",
         code: "mx-chh",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "yecora": {
         name: "Yécora",
@@ -4018,9 +4021,6 @@ var city_properties_mexico = {
     "mexicali": {
         relative_whitenoise: 0.85
     },
-    "mezquital": {
-        relative_whitenoise: 0.85
-    },
     "moctezuma": {
         relative_whitenoise: 0.85
     },
@@ -4161,8 +4161,8 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "v_ahumada": {
-        relative_radius: 1.0,
-        relative_whitenoise: 0.85
+        relative_radius: 0.6,
+        relative_whitenoise: 1.0
     },
     "yecora": {
         relative_whitenoise: 0.85
@@ -4799,14 +4799,6 @@ var cities_mexico = [
       "z": "28113.3"
     },
     {
-      "gameName": "mezquital",
-      "realName": "Mezquital",
-      "country": "mezquital",
-      "x": "-43981.6",
-      "y": "-29.2656",
-      "z": "87915"
-    },
-    {
       "gameName": "moctezuma",
       "realName": "Moctezuma",
       "country": "moctezuma",
@@ -5164,7 +5156,7 @@ var cities_mexico = [
       "country": "elpaso",
       "x": "-51593.6",
       "y": "139.609",
-      "z": "44591.8"
+      "z": "43591.8"
     },
     {
       "gameName": "yecora",
@@ -6646,10 +6638,10 @@ var country_properties_c2c = {
         relative_radius: 0.8
     },
     "elpaso": {
-        name: "elpaso",
-        name_english: "elpaso",
+        name: "El Paso / Ciudad Juárez",
+        name_english: "El Paso / Ciudad Juárez",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "houston": {
         name: "houston",
@@ -9434,11 +9426,11 @@ var cities_c2c = [
     },
     {
         "gameName": "elpaso",
-        "realName": "El Paso",
+        "realName": "El Paso / Ciudad Juárez",
         "country": "elpaso",
-        "x": "-51000",
+        "x": "-50000",
         "y": "113.516",
-        "z": "37944.1"
+        "z": "39644.1"
     },
     {
         "gameName": "houston",
@@ -10962,9 +10954,9 @@ var cities_canada = [
         "gameName": "thunderbay",
         "realName": "Thunder Bay",
         "country": "thunderbay",
-        "x": "25157.2",
-        "y": "100.648",
-        "z": "-54438.7"
+        "x": "25738.7",
+        "y": "69.7773",
+        "z": "-54215"
     },
     {
         "gameName": "toronto",
