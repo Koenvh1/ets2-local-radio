@@ -16829,7 +16829,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc717/hls.m3u8"
         },
         {
-            name: "Country Top 30 with Bobby B. 105.5-HD2",
+            name: "Country Top 30 105.5-HD2",
             logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
             url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
         },
@@ -35494,6 +35494,21 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTEPFM_SC"
         },
         {
+            name: "K-LOVE 89.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Manantial FM 91.1",
+            logo: "stations/images-america/yuma/Manantial FM 91.9.png",
+            url: "http://ic2.christiannetcast.com/kyrm-fm"
+        },
+        {
+            name: "Family Radio 91.7",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
             name: "92.3 The Fox",
             logo: "stations/images-america/c2c/elpaso_tx/92.3 The Fox.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC_SC"
@@ -35544,7 +35559,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3192/hls.m3u8"
         },
         {
-            name: "Country Top 30 with Bobby B. 96.3-HD2",
+            name: "Country Top 30 96.3-HD2",
             logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
             url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
         },
@@ -35552,6 +35567,16 @@ var stations_c2c = {
             name: "KéBuena 97.5",
             logo: "stations/images-america/c2c/elpaso_tx/KéBuena 97.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBNA975_FMAAC_SC"
+        },
+        {
+            name: "exa 98.3",
+            logo: "stations/images-america/c2c/elpaso_tx/exa 98.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPXAAC_SC"
+        },
+        {
+            name: "Máxima 99.1",
+            logo: "stations/images-america/c2c/elpaso_tx/Máxima 99.1.png",
+            url: "https://streamingcwsradio30.com/8298/stream"
         },
         {
             name: "Sunny 99.9",
@@ -35592,6 +35617,21 @@ var stations_c2c = {
             name: "Órbita 106.7",
             logo: "stations/images-america/c2c/elpaso_tx/Órbita 106.7.png",
             url: "http://s2.mexside.net:8044/;"
+        },
+        {
+            name: "Radio México Internacional 106.7-HD2",
+            logo: "stations/images-america/c2c/elpaso_tx/Radio México Internacional 106.7-HD2.png",
+            url: "https://s2.mexside.net/8020/stream"
+        },
+        {
+            name: "Interferencia 106.7-HD3",
+            logo: "stations/images-america/c2c/elpaso_tx/Interferencia 106.7-HD3.png",
+            url: "https://s2.mexside.net/8022/stream"
+        },
+        {
+            name: "La Poderosa 107.5",
+            logo: "stations/images-america/c2c/elpaso_tx/La Poderosa 107.5.png",
+            url: "https://stream.zeno.fm/ffm0e4yv538uv"
         },
         {
             name: "600 ESPN",
@@ -35642,11 +35682,6 @@ var stations_c2c = {
             name: "Cristo Rey 1110",
             logo: "stations/images-america/c2c/elpaso_tx/Cristo Rey 1110.png",
             url: "http://ice9.securenetsystems.net/STPX"
-        },
-        {
-            name: "XEPZ 1190",
-            logo: "stations/images-america/mexico/h_nogales/Máxima 99.1.png",
-            url: "https://ice42.securenetsystems.net/KOFH"
         },
         {
             name: "Radio Guadalupana 1240",

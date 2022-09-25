@@ -6638,8 +6638,8 @@ var country_properties_c2c = {
         relative_radius: 0.8
     },
     "elpaso": {
-        name: "El Paso / Ciudad Juárez",
-        name_english: "El Paso / Ciudad Juárez",
+        name: "El Paso / Cd. Juárez",
+        name_english: "El Paso / Cd. Juárez",
         code: "us-tx",
         relative_radius: 0.8
     },
@@ -9426,7 +9426,7 @@ var cities_c2c = [
     },
     {
         "gameName": "elpaso",
-        "realName": "El Paso / Ciudad Juárez",
+        "realName": "El Paso / Cd. Juárez",
         "country": "elpaso",
         "x": "-50000",
         "y": "113.516",
