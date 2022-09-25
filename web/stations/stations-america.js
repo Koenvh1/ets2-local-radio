@@ -35649,11 +35649,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
         },
         {
-            name: "XEJCC 720",
-            logo: "stations/images-america/c2c/elpaso_tx/La Z 103.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC_SC"
-        },
-        {
             name: "KAMA 750",
             logo: "stations/images-america/c2c/elpaso_tx/KAMA 750.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAMA750_AMAAC_SC"
