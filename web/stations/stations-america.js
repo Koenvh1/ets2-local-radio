@@ -747,6 +747,11 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KBHR"
         },
         {
+            name: "El Portal 95.9",
+            logo: "stations/images-america/barstow/El Portal 95.9.png",
+            url: "http://freeuk23.listen2myradio.com:39586/;"
+        },
+        {
             name: "DRIVE 96.9",
             logo: "stations/images-america/barstow/DRIVE 96.9.png",
             url: "https://streaming.live365.com/a98605"
@@ -5452,12 +5457,12 @@ var stations = {
             name: "KePadre 104.9",
             logo: "stations/images-america/kramer_junction/KePadre 104.9.png",
             url: "https://centova12.instainternet.com/proxy/kepadre?mp=/stream"
-        },
+        },/*
         {
             name: "KMIX 106.3",
             logo: "stations/images-america/kramer_junction/KMIX 106.3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=http://ice10.securenetsystems.net/KGMX"
-        },
+        },*/
         {
             name: "The Highway Country 107.3",
             logo: "stations/images-america/barstow/The Highway Country 107.3.png",
@@ -8308,11 +8313,6 @@ var stations = {
             url: "https://bustosradio.com:9036/kwby"
         },
         {
-            name: "TUDN Deportes 1010",
-            logo: "stations/images-america/portland/TUDN Deportes 1010.png",
-            url: "https://ice9.securenetsystems.net/KOOR"
-        },
-        {
             name: "1080 The Fan",
             logo: "stations/images-america/portland/1080 The Fan.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kfxxamaac-imc"
@@ -10225,6 +10225,11 @@ var stations = {
             url: "http://ksds-ice.streamguys.com/sds.mp3"
         },
         {
+            name: "Radio Tecnológico 88.7",
+            logo: "stations/images-america/san_diego/Radio Tecnológico 88.7.png",
+            url: "https://playback2.akamaized.net/streams/22375670_6871847_lsi9zjf6skchki43tcw_1/master.m3u8"
+        },
+        {
             name: "KPBS 89.5",
             logo: "stations/images-america/san_diego/KPBS.png",
             url: "https://kpbs.streamguys1.com/kpbs-mp3"
@@ -10255,7 +10260,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
         },
         {
-            name: "Exa FM 91.7",
+            name: "exa 91.7",
             logo: "stations/images-america/san_diego/Exa FM 91.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC_SC"
         },
@@ -10315,8 +10320,8 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-comedynowaac-imc"
         },
         {
-            name: "La Caliente 95.3",
-            logo: "stations/images-america/san_diego/La Caliente 95.3.png",
+            name: "La Lupe 95.3",
+            logo: "stations/images-america/san_diego/La Lupe 95.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LACALIENTEAAC_SC"
         },
         {
@@ -10373,6 +10378,11 @@ var stations = {
             name: "FM Globo 99.3",
             logo: "stations/images-america/san_diego/FM Globo 99.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC_SC"
+        },
+        {
+            name: "Invasora 99.7",
+            logo: "stations/images-america/san_diego/Invasora 99.7.png",
+            url: "https://streamingcwsradio30.com:7022/stream"
         },
         {
             name: "100.7 BIG FM",
@@ -10445,9 +10455,19 @@ var stations = {
             url: "http://vsstreaming.com:8026/stream"
         },
         {
+            name: "Radio Zion 540",
+            logo: "stations/images-america/san_diego/Radio Zion 540.png",
+            url: "https://zionmultimedia.live/radio/8010/radio.mp3"
+        },
+        {
             name: "600 KOGO",
             logo: "stations/images-america/san_diego/600 KOGO.png",
             url: "https://stream.revma.ihrhls.com/zc257/hls.m3u8"
+        },
+        {
+            name: "Unanimo 620",
+            logo: "stations/images-america/san_diego/Unanimo 620.png",
+            url: "http://108.163.223.242:8018/stream"
         },
         {
             name: "URadio 690",
@@ -10465,19 +10485,79 @@ var stations = {
             url: "https://streamingcwsradio30.com:7024/stream"
         },
         {
+            name: "Family Radio 920",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },	
+        {
+            name: "Radio Fórmula 950",
+            logo: "stations/images-america/san_diego/Radio Fórmula 950.png",
+            url: "https://stream.radiojar.com/nce1peen3p8uv"
+        },
+        {
+            name: "Relevant Radio 1000",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },	
+        {
+            name: "La Tremenda 1030",
+            logo: "stations/images-america/san_diego/La Tremenda 1030.png",
+            url: "http://108.163.223.242:8272/stream"
+        },
+        {
+            name: "ESNE Radio 1040",
+            logo: "stations/images-america/san_diego/ESNE Radio 1040.png",
+            url: "https://s9.voscast.com:8933/xstream"
+        },
+        {
             name: "Mightier 1090",
             logo: "stations/images-america/san_diego/Mightier 1090.png",
             url: "https://backbonenetworks.streamguys1.com/XEPRS.mp3"
-        },
+        },	
+        {
+            name: "Radio Inspiración 1130",
+            logo: "stations/images-america/san_diego/Radio Inspiración 1130.png",
+            url: "https://us3.streamingpulse.com/ssl/7356"
+        },	
         {
             name: "1170 The Answer",
             logo: "stations/images-america/san_diego/1170 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
         },
         {
+            name: "K-Praise 1210",
+            logo: "stations/images-america/san_diego/K-Praise 1210.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRZAMAAC_SC"
+        },
+        {
+            name: "KBRITE 1240",
+            logo: "stations/images-america/san_diego/KBRITE 1240.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNSNAMAAC_SC"
+        },
+        {
+            name: "Radio Enciso 1310",
+            logo: "stations/images-america/san_diego/Radio Enciso 1310.png",
+            url: "http://67.212.165.106:8127/stream"
+        },
+        {
             name: "The Patriot 1360",
             logo: "stations/images-america/san_diego/The Patriot 1360.png",
             url: "https://stream.revma.ihrhls.com/zc249/hls.m3u8"
+        },
+        {
+            name: "RCN 1470",
+            logo: "stations/images-america/san_diego/RCN 1470.png",
+            url: "https://streamingcwsradio30.com:7025/stream"
+        },
+        {
+            name: "UABC Radio 1630",
+            logo: "stations/images-america/san_diego/UABC Radio 1630.png",
+            url: "http://148.231.3.56/mxl"
+        },
+        {
+            name: "Heraldo 1700",
+            logo: "stations/images-america/san_diego/Heraldo 1700.png",
+            url: "https://stream.radiojar.com/sph5dfv2h2zuv"
         },
     ],
     "sandpoint": [

@@ -441,7 +441,7 @@ var country_properties = {
         name: "Kramer Junction",
         name_english: "Kramer Junction",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "lakeview": {
         name: "Lakeview",
@@ -1252,7 +1252,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kramer_junction": {
-        relative_whitenoise: 0.75
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
     },
     "lakeview": {
         relative_whitenoise: 0.85
@@ -2488,6 +2489,14 @@ var cities = [
         "gameName": "kramer_junction",
         "realName": "Kramer Junction",
         "country": "kramer_junction",
+        "x": "-99306",
+        "y": "46.9573",
+        "z": "10385.2"
+    },
+    {
+        "gameName": "kramer_junction",
+        "realName": "Kramer Junction",
+        "country": "barstow",
         "x": "-99306",
         "y": "46.9573",
         "z": "10385.2"
