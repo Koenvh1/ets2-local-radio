@@ -28532,7 +28532,7 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wtbdfmaac-ibc3"
         },
         {
-            name: "WCDO 100.9",
+            name: "100.3 The Eagle",
             logo: "stations/images-america/c2c/oneonta_ny/100.3 The Eagle.png",
             url: "https://live.amperwave.net/manifest/townsquare-wdhifmaac-ibc3"
         },
