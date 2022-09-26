@@ -11908,9 +11908,24 @@ var stations = {
     ],
     "tucson": [
         {
+            name: "K-LOVE 88.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "NPR 89.1",
             logo: "stations/images-america/tucson/NPR 89.1.png",
-            url: "http://128.196.34.144/z-stream/kuaz.m3u8"
+            url: "https://hls.azpm.org/fz-stream/128k/kuaz128.m3u8"
+        },
+        {
+            name: "Jazz 89.1-HD2",
+            logo: "stations/images-america/tucson/Jazz 89.1-HD2.png",
+            url: "https://hls.azpm.org/fj-stream/128k/fjazz128.m3u8"
+        },
+        {
+            name: "Radio Impacto 90.1",
+            logo: "stations/images-america/tucson/Radio Impacto 90.1.png",
+            url: "https://108.59.9.147:8306/;"
         },
         {
             name: "Classical 90.5",
@@ -11928,6 +11943,11 @@ var stations = {
             url: "http://shoutcast.kvan.fm:8000/radio"
         },
         {
+            name: "La Caliente 92.1",
+            logo: "stations/images-america/tucson/La Caliente 92.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFMAAC_SC"
+        },
+        {
             name: "92.5 Urbana",
             logo: "stations/images-america/tucson/92.5 Urbana.png",
             url: "https://ice42.securenetsystems.net/KZLZHD2"
@@ -11938,9 +11958,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
+            name: "Love Songs Radio 92.9-HD2",
+            logo: "stations/images-america/tucson/Love Songs Radio 92.9-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc6790/hls.m3u8"
+        },
+        {
             name: "93.7 KRQ",
             logo: "stations/images-america/tucson/93.7 KRQ.png",
             url: "https://stream.revma.ihrhls.com/zc77/hls.m3u8"
+        },
+        {
+            name: "La Buena 94.3",
+            logo: "stations/images-america/tucson/La Buena 94.3.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTKTFMAAC_SC"
         },
         {
             name: "94.9 MIXfm",
@@ -11953,14 +11983,9 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLPXFMAAC_SC"
         },
         {
-            name: "my 97.1",
-            logo: "stations/images-america/tucson/my 97.1.png",
+            name: "Mega 97.1",
+            logo: "stations/images-america/tucson/Mega 97.1.png",
             url: "https://stream.revma.ihrhls.com/zc69/hls.m3u8"
-        },
-        {
-            name: "Love Songs Radio 97.1-HD2",
-            logo: "stations/images-america/tucson/Love Songs Radio 97.1-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6790/hls.m3u8"
         },
         {
             name: "97.5 The Vibe",
@@ -12013,9 +12038,19 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFMAAC_SC"
         },
         {
+            name: "Manantial FM 102.7",
+            logo: "stations/images-america/yuma/Manantial FM 91.9.png",
+            url: "http://ic2.christiannetcast.com/kyrm-fm"
+        },
+        {
             name: "103.1 KCDX",
             logo: "stations/images-america/tucson/103.1 KCDX.png",
             url: "https://vdn.terrafox.com/audio/kcdx/playlist.m3u8"
+        },
+        {
+            name: "Family Life Radio 104.1",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
         },
         {
             name: "ESPN 104.9",
@@ -12038,6 +12073,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHYTFMAAC_SC"
         },
         {
+            name: "Reach Radio 690",
+            logo: "stations/images-america/tucson/Reach Radio 690.png",
+            url: "https://streamer.radio.co/s66752de62/listen"
+        },
+        {
             name: "KNST AM 790",
             logo: "stations/images-america/tucson/KNST AM 790.png",
             url: "https://stream.revma.ihrhls.com/zc3282/hls.m3u8"
@@ -12051,6 +12091,11 @@ var stations = {
             name: "1030 KVOI",
             logo: "stations/images-america/tucson/1030 KVOI.png",
             url: "https://ice41.securenetsystems.net/KVOI"
+        },
+        {
+            name: "KGVY 1080",
+            logo: "stations/images-america/tucson/KGVY 1080.png",
+            url: "https://ice10.securenetsystems.net/KGVY"
         },
         {
             name: "Wildcats Radio 1290",
