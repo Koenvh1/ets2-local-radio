@@ -28507,6 +28507,11 @@ var stations_c2c = {
             url: "https://ic1.sslstream.com/wmhr-ir"
         },
         {
+            name: "WONY 90.9",
+            logo: "stations/images-america/c2c/oneonta_ny/WONY 90.9.png",
+            url: "https://46.105.180.202:8053/live"
+        },
+        {
             name: "WSKG 91.7",
             logo: "stations/images-america/c2c/binghamton_ny/WSKG 89.3.png",
             url: "https://wskg.streamguys1.com/wskg"
@@ -28525,6 +28530,11 @@ var stations_c2c = {
             name: "97.5 WTBD",
             logo: "stations/images-america/c2c/oneonta_ny/97.5 WTBD.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wtbdfmaac-ibc3"
+        },
+        {
+            name: "WCDO 100.9",
+            logo: "stations/images-america/c2c/oneonta_ny/100.3 The Eagle.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wdhifmaac-ibc3"
         },
         {
             name: "WCDO 100.9",
