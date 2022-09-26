@@ -3418,12 +3418,6 @@ var country_properties_mexico = {
         code: "mx-slp",
         relative_radius: 0.6
     },
-    "ixtlan_rio": {
-        name: "Ixtlán del Río",
-        name_english: "Ixtlán del Río",
-        code: "mx-nay",
-        relative_radius: 0.6
-    },
     "jalpa": {
         name: "Jalpa",
         name_english: "Jalpa",
@@ -3970,9 +3964,6 @@ var city_properties_mexico = {
     },
     "illescas": {
 		relative_radius: 0.8,
-        relative_whitenoise: 0.85
-    },
-    "ixtlan_rio": {
         relative_whitenoise: 0.85
     },
     "jalpa": {
@@ -4654,14 +4645,6 @@ var cities_mexico = [
       "x": "-31647.1",
       "y": "146.738",
       "z": "89753"
-    },
-    {
-      "gameName": "ixtlan_rio",
-      "realName": "Ixtlán del Río",
-      "country": "ixtlan_rio",
-      "x": "-44781",
-      "y": "150.039",
-      "z": "100884"
     },
     {
       "gameName": "jalpa",

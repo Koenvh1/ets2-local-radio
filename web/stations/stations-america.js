@@ -14256,13 +14256,6 @@ var stations_mexico = {
             url: "https://s5.mexside.net:9079/stream"
         },
     ],	
-    "ixtlan_rio": [
-        {
-            name: "Radio Sensacion 106.9",
-            logo: "stations/images-america/mexico/ixtlan_rio/Radio Sensacion 106.9.png",
-            url: "https://streamingcwsradio30.com:7044/;"
-        },
-    ],
     "jalpa": [
         {
             name: "Caxcán FM 95.1",
@@ -15192,8 +15185,8 @@ var stations_mexico = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC_SC"
         },
         {
-            name: "FM Globo 102.9",
-            logo: "stations/images-america/mexico/tamazunchale/FM Globo 102.9.png",
+            name: "FM Globo 102.7",
+            logo: "stations/images-america/mexico/tamazunchale/FM Globo 102.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC_SC"
         },
         {
