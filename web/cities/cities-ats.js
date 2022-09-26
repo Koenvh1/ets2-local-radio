@@ -792,8 +792,8 @@ var country_properties = {
         relative_radius: 0.4
     },
     "san_diego": {
-        name: "San Diego",
-        name_english: "San Diego",
+        name: "San Diego / Tijuana",
+        name_english: "San Diego / Tijuana",
         code: "us-ca",
         relative_radius: 0.7
     },
@@ -2055,7 +2055,7 @@ var cities = [
     },
     {
         "gameName": "san_diego",
-        "realName": "San Diego",
+        "realName": "San Diego / Tijuana",
         "country": "san_diego",
         "x": "-98862.2",
         "y": "90.8438",
@@ -3713,8 +3713,8 @@ var country_properties_mexico = {
         relative_radius: 0.6
     },
     "tijuana": {
-        name: "Tijuana",
-        name_english: "Tijuana",
+        name: "San Diego / Tijuana",
+        name_english: "San Diego / Tijuana",
         code: "mx-bcn",
         relative_radius: 0.6
     },
@@ -5089,7 +5089,7 @@ var cities_mexico = [
     },
     {
       "gameName": "tijuana",
-      "realName": "Tijuana",
+      "realName": "San Diego / Tijuana",
       "country": "san_diego",
       "x": "-99184.2",
       "y": "49.7773",
