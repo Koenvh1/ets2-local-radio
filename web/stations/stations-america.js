@@ -7742,8 +7742,8 @@ var stations = {
             url: "http://38.130.230.71:9990/;"
         },
         {
-            name: "94.5 KOOL FM",
-            logo: "stations/images-america/phoenix/94.5 KOOL FM.png",
+            name: "BIG 94.5",
+            logo: "stations/images-america/phoenix/BIG 94.5.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-koolfmaac-imc"
         },
         {
@@ -14203,7 +14203,7 @@ var stations_mexico = {
         {
             name: "89.9 @FM",
             logo: "stations/images-america/mexico/h_nogales/89.9 @FM.png",
-            url: "https://freepi.host:9067/stream"
+            url: "https://stream.zeno.fm/y3428gfzbfhvv"
         },
         {
             name: "KY 90.3",
