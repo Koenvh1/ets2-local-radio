@@ -4497,7 +4497,7 @@ var stations = {
         {
             name: "KCAP 95.9",
             logo: "stations/images-america/helena/KCAP 95.9.png",
-            url: "https://live.wostreaming.net/direct/montanaradioco-kcapamaac-imc4"
+            url: "https://ice23.securenetsystems.net/KCAPFM"
         },
         {
             name: "Rock 96.3",
@@ -12005,7 +12005,7 @@ var stations = {
         {
             name: "Radio Impacto 90.1",
             logo: "stations/images-america/tucson/Radio Impacto 90.1.png",
-            url: "https://108.59.9.147:8306/;"
+            url: "http://108.59.9.147:8306/;"
         },
         {
             name: "Classical 90.5",
@@ -12310,12 +12310,12 @@ var stations = {
             name: "The Coast 95.9",
             logo: "stations/images-america/ukiah/The Coast 95.9.png",
             url: "https://live.wostreaming.net/direct/caradio-koztfmaac-ibc3"
-        },
+        },/*
         {
             name: "The Skunk 96.7",
             logo: "stations/images-america/ukiah/The Skunk 96.7.png",
             url: "http://streaming.rubinbroadcasting.com/kunk"
-        },
+        },*/
         {
             name: "KXBX 98.3",
             logo: "stations/images-america/ukiah/KXBX 98.3.png",
