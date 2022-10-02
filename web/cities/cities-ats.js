@@ -3933,7 +3933,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "guamuchil": {
-		relative_radius: 0.8,
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "guanacevi": {
@@ -4561,7 +4561,7 @@ var cities_mexico = [
     {
       "gameName": "guamuchil",
       "realName": "Guamúchil",
-      "country": "acaponeta",
+      "country": "los_mochis",
       "x": "-61624.6",
       "y": "46.9258",
       "z": "74681"
