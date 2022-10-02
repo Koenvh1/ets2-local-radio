@@ -14363,11 +14363,6 @@ var stations_mexico = {
             url: "https://sp3.servidorrprivado.com:10929/stream"
         },
         {
-            name: "La Mejor 90.9",
-            logo: "stations/images-america/mexico/los_mochis/La Mejor 90.9.png",
-            url: "https://sp3.servidorrprivado.com:10929/stream"
-        },
-        {
             name: "Radio Sinaloa 92.5",
             logo: "stations/images-america/mexico/culiacan/Radio Sinaloa 94.5.png",
             url: "http://192.99.16.17:8170/stream/;"
