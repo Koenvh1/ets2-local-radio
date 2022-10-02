@@ -3380,7 +3380,7 @@ var country_properties_mexico = {
         name: "Guaymas",
         name_english: "Guaymas",
         code: "mx-sin",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "guerrero_ne": {
         name: "Guerrero Negro",

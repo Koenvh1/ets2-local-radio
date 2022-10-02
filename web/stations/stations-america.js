@@ -14080,11 +14080,6 @@ var stations_mexico = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHUSSFMAAC_SC"
         },
         {
-            name: "Amor 92.3",
-            logo: "stations/images-america/mexico/hermosillo/Amor 92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHUSSFMAAC_SC"
-        },
-        {
             name: "Love 93.1",
             logo: "stations/images-america/mexico/hermosillo/Love 93.1.png",
             url: "http://www.tuasesorweb.com:8030/;"
