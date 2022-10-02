@@ -164,7 +164,7 @@ var stations = {
         {
             name: "KISS FM",
             logo: "stations/images-europe/spain/KISS FM.png",
-            url: "https://kissfm.kissfmradio.cires21.com/kissfm.mp3"
+            url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3"
         },
     ],
     "armenia": [
@@ -1400,6 +1400,11 @@ var stations = {
             url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
         },
         {
+            name: "AirZen",
+            logo: "stations/images-europe/france/AirZen.png",
+            url: "https://stream.rcs.revma.com/vuumdncf368uv"
+        },
+        {
             name: "Alouette",
             logo: "stations/images-europe/france/Alouette.png",
             url: "https://alouette-nantes.ice.infomaniak.ch/alouette-nantes-128.mp3"
@@ -1408,12 +1413,17 @@ var stations = {
             name: "Autoroute Info",
             logo: "stations/images-europe/france/Autoroute Info.png",
             url: "http://media.autorouteinfo.fr:8000/direct_nord.mp3"
-        },/*
+        },
+        {
+            name: "BFM Radio",
+            logo: "stations/images-europe/france/BFM Radio.png",
+            url: "https://audio.bfmtv.com/bfmradio_128.mp3"
+        },
         {
             name: "BFM Business",
             logo: "stations/images-europe/france/BFM Business.png",
             url: "https://audio.bfmtv.com/bfmbusiness_128.mp3"
-        },*/
+        },
         {
             name: "Chérie FM",
             logo: "stations/images-europe/france/Chérie FM.png",
@@ -1448,6 +1458,11 @@ var stations = {
             name: "La Radio Plus",
             logo: "stations/images-europe/france/La Radio Plus.png",
             url: "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3"
+        },
+        {
+            name: "Latina",
+            logo: "stations/images-europe/france/Latina.png",
+            url: "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3"
         },
         {
             name: "M Radio",
@@ -1538,6 +1553,11 @@ var stations = {
             name: "Skyrock",
             logo: "stations/images-europe/france/Skyrock.png",
             url: "http://icecast.skyrock.net/s/natio_mp3_128k"
+        },
+        {
+            name: "Skyrock Klassiks",
+            logo: "stations/images-europe/france/Skyrock Klassiks.png",
+            url: "https://icecast.skyrock.net/s/klassiks_aac_128k"
         },
         {
             name: "Sud Radio",
@@ -4615,7 +4635,7 @@ var stations = {
         {
             name: "KISS FM",
             logo: "stations/images-europe/spain/KISS FM.png",
-            url: "https://kissfm.kissfmradio.cires21.com/kissfm.mp3"
+            url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3"
         },
         {
             name: "Loca FM",
@@ -5156,32 +5176,32 @@ var stations = {
         {
             name: "TRT Radyo 1",
             logo: "stations/images-europe/turkey/TRT Radyo 1.png",
-            url: "https://radio-trtradyo1.live.trt.com.tr/master.m3u8"
+            url: "https://nmicenotrt.mediatriple.net/trt_1.aac"
         },
         {
             name: "TRT FM",
             logo: "stations/images-europe/turkey/TRT FM.png",
-            url: "https://radio-trtfm.live.trt.com.tr/master.m3u8"
+            url: "https://nmicenotrt.mediatriple.net/trt_fm.aac"
         },
         {
             name: "TRT Radyo 3",
             logo: "stations/images-europe/turkey/TRT Radyo 3.png",
-            url: "https://radio-trtradyo3.live.trt.com.tr/master.m3u8"
+            url: "https://nmicenotrt.mediatriple.net/trt_3.aac"
         },
         {
             name: "TRT Nağme",
             logo: "stations/images-europe/turkey/TRT Nağme.png",
-            url: "https://radio-trtnagme.live.trt.com.tr/master.m3u8"
+            url: "https://nmicenotrt.mediatriple.net/trt_nagme.aac"
         },
         {
             name: "TRT Türkü",
             logo: "stations/images-europe/turkey/TRT Türkü.png",
-            url: "https://radio-trtturku.live.trt.com.tr/master.m3u8"
+            url: "https://nmicenotrt.mediatriple.net/trt_turku.aac"
         },
         {
             name: "TRT Radyo Haber",
             logo: "stations/images-europe/turkey/TRT Radyo Haber.png",
-            url: "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8"
+            url: "https://nmicenotrt.mediatriple.net/trt_haber.aac"
         },
         {
             name: "A Haber Radyo",
@@ -5191,7 +5211,7 @@ var stations = {
         {
             name: "Akra FM",
             logo: "stations/images-europe/turkey/Akra FM.png",
-            url: "https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"
+            url: "https://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8"
         },
         {
             name: "Alem FM",
@@ -5221,7 +5241,7 @@ var stations = {
         {
             name: "CRI TÜRK",
             logo: "stations/images-europe/turkey/CRI TÜRK.png",
-            url: "https://www.guventechnology.com:2020/stream/RadyoCriturk"
+            url: "https://stream.guventechnology.com:2020/stream/criturkradyo"
         },
         {
             name: "Diyanet Radyo",
@@ -5281,12 +5301,12 @@ var stations = {
         {
             name: "NTV Radyo",
             logo: "stations/images-europe/turkey/NTV Radyo.png",
-            url: "https://rto.turkhosted.com/smil/smil:ntvradyo.smil/playlist.m3u8"
+            url: "http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8"
         },
         {
             name: "Number 1",
             logo: "stations/images-europe/turkey/Number 1.png",
-            url: "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
+            url: "https://n10101m.mediatriple.net/numberone"
         },
         {
             name: "Pal Nostalji",
@@ -5296,7 +5316,7 @@ var stations = {
         {
             name: "Power FM",
             logo: "stations/images-europe/turkey/Power FM.png",
-            url: "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
+            url: "https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8"
         },
         {
             name: "Power Pop",
@@ -5306,7 +5326,7 @@ var stations = {
         {
             name: "Power Türk",
             logo: "stations/images-europe/turkey/Power Türk.png",
-            url: "https://listen.powerapp.com.tr/powerturk/abr/playlist.m3u8"
+            url: "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
         },
         {
             name: "Radyo 7",
