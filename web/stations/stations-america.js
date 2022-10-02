@@ -14105,11 +14105,6 @@ var stations_mexico = {
             url: "http://www.tuasesorweb.com:8038/;"
         },
         {
-            name: "Máxima 96.3",
-            logo: "stations/images-america/mexico/hermosillo/Máxima 96.3.png",
-            url: "http://www.tuasesorweb.com:8038/;"
-        },	
-        {
             name: "La Número Uno 97.1",
             logo: "stations/images-america/mexico/hermosillo/La Número Uno 97.1.png",
             url: "https://radio971.radioca.st/stream"
