@@ -34811,14 +34811,44 @@ var stations_c2c = {
     ],
     "abilene": [
         {
+            name: "KGNZ 88.1",
+            logo: "stations/images-america/c2c/abilene_tx/KGNZ 88.1.png",
+            url: "https://ice5.securenetsystems.net/KGNZ"
+        },
+        {
             name: "KACU 89.5",
             logo: "stations/images-america/c2c/abilene_tx/KACU 89.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KACUFMAAC_SC"
         },
         {
+            name: "Air1 90.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "AFR Hybrid 91.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp3"
+        },
+        {
+            name: "GRN 91.7",
+            logo: "stations/images-america/0_general_logos/GRN.png",
+            url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
+        },
+        {
             name: "Mix 92.5",
             logo: "stations/images-america/c2c/abilene_tx/Mix 92.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmwxfmaac-ibc3"
+        },
+        {
+            name: "La Voz 93.3",
+            logo: "stations/images-america/c2c/abilene_tx/La Voz 93.3.png",
+            url: "https://ice10.securenetsystems.net/KBGT"
+        },	
+        {
+            name: "Wildfire Radio 94.1",
+            logo: "stations/images-america/c2c/abilene_tx/Wildfire Radio 94.1.png",
+            url: "https://ice10.securenetsystems.net/KVVO"
         },
         {
             name: "95.1 The Wolf",
@@ -34846,19 +34876,34 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kullfmaac-ibc3"
         },
         {
+            name: "101.7 The Raider",
+            logo: "stations/images-america/c2c/abilene_tx/101.7 The Raider.png",
+            url: "https://ice41.securenetsystems.net/KTJKHD1"
+        },
+        {
             name: "102 The Bear",
             logo: "stations/images-america/c2c/abilene_tx/102 The Bear.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHXSFMAAC_SC"
         },
         {
-            name: "Power 103",
-            logo: "stations/images-america/c2c/abilene_tx/Power 103.png",
+            name: "Power 103.7",
+            logo: "stations/images-america/c2c/abilene_tx/Power 103.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCDDFMAAC_SC"
         },
         {
-            name: "105.1 KEAN",
-            logo: "stations/images-america/c2c/abilene_tx/105.1 KEAN.png",
+            name: "Positive Country 104.3",
+            logo: "stations/images-america/c2c/abilene_tx/Positive Country 104.3.png",
+            url: "https://ic1.sslstream.com/kbvp-fm"
+        },
+        {
+            name: "KEAN 105",
+            logo: "stations/images-america/c2c/abilene_tx/KEAN 105.png",
             url: "https://live.wostreaming.net/manifest/townsquare-keanfmaac-ibc3"
+        },	
+        {
+            name: "KLGD 106.9",
+            logo: "stations/images-america/c2c/abilene_tx/KLGD 106.9.png",
+            url: "https://ice8.securenetsystems.net/KLGD"
         },
         {
             name: "Rock 108",
@@ -34866,14 +34911,29 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-keyjfmaac-ibc3"
         },
         {
+            name: "KXOX 1240",
+            logo: "stations/images-america/c2c/abilene_tx/KXOX 1240.png",
+            url: "https://ice42.securenetsystems.net/KXOX"
+        },
+        {
             name: "Lone Star 1280",
             logo: "stations/images-america/c2c/abilene_tx/Lone Star 1280.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ksliamaac-ibc3"
         },
         {
-            name: "1470 News Talk",
-            logo: "stations/images-america/c2c/abilene_tx/1470 News Talk.png",
+            name: "AM 1400 The River",
+            logo: "stations/images-america/c2c/abilene_tx/AM 1400 The River.png",
+            url: "http://s1.voscast.com:9208/;"
+        },
+        {
+            name: "KYYW 1470",
+            logo: "stations/images-america/c2c/abilene_tx/KYYW 1470.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kyywamaac-ibc3"
+        },
+        {
+            name: "KMXO 1500",
+            logo: "stations/images-america/c2c/abilene_tx/KMXO 1500.png",
+            url: "http://s47.myradiostream.com:14306/stream"
         },
     ],
     "amarillo": [
@@ -36277,6 +36337,11 @@ var stations_c2c = {
             url: "https://ice7.securenetsystems.net/KTXTFM"
         },
         {
+            name: "KGNZ 88.5",
+            logo: "stations/images-america/c2c/abilene_tx/KGNZ 88.1.png",
+            url: "https://ice5.securenetsystems.net/KGNZ"
+        },
+        {
             name: "KTTZ 89.1",
             logo: "stations/images-america/c2c/lubbock_tx/KTTZ 89.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1_SC"
@@ -36414,8 +36479,8 @@ var stations_c2c = {
             url: "http://marfapr-ice.streamguys1.com/krts"
         },
         {
-            name: "LoneStar 92",
-            logo: "stations/images-america/c2c/midland_tx/LoneStar 92.png",
+            name: "LoneStar 92.3",
+            logo: "stations/images-america/c2c/midland_tx/LoneStar 92.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-knfmfmaac-ibc3"
         },
         {
@@ -36487,11 +36552,6 @@ var stations_c2c = {
             name: "KWEL 107.1",
             logo: "stations/images-america/c2c/midland_tx/KWEL 107.1.png",
             url: "http://ice9.securenetsystems.net/KWEL"
-        },
-        {
-            name: "Q108",
-            logo: "stations/images-america/c2c/midland_tx/Q108.png",
-            url: "https://sonicpanel.hostradios.com:7131/stream"
         },
         {
             name: "Q108",
@@ -36730,13 +36790,18 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTPRFM_SC"
         },
         {
+            name: "KGNZ 90.9",
+            logo: "stations/images-america/c2c/abilene_tx/KGNZ 88.1.png",
+            url: "https://ice5.securenetsystems.net/KGNZ"
+        },
+        {
             name: "KGWB 91.1",
             logo: "stations/images-america/c2c/snyder_tx/KGWB 91.1.png",
             url: "https://ice5.securenetsystems.net/KGWB"
         },
         {
-            name: "Power 103",
-            logo: "stations/images-america/c2c/snyder_tx/Power 103.png",
+            name: "Power 103.7",
+            logo: "stations/images-america/c2c/abilene_tx/Power 103.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCDDFMAAC_SC"
         },
     ],
