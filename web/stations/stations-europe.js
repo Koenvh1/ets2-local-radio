@@ -2716,7 +2716,7 @@ var stations = {
         {
             name: "راديو الآن",
             logo: "stations/images-europe/iraq/راديو الآن.png",
-            url: "https://alaanfm.radioman.fi:8443/medianode1"
+            url: "https://streamingcdn.alaan.tv/hls/radiofm/index.m3u8"
         },
         {
             name: "راديو الحياة الجديدة",
@@ -2738,22 +2738,22 @@ var stations = {
         {
             name: "RTÉ Radio 1",
             logo: "stations/images-europe/ireland/RTÉ Radio 1.png",
-            url: "http://icecast1.rte.ie/radio1"
+            url: "https://www.rte.ie/manifests/radio1.m3u8"
         },
         {
             name: "RTÉ 2FM",
             logo: "stations/images-europe/ireland/RTÉ 2fm.png",
-            url: "http://icecast2.rte.ie/ie2fm"
+            url: "https://www.rte.ie/manifests/2fm.m3u8"
         },
         {
             name: "RTÉ lyric fm",
             logo: "stations/images-europe/ireland/RTÉ Lyric FM.png",
-            url: "http://icecast1.rte.ie/lyric"
+            url: "https://www.rte.ie/manifests/lyric.m3u8"
         },
         {
             name: "RTÉ Raidió na Gaeltachta",
             logo: "stations/images-europe/ireland/RTÉ Raidió na Gaeltachta.png",
-            url: "http://icecast1.rte.ie/rnag"
+            url: "https://www.rte.ie/manifests/rnag.m3u8"
         },
         {
             name: "Classic Hits",
@@ -3023,12 +3023,12 @@ var stations = {
         {
             name: "Авторадио Казахстан",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
-            url: "http://95.56.234.40:8080/AVTORADIO_AAC"
+            url: "http://95.56.234.40:8080/AVTORADIO_256"
         },
         {
             name: "Dala FM",
             logo: "stations/images-europe/kazakhstan/Dala FM.png",
-            url: "http://95.56.234.40:8080/DALA_128"
+            url: "http://95.56.234.40:8080/DALA_320"
         },
         {
             name: "Европа Плюс Казахстан",

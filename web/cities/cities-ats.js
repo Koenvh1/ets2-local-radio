@@ -5697,7 +5697,7 @@ var country_properties_c2c = {
         name: "Natchitoches",
         name_english: "Natchitoches",
         code: "us-la",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "new_orleans": {
         name: "new_orleans",
@@ -5709,7 +5709,7 @@ var country_properties_c2c = {
         name: "shreveport",
         name_english: "shreveport",
         code: "us-la",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "maine": {
         name: "maine",
@@ -6861,6 +6861,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "el_dorado_ar": {
+		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "fayetteville_ar": {
@@ -7652,9 +7653,17 @@ var cities_c2c = [
         "gameName": "el_dorado_ar",
         "realName": "El Dorado",
         "country": "el_dorado_ar",
-        "x": "15735.6",
+        "x": "16135.6",
         "y": "112.68",
-        "z": "31890.9"
+        "z": "31690.9"
+    },
+    {
+        "gameName": "el_dorado_ar",
+        "realName": "El Dorado",
+        "country": "monroe_la",
+        "x": "16135.6",
+        "y": "112.68",
+        "z": "31690.9"
     },
     {
         "gameName": "fayetteville_ar",
@@ -8268,9 +8277,9 @@ var cities_c2c = [
         "gameName": "shreveport",
         "realName": "Shreveport",
         "country": "shreveport",
-        "x": "11127.9",
+        "x": "10027.9",
         "y": "30.749",
-        "z": "35626.7"
+        "z": "35026.7"
     },
     {
         "gameName": "augusta_me",
