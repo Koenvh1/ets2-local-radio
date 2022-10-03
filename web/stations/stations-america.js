@@ -4581,6 +4581,11 @@ var stations = {
             logo: "stations/images-america/hobbs/La Zeta 103.7.png",
             url: "https://us2.maindigitalstream.com/ssl/KPZA"
         },
+        {
+            name: "KCKM 1330",
+            logo: "stations/images-america/c2c/midland_tx/KCKM 94.7.png",
+            url: "https://ice41.securenetsystems.net/KCKM"
+        },
     ],
     "idaho_falls": [
         {
@@ -7673,6 +7678,38 @@ var stations = {
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
+        },
+    ],
+    "pecos": [
+        {
+            name: "AFR Hybrid 91.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp3"
+        },
+        {
+            name: "American Cowboy Radio 97.3",
+            logo: "stations/images-america/c2c/pecos_tx/American Cowboy Radio 97.3.png",
+            url: "http://96.31.83.94:8002/live"
+        },
+        {
+            name: "98x",
+            logo: "stations/images-america/c2c/pecos_tx/98x.png",
+            url: "https://crystalout.surfernetwork.com:8001/KPTX-FM_MP3"
+        },
+        {
+            name: "Classic Rock 102",
+            logo: "stations/images-america/c2c/midland_tx/Classic Rock 102.png",
+            url: "http://ice5.securenetsystems.net:80/KFZX"
+        },
+        {
+            name: "KCKM 1330",
+            logo: "stations/images-america/c2c/midland_tx/KCKM 94.7.png",
+            url: "https://ice41.securenetsystems.net/KCKM"
+        },
+        {
+            name: "KIUN 1400",
+            logo: "stations/images-america/c2c/pecos_tx/KIUN 1400.png",
+            url: "https://crystalout.surfernetwork.com:8001/KIUN-AM_MP3"
         },
     ],
     "phoenix": [
@@ -36385,6 +36422,11 @@ var stations_c2c = {
             name: "B93",
             logo: "stations/images-america/c2c/midland_tx/B93.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kzbtfmaac-ibc3"
+        },
+        {
+            name: "KCKM 94.7",
+            logo: "stations/images-america/c2c/midland_tx/KCKM 94.7.png",
+            url: "https://ice41.securenetsystems.net/KCKM"
         },
         {
             name: "Rock 95.1",

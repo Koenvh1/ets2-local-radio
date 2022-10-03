@@ -611,6 +611,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
+    "pecos": {
+        name: "Pecos",
+        name_english: "Pecos",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "phoenix": {
         name: "Phoenix",
         name_english: "Phoenix",
@@ -1346,6 +1352,9 @@ var city_properties = {
     },
     "palm_springs": {
 		relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
+    "pecos": {
         relative_whitenoise: 0.85
     },
     "pendleton": {
@@ -2524,6 +2533,14 @@ var cities = [
         "x": "-112428",
         "y": "70.2531",
         "z": "-49031.1"
+    },
+    {
+        "gameName": "pecos",
+        "realName": "Pecos",
+        "country": "pecos",
+        "x": "-36384.6",
+        "y": "22.7822",
+        "z": "41734"
     },
     {
         "gameName": "pendleton",
@@ -6627,7 +6644,7 @@ var country_properties_c2c = {
         name: "fort_stockton",
         name_english: "fort_stockton",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "elpaso": {
         name: "El Paso / Cd. Juárez",
