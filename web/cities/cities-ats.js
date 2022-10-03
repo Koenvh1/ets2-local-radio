@@ -95,6 +95,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.5
     },
+    "big_spring": {
+        name: "Big Spring",
+        name_english: "Big Spring",
+        code: "us-tx",
+        relative_radius: 0.7
+    },
     "boise": {
         name: "Boise",
         name_english: "Boise",
@@ -1059,6 +1065,10 @@ var city_properties = {
     "big_piney": {
         relative_whitenoise: 0.85
     },
+    "big_spring": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
     "boise": {
         relative_whitenoise: 0.85
     },
@@ -1637,6 +1647,22 @@ var cities = [
         "x": "-58068.8",
         "y": "133.689",
         "z": "-24662.5"
+    },
+    {
+        "gameName": "big_spring",
+        "realName": "Big Spring",
+        "country": "big_spring",
+        "x": "-24748.8",
+        "y": "49.028",
+        "z": "37294.7"
+    },
+    {
+        "gameName": "big_spring",
+        "realName": "Big Spring",
+        "country": "midland_tx",
+        "x": "-24748.8",
+        "y": "49.028",
+        "z": "37294.7"
     },
     {
         "gameName": "bishop",
@@ -6362,7 +6388,7 @@ var country_properties_c2c = {
         name: "ardmore",
         name_english: "ardmore",
         code: "us-ok",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "elk_city": {
         name: "elk_city",
@@ -6632,7 +6658,7 @@ var country_properties_c2c = {
         name: "dallas",
         name_english: "dallas",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "dalhart_tx": {
         name: "dalhart_tx",
@@ -6694,11 +6720,11 @@ var country_properties_c2c = {
         code: "us-tx",
         relative_radius: 0.8
     },
-    "snyder_tx": {
-        name: "Snyder",
-        name_english: "Snyder",
+    "sweetwater": {
+        name: "Sweetwater",
+        name_english: "Sweetwater",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "texarkana": {
         name: "texarkana",
@@ -6710,7 +6736,7 @@ var country_properties_c2c = {
         name: "tyler_tx",
         name_english: "tyler_tx",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "van_horn_tx": {
         name: "Van Horn",
@@ -7506,7 +7532,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "dallas": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.90
     },
     "dalhart_tx": {
         relative_radius: 0.8,
@@ -7540,7 +7566,8 @@ var city_properties_c2c = {
     "sanantonio": {
         relative_whitenoise: 0.75
     },
-    "snyder_tx": {
+    "sweetwater": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.85
     },
     "texarkana": {
@@ -9414,7 +9441,7 @@ var cities_c2c = [
         "gameName": "dallas",
         "realName": "Dallas",
         "country": "dallas",
-        "x": "-2389.34",
+        "x": "-4189.34",
         "y": "89.9727",
         "z": "35999.3"
     },
@@ -9507,12 +9534,12 @@ var cities_c2c = [
         "z": "54468.2"
     },
     {
-        "gameName": "snyder_tx",
-        "realName": "Snyder",
-        "country": "snyder_tx",
-        "x": "-22784.7",
-        "y": "90",
-        "z": "35016"
+        "gameName": "sweetwater",
+        "realName": "Sweetwater",
+        "country": "abilene",
+        "x": "-20670.4",
+        "y": "45.9296",
+        "z": "36687.1"
     },
     {
         "gameName": "texarkana",

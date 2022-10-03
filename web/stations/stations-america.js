@@ -1013,6 +1013,53 @@ var stations = {
             url: "https://svinews.com:8443/spur"
         },
     ],
+    "big_spring": [
+        {
+            name: "Radio By Grace 89.3",
+            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
+            url: "https://stream.freedomradiofm.com/rbga.aac"
+        },
+        {
+            name: "AFR Talk 91.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
+            name: "94.3 The Fuse",
+            logo: "stations/images-america/c2c/big_spring_tx/94.3 The Fuse.png",
+            url: "https://ice23.securenetsystems.net/KBTS"
+        },
+        {
+            name: "K-BEST 95.7",
+            logo: "stations/images-america/c2c/big_spring_tx/K-BEST 95.7.png",
+            url: "https://ice23.securenetsystems.net/KBST"
+        },
+        {
+            name: "K-LOVE 97.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Radio Vida 100.9",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
+            url: "http://shout2.brnstream.com:8006/stream"
+        },
+        {
+            name: "KBST 103.9",
+            logo: "stations/images-america/c2c/big_spring_tx/KBST 103.9.png",
+            url: "https://ice23.securenetsystems.net/KBSTAM"
+        },
+        {
+            name: "105.5 The X",
+            logo: "stations/images-america/c2c/big_spring_tx/105.5 The X.png",
+            url: "http://38.96.175.97:9288/;"
+        },
+        {
+            name: "Family Life Radio 107.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+    ],
     "billings": [
         {
             name: "Pilgrim Radio 89.3",
@@ -36460,7 +36507,7 @@ var stations_c2c = {
     "midland_tx": [
         {
             name: "KTPR 89.9",
-            logo: "stations/images-america/c2c/snyder_tx/KTPR 89.9.png",
+            logo: "stations/images-america/c2c/midland_tx/KTPR 89.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTPRFM_SC"
         },
         {
@@ -36771,28 +36818,6 @@ var stations_c2c = {
             name: "Gospel 1480",
             logo: "stations/images-america/c2c/sanantonio_tx/Gospel 1480.png",
             url: "https://ic2.sslstream.com/kchl-am"
-        },
-    ],
-    "snyder_tx": [
-        {
-            name: "KTPR 89.9",
-            logo: "stations/images-america/c2c/snyder_tx/KTPR 89.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTPRFM_SC"
-        },
-        {
-            name: "KGNZ 90.9",
-            logo: "stations/images-america/c2c/abilene_tx/KGNZ 88.1.png",
-            url: "https://ice5.securenetsystems.net/KGNZ"
-        },
-        {
-            name: "KGWB 91.1",
-            logo: "stations/images-america/c2c/snyder_tx/KGWB 91.1.png",
-            url: "https://ice5.securenetsystems.net/KGWB"
-        },
-        {
-            name: "Power 103.7",
-            logo: "stations/images-america/c2c/abilene_tx/Power 103.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCDDFMAAC_SC"
         },
     ],
     "texarkana": [
