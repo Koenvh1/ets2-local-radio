@@ -34841,23 +34841,18 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmwxfmaac-ibc3"
         },
         {
-            name: "La Voz 93.3",
-            logo: "stations/images-america/c2c/abilene_tx/La Voz 93.3.png",
-            url: "https://ice10.securenetsystems.net/KBGT"
-        },	
-        {
             name: "Wildfire Radio 94.1",
             logo: "stations/images-america/c2c/abilene_tx/Wildfire Radio 94.1.png",
             url: "https://ice10.securenetsystems.net/KVVO"
         },
         {
-            name: "95.1 The Wolf",
-            logo: "stations/images-america/c2c/abilene_tx/95.1 The Wolf.png",
+            name: "95 One The Wolf",
+            logo: "stations/images-america/c2c/abilene_tx/95 One The Wolf.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KABWFMAAC_SC"
         },
         {
-            name: "QCountry 96.1",
-            logo: "stations/images-america/c2c/abilene_tx/QCountry 96.1.png",
+            name: "Q Country 96.1",
+            logo: "stations/images-america/c2c/abilene_tx/Q Country 96.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KORQFMAAC_SC"
         },
         {
@@ -34900,11 +34895,6 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/abilene_tx/KEAN 105.png",
             url: "https://live.wostreaming.net/manifest/townsquare-keanfmaac-ibc3"
         },	
-        {
-            name: "KLGD 106.9",
-            logo: "stations/images-america/c2c/abilene_tx/KLGD 106.9.png",
-            url: "https://ice8.securenetsystems.net/KLGD"
-        },
         {
             name: "Rock 108",
             logo: "stations/images-america/c2c/abilene_tx/Rock 108.png",
