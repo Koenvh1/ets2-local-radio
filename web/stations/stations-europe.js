@@ -3320,6 +3320,11 @@ var stations = {
             logo: "stations/images-europe/luxembourg/Radio Latina.png",
             url: "https://ice.creacast.com/radio-latina-lu-mp3"
         },
+        {
+            name: "radio 100,7",
+            logo: "stations/images-europe/luxembourg/radio 100,7.png",
+            url: "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3"
+        },
     ],
     "macedonia": [/*
         {
