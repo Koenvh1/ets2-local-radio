@@ -2510,6 +2510,118 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
         },
     ],
+    "del_rio": [
+        {
+            name: "88.5 KVFE",
+            logo: "stations/images-america/c2c/del_rio_tx/88.5 KVFE.png",
+            url: "https://ic2.sslstream.com/kvfe-fm"
+        },
+        {
+            name: "KTPD 89.3",
+            logo: "stations/images-america/c2c/del_rio_tx/KTPD 89.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTPDFMAAC_SC"
+        },
+        {
+            name: "AFR Hybrid 89.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "Radio Vida 90.3",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
+            url: "http://shout2.brnstream.com:8006/stream"
+        },
+        {
+            name: "exa 91.5",
+            logo: "stations/images-america/c2c/del_rio_tx/exa 91.5.png",
+            url: "http://tunein.gvstream.net:8136/;"
+        },
+        {
+            name: "Super Estelar 92.9",
+            logo: "stations/images-america/c2c/del_rio_tx/Super Estelar 92.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCDUFMAAC_SC"
+        },
+        {
+            name: "KDLK 94.1",
+            logo: "stations/images-america/c2c/del_rio_tx/KDLK 94.1.png",
+            url: "https://ice42.securenetsystems.net/KDLK"
+        },
+        {
+            name: "La Ley 95.5",
+            logo: "stations/images-america/c2c/del_rio_tx/La Ley 95.5.png",
+            url: "https://radio.rcg.com.mx:7004/;"
+        },
+        {
+            name: "KTDR 96.3",
+            logo: "stations/images-america/c2c/del_rio_tx/KTDR 96.3.png",
+            url: "https://s01.digitalserver.org/8038/stream"
+        },
+        {
+            name: "KDER 99.3",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-64k-mp3"
+        },	
+        {
+            name: "FM Globo 99.7",
+            logo: "stations/images-america/c2c/del_rio_tx/FM Globo 99.7.png",
+            url: "https://sonic.xtremacomunicaciones.com.mx:7024/1/"
+        },	
+        {
+            name: "La Mejor 100.7",
+            logo: "stations/images-america/c2c/del_rio_tx/La Mejor 100.7.png",
+            url: "https://radio.rcg.com.mx:7008/;"
+        },
+        {
+            name: "Radio Coahuila 102.3",
+            logo: "stations/images-america/c2c/del_rio_tx/Radio Coahuila 102.3.png",
+            url: "https://cryt-stream.mx:8443/cryt-xhsoc"
+        },
+        {
+            name: "digital 103.1",
+            logo: "stations/images-america/c2c/del_rio_tx/digital 103.1.png",
+            url: "https://radio.rcg.com.mx:7005/;"
+        },
+        {
+            name: "La Poderosa 103.9",
+            logo: "stations/images-america/c2c/del_rio_tx/La Poderosa 103.9.png",
+            url: "https://s2.mexside.net/8064/stream"
+        },
+        {
+            name: "XHRF 103.9-HD2",
+            logo: "stations/images-america/mexico/mazatlan/Reactor.png",
+            url: "https://s2.mexside.net/8002/stream"
+        },
+        {
+            name: "Opus 94 103.9-HD3",
+            logo: "stations/images-america/c2c/del_rio_tx/Opus 94 103.9-HD2.png",
+            url: "https://s2.mexside.net/8016/stream"
+        },
+        {
+            name: "RCG Radio 105.1",
+            logo: "stations/images-america/c2c/del_rio_tx/RCG Radio 105.1.png",
+            url: "https://radio.rcg.com.mx:7006/;"
+        },
+        {
+            name: "KDRX 106.9",
+            logo: "stations/images-america/c2c/del_rio_tx/KDRX 106.9.png",
+            url: "https://s01.digitalserver.org/9362/stream"
+        },
+        {
+            name: "La Rancherita del Aire 580",
+            logo: "stations/images-america/c2c/del_rio_tx/La Rancherita del Aire 580.png",
+            url: "http://212.83.135.226:7326/stream"
+        },
+        {
+            name: "La Unica 1230",
+            logo: "stations/images-america/c2c/del_rio_tx/La Unica 1230.png",
+            url: "https://ice42.securenetsystems.net/KDRN"
+        },
+        {
+            name: "KWMC 1490",
+            logo: "stations/images-america/c2c/del_rio_tx/KWMC 1490.png",
+            url: "http://212.83.135.226:9314/;"
+        },
+    ],
     "denver": [
         {
             name: "CPR Classical 88.1",
@@ -2821,7 +2933,7 @@ var stations = {
             url: "https://ic1.sslstream.com/knlb-fm"
         },
         {
-            name: "Manantial FM 91.9",
+            name: "Manantial 91.9",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
             url: "http://ic2.christiannetcast.com/kyrm-fm"
         },
@@ -5680,6 +5792,138 @@ var stations = {
             name: "KOWB 1290",
             logo: "stations/images-america/laramie/KOWB 1290.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kowbamaac-ibc3"
+        },
+    ],
+    "laredo": [
+        {
+            name: "KHOY 88.1",
+            logo: "stations/images-america/c2c/laredo_tx/KHOY 88.1.png",
+            url: "https://ic2.sslstream.com/khoy-fm"
+        },
+        {
+            name: "Manantial 89.9",
+            logo: "stations/images-america/c2c/laredo_tx/Manantial 89.9.png",
+            url: "https://ic2.sslstream.com/kbnl-fm"
+        },
+        {
+            name: "La Raza 90.9",
+            logo: "stations/images-america/c2c/laredo_tx/La Raza 90.9.png",
+            url: "https://ice42.securenetsystems.net/XHBKFM"
+        },
+        {
+            name: "Stereo 91",
+            logo: "stations/images-america/c2c/laredo_tx/Stereo 91.png",
+            url: "https://216.251.65.74:8000/;stream.mp3"
+        },
+        {
+            name: "Z93",
+            logo: "stations/images-america/c2c/laredo_tx/Z93.png",
+            url: "https://ice7.securenetsystems.net/KJBZ"
+        },	
+        {
+            name: "Imagen Radio 94.1",
+            logo: "stations/images-america/c2c/laredo_tx/Imagen Radio 94.1.png",
+            url: "http://radio.alphamx.net:8096/;stream.mp3"
+        },
+        {
+            name: "digital 94.9",
+            logo: "stations/images-america/c2c/laredo_tx/digital 94.9.png",
+            url: "https://live.wostreaming.net/manifest/rcomm-kqurfmaac-imc4/?source=v7player"
+        },
+        {
+            name: "exa 95.7",
+            logo: "stations/images-america/c2c/laredo_tx/exa 95.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXAAAC_SC"
+        },	
+        {
+            name: "Radio Fórmula 96.1",
+            logo: "stations/images-america/c2c/laredo_tx/Radio Fórmula 96.1.png",
+            url: "https://stream.radiojar.com/e3gshsr76p8uv"
+        },	
+        {
+            name: "La Lupe 96.7",
+            logo: "stations/images-america/c2c/laredo_tx/La Lupe 96.7.png",
+            url: "https://streaming.multimedios.com/station17"
+        },
+        {
+            name: "La Caliente 97.1",
+            logo: "stations/images-america/c2c/laredo_tx/La Caliente 97.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHNLOFMAAC_SC"
+        },	
+        {
+            name: "Big Buck 98.1",
+            logo: "stations/images-america/c2c/laredo_tx/Big Buck 98.1.png",
+            url: "https://ice7.securenetsystems.net/KRRG"
+        },
+        {
+            name: "NotiGAPE 98.1-HD2",
+            logo: "stations/images-america/c2c/laredo_tx/NotiGAPE 98.1-HD2.png",
+            url: "https://ice42.securenetsystems.net/KRRGHD2"
+        },
+        {
+            name: "Energy 98-HD3",
+            logo: "stations/images-america/c2c/laredo_tx/Energy 98-HD3.png",
+            url: "https://ice42.securenetsystems.net/KRRGHD3"
+        },
+        {
+            name: "Super Tejano 98.1-HD4",
+            logo: "stations/images-america/c2c/laredo_tx/Super Tejano 98.1-HD4.png",
+            url: "https://ice42.securenetsystems.net/KRRGHD4"
+        },
+        {
+            name: "Los 40 99.3",
+            logo: "stations/images-america/c2c/laredo_tx/Los 40 99.3.png",
+            url: "https://radio.grupoas.stream:5535/stream"
+        },
+        {
+            name: "La Ley 100.5",
+            logo: "stations/images-america/c2c/laredo_tx/La Ley 100.5.png",
+            url: "https://live.wostreaming.net/manifest/rcomm-kbdrfmaac-imc4/?source=v7player"
+        },		
+        {
+            name: "Fiesta Mexicana 101.5",
+            logo: "stations/images-america/c2c/laredo_tx/Fiesta Mexicana 101.5.png",
+            url: "https://server2.sit-mexico.com:2199/proxy/fiestamexicana?mp=/stream/;"
+        },
+        {
+            name: "La Rancherita 101.9",
+            logo: "stations/images-america/c2c/laredo_tx/La Rancherita 101.9.png",
+            url: "https://radio.grupoas.stream:5531/stream"
+        },		
+        {
+            name: "Stereo Vida 102.3",
+            logo: "stations/images-america/c2c/laredo_tx/Stereo Vida 102.3.png",
+            url: "https://server2.sit-mexico.com:2199/proxy/stereovidanl?mp=/stream/;"
+        },	
+        {
+            name: "La Poderosa 103.7",
+            logo: "stations/images-america/c2c/laredo_tx/La Poderosa 103.7.png",
+            url: "https://radio.grupoas.stream:5533/stream"
+        },
+        {
+            name: "Radio UAT 104.9",
+            logo: "stations/images-america/c2c/laredo_tx/Radio UAT 104.9.png",
+            url: "https://streaming.servicioswebmx.com/8026/stream"
+        },
+        {
+            name: "HOT 106.1",
+            logo: "stations/images-america/c2c/laredo_tx/HOT 106.1.png",
+            url: "https://live.wostreaming.net/manifest/rcomm-knexfmaac-imc4/?source=v7player"
+        },
+        {
+            name: "107.3 FM",
+            logo: "stations/images-america/c2c/laredo_tx/107.3 FM.png",
+            url: "http://216.251.65.78:8000/;stream.mp3"
+        },
+        {
+            name: "Radio Poder 1300",
+            logo: "stations/images-america/c2c/laredo_tx/Radio Poder 1300.png",
+            url: "https://s28.myradiostream.com/24678/;listen.mp3"
+        },
+        {
+            name: "Radio Vida 1490",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
+            url: "http://shout2.brnstream.com:8006/stream"
         },
     ],
     "las_cruces": [
@@ -12202,7 +12446,7 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAFMAAC_SC"
         },
         {
-            name: "Manantial FM 102.7",
+            name: "Manantial 102.7",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
             url: "http://ic2.christiannetcast.com/kyrm-fm"
         },

@@ -227,6 +227,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.5
     },
+    "del_rio": {
+        name: "Del Rio / Cd. Acuña",
+        name_english: "Del Rio / Cd. Acuña",
+        code: "us-tx",
+        relative_radius: 0.7
+    },
     "denver": {
         name: "Denver",
         name_english: "Denver",
@@ -466,6 +472,12 @@ var country_properties = {
         name_english: "Laramie",
         code: "us-wy",
         relative_radius: 0.6
+    },
+    "laredo": {
+        name: "Laredo / Nvo. Laredo",
+        name_english: "Laredo / Nvo. Laredo",
+        code: "us-tx",
+        relative_radius: 0.7
     },
     "las_cruces": {
         name: "Las Cruces",
@@ -1140,6 +1152,9 @@ var city_properties = {
     "dateland": {
         relative_whitenoise: 0.85
     },
+    "del_rio": {
+        relative_whitenoise: 0.85
+    },
     "denver": {
         relative_whitenoise: 0.85
     },
@@ -1278,6 +1293,9 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "laramie": {
+        relative_whitenoise: 0.85
+    },
+    "laredo": {
         relative_whitenoise: 0.85
     },
     "las_cruces": {
@@ -1871,6 +1889,14 @@ var cities = [
         "x": "-41711.4",
         "y": "162.801",
         "z": "-17557"
+    },
+    {
+        "gameName": "laredo",
+        "realName": "Laredo",
+        "country": "laredo",
+        "x": "-18046",
+        "y": "58.2648",
+        "z": "64849.8"
     },
     {
         "gameName": "las_vegas",
@@ -3007,6 +3033,14 @@ var cities = [
         "x": "-81820.2",
         "y": "24.894",
         "z": "28604.3"
+    },
+    {
+        "gameName": "del_rio",
+        "realName": "Del Rio",
+        "country": "del_rio",
+        "x": "-23954",
+        "y": "71.6925",
+        "z": "53880"
     },
     {
         "gameName": "denver",
