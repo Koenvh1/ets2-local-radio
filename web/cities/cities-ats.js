@@ -11630,6 +11630,259 @@ var cities_caribbean = [
     },
 ];
 
+var country_properties_alaska = {
+    "anchorage": {
+        name: "Anchorage",
+        name_english: "Anchorage",
+        code: "us-ak",
+        relative_radius: 0.8
+    },
+    "clam_gulch": {
+        name: "Clam Gulch",
+        name_english: "Clam Gulch",
+        code: "us-ak",
+        relative_radius: 0.6
+    },
+    "coldfoot": {
+        name: "Coldfoot",
+        name_english: "Coldfoot",
+        code: "us-ak",
+        relative_radius: 2.5
+    },
+    "cooper": {
+        name: "Cooper Landing",
+        name_english: "Cooper Landing",
+        code: "us-ak",
+        relative_radius: 0.5
+    },
+    "delta_juncti": {
+        name: "Delta Junction",
+        name_english: "Delta Junction",
+        code: "us-ak",
+        relative_radius: 1.5
+    },
+    "fairbanks": {
+        name: "Fairbanks",
+        name_english: "Fairbanks",
+        code: "us-ak",
+        relative_radius: 1.5
+    },
+    "fox_river": {
+        name: "Fox River",
+        name_english: "Fox River",
+        code: "us-ak",
+        relative_radius: 0.3
+    },
+    "glennallen": {
+        name: "Glennallen",
+        name_english: "Glennallen",
+        code: "us-bcs",
+        relative_radius: 1.0
+    },
+    "homer": {
+        name: "Homer",
+        name_english: "Homer",
+        code: "us-ak",
+        relative_radius: 0.6
+    },
+    "nenana": {
+        name: "Nenana",
+        name_english: "Nenana",
+        code: "us-ak",
+        relative_radius: 1.5
+    },
+    "prudhoebay": {
+        name: "Prudhoe Bay",
+        name_english: "Prudhoe Bay",
+        code: "us-ak",
+        relative_radius: 1.5
+    },
+    "valdez": {
+        name: "Valdez",
+        name_english: "Valdez",
+        code: "us-ak",
+        relative_radius: 1.4
+    },
+    "wasilla": {
+        name: "Wasilla",
+        name_english: "Wasilla",
+        code: "us-ak",
+        relative_radius: 0.8
+    },
+};
+
+var city_properties_alaska = {
+    "anchorage": {
+        relative_whitenoise: 0.95
+    },
+    "clam_gulch": {
+        relative_whitenoise: 0.85
+    },
+    "coldfoot": {
+        relative_whitenoise: 0.85
+    },
+    "cooper": {
+		relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
+    "delta_juncti": {
+        relative_radius: 0.9,
+        relative_whitenoise: 0.95
+    },
+    "fairbanks": {
+        relative_whitenoise: 0.95
+    },
+    "fox_river": {
+        relative_whitenoise: 0.95
+    },
+    "glennallen": {
+        relative_whitenoise: 0.95
+    },
+    "homer": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
+    "nenana": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.95
+    },
+    "prudhoebay": {
+        relative_whitenoise: 0.95
+    },
+    "valdez": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "wasilla": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.95
+    },
+};
+
+var cities_alaska = [
+    {
+      "gameName": "anchorage",
+      "realName": "Anchorage",
+      "country": "anchorage",
+      "x": "-150691",
+      "y": "134.223",
+      "z": "-172013"
+    },
+    {
+      "gameName": "clam_gulch",
+      "realName": "Clam Gulch",
+      "country": "clam_gulch",
+      "x": "-156602",
+      "y": "98.9219",
+      "z": "-170927"
+    },
+    {
+      "gameName": "coldfoot",
+      "realName": "Coldfoot",
+      "country": "coldfoot",
+      "x": "-126644",
+      "y": "153.715",
+      "z": "-207671"
+    },
+    {
+      "gameName": "cooper",
+      "realName": "Cooper Landing",
+      "country": "clam_gulch",
+      "x": "-151741",
+      "y": "177.785",
+      "z": "-167777"
+    },
+    {
+      "gameName": "delta_juncti",
+      "realName": "Delta Junction",
+      "country": "delta_juncti",
+      "x": "-130113",
+      "y": "59.6367",
+      "z": "-181524"
+    },
+    {
+      "gameName": "delta_juncti",
+      "realName": "Delta Junction",
+      "country": "fairbanks",
+      "x": "-130113",
+      "y": "59.6367",
+      "z": "-181524"
+    },
+    {
+      "gameName": "fairbanks",
+      "realName": "Fairbanks",
+      "country": "fairbanks",
+      "x": "-131672",
+      "y": "146.902",
+      "z": "-188155"
+    },
+    {
+      "gameName": "fox_river",
+      "realName": "Fox River",
+      "country": "fox_river",
+      "x": "-156705",
+      "y": "60.5352",
+      "z": "-166057"
+    },
+    {
+      "gameName": "glennallen",
+      "realName": "Glennallen",
+      "country": "glennallen",
+      "x": "-135275",
+      "y": "56.3203",
+      "z": "-169538"
+    },
+    {
+      "gameName": "homer",
+      "realName": "Homer",
+      "country": "clam_gulch",
+      "x": "-158708",
+      "y": "68.4492",
+      "z": "-166242"
+    },
+    {
+      "gameName": "nenana",
+      "realName": "Nenana",
+      "country": "nenana",
+      "x": "-136269",
+      "y": "131.277",
+      "z": "-188015"
+    },
+    {
+      "gameName": "nenana",
+      "realName": "Nenana",
+      "country": "fairbanks",
+      "x": "-136269",
+      "y": "131.277",
+      "z": "-188015"
+    },
+    {
+      "gameName": "prudhoebay",
+      "realName": "Prudhoe Bay",
+      "country": "prudhoebay",
+      "x": "-111145",
+      "y": "153.656",
+      "z": "-224276"
+    },
+    {
+      "gameName": "valdez",
+      "realName": "Valdez",
+      "country": "valdez",
+      "x": "-143310",
+      "y": "53.125",
+      "z": "-166205"
+    },
+    {
+      "gameName": "wasilla",
+      "realName": "Wasilla",
+      "country": "anchorage",
+      "x": "-147411",
+      "y": "120.172",
+      "z": "-172804"
+    }
+];
+
+
 for (var key in country_properties_c2c) {
     if (!country_properties_c2c.hasOwnProperty(key)) continue;
     var index = cities_c2c.map(function (e) {
@@ -11639,6 +11892,11 @@ for (var key in country_properties_c2c) {
         country_properties_c2c[key].name = cities_c2c[index].realName;
     }
 }
+
+//Alaska
+country_properties = $.extend(country_properties, country_properties_alaska);
+city_properties = $.extend(city_properties, city_properties_alaska);
+cities = cities.concat(cities_alaska);
 
 //Mexico
 country_properties = $.extend(country_properties, country_properties_mexico);

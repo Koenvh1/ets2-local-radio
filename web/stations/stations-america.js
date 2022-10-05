@@ -45029,7 +45029,7 @@ var stations_caribbean = {
     ],
 };
 
-/*var stations_alaska = {
+var stations_alaska = {
     "anchorage": [
         {
             name: "KRUA 88.1",
@@ -45187,11 +45187,276 @@ var stations_caribbean = {
             url: "https://ic1.sslstream.com/kagv-am"
         },
     ],
-};*/
+    "clam_gulch": [
+        {
+            name: "KDLL 91.9",
+            logo: "stations/images-america/alaska/0_general_logos/KDLL 91.9.png",
+            url: "https://peridot.streamguys1.com:5465/live"
+        },
+        {
+            name: "Moody Radio 95.3",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+        {
+            name: "KKIS 96.5",
+            logo: "stations/images-america/alaska/clam_gulch/KKIS 96.5.png",
+            url: "https://ice7.securenetsystems.net/KKIS"
+        },
+        {
+            name: "Q100 The Point",
+            logo: "stations/images-america/alaska/clam_gulch/Q100 The Point.png",
+            url: "https://ice7.securenetsystems.net/KWHQ"
+        },
+        {
+            name: "KKNI 105.3",
+            logo: "stations/images-america/alaska/clam_gulch/KKNI 105.3.png",
+            url: "https://ice42.securenetsystems.net/KKNI"
+        },
+        {
+            name: "The Fuse 106.9",
+            logo: "stations/images-america/alaska/clam_gulch/The Fuse 106.9.png",
+            url: "https://ice6.securenetsystems.net/KFSE"
+        },
+        {
+            name: "CBS Sports 590",
+            logo: "stations/images-america/alaska/anchorage/CBS Sports 96.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kharamaac-imc4"
+        },
+        {
+            name: "650 KENI",
+            logo: "stations/images-america/alaska/anchorage/650 KENI.png",
+            url: "https://stream.revma.ihrhls.com/zc3014/hls.m3u8"
+        },
+        {
+            name: "KFQD 750",
+            logo: "stations/images-america/alaska/anchorage/KFQD 103.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kfqdamaac-ibc4"
+        },
+        {
+            name: "KSRM 920",
+            logo: "stations/images-america/alaska/clam_gulch/KSRM 920.png",
+            url: "https://ice8.securenetsystems.net/KSRM"
+        },
+        {
+            name: "ESPN 1140",
+            logo: "stations/images-america/alaska/clam_gulch/ESPN 1140.png",
+            url: "https://ice8.securenetsystems.net/KSLD"
+        },
+    ],
+    "coldfoot": [
+        {
+            name: "No stations in this area",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: ""
+        },
+    ],
+    "delta_juncti": [
+        {
+            name: "3ABN 90.3",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "https://war.streamguys1.com:7185/live"
+        },
+        {
+            name: "KUAC 91.7",
+            logo: "stations/images-america/alaska/0_general_logos/KUAC.png",
+            url: "https://ais-sa1.streamon.fm/7180_24k.aac"
+        },
+        {
+            name: "Moody Radio 99.3",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+    ],
+    "fairbanks": [
+        {
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Radio Nueva Vida 88.3",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://ice10.securenetsystems.net/KMRO"
+        },
+        {
+            name: "Voice of Denali 89.1",
+            logo: "stations/images-america/alaska/fairbanks/Voice of Denali 89.1.png",
+            url: "https://stream.zeno.fm/2vv3wz1hq9duv"
+        },
+        {
+            name: "KUAC 89.9",
+            logo: "stations/images-america/alaska/0_general_logos/KUAC.png",
+            url: "https://ais-sa1.streamon.fm/7180_24k.aac"
+        },
+        {
+            name: "Fairbanks Open Radio 90.9",
+            logo: "stations/images-america/alaska/fairbanks/Fairbanks Open Radio 90.9.png",
+            url: "http://edge.mixlr.com/channel/qgemi"
+        },
+        {
+            name: "KSUA 91.5",
+            logo: "stations/images-america/alaska/fairbanks/KSUA 91.5.png",
+            url: "https://stream.radio.co/se776fab22/listen"
+        },
+        {
+            name: "Air1 91.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "KQHE 92.7",
+            logo: "stations/images-america/alaska/fairbanks/KQHE 92.7.png",
+            url: "https://listen.mixlr.com/94de87083b6ec577ba75aeaf75b78bb7"
+        },
+        {
+            name: "93.5 Chet FM",
+            logo: "stations/images-america/alaska/fairbanks/93.5 Chet FM.png",
+            url: "https://ice23.securenetsystems.net/KDJF"
+        },
+        {
+            name: "WILD 94.3",
+            logo: "stations/images-america/alaska/fairbanks/WILD 94.3.png",
+            url: "https://ice8.securenetsystems.net/KWDD"
+        },
+        {
+            name: "XRock 95.9",
+            logo: "stations/images-america/alaska/fairbanks/XRock 95.9.png",
+            url: "https://ice5.securenetsystems.net/KXLR"
+        },
+        {
+            name: "96.9 The River",
+            logo: "stations/images-america/alaska/fairbanks/96.9 The River.png",
+            url: "https://ice23.securenetsystems.net/KYSC"
+        },
+        {
+            name: "KFAR 97.5",
+            logo: "stations/images-america/alaska/fairbanks/KFAR 97.5.png",
+            url: "https://ice6.securenetsystems.net/KFAR"
+        },
+        {
+            name: "K-Wolf 98.1",
+            logo: "stations/images-america/alaska/fairbanks/K-Wolf 98.1.png",
+            url: "https://ice5.securenetsystems.net/KWLF"
+        },
+        {
+            name: "Magic 101.1",
+            logo: "stations/images-america/alaska/fairbanks/Magic 101.1.png",
+            url: "https://stream.revma.ihrhls.com/zc3328/hls.m3u8"
+        },
+        {
+            name: "102.5 KIAK",
+            logo: "stations/images-america/alaska/fairbanks/102.5 KIAK.png",
+            url: "https://stream.revma.ihrhls.com/zc3635/hls.m3u8"
+        },
+        {
+            name: "Ted FM 103.9",
+            logo: "stations/images-america/alaska/fairbanks/Ted FM 103.9.png",
+            url: "https://ice8.securenetsystems.net/KTDZ"
+        },
+        {
+            name: "ALT 104.7",
+            logo: "stations/images-america/alaska/fairbanks/ALT 104.7.png",
+            url: "https://stream.revma.ihrhls.com/zc3332/hls.m3u8"
+        },
+        {
+            name: "ESPN 107.9",
+            logo: "stations/images-america/alaska/fairbanks/ESPN 107.9.png",
+            url: "https://ice6.securenetsystems.net/KCBF"
+        },
+        {
+            name: "970 KFBX",
+            logo: "stations/images-america/alaska/fairbanks/970 KFBX.png",
+            url: "https://stream.revma.ihrhls.com/zc5260/hls.m3u8"
+        },
+        {
+            name: "LifeTalk Radio 1610",
+            logo: "stations/images-america/alaska/fairbanks/LifeTalk Radio 1610.png",
+            url: "https://ais-sa1.streamon.fm/7013_64k.aac"
+        },
+    ],
+    "fox_river": [
+        {
+            name: "No stations in Fox River",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: ""
+        },
+    ],
+    "glennallen": [
+        {
+            name: "Moody Radio 96.5",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+    ],
+    "nenana": [
+        {
+            name: "KUAC 91.1",
+            logo: "stations/images-america/alaska/0_general_logos/KUAC.png",
+            url: "https://ais-sa1.streamon.fm/7180_24k.aac"
+        },
+        {
+            name: "KIAM 91.9",
+            logo: "stations/images-america/alaska/nenana/KIAM 91.9.png",
+            url: "https://ic1.sslstream.com/kiam"
+        },
+        {
+            name: "KNNA 99.1",
+            logo: "stations/images-america/alaska/nenana/KNNA 99.1.png",
+            url: "https://kiyu.streamguys1.com/live"
+        },
+    ],
+    "prudhoebay": [
+        {
+            name: "K203BY 88.5",
+            logo: "stations/images-america/alaska/anchorage/KBYR 700.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBYRAMAAC_SC"
+        },
+        {
+            name: "KSKA 91.1",
+            logo: "stations/images-america/0_general_logos/AKPR.png",
+            url: "https://alaskapublic-live.streamguys1.com/aac-web"
+        },
+        {
+            name: "KIAM 94.3",
+            logo: "stations/images-america/alaska/nenana/KIAM 91.9.png",
+            url: "https://ic1.sslstream.com/kiam"
+        },
+    ],
+    "soldotna": [
+        {
+            name: "K203BY 88.5",
+            logo: "stations/images-america/alaska/anchorage/KBYR 700.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBYRAMAAC_SC"
+        },
+    ],
+    "valdez": [
+        {
+            name: "Moody Radio 91.9",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+        {
+            name: "KVAK 93.3",
+            logo: "stations/images-america/alaska/valdez/KVAK 93.3.png",
+            url: "https://us2.streamingpulse.com/ssl/kvakfm"
+        },
+        {
+            name: "KCHU 770",
+            logo: "stations/images-america/alaska/valdez/KCHU 770.png",
+            url: "https://ice8.securenetsystems.net/KCHU"
+        },
+        {
+            name: "KVAK 1230",
+            logo: "stations/images-america/alaska/valdez/KVAK 1230.png",
+            url: "https://us2.streamingpulse.com/ssl/kvakam"
+        },
+    ],
+};
 
 stations = $.extend(stations, stations_mexico);
 stations = $.extend(stations, stations_c2c);
 stations = $.extend(stations, stations_canada);
 stations = $.extend(stations, stations_caribbean);
 stations = $.extend(stations, stations_greatamerica);
-//stations = $.extend(stations, stations_alaska);
+stations = $.extend(stations, stations_alaska);
