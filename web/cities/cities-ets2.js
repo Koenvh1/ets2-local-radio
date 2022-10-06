@@ -1007,6 +1007,9 @@ var city_properties = {
     "parnu": {
         relative_radius: 1,
     },
+    "passau": {
+        relative_radius: 0.7,
+    },
     "pau": {
         relative_radius: 0.7,
     },
@@ -1235,6 +1238,9 @@ var city_properties = {
     },
     "vik": {
         relative_radius: 1.4,
+    },
+    "villach": {
+        relative_radius: 0.6,
     },
     "visby": {
         relative_radius: 0.5,
@@ -3247,7 +3253,7 @@ var cities = [
         "country": "austria",
         "x": "13665.7",
         "y": "115.418",
-        "z": "13754.6"
+        "z": "15754.6"
     },
     {
         "gameName": "lisburn",
@@ -4133,9 +4139,9 @@ var cities = [
         "gameName": "salzburg",
         "realName": "Salzburg",
         "country": "austria",
-        "x": "9075.84",
+        "x": "11075.84",
         "y": "110.809",
-        "z": "16564.5"
+        "z": "18564.5"
     },
     {
         "gameName": "sangerhausen",
@@ -4744,6 +4750,22 @@ var cities = [
         "x": "-86702.3",
         "y": "65.4219",
         "z": "-89729.3"
+    },
+    {
+        "gameName": "villach",
+        "realName": "Villach",
+        "country": "austria",
+        "x": "10001.2",
+        "y": "12.4494",
+        "z": "23084"
+    },
+    {
+        "gameName": "villach",
+        "realName": "Villach",
+        "country": "slovenia",
+        "x": "11001.2",
+        "y": "12.4494",
+        "z": "25584"
     },
     {
         "gameName": "vranje",
@@ -5721,6 +5743,22 @@ var cities_btbs = [
         "x": "44626.8",
         "y": "66.3984",
         "z": "-45237.7"
+    },
+    {
+        "gameName": "passau",
+        "realName": "Passau",
+        "country": "germany",
+        "x": "9075.84",
+        "y": "110.809",
+        "z": "8564.5"
+    },
+    {
+        "gameName": "passau",
+        "realName": "Passau",
+        "country": "germany-br",
+        "x": "9075.84",
+        "y": "110.809",
+        "z": "8564.5"
     },
     {
         "gameName": "petersburg",

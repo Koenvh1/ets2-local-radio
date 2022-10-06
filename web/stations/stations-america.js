@@ -34918,8 +34918,8 @@ var stations_c2c = {
             url: "https://stream1.flinn.com:8443/1075FM.aac"
         },
         {
-            name: "107.9 The Voice",
-            logo: "stations/images-america/c2c/memphis_tn/107.9 The Voice.png",
+            name: "The Mighty 107.9",
+            logo: "stations/images-america/c2c/memphis_tn/The Mighty 990.png",
             url: "https://ice24.securenetsystems.net/KWAM"
         },
         {
@@ -34936,11 +34936,6 @@ var stations_c2c = {
             name: "The Bet 790",
             logo: "stations/images-america/c2c/memphis_tn/The Bet 790.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORK_SC"
-        },
-        {
-            name: "The Mighty 990",
-            logo: "stations/images-america/c2c/memphis_tn/The Mighty 990.png",
-            url: "https://ice24.securenetsystems.net/KWAM"
         },
         {
             name: "1070 WDIA",
