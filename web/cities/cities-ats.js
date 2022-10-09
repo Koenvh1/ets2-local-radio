@@ -149,12 +149,6 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.6
     },
-    "bryan": {
-        name: "Bryan",
-        name_english: "Bryan",
-        code: "us-tx",
-        relative_radius: 0.7
-    },
     "burlington": {
         name: "Burlington",
         name_english: "Burlington",
@@ -233,6 +227,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "college_station": {
+        name: "College Station",
+        name_english: "College Station",
+        code: "us-tx",
+        relative_radius: 0.7
+    },
     "colorado_springs_pueblo": {
         name: "Colorado Springs / Pueblo",
         name_english: "Colorado Springs / Pueblo",
@@ -298,6 +298,12 @@ var country_properties = {
         name_english: "Durango",
         code: "us-co",
         relative_radius: 0.8
+    },
+    "eagle_pass": {
+        name: "Eagle Pass / Piedras Negras",
+        name_english: "Eagle Pass / Piedras Negras",
+        code: "us-tx",
+        relative_radius: 0.7
     },
     "ehrenberg": {
         name: "Ehrenberg",
@@ -1269,9 +1275,6 @@ var city_properties = {
 		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
-    "bryan": {
-        relative_whitenoise: 0.85
-    },
     "burlington": {
         relative_whitenoise: 0.80
     },
@@ -1317,6 +1320,9 @@ var city_properties = {
     "cody": {
         relative_whitenoise: 0.85
     },
+    "college_station": {
+        relative_whitenoise: 0.85
+    },
     "colorado_springs_pueblo": {
         relative_whitenoise: 0.85
     },
@@ -1351,6 +1357,9 @@ var city_properties = {
     "durango": {
         relative_radius: 1.0,
         relative_whitenoise: 0.85
+    },
+    "eagle_pass": {
+        relative_whitenoise: 0.95
     },
     "ehrenberg": {
         relative_whitenoise: 0.80
@@ -2057,14 +2066,6 @@ var cities = [
         "z": "-39430.3"
     },
     {
-        "gameName": "bryan",
-        "realName": "Bryan",
-        "country": "bryan",
-        "x": "2054.41",
-        "y": "26.756",
-        "z": "44537.4"
-    },
-    {
         "gameName": "burns",
         "realName": "Burns",
         "country": "burns",
@@ -2159,6 +2160,22 @@ var cities = [
         "x": "-33411.9",
         "y": "138.973",
         "z": "24758.7"
+    },
+    {
+        "gameName": "college_station",
+        "realName": "College Station",
+        "country": "college_station",
+        "x": "2054.41",
+        "y": "26.756",
+        "z": "44537.4"
+    },
+    {
+        "gameName": "eagle_pass",
+        "realName": "Eagle Pass / Piedras Negras",
+        "country": "eagle_pass",
+        "x": "-18046",
+        "y": "58.2648",
+        "z": "66849.8"
     },
     {
         "gameName": "ehrenberg",
