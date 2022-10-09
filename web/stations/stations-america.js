@@ -10454,7 +10454,7 @@ var stations = {
         {
             name: "afr Talk 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp3"
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
         },
         {
             name: "Lonestar 92.9",
@@ -13029,6 +13029,33 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc297/hls.m3u8"
         },
     ],
+    "uvalde": [
+        {
+            name: "KHPS 88.9",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-64k-mp3"
+        },
+        {
+            name: "Radio Bilingüe 90.7",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "Radio Amistad 93.1",
+            logo: "stations/images-america/texas/houston/Radio Amistad.png",
+            url: "https://khcb.streamguys1.com/spanish-128k-mp3"
+        },
+        {
+            name: "K263BC 100.5",
+            logo: "stations/images-america/texas/eagle_pass/89.5 KEPX.png",
+            url: "https://ic2.sslstream.com/kepx-fm"
+        },
+        {
+            name: "GRN 1400",
+            logo: "stations/images-america/0_general_logos/GRN.png",
+            url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
+        },
+    ],
     "vernal": [
         {
             name: "UPR 88.5",
@@ -13494,6 +13521,38 @@ var stations = {
             logo: "stations/images-america/yuma/Outlaw Country 1400.png",
             url: "http://keithz932.primcast.com:5168/stream"
         },*/
+    ],
+    "zapata": [
+        {
+            name: "Radio Bilingüe 89.3",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "digital 94.9",
+            logo: "stations/images-america/texas/laredo/digital 94.9.png",
+            url: "https://live.wostreaming.net/manifest/rcomm-kqurfmaac-imc4/?source=v7player"
+        },
+        {
+            name: "Radio 74 95.7",
+            logo: "stations/images-america/lakeview/Radio 74.png",
+            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
+            name: "La Ley 100.5",
+            logo: "stations/images-america/texas/laredo/La Ley 100.5.png",
+            url: "https://live.wostreaming.net/manifest/rcomm-kbdrfmaac-imc4/?source=v7player"
+        },
+        {
+            name: "Radio Amigo 102.7",
+            logo: "stations/images-america/texas/zapata/Radio Amigo 102.7.png",
+            url: "https://sonic01.instainternet.com/8376/stream"
+        },
+        {
+            name: "XEK-AM 960",
+            logo: "stations/images-america/texas/laredo/La Raza 90.9.png",
+            url: "https://ice42.securenetsystems.net/XHBKFM"
+        },
     ],
 };
 
@@ -24094,7 +24153,7 @@ var stations_c2c = {
         {
             name: "afr Talk 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp3"
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
         },
         {
             name: "The Light 92.1",
@@ -36039,6 +36098,11 @@ var stations_c2c = {
     ],
     "college_station": [
         {
+            name: "RED-C Catholic Radio 88.5",
+            logo: "stations/images-america/texas/waco/RED-C Catholic Radio 98.3.png",
+            url: "https://ssl-1.stream.miriamtech.net/red-c/KEDC"
+        },
+        {
             name: "KEOS 89.1",
             logo: "stations/images-america/texas/college_station/KEOS 89.1.png",
             url: "http://66.135.55.19:8170/;"
@@ -36907,7 +36971,7 @@ var stations_c2c = {
         {
             name: "afr Talk 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp3"
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
         },
         {
             name: "News 88.7",
@@ -38022,7 +38086,7 @@ var stations_c2c = {
         {
             name: "afr Talk 88.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp3"
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
         },
         {
             name: "La Radio Cristiana 90.1",
@@ -38082,6 +38146,26 @@ var stations_c2c = {
     ],
     "waco": [
         {
+            name: "K-LOVE 88.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 88.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "afr Talk 89.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
+        },
+        {
+            name: "KNCT 91.3",
+            logo: "stations/images-america/texas/waco/KNCT 91.3.png",
+            url: "https://ice41.securenetsystems.net/KNCT"
+        },
+        {
             name: "92.3 ESPN",
             logo: "stations/images-america/texas/waco/92.3 ESPN.png",
             url: "https://ais-sa1.streamon.fm/7050_24k.aac"
@@ -38097,6 +38181,16 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7641_48k.aac"
         },
         {
+            name: "94.5 The Beat",
+            logo: "stations/images-america/texas/waco/94.5 The Beat.png",
+            url: "https://ais-sa1.streamon.fm/7017_48k.aac"
+        },
+        {
+            name: "CBS Sports Radio 94.5-HD2",
+            logo: "stations/images-america/texas/waco/CBS Sports Radio 94.5-HD2.png",
+            url: "https://ais-sa1.streamon.fm/7669_48k.aac"
+        },
+        {
             name: "BIG 95",
             logo: "stations/images-america/texas/waco/BIG 95.png",
             url: "https://stream.revma.ihrhls.com/zc2365/hls.m3u8"
@@ -38105,6 +38199,16 @@ var stations_c2c = {
             name: "Z95.1",
             logo: "stations/images-america/texas/waco/Z95.1.png",
             url: "https://stream.revma.ihrhls.com/zc6764/hls.m3u8"
+        },
+        {
+            name: "Radio Amistad 96.7",
+            logo: "stations/images-america/texas/houston/Radio Amistad.png",
+            url: "https://khcb.streamguys1.com/spanish-128k-mp3"
+        },
+        {
+            name: "RED-C Catholic Radio 98.3",
+            logo: "stations/images-america/texas/waco/RED-C Catholic Radio 98.3.png",
+            url: "https://ssl-1.stream.miriamtech.net/red-c/KYAR"
         },
         {
             name: "97.5 FM",
@@ -38127,14 +38231,24 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7044_24k.aac"
         },
         {
-            name: "The Bear 102.5",
-            logo: "stations/images-america/texas/waco/The Bear 102.5.png",
+            name: "Juan 101.7",
+            logo: "stations/images-america/texas/waco/Juan 101.7.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kltdfmaac-ibc3"
+        },
+        {
+            name: "102.5 The Bear",
+            logo: "stations/images-america/texas/waco/102.5 The Bear.png",
             url: "https://stream.revma.ihrhls.com/zc2369/hls.m3u8"
         },
         {
             name: "103.3 KWBU",
             logo: "stations/images-america/texas/waco/103.3 KWBU.png",
             url: "http://radio.clevr.me/kwbu"
+        },
+        {
+            name: "La Ley 104.1",
+            logo: "stations/images-america/texas/waco/La Ley 104.1.png",
+            url: "https://ice42.securenetsystems.net/KWOW"
         },
         {
             name: "Star 104.9",
@@ -38160,6 +38274,11 @@ var stations_c2c = {
             name: "NewsTalk 1230",
             logo: "stations/images-america/texas/waco/NewsTalk 1230.png",
             url: "https://stream.revma.ihrhls.com/zc3968/hls.m3u8"
+        },
+        {
+            name: "KTEM 1400",
+            logo: "stations/images-america/texas/waco/KTEM 1400.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ktemamaac-ibc3"
         },
     ],
     "wichita_falls": [
@@ -44651,7 +44770,7 @@ var stations_greatamerica = {
         {
             name: "afr Talk 88.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp3"
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
         },
         {
             name: "IPR Classical 89.5",

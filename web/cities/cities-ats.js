@@ -6,8 +6,8 @@ var country_properties = {
         relative_radius: 0.6
     },
     "abilene": {
-        name: "abilene",
-        name_english: "abilene",
+        name: "Abilene",
+        name_english: "Abilene",
         code: "us-tx",
         relative_radius: 1.0
     },
@@ -30,8 +30,8 @@ var country_properties = {
         relative_radius: 1.0
     },
     "amarillo": {
-        name: "amarillo",
-        name_english: "amarillo",
+        name: "Amarillo",
+        name_english: "Amarillo",
         code: "us-tx",
         relative_radius: 0.7
     },
@@ -102,8 +102,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "beaumont": {
-        name: "beaumont",
-        name_english: "beaumont",
+        name: "Beaumont",
+        name_english: "Beaumont",
         code: "us-tx",
         relative_radius: 0.6
     },
@@ -231,7 +231,7 @@ var country_properties = {
         name: "College Station",
         name_english: "College Station",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "colorado_springs_pueblo": {
         name: "Colorado Springs / Pueblo",
@@ -255,7 +255,7 @@ var country_properties = {
         name: "Corpus Christi",
         name_english: "Corpus Christi",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "crescent_city": {
         name: "Crescent City",
@@ -267,7 +267,7 @@ var country_properties = {
         name: "Dallas / Fort Worth",
         name_english: "Dallas / Fort Worth",
         code: "us-tx",
-        relative_radius: 0.9
+        relative_radius: 1.0
     },
     "dalhart": {
         name: "Dalhart",
@@ -462,8 +462,8 @@ var country_properties = {
         relative_radius: 0.8
     },
     "houston": {
-        name: "houston",
-        name_english: "houston",
+        name: "Houston",
+        name_english: "Houston",
         code: "us-tx",
         relative_radius: 1.2
     },
@@ -618,10 +618,10 @@ var country_properties = {
         relative_radius: 0.8
     },
     "lubbock": {
-        name: "lubbock",
-        name_english: "lubbock",
+        name: "Lubbock",
+        name_english: "Lubbock",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "ludlow": {
         name: "Ludlow",
@@ -669,7 +669,7 @@ var country_properties = {
         name: "Midland / Odessa",
         name_english: "Midland / Odessa",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "missoula": {
         name: "Missoula",
@@ -1091,6 +1091,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
+    "uvalde": {
+        name: "Uvalde",
+        name_english: "Uvalde",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "van_horn": {
         name: "Van Horn",
         name_english: "Van Horn",
@@ -1116,8 +1122,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "waco": {
-        name: "waco",
-        name_english: "waco",
+        name: "Waco",
+        name_english: "Waco",
         code: "us-tx",
         relative_radius: 0.6
     },
@@ -1146,8 +1152,8 @@ var country_properties = {
         relative_radius: 0.6
     },
     "wichita_falls": {
-        name: "wichita_falls",
-        name_english: "wichita_falls",
+        name: "Wichita Falls",
+        name_english: "Wichita Falls",
         code: "us-tx",
         relative_radius: 0.9
     },
@@ -1168,6 +1174,12 @@ var country_properties = {
         name_english: "Yuma",
         code: "us-az",
         relative_radius: 0.5
+    },
+    "zapata": {
+        name: "Zapata",
+        name_english: "Zapata",
+        code: "us-tx",
+        relative_radius: 0.6
     },
     "arizona": {
         name: "Arizona",
@@ -1327,7 +1339,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "college_station": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "colorado_springs_pueblo": {
         relative_whitenoise: 0.85
@@ -1339,13 +1351,13 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "corpus_christi": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "crescent_city": {
         relative_whitenoise: 0.85
     },
     "dallas_fort_worth": {
-        relative_whitenoise: 0.90
+        relative_whitenoise: 0.95
     },
     "dalhart": {
         relative_radius: 0.8,
@@ -1547,7 +1559,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lubbock": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "ludlow": {
         relative_whitenoise: 0.85
@@ -1572,7 +1584,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "midland_odessa": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "missoula": {
         relative_whitenoise: 0.95
@@ -1804,6 +1816,9 @@ var city_properties = {
     "ukiah": {
         relative_whitenoise: 0.75
     },
+    "uvalde": {
+        relative_whitenoise: 0.95
+    },
     "van_horn": {
         relative_whitenoise: 0.85
     },
@@ -1844,6 +1859,9 @@ var city_properties = {
     },
     "yuma": {
         relative_whitenoise: 0.85
+    },
+    "zapata": {
+        relative_whitenoise: 0.95
     },
     "arizona": {
         relative_whitenoise: 0.95
@@ -2883,6 +2901,14 @@ var cities = [
         "z": "-20503.9"
     },
     {
+        "gameName": "uvalde",
+        "realName": "Uvalde",
+        "country": "uvalde",
+        "x": "-18954",
+        "y": "71.6925",
+        "z": "53580"
+    },
+    {
         "gameName": "winnemucca",
         "realName": "Winnemucca",
         "country": "winnemucca",
@@ -2897,6 +2923,14 @@ var cities = [
         "x": "-87619.4",
         "y": "29.8789",
         "z": "27086.4"
+    },
+    {
+        "gameName": "zapata",
+        "realName": "Zapata",
+        "country": "zapata",
+        "x": "-15046",
+        "y": "58.2648",
+        "z": "69849.8"
     },
     {
         "gameName": "cody",
@@ -3496,7 +3530,7 @@ var cities = [
         "country": "dallas_fort_worth",
         "x": "-4189.34",
         "y": "89.9727",
-        "z": "35999.3"
+        "z": "34999.3"
     },
     {
         "gameName": "dalhart",
@@ -6918,7 +6952,7 @@ var country_properties_c2c = {
         name: "ardmore",
         name_english: "ardmore",
         code: "us-ok",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "elk_city": {
         name: "elk_city",
@@ -6936,7 +6970,7 @@ var country_properties_c2c = {
         name: "Lawton",
         name_english: "Lawton",
         code: "us-ok",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "oklahoma_city": {
         name: "Oklahoma_City",
@@ -7785,7 +7819,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "ardmore": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "elk_city": {
         relative_whitenoise: 0.85
@@ -7794,7 +7828,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "lawton": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "oklahoma_city": {
         relative_whitenoise: 0.85
@@ -9401,7 +9435,7 @@ var cities_c2c = [
         "country": "ardmore",
         "x": "-5258",
         "y": "62.8369",
-        "z": "29225"
+        "z": "26225"
     },
     {
         "gameName": "elk_city",
@@ -11695,7 +11729,7 @@ var country_properties_alaska = {
         name: "Anchorage",
         name_english: "Alcan Border",
         code: "us-ak",
-        relative_radius: 2.0
+        relative_radius: 1.5
     },
     "anchorage": {
         name: "Anchorage",
@@ -11791,7 +11825,7 @@ var country_properties_alaska = {
 
 var city_properties_alaska = {
     "alcan": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "anchorage": {
         relative_whitenoise: 0.95
@@ -11810,7 +11844,7 @@ var city_properties_alaska = {
         relative_whitenoise: 0.95
     },
     "delta_juncti": {
-        relative_radius: 0.9,
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "fairbanks": {
@@ -11827,13 +11861,14 @@ var city_properties_alaska = {
         relative_whitenoise: 0.95
     },
     "nenana": {
-        relative_radius: 0.8,
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "prudhoebay": {
         relative_whitenoise: 0.95
     },
     "tok": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "valdez": {
