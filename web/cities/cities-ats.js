@@ -42,10 +42,10 @@ var country_properties = {
         relative_radius: 0.6
     },
     "austin": {
-        name: "austin",
-        name_english: "austin",
+        name: "Austin",
+        name_english: "Austin",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "baggs": {
         name: "Baggs",
@@ -465,7 +465,7 @@ var country_properties = {
         name: "houston",
         name_english: "houston",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 1.2
     },
     "huron": {
         name: "Huron",
@@ -510,10 +510,10 @@ var country_properties = {
         relative_radius: 0.7
     },
     "kerrville": {
-        name: "kerrville",
-        name_english: "kerrville",
+        name: "Kerrville",
+        name_english: "Kerrville",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "ketchum": {
         name: "Ketchum",
@@ -628,6 +628,12 @@ var country_properties = {
         name_english: "Ludlow",
         code: "us-ca",
         relative_radius: 0.4
+    },
+    "lufkin": {
+        name: "Lufkin",
+        name_english: "Lufkin",
+        code: "us-tx",
+        relative_radius: 0.8
     },
     "martins": {
         name: "Martins",
@@ -933,7 +939,7 @@ var country_properties = {
         name: "San Antonio",
         name_english: "San Antonio",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "san_clemente": {
         name: "San Clemente",
@@ -1101,7 +1107,7 @@ var country_properties = {
         name: "Victoria",
         name_english: "Victoria",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "victorville": {
         name: "Victorville",
@@ -1215,7 +1221,7 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "austin": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.95
     },
     "baggs": {
         relative_whitenoise: 0.85
@@ -1453,7 +1459,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "houston": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.95
     },
     "huron": {
         relative_radius: 0.6,
@@ -1482,7 +1488,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kerrville": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "ketchum": {
         relative_whitenoise: 0.85
@@ -1545,6 +1551,9 @@ var city_properties = {
     },
     "ludlow": {
         relative_whitenoise: 0.85
+    },
+    "lufkin": {
+        relative_whitenoise: 0.95
     },
     "martins_ca": {
 		relative_radius: 0.3,
@@ -1722,7 +1731,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "san_antonio": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "san_clemente": {
         relative_radius: 0.4,
@@ -1802,7 +1811,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "victoria": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "victorville": {
 		relative_radius: 0.45,
@@ -1903,7 +1912,7 @@ var cities = [
         "country": "austin",
         "x": "-7879.96",
         "y": "39.4637",
-        "z": "46151.5"
+        "z": "48151.5"
     },
     {
         "gameName": "baker_city",
@@ -2173,9 +2182,9 @@ var cities = [
         "gameName": "eagle_pass",
         "realName": "Eagle Pass / Piedras Negras",
         "country": "eagle_pass",
-        "x": "-18046",
+        "x": "-21046",
         "y": "58.2648",
-        "z": "66849.8"
+        "z": "58849.8"
     },
     {
         "gameName": "ehrenberg",
@@ -2506,6 +2515,14 @@ var cities = [
         "z": "14670.1"
     },
     {
+        "gameName": "lufkin",
+        "realName": "Lufkin",
+        "country": "lufkin",
+        "x": "10018.67",
+        "y": "37.2571",
+        "z": "42513.6"
+    },
+    {
         "gameName": "monterey",
         "realName": "Monterey",
         "country": "monterey",
@@ -2717,9 +2734,9 @@ var cities = [
         "gameName": "san_antonio",
         "realName": "San Antonio",
         "country": "san_antonio",
-        "x": "-12359.3",
+        "x": "-13559.3",
         "y": "94.2344",
-        "z": "54468.2"
+        "z": "54068.2"
     },
     {
         "gameName": "san_clemente",
