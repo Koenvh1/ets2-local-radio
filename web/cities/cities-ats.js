@@ -11691,11 +11691,23 @@ var cities_caribbean = [
 ];
 
 var country_properties_alaska = {
+    "alcan": {
+        name: "Anchorage",
+        name_english: "Alcan Border",
+        code: "us-ak",
+        relative_radius: 2.0
+    },
     "anchorage": {
         name: "Anchorage",
         name_english: "Anchorage",
         code: "us-ak",
         relative_radius: 0.8
+    },
+    "cantwell": {
+        name: "Cantwell",
+        name_english: "Cantwell",
+        code: "us-ak",
+        relative_radius: 0.6
     },
     "clam_gulch": {
         name: "Clam Gulch",
@@ -11757,6 +11769,12 @@ var country_properties_alaska = {
         code: "us-ak",
         relative_radius: 1.5
     },
+    "tok": {
+        name: "Tok",
+        name_english: "Tok",
+        code: "us-ak",
+        relative_radius: 1.0
+    },
     "valdez": {
         name: "Valdez",
         name_english: "Valdez",
@@ -11772,7 +11790,13 @@ var country_properties_alaska = {
 };
 
 var city_properties_alaska = {
+    "alcan": {
+        relative_whitenoise: 0.95
+    },
     "anchorage": {
+        relative_whitenoise: 0.95
+    },
+    "cantwell": {
         relative_whitenoise: 0.95
     },
     "clam_gulch": {
@@ -11809,6 +11833,9 @@ var city_properties_alaska = {
     "prudhoebay": {
         relative_whitenoise: 0.95
     },
+    "tok": {
+        relative_whitenoise: 0.95
+    },
     "valdez": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
@@ -11821,12 +11848,28 @@ var city_properties_alaska = {
 
 var cities_alaska = [
     {
+      "gameName": "alcan",
+      "realName": "Alcan",
+      "country": "alcan",
+      "x": "-123196",
+      "y": "23.3242",
+      "z": "-165269"
+    },
+    {
       "gameName": "anchorage",
       "realName": "Anchorage",
       "country": "anchorage",
       "x": "-150691",
       "y": "134.223",
       "z": "-172013"
+    },
+    {
+      "gameName": "cantwell",
+      "realName": "Cantwell",
+      "country": "cantwell",
+      "x": "-139272",
+      "y": "141.266",
+      "z": "-182233"
     },
     {
       "gameName": "clam_gulch",
@@ -11923,6 +11966,14 @@ var cities_alaska = [
       "x": "-111145",
       "y": "153.656",
       "z": "-224276"
+    },
+    {
+      "gameName": "tok",
+      "realName": "Tok",
+      "country": "alcan",
+      "x": "-125423",
+      "y": "57.6289",
+      "z": "-172368"
     },
     {
       "gameName": "valdez",
