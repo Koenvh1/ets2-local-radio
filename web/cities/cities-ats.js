@@ -33,7 +33,7 @@ var country_properties = {
         name: "Amarillo",
         name_english: "Amarillo",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "astoria": {
         name: "Astoria",
@@ -105,7 +105,7 @@ var country_properties = {
         name: "Beaumont",
         name_english: "Beaumont",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "bishop": {
         name: "Bishop",
@@ -123,7 +123,7 @@ var country_properties = {
         name: "Big Spring",
         name_english: "Big Spring",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "boise": {
         name: "Boise",
@@ -231,7 +231,7 @@ var country_properties = {
         name: "College Station",
         name_english: "College Station",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "colorado_springs_pueblo": {
         name: "Colorado Springs / Pueblo",
@@ -273,7 +273,7 @@ var country_properties = {
         name: "Dalhart",
         name_english: "Dalhart",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "dateland": {
         name: "Dateland",
@@ -285,7 +285,7 @@ var country_properties = {
         name: "Del Rio / Cd. Acuña",
         name_english: "Del Rio / Cd. Acuña",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "denver": {
         name: "Denver",
@@ -437,6 +437,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "guthrie": {
+        name: "Guthrie",
+        name_english: "Guthrie",
+        code: "us-tx",
+        relative_radius: 0.7
+    },
     "helena": {
         name: "Helena",
         name_english: "Helena",
@@ -465,7 +471,7 @@ var country_properties = {
         name: "Houston",
         name_english: "Houston",
         code: "us-tx",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "huron": {
         name: "Huron",
@@ -561,7 +567,7 @@ var country_properties = {
         name: "Laredo / Nvo. Laredo",
         name_english: "Laredo / Nvo. Laredo",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "las_cruces": {
         name: "Las Cruces",
@@ -743,6 +749,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
+    "paris": {
+        name: "Paris",
+        name_english: "Paris",
+        code: "us-tx",
+        relative_radius: 0.8
+    },
     "pecos": {
         name: "Pecos",
         name_english: "Pecos",
@@ -807,7 +819,7 @@ var country_properties = {
         name: "Raton",
         name_english: "Raton",
         code: "us-nm",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "rawlins": {
         name: "Rawlins",
@@ -933,7 +945,7 @@ var country_properties = {
         name: "San Angelo",
         name_english: "San Angelo",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "san_antonio": {
         name: "San Antonio",
@@ -1083,7 +1095,7 @@ var country_properties = {
         name: "Tyler",
         name_english: "Tyler",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "ukiah": {
         name: "Ukiah",
@@ -1227,7 +1239,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "amarillo": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "astoria": {
         relative_whitenoise: 0.75
@@ -1267,7 +1279,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "beaumont": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "bishop": {
         relative_whitenoise: 0.85
@@ -1327,7 +1339,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "childress": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "clifton": {
         relative_whitenoise: 0.85
@@ -1361,13 +1373,13 @@ var city_properties = {
     },
     "dalhart": {
         relative_radius: 0.8,
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "dateland": {
         relative_whitenoise: 0.85
     },
     "del_rio": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "denver": {
         relative_whitenoise: 0.85
@@ -1456,6 +1468,9 @@ var city_properties = {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
+    "guthrie": {
+        relative_whitenoise: 0.95
+    },
     "helena": {
         relative_whitenoise: 0.95
     },
@@ -1525,7 +1540,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "laredo": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "las_cruces": {
 		relative_radius: 0.9,
@@ -1626,6 +1641,9 @@ var city_properties = {
 		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
+    "paris": {
+        relative_whitenoise: 0.95
+    },
     "pecos": {
         relative_whitenoise: 0.85
     },
@@ -1663,7 +1681,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "raton": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "rawlins": {
         relative_whitenoise: 0.85
@@ -1740,7 +1758,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "san_angelo": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "san_antonio": {
         relative_whitenoise: 0.95
@@ -1811,7 +1829,7 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "tyler": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "ukiah": {
         relative_whitenoise: 0.75
@@ -2171,6 +2189,14 @@ var cities = [
         "x": "-36591.9",
         "y": "655.961",
         "z": "-14475.8"
+    },
+    {
+        "gameName": "childress",
+        "realName": "Childress",
+        "country": "childress",
+        "x": "-19420.1",
+        "y": "122.629",
+        "z": "24984"
     },
     {
         "gameName": "clifton",
@@ -2587,6 +2613,14 @@ var cities = [
         "x": "-96082.8",
         "y": "4.40258",
         "z": "17375.5"
+    },
+    {
+        "gameName": "paris",
+        "realName": "Paris",
+        "country": "paris",
+        "x": "1011.19",
+        "y": "85",
+        "z": "29532.7"
     },
     {
         "gameName": "phoenix",
@@ -3419,6 +3453,14 @@ var cities = [
         "x": "-48448.5",
         "y": "125.816",
         "z": "-33764.9"
+    },
+    {
+        "gameName": "guthrie",
+        "realName": "Guthrie",
+        "country": "guthrie",
+        "x": "-19420.1",
+        "y": "122.629",
+        "z": "29984"
     },
     {
         "gameName": "idaho_falls",
@@ -6292,7 +6334,7 @@ var country_properties_c2c = {
         name: "lake_charles",
         name_english: "lake_charles",
         code: "us-la",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "monroe_la": {
         name: "Monroe",
@@ -6958,7 +7000,7 @@ var country_properties_c2c = {
         name: "elk_city",
         name_english: "elk_city",
         code: "us-ok",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "enid": {
         name: "Enid",
@@ -7528,7 +7570,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "lake_charles": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "monroe_la": {
         relative_whitenoise: 0.85
@@ -7822,7 +7864,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "elk_city": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "enid": {
         relative_whitenoise: 0.85
@@ -8625,7 +8667,7 @@ var cities_c2c = [
         "gameName": "lake_charles",
         "realName": "Lake Charles",
         "country": "lake_charles",
-        "x": "13587.6",
+        "x": "14587.6",
         "y": "28.9116",
         "z": "48573"
     },
