@@ -166,6 +166,11 @@ var stations = {
             logo: "stations/images-europe/spain/KISS FM.png",
             url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3"
         },
+        {
+            name: "Pròxima FM",
+            logo: "stations/images-europe/spain/Pròxima FM.png",
+            url: "http://91.187.93.115:8000/;stream/1"
+        },
     ],
     "armenia": [
         {
@@ -238,7 +243,7 @@ var stations = {
         {
             name: "Klassik Radio Digital",
             logo: "stations/images-europe/germany/Klassik Radio.png",
-            url: "https://stream.klassikradio.de/live/mp3-192"
+            url: "https://live.streams.klassikradio.de/klassikradio-oesterreich"
         },
         {
             name: "kronehit",
@@ -1741,7 +1746,7 @@ var stations = {
         {
             name: "Klassik Radio Digital",
             logo: "stations/images-europe/germany/Klassik Radio.png",
-            url: "https://stream.klassikradio.de/live/mp3-192"
+            url: "https://live.streams.klassikradio.de/klassikradio-deutschland"
         },
         {
             name: "Beats Radio",

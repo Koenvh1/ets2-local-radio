@@ -1849,8 +1849,8 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KAZZ"
         },
         {
-            name: "94.9 New Country",
-            logo: "stations/images-america/cedar_city/94.9 New Country.png",
+            name: "Cat Country 94.9",
+            logo: "stations/images-america/cedar_city/Cat Country 94.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kcinfmaac-ibc3"
         },
         {
@@ -43603,7 +43603,7 @@ var stations_canada = {
         {
             name: "640 Toronto",
             logo: "stations/images-america/canada/toronto/640 Toronto.png",
-            url: "https://live.leanstream.co/CFMJAM-MP3"
+            url: "https://corus.leanstream.co/CFIQAM-MP3"
         },
         {
             name: "CityNews 680",
