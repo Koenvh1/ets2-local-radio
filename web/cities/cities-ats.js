@@ -231,7 +231,7 @@ var country_properties = {
         name: "College Station",
         name_english: "College Station",
         code: "us-tx",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "colorado_springs_pueblo": {
         name: "Colorado Springs / Pueblo",
@@ -472,6 +472,12 @@ var country_properties = {
         name_english: "Houston",
         code: "us-tx",
         relative_radius: 1.0
+    },
+    "huntsville": {
+        name: "Huntsville",
+        name_english: "Huntsville",
+        code: "us-tx",
+        relative_radius: 0.7
     },
     "huron": {
         name: "Huron",
@@ -1488,6 +1494,9 @@ var city_properties = {
     "houston": {
         relative_whitenoise: 0.95
     },
+    "huntsville": {
+        relative_whitenoise: 0.95
+    },
     "huron": {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
@@ -2218,9 +2227,9 @@ var cities = [
         "gameName": "college_station",
         "realName": "College Station",
         "country": "college_station",
-        "x": "2054.41",
+        "x": "-554.41",
         "y": "26.756",
-        "z": "44537.4"
+        "z": "45537.4"
     },
     {
         "gameName": "eagle_pass",
@@ -2404,7 +2413,15 @@ var cities = [
         "country": "houston",
         "x": "3270.67",
         "y": "96.3945",
-        "z": "52596.9"
+        "z": "54596.9"
+    },
+    {
+        "gameName": "huntsville",
+        "realName": "Huntsville",
+        "country": "huntsville",
+        "x": "3270.67",
+        "y": "96.3945",
+        "z": "46596.9"
     },
     {
         "gameName": "huron",
