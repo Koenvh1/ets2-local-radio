@@ -234,8 +234,8 @@ var country_properties = {
         relative_radius: 0.6
     },
     "colorado_springs_pueblo": {
-        name: "Colorado Springs / Pueblo",
-        name_english: "Colorado Springs / Pueblo",
+        name: "Colorado Springs/Pueblo",
+        name_english: "Colorado Springs/Pueblo",
         code: "us-co",
         relative_radius: 0.9
     },
@@ -264,8 +264,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "dallas_fort_worth": {
-        name: "Dallas / Fort Worth",
-        name_english: "Dallas / Fort Worth",
+        name: "Dallas/Fort Worth",
+        name_english: "Dallas/Fort Worth",
         code: "us-tx",
         relative_radius: 1.0
     },
@@ -282,8 +282,8 @@ var country_properties = {
         relative_radius: 0.5
     },
     "del_rio": {
-        name: "Del Rio / Cd. Acuña",
-        name_english: "Del Rio / Cd. Acuña",
+        name: "Del Rio/Cd. Acuña",
+        name_english: "Del Rio/Cd. Acuña",
         code: "us-tx",
         relative_radius: 0.8
     },
@@ -300,8 +300,8 @@ var country_properties = {
         relative_radius: 0.8
     },
     "eagle_pass": {
-        name: "Eagle Pass / Piedras Negras",
-        name_english: "Eagle Pass / Piedras Negras",
+        name: "Eagle Pass/Piedras Negras",
+        name_english: "Eagle Pass/Piedras Negras",
         code: "us-tx",
         relative_radius: 0.7
     },
@@ -312,8 +312,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "el_paso": {
-        name: "El Paso / Cd. Juárez",
-        name_english: "El Paso / Cd. Juárez",
+        name: "El Paso/Cd. Juárez",
+        name_english: "El Paso/Cd. Juárez",
         code: "us-tx",
         relative_radius: 0.8
     },
@@ -420,8 +420,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "grand_junction_montrose": {
-        name: "Grand Junction / Montrose",
-        name_english: "Grand Junction / Montrose",
+        name: "Grand Junction/Montrose",
+        name_english: "Grand Junction/Montrose",
         code: "us-co",
         relative_radius: 0.7
     },
@@ -516,8 +516,8 @@ var country_properties = {
         relative_radius: 0.8
     },
     "kennewick_pendleton": {
-        name: "Kennewick / Pendleton",
-        name_english: "Kennewick / Pendleton",
+        name: "Kennewick/Pendleton",
+        name_english: "Kennewick/Pendleton",
         code: "us-wa",
         relative_radius: 0.7
     },
@@ -570,8 +570,8 @@ var country_properties = {
         relative_radius: 0.6
     },
     "laredo": {
-        name: "Laredo / Nvo. Laredo",
-        name_english: "Laredo / Nvo. Laredo",
+        name: "Laredo/Nvo. Laredo",
+        name_english: "Laredo/Nvo. Laredo",
         code: "us-tx",
         relative_radius: 0.9
     },
@@ -678,8 +678,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "midland_odessa": {
-        name: "Midland / Odessa",
-        name_english: "Midland / Odessa",
+        name: "Midland/Odessa",
+        name_english: "Midland/Odessa",
         code: "us-tx",
         relative_radius: 1.0
     },
@@ -966,8 +966,8 @@ var country_properties = {
         relative_radius: 0.4
     },
     "san_diego": {
-        name: "San Diego / Tijuana",
-        name_english: "San Diego / Tijuana",
+        name: "San Diego/Tijuana",
+        name_english: "San Diego/Tijuana",
         code: "us-ca",
         relative_radius: 0.7
     },
@@ -2233,7 +2233,7 @@ var cities = [
     },
     {
         "gameName": "eagle_pass",
-        "realName": "Eagle Pass / Piedras Negras",
+        "realName": "Eagle Pass/Piedras Negras",
         "country": "eagle_pass",
         "x": "-21046",
         "y": "58.2648",
@@ -2257,7 +2257,7 @@ var cities = [
     },
     {
         "gameName": "el_paso",
-        "realName": "El Paso / Cd. Juárez",
+        "realName": "El Paso/Cd. Juárez",
         "country": "el_paso",
         "x": "-50000",
         "y": "113.516",
@@ -2817,7 +2817,7 @@ var cities = [
     },
     {
         "gameName": "san_diego",
-        "realName": "San Diego / Tijuana",
+        "realName": "San Diego/Tijuana",
         "country": "san_diego",
         "x": "-98862.2",
         "y": "90.8438",
@@ -3577,7 +3577,7 @@ var cities = [
     },
     {
         "gameName": "colorado_springs_pueblo",
-        "realName": "Colorado Springs / Pueblo",
+        "realName": "Colorado Springs/Pueblo",
         "country": "colorado_springs_pueblo",
         "x": "-37543",
         "y": "97.4214",
@@ -3585,7 +3585,7 @@ var cities = [
     },
     {
         "gameName": "dallas_fort_worth",
-        "realName": "Dallas / Fort Worth",
+        "realName": "Dallas/Fort Worth",
         "country": "dallas_fort_worth",
         "x": "-4189.34",
         "y": "89.9727",
@@ -3681,7 +3681,7 @@ var cities = [
     },
     {
         "gameName": "grand_junction_montrose",
-        "realName": "Grand Junction / Montrose",
+        "realName": "Grand Junction/Montrose",
         "country": "grand_junction_montrose",
         "x": "-52937.9",
         "y": "121.101",
@@ -4373,8 +4373,8 @@ var country_properties_mexico = {
         relative_radius: 0.6
     },
     "tijuana": {
-        name: "San Diego / Tijuana",
-        name_english: "San Diego / Tijuana",
+        name: "San Diego/Tijuana",
+        name_english: "San Diego/Tijuana",
         code: "mx-bcn",
         relative_radius: 0.6
     },
@@ -5738,7 +5738,7 @@ var cities_mexico = [
     },
     {
       "gameName": "tijuana",
-      "realName": "San Diego / Tijuana",
+      "realName": "San Diego/Tijuana",
       "country": "san_diego",
       "x": "-99184.2",
       "y": "49.7773",
