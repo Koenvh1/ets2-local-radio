@@ -5693,8 +5693,8 @@ var stations = {
             url: "https://streamvideo.luxnet.ua/maximum/smil:maximum.stream.smil/playlist.m3u8"
         },
         {
-            name: "Радио Пятница",
-            logo: "stations/images-europe/ukraine/Радио Пятница.png",
+            name: "Радіо Українських Доріг",
+            logo: "stations/images-europe/ukraine/Радіо Українських Доріг.png",
             url: "https://cast.radiogroup.com.ua/radiopyatnica320"
         },
         {

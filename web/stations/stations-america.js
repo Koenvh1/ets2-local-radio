@@ -292,9 +292,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOBQFMAAC_SC"
         },
         {
-            name: "KIVA 93.7",
-            logo: "stations/images-america/albuquerque/KIVA 93.7.png",
-            url: "http://uk1.internet-radio.com:15889/live"
+            name: "93.7 KRKE",
+            logo: "stations/images-america/albuquerque/93.7 KRKE.png",
+            url: "https://ice42.securenetsystems.net/KRKE"
         },
         {
             name: "94 Rock",
@@ -36023,6 +36023,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
+            name: "ACL Radio 93.3-HD2",
+            logo: "stations/images-america/texas/austin/ACL Radio 97.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC.aac"
+        },
+        {
             name: "The Party! 93.3-HD3",
             logo: "stations/images-america/texas/austin/The Party! 93.3-HD3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3AAC_SC"
@@ -37371,6 +37376,11 @@ var stations_c2c = {
             name: "100.3 The Bull",
             logo: "stations/images-america/texas/houston/100.3 The Bull.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kiltfmaac-imc"
+        },
+        {
+            name: "100.3 KILT-HD2",
+            logo: "stations/images-america/texas/houston/Sports Radio 610.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
             name: "KIKK 100.3-HD3",
