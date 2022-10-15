@@ -5169,6 +5169,13 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KSPZ"
         },
     ],
+    "junction": [
+        {
+            name: "Sun Radio 104.1",
+            logo: "stations/images-america/texas/austin/Sun Radio 100.1.png",
+            url: "https://ice10.securenetsystems.net/SUNRADIO"
+        },
+    ],
     "katl": [
         {
             name: "770 KATL",
@@ -5390,6 +5397,11 @@ var stations = {
             name: "KTEL 1490",
             logo: "stations/images-america/kennewick_pendleton/KTEL 1490.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAMAAC_SC"
+        },
+        {
+            name: "NOAA Weather Radio Richland",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WWF56_2.mp3"
         },
     ],
     "ketchum": [
@@ -6897,6 +6909,11 @@ var stations = {
             name: "Radio Seoul 1650",
 			logo: "stations/images-america/los_angeles/Radio Seoul 1650.png",
 			url: "https://radio1.koreatimes.com/"
+        },
+        {
+            name: "NOAA Weather Radio Los Angeles",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/KWO37.mp3"
         },
     ],
     "ltahoe": [
@@ -9498,6 +9515,11 @@ var stations = {
             logo: "stations/images-america/reno/Wolf Pack Radio 1700.png",
             url: "http://streamer.radio.co/s01995b9a1/listen"
         },
+        {
+            name: "NOAA Weather Radio Reno",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXK58.mp3"
+        },
     ],
     "ridgecrest": [
         {
@@ -9773,6 +9795,11 @@ var stations = {
             name: "KVOW 1450",
             logo: "stations/images-america/riverton/KVOW 1450.png",
             url: "https://ice6.securenetsystems.net/KVOW"
+        },
+        {
+            name: "NOAA Weather Radio Lander",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXM61.mp3"
         },
     ],
     "rock_springs": [
@@ -10134,6 +10161,11 @@ var stations = {
             name: "KJAY 1430",
             logo: "stations/images-america/sacramento/KJAY 1430.png",
             url: "https://crystalout.surfernetwork.com:8001/KJAY-AM_MP3"
+        },
+        {
+            name: "NOAA Weather Radio Sacramento",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/KEC57.mp3"
         },
     ],
     "salida": [
@@ -11625,8 +11657,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
-            name: "KGO 810",
-            logo: "stations/images-america/san_francisco/KGO 810.png",
+            name: "810 The Spread",
+            logo: "stations/images-america/san_francisco/810 The Spread.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
         },
         {
@@ -11673,6 +11705,11 @@ var stations = {
             name: "KDIA 1640",
             logo: "stations/images-america/san_francisco/KDIA 1640.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDIAAMAAC_SC"
+        },
+        {
+            name: "NOAA Weather Radio San Francisco",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/KEC49.mp3"
         },
     ],
     "san_simon": [
@@ -12012,6 +12049,11 @@ var stations = {
             name: "La Patrona 1680",
             logo: "stations/images-america/seattle/La Patrona 1680.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNTSAMAAC_SC"
+        },
+        {
+            name: "NOAA Weather Radio Seattle",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.gabrielsmcmillan.me/sew-khb60"
         },
     ],
     "shelby": [
@@ -13188,8 +13230,8 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
-            name: "KGO 810",
-            logo: "stations/images-america/san_francisco/KGO 810.png",
+            name: "810 The Spread",
+            logo: "stations/images-america/san_francisco/810 The Spread.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
         },
         {

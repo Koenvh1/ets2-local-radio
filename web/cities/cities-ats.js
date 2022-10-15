@@ -503,6 +503,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.7
     },
+    "junction": {
+        name: "Junction",
+        name_english: "Junction",
+        code: "us-tx",
+        relative_radius: 0.6
+    },
     "kalispell": {
         name: "Kalispell",
         name_english: "Kalispell",
@@ -1510,6 +1516,10 @@ var city_properties = {
     "jackson": {
         relative_whitenoise: 0.85
     },
+    "junction": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "kalispell": {
         relative_whitenoise: 0.75
     },
@@ -2446,6 +2456,22 @@ var cities = [
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
+    },
+    {
+        "gameName": "junction",
+        "realName": "Junction",
+        "country": "junction",
+        "x": "-21590.8",
+        "y": "28.3667",
+        "z": "47438.6"
+    },
+    {
+        "gameName": "junction",
+        "realName": "Junction",
+        "country": "kerrville",
+        "x": "-21590.8",
+        "y": "28.3667",
+        "z": "47438.6"
     },
     {
         "gameName": "kalispell",
