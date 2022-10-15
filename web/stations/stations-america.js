@@ -32040,9 +32040,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXKRFMAAC_SC"
         },
         {
-            name: "The Zone 94.5-HD2",
-            logo: "stations/images-america/c2c/toledo_oh/100.7 The Zone.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQQOHD2AAC_SC"
+            name: "94.5-HD2 The Zone",
+            logo: "stations/images-america/c2c/toledo_oh/94.5-HD2 The Zone.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXKRHD2AAC_SC"
         },
         {
             name: "94.9 The Beat",
