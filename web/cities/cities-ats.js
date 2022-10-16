@@ -137,6 +137,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.9
     },
+    "brady": {
+        name: "Brady",
+        name_english: "Brady",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "brawley": {
         name: "Brawley",
         name_english: "Brawley",
@@ -148,6 +154,12 @@ var country_properties = {
         name_english: "Broadus",
         code: "us-mt",
         relative_radius: 0.6
+    },
+    "buffalo_tx": {
+        name: "Buffalo",
+        name_english: "Buffalo",
+        code: "us-tx",
+        relative_radius: 0.5
     },
     "burlington": {
         name: "Burlington",
@@ -250,6 +262,12 @@ var country_properties = {
         name_english: "Coos Bay",
         code: "us-or",
         relative_radius: 0.7
+    },
+    "corsicana": {
+        name: "Corsicana",
+        name_english: "Corsicana",
+        code: "us-tx",
+        relative_radius: 1.0
     },
     "corpus_christi": {
         name: "Corpus Christi",
@@ -1309,6 +1327,9 @@ var city_properties = {
     "bozeman": {
         relative_whitenoise: 0.95
     },
+    "brady": {
+        relative_whitenoise: 0.95
+    },
     "brawley": {
 		relative_radius: 0.6,
         relative_whitenoise: 0.85
@@ -1316,6 +1337,9 @@ var city_properties = {
     "broadus": {
 		relative_radius: 0.9,
         relative_whitenoise: 0.85
+    },
+    "buffalo_tx": {
+        relative_whitenoise: 0.95
     },
     "burlington": {
         relative_whitenoise: 0.80
@@ -1374,6 +1398,10 @@ var city_properties = {
     "coos_bay": {
         relative_whitenoise: 0.85
     },
+    "corsicana": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
     "corpus_christi": {
         relative_whitenoise: 0.95
     },
@@ -1410,7 +1438,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "el_paso": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "ely": {
         relative_whitenoise: 0.85
@@ -1452,7 +1480,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "fort_stockton": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "gallup": {
         relative_whitenoise: 0.80
@@ -1664,7 +1692,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "pecos": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "pendleton": {
         relative_radius: 0.8,
@@ -1870,7 +1898,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "waco": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "wallace": {
         relative_radius: 0.5,
@@ -2096,6 +2124,14 @@ var cities = [
         "x": "-57979.1",
         "y": "124.777",
         "z": "-41966.3"
+    },
+    {
+        "gameName": "brady",
+        "realName": "Brady",
+        "country": "brady",
+        "x": "-14593",
+        "y": "77.1016",
+        "z": "45202.7"
     },
     {
         "gameName": "brawley",
@@ -3026,6 +3062,14 @@ var cities = [
         "z": "-43570.7"
     },
     {
+        "gameName": "corsicana",
+        "realName": "Corsicana",
+        "country": "dallas_fort_worth",
+        "x": "-554.41",
+        "y": "26.756",
+        "z": "40237.4"
+    },
+    {
         "gameName": "corpus_christi",
         "realName": "Corpus Christi",
         "country": "corpus_christi",
@@ -3093,7 +3137,7 @@ var cities = [
         "gameName": "midland_odessa",
         "realName": "Midland",
         "country": "midland_odessa",
-        "x": "-28614.5",
+        "x": "-29614.5",
         "y": "31.6219",
         "z": "38784.6"
     },
@@ -3592,6 +3636,14 @@ var cities = [
         "x": "-44120.3",
         "y": "146.652",
         "z": "6136.21"
+    },
+    {
+        "gameName": "buffalo_tx",
+        "realName": "Buffalo",
+        "country": "buffalo_tx",
+        "x": "2811.19",
+        "y": "85",
+        "z": "41532.7"
     },
     {
         "gameName": "burlington",
