@@ -383,6 +383,12 @@ var country_properties = {
         code: "mk",
         relative_radius: 0.6,
     },
+    "malta": {
+        name: "Malta",
+        name_english: "Malta",
+        code: "mt",
+        relative_radius: 1.0,
+    },
     "mnegro": {
         name: "Црна Гора",
         name_english: "Montenegro",
@@ -7511,6 +7517,17 @@ var cities_pm250 = [
     }
 ];
 
+var cities_pm260 = [
+    {
+        "gameName": "valletta",
+        "realName": "il-Belt Valletta",
+        "country": "malta",
+        "x": "13586.7",
+        "y": "57",
+        "z": "83228.8"
+    }
+];
+
 var cities_pm_me = [
     {
         "gameName": "afula",
@@ -11299,6 +11316,7 @@ cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
 cities = cities.concat(cities_pm245); //ProMods 2.45 cities
 cities = cities.concat(cities_pm250); //ProMods 2.50 cities
+cities = cities.concat(cities_pm260); //ProMods 2.50 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
