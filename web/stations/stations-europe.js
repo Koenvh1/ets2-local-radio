@@ -3368,6 +3368,28 @@ var stations = {
             url: "https://eu4.fastcast4u.com/proxy/metradio?mp=/1"
         },
     ],
+    "malta": [
+        {
+            name: "Radju Malta",
+            logo: "stations/images-europe/malta/Radju Malta.jpg",
+            url: "https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE3MzE0MiwiYXVkIjoiMTQzLjE3Ny4xOTAuMjE5IiwiZXhwIjoxNjY2MDIzNDc5fQ.mEbKciyW-ru7GweT9x9QcayUalCU-okEfS9LAlxlKkU/live/6/master.m3u8"
+        },
+        {
+            name: "Radju Malta 2",
+            logo: "stations/images-europe/malta/Radju Malta 2.jpg",
+            url: "https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE3MzE0MiwiYXVkIjoiMTQzLjE3Ny4xOTAuMjE5IiwiZXhwIjoxNjY2MDIzNDc5fQ.mEbKciyW-ru7GweT9x9QcayUalCU-okEfS9LAlxlKkU/live/7/master.m3u8"
+        },
+        {
+            name: "103 Malta's Heart",
+            logo: "stations/images-europe/malta/103 Malta's Heart.png",
+            url: "https://s2.radio.co/s955b1ced9/listen#.mp3"
+        },
+        {
+            name: "Bay Radio",
+            logo: "stations/images-europe/malta/Bay Radio.png",
+            url: "https://stream.v3.network:18022/;stream.mp3?_=1"
+        },
+    ],
     "mnegro": [
         {
             name: "RCG",
