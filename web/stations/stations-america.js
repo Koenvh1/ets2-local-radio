@@ -492,12 +492,12 @@ var stations = {
             name: "99.9 The Beat",
             logo: "stations/images-america/albuquerque/99.9 The Beat.png",
             url: "https://ice42.securenetsystems.net/KMGG"
-        },/*
+        },
         {
             name: "Classic Hits 99.9-HD2",
             logo: "stations/images-america/albuquerque/Classic Hits 99.9-HD2.png",
             url: "https://ice6.securenetsystems.net/KMGGHD2"
-        },*/
+        },
         {
             name: "100.3 The Peak",
             logo: "stations/images-america/albuquerque/100.3 The Peak.png",
@@ -885,7 +885,7 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-kkmjfmaac-imc"
         },
         {
-            name: "KKMJ 95.5-HD2",
+            name: "95.5 KKMJ-HD2",
             logo: "stations/images-america/texas/austin/Talk 1370.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/direct/audacy-kjceamaac-imc"
         },
@@ -2860,8 +2860,8 @@ var stations = {
             url: "https://ny.mysonicserver.com:7010/;"
         },
         {
-            name: "KGNC 710",
-            logo: "stations/images-america/texas/amarillo/KGNC 97.5.png",
+            name: "710 KGNC",
+            logo: "stations/images-america/texas/amarillo/97.5 KGNC.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
@@ -3016,7 +3016,7 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7270_48k.aac"
         },
         {
-            name: "98.3-HD2 KORA Classic",
+            name: "98.3 KORA-HD2 Classic",
             logo: "stations/images-america/texas/college_station/98.3-HD2 KORA Classic.png",
             url: "https://ais-sa1.streamon.fm/7410_48k.aac"
         },
@@ -3113,7 +3113,7 @@ var stations = {
             url: "https://stream.ktlf.radio/radio/8000/theLight"
         },
         {
-            name: "Way FM 90.9",
+            name: "90.9 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kvuu.aac"
         },
@@ -3638,7 +3638,7 @@ var stations = {
             url: "http://64.78.234.165:8000/KNON"
         },
         {
-            name: "Way FM 89.7",
+            name: "89.7 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kawa.aac"
         },
@@ -3670,7 +3670,7 @@ var stations = {
         {
             name: "KSKY 92.9",
             logo: "stations/images-america/texas/dallas_fort_worth/660 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC.aac"
         },
         {
             name: "HOT 93.3",
@@ -3698,7 +3698,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFMAAC_SC"
         },
         {
-            name: "KLIF 96.3-HD2",
+            name: "96.3 KLIF-HD2",
             logo: "stations/images-america/texas/dallas_fort_worth/KLIF 96.3-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC_SC"
         },
@@ -4114,12 +4114,12 @@ var stations = {
             url: "https://s2.mexside.net/8064/stream"
         },
         {
-            name: "XHRF 103.9-HD2",
+            name: "103.9 XHRF-HD2",
             logo: "stations/images-america/mexico/mazatlan/Reactor.png",
             url: "https://s2.mexside.net/8002/stream"
         },
         {
-            name: "Opus 94 103.9-HD3",
+            name: "103.9 XHRF-HD3",
             logo: "stations/images-america/texas/del_rio/Opus 94 103.9-HD2.png",
             url: "https://s2.mexside.net/8016/stream"
         },
@@ -4221,7 +4221,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2795/hls.m3u8"
         },
         {
-            name: "KDHT 95.7-HD2",
+            name: "95.7 KDHT-HD2",
             logo: "stations/images-america/denver/107.9 KBPI.png",
             url: "http://stream.revma.ihrhls.com/zc373/hls.m3u8"
         },
@@ -4296,7 +4296,7 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/maxmedia-kjhmfmaac-ibc1"
         },
         {
-            name: "Way FM 101.9",
+            name: "101.9 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kxwa.aac"
         },
@@ -5447,7 +5447,7 @@ var stations = {
             url: "http://sc2.spacialnet.com:33358/;stream/mp4"
         },
         {
-            name: "Way FM 93.9",
+            name: "93.9 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kxwa.aac"
         },
@@ -6465,8 +6465,8 @@ var stations = {
             url: "http://96.31.83.94:8002/live"
         },
         {
-            name: "KGNC 710",
-            logo: "stations/images-america/texas/amarillo/KGNC 97.5.png",
+            name: "710 KGNC",
+            logo: "stations/images-america/texas/amarillo/97.5 KGNC.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
@@ -9397,6 +9397,11 @@ var stations = {
             name: "Magic 106.5",
             logo: "stations/images-america/texas/lubbock/Magic 106.5.png",
             url: "https://ais-sa1.streamon.fm/7171_48k.aac"
+        },
+        {
+            name: "107.3 KSSL",
+            logo: "stations/images-america/texas/lubbock/94.1 KSSL.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://ice6.securenetsystems.net/KSSL"
         },
         {
             name: "107.7 YES! FM",
@@ -15551,7 +15556,7 @@ var stations = {
             url: "https://stream.ktlf.radio/radio/8000/theLight"
         },
         {
-            name: "Way FM 93.9",
+            name: "93.9 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kxwa.aac"
         },
@@ -20019,7 +20024,7 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7685_128k.aac"
         },
         {
-            name: "Way FM 99.1",
+            name: "99.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayb.aac"
         },
@@ -20039,7 +20044,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3089/hls.m3u8"
         },
         {
-            name: "WDXB 102.5-HD2",
+            name: "102.5 WDXB-HD2",
             logo: "stations/images-america/c2c/birmingham_al/BIN 92.7.png",
             url: "http://stream.revma.ihrhls.com/zc8666/hls.m3u8"
         },
@@ -20116,7 +20121,7 @@ var stations_c2c = {
     ],
     "huntsville_al": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayh.aac"
         },
@@ -21350,7 +21355,7 @@ var stations_c2c = {
     ],
     "port_saint_lucie": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayf.aac"
         },
@@ -21517,7 +21522,7 @@ var stations_c2c = {
     ],
     "panama_city": [
         {
-            name: "Way FM 88.3",
+            name: "88.3 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -21689,7 +21694,7 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WXUS"
         },
         {
-            name: "True Oldies Y100.1 - 102.3-HD2",
+            name: "102.3 WXUS-HD2",
             logo: "stations/images-america/c2c/gainesville_fl/True Oldies Y100.1 102.3-HD2.png",
             url: "https://ice42.securenetsystems.net/WXUSHD2"
         },
@@ -21923,7 +21928,7 @@ var stations_c2c = {
     ],
     "key_west": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayf.aac"
         },
@@ -22102,7 +22107,7 @@ var stations_c2c = {
     ],
     "miami": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayf.aac"
         },
@@ -22222,7 +22227,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc561/hls.m3u8"
         },
         {
-            name: "WHYI 100.7-HD2",
+            name: "100.7 WHYI-HD2",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
             url: "http://streaming.revolution935.com/live"
         },
@@ -22339,7 +22344,7 @@ var stations_c2c = {
     ],
     "naples": [
         {
-            name: "Way FM 89.5",
+            name: "89.5 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayj.aac"
         },
@@ -22658,7 +22663,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc593/hls.m3u8"
         },
         {
-            name: "WJRR 101.1-HD2",
+            name: "101.1 WJRR-HD2",
             logo: "stations/images-america/c2c/orlando_fl/96.9 The Game.png",
             url: "http://stream.revma.ihrhls.com/zc601/hls.m3u8"
         },
@@ -22688,7 +22693,7 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WOTWHD2"
         },
         {
-            name: "Oldies 98 103.1-HD3",
+            name: "103.1 WPTY-HD3",
             logo: "stations/images-america/c2c/orlando_fl/Oldies 98 103.1-HD3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTYHD2AAC_SC"
         },
@@ -22939,7 +22944,7 @@ var stations_c2c = {
     ],
     "tallahassee": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayt.aac"
         },
@@ -23166,7 +23171,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc689/hls.m3u8"
         },
         {
-            name: "WMTX 100.7-HD2",
+            name: "100.7 WMTX-HD2",
             logo: "stations/images-america/c2c/tampa_fl/Acción 105.9.png",
             url: "http://stream.revma.ihrhls.com/zc685/hls.m3u8"
         },
@@ -23776,7 +23781,7 @@ var stations_c2c = {
     ],
     "macon": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayt.aac"
         },
@@ -24186,7 +24191,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc829/hls.m3u8"
         },
         {
-            name: "iHeartCountry Radio 92.3-HD2",
+            name: "iHeart Country Radio 92.3-HD2",
             logo: "stations/images-america/0_general_logos/iHeartCountry Radio.png",
             url: "https://stream.revma.ihrhls.com/zc4418/hls.m3u8"
         }, 
@@ -25166,7 +25171,7 @@ var stations_c2c = {
             url: "https://server01.nkstreaming.com:8105/WPSRHD1"
         },
         {
-            name: "Way FM 91.5",
+            name: "91.5 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -26617,7 +26622,7 @@ var stations_c2c = {
             url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
-            name: "Way FM 90.7",
+            name: "90.7 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -26714,7 +26719,7 @@ var stations_c2c = {
     ],
     "bowling_green": [
         {
-            name: "Way FM 88.1",
+            name: "88.1 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -27150,7 +27155,7 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wghlfmaac-ibc2"
         },
         {
-            name: "Way FM 105.9",
+            name: "105.9 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/wayi.aac"
         },
@@ -37708,7 +37713,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6788/hls.m3u8"
         },
         {
-            name: "Way FM 94.3-HD3",
+            name: "94.3-HD3 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -37758,7 +37763,7 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wxstfmaac-ibc1"
         },
         {
-            name: "Way FM 101.3",
+            name: "101.3 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/waya.aac"
         },
@@ -38715,7 +38720,7 @@ var stations_c2c = {
     ],
     "cookeville_tn": [
         {
-            name: "Way FM 90.5",
+            name: "90.5 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -38807,7 +38812,7 @@ var stations_c2c = {
     ],
     "jackson_tn": [
         {
-            name: "Way FM 89.3",
+            name: "89.3 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kywa.aac"
         },
@@ -39325,7 +39330,7 @@ var stations_c2c = {
             url: "http://backbonenetworks.streamguys.com/fiskradio.mp3"
         },
         {
-            name: "Way FM 88.7",
+            name: "88.7 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/waym.aac"
         },
