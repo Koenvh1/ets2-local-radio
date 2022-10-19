@@ -750,6 +750,11 @@ var stations = {
             logo: "stations/images-america/texas/amarillo/NewsTalk 940.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kixzamaac-ibc3"
         },
+        {
+            name: "NOAA Weather Radio Amarillo",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXK38_2.mp3"
+        },
     ],
     "astoria": [
         {
@@ -9557,6 +9562,11 @@ var stations = {
             logo: "stations/images-america/texas/lufkin/KDET 930.png",
             url: "https://ice42.securenetsystems.net/KDET"
         },	
+        {
+            name: "NOAA Weather Radio Lufkin",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXK23.mp3"
+        },
     ],
     "malta": [
         {
@@ -9822,6 +9832,11 @@ var stations = {
             name: "Effect Radio 99.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "https://ice6.securenetsystems.net/EFXAAC"
+        },
+        {
+            name: "NOAA Weather Radio McCall",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://icy3.boisestatepublicradio.org:9018/WWF58_McCall"
         },
     ],
     "mcdermitt": [
@@ -13065,6 +13080,11 @@ var stations = {
             logo: "stations/images-america/salmon/KSRA 92.7.png",
             url: "https://ice24.securenetsystems.net/KSRAAM"
         },
+        {
+            name: "NOAA Weather Radio Salmon",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://icy3.boisestatepublicradio.org:9018/KPS509_Salmon"
+        },
     ],
     "salt_lake": [
         {
@@ -13473,6 +13493,11 @@ var stations = {
             name: "ESPN 960",
             logo: "stations/images-america/texas/san_angelo/ESPN 960.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kgklamaac-ibc3"
+        },
+        {
+            name: "NOAA Weather Radio San Angelo",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radiostream.kd5hia.net/WXK33.mp3"
         },
     ],
     "san_antonio": [
@@ -16263,6 +16288,11 @@ var stations = {
             logo: "stations/images-america/ketchum/Q106.7.png",
             url: "https://ice10.securenetsystems.net/KIRQFM"
         },
+        {
+            name: "NOAA Weather Radio Twin Falls",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://icy3.boisestatepublicradio.org:9018/WXL35_Twin_Falls"
+        },
     ],
     "tyler": [
         {
@@ -16424,6 +16454,11 @@ var stations = {
             name: "Talk Radio 1190",
             logo: "stations/images-america/texas/dallas_fort_worth/Talk Radio 1190.png",
             url: "https://stream.revma.ihrhls.com/zc4276/hls.m3u8"
+        },
+        {
+            name: "NOAA Weather Radio Tyler",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXK36_2.mp3"
         },
     ],
     "ukiah": [
@@ -16888,6 +16923,11 @@ var stations = {
             name: "KTEM 1400",
             logo: "stations/images-america/texas/waco/KTEM 1400.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ktemamaac-ibc3"
+        },
+        {
+            name: "NOAA Weather Radio Waco",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXK35.mp3"
         },
     ],
     "wenatchee": [
@@ -21968,9 +22008,9 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/WEOW"
         },
         {
-            name: "93.7 NRG",
-            logo: "stations/images-america/c2c/key_west_fl/93.7 NRG.png",
-            url: "https://streams.radiomast.io/dd12e70b-da48-4d71-9212-eb8f8e9de597"
+            name: "Key 93.7",
+            logo: "stations/images-america/c2c/key_west_fl/Key 93.7.png",
+            url: "https://live.amperwave.net/manifest/radioonebuffalo-wkeyfmaac-hlsc.m3u8"
         },
         {
             name: "95.7 WHNJ",
@@ -22184,7 +22224,7 @@ var stations_c2c = {
         {
             name: "Power 96",
             logo: "stations/images-america/c2c/miami_fl/Power 96.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPOWFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wpowfmaac-imc"
         },
         {
             name: "Reggae Nation 96.5-HD2",
@@ -22219,7 +22259,7 @@ var stations_c2c = {
         {
             name: "KISS Country 99.9",
             logo: "stations/images-america/c2c/miami_fl/KISS Country 99.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKISFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wkisfmaac-imc"
         },
         {
             name: "Y100",
@@ -22239,17 +22279,17 @@ var stations_c2c = {
         {
             name: "101.5 Lite FM",
             logo: "stations/images-america/c2c/miami_fl/101.5 Lite FM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLYFFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wlyffmaac-imc"
         },
         {
             name: "Today's Life 101.5-HD2",
             logo: "stations/images-america/c2c/miami_fl/Today's Life 101.5-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLYFHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wlyfhd2aac-imc"
         },
         {
             name: "102.7 The Beach",
             logo: "stations/images-america/c2c/miami_fl/102.7 The Beach.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMXJFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmxjfmaac-imc"
         },
         {
             name: "103.5 The Beat",
@@ -22264,7 +22304,7 @@ var stations_c2c = {
         {
             name: "104.3 The Shark",
             logo: "stations/images-america/c2c/miami_fl/104.3 The Shark.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WSFSFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wsfsfmaac-imc"
         },
         {
             name: "The Bull 104.7",
@@ -22304,7 +22344,7 @@ var stations_c2c = {
         {
             name: "560 WQAM",
             logo: "stations/images-america/c2c/miami_fl/560 WQAM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WQAMAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wqamamaac-imc"
         },
         {
             name: "610 WIOD",
@@ -22317,9 +22357,9 @@ var stations_c2c = {
             url: "https://stream.zeno.fm/qwktq4t5n0quv"
         },
         {
-            name: "790 The Ticket",
-            logo: "stations/images-america/c2c/miami_fl/790 The Ticket.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WAXYAMAAC_SC"
+            name: "Radio Libre 790",
+            logo: "stations/images-america/c2c/miami_fl/Radio Libre 790.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-waxyamaac-imc"
         },
         {
             name: "BIN 880",
@@ -23259,6 +23299,11 @@ var stations_c2c = {
             name: "1250 WHNZ",
             logo: "stations/images-america/c2c/tampa_fl/1250 WHNZ.png",
             url: "https://stream.revma.ihrhls.com/zc685/hls.m3u8"
+        },
+        {
+            name: "NOAA Weather Radio Tampa",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/KHB32.mp3"
         },
     ],
     "albany_ga": [
@@ -24374,6 +24419,11 @@ var stations_c2c = {
             name: "CBS 1500",
             logo: "stations/images-america/c2c/honolulu_hi/CBS 1500.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKAAM_SC"
+        },
+        {
+            name: "NOAA Weather Radio Maui",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WWG75.mp3"
         },
     ],	 	  
     "kilua_kona": [
@@ -26594,6 +26644,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/topeka_ks/1490 KTOP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPAMAAC_SC"
         },
+        {
+            name: "NOAA Weather Radio Topeka",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxradio.org/KS-Topeka-WXK91"
+        },
     ],
     "wichita": [
         {
@@ -27798,12 +27853,12 @@ var stations_c2c = {
         {
             name: "The Bet 92.9",
             logo: "stations/images-america/c2c/new_orleans_la/The Bet 92.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWWLAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wwwlamaac-imc"
         },
         {
             name: "HOT 92.9-HD2",
             logo: "stations/images-america/c2c/new_orleans_la/HOT 92.9-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLMGHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wlmghd2aac-imc"
         },
         {
             name: "Q93",
@@ -27828,7 +27883,7 @@ var stations_c2c = {
         {
             name: "Bayou 95.7",
             logo: "stations/images-america/c2c/new_orleans_la/Bayou 95.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WKBUFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wkbufmaac-imc"
         },
         {
             name: "Metal Militia 95.7-HD2",
@@ -27843,7 +27898,7 @@ var stations_c2c = {
         {
             name: "B97",
             logo: "stations/images-america/c2c/new_orleans_la/B97.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WEZBFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wezbfmaac-imc"
         },
         {
             name: "Channel Q 97.1-HD2",
@@ -27888,7 +27943,7 @@ var stations_c2c = {
         {
             name: "Magic 101.9",
             logo: "stations/images-america/c2c/new_orleans_la/Magic 101.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLMGFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wlmgfmaac-imc"
         },
         {
             name: "102.3 WHIV",
@@ -27913,12 +27968,12 @@ var stations_c2c = {
         {
             name: "WWL 105.3",
             logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWLAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wwlamaac-imc"
         },
         {
             name: "WWL 105.3-HD2",
             logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWLHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wwlhd2aac-imc"
         },
         {
             name: "Tropical 105.7",
@@ -29892,6 +29947,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/bemidji_mn/Talk Radio 106.3.png",
             url: "http://kkbjam.com:8001/kkbjam.mp3"
         },
+        {
+            name: "NOAA Weather Radio Bemidji",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXM99_2.mp3"
+        },
     ],
     "duluth": [
         {
@@ -30124,17 +30184,17 @@ var stations_c2c = {
         {
             name: "102.9 The Wolf",
             logo: "stations/images-america/c2c/minneapolis_mn/102.9 The Wolf.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMNBFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-kmnbfmaac-imc"
         },
         {
             name: "104.1 Jack FM",
             logo: "stations/images-america/c2c/minneapolis_mn/104.1 Jack FM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KZJKFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-kzjkfmaac-imc"
         },
         {
             name: "Lite FM 104.1-HD2",
             logo: "stations/images-america/c2c/minneapolis_mn/Lite FM 104.1-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KZJKHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-kzjkhd2aac-imc"
         },
         {
             name: "Radio K 104.5",
@@ -30172,9 +30232,9 @@ var stations_c2c = {
             url: "http://ice41.securenetsystems.net/WDGY"
         },
         {
-            name: "News Talk 830",
-            logo: "stations/images-america/c2c/minneapolis_mn/News Talk 830.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCCOAMAAC_SC"
+            name: "830 WCCO",
+            logo: "stations/images-america/c2c/minneapolis_mn/830 WCCO.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wccoamaac-imc"
         },
         {
             name: "AM 950",
@@ -32522,6 +32582,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/albany_ny/107.7 WGNA.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wgnafmaac-ibc3"
         },
+        {
+            name: "NOAA Weather Radio Albany",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxradio.org/NY-Albany-WXL34"
+        },
     ],
     "binghamton": [
         {
@@ -32756,6 +32821,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/buffalo_ny/The Bet 1520.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-wwkbamaac-imc"
         },
+        {
+            name: "NOAA Weather Radio Buffalo",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/KEB98.mp3"
+        },
     ],
     "elmira": [
         {
@@ -32898,12 +32968,12 @@ var stations_c2c = {
         {
             name: "ALT 92.3",
             logo: "stations/images-america/c2c/nyc/ALT 92.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wnylfmaac-imc"
         },
         {
             name: "New Arrivals 92.3-HD2",
             logo: "stations/images-america/c2c/nyc/New Arrivals 92.3-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wnylhd2aac-imc"
         },
         {
             name: "Channel Q 92.3-HD3",
@@ -32928,12 +32998,12 @@ var stations_c2c = {
         {
             name: "94.7 The Block",
             logo: "stations/images-america/c2c/nyc/94.7 The Block.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wxbkfmaac-imc"
         },
         {
             name: "New York's Country 94.7-HD2",
             logo: "stations/images-america/c2c/nyc/New York's Country 94.7-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXBKHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wxbkhd2aac-imc"
         },
         {
             name: "K-LOVE 95.5",
@@ -32993,12 +33063,12 @@ var stations_c2c = {
         {
             name: "WCBS FM 101.1",
             logo: "stations/images-america/c2c/nyc/WCBS FM 101.1.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wcbsfmaac_SC"
         },
         {
             name: "WCBS 101.1-HD2",
             logo: "stations/images-america/c2c/nyc/WCBS 880.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC.aac"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wcbsamaac-imc"
         },
         {
             name: "True Oldies Channel 101.1-HD3",
@@ -33008,7 +33078,7 @@ var stations_c2c = {
         {
             name: "WFAN 101.9",
             logo: "stations/images-america/c2c/nyc/WFAN 101.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WFANAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wfanamaac-imc"
         },
         {
             name: "CBS Sports Radio 101.9-HD2",
@@ -33018,12 +33088,12 @@ var stations_c2c = {
         {
             name: "NEW 102.7",
             logo: "stations/images-america/c2c/nyc/New 102.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wnewfmaac-imc"
         },
         {
             name: "Smooth Jazz 102.7-HD2",
             logo: "stations/images-america/c2c/nyc/Smooth Jazz 102.7-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNEWHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wnewhd2aac-imc"
         },
         {
             name: "KTU 103.5",
@@ -33086,6 +33156,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC_SC"
         },
         {
+            name: "WFAN 660",
+            logo: "stations/images-america/c2c/nyc/WFAN 101.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wfanamaac-imc"
+        },
+        {
             name: "710 WOR",
             logo: "stations/images-america/c2c/nyc/710 WOR.png",
             url: "https://stream.revma.ihrhls.com/zc5874/hls.m3u8"
@@ -33103,12 +33178,12 @@ var stations_c2c = {
         {
             name: "WCBS 880",
             logo: "stations/images-america/c2c/nyc/WCBS 880.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WCBSAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wcbsamaac-imc"
         },
         {
             name: "1010 WINS",
             logo: "stations/images-america/c2c/nyc/1010 WINS.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WINSAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-winsamaac-imc"
         },
         {
             name: "BIN 1600",
@@ -33468,6 +33543,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/rochester_ny/Fox Sports 1280.png",
             url: "https://stream.revma.ihrhls.com/zc1509/hls.m3u8"
         },
+        {
+            name: "NOAA Weather Radio Rochester",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/KHA53.mp3"
+        },
     ],
     "syracuse": [
         {
@@ -33569,6 +33649,11 @@ var stations_c2c = {
             name: "Power 620",
             logo: "stations/images-america/c2c/syracuse_ny/Power 620.png",
             url: "https://stream.revma.ihrhls.com/zc1533/hls.m3u8"
+        },
+        {
+            name: "NOAA Weather Radio Syracuse",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXL31_2.mp3"
         },
     ],
     "utica_ny": [
@@ -34547,6 +34632,11 @@ var stations_c2c = {
             name: "Super Talk 1270",
             logo: "stations/images-america/c2c/bismarck_nd/Super Talk 1270.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klxxamaac-ibc3"
+        },
+        {
+            name: "NOAA Weather Radio Bismarck",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxradio.org/ND-Bismarck-WLX78"
         },
     ],
     "dickinson_nd": [
@@ -36249,6 +36339,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/oklahoma_city_ok/1560 The Franchise 2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC_SC"
         },
+        {
+            name: "NOAA Weather Radio OKC",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://radio.weatherusa.net/NWR/WXK85.mp3"
+        },
     ],
     "tulsa": [
         {
@@ -36425,6 +36520,11 @@ var stations_c2c = {
             name: "1430 The Buzz",
             logo: "stations/images-america/c2c/tulsa_ok/1430 The Buzz.png",
             url: "https://stream.revma.ihrhls.com/zc1941/hls.m3u8"
+        },
+        {
+            name: "NOAA Weather Radio Tulsa",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxradio.org/OK-Tulsa-KIH27"
         },
     ],
     "woodward_ok": [
@@ -37929,7 +38029,7 @@ var stations_c2c = {
         {
             name: "93.7 Frank FM",
             logo: "stations/images-america/c2c/florence_sc/93.7 Frank FM.png",
-            url: "https://cb.streamguys1.com/wsim-hd3.aac"
+            url: "https://cb.streamguys1.com/wsim.aac"
         },
         {
             name: "Magic 94.3",
@@ -37944,7 +38044,7 @@ var stations_c2c = {
         {
             name: "Star 97.1",
             logo: "stations/images-america/c2c/florence_sc/Star 97.1.png",
-            url: "https://cb.streamguys1.com/wsim.aac"
+            url: "https://cb.streamguys1.com/wsim-hd3.aac"
         },
         {
             name: "Rock 97.9",
@@ -39180,12 +39280,12 @@ var stations_c2c = {
         {
             name: "92.9 ESPN",
             logo: "stations/images-america/c2c/memphis_tn/92.9 ESPN.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMFSFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmfsfmaac-imc"
         },
         {
             name: "94.1 The Wolf",
             logo: "stations/images-america/c2c/memphis_tn/94.1 The Wolf.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WLFPFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wlfpfmaac-imc"
         },
         {
             name: "95.7 Hallelujah FM",
@@ -39240,7 +39340,7 @@ var stations_c2c = {
         {
             name: "FM 100",
             logo: "stations/images-america/c2c/memphis_tn/FM 100.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMCFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmcfmaac-imc"
         },
         {
             name: "100.3 WVZM",
@@ -39280,7 +39380,7 @@ var stations_c2c = {
         {
             name: "104.5 The River",
             logo: "stations/images-america/c2c/memphis_tn/104.5 The River.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRVRFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wrvrfmaac-imc"
         },
         {
             name: "KIX 106",
@@ -39315,7 +39415,7 @@ var stations_c2c = {
         {
             name: "The Bet 790",
             logo: "stations/images-america/c2c/memphis_tn/The Bet 790.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/BETQLNETWORK_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-betqlnetworkaac-imc"
         },
         {
             name: "1070 WDIA",
@@ -39837,17 +39937,17 @@ var stations_c2c = {
         {
             name: "94.9 The Point",
             logo: "stations/images-america/c2c/norfolk_va/94.9 The Point.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPTEFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wptefmaac-imc"
         },
         {
             name: "K94 94.9-HD2",
             logo: "stations/images-america/c2c/norfolk_va/K94 94.9-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WPTEHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wptehd2aac-imc"
         },
         {
             name: "95.7 R&B",
             logo: "stations/images-america/c2c/norfolk_va/95.7 R&B.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WVKLFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wvklfmaac-imc"
         },
         {
             name: "KOOL 95.7-HD2",
@@ -39890,14 +39990,14 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVBW_FMAAC_SC"
         },
         {
-            name: "The Vet 101.3-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/The Vet 101.3-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWDEHD2AAC_SC"
-        },
-        {
             name: "2WD 101.3",
             logo: "stations/images-america/c2c/norfolk_va/2WD 101.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWDEFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wwdefmaac-imc"
+        },
+        {
+            name: "The Vet 101.3-HD2",
+            logo: "stations/images-america/c2c/norfolk_va/The Vet 101.3-HD2.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wwdehd2aac-imc"
         },
         {
             name: "103 JAMZ",
@@ -39917,7 +40017,7 @@ var stations_c2c = {
         {
             name: "Z104",
             logo: "stations/images-america/c2c/norfolk_va/Z104.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNVZFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wnvzfmaac-imc"
         },
         {
             name: "Channel Q 104.5-HD2",
@@ -40729,7 +40829,7 @@ var stations_c2c = {
         {
             name: "94.9 WOLX",
             logo: "stations/images-america/c2c/madison_wi/94.9 WOLX.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WOLXFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wolxfmaac-imc"
         },
         {
             name: "WWMV-LP 95.5",
@@ -40789,12 +40889,12 @@ var stations_c2c = {
         {
             name: "Mix 105.1",
             logo: "stations/images-america/c2c/madison_wi/Mix 105.1.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMHXFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmhxfmaac-imc"
         },
         {
             name: "105.5 Triple M",
             logo: "stations/images-america/c2c/madison_wi/105.5 Triple M.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMMMFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmmmfmaac-imc"
         },
         {
             name: "Q106",
@@ -40886,7 +40986,7 @@ var stations_c2c = {
         {
             name: "99.1 The Mix",
             logo: "stations/images-america/c2c/milwaukee_wi/99.1 The Mix.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYXFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmyxfmaac-imc"
         },
         {
             name: "MeTV 99.1-HD2",
@@ -40926,12 +41026,12 @@ var stations_c2c = {
         {
             name: "103.7 KISS FM",
             logo: "stations/images-america/c2c/milwaukee_wi/103.7 KISS FM.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSFMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wxssfmaac-imc"
         },
         {
             name: "WXSS 105.7-HD2",
             logo: "stations/images-america/c2c/milwaukee_wi/HOT 105.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSHD2AAC.aac"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wxsshd2aac-imc"
         },
         {
             name: "Channel Q 103.7-HD3",
@@ -40951,7 +41051,7 @@ var stations_c2c = {
         {
             name: "HOT 105.7",
             logo: "stations/images-america/c2c/milwaukee_wi/HOT 105.7.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wxsshd2aac-imc"
         },
         {
             name: "FM106.1",
@@ -40991,7 +41091,7 @@ var stations_c2c = {
         {
             name: "1250 The Fan",
             logo: "stations/images-america/c2c/milwaukee_wi/1250 The Fan.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WSSPAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wsspamaac-imc"
         },
     ],
     "wausau_wi": [
