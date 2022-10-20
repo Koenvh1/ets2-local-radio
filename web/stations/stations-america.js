@@ -3251,7 +3251,12 @@ var stations = {
             name: "Mountain Country 107.3",
             logo: "stations/images-america/colorado_springs_pueblo/Mountain Country 97.7.png",
             url: "https://ice10.securenetsystems.net/KQSC"
-        },
+        },/*
+        {
+            name: "KIX Country 107.5",
+            logo: "stations/images-america/colorado_springs_pueblo/KIX Country 107.5.png",
+            url: "https://ice10.securenetsystems.net/KQSC"
+        },*/
         {
             name: "107.9 KBPI South",
             logo: "stations/images-america/colorado_springs_pueblo/107.9 KBPI South.png",
@@ -34219,7 +34224,7 @@ var stations_c2c = {
         },
         {
             name: "94.3 The Game",
-            logo: "stations/images-america/c2c/greenville_nc/WRHDFM.png",
+            logo: "stations/images-america/c2c/greenville_nc/94.3 The Game.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRHDFMAAC_SC"
         },
         {
@@ -34233,8 +34238,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTIBFMAAC_SC"
         },
         {
-            name: "Hot 99.5",
-            logo: "stations/images-america/c2c/greenville_nc/Hot 99.5.png",
+            name: "99.5 The Wave",
+            logo: "stations/images-america/c2c/greenville_nc/99.5 The Wave.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXNRFMAAC_SC"
         },
         {
