@@ -3003,7 +3003,7 @@ var stations = {
         {
             name: "AM1450 Cow Country",
             logo: "stations/images-america/clovis/AM1450 Cow Country.png",
-            url: "https://rmb.streamguys1.com/ksmx"
+            url: "https://rmb.streamguys1.com/kselam"
         },
     ],
     "college_station": [
