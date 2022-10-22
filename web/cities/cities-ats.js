@@ -27,13 +27,13 @@ var country_properties = {
         name: "Albuquerque",
         name_english: "Albuquerque",
         code: "us-nm",
-        relative_radius: 1.0
+        relative_radius: 1.3
     },
     "amarillo": {
         name: "Amarillo",
         name_english: "Amarillo",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "astoria": {
         name: "Astoria",
@@ -221,6 +221,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.7
     },
+    "clayton": {
+        name: "Clayton",
+        name_english: "Clayton",
+        code: "us-nm",
+        relative_radius: 0.5
+    },
     "clifton": {
         name: "Clifton",
         name_english: "Clifton",
@@ -291,7 +297,7 @@ var country_properties = {
         name: "Dalhart",
         name_english: "Dalhart",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "dateland": {
         name: "Dateland",
@@ -333,7 +339,7 @@ var country_properties = {
         name: "El Paso/Cd. Juárez",
         name_english: "El Paso/Cd. Juárez",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "elko": {
         name: "Elko",
@@ -603,7 +609,7 @@ var country_properties = {
         name: "Las Cruces",
         name_english: "Las Cruces",
         code: "us-nm",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "las_vegas": {
         name: "Las Vegas",
@@ -1005,7 +1011,7 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 1.0
+        relative_radius: 1.3
     },
     "santa_maria": {
         name: "Santa Maria",
@@ -1266,7 +1272,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "albuquerque": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.95
     },
     "amarillo": {
         relative_whitenoise: 0.95
@@ -1377,6 +1383,9 @@ var city_properties = {
     "childress": {
         relative_whitenoise: 0.95
     },
+    "clayton": {
+        relative_whitenoise: 0.95
+    },
     "clifton": {
         relative_whitenoise: 0.85
     },
@@ -1412,7 +1421,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "dalhart": {
-        relative_radius: 0.8,
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "dateland": {
@@ -1464,8 +1473,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "farmington": {
-		relative_radius: 0.8,
-        relative_whitenoise: 0.85
+		relative_radius: 0.9,
+        relative_whitenoise: 0.95
     },
     "flagstaff": {
         relative_whitenoise: 0.85
@@ -1796,7 +1805,7 @@ var city_properties = {
     },
     "santa_fe": {
         relative_radius: 0.7,
-        relative_whitenoise: 0.70
+        relative_whitenoise: 0.80
     },
     "santa_maria": {
         relative_whitenoise: 0.85
@@ -1979,7 +1988,7 @@ var cities = [
         "country": "amarillo",
         "x": "-26709.7",
         "y": "130.223",
-        "z": "21468.3"
+        "z": "20068.3"
     },
     {
         "gameName": "astoria",
@@ -2252,6 +2261,14 @@ var cities = [
         "x": "-19420.1",
         "y": "122.629",
         "z": "24984"
+    },
+    {
+        "gameName": "clayton",
+        "realName": "Clayton",
+        "country": "clayton",
+        "x": "-32846.3",
+        "y": "134.978",
+        "z": "13019.1"
     },
     {
         "gameName": "clifton",

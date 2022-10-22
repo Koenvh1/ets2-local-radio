@@ -1726,12 +1726,12 @@ var stations = {
             name: "KBST 103.9",
             logo: "stations/images-america/texas/big_spring/KBST 103.9.png",
             url: "https://ice23.securenetsystems.net/KBSTAM"
-        },
+        },/*
         {
             name: "105.5 The X",
             logo: "stations/images-america/texas/big_spring/105.5 The X.png",
             url: "http://38.96.175.97:9288/;"
-        },
+        },*/
         {
             name: "Family Life Radio 107.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
@@ -2875,6 +2875,38 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KOLJ"
         },
     ],
+    "clayton": [
+        {
+            name: "KHYM 89.5",
+            logo: "stations/images-america/clayton/KHYM 89.5.png",
+            url: "https://ice41.securenetsystems.net/KHYM"
+        },
+        {
+            name: "Kingdom Keys Radio 90.5",
+            logo: "stations/images-america/texas/dalhart/Kingdom Keys Radio 90.5.png",
+            url: "http://ic2.christiannetcast.com/kjrt-fm"
+        },
+        {
+            name: "GRN 91.7",
+            logo: "stations/images-america/0_general_logos/GRN.png",
+            url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
+        },
+        {
+            name: "KENW 93.5",
+            logo: "stations/images-america/0_general_logos/KENW.png",
+            url: "http://ice10.securenetsystems.net:80/KENWFM"
+        },
+        {
+            name: "97.5 The Bear",
+            logo: "stations/images-america/clayton/97.5 The Bear.png",
+            url: "http://174.127.75.88:8005/live"
+        },
+        {
+            name: "Crossroads Christian Radio 104.5",
+            logo: "stations/images-america/clayton/Crossroads Christian Radio 104.5.png",
+            url: "http://96.31.83.94:8055/live"
+        },
+    ],
     "clifton": [
         {
             name: "Moody Radio 88.7",
@@ -3868,7 +3900,7 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kmvkhd2aac-imc"
         },
         {
-            name: "DALE! 107.5-HD3",
+            name: "¡DALE! 107.5-HD3",
             logo: "stations/images-america/texas/dallas_fort_worth/DALE! 107.5-HD3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kmvkhd3aac-imc"
         },
@@ -4857,7 +4889,7 @@ var stations = {
         },
         {
             name: "TUDN Radio 1650",
-            logo: "stations/images-america/texas/el_paso/TUDN Radio 1650.png",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
             url: "https://live.wostreaming.net/manifest/univision-deportesaac-ibc2"
         },
     ],
@@ -9244,8 +9276,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1_SC"
         },
         {
-            name: "KTTZ 89.1-HD2",
-            logo: "stations/images-america/texas/lubbock/KTTZ 89.1.png",
+            name: "KTTZ Classical 89.1-HD2",
+            logo: "stations/images-america/texas/lubbock/KTTZ Classical 89.1-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD2_SC"
         },
         {
@@ -9392,11 +9424,6 @@ var stations = {
             name: "104.9 The Beat",
             logo: "stations/images-america/texas/lubbock/104.9 The Beat.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kbtefmaac-ibc4"
-        },
-        {
-            name: "Radio Vida 105.3",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
         },
         {
             name: "Red Dirt Rebel 105.7",
@@ -9663,7 +9690,7 @@ var stations = {
         },
         {
             name: "TUDN Radio 96.1-HD2",
-            logo: "stations/images-america/texas/mcallen_brownsville/TUDN Radio 96.1-HD2.png",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
             url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
@@ -21533,6 +21560,11 @@ var stations_c2c = {
             name: "98.7 The Gater",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/98.7 The Gater.png",
             url: "https://stream.revma.ihrhls.com/zc709/hls.m3u8"
+        },
+        {
+            name: "98.7 WKGR-HD2",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/1230 The Gambler.png",
+            url: "http://stream.revma.ihrhls.com/zc701/hls.m3u8"
         },
         {
             name: "Legends 100.3",
