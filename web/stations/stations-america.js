@@ -3000,6 +3000,11 @@ var stations = {
             logo: "stations/images-america/texas/amarillo/97.5 KGNC.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kgncamaac-ibc4"
         },
+        {
+            name: "AM1450 Cow Country",
+            logo: "stations/images-america/clovis/AM1450 Cow Country.png",
+            url: "https://rmb.streamguys1.com/ksmx"
+        },
     ],
     "college_station": [
         {
