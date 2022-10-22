@@ -3148,16 +3148,26 @@ var stations = {
             url: "http://195.13.200.164:8000/;"
         },
     ],
-    "lebanon": [
+    "lebanon": [/*
         {
             name: "Radio Liban",
             logo: "stations/images-europe/lebanon/Radio Liban.png",
-            url: "http://162.244.80.118:3160/;stream.mp3"
+            url: "https://edge.mixlr.com/channel/qtqeb"
+        },*/
+        {
+            name: "Al Bachaer",
+            logo: "stations/images-europe/lebanon/Al Bachaer.png",
+            url: "https://l3.itworkscdn.net/itwaudio/9014/stream"
         },
         {
-            name: "Sawt El Ghad",
-            logo: "stations/images-europe/lebanon/Sawt El Ghad.png",
-            url: "https://edge.mixlr.com/channel/llhwd"
+            name: "Al Nour",
+            logo: "stations/images-europe/lebanon/Al Nour.png",
+            url: "https://l3.itworkscdn.net/itwaudio/9066/stream"
+        },
+        {
+            name: "Charity Radio",
+            logo: "stations/images-europe/lebanon/Charity Radio.png",
+            url: "http://cast5.servcast.net:9990/stream"
         },/*
         {
             name: "صوت الحرية",
@@ -3168,12 +3178,12 @@ var stations = {
             name: "Fame FM",
             logo: "stations/images-europe/lebanon/Fame FM.png",
             url: "http://stream.famefm.com:8200/fame.mp3"
-        },
+        },/*
         {
             name: "Radio MBS",
             logo: "stations/images-europe/lebanon/Radio MBS.png",
             url: "https://usa9.fastcast4u.com/proxy/mbs?mp=/1"
-        },
+        },*/
         {
             name: "NRJ",
             logo: "stations/images-europe/lebanon/NRJ.png",
@@ -3185,14 +3195,29 @@ var stations = {
             url: "http://radiodelta.fm/mp3"
         },
         {
+            name: "Radio Strike",
+            logo: "stations/images-europe/lebanon/Radio Strike.png",
+            url: "https://stream.zeno.fm/zbm72tcd2d0uv"
+        },
+        {
+            name: "RFI Moyen Orient",
+            logo: "stations/images-europe/lebanon/RFI Moyen Orient.png",
+            url: "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3"
+        },
+        {
             name: "RLL",
             logo: "stations/images-europe/lebanon/RLL.png",
-            url: "http://listen2.mixlr.com/ffdcedd7777d49fa8d89349d9bf3e533"
+            url: "https://edge.mixlr.com/channel/qtqeb"
         },
         {
             name: "صـوت لبنــان",
             logo: "stations/images-europe/lebanon/صـوت لبنــان.png",
             url: "http://209.15.226.17:9054/stream"
+        },
+        {
+            name: "Sawt El Ghad",
+            logo: "stations/images-europe/lebanon/Sawt El Ghad.png",
+            url: "https://l3.itworkscdn.net/itwaudio/9030/stream"
         },
         {
             name: "Sawt El Shaeb",
@@ -4377,25 +4402,10 @@ var stations = {
             url: "https://listen-pureradio.sharp-stream.com/pure_radio.mp3"
         },/*
         {
-            name: "Scottish Sun 80s",
-            logo: "stations/images-europe/scotland/Scottish Sun 80s.png",
-            url: "https://gbradio.cdn.tibus.net/80SSUN"
-        },
-        {
-            name: "Scottish Sun Chilled",
-            logo: "stations/images-europe/scotland/Scottish Sun Chilled.png",
-            url: "https://gbradio.cdn.tibus.net/SUNGRTHITS"
-        },
-        {
-            name: "Scottish Sun Hits",
-            logo: "stations/images-europe/scotland/Scottish Sun Hits.png",
-            url: "https://gbradio.cdn.tibus.net/SUNHITS"
-        },*/
-        {
             name: "Virgin Radio Groove",
             logo: "stations/images-europe/scotland/Virgin Radio Groove.png",
             url: "https://radio.virginradio.co.uk/stream-groove"
-        },
+        },*/
     ],
     "serbia": [
         {
