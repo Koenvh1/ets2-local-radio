@@ -621,9 +621,9 @@ var stations = {
             url: "https://ic2.sslstream.com/kacv-fm"
         },
         {
-            name: "afr Talk 90.7",
+            name: "afr Hybrid 90.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+            url: "https://mediaserver3.afa.net/inspo.mp3"
         },
         {
             name: "The One 91.1",
@@ -1087,6 +1087,11 @@ var stations = {
             name: "OPB 88.9",
             logo: "stations/images-america/0_general_logos/OPB.png",
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
+        },
+        {
+            name: "afr Talk 90.7",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
         },
         {
             name: "KESY 91.1",
@@ -1698,9 +1703,9 @@ var stations = {
             url: "https://stream.freedomradiofm.com/rbga.aac"
         },
         {
-            name: "afr Talk 91.5",
+            name: "afr Hybrid 91.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+            url: "https://mediaserver3.afa.net/inspo.mp3"
         },
         {
             name: "94.3 The Fuse",
@@ -6445,6 +6450,11 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
+            name: "afr Talk 91.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
             name: "KOOL 92.9",
             logo: "stations/images-america/greatfalls/KOOL 92.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klfmfmaac-ibc3"
@@ -10067,9 +10077,9 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "afr Talk 89.5",
+            name: "afr Hybrid 89.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+            url: "https://mediaserver3.afa.net/inspo.mp3"
         },
         {
             name: "KTPR 89.9",
@@ -10458,6 +10468,11 @@ var stations = {
             name: "Fuego 98.9",
             logo: "stations/images-america/modesto/Fuego 98.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHHMFMAAC_SC"
+        },
+        {
+            name: "99.3 KJOY",
+            logo: "stations/images-america/modesto/99.3 KJOY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJOYFMAAC_SC"
         },
         {
             name: "Mega 100",
@@ -11992,6 +12007,11 @@ var stations = {
             name: "Radio Bilingüe 88.9",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "afr Talk 90.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
         },
         {
             name: "KRCC 91.7",
@@ -15287,6 +15307,11 @@ var stations = {
         },
     ],
     "show_low": [
+        {
+            name: "afr Talk 90.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
         {
             name: "KNAU 90.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
@@ -34370,8 +34395,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIKSFMAAC_SC"
         },
         {
-            name: "V103.3",
-            logo: "stations/images-america/c2c/greenville_nc/V103.3.png",
+            name: "Magic 103.3",
+            logo: "stations/images-america/c2c/greenville_nc/Magic 103.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGVFMAAC_SC"
         },
         {
