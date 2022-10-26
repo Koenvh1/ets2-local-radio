@@ -387,7 +387,7 @@ var country_properties = {
         name: "Flagstaff",
         name_english: "Flagstaff",
         code: "us-az",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "fort_collins": {
         name: "Fort Collins",
@@ -1477,7 +1477,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "flagstaff": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "freedom": {
         relative_whitenoise: 0.85
@@ -1708,7 +1708,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "phoenix": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.95
     },
     "pioche": {
         relative_whitenoise: 0.85
@@ -2396,7 +2396,7 @@ var cities = [
         "country": "flagstaff",
         "x": "-72334.6",
         "y": "132.778",
-        "z": "15275.2"
+        "z": "16275.2"
     },
     {
         "gameName": "freedom",

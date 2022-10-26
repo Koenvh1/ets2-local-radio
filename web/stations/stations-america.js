@@ -32176,6 +32176,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFGEFMAAC_SC"
         },
         {
+            name: "99.3 KLIN",
+            logo: "stations/images-america/c2c/lincoln_ne/99.3 KLIN.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLINAMAAC_SC"
+        },
+        {
             name: "Ol' Red 99.5",
             logo: "stations/images-america/c2c/lincoln_ne/Ol' Red 99.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUTTFMAAC_SC"
@@ -32424,6 +32429,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KQKQFMAAC_SC"
         },
         {
+            name: "La Nueva 99.5",
+            logo: "stations/images-america/c2c/omaha_ne/La Nueva 99.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMMQAMAAC_SC"
+        },
+        {
             name: "99.9 KGOR",
             logo: "stations/images-america/c2c/omaha_ne/99.9 KGOR.png",
             url: "https://stream.revma.ihrhls.com/zc3344/hls.m3u8"
@@ -32472,6 +32482,16 @@ var stations_c2c = {
             name: "1110 KFAB",
             logo: "stations/images-america/c2c/omaha_ne/1110 KFAB.png",
             url: "https://stream.revma.ihrhls.com/zc1325/hls.m3u8"
+        },
+        {
+            name: "1290 KOIL",
+            logo: "stations/images-america/c2c/omaha_ne/1290 KOIL.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOILAMAAC_SC"
+        },
+        {
+            name: "1620 The Zone",
+            logo: "stations/images-america/c2c/omaha_ne/1620 The Zone.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
         },
     ],
     "manchester_nh": [
