@@ -4216,6 +4216,73 @@ var stations = {
             url: "http://212.83.135.226:9314/;"
         },
     ],
+    "delta": [
+        {
+            name: "KUER 88.1",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "http://audio.KUER.org:8000/high"
+        },
+        {
+            name: "UPR 89.5",
+            logo: "stations/images-america/0_general_logos/UPR.png",
+            url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "CSN Radio 90.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "94.5 The Eagle",
+            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            url: "https://ice10.securenetsystems.net/KLGL"
+        },
+        {
+            name: "95.7 The Boss",
+            logo: "stations/images-america/salina/95.7 The Boss.png",
+            url: "https://ice42.securenetsystems.net/KUTC"
+        },
+        {
+            name: "97.7 The Wolf",
+            logo: "stations/images-america/salina/97.7 The Wolf.png",
+            url: "https://ice9.securenetsystems.net/KWUT"
+        },
+        {
+            name: "KSVC 100.5",
+            logo: "stations/images-america/salina/KSVC 100.5.png",
+            url: "http://ice9.securenetsystems.net/KSVC"
+        },
+        {
+            name: "K271DB 102.1",
+            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            url: "http://ice10.securenetsystems.net/KLGL"
+        },
+        {
+            name: "KYAH 540",
+            logo: "stations/images-america/salina/KYAH 540.png",
+            url: "https://stream.zeno.fm/2g7q70k6n0quv"
+        },
+        {
+            name: "KMTI 650",
+            logo: "stations/images-america/salina/KMTI 95.1.png",
+            url: "https://ice10.securenetsystems.net/KMTI"
+        },
+        {
+            name: "ESPN 700",
+            logo: "stations/images-america/salt_lake/ESPN 700.png",
+            url: "https://ais-sa1.streamon.fm/7349_48k.aac"
+        },
+        {
+            name: "The Truth 820",
+            logo: "stations/images-america/salt_lake/The Truth 820.png",
+            url: "https://stream.falconinternet.net:9018/;"
+        },
+        {
+            name: "KSVC 980",
+            logo: "stations/images-america/salina/KSVC 100.5.png",
+            url: "https://ice9.securenetsystems.net/KSVC"
+        },
+    ],
     "denver": [
         {
             name: "CPR Classical 88.1",
@@ -15000,6 +15067,11 @@ var stations = {
             name: "98.9 The Bull",
             logo: "stations/images-america/seattle/98.9 The Bull.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUCFMAAC_SC"
+        },
+        {
+            name: "VSiN 98.9-HD2",
+            logo: "stations/images-america/0_general_logos/VSiN.png",
+            url: "https://vsin-sgrewind.streamguys1.com/sgrewind/live/playlist.m3u8"
         },
         {
             name: "La GranD 99.3",
@@ -27064,7 +27136,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 94.5",
-            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5.png",
+            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3552/hls.m3u8"
         },
         {
@@ -35301,7 +35373,7 @@ var stations_c2c = {
         },
         {
             name: "STAR 93.3",
-            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3.png",
+            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3_christmas.png",
             url: "https://pillar2.streamguys1.com/live"
         },
         {

@@ -305,6 +305,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.5
     },
+    "delta": {
+        name: "Delta",
+        name_english: "Delta",
+        code: "us-ut",
+        relative_radius: 0.5
+    },
     "del_rio": {
         name: "Del Rio/Cd. Acuña",
         name_english: "Del Rio/Cd. Acuña",
@@ -1430,6 +1436,9 @@ var city_properties = {
     "del_rio": {
         relative_whitenoise: 0.95
     },
+    "delta": {
+        relative_whitenoise: 0.95
+    },
     "denver": {
         relative_whitenoise: 0.85
     },
@@ -1776,7 +1785,7 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "salina": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "salmon": {
         relative_whitenoise: 0.85
@@ -3717,6 +3726,14 @@ var cities = [
         "x": "-23954",
         "y": "71.6925",
         "z": "53880"
+    },
+    {
+        "gameName": "delta",
+        "realName": "Delta",
+        "country": "delta",
+        "x": "-72506.8",
+        "y": "76.3678",
+        "z": "-9067.3"
     },
     {
         "gameName": "denver",
