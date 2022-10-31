@@ -12631,8 +12631,8 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KTAK"
         },
         {
-            name: "97.5 KDLY",
-            logo: "stations/images-america/riverton/97.5 KDLY.png",
+            name: "97.5 The Brand",
+            logo: "stations/images-america/riverton/97.5 The Brand.png",
             url: "https://ice23.securenetsystems.net/KDLY"
         },
         {
@@ -12654,6 +12654,11 @@ var stations = {
             name: "105.1 Jack FM",
             logo: "stations/images-america/riverton/105.1 Jack FM.png",
             url: "https://ice8.securenetsystems.net/KTUG"
+        },
+        {
+            name: "KOVE 107.7",
+            logo: "stations/images-america/riverton/KOVE 1330.png",
+            url: "http://ice23.securenetsystems.net/KOVE"
         },
         {
             name: "KOVE 1330",
@@ -28266,7 +28271,7 @@ var stations_c2c = {
         },
         {
             name: "Lite Rock 100.7",
-            logo: "stations/images-america/c2c/shreveport_la/Lite Rock 100.7.png",
+            logo: "stations/images-america/c2c/shreveport_la/Lite Rock 100.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDAMAAC_SC"
         },
         {

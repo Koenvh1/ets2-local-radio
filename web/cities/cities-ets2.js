@@ -461,6 +461,12 @@ var country_properties = {
         code: "rs",
         relative_radius: 0.7,
     },
+    "shetland": {
+        name: "Shetland",
+        name_english: "Shetland Islands",
+        code: "gb-zet",
+        relative_radius: 1.0,
+    },
     "slovakia": {
         name: "Slovensko",
         name_english: "Slovakia",
@@ -894,6 +900,9 @@ var city_properties = {
     },
     "lazarevskoe": {
         relative_radius: 0.25,
+    },
+    "lerwick": {
+        relative_radius: 0.5,
     },
     "liege": {
         relative_radius: 1.2,
@@ -6510,6 +6519,14 @@ var cities_srm = [
         "x": "120313",
         "y": "97.6914",
         "z": "24516.4"
+    },
+    {
+        "gameName": "lerwick",
+        "realName": "Lerwick",
+        "country": "shetland",
+        "x": "-30362.5",
+        "y": "67.8079",
+        "z": "-75524.9"
     },
     {
         "gameName": "mamedovashel",

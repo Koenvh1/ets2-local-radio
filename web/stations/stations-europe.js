@@ -1007,37 +1007,37 @@ var stations = {
         {
             name: "DR P1",
             logo: "stations/images-europe/denmark/DR P1.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8"
+            url: "http://live-icy.gslb01.dr.dk/A/A03H.mp3"
         },
         {
             name: "DR P2",
             logo: "stations/images-europe/denmark/DR P2.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p2/masterab.m3u8"
+            url: "http://live-icy.gss.dr.dk/A/A04L.mp3"
         },
         {
             name: "DR P3",
             logo: "stations/images-europe/denmark/DR P3.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p3/masterab.m3u8"
+            url: "http://live-icy.gss.dr.dk/A/A05L.mp3"
         },
         {
             name: "DR P4",
             logo: "stations/images-europe/denmark/DR P4.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p4kobenhavn/masterab.m3u8"
+            url: "http://live-icy.gss.dr.dk/A/A08L.mp3"
         },
         {
             name: "DR P5",
             logo: "stations/images-europe/denmark/DR P5.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p5kobenhavn/masterab.m3u8"
+            url: "http://live-icy.gss.dr.dk/A/A25L.mp3"
         },
         {
             name: "DR P6",
             logo: "stations/images-europe/denmark/DR P6.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p6beat/masterab.m3u8"
+            url: "http://live-icy.gss.dr.dk/A/A29H.mp3"
         },
         {
             name: "DR P8",
             logo: "stations/images-europe/denmark/DR P8.png",
-            url: "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/masterab.m3u8"
+            url: "http://live-icy.gss.dr.dk/A/A22H.mp3"
         },
         {
             name: "Classic FM",
@@ -4477,6 +4477,43 @@ var stations = {
             name: "TDI Radio",
             logo: "stations/images-europe/serbia/TDI Radio.png",
             url: "https://streaming.tdiradio.com/tdiradio.mp3"
+        },
+    ],
+    "shetland": [
+        {
+            name: "BBC Radio 1",
+            logo: "stations/images-europe/uk/BBC Radio 1.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one"
+        },
+        {
+            name: "BBC Radio 2",
+            logo: "stations/images-europe/uk/BBC Radio 2.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two"
+        },
+        {
+            name: "BBC Radio 3",
+            logo: "stations/images-europe/uk/BBC Radio 3.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three"
+        },
+        {
+            name: "BBC Radio Shetland",
+            logo: "stations/images-europe/shetland/BBC Radio Shetland.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw"
+        },
+        {
+            name: "BBC Radio 4",
+            logo: "stations/images-europe/uk/BBC Radio 4.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm"
+        },
+        {
+            name: "60 North Radio",
+            logo: "stations/images-europe/shetland/60 North Radio.png",
+            url: "https://cdn1.zetcast.net/stream"
+        },
+        {
+            name: "SIBC",
+            logo: "stations/images-europe/shetland/SIBC.png",
+            url: "http://tx9.zetcast.net:8100/stream"
         },
     ],
     "slovakia": [
