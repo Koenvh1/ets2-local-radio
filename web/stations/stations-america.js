@@ -11529,11 +11529,6 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kmlefmaac-imc"
         },
         {
-            name: "Leading Ladies 107.9-HD2",
-            logo: "stations/images-america/phoenix/Leading Ladies 107.9-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kmlehd2aac-imc"
-        },
-        {
             name: "The Bet 107.9-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
@@ -24899,7 +24894,7 @@ var stations_c2c = {
         },
         {
             name: "93.9 LITE FM",
-            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM.png",
+            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
         },
         {
