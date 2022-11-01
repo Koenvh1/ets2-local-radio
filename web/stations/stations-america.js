@@ -11435,7 +11435,7 @@ var stations = {
         },
         {
             name: "99.9 KEZ",
-            logo: "stations/images-america/phoenix/99.9 KEZ.png",
+            logo: "stations/images-america/phoenix/99.9 KEZ_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8"
         },
         {
@@ -29738,7 +29738,7 @@ var stations_c2c = {
         },
         {
             name: "100.5 The River",
-            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wtrvfmaac-ibc3"
         },
         {
@@ -33210,14 +33210,14 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-wqbufmaac-ibc1"
         },
         {
-            name: "ALT 92.3",
-            logo: "stations/images-america/c2c/nyc/ALT 92.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wnylfmaac-imc"
+            name: "WINS 92.3",
+            logo: "stations/images-america/c2c/nyc/1010 WINS.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-winsamaac-imc"
         },
         {
-            name: "New Arrivals 92.3-HD2",
-            logo: "stations/images-america/c2c/nyc/New Arrivals 92.3-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wnylhd2aac-imc"
+            name: "ALT 92.3-HD2",
+            logo: "stations/images-america/c2c/nyc/ALT 92.3-HD2.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-winshd2aac-imc"
         },
         {
             name: "Channel Q 92.3-HD3",
@@ -35642,7 +35642,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 95",
-            logo: "stations/images-america/c2c/columbus_oh/Sunny 95.png",
+            logo: "stations/images-america/c2c/columbus_oh/Sunny 95_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/saga-wsnyfmaac-ibc2"
         },
         {
@@ -37051,8 +37051,8 @@ var stations_c2c = {
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
-            name: "nu 92.7",
-            logo: "stations/images-america/c2c/lancaster_pa/nu 92.7.png",
+            name: "Santa 92.7",
+            logo: "stations/images-america/c2c/lancaster_pa/nu 92.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUUFMAAC_SC"
         },
         {
@@ -40948,7 +40948,7 @@ var stations_c2c = {
         },
         {
             name: "KZ 104.3",
-            logo: "stations/images-america/c2c/green_bay_wi/KZ 104.3.png",
+            logo: "stations/images-america/c2c/green_bay_wi/KZ 104.3_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://woodward-radio.streamb.live/SB00131"
         },
         {
