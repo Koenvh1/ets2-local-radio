@@ -29738,7 +29738,7 @@ var stations_c2c = {
         },
         {
             name: "100.5 The River",
-            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River_christmas.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wtrvfmaac-ibc3"
         },
         {
