@@ -27445,7 +27445,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
+            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ais-sa1.streamon.fm/7704_128k.aac"
         },
         {
@@ -36159,8 +36159,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYFMFMAAC_SC"
         },
         {
-            name: "Z104",
-            logo: "stations/images-america/c2c/youngstown_oh/Z104.png",
+            name: "Christmas 104",
+            logo: "stations/images-america/c2c/youngstown_oh/Z104_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWIZFMAAC_SC"
         },
         {
@@ -38476,7 +38476,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 98.9",
-            logo: "stations/images-america/c2c/greenville_sc/Magic 98.9.png",
+            logo: "stations/images-america/c2c/greenville_sc/Magic 98.9_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-wspafmaac-imc"
         },
         {
