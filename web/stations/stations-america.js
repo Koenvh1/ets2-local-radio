@@ -13442,9 +13442,9 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2700_48.aac"
         },
         {
-            name: "103.5 KRSP-HD2",
-            logo: "stations/images-america/salt_lake/103.5 KRSP-HD2.png",
-            url: "https://bonneville.cdnstream1.com/2700_48.aac"
+            name: "103.5-HD2 Deep Tracks",
+            logo: "stations/images-america/salt_lake/103.5-HD2 Deep Tracks.png",
+            url: "https://bonneville.cdnstream1.com/2701_48.aac"
         },
         {
             name: "Z104",
