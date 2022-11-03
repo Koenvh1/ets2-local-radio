@@ -1528,7 +1528,7 @@ var stations = {
         },
         {
             name: "The Peak 104.1",
-            logo: "stations/images-america/bend/The Peak 104.1.png",
+            logo: "stations/images-america/bend/The Peak 104.1_christmas.png",
             url: "https://live.wostreaming.net/direct/horizonbroadcasting-kwpkfmmp3-ibc1"
         },
         {
@@ -3063,8 +3063,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2209/hls.m3u8"
         },
         {
-            name: "KAGC 97.3",
-            logo: "stations/images-america/texas/college_station/KAGC 97.3.png",
+            name: "Christmas 97.3",
+            logo: "stations/images-america/texas/college_station/KAGC 97.3_christmas.png",
             url: "https://ice42.securenetsystems.net/KAGCAM"
         },
         {
@@ -24212,8 +24212,8 @@ var stations_c2c = {
             url: "https://listen.wruu.org/stream"
         },
         {
-            name: "Rewind 107.9",
-            logo: "stations/images-america/c2c/savannah_ga/Rewind 107.9.png",
+            name: "Christmas 107.9",
+            logo: "stations/images-america/c2c/savannah_ga/Rewind 107.9_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WRWNFMAAC_SC"
         },
     ],
@@ -24791,8 +24791,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
-            name: "NOW 100.7",
-            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7.png",
+            name: "Christmas 100.7",
+            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWHXFMAAC_SC"
         },
         {
@@ -27415,7 +27415,7 @@ var stations_c2c = {
         },
         {
             name: "102.3 The Rose",
-            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose.png",
+            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wxmafmaac-ibc2"
         },
         {
@@ -32798,7 +32798,7 @@ var stations_c2c = {
         },
         {
             name: "103.9 The Breeze",
-            logo: "stations/images-america/c2c/albany_ny/103.9 The Breeze.png",
+            logo: "stations/images-america/c2c/albany_ny/103.9 The Breeze_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wpbzfmaac-ibc3"
         },
         {
@@ -33007,7 +33007,7 @@ var stations_c2c = {
         },
         {
             name: "Star 102.5",
-            logo: "stations/images-america/c2c/buffalo_ny/Star 102.5.png",
+            logo: "stations/images-america/c2c/buffalo_ny/Star 102.5_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-wtssfmaac-imc"
         },
         {
@@ -34386,7 +34386,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 99.5",
-            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5.png",
+            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1621/hls.m3u8"
         },
         {
