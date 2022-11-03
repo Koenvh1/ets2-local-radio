@@ -27,7 +27,7 @@ var country_properties = {
         name: "Albuquerque",
         name_english: "Albuquerque",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 0.9
     },
     "amarillo": {
         name: "Amarillo",
@@ -123,7 +123,7 @@ var country_properties = {
         name: "Big Spring",
         name_english: "Big Spring",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "boise": {
         name: "Boise",
@@ -717,7 +717,7 @@ var country_properties = {
         name: "Midland/Odessa",
         name_english: "Midland/Odessa",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "missoula": {
         name: "Missoula",
@@ -801,7 +801,7 @@ var country_properties = {
         name: "Pecos",
         name_english: "Pecos",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "phoenix": {
         name: "Phoenix",
@@ -1017,7 +1017,7 @@ var country_properties = {
         name: "Santa Fe",
         name_english: "Santa Fe",
         code: "us-nm",
-        relative_radius: 1.3
+        relative_radius: 0.9
     },
     "santa_maria": {
         name: "Santa Maria",
@@ -1065,7 +1065,7 @@ var country_properties = {
         name: "Socorro",
         name_english: "Socorro",
         code: "us-nm",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "spokane": {
         name: "Spokane",
@@ -1155,7 +1155,7 @@ var country_properties = {
         name: "Van Horn",
         name_english: "Van Horn",
         code: "us-tx",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "vernal": {
         name: "Vernal",
@@ -1268,14 +1268,11 @@ var city_properties = {
     "abilene": {
         relative_whitenoise: 0.85
     },
-    "afton": {
-        relative_whitenoise: 0.85
-    },
     "alamosa": {
         relative_whitenoise: 0.85
     },
     "alamogordo": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "albuquerque": {
         relative_whitenoise: 0.95
@@ -1371,7 +1368,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "carlsbad_nm": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "carson_city": {
         relative_radius: 0.6,
@@ -1541,7 +1538,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "hobbs": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "houston": {
         relative_whitenoise: 0.95
@@ -1609,7 +1606,7 @@ var city_properties = {
     },
     "las_cruces": {
 		relative_radius: 0.9,
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "las_vegas": {
         relative_whitenoise: 0.80
@@ -1775,7 +1772,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "roswell": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "sacramento": {
         relative_whitenoise: 0.85
@@ -1855,7 +1852,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "socorro": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "spokane": {
         relative_whitenoise: 0.85
@@ -1903,7 +1900,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "van_horn": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "vernal": {
         relative_whitenoise: 0.85
@@ -1987,9 +1984,9 @@ var cities = [
         "gameName": "albuquerque",
         "realName": "Albuquerque",
         "country": "albuquerque",
-        "x": "-48693.2",
+        "x": "-49593.2",
         "y": "126.762",
-        "z": "19234.7"
+        "z": "17534.7"
     },
     {
         "gameName": "amarillo",
@@ -2603,17 +2600,17 @@ var cities = [
         "gameName": "las_cruces",
         "realName": "Las Cruces",
         "country": "las_cruces",
-        "x": "-54015.8",
+        "x": "-54615.8",
         "y": "104.428",
-        "z": "34945.3"
+        "z": "33645.3"
     },
     {
         "gameName": "las_cruces",
         "realName": "Las Cruces",
         "country": "el_paso",
-        "x": "-54015.8",
+        "x": "-54615.8",
         "y": "104.428",
-        "z": "34945.3"
+        "z": "33645.3"
     },
     {
         "gameName": "leevining",
@@ -2979,7 +2976,7 @@ var cities = [
         "gameName": "socorro",
         "realName": "Socorro",
         "country": "socorro",
-        "x": "-50710.1",
+        "x": "-52010.1",
         "y": "105.216",
         "z": "25677.1"
     },
