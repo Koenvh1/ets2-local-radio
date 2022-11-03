@@ -5281,7 +5281,7 @@ var stations = {
         },
         {
             name: "97.5 The Zone",
-            logo: "stations/images-america/salt_lake/KSL Sport Zone.png",
+            logo: "stations/images-america/salt_lake/KSL Sports Zone.png",
             url: "https://bonneville.cdnstream1.com/2707_48.aac"
         },
         {
@@ -13357,8 +13357,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2405/hls.m3u8"
         },
         {
-            name: "97.5 The Zone",
-            logo: "stations/images-america/salt_lake/KSL Sport Zone.png",
+            name: "KSL Sports Zone 97.5",
+            logo: "stations/images-america/salt_lake/KSL Sports Zone.png",
             url: "https://bonneville.cdnstream1.com/2707_48.aac"
         },
         {
