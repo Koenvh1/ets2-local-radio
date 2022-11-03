@@ -4081,7 +4081,7 @@ var stations = {
         {
             name: "ESPN 620",
             logo: "stations/images-america/phoenix/ESPN 620.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2697_48.aac"
         },
         {
             name: "The Drive 830",
@@ -4397,12 +4397,12 @@ var stations = {
         {
             name: "98.5 KYGO",
             logo: "stations/images-america/denver/98.5 KYGO.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYGOFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2710_48.aac"
         },
         {
             name: "98.5 KYGO HD2",
             logo: "stations/images-america/denver/98.5 KYGO HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KYGO_HD2AAC_SC"
+            url: "https://bonneville.cdnstream1.com/2711_48.aac"
         },
         {
             name: "99.5 The Mountain",
@@ -4417,7 +4417,7 @@ var stations = {
         {
             name: "KOSI 101.1",
             logo: "stations/images-america/denver/KOSI 101.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSIFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2709_48.aac"
         },
         {
             name: "Latter-day Saints Channel 101.1-HD2",
@@ -4452,7 +4452,7 @@ var stations = {
         {
             name: "104.3 The Fan",
             logo: "stations/images-america/denver/104.3 The Fan.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKFNFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2612_48.aac"
         },
         {
             name: "The DROP 104.7",
@@ -4542,7 +4542,7 @@ var stations = {
         {
             name: "ESPN Denver 1600",
             logo: "stations/images-america/denver/ESPN Denver 1600.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KEPNAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2708_48.aac"
         },
     ],
     "durango": [
@@ -4703,7 +4703,7 @@ var stations = {
         {
             name: "ESPN 620",
             logo: "stations/images-america/phoenix/ESPN 620.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2697_48.aac"
         },/*
         {
             name: "980 KNTR",
@@ -5004,7 +5004,7 @@ var stations = {
         {
             name: "K237AJ 95.3",
             logo: "stations/images-america/salt_lake/FM100.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
             name: "KELY 1230",
@@ -5281,8 +5281,8 @@ var stations = {
         },
         {
             name: "97.5 The Zone",
-            logo: "stations/images-america/salt_lake/The Zone.png",
-            url: "https://live.wostreaming.net/direct/utahjazz-kznsfmaac-ibc4"
+            logo: "stations/images-america/salt_lake/KSL Sport Zone.png",
+            url: "https://bonneville.cdnstream1.com/2707_48.aac"
         },
         {
             name: "100.7 BOB FM",
@@ -5364,7 +5364,7 @@ var stations = {
         {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK 94.9.png",
-            url: "http://ice41.securenetsystems.net:80/KWYKFM"
+            url: "https://ice41.securenetsystems.net/KWYKFM"
         },
         {
             name: "KPCL 95.7",
@@ -5662,7 +5662,7 @@ var stations = {
         },
         {
             name: "B107.3",
-            logo: "stations/images-america/fort_collins/B107.3.png",
+            logo: "stations/images-america/fort_collins/B107.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6731/hls.m3u8"
         },
         {
@@ -7792,9 +7792,9 @@ var stations = {
             url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
         },
         {
-            name: "99.1 MikeFM",
-            logo: "stations/images-america/texas/kerrville/99.1 MikeFM.png",
-            url: "http://www.ophanim.net:9650/stream"
+            name: "99.1 Mike FM",
+            logo: "stations/images-america/texas/kerrville/99.1 Mike FM.png",
+            url: "https://stream.thecrustychicken.com/proxy/mikefm/stream"
         },
         {
             name: "K-LOVE 99.9",
@@ -8668,7 +8668,7 @@ var stations = {
         },
         {
             name: "Sunny 106.5",
-            logo: "stations/images-america/las_vegas/Sunny 106.5.png",
+            logo: "stations/images-america/las_vegas/Sunny 106.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
         },
         {
@@ -9251,7 +9251,7 @@ var stations = {
         {
             name: "New Arrivals 106.7-HD3",
             logo: "stations/images-america/0_general_logos/New Arrivals.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wqmphd3aac-imc"
         },
         {
             name: "K-LOVE 107.5",
@@ -11341,7 +11341,7 @@ var stations = {
         {
             name: "KTAR 92.3",
             logo: "stations/images-america/phoenix/KTAR 92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTARFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2698_48.aac"
         },
         {
             name: "Latter-day Saints Channel 92.3-HD2",
@@ -11426,7 +11426,7 @@ var stations = {
         {
             name: "Arizona Sports 98.7",
             logo: "stations/images-america/phoenix/Arizona Sports 98.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMVPFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2699_48.aac"
         },
         {
             name: "99.3 The Fanatic",
@@ -11541,7 +11541,7 @@ var stations = {
         {
             name: "ESPN 620",
             logo: "stations/images-america/phoenix/ESPN 620.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KTARAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2697_48.aac"
         },
         {
             name: "FOX Sports 910",
@@ -12009,7 +12009,7 @@ var stations = {
         {
             name: "K288AN 105.5",
             logo: "stations/images-america/salt_lake/FM100.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
             name: "K292AT 106.3",
@@ -12956,7 +12956,7 @@ var stations = {
         {
             name: "MIX 96",
             logo: "stations/images-america/sacramento/Mix 96.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYMXFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2615_48.aac"
         },
         {
             name: "KUBU 96.5",
@@ -12991,7 +12991,12 @@ var stations = {
         {
             name: "NOW 100.5",
             logo: "stations/images-america/sacramento/Now 100.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZZOFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2614_48.aac"
+        },
+        {
+            name: "Pulse 100.5-HD2",
+            logo: "stations/images-america/sacramento/Pulse 100.5-HD2.png",
+            url: "https://bonneville.cdnstream1.com/2613_48.aac"
         },
         {
             name: "V101.1",
@@ -13036,17 +13041,17 @@ var stations = {
         {
             name: "105.1 KNCI",
             logo: "stations/images-america/sacramento/105.1 KNCI.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNCIFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2617_48.aac"
         },
         {
             name: "105.1-HD2 The Wolf",
             logo: "stations/images-america/sacramento/105.1-HD2 The Wolf.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNCIHD2AAC_SC"
+            url: "https://bonneville.cdnstream1.com/2618_48.aac"
         },
         {
             name: "105.1-HD3 The Ranch",
             logo: "stations/images-america/sacramento/105.1-HD3 The Ranch.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KNCIHD3AAC_SC"
+            url: "https://bonneville.cdnstream1.com/2619_48.aac"
         },
         {
             name: "Money 105.5",
@@ -13081,7 +13086,7 @@ var stations = {
         {
             name: "Sactown Sports 1140",
             logo: "stations/images-america/sacramento/Sactown Sports 1140.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHTKAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2616_48.aac"
         },
         {
             name: "ESPN 1320",
@@ -13220,7 +13225,7 @@ var stations = {
         {
             name: "K276AT 103.1",
             logo: "stations/images-america/salt_lake/FM100.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
             name: "K292AQ 106.3",
@@ -13353,8 +13358,8 @@ var stations = {
         },
         {
             name: "97.5 The Zone",
-            logo: "stations/images-america/salt_lake/The Zone.png",
-            url: "https://live.wostreaming.net/direct/utahjazz-kznsfmaac-ibc4"
+            logo: "stations/images-america/salt_lake/KSL Sport Zone.png",
+            url: "https://bonneville.cdnstream1.com/2707_48.aac"
         },
         {
             name: "NOW 97.9",
@@ -13389,18 +13394,13 @@ var stations = {
         {
             name: "FM100.3",
             logo: "stations/images-america/salt_lake/FM100.3.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
             name: "Sunday Sounds 100.3-HD2",
             logo: "stations/images-america/salt_lake/Sunday Sounds 100.3-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIFMHD2AAC_SC"
-        },/*
-        {
-            name: "FM100.3 Christmas 100.3-HD3",
-            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFIHD3AAC_SC"
-        },*/
+            url: "https://bonneville.cdnstream1.com/2703_48.aac"
+        },
         {
             name: "100.7 BOB FM",
             logo: "stations/images-america/salt_lake/100.7 BOB FM.png",
@@ -13424,7 +13424,7 @@ var stations = {
         {
             name: "KSL NewsRadio 102.7",
             logo: "stations/images-america/salt_lake/KSL NewsRadio 102.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2704_48.aac"
         },
         {
             name: "Latter-day Saints Channel 102.7-HD2",
@@ -13439,7 +13439,12 @@ var stations = {
         {
             name: "103.5 The Arrow",
             logo: "stations/images-america/salt_lake/103.5 The Arrow.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRSPFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2700_48.aac"
+        },
+        {
+            name: "103.5 KRSP-HD2",
+            logo: "stations/images-america/salt_lake/103.5 KRSP-HD2.png",
+            url: "https://bonneville.cdnstream1.com/2700_48.aac"
         },
         {
             name: "Z104",
@@ -13527,9 +13532,9 @@ var stations = {
             url: "https://stream.radiojar.com/5sbf1ptsy2quv"
         },
         {
-            name: "1280 The Zone",
-            logo: "stations/images-america/salt_lake/The Zone.png",
-            url: "https://live.wostreaming.net/direct/utahjazz-kznsamaac-ibc4"
+            name: "KSL Sports Zone 1280",
+            logo: "stations/images-america/salt_lake/KSL Sports Zone.png",
+            url: "https://bonneville.cdnstream1.com/2706_48.aac"
         },
         {
             name: "La Mas Picosita 1550",
@@ -14732,12 +14737,17 @@ var stations = {
         {
             name: "96.5 KOIT",
             logo: "stations/images-america/san_francisco/96.5 KOIT.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOITFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2624_48.aac"
         },
         {
-            name: "Highway 1 96.5-HD2",
-            logo: "stations/images-america/san_francisco/Highway 1 96.5-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOIT_HD2AAC_SC"
+            name: "Highway 1 Radio 96.5-HD2",
+            logo: "stations/images-america/san_francisco/Highway 1 Radio 96.5-HD2.png",
+            url: "https://bonneville.cdnstream1.com/2625_48.aac"
+        },
+        {
+            name: "KOIT Christmas 96.5-HD3",
+            logo: "stations/images-america/san_francisco/KOIT Christmas 96.5-HD3.png",
+            url: "https://bonneville.cdnstream1.com/2784_48.aac"
         },
         {
             name: "Alice@97.3",
@@ -14752,7 +14762,7 @@ var stations = {
         {
             name: "98.5 KFOX",
             logo: "stations/images-america/san_francisco/98.5 KFOX.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2620_48.aac"
         },
         {
             name: "Qué Buena 98.9",
@@ -14767,7 +14777,12 @@ var stations = {
         {
             name: "99.7 NOW",
             logo: "stations/images-america/san_francisco/99.7 NOW.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KMVQFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2622_48.aac"
+        },
+        {
+            name: "Pulse 99.7-HD2",
+            logo: "stations/images-america/san_francisco/Pulse 99.7-HD2.png",
+            url: "https://bonneville.cdnstream1.com/2623_48.aac"
         },
         {
             name: "Star 101.3",
@@ -14792,7 +14807,17 @@ var stations = {
         {
             name: "102.9 KBLX",
             logo: "stations/images-america/san_francisco/102.9 KBLX.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBLXFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2621_48.aac"
+        },
+        {
+            name: "Old School 102.9-HD2",
+            logo: "stations/images-america/san_francisco/Old School 102.9-HD2.png",
+            url: "https://bonneville.cdnstream1.com/2744_48.aac"
+        },
+        {
+            name: "Praise 102.9-HD3",
+            logo: "stations/images-america/san_francisco/Praise 102.9-HD3.png",
+            url: "https://bonneville.cdnstream1.com/2775_48.aac"
         },
         {
             name: "Air1 103.3",
@@ -15036,7 +15061,7 @@ var stations = {
         {
             name: "KIRO 97.3",
             logo: "stations/images-america/seattle/KIRO 97.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROFMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2643_48.aac"
         },
         {
             name: "Latter-day Saints Channel 97.3-HD2",
@@ -15186,12 +15211,12 @@ var stations = {
         {
             name: "Seattle Sports 710",
             logo: "stations/images-america/seattle/Seattle Sports 710.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIROAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2642_48.aac"
         },
         {
             name: "770 KTTH",
             logo: "stations/images-america/seattle/770 KTTH.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTTHAMAAC_SC"
+            url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
             name: "BIN 850",
@@ -22927,6 +22952,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
+            name: "New Arrivals 101.9-HD3",
+            logo: "stations/images-america/0_general_logos/New Arrivals.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wqmphd3aac-imc"
+        },
+        {
             name: "FLY 103.1",
             logo: "stations/images-america/c2c/orlando_fl/FLY 103.1.png",
             url: "https://ice66.securenetsystems.net/WOTW"
@@ -28874,7 +28904,7 @@ var stations_c2c = {
         {
             name: "New Arrivals 106.5-HD2",
             logo: "stations/images-america/0_general_logos/New Arrivals.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WNYLHD2AAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wqmphd3aac-imc"
         },
         {
             name: "Channel Q 106.5-HD3",
