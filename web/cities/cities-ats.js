@@ -851,6 +851,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.6
     },
+    "quemado": {
+        name: "Quemado",
+        name_english: "Quemado",
+        code: "us-nm",
+        relative_radius: 0.6
+    },
     "rangely": {
         name: "Rangely",
         name_english: "Rangely",
@@ -1738,6 +1744,9 @@ var city_properties = {
     "presidio": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
+    },
+    "quemado": {
+        relative_whitenoise: 0.95
     },
     "rangely": {
         relative_whitenoise: 0.85
@@ -3443,6 +3452,14 @@ var cities = [
         "x": "-39989.5",
         "y": "38.5195",
         "z": "51575.1"
+    },
+    {
+        "gameName": "quemado",
+        "realName": "Quemado",
+        "country": "quemado",
+        "x": "-57853",
+        "y": "107.368",
+        "z": "22342.4"
     },
     {
         "gameName": "salina",

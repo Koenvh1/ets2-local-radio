@@ -825,8 +825,8 @@ var stations = {
             url: "http://s2.voscast.com:9758/;"
         },
         {
-            name: "KOOP Radio 91.7 (Day)",
-            logo: "stations/images-america/texas/austin/KOOP Radio 91.7.png",
+            name: "KOOP 91.7 (Day)",
+            logo: "stations/images-america/texas/austin/KOOP 91.7.png",
             url: "http://streaming.koop.org/stream.aac"
         },
         {
@@ -12020,6 +12020,33 @@ var stations = {
             name: "KMTI 650",
             logo: "stations/images-america/salina/KMTI 95.1.png",
             url: "https://ice10.securenetsystems.net/KMTI"
+        },
+    ],
+	"quemado": [
+        {
+            name: "Power 95.7",
+            logo: "stations/images-america/show_low/Power 95.7.png",
+            url: "http://stream.radiojar.com/s9y596g305quv"
+        },
+        {
+            name: "610 The Sports Animal",
+            logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC_SC"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+        },
+        {
+            name: "KMIN 980",
+            logo: "stations/images-america/quemado/KMIN 980.png",
+            url: "http://66.232.19.13:23980/kmin"
         },
     ],
 	"rangely": [
