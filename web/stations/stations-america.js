@@ -8890,8 +8890,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KVNU"
         },
         {
-            name: "Lite FM 103.3",
-            logo: "stations/images-america/logan/Lite FM 103.3.png",
+            name: "Lite 103.3",
+            logo: "stations/images-america/logan/Lite FM 103.3_christmas.png",
             url: "https://ice9.securenetsystems.net/KLGN"
         },
         {
