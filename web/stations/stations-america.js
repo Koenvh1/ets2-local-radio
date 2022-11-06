@@ -4258,11 +4258,6 @@ var stations = {
             url: "http://ice10.securenetsystems.net/KLGL"
         },
         {
-            name: "KYAH 540",
-            logo: "stations/images-america/salina/KYAH 540.png",
-            url: "https://stream.zeno.fm/2g7q70k6n0quv"
-        },
-        {
             name: "KMTI 650",
             logo: "stations/images-america/salina/KMTI 95.1.png",
             url: "https://ice10.securenetsystems.net/KMTI"
@@ -5239,12 +5234,12 @@ var stations = {
             name: "KINS 106.3",
             logo: "stations/images-america/eureka/KINS 106.3.png",
             url: "http://eurekaradio.streamguys1.com/live"
-        },
+        },/*
         {
             name: "106.7 The Edge",
             logo: "stations/images-america/eureka/106.7 The Edge.png",
             url: "https://ice10.securenetsystems.net/KXGO"
-        },
+        },*/
         {
             name: "KGOE 1480",
             logo: "stations/images-america/eureka/KGOE 1480.png",
@@ -13118,7 +13113,7 @@ var stations = {
         {
             name: "ESPN 1320",
             logo: "stations/images-america/sacramento/ESPN 1320.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIFMAMAAC_SC"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kifmamaac-imc"
         },
         {
             name: "AM 1380 The Answer",
@@ -13258,11 +13253,6 @@ var stations = {
             name: "K292AQ 106.3",
             logo: "stations/images-america/salt_lake/97.1 ZHT.png",
             url: "https://stream.revma.ihrhls.com/zc2405/hls.m3u8"
-        },
-        {
-            name: "KYAH 540",
-            logo: "stations/images-america/salina/KYAH 540.png",
-            url: "https://stream.zeno.fm/2g7q70k6n0quv"
         },
         {
             name: "ESPN 700",
@@ -13410,7 +13400,7 @@ var stations = {
         },
         {
             name: "my 99.5",
-            logo: "stations/images-america/salt_lake/My 99.5.png",
+            logo: "stations/images-america/salt_lake/My 99.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2385/hls.m3u8"
         },
         {
