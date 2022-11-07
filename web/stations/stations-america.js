@@ -31165,7 +31165,7 @@ var stations_c2c = {
         {
             name: "93.5 The Legend",
             logo: "stations/images-america/c2c/jackson_ms/93.5 The Legend.png",
-            url: "https://live.wostreaming.net/direct/newsouth-whjtfmaac-ibc4"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/newsouth-whjtfmaac-ibc4"
         },
         {
             name: "K-LOVE 94.7",
@@ -31175,7 +31175,7 @@ var stations_c2c = {
         {
             name: "US 96",
             logo: "stations/images-america/c2c/jackson_ms/US 96.png",
-            url: "https://live.wostreaming.net/manifest/newsouth-wusjfmaac-ibc3"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/newsouth-wusjfmaac-ibc3"
         },
         {
             name: "WJNT 96.9",
@@ -31200,7 +31200,7 @@ var stations_c2c = {
         {
             name: "Mix 98.7",
             logo: "stations/images-america/c2c/jackson_ms/Mix 98.7_christmas.png",
-            url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
         },
         {
             name: "99 Jams",
@@ -31220,7 +31220,7 @@ var stations_c2c = {
         {
             name: "Y101",
             logo: "stations/images-america/c2c/jackson_ms/Y101.png",
-            url: "https://live.wostreaming.net/direct/newsouth-wyoyfmaac-ibc3"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/newsouth-wyoyfmaac-ibc3"
         },
         {
             name: "River 101.3",
