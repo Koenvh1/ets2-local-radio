@@ -207,7 +207,7 @@ var country_properties = {
         name: "Couer d'Alene",
         name_english: "Couer d'Alene",
         code: "us-id",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "cedar_city": {
         name: "Cedar City",
@@ -1389,7 +1389,8 @@ var city_properties = {
     "casper": {
         relative_whitenoise: 0.85
     },
-    "cda": {
+    "cda": {	
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "cedar_city": {
