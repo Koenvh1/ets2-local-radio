@@ -24312,7 +24312,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 98.1",
-            logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1png",
+            logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1.png",
             url: "https://ice64.securenetsystems.net/WEDB"
         },
         {
@@ -31201,8 +31201,8 @@ var stations_c2c = {
             name: "Mix 98.7",
             logo: "stations/images-america/c2c/jackson_ms/Mix 98.7_christmas.png",
             url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
-        {
         },
+        {
             name: "99 Jams",
             logo: "stations/images-america/c2c/jackson_ms/99 Jams.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wjmifmaac-ibc4"
