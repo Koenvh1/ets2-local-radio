@@ -4846,7 +4846,7 @@ var stations = {
         },
         {
             name: "Sunny 99.9",
-            logo: "stations/images-america/texas/el_paso/Sunny 99.9.png",
+            logo: "stations/images-america/texas/el_paso/Sunny 99.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3188/hls.m3u8"
         },
         {
@@ -5388,7 +5388,7 @@ var stations = {
         },
         {
             name: "KOOL 104.5",
-            logo: "stations/images-america/farmington/KOOL 104.5.png",
+            logo: "stations/images-america/farmington/KOOL 104.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
         },
         {
@@ -21854,7 +21854,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 98.5",
-            logo: "stations/images-america/c2c/panama_city_fl/Sunny 98.5.png",
+            logo: "stations/images-america/c2c/panama_city_fl/Sunny 98.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2800/hls.m3u8"
         },
         {
@@ -22138,7 +22138,7 @@ var stations_c2c = {
         },
         {
             name: "103Q",
-            logo: "stations/images-america/c2c/jacksonville_fl/103Q.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/103Q_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
         },
         {
@@ -23934,7 +23934,7 @@ var stations_c2c = {
         },
         {
             name: "104.3 WBBQ",
-            logo: "stations/images-america/c2c/augusta_ga/104.3 WBBQ.png",
+            logo: "stations/images-america/c2c/augusta_ga/104.3 WBBQ_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc757/hls.m3u8"
         },
         {
@@ -24016,7 +24016,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 100.1",
-            logo: "stations/images-america/c2c/columbus_ga/Sunny 100.1.png",
+            logo: "stations/images-america/c2c/columbus_ga/Sunny 100.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc781/hls.m3u8"
         },
         {
@@ -24205,7 +24205,7 @@ var stations_c2c = {
         },
         {
             name: "98.7 The River",
-            logo: "stations/images-america/c2c/savannah_ga/98.7 The River.png",
+            logo: "stations/images-america/c2c/savannah_ga/98.7 The River_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc797/hls.m3u8"
         },
         {
@@ -24312,7 +24312,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 98.1",
-            logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1.png",
+            logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1png",
             url: "https://ice64.securenetsystems.net/WEDB"
         },
         {
@@ -25359,7 +25359,7 @@ var stations_c2c = {
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
@@ -26150,7 +26150,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 96",
-            logo: "stations/images-america/c2c/davenport_ia/Mix 96.png",
+            logo: "stations/images-america/c2c/davenport_ia/Mix 96_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3658/hls.m3u8"
         },
         {
@@ -28534,7 +28534,7 @@ var stations_c2c = {
         },
         {
             name: "94.1 The Wave",
-            logo: "stations/images-america/c2c/bangor_me/94.1 The Wave.png",
+            logo: "stations/images-america/c2c/bangor_me/94.1 The Wave_christmas.png",
             url: "https://ais-sa1.streamon.fm/7672_48k.aac"
         },
         {
@@ -29603,7 +29603,7 @@ var stations_c2c = {
         },
         {
             name: "100.3 WNIC",
-            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC.png",
+            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1153/hls.m3u8"
         },
         {
@@ -29835,7 +29835,7 @@ var stations_c2c = {
         },
         {
             name: "Star 105.7",
-            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1169/hls.m3u8"
         },
         {
@@ -30494,7 +30494,7 @@ var stations_c2c = {
         },
         {
             name: "KOOL 108",
-            logo: "stations/images-america/c2c/minneapolis_mn/Kool 108.png",
+            logo: "stations/images-america/c2c/minneapolis_mn/Kool 108_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1217/hls.m3u8"
         },
         {
@@ -31199,10 +31199,10 @@ var stations_c2c = {
         },
         {
             name: "Mix 98.7",
-            logo: "stations/images-america/c2c/jackson_ms/Mix 98.7.png",
+            logo: "stations/images-america/c2c/jackson_ms/Mix 98.7_christmas.png",
             url: "https://live.wostreaming.net/manifest/newsouth-wjkkfmaac-ibc3"
-        },
         {
+        },
             name: "99 Jams",
             logo: "stations/images-america/c2c/jackson_ms/99 Jams.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-wjmifmaac-ibc4"
@@ -32182,7 +32182,7 @@ var stations_c2c = {
         },
         {
             name: "105.9 KGBX",
-            logo: "stations/images-america/c2c/springfield_mo/105.9 KGBX.png",
+            logo: "stations/images-america/c2c/springfield_mo/105.9 KGBX_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1261/hls.m3u8"
         },
         {
@@ -32795,7 +32795,7 @@ var stations_c2c = {
         },
         {
             name: "98.3 TRY",
-            logo: "stations/images-america/c2c/albany_ny/98.3 TRY.png",
+            logo: "stations/images-america/c2c/albany_ny/98.3 TRY_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1437/hls.m3u8"
         },
         {
@@ -33614,7 +33614,7 @@ var stations_c2c = {
         },
         {
             name: "Q92",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/Q92.png",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/Q92_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1489/hls.m3u8"
         },
         {
@@ -35147,7 +35147,7 @@ var stations_c2c = {
         },
         {
             name: "104.3 Cities FM",
-            logo: "stations/images-america/c2c/grand_forks_nd/104.3 Cities FM.png",
+            logo: "stations/images-america/c2c/grand_forks_nd/104.3 Cities FM_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZLTFMAAC_SC"
         },
         {
@@ -35679,7 +35679,7 @@ var stations_c2c = {
         },
         {
             name: "93.3 The Bus",
-            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus.png",
+            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1761/hls.m3u8"
         },
         {
@@ -35978,7 +35978,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 103.3",
-            logo: "stations/images-america/c2c/lima_oh/Mix 103.3.png",
+            logo: "stations/images-america/c2c/lima_oh/Mix 103.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1825/hls.m3u8"
         },
         {
@@ -36085,7 +36085,7 @@ var stations_c2c = {
         },
         {
             name: "101.5 The River",
-            logo: "stations/images-america/c2c/toledo_oh/101.5 The River.png",
+            logo: "stations/images-america/c2c/toledo_oh/101.5 The River_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1853/hls.m3u8"
         },
         {
@@ -36182,7 +36182,7 @@ var stations_c2c = {
         },
         {
             name: "MIX 98.9",
-            logo: "stations/images-america/c2c/youngstown_oh/MIX 98.9.png",
+            logo: "stations/images-america/c2c/youngstown_oh/MIX 98.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2772/hls.m3u8"
         },
         {
@@ -38180,7 +38180,7 @@ var stations_c2c = {
         },
         {
             name: "Y102.5",
-            logo: "stations/images-america/c2c/charleston_sc/Y102.5.png",
+            logo: "stations/images-america/c2c/charleston_sc/Y102.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2065/hls.m3u8"
         },
         {
@@ -40150,7 +40150,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 93.1",
-            logo: "stations/images-america/c2c/harrisonburg_va/Mix 93.1.png",
+            logo: "stations/images-america/c2c/harrisonburg_va/Mix 93.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2437/hls.m3u8"
         },
         {
@@ -41099,7 +41099,7 @@ var stations_c2c = {
         },
         {
             name: "Rewind 92.1",
-            logo: "stations/images-america/c2c/madison_wi/Rewind 92.1.png",
+            logo: "stations/images-america/c2c/madison_wi/Rewind 92.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2665/hls.m3u8"
         },
         {
@@ -41194,7 +41194,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 105.1",
-            logo: "stations/images-america/c2c/madison_wi/Mix 105.1.png",
+            logo: "stations/images-america/c2c/madison_wi/Mix 105.1_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wmhxfmaac-imc"
         },
         {
@@ -41209,7 +41209,7 @@ var stations_c2c = {
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
