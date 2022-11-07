@@ -203,6 +203,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.8
     },
+    "cda": {
+        name: "Couer d'Alene",
+        name_english: "Couer d'Alene",
+        code: "us-id",
+        relative_radius: 0.5
+    },
     "cedar_city": {
         name: "Cedar City",
         name_english: "Cedar City",
@@ -1383,6 +1389,9 @@ var city_properties = {
     "casper": {
         relative_whitenoise: 0.85
     },
+    "cda": {
+        relative_whitenoise: 0.95
+    },
     "cedar_city": {
         relative_whitenoise: 0.85
     },
@@ -2260,6 +2269,14 @@ var cities = [
         "x": "-41501.4",
         "y": "165.318",
         "z": "-25775"
+    },
+    {
+        "gameName": "cda",
+        "realName": "Couer d'Alene",
+        "country": "spokane",
+        "x": "-77440.9",
+        "y": "32.0592",
+        "z": "-58343.6"
     },
     {
         "gameName": "cheyenne",
