@@ -11514,6 +11514,11 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2697_48.aac"
         },
         {
+            name: "TUDN Radio 710",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "https://live.wostreaming.net/manifest/univision-deportesaac-ibc2"
+        },
+        {
             name: "FOX Sports 910",
             logo: "stations/images-america/phoenix/FOX Sports 910.png",
             url: "https://stream.revma.ihrhls.com/zc41/hls.m3u8"
@@ -15450,12 +15455,12 @@ var stations = {
             name: "103.5 The Vibe",
             logo: "stations/images-america/show_low/103.5 The Vibe.png",
             url: "http://1035thevibe.com:8190/vibe22"
-        },/*
+        },
         {
             name: "105.5 KSNX",
             logo: "stations/images-america/show_low/105.5 KSNX.png",
             url: "https://ice66.securenetsystems.net/KSNX"
-        },*/
+        },
         {
             name: "107.9 The Eagle",
             logo: "stations/images-america/show_low/107.9 The Eagle.png",
@@ -15465,6 +15470,11 @@ var stations = {
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "TUDN Radio 710",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "https://live.wostreaming.net/manifest/univision-deportesaac-ibc2"
         },
         {
             name: "970 KVWM",
