@@ -15884,11 +15884,6 @@ var stations = {
             url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
         },
         {
-            name: "FOX Sports 93.1",
-            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "https://ice6.securenetsystems.net/KAZZ"
-        },
-        {
             name: "96X",
             logo: "stations/images-america/st_george/96X.png",
             url: "https://ice41.securenetsystems.net/KCLSHD2"
