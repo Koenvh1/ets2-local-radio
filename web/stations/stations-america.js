@@ -2641,11 +2641,6 @@ var stations = {
             url: "https://live.wostreaming.net/direct/townsquare-kxbnfmaac-ibc3"
         },
         {
-            name: "FOX Sports 93.1",
-            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "https://ice6.securenetsystems.net/KAZZ"
-        },
-        {
             name: "Cat Country 94.9",
             logo: "stations/images-america/cedar_city/Cat Country 94.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kcinfmaac-ibc3"
@@ -2686,11 +2681,6 @@ var stations = {
             url: "http://ice9.securenetsystems.net/KSVC"
         },
         {
-            name: "Sunny 101.5",
-            logo: "stations/images-america/cedar_city/Sunny 101.5.png",
-            url: "https://ice10.securenetsystems.net/KCLS"
-        },
-        {
             name: "Dave FM 101.9",
             logo: "stations/images-america/cedar_city/Dave FM 101.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kxfffmaac-ibc3"
@@ -2699,21 +2689,6 @@ var stations = {
             name: "102.3 Coyote Country",
             logo: "stations/images-america/cedar_city/102.3 Coyote Country.png",
             url: "http://ice10.securenetsystems.net/KUTQ"
-        },
-        {
-            name: "Mix 103.1",
-            logo: "stations/images-america/cedar_city/Mix 103.1.png",
-            url: "http://ice10.securenetsystems.net/KURR"
-        },
-        {
-            name: "104.1 Zion FM",
-            logo: "stations/images-america/cedar_city/104.1 Zion FM.png",
-            url: "http://ice24.securenetsystems.net/KZYN"
-        },
-        {
-            name: "Planet 105.1",
-            logo: "stations/images-america/cedar_city/Planet 105.1.png",
-            url: "https://ice10.securenetsystems.net/KPLD"
         },
         {
             name: "KSUB 590",
@@ -2734,11 +2709,6 @@ var stations = {
             name: "ESPN 1100",
             logo: "stations/images-america/las_vegas/ESPN 100.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAMAAC_SC"
-        },
-        {
-            name: "St George News Radio 1450",
-            logo: "stations/images-america/st_george/St George News Radio 1450.png",
-            url: "http://ice10.securenetsystems.net/KZNU2"
         },
     ],
     "cheyenne": [
@@ -13439,6 +13409,11 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7169_48k.aac"
         },
         {
+            name: "Power 101.9",
+            logo: "stations/images-america/salt_lake/Power 94.9-101.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KENZFMAAC.aac"
+        },
+        {
             name: "La Gran D 102.3",
             logo: "stations/images-america/salt_lake/La Gran D 102.3.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-kdutfmaac-ibc4"
@@ -15909,6 +15884,11 @@ var stations = {
             url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
         },
         {
+            name: "FOX Sports 93.1",
+            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            url: "https://ice6.securenetsystems.net/KAZZ"
+        },
+        {
             name: "96X",
             logo: "stations/images-america/st_george/96X.png",
             url: "https://ice41.securenetsystems.net/KCLSHD2"
@@ -15917,6 +15897,11 @@ var stations = {
             name: "La Campesina 96.7",
             logo: "stations/images-america/st_george/La Campesina 96.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYLIFMAAC_SC"
+        },
+        {
+            name: "St George News Radio 97.1",
+            logo: "stations/images-america/st_george/St George News Radio 1450.png",
+            url: "https://ice10.securenetsystems.net/KZNU2"
         },
         {
             name: "KOOL 98.9",
@@ -15944,6 +15929,26 @@ var stations = {
             url: "https://vsstreaming.com/8034/stream"
         },
         {
+            name: "Sunny 101.5",
+            logo: "stations/images-america/st_george/Sunny 101.5.png",
+            url: "https://ice10.securenetsystems.net/KCLS"
+        },
+        {
+            name: "Mix 103.1",
+            logo: "stations/images-america/st_george/Mix 103.1.png",
+            url: "http://ice10.securenetsystems.net/KURR"
+        },
+        {
+            name: "104.1 Zion FM",
+            logo: "stations/images-america/st_george/104.1 Zion FM.png",
+            url: "http://ice24.securenetsystems.net/KZYN"
+        },
+        {
+            name: "Planet 105.1",
+            logo: "stations/images-america/st_george/Planet 105.1.png",
+            url: "https://ice10.securenetsystems.net/KPLD"
+        },
+        {
             name: "Smooth Jazz Utah 105.7",
             logo: "stations/images-america/st_george/Smooth Jazz Utah 105.7.png",
             url: "http://broadcaster.smoothjazzutah.com:8000/kwbr"
@@ -15952,6 +15957,26 @@ var stations = {
             name: "Juan 106",
             logo: "stations/images-america/st_george/Juan 106.png",
             url: "https://ice41.securenetsystems.net/KCLSHD3"
+        },
+        {
+            name: "KSUB 590",
+            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ksubamaac-ibc3"
+        },
+        {
+            name: "KDWN 720",
+            logo: "stations/images-america/las_vegas/KDWN 101.5.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
+        },
+        {
+            name: "KDXU 890",
+            logo: "stations/images-america/cedar_city/KDXU 890.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kdxuamaac-ibc3"
+        },
+        {
+            name: "St George News Radio 1450",
+            logo: "stations/images-america/st_george/St George News Radio 1450.png",
+            url: "http://ice10.securenetsystems.net/KZNU2"
         },
     ],
     "susanv": [

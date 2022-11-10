@@ -551,6 +551,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.8
     },
+    "kanab": {
+        name: "Kanab",
+        name_english: "Kanab",
+        code: "us-ut",
+        relative_radius: 0.8
+    },
     "kayenta": {
         name: "Kayenta",
         name_english: "Kayenta",
@@ -1582,6 +1588,10 @@ var city_properties = {
     "kalispell": {
         relative_whitenoise: 0.75
     },
+    "kanab": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
     "katl": {
         relative_whitenoise: 0.85
     },
@@ -2566,6 +2576,14 @@ var cities = [
         "x": "-69691.6",
         "y": "95",
         "z": "-59999.2"
+    },
+    {
+        "gameName": "kanab",
+        "realName": "Kanab",
+        "country": "st_george",
+        "x": "-73451.6",
+        "y": "79.3725",
+        "z": "3938.74"
     },
     {
         "gameName": "katl",
