@@ -4248,6 +4248,48 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KSVC"
         },
     ],
+    "deming": [
+        {
+            name: "KURU 89.1",
+            logo: "stations/images-america/deming/KURU 89.1.png",
+            url: "http://stream.gmcr.org:8000/gmcr"
+        },
+        {
+            name: "Family Life Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "KRWG 93.5",
+            logo: "stations/images-america/las_cruces/KRWG 90.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRWGFMAAC_SC"
+        },
+        {
+            name: "KDEM 94.3",
+            logo: "stations/images-america/deming/KDEM 94.3.png",
+            url: "https://ice41.securenetsystems.net/KDEMFM"
+        },
+        {
+            name: "Classic Rock 98.7",
+            logo: "stations/images-america/las_cruces/Classic Rock 98.7.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-ksnmfmaac-ibc1"
+        },
+        {
+            name: "Zia Country 99.5",
+            logo: "stations/images-america/las_cruces/Zia Country 99.5.png",
+            url: "https://ice42.securenetsystems.net/KXPZ"
+        },
+        {
+            name: "101 Gold",
+            logo: "stations/images-america/las_cruces/101 Gold.png",
+            url: "https://ice42.securenetsystems.net/KVLC"
+        },
+        {
+            name: "1230 KOTS",
+            logo: "stations/images-america/deming/1230 KOTS.png",
+            url: "https://ice41.securenetsystems.net/KOTS"
+        },
+    ],
     "denver": [
         {
             name: "CPR Classical 88.1",
@@ -16254,6 +16296,48 @@ var stations = {
             name: "KNNR 1400",
             logo: "stations/images-america/ely/KELY 1230.png",
             url: "http://173.193.205.96:7200/stream"
+        },
+    ],
+    "truth_or_consequences": [
+        {
+            name: "K-LOVE 91.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KNLB 91.5",
+            logo: "stations/images-america/barstow/KNLB 90.9.png",
+            url: "https://ic1.sslstream.com/knlb-fm"
+        },
+        {
+            name: "KRWG 91.9",
+            logo: "stations/images-america/las_cruces/KRWG 90.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRWGFMAAC_SC"
+        },
+        {
+            name: "Classic Rock 98.7",
+            logo: "stations/images-america/las_cruces/Classic Rock 98.7.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-ksnmfmaac-ibc1"
+        },
+        {
+            name: "Zia Country 99.5",
+            logo: "stations/images-america/las_cruces/Zia Country 99.5.png",
+            url: "https://ice42.securenetsystems.net/KXPZ"
+        },
+        {
+            name: "101 Gold",
+            logo: "stations/images-america/las_cruces/101 Gold.png",
+            url: "https://ice42.securenetsystems.net/KVLC"
+        },
+        {
+            name: "KOOL Oldies 570",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-kwmlamaac-ibc1"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
         },
     ],
     "tucson": [

@@ -15,7 +15,7 @@ var country_properties = {
         name: "Alamogordo",
         name_english: "Alamogordo",
         code: "us-nm",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "alamosa": {
         name: "Alamosa",
@@ -322,6 +322,12 @@ var country_properties = {
         name_english: "Del Rio/Cd. Acuña",
         code: "us-tx",
         relative_radius: 0.8
+    },
+    "deming": {
+        name: "Deming",
+        name_english: "Deming",
+        code: "us-nm",
+        relative_radius: 0.5
     },
     "denver": {
         name: "Denver",
@@ -1139,6 +1145,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.5
     },
+    "truth_or_consequences": {
+        name: "Truth or Consequences",
+        name_english: "Truth or Consequences",
+        code: "us-nm",
+        relative_radius: 0.5
+    },
     "tucson": {
         name: "Tucson",
         name_english: "Tucson",
@@ -1458,6 +1470,9 @@ var city_properties = {
     "delta": {
         relative_whitenoise: 0.95
     },
+    "deming": {
+        relative_whitenoise: 0.95
+    },
     "denver": {
         relative_whitenoise: 0.85
     },
@@ -1631,7 +1646,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "las_cruces": {
-		relative_radius: 0.9,
+		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "las_vegas": {
@@ -1913,6 +1928,9 @@ var city_properties = {
     "truckee": {
         relative_whitenoise: 0.85
     },
+    "truth_or_consequences": {
+        relative_whitenoise: 0.95
+    },
     "tucson": {
         relative_whitenoise: 0.80
     },
@@ -2005,7 +2023,7 @@ var cities = [
         "gameName": "alamogordo",
         "realName": "Alamogordo",
         "country": "alamogordo",
-        "x": "-46944.1",
+        "x": "-46644.1",
         "y": "127.48",
         "z": "31604"
     },
@@ -2338,6 +2356,14 @@ var cities = [
         "z": "45537.4"
     },
     {
+        "gameName": "deming",
+        "realName": "Deming",
+        "country": "deming",
+        "x": "-56483.5",
+        "y": "96.834",
+        "z": "34248.3"
+    },
+    {
         "gameName": "eagle_pass",
         "realName": "Eagle Pass/Piedras Negras",
         "country": "eagle_pass",
@@ -2645,17 +2671,17 @@ var cities = [
         "gameName": "las_cruces",
         "realName": "Las Cruces",
         "country": "las_cruces",
-        "x": "-54615.8",
-        "y": "104.428",
-        "z": "33645.3"
+        "x": "-51219.6",
+        "y": "100.943",
+        "z": "33813.9"
     },
     {
         "gameName": "las_cruces",
         "realName": "Las Cruces",
         "country": "el_paso",
-        "x": "-54615.8",
-        "y": "104.428",
-        "z": "33645.3"
+        "x": "-51219.6",
+        "y": "100.943",
+        "z": "33813.9"
     },
     {
         "gameName": "leevining",
@@ -3056,6 +3082,14 @@ var cities = [
         "x": "-106818",
         "y": "490.608",
         "z": "-17000.3"
+    },
+    {
+        "gameName": "truth_or_consequences",
+        "realName": "Truth or Consequences",
+        "country": "truth_or_consequences",
+        "x": "-52987.3",
+        "y": "83.4137",
+        "z": "29697.8"
     },
     {
         "gameName": "tucson",
