@@ -1589,7 +1589,7 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "kanab": {
-		relative_radius: 0.4,
+		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "katl": {
