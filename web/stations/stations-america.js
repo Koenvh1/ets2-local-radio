@@ -8477,6 +8477,11 @@ var stations = {
     ],
     "las_vegas": [
         {
+            name: "Area 87.7",
+            logo: "stations/images-america/las_vegas/Area 87.7.png",
+            url: "https://ice10.securenetsystems.net/KNNN"
+        },
+        {
             name: "Power 88",
             logo: "stations/images-america/las_vegas/Power 88.png",
             url: "https://ice7.securenetsystems.net/KCEP"
@@ -13339,8 +13344,8 @@ var stations = {
             url: "https://kuuu.streamon.fm/stream/KUUU-48k.aac"
         },
         {
-            name: "K-Bull 93",
-            logo: "stations/images-america/salt_lake/K-Bull 93.png",
+            name: "93.3 The Bull",
+            logo: "stations/images-america/salt_lake/93.3 The Bull.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUBLFMAAC_SC"
         },
         {
