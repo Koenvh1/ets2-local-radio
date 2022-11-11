@@ -1222,7 +1222,7 @@ var stations = {
         },
         {
             name: "Sunny 105.3",
-            logo: "stations/images-america/bakersfield/Sunny 105.3.png",
+            logo: "stations/images-america/bakersfield/Sunny 105.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3340/hls.m3u8"
         },
         {
@@ -3271,7 +3271,7 @@ var stations = {
         },
         {
             name: "Sunny 106.3",
-            logo: "stations/images-america/colorado_springs_pueblo/Sunny 106.3.png",
+            logo: "stations/images-america/colorado_springs_pueblo/Sunny 106.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc357/hls.m3u8"
         },
         {
@@ -3487,7 +3487,7 @@ var stations = {
         },
         {
             name: "BIG 93.9",
-            logo: "stations/images-america/texas/corpus_christi/BIG 93.9.png",
+            logo: "stations/images-america/texas/corpus_christi/BIG 93.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3652/hls.m3u8"
         },
         {
@@ -3816,7 +3816,7 @@ var stations = {
         },
         {
             name: "Star 102.1",
-            logo: "stations/images-america/texas/dallas_fort_worth/Star 102.1.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/Star 102.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2815/hls.m3u8"
         },
         {
@@ -4423,7 +4423,7 @@ var stations = {
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/denver/KOSI 101.1.png",
+            logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
             url: "https://bonneville.cdnstream1.com/2709_48.aac"
         },
         {
@@ -5010,7 +5010,7 @@ var stations = {
         },*/
         {
             name: "K237AJ 95.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -5870,7 +5870,7 @@ var stations = {
         },
         {
             name: "Soft Rock 98.9",
-            logo: "stations/images-america/fresno/Soft Rock 98.9.png",
+            logo: "stations/images-america/fresno/Soft Rock 98.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc153/hls.m3u8"
         },
         {
@@ -6900,7 +6900,7 @@ var stations = {
         },
         {
             name: "SUNNY 99.1",
-            logo: "stations/images-america/texas/houston/SUNNY 99.1.png",
+            logo: "stations/images-america/texas/houston/SUNNY 99.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2273/hls.m3u8"
         },
         {
@@ -9207,7 +9207,7 @@ var stations = {
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -12025,7 +12025,7 @@ var stations = {
         },
         {
             name: "K288AN 105.5",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -12539,7 +12539,7 @@ var stations = {
         },
         {
             name: "K234CR 94.7",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -13268,7 +13268,7 @@ var stations = {
         },
         {
             name: "K276AT 103.1",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -13432,7 +13432,7 @@ var stations = {
         },
         {
             name: "FM100.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -13856,7 +13856,7 @@ var stations = {
         },
         {
             name: "Q101.9",
-            logo: "stations/images-america/texas/san_antonio/Q101.9.png",
+            logo: "stations/images-america/texas/san_antonio/Q101.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2341/hls.m3u8"
         },
         {
@@ -15229,7 +15229,7 @@ var stations = {
         },
         {
             name: "Warm 106.9",
-            logo: "stations/images-america/seattle/Warm 106.9.png",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFMAAC_SC"
         },
         {
