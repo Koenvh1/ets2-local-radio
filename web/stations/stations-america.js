@@ -154,7 +154,7 @@ var stations = {
         },
         {
             name: "FOX Sports 101.7-HD3",
-            logo: "stations/images-america/texas/abilene/Infinity FM 101.7-HD2.png",
+            logo: "stations/images-america/texas/abilene/FOX Sports Abilene.png",
             url: "https://ice42.securenetsystems.net/KASN"
         },
         {
@@ -199,7 +199,7 @@ var stations = {
         },
         {
             name: "FOX Sports 1340",
-            logo: "stations/images-america/texas/abilene/Infinity FM 101.7-HD2.png",
+            logo: "stations/images-america/texas/abilene/FOX Sports Abilene.png",
             url: "http://ice42.securenetsystems.net/KASN"
         },
         {
@@ -2095,7 +2095,7 @@ var stations = {
         },
         {
             name: "107.9 Lite FM",
-            logo: "stations/images-america/boise/107.9 Lite FM.png",
+            logo: "stations/images-america/boise/107.9 Lite FM_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kxltfmaac-ibc3"
         },
         {
@@ -3783,11 +3783,6 @@ var stations = {
             name: "97.1 KDGE-HD2",
             logo: "stations/images-america/texas/dallas_fort_worth/97.1 KDGE-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc9614/hls.m3u8"
-        },
-        {
-            name: "Slippery When Wet 97.1-HD2",
-            logo: "stations/images-america/texas/dallas_fort_worth/Slippery When Wet 97.1-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4858/hls.m3u8"
         },
         {
             name: "97.9 The Beat",
@@ -5874,11 +5869,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc141/hls.m3u8"
         },
         {
-            name: "American Stillhouse Radio 94.9-HD2",
-            logo: "stations/images-america/fresno/American Stillhouse Radio 94.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6454/hls.m3u8"
-        },
-        {
             name: "Forge 95.3",
             logo: "stations/images-america/fresno/Forge 95.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBHHFMAAC_SC"
@@ -6766,7 +6756,7 @@ var stations = {
         },
         {
             name: "105.3 KMTX",
-            logo: "stations/images-america/helena/105.3 KMTX.png",
+            logo: "stations/images-america/helena/105.3 KMTX_christmas.png",
             url: "https://live.wostreaming.net/direct/montanaradioco-kmtxfmaac-imc4"
         },
         {
@@ -13701,11 +13691,6 @@ var stations = {
             name: "KIXY 94.7",
             logo: "stations/images-america/texas/san_angelo/KIXY 94.7.png",
             url: "https://ice42.securenetsystems.net/KIXY"
-        },
-        {
-            name: "95.5 KMLS",
-            logo: "stations/images-america/texas/san_angelo/95.5 KMLS.png",
-            url: "http://tektite.streamguys1.com:5380/live-aac"
         },
         {
             name: "96.5 The Rock",
@@ -22642,9 +22627,9 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/manifest/audacy-wpowfmaac-imc"
         },
         {
-            name: "Reggae Nation 96.5-HD2",
-            logo: "stations/images-america/c2c/miami_fl/Reggae Nation 96.5-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/REGGAENATION_SC"
+            name: "96.5 WPOW-HD2",
+            logo: "stations/images-america/c2c/miami_fl/560 WQAM.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.amperwave.net/manifest/audacy-wqamamaac-imc"
         },
         {
             name: "Channel Q 96.5-HD3",
