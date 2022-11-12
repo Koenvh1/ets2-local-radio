@@ -2235,11 +2235,6 @@ var stations = {
             url: "http://50.245.174.62:7070/broadwave.mp3"
         },
         {
-            name: "Manantial 91.9",
-            logo: "stations/images-america/yuma/Manantial FM 91.9.png",
-            url: "http://ic2.christiannetcast.com/kyrm-fm"
-        },
-        {
             name: "JP2 Radio 93.3",
             logo: "stations/images-america/brawley/JP2 Radio 93.3.png",
             url: "https://ssl-2.stream.miriamtech.net/jp2radio/jp2radio.mp3"
@@ -2263,11 +2258,6 @@ var stations = {
             name: "KGBA 100.1",
             logo: "stations/images-america/brawley/KGBA 100.1.png",
             url: "https://ice9.securenetsystems.net/KGBAFM"
-        },
-        {
-            name: "560 KBLU",
-            logo: "stations/images-america/yuma/560 KBLU.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/eldorado-kbluamaac-ibc2?source=v7player"
         },
     ],
     "broadus": [
@@ -17717,11 +17707,6 @@ var stations = {
             name: "95.1 KTTI",
             logo: "stations/images-america/yuma/95.1 KTTI.png",
             url: "https://live.wostreaming.net/manifest/eldorado-kttifmaac-ibc2?source=v7player"
-        },
-        {
-            name: "Power 98",
-            logo: "stations/images-america/mexico/mexicali/Power 98.png",
-            url: "http://s4.mexside.net:2126/;stream.mp3"
         },
         {
             name: "KYMZ 99.9",
