@@ -14642,7 +14642,7 @@ var stations = {
         {
             name: "Relevant Radio 1000",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac"
         },	
         {
             name: "La Tremenda 1030",
@@ -24688,7 +24688,7 @@ var stations_c2c = {
         {
             name: "HI93",
             logo: "stations/images-america/c2c/honolulu_hi/HI93.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kqmqfmaac-ibc1"
+            url: "https://pacificmedia.cdnstream1.com/2780_64.aac"
         },
         {
             name: "93.9 The Beat",
@@ -24708,7 +24708,7 @@ var stations_c2c = {
         {
             name: "94.7 KUMU",
             logo: "stations/images-america/c2c/honolulu_hi/94.7 KUMU.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kumufmaac-ibc1"
+            url: "https://pacificmedia.cdnstream1.com/2783_64.aac"
         },
         {
             name: "95.1 HSRN",
@@ -24788,7 +24788,7 @@ var stations_c2c = {
         {
             name: "102.7 Da Bomb",
             logo: "stations/images-america/c2c/honolulu_hi/102.7 Da Bomb.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kddbfmaac-ibc1"
+            url: "https://pacificmedia.cdnstream1.com/2782_64.aac"
         },
         {
             name: "K-LOVE 103.5",
@@ -24823,7 +24823,7 @@ var stations_c2c = {
         {
             name: "105.9 The Wave",
             logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/pacificradio-kpoifmaac-ibc1"
+            url: "https://pacificmedia.cdnstream1.com/2781_64.aac"
         },
         {
             name: "Jazzy 107.5",
@@ -29098,9 +29098,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "HFS @104.9",
-            logo: "stations/images-america/c2c/baltimore_md/HFS 104.9.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WWMXHD2AAC_SC"
+            name: "W285EJ 104.9",
+            logo: "stations/images-america/c2c/baltimore_md/The Bet 1300.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-wjzamaac-imc"
         },
         {
             name: "105.7 The Fan",
