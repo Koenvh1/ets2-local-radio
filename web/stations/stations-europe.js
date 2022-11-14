@@ -1280,12 +1280,12 @@ var stations = {
         {
             name: "Basso",
             logo: "stations/images-europe/finland/Basso.png",
-            url: "https://stream.bauermedia.fi/basso/bassoradio_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "ENERGY",
             logo: "stations/images-europe/finland/Energy.png",
-            url: "https://stream.bauermedia.fi/nrj/nrj_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Helmiradio",
@@ -1300,7 +1300,7 @@ var stations = {
         {
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
-            url: "https://stream.bauermedia.fi/iskelma/iskelma_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Järviradio",
@@ -1310,12 +1310,12 @@ var stations = {
         {
             name: "Kasari",
             logo: "stations/images-europe/finland/Kasari.png",
-            url: "https://stream.bauermedia.fi/kasari/kasari_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/finland/Kiss.png",
-            url: "https://stream.bauermedia.fi/kiss/kiss_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Aalto",
@@ -1330,7 +1330,7 @@ var stations = {
         {
             name: "Radio Classic",
             logo: "stations/images-europe/finland/Radio Classic.png",
-            url: "https://stream.bauermedia.fi/classic/classic_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/classic/classic_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Dei",
@@ -1345,17 +1345,17 @@ var stations = {
         {
             name: "Radio Nostalgia",
             logo: "stations/images-europe/finland/Radio Nostalgia.png",
-            url: "http://stream.bauermedia.fi/nostalgia/nostalgia_128.mp3"
+            url: "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Nova",
             logo: "stations/images-europe/finland/Radio Nova.png",
-            url: "http://stream.bauermedia.fi/radionova/radionova_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio POOKI",
             logo: "stations/images-europe/finland/Radio Pooki.png",
-            url: "https://stream.bauermedia.fi/radiopooki/radiopooki_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Rock",
@@ -1370,12 +1370,12 @@ var stations = {
         {
             name: "SuomiRäp",
             logo: "stations/images-europe/finland/Suomiräp.png",
-            url: "https://stream.bauermedia.fi/suomirap/suomirap_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/suomirap/suomirap_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Ysäri",
             logo: "stations/images-europe/finland/Ysäri.png",
-            url: "https://stream.bauermedia.fi/ysari/ysari_64.aac"
+            url: "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
     ],
     "france": [
