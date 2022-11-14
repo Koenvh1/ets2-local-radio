@@ -4569,7 +4569,7 @@ var stations = {
         {
             name: "The Bet 1430",
             logo: "stations/images-america/denver/The Bet 1430.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kqksfmaac-imc"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kampamaac-imc"
         },
         {
             name: "ESPN Denver 1600",
@@ -16002,7 +16002,7 @@ var stations = {
         },
         {
             name: "Sunny 101.5",
-            logo: "stations/images-america/st_george/Sunny 101.5.png",
+            logo: "stations/images-america/st_george/Sunny 101.5_christmas.png",
             url: "https://ice10.securenetsystems.net/KCLS"
         },
         {
