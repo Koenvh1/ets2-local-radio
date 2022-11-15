@@ -45,7 +45,7 @@ var country_properties = {
         name: "Austin",
         name_english: "Austin",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "baggs": {
         name: "Baggs",
@@ -159,7 +159,7 @@ var country_properties = {
         name: "Buffalo",
         name_english: "Buffalo",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "burlington": {
         name: "Burlington",
@@ -255,7 +255,7 @@ var country_properties = {
         name: "College Station",
         name_english: "College Station",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "colorado_springs_pueblo": {
         name: "Colorado Springs/Pueblo",
@@ -437,6 +437,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
+    "galveston": {
+        name: "Galveston",
+        name_english: "Galveston",
+        code: "us-tx",
+        relative_radius: 1.0
+    },
     "gillette": {
         name: "Gillette",
         name_english: "Gillette",
@@ -519,7 +525,7 @@ var country_properties = {
         name: "Huntsville",
         name_english: "Huntsville",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "huron": {
         name: "Huron",
@@ -549,7 +555,7 @@ var country_properties = {
         name: "Junction",
         name_english: "Junction",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "kalispell": {
         name: "Kalispell",
@@ -579,7 +585,7 @@ var country_properties = {
         name: "Kerrville",
         name_english: "Kerrville",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "ketchum": {
         name: "Ketchum",
@@ -1023,7 +1029,7 @@ var country_properties = {
         name: "San Antonio",
         name_english: "San Antonio",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "san_clemente": {
         name: "San Clemente",
@@ -1544,6 +1550,10 @@ var city_properties = {
     "gallup": {
         relative_whitenoise: 0.80
     },
+    "galveston": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
     "gillette": {
         relative_whitenoise: 0.85
     },
@@ -1604,7 +1614,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "junction": {
-		relative_radius: 0.5,
+		relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "kalispell": {
@@ -2026,9 +2036,9 @@ var cities = [
         "gameName": "abilene",
         "realName": "Abilene",
         "country": "abilene",
-        "x": "-13393",
-        "y": "77.1016",
-        "z": "37702.7"
+        "x": "-17366.2",
+        "y": "77.5664",
+        "z": "36430.9"
     },
     {
         "gameName": "alamogordo",
@@ -2050,9 +2060,9 @@ var cities = [
         "gameName": "amarillo",
         "realName": "Amarillo",
         "country": "amarillo",
-        "x": "-26709.7",
-        "y": "130.223",
-        "z": "20068.3"
+        "x": "-26731.8",
+        "y": "100.102",
+        "z": "20312.9"
     },
     {
         "gameName": "astoria",
@@ -2066,9 +2076,9 @@ var cities = [
         "gameName": "austin",
         "realName": "Austin",
         "country": "austin",
-        "x": "-7879.96",
-        "y": "39.4637",
-        "z": "48151.5"
+        "x": "-8521.76",
+        "y": "56",
+        "z": "48694"
     },
     {
         "gameName": "baker_city",
@@ -2154,9 +2164,9 @@ var cities = [
         "gameName": "beaumont",
         "realName": "Beaumont",
         "country": "beaumont",
-        "x": "9918.67",
-        "y": "37.2571",
-        "z": "49513.6"
+        "x": "9941.66",
+        "y": "63.0898",
+        "z": "50291.3"
     },
     {
         "gameName": "big_piney",
@@ -2362,9 +2372,9 @@ var cities = [
         "gameName": "college_station",
         "realName": "College Station",
         "country": "college_station",
-        "x": "-554.41",
+        "x": "-3015.47",
         "y": "26.756",
-        "z": "45537.4"
+        "z": "46104.4"
     },
     {
         "gameName": "deming",
@@ -2402,9 +2412,9 @@ var cities = [
         "gameName": "el_paso",
         "realName": "El Paso/Cd. Juárez",
         "country": "el_paso",
-        "x": "-50000",
-        "y": "113.516",
-        "z": "39644.1"
+        "x": "-49615.9",
+        "y": "158.879",
+        "z": "38414.9"
     },
     {
         "gameName": "ely",
@@ -2511,6 +2521,14 @@ var cities = [
         "z": "15448.3"
     },
     {
+        "gameName": "galveston",
+        "realName": "Galveston",
+        "country": "houston",
+        "x": "6388.7",
+        "y": "54.2969",
+        "z": "54871.6"
+    },
+    {
         "gameName": "gillette",
         "realName": "Gillette",
         "country": "gillette",
@@ -2554,17 +2572,17 @@ var cities = [
         "gameName": "houston",
         "realName": "Houston",
         "country": "houston",
-        "x": "3270.67",
-        "y": "96.3945",
-        "z": "54596.9"
+        "x": "2241.23",
+        "y": "59.2617",
+        "z": "53527.7"
     },
     {
         "gameName": "huntsville",
         "realName": "Huntsville",
         "country": "huntsville",
-        "x": "3270.67",
-        "y": "96.3945",
-        "z": "46596.9"
+        "x": "1132.03",
+        "y": "70",
+        "z": "45913.7"
     },
     {
         "gameName": "huron",
@@ -2594,17 +2612,17 @@ var cities = [
         "gameName": "junction",
         "realName": "Junction",
         "country": "junction",
-        "x": "-21590.8",
-        "y": "28.3667",
-        "z": "47438.6"
+        "x": "-18677.4",
+        "y": "109",
+        "z": "48348.2"
     },
     {
         "gameName": "junction",
         "realName": "Junction",
         "country": "kerrville",
-        "x": "-21590.8",
-        "y": "28.3667",
-        "z": "47438.6"
+        "x": "-18677.4",
+        "y": "109",
+        "z": "48348.2"
     },
     {
         "gameName": "kalispell",
@@ -2658,9 +2676,9 @@ var cities = [
         "gameName": "laredo",
         "realName": "Laredo",
         "country": "laredo",
-        "x": "-18046",
-        "y": "58.2648",
-        "z": "64849.8"
+        "x": "-17886.8",
+        "y": "84.3398",
+        "z": "65567.3"
     },
     {
         "gameName": "las_vegas",
@@ -2738,9 +2756,9 @@ var cities = [
         "gameName": "lubbock",
         "realName": "Lubbock",
         "country": "lubbock",
-        "x": "-26420.1",
-        "y": "122.629",
-        "z": "29984"
+        "x": "-27321",
+        "y": "98.7305",
+        "z": "30001.9"
     },
     {
         "gameName": "ludlow",
@@ -2754,9 +2772,9 @@ var cities = [
         "gameName": "lufkin",
         "realName": "Lufkin",
         "country": "lufkin",
-        "x": "10018.67",
-        "y": "37.2571",
-        "z": "42513.6"
+        "x": "5703.92",
+        "y": "101.668",
+        "z": "42729.5"
     },
     {
         "gameName": "monterey",
@@ -2970,17 +2988,17 @@ var cities = [
         "gameName": "san_angelo",
         "realName": "San Angelo",
         "country": "san_angelo",
-        "x": "-20393",
-        "y": "77.1016",
-        "z": "42702.7"
+        "x": "-20629.6",
+        "y": "77",
+        "z": "42453.9"
     },
     {
         "gameName": "san_antonio",
         "realName": "San Antonio",
         "country": "san_antonio",
-        "x": "-13559.3",
-        "y": "94.2344",
-        "z": "54068.2"
+        "x": "-12756.9",
+        "y": "60",
+        "z": "54107.3"
     },
     {
         "gameName": "san_clemente",
@@ -3122,9 +3140,9 @@ var cities = [
         "gameName": "tyler",
         "realName": "Tyler",
         "country": "tyler",
-        "x": "2811.19",
-        "y": "85",
-        "z": "36532.7"
+        "x": "3338.86",
+        "y": "76.7148",
+        "z": "37689.5"
     },
     {
         "gameName": "ukiah",
@@ -3162,9 +3180,9 @@ var cities = [
         "gameName": "zapata",
         "realName": "Zapata",
         "country": "zapata",
-        "x": "-15046",
+        "x": "-16817",
         "y": "58.2648",
-        "z": "69849.8"
+        "z": "69694"
     },
     {
         "gameName": "cody",
@@ -3186,17 +3204,17 @@ var cities = [
         "gameName": "corsicana",
         "realName": "Corsicana",
         "country": "dallas_fort_worth",
-        "x": "-554.41",
+        "x": "-2120.1",
         "y": "26.756",
-        "z": "40237.4"
+        "z": "38715.8"
     },
     {
         "gameName": "corpus_christi",
         "realName": "Corpus Christi",
         "country": "corpus_christi",
-        "x": "-7508.78",
-        "y": "11.7572",
-        "z": "63160.7"
+        "x": "-7054.73",
+        "y": "56.4297",
+        "z": "63483.4"
     },
     {
         "gameName": "crescent_city",
@@ -3258,9 +3276,9 @@ var cities = [
         "gameName": "midland_odessa",
         "realName": "Midland",
         "country": "midland_odessa",
-        "x": "-29614.5",
-        "y": "31.6219",
-        "z": "38784.6"
+        "x": "-30038.8",
+        "y": "95.0156",
+        "z": "39628.2"
     },
     {
         "gameName": "newport",
@@ -3426,9 +3444,9 @@ var cities = [
         "gameName": "waco",
         "realName": "Waco",
         "country": "waco",
-        "x": "-5471.96",
-        "y": "38.032",
-        "z": "42075.4"
+        "x": "-5465.2",
+        "y": "113.414",
+        "z": "42150.9"
     },
     {
         "gameName": "wallace",
@@ -3466,9 +3484,9 @@ var cities = [
         "gameName": "wichita_falls",
         "realName": "Wichita Falls",
         "country": "wichita_falls",
-        "x": "-11367.6",
-        "y": "117.089",
-        "z": "28539.2"
+        "x": "-11670.6",
+        "y": "108.219",
+        "z": "29060.8"
     },
     {
         "gameName": "yakima",
@@ -3610,9 +3628,9 @@ var cities = [
         "gameName": "van_horn",
         "realName": "Van Horn",
         "country": "van_horn",
-        "x": "-43330.6",
-        "y": "102.016",
-        "z": "43353.5"
+        "x": "-42493.9",
+        "y": "160.617",
+        "z": "43206.2"
     },
     {
         "gameName": "vernal",
@@ -3626,9 +3644,9 @@ var cities = [
         "gameName": "victoria",
         "realName": "Victoria",
         "country": "victoria",
-        "x": "-3982.68",
-        "y": "53.4273",
-        "z": "56897.1"
+        "x": "-5242.46",
+        "y": "109",
+        "z": "57336.1"
     },
     {
         "gameName": "victorville",
@@ -3698,9 +3716,9 @@ var cities = [
         "gameName": "kerrville",
         "realName": "Kerrville",
         "country": "kerrville",
-        "x": "-17590.8",
+        "x": "-14961.3",
         "y": "28.3667",
-        "z": "48438.6"
+        "z": "50465.2"
     },
     {
         "gameName": "ketchum",
@@ -3722,9 +3740,9 @@ var cities = [
         "gameName": "mcallen_brownsville",
         "realName": "Rio Grande Valley",
         "country": "mcallen_brownsville",
-        "x": "-9908.78",
-        "y": "11.7572",
-        "z": "76160.7"
+        "x": "-9231.4",
+        "y": "52",
+        "z": "75669.1"
     },
     {
         "gameName": "mccall",
@@ -3778,9 +3796,9 @@ var cities = [
         "gameName": "buffalo_tx",
         "realName": "Buffalo",
         "country": "buffalo_tx",
-        "x": "2811.19",
+        "x": "405.907",
         "y": "85",
-        "z": "41532.7"
+        "z": "41963.2"
     },
     {
         "gameName": "burlington",
@@ -3802,25 +3820,25 @@ var cities = [
         "gameName": "dallas_fort_worth",
         "realName": "Dallas/Fort Worth",
         "country": "dallas_fort_worth",
-        "x": "-4189.34",
-        "y": "89.9727",
-        "z": "34999.3"
+        "x": "-5002.56",
+        "y": "109.035",
+        "z": "34026.8"
     },
     {
         "gameName": "dalhart",
         "realName": "Dalhart",
         "country": "dalhart",
-        "x": "-29602.4",
-        "y": "137.168",
-        "z": "15561.6"
+        "x": "-30010.5",
+        "y": "101.156",
+        "z": "15794.6"
     },
     {
         "gameName": "dalhart",
         "realName": "Dalhart",
         "country": "amarillo",
-        "x": "-29602.4",
-        "y": "137.168",
-        "z": "15561.6"
+        "x": "-30010.5",
+        "y": "101.156",
+        "z": "15794.6"
     },
     {
         "gameName": "dateland",
@@ -3834,9 +3852,9 @@ var cities = [
         "gameName": "del_rio",
         "realName": "Del Rio",
         "country": "del_rio",
-        "x": "-23954",
-        "y": "71.6925",
-        "z": "53880"
+        "x": "-24072.4",
+        "y": "68.1016",
+        "z": "54249.9"
     },
     {
         "gameName": "delta",
@@ -3882,9 +3900,9 @@ var cities = [
         "gameName": "fort_stockton",
         "realName": "Fort Stockton",
         "country": "fort_stockton",
-        "x": "-33199.1",
-        "y": "38.92",
-        "z": "44892.6"
+        "x": "-33656.9",
+        "y": "109",
+        "z": "44642.2"
     },
     {
         "gameName": "glenwood_springs",
