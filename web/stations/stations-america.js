@@ -3930,6 +3930,11 @@ var stations = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kdxxfmaac-imc1"
         },
         {
+            name: "La Poderosa 540",
+            logo: "stations/images-america/texas/dallas_fort_worth/La Poderosa 540.png",
+            url: "http://38.96.148.253:5978/;"
+        },
+        {
             name: "KLIF 570",
             logo: "stations/images-america/texas/dallas_fort_worth/KLIF 96.3-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
@@ -15870,6 +15875,128 @@ var stations = {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
             url: "https://ice6.securenetsystems.net/KRAIAM"
+        },
+    ],
+	"stephenville": [
+        {
+            name: "3ABN 89.1",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "https://war.streamguys1.com:7185/live"
+        },
+        {
+            name: "Pure Country 89.5",
+            logo: "stations/images-america/texas/stephenville/Pure Country 89.5.png",
+            url: "https://ice23.securenetsystems.net/QXFM"
+        },
+        {
+            name: "Chuck FM 89.9",
+            logo: "stations/images-america/texas/stephenville/Chuck FM 89.9.png",
+            url: "https://ice23.securenetsystems.net/CHUCKFM"
+        },	
+        {
+            name: "KTRL 90.5",
+            logo: "stations/images-america/texas/stephenville/KTRL 90.5.png",
+            url: "https://kxtr.streamguys1.com/live2-aac"
+        },
+        {
+            name: "92.1 Hank FM",
+            logo: "stations/images-america/texas/stephenville/92.1 Hank FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTFWFMAAC_SC"
+        },
+        {
+            name: "The Mighty 93",
+            logo: "stations/images-america/texas/stephenville/The Mighty 93.png",
+            url: "https://www.ophanim.net:8444/s/7340"
+        },	
+        {
+            name: "Fiesta 93.9",
+            logo: "stations/images-america/texas/stephenville/Fiesta.png",
+            url: "https://www.streamcontrol.net:8444/s/14070"
+        },
+        {
+            name: "KYOX 94.3",
+            logo: "stations/images-america/texas/stephenville/KYOX 94.3.png",
+            url: "https://www.ophanim.net:8444/s/7350"
+        },
+        {
+            name: "K-HITS 95.5",
+            logo: "stations/images-america/texas/stephenville/K-HITS 95.5.png",
+            url: "https://ice41.securenetsystems.net/KOME"
+        },
+        {
+            name: "95.9 The Ranch",
+            logo: "stations/images-america/texas/stephenville/95.9 The Ranch.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFWRFMAAC_SC"
+        },
+        {
+            name: "KWBY 98.5",
+            logo: "stations/images-america/texas/stephenville/KWBY 98.5.png",
+            url: "http://mm.txol.net:8004/radio3"
+        },
+        {
+            name: "100.7 KXTR",
+            logo: "stations/images-america/texas/stephenville/100.7 KXTR.png",
+            url: "https://kxtr.streamguys1.com/live-aac"
+        },
+        {
+            name: "Latino Mix 107.1",
+            logo: "stations/images-america/texas/dallas_fort_worth/Latino Mix 107.9.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-kdxxfmaac-imc1"
+        },
+        {
+            name: "KCBN 107.7",
+            logo: "stations/images-america/texas/dallas_fort_worth/90.9 KCBI.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBIFMAAC_SC"
+        },
+        {
+            name: "La Poderosa 540",
+            logo: "stations/images-america/texas/dallas_fort_worth/La Poderosa 540.png",
+            url: "http://38.96.148.253:5978/;"
+        },
+        {
+            name: "KLIF 570",
+            logo: "stations/images-america/texas/dallas_fort_worth/KLIF 96.3-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
+        },
+        {
+            name: "660 AM The Answer",
+            logo: "stations/images-america/texas/dallas_fort_worth/660 AM The Answer.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
+        },
+        {
+            name: "The Truth 770",
+            logo: "stations/images-america/texas/dallas_fort_worth/The Truth 770.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/770AM_GOD_COUNTRYAAC_SC"
+        },
+        {
+            name: "WBAP 820",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP 99.5-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
+        },
+        {
+            name: "BizTalkRadio 870",
+            logo: "stations/images-america/texas/dallas_fort_worth/BizTalkRadio 870.png",
+            url: "http://64.78.234.165:8030/BizTalkRadio"
+        },
+        {
+            name: "BIN 970",
+            logo: "stations/images-america/texas/dallas_fort_worth/BIN 1630.png",
+            url: "http://stream.revma.ihrhls.com/zc8821/hls.m3u8"
+        },
+        {
+            name: "Talk Radio 1190",
+            logo: "stations/images-america/texas/dallas_fort_worth/Talk Radio 1190.png",
+            url: "https://stream.revma.ihrhls.com/zc4276/hls.m3u8"
+        },
+        {
+            name: "1310 The Ticket",
+            logo: "stations/images-america/texas/dallas_fort_worth/1310 The Ticket.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC_SC"
+        },
+        {
+            name: "Fiesta 1510",
+            logo: "stations/images-america/texas/stephenville/Fiesta.png",
+            url: "http://www.streamcontrol.net:8444/s/14070"
         },
     ],
 	"sterling": [

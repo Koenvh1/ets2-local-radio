@@ -9,7 +9,7 @@ var country_properties = {
         name: "Abilene",
         name_english: "Abilene",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "alamogordo": {
         name: "Alamogordo",
@@ -489,7 +489,7 @@ var country_properties = {
         name: "Guthrie",
         name_english: "Guthrie",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "helena": {
         name: "Helena",
@@ -1000,6 +1000,12 @@ var country_properties = {
         name_english: "Steamboat Springs",
         code: "us-co",
         relative_radius: 0.7
+    },
+    "stephenville": {
+        name: "Stephenville",
+        name_english: "Stephenville",
+        code: "us-tx",
+        relative_radius: 0.6
     },
     "sterling": {
         name: "Sterling",
@@ -1614,7 +1620,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "junction": {
-		relative_radius: 0.6,
+		relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "kalispell": {
@@ -1756,7 +1762,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "ozona": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "page": {
         relative_whitenoise: 0.85
@@ -1863,6 +1869,9 @@ var city_properties = {
     },
     "steamboat_sp": {
         relative_whitenoise: 0.85
+    },
+    "stephenville": {
+        relative_whitenoise: 0.95
     },
     "sterling": {
         relative_whitenoise: 0.90
@@ -2804,9 +2813,9 @@ var cities = [
         "gameName": "ozona",
         "realName": "Ozona",
         "country": "ozona",
-        "x": "-25590.8",
+        "x": "-24814.7",
         "y": "28.3667",
-        "z": "46438.6"
+        "z": "46422.9"
     },
     {
         "gameName": "page",
@@ -3700,9 +3709,9 @@ var cities = [
         "gameName": "guthrie",
         "realName": "Guthrie",
         "country": "guthrie",
-        "x": "-19420.1",
+        "x": "-19943.8",
         "y": "122.629",
-        "z": "29984"
+        "z": "29604.5"
     },
     {
         "gameName": "idaho_falls",
@@ -3900,9 +3909,9 @@ var cities = [
         "gameName": "fort_stockton",
         "realName": "Fort Stockton",
         "country": "fort_stockton",
-        "x": "-33656.9",
+        "x": "-33554.3",
         "y": "109",
-        "z": "44642.2"
+        "z": "45384.6"
     },
     {
         "gameName": "glenwood_springs",
@@ -3975,6 +3984,14 @@ var cities = [
         "x": "-46238.9",
         "y": "256.355",
         "z": "-11100.9"
+    },
+    {
+        "gameName": "stephenville",
+        "realName": "Stephenville",
+        "country": "stephenville",
+        "x": "-10991.5",
+        "y": "80.7719",
+        "z": "38021.7"
     },
     {
         "gameName": "sterling",
@@ -7258,7 +7275,7 @@ var country_properties_c2c = {
         name: "elk_city",
         name_english: "elk_city",
         code: "us-ok",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "enid": {
         name: "Enid",
