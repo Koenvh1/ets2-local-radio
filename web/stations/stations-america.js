@@ -2267,6 +2267,16 @@ var stations = {
             url: "https://ice8.securenetsystems.net/KXYL"
         },
         {
+            name: "WBAP 820",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
+        },
+        {
+            name: "KCLW 900",
+            logo: "stations/images-america/texas/brownwood/KCLW 900.png",
+            url: "https://5fb8e21f6b1ee.streamlock.net:4443/KCLW/stream1/playlist.m3u8"
+        },
+        {
             name: "1240 KXYL",
             logo: "stations/images-america/texas/brownwood/102.3 KXYL.png",
             url: "http://ice8.securenetsystems.net/KXYL"
@@ -2275,6 +2285,11 @@ var stations = {
             name: "Magic 1380",
             logo: "stations/images-america/texas/brownwood/Magic 1380.png",
             url: "http://ice8.securenetsystems.net/KBWD"
+        },
+        {
+            name: "1550 KCOM",
+            logo: "stations/images-america/texas/brownwood/1550 KCOM.png",
+            url: "https://www.streamcontrol.net:8444/s/16120"
         },
     ],
     "buffalo_tx": [
@@ -3805,8 +3820,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFMAAC_SC"
         },
         {
-            name: "WBAP 99.5-HD2",
-            logo: "stations/images-america/texas/dallas_fort_worth/WBAP 99.5-HD2.png",
+            name: "99.5-HD2 WBAP",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC"
         },
         {
@@ -3961,7 +3976,7 @@ var stations = {
         },
         {
             name: "WBAP 820",
-            logo: "stations/images-america/texas/dallas_fort_worth/WBAP 99.5-HD2.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
         },
         {
@@ -5819,7 +5834,7 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KDAE"
         },
         {
-            name: "Radio Vida Vision 91.5",
+            name: "Radio Vida Visión 91.5",
             logo: "stations/images-america/texas/freer/Radio Vida Vision 91.5.png",
             url: "http://www.christianworldmedia.com/live/hls/3597/3539/master.m3u8"
         },
@@ -11370,7 +11385,7 @@ var stations = {
         },
         {
             name: "WBAP 820",
-            logo: "stations/images-america/texas/dallas_fort_worth/WBAP 99.5-HD2.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC"
         },
         {
@@ -16042,7 +16057,7 @@ var stations = {
         },
         {
             name: "WBAP 820",
-            logo: "stations/images-america/texas/dallas_fort_worth/WBAP 99.5-HD2.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
         },
         {
@@ -17021,7 +17036,7 @@ var stations = {
         },
         {
             name: "WBAP 820",
-            logo: "stations/images-america/texas/dallas_fort_worth/WBAP 99.5-HD2.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC"
         },
         {

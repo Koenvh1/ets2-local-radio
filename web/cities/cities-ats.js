@@ -1233,7 +1233,7 @@ var country_properties = {
         name: "Waco",
         name_english: "Waco",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "wallace": {
         name: "Wallace",
