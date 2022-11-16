@@ -137,12 +137,6 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.9
     },
-    "brady": {
-        name: "Brady",
-        name_english: "Brady",
-        code: "us-tx",
-        relative_radius: 0.5
-    },
     "brawley": {
         name: "Brawley",
         name_english: "Brawley",
@@ -154,6 +148,12 @@ var country_properties = {
         name_english: "Broadus",
         code: "us-mt",
         relative_radius: 0.6
+    },
+    "brownwood": {
+        name: "Brownwood",
+        name_english: "Brownwood",
+        code: "us-tx",
+        relative_radius: 0.5
     },
     "buffalo_tx": {
         name: "Buffalo",
@@ -321,7 +321,7 @@ var country_properties = {
         name: "Del Rio/Cd. Acuña",
         name_english: "Del Rio/Cd. Acuña",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "deming": {
         name: "Deming",
@@ -345,7 +345,7 @@ var country_properties = {
         name: "Eagle Pass/Piedras Negras",
         name_english: "Eagle Pass/Piedras Negras",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "ehrenberg": {
         name: "Ehrenberg",
@@ -423,6 +423,12 @@ var country_properties = {
         name: "Freedom",
         name_english: "Freedom",
         code: "us-wy",
+        relative_radius: 0.5
+    },
+    "freer": {
+        name: "Freer",
+        name_english: "Freer",
+        code: "us-tx",
         relative_radius: 0.5
     },
     "fresno": {
@@ -555,7 +561,7 @@ var country_properties = {
         name: "Junction",
         name_english: "Junction",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "kalispell": {
         name: "Kalispell",
@@ -585,7 +591,7 @@ var country_properties = {
         name: "Kerrville",
         name_english: "Kerrville",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "ketchum": {
         name: "Ketchum",
@@ -633,7 +639,7 @@ var country_properties = {
         name: "Laredo/Nvo. Laredo",
         name_english: "Laredo/Nvo. Laredo",
         code: "us-tx",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "las_cruces": {
         name: "Las Cruces",
@@ -723,7 +729,7 @@ var country_properties = {
         name: "Rio Grande Valley",
         name_english: "Rio Grande Valley",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 1.2
     },
     "mccall": {
         name: "McCall",
@@ -1281,7 +1287,7 @@ var country_properties = {
         name: "Zapata",
         name_english: "Zapata",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "arizona": {
         name: "Arizona",
@@ -1384,9 +1390,6 @@ var city_properties = {
     "bozeman": {
         relative_whitenoise: 0.95
     },
-    "brady": {
-        relative_whitenoise: 0.95
-    },
     "brawley": {
 		relative_radius: 0.8,
         relative_whitenoise: 0.95
@@ -1394,6 +1397,9 @@ var city_properties = {
     "broadus": {
 		relative_radius: 0.9,
         relative_whitenoise: 0.85
+    },
+    "brownwood": {
+        relative_whitenoise: 0.95
     },
     "buffalo_tx": {
         relative_whitenoise: 0.95
@@ -1544,6 +1550,9 @@ var city_properties = {
     "freedom": {
         relative_whitenoise: 0.85
     },
+    "freer": {
+        relative_whitenoise: 0.95
+    },
     "fresno": {
         relative_whitenoise: 0.85
     },
@@ -1620,7 +1629,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "junction": {
-		relative_radius: 0.8,
+		relative_radius: 1.2,
         relative_whitenoise: 0.95
     },
     "kalispell": {
@@ -1717,7 +1726,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "mcallen_brownsville": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.9
     },
     "mccall": {
         relative_whitenoise: 0.85
@@ -2218,14 +2227,6 @@ var cities = [
         "z": "-41966.3"
     },
     {
-        "gameName": "brady",
-        "realName": "Brady",
-        "country": "brady",
-        "x": "-14593",
-        "y": "77.1016",
-        "z": "45202.7"
-    },
-    {
         "gameName": "brawley",
         "realName": "Brawley",
         "country": "brawley",
@@ -2256,6 +2257,14 @@ var cities = [
         "x": "-37438.1",
         "y": "87.7157",
         "z": "-39430.3"
+    },
+    {
+        "gameName": "brownwood",
+        "realName": "Brownwood",
+        "country": "brownwood",
+        "x": "-14710.9",
+        "y": "51.9717",
+        "z": "41271.9"
     },
     {
         "gameName": "burns",
@@ -2397,9 +2406,9 @@ var cities = [
         "gameName": "eagle_pass",
         "realName": "Eagle Pass/Piedras Negras",
         "country": "eagle_pass",
-        "x": "-21046",
+        "x": "-22270.2",
         "y": "58.2648",
-        "z": "58849.8"
+        "z": "57994.2"
     },
     {
         "gameName": "ehrenberg",
@@ -2506,6 +2515,14 @@ var cities = [
         "z": "-26921.5"
     },
     {
+        "gameName": "freer",
+        "realName": "Freer",
+        "country": "freer",
+        "x": "-13322",
+        "y": "20.8525",
+        "z": "62735.9"
+    },
+    {
         "gameName": "fresno",
         "realName": "Fresno",
         "country": "fresno",
@@ -2581,9 +2598,9 @@ var cities = [
         "gameName": "houston",
         "realName": "Houston",
         "country": "houston",
-        "x": "2241.23",
+        "x": "2575.22",
         "y": "59.2617",
-        "z": "53527.7"
+        "z": "52629.5"
     },
     {
         "gameName": "huntsville",
@@ -2685,9 +2702,9 @@ var cities = [
         "gameName": "laredo",
         "realName": "Laredo",
         "country": "laredo",
-        "x": "-17886.8",
+        "x": "-18130.7",
         "y": "84.3398",
-        "z": "65567.3"
+        "z": "64101.5"
     },
     {
         "gameName": "las_vegas",
@@ -3749,9 +3766,9 @@ var cities = [
         "gameName": "mcallen_brownsville",
         "realName": "Rio Grande Valley",
         "country": "mcallen_brownsville",
-        "x": "-9231.4",
+        "x": "-10372.3",
         "y": "52",
-        "z": "75669.1"
+        "z": "74038.6"
     },
     {
         "gameName": "mccall",
@@ -3861,9 +3878,9 @@ var cities = [
         "gameName": "del_rio",
         "realName": "Del Rio",
         "country": "del_rio",
-        "x": "-24072.4",
+        "x": "-24782.2",
         "y": "68.1016",
-        "z": "54249.9"
+        "z": "53833.6"
     },
     {
         "gameName": "delta",

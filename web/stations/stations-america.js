@@ -2176,58 +2176,6 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmmsamaac-ibc3"
         },
     ],
-    "brady": [
-        {
-            name: "KNEL 95.3",
-            logo: "stations/images-america/texas/brady/KNEL 95.3.png",
-            url: "https://us9.maindigitalstream.com/ssl/KNELFM"
-        },
-        {
-            name: "The Breeze 96.9",
-            logo: "stations/images-america/texas/brady/The Breeze 96.9.png",
-            url: "https://ice5.securenetsystems.net/KQBZ"
-        },
-        {
-            name: "98.7 KISS FM",
-            logo: "stations/images-america/texas/san_angelo/98.7 KISS FM.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kelifmaac-ibc3"
-        },
-        {
-            name: "KPSM 99.3",
-            logo: "stations/images-america/texas/brady/KPSM 99.3.png",
-            url: "https://ic1.sslstream.com/kpsm-fm"
-        },
-        {
-            name: "KOXE 101.3",
-            logo: "stations/images-america/texas/brady/KOXE 101.3.png",
-            url: "https://ice41.securenetsystems.net/KOXE"
-        },
-        {
-            name: "102.3 KXYL",
-            logo: "stations/images-america/texas/brady/102.3 KXYL.png",
-            url: "https://ice8.securenetsystems.net/KXYL"
-        },
-        {
-            name: "Lone Star 102.5",
-            logo: "stations/images-america/texas/kerrville/Lone Star 102.5.png",
-            url: "https://ice42.securenetsystems.net/KHLB"
-        },
-        {
-            name: "Sun Radio 104.1",
-            logo: "stations/images-america/0_general_logos/Sun Radio.png",
-            url: "https://ice10.securenetsystems.net/SUNRADIO"
-        },
-        {
-            name: "ESPN 960",
-            logo: "stations/images-america/texas/san_angelo/ESPN 960.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kgklamaac-ibc3"
-        },
-        {
-            name: "KNEL 1490",
-            logo: "stations/images-america/texas/brady/KNEL 95.3.png",
-            url: "https://us9.maindigitalstream.com/ssl/KNELAM"
-        },
-    ],
     "brawley": [
         {
             name: "Radio Bilingüe 88.7",
@@ -2275,6 +2223,58 @@ var stations = {
             name: "BIG 81",
             logo: "stations/images-america/c2c/rapid_city_sd/BIG 81.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/homeslice-kbhbamaac-ibc4"
+        },
+    ],
+    "brownwood": [
+        {
+            name: "KHBW 89.3",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
+            name: "KBUB 90.3",
+            logo: "stations/images-america/texas/brownwood/KBUB 90.3.png",
+            url: "https://ic1.sslstream.com/kbub-fm"
+        },
+        {
+            name: "GBN 90.9",
+            logo: "stations/images-america/texas/brownwood/GBN 90.9.png",
+            url: "https://radio.truth.fm:8000/gbn"
+        },
+        {
+            name: "KYOX 94.3",
+            logo: "stations/images-america/texas/stephenville/KYOX 94.3.png",
+            url: "https://www.ophanim.net:8444/s/7350"
+        },
+        {
+            name: "The Breeze 96.9",
+            logo: "stations/images-america/texas/brownwood/The Breeze 96.9.png",
+            url: "https://ice5.securenetsystems.net/KQBZ"
+        },
+        {
+            name: "KPSM 99.3",
+            logo: "stations/images-america/texas/brownwood/KPSM 99.3.png",
+            url: "https://ic1.sslstream.com/kpsm-fm"
+        },
+        {
+            name: "KOXE 101.3",
+            logo: "stations/images-america/texas/brownwood/KOXE 101.3.png",
+            url: "https://ice41.securenetsystems.net/KOXE"
+        },
+        {
+            name: "102.3 KXYL",
+            logo: "stations/images-america/texas/brownwood/102.3 KXYL.png",
+            url: "https://ice8.securenetsystems.net/KXYL"
+        },
+        {
+            name: "1240 KXYL",
+            logo: "stations/images-america/texas/brownwood/102.3 KXYL.png",
+            url: "http://ice8.securenetsystems.net/KXYL"
+        },
+        {
+            name: "Magic 1380",
+            logo: "stations/images-america/texas/brownwood/Magic 1380.png",
+            url: "http://ice8.securenetsystems.net/KBWD"
         },
     ],
     "buffalo_tx": [
@@ -5810,6 +5810,78 @@ var stations = {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
             url: "https://ice9.securenetsystems.net/KVNU"
+        },
+    ],
+    "freer": [
+        {
+            name: "Radio Libertad 89.1",
+            logo: "stations/images-america/texas/corpus_christi/Radio Libertad.png",
+            url: "https://ice42.securenetsystems.net/KDAE"
+        },
+        {
+            name: "Radio Vida Vision 91.5",
+            logo: "stations/images-america/texas/freer/Radio Vida Vision 91.5.png",
+            url: "http://www.christianworldmedia.com/live/hls/3597/3539/master.m3u8"
+        },
+        {
+            name: "NotiGAPE 98.7",
+            logo: "stations/images-america/0_general_logos/NotiGAPE.png",
+            url: "https://ice42.securenetsystems.net/KRRGHD2"
+        },
+        {
+            name: "Norteño 104.1",
+            logo: "stations/images-america/texas/san_antonio/Norteño 104.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ksahfmaac-ibc4"
+        },
+        {
+            name: "550 KTSA",
+            logo: "stations/images-america/texas/san_antonio/107.1 KTSA.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.wostreaming.net/direct/alphacorporate-ktsaamaac-ibc4"
+        },
+        {
+            name: "680 KKYX",
+            logo: "stations/images-america/texas/san_antonio/104.9 KKYX.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://cmg.streamguys1.com/san680/san680-sgplayer-aac"
+        },
+        {
+            name: "Norteño 720",
+            logo: "stations/images-america/texas/san_antonio/Norteño 104.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.wostreaming.net/direct/alphacorporate-ksahfmaac-ibc4"
+        },
+        {
+            name: "Ticket 760",
+            logo: "stations/images-america/texas/san_antonio/Ticket 760.png",
+            url: "https://stream.revma.ihrhls.com/zc2353/hls.m3u8"
+        },
+        {
+            name: "86 KONO",
+            logo: "stations/images-america/texas/san_antonio/86 KONO.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://cmg.streamguys1.com/san860/san860-sgplayer-aac"
+        },
+        {
+            name: "La Radio Cristiana 890",
+            logo: "stations/images-america/0_general_logos/La Radio Cristiana.png",
+            url: "http://s2.voscast.com:9758/;"
+        },
+        {
+            name: "XEK-AM 960",
+            logo: "stations/images-america/texas/laredo/La Raza 90.9.png",
+            url: "https://ice42.securenetsystems.net/XHBKFM"
+        },
+        {
+            name: "KCTA AM 1030",
+            logo: "stations/images-america/texas/corpus_christi/KCTA AM 1030.png",
+            url: "https://ais-sa1.streamon.fm/7170_24k.aac"
+        },
+        {
+            name: "KCCT 1150",
+            logo: "stations/images-america/texas/corpus_christi/Retro 104.1.png",
+            url: "http://ice41.securenetsystems.net/KCCT"
+        },
+        {
+            name: "1200 WOAI",
+            logo: "stations/images-america/texas/san_antonio/1200 WOAI.png",
+            url: "https://stream.revma.ihrhls.com/zc2361/hls.m3u8"
         },
     ],
     "fresno": [
