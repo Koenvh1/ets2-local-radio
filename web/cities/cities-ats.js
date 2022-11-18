@@ -287,6 +287,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 1.0
     },
+    "cotulla": {
+        name: "Cotulla",
+        name_english: "Cotulla",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "crescent_city": {
         name: "Crescent City",
         name_english: "Crescent City",
@@ -1480,6 +1486,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "corpus_christi": {
+        relative_whitenoise: 0.95
+    },
+    "cotulla": {
         relative_whitenoise: 0.95
     },
     "crescent_city": {
@@ -3250,6 +3259,14 @@ var cities = [
         "x": "-7054.73",
         "y": "56.4297",
         "z": "63483.4"
+    },
+    {
+        "gameName": "cotulla",
+        "realName": "Cotulla",
+        "country": "cotulla",
+        "x": "-16758.7",
+        "y": "14.71",
+        "z": "58529.4"
     },
     {
         "gameName": "crescent_city",

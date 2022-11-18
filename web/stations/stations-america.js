@@ -3661,6 +3661,58 @@ var stations = {
             url: "https://radio.weatherusa.net/NWR/KHB41_2.mp3"
         },
     ],
+    "cotulla": [
+        {
+            name: "Radio Bilingüe 90.7",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "92.5 The Bull",
+            logo: "stations/images-america/texas/san_antonio/93.3 The Bull.png",
+            url: "https://stream.revma.ihrhls.com/zc6168/hls.m3u8"
+        },
+        {
+            name: "La Cruz Radio 93.7",
+            logo: "stations/images-america/texas/cotulla/La Cruz Radio 93.7.png",
+            url: "https://c15.radioboss.fm:18554/stream"
+        },
+        {
+            name: "KLMO 98.9",
+            logo: "stations/images-america/texas/cotulla/KLMO 98.9.png",
+            url: "http://streaming.live365.com/a13945"
+        },
+        {
+            name: "Radio Vocem 102.1",
+            logo: "stations/images-america/texas/cotulla/Radio Vocem 102.1.png",
+            url: "https://streamer.radio.co/s8f3877991/listen"
+        },
+        {
+            name: "Norteño 104.1",
+            logo: "stations/images-america/texas/san_antonio/Norteño 104.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/alphacorporate-ksahfmaac-ibc4"
+        },
+        {
+            name: "550 KTSA",
+            logo: "stations/images-america/texas/san_antonio/107.1 KTSA.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.wostreaming.net/direct/alphacorporate-ktsaamaac-ibc4"
+        },
+        {
+            name: "680 KKYX",
+            logo: "stations/images-america/texas/san_antonio/104.9 KKYX.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://cmg.streamguys1.com/san680/san680-sgplayer-aac"
+        },
+        {
+            name: "Ticket 760",
+            logo: "stations/images-america/texas/san_antonio/Ticket 760.png",
+            url: "https://stream.revma.ihrhls.com/zc2353/hls.m3u8"
+        },
+        {
+            name: "La Radio Cristiana 890",
+            logo: "stations/images-america/0_general_logos/La Radio Cristiana.png",
+            url: "http://s2.voscast.com:9758/;"
+        },
+    ],
     "crescent_city": [
         {
             name: "JPR Classics & News 88.3",
@@ -17814,8 +17866,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOLIFMAAC_SC"
         },
         {
-            name: "95.5 Hank FM",
-            logo: "stations/images-america/texas/wichita_falls/95.5 Hank FM.png",
+            name: "K-HITS 95.5",
+            logo: "stations/images-america/texas/wichita_falls/K-HITS 95.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTFWFMAAC_SC"
         },
         {
