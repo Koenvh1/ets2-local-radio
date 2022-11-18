@@ -15118,6 +15118,93 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KDRI"
         },
     ],
+    "schulenburg": [
+        {
+            name: "KTIM 89.1",
+            logo: "stations/images-america/texas/schulenburg/KTIM 89.1.png",
+            url: "https://nustream.pacificaservice.org:9000/ktim_128"
+        },
+        {
+            name: "92.3 KNRG",
+            logo: "stations/images-america/texas/schulenburg/92.3 KNRG.png",
+            url: "http://108.178.13.122:8315/stream"
+        },	
+        {
+            name: "Texas Thunder Radio 94.3",
+            logo: "stations/images-america/texas/schulenburg/Texas Thunder Radio 94.3.png",
+            url: "https://ice5.securenetsystems.net/KYKM"
+        },
+        {
+            name: "Air1 97.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "KULM 98.3",
+            logo: "stations/images-america/texas/schulenburg/KULM 98.3.png",
+            url: "http://184.154.43.106:8404/stream"
+        },
+        {
+            name: "Texas Thunder Radio 99.9",
+            logo: "stations/images-america/texas/schulenburg/Texas Thunder Radio 99.9.png",
+            url: "https://ice5.securenetsystems.net/KTXM"
+        },
+        {
+            name: "KBUK 104.9",
+            logo: "stations/images-america/texas/schulenburg/KBUK 104.9.png",
+            url: "https://ice7.securenetsystems.net/KBUK"
+        },
+        {
+            name: "550 KTSA",
+            logo: "stations/images-america/texas/san_antonio/107.1 KTSA.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.wostreaming.net/direct/alphacorporate-ktsaamaac-ibc4"
+        },
+        {
+            name: "KLBJ 590",
+            logo: "stations/images-america/texas/austin/KLBJ 99.7.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAMAAC_SC"
+        },
+        {
+            name: "Sports Radio 610",
+            logo: "stations/images-america/texas/houston/Sports Radio 610.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
+        },
+        {
+            name: "AM 630 The Word",
+            logo: "stations/images-america/texas/san_antonio/AM 630 The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
+        },
+        {
+            name: "680 KKYX",
+            logo: "stations/images-america/texas/san_antonio/104.9 KKYX.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://cmg.streamguys1.com/san680/san680-sgplayer-aac"
+        },
+        {
+            name: "KSEV 700",
+            logo: "stations/images-america/texas/houston/KSEV 700.png",
+            url: "https://live.wostreaming.net/direct/ksevradio-ksevamaac-ibc1"
+        },
+        {
+            name: "Norteño 720",
+            logo: "stations/images-america/texas/san_antonio/Norteño 104.1.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=http://live.wostreaming.net/direct/alphacorporate-ksahfmaac-ibc4"
+        },
+        {
+            name: "740 KTRH",
+            logo: "stations/images-america/texas/houston/740 KTRH.png",
+            url: "https://stream.revma.ihrhls.com/zc2285/hls.m3u8"
+        },
+        {
+            name: "Saigon Radio 900",
+            logo: "stations/images-america/texas/houston/Saigon Radio 900.png",
+            url: "https://ice5.securenetsystems.net/KREH"
+        },
+        {
+            name: "1200 WOAI",
+            logo: "stations/images-america/texas/san_antonio/1200 WOAI.png",
+            url: "https://stream.revma.ihrhls.com/zc2361/hls.m3u8"
+        },
+    ],
     "seattle": [
         {
             name: "Air1 88.1",

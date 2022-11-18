@@ -995,6 +995,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.4
     },
+    "schulenburg": {
+        name: "Schulenburg",
+        name_english: "Schulenburg",
+        code: "us-tx",
+        relative_radius: 0.4
+    },
     "sheridan": {
         name: "Sheridan",
         name_english: "Sheridan",
@@ -1872,6 +1878,9 @@ var city_properties = {
     },
     "santa_rosa_ca": {
         relative_whitenoise: 0.75
+    },
+    "schulenburg": {
+        relative_whitenoise: 0.95
     },
     "sheridan": {
         relative_whitenoise: 0.85
@@ -3625,6 +3634,14 @@ var cities = [
         "x": "-117954",
         "y": "98.7086",
         "z": "-16022.9"
+    },
+    {
+        "gameName": "schulenburg",
+        "realName": "Schulenburg",
+        "country": "schulenburg",
+        "x": "-4574.02",
+        "y": "14.3862",
+        "z": "52492.1"
     },
     {
         "gameName": "sheridan",
