@@ -26694,6 +26694,11 @@ var stations_c2c = {
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KOKZFMAAC_SC"
         },
         {
+            name: "El Gallo 107.1",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/El Gallo 107.1.png",
+            url: "https://securenetg.com/listen/wlel/radio.aac"
+        },
+        {
             name: "X107.5",
             logo: "stations/images-america/c2c/cedar_rapids_ia/X107.5.png",
             url: "https://live.wostreaming.net/manifest/kziainc-sportsplusaac-ibc2"
@@ -32281,7 +32286,7 @@ var stations_c2c = {
         },
         {
             name: "JoeTown 107.5",
-            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5.png",
+            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5_christmas.png",
             url: "https://live.wostreaming.net/direct/eagleradio-kesjamaac-ibc4"
         },
         {
@@ -43166,7 +43171,7 @@ var stations_canada = {
         },
         {
             name: "104.3 Fresh Radio",
-            logo: "stations/images-america/canada/kingston/104.3 Fresh Radio.png",
+            logo: "stations/images-america/canada/kingston/104.3 Fresh Radio_christmas.png",
             url: "http://live.leanstream.co/CKWSFM"
         },
         {
@@ -43408,7 +43413,7 @@ var stations_canada = {
         },
         {
             name: "103.1 fresh Radio",
-            logo: "stations/images-america/canada/london/103.1 fresh Radio.png",
+            logo: "stations/images-america/canada/london/103.1 fresh Radio_christmas.png",
             url: "https://corus.leanstream.co/CFHKFM"
         },
         {
@@ -43958,7 +43963,7 @@ var stations_canada = {
         },
         {
             name: "101.1 BIG FM",
-            logo: "stations/images-america/canada/orillia/101.1 BIG FM.png",
+            logo: "stations/images-america/canada/orillia/101.1 BIG FM_christmas.png",
             url: "https://corus.leanstream.co/CIQBFM"
         },
         {
