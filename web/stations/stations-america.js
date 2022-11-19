@@ -5806,6 +5806,21 @@ var stations = {
             logo: "stations/images-america/texas/fort_stockton/KFST 94.3.png",
             url: "http://173.193.205.96:7415/stream"
         },
+        {
+            name: "KCRS 550",
+            logo: "stations/images-america/texas/midland_odessa/KCRS.png",
+            url: "https://ice5.securenetsystems.net/KCRSAM"
+        },
+        {
+            name: "KFST 860",
+            logo: "stations/images-america/texas/fort_stockton/KFST 94.3.png",
+            url: "http://173.193.205.96:7415/;"
+        },
+        {
+            name: "KCKM 1330",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
+            url: "https://ice41.securenetsystems.net/KCKM"
+        },
     ],
     "freedom": [
         {

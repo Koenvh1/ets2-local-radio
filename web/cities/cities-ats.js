@@ -123,7 +123,7 @@ var country_properties = {
         name: "Big Spring",
         name_english: "Big Spring",
         code: "us-tx",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "boise": {
         name: "Boise",
@@ -843,7 +843,7 @@ var country_properties = {
         name: "Pecos",
         name_english: "Pecos",
         code: "us-tx",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "phoenix": {
         name: "Phoenix",
@@ -3336,9 +3336,9 @@ var cities = [
         "gameName": "pecos",
         "realName": "Pecos",
         "country": "pecos",
-        "x": "-36384.6",
+        "x": "-36584.6",
         "y": "22.7822",
-        "z": "41734"
+        "z": "41234"
     },
     {
         "gameName": "pendleton",
