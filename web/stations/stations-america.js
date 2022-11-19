@@ -44106,8 +44106,8 @@ var stations_canada = {
             url: "https://corus.leanstream.co/CIQBFM"
         },
         {
-            name: "Bounce Radio 104.1",
-            logo: "stations/images-america/canada/orillia/Bounce Radio 104.1.png",
+            name: "Bounce 104.1",
+            logo: "stations/images-america/canada/orillia/Bounce 104.1.png",
             url: "http://www.atsradiocanada.tk/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICZFMAAC_SC"
         },
         {
