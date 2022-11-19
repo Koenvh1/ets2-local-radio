@@ -1753,7 +1753,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "midland_odessa": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "missoula": {
         relative_whitenoise: 0.95
