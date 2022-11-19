@@ -291,7 +291,7 @@ var country_properties = {
         name: "Cotulla",
         name_english: "Cotulla",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "crescent_city": {
         name: "Crescent City",

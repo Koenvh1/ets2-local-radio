@@ -13173,7 +13173,7 @@ var stations = {
         },
         {
             name: "MIX 96",
-            logo: "stations/images-america/sacramento/Mix 96.png",
+            logo: "stations/images-america/sacramento/Mix 96_christmas.png",
             url: "https://bonneville.cdnstream1.com/2615_48.aac"
         },
         {
@@ -14615,7 +14615,7 @@ var stations = {
         },
         {
             name: "KyXy 96.5",
-            logo: "stations/images-america/san_diego/KyXy 96.5.png",
+            logo: "stations/images-america/san_diego/KyXy 96.5_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kyxyfmaac-imc"
         },
         {
@@ -14949,7 +14949,7 @@ var stations = {
         },
         {
             name: "96.5 KOIT",
-            logo: "stations/images-america/san_francisco/96.5 KOIT.png",
+            logo: "stations/images-america/san_francisco/96.5 KOIT_christmas.png",
             url: "https://bonneville.cdnstream1.com/2624_48.aac"
         },
         {
@@ -15325,7 +15325,7 @@ var stations = {
         },
         {
             name: "94.1 The Sound",
-            logo: "stations/images-america/seattle/94.1 The Sound.png",
+            logo: "stations/images-america/seattle/94.1 The Sound_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
         },
         {
