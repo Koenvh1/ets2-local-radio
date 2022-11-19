@@ -2284,7 +2284,7 @@ var stations = {
         {
             name: "Magic 1380",
             logo: "stations/images-america/texas/brownwood/Magic 1380.png",
-            url: "http://ice8.securenetsystems.net/KBWD"
+            url: "http://ice41.securenetsystems.net/KBWD"
         },
         {
             name: "1550 KCOM",
@@ -2733,7 +2733,7 @@ var stations = {
         {
             name: "KDWN 720",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
+            url: "https://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
         },
         {
             name: "KDXU 890",
@@ -2852,7 +2852,7 @@ var stations = {
         {
             name: "92.1 The Cat",
             logo: "stations/images-america/texas/childress/92.1 The Cat.png",
-            url: "https://ice42.securenetsystems.net/KCTXAM"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice42.securenetsystems.net/KCTXAM"
         },
         {
             name: "93.5 KPRO",
@@ -7696,13 +7696,6 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KSPZ"
         },
     ],
-    "junction": [
-        {
-            name: "Sun Radio 104.1",
-            logo: "stations/images-america/0_general_logos/Sun Radio.png",
-            url: "https://ice10.securenetsystems.net/SUNRADIO"
-        },
-    ],
     "katl": [
         {
             name: "770 KATL",
@@ -7993,14 +7986,19 @@ var stations = {
             url: "https://www.streamcontrol.net:8444/s/16290"
         },
         {
-            name: "Encore 104.9",
-            logo: "stations/images-america/texas/kerrville/Encore 104.9.png",
-            url: "https://ic.streann.com/encoreradio"
+            name: "Sun Radio 104.1",
+            logo: "stations/images-america/0_general_logos/Sun Radio.png",
+            url: "https://ice10.securenetsystems.net/SUNRADIO"
         },
         {
             name: "The Hill Country Patriot 104.3",
             logo: "stations/images-america/texas/kerrville/The Hill Country Patriot 104.3.png",
             url: "https://ice42.securenetsystems.net/KRNHHD2"
+        },
+        {
+            name: "Encore 104.9",
+            logo: "stations/images-america/texas/kerrville/Encore 104.9.png",
+            url: "https://ic.streann.com/encoreradio"
         },
         {
             name: "The River 106.1",
@@ -8144,7 +8142,7 @@ var stations = {
         {
             name: "KDWN 720",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
+            url: "https://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
         },/*
         {
             name: "980 KNTR",
@@ -8815,7 +8813,7 @@ var stations = {
         {
             name: "KDWN 101.5",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
+            url: "https://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
         },
         {
             name: "La Buena 101.9",
@@ -16391,7 +16389,7 @@ var stations = {
         {
             name: "KDWN 720",
             logo: "stations/images-america/las_vegas/KDWN 101.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KDWNAMAAC_SC"
+            url: "https://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
         },
         {
             name: "KDXU 890",

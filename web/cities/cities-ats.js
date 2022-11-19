@@ -759,7 +759,7 @@ var country_properties = {
         name: "Midland/Odessa",
         name_english: "Midland/Odessa",
         code: "us-tx",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "missoula": {
         name: "Missoula",
@@ -2651,14 +2651,6 @@ var cities = [
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
-    },
-    {
-        "gameName": "junction",
-        "realName": "Junction",
-        "country": "junction",
-        "x": "-18677.4",
-        "y": "109",
-        "z": "48348.2"
     },
     {
         "gameName": "junction",
