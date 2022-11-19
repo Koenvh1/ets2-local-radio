@@ -3286,7 +3286,7 @@ var stations = {
         },
         {
             name: "Q102.7",
-            logo: "stations/images-america/colorado_springs_pueblo/Q102.7.png",
+            logo: "stations/images-america/colorado_springs_pueblo/KBIQ_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBIQFMAAC_SC"
         },
         {
@@ -22570,7 +22570,7 @@ var stations_c2c = {
         },
         {
             name: "96.1 WEJZ",
-            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
         },
         {
@@ -33723,7 +33723,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 106.7",
-            logo: "stations/images-america/c2c/elmira_ny/Magic 106.7.png",
+            logo: "stations/images-america/c2c/elmira_ny/Magic 106.7_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice3.securenetsystems.net/WENYFM"
         },
         {
@@ -34338,7 +34338,7 @@ var stations_c2c = {
         },
         {
             name: "WARM 101.3",
-            logo: "stations/images-america/c2c/rochester_ny/WARM 101.3.png",
+            logo: "stations/images-america/c2c/rochester_ny/WARM 101.3_christmas.png",
             url: "https://ice23.securenetsystems.net/WRMM"
         },
         {
@@ -41113,7 +41113,7 @@ var stations_c2c = {
         },
         {
             name: "Q99",
-            logo: "stations/images-america/c2c/roanoke_va/Q99.png",
+            logo: "stations/images-america/c2c/roanoke_va/Q99_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/manifest/wheelerbroadcasting-q99aac-imc1"
         },
         {
@@ -42476,7 +42476,7 @@ var stations_canada = {
         },
         {
             name: "96.3 The Breeze",
-            logo: "stations/images-america/canada/edmonton/96.3 The Breeze.png",
+            logo: "stations/images-america/canada/edmonton/96.3 The Breeze_christmas.png",
             url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CKRAFM"
         },
         {
@@ -42870,7 +42870,7 @@ var stations_canada = {
         },
         {
             name: "96.5 The Breeze",
-            logo: "stations/images-america/canada/halifax/96.5 The Breeze.png",
+            logo: "stations/images-america/canada/halifax/96.5 The Breeze_christmas.png",
             url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CKULFM"
         },
         {
@@ -45505,7 +45505,7 @@ var stations_canada = {
         },
         {
             name: "94.1 The Breeze",
-            logo: "stations/images-america/canada/truro/94.1 The Breeze.png",
+            logo: "stations/images-america/canada/truro/94.1 The Breeze_christmas.png",
             url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CKECFM"
         },
         {
@@ -45637,7 +45637,7 @@ var stations_canada = {
         },
         {
             name: "104.3 The Breeze",
-            logo: "stations/images-america/canada/vancouver/104.3 The Breeze.png",
+            logo: "stations/images-america/canada/vancouver/104.3 The Breeze_christmas.png",
             url: "http://www.atsradiocanada.tk/index.php?ats=https://newcap.leanstream.co/CHLGFM"
         },
         {
