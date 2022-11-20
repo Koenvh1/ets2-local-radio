@@ -123,7 +123,7 @@ var country_properties = {
         name: "Big Spring",
         name_english: "Big Spring",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "boise": {
         name: "Boise",
@@ -711,7 +711,7 @@ var country_properties = {
         name: "Lubbock",
         name_english: "Lubbock",
         code: "us-tx",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "ludlow": {
         name: "Ludlow",
@@ -759,7 +759,7 @@ var country_properties = {
         name: "Midland/Odessa",
         name_english: "Midland/Odessa",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "missoula": {
         name: "Missoula",
@@ -843,7 +843,7 @@ var country_properties = {
         name: "Pecos",
         name_english: "Pecos",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "phoenix": {
         name: "Phoenix",
@@ -1221,7 +1221,7 @@ var country_properties = {
         name: "Van Horn",
         name_english: "Van Horn",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.75
     },
     "vernal": {
         name: "Vernal",
@@ -1394,7 +1394,7 @@ var city_properties = {
     },
     "big_spring": {
         relative_radius: 0.5,
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "boise": {
         relative_whitenoise: 0.85
@@ -1753,7 +1753,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "midland_odessa": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "missoula": {
         relative_whitenoise: 0.95
@@ -1966,8 +1966,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "sweetwater": {
-        relative_radius: 0.4,
-        relative_whitenoise: 0.85
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "tacoma": {
         relative_radius: 0.5,
@@ -3320,9 +3320,9 @@ var cities = [
         "gameName": "midland_odessa",
         "realName": "Midland",
         "country": "midland_odessa",
-        "x": "-30038.8",
+        "x": "-28095.9",
         "y": "95.0156",
-        "z": "39628.2"
+        "z": "37941.6"
     },
     {
         "gameName": "newport",
@@ -3336,9 +3336,9 @@ var cities = [
         "gameName": "pecos",
         "realName": "Pecos",
         "country": "pecos",
-        "x": "-36584.6",
+        "x": "-34816.8",
         "y": "22.7822",
-        "z": "41234"
+        "z": "40362.8"
     },
     {
         "gameName": "pendleton",
@@ -3682,7 +3682,7 @@ var cities = [
         "country": "van_horn",
         "x": "-42493.9",
         "y": "160.617",
-        "z": "43906.2"
+        "z": "44906.2"
     },
     {
         "gameName": "vernal",
@@ -3768,9 +3768,9 @@ var cities = [
         "gameName": "kerrville",
         "realName": "Kerrville",
         "country": "kerrville",
-        "x": "-14961.3",
+        "x": "-14615.3",
         "y": "28.3667",
-        "z": "50465.2"
+        "z": "50527.9"
     },
     {
         "gameName": "ketchum",
