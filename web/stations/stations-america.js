@@ -17343,9 +17343,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC_SC"
         },
         {
-            name: "Radio Cañon 800",
-            logo: "stations/images-america/texas/van_horn/Radio Cañon 800.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEROKAMAAC_SC"
+            name: "Calibre 800",
+            logo: "stations/images-america/texas/el_paso/Calibre 800.png",
+            url: "http://radio.spiritmedia.mx:8000/xerok"
         },
     ],
     "vernal": [
