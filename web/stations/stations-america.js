@@ -16064,12 +16064,12 @@ var stations = {
             name: "The Light 91.7",
             logo: "stations/images-america/0_general_logos/The Light.png",
             url: "https://stream.ktlf.radio/radio/8000/theLight"
-        },
+        },/*
         {
             name: "Easy 94.1",
             logo: "stations/images-america/steamboat_sp/Easy 94.1.png",
             url: "https://ice6.securenetsystems.net/KEZZ"
-        },
+        },*/
         {
             name: "The Reel 95.5",
             logo: "stations/images-america/steamboat_sp/The Reel 95.5.png",

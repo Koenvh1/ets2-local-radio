@@ -4457,7 +4457,7 @@ var stations = {
             name: "Radio S2",
             logo: "stations/images-europe/serbia/Radio S2.png",
             url: "http://edge-rs-01.maksnet.tv/asmedia/index/playlist.m3u8"
-        },
+        },/*
         {
             name: "RNS 1",
             logo: "stations/images-europe/serbia/RNS 1.png",
@@ -4472,7 +4472,7 @@ var stations = {
             name: "RNS 3",
             logo: "stations/images-europe/serbia/RNS 3.png",
             url: "http://79.101.121.123:1935/rns3/treciprogram/livestream/playlist.m3u8"
-        },
+        },*/
         {
             name: "TDI Radio",
             logo: "stations/images-europe/serbia/TDI Radio.png",
