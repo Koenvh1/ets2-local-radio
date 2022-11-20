@@ -3682,7 +3682,7 @@ var cities = [
         "country": "van_horn",
         "x": "-42493.9",
         "y": "160.617",
-        "z": "43206.2"
+        "z": "43906.2"
     },
     {
         "gameName": "vernal",
