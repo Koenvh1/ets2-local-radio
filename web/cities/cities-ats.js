@@ -123,7 +123,7 @@ var country_properties = {
         name: "Big Spring",
         name_english: "Big Spring",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "boise": {
         name: "Boise",
@@ -759,7 +759,7 @@ var country_properties = {
         name: "Midland/Odessa",
         name_english: "Midland/Odessa",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "missoula": {
         name: "Missoula",
@@ -1393,7 +1393,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "big_spring": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "boise": {
@@ -2216,14 +2215,6 @@ var cities = [
         "gameName": "big_spring",
         "realName": "Big Spring",
         "country": "big_spring",
-        "x": "-24748.8",
-        "y": "49.028",
-        "z": "37294.7"
-    },
-    {
-        "gameName": "big_spring",
-        "realName": "Big Spring",
-        "country": "midland_odessa",
         "x": "-24748.8",
         "y": "49.028",
         "z": "37294.7"

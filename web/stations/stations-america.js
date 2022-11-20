@@ -621,7 +621,7 @@ var stations = {
         {
             name: "TUDN Radio 1450",
             logo: "stations/images-america/albuquerque/TUDN Radio 1450.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
     ],
     "amarillo": [
@@ -1616,7 +1616,7 @@ var stations = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/texas/houston/TUDN Radio 93.3.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
             name: "Q94",
@@ -4074,7 +4074,7 @@ var stations = {
         {
             name: "TUDN Radio 1270",
             logo: "stations/images-america/texas/dallas_fort_worth/TUDN Radio 1270.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
             name: "1310 The Ticket",
@@ -7020,7 +7020,7 @@ var stations = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/texas/houston/TUDN Radio 93.3.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
             name: "93.7 The Beat",
@@ -9774,7 +9774,7 @@ var stations = {
         {
             name: "TUDN Radio 1460",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
     ],
     "ludlow": [
@@ -9987,7 +9987,7 @@ var stations = {
         {
             name: "TUDN Radio 96.1-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
             name: "96.9 KVMV",
