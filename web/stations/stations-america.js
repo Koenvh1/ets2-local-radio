@@ -1956,7 +1956,7 @@ var stations = {
         {
             name: "BSPR Classical 90.3",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
+            url: "https://boisestate.streamguys1.com/Music1-aac-128k-icy"
         },
         {
             name: "BSPR Jazz 90.3-HD2",
@@ -1966,7 +1966,7 @@ var stations = {
         {
             name: "BSPR News 91.5",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
+            url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
         },
         {
             name: "Effect Radio 91.9",
@@ -8040,7 +8040,7 @@ var stations = {
         {
             name: "BSPR News 91.1",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
+            url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
         },
         {
             name: "Classical MPR 91.9",
@@ -8050,7 +8050,7 @@ var stations = {
         {
             name: "BSPR Classical 93.5",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
+            url: "https://boisestate.streamguys1.com/Music1-aac-128k-icy"
         },
         {
             name: "94.5 KSKI",
@@ -8883,12 +8883,7 @@ var stations = {
         {
             name: "ALT 107.5",
             logo: "stations/images-america/las_vegas/ALT 107.5.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kxtefmaac-imc"
-        },
-        {
-            name: "DLC Radio 107.5-HD2",
-            logo: "stations/images-america/las_vegas/DLC Radio 107.5-HD2.png",
-            url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kxtehd2aac-imc"
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFMAAC_SC"
         },
         {
             name: "107.9 Coyote Country",
@@ -8947,7 +8942,7 @@ var stations = {
         {
             name: "BSPR News 88.9",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
+            url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
         },
         {
             name: "NWPR Classical 90.5",
@@ -10139,12 +10134,12 @@ var stations = {
         {
             name: "BSPR News 90.7",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
+            url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
         },
         {
             name: "BSPR Classical 91.7",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
+            url: "https://boisestate.streamguys1.com/Music1-aac-128k-icy"
         },
         {
             name: "Star 95.5",
@@ -13473,7 +13468,7 @@ var stations = {
         {
             name: "BSPR News 91.9",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org/KBSX-mp3"
+            url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
         },
         {
             name: "KSRA 92.7",
@@ -16248,12 +16243,12 @@ var stations = {
             name: "93.9 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://wayfm.streamguys1.com/kxwa.aac"
-        },
+        },/*
         {
             name: "94.5 The Ranch",
             logo: "stations/images-america/sterling/94.5 The Ranch.png",
             url: "http://newerastreaming.com:9018/;"
-        },
+        },*/
         {
             name: "Cheyenne County Country 95.7",
             logo: "stations/images-america/sterling/Cheyenne County Country 95.7.png",
@@ -16283,12 +16278,12 @@ var stations = {
             name: "104.7 KNNG",
             logo: "stations/images-america/sterling/104.7 KNNG.png",
             url: "https://www.streamcontrol.net:8444/s/12320"
-        },
+        },/*
         {
             name: "105.7 KPMX",
             logo: "stations/images-america/sterling/105.7 KPMX.png",
             url: "http://newerastreaming.com:9006/;"
-        },
+        },*/
         {
             name: "FLO 107.1",
             logo: "stations/images-america/denver/FLO 107.1.png",
@@ -16952,7 +16947,7 @@ var stations = {
         {
             name: "BSPR Classical 91.7",
             logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://icy1.boisestatepublicradio.org:444/KBSU-mp3"
+            url: "https://boisestate.streamguys1.com/Music1-aac-128k-icy"
         },
         {
             name: "92.7 The Music Monster",
