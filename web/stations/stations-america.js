@@ -4007,6 +4007,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
         },
         {
+            name: "620 AM Radio Luz",
+            logo: "stations/images-america/texas/dallas_fort_worth/620 AM Radio Luz.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
+        },
+        {
             name: "660 AM The Answer",
             logo: "stations/images-america/texas/dallas_fort_worth/660 AM The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
@@ -4060,6 +4065,11 @@ var stations = {
             name: "1080 KRLD",
             logo: "stations/images-america/texas/dallas_fort_worth/1080 KRLD.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+        },
+        {
+            name: "Radio Azad 1110",
+            logo: "stations/images-america/texas/dallas_fort_worth/Radio Azad 1110.png",
+            url: "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1"
         },
         {
             name: "Republic Broadcasting Network 1140",
@@ -16218,6 +16228,11 @@ var stations = {
             url: "http://stream.revma.ihrhls.com/zc8821/hls.m3u8"
         },
         {
+            name: "Radio Azad 1110",
+            logo: "stations/images-america/texas/dallas_fort_worth/Radio Azad 1110.png",
+            url: "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1"
+        },
+        {
             name: "Talk Radio 1190",
             logo: "stations/images-america/texas/dallas_fort_worth/Talk Radio 1190.png",
             url: "https://stream.revma.ihrhls.com/zc4276/hls.m3u8"
@@ -17876,7 +17891,7 @@ var stations = {
         {
             name: "K-HITS 95.5",
             logo: "stations/images-america/texas/wichita_falls/K-HITS 95.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTFWFMAAC_SC"
+            url: "https://ice41.securenetsystems.net/KOME"
         },
         {
             name: "K242DG 96.3",
@@ -17892,6 +17907,11 @@ var stations = {
             name: "99.9 KLUR",
             logo: "stations/images-america/texas/wichita_falls/99.9 KLUR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLURFMAAC_SC"
+        },
+        {
+            name: "Air1 100.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },/*
         {
             name: "100.9 Jack FM",
@@ -17917,6 +17937,21 @@ var stations = {
             name: "106.3 The Buzz",
             logo: "stations/images-america/texas/wichita_falls/106.3 The Buzz.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbzsfmaac-ibc3"
+        },
+        {
+            name: "620 AM Radio Luz",
+            logo: "stations/images-america/texas/dallas_fort_worth/620 AM Radio Luz.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
+        },
+        {
+            name: "WBAP 820",
+            logo: "stations/images-america/texas/dallas_fort_worth/WBAP.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
+        },
+        {
+            name: "Radio Azad 1110",
+            logo: "stations/images-america/texas/dallas_fort_worth/Radio Azad 1110.png",
+            url: "https://usa2.fastcast4u.com/proxy/jgivvimk?mp=/1"
         },
         {
             name: "NewsTalk 1290",
