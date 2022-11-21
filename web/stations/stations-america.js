@@ -3813,7 +3813,7 @@ var stations = {
         },
         {
             name: "94.9 KLTY",
-            logo: "stations/images-america/texas/dallas_fort_worth/94.9 KLTY.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/94.9 KLTY_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFMAAC_SC"
         },
         {
@@ -5154,7 +5154,7 @@ var stations = {
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
             url: "http://204.141.167.19:8970/stream"
         },/*
         {
@@ -7343,7 +7343,7 @@ var stations = {
         },
         {
             name: "X92.5",
-            logo: "stations/images-america/idaho_falls/X92.5.png",
+            logo: "stations/images-america/idaho_falls/X92.5_christmas.png",
             url: "https://ice5.securenetsystems.net/KQEOHD2"
         },
         {
@@ -11043,7 +11043,7 @@ var stations = {
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
             url: "http://204.141.167.19:8970/stream"
         },/*
         {
@@ -11985,7 +11985,7 @@ var stations = {
         },
         {
             name: "97.1 Charlie",
-            logo: "stations/images-america/portland/97.1 Charlie.png",
+            logo: "stations/images-america/portland/97.1 Charlie_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-kychfmaac-imc"
         },
         {
@@ -17994,7 +17994,7 @@ var stations = {
         },
         {
             name: "100.9 Cherry FM",
-            logo: "stations/images-america/yakima/100.9 Cherry FM.png",
+            logo: "stations/images-america/yakima/100.9 Cherry FM_christmas.png",
             url: "https://ice5.securenetsystems.net/KARY"
         },
         {
@@ -39548,7 +39548,7 @@ var stations_c2c = {
         },
         {
             name: "101.9 KELO FM",
-            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC"
         },
         {
