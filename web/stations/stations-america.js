@@ -1836,7 +1836,7 @@ var stations = {
         },
         {
             name: "98.1 KBEAR",
-            logo: "stations/images-america/billings/98.1 K-Bear_christmas.png",
+            logo: "stations/images-america/billings/98.1 KBEAR_christmas.png",
             url: "http://desertmountainbroadcasting.streamguys1.com/KYYA"
         },/*
         {
@@ -10409,7 +10409,7 @@ var stations = {
         },
         {
             name: "97 Gold",
-            logo: "stations/images-america/texas/midland_odessa/97 Gold.png",
+            logo: "stations/images-america/texas/midland_odessa/97 Gold_christmas.png",
             url: "https://ais-sa1.streamon.fm/7200_48k.aac"
         },
         {
@@ -21896,7 +21896,7 @@ var stations_c2c = {
         },
         {
             name: "B98.5",
-            logo: "stations/images-america/c2c/little_rock_ar/B98.5_christmas.png",
+            logo: "stations/images-america/c2c/little_rock_ar/B98.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC_SC"
         },
         {
@@ -22491,7 +22491,7 @@ var stations_c2c = {
         },
         {
             name: "98.5 KTK",
-            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK_christmas",
+            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://live.amperwave.net/direct/audacy-wktkfmaac-imc"
         },
         {
@@ -26250,7 +26250,7 @@ var stations_c2c = {
         },
         {
             name: "B105.7",
-            logo: "stations/images-america/c2c/indianapolis_in/B105.7_christmas.png",
+            logo: "stations/images-america/c2c/indianapolis_in/B105.7.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WYXBFMAAC_SC"
         },
         {
