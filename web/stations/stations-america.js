@@ -22312,7 +22312,7 @@ var stations_c2c = {
         },
         {
             name: "KOOL 105.5",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/KOOL 105.5.png",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/KOOL 105.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc717/hls.m3u8"
         },
         {
@@ -22331,9 +22331,9 @@ var stations_c2c = {
             url: "http://64.128.251.80:8222/wllyhd3"
         },
         {
-            name: "Oldies 107.9",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 107.9.png",
-            url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
+            name: "Sunny 107.9",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Sunny 107.9_christmas.png",
+            url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WEATFMAAC_SC"
         },
         {
             name: "FOX Sports 640",
