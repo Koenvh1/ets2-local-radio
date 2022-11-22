@@ -10383,6 +10383,11 @@ var stations = {
             url: "http://marfapr-ice.streamguys1.com/krts"
         },
         {
+            name: "CSN Radio 91.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "LoneStar 92.3",
             logo: "stations/images-america/texas/midland_odessa/LoneStar 92.3.png",
             url: "https://live.wostreaming.net/manifest/townsquare-knfmfmaac-ibc3"
@@ -10401,6 +10406,11 @@ var stations = {
             name: "Rock 95.1",
             logo: "stations/images-america/texas/midland_odessa/Rock 95.1.png",
             url: "https://ais-sa1.streamon.fm/7201_48k.aac"
+        },
+        {
+            name: "95.5 KCRS",
+            logo: "stations/images-america/texas/midland_odessa/KCRS.png",
+            url: "https://ice5.securenetsystems.net/KCRSAM"
         },
         {
             name: "My Country 96.1",
@@ -10480,7 +10490,7 @@ var stations = {
         {
             name: "Family Life Radio 920",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "http://icecast.streammyflr.org/FLRstream"
         },
         {
             name: "KWEL 1070",
