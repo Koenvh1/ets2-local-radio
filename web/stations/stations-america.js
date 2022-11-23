@@ -10423,11 +10423,6 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7200_48k.aac"
         },
         {
-            name: "97.5 KCRS",
-            logo: "stations/images-america/texas/midland_odessa/KCRS.png",
-            url: "https://ice5.securenetsystems.net/KCRSAM"
-        },
-        {
             name: "Mix 97.9",
             logo: "stations/images-america/texas/midland_odessa/Mix 97.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kodmfmaac-ibc3"
