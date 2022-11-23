@@ -22356,6 +22356,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc705/hls.m3u8"
         },
         {
+            name: "Oldies 1370",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 1370.png",
+            url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
+        },
+        {
             name: "WPSL 1590",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/WPSL 1590.png",
             url: "http://173.193.205.96:7309/stream"
@@ -36982,8 +36987,8 @@ var stations_c2c = {
             url: "https://ice8.securenetsystems.net/KXLS"
         },
         {
-            name: "The Eagle 96.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/The Eagle 96.9.png",
+            name: "Freedom 96.9",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Freedom 96.9",
             url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
@@ -37142,7 +37147,7 @@ var stations_c2c = {
         },
         {
             name: "The Eagle 96.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/The Eagle 96.9.png",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Freedom 96.9",
             url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
