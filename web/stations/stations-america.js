@@ -9334,7 +9334,7 @@ var stations = {
         },
         {
             name: "95.9 The Fish",
-            logo: "stations/images-america/los_angeles/95.9 The Fish.png",
+            logo: "stations/images-america/los_angeles/95.9 The Fish_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC_SC"
         },
         {
@@ -22170,7 +22170,7 @@ var stations_c2c = {
         },
         {
             name: "WEBE 108",
-            logo: "stations/images-america/c2c/new_haven_ct/WEBE 108.png",
+            logo: "stations/images-america/c2c/new_haven_ct/WEBE 108_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/WEBEFMAAC_SC"
         },
         {
@@ -26541,7 +26541,7 @@ var stations_c2c = {
         },
         {
             name: "102.7 WBOW",
-            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW.png",
+            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOWFMAAC_SC"
         },
         {
@@ -32043,7 +32043,7 @@ var stations_c2c = {
         },
         {
             name: "98.3 The Dove",
-            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove.png",
+            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://ice64.securenetsystems.net/KDVC"
         },
         {
@@ -32063,7 +32063,7 @@ var stations_c2c = {
         },
         {
             name: "101.5 KPLA",
-            logo: "stations/images-america/c2c/columbia_mo/101.5 KPLA.png",
+            logo: "stations/images-america/c2c/columbia_mo/101.5 KPLA_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC_SC"
         },
         {
@@ -32217,7 +32217,7 @@ var stations_c2c = {
         },
         {
             name: "94.9 KCMO",
-            logo: "stations/images-america/c2c/kansascity_mo/94.9 KCMO.png",
+            logo: "stations/images-america/c2c/kansascity_mo/94.9 KCMO_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOFMAAC_SC"
         },
         {
