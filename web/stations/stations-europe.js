@@ -3014,12 +3014,12 @@ var stations = {
             url: "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
         },
     ],
-    "kazakhstan": [
+    "kazakhstan": [/*
         {
             name: "Qazaq radiosy",
             logo: "stations/images-europe/kazakhstan/Qazaq radiosy.png",
             url: "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
-        },
+        },*/
         {
             name: "Shalqar radiosy",
             logo: "stations/images-europe/kazakhstan/Shalqar radiosy.png",
@@ -3029,12 +3029,12 @@ var stations = {
             name: "Авторадио Казахстан",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
             url: "http://95.56.234.40:8080/AVTORADIO_256"
-        },
+        },/*
         {
             name: "Dala FM",
             logo: "stations/images-europe/kazakhstan/Dala FM.png",
             url: "http://95.56.234.40:8080/DALA_320"
-        },
+        },*/
         {
             name: "Европа Плюс Казахстан",
             logo: "stations/images-europe/kazakhstan/Европа Плюс - Europa Plus.png",
