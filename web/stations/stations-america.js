@@ -2635,7 +2635,7 @@ var stations = {
         },
         {
             name: "101.9 The Cowboy",
-            logo: "stations/images-america/casper/101.9 The Cowboy.png",
+            logo: "stations/images-america/casper/101.9 The Cowboy_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kktlamaac-ibc3"
         },
         {
@@ -3291,7 +3291,7 @@ var stations = {
         },
         {
             name: "Q102.7",
-            logo: "stations/images-america/colorado_springs_pueblo/KBIQ_christmas.png",
+            logo: "stations/images-america/colorado_springs_pueblo/Q102.7_christmas.png",
             url: "https://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KBIQFMAAC_SC"
         },
         {
@@ -6605,7 +6605,7 @@ var stations = {
         },
         {
             name: "The LIFT 92.7",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -16097,7 +16097,7 @@ var stations = {
         },
         {
             name: "The LIFT 95.9",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -16127,7 +16127,7 @@ var stations = {
         },
         {
             name: "The LIFT 106.3",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ice1.amtstreaming.com:9005/kiftic"
         },
         {
@@ -36983,7 +36983,7 @@ var stations_c2c = {
         },
         {
             name: "Freedom 96.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Freedom 96.9",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Freedom 96.9.png",
             url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
@@ -37142,7 +37142,7 @@ var stations_c2c = {
         },
         {
             name: "The Eagle 96.9",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Freedom 96.9",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Freedom 96.9.png",
             url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
