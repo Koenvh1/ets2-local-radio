@@ -351,17 +351,22 @@ var stations = {
     "belarus": [
         {
             name: "1 канал",
-            logo: "stations/images-europe/belarus/1 канал.jpg",
+            logo: "stations/images-europe/belarus/1 канал.png",
             url: "https://stream2.datacenter.by/1kanal"
         },
         {
             name: "Канал Культура",
-            logo: "stations/images-europe/belarus/Канал Культура.jpg",
+            logo: "stations/images-europe/belarus/Канал Культура.png",
             url: "https://stream2.datacenter.by/kultura"
         },
         {
-            name: "Радиус-FM",
-            logo: "stations/images-europe/belarus/Радиус-FM.png",
+            name: "Europa Plus Belarus",
+            logo: "stations/images-europe/belarus/Europa Plus Belarus.png",
+            url: "https://ep128.hostingradio.ru:8030/ep128"
+        },
+        {
+            name: "Радиус FM",
+            logo: "stations/images-europe/belarus/Радиус FM.png",
             url: "https://stream2.datacenter.by/radiusfm_main"
         },
         {
@@ -371,7 +376,7 @@ var stations = {
         },
         {
             name: "Радио Сталіца",
-            logo: "stations/images-europe/belarus/Радио Сталіца.jpg",
+            logo: "stations/images-europe/belarus/Радио Сталіца.png",
             url: "https://stream2.datacenter.by/stalica"
         },
         {
@@ -381,21 +386,19 @@ var stations = {
         },
         {
             name: "Радио Минск",
-            logo: "stations/images-europe/belarus/Радио Минск.jpg",
+            logo: "stations/images-europe/belarus/Радио Минск.png",
             url: "http://178.172.236.179:8000/mk128"
         },
         {
             name: "Радио Мир",
-            logo: "stations/images-europe/belarus/Радио Мир.jpg",
+            logo: "stations/images-europe/belarus/Радио Мир.png",
             url: "http://217.23.126.106:8002/radio2.mir"
         },
-        /*
         {
-            name: "Радио Unistar",
-            logo: "stations/images-europe/belarus/Радио Unistar.png",
-            url: "http://unistar.by:8000/unistar-128kb"
+            name: "Unistar",
+            logo: "stations/images-europe/belarus/Unistar.png",
+            url: "https://unistar.webcaramba.com/unistar_main128.mp3"
         },
-        */
         {
             name: "Радио РОКС",
             logo: "stations/images-europe/belarus/Радио РОКС.png",
@@ -408,7 +411,7 @@ var stations = {
         },
         {
             name: "Новое Радио",
-            logo: "stations/images-europe/belarus/Новое Радио.jpg",
+            logo: "stations/images-europe/belarus/Новое Радио.png",
             url: "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio"
         },
         {
@@ -3029,12 +3032,12 @@ var stations = {
             name: "Авторадио Казахстан",
             logo: "stations/images-europe/kazakhstan/Авторадио.png",
             url: "http://95.56.234.40:8080/AVTORADIO_256"
-        },/*
+        },
         {
             name: "Dala FM",
             logo: "stations/images-europe/kazakhstan/Dala FM.png",
-            url: "http://95.56.234.40:8080/DALA_320"
-        },*/
+            url: "http://178.88.167.42:8080/DALA_320"
+        },
         {
             name: "Европа Плюс Казахстан",
             logo: "stations/images-europe/kazakhstan/Европа Плюс - Europa Plus.png",
