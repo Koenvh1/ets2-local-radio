@@ -15354,7 +15354,7 @@ var stations = {
         {
             name: "93.3 KJR",
             logo: "stations/images-america/seattle/93.3 KJR.png",
-            url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc2577/hls.m3u8"
         },
         {
             name: "KUBE 93.3-HD2",
@@ -15379,7 +15379,7 @@ var stations = {
         {
             name: "KJEB 95.7-HD2",
             logo: "stations/images-america/seattle/950 KJR.png",
-            url: "http://stream.revma.ihrhls.com/zc2565"
+            url: "http://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
             name: "The Breeze 95.7-HD3",
