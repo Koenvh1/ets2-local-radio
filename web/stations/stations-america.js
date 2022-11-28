@@ -15569,7 +15569,7 @@ var stations = {
         {
             name: "950 KJR",
             logo: "stations/images-america/seattle/950 KJR.png",
-            url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
+            url: "http://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
             name: "1090 The Patriot",
