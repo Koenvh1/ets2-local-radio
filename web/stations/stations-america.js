@@ -15572,6 +15572,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
+            name: "Northwest Newsradio 1000",
+            logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
+            url: "http://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
+        },
+        {
             name: "1090 The Patriot",
             logo: "stations/images-america/seattle/1090 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc7747/hls.m3u8"
@@ -42595,7 +42600,7 @@ var stations_canada = {
         {
             name: "SONiC 102.9",
             logo: "stations/images-america/canada/edmonton/Sonic 102.9.png",
-            url: "https://rogers.leanstream.co/rogers/edm1029.stream/icy"
+            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers.leanstream.co/rogers/edm1029.stream/icy"
         },
         {
             name: "103.9 CISN Country",
@@ -43050,7 +43055,7 @@ var stations_canada = {
         {
             name: "SONiC 92.5",
             logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
+            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
             name: "Lighthouse Radio 96.7",
@@ -45716,7 +45721,7 @@ var stations_canada = {
         {
             name: "SONiC 104.9",
             logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
+            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
             name: "CBC Music 105.7",
