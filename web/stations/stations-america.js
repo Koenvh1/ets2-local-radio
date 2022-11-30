@@ -15181,6 +15181,11 @@ var stations = {
             url: "http://radiokest.serverroom.us:6670/stream.mp3"
         },
         {
+            name: "Radio Lazer 1510",
+            logo: "stations/images-america/san_francisco/Radio Lazer 1510.png",
+            url: "https://audiossl.radiolazer.stream/LBC/ksfn.stream/playlist.m3u8"
+        },
+        {
             name: "Radio Zindagi 1550",
             logo: "stations/images-america/san_francisco/Radio Zindagi 1550.png",
             url: "https://us9.maindigitalstream.com/ssl/RadioZindagi"
@@ -16615,6 +16620,11 @@ var stations = {
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
+            name: "K-LOVE 90.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+        },
+        {
             name: "92.7 KMSW",
             logo: "stations/images-america/the_dalles/92.7 KMSW.png",
             url: "https://us9.maindigitalstream.com/ssl/KMSW"
@@ -16623,6 +16633,11 @@ var stations = {
             name: "KACI 93.5",
             logo: "stations/images-america/the_dalles/KACI 93.5.png",
             url: "https://us9.maindigitalstream.com/ssl/KACI"
+        },
+        {
+            name: "All Classical 96.3",
+            logo: "stations/images-america/portland/All Classical 89.9.png",
+            url: "http://allclassical-ice.streamguys.com/ac96kmp3"
         },
         {
             name: "96.9 KCGB",
@@ -16635,9 +16650,14 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KIHR"
         },
         {
-            name: "KODL 100.5",
-            logo: "stations/images-america/the_dalles/KODL 100.5.png",
+            name: "KODL 100.7",
+            logo: "stations/images-america/the_dalles/KODL 100.7.png",
             url: "https://ice3.securenetsystems.net/KODL"
+        },
+        {
+            name: "Jive Radio 101.5",
+            logo: "stations/images-america/the_dalles/Jive Radio 101.5.png",
+            url: "http://centova2.cheapshoutcast.com/proxy/jcotton/mp=?/stream"
         },
         {
             name: "Urbana 104.5",
@@ -16645,9 +16665,54 @@ var stations = {
             url: "https://ice24.securenetsystems.net/KXXPFM"
         },
         {
+            name: "105.5 KCGB",
+            logo: "stations/images-america/the_dalles/96.9 KCGB.png",
+            url: "http://us9.maindigitalstream.com/ssl/KCGB"
+        },
+        {
+            name: "Positive Life Radio 106.9",
+            logo: "stations/images-america/0_general_logos/Positive Life Radio.png",
+            url: "https://ice10.securenetsystems.net/PLR"
+        },
+        {
+            name: "Radio Tierra 107.7",
+            logo: "stations/images-america/the_dalles/Radio Tierra 107.7.png",
+            url: "https://s15.myradiostream.com/16798/;"
+        },
+        {
+            name: "Rip City Radio 620",
+            logo: "stations/images-america/portland/Rip City Radio 620.png",
+            url: "https://stream.revma.ihrhls.com/zc1965/hls.m3u8"
+        },
+        {
+            name: "750 The Game",
+            logo: "stations/images-america/portland/750 The Game.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kxtgamaac-ibc4"
+        },
+        {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
+        },
+        {
+            name: "1190 KEX",
+            logo: "stations/images-america/portland/1190 KEX.png",
+            url: "https://stream.revma.ihrhls.com/zc1949/hls.m3u8"
+        },
+        {
+            name: "KIHR 1340",
+            logo: "stations/images-america/the_dalles/KIHR 98.3.png",
+            url: "http://us9.maindigitalstream.com/ssl/KIHR"
+        },
+        {
+            name: "KLCK 1400",
+            logo: "stations/images-america/the_dalles/KLCK 1400.png",
+            url: "https://s1proxy.logical.systems:8004/:"
+        },
+        {
+            name: "KODL 1440",
+            logo: "stations/images-america/the_dalles/KODL 100.7.png",
+            url: "http://ice3.securenetsystems.net/KODL"
         },
     ],
     "tonopah": [
