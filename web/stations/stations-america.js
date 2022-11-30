@@ -16667,7 +16667,7 @@ var stations = {
         {
             name: "105.5 KCGB",
             logo: "stations/images-america/the_dalles/96.9 KCGB.png",
-            url: "http://us9.maindigitalstream.com/ssl/KCGB"
+            url: "https://us9.maindigitalstream.com/ssl/KCGB/"
         },
         {
             name: "Positive Life Radio 106.9",
@@ -16702,7 +16702,7 @@ var stations = {
         {
             name: "KIHR 1340",
             logo: "stations/images-america/the_dalles/KIHR 98.3.png",
-            url: "http://us9.maindigitalstream.com/ssl/KIHR"
+            url: "https://us9.maindigitalstream.com/ssl/KIHR/"
         },
         {
             name: "KLCK 1400",
