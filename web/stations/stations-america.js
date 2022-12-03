@@ -13175,6 +13175,11 @@ var stations = {
             url: "https://c11.radioboss.fm:18079/stream"
         },
         {
+            name: "La Ranchera 92.1",
+            logo: "stations/images-america/sacramento/La Ranchera.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KVMXAMAAC_SC"
+        },
+        {
             name: "92.5 The Breeze",
             logo: "stations/images-america/sacramento/92.5 The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc4366/hls.m3u8"
@@ -13225,6 +13230,11 @@ var stations = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-ksegfmaac-imc"
         },
         {
+            name: "SacChristmas 96.9-HD2",
+            logo: "stations/images-america/sacramento/SacChristmas 96.9-HD2.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-krxqhd2aac-imc"
+        },
+        {
             name: "97.5 KDEE",
             logo: "stations/images-america/sacramento/97.5 KDEE.png",
             url: "https://ic2.sslstream.com/kdee-fm"
@@ -13233,6 +13243,11 @@ var stations = {
             name: "97.9 Latino",
             logo: "stations/images-america/sacramento/97.9 Latino.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLMGFMAAC_SC"
+        },
+        {
+            name: "KJAY 98.1",
+            logo: "stations/images-america/sacramento/KJAY.png",
+            url: "http://crystalout.surfernetwork.com:8001/KJAY-AM_MP3"
         },
         {
             name: "98 Rock",
@@ -13340,6 +13355,21 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
         },
         {
+            name: "La Ranchera 890",
+            logo: "stations/images-america/sacramento/La Ranchera.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KVMXAMAAC.aac"
+        },
+        {
+            name: "KAHI 950",
+            logo: "stations/images-america/sacramento/KAHI 950.png",
+            url: "https://crystalout.surfernetwork.com:8001/KAHI-AM_MP3"
+        },
+        {
+            name: "KATD 990",
+            logo: "stations/images-america/0_general_logos/KIQI_KATD.png",
+            url: "http://kiqiradio.serverroom.us:8260/;stream.mp3"
+        },
+        {
             name: "Sactown Sports 1140",
             logo: "stations/images-america/sacramento/Sactown Sports 1140.png",
             url: "https://bonneville.cdnstream1.com/2616_48.aac"
@@ -13356,7 +13386,7 @@ var stations = {
         },
         {
             name: "KJAY 1430",
-            logo: "stations/images-america/sacramento/KJAY 1430.png",
+            logo: "stations/images-america/sacramento/KJAY.png",
             url: "https://crystalout.surfernetwork.com:8001/KJAY-AM_MP3"
         },
         {
@@ -15156,6 +15186,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc297/hls.m3u8"
         },
         {
+            name: "KIQI 1010",
+            logo: "stations/images-america/0_general_logos/KIQI_KATD.png",
+            url: "http://kiqiradio.serverroom.us:8260/;stream.mp3"
+        },
+        {
             name: "1100 KFAX",
             logo: "stations/images-america/san_francisco/1100 KFAX.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFAXAMAAC_SC"
@@ -15370,6 +15405,11 @@ var stations = {
             name: "94.1 The Sound",
             logo: "stations/images-america/seattle/94.1 The Sound_christmas.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
+        },
+        {
+            name: "Delta Blues 94.1-HD2",
+            logo: "stations/images-america/0_general_logos/Delta Blues.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-kswdhd2aac-imc"
         },
         {
             name: "KUOW 94.9",
