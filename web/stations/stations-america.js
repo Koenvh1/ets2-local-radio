@@ -16387,8 +16387,8 @@ var stations = {
             url: "http://ice10.securenetsystems.net/KRQX"
         },
         {
-            name: "FOX Sports 99.5",
-            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            name: "The Fan Sports Network 99.5",
+            logo: "stations/images-america/st_george/The Fan Sports Network.png",
             url: "https://ice6.securenetsystems.net/KAZZ"
         },
         {
@@ -41278,12 +41278,12 @@ var stations_c2c = {
             name: "HOT 100",
             logo: "stations/images-america/c2c/roanoke_va/HOT 100.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVHKFMAAC_SC"
-        },
+        },/*
         {
-            name: "101.5 The Mountain",
-            logo: "stations/images-america/c2c/roanoke_va/101.5 The Mountain.png",
-            url: "http://ice23.securenetsystems.net/WBZS"
-        },
+            name: "The Truth 101.5",
+            logo: "stations/images-america/c2c/roanoke_va/tbd.png",
+            url: "tbd"
+        },*/
         {
             name: "104.9 Steve FM",
             logo: "stations/images-america/c2c/roanoke_va/104.9 Steve FM.png",
