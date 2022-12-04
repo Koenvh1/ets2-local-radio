@@ -11655,7 +11655,7 @@ var stations = {
         {
             name: "Arizona Sports 98.7",
             logo: "stations/images-america/phoenix/Arizona Sports 98.7.png",
-            url: "https://bonneville.cdnstream1.com/2699_48.aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://bonneville.cdnstream1.com/2699_48.aac"
         },
         {
             name: "99.3 The Fanatic",
