@@ -519,9 +519,14 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KMGG"
         },
         {
-            name: "Classic Hits 99.9-HD2",
-            logo: "stations/images-america/albuquerque/Classic Hits 99.9-HD2.png",
+            name: "WiLD 99.9-HD3",
+            logo: "stations/images-america/albuquerque/WiLD 99.9-HD3.png",
             url: "https://ice6.securenetsystems.net/KMGGHD2"
+        },
+        {
+            name: "La Invencible 99.9-HD4",
+            logo: "stations/images-america/albuquerque/La Invencible 99.9-HD4.png",
+            url: "https://ice41.securenetsystems.net/LAINVINCIBLE"
         },
         {
             name: "100.3 The Peak",
@@ -3690,7 +3695,7 @@ var stations = {
         {
             name: "KLMO 98.9",
             logo: "stations/images-america/texas/cotulla/KLMO 98.9.png",
-            url: "http://streaming.live365.com/a13945"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://streaming.live365.com/a13945"
         },
         {
             name: "Radio Vocem 102.1",
@@ -11724,7 +11729,7 @@ var stations = {
         },
         {
             name: "104.7 KISS FM",
-            logo: "stations/images-america/phoenix/104.7 KISS FM.png",
+            logo: "stations/images-america/phoenix/104.7 KISS FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc61/hls.m3u8"
         },
         {
@@ -14307,7 +14312,7 @@ var stations = {
         },
         {
             name: "The Krush 92.5",
-            logo: "stations/images-america/santa_maria/The Krush 92.5.png",
+            logo: "stations/images-america/santa_maria/The Krush 92.5_christmas.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kkalfmaac-ibc3"
         },
         {
@@ -14589,7 +14594,7 @@ var stations = {
         {
             name: "Z90.3",
             logo: "stations/images-america/san_diego/Z90.3.png",
-            url: "http://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/XHTZFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/XHTZFMAAC_SC"
         },
         {
             name: "La Mejor 90.7",
@@ -14599,7 +14604,7 @@ var stations = {
         {
             name: "91X",
             logo: "stations/images-america/san_diego/91X.png",
-            url: "http://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
         },
         {
             name: "exa 91.7",
@@ -14614,7 +14619,7 @@ var stations = {
         {
             name: "Magic 92.5",
             logo: "stations/images-america/san_diego/Magic 92.5.png",
-            url: "http://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/XHRMFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/XHRMFMAAC_SC"
         },
         {
             name: "Channel 93.3",
@@ -14734,7 +14739,7 @@ var stations = {
         {
             name: "100.7 BIG FM",
             logo: "stations/images-america/san_diego/100.7 BIG FM.png",
-            url: "http://ats-radio.herokuapp.com/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
         },
         {
             name: "101.5 KGB",
@@ -26122,12 +26127,12 @@ var stations_c2c = {
         {
             name: "Rewind 93.5",
             logo: "stations/images-america/c2c/springfield_il/Rewind 93.5.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDBRHD4AAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wdbrhd4aac-ibc1"
         },
         {
             name: "WTAX 93.9",
             logo: "stations/images-america/c2c/springfield_il/WTAX 93.9.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wtaxamaac-ibc1"
         },
         {
             name: "96.7 BOB FM",
@@ -26152,12 +26157,12 @@ var stations_c2c = {
         {
             name: "100.5 WYMG",
             logo: "stations/images-america/c2c/springfield_il/100.5 WYMG.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYMGFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wymgfmaac-ibc1"
         },
         {
             name: "101.9 The Wolf",
             logo: "stations/images-america/c2c/springfield_il/101.9 The Wolf.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WLFZFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wlfzfmaac-ibc1"
         },
         {
             name: "102.5 The Lake",
@@ -26167,7 +26172,7 @@ var stations_c2c = {
         {
             name: "WDBR 103.7",
             logo: "stations/images-america/c2c/springfield_il/WDBR 103.7.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDBRFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wdbrfmaac-ibc1"
         },
         {
             name: "104.5 WFMB",
@@ -26709,12 +26714,12 @@ var stations_c2c = {
         {
             name: "93.3 KIOA",
             logo: "stations/images-america/c2c/desmoines_ia/93.3 KIOA.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIOAFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kioafmaac-ibc1"
         },
         {
             name: "93.7 The Outlaw",
             logo: "stations/images-america/c2c/desmoines_ia/93.7 The Outlaw.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTZHD2AAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kstzhd2aac-ibc1"
         },
         {
             name: "95 KGGO",
@@ -26749,7 +26754,7 @@ var stations_c2c = {
         {
             name: "Hits 99.9",
             logo: "stations/images-america/c2c/desmoines_ia/Hits 99.9.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIOAHD2AAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kioahd2aac-ibc1"
         },
         {
             name: "100.3 The Bus",
@@ -26759,22 +26764,22 @@ var stations_c2c = {
         {
             name: "Star 102.5",
             logo: "stations/images-america/c2c/desmoines_ia/Star 102.5.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTZFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kstzfmaac-ibc1"
         },
         {
             name: "Lazer 103.3",
             logo: "stations/images-america/c2c/desmoines_ia/Lazer 103.3.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KAZRFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kazrfmaac-ibc1"
         },
         {
             name: "104.1 EZ FM",
             logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM_christmas.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOEZFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-koezfmaac-ibc1"
         },
         {
             name: "Pure Oldies 104.5",
             logo: "stations/images-america/c2c/desmoines_ia/Pure Oldies 104.5.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KAZRHD2AAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kazrhd2aac-ibc1"
         },
         {
             name: "NOW 105.1",
@@ -26809,7 +26814,7 @@ var stations_c2c = {
         {
             name: "Hope 940",
             logo: "stations/images-america/c2c/desmoines_ia/Hope 940.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPSZAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-kpszamaac-ibc1"
         },
         {
             name: "1040 WHO",
@@ -27115,7 +27120,7 @@ var stations_c2c = {
         {
             name: "104.1 The Wolf",
             logo: "stations/images-america/c2c/sioux_city_ia/104.1 The Wolf.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxfmaac-ibc1"
         },
         {
             name: "KSUX 105.7",
@@ -27130,7 +27135,7 @@ var stations_c2c = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "FOX Sports 620",
@@ -30073,9 +30078,9 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-wmjxfmaac-imc"
         },
         {
-            name: "Magic Christmas 106.7-HD2",
-            logo: "stations/images-america/c2c/boston_ma/Magic 106.7_christmas.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMJXHD2AAC_SC"
+            name: "Magic 106.7-HD2",
+            logo: "stations/images-america/c2c/boston_ma/Magic 106.7.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-wmjxhd2aac-imc"
         },
         {
             name: "Kiss 108",
@@ -30147,7 +30152,7 @@ var stations_c2c = {
         {
             name: "96.5 TIC",
             logo: "stations/images-america/c2c/springfield_ma/96.5 TIC.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTICFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-wticfmaac-imc"
         },
         {
             name: "97.3 The Beat",
@@ -32702,12 +32707,12 @@ var stations_c2c = {
             name: "Y98",
             logo: "stations/images-america/c2c/stlouis_mo/Y98.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-kykyfmaac-imc"
-        },
+        },/*
         {
             name: "The River 98.1-HD2",
             logo: "stations/images-america/c2c/stlouis_mo/The River 98.1-HD2.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KYKYHD2AAC_SC"
-        },
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-kykyhd2aac-imc"
+        },*/
         {
             name: "Channel Q 98.1-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
@@ -34084,7 +34089,7 @@ var stations_c2c = {
         {
             name: "WCBS FM 101.1",
             logo: "stations/images-america/c2c/nyc/WCBS FM 101.1.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-wcbsfmaac_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-wcbsfmaac-imc"
         },
         {
             name: "WCBS 101.1-HD2",
@@ -35386,6 +35391,11 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WQOKFMAAC_SC"
         },
         {
+            name: "WRAL News Plus 99.5",
+            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
+            url: "http://ais-sa8.cdnstream1.com/2745_64.aac"
+        },
+        {
             name: "Hot 97.9",
             logo: "stations/images-america/c2c/raleigh_nc/Hot 97.9.png",
             url: "https://freeuk21.listen2myradio.com:29321/;"
@@ -35407,8 +35417,18 @@ var stations_c2c = {
         },
         {
             name: "Mix 101.5",
-            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5.png",
+            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/2748_64.aac"
+        },
+        {
+            name: "That Station 101.5-HD2",
+            logo: "stations/images-america/c2c/raleigh_nc/That Station 95.7.png",
+            url: "http://ais-sa8.cdnstream1.com/2749_64.aac"
+        },
+        {
+            name: "WRAL News Plus 101.5-HD3",
+            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
+            url: "https://ais-sa8.cdnstream1.com/2745_64.aac"
         },
         {
             name: "Cornerstone Radio 101.5-HD2",
@@ -35539,7 +35559,7 @@ var stations_c2c = {
         },
         {
             name: "102.7 GNI",
-            logo: "stations/images-america/c2c/wilmington_nc/102.7 GNI.png",
+            logo: "stations/images-america/c2c/wilmington_nc/102.7 GNI_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGNIFMAAC_SC"
         },
         {
@@ -39493,7 +39513,7 @@ var stations_c2c = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "1000 KSOO",
@@ -45117,7 +45137,7 @@ var stations_canada = {
         },
         {
             name: "92.9 The Bull",
-            logo: "stations/images-america/canada/saskatoon/92.9 The Bull.png",
+            logo: "stations/images-america/canada/saskatoon/92.9 The Bull_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKBLFMAAC_SC"
         },
         {
@@ -46448,7 +46468,7 @@ var stations_greatamerica = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "ESPN 590",
@@ -46820,7 +46840,7 @@ var stations_greatamerica = {
         {
             name: "104.1 The Wolf",
             logo: "stations/images-america/c2c/sioux_city_ia/104.1 The Wolf.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxfmaac-ibc1"
         },
         {
             name: "105.9 WJAG",
@@ -46840,7 +46860,7 @@ var stations_greatamerica = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "The City 1590",
@@ -46922,7 +46942,7 @@ var stations_greatamerica = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "IPR News 640",
@@ -47004,7 +47024,7 @@ var stations_greatamerica = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "KICD 1240",
@@ -47046,7 +47066,7 @@ var stations_greatamerica = {
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNAXAMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wnaxamaac-ibc1"
         },
         {
             name: "KVSH 940",
