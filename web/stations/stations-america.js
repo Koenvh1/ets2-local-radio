@@ -35391,8 +35391,8 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WQOKFMAAC_SC"
         },
         {
-            name: "WRAL News Plus 99.5",
-            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
+            name: "WRAL News Plus 99.3",
+            logo: "stations/images-america/c2c/raleigh_nc/WRAL News Plus.png",
             url: "http://ais-sa8.cdnstream1.com/2745_64.aac"
         },
         {
@@ -35427,7 +35427,7 @@ var stations_c2c = {
         },
         {
             name: "WRAL News Plus 101.5-HD3",
-            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
+            logo: "stations/images-america/c2c/raleigh_nc/WRAL News Plus.png",
             url: "https://ais-sa8.cdnstream1.com/2745_64.aac"
         },
         {
