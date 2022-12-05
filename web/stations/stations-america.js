@@ -2716,6 +2716,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-krecfmaac-ibc3"
         },
         {
+            name: "FOX Sports 99.1",
+            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kxfffmaac-ibc3"
+        },
+        {
             name: "99.9 KONY Country",
             logo: "stations/images-america/cedar_city/99.9 KONY.png",
             url: "https://ice10.securenetsystems.net/KONY"
@@ -2729,11 +2734,6 @@ var stations = {
             name: "K264DD 100.7",
             logo: "stations/images-america/salina/KSVC 100.5.png",
             url: "http://ice9.securenetsystems.net/KSVC"
-        },
-        {
-            name: "Dave FM 101.9",
-            logo: "stations/images-america/cedar_city/Dave FM 101.9.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-kxfffmaac-ibc3"
         },
         {
             name: "102.3 Coyote Country",
@@ -11655,7 +11655,7 @@ var stations = {
         {
             name: "Arizona Sports 98.7",
             logo: "stations/images-america/phoenix/Arizona Sports 98.7.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://bonneville.cdnstream1.com/2699_48.aac"
+            url: "https://bonneville.cdnstream1.com/2699_48.aac"
         },
         {
             name: "99.3 The Fanatic",
@@ -16455,6 +16455,11 @@ var stations = {
             name: "Sunny 101.5",
             logo: "stations/images-america/st_george/Sunny 101.5_christmas.png",
             url: "https://ice10.securenetsystems.net/KCLS"
+        },
+        {
+            name: "FOX Sports 101.9",
+            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kxfffmaac-ibc3"
         },
         {
             name: "Mix 103.1",
@@ -24456,8 +24461,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQFMAAC_SC"
         },
         {
-            name: "ROCK 100.5",
-            logo: "stations/images-america/c2c/atlanta_ga/ROCK 100.5.png",
+            name: "99x 100.5",
+            logo: "stations/images-america/c2c/atlanta_ga/99x.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFMAAC_SC"
         },
         {
