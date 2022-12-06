@@ -37065,6 +37065,26 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC_SC"
         },
         {
+            name: "Effect Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "https://ice6.securenetsystems.net/EFXAAC"
+        },
+        {
+            name: "The House FM 89.9",
+            logo: "stations/images-america/c2c/elk_city_ok/The House FM 89.9.png",
+            url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
+        },
+        {
+            name: "CSN Radio 91.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "afr Talk 91.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
             name: "Kool 94",
             logo: "stations/images-america/c2c/elk_city_ok/Kool 94.png",
             url: "http://173.193.205.96:8212/;"
@@ -37078,6 +37098,11 @@ var stations_c2c = {
             name: "KECO 96.5",
             logo: "stations/images-america/c2c/elk_city_ok/KECO 96.5.png",
             url: "http://173.193.205.96:8286/;"
+        },
+        {
+            name: "KADS 98.1",
+            logo: "stations/images-america/c2c/elk_city_ok/KADS 98.1.png",
+            url: "http://173.193.205.96:7216/;"
         },
         {
             name: "Legends 98.9",
@@ -37111,8 +37136,13 @@ var stations_c2c = {
         },
         {
             name: "KADS 1240",
-            logo: "stations/images-america/c2c/elk_city_ok/KADS 1240.png",
+            logo: "stations/images-america/c2c/elk_city_ok/KADS 98.1.png",
             url: "http://173.193.205.96:7216/;stream.mp3"
+        },
+        {
+            name: "The Score 1320",
+            logo: "stations/images-america/c2c/elk_city_ok/The Score 1320.png",
+            url: "https://ice42.securenetsystems.net/KCLIAM"
         },
     ],
     "enid": [
