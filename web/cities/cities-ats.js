@@ -9792,9 +9792,9 @@ var cities_c2c = [
         "gameName": "elk_city",
         "realName": "Elk City",
         "country": "elk_city",
-        "x": "-17046.3",
+        "x": "-16846.3",
         "y": "102.43",
-        "z": "20901.1"
+        "z": "21301.1"
     },
     {
         "gameName": "enid",
