@@ -618,19 +618,19 @@ var stations = {
         {
             name: "RTRS",
             logo: "stations/images-europe/bosnia/RTRS.png",
-            url: "https://parh.rtrs.tv/radio/live/playlist.m3u8"
+            url: "https://radio.rtrs.tv/radio/live/playlist.m3u8"
         },
     ],
     "bulgaria": [
         {
             name: "БНР Хоризонт",
             logo: "stations/images-europe/bulgaria/БНР Хоризонт.png",
-            url: "https://e106-ts.evpn.bg/2032/2032/fls/Horizont.stream/playlist.m3u8"
+            url: "http://e106-ts.evpn.bg/2032/2032/fls/Horizont.stream/playlist.m3u8"
         },
         {
             name: "БНР Христо Ботев",
             logo: "stations/images-europe/bulgaria/БНР Христо Ботев.png",
-            url: "https://e106-ts.evpn.bg/2032/2032/fls/HrBotev.stream/playlist.m3u8"
+            url: "http://e106-ts.evpn.bg/2032/2032/fls/HrBotev.stream/playlist.m3u8"
         },
         {
             name: "БГ Радио",
@@ -4435,6 +4435,11 @@ var stations = {
             name: "Hit FM",
             logo: "stations/images-europe/serbia/Hit FM.png",
             url: "https://streaming.hitfm.rs/hit.mp3"
+        },
+        {
+            name: "Karolina",
+            logo: "stations/images-europe/serbia/Karolina.png",
+            url: "https://streaming.karolina.rs/karolina.mp3"
         },
         {
             name: "Naxi Radio",

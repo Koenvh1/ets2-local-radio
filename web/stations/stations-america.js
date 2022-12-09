@@ -62,7 +62,7 @@ var stations = {
         },
         {
             name: "Sunny 102.1",
-            logo: "stations/images-america/aberdeen/Sunny 102.1.png",
+            logo: "stations/images-america/aberdeen/Sunny 102.1_christmas.png",
             url: "http://us2.maindigitalstream.com/ssl/KSWW"
         },
         {
@@ -15176,6 +15176,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
+            name: "Family Radio 610",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
             name: "810 The Spread",
             logo: "stations/images-america/san_francisco/810 The Spread.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
@@ -25099,7 +25104,7 @@ var stations_c2c = {
         },
         {
             name: "95.7 The Mix",
-            logo: "stations/images-america/c2c/valdosta_ga/95.7 The Mix.png",
+            logo: "stations/images-america/c2c/valdosta_ga/95.7 The Mix_christmas.png",
             url: "https://ice9.securenetsystems.net/WQPW"
         },
         {
@@ -28366,7 +28371,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 106.9",
-            logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9.png",
+            logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9_christmas.png",
             url: "https://ice5.securenetsystems.net/KEDG"
         },
     ],
@@ -28734,7 +28739,7 @@ var stations_c2c = {
         },*/
         {
             name: "Sunny 98.3",
-            logo: "stations/images-america/c2c/monroe_la/Sunny 98.3.png",
+            logo: "stations/images-america/c2c/monroe_la/Sunny 98.3_christmas.png",
             url: "https://ice9.securenetsystems.net/KZRZ"
         },
         {
@@ -30728,8 +30733,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFBEFMAAC_SC"
         },
         {
-            name: "My 96.1",
-            logo: "stations/images-america/c2c/flint_mi/My 96.1.png",
+            name: "96.1 WHNN",
+            logo: "stations/images-america/c2c/flint_mi/96.1 WHNN_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHNNFMAAC_SC"
         },
         {
@@ -40134,7 +40139,7 @@ var stations_c2c = {
         },
         {
             name: "Star 107.7",
-            logo: "stations/images-america/c2c/jackson_tn/Star 107.7.png",
+            logo: "stations/images-america/c2c/jackson_tn/Star 107.7_christmas.png",
             url: "https://ice23.securenetsystems.net/WHHM"
         },
         {
@@ -40273,7 +40278,7 @@ var stations_c2c = {
         },
         {
             name: "B97.5",
-            logo: "stations/images-america/c2c/knoxville_tn/B97.5.png",
+            logo: "stations/images-america/c2c/knoxville_tn/B97.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXBFMAAC_SC"
         },
         {
@@ -40330,6 +40335,11 @@ var stations_c2c = {
             name: "WIVK 107.7",
             logo: "stations/images-america/c2c/knoxville_tn/WIVK 107.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIVKFMAAC_SC"
+        },
+        {
+            name: "WLIL Country 730",
+            logo: "stations/images-america/c2c/knoxville_tn/WLIL Country 730.png",
+            url: "http://96.38.1.34:8000/stream.mp3"
         },
         {
             name: "Random Music Radio 850",
@@ -48615,7 +48625,7 @@ var stations_alaska = {
         },
         {
             name: "Ted FM 103.9",
-            logo: "stations/images-america/alaska/fairbanks/Ted FM 103.9.png",
+            logo: "stations/images-america/alaska/fairbanks/Ted FM 103.9_christmas.png",
             url: "https://ice8.securenetsystems.net/KTDZ"
         },
         {
