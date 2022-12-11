@@ -20668,7 +20668,7 @@ var stations_mexico = {
         {
             name: "La Lupe 88.3",
             logo: "stations/images-america/mexico/tepic/La Lupe 88.3.png",
-            url: "https://streaming.multimedios.com/station11"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCTNFMAAC_SC"
         },
         {
             name: "La Patrona 92.1",
@@ -20676,14 +20676,14 @@ var stations_mexico = {
             url: "https://tv.radiohosting.online:9890/stream"
         },
         {
-            name: "La Picuda 93.7",
-            logo: "stations/images-america/mexico/tepic/La Picuda 93.7.png",
-            url: "https://streamingcwsradio30.com:7042/;"
+            name: "La Más Picuda 93.7",
+            logo: "stations/images-america/mexico/tepic/La Más Picuda 93.7.png",
+            url: "http://stream.zeno.fm/0regt02pu98uv"
         },
         {
             name: "Stereo Vida 95.3",
             logo: "stations/images-america/mexico/tepic/Stereo Vida 95.3.png",
-            url: "https://streamingcwsradio30.com:7040/stream"
+            url: "http://stream.zeno.fm/xx20nxypu98uv"
         },
         {
             name: "Love FM 96.1",
@@ -20693,17 +20693,17 @@ var stations_mexico = {
         {
             name: "La Nayarita 97.7",
             logo: "stations/images-america/mexico/tepic/La Nayarita 97.7.png",
-            url: "https://streamingcwsradio30.com:7038/stream"
+            url: "http://stream.zeno.fm/qskdnnypu98uv"
         },
         {
             name: "98.5 @FM",
             logo: "stations/images-america/mexico/tepic/98.5 @FM.png",
-            url: "https://streamingcwsradio30.com:7039/;"
+            url: "https://stream.zeno.fm/csvzw6ypu98uv"
         },
         {
             name: "Radio UAN 101.1",
             logo: "stations/images-america/mexico/tepic/Radio UAN 101.1.png",
-            url: "https://vmi364560.contaboserver.net/8002/stream"
+            url: "https://vmi942750.contaboserver.net:8000/;"
         },
         {
             name: "Radio Tepic 104.1",
@@ -26253,7 +26253,7 @@ var stations_c2c = {
         },
         {
             name: "104.1 WIKY",
-            logo: "stations/images-america/c2c/evansville_in/104.1 WIKY.png",
+            logo: "stations/images-america/c2c/evansville_in/104.1 WIKY_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIKYFMAAC_SC"
         },
         {
