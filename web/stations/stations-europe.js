@@ -1871,7 +1871,7 @@ var stations = {
         {
             name: "Radio Arabella Bayern",
             logo: "stations/images-europe/germany-br/Radio Arabella Bayern.png",
-            url: "https://live.arabella-bayern.de/arabella-bayern.mp3"
+            url: "https://live.stream.radioarabella.de/radioarabella-bayern/stream/mp3"
         },
         {
             name: "TOP FM",
@@ -3753,42 +3753,42 @@ var stations = {
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=absoluteclassicrockhigh-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=coolfm-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=coolfm-aac"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=downtown-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=downtown-aac"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=downtowncountry-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=downtowncountry-aac"
         },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/nireland/Hits Radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=hits-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/nireland/Hits Radio Pride.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=hitsradiopride-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=net2national-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=magicsoul-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "U105",
@@ -5540,7 +5540,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=absoluteradiohigh-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=absoluteradiohigh-aac"
         },
         {
             name: "Capital FM",
@@ -5570,7 +5570,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=net2national-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Gold Radio",
@@ -5605,22 +5605,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=heat-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=heat-aac"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=kissnational-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=kissnational-aac"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=kissfresh-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=kissfresh-aac"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=kisstory-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=kisstory-aac"
         },
         {
             name: "LBC",
@@ -5635,7 +5635,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "https://ats-radio.herokuapp.com/radiofeeds.php?station=magicnational-aac"
+            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=magicnational-aac"
         },
         {
             name: "Radio X",
