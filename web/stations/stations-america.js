@@ -8083,9 +8083,9 @@ var stations = {
             url: "https://cms.stream.publicradio.org/cms.aac"
         },
         {
-            name: "BSPR Classical 93.5",
-            logo: "stations/images-america/0_general_logos/BSPR.png",
-            url: "https://boisestate.streamguys1.com/Music1-aac-128k-icy"
+            name: "93.5 La Perrona",
+            logo: "stations/images-america/twin_falls/99.1 La Perrona.png",
+            url: "https://ic2.sslstream.com/kxta-fm"
         },
         {
             name: "94.5 KSKI",
