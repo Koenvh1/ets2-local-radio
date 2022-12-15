@@ -168,8 +168,13 @@ var stations = {
         },
         {
             name: "Pròxima FM",
-            logo: "stations/images-europe/spain/Pròxima FM.png",
+            logo: "stations/images-europe/andorra/Pròxima FM.png",
             url: "http://91.187.93.115:8000/;stream/1"
+        },
+        {
+            name: "La Red AM 910",
+            logo: "stations/images-europe/andorra/La Red AM 910.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC"
         },
     ],
     "armenia": [
