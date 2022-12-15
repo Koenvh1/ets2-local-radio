@@ -8003,7 +8003,7 @@ var stations = {
         {
             name: "REV-FM 94.3",
             logo: "stations/images-america/texas/kerrville/REV-FM 94.3.png",
-            url: "http://www.streamvortex.com:11370/stream"
+            url: "https://stream.thecrustychicken.com/proxy/revfm/stream"
         },
         {
             name: "96.5 The Fox",
@@ -32046,7 +32046,7 @@ var stations_c2c = {
         },
         {
             name: "93.9 Mike FM",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/93.9 Mike FM.png",
+            logo: "stations/images-america/c2c/cape_girardeau_mo/93.9 Mike FM_christmas.png",
             url: "https://ice23.securenetsystems.net/KGKS"
         },
         {
