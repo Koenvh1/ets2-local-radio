@@ -8520,12 +8520,12 @@ var stations = {
             name: "Z93",
             logo: "stations/images-america/texas/laredo/Z93.png",
             url: "https://ice7.securenetsystems.net/KJBZ"
-        },	
+        },	/*
         {
             name: "Imagen Radio 94.1",
             logo: "stations/images-america/texas/laredo/Imagen Radio 94.1.png",
             url: "http://radio.alphamx.net:8096/;stream.mp3"
-        },
+        },*/
         {
             name: "digital 94.9",
             logo: "stations/images-america/texas/laredo/digital 94.9.png",
