@@ -3873,7 +3873,7 @@ var stations = {
         },
         {
             name: "98.7 KLUV-HD3",
-            logo: "stations/images-america/texas/dallas_fort_worth/98.7 KLUV-HD3.png",
+            logo: "stations/images-america/texas/dallas_fort_worth/98.7 KLUV-HD3_christmas.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-kluvhd3aac-imc"
         },
         {
