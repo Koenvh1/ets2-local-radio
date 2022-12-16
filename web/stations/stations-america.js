@@ -42200,6 +42200,11 @@ var stations_c2c = {
             url: "http://crystalout.surfernetwork.com:8001/WNOV-AM_MP3"
         },
         {
+            name: "Pure Oldies 106.9",
+            logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9_christmas.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/saga-wrxsfmaac-ibc2"
+        },
+        {
             name: "620 WTMJ",
             logo: "stations/images-america/c2c/milwaukee_wi/620 WTMJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMJAMAAC_SC"
