@@ -4074,7 +4074,7 @@ var stations = {
         {
             name: "1040 KGGR",
             logo: "stations/images-america/texas/dallas_fort_worth/1040 KGGR.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://streaming.live365.com/a64956"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://ais-edge106-live365-dal02.cdnstream.com/a64956"
         },
         {
             name: "1080 KRLD",
@@ -8911,8 +8911,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVGQFMAAC_SC"
         },
         {
-            name: "ALT 107.5",
-            logo: "stations/images-america/las_vegas/ALT 107.5.png",
+            name: "X107.5",
+            logo: "stations/images-america/las_vegas/X107.5.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFMAAC_SC"
         },
         {
@@ -12512,7 +12512,7 @@ var stations = {
         },
         {
             name: "104.3 K-SHASTA",
-            logo: "stations/images-america/redding/104.3 K-Shasta.png",
+            logo: "stations/images-america/redding/104.3 K-Shasta_christmas.png",
             url: "https://ice5.securenetsystems.net/KSHA"
         },
         {
@@ -21065,8 +21065,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6737/hls.m3u8"
         },
         {
-            name: "106.9 The Eagle",
-            logo: "stations/images-america/c2c/birmingham_al/106.9 The Eagle.png",
+            name: "Classic Rock 106.9",
+            logo: "stations/images-america/c2c/birmingham_al/Classic Rock 106.9.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ais-sa1.streamon.fm/7686_128k.aac"
         },
         {
@@ -27748,8 +27748,8 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-keynfmaac-imc"
         },
         {
-            name: "104.5 The Fox",
-            logo: "stations/images-america/c2c/wichita_ks/104.5 The Fox.png",
+            name: "Classic Rock 104.5",
+            logo: "stations/images-america/c2c/wichita_ks/Classic Rock 104.5.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ais-sa1.streamon.fm/7720_128k.aac"
         },
         {
@@ -28236,8 +28236,8 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ais-sa1.streamon.fm/7704_128k.aac"
         },
         {
-            name: "107.7 The Eagle",
-            logo: "stations/images-america/c2c/louisville_ky/107.7 The Eagle.png",
+            name: "Classic Rock 107.7",
+            logo: "stations/images-america/c2c/louisville_ky/Classic Rock 107.7.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ais-sa1.streamon.fm/7703_128k.aac"
         },
         {
