@@ -15726,6 +15726,16 @@ var stations = {
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
+            name: "YNOP 88.9",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "CSN Radio 89.3",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -15741,8 +15751,8 @@ var stations = {
             url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
         },
         {
-            name: "92.7 X Rock",
-            logo: "stations/images-america/sheridan/92.7 X Rock.png",
+            name: "92.7 Grace FM",
+            logo: "stations/images-america/sheridan/92.7 Grace FM.png",
             url: "https://ice23.securenetsystems.net/KHRW"
         },
         {
@@ -15766,6 +15776,11 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KLGT"
         },
         {
+            name: "98.3 The Peak",
+            logo: "stations/images-america/sheridan/98.3 The Peak.png",
+            url: "https://ice8.securenetsystems.net/KZZS"
+        },
+        {
             name: "Pilgrim Radio 99.3",
             logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
@@ -15774,6 +15789,11 @@ var stations = {
             name: "Magic 102.3",
             logo: "stations/images-america/sheridan/Magic 102.3.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ice23.securenetsystems.net/MAGIC"
+        },
+        {
+            name: "KBBS 103.5",
+            logo: "stations/images-america/sheridan/KBBS 103.5.png",
+            url: "https://ice8.securenetsystems.net/KBBS"
         },
         {
             name: "KROE 103.9",
@@ -15799,6 +15819,21 @@ var stations = {
             name: "KWYO 106.9",
             logo: "stations/images-america/sheridan/KWYO 106.9.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ice23.securenetsystems.net/KWYO"
+        },
+        {
+            name: "KROE 930",
+            logo: "stations/images-america/sheridan/KROE 103.9.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://ice24.securenetsystems.net/KROE"
+        },
+        {
+            name: "KWYO 1410",
+            logo: "stations/images-america/sheridan/KWYO 106.9.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://ice23.securenetsystems.net/KWYO"
+        },
+        {
+            name: "KBBS 1450",
+            logo: "stations/images-america/sheridan/KBBS 103.5.png",
+            url: "http://ice8.securenetsystems.net/KBBS"
         },
     ],
     "show_low": [
