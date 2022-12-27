@@ -13225,6 +13225,11 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2615_48.aac"
         },
         {
+            name: "96.1 KYMX-HD2",
+            logo: "stations/images-america/sacramento/Sactown Sports 1140.png",
+            url: "http://bonneville.cdnstream1.com/2616_48.aac"
+        },
+        {
             name: "KUBU 96.5",
             logo: "stations/images-america/sacramento/KUBU 96.5.png",
             url: "http://crystalout.surfernetwork.com:8001/KUBU-LP_MP3"
@@ -32294,6 +32299,11 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYNFMAAC_SC"
         },
         {
+            name: "Magic Mix 92.9",
+            logo: "stations/images-america/c2c/joplin_mo/Magic Mix 92.9.png",
+            url: "https://ice42.securenetsystems.net/KQYX"
+        },
+        {
             name: "Classic Hits 93.9",
             logo: "stations/images-america/c2c/joplin_mo/Classic Hits 93.9.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KJMKFMAAC_SC"
@@ -41844,8 +41854,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOGBFMAAC_SC"
         },
         {
-            name: "KZ 104.3",
-            logo: "stations/images-america/c2c/green_bay_wi/KZ 104.3.png",
+            name: "Weird Al Radio 104.3",
+            logo: "stations/images-america/c2c/green_bay_wi/Weird Al Radio 104.3.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://woodward-radio.streamb.live/SB00131"
         },
         {
