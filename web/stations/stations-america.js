@@ -41896,12 +41896,12 @@ var stations_c2c = {
         {
             name: "Razor 94.7",
             logo: "stations/images-america/c2c/green_bay_wi/Razor 94.7.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://woodward-radio.streamb.live/SB00039"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDAzOQ=="
         },
         {
             name: "95.9 KISS FM",
             logo: "stations/images-america/c2c/green_bay_wi/95.9 KISS FM.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://woodward-radio.streamb.live/SB00132"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDEzMg=="
         },
         {
             name: "La Más Grande 96.9",
@@ -41941,12 +41941,12 @@ var stations_c2c = {
         {
             name: "Weird Al Radio 104.3",
             logo: "stations/images-america/c2c/green_bay_wi/Weird Al Radio 104.3.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://woodward-radio.streamb.live/SB00131"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDEzMQ=="
         },
         {
             name: "105.7 WAPL",
             logo: "stations/images-america/c2c/green_bay_wi/105.7 WAPL.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://woodward-radio.streamb.live/SB00020"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDAyMA=="
         },
         {
             name: "Big Dog 106.7",
