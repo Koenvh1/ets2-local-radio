@@ -12394,11 +12394,6 @@ var stations = {
             url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
-            name: "Pilgrim Radio 90.3",
-            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
-        },
-        {
             name: "CSN Radio 91.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
             url: "https://ice7.securenetsystems.net/CSNAAC"
