@@ -8941,9 +8941,24 @@ var stations = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/direct/audacy-kxntamaac-imc"
         },
         {
+            name: "TUDN Radio 870",
+            logo: "stations/images-america/texas/houston/TUDN Radio 93.3.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+        },
+        {
             name: "Raider Nation Radio 920",
             logo: "stations/images-america/las_vegas/Raider Nation Radio 920.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLVAMAAC_SC"
+        },
+        {
+            name: "Relevant Radio 970",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "KKVV 1060",
+            logo: "stations/images-america/las_vegas/KKVV 1060.png",
+            url: "https://ice8.securenetsystems.net/KKVV"
         },
         {
             name: "The Bet 1140",
