@@ -10351,14 +10351,24 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KAKT"
         },
         {
-            name: "The Valley 106.3",
-            logo: "stations/images-america/medford/The Valley 106.3.png",
+            name: "105.1-HD2 The Wolf",
+            logo: "stations/images-america/medford/95.1 The Wolf.png",
+            url: "http://ice6.securenetsystems.net/KAKTHD2"
+        },
+        {
+            name: "The Valley 105.5",
+            logo: "stations/images-america/medford/The Valley.png",
             url: "https://us9.maindigitalstream.com/ssl/KYVL"
         },
         {
-            name: "106.7 KMED",
-            logo: "stations/images-america/medford/106.7 KMED.png",
+            name: "106.3 KMED",
+            logo: "stations/images-america/medford/KMED.png",
             url: "https://us9.maindigitalstream.com/ssl/KMED"
+        },
+        {
+            name: "The Valley 106.3-HD2",
+            logo: "stations/images-america/medford/The Valley.png",
+            url: "https://us9.maindigitalstream.com/ssl/KYVL/"
         },
         {
             name: "107.5 KISS FM",
@@ -30990,6 +31000,11 @@ var stations_c2c = {
             name: "WKJC 104.7",
             logo: "stations/images-america/c2c/alpena_mi/WKJC 104.7.png",
             url: "https://ice7.securenetsystems.net/WKJC"
+        },
+        {
+            name: "105.7 The Bird",
+            logo: "stations/images-america/c2c/alpena_mi/105.7 The Bird.png",
+            url: "https://ice24.securenetsystems.net/WZTK"
         },
         {
             name: "107.7 The Bay",
