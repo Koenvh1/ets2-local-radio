@@ -1687,6 +1687,11 @@ var stations = {
             url: "https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq"
         },
         {
+            name: "90s90s",
+            logo: "stations/images-europe/germany/90s90s.png",
+            url: "https://streams.90s90s.de/pop/mp3-192"
+        },
+        {
             name: "Absolut Bella",
             logo: "stations/images-europe/germany/Absolut Bella.png",
             url: "https://absolut-bella.live-sm.absolutradio.de/absolut-bella"
@@ -1795,11 +1800,6 @@ var stations = {
             name: "Schwarzwaldradio",
             logo: "stations/images-europe/germany/Schwarzwaldradio.png",
             url: "https://stream.schwarzwaldradio.com/schwarzwaldradio"
-        },
-        {
-            name: "Sportradio Deutschland",
-            logo: "stations/images-europe/germany/Sportradio Deutschland.png",
-            url: "https://frontend.streamonkey.net/sportradio-deutschland"
         },
         {
             name: "sunshine live",

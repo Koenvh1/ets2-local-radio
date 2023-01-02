@@ -9951,12 +9951,12 @@ var stations = {
             name: "YNOP 96.1",
             logo: "stations/images-america/0_general_logos/YNOP.png",
             url: "http://ice23.securenetsystems.net/YNOP"
-        },
+        },/*
         {
             name: "KMMR 100.1",
             logo: "stations/images-america/malta/KMMR 100.1.png",
             url: "https://ice8.securenetsystems.net/KMMR"
-        },
+        },*/
         {
             name: "CBC Radio One 540",
             logo: "stations/images-america/canada/CBC Radio One.png",
@@ -22481,8 +22481,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc501/hls.m3u8"
         },
         {
-            name: "The New 93.3",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/The New 93.3.png",
+            name: "JAM'N 93.3",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/JAM'N 93.3.png",
             url: "https://stream.revma.ihrhls.com/zc7346/hls.m3u8"
         },
         {
@@ -25693,8 +25693,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
-            name: "Christmas 100.7",
-            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7_christmas.png",
+            name: "NOW 100.7",
+            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWHXFMAAC_SC"
         },
         {
@@ -32088,9 +32088,9 @@ var stations_c2c = {
             url: "https://ice10.securenetsystems.net/WRTMFM"
         },
         {
-            name: "100.9 Jack FM",
-            logo: "stations/images-america/c2c/jackson_ms/100.9 Jack FM.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/direct/alphacorporate-wjxnfmaac-ibc4"
+            name: "Air1 100.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Y101",
@@ -38108,8 +38108,8 @@ var stations_c2c = {
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
-            name: "Santa 92.7",
-            logo: "stations/images-america/c2c/lancaster_pa/nu 92.7_christmas.png",
+            name: "Happy 92.7",
+            logo: "stations/images-america/c2c/lancaster_pa/Happy 92.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUUFMAAC_SC"
         },
         {
