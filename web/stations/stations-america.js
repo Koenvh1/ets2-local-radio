@@ -7586,7 +7586,7 @@ var stations = {
         {
             name: "100.9 NRG",
             logo: "stations/images-america/indio/100.9 NRG.png",
-            url: "https://streams.radiomast.io/dd12e70b-da48-4d71-9212-eb8f8e9de597"
+            url: "https://streams.radiomast.io/b91617ff-71d6-495a-bba0-7256662a37ab"
         },
         {
             name: "101.3 The Mix",
@@ -24023,8 +24023,8 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WTMY"
         },
         {
-            name: "103.9 Santa FM",
-            logo: "stations/images-america/c2c/sarasota_fl/103.9 Santa FM.png",
+            name: "103.9 KISS FM",
+            logo: "stations/images-america/c2c/sarasota_fl/103.9 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc3309/hls.m3u8"
         },
         {
@@ -40881,11 +40881,6 @@ var stations_c2c = {
             url: "http://stream01048.westreamradio.com/wsm-am-mp3"
         },
         {
-            name: "1430 WPLN News",
-            logo: "stations/images-america/c2c/nashville_tn/1430 WPLN News.png",
-            url: "https://wpln.streamguys1.com/wplnam.mp3"
-        },
-        {
             name: "1510 WLAC",
             logo: "stations/images-america/c2c/nashville_tn/1510 WLAC.png",
             url: "https://stream.revma.ihrhls.com/zc2149/hls.m3u8"
@@ -42009,8 +42004,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOGBFMAAC_SC"
         },
         {
-            name: "Weird Al Radio 104.3",
-            logo: "stations/images-america/c2c/green_bay_wi/Weird Al Radio 104.3.png",
+            name: "104.3 The Fuse",
+            logo: "stations/images-america/c2c/green_bay_wi/104.3 The Fuse.png",
             url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDEzMQ=="
         },
         {
