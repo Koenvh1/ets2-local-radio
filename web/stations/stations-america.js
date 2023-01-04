@@ -31594,8 +31594,8 @@ var stations_c2c = {
             url: "https://nis.stream.publicradio.org/nis.aac"
         },
         {
-            name: "ROCK IT 93.5",
-            logo: "stations/images-america/c2c/worthington_mn/ROCK IT 93.5.png",
+            name: "93.5 Rewind FM",
+            logo: "stations/images-america/c2c/worthington_mn/93.5 Rewind FM.png",
             url: "https://us2.maindigitalstream.com/ssl/KITN"
         },
         {
@@ -31614,8 +31614,8 @@ var stations_c2c = {
             url: "http://ice23.securenetsystems.net/KUQQ"
         },
         {
-            name: "KUOO 104",
-            logo: "stations/images-america/c2c/worthington_mn/KUOO 104.png",
+            name: "FM 104 KUOO",
+            logo: "stations/images-america/c2c/worthington_mn/FM 104 KUOO.png",
             url: "http://ice23.securenetsystems.net/KUOO"
         },
         {
