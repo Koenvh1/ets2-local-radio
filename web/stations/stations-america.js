@@ -28366,8 +28366,8 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ais-sa1.streamon.fm/7703_128k.aac"
         },
         {
-            name: "790 KRD",
-            logo: "stations/images-america/c2c/louisville_ky/790 KRD.png",
+            name: "Sports Talk 790AM",
+            logo: "stations/images-america/c2c/louisville_ky/Sports Talk 790AM.png",
             url: "https://stream.revma.ihrhls.com/zc4836/hls.m3u8"
         },
         {
@@ -29961,6 +29961,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2525/hls.m3u8"
         },
         {
+            name: "101.1 WWDC-HD2",
+            logo: "stations/images-america/c2c/washington_dc/1190 iHeart Sports DC.png",
+            url: "http://stream.revma.ihrhls.com/zc7311/hls.m3u8"
+        },
+        {
             name: "Majic 102.3",
             logo: "stations/images-america/c2c/washington_dc/Majic 102.3.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMMJFMAAC_SC"
@@ -29971,9 +29976,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFMAAC_SC"
         },
         {
-            name: "104.7 WONK-FM",
-            logo: "stations/images-america/c2c/washington_dc/104.7 WONK-FM.png",
-            url: "https://stream.revma.ihrhls.com/zc7311/hls.m3u8"
+            name: "W284CQ 104.7",
+            logo: "stations/images-america/c2c/washington_dc/1190 iHeart Sports DC.png",
+            url: "https://stream.revma.ihrhls.com/zc7311"
         },
         {
             name: "WAVA 105.1",
@@ -30019,6 +30024,11 @@ var stations_c2c = {
             name: "BIN 1120",
             logo: "stations/images-america/c2c/washington_dc/BIN 1120.png",
             url: "https://stream.revma.ihrhls.com/zc8726/hls.m3u8"
+        },
+        {
+            name: "1190 iHeart Sports DC",
+            logo: "stations/images-america/c2c/washington_dc/1190 iHeart Sports DC.png",
+            url: "https://stream.revma.ihrhls.com/zc7311/hls.m3u8"
         },
         {
             name: "News Talk 1450",
@@ -41246,6 +41256,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVSPFMAAC_SC"
         },
         {
+            name: "94.1 WVSP-HD2",
+            logo: "stations/images-america/c2c/norfolk_va/FOX Sports 1310.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WGHAMAAC_SC"
+        },
+        {
             name: "94.9 The Point",
             logo: "stations/images-america/c2c/norfolk_va/94.9 The Point.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://live.amperwave.net/manifest/audacy-wptefmaac-imc"
@@ -41299,6 +41314,11 @@ var stations_c2c = {
             name: "100.5 The Vibe",
             logo: "stations/images-america/c2c/norfolk_va/100.5 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVBW_FMAAC_SC"
+        },
+        {
+            name: "FOX Sports 100.9",
+            logo: "stations/images-america/c2c/norfolk_va/FOX Sports 1310.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGHAMAAC_SC"
         },
         {
             name: "2WD 101.3",
@@ -41374,6 +41394,11 @@ var stations_c2c = {
             name: "WNIS 790",
             logo: "stations/images-america/c2c/norfolk_va/WNIS 790.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNISAMAAC_SC"
+        },
+        {
+            name: "FOX Sports 1310",
+            logo: "stations/images-america/c2c/norfolk_va/FOX Sports 1310.png",
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGHAMAAC.aac"
         },
     ],
     "richmond_va": [
