@@ -42741,9 +42741,9 @@ var stations_canada = {
             url: "https://goldenwest.leanstream.co/CFITFM"
         },
         {
-            name: "Q107",
-            logo: "stations/images-america/canada/calgary/Q107.png",
-            url: "http://live.leanstream.co/CILQFM-MP3"
+            name: "QR Calgary 107",
+            logo: "stations/images-america/canada/calgary/QR Calgary.png",
+            url: "https://live.leanstream.co/CHQRAM-MP3"
         },
         {
             name: "CityNews 660",
@@ -42751,8 +42751,8 @@ var stations_canada = {
             url: "https://rogers-hls.leanstream.co/rogers/cal660.stream/icy"
         },
         {
-            name: "NewsTalk 770",
-            logo: "stations/images-america/canada/calgary/770 CHQR.png",
+            name: "QR Calgary 770",
+            logo: "stations/images-america/canada/calgary/QR Calgary.png",
             url: "http://live.leanstream.co/CHQRAM-MP3"
         },
         {
@@ -47155,8 +47155,8 @@ var stations_greatamerica = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWITFMAAC_SC"
         },
         {
-            name: "ROCK IT 93.5",
-            logo: "stations/images-america/c2c/worthington_mn/ROCK IT 93.5.png",
+            name: "93.5 Rewind FM",
+            logo: "stations/images-america/c2c/worthington_mn/93.5 Rewind FM.png",
             url: "https://us2.maindigitalstream.com/ssl/KITN"
         },
         {
@@ -47181,13 +47181,13 @@ var stations_greatamerica = {
         },
         {
             name: "Q102",
-            logo: "stations/images-america/great_america/spiritlake/Q102.png",
-            url: "https://ice23.securenetsystems.net/KUQQ"
+            logo: "stations/images-america/c2c/worthington_mn/Q102.png",
+            url: "http://ice23.securenetsystems.net/KUQQ"
         },
         {
-            name: "KUOO 104",
-            logo: "stations/images-america/great_america/spiritlake/KUOO 104.png",
-            url: "https://ice23.securenetsystems.net/KUOO"
+            name: "FM 104 KUOO",
+            logo: "stations/images-america/c2c/worthington_mn/FM 104 KUOO.png",
+            url: "http://ice23.securenetsystems.net/KUOO"
         },
         {
             name: "More 104.9",
