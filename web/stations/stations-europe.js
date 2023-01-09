@@ -1448,6 +1448,11 @@ var stations = {
             url: "http://ais-live.cloud-services.paris:8000/europe1.mp3?aw_0_1st.playerid=lgrdrnwsTuneInE1"
         },
         {
+            name: "Europe 2",
+            logo: "stations/images-europe/france/Europe 2.svg",
+            url: "http://ais-live.cloud-services.paris:8000/europe2.mp3?aw_0_1st.playerid=lgrdrnwsTuneInE1"
+        },
+        {
             name: "FIP",
             logo: "stations/images-europe/france/FIP.png",
             url: "http://direct.fipradio.fr/live/fip-midfi.mp3"
@@ -1586,11 +1591,6 @@ var stations = {
             name: "Vibration",
             logo: "stations/images-europe/france/Vibration.png",
             url: "https://vibration.ice.infomaniak.ch/vibration-high.mp3"
-        },
-        {
-            name: "Virgin Radio",
-            logo: "stations/images-europe/france/Virgin Radio.png",
-            url: "https://ais-live.cloud-services.paris:8443/virgin.aac"
         },
     ],
     "georgia": [
