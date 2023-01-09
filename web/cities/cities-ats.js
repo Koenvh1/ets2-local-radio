@@ -903,7 +903,7 @@ var country_properties = {
         name: "Rangely",
         name_english: "Rangely",
         code: "us-co",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "raton": {
         name: "Raton",
@@ -1834,7 +1834,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "rangely": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "raton": {
         relative_whitenoise: 0.95
@@ -4007,9 +4007,9 @@ var cities = [
         "gameName": "rangely",
         "realName": "Rangely",
         "country": "rangely",
-        "x": "-54394.8",
+        "x": "-54094.8",
         "y": "137.723",
-        "z": "-10196.7"
+        "z": "-9396.7"
     },
     {
         "gameName": "steamboat_sp",
