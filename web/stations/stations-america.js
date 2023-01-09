@@ -108,8 +108,8 @@ var stations = {
             url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
         },
         {
-            name: "Mix 92.5",
-            logo: "stations/images-america/texas/abilene/Mix 92.5.png",
+            name: "92.5 The Ranch",
+            logo: "stations/images-america/texas/abilene/92.5 The Ranch.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmwxfmaac-ibc3"
         },
         {
@@ -4564,8 +4564,8 @@ var stations = {
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
-            name: "Jammin' 101.5",
-            logo: "stations/images-america/denver/Jammin' 101.5.png",
+            name: "JAMMIN’ 101.5",
+            logo: "stations/images-america/denver/JAMMIN’ 101.5.png",
             url: "https://live.wostreaming.net/manifest/maxmedia-kjhmfmaac-ibc1"
         },
         {
@@ -5129,6 +5129,11 @@ var stations = {
             name: "KNPR 88.7",
             logo: "stations/images-america/nevada/KNPR.svg",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
+        },
+        {
+            name: "CSN Radio 91.3",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "Pilgrim Radio 91.9",
@@ -16475,8 +16480,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "Jammin' 101.5",
-            logo: "stations/images-america/denver/Jammin' 101.5.png",
+            name: "JAMMIN’ 101.5",
+            logo: "stations/images-america/denver/JAMMIN’ 101.5.png",
             url: "https://live.wostreaming.net/manifest/maxmedia-kjhmfmaac-ibc1"
         },
         {

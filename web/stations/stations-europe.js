@@ -238,7 +238,7 @@ var stations = {
         {
             name: "jö.live",
             logo: "stations/images-europe/austria/jö.live.png",
-            url: "https://clubradio.joelive.at/clubradio.mp3"
+            url: "https://live.stream.maxfive.com/max5-joelive"
         },
         {
             name: "FM4",
