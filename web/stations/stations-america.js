@@ -3337,7 +3337,7 @@ var stations = {
         {
             name: "KIX Country 107.5",
             logo: "stations/images-america/colorado_springs_pueblo/KIX Country 107.5.png",
-            url: "https://ice10.securenetsystems.net/KQSC"
+            url: "https://cast4.my-control-panel.com/proxy/thetechn/stream"
         },
         {
             name: "107.9 KBPI South",

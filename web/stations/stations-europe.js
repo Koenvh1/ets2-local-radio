@@ -5453,7 +5453,7 @@ var stations = {
         {
             name: "Radyo Viva",
             logo: "stations/images-europe/turkey/Radyo Viva.png",
-            url: "http://46.20.3.231/;stream.nsv/;"
+            url: "https://radyoviva.radyotvonline.net/radyovivaaac"
         },
         {
             name: "Ribat FM",
