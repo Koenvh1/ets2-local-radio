@@ -3757,7 +3757,7 @@ var stations = {
         {
             name: "KFUG 101.1",
             logo: "stations/images-america/crescent_city/KFUG 101.1.png",
-            url: "https://stream.radio.co/s577c079c2/listen#.mp3"
+            url: "https://stream.radio.co/s577c079c2/listen"
         },
         {
             name: "KPOD 106.7",
@@ -4044,7 +4044,7 @@ var stations = {
         {
             name: "KKDA 730",
             logo: "stations/images-america/texas/dallas_fort_worth/KKDA 730.png",
-            url: "https://us3new.listen2myradio.com:2199/listen.php?port=8167&type=s1&mount=/stream"
+            url: "http://us1new.listen2myradio.com:10095/;"
         },
         {
             name: "The Truth 770",
@@ -5072,11 +5072,6 @@ var stations = {
             name: "860 Líder Informativo",
             logo: "stations/images-america/texas/el_paso/860 Líder Informativo.png",
             url: "https://tv.radiohosting.online:8102/stream"
-        },
-        {
-            name: "Lone Star 920",
-            logo: "stations/images-america/texas/el_paso/Lone Star 920.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQBUAMAAC_SC"
         },
         {
             name: "La Rancherita 1000",
