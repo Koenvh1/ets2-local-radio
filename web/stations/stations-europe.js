@@ -630,12 +630,12 @@ var stations = {
         {
             name: "БНР Хоризонт",
             logo: "stations/images-europe/bulgaria/БНР Хоризонт.png",
-            url: "http://e106-ts.evpn.bg/2032/2032/fls/Horizont.stream/playlist.m3u8"
+            url: "https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8"
         },
         {
             name: "БНР Христо Ботев",
             logo: "stations/images-europe/bulgaria/БНР Христо Ботев.png",
-            url: "http://e106-ts.evpn.bg/2032/2032/fls/HrBotev.stream/playlist.m3u8"
+            url: "https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8"
         },
         {
             name: "БГ Радио",
@@ -2288,7 +2288,7 @@ var stations = {
         {
             name: "94,3 rs2",
             logo: "stations/images-europe/germany-rbb/94,3 rs2.png",
-            url: "https://topradio-stream21.radiohost.de/rs2_mp3-192"
+            url: "https://stream.rs2.de/rs2/mp3-192"
         },
         {
             name: "98.8 KISS FM",
@@ -4390,6 +4390,11 @@ var stations = {
             url: "http://webradio.radiomonitor.com/stream/CentralFM"
         },
         {
+            name: "Edge Radio",
+            logo: "stations/images-europe/scotland/Edge Radio.png",
+            url: "https://s5.radio.co/s813789af2/listen"
+        },
+        {
             name: "Go Radio",
             logo: "stations/images-europe/scotland/Go Radio.png",
             url: "https://streaming.broadcastradio.com:8252/goradio"
@@ -5353,7 +5358,7 @@ var stations = {
         {
             name: "Erkam Radyo",
             logo: "stations/images-europe/turkey/Erkam Radyo.png",
-            url: "https://raddyo.com/radio/8010/radio.mp3"
+            url: "https://yayin2.canliyayin.org:10910/stream"
         },
         {
             name: "Joy Türk",
@@ -5801,17 +5806,17 @@ var stations = {
         {
             name: "راديو أجيال",
             logo: "stations/images-europe/westbank/راديو أجيال.png",
-            url: "https://icecast.mada.ps:8495/ajyalnewssl"
+            url: "https://streamer.mada.ps:8208/ajyal"
         },
         {
             name: "راديو انغام",
             logo: "stations/images-europe/westbank/راديو انغام.png",
-            url: "http://streamer.mada.ps:8010/ANGHAM"
+            url: "https://streamer.mada.ps:8010/ANGHAM"
         },
         {
             name: "Radio 101",
             logo: "stations/images-europe/westbank/Radio 101.png",
-            url: "http://streamer.mada.ps:8027/onefm"
+            url: "https://streamer.mada.ps:8027/onefm"
         },
         {
             name: "راديو كلاسيك",
