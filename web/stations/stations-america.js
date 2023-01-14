@@ -12246,6 +12246,31 @@ var stations = {
             url: "http://uprxstreamer.usu.edu:8000/stream"
         },
         {
+            name: "CSN Radio 90.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Key Radio 91.9",
+            logo: "stations/images-america/vernal/Key Radio 91.7.png",
+            url: "https://ic2.sslstream.com/keyy-am"
+        },
+        {
+            name: "93.7 The Wolf",
+            logo: "stations/images-america/price/93.7 The Wolf.png",
+            url: "https://ice10.securenetsystems.net/KKUT"
+        },
+        {
+            name: "94.5 The Eagle",
+            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            url: "https://ice10.securenetsystems.net/KLGL"
+        },
+        {
+            name: "Power 94.9",
+            logo: "stations/images-america/salt_lake/Power 94.9-101.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KENZFMAAC_SC"
+        },
+        {
             name: "95.3 The Peak",
             logo: "stations/images-america/price/95.3 The Peak.png",
             url: "https://www.ophanim.net:8444/s/7190"
@@ -12289,6 +12314,21 @@ var stations = {
             name: "KMTI 650",
             logo: "stations/images-america/salina/KMTI 95.1.png",
             url: "https://ice10.securenetsystems.net/KMTI"
+        },
+        {
+            name: "ESPN 700",
+            logo: "stations/images-america/salt_lake/ESPN 700.png",
+            url: "https://ais-sa1.streamon.fm/7349_48k.aac"
+        },
+        {
+            name: "The Truth 820",
+            logo: "stations/images-america/salt_lake/The Truth 820.png",
+            url: "https://stream.falconinternet.net:9018/;"
+        },
+        {
+            name: "True Country 1080",
+            logo: "stations/images-america/price/True Country 104.9.png",
+            url: "http://ice5.securenetsystems.net/KSLL"
         },
     ],
 	"quemado": [
