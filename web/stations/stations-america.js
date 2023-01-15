@@ -1395,8 +1395,8 @@ var stations = {
             url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
         },
         {
-            name: "NWPR Classical 91.7",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 91.7",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -6711,8 +6711,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7012_24k.aac"
         },
         {
-            name: "NWPR Classical 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.1",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -7864,13 +7864,13 @@ var stations = {
     ],
     "kennewick_pendleton": [
         {
-            name: "NWPR Classical 89.1",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 89.1",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
-            name: "NWPR News 89.7",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 89.7",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -9000,8 +9000,8 @@ var stations = {
             url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
         },
         {
-            name: "NWPR Classical 90.5",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.5",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -9060,8 +9060,8 @@ var stations = {
             url: "http://107.182.234.197:7805/stream"
         },
         {
-            name: "NWPR News 1250",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 1250",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
     ],
@@ -9181,8 +9181,8 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KLYK"
         },
         {
-            name: "NWPR News 97.5",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 97.5",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -11159,8 +11159,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
         },
         {
-            name: "NWPR Classical 90.9",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.9",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -11231,8 +11231,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPBX_FM_SC"
         },
         {
-            name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 90.1",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -11877,8 +11877,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
         },
         {
-            name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 90.1",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -15482,8 +15482,8 @@ var stations = {
             url: "http://jade.streamguys1.com:4050/live"
         },
         {
-            name: "NWPR Classical 90.9",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.9",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
@@ -15577,8 +15577,8 @@ var stations = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUCFMAAC_SC"
         },
         {
-            name: "VSiN 98.9-HD2",
-            logo: "stations/images-america/0_general_logos/VSiN.png",
+            name: "Tulalip Sportsbook Radio 98.9-HD2",
+            logo: "stations/images-america/seattle/Tulalip Sportsbook Radio 98.9-HD2.png",
             url: "https://vsin-sgrewind.streamguys1.com/sgrewind/live/playlist.m3u8"
         },
         {
@@ -16835,8 +16835,8 @@ var stations = {
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
-            name: "NWPR Classical 90.5",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.5",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -18008,13 +18008,13 @@ var stations = {
     ],
     "wenatchee": [
         {
-            name: "NWPR Classical 90.7",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.7",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
-            name: "NWPR News 90.3",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 90.3",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -18048,8 +18048,8 @@ var stations = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kwiqfmaac-ibc4"
         },
         {
-            name: "NWPR Jazz 101.1",
-            logo: "stations/images-america/0_general_logos/NWPR Jazz.png",
+            name: "NWPB Jazz 101.1",
+            logo: "stations/images-america/0_general_logos/NWPB Jazz.png",
             url: "https://streams.nwpr.org:8443/NWPRKJEM"
         },
         {
@@ -18303,13 +18303,13 @@ var stations = {
     ],
     "yakima": [
         {
-            name: "NWPR News 88.5",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 88.5",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
-            name: "NWPR Classical 90.3",
-            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
+            name: "NWPB Classical 90.3",
+            logo: "stations/images-america/0_general_logos/NWPB Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -44661,8 +44661,8 @@ var stations_canada = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
-            name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPR News.png",
+            name: "NWPB News 90.1",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
