@@ -1396,7 +1396,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 91.7",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -6712,7 +6712,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.1",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -7865,12 +7865,12 @@ var stations = {
     "kennewick_pendleton": [
         {
             name: "NWPR Classical 89.1",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
             name: "NWPR News 89.7",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -9001,7 +9001,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.5",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -9061,7 +9061,7 @@ var stations = {
         },
         {
             name: "NWPR News 1250",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
     ],
@@ -9182,7 +9182,7 @@ var stations = {
         },
         {
             name: "NWPR News 97.5",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -11160,7 +11160,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.9",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -11232,7 +11232,7 @@ var stations = {
         },
         {
             name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -11878,7 +11878,7 @@ var stations = {
         },
         {
             name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -15483,7 +15483,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.9",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "http://streams.nwpr.org:8000/NWPRCLASSICAL"
         },
         {
@@ -16836,7 +16836,7 @@ var stations = {
         },
         {
             name: "NWPR Classical 90.5",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -18009,12 +18009,12 @@ var stations = {
     "wenatchee": [
         {
             name: "NWPR Classical 90.7",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
             name: "NWPR News 90.3",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
@@ -18049,7 +18049,7 @@ var stations = {
         },
         {
             name: "NWPR Jazz 101.1",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Jazz.png",
             url: "https://streams.nwpr.org:8443/NWPRKJEM"
         },
         {
@@ -18304,12 +18304,12 @@ var stations = {
     "yakima": [
         {
             name: "NWPR News 88.5",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
             name: "NWPR Classical 90.3",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR Classical.png",
             url: "https://streams.nwpr.org:8443/NWPRCLASSICAL"
         },
         {
@@ -44662,7 +44662,7 @@ var stations_canada = {
         },
         {
             name: "NWPR News 90.1",
-            logo: "stations/images-america/0_general_logos/NWPB_100years.png",
+            logo: "stations/images-america/0_general_logos/NWPR News.png",
             url: "http://streams.nwpr.org:8000/NWPRNEWS"
         },
         {
