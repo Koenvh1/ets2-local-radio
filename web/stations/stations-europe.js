@@ -1107,7 +1107,7 @@ var stations = {
         {
             name: "Radio Hits 88.2",
             logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
-            url: "http://178.32.62.154:8957/;"
+            url: "https://radiohits882.radioca.st/;"
         },
         {
             name: "El Radio 9090 FM",
@@ -1117,7 +1117,7 @@ var stations = {
         {
             name: "95 FM",
             logo: "stations/images-europe/egypt/95 FM.png",
-            url: "http://178.32.62.154:9010/;"
+            url: "https://radio95.radioca.st/;"
         },
         {
             name: "Mega FM",
@@ -1132,12 +1132,12 @@ var stations = {
         {
             name: "Nile FM",
             logo: "stations/images-europe/egypt/Nile FM.png",
-            url: "https://reach-audio.esteam.rocks/radio/8010/live.mp3"
+            url: "https://audio.nrpstream.com/listen/nile_fm/radio.mp3"
         },
         {
             name: "Nogoum FM",
             logo: "stations/images-europe/egypt/Nogoum FM.png",
-            url: "https://reach-audio.esteam.rocks/radio/8000/live.mp3"
+            url: "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3"
         },
         {
             name: "NRJ Egypt",
@@ -3220,7 +3220,7 @@ var stations = {
         {
             name: "صـوت لبنــان",
             logo: "stations/images-europe/lebanon/صـوت لبنــان.png",
-            url: "http://209.15.226.17:9054/stream"
+            url: "https://l3.itworkscdn.net/itwaudio/9054/stream"
         },
         {
             name: "Sawt El Ghad",

@@ -33961,11 +33961,6 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wnbfamaac-ibc3"
         },
         {
-            name: "CBS Sports Radio 1360",
-            logo: "stations/images-america/c2c/binghamton_ny/CBS Sports Radio 1360.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-wyosamaac-ibc3"
-        },
-        {
             name: "FOX Sports 1430",
             logo: "stations/images-america/c2c/binghamton_ny/FOX Sports 1430.png",
             url: "https://stream.revma.ihrhls.com/zc3544/hls.m3u8"
