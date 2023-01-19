@@ -2381,8 +2381,8 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KKCI"
         },
         {
-            name: "KLOE 730",
-            logo: "stations/images-america/c2c/colby_ks/KLOE 730.png",
+            name: "FOX Sports 730",
+            logo: "stations/images-america/c2c/colby_ks/FOX Sports 730.png",
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
@@ -27345,8 +27345,8 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KKCI"
         },
         {
-            name: "KLOE 730",
-            logo: "stations/images-america/c2c/colby_ks/KLOE 730.png",
+            name: "FOX Sports 730",
+            logo: "stations/images-america/c2c/colby_ks/FOX Sports 730.png",
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {

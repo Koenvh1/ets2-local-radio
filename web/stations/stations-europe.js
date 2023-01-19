@@ -3022,12 +3022,12 @@ var stations = {
             url: "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
         },
     ],
-    "kazakhstan": [/*
+    "kazakhstan": [
         {
             name: "Qazaq radiosy",
             logo: "stations/images-europe/kazakhstan/Qazaq radiosy.png",
             url: "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio"
-        },*/
+        },
         {
             name: "Shalqar radiosy",
             logo: "stations/images-europe/kazakhstan/Shalqar radiosy.png",
@@ -3405,12 +3405,12 @@ var stations = {
         {
             name: "Radju Malta",
             logo: "stations/images-europe/malta/Radju Malta.jpg",
-            url: "https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE3MzE0MiwiYXVkIjoiMTQzLjE3Ny4xOTAuMjE5IiwiZXhwIjoxNjY2MDIzNDc5fQ.mEbKciyW-ru7GweT9x9QcayUalCU-okEfS9LAlxlKkU/live/6/master.m3u8"
+            url: "https://s38.myradiostream.com/6982/listen.mp3"
         },
         {
             name: "Radju Malta 2",
             logo: "stations/images-europe/malta/Radju Malta 2.jpg",
-            url: "https://dist4.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjE3MzE0MiwiYXVkIjoiMTQzLjE3Ny4xOTAuMjE5IiwiZXhwIjoxNjY2MDIzNDc5fQ.mEbKciyW-ru7GweT9x9QcayUalCU-okEfS9LAlxlKkU/live/7/master.m3u8"
+            url: "https://s11.myradiostream.com/:4954/listen.mp3"
         },
         {
             name: "103 Malta's Heart",
@@ -4672,27 +4672,27 @@ var stations = {
         {
             name: "Radio Nacional",
             logo: "stations/images-europe/spain/RNE Radio Nacional.png",
-            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r1_main.m3u8"
+            url: "https://dispatcher.rndfnk.com/crtve/rne1/main/mp3/high"
         },
         {
             name: "Radio Clásica",
             logo: "stations/images-europe/spain/RNE Radio Clásica.png",
-            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8"
+            url: "https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high"
         },
         {
             name: "Radio 3",
             logo: "stations/images-europe/spain/RNE Radio 3.png",
-            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r3_main.m3u8"
+            url: "https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high"
         },
         {
             name: "Radio 5",
             logo: "stations/images-europe/spain/RNE Radio 5.png",
-            url: "https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r5_madrid_main.m3u8"
+            url: "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high"
         },
         {
             name: "Cadena 100",
             logo: "stations/images-europe/spain/Cadena 100.png",
-            url: "https://cadena100-cope.flumotion.com/playlist.m3u8"
+            url: "https://cadena100-cope-rrcast.flumotion.com/cope/cadena100-low.mp3"
         },
         {
             name: "Cadena Dial",
