@@ -15834,8 +15834,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmonamaac-ibc3"
         },
         {
-            name: "770 CHQR",
-            logo: "stations/images-america/canada/calgary/770 CHQR.png",
+            name: "QR Calgary 770",
+            logo: "stations/images-america/canada/calgary/QR Calgary.png",
             url: "http://live.leanstream.co/CHQRAM-MP3"
         },
         {
@@ -43776,8 +43776,8 @@ var stations_canada = {
             url: "https://stream2.statsradio.com:8122/stream"
         },
         {
-            name: "Power 104",
-            logo: "stations/images-america/canada/kelowna/Power 104.png",
+            name: "104.7 The Lizard",
+            logo: "stations/images-america/canada/kelowna/104.7 The Lizard.png",
             url: "https://redirect.jpbgdigital.com/CKLZ"
         },
         {
@@ -43786,8 +43786,8 @@ var stations_canada = {
             url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICFFMAAC_SC"
         },
         {
-            name: "770 CHQR",
-            logo: "stations/images-america/canada/calgary/770 CHQR.png",
+            name: "QR Calgary 770",
+            logo: "stations/images-america/canada/calgary/QR Calgary.png",
             url: "http://live.leanstream.co/CHQRAM-MP3"
         },
         {
