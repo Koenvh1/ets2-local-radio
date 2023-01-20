@@ -6544,8 +6544,8 @@ var country_properties_c2c = {
         relative_radius: 0.7
     },
     "greatbend_ks": {
-        name: "greatbend_ks",
-        name_english: "greatbend_ks",
+        name: "Great Bend",
+        name_english: "Great Bend",
         code: "us-ks",
         relative_radius: 0.7
     },
@@ -7835,6 +7835,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "greatbend_ks": {
+		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "hays": {
@@ -8847,7 +8848,7 @@ var cities_c2c = [
     {
         "gameName": "greatbend_ks",
         "realName": "Great Bend",
-        "country": "greatbend_ks",
+        "country": "hays",
         "x": "-12390.6",
         "y": "188",
         "z": "3328.88"
