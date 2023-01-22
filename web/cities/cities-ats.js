@@ -10375,7 +10375,7 @@ var country_properties_canada = {
         name: "Iroquois Falls",
         name_english: "Iroquois Falls",
         code: "ca-on",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "jasper": {
         name: "Jasper",
@@ -10585,7 +10585,7 @@ var country_properties_canada = {
         name: "Rouyn-Noranda",
         name_english: "Rouyn-Noranda",
         code: "ca-qc",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "russel": {
         name: "Russel",
