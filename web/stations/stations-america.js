@@ -26646,12 +26646,12 @@ var stations_c2c = {
         {
             name: "107.9 WJFX-HD2",
             logo: "stations/images-america/c2c/fort_wayne_in/LOUD 103.3.png",
-            url: "http://live.wostreaming.net/manifest/adamsradio-wjfxhd2aac-ibc1"
+            url: "https://live.wostreaming.net/manifest/adamsradio-wjfxhd2aac-hlsc1.m3u8"
         },
         {
             name: "107.9 WJFX-HD3",
             logo: "stations/images-america/c2c/fort_wayne_in/B96.9.png",
-            url: "http://live.wostreaming.net/manifest/adamsradio-wjfxhd3aac-ibc1"
+            url: "https://live.wostreaming.net/manifest/adamsradio-wjfxhd3aac-hlsc1.m3u8"
         },
         {
             name: "Bott Radio 1090",
