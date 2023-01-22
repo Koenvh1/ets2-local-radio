@@ -44790,6 +44790,53 @@ var stations_canada = {
             url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
         },
     ],
+    "new_liskeard": [
+        {
+            name: "ICI Première 89.1",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8"
+        },
+        {
+            name: "FM 93,1",
+            logo: "stations/images-america/canada/new_liskeard/FM 93,1.png",
+            url: "https://stream2.statsradio.com:8138/stream"
+        },
+        {
+            name: "ICI Première 99.7",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8"
+        },
+        {
+            name: "KFM 100.9",
+            logo: "stations/images-america/canada/KFM.png",
+            url: "https://us2.streamingpulse.com/ssl/KFM"
+        },
+        {
+            name: "CJKL 101.5",
+            logo: "stations/images-america/canada/new_liskeard/CJKL 101.5.png",
+            url: "https://connelly.radioca.st/cjkl"
+        },
+        {
+            name: "CBC Radio One 102.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
+        },
+        {
+            name: "Ranch Country 103.1",
+            logo: "stations/images-america/canada/new_liskeard/Ranch Country 103.1.png",
+            url: "https://ice10.securenetsystems.net/CJBB"
+        },
+        {
+            name: "CHIM 103.5",
+            logo: "stations/images-america/canada/CHIM.png",
+            url: "https://ice7.securenetsystems.net/CHIMFM"
+        },
+        {
+            name: "CJTT 104.5",
+            logo: "stations/images-america/canada/new_liskeard/CJTT 104.5.png",
+            url: "http://46.4.40.246:9363/cjtt"
+        },
+    ],
     "north_bay": [
         {
             name: "Country 90.5",
@@ -46061,6 +46108,48 @@ var stations_canada = {
             name: "Country 105",
             logo: "stations/images-america/canada/thunderbay/Country 105.png",
             url: "https://ais-sa1.streamon.fm/7238_128k.aac"
+        },
+    ],
+    "timmins": [
+        {
+            name: "92.1 ROCK",
+            logo: "stations/images-america/canada/timmins/92.1 ROCK.png",
+            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim921.stream/icy"
+        },
+        {
+            name: "Country 93.1",
+            logo: "stations/images-america/canada/timmins/Country 93.1.png",
+            url: "https://vistaradio.streamb.live/SB00105"
+        },
+        {
+            name: "CBC Radio One 96.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
+        },
+        {
+            name: "ICI Première 97.1",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8"
+        },
+        {
+            name: "KiSS 99.3",
+            logo: "stations/images-america/canada/timmins/KiSS 99.3.png",
+            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim993.stream/icy"
+        },
+        {
+            name: "CHIM 102.3",
+            logo: "stations/images-america/canada/CHIM.png",
+            url: "https://ice7.securenetsystems.net/CHIMFM"
+        },
+        {
+            name: "Le Loup 104.1",
+            logo: "stations/images-america/canada/timmins/Le Loup 104.1.png",
+            url: "http://equinox.shoutca.st:9174/stream"
+        },
+        {
+            name: "KFM 105.5",
+            logo: "stations/images-america/canada/KFM.png",
+            url: "https://us2.streamingpulse.com/ssl/KFM"
         },
     ],
     "toronto": [

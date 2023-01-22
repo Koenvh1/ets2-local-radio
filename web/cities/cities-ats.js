@@ -10491,6 +10491,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 1.2
     },
+    "new_liskeard": {
+        name: "New Liskeard",
+        name_english: "New Liskeard",
+        code: "ca-on",
+        relative_radius: 0.7
+    },
     "north_bay": {
         name: "North Bay",
         name_english: "North Bay",
@@ -10634,6 +10640,12 @@ var country_properties_canada = {
         name_english: "Thunder Bay",
         code: "ca-on",
         relative_radius: 1.2
+    },
+    "timmins": {
+        name: "Timmins",
+        name_english: "Timmins",
+        code: "ca-on",
+        relative_radius: 0.8
     },
     "toronto": {
         name: "Toronto",
@@ -10839,6 +10851,9 @@ var city_properties_canada = {
     "nakina": {
         relative_whitenoise: 0.95
     },
+    "new_liskeard": {
+        relative_whitenoise: 0.95
+    },
     "north_bay": {
         relative_whitenoise: 0.85
     },
@@ -10909,6 +10924,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.75
     },
     "thunderbay": {
+        relative_whitenoise: 0.95
+    },
+    "timmins": {
         relative_whitenoise: 0.95
     },
     "toronto": {
@@ -11317,6 +11335,14 @@ var cities_canada = [
         "z": "-66400.7"
     },
     {
+        "gameName": "new_liskeard",
+        "realName": "New Liskeard",
+        "country": "new_liskeard",
+        "x": "61924",
+        "y": "41.4745",
+        "z": "-53346.7"
+    },
+    {
         "gameName": "orillia",
         "realName": "Orillia",
         "country": "orillia",
@@ -11499,6 +11525,14 @@ var cities_canada = [
         "x": "25738.7",
         "y": "69.7773",
         "z": "-54215"
+    },
+    {
+        "gameName": "timmins",
+        "realName": "Timmins",
+        "country": "timmins",
+        "x": "57898.7",
+        "y": "99",
+        "z": "-58230.9"
     },
     {
         "gameName": "toronto",
