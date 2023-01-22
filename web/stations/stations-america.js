@@ -43815,38 +43815,6 @@ var stations_canada = {
             url: "https://vistaradio.streamb.live/SB00109"
         },
     ],
-    "iroquoisfall": [
-        {
-            name: "92.1 ROCK",
-            logo: "stations/images-america/canada/iroquoisfall/92.1 ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim921.stream/icy"
-        },
-        {
-            name: "CBC Radio One 96.1",
-            logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_sud"
-        },
-        {
-            name: "ICI Première 97.1",
-            logo: "stations/images-america/canada/ICI Première.png",
-            url: "https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/playlist.m3u8"
-        },
-        {
-            name: "98.1 Moose FM",
-            logo: "stations/images-america/canada/iroquoisfall/98.1 Moose FM.png",
-            url: "https://vistaradio.streamb.live/SB00103"
-        },
-        {
-            name: "KiSS 99.3",
-            logo: "stations/images-america/canada/iroquoisfall/KiSS 99.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim993.stream/icy"
-        },
-        {
-            name: "CHIM 102.7",
-            logo: "stations/images-america/canada/CHIM.png",
-            url: "https://ice7.securenetsystems.net/CHIMFM"
-        },
-    ],
     "jasper": [
         {
             name: "CJAG 92.3",

@@ -11161,7 +11161,7 @@ var cities_canada = [
     {
         "gameName": "iroquoisfall",
         "realName": "Iroquois Falls",
-        "country": "iroquoisfall",
+        "country": "timmins",
         "x": "57355.1",
         "y": "104.055",
         "z": "-60873.2"
