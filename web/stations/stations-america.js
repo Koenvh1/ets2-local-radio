@@ -26970,8 +26970,8 @@ var stations_c2c = {
             url: "https://ic2.sslstream.com/wyxx-fm"
         },
         {
-            name: "Vinyl Live 99.3",
-            logo: "stations/images-america/c2c/south_bend_in/Vinyl Live 99.3.png",
+            name: "Vinyl Gold 99.3",
+            logo: "stations/images-america/c2c/south_bend_in/Vinyl Gold 99.3.png",
             url: "https://kvbstreams.dyndns.org/wkvi-fm"
         },
         {
