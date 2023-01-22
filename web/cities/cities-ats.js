@@ -6465,6 +6465,12 @@ var country_properties_c2c = {
         code: "us-in",
         relative_radius: 0.7
     },
+    "fort_wayne_in": {
+        name: "Fort Wayne",
+        name_english: "Fort Wayne",
+        code: "us-in",
+        relative_radius: 0.7
+    },
     "indianapolis": {
         name: "indianapolis",
         name_english: "indianapolis",
@@ -7798,6 +7804,9 @@ var city_properties_c2c = {
     "evansville_in": {
         relative_whitenoise: 0.85
     },
+    "fort_wayne_in": {
+        relative_whitenoise: 0.95
+    },
     "indianapolis": {
         relative_whitenoise: 0.75
     },
@@ -8756,6 +8765,14 @@ var cities_c2c = [
         "x": "38176.1",
         "y": "89.8925",
         "z": "3043.07"
+    },
+    {
+        "gameName": "fort_wayne_in",
+        "realName": "Fort Wayne",
+        "country": "fort_wayne_in",
+        "x": "46861.2",
+        "y": "173.821",
+        "z": "-13849.3"
     },
     {
         "gameName": "lafayette_in",

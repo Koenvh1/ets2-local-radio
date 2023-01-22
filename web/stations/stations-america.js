@@ -26477,6 +26477,208 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wgbfamaac-ibc3"
         },
     ],
+    "fort_wayne_in": [
+        {
+            name: "STAR 88.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/STAR 88.3.png",
+            url: "https://securestreams2.autopo.st:1069/STAR883.mp3"
+        },
+        {
+            name: "89.1 WBOI",
+            logo: "stations/images-america/c2c/fort_wayne_in/89.1 WBOI.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOIFMAAC_SC"
+        },
+        {
+            name: "Rejoice Radio 89.7",
+            logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
+            url: "https://cld2099ice.audiovideoweb.com:8443/4c3ice5521"
+        },
+        {
+            name: "WBCL 90.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/WBCL 90.3.png",
+            url: "https://ice9.securenetsystems.net/WBCL"
+        },
+        {
+            name: "The Point 91 FM",
+            logo: "stations/images-america/c2c/fort_wayne_in/The Point 91 FM.png",
+            url: "https://www.wcyt.org/audio/wcyt.mp3"
+        },
+        {
+            name: "91.1 WCYT-HD2",
+            logo: "stations/images-america/c2c/fort_wayne_in/The Point 91 FM.png",
+            url: "https://www.wcyt.org/audio/wcythd2.mp3"
+        },
+        {
+            name: "BIG 92.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/BIG 92.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFWIFMAAC_SC"
+        },
+        {
+            name: "US 93.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/US 93.3.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-wbtufmaac-ibc1"
+        },
+        {
+            name: "Bott Radio 93.7",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://ic1.christiannetcast.com/bottradio"
+        },
+        {
+            name: "Rhythm & Praise 94.1",
+            logo: "stations/images-america/c2c/fort_wayne_in/Rhythm & Praise 94.1.png",
+            url: "https://ice24.securenetsystems.net/GOSPH"
+        },
+        {
+            name: "Majic 95.1",
+            logo: "stations/images-america/c2c/fort_wayne_in/Majic 95.1.png",
+            url: "https://ice64.securenetsystems.net/WAJI"
+        },
+        {
+            name: "95.1 WAJI-HD2",
+            logo: "stations/images-america/c2c/fort_wayne_in/ALT 99.5 & 102.3.png",
+            url: "http://ice64.securenetsystems.net/WAJIHD"
+        },
+        {
+            name: "The Twenty FM 95.1-HD3",
+            logo: "stations/images-america/c2c/fort_wayne_in/The Twenty FM.png",
+            url: "http://ice24.securenetsystems.net/WAJIHD3"
+        },
+        {
+            name: "95.7 WELT",
+            logo: "stations/images-america/c2c/fort_wayne_in/95.7 WELT.png",
+            url: "https://securestreams2.autopo.st:1069/WELT.mp3"
+        },
+        {
+            name: "96.3 XKE",
+            logo: "stations/images-america/c2c/fort_wayne_in/96.3 XKE.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-wxkefmaac-ibc1"
+        },
+        {
+            name: "B96.9",
+            logo: "stations/images-america/c2c/fort_wayne_in/B96.9.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-wjfxhd3aac-ibc1"
+        },
+        {
+            name: "97.3 WMEE",
+            logo: "stations/images-america/c2c/fort_wayne_in/97.3 WMEE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEEFMAAC_SC"
+        },
+        {
+            name: "97.3 WMEE-HD2",
+            logo: "stations/images-america/c2c/fort_wayne_in/WOWO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOWOAMAAC.aac"
+        },
+        {
+            name: "Mix 98.1",
+            logo: "stations/images-america/c2c/fort_wayne_in/Mix 98.1.png",
+            url: "https://stream.revma.ihrhls.com/zc1793/hls.m3u8"
+        },
+        {
+            name: "98.9 The Bear",
+            logo: "stations/images-america/c2c/fort_wayne_in/98.9 The Bear.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBYRFMAAC_SC"
+        },
+        {
+            name: "ALT 99.5 & 102.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/ALT 99.5 & 102.3.png",
+            url: "https://ice64.securenetsystems.net/WAJIHD"
+        },
+        {
+            name: "W265CY 100.9",
+            logo: "stations/images-america/c2c/fort_wayne_in/1380 The Fan.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKJGAMAAC.aac"
+        },	
+        {
+            name: "Classic Hits 101.7",
+            logo: "stations/images-america/c2c/fort_wayne_in/Classic Hits 101.7.png",
+            url: "https://ice64.securenetsystems.net/WLDE"
+        },
+        {
+            name: "ALT 99.5 & 102.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/ALT 99.5 & 102.3.png",
+            url: "http://ice64.securenetsystems.net//WAJIHD"
+        },
+        {
+            name: "Calvary Radio Network 102.9",
+            logo: "stations/images-america/c2c/fort_wayne_in/Calvary Radio Network 102.9.png",
+            url: "http://radio3.citrus3.com:8036/;stream.mp3"
+        },
+        {
+            name: "LOUD 103.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/LOUD 103.3.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-wjfxhd2aac-ibc1"
+        },
+        {
+            name: "103.9 Wayne FM",
+            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-wwfwfmaac-ibc1"
+        },
+        {
+            name: "Oldies 104.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/Oldies 104.3.png",
+            url: "https://streams.radiomast.io/c9bc1a59"
+        },
+        {
+            name: "K105",
+            logo: "stations/images-america/c2c/fort_wayne_in/K105.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQHKFMAAC_SC"
+        },
+        {
+            name: "W288EI 105.5",
+            logo: "stations/images-america/c2c/fort_wayne_in/WGL News Radio.png",
+            url: "https://streams.radiomast.io/5d7b08e2-7447-4c59-97f1-bbbb83a5090e"
+        },	
+        {
+            name: "Redeemer Radio 106.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/Redeemer Radio 106.3.png",
+            url: "https://redeemerradio.streamguys1.com/live2"
+        },
+        {
+            name: "W298BJ 107.5",
+            logo: "stations/images-america/c2c/fort_wayne_in/WOWO.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WOWOAMAAC_SC"
+        },
+        {
+            name: "HOT 107.9",
+            logo: "stations/images-america/c2c/fort_wayne_in/HOT 107.9.png",
+            url: "https://live.wostreaming.net/manifest/adamsradio-wjfxfmaac-ibc1"
+        },
+        {
+            name: "107.9 WJFX-HD2",
+            logo: "stations/images-america/c2c/fort_wayne_in/LOUD 103.3.png",
+            url: "http://live.wostreaming.net/manifest/adamsradio-wjfxhd2aac-ibc1"
+        },
+        {
+            name: "107.9 WJFX-HD3",
+            logo: "stations/images-america/c2c/fort_wayne_in/B96.9.png",
+            url: "http://live.wostreaming.net/manifest/adamsradio-wjfxhd3aac-ibc1"
+        },
+        {
+            name: "Bott Radio 1090",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "https://ic1.christiannetcast.com/bottradio"
+        },
+        {
+            name: "WOWO 1190",
+            logo: "stations/images-america/c2c/fort_wayne_in/WOWO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOWOAMAAC_SC"
+        },
+        {
+            name: "WGL News Radio 1250",
+            logo: "stations/images-america/c2c/fort_wayne_in/WGL News Radio.png",
+            url: "http://streams.radiomast.io/5d7b08e2-7447-4c59-97f1-bbbb83a5090e"
+        },
+        {
+            name: "1380 The Fan",
+            logo: "stations/images-america/c2c/fort_wayne_in/1380 The Fan.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKJGAMAAC_SC"
+        },
+        {
+            name: "Oldies 1450",
+            logo: "stations/images-america/c2c/fort_wayne_in/Oldies 104.3.png",
+            url: "http://audio-edge-ey5nr.ams.s.radiomast.io/c9bc1a59"
+        },
+    ],
     "indianapolis": [
         {
             name: "WICR 88.7",
@@ -26775,7 +26977,7 @@ var stations_c2c = {
         {
             name: "Live 99.9",
             logo: "stations/images-america/c2c/south_bend_in/Live 99.9.png",
-            url: "https://live.wostreaming.net/manifest/wsbt-wqlqfmaac-ibc1"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/manifest/wsbt-wqlqfmaac-ibc1"
         },
         {
             name: "B100",
