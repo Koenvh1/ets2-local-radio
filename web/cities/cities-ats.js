@@ -10689,6 +10689,12 @@ var country_properties_canada = {
         code: "ca-yt",
         relative_radius: 1.2
     },
+    "whitney": {
+        name: "Whitney",
+        name_english: "Whitney",
+        code: "ca-on",
+        relative_radius: 0.6
+    },
     "williamslake": {
         name: "Williams Lake",
         name_english: "Williams Lake",
@@ -10950,6 +10956,9 @@ var city_properties_canada = {
     "whistler": {
 		relative_radius: 0.4,
         relative_whitenoise: 0.85
+    },
+    "whitney": {
+        relative_whitenoise: 0.95
     },
     "williamslake": {
         relative_whitenoise: 0.85
@@ -11589,6 +11598,14 @@ var cities_canada = [
         "x": "-98948.1",
         "y": "21.2014",
         "z": "-77017"
+    },
+    {
+        "gameName": "whitney",
+        "realName": "Whitney",
+        "country": "whitney",
+        "x": "70115.4",
+        "y": "50.3067",
+        "z": "-44045.4"
     },
     {
         "gameName": "williamslake",

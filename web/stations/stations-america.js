@@ -193,9 +193,9 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KXOX"
         },
         {
-            name: "Lone Star 1280",
-            logo: "stations/images-america/texas/abilene/Lone Star 1280.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-ksliamaac-ibc3"
+            name: "KSLI 1280",
+            logo: "stations/images-america/texas/abilene/92.5 The Ranch.png",
+            url: "http://live.wostreaming.net/manifest/townsquare-kmwxfmaac-ibc3"
         },
         {
             name: "FOX Sports 1340",
@@ -46682,6 +46682,43 @@ var stations_canada = {
             name: "ICI Première 103.1",
             logo: "stations/images-america/canada/ICI Première.png",
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/playlist.m3u8"
+        },
+    ],
+    "whitney": [
+        {
+            name: "The Bay 88.7",
+            logo: "stations/images-america/canada/whitney/The Bay 88.7.png",
+            url: "https://thebay887.ca:8002/;stream.mp3"
+        },
+        {
+            name: "93.5 Moose FM",
+            logo: "stations/images-america/canada/whitney/93.5 Moose FM.png",
+            url: "https://vistaradio.streamb.live/SB00113"
+        },
+        {
+            name: "97.7 Moose FM",
+            logo: "stations/images-america/canada/whitney/97.7 Moose FM.png",
+            url: "https://vistaradio.streamb.live/SB00110"
+        },
+        {
+            name: "CBC Radio One 98.5",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
+        },
+        {
+            name: "105.5 Moose FM",
+            logo: "stations/images-america/canada/whitney/105.5 Moose FM.png",
+            url: "https://vistaradio.streamb.live/SB00116"
+        },
+        {
+            name: "106.5 Moose FM",
+            logo: "stations/images-america/canada/whitney/106.5 Moose FM.png",
+            url: "https://vistaradio.streamb.live/SB00109"
+        },
+        {
+            name: "CBC Music 106.9",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg"
         },
     ],
     "williamslake": [
