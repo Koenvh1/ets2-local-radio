@@ -10243,7 +10243,7 @@ var country_properties_canada = {
         name: "Bancroft",
         name_english: "Bancroft",
         code: "ca-on",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "belleville": {
         name: "Belleville",
