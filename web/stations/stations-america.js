@@ -42854,7 +42854,7 @@ var stations_canada = {
         {
             name: "plaisir 105.3",
             logo: "stations/images-america/canada/matane/plaisir 105.3.png",
-            url: "http://stream.statsradio.com:8028/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHRM_FM_SC"
         },
         {
             name: "ICI Première 106.1",
@@ -43198,7 +43198,7 @@ var stations_canada = {
         {
             name: "Q104",
             logo: "stations/images-america/canada/dryden/Q104.png",
-            url: "https://goldenwest.leanstream.co/CKQVFM"
+            url: "https://ais-sa1.streamon.fm/7808_96k.aac"
         },
     ],
     "edmonton": [
@@ -43290,7 +43290,7 @@ var stations_canada = {
         {
             name: "ICI Musique 101.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8"
         },
         {
             name: "Connect 101.7",
@@ -44460,9 +44460,9 @@ var stations_canada = {
     ],
     "matane": [
         {
-            name: "O95.3",
+            name: "O95,3",
             logo: "stations/images-america/canada/matane/O95.3.png",
-            url: "https://stream.statsradio.com:8026/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHOE_FM_SC"
         },
         {
             name: "CKMN 96.5",
@@ -44487,7 +44487,7 @@ var stations_canada = {
         {
             name: "plaisir 105.3",
             logo: "stations/images-america/canada/matane/plaisir 105.3.png",
-            url: "http://stream.statsradio.com:8028/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHRM_FM_SC"
         },
         {
             name: "ICI Musique 107.5",
@@ -44686,9 +44686,9 @@ var stations_canada = {
             url: "http://mediacast.b2b2c.ca:8010/;"
         },
         {
-            name: "FM 103.3",
+            name: "FM 103,3",
             logo: "stations/images-america/canada/montreal/FM 103.3.png",
-            url: "https://stream.statsradio.com:8062/stream"
+            url: "https://fm-1033.streamb.live/SB00151"
         },
         {
             name: "105.1 Mike FM",
@@ -45520,7 +45520,7 @@ var stations_canada = {
         {
             name: "ICI Musique 88.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7MWIN0_WIN"
+            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8"
         },
         {
             name: "MBC Radio 90.3",
@@ -45718,7 +45718,7 @@ var stations_canada = {
         {
             name: "ICI Musique 88.7",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7MWIN0_WIN"
+            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8"
         },
         {
             name: "CFCR 90.5",
@@ -45882,7 +45882,7 @@ var stations_canada = {
         {
             name: "CKAU 90.1",
             logo: "stations/images-america/canada/septiles/CKAU 90.1.png",
-            url: "https://cp13.shoutcheap.com:18005/live"
+            url: "https://edge.mixlr.com/channel/qjvlw"
         },
         {
             name: "Plaisir 94.1",
@@ -46035,7 +46035,7 @@ var stations_canada = {
         {
             name: "Information Radio 90.5",
             logo: "stations/images-america/canada/thunderbay/Information Radio.png",
-            url: "http://freeuk21.listen2myradio.com:36457/;"
+            url: "http://freeuk25.listen2myradio.com:18091/;"
         },
         {
             name: "91.5 CKPR",
@@ -46050,7 +46050,7 @@ var stations_canada = {
         {
             name: "UCB Canada 95.1",
             logo: "stations/images-america/canada/thunderbay/UCB Canada 95.1.png",
-            url: "https://ice24.securenetsystems.net/UBC1023"
+            url: "https://ice24.securenetsystems.net/TBAY951"
         },
         {
             name: "99.9 The Bay",
@@ -46725,7 +46725,7 @@ var stations_canada = {
         {
             name: "ICI Musique 89.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7MWIN0_WIN"
+            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8"
         },
         {
             name: "Envol 91 FM",
@@ -46852,7 +46852,7 @@ var stations_canada = {
         {
             name: "ICI Musique 106.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8"
         },
         {
             name: "ICI Première 107.3",
