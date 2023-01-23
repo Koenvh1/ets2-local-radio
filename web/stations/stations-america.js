@@ -44765,8 +44765,8 @@ var stations_canada = {
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8"
         },
         {
-            name: "FM 93,1",
-            logo: "stations/images-america/canada/new_liskeard/FM 93,1.png",
+            name: "CKVM FM 93,1",
+            logo: "stations/images-america/canada/new_liskeard/CKVM FM 93,1.png",
             url: "https://stream2.statsradio.com:8138/stream"
         },
         {
@@ -45610,9 +45610,9 @@ var stations_canada = {
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8"
         },
         {
-            name: "O95.7",
-            logo: "stations/images-america/canada/rouynnoranda/O95.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHGO_FMAAC_SC"
+            name: "O95,7",
+            logo: "stations/images-america/canada/rouynnoranda/O95,7.png",
+            url: "https://stream2.statsradio.com:8136/stream"
         },
         {
             name: "WOW 96.5",
