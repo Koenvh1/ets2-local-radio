@@ -10699,7 +10699,7 @@ var country_properties_canada = {
         name: "Whitney",
         name_english: "Whitney",
         code: "ca-on",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "williamslake": {
         name: "Williams Lake",
