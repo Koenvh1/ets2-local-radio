@@ -42862,6 +42862,33 @@ var stations_canada = {
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/playlist.m3u8"
         },
     ],
+    "bancroft": [
+        {
+            name: "97.7 Moose FM",
+            logo: "stations/images-america/canada/bancroft/97.7 Moose FM.png",
+            url: "https://vistaradio.streamb.live/SB00110"
+        },
+        {
+            name: "CBC Radio One 99.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_tor"
+        },
+        {
+            name: "UCB Canada 103.5",
+            logo: "stations/images-america/canada/belleville/UCB Canada 102.3.png",
+            url: "https://ice24.securenetsystems.net/BELL1023"
+        },
+        {
+            name: "CJBQ 800 am",
+            logo: "stations/images-america/canada/belleville/CJBQ 800 am.png",
+            url: "https://quinte.leanstream.co/CJBQAM-MP3"
+        },
+        {
+            name: "TSN 1200",
+            logo: "stations/images-america/canada/ottawa/TSN 1200.png",
+            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
+        },
+    ],
     "belleville": [
         {
             name: "myFM 88.7",
@@ -46697,7 +46724,7 @@ var stations_canada = {
         },
         {
             name: "97.7 Moose FM",
-            logo: "stations/images-america/canada/whitney/97.7 Moose FM.png",
+            logo: "stations/images-america/canada/bancroft/97.7 Moose FM.png",
             url: "https://vistaradio.streamb.live/SB00110"
         },
         {

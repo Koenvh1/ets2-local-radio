@@ -10239,6 +10239,12 @@ var country_properties_canada = {
         code: "ca-qc",
         relative_radius: 1.2
     },
+    "bancroft": {
+        name: "Bancroft",
+        name_english: "Bancroft",
+        code: "ca-on",
+        relative_radius: 0.7
+    },
     "belleville": {
         name: "Belleville",
         name_english: "Belleville",
@@ -10725,6 +10731,9 @@ var city_properties_canada = {
     "baiecomeau": {
         relative_whitenoise: 0.95
     },
+    "bancroft": {
+        relative_whitenoise: 0.95
+    },
     "belleville": {
         relative_whitenoise: 0.85
     },
@@ -10982,6 +10991,14 @@ var cities_canada = [
         "x": "99059.4",
         "y": "112.98",
         "z": "-73027.1"
+    },
+    {
+        "gameName": "bancroft",
+        "realName": "Bancroft",
+        "country": "bancroft",
+        "x": "71074.7",
+        "y": "80.4344",
+        "z": "-41660.5"
     },
     {
         "gameName": "belleville",
