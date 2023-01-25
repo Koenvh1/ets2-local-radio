@@ -519,14 +519,19 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KMGG"
         },
         {
+            name: "The Planet 99.9-HD2",
+            logo: "stations/images-america/albuquerque/The Planet 99.9-HD2.png",
+            url: "https://ice41.securenetsystems.net/THEPLANETHD3"
+        },
+        {
             name: "WiLD 99.9-HD3",
             logo: "stations/images-america/albuquerque/WiLD 99.9-HD3.png",
             url: "https://ice6.securenetsystems.net/KMGGHD2"
         },
         {
-            name: "La Invencible 99.9-HD4",
-            logo: "stations/images-america/albuquerque/La Invencible 99.9-HD4.png",
-            url: "https://ice41.securenetsystems.net/LAINVINCIBLE"
+            name: "Jazz Café 99.9-HD4",
+            logo: "stations/images-america/albuquerque/Jazz Café 99.9-HD4.png",
+            url: "https://ice8.securenetsystems.net/KMGGHD4"
         },
         {
             name: "100.3 The Peak",
@@ -6853,12 +6858,12 @@ var stations = {
             name: "790 KFYO",
             logo: "stations/images-america/texas/lubbock/95.1 KFYO.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kfyoamaac-ibc3"
-        },
+        },/*
         {
             name: "Classic Country 1150",
             logo: "stations/images-america/texas/childress/Classic Country 1150.png",
             url: "https://ice42.securenetsystems.net/KOLJ"
-        },
+        },*/
     ],
     "havre": [
         {
@@ -37456,8 +37461,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYFMFMAAC_SC"
         },
         {
-            name: "Christmas 104",
-            logo: "stations/images-america/c2c/youngstown_oh/Z104_christmas.png",
+            name: "Z104",
+            logo: "stations/images-america/c2c/youngstown_oh/Z104.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWIZFMAAC_SC"
         },
         {
