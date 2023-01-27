@@ -3045,7 +3045,7 @@ var stations = {
         },
         {
             name: "Европа Плюс Казахстан",
-            logo: "stations/images-europe/kazakhstan/Европа Плюс - Europa Plus.png",
+            logo: "stations/images-europe/kazakhstan/Европа Плюс Казахстан.png",
             url: "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8"
         },
         {
@@ -3057,6 +3057,11 @@ var stations = {
             name: "Радио Дача",
             logo: "stations/images-europe/kazakhstan/Радио Дача.png",
             url: "https://stream.gakku.tv:8443/dacha"
+        },
+        {
+            name: "Ретро FM Казахстан",
+            logo: "stations/images-europe/kazakhstan/Ретро FM Казахстан.png",
+            url: "http://retroserver.streamr.ru:8043/retro128"
         },
         {
             name: "Русское Радио Азия",
