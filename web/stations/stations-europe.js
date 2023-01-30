@@ -5816,12 +5816,12 @@ var stations = {
         {
             name: "راديو انغام",
             logo: "stations/images-europe/westbank/راديو انغام.png",
-            url: "https://streamer.mada.ps:8010/ANGHAM"
+            url: "http://streamer.mada.ps:8010/ANGHAM"
         },
         {
             name: "Radio 101",
             logo: "stations/images-europe/westbank/Radio 101.png",
-            url: "https://streamer.mada.ps:8027/onefm"
+            url: "http://streamer.mada.ps:8027/onefm"
         },
         {
             name: "راديو كلاسيك",

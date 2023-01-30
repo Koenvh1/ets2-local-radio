@@ -1552,8 +1552,8 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KBND"
         },
         {
-            name: "Mix 100.7",
-            logo: "stations/images-america/bend/Mix 100.7.png",
+            name: "100.7 The X",
+            logo: "stations/images-america/bend/100.7 The X.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGXFM_SC"
         },
         {
@@ -13624,8 +13624,8 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KUTC"
         },
         {
-            name: "Kosy 96.7",
-            logo: "stations/images-america/salina/Kosy 96.7.png",
+            name: "Utah's Goat 96.7",
+            logo: "stations/images-america/salina/Utah's Goat.png",
             url: "http://45.79.99.31:8000/stream"
         },
         {
@@ -35906,19 +35906,14 @@ var stations_c2c = {
             url: "https://ais-sa8.cdnstream1.com/2748_64.aac"
         },
         {
-            name: "That Station 101.5-HD2",
-            logo: "stations/images-america/c2c/raleigh_nc/That Station 95.7.png",
-            url: "http://ais-sa8.cdnstream1.com/2749_64.aac"
+            name: "Cornerstone Radio 101.5-HD2",
+            logo: "stations/images-america/c2c/raleigh_nc/Cornerstone Radio 101.5-HD2.png",
+            url: "https://ais-sa8.cdnstream1.com/2752_64.aac"
         },
         {
             name: "WRAL News Plus 101.5-HD3",
             logo: "stations/images-america/c2c/raleigh_nc/WRAL News Plus.png",
             url: "https://ais-sa8.cdnstream1.com/2745_64.aac"
-        },
-        {
-            name: "Cornerstone Radio 101.5-HD2",
-            logo: "stations/images-america/c2c/raleigh_nc/Cornerstone Radio 101.5-HD2.png",
-            url: "https://ais-sa8.cdnstream1.com/2752_64.aac"
         },
         {
             name: "Country Superstars 102.3",
