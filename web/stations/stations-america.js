@@ -40570,7 +40570,7 @@ var stations_c2c = {
         {
             name: "FM 100",
             logo: "stations/images-america/c2c/memphis_tn/FM 100.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMCFMAAC_SC"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.amperwave.net/manifest/audacy-wmcfmaac-imc"
         },
         {
             name: "100 Jack FM",
