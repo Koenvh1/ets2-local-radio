@@ -7519,8 +7519,8 @@ var stations = {
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
         },
         {
-            name: "90.3 KPCC",
-            logo: "stations/images-america/0_general_logos/KPCC.png",
+            name: "LAist 90.3",
+            logo: "stations/images-america/0_general_logos/LAist.png",
             url: "https://live.wostreaming.net/direct/southerncalipr-kpccfmaac-imc.aac"
         },
         {
@@ -9308,8 +9308,8 @@ var stations = {
             url: "http://www.ednixon.com:8120/stream"
         },
         {
-            name: "89.3 KPCC",
-            logo: "stations/images-america/0_general_logos/KPCC.png",
+            name: "LAist 89.3",
+            logo: "stations/images-america/0_general_logos/LAist.png",
             url: "https://live.wostreaming.net/direct/southerncalipr-kpccfmaac-imc.aac"
         },
         {
@@ -11293,8 +11293,8 @@ var stations = {
             url: "https://kcrw.streamguys1.com/kcrw_192k_mp3_e24"
         },
         {
-            name: "89.3 KPCC",
-            logo: "stations/images-america/0_general_logos/KPCC.png",
+            name: "LAist 89.3",
+            logo: "stations/images-america/0_general_logos/LAist.png",
             url: "https://live.wostreaming.net/direct/southerncalipr-kpccfmaac-imc.aac"
         },
         {
