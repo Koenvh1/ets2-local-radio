@@ -21230,12 +21230,12 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3093/hls.m3u8"
         },
         {
-            name: "WQEN 103.7-HD2",
+            name: "103.7 WQEN-HD2",
             logo: "stations/images-america/c2c/birmingham_al/103.1 The Vulcan.png",
             url: "http://stream.revma.ihrhls.com/zc4956/hls.m3u8"
         },
         {
-            name: "ALT 103.7-HD3",
+            name: "103.7 WQEN-HD3",
             logo: "stations/images-america/c2c/birmingham_al/ALT 103.7-HD3.png",
             url: "https://stream.revma.ihrhls.com/zc6642/hls.m3u8"
         },
