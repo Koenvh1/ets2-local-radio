@@ -3006,9 +3006,9 @@ var stations = {
             url: "https://streaming.live365.com/a40618"
         },
         {
-            name: "Big 101.5",
+            name: "BIG 101.5",
             logo: "stations/images-america/clovis/Big 101.5.png",
-            url: "https://rmb.streamguys1.com/krmq"
+            url: "https://streaming.live365.com/a32900"
         },/*
         {
             name: "104.7 KOOL FM",
@@ -3018,12 +3018,12 @@ var stations = {
         {
             name: "KSEL Country 105.9",
             logo: "stations/images-america/clovis/KSEL Country 105.9.png",
-            url: "https://rmb.streamguys1.com/kselfm"
+            url: "https://streaming.live365.com/a44766"
         },
         {
             name: "Mix 107.5",
             logo: "stations/images-america/clovis/Mix 107.5.png",
-            url: "https://rmb.streamguys1.com/ksmx"
+            url: "https://streaming.live365.com/a90519"
         },
         {
             name: "710 KGNC",
@@ -3033,7 +3033,7 @@ var stations = {
         {
             name: "AM1450 Cow Country",
             logo: "stations/images-america/clovis/AM1450 Cow Country.png",
-            url: "https://rmb.streamguys1.com/kselam"
+            url: "https://streaming.live365.com/a57891"
         },
     ],
     "college_station": [
@@ -6701,7 +6701,7 @@ var stations = {
         {
             name: "KNFO 106.1",
             logo: "stations/images-america/glenwood_springs/KNFO 106.1.png",
-            url: "https://ice1.amtstreaming.com:9004/knfoic"
+            url: "https://ice1.amtstreaming.com:8443/knfoic"
         },
         {
             name: "La Tricolor 107.1",
@@ -6810,7 +6810,7 @@ var stations = {
         {
             name: "Real Country 104.3",
             logo: "stations/images-america/greatfalls/Real Country 104.3.png",
-            url: "https://s2.stationplaylist.com:7034/listen.mp3"
+            url: "https://ice8.securenetsystems.net/KHTC"
         },
         {
             name: "104.9 The Wolf",
@@ -6978,7 +6978,7 @@ var stations = {
         {
             name: "KLMA 96.5",
             logo: "stations/images-america/hobbs/KLMA 96.5.png",
-            url: "http://us2freenew.listen2myradio.com:15483/;"
+            url: "http://us1freenew.listen2myradio.com:33779/;"
         },
         {
             name: "KENW 98.7",
@@ -10328,7 +10328,7 @@ var stations = {
         {
             name: "97.7 The Breeze",
             logo: "stations/images-america/medford/97.7 The Breeze.png",
-            url: "http://kvin.net:8000/korj.mp3"
+            url: "http://208.74.9.25:8000/korj.mp3"
         },
         {
             name: "KLDR 98.1",
@@ -11392,7 +11392,7 @@ var stations = {
         {
             name: "94.3 REV-FM",
             logo: "stations/images-america/texas/ozona/94.3 REV-FM.png",
-            url: "https://www.streamvortex.com:8444/s/11370"
+            url: "https://stream.thecrustychicken.com/proxy/revfm/stream"
         },
         {
             name: "103.5 The Ram",
@@ -13375,9 +13375,9 @@ var stations = {
             url: "https://ic2.sslstream.com/kdee-fm"
         },
         {
-            name: "97.9 Latino",
+            name: "Latino 97.9",
             logo: "stations/images-america/sacramento/97.9 Latino.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLMGFMAAC_SC"
+            url: "https://audiossl.radiolazer.stream/LBC/kxml.stream/playlist.m3u8"
         },
         {
             name: "KJAY 98.1",
