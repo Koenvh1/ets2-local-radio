@@ -5103,7 +5103,7 @@ var stations = {
         {
             name: "Radio Zürisee",
             logo: "stations/images-europe/switzerland-de/Radio Zürisee.png",
-            url: "http://radio.netstream.ch:80/radiozuerisee128k"
+            url: "https://mp3.radio.ch/radiozuerisee128k"
         },
     ],
     "switzerland-fr": [

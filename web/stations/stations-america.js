@@ -5315,9 +5315,9 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KRED"
         },
         {
-            name: "ESPN 92.7",
-            logo: "stations/images-america/eureka/ESPN 92.7.png",
-            url: "https://us9.maindigitalstream.com/ssl/KATA"
+            name: "The Jukebox 92.7",
+            logo: "stations/images-america/eureka/The Jukebox 1480.png",
+            url: "https://us9.maindigitalstream.com/ssl/KEJB/"
         },
         {
             name: "KSLG 93.1",
@@ -5400,9 +5400,14 @@ var stations = {
             url: "http://eurekaradio.streamguys1.com/live2"
         },
         {
-            name: "KGOE 1480",
-            logo: "stations/images-america/eureka/KGOE 1480.png",
-            url: "https://us9.maindigitalstream.com/ssl/KGOE"
+            name: "ESPN 1340",
+            logo: "stations/images-america/eureka/ESPN 1340.png",
+            url: "https://us9.maindigitalstream.com/ssl/KATA"
+        },
+        {
+            name: "The Jukebox 1480",
+            logo: "stations/images-america/eureka/The Jukebox 1480.png",
+            url: "https://us9.maindigitalstream.com/ssl/KEJB"
         },
     ],
     "eureka_nv": [
@@ -14159,7 +14164,7 @@ var stations = {
         {
             name: "Sports Star 94.1",
             logo: "stations/images-america/texas/san_antonio/Sports Star 94.1.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kzdcamaac-ibc4"
+            url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://live.wostreaming.net/direct/alphacorporate-ktfmfmaac-ibc4"
         },
         {
             name: "WE 94.5",
@@ -14352,8 +14357,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2361/hls.m3u8"
         },
         {
-            name: "Sports Star 1250",
-            logo: "stations/images-america/texas/san_antonio/Sports Star 94.1.png",
+            name: "ESPN 1250",
+            logo: "stations/images-america/texas/san_antonio/ESPN 1250.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=http://live.wostreaming.net/direct/alphacorporate-kzdcamaac-ibc4"
         },
         {
@@ -33878,6 +33883,11 @@ var stations_c2c = {
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://ais-sa1.streamon.fm/7705_128k.aac"
         },
         {
+            name: "Bluffs Country 106.5",
+            logo: "stations/images-america/c2c/omaha_ne/Bluffs Country 106.5.png",
+            url: "https://us2.maindigitalstream.com/ssl/KOTK"
+        },
+        {
             name: "Power 106.9",
             logo: "stations/images-america/c2c/omaha_ne/Power 106.9.png",
             url: "http://[2602:fed2:7106:228a:62f::1]/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOPWFMAAC_SC"
@@ -41576,8 +41586,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNOBFMAAC_SC"
         },
         {
-            name: "ESPN Radio 94.1",
-            logo: "stations/images-america/c2c/norfolk_va/ESPN Radio 94.1.png",
+            name: "Priority Auto Sports Radio 94.1",
+            logo: "stations/images-america/c2c/norfolk_va/Priority Auto Sports Radio 94.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVSPFMAAC_SC"
         },
         {
