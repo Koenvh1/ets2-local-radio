@@ -42528,8 +42528,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
-            name: "Talk 92.7 FM",
-            logo: "stations/images-america/c2c/madison_wi/Talk 92.7 FM.png",
+            name: "Mad Radio 92.7",
+            logo: "stations/images-america/c2c/madison_wi/Mad Radio 92.7.png",
             url: "https://ice24.securenetsystems.net/WTTN"
         },
         {
