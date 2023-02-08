@@ -2751,22 +2751,22 @@ var stations = {
         {
             name: "RTÉ Radio 1",
             logo: "stations/images-europe/ireland/RTÉ Radio 1.png",
-            url: "https://www.rte.ie/manifests/radio1.m3u8"
+            url: "https://www.liveradio.es/http://icecast2.rte.ie/radio1"
         },
         {
             name: "RTÉ 2FM",
             logo: "stations/images-europe/ireland/RTÉ 2fm.png",
-            url: "https://www.rte.ie/manifests/2fm.m3u8"
+            url: "https://www.liveradio.es/http://icecast2.rte.ie/2fm"
         },
         {
             name: "RTÉ lyric fm",
             logo: "stations/images-europe/ireland/RTÉ Lyric FM.png",
-            url: "https://www.rte.ie/manifests/lyric.m3u8"
+            url: "https://www.liveradio.es/http://icecast2.rte.ie/lyric"
         },
         {
             name: "RTÉ Raidió na Gaeltachta",
             logo: "stations/images-europe/ireland/RTÉ Raidió na Gaeltachta.png",
-            url: "https://www.rte.ie/manifests/rnag.m3u8"
+            url: "https://www.liveradio.es/http://icecast2.rte.ie/rnag"
         },
         {
             name: "Classic Hits",
