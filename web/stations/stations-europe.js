@@ -1288,12 +1288,12 @@ var stations = {
         {
             name: "Basso",
             logo: "stations/images-europe/finland/Basso.png",
-            url: "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/basso/bassoradio_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "ENERGY",
             logo: "stations/images-europe/finland/Energy.png",
-            url: "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/nrj/nrj_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Helmiradio",
@@ -1308,7 +1308,7 @@ var stations = {
         {
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
-            url: "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/iskelma/iskelma_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Järviradio",
@@ -1318,12 +1318,12 @@ var stations = {
         {
             name: "Kasari",
             logo: "stations/images-europe/finland/Kasari.png",
-            url: "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/kasari/kasari_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/finland/Kiss.png",
-            url: "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/kiss/kiss_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Radio Aalto",
@@ -1333,12 +1333,12 @@ var stations = {
         {
             name: "Radio City",
             logo: "stations/images-europe/finland/Radio City.png",
-            url: "https://stream-redirect.bauermedia.fi/radiocity/radiocity_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/radiocity/radiocity_128.mp3?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Radio Classic",
             logo: "stations/images-europe/finland/Radio Classic.png",
-            url: "https://stream-redirect.bauermedia.fi/classic/classic_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/classic/classic_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Radio Dei",
@@ -1353,17 +1353,17 @@ var stations = {
         {
             name: "Radio Nostalgia",
             logo: "stations/images-europe/finland/Radio Nostalgia.png",
-            url: "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/nostalgia/nostalgia_128.mp3?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Radio Nova",
             logo: "stations/images-europe/finland/Radio Nova.png",
-            url: "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/radionova/radionova_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Radio POOKI",
             logo: "stations/images-europe/finland/Radio Pooki.png",
-            url: "https://stream-redirect.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/radiopooki/radiopooki_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Radio Rock",
@@ -1378,12 +1378,12 @@ var stations = {
         {
             name: "SuomiRäp",
             logo: "stations/images-europe/finland/Suomiräp.png",
-            url: "https://stream-redirect.bauermedia.fi/suomirap/suomirap_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/suomirap/suomirap_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
         {
             name: "Ysäri",
             logo: "stations/images-europe/finland/Ysäri.png",
-            url: "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            url: "https://stream.radioplay.fi/ysari/ysari_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
         },
     ],
     "france": [
