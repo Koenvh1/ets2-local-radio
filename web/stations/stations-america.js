@@ -1422,7 +1422,7 @@ var stations = {
         {
             name: "Ocean 98.5",
             logo: "stations/images-america/canada/victoria/Ocean 98.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
         },
         {
             name: "98.9 KBAY",
@@ -11954,7 +11954,7 @@ var stations = {
         {
             name: "Ocean 98.5",
             logo: "stations/images-america/canada/victoria/Ocean 98.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
         },
         {
             name: "100.3 The Q",
@@ -11964,7 +11964,7 @@ var stations = {
         {
             name: "JACK 103.1",
             logo: "stations/images-america/port_angeles/JACK 103.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
         },
         {
             name: "KAFE 104.1",
@@ -11984,7 +11984,7 @@ var stations = {
         {
             name: "107.3 Virgin Radio",
             logo: "stations/images-america/canada/victoria/107.3 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHBEFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHBEFMAAC_SC"
         },
     ],
     "portland": [
@@ -42924,12 +42924,12 @@ var stations_canada = {
         {
             name: "98.7 Énergie",
             logo: "stations/images-america/canada/baiecomeau/98.7 Énergie.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC_SC"
         },
         {
             name: "99.9 Rouge",
             logo: "stations/images-america/canada/baiecomeau/99.9 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC"
         },
         {
             name: "plaisir 105.3",
@@ -42966,7 +42966,7 @@ var stations_canada = {
         {
             name: "TSN 1200",
             logo: "stations/images-america/canada/ottawa/TSN 1200.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
         },
     ],
     "belleville": [
@@ -43060,7 +43060,7 @@ var stations_canada = {
         {
             name: "90.3 AMP",
             logo: "stations/images-america/canada/calgary/90.3 AMP.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKMPFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKMPFM"
         },
         {
             name: "CJSW 90.9",
@@ -43070,7 +43070,7 @@ var stations_canada = {
         {
             name: "CJAY 92",
             logo: "stations/images-america/canada/calgary/CJAY 92.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJAYFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJAYFMAAC_SC"
         },
         {
             name: "X92.9",
@@ -43095,12 +43095,12 @@ var stations_canada = {
         {
             name: "95.9 CHFM",
             logo: "stations/images-america/canada/calgary/95.9 CHFM.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/cal959.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/cal959.stream/icy"
         },
         {
             name: "JACK 96.9",
             logo: "stations/images-america/canada/calgary/JACK 96.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/cal969.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/cal969.stream/icy"
         },
         {
             name: "C97.7",
@@ -43110,7 +43110,7 @@ var stations_canada = {
         {
             name: "98.5 Virgin Radio",
             logo: "stations/images-america/canada/calgary/98.5 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIBKFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIBKFMAAC_SC"
         },
         {
             name: "CBC Radio One 99.1",
@@ -43140,7 +43140,7 @@ var stations_canada = {
         {
             name: "XL103",
             logo: "stations/images-america/canada/calgary/XL103.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CFXLFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFXLFM"
         },
         {
             name: "Country 105",
@@ -43241,7 +43241,7 @@ var stations_canada = {
         {
             name: "CHRX 95.1",
             logo: "stations/images-america/canada/dawsoncreek/Move 98.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHRXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHRXFMAAC_SC"
         },
         {
             name: "96.3 Reach FM",
@@ -43251,7 +43251,7 @@ var stations_canada = {
         {
             name: "Bounce 101.5",
             logo: "stations/images-america/canada/dawsoncreek/Bounce 101.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKNLFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKNLFMAAC_SC"
         },
         {
             name: "Peace FM 104.1",
@@ -43357,7 +43357,7 @@ var stations_canada = {
         {
             name: "boom 95.3",
             logo: "stations/images-america/canada/edmonton/boom 95.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CJXKFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CJXKFM"
         },
         {
             name: "95.7 Cruz FM",
@@ -43367,12 +43367,12 @@ var stations_canada = {
         {
             name: "96.3 The Breeze",
             logo: "stations/images-america/canada/edmonton/96.3 The Breeze.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKRAFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKRAFM"
         },
         {
             name: "K-97",
             logo: "stations/images-america/canada/edmonton/K-97.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CIRKFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CIRKFM"
         },
         {
             name: "Radio Cité 97.9",
@@ -43392,7 +43392,7 @@ var stations_canada = {
         {
             name: "100.3 The Bear",
             logo: "stations/images-america/canada/edmonton/100.3 The Bear.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFMAAC_SC"
         },
         {
             name: "ICI Musique 101.1",
@@ -43412,7 +43412,7 @@ var stations_canada = {
         {
             name: "SONiC 102.9",
             logo: "stations/images-america/canada/edmonton/Sonic 102.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers.leanstream.co/rogers/edm1029.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers.leanstream.co/rogers/edm1029.stream/icy"
         },
         {
             name: "103.9 CISN Country",
@@ -43422,7 +43422,7 @@ var stations_canada = {
         {
             name: "104.9 Virgin Radio",
             logo: "stations/images-america/canada/edmonton/104.9 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFMGFMAAC_SC"
         },
         {
             name: "105.9 Shine FM",
@@ -43452,7 +43452,7 @@ var stations_canada = {
         {
             name: "TSN 1260",
             logo: "stations/images-america/canada/edmonton/TSN 1260 Edmonton.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC"
         },
     ],
     "fortfrances": [
@@ -43491,7 +43491,7 @@ var stations_canada = {
         {
             name: "Country 93.3",
             logo: "stations/images-america/canada/fortmcmurray/Country 93.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/for933.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/for933.stream/icy"
         },
         {
             name: "CFWE 94.5",
@@ -43506,7 +43506,7 @@ var stations_canada = {
         {
             name: "97.9 ROCK",
             logo: "stations/images-america/canada/fortmcmurray/97.9 ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/for979.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/for979.stream/icy"
         },
         {
             name: "CBC Radio One 99.3",
@@ -43544,7 +43544,7 @@ var stations_canada = {
         {
             name: "Bounce 102.3",
             logo: "stations/images-america/canada/fortnelson/Bounce 102.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKRXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKRXFMAAC_SC"
         },
     ],
     "fortsimpson": [
@@ -43568,7 +43568,7 @@ var stations_canada = {
         {
             name: "Q88.9",
             logo: "stations/images-america/canada/fredericton/Q88.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CHNIFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CHNIFM"
         },
         {
             name: "CJPN 90.5",
@@ -43578,12 +43578,12 @@ var stations_canada = {
         {
             name: "New Country 92.3",
             logo: "stations/images-america/canada/fredericton/New Country 92.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CFRKFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFRKFM"
         },
         {
             name: "rewind 93.1",
             logo: "stations/images-america/canada/fredericton/rewind 93.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CIHIFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CIHIFM"
         },
         {
             name: "Country 94",
@@ -43638,7 +43638,7 @@ var stations_canada = {
         {
             name: "Pure Country 103.5",
             logo: "stations/images-america/canada/fredericton/Pure Country 103.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKHJAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKHJAMAAC_SC"
         },
         {
             name: "CJRI Radio 104.5",
@@ -43648,12 +43648,12 @@ var stations_canada = {
         {
             name: "Bounce 105.3",
             logo: "stations/images-america/canada/fredericton/Bounce 105.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFXYFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFXYFMAAC_SC"
         },
         {
             name: "Move 106.9",
             logo: "stations/images-america/canada/fredericton/Move 106.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIBXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIBXFMAAC_SC"
         },
     ],
     "gaspe": [
@@ -43687,7 +43687,7 @@ var stations_canada = {
         {
             name: "Bounce 106.3",
             logo: "stations/images-america/canada/golden/Bounce 106.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGRAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGRAAC_SC"
         },
     ],
     "grandfalls": [
@@ -43709,7 +43709,7 @@ var stations_canada = {
         {
             name: "102.3 K-ROCK",
             logo: "stations/images-america/canada/grandfalls/102.3 K-ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKXGFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKXGFM"
         },
         {
             name: "CBC Radio One 540",
@@ -43751,7 +43751,7 @@ var stations_canada = {
         {
             name: "JACK 92.9",
             logo: "stations/images-america/canada/halifax/JACK 92.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/hal929.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/hal929.stream/icy"
         },
         {
             name: "CityNews 95.7",
@@ -43761,7 +43761,7 @@ var stations_canada = {
         {
             name: "96.5 The Breeze",
             logo: "stations/images-america/canada/halifax/96.5 The Breeze.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKULFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKULFM"
         },
         {
             name: "Oui 98",
@@ -43776,12 +43776,12 @@ var stations_canada = {
         {
             name: "Move 100.1",
             logo: "stations/images-america/canada/halifax/Move 100.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIOOFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIOOFMAAC_SC"
         },
         {
             name: "101.3 Virgin Radio",
             logo: "stations/images-america/canada/halifax/101.3 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJCHFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJCHFMAAC_SC"
         },
         {
             name: "FX101.9",
@@ -43801,7 +43801,7 @@ var stations_canada = {
         {
             name: "Q104",
             logo: "stations/images-america/canada/halifax/Q104.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CFRQFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFRQFM"
         },
         {
             name: "Surge 105.1",
@@ -43867,7 +43867,7 @@ var stations_canada = {
         {
             name: "SONiC 92.5",
             logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
             name: "Lighthouse Radio 96.7",
@@ -43877,7 +43877,7 @@ var stations_canada = {
         {
             name: "Star 98.3",
             logo: "stations/images-america/canada/hope/Star 98.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/chi983.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/chi983.stream/icy"
         },
         {
             name: "Rock 101",
@@ -43892,7 +43892,7 @@ var stations_canada = {
         {
             name: "Country 107.1",
             logo: "stations/images-america/canada/hope/Country 107.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/abb1071.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/abb1071.stream/icy"
         },
     ],
     "houstoncan": [
@@ -43914,7 +43914,7 @@ var stations_canada = {
         {
             name: "Pure Country 105.5",
             logo: "stations/images-america/canada/houstoncan/Pure Country 105.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKQMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKQMFMAAC_SC"
         },
         {
             name: "106.5 Moose FM",
@@ -43926,12 +43926,12 @@ var stations_canada = {
         {
             name: "CJAG 92.3",
             logo: "stations/images-america/canada/jasper/CJAG 92.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBRFMAAC_SC"
         },
         {
             name: "Real Country West 95.5",
             logo: "stations/images-america/canada/jasper/Real Country West 95.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CFXEFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFXEFM"
         },
         {
             name: "CBC Radio One 98.1",
@@ -43948,7 +43948,7 @@ var stations_canada = {
         {
             name: "Bounce 91.5",
             logo: "stations/images-america/canada/kamloops/Bounce 91.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC_SC"
         },
         {
             name: "92.5 The X",
@@ -43973,7 +43973,7 @@ var stations_canada = {
         {
             name: "K97.5",
             logo: "stations/images-america/canada/kamloops/K97.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKRVFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKRVFM"
         },
         {
             name: "98.3 CIFM",
@@ -43988,7 +43988,7 @@ var stations_canada = {
         {
             name: "New Country 103.1",
             logo: "stations/images-america/canada/kamloops/New Country 103.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CJKCFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CJKCFM"
         },
         {
             name: "CBC Music 105.3",
@@ -44025,22 +44025,22 @@ var stations_canada = {
         {
             name: "K96.3",
             logo: "stations/images-america/canada/kelowna/K96.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKKOFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKKOFM"
         },
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada/kelowna/99.9 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHSUFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHSUFMAAC_SC"
         },
         {
             name: "New Country 100.7",
             logo: "stations/images-america/canada/kelowna/New Country 100.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CIGVFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CIGVFM"
         },
         {
             name: "Move 101.5",
             logo: "stations/images-america/canada/kelowna/Move 101.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CILKFMAAC_SC"
         },
         {
             name: "103.1 Beach Radio",
@@ -44060,7 +44060,7 @@ var stations_canada = {
         {
             name: "Pure Country 105.7",
             logo: "stations/images-america/canada/kelowna/Pure Country 105.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICFFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICFFMAAC_SC"
         },
         {
             name: "QR Calgary 770",
@@ -44109,7 +44109,7 @@ var stations_canada = {
         {
             name: "Country 93.5",
             logo: "stations/images-america/canada/kingston/Country 93.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin935.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin935.stream/icy"
         },
         {
             name: "96.7 YES FM",
@@ -44124,12 +44124,12 @@ var stations_canada = {
         {
             name: "Move 98.3",
             logo: "stations/images-america/canada/kingston/Move 98.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFLYFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFLYFMAAC_SC"
         },
         {
             name: "Pure Country 99",
             logo: "stations/images-america/canada/kingston/Pure Country 99.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKLCFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKLCFMAAC_SC"
         },
         {
             name: "ICI Première 99.5",
@@ -44154,7 +44154,7 @@ var stations_canada = {
         {
             name: "KiSS 102.7",
             logo: "stations/images-america/canada/kingston/KiSS 102.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1027.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1027.stream/icy"
         },
         {
             name: "Magic 103.1",
@@ -44164,7 +44164,7 @@ var stations_canada = {
         {
             name: "Bounce 103.7",
             logo: "stations/images-america/canada/kingston/Bounce 103.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJPTFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJPTFMAAC_SC"
         },
         {
             name: "104.3 Fresh Radio",
@@ -44174,7 +44174,7 @@ var stations_canada = {
         {
             name: "K-ROCK 105.7",
             logo: "stations/images-america/canada/kingston/K-ROCK 105.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1057.stream/icy"
         },
         {
             name: "The Border 106.7",
@@ -44196,7 +44196,7 @@ var stations_canada = {
         {
             name: "Big Land 94.7",
             logo: "stations/images-america/canada/labradorcity/Big Land 94.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CFLNFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFLNFM"
         },
         {
             name: "CBC Radio One 96.3",
@@ -44206,7 +44206,7 @@ var stations_canada = {
         {
             name: "98.1 CHFI",
             logo: "stations/images-america/canada/toronto/98.1 CHFI.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy"
         },
         {
             name: "CISN 101.3",
@@ -44233,7 +44233,7 @@ var stations_canada = {
         {
             name: "boom 95.3",
             logo: "stations/images-america/canada/edmonton/boom 95.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CJXKFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CJXKFM"
         },
         {
             name: "Country 99",
@@ -44248,12 +44248,12 @@ var stations_canada = {
         {
             name: "HOT 101.3",
             logo: "stations/images-america/canada/laclabiche/HOT 101.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CJEGFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CJEGFM"
         },
         {
             name: "boom 103.5",
             logo: "stations/images-america/canada/laclabiche/boom 103.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CILBFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CILBFM"
         },
         {
             name: "630 CHED",
@@ -44268,7 +44268,7 @@ var stations_canada = {
         {
             name: "TSN 1260",
             logo: "stations/images-america/canada/edmonton/TSN 1260 Edmonton.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC"
         },
     ],
     "latuque": [
@@ -44324,12 +44324,12 @@ var stations_canada = {
         {
             name: "HOT 93.7",
             logo: "stations/images-america/canada/lloydminster/HOT 93.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKWYFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKWYFM"
         },
         {
             name: "Real Country 95.9",
             logo: "stations/images-america/canada/lloydminster/Real Country 95.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKSAFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKSAFM"
         },
         {
             name: "CKUA 97.5",
@@ -44339,7 +44339,7 @@ var stations_canada = {
         {
             name: "boom 101.9",
             logo: "stations/images-america/canada/lloydminster/boom 101.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKKYFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKKYFM"
         },
         {
             name: "106.1 The Goat",
@@ -44351,7 +44351,7 @@ var stations_canada = {
         {
             name: "Pure Country 93",
             logo: "stations/images-america/canada/london/Pure Country 93.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBXFMAAC_SC"
         },
         {
             name: "CBC Radio One 93.5",
@@ -44371,12 +44371,12 @@ var stations_canada = {
         {
             name: "CHYM 96.7",
             logo: "stations/images-america/canada/london/CHYM 96.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/kit967.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/kit967.stream/icy"
         },
         {
             name: "97.5 Virgin Radio",
             logo: "stations/images-america/canada/london/97.5 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIQMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIQMFMAAC_SC"
         },
         {
             name: "Classic Rock 98.1",
@@ -44401,12 +44401,12 @@ var stations_canada = {
         {
             name: "Easy 101.3",
             logo: "stations/images-america/canada/london/Easy 101.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/til1013.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/til1013.stream/icy"
         },
         {
             name: "JACK 102.3",
             logo: "stations/images-america/canada/london/JACK 102.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/lon1023.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/lon1023.stream/icy"
         },
         {
             name: "103.1 fresh Radio",
@@ -44436,7 +44436,7 @@ var stations_canada = {
         {
             name: "Country 107.3",
             logo: "stations/images-america/canada/london/Country 107.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/til1073.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/til1073.stream/icy"
         },
         {
             name: "CityNews 570",
@@ -44451,7 +44451,7 @@ var stations_canada = {
         {
             name: "1290 CJBK",
             logo: "stations/images-america/canada/london/1290 CJBK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBKAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBKAMAAC_SC"
         },
     ],
     "maniwaki": [
@@ -44468,12 +44468,12 @@ var stations_canada = {
         {
             name: "Pure Country 94",
             logo: "stations/images-america/canada/ottawa/Pure Country 94.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKKLFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKKLFMAAC_SC"
         },
         {
             name: "94.9 Rouge",
             logo: "stations/images-america/canada/ottawa/94.9 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC"
         },
         {
             name: "CBC Radio One 95.5",
@@ -44488,7 +44488,7 @@ var stations_canada = {
         {
             name: "Move 100.3",
             logo: "stations/images-america/canada/ottawa/Move 100.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMJFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMJFMAAC_SC"
         },
         {
             name: "CKWE 103.9",
@@ -44503,12 +44503,12 @@ var stations_canada = {
         {
             name: "KiSS 105.3",
             logo: "stations/images-america/canada/ottawa/KiSS 105.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
         },
         {
             name: "106.1 CHEZ",
             logo: "stations/images-america/canada/ottawa/106.1 Chez.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
         },
         {
             name: "jump! 106.9",
@@ -44535,7 +44535,7 @@ var stations_canada = {
         {
             name: "JACK 102.1",
             logo: "stations/images-america/canada/medicinehat/JACK 102.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1021.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1021.stream/icy"
         },
         {
             name: "CKUD 104.5",
@@ -44545,7 +44545,7 @@ var stations_canada = {
         {
             name: "105.3 ROCK",
             logo: "stations/images-america/canada/medicinehat/105.3 ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1053.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1053.stream/icy"
         },
     ],
     "marathon": [
@@ -44579,12 +44579,12 @@ var stations_canada = {
         {
             name: "98.7 ÉNERGIE",
             logo: "stations/images-america/canada/matane/98.7 ÉNERGIE.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIKIFMAAC_SC"
         },
         {
             name: "99.9 Rouge",
             logo: "stations/images-america/canada/baiecomeau/99.9 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC"
         },
         {
             name: "ICI Première 102.1",
@@ -44663,7 +44663,7 @@ var stations_canada = {
         {
             name: "New Country 96.9",
             logo: "stations/images-america/canada/moncton/New Country 96.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CJXLFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CJXLFM"
         },
         {
             name: "ICI Musique 98.3",
@@ -44678,7 +44678,7 @@ var stations_canada = {
         {
             name: "Q103",
             logo: "stations/images-america/canada/moncton/Q103.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CJMOFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CJMOFM"
         },
         {
             name: "103.9 MAX FM",
@@ -44735,7 +44735,7 @@ var stations_canada = {
         {
             name: "The Beat 92.5",
             logo: "stations/images-america/canada/montreal/The Beat 92.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKBEFMAAC_SC"
         },
         {
             name: "CBC Music 93.5",
@@ -44750,17 +44750,17 @@ var stations_canada = {
         {
             name: "95.9 Virgin Radio",
             logo: "stations/images-america/canada/montreal/95.9 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFMFMAAC_SC"
         },
         {
             name: "96.9 CKOI",
             logo: "stations/images-america/canada/montreal/96.9 CKOI.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKOIFMAAC_SC"
         },
         {
             name: "CHOM 97.7",
             logo: "stations/images-america/canada/montreal/CHOM 97.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHOMFMAAC_SC"
         },
         {
             name: "98.5",
@@ -44805,7 +44805,7 @@ var stations_canada = {
         {
             name: "rythme 105.7",
             logo: "stations/images-america/canada/montreal/rythme 105.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGLFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGLFMAAC_SC"
         },
         {
             name: "CINA 107.3",
@@ -44815,12 +44815,12 @@ var stations_canada = {
         {
             name: "107.3 Rouge",
             logo: "stations/images-america/canada/montreal/107.3 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC"
         },
         {
             name: "TSN 690",
             logo: "stations/images-america/canada/montreal/TSN 690.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC_SC"
         },
         {
             name: "Radio Circulation 730",
@@ -44936,12 +44936,12 @@ var stations_canada = {
         {
             name: "KiSS 100.5",
             logo: "stations/images-america/canada/north_bay/KiSS 100.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor1005.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor1005.stream/icy"
         },
         {
             name: "101.9 ROCK",
             logo: "stations/images-america/canada/north_bay/101.9 ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy"
         },
         {
             name: "KFM 103.5",
@@ -44956,7 +44956,7 @@ var stations_canada = {
         {
             name: "Country 600",
             logo: "stations/images-america/canada/north_bay/Country 600.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
         },
     ],
     "orillia": [
@@ -45013,12 +45013,12 @@ var stations_canada = {
         {
             name: "Bounce 104.1",
             logo: "stations/images-america/canada/orillia/Bounce 104.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICZFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICZFMAAC_SC"
         },
         {
             name: "Pure Country 106",
             logo: "stations/images-america/canada/orillia/Pure Country 106.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICXFMAAC_SC"
         },
         {
             name: "107.5 KOOL FM",
@@ -45043,7 +45043,7 @@ var stations_canada = {
         {
             name: "TSN 1050",
             logo: "stations/images-america/canada/toronto/TSN 1050.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
         },
     ],
     "osoyoos": [
@@ -45075,17 +45075,17 @@ var stations_canada = {
         {
             name: "CIGV 98.9",
             logo: "stations/images-america/canada/kelowna/New Country 100.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CIGVFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CIGVFM"
         },
         {
             name: "CJMG 99.9",
             logo: "stations/images-america/canada/osoyoos/Move 97.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMGFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMGFMAAC_SC"
         },
         {
             name: "Bounce 102.9",
             logo: "stations/images-america/canada/osoyoos/Bounce 102.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC"
         },
         {
             name: "CIRO 106.5",
@@ -45112,7 +45112,7 @@ var stations_canada = {
         {
             name: "JACK 92.3",
             logo: "stations/images-america/canada/ottawa/JACK 92.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
         },
         {
             name: "CKCU 93.1",
@@ -45122,12 +45122,12 @@ var stations_canada = {
         {
             name: "Pure Country 94",
             logo: "stations/images-america/canada/ottawa/Pure Country 94.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKKLFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKKLFMAAC_SC"
         },
         {
             name: "94.9 Rouge",
             logo: "stations/images-america/canada/ottawa/94.9 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC_SC"
         },
         {
             name: "97.9 CHIN",
@@ -45157,7 +45157,7 @@ var stations_canada = {
         {
             name: "Move 100.3",
             logo: "stations/images-america/canada/ottawa/Move 100.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMJFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMJFMAAC_SC"
         },
         {
             name: "CityNews 101.1",
@@ -45182,12 +45182,12 @@ var stations_canada = {
         {
             name: "KiSS 105.3",
             logo: "stations/images-america/canada/ottawa/KiSS 105.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1053.stream/icy"
         },
         {
             name: "106.1 CHEZ",
             logo: "stations/images-america/canada/ottawa/106.1 Chez.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott1061.stream/icy"
         },
         {
             name: "jump! 106.9",
@@ -45207,7 +45207,7 @@ var stations_canada = {
         {
             name: "TSN 1200",
             logo: "stations/images-america/canada/ottawa/TSN 1200.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGOAMAAC_SC"
         },
     ],
     "owensound": [
@@ -45219,7 +45219,7 @@ var stations_canada = {
         {
             name: "Bounce 92.3",
             logo: "stations/images-america/canada/owensound/Bounce 92.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJOSFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJOSFMAAC_SC"
         },
         {
             name: "Country 93",
@@ -45318,7 +45318,7 @@ var stations_canada = {
         {
             name: "104.5 Mountain FM",
             logo: "stations/images-america/canada/squamish/107.1 Mountain FM.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
         {
             name: "CBC Music 105.3",
@@ -45340,7 +45340,7 @@ var stations_canada = {
         {
             name: "Pure Country 96.7",
             logo: "stations/images-america/canada/pembroke/Pure Country 96.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHVRFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHVRFMAAC_SC"
         },
         {
             name: "Valley Heritage Radio 98.7",
@@ -45360,7 +45360,7 @@ var stations_canada = {
         {
             name: "myFM 104.9",
             logo: "stations/images-america/canada/pembroke/myFM 104.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://ice23.securenetsystems.net/CIMY"
+            url: "http://192.99.6.159:3900/index.php?ats=https://ice23.securenetsystems.net/CIMY"
         },
     ],
     "princegeorge": [
@@ -45429,12 +45429,12 @@ var stations_canada = {
         {
             name: "Bounce 99.1",
             logo: "stations/images-america/canada/princerupert/Bounce 99.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHTKAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHTKAMAAC_SC"
         },
         {
             name: "CJFW 101.9",
             logo: "stations/images-america/canada/princerupert/Pure Country 103.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
         },
         {
             name: "CBC Radio One 860",
@@ -45456,7 +45456,7 @@ var stations_canada = {
         {
             name: "CIGV 98.1",
             logo: "stations/images-america/canada/kelowna/New Country 100.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CIGVFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CIGVFM"
         },
     ],
     "quebec": [
@@ -45528,7 +45528,7 @@ var stations_canada = {
         {
             name: "98.9 ÉNERGIE",
             logo: "stations/images-america/canada/quebec/98.9 ÉNERGIE.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHIKFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHIKFMAAC_SC"
         },
         {
             name: "Mix 99.7",
@@ -45548,7 +45548,7 @@ var stations_canada = {
         {
             name: "rythme 102.9",
             logo: "stations/images-america/canada/quebec/rythme 102.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFOMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFOMFMAAC_SC"
         },
         {
             name: "CBC Radio One 104.7",
@@ -45568,7 +45568,7 @@ var stations_canada = {
         {
             name: "107.5 Rouge",
             logo: "stations/images-america/canada/quebec/107.5 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITFFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITFFMAAC_SC"
         },
     ],
     "rdl": [
@@ -45590,7 +45590,7 @@ var stations_canada = {
         {
             name: "94.5 Énergie",
             logo: "stations/images-america/canada/saguenay/94.5 Énergie.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC"
         },
         {
             name: "CHME 94.9",
@@ -45605,7 +45605,7 @@ var stations_canada = {
         {
             name: "96.9 Rouge",
             logo: "stations/images-america/canada/saguenay/96.9 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC"
         },
         {
             name: "CHOX 97.5",
@@ -45647,7 +45647,7 @@ var stations_canada = {
         {
             name: "Pure Country 92.7",
             logo: "stations/images-america/canada/regina/Pure Country 92.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHBDFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHBDFMAAC_SC"
         },
         {
             name: "Jack 94.5",
@@ -45734,7 +45734,7 @@ var stations_canada = {
         {
             name: "99.1 ÉNERGIE",
             logo: "stations/images-america/canada/rouynnoranda/99.1 ÉNERGIE.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMMFMAAC_SC"
         },
         {
             name: "CBC Radio One 101.1",
@@ -45778,7 +45778,7 @@ var stations_canada = {
         {
             name: "94.5 Énergie",
             logo: "stations/images-america/canada/saguenay/94.5 Énergie.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJABFMAAC_SC"
         },
         {
             name: "95.7 KYK",
@@ -45788,7 +45788,7 @@ var stations_canada = {
         {
             name: "96.9 Rouge",
             logo: "stations/images-america/canada/saguenay/96.9 Rouge.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC_SC"
         },
         {
             name: "rythme 98.3",
@@ -45808,7 +45808,7 @@ var stations_canada = {
         {
             name: "Planète 104.5",
             logo: "stations/images-america/canada/saguenay/Planète 104.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGTFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFGTFMAAC_SC"
         },
         {
             name: "Hit Country 105.5",
@@ -45937,7 +45937,7 @@ var stations_canada = {
         {
             name: "KiSS 100.5",
             logo: "stations/images-america/canada/saultmarie/KiSS 100.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/sau1005.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/sau1005.stream/icy"
         },
         {
             name: "Rock 101",
@@ -45962,7 +45962,7 @@ var stations_canada = {
         {
             name: "Country 104.3",
             logo: "stations/images-america/canada/saultmarie/Country 104.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/sau1043.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/sau1043.stream/icy"
         },
         {
             name: "Country 105",
@@ -46021,7 +46021,7 @@ var stations_canada = {
         {
             name: "CJFW 92.1",
             logo: "stations/images-america/canada/princerupert/Pure Country 103.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
         },
         {
             name: "CFNR 96.1",
@@ -46048,17 +46048,17 @@ var stations_canada = {
         {
             name: "Pure Country 91.7",
             logo: "stations/images-america/canada/sudbury/Pure Country 91.7.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICSFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CICSFMAAC_SC"
         },
         {
             name: "92.7 ROCK",
             logo: "stations/images-america/canada/sudbury/92.7 ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/sud927.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/sud927.stream/icy"
         },
         {
             name: "HOT 93.5",
             logo: "stations/images-america/canada/sudbury/HOT 93.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CIGMFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CIGMFM"
         },
         {
             name: "KFM 95.5",
@@ -46098,24 +46098,24 @@ var stations_canada = {
         {
             name: "rewind 103.9",
             logo: "stations/images-america/canada/sudbury/rewind 103.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CHNOFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CHNOFM"
         },
         {
             name: "KiSS 105.3",
             logo: "stations/images-america/canada/sudbury/KiSS 105.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/sud1053.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/sud1053.stream/icy"
         },
         {
             name: "Country 600",
             logo: "stations/images-america/canada/north_bay/Country 600.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/nor600.stream/icy"
         },
     ],
     "squamish": [
         {
             name: "JACK 96.9",
             logo: "stations/images-america/canada/vancouver/JACK 96.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
         },
         {
             name: "CBC Radio One 98.3",
@@ -46125,7 +46125,7 @@ var stations_canada = {
         {
             name: "107.1 Mountain FM",
             logo: "stations/images-america/canada/squamish/107.1 Mountain FM.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
     ],
     "thunderbay": [
@@ -46189,7 +46189,7 @@ var stations_canada = {
         {
             name: "92.1 ROCK",
             logo: "stations/images-america/canada/timmins/92.1 ROCK.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim921.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim921.stream/icy"
         },
         {
             name: "Country 93.1",
@@ -46209,7 +46209,7 @@ var stations_canada = {
         {
             name: "KiSS 99.3",
             logo: "stations/images-america/canada/timmins/KiSS 99.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim993.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/tim993.stream/icy"
         },
         {
             name: "CHIM 102.3",
@@ -46266,12 +46266,12 @@ var stations_canada = {
         {
             name: "KiSS 92.5",
             logo: "stations/images-america/canada/toronto/Kiss 92.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
         },
         {
             name: "93.5 Today Radio",
             logo: "stations/images-america/canada/toronto/93.5 Today Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CFXJFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFXJFM"
         },
         {
             name: "CBC Music 94.1",
@@ -46311,12 +46311,12 @@ var stations_canada = {
         {
             name: "boom 97.3",
             logo: "stations/images-america/canada/toronto/boom 97.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CHBMFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CHBMFM"
         },
         {
             name: "98.1 CHFI",
             logo: "stations/images-america/canada/toronto/98.1 CHFI.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor981.stream/icy"
         },
         {
             name: "FLOW 98.7",
@@ -46331,7 +46331,7 @@ var stations_canada = {
         {
             name: "99.9 Virgin Radio",
             logo: "stations/images-america/canada/toronto/99.9 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKFMFMAAC_SC"
         },
         {
             name: "CMR Diversity FM 101.3",
@@ -46366,7 +46366,7 @@ var stations_canada = {
         {
             name: "CHUM 104.5",
             logo: "stations/images-america/canada/toronto/CHUM 104.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMFMAAC_SC"
         },
         {
             name: "CHOQ 105.1",
@@ -46421,7 +46421,7 @@ var stations_canada = {
         {
             name: "TSN 1050",
             logo: "stations/images-america/canada/toronto/TSN 1050.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
         },
         {
             name: "JOY 1250",
@@ -46453,22 +46453,22 @@ var stations_canada = {
         {
             name: "94.1 The Breeze",
             logo: "stations/images-america/canada/truro/94.1 The Breeze.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKECFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKECFM"
         },
         {
             name: "Q97.9",
             logo: "stations/images-america/canada/truro/Q97.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKEZFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKEZFM"
         },
         {
             name: "Pure Country 99.5",
             logo: "stations/images-america/canada/truro/Pure Country 99.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKTYFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKTYFMAAC_SC"
         },
         {
             name: "Bounce 100.9",
             logo: "stations/images-america/canada/truro/Bounce 100.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKTYFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKTYFMAAC_SC"
         },
         {
             name: "Hope 106.3",
@@ -46515,12 +46515,12 @@ var stations_canada = {
         {
             name: "94.5 Virgin Radio",
             logo: "stations/images-america/canada/vancouver/94.5 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFBTFMAAC_SC"
         },
         {
             name: "Z95.3",
             logo: "stations/images-america/canada/vancouver/Z95.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CKZZFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKZZFM"
         },
         {
             name: "Fairchild Radio 96.1",
@@ -46530,7 +46530,7 @@ var stations_canada = {
         {
             name: "JACK 96.9",
             logo: "stations/images-america/canada/vancouver/JACK 96.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/van969.stream/icy"
         },
         {
             name: "ICI Première 97.7",
@@ -46575,7 +46575,7 @@ var stations_canada = {
         {
             name: "Move 103.5",
             logo: "stations/images-america/canada/vancouver/Move 103.5.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHQMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHQMFMAAC_SC"
         },
         {
             name: "KAFE 104.1",
@@ -46585,12 +46585,12 @@ var stations_canada = {
         {
             name: "104.3 The Breeze",
             logo: "stations/images-america/canada/vancouver/104.3 The Breeze.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://newcap.leanstream.co/CHLGFM"
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CHLGFM"
         },
         {
             name: "SONiC 104.9",
             logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
             name: "CBC Music 105.7",
@@ -46605,7 +46605,7 @@ var stations_canada = {
         {
             name: "107.5 Mountain FM",
             logo: "stations/images-america/canada/squamish/107.1 Mountain FM.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
         {
             name: "107.7 Pulse FM",
@@ -46677,7 +46677,7 @@ var stations_canada = {
         {
             name: "Bounce 96.1",
             logo: "stations/images-america/canada/virden/Bounce 96.1.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXFMAAC_SC"
         },
         {
             name: "CBC Radio One 97.9",
@@ -46692,7 +46692,7 @@ var stations_canada = {
         {
             name: "Pure Country 101",
             logo: "stations/images-america/canada/virden/Pure Country 101.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXAFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKXAFMAAC_SC"
         },
         {
             name: "CJ103",
@@ -46783,7 +46783,7 @@ var stations_canada = {
         {
             name: "102.1 Mountain FM",
             logo: "stations/images-america/canada/squamish/107.1 Mountain FM.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
         {
             name: "ICI Première 103.1",
@@ -46879,7 +46879,7 @@ var stations_canada = {
         {
             name: "92.1 CITI",
             logo: "stations/images-america/canada/winnipeg/92.1 CITI.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/win921.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/win921.stream/icy"
         },
         {
             name: "93.7 CJNU",
@@ -46924,7 +46924,7 @@ var stations_canada = {
         {
             name: "Bounce 99.9",
             logo: "stations/images-america/canada/winnipeg/Bounce 99.9.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFWMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFWMFMAAC_SC"
         },
         {
             name: "HOT 100.5",
@@ -46939,12 +46939,12 @@ var stations_canada = {
         {
             name: "KiSS 102.3",
             logo: "stations/images-america/canada/winnipeg/KiSS 102.3.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://rogers-hls.leanstream.co/rogers/win1023.stream/icy"
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/win1023.stream/icy"
         },
         {
             name: "103.1 Virgin Radio",
             logo: "stations/images-america/canada/winnipeg/103.1 Virgin Radio.png",
-            url: "http://[2607:5300:60:379f:bf::b732]/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKMMFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKMMFMAAC_SC"
         },
         {
             name: "QX104",

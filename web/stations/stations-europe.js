@@ -1288,12 +1288,12 @@ var stations = {
         {
             name: "Basso",
             logo: "stations/images-europe/finland/Basso.png",
-            url: "https://stream.radioplay.fi/basso/bassoradio_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "ENERGY",
             logo: "stations/images-europe/finland/Energy.png",
-            url: "https://stream.radioplay.fi/nrj/nrj_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Helmiradio",
@@ -1308,7 +1308,7 @@ var stations = {
         {
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
-            url: "https://stream.radioplay.fi/iskelma/iskelma_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Järviradio",
@@ -1318,12 +1318,12 @@ var stations = {
         {
             name: "Kasari",
             logo: "stations/images-europe/finland/Kasari.png",
-            url: "https://stream.radioplay.fi/kasari/kasari_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/finland/Kiss.png",
-            url: "https://stream.radioplay.fi/kiss/kiss_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Aalto",
@@ -1333,12 +1333,12 @@ var stations = {
         {
             name: "Radio City",
             logo: "stations/images-europe/finland/Radio City.png",
-            url: "https://stream.radioplay.fi/radiocity/radiocity_128.mp3?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/radiocity/radiocity_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Classic",
             logo: "stations/images-europe/finland/Radio Classic.png",
-            url: "https://stream.radioplay.fi/classic/classic_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/classic/classic_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Dei",
@@ -1353,17 +1353,17 @@ var stations = {
         {
             name: "Radio Nostalgia",
             logo: "stations/images-europe/finland/Radio Nostalgia.png",
-            url: "https://stream.radioplay.fi/nostalgia/nostalgia_128.mp3?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Nova",
             logo: "stations/images-europe/finland/Radio Nova.png",
-            url: "https://stream.radioplay.fi/radionova/radionova_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio POOKI",
             logo: "stations/images-europe/finland/Radio Pooki.png",
-            url: "https://stream.radioplay.fi/radiopooki/radiopooki_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Radio Rock",
@@ -1378,12 +1378,12 @@ var stations = {
         {
             name: "SuomiRäp",
             logo: "stations/images-europe/finland/Suomiräp.png",
-            url: "https://stream.radioplay.fi/suomirap/suomirap_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/suomirap/suomirap_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
             name: "Ysäri",
             logo: "stations/images-europe/finland/Ysäri.png",
-            url: "https://stream.radioplay.fi/ysari/ysari_64.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1675898904&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAEPAABpYIoQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNACeAFsAOYAfgBAACCAEIANEAbIA7gB-gEIAIiAYMAxQBnAD9gLzAYyBFABioBQACAAHgA5ACeAIQAdwBCACIgEWAMUAaEgIAAIAAWABUADIAHgAQAAyABoAEUAJgAcwA_ADZAH6AYoBeYQACApsdAPAAWABUADIAIAAZAA0ACKAEwAOYAfgBogDZAH6AYoBeY4ACApslAHAAQAAsADIATABsgGKAXmQgCAALAAyAEwAxRSAcAAsACoAGQAQAAyABoAEUAJgAcwA_ADRAGyAP0BeZQACApsRABAGyGgAgDZDAAQFNjIAQATAF5ioAQATAF5gA.YAAAAAAAAAAA"
+            url: "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
     ],
     "france": [
@@ -3763,42 +3763,42 @@ var stations = {
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=absoluteclassicrockhigh-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=coolfm-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=coolfm-aac"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=downtown-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=downtown-aac"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=downtowncountry-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=downtowncountry-aac"
         },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/nireland/Hits Radio.png",
-            url: "https://stream-al.planetradio.co.uk/hits.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1675899865&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAAPAABpYIoNd_H_fbX9D-f596dt0eY1f9_r3ruQzDgeNk-8FyJ_W_LwX_2E7NB36pq4KmR4Em1LBAQNlHMHUDQmQaIkVqTHsak2MpyNKJ7BEklMZOydYGFtPmxFD-QKY795_93b52D-9_9v-z9z338VXn3N538gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQH7gCgDNAIOAWcA7YB-wFAkEkABAAC4AKAAqABkADkAHgAgABgADIAGgAPIAhgCKAEwAJ4AVQA3gBzAD0AH4AQgAhoBEAESAI4ASwAmgBSgC3AGGAMgAZYA2QB3gD2AHxAPsA_YB_gIAARSAi4CMAEaAI4ASkAoIBTwCrgFzAMUAawA2gBuAD5AIdASIAmUBOwChwFIgKaAWKAtABbAC5AF3gLzAYMAw0BkgDJwGXAM5AZ8A0iBrAGsgNvAiGEASwAOAA8ADYAJAAfgB_AEUAJEAc4BAwCDgE_AKGAUsAs4BogDqgI9AStAmwCbQFNgLCAXQAuoBdoC8gGBAMQAYsAyEBkYDQgGjANKAamA2oBtwDdA0BkALgAhgBkADLAGzAPsA_ACAAEFAIwAU8Aq8BaAFpANYAdUA-QCHQEVAJEATsApEBcgDJwGcgM8AZ8GAEgGyAOoAmwBTYC6AGRgNCAbUA3QRAVAEMAMgAZYA2YB9gH4AQAAjABTwCrgGsAOqAfIBDoCRAE7AKRAXIAyMBk4DOQGfCAAwAJAE2ALoAaEA2oBugqAiABQAIYATAAuACOAGWARwAq8BaAFpAWwAuQBeYDIwGcgM8AZ8A3IUAKAHgAQUA6oCPQE2ALoAaEA14BtQDbxkA8AIYATABHADLAI4AVcArYC0QFsALkAXmAyMBnIDPAGfDABYA8ACxAHVAR6Ak4BNgC6AF5ANCAbUA28dBXAAXABQAFQAMgAcgA-AEAALoAYABkADQAHgAPoAhgCKAEwAJ4AVQAuABiADMAG8AOYAegA_ACGgEQARIAlgBNACjAFKALEAW8AwgDDAGQAMoAaIA2QB3gD2gH2AfoA_wCBgEUgIsAjEBHAEdAJSAUEAp4BVwCxQFoAWkAuYBeQDFAG0ANwAc4A6gB9gEOgIqAReAkQBKgCdgFDgKaAVYAsUBbAC4AFyALtAXeAvMBgwDDQGPQMjAyQBk4DKgGWAMuAZmAzkBnwDRAGkANYAbeOAfgAIgAcAB4AFwASAA5AB-AFAAMgAaAA_gCKAEcAJEAZYAzQBzgDuAIAAQWAg4CEAERAJtAT4BPwClgFQAL0AYEAzIBrADjgHSAOqAfIBCACPQErAJigTIBMsCbAJtAUgApMBTYCqgFdgLQAWoAuKBdAF1AL6AYEAxABiwDIQGXgNCAaMA0oBpoDUwGvANqAbYA24hAzAAWABQADIALgAYgBDACYAFMAKoAXAAxABmADeAHoARwApQBYgDCAGUAO8AfYA_wCKAEcAJSAUEAp4BV4C0ALSAXMAxQBtADnAHUASIAlQBTQCrAFigLRAWwAuABcgC7QGRgMnAZyAzwBnwDRAHAEQAIB-yAB4ABAAaAA_gCRAGWAM0Ac4A8ACCgE-AKWAWIAzIB1QDtgI9AScAmKBNgE2gKQAUmAugBeQDAgGhANKAamA2oBtgDbiUDQABAACwAKAAZAA4AB-AGAAYgA8ACIAEwAKoAXAAxABmAENAIgAiQBHACjAFKALcAYQAygBsgDvgH2AfgBHACngFXgLQAtIBcwDFAG4AOoAfIBDoCKgEXgJEAWKAtgBdoC8wGRgMnAZYAzkBngDPgGkANYAbeA4AkAZAAcABcAHIAZABIgC5AGWAM0AagA7gCAAE-AKWAVAAzIB1QD7AI9AStAmwCbQFJgMCAYsA0oBuRSCEAAuACgAKgAZAA5AB8AIIAYABkADQAHkAQwBFACYAE8AKQAVQAxABmADmAH4AQ0AiACJAFGAKUAWIAtwBhADIAGUANEAbIA74B9gH6ARYAjEBHAEdAJSAUEAq4BWwC5gF5ANoAbgA-wCHQEXgJEAScAnYBQ4CrAFigLYAXAAuQBdoC8wGGwMjAyQBk4DLAGXAM5AZ4Az4BpEDWANZAbeVAAgH7KALAALgAkAByAD8AMgAbQA_gCOAEiALkAZYA1ABzgDuAHgAQAAg4BFQCRAEnAJtAT4BPwClgFiAMUAdUA7YB_wEegJiATLAmwCbQFIAKbAV2AtABeQC-gGBAMWAaIA0qBqQGpgNeAAAA.YAAAAAAAAAAA"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/nireland/Hits Radio Pride.png",
-            url: "https://stream-al.planetradio.co.uk/hitsradiopride.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1675899845&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAAPAABpYIoNd_H_fbX9D-f596dt0eY1f9_r3ruQzDgeNk-8FyJ_W_LwX_2E7NB36pq4KmR4Em1LBAQNlHMHUDQmQaIkVqTHsak2MpyNKJ7BEklMZOydYGFtPmxFD-QKY795_93b52D-9_9v-z9z338VXn3N538gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQH7gCgDNAIOAWcA7YB-wFAkEkABAAC4AKAAqABkADkAHgAgABgADIAGgAPIAhgCKAEwAJ4AVQA3gBzAD0AH4AQgAhoBEAESAI4ASwAmgBSgC3AGGAMgAZYA2QB3gD2AHxAPsA_YB_gIAARSAi4CMAEaAI4ASkAoIBTwCrgFzAMUAawA2gBuAD5AIdASIAmUBOwChwFIgKaAWKAtABbAC5AF3gLzAYMAw0BkgDJwGXAM5AZ8A0iBrAGsgNvAiGEASwAOAA8ADYAJAAfgB_AEUAJEAc4BAwCDgE_AKGAUsAs4BogDqgI9AStAmwCbQFNgLCAXQAuoBdoC8gGBAMQAYsAyEBkYDQgGjANKAamA2oBtwDdA0BkALgAhgBkADLAGzAPsA_ACAAEFAIwAU8Aq8BaAFpANYAdUA-QCHQEVAJEATsApEBcgDJwGcgM8AZ8GAEgGyAOoAmwBTYC6AGRgNCAbUA3QRAVAEMAMgAZYA2YB9gH4AQAAjABTwCrgGsAOqAfIBDoCRAE7AKRAXIAyMBk4DOQGfCAAwAJAE2ALoAaEA2oBugqAiABQAIYATAAuACOAGWARwAq8BaAFpAWwAuQBeYDIwGcgM8AZ8A3IUAKAHgAQUA6oCPQE2ALoAaEA14BtQDbxkA8AIYATABHADLAI4AVcArYC0QFsALkAXmAyMBnIDPAGfDABYA8ACxAHVAR6Ak4BNgC6AF5ANCAbUA28dBXAAXABQAFQAMgAcgA-AEAALoAYABkADQAHgAPoAhgCKAEwAJ4AVQAuABiADMAG8AOYAegA_ACGgEQARIAlgBNACjAFKALEAW8AwgDDAGQAMoAaIA2QB3gD2gH2AfoA_wCBgEUgIsAjEBHAEdAJSAUEAp4BVwCxQFoAWkAuYBeQDFAG0ANwAc4A6gB9gEOgIqAReAkQBKgCdgFDgKaAVYAsUBbAC4AFyALtAXeAvMBgwDDQGPQMjAyQBk4DKgGWAMuAZmAzkBnwDRAGkANYAbeOAfgAIgAcAB4AFwASAA5AB-AFAAMgAaAA_gCKAEcAJEAZYAzQBzgDuAIAAQWAg4CEAERAJtAT4BPwClgFQAL0AYEAzIBrADjgHSAOqAfIBCACPQErAJigTIBMsCbAJtAUgApMBTYCqgFdgLQAWoAuKBdAF1AL6AYEAxABiwDIQGXgNCAaMA0oBpoDUwGvANqAbYA24hAzAAWABQADIALgAYgBDACYAFMAKoAXAAxABmADeAHoARwApQBYgDCAGUAO8AfYA_wCKAEcAJSAUEAp4BV4C0ALSAXMAxQBtADnAHUASIAlQBTQCrAFigLRAWwAuABcgC7QGRgMnAZyAzwBnwDRAHAEQAIB-yAB4ABAAaAA_gCRAGWAM0Ac4A8ACCgE-AKWAWIAzIB1QDtgI9AScAmKBNgE2gKQAUmAugBeQDAgGhANKAamA2oBtgDbiUDQABAACwAKAAZAA4AB-AGAAYgA8ACIAEwAKoAXAAxABmAENAIgAiQBHACjAFKALcAYQAygBsgDvgH2AfgBHACngFXgLQAtIBcwDFAG4AOoAfIBDoCKgEXgJEAWKAtgBdoC8wGRgMnAZYAzkBngDPgGkANYAbeA4AkAZAAcABcAHIAZABIgC5AGWAM0AagA7gCAAE-AKWAVAAzIB1QD7AI9AStAmwCbQFJgMCAYsA0oBuRSCEAAuACgAKgAZAA5AB8AIIAYABkADQAHkAQwBFACYAE8AKQAVQAxABmADmAH4AQ0AiACJAFGAKUAWIAtwBhADIAGUANEAbIA74B9gH6ARYAjEBHAEdAJSAUEAq4BWwC5gF5ANoAbgA-wCHQEXgJEAScAnYBQ4CrAFigLYAXAAuQBdoC8wGGwMjAyQBk4DLAGXAM5AZ4Az4BpEDWANZAbeVAAgH7KALAALgAkAByAD8AMgAbQA_gCOAEiALkAZYA1ABzgDuAHgAQAAg4BFQCRAEnAJtAT4BPwClgFiAMUAdUA7YB_wEegJiATLAmwCbQFIAKbAV2AtABeQC-gGBAMWAaIA0qBqQGpgNeAAAA.YAAAAAAAAAAA"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "https://stream-mz.planetradio.co.uk/net2national.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1675899806&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAAPAABpYIoNd_H_fbX9D-f596dt0eY1f9_r3ruQzDgeNk-8FyJ_W_LwX_2E7NB36pq4KmR4Em1LBAQNlHMHUDQmQaIkVqTHsak2MpyNKJ7BEklMZOydYGFtPmxFD-QKY795_93b52D-9_9v-z9z338VXn3N538gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQH7gCgDNAIOAWcA7YB-wFAkEkABAAC4AKAAqABkADkAHgAgABgADIAGgAPIAhgCKAEwAJ4AVQA3gBzAD0AH4AQgAhoBEAESAI4ASwAmgBSgC3AGGAMgAZYA2QB3gD2AHxAPsA_YB_gIAARSAi4CMAEaAI4ASkAoIBTwCrgFzAMUAawA2gBuAD5AIdASIAmUBOwChwFIgKaAWKAtABbAC5AF3gLzAYMAw0BkgDJwGXAM5AZ8A0iBrAGsgNvAiGEASwAOAA8ADYAJAAfgB_AEUAJEAc4BAwCDgE_AKGAUsAs4BogDqgI9AStAmwCbQFNgLCAXQAuoBdoC8gGBAMQAYsAyEBkYDQgGjANKAamA2oBtwDdA0BkALgAhgBkADLAGzAPsA_ACAAEFAIwAU8Aq8BaAFpANYAdUA-QCHQEVAJEATsApEBcgDJwGcgM8AZ8GAEgGyAOoAmwBTYC6AGRgNCAbUA3QRAVAEMAMgAZYA2YB9gH4AQAAjABTwCrgGsAOqAfIBDoCRAE7AKRAXIAyMBk4DOQGfCAAwAJAE2ALoAaEA2oBugqAiABQAIYATAAuACOAGWARwAq8BaAFpAWwAuQBeYDIwGcgM8AZ8A3IUAKAHgAQUA6oCPQE2ALoAaEA14BtQDbxkA8AIYATABHADLAI4AVcArYC0QFsALkAXmAyMBnIDPAGfDABYA8ACxAHVAR6Ak4BNgC6AF5ANCAbUA28dBXAAXABQAFQAMgAcgA-AEAALoAYABkADQAHgAPoAhgCKAEwAJ4AVQAuABiADMAG8AOYAegA_ACGgEQARIAlgBNACjAFKALEAW8AwgDDAGQAMoAaIA2QB3gD2gH2AfoA_wCBgEUgIsAjEBHAEdAJSAUEAp4BVwCxQFoAWkAuYBeQDFAG0ANwAc4A6gB9gEOgIqAReAkQBKgCdgFDgKaAVYAsUBbAC4AFyALtAXeAvMBgwDDQGPQMjAyQBk4DKgGWAMuAZmAzkBnwDRAGkANYAbeOAfgAIgAcAB4AFwASAA5AB-AFAAMgAaAA_gCKAEcAJEAZYAzQBzgDuAIAAQWAg4CEAERAJtAT4BPwClgFQAL0AYEAzIBrADjgHSAOqAfIBCACPQErAJigTIBMsCbAJtAUgApMBTYCqgFdgLQAWoAuKBdAF1AL6AYEAxABiwDIQGXgNCAaMA0oBpoDUwGvANqAbYA24hAzAAWABQADIALgAYgBDACYAFMAKoAXAAxABmADeAHoARwApQBYgDCAGUAO8AfYA_wCKAEcAJSAUEAp4BV4C0ALSAXMAxQBtADnAHUASIAlQBTQCrAFigLRAWwAuABcgC7QGRgMnAZyAzwBnwDRAHAEQAIB-yAB4ABAAaAA_gCRAGWAM0Ac4A8ACCgE-AKWAWIAzIB1QDtgI9AScAmKBNgE2gKQAUmAugBeQDAgGhANKAamA2oBtgDbiUDQABAACwAKAAZAA4AB-AGAAYgA8ACIAEwAKoAXAAxABmAENAIgAiQBHACjAFKALcAYQAygBsgDvgH2AfgBHACngFXgLQAtIBcwDFAG4AOoAfIBDoCKgEXgJEAWKAtgBdoC8wGRgMnAZYAzkBngDPgGkANYAbeA4AkAZAAcABcAHIAZABIgC5AGWAM0AagA7gCAAE-AKWAVAAzIB1QD7AI9AStAmwCbQFJgMCAYsA0oBuRSCEAAuACgAKgAZAA5AB8AIIAYABkADQAHkAQwBFACYAE8AKQAVQAxABmADmAH4AQ0AiACJAFGAKUAWIAtwBhADIAGUANEAbIA74B9gH6ARYAjEBHAEdAJSAUEAq4BWwC5gF5ANoAbgA-wCHQEXgJEAScAnYBQ4CrAFigLYAXAAuQBdoC8wGGwMjAyQBk4DLAGXAM5AZ4Az4BpEDWANZAbeVAAgH7KALAALgAkAByAD8AMgAbQA_gCOAEiALkAZYA1ABzgDuAHgAQAAg4BFQCRAEnAJtAT4BPwClgFiAMUAdUA7YB_wEegJiATLAmwCbQFIAKbAV2AtABeQC-gGBAMWAaIA0qBqQGpgNeAAAA.YAAAAAAAAAAA"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "https://stream-mz.planetradio.co.uk/magicsoul.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1675899759&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAAPAABpYIoNd_H_fbX9D-f596dt0eY1f9_r3ruQzDgeNk-8FyJ_W_LwX_2E7NB36pq4KmR4Em1LBAQNlHMHUDQmQaIkVqTHsak2MpyNKJ7BEklMZOydYGFtPmxFD-QKY795_93b52D-9_9v-z9z338VXn3N538gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQH7gCgDNAIOAWcA7YB-wFAkEkABAAC4AKAAqABkADkAHgAgABgADIAGgAPIAhgCKAEwAJ4AVQA3gBzAD0AH4AQgAhoBEAESAI4ASwAmgBSgC3AGGAMgAZYA2QB3gD2AHxAPsA_YB_gIAARSAi4CMAEaAI4ASkAoIBTwCrgFzAMUAawA2gBuAD5AIdASIAmUBOwChwFIgKaAWKAtABbAC5AF3gLzAYMAw0BkgDJwGXAM5AZ8A0iBrAGsgNvAiGEASwAOAA8ADYAJAAfgB_AEUAJEAc4BAwCDgE_AKGAUsAs4BogDqgI9AStAmwCbQFNgLCAXQAuoBdoC8gGBAMQAYsAyEBkYDQgGjANKAamA2oBtwDdA0BkALgAhgBkADLAGzAPsA_ACAAEFAIwAU8Aq8BaAFpANYAdUA-QCHQEVAJEATsApEBcgDJwGcgM8AZ8GAEgGyAOoAmwBTYC6AGRgNCAbUA3QRAVAEMAMgAZYA2YB9gH4AQAAjABTwCrgGsAOqAfIBDoCRAE7AKRAXIAyMBk4DOQGfCAAwAJAE2ALoAaEA2oBugqAiABQAIYATAAuACOAGWARwAq8BaAFpAWwAuQBeYDIwGcgM8AZ8A3IUAKAHgAQUA6oCPQE2ALoAaEA14BtQDbxkA8AIYATABHADLAI4AVcArYC0QFsALkAXmAyMBnIDPAGfDABYA8ACxAHVAR6Ak4BNgC6AF5ANCAbUA28dBXAAXABQAFQAMgAcgA-AEAALoAYABkADQAHgAPoAhgCKAEwAJ4AVQAuABiADMAG8AOYAegA_ACGgEQARIAlgBNACjAFKALEAW8AwgDDAGQAMoAaIA2QB3gD2gH2AfoA_wCBgEUgIsAjEBHAEdAJSAUEAp4BVwCxQFoAWkAuYBeQDFAG0ANwAc4A6gB9gEOgIqAReAkQBKgCdgFDgKaAVYAsUBbAC4AFyALtAXeAvMBgwDDQGPQMjAyQBk4DKgGWAMuAZmAzkBnwDRAGkANYAbeOAfgAIgAcAB4AFwASAA5AB-AFAAMgAaAA_gCKAEcAJEAZYAzQBzgDuAIAAQWAg4CEAERAJtAT4BPwClgFQAL0AYEAzIBrADjgHSAOqAfIBCACPQErAJigTIBMsCbAJtAUgApMBTYCqgFdgLQAWoAuKBdAF1AL6AYEAxABiwDIQGXgNCAaMA0oBpoDUwGvANqAbYA24hAzAAWABQADIALgAYgBDACYAFMAKoAXAAxABmADeAHoARwApQBYgDCAGUAO8AfYA_wCKAEcAJSAUEAp4BV4C0ALSAXMAxQBtADnAHUASIAlQBTQCrAFigLRAWwAuABcgC7QGRgMnAZyAzwBnwDRAHAEQAIB-yAB4ABAAaAA_gCRAGWAM0Ac4A8ACCgE-AKWAWIAzIB1QDtgI9AScAmKBNgE2gKQAUmAugBeQDAgGhANKAamA2oBtgDbiUDQABAACwAKAAZAA4AB-AGAAYgA8ACIAEwAKoAXAAxABmAENAIgAiQBHACjAFKALcAYQAygBsgDvgH2AfgBHACngFXgLQAtIBcwDFAG4AOoAfIBDoCKgEXgJEAWKAtgBdoC8wGRgMnAZYAzkBngDPgGkANYAbeA4AkAZAAcABcAHIAZABIgC5AGWAM0AagA7gCAAE-AKWAVAAzIB1QD7AI9AStAmwCbQFJgMCAYsA0oBuRSCEAAuACgAKgAZAA5AB8AIIAYABkADQAHkAQwBFACYAE8AKQAVQAxABmADmAH4AQ0AiACJAFGAKUAWIAtwBhADIAGUANEAbIA74B9gH6ARYAjEBHAEdAJSAUEAq4BWwC5gF5ANoAbgA-wCHQEXgJEAScAnYBQ4CrAFigLYAXAAuQBdoC8wGGwMjAyQBk4DLAGXAM5AZ4Az4BpEDWANZAbeVAAgH7KALAALgAkAByAD8AMgAbQA_gCOAEiALkAZYA1ABzgDuAHgAQAAg4BFQCRAEnAJtAT4BPwClgFiAMUAdUA7YB_wEegJiATLAmwCbQFIAKbAV2AtABeQC-gGBAMWAaIA0qBqQGpgNeAAAA.YAAAAAAAAAAA"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "U105",
@@ -5555,7 +5555,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "https://stream-ar.planetradio.co.uk/absoluteradiohigh.aac?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_html5&aw_0_1st.skey=1675900152&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPm3PwAPm3PwAAGABCENC2CsAP_AAAPAABpYIoNd_H_fbX9D-f596dt0eY1f9_r3ruQzDgeNk-8FyJ_W_LwX_2E7NB36pq4KmR4Em1LBAQNlHMHUDQmQaIkVqTHsak2MpyNKJ7BEklMZOydYGFtPmxFD-QKY795_93b52D-9_9v-z9z338VXn3N538gEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQH7gCgDNAIOAWcA7YB-wFAkEkABAAC4AKAAqABkADkAHgAgABgADIAGgAPIAhgCKAEwAJ4AVQA3gBzAD0AH4AQgAhoBEAESAI4ASwAmgBSgC3AGGAMgAZYA2QB3gD2AHxAPsA_YB_gIAARSAi4CMAEaAI4ASkAoIBTwCrgFzAMUAawA2gBuAD5AIdASIAmUBOwChwFIgKaAWKAtABbAC5AF3gLzAYMAw0BkgDJwGXAM5AZ8A0iBrAGsgNvAiGEASwAOAA8ADYAJAAfgB_AEUAJEAc4BAwCDgE_AKGAUsAs4BogDqgI9AStAmwCbQFNgLCAXQAuoBdoC8gGBAMQAYsAyEBkYDQgGjANKAamA2oBtwDdA0BkALgAhgBkADLAGzAPsA_ACAAEFAIwAU8Aq8BaAFpANYAdUA-QCHQEVAJEATsApEBcgDJwGcgM8AZ8GAEgGyAOoAmwBTYC6AGRgNCAbUA3QRAVAEMAMgAZYA2YB9gH4AQAAjABTwCrgGsAOqAfIBDoCRAE7AKRAXIAyMBk4DOQGfCAAwAJAE2ALoAaEA2oBugqAiABQAIYATAAuACOAGWARwAq8BaAFpAWwAuQBeYDIwGcgM8AZ8A3IUAKAHgAQUA6oCPQE2ALoAaEA14BtQDbxkA8AIYATABHADLAI4AVcArYC0QFsALkAXmAyMBnIDPAGfDABYA8ACxAHVAR6Ak4BNgC6AF5ANCAbUA28dBXAAXABQAFQAMgAcgA-AEAALoAYABkADQAHgAPoAhgCKAEwAJ4AVQAuABiADMAG8AOYAegA_ACGgEQARIAlgBNACjAFKALEAW8AwgDDAGQAMoAaIA2QB3gD2gH2AfoA_wCBgEUgIsAjEBHAEdAJSAUEAp4BVwCxQFoAWkAuYBeQDFAG0ANwAc4A6gB9gEOgIqAReAkQBKgCdgFDgKaAVYAsUBbAC4AFyALtAXeAvMBgwDDQGPQMjAyQBk4DKgGWAMuAZmAzkBnwDRAGkANYAbeOAfgAIgAcAB4AFwASAA5AB-AFAAMgAaAA_gCKAEcAJEAZYAzQBzgDuAIAAQWAg4CEAERAJtAT4BPwClgFQAL0AYEAzIBrADjgHSAOqAfIBCACPQErAJigTIBMsCbAJtAUgApMBTYCqgFdgLQAWoAuKBdAF1AL6AYEAxABiwDIQGXgNCAaMA0oBpoDUwGvANqAbYA24hAzAAWABQADIALgAYgBDACYAFMAKoAXAAxABmADeAHoARwApQBYgDCAGUAO8AfYA_wCKAEcAJSAUEAp4BV4C0ALSAXMAxQBtADnAHUASIAlQBTQCrAFigLRAWwAuABcgC7QGRgMnAZyAzwBnwDRAHAEQAIB-yAB4ABAAaAA_gCRAGWAM0Ac4A8ACCgE-AKWAWIAzIB1QDtgI9AScAmKBNgE2gKQAUmAugBeQDAgGhANKAamA2oBtgDbiUDQABAACwAKAAZAA4AB-AGAAYgA8ACIAEwAKoAXAAxABmAENAIgAiQBHACjAFKALcAYQAygBsgDvgH2AfgBHACngFXgLQAtIBcwDFAG4AOoAfIBDoCKgEXgJEAWKAtgBdoC8wGRgMnAZYAzkBngDPgGkANYAbeA4AkAZAAcABcAHIAZABIgC5AGWAM0AagA7gCAAE-AKWAVAAzIB1QD7AI9AStAmwCbQFJgMCAYsA0oBuRSCEAAuACgAKgAZAA5AB8AIIAYABkADQAHkAQwBFACYAE8AKQAVQAxABmADmAH4AQ0AiACJAFGAKUAWIAtwBhADIAGUANEAbIA74B9gH6ARYAjEBHAEdAJSAUEAq4BWwC5gF5ANoAbgA-wCHQEXgJEAScAnYBQ4CrAFigLYAXAAuQBdoC8wGGwMjAyQBk4DLAGXAM5AZ4Az4BpEDWANZAbeVAAgH7KALAALgAkAByAD8AMgAbQA_gCOAEiALkAZYA1ABzgDuAHgAQAAg4BFQCRAEnAJtAT4BPwClgFiAMUAdUA7YB_wEegJiATLAmwCbQFIAKbAV2AtABeQC-gGBAMWAaIA0qBqQGpgNeAAAA.YAAAAAAAAAAA"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=absoluteradiohigh-aac"
         },
         {
             name: "Capital FM",
@@ -5585,7 +5585,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=net2national-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Gold Radio",
@@ -5620,22 +5620,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=heat-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=heat-aac"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=kissnational-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=kissnational-aac"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=kissfresh-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=kissfresh-aac"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=kisstory-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=kisstory-aac"
         },
         {
             name: "LBC",
@@ -5650,7 +5650,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "http://[2602:fed2:7106:228a:62f::1]/radiofeeds.php?station=magicnational-aac"
+            url: "http://158.51.84.130:10801/radiofeeds.php?station=magicnational-aac"
         },
         {
             name: "Radio X",
