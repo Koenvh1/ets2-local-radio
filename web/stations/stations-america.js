@@ -15612,8 +15612,8 @@ var stations = {
             url: "https://classicalking.streamguys1.com/evergreen-aac-128k"
         },
         {
-            name: "98.9 The Bull",
-            logo: "stations/images-america/seattle/98.9 The Bull.png",
+            name: "98.9 KPNW",
+            logo: "stations/images-america/seattle/98.9 KPNW.png",
             url: "http://158.51.84.130:10801/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUCFMAAC_SC"
         },
         {
@@ -39300,6 +39300,11 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7284_48k.aac"
         },
         {
+            name: "Gem 99 & 100",
+            logo: "stations/images-america/c2c/scranton_pa/Gem 99 & 100.png",
+            url: "http://geocom.leanstream.co/WGMFAM"
+        },
+        {
             name: "Froggy 101",
             logo: "stations/images-america/c2c/scranton_pa/Froggy 101.png",
             url: "http://158.51.84.130:10801/index.php?u=https://live.amperwave.net/direct/audacy-wggyfmaac-imc"
@@ -39323,11 +39328,6 @@ var stations_c2c = {
             name: "The Bet 103.1-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
             url: "http://158.51.84.130:10801/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
-        },
-        {
-            name: "Gem 100 & 104",
-            logo: "stations/images-america/c2c/scranton_pa/Gem 100 & 104.png",
-            url: "http://geocom.leanstream.co/WGMFAM"
         },
         {
             name: "105 The River",
