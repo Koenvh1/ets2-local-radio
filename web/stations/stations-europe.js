@@ -3763,42 +3763,42 @@ var stations = {
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=absoluteclassicrockhigh-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=coolfm-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=coolfm-aac"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=downtown-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=downtown-aac"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=downtowncountry-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=downtowncountry-aac"
         },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/nireland/Hits Radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=hits-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/nireland/Hits Radio Pride.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=hitsradiopride-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=net2national-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=magicsoul-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "U105",
@@ -5555,7 +5555,7 @@ var stations = {
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=absoluteradiohigh-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=absoluteradiohigh-aac"
         },
         {
             name: "Capital FM",
@@ -5585,7 +5585,7 @@ var stations = {
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=net2national-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Gold Radio",
@@ -5620,22 +5620,22 @@ var stations = {
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=heat-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=heat-aac"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=kissnational-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=kissnational-aac"
         },
         {
             name: "KISS Fresh",
             logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=kissfresh-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=kissfresh-aac"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=kisstory-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=kisstory-aac"
         },
         {
             name: "LBC",
@@ -5650,7 +5650,7 @@ var stations = {
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "http://158.51.84.130:10801/radiofeeds.php?station=magicnational-aac"
+            url: "http://185.106.98.26/radiofeeds.php?station=magicnational-aac"
         },
         {
             name: "Radio X",
