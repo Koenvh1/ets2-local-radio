@@ -33610,6 +33610,11 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kforamaac-ibc4"
         },
         {
+            name: "Mix 103.3",
+            logo: "stations/images-america/c2c/lincoln_ne/Mix 103.3.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-klmsamaac-ibc4"
+        },
+        {
             name: "104.1 The Blaze",
             logo: "stations/images-america/c2c/lincoln_ne/104.1 The Blaze.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kibzfmaac-ibc4"
