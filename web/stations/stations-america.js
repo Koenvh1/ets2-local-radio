@@ -40290,7 +40290,7 @@ var stations_c2c = {
         },
         {
             name: "Real 97.7",
-            logo: "stations/images-america/c2c/chattanooga_tn/REAL 97.7.png",
+            logo: "stations/images-america/c2c/chattanooga_tn/Real 97.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wusyhd2aac-imc"
         },
         {
@@ -40349,7 +40349,7 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/clearmedia-wnooamaac-ibc1"
         },
         {
-            name: "107.9 Country",
+            name: "New Country 107.9",
             logo: "stations/images-america/c2c/chattanooga_tn/107.9 Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOGTFMAAC_SC"
         },
