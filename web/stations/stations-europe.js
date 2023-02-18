@@ -2712,11 +2712,6 @@ var stations = {
     ],
     "iraq": [
         {
-            name: "BBC Arabic",
-            logo: "stations/images-europe/iraq/BBC Arabic.png",
-            url: "http://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
-        },
-        {
             name: "راديو سوا",
             logo: "stations/images-europe/iraq/راديو سوا.png",
             url: "https://stream.radiojar.com/t9h51xwr92quv"
