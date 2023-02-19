@@ -15337,7 +15337,7 @@ var stations = {
         {
             name: "KBUK 104.9",
             logo: "stations/images-america/texas/schulenburg/KBUK 104.9.png",
-            url: "https://ice7.securenetsystems.net/KBUK"
+            url: "https://ice41.securenetsystems.net/KBUK"
         },
         {
             name: "550 KTSA",
@@ -17359,7 +17359,7 @@ var stations = {
         {
             name: "KDOK 95.7",
             logo: "stations/images-america/texas/tyler/KDOK 95.7.png",
-            url: "http://185.106.98.26/index.php?u=https://streaming.live365.com/a92942"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTkyOTQy"
         },
         {
             name: "Classic Rock 96.1",
@@ -17379,7 +17379,7 @@ var stations = {
         {
             name: "QXFM 97.9",
             logo: "stations/images-america/texas/tyler/QXFM 97.9.png",
-            url: "http://185.106.98.26/index.php?u=https://streaming.live365.com/a53127"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTUzMTI3"
         },
         {
             name: "Mega 99.3",
@@ -25514,7 +25514,7 @@ var stations_c2c = {
         {
             name: "Jazzy 107.5",
             logo: "stations/images-america/c2c/honolulu_hi/Jazzy 107.5.png",
-            url: "https://streaming.live365.com/a25436"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTI1NDM2"
         },
         {
             name: "Decades 107.9",
@@ -27969,11 +27969,6 @@ var stations_c2c = {
             name: "1490 KTOP",
             logo: "stations/images-america/c2c/topeka_ks/1490 KTOP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPAMAAC_SC"
-        },
-        {
-            name: "NOAA Weather Radio Topeka",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://wxradio.org/KS-Topeka-WXK91"
         },
     ],
     "wichita": [
@@ -40256,17 +40251,17 @@ var stations_c2c = {
         {
             name: "G93",
             logo: "stations/images-america/c2c/chattanooga_tn/G93.png",
-            url: "https://live.wostreaming.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
         },
         {
             name: "Power 94",
             logo: "stations/images-america/c2c/chattanooga_tn/Power 94.png",
-            url: "https://live.wostreaming.net/direct/brewerchattanooga-wjttfmaac-ibc4"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/brewerchattanooga-wjttfmaac-ibc4"
         },
         {
             name: "ESPN 95.3",
             logo: "stations/images-america/c2c/chattanooga_tn/ESPN 95.3.png",
-            url: "https://live.wostreaming.net/manifest/brewerchattanooga-walvfmaac-ibc4"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/brewerchattanooga-walvfmaac-ibc4"
         },
         {
             name: "WFLI 96.1",
@@ -40341,7 +40336,7 @@ var stations_c2c = {
         {
             name: "BIG 106.9",
             logo: "stations/images-america/c2c/chattanooga_tn/BIG 106.9.png",
-            url: "https://live.wostreaming.net/manifest/brewerchattanooga-wplzfmaac-ibc4"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/brewerchattanooga-wplzfmaac-ibc4"
         },
         {
             name: "WNOO 107.3",
