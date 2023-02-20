@@ -41516,14 +41516,14 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGHFMAAC_SC"
         },
         {
-            name: "Solid Gold 97.3-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/Solid Gold 97.3-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGHFM_HD2AAC_SC"
-        },
-        {
             name: "FM99",
             logo: "stations/images-america/c2c/norfolk_va/FM99.png",
             url: "https://live.wostreaming.net/direct/saga-wnorfmaac-ibc1"
+        },
+        {
+            name: "The Lighthouse 100.1",
+            logo: "stations/images-america/c2c/norfolk_va/The Lighthouse.png",
+            url: "http://amber.streamguys.com:5250/whkt.mp3"
         },
         {
             name: "100.5 The Vibe",
@@ -41611,9 +41611,19 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNISAMAAC_SC"
         },
         {
+            name: "WTAR 850",
+            logo: "stations/images-america/c2c/norfolk_va/Lucy 96.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTARAMAAC.aac"
+        },
+        {
             name: "FOX Sports 1310",
             logo: "stations/images-america/c2c/norfolk_va/FOX Sports 1310.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGHAMAAC.aac"
+        },
+        {
+            name: "WGPL 1350",
+            logo: "stations/images-america/c2c/norfolk_va/WGPL 1350.png",
+            url: "http://wpc.2f64c.mucdn.net/242F64C/wgpl/praise.m3u8"
         },
     ],
     "richmond_va": [
