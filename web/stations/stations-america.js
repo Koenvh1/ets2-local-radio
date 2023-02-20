@@ -41458,7 +41458,7 @@ var stations_c2c = {
         {
             name: "92.9 The Wave",
             logo: "stations/images-america/c2c/norfolk_va/92.9 The Wave.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTVWFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTWVFMAAC_SC"
         },
         {
             name: "93.7 BOB FM",
@@ -41493,7 +41493,7 @@ var stations_c2c = {
         {
             name: "KOOL 95.7-HD2",
             logo: "stations/images-america/c2c/norfolk_va/KOOL 95.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WVKLHD2AAC_SC"
+            url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wvklhd2aac-imc"
         },
         {
             name: "The Bet 95.7-HD3",
@@ -41523,7 +41523,7 @@ var stations_c2c = {
         {
             name: "FM99",
             logo: "stations/images-america/c2c/norfolk_va/FM99.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNORFMAAC_SC"
+            url: "https://live.wostreaming.net/direct/saga-wnorfmaac-ibc1"
         },
         {
             name: "100.5 The Vibe",
@@ -41588,7 +41588,7 @@ var stations_c2c = {
         {
             name: "106.9 The Fox",
             logo: "stations/images-america/c2c/norfolk_va/106.9 The Fox.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAFXFMAAC_SC"
+            url: "https://live.wostreaming.net/direct/saga-wafxfmaac-ibc1"
         },
         {
             name: "MOViN 107.7",
