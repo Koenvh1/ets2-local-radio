@@ -1774,7 +1774,7 @@ var stations = {
         {
             name: "RADIO BOB!",
             logo: "stations/images-europe/germany/Radio BOB.png",
-            url: "https://bob.hoerradar.de/radiobob-national-mp3-hq"
+            url: "https://streams.radiobob.de/bob-national/mp3-192"
         },
         {
             name: "Radio Horeb",
@@ -1799,7 +1799,7 @@ var stations = {
         {
             name: "Schwarzwaldradio",
             logo: "stations/images-europe/germany/Schwarzwaldradio.png",
-            url: "https://stream.schwarzwaldradio.com/schwarzwaldradio"
+            url: "https://frontend.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3"
         },
         {
             name: "sunshine live",
@@ -2034,7 +2034,7 @@ var stations = {
         {
             name: "Radio BOB!",
             logo: "stations/images-europe/germany-hr/Radio BOB.png",
-            url: "https://bob.hoerradar.de/radiobob-live-mp3-hq"
+            url: "https://streams.radiobob.de/bob-live/mp3-192"
         },
         {
             name: "Radio TEDDY",
@@ -2396,7 +2396,7 @@ var stations = {
         {
             name: "Radio BOB!",
             logo: "stations/images-europe/germany-sh/Radio BOB!.png",
-            url: "https://bob.hoerradar.de/radiobob-shlive-mp3-hq"
+            url: "https://streams.radiobob.de/bob-shlive/mp3-192"
         },
     ],
     "germany-swr": [
@@ -3010,11 +3010,6 @@ var stations = {
             name: "راديو هلا",
             logo: "stations/images-europe/jordan/راديو هلا.png",
             url: "http://us10a.serverse.com:8027/;"
-        },
-        {
-            name: "BBC World Service Arabic",
-            logo: "stations/images-europe/jordan/BBC World Service Arabic.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio"
         },
     ],
     "kazakhstan": [
