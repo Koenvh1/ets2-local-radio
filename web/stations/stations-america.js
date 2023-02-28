@@ -44147,9 +44147,9 @@ var stations_canada = {
             url: "http://audio.cfrc.ca:8000/;"
         },
         {
-            name: "KiSS 102.7",
-            logo: "stations/images-america/canada/kingston/KiSS 102.7.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/kin1027.stream/icy"
+            name: "102.7 The Pole",
+            logo: "stations/images-america/canada/kingston/102.7 The Pole.png",
+            url: "https://ice64.securenetsystems.net/WLYK"
         },
         {
             name: "Magic 103.1",
@@ -44180,6 +44180,11 @@ var stations_canada = {
             name: "CBC Radio One 107.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott"
+        },
+        {
+            name: "WATN 1240",
+            logo: "stations/images-america/canada/kingston/WATN 1240.png",
+            url: "https://ice64.securenetsystems.net/WATN"
         },
     ],
     "labradorcity": [
