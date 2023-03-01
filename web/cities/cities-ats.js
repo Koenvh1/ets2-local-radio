@@ -725,7 +725,7 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
-    "marathon": {
+    "marathon_tx": {
         name: "Marathon",
         name_english: "Marathon",
         code: "us-tx",
@@ -1753,7 +1753,7 @@ var city_properties = {
     "lufkin": {
         relative_whitenoise: 0.95
     },
-    "marathon": {
+    "marathon_tx": {
         relative_whitenoise: 0.95
     },
     "marfa": {
@@ -3817,7 +3817,7 @@ var cities = [
         "z": "-51559.7"
     },
     {
-        "gameName": "marathon",
+        "gameName": "marathon_tx",
         "realName": "Marathon",
         "country": "marathon",
         "x": "-34735.6",

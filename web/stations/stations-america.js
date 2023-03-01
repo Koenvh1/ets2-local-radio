@@ -9978,7 +9978,7 @@ var stations = {
             url: "https://goldenwest.leanstream.co/CHABAM"
         },
     ],
-    "marathon": [
+    "marathon_tx": [
         {
             name: "afr Hybrid 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
