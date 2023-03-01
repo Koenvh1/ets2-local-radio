@@ -3819,7 +3819,7 @@ var cities = [
     {
         "gameName": "marathon_tx",
         "realName": "Marathon",
-        "country": "marathon",
+        "country": "marathon_tx",
         "x": "-34735.6",
         "y": "66.518",
         "z": "48479.4"
