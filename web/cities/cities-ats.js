@@ -3820,9 +3820,9 @@ var cities = [
         "gameName": "marathon_tx",
         "realName": "Marathon",
         "country": "marathon_tx",
-        "x": "-34735.6",
+        "x": "-34935.6",
         "y": "66.518",
-        "z": "48479.4"
+        "z": "50479.4"
     },
     {
         "gameName": "mcallen_brownsville",
@@ -3852,7 +3852,7 @@ var cities = [
         "gameName": "marfa",
         "realName": "Marfa",
         "country": "van_horn",
-        "x": "-39222.9",
+        "x": "-38922.9",
         "y": "53.9985",
         "z": "47888.4"
     },
@@ -3860,7 +3860,7 @@ var cities = [
         "gameName": "marfa",
         "realName": "Marfa",
         "country": "marfa",
-        "x": "-39222.9",
+        "x": "-38922.9",
         "y": "53.9985",
         "z": "47888.4"
     },
