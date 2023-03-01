@@ -15477,7 +15477,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2569/hls.m3u8"
         },
         {
-            name: "KJEB 95.7-HD2",
+            name: "95.7 KJEB-HD2",
             logo: "stations/images-america/seattle/950 KJR.png",
             url: "http://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
