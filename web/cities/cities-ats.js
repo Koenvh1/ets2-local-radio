@@ -797,6 +797,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "odessa": {
+        name: "Odessa",
+        name_english: "Odessa",
+        code: "us-tx",
+        relative_radius: 0.7
+    },
     "olympia": {
         name: "Olympia",
         name_english: "Olympia",
@@ -1772,6 +1778,10 @@ var city_properties = {
     },
     "newport": {
         relative_whitenoise: 0.85
+    },
+    "odessa": {
+        relative_radius: 0.3,
+        relative_whitenoise: 0.95
     },
     "olympia": {
         relative_radius: 0.5,
@@ -3418,6 +3428,14 @@ var cities = [
         "x": "-103165",
         "y": "30.18",
         "z": "-57231.5"
+    },
+    {
+        "gameName": "odessa",
+        "realName": "Odessa",
+        "country": "midland_odessa",
+        "x": "-31548.6",
+        "y": "53.2095",
+        "z": "40292.8"
     },
     {
         "gameName": "olympia",
