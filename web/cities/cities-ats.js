@@ -725,6 +725,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
+    "marfa": {
+        name: "Marfa",
+        name_english: "Marfa",
+        code: "us-tx",
+        relative_radius: 0.75
+    },
     "martins": {
         name: "Martins",
         name_english: "Martins",
@@ -1739,6 +1745,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lufkin": {
+        relative_whitenoise: 0.95
+    },
+    "marfa": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "martins_ca": {
@@ -3820,6 +3830,14 @@ var cities = [
         "x": "-89641.8",
         "y": "74.6754",
         "z": "-28539.1"
+    },
+    {
+        "gameName": "marfa",
+        "realName": "Marfa",
+        "country": "van_horn",
+        "x": "-39222.9",
+        "y": "53.9985",
+        "z": "47888.4"
     },
     {
         "gameName": "martins_ca",
