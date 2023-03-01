@@ -9978,6 +9978,45 @@ var stations = {
             url: "https://goldenwest.leanstream.co/CHABAM"
         },
     ],
+    "marathon": [
+        {
+            name: "afr Hybrid 88.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "KALP 92.7",
+            logo: "stations/images-america/texas/marathon/KALP 92.7.png",
+            url: "https://crystalout.surfernetwork.com:8001/KALP_MP3"
+        },
+        {
+            name: "Marfa Public Radio 93.5",
+            logo: "stations/images-america/0_general_logos/Marfa Public Radio.png",
+            url: "http://marfapr-ice.streamguys1.com/krts"
+        },
+        {
+            name: "K254CW 98.7",
+            logo: "stations/images-america/texas/marfa/KVLF 1240.png",
+            url: "http://crystalout.surfernetwork.com:8001/KVLF_MP3"
+        },
+        {
+            name: "KVLF 1240",
+            logo: "stations/images-america/texas/marfa/KVLF 1240.png",
+            url: "https://crystalout.surfernetwork.com:8001/KVLF_MP3"
+        },
+    ],
+    "marfa": [
+        {
+            name: "KMKB 98.9",
+            logo: "stations/images-america/texas/marfa/KMKB 98.9.png",
+            url: "http://50.19.66.66:8000/kmkb"
+        },
+        {
+            name: "KVLF 1240",
+            logo: "stations/images-america/texas/marfa/KVLF 1240.png",
+            url: "https://crystalout.surfernetwork.com:8001/KVLF_MP3"
+        },
+    ],
     "mcallen_brownsville": [
         {
             name: "Relevant Radio 88.1",

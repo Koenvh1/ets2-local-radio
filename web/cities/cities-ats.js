@@ -725,6 +725,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
+    "marathon": {
+        name: "Marathon",
+        name_english: "Marathon",
+        code: "us-tx",
+        relative_radius: 0.6
+    },
     "marfa": {
         name: "Marfa",
         name_english: "Marfa",
@@ -1745,6 +1751,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lufkin": {
+        relative_whitenoise: 0.95
+    },
+    "marathon": {
         relative_whitenoise: 0.95
     },
     "marfa": {
@@ -3808,6 +3817,14 @@ var cities = [
         "z": "-51559.7"
     },
     {
+        "gameName": "marathon",
+        "realName": "Marathon",
+        "country": "marathon",
+        "x": "-34735.6",
+        "y": "66.518",
+        "z": "48479.4"
+    },
+    {
         "gameName": "mcallen_brownsville",
         "realName": "Rio Grande Valley",
         "country": "mcallen_brownsville",
@@ -3835,6 +3852,14 @@ var cities = [
         "gameName": "marfa",
         "realName": "Marfa",
         "country": "van_horn",
+        "x": "-39222.9",
+        "y": "53.9985",
+        "z": "47888.4"
+    },
+    {
+        "gameName": "marfa",
+        "realName": "Marfa",
+        "country": "marfa",
         "x": "-39222.9",
         "y": "53.9985",
         "z": "47888.4"
