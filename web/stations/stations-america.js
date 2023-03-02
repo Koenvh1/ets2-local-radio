@@ -3867,16 +3867,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kluvfmaac-imc"
         },
         {
-            name: "Smokin' Oldies 98.7-HD2",
-            logo: "stations/images-america/texas/dallas_fort_worth/Smokin' Oldies 98.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kluvhd2aac-imc"
-        },
-        {
-            name: "98.7 KLUV-HD3",
-            logo: "stations/images-america/texas/dallas_fort_worth/98.7 KLUV-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kluvhd3aac-imc"
-        },
-        {
             name: "Zona MX 99.1",
             logo: "stations/images-america/texas/dallas_fort_worth/Zona MX 99.1.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/univision-kfzofmaac-imc1"
@@ -3895,16 +3885,6 @@ var stations = {
             name: "100.3 Jack FM",
             logo: "stations/images-america/texas/dallas_fort_worth/100.3 Jack FM.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kjkkfmaac-imc"
-        },
-        {
-            name: "V100.3-HD2",
-            logo: "stations/images-america/texas/dallas_fort_worth/V100.3-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kjkkhd2aac-imc"
-        },
-        {
-            name: "The Bet 100.3-HD3",
-            logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "The Word 100.7",
@@ -5655,7 +5635,7 @@ var stations = {
         {
             name: "107.5 KOLT",
             logo: "stations/images-america/flagstaff/107.5 KOLT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSEDFMAAC_SC"
+            url: "https://ice.wbcengineering.com:8119/stream"
         },
         {
             name: "Arizona Shine 107.9",
@@ -7081,16 +7061,6 @@ var stations = {
             name: "MIX 96.5",
             logo: "stations/images-america/texas/houston/MIX 96.5.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-khmxfmaac-imc"
-        },
-        {
-            name: "Hard Rock 96.5-HD2",
-            logo: "stations/images-america/texas/houston/Hard Rock 96.5-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-khmxhd2aac-imc"
-        },
-        {
-            name: "The Wave 96.5-HD3",
-            logo: "stations/images-america/texas/houston/The Wave 96.5-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-khmxhd3aac-imc"
         },
         {
             name: "Country Legends 97.1",
@@ -9358,11 +9328,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
         },
         {
-            name: "The AVE 94.7-HD2",
-            logo: "stations/images-america/los_angeles/The Ave 94.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-ktwvhd2aac-imc"
-        },
-        {
             name: "95.5 KLOS",
             logo: "stations/images-america/los_angeles/95.5 KLOS.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
@@ -9506,11 +9471,6 @@ var stations = {
             name: "Roq of the 80s 106.7-HD2",
             logo: "stations/images-america/los_angeles/Roq of the 80s 106.7-HD2.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kroqhd2aac-imc"
-        },
-        {
-            name: "New Arrivals 106.7-HD3",
-            logo: "stations/images-america/0_general_logos/New Arrivals.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wqmphd3aac-imc"
         },
         {
             name: "K-LOVE 107.5",
@@ -11677,11 +11637,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kroqhd2aac-imc"
         },
         {
-            name: "Your '70s Playlist 94.5-HD3",
-            logo: "stations/images-america/phoenix/Your '70s Playlist 94.5-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-koolhd3aac-imc"
-        },
-        {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
             url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
@@ -12036,11 +11991,6 @@ var stations = {
             name: "92.3 KGON",
             logo: "stations/images-america/portland/92.3 KGON.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kgonfmaac-imc"
-        },
-        {
-            name: "Waterfront Blues Radio 92.3-HD2",
-            logo: "stations/images-america/portland/Waterfront Blues Radio 92.3-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kgonhd2aac-imc"
         },
         {
             name: "93.1 El Rey",
@@ -12951,11 +12901,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kfrgfmaac-imc"
         },
         {
-            name: "K-FROG NEXT 95.1-HD2",
-            logo: "stations/images-america/riverside/K-FROG NEXT 95.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-kxfghd2aac-imc"
-        },
-        {
             name: "96.7 KCAL",
             logo: "stations/images-america/riverside/96.7 KCAL.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KCALFMAAC_SC"
@@ -13357,11 +13302,6 @@ var stations = {
             name: "96.9 The Eagle",
             logo: "stations/images-america/sacramento/96.9 The Eagle.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-ksegfmaac-imc"
-        },
-        {
-            name: "SacChristmas 96.9-HD2",
-            logo: "stations/images-america/sacramento/SacChristmas 96.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-krxqhd2aac-imc"
         },
         {
             name: "97.5 KDEE",
@@ -14703,7 +14643,7 @@ var stations = {
         {
             name: "exa 91.7",
             logo: "stations/images-america/san_diego/Exa FM 91.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX_SC"
         },
         {
             name: "Air1 92.1",
@@ -14786,19 +14726,9 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kyxyfmaac-imc"
         },
         {
-            name: "Flashback ALT 96.5-HD2",
-            logo: "stations/images-america/san_diego/Flashback ALT 96.5-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kyxyhd2aac-imc"
-        },
-        {
             name: "97.3 The Fan",
             logo: "stations/images-america/san_diego/97.3 The Fan.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kwfnfmaac-imc"
-        },
-        {
-            name: "The Angry Playlist 97.3-HD2",
-            logo: "stations/images-america/san_diego/The Angry Playlist 97.3-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kwfnhd2aac-imc"
         },
         {
             name: "The Bet 97.3-HD3",
@@ -14809,11 +14739,6 @@ var stations = {
             name: "Sunny 98.1",
             logo: "stations/images-america/san_diego/Sunny 98.1.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kxsnfmaac-imc"
-        },
-        {
-            name: "Smooth Jazz 98.1-HD2",
-            logo: "stations/images-america/san_diego/Smooth Jazz 98.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kxsnhd2aac-imc"
         },
         {
             name: "Channel Q 98.1-HD3",
@@ -14859,11 +14784,6 @@ var stations = {
             name: "103.7 KSON",
             logo: "stations/images-america/san_diego/103.7 KSON.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-ksonfmaac-imc"
-        },
-        {
-            name: "Nashville Legends 103.7-HD2",
-            logo: "stations/images-america/san_diego/Nashville Legends 103.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-ksonhd2aac-imc"
         },
         {
             name: "104.5 Radio Latina",
@@ -15220,11 +15140,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kitsfmaac-imc"
         },
         {
-            name: "Classic Live 105",
-            logo: "stations/images-america/san_francisco/Classic Live 105.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kitshd2aac-imc"
-        },
-        {
             name: "Latino Mix 105.7",
             logo: "stations/images-america/san_francisco/Latino Mix 105.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/univision-kvvffmaac-imc2"
@@ -15243,11 +15158,6 @@ var stations = {
             name: "KCBS 106.9",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
-        },
-        {
-            name: "KFRC Classic Hits 106.9-HD2",
-            logo: "stations/images-america/san_francisco/KFRC Classic Hits 106.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kfrchd2aac-imc"
         },
         {
             name: "K-LOVE 107.3",
@@ -15501,11 +15411,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
         },
         {
-            name: "Delta Blues 94.1-HD2",
-            logo: "stations/images-america/0_general_logos/Delta Blues.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kswdhd2aac-imc"
-        },
-        {
             name: "KUOW 94.9",
             logo: "stations/images-america/seattle/KUOW 94.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3_SC"
@@ -15581,11 +15486,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kiswfmaac-imc"
         },
         {
-            name: "Metal Militia 99.9-HD2",
-            logo: "stations/images-america/seattle/Metal Militia 99.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kiswhd2aac-imc"
-        },
-        {
             name: "100.7 The Wolf",
             logo: "stations/images-america/seattle/100.7 The Wolf.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kkwffmaac-imc"
@@ -15624,11 +15524,6 @@ var stations = {
             name: "HOT 103.7",
             logo: "stations/images-america/seattle/Hot 103.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-khtpfmaac-imc"
-        },
-        {
-            name: "The Mountain 103.7-HD2",
-            logo: "stations/images-america/seattle/The Mountain 103.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-khtphd2aac-imc"
         },
         {
             name: "Hollow Earth Radio 104.9",
@@ -19034,7 +18929,7 @@ var stations_mexico = {
         {
             name: "exa 100.9",
             logo: "stations/images-america/mexico/chihuahua/exa 100.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSBTAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSBT_SC"
         },
         {
             name: "Radio Fórmula 101.7",
@@ -23432,11 +23327,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wlyffmaac-imc"
         },
         {
-            name: "Today's Life 101.5-HD2",
-            logo: "stations/images-america/c2c/miami_fl/Today's Life 101.5-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wlyfhd2aac-imc"
-        },
-        {
             name: "102.7 The Beach",
             logo: "stations/images-america/c2c/miami_fl/102.7 The Beach.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wmxjfmaac-imc"
@@ -23841,11 +23731,6 @@ var stations_c2c = {
             name: "The Bet 101.9-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
-        },
-        {
-            name: "New Arrivals 101.9-HD3",
-            logo: "stations/images-america/0_general_logos/New Arrivals.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wqmphd3aac-imc"
         },
         {
             name: "FLY 103.1",
@@ -24578,16 +24463,6 @@ var stations_c2c = {
             name: "Star 94",
             logo: "stations/images-america/c2c/atlanta_ga/Star 94.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wstrfmaac-imc"
-        },
-        {
-            name: "Star 94.1-HD2",
-            logo: "stations/images-america/c2c/atlanta_ga/Star 94.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wstrhd2aac-imc"
-        },
-        {
-            name: "Channel Q 94.1-HD3",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Streetz 94.5",
@@ -25912,11 +25787,6 @@ var stations_c2c = {
             name: "US 99",
             logo: "stations/images-america/c2c/chicago_il/US 99.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wusnfmaac-imc"
-        },
-        {
-            name: "99.5-HD2 The Wolf",
-            logo: "stations/images-america/c2c/chicago_il/99.5-HD2 The Wolf.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wusnhd2aac-imc"
         },
         {
             name: "100.3 SHE",
@@ -29351,11 +29221,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wkbufmaac-imc"
         },
         {
-            name: "Metal Militia 95.7-HD2",
-            logo: "stations/images-america/seattle/Metal Militia 99.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kiswhd2aac-imc"
-        },
-        {
             name: "Throwback 96.3",
             logo: "stations/images-america/c2c/new_orleans_la/Throwback 96.3.png",
             url: "https://stream.revma.ihrhls.com/zc5873/hls.m3u8"
@@ -30113,11 +29978,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wwmxfmaac-imc"
         },
         {
-            name: "New Arrivals 106.5-HD2",
-            logo: "stations/images-america/0_general_logos/New Arrivals.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wqmphd3aac-imc"
-        },
-        {
             name: "Channel Q 106.5-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
@@ -30198,11 +30058,6 @@ var stations_c2c = {
             name: "WPGC 95.5-HD2",
             logo: "stations/images-america/c2c/washington_dc/106.7 The Fan.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
-        },
-        {
-            name: "Connecting Vets 95.5-HD3",
-            logo: "stations/images-america/c2c/washington_dc/Connecting Vets 95.5-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wpgchd3aac-imc"
         },
         {
             name: "WHUR 96.3",
@@ -30502,11 +30357,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
-            name: "The Cove 103.3-HD3",
-            logo: "stations/images-america/c2c/boston_ma/The Cove 103.3-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wbgbhd3aac-imc"
-        },
-        {
             name: "LatinX 103.7",
             logo: "stations/images-america/c2c/boston_ma/LatinX 103.7.png",
             url: "https://stream.zeno.fm/wuecf39qc18uv.aac"
@@ -30515,16 +30365,6 @@ var stations_c2c = {
             name: "Mix 104.1",
             logo: "stations/images-america/c2c/boston_ma/Mix 104.1.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wwbxfmaac-imc"
-        },
-        {
-            name: "WAAF 104.1-HD2",
-            logo: "stations/images-america/c2c/boston_ma/WAAF 104.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wwbxhd2aac-imc"
-        },
-        {
-            name: "Tommorow's Hits Today 104.1-HD3",
-            logo: "stations/images-america/c2c/boston_ma/Tommorow's Hits Today 104.1-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wwbxhd3aac-imc"
         },
         {
             name: "104.5 XLO",
@@ -30550,11 +30390,6 @@ var stations_c2c = {
             name: "Magic 106.7",
             logo: "stations/images-america/c2c/boston_ma/Magic 106.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wmjxfmaac-imc"
-        },
-        {
-            name: "Magic 106.7-HD2",
-            logo: "stations/images-america/c2c/boston_ma/Magic 106.7.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wmjxhd2aac-imc"
         },
         {
             name: "Kiss 108",
@@ -30776,16 +30611,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wdzhfmaac-imc"
         },
         {
-            name: "V98.7-HD2",
-            logo: "stations/images-america/c2c/detroit_mi/V98.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wdzhhd2aac-imc"
-        },
-        {
-            name: "Channel Q 98.7-HD3",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
-        },
-        {
             name: "CJAM 99.1",
             logo: "stations/images-america/c2c/detroit_mi/CJAM 99.1.png",
             url: "http://stream.cjam.ca:80/CJAM-live-256k.mp3"
@@ -30794,16 +30619,6 @@ var stations_c2c = {
             name: "99.5 WYCD",
             logo: "stations/images-america/c2c/detroit_mi/99.5 WYCD.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wycdfmaac-imc"
-        },
-        {
-            name: "Wolf Picks 99.5-HD2",
-            logo: "stations/images-america/c2c/detroit_mi/Wolf Picks 99.5-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wycdhd2aac-imc"
-        },
-        {
-            name: "The Crossing 99.5-HD3",
-            logo: "stations/images-america/c2c/detroit_mi/The Crossing 99.5-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wycdhd3aac-imc"
         },
         {
             name: "100.3 WNIC",
@@ -30849,16 +30664,6 @@ var stations_c2c = {
             name: "104.3 WOMC",
             logo: "stations/images-america/c2c/detroit_mi/104.3 WOMC.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-womcfmaac-imc"
-        },
-        {
-            name: "Oldies 104.3-HD2",
-            logo: "stations/images-america/c2c/detroit_mi/Oldies 104.3-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-womchd2aac-imc"
-        },
-        {
-            name: "Music Town 104.3-HD3",
-            logo: "stations/images-america/c2c/detroit_mi/Music Town 104.3-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-womchd3aac-imc"
         },
         {
             name: "105.1 The Bounce",
@@ -31675,11 +31480,6 @@ var stations_c2c = {
             name: "104.1 Jack FM",
             logo: "stations/images-america/c2c/minneapolis_mn/104.1 Jack FM.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-kzjkfmaac-imc"
-        },
-        {
-            name: "Lite FM 104.1-HD2",
-            logo: "stations/images-america/c2c/minneapolis_mn/Lite FM 104.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-kzjkhd2aac-imc"
         },
         {
             name: "Radio K 104.5",
@@ -34696,11 +34496,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wnewfmaac-imc"
         },
         {
-            name: "Smooth Jazz 102.7-HD2",
-            logo: "stations/images-america/c2c/nyc/Smooth Jazz 102.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wnewhd2aac-imc"
-        },
-        {
             name: "KTU 103.5",
             logo: "stations/images-america/c2c/nyc/KTU 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc1473/hls.m3u8"
@@ -36950,16 +36745,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wqalfmaac-imc"
         },
         {
-            name: "Tommorow's Hits Today 104.1-HD2",
-            logo: "stations/images-america/c2c/boston_ma/Tommorow's Hits Today 104.1-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wwbxhd3aac-imc"
-        },
-        {
-            name: "Channel Q 104.1-HD3",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
-        },
-        {
             name: "WCLV 104.9",
             logo: "stations/images-america/c2c/cleveland_oh/WCLV 104.9.png",
             url: "http://audio1.ideastream.org/wclv.mp3"
@@ -38828,16 +38613,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wbebfmaac-imc"
         },
         {
-            name: "Vinyl Tap 101.1-HD2",
-            logo: "stations/images-america/c2c/philadelphia_pa/Vinyl Tap 101.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wbebhd2aac-imc"
-        },
-        {
-            name: "The Bet 101.1-HD3",
-            logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
-        },
-        {
             name: "Q102",
             logo: "stations/images-america/c2c/philadelphia_pa/Q102.png",
             url: "https://stream.revma.ihrhls.com/zc1997/hls.m3u8"
@@ -39165,11 +38940,6 @@ var stations_c2c = {
             name: "100.7 Star",
             logo: "stations/images-america/c2c/pittsburgh_pa/100.7 Star.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wbzzfmaac-imc"
-        },
-        {
-            name: "100.7 WBZZ-HD2",
-            logo: "stations/images-america/c2c/pittsburgh_pa/B94 100.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wbzzhd2aac-imc"
         },
         {
             name: "101.1 WZUM",
@@ -41625,24 +41395,9 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wptefmaac-imc"
         },
         {
-            name: "K94 94.9-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/K94 94.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wptehd2aac-imc"
-        },
-        {
             name: "95.7 R&B",
             logo: "stations/images-america/c2c/norfolk_va/95.7 R&B.png",
             url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wvklfmaac-imc"
-        },
-        {
-            name: "KOOL 95.7-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/KOOL 95.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wvklhd2aac-imc"
-        },
-        {
-            name: "The Bet 95.7-HD3",
-            logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "96X",
@@ -41683,11 +41438,6 @@ var stations_c2c = {
             name: "2WD 101.3",
             logo: "stations/images-america/c2c/norfolk_va/2WD 101.3.png",
             url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wwdefmaac-imc"
-        },
-        {
-            name: "The Vet 101.3-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/The Vet 101.3-HD2.png",
-            url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/manifest/audacy-wwdehd2aac-imc"
         },
         {
             name: "103 JAMZ",
