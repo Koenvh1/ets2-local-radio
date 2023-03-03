@@ -3922,16 +3922,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kvilfmaac-imc"
         },
         {
-            name: "Oasis DFW 103.7-HD2",
-            logo: "stations/images-america/texas/dallas_fort_worth/Oasis DFW 103.7-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kvilhd2aac-imc"
-        },
-        {
-            name: "Channel Q 103.7-HD3",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
-        },
-        {
             name: "K104",
             logo: "stations/images-america/texas/dallas_fort_worth/K104.png",
             url: "https://ais-sa1.streamon.fm/7285_64k.aac"
@@ -8721,6 +8711,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNVFMAAC_SC"
         },
         {
+            name: "KQQY 90.1",
+            logo: "stations/images-america/las_vegas/KQQY 90.1.png",
+            url: "https://stream1.portsonic.net/8002/;"
+        },
+        {
             name: "SOS Radio 90.5",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
             url: "https://ic2.sslstream.com/sosnet.mp3"
@@ -8799,11 +8794,6 @@ var stations = {
             name: "Hot 97.5",
             logo: "stations/images-america/las_vegas/Hot 97.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVEGFMAAC_SC"
-        },
-        {
-            name: "KIOF 97.9",
-            logo: "stations/images-america/las_vegas/KIOF 97.9.png",
-            url: "https://stream1.portsonic.net/8182/;"
         },
         {
             name: "Fiesta 98.1",
@@ -16202,7 +16192,7 @@ var stations = {
         {
             name: "The LIFT 106.3",
             logo: "stations/images-america/glenwood_springs/The LIFT.png",
-            url: "https://ice1.amtstreaming.com:9005/kiftic"
+            url: "https://ais-sa1.streamon.fm/7124_48k.aac"
         },
         {
             name: "55 Country",
@@ -22467,7 +22457,7 @@ var stations_c2c = {
         {
             name: "Revolution 93.5",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "https://streaming.revolution935.com/live"
+            url: "https://everestcast.shoutcastservices.com:2225/stream"
         },/*
         {
             name: "93.7 GYL",
@@ -23244,7 +23234,7 @@ var stations_c2c = {
         {
             name: "Revolution 93.5",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "https://streaming.revolution935.com/live"
+            url: "https://everestcast.shoutcastservices.com:2225/stream"
         },
         {
             name: "93.9 MIA",
@@ -23314,7 +23304,7 @@ var stations_c2c = {
         {
             name: "100.7 WHYI-HD2",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "http://streaming.revolution935.com/live"
+            url: "https://everestcast.shoutcastservices.com:2225//stream"
         },
         {
             name: "Pride Radio 100.7-HD3",
