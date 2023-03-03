@@ -4539,8 +4539,8 @@ var stations = {
             url: "http://stream2.cprnetwork.org:8000/cpr3_lo"
         },
         {
-            name: "Comedy 103.1",
-            logo: "stations/images-america/denver/Comedy 103.1.png",
+            name: "Front Range Country 103.1",
+            logo: "stations/images-america/denver/Front Range Country 103.1.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kqkshd2aac-imc"
         },
         {
@@ -4592,6 +4592,11 @@ var stations = {
             name: "KS 107.5",
             logo: "stations/images-america/denver/KS 107.5.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kqksfmaac-imc"
+        },
+        {
+            name: "107.5 KQKS-HD2",
+            logo: "stations/images-america/denver/Front Range Country 103.1.png",
+            url: "http://185.106.98.26/index.php?u=http://live.amperwave.net/direct/audacy-kqkshd2aac-imc"
         },
         {
             name: "107.9 KBPI",
