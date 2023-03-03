@@ -8393,6 +8393,13 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
         },
     ],
+    "langtry": [
+        {
+            name: "No stations in this area",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: ""
+        },
+    ],
     "laramie": [
         {
             name: "Classical Wyoming 88.5",

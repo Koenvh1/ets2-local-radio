@@ -635,6 +635,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.8
     },
+    "langtry": {
+        name: "Langtry",
+        name_english: "Langtry",
+        code: "us-tx",
+        relative_radius: 0.4
+    },
     "laramie": {
         name: "Laramie",
         name_english: "Laramie",
@@ -1702,6 +1708,9 @@ var city_properties = {
     },
     "lamar": {
         relative_whitenoise: 0.80
+    },
+    "langtry": {
+        relative_whitenoise: 1.00
     },
     "laramie": {
         relative_whitenoise: 0.85
@@ -4047,6 +4056,14 @@ var cities = [
         "x": "-29205.3",
         "y": "178.398",
         "z": "3966.89"
+    },
+    {
+        "gameName": "langtry",
+        "realName": "Langtry",
+        "country": "langtry",
+        "x": "-29560.3",
+        "y": "38.7682",
+        "z": "51154.9"
     },
     {
         "gameName": "missoula",
