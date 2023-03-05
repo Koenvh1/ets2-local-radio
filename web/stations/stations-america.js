@@ -4509,6 +4509,11 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kqmtfmaac-imc"
         },
         {
+            name: "99.5 KQMT-HD2",
+            logo: "stations/images-america/denver/Comedy 103.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kqmthd2aac-imc"
+        },
+        {
             name: "Mix 100",
             logo: "stations/images-america/denver/Mix 100.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIMNFMAAC_SC"
