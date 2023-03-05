@@ -1945,7 +1945,7 @@ var stations = {
         {
             name: "ENERGY Stuttgart",
             logo: "stations/images-europe/germany-bw/Energy.png",
-            url: "https://scdn.nrjaudio.fm/adwz1/de/33005/mp3_128.mp3"
+            url: "https://frontend.streamonkey.net/energy-stuttgart/stream/mp3"
         },
         {
             name: "Radio 7",
@@ -2777,11 +2777,6 @@ var stations = {
             name: "Newstalk",
             logo: "stations/images-europe/ireland/Newstalk.png",
             url: "https://stream.audioxi.com/NT"
-        },
-        {
-            name: "Spirit Radio",
-            logo: "stations/images-europe/ireland/Spirit Radio.png",
-            url: "https://st2.webradioworld.net:2020/stream/SpiritRadio1"
         },
         {
             name: "Today FM",

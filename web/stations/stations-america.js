@@ -19458,11 +19458,6 @@ var stations_mexico = {
             url: "https://stream.zeno.fm/lhvgzgkoofstv"
         },	
         {
-            name: "La Lupe 99.9",
-            logo: "stations/images-america/mexico/gomez_p/La Lupe 99.9.png",
-            url: "https://streaming.multimedios.com/station6"
-        },	
-        {
             name: "Imagen Laguna 100.3",
             logo: "stations/images-america/mexico/gomez_p/Imagen Laguna 100.3.png",
             url: "http://radio.wnsol.com:8068/;stream.mp3"
@@ -19480,7 +19475,7 @@ var stations_mexico = {
         {
             name: "FMTÚ 102.7",
             logo: "stations/images-america/mexico/gomez_p/FMTÚ 102.7.png",
-            url: "https://streaming.multimedios.com/station22"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCAFM_SC"
         },
         {
             name: "Región 103.5",
@@ -21190,7 +21185,7 @@ var stations_c2c = {
         {
             name: "95.9 WTWX",
             logo: "stations/images-america/c2c/huntsville_al/95.9 WTWX.png",
-            url: "https://ice23.securenetsystems.net/WTWX"
+            url: "https://ice42.securenetsystems.net/WTWX"
         },
         {
             name: "Mix 96.9",
@@ -22756,9 +22751,9 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WAJD"
         },
         {
-            name: "Gold 99 FM",
-            logo: "stations/images-america/c2c/gainesville_fl/Gold 99 FM.png",
-            url: "http://stream.broadcastserver.net:9988/;"
+            name: "WHGV 99.5",
+            logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
+            url: "https://ice.zradio.org/h/high.mp3"
         },
         {
             name: "WGOT 100.1",
