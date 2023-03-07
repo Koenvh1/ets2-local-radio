@@ -27232,6 +27232,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wxlpfmaac-ibc3"
         },
         {
+            name: "K-LOVE 98.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "B100",
             logo: "stations/images-america/c2c/davenport_ia/B100.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbeafmaac-ibc3"
@@ -42066,6 +42071,11 @@ var stations_c2c = {
             name: "WOGO 103.1",
             logo: "stations/images-america/c2c/eau_claire_wi/WOGO 103.1.png",
             url: "https://ic1.sslstream.com/wogo-am"
+        },
+        {
+            name: "103.7 WWIB",
+            logo: "stations/images-america/c2c/eau_claire_wi/103.7 WWIB.png",
+            url: "https://ic1.sslstream.com/wwib-fm"
         },
         {
             name: "WAXX 104.5",
