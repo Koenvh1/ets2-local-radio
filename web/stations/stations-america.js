@@ -7559,9 +7559,9 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KXPS"
         },
         {
-            name: "Channel Q 103.1",
-            logo: "stations/images-america/indio/Channel Q 103.1.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            name: "103.1 MeTV FM",
+            logo: "stations/images-america/indio/103.1 MeTV FM.png",
+            url: "http://185.106.98.26/index.php?u=https://ice41.securenetsystems.net/KMEE"
         },
         {
             name: "Fuego 103.5",
