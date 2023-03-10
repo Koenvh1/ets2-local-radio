@@ -4471,7 +4471,7 @@ var stations = {
         {
             name: "96.9 The Cloud",
             logo: "stations/images-america/denver/96.9 The Cloud.png",
-            url: "https://ice10.securenetsystems.net/KKCL"
+            url: "http://185.106.98.26/index.php?u=https://ice10.securenetsystems.net/KKCL"
         },
         {
             name: "97.3 KBCO",
