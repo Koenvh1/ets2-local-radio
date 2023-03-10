@@ -3733,6 +3733,11 @@ var stations = {
             logo: "stations/images-europe/netherlands/Sunlite.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE_AAC_SC"
         },
+        {
+            name: "Tukker FM",
+            logo: "stations/images-europe/netherlands/Tukker FM.png",
+            url: "https://stream.tukkerfm.nl/tukkerfm"
+        },
     ],
     "nireland": [
         {
