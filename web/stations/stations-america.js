@@ -7210,7 +7210,7 @@ var stations = {
         {
             name: "Saigon Radio 900",
             logo: "stations/images-america/texas/houston/Saigon Radio 900.png",
-            url: "https://ice5.securenetsystems.net/KREH"
+            url: "https://stream.zeno.fm/up4wxrwgcvmtv"
         },
         {
             name: "KPRC 950",
@@ -9557,7 +9557,7 @@ var stations = {
         {
             name: "Radio Korea 1540",
 			logo: "stations/images-america/los_angeles/Radio Korea 1540.png",
-			url: "https://onairweb.radiokorea.com/live;stream/1"
+			url: "https://onair.radiokorea.com/"
         },
         {
             name: "KBLA 1580",
@@ -10033,7 +10033,7 @@ var stations = {
         {
             name: "La Caliente 93.1",
             logo: "stations/images-america/texas/mcallen_brownsville/La Caliente 93.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAAAFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHAAAFM_SC"
         },
         {
             name: "Q94.5",
@@ -10815,11 +10815,6 @@ var stations = {
             name: "Mega 100",
             logo: "stations/images-america/modesto/Mega 100.png",
             url: "https://stream.revma.ihrhls.com/zc2926/hls.m3u8"
-        },
-        {
-            name: "Club Jam 100.1-HD2",
-            logo: "stations/images-america/modesto/Club Jam 100.1-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc7023/hls.m3u8"
         },
         {
             name: "La Tricolor 100.9",
@@ -12107,7 +12102,7 @@ var stations = {
         {
             name: "BOOST Radio 103.7",
             logo: "stations/images-america/0_general_logos/Boost Radio.png",
-            url: "https://boost1019-geo.streamguys1.com/boost1019"
+            url: "https://boost1019.streamguys1.com/stlouis/live-aac"
         },
         {
             name: "104.1 The Fish",
@@ -12143,11 +12138,6 @@ var stations = {
             name: "KFBW 105.9-HD2",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "http://wayfm.streamguys1.com/kpwa.aac"
-        },
-        {
-            name: "The Legend 105.9-HD3",
-            logo: "stations/images-america/portland/The Legend 105.9-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc6704/hls.m3u8"
         },
         {
             name: "106.7 The Eagle",
@@ -15338,7 +15328,7 @@ var stations = {
         {
             name: "Saigon Radio 900",
             logo: "stations/images-america/texas/houston/Saigon Radio 900.png",
-            url: "https://ice5.securenetsystems.net/KREH"
+            url: "https://stream.zeno.fm/up4wxrwgcvmtv"
         },
         {
             name: "1200 WOAI",
@@ -15395,7 +15385,7 @@ var stations = {
         {
             name: "91.3 KBCS",
             logo: "stations/images-america/seattle/91.3 KBCS.png",
-            url: "http://www.ophanim.net:7720/stream"
+            url: "https://stream.pacificaservice.org:9000/kbcs"
         },
         {
             name: "MOViN 92.5",
@@ -15475,7 +15465,7 @@ var stations = {
         {
             name: "98.9 KPNW",
             logo: "stations/images-america/seattle/98.9 KPNW.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUCFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPNWFMAAC_SC"
         },
         {
             name: "Tulalip Sportsbook Radio 98.9-HD2",
@@ -17330,7 +17320,7 @@ var stations = {
         {
             name: "99.7 KVUT",
             logo: "stations/images-america/texas/tyler/99.7 KVUT.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3892905_SC"
+            url: "http://kvut.streamguys1.com/live"
         },
         {
             name: "KERA 100.1",
@@ -22323,11 +22313,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc429/hls.m3u8"
         },
         {
-            name: "Club Jam EDM 105.9-HD2",
-            logo: "stations/images-america/c2c/hartford_ct/Club Jam EDM 105.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc7100/hls.m3u8"
-        },
-        {
             name: "Viva! 107.3",
             logo: "stations/images-america/c2c/hartford_ct/Viva! 107.3.png",
             url: "https://ice66.securenetsystems.net/WRYM"
@@ -22484,7 +22469,7 @@ var stations_c2c = {
         {
             name: "Oldies 95.3",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 95.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWNNAMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRK_HD3AAC_SC"
         },
         {
             name: "WiLD 95.5",
@@ -23511,11 +23496,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc485/hls.m3u8"
         },
         {
-            name: "Club Jam Classic Hip Hop 105.5-HD2",
-            logo: "stations/images-america/0_general_logos/Club Jam Classic Hip Hop.png",
-            url: "https://stream.revma.ihrhls.com/zc7206/hls.m3u8"
-        },
-        {
             name: "Sunny 106.3",
             logo: "stations/images-america/c2c/naples_fl/Sunny 106.3.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJPTFMAAC_SC"
@@ -24377,7 +24357,7 @@ var stations_c2c = {
         {
             name: "Retro FM 102.1",
             logo: "stations/images-america/c2c/albany_ga/Retro FM 102.1.png",
-            url: "http://s1.autopo.st:8170/stream"
+            url: "https://fwd.autopo.st/streamfailover/JetStream1021Albany"
         },
         {
             name: "Rock 103",
@@ -35026,11 +35006,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1513/hls.m3u8"
         },
         {
-            name: "Club Jam Dance 106.7-HD2",
-            logo: "stations/images-america/c2c/rochester_ny/Club Jam Dance 106.7-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc7089/hls.m3u8"
-        },
-        {
             name: "BIG 107.3",
             logo: "stations/images-america/c2c/rochester_ny/BIG 107.3.png",
             url: "https://stream.revma.ihrhls.com/zc5323/hls.m3u8"
@@ -41535,11 +41510,6 @@ var stations_c2c = {
             name: "103 JAMZ",
             logo: "stations/images-america/c2c/norfolk_va/103 JAMZ.png",
             url: "https://stream.revma.ihrhls.com/zc2453/hls.m3u8"
-        },
-        {
-            name: "Club Jam Hip Hop 102.9-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/Club Jam Hip Hop 102.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc7205/hls.m3u8"
         },
         {
             name: "La Selecta 103.3",
