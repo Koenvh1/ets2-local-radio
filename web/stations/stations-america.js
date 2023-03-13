@@ -9,22 +9,17 @@ var stations = {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },/*
-        {
-            name: "KGHI 91.1",
-            logo: "stations/images-america/aberdeen/KGHI 91.1.png",
-            url: "http://173.193.205.96:7341/stream"
-        },*/
+        },
         {
             name: "K221BG 92.1",
             logo: "stations/images-america/seattle/Spirit 105.3.png",
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
-        },
+        },/*
         {
             name: "Timber Country 94.7",
             logo: "stations/images-america/aberdeen/Timber Country 94.7.png",
             url: "https://us2.streamingpulse.com/ssl/KBKW"
-        },
+        },*/
         {
             name: "KIX 95.3",
             logo: "stations/images-america/aberdeen/KIX 95.3.png",
@@ -59,22 +54,22 @@ var stations = {
             name: "KXRO 101.7",
             logo: "stations/images-america/aberdeen/KXRO 101.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kxroamaac-ibc4"
-        },
+        },/*
         {
             name: "Sunny 102.1",
             logo: "stations/images-america/aberdeen/Sunny 102.1.png",
             url: "http://us2.maindigitalstream.com/ssl/KSWW"
-        },
+        },*/
         {
             name: "104.7 KDUX",
             logo: "stations/images-america/aberdeen/104.7 KDUX.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kduxfmaac-ibc4"
-        },
+        },/*
         {
             name: "Y107.3",
             logo: "stations/images-america/aberdeen/Y107.3.png",
             url: "https://us2.streamingpulse.com/ssl/KJET"
-        },
+        },*/
         {
             name: "1490 KWOK",
             logo: "stations/images-america/aberdeen/1490 KWOK.png",
@@ -2498,12 +2493,12 @@ var stations = {
             name: "107.7 Dave FM",
             logo: "stations/images-america/butte/107.7 Dave FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmtzfmaac-ibc3"
-        },/*
+        },
         {
             name: "1310 KEIN",
             logo: "stations/images-america/butte/1310 KEIN.png",
-            url: "https://1310am.ml:8000/kein"
-        },*/
+            url: "https://stream.1310kein.ml:1310/stream"
+        },
     ],
     "carlsbad_nm": [
         {
