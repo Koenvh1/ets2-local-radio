@@ -1502,6 +1502,11 @@ var stations = {
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
+            name: "92.5 The Ticket",
+            logo: "stations/images-america/bend/92.5 The Ticket.png",
+            url: "https://live.wostreaming.net/manifest/horizonbroadcasting-krcoamaac-ibc1"
+        },
+        {
             name: "92.9 FM",
             logo: "stations/images-america/bend/92.9 FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXFFM_SC"
@@ -1520,11 +1525,6 @@ var stations = {
             name: "95.7 The Ranch",
             logo: "stations/images-america/bend/95.7 The Ranch.png",
             url: "https://live.wostreaming.net/direct/horizonbroadcasting-kltwfmaac-ibc1"
-        },
-        {
-            name: "96.9 The Ticket",
-            logo: "stations/images-america/bend/96.9 The Ticket.png",
-            url: "https://live.wostreaming.net/manifest/horizonbroadcasting-krcoamaac-ibc1"
         },
         {
             name: "98.3 The Twins",
@@ -1575,6 +1575,11 @@ var stations = {
             name: "107.7 The Beat",
             logo: "stations/images-america/bend/107.7 The Beat.png",
             url: "https://ice5.securenetsystems.net/KWXS"
+        },
+        {
+            name: "KRCO 690",
+            logo: "stations/images-america/bend/92.5 The Ticket.png",
+            url: "https://live.wostreaming.net/direct/horizonbroadcasting-krcoamaac-ibc1"
         },
     ],
     "beaumont": [
