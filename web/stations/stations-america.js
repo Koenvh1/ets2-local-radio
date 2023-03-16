@@ -9420,11 +9420,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc185/hls.m3u8"
         },
         {
-            name: "Evolution 102.7-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
-        },
-        {
             name: "KOST 103.5",
             logo: "stations/images-america/los_angeles/KOST 103.5.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
@@ -11757,11 +11752,6 @@ var stations = {
             name: "104.7 KISS FM",
             logo: "stations/images-america/phoenix/104.7 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc61/hls.m3u8"
-        },
-        {
-            name: "Evolution 104.7-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
             name: "Money Radio 105.3",
@@ -15546,11 +15536,6 @@ var stations = {
             name: "HITS 106.1",
             logo: "stations/images-america/seattle/HITS 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
-        },
-        {
-            name: "Evolution 106.1-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
             name: "Warm 106.9",
@@ -25846,11 +25831,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc841/hls.m3u8"
         },
         {
-            name: "Evolution 107.5-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
-        },
-        {
             name: "La Ley 107.9",
             logo: "stations/images-america/c2c/chicago_il/La Ley 107.9.png",
             url: "https://liveaudio.lamusica.com/CHI_WLEY_icy"
@@ -28094,11 +28074,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc953/hls.m3u8"
         },
         {
-            name: "Evolution 96.3-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
-        },
-        {
             name: "KFH Radio 97.5",
             logo: "stations/images-america/c2c/wichita_ks/KFH Radio 1240.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kfhfmaac-imc"
@@ -28565,11 +28540,6 @@ var stations_c2c = {
             name: "98.9 KISS FM",
             logo: "stations/images-america/c2c/louisville_ky/98.9 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc3387/hls.m3u8"
-        },
-        {
-            name: "Evolution 98.9-HD2",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
         },
         {
             name: "99.7 DJX",
@@ -37992,7 +37962,12 @@ var stations_c2c = {
             name: "KJAMZ 105.3",
             logo: "stations/images-america/c2c/tulsa_ok/KJAMZ 105.3.png",
             url: "http://crystalin.surfernetwork.com:8000/KJMM_MP3"
-        },
+        },/*
+        {
+            name: "Groovy 105.7",
+            logo: "stations/images-america/c2c/tulsa_ok/Groovy 105.7.png",
+            url: "WIP"
+        },*/
         {
             name: "106.1 The Twister",
             logo: "stations/images-america/c2c/tulsa_ok/106.1 The Twister.png",
