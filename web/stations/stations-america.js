@@ -24355,8 +24355,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKAKFMAAC_SC"
         },
         {
-            name: "Mix 107",
-            logo: "stations/images-america/c2c/albany_ga/Mix 107.png",
+            name: "107.7 NOW FM",
+            logo: "stations/images-america/c2c/albany_ga/107.7 NOW FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEGCFMAAC_SC"
         },
         {
@@ -43978,8 +43978,8 @@ var stations_canada = {
             url: "http://audio.cfrc.ca:8000/;"
         },
         {
-            name: "102.7 The Pole",
-            logo: "stations/images-america/canada/kingston/102.7 The Pole.png",
+            name: "102.7 Lake FM",
+            logo: "stations/images-america/canada/kingston/102.7 Lake FM.png",
             url: "https://ice64.securenetsystems.net/WLYK"
         },
         {
