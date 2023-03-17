@@ -1843,12 +1843,12 @@ var stations = {
             name: "98.1 KBEAR",
             logo: "stations/images-america/billings/98.1 KBEAR.png",
             url: "http://desertmountainbroadcasting.streamguys1.com/KYYA"
-        },/*
+        },
         {
             name: "98.5 The Wolf",
             logo: "stations/images-america/billings/98.5 The Wolf.png",
-            url: "http://benedettimedia.com:8000/KEWFFM"
-        },*/
+            url: "https://securestream.casthost.net:8297/stream"
+        },
         {
             name: "FM 99 The Mountain",
             logo: "stations/images-america/billings/FM 99 The Mountain.png",
@@ -1857,7 +1857,7 @@ var stations = {
         {
             name: "HOT 101.9",
             logo: "stations/images-america/billings/Hot 101.9.png",
-            url: "https://securestream.casthost.net:8269/stream"
+            url: "http://cad.casthost.ca:8024/stream"
         },
         {
             name: "Cat Country 102.9",
