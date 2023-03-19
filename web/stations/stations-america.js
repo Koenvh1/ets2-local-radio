@@ -8531,7 +8531,7 @@ var stations = {
         {
             name: "exa 95.7",
             logo: "stations/images-america/texas/laredo/exa 95.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXAAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC"
         },	
         {
             name: "Radio Fórmula 96.1",
@@ -8703,9 +8703,9 @@ var stations = {
     ],
     "las_vegas": [
         {
-            name: "Area 87.7",
-            logo: "stations/images-america/las_vegas/Area 87.7.png",
-            url: "https://ice10.securenetsystems.net/KNNN"
+            name: "ACiD 87.7",
+            logo: "stations/images-america/las_vegas/ACiD 87.7.png",
+            url: "https://transmitter.clubcasting.net:8010/proc"
         },
         {
             name: "Power 88",
@@ -14681,16 +14681,6 @@ var stations = {
             name: "ALT 94.9",
             logo: "stations/images-america/san_diego/ALT 94.9.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kbztfmaac-imc"
-        },
-        {
-            name: "Bob Radio 94.9-HD2",
-            logo: "stations/images-america/san_diego/Bob Radio 94.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kbzthd2aac-imc"
-        },
-        {
-            name: "Comedy Now 94.9-HD3",
-            logo: "stations/images-america/san_diego/Comedy Now 94.9-HD3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-comedynowaac-imc"
         },
         {
             name: "La Lupe 95.3",
@@ -29233,11 +29223,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wwwlamaac-imc"
         },
         {
-            name: "HOT 92.9-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/HOT 92.9-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wlmghd2aac-imc"
-        },
-        {
             name: "Q93",
             logo: "stations/images-america/c2c/new_orleans_la/Q93.png",
             url: "https://stream.revma.ihrhls.com/zc1037/hls.m3u8"
@@ -37962,12 +37947,12 @@ var stations_c2c = {
             name: "KJAMZ 105.3",
             logo: "stations/images-america/c2c/tulsa_ok/KJAMZ 105.3.png",
             url: "http://crystalin.surfernetwork.com:8000/KJMM_MP3"
-        },/*
+        },
         {
             name: "Groovy 105.7",
             logo: "stations/images-america/c2c/tulsa_ok/Groovy 105.7.png",
-            url: "WIP"
-        },*/
+            url: "https://ice26.securenetsystems.net/GROOVY"
+        },
         {
             name: "106.1 The Twister",
             logo: "stations/images-america/c2c/tulsa_ok/106.1 The Twister.png",
