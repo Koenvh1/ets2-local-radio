@@ -3026,7 +3026,7 @@ var stations = {
         {
             name: "Dala FM",
             logo: "stations/images-europe/kazakhstan/Dala FM.png",
-            url: "http://178.88.167.42:8080/DALA_320"
+            url: "https://www.liveradio.es/http://178.88.167.62:8080/DALA_320"
         },
         {
             name: "Европа Плюс Казахстан",

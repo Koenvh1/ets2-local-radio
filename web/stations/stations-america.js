@@ -11403,6 +11403,78 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KTNN"
         },
     ],
+    "palacios": [
+        {
+            name: "Radio Aleluya 88.1",
+            logo: "stations/images-america/0_general_logos/Radio Aleluya.png",
+            url: "https://radio.aleluya.cloud/radio/8030/radioaleluya840am"
+        },
+        {
+            name: "Vida Unida 89.5",
+            logo: "stations/images-america/texas/houston/Vida Unida 91.7.png",
+            url: "https://ksbj.streamguys1.com/vida/vidaunida.aac"
+        },
+        {
+            name: "KPAL 91.3",
+            logo: "stations/images-america/texas/huntsville/91.1 The Boss.png",
+            url: "http://ic.streann.com:8000/lajefahouston"
+        }, 
+        {
+            name: "KHPO 91.9",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
+            name: "Happy Radio 92.5",
+            logo: "stations/images-america/texas/palacios/Happy Radio 92.5.png",
+            url: "https://crystalout.surfernetwork.com:8001/KKHA-FM_MP3"
+        },
+        {
+            name: "96 Country",
+            logo: "stations/images-america/texas/palacios/96 Country.png",
+            url: "https://crystalout.surfernetwork.com:8001/KIOX-FM_MP3"
+        },
+        {
+            name: "KXBJ 96.9",
+            logo: "stations/images-america/texas/houston/89.3 KSBJ.png",
+            url: "https://ksbj-live.streamguys1.com/ksbj/ksbj.aac"
+        },
+        {
+            name: "La Raza 101.7",
+            logo: "stations/images-america/texas/houston/La Raza 98.5.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTJMFMAAC_SC"
+        },
+        {
+            name: "K-Bay 102.5",
+            logo: "stations/images-america/texas/victoria/K-Bay 102.5.png",
+            url: "https://crystalout.surfernetwork.com:8001/KBBB-FM_MP3"
+        },
+        {
+            name: "Radio Amistad 105.1",
+            logo: "stations/images-america/texas/houston/Radio Amistad.png",
+            url: "https://khcb.streamguys1.com/spanish-128k-mp3"
+        },
+        {
+            name: "KIXS FM 108",
+            logo: "stations/images-america/texas/victoria/KIXS FM 108.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kixsfmaac-ibc3"
+        },
+        {
+            name: "Sports Radio 610",
+            logo: "stations/images-america/texas/houston/Sports Radio 610.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
+        },
+        {
+            name: "740 KTRH",
+            logo: "stations/images-america/texas/houston/740 KTRH.png",
+            url: "https://stream.revma.ihrhls.com/zc2285/hls.m3u8"
+        },
+        {
+            name: "KCTA AM 1030",
+            logo: "stations/images-america/texas/corpus_christi/KCTA AM 1030.png",
+            url: "https://ais-sa1.streamon.fm/7170_24k.aac"
+        },
+    ],
     "paris": [
         {
             name: "Effect Radio 88.1",
@@ -31259,11 +31331,6 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/bemidji_mn/Talk Radio 106.3.png",
             url: "http://kkbjam.com:8001/kkbjam.mp3"
         },
-        {
-            name: "NOAA Weather Radio Bemidji",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://radio.weatherusa.net/NWR/WXM99_2.mp3"
-        },
     ],
     "duluth": [
         {
@@ -33922,7 +33989,7 @@ var stations_c2c = {
         {
             name: "FLY 92.3",
             logo: "stations/images-america/c2c/albany_ny/FLY 92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFLYFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/7817_128k.aac"
         },
         {
             name: "K94.1",
@@ -34833,7 +34900,7 @@ var stations_c2c = {
         {
             name: "89.7 WITR",
             logo: "stations/images-america/c2c/rochester_ny/89.7 WITR.png",
-            url: "https://streaming.witr.rit.edu/witr-mp3-192"
+            url: "https://streaming.witr.rit.edu/live-aac-96"
         },
         {
             name: "Jazz 90.1",
@@ -34984,11 +35051,6 @@ var stations_c2c = {
             name: "FOX Sports 1280",
             logo: "stations/images-america/c2c/rochester_ny/Fox Sports 1280.png",
             url: "https://stream.revma.ihrhls.com/zc1509/hls.m3u8"
-        },
-        {
-            name: "NOAA Weather Radio Rochester",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://radio.weatherusa.net/NWR/KHA53.mp3"
         },
     ],
     "syracuse": [
@@ -35501,8 +35563,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGUFMAAC_SC"
         },
         {
-            name: "107.7 Jamz",
-            logo: "stations/images-america/c2c/fayetteville_nc/107.7 Jamz.png",
+            name: "107.7 The Bounce",
+            logo: "stations/images-america/c2c/fayetteville_nc/107.7 The Bounce.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WUKSFMAACHI_SC"
         },
         {
@@ -36084,11 +36146,6 @@ var stations_c2c = {
             name: "Super Talk 1270",
             logo: "stations/images-america/c2c/bismarck_nd/Super Talk 1270.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klxxamaac-ibc3"
-        },
-        {
-            name: "NOAA Weather Radio Bismarck",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://wxradio.org/ND-Bismarck-WLX78"
         },
     ],
     "dickinson_nd": [
@@ -37998,11 +38055,6 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/tulsa_ok/1430 The Buzz.png",
             url: "https://stream.revma.ihrhls.com/zc1941/hls.m3u8"
         },
-        {
-            name: "NOAA Weather Radio Tulsa",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://wxradio.org/OK-Tulsa-KIH27"
-        },
     ],
     "woodward_ok": [
         {
@@ -38492,7 +38544,7 @@ var stations_c2c = {
         {
             name: "89.1 The Roar",
             logo: "stations/images-america/c2c/philadelphia_pa/89.1 The Roar.png",
-            url: "https://securestream.casthost.net:8159/stream.ogg"
+            url: "https://securestream.casthost.net:8159/stream"
         },
         {
             name: "Air1 89.5",
@@ -41432,8 +41484,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WROXFMAAC_SC"
         },
         {
-            name: "Lucy 96.5",
-            logo: "stations/images-america/c2c/norfolk_va/Lucy 96.5.png",
+            name: "The Coast 96.5",
+            logo: "stations/images-america/c2c/norfolk_va/The Coast 96.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTARAMAAC_SC"
         },
         {

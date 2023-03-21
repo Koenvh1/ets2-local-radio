@@ -851,6 +851,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.7
     },
+    "palacios": {
+        name: "Palacios",
+        name_english: "Palacios",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "palm_springs": {
         name: "Palm Springs",
         name_english: "Palm Springs",
@@ -1827,6 +1833,9 @@ var city_properties = {
     },
     "page": {
         relative_whitenoise: 0.85
+    },
+    "palacios": {
+        relative_whitenoise: 0.95
     },
     "palm_springs": {
 		relative_radius: 0.5,
@@ -2880,6 +2889,14 @@ var cities = [
         "x": "-69181.3",
         "y": "124.344",
         "z": "5521.9"
+    },
+    {
+        "gameName": "palacios",
+        "realName": "Palacios",
+        "country": "palacios",
+        "x": "-511.372",
+        "y": "38.5048",
+        "z": "58588.3"
     },
     {
         "gameName": "palm_springs",
