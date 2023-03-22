@@ -23114,7 +23114,7 @@ var stations_c2c = {
         {
             name: "Pirate Radio 101.7",
             logo: "stations/images-america/c2c/key_west_fl/Pirate Radio 101.7.png",
-            url: "https://ice6.securenetsystems.net/WKYZ"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U2LnNlY3VyZW5ldHN5c3RlbXMubmV0L1dLWVo="
         },*/
         {
             name: "Sun 103.1",
@@ -33155,12 +33155,7 @@ var stations_c2c = {
             name: "Y98",
             logo: "stations/images-america/c2c/stlouis_mo/Y98.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-kykyfmaac-imc"
-        },/*
-        {
-            name: "The River 98.1-HD2",
-            logo: "stations/images-america/c2c/stlouis_mo/The River 98.1-HD2.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-kykyhd2aac-imc"
-        },*/
+        },
         {
             name: "Channel Q 98.1-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
