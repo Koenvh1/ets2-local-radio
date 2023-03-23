@@ -751,11 +751,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2.mp3"
         },
         {
-            name: "Radio Amigo 106.1",
-            logo: "stations/images-america/texas/amarillo/Radio Amigo 106.1.png",
-            url: "https://sonic01.instainternet.com/8376/stream"
-        },
-        {
             name: "107.1 Nash Icon",
             logo: "stations/images-america/texas/amarillo/107.1 NASH Icon.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KARXFMAAC_SC"
@@ -13241,11 +13236,6 @@ var stations = {
             url: "http://shout2.brnstream.com:8006/stream"
         },
         {
-            name: "Radio Amigo 102.5",
-            logo: "stations/images-america/roswell/Radio Amigo 102.5.png",
-            url: "https://sonic01.instainternet.com/8376/stream"
-        },
-        {
             name: "103.1 KHFM",
             logo: "stations/images-america/roswell/95.5 KHFM.png",
             url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
@@ -18388,11 +18378,6 @@ var stations = {
             name: "La Ley 100.5",
             logo: "stations/images-america/texas/laredo/La Ley 100.5.png",
             url: "https://live.wostreaming.net/manifest/rcomm-kbdrfmaac-imc4/?source=v7player"
-        },
-        {
-            name: "Radio Amigo 102.7",
-            logo: "stations/images-america/texas/zapata/Radio Amigo 102.7.png",
-            url: "https://sonic01.instainternet.com/8376/stream"
         },
         {
             name: "XEK-AM 960",
@@ -39625,7 +39610,7 @@ var stations_c2c = {
         {
             name: "96.1 WKZQ",
             logo: "stations/images-america/c2c/myrtlebeach_sc/96.1 WKZQ.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKZQFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wkzq-fm.aac"
         },
         {
             name: "96.9 The Wolf",
@@ -39660,7 +39645,7 @@ var stations_c2c = {
         {
             name: "Wave 104.1",
             logo: "stations/images-america/c2c/myrtlebeach_sc/Wave 104.1.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYAVFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wyav-fm.aac"
         },
         {
             name: "Nash FM 106.5",
@@ -39824,7 +39809,7 @@ var stations_c2c = {
         {
             name: "Energy 92.1",
             logo: "stations/images-america/c2c/myrtlebeach_sc/Energy 92.1.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYBFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wmyb-fm.aac"
         },
         {
             name: "Eagle 92.9",
@@ -39849,7 +39834,7 @@ var stations_c2c = {
         {
             name: "96.1 WKZQ",
             logo: "stations/images-america/c2c/myrtlebeach_sc/96.1 WKZQ.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKZQFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wkzq-fm.aac"
         },
         {
             name: "Mix 97.7",
@@ -39869,7 +39854,7 @@ var stations_c2c = {
         {
             name: "WRNN 99.5",
             logo: "stations/images-america/c2c/myrtlebeach_sc/WRNN 99.5.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRNNFMAAC_SC"
+            url: "ttps://dbc.streamguys1.com/wrnn-fm.aac"
         },
         {
             name: "100.3 The Team",
@@ -39889,7 +39874,7 @@ var stations_c2c = {
         {
             name: "Wave 104.1",
             logo: "stations/images-america/c2c/myrtlebeach_sc/Wave 104.1.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYAVFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wyav-fm.aac"
         },
         {
             name: "104.9 BOB FM",
@@ -39899,7 +39884,7 @@ var stations_c2c = {
         {
             name: "105.5 Hank FM",
             logo: "stations/images-america/c2c/myrtlebeach_sc/105.5 Hank FM.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWHKFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wwhk-fm.aac"
         },
         {
             name: "Easy 105.9",
