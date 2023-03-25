@@ -41357,6 +41357,11 @@ var stations_c2c = {
             url: "http://media.wmra.org:8000/wemc"
         },
         {
+            name: "WSVA 92.1",
+            logo: "stations/images-america/c2c/harrisonburg_va/WSVA.png",
+            url: "http://185.106.98.26/index.php?u=http://live.wostreaming.net/manifest/saga-wsvaamaac-ibc2"
+        },
+        {
             name: "Mix 93.1",
             logo: "stations/images-america/c2c/harrisonburg_va/Mix 93.1.png",
             url: "https://stream.revma.ihrhls.com/zc2437/hls.m3u8"
@@ -41372,9 +41377,44 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_SC"
         },
         {
+            name: "more 96.1",
+            logo: "stations/images-america/c2c/harrisonburg_va/more 96.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wmqrfmaac-ibc2"
+        },
+        {
+            name: "96.9 WSIG",
+            logo: "stations/images-america/c2c/harrisonburg_va/96.9 WSIG.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wsigfmaac-ibc2"
+        },
+        {
             name: "98 Rock",
             logo: "stations/images-america/c2c/harrisonburg_va/98 Rock.png",
             url: "https://stream.revma.ihrhls.com/zc3320/hls.m3u8"
+        },
+        {
+            name: "99.7 CYK",
+            logo: "stations/images-america/c2c/harrisonburg_va/99.7 CYK.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCYKFMAAC_SC"
+        },
+        {
+            name: "Q101",
+            logo: "stations/images-america/c2c/harrisonburg_va/Q101.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wqpofmaac-ibc2"
+        },
+        {
+            name: "WBTX 102.1",
+            logo: "stations/images-america/c2c/harrisonburg_va/WBTX.png",
+            url: "https://ice8.securenetsystems.net/WBTX"
+        },
+        {
+            name: "K-LOVE 102.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "BBN 103.9",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
         },
         {
             name: "104.3 KCY",
@@ -41382,9 +41422,29 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3324/hls.m3u8"
         },
         {
+            name: "Rewind 105.1",
+            logo: "stations/images-america/c2c/harrisonburg_va/Rewind 105.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wwrefmaac-ibc2"
+        },
+        {
             name: "WKCY 107.9",
             logo: "stations/images-america/c2c/harrisonburg_va/WKCY 107.9.png",
             url: "https://stream.revma.ihrhls.com/zc4176/hls.m3u8"
+        },
+        {
+            name: "WSVA 550",
+            logo: "stations/images-america/c2c/harrisonburg_va/WSVA.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wsvaamaac-ibc2"
+        },
+        {
+            name: "WKCY 1300",
+            logo: "stations/images-america/c2c/harrisonburg_va/WKCY 107.9.png",
+            url: "http://stream.revma.ihrhls.com/zc4176/hls.m3u8"
+        },
+        {
+            name: "WBTX 1470",
+            logo: "stations/images-america/c2c/harrisonburg_va/WBTX.png",
+            url: "http://ice8.securenetsystems.net/WBTX"
         },
     ],
     "norfolk": [
