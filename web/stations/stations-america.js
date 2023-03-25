@@ -5178,8 +5178,8 @@ var stations = {
             url: "http://www.streamvortex.com:11150/stream"
         },
         {
-            name: "KOOL 99.1",
-            logo: "stations/images-america/eugene/KOOL 99.1.png",
+            name: "99.1 The Beat",
+            logo: "stations/images-america/eugene/99.1 The Beat.png",
             url: "https://us9.maindigitalstream.com/ssl/KODZ"
         },
         {
