@@ -774,7 +774,7 @@ var stations = {
         {
             name: "HR 3",
             logo: "stations/images-europe/croatia/HR 3.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3_SC"
         },
         {
             name: "Hrvatski Katolički Radio",
@@ -4718,11 +4718,6 @@ var stations = {
             name: "Éxito Radio",
             logo: "stations/images-europe/spain/Éxito Radio.png",
             url: "https://eu1.lhdserver.es:8009/stream"
-        },
-        {
-            name: "Flow Radio",
-            logo: "stations/images-europe/spain/Flow Radio.png",
-            url: "http://37.187.76.127:8010/flow"
         },
         {
             name: "KISS FM",
