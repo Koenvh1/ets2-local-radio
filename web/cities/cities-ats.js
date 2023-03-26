@@ -10398,7 +10398,7 @@ var country_properties_canada = {
         name: "Fort Frances",
         name_english: "Fort Frances",
         code: "ca-on",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "fortmcmurray": {
         name: "Fort McMurray",
@@ -10494,6 +10494,12 @@ var country_properties_canada = {
         name: "Kelowna",
         name_english: "Kelowna",
         code: "ca-bc",
+        relative_radius: 0.6
+    },
+    "kenora": {
+        name: "Kenora",
+        name_english: "Kenora",
+        code: "ca-on",
         relative_radius: 0.6
     },
     "kindersley": {
@@ -10912,6 +10918,9 @@ var city_properties_canada = {
     "kelowna": {
         relative_whitenoise: 0.85
     },
+    "kenora": {
+        relative_whitenoise: 0.95
+    },
     "kindersley": {
         relative_whitenoise: 0.95
     },
@@ -11155,9 +11164,9 @@ var cities_canada = [
         "gameName": "dryden",
         "realName": "Dryden",
         "country": "dryden",
-        "x": "12291.8",
-        "y": "89.3789",
-        "z": "-63082.2"
+        "x": "13957.7",
+        "y": "18.1403",
+        "z": "-60448.3"
     },
     {
         "gameName": "edmonton",
@@ -11171,9 +11180,9 @@ var cities_canada = [
         "gameName": "fortfrances",
         "realName": "Fort Frances",
         "country": "fortfrances",
-        "x": "9220.64",
-        "y": "89.3789",
-        "z": "-55796.3"
+        "x": "9579.86",
+        "y": "70.0039",
+        "z": "-55181.6"
     },
     {
         "gameName": "fortmcmurray",
@@ -11310,6 +11319,14 @@ var cities_canada = [
         "x": "-85262.3",
         "y": "48.5546",
         "z": "-72796.7"
+    },
+    {
+        "gameName": "kenora",
+        "realName": "Kenora",
+        "country": "kenora",
+        "x": "5352.33",
+        "y": "20.5262",
+        "z": "-61309.7"
     },
     {
         "gameName": "kindersley",
