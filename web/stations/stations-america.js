@@ -43360,6 +43360,11 @@ var stations_canada = {
             url: "https://nis.stream.publicradio.org/nis.aac"
         },
         {
+            name: "The Current 88.3-HD2",
+            logo: "stations/images-america/0_general_logos/The Current.png",
+            url: "https://current.stream.publicradio.org/kcmp.mp3"
+        },
+        {
             name: "ICI Première 89.1",
             logo: "stations/images-america/canada/ICI Première.png",
             url: "https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/playlist.m3u8"
@@ -43375,9 +43380,24 @@ var stations_canada = {
             url: "https://ais-sa1.streamon.fm/7235_128k.aac"
         },
         {
+            name: "Oldies 95.3",
+            logo: "stations/images-america/canada/fortfrances/KGHS.png",
+            url: "https://ice23.securenetsystems.net/KGHS"
+        },
+        {
             name: "PsalmFM 99.5",
             logo: "stations/images-america/canada/fortfrances/PsalmFM 99.5.png",
             url: "https://ic2.christiannetcast.com/kbhw-fm"
+        },
+        {
+            name: "K-104 Country",
+            logo: "stations/images-america/canada/fortfrances/K-104 Country.png",
+            url: "https://ice23.securenetsystems.net/KSDM"
+        },
+        {
+            name: "KGHS 1230",
+            logo: "stations/images-america/canada/fortfrances/KGHS.png",
+            url: "http://ice23.securenetsystems.net/KGHS"
         },
     ],
     "fortmcmurray": [
