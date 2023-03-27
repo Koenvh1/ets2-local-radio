@@ -41848,9 +41848,9 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-q99aac-imc1"
         },
         {
-            name: "ESPN 99.5",
-            logo: "stations/images-america/c2c/roanoke_va/ESPN 99.5.png",
-            url: "https://ice7.securenetsystems.net/WGMN"
+            name: "WGMN 99.5",
+            logo: "stations/images-america/c2c/roanoke_va/WGMN 1240.png",
+            url: "http://ice7.securenetsystems.net/WGMN"
         },
         {
             name: "B99.9",
