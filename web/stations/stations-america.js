@@ -37956,8 +37956,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1925/hls.m3u8"
         },
         {
-            name: "Jam Bands Radio 101.5-HD2",
-            logo: "stations/images-america/c2c/tulsa_ok/Jam Bands Radio 101.5-HD2.png",
+            name: "Jam Band Radio 101.5-HD2",
+            logo: "stations/images-america/c2c/tulsa_ok/Jam Band Radio 101.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc7278/hls.m3u8"
         },
         {
@@ -41835,7 +41835,7 @@ var stations_c2c = {
         {
             name: "The Vibe 97.7",
             logo: "stations/images-america/c2c/roanoke_va/The Vibe 97.7.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-wvbefmaac-imc1"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/wheelerbroadcasting-wvbefmaac-imc4"
         },
         {
             name: "Classic Country 98.1",
