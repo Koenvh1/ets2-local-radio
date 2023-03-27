@@ -41778,7 +41778,17 @@ var stations_c2c = {
     ],
     "roanoke_va": [
         {
-            name: "WVTF Music 89.1",
+            name: "CSN Radio 88.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Radio IQ 89.1",
+            logo: "stations/images-america/0_general_logos/Radio IQ.png",
+            url: "http://wvtf-ice.streamguys1.com/radioiq-aac-128"
+        },
+        {
+            name: "WVTF Music 89.5",
             logo: "stations/images-america/c2c/roanoke_va/WVTF Music 89.1.png",
             url: "http://wvtf-ice.streamguys1.com/wvtfmusic-aac-128"
         },
@@ -41796,6 +41806,11 @@ var stations_c2c = {
             name: "Rhythm & Praise 94.1",
             logo: "stations/images-america/c2c/roanoke_va/Rhythm & Praise 94.1.png",
             url: "https://ice24.securenetsystems.net/GOSPH"
+        },
+        {
+            name: "WFIR 94.5",
+            logo: "stations/images-america/c2c/roanoke_va/WFIR.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-wfiramaac-imc1"
         },
         {
             name: "94.9 Star Country",
@@ -41818,6 +41833,16 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-wxlkhd2aac-imc4"
         },
         {
+            name: "The Vibe 97.7",
+            logo: "stations/images-america/c2c/roanoke_va/The Vibe 97.7.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-wvbefmaac-imc1"
+        },
+        {
+            name: "Classic Country 98.1",
+            logo: "stations/images-america/c2c/roanoke_va/Classic Country 98.1.png",
+            url: "https://live.wostreaming.net/manifest/blueridgeradio-wbrffmaac-ibc4"
+        },
+        {
             name: "Q99",
             logo: "stations/images-america/c2c/roanoke_va/Q99.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-q99aac-imc1"
@@ -41828,14 +41853,19 @@ var stations_c2c = {
             url: "https://ice7.securenetsystems.net/WGMN"
         },
         {
-            name: "WRKE 100.3",
-            logo: "stations/images-america/c2c/roanoke_va/WRKE 100.3.png",
-            url: "https://cp4.shoutcheap.com:18076/stream/;stream/1"
+            name: "B99.9",
+            logo: "stations/images-america/c2c/roanoke_va/B99.9.png",
+            url: "https://live.wostreaming.net/manifest/turner-wzbbfmaac-imc1"
         },
         {
-            name: "HOT 100",
-            logo: "stations/images-america/c2c/roanoke_va/HOT 100.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVHKFMAAC_SC"
+            name: "WRKE 100.3",
+            logo: "stations/images-america/c2c/roanoke_va/WRKE 100.3.png",
+            url: "https://cp4.shoutcheap.com:18076/stream/;stream/1" 
+        },
+        {
+            name: "WPLY Sports Radio 101.1",
+            logo: "stations/images-america/c2c/roanoke_va/WPLY Sports Radio.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/wheelerbroadcasting-wplyamaac-imc1"
         },/*
         {
             name: "The Truth 101.5",
@@ -41843,9 +41873,24 @@ var stations_c2c = {
             url: "tbd"
         },*/
         {
+            name: "103.3 WAKG",
+            logo: "stations/images-america/c2c/roanoke_va/103.3 WAKG.png",
+            url: "https://live.wostreaming.net/manifest/piedmont-wakgfmaac-ibc2"
+        },
+        {
             name: "104.9 Steve FM",
             logo: "stations/images-america/c2c/roanoke_va/104.9 Steve FM.png",
             url: "https://stream.revma.ihrhls.com/zc2489/hls.m3u8"
+        },
+        {
+            name: "105.3 The Bear",
+            logo: "stations/images-america/c2c/roanoke_va/105.3 The Bear.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBRWFMAAC_SC"
+        },
+        {
+            name: "WFIR 107.3",
+            logo: "stations/images-america/c2c/roanoke_va/WFIR.png",
+            url: "http://185.106.98.26/index.php?u=http://live.wostreaming.net/manifest/wheelerbroadcasting-wfiramaac-imc1"
         },
         {
             name: "New Country 107.9",
@@ -41853,9 +41898,29 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2485/hls.m3u8"
         },
         {
+            name: "WPLY Sports Radio 610",
+            logo: "stations/images-america/c2c/roanoke_va/WPLY Sports Radio.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/wheelerbroadcasting-wplyamaac-imc1"
+        },
+        {
             name: "FOX Radio 910",
             logo: "stations/images-america/c2c/roanoke_va/Fox Radio 910.png",
             url: "http://crystalout.surfernetwork.com:8001/WFJX_MP3"
+        },
+        {
+            name: "WFIR 960",
+            logo: "stations/images-america/c2c/roanoke_va/WFIR.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/wheelerbroadcasting-wfiramaac-imc1"
+        },
+        {
+            name: "WGMN 1240",
+            logo: "stations/images-america/c2c/roanoke_va/WGMN 1240.png",
+            url: "https://ice7.securenetsystems.net/WGMN"
+        },
+        {
+            name: "WRTZ 1410",
+            logo: "stations/images-america/c2c/roanoke_va/WRTZ 1410.png",
+            url: "https://www.streamvortex.com:8444/s/10090"
         },
     ],
     "wytheville_va": [
