@@ -29890,8 +29890,8 @@ var stations_c2c = {
             url: "http://ic1.mainstreamnetwork.com/wlob-am"
         },
         {
-            name: "Rewind 100.9",
-            logo: "stations/images-america/c2c/portland_me/Rewind 100.9.png",
+            name: "Whoopie 100.9",
+            logo: "stations/images-america/c2c/portland_me/Whoopie 100.9.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wynzfmaac-ibc1"
         },
         {
