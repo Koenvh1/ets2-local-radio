@@ -47567,12 +47567,12 @@ var stations_greatamerica = {
         {
             name: "Star 102.5",
             logo: "stations/images-america/c2c/desmoines_ia/Star 102.5.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTZFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-kstzfmaac-ibc1"
         },
         {
             name: "104.1 EZ FM",
             logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOEZFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-koezfmaac-ibc1"
         },
         {
             name: "105.9 The Beach",
