@@ -6812,11 +6812,11 @@ var country_properties_c2c = {
         code: "us-md",
         relative_radius: 0.7
     },
-    "massachusetts": {
-        name: "massachusetts",
-        name_english: "massachusetts",
-        code: "us-ma",
-        relative_radius: 0.9
+    "mason_city_ia": {
+        name: "Mason City",
+        name_english: "Mason City",
+        code: "us-ia",
+        relative_radius: 0.7
     },
     "boston": {
         name: "boston",
@@ -8018,6 +8018,9 @@ var city_properties_c2c = {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
+    "mason_city_ia": {
+        relative_whitenoise: 0.95
+    },
     "boston": {
         relative_whitenoise: 0.85
     },
@@ -9188,6 +9191,14 @@ var cities_c2c = [
         "x": "82526",
         "y": "130.223",
         "z": "-8588.73"
+    },
+    {
+        "gameName": "mason_city_ia",
+        "realName": "Mason City",
+        "country": "mason_city_ia",
+        "x": "11131.4",
+        "y": "106.082",
+        "z": "-24374.2"
     },
     {
         "gameName": "boston",
