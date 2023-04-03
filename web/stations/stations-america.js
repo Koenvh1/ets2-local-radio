@@ -28952,6 +28952,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSMBFMAAC_SC"
         },
         {
+            name: "Freedom 95.1",
+            logo: "stations/images-america/c2c/lafayette_la/Freedom 95.1.png",
+            url: "https://ice41.securenetsystems.net/KSIG1067"
+        },
+        {
             name: "Q95.5",
             logo: "stations/images-america/c2c/lafayette_la/Q95.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRQFMAAC_SC"
@@ -29022,9 +29027,9 @@ var stations_c2c = {
             url: "http://ice7.securenetsystems.net/KYMK"
         },
         {
-            name: "Freedom 106.7",
-            logo: "stations/images-america/c2c/lafayette_la/Freedom 106.7.png",
-            url: "http://ice41.securenetsystems.net/KSIG1067"
+            name: "Planet Radio 106.7",
+            logo: "stations/images-america/c2c/lafayette_la/Planet Radio 106.7.png",
+            url: "https://streaming.live365.com/a47924"
         },
         {
             name: "Mustang 107.1",
