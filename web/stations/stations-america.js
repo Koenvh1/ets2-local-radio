@@ -6312,8 +6312,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kmxyfmaac-ibc3"
         },
         {
-            name: "KUBC Gold 104.5",
-            logo: "stations/images-america/grand_junction_montrose/KUBC Gold 104.5.png",
+            name: "104.5 The Canyon",
+            logo: "stations/images-america/grand_junction_montrose/104.5 The Canyon.png",
             url: "https://live.wostreaming.net/direct/townsquare-kubcamaac-ibc3"
         },
         {
