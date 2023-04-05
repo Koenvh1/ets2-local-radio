@@ -4707,7 +4707,7 @@ var stations = {
         {
             name: "Europa FM",
             logo: "stations/images-europe/spain/Europa FM.png",
-            url: "https://live-audio.europafm.com/radio/europafm/master.m3u8"
+            url: "https://livefastly-webs.europafm.com/europafm/audio/master.m3u8"
         },
         {
             name: "esRadio",
@@ -4757,7 +4757,7 @@ var stations = {
         {
             name: "Onda Cero",
             logo: "stations/images-europe/spain/Onda Cero.png",
-            url: "https://live-audio.ondacero.es/radio/ondacero/master.m3u8"
+            url: "https://agregadores-atres-live.atresmedia.com/tunein/live/ondacero/master.m3u8"
         },
         {
             name: "Radio Intereconomía",
