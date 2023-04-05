@@ -47242,7 +47242,7 @@ var stations_greatamerica = {
         {
             name: "KBEAR Country 92.3",
             logo: "stations/images-america/great_america/broken_bow/KBEAR Country 92.3.png",
-            url: "https://ice41.securenetsystems.net/KBRY"
+            url: "https://ais-sa1.streamon.fm/7844_96k.aac"
         },
         {
             name: "95.3 KBBN",
@@ -47257,7 +47257,7 @@ var stations_greatamerica = {
         {
             name: "KING FM 103.9",
             logo: "stations/images-america/great_america/broken_bow/KING FM 103.9.png",
-            url: "http://scv1.radiop1.com:8048/stream.mp3"
+            url: "https://streams.radiomast.io/cfb4ea4f-af4c-4169-af67-3ef1a767422b"
         },
         {
             name: "Bott Radio 104.5",
@@ -47271,8 +47271,8 @@ var stations_greatamerica = {
         },
         {
             name: "Greatest Hits 1060",
-            logo: "stations/images-america/great_america/broken_bow/KING FM 103.9.png",
-            url: "http://scv1.radiop1.com:8060/stream.mp3"
+            logo: "stations/images-america/great_america/broken_bow/Greatest Hits 1060.png",
+            url: "http://cecast.radiop1.com:8060/stream"
         },
         {
             name: "ESPN 1460",
