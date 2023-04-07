@@ -583,7 +583,7 @@ var stations = {
         {
             name: "Kalman Radio",
             logo: "stations/images-europe/bosnia/Kalman Radio.png",
-            url: "http://158.69.119.6:8203/stream"
+            url: "http://188.40.62.20:8004/;*.mp3"
         },
         {
             name: "Nes radio",
@@ -603,7 +603,7 @@ var stations = {
         {
             name: "Radio HB",
             logo: "stations/images-europe/bosnia/Radio HB.png",
-            url: "http://178.209.2.100:7060/;"
+            url: "https://s3.free-shoutcast.com/stream/18038"
         },
         {
             name: "Radio M",
@@ -906,7 +906,7 @@ var stations = {
         {
             name: "Mix FM",
             logo: "stations/images-europe/cyprus/Mix FM.png",
-            url: "https://live3.istoikona.net:9706/stream"
+            url: "https://link.radiojar.com/c27wx6pdh8vtv"
         },
         {
             name: "NJOY",
@@ -1789,7 +1789,7 @@ var stations = {
         {
             name: "RTL Radio",
             logo: "stations/images-europe/germany/RTL Radio.png",
-            url: "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113"
+            url: "https://stream.rtlradio.de/rtl-de-national/mp3-128/konsole"
         },
         {
             name: "Radio Schlagerparadies",
@@ -2298,7 +2298,7 @@ var stations = {
         {
             name: "104.6 RTL",
             logo: "stations/images-europe/germany-rbb/104.6 RTL.png",
-            url: "https://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-128-3429579"
+            url: "https://stream.104.6rtl.com/rtl-live/mp3-128/konsole"
         },
         {
             name: "FluxFM 100.6",
@@ -2308,7 +2308,7 @@ var stations = {
         {
             name: "JAM FM",
             logo: "stations/images-europe/germany-rbb/JAM FM.png",
-            url: "https://rtlberlin.streamabc.net/rtlb-jamfmlive-mp3-128-6002587"
+            url: "https://stream.jam.fm/jamfm-live/mp3-128/konsole"
         },
     ],
     "germany-rp": [
@@ -4870,12 +4870,12 @@ var stations = {
             name: "Onda Madrid 101.3",
             logo: "stations/images-europe/spain-madrid/Onda Madrid 101.3.png",
             url: "http://media.telemadrid.es/telemadrid/ondemand/radio/entrevista%20destacada1305.mp3"
-        },
+        },/*
         {
             name: "Kandela Te Prende 101.9",
             logo: "stations/images-europe/spain-madrid/Kandela Te Pretende 101.9.png",
             url: "http://one.cloudstreaming.eu:6158/kandela?_=1"
-        },
+        },*/
         {
             name: "Únika FM 103.0",
             logo: "stations/images-europe/spain-madrid/Únika FM 103.0.png",
@@ -4889,7 +4889,7 @@ var stations = {
         {
             name: "COPE Madrid 106.3",
             logo: "stations/images-europe/spain-madrid/Cope.png",
-            url: "https://flucast-b01-01.flumotion.com/cope/madrid.mp3"
+            url: "https://flucast-b02-04.flumotion.com/cope/madrid.mp3"
         },
     ],
     "sweden": [

@@ -1323,11 +1323,6 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KBHR"
         },
         {
-            name: "El Portal 95.9",
-            logo: "stations/images-america/barstow/El Portal 95.9.png",
-            url: "http://freeuk23.listen2myradio.com:39586/;"
-        },
-        {
             name: "DRIVE 96.9",
             logo: "stations/images-america/barstow/DRIVE 96.9.png",
             url: "https://streaming.live365.com/a98605"
@@ -12689,20 +12684,15 @@ var stations = {
             name: "ALT 92.1",
             logo: "stations/images-america/reno/ALT 92.1.png",
             url: "https://ice24.securenetsystems.net/ALT921"
-        },
+        },/*
         {
             name: "Reno's Crazy 80's 93.7",
             logo: "stations/images-america/reno/Reno's Crazy 80's 93.7.png",
             url: "https://c3.radioboss.fm:18286/stream"
-        },
+        },*/
         {
-            name: "CBS Sports Radio 94.1",
-            logo: "stations/images-america/reno/CBS Sports Radio 94.1.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KHITAMAAC_SC"
-        },
-        {
-            name: "ESPN Radio 94.5",
-            logo: "stations/images-america/reno/ESPN Radio 94.5.png",
+            name: "Que Buena 94.5",
+            logo: "stations/images-america/reno/Que Buena 94.5.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
