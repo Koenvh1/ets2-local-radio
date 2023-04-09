@@ -1196,6 +1196,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRJKAAC_SC"
         },
         {
+            name: "KNZR 97.7",
+            logo: "stations/images-america/bakersfield/KNZR 1560.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/alphacorporate-knzramaac-ibc4"
+        },
+        {
             name: "Rewind 98.1",
             logo: "stations/images-america/bakersfield/Rewind 98.1.png",
             url: "http://streaming.rubinbroadcasting.com/rewind"
@@ -1266,6 +1271,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC_SC"
         },
         {
+            name: "KUZZ 550",
+            logo: "stations/images-america/bakersfield/KUZZ 107.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUZZAAC.aac"
+        },
+        {
             name: "FOX Sports 800",
             logo: "stations/images-america/bakersfield/Fox Sports Bakersfield.png",
             url: "https://stream.revma.ihrhls.com/zc6141/hls.m3u8"
@@ -1279,6 +1289,16 @@ var stations = {
             name: "FOX Sports 970",
             logo: "stations/images-america/bakersfield/Fox Sports Bakersfield.png",
             url: "https://stream.revma.ihrhls.com/zc4273/hls.m3u8"
+        },
+        {
+            name: "KERN Radio 1180",
+            logo: "stations/images-america/bakersfield/KERN Radio 96.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kernamaac-ibc3"
+        },
+        {
+            name: "ESPN Bakersfield 1230",
+            logo: "stations/images-america/bakersfield/ESPN Bakersfield 101.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kgeoamaac-ibc3"
         },
         {
             name: "KVMI 1270",
@@ -6158,9 +6178,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5227/hls.m3u8"
         },
         {
+            name: "Power Talk 1400",
+            logo: "stations/images-america/fresno/Power Talk 96.7.png",
+            url: "http://stream.revma.ihrhls.com/zc137/hls.m3u8"
+        },
+        {
             name: "1430 ESPN",
             logo: "stations/images-america/fresno/1430 ESPN.png",
             url: "https://ice5.securenetsystems.net/KFIG"
+        },
+        {
+            name: "1480 KYOS",
+            logo: "stations/images-america/fresno/107.3 KYOS.png",
+            url: "http://ice42.securenetsystems.net/KYOS"
         },
         {
             name: "1550 KXEX",

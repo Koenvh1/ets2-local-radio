@@ -1010,6 +1010,11 @@ var stations = {
             logo: "stations/images-europe/czech/Rádio Blaník.png",
             url: "http://ice.abradio.cz/blanikfm128.mp3"
         },
+        {
+            name: "Radio SPIN",
+            logo: "stations/images-europe/czech/Radio SPIN.png",
+            url: "https://stream.rcs.revma.com/xcvkqtvb938uv"
+        },
     ],
     "denmark": [
         {
@@ -1977,7 +1982,7 @@ var stations = {
         {
             name: "ENERGY Hamburg",
             logo: "stations/images-europe/germany/Energy.png",
-            url: "https://scdn.nrjaudio.fm/adwz1/de/33009/mp3_128.mp3"
+            url: "https://frontend.streamonkey.net/energy-hamburg/stream/mp3"
         },
         {
             name: "Radio Hamburg",
