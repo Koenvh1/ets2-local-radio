@@ -964,6 +964,9 @@ var city_properties = {
     "narva": {
         relative_radius: 0.6,
     },
+    "naujieji_valkininkai": {
+        relative_radius: 0.6,
+    },
     "nevel": {
         relative_radius: 0.7,
     },
@@ -5726,6 +5729,14 @@ var cities_btbs = [
         "x": "54382.2",
         "y": "66.3984",
         "z": "-52462.3"
+    },
+    {
+        "gameName": "naujieji_valkininkai",
+        "realName": "Naujieji Valkininkai",
+        "country": "lithuania",
+        "x": "47940.6",
+        "y": "17.2595",
+        "z": "-21636.4"
     },
     {
         "gameName": "olkiluoto",

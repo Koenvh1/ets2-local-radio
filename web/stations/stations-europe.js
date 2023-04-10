@@ -3259,7 +3259,7 @@ var stations = {
         {
             name: "extra FM",
             logo: "stations/images-europe/lithuania/extra FM.png",
-            url: "https://82.135.234.195:8443/extrafm.mp3"
+            url: "https://online.extrafm.lt:8443/extrafm.mp3"
         },
         {
             name: "Gold FM",
