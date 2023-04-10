@@ -3556,6 +3556,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3652/hls.m3u8"
         },
         {
+            name: "KROB 94.3",
+            logo: "stations/images-america/texas/corpus_christi/KROB.png",
+            url: "https://puroradio.net:2020/stream/krob"
+        },
+        {
             name: "US 94.7",
             logo: "stations/images-america/texas/corpus_christi/US 94.7.png",
             url: "http://ice64.securenetsystems.net/KBSO"
@@ -3679,6 +3684,11 @@ var stations = {
             name: "1440 KEYS",
             logo: "stations/images-america/texas/corpus_christi/1440 KEYS.png",
             url: "https://live.wostreaming.net/manifest/malkan-keysamaac-ibc3"
+        },
+        {
+            name: "KROB 1510",
+            logo: "stations/images-america/texas/corpus_christi/KROB.png",
+            url: "http://puroradio.net:2020/stream/krob"
         },
         {
             name: "Radio Libertad 1590",
@@ -11371,7 +11381,7 @@ var stations = {
             url: "https://stream.thecrustychicken.com/proxy/revfm/stream"
         },
         {
-            name: "103.5 The Ram",
+            name: "103.5 The Beat",
             logo: "stations/images-america/texas/san_angelo/103.5 The Ram.png",
             url: "https://ice10.securenetsystems.net/KBJX"
         },
@@ -14073,7 +14083,7 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kkcnfmaac-ibc3"
         },
         {
-            name: "103.5 The Ram",
+            name: "103.5 The Beat",
             logo: "stations/images-america/texas/san_angelo/103.5 The Ram.png",
             url: "https://ice10.securenetsystems.net/KBJX"
         },
@@ -14096,6 +14106,21 @@ var stations = {
             name: "ESPN 960",
             logo: "stations/images-america/texas/san_angelo/ESPN 960.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kgklamaac-ibc3"
+        },
+        {
+            name: "KKSA 1260",
+            logo: "stations/images-america/texas/san_angelo/KKSA 1260.png",
+            url: "https://ice41.securenetsystems.net/KKSA"
+        },
+        {
+            name: "Radio Amistad 1340",
+            logo: "stations/images-america/texas/houston/Radio Amistad.png",
+            url: "http://khcb.streamguys1.com/spanish-128k-mp3"
+        },
+        {
+            name: "KRUN 1400",
+            logo: "stations/images-america/texas/san_angelo/KRUN 1400.png",
+            url: "http://5.135.158.214:12352/;"
         },
     ],
     "san_antonio": [
