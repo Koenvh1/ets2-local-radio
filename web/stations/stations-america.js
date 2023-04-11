@@ -17854,6 +17854,11 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7641_48k.aac"
         },
         {
+            name: "KTEM 94.3",
+            logo: "stations/images-america/texas/waco/KTEM 1400.png",
+            url: "https://live.wostreaming.net/direct/townsquare-ktemamaac-ibc3"
+        },
+        {
             name: "94.5 The Beat",
             logo: "stations/images-america/texas/waco/94.5 The Beat.png",
             url: "https://ais-sa1.streamon.fm/7017_48k.aac"
@@ -17879,14 +17884,14 @@ var stations = {
             url: "https://khcb.streamguys1.com/spanish-128k-mp3"
         },
         {
-            name: "RED-C Catholic Radio 98.3",
-            logo: "stations/images-america/texas/waco/RED-C Catholic Radio 98.3.png",
-            url: "https://ssl-1.stream.miriamtech.net/red-c/KYAR"
-        },
-        {
             name: "97.5 FM",
             logo: "stations/images-america/texas/waco/97.5 FM.png",
             url: "https://stream.revma.ihrhls.com/zc2373/hls.m3u8"
+        },
+        {
+            name: "RED-C Catholic Radio 98.3",
+            logo: "stations/images-america/texas/waco/RED-C Catholic Radio 98.3.png",
+            url: "https://ssl-1.stream.miriamtech.net/red-c/KYAR"
         },
         {
             name: "99.3 Kicker Country",
@@ -17952,6 +17957,16 @@ var stations = {
             name: "KTEM 1400",
             logo: "stations/images-america/texas/waco/KTEM 1400.png",
             url: "https://live.wostreaming.net/manifest/townsquare-ktemamaac-ibc3"
+        },
+        {
+            name: "Kicker Country 1590",
+            logo: "stations/images-america/texas/waco/99.3 Kicker Country.png",
+            url: "https://ais-sa1.streamon.fm/7046_24k.aac"
+        },
+        {
+            name: "1660 ESPN",
+            logo: "stations/images-america/texas/waco/92.3 ESPN.png",
+            url: "http://ais-sa1.streamon.fm/7050_24k.aac"
         },
         {
             name: "NOAA Weather Radio Waco",
