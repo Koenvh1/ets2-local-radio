@@ -24813,9 +24813,9 @@ var stations_c2c = {
             url: "http://live.str3am.com:2380/troy1"
         },
         {
-            name: "R&B 92.1",
-            logo: "stations/images-america/c2c/columbus_ga/R&B 92.1.png",
-            url: "https://ice42.securenetsystems.net/WRCGAM"
+            name: "92.1 Smooth R&B",
+            logo: "stations/images-america/c2c/columbus_ga/92.1 Smooth R&B.png",
+            url: "http://ice42.securenetsystems.net/WRLDFM"
         },
         {
             name: "K92.7",
@@ -24826,11 +24826,6 @@ var stations_c2c = {
             name: "BIN 94.7",
             logo: "stations/images-america/c2c/columbus_ga/BIN 94.7.png",
             url: "https://stream.revma.ihrhls.com/zc3390/hls.m3u8"
-        },
-        {
-            name: "95.3 Smooth RnB",
-            logo: "stations/images-america/c2c/columbus_ga/95.3 Smooth RnB.png",
-            url: "http://ice42.securenetsystems.net/WRLDFM"
         },
         {
             name: "95.7 ESPN",
