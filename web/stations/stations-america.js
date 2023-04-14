@@ -18006,8 +18006,8 @@ var stations = {
             url: "http://96.46.17.81:8001/;stream"
         },
         {
-            name: "99.5 The Bridge",
-            logo: "stations/images-america/wenatchee/99.5 The Bridge.png",
+            name: "99.5 The Apple",
+            logo: "stations/images-america/wenatchee/99.5 The Apple.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kqbgfmaac-ibc3"
         },
         {

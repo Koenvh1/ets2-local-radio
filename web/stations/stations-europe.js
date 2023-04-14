@@ -991,6 +991,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC_SC"
         },
         {
+            name: "HEY Radio",
+            logo: "stations/images-europe/czech/HEY Radio.png",
+            url: "https://icecast3.play.cz/hey-radio128.mp3"
+        },
+        {
             name: "Rádio Impuls",
             logo: "stations/images-europe/czech/Rádio Impuls.png",
             url: "http://icecast1.play.cz:80/impuls128.mp3"
@@ -1003,7 +1008,7 @@ var stations = {
         {
             name: "Rádio Beat",
             logo: "stations/images-europe/czech/Rádio Beat.png",
-            url: "http://icecast5.play.cz/radiobeat128.mp3"
+            url: "https://stream.rcs.revma.com/3d47nqvb938uv"
         },
         {
             name: "Rádio Blaník",
@@ -1014,6 +1019,11 @@ var stations = {
             name: "Radio SPIN",
             logo: "stations/images-europe/czech/Radio SPIN.png",
             url: "https://stream.rcs.revma.com/xcvkqtvb938uv"
+        },
+        {
+            name: "Rock Radio",
+            logo: "stations/images-europe/czech/Rock Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIOAAC_SC"
         },
     ],
     "denmark": [
