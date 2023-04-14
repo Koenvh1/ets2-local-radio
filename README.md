@@ -105,8 +105,8 @@ check whether it contains the following lines:
 00:00:18.262 : unable to load: 0000007E
 ```
 * If that is the case, then please try installing the following:
-https://www.microsoft.com/en-gb/download/details.aspx?id=48145
-https://www.microsoft.com/en-us/download/confirmation.aspx?id=30679
+https://www.microsoft.com/en-us/download/details.aspx?id=26999
+https://www.microsoft.com/en-us/download/details.aspx?id=30679
 and **restart your computer**
 * If it contains something like this:
 ```
