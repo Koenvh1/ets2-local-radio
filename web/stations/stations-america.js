@@ -28002,9 +28002,19 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KSKGHD2"
         },
         {
+            name: "95.5 KLBG",
+            logo: "stations/images-america/c2c/salina_ks/95.5 KLBG.png",
+            url: "https://us2.maindigitalstream.com/ssl/KLBQ"
+        },
+        {
             name: "Power Hits 97.5",
             logo: "stations/images-america/c2c/salina_ks/Power Hits 97.5.png",
             url: "http://185.106.98.26/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
+        },
+        {
+            name: "98.9 KGBK",
+            logo: "stations/images-america/c2c/salina_ks/98.9 KGBK.png",
+            url: "https://us2.maindigitalstream.com/ssl/KGBK"
         },
         {
             name: "99KG",
@@ -28035,6 +28045,11 @@ var stations_c2c = {
             name: "KSAL 1150",
             logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
             url: "https://ice23.securenetsystems.net/KSALAM"
+        },
+        {
+            name: "1510 KLQR",
+            logo: "stations/images-america/c2c/salina_ks/98.9 KGBK.png",
+            url: "https://us2.maindigitalstream.com/ssl/KLQR"
         },
         {
             name: "The General 1560",
