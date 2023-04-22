@@ -3161,12 +3161,12 @@ var stations = {
             url: "http://195.13.200.164:8000/;"
         },
     ],
-    "lebanon": [/*
+    "lebanon": [
         {
             name: "Radio Liban",
             logo: "stations/images-europe/lebanon/Radio Liban.png",
             url: "https://edge.mixlr.com/channel/qtqeb"
-        },*/
+        },
         {
             name: "Al Bachaer",
             logo: "stations/images-europe/lebanon/Al Bachaer.png",

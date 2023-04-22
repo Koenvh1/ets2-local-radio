@@ -7869,8 +7869,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUMAFMAAC_SC"
         },
         {
-            name: "La Super 92.5",
-            logo: "stations/images-america/kennewick_pendleton/La Super 92.5.png",
+            name: "Juan 92.5",
+            logo: "stations/images-america/kennewick_pendleton/Juan 92.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kzhrfmaac-ibc3"
         },
         {
