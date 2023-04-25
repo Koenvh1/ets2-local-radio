@@ -24599,7 +24599,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQFMAAC_SC"
         },
         {
-            name: "99x 100.5",
+            name: "WNNX 100.5",
             logo: "stations/images-america/c2c/atlanta_ga/99x.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFMAAC_SC"
         },

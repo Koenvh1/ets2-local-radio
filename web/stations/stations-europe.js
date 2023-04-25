@@ -1025,6 +1025,11 @@ var stations = {
             logo: "stations/images-europe/czech/Rock Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIOAAC_SC"
         },
+        {
+            name: "ZUN rádio",
+            logo: "stations/images-europe/czech/ZUN rádio.png",
+            url: "https://icecast9.play.cz/zun192.mp3"
+        },
     ],
     "denmark": [
         {
@@ -1501,6 +1506,11 @@ var stations = {
             name: "M Radio",
             logo: "stations/images-europe/france/M Radio.png",
             url: "http://mfm.ice.infomaniak.ch/mfm-128.mp3"
+        },
+        {
+            name: "Melody Vintage Radio",
+            logo: "stations/images-europe/france/Melody Vintage Radio.png",
+            url: "https://sc.creacast.com/melody-aac-64"
         },
         {
             name: "Mouv'",
@@ -3681,22 +3691,22 @@ var stations = {
         {
             name: "Radio 10",
             logo: "stations/images-europe/netherlands/Radio 10.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC_SC",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC_SC",
         },
         {
             name: "Radio 10 60's & 70's Hits",
             logo: "stations/images-europe/netherlands/Radio 10 60's & 70's Hits.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC_SC",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC_SC",
         },
         {
             name: "Radio 10 80's",
             logo: "stations/images-europe/netherlands/Radio 10 80's.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC_SC",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC_SC",
         },
         {
             name: "Radio Decibel",
             logo: "stations/images-europe/netherlands/Radio Decibel.png",
-            url: "https://stream.decibel.nl/decibel.mp3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL_SC"
         },
         {
             name: "Radio Maria",
@@ -5016,6 +5026,11 @@ var stations = {
             url: "https://stream.srg-ssr.ch/m/rsp/mp3_128"
         },
         {
+            name: "Radio RTR",
+            logo: "stations/images-europe/switzerland-de/Radio RTR.png",
+            url: "https://stream.srg-ssr.ch/m/rr/mp3_128"
+        },
+        {
             name: "ENERGY Basel",
             logo: "stations/images-europe/switzerland-de/ENERGY Basel.png",
             url: "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3"
@@ -5036,9 +5051,19 @@ var stations = {
             url: "https://stream1.lifechannel.ch/ERFPLUS"
         },
         {
+            name: "FLASHBACK FM",
+            logo: "stations/images-europe/switzerland-de/FLASHBACK FM.png",
+            url: "https://stream.streambase.ch/ffm/mp3-192/chmedia-radio-web"
+        },
+        {
             name: "FM1",
             logo: "stations/images-europe/switzerland-de/FM1.png",
             url: "https://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3"
+        },
+        {
+            name: "GOAT Radio",
+            logo: "stations/images-europe/switzerland-de/GOAT Radio.png",
+            url: "https://20min.dmd2streaming.com/20minuten_radio_64.aac"
         },
         {
             name: "Life Channel",
@@ -5105,6 +5130,11 @@ var stations = {
             logo: "stations/images-europe/switzerland-de/Radio Zürisee.png",
             url: "https://mp3.radio.ch/radiozuerisee128k"
         },
+        {
+            name: "Virgin Radio",
+            logo: "stations/images-europe/switzerland-de/Virgin Radio.png",
+            url: "https://stream.streambase.ch/vrock/mp3-192/chmedia-radio-web"
+        },
     ],
     "switzerland-fr": [
         {
@@ -5143,6 +5173,21 @@ var stations = {
             url: "https://stream.srg-ssr.ch/m/rsp/mp3_128"
         },
         {
+            name: "Radio RTR",
+            logo: "stations/images-europe/switzerland-fr/Radio RTR.png",
+            url: "https://stream.srg-ssr.ch/m/rr/mp3_128"
+        },
+        {
+            name: "GRRIF",
+            logo: "stations/images-europe/switzerland-fr/GRRIF.png",
+            url: "https://grrif.ice.infomaniak.ch/grrif-128.aac"
+        },
+        {
+            name: "IP music",
+            logo: "stations/images-europe/switzerland-fr/IP music.png",
+            url: "https://live7.avf.ch/ipmusicaacplus96"
+        },
+        {
             name: "LFM",
             logo: "stations/images-europe/switzerland-fr/LFM.png",
             url: "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3"
@@ -5163,14 +5208,34 @@ var stations = {
             url: "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
         },
         {
+            name: "RadioFr. Fresh",
+            logo: "stations/images-europe/switzerland-fr/RadioFr. Fresh.png",
+            url: "https://radiofresh.ice.infomaniak.ch/radiofresh.aac"
+        },
+        {
             name: "Radio Lac",
             logo: "stations/images-europe/switzerland-fr/Radio Lac.png",
             url: "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3"
         },
         {
+            name: "Rhône FM",
+            logo: "stations/images-europe/switzerland-fr/Rhône FM.png",
+            url: "https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3"
+        },
+        {
             name: "Rouge FM",
             logo: "stations/images-europe/switzerland-fr/Rouge FM.png",
             url: "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
+        },
+        {
+            name: "Spoon Radio",
+            logo: "stations/images-europe/switzerland-fr/Spoon Radio.png",
+            url: "https://ic2527.c972.fastserv.com/spoonradio_aacp_96"
+        },
+        {
+            name: "Vertical Radio",
+            logo: "stations/images-europe/switzerland-fr/Vertical Radio.png",
+            url: "https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3"
         },
     ],
     "switzerland-it": [
@@ -5203,6 +5268,11 @@ var stations = {
             name: "Radio Swiss Pop",
             logo: "stations/images-europe/switzerland-fr/Radio Swiss Pop.png",
             url: "https://stream.srg-ssr.ch/m/rsp/mp3_128"
+        },
+        {
+            name: "Radio RTR",
+            logo: "stations/images-europe/switzerland-it/Radio RTR.png",
+            url: "https://stream.srg-ssr.ch/m/rr/mp3_128"
         },
         {
             name: "A Fine Jazz Gumbo Radio",
