@@ -39862,6 +39862,16 @@ var stations_c2c = {
     ],
     "greenville_sc": [
         {
+            name: "HIS Radio 89.3",
+            logo: "stations/images-america/c2c/greenville_sc/HIS Radio 89.3.png",
+            url: "https://rtn.cdnstream1.com/2566_96.aac"
+        },
+        {
+            name: "Classic HIS Radio 89.7",
+            logo: "stations/images-america/c2c/greenville_sc/Classic HIS Radio 89.7.png",
+            url: "https://rtn.cdnstream1.com/2569_48.aac"
+        },
+        {
             name: "SCPR 90.1",
             logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFMAAC_SC"
