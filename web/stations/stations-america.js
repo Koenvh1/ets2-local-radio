@@ -28415,8 +28415,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4882/hls.m3u8"
         },
         {
-            name: "Sports 96.1",
-            logo: "stations/images-america/c2c/lexington_ky/Sports 96.1.png",
+            name: "96.1 The Hound",
+            logo: "stations/images-america/c2c/lexington_ky/96.1 The Hound.png",
             url: "http://185.106.98.26/index.php?u=https://ice23.securenetsystems.net/WZNN"
         },
         {
@@ -41109,8 +41109,8 @@ var stations_c2c = {
             url: "https://stream1.flinn.com:8443/1071FM.aac"
         },
         {
-            name: "107.5 WHBQ",
-            logo: "stations/images-america/c2c/memphis_tn/107.5 WHBQ.png",
+            name: "Q107.5",
+            logo: "stations/images-america/c2c/memphis_tn/Q107.5.png",
             url: "https://stream1.flinn.com:8443/1075FM.aac"
         },
         {
