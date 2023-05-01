@@ -14,12 +14,12 @@ var stations = {
             name: "K221BG 92.1",
             logo: "stations/images-america/seattle/Spirit 105.3.png",
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
-        },/*
+        },
         {
             name: "Timber Country 94.7",
             logo: "stations/images-america/aberdeen/Timber Country 94.7.png",
-            url: "https://us2.streamingpulse.com/ssl/KBKW"
-        },*/
+            url: "https://stream1.noctel.com:7115/K234AU"
+        },
         {
             name: "KIX 95.3",
             logo: "stations/images-america/aberdeen/KIX 95.3.png",
@@ -46,6 +46,11 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KDDS"
         },
         {
+            name: "100.5 Jack FM",
+            logo: "stations/images-america/aberdeen/100.5 Jack FM.png",
+            url: "https://stream1.noctel.com:7114/K263BE"
+        },
+        {
             name: "KNKX 100.9",
             logo: "stations/images-america/0_general_logos/KNKX.png",
             url: "https://live.wostreaming.net/manifest/ppm-knkxfmaac-ibc1"
@@ -54,22 +59,27 @@ var stations = {
             name: "KXRO 101.7",
             logo: "stations/images-america/aberdeen/KXRO 101.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kxroamaac-ibc4"
-        },/*
+        },
         {
             name: "Sunny 102.1",
             logo: "stations/images-america/aberdeen/Sunny 102.1.png",
-            url: "http://us2.maindigitalstream.com/ssl/KSWW"
-        },*/
+            url: "https://stream1.noctel.com:7112/KSWW"
+        },
+        {
+            name: "104.1 Bigfoot Country",
+            logo: "stations/images-america/aberdeen/104.1 Bigfoot Country.png",
+            url: "https://stream1.noctel.com:7116/K281DE"
+        },
         {
             name: "104.7 KDUX",
             logo: "stations/images-america/aberdeen/104.7 KDUX.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kduxfmaac-ibc4"
-        },/*
+        },
         {
             name: "Y107.3",
             logo: "stations/images-america/aberdeen/Y107.3.png",
-            url: "https://us2.streamingpulse.com/ssl/KJET"
-        },*/
+            url: "https://stream1.noctel.com:7113/KANY"
+        },
         {
             name: "1490 KWOK",
             logo: "stations/images-america/aberdeen/1490 KWOK.png",
@@ -1626,7 +1636,7 @@ var stations = {
         {
             name: "Radio Vida 92.9",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://turbo.2cdn.eu/s1/9308/stream/;"
+            url: "https://sonic.radiostreaminglatino.com:10847/;"
         },
         {
             name: "TUDN Radio 93.3",
@@ -1719,17 +1729,17 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
         },
         {
+            name: "Radio Vida 1150",
+            logo: "stations/images-america/0_general_logos/Radio Vida.png",
+            url: "https://sonic.radiostreaminglatino.com:10847/;/"
+        },
+        {
             name: "Sports Radio 1510",
             logo: "stations/images-america/texas/beaumont/Sports Radio 1510.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIKRAM_SC"
         },
     ],
     "big_piney": [
-        {
-            name: "KID 590",
-            logo: "stations/images-america/idaho_falls/KID 106.3.png",
-            url: "https://ice24.securenetsystems.net/KIDAM"
-        },
         {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
@@ -3614,12 +3624,12 @@ var stations = {
             name: "Planet 102.3",
             logo: "stations/images-america/texas/corpus_christi/Planet 102.3.png",
             url: "https://ice41.securenetsystems.net/KKPN"
-        },/*
+        },
         {
             name: "102.9 Da Bomb",
             logo: "stations/images-america/texas/corpus_christi/102.9 Da Bomb.png",
-            url: "https://rcri1.com:9166/;stream.mp3"
-        },*/
+            url: "https://ice41.securenetsystems.net/KNDA"
+        },
         {
             name: "Air1 103.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
@@ -4971,7 +4981,7 @@ var stations = {
         {
             name: "exa 98.3",
             logo: "stations/images-america/texas/el_paso/exa 98.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPXAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPX_SC"
         },
         {
             name: "Máxima 99.1",
@@ -5181,12 +5191,12 @@ var stations = {
             name: "94.5 Mix FM",
             logo: "stations/images-america/eugene/94.5 Mix FM.png",
             url: "http://204.141.167.19:8970/stream"
-        },/*
+        },
         {
             name: "Sports Radio 95.3",
             logo: "stations/images-america/eugene/Sports Radio 95.3.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KUJZFMAAC_SC"
-        },*/
+        },
         {
             name: "96.1 KZEL",
             logo: "stations/images-america/eugene/96.1 KZEL.png",
@@ -5917,11 +5927,6 @@ var stations = {
             name: "K296EJ 107.1",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
             url: "https://ice7.securenetsystems.net/KUPI"
-        },
-        {
-            name: "KID 590",
-            logo: "stations/images-america/idaho_falls/KID 106.3.png",
-            url: "https://ice24.securenetsystems.net/KIDAM"
         },
         {
             name: "KVNU 610",
@@ -7719,11 +7724,6 @@ var stations = {
             name: "KBYI 105.9",
             logo: "stations/images-america/idaho_falls/KBYI 94.3.png",
             url: "https://radiostream.byui.edu/kbyi"
-        },
-        {
-            name: "KID 590",
-            logo: "stations/images-america/idaho_falls/KID 106.3.png",
-            url: "https://ice24.securenetsystems.net/KIDAM"
         },
         {
             name: "KVNU 610",
@@ -18078,7 +18078,7 @@ var stations = {
             url: "https://radiostream.byui.edu/kbyi"
         },
         {
-            name: "KID 102.9",
+            name: "KOUW-FM 102.9",
             logo: "stations/images-america/idaho_falls/KID 106.3.png",
             url: "https://ice24.securenetsystems.net/KIDAM"
         },
@@ -39937,8 +39937,8 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wspafmaac-imc"
         },
         {
-            name: "Awesome 99.5",
-            logo: "stations/images-america/c2c/greenville_sc/Awesome 99.5.png",
+            name: "Streetz 99.5",
+            logo: "stations/images-america/c2c/greenville_sc/Streetz 99.5.png",
             url: "http://185.106.98.26/index.php?u=https://ais-sa1.streamon.fm/7692_128k.aac"
         },
         {

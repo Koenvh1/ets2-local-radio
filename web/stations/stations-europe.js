@@ -1410,7 +1410,7 @@ var stations = {
         {
             name: "France Bleu",
             logo: "stations/images-europe/france/France Bleu.png",
-            url: "https://stream.radiofrance.fr/fbpaysdesavoie/fbpaysdesavoie.m3u8"
+            url: "https://icecast.radiofrance.fr/fbevenementiel-midfi.mp3"
         },
         {
             name: "France Culture",
