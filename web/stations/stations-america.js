@@ -1592,8 +1592,8 @@ var stations = {
             url: "https://live.wostreaming.net/direct/horizonbroadcasting-kqakfmmp3-ibc1"
         },
         {
-            name: "107.7 The Beat",
-            logo: "stations/images-america/bend/107.7 The Beat.png",
+            name: "Gold 107.7",
+            logo: "stations/images-america/bend/Gold 107.7.png",
             url: "https://ice5.securenetsystems.net/KWXS"
         },
         {
