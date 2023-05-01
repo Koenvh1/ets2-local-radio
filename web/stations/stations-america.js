@@ -10253,6 +10253,43 @@ var stations = {
             url: "https://ice6.securenetsystems.net/EFXAAC"
         },
     ],
+    "mccamey": [
+        {
+            name: "afr Hybrid 89.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "Mix 97.9",
+            logo: "stations/images-america/texas/midland_odessa/Mix 97.9.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kodmfmaac-ibc3"
+        },
+        {
+            name: "KBAT 99.9",
+            logo: "stations/images-america/texas/midland_odessa/KBAT 99.9.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kbatfmaac-ibc3"
+        },
+        {
+            name: "La Caliente 101.3",
+            logo: "stations/images-america/texas/midland_odessa/La Caliente 101.3.png",
+            url: "https://sonic01.instainternet.com/8360/stream"
+        },
+        {
+            name: "550 KCRS",
+            logo: "stations/images-america/texas/midland_odessa/KCRS.png",
+            url: "http://ice5.securenetsystems.net/KCRSAM"
+        },
+        {
+            name: "GRN 1180",
+            logo: "stations/images-america/0_general_logos/GRN.png",
+            url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
+        },
+        {
+            name: "KCKM 1330",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
+            url: "https://ice41.securenetsystems.net/KCKM"
+        },
+    ],
     "mcdermitt": [
         {
             name: "Pilgrim Radio 91.7",

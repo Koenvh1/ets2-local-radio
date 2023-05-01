@@ -761,6 +761,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.7
     },
+    "mccamey": {
+        name: "McCamey",
+        name_english: "McCamey",
+        code: "us-tx",
+        relative_radius: 0.6
+    },
     "mcdermitt": {
         name: "McDermitt",
         name_english: "McDermitt",
@@ -1784,6 +1790,9 @@ var city_properties = {
     },
     "mccall": {
         relative_whitenoise: 0.85
+    },
+    "mccamey": {
+        relative_whitenoise: 0.95
     },
     "mcdermitt": {
         relative_whitenoise: 0.85
@@ -3865,6 +3874,14 @@ var cities = [
         "x": "-79313.3",
         "y": "84.9904",
         "z": "-42465"
+    },
+    {
+        "gameName": "mccamey",
+        "realName": "McCamey",
+        "country": "mccamey",
+        "x": "-29335.4",
+        "y": "43.034",
+        "z": "43554.9"
     },
     {
         "gameName": "mcdermitt",
