@@ -1579,7 +1579,7 @@ var stations = {
         {
             name: "The Peak 104.1",
             logo: "stations/images-america/bend/The Peak 104.1.png",
-            url: "https://live.wostreaming.net/direct/horizonbroadcasting-kwpkfmmp3-ibc1"
+            url: "https://live.wostreaming.net/direct/horizonbroadcasting-kwpkfmaac-ibc1"
         },
         {
             name: "104.5 KBNW",
@@ -6148,8 +6148,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KHTN"
         },
         {
-            name: "105.1 The Blaze",
-            logo: "stations/images-america/fresno/105.1 The Blaze.png",
+            name: "Rock 105.1",
+            logo: "stations/images-america/fresno/Rock 105.1.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBZFMAAC_SC"
         },
         {
@@ -26544,9 +26544,9 @@ var stations_c2c = {
             url: "https://www.wcyt.org/audio/wcythd2.mp3"
         },
         {
-            name: "BIG 92.3",
-            logo: "stations/images-america/c2c/fort_wayne_in/BIG 92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFWIFMAAC_SC"
+            name: "WOWO 92.3",
+            logo: "stations/images-america/c2c/fort_wayne_in/WOWO.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WOWOAMAAC.aac"
         },
         {
             name: "US 93.3",
@@ -26898,9 +26898,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WASKFMAAC_SC"
         },
         {
-            name: "Shine 99",
-            logo: "stations/images-america/c2c/lafayette_in/Shine 99.png",
-            url: "https://ice24.securenetsystems.net/WSHW"
+            name: "Shine.fm 99.7",
+            logo: "stations/images-america/c2c/lafayette_in/Shine.fm 99.7.png",
+            url: "https://mist.olivet.edu/shine128"
         },
         {
             name: "WBAA Classical 101.3",
