@@ -41106,14 +41106,14 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2121/hls.m3u8"
         },
         {
-            name: "101.9 KISS FM",
-            logo: "stations/images-america/c2c/memphis_tn/101.9 KISS FM.png",
-            url: "https://stream.revma.ihrhls.com/zc4864/hls.m3u8"
+            name: "ROCK 102",
+            logo: "stations/images-america/c2c/memphis_tn/ROCK 102.png",
+            url: "https://stream.revma.ihrhls.com/zc2133/hls.m3u8"
         },
         {
-            name: "ROCK 103",
-            logo: "stations/images-america/c2c/memphis_tn/ROCK 103.png",
-            url: "https://stream.revma.ihrhls.com/zc2133/hls.m3u8"
+            name: "102.7 KISS FM",
+            logo: "stations/images-america/c2c/memphis_tn/102.7 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc4864/hls.m3u8"
         },
         {
             name: "SUNNY 103",
