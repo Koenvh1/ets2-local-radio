@@ -9812,6 +9812,14 @@ var cities_tsm = [
         "z": "32826.7"
     },
     {
+        "gameName": "lindos",
+        "realName": "lindos",
+        "country": "greece",
+        "x": "74605.6",
+        "y": "1.0273",
+        "z": "76388.9"
+    },
+    {
         "gameName": "lisboa",
         "realName": "Lisboa",
         "country": "portugal",
@@ -9882,6 +9890,14 @@ var cities_tsm = [
         "x": "43482.4",
         "y": "57.2461",
         "z": "64601.2"
+    },
+    {
+        "gameName": "rhodes",
+        "realName": "rhodes",
+        "country": "greece",
+        "x": "75459.0",
+        "y": "4.0978",
+        "z": "74616"
     },
     {
         "gameName": "salamanca",
