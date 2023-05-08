@@ -8287,14 +8287,39 @@ var stations = {
             url: "http://ice9.securenetsystems.net/KKKJ"
         },
         {
-            name: "106.5 The Winner",
-            logo: "stations/images-america/klamath_falls/106.5 The Winner.png",
+            name: "La Patrona 106.5",
+            logo: "stations/images-america/klamath_falls/La Patrona 106.5.png",
             url: "http://ice10.securenetsystems.net/KRJW"
         },
         {
             name: "Sunny 107",
             logo: "stations/images-america/klamath_falls/Sunny 107.png",
             url: "http://ice10.securenetsystems.net/KKRB"
+        },
+        {
+            name: "KCFJ 570",
+            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
+        },
+        {
+            name: "The Game 580",
+            logo: "stations/images-america/medford/The Game 96.1.png",
+            url: "https://ice42.securenetsystems.net/KTMTAM"
+        },
+        {
+            name: "La Gran D 610",
+            logo: "stations/images-america/medford/La Gran D 610.png",
+            url: "https://ic2.sslstream.com/krta-am"
+        },
+        {
+            name: "La Patrona 1240",
+            logo: "stations/images-america/klamath_falls/La Patrona 106.5.png",
+            url: "https://ice10.securenetsystems.net/KRJW"
+        },
+        {
+            name: "1450 KFLS",
+            logo: "stations/images-america/klamath_falls/102.5 KFLS.png",
+            url: "http://ice10.securenetsystems.net/KFLS"
         },
     ],
     "kramer_junction": [

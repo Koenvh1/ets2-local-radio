@@ -2177,7 +2177,7 @@ var stations = {
         {
             name: "ENERGY München",
             logo: "stations/images-europe/germany-muenchen/Energy.png",
-            url: "https://scdn.nrjaudio.fm/adwz1/de/33003/mp3_128.mp3"
+            url: "https://frontend.streamonkey.net/energy-muenchen/stream/mp3"
         },
         {
             name: "95.5 Charivari",
@@ -2975,7 +2975,7 @@ var stations = {
         {
             name: "Radio Sportiva",
             logo: "stations/images-europe/italy/Radio Sportiva.png",
-            url: "https://mediahit.inmystream.it:9000/stream"
+            url: "https://sportiva.inmystream.it/stream/sportiva"
         },
         {
             name: "RTL 102.5",
@@ -5098,7 +5098,7 @@ var stations = {
         {
             name: "Radio LoRa",
             logo: "stations/images-europe/switzerland-de/Radio LoRa.png",
-            url: "https://lora.ice.infomaniak.ch/lora.mp3"
+            url: "https://stream.loratech.ch/lora.mp3"
         },
         {
             name: "Radio Maria Schweiz",
