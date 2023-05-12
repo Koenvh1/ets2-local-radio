@@ -38063,7 +38063,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1913/hls.m3u8"
         },
         {
-            name: "The Crook and Chase Countdown 101.9-HD2",
+            name: "The Crook & Chase Countdown 101.9-HD2",
             logo: "stations/images-america/c2c/oklahoma_city_ok/The Crook and Chase Countdown 101.9-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6921/hls.m3u8"
         },
@@ -38123,9 +38123,19 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOFMAAC_SC"
         },
         {
+            name: "Community Talk 890",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Community Talk 103.7.png",
+            url: "http://crystalout.surfernetwork.com:8001/KTLR_MP3"
+        },
+        {
             name: "1000 KTOK",
             logo: "stations/images-america/c2c/oklahoma_city_ok/1000 KTOK.png",
             url: "https://stream.revma.ihrhls.com/zc1909/hls.m3u8"
+        },
+        {
+            name: "Heart & Soul 1140",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Heart & Soul 92.1.png",
+            url: "https://crystalout.surfernetwork.com:8001/KRMP_MP3"
         },
         {
             name: "1340 The Game",
@@ -38136,6 +38146,11 @@ var stations_c2c = {
             name: "Sports Talk 1400",
             logo: "stations/images-america/c2c/oklahoma_city_ok/Sports Talk 1400.png",
             url: "https://ice9.securenetsystems.net/KREF"
+        },
+        {
+            name: "1520 KOKC",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/95.3 KOKC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
         },
         {
             name: "1560 The Franchise 2",
@@ -38151,7 +38166,7 @@ var stations_c2c = {
     "tulsa": [
         {
             name: "Classical 88.7",
-            logo: "stations/images-america/c2c/tulsa_ok/Tulsa Public Radio.png",
+            logo: "stations/images-america/c2c/tulsa_ok/Classical 88.7.png",
             url: "https://utulsa.streamguys1.com/KWTUHD1-MP3"
         },
         {
@@ -41058,7 +41073,7 @@ var stations_c2c = {
         {
             name: "88.5 WQOX",
             logo: "stations/images-america/c2c/memphis_tn/88.5 WQOX.png",
-            url: "https://live.wostreaming.net/manifest/shelbycounty-wqoxfmaac-ibc1"
+            url: "https://stream.radio.co/sc6b157a65/listen"
         },
         {
             name: "WYPL 89.3",
@@ -41126,6 +41141,11 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
+            name: "Bumpin' 96.3",
+            logo: "stations/images-america/c2c/memphis_tn/Bumpin' 96.3.png",
+            url: "https://stream1.flinn.com:8443/963onair.aac"
+        },
+        {
             name: "K97.1",
             logo: "stations/images-america/c2c/memphis_tn/K97.1.png",
             url: "https://stream.revma.ihrhls.com/zc2141/hls.m3u8"
@@ -41173,12 +41193,12 @@ var stations_c2c = {
         {
             name: "ROCK 102",
             logo: "stations/images-america/c2c/memphis_tn/ROCK 102.png",
-            url: "https://stream.revma.ihrhls.com/zc2133/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc4864/hls.m3u8"
         },
         {
             name: "102.7 KISS FM",
             logo: "stations/images-america/c2c/memphis_tn/102.7 KISS FM.png",
-            url: "https://stream.revma.ihrhls.com/zc4864/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc2133/hls.m3u8"
         },
         {
             name: "SUNNY 103",
