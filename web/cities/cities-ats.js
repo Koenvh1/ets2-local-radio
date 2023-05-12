@@ -1823,8 +1823,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "odessa": {
-        relative_radius: 0.3,
-        relative_whitenoise: 0.95
+        relative_radius: 0.6,
+        relative_whitenoise: 0.85
     },
     "olympia": {
         relative_radius: 0.5,
@@ -3487,9 +3487,9 @@ var cities = [
         "gameName": "odessa",
         "realName": "Odessa",
         "country": "midland_odessa",
-        "x": "-31548.6",
+        "x": "-31048.6",
         "y": "53.2095",
-        "z": "40292.8"
+        "z": "39292.8"
     },
     {
         "gameName": "olympia",

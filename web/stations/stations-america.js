@@ -17685,6 +17685,11 @@ var stations = {
     ],
     "vernal": [
         {
+            name: "K-LOVE 88.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "UPR 88.5",
             logo: "stations/images-america/0_general_logos/UPR.png",
             url: "http://uprxstreamer.usu.edu:8000/stream"
@@ -17702,32 +17707,62 @@ var stations = {
         {
             name: "92.5 Jack FM",
             logo: "stations/images-america/vernal/92.5 Jack FM.png",
-            url: "http://media2.stratanet.com:1935/jack/mylivestream_aac/playlist.m3u8"
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live/SB00206"
         },
         {
             name: "KNEU 93.5",
-            logo: "stations/images-america/vernal/KNEU 93.5.png",
-            url: "http://media2.stratanet.com:1935/kneu/mylivestream_aac/playlist.m3u8"
+            logo: "stations/images-america/vernal/KNEU.png",
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live/SB00205"
         },
         {
             name: "Channel X94",
             logo: "stations/images-america/vernal/Channel X94.png",
-            url: "http://channelx94.com:9302/;"
+            url: "https://s5.radio.co/sea8361925/listen"
+        },
+        {
+            name: "YNOP 95.5",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
         },
         {
             name: "The Fox 98.5",
             logo: "stations/images-america/vernal/The Fox 98.5.png",
-            url: "http://ashley.leanstream.co/KIFXFM"
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live/SB00204"
         },
         {
             name: "104.5 KVEL",
-            logo: "stations/images-america/vernal/104.5 KVEL.png",
-            url: "http://ashley.leanstream.co/KVELAM"
+            logo: "stations/images-america/vernal/KVEL.png",
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live/SB00203"
         },
         {
             name: "105.5 Eagle Country",
             logo: "stations/images-america/vernal/105.5 Eagle Country.png",
-            url: "http://ashley.leanstream.co/KLCYFM"
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live/SB00196"
+        },
+        {
+            name: "106.9 Radio Z",
+            logo: "stations/images-america/grand_junction_montrose/106.9 Radio Z.png",
+            url: "https://streaming.live365.com/a31868"
+        },
+        {
+            name: "55 Country",
+            logo: "stations/images-america/rangely/55 Country.png",
+            url: "https://ice6.securenetsystems.net/KRAIAM"
+        },
+        {
+            name: "KJOL 620",
+            logo: "stations/images-america/grand_junction_montrose/KJOL 99.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJOLFMAAC_SC"
+        },
+        {
+            name: "AM 950 KVEL",
+            logo: "stations/images-america/vernal/KVEL.png",
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live//SB00203"
+        },
+        {
+            name: "KNEU AM 1250",
+            logo: "stations/images-america/vernal/KNEU.png",
+            url: "http://185.106.98.26/index.php?u=http://evans-family-media.streamb.live//SB00205"
         },
     ],
     "victoria": [
