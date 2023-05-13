@@ -6499,6 +6499,12 @@ var country_properties_c2c = {
         code: "us-ga",
         relative_radius: 0.7
     },
+    "waycross": {
+        name: "Waycross",
+        name_english: "Waycross",
+        code: "us-ga",
+        relative_radius: 0.6
+    },
     "hilo": {
         name: "Hilo",
         name_english: "Hilo",
@@ -7880,6 +7886,9 @@ var city_properties_c2c = {
     "valdosta": {
         relative_whitenoise: 0.85
     },
+    "waycross": {
+        relative_whitenoise: 0.95
+    },
     "hilo": {
         relative_whitenoise: 0.90
     },
@@ -8776,6 +8785,14 @@ var cities_c2c = [
         "x": "61486.7",
         "y": "115.338",
         "z": "41379.2"
+    },
+    {
+        "gameName": "waycross",
+        "realName": "Waycross",
+        "country": "waycross",
+        "x": "65835.8",
+        "y": "58.0068",
+        "z": "36748"
     },
     {
         "gameName": "hilo",

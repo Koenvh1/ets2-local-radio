@@ -25362,7 +25362,124 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/valdosta_ga/107.9 The Beat.png",
             url: "https://ice9.securenetsystems.net/WWRQ"
         },  
-    ],	 	  
+    ],	 
+    "waycross": [
+        {
+            name: "90.1 GPB",
+            logo: "stations/images-america/0_general_logos/GPB.png",
+            url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
+        },
+        {
+            name: "SonLife Radio 88.5",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://live.radio.sonlife.olympusatmedia.com/index.m3u8"
+        }, 
+        {
+            name: "afr Hybrid 91.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "93.5 Vibe FM",
+            logo: "stations/images-america/c2c/waycross_ga/93.5 Vibe FM.png",
+            url: "https://ice24.securenetsystems.net/WVOH"
+        }, 
+        {
+            name: "Z94.5",
+            logo: "stations/images-america/c2c/waycross_ga/Z94.5.png",
+            url: "https://live.wostreaming.net/direct/southgeorgia-wbyzfmmp3-ibc2"
+        },
+        {
+            name: "Classic Rock 96.3",
+            logo: "stations/images-america/c2c/waycross_ga/WAYX.png",
+            url: "http://wayx.streamguys1.com/live"
+        },
+        {
+            name: "MyFM 97.1",
+            logo: "stations/images-america/c2c/waycross_ga/MyFM 97.1.png",
+            url: "https://s6.citrus3.com:8248/stream"
+        },
+        {
+            name: "WWUF 97.7",
+            logo: "stations/images-america/c2c/waycross_ga/WWUF 97.7.png",
+            url: "https://ice24.securenetsystems.net/WWUFFM"
+        },
+        {
+            name: "W253CI 98.5",
+            logo: "stations/images-america/c2c/waycross_ga/ESPN Coastal Georgia.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFNAMAAC_SC"
+        },
+        {
+            name: "The Promise 100.7",
+            logo: "stations/images-america/c2c/jacksonville_fl/The Promise 100.7.png",
+            url: "https://ice41.securenetsystems.net/WMUV"
+        },
+        {
+            name: "V101.5",
+            logo: "stations/images-america/c2c/jacksonville_fl/V101.5.png",
+            url: "https://stream.revma.ihrhls.com/zc533/hls.m3u8"
+        },
+        {
+            name: "101.9 The Rocket",
+            logo: "stations/images-america/c2c/waycross_ga/101.9 The Rocket.png",
+            url: "https://ice24.securenetsystems.net/WPNG"
+        },
+        {
+            name: "WYNR 102.5",
+            logo: "stations/images-america/c2c/waycross_ga/WYNR 102.5.png",
+            url: "https://stream.revma.ihrhls.com/zc6858/hls.m3u8"
+        },
+        {
+            name: "103Q",
+            logo: "stations/images-america/c2c/jacksonville_fl/103Q.png",
+            url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
+        },
+        {
+            name: "WKUB 105.1",
+            logo: "stations/images-america/c2c/waycross_ga/WKUB 105.1.png",
+            url: "https://ice42.securenetsystems.net/WKUB"
+        },
+        {
+            name: "Big Dog Country 105.5",
+            logo: "stations/images-america/c2c/waycross_ga/Big Dog Country 105.5.png",
+            url: "http://173.193.205.96:8336/;stream"
+        },
+        {
+            name: "106.7 The Buck",
+            logo: "stations/images-america/c2c/waycross_ga/106.7 The Buck.png",
+            url: "https://ice41.securenetsystems.net/WOKAFM"
+        },
+        {
+            name: "Kool 107.1",
+            logo: "stations/images-america/c2c/waycross_ga/Kool 107.1.png",
+            url: "https://ice24.securenetsystems.net/WSGTFM"
+        },
+        {
+            name: "550 Way Radio",
+            logo: "stations/images-america/c2c/jacksonville_fl/550 Way Radio.png",
+            url: "https://ice7.securenetsystems.net/WAYRAM"
+        },
+        {
+            name: "WBOB 600",
+            logo: "stations/images-america/c2c/jacksonville_fl/WBOB 101.1.png",
+            url: "https://ice41.securenetsystems.net/WBOB"
+        },
+        {
+            name: "ESPN 690",
+            logo: "stations/images-america/c2c/jacksonville_fl/ESPN 690.png",
+            url: "https://cmg.streamguys1.com/jac690/jac690-sgplayer-aac"
+        },
+        {
+            name: "WAYX 1230",
+            logo: "stations/images-america/c2c/waycross_ga/WAYX.png",
+            url: "https://wayx.streamguys1.com/live"
+        },
+        {
+            name: "WFNS 1390",
+            logo: "stations/images-america/c2c/waycross_ga/ESPN Coastal Georgia.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFNAMAAC.aac"
+        },
+    ],	  
     "hilo": [
         {
             name: "K-LOVE 88.7",
