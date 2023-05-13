@@ -41515,9 +41515,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4878/hls.m3u8"
         },
         {
+            name: "WNSR 560",
+            logo: "stations/images-america/c2c/nashville_tn/WNSR 95.9.png",
+            url: "https://shout.wnsr.com:8989/stream"
+        },
+        {
             name: "650 WSM",
             logo: "stations/images-america/c2c/nashville_tn/650 WSM.png",
             url: "http://stream01048.westreamradio.com/wsm-am-mp3"
+        },
+        {
+            name: "Activa 1240",
+            logo: "stations/images-america/c2c/nashville_tn/Activa 105.1.png",
+            url: "http://ice66.securenetsystems.net/WNVL"
         },
         {
             name: "1510 WLAC",
