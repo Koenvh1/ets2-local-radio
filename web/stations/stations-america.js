@@ -33250,6 +33250,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSFMAAC_SC"
         },
         {
+            name: "103.3 KPRS-HD2",
+            logo: "stations/images-america/c2c/kansascity_mo/RNB 106.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC.aac"
+        },
+        {
             name: "KCMO 103.7",
             logo: "stations/images-america/c2c/kansascity_mo/KCMO 103.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOAMAAC_SC"
@@ -33283,6 +33288,11 @@ var stations_c2c = {
             name: "106.5 The Wolf",
             logo: "stations/images-america/c2c/kansascity_mo/106.5 The Wolf.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wdaffmaac-imc"
+        },
+        {
+            name: "RNB 106.9",
+            logo: "stations/images-america/c2c/kansascity_mo/RNB 106.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC_SC"
         },
         {
             name: "107.3",
@@ -39023,8 +39033,8 @@ var stations_c2c = {
             url: "https://ic1.sslstream.com/wurd-am"
         },
         {
-            name: "96.5 TDY",
-            logo: "stations/images-america/c2c/philadelphia_pa/96.5 TDY.png",
+            name: "The New 96.5",
+            logo: "stations/images-america/c2c/philadelphia_pa/The New 96.5.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wtdyfmaac-imc"
         },
         {
