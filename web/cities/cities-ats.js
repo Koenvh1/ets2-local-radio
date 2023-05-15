@@ -6536,10 +6536,16 @@ var country_properties_c2c = {
         relative_radius: 1.0
     },
     "bloomington_il": {
-        name: "bloomington_il",
-        name_english: "bloomington_il",
+        name: "Bloomington",
+        name_english: "Bloomington",
         code: "us-il",
-        relative_radius: 0.8
+        relative_radius: 0.7
+    },
+    "champaign_il": {
+        name: "Champaign",
+        name_english: "Champaign",
+        code: "us-il",
+        relative_radius: 0.5
     },
     "chicago": {
         name: "chicago",
@@ -7902,7 +7908,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "bloomington_il": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
+    },
+    "champaign_il": {
+        relative_whitenoise: 0.95
     },
     "chicago": {
         relative_whitenoise: 0.75
@@ -8833,6 +8842,14 @@ var cities_c2c = [
         "x": "30066.2",
         "y": "9.52509",
         "z": "-9248.75"
+    },
+    {
+        "gameName": "champaign_il",
+        "realName": "Champaign",
+        "country": "champaign_il",
+        "x": "33836.7",
+        "y": "12.3264",
+        "z": "-7500.1"
     },
     {
         "gameName": "chicago",

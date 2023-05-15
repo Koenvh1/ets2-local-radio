@@ -25860,6 +25860,11 @@ var stations_c2c = {
             url: "https://wglt-ice.streamguys1.com/highway309-mp3"
         },
         {
+            name: "Great News Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "https://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
             name: "WILL 90.9",
             logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
             url: "https://icecast.will.illinois.edu/WILLFM-48"
@@ -25920,6 +25925,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBWNFMAAC_SC"
         },
         {
+            name: "Great News Radio 104.7",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "http://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
             name: "105.7 The X",
             logo: "stations/images-america/c2c/bloomington_il/105.7 The X.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIXOFMAAC_SC"
@@ -25943,6 +25953,158 @@ var stations_c2c = {
             name: "1520 WHOW",
             logo: "stations/images-america/c2c/bloomington_il/1520 WHOW.png",
             url: "http://185.106.98.26/index.php?u=https://ice7.securenetsystems.net/WHOW"
+        },
+    ],
+    "champaign_il": [
+        {
+            name: "Air1 88.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "88.7 WPCD FM",
+            logo: "stations/images-america/c2c/champaign_il/88.7 WPCD FM.png",
+            url: "https://ice24.securenetsystems.net/WPCD"
+        },
+        {
+            name: "Great News Radio 89.3",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "https://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
+            name: "WEFT 90.1 fm",
+            logo: "stations/images-america/c2c/champaign_il/WEFT 90.1 fm.png",
+            url: "http://s9.viastreaming.net:7510/;&type=mp3"
+        },
+        {
+            name: "WILL 90.9",
+            logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
+            url: "https://icecast.will.illinois.edu/WILLFM-48"
+        },
+        {
+            name: "WBGL 91.7",
+            logo: "stations/images-america/c2c/champaign_il/WBGL 91.7.png",
+            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+        },
+        {
+            name: "Rewind 92.5",
+            logo: "stations/images-america/c2c/champaign_il/Rewind 92.5.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wreefmaac-ibc1"
+        },
+        {
+            name: "ESPN 93.5",
+            logo: "stations/images-america/c2c/champaign_il/ESPN 93.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSJKFMAAC_SC"
+        },
+        {
+            name: "WDWS Newstalk 93.9",
+            logo: "stations/images-america/c2c/champaign_il/WDWS Newstalk 1400.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDWSAMAAC.aac"
+        },
+        {
+            name: "Mix 94.5",
+            logo: "stations/images-america/c2c/champaign_il/Mix 94.5.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wlrwfmaac-ibc1"
+        },
+        {
+            name: "eXtra 96.9",
+            logo: "stations/images-america/c2c/champaign_il/eXtra 96.9.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/saga-wixyhd2aac-imc"
+        },
+        {
+            name: "WHMS 97.5",
+            logo: "stations/images-america/c2c/champaign_il/WHMS 97.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHMSFMAAC_SC"
+        },	
+        {
+            name: "WYXY Classic 99.1",
+            logo: "stations/images-america/c2c/champaign_il/WYXY Classic 99.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wyxyfmaac-ibc1"
+        },
+        {
+            name: "EZ 99.7",
+            logo: "stations/images-america/c2c/champaign_il/EZ 99.7.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/saga-wixyhd3aac-imc"
+        },
+        {
+            name: "WIXY 100.3",
+            logo: "stations/images-america/c2c/champaign_il/WIXY 100.3.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/saga-wixyfmaac-ibc1"
+        },
+        {
+            name: "W266AF 101.1",
+            logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
+            url: "https://icecast.will.illinois.edu/WILL-mp3-48"
+        },
+        {
+            name: "D102",
+            logo: "stations/images-america/c2c/champaign_il/D102.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDNLFMAAC_SC"
+        },
+        {
+            name: "WGNN 103.9",
+            logo: "stations/images-america/c2c/champaign_il/WGNN 103.9.png",
+            url: "https://ais-sa1.streamon.fm/7667_48k.aac"
+        },
+        {
+            name: "Radio Free Urbana 104.5",
+            logo: "stations/images-america/c2c/champaign_il/Radio Free Urbana 104.5.png",
+            url: "http://stream.wrfu.net:8000/airtime_ogg320"
+        },
+        {
+            name: "HOT 105.5",
+            logo: "stations/images-america/c2c/champaign_il/HOT 105.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCZQFMAAC_SC"
+        },
+        {
+            name: "W293DB 106.5",
+            logo: "stations/images-america/c2c/champaign_il/Radio Variedades.png",
+            url: "http://173.193.205.96:7055/stream"
+        },
+        {
+            name: "WPGU 107.1",
+            logo: "stations/images-america/c2c/champaign_il/WPGU 107.1.png",
+            url: "https://ice64.securenetsystems.net/WPGUFM"
+        },
+        {
+            name: "107.9 WKIO",
+            logo: "stations/images-america/c2c/champaign_il/HOT 105.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKIOFMAAC_SC"
+        },
+        {
+            name: "670 The Score",
+            logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "WGN Radio 720",
+            logo: "stations/images-america/c2c/chicago_il/WGN Radio 720.png",
+            url: "https://live.wostreaming.net/manifest/wgnam-wgnamaac-ibc2"
+        },
+        {
+            name: "WLS 890",
+            logo: "stations/images-america/c2c/chicago_il/WLS 890.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
+        },
+        {
+            name: "ESPN 1000",
+            logo: "stations/images-america/c2c/chicago_il/ESPN 1000.png",
+            url: "https://live.wostreaming.net/manifest/goodkarma-wmvpamaac-ibc1"
+        },
+        {
+            name: "WJBC AM 1230",
+            logo: "stations/images-america/c2c/bloomington_il/WJBC AM 1230.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCAMAAC_SC"
+        },
+        {
+            name: "WDWS Newstalk 1400",
+            logo: "stations/images-america/c2c/champaign_il/WDWS Newstalk 1400.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDWSAMAAC_SC"
+        },
+        {
+            name: "Radio Variedades 1460",
+            logo: "stations/images-america/c2c/champaign_il/Radio Variedades.png",
+            url: "http://173.193.205.96:7055//stream"
         },
     ],
     "chicago": [
@@ -26590,6 +26752,11 @@ var stations_c2c = {
             name: "104.5 WFMB",
             logo: "stations/images-america/c2c/springfield_il/104.5 WFMB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBFMAAC_SC"
+        },
+        {
+            name: "Great News Radio 105.3",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "http://ais-sa1.streamon.fm/7668_48k.aac"
         },
     ],
     "evansville_in": [
