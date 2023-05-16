@@ -26068,7 +26068,7 @@ var stations_c2c = {
         },
         {
             name: "107.9 WKIO",
-            logo: "stations/images-america/c2c/champaign_il/HOT 105.5.png",
+            logo: "stations/images-america/c2c/champaign_il/107.9 WKIO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKIOFMAAC_SC"
         },
         {
@@ -27733,11 +27733,6 @@ var stations_c2c = {
             name: "103.7 WLLR-HD2",
             logo: "stations/images-america/c2c/davenport_ia/ALT 104.5.png",
             url: "http://stream.revma.ihrhls.com/zc6959/hls.m3u8"
-        },
-        {
-            name: "K283BV 104.5",
-            logo: "stations/images-america/c2c/davenport_ia/ESPN 1170.png",
-            url: "http://live.wostreaming.net/manifest/townsquare-kbobamaac-ibc3"
         },
         {
             name: "ALT 104.5",
