@@ -8443,6 +8443,11 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
+            name: "KOOL 93.5",
+            logo: "stations/images-america/lamar/KOOL 93.5.png",
+            url: "https://streaming.live365.com/a58850"
+        },
+        {
             name: "KVAY 105.7",
             logo: "stations/images-america/lamar/KVAY 105.7.png",
             url: "https://live.wostreaming.net/manifest/beacon-kvayfmaac-ibc4"
@@ -8451,6 +8456,11 @@ var stations = {
             name: "KOA 850",
             logo: "stations/images-america/denver/KOA 94.1.png",
             url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
+        },
+        {
+            name: "AM920 The Country Giant",
+            logo: "stations/images-america/lamar/AM920 The Country Giant.png",
+            url: "https://streaming.live365.com/a20038"
         },
     ],
     "langtry": [
