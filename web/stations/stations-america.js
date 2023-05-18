@@ -2691,9 +2691,9 @@ var stations = {
     ],
     "cedar_city": [
         {
-            name: "Crossover 88.9",
-            logo: "stations/images-america/cedar_city/Crossover 88.9 FM.png",
-            url: "https://ic2.sslstream.com/kchg-fm"
+            name: "CrossOver FM 88.7",
+            logo: "stations/images-america/cedar_city/CrossOver FM 88.9.png",
+            url: "https://ice8.securenetsystems.net/KCHG"
         },
         {
             name: "KUER 90.1",
@@ -3183,12 +3183,12 @@ var stations = {
             url: "https://ice24.securenetsystems.net/PEACE107"
         },
     ],
-    "colorado_springs_pueblo": [
+    "colorado_springs_pueblo": [/*
         {
             name: "KTPL Word 88.3",
             logo: "stations/images-america/colorado_springs_pueblo/KTPL Word 88.3.png",
             url: "https://stream.ktlf.radio/radio/8020/ktpl"
-        },
+        },*/
         {
             name: "The Legacy 88.3-HD2",
             logo: "stations/images-america/colorado_springs_pueblo/The Legacy 88.3-HD2.png",
@@ -3280,6 +3280,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4596/hls.m3u8"
         },
         {
+            name: "K249FK 97.7",
+            logo: "stations/images-america/colorado_springs_pueblo/107.3 Mountain Country.png",
+            url: "https://ice10.securenetsystems.net//KQSC"
+        },
+        {
             name: "98.1 KKFM",
             logo: "stations/images-america/colorado_springs_pueblo/98.1 KKFM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKFMFMAAC_SC"
@@ -3315,6 +3320,11 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KXGRFM"
         },
         {
+            name: "101.9 KDZA",
+            logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
+            url: "https://ice8.securenetsystems.net/KDZA"
+        },
+        {
             name: "eXtra Music 102.1",
             logo: "stations/images-america/denver/eXtra Music 102.1.png",
             url: "https://ice6.securenetsystems.net/KXRE"
@@ -3345,8 +3355,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc357/hls.m3u8"
         },
         {
-            name: "Mountain Country 107.3",
-            logo: "stations/images-america/colorado_springs_pueblo/Mountain Country 97.7.png",
+            name: "107.3 Mountain Country",
+            logo: "stations/images-america/colorado_springs_pueblo/107.3 Mountain Country.png",
             url: "https://ice10.securenetsystems.net/KQSC"
         },
         {
@@ -3390,6 +3400,11 @@ var stations = {
             url: "https://ice24.securenetsystems.net/KRCN"
         },
         {
+            name: "1230 KDZA",
+            logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
+            url: "http://ice8.securenetsystems.net/KDZA"
+        },
+        {
             name: "Que Bueno 1280",
             logo: "stations/images-america/colorado_springs_pueblo/Que Bueno 1280.png",
             url: "http://ca3.rcast.net:8038/;stream.mp3"
@@ -3403,6 +3418,11 @@ var stations = {
             name: "FOX Sports 1350",
             logo: "stations/images-america/colorado_springs_pueblo/Fox Sports 1350.png",
             url: "https://stream.revma.ihrhls.com/zc4015/hls.m3u8"
+        },
+        {
+            name: "KQSC-AM 1530",
+            logo: "stations/images-america/colorado_springs_pueblo/107.3 Mountain Country.png",
+            url: "http://ice10.securenetsystems.net/KQSC"
         },
     ],
     "colville": [
@@ -3548,7 +3568,7 @@ var stations = {
         {
             name: "91.7 KBNJ",
             logo: "stations/images-america/texas/corpus_christi/91.7 KBNJ.png",
-            url: "https://ic2.sslstream.com/kbnj-fm"
+            url: "https://wrn.streamguys1.com/kbnj"
         },
         {
             name: "ROCK 92.7",
@@ -4190,7 +4210,7 @@ var stations = {
         {
             name: "88.5 KVFE",
             logo: "stations/images-america/texas/del_rio/88.5 KVFE.png",
-            url: "https://ic2.sslstream.com/kvfe-fm"
+            url: "https://wrn.streamguys1.com/kvfe"
         },
         {
             name: "KTPD 89.3",
@@ -4725,7 +4745,7 @@ var stations = {
         {
             name: "88.7 KEPI",
             logo: "stations/images-america/texas/eagle_pass/88.7 KEPI.png",
-            url: "https://ic2.sslstream.com/kepi-fm"
+            url: "https://wrn.streamguys1.com/kepi"
         },
         {
             name: "89.5 KEPX",
@@ -4817,7 +4837,7 @@ var stations = {
         {
             name: "Manantial 91.9",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
-            url: "http://ic2.christiannetcast.com/kyrm-fm"
+            url: "https://wrn.streamguys1.com/kyrm"
         },
         {
             name: "K292AH 106.3",
@@ -4906,7 +4926,7 @@ var stations = {
         {
             name: "Manantial 91.1",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
-            url: "http://ic2.christiannetcast.com/kyrm-fm"
+            url: "https://wrn.streamguys1.com/kyrm"
         },
         {
             name: "Family Radio 91.7",
@@ -5648,6 +5668,11 @@ var stations = {
             url: "https://ice.wbcengineering.com:8120/stream"
         },
         {
+            name: "ESPN 104.7",
+            logo: "stations/images-america/flagstaff/600 KVNA.png",
+            url: "http://t1.streamguys1.com/sgtest-espn"
+        },
+        {
             name: "KVRD Country 105.7",
             logo: "stations/images-america/flagstaff/KVRD Country 105.7.png",
             url: "https://live.wostreaming.net/direct/yavapai-kvrdfmaac-ibc1"
@@ -5670,12 +5695,17 @@ var stations = {
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
+            url: "https://t1.streamguys1.com/sgtest-espn"
         },
         {
             name: "780 KAZM",
             logo: "stations/images-america/flagstaff/780 KAZM.png",
             url: "https://ice9.securenetsystems.net/KAZM"
+        },
+        {
+            name: "KAFF-AM 930",
+            logo: "stations/images-america/flagstaff/93.5 KAFF Country Legends.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC.aac"
         },
         {
             name: "KQNA 1130",
@@ -6213,11 +6243,31 @@ var stations = {
             name: "KNAU 90.3",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
-        },
+        },/*
         {
             name: "KUGO 102.5",
             logo: "stations/images-america/g_canyon_vlg/KUGO 102.5.png",
             url: "http://stream.affordablestreaming.com:8000/KUGO-1.mp3"
+        },*/
+        {
+            name: "KSUB 590",
+            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ksubamaac-ibc3"
+        },
+        {
+            name: "600 KVNA",
+            logo: "stations/images-america/flagstaff/600 KVNA.png",
+            url: "https://t1.streamguys1.com/sgtest-espn"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "KAFF-AM 930",
+            logo: "stations/images-america/flagstaff/93.5 KAFF Country Legends.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
         },
     ],
     "grand_junction_montrose": [
@@ -7656,8 +7706,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
         },
         {
-            name: "iMix 92.3",
-            logo: "stations/images-america/jackson/iMix 92.3.png",
+            name: "92.3 iMix",
+            logo: "stations/images-america/jackson/92.3 iMix.png",
             url: "http://nebcoradio.com:1010/KIXM"
         },
         {
@@ -8561,7 +8611,7 @@ var stations = {
         {
             name: "Manantial 89.9",
             logo: "stations/images-america/texas/laredo/Manantial 89.9.png",
-            url: "https://ic2.sslstream.com/kbnl-fm"
+            url: "https://wrn.streamguys1.com/kbnl"
         },
         {
             name: "La Raza 90.9",
@@ -9312,7 +9362,7 @@ var stations = {
         {
             name: "KSPC 88.7",
             logo: "stations/images-america/los_angeles/KSPC 88.7.png",
-            url: "http://37.187.79.93:8419/stream192"
+            url: "https://kspc.radioca.st/stream"
         },
         {
             name: "KXLU 88.9",
@@ -9751,7 +9801,7 @@ var stations = {
         {
             name: "Walk by Faith Radio 98.7",
             logo: "stations/images-america/texas/lubbock/Walk by Faith Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC589_SC"
+            url: "https://streaming.live365.com/a90376"
         },
         {
             name: "99.1 Chap Radio",
@@ -9851,7 +9901,7 @@ var stations = {
         {
             name: "Walk by Faith Radio 1420",
             logo: "stations/images-america/texas/lubbock/Walk by Faith Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM01AAC589.mp3"
+            url: "http://streaming.live365.com/a90376"
         },
         {
             name: "TUDN Radio 1460",
@@ -9948,9 +9998,9 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KQBB"
         },	
         {
-            name: "103 The Bull",
-            logo: "stations/images-america/texas/lufkin/103 The Bull.png",
-            url: "https://us2.maindigitalstream.com/ssl/KJCS"
+            name: "Willy 103.3",
+            logo: "stations/images-america/texas/lufkin/Willy 103.3.png",
+            url: "https://ice42.securenetsystems.net/KJCS"
         },	
         {
             name: "KICKS 105",
@@ -10048,7 +10098,7 @@ var stations = {
         {
             name: "Manantial 88.3",
             logo: "stations/images-america/texas/mcallen_brownsville/Manantial 88.3.png",
-            url: "https://ic2.sslstream.com/kbnr-fm"
+            url: "https://wrn.streamguys1.com/kbnr"
         },
         {
             name: "Radio Esperanza 88.5",
@@ -10113,7 +10163,7 @@ var stations = {
         {
             name: "96.9 KVMV",
             logo: "stations/images-america/texas/mcallen_brownsville/96.9 KVMV.png",
-            url: "https://ic2.sslstream.com/kvmv-fm"
+            url: "https://wrn.streamguys1.com/kvmv"
         },
         {
             name: "Los 40 97.7",
@@ -11152,7 +11202,7 @@ var stations = {
         {
             name: "All Classical 88.1",
             logo: "stations/images-america/portland/All Classical 89.9.png",
-            url: "http://allclassical-ice.streamguys.com:80/ac96kmp3"
+            url: "https://allclassical.streamguys1.com/ac128kmp3"
         },
         {
             name: "ICAN Radio 88.1-HD2",
@@ -12019,7 +12069,7 @@ var stations = {
         {
             name: "ICI Musique 88.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "KNKX 89.3",
@@ -12121,7 +12171,7 @@ var stations = {
         {
             name: "All Classical 89.9",
             logo: "stations/images-america/portland/All Classical 89.9.png",
-            url: "http://allclassical-ice.streamguys.com:80/ac96kmp3"
+            url: "https://allclassical.streamguys1.com/ac128kmp3"
         },
         {
             name: "ICAN Radio 89.9-HD2",
@@ -12346,7 +12396,7 @@ var stations = {
         {
             name: "La Pantera 940",
             logo: "stations/images-america/portland/La Pantera 940.png",
-            url: "https://bustosradio.com:9036/kwby"
+            url: "https://stream.rcast.net/61661"
         },
         {
             name: "1080 The Fan",
@@ -13420,6 +13470,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4314/hls.m3u8"
         },
         {
+            name: "Radio Lazer 94.3",
+            logo: "stations/images-america/sacramento/Radio Lazer 94.3.png",
+            url: "https://ice8.securenetsystems.net/KGRB"
+        },
+        {
             name: "ALT 94.7",
             logo: "stations/images-america/sacramento/ALT 94.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-kkdofmaac-imc"
@@ -13495,11 +13550,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4455/hls.m3u8"
         },
         {
-            name: "101.5 K-Hits",
-            logo: "stations/images-america/sacramento/101.5 K-Hits.png",
-            url: "http://185.106.98.26/index.php?u=https://ice24.securenetsystems.net/KCCL"
-        },
-        {
             name: "Fuego 101.9",
             logo: "stations/images-america/sacramento/Fuego 101.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHHMFMAAC_SC"
@@ -13508,6 +13558,11 @@ var stations = {
             name: "102.5 KSFM",
             logo: "stations/images-america/sacramento/102.5 KSFM.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-ksfmfmaac-imc"
+        },
+        {
+            name: "Radio Lazer 103.3",
+            logo: "stations/images-america/sacramento/Radio Lazer 94.3.png",
+            url: "http://ice8.securenetsystems.net/KGRB"
         },
         {
             name: "Real Country 103.5",
@@ -14501,7 +14556,7 @@ var stations = {
         {
             name: "1400 ESPN",
             logo: "stations/images-america/santa_fe/1400 ESPN.png",
-            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
+            url: "https://t1.streamguys1.com/sgtest-espn"
         },
     ],
     "santa_maria": [
@@ -15407,7 +15462,7 @@ var stations = {
         {
             name: "KTIM 89.1",
             logo: "stations/images-america/texas/schulenburg/KTIM 89.1.png",
-            url: "https://nustream.pacificaservice.org:9000/ktim_128"
+            url: "https://stream.pacificaservice.org:9000/ktim_128"
         },
         {
             name: "92.3 KNRG",
@@ -16587,6 +16642,11 @@ var stations = {
     ],
     "st_george": [
         {
+            name: "CrossOver FM 88.9",
+            logo: "stations/images-america/cedar_city/CrossOver FM 88.9.png",
+            url: "https://ice8.securenetsystems.net/KCHG"
+        },
+        {
             name: "SOS Radio 89.9",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
             url: "https://ic2.sslstream.com/sosnet.mp3"
@@ -16617,8 +16677,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYLIFMAAC_SC"
         },
         {
-            name: "St George News Radio 97.1",
-            logo: "stations/images-america/st_george/St George News Radio 1450.png",
+            name: "Patriot Radio 97.1",
+            logo: "stations/images-america/st_george/Patriot Radio.png",
             url: "https://ice10.securenetsystems.net/KZNU2"
         },
         {
@@ -16697,8 +16757,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kdxuamaac-ibc3"
         },
         {
-            name: "St George News Radio 1450",
-            logo: "stations/images-america/st_george/St George News Radio 1450.png",
+            name: "Patriot Radio 1450",
+            logo: "stations/images-america/st_george/Patriot Radio.png",
             url: "http://ice10.securenetsystems.net/KZNU2"
         },
     ],
@@ -16847,7 +16907,7 @@ var stations = {
         {
             name: "All Classical 88.1",
             logo: "stations/images-america/portland/All Classical 89.9.png",
-            url: "https://allclassical-ice.streamguys.com/ac96kmp3"
+            url: "https://allclassical.streamguys1.com/ac128kmp3"
         },
         {
             name: "ICAN Radio 88.1-HD2",
@@ -16882,7 +16942,7 @@ var stations = {
         {
             name: "All Classical 96.3",
             logo: "stations/images-america/portland/All Classical 89.9.png",
-            url: "http://allclassical-ice.streamguys.com/ac96kmp3"
+            url: "http://allclassical.streamguys1.com/ac128kmp3"
         },
         {
             name: "96.9 KCGB",
@@ -18472,7 +18532,7 @@ var stations = {
         {
             name: "Manantial 91.9",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
-            url: "http://ic2.christiannetcast.com/kyrm-fm"
+            url: "https://wrn.streamguys1.com/kyrm"
         },/*
         {
             name: "Z93",
@@ -18683,7 +18743,7 @@ var stations_mexico = {
         {
             name: "Manantial 91.7",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
-            url: "http://ic2.christiannetcast.com/kyrm-fm"
+            url: "https://wrn.streamguys1.com/kyrm"
         },
         {
             name: "Radio Alcance 92.7",
@@ -22262,7 +22322,7 @@ var stations_c2c = {
         {
             name: "KABF 88.3",
             logo: "stations/images-america/c2c/little_rock_ar/KABF 88.3.png",
-            url: "http://173.193.205.96:7489/stream"
+            url: "https://cast.acornradio.org/kabf"
         },
         {
             name: "KUAR 89.1",
@@ -24551,7 +24611,7 @@ var stations_c2c = {
         {
             name: "Retro FM 102.1",
             logo: "stations/images-america/c2c/albany_ga/Retro FM 102.1.png",
-            url: "https://fwd.autopo.st/streamfailover/JetStream1021Albany"
+            url: "https://cast.az-streamingserver.com/proxy/ptzdvxke?mp=%2Fstream"
         },
         {
             name: "Rock 103",
@@ -24566,7 +24626,7 @@ var stations_c2c = {
         {
             name: "107.7 NOW FM",
             logo: "stations/images-america/c2c/albany_ga/107.7 NOW FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEGCFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNOUFMAAC_SC"
         },
         {
             name: "960 WJYZ",
@@ -27625,7 +27685,7 @@ var stations_c2c = {
         {
             name: "1350 ESPN",
             logo: "stations/images-america/c2c/desmoines_ia/1350 ESPN.png",
-            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
+            url: "https://t1.streamguys1.com/sgtest-espn"
         },
         {
             name: "1430 KASI",
@@ -31320,7 +31380,7 @@ var stations_c2c = {
         {
             name: "ICI Musique 103.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "104.3 WOMC",
@@ -43651,7 +43711,7 @@ var stations_canada = {
         {
             name: "ICI Musique 89.7",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "90.3 AMP",
@@ -43773,7 +43833,7 @@ var stations_canada = {
         {
             name: "ICI Musique 88.3",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "ICI Première 90.3",
@@ -43815,7 +43875,7 @@ var stations_canada = {
         {
             name: "Le Loup 98.9",
             logo: "stations/images-america/canada/sudbury/Le Loup 98.9.png",
-            url: "http://stream.statsradio.com:8066/stream"
+            url: "https://stream.statsradio.com:8130/stream"
         },
         {
             name: "JJAM 100.7",
@@ -43857,7 +43917,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 106.5",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "CIAM 107.5",
@@ -43993,7 +44053,7 @@ var stations_canada = {
         {
             name: "ICI Musique 101.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBCXFM_SC"
         },
         {
             name: "Connect 101.7",
@@ -44179,7 +44239,7 @@ var stations_canada = {
         {
             name: "ICI Musique 88.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBALFM_SC"
         },
         {
             name: "Q88.9",
@@ -44286,7 +44346,7 @@ var stations_canada = {
         {
             name: "ICI Musique 90.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "Radio Gaspésie 94.5",
@@ -44320,7 +44380,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 98.3",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "102.3 K-ROCK",
@@ -44357,7 +44417,7 @@ var stations_canada = {
         {
             name: "ICI Musique 91.5",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7EMCT0_MCT"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBALFM_SC"
         },
         {
             name: "ICI Première 92.3",
@@ -44579,7 +44639,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 95.1",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "ICI Première 96.5",
@@ -44777,7 +44837,7 @@ var stations_canada = {
         {
             name: "UCB Canada 100.5",
             logo: "stations/images-america/canada/kingston/UCB Radio 100.5.png",
-            url: "https://ice24.securenetsystems.net/KING1005"
+            url: "https://ice24.securenetsystems.net/BELL1023"
         },
         {
             name: "Oldies 100.9",
@@ -44859,7 +44919,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 102.5",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
     ],
     "laclabiche": [
@@ -44945,7 +45005,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 94.5",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "CBC Music 98.7",
@@ -45029,7 +45089,7 @@ var stations_canada = {
         {
             name: "ICI Musique 99.3",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "faith FM 99.9",
@@ -45101,7 +45161,7 @@ var stations_canada = {
         {
             name: "ICI Musique 91.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "ICI Première 91.9",
@@ -45242,7 +45302,7 @@ var stations_canada = {
         {
             name: "ICI Musique 107.5",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBOXFM_SC"
         },
     ],
     "merrit": [
@@ -45311,7 +45371,7 @@ var stations_canada = {
         {
             name: "ICI Musique 98.3",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBALFM_SC"
         },
         {
             name: "Choix 99",
@@ -45423,7 +45483,7 @@ var stations_canada = {
         {
             name: "ICI Musique 100.7",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "CIBL 101.5",
@@ -45686,7 +45746,7 @@ var stations_canada = {
         {
             name: "TSN 1050",
             logo: "stations/images-america/canada/toronto/TSN 1050.png",
-            url: "http://192.99.6.159:3900/index.php?ats=http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHUMAMAAC_SC"
         },
     ],
     "osoyoos": [
@@ -45815,7 +45875,7 @@ var stations_canada = {
         {
             name: "ICI Musique 102.5",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBOXFM_SC"
         },
         {
             name: "CBC Music 103.3",
@@ -46060,7 +46120,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 107.3",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
     ],
     "princerupert": [
@@ -46089,7 +46149,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 92.1",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "CBC Radio One 93.1",
@@ -46151,7 +46211,7 @@ var stations_canada = {
         {
             name: "ICI Musique 95.3",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QQUE0_QUE"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBVXFM_SC"
         },
         {
             name: "CBC Music 96.1",
@@ -46206,7 +46266,7 @@ var stations_canada = {
         {
             name: "Sortir FM 106.9",
             logo: "stations/images-america/canada/quebec/Sortir FM 106.9.png",
-            url: "http://69.67.15.162:8000/stream"
+            url: "http://69.67.15.163:8000/stream"
         },
         {
             name: "107.5 Rouge",
@@ -46223,7 +46283,7 @@ var stations_canada = {
         {
             name: "ICI Musique 90.7",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OOTT0_OTT"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBOXFM_SC"
         },
         {
             name: "CFYX 93.3",
@@ -46238,7 +46298,7 @@ var stations_canada = {
         {
             name: "CHME 94.9",
             logo: "stations/images-america/canada/rdl/CHME 94.9.png",
-            url: "http://174.142.215.249:8670/;audio.mp3"
+            url: "https://centova.radioservers.biz/proxy/chmeclau/stream;audio.mp3"
         },
         {
             name: "95.7 KYK",
@@ -46270,7 +46330,7 @@ var stations_canada = {
         {
             name: "ICI Musique 88.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSBFM_SC"
         },
         {
             name: "MBC Radio 90.3",
@@ -46345,14 +46405,14 @@ var stations_canada = {
     ],
     "rouynnoranda": [
         {
-            name: "88.7 Chic FM",
-            logo: "stations/images-america/canada/rouynnoranda/88.7 Chic FM.png",
-            url: "http://167.114.155.111:8888/chicradio.mp3"
+            name: "Chic 88,7 fm",
+            logo: "stations/images-america/canada/rouynnoranda/Chic 88,7 fm.png",
+            url: "https://free.rcast.net/68435"
         },
         {
             name: "ICI Musique 89.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "ICI Première 90.7",
@@ -46441,7 +46501,7 @@ var stations_canada = {
         {
             name: "ICI Musique 100.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QSAG0_SAG"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBJXFM_SC"
         },
         {
             name: "CBC Radio One 102.7",
@@ -46468,7 +46528,7 @@ var stations_canada = {
         {
             name: "ICI Musique 88.7",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSBFM_SC"
         },
         {
             name: "CFCR 90.5",
@@ -46637,12 +46697,12 @@ var stations_canada = {
         {
             name: "Plaisir 94.1",
             logo: "stations/images-america/canada/septiles/Plaisir 94.1.png",
-            url: "https://stream.statsradio.com:8034/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKCN_FMAAC_SC"
         },
         {
             name: "ICI Musique 96.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://sc1.yul.llnw.net/stream/cbcmp3_M-7AEDM0_EDM"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "CBC Radio One 96.9",
@@ -46657,7 +46717,7 @@ var stations_canada = {
         {
             name: "O99,1",
             logo: "stations/images-america/canada/septiles/O99,1.png",
-            url: "https://stream.statsradio.com:8020/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CIPC_FMAAC_SC"
         },
     ],
     "stewart": [
@@ -46686,7 +46746,7 @@ var stations_canada = {
         {
             name: "ICI Musique 90.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7OSUB0_SUB"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBBXFM_SC"
         },
         {
             name: "Pure Country 91.7",
@@ -46721,7 +46781,7 @@ var stations_canada = {
         {
             name: "Le Loup 98.9",
             logo: "stations/images-america/canada/sudbury/Le Loup 98.9.png",
-            url: "http://stream.statsradio.com:8066/stream"
+            url: "https://stream.statsradio.com:8130/stream"
         },
         {
             name: "CBC Radio One 99.9",
@@ -46899,7 +46959,7 @@ var stations_canada = {
         {
             name: "ICI Musique 90.3",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "JAZZ.FM91",
@@ -47133,7 +47193,7 @@ var stations_canada = {
         {
             name: "ICI Musique 90.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
         },
         {
             name: "Connect 91.5",
@@ -47475,7 +47535,7 @@ var stations_canada = {
         {
             name: "Lighthouse FM 95.1",
             logo: "stations/images-america/canada/Lighthouse FM.png",
-            url: "http://s3.voscast.com:7820/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "CFNR 96.1",
@@ -47512,7 +47572,7 @@ var stations_canada = {
         {
             name: "ICI Musique 89.9",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSBFM_SC"
         },
         {
             name: "Envol 91 FM",
@@ -47639,7 +47699,7 @@ var stations_canada = {
         {
             name: "ICI Musique 106.1",
             logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://rcavliveaudio-tunein.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/playlist.m3u8"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBCXFM_SC"
         },
         {
             name: "ICI Première 107.3",
@@ -49601,7 +49661,7 @@ var stations_caribbean = {
         {
             name: "ESPN Radio 100.7-HD2",
             logo: "stations/images-america/caribbean/puerto_rico/sanjuan/ESPN Radio 100.7-HD2.png",
-            url: "https://espn-edge.wostreaming.net/espn-network-cloud.m3u8"
+            url: "https://t1.streamguys1.com/sgtest-espn"
         },
         {
             name: "HOT 102",

@@ -4052,7 +4052,7 @@ var stations = {
         {
             name: "Radio Złote Przeboje",
             logo: "stations/images-europe/poland/Radio Złote Przeboje.png",
-            url: "http://lodz.radio.pionier.net.pl:8000/pl/tuba9-1.mp3"
+            url: "https://radiostream.pl/tuba9-1.mp3"
         },
         {
             name: "RMF FM",
