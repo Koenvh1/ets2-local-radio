@@ -41510,7 +41510,7 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4886/hls.m3u8"
         },
         {
-            name: "W249BN-FM 97.7",
+            name: "W249BN 97.7",
             logo: "stations/images-america/c2c/memphis_tn/Q107.5.png",
             url: "https://stream1.flinn.com:8443/963FM.aac"
         },
