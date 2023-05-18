@@ -8495,7 +8495,7 @@ var stations = {
         {
             name: "KOOL 93.5",
             logo: "stations/images-america/lamar/KOOL 93.5.png",
-            url: "https://streaming.live365.com/a58850"
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTU4ODUw"
         },
         {
             name: "KVAY 105.7",
@@ -41510,8 +41510,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4886/hls.m3u8"
         },
         {
-            name: "B97.7",
-            logo: "stations/images-america/c2c/memphis_tn/B97.7.png",
+            name: "W249BN-FM 97.7",
+            logo: "stations/images-america/c2c/memphis_tn/Q107.5.png",
             url: "https://stream1.flinn.com:8443/963FM.aac"
         },
         {
