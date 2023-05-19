@@ -5888,7 +5888,7 @@ var stations = {
         },
         {
             name: "KCKM 1330",
-            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 1330.png",
             url: "https://ice41.securenetsystems.net/KCKM"
         },
     ],
@@ -7037,7 +7037,7 @@ var stations = {
         },
         {
             name: "KCKM 1330",
-            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 1330.png",
             url: "https://ice41.securenetsystems.net/KCKM"
         },
     ],
@@ -10366,7 +10366,7 @@ var stations = {
         },
         {
             name: "KCKM 1330",
-            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 1330.png",
             url: "https://ice41.securenetsystems.net/KCKM"
         },
     ],
@@ -10596,9 +10596,9 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kzbtfmaac-ibc3"
         },
         {
-            name: "KCKM 94.7",
-            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
-            url: "https://ice41.securenetsystems.net/KCKM"
+            name: "La Invasora 94.7",
+            logo: "stations/images-america/texas/midland_odessa/La Invasora 94.7.png",
+            url: "https://s4.radio.co/sb231eb355/listen"
         },
         {
             name: "Rock 95.1",
@@ -10684,6 +10684,11 @@ var stations = {
             name: "KWEL 1070",
             logo: "stations/images-america/texas/midland_odessa/KWEL 107.1.png",
             url: "https://ice9.securenetsystems.net/KWEL"
+        },
+        {
+            name: "KCKM 1330",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 1330.png",
+            url: "https://ice41.securenetsystems.net/KCKM"
         },
         {
             name: "FOX Sports 1510",
@@ -11767,7 +11772,7 @@ var stations = {
         },
         {
             name: "KCKM 1330",
-            logo: "stations/images-america/texas/midland_odessa/KCKM 94.7.png",
+            logo: "stations/images-america/texas/midland_odessa/KCKM 1330.png",
             url: "https://ice41.securenetsystems.net/KCKM"
         },
         {
@@ -25704,8 +25709,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6148/hls.m3u8"
         }, 
         {
-            name: "PoP! 99.1",
-            logo: "stations/images-america/c2c/honolulu_hi/PoP! 99.1.png",
+            name: "Star 99.1",
+            logo: "stations/images-america/c2c/honolulu_hi/Star 99.1.png",
             url: "https://stream.revma.ihrhls.com/zc8470/hls.m3u8"
         },
         {
@@ -25729,8 +25734,8 @@ var stations_c2c = {
             url: "https://streaming.live365.com/a23357"
         },
         {
-            name: "Star 101.9",
-            logo: "stations/images-america/c2c/honolulu_hi/Star 101.9.png",
+            name: "PoP! 101.9",
+            logo: "stations/images-america/c2c/honolulu_hi/PoP! 101.9.png",
             url: "https://stream.revma.ihrhls.com/zc833/hls.m3u8"
         },
         {
