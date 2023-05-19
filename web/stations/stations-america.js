@@ -10394,11 +10394,6 @@ var stations = {
             url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
         },
         {
-            name: "KSKQ 89.5",
-            logo: "stations/images-america/medford/KSKQ 89.5.png",
-            url: "https://kskq.casthost.net/stream"
-        },
-        {
             name: "Family Radio 90.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
@@ -10414,9 +10409,14 @@ var stations = {
             url: "https://ice41.securenetsystems.net/HITS"
         },
         {
-            name: "Joy 93.7",
+            name: "JOY! 93.7",
             logo: "stations/images-america/medford/Joy 93.7.png",
             url: "https://ice6.securenetsystems.net/KTMT"
+        },
+        {
+            name: "KSKQ 94.1",
+            logo: "stations/images-america/medford/KSKQ 89.5.png",
+            url: "https://securestream.casthost.net:8215/stream"
         },
         {
             name: "KRRM 94.7",
