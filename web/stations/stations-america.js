@@ -28391,7 +28391,7 @@ var stations_c2c = {
         {
             name: "Mix 103.3",
             logo: "stations/images-america/c2c/hays_ks/Mix 103.3.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKTFM=""
+            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKTFM="
         },
         {
             name: "B104.3",
