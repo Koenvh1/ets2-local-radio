@@ -29,6 +29,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "albuquerque_south": {
+        name: "Albuquerque",
+        name_english: "Albuquerque",
+        code: "us-nm",
+        relative_radius: 0.9
+    },
     "amarillo": {
         name: "Amarillo",
         name_english: "Amarillo",
@@ -1391,6 +1397,10 @@ var city_properties = {
     "albuquerque": {
         relative_whitenoise: 0.95
     },
+    "albuquerque_south": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.85
+    },
     "amarillo": {
         relative_whitenoise: 0.95
     },
@@ -2166,6 +2176,14 @@ var cities = [
         "x": "-49593.2",
         "y": "126.762",
         "z": "17534.7"
+    },
+    {
+        "gameName": "albuquerque_south",
+        "realName": "Albuquerque",
+        "country": "albuquerque",
+        "x": "-49704.4",
+        "y": "80.0663",
+        "z": "21583.7"
     },
     {
         "gameName": "amarillo",
