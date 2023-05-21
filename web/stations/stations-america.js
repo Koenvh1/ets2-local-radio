@@ -2386,9 +2386,19 @@ var stations = {
     ],
     "burlington": [
         {
-            name: "The Light 90.5",
+            name: "CSN Radio 88.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "The Light 89.5",
             logo: "stations/images-america/0_general_logos/The Light.png",
             url: "https://stream.ktlf.radio/radio/8000/theLight"
+        },
+        {
+            name: "HPPR 90.1",
+            logo: "stations/images-america/0_general_logos/HPPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
         },
         {
             name: "Hot Country 97.9",
@@ -2401,14 +2411,59 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KKCI"
         },
         {
+            name: "Tri-State Praise 107.7",
+            logo: "stations/images-america/c2c/colby_ks/Tri-State Praise 107.7.png",
+            url: "https://ice10.securenetsystems.net/KGCR"
+        },
+        {
+            name: "630 KHOW",
+            logo: "stations/images-america/denver/630 KHOW.png",
+            url: "https://stream.revma.ihrhls.com/zc377/hls.m3u8"
+        },
+        {
+            name: "670 KLTT",
+            logo: "stations/images-america/denver/670 KLTT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+        },
+        {
             name: "FOX Sports 730",
             logo: "stations/images-america/c2c/colby_ks/FOX Sports 730.png",
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
+            name: "Freedom 760",
+            logo: "stations/images-america/denver/Freedom 93.7.png",
+            url: "https://stream.revma.ihrhls.com/zc381/hls.m3u8"
+        },
+        {
+            name: "KOA 850",
+            logo: "stations/images-america/denver/KOA 94.1.png",
+            url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
+        },
+        {
+            name: "KRVN 880",
+            logo: "stations/images-america/c2c/mccook_ne/KRVN 880.png",
+            url: "https://ais-sa1.streamon.fm/7323_48k.aac"
+        },
+        {
             name: "KXXX 790",
             logo: "stations/images-america/c2c/colby_ks/KXXX 790.png",
             url: "https://ice42.securenetsystems.net/KXXX"
+        },
+        {
+            name: "AM920 The Country Giant",
+            logo: "stations/images-america/lamar/AM920 The Country Giant.png",
+            url: "https://streaming.live365.com/a20038"
+        },
+        {
+            name: "1010 KSIR",
+            logo: "stations/images-america/sterling/1010 KSIR.png",
+            url: "http://newerastreaming.com:9016/;"
+        },
+        {
+            name: "KRDZ 1440",
+            logo: "stations/images-america/burlington/KRDZ 1440.png",
+            url: "https://www.ophanim.net:8444/s/7410"
         },
     ],
     "burns": [
@@ -4662,6 +4717,11 @@ var stations = {
             name: "630 KHOW",
             logo: "stations/images-america/denver/630 KHOW.png",
             url: "https://stream.revma.ihrhls.com/zc377/hls.m3u8"
+        },
+        {
+            name: "670 KLTT",
+            logo: "stations/images-america/denver/670 KLTT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
         },
         {
             name: "710 KNUS",
@@ -28114,6 +28174,11 @@ var stations_c2c = {
             name: "URock 102.5",
             logo: "stations/images-america/c2c/colby_ks/URock 102.5.png",
             url: "https://ice42.securenetsystems.net/KKCI"
+        },
+        {
+            name: "Tri-State Praise 107.7",
+            logo: "stations/images-america/c2c/colby_ks/Tri-State Praise 107.7.png",
+            url: "https://ice10.securenetsystems.net/KGCR"
         },
         {
             name: "FOX Sports 730",
