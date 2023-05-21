@@ -9411,7 +9411,7 @@ var stations = {
         },
         {
             name: "Latin Alt 88.5-HD3",
-            logo: "stations/images-america/los_angeles/Latin ALT 88.5-HD3.png",
+            logo: "stations/images-america/los_angeles/Latin Alt 88.5-HD3.png",
             url: "https://stream.885fm.org/latinalt/stream.mp3"
         },
         {
@@ -14952,7 +14952,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc253/hls.m3u8"
         },
         {
-            name: "KMYI 94.1-HD2",
+            name: "94.1 KMYI-HD2",
             logo: "stations/images-america/san_diego/600 KOGO.png",
             url: "http://stream.revma.ihrhls.com/zc257/hls.m3u8"
         },

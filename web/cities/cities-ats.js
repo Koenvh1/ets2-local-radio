@@ -665,6 +665,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "las_cruces_south": {
+        name: "Las Cruces",
+        name_english: "Las Cruces",
+        code: "us-nm",
+        relative_radius: 0.9
+    },
     "las_vegas": {
         name: "Las Vegas",
         name_english: "Las Vegas",
@@ -1738,6 +1744,10 @@ var city_properties = {
 		relative_radius: 0.3,
         relative_whitenoise: 0.95
     },
+    "las_cruces_south": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.95
+    },
     "las_vegas": {
         relative_whitenoise: 0.80
     },
@@ -2794,6 +2804,14 @@ var cities = [
         "x": "-53910.3",
         "y": "67.372",
         "z": "34933.2"
+    },
+    {
+        "gameName": "las_cruces_south",
+        "realName": "Las Cruces",
+        "country": "las_cruces",
+        "x": "-52376.3",
+        "y": "71.3732",
+        "z": "35211.9"
     },
     {
         "gameName": "las_cruces",
