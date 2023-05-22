@@ -3634,12 +3634,12 @@ var stations = {
             name: "BIG 93.9",
             logo: "stations/images-america/texas/corpus_christi/BIG 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc3652/hls.m3u8"
-        },/*
+        },
         {
             name: "KROB 94.3",
             logo: "stations/images-america/texas/corpus_christi/KROB.png",
             url: "https://puroradio.net:2020/stream/krob"
-        },*/
+        },
         {
             name: "US 94.7",
             logo: "stations/images-america/texas/corpus_christi/US 94.7.png",
@@ -3764,12 +3764,12 @@ var stations = {
             name: "1440 KEYS",
             logo: "stations/images-america/texas/corpus_christi/1440 KEYS.png",
             url: "https://live.wostreaming.net/manifest/malkan-keysamaac-ibc3"
-        },/*
+        },
         {
             name: "KROB 1510",
             logo: "stations/images-america/texas/corpus_christi/KROB.png",
             url: "http://puroradio.net:2020/stream/krob"
-        },*/
+        },
         {
             name: "Radio Libertad 1590",
             logo: "stations/images-america/texas/corpus_christi/Radio Libertad.png",
@@ -5458,12 +5458,12 @@ var stations = {
             name: "KINS 106.3",
             logo: "stations/images-america/eureka/KINS 106.3.png",
             url: "http://eurekaradio.streamguys1.com/live"
-        },/*
+        },
         {
             name: "106.7 The Edge",
             logo: "stations/images-america/eureka/106.7 The Edge.png",
             url: "https://ice10.securenetsystems.net/KXGO"
-        },*/
+        },
         {
             name: "EZ 980",
             logo: "stations/images-america/eureka/EZ 95.5.png",
@@ -8682,12 +8682,12 @@ var stations = {
             name: "Z93",
             logo: "stations/images-america/texas/laredo/Z93.png",
             url: "https://ice7.securenetsystems.net/KJBZ"
-        },	/*
+        },
         {
             name: "Imagen Radio 94.1",
             logo: "stations/images-america/texas/laredo/Imagen Radio 94.1.png",
             url: "http://radio.alphamx.net:8096/;stream.mp3"
-        },*/
+        },
         {
             name: "digital 94.9",
             logo: "stations/images-america/texas/laredo/digital 94.9.png",
@@ -12921,12 +12921,12 @@ var stations = {
             name: "ALT 92.1",
             logo: "stations/images-america/reno/ALT 92.1.png",
             url: "https://ice24.securenetsystems.net/ALT921"
-        },/*
+        },
         {
-            name: "Reno's Crazy 80's 93.7",
-            logo: "stations/images-america/reno/Reno's Crazy 80's 93.7.png",
-            url: "https://c3.radioboss.fm:18286/stream"
-        },*/
+            name: "Radio for America 93.7",
+            logo: "stations/images-america/reno/Radio for America 1060.png",
+            url: "http://ais-sa1.streamon.fm/7198_24k.aac"
+        },
         {
             name: "Que Buena 94.5",
             logo: "stations/images-america/reno/Que Buena 94.5.png",
@@ -16688,12 +16688,12 @@ var stations = {
             name: "104.7 KNNG",
             logo: "stations/images-america/sterling/104.7 KNNG.png",
             url: "https://www.streamcontrol.net:8444/s/12320"
-        },/*
+        },
         {
             name: "105.7 KPMX",
             logo: "stations/images-america/sterling/105.7 KPMX.png",
             url: "http://newerastreaming.com:9006/;"
-        },*/
+        },
         {
             name: "FLO 107.1",
             logo: "stations/images-america/denver/FLO 107.1.png",
@@ -18437,12 +18437,12 @@ var stations = {
             name: "Air1 100.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },/*
+        },
         {
             name: "100.9 Jack FM",
             logo: "stations/images-america/texas/wichita_falls/100.9 Jack FM.png",
-            url: "http://185.106.98.26/index.php?u=http://ice41.securenetsystems.net/KWFB"
-        },*/
+            url: "https://ais-sa1.streamon.fm/7807_96k.aac"
+        },
         {
             name: "102.3 The Bull",
             logo: "stations/images-america/texas/wichita_falls/102.3 The Bull.png",
@@ -29215,6 +29215,11 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://ais-sa1.streamon.fm/7702_128k.aac"
         },
         {
+            name: "104.7 Jamz",
+            logo: "stations/images-america/c2c/louisville_ky/104.7 Jamz.png",
+            url: "http://185.106.98.26/index.php?u=https://ice23.securenetsystems.net/WLOURADIO"
+        },
+        {
             name: "ALT 105.1",
             logo: "stations/images-america/c2c/louisville_ky/ALT 105.1.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-wghlfmaac-ibc2"
@@ -29253,6 +29258,11 @@ var stations_c2c = {
             name: "1080 WKJK",
             logo: "stations/images-america/c2c/louisville_ky/1080 WKJK.png",
             url: "https://stream.revma.ihrhls.com/zc4908/hls.m3u8"
+        },
+        {
+            name: "WLOU 1350",
+            logo: "stations/images-america/c2c/louisville_ky/104.7 Jamz.png",
+            url: "http://185.106.98.26/index.php?u=http://ice23.securenetsystems.net/WLOURADIO"
         },
     ],
     "paducah": [
