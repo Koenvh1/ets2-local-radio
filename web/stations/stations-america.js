@@ -3105,6 +3105,11 @@ var stations = {
             logo: "stations/images-america/clovis/AM1450 Cow Country.png",
             url: "https://streaming.live365.com/a57891"
         },
+        {
+            name: "KIJN 1060",
+            logo: "stations/images-america/clovis/KIJN 1060.png",
+            url: "https://aguila1.netkairos.com/8030/stream/;"
+        },
     ],
     "college_station": [
         {
@@ -14893,6 +14898,26 @@ var stations = {
             name: "98.1 KBAC",
             logo: "stations/images-america/santa_fe/98.1 KBAC.png",
             url: "http://shoutcast.brownrice.com:8000/;"
+        },
+        {
+            name: "KANW 106.9",
+            logo: "stations/images-america/albuquerque/KANW 89.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM.mp3"
+        },
+        {
+            name: "610 The Sports Animal",
+            logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC_SC"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+        },
+        {
+            name: "KIJN 1060",
+            logo: "stations/images-america/clovis/KIJN 1060.png",
+            url: "https://aguila1.netkairos.com/8030/stream/;"
         },
     ],
     "san_diego": [
