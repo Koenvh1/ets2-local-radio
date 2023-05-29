@@ -12871,6 +12871,11 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KSHA"
         },
         {
+            name: "105.7 KQMS",
+            logo: "stations/images-america/redding/KQMS.png",
+            url: "https://ice42.securenetsystems.net/KQMS"
+        },
+        {
             name: "106X",
             logo: "stations/images-america/redding/106X.png",
             url: "https://ice5.securenetsystems.net/KRRX"
@@ -12884,6 +12889,31 @@ var stations = {
             name: "107.1 BOB FM",
             logo: "stations/images-america/redding/107.1 Bob FM.png",
             url: "http://185.106.98.26/index.php?u=https://ice24.securenetsystems.net/KESR"
+        },
+        {
+            name: "KVIP 540",
+            logo: "stations/images-america/redding/KVIP 540.png",
+            url: "https://ic1.sslstream.com/kvip-am"
+        },
+        {
+            name: "JPR News & Information 1330",
+            logo: "stations/images-america/0_general_logos/JPR.png",
+            url: "http://jpr-ice.streamguys1.com/jpr-news"
+        },
+        {
+            name: "FOX Sports 1400",
+            logo: "stations/images-america/redding/FOX Sports 103.9.png",
+            url: "https://stream.revma.ihrhls.com/zc4732"
+        },
+        {
+            name: "KCNR 1460",
+            logo: "stations/images-america/redding/KCNR 96.5.png",
+            url: "http://apps.kcnr1460.com/kcnr1460.mp3"
+        },
+        {
+            name: "1670 KQMS",
+            logo: "stations/images-america/redding/KQMS.png",
+            url: "http://ice42.securenetsystems.net/KQMS"
         },
     ],
     "reno": [
