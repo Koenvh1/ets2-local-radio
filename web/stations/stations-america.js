@@ -808,11 +808,6 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KMUN"
         },/*
         {
-            name: "93.3 The Rock",
-            logo: "stations/images-america/astoria/93.3 The Rock.png",
-            url: "http://209.95.35.49:7025/stream"
-        },
-        {
             name: "Hits 94.3",
             logo: "stations/images-america/astoria/Hits 94.3.png",
             url: "wait for reply"
@@ -5594,12 +5589,12 @@ var stations = {
             name: "FOX Sports 93.9",
             logo: "stations/images-america/farmington/Fox Sports 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
-        },
+        },/*
         {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK 94.9.png",
             url: "https://ice41.securenetsystems.net/KWYKFM"
-        },
+        },*/
         {
             name: "KPCL 95.7",
             logo: "stations/images-america/farmington/KPCL 95.7.png",
@@ -5634,12 +5629,12 @@ var stations = {
             name: "Pirate Radio 107.9",
             logo: "stations/images-america/farmington/Pirate Radio 107.9.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kprtfmaac-ibc3"
-        },
+        },/*
         {
             name: "KNDN 960",
             logo: "stations/images-america/farmington/KNDN 960.png",
             url: "https://ice9.securenetsystems.net/KNDN"
-        },
+        },*/
         {
             name: "1390 KENN",
             logo: "stations/images-america/farmington/1390 KENN.png",
@@ -6569,12 +6564,12 @@ var stations = {
             name: "KANW 88.1",
             logo: "stations/images-america/albuquerque/KANW 89.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
-        },
+        },/*
         {
             name: "KNIZ 90.1",
             logo: "stations/images-america/gallup/KNIZ 90.1.png",
             url: "http://184.154.43.106:8086/stream"
-        },
+        },*/
         {
             name: "KGLP 91.7",
             logo: "stations/images-america/gallup/KGLP 91.7.png",
@@ -6641,12 +6636,12 @@ var stations = {
             name: "101.5 The Drive",
             logo: "stations/images-america/gillette/101.5 The Drive.png",
             url: "https://ice10.securenetsystems.net/KDDV"
-        },
+        },/*
         {
             name: "KOAL 106.1",
             logo: "stations/images-america/gillette/KOAL 106.1.png",
             url: "http://173.193.205.96:8254/;"
-        },
+        },*/
         {
             name: "KIML 107.5",
             logo: "stations/images-america/gillette/KIML 107.5.png",
@@ -14885,7 +14880,7 @@ var stations = {
     ],
     "santa_rosa_nm": [
         {
-            name: "KANW 91.9",
+            name: "KANR 91.9",
             logo: "stations/images-america/albuquerque/KANW 89.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
         },
@@ -14900,7 +14895,7 @@ var stations = {
             url: "http://shoutcast.brownrice.com:8000/;"
         },
         {
-            name: "KANW 106.9",
+            name: "K295DC 106.9",
             logo: "stations/images-america/albuquerque/KANW 89.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM.mp3"
         },
@@ -33425,8 +33420,8 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC_SC"
         },
         {
-            name: "103.5 Radio X",
-            logo: "stations/images-america/c2c/joplin_mo/103.5 Radio X.png",
+            name: "BOB FM 103.5",
+            logo: "stations/images-america/c2c/joplin_mo/BOB FM 103.5.png",
             url: "https://ice42.securenetsystems.net/KWXD"
         },
         {
@@ -34125,6 +34120,11 @@ var stations_c2c = {
             name: "106.7 The River",
             logo: "stations/images-america/c2c/springfield_mo/106.7 The River.png",
             url: "http://185.106.98.26/index.php?u=https://ais-sa1.streamon.fm/7714_128k.aac"
+        },
+        {
+            name: "BOB FM 107.5",
+            logo: "stations/images-america/c2c/springfield_mo/BOB FM 107.5.png",
+            url: "https://ice42.securenetsystems.net/KRZDAM"
         },
         {
             name: "FOX Sports 1400",
@@ -38512,8 +38512,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYISFMAAC_SC"
         },
         {
-            name: "99.7 Hank FM",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/99.7 HANK FM.png",
+            name: "99.7 The Wolf",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/99.7 The Wolf.png",
             url: "https://ice8.securenetsystems.net/KNAH"
         },
         {
@@ -41297,12 +41297,7 @@ var stations_c2c = {
             name: "102.3 The Rocket",
             logo: "stations/images-america/c2c/jackson_tn/102.3 The Rocket.png",
             url: "http://ice23.securenetsystems.net/WZDQ"
-        },/*
-        {
-            name: "KOOL 103",
-            logo: "stations/images-america/c2c/jackson_tn/KOOL 103.png",
-            url: "https://ice66.securenetsystems.net/WDXI"
-        },*/
+        },
         {
             name: "FROGGY 104",
             logo: "stations/images-america/c2c/jackson_tn/FROGGY 104.png",

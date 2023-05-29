@@ -422,7 +422,7 @@ var stations = {
         {
             name: "Пилот FM",
             logo: "stations/images-europe/belarus/Пилот FM.png",
-            url: "https://pf.volna.top/PilotBy48"
+            url: "https://stream.hoster.by/pilotfm/pilot/icecast.audio"
         },
     ],
     "belgium-nl": [
@@ -685,7 +685,7 @@ var stations = {
         {
             name: "Радио Фокус",
             logo: "stations/images-europe/bulgaria/Радио Фокус.png",
-            url: "http://online.focus-radio.net:8100/sofia"
+            url: "https://focusradio.audiostreaming.ml/1"
         },
         {
             name: "Radio Fresh!",
@@ -2197,7 +2197,7 @@ var stations = {
         {
             name: "Radio Arabella München",
             logo: "stations/images-europe/germany-muenchen/Radio Arabella München.png",
-            url: "https://live.radioarabella.de/stream"
+            url: "https://live.stream.radioarabella.de/radioarabella-muenchen/stream/mp3"
         },
     ],
     "germany-ndr": [
@@ -3408,7 +3408,7 @@ var stations = {
         {
             name: "Канал 77",
             logo: "stations/images-europe/macedonia/Канал 77.png",
-            url: "https://live.kanal77.com.mk:8089/acc"
+            url: "https://radiocnd.mms.mk/proxy/web/stream"
         },
         {
             name: "Metropolis Radio",
