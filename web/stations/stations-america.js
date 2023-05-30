@@ -12053,6 +12053,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc61/hls.m3u8"
         },
         {
+            name: "Qué Buena 105.1",
+            logo: "stations/images-america/phoenix/Qué Buena 105.9.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/univision-khotfmaac-imc2"
+        },
+        {
             name: "Money Radio 105.3",
             logo: "stations/images-america/phoenix/Money Radio 105.3.png",
             url: "https://ice41.securenetsystems.net/KFNN"
@@ -13581,7 +13586,7 @@ var stations = {
         },
         {
             name: "Radio Lazer 94.3",
-            logo: "stations/images-america/sacramento/Radio Lazer 94.3.png",
+            logo: "stations/images-america/sacramento/Radio Lazer.png",
             url: "https://ice8.securenetsystems.net/KGRB"
         },
         {
@@ -13671,7 +13676,7 @@ var stations = {
         },
         {
             name: "Radio Lazer 103.3",
-            logo: "stations/images-america/sacramento/Radio Lazer 94.3.png",
+            logo: "stations/images-america/sacramento/Radio Lazer.png",
             url: "http://ice8.securenetsystems.net/KGRB"
         },
         {
