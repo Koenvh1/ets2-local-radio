@@ -825,7 +825,7 @@ var stations = {
         {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
     ],
     "austin": [
@@ -3297,7 +3297,7 @@ var stations = {
         {
             name: "94.3 KILO",
             logo: "stations/images-america/colorado_springs_pueblo/94.3 KILO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KILOFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KILOFMAAC_SC"
         },
         {
             name: "Tigre 94.7",
@@ -3362,7 +3362,7 @@ var stations = {
         {
             name: "101.1 The Answer",
             logo: "stations/images-america/colorado_springs_pueblo/101.1 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZNTAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZNTAMAAC_SC"
         },/*
         {
             name: "Gnarly 101.3",
@@ -3909,7 +3909,7 @@ var stations = {
         {
             name: "KSKY 92.9",
             logo: "stations/images-america/texas/dallas_fort_worth/660 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC.aac"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC.aac"
         },
         {
             name: "HOT 93.3",
@@ -3989,7 +3989,7 @@ var stations = {
         {
             name: "The Word 100.7",
             logo: "stations/images-america/texas/dallas_fort_worth/The Word 100.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC"
         },
         {
             name: "Classical 101.1",
@@ -4004,7 +4004,7 @@ var stations = {
         {
             name: "102.5 El Pez",
             logo: "stations/images-america/texas/dallas_fort_worth/102.5 El Pez.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC"
         },
         {
             name: "102.9 NOW",
@@ -4089,12 +4089,12 @@ var stations = {
         {
             name: "620 AM Radio Luz",
             logo: "stations/images-america/texas/dallas_fort_worth/620 AM Radio Luz.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
         },
         {
             name: "660 AM The Answer",
             logo: "stations/images-america/texas/dallas_fort_worth/660 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
         },
         {
             name: "Radio Caravan 700",
@@ -4258,7 +4258,7 @@ var stations = {
         {
             name: "1360 KPXQ",
             logo: "stations/images-america/phoenix/1360 KPXQ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
         },
     ],
     "del_rio": [
@@ -4726,7 +4726,7 @@ var stations = {
         {
             name: "710 KNUS",
             logo: "stations/images-america/denver/710 KNUS.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNUSAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUSAMAAC_SC"
         },
         {
             name: "Altitude 950",
@@ -8163,7 +8163,7 @@ var stations = {
         {
             name: "AM 630 The Word",
             logo: "stations/images-america/texas/san_antonio/AM 630 The Word.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
         },
         {
             name: "680 KKYX",
@@ -8486,7 +8486,7 @@ var stations = {
         {
             name: "AM 590 The Answer",
             logo: "stations/images-america/riverside/AM 590 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
         },
         {
             name: "KFI AM 640",
@@ -9552,7 +9552,7 @@ var stations = {
         {
             name: "99.5 KKLA",
             logo: "stations/images-america/los_angeles/99.5 KKLA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC"
         },
         {
             name: "K-LOVE 100.3",
@@ -9692,7 +9692,7 @@ var stations = {
         {
             name: "AM 870 The Answer",
             logo: "stations/images-america/los_angeles/AM 870 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
         },
         {
             name: "1020 KTNQ",
@@ -11213,7 +11213,7 @@ var stations = {
         {
             name: "860 AM The Answer",
             logo: "stations/images-america/monterey/860 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
         },
         {
             name: "1080 KSCO",
@@ -11563,7 +11563,7 @@ var stations = {
         {
             name: "AM 870 The Answer",
             logo: "stations/images-america/los_angeles/AM 870 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
         },
         {
             name: "1590 KVTA",
@@ -11766,7 +11766,7 @@ var stations = {
         {
             name: "The Word 100.7",
             logo: "stations/images-america/texas/dallas_fort_worth/The Word 100.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC"
         },
         {
             name: "KBUS 101.9",
@@ -12105,12 +12105,12 @@ var stations = {
         {
             name: "960 The Patriot",
             logo: "stations/images-america/phoenix/960 The Patriot.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNTAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKNTAMAAC_SC"
         },
         {
             name: "Family Values Radio 1010",
             logo: "stations/images-america/phoenix/Family Values Radio 1010.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXXTAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXXTAMAAC_SC"
         },
         {
             name: "KDUS 1060",
@@ -12125,7 +12125,7 @@ var stations = {
         {
             name: "1360 KPXQ",
             logo: "stations/images-america/phoenix/1360 KPXQ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
         },
     ],
     "pioche": [
@@ -12471,12 +12471,12 @@ var stations = {
         {
             name: "True Talk 800",
             logo: "stations/images-america/portland/True Talk 800.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPDQAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPDQAMAAC_SC"
         },
         {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
         {
             name: "La Pantera 940",
@@ -13264,7 +13264,7 @@ var stations = {
         {
             name: "AM 590 The Answer",
             logo: "stations/images-america/riverside/AM 590 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
         },
         {
             name: "URadio 690",
@@ -13712,7 +13712,7 @@ var stations = {
         {
             name: "Money 105.5",
             logo: "stations/images-america/sacramento/Money 105.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSACFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSACFMAAC_SC"
         },
         {
             name: "Punjabi Radio 105.9",
@@ -13767,7 +13767,7 @@ var stations = {
         {
             name: "AM 1380 The Answer",
             logo: "stations/images-america/sacramento/AM 1380 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTKZAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTKZAMAAC_SC"
         },
         {
             name: "KJAY 1430",
@@ -13839,7 +13839,7 @@ var stations = {
         {
             name: "710 KNUS",
             logo: "stations/images-america/denver/710 KNUS.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNUSAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUSAMAAC_SC"
         },
         {
             name: "740 KVOR",
@@ -14554,7 +14554,7 @@ var stations = {
         {
             name: "AM 630 The Word",
             logo: "stations/images-america/texas/san_antonio/AM 630 The Word.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
         },
         {
             name: "680 KKYX",
@@ -14579,7 +14579,7 @@ var stations = {
         {
             name: "930 AM The Answer",
             logo: "stations/images-america/texas/san_antonio/930 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLUPAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLUPAMAAC_SC"
         },
         {
             name: "KDRY AM 1100",
@@ -14900,7 +14900,7 @@ var stations = {
         {
             name: "860 AM The Answer",
             logo: "stations/images-america/san_francisco/860 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
         },
         {
             name: "BIN 910",
@@ -15229,12 +15229,12 @@ var stations = {
         {
             name: "1170 The Answer",
             logo: "stations/images-america/san_diego/1170 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KCBQAMAAC_SC"
         },
         {
             name: "K-Praise 1210",
             logo: "stations/images-america/san_diego/K-Praise 1210.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRZAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPRZAMAAC_SC"
         },
         {
             name: "KBRITE 1240",
@@ -15528,7 +15528,7 @@ var stations = {
         {
             name: "860 AM The Answer",
             logo: "stations/images-america/san_francisco/860 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
         },
         {
             name: "BIN 910",
@@ -15543,17 +15543,17 @@ var stations = {
         {
             name: "1100 KFAX",
             logo: "stations/images-america/san_francisco/1100 KFAX.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFAXAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFAXAMAAC_SC"
         },
         {
             name: "The Light 1190",
             logo: "stations/images-america/san_francisco/The Light 1190.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDYAAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDYAAMAAC_SC"
         },
         {
             name: "1220 KDOW",
             logo: "stations/images-america/san_francisco/1220 KDOW.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDOWAMAAC_SC"
         },
         {
             name: "Radio Mirchi 1310",
@@ -15578,7 +15578,7 @@ var stations = {
         {
             name: "KDIA 1640",
             logo: "stations/images-america/san_francisco/KDIA 1640.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDIAAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDIAAMAAC_SC"
         },
     ],
     "san_simon": [
@@ -15647,7 +15647,7 @@ var stations = {
         {
             name: "AM 630 The Word",
             logo: "stations/images-america/texas/san_antonio/AM 630 The Word.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSLRAMAAC_SC"
         },
         {
             name: "680 KKYX",
@@ -15964,7 +15964,7 @@ var stations = {
         {
             name: "AM 1300 The Answer",
             logo: "stations/images-america/seattle/AM 1300 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLAMAAC_SC"
         },
         {
             name: "KRKO 1380",
@@ -16630,7 +16630,7 @@ var stations = {
         {
             name: "660 AM The Answer",
             logo: "stations/images-america/texas/dallas_fort_worth/660 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
         },
         {
             name: "The Truth 770",
@@ -17132,7 +17132,7 @@ var stations = {
         {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
         {
             name: "1190 KEX",
@@ -17816,7 +17816,7 @@ var stations = {
         {
             name: "860 AM The Answer",
             logo: "stations/images-america/san_francisco/860 AM The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTRBAMAAC_SC"
         },
         {
             name: "BIN 910",
@@ -18521,7 +18521,7 @@ var stations = {
         {
             name: "620 AM Radio Luz",
             logo: "stations/images-america/texas/dallas_fort_worth/620 AM Radio Luz.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
         },
         {
             name: "WBAP 820",
@@ -19038,12 +19038,12 @@ var stations_mexico = {
         {
             name: "La Grandota 97.5",
             logo: "stations/images-america/mexico/camargo/La Grandota 97.5.png",
-            url: "http://streamingcwsradio10.com:9310/;"
+            url: "https://streamingcwsradio30.com/8154/stream"
         },
         {
             name: "La Lupe 101.7",
             logo: "stations/images-america/mexico/camargo/La Lupe 101.7.png",
-            url: "https://streaming.multimedios.com/station3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHHPRFM_SC"
         },	
         {
             name: "Super FM 102.9",
@@ -19055,7 +19055,7 @@ var stations_mexico = {
         {
             name: "La Consentida 93.3",
             logo: "stations/images-america/mexico/cananea/La Consentida 93.3.png",
-            url: "https://radios.sonidoshd.com/8162/stream"
+            url: "https://stream2.305stream.com/proxy/client128?mp=/stream"
         },
         {
             name: "Radio Sonora 97.7",
@@ -19141,7 +19141,7 @@ var stations_mexico = {
         {
             name: "Like 98.3",
             logo: "stations/images-america/mexico/cd_cuauh/Like 98.3.png",
-            url: "http://streamingcwsradio20.com:9960/;"
+            url: "https://streamingcwsradio30.com:7085/;"
         },
         {
             name: "La Caliente 99.9",
@@ -19393,7 +19393,7 @@ var stations_mexico = {
         {
             name: "Radio Recuerdo 93.9",
             logo: "stations/images-america/mexico/gomez_p/Radio Recuerdo 93.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFM_SC"
         },
         {
             name: "Imagen Saltillo 94.7",
@@ -19809,7 +19809,7 @@ var stations_mexico = {
         {
             name: "Radio Recuerdo 93.9",
             logo: "stations/images-america/mexico/gomez_p/Radio Recuerdo 93.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFM_SC"
         },
         {
             name: "94.7 @FM",
@@ -22532,7 +22532,7 @@ var stations_c2c = {
         {
             name: "Faith Talk 99.5",
             logo: "stations/images-america/c2c/little_rock_ar/Faith Talk 99.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDISFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDISFMAAC_SC"
         },
         {
             name: "100.3 The Edge",
@@ -22552,7 +22552,7 @@ var stations_c2c = {
         {
             name: "101.1 The Answer",
             logo: "stations/images-america/c2c/little_rock_ar/101.1 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDXEFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDXEFMAAC_SC"
         },
         {
             name: "102.1 KOKY",
@@ -24011,7 +24011,7 @@ var stations_c2c = {
         {
             name: "94.9 The Answer",
             logo: "stations/images-america/c2c/orlando_fl/94.9 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WORLAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WORLAMAAC_SC"
         },
         {
             name: "HOT 95.9",
@@ -24325,7 +24325,7 @@ var stations_c2c = {
         {
             name: "93.7 The Answer",
             logo: "stations/images-america/c2c/sarasota_fl/93.7 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSSAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WLSSAMAAC_SC"
         },
         {
             name: "96.5 WSLR",
@@ -24674,7 +24674,7 @@ var stations_c2c = {
         {
             name: "AM 860 The Answer",
             logo: "stations/images-america/c2c/tampa_fl/AM 860 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGULAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGULAMAAC_SC"
         },
         {
             name: "WFLA 970",
@@ -24978,7 +24978,7 @@ var stations_c2c = {
         {
             name: "AM 920 The Answer",
             logo: "stations/images-america/c2c/atlanta_ga/AM 920 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGKAAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGKAAMAAC_SC"
         },
         {
             name: "VS AM1040",
@@ -25786,7 +25786,7 @@ var stations_c2c = {
         {
             name: "94.3 The Answer",
             logo: "stations/images-america/c2c/honolulu_hi/94.3 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC_SC"
         },
         {
             name: "94.7 KUMU",
@@ -26003,7 +26003,7 @@ var stations_c2c = {
         {
             name: "690 The Answer",
             logo: "stations/images-america/c2c/honolulu_hi/94.3 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KHNRAMAAC_SC"
         },
         {
             name: "760 HSRN",
@@ -26516,7 +26516,7 @@ var stations_c2c = {
         {
             name: "AM 560 The Answer",
             logo: "stations/images-america/c2c/chicago_il/AM 560 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC_SC"
         },
         {
             name: "BIN 640",
@@ -26765,8 +26765,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
         },
         {
-            name: "ESPN 101.1",
-            logo: "stations/images-america/c2c/peoria_il/ESPN 101.1.png",
+            name: "101.1 Sports Radio",
+            logo: "stations/images-america/c2c/peoria_il/101.1 Sports Radio.png",
             url: "https://ice24.securenetsystems.net/WZPN"
         },
         {
@@ -30907,17 +30907,17 @@ var stations_c2c = {
         {
             name: "WAVA 105.1",
             logo: "stations/images-america/c2c/washington_dc/WAVA 105.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAFMAAC_SC"
         },
         {
             name: "WAVA 105.1-HD2",
             logo: "stations/images-america/c2c/washington_dc/WAVA 105.1-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAAMAAC_SC"
         },
         {
             name: "AM 570 The Answer 105.1-HD3",
             logo: "stations/images-america/c2c/washington_dc/AM 570 The Answer 105.1-HD3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWRCAMAAC_SC"
         },
         {
             name: "105.9 WMAL",
@@ -31505,7 +31505,7 @@ var stations_c2c = {
         {
             name: "101.5 The Patriot",
             logo: "stations/images-america/c2c/detroit_mi/101.5 The Patriot.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAMAAC_SC"
         },
         {
             name: "WDET 101.9",
@@ -32391,7 +32391,7 @@ var stations_c2c = {
         {
             name: "Freedom 1570",
             logo: "stations/images-america/c2c/minneapolis_mn/Freedom 1570.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDIZAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDIZAMAAC_SC"
         },
     ],
     "rochester_mn": [
@@ -36385,7 +36385,7 @@ var stations_c2c = {
         {
             name: "Rock 92",
             logo: "stations/images-america/c2c/greensboro_nc/Rock 92.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKRRFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wkrr-fm.aac"
         },
         {
             name: "93.1 The Wolf",
@@ -36465,7 +36465,7 @@ var stations_c2c = {
         {
             name: "107.5 KZL",
             logo: "stations/images-america/c2c/greensboro_nc/107.5 KZL.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKZLFMAAC_SC"
+            url: "https://dbc.streamguys1.com/wkzl-fm.aac"
         },
         {
             name: "WZOO 700",
@@ -37803,7 +37803,7 @@ var stations_c2c = {
         {
             name: "94.5 The Answer",
             logo: "stations/images-america/c2c/dayton_oh/94.5 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYDBFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYDBFMAAC_SC"
         },
         {
             name: "95.3 The Eagle",
@@ -39562,7 +39562,7 @@ var stations_c2c = {
         {
             name: "WFIL 560",
             logo: "stations/images-america/c2c/philadelphia_pa/WFIL 560.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFILAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFILAMAAC_SC"
         },
         {
             name: "BIN 610",
@@ -39587,7 +39587,7 @@ var stations_c2c = {
         {
             name: "AM 990 The Answer",
             logo: "stations/images-america/c2c/philadelphia_pa/AM 990 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTPAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNTPAMAAC_SC"
         },
         {
             name: "KYW Newsradio 1060",
@@ -39741,7 +39741,7 @@ var stations_c2c = {
         {
             name: "92.5 The Answer",
             logo: "stations/images-america/c2c/pittsburgh_pa/92.5 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPGPAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WPGPAMAAC_SC"
         },
         {
             name: "93.7 The Fan",
@@ -39771,7 +39771,7 @@ var stations_c2c = {
         {
             name: "WPIT 96.5",
             logo: "stations/images-america/c2c/pittsburgh_pa/WPIT 96.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPITAMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WPITAMAAC_SC"
         },
         {
             name: "96.9 BOB FM",
@@ -40515,7 +40515,7 @@ var stations_c2c = {
         {
             name: "94.5 The Answer",
             logo: "stations/images-america/c2c/greenville_sc/94.5 The Answer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGTKFM_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGTKFM_SC"
         },
         {
             name: "La Jefa 94.9",
@@ -44688,7 +44688,7 @@ var stations_canada = {
         {
             name: "Lighthouse Radio 96.7",
             logo: "stations/images-america/canada/hope/Lighthouse Radio 96.7.png",
-            url: "http://192.99.17.12:5836/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "Star 98.3",
@@ -45449,7 +45449,7 @@ var stations_canada = {
         {
             name: "Lighthouse Radio 95.9",
             logo: "stations/images-america/canada/hope/Lighthouse Radio 96.7.png",
-            url: "http://192.99.17.12:5836/;"
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
         },
         {
             name: "CKBZ 99.5",
@@ -45831,7 +45831,7 @@ var stations_canada = {
         {
             name: "K Country 93.7",
             logo: "stations/images-america/canada/orillia/K Country 93.7.png",
-            url: "https://torres.leanstream.co/CKOUFM-MP3"
+            url: "https://torres-media.streamb.live/SB00191"
         },
         {
             name: "ROCK 95",
@@ -47458,7 +47458,7 @@ var stations_canada = {
         {
             name: "Evolution 107.9",
             logo: "stations/images-america/canada/vancouver/Evolution 107.9.png",
-            url: "https://ais-sa1.streamon.fm/7161_64k.aac"
+            url: "http://192.99.6.159:3900/index.php?ats=https://evolution1079.streamb.live/SB00207"
         },
         {
             name: "Sportsnet 650",

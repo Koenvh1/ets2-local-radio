@@ -1709,7 +1709,7 @@ var stations = {
         {
             name: "80s80s",
             logo: "stations/images-europe/germany/80s80s.png",
-            url: "https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq"
+            url: "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667"
         },
         {
             name: "90s90s",
@@ -2155,7 +2155,7 @@ var stations = {
         {
             name: "80s80s MV",
             logo: "stations/images-europe/germany/80s80s.png",
-            url: "http://streams.80s80s.de/80s80sMV/mp3-192/streams.80s80s.de/"
+            url: "https://regiocast.streamabc.net/regc-80s80smv6632132-mp3-192-6159749"
         },
         {
             name: "Ostseewelle",
@@ -2416,7 +2416,7 @@ var stations = {
         {
             name: "R.SH",
             logo: "stations/images-europe/germany-sh/R.SH.png",
-            url: "https://rsh.hoerradar.de/rsh-live-mp3-hq"
+            url: "https://rsh.streamabc.net/regc-rshlive5331785-mp3-192-8119086"
         },
         {
             name: "Radio BOB!",
