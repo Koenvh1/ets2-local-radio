@@ -29,6 +29,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "albuquerque_south": {
+        name: "Albuquerque",
+        name_english: "Albuquerque",
+        code: "us-nm",
+        relative_radius: 0.9
+    },
     "amarillo": {
         name: "Amarillo",
         name_english: "Amarillo",
@@ -660,6 +666,18 @@ var country_properties = {
         relative_radius: 0.9
     },
     "las_cruces_west": {
+        name: "Las Cruces",
+        name_english: "Las Cruces",
+        code: "us-nm",
+        relative_radius: 0.9
+    },
+    "las_cruces_south": {
+        name: "Las Cruces",
+        name_english: "Las Cruces",
+        code: "us-nm",
+        relative_radius: 0.9
+    },
+    "las_cruces_south_2": {
         name: "Las Cruces",
         name_english: "Las Cruces",
         code: "us-nm",
@@ -1379,6 +1397,10 @@ var city_properties = {
     "albuquerque": {
         relative_whitenoise: 0.95
     },
+    "albuquerque_south": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.85
+    },
     "amarillo": {
         relative_whitenoise: 0.95
     },
@@ -1737,6 +1759,14 @@ var city_properties = {
     "las_cruces_west": {
 		relative_radius: 0.3,
         relative_whitenoise: 0.95
+    },
+    "las_cruces_south": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.95
+    },
+    "las_cruces_south_2": {
+		relative_radius: 0.2,
+        relative_whitenoise: 0.85
     },
     "las_vegas": {
         relative_whitenoise: 0.80
@@ -2146,6 +2176,14 @@ var cities = [
         "x": "-49593.2",
         "y": "126.762",
         "z": "17534.7"
+    },
+    {
+        "gameName": "albuquerque_south",
+        "realName": "Albuquerque",
+        "country": "albuquerque",
+        "x": "-49704.4",
+        "y": "80.0663",
+        "z": "21583.7"
     },
     {
         "gameName": "amarillo",
@@ -2794,6 +2832,22 @@ var cities = [
         "x": "-53910.3",
         "y": "67.372",
         "z": "34933.2"
+    },
+    {
+        "gameName": "las_cruces_south",
+        "realName": "Las Cruces",
+        "country": "las_cruces",
+        "x": "-52376.3",
+        "y": "71.3732",
+        "z": "35211.9"
+    },
+    {
+        "gameName": "las_cruces_south_2",
+        "realName": "Las Cruces",
+        "country": "las_cruces",
+        "x": "-50763",
+        "y": "71.9653",
+        "z": "35806.7"
     },
     {
         "gameName": "las_cruces",

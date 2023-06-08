@@ -422,7 +422,7 @@ var stations = {
         {
             name: "Пилот FM",
             logo: "stations/images-europe/belarus/Пилот FM.png",
-            url: "https://pf.volna.top/PilotBy48"
+            url: "https://stream.hoster.by/pilotfm/pilot/icecast.audio"
         },
     ],
     "belgium-nl": [
@@ -685,7 +685,7 @@ var stations = {
         {
             name: "Радио Фокус",
             logo: "stations/images-europe/bulgaria/Радио Фокус.png",
-            url: "http://online.focus-radio.net:8100/sofia"
+            url: "https://focusradio.audiostreaming.ml/1"
         },
         {
             name: "Radio Fresh!",
@@ -1709,7 +1709,7 @@ var stations = {
         {
             name: "80s80s",
             logo: "stations/images-europe/germany/80s80s.png",
-            url: "https://80s80s.hoerradar.de/80s80s-mweb-mp3-hq"
+            url: "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667"
         },
         {
             name: "90s90s",
@@ -2155,7 +2155,7 @@ var stations = {
         {
             name: "80s80s MV",
             logo: "stations/images-europe/germany/80s80s.png",
-            url: "http://streams.80s80s.de/80s80sMV/mp3-192/streams.80s80s.de/"
+            url: "https://regiocast.streamabc.net/regc-80s80smv6632132-mp3-192-6159749"
         },
         {
             name: "Ostseewelle",
@@ -2197,7 +2197,7 @@ var stations = {
         {
             name: "Radio Arabella München",
             logo: "stations/images-europe/germany-muenchen/Radio Arabella München.png",
-            url: "https://live.radioarabella.de/stream"
+            url: "https://live.stream.radioarabella.de/radioarabella-muenchen/stream/mp3"
         },
     ],
     "germany-ndr": [
@@ -2416,7 +2416,7 @@ var stations = {
         {
             name: "R.SH",
             logo: "stations/images-europe/germany-sh/R.SH.png",
-            url: "https://rsh.hoerradar.de/rsh-live-mp3-hq"
+            url: "https://rsh.streamabc.net/regc-rshlive5331785-mp3-192-8119086"
         },
         {
             name: "Radio BOB!",
@@ -3408,7 +3408,7 @@ var stations = {
         {
             name: "Канал 77",
             logo: "stations/images-europe/macedonia/Канал 77.png",
-            url: "https://live.kanal77.com.mk:8089/acc"
+            url: "https://radiocnd.mms.mk/proxy/web/stream"
         },
         {
             name: "Metropolis Radio",

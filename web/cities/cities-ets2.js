@@ -1690,6 +1690,14 @@ var cities = [
         "z": "-104774"
     },
     {
+        "gameName": "bodo",
+        "realName": "Bodo",
+        "country": "norway",
+        "x": "15539.4",
+        "y": "40.8495",
+        "z": "-95389.6"
+    },
+    {
         "gameName": "bologna",
         "realName": "Bologna",
         "country": "italy",
@@ -2264,6 +2272,14 @@ var cities = [
         "x": "-38532.4",
         "y": "119.637",
         "z": "-69291.6"
+    },
+    {
+        "gameName": "fauske",
+        "realName": "Fauske",
+        "country": "norway",
+        "x": "17549.3",
+        "y": "40.7452",
+        "z": "-94905.7"
     },
     {
         "gameName": "felixstowe",
@@ -3552,6 +3568,22 @@ var cities = [
         "x": "75.4609",
         "y": "89.3125",
         "z": "34539.4"
+    },
+    {
+        "gameName": "mo_i_rana",
+        "realName": "Mo i Rana",
+        "country": "norway",
+        "x": "15130.6",
+        "y": "42.8664",
+        "z": "-89632.2"
+    },
+    {
+        "gameName": "mosjoen",
+        "realName": "Mosjoen",
+        "country": "norway",
+        "x": "12554.1",
+        "y": "42.8662",
+        "z": "-86771.5"
     },
     {
         "gameName": "moskushamn",
