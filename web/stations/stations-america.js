@@ -15341,8 +15341,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC_SC"
         },
         {
-            name: "105.3 Dave FM",
-            logo: "stations/images-america/san_francisco/105.3 Dave FM.png",
+            name: "Live 105",
+            logo: "stations/images-america/san_francisco/Live 105.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kitsfmaac-imc"
         },
         {
@@ -41742,8 +41742,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2780/hls.m3u8"
         },
         {
-            name: "HOT 106.7",
-            logo: "stations/images-america/c2c/nashville_tn/Hot 106.7.png",
+            name: "Y’all 106.7",
+            logo: "stations/images-america/c2c/nashville_tn/Yall 106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNFNFMAAC_SC"
         },
         {
