@@ -4007,8 +4007,8 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC"
         },
         {
-            name: "102.9 NOW",
-            logo: "stations/images-america/texas/dallas_fort_worth/102.9 NOW.png",
+            name: "MIX 102.9",
+            logo: "stations/images-america/texas/dallas_fort_worth/MIX 102.9.png",
             url: "https://stream.revma.ihrhls.com/zc2237/hls.m3u8"
         },
         {
@@ -35009,8 +35009,8 @@ var stations_c2c = {
             url: "https://corus.leanstream.co/CINGFM"
         },
         {
-            name: "96.1 The Breeze",
-            logo: "stations/images-america/c2c/buffalo_ny/96.1 The Breeze.png",
+            name: "Star 96.1",
+            logo: "stations/images-america/c2c/buffalo_ny/Star 96.1.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wmsxfmaac-ibc3"
         },
         {
