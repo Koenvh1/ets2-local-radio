@@ -41314,9 +41314,9 @@ var stations_c2c = {
             url: "http://64.78.234.165:8000/WLCD"
         },
         {
-            name: "FM 100",
-            logo: "stations/images-america/c2c/memphis_tn/FM 100.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wmcfmaac-imc"
+            name: "99.7 The Wolf",
+            logo: "stations/images-america/c2c/memphis_tn/99.7 The Wolf.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wlfpfmaac-imc"
         },
         {
             name: "100 Jack FM",
@@ -41610,11 +41610,6 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wmfsfmaac-imc"
         },
         {
-            name: "94.1 The Wolf",
-            logo: "stations/images-america/c2c/memphis_tn/94.1 The Wolf.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wlfpfmaac-imc"
-        },
-        {
             name: "95.7 Hallelujah FM",
             logo: "stations/images-america/c2c/memphis_tn/95.7 Hallelujah FM.png",
             url: "https://stream.revma.ihrhls.com/zc2137/hls.m3u8"
@@ -41670,9 +41665,9 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/WGUE"
         },
         {
-            name: "FM 100",
-            logo: "stations/images-america/c2c/memphis_tn/FM 100.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wmcfmaac-imc"
+            name: "99.7 The Wolf",
+            logo: "stations/images-america/c2c/memphis_tn/99.7 The Wolf.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wlfpfmaac-imc"
         },
         {
             name: "100.3 WVZM",
