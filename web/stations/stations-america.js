@@ -3962,8 +3962,8 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC"
         },
         {
-            name: "98.7 KLUV",
-            logo: "stations/images-america/texas/dallas_fort_worth/98.7 KLUV.png",
+            name: "98.7 The Spot",
+            logo: "stations/images-america/texas/dallas_fort_worth/98.7 The Spot.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kluvfmaac-imc"
         },
         {
