@@ -44240,11 +44240,6 @@ var stations_canada = {
             logo: "stations/images-america/canada/edmonton/Global News 880 Edmonton.png",
             url: "https://corus.leanstream.co/CHQTAM-MP3"
         },
-        {
-            name: "TSN 1260",
-            logo: "stations/images-america/canada/edmonton/TSN 1260 Edmonton.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC"
-        },
     ],
     "fortfrances": [
         {
@@ -45285,11 +45280,6 @@ var stations_canada = {
             name: "980 CFPL",
             logo: "stations/images-america/canada/london/980 CFPL.png",
             url: "https://corus.leanstream.co/CFPLAM-MP3"
-        },
-        {
-            name: "1290 CJBK",
-            logo: "stations/images-america/canada/london/1290 CJBK.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJBKAMAAC_SC"
         },
     ],
     "maniwaki": [
@@ -47471,11 +47461,6 @@ var stations_canada = {
             url: "https://live.leanstream.co/CKNWAM-MP3"
         },
         {
-            name: "Funny 1040",
-            logo: "stations/images-america/canada/vancouver/FUNNY 1040.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC_SC"
-        },
-        {
             name: "CityNews 1130",
             logo: "stations/images-america/canada/vancouver/CityNews 1130.png",
             url: "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy"
@@ -47484,11 +47469,6 @@ var stations_canada = {
             name: "AM1320 CHMB",
             logo: "stations/images-america/canada/vancouver/AM1320 CHMB.png",
             url: "https://stream.radiojar.com/nugqupcv8qzuv"
-        },
-        {
-            name: "BNN Bloomberg Radio 1410",
-            logo: "stations/images-america/canada/vancouver/BNN Bloomberg Radio 1410.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFTEAMAAC_SC"
         },
         {
             name: "Fairchild Radio 1470",
