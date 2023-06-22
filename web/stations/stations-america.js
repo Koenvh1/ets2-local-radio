@@ -15336,8 +15336,8 @@ var stations = {
             url: "http://www.streamcontrol.net:12010/;"
         },
         {
-            name: "Pirate Radio 92.7",
-            logo: "stations/images-america/san_francisco/Pirate Radio 92.7.png",
+            name: "Revolution 92.7",
+            logo: "stations/images-america/san_francisco/Revolution 92.7.png",
             url: "https://ice42.securenetsystems.net/KREV"
         },
         {
@@ -33455,8 +33455,8 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC_SC"
         },
         {
-            name: "BOB FM 103.5",
-            logo: "stations/images-america/c2c/joplin_mo/BOB FM 103.5.png",
+            name: "103.5 BOB FM",
+            logo: "stations/images-america/c2c/joplin_mo/103.5 BOB FM.png",
             url: "https://ice42.securenetsystems.net/KWXD"
         },
         {
@@ -34157,8 +34157,8 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://ais-sa1.streamon.fm/7714_128k.aac"
         },
         {
-            name: "BOB FM 107.5",
-            logo: "stations/images-america/c2c/springfield_mo/BOB FM 107.5.png",
+            name: "107.5 BOB FM",
+            logo: "stations/images-america/c2c/springfield_mo/107.5 BOB FM.png",
             url: "https://ice42.securenetsystems.net/KRZDAM"
         },
         {
