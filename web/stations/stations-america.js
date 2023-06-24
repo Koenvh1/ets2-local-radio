@@ -183,8 +183,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-keanfmaac-ibc3"
         },	
         {
-            name: "My 106.3",
-            logo: "stations/images-america/texas/abilene/My 106.3.png",
+            name: "La Grande 106.3",
+            logo: "stations/images-america/texas/abilene/La Grande 106.3.png",
             url: "https://ice42.securenetsystems.net/KAIRFM"
         },
         {
@@ -4559,11 +4559,6 @@ var stations = {
             url: "http://stream.revma.ihrhls.com/zc373/hls.m3u8"
         },
         {
-            name: "Evolution 95.7-HD3",
-            logo: "stations/images-america/0_general_logos/Evolution.png",
-            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
-        },
-        {
             name: "La Tricolor 96.5",
             logo: "stations/images-america/denver/La Tricolor 96.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFMAAC_SC"
@@ -5042,11 +5037,6 @@ var stations = {
             name: "96.3 KHEY",
             logo: "stations/images-america/texas/el_paso/96.3 KHEY.png",
             url: "https://stream.revma.ihrhls.com/zc3192/hls.m3u8"
-        },
-        {
-            name: "Country Top 30 96.3-HD2",
-            logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
-            url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
         },
         {
             name: "KéBuena 97.5",
@@ -12078,7 +12068,7 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kmlefmaac-imc"
         },
         {
-            name: "The Bet 107.9-HD3",
+            name: "The Bet 107.9-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
