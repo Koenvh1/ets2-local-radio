@@ -1694,9 +1694,9 @@ var stations = {
             url: "https://khcb.streamguys1.com/live-128k-mp3"
         },
         {
-            name: "105.3 FREE",
-            logo: "stations/images-america/texas/beaumont/105.3 FREE.png",
-            url: "https://streaming.live365.com/a12159"
+            name: "K-LOVE 105.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "BIG DOG 106",
@@ -3723,7 +3723,7 @@ var stations = {
         {
             name: "106.5 Bandtango Radio",
             logo: "stations/images-america/texas/corpus_christi/106.5 BANDTANGO Radio.png",
-            url: "https://crystalout.surfernetwork.com:8001/KYRK-FM_MP3"
+            url: "https://ice42.securenetsystems.net/KYRK"
         },
         {
             name: "La Ley 106.9",
@@ -4677,11 +4677,6 @@ var stations = {
             name: "106.7 The Bull",
             logo: "stations/images-america/denver/106.7 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc7784/hls.m3u8"
-        },
-        {
-            name: "The Breeze 106.7-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
             name: "FLO 107.1",

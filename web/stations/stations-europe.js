@@ -189,8 +189,8 @@ var stations = {
             url: "http://14678.cloudrad.io:9440/live"
         },
         {
-            name: "Radio Yerevan",
-            logo: "stations/images-europe/armenia/Radio Yerevan.png",
+            name: "Yerevan FM",
+            logo: "stations/images-europe/armenia/Yerevan FM.png",
             url: "https://eu1.stream4cast.com/proxy/arradioi/stream?1648992323080"
         },
     ],
@@ -3621,7 +3621,7 @@ var stations = {
         {
             name: "BBC World Service",
             logo: "stations/images-europe/netherlands/BBC World Service.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_world_service.m3u8",
         },
         {
             name: "BNR Nieuwsradio",
@@ -3768,12 +3768,12 @@ var stations = {
         {
             name: "BBC Radio Ulster",
             logo: "stations/images-europe/nireland/BBC Radio Ulster.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_ulster.m3u8"
         },
         {
             name: "BBC Radio Foyle",
             logo: "stations/images-europe/nireland/BBC Radio Foyle.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_foyle.m3u8"
         },
         {
             name: "Absolute Classic Rock",
@@ -4392,12 +4392,12 @@ var stations = {
         {
             name: "BBC Radio Scotland",
             logo: "stations/images-europe/scotland/BBC Radio Scotland.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_scotland_fm.m3u8"
         },
         {
             name: "BBC Radio nan Gàidheal",
             logo: "stations/images-europe/scotland/BBC Radio nan Gàidheal.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_nan_gaidheal.m3u8"
         },
         {
             name: "Capital FM Scotland",
@@ -4521,27 +4521,27 @@ var stations = {
         {
             name: "BBC Radio 1",
             logo: "stations/images-europe/uk/BBC Radio 1.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_one.m3u8"
         },
         {
             name: "BBC Radio 2",
             logo: "stations/images-europe/uk/BBC Radio 2.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_two.m3u8"
         },
         {
             name: "BBC Radio 3",
             logo: "stations/images-europe/uk/BBC Radio 3.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_three.m3u8"
         },
         {
             name: "BBC Radio Shetland",
             logo: "stations/images-europe/shetland/BBC Radio Shetland.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_mw"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_scotland_mw.m3u8"
         },
         {
             name: "BBC Radio 4",
             logo: "stations/images-europe/uk/BBC Radio 4.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourfm.m3u8"
         },
         {
             name: "60 North Radio",
@@ -5585,42 +5585,42 @@ var stations = {
         {
             name: "BBC Radio 1",
             logo: "stations/images-europe/uk/BBC Radio 1.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_one.m3u8"
         },
         {
             name: "BBC Radio 1Xtra",
             logo: "stations/images-europe/uk/BBC Radio 1Xtra.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_1xtra.m3u8"
         },
         {
             name: "BBC Radio 2",
             logo: "stations/images-europe/uk/BBC Radio 2.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_two.m3u8"
         },
         {
             name: "BBC Radio 3",
             logo: "stations/images-europe/uk/BBC Radio 3.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_three.m3u8"
         },
         {
             name: "BBC Radio 4",
             logo: "stations/images-europe/uk/BBC Radio 4.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourfm.m3u8"
         },
         {
             name: "BBC Radio 4 Extra",
             logo: "stations/images-europe/uk/BBC Radio 4 Extra.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_four_extra.m3u8"
         },
         {
             name: "BBC Radio 5 Live",
             logo: "stations/images-europe/uk/BBC Radio 5 Live.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_five_live.m3u8"
         },
         {
             name: "BBC Radio 6 Music",
             logo: "stations/images-europe/uk/BBC Radio 6 Music.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_6music"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_6music.m3u8"
         },
         {
             name: "Absolute Radio",
@@ -5869,12 +5869,12 @@ var stations = {
         {
             name: "BBC Radio Wales",
             logo: "stations/images-europe/wales/BBC Radio Wales.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_wales_fm.m3u8"
         },
         {
             name: "BBC Radio Cymru",
             logo: "stations/images-europe/wales/BBC Radio Cymru.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru"
+            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_cymru.m3u8"
         },
     ],
     "westbank": [
