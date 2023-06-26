@@ -2568,12 +2568,12 @@ var stations = {
             name: "107.7 Dave FM",
             logo: "stations/images-america/butte/107.7 Dave FM.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kmtzfmaac-ibc3"
-        },
+        },/*
         {
             name: "1310 KEIN",
             logo: "stations/images-america/butte/1310 KEIN.png",
             url: "https://stream.1310kein.ml:1310/stream"
-        },
+        },*/
     ],
     "carlsbad_nm": [
         {
@@ -4054,7 +4054,7 @@ var stations = {
         {
             name: "106.9 KGGR",
             logo: "stations/images-america/texas/dallas_fort_worth/1040 KGGR.png",
-            url: "http://185.106.98.26/index.php?u=http://streaming.live365.com/a64956"
+            url: "https://ice41.securenetsystems.net/KGGR"
         },
         {
             name: "La Grande 107.5",
@@ -4139,7 +4139,7 @@ var stations = {
         {
             name: "1040 KGGR",
             logo: "stations/images-america/texas/dallas_fort_worth/1040 KGGR.png",
-            url: "http://185.106.98.26/index.php?u=http://ais-edge106-live365-dal02.cdnstream.com/a64956"
+            url: "http://ice41.securenetsystems.net/KGGR"
         },
         {
             name: "1080 KRLD",
@@ -7383,12 +7383,12 @@ var stations = {
             name: "90.5-HD2 El Gato",
             logo: "stations/images-america/texas/huntsville/90.5-HD2 El Gato.png",
             url: "https://kshu.streamguys1.com/hd2-aac"
-        }, 
+        },/* 
         {
             name: "91.1 The Boss",
             logo: "stations/images-america/texas/huntsville/91.1 The Boss.png",
             url: "http://ic.streann.com:8000/lajefahouston"
-        }, 
+        },*/
         {
             name: "K220KC 91.9",
             logo: "stations/images-america/texas/houston/90.1 KPFT.png",
@@ -11625,12 +11625,12 @@ var stations = {
             name: "Vida Unida 89.5",
             logo: "stations/images-america/texas/houston/Vida Unida 91.7.png",
             url: "https://ksbj.streamguys1.com/vida/vidaunida.aac"
-        },
+        },/*
         {
             name: "KPAL 91.3",
             logo: "stations/images-america/texas/huntsville/91.1 The Boss.png",
             url: "http://ic.streann.com:8000/lajefahouston"
-        }, 
+        },*/
         {
             name: "KHPO 91.9",
             logo: "stations/images-america/0_general_logos/KHCB.png",

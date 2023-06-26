@@ -3419,13 +3419,28 @@ var stations = {
     "malta": [
         {
             name: "Radju Malta",
-            logo: "stations/images-europe/malta/Radju Malta.jpg",
+            logo: "stations/images-europe/malta/Radju Malta.png",
             url: "https://s38.myradiostream.com/6982/listen.mp3"
         },
         {
             name: "Radju Malta 2",
-            logo: "stations/images-europe/malta/Radju Malta 2.jpg",
+            logo: "stations/images-europe/malta/Radju Malta 2.png",
             url: "https://s11.myradiostream.com/:4954/listen.mp3"
+        },
+        {
+            name: "88.7 Vibe FM",
+            logo: "stations/images-europe/malta/88.7 Vibe FM.png",
+            url: "https://s9.voscast.com:7825/1"
+        },
+        {
+            name: "89.7 Bay",
+            logo: "stations/images-europe/malta/89.7 Bay.png",
+            url: "https://stream.v3.network:18022/;"
+        },
+        {
+            name: "BKR 94.5",
+            logo: "stations/images-europe/malta/BKR 94.5.png",
+            url: "https://s3.voscast.com:10893/stream"
         },
         {
             name: "103 Malta's Heart",
@@ -3433,10 +3448,95 @@ var stations = {
             url: "https://s2.radio.co/s955b1ced9/listen#.mp3"
         },
         {
-            name: "Bay Radio",
-            logo: "stations/images-europe/malta/Bay Radio.png",
-            url: "https://stream.v3.network:18022/;stream.mp3?_=1"
+            name: "Calypso Radio 101.8",
+            logo: "stations/images-europe/malta/Calypso Radio 101.8.png",
+            url: "https://s4.radio.co/sf3aa4c25a/listen"
         },
+        {
+            name: "Campus FM 103.7",
+            logo: "stations/images-europe/malta/Campus FM 103.7.png",
+            url: "https://campusfm.radioca.st/campusfm_live"
+        },
+        {
+            name: "Deejay's Radio 95.6FM",
+            logo: "stations/images-europe/malta/Deejay's Radio 95.6FM.png",
+            url: "http://freeuk30.listen2myradio.com:39939/;"
+        },
+        {
+            name: "Magic 91.7",
+            logo: "stations/images-europe/malta/Magic 91.7.png",
+            url: "https://s46.myradiostream.com/:6076/;"
+        },
+        {
+            name: "MICS Radio 93.3",
+            logo: "stations/images-europe/malta/MICS Radio 93.3.png",
+            url: "http://micsradio.ddns.net:90/;"
+        },/*
+        {
+            name: "NET FM",
+            logo: "stations/images-europe/malta/NET FM.png",
+            url: "https://s2.voscast.com:11392/;"
+        },*/
+        {
+            name: "ONE Radio",
+            logo: "stations/images-europe/malta/ONE Radio.png",
+            url: "http://s10.voscast.com:8202/stream"
+        },
+        {
+            name: "Radio 105",
+            logo: "stations/images-europe/malta/Radio 105.png",
+            url: "http://s5.voscast.com:9304/;"
+        },
+        {
+            name: "Radju Bambina 98.3",
+            logo: "stations/images-europe/malta/Radju Bambina 98.3.png",
+            url: "https://az.wannastream.com/radio/8050/radjubambina"
+        },
+        {
+            name: "Radio City 98 FM",
+            logo: "stations/images-europe/malta/Radio City 98 FM.png",
+            url: "http://freeuk18.listen2myradio.com:28250/;"
+        },
+        {
+            name: "Radju Ghazziela",
+            logo: "stations/images-europe/malta/Radju Ghazziela.png",
+            url: "http://freeuk23.listen2myradio.com:27074/;"
+        },
+        {
+            name: "Radio LBV 104",
+            logo: "stations/images-europe/malta/Radio LBV 104.png",
+            url: "https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria"
+        },
+        {
+            name: "Radju Leħen il-Belt Gorgjana",
+            logo: "stations/images-europe/malta/Radju Leħen il-Belt Gorgjana.png",
+            url: "http://s37.myradiostream.com:9088/listen.mp3"
+        },
+        {
+            name: "Radju Luminaria",
+            logo: "stations/images-europe/malta/Radju Luminaria.png",
+            url: "https://az.wannastream.com/radio/8000/radjuluminaria"
+        },
+        {
+            name: "Radju Marija",
+            logo: "stations/images-europe/malta/Radju Marija.png",
+            url: "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream"
+        },
+        {
+            name: "Radio Xeb er ras",
+            logo: "stations/images-europe/malta/Radio Xeb er ras.png",
+            url: "http://freeuk28.listen2myradio.com:20034/;"
+        },
+        {
+            name: "Smash Radio 104.6FM",
+            logo: "stations/images-europe/malta/Smash Radio 104.6FM.png",
+            url: "https://s3.free-shoutcast.com/stream/18040"
+        },/*
+        {
+            name: "XFM 100.2",
+            logo: "stations/images-europe/malta/XFM 100.2.png",
+            url: "http://s10.voscast.com:8202/stream"
+        },*/
     ],
     "mnegro": [
         {
@@ -4060,8 +4160,8 @@ var stations = {
             url: "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48"
         },
         {
-            name: "RMF MAXXX",
-            logo: "stations/images-europe/poland/RMF MAXXX.png",
+            name: "RMF MAXX",
+            logo: "stations/images-europe/poland/RMF MAXX.png",
             url: "https://rs201-krk.rmfstream.pl/RMFMAXXX48"
         },
         {
