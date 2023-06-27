@@ -14773,11 +14773,6 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://ice9.securenetsystems.net/KJZYHD2"
         },
         {
-            name: "Latino 95.5",
-            logo: "stations/images-america/santa_rosa_ca/Latino 95.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSXYHD2AAC_SC"
-        },
-        {
             name: "The Krush 95.9",
             logo: "stations/images-america/santa_rosa_ca/The Krush 95.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRSHFMAAC_SC"
@@ -14813,9 +14808,9 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://ice10.securenetsystems.net/KZSTFM"
         },
         {
-            name: "The 101",
-            logo: "stations/images-america/santa_rosa_ca/The 101.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSXYFMAAC_SC"
+            name: "Latino 100.9",
+            logo: "stations/images-america/santa_rosa_ca/Latino 100.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSXYHD2AAC_SC"
         },
         {
             name: "HOT 101.7",
@@ -42800,6 +42795,41 @@ var stations_c2c = {
             url: "https://wvpublic.streamguys1.com/wvpb256k.aac"
         },
         {
+            name: "Walk FM 89.3",
+            logo: "stations/images-america/c2c/charleston_wv/Walk FM.png",
+            url: "https://live.wostreaming.net/direct/wvradio-wkazfmaac-imc2"
+        },
+        {
+            name: "WXAF 90.9",
+            logo: "stations/images-america/c2c/charleston_wv/WXAF 90.9.png",
+            url: "https://shout2.brnstream.com/proxy/sweetestsound?mp=/stream"
+        },
+        {
+            name: "K-LOVE 93.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "93.7 The Dawg",
+            logo: "stations/images-america/c2c/charleston_wv/93.7 The Dawg.png",
+            url: "https://ice23.securenetsystems.net/WDGG"
+        },
+        {
+            name: "Groovy 94.1",
+            logo: "stations/images-america/c2c/charleston_wv/Groovy 94.1.png",
+            url: "https://ice24.securenetsystems.net/WAXS"
+        },
+        {
+            name: "New Life 94.5",
+            logo: "stations/images-america/c2c/charleston_wv/New Life 94.5.png",
+            url: "https://live.amperwave.net/manifest/bristolbroad-wynlfmaac-ibc2"
+        },
+        {
+            name: "95.3 KAZ",
+            logo: "stations/images-america/c2c/charleston_wv/95.3 KAZ.png",
+            url: "https://live.wostreaming.net/direct/wvradio-wkazfmaac-imc2"
+        },
+        {
             name: "96.1 KWS",
             logo: "stations/images-america/c2c/charleston_wv/96.1 KWS.png",
             url: "https://live.wostreaming.net/direct/wvradio-wkwsfmaac-imc2"
@@ -42830,6 +42860,11 @@ var stations_c2c = {
             url: "http://ice6.securenetsystems.net/WMXE"
         },
         {
+            name: "WSCW 102.3",
+            logo: "stations/images-america/c2c/charleston_wv/WSCW.png",
+            url: "https://ice7.securenetsystems.net/WSCW"
+        },
+        {
             name: "Electric 102.7",
             logo: "stations/images-america/c2c/charleston_wv/Electric 102.7.png",
             url: "https://live.wostreaming.net/manifest/bristolbroad-wvsrfmaac-ibc2"
@@ -42845,9 +42880,9 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://ice5.securenetsystems.net/WKLC"
         },
         {
-            name: "107.3 KAZ",
-            logo: "stations/images-america/c2c/charleston_wv/107.3 KAZ.png",
-            url: "https://live.wostreaming.net/direct/wvradio-wkazfmaac-imc2"
+            name: "WSCW 1410",
+            logo: "stations/images-america/c2c/charleston_wv/WSCW.png",
+            url: "http://ice7.securenetsystems.net/WSCW"
         },
     ],
     "huntington_wv": [

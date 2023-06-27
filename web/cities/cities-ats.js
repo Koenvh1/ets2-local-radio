@@ -7775,13 +7775,13 @@ var country_properties_c2c = {
         name: "charleston_wv",
         name_english: "charleston_wv",
         code: "us-wv",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "huntington_wv": {
         name: "Hungtington",
         name_english: "Hungtington",
         code: "us-wv",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "parkersburg_wv": {
         name: "parkersburg_wv",
@@ -8497,10 +8497,12 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "charleston_wv": {
-        relative_whitenoise: 0.85
+        relative_radius: 0.8,
+        relative_whitenoise: 0.95
     },
     "huntington_wv": {
-        relative_whitenoise: 0.85
+        relative_radius: 0.9,
+        relative_whitenoise: 0.95
     },
     "parkersburg_wv": {
         relative_whitenoise: 0.85
@@ -10366,14 +10368,30 @@ var cities_c2c = [
         "realName": "Charleston",
         "country": "charleston_wv",
         "x": "65115.5",
-        "y": "94.7539",
-        "z": "-672.621"
+        "y": "190.7539",
+        "z": "170.621"
+    },
+    {
+        "gameName": "charleston_wv",
+        "realName": "Charleston",
+        "country": "huntington_wv",
+        "x": "65115.5",
+        "y": "190.7539",
+        "z": "170.621"
     },
     {
         "gameName": "huntington_wv",
         "realName": "Huntington",
         "country": "huntington_wv",
-        "x": "57199.1",
+        "x": "58499.1",
+        "y": "12.0144",
+        "z": "-745.599"
+    },
+    {
+        "gameName": "huntington_wv",
+        "realName": "Huntington",
+        "country": "charleston_wv",
+        "x": "58499.1",
         "y": "12.0144",
         "z": "-745.599"
     },
