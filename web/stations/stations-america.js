@@ -42797,7 +42797,7 @@ var stations_c2c = {
         {
             name: "Walk FM 89.3",
             logo: "stations/images-america/c2c/charleston_wv/Walk FM.png",
-            url: "https://live.wostreaming.net/direct/wvradio-wkazfmaac-imc2"
+            url: "https://positivealtradio.streamguys1.com/wkaomp3"
         },
         {
             name: "WXAF 90.9",
@@ -46858,6 +46858,108 @@ var stations_canada = {
             name: "O99,1",
             logo: "stations/images-america/canada/septiles/O99,1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CIPC_FMAAC_SC"
+        },
+    ],
+    "sherbrooke": [
+        {
+            name: "CFAK 88.3",
+            logo: "stations/images-america/canada/sherbrooke/CFAK 88.3.png",
+            url: "https://streams.radiomast.io/a372c74f-6c78-48b9-9933-81a8fc50b54a"
+        },
+        {
+            name: "The Qube 88.9",
+            logo: "stations/images-america/canada/sherbrooke/The Qube 88.9.png",
+            url: "http://the.radioservers.biz:9996/stream"
+        },
+        {
+            name: "CBC Music 89.7",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBWFM_SC"
+        },
+        {
+            name: "ICI Musique 90.7",
+            logo: "stations/images-america/canada/ICI Musique.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SC"
+        },
+        {
+            name: "CBC Radio One 91.7",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBVEFM_SC"
+        },
+        {
+            name: "rythme 93.7",
+            logo: "stations/images-america/canada/sherbrooke/rythme 93.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFGEFMAAC_SC"
+        },
+        {
+            name: "CITE 94.5",
+            logo: "stations/images-america/canada/montreal/107.3 Rouge.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC_SC"
+        },
+        {
+            name: "CFLX 95.5",
+            logo: "stations/images-america/canada/sherbrooke/CFLX 95.5.png",
+            url: "https://stream1.diffusionavw.com:8006/stream"
+        },
+        {
+            name: "Radio VM 100.3",
+            logo: "stations/images-america/canada/montreal/Radio VM.png",
+            url: "https://s5.radio.co/sec326ff8a/listen"
+        },
+        {
+            name: "ICI Première 101.1",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/playlist.m3u8"
+        },
+        {
+            name: "CITE 102.7",
+            logo: "stations/images-america/canada/montreal/107.3 Rouge.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITEFMAAC.aac"
+        },
+        {
+            name: "106.1 Énergie",
+            logo: "stations/images-america/canada/sherbrooke/106.1 Énergie.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMOFMAAC_SC"
+        },
+        {
+            name: "CIMO 106.9",
+            logo: "stations/images-america/canada/sherbrooke/106.1 Énergie.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMOFMAAC.aac"
+        },
+        {
+            name: "107.7",
+            logo: "stations/images-america/canada/sherbrooke/107.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKOYFMAAC_SC"
+        },
+        {
+            name: "TSN 690",
+            logo: "stations/images-america/canada/montreal/TSN 690.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC_SC"
+        },
+        {
+            name: "Radio Circulation 730",
+            logo: "stations/images-america/canada/montreal/Radio Circulation 730.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC"
+        },
+        {
+            name: "CJAD 800",
+            logo: "stations/images-america/canada/montreal/CJAD 800.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC_SC"
+        },
+        {
+            name: "CFMB 1280",
+            logo: "stations/images-america/canada/montreal/CFMB 1280 AM.png",
+            url: "http://ice41.securenetsystems.net/CFMB"
+        },
+        {
+            name: "Radio Middle East 1450",
+            logo: "stations/images-america/canada/montreal/Radio Middle East 1450.png",
+            url: "https://s2.voscast.com:7387/stream"
+        },
+        {
+            name: "CJLO 1690",
+            logo: "stations/images-america/canada/montreal/CJLO 1690.png",
+            url: "http://rosetta.shoutca.st:8883/stream"
         },
     ],
     "stewart": [

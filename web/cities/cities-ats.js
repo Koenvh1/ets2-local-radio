@@ -7715,7 +7715,7 @@ var country_properties_c2c = {
         name: "burlington",
         name_english: "burlington",
         code: "us-vt",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "lebanon_nh": {
         name: "Lebanon",
@@ -10724,7 +10724,7 @@ var country_properties_canada = {
         name: "Montreal",
         name_english: "Montreal",
         code: "ca-qc",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "nakina": {
         name: "Nakina",
@@ -10760,7 +10760,7 @@ var country_properties_canada = {
         name: "Ottawa",
         name_english: "Ottawa",
         code: "ca-on",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "owensound": {
         name: "Owen Sound",
@@ -10857,6 +10857,12 @@ var country_properties_canada = {
         name_english: "Sept-Iles",
         code: "ca-qc",
         relative_radius: 1.2
+    },
+    "sherbrooke": {
+        name: "Sherbrooke",
+        name_english: "Sherbrooke",
+        code: "ca-qc",
+        relative_radius: 0.6
     },
     "stewart": {
         name: "Stewart",
@@ -11099,7 +11105,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "montreal": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "nakina": {
         relative_whitenoise: 0.95
@@ -11165,6 +11171,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.85
     },
     "septiles": {
+        relative_whitenoise: 0.95
+    },
+    "sherbrooke": {
         relative_whitenoise: 0.95
     },
     "stewart": {
@@ -11586,9 +11595,9 @@ var cities_canada = [
         "gameName": "montreal",
         "realName": "Montreal",
         "country": "montreal",
-        "x": "88078.1",
-        "y": "46.8359",
-        "z": "-48357.2"
+        "x": "88397.9",
+        "y": "75.8789",
+        "z": "-49154.3"
     },
     {
         "gameName": "north_bay",
@@ -11634,7 +11643,7 @@ var cities_canada = [
         "gameName": "ottawa",
         "realName": "Ottawa",
         "country": "ottawa",
-        "x": "81267",
+        "x": "80067",
         "y": "99.2305",
         "z": "-46320.4"
     },
@@ -11765,6 +11774,14 @@ var cities_canada = [
         "x": "103300",
         "y": "50",
         "z": "-80432.5"
+    },
+    {
+        "gameName": "sherbrooke",
+        "realName": "Sherbrooke",
+        "country": "sherbrooke",
+        "x": "94917",
+        "y": "69.5156",
+        "z": "-49305.4"
     },
     {
         "gameName": "stewart",
