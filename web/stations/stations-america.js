@@ -14937,6 +14937,11 @@ var stations = {
             url: "https://ksds-ice.streamguys1.com/ksds.mp3"
         },
         {
+            name: "SDS Radio 88.3-HD2",
+            logo: "stations/images-america/san_diego/SDS Radio 88.3-HD2.png",
+            url: "http://ksds-ice.streamguys.com/sds.mp3"
+        },
+        {
             name: "Radio Tecnológico 88.7",
             logo: "stations/images-america/san_diego/Radio Tecnológico 88.7.png",
             url: "https://playback2.akamaized.net/streams/22375670_6871847_lsitllzav47lyc3bek7_1/master.m3u8"
