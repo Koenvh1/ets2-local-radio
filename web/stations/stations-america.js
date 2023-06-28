@@ -5663,8 +5663,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFMAAC_SC"
         },
         {
-            name: "93.5 KAFF Country Legends",
-            logo: "stations/images-america/flagstaff/93.5 KAFF Country Legends.png",
+            name: "The Legend 93.5",
+            logo: "stations/images-america/flagstaff/The Legend.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
         },
         {
@@ -5753,8 +5753,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KAZM"
         },
         {
-            name: "KAFF-AM 930",
-            logo: "stations/images-america/flagstaff/93.5 KAFF Country Legends.png",
+            name: "The Legend AM 930",
+            logo: "stations/images-america/flagstaff/The Legend.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC.aac"
         },
         {
@@ -6315,8 +6315,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KTNN"
         },
         {
-            name: "KAFF-AM 930",
-            logo: "stations/images-america/flagstaff/93.5 KAFF Country Legends.png",
+            name: "The Legend AM 930",
+            logo: "stations/images-america/flagstaff/The Legend.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
         },
     ],
@@ -17331,6 +17331,26 @@ var stations = {
             name: "Hopi Radio 88.1",
             logo: "stations/images-america/tuba_city/Hopi Radio 88.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUYIFM_SC"
+        },
+        {
+            name: "KSUB 590",
+            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-ksubamaac-ibc3"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "780 KAZM",
+            logo: "stations/images-america/flagstaff/780 KAZM.png",
+            url: "https://ice9.securenetsystems.net/KAZM"
+        },
+        {
+            name: "The Legend AM 930",
+            logo: "stations/images-america/flagstaff/The Legend.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
         },
     ],
     "tucson": [
