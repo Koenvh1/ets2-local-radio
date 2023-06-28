@@ -1241,6 +1241,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.5
     },
+    "tuba_city": {
+        name: "Tuba City",
+        name_english: "Tuba City",
+        code: "us-az",
+        relative_radius: 0.4
+    },
     "tucson": {
         name: "Tucson",
         name_english: "Tucson",
@@ -2071,6 +2077,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "truth_or_consequences": {
+        relative_whitenoise: 0.95
+    },
+    "tuba_city": {
         relative_whitenoise: 0.95
     },
     "tucson": {
@@ -3272,6 +3281,14 @@ var cities = [
         "x": "-52987.3",
         "y": "83.4137",
         "z": "29697.8"
+    },
+    {
+        "gameName": "tuba_city",
+        "realName": "Tuba City",
+        "country": "tuba_city",
+        "x": "-68471.1",
+        "y": "74.8366",
+        "z": "9649.17"
     },
     {
         "gameName": "tucson",

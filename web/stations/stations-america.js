@@ -614,6 +614,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1385/hls.m3u8"
         },
         {
+            name: "610 The Sports Animal",
+            logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC.aac"
+        },
+        {
             name: "Conservative Talk ABQ AM730",
             logo: "stations/images-america/albuquerque/Conservative Talk ABQ AM730.png",
             url: "https://ice41.securenetsystems.net/KDAZ"
@@ -6551,14 +6556,49 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
         },
         {
+            name: "KPKJ 88.5",
+            logo: "stations/images-america/las_cruces/88.3 The Light.png",
+            url: "https://s5.radio.co/s914ba6b9a/listen"
+        },
+        {
+            name: "K-LOVE 88.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "VCY America 89.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },/*
+        {
             name: "KNIZ 90.1",
             logo: "stations/images-america/gallup/KNIZ 90.1.png",
             url: "http://198.143.144.226:8334/stream"
+        },*/
+        {
+            name: "CSN Radio 90.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "KGLP 91.7",
             logo: "stations/images-america/gallup/KGLP 91.7.png",
             url: "http://64.106.24.51:88/broadwavehigh.mp3"
+        },
+        {
+            name: "K227CB 93.3",
+            logo: "stations/images-america/farmington/KPCL 95.7.png",
+            url: "http://69.39.14.19:8000/kpcl"
+        },
+        {
+            name: "96.1 Capital Country",
+            logo: "stations/images-america/gallup/Capital Country.png",
+            url: "https://ice41.securenetsystems.net/KWRK"
+        },
+        {
+            name: "K246CY 97.1",
+            logo: "stations/images-america/gallup/KGAK.png",
+            url: "https://ice41.securenetsystems.net/KGAK"
         },
         {
             name: "99.1 KGLX",
@@ -6571,6 +6611,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5952/hls.m3u8"
         },
         {
+            name: "Relevant Radio 100.7",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
             name: "KTNN 101.5",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
@@ -6579,6 +6624,36 @@ var stations = {
             name: "Rock 106.1",
             logo: "stations/images-america/gallup/Rock 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc6002/hls.m3u8"
+        },
+        {
+            name: "K300CT 107.9",
+            logo: "stations/images-america/farmington/KTGW 91.7.png",
+            url: "http://69.39.14.19:8001/stream1"
+        },
+        {
+            name: "610 The Sports Animal",
+            logo: "stations/images-america/albuquerque/95.9 The Sports Animal.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNMLAMAAC_SC"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "http://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+        },
+        {
+            name: "KMIN Country 980",
+            logo: "stations/images-america/gallup/KMIN Country 980.png",
+            url: "http://66.232.19.13:23980/kmin"
+        },
+        {
+            name: "KGAK 1330",
+            logo: "stations/images-america/gallup/KGAK.png",
+            url: "http://ice41.securenetsystems.net/KGAK"
         },
     ],
     "gillette": [
@@ -17249,6 +17324,13 @@ var stations = {
             name: "770 KKOB",
             logo: "stations/images-america/albuquerque/96.3 KKOB.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+        },
+    ],
+    "tuba_city": [
+        {
+            name: "Hopi Radio 88.1",
+            logo: "stations/images-america/tuba_city/Hopi Radio 88.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUYIFM_SC"
         },
     ],
     "tucson": [
