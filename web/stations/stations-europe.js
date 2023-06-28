@@ -2505,9 +2505,19 @@ var stations = {
             url: "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3"
         },
         {
+            name: "Antenne NRW",
+            logo: "stations/images-europe/germany-wdr/Antenne NRW.png",
+            url: "https://s8-webradio.antenne.nrw/antenne-nrw/stream"
+        },
+        {
             name: "COSMO",
             logo: "stations/images-europe/germany-wdr/COSMO.png",
             url: "https://dispatcher.rndfnk.com/wdr/cosmo/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "kulthitRADIO",
+            logo: "stations/images-europe/germany-wdr/kulthitRADIO.png",
+            url: "https://frontend.streamonkey.net/kulthitradio-nrw"
         },
     ],
     "gibraltar": [

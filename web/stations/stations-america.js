@@ -12970,7 +12970,7 @@ var stations = {
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2UxMC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0xD"
+            url: "https://ice10.securenetsystems.net/KOLC"
         },*/
         {
             name: "KWNK 97.7",
@@ -13035,7 +13035,7 @@ var stations = {
         {
             name: "Sunny 106.9",
             logo: "stations/images-america/reno/Sunny 106.9.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2UxMC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LUk5P"
+            url: "https://ice10.securenetsystems.net/KRNO"
         },*/
         {
             name: "La Mejor 107.3",
