@@ -131,6 +131,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.5
     },
+    "bluff": {
+        name: "Bluff",
+        name_english: "Bluff",
+        code: "us-ut",
+        relative_radius: 0.5
+    },
     "boise": {
         name: "Boise",
         name_english: "Boise",
@@ -232,6 +238,12 @@ var country_properties = {
         name_english: "Childress",
         code: "us-tx",
         relative_radius: 0.7
+    },
+    "chinle": {
+        name: "Chinle",
+        name_english: "Chinle",
+        code: "us-az",
+        relative_radius: 0.5
     },
     "clayton": {
         name: "Clayton",
@@ -591,7 +603,7 @@ var country_properties = {
         name: "Kayenta",
         name_english: "Kayenta",
         code: "us-az",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "kennewick_pendleton": {
         name: "Kennewick/Pendleton",
@@ -1459,6 +1471,9 @@ var city_properties = {
     "big_spring": {
         relative_whitenoise: 0.95
     },
+    "bluff": {
+        relative_whitenoise: 0.95
+    },
     "boise": {
         relative_whitenoise: 0.85
     },
@@ -1518,6 +1533,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "childress": {
+        relative_whitenoise: 0.95
+    },
+    "chinle": {
         relative_whitenoise: 0.95
     },
     "clayton": {
@@ -1641,7 +1659,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "gallup": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.95
     },
     "galveston": {
 		relative_radius: 0.4,
@@ -1721,7 +1739,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kayenta": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "kennewick": {
         relative_radius: 0.8,
@@ -2323,6 +2341,14 @@ var cities = [
         "z": "37294.7"
     },
     {
+        "gameName": "bluff",
+        "realName": "Bluff",
+        "country": "bluff",
+        "x": "-60436.4",
+        "y": "87.1164",
+        "z": "4884.14"
+    },
+    {
         "gameName": "bishop",
         "realName": "Bishop",
         "country": "bishop",
@@ -2473,6 +2499,14 @@ var cities = [
         "x": "-19420.1",
         "y": "122.629",
         "z": "24984"
+    },
+    {
+        "gameName": "chinle",
+        "realName": "Chinle",
+        "country": "chinle",
+        "x": "-61531.6",
+        "y": "78.1244",
+        "z": "11680.6"
     },
     {
         "gameName": "clayton",

@@ -1967,6 +1967,58 @@ var stations = {
             url: "http://ic2.mainstreamnetwork.com/kibs-fm"
         },
     ],
+    "bluff": [
+        {
+            name: "KUHU 88.1",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "http://audio.KUER.org:8000/high"
+        },
+        {
+            name: "KSJD 90.5",
+            logo: "stations/images-america/bluff/KSJD.png",
+            url: "https://war.streamguys1.com:8435/?uuid=g48kb3f7p"
+        },
+        {
+            name: "Red Rock 92",
+            logo: "stations/images-america/bluff/Red Rock 92.png",
+            url: "https://ice8.securenetsystems.net/KBDX"
+        },
+        {
+            name: "97.9 KISS Country",
+            logo: "stations/images-america/farmington/97.9 KISS Country.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kiszfmaac-ibc3"
+        },
+        {
+            name: "98.7 KRTZ",
+            logo: "stations/images-america/durango/98.7 KRTZ.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
+        },
+        {
+            name: "KZNM 100.9",
+            logo: "stations/images-america/farmington/KSUT 89.7.png",
+            url: "https://ksut.streamguys1.com/ksut"
+        },
+        {
+            name: "K272EG 102.3",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "http://audio.KUER.org:8000/high_icy"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "KVFC AM 740",
+            logo: "stations/images-america/durango/KVFC AM 740.png",
+            url: "https://live.amperwave.net/manifest/agmedia28-kvfcamaac-ibc3"
+        },
+        {
+            name: "KNDN 960",
+            logo: "stations/images-america/farmington/KNDN 960.png",
+            url: "https://ice9.securenetsystems.net/KNDN"
+        },
+    ],
     "boise": [
         {
             name: "Project 88.7",
@@ -2974,6 +3026,23 @@ var stations = {
             logo: "stations/images-america/texas/childress/Classic Country 1150.png",
             url: "https://ice42.securenetsystems.net/KOLJ"
         },*/
+    ],
+    "chinle": [
+        {
+            name: "99.5 Capital Country",
+            logo: "stations/images-america/gallup/Capital Country.png",
+            url: "https://ice41.securenetsystems.net/KWRK"
+        },
+        {
+            name: "KFXR 107.3",
+            logo: "stations/images-america/gallup/99.1 KGLX.png",
+            url: "https://stream.revma.ihrhls.com/zc5951/hls.m3u8"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
     ],
     "clayton": [
         {
@@ -4795,6 +4864,26 @@ var stations = {
             logo: "stations/images-america/durango/XRock 105.3.png",
             url: "https://ice6.securenetsystems.net/KXRC"
         },*/
+        {
+            name: "KUBC 580",
+            logo: "stations/images-america/grand_junction_montrose/104.5 The Canyon.png",
+            url: "https://live.wostreaming.net/direct/townsquare-kubcamaac-ibc3"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "KVFC AM 740",
+            logo: "stations/images-america/durango/KVFC AM 740.png",
+            url: "https://live.amperwave.net/manifest/agmedia28-kvfcamaac-ibc3"
+        },
+        {
+            name: "KDGO 1240",
+            logo: "stations/images-america/durango/KDGO 98.3.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/agmedia28-kdgoamaac-ibc3"
+        },
     ],
     "eagle_pass": [
         {
@@ -5619,12 +5708,12 @@ var stations = {
             name: "Pirate Radio 107.9",
             logo: "stations/images-america/farmington/Pirate Radio 107.9.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kprtfmaac-ibc3"
-        },/*
+        },
         {
             name: "KNDN 960",
             logo: "stations/images-america/farmington/KNDN 960.png",
             url: "https://ice9.securenetsystems.net/KNDN"
-        },*/
+        },
         {
             name: "1390 KENN",
             logo: "stations/images-america/farmington/1390 KENN.png",
@@ -7987,19 +8076,9 @@ var stations = {
     ],
     "kayenta": [
         {
-            name: "Red Rock 92",
-            logo: "stations/images-america/moab/Red Rock 92.png",
+            name: "K251BC 98.1",
+            logo: "stations/images-america/bluff/Red Rock 92.png",
             url: "https://ice8.securenetsystems.net/KBDX"
-        },/*
-        {
-            name: "Red Rock 103.5",
-            logo: "stations/images-america/page/Red Rock 103.5.png",
-            url: "http://142.44.136.201:5152/stream"
-        },*/
-        {
-            name: "KFXR 107.3",
-            logo: "stations/images-america/gallup/99.1 KGLX.png",
-            url: "https://stream.revma.ihrhls.com/zc5951/hls.m3u8"
         },
         {
             name: "KTNN 660",
@@ -11003,7 +11082,7 @@ var stations = {
         },
         {
             name: "K268AV 101.5",
-            logo: "stations/images-america/moab/Red Rock 92.png",
+            logo: "stations/images-america/bluff/Red Rock 92.png",
             url: "https://ice8.securenetsystems.net/KBDX"
         },
         {
@@ -11666,7 +11745,7 @@ var stations = {
         },*/
         {
             name: "K251BC 97.9",
-            logo: "stations/images-america/moab/Red Rock 92.png",
+            logo: "stations/images-america/bluff/Red Rock 92.png",
             url: "https://ice8.securenetsystems.net/KBDX"
         },
         {
