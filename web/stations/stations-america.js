@@ -10663,8 +10663,8 @@ var stations = {
             url: "http://208.74.9.25:8000/korj.mp3"
         },
         {
-            name: "KLDR 98.1",
-            logo: "stations/images-america/medford/KLDR 98.1.png",
+            name: "98.3 KLDR",
+            logo: "stations/images-america/medford/98.3 KLDR.png",
             url: "https://live.wostreaming.net/manifest/grantspass-kldrfmaac-ibc2"
         },
         {
