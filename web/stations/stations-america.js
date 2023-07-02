@@ -29047,6 +29047,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/unionbroadcasting-kkgqfmaac-ibc2"
         },
         {
+            name: "92.7 Classic Hits",
+            logo: "stations/images-america/c2c/wichita_ks/92.7 Classic Hits.png",
+            url: "https://ice25.securenetsystems.net/KWME"
+        },
+        {
             name: "KGSO 93.9",
             logo: "stations/images-america/c2c/wichita_ks/KGSO 93.9.png",
             url: "http://162.244.80.178:8000/;"
@@ -29085,6 +29090,11 @@ var stations_c2c = {
             name: "KNSS 98.7",
             logo: "stations/images-america/c2c/wichita_ks/KNSS 98.7.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knssamaac-imc"
+        },
+        {
+            name: "My Country 100.5",
+            logo: "stations/images-america/c2c/wichita_ks/My Country 100.5.png",
+            url: "https://ice25.securenetsystems.net/KVWF"
         },
         {
             name: "KFDI 101.3",
@@ -39290,6 +39300,16 @@ var stations_c2c = {
             url: "https://ice10.securenetsystems.net/WQYX"
         },
         {
+            name: "B94",
+            logo: "stations/images-america/c2c/dubois_pa/B94.png",
+            url: "https://live.amperwave.net/manifest/laurelmedia-wkbifmaac-ibc1"
+        },
+        {
+            name: "POP! 95.9",
+            logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
+            url: "http://ice10.securenetsystems.net/WQYX"
+        },
+        {
             name: "Connect FM 96.7",
             logo: "stations/images-america/c2c/dubois_pa/Connect FM 96.7.png",
             url: "https://ice23.securenetsystems.net/WCED"
@@ -39320,9 +39340,29 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WOKW"
         },
         {
+            name: "WPXZ 104.1",
+            logo: "stations/images-america/c2c/dubois_pa/WPXZ 104.1.png",
+            url: "https://ice64.securenetsystems.net/WPXZ"
+        },
+        {
+            name: "KOOL 103.3",
+            logo: "stations/images-america/c2c/dubois_pa/KOOL 103.3.png",
+            url: "https://ice64.securenetsystems.net/WKQL"
+        },
+        {
+            name: "Mega Rock 105.5",
+            logo: "stations/images-america/c2c/dubois_pa/Mega Rock 100.5.png",
+            url: "http://ice41.securenetsystems.net/WMKX"
+        },
+        {
             name: "Sunny 106",
             logo: "stations/images-america/c2c/dubois_pa/Sunny 106.png",
             url: "http://185.106.98.26/index.php?u=https://ice64.securenetsystems.net/SUNNY106"
+        },
+        {
+            name: "Family Life Radio 107.3",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
         },
     ],
     "erie_pa": [
