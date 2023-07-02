@@ -371,6 +371,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.6
     },
+    "eagle_nest": {
+        name: "Eagle Nest",
+        name_english: "Eagle Nest",
+        code: "us-nm",
+        relative_radius: 0.5
+    },
     "ehrenberg": {
         name: "Ehrenberg",
         name_english: "Ehrenberg",
@@ -1235,6 +1241,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "tierra_amarilla": {
+        name: "Tierra Amarilla",
+        name_english: "Tierra Amarilla",
+        code: "us-nm",
+        relative_radius: 0.5
+    },
     "tonopah": {
         name: "Tonopah",
         name_english: "Tonopah",
@@ -1602,6 +1614,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "eagle_pass": {
+        relative_whitenoise: 0.95
+    },
+    "eagle_nest": {
         relative_whitenoise: 0.95
     },
     "ehrenberg": {
@@ -2020,8 +2035,8 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "santa_fe": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.80
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "santa_maria": {
         relative_whitenoise: 0.85
@@ -2087,6 +2102,9 @@ var city_properties = {
     },
     "the_dalles": {
         relative_whitenoise: 0.85
+    },
+    "tierra_amarilla": {
+        relative_whitenoise: 0.95
     },
     "tonopah": {
         relative_whitenoise: 0.85
@@ -2555,6 +2573,14 @@ var cities = [
         "x": "-22270.2",
         "y": "58.2648",
         "z": "57994.2"
+    },
+    {
+        "gameName": "eagle_nest",
+        "realName": "Eagle Nest",
+        "country": "eagle_nest",
+        "x": "-42881.7",
+        "y": "103.849",
+        "z": "11832.4"
     },
     {
         "gameName": "ehrenberg",
@@ -3547,6 +3573,14 @@ var cities = [
         "x": "-96967.8",
         "y": "79.5923",
         "z": "-50162.2"
+    },
+    {
+        "gameName": "tierra_amarilla",
+        "realName": "Tierra Amarilla",
+        "country": "tierra_amarilla",
+        "x": "-47359.9",
+        "y": "80.5339",
+        "z": "10267"
     },
     {
         "gameName": "bellingham",

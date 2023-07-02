@@ -377,8 +377,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KZBRFM?playSessionID=C706CB9E-449C-4C47-A5202F0CF156933F"
         },*/
         {
-            name: "Radio Exitos 99.1",
-            logo: "stations/images-america/raton/Radio Exitos 99.1.png",
+            name: "99.1 KXMT",
+            logo: "stations/images-america/raton/99.1 KXMT.png",
             url: "http://centova87.instainternet.com:8055/stream"
         },
         {
@@ -4868,6 +4868,98 @@ var stations = {
             name: "KDGO 1240",
             logo: "stations/images-america/durango/KDGO 98.3.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/agmedia28-kdgoamaac-ibc3"
+        },
+    ],
+    "eagle_nest": [
+        {
+            name: "KRZA 88.7",
+            logo: "stations/images-america/alamosa/KRZA 88.7.png",
+            url: "http://crystalout.surfernetwork.com:8001/KRZA-FM_MP3"
+        },
+        {
+            name: "Cultural Energy 90.1",
+            logo: "stations/images-america/alamosa/Cultural Energy 90.1.png",
+            url: "https://stream.pacificaservice.org:9000/kcei_128"
+        },
+        {
+            name: "K213ET 90.5",
+            logo: "stations/images-america/albuquerque/KUNM 89.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUNMFM_128_SC"
+        },
+        {
+            name: "KNCE 93.5",
+            logo: "stations/images-america/taos/KNCE 93.5.png",
+            url: "https://shoutcast.brownrice.com:8002/stream"
+        },
+        {
+            name: "95.9 The Mountain",
+            logo: "stations/images-america/taos/95.9 The Mountain.png",
+            url: "http://centova87.instainternet.com:8729/stream"
+        },
+        {
+            name: "K246BP 97.1",
+            logo: "stations/images-america/raton/The Mountain 92.5.png",
+            url: "https://ice42.securenetsystems.net/KCRTFM"
+        },
+        {
+            name: "K248CV 97.5",
+            logo: "stations/images-america/santa_fe/KTAOS 101.9.png",
+            url: "https://5f9f690034fb0.streamlock.net:444/ktao/ktao.stream_aac/playlist.m3u8"
+        },
+        {
+            name: "98.1 KVOT",
+            logo: "stations/images-america/taos/KVOT.png",
+            url: "http://centova87.instainternet.com:8741//stream"
+        },
+        {
+            name: "99.1 KXMT",
+            logo: "stations/images-america/raton/99.1 KXMT.png",
+            url: "http://centova87.instainternet.com:8055/stream"
+        },
+        {
+            name: "KKTC 99.9",
+            logo: "stations/images-america/raton/KKTC 99.9.png",
+            url: "http://centova87.instainternet.com:8737/stream"
+        },
+        {
+            name: "KTAOS 101.9",
+            logo: "stations/images-america/santa_fe/KTAOS 101.9.png",
+            url: "https://5f9f690034fb0.streamlock.net:444/ktao/ktao.stream_aac//playlist.m3u8"
+        }, 
+        {
+            name: "K272ET 102.3",
+            logo: "stations/images-america/santa_fe/98.1 KBAC.png",
+            url: "http://shoutcast.brownrice.com:8000/;"
+        },
+        {
+            name: "105.5 KTRZ",
+            logo: "stations/images-america/taos/105.5 KTRZ.png",
+            url: "http://centova87.instainternet.com:8733/stream"
+        },
+        {
+            name: "K292FW 106.3",
+            logo: "stations/images-america/roswell/95.5 KHFM.png",
+            url: "https://live.wostreaming.net/direct/agmedia28-khfmfmaac-ibc3"
+        },
+        {
+            name: "Mix 106.5",
+            logo: "stations/images-america/raton/Mix 106.5.png",
+            url: "http://centova87.instainternet.com:8725/stream"
+        },
+        {
+            name: "107.5 Outlaw Country",
+            logo: "stations/images-america/santa_fe/107.5 Outlaw Country.png",
+            url: "http://172.97.100.38:8004/;"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
+        },
+        {
+            name: "1340 KVOT",
+            logo: "stations/images-america/taos/KVOT.png",
+            url: "http://centova87.instainternet.com:8741/stream"
         },
     ],
     "eagle_pass": [
@@ -12831,8 +12923,8 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KBKZFM"
         },
         {
-            name: "Radio Exitos 99.1",
-            logo: "stations/images-america/raton/Radio Exitos 99.1.png",
+            name: "99.1 KXMT",
+            logo: "stations/images-america/raton/99.1 KXMT.png",
             url: "http://centova87.instainternet.com:8055/stream"
         },
         {
@@ -17272,6 +17364,53 @@ var stations = {
             name: "KODL 1440",
             logo: "stations/images-america/the_dalles/KODL 100.7.png",
             url: "http://ice3.securenetsystems.net/KODL"
+        },
+    ],
+    "tierra_amarilla": [
+        {
+            name: "KRZA 88.7",
+            logo: "stations/images-america/alamosa/KRZA 88.7.png",
+            url: "http://crystalout.surfernetwork.com:8001/KRZA-FM_MP3"
+        },
+        {
+            name: "KCIE 90.5",
+            logo: "stations/images-america/tierra_amarilla/KCIE 90.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC"
+        },
+        {
+            name: "Radio Bilingüe 91.7",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
+            url: "http://50.245.174.62:7070/broadwave.mp3"
+        },
+        {
+            name: "Jam'n 94.7",
+            logo: "stations/images-america/santa_fe/Jam'n 94.7.png",
+            url: "http://live1.brownrice.com:8008/;"
+        },
+        {
+            name: "96.1 KXJR",
+            logo: "stations/images-america/tierra_amarilla/96.1 KXJR.png",
+            url: "https://ice8.securenetsystems.net/KXJR"
+        },
+        {
+            name: "99.1 KXMT",
+            logo: "stations/images-america/raton/99.1 KXMT.png",
+            url: "http://centova87.instainternet.com:8055/stream"
+        },
+        {
+            name: "107.5 Outlaw Country",
+            logo: "stations/images-america/santa_fe/107.5 Outlaw Country.png",
+            url: "http://172.97.100.38:8004/;"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "770 KKOB",
+            logo: "stations/images-america/albuquerque/96.3 KKOB.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC_SC"
         },
     ],
     "tonopah": [
