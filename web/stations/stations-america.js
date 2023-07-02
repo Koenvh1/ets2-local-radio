@@ -355,6 +355,11 @@ var stations = {
             name: "Cultural Energy 90.1",
             logo: "stations/images-america/alamosa/Cultural Energy 90.1.png",
             url: "https://stream.pacificaservice.org:9000/kcei_128"
+        },
+        {
+            name: "K225AZ 92.9",
+            logo: "stations/images-america/farmington/KPCL 95.7.png",
+            url: "http://69.39.14.19:8000/kpcl"
         },/*
         {
             name: "KALQ 93.5",
@@ -395,6 +400,21 @@ var stations = {
             name: "The Light 102.7",
             logo: "stations/images-america/0_general_logos/The Light.png",
             url: "https://stream.ktlf.radio/radio/8000/theLight"
+        },
+        {
+            name: "VCY America 106.5",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "670 KLTT",
+            logo: "stations/images-america/denver/670 KLTT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+        },
+        {
+            name: "FOX Sports 1240",
+            logo: "stations/images-america/alamosa/FOX Sports 101.3.png",
+            url: "http://185.106.98.26/index.php?u=http://ice6.securenetsystems.net/KBGV"
         },/*
         {
             name: "KGIW 1450",
