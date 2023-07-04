@@ -18496,11 +18496,6 @@ var stations = {
             url: "https://ssl-1.stream.miriamtech.net/red-c/KYAR"
         },
         {
-            name: "99.3 Kicker Country",
-            logo: "stations/images-america/waco/99.3 Kicker Country.png",
-            url: "https://ais-sa1.streamon.fm/7046_24k.aac"
-        },
-        {
             name: "WACO 100",
             logo: "stations/images-america/waco/WACO 100.png",
             url: "https://stream.revma.ihrhls.com/zc2377/hls.m3u8"
@@ -18531,8 +18526,8 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KWOW"
         },
         {
-            name: "KBHT 104.9",
-            logo: "stations/images-america/waco/99.3 Kicker Country.png",
+            name: "104.9 Kicker Country",
+            logo: "stations/images-america/waco/104.9 Kicker Country.png",
             url: "https://ais-sa1.streamon.fm//7046_24k.aac"
         },
         {
@@ -18562,7 +18557,7 @@ var stations = {
         },
         {
             name: "Kicker Country 1590",
-            logo: "stations/images-america/waco/99.3 Kicker Country.png",
+            logo: "stations/images-america/waco/104.9 Kicker Country.png",
             url: "http://ais-sa1.streamon.fm/7046_24k.aac"
         },
         {
