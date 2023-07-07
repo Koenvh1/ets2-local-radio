@@ -2034,7 +2034,7 @@ var stations = {
         {
             name: "hr-iNFO",
             logo: "stations/images-europe/germany-hr/hr-info.png",
-            url: "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/96/stream.mp3"
+            url: "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/128/stream.mp3"
         },
         {
             name: "YOU FM",
@@ -3619,7 +3619,7 @@ var stations = {
         {
             name: "Radio Moldova Muzical",
             logo: "stations/images-europe/moldova/Radio Moldova Muzical.png",
-            url: "http://radiolive.trm.md:8000/RM-muzical-256"
+            url: "http://radiolive.trm.md:8000/RC-Muzical"
         },
         {
             name: "Radio Moldova Tineret",
