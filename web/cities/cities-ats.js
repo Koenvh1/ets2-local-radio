@@ -497,12 +497,6 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.4
     },
-    "grand_junction": {
-        name: "Grand Junction",
-        name_english: "Grand Junction",
-        code: "us-co",
-        relative_radius: 0.7
-    },
     "grand_junction_montrose": {
         name: "Grand Junction/Montrose",
         name_english: "Grand Junction/Montrose",
@@ -873,6 +867,12 @@ var country_properties = {
         name: "Omak",
         name_english: "Omak",
         code: "us-wa",
+        relative_radius: 0.7
+    },
+    "ouray": {
+        name: "Ouray",
+        name_english: "Ouray",
+        code: "us-co",
         relative_radius: 0.7
     },
     "oxnard": {
@@ -1689,10 +1689,6 @@ var city_properties = {
     "g_canyon_vlg": {
         relative_whitenoise: 0.85
     },
-    "grand_junction": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.85
-    },
     "grand_junction_montrose": {
         relative_whitenoise: 0.85
     },
@@ -1901,6 +1897,10 @@ var city_properties = {
     },
     "omak": {
         relative_whitenoise: 0.85
+    },
+    "ouray": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
     },
     "oxnard": {
         relative_radius: 0.6,
@@ -3655,6 +3655,14 @@ var cities = [
         "z": "-64462"
     },
     {
+        "gameName": "ouray",
+        "realName": "Ouray",
+        "country": "grand_junction_montrose",
+        "x": "-51932",
+        "y": "100.221",
+        "z": "1738.21"
+    },
+    {
         "gameName": "pocatello",
         "realName": "Pocatello",
         "country": "idaho_falls",
@@ -4197,14 +4205,6 @@ var cities = [
         "x": "-48845.1",
         "y": "93.5559",
         "z": "-5649.02"
-    },
-    {
-        "gameName": "grand_junction",
-        "realName": "Grand Junction",
-        "country": "grand_junction_montrose",
-        "x": "-54552.1",
-        "y": "108.517",
-        "z": "-4304.88"
     },
     {
         "gameName": "grand_junction_montrose",
