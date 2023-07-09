@@ -7262,7 +7262,7 @@ var country_properties_c2c = {
         code: "us-mt",
         relative_radius: 0.8
     },
-    "malta": {
+    "malta_mt": {
         name: "Malta",
         name_english: "Malta",
         code: "us-mt",
@@ -8318,7 +8318,7 @@ var city_properties_c2c = {
     "lewistown": {
         relative_whitenoise: 0.85
     },
-    "malta": {
+    "malta_mt": {
         relative_whitenoise: 0.85
     },
     "milescity": {
@@ -9737,9 +9737,9 @@ var cities_c2c = [
         "z": "-49878.1"
     },
     {
-        "gameName": "malta",
+        "gameName": "malta_mt",
         "realName": "Malta",
-        "country": "malta",
+        "country": "malta_mt",
         "x": "-46872.8",
         "y": "218.148",
         "z": "-55913.4"

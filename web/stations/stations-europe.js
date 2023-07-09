@@ -1112,7 +1112,7 @@ var stations = {
         {
             name: "ERTU Al Quran al Kareem",
             logo: "stations/images-europe/egypt/ERTU.png",
-            url: "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8"
+            url: "http://66.45.232.131:9994/;"
         },
         {
             name: "ERTU Al Orobi",
@@ -1163,12 +1163,12 @@ var stations = {
             name: "NRJ Egypt",
             logo: "stations/images-europe/egypt/NRJ Egypt.png",
             url: "https://nrjstreaming.ahmed-melege.com/nrjegypt"
-        },
+        },/*
         {
             name: "Radio Masr",
             logo: "stations/images-europe/egypt/Radio Masr.png",
             url: "https://streaming.radio.co/scc13a6b96/listen"
-        },
+        },*/
     ],
     "estonia": [
         {
@@ -3371,7 +3371,7 @@ var stations = {
         {
             name: "L'essentiel Radio",
             logo: "stations/images-europe/luxembourg/L'essentiel Radio.png",
-            url: "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+            url: "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
         },
         {
             name: "Radio ARA",
@@ -3642,9 +3642,9 @@ var stations = {
             url: "https://stream.hitfm.md:8443/HitFM"
         },
         {
-            name: "Новое Радио",
+            name: "Новое Радио Молдова",
             logo: "stations/images-europe/moldova/Новое Радио.png",
-            url: "http://89.28.72.10:7030/live"
+            url: "https://radiosolo.ru/radio/novoemd/icecast.audio"
         },
         {
             name: "Publika FM",
@@ -4353,12 +4353,12 @@ var stations = {
         {
             name: "Comedy Radio",
             logo: "stations/images-europe/russia/Comedy Radio.png",
-            url: "https://pub0201.101.ru:8443/stream/air/aac/64/202"
+            url: "https://srv21.gpmradio.ru:8443/stream/air/aac/64/202"
         },
         {
             name: "Детское Радио",
             logo: "stations/images-europe/russia/Детское Радио - Detskoe Radio.png",
-            url: "https://pub0201.101.ru:8443/stream/air/aac/64/199"
+            url: "https://srv21.gpmradio.ru:8443/stream/air/aac/64/199"
         },
         {
             name: "DFM",
@@ -4403,7 +4403,7 @@ var stations = {
         {
             name: "Новое Радио",
             logo: "stations/images-europe/russia/Новое Радио - New Radio.png",
-            url: "https://icecast-newradio.cdnvideo.ru/newradio3"
+            url: "https://stream.newradio.ru/novoe96.aacp"
         },
         {
             name: "Radio 7",
@@ -4438,7 +4438,7 @@ var stations = {
         {
             name: "Радио Мир",
             logo: "stations/images-europe/russia/Радио Мир - Radio Mir.png",
-            url: "https://icecast-mirtv.cdnvideo.ru/radio_mir128"
+            url: "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
         },
         {
             name: "Radio Monte Carlo",
@@ -4485,7 +4485,32 @@ var stations = {
         {
             name: "إذاعة القران الكريم",
             logo: "stations/images-europe/saudi/إذاعة القران الكريم.png",
-            url: "http://live2.badrshfaqah.sa:8027/stream"
+            url: "http://stream.radiojar.com/4wqre23fytzuv"
+        },
+        {
+            name: "Alif Alif FM",
+            logo: "stations/images-europe/saudi/Alif Alif FM.png",
+            url: "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3"
+        },
+        {
+            name: "MBC FM",
+            logo: "stations/images-europe/saudi/MBC FM.png",
+            url: "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"
+        },
+        {
+            name: "MIX FM",
+            logo: "stations/images-europe/saudi/MIX FM.png",
+            url: "https://s1.voscast.com:11377/live.mp3"
+        },
+        {
+            name: "Panorama FM",
+            logo: "stations/images-europe/saudi/Panorama FM.png",
+            url: "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_7.m3u8"
+        },
+        {
+            name: "Rotana",
+            logo: "stations/images-europe/saudi/Rotana.png",
+            url: "http://curiosity.shoutca.st:6035/;"
         },
         {
             name: "Saudi Radio",
@@ -5168,7 +5193,7 @@ var stations = {
         {
             name: "FM1",
             logo: "stations/images-europe/switzerland-de/FM1.png",
-            url: "https://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3"
+            url: "https://stream.streambase.ch/radiofm1/mp3-192/chmedia-radio-web"
         },
         {
             name: "GOAT Radio",
@@ -5183,12 +5208,12 @@ var stations = {
         {
             name: "Radio 24",
             logo: "stations/images-europe/switzerland-de/Radio 24.png",
-            url: "https://icecast.radio24.ch/radio24-rc-96-aac"
+            url: "https://stream.streambase.ch/radio24/mp3-192/chmedia-radio-web"
         },
         {
             name: "Radio Argovia",
             logo: "stations/images-europe/switzerland-de/Radio Argovia.png",
-            url: "https://icecast.argovia.ch/argovia-rc-96-aac"
+            url: "https://stream.streambase.ch/argovia/mp3-192/chmedia-radio-web"
         },
         {
             name: "Radio Central",
@@ -5218,7 +5243,7 @@ var stations = {
         {
             name: "Radio Pilatus",
             logo: "stations/images-europe/switzerland-de/Radio Pilatus.png",
-            url: "http://radiopilatus.ice.infomaniak.ch/pilatus192.mp3"
+            url: "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia-radio-web"
         },
         {
             name: "Radio TOP",
@@ -5892,7 +5917,7 @@ var stations = {
         {
             name: "DJ FM",
             logo: "stations/images-europe/ukraine/DJ FM.png",
-            url: "https://cast.radiogroup.com.ua/djfm320"
+            url: "https://cast.fex.net/djfm_x"
         },
         {
             name: "Xiт FM",
@@ -5942,7 +5967,7 @@ var stations = {
         {
             name: "Power FM",
             logo: "stations/images-europe/ukraine/Power FM.png",
-            url: "https://cast.radiogroup.com.ua/powerfm320"
+            url: "https://cast.fex.net/power_x"
         },
         {
             name: "Radio Relax",
@@ -5953,12 +5978,12 @@ var stations = {
             name: "RadioROKS",
             logo: "stations/images-europe/ukraine/RadioROKS.png",
             url: "http://online.radioroks.ua/RadioROKS_HD"
-        },
+        },/*
         {
             name: "Ретро FM",
             logo: "stations/images-europe/ukraine/Ретро FM.png",
             url: "http://cast.radiogroup.com.ua:8000/retro"
-        },
+        },*/
         {
             name: "Радіо Максимум",
             logo: "stations/images-europe/ukraine/Радіо Максимум.png",
@@ -5972,7 +5997,7 @@ var stations = {
         {
             name: "Радіо БАЙРАКТАР",
             logo: "stations/images-europe/ukraine/Радіо БАЙРАКТАР.png",
-            url: "https://online.radiobayraktar.com.ua/RadioBayraktar_HD"
+            url: "https://online.radiobayraktar.ua/RadioBayraktar_HD"
         },
     ],
     "wales": [
