@@ -509,6 +509,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.7
     },
+    "grand_lake": {
+        name: "Grand Lake",
+        name_english: "Grand Lake",
+        code: "us-co",
+        relative_radius: 0.5
+    },
     "grangeville": {
         name: "Grangeville",
         name_english: "Grangeville",
@@ -1700,6 +1706,9 @@ var city_properties = {
     },
     "grand_junction_west": {
 		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
+    "grand_lake": {
         relative_whitenoise: 0.95
     },
     "grangeville": {
@@ -4231,6 +4240,14 @@ var cities = [
         "x": "-55356.3",
         "y": "78.7566",
         "z": "-4570.03"
+    },
+    {
+        "gameName": "grand_lake",
+        "realName": "Grand Lake",
+        "country": "grand_lake",
+        "x": "-43107.9",
+        "y": "111.131",
+        "z": "-8889.43"
     },
     {
         "gameName": "helena",

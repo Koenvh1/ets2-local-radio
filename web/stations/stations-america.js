@@ -4628,6 +4628,11 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRKSFMAAC_SC"
         },
         {
+            name: "Legends 95.3",
+            logo: "stations/images-america/denver/Legends Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLVZAMAAC_SC"
+        },
+        {
             name: "HITS 95.7",
             logo: "stations/images-america/denver/HITS 95.7.png",
             url: "https://stream.revma.ihrhls.com/zc2795/hls.m3u8"
@@ -4798,9 +4803,24 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUSAMAAC_SC"
         },
         {
+            name: "Freedom 760",
+            logo: "stations/images-america/denver/Freedom 93.7.png",
+            url: "http://stream.revma.ihrhls.com/zc381/hls.m3u8"
+        },
+        {
+            name: "Legends 810",
+            logo: "stations/images-america/denver/Legends Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLVZAMAAC.aac"
+        },
+        {
             name: "Altitude 950",
             logo: "stations/images-america/denver/Altitude 950.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEAMAAC_SC"
+        },
+        {
+            name: "TUDN Radio 1090",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
         },
         {
             name: "Onda 1150",
@@ -6651,6 +6671,123 @@ var stations = {
             name: "KOOL 107.9",
             logo: "stations/images-america/grand_junction_montrose/KOOL 107.9.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kbklfmaac-ibc3"
+        },
+    ],
+    "grand_lake": [
+        {
+            name: "KFFR 88.3",
+            logo: "stations/images-america/grand_lake/KFFR 88.3.png",
+            url: "http://65.109.81.84:7037/live"
+        },
+        {
+            name: "94.7 The Word",
+            logo: "stations/images-america/denver/94.7 The Word.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRKSFMAAC_SC"
+        },
+        {
+            name: "96.1 KISS FM",
+            logo: "stations/images-america/fort_collins/96.1 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc417/hls.m3u8"
+        },
+        {
+            name: "La Tricolor 96.5",
+            logo: "stations/images-america/denver/La Tricolor 96.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRNVFMAAC_SC"
+        },
+        {
+            name: "97.3 KBCO",
+            logo: "stations/images-america/denver/97.3 KBCO.png",
+            url: "https://stream.revma.ihrhls.com/zc2804/hls.m3u8"
+        },
+        {
+            name: "BIG 97.9",
+            logo: "stations/images-america/fort_collins/BIG 97.9.png",
+            url: "https://stream.revma.ihrhls.com/zc3101/hls.m3u8"
+        },
+        {
+            name: "The LIFT 106.3",
+            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            url: "https://ais-sa1.streamon.fm/7124_48k.aac"
+        },
+        {
+            name: "107.9 KBPI",
+            logo: "stations/images-america/denver/107.9 KBPI.png",
+            url: "https://stream.revma.ihrhls.com/zc373/hls.m3u8"
+        },
+        {
+            name: "KLZ 560",
+            logo: "stations/images-america/denver/KLZ 560.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZAMAAC_SC"
+        },
+        {
+            name: "600 KCOL",
+            logo: "stations/images-america/fort_collins/600 KCOL.png",
+            url: "https://stream.revma.ihrhls.com/zc401/hls.m3u8"
+        },
+        {
+            name: "630 KHOW",
+            logo: "stations/images-america/denver/630 KHOW.png",
+            url: "https://stream.revma.ihrhls.com/zc377/hls.m3u8"
+        },
+        {
+            name: "KGAB AM 650",
+            logo: "stations/images-america/cheyenne/KGAB AM 650.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kgabamaac-ibc3"
+        },
+        {
+            name: "670 KLTT",
+            logo: "stations/images-america/denver/670 KLTT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+        },
+        {
+            name: "Freedom 760",
+            logo: "stations/images-america/denver/Freedom 93.7.png",
+            url: "https://stream.revma.ihrhls.com/zc381/hls.m3u8"
+        },
+        {
+            name: "Legends 810",
+            logo: "stations/images-america/denver/Legends Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLVZAMAAC_SC"
+        },
+        {
+            name: "KOA 850",
+            logo: "stations/images-america/denver/KOA 94.1.png",
+            url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
+        },
+        {
+            name: "KJMP 870",
+            logo: "stations/images-america/fort_collins/Jump 104.5.png",
+            url: "https://stream.radiojar.com/cqf7xwkb3mruv"
+        },
+        {
+            name: "AM91",
+            logo: "stations/images-america/grand_lake/AM91.png",
+            url: "https://ic1.sslstream.com/kpof-am"
+        },
+        {
+            name: "KRKY 930",
+            logo: "stations/images-america/fort_collins/98.3 KRKY.png",
+            url: "https://ice9.securenetsystems.net/KRKYFM"
+        },
+        {
+            name: "Catholic Radio 1060",
+            logo: "stations/images-america/fort_collins/Catholic Radio 1060.png",
+            url: "https://ice23.securenetsystems.net/CRN1"
+        },
+        {
+            name: "TUDN Radio 1090",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/univision-deportesaac-imc2"
+        },
+        {
+            name: "Relevant Radio 1120",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "1360 KHNC",
+            logo: "stations/images-america/fort_collins/1360 KHNC.png",
+            url: "https://ssl.shoutcaststreaming.us:8119/stream"
         },
     ],
     "cody": [
@@ -16775,6 +16912,21 @@ var stations = {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
             url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
+        },
+        {
+            name: "600 KCOL",
+            logo: "stations/images-america/fort_collins/600 KCOL.png",
+            url: "https://stream.revma.ihrhls.com/zc401/hls.m3u8"
+        },
+        {
+            name: "670 KLTT",
+            logo: "stations/images-america/denver/670 KLTT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+        },
+        {
+            name: "Freedom 760",
+            logo: "stations/images-america/denver/Freedom 93.7.png",
+            url: "https://stream.revma.ihrhls.com/zc381/hls.m3u8"
         },
     ],
 	"stephenville": [
