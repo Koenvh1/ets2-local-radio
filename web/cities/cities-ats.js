@@ -503,6 +503,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.7
     },
+    "grand_junction_west": {
+        name: "Grand Junction",
+        name_english: "Grand Junction",
+        code: "us-co",
+        relative_radius: 0.7
+    },
     "grangeville": {
         name: "Grangeville",
         name_english: "Grangeville",
@@ -1691,6 +1697,10 @@ var city_properties = {
     },
     "grand_junction_montrose": {
         relative_whitenoise: 0.85
+    },
+    "grand_junction_west": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
     },
     "grangeville": {
         relative_whitenoise: 0.85
@@ -4213,6 +4223,14 @@ var cities = [
         "x": "-52937.9",
         "y": "121.101",
         "z": "-2215.41"
+    },
+    {
+        "gameName": "grand_junction_west",
+        "realName": "Grand Junction",
+        "country": "grand_junction_montrose",
+        "x": "-55356.3",
+        "y": "78.7566",
+        "z": "-4570.03"
     },
     {
         "gameName": "helena",
