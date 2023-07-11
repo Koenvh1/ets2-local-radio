@@ -31317,9 +31317,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2513/hls.m3u8"
         },
         {
-            name: "iHeart Country Classics 98.7-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
-            url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
+            name: "98.7 WMZQ-HD2",
+            logo: "stations/images-america/c2c/washington_dc/Freedom 104.7.png",
+            url: "https://stream.revma.ihrhls.com/zc9914"
         },
         {
             name: "Bloomberg 99.1",
@@ -31367,9 +31367,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFMAAC_SC"
         },
         {
-            name: "W284CQ 104.7",
-            logo: "stations/images-america/c2c/washington_dc/1190 iHeart Sports DC.png",
-            url: "https://stream.revma.ihrhls.com/zc7311"
+            name: "Freedom 104.7",
+            logo: "stations/images-america/c2c/washington_dc/Freedom 104.7.png",
+            url: "https://stream.revma.ihrhls.com/zc9914/hls.m3u8"
         },
         {
             name: "WAVA 105.1",
