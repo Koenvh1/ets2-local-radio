@@ -2732,6 +2732,11 @@ var stations = {
             logo: "stations/images-europe/iceland/Útvarp Saga.png",
             url: "https://stream.utvarpsaga.is/Hljodver"
         },
+        {
+            name: "X977",
+            logo: "stations/images-europe/iceland/X977.png",
+            url: "https://live.visir.is/hls-radio/x977/playlist.m3u8"
+        },
     ],
     "iom": [
         {

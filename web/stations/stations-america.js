@@ -905,8 +905,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
-            name: "Lucy 93.3",
-            logo: "stations/images-america/austin/Lucy 93.3.png",
+            name: "Latino 93.3",
+            logo: "stations/images-america/austin/Latino 93.3.png",
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
