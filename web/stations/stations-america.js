@@ -25313,6 +25313,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc741/hls.m3u8"
         },
         {
+            name: "96.1 WWPW-HD2",
+            logo: "stations/images-america/c2c/atlanta_ga/96 ROCK.png",
+            url: "https://stream.revma.ihrhls.com/zc8917"
+        },
+        {
             name: "El Patrón 96.7",
             logo: "stations/images-america/c2c/atlanta_ga/El Patrón 96.7.png",
             url: "https://stream.revma.ihrhls.com/zc9205/hls.m3u8"
