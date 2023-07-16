@@ -41025,6 +41025,11 @@ var stations_c2c = {
             url: "http://server10.servistreaming.com:9016/stream/;"
         },
         {
+            name: "95.5 Earth FM",
+            logo: "stations/images-america/c2c/greenville_sc/Earth FM.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRTHFMAAC_SC"
+        },
+        {
             name: "96.3 The Block",
             logo: "stations/images-america/c2c/greenville_sc/96.3 The Block.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wfbchd2aac-imc"
@@ -41083,6 +41088,11 @@ var stations_c2c = {
             name: "Poder 102.9",
             logo: "stations/images-america/c2c/greenville_sc/Poder 102.9.png",
             url: "https://radiolatina.live:10997/;"
+        },
+        {
+            name: "103.3 Earth FM",
+            logo: "stations/images-america/c2c/greenville_sc/Earth FM.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRTHFMAAC.aac"
         },
         {
             name: "FOX Sports 104.9",

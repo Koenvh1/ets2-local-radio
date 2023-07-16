@@ -1759,7 +1759,7 @@ var stations = {
         {
             name: "Brillux Radio",
             logo: "stations/images-europe/germany/Brillux Radio.png",
-            url: "https://stream.brillux.radio/app"
+            url: "https://web.streams.brillux.radio/brillux-radio"
         },
         {
             name: "dpd DRIVER`S RADIO",
