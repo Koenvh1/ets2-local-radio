@@ -4043,7 +4043,7 @@ var stations = {
         {
             name: "98.7 The Spot",
             logo: "stations/images-america/dallas_fort_worth/98.7 The Spot.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kluvfmaac-imc"
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kspffmaac-imc"
         },
         {
             name: "Zona MX 99.1",
@@ -15704,6 +15704,11 @@ var stations = {
             url: "https://live.streamguys1.com:2435/kalw"
         },
         {
+            name: "Bay Country 92.1",
+            logo: "stations/images-america/san_francisco/Bay Country.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/alphacorporate-kbayfmaac-ibc4"
+        },
+        {
             name: "Bolly 92.3",
             logo: "stations/images-america/san_francisco/Bolly 92.3.png",
             url: "http://www.streamcontrol.net:12010/;"
@@ -15730,7 +15735,7 @@ var stations = {
         },
         {
             name: "Bay Country 94.5",
-            logo: "stations/images-america/san_francisco/Bay Country 94.5.png",
+            logo: "stations/images-america/san_francisco/Bay Country.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kbayfmaac-ibc4"
         },
         {
@@ -15840,7 +15845,7 @@ var stations = {
         },
         {
             name: "Bloomberg 103.7-HD2",
-            logo: "stations/images-america/san_francisco/Bloomberg 103.7-HD2.png",
+            logo: "stations/images-america/san_francisco/Bloomberg.png",
             url: "https://stream.revma.ihrhls.com/zc301/hls.m3u8"
         },
         {
@@ -15907,6 +15912,11 @@ var stations = {
             name: "BIN 910",
             logo: "stations/images-america/san_francisco/BIN 910.png",
             url: "https://stream.revma.ihrhls.com/zc297/hls.m3u8"
+        },
+        {
+            name: "Bloomberg 960",
+            logo: "stations/images-america/san_francisco/Bloomberg.png",
+            url: "https://stream.revma.ihrhls.com/zc301"
         },
         {
             name: "KIQI 1010",
@@ -27458,6 +27468,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLYDFMAAC_SC"
         },
         {
+            name: "93.9 WKTG",
+            logo: "stations/images-america/c2c/evansville_in/93.9 WKTG.png",
+            url: "https://server01.nkstreaming.com:8103/stream"
+        },
+        {
             name: "95.7 The Spin",
             logo: "stations/images-america/c2c/evansville_in/95.7 The Spin.png",
             url: "https://ice3.securenetsystems.net/WSWI"
@@ -35496,8 +35511,8 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wksefmaac-imc"
         },
         {
-            name: "98.9 The Vibe",
-            logo: "stations/images-america/c2c/buffalo_ny/98.9 The Vibe.png",
+            name: "HOT 98.9",
+            logo: "stations/images-america/c2c/buffalo_ny/HOT 98.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC_SC"
         },
         {
@@ -35549,6 +35564,11 @@ var stations_c2c = {
             name: "WBEN 930",
             logo: "stations/images-america/c2c/buffalo_ny/WBEN 930.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wbenamaac-imc"
+        },
+        {
+            name: "WBBF 1120",
+            logo: "stations/images-america/c2c/buffalo_ny/HOT 98.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC.aac"
         },
         {
             name: "Talk 1270",
@@ -43387,9 +43407,9 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/bristolbroad-wqbefmaac-ibc2"
         },
         {
-            name: "98.7 The Beat",
-            logo: "stations/images-america/c2c/charleston_wv/98.7 The Beat.png",
-            url: "https://live.wostreaming.net/direct/wvradio-wrvzfmaac-imc2"
+            name: "98.7 The Mountain",
+            logo: "stations/images-america/c2c/charleston_wv/98.7 The Mountain.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wcstfmaac-imc"
         },
         {
             name: "V100",
@@ -43420,6 +43440,11 @@ var stations_c2c = {
             name: "ROCK 105",
             logo: "stations/images-america/c2c/charleston_wv/ROCK 105.png",
             url: "http://185.106.98.26/index.php?u=https://ice5.securenetsystems.net/WKLC"
+        },
+        {
+            name: "107.3 The Beat",
+            logo: "stations/images-america/c2c/charleston_wv/107.3 The Beat.png",
+            url: "https://live.amperwave.net/manifest/wvradio-wrvzfmaac-imc2"
         },
         {
             name: "WSCW 1410",
