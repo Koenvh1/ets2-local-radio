@@ -38871,6 +38871,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC_SC"
         },
         {
+            name: "KREF 1400",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/KREF.png",
+            url: "https://ice9.securenetsystems.net/KREF"
+        },
+        {
             name: "Relevant Radio 1440",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
@@ -39080,6 +39085,11 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/KCRC"
         },
         {
+            name: "KREF 1400",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/KREF.png",
+            url: "https://ice9.securenetsystems.net/KREF"
+        },
+        {
             name: "1520 KOKC",
             logo: "stations/images-america/c2c/oklahoma_city_ok/95.3 KOKC.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
@@ -39152,9 +39162,9 @@ var stations_c2c = {
             url: "https://oasis.streamguys1.com/live-aac"
         },
         {
-            name: "K247BA 97.3",
-            logo: "stations/images-america/c2c/lawton_ok/Magic 95.png",
-            url: "https://ais-sa1.streamon.fm//7839_128k.aac"
+            name: "Big Country 97.3",
+            logo: "stations/images-america/c2c/lawton_ok/Big Country 97.3.png",
+            url: "https://ais-sa1.streamon.fm/7840_128k.aac"
         },
         {
             name: "97.9 JAMZ",
@@ -39202,9 +39212,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYYIFMAAC_SC"
         },
         {
-            name: "K247BA 105.5",
-            logo: "stations/images-america/c2c/lawton_ok/Magic 95.png",
-            url: "http://ais-sa1.streamon.fm/7839_128k.aac"
+            name: "Sooner Classic Hits 105.5",
+            logo: "stations/images-america/c2c/lawton_ok/Sooner Classic Hits 105.5.png",
+            url: "http://poolstream.ka0wuc.org:4444/sch"
         },
         {
             name: "Bott Radio 106.5",
@@ -39235,6 +39245,11 @@ var stations_c2c = {
             name: "The Ticket 1380",
             logo: "stations/images-america/c2c/lawton_ok/The Ticket 1380.png",
             url: "https://ice24.securenetsystems.net/KKRX"
+        },
+        {
+            name: "KREF 1400",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/KREF.png",
+            url: "https://ice9.securenetsystems.net/KREF"
         },
         {
             name: "1520 KOKC",
@@ -39524,8 +39539,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3066/hls.m3u8"
         },
         {
-            name: "Sports Talk 1400",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Sports Talk 1400.png",
+            name: "KREF 1400",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/KREF.png",
             url: "https://ice9.securenetsystems.net/KREF"
         },
         {
