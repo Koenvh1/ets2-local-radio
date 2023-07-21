@@ -7609,12 +7609,6 @@ var country_properties_c2c = {
         code: "us-ok",
         relative_radius: 0.5
     },
-    "elk_city": {
-        name: "elk_city",
-        name_english: "elk_city",
-        code: "us-ok",
-        relative_radius: 0.8
-    },
     "enid": {
         name: "Enid",
         name_english: "Enid",
@@ -8487,9 +8481,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "ardmore": {
-        relative_whitenoise: 0.95
-    },
-    "elk_city": {
         relative_whitenoise: 0.95
     },
     "enid": {
@@ -10138,14 +10129,6 @@ var cities_c2c = [
         "x": "-5258",
         "y": "62.8369",
         "z": "26225"
-    },
-    {
-        "gameName": "elk_city",
-        "realName": "Elk City",
-        "country": "elk_city",
-        "x": "-17446.3",
-        "y": "102.43",
-        "z": "21501.1"
     },
     {
         "gameName": "enid",

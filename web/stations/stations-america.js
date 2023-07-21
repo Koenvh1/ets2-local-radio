@@ -3112,7 +3112,114 @@ var stations = {
             logo: "stations/images-america/tucson/The Drive 101.7.png",
             url: "https://ice5.securenetsystems.net/KDRI"
         },
-    ],
+    ],/*
+    "clinton": [
+        {
+            name: "KGOU 89.1",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/KGOU 106.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC_SC"
+        },
+        {
+            name: "The House FM 89.9",
+            logo: "stations/images-america/0_general_logos/The House FM.png",
+            url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
+        },
+        {
+            name: "afr Hybrid 90.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "Effect Radio 91.1",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "https://ice6.securenetsystems.net/EFXAAC"
+        },
+        {
+            name: "KOOL 94",
+            logo: "stations/images-america/clinton/Kool 94.png",
+            url: "https://us2.maindigitalstream.com/ssl/KOOL"
+        },
+        {
+            name: "95.5 The Coyote",
+            logo: "stations/images-america/clinton/95.5 The Coyote.png",
+            url: "https://ice5.securenetsystems.net/KWEY"
+        },
+        {
+            name: "Coyote Classic 95.5-HD2",
+            logo: "stations/images-america/clinton/Coyote Classic.png",
+            url: "http://ice42.securenetsystems.net/KWEYAM"
+        },
+        {
+            name: "95.5 KWEY-HD3",
+            logo: "stations/images-america/clinton/101.7 The Zoo.png",
+            url: "http://ice5.securenetsystems.net/KKZU"
+        },
+        {
+            name: "The Score 95.5-HD4",
+            logo: "stations/images-america/clinton/The Score.png",
+            url: "http://ice42.securenetsystems.net/KCLIAM"
+        },
+        {
+            name: "KECO 96.5",
+            logo: "stations/images-america/clinton/KECO 96.5.png",
+            url: "http://173.193.205.96:8286/;"
+        },
+        {
+            name: "The Score 97.3",
+            logo: "stations/images-america/clinton/The Score.png",
+            url: "https://ice42.securenetsystems.net//KCLIAM"
+        },
+        {
+            name: "Oklahoma Catholic Radio 98.3",
+            logo: "stations/images-america/0_general_logos/Oklahoma Catholic Radio.png",
+            url: "https://crystalout.surfernetwork.com:8001/KKNG_MP3"
+        },
+        {
+            name: "KCLI 99.3",
+            logo: "stations/images-america/clinton/KCLI 99.3.png",
+            url: "https://ice7.securenetsystems.net/KCLI"
+        },
+        {
+            name: "Coyote Classic 100.3",
+            logo: "stations/images-america/clinton/Coyote Classic.png",
+            url: "http://ice42.securenetsystems.net//KWEYAM"
+        },
+        {
+            name: "101.7 The Zoo",
+            logo: "stations/images-america/clinton/101.7 The Zoo.png",
+            url: "https://ice5.securenetsystems.net/KKZU"
+        },
+        {
+            name: "Power 103.5",
+            logo: "stations/images-america/c2c/oklahoma_city_ok/Power 103.5.png",
+            url: "http://crystalout.surfernetwork.com:8001/KVSP_MP3"
+        },
+        {
+            name: "107 The Zone",
+            logo: "stations/images-america/clinton/107 The Zone.png",
+            url: "http://12416.cloudrad.io:9354/live"
+        },
+        {
+            name: "KADS 1240",
+            logo: "stations/images-america/clinton/KADS.png",
+            url: "http://us2.maindigitalstream.com:7216/stream"
+        },
+        {
+            name: "The Score 1320",
+            logo: "stations/images-america/clinton/The Score.png",
+            url: "http://ice42.securenetsystems.net/KCLIAM"
+        },
+        {
+            name: "KTJS 1420",
+            logo: "stations/images-america/clinton/KTJS 1420.png",
+            url: "http://14111.cloudrad.io:9234/live"
+        },
+        {
+            name: "Coyote Classic 1590",
+            logo: "stations/images-america/clinton/Coyote Classic.png",
+            url: "https://ice42.securenetsystems.net/KWEYAM"
+        },
+    ],*/
     "clovis": [
         {
             name: "Family Life Radio 88.9",
@@ -38886,93 +38993,6 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
         },
     ],
-    "elk_city": [
-        {
-            name: "KGOU 89.1",
-            logo: "stations/images-america/c2c/woodward_ok/KGOU 88.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC_SC"
-        },
-        {
-            name: "Effect Radio 89.5",
-            logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
-        },
-        {
-            name: "The House FM 89.9",
-            logo: "stations/images-america/c2c/elk_city_ok/The House FM 89.9.png",
-            url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
-        },
-        {
-            name: "CSN Radio 91.5",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
-        },
-        {
-            name: "afr Talk 91.9",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp3"
-        },
-        {
-            name: "Kool 94",
-            logo: "stations/images-america/c2c/elk_city_ok/Kool 94.png",
-            url: "http://173.193.205.96:8212/;"
-        },
-        {
-            name: "95.5 Coyote Country",
-            logo: "stations/images-america/c2c/elk_city_ok/95.5 Coyote Country.png",
-            url: "https://ice5.securenetsystems.net/KWEY"
-        },
-        {
-            name: "KECO 96.5",
-            logo: "stations/images-america/c2c/elk_city_ok/KECO 96.5.png",
-            url: "http://173.193.205.96:8286/;"
-        },
-        {
-            name: "KADS 98.1",
-            logo: "stations/images-america/c2c/elk_city_ok/KADS 98.1.png",
-            url: "http://173.193.205.96:7216/;"
-        },
-        {
-            name: "Legends 98.9",
-            logo: "stations/images-america/c2c/elk_city_ok/Legends 92.9.png",
-            url: "http://174.127.75.88:8020/live"
-        },
-        {
-            name: "KCLI 99.3",
-            logo: "stations/images-america/c2c/elk_city_ok/KCLI 99.3.png",
-            url: "https://ice7.securenetsystems.net/KCLI"
-        },
-        {
-            name: "101.7 The Zoo",
-            logo: "stations/images-america/c2c/elk_city_ok/101.7 The Zoo.png",
-            url: "https://ice5.securenetsystems.net/KKZU"
-        },
-        {
-            name: "Power 103.5",
-            logo: "stations/images-america/c2c/oklahoma_city_ok/Power 103.5.png",
-            url: "http://crystalout.surfernetwork.com:8001/KVSP_MP3"
-        },
-        {
-            name: "KQ106",
-            logo: "stations/images-america/c2c/lawton_ok/KQ106.png",
-            url: "http://45.40.163.108:8000/kqtzfm"
-        },
-        {
-            name: "107 The Zone",
-            logo: "stations/images-america/c2c/elk_city_ok/107 The Zone.png",
-            url: "http://12416.cloudrad.io:9354/live"
-        },
-        {
-            name: "KADS 1240",
-            logo: "stations/images-america/c2c/elk_city_ok/KADS 98.1.png",
-            url: "http://173.193.205.96:7216/;stream.mp3"
-        },
-        {
-            name: "The Score 1320",
-            logo: "stations/images-america/c2c/elk_city_ok/The Score 1320.png",
-            url: "https://ice42.securenetsystems.net/KCLIAM"
-        },
-    ],
     "enid": [
         {
             name: "K204GU 88.7",
@@ -38986,7 +39006,7 @@ var stations_c2c = {
         },
         {
             name: "The House FM 89.7",
-            logo: "stations/images-america/c2c/elk_city_ok/The House FM 89.9.png",
+            logo: "stations/images-america/0_general_logos/The House FM.png",
             url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
         },
         {
@@ -39193,7 +39213,7 @@ var stations_c2c = {
         },
         {
             name: "The House FM 101.7",
-            logo: "stations/images-america/c2c/elk_city_ok/The House FM 89.9.png",
+            logo: "stations/images-america/0_general_logos/The House FM.png",
             url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
         },
         {
@@ -39265,7 +39285,7 @@ var stations_c2c = {
         },
         {
             name: "The House FM 88.5",
-            logo: "stations/images-america/c2c/elk_city_ok/The House FM 89.9.png",
+            logo: "stations/images-america/0_general_logos/The House FM.png",
             url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
         },
         {
@@ -39838,14 +39858,49 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFMAAC_SC"
         },
         {
-            name: "Z92",
-            logo: "stations/images-america/c2c/woodward_ok/Z92.png",
+            name: "CSN Radio 88.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Effect Radio 89.1",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "https://ice6.securenetsystems.net/EFXAAC"
+        },
+        {
+            name: "KHYM 89.9",
+            logo: "stations/images-america/c2c/woodward_ok/KHYM 89.9.png",
+            url: "https://ice41.securenetsystems.net/KHYM"
+        },
+        {
+            name: "Z92.3",
+            logo: "stations/images-america/c2c/woodward_ok/Z92.3.png",
             url: "https://live.wostreaming.net/direct/omnimedia-kmzefmaac-ibc2"
+        },
+        {
+            name: "Oklahoma Catholic Radio 93.3",
+            logo: "stations/images-america/0_general_logos/Oklahoma Catholic Radio.png",
+            url: "https://crystalout.surfernetwork.com:8001/KKNG_MP3"
+        },
+        {
+            name: "The House FM 94.1",
+            logo: "stations/images-america/c2c/elk_city_ok/The House FM 89.9.png",
+            url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
         },
         {
             name: "KCSC 95.9",
             logo: "stations/images-america/c2c/woodward_ok/KCSC 95.9.png",
             url: "https://kuco.streamguys1.com/live_acc"
+        },
+        {
+            name: "K246BC 97.1",
+            logo: "stations/images-america/c2c/woodward_ok/KREJ.png",
+            url: "https://sh.fl-us.audio-stream.com/proxy/ranhen02?mp=/stream.aac"
+        },
+        {
+            name: "K251CM 98.1",
+            logo: "stations/images-america/c2c/woodward_ok/KSIW.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC_SC"
         },
         {
             name: "100.1 KWFX",
@@ -39864,13 +39919,18 @@ var stations_c2c = {
         },
         {
             name: "KZZW 104.5",
-            logo: "stations/images-america/c2c/woodward_ok/KZZW 104.5.png",
-            url: "https://live.wostreaming.net/direct/omnimedia-kzzwfmaac-ibc1"
+            logo: "stations/images-america/lamar/KJIL 91.9.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
-            name: "La Zeta 1570",
-            logo: "stations/images-america/c2c/tulsa_ok/La Zeta 101.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTUZAMAAC.aac"
+            name: "105.7 KRDR",
+            logo: "stations/images-america/c2c/woodward_ok/105.7 KRDR.png",
+            url: "https://listen.mixlr.com/ad98a084927efac53d5ed6f43709f62f"
+        },
+        {
+            name: "KSIW 1450",
+            logo: "stations/images-america/c2c/woodward_ok/KSIW.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC.aac"
         },
     ],
     "allentown": [
