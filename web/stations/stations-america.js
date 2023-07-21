@@ -3112,7 +3112,7 @@ var stations = {
             logo: "stations/images-america/tucson/The Drive 101.7.png",
             url: "https://ice5.securenetsystems.net/KDRI"
         },
-    ],/*
+    ],
     "clinton": [
         {
             name: "KGOU 89.1",
@@ -3219,7 +3219,7 @@ var stations = {
             logo: "stations/images-america/clinton/Coyote Classic.png",
             url: "https://ice42.securenetsystems.net/KWEYAM"
         },
-    ],*/
+    ],
     "clovis": [
         {
             name: "Family Life Radio 88.9",
