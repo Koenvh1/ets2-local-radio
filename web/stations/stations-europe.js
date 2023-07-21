@@ -233,7 +233,7 @@ var stations = {
         {
             name: "ERF Süd",
             logo: "stations/images-europe/austria/ERF Süd.png",
-            url: "https://de1.internet-radio.com/proxy/erfmedien/stream"
+            url: "http://stream.erf.at/erfplus_320"
         },
         {
             name: "jö.live",
@@ -1794,7 +1794,7 @@ var stations = {
         {
             name: "NOSTALGIE",
             logo: "stations/images-europe/germany/NOSTALGIE.png",
-            url: "https://scdn.nrjaudio.fm/adwz1/de/57447/mp3_128.mp3"
+            url: "https://frontend.streamonkey.net/nostalgie-live/stream/mp3"
         },
         {
             name: "RADIO BOB!",
@@ -3649,7 +3649,7 @@ var stations = {
         {
             name: "Новое Радио Молдова",
             logo: "stations/images-europe/moldova/Новое Радио.png",
-            url: "https://radiosolo.ru/radio/novoemd/icecast.audio"
+            url: "http://77.89.206.126:7030/live"
         },
         {
             name: "Publika FM",
@@ -5238,7 +5238,7 @@ var stations = {
         {
             name: "Radio LoRa",
             logo: "stations/images-europe/switzerland-de/Radio LoRa.png",
-            url: "https://stream.loratech.ch/lora.mp3"
+            url: "https://lora.ice.infomaniak.ch/lora.mp3"
         },
         {
             name: "Radio Maria Schweiz",
@@ -5573,7 +5573,7 @@ var stations = {
         {
             name: "Erkam Radyo",
             logo: "stations/images-europe/turkey/Erkam Radyo.png",
-            url: "https://yayin2.canliyayin.org:10910/stream"
+            url: "https://api-tv5.yayin.com.tr:8002/mp3"
         },
         {
             name: "Joy Türk",
