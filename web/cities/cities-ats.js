@@ -731,6 +731,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.7
     },
+    "lincoln_mt": {
+        name: "Lincoln",
+        name_english: "Lincoln",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
     "logan": {
         name: "Logan",
         name_english: "Logan",
@@ -1834,6 +1840,10 @@ var city_properties = {
     },
     "lewiston": {
         relative_whitenoise: 0.85
+    },
+    "lincoln_mt": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "logan": {
         relative_whitenoise: 0.85
@@ -4016,6 +4026,14 @@ var cities = [
         "x": "-80795.7",
         "y": "62.4727",
         "z": "-51559.7"
+    },
+    {
+        "gameName": "lincoln_mt",
+        "realName": "Lincoln",
+        "country": "helena",
+        "x": "-64169.8",
+        "y": "53.5895",
+        "z": "-53153.1"
     },
     {
         "gameName": "marathon_tx",
