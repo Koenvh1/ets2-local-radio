@@ -603,7 +603,7 @@ var country_properties = {
         name: "Kalispell",
         name_english: "Kalispell",
         code: "us-mt",
-        relative_radius: 0.8
+        relative_radius: 0.85
     },
     "kanab": {
         name: "Kanab",
@@ -1759,7 +1759,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "kalispell": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.85
     },
     "kanab": {
 		relative_radius: 0.5,
@@ -2837,7 +2837,7 @@ var cities = [
         "gameName": "kalispell",
         "realName": "Kalispell",
         "country": "kalispell",
-        "x": "-69691.6",
+        "x": "-68691.6",
         "y": "95",
         "z": "-59999.2"
     },
