@@ -6497,7 +6497,7 @@ var country_properties_c2c = {
         name: "Fort Smith",
         name_english: "Fort Smith",
         code: "us-ar",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "little_rock": {
         name: "Little Rock",
@@ -6863,7 +6863,7 @@ var country_properties_c2c = {
         name: "liberal_ks",
         name_english: "liberal_ks",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "salina_ks": {
         name: "salina",
@@ -7621,9 +7621,27 @@ var country_properties_c2c = {
         code: "us-ok",
         relative_radius: 0.7
     },
+    "guymon": {
+        name: "Guymon",
+        name_english: "Guymon",
+        code: "us-ok",
+        relative_radius: 0.5
+    },
+    "idabel": {
+        name: "Idabel",
+        name_english: "Idabel",
+        code: "us-ok",
+        relative_radius: 0.5
+    },
     "lawton": {
         name: "Lawton",
         name_english: "Lawton",
+        code: "us-ok",
+        relative_radius: 0.6
+    },
+    "mcalester": {
+        name: "McAlester",
+        name_english: "McAlester",
         code: "us-ok",
         relative_radius: 0.6
     },
@@ -7640,10 +7658,10 @@ var country_properties_c2c = {
         relative_radius: 0.8
     },
     "woodward_ok": {
-        name: "Woodward_ok",
+        name: "Woodward",
         name_english: "Woodward",
         code: "us-ok",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "pennsylvania": {
         name: "pennsylvania",
@@ -7980,7 +7998,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "fort_smith_ar": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "hot_springs_ar": {
 		relative_radius: 0.7,
@@ -8155,7 +8173,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "liberal_ks": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "salina_ks": {
         relative_whitenoise: 0.85
@@ -8493,19 +8511,28 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "enid": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
+    },
+    "guymon": {
+        relative_whitenoise: 0.95
+    },
+    "idabel": {
+        relative_whitenoise: 0.95
     },
     "lawton": {
         relative_whitenoise: 0.95
     },
+    "mcalester": {
+        relative_whitenoise: 0.95
+    },
     "oklahoma_city": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "tulsa": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "woodward_ok": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "allentown": {
         relative_whitenoise: 0.85
@@ -10145,7 +10172,7 @@ var cities_c2c = [
         "country": "clinton",
         "x": "-17446.3",
         "y": "102.43",
-        "z": "21501.1"
+        "z": "19501.1"
     },
     {
         "gameName": "enid",
@@ -10156,12 +10183,36 @@ var cities_c2c = [
         "z": "12021"
     },
     {
+        "gameName": "guymon",
+        "realName": "Guymon",
+        "country": "guymon",
+        "x": "-24752.6",
+        "y": "133.77",
+        "z": "12266.1"
+    },
+    {
+        "gameName": "idabel",
+        "realName": "Idabel",
+        "country": "idabel",
+        "x": "4101.14",
+        "y": "204.58",
+        "z": "27321.1"
+    },
+    {
         "gameName": "lawton",
         "realName": "Lawton",
         "country": "lawton",
         "x": "-11475.8",
         "y": "125.398",
         "z": "24298"
+    },
+    {
+        "gameName": "mcalester",
+        "realName": "McAlester",
+        "country": "mcalester",
+        "x": "1061.57",
+        "y": "409.4",
+        "z": "22253.3"
     },
     {
         "gameName": "oklahoma_city",
