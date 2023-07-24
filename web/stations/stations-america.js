@@ -6979,9 +6979,24 @@ var stations = {
             url: "http://nebcoradio.com:1010/KWHO"
         },
         {
+            name: "KYYA 730",
+            logo: "stations/images-america/billings/98.1 KBEAR.png",
+            url: "http://desertmountainbroadcasting.streamguys1.com/KYYA"
+        },
+        {
+            name: "KZMQ 1140",
+            logo: "stations/images-america/cody/KZMQ 100.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZMQFMAAC.aac"
+        },
+        {
             name: "KPOW 1260",
             logo: "stations/images-america/cody/KPOW 1260.png",
             url: "https://us2.maindigitalstream.com/ssl/KPOW"
+        },
+        {
+            name: "KODI 1400",
+            logo: "stations/images-america/cody/KODI 96.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KODIAMAAC.aac"
         },
     ],
     "gallup": [
@@ -40142,7 +40157,7 @@ var stations_c2c = {
             url: "http://ice6.securenetsystems.net//KYAL"
         },
     ],
-    "woodward_ok": [
+    "woodward": [
         {
             name: "KGOU 88.1",
             logo: "stations/images-america/0_general_logos/KGOU.png",
