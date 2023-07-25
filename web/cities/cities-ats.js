@@ -42,8 +42,8 @@ var country_properties = {
         relative_radius: 1.1
     },
     "ardmore": {
-        name: "ardmore",
-        name_english: "ardmore",
+        name: "Ardmore",
+        name_english: "Ardmore",
         code: "us-ok",
         relative_radius: 0.5
     },
@@ -918,8 +918,8 @@ var country_properties = {
         relative_radius: 0.7
     },
     "oklahoma_city": {
-        name: "Oklahoma_City",
-        name_english: "Oklahoma_City",
+        name: "Oklahoma City",
+        name_english: "Oklahoma City",
         code: "us-ok",
         relative_radius: 0.8
     },
@@ -12071,262 +12071,6 @@ var cities_canada = [
     }
 ];
 
-var country_properties_greatamerica = {
-    "alliance": {
-        name: "Alliance",
-        name_english: "Alliance",
-        code: "us-ne",
-        relative_radius: 0.8
-    },
-    "broken_bow": {
-        name: "Broken Bow",
-        name_english: "Broken Bow",
-        code: "us-ne",
-        relative_radius: 0.8
-    },
-    "chadron": {
-        name: "Chadron",
-        name_english: "Chadron",
-        code: "us-ne",
-        relative_radius: 0.8
-    },
-    "columbus_ne": {
-        name: "Columbus",
-        name_english: "Columbus",
-        code: "us-ne",
-        relative_radius: 0.8
-    },
-    "dubuque": {
-        name: "Dubuque",
-        name_english: "Dubuque",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "eagle_butte": {
-        name: "Eagle Butte",
-        name_english: "Eagle Butte",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
-    "fortdodge": {
-        name: "Fort Dodge",
-        name_english: "Fort Dodge",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
-    "huron_sd": {
-        name: "Huron",
-        name_english: "Huron",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
-    "mobridge": {
-        name: "Mobridge",
-        name_english: "Mobridge",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
-    "norfolk_ne": {
-        name: "Norfolk",
-        name_english: "Norfolk",
-        code: "us-ne",
-        relative_radius: 0.8
-    },
-    "spiritlake": {
-        name: "Spirit Lake",
-        name_english: "Spirit Lake",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "stormlake": {
-        name: "Storm Lake",
-        name_english: "Storm Lake",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "valentine": {
-        name: "Valentine",
-        name_english: "Valentine",
-        code: "us-ne",
-        relative_radius: 0.8
-    },
-    "waterloo": {
-        name: "Waterloo",
-        name_english: "Waterloo",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-};
-
-var city_properties_greatamerica = {
-    "alliance": {
-        relative_whitenoise: 0.85
-    },
-    "broken_bow": {
-        relative_whitenoise: 0.85
-    },
-    "chadron": {
-        relative_whitenoise: 0.85
-    },
-    "columbus_ne": {
-        relative_whitenoise: 0.85
-    },
-    "dubuque": {
-        relative_whitenoise: 0.85
-    },
-    "eagle_butte": {
-        relative_whitenoise: 0.85
-    },
-    "fortdodge": {
-        relative_whitenoise: 0.85
-    },
-    "huron_sd": {
-        relative_whitenoise: 0.85
-    },
-    "mobridge": {
-        relative_whitenoise: 0.85
-    },
-    "norfolk_ne": {
-        relative_whitenoise: 0.85
-    },
-    "spiritlake": {
-        relative_whitenoise: 0.85
-    },
-    "stormlake": {
-        relative_whitenoise: 0.85
-    },
-    "valentine": {
-        relative_whitenoise: 0.85
-    },
-    "waterloo": {
-		relative_radius: 0.8,
-        relative_whitenoise: 0.85
-    },
-};
-
-var cities_greatamerica = [
-    {
-        "gameName": "alliance",
-        "realName": "Alliance",
-        "country": "alliance",
-        "x": "-28861",
-        "y": "116.184",
-        "z": "-18829.1"
-    },
-    {
-        "gameName": "broken_bow",
-        "realName": "Broken Bow",
-        "country": "broken_bow",
-        "x": "-15779.5",
-        "y": "158.941",
-        "z": "-13906.3"
-    },
-    {
-        "gameName": "chadron",
-        "realName": "Chadron",
-        "country": "chadron",
-        "x": "-28633.3",
-        "y": "74.918",
-        "z": "-23186.1"
-    },
-    {
-        "gameName": "columbus_ne",
-        "realName": "Columbus",
-        "country": "columbus_ne",
-        "x": "-6014.79",
-        "y": "206.5",
-        "z": "-13918.1"
-    },
-    {
-        "gameName": "dubuque",
-        "realName": "Dubuque",
-        "country": "dubuque",
-        "x": "22118.7",
-        "y": "233.926",
-        "z": "-20649.3"
-    },
-    {
-        "gameName": "eagle_butte",
-        "realName": "Eagle Butte",
-        "country": "eagle_butte",
-        "x": "-21105.7",
-        "y": "118.09",
-        "z": "-35053.9"
-    },
-    {
-        "gameName": "fortdodge",
-        "realName": "Fort Dodge",
-        "country": "fortdodge",
-        "x": "7910.06",
-        "y": "235.262",
-        "z": "-19903.3"
-    },
-    {
-        "gameName": "huron_sd",
-        "realName": "Huron",
-        "country": "huron_sd",
-        "x": "-9025.04",
-        "y": "126.984",
-        "z": "-30515.4"
-    },
-    {
-        "gameName": "mobridge",
-        "realName": "Mobridge",
-        "country": "mobridge",
-        "x": "-17006.1",
-        "y": "79.4531",
-        "z": "-37635.6"
-    },
-    {
-        "gameName": "norfolk_ne",
-        "realName": "Norfolk",
-        "country": "norfolk_ne",
-        "x": "-5990.77",
-        "y": "123",
-        "z": "-17339.5"
-    },
-    {
-        "gameName": "spiritlake",
-        "realName": "Spirit Lake",
-        "country": "spiritlake",
-        "x": "5018.85",
-        "y": "208.172",
-        "z": "-23455.7"
-    },
-    {
-        "gameName": "stormlake",
-        "realName": "Storm Lake",
-        "country": "stormlake",
-        "x": "4461.02",
-        "y": "208.469",
-        "z": "-20922.3"
-    },
-    {
-        "gameName": "valentine",
-        "realName": "Valentine",
-        "country": "valentine",
-        "x": "-19031",
-        "y": "107.887",
-        "z": "-22209.9"
-    },
-    {
-        "gameName": "waterloo",
-        "realName": "Waterloo",
-        "country": "waterloo",
-        "x": "16034.5",
-        "y": "226.152",
-        "z": "-20441.4"
-    },
-    {
-        "gameName": "waterloo",
-        "realName": "Waterloo",
-        "country": "cedar_rapids",
-        "x": "16034.5",
-        "y": "226.152",
-        "z": "-20441.4"
-    },
-];
-
 var country_properties_caribbean = {
     "adicora": {
         name: "Adicora",
@@ -12908,11 +12652,6 @@ city_properties = $.extend(city_properties, city_properties_c2c);
 country_properties = $.extend(country_properties, country_properties_canada);
 city_properties = $.extend(city_properties, city_properties_canada);
 cities = cities.concat(cities_canada);
-
-//Uncomment the lines below to enable Great America
-country_properties = $.extend(country_properties, country_properties_greatamerica);
-city_properties = $.extend(city_properties, city_properties_greatamerica);
-cities = cities.concat(cities_greatamerica);
 
 //Uncomment the lines below to enable Terra Maps Caribbean
 country_properties = $.extend(country_properties, country_properties_caribbean);
