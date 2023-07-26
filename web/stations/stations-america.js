@@ -31401,11 +31401,6 @@ var stations_c2c = {
             url: "http://quarrel.str3am.com:7270/"
         },
         {
-            name: "Seacoast Oldies 92.1",
-            logo: "stations/images-america/c2c/portsmouth_nh/Seacoast Oldies 97.1.png",
-            url: "https://ais-sa1.streamon.fm/7671_48k.aac"
-        },
-        {
             name: "92 Moose",
             logo: "stations/images-america/c2c/augusta_me/92 Moose.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wmmefmaac-ibc3"
@@ -35603,11 +35598,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2885/hls.m3u8"
         },
         {
-            name: "Seacoast Oldies 97.1",
-            logo: "stations/images-america/c2c/portsmouth_nh/Seacoast Oldies 97.1.png",
-            url: "https://ais-sa1.streamon.fm/7671_48k.aac"
-        },
-        {
             name: "97.5 WOKQ",
             logo: "stations/images-america/c2c/portsmouth_nh/97.5 WOKQ.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wokqfmaac-ibc3"
@@ -35636,6 +35626,11 @@ var stations_c2c = {
             name: "NHPR 103.9",
             logo: "stations/images-america/0_general_logos/NHPR.png",
             url: "http://nhpr-sc.streamguys.us:80/nhpr"
+        },
+        {
+            name: "Seacoast Oldies 104.3",
+            logo: "stations/images-america/c2c/portsmouth_nh/Seacoast Oldies 104.3.png",
+            url: "https://ais-sa1.streamon.fm/7671_48k.aac"
         },
         {
             name: "WSCA 106.1",
@@ -44005,6 +44000,11 @@ var stations_c2c = {
             name: "1140 WRVA",
             logo: "stations/images-america/c2c/richmond_va/96.1 WRVA.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wrvaamaac-imc"
+        },
+        {
+            name: "1480 The Line",
+            logo: "stations/images-america/c2c/richmond_va/1480 The Line.png",
+            url: "https://vsin-sgrewind.streamguys1.com/sgrewind/live/playlist.m3u8"
         },
     ],
     "roanoke_va": [
