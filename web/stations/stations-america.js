@@ -3396,7 +3396,7 @@ var stations = {
         {
             name: "La Jefa 102.7",
             logo: "stations/images-america/college_station/La Jefa 102.7.png",
-            url: "https://ice24.securenetsystems.net/ZONEHD"
+            url: "https://ice42.securenetsystems.net/LAJEFA"
         },
         {
             name: "103.1 KISS FM",
@@ -3681,12 +3681,12 @@ var stations = {
             name: "KCHW 102.7",
             logo: "stations/images-america/colville/KCHW 102.7.png",
             url: "http://s46.myradiostream.com:6306/listen.mp3"
-        },
+        },/*
         {
             name: "Joy 104.5",
             logo: "stations/images-america/spokane/Joy 104.5.png",
             url: "https://ice6.securenetsystems.net/KJYR"
-        },
+        },*/
     ],
     "coos_bay": [
         {
@@ -10259,18 +10259,8 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
         },
         {
-            name: "K-SURF 105.1-HD2",
-            logo: "stations/images-america/los_angeles/K-SURF 105.1-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSURAMAAC_SC"
-        },
-        {
-            name: "Unforgettable FM 105.1-HD3",
-            logo: "stations/images-america/los_angeles/Unforgettable FM 105.1-HD3.png",
-            url: "https://1.ice1.sslstream.com/kkgo_h3.aac"
-        },
-        {
-            name: "K-Mozart 105.1-HD4",
-            logo: "stations/images-america/los_angeles/K-Mozart 105.1-HD4.png",
+            name: "K-Mozart 105.1-HD2",
+            logo: "stations/images-america/los_angeles/K-Mozart.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
         },
         {
@@ -10355,7 +10345,7 @@ var stations = {
         },
         {
             name: "K-Mozart 1260",
-            logo: "stations/images-america/los_angeles/K-Mozart 105.1-HD4.png",
+            logo: "stations/images-america/los_angeles/K-Mozart.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC.aac"
         },
         {
@@ -17218,12 +17208,12 @@ var stations = {
             name: "103.9 BOB FM",
             logo: "stations/images-america/spokane/103.9 BOB FM.png",
             url: "https://ice6.securenetsystems.net/KBBD"
-        },
+        },/*
         {
             name: "Joy 104.5",
             logo: "stations/images-america/spokane/Joy 104.5.png",
             url: "https://ice6.securenetsystems.net/KJYR"
-        },
+        },*/
         {
             name: "Shine 104.9",
             logo: "stations/images-america/spokane/Shine 104.9.png",
@@ -18388,12 +18378,12 @@ var stations = {
             name: "KOOL 96.5",
             logo: "stations/images-america/twin_falls/KOOL 96.5.png",
             url: "https://live.wostreaming.net/manifest/townsquare-klixfmaac-ibc3"
-        },/*
+        },
         {
-            name: "Balanced Rock 97.5",
-            logo: "stations/images-america/twin_falls/Balanced Rock 97.5.png",
-            url: "https://ice9.securenetsystems.net/KXTAAM"
-        },*/
+            name: "Mega 97.5",
+            logo: "stations/images-america/twin_falls/Mega 97.5.png",
+            url: "https://ic2.sslstream.com/kxta-ir"
+        },
         {
             name: "98.3 The Snake",
             logo: "stations/images-america/twin_falls/98.3 The Snake.png",
