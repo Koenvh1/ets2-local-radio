@@ -6660,6 +6660,12 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 0.9
     },
+    "mountain_home": {
+        name: "Mountain Home",
+        name_english: "Mountain Home",
+        code: "us-ar",
+        relative_radius: 0.7
+    },
     "connecticut": {
         name: "connecticut",
         name_english: "connecticut",
@@ -8084,7 +8090,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "fayetteville_ar": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "fort_smith_ar": {
         relative_whitenoise: 0.95
@@ -8098,6 +8104,9 @@ var city_properties_c2c = {
     },
     "little_rock": {
         relative_whitenoise: 0.85
+    },
+    "mountain_home": {
+        relative_whitenoise: 0.95
     },
     "hartford": {
         relative_whitenoise: 0.75
@@ -8807,7 +8816,7 @@ var cities_c2c = [
         "country": "fayetteville_ar",
         "x": "9495.54",
         "y": "105.207",
-        "z": "16615"
+        "z": "14615"
     },
     {
         "gameName": "fort_smith_ar",
@@ -8848,6 +8857,14 @@ var cities_c2c = [
         "x": "18499.3",
         "y": "197.602",
         "z": "23593.3"
+    },
+    {
+        "gameName": "mountain_home",
+        "realName": "Mountain Home",
+        "country": "mountain_home",
+        "x": "17033.3",
+        "y": "125.211",
+        "z": "14618.9"
     },
     {
         "gameName": "hartford",
