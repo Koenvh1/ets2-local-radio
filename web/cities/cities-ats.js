@@ -921,7 +921,7 @@ var country_properties = {
         name: "Oklahoma City",
         name_english: "Oklahoma City",
         code: "us-ok",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "olympia": {
         name: "Olympia",
@@ -1347,7 +1347,7 @@ var country_properties = {
         name: "Tulsa",
         name_english: "Tulsa",
         code: "us-ok",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "twin_falls": {
         name: "Twin Falls",
@@ -3672,9 +3672,9 @@ var cities = [
         "gameName": "oklahoma_city",
         "realName": "Oklahoma City",
         "country": "oklahoma_city",
-        "x": "-6335.23",
+        "x": "-7335.23",
         "y": "183.293",
-        "z": "19930.8"
+        "z": "17930.8"
     },
     {
         "gameName": "olympia",
