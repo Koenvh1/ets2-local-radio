@@ -685,7 +685,7 @@ var stations = {
         {
             name: "Радио Фокус",
             logo: "stations/images-europe/bulgaria/Радио Фокус.png",
-            url: "https://focusradio.audiostreaming.ml/1"
+            url: "https://focusradio.dataserv.cc/1"
         },
         {
             name: "Radio Fresh!",

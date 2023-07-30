@@ -39717,7 +39717,7 @@ var stations_c2c = {
         {
             name: "CSN Radio 101.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "The Gospel Station 101.5",
