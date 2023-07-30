@@ -23303,7 +23303,7 @@ var stations_c2c = {
             url: "http://hemnos.cdnstream.com/1416_64"
         },
     ],
-    "little_rock": [
+    "little_rock_ar": [
         {
             name: "KABF 88.3",
             logo: "stations/images-america/c2c/little_rock_ar/KABF 88.3.png",
@@ -23455,7 +23455,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAAYAMAAC_SC"
         },
     ],
-    "mountain_home": [
+    "mountain_home_ar": [
         {
             name: "K-LOVE 90.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
@@ -23505,6 +23505,53 @@ var stations_c2c = {
             name: "107.5 KKTZ",
             logo: "stations/images-america/c2c/mountain_home_ar/107.5 KKTZ.png",
             url: "https://ice42.securenetsystems.net/HIT1075"
+        },
+    ],
+    "russelville_ar": [
+        {
+            name: "KXRJ 91.9",
+            logo: "stations/images-america/c2c/russelville_ar/KXRJ 91.9.png",
+            url: "http://kxrjradiostream.atu.edu:88/broadwave.mp3"
+        },
+        {
+            name: "KARV 93.1",
+            logo: "stations/images-america/c2c/russelville_ar/KARV.png",
+            url: "https://ais-sa2.cdnstream1.com/1690_64"
+        },
+        {
+            name: "97.1 BOB FM",
+            logo: "stations/images-america/c2c/russelville_ar/97.1 BOB FM.png",
+            url: "https://ais-sa8.cdnstream1.com/1689_64"
+        },
+        {
+            name: "100.9 KWKK",
+            logo: "stations/images-america/c2c/russelville_ar/100.9 KWKK.png",
+            url: "https://ais-sa2.cdnstream1.com/1412_64"
+        },
+        {
+            name: "102.3 KCJC",
+            logo: "stations/images-america/c2c/russelville_ar/102.3 KCJC.png",
+            url: "https://ais-sa2.cdnstream1.com/1413_64"
+        },
+        {
+            name: "KYEL 105.5",
+            logo: "stations/images-america/c2c/russelville_ar/99.3 The Eagle.png",
+            url: "http://hemnos.cdnstream.com/1411_64"
+        },
+        {
+            name: "KXIO 106.9",
+            logo: "stations/images-america/c2c/russelville_ar/KXIO 106.9.png",
+            url: "http://kea.cdnstream.com/1691_64"
+        },
+        {
+            name: "KARV 610",
+            logo: "stations/images-america/c2c/russelville_ar/KARV.png",
+            url: "http://ais-sa2.cdnstream1.com/1690_64"
+        },
+        {
+            name: "980 AM BOB FM",
+            logo: "stations/images-america/c2c/russelville_ar/97.1 BOB FM.png",
+            url: "http://ais-sa8.cdnstream1.com/1689_64"
         },
     ],
     "hartford": [

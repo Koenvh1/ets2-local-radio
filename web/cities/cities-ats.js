@@ -6654,17 +6654,23 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 0.8
     },
-    "little_rock": {
+    "little_rock_ar": {
         name: "Little Rock",
         name_english: "Little Rock",
         code: "us-ar",
         relative_radius: 0.9
     },
-    "mountain_home": {
+    "mountain_home_ar": {
         name: "Mountain Home",
         name_english: "Mountain Home",
         code: "us-ar",
         relative_radius: 0.7
+    },
+    "russelville_ar": {
+        name: "Russelville",
+        name_english: "Russelville",
+        code: "us-ar",
+        relative_radius: 0.9
     },
     "connecticut": {
         name: "connecticut",
@@ -8102,10 +8108,14 @@ var city_properties_c2c = {
     "jonesboro_ar": {
         relative_whitenoise: 0.85
     },
-    "little_rock": {
+    "little_rock_ar": {
         relative_whitenoise: 0.85
     },
-    "mountain_home": {
+    "mountain_home_ar": {
+        relative_whitenoise: 0.95
+    },
+    "russelville_ar": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "hartford": {
@@ -8837,7 +8847,7 @@ var cities_c2c = [
     {
         "gameName": "hot_springs_ar",
         "realName": "Hot Springs",
-        "country": "little_rock",
+        "country": "little_rock_ar",
         "x": "13756.2",
         "y": "98.9141",
         "z": "24366.1"
@@ -8851,20 +8861,36 @@ var cities_c2c = [
         "z": "14258.7"
     },
     {
-        "gameName": "little_rock",
+        "gameName": "little_rock_ar",
         "realName": "Little Rock",
-        "country": "little_rock",
+        "country": "little_rock_ar",
         "x": "18499.3",
         "y": "197.602",
         "z": "23593.3"
     },
     {
-        "gameName": "mountain_home",
+        "gameName": "mountain_home_ar",
         "realName": "Mountain Home",
-        "country": "mountain_home",
+        "country": "mountain_home_ar",
         "x": "17033.3",
         "y": "125.211",
         "z": "14618.9"
+    },
+    {
+        "gameName": "russelville_ar",
+        "realName": "Russelville",
+        "country": "russelville_ar",
+        "x": "12703",
+        "y": "49.7618",
+        "z": "19393.4"
+    },
+    {
+        "gameName": "russelville_ar",
+        "realName": "Russelville",
+        "country": "little_rock_ar",
+        "x": "12703",
+        "y": "49.7618",
+        "z": "19393.4"
     },
     {
         "gameName": "hartford",
