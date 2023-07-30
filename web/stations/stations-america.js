@@ -39802,7 +39802,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 800",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://ic1.christiannetcast.com//bottradio"
         },
         {
             name: "Community Talk 890",

@@ -843,7 +843,7 @@ var country_properties = {
         name: "McAlester",
         name_english: "McAlester",
         code: "us-ok",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "mccall": {
         name: "McCall",
@@ -1347,7 +1347,7 @@ var country_properties = {
         name: "Tulsa",
         name_english: "Tulsa",
         code: "us-ok",
-        relative_radius: 0.9
+        relative_radius: 1.0
     },
     "twin_falls": {
         name: "Twin Falls",
@@ -2211,7 +2211,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "tulsa": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.90
     },
     "twin_falls": {
         relative_whitenoise: 0.75
@@ -3554,7 +3554,7 @@ var cities = [
         "country": "mcalester",
         "x": "1061.57",
         "y": "409.4",
-        "z": "22253.3"
+        "z": "22953.3"
     },
     {
         "gameName": "mcallen_brownsville",
@@ -4312,9 +4312,9 @@ var cities = [
         "gameName": "tulsa",
         "realName": "Tulsa",
         "country": "tulsa",
-        "x": "-464.898",
+        "x": "-364.898",
         "y": "159.32",
-        "z": "15048.7"
+        "z": "15548.7"
     },
     {
         "gameName": "twin_falls",
@@ -6646,13 +6646,13 @@ var country_properties_c2c = {
         name: "Fayetteville",
         name_english: "Fayetteville",
         code: "us-ar",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "fort_smith_ar": {
         name: "Fort Smith",
         name_english: "Fort Smith",
         code: "us-ar",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "little_rock": {
         name: "Little Rock",
