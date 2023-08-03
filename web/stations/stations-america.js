@@ -2211,6 +2211,38 @@ var stations = {
             url: "https://ic2.sslstream.com/kspd-am"
         },
     ],
+    "boise_city": [
+        {
+            name: "KJHL 90.9",
+            logo: "stations/images-america/lamar/KJIL 91.9.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "AM920 The Country Giant",
+            logo: "stations/images-america/lamar/AM920 The Country Giant.png",
+            url: "https://streaming.live365.com/a20038"
+        },
+        {
+            name: "1210 KGYN",
+            logo: "stations/images-america/c2c/liberal_ks/106.3 KGYN.png",
+            url: "http://162.244.80.178:8012//;"
+        },
+        {
+            name: "KXIT 1240",
+            logo: "stations/images-america/dalhart/94.5 The Pulse.png",
+            url: "https://kxit.streamguys1.com/live"
+        },
+        {
+            name: "KSCB 1270",
+            logo: "stations/images-america/c2c/liberal_ks/KSCB 1270.png",
+            url: "https://1.ice1.sslstream.com/kscb_am.aac"
+        },
+        {
+            name: "Crossroads Christian Radio 1450",
+            logo: "stations/images-america/clayton/Crossroads Christian Radio 104.5.png",
+            url: "http://96.31.83.94:8055/live"
+        },
+    ],
     "bozeman": [
         {
             name: "KGLT 91.9",

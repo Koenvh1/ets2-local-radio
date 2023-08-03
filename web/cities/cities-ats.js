@@ -149,6 +149,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 1.0
     },
+    "boise_city": {
+        name: "Boise City",
+        name_english: "Boise City",
+        code: "us-ok",
+        relative_radius: 0.5
+    },
     "bozeman": {
         name: "Bozeman",
         name_english: "Bozeman",
@@ -1552,6 +1558,9 @@ var city_properties = {
     "boise": {
         relative_whitenoise: 0.85
     },
+    "boise_city": {
+        relative_whitenoise: 0.95
+    },
     "bozeman": {
         relative_whitenoise: 0.95
     },
@@ -2501,6 +2510,14 @@ var cities = [
         "x": "-81820.6",
         "y": "78.4663",
         "z": "-35583.8"
+    },
+    {
+        "gameName": "boise_city",
+        "realName": "Boise City",
+        "country": "boise_city",
+        "x": "-28370.7",
+        "y": "116.115",
+        "z": "10697.5"
     },
     {
         "gameName": "bozeman",
