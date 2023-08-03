@@ -45,7 +45,7 @@ var country_properties = {
         name: "Ardmore",
         name_english: "Ardmore",
         code: "us-ok",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "astoria": {
         name: "Astoria",
@@ -329,6 +329,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "cushing": {
+        name: "Cushing",
+        name_english: "Cushing",
+        code: "us-ok",
+        relative_radius: 0.4
+    },
     "dallas_fort_worth": {
         name: "Dallas/Fort Worth",
         name_english: "Dallas/Fort Worth",
@@ -555,7 +561,7 @@ var country_properties = {
         name: "Guymon",
         name_english: "Guymon",
         code: "us-ok",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "helena": {
         name: "Helena",
@@ -921,7 +927,7 @@ var country_properties = {
         name: "Oklahoma City",
         name_english: "Oklahoma City",
         code: "us-ok",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "olympia": {
         name: "Olympia",
@@ -1299,7 +1305,7 @@ var country_properties = {
         name: "Texarkana",
         name_english: "Texarkana",
         code: "us-tx",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "the_dalles": {
         name: "The Dalles",
@@ -1347,7 +1353,7 @@ var country_properties = {
         name: "Tulsa",
         name_english: "Tulsa",
         code: "us-ok",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "twin_falls": {
         name: "Twin Falls",
@@ -1443,7 +1449,7 @@ var country_properties = {
         name: "Woodward",
         name_english: "Woodward",
         code: "us-ok",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "yakima": {
         name: "Yakima",
@@ -1647,6 +1653,9 @@ var city_properties = {
     "crescent_city": {
         relative_whitenoise: 0.85
     },
+    "cushing": {
+        relative_whitenoise: 0.95
+    },
     "dallas_fort_worth": {
         relative_whitenoise: 0.95
     },
@@ -1773,6 +1782,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "guymon": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "helena": {
@@ -2255,7 +2265,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "wichita_falls": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "winnemucca": {
         relative_whitenoise: 0.80
@@ -2336,9 +2346,9 @@ var cities = [
         "gameName": "ardmore",
         "realName": "Ardmore",
         "country": "ardmore",
-        "x": "-5258",
-        "y": "62.8369",
-        "z": "26225"
+        "x": "-5273.01",
+        "y": "89.5032",
+        "z": "24862.9"
     },
     {
         "gameName": "astoria",
@@ -2696,9 +2706,9 @@ var cities = [
         "gameName": "clinton",
         "realName": "Clinton",
         "country": "clinton",
-        "x": "-17446.3",
-        "y": "102.43",
-        "z": "19501.1"
+        "x": "-14242.5",
+        "y": "184.33",
+        "z": "19340"
     },
     {
         "gameName": "clovis",
@@ -2779,6 +2789,14 @@ var cities = [
         "x": "-117438",
         "y": "96.2736",
         "z": "-35254.1"
+    },
+    {
+        "gameName": "cushing",
+        "realName": "Cushing",
+        "country": "cushing",
+        "x": "-3995.68",
+        "y": "54.5565",
+        "z": "16010.5"
     },
     {
         "gameName": "dallas_fort_worth",
@@ -2912,9 +2930,9 @@ var cities = [
         "gameName": "enid",
         "realName": "Enid",
         "country": "enid",
-        "x": "-6162.18",
-        "y": "211.521",
-        "z": "12021"
+        "x": "-8720.07",
+        "y": "70",
+        "z": "14152.2"
     },
     {
         "gameName": "eugene",
@@ -3120,9 +3138,17 @@ var cities = [
         "gameName": "guymon",
         "realName": "Guymon",
         "country": "guymon",
-        "x": "-24752.6",
-        "y": "133.77",
-        "z": "12266.1"
+        "x": "-24243",
+        "y": "106.262",
+        "z": "12150.3"
+    },
+    {
+        "gameName": "guymon",
+        "realName": "Guymon",
+        "country": "liberal_ks",
+        "x": "-24243",
+        "y": "106.262",
+        "z": "12150.3"
     },
     {
         "gameName": "helena",
@@ -3192,9 +3218,9 @@ var cities = [
         "gameName": "idabel",
         "realName": "Idabel",
         "country": "idabel",
-        "x": "4101.14",
-        "y": "204.58",
-        "z": "27321.1"
+        "x": "5238.44",
+        "y": "58",
+        "z": "27563.8"
     },
     {
         "gameName": "idaho_falls",
@@ -3416,9 +3442,9 @@ var cities = [
         "gameName": "lawton",
         "realName": "Lawton",
         "country": "lawton",
-        "x": "-11475.8",
-        "y": "125.398",
-        "z": "24298"
+        "x": "-11049.4",
+        "y": "93.4001",
+        "z": "23392.7"
     },
     {
         "gameName": "leevining",
@@ -3552,9 +3578,9 @@ var cities = [
         "gameName": "mcalester",
         "realName": "McAlester",
         "country": "mcalester",
-        "x": "1061.57",
-        "y": "409.4",
-        "z": "22953.3"
+        "x": "1094.81",
+        "y": "60.9961",
+        "z": "22901.7"
     },
     {
         "gameName": "mcallen_brownsville",
@@ -3672,9 +3698,9 @@ var cities = [
         "gameName": "oklahoma_city",
         "realName": "Oklahoma City",
         "country": "oklahoma_city",
-        "x": "-7335.23",
-        "y": "183.293",
-        "z": "17930.8"
+        "x": "-7446.37",
+        "y": "61.5677",
+        "z": "18843.3"
     },
     {
         "gameName": "olympia",
@@ -3760,9 +3786,9 @@ var cities = [
         "gameName": "paris",
         "realName": "Paris",
         "country": "paris",
-        "x": "1011.19",
-        "y": "85",
-        "z": "29532.7"
+        "x": "2250.92",
+        "y": "44.4027",
+        "z": "29384.3"
     },
     {
         "gameName": "pecos",
@@ -4248,9 +4274,9 @@ var cities = [
         "gameName": "texarkana",
         "realName": "Texarkana",
         "country": "texarkana",
-        "x": "9472.25",
-        "y": "65.5185",
-        "z": "30479.3"
+        "x": "9446.33",
+        "y": "54.3758",
+        "z": "31127"
     },
     {
         "gameName": "the_dalles",
@@ -4312,9 +4338,9 @@ var cities = [
         "gameName": "tulsa",
         "realName": "Tulsa",
         "country": "tulsa",
-        "x": "-364.898",
-        "y": "159.32",
-        "z": "15548.7"
+        "x": "-59.2364",
+        "y": "72.8209",
+        "z": "15322.7"
     },
     {
         "gameName": "twin_falls",
@@ -4456,9 +4482,9 @@ var cities = [
         "gameName": "woodward",
         "realName": "Woodward",
         "country": "woodward",
-        "x": "-15341.2",
-        "y": "133",
-        "z": "13981.1"
+        "x": "-15953.3",
+        "y": "95.1334",
+        "z": "13959.5"
     },
     {
         "gameName": "yakima",
@@ -7048,7 +7074,7 @@ var country_properties_c2c = {
         name: "wichita",
         name_english: "wichita",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "kentucky": {
         name: "kentucky",
@@ -8291,7 +8317,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "wichita": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "bowling_green": {
         relative_whitenoise: 0.85
