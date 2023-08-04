@@ -1298,7 +1298,7 @@ var stations = {
         {
             name: "Radio Lazer 106.5",
             logo: "stations/images-america/bakersfield/Radio Lazer 106.5.png",
-            url: "https://audiossl.radiolazer.stream/LBC/keal.stream/playlist.m3u8"
+            url: "https://ice8.securenetsystems.net/KEAL"
         },
         {
             name: "KUZZ 107.9",
@@ -4762,6 +4762,16 @@ var stations = {
             name: "KUVO 89.3",
             logo: "stations/images-america/denver/KUVO 89.3.png",
             url: "https://kuvo-ice.streamguys1.com/kuvo-aac-128"
+        },
+        {
+            name: "89.3 KUVO-HD2",
+            logo: "stations/images-america/denver/The DROP 104.7.png",
+            url: "http://kuvo-ice.streamguys.org//kuvohd2-aac-128"
+        },
+        {
+            name: "89.3 KUVO-HD3",
+            logo: "stations/images-america/denver/Denver Open Media 92.9.png",
+            url: "http://50.214.13.97:8000//stream"
         },
         {
             name: "GraceFM 89.7",
@@ -12313,7 +12323,7 @@ var stations = {
         {
             name: "Radio Lazer 102.9",
             logo: "stations/images-america/oxnard/Radio Lazer 102.9.png",
-            url: "https://audiossl.radiolazer.stream/LBC/kxlm.stream/playlist.m3u8"
+            url: "https://ice9.securenetsystems.net/KXLM"
         },
         {
             name: "KRUZ 103.3",
@@ -13855,7 +13865,7 @@ var stations = {
         {
             name: "Radio Lazer 107.7",
             logo: "stations/images-america/reno/Radio Lazer 107.7.png",
-            url: "https://audiossl.radiolazer.stream/LBC/ksrn.stream/playlist.m3u8"
+            url: "https://ice9.securenetsystems.net/KSRN"
         },
         {
             name: "FOX Sports 630",
@@ -16196,9 +16206,9 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/univision-ksolfmaac-imc2"
         },
         {
-            name: "Channel Q 99.3",
-            logo: "stations/images-america/san_francisco/Channel Q 99.3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            name: "Radio Lazer 99.3",
+            logo: "stations/images-america/san_francisco/Radio Lazer.png",
+            url: "http://ice8.securenetsystems.net/KSFN"
         },
         {
             name: "99.7 NOW",
@@ -16368,7 +16378,7 @@ var stations = {
         {
             name: "Radio Lazer 1510",
             logo: "stations/images-america/san_francisco/Radio Lazer 1510.png",
-            url: "https://audiossl.radiolazer.stream/LBC/ksfn.stream/playlist.m3u8"
+            url: "https://ice8.securenetsystems.net/KSFN"
         },
         {
             name: "Radio Zindagi 1550",
