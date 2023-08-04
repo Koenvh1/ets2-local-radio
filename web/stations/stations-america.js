@@ -24855,7 +24855,7 @@ var stations_c2c = {
         {
             name: "ESPN 104.3",
             logo: "stations/images-america/c2c/naples_fl/ESPN 104.3.png",
-            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWCNFMAAC_SC"
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBCNAMAAC_SC"
         },
         {
             name: "104.7 The Mix",
