@@ -24414,7 +24414,7 @@ var stations_c2c = {
         {
             name: "Key 93.7",
             logo: "stations/images-america/c2c/key_west_fl/Key 93.7.png",
-            url: "https://live.amperwave.net/manifest/radioonebuffalo-wkeyfmaac-hlsc.m3u8"
+            url: "https://live.amperwave.net/manifest/radioonebuffalo-wkeyfmaac-ibc"
         },
         {
             name: "95.7 WHNJ",
