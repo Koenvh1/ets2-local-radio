@@ -22319,6 +22319,16 @@ var stations_c2c = {
     ],
     "birmingham_al": [
         {
+            name: "Family Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
+            name: "Vida Unida 89.9",
+            logo: "stations/images-america/houston/Vida Unida 91.7.png",
+            url: "https://ksbj.streamguys1.com/vida/vidaunida.aac"
+        },
+        {
             name: "WBHM 90.3",
             logo: "stations/images-america/0_general_logos/WBHM.png",
             url: "https://audio.wbhm.org/live.mp3"
@@ -22327,6 +22337,11 @@ var stations_c2c = {
             name: "91.1 JazzHall",
             logo: "stations/images-america/c2c/birmingham_al/91.1 JazzHall.png",
             url: "https://ice7.securenetsystems.net/WVSU"
+        },
+        {
+            name: "WGIB 91.9",
+            logo: "stations/images-america/c2c/birmingham_al/WGIB 91.9.png",
+            url: "https://hls-live-web-media.cdn01.net/default/stream_12278.m3u8"
         },
         {
             name: "BIN 92.7",
@@ -22912,14 +22927,19 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1AAC_SC"
         },
         {
-            name: "Xponential Radio 91.5-HD2",
-            logo: "stations/images-america/0_general_logos/XPoNential Radio.png",
+            name: "UA Info Radio 91.5-HD2",
+            logo: "stations/images-america/c2c/tuscaloosa_al/UA Info Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2AAC_SC"
         },
         {
             name: "BBC World Service 91.5-HD3",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD3AAC_SC"
+        },
+        {
+            name: "92.5 UA Info Radio",
+            logo: "stations/images-america/c2c/tuscaloosa_al/UA Info Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2AAC.aac"
         },
         {
             name: "92.9 WTUG",
