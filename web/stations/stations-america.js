@@ -811,6 +811,11 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-kixzamaac-ibc3"
         },
         {
+            name: "KGRO 1230",
+            logo: "stations/images-america/canadian/KGRO 1230.png",
+            url: "http://139.60.77.55/kgro"
+        },
+        {
             name: "NOAA Weather Radio Amarillo",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
             url: "https://radio.weatherusa.net/NWR/WXK38_2.mp3"
@@ -2689,6 +2694,68 @@ var stations = {
             url: "https://stream.1310kein.ml:1310/stream"
         },*/
     ],
+    "canadian": [
+        {
+            name: "Kingdom Keys Radio 88.1",
+            logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
+            url: "http://ic2.christiannetcast.com/kjrt-fm"
+        },
+        {
+            name: "HPPR 89.5",
+            logo: "stations/images-america/0_general_logos/HPPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
+        },
+        {
+            name: "Kingdom Keys Radio 90.3",
+            logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
+            url: "http://ic2.christiannetcast.com//kjrt-fm"
+        },
+        {
+            name: "98.3 KXDJ",
+            logo: "stations/images-america/canadian/98.3 KXDJ.png",
+            url: "https://sh.fl-us.audio-stream.com/proxy/kxdj?mp=/stream"
+        },
+        {
+            name: "KOMX 100.3",
+            logo: "stations/images-america/canadian/KOMX 100.3.png",
+            url: "http://139.60.77.55/komx"
+        },
+        {
+            name: "K275CM 102.9",
+            logo: "stations/images-america/shamrock/Legends 92.9.png",
+            url: "http://174.127.75.88:8020/live"
+        },
+        {
+            name: "KDRL 103.3",
+            logo: "stations/images-america/canadian/KDRL 103.3.png",
+            url: "http://139.60.77.55/kdrl"
+        },
+        {
+            name: "KZZW 104.5",
+            logo: "stations/images-america/lamar/KJIL 91.9.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "710 KGNC",
+            logo: "stations/images-america/amarillo/97.5 KGNC.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kgncamaac-ibc4"
+        },
+        {
+            name: "NewsTalk 940",
+            logo: "stations/images-america/amarillo/NewsTalk 940.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kixzamaac-ibc3"
+        },
+        {
+            name: "KGRO 1230",
+            logo: "stations/images-america/canadian/KGRO 1230.png",
+            url: "http://139.60.77.55/kgro"
+        },
+        {
+            name: "KEYE 1400",
+            logo: "stations/images-america/canadian/KEYE 1400.png",
+            url: "https://ice5.securenetsystems.net/KEYEAM"
+        },
+    ],
     "carlsbad_nm": [
         {
             name: "92.1 KATK",
@@ -3066,7 +3133,7 @@ var stations = {
         {
             name: "KLSR 105.3",
             logo: "stations/images-america/childress/KLSR 105.3.png",
-            url: "https://ny.mysonicserver.com:7010/;"
+            url: "http://salt-lake-server.myautodj.com:8012/;"
         },
         {
             name: "710 KGNC",
@@ -3215,6 +3282,11 @@ var stations = {
             name: "Oklahoma Catholic Radio 98.3",
             logo: "stations/images-america/0_general_logos/Oklahoma Catholic Radio.png",
             url: "https://crystalout.surfernetwork.com:8001/KKNG_MP3"
+        },
+        {
+            name: "K255DL 98.9",
+            logo: "stations/images-america/shamrock/Legends 92.9.png",
+            url: "http://174.127.75.88:8020/live"
         },
         {
             name: "KCLI 99.3",
@@ -16834,6 +16906,63 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/townsquare-ksenamaac-ibc3"
         },
     ],
+    "shamrock": [
+        {
+            name: "Kingdom Keys Radio 90.3",
+            logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
+            url: "http://ic2.christiannetcast.com/kjrt-fm"
+        },
+        {
+            name: "Legends 92.9",
+            logo: "stations/images-america/shamrock/Legends 92.9.png",
+            url: "http://174.127.75.88:8020/live"
+        },
+        {
+            name: "96.5 KECO",
+            logo: "stations/images-america/clinton/96.5 KECO.png",
+            url: "https://us2.maindigitalstream.com/ssl/KECO"
+        },
+        {
+            name: "Legends 98.9",
+            logo: "stations/images-america/shamrock/Legends 98.9.png",
+            url: "http://96.31.83.94:8003/live"
+        },
+        {
+            name: "101.7 The Zoo",
+            logo: "stations/images-america/clinton/101.7 The Zoo.png",
+            url: "https://ice5.securenetsystems.net/KKZU"
+        },
+        {
+            name: "KLSR 105.3",
+            logo: "stations/images-america/childress/KLSR 105.3.png",
+            url: "http://salt-lake-server.myautodj.com:8012/;"
+        },
+        {
+            name: "107 The Zone",
+            logo: "stations/images-america/clinton/107 The Zone.png",
+            url: "http://12416.cloudrad.io:9354/live"
+        },
+        {
+            name: "710 KGNC",
+            logo: "stations/images-america/amarillo/97.5 KGNC.png",
+            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/alphacorporate-kgncamaac-ibc4"
+        },
+        {
+            name: "NewsTalk 940",
+            logo: "stations/images-america/amarillo/NewsTalk 940.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-kixzamaac-ibc3"
+        },
+        {
+            name: "KGRO 1230",
+            logo: "stations/images-america/canadian/KGRO 1230.png",
+            url: "http://139.60.77.55/kgro"
+        },
+        {
+            name: "KADS 1240",
+            logo: "stations/images-america/clinton/KADS.png",
+            url: "http://us2.maindigitalstream.com:7216/stream"
+        },
+    ],
     "sheridan": [
         {
             name: "YPR 88.1",
@@ -29669,9 +29798,19 @@ var stations_c2c = {
             url: "http://162.244.80.178:8012//;"
         },
         {
+            name: "KGRO 1230",
+            logo: "stations/images-america/canadian/KGRO 1230.png",
+            url: "http://139.60.77.55/kgro"
+        },
+        {
             name: "KSCB 1270",
             logo: "stations/images-america/c2c/liberal_ks/KSCB 1270.png",
             url: "https://1.ice1.sslstream.com/kscb_am.aac"
+        },
+        {
+            name: "KEYE 1400",
+            logo: "stations/images-america/canadian/KEYE 1400.png",
+            url: "https://ice5.securenetsystems.net/KEYEAM"
         },
     ],
     "salina_ks": [

@@ -215,6 +215,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.7
     },
+    "canadian": {
+        name: "Canadian",
+        name_english: "Canadian",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
         name_english: "Carlsbad (NM)",
@@ -1157,6 +1163,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.4
     },
+    "shamrock": {
+        name: "Shamrock",
+        name_english: "Shamrock",
+        code: "us-tx",
+        relative_radius: 0.5
+    },
     "sheridan": {
         name: "Sheridan",
         name_english: "Sheridan",
@@ -1594,6 +1606,9 @@ var city_properties = {
     "butte_east": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.85
+    },
+    "canadian": {
+        relative_whitenoise: 0.95
     },
     "carlsbad_nm": {
         relative_whitenoise: 0.95
@@ -2123,6 +2138,9 @@ var city_properties = {
     "schulenburg": {
         relative_whitenoise: 0.95
     },
+    "shamrock": {
+        relative_whitenoise: 0.95
+    },
     "sheridan": {
         relative_whitenoise: 0.85
     },
@@ -2630,6 +2648,14 @@ var cities = [
         "x": "-62900.5",
         "y": "175.298",
         "z": "-43777.3"
+    },
+    {
+        "gameName": "canadian",
+        "realName": "Canadian",
+        "country": "canadian",
+        "x": "-20100.1",
+        "y": "57.5976",
+        "z": "16426.2"
     },
     {
         "gameName": "carlsbad_nm",
@@ -4166,6 +4192,14 @@ var cities = [
         "x": "-97690.4",
         "y": "101.912",
         "z": "-63065.2"
+    },
+    {
+        "gameName": "shamrock",
+        "realName": "Shamrock",
+        "country": "shamrock",
+        "x": "-20004.5",
+        "y": "55.0555",
+        "z": "20673.4"
     },
     {
         "gameName": "sheridan",
