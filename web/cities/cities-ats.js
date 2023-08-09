@@ -621,7 +621,7 @@ var country_properties = {
         name: "Idabel",
         name_english: "Idabel",
         code: "us-ok",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "idaho_falls": {
         name: "Idaho Falls",
@@ -1834,6 +1834,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "idabel": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "idaho_falls": {
@@ -3261,6 +3262,14 @@ var cities = [
         "gameName": "idabel",
         "realName": "Idabel",
         "country": "idabel",
+        "x": "5238.44",
+        "y": "58",
+        "z": "27563.8"
+    },
+    {
+        "gameName": "idabel",
+        "realName": "Idabel",
+        "country": "paris",
         "x": "5238.44",
         "y": "58",
         "z": "27563.8"

@@ -8169,31 +8169,6 @@ var stations = {
             logo: "stations/images-america/idabel/106.1 KKBI.png",
             url: "http://motu.kkbifm.com:8000/k-64k.ogg"
         },
-        {
-            name: "KLIF 570",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
-        },
-        {
-            name: "Radio Caravan 700",
-            logo: "stations/images-america/dallas_fort_worth/Radio Caravan 700.png",
-            url: "https://stream.voxx.pro/radio/8260/radio.mp3"
-        },
-        {
-            name: "WBAP 820",
-            logo: "stations/images-america/dallas_fort_worth/WBAP.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
-        },
-        {
-            name: "GRN 850",
-            logo: "stations/images-america/0_general_logos/GRN.png",
-            url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
-        },
-        {
-            name: "1080 KRLD",
-            logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-krldamaac-imc"
-        },
     ],
     "idaho_falls": [
         {
@@ -12669,6 +12644,11 @@ var stations = {
             name: "KLIF 570",
             logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC_SC"
+        },
+        {
+            name: "Radio Caravan 700",
+            logo: "stations/images-america/dallas_fort_worth/Radio Caravan 700.png",
+            url: "https://stream.voxx.pro/radio/8260/radio.mp3"
         },
         {
             name: "The Truth 770",
