@@ -703,7 +703,7 @@ var stations = {
         {
             name: "Radio Vida 92.7",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "93.1 The Beat",
@@ -1810,7 +1810,7 @@ var stations = {
         {
             name: "Radio Vida 100.9",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "KBST 103.9",
@@ -2016,12 +2016,12 @@ var stations = {
         {
             name: "97.9 KISS Country",
             logo: "stations/images-america/farmington/97.9 KISS Country.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kiszfmaac-ibc3"
+            url: "https://streams.radiomast.io/46aea916-916a-45a7-ad94-e842d6390e5c"
         },
         {
             name: "98.7 KRTZ",
             logo: "stations/images-america/durango/98.7 KRTZ.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
+            url: "https://streams.radiomast.io/213c8c53-551e-46fb-af21-e1eda9829ae9"
         },
         {
             name: "KZNM 100.9",
@@ -3485,7 +3485,7 @@ var stations = {
         {
             name: "Radio Vida 98.9",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "99.5 The Fox",
@@ -4622,7 +4622,7 @@ var stations = {
         {
             name: "Radio Vida 90.3",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "exa 91.5",
@@ -5130,22 +5130,22 @@ var stations = {
         {
             name: "92.9 The Point",
             logo: "stations/images-america/durango/92.9 The Point.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kptefmaac-ibc3"
+            url: "https://streams.radiomast.io/b8a0d744-329a-44d8-8ed8-f2c80fb3994a"
         },
         {
             name: "KDGO 98.3",
             logo: "stations/images-america/durango/KDGO 98.3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kdgoamaac-ibc3"
+            url: "https://streams.radiomast.io/94f75f4d-f0ae-44f5-8641-c719fd6cd406"
         },
         {
             name: "98.7 KRTZ",
             logo: "stations/images-america/durango/98.7 KRTZ.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-krtzfmaac-ibc3"
+            url: "https://streams.radiomast.io/213c8c53-551e-46fb-af21-e1eda9829ae9"
         },
         {
             name: "99X",
             logo: "stations/images-america/durango/99X.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kkdgfmaac-ibc3"
+            url: "https://streams.radiomast.io/db026977-562c-43c1-b98d-1a96a0721312"
         },
         {
             name: "100.5 KRSJ",
@@ -5180,7 +5180,7 @@ var stations = {
         {
             name: "KDGO 1240",
             logo: "stations/images-america/durango/KDGO 98.3.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/agmedia28-kdgoamaac-ibc3"
+            url: "http://streams.radiomast.io/94f75f4d-f0ae-44f5-8641-c719fd6cd406"
         },
     ],
     "eagle_nest": [
@@ -5289,7 +5289,7 @@ var stations = {
         {
             name: "Radio Vida 90.3",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "Dinámica 94.5",
@@ -5800,12 +5800,12 @@ var stations = {
             name: "Hope 107.9",
             logo: "stations/images-america/eugene/Hope 107.9.png",
             url: "https://extramilemedia.streamguys1.com/live"
-        },/*
+        },
         {
             name: "KUGN 590",
             logo: "stations/images-america/oregon/KUGN 590.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUGNAMAAC_SC"
-        },*/
+        },
         {
             name: "Comedy 990",
             logo: "stations/images-america/eugene/Comedy 990.png",
@@ -6077,7 +6077,7 @@ var stations = {
         {
             name: "97.9 KISS Country",
             logo: "stations/images-america/farmington/97.9 KISS Country.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kiszfmaac-ibc3"
+            url: "https://streams.radiomast.io/46aea916-916a-45a7-ad94-e842d6390e5c"
         },
         {
             name: "102 KTRA",
@@ -7180,12 +7180,12 @@ var stations = {
             name: "VCY America 89.3",
             logo: "stations/images-america/0_general_logos/VCY America.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
-        },/*
+        },
         {
             name: "KNIZ 90.1",
             logo: "stations/images-america/gallup/KNIZ 90.1.png",
             url: "http://198.143.144.226:8334/stream"
-        },*/
+        },
         {
             name: "CSN Radio 90.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
@@ -9486,7 +9486,7 @@ var stations = {
         {
             name: "Radio Vida 1490",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
     ],
     "las_cruces": [
@@ -10506,7 +10506,7 @@ var stations = {
         {
             name: "Radio Vida 89.7",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "Family Life Radio 90.1",
@@ -11200,7 +11200,7 @@ var stations = {
         {
             name: "Radio Vida 1290",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "FOX Sports 1700",
@@ -12432,7 +12432,7 @@ var stations = {
         {
             name: "Radio Vida 105.5",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "La Poderosa 1570",
@@ -14352,7 +14352,7 @@ var stations = {
         {
             name: "Radio Vida 101.1",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "103.1 KHFM",
@@ -34956,7 +34956,7 @@ var stations_c2c = {
         {
             name: "Radio Vida 1030",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "http://shout2.brnstream.com:8006/stream"
+            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "KCNW 1380",
