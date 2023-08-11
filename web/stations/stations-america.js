@@ -5183,6 +5183,123 @@ var stations = {
             url: "http://streams.radiomast.io/94f75f4d-f0ae-44f5-8641-c719fd6cd406"
         },
     ],
+    "durant": [
+        {
+            name: "The Gospel Station 88.3",
+            logo: "stations/images-america/0_general_logos/The Gospel Station.png",
+            url: "https://thegospelstation.streamguys1.com/live"
+        },
+        {
+            name: "CSN Radio 90.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "afr Talk 91.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
+            name: "Katy Country 93.1",
+            logo: "stations/images-america/durant/Katy Country 93.1.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/alphacorporate-kmktfmaac-ibc4"
+        },
+        {
+            name: "KSEO 94.1",
+            logo: "stations/images-america/durant/KSEO.png",
+            url: "https://ice9.securenetsystems.net/KSEO"
+        },
+        {
+            name: "Majic 94.5",
+            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
+        },
+        {
+            name: "Mix 96.1",
+            logo: "stations/images-america/durant/Mix 96.1.png",
+            url: "https://rocket.surfernetwork.com:10001/live/kzrc-fm_aac/playlist.m3u8"
+        },
+        {
+            name: "B99.7 The Buzz",
+            logo: "stations/images-america/durant/B99.7 The Buzz.png",
+            url: "https://ice10.securenetsystems.net/KBBC"
+        },
+        {
+            name: "The Word 100.7",
+            logo: "stations/images-america/dallas_fort_worth/The Word 100.7.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC"
+        },
+        {
+            name: "Mad Rock 102.5",
+            logo: "stations/images-america/durant/Mad Rock 102.5.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/alphacorporate-kmadfmaac-ibc4"
+        },
+        {
+            name: "VCY America 103.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "K281DH 104.1",
+            logo: "stations/images-america/durant/Mix 96.1.png",
+            url: "https://rocket.surfernetwork.com:10001//live/kzrc-fm_aac/playlist.m3u8"
+        },
+        {
+            name: "FunAsia 104.9",
+            logo: "stations/images-america/dallas_fort_worth/FunAsia 104.9.png",
+            url: "https://funasia.streamguys1.com/live-1"
+        },
+        {
+            name: "106.3 KLBC",
+            logo: "stations/images-america/durant/106.3 KLBC.png",
+            url: "https://ice10.securenetsystems.net/KLBC"
+        },
+        {
+            name: "KLIF 570",
+            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
+        },
+        {
+            name: "620 AM Radio Luz",
+            logo: "stations/images-america/dallas_fort_worth/620 AM Radio Luz.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
+        },
+        {
+            name: "660 AM The Answer",
+            logo: "stations/images-america/dallas_fort_worth/660 AM The Answer.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC_SC"
+        },
+        {
+            name: "KSEO 750",
+            logo: "stations/images-america/durant/KSEO.png",
+            url: "http://ice9.securenetsystems.net/KSEO"
+        },
+        {
+            name: "WBAP 820",
+            logo: "stations/images-america/dallas_fort_worth/WBAP.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC.aac"
+        },
+        {
+            name: "GRN 850",
+            logo: "stations/images-america/0_general_logos/GRN.png",
+            url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
+        },
+        {
+            name: "1080 KRLD",
+            logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+        },
+        {
+            name: "1310 The Ticket",
+            logo: "stations/images-america/dallas_fort_worth/1310 The Ticket.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC_SC"
+        },
+        {
+            name: "Relevant Radio 1440",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },	
+    ],
     "eagle_nest": [
         {
             name: "KRZA 88.7",

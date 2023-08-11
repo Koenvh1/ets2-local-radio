@@ -395,6 +395,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.8
     },
+    "durant": {
+        name: "Durant",
+        name_english: "Durant",
+        code: "us-ok",
+        relative_radius: 0.5
+    },
     "eagle_pass": {
         name: "Eagle Pass/Piedras Negras",
         name_english: "Eagle Pass/Piedras Negras",
@@ -1706,6 +1712,9 @@ var city_properties = {
         relative_radius: 1.0,
         relative_whitenoise: 0.85
     },
+    "durant": {
+        relative_whitenoise: 0.95
+    },
     "eagle_pass": {
         relative_whitenoise: 0.95
     },
@@ -2921,6 +2930,14 @@ var cities = [
         "x": "-52062.4",
         "y": "245.111",
         "z": "5510.96"
+    },
+    {
+        "gameName": "durant",
+        "realName": "Durant",
+        "country": "durant",
+        "x": "-1805.81",
+        "y": "12.8663",
+        "z": "27898.2"
     },
     {
         "gameName": "eagle_pass",
