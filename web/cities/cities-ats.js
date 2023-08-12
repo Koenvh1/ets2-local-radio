@@ -399,7 +399,7 @@ var country_properties = {
         name: "Durant",
         name_english: "Durant",
         code: "us-ok",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "eagle_pass": {
         name: "Eagle Pass/Piedras Negras",
@@ -945,7 +945,7 @@ var country_properties = {
         name: "Oklahoma City",
         name_english: "Oklahoma City",
         code: "us-ok",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "olympia": {
         name: "Olympia",
@@ -3769,7 +3769,7 @@ var cities = [
         "country": "oklahoma_city",
         "x": "-7446.37",
         "y": "61.5677",
-        "z": "18843.3"
+        "z": "18443.3"
     },
     {
         "gameName": "olympia",

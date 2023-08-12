@@ -6214,7 +6214,7 @@ var stations = {
         {
             name: "Pirate Radio 107.9",
             logo: "stations/images-america/farmington/Pirate Radio 107.9.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kprtfmaac-ibc3"
+            url: "https://streams.radiomast.io/dac06ecf-9c87-4e86-a338-c45baef770d3"
         },
         {
             name: "KNDN 960",
@@ -6681,7 +6681,7 @@ var stations = {
         {
             name: "KFCF 88.1",
             logo: "stations/images-america/fresno/KFCF FM 88.1.png",
-            url: "https://stream.kfcf.org:8443/32"
+            url: "https://stream.kfcf.org:8443/128"
         },
         {
             name: "Air1 88.5",
@@ -23916,6 +23916,11 @@ var stations_c2c = {
     ],
     "hartford": [
         {
+            name: "WESU 88.1",
+            logo: "stations/images-america/c2c/hartford_ct/WESU 88.1.png",
+            url: "http://radio.wesleyan.edu:8000/stream"
+        },
+        {
             name: "WRTC 89.3",
             logo: "stations/images-america/c2c/hartford_ct/WRTC 89.3.png",
             url: "http://live.adsciconsolidated.com/wrtchigh.mp3"
@@ -23936,9 +23941,19 @@ var stations_c2c = {
             url: "https://stream3477.egihosting.com:8002/;"
         },
         {
+            name: "W220CH 91.9",
+            logo: "stations/images-america/c2c/hartford_ct/WMNR.png",
+            url: "https://wmnr.streamguys1.com:80/live"
+        },
+        {
             name: "Country 92.5",
             logo: "stations/images-america/c2c/hartford_ct/Country 92.5.png",
             url: "https://stream.revma.ihrhls.com/zc445/hls.m3u8"
+        },
+        {
+            name: "MIX 93.1",
+            logo: "stations/images-america/c2c/springfield_ma/MIX 93.1.png",
+            url: "https://stream.revma.ihrhls.com/zc1101/hls.m3u8"
         },
         {
             name: "HOT 93.7",
@@ -23949,6 +23964,16 @@ var stations_c2c = {
             name: "Channel Q 93.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+        },
+        {
+            name: "Faith Radio 94.1",
+            logo: "stations/images-america/c2c/hartford_ct/Faith Radio.png",
+            url: "https://nwm-lb-4.streamguys1.com/ktis-am"
+        },
+        {
+            name: "Life Changing Radio 94.1",
+            logo: "stations/images-america/c2c/hartford_ct/Life Changing Radio.png",
+            url: "https://ic1.sslstream.com/wsdk-fm"
         },
         {
             name: "KISS 95.7",
@@ -23966,6 +23991,11 @@ var stations_c2c = {
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wticfmaac-imc"
         },
         {
+            name: "96.5 WTIC-HD2",
+            logo: "stations/images-america/c2c/hartford_ct/1080 WTIC.png",
+            url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/manifest/audacy-wticamaac-imc"
+        },
+        {
             name: "The Power 97.5",
             logo: "stations/images-america/c2c/hartford_ct/The Power 97.5.png",
             url: "http://146.71.118.220:35054/stream"
@@ -23974,6 +24004,21 @@ var stations_c2c = {
             name: "97.9 ESPN",
             logo: "stations/images-america/c2c/hartford_ct/97.9 ESPN.png",
             url: "https://stream.revma.ihrhls.com/zc5238/hls.m3u8"
+        },
+        {
+            name: "97.9 WUCS-HD2",
+            logo: "stations/images-america/c2c/hartford_ct/100.9 WPOP.png",
+            url: "http://stream.revma.ihrhls.com/zc3897/hls.m3u8"
+        },
+        {
+            name: "99.1 PLR",
+            logo: "stations/images-america/c2c/hartford_ct/99.1 PLR.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WPLRFMAAC_SC"
+        },
+        {
+            name: "Radio Avivamiento 100.1",
+            logo: "stations/images-america/c2c/hartford_ct/Radio Avivamiento 100.1.png",
+            url: "http://unoredradio.com:9756/;stream.mp3"
         },
         {
             name: "Lite 100.5",
@@ -23986,13 +24031,18 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3897/hls.m3u8"
         },
         {
+            name: "KC101",
+            logo: "stations/images-america/c2c/new_haven_ct/KC101.png",
+            url: "https://stream.revma.ihrhls.com/zc457/hls.m3u8"
+        },
+        {
             name: "Mega 101.7",
             logo: "stations/images-america/c2c/hartford_ct/Mega 101.7.png",
             url: "http://146.71.118.220:35050/stream"
         },
         {
             name: "102.5",
-            logo: "stations/images-america/c2c/hartford_ct/‎102.5.png",
+            logo: "stations/images-america/c2c/hartford_ct/102.5.png",
             url: "https://crystalout.surfernetwork.com:8001/WBOM-AM_MP3"
         },
         {
@@ -24001,9 +24051,14 @@ var stations_c2c = {
             url: "https://crystalout.surfernetwork.com:8001/WDRC-FM_MP3"
         },
         {
-            name: "‎WDRC 103.3",
+            name: "WDRC 103.3",
             logo: "stations/images-america/c2c/hartford_ct/WDRC 103.3.png",
             url: "https://crystalout.surfernetwork.com:8001/WDRC-AM_MP3"
+        },
+        {
+            name: "Radio 104.1",
+            logo: "stations/images-america/c2c/new_haven_ct/Radio 104.1.png",
+            url: "https://crystalout.surfernetwork.com:8001/WMRQ_MP3"
         },
         {
             name: "The River 105.9",
@@ -24011,14 +24066,44 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc429/hls.m3u8"
         },
         {
+            name: "K-LOVE 106.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "Viva! 107.3",
             logo: "stations/images-america/c2c/hartford_ct/Viva! 107.3.png",
             url: "https://ice66.securenetsystems.net/WRYM"
         },
         {
+            name: "560 WHYN",
+            logo: "stations/images-america/c2c/springfield_ma/560 WHYN.png",
+            url: "https://stream.revma.ihrhls.com/zc4685/hls.m3u8"
+        },
+        {
+            name: "Viva! 840",
+            logo: "stations/images-america/c2c/hartford_ct/Viva! 107.3.png",
+            url: "http://ice66.securenetsystems.net/WRYM"
+        },
+        {
             name: "1080 WTIC",
             logo: "stations/images-america/c2c/hartford_ct/1080 WTIC.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-wticamaac-imc"
+        },
+        {
+            name: "Faith Radio 1360",
+            logo: "stations/images-america/c2c/hartford_ct/Faith Radio.png",
+            url: "http://nwm-lb-4.streamguys1.com/ktis-am"
+        },
+        {
+            name: "1410 WPOP",
+            logo: "stations/images-america/c2c/hartford_ct/100.9 WPOP.png",
+            url: "https://stream.revma.ihrhls.com/zc3897"
+        },
+        {
+            name: "Life Changing Radio 1550",
+            logo: "stations/images-america/c2c/hartford_ct/Life Changing Radio.png",
+            url: "http://ic1.sslstream.com/wsdk-fm"
         },
     ],
     "new_haven": [
