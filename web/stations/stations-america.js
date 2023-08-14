@@ -22909,19 +22909,19 @@ var stations_c2c = {
     ],
     "mobile": [
         {
+            name: "Power 88",
+            logo: "stations/images-america/c2c/mobile_al/Power 88.png",
+            url: "https://us2.maindigitalstream.com/ssl/POWER88"
+        },
+        {
+            name: "afr Talk 89.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
             name: "APR News & Classics 91.3",
             logo: "stations/images-america/0_general_logos/APR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1AAC_SC"
-        },
-        {
-            name: "Xponential Radio 91.3-HD2",
-            logo: "stations/images-america/0_general_logos/XPoNential Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2AAC_SC"
-        },
-        {
-            name: "BBC World Service 91.3-HD3",
-            logo: "stations/images-america/0_general_logos/BBC World Service.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD3AAC_SC"
         },
         {
             name: "92ZEW",
@@ -22944,9 +22944,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3119/hls.m3u8"
         },
         {
-            name: "iHeart Country Classics 94.9-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart Country Classics.png",
-            url: "https://stream.revma.ihrhls.com/zc4435/hls.m3u8"
+            name: "95.3 Gorilla",
+            logo: "stations/images-america/c2c/hattiesburg_ms/95.3 Gorilla.png",
+            url: "https://ice42.securenetsystems.net/WZNF"
         },
         {
             name: "96.1 The Rocket",
@@ -22964,9 +22964,29 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WABDFMAAC_SC"
         },
         {
+            name: "W250CB 97.9",
+            logo: "stations/images-america/c2c/mobile_al/Truth Talk 1270.png",
+            url: "http://ice10.securenetsystems.net/WIJD"
+        },
+        {
+            name: "K-LOVE 98.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Sports Talk 99.5",
+            logo: "stations/images-america/c2c/mobile_al/Sports Talk 99.5.png",
+            url: "https://stream.revma.ihrhls.com/zc5/hls.m3u8"
+        },
+        {
             name: "Mix 99.9",
             logo: "stations/images-america/c2c/mobile_al/Mix 99.9.png",
             url: "https://stream.revma.ihrhls.com/zc5/hls.m3u8"
+        },
+        {
+            name: "Hallelujah 100.3",
+            logo: "stations/images-america/c2c/mobile_al/Hallelujah 100.3.png",
+            url: "https://stream.revma.ihrhls.com/zc6972/hls.m3u8"
         },
         {
             name: "104.1 WDLT",
@@ -22984,6 +23004,11 @@ var stations_c2c = {
             url: "https://us9.maindigitalstream.com/ssl/wavhfm"
         },
         {
+            name: "WXQW 660",
+            logo: "stations/images-america/c2c/mobile_al/WXQW 660.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXQWAMAAC_SC"
+        },
+        {
             name: "710 WNTM",
             logo: "stations/images-america/c2c/mobile_al/710 WNTM.png",
             url: "https://stream.revma.ihrhls.com/zc1/hls.m3u8"
@@ -22992,6 +23017,11 @@ var stations_c2c = {
             name: "Gospel 900",
             logo: "stations/images-america/c2c/mobile_al/Gospel 900.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGOKAMAAC_SC"
+        },
+        {
+            name: "Truth Talk 1270",
+            logo: "stations/images-america/c2c/mobile_al/Truth Talk 1270.png",
+            url: "https://ice10.securenetsystems.net/WIJD"
         },
         {
             name: "1480 WABF",
@@ -23006,8 +23036,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1AAC_SC"
         },
         {
-            name: "Xponential Radio 88.3-HD2",
-            logo: "stations/images-america/0_general_logos/XPoNential Radio.png",
+            name: "UA Info Radio 88.3-HD2",
+            logo: "stations/images-america/c2c/tuscaloosa_al/UA Info Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2AAC_SC"
         },
         {

@@ -6707,7 +6707,7 @@ var country_properties_c2c = {
         name: "mobile",
         name_english: "mobile",
         code: "us-al",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "montgomery_al": {
         name: "montgomery_al",
@@ -8186,7 +8186,8 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "mobile": {
-        relative_whitenoise: 0.85
+		relative_radius: 0.8,
+        relative_whitenoise: 0.95
     },
     "montgomery_al": {
         relative_whitenoise: 0.85
@@ -8259,7 +8260,8 @@ var city_properties_c2c = {
         relative_whitenoise: 0.75
     },
     "pensacola": {
-        relative_whitenoise: 0.85
+		relative_radius: 0.8,
+        relative_whitenoise: 0.95
     },
     "sarasota_fl": {
         relative_radius: 0.8,
@@ -8892,6 +8894,14 @@ var cities_c2c = [
         "z": "45610.4"
     },
     {
+        "gameName": "mobile",
+        "realName": "Mobile",
+        "country": "pensacola",
+        "x": "39248",
+        "y": "130.223",
+        "z": "45610.4"
+    },
+    {
         "gameName": "montgomery_al",
         "realName": "Montgomery",
         "country": "montgomery_al",
@@ -9103,6 +9113,14 @@ var cities_c2c = [
         "gameName": "pensacola",
         "realName": "Pensacola",
         "country": "pensacola",
+        "x": "44251.7",
+        "y": "43.8531",
+        "z": "45536.2"
+    },
+    {
+        "gameName": "pensacola",
+        "realName": "Pensacola",
+        "country": "mobile",
         "x": "44251.7",
         "y": "43.8531",
         "z": "45536.2"
