@@ -12239,8 +12239,8 @@ var stations = {
     ],
     "newport": [
         {
-            name: "All Classical 88.1",
-            logo: "stations/images-america/portland/All Classical 89.9.png",
+            name: "All Classical Radio 88.1",
+            logo: "stations/images-america/portland/All Classical Radio.png",
             url: "https://allclassical.streamguys1.com/ac128kmp3"
         },
         {
@@ -13223,8 +13223,8 @@ var stations = {
             url: "https://live.wostreaming.net/manifest/mhcc-kmhchd2aac-ibc1"
         },
         {
-            name: "All Classical 89.9",
-            logo: "stations/images-america/portland/All Classical 89.9.png",
+            name: "All Classical Radio 89.9",
+            logo: "stations/images-america/portland/All Classical Radio.png",
             url: "https://allclassical.streamguys1.com/ac128kmp3"
         },
         {
@@ -18081,8 +18081,8 @@ var stations = {
     ],
     "the_dalles": [
         {
-            name: "All Classical 88.1",
-            logo: "stations/images-america/portland/All Classical 89.9.png",
+            name: "All Classical Radio 88.1",
+            logo: "stations/images-america/portland/All Classical Radio.png",
             url: "https://allclassical.streamguys1.com/ac128kmp3"
         },
         {
@@ -18116,8 +18116,8 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KACI"
         },
         {
-            name: "All Classical 96.3",
-            logo: "stations/images-america/portland/All Classical 89.9.png",
+            name: "All Classical Radio 96.3",
+            logo: "stations/images-america/portland/All Classical Radio.png",
             url: "http://allclassical.streamguys1.com/ac128kmp3"
         },
         {
