@@ -4545,24 +4545,9 @@ var stations = {
             url: "https://media-ssl.musicradio.com/CapitalGlasgow"
         },
         {
-            name: "Central FM",
-            logo: "stations/images-europe/scotland/Central FM.png",
-            url: "http://webradio.radiomonitor.com/stream/CentralFM"
-        },
-        {
-            name: "Edge Radio",
-            logo: "stations/images-europe/scotland/Edge Radio.png",
-            url: "https://s5.radio.co/s813789af2/listen"
-        },
-        {
             name: "Go Radio",
             logo: "stations/images-europe/scotland/Go Radio.png",
             url: "https://streaming.broadcastradio.com:8252/goradio"
-        },
-        {
-            name: "Kingdom FM",
-            logo: "stations/images-europe/scotland/Kingdom FM.png",
-            url: "https://listen-kingdomfm.sharp-stream.com/kingdomfm.mp3"
         },
         {
             name: "Nation Radio Scotland",
@@ -4573,12 +4558,7 @@ var stations = {
             name: "Pure Radio",
             logo: "stations/images-europe/scotland/Pure Radio.png",
             url: "https://listen-pureradio.sharp-stream.com/pure_radio.mp3"
-        },/*
-        {
-            name: "Virgin Radio Groove",
-            logo: "stations/images-europe/scotland/Virgin Radio Groove.png",
-            url: "https://radio.virginradio.co.uk/stream-groove"
-        },*/
+        },
     ],
     "serbia": [
         {
@@ -5768,9 +5748,34 @@ var stations = {
             url: "http://185.106.98.26/radiofeeds.php?station=absoluteradiohigh-aac"
         },
         {
+            name: "Absolute 80s",
+            logo: "stations/images-europe/uk/Absolute 80s.png",
+            url: "http://185.106.98.26/radiofeeds.php?station=absolute80shigh-aac"
+        },
+        {
+            name: "Absolute 90s",
+            logo: "stations/images-europe/uk/Absolute 90s.png",
+            url: "http://185.106.98.26/radiofeeds.php?station=absolute90shigh-aac"
+        },
+        {
+            name: "BFBS UK",
+            logo: "stations/images-europe/uk/BFBS UK.png",
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac"
+        },
+        {
+            name: "Boom Radio",
+            logo: "stations/images-europe/uk/Boom Radio.png",
+            url: "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_64"
+        },
+        {
             name: "Capital FM",
             logo: "stations/images-europe/uk/Capital FM.png",
             url: "https://media-ssl.musicradio.com/CapitalUK"
+        },
+        {
+            name: "Capital Chill",
+            logo: "stations/images-europe/uk/Capital Chill.png",
+            url: "https://media-ssl.musicradio.com/CapitalChill"
         },
         {
             name: "Capital Dance",
@@ -5791,6 +5796,16 @@ var stations = {
             name: "Classic FM",
             logo: "stations/images-europe/uk/Classic FM.png",
             url: "https://media-ssl.musicradio.com/ClassicFM"
+        },
+        {
+            name: "Fix Radio",
+            logo: "stations/images-europe/uk/Fix Radio.png",
+            url: "https://stream.rcs.revma.com/pq7npt2nzbuvv"
+        },
+        {
+            name: "Fun Kids",
+            logo: "stations/images-europe/uk/Fun Kids.png",
+            url: "https://listen-funkids.sharp-stream.com/funkids.mp3"
         },
         {
             name: "Greatest Hits Radio",
@@ -5828,6 +5843,11 @@ var stations = {
             url: "https://media-ssl.musicradio.com/Heart90s"
         },
         {
+            name: "Jazz FM",
+            logo: "stations/images-europe/uk/Jazz FM.png",
+            url: "http://185.106.98.26/radiofeeds.php?station=jazzhigh-aac"
+        },
+        {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
             url: "http://185.106.98.26/radiofeeds.php?station=heat-aac"
@@ -5863,9 +5883,39 @@ var stations = {
             url: "http://185.106.98.26/radiofeeds.php?station=magicnational-aac"
         },
         {
+            name: "Magic Mellow",
+            logo: "stations/images-europe/uk/Magic Mellow.png",
+            url: "http://185.106.98.26/radiofeeds.php?station=magicmellow-aac"
+        },
+        {
+            name: "Planet Rock",
+            logo: "stations/images-europe/uk/Planet Rock.png",
+            url: "http://185.106.98.26/radiofeeds.php?station=planetrock-aac"
+        },
+        {
+            name: "Premier Christian Radio",
+            logo: "stations/images-europe/uk/Premier Christian Radio.png",
+            url: "https://pcr.streamguys1.com/pcrnational-128k.aac"
+        },
+        {
+            name: "Premier Praise",
+            logo: "stations/images-europe/uk/Premier Praise.png",
+            url: "https://pcr.streamguys1.com/ppraise-128k.aac"
+        },
+        {
             name: "Radio X",
             logo: "stations/images-europe/uk/Radio X.png",
             url: "https://media-ssl.musicradio.com/RadioXUK"
+        },
+        {
+            name: "Radio X Classic Rock",
+            logo: "stations/images-europe/uk/Radio X Classic Rock.png",
+            url: "https://media-ssl.musicradio.com/RadioXClassicRock"
+        },
+        {
+            name: "Scala Radio",
+            logo: "stations/images-europe/uk/Scala Radio.png",
+            url: "http://185.106.98.26/radiofeeds.php?station=scala-aac"
         },
         {
             name: "Smooth UK",
@@ -5878,9 +5928,29 @@ var stations = {
             url: "https://media-ssl.musicradio.com/SmoothChill"
         },
         {
+            name: "Sunrise Radio",
+            logo: "stations/images-europe/uk/Sunrise Radio.png",
+            url: "https://direct.sharp-stream.com/sunriseradio.mp3"
+        },
+        {
+            name: "TalkRadio",
+            logo: "stations/images-europe/uk/TalkRadio.png",
+            url: "https://radio.talkradio.co.uk/stream"
+        },
+        {
             name: "talkSPORT",
             logo: "stations/images-europe/uk/talkSPORT.png",
             url: "https://radio.talksport.com/stream"
+        },
+        {
+            name: "talkSPORT 2",
+            logo: "stations/images-europe/uk/talkSPORT 2.png",
+            url: "https://radio.talksport.com/stream2"
+        },
+        {
+            name: "Times Radio",
+            logo: "stations/images-europe/uk/Times Radio.png",
+            url: "https://timesradio.wireless.radio/stream"
         },
         {
             name: "UCB 1",
@@ -5891,6 +5961,21 @@ var stations = {
             name: "UCB 2",
             logo: "stations/images-europe/uk/UCB 2.png",
             url: "https://edge-audio-02-gos1.sharp-stream.com/ucbinspirational.mp3"
+        },
+        {
+            name: "Virgin Radio UK",
+            logo: "stations/images-europe/uk/Virgin Radio UK.png",
+            url: "https://radio.virginradio.co.uk/stream"
+        },
+        {
+            name: "Virgin Radio Anthems",
+            logo: "stations/images-europe/uk/Virgin Radio Anthems.png",
+            url: "https://radio.virginradio.co.uk/stream-anthems"
+        },
+        {
+            name: "Virgin Radio Chilled",
+            logo: "stations/images-europe/uk/Virgin Radio Chilled.png",
+            url: "https://radio.virginradio.co.uk/stream-chilled"
         },
     ],
     "ukraine": [
