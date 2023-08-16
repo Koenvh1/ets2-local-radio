@@ -4254,6 +4254,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC_SC"
         },
         {
+            name: "La Raza 93.7",
+            logo: "stations/images-america/dallas_fort_worth/La Raza 93.7.png",
+            url: "http://185.106.98.26/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KNORFMAAC_SC"
+        },
+        {
             name: "Qué Buena 94.1",
             logo: "stations/images-america/dallas_fort_worth/Qué Buena 94.1.png",
             url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/direct/univision-klnofmaac-imc1"
@@ -4299,6 +4304,11 @@ var stations = {
             url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC"
         },
         {
+            name: "Luna 98.3",
+            logo: "stations/images-america/dallas_fort_worth/Luna 98.3.png",
+            url: "http://185.106.98.26/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBOCFMAAC_SC"
+        },
+        {
             name: "98.7 The Spot",
             logo: "stations/images-america/dallas_fort_worth/98.7 The Spot.png",
             url: "http://185.106.98.26/index.php?u=https://live.amperwave.net/direct/audacy-kspffmaac-imc"
@@ -4332,6 +4342,11 @@ var stations = {
             name: "Classical 101.1",
             logo: "stations/images-america/dallas_fort_worth/Classical 101.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRRFMAAC_SC"
+        },
+        {
+            name: "Air1 101.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Star 102.1",
@@ -7275,6 +7290,28 @@ var stations = {
             name: "KODI 1400",
             logo: "stations/images-america/cody/KODI 96.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KODIAMAAC.aac"
+        },
+    ],
+    "gainesville_tx": [
+        {
+            name: "KPFC 89.1",
+            logo: "stations/images-america/gainesville/KPFC 89.1.png",
+            url: "https://ice7.securenetsystems.net/SWEENEY"
+        },
+        {
+            name: "KGAF 92.3",
+            logo: "stations/images-america/gainesville/KGAF.png",
+            url: "https://s2.reliastream.com/proxy/kgaf?mp=/stream"
+        },
+        {
+            name: "95.3 The Range",
+            logo: "stations/images-america/gainesville/95.3 The Range.png",
+            url: "http://185.106.98.26/index.php?u=http://streaming.live365.com/a25891"
+        },
+        {
+            name: "KGAF 1580",
+            logo: "stations/images-america/gainesville/KGAF.png",
+            url: "http://s2.reliastream.com/proxy/kgaf?mp=/stream"
         },
     ],
     "gallup": [
