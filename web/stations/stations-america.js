@@ -39890,11 +39890,6 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "KOSU 91.7",
-            logo: "stations/images-america/oklahoma_city/KOSU 91.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOSUFM_NEWS_SC"
-        },
-        {
             name: "The Gospel Station 93.1",
             logo: "stations/images-america/0_general_logos/The Gospel Station.png",
             url: "https://thegospelstation.streamguys1.com/live"
@@ -39903,11 +39898,6 @@ var stations_c2c = {
             name: "My 95.7",
             logo: "stations/images-america/enid/My 95.7.png",
             url: "https://ice8.securenetsystems.net/KXLS"
-        },
-        {
-            name: "Freedom 96.9",
-            logo: "stations/images-america/oklahoma_city/Freedom 96.9.png",
-            url: "https://ice8.securenetsystems.net/KZLS"
         },
         {
             name: "97.7 The Hawk",
@@ -39955,24 +39945,9 @@ var stations_c2c = {
             url: "http://ic1.christiannetcast.com/bottradio"
         },
         {
-            name: "WKY 930",
-            logo: "stations/images-america/oklahoma_city/The Sports Animal 98.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLSAMAAC_SC"
-        },
-        {
             name: "960 KGWA",
             logo: "stations/images-america/enid/100.9 KGWA.png",
             url: "http://crystalout.surfernetwork.com:8001/KGWA_MP3"
-        },
-        {
-            name: "1000 KTOK",
-            logo: "stations/images-america/oklahoma_city/1000 KTOK.png",
-            url: "https://stream.revma.ihrhls.com/zc1909/hls.m3u8"
-        },
-        {
-            name: "Triple Play Sports Radio 1020",
-            logo: "stations/images-america/oklahoma_city/Triple Play Sports Radio.png",
-            url: "https://crystalout.surfernetwork.com:8001/KOKB-AM_MP3"
         },
         {
             name: "CTB Sports 1390",
@@ -39983,11 +39958,6 @@ var stations_c2c = {
             name: "KREF 1400",
             logo: "stations/images-america/oklahoma_city/KREF.png",
             url: "https://ice9.securenetsystems.net/KREF"
-        },
-        {
-            name: "1520 KOKC",
-            logo: "stations/images-america/oklahoma_city/95.3 KOKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
         },
         {
             name: "CTB Sports 1640",
@@ -49319,6 +49289,11 @@ var stations_canada = {
             name: "102.1 The Edge",
             logo: "stations/images-america/canada/toronto/102.1 The Edge.png",
             url: "https://live.leanstream.co/CFNYFM"
+        },
+        {
+            name: "Z103.5",
+            logo: "stations/images-america/canada/toronto/Z103.5.png",
+            url: "https://evanov.leanstream.co/CIDCFM"
         },
         {
             name: "103.9 Proud FM",
