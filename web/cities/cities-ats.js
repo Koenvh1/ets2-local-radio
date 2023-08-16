@@ -399,7 +399,7 @@ var country_properties = {
         name: "Durant",
         name_english: "Durant",
         code: "us-ok",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "eagle_pass": {
         name: "Eagle Pass/Piedras Negras",
