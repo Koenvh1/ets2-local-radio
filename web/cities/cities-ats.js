@@ -509,6 +509,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
+    "gainesville_tx": {
+        name: "Gainesville",
+        name_english: "Gainesville",
+        code: "us-tx",
+        relative_radius: 1.0
+    },
     "gallup": {
         name: "Gallup",
         name_english: "Gallup",
@@ -1776,6 +1782,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "fort_stockton": {
+        relative_whitenoise: 0.95
+    },
+    "gainesville_tx": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "gallup": {
@@ -3114,6 +3124,22 @@ var cities = [
         "x": "-73445",
         "y": "173.035",
         "z": "10298.5"
+    },
+    {
+        "gameName": "gainesville_tx",
+        "realName": "Gainesville",
+        "country": "gainesville_tx",
+        "x": "-4900.64",
+        "y": "16.8422",
+        "z": "29395.8"
+    },
+    {
+        "gameName": "gainesville_tx",
+        "realName": "Gainesville",
+        "country": "dallas_fort_worth",
+        "x": "-4900.64",
+        "y": "16.8422",
+        "z": "29395.8"
     },
     {
         "gameName": "gallup",
