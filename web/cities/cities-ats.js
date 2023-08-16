@@ -2935,9 +2935,9 @@ var cities = [
         "gameName": "durant",
         "realName": "Durant",
         "country": "durant",
-        "x": "-1805.81",
+        "x": "-2105.81",
         "y": "12.8663",
-        "z": "27898.2"
+        "z": "27598.2"
     },
     {
         "gameName": "eagle_pass",
