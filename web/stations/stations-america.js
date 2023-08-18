@@ -16342,8 +16342,8 @@ var stations = {
             url: "http://www.streamcontrol.net:12010/;"
         },
         {
-            name: "Revolution 92.7",
-            logo: "stations/images-america/san_francisco/Revolution 92.7.png",
+            name: "92.7 The Hustle",
+            logo: "stations/images-america/san_francisco/92.7 The Hustle.png",
             url: "https://ice42.securenetsystems.net/KREV"
         },
         {
