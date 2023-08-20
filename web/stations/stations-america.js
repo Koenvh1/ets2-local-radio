@@ -38,7 +38,7 @@ var stations = {
         {
             name: "Northwest Newsradio 97.7",
             logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
-            url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC_SC"
         },
         {
             name: "La GranD 99.3",
@@ -2041,7 +2041,7 @@ var stations = {
         {
             name: "KVFC AM 740",
             logo: "stations/images-america/durango/KVFC AM 740.png",
-            url: "https://live.amperwave.net/manifest/agmedia28-kvfcamaac-ibc3"
+            url: "https://streams.radiomast.io/7594126e-6134-447f-b2d2-8bb2ed2d2d9b"
         },
         {
             name: "KNDN 960",
@@ -5190,7 +5190,7 @@ var stations = {
         {
             name: "KVFC AM 740",
             logo: "stations/images-america/durango/KVFC AM 740.png",
-            url: "https://live.amperwave.net/manifest/agmedia28-kvfcamaac-ibc3"
+            url: "https://streams.radiomast.io/7594126e-6134-447f-b2d2-8bb2ed2d2d9b"
         },
         {
             name: "KDGO 1240",
@@ -15866,7 +15866,7 @@ var stations = {
         {
             name: "Oldies 107.9",
             logo: "stations/images-america/santa_rosa_ca/Oldies 107.9.png",
-            url: "http://185.106.98.26/index.php?u=https://live.wostreaming.net/manifest/sonoma-kdhtfmaac-ibc3?source=v7player"
+            url: "https://live.wostreaming.net/manifest/sonoma-khthhd2aac-ibc"
         },
         {
             name: "560 KSFO",
@@ -16810,7 +16810,7 @@ var stations = {
         {
             name: "Northwest Newsradio 97.7",
             logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
-            url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC_SC"
         },
         {
             name: "KING FM 98.1",
@@ -16855,7 +16855,12 @@ var stations = {
         {
             name: "Star 101.5",
             logo: "stations/images-america/seattle/Star 101.5.png",
-            url: "https://live.wostreaming.net/direct/sinclair-kplzfmaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLZFMAAC_SC"
+        },
+        {
+            name: "Northwest Newsradio 101.5-HD2",
+            logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC_SC"
         },
         {
             name: "KXSU 102.1",
@@ -16925,7 +16930,7 @@ var stations = {
         {
             name: "570 KVI",
             logo: "stations/images-america/seattle/570 KVI.png",
-            url: "https://live.wostreaming.net/manifest/sinclair-kviamaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVIAMAAC_SC"
         },
         {
             name: "KCIS 630",
@@ -16960,7 +16965,7 @@ var stations = {
         {
             name: "Northwest Newsradio 1000",
             logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
-            url: "http://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC.aac"
         },
         {
             name: "1090 The Patriot",
@@ -17243,7 +17248,7 @@ var stations = {
         {
             name: "Rewind 97.7",
             logo: "stations/images-america/show_low/Rewind 97.7.png",
-            url: "http://rewind97.com:8190/rewind97-23"
+            url: "https://s5.radioforge.com:6874/rewind97-23"
         },
         {
             name: "98.5 KRFM",
@@ -17253,7 +17258,7 @@ var stations = {
         {
             name: "K-Bear 100.5",
             logo: "stations/images-america/show_low/K-Bear 100.5.png",
-            url: "http://kbear100.com:8190/kbear23"
+            url: "https://s5.radioforge.com:6874/kbear23"
         },/*
         {
             name: "Majik 101.7",
@@ -17263,7 +17268,7 @@ var stations = {
         {
             name: "103.5 The Vibe",
             logo: "stations/images-america/show_low/103.5 The Vibe.png",
-            url: "http://1035thevibe.com:8190/vibe23"
+            url: "https://s5.radioforge.com:6874/vibe23"
         },
         {
             name: "105.5 KSNX",
@@ -17273,7 +17278,7 @@ var stations = {
         {
             name: "107.9 The Eagle",
             logo: "stations/images-america/show_low/107.9 The Eagle.png",
-            url: "http://1079theeagle.com:8190/eagle23"
+            url: "https://s5.radioforge.com:6874/eagle23"
         },
         {
             name: "KTNN 660",
@@ -17295,12 +17300,12 @@ var stations = {
         {
             name: "AZPM News 88.9",
             logo: "stations/images-america/sierra_vista/Arizona Public Media.png",
-            url: "http://streaming.azpm.org:80/kuaz192.mp3"
+            url: "https://azpm.streamguys1.com/kuaz128.aac"
         },
         {
             name: "AZPM Classical 89.7",
             logo: "stations/images-america/sierra_vista/Arizona Public Media.png",
-            url: "http://streaming.azpm.org:80/kuat192.mp3"
+            url: "https://azpm.streamguys1.com/kuat128.aac"
         },
         {
             name: "KWCD 92.3",
@@ -18432,7 +18437,7 @@ var stations = {
         {
             name: "NPR 89.1",
             logo: "stations/images-america/tucson/NPR 89.1.png",
-            url: "https://hls.azpm.org/fz-stream/128k/kuaz128.m3u8"
+            url: "https://azpm.streamguys1.com/kuaz128.aac"
         },
         {
             name: "Jazz 89.1-HD2",
@@ -18447,7 +18452,7 @@ var stations = {
         {
             name: "Classical 90.5",
             logo: "stations/images-america/tucson/Classical 90.5.png",
-            url: "https://hls.azpm.org/t-stream/128k/kuat128.m3u8"
+            url: "https://azpm.streamguys1.com/kuat128.aac"
         },
         {
             name: "KXCI 91.3",
@@ -21249,7 +21254,7 @@ var stations_mexico = {
         {
             name: "AZPM Classical 91.1",
             logo: "stations/images-america/sierra_vista/Arizona Public Media.png",
-            url: "http://streaming.azpm.org:80/kuat192.mp3"
+            url: "https://azpm.streamguys1.com/kuat128.aac"
         },
         {
             name: "La Mejor 96.7",
@@ -46915,7 +46920,7 @@ var stations_canada = {
         {
             name: "Northwest Newsradio 1000",
             logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
-            url: "https://live.wostreaming.net/direct/sinclair-komoamaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC_SC"
         },
         {
             name: "AM 1150",
