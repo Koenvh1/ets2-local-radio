@@ -1359,7 +1359,7 @@ var country_properties = {
         name: "Truckee",
         name_english: "Truckee",
         code: "us-ca",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "truth_or_consequences": {
         name: "Truth or Consequences",
@@ -2256,7 +2256,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "truckee": {
-        relative_whitenoise: 0.85
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "truth_or_consequences": {
         relative_whitenoise: 0.95
@@ -4409,7 +4410,15 @@ var cities = [
         "gameName": "truckee",
         "realName": "Truckee",
         "country": "truckee",
-        "x": "-106818",
+        "x": "-105818",
+        "y": "490.608",
+        "z": "-17000.3"
+    },
+    {
+        "gameName": "truckee",
+        "realName": "Truckee",
+        "country": "reno",
+        "x": "-105818",
         "y": "490.608",
         "z": "-17000.3"
     },
