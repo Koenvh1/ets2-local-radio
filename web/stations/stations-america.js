@@ -18314,44 +18314,14 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
         },
         {
-            name: "Pilgrim Radio 91.3",
-            logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
-        },
-        {
-            name: "ALT 92.1",
-            logo: "stations/images-america/reno/ALT 92.1.png",
-            url: "https://ice24.securenetsystems.net/ALT921"
-        },
-        {
-            name: "95.5 The Vibe",
-            logo: "stations/images-america/reno/95.5 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
-        },
-        {
             name: "101.5 Truckee Tahoe Radio",
             logo: "stations/images-america/truckee/101.5 Truckee Tahoe Radio.png",
             url: "https://ice9.securenetsystems.net/KTKE"
         },
         {
-            name: "Wild 102.9",
-            logo: "stations/images-america/reno/Wild 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
-        },
-        {
             name: "K286AN 105.1",
             logo: "stations/images-america/sacramento/KVMR 89.5.png",
             url: "https://sslstream.kvmr.org:9433/aac96"
-        },
-        {
-            name: "650 KSTE",
-            logo: "stations/images-america/sacramento/650 KSTE.png",
-            url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
-        },
-        {
-            name: "780 KOH",
-            logo: "stations/images-america/reno/780 KOH.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
         },
         {
             name: "KNNR 1400",
@@ -36700,6 +36670,11 @@ var stations_c2c = {
             name: "QCountry 103.7",
             logo: "stations/images-america/c2c/elmira_ny/QCountry 103.7.png",
             url: "https://live.wostreaming.net/manifest/saga-wqnyfmaac-ibc2"
+        },
+        {
+            name: "Froggy 105.3",
+            logo: "stations/images-america/c2c/elmira_ny/Froggy 105.3.png",
+            url: "https://ice26.securenetsystems.net/WKPQ"
         },
         {
             name: "Wink 106",

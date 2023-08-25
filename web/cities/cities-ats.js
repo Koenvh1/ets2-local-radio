@@ -1137,7 +1137,13 @@ var country_properties = {
         name: "Sacramento",
         name_english: "Sacramento",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.6
+    },
+    "sacramento_colusa": {
+        name: "Colusa",
+        name_english: "Colusa",
+        code: "us-ca",
+        relative_radius: 0.6
     },
     "sacramento_i80": {
         name: "Sacramento",
@@ -2137,6 +2143,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sacramento": {
+        relative_whitenoise: 0.85
+    },
+    "sacramento_colusa": {
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "sacramento_i80": {
@@ -4082,17 +4092,25 @@ var cities = [
         "gameName": "sacramento",
         "realName": "Sacramento",
         "country": "sacramento",
-        "x": "-109820",
+        "x": "-109920",
         "y": "123.818",
         "z": "-14095.8"
+    },
+    {
+        "gameName": "sacramento_colusa",
+        "realName": "Colusa",
+        "country": "sacramento",
+        "x": "-112214",
+        "y": "21.4015",
+        "z": "-17201.1"
     },
     {
         "gameName": "sacramento_i80",
         "realName": "Sacramento",
         "country": "sacramento",
-        "x": "-110145",
+        "x": "-109545",
         "y": "286.367",
-        "z": "-19580.3"
+        "z": "-18580.3"
     },
     {
         "gameName": "salida",
