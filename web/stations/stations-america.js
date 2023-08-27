@@ -5568,6 +5568,11 @@ var stations = {
             url: "https://us2.maindigitalstream.com/ssl/KLKO"
         },
         {
+            name: "KOOL 94.5",
+            logo: "stations/images-america/elko/KOOL 94.5.png",
+            url: "https://streaming.live365.com/a67416"
+        },
+        {
             name: "KRJC 95.3",
             logo: "stations/images-america/elko/KRJC 95.3.png",
             url: "https://us2.maindigitalstream.com/ssl/KRJC"
@@ -5578,9 +5583,34 @@ var stations = {
             url: "https://us2.maindigitalstream.com/ssl/KELK"
         },
         {
+            name: "Mix 96.7",
+            logo: "stations/images-america/elko/Mix 96.7.png",
+            url: "https://streaming.live365.com/a24862"
+        },
+        {
+            name: "True Country 100.5",
+            logo: "stations/images-america/elko/True Country 100.5.png",
+            url: "https://streaming.live365.com/a62984"
+        },
+        {
+            name: "Coyote Rock 101.1",
+            logo: "stations/images-america/elko/Coyote Rock 101.1.png",
+            url: "https://streaming.live365.com/a99307"
+        },
+        {
+            name: "Big Country 103.9",
+            logo: "stations/images-america/elko/Big Country 103.9.png",
+            url: "https://streaming.live365.com/a98811"
+        },
+        {
             name: "FOX Sports 104.7",
             logo: "stations/images-america/elko/FOX Sports 104.7.png",
             url: "http://173.193.205.96:7653/;stream"
+        },
+        {
+            name: "Talk Radio 107.7",
+            logo: "stations/images-america/elko/Talk Radio 107.7.png",
+            url: "https://streaming.live365.com/a78264"
         },
     ],
     "el_paso": [
