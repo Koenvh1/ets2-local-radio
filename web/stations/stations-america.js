@@ -1035,6 +1035,11 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KROXFMAAC_SC"
         },
         {
+            name: "The Horn 101.9",
+            logo: "stations/images-america/austin/The Horn.png",
+            url: "https://arn-ais.leanstream.co/KTXXFM"
+        },
+        {
             name: "102.3 The Beat",
             logo: "stations/images-america/austin/102.3 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc2169/hls.m3u8"
@@ -1075,11 +1080,6 @@ var stations = {
             url: "http://stream.zeno.fm/hp731cepeg8uv"
         },
         {
-            name: "105.3 The Bat",
-            logo: "stations/images-america/austin/105.3 The Bat.png",
-            url: "http://arn.leanstream.co/K287FG?args=web_01"
-        },
-        {
             name: "Keilah 106.5",
             logo: "stations/images-america/austin/Keilah 106.5.png",
             url: "https://ovz.arcoshost.com/proxy/keilahr1?mp=/stream"
@@ -1113,6 +1113,11 @@ var stations = {
             name: "The Bridge 1120",
             logo: "stations/images-america/austin/The Bridge.png",
             url: "http://ic2.sslstream.com/ktxw-am"
+        },
+        {
+            name: "The Horn 1260",
+            logo: "stations/images-america/austin/The Horn.png",
+            url: "http://arn-ais.leanstream.co/KTXXFM"
         },
         {
             name: "1300 The Zone",
@@ -42318,14 +42323,14 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6863/hls.m3u8"
         },
         {
-            name: "Classic Country 100.1",
-            logo: "stations/images-america/c2c/florence_sc/Classic Country 100.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWFNFMAAC_SC"
+            name: "Q100.1",
+            logo: "stations/images-america/c2c/florence_sc/Q100.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQPDFMAAC_SC"
         },
         {
-            name: "Q100.5",
-            logo: "stations/images-america/c2c/florence_sc/Q100.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQPDFMAAC_SC"
+            name: "100.5 The Game",
+            logo: "stations/images-america/c2c/florence_sc/100.5 The Game.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWFNFMAAC_SC"
         },
         {
             name: "102.1 The Fox",
