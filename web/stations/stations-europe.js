@@ -4214,7 +4214,7 @@ var stations = {
         {
             name: "Cidade FM",
             logo: "stations/images-europe/portugal/Cidade FM.png",
-            url: "https://media2.mcr.iol.pt/livefm/cidade/playlist.m3u8"
+            url: "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
         },
         {
             name: "Mega Hits",
@@ -4224,12 +4224,12 @@ var stations = {
         {
             name: "M80 Rádio",
             logo: "stations/images-europe/portugal/M80 Rádio.png",
-            url: "https://media2.mcr.iol.pt/livefm/m80/playlist.m3u8"
+            url: "https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8"
         },
         {
             name: "Rádio Comercial",
             logo: "stations/images-europe/portugal/Rádio Comercial.png",
-            url: "https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8"
+            url: "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
         },
         {
             name: "Rádio Renascença",
@@ -4897,7 +4897,7 @@ var stations = {
         {
             name: "Melodía FM",
             logo: "stations/images-europe/spain/Melodía FM.png",
-            url: "https://live-audio.melodia-fm.com/radio/melodiafm/master.m3u8"
+            url: "https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8"
         },
         {
             name: "Onda Cero",
