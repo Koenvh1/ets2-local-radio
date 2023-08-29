@@ -23747,13 +23747,13 @@ var stations_c2c = {
             url: "https://cast.acornradio.org/kabf"
         },
         {
-            name: "KUAR 89.1",
-            logo: "stations/images-america/c2c/little_rock_ar/KUAR 89.1.png",
+            name: "Little Rock Public Radio 89.1",
+            logo: "stations/images-america/c2c/little_rock_ar/Little Rock Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUARFM_SC"
         },
         {
-            name: "Classical 90.5",
-            logo: "stations/images-america/c2c/little_rock_ar/Classical 90.5.png",
+            name: "KLRE 90.5",
+            logo: "stations/images-america/c2c/little_rock_ar/Little Rock Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLREFM_SC"
         },
         {
