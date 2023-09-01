@@ -33865,11 +33865,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1205/hls.m3u8"
         },
         {
-            name: "The Breeze 102.1-HD2",
-            logo: "stations/images-america/c2c/minneapolis_mn/The Breeze 102.1-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        {
             name: "HOT 102.5",
             logo: "stations/images-america/c2c/minneapolis_mn/Hot 102.5.png",
             url: "https://stream.revma.ihrhls.com/zc6913/hls.m3u8"
