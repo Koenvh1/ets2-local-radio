@@ -29017,7 +29017,7 @@ var stations_c2c = {
         {
             name: "Z94.3",
             logo: "stations/images-america/c2c/south_bend_in/Z94.3.png",
-            url: "https://live.wostreaming.net/manifest/wsbt-wzocfmaac-ibc1"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZOCFMAAC_SC"
         },
         {
             name: "95.3 MNC",
@@ -29032,7 +29032,7 @@ var stations_c2c = {
         {
             name: "96.1 The Ton",
             logo: "stations/images-america/c2c/south_bend_in/96.1 The Ton.png",
-            url: "https://live.wostreaming.net/direct/wsbt-wqlqhd3tonaac-ibc2"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQLQHD3AAC_SC"
         },
         {
             name: "97.7 Rock",
@@ -29047,7 +29047,7 @@ var stations_c2c = {
         {
             name: "Live 99.9",
             logo: "stations/images-america/c2c/south_bend_in/Live 99.9.png",
-            url: "http://216.246.103.221/index.php?u=https://live.wostreaming.net/manifest/wsbt-wqlqfmaac-ibc1"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQLQFMAAC_SC"
         },
         {
             name: "B100",
@@ -29057,7 +29057,7 @@ var stations_c2c = {
         {
             name: "Sunny 101.5",
             logo: "stations/images-america/c2c/south_bend_in/Sunny 101.5.png",
-            url: "https://live.wostreaming.net/manifest/wsbt-wnsnfmaac-ibc1"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNSNFMAAC_SC"
         },
         {
             name: "Throwback 102.3",
@@ -29082,7 +29082,7 @@ var stations_c2c = {
         {
             name: "960 WSBT",
             logo: "stations/images-america/c2c/south_bend_in/960 WSBT.png",
-            url: "https://live.wostreaming.net/manifest/wsbt-wsbtamaac-ibc1"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBTAMAAC_SC"
         },
         {
             name: "Frank 1340",
