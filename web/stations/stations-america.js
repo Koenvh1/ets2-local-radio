@@ -2731,8 +2731,8 @@ var stations = {
             url: "http://174.127.75.88:8020/live"
         },
         {
-            name: "KDRL 103.3",
-            logo: "stations/images-america/canadian/KDRL 103.3.png",
+            name: "103.3 The Arrow",
+            logo: "stations/images-america/canadian/103.3 The Arrow.png",
             url: "http://139.60.77.55/kdrl"
         },
         {
