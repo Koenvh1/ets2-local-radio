@@ -9967,8 +9967,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
-            name: "106.9 Da Bomb",
-            logo: "stations/images-america/las_vegas/106.9 Da Bomb.png",
+            name: "106.9 The Bomb",
+            logo: "stations/images-america/las_vegas/106.9 The Bomb.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVGQFMAAC_SC"
         },
         {
@@ -29060,8 +29060,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNSNFMAAC_SC"
         },
         {
-            name: "Throwback 102.3",
-            logo: "stations/images-america/c2c/south_bend_in/Throwback 102.3.png",
+            name: "The New 102.3",
+            logo: "stations/images-america/c2c/south_bend_in/The New 102.3.png",
             url: "https://ic2.sslstream.com/wyet-fm"
         },
         {
