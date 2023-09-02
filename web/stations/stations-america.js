@@ -1393,8 +1393,8 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "The Highway Vibe 98.1",
-            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
+            name: "VIBE 98.1",
+            logo: "stations/images-america/barstow/VIBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
@@ -9328,8 +9328,8 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "The Highway Vibe 98.1",
-            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
+            name: "VIBE 98.1",
+            logo: "stations/images-america/barstow/VIBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
@@ -9897,8 +9897,8 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://live.wostreaming.net/direct/univision-krgtfmaac-imc2"
         },
         {
-            name: "The Highway Vibe 99.7",
-            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
+            name: "VIBE 99.7",
+            logo: "stations/images-america/barstow/VIBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
@@ -10900,8 +10900,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
-            name: "The Highway Vibe 98.1",
-            logo: "stations/images-america/barstow/The Highway Vibe 98.1.png",
+            name: "VIBE 98.1",
+            logo: "stations/images-america/barstow/VIBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
