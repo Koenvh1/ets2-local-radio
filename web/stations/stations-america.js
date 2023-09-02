@@ -9907,6 +9907,11 @@ var stations = {
             url: "https://lvradio.lvonline.com/stream"
         },
         {
+            name: "Bloomberg Radio 99.7-HD3",
+            logo: "stations/images-america/las_vegas/Bloomberg Radio 99.7-HD3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBRAMAAC_SC"
+        },
+        {
             name: "Q100.5",
             logo: "stations/images-america/las_vegas/Q100.5.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kxqqfmaac-imc"
