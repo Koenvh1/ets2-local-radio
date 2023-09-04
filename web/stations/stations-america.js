@@ -40518,8 +40518,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1937/hls.m3u8"
         },
         {
-            name: "92.9 The Drive",
-            logo: "stations/images-america/tulsa/92.9 The Drive.png",
+            name: "92.9 The River",
+            logo: "stations/images-america/tulsa/92.9 The River.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/manifest/griffin-kbezfmaac-imc2"
         },
         {
