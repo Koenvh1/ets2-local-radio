@@ -21285,6 +21285,11 @@ var stations_mexico = {
             name: "La Bestia Grupera 103.5",
             logo: "stations/images-america/mexico/h_nogales/La Bestia Grupera 103.5.png",
             url: "https://ss1.audiorama.com.mx:6638/;stream"
+        },
+        {
+            name: "Urbana 104.3",
+            logo: "stations/images-america/mexico/h_nogales/Urbana 104.3.png",
+            url: "https://stream9.mexiserver.com/8066/stream"
         },	
         {
             name: "Estéreo Genial 105.1",
@@ -24753,9 +24758,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc525/hls.m3u8"
         },
         {
-            name: "HOT 99.5",
-            logo: "stations/images-america/c2c/jacksonville_fl/HOT 99.5.png",
-            url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/jac1045hd2/jac1045hd2-sgplayer-aac"
+            name: "X99.5",
+            logo: "stations/images-america/c2c/jacksonville_fl/X99.5.png",
+            url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/jac1029/jac1029-sgplayer-aac"
         },
         {
             name: "99.9 Gator Country",
@@ -24828,9 +24833,9 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WKBX"
         },
         {
-            name: "X106.5",
-            logo: "stations/images-america/c2c/jacksonville_fl/X106.5.png",
-            url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/jac1029/jac1029-sgplayer-aac"
+            name: "HOT 106.5",
+            logo: "stations/images-america/c2c/jacksonville_fl/HOT 106.5.png",
+            url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/jac1045hd2/jac1045hd2-sgplayer-aac"
         },
         {
             name: "Rumba 106.9",
@@ -31338,6 +31343,11 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/KMYY"
         },
         {
+            name: "93.9 MeTV FM",
+            logo: "stations/images-america/c2c/monroe_la/93.9 MeTV FM.png",
+            url: "https://ice25.securenetsystems.net/KGGM"
+        },
+        {
             name: "The Breeze 95.3",
             logo: "stations/images-america/c2c/monroe_la/The Breeze 95.3.png",
             url: "http://45.31.15.87:88/broadwave.mp3"
@@ -32877,8 +32887,8 @@ var stations_c2c = {
             url: "http://media.streambrothers.com:18078/stream"
         },
         {
-            name: "Hall of Fame Country 98.1",
-            logo: "stations/images-america/c2c/springfield_ma/Hall of Fame Country 98.1.png",
+            name: "Nueva 98.1",
+            logo: "stations/images-america/c2c/springfield_ma/Nueva 98.1.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/manifest/audacy-whllamaac-imc"
         },
         {
@@ -46294,6 +46304,11 @@ var stations_canada = {
             logo: "stations/images-america/canada/edmonton/Global News 880 Edmonton.png",
             url: "https://corus.leanstream.co/CHQTAM-MP3"
         },
+        {
+            name: "Sports 1440",
+            logo: "stations/images-america/canada/edmonton/Sports 1440.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKJRAM"
+        },
     ],
     "fortfrances": [
         {
@@ -49346,11 +49361,6 @@ var stations_canada = {
             name: "Z103.5",
             logo: "stations/images-america/canada/toronto/Z103.5.png",
             url: "https://evanov.leanstream.co/CIDCFM"
-        },
-        {
-            name: "103.9 Proud FM",
-            logo: "stations/images-america/canada/toronto/103.9 Proud FM.png",
-            url: "http://ice7.securenetsystems.net/CIRR"
         },
         {
             name: "CHUM 104.5",

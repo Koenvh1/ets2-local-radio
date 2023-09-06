@@ -3148,7 +3148,7 @@ var stations = {
         {
             name: "Latvijas Kristīgais Radio",
             logo: "stations/images-europe/latvia/Latvijas Kristīgais Radio.png",
-            url: "http://91.228.7.124:7007/;?type=http&nocache=905"
+            url: "http://shoutcast.lkr.lv:7007/;"
         },
         {
             name: "Radio Marija",
@@ -4262,6 +4262,11 @@ var stations = {
             name: "Radio România Muzical",
             logo: "stations/images-europe/romania/Radio România Muzical.png",
             url: "http://stream2.srr.ro:8022/;"
+        },
+        {
+            name: "Radio România Satelor",
+            logo: "stations/images-europe/romania/Radio România Satelor.png",
+            url: "http://stream2.srr.ro:8046/;"
         },
         {
             name: "DigiFM",
@@ -5876,6 +5881,11 @@ var stations = {
             name: "LBC News",
             logo: "stations/images-europe/uk/LBC News.png",
             url: "https://media-ssl.musicradio.com/LBCNewsUK"
+        },
+        {
+            name: "Lyca Radio",
+            logo: "stations/images-europe/uk/Lyca Radio.png",
+            url: "https://listen-lycaradio.sharp-stream.com/1458.mp3"
         },
         {
             name: "Magic Radio",
