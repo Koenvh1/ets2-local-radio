@@ -1752,11 +1752,6 @@ var stations = {
             url: "https://frontend.streamonkey.net/aidaradio-meergefuehl"
         },
         {
-            name: "Antenne Bayern",
-            logo: "stations/images-europe/germany/Antenne Bayern.png",
-            url: "https://s6-webradio.webradio.de/antenne"
-        },
-        {
             name: "Brillux Radio",
             logo: "stations/images-europe/germany/Brillux Radio.png",
             url: "https://web.streams.brillux.radio/brillux-radio"
@@ -1795,6 +1790,11 @@ var stations = {
             name: "NOSTALGIE",
             logo: "stations/images-europe/germany/NOSTALGIE.png",
             url: "https://frontend.streamonkey.net/nostalgie-live/stream/mp3"
+        },
+        {
+            name: "OLDIE ANTENNE",
+            logo: "stations/images-europe/germany/OLDIE ANTENNE.png",
+            url: "https://s3-webradio.oldie-antenne.de/oldie-antenne/stream"
         },
         {
             name: "RADIO BOB!",
@@ -4214,7 +4214,7 @@ var stations = {
         {
             name: "Cidade FM",
             logo: "stations/images-europe/portugal/Cidade FM.png",
-            url: "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+            url: "https://stream-icy.bauermedia.pt/cidade.mp3"
         },
         {
             name: "Mega Hits",
@@ -4224,12 +4224,12 @@ var stations = {
         {
             name: "M80 Rádio",
             logo: "stations/images-europe/portugal/M80 Rádio.png",
-            url: "https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8"
+            url: "https://stream-icy.bauermedia.pt/m80.mp3"
         },
         {
             name: "Rádio Comercial",
             logo: "stations/images-europe/portugal/Rádio Comercial.png",
-            url: "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
+            url: "https://stream-icy.bauermedia.pt/comercial.mp3"
         },
         {
             name: "Rádio Renascença",

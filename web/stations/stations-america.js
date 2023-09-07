@@ -26088,8 +26088,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8867/hls.m3u8"
         },
         {
-            name: "HOT 101.5",
-            logo: "stations/images-america/c2c/tampa_fl/HOT 101.5.png",
+            name: "101.5 The Vibe",
+            logo: "stations/images-america/c2c/tampa_fl/101.5 The Vibe.png",
             url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/tam1015/tam1015-sgplayer-aac"
         },
         {
