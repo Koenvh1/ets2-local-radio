@@ -1890,7 +1890,7 @@ var stations = {
         },
         {
             name: "Antenne Bayern",
-            logo: "stations/images-europe/germany/Antenne Bayern.png",
+            logo: "stations/images-europe/germany-br/Antenne Bayern.png",
             url: "https://s1-webradio.webradio.de/antenne"
         },
         {
