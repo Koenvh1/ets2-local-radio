@@ -12619,9 +12619,19 @@ var stations = {
     ],
     "ozona": [
         {
+            name: "KHOS 92.1",
+            logo: "stations/images-america/ozona/KHOS 92.1.png",
+            url: "http://us2freenew.listen2myradio.com:12310/;"
+        },
+        {
             name: "94.3 REV-FM",
             logo: "stations/images-america/ozona/94.3 REV-FM.png",
             url: "https://stream.thecrustychicken.com/proxy/revfm/stream"
+        },
+        {
+            name: "Q99.5",
+            logo: "stations/images-america/san_angelo/Q99.5.png",
+            url: "https://ice8.securenetsystems.net/KQTC"
         },
         {
             name: "103.5 The Beat",
@@ -30609,7 +30619,7 @@ var stations_c2c = {
         {
             name: "Jess FM 105.9",
             logo: "stations/images-america/c2c/lexington_ky/Jess FM 105.9.png",
-            url: "http://stream.yourlocalfm.net:8000/WNJK.aac"
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/WNJK"
         },
         {
             name: "HITS 106.3",
@@ -31064,7 +31074,7 @@ var stations_c2c = {
         {
             name: "Baton Rouge Community Radio 96.9",
             logo: "stations/images-america/c2c/baton_rouge_la/Baton Rouge Community Radio 96.9.png",
-            url: "http://198.143.144.226:8426/;"
+            url: "https://stream2.rcast.net/69234"
         },
         {
             name: "Downtown Radio 97.7",
@@ -31539,7 +31549,7 @@ var stations_c2c = {
         {
             name: "La Calle 97.9",
             logo: "stations/images-america/c2c/new_orleans_la/La Calle 97.9.png",
-            url: "https://sonic01.instainternet.com/8276/stream"
+            url: "http://74.213.39.141:8000/;stream.mp3"
         },
         {
             name: "98.5 WYLD",
@@ -31833,7 +31843,7 @@ var stations_c2c = {
         {
             name: "99.9 The Wolf",
             logo: "stations/images-america/c2c/portland_me/99.9 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTHT_FMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/binnie-wthtfmaac-ibc"
         },
         {
             name: "102.9 WBLM",
@@ -32094,7 +32104,7 @@ var stations_c2c = {
         {
             name: "99.9 The Wolf",
             logo: "stations/images-america/c2c/portland_me/99.9 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTHT_FMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/binnie-wthtfmaac-ibc"
         },
         {
             name: "100.5 WLOB",
@@ -32129,7 +32139,7 @@ var stations_c2c = {
         {
             name: "106.3 The Bone",
             logo: "stations/images-america/c2c/portland_me/106.3 The Bone.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHXR_FMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/binnie-whxrfmaac-ibc"
         },
         {
             name: "107.1 The Bay",
@@ -32139,17 +32149,17 @@ var stations_c2c = {
         {
             name: "107.5 Frank",
             logo: "stations/images-america/c2c/portland_me/107.5 Frank.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFNK_FMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/binnie-wfnkfmaac-ibc"
         },
         {
             name: "WJZP 107.9",
             logo: "stations/images-america/c2c/portland_me/WJZP 107.9.png",
-            url: "https://wjzp.streamguys1.com/live"
+            url: "https://ice64.securenetsystems.net/WJZP"
         },
         {
             name: "WCME 900",
             logo: "stations/images-america/c2c/portland_me/WCME 900.png",
-            url: "http://janus.cdnstream.com:8082/;"
+            url: "http://192.211.51.158:8082/;"
         },
     ],
     "baltimore": [
@@ -32864,7 +32874,7 @@ var stations_c2c = {
         {
             name: "WTCC 90.7",
             logo: "stations/images-america/c2c/springfield_ma/WTCC 90.7.png",
-            url: "http://netcaster.wtccfm.org:8080/broadwave.mp3"
+            url: "http:\\134.241.99.20:8080\broadwave.mp3"
         },
         {
             name: "MIX 93.1",
@@ -33041,7 +33051,7 @@ var stations_c2c = {
         {
             name: "CJAM 99.1",
             logo: "stations/images-america/c2c/detroit_mi/CJAM 99.1.png",
-            url: "http://stream.cjam.ca:80/CJAM-live-256k.mp3"
+            url: "https://live.cjam.ca/CJAM-live-128k.aac"
         },
         {
             name: "99.5 WYCD",
