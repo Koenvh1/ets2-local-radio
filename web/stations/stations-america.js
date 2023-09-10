@@ -505,7 +505,7 @@ var stations = {
         },
         {
             name: "Interstate 96.7",
-            logo: "stations/images-america/albuquerque/Interstate 96.7.png",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "http://216.246.103.221/index.php?u=https://ice5.securenetsystems.net/KSFE"
         },
         {
@@ -12635,7 +12635,7 @@ var stations = {
         },
         {
             name: "103.5 The Beat",
-            logo: "stations/images-america/san_angelo/103.5 The Ram.png",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "https://ice10.securenetsystems.net/KBJX"
         },
         {
@@ -15377,7 +15377,7 @@ var stations = {
         },
         {
             name: "103.5 The Beat",
-            logo: "stations/images-america/san_angelo/103.5 The Ram.png",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "https://ice10.securenetsystems.net/KBJX"
         },
         {
