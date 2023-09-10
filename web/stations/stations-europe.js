@@ -5905,12 +5905,12 @@ var stations = {
         {
             name: "Premier Christian Radio",
             logo: "stations/images-europe/uk/Premier Christian Radio.png",
-            url: "https://pcr.streamguys1.com/pcrnational-128k.aac"
+            url: "https://pcr.streamguys1.com/pcrnational-96k.aac"
         },
         {
             name: "Premier Praise",
             logo: "stations/images-europe/uk/Premier Praise.png",
-            url: "https://pcr.streamguys1.com/ppraise-128k.aac"
+            url: "https://pcr.streamguys1.com/ppraise-96k.aac"
         },
         {
             name: "Radio X",

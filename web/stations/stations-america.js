@@ -4416,7 +4416,7 @@ var stations = {
         {
             name: "106.9 KGGR",
             logo: "stations/images-america/dallas_fort_worth/1040 KGGR.png",
-            url: "https://ice41.securenetsystems.net/KGGR"
+            url: "http://216.246.103.221/index.php?u=https://ice41.securenetsystems.net/KGGR"
         },
         {
             name: "La Grande 107.5",
@@ -4501,7 +4501,7 @@ var stations = {
         {
             name: "1040 KGGR",
             logo: "stations/images-america/dallas_fort_worth/1040 KGGR.png",
-            url: "http://ice41.securenetsystems.net/KGGR"
+            url: "http://216.246.103.221/index.php?u=http://ice41.securenetsystems.net/KGGR"
         },
         {
             name: "1080 KRLD",
@@ -5595,7 +5595,7 @@ var stations = {
         {
             name: "Coyote Rock 101.1",
             logo: "stations/images-america/elko/Coyote Rock 101.1.png",
-            url: "https://streaming.live365.com/a99307"
+            url: "http://216.246.103.221/index.php?u=https://streaming.live365.com/a99307"
         },
         {
             name: "Big Country 103.9",
@@ -6217,20 +6217,25 @@ var stations = {
             url: "http://69.39.14.19:8001/stream1"
         },
         {
+            name: "92.1 KENN",
+            logo: "stations/images-america/farmington/1390 KENN.png",
+            url: "http://streams.radiomast.io/2ea57a87-1155-4d57-b903-8420a8078476"
+        },
+        {
             name: "92.5 KRWN",
             logo: "stations/images-america/farmington/92.5 KRWN.png",
-            url: "http://216.246.103.221/index.php?u=https://live.wostreaming.net/manifest/agmedia28-krwnfmaac-ibc3"
+            url: "https://streams.radiomast.io/d94dc08d-6217-42c9-b3db-6cfb8cf52f8e"
         },
         {
             name: "FOX Sports 93.9",
             logo: "stations/images-america/farmington/Fox Sports 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
-        },/*
+        },
         {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK 94.9.png",
             url: "https://ice41.securenetsystems.net/KWYKFM"
-        },*/
+        },
         {
             name: "KPCL 95.7",
             logo: "stations/images-america/farmington/KPCL 95.7.png",
@@ -6274,7 +6279,7 @@ var stations = {
         {
             name: "1390 KENN",
             logo: "stations/images-america/farmington/1390 KENN.png",
-            url: "http://216.246.103.221/index.php?u=https://live.wostreaming.net/manifest/agmedia28-kennamaac-ibc3"
+            url: "https://streams.radiomast.io/2ea57a87-1155-4d57-b903-8420a8078476"
         },
     ], 
     "flagstaff": [
@@ -6366,7 +6371,7 @@ var stations = {
         {
             name: "ESPN 104.7",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "http://t1.streamguys1.com/sgtest-espn"
+            url: "http://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "KVRD Country 105.7",
@@ -6391,7 +6396,7 @@ var stations = {
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://t1.streamguys1.com/sgtest-espn"
+            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "780 KAZM",
@@ -6953,7 +6958,7 @@ var stations = {
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://t1.streamguys1.com/sgtest-espn"
+            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "KTNN 660",
@@ -11527,7 +11532,7 @@ var stations = {
         {
             name: "KSKQ 94.1",
             logo: "stations/images-america/medford/KSKQ 89.5.png",
-            url: "https://securestream.casthost.net:8215/stream"
+            url: "https://streams.radiomast.io/517bd02e-89a3-46aa-83ec-a49122a08c4a"
         },
         {
             name: "KRRM 94.7",
@@ -15712,7 +15717,7 @@ var stations = {
         {
             name: "1400 ESPN",
             logo: "stations/images-america/santa_fe/1400 ESPN.png",
-            url: "https://t1.streamguys1.com/sgtest-espn"
+            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
     ],
     "santa_maria": [
@@ -17718,7 +17723,7 @@ var stations = {
         {
             name: "K-HITS 95.5",
             logo: "stations/images-america/stephenville/K-HITS 95.5.png",
-            url: "https://ice41.securenetsystems.net/KOME"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMEFMAAC_SC"
         },
         {
             name: "95.9 The Ranch",
@@ -18118,12 +18123,12 @@ var stations = {
         {
             name: "Real Country 98.7",
             logo: "stations/images-america/texarkana/Real Country 98.7.png",
-            url: "https://ice41.securenetsystems.net/KTFS"
+            url: "https://19.shoutstreams.com/proxy/texarkana3/realcountry"
         },
         {
             name: "101.7 HOT FM",
             logo: "stations/images-america/texarkana/101.7 HOT FM.png",
-            url: "https://19.shoutstreams.com:8015/texarkana1?_=506874"
+            url: "https://19.shoutstreams.com/proxy/texarkana1/hotfm"
         },
         {
             name: "Kicker 102.5",
@@ -18143,7 +18148,7 @@ var stations = {
         {
             name: "HITS 105",
             logo: "stations/images-america/texarkana/HITS 105.png",
-            url: "https://cp3.shoutcheap.com:18045/stream"
+            url: "https://19.shoutstreams.com/proxy/texarkana4/hits105"
         },
         {
             name: "Eagle 106.3",
@@ -18694,7 +18699,7 @@ var stations = {
         {
             name: "Mega 97.5",
             logo: "stations/images-america/twin_falls/Mega 97.5.png",
-            url: "https://ic2.sslstream.com/kxta-ir"
+            url: "https://ic2.sslstream.com/mega-ir"
         },
         {
             name: "98.3 The Snake",
@@ -18866,7 +18871,7 @@ var stations = {
         {
             name: "K284CT 104.7",
             logo: "stations/images-america/tyler/K284CT 104.7.png",
-            url: "https://ice41.securenetsystems.net/KOME"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMEFMAAC_SC"
         },
         {
             name: "K285GY 104.9",
@@ -19094,17 +19099,17 @@ var stations = {
         {
             name: "The Fox 98.5",
             logo: "stations/images-america/vernal/The Fox 98.5.png",
-            url: "http://216.246.103.221/index.php?u=http://evans-family-media.streamb.live/SB00204"
+            url: "http://216.246.103.221/index.php?u=https://evans-family-media.streamb.live/SB00204"
         },
         {
             name: "104.5 KVEL",
             logo: "stations/images-america/vernal/KVEL.png",
-            url: "http://216.246.103.221/index.php?u=http://evans-family-media.streamb.live/SB00203"
+            url: "http://216.246.103.221/index.php?u=https://evans-family-media.streamb.live/SB00203"
         },
         {
             name: "105.5 Eagle Country",
             logo: "stations/images-america/vernal/105.5 Eagle Country.png",
-            url: "http://216.246.103.221/index.php?u=http://evans-family-media.streamb.live/SB00196"
+            url: "http://216.246.103.221/index.php?u=https://evans-family-media.streamb.live/SB00196"
         },
         {
             name: "106.9 Radio Z",
@@ -19124,7 +19129,7 @@ var stations = {
         {
             name: "AM 950 KVEL",
             logo: "stations/images-america/vernal/KVEL.png",
-            url: "http://216.246.103.221/index.php?u=http://evans-family-media.streamb.live//SB00203"
+            url: "http://216.246.103.221/index.php?u=https://evans-family-media.streamb.live//SB00203"
         },
         {
             name: "KNEU AM 1250",
@@ -19633,7 +19638,7 @@ var stations = {
         {
             name: "K-HITS 95.5",
             logo: "stations/images-america/wichita_falls/K-HITS 95.5.png",
-            url: "https://ice41.securenetsystems.net/KOME"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMEFMAAC_SC"
         },
         {
             name: "K242DG 96.3",
@@ -23598,7 +23603,7 @@ var stations_c2c = {
         {
             name: "Nash FM 100.7",
             logo: "stations/images-america/c2c/fort_smith_ar/Nash FM 100.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLSZFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNSHFMAAC_SC"
         },
         {
             name: "The River 101.9",
@@ -23645,7 +23650,7 @@ var stations_c2c = {
         {
             name: "KVRE 92.9",
             logo: "stations/images-america/c2c/hot_springs_ar/KVRE 92.9.png",
-            url: "http://173.216.245.205:929/broadwave.mp3"
+            url: "https://stream.radio.co/s6aca0ed83/listen"
         },
         {
             name: "96.7 The Rocket",
@@ -24105,7 +24110,7 @@ var stations_c2c = {
         {
             name: "Radio Avivamiento 100.1",
             logo: "stations/images-america/c2c/hartford_ct/Radio Avivamiento 100.1.png",
-            url: "http://unoredradio.com:9756/;stream.mp3"
+            url: "https://sp.unoredcdn.net/radioavivamiento/stream"
         },
         {
             name: "Lite 100.5",
@@ -25532,7 +25537,7 @@ var stations_c2c = {
         {
             name: "98.5 The Wire",
             logo: "stations/images-america/c2c/orlando_fl/98.5 The Wire.png",
-            url: "https://whpb.radioca.st/stream"
+            url: "https://cast1.asurahosting.com/proxy/wuvspau2/stream"
         },
         {
             name: "98.9 WMMO",
@@ -26145,7 +26150,7 @@ var stations_c2c = {
         {
             name: "La Ley 107.7",
             logo: "stations/images-america/c2c/tampa_fl/La Ley 107.7.png",
-            url: "https://stream2.broadcastserver.net:2020/stream/wama-am"
+            url: "https://stream.broadcastserver.net:2020/stream/wama"
         },
         {
             name: "820 WWBA",
@@ -26364,7 +26369,7 @@ var stations_c2c = {
         {
             name: "97.1 The River",
             logo: "stations/images-america/c2c/atlanta_ga/97.1 The River.png",
-            url: "https://cmg.streamguys1.com/atl971/atl971-sgplayer-aac"
+            url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/atl971/atl971-sgplayer-aac"
         },
         {
             name: "OG 97.9",
@@ -26872,7 +26877,7 @@ var stations_c2c = {
         {
             name: "ESPN Coastal 104.3",
             logo: "stations/images-america/c2c/savannah_ga/ESPN Coastal 104.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSEGAMAAC_SC"
+            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "104.7 The Hawk",
@@ -27098,7 +27103,7 @@ var stations_c2c = {
         {
             name: "W253CI 98.5",
             logo: "stations/images-america/c2c/waycross_ga/ESPN Coastal Georgia.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFNAMAAC_SC"
+            url: "http://s48.myradiostream.com/11304/listen.mp3"
         },
         {
             name: "The Promise 100.7",
@@ -27168,7 +27173,7 @@ var stations_c2c = {
         {
             name: "WFNS 1390",
             logo: "stations/images-america/c2c/waycross_ga/ESPN Coastal Georgia.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFNAMAAC.aac"
+            url: "https://s48.myradiostream.com/11304/listen.mp3"
         },
     ],	  
     "hilo": [
@@ -29321,7 +29326,7 @@ var stations_c2c = {
         {
             name: "1350 ESPN",
             logo: "stations/images-america/c2c/desmoines_ia/1350 ESPN.png",
-            url: "https://t1.streamguys1.com/sgtest-espn"
+            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "1430 KASI",
@@ -30651,7 +30656,7 @@ var stations_c2c = {
         {
             name: "96.7 WANV",
             logo: "stations/images-america/c2c/london_ky/96.7 WANV.png",
-            url: "https://forcht.streamguys1.com/wanv-fm"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WANVFMAAC_SC"
         },
         {
             name: "97.1 Double Q",
@@ -30666,7 +30671,7 @@ var stations_c2c = {
         {
             name: "SAM 103.9",
             logo: "stations/images-america/c2c/london_ky/SAM 103.9.png",
-            url: "https://forcht.streamguys1.com/wwel-fm"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWELFMAAC_SC"
         },
         {
             name: "EZ Country 104.3",
@@ -30676,7 +30681,7 @@ var stations_c2c = {
         {
             name: "K105.7",
             logo: "stations/images-america/c2c/london_ky/K105.7.png",
-            url: "https://forcht.streamguys1.com/wgrk-fm"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGRKFMAAC_SC"
         },
         {
             name: "The Big 106.3",
@@ -30686,7 +30691,7 @@ var stations_c2c = {
         {
             name: "The Wolf 106.9",
             logo: "stations/images-america/c2c/london_ky/The Wolf 106.9.png",
-            url: "https://forcht.streamguys1.com/wftg-am"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTGAMAAC_SC"
         },
     ],
     "louisville": [
@@ -40520,7 +40525,7 @@ var stations_c2c = {
         {
             name: "91.3 KRSC",
             logo: "stations/images-america/tulsa/91.3 KRSC.png",
-            url: "http://www.rsukrscfm.rsu.edu:8000/rsuradio128k"
+            url: "https://securestreams5.autopo.st:1923/rsuradio128k"
         },
         {
             name: "92.1 The Beat",
@@ -51021,7 +51026,7 @@ var stations_caribbean = {
         {
             name: "ESPN Radio 100.7-HD2",
             logo: "stations/images-america/caribbean/puerto_rico/sanjuan/ESPN Radio 100.7-HD2.png",
-            url: "https://t1.streamguys1.com/sgtest-espn"
+            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "HOT 102",
