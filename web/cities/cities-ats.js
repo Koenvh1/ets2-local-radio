@@ -2052,8 +2052,8 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "oxnard": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.85
+        relative_radius: 0.8,
+        relative_whitenoise: 0.95
     },
     "ozona": {
         relative_whitenoise: 0.95
