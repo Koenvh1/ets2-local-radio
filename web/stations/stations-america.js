@@ -5511,9 +5511,14 @@ var stations = {
             url: "https://wrn.streamguys1.com/kyrm"
         },
         {
-            name: "K292AH 106.3",
-            logo: "stations/images-america/phoenix/102.5 KNIX.png",
-            url: "https://stream.revma.ihrhls.com/zc49/hls.m3u8"
+            name: "KFLG 94.7",
+            logo: "stations/images-america/kingman/KFLG 94.7.png",
+            url: "http://216.246.103.221/index.php?u=https://live.wostreaming.net/manifest/cameron-kflgfmaac-ibc3"
+        },
+        {
+            name: "CSN Radio 97.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "550 KFYI",
@@ -5534,6 +5539,16 @@ var stations = {
             name: "980 KNTR",
             logo: "stations/images-america/kingman/980 KNTR.png",
             url: "http://147.135.84.28/kntr-am"
+        },
+        {
+            name: "La Rocola 990",
+            logo: "stations/images-america/mexico/mexicali/La Rocola 990.png",
+            url: "https://stream.zeno.fm/25a0y7s5dkhvv"
+        },
+        {
+            name: "La Poderosa 1050",
+            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
+            url: "https://stream.zeno.fm/k8rm10r5dkhvv"
         },
         {
             name: "KLPZ 1380",
@@ -21719,9 +21734,9 @@ var stations_mexico = {
             url: "https://stream.zeno.fm/25a0y7s5dkhvv"
         },
         {
-            name: "La GranD 1050",
-            logo: "stations/images-america/mexico/mexicali/La GranD 1050.png",
-            url: "https://stream.zeno.fm/9bxuxcuv538uv"
+            name: "La Poderosa 1050",
+            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
+            url: "http://stream.zeno.fm/k8rm10r5dkhvv"
         },
         {
             name: "Vida 1370",
