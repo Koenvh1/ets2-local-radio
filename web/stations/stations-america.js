@@ -10474,6 +10474,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc201/hls.m3u8"
         },
         {
+            name: "K256CX 99.1",
+            logo: "stations/images-america/los_angeles/KWAVE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
+        },
+        {
             name: "99.5 KKLA",
             logo: "stations/images-america/los_angeles/99.5 KKLA.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLAFMAAC_SC"
@@ -10612,6 +10617,11 @@ var stations = {
             name: "1020 KTNQ",
             logo: "stations/images-america/los_angeles/1020 KTNQ.png",
             url: "http://216.246.103.221/index.php?u=https://live.wostreaming.net/direct/univision-ktnqamaac-imc2"
+        },
+        {
+            name: "KWAVE 1100",
+            logo: "stations/images-america/los_angeles/KWAVE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC.aac"
         },
         {
             name: "The Patriot 1150",
@@ -11558,12 +11568,12 @@ var stations = {
             name: "The Rogue 96.9",
             logo: "stations/images-america/medford/The Rogue 96.9.png",
             url: "http://ic2.mainstreamnetwork.com/krog-fm"
-        },/*
+        },
         {
-            name: "97.7 The Breeze",
-            logo: "stations/images-america/medford/97.7 The Breeze.png",
-            url: "http://208.74.9.25:8000/korj.mp3"
-        },*/
+            name: "Wild 97.7",
+            logo: "stations/images-america/medford/Wild 97.7.png",
+            url: "https://ic2.sslstream.com/kkwl-fm"
+        },
         {
             name: "98.3 KLDR",
             logo: "stations/images-america/medford/98.3 KLDR.png",
@@ -22672,8 +22682,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3081/hls.m3u8"
         },
         {
-            name: "Mix 97.3",
-            logo: "stations/images-america/c2c/birmingham_al/Mix 97.3.png",
+            name: "Today’s Hits 97.3",
+            logo: "stations/images-america/c2c/birmingham_al/Today’s Hits 97.3.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7687_128k.aac"
         },
         {
@@ -43487,8 +43497,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WUOTHD2_SC"
         },
         {
-            name: "Awesome 93.1",
-            logo: "stations/images-america/c2c/knoxville_tn/Awesome 93.1.png",
+            name: "Classic Rock 93.1",
+            logo: "stations/images-america/c2c/knoxville_tn/Classic Rock 93.1.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7699_128k.aac"
         },
         {
@@ -45048,36 +45058,131 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5243/hls.m3u8"
         },
     ],
-    "weston_wv": [
+    "clarksburg_wv": [
+        {
+            name: "K-LOVE 88.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
         {
             name: "WVPR 88.9",
             logo: "stations/images-america/0_general_logos/West Virginia Public Radio.png",
             url: "https://wvpublic.streamguys1.com/wvpb256k.aac"
         },
         {
+            name: "WVGV 89.7",
+            logo: "stations/images-america/c2c/clarksburg_wv/WVGV 89.7.png",
+            url: "https://us3.streamingpulse.com/ssl/WVGVFM"
+        },/*
+        {
+            name: "Froggy 92.7",
+            logo: "stations/images-america/c2c/clarksburg_wv/Froggy 92.7.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wfbyfmaac-ibc2"
+        },*/
+        {
             name: "93.5 The FBY",
-            logo: "stations/images-america/c2c/weston_wv/93.5 The FBY.png",
+            logo: "stations/images-america/c2c/clarksburg_wv/93.5 The FBY.png",
             url: "https://live.wostreaming.net/manifest/wvradio-wfbyfmaac-ibc2"
         },
         {
+            name: "94 Rock",
+            logo: "stations/images-america/c2c/clarksburg_wv/94 Rock.png",
+            url: "https://dfw.audio-stream.com/proxy/mshear00?mp=/live"
+        },
+        {
+            name: "94.7 WELK",
+            logo: "stations/images-america/c2c/clarksburg_wv/94.7 WELK.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-welkfmaac-ibc2"
+        },
+        {
+            name: "WLOL 97.5",
+            logo: "stations/images-america/c2c/clarksburg_wv/WLOL.png",
+            url: "https://ice5.securenetsystems.net/WLOL"
+        },
+        {
+            name: "97.9 WKKW",
+            logo: "stations/images-america/c2c/clarksburg_wv/97.9 WKKW.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wkkwfmaac-ibc2"
+        },
+        {
+            name: "98.9 WDNE",
+            logo: "stations/images-america/c2c/clarksburg_wv/98.9 WDNE.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wdnefmaac-ibc2"
+        },
+        {
+            name: "100.1 WCLG",
+            logo: "stations/images-america/c2c/clarksburg_wv/100.1 WCLG.png",
+            url: "https://live.wostreaming.net/manifest/bowers-wclgfmaac-hlsc1.m3u8"
+        },
+        {
             name: "The Summit 100.3",
-            logo: "stations/images-america/c2c/weston_wv/The Summit 100.3.png",
+            logo: "stations/images-america/c2c/clarksburg_wv/The Summit 100.3.png",
             url: "http://crystalout.surfernetwork.com:8001/WAFD-FM_MP3"
         },
         {
             name: "101.3 The Bear",
-            logo: "stations/images-america/c2c/weston_wv/101.3 The Bear.png",
+            logo: "stations/images-america/c2c/clarksburg_wv/101.3 The Bear.png",
             url: "https://live.wostreaming.net/manifest/wvradio-wbrbfmaac-ibc2"
         },
         {
+            name: "102 WVAQ",
+            logo: "stations/images-america/c2c/clarksburg_wv/102 WVAQ.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wvaqfmaac-hlsc2.m3u8"
+        },
+        {
+            name: "102.3 WCLG",
+            logo: "stations/images-america/c2c/clarksburg_wv/100.1 WCLG.png",
+            url: "http://live.wostreaming.net/manifest/bowers-wclgfmaac-hlsc1.m3u8"
+        },/*
+        {
+            name: "HOT 102.7",
+            logo: "stations/images-america/c2c/clarksburg_wv/HOT 102.7.png",
+            url: ""
+        },*/
+        {
             name: "WAJR 103.3",
-            logo: "stations/images-america/c2c/weston_wv/WAJR 103.3.png",
-            url: "https://live.wostreaming.net/direct/wvradio-wajrfmaac-ibc2"
+            logo: "stations/images-america/c2c/clarksburg_wv/WAJR 103.3.png",
+            url: "https://live.wostreaming.net/direct/wvradio-wajrfmaac-hlsc2.m3u8"
+        },
+        {
+            name: "VCY America 104.1",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "104.9 WPDX",
+            logo: "stations/images-america/c2c/clarksburg_wv/104.9 WPDX.png",
+            url: "https://live.wostreaming.net/manifest/bowers-wfgmfmaac-hlsc1.m3u8"
         },
         {
             name: "Sky 106.5",
-            logo: "stations/images-america/c2c/weston_wv/Sky 106.5.png",
+            logo: "stations/images-america/c2c/clarksburg_wv/Sky 106.5.png",
             url: "http://live.wostreaming.net/direct/wvradio-wwlwfmaac-ibc2"
+        },
+        {
+            name: "WWCS 540",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
+            url: "http://audio.birach.com:9006/;"
+        },
+        {
+            name: "The Mountaineer Ticket 920",
+            logo: "stations/images-america/c2c/clarksburg_wv/The Mountaineer Ticket 920.png",
+            url: "https://sh.fl-us.audio-stream.com/proxy/mshear05?mp=/stream"
+        },
+        {
+            name: "WLOL 1190",
+            logo: "stations/images-america/c2c/clarksburg_wv/WLOL.png",
+            url: "http://ice5.securenetsystems.net/WLOL"
+        },
+        {
+            name: "WAJR 1440",
+            logo: "stations/images-america/c2c/clarksburg_wv/WAJR 1440.png",
+            url: "https://live.wostreaming.net/manifest/wvradio-wajramaac-hlsc2.m3u8"
+        },
+        {
+            name: "WBKE 1490",
+            logo: "stations/images-america/c2c/clarksburg_wv/Buzz 98.3.png",
+            url: "https://tampa.audio-stream.com/proxy/mshear02?mp=/live"
         },
     ],
     "eau_claire": [

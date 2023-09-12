@@ -8184,9 +8184,9 @@ var country_properties_c2c = {
         code: "us-wv",
         relative_radius: 0.7
     },
-    "weston_wv": {
-        name: "weston_wv",
-        name_english: "weston_wv",
+    "clarksburg_wv": {
+        name: "Clarksburg",
+        name_english: "Clarksburg",
         code: "us-wv",
         relative_radius: 0.7
     },
@@ -8890,7 +8890,7 @@ var city_properties_c2c = {
     "parkersburg_wv": {
         relative_whitenoise: 0.85
     },
-    "weston_wv": {
+    "clarksburg_wv": {
         relative_whitenoise: 0.85
     },
     "eau_claire": {
@@ -10771,9 +10771,9 @@ var cities_c2c = [
         "z": "-7009.07"
     },
     {
-        "gameName": "weston_wv",
-        "realName": "Weston",
-        "country": "weston_wv",
+        "gameName": "clarksburg_wv",
+        "realName": "Clarksburg",
+        "country": "clarksburg_wv",
         "x": "67729.6",
         "y": "31.8618",
         "z": "-5651.21"
