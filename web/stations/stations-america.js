@@ -15690,7 +15690,7 @@ var stations = {
         {
             name: "Tejano 1350",
             logo: "stations/images-america/san_antonio/Tejano 107.5-HD2.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/univision-kxtnfmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct//univision-kxtnfmaac-imc2"
         },
         {
             name: "Gospel 1480",
@@ -15757,6 +15757,16 @@ var stations = {
     ],
     "santa_maria": [
         {
+            name: "KLWG 88.1",
+            logo: "stations/images-america/santa_maria/KLWG 88.1.png",
+            url: "https://ais-sa1.streamon.fm/7067_24k.aac"
+        },
+        {
+            name: "La Nueva Radio Vision 88.9",
+            logo: "stations/images-america/santa_maria/La Nueva Radio Vision 88.9.png",
+            url: "https://sonicpanel.us/8036/stream"
+        },
+        {
             name: "KCLU 89.7",
             logo: "stations/images-america/santa_maria/KCLU 89.7.png",
             url: "https://kclustream.callutheran.edu:8090/kclump3"
@@ -15765,6 +15775,16 @@ var stations = {
             name: "KCBX 90.1",
             logo: "stations/images-america/santa_maria/KCBX 90.1.png",
             url: "https://kcbx-ice.streamguys1.com/kcbx-hi"
+        },
+        {
+            name: "Family Life Radio 90.5",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "RadioU 91.5",
+            logo: "stations/images-america/santa_maria/RadioU 91.5.png",
+            url: "https://s5.reliastream.com/proxy/live?mp=/stream"
         },
         {
             name: "KCSB 91.9",
@@ -15782,14 +15802,39 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/agmedia28-kzozfmaac-ibc3"
         },
         {
+            name: "Radio Lazer 94.1",
+            logo: "stations/images-america/santa_maria/Radio Lazer 94.1.png",
+            url: "http://ice8.securenetsystems.net/KLMM"
+        },
+        {
             name: "95.7 The Beat",
             logo: "stations/images-america/santa_maria/95.7 The Beat.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/agmedia28-kpatfmaac-ibc3"
         },
         {
+            name: "K-LOVE 96.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "Mix 96.7",
             logo: "stations/images-america/santa_maria/Mix 96.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSYVAAC_SC"
+        },
+        {
+            name: "98.1 KJUG",
+            logo: "stations/images-america/santa_maria/98.1 KJUG.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/agmedia28-kkjgfmaac-ibc3"
+        },
+        {
+            name: "Old School 99.1",
+            logo: "stations/images-america/santa_maria/Old School 99.1.png",
+            url: "http://216.246.103.221/index.php?u=http://ice9.securenetsystems.net/KQIE"
+        },
+        {
+            name: "99.5 KSMA",
+            logo: "stations/images-america/santa_maria/1240 KSMA.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct//agmedia28-ksmaamaac-ibc3"
         },
         {
             name: "100.3 La Ley",
@@ -15812,9 +15857,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
         },
         {
-            name: "KTNK 103.7",
-            logo: "stations/images-america/santa_maria/KTNK 103.7.png",
-            url: "https://streaming.live365.com/a34169"
+            name: "Y’all 103.7",
+            logo: "stations/images-america/santa_maria/Y’all 103.7.png",
+            url: "https://stream.radiojar.com/vwhwdfdudtuvv"
         },
         {
             name: "Pirate Radio 104.1",
@@ -15832,9 +15877,34 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRAZAAC_SC"
         },
         {
+            name: "La Mejor 106.7",
+            logo: "stations/images-america/santa_maria/La Mejor 106.7.png",
+            url: "https://ice8.securenetsystems.net/KSMY"
+        },
+        {
+            name: "Relevant Radio 890",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "920 KVEC",
+            logo: "stations/images-america/santa_maria/920 KVEC.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/agmedia28-kvecamaac-ibc3"
+        },
+        {
             name: "1240 KSMA",
             logo: "stations/images-america/santa_maria/1240 KSMA.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/agmedia28-ksmaamaac-ibc3"
+        },
+        {
+            name: "Y’all 1410",
+            logo: "stations/images-america/santa_maria/Y’all 103.7.png",
+            url: "http://stream.radiojar.com/vwhwdfdudtuvv"
+        },
+        {
+            name: "AM1440 KUHL",
+            logo: "stations/images-america/santa_maria/AM1440 KUHL.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUHLAAC_SC"
         },
     ],
     "santa_rosa_ca": [
