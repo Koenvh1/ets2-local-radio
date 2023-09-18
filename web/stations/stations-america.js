@@ -13878,7 +13878,7 @@ var stations = {
     "redding": [
         {
             name: "NSPR 88.9",
-            logo: "stations/images-america/redding/North State Public Radio.jpg",
+            logo: "stations/images-america/0_general_logos/North State Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHOFM_64_SC"
         },
         {
@@ -41933,6 +41933,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6663/hls.m3u8"
         },
         {
+            name: "The Beaver 95.7",
+            logo: "stations/images-america/c2c/pittsburgh_pa/The Beaver 95.7.png",
+            url: "https://ice26.securenetsystems.net/WMBA"
+        },
+        {
             name: "96.1 KISS",
             logo: "stations/images-america/c2c/pittsburgh_pa/96.1 KISS.png",
             url: "https://stream.revma.ihrhls.com/zc2021/hls.m3u8"
@@ -42051,6 +42056,11 @@ var stations_c2c = {
             name: "1320 WJAS",
             logo: "stations/images-america/c2c/pittsburgh_pa/1320 WJAS.png",
             url: "https://stream.revma.ihrhls.com/zc6637/hls.m3u8"
+        },
+        {
+            name: "The Beaver 1460",
+            logo: "stations/images-america/c2c/pittsburgh_pa/The Beaver 95.7.png",
+            url: "http://ice26.securenetsystems.net/WMBA"
         },
     ],
     "scranton_pa": [
