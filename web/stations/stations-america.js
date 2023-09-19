@@ -828,14 +828,34 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "CSN Radio 89.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "OPB 89.7",
             logo: "stations/images-america/0_general_logos/OPB.png",
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
-            name: "Coast Community Radio 90.9",
-            logo: "stations/images-america/astoria/Coast Community Radio 90.9.png",
+            name: "Positive Life Radio 90.5",
+            logo: "stations/images-america/0_general_logos/Positive Life Radio.png",
+            url: "https://ice10.securenetsystems.net/PLR"
+        },
+        {
+            name: "KCPB 90.9",
+            logo: "stations/images-america/astoria/KCPB 90.9.png",
+            url: "https://ice7.securenetsystems.net/KCPB"
+        },
+        {
+            name: "KMUN 91.9",
+            logo: "stations/images-america/astoria/KMUN 91.9.png",
             url: "https://ice5.securenetsystems.net/KMUN"
+        },
+        {
+            name: "93.3 The Rock",
+            logo: "stations/images-america/astoria/93.3 The Rock.png",
+            url: "https://us9.maindigitalstream.com/ssl/KEUB"
         },/*
         {
             name: "Hits 94.3",
@@ -853,14 +873,54 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KXXO"
         },
         {
+            name: "C96",
+            logo: "stations/images-america/astoria/C96.png",
+            url: "http://us9.streamingpulse.com:7333/stream"
+        },
+        {
+            name: "Clammy 99.7",
+            logo: "stations/images-america/astoria/Clammy 99.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLMYFMAAC_SC"
+        },
+        {
+            name: "102.3 KCRX",
+            logo: "stations/images-america/astoria/102.3 KCRX.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCRXFMAAC_SC"
+        },
+        {
+            name: "K278CW 103.5",
+            logo: "stations/images-america/astoria/KAST.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KASTAMAAC.aac"
+        },
+        {
+            name: "Eagle Country 103.9",
+            logo: "stations/images-america/astoria/Eagle Country 103.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVASFMAAC_SC"
+        },
+        {
             name: "ESPN 106.3",
             logo: "stations/images-america/astoria/ESPN 106.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKORFMAAC_SC"
         },
         {
+            name: "Radio Clatsop 840",
+            logo: "stations/images-america/astoria/Radio Clatsop 840.png",
+            url: "https://stream.radiojar.com/6ahprpus6p5tv"
+        },
+        {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
+        },
+        {
+            name: "KKOR 1230",
+            logo: "stations/images-america/astoria/ESPN 106.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKORFMAAC.aac"
+        },
+        {
+            name: "KAST 1370",
+            logo: "stations/images-america/astoria/KAST.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KASTAMAAC_SC"
         },
     ],
     "austin": [
