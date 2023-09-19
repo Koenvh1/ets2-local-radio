@@ -36516,6 +36516,11 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wtmmfmaac-ibc3"
         },
         {
+            name: "Big Country 104.9",
+            logo: "stations/images-america/c2c/albany_ny/Big Country 104.9.png",
+            url: "https://ais-sa1.streamon.fm/7818_128k.aac"
+        },
+        {
             name: "WOOC 105.3",
             logo: "stations/images-america/c2c/albany_ny/WOOC 105.3.png",
             url: "http://stream.woocfm.org:8000/wooc"
