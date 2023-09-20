@@ -1448,6 +1448,11 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KBHR"
         },
         {
+            name: "94.3 The Duck",
+            logo: "stations/images-america/barstow/94.3 The Duck.png",
+            url: "https://sp5.servidorrprivado.com:10942/;"
+        },
+        {
             name: "DRIVE 96.9",
             logo: "stations/images-america/barstow/DRIVE 96.9.png",
             url: "https://streaming.live365.com/a98605"
