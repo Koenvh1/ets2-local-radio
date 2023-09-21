@@ -43822,11 +43822,6 @@ var stations_c2c = {
             url: "http://96.38.1.34:8000/stream.mp3"
         },
         {
-            name: "Random Music Radio 850",
-            logo: "stations/images-america/c2c/knoxville_tn/Random Music Radio 850.png",
-            url: "https://stream.radiojar.com/atuv6c1sv38uv"
-        },
-        {
             name: "NewsTalk 1490",
             logo: "stations/images-america/c2c/knoxville_tn/NewsTalk 1490.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WEREAMAAC_SC"
