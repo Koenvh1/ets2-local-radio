@@ -43789,7 +43789,7 @@ var stations_c2c = {
         {
             name: "104.9 Lake FM",
             logo: "stations/images-america/c2c/knoxville_tn/104.9 Lake FM.png",
-            url: "https://stream.radiojar.com/16177nyd41zuv"
+            url: "https://stream.radiojar.com/z3nhbu9x7druv"
         },
         {
             name: "105.1 WKCE",
@@ -43800,6 +43800,11 @@ var stations_c2c = {
             name: "Fanrun Radio 105.7",
             logo: "stations/images-america/c2c/knoxville_tn/Fanrun Radio 105.7.png",
             url: "https://ice64.securenetsystems.net/WKGN2"
+        },
+        {
+            name: "FUN 105.9",
+            logo: "stations/images-america/c2c/knoxville_tn/FUN 105.9.png",
+            url: "https://stream.radiojar.com/atuv6c1sv38uv"
         },
         {
             name: "106.1 VLZ",

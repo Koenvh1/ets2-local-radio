@@ -429,27 +429,27 @@ var stations = {
         {
             name: "Radio 1",
             logo: "stations/images-europe/belgium-nl/Radio 1.png",
-            url: "https://live-radio-cf-vrt.akamaized.net/groupb/live/47303075-8243-434b-8199-2e62cf4dd97a/live.isml/.m3u8"
+            url: "http://icecast.vrtcdn.be/radio1-high.mp3"
         },
         {
             name: "Radio 2",
             logo: "stations/images-europe/belgium-nl/Radio 2.png",
-            url: "https://live-radio-cf-vrt.akamaized.net/groupc/live/1e08f370-1f20-4807-aaa3-051c7f0d8359/live.isml/.m3u8"
+            url: "http://icecast.vrtcdn.be/ra2ant-high.mp3"
         },
         {
             name: "Klara",
             logo: "stations/images-europe/belgium-nl/Klara.png",
-            url: "https://live-radio-cf-vrt.akamaized.net/groupa/live/a9f36fda-cb3c-4b4e-9405-a5bba55654c0/live.isml/.m3u8"
+            url: "http://icecast.vrtcdn.be/klara-high.mp3"
         },
         {
             name: "MNM",
             logo: "stations/images-europe/belgium-nl/VRT MNM.png",
-            url: "https://live-radio-cf-vrt.akamaized.net/groupa/live/68dc3b80-040e-4a75-a394-72f3bb7aff9a/live.isml/.m3u8"
+            url: "http://icecast.vrtcdn.be/mnm-high.mp3"
         },
         {
             name: "Studio Brussel",
             logo: "stations/images-europe/belgium-nl/Studio Brussel.png",
-            url: "https://live-radio-cf-vrt.akamaized.net/groupc/live/f404f0f3-3917-40fd-80b6-a152761072fe/live.isml/.m3u8"
+            url: "http://icecast.vrtcdn.be/stubru-high.mp3"
         },
         {
             name: "Club FM",
