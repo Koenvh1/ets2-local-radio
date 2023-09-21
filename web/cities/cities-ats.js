@@ -1553,15 +1553,15 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "barstow": {
-        relative_radius: 0.5,
-        relative_whitenoise: 0.85
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "barstow_east": {
         relative_radius: 0.3,
         relative_whitenoise: 0.85
     },
     "barstow_west": {
-        relative_radius: 0.4,
+        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "bellingham": {
@@ -1905,8 +1905,8 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kramer_junction": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.85
+		relative_radius: 0.7,
+        relative_whitenoise: 0.95
     },
     "lakeview": {
         relative_whitenoise: 0.85
@@ -2303,8 +2303,8 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "victorville": {
-		relative_radius: 0.45,
-        relative_whitenoise: 0.85
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "waco": {
         relative_whitenoise: 0.95
@@ -2460,14 +2460,6 @@ var cities = [
         "gameName": "barstow",
         "realName": "Barstow",
         "country": "barstow",
-        "x": "-95069.8",
-        "y": "121.652",
-        "z": "12704.5"
-    },
-    {
-        "gameName": "barstow",
-        "realName": "Barstow",
-        "country": "victorville",
         "x": "-95069.8",
         "y": "121.652",
         "z": "12704.5"

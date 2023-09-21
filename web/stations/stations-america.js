@@ -1428,14 +1428,14 @@ var stations = {
             url: "https://ic2.sslstream.com/sosnet.mp3"
         },
         {
-            name: "K-WAVE 91.3",
-            logo: "stations/images-america/barstow/K-WAVE 91.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
-        },
-        {
             name: "KNLB 90.9",
             logo: "stations/images-america/barstow/KNLB 90.9.png",
             url: "https://ic1.sslstream.com/knlb-fm"
+        },
+        {
+            name: "K-WAVE 91.3",
+            logo: "stations/images-america/barstow/K-WAVE 91.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
             name: "Air1 92.1",
@@ -1481,6 +1481,31 @@ var stations = {
             name: "The Highway Country 107.3",
             logo: "stations/images-america/barstow/The Highway Country 107.3.png",
             url: "https://streaming.live365.com/a58353"
+        },
+        {
+            name: "AM 590 The Answer",
+            logo: "stations/images-america/riverside/AM 590 The Answer.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
+        },
+        {
+            name: "FOX Sports 610",
+            logo: "stations/images-america/barstow/FOX Sports 610.png",
+            url: "https://ice8.securenetsystems.net/KAVL"
+        },
+        {
+            name: "KFI AM 640",
+            logo: "stations/images-america/los_angeles/KFI AM 640.png",
+            url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
+        },
+        {
+            name: "KMPS 910",
+            logo: "stations/images-america/victorville/La X 103.1.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-kxvvfmaac-ibc1?source=v7player"
+        },
+        {
+            name: "Talk 960",
+            logo: "stations/images-america/victorville/Talk 960.png",
+            url: "https://live.wostreaming.net/manifest/eldorado-kixwamaac-ibc2?source=v7player"
         },
     ],
     "bellingham": [
@@ -11008,6 +11033,11 @@ var stations = {
             name: "The Highway Country 101.5",
             logo: "stations/images-america/barstow/The Highway Country 107.3.png",
             url: "https://streaming.live365.com/a58353"
+        },
+        {
+            name: "102.5 The Duck",
+            logo: "stations/images-america/barstow/94.3 The Duck.png",
+            url: "https://sp5.servidorrprivado.com:10942/;"
         },
         {
             name: "106.9 The Eagle",
