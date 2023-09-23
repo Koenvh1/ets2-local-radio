@@ -25546,8 +25546,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc497/hls.m3u8"
         },
         {
-            name: "101.5 The Bounce",
-            logo: "stations/images-america/c2c/naples_fl/101.5 The Bounce.png",
+            name: "Podcast Radio US 101.5",
+            logo: "stations/images-america/c2c/naples_fl/Podcast Radio US Southwest Florida.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXKBHD2AAC_SC"
         },
         {
@@ -26376,6 +26376,11 @@ var stations_c2c = {
             name: "WFLA 970",
             logo: "stations/images-america/c2c/tampa_fl/WFLA 970.png",
             url: "https://stream.revma.ihrhls.com/zc2823/hls.m3u8"
+        },
+        {
+            name: "Podcast Radio US 1010",
+            logo: "stations/images-america/c2c/tampa_fl/Podcast Radio US Tampa Bay.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJBRAMAAC_SC"
         },
         {
             name: "1150 WTMP",
@@ -33169,8 +33174,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDRQHD2AAC_SC"
         },
         {
-            name: "The Roar 93.5",
-            logo: "stations/images-america/c2c/detroit_mi/The Roar 93.5.png",
+            name: "Podcast Radio US 93.5",
+            logo: "stations/images-america/c2c/detroit_mi/Podcast Radio US Detroit.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WCSX_HD2AAC_SC"
         },
         {
@@ -37950,8 +37955,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFNZAMAAC_SC"
         },
         {
-            name: "FOX Sports 94.7",
-            logo: "stations/images-america/c2c/charlotte_nc/FOX Sports 94.7.png",
+            name: "Podcast Radio US Carolinas 94.7",
+            logo: "stations/images-america/c2c/charlotte_nc/Podcast Radio US Carolinas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSOCF3AAC_SC"
         },
         {
@@ -43817,8 +43822,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7698_128k.aac"
         },
         {
-            name: "104.9 Lake FM",
-            logo: "stations/images-america/c2c/knoxville_tn/104.9 Lake FM.png",
+            name: "104.9 KVL",
+            logo: "stations/images-america/c2c/knoxville_tn/104.9 KVL.png",
             url: "https://stream.radiojar.com/z3nhbu9x7druv"
         },
         {

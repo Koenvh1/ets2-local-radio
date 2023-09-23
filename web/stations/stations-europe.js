@@ -464,7 +464,7 @@ var stations = {
         {
             name: "Nostalgie",
             logo: "stations/images-europe/belgium-nl/Nostalgie.png",
-            url: "https://streamingp.shoutcast.com/NostalgiePremium"
+            url: "https://stream.rcs.revma.com/5gd04cwptg0uv"
         },
         {
             name: "NRJ België",
@@ -551,7 +551,7 @@ var stations = {
         {
             name: "Nostalgie",
             logo: "stations/images-europe/belgium-fr/Nostalgie.png",
-            url: "https://streamingp.shoutcast.com/NostalgiePremium"
+            url: "https://stream.rcs.revma.com/5gd04cwptg0uv"
         },
         {
             name: "NRJ Belgique",
