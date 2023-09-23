@@ -2208,12 +2208,12 @@ var stations = {
         {
             name: "96.1 BOB FM",
             logo: "stations/images-america/boise/96.1 BOB FM.png",
-            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KSRV"
+            url: "https://ice64.securenetsystems.net/KSRV"
         },
         {
             name: "96.5 The Alternative",
             logo: "stations/images-america/boise/96.5 The Alternative.png",
-            url: "http://216.246.103.221/index.php?u=http://ice9.securenetsystems.net/KQBLHD3"
+            url: "https://ice9.securenetsystems.net/KQBLHD3"
         },
         {
             name: "96.9 The Eagle",
@@ -2233,7 +2233,7 @@ var stations = {
         {
             name: "99.1 I-Rock",
             logo: "stations/images-america/boise/99.1 I-Rock.png",
-            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KQBLHD2"
+            url: "https://ice64.securenetsystems.net/KQBLHD2"
         },
         {
             name: "FOX Sports 99.9",
@@ -2248,22 +2248,22 @@ var stations = {
         {
             name: "Wild 101.1",
             logo: "stations/images-america/boise/Wild 101.1.png",
-            url: "http://216.246.103.221/index.php?u=http://ice9.securenetsystems.net/KWYD"
+            url: "http://ice9.securenetsystems.net/KWYD"
         },
         {
             name: "101.5 KOOL FM",
             logo: "stations/images-america/boise/101.5 KOOL FM.png",
-            url: "http://216.246.103.221/index.php?u=https://ice5.securenetsystems.net/KKOO"
+            url: "https://ice5.securenetsystems.net/KKOO"
         },
         {
             name: "101.9 The Bull",
             logo: "stations/images-america/boise/101.9 The Bull.png",
-            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KQBL"
+            url: "https://ice64.securenetsystems.net/KQBL"
         },
         {
             name: "My 102.7",
             logo: "stations/images-america/boise/My 102.7.png",
-            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KZMG"
+            url: "https://ice9.securenetsystems.net/KZMG"
         },
         {
             name: "103.5 KISS FM",
@@ -5603,7 +5603,7 @@ var stations = {
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-kflgfmaac-ibc3"
+            url: "http://fgks.org/proxy/index.php?q=aHR0cDovL2xpdmUud29zdHJlYW1pbmcubmV0L2RpcmVjdC9jYW1lcm9uLWtmbGdmbWFhYy1pYmMz"
         },
         {
             name: "CSN Radio 97.7",
@@ -9261,7 +9261,7 @@ var stations = {
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-kflgfmaac-ibc3"
+            url: "http://fgks.org/proxy/index.php?q=aHR0cDovL2xpdmUud29zdHJlYW1pbmcubmV0L2RpcmVjdC9jYW1lcm9uLWtmbGdmbWFhYy1pYmMz"
         },
         {
             name: "95.5 Jack FM",
@@ -9271,12 +9271,12 @@ var stations = {
         {
             name: "KAAA 97.5",
             logo: "stations/images-america/kingman/KAAA 97.5.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-kaaaamaac-ibc3"
+            url: "http://fgks.org/proxy/index.php?q=aHR0cDovL2xpdmUud29zdHJlYW1pbmcubmV0L2RpcmVjdC9jYW1lcm9uLWthYWFhbWFhYy1pYmMz"
         },
         {
             name: "Lucky 98 FM",
             logo: "stations/images-america/kingman/Lucky 98 FM.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-klukfmaac-ibc3"
+            url: "http://fgks.org/proxy/index.php?q=aHR0cDovL2xpdmUud29zdHJlYW1pbmcubmV0L2RpcmVjdC9jYW1lcm9uLWtsdWtmbWFhYy1pYmMz"
         },
         {
             name: "KGPS 98.7",
@@ -9286,7 +9286,7 @@ var stations = {
         {
             name: "K-STAR 99.3",
             logo: "stations/images-america/kingman/K-STAR 99.3.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-kflgamaac-ibc3"
+            url: "http://fgks.org/proxy/index.php?q=aHR0cDovL2xpdmUud29zdHJlYW1pbmcubmV0L2RpcmVjdC9jYW1lcm9uLWtmbGdhbWFhYy1pYmMz"
         },
         {
             name: "Air1 101.3",
@@ -9316,7 +9316,7 @@ var stations = {
         {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
-            url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-knkkfmaac-ibc3"
+            url: "http://fgks.org/proxy/index.php?q=aHR0cDovL2xpdmUud29zdHJlYW1pbmcubmV0L2RpcmVjdC9jYW1lcm9uLWtua2tmbWFhYy1pYmMz"
         },
         {
             name: "980 KNTR",
