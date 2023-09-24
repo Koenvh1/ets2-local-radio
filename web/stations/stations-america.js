@@ -262,7 +262,7 @@ var stations = {
         {
             name: "Coyote Country 92.7",
             logo: "stations/images-america/alamogordo/Coyote Country 92.7.png",
-            url: "http://216.246.103.221/index.php?u=https://ice41.securenetsystems.net/KRSY"
+            url: "https://ice41.securenetsystems.net/KRSY"
         },
         {
             name: "KWES 93.5",
@@ -4195,7 +4195,7 @@ var stations = {
         {
             name: "KLMO 98.9",
             logo: "stations/images-america/cotulla/KLMO 98.9.png",
-            url: "http://216.246.103.221/index.php?u=http://streaming.live365.com/a13945"
+            url: "https://listen.radioking.com/radio/221533/stream/264910"
         },
         {
             name: "Radio Vocem 102.1",
@@ -6976,7 +6976,7 @@ var stations = {
         {
             name: "Punjabi Radio 104.5",
             logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
-            url: "http://s5.voscast.com:9281/stream"
+            url: "https://s5.voscast.com:9281/stream"
         },
         {
             name: "HOT 104.7",
