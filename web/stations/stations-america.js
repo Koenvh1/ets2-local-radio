@@ -23537,14 +23537,29 @@ var stations_c2c = {
     ],
     "el_dorado_ar": [
         {
+            name: "afr Talk 88.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "SonLife Radio 89.7",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://live.radio.sonlife.olympusatmedia.com/index.m3u8"
+        },
+        {
             name: "Red River Radio 90.9",
             logo: "stations/images-america/0_general_logos/Red River Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
+        },
+        {
+            name: "KGRM 91.5",
+            logo: "stations/images-america/c2c/el_dorado_ar/KGRM 91.5.png",
+            url: "https://ice41.securenetsystems.net/KGRM"
         },
         {
             name: "Y95",
@@ -23557,14 +23572,19 @@ var stations_c2c = {
             url: "https://us2.maindigitalstream.com/ssl/KMRX"
         },
         {
+            name: "SportsTalk 97.7",
+            logo: "stations/images-america/c2c/el_dorado_ar/SportsTalk 97.7.png",
+            url: "https://ice7.securenetsystems.net/RDSPORTS"
+        },
+        {
             name: "KMLK 98.7",
             logo: "stations/images-america/c2c/el_dorado_ar/KMLK 98.7.png",
             url: "https://us2.maindigitalstream.com/ssl/KMLK"
         },
         {
-            name: "KVMZ 99.1",
-            logo: "stations/images-america/c2c/el_dorado_ar/KVMZ 99.1.png",
-            url: "https://us2.maindigitalstream.com/ssl/KVMZ"
+            name: "KZHE 100.5",
+            logo: "stations/images-america/c2c/el_dorado_ar/KZHE 100.5.png",
+            url: "https://crystalout.surfernetwork.com:8001/KZHE-FM_MP3"
         },
         {
             name: "KIX 103",
@@ -23582,9 +23602,29 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/KMGC"
         },
         {
-            name: "Rock 106",
+            name: "BBN 105.1",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "ROCK 106",
             logo: "stations/images-america/c2c/monroe_la/Rock 106.png",
             url: "https://ice5.securenetsystems.net/KXRR"
+        },
+        {
+            name: "106.5 MAX FM",
+            logo: "stations/images-america/c2c/el_dorado_ar/106.5 MAX FM.png",
+            url: "https://us2.maindigitalstream.com/ssl/KVMZ"
+        },
+        {
+            name: "Z107.5",
+            logo: "stations/images-america/c2c/monroe_la/Z107.5.png",
+            url: "https://ice7.securenetsystems.net/KXKZ"
+        },
+        {
+            name: "FOX Sports 630",
+            logo: "stations/images-america/c2c/el_dorado_ar/FOX Sports 630.png",
+            url: "https://us2.maindigitalstream.com/ssl/KVMA"
         },
     ],
     "fayetteville_ar": [

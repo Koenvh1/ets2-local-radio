@@ -6776,7 +6776,7 @@ var country_properties_c2c = {
         name: "El Dorado",
         name_english: "El Dorado",
         code: "us-ar",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "hot_springs_ar": {
         name: "Hot Springs",
@@ -7268,7 +7268,7 @@ var country_properties_c2c = {
         name: "Monroe",
         name_english: "Monroe",
         code: "us-la",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "natchitoches_la": {
         name: "Natchitoches",
@@ -8241,8 +8241,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "el_dorado_ar": {
-		relative_radius: 0.8,
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "fayetteville_ar": {
         relative_whitenoise: 0.95
@@ -8472,7 +8471,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "monroe_la": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "natchitoches_la": {
         relative_whitenoise: 0.85
@@ -8966,14 +8965,6 @@ var cities_c2c = [
         "gameName": "el_dorado_ar",
         "realName": "El Dorado",
         "country": "el_dorado_ar",
-        "x": "16135.6",
-        "y": "112.68",
-        "z": "31690.9"
-    },
-    {
-        "gameName": "el_dorado_ar",
-        "realName": "El Dorado",
-        "country": "monroe_la",
         "x": "16135.6",
         "y": "112.68",
         "z": "31690.9"
