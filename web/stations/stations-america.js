@@ -39092,8 +39092,8 @@ var stations_c2c = {
             url: "https://ice6.securenetsystems.net/KGCX"
         },
         {
-            name: "Power 95",
-            logo: "stations/images-america/c2c/williston_nd/Power 95.png",
+            name: "Mix 95.1",
+            logo: "stations/images-america/c2c/williston_nd/Mix 95.1.png",
             url: "https://live.wostreaming.net/manifest/townsquare-kthcfmaac-ibc3"
         },
         {
