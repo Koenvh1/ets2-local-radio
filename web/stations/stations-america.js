@@ -23612,8 +23612,8 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/KXRR"
         },
         {
-            name: "MAX FM 106.5",
-            logo: "stations/images-america/c2c/el_dorado_ar/MAX FM 106.5.png",
+            name: "106.5 MAX FM",
+            logo: "stations/images-america/c2c/el_dorado_ar/106.5 MAX FM.png",
             url: "https://us2.maindigitalstream.com/ssl/KVMZ"
         },
         {
