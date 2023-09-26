@@ -23607,13 +23607,13 @@ var stations_c2c = {
             url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
         },
         {
-            name: "ROCK 106",
+            name: "Rock 106",
             logo: "stations/images-america/c2c/monroe_la/Rock 106.png",
             url: "https://ice5.securenetsystems.net/KXRR"
         },
         {
-            name: "106.5 MAX FM",
-            logo: "stations/images-america/c2c/el_dorado_ar/106.5 MAX FM.png",
+            name: "MAX FM 106.5",
+            logo: "stations/images-america/c2c/el_dorado_ar/MAX FM 106.5.png",
             url: "https://us2.maindigitalstream.com/ssl/KVMZ"
         },
         {
@@ -23623,7 +23623,7 @@ var stations_c2c = {
         },
         {
             name: "FOX Sports 630",
-            logo: "stations/images-america/c2c/el_dorado_ar/FOX Sports 630.png",
+            logo: "stations/images-america/c2c/el_dorado_ar/MAX FM 106.5.png",
             url: "https://us2.maindigitalstream.com/ssl/KVMA"
         },
     ],
