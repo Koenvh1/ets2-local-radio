@@ -354,7 +354,7 @@ var stations = {
         {
             name: "Cultural Energy 90.1",
             logo: "stations/images-america/alamosa/Cultural Energy 90.1.png",
-            url: "https://stream.pacificaservice.org:9000/kcei_128"
+            url: "https://stream.pacificaservice.org:9000/kcei_64"
         },
         {
             name: "K225AZ 92.9",
@@ -1191,11 +1191,11 @@ var stations = {
         },
     ],
     "baggs": [
-        {
+        /*{
             name: "KRAI 93.7",
             logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
             url: "https://playoutonestreaming.com/proxy/kraifm?mp=/stream"
-        },
+        },*/
         {
             name: "The Reel 107.3",
             logo: "stations/images-america/steamboat_sp/The Reel 95.5.png",
@@ -1388,7 +1388,7 @@ var stations = {
         {
             name: "KYNO 940",
             logo: "stations/images-america/fresno/KYNO 940.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice8.securenetsystems.net/KYNO"
+            url: "http://fgks.org/proxy/index.php?q=aWNlOC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWU5P"
         },
         {
             name: "FOX Sports 970",
@@ -7011,7 +7011,7 @@ var stations = {
         {
             name: "KYNO 940",
             logo: "stations/images-america/fresno/KYNO 940.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice8.securenetsystems.net/KYNO"
+            url: "http://fgks.org/proxy/index.php?q=aWNlOC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWU5P"
         },
         {
             name: "KRDU 1130",
@@ -12257,7 +12257,7 @@ var stations = {
         {
             name: "KYNO 940",
             logo: "stations/images-america/fresno/KYNO 940.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice8.securenetsystems.net/KYNO"
+            url: "http://fgks.org/proxy/index.php?q=aWNlOC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LWU5P"
         },
         {
             name: "FOX Sports 1280",
@@ -17847,12 +17847,12 @@ var stations = {
             name: "The River 98.9",
             logo: "stations/images-america/steamboat_sp/The River 98.9.png",
             url: "https://playoutonestreaming.com/proxy/kcoq?mp=/stream"
-        },
+        },/*
         {
             name: "KRAI 102.3",
             logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
             url: "https://playoutonestreaming.com/proxy/kraifm?mp=/stream"
-        },
+        },*/
         {
             name: "KFMU 105.5",
             logo: "stations/images-america/steamboat_sp/KFMU 105.5.png",
@@ -23623,7 +23623,7 @@ var stations_c2c = {
         },
         {
             name: "FOX Sports 630",
-            logo: "stations/images-america/c2c/el_dorado_ar/MAX FM 106.5.png",
+            logo: "stations/images-america/c2c/el_dorado_ar/FOX Sports 630.png",
             url: "https://us2.maindigitalstream.com/ssl/KVMA"
         },
     ],
@@ -31044,12 +31044,12 @@ var stations_c2c = {
             name: "99.7 DJX",
             logo: "stations/images-america/c2c/louisville_ky/99.7 DJX.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/alphacorporate-wdjxfmaac-ibc2"
-        },/*
+        },
         {
             name: "WAKY 100.1",
             logo: "stations/images-america/c2c/louisville_ky/WAKY 100.1.png",
             url: "http://216.246.103.221/index.php?u=https://ice7.securenetsystems.net/WAKY"
-        },*/
+        },
         {
             name: "100.5FM",
             logo: "stations/images-america/c2c/louisville_ky/100.5FM.png",
@@ -35757,7 +35757,7 @@ var stations_c2c = {
         },
         {
             name: "99.1 KLJY-HD2",
-            logo: "stations/images-america/c2c/stlouis_mo/BOOST 101.9.png",
+            logo: "stations/images-america/c2c/stlouis_mo/BOOST 95.5.png",
             url: "http://gateway.cdnstream1.com/boost-live"
         },
         {
@@ -45378,12 +45378,12 @@ var stations_c2c = {
             name: "WVGV 89.7",
             logo: "stations/images-america/c2c/clarksburg_wv/WVGV 89.7.png",
             url: "https://us3.streamingpulse.com/ssl/WVGVFM"
-        },/*
+        },
         {
             name: "Froggy 92.7",
             logo: "stations/images-america/c2c/clarksburg_wv/Froggy 92.7.png",
             url: "https://live.wostreaming.net/manifest/wvradio-wfbyfmaac-ibc2"
-        },*/
+        },
         {
             name: "93.5 The FBY",
             logo: "stations/images-america/c2c/clarksburg_wv/93.5 The FBY.png",
