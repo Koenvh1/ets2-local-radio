@@ -2319,8 +2319,8 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "vallejo": {
-		relative_radius: 0.4,
-        relative_whitenoise: 0.85
+		relative_radius: 0.45,
+        relative_whitenoise: 0.75
     },
     "vernal": {
         relative_whitenoise: 0.85
@@ -4226,7 +4226,7 @@ var cities = [
         "gameName": "san_francisco",
         "realName": "San Francisco",
         "country": "san_francisco",
-        "x": "-116467",
+        "x": "-116267",
         "y": "78.0898",
         "z": "-10076.9"
     },
@@ -4394,7 +4394,7 @@ var cities = [
         "gameName": "stockton",
         "realName": "Stockton",
         "country": "modesto",
-        "x": "-111220",
+        "x": "-109820",
         "y": "16.011",
         "z": "-9965.24"
     },
@@ -4546,9 +4546,9 @@ var cities = [
         "gameName": "vallejo",
         "realName": "Vallejo",
         "country": "san_francisco",
-        "x": "-113740",
+        "x": "-113640",
         "y": "35.1182",
-        "z": "-12444.6"
+        "z": "-12044.6"
     },
     {
         "gameName": "vernal",

@@ -16838,7 +16838,7 @@ var stations = {
         },
         {
             name: "Radio Lazer 1510",
-            logo: "stations/images-america/san_francisco/Radio Lazer 1510.png",
+            logo: "stations/images-america/san_francisco/Radio Lazer.png",
             url: "https://ice8.securenetsystems.net/KSFN"
         },
         {
