@@ -125,6 +125,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
+    "big_bend": {
+        name: "Big Bend",
+        name_english: "Big Bend",
+        code: "us-ca",
+        relative_radius: 0.8
+    },
     "big_piney": {
         name: "Big Piney",
         name_english: "Big Piney",
@@ -1415,6 +1421,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.5
     },
+    "vallejo": {
+        name: "Vallejo",
+        name_english: "Vallejo",
+        code: "us-ca",
+        relative_radius: 0.8
+    },
     "van_horn": {
         name: "Van Horn",
         name_english: "Van Horn",
@@ -1438,6 +1450,12 @@ var country_properties = {
         name_english: "Victorville",
         code: "us-ca",
         relative_radius: 0.7
+    },
+    "vineburg": {
+        name: "Vineburg",
+        name_english: "Vineburg",
+        code: "us-ca",
+        relative_radius: 0.8
     },
     "waco": {
         name: "Waco",
@@ -1574,6 +1592,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "bishop": {
+        relative_whitenoise: 0.85
+    },
+    "big_bend": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.85
     },
     "big_piney": {
@@ -2296,6 +2318,10 @@ var city_properties = {
     "van_horn": {
         relative_whitenoise: 0.95
     },
+    "vallejo": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.85
+    },
     "vernal": {
         relative_whitenoise: 0.85
     },
@@ -2305,6 +2331,10 @@ var city_properties = {
     "victorville": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
+    },
+    "vineburg": {
+		relative_radius: 0.2,
+        relative_whitenoise: 0.85
     },
     "waco": {
         relative_whitenoise: 0.95
@@ -2511,6 +2541,14 @@ var cities = [
         "x": "9941.66",
         "y": "63.0898",
         "z": "50291.3"
+    },
+    {
+        "gameName": "big_bend",
+        "realName": "Big Bend",
+        "country": "san_francisco",
+        "x": "-114385",
+        "y": "21.1194",
+        "z": "-15787.5"
     },
     {
         "gameName": "big_piney",
@@ -4505,6 +4543,14 @@ var cities = [
         "z": "44906.2"
     },
     {
+        "gameName": "vallejo",
+        "realName": "Vallejo",
+        "country": "san_francisco",
+        "x": "-113740",
+        "y": "35.1182",
+        "z": "-12444.6"
+    },
+    {
         "gameName": "vernal",
         "realName": "Vernal",
         "country": "vernal",
@@ -4535,6 +4581,14 @@ var cities = [
         "x": "-98494.6",
         "y": "163.151",
         "z": "15237.6"
+    },
+    {
+        "gameName": "vineburg",
+        "realName": "Vineburg",
+        "country": "san_francisco",
+        "x": "-114723",
+        "y": "67.5758",
+        "z": "-17678.6"
     },
     {
         "gameName": "waco",
