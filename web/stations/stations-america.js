@@ -8693,11 +8693,6 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/alphacorporate-kpsifmaac-ibc4"
         },
         {
-            name: "100.9 NRG",
-            logo: "stations/images-america/indio/100.9 NRG.png",
-            url: "https://streams.radiomast.io/b91617ff-71d6-495a-bba0-7256662a37ab"
-        },
-        {
             name: "101.3 The Mix",
             logo: "stations/images-america/indio/101.3 The Mix.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KATYFMAAC_SC"
@@ -35458,9 +35453,9 @@ var stations_c2c = {
             url: "https://streams.radio.co/scce2ddfe5/low"
         },
         {
-            name: "105.1 The X",
-            logo: "stations/images-america/c2c/kansascity_mo/105.1 The X.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCJKFMAAC_SC"
+            name: "Power 105.1",
+            logo: "stations/images-america/c2c/kansascity_mo/Power 105.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
         },
         {
             name: "105.9 KISS FM",
@@ -35481,11 +35476,6 @@ var stations_c2c = {
             name: "RNB 106.9",
             logo: "stations/images-america/c2c/kansascity_mo/RNB 106.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC_SC"
-        },
-        {
-            name: "107.3",
-            logo: "stations/images-america/c2c/kansascity_mo/107.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
         },
         {
             name: "610 Sports Radio",
