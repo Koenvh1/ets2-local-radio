@@ -14961,6 +14961,58 @@ var stations = {
             url: "https://crystalout.surfernetwork.com:8001/KJAY-AM_MP3"
         },
     ],
+    "sacramento_colusa": [
+        {
+            name: "CapRadio Music 88.7",
+            logo: "stations/images-america/0_general_logos/CapRadio Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPRAAC_SC"
+        },
+        {
+            name: "Air1 99.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "La Tricolor 99.9",
+            logo: "stations/images-america/sacramento_colusa/La Tricolor 99.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRCXFMAAC_SC"
+        },
+        {
+            name: "Country 103.1",
+            logo: "stations/images-america/sacramento_colusa/Country 103.1.png",
+            url: "http://216.246.103.221/index.php?u=https://ice24.securenetsystems.net/KKCY"
+        },
+        {
+            name: "103.1 KKCY-HD2",
+            logo: "stations/images-america/sacramento_colusa/Power 95.5.png",
+            url: "http://216.246.103.221/index.php?u=https://ice24.securenetsystems.net/KKCYHD2"
+        },
+        {
+            name: "La Z 107.5",
+            logo: "stations/images-america/sacramento_colusa/La Z 107.5.png",
+            url: "https://ice10.securenetsystems.net/KSZK"
+        },
+        {
+            name: "KPAY Sports 1290",
+            logo: "stations/images-america/sacramento_colusa/KPAY Sports 1290.png",
+            url: "https://ice41.securenetsystems.net/KPAY"
+        },
+        {
+            name: "KMYC 1410",
+            logo: "stations/images-america/sacramento_colusa/KMYC 1410.png",
+            url: "https://streaming.live365.com/a55548"
+        },
+        {
+            name: "Punjabi Radio 1450",
+            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
+            url: "https://s5.voscast.com:9281/stream"
+        },
+        {
+            name: "KUBA 1600",
+            logo: "stations/images-america/sacramento_colusa/KUBA 1600.png",
+            url: "http://216.246.103.221/index.php?u=https://ice24.securenetsystems.net/KUBA"
+        },
+    ],
     "salida": [
         {
             name: "KCME 88.1",

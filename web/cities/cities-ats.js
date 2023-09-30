@@ -4135,6 +4135,14 @@ var cities = [
         "z": "-17201.1"
     },
     {
+        "gameName": "sacramento_colusa",
+        "realName": "Colusa",
+        "country": "sacramento_colusa",
+        "x": "-112214",
+        "y": "21.4015",
+        "z": "-17201.1"
+    },
+    {
         "gameName": "sacramento_i80",
         "realName": "Sacramento",
         "country": "sacramento",

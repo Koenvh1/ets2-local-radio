@@ -1535,7 +1535,7 @@ var stations = {
         {
             name: "Radio Classique",
             logo: "stations/images-europe/france/Radio Classique.png",
-            url: "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
+            url: "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
         },
         {
             name: "Radio FG",
@@ -1615,7 +1615,7 @@ var stations = {
         {
             name: "Vibration",
             logo: "stations/images-europe/france/Vibration.png",
-            url: "https://vibration.ice.infomaniak.ch/vibration-high.mp3"
+            url: "https://webvib-region.ice.infomaniak.ch/webvib-region-128.mp3"
         },
     ],
     "georgia": [
@@ -5208,12 +5208,12 @@ var stations = {
         {
             name: "Radio Central",
             logo: "stations/images-europe/switzerland-de/Radio Central.png",
-            url: "https://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3"
+            url: "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web"
         },
         {
             name: "Radio Eviva",
             logo: "stations/images-europe/switzerland-de/Radio Eviva.png",
-            url: "https://radioeviva.ice.infomaniak.ch/radioeviva-128.mp3"
+            url: "https://stream.streambase.ch/reviva/mp3-192/chmedia-radio-web"
         },
         {
             name: "Radio Inside",
