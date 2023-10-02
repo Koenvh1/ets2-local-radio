@@ -544,8 +544,8 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KMGG"
         },
         {
-            name: "The Planet 99.9-HD2",
-            logo: "stations/images-america/albuquerque/The Planet 99.9-HD2.png",
+            name: "RAVE 99.9-HD2",
+            logo: "stations/images-america/albuquerque/RAVE 99.9-HD2.png",
             url: "https://ice41.securenetsystems.net/THEPLANETHD3"
         },
         {
@@ -15705,7 +15705,7 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/san1011/san1011-sgplayer-aac"
         },
         {
-            name: "KONO 101.1-HD2",
+            name: "101.1 KONO-HD2",
             logo: "stations/images-america/san_antonio/86 KONO.png",
             url: "http://216.246.103.221/index.php?u=http://cmg.streamguys1.com/san860/san860-sgplayer-aac"
         },
