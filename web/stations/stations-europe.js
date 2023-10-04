@@ -1393,7 +1393,7 @@ var stations = {
         {
             name: "Radio Suomipop",
             logo: "stations/images-europe/finland/Radio Suomipop.png",
-            url: "https://digitacdn.akamaized.net/hls/live/629243/radiosuomipop/master.m3u8"
+            url: "https://ms-live-suomipop.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
             name: "SuomiRäp",
