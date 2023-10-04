@@ -41486,7 +41486,7 @@ var stations_c2c = {
         },
         {
             name: "WQED 91.7",
-            logo: "stations/images-america/c2c/johnstown_pa/WQED 89.7.png",
+            logo: "stations/images-america/c2c/pittsburgh_pa/WQED 89.3.png",
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
@@ -41562,34 +41562,119 @@ var stations_c2c = {
     ],
     "johnstown": [
         {
+            name: "Family Life 88.5",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "https://fln01.sslstream.com/fln-familylife-aac"
+        },
+        {
             name: "WQED 89.7",
-            logo: "stations/images-america/c2c/johnstown_pa/WQED 89.7.png",
+            logo: "stations/images-america/c2c/pittsburgh_pa/WQED 89.3.png",
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
-            name: "Hot 92.1",
-            logo: "stations/images-america/c2c/johnstown_pa/Hot 92.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJHTAAC_SC"
+            name: "K-LOVE 90.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "BBN 91.7",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "W230BK 93.9",
+            logo: "stations/images-america/c2c/johnstown_pa/Rocky 99.1.png",
+            url: "http://ice26.securenetsystems.net/WRKW"
         },
         {
             name: "Froggy 95.5",
             logo: "stations/images-america/c2c/johnstown_pa/Froggy 95.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFGIAAC_SC"
+            url: "https://ice25.securenetsystems.net/WFGI"
         },
         {
             name: "Key 96.5",
             logo: "stations/images-america/c2c/johnstown_pa/Key 96.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKYEAAC_SC"
+            url: "https://ice26.securenetsystems.net/WKYE"
+        },
+        {
+            name: "Way Truth Life Radio 97.7",
+            logo: "stations/images-america/c2c/johnstown_pa/Way Truth Life Radio 97.7.png",
+            url: "https://ice24.securenetsystems.net/WTLR"
+        },
+        {
+            name: "Froggy 98.1",
+            logo: "stations/images-america/c2c/johnstown_pa/Froggy 98.1.png",
+            url: "https://ice25.securenetsystems.net/WFGY"
         },
         {
             name: "Rocky 99.1",
             logo: "stations/images-america/c2c/johnstown_pa/Rocky 99.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKWAAC_SC"
+            url: "https://ice26.securenetsystems.net/WRKW"
         },
         {
             name: "100.5 WESA",
             logo: "stations/images-america/c2c/johnstown_pa/100.5 WESA.png",
             url: "https://ais-sa3.cdnstream1.com/2556_128.aac"
+        },
+        {
+            name: "101.3 Jack FM",
+            logo: "stations/images-america/c2c/johnstown_pa/101.3 Jack FM.png",
+            url: "https://ice24.securenetsystems.net/WYUP"
+        },
+        {
+            name: "WOWY 101.7",
+            logo: "stations/images-america/c2c/johnstown_pa/WOWY 101.7.png",
+            url: "https://ice41.securenetsystems.net/WOWY"
+        },
+        {
+            name: "102.9 WCRO",
+            logo: "stations/images-america/c2c/johnstown_pa/WCRO.png",
+            url: "https://ice24.securenetsystems.net/WTRNSPO"
+        },
+        {
+            name: "POP! 104.5",
+            logo: "stations/images-america/c2c/johnstown_pa/POP! 104.5.png",
+            url: "https://ice25.securenetsystems.net/WFBG"
+        },
+        {
+            name: "K-LOVE 105.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "107.1 WHJB",
+            logo: "stations/images-america/c2c/johnstown_pa/107.1 WHJB.png",
+            url: "https://ice64.securenetsystems.net/WHJB"
+        },
+        {
+            name: "Willie 560",
+            logo: "stations/images-america/c2c/johnstown_pa/Willie 560.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFRBAMAAC_SC"
+        },
+        {
+            name: "620 KHB",
+            logo: "stations/images-america/c2c/pittsburgh_pa/102.1 KHB.png",
+            url: "http://50.243.171.225:88/broadwave.mp3"
+        },
+        {
+            name: "WKGE 850",
+            logo: "stations/images-america/c2c/johnstown_pa/101.3 Jack FM.png",
+            url: "http://ice24.securenetsystems.net/WYUP"
+        },
+        {
+            name: "WNTI 990",
+            logo: "stations/images-america/c2c/johnstown_pa/Froggy 95.5.png",
+            url: "http://ice25.securenetsystems.net/WFGI"
+        },
+        {
+            name: "1230 WCRO",
+            logo: "stations/images-america/c2c/johnstown_pa/WCRO.png",
+            url: "http://ice24.securenetsystems.net/WTRNSPO"
+        },
+        {
+            name: "WTNJ 1490",
+            logo: "stations/images-america/c2c/johnstown_pa/POP! 104.5.png",
+            url: "http://ice25.securenetsystems.net/WFBG"
         },
     ],
     "lancaster_pa": [
