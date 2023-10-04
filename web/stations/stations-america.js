@@ -41649,7 +41649,7 @@ var stations_c2c = {
         {
             name: "Willie 560",
             logo: "stations/images-america/c2c/johnstown_pa/Willie 560.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFRBAMAAC_SC"
+            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7875_96k.aac"
         },
         {
             name: "620 KHB",
