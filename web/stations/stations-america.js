@@ -41468,16 +41468,21 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8290/hls.m3u8"
         },
     ],
-    "harrisburg": [
+    "harrisburg_pa": [
         {
-            name: "WITF 89.5",
-            logo: "stations/images-america/c2c/lancaster_pa/WITF 99.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WITFFM.mp3"
+            name: "88.1 Word FM",
+            logo: "stations/images-america/c2c/harrisburg_pa/88.1 Word FM.png",
+            url: "https://ice23.securenetsystems.net/WORDFM"
         },
         {
-            name: "The Pulse 90.7",
-            logo: "stations/images-america/c2c/harrisburg_pa/The Pulse 90.7.png",
-            url: "http://mediastreams.flagstream.com/wvmmlive.aac"
+            name: "WITF 89.5",
+            logo: "stations/images-america/0_general_logos/WITF.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WITFFMAAC_SC"
+        },
+        {
+            name: "afr Talk 90.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
         },
         {
             name: "WMSS 91.1",
@@ -41491,18 +41496,13 @@ var stations_c2c = {
         },
         {
             name: "Happy 92.7",
-            logo: "stations/images-america/c2c/lancaster_pa/Happy 92.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUUFMAAC_SC"
+            logo: "stations/images-america/c2c/harrisburg_pa/Happy 92.7.png",
+            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7883_96k.aac"
         },
         {
             name: "93.5 WTPA",
             logo: "stations/images-america/c2c/harrisburg_pa/93.5 WTPA.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTPAFMAAC_SC"
-        },
-        {
-            name: "94KX",
-            logo: "stations/images-america/c2c/harrisburg_pa/94KX.png",
-            url: "https://live.wostreaming.net/manifest/sunbury-wqkxfmaac-imc2"
         },
         {
             name: "BOB 94.9",
@@ -41520,9 +41520,29 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1985/hls.m3u8"
         },
         {
+            name: "Rocky 98.5",
+            logo: "stations/images-america/c2c/harrisburg_pa/Rocky 98.5.png",
+            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7868_96k.aac"
+        },
+        {
             name: "Real 99.3",
             logo: "stations/images-america/c2c/harrisburg_pa/REAL 99.3.png",
             url: "https://stream.revma.ihrhls.com/zc1981/hls.m3u8"
+        },
+        {
+            name: "W259AU 99.7",
+            logo: "stations/images-america/c2c/philadelphia_pa/WXPN 88.5.png",
+            url: "http://wxpnhi.streamguys.com/xpnhi"
+        }, 
+        {
+            name: "Froggy Valley 100.1",
+            logo: "stations/images-america/c2c/harrisburg_pa/Froggy Valley 100.1.png",
+            url: "https://ice25.securenetsystems.net/WFVY"
+        },
+        {
+            name: "W262CW 100.3",
+            logo: "stations/images-america/c2c/lancaster_pa/95.3 Hope FM.png",
+            url: "http://ic1.sslstream.com/hope-fm"
         },
         {
             name: "K-LOVE 101.3",
@@ -41530,9 +41550,19 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "Air1 101.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "RED 102.3",
             logo: "stations/images-america/c2c/harrisburg_pa/RED 102.3.png",
             url: "http://50.78.91.214:8000/stream"
+        },
+        {
+            name: "W279EC 103.7",
+            logo: "stations/images-america/c2c/harrisburg_pa/WHP 580.png",
+            url: "https://stream.revma.ihrhls.com/zc4027"
         },
         {
             name: "WINK 104",
@@ -41540,19 +41570,39 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNKFMAAC_SC"
         },
         {
-            name: "105.7 The X",
-            logo: "stations/images-america/c2c/harrisburg_pa/105.7 The X.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQXAFMAAC_SC"
-        },
-        {
-            name: "HOT 106.7",
-            logo: "stations/images-america/c2c/harrisburg_pa/HOT 106.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC"
+            name: "Froggy 107.7",
+            logo: "stations/images-america/c2c/harrisburg_pa/Froggy 107.7.png",
+            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7867_96k.aac"
         },
         {
             name: "WHP 580",
             logo: "stations/images-america/c2c/harrisburg_pa/WHP 580.png",
             url: "https://stream.revma.ihrhls.com/zc4027/hls.m3u8"
+        },
+        {
+            name: "720 WHYF",
+            logo: "stations/images-america/c2c/harrisburg_pa/720 WHYF.png",
+            url: "https://us2.maindigitalstream.com/ssl/WHYF"
+        },
+        {
+            name: "WHYL 960",
+            logo: "stations/images-america/c2c/harrisburg_pa/WHYL 960.png",
+            url: "http://50.78.91.214:8804/stream"
+        },
+        {
+            name: "WIOO 1000",
+            logo: "stations/images-america/c2c/harrisburg_pa/WIOO 1000.png",
+            url: "http://50.78.91.214:8800/stream"
+        },
+        {
+            name: "WKBO 1230",
+            logo: "stations/images-america/c2c/harrisburg_pa/WKBO 1230.png",
+            url: "http://s6.voscast.com:8908/;"
+        },
+        {
+            name: "CBS Sports Radio 1400",
+            logo: "stations/images-america/c2c/harrisburg_pa/CBS Sports Radio 95.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAMAAC.aac"
         },
         {
             name: "FOX Sports 1460",
@@ -41689,14 +41739,44 @@ var stations_c2c = {
             url: "http://nap.casthost.net:9332/stream"
         },
         {
-            name: "nu 92.7",
-            logo: "stations/images-america/c2c/lancaster_pa/nu 92.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNUUFMAAC_SC"
+            name: "WJTL 90.3",
+            logo: "stations/images-america/c2c/lancaster_pa/WJTL 90.3.png",
+            url: "https://us9.maindigitalstream.com/ssl/WJTL"
+        },
+        {
+            name: "Radio Centro 91.3",
+            logo: "stations/images-america/c2c/lancaster_pa/Radio Centro 91.3.png",
+            url: "http://streaming.live365.com/a37354"
+        },
+        {
+            name: "91.7 WIXQ",
+            logo: "stations/images-america/c2c/lancaster_pa/91.7 WIXQ.png",
+            url: "http://wixq.millersville.edu:8000/live.nsv"
+        },
+        {
+            name: "W223CH 92.5",
+            logo: "stations/images-america/c2c/harrisburg_pa/Rocky 98.5.png",
+            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7868_96k.aac"
+        },
+        {
+            name: "WDAC 94.5",
+            logo: "stations/images-america/c2c/lancaster_pa/WDAC 94.5.png",
+            url: "https://ice66.securenetsystems.net/WDAC"
         },
         {
             name: "96.1 SOX",
             logo: "stations/images-america/c2c/lancaster_pa/96.1 SOX.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSOXFMAAC_SC"
+        },
+        {
+            name: "96.1 WSOX-HD2",
+            logo: "stations/images-america/c2c/lancaster_pa/WSBA.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSBAAMAAC_SC"
+        },
+        {
+            name: "96.1 WSOX-HD3",
+            logo: "stations/images-america/c2c/lancaster_pa/95.3 Hope FM.png",
+            url: "http://ic1.sslstream.com/hope-fm"
         },
         {
             name: "fm97",
@@ -41705,8 +41785,8 @@ var stations_c2c = {
         },
         {
             name: "WITF 99.9",
-            logo: "stations/images-america/c2c/lancaster_pa/WITF 99.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WITFFM.mp3"
+            logo: "stations/images-america/0_general_logos/WITF.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WITFFMAAC.aac"
         },
         {
             name: "Rumba 100.5",
@@ -41727,6 +41807,11 @@ var stations_c2c = {
             name: "Warm 103.3",
             logo: "stations/images-america/c2c/lancaster_pa/Warm 103.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WARMFMAAC_SC"
+        },
+        {
+            name: "W284BF 104.7",
+            logo: "stations/images-america/c2c/lancaster_pa/WDAC 94.5.png",
+            url: "http://ice66.securenetsystems.net/WDAC"
         },
         {
             name: "I105",
@@ -41754,14 +41839,34 @@ var stations_c2c = {
             url: "https://ice5.securenetsystems.net/WHOL"
         },
         {
-            name: "Froggy 107.7",
-            logo: "stations/images-america/c2c/lancaster_pa/Froggy 107.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGTYFMAAC_SC"
+            name: "WHP 580",
+            logo: "stations/images-america/c2c/harrisburg_pa/WHP 580.png",
+            url: "https://stream.revma.ihrhls.com/zc4027/hls.m3u8"
+        },
+        {
+            name: "WEEU 830",
+            logo: "stations/images-america/c2c/lancaster_pa/WEEU 830.png",
+            url: "http://ais-sa2.cdnstream1.com/2350_128.mp3"
         },
         {
             name: "910 WSBA",
-            logo: "stations/images-america/c2c/lancaster_pa/910 WSBA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBAAMAAC_SC"
+            logo: "stations/images-america/c2c/lancaster_pa/WSBA.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBAAMAAC.aac"
+        },
+        {
+            name: "WLAN 1390",
+            logo: "stations/images-america/c2c/lancaster_pa/Rumba 100.5.png",
+            url: "https://stream.revma.ihrhls.com/zc5108"
+        },
+        {
+            name: "WRKY 1490",
+            logo: "stations/images-america/c2c/harrisburg_pa/Rocky 98.5.png",
+            url: "http://216.246.103.221/index.php?u=http://ais-sa1.streamon.fm/7868_96k.aac"
+        },
+        {
+            name: "Radio Visión Cristiana 1580",
+            logo: "stations/images-america/c2c/lancaster_pa/Radio Visión Cristiana 1580.png",
+            url: "http://livestreamcdn.net:2000/stream/RadioVisionCristianaRadio/stream"
         },
     ],
     "philadelphia": [

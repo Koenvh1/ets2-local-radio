@@ -7998,9 +7998,9 @@ var country_properties_c2c = {
         code: "us-pa",
         relative_radius: 0.7
     },
-    "harrisburg": {
-        name: "harrisburg",
-        name_english: "harrisburg",
+    "harrisburg_pa": {
+        name: "harrisburg_pa",
+        name_english: "harrisburg_pa",
         code: "us-pa",
         relative_radius: 0.5
     },
@@ -8014,7 +8014,7 @@ var country_properties_c2c = {
         name: "Lancaster",
         name_english: "Lancaster",
         code: "us-pa",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "philadelphia": {
         name: "philadelphia",
@@ -8824,7 +8824,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "allentown": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "dubois_pa": {
         relative_whitenoise: 0.85
@@ -8832,15 +8832,16 @@ var city_properties_c2c = {
     "erie_pa": {
         relative_whitenoise: 0.85
     },
-    "harrisburg": {
-        relative_whitenoise: 0.85
+    "harrisburg_pa": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "johnstown": {
         relative_whitenoise: 0.85
     },
     "lancaster_pa": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.85
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "philadelphia": {
         relative_whitenoise: 0.85
@@ -10504,9 +10505,17 @@ var cities_c2c = [
         "z": "-23033.8"
     },
     {
-        "gameName": "harrisburg",
+        "gameName": "harrisburg_pa",
         "realName": "Harrisburg",
-        "country": "harrisburg",
+        "country": "harrisburg_pa",
+        "x": "81389.3",
+        "y": "39.4747",
+        "z": "-15847.9"
+    },
+    {
+        "gameName": "harrisburg_pa",
+        "realName": "Harrisburg",
+        "country": "lancaster_pa",
         "x": "81389.3",
         "y": "39.4747",
         "z": "-15847.9"
@@ -10523,17 +10532,17 @@ var cities_c2c = [
         "gameName": "lancaster_pa",
         "realName": "Lancaster",
         "country": "lancaster_pa",
-        "x": "87055.5",
+        "x": "85055.5",
         "y": "38.9515",
-        "z": "-15408.2"
+        "z": "-15908.2"
     },
     {
         "gameName": "lancaster_pa",
         "realName": "Lancaster",
-        "country": "baltimore",
-        "x": "87055.5",
+        "country": "harrisburg_pa",
+        "x": "85055.5",
         "y": "38.9515",
-        "z": "-15408.2"
+        "z": "-15908.2"
     },
     {
         "gameName": "pittsburgh",
@@ -10555,9 +10564,9 @@ var cities_c2c = [
         "gameName": "philadelphia",
         "realName": "Philadelphia",
         "country": "philadelphia",
-        "x": "91052.6",
-        "y": "130.203",
-        "z": "-19044"
+        "x": "89157.5",
+        "y": "39.1962",
+        "z": "-16054.3"
     },
     {
         "gameName": "williamsport_pa",
