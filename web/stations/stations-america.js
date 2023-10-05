@@ -41948,7 +41948,7 @@ var stations_c2c = {
         {
             name: "93.7 WSTW",
             logo: "stations/images-america/c2c/philadelphia_pa/93.7 WSTW.png",
-            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WSTWFMAAC_SC"
+            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7864_96k.aac"
         },
         {
             name: "94WIP",
@@ -42036,9 +42036,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7193/hls.m3u8"
         },
         {
-            name: "Mix 99.5",
-            logo: "stations/images-america/c2c/philadelphia_pa/Mix 99.5.png",
-            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJBRFMAAC_SC"
+            name: "VCY America 99.5",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
         {
             name: "La Kalle 99.9",
