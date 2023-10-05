@@ -6496,7 +6496,7 @@ var stations = {
         {
             name: "107.5 KOLT",
             logo: "stations/images-america/flagstaff/107.5 KOLT.png",
-            url: "http://ice.wbcengineering.com:8119/stream"
+            url: "https://ice.wbcengineering.com:8119/stream"
         },
         {
             name: "Arizona Shine 107.9",
@@ -6506,7 +6506,7 @@ var stations = {
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
         {
             name: "780 KAZM",
@@ -7068,7 +7068,7 @@ var stations = {
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
         {
             name: "KTNN 660",
@@ -8142,7 +8142,7 @@ var stations = {
         {
             name: "93Q",
             logo: "stations/images-america/houston/93Q.png",
-            url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/hou929/hou929-sgplayer-aac"
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBQFMAAC_SC"
         },
         {
             name: "TUDN Radio 93.3",
@@ -15904,7 +15904,7 @@ var stations = {
         {
             name: "1400 ESPN",
             logo: "stations/images-america/santa_fe/1400 ESPN.png",
-            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
     ],
     "santa_maria": [
@@ -27199,7 +27199,7 @@ var stations_c2c = {
         {
             name: "ESPN Coastal 104.3",
             logo: "stations/images-america/c2c/savannah_ga/ESPN Coastal 104.3.png",
-            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
         {
             name: "104.7 The Hawk",
@@ -29648,7 +29648,7 @@ var stations_c2c = {
         {
             name: "1350 ESPN",
             logo: "stations/images-america/c2c/desmoines_ia/1350 ESPN.png",
-            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
         {
             name: "1430 KASI",
@@ -41936,6 +41936,11 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXTUFMAACIHR_SC"
         },
         {
+            name: "WGGT-LP 92.9",
+            logo: "stations/images-america/c2c/philadelphia_pa/WGGT-LP 92.9.png",
+            url: "https://securestreams4.autopo.st:1809/stream"
+        },
+        {
             name: "93.3 WMMR",
             logo: "stations/images-america/c2c/philadelphia_pa/93.3 WMMR.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMMRFMAAC_SC"
@@ -41956,6 +41961,16 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/townsquare-wpstfmaac-ibc3"
         },
         {
+            name: "W262CW 94.9",
+            logo: "stations/images-america/c2c/lancaster_pa/95.3 Hope FM.png",
+            url: "http://ic1.sslstream.com/hope-fm"
+        },
+        {
+            name: "95.3 The Word",
+            logo: "stations/images-america/c2c/philadelphia_pa/The Word.png",
+            url: "https://ice25.securenetsystems.net/WNWR"
+        },
+        {
             name: "95.7 BEN FM",
             logo: "stations/images-america/c2c/philadelphia_pa/95.7 BEN FM.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBENFMAACIHR_SC"
@@ -41974,6 +41989,16 @@ var stations_c2c = {
             name: "Channel Q 96.5-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+        },
+        {
+            name: "W245AG 96.9",
+            logo: "stations/images-america/c2c/harrisburg_pa/88.1 Word FM.png",
+            url: "https://ice23.securenetsystems.net/WORDFM"
+        },
+        {
+            name: "Reach Gospel Radio 96.9",
+            logo: "stations/images-america/c2c/philadelphia_pa/Reach Gospel Radio 96.9.png",
+            url: "https://ice7.securenetsystems.net/WXHL"
         },
         {
             name: "97.5 The Fanatic",
@@ -42034,6 +42059,11 @@ var stations_c2c = {
             name: "B101.1",
             logo: "stations/images-america/c2c/philadelphia_pa/B101.1.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wbebfmaac-imc"
+        },
+        {
+            name: "New Jersey 101.5",
+            logo: "stations/images-america/c2c/philadelphia_pa/New Jersey 101.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wkxwfmaac-ibc3"
         },
         {
             name: "Q102",
@@ -42159,6 +42189,11 @@ var stations_c2c = {
             name: "Súper 1360",
             logo: "stations/images-america/c2c/philadelphia_pa/Súper 1360.png",
             url: "http://192.95.39.65:5383/stream.mp3"
+        },
+        {
+            name: "1540 The Word",
+            logo: "stations/images-america/c2c/philadelphia_pa/The Word.png",
+            url: "http://ice25.securenetsystems.net/WNWR"
         },
     ],
     "williamsport_pa": [
@@ -51678,7 +51713,7 @@ var stations_caribbean = {
         {
             name: "ESPN Radio 100.7-HD2",
             logo: "stations/images-america/caribbean/puerto_rico/sanjuan/ESPN Radio 100.7-HD2.png",
-            url: "https://live.wostreaming.net/manifest/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
         {
             name: "HOT 102",
