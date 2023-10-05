@@ -39256,14 +39256,39 @@ var stations_c2c = {
     ],
     "canton_oh": [
         {
+            name: "WZIP 88.1",
+            logo: "stations/images-america/c2c/canton_oh/WZIP 88.1.png",
+            url: "https://www.streamvortex.com:8444/s/11300"
+        },
+        {
+            name: "Oasis Radio 88.7",
+            logo: "stations/images-america/0_general_logos/Oasis Radio.png",
+            url: "https://oasis.streamguys1.com/live-aac"
+        },
+        {
             name: "WKSU 89.7",
             logo: "stations/images-america/c2c/canton_oh/WKSU 89.7.png",
             url: "https://stream.wksu.org/wksu1.mp3.128"
         },
         {
+            name: "RISE FM 90.1",
+            logo: "stations/images-america/c2c/canton_oh/RISE FM.png",
+            url: "https://ais-sa1.streamon.fm/7123_24k.aac"
+        },
+        {
             name: "Q92",
             logo: "stations/images-america/c2c/canton_oh/Q92.png",
             url: "https://live.wostreaming.net/direct/dapeterson-wdjqfmaac-ibc4"
+        },
+        {
+            name: "93.1 WZAK",
+            logo: "stations/images-america/c2c/cleveland_oh/93.1 WZAK.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WZAKFMAAC_SC"
+        },
+        {
+            name: "Living Bread Radio 94.5",
+            logo: "stations/images-america/c2c/canton_oh/Living Bread Radio.png",
+            url: "https://ic2.sslstream.com/wilb-am"
         },
         {
             name: "Mix 94.1",
@@ -39274,6 +39299,26 @@ var stations_c2c = {
             name: "94.9 WQMX",
             logo: "stations/images-america/c2c/cleveland_oh/94.9 WQMX.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQMXFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 95.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "96.5 KISS FM",
+            logo: "stations/images-america/c2c/cleveland_oh/96.5 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc1729/hls.m3u8"
+        },
+        {
+            name: "97.5 WONE",
+            logo: "stations/images-america/c2c/cleveland_oh/97.5 WONE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WONEFMAAC_SC"
+        },
+        {
+            name: "98.1 KDD",
+            logo: "stations/images-america/c2c/cleveland_oh/98.1 KDD.png",
+            url: "https://stream.revma.ihrhls.com/zc1685/hls.m3u8"
         },
         {
             name: "99.7",
@@ -39291,14 +39336,54 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/WQKT"
         },
         {
+            name: "K105",
+            logo: "stations/images-america/c2c/youngstown_oh/K105.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQXKFMAAC_SC"
+        },
+        {
             name: "Rock 106.9",
             logo: "stations/images-america/c2c/canton_oh/Rock 106.9.png",
             url: "https://stream.revma.ihrhls.com/zc3294/hls.m3u8"
         },
         {
+            name: "570 WKBN",
+            logo: "stations/images-america/c2c/youngstown_oh/570 WKBN.png",
+            url: "https://stream.revma.ihrhls.com/zc1869/hls.m3u8"
+        },
+        {
+            name: "AM 600 The Patriot",
+            logo: "stations/images-america/c2c/youngstown_oh/AM 600 The Patriot.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRQXAMAAC_SC"
+        },
+        {
+            name: "640 WHLO",
+            logo: "stations/images-america/c2c/canton_oh/640 WHLO.png",
+            url: "https://stream.revma.ihrhls.com/zc3520/hls.m3u8"
+        },
+        {
+            name: "ESPN 850",
+            logo: "stations/images-america/c2c/cleveland_oh/ESPN 850.png",
+            url: "https://live.wostreaming.net/direct/goodkarma-wknramaac-ibc2"
+        },
+        {
+            name: "Living Bread Radio 1060",
+            logo: "stations/images-america/c2c/canton_oh/Living Bread Radio.png",
+            url: "http://ic2.sslstream.com/wilb-am"
+        },
+        {
+            name: "1220 The Word",
+            logo: "stations/images-america/c2c/cleveland_oh/The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHKWAMAAC_SC"
+        },
+        {
             name: "1480 WHBC",
             logo: "stations/images-america/c2c/canton_oh/1480 WHBC.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/alphacorporate-whbcamaac-ibc4"
+        },
+        {
+            name: "1590 WAKR",
+            logo: "stations/images-america/c2c/canton_oh/1590 WAKR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC"
         },
     ],
     "cincinnati": [
@@ -39465,6 +39550,11 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wkrkfmaac-imc"
         },
         {
+            name: "93.1 WZAK",
+            logo: "stations/images-america/c2c/cleveland_oh/93.1 WZAK.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WZAKFMAAC_SC"
+        },
+        {
             name: "94.9 WQMX",
             logo: "stations/images-america/c2c/cleveland_oh/94.9 WQMX.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQMXFMAAC_SC"
@@ -39478,6 +39568,11 @@ var stations_c2c = {
             name: "96.5 KISS FM",
             logo: "stations/images-america/c2c/cleveland_oh/96.5 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc1729/hls.m3u8"
+        },
+        {
+            name: "96.9 The Word",
+            logo: "stations/images-america/c2c/cleveland_oh/The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHKWAMAAC_SC"
         },
         {
             name: "97.5 WONE",
@@ -39568,6 +39663,16 @@ var stations_c2c = {
             name: "107.3 Alternative Cleveland",
             logo: "stations/images-america/c2c/cleveland_oh/107.3 Alternative Cleveland.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNWVFMAAC_SC"
+        },
+        {
+            name: "ESPN 850",
+            logo: "stations/images-america/c2c/cleveland_oh/ESPN 850.png",
+            url: "https://live.wostreaming.net/direct/goodkarma-wknramaac-ibc2"
+        },
+        {
+            name: "1220 The Word",
+            logo: "stations/images-america/c2c/cleveland_oh/The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHKWAMAAC.aac"
         },
     ],
     "columbus_oh": [
@@ -40140,8 +40245,13 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1869/hls.m3u8"
         },
         {
+            name: "AM 600 The Patriot",
+            logo: "stations/images-america/c2c/youngstown_oh/AM 600 The Patriot.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRQXAMAAC_SC"
+        },
+        {
             name: "640 WHLO",
-            logo: "stations/images-america/c2c/youngstown_oh/640 WHLO.png",
+            logo: "stations/images-america/c2c/canton_oh/640 WHLO.png",
             url: "https://stream.revma.ihrhls.com/zc3520/hls.m3u8"
         },
         {
