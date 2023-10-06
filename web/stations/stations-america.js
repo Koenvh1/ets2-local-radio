@@ -39732,9 +39732,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1765"
         },
         {
-            name: "WGRN 94.1",
-            logo: "stations/images-america/c2c/columbus_oh/WGRN 94.1.png",
-            url: "https://wgrnlp.out.airtime.pro/wgrnlp_a"
+            name: "W236CZ 94.1",
+            logo: "stations/images-america/c2c/columbus_oh/Star 95.1.png",
+            url: "http://live.wostreaming.net/manifest/nabco-wjkrhd2aac-ibc"
         },
         {
             name: "Sunny 95",
