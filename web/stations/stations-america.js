@@ -35435,11 +35435,6 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOFMAAC_SC"
         },
         {
-            name: "95.7 The Vibe",
-            logo: "stations/images-america/c2c/kansascity_mo/95.7 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCHZFMAAC_SC"
-        },
-        {
             name: "KCNW 96.1",
             logo: "stations/images-america/c2c/kansascity_mo/KCNW 96.1.png",
             url: "https://ice24.securenetsystems.net/KCNWFM"
@@ -35522,7 +35517,7 @@ var stations_c2c = {
         {
             name: "Power 105.1",
             logo: "stations/images-america/c2c/kansascity_mo/Power 105.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCJKFMAAC_SC"
         },
         {
             name: "105.9 KISS FM",
@@ -35543,6 +35538,11 @@ var stations_c2c = {
             name: "RNB 106.9",
             logo: "stations/images-america/c2c/kansascity_mo/RNB 106.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC_SC"
+        },
+        {
+            name: "107.3 The Vibe",
+            logo: "stations/images-america/c2c/kansascity_mo/107.3 The Vibe.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
         },
         {
             name: "610 Sports Radio",
@@ -36887,8 +36887,8 @@ var stations_c2c = {
             url: "https://corus.leanstream.co/CINGFM"
         },
         {
-            name: "Star 96.1",
-            logo: "stations/images-america/c2c/buffalo_ny/Star 96.1.png",
+            name: "The New 96.1",
+            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1_christmas.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wmsxfmaac-ibc3"
         },
         {
@@ -39772,6 +39772,11 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/nabco-wjkrfmaac-ibc4"
         },
         {
+            name: "104.7 The Big Lick",
+            logo: "stations/images-america/c2c/columbus_oh/104.7 The Big Lick.png",
+            url: "http://216.246.103.221/index.php?u=https://ic2.sslstream.com/wclt-h2"
+        },
+        {
             name: "Throwback 105.3",
             logo: "stations/images-america/c2c/columbus_oh/Throwback 105.3.png",
             url: "https://stream.revma.ihrhls.com/zc7305/hls.m3u8"
@@ -39780,6 +39785,11 @@ var stations_c2c = {
             name: "Columbus Alternative 105.7",
             logo: "stations/images-america/c2c/columbus_oh/Columbus Alternative 105.7.png",
             url: "https://stream.revma.ihrhls.com/zc2946/hls.m3u8"
+        },
+        {
+            name: "Pride Radio 105.7-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
             name: "106.7 The Beat",
