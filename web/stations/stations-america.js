@@ -39844,7 +39844,7 @@ var stations_c2c = {
         {
             name: "Throwback 105.3",
             logo: "stations/images-america/c2c/columbus_oh/Throwback 105.3.png",
-            url: "https://stream.revma.ihrhls.com/zc7305/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc8752/hls.m3u8"
         },
         {
             name: "Columbus Alternative 105.7",
