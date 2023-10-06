@@ -39677,14 +39677,39 @@ var stations_c2c = {
     ],
     "columbus_oh": [
         {
+            name: "afr Talk 88.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
+        },
+        {
+            name: "RadioU 88.7",
+            logo: "stations/images-america/0_general_logos/RadioU.png",
+            url: "https://s5.reliastream.com/proxy/live?mp=/stream"
+        },
+        {
             name: "89.7 NPR News",
             logo: "stations/images-america/c2c/columbus_oh/89.7 NPR News.png",
             url: "https://wosu.streamguys1.com/NPR_128"
         },
         {
+            name: "89.7 WOSU-HD2",
+            logo: "stations/images-america/c2c/columbus_oh/Classical 101.png",
+            url: "http://wosu.streamguys1.com/Classical_128"
+        },
+        {
             name: "90.5 WCBE",
             logo: "stations/images-america/c2c/columbus_oh/90.5 WCBE.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBEFM_SC"
+        },
+        {
+            name: "91.5 Freedom FM",
+            logo: "stations/images-america/c2c/columbus_oh/91.5 Freedom FM.png",
+            url: "https://ic2.sslstream.com/whkc-fm"
+        },
+        {
+            name: "91.9 WGRN",
+            logo: "stations/images-america/c2c/columbus_oh/91.9 WGRN.png",
+            url: "https://wgrnlp.out.airtime.pro/wgrnlp_a"
         },
         {
             name: "92.3 WCOL",
@@ -39702,6 +39727,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1761/hls.m3u8"
         },
         {
+            name: "93.3 WODC-HD2",
+            logo: "stations/images-america/c2c/columbus_oh/610 WTVN.png",
+            url: "https://stream.revma.ihrhls.com/zc1765"
+        },
+        {
             name: "WGRN 94.1",
             logo: "stations/images-america/c2c/columbus_oh/WGRN 94.1.png",
             url: "https://wgrnlp.out.airtime.pro/wgrnlp_a"
@@ -39715,6 +39745,16 @@ var stations_c2c = {
             name: "Star 95.1",
             logo: "stations/images-america/c2c/columbus_oh/Star 95.1.png",
             url: "https://live.wostreaming.net/manifest/nabco-wjkrhd2aac-ibc"
+        },
+        {
+            name: "Magic 95.5",
+            logo: "stations/images-america/c2c/columbus_oh/Magic 95.5.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXMGFMAAC_SC"
+        },
+        {
+            name: "W240CX 95.9",
+            logo: "stations/images-america/c2c/columbus_oh/95.5 The Fish.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFHMFMAAC_SC"
         },
         {
             name: "Qfm 96",
@@ -39732,9 +39772,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1753/hls.m3u8"
         },
         {
-            name: "Spin Cycle 97.9-HD2",
-            logo: "stations/images-america/c2c/columbus_oh/Spin Cycle 97.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4776/hls.m3u8"
+            name: "WCRS 98.3",
+            logo: "stations/images-america/c2c/columbus_oh/WCRS 92.7.png",
+            url: "http://stream.wcrsfm.org:8000/wcrs_lowbandwidth"
         },
         {
             name: "Jazz 98.5",
@@ -39747,9 +39787,24 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTOHFMAAC_SC"
         },
         {
+            name: "Air1 99.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "99.7 The Blitz",
             logo: "stations/images-america/c2c/columbus_oh/99.7 The Blitz.png",
             url: "https://live.wostreaming.net/manifest/nabco-wrkzfmaac-ibc4"
+        },
+        {
+            name: "T-100",
+            logo: "stations/images-america/c2c/columbus_oh/T-100.png",
+            url: "http://216.246.103.221/index.php?u=https://ic2.sslstream.com/wclt-fm"
+        },
+        {
+            name: "100.3 WCLT-HD2",
+            logo: "stations/images-america/c2c/columbus_oh/104.7 The Big Lick.png",
+            url: "http://216.246.103.221/index.php?u=https://ic2.sslstream.com/wclt-h2"
         },
         {
             name: "Classical 101",
@@ -39762,6 +39817,11 @@ var stations_c2c = {
             url: "https://us2.maindigitalstream.com/ssl/WNKO"
         },
         {
+            name: "La Grande 102.5",
+            logo: "stations/images-america/c2c/columbus_oh/La Grande 102.5.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWLGFMAAC_SC"
+        },
+        {
             name: "Rewind 103.5",
             logo: "stations/images-america/c2c/columbus_oh/Rewind 103.5.png",
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/saga-wnndfmaac-ibc2"
@@ -39772,9 +39832,14 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/nabco-wjkrfmaac-ibc4"
         },
         {
-            name: "104.7 The Big Lick",
-            logo: "stations/images-america/c2c/columbus_oh/104.7 The Big Lick.png",
-            url: "http://216.246.103.221/index.php?u=https://ic2.sslstream.com/wclt-h2"
+            name: "The Word 104.5",
+            logo: "stations/images-america/c2c/columbus_oh/The Word 880.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRFDAMAAC_SC"
+        },
+        {
+            name: "104.9 The River",
+            logo: "stations/images-america/c2c/columbus_oh/104.9 The River.png",
+            url: "https://hls.riverradio.com/live/wcvofmaac.stream/playlist.m3u8"
         },
         {
             name: "Throwback 105.3",
@@ -39792,9 +39857,24 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
+            name: "Power 106.3",
+            logo: "stations/images-america/c2c/columbus_oh/Power 106.3.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WCKXFMAAC_SC"
+        },
+        {
             name: "106.7 The Beat",
             logo: "stations/images-america/c2c/columbus_oh/106.7 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc3632/hls.m3u8"
+        },
+        {
+            name: "Joy 107.1",
+            logo: "stations/images-america/c2c/columbus_oh/Joy 107.1.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJYDFMAAC_SC"
+        },
+        {
+            name: "Power 107.5",
+            logo: "stations/images-america/c2c/columbus_oh/Power 106.3.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WCKXFMAAC.aac"
         },
         {
             name: "Mix 107.9",
@@ -39807,6 +39887,21 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1765/hls.m3u8"
         },
         {
+            name: "700 WLW",
+            logo: "stations/images-america/c2c/dayton_oh/700 WLW.png",
+            url: "https://stream.revma.ihrhls.com/zc1713/hls.m3u8"
+        },
+        {
+            name: "St. Gabriel Radio 820",
+            logo: "stations/images-america/c2c/columbus_oh/St. Gabriel Radio 820.png",
+            url: "https://us2.maindigitalstream.com/ssl/SGCR"
+        },
+        {
+            name: "The Word 880",
+            logo: "stations/images-america/c2c/columbus_oh/The Word 880.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRFDAMAAC.aac"
+        },
+        {
             name: "FOX Sports 920",
             logo: "stations/images-america/c2c/columbus_oh/FOX Sports 920.png",
             url: "https://live.wostreaming.net/manifest/nabco-wmniamaac-ibc4"
@@ -39815,6 +39910,11 @@ var stations_c2c = {
             name: "BIN 1230",
             logo: "stations/images-america/c2c/columbus_oh/BIN 1230.png",
             url: "https://stream.revma.ihrhls.com/zc7305/hls.m3u8"
+        },
+        {
+            name: "WBNS 1460",
+            logo: "stations/images-america/c2c/columbus_oh/97.1 The Fan.png",
+            url: "http://radiohio.streamguys1.com/cols/wbnsfm.mp3"
         },
     ],
     "dayton": [
