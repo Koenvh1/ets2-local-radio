@@ -36673,6 +36673,11 @@ var stations_c2c = {
     ],
     "albany": [
         {
+            name: "88.3 The Saint",
+            logo: "stations/images-america/c2c/albany_ny/88.3 The Saint.png",
+            url: "https://stream.revma.ihrhls.com/zc6306/hls.m3u8"
+        },
+        {
             name: "Classical WMHT 89.1",
             logo: "stations/images-america/c2c/poughkeepsie_ny/Classical WMHT 89.1.png",
             url: "https://wmht.streamguys1.com/wmht1"
@@ -36703,14 +36708,34 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7817_128k.aac"
         },
         {
-            name: "K94.1",
-            logo: "stations/images-america/c2c/albany_ny/K94.1.png",
-            url: "https://stream.radiojar.com/64pdhr32pbruv"
+            name: "Air1 93.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "VPR 94.3",
+            logo: "stations/images-america/0_general_logos/VPR.png",
+            url: "https://vpr.streamguys1.com/vpr64.aac"
+        },
+        {
+            name: "VPR Classical 94.3-HD2",
+            logo: "stations/images-america/0_general_logos/VPR.png",
+            url: "http://vprclassical.streamguys.net/vprclassical128.mp3"
+        },
+        {
+            name: "K-LOVE 94.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "The Sound of Life 94.9",
+            logo: "stations/images-america/c2c/albany_ny/The Sound of Life 94.9.png",
+            url: "https://ice64.securenetsystems.net/WFGB"
         },
         {
             name: "B95.5",
             logo: "stations/images-america/c2c/albany_ny/B95.5.png",
-            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYJBFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/7821_128k.aac"
         },
         {
             name: "FOX Sports 95.9",
@@ -36718,19 +36743,34 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1425/hls.m3u8"
         },
         {
+            name: "JAMZ 96.3",
+            logo: "stations/images-america/c2c/albany_ny/JAMZ 96.3.png",
+            url: "https://ais-sa1.streamon.fm/7816_128k.aac"
+        },
+        {
+            name: "Mars Hill Radio 96.7",
+            logo: "stations/images-america/c2c/albany_ny/Mars Hill Radio 96.7.png",
+            url: "https://ic1.christiannetcast.com/wmhr-ir"
+        },
+        {
+            name: "Northeast Gospel 97.5",
+            logo: "stations/images-america/c2c/albany_ny/Northeast Gospel 97.5.png",
+            url: "https://ice66.securenetsystems.net/WVVC"
+        },
+        {
+            name: "Exit 97.7",
+            logo: "stations/images-america/c2c/albany_ny/Exit 97.7.png",
+            url: "https://wmht.streamguys1.com/wext1"
+        },
+        {
             name: "98.3 TRY",
             logo: "stations/images-america/c2c/albany_ny/98.3 TRY.png",
             url: "https://stream.revma.ihrhls.com/zc1437/hls.m3u8"
         },
         {
-            name: "The Breeze 98.3-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        {
-            name: "iHeart Christmas Classics 98.3-HD3",
-            logo: "stations/images-america/c2c/albany_ny/iHeart Christmas Classics 98.3-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc6137/hls.m3u8"
+            name: "98.5 The Cat",
+            logo: "stations/images-america/c2c/albany_ny/98.5 The Cat.png",
+            url: "https://stream.revma.ihrhls.com/zc5128/hls.m3u8"
         },
         {
             name: "Talk 98.7",
@@ -36753,12 +36793,22 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6780/hls.m3u8"
         },
         {
+            name: "Magic 100.5",
+            logo: "stations/images-america/c2c/albany_ny/Magic 100.5.png",
+            url: "https://ais-sa1.streamon.fm/7820_128k.aac"
+        },
+        {
+            name: "100.9 The Cat",
+            logo: "stations/images-america/c2c/albany_ny/100.9 The Cat.png",
+            url: "https://ais-sa1.streamon.fm/7819_128k.aac"
+        },
+        {
             name: "KISS 102.3",
             logo: "stations/images-america/c2c/albany_ny/KISS 102.3.png",
             url: "https://stream.revma.ihrhls.com/zc1421/hls.m3u8"
         },
         {
-            name: "iHeart10s 102.3-HD2",
+            name: "iHeart 10s 102.3-HD2",
             logo: "stations/images-america/0_general_logos/iHeart10s.png",
             url: "https://stream.revma.ihrhls.com/zc8478/hls.m3u8"
         },
@@ -36766,6 +36816,11 @@ var stations_c2c = {
             name: "103.1 WGY",
             logo: "stations/images-america/c2c/albany_ny/103.1 WGY.png",
             url: "https://stream.revma.ihrhls.com/zc1413/hls.m3u8"
+        },
+        {
+            name: "Q103.5",
+            logo: "stations/images-america/c2c/albany_ny/Q105.7.png",
+            url: "https://live.wostreaming.net/manifest/townsquare-wqbkfmaac-ibc3"
         },
         {
             name: "103.9 The Breeze",
@@ -36790,7 +36845,7 @@ var stations_c2c = {
         {
             name: "Q105.7",
             logo: "stations/images-america/c2c/albany_ny/Q105.7.png",
-            url: "https://live.wostreaming.net/manifest/townsquare-wqbkfmaac-ibc3"
+            url: "http://live.wostreaming.net/manifest/townsquare-wqbkfmaac-ibc3"
         },
         {
             name: "PYX 106",
@@ -36798,9 +36853,54 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1429/hls.m3u8"
         },
         {
-            name: "107.7 WGNA",
-            logo: "stations/images-america/c2c/albany_ny/107.7 WGNA.png",
+            name: "WOAA-LP 106.9",
+            logo: "stations/images-america/c2c/albany_ny/WOAA-LP 106.9.png",
+            url: "http://stream.woocfm.org:8000/wooc"
+        },
+        {
+            name: "107.1 The Cat",
+            logo: "stations/images-america/c2c/albany_ny/100.9 The Cat.png",
+            url: "http://ais-sa1.streamon.fm/7819_128k.aac"
+        },
+        {
+            name: "WCAA-LP 107.3",
+            logo: "stations/images-america/c2c/albany_ny/WCAA-LP 107.3.png",
+            url: "https://stream.pacificaservice.org:9000/wcaa_128"
+        },
+        {
+            name: "107.7 GNA",
+            logo: "stations/images-america/c2c/albany_ny/107.7 GNA.png",
             url: "https://live.wostreaming.net/manifest/townsquare-wgnafmaac-ibc3"
+        },
+        {
+            name: "Magic 590",
+            logo: "stations/images-america/c2c/albany_ny/Magic 100.5.png",
+            url: "http://ais-sa1.streamon.fm/7820_128k.aac"
+        },
+        {
+            name: "810 WGY",
+            logo: "stations/images-america/c2c/albany_ny/103.1 WGY.png",
+            url: "https://stream.revma.ihrhls.com/zc1413"
+        },
+        {
+            name: "WABY 900",
+            logo: "stations/images-america/c2c/albany_ny/Star Radio.png",
+            url: "https://stream.radiojar.com/xq99e4h1v8quv"
+        },
+        {
+            name: "FOX Sports 980",
+            logo: "stations/images-america/c2c/albany_ny/FOX Sports 95.9.png",
+            url: "https://stream.revma.ihrhls.com/zc1425"
+        },
+        {
+            name: "Talk 1300",
+            logo: "stations/images-america/c2c/albany_ny/Talk 98.7.png",
+            url: "https://ic2.mainstreamnetwork.com/wgdj-am"
+        },
+        {
+            name: "Alive Radio 1330",
+            logo: "stations/images-america/c2c/albany_ny/Alive Radio 1330.png",
+            url: "https://s47.myradiostream.com/14958/listen.mp3"
         },
         {
             name: "NOAA Weather Radio Albany",
@@ -37612,8 +37712,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7835_128k.aac"
         },
         {
-            name: "Country 107.3",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/Country 107.3.png",
+            name: "107.3 WRWD",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/107.3 WRWD.png",
             url: "https://stream.revma.ihrhls.com/zc1497/hls.m3u8"
         },
     ],
