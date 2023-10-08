@@ -32735,7 +32735,7 @@ var stations_c2c = {
         {
             name: "WPGC 95.5-HD2",
             logo: "stations/images-america/c2c/washington_dc/106.7 The Fan.png",
-            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
         },
         {
             name: "WHUR 96.3",
