@@ -556,7 +556,7 @@ var stations = {
         {
             name: "NRJ Belgique",
             logo: "stations/images-europe/belgium-fr/Energy.png",
-            url: "https://streamingp.shoutcast.com/NRJ-aac"
+            url: "https://stream.rcs.revma.com/xh00fwuptg0uv"
         },
         {
             name: "Radio Contact",
@@ -1388,7 +1388,7 @@ var stations = {
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "https://digitacdn.akamaized.net/hls/live/629243/radiorock/master.m3u8"
+            url: "https://ms-live-radiorock.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
             name: "Radio Suomipop",
@@ -1672,7 +1672,7 @@ var stations = {
         {
             name: "Radio Palitra",
             logo: "stations/images-europe/georgia/Radio Palitra.png",
-            url: "https://radio1.palitra.ge:8443/stream.mp3"
+            url: "https://radiostream.palitra.ge/stream.mp3"
         },/*
         {
             name: "Sputnik Абхазия",
@@ -3450,7 +3450,7 @@ var stations = {
         {
             name: "89.7 Bay",
             logo: "stations/images-europe/malta/89.7 Bay.png",
-            url: "https://stream.v3.network:18022/;"
+            url: "https://stream.v3.network/proxy/897bay/stream.mp3"
         },
         {
             name: "BKR 94.5",
@@ -3515,7 +3515,7 @@ var stations = {
         {
             name: "Radju Ghazziela",
             logo: "stations/images-europe/malta/Radju Ghazziela.png",
-            url: "http://freeuk23.listen2myradio.com:27074/;"
+            url: "http://freeuk30.listen2myradio.com:14100/;"
         },
         {
             name: "Radio LBV 104",
@@ -3603,12 +3603,12 @@ var stations = {
             name: "Radio Svetigora",
             logo: "stations/images-europe/mnegro/Radio Svetigora.png",
             url: "https://svetigoralive.com/Radio%20Svetigora;"
-        },
+        },/*
         {
             name: "Srpski Radio",
             logo: "stations/images-europe/mnegro/Srpski Radio.png",
             url: "http://188.166.30.166:8000/stream"
-        },
+        },*/
         {
             name: "TDI Radio",
             logo: "stations/images-europe/mnegro/TDI Radio.png",
@@ -4982,9 +4982,9 @@ var stations = {
             url: "https://radios.lamaster.es:8000/madrid"
         },
         {
-            name: "La Equis 95.4",
-            logo: "stations/images-europe/spain-madrid/La Equis 95.4.png",
-            url: "https://babel.ddns.net/laequis"
+            name: "Loca Urban 95.4",
+            logo: "stations/images-europe/spain/Loca Urban.png",
+            url: "http://locafm02.we4stream.com:8015/live"
         },
         {
             name: "La Suegra FM 96.7",
