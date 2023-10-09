@@ -1458,7 +1458,7 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "ViBE 98.1",
+            name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
@@ -9324,6 +9324,11 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-kflgfmaac-ibc3"
         },
         {
+            name: "KZKE 95.1",
+            logo: "stations/images-america/kingman/KZKE 95.1.png",
+            url: "http://104.166.13.119:8000/stream/3/"
+        },
+        {
             name: "95.5 Jack FM",
             logo: "stations/images-america/kingman/95.5 Jack FM.png",
             url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
@@ -9347,6 +9352,11 @@ var stations = {
             name: "K-STAR 99.3",
             logo: "stations/images-america/kingman/K-STAR 99.3.png",
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/cameron-kflgamaac-ibc3"
+        },
+        {
+            name: "Super Country 100.1",
+            logo: "stations/images-america/kingman/Super Country 100.1.png",
+            url: "http://104.166.13.119:8000/stream/2/"
         },
         {
             name: "Air1 101.3",
@@ -9503,7 +9513,7 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "ViBE 98.1",
+            name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
@@ -10077,8 +10087,8 @@ var stations = {
             url: "https://streaming.live365.com/a48408"
         },
         {
-            name: "LasVegas.net Radio 99.7-HD2",
-            logo: "stations/images-america/las_vegas/LasVegas.net Radio 99.7-HD2.png",
+            name: "LasVegas.net 99.7-HD2",
+            logo: "stations/images-america/las_vegas/LasVegas.net 99.7-HD2.png",
             url: "https://lvradio.lvonline.com/stream"
         },
         {
@@ -11085,7 +11095,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
-            name: "ViBE 98.1",
+            name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
@@ -12502,6 +12512,48 @@ var stations = {
             name: "The Spur 940",
             logo: "stations/images-america/freedom/The Spur 106.7.png",
             url: "https://svinews.com:8443/spur"
+        },
+    ],
+    "needles": [
+        {
+            name: "Air1 89.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "KNLB 91.3",
+            logo: "stations/images-america/barstow/KNLB 90.9.png",
+            url: "https://ic1.sslstream.com/knlb-fm"
+        },
+        {
+            name: "CSN Radio 91.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "3ABN 92.5",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "KHWY 98.9",
+            logo: "stations/images-america/las_vegas/ViBE.png",
+            url: "https://streaming.live365.com/a48408"
+        },
+        {
+            name: "103.9 Jack FM",
+            logo: "stations/images-america/kingman/95.5 Jack FM.png",
+            url: "http://stream.affordablestreaming.com:8000/KPKR.mp3"
+        },
+        {
+            name: "KYET 1170",
+            logo: "stations/images-america/needles/KYET 1170.png",
+            url: "http://104.166.13.119:8000/stream"
+        },
+        {
+            name: "KTOX 1340",
+            logo: "stations/images-america/needles/KTOX 1340.png",
+            url: "http://streaming.rubinbroadcasting.com/ktox"
         },
     ],
     "newport": [
@@ -19561,6 +19613,11 @@ var stations = {
             name: "HD 96.3",
             logo: "stations/images-america/victorville/HD 96.3.png",
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/eldorado-katjhd2aac-ibc2?source=v7player"
+        },
+        {
+            name: "KRXV 98.1",
+            logo: "stations/images-america/las_vegas/ViBE.png",
+            url: "https://streaming.live365.com/a48408"
         },
         {
             name: "99.1 KGGI",
@@ -42359,6 +42416,11 @@ var stations_c2c = {
             name: "95.7 BEN FM",
             logo: "stations/images-america/c2c/philadelphia_pa/95.7 BEN FM.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBENFMAACIHR_SC"
+        },
+        {
+            name: "95.7 WBEN-HD2",
+            logo: "stations/images-america/c2c/philadelphia_pa/WJBR.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJBRFMAAC_SC"
         },
         {
             name: "96.1 WURD",

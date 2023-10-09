@@ -3809,6 +3809,14 @@ var cities = [
     {
         "gameName": "needles",
         "realName": "Needles",
+        "country": "needles",
+        "x": "-85257.7",
+        "y": "34.4319",
+        "z": "14889.6"
+    },
+    {
+        "gameName": "needles",
+        "realName": "Needles",
         "country": "kingman",
         "x": "-85257.7",
         "y": "34.4319",
