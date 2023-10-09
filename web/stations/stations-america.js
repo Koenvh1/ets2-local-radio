@@ -12799,7 +12799,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHAYFMAAC_SC"
         },
         {
-            name: "K-Lite 101.7",
+            name: "K-LITE 101.7",
             logo: "stations/images-america/oxnard/K-Lite 101.7.png",
             url: "http://216.246.103.221/index.php?u=http://ice64.securenetsystems.net/KSBL"
         },
@@ -12839,6 +12839,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLYYFMAAC_SC"
         },
         {
+            name: "Radio Bronco 107.7",
+            logo: "stations/images-america/riverside/Radio Bronco 107.7.png",
+            url: "http://216.246.103.221/index.php?u=https://ice24.securenetsystems.net/KIST"
+        },
+        {
             name: "Oasis Radio 107.9",
             logo: "stations/images-america/oxnard/Oasis Radio 107.9.png",
             url: "https://centova.hostingelectrica.net/proxy/hmarti00/stream"
@@ -12847,6 +12852,11 @@ var stations = {
             name: "AM 870 The Answer",
             logo: "stations/images-america/los_angeles/AM 870 The Answer.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
+        },
+        {
+            name: "Old School 1490",
+            logo: "stations/images-america/oxnard/Old School 1490.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KQIE"
         },
         {
             name: "1590 KVTA",
