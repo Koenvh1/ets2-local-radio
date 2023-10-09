@@ -1458,8 +1458,8 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "VIBE 98.1",
-            logo: "stations/images-america/barstow/VIBE.png",
+            name: "ViBE 98.1",
+            logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
@@ -9503,8 +9503,8 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "VIBE 98.1",
-            logo: "stations/images-america/barstow/VIBE.png",
+            name: "ViBE 98.1",
+            logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
@@ -9932,8 +9932,8 @@ var stations = {
     ],
     "las_vegas": [
         {
-            name: "ACiD 87.7",
-            logo: "stations/images-america/las_vegas/ACiD 87.7.png",
+            name: "CLUB 87.7",
+            logo: "stations/images-america/las_vegas/Club 87.7.png",
             url: "https://s5.radio.co/s0451af336/listen"
         },
         {
@@ -10072,8 +10072,8 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=http://live.wostreaming.net/direct/univision-krgtfmaac-imc2"
         },
         {
-            name: "VIBE 99.7",
-            logo: "stations/images-america/barstow/VIBE.png",
+            name: "ViBE 99.7",
+            logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
@@ -11085,8 +11085,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
-            name: "VIBE 98.1",
-            logo: "stations/images-america/barstow/VIBE.png",
+            name: "ViBE 98.1",
+            logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://streaming.live365.com/a48408"
         },
         {
