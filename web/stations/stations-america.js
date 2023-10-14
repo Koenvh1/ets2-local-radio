@@ -43029,9 +43029,9 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WITKFM"
         },
         {
-            name: "La Mega 94.9",
-            logo: "stations/images-america/c2c/scranton_pa/La Mega 94.9.png",
-            url: "https://radio3.domint.net:8128/stream"
+            name: "Hola Radio 94.9",
+            logo: "stations/images-america/c2c/scranton_pa/Hola Radio.png",
+            url: "https://isrd.internetsolutionsrd.com/8010/stream"
         },
         {
             name: "HOT 97.1",
