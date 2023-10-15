@@ -153,9 +153,9 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KAMA"
         },
         {
-            name: "Infinity FM 101.7-HD2",
-            logo: "stations/images-america/abilene/Infinity FM 101.7-HD2.png",
-            url: "https://ice42.securenetsystems.net/KHDD"
+            name: "101.7 KAMA-HD2",
+            logo: "stations/images-america/abilene/NewsTalk 1560.png",
+            url: "https://ice42.securenetsystems.net/KEMP"
         },
         {
             name: "FOX Sports 101.7-HD3",
@@ -186,6 +186,11 @@ var stations = {
             name: "106.3 The Raider",
             logo: "stations/images-america/abilene/106.3 The Raider.png",
             url: "https://ice41.securenetsystems.net/KTJKHD1"
+        },
+        {
+            name: "Infinity FM 106.3-HD2",
+            logo: "stations/images-america/abilene/Infinity FM 106.3-HD2.png",
+            url: "https://ice42.securenetsystems.net/KHDD"
         },
         {
             name: "Rock 108",
