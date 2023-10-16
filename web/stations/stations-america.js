@@ -12865,7 +12865,7 @@ var stations = {
         },
         {
             name: "Radio Bronco 107.7",
-            logo: "stations/images-america/riverside/Radio Bronco 107.7.png",
+            logo: "stations/images-america/oxnard/Radio Bronco 107.7.png",
             url: "http://216.246.103.221/index.php?u=https://ice24.securenetsystems.net/KIST"
         },
         {
@@ -21774,12 +21774,12 @@ var stations_mexico = {
         {
             name: "La Campera 92.9",
             logo: "stations/images-america/mexico/jimenez/La Campera 92.9.png",
-            url: "https://stream.zeno.fm/nehhbkfd6zhvv"
+            url: "https://sp5.servidorrprivado.com/8773/stream"
         },
         {
             name: "Halcón Stereo 104.3",
             logo: "stations/images-america/mexico/jimenez/Halcón Stereo 104.3.png",
-            url: "http://167.114.173.72:8054/;type=mp3"
+            url: "https://radioenhd.com/8054/stream"
         },	
         {
             name: "Ke Buena 105.1",
