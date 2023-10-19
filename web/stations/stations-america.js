@@ -17202,6 +17202,11 @@ var stations = {
             url: "https://stream.pacificaservice.org:9000/kbcs"
         },
         {
+            name: "BBC World Service 91.3-HD2",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+        },
+        {
             name: "MOViN 92.5",
             logo: "stations/images-america/seattle/MOViN 92.5.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQMVFMAAC_SC"
@@ -17237,11 +17242,6 @@ var stations = {
             url: "http://stream.revma.ihrhls.com/zc2565/hls.m3u8"
         },
         {
-            name: "The Breeze 95.7-HD3",
-            logo: "stations/images-america/seattle/The Breeze 95.7-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        {
             name: "96.5 Jack FM",
             logo: "stations/images-america/seattle/96.5 Jack FM.png",
             url: "https://stream.revma.ihrhls.com/zc7788/hls.m3u8"
@@ -17257,9 +17257,14 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2643_48.aac"
         },
         {
-            name: "Latter-day Saints Channel 97.3-HD2",
-            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
-            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
+            name: "97.3 KIRO-HD2",
+            logo: "stations/images-america/seattle/Seattle Sports 710.png",
+            url: "http://bonneville.cdnstream1.com/2642_48.aac"
+        },
+        {
+            name: "97.3 KIRO-HD3",
+            logo: "stations/images-america/seattle/770 KTTH.png",
+            url: "http://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
             name: "Northwest Newsradio 97.7",
@@ -17285,6 +17290,11 @@ var stations = {
             name: "Tulalip Sportsbook Radio 98.9-HD2",
             logo: "stations/images-america/seattle/Tulalip Sportsbook Radio 98.9-HD2.png",
             url: "https://vsin-sgrewind.streamguys1.com/sgrewind/live/playlist.m3u8"
+        },
+        {
+            name: "98.9 KPNW-HD3",
+            logo: "stations/images-america/seattle/1150 KKNW.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNWAMAAC.aac"
         },
         {
             name: "La GranD 99.3",
@@ -17327,11 +17337,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7787/hls.m3u8"
         },
         {
-            name: "Rock Nation 102.5-HD2",
-            logo: "stations/images-america/seattle/Rock Nation 102.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4443/hls.m3u8"
-        },
-        {
             name: "Channel Q 103.3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
@@ -17365,6 +17370,11 @@ var stations = {
             name: "HITS 106.1",
             logo: "stations/images-america/seattle/HITS 106.1.png",
             url: "https://stream.revma.ihrhls.com/zc4257/hls.m3u8"
+        },
+        {
+            name: "Pride Radio 106.1-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
             name: "Warm 106.9",
@@ -30772,8 +30782,8 @@ var stations_c2c = {
             url: "https://live.wostreaming.net/manifest/unionbroadcasting-kkgqfmaac-ibc2"
         },
         {
-            name: "92.7 Classic Hits",
-            logo: "stations/images-america/c2c/wichita_ks/92.7 Classic Hits.png",
+            name: "92.7 The River",
+            logo: "stations/images-america/c2c/wichita_ks/92.7 The River.png",
             url: "https://ice25.securenetsystems.net/KWME"
         },
         {
