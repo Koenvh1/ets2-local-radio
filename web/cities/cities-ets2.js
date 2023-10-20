@@ -347,6 +347,12 @@ var country_properties = {
         code: "kz",
         relative_radius: 1.3,
     },
+    "kosovo": {
+        name: "Kosova",
+        name_english: "Kosovo",
+        code: "kv",
+        relative_radius: 0.8,
+    },
     "latvia": {
         name: "Latvija",
         name_english: "Latvia",
@@ -4024,6 +4030,14 @@ var cities = [
         "x": "14299.7",
         "y": "113.227",
         "z": "3978.97"
+    },
+    {
+        "gameName": "pristina",
+        "realName": "Pristina",
+        "country": "kosovo",
+        "x": "43222",
+        "y": "50.8541",
+        "z": "43203.5"
     },
     {
         "gameName": "przemysl",

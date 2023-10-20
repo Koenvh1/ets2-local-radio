@@ -3109,6 +3109,43 @@ var stations = {
             url: "http://91.201.214.229:8000/zhulduz"
         },
     ],
+    "kosovo": [
+        {
+            name: "Radio Kosova 1",
+            logo: "stations/images-europe/kosovo/Radio Kosova 1.png",
+            url: "http://82.114.72.2:8088/;"
+        },
+        {
+            name: "Radio Kosova 2",
+            logo: "stations/images-europe/kosovo/Radio Kosova 1.png",
+            url: "http://82.114.72.2:8098/;"
+        },
+        {
+            name: "GLAM Radio",
+            logo: "stations/images-europe/kosovo/GLAM Radio.png",
+            url: "https://stream.glamradio.fm:8443/glamradio"
+        },
+        {
+            name: "Radio 21",
+            logo: "stations/images-europe/kosovo/Radio 21.png",
+            url: "https://cdn.mediavisionuae.com:1935/live/radio21.stream/index.m3u8"
+        },
+        {
+            name: "Radio Dukagjini",
+            logo: "stations/images-europe/kosovo/Radio Dukagjini.png",
+            url: "https://s2.voscast.com:8825/radiodukagjini"
+        },
+        {
+            name: "Radio KFOR",
+            logo: "stations/images-europe/kosovo/Radio KFOR.png",
+            url: "http://fm.radiokfor.com:8080/stream"
+        },
+        {
+            name: "Radio Prishtina",
+            logo: "stations/images-europe/kosovo/Radio Prishtina.png",
+            url: "https://stream.radio.co/sbe73908d2/listen"
+        },
+    ],
     "latvia": [
         {
             name: "LR1",
