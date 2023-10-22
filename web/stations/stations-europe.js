@@ -2955,7 +2955,7 @@ var stations = {
         {
             name: "Radiofreccia",
             logo: "stations/images-europe/italy/Radiofreccia.png",
-            url: "https://streamingv2.shoutcast.com/radiofreccia"
+            url: "https://streamingv2.shoutcast.com/radiofreccia_48.aac"
         },
         {
             name: "Radio InBlu",
@@ -2995,7 +2995,7 @@ var stations = {
         {
             name: "RTL 102.5",
             logo: "stations/images-europe/italy/RTL 102.5.png",
-            url: "https://streamingv2.shoutcast.com/rtl-1025"
+            url: "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
         },
         {
             name: "Virgin Radio",
@@ -4378,7 +4378,7 @@ var stations = {
         {
             name: "Virgin Radio",
             logo: "stations/images-europe/romania/Virgin Radio.png",
-            url: "http://astreaming.edi.ro:8000/VirginRadio_aac"
+            url: "https://astreaming.edi.ro:8443/VirginRadio_aac"
         },
     ],
     "russia": [
@@ -5570,7 +5570,7 @@ var stations = {
         {
             name: "CNN Türk Radyo",
             logo: "stations/images-europe/turkey/CNN Türk Radyo.png",
-            url: "https://radyo.duhnet.tv/cnnturk?/"
+            url: "https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8"
         },
         {
             name: "CRI TÜRK",
@@ -5670,7 +5670,7 @@ var stations = {
         {
             name: "Radyo D",
             logo: "stations/images-europe/turkey/Radyo D.png",
-            url: "https://radyo.duhnet.tv/ak_dtvh_radyod"
+            url: "https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8"
         },
         {
             name: "Radyo Fenomen",

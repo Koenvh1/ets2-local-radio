@@ -1465,7 +1465,7 @@ var stations = {
         {
             name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://streaming.live365.com/a48408"
+            url: "https://transmitter.clubcasting.net:8000/live"
         },
         {
             name: "Radio Bilingüe 99.5",
@@ -6086,7 +6086,7 @@ var stations = {
         {
             name: "KEPW 97.3",
             logo: "stations/images-america/eugene/KEPW 97.3.png",
-            url: "https://stream.pacificaservice.org:9000/kepw_64"
+            url: "https://stream.pacificaservice.org:9000/kepw_128"
         },
         {
             name: "La Que Buena 97.7",
@@ -9540,7 +9540,7 @@ var stations = {
         {
             name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://streaming.live365.com/a48408"
+            url: "https://transmitter.clubcasting.net:8000/live"
         },
         {
             name: "Kat Country 100.7",
@@ -10109,7 +10109,7 @@ var stations = {
         {
             name: "ViBE 99.7",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://streaming.live365.com/a48408"
+            url: "https://transmitter.clubcasting.net:8000/live"
         },
         {
             name: "LasVegas.net 99.7-HD2",
@@ -11122,7 +11122,7 @@ var stations = {
         {
             name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://streaming.live365.com/a48408"
+            url: "https://transmitter.clubcasting.net:8000/live"
         },
         {
             name: "The Highway Country 101.5",
@@ -12563,7 +12563,7 @@ var stations = {
         {
             name: "KHWY 98.9",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://streaming.live365.com/a48408"
+            url: "https://transmitter.clubcasting.net:8000/live"
         },
         {
             name: "103.9 Jack FM",
@@ -17252,6 +17252,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
         {
+            name: "KODX 96.9",
+            logo: "stations/images-america/seattle/KODX 96.9.png",
+            url: "https://stream.pacificaservice.org:9000/kodx_128"
+        },
+        {
             name: "KIRO 97.3",
             logo: "stations/images-america/seattle/KIRO 97.3.png",
             url: "https://bonneville.cdnstream1.com/2643_48.aac"
@@ -19662,7 +19667,7 @@ var stations = {
         {
             name: "KRXV 98.1",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://streaming.live365.com/a48408"
+            url: "https://transmitter.clubcasting.net:8000/live"
         },
         {
             name: "99.1 KGGI",
@@ -35564,7 +35569,7 @@ var stations_c2c = {
         {
             name: "KKFI 90.1",
             logo: "stations/images-america/c2c/kansascity_mo/KKFI 90.1.png",
-            url: "https://stream.pacificaservice.org:9000/kkfi_64"
+            url: "https://stream.pacificaservice.org:9000/kkfi_128"
         },
         {
             name: "90.9 The Bridge",
