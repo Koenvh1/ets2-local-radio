@@ -348,9 +348,9 @@ var country_properties = {
         relative_radius: 1.3,
     },
     "kosovo": {
-        name: "Kosova",
+        name: "Republika e Kosovës",
         name_english: "Kosovo",
-        code: "kv",
+        code: "ks",
         relative_radius: 0.8,
     },
     "latvia": {
