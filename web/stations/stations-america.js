@@ -12771,7 +12771,7 @@ var stations = {
         {
             name: "KCLU 88.3",
             logo: "stations/images-america/santa_maria/KCLU 89.7.png",
-            url: "https://kclustream.callutheran.edu:8090/kclump3"
+            url: "https://kclustream.callutheran.edu/kclump3"
         },
         {
             name: "KCRW 89.1",
@@ -16073,7 +16073,7 @@ var stations = {
         {
             name: "KCLU 89.7",
             logo: "stations/images-america/santa_maria/KCLU 89.7.png",
-            url: "https://kclustream.callutheran.edu:8090/kclump3"
+            url: "https://kclustream.callutheran.edu/kclump3"
         },
         {
             name: "KCBX 90.1",
@@ -39800,6 +39800,11 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WUBEFMAAC_SC"
         },
         {
+            name: "Relevant Radio 106.9",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
             name: "KISS 107.1",
             logo: "stations/images-america/c2c/cincinnati_oh/KISS 107.1.png",
             url: "https://stream.revma.ihrhls.com/zc1705/hls.m3u8"
@@ -40329,6 +40334,11 @@ var stations_c2c = {
             name: "104.7 WTUE",
             logo: "stations/images-america/c2c/dayton_oh/104.7 WTUE.png",
             url: "https://stream.revma.ihrhls.com/zc1785/hls.m3u8"
+        },
+        {
+            name: "Relevant Radio 105.9",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "WWSU 106.9",

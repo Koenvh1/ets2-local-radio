@@ -581,6 +581,11 @@ var stations = {
             url: "http://94.130.11.28:9010/stream/1/"
         },
         {
+            name: "Federalni Radio",
+            logo: "stations/images-europe/bosnia/Federalni Radio.png",
+            url: "https://s2.free-shoutcast.com/stream/18170/;stream.mp3"
+        },
+        {
             name: "Kalman Radio",
             logo: "stations/images-europe/bosnia/Kalman Radio.png",
             url: "http://188.40.62.20:8004/;*.mp3"
@@ -589,6 +594,11 @@ var stations = {
             name: "Nes radio",
             logo: "stations/images-europe/bosnia/Nes radio.png",
             url: "http://188.40.62.20:8070/stream"
+        },
+        {
+            name: "ORV",
+            logo: "stations/images-europe/bosnia/ORV.png",
+            url: "http://109.105.205.194:8000/sreb"
         },
         {
             name: "Radio BIR",
@@ -611,9 +621,19 @@ var stations = {
             url: "http://team-data.ba:8030/;"
         },
         {
+            name: "Radio Marija",
+            logo: "stations/images-europe/bosnia/Radio Marija.png",
+            url: "https://dreamsiteradiocp2.com/proxy/rmbosnia2?mp=/stream"
+        },
+        {
             name: "Radio Mir",
             logo: "stations/images-europe/bosnia/Radio Mir.png",
             url: "https://mirm.live/mir.mp3"
+        },
+        {
+            name: "Radio Mix",
+            logo: "stations/images-europe/bosnia/Radio Mix.png",
+            url: "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3"
         },
         {
             name: "RSG Radio",
