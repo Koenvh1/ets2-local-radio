@@ -3137,7 +3137,7 @@ var stations = {
         },
         {
             name: "Radio Kosova 2",
-            logo: "stations/images-europe/kosovo/Radio Kosova 1.png",
+            logo: "stations/images-europe/kosovo/Radio Kosova 2.png",
             url: "http://82.114.72.2:8098/;"
         },
         {
