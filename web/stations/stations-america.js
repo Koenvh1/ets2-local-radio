@@ -8086,6 +8086,11 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7068_24k.aac"
         },
         {
+            name: "Rewind 94.9",
+            logo: "stations/images-america/helena/Rewind 94.9.png",
+            url: "https://ice8.securenetsystems.net/KIMOHD3"
+        },
+        {
             name: "KCAP 95.9",
             logo: "stations/images-america/helena/KCAP 95.9.png",
             url: "https://ice23.securenetsystems.net/KCAPFM"
@@ -8093,7 +8098,7 @@ var stations = {
         {
             name: "Rock 96.3",
             logo: "stations/images-america/helena/Rock 96.3.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kimoh4aac-imc4"
+            url: "https://ice8.securenetsystems.net/KIMOHD4"
         },
         {
             name: "KNEH 97.3",
@@ -8108,32 +8113,32 @@ var stations = {
         {
             name: "99.5 The Bull",
             logo: "stations/images-america/helena/99.5 The Bull.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kbllfmaac-imc4"
+            url: "https://ice6.securenetsystems.net/KBLL"
         },
         {
             name: "Z101",
             logo: "stations/images-america/helena/Z101.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kzmtfmaac-imc4"
+            url: "https://ice8.securenetsystems.net/KZMT"
         },
         {
             name: "Mix 102.3",
             logo: "stations/images-america/helena/Mix 102.3.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kmxmfmaac-imc4"
+            url: "https://ice8.securenetsystems.net/KMXM"
         },
         {
             name: "104.5 Dave FM",
             logo: "stations/images-america/helena/104.5 Dave FM.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kimoh2aac-imc4"
+            url: "https://ice6.securenetsystems.net/KIMOHD2"
         },
         {
             name: "105.3 KMTX",
             logo: "stations/images-america/helena/105.3 KMTX.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kmtxfmaac-imc4"
+            url: "https://ice8.securenetsystems.net/KMTX"
         },
         {
             name: "The Mighty Mo 107",
             logo: "stations/images-america/helena/The Mighty Mo 107.png",
-            url: "https://live.amperwave.net/direct/montanaradioco-kimofmaac-imc4"
+            url: "https://ice6.securenetsystems.net/KIMOFM"
         },
     ],
     "hobbs": [

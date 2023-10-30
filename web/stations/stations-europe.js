@@ -3451,22 +3451,22 @@ var stations = {
             url: "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3"
         },
     ],
-    "macedonia": [/*
+    "macedonia": [
         {
             name: "МР1",
             logo: "stations/images-europe/macedonia/MP1.png",
-            url: "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MDc6MzkgUE0maGFzaF92YWx1ZT1UY0NRRmhKRjRkeFhPSmVlRStBM3BnPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVkZmRiYTQwYmE="
+            url: "https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDI6MjQ6NDIgUE0maGFzaF92YWx1ZT0rWmhaeWdQcTV4Ry9KS1ZsNXF2Sm9nPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyYjFkNGFhNDlmYTE="
         },
         {
             name: "МР2",
             logo: "stations/images-europe/macedonia/MP2.png",
-            url: "https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MTA6NTQgUE0maGFzaF92YWx1ZT1taFFYTzNBNnZ2bitReHYzam9zeTZBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVlMDllM2EyYjY="
+            url: "https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDI6MjU6NDUgUE0maGFzaF92YWx1ZT0wT2txc09QQktzZ01ZK0NsbnpiZld3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyYjFkNGU5N2M4MzU="
         },
         {
             name: "МР3",
             logo: "stations/images-europe/macedonia/MP3.png",
-            url: "https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6MTI6MzkgUE0maGFzaF92YWx1ZT1aYitoSm1IK1BkLzY4emExTy8vbnZBPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyNDVlMTA3MWM4YWQ="
-        },*/
+            url: "https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDI6MjU6NDUgUE0maGFzaF92YWx1ZT0wT2txc09QQktzZ01ZK0NsbnpiZld3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyYjFkNGU5N2M4MzU="
+        },
         {
             name: "Antenna 5",
             logo: "stations/images-europe/macedonia/Antenna 5.png",
