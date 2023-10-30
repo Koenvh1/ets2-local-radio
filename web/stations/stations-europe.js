@@ -3465,7 +3465,7 @@ var stations = {
         {
             name: "МР3",
             logo: "stations/images-europe/macedonia/MP3.png",
-            url: "https://vod-c57.interspace.com/channel_abr/48/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDI6MjU6NDUgUE0maGFzaF92YWx1ZT0wT2txc09QQktzZ01ZK0NsbnpiZld3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyYjFkNGU5N2M4MzU="
+            url: "https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDIyIDI6MjY6MTYgUE0maGFzaF92YWx1ZT1BcEtyclNuRktQN3RwL1RWenFSS2RRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTYyYjFkNTA4MTQ4NDA="
         },
         {
             name: "Antenna 5",
