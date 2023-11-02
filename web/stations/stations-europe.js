@@ -1328,7 +1328,7 @@ var stations = {
         {
             name: "Aito Iskelmä",
             logo: "stations/images-europe/finland/Aito Iskelmä.png",
-            url: "https://supla.digitacdn.net/live/_definst_/supla/aitoiskelma/playlist.m3u8"
+            url: "https://ms-live-aitoiskelma.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
             name: "Basso",
@@ -1358,7 +1358,7 @@ var stations = {
         {
             name: "HitMix",
             logo: "stations/images-europe/finland/HitMix.png",
-            url: "https://supla.digitacdn.net/live/_definst_/supla/hitmix/playlist.m3u8"
+            url: "https://ms-live-hitmix.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
             name: "Iskelmä",
@@ -1376,6 +1376,11 @@ var stations = {
             url: "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
+            name: "Loop",
+            logo: "stations/images-europe/finland/Loop.png",
+            url: "https://ms-live-loop.nm-elemental.nelonenmedia.fi/master.m3u8"
+        },
+        {
             name: "Radio City",
             logo: "stations/images-europe/finland/Radio City.png",
             url: "https://stream-redirect.bauermedia.fi/radiocity/radiocity_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
@@ -1389,11 +1394,6 @@ var stations = {
             name: "Radio Dei",
             logo: "stations/images-europe/finland/Radio Dei.png",
             url: "http://isojako.radiodei.fi:8000/yleisohjelma"
-        },
-        {
-            name: "Radio Loop",
-            logo: "stations/images-europe/finland/Radio Loop.png",
-            url: "https://digitacdn.akamaized.net/hls/live/629243/loop/master.m3u8"
         },
         {
             name: "Radio Nostalgia",
