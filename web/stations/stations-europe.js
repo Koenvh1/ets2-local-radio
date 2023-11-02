@@ -462,9 +462,14 @@ var stations = {
             url: "http://www.clubfmserver.be:8000/family.mp3"
         },
         {
-            name: "Nostalgie",
-            logo: "stations/images-europe/belgium-nl/Nostalgie.png",
-            url: "https://stream.rcs.revma.com/5gd04cwptg0uv"
+            name: "Play Nostalgie",
+            logo: "stations/images-europe/belgium-nl/Play Nostalgie.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELINGAAC_SC"
+        },
+        {
+            name: "Nostalgie Plus",
+            logo: "stations/images-europe/belgium-nl/Nostalgie Plus.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUSAAC_SC"
         },
         {
             name: "NRJ België",
@@ -1016,6 +1021,11 @@ var stations = {
             url: "https://icecast3.play.cz/hey-radio128.mp3"
         },
         {
+            name: "Hitrádio City",
+            logo: "stations/images-europe/czech/Hitrádio City.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CITY_PRAHAAAC_SC"
+        },
+        {
             name: "Rádio Impuls",
             logo: "stations/images-europe/czech/Rádio Impuls.png",
             url: "http://icecast1.play.cz:80/impuls128.mp3"
@@ -1296,11 +1306,6 @@ var stations = {
             url: "https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8"
         },
         {
-            name: "Yle Klassinen",
-            logo: "stations/images-europe/finland/YLE Klassinen.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8"
-        },
-        {
             name: "Yle Radio Suomi",
             logo: "stations/images-europe/finland/YLE Radio Suomi.png",
             url: "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8"
@@ -1331,14 +1336,24 @@ var stations = {
             url: "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
+            name: "Classic Hits",
+            logo: "stations/images-europe/finland/Classic Hits.png",
+            url: "https://ms-live-classichits.nm-elemental.nelonenmedia.fi/master.m3u8"
+        },
+        {
+            name: "Easy Hits",
+            logo: "stations/images-europe/finland/Easy Hits.png",
+            url: "https://ms-live-easyhits.nm-elemental.nelonenmedia.fi/master.m3u8"
+        },
+        {
             name: "ENERGY",
             logo: "stations/images-europe/finland/Energy.png",
             url: "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
-            name: "Helmiradio",
-            logo: "stations/images-europe/finland/Helmiradio.png",
-            url: "https://digitacdn.akamaized.net/hls/live/629243/radiohelmi/master.m3u8"
+            name: "Groove FM",
+            logo: "stations/images-europe/finland/Groove FM.png",
+            url: "https://ms-live-groove.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
             name: "HitMix",
@@ -1359,16 +1374,6 @@ var stations = {
             name: "Kasari",
             logo: "stations/images-europe/finland/Kasari.png",
             url: "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
-        },
-        {
-            name: "KISS",
-            logo: "stations/images-europe/finland/Kiss.png",
-            url: "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
-        },
-        {
-            name: "Radio Aalto",
-            logo: "stations/images-europe/finland/Radio Aalto.png",
-            url: "https://digitacdn.akamaized.net/hls/live/629243/radioaalto/master.m3u8"
         },
         {
             name: "Radio City",
@@ -1401,6 +1406,11 @@ var stations = {
             url: "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
+            name: "Radio Patmos",
+            logo: "stations/images-europe/finland/Radio Patmos.png",
+            url: "https://s3.yesstreaming.net:7011/radio"
+        },
+        {
             name: "Radio POOKI",
             logo: "stations/images-europe/finland/Radio Pooki.png",
             url: "https://stream-redirect.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
@@ -1421,9 +1431,14 @@ var stations = {
             url: "https://stream-redirect.bauermedia.fi/suomirap/suomirap_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
-            name: "Ysäri",
-            logo: "stations/images-europe/finland/Ysäri.png",
-            url: "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+            name: "SuomiRock",
+            logo: "stations/images-europe/finland/SuomiRock.png",
+            url: "https://stream-redirect.bauermedia.fi/suomirock/suomirock_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+        },
+        {
+            name: "Top51",
+            logo: "stations/images-europe/finland/Top51.png",
+            url: "https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
     ],
     "france": [
@@ -3793,7 +3808,7 @@ var stations = {
         {
             name: "BBC World Service",
             logo: "stations/images-europe/netherlands/BBC World Service.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_world_service.m3u8",
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_world_service.m3u8",
         },
         {
             name: "BNR Nieuwsradio",
@@ -3940,12 +3955,12 @@ var stations = {
         {
             name: "BBC Radio Ulster",
             logo: "stations/images-europe/nireland/BBC Radio Ulster.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_ulster.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8"
         },
         {
             name: "BBC Radio Foyle",
             logo: "stations/images-europe/nireland/BBC Radio Foyle.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_foyle.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_foyle.m3u8"
         },
         {
             name: "Absolute Classic Rock",
@@ -4594,12 +4609,12 @@ var stations = {
         {
             name: "BBC Radio Scotland",
             logo: "stations/images-europe/scotland/BBC Radio Scotland.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_scotland_fm.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_scotland_fm.m3u8"
         },
         {
             name: "BBC Radio nan Gàidheal",
             logo: "stations/images-europe/scotland/BBC Radio nan Gàidheal.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_nan_gaidheal.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_nan_gaidheal.m3u8"
         },
         {
             name: "Capital FM Scotland",
@@ -4703,27 +4718,27 @@ var stations = {
         {
             name: "BBC Radio 1",
             logo: "stations/images-europe/uk/BBC Radio 1.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_one.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8"
         },
         {
             name: "BBC Radio 2",
             logo: "stations/images-europe/uk/BBC Radio 2.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_two.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_two.m3u8"
         },
         {
             name: "BBC Radio 3",
             logo: "stations/images-europe/uk/BBC Radio 3.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_three.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_three.m3u8"
         },
         {
             name: "BBC Radio Shetland",
             logo: "stations/images-europe/shetland/BBC Radio Shetland.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_scotland_mw.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_scotland_mw.m3u8"
         },
         {
             name: "BBC Radio 4",
             logo: "stations/images-europe/uk/BBC Radio 4.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourfm.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8"
         },
         {
             name: "60 North Radio",
@@ -5767,42 +5782,42 @@ var stations = {
         {
             name: "BBC Radio 1",
             logo: "stations/images-europe/uk/BBC Radio 1.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_one.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8"
         },
         {
             name: "BBC Radio 1Xtra",
             logo: "stations/images-europe/uk/BBC Radio 1Xtra.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_1xtra.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8"
         },
         {
             name: "BBC Radio 2",
             logo: "stations/images-europe/uk/BBC Radio 2.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_two.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_two.m3u8"
         },
         {
             name: "BBC Radio 3",
             logo: "stations/images-europe/uk/BBC Radio 3.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_three.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_three.m3u8"
         },
         {
             name: "BBC Radio 4",
             logo: "stations/images-europe/uk/BBC Radio 4.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_fourfm.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_fourfm.m3u8"
         },
         {
             name: "BBC Radio 4 Extra",
             logo: "stations/images-europe/uk/BBC Radio 4 Extra.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_four_extra.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_four_extra.m3u8"
         },
         {
             name: "BBC Radio 5 Live",
             logo: "stations/images-europe/uk/BBC Radio 5 Live.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_five_live.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_five_live.m3u8"
         },
         {
             name: "BBC Radio 6 Music",
             logo: "stations/images-europe/uk/BBC Radio 6 Music.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_6music.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_6music.m3u8"
         },
         {
             name: "Absolute Radio",
@@ -5818,6 +5833,16 @@ var stations = {
             name: "Absolute 90s",
             logo: "stations/images-europe/uk/Absolute 90s.png",
             url: "http://216.246.103.221/radiofeeds.php?station=absolute90shigh-aac"
+        },
+        {
+            name: "Absolute Classic Rock",
+            logo: "stations/images-europe/uk/Absolute Classic Rock.png",
+            url: "http://216.246.103.221/radiofeeds.php?station=absoluteclassicrockhigh-aac"
+        },
+        {
+            name: "Absolute Country",
+            logo: "stations/images-europe/uk/Absolute Country.png",
+            url: "http://216.246.103.221/radiofeeds.php?station=absolutecountryhigh-aac"
         },
         {
             name: "BFBS UK",
@@ -5870,6 +5895,11 @@ var stations = {
             url: "https://listen-funkids.sharp-stream.com/funkids.mp3"
         },
         {
+            name: "GB News Radio",
+            logo: "stations/images-europe/uk/GB News Radio.png",
+            url: "https://listen-gbnews.sharp-stream.com/gbnews.mp3"
+        },
+        {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
             url: "http://216.246.103.221/radiofeeds.php?station=net2national-aac"
@@ -5905,6 +5935,16 @@ var stations = {
             url: "https://media-ssl.musicradio.com/Heart90s"
         },
         {
+            name: "Heart 00s",
+            logo: "stations/images-europe/uk/Heart 00s.png",
+            url: "https://media-ssl.musicradio.com/Heart00s"
+        },
+        {
+            name: "Heart Xmas",
+            logo: "stations/images-europe/uk/Heart 00s.png",
+            url: "https://media-ssl.musicradio.com/HeartXmas"
+        },
+        {
             name: "Jazz FM",
             logo: "stations/images-europe/uk/Jazz FM.png",
             url: "http://216.246.103.221/radiofeeds.php?station=jazzhigh-aac"
@@ -5913,6 +5953,11 @@ var stations = {
             name: "heat Radio",
             logo: "stations/images-europe/uk/Heat radio.png",
             url: "http://216.246.103.221/radiofeeds.php?station=heat-aac"
+        },
+        {
+            name: "Kerrang! Radio",
+            logo: "stations/images-europe/uk/Kerrang! Radio.png",
+            url: "http://216.246.103.221/radiofeeds.php?station=kerrang-aac"
         },
         {
             name: "KISS",
@@ -5950,9 +5995,24 @@ var stations = {
             url: "http://216.246.103.221/radiofeeds.php?station=magicnational-aac"
         },
         {
+            name: "Magic at the Musicals",
+            logo: "stations/images-europe/uk/Magic at the Musicals.png",
+            url: "http://216.246.103.221/radiofeeds.php?station=magicmusicals-aac"
+        },
+        {
+            name: "Magic Chilled",
+            logo: "stations/images-europe/uk/Magic Chilled.png",
+            url: "http://216.246.103.221/radiofeeds.php?station=magicchilled-aac"
+        },
+        {
             name: "Magic Mellow",
             logo: "stations/images-europe/uk/Magic Mellow.png",
             url: "http://216.246.103.221/radiofeeds.php?station=magicmellow-aac"
+        },
+        {
+            name: "Magic Soul",
+            logo: "stations/images-europe/uk/Magic Soul.png",
+            url: "http://216.246.103.221/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "Planet Rock",
@@ -6161,12 +6221,12 @@ var stations = {
         {
             name: "BBC Radio Wales",
             logo: "stations/images-europe/wales/BBC Radio Wales.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_wales_fm.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_wales_fm.m3u8"
         },
         {
             name: "BBC Radio Cymru",
             logo: "stations/images-europe/wales/BBC Radio Cymru.png",
-            url: "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/aks/bbc_radio_cymru.m3u8"
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru.m3u8"
         },
     ],
     "westbank": [

@@ -1708,7 +1708,7 @@ var stations = {
         },
         {
             name: "The Peak 104.1",
-            logo: "stations/images-america/bend/The Peak 104.1.png",
+            logo: "stations/images-america/bend/The Peak 104.1_christmas.png",
             url: "https://live.amperwave.net/direct/horizonbroadcasting-kwpkfmaac-ibc1"
         },
         {
@@ -6722,7 +6722,7 @@ var stations = {
         },
         {
             name: "B107.3",
-            logo: "stations/images-america/fort_collins/B107.3.png",
+            logo: "stations/images-america/fort_collins/B107.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6731/hls.m3u8"
         },
         {
@@ -24977,7 +24977,7 @@ var stations_c2c = {
         },
         {
             name: "1370 The Patriot",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/The Patriot.png",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/1370 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc4788/hls.m3u8"
         },
         {
@@ -26227,7 +26227,7 @@ var stations_c2c = {
         },
         {
             name: "Soft Rock 94.1",
-            logo: "stations/images-america/c2c/pensacola_fl/Soft Rock 94.1.png",
+            logo: "stations/images-america/c2c/pensacola_fl/Soft Rock 94.1_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEZFMAAC_SC"
         },
         {
@@ -28125,8 +28125,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
-            name: "NOW 100.7",
-            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7.png",
+            name: "Christmas 100.7",
+            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWHXFMAAC_SC"
         },
         {
@@ -28385,7 +28385,7 @@ var stations_c2c = {
         },
         {
             name: "93.9 LITE FM",
-            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM.png",
+            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
         },
         {
@@ -31336,7 +31336,7 @@ var stations_c2c = {
         },
         {
             name: "102.3 The Rose",
-            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose.png",
+            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose_christmas.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/alphacorporate-wxmafmaac-ibc2"
         },
         {
@@ -31371,7 +31371,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
+            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7704_128k.aac"
         },
         {
@@ -33791,7 +33791,7 @@ var stations_c2c = {
         },
         {
             name: "Star 105.7",
-            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1169/hls.m3u8"
         },
         {
@@ -34125,7 +34125,7 @@ var stations_c2c = {
             url: "http://wmisfm.com:8001/wmis.mp3"
         },
         {
-            name: "94.3 The Legends",
+            name: "94.3 Christmas Legends",
             logo: "stations/images-america/c2c/bemidji_mn/94.3 The Legends.png",
             url: "http://kpmiam.com:8001/kpmiam.mp3"
         },
@@ -36367,7 +36367,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 103.3",
-            logo: "stations/images-america/c2c/lincoln_ne/Mix 103.3.png",
+            logo: "stations/images-america/c2c/lincoln_ne/Mix 103.3_christmas.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
         },
         {
@@ -36645,7 +36645,7 @@ var stations_c2c = {
         },
         {
             name: "Star 104.5",
-            logo: "stations/images-america/c2c/omaha_ne/Star 104.5.png",
+            logo: "stations/images-america/c2c/omaha_ne/Star 104.5_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7707_128k.aac"
         },
         {
@@ -39746,7 +39746,7 @@ var stations_c2c = {
         },
         {
             name: "STAR 93.3",
-            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3.png",
+            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3_christmas.png",
             url: "https://pillar2.streamguys1.com/live"
         },
         {
@@ -42047,8 +42047,8 @@ var stations_c2c = {
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
-            name: "Happy 92.7",
-            logo: "stations/images-america/c2c/harrisburg_pa/Happy 92.7.png",
+            name: "Santa 92.7",
+            logo: "stations/images-america/c2c/harrisburg_pa/Happy 92.7_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7883_96k.aac"
         },
         {
@@ -43711,9 +43711,9 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7691_128k.aac"
         },
         {
-            name: "Magic 98.9",
-            logo: "stations/images-america/c2c/greenville_sc/Magic 98.9.png",
-            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wspafmaac-imc"
+            name: "98.9 WORD",
+            logo: "stations/images-america/c2c/greenville_sc/98.9 WORD.png",
+            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wyrdfmaac-imc"
         },
         {
             name: "Streetz 99.5",
@@ -43766,9 +43766,9 @@ var stations_c2c = {
             url: "https://ice41.securenetsystems.net/WHQA"
         },
         {
-            name: "106.3 WORD",
-            logo: "stations/images-america/c2c/greenville_sc/106.3 WORD.png",
-            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wyrdfmaac-imc"
+            name: "Magic 106.3",
+            logo: "stations/images-america/c2c/greenville_sc/Magic 106.3_christmas.png",
+            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wspafmaac-imc"
         },
         {
             name: "107.3 JAMZ",
@@ -46915,7 +46915,7 @@ var stations_c2c = {
         },
         {
             name: "Pure Oldies 106.9",
-            logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9_christmas.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/saga-wrxsfmaac-ibc2"
         },
         {
@@ -49279,6 +49279,11 @@ var stations_canada = {
             name: "CBC Music 91.5-HD2",
             logo: "stations/images-america/canada/CBC Music.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFM_CBC_SC"
+        },
+        {
+            name: "Santa Radio 92.3",
+            logo: "stations/images-america/canada/ottawa/Santa Radio 92.3.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
         },
         {
             name: "CKCU 93.1",
