@@ -26643,7 +26643,7 @@ var stations_c2c = {
         },
         {
             name: "105.5 WDUV",
-            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV.png",
+            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/tam1055/tam1055-sgplayer-aac"
         },
         {
@@ -27429,8 +27429,8 @@ var stations_c2c = {
             url: "https://listen.wruu.org/stream"
         },
         {
-            name: "Rewind 107.9",
-            logo: "stations/images-america/c2c/savannah_ga/Rewind 107.9.png",
+            name: "Christmas 107.9",
+            logo: "stations/images-america/c2c/savannah_ga/Rewind 107.9_christmas.png",
             url: "https://dbc.streamguys1.com/wrwn-fm.aac"
         },
     ],
@@ -39398,7 +39398,7 @@ var stations_c2c = {
         },
         {
             name: "104.3 Cities FM",
-            logo: "stations/images-america/c2c/grand_forks_nd/104.3 Cities FM.png",
+            logo: "stations/images-america/c2c/grand_forks_nd/104.3 Cities FM_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZLTFMAAC_SC"
         },
         {
@@ -44080,7 +44080,7 @@ var stations_c2c = {
         },
         {
             name: "Z106.3",
-            logo: "stations/images-america/c2c/rapid_city_sd/Z106.3.png",
+            logo: "stations/images-america/c2c/rapid_city_sd/Z106.3_christmas.png",
             url: "https://ais-sa1.streamon.fm/7769_96k.aac"
         },
         {
