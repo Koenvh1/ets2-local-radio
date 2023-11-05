@@ -957,12 +957,12 @@ var stations = {
             name: "sfera",
             logo: "stations/images-europe/cyprus/sfera.png",
             url: "https://securestreams3.autopo.st:1417/sfera"
-        },/*
+        },
         {
             name: "Radyo Güven",
             logo: "stations/images-europe/cyprus/Radyo Güven.png",
-            url: "http://freeuk29.listen2myradio.com:8956/;"
-        },*/
+            url: "http://freeuk22.listen2myradio.com:10795/;"
+        },
         {
             name: "Русское Радио Кипр",
             logo: "stations/images-europe/cyprus/Русское Радио Кипр.png",
@@ -1606,12 +1606,12 @@ var stations = {
             name: "Rire et Chansons",
             logo: "stations/images-europe/france/Rire et Chansons.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"
-        },/*
+        },
         {
             name: "RMC",
             logo: "stations/images-europe/france/RMC.png",
             url: "https://audio.bfmtv.com/rmcradio_128.mp3"
-        },*/
+        },
         {
             name: "RTL",
             logo: "stations/images-europe/france/RTL.png",
@@ -1708,12 +1708,12 @@ var stations = {
             name: "Radio Palitra",
             logo: "stations/images-europe/georgia/Radio Palitra.png",
             url: "https://radiostream.palitra.ge/stream.mp3"
-        },/*
+        },
         {
             name: "Sputnik Абхазия",
             logo: "stations/images-europe/georgia/Sputnik Абхазия.png",
-            url: "https://voicecdn.sputnikimages.com/voicesuh"
-        },*/
+            url: "https://icecast-rian.cdnvideo.ru/voicesuh"
+        },
         {
             name: "Voice Of Abkhazia",
             logo: "stations/images-europe/georgia/Voice Of Abkhazia.png",
@@ -3618,12 +3618,12 @@ var stations = {
             name: "Smash Radio 104.6FM",
             logo: "stations/images-europe/malta/Smash Radio 104.6FM.png",
             url: "https://s3.free-shoutcast.com/stream/18040"
-        },/*
+        },
         {
             name: "XFM 100.2",
             logo: "stations/images-europe/malta/XFM 100.2.png",
             url: "http://s10.voscast.com:8202/stream"
-        },*/
+        },
     ],
     "mnegro": [
         {
@@ -3747,12 +3747,12 @@ var stations = {
             name: "Russkoe Radio Moldova",
             logo: "stations/images-europe/moldova/Russkoe Radio Moldova.png",
             url: "http://live.ruradio.md:8000/ruradio"
-        },/*
+        },
         {
             name: "Vocea Basarabiei",
             logo: "stations/images-europe/moldova/Vocea Basarabiei.png",
-            url: "https://vobook.ru:8080/live.noroc.tv:8000/radiovb_96kb"
-        },*/
+            url: "https://storage.voceabasarabiei.md:8001/radiovb_aac"
+        },
     ],
     "netherlands": [
         {
@@ -4471,12 +4471,12 @@ var stations = {
             name: "Юмор FM",
             logo: "stations/images-europe/russia/Юмор FM - Humor FM.png",
             url: "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6"
-        },/*
+        },
         {
             name: "Love Radio",
             logo: "stations/images-europe/russia/Love Radio.png",
-            url: "https://stream2.n340.com/12_love_64_reg_44?type=aac&UID=7C4152B04BE724CF3825D0E4F02328D0"
-        },*/
+            url: "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_12_love_64"
+        },
         {
             name: "НАШЕ Радио",
             logo: "stations/images-europe/russia/НАШЕ Радио - Nashe Radio.png",
@@ -4501,12 +4501,12 @@ var stations = {
             name: "Радио Шансон",
             logo: "stations/images-europe/russia/Радио Шансон - Radio Chanson.png",
             url: "https://chanson.hostingradio.ru:8041/chanson128.mp3"
-        },/*
+        },
         {
             name: "Радио Дача",
             logo: "stations/images-europe/russia/Радио Дача - Radio Dacha.png",
-            url: "https://stream.n340.com/14_dacha_64?type=.aac&UID=4C1E842A7F932A2D53BEA33AA6E64601"
-        },*/
+            url: "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64"
+        },
         {
             name: "Радио Кп",
             logo: "stations/images-europe/russia/Радио Кп - Radio KP.png",
@@ -4692,22 +4692,22 @@ var stations = {
             name: "Radio S2",
             logo: "stations/images-europe/serbia/Radio S2.png",
             url: "http://edge-rs-01.maksnet.tv/asmedia/index/playlist.m3u8"
-        },/*
+        },
         {
             name: "RNS 1",
             logo: "stations/images-europe/serbia/RNS 1.png",
-            url: "http://79.101.121.123:1935/rns1/prviprogram/livestream/playlist.m3u8"
+            url: "http://212.200.230.50:1935/rns1/prviprogram/livestream/playlist.m3u8"
         },
         {
             name: "RNS 2",
             logo: "stations/images-europe/serbia/RNS 2.png",
-            url: "http://79.101.121.123:1935/rns2/drugiprogram/livestream/playlist.m3u8"
+            url: "http://212.200.230.50:1935/rns2/drugiprogram/livestream/playlist.m3u8"
         },
         {
             name: "RNS 3",
             logo: "stations/images-europe/serbia/RNS 3.png",
-            url: "http://79.101.121.123:1935/rns3/treciprogram/livestream/playlist.m3u8"
-        },*/
+            url: "http://212.200.230.50:1935/rns3/treciprogram/livestream/playlist.m3u8"
+        },
         {
             name: "TDI Radio",
             logo: "stations/images-europe/serbia/TDI Radio.png",
@@ -5092,12 +5092,12 @@ var stations = {
             name: "Onda Madrid 101.3",
             logo: "stations/images-europe/spain-madrid/Onda Madrid 101.3.png",
             url: "http://media.telemadrid.es/telemadrid/ondemand/radio/entrevista%20destacada1305.mp3"
-        },/*
+        },
         {
             name: "Kandela Te Prende 101.9",
             logo: "stations/images-europe/spain-madrid/Kandela Te Pretende 101.9.png",
-            url: "http://one.cloudstreaming.eu:6158/kandela?_=1"
-        },*/
+            url: "https://play10.tikast.com/proxy/kandela?mp=/stream"
+        },
         {
             name: "Únika FM 103.0",
             logo: "stations/images-europe/spain-madrid/Únika FM 103.0.png",
@@ -5756,12 +5756,12 @@ var stations = {
             name: "TGRT FM",
             logo: "stations/images-europe/turkey/TGRT FM.png",
             url: "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8"
-        },/*
+        },
         {
             name: "Türkiye Polis Radyosu",
             logo: "stations/images-europe/turkey/Türkiye Polis Radyosu.png",
-            url: "https://m.egm.gov.tr:8093/;*.mp3"
-        },*/
+            url: "https://m.egm.gov.tr:8093//;"
+        },
         {
             name: "Vav Radyo",
             logo: "stations/images-europe/turkey/Vav Radyo.png",
@@ -5941,7 +5941,7 @@ var stations = {
         },
         {
             name: "Heart Xmas",
-            logo: "stations/images-europe/uk/Heart 00s.png",
+            logo: "stations/images-europe/uk/Heart Xmas.png",
             url: "https://media-ssl.musicradio.com/HeartXmas"
         },
         {
@@ -6195,12 +6195,7 @@ var stations = {
             name: "RadioROKS",
             logo: "stations/images-europe/ukraine/RadioROKS.png",
             url: "http://online.radioroks.ua/RadioROKS_HD"
-        },/*
-        {
-            name: "Ретро FM",
-            logo: "stations/images-europe/ukraine/Ретро FM.png",
-            url: "http://cast.radiogroup.com.ua:8000/retro"
-        },*/
+        },
         {
             name: "Радіо Максимум",
             logo: "stations/images-europe/ukraine/Радіо Максимум.png",

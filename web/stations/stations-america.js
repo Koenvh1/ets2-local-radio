@@ -666,7 +666,7 @@ var stations = {
         {
             name: "TUDN Radio 1450",
             logo: "stations/images-america/albuquerque/TUDN Radio 1450.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
     "amarillo": [
@@ -1137,7 +1137,7 @@ var stations = {
         {
             name: "Qué Buena 104.3",
             logo: "stations/images-america/austin/Qué Buena 104.3.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klqbfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klqbfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "104.9 KTXX-FM",
@@ -1157,7 +1157,7 @@ var stations = {
         {
             name: "Amor 107.7",
             logo: "stations/images-america/austin/Amor 107.7.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kljafm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kljafm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "KLBJ 590",
@@ -1771,7 +1771,7 @@ var stations = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/houston/TUDN Radio 93.3.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Q94",
@@ -4421,7 +4421,7 @@ var stations = {
         {
             name: "Qué Buena 94.1",
             logo: "stations/images-america/dallas_fort_worth/Qué Buena 94.1.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klnofm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klnofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Majic 94.5",
@@ -4476,7 +4476,7 @@ var stations = {
         {
             name: "Zona MX 99.1",
             logo: "stations/images-america/dallas_fort_worth/Zona MX 99.1.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kfzofm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kfzofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "99.5 The Wolf",
@@ -4591,7 +4591,7 @@ var stations = {
         {
             name: "Latino Mix 107.9",
             logo: "stations/images-america/dallas_fort_worth/Latino Mix 107.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kdxxfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kdxxfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "La Poderosa 540",
@@ -4681,7 +4681,7 @@ var stations = {
         {
             name: "TUDN Radio 1270",
             logo: "stations/images-america/dallas_fort_worth/TUDN Radio 1270.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "1310 The Ticket",
@@ -5268,7 +5268,7 @@ var stations = {
         {
             name: "TUDN Radio 1090",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Onda 1150",
@@ -5997,7 +5997,7 @@ var stations = {
         {
             name: "TUDN Radio 1650",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
     "ely": [
@@ -7081,7 +7081,7 @@ var stations = {
         {
             name: "Zona MX 107.9",
             logo: "stations/images-america/fresno/Zona MX 107.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kllefm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kllefm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "KYNO 940",
@@ -7407,7 +7407,7 @@ var stations = {
         {
             name: "TUDN Radio 1090",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Relevant Radio 1120",
@@ -8252,7 +8252,7 @@ var stations = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/houston/TUDN Radio 93.3.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "93.7 The Beat",
@@ -8362,7 +8362,7 @@ var stations = {
         {
             name: "Qué Buena 102.9",
             logo: "stations/images-america/houston/Qué Buena 102.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kltnfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kltnfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "103.5 HUM FM",
@@ -8382,7 +8382,7 @@ var stations = {
         {
             name: "Latino Mix 104.9",
             logo: "stations/images-america/houston/Latino Mix 104.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kamafm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kamafm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Power 105.3",
@@ -8397,7 +8397,7 @@ var stations = {
         {
             name: "Amor 106.5",
             logo: "stations/images-america/houston/Amor 106.5.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kovefm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kovefm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "The Eagle 107.5",
@@ -9620,7 +9620,7 @@ var stations = {
         {
             name: "1020 KTNQ",
             logo: "stations/images-america/los_angeles/1020 KTNQ.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/ktnqam/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/ktnqam-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
     "lakeview": [
@@ -10119,7 +10119,7 @@ var stations = {
         {
             name: "99.3 Latino Mix",
             logo: "stations/images-america/las_vegas/99.3 Latino Mix.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/krgtfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/krgtfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "ViBE 99.7",
@@ -10164,7 +10164,7 @@ var stations = {
         {
             name: "Zona MX 103.5",
             logo: "stations/images-america/las_vegas/Zona MX 103.5.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kisffm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kisffm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Real 103.9",
@@ -10224,7 +10224,7 @@ var stations = {
         {
             name: "TUDN Radio 870",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Raider Nation Radio 920",
@@ -10721,7 +10721,7 @@ var stations = {
         {
             name: "LA 101.9",
             logo: "stations/images-america/los_angeles/LA 101.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kscafm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kscafm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "102.3 KJLH",
@@ -10746,7 +10746,7 @@ var stations = {
         {
             name: "103.9 Recuerdo",
             logo: "stations/images-america/los_angeles/103.9 Recuerdo.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/krcdfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/krcdfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "104.3 MYfm",
@@ -10791,7 +10791,7 @@ var stations = {
         {
             name: "K-LOVE 107.5",
             logo: "stations/images-america/los_angeles/K-LOVE 107.5.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klvefm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klvefm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Radio Jan 107.5-HD2",
@@ -10836,7 +10836,7 @@ var stations = {
         {
             name: "1020 KTNQ",
             logo: "stations/images-america/los_angeles/1020 KTNQ.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/ktnqam/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/ktnqam-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "KWAVE 1100",
@@ -11125,7 +11125,7 @@ var stations = {
         {
             name: "TUDN Radio 1460",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
     "ludlow": [
@@ -11504,12 +11504,12 @@ var stations = {
         {
             name: "Recuerdo 96.1",
             logo: "stations/images-america/mcallen_brownsville/Recuerdo 96.1.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kbtqfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kbtqfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "TUDN Radio 96.1-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "96.9 KVMV",
@@ -11524,7 +11524,7 @@ var stations = {
         {
             name: "La Jefa 98.5",
             logo: "stations/images-america/mcallen_brownsville/La Jefa 98.5.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kgbtfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kgbtfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Fuego 99.5",
@@ -13348,7 +13348,7 @@ var stations = {
         {
             name: "Latino Mix 100.3",
             logo: "stations/images-america/phoenix/Latino Mix 100.3.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kqmrfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kqmrfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "100.7 KSLX",
@@ -13408,7 +13408,7 @@ var stations = {
         {
             name: "Qué Buena 105.1",
             logo: "stations/images-america/phoenix/Qué Buena 105.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/khotfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/khotfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Money Radio 105.3",
@@ -13453,7 +13453,7 @@ var stations = {
         {
             name: "TUDN Radio 710",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "FOX Sports 910",
@@ -15809,7 +15809,7 @@ var stations = {
         {
             name: "Qué Buena 92.9",
             logo: "stations/images-america/san_antonio/Qué Buena 92.9.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-kromfmaac-ibc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kromfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "93.3 The Bull",
@@ -15829,7 +15829,7 @@ var stations = {
         {
             name: "Amor 95.1",
             logo: "stations/images-america/san_antonio/Amor 95.1.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-kmyofmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kmyofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Tejano 95.7",
@@ -15859,7 +15859,7 @@ var stations = {
         {
             name: "98.5 The Beat",
             logo: "stations/images-america/san_antonio/98.5 The Beat.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-kbbtfmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kbbtfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "99.5 KISS",
@@ -15949,12 +15949,12 @@ var stations = {
         {
             name: "Vibe 107.5",
             logo: "stations/images-america/san_antonio/Vibe 107.5.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-kvbhfmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kvbhfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Tejano 107.5-HD2",
             logo: "stations/images-america/san_antonio/Tejano 107.5-HD2.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-kxtnfmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kxtnfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "550 KTSA",
@@ -16599,7 +16599,7 @@ var stations = {
         {
             name: "Amor 102.9",
             logo: "stations/images-america/san_diego/Amor 102.9.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-klqvfmaac-ibc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klqvfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "103.7 KSON",
@@ -16629,7 +16629,7 @@ var stations = {
         {
             name: "Qué Buena 106.5",
             logo: "stations/images-america/san_diego/Qué Buena 106.5.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-klnvfmaac-ibc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klnvfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Pulsar 107.3",
@@ -16888,7 +16888,7 @@ var stations = {
         {
             name: "Qué Buena 98.9",
             logo: "stations/images-america/san_francisco/Qué Buena 98.9.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-ksolfmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/ksolfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Radio Lazer 99.3",
@@ -16968,7 +16968,7 @@ var stations = {
         {
             name: "Latino Mix 105.7",
             logo: "stations/images-america/san_francisco/Latino Mix 105.7.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-kvvffmaac-imc2"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kvvffm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "106.1 KMEL",
@@ -17782,7 +17782,7 @@ var stations = {
         {
             name: "TUDN Radio 710",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio/playlist.m3u8"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "970 KVWM",
@@ -18192,7 +18192,7 @@ var stations = {
         {
             name: "Latino Mix 107.1",
             logo: "stations/images-america/dallas_fort_worth/Latino Mix 107.9.png",
-            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kdxxfm/playlist.m3u8"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kdxxfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "KCBN 107.7",
@@ -25675,7 +25675,7 @@ var stations_c2c = {
         {
             name: "Mix 98.3",
             logo: "stations/images-america/c2c/miami_fl/Mix 98.3.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wrtofmaac-ibc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wrtofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "99 JAMZ",
@@ -28496,7 +28496,7 @@ var stations_c2c = {
         {
             name: "Qué Buena 105.1",
             logo: "stations/images-america/c2c/chicago_il/Qué Buena 105.1.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wojofmaac-imc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wojofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "105.1 WOJO-HD2",
@@ -37440,7 +37440,7 @@ var stations_c2c = {
         {
             name: "Qué Buena 92.7",
             logo: "stations/images-america/c2c/nyc/Qué Buena 92.7.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wqbufmaac-ibc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wqbufm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "WINS 92.3",
@@ -37500,7 +37500,7 @@ var stations_c2c = {
         {
             name: "X96.3",
             logo: "stations/images-america/c2c/nyc/X96.3.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wxnyfmaac-ibc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wxnyfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "HOT 97",
@@ -51703,7 +51703,7 @@ var stations_caribbean = {
         {
             name: "WUKQ 98.7",
             logo: "stations/images-america/caribbean/puerto_rico/KQ 105.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wkaqfmaac-imc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wkaqfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "Magic 99.5",
@@ -51758,7 +51758,7 @@ var stations_caribbean = {
         {
             name: "WYEL 600",
             logo: "stations/images-america/caribbean/puerto_rico/mayagüez/WYEL 600.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wkaqamaac-imc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wkaqam-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
 	"montegobay": [
@@ -52116,7 +52116,7 @@ var stations_caribbean = {
         {
             name: "KQ 105",
             logo: "stations/images-america/caribbean/puerto_rico/KQ 105.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wkaqfmaac-imc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wkaqfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "106.1 Renacer",
@@ -52355,7 +52355,7 @@ var stations_caribbean = {
         {
             name: "KQ 105",
             logo: "stations/images-america/caribbean/puerto_rico/KQ 105.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/univision-wkaqfmaac-imc1"
+            url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/wkaqfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "K-LOVE 105.7",
