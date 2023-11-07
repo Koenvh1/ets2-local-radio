@@ -299,6 +299,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "colby": {
+        name: "Colby",
+        name_english: "Colby",
+        code: "us-ks",
+        relative_radius: 0.7
+    },
     "college_station": {
         name: "College Station",
         name_english: "College Station",
@@ -394,6 +400,12 @@ var country_properties = {
         name_english: "Denver",
         code: "us-co",
         relative_radius: 0.9
+    },
+    "dodge_city": {
+        name: "Dodge City",
+        name_english: "Dodge City",
+        code: "us-ks",
+        relative_radius: 0.8
     },
     "durango": {
         name: "Durango",
@@ -1692,6 +1704,9 @@ var city_properties = {
     "cody": {
         relative_whitenoise: 0.85
     },
+    "colby": {
+        relative_whitenoise: 0.85
+    },
     "college_station": {
         relative_whitenoise: 0.95
     },
@@ -1740,6 +1755,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "denver": {
+        relative_whitenoise: 0.85
+    },
+    "dodge_city": {
         relative_whitenoise: 0.85
     },
     "durango": {
@@ -2831,6 +2849,14 @@ var cities = [
         "z": "-35109.9"
     },
     {
+        "gameName": "colby",
+        "realName": "Colby",
+        "country": "colby",
+        "x": "-22384.1",
+        "y": "270",
+        "z": "-3269.34"
+    },
+    {
         "gameName": "college_station",
         "realName": "College Station",
         "country": "college_station",
@@ -2965,6 +2991,14 @@ var cities = [
         "x": "-38561.4",
         "y": "138.176",
         "z": "-5191.34"
+    },
+    {
+        "gameName": "dodge_city",
+        "realName": "Dodge City",
+        "country": "dodge_city",
+        "x": "-18001.7",
+        "y": "140",
+        "z": "6714.36"
     },
     {
         "gameName": "durango",
@@ -7208,18 +7242,6 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 0.9
     },
-    "colby_ks": {
-        name: "colby_ks",
-        name_english: "colby_ks",
-        code: "us-ks",
-        relative_radius: 0.7
-    },
-    "dodgecity": {
-        name: "dodgecity",
-        name_english: "dodgecity",
-        code: "us-ks",
-        relative_radius: 0.8
-    },
     "emporia": {
         name: "emporia",
         name_english: "emporia",
@@ -8480,12 +8502,6 @@ var city_properties_c2c = {
     "sioux_city": {
         relative_whitenoise: 0.85
     },
-    "colby_ks": {
-        relative_whitenoise: 0.85
-    },
-    "dodgecity": {
-        relative_whitenoise: 0.85
-    },
     "emporia": {
         relative_whitenoise: 0.85
     },
@@ -9511,22 +9527,6 @@ var cities_c2c = [
         "x": "18196.8",
         "y": "126.424",
         "z": "-15914.7"
-    },
-    {
-        "gameName": "colby_ks",
-        "realName": "Colby",
-        "country": "colby_ks",
-        "x": "-22384.1",
-        "y": "270",
-        "z": "-3269.34"
-    },
-    {
-        "gameName": "dodgecity",
-        "realName": "Dodge City",
-        "country": "dodgecity",
-        "x": "-18001.7",
-        "y": "140",
-        "z": "6714.36"
     },
     {
         "gameName": "emporia",
