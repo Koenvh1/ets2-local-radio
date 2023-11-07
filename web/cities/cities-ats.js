@@ -455,6 +455,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 0.8
     },
+    "emporia": {
+        name: "Emporia",
+        name_english: "Emporia",
+        code: "us-ks",
+        relative_radius: 0.7
+    },
     "enid": {
         name: "Enid",
         name_english: "Enid",
@@ -1785,6 +1791,9 @@ var city_properties = {
     "ely": {
         relative_whitenoise: 0.85
     },
+    "emporia": {
+        relative_whitenoise: 0.85
+    },
     "enid": {
         relative_whitenoise: 0.95
     },
@@ -3071,6 +3080,14 @@ var cities = [
         "x": "-81817",
         "y": "172.629",
         "z": "-10079.4"
+    },
+    {
+        "gameName": "emporia",
+        "realName": "Emporia",
+        "country": "emporia",
+        "x": "-1659.19",
+        "y": "175.192",
+        "z": "4401.77"
     },
     {
         "gameName": "enid",
@@ -7242,12 +7259,6 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 0.9
     },
-    "emporia": {
-        name: "emporia",
-        name_english: "emporia",
-        code: "us-ks",
-        relative_radius: 0.7
-    },
     "gardencity": {
         name: "gardencity",
         name_english: "gardencity",
@@ -8502,9 +8513,6 @@ var city_properties_c2c = {
     "sioux_city": {
         relative_whitenoise: 0.85
     },
-    "emporia": {
-        relative_whitenoise: 0.85
-    },
     "gardencity": {
         relative_whitenoise: 0.85
     },
@@ -9527,14 +9535,6 @@ var cities_c2c = [
         "x": "18196.8",
         "y": "126.424",
         "z": "-15914.7"
-    },
-    {
-        "gameName": "emporia",
-        "realName": "Emporia",
-        "country": "emporia",
-        "x": "-1659.19",
-        "y": "175.192",
-        "z": "4401.77"
     },
     {
         "gameName": "gardencity",
