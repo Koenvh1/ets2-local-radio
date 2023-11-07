@@ -26822,7 +26822,7 @@ var stations_c2c = {
         },
         {
             name: "Kool Oldies 106.1",
-            logo: "stations/images-america/c2c/tallahassee_fl/Kool Oldies 106.1.png",
+            logo: "stations/images-america/c2c/tallahassee_fl/Kool Oldies 106.1_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-wqtlfmaac-ibc1"
         },
         {
@@ -32653,7 +32653,7 @@ var stations_c2c = {
         },
         {
             name: "94.1 The Wave",
-            logo: "stations/images-america/c2c/bangor_me/94.1 The Wave.png",
+            logo: "stations/images-america/c2c/bangor_me/94.1 The Wave_christmas.png",
             url: "https://ais-sa1.streamon.fm/7672_48k.aac"
         },
         {
@@ -37126,7 +37126,7 @@ var stations_c2c = {
         },
         {
             name: "B95.5",
-            logo: "stations/images-america/c2c/albany_ny/B95.5.png",
+            logo: "stations/images-america/c2c/albany_ny/B95.5_christmas.png",
             url: "https://ais-sa1.streamon.fm/7821_128k.aac"
         },
         {
@@ -37156,7 +37156,7 @@ var stations_c2c = {
         },
         {
             name: "98.3 TRY",
-            logo: "stations/images-america/c2c/albany_ny/98.3 TRY.png",
+            logo: "stations/images-america/c2c/albany_ny/98.3 TRY_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1437/hls.m3u8"
         },
         {
@@ -37216,7 +37216,7 @@ var stations_c2c = {
         },
         {
             name: "103.9 The Breeze",
-            logo: "stations/images-america/c2c/albany_ny/103.9 The Breeze.png",
+            logo: "stations/images-america/c2c/albany_ny/103.9 The Breeze_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wpbzfmaac-ibc3"
         },
         {
