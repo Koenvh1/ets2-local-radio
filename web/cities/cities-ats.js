@@ -551,6 +551,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 1.0
     },
+    "garden_city": {
+        name: "Garden City",
+        name_english: "Garden City",
+        code: "us-ks",
+        relative_radius: 0.8
+    },
     "gillette": {
         name: "Gillette",
         name_english: "Gillette",
@@ -1764,7 +1770,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "dodge_city": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "durango": {
         relative_radius: 1.0,
@@ -1848,6 +1854,10 @@ var city_properties = {
     },
     "galveston": {
 		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
+    "garden_city": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "gillette": {
@@ -3248,6 +3258,22 @@ var cities = [
         "x": "6388.7",
         "y": "54.2969",
         "z": "54871.6"
+    },
+    {
+        "gameName": "garden_city",
+        "realName": "Garden City",
+        "country": "garden_city",
+        "x": "-21669.2",
+        "y": "180",
+        "z": "4876.24"
+    },
+    {
+        "gameName": "garden_city",
+        "realName": "Garden City",
+        "country": "dodge_city",
+        "x": "-21669.2",
+        "y": "180",
+        "z": "4876.24"
     },
     {
         "gameName": "gillette",
@@ -7259,12 +7285,6 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 0.9
     },
-    "gardencity": {
-        name: "gardencity",
-        name_english: "gardencity",
-        code: "us-ks",
-        relative_radius: 0.7
-    },
     "greatbend_ks": {
         name: "Great Bend",
         name_english: "Great Bend",
@@ -8513,9 +8533,6 @@ var city_properties_c2c = {
     "sioux_city": {
         relative_whitenoise: 0.85
     },
-    "gardencity": {
-        relative_whitenoise: 0.85
-    },
     "greatbend_ks": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
@@ -9535,14 +9552,6 @@ var cities_c2c = [
         "x": "18196.8",
         "y": "126.424",
         "z": "-15914.7"
-    },
-    {
-        "gameName": "gardencity",
-        "realName": "Garden City",
-        "country": "gardencity",
-        "x": "-21669.2",
-        "y": "180",
-        "z": "4876.24"
     },
     {
         "gameName": "greatbend_ks",
