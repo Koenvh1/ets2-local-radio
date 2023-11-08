@@ -617,6 +617,12 @@ var country_properties = {
         code: "us-ok",
         relative_radius: 0.6
     },
+    "hays": {
+        name: "Hays",
+        name_english: "Hays",
+        code: "us-ks",
+        relative_radius: 0.7
+    },
     "helena": {
         name: "Helena",
         name_english: "Helena",
@@ -1891,6 +1897,9 @@ var city_properties = {
     },
     "guymon": {
         relative_radius: 0.6,
+        relative_whitenoise: 0.95
+    },
+    "hays": {
         relative_whitenoise: 0.95
     },
     "helena": {
@@ -3354,6 +3363,14 @@ var cities = [
         "x": "-24243",
         "y": "106.262",
         "z": "12150.3"
+    },
+    {
+        "gameName": "hays",
+        "realName": "Hays",
+        "country": "hays",
+        "x": "-15143.8",
+        "y": "281.967",
+        "z": "-10.7185"
     },
     {
         "gameName": "helena",
@@ -7291,12 +7308,6 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 0.7
     },
-    "hays": {
-        name: "hays",
-        name_english: "hays",
-        code: "us-ks",
-        relative_radius: 0.7
-    },
     "liberal_ks": {
         name: "liberal_ks",
         name_english: "liberal_ks",
@@ -8537,9 +8548,6 @@ var city_properties_c2c = {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
-    "hays": {
-        relative_whitenoise: 0.85
-    },
     "liberal_ks": {
         relative_whitenoise: 0.95
     },
@@ -9560,14 +9568,6 @@ var cities_c2c = [
         "x": "-12390.6",
         "y": "188",
         "z": "3328.88"
-    },
-    {
-        "gameName": "hays",
-        "realName": "Hays",
-        "country": "hays",
-        "x": "-15143.8",
-        "y": "281.967",
-        "z": "-10.7185"
     },
     {
         "gameName": "liberal_ks",

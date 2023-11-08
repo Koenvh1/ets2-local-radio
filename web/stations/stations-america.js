@@ -5391,7 +5391,7 @@ var stations = {
         },
         {
             name: "My Country 93.5",
-            logo: "stations/images-america/c2c/hays_ks/My Country 93.5.png",
+            logo: "stations/images-america/hays/My Country 93.5.png",
             url: "https://ice8.securenetsystems.net/KKDT"
         },
         {
@@ -30654,24 +30654,24 @@ var stations_c2c = {
     ],
     "hays": [
         {
+            name: "K203FB 88.5",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "KPRD 88.9",
+            logo: "stations/images-america/hays/KPRD 88.9.png",
+            url: "https://ice9.securenetsystems.net/KPRD"
+        },
+        {
+            name: "afr Hybrid 89.7",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp3"
+        },
+        {
             name: "Radio Kansas 90.9",
             logo: "stations/images-america/0_general_logos/Radio Kansas.png",
             url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
-        },
-        {
-            name: "NewGrass Valley 90.9-HD2",
-            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
-            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
-        },
-        {
-            name: "Kansas Breeze 90.9-HD3",
-            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
-            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
-        },
-        {
-            name: "Radio Kansas Jazz 90.9-HD4",
-            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
-            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
         },
         {
             name: "HPPR 91.7",
@@ -30679,69 +30679,79 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
         },
         {
-            name: "My 93.1",
-            logo: "stations/images-america/c2c/hays_ks/My 93.1.png",
-            url: "https://ice9.securenetsystems.net/KHMY2"
-        },
-        {
             name: "My Country 93.5",
-            logo: "stations/images-america/c2c/hays_ks/My Country 93.5.png",
+            logo: "stations/images-america/hays/My Country 93.5.png",
             url: "https://ice8.securenetsystems.net/KKDT"
         },
         {
             name: "KAYS 94.3",
-            logo: "stations/images-america/c2c/hays_ks/KAYS 94.3.png",
+            logo: "stations/images-america/hays/KAYS 94.3.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KAYS"
         },
         {
-            name: "94.7 KSKU",
-            logo: "stations/images-america/c2c/hays_ks/94.7 KSKU.png",
-            url: "http://173.193.205.96:8340/stream"
+            name: "95.3 The Cowboy",
+            logo: "stations/images-america/hays/95.3 The Cowboy.png",
+            url: "https://ice42.securenetsystems.net/KWKN"
         },
         {
             name: "96.9 KFIX",
-            logo: "stations/images-america/c2c/hays_ks/96.9 KFIX.png",
+            logo: "stations/images-america/hays/96.9 KFIX.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KFIX"
         },
         {
             name: "99 KZ Country",
-            logo: "stations/images-america/c2c/hays_ks/99 KZ Country.png",
+            logo: "stations/images-america/hays/99 KZ Country.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KHAZ"
         },
         {
+            name: "3ABN 100.1",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
             name: "100.7 Eagle Country",
-            logo: "stations/images-america/c2c/hays_ks/100.7 Eagle Country.png",
+            logo: "stations/images-america/hays/100.7 Eagle Country.png",
             url: "http://216.246.103.221/index.php?u=https://ice10.securenetsystems.net/KHOKFM2"
         },
         {
             name: "101.9 The Bull",
-            logo: "stations/images-america/c2c/hays_ks/101.9 The Bull.png",
+            logo: "stations/images-america/hays/101.9 The Bull.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KKQY"
         },
         {
             name: "Mix 103.3",
-            logo: "stations/images-america/c2c/hays_ks/Mix 103.3.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tKTFM="
+            logo: "stations/images-america/hays/Mix 103.3.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJLS"
+        },
+        {
+            name: "Bott Radio 103.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://ic1.christiannetcast.com/bottradio"
         },
         {
             name: "B104.3",
-            logo: "stations/images-america/c2c/hays_ks/B104.3.png",
+            logo: "stations/images-america/hays/B104.3.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KVGBFM2"
         },
         {
             name: "KISS 104.7",
-            logo: "stations/images-america/c2c/hays_ks/KISS 104.7.png",
+            logo: "stations/images-america/hays/KISS 104.7.png",
             url: "https://ice6.securenetsystems.net/KXNC"
         },
         {
             name: "Devine Mercy Radio 105.7",
-            logo: "stations/images-america/c2c/hays_ks/Devine Mercy Radio 105.7.png",
+            logo: "stations/images-america/hays/Devine Mercy Radio 105.7.png",
             url: "https://ice41.securenetsystems.net/KMDG"
         },
         {
             name: "Hits 106.9",
-            logo: "stations/images-america/c2c/hays_ks/Hits 106.9.png",
+            logo: "stations/images-america/hays/Hits 106.9.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KBGLFM"
+        },
+        {
+            name: "107.9 KZRS",
+            logo: "stations/images-america/hays/107.9 KZRS.png",
+            url: "https://ice25.securenetsystems.net/KZRS"
         },
         {
             name: "KFRM 550",
@@ -30749,13 +30759,28 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
-            name: "KRVN 880",
-            logo: "stations/images-america/c2c/mccook_ne/KRVN 880.png",
-            url: "https://ais-sa1.streamon.fm/7323_48k.aac"
+            name: "KRSL 990",
+            logo: "stations/images-america/hays/KRSL 990.png",
+            url: "https://ice25.securenetsystems.net/KRSL"
+        },
+        {
+            name: "KSAL 1150",
+            logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
+            url: "https://ice23.securenetsystems.net/KSALAM"
+        },
+        {
+            name: "KAYS 1400",
+            logo: "stations/images-america/hays/KAYS 94.3.png",
+            url: "http://216.246.103.221/index.php?u=http://ice9.securenetsystems.net/KAYS"
+        },
+        {
+            name: "1510 KLQR",
+            logo: "stations/images-america/hays/1510 KLQR.png",
+            url: "https://us2.maindigitalstream.com/ssl/KLQR"
         },
         {
             name: "KVGB 1590",
-            logo: "stations/images-america/c2c/hays_ks/KVGB 1590.png",
+            logo: "stations/images-america/hays/KVGB 1590.png",
             url: "http://216.246.103.221/index.php?u=https://ice10.securenetsystems.net/KVGBAM2"
         },
     ],
