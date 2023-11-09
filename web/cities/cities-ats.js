@@ -665,6 +665,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
+    "hutchinson": {
+        name: "Hutchinson",
+        name_english: "Hutchinson",
+        code: "us-ks",
+        relative_radius: 0.7
+    },
     "idabel": {
         name: "Idabel",
         name_english: "Idabel",
@@ -1517,6 +1523,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "wichita": {
+        name: "Wichita",
+        name_english: "Wichita",
+        code: "us-ks",
+        relative_radius: 0.7
+    },
     "wichita_falls": {
         name: "Wichita Falls",
         name_english: "Wichita Falls",
@@ -1925,6 +1937,10 @@ var city_properties = {
     "huron": {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
+    },
+    "hutchinson": {
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "idabel": {
         relative_radius: 0.5,
@@ -2397,6 +2413,9 @@ var city_properties = {
     },
     "wheatland": {
         relative_whitenoise: 0.85
+    },
+    "wichita": {
+        relative_whitenoise: 0.95
     },
     "wichita_falls": {
         relative_whitenoise: 0.95
@@ -3435,6 +3454,22 @@ var cities = [
         "x": "-109939",
         "y": "86.5572",
         "z": "2102.63"
+    },
+    {
+        "gameName": "hutchinson",
+        "realName": "Hutchinson",
+        "country": "hutchinson",
+        "x": "-6237.22",
+        "y": "175.43",
+        "z": "6385.19"
+    },
+    {
+        "gameName": "hutchinson",
+        "realName": "Hutchinson",
+        "country": "wichita",
+        "x": "-6237.22",
+        "y": "175.43",
+        "z": "6385.19"
     },
     {
         "gameName": "idabel",
@@ -4747,6 +4782,14 @@ var cities = [
         "x": "-36817.5",
         "y": "100.94",
         "z": "-20075.8"
+    },
+    {
+        "gameName": "wichita",
+        "realName": "Wichita",
+        "country": "wichita",
+        "x": "-5937.22",
+        "y": "175.43",
+        "z": "6685.19"
     },
     {
         "gameName": "wichita_falls",
@@ -7326,12 +7369,6 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 1.1
     },
-    "wichita": {
-        name: "wichita",
-        name_english: "wichita",
-        code: "us-ks",
-        relative_radius: 0.7
-    },
     "kentucky": {
         name: "kentucky",
         name_english: "kentucky",
@@ -8558,9 +8595,6 @@ var city_properties_c2c = {
         relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
-    "wichita": {
-        relative_whitenoise: 0.95
-    },
     "bowling_green": {
         relative_whitenoise: 0.85
     },
@@ -9600,14 +9634,6 @@ var cities_c2c = [
         "x": "-1862.19",
         "y": "175.426",
         "z": "-96.5295"
-    },
-    {
-        "gameName": "wichita",
-        "realName": "Wichita",
-        "country": "wichita",
-        "x": "-5937.22",
-        "y": "175.43",
-        "z": "6685.19"
     },
     {
         "gameName": "bowling_green",
