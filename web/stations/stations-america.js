@@ -6324,12 +6324,12 @@ var stations = {
         },
         {
             name: "KFH Radio 1240",
-            logo: "stations/images-america/wichita/KFH Radio 1240.png",
+            logo: "stations/images-america/wichita/KFH.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kfhfmaac-imc"
         },
         {
             name: "KNSS 1330",
-            logo: "stations/images-america/wichita/KNSS 98.7.png",
+            logo: "stations/images-america/wichita/KNSS.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct//audacy-knssamaac-imc"
         },
         {
@@ -6341,12 +6341,12 @@ var stations = {
             name: "KVOE 1400",
             logo: "stations/images-america/emporia/KVOE.png",
             url: "http://ice64.securenetsystems.net/KVOE"
-        },/*
+        },
         {
             name: "KJCK 1420",
             logo: "stations/images-america/junction_city/KJCK.png",
-            url: "http://ice9.securenetsystems.net/KJCKAM"
-        },*/
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJCKAM"
+        },
         {
             name: "KMAJ 1440",
             logo: "stations/images-america/c2c/topeka_ks/KMAJ 1440.png",
@@ -9555,6 +9555,98 @@ var stations = {
             name: "980 The Zone",
             logo: "stations/images-america/jackson/980 The Zone.png",
             url: "https://ice7.securenetsystems.net/KSPZ"
+        },
+    ],
+    "junction_city": [
+        {
+            name: "KPR 91.3",
+            logo: "stations/images-america/0_general_logos/KPR.png",
+            url: "https://streaming.kansaspublicradio.org:8001/kpr1"
+        },
+        {
+            name: "KPR 91.3-HD2",
+            logo: "stations/images-america/0_general_logos/KPR.png",
+            url: "https://streaming.kansaspublicradio.org:8001/kpr2"
+        },
+        {
+            name: "K222AX 92.3",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "Z96.3",
+            logo: "stations/images-america/junction_city/Z96.3.png",
+            url: "https://crystalout.surfernetwork.com:8001/KACZ_MP3"
+        },
+        {
+            name: "Power Hits 97.5",
+            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
+        },
+        {
+            name: "KCLY 100.9",
+            logo: "stations/images-america/junction_city/KCLY 100.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCLYFMAAC_SC"
+        },
+        {
+            name: "101.5 K-ROCK",
+            logo: "stations/images-america/junction_city/101.5 K-ROCK.png",
+            url: "https://crystalout.surfernetwork.com:8001/KMKF_MP3"
+        },
+        {
+            name: "Sunny 102.5",
+            logo: "stations/images-america/junction_city/Sunny 102.5.png",
+            url: "https://crystalout.surfernetwork.com:8001/KBLS-FM_MP3"
+        },
+        {
+            name: "Q103.5",
+            logo: "stations/images-america/junction_city/Q103.5.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KQLAFM"
+        },
+        {
+            name: "B104.7",
+            logo: "stations/images-america/junction_city/B104.7.png",
+            url: "https://crystalout.surfernetwork.com:8001/KXBZ_MP3"
+        },
+        {
+            name: "KJCK 107.9",
+            logo: "stations/images-america/junction_city/KJCK.png",
+            url: "http://216.246.103.221/index.php?u=http://ice9.securenetsystems.net/KJCKAM"
+        },
+        {
+            name: "KFRM 550",
+            logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
+        },
+        {
+            name: "580 WIBW",
+            logo: "stations/images-america/c2c/topeka_ks/580 WIBW.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+        },
+        {
+            name: "KSAL 1150",
+            logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
+            url: "https://ice23.securenetsystems.net/KSALAM"
+        },
+        {
+            name: "KMAN 1350",
+            logo: "stations/images-america/emporia/KMAN 1350.png",
+            url: "http://crystalout.surfernetwork.com:8001/KMAN_MP3"
+        },
+        {
+            name: "KJCK 1420",
+            logo: "stations/images-america/junction_city/KJCK.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJCKAM"
+        },
+        {
+            name: "KMAJ 1440",
+            logo: "stations/images-america/c2c/topeka_ks/KMAJ 1440.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC_SC"
+        },
+        {
+            name: "1560 The General",
+            logo: "stations/images-america/c2c/salina_ks/The General 1560.png",
+            url: "https://ice42.securenetsystems.net/KABI"
         },
     ],
     "katl": [

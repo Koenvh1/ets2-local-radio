@@ -701,6 +701,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.4
     },
+    "junction_city": {
+        name: "Junction City",
+        name_english: "Junction City",
+        code: "us-ks",
+        relative_radius: 0.5
+    },
     "kalispell": {
         name: "Kalispell",
         name_english: "Kalispell",
@@ -1957,6 +1963,9 @@ var city_properties = {
     },
     "junction": {
 		relative_radius: 1.2,
+        relative_whitenoise: 0.95
+    },
+    "junction_city": {
         relative_whitenoise: 0.95
     },
     "kalispell": {
@@ -3518,6 +3527,14 @@ var cities = [
         "x": "-18677.4",
         "y": "109",
         "z": "48348.2"
+    },
+    {
+        "gameName": "junction_city",
+        "realName": "Junction City",
+        "country": "junction_city",
+        "x": "-6462.19",
+        "y": "175.426",
+        "z": "-96.5295"
     },
     {
         "gameName": "kalispell",
@@ -7361,7 +7378,7 @@ var country_properties_c2c = {
         name: "salina",
         name_english: "salina",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 0.4
     },
     "topeka": {
         name: "topeka",
@@ -8589,11 +8606,11 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "salina_ks": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "topeka": {
-        relative_radius: 0.9,
-        relative_whitenoise: 0.85
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "bowling_green": {
         relative_whitenoise: 0.85
@@ -9615,7 +9632,7 @@ var cities_c2c = [
         "gameName": "salina_ks",
         "realName": "Salina",
         "country": "salina_ks",
-        "x": "-7276.62",
+        "x": "-8276.62",
         "y": "354.108",
         "z": "684.355"
     },
