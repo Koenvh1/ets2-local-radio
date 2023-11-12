@@ -2990,7 +2990,7 @@ var stations = {
         {
             name: "Radiofreccia",
             logo: "stations/images-europe/italy/Radiofreccia.png",
-            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8"
+            url: "https://streamingv2.shoutcast.com/radiofreccia_48.aac"
         },
         {
             name: "Radio InBlu",
@@ -3030,7 +3030,7 @@ var stations = {
         {
             name: "RTL 102.5",
             logo: "stations/images-europe/italy/RTL 102.5.png",
-            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8"
+            url: "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
         },
         {
             name: "Virgin Radio",
