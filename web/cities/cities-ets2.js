@@ -114,7 +114,7 @@ var country_properties = {
         relative_radius: 0.55,
     },
     "egypt": {
-        name: "مَصر‎‎",
+        name: "مَصر",
         name_english: "Egypt",
         code: "eg",
         relative_radius: 0.5,
@@ -300,7 +300,7 @@ var country_properties = {
         relative_radius: 0.5,
     },
     "iraq": {
-        name: "اَلْعِرَاق‎",
+        name: "اَلْعِرَاق",
         name_english: "Iraq",
         code: "iq",
         relative_radius: 1,
@@ -336,7 +336,7 @@ var country_properties = {
         relative_radius: 0.1,
     },
     "jordan": {
-        name: "الْأُرْدُنّ‎",
+        name: "الْأُرْدُنّ",
         name_english: "Jordan",
         code: "jo",
         relative_radius: 0.5,
@@ -360,7 +360,7 @@ var country_properties = {
         relative_radius: 0.6,
     },
     "lebanon": {
-        name: "لبنان‎",
+        name: "لبنان",
         name_english: "Lebanon",
         code: "lb",
         relative_radius: 0.5,
@@ -534,7 +534,7 @@ var country_properties = {
         relative_radius: 0.8,
     },
     "syria": {
-        name: "سوريا‎",
+        name: "سوريا",
         name_english: "Syria",
         code: "sy",
         relative_radius: 0.5,

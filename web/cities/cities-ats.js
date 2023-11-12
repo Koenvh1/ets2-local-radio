@@ -719,6 +719,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
+    "kansas_city": {
+        name: "Kansas City",
+        name_english: "Kansas City",
+        code: "us-mo",
+        relative_radius: 1.0
+    },
     "kayenta": {
         name: "Kayenta",
         name_english: "Kayenta",
@@ -910,6 +916,12 @@ var country_properties = {
         name_english: "Martins",
         code: "us-ca",
         relative_radius: 0.7
+    },
+    "marysville": {
+        name: "Marysville",
+        name_english: "Marysville",
+        code: "us-ks",
+        relative_radius: 0.5
     },
     "mcallen_brownsville": {
         name: "Rio Grande Valley",
@@ -1975,6 +1987,9 @@ var city_properties = {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
+    "kansas_city": {
+        relative_whitenoise: 0.95
+    },
     "katl": {
         relative_whitenoise: 0.85
     },
@@ -2085,6 +2100,9 @@ var city_properties = {
     "martins_ca": {
 		relative_radius: 0.3,
         relative_whitenoise: 0.85
+    },
+    "marysville": {
+        relative_whitenoise: 0.95
     },
     "mcalester": {
         relative_whitenoise: 0.95
@@ -3468,17 +3486,17 @@ var cities = [
         "gameName": "hutchinson",
         "realName": "Hutchinson",
         "country": "hutchinson",
-        "x": "-6237.22",
-        "y": "175.43",
-        "z": "6385.19"
+        "x": "-9390.6",
+        "y": "188",
+        "z": "5828.88"
     },
     {
         "gameName": "hutchinson",
         "realName": "Hutchinson",
         "country": "wichita",
-        "x": "-6237.22",
-        "y": "175.43",
-        "z": "6385.19"
+        "x": "-9390.6",
+        "y": "188",
+        "z": "5828.88"
     },
     {
         "gameName": "idabel",
@@ -3567,6 +3585,14 @@ var cities = [
         "x": "-64177",
         "y": "145.051",
         "z": "7337.55"
+    },
+    {
+        "gameName": "kansas_city",
+        "realName": "Kansas City",
+        "country": "kansas_city",
+        "x": "6370.48",
+        "y": "192.055",
+        "z": "487.648"
     },
     {
         "gameName": "kennewick",
@@ -3855,6 +3881,14 @@ var cities = [
         "x": "-104462",
         "y": "65.4794",
         "z": "11502.9"
+    },
+    {
+        "gameName": "marysville",
+        "realName": "Marysville",
+        "country": "marysville",
+        "x": "-2976.41",
+        "y": "153.148",
+        "z": "-4568.5"
     },
     {
         "gameName": "mcalester",
@@ -7384,7 +7418,7 @@ var country_properties_c2c = {
         name: "topeka",
         name_english: "topeka",
         code: "us-ks",
-        relative_radius: 1.1
+        relative_radius: 1.0
     },
     "kentucky": {
         name: "kentucky",
@@ -7692,12 +7726,6 @@ var country_properties_c2c = {
         code: "us-mo",
         relative_radius: 0.9
     },
-    "kansascity": {
-        name: "Kansas City",
-        name_english: "Kansas City",
-        code: "us-mo",
-        relative_radius: 1.1
-    },
     "kirksville_mo": {
         name: "Kirksville, MO",
         name_english: "Kirksville, MO",
@@ -7714,7 +7742,7 @@ var country_properties_c2c = {
         name: "st_joseph",
         name_english: "st_joseph",
         code: "us-mo",
-        relative_radius: 1.1
+        relative_radius: 1.0
     },
     "stlouis": {
         name: "stlouis",
@@ -8747,9 +8775,6 @@ var city_properties_c2c = {
     "joplin": {
         relative_whitenoise: 0.85
     },
-    "kansascity": {
-        relative_whitenoise: 0.85
-    },
     "kirksville_mo": {
         relative_whitenoise: 0.85
     },
@@ -9647,7 +9672,7 @@ var cities_c2c = [
     {
         "gameName": "topeka",
         "realName": "Topeka",
-        "country": "kansascity",
+        "country": "kansas_city",
         "x": "-1862.19",
         "y": "175.426",
         "z": "-96.5295"
@@ -10029,14 +10054,6 @@ var cities_c2c = [
         "z": "11188.4"
     },
     {
-        "gameName": "kansascity",
-        "realName": "Kansas City",
-        "country": "kansascity",
-        "x": "6370.48",
-        "y": "192.055",
-        "z": "487.648"
-    },
-    {
         "gameName": "kirksville_mo",
         "realName": "Kirksville",
         "country": "kirksville_mo",
@@ -10063,7 +10080,7 @@ var cities_c2c = [
     {
         "gameName": "st_joseph",
         "realName": "St. Joseph",
-        "country": "kansascity",
+        "country": "kansas_city",
         "x": "5300.43",
         "y": "136.541",
         "z": "-7084.05"
