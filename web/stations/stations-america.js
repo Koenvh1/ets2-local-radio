@@ -19004,7 +19004,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc8556/hls.m3u8"
         },
         {
-            name: "K102"
+            name: "K102",
             logo: "stations/images-america/spokane/K102.png",
             url: "https://live.amperwave.net/manifest/blueskybroadcasting-kicrfmaac-ibc1"
         },
