@@ -326,7 +326,7 @@ var stations = {
         },
         {
             name: "KOOL Oldies 570",
-            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-kwmlamaac-ibc1"
         },
         {
@@ -1760,7 +1760,7 @@ var stations = {
         },
         {
             name: "Cool 92.5",
-            logo: "stations/images-america/beaumont/Cool 92.5.png",
+            logo: "stations/images-america/beaumont/Cool 92.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2189/hls.m3u8"
         },
         {
@@ -6769,7 +6769,7 @@ var stations = {
         },
         {
             name: "KOOL 104.5",
-            logo: "stations/images-america/farmington/KOOL 104.5.png",
+            logo: "stations/images-america/farmington/KOOL 104.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc5088/hls.m3u8"
         },
         {
@@ -9219,8 +9219,18 @@ var stations = {
         },
         {
             name: "Classy 97",
-            logo: "stations/images-america/idaho_falls/Classy 97.png",
+            logo: "stations/images-america/idaho_falls/Classy 97_christmas.png",
             url: "https://ice10.securenetsystems.net/KLCE"
+        },
+        {
+            name: "97.3 KLCE-HD2",
+            logo: "stations/images-america/idaho_falls/Classy Lite 97.png",
+            url: "https://ice9.securenetsystems.net/KLCE2"
+        },
+        {
+            name: "97.3 KLCE-HD3",
+            logo: "stations/images-america/idaho_falls/Sunny 97.png",
+            url: "https://ice26.securenetsystems.net/KLCE3"
         },
         {
             name: "Star 98",
@@ -9253,6 +9263,11 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KCVI"
         },
         {
+            name: "101.5 KCVI-HD2",
+            logo: "stations/images-america/idaho_falls/ALT 101.png",
+            url: "https://ice26.securenetsystems.net/KCVI2"
+        },
+        {
             name: "Magik 102.5",
             logo: "stations/images-america/idaho_falls/Magik 102.5.png",
             url: "https://ice24.securenetsystems.net/KMGI2"
@@ -9261,6 +9276,16 @@ var stations = {
             name: "Z103",
             logo: "stations/images-america/idaho_falls/Z103.png",
             url: "https://ice41.securenetsystems.net/KFTZ"
+        },
+        {
+            name: "103.3 KFTZ-HD2",
+            logo: "stations/images-america/idaho_falls/103.3 KFTZ-HD2.png",
+            url: "https://ice26.securenetsystems.net/KFTZ2"
+        },
+        {
+            name: "103.3 KFTZ-HD3",
+            logo: "stations/images-america/idaho_falls/103.3 KFTZ-HD3.png",
+            url: "https://ice26.securenetsystems.net/KFTZ3"
         },
         {
             name: "La Super Caliente 103.7",
@@ -9281,6 +9306,16 @@ var stations = {
             name: "105.5 The Hawk",
             logo: "stations/images-america/idaho_falls/105.5 The Hawk.png",
             url: "https://ice10.securenetsystems.net/KTHK"
+        },
+        {
+            name: "105.5 KTHK-HD2",
+            logo: "stations/images-america/idaho_falls/105.5 KTHK-HD2.png",
+            url: "https://ice26.securenetsystems.net/KTHK2"
+        },
+        {
+            name: "105.5 KTHK-HD3",
+            logo: "stations/images-america/idaho_falls/105.5 KTHK-HD3.png",
+            url: "https://ice26.securenetsystems.net/KTHK3"
         },
         {
             name: "KID 106.3",
@@ -10942,7 +10977,7 @@ var stations = {
         },
         {
             name: "KOOL Oldies 104.5",
-            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-kwmlamaac-ibc1"
         },
         {
@@ -19884,7 +19919,7 @@ var stations = {
         },
         {
             name: "KOOL Oldies 570",
-            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5.png",
+            logo: "stations/images-america/las_cruces/KOOL Oldies 104.5_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-kwmlamaac-ibc1"
         },
         {
@@ -26289,7 +26324,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 98.5",
-            logo: "stations/images-america/c2c/panama_city_fl/Sunny 98.5.png",
+            logo: "stations/images-america/c2c/panama_city_fl/Sunny 98.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2800/hls.m3u8"
         },
         {
@@ -26381,7 +26416,7 @@ var stations_c2c = {
         },
         {
             name: "98.5 KTK",
-            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK.png",
+            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wktkfmaac-imc"
         },
         {
@@ -26513,7 +26548,7 @@ var stations_c2c = {
         },
         {
             name: "96.1 WEJZ",
-            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
         },
         {
@@ -36560,7 +36595,7 @@ var stations_c2c = {
         },
         {
             name: "JoeTown 107.5",
-            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5.png",
+            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5_christmas.png",
             url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
         },
         {
@@ -38608,7 +38643,7 @@ var stations_c2c = {
         },
         {
             name: "WARM 101.3",
-            logo: "stations/images-america/c2c/rochester_ny/WARM 101.3.png",
+            logo: "stations/images-america/c2c/rochester_ny/WARM 101.3_christmas.png",
             url: "https://ice23.securenetsystems.net/WRMM"
         },
         {
@@ -41279,7 +41314,7 @@ var stations_c2c = {
         },
         {
             name: "MIX 98.9",
-            logo: "stations/images-america/c2c/youngstown_oh/MIX 98.9.png",
+            logo: "stations/images-america/c2c/youngstown_oh/MIX 98.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2772/hls.m3u8"
         },
         {
@@ -45509,8 +45544,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRBOFMAAC_SC"
         },
         {
-            name: "The Trend on WAVN 104.1",
-            logo: "stations/images-america/c2c/memphis_tn/The Trend on WAVN 104.1.png",
+            name: "El Gallo 104.1",
+            logo: "stations/images-america/c2c/memphis_tn/El Gallo 104.1.png",
             url: "https://stream1.flinn.com:8443/1041FM.aac"
         },
         {
@@ -46000,7 +46035,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 93.1",
-            logo: "stations/images-america/c2c/harrisonburg_va/Mix 93.1.png",
+            logo: "stations/images-america/c2c/harrisonburg_va/Mix 93.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2437/hls.m3u8"
         },
         {

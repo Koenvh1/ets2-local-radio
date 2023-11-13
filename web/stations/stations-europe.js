@@ -385,11 +385,6 @@ var stations = {
             url: "https://stream2.datacenter.by/stalica"
         },
         {
-            name: "Радио Би-Эй",
-            logo: "stations/images-europe/belarus/Радио BA.png",
-            url: "https://air.radioba.by:8443/ba"
-        },
-        {
             name: "Радио Минск",
             logo: "stations/images-europe/belarus/Радио Минск.png",
             url: "http://178.172.236.179:8000/mk128"
@@ -460,6 +455,11 @@ var stations = {
             name: "Family Radio",
             logo: "stations/images-europe/belgium-nl/Family Radio.png",
             url: "http://www.clubfmserver.be:8000/family.mp3"
+        },
+        {
+            name: "JOE",
+            logo: "stations/images-europe/belgium-nl/Joe.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/JOEAAC_SC"
         },
         {
             name: "Play Nostalgie",
@@ -547,11 +547,6 @@ var stations = {
             name: "Fun Radio",
             logo: "stations/images-europe/belgium-fr/Fun Radio.png",
             url: "http://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
-        },
-        {
-            name: "Joe",
-            logo: "stations/images-europe/belgium-fr/Joe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/JOEAAC_SC"
         },
         {
             name: "Nostalgie",
@@ -1690,11 +1685,6 @@ var stations = {
             url: "https://live.radio.odishi.ge/odishi.mp3"
         },
         {
-            name: "პირველი რადიო",
-            logo: "stations/images-europe/georgia/პირველი რადიო.png",
-            url: "http://178.134.47.58:88/broadwave.mp3"
-        },
-        {
             name: "რადიო აჭარა",
             logo: "stations/images-europe/georgia/რადიო აჭარა.png",
             url: "https://edge.mixlr.com/channel/bzorq"
@@ -2790,11 +2780,6 @@ var stations = {
             name: "راديو سوا",
             logo: "stations/images-europe/iraq/راديو سوا.png",
             url: "https://stream.radiojar.com/t9h51xwr92quv"
-        },
-        {
-            name: "إذاعة الكفيل",
-            logo: "stations/images-europe/iraq/إذاعة الكفيل.png",
-            url: "https://stream.alkafeel.net/live/radio/manifest.m3u8"
         },
         {
             name: "راديو الآن",
@@ -4563,12 +4548,12 @@ var stations = {
             url: "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps"
         },
     ],
-    "saudia": [
+    "saudia": [/*
         {
             name: "إذاعة القران الكريم",
             logo: "stations/images-europe/saudi/إذاعة القران الكريم.png",
             url: "https://cllive.itworkscdn.net/ksaquranradiolive/token=nva=1699829696~dirs=1~hash=0bbe38e708ec65533b5db/ksaquranradiovision/playlist_dvr.m3u8"
-        },
+        },*/
         {
             name: "Alif Alif FM",
             logo: "stations/images-europe/saudi/Alif Alif FM.png",
@@ -4593,12 +4578,12 @@ var stations = {
             name: "Rotana",
             logo: "stations/images-europe/saudi/Rotana.png",
             url: "http://curiosity.shoutca.st:6035/;"
-        },
+        },/*
         {
             name: "Saudia Radio",
             logo: "stations/images-europe/saudi/Saudi Radio.png",
             url: "https://cllive.itworkscdn.net/ksasaudiaradiolive/token=nva=1699829777~dirs=1~hash=04baa2587b646a50f8e4a/ksasaudiaradiovision/playlist_dvr.m3u8"
-        },
+        },*/
         {
             name: "اذاعة UFM",
             logo: "stations/images-europe/saudi/اذاعة UFM.png",
