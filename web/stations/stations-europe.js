@@ -1137,7 +1137,7 @@ var stations = {
         {
             name: "ERTU Al Quran al Kareem",
             logo: "stations/images-europe/egypt/ERTU.png",
-            url: "http://66.45.232.131:9994/;"
+            url: "http://stream.radiojar.com/8s5u5tpdtwzuv"
         },/*
         {
             name: "ERTU Al Orobi",

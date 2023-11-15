@@ -3083,7 +3083,7 @@ var stations = {
         },
         {
             name: "K264DD 100.7",
-            logo: "stations/images-america/salina/KSVC 100.5.png",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
             url: "http://ice9.securenetsystems.net/KSVC"
         },
         {
@@ -3564,7 +3564,7 @@ var stations = {
         },
         {
             name: "KFRM 550",
-            logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
+            logo: "stations/images-america/salina_ks/KFRM 550.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
@@ -3863,7 +3863,7 @@ var stations = {
         },
         {
             name: "Q102.7",
-            logo: "stations/images-america/colorado_springs_pueblo/Q102.7.png",
+            logo: "stations/images-america/colorado_springs_pueblo/Q102.7_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBIQFMAAC_SC"
         },
         {
@@ -4980,32 +4980,32 @@ var stations = {
         },
         {
             name: "94.5 The Eagle",
-            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
             url: "https://ice10.securenetsystems.net/KLGL"
         },
         {
             name: "95.7 The Boss",
-            logo: "stations/images-america/salina/95.7 The Boss.png",
+            logo: "stations/images-america/salina_ut/95.7 The Boss.png",
             url: "https://ice42.securenetsystems.net/KUTC"
         },
         {
             name: "97.7 The Wolf",
-            logo: "stations/images-america/salina/97.7 The Wolf.png",
+            logo: "stations/images-america/salina_ut/97.7 The Wolf.png",
             url: "https://ice9.securenetsystems.net/KWUT"
         },
         {
             name: "KSVC 100.5",
-            logo: "stations/images-america/salina/KSVC 100.5.png",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
             url: "http://ice9.securenetsystems.net/KSVC"
         },
         {
             name: "K271DB 102.1",
-            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
             url: "http://ice10.securenetsystems.net/KLGL"
         },
         {
             name: "KMTI 650",
-            logo: "stations/images-america/salina/KMTI 95.1.png",
+            logo: "stations/images-america/salina_ut/KMTI 95.1.png",
             url: "https://ice10.securenetsystems.net/KMTI"
         },
         {
@@ -5020,7 +5020,7 @@ var stations = {
         },
         {
             name: "KSVC 980",
-            logo: "stations/images-america/salina/KSVC 100.5.png",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
             url: "https://ice9.securenetsystems.net/KSVC"
         },
     ],
@@ -6314,7 +6314,7 @@ var stations = {
         },
         {
             name: "KSAL 1150",
-            logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
+            logo: "stations/images-america/salina_ks/KSAL 1150.png",
             url: "https://ice23.securenetsystems.net/KSALAM"
         },
         {
@@ -8528,7 +8528,7 @@ var stations = {
         },
         {
             name: "KFRM 550",
-            logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
+            logo: "stations/images-america/salina_ks/KFRM 550.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
@@ -8538,7 +8538,7 @@ var stations = {
         },
         {
             name: "KSAL 1150",
-            logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
+            logo: "stations/images-america/salina_ks/KSAL 1150.png",
             url: "https://ice23.securenetsystems.net/KSALAM"
         },
         {
@@ -9223,13 +9223,13 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KLCE"
         },
         {
-            name: "97.3 KLCE-HD2",
-            logo: "stations/images-america/idaho_falls/Classy Lite 97.png",
+            name: "Classy Lite 97-HD2",
+            logo: "stations/images-america/idaho_falls/Classy Lite 97-HD2.png",
             url: "https://ice9.securenetsystems.net/KLCE2"
         },
         {
-            name: "97.3 KLCE-HD3",
-            logo: "stations/images-america/idaho_falls/Sunny 97.png",
+            name: "Sunny 97-HD3",
+            logo: "stations/images-america/idaho_falls/Sunny 97-HD3.png",
             url: "https://ice26.securenetsystems.net/KLCE3"
         },
         {
@@ -9263,8 +9263,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KCVI"
         },
         {
-            name: "101.5 KCVI-HD2",
-            logo: "stations/images-america/idaho_falls/ALT 101.png",
+            name: "ALT 101-HD2",
+            logo: "stations/images-america/idaho_falls/ALT 101-HD2.png",
             url: "https://ice26.securenetsystems.net/KCVI2"
         },
         {
@@ -9278,13 +9278,13 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KFTZ"
         },
         {
-            name: "103.3 KFTZ-HD2",
-            logo: "stations/images-america/idaho_falls/103.3 KFTZ-HD2.png",
+            name: "Throwback 103-HD2",
+            logo: "stations/images-america/idaho_falls/Throwback 103-HD2.png",
             url: "https://ice26.securenetsystems.net/KFTZ2"
         },
         {
-            name: "103.3 KFTZ-HD3",
-            logo: "stations/images-america/idaho_falls/103.3 KFTZ-HD3.png",
+            name: "Vibez 103-HD3",
+            logo: "stations/images-america/idaho_falls/Vibez 103-HD3.png",
             url: "https://ice26.securenetsystems.net/KFTZ3"
         },
         {
@@ -9308,13 +9308,13 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KTHK"
         },
         {
-            name: "105.5 KTHK-HD2",
-            logo: "stations/images-america/idaho_falls/105.5 KTHK-HD2.png",
+            name: "105 Outlaw-HD2",
+            logo: "stations/images-america/idaho_falls/105 Outlaw-HD2.png",
             url: "https://ice26.securenetsystems.net/KTHK2"
         },
         {
-            name: "105.5 KTHK-HD3",
-            logo: "stations/images-america/idaho_falls/105.5 KTHK-HD3.png",
+            name: "105 Legends-HD3",
+            logo: "stations/images-america/idaho_falls/105 Legends-HD3.png",
             url: "https://ice26.securenetsystems.net/KTHK3"
         },
         {
@@ -9650,7 +9650,7 @@ var stations = {
         },
         {
             name: "KFRM 550",
-            logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
+            logo: "stations/images-america/salina_ks/KFRM 550.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
@@ -9660,7 +9660,7 @@ var stations = {
         },
         {
             name: "KSAL 1150",
-            logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
+            logo: "stations/images-america/salina_ks/KSAL 1150.png",
             url: "https://ice23.securenetsystems.net/KSALAM"
         },
         {
@@ -9680,7 +9680,7 @@ var stations = {
         },
         {
             name: "1560 The General",
-            logo: "stations/images-america/c2c/salina_ks/The General 1560.png",
+            logo: "stations/images-america/salina_ks/The General 1560.png",
             url: "https://ice42.securenetsystems.net/KABI"
         },
     ],
@@ -12285,6 +12285,38 @@ var stations = {
             url: "https://goldenwest.leanstream.co/CHABAM"
         },
     ],
+    "mankato": [
+        {
+            name: "KR92",
+            logo: "stations/images-america/mankato/KR92.png",
+            url: "https://ic2.sslstream.com/krep-fm"
+        },
+        {
+            name: "KD Country 94",
+            logo: "stations/images-america/mankato/KD Country 94.png",
+            url: "https://ice23.securenetsystems.net/KDNS"
+        },
+        {
+            name: "Z96.3",
+            logo: "stations/images-america/mankato/Z96.3.png",
+            url: "https://ice23.securenetsystems.net/KZDY"
+        },
+        {
+            name: "Superior Country 104",
+            logo: "stations/images-america/mankato/Superior Country 104.png",
+            url: "https://ice7.securenetsystems.net/KRFSFM"
+        },
+        {
+            name: "K294AI 106.7",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "KRFS 1600",
+            logo: "stations/images-america/mankato/Superior Country 104.png",
+            url: "http://ice7.securenetsystems.net/KRFSFM"
+        },
+    ],
     "marathon_tx": [
         {
             name: "afr Hybrid 88.3",
@@ -13272,7 +13304,7 @@ var stations = {
         },
         {
             name: "Classy 99.1",
-            logo: "stations/images-america/salina/Classy 102.7.png",
+            logo: "stations/images-america/salina_ut/Classy 102.7.png",
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
@@ -14267,6 +14299,63 @@ var stations = {
             url: "https://crystalout.surfernetwork.com:8001/KIUN-AM_MP3"
         },
     ],
+    "phillipsburg": [
+        {
+            name: "NPM 88.7",
+            logo: "stations/images-america/0_general_logos/NPM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+        {
+            name: "HPPR 90.5",
+            logo: "stations/images-america/0_general_logos/HPPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
+        },
+        {
+            name: "K216ED 91.1",
+            logo: "stations/images-america/hays/KPRD 88.9.png",
+            url: "https://ice9.securenetsystems.net/KPRD"
+        },
+        {
+            name: "KQMA 92.5",
+            logo: "stations/images-america/phillipsburg/KQMA 92.5.png",
+            url: "http://24.225.20.103:8000/stream.mp3"
+        },
+        {
+            name: "95.3 The Cowboy",
+            logo: "stations/images-america/hays/95.3 The Cowboy.png",
+            url: "https://ice42.securenetsystems.net/KWKN"
+        },
+        {
+            name: "101.9 The Bull",
+            logo: "stations/images-america/hays/101.9 The Bull.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KKQY"
+        },
+        {
+            name: "Mix 103.3",
+            logo: "stations/images-america/hays/Mix 103.3.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJLS"
+        },
+        {
+            name: "Q106.7",
+            logo: "stations/images-america/phillipsburg/Q106.7.png",
+            url: "https://ice23.securenetsystems.net/KQNK"
+        },
+        {
+            name: "KRVN 880",
+            logo: "stations/images-america/c2c/mccook_ne/KRVN 880.png",
+            url: "https://ais-sa1.streamon.fm/7323_48k.aac"
+        },
+        {
+            name: "KUVR 1380",
+            logo: "stations/images-america/phillipsburg/KUVR 1380.png",
+            url: "https://ais-sa1.streamon.fm/7661_48k.aac"
+        },
+        {
+            name: "KAYS 1400",
+            logo: "stations/images-america/hays/KAYS 94.3.png",
+            url: "http://216.246.103.221/index.php?u=http://ice9.securenetsystems.net/KAYS"
+        },
+    ],
     "phoenix": [
         {
             name: "K-LOVE 89.1",
@@ -14958,7 +15047,7 @@ var stations = {
         },
         {
             name: "94.5 The Eagle",
-            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
             url: "https://ice10.securenetsystems.net/KLGL"
         },
         {
@@ -15008,7 +15097,7 @@ var stations = {
         },
         {
             name: "KMTI 650",
-            logo: "stations/images-america/salina/KMTI 95.1.png",
+            logo: "stations/images-america/salina_ut/KMTI 95.1.png",
             url: "https://ice10.securenetsystems.net/KMTI"
         },
         {
@@ -16325,35 +16414,152 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc389/hls.m3u8"
         },
     ],
-    "salina": [
+    "salina_ks": [
+        {
+            name: "afr Hybrid 88.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "Radio Kansas 89.5",
+            logo: "stations/images-america/0_general_logos/Radio Kansas.png",
+            url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
+        },
+        {
+            name: "NewGrass Valley 89.5-HD2",
+            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
+            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
+        },
+        {
+            name: "Kansas Breeze 89.5-HD3",
+            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
+            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
+        },
+        {
+            name: "Radio Kansas Jazz 89.5-HD4",
+            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
+            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
+        },
+        {
+            name: "Bott Radio 90.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://ic1.christiannetcast.com/bottradio"
+        },
+        {
+            name: "VCY America 91.7",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "KZUH 92.7",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
+            name: "Y93.7",
+            logo: "stations/images-america/salina_ks/Y93.7.png",
+            url: "https://ice23.securenetsystems.net/KYEZ"
+        },
+        {
+            name: "94.5 KG Prime",
+            logo: "stations/images-america/salina_ks/94.5 KG Prime.png",
+            url: "https://ice42.securenetsystems.net/KSKGHD2"
+        },
+        {
+            name: "95.5 KLBG",
+            logo: "stations/images-america/salina_ks/95.5 KLBG.png",
+            url: "https://us2.maindigitalstream.com/ssl/KLBQ"
+        },
+        {
+            name: "K-LOVE 96.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Power Hits 97.5",
+            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
+            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
+        },
+        {
+            name: "99KG",
+            logo: "stations/images-america/salina_ks/99KG.png",
+            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KSKG2"
+        },
+        {
+            name: "Divine Mercy Radio 101.7",
+            logo: "stations/images-america/colby/Divine Mercy Radio 89.1.png",
+            url: "https://ice24.securenetsystems.net/KJDM"
+        },
+        {
+            name: "FM104.9",
+            logo: "stations/images-america/salina_ks/FM104.9.png",
+            url: "https://ice23.securenetsystems.net/KSALFM"
+        },
+        {
+            name: "106.1 KXKU",
+            logo: "stations/images-america/salina_ks/106.1 KXKU.png",
+            url: "http://173.193.205.96:8342/stream"
+        },
+        {
+            name: "K294DI 106.7",
+            logo: "stations/images-america/salina_ks/KSAL 1150.png",
+            url: "http://ice23.securenetsystems.net/KSALAM"
+        },
+        {
+            name: "107.5 KINA",
+            logo: "stations/images-america/salina_ks/910 KINA.png",
+            url: "http://216.246.103.221/index.php?u=http://ice64.securenetsystems.net/KINA2"
+        },
+        {
+            name: "KFRM 550",
+            logo: "stations/images-america/salina_ks/KFRM 550.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
+        },
+        {
+            name: "910 KINA",
+            logo: "stations/images-america/salina_ks/910 KINA.png",
+            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KINA2"
+        },
+        {
+            name: "KSAL 1150",
+            logo: "stations/images-america/salina_ks/KSAL 1150.png",
+            url: "https://ice23.securenetsystems.net/KSALAM"
+        },
+        {
+            name: "The General 1560",
+            logo: "stations/images-america/salina_ks/The General 1560.png",
+            url: "https://ice42.securenetsystems.net/KABI"
+        },
+    ],
+    "salina_ut": [
         {
             name: "94.5 The Eagle",
-            logo: "stations/images-america/salina/94.5 The Eagle.png",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
             url: "https://ice10.securenetsystems.net/KLGL"
         },
         {
             name: "KMTI 95.1",
-            logo: "stations/images-america/salina/KMTI 95.1.png",
+            logo: "stations/images-america/salina_ut/KMTI 95.1.png",
             url: "https://ice10.securenetsystems.net/KMTI"
         },
         {
             name: "95.7 The Boss",
-            logo: "stations/images-america/salina/95.7 The Boss.png",
+            logo: "stations/images-america/salina_ut/95.7 The Boss.png",
             url: "https://ice42.securenetsystems.net/KUTC"
         },
         {
             name: "97.7 The Wolf",
-            logo: "stations/images-america/salina/97.7 The Wolf.png",
+            logo: "stations/images-america/salina_ut/97.7 The Wolf.png",
             url: "https://ice9.securenetsystems.net/KWUT"
         },
         {
             name: "KSVC 100.5",
-            logo: "stations/images-america/salina/KSVC 100.5.png",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
             url: "http://ice9.securenetsystems.net/KSVC"
         },
         {
             name: "Classy 102.7",
-            logo: "stations/images-america/salina/Classy 102.7.png",
+            logo: "stations/images-america/salina_ut/Classy 102.7.png",
             url: "https://ice10.securenetsystems.net/KMGR"
         },
         {
@@ -17601,7 +17807,7 @@ var stations = {
         },
         {
             name: "KyXy 96.5",
-            logo: "stations/images-america/san_diego/KyXy 96.5.png",
+            logo: "stations/images-america/san_diego/KyXy 96.5_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kyxyfmaac-imc"
         },
         {
@@ -18306,7 +18512,7 @@ var stations = {
         },
         {
             name: "94.1 The Sound",
-            logo: "stations/images-america/seattle/94.1 The Sound.png",
+            logo: "stations/images-america/seattle/94.1 The Sound_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
         },
         {
@@ -18466,7 +18672,7 @@ var stations = {
         },
         {
             name: "Warm 106.9",
-            logo: "stations/images-america/seattle/Warm 106.9.png",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFMAAC_SC"
         },
         {
@@ -19493,7 +19699,7 @@ var stations = {
         },
         {
             name: "Sunny 101.5",
-            logo: "stations/images-america/st_george/Sunny 101.5.png",
+            logo: "stations/images-america/st_george/Sunny 101.5_christmas.png",
             url: "https://ice10.securenetsystems.net/KCLS"
         },
         {
@@ -20205,7 +20411,7 @@ var stations = {
         },
         {
             name: "KOOL 96.5",
-            logo: "stations/images-america/twin_falls/KOOL 96.5.png",
+            logo: "stations/images-america/twin_falls/KOOL 96.5_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-klixfmaac-ibc3"
         },
         {
@@ -21309,7 +21515,7 @@ var stations = {
         },
         {
             name: "KFRM 550",
-            logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
+            logo: "stations/images-america/salina_ks/KFRM 550.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
@@ -27181,7 +27387,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 106.3",
-            logo: "stations/images-america/c2c/naples_fl/Sunny 106.3.png",
+            logo: "stations/images-america/c2c/naples_fl/Sunny 106.3_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJPTFMAAC_SC"
         },
         {
@@ -28538,7 +28744,7 @@ var stations_c2c = {
         },
         {
             name: "Z93.7",
-            logo: "stations/images-america/c2c/macon_ga/Z93.7.png",
+            logo: "stations/images-america/c2c/macon_ga/Z93.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPEZFMAAC_SC"
         },
         {
@@ -29210,7 +29416,7 @@ var stations_c2c = {
         },
         {
             name: "105.9 The Wave",
-            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave.png",
+            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave_christmas.png",
             url: "https://pacificmedia.cdnstream1.com/2781_64.aac"
         },
         {
@@ -29411,7 +29617,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/c2c/bloomington_il/Magic 99.5.png",
+            logo: "stations/images-america/c2c/bloomington_il/Magic 99.5_christmas.png",
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
@@ -29922,7 +30128,7 @@ var stations_c2c = {
         },
         {
             name: "Classic Hits 106",
-            logo: "stations/images-america/c2c/lasalle_il/Classic Hits 106.png",
+            logo: "stations/images-america/c2c/lasalle_il/Classic Hits 106_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ice7.securenetsystems.net/WYYS"
         },
     ],
@@ -30509,7 +30715,7 @@ var stations_c2c = {
         },
         {
             name: "103.9 Wayne FM",
-            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM.png",
+            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-wwfwfmaac-ibc1"
         },
         {
@@ -31619,93 +31825,6 @@ var stations_c2c = {
             name: "KEYE 1400",
             logo: "stations/images-america/canadian/KEYE 1400.png",
             url: "https://ice5.securenetsystems.net/KEYEAM"
-        },
-    ],
-    "salina_ks": [
-        {
-            name: "Radio Kansas 89.5",
-            logo: "stations/images-america/0_general_logos/Radio Kansas.png",
-            url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
-        },
-        {
-            name: "NewGrass Valley 89.5-HD2",
-            logo: "stations/images-america/0_general_logos/NewGrass Valley.png",
-            url: "https://streams.radiomast.io/a561c414-1402-4f40-91c8-dfd050d3a784"
-        },
-        {
-            name: "Kansas Breeze 89.5-HD3",
-            logo: "stations/images-america/0_general_logos/Kansas Breeze.png",
-            url: "https://streams.radiomast.io/a2dd31a2-a524-48ce-baea-8271e1a37ab2"
-        },
-        {
-            name: "Radio Kansas Jazz 89.5-HD4",
-            logo: "stations/images-america/0_general_logos/Radio Kansas Jazz.png",
-            url: "https://streams.radiomast.io/2d226519-ac25-43db-a366-db0759319858"
-        },
-        {
-            name: "Y93.7",
-            logo: "stations/images-america/c2c/salina_ks/Y93.7.png",
-            url: "https://ice23.securenetsystems.net/KYEZ"
-        },
-        {
-            name: "94.5 KG Prime",
-            logo: "stations/images-america/c2c/salina_ks/94.5 KG Prime.png",
-            url: "https://ice42.securenetsystems.net/KSKGHD2"
-        },
-        {
-            name: "95.5 KLBG",
-            logo: "stations/images-america/c2c/salina_ks/95.5 KLBG.png",
-            url: "https://us2.maindigitalstream.com/ssl/KLBQ"
-        },
-        {
-            name: "Power Hits 97.5",
-            logo: "stations/images-america/c2c/salina_ks/Power Hits 97.5.png",
-            url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
-        },
-        {
-            name: "98.9 KGBK",
-            logo: "stations/images-america/c2c/salina_ks/98.9 KGBK.png",
-            url: "https://us2.maindigitalstream.com/ssl/KGBK"
-        },
-        {
-            name: "99KG",
-            logo: "stations/images-america/c2c/salina_ks/99KG.png",
-            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KSKG2"
-        },
-        {
-            name: "FM104.9",
-            logo: "stations/images-america/c2c/salina_ks/FM104.9.png",
-            url: "https://ice23.securenetsystems.net/KSALFM"
-        },
-        {
-            name: "106.1 KXKU",
-            logo: "stations/images-america/c2c/salina_ks/106.1 KXKU.png",
-            url: "http://173.193.205.96:8342/stream"
-        },
-        {
-            name: "KFRM 550",
-            logo: "stations/images-america/c2c/salina_ks/KFRM 550.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
-        },
-        {
-            name: "910 KINA",
-            logo: "stations/images-america/c2c/salina_ks/910 KINA.png",
-            url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KINA2"
-        },
-        {
-            name: "KSAL 1150",
-            logo: "stations/images-america/c2c/salina_ks/KSAL 1150.png",
-            url: "https://ice23.securenetsystems.net/KSALAM"
-        },
-        {
-            name: "1510 KLQR",
-            logo: "stations/images-america/c2c/salina_ks/98.9 KGBK.png",
-            url: "https://us2.maindigitalstream.com/ssl/KLQR"
-        },
-        {
-            name: "The General 1560",
-            logo: "stations/images-america/c2c/salina_ks/The General 1560.png",
-            url: "https://ice42.securenetsystems.net/KABI"
         },
     ],
     "topeka": [
@@ -36433,6 +36552,11 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KJML"
         },
         {
+            name: "My Country 107.9",
+            logo: "stations/images-america/c2c/joplin_mo/My Country 107.9.png",
+            url: "https://ice42.securenetsystems.net/KSEKAM"
+        },
+        {
             name: "KKOW 860",
             logo: "stations/images-america/c2c/joplin_mo/KKOW.png",
             url: "http://ice42.securenetsystems.net/KKOWAM"
@@ -36451,6 +36575,11 @@ var stations_c2c = {
             name: "1310 KZRG",
             logo: "stations/images-america/c2c/joplin_mo/102.9 KZRG.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC.aac"
+        },
+        {
+            name: "My Country 1340",
+            logo: "stations/images-america/c2c/joplin_mo/My Country 107.9.png",
+            url: "http://ice42.securenetsystems.net/KSEKAM"
         },
         {
             name: "SOMO Sports Radio 1560",
@@ -41548,7 +41677,7 @@ var stations_c2c = {
         },
         {
             name: "My 95.7",
-            logo: "stations/images-america/enid/My 95.7.png",
+            logo: "stations/images-america/enid/My 95.7_christmas.png",
             url: "https://ice8.securenetsystems.net/KXLS"
         },
         {

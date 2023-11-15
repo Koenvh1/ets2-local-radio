@@ -621,7 +621,7 @@ var country_properties = {
         name: "Hays",
         name_english: "Hays",
         code: "us-ks",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "helena": {
         name: "Helena",
@@ -899,6 +899,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
+    "mankato": {
+        name: "Mankato",
+        name_english: "Mankato",
+        code: "us-ks",
+        relative_radius: 0.4
+    },
     "marathon_tx": {
         name: "Marathon",
         name_english: "Marathon",
@@ -1073,6 +1079,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.6
     },
+    "phillipsburg": {
+        name: "Phillipsburg",
+        name_english: "Phillipsburg",
+        code: "us-ks",
+        relative_radius: 0.5
+    },
     "phoenix": {
         name: "Phoenix",
         name_english: "Phoenix",
@@ -1084,6 +1096,12 @@ var country_properties = {
         name_english: "Pioche",
         code: "us-nv",
         relative_radius: 0.8
+    },
+    "pittsburg": {
+        name: "Pittsburg",
+        name_english: "Pittsburg",
+        code: "us-ks",
+        relative_radius: 0.9
     },
     "salida": {
         name: "Salida",
@@ -1211,7 +1229,13 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
-    "salina": {
+    "salina_ks": {
+        name: "Salina",
+        name_english: "Salina",
+        code: "us-ks",
+        relative_radius: 0.4
+    },
+    "salina_ut": {
         name: "Salina",
         name_english: "Salina",
         code: "us-ut",
@@ -2090,6 +2114,9 @@ var city_properties = {
     "lufkin": {
         relative_whitenoise: 0.95
     },
+    "mankato": {
+        relative_whitenoise: 0.95
+    },
     "marathon_tx": {
         relative_whitenoise: 0.95
     },
@@ -2189,11 +2216,18 @@ var city_properties = {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
+    "phillipsburg": {
+        relative_whitenoise: 0.95
+    },
     "phoenix": {
         relative_whitenoise: 0.95
     },
     "pioche": {
         relative_whitenoise: 0.85
+    },
+    "pittsburg": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "salida": {
         relative_whitenoise: 0.85
@@ -2264,7 +2298,10 @@ var city_properties = {
 		relative_radius: 0.35,
         relative_whitenoise: 0.75
     },
-    "salina": {
+    "salina_ks": {
+        relative_whitenoise: 0.95
+    },
+    "salina_ut": {
         relative_whitenoise: 0.95
     },
     "salmon": {
@@ -3416,7 +3453,7 @@ var cities = [
         "country": "hays",
         "x": "-15143.8",
         "y": "281.967",
-        "z": "-10.7185"
+        "z": "-100.7185"
     },
     {
         "gameName": "helena",
@@ -3851,6 +3888,14 @@ var cities = [
         "z": "42729.5"
     },
     {
+        "gameName": "mankato",
+        "realName": "Mankato",
+        "country": "mankato",
+        "x": "-10376.41",
+        "y": "153.148",
+        "z": "-4568.5"
+    },
+    {
         "gameName": "marathon_tx",
         "realName": "Marathon",
         "country": "marathon_tx",
@@ -3886,7 +3931,7 @@ var cities = [
         "gameName": "marysville",
         "realName": "Marysville",
         "country": "marysville",
-        "x": "-2976.41",
+        "x": "-5976.41",
         "y": "153.148",
         "z": "-4568.5"
     },
@@ -4131,6 +4176,14 @@ var cities = [
         "z": "-47812.9"
     },
     {
+        "gameName": "phillipsburg",
+        "realName": "Phillipsburg",
+        "country": "phillipsburg",
+        "x": "-15143.8",
+        "y": "281.967",
+        "z": "-4000.7185"
+    },
+    {
         "gameName": "phoenix",
         "realName": "Phoenix",
         "country": "phoenix",
@@ -4145,6 +4198,14 @@ var cities = [
         "x": "-80956.8",
         "y": "177.867",
         "z": "-4638.39"
+    },
+    {
+        "gameName": "pittsburg",
+        "realName": "Pittsburg",
+        "country": "joplin",
+        "x": "6703.6",
+        "y": "130.968",
+        "z": "9188.4"
     },
     {
         "gameName": "pocatello",
@@ -4355,9 +4416,17 @@ var cities = [
         "z": "-42379.9"
     },
     {
-        "gameName": "salina",
+        "gameName": "salina_ks",
         "realName": "Salina",
-        "country": "salina",
+        "country": "salina_ks",
+        "x": "-9276.62",
+        "y": "354.108",
+        "z": "884.355"
+    },
+    {
+        "gameName": "salina_ut",
+        "realName": "Salina",
+        "country": "salina_ut",
         "x": "-68567.1",
         "y": "131",
         "z": "-6747.52"
@@ -7408,12 +7477,6 @@ var country_properties_c2c = {
         code: "us-ks",
         relative_radius: 0.6
     },
-    "salina_ks": {
-        name: "salina",
-        name_english: "salina",
-        code: "us-ks",
-        relative_radius: 0.4
-    },
     "topeka": {
         name: "topeka",
         name_english: "topeka",
@@ -7862,7 +7925,7 @@ var country_properties_c2c = {
         name: "grand_island",
         name_english: "grand_island",
         code: "us-ne",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "lincoln": {
         name: "Lincoln",
@@ -7874,7 +7937,7 @@ var country_properties_c2c = {
         name: "McCook",
         name_english: "McCook",
         code: "us-ne",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "north_platte": {
         name: "North Platte",
@@ -8633,9 +8696,6 @@ var city_properties_c2c = {
     "liberal_ks": {
         relative_whitenoise: 0.95
     },
-    "salina_ks": {
-        relative_whitenoise: 0.95
-    },
     "topeka": {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
@@ -8837,7 +8897,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "grand_island": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "lincoln": {
         relative_whitenoise: 0.85
@@ -9654,14 +9714,6 @@ var cities_c2c = [
         "z": "10233.8"
     },
     {
-        "gameName": "salina_ks",
-        "realName": "Salina",
-        "country": "salina_ks",
-        "x": "-8276.62",
-        "y": "354.108",
-        "z": "684.355"
-    },
-    {
         "gameName": "topeka",
         "realName": "Topeka",
         "country": "topeka",
@@ -10243,7 +10295,7 @@ var cities_c2c = [
         "country": "grand_island",
         "x": "-11181.3",
         "y": "160.713",
-        "z": "-6546"
+        "z": "-9546"
     },
     {
         "gameName": "lincoln",
