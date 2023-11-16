@@ -6349,7 +6349,7 @@ var stations = {
         },
         {
             name: "KMAJ 1440",
-            logo: "stations/images-america/topeka/KMAJ 1440.png",
+            logo: "stations/images-america/topeka/KMAJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC_SC"
         },
         {
@@ -9675,7 +9675,7 @@ var stations = {
         },
         {
             name: "KMAJ 1440",
-            logo: "stations/images-america/topeka/KMAJ 1440.png",
+            logo: "stations/images-america/topeka/KMAJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC_SC"
         },
         {
@@ -9901,7 +9901,7 @@ var stations = {
         },
         {
             name: "KOJH-LP 100.5",
-            logo: "stations/images-america/kansas_city/KONN 100.1.png",
+            logo: "stations/images-america/kansas_city/KOJH-LP 100.5.png",
             url: "https://streams.radio.co/scce2ddfe5/listen"
         },
         {
@@ -14839,11 +14839,6 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kychfmaac-imc"
         },
         {
-            name: "Funkytown 97.1-HD2",
-            logo: "stations/images-america/c2c/detroit_mi/Funkytown 97.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6755/hls.m3u8"
-        },
-        {
             name: "K-LOVE 97.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -14862,6 +14857,16 @@ var stations = {
             name: "99.5 The Wolf",
             logo: "stations/images-america/portland/99.5 The Wolf.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kwjjfmaac-imc"
+        },
+        {
+            name: "99.5 KWJJ-HD2",
+            logo: "stations/images-america/portland/1080 The Fan.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/audacy-kfxxamaac-imc"
+        },
+        {
+            name: "99.5 KWJJ-HD3",
+            logo: "stations/images-america/portland/910 ESPN Portland.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/audacy-kmttamaac-imc"
         },
         {
             name: "Z100",
@@ -14892,11 +14897,6 @@ var stations = {
             name: "K103",
             logo: "stations/images-america/portland/K103_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
-        },
-        {
-            name: "Smooth Jazz 103.3-HD2",
-            logo: "stations/images-america/0_general_logos/Smooth Jazz.png",
-            url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
         },
         {
             name: "BOOST Radio 103.7",
@@ -14934,7 +14934,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3540/hls.m3u8"
         },
         {
-            name: "KFBW 105.9-HD2",
+            name: "105.9 KFBW-HD2",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "http://wayfm.streamguys1.com/kpwa.aac"
         },
@@ -14944,14 +14944,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4315/hls.m3u8"
         },
         {
-            name: "iHeart60s 106.7-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart60s.png",
-            url: "https://stream.revma.ihrhls.com/zc6873/hls.m3u8"
-        },
-        {
-            name: "The Breeze 106.7-HD3",
-            logo: "stations/images-america/portland/The Breeze 106.7-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "106.7 KLTH-HD2",
+            logo: "stations/images-america/portland/1190 KEX.png",
+            url: "https://stream.revma.ihrhls.com/zc1949"
         },
         {
             name: "JAM'N 107.5",
@@ -14984,9 +14979,19 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
         {
+            name: "910 ESPN Portland",
+            logo: "stations/images-america/portland/910 ESPN Portland.png",
+            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kmttamaac-imc"
+        },
+        {
             name: "La Pantera 940",
             logo: "stations/images-america/portland/La Pantera 940.png",
             url: "https://stream.rcast.net/61661"
+        },
+        {
+            name: "Slavic Family Radio 1040",
+            logo: "stations/images-america/portland/Slavic Family Radio 1040.png",
+            url: "https://us3.streamingpulse.com/ssl/SlavicMediaHoldings"
         },
         {
             name: "1080 The Fan",
