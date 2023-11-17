@@ -4646,11 +4646,6 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kvilfmaac-imc"
         },
         {
-            name: "103.7 KVIL-HD2",
-            logo: "stations/images-america/dallas_fort_worth/Soundscapes.png",
-            url: "https://smartstreams.radio.com/stream/7476/manifest/digitalstations/playlist.m3u8"
-        },
-        {
             name: "Channel Q 103.7-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
