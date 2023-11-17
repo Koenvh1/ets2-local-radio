@@ -1997,7 +1997,7 @@ var stations = {
         {
             name: "98.5 The Wolf",
             logo: "stations/images-america/billings/98.5 The Wolf.png",
-            url: "https://securestream.casthost.net:8297/stream"
+            url: "https://ice1.amtstreaming.com:8443/kewfic"
         },
         {
             name: "FM 99 The Mountain",
@@ -2007,7 +2007,7 @@ var stations = {
         {
             name: "HOT 101.9",
             logo: "stations/images-america/billings/Hot 101.9.png",
-            url: "https://ice1.amtstreaming.com:8443/krsqic"
+            url: "https://ice1.amtstreaming.com:8443/krsqfm"
         },
         {
             name: "Cat Country 102.9",
@@ -4441,6 +4441,11 @@ var stations = {
             url: "https://5a8b296144892.streamlock.net/live/radiostation.stream/playlist.m3u8"
         },
         {
+            name: "88.1 KNTU-HD2",
+            logo: "stations/images-america/dallas_fort_worth/88.1 The One.png",
+            url: "https://stream.radiojar.com/bdqk1ms7seruv"
+        },
+        {
             name: "KEOM 88.5",
             logo: "stations/images-america/dallas_fort_worth/KEOM 88.5.png",
             url: "https://live.amperwave.net/manifest/mesquite-keomfmaac-ibc4"
@@ -4456,6 +4461,11 @@ var stations = {
             url: "https://wayfm.streamguys1.com/kawa.aac"
         },
         {
+            name: "89.7 KAWA-HD2",
+            logo: "stations/images-america/houston/Vida Unida 91.7.png",
+            url: "https://ksbj.streamguys1.com/vida/vidaunida.aac"
+        },
+        {
             name: "KERA 90.1",
             logo: "stations/images-america/dallas_fort_worth/KERA 90.1.png",
             url: "https://kera-ice.streamguys1.com/keraliveaacplus"
@@ -4464,6 +4474,11 @@ var stations = {
             name: "90.9 KCBI",
             logo: "stations/images-america/dallas_fort_worth/90.9 KCBI.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBIFMAAC_SC"
+        },
+        {
+            name: "All Teaching Channel 90.9-HD2",
+            logo: "stations/images-america/dallas_fort_worth/90.9 KCBI.png",
+            url: "https://ais-sa1.streamon.fm/7854_96k.aac"
         },
         {
             name: "KXT 91.7",
@@ -4476,9 +4491,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3379/hls.m3u8"
         },
         {
-            name: "KSKY 92.9",
-            logo: "stations/images-america/dallas_fort_worth/660 AM The Answer.png",
-            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC.aac"
+            name: "La Mejor 92.9",
+            logo: "stations/images-america/dallas_fort_worth/La Mejor 92.9.png",
+            url: "https://streaming.live365.com/a47473"
         },
         {
             name: "HOT 93.3",
@@ -4496,6 +4511,16 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/klnofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
+            name: "The Zone 94.1-HD3",
+            logo: "stations/images-america/dallas_fort_worth/The Zone 94.1-HD3.png",
+            url: "https://ice41.securenetsystems.net/KNLO"
+        },
+        {
+            name: "La Mejor 94.1-HD4",
+            logo: "stations/images-america/dallas_fort_worth/La Mejor 92.9.png",
+            url: "http://streaming.live365.com/a47473"
+        },
+        {
             name: "Majic 94.5",
             logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
@@ -4506,13 +4531,23 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYFMAAC_SC"
         },
         {
+            name: "94.9 KLTY-HD2",
+            logo: "stations/images-america/dallas_fort_worth/660 AM The Answer.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC.aac"
+        },
+        {
+            name: "94.9 KLTY-HD3",
+            logo: "stations/images-america/dallas_fort_worth/The Word 100.7.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC.aac"
+        },
+        {
             name: "New Country 96.3",
             logo: "stations/images-america/dallas_fort_worth/New Country 96.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFMAAC_SC"
         },
         {
             name: "96.3 KLIF-HD2",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            logo: "stations/images-america/dallas_fort_worth/570 KLIF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC_SC"
         },
         {
@@ -4556,7 +4591,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFMAAC_SC"
         },
         {
-            name: "99.5-HD2 WBAP",
+            name: "99.5 KPLX-HD2",
             logo: "stations/images-america/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAMAAC_SC"
         },
@@ -4564,6 +4599,11 @@ var stations = {
             name: "100.3 Jack FM",
             logo: "stations/images-america/dallas_fort_worth/100.3 Jack FM.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kjkkfmaac-imc"
+        },
+        {
+            name: "100.3 KJKK-HD2",
+            logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "The Word 100.7",
@@ -4604,6 +4644,16 @@ var stations = {
             name: "ALT 103.7",
             logo: "stations/images-america/dallas_fort_worth/ALT 103.7.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kvilfmaac-imc"
+        },
+        {
+            name: "103.7 KVIL-HD2",
+            logo: "stations/images-america/dallas_fort_worth/Soundscapes.png",
+            url: "https://smartstreams.radio.com/stream/7476/manifest/digitalstations/playlist.m3u8"
+        },
+        {
+            name: "Channel Q 103.7-HD3",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
+            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "K104",
@@ -4656,11 +4706,6 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kmvkhd2aac-imc"
         },
         {
-            name: "¡DALE! 107.5-HD3",
-            logo: "stations/images-america/dallas_fort_worth/DALE! 107.5-HD3.png",
-            url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kmvkhd3aac-imc"
-        },
-        {
             name: "Latino Mix 107.9",
             logo: "stations/images-america/dallas_fort_worth/Latino Mix 107.9.png",
             url: "http://216.246.103.221/index.php?u=https://tu.streamguys1.com/kdxxfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
@@ -4671,8 +4716,8 @@ var stations = {
             url: "http://38.96.148.253:5978/;"
         },
         {
-            name: "KLIF 570",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            name: "570 KLIF",
+            logo: "stations/images-america/dallas_fort_worth/570 KLIF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
         },
         {
@@ -5219,7 +5264,7 @@ var stations = {
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/denver/KOSI 101.1.png",
+            logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
             url: "https://bonneville.cdnstream1.com/2709_48.aac"
         },
         {
@@ -5594,8 +5639,8 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KLBC"
         },
         {
-            name: "KLIF 570",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            name: "570 KLIF",
+            logo: "stations/images-america/dallas_fort_worth/570 KLIF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
         },
         {
@@ -6187,7 +6232,7 @@ var stations = {
         },
         {
             name: "K237AJ 95.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -8092,7 +8137,7 @@ var stations = {
         },
         {
             name: "Dirt Road Radio 103.1",
-            logo: "stations/images-america/gillette/Dirt Road Radio 103.1.png",
+            logo: "stations/images-america/gillette/Dirt Road Radio.png",
             url: "https://ice6.securenetsystems.net/KYDT"
         },
         {
@@ -14227,8 +14272,8 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://ice6.securenetsystems.net/KPLTFM"
         },
         {
-            name: "KLIF 570",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            name: "570 KLIF",
+            logo: "stations/images-america/dallas_fort_worth/570 KLIF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC_SC"
         },
         {
@@ -15087,7 +15132,7 @@ var stations = {
         },
         {
             name: "K288AN 105.5",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -16564,7 +16609,7 @@ var stations = {
         },
         {
             name: "K276AT 103.1",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -16723,7 +16768,7 @@ var stations = {
         },
         {
             name: "FM100.3",
-            logo: "stations/images-america/salt_lake/FM100.3.png",
+            logo: "stations/images-america/salt_lake/FM100.3_christmas.png",
             url: "https://bonneville.cdnstream1.com/2702_48.aac"
         },
         {
@@ -17451,7 +17496,7 @@ var stations = {
         },
         {
             name: "Y’all 103.7",
-            logo: "stations/images-america/santa_maria/Y’all 103.7.png",
+            logo: "stations/images-america/santa_maria/YAll 103.7.png",
             url: "https://stream.radiojar.com/vwhwdfdudtuvv"
         },
         {
@@ -17491,7 +17536,7 @@ var stations = {
         },
         {
             name: "Y’all 1410",
-            logo: "stations/images-america/santa_maria/Y’all 103.7.png",
+            logo: "stations/images-america/santa_maria/YAll 103.7.png",
             url: "http://stream.radiojar.com/vwhwdfdudtuvv"
         },
         {
@@ -19479,8 +19524,8 @@ var stations = {
             url: "http://38.96.148.253:5978/;"
         },
         {
-            name: "KLIF 570",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            name: "570 KLIF",
+            logo: "stations/images-america/dallas_fort_worth/570 KLIF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
         },
         {
@@ -20836,7 +20881,7 @@ var stations = {
         },
         {
             name: "55 Country",
-            logo: "stations/images-america/steamboat_sp/55 Country.png",
+            logo: "stations/images-america/rangely/55 Country.png",
             url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
         },
         {
@@ -23355,8 +23400,8 @@ var stations_mexico = {
             url: "https://stream.zeno.fm/z4yhsevc998uv"
         },
         {
-            name: "Estereo Romance 100.7",
-            logo: "stations/images-america/mexico/la_paz/Estereo Romance 100.7.png",
+            name: "Estéreo Romance 100.7",
+            logo: "stations/images-america/mexico/la_paz/Estéreo Romance 100.7.png",
             url: "http://www.estereoromance.com:8080/estromance"
         },
         {
@@ -28754,7 +28799,7 @@ var stations_c2c = {
         },
         {
             name: "Z93.7",
-            logo: "stations/images-america/c2c/macon_ga/Z93.7_christmas.png",
+            logo: "stations/images-america/c2c/macon_ga/Z93.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPEZFMAAC_SC"
         },
         {
@@ -34127,7 +34172,7 @@ var stations_c2c = {
         },
         {
             name: "Kinship Christian Radio 92.5",
-            logo: "stations/images-america/great_america/fortdodge/Kinship Christian Radio 100.7.png",
+            logo: "stations/images-america/c2c/mason_city_ia/Kinship Christian Radio 92.5.png",
             url: "http://quarrel.str3am.com:7780/stream"
         },
         {
@@ -37737,6 +37782,11 @@ var stations_c2c = {
             name: "Air1 93.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "93.9 WABY",
+            logo: "stations/images-america/c2c/albany_ny/93.9 WABY.png",
+            url: "https://stream.radiojar.com/64pdhr32pbruv"
         },
         {
             name: "VPR 94.3",
@@ -41693,8 +41743,8 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/KVSO"
         },*/
         {
-            name: "KLIF 570",
-            logo: "stations/images-america/dallas_fort_worth/KLIF 96.3-HD2.png",
+            name: "570 KLIF",
+            logo: "stations/images-america/dallas_fort_worth/570 KLIF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFAMAAC.aac"
         },
         {
@@ -46515,7 +46565,7 @@ var stations_c2c = {
         },
         {
             name: "WTAR 850",
-            logo: "stations/images-america/c2c/norfolk_va/Lucy 96.5.png",
+            logo: "stations/images-america/c2c/norfolk_va/The Coast 96.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTARAMAAC.aac"
         },
         {
@@ -47378,7 +47428,7 @@ var stations_c2c = {
         },
         {
             name: "97.9 WGBW",
-            logo: "stations/images-america/c2c/green_bay_wi/97.9 WGBW.png",
+            logo: "stations/images-america/c2c/green_bay_wi/WGBW.png",
             url: "https://ice24.securenetsystems.net/WGBW"
         },
         {
@@ -47448,7 +47498,7 @@ var stations_c2c = {
         },
         {
             name: "1590 WGBW",
-            logo: "stations/images-america/c2c/green_bay_wi/97.9 WGBW.png",
+            logo: "stations/images-america/c2c/green_bay_wi/WGBW.png",
             url: "http://ice24.securenetsystems.net/WGBW"
         },
     ],
@@ -49330,11 +49380,6 @@ var stations_canada = {
             logo: "stations/images-america/canada/edmonton/Global News 880 Edmonton.png",
             url: "https://corus.leanstream.co/CHQTAM-MP3"
         },
-        {
-            name: "TSN 1260",
-            logo: "stations/images-america/canada/edmonton/TSN 1260 Edmonton.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFRNAMAAC_SC"
-        },
     ],
     "latuque": [
         {
@@ -50026,8 +50071,8 @@ var stations_canada = {
             url: "https://stream2.statsradio.com:8030/stream"
         },
         {
-            name: "LITE 88.5",
-            logo: "stations/images-america/canada/toronto/Lite 88.5.png",
+            name: "Hot Country 88.5",
+            logo: "stations/images-america/canada/toronto/Hot Country 88.5.png",
             url: "https://ice23.securenetsystems.net/CKDX"
         },
         {
@@ -51451,8 +51496,8 @@ var stations_canada = {
             url: "https://cob-ais.leanstream.co/CINDFM"
         },
         {
-            name: "LITE 88.5",
-            logo: "stations/images-america/canada/toronto/Lite 88.5.png",
+            name: "Hot Country 88.5",
+            logo: "stations/images-america/canada/toronto/Hot Country 88.5.png",
             url: "https://ice23.securenetsystems.net/CKDX"
         },
         {

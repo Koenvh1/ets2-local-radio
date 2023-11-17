@@ -12829,7 +12829,7 @@ var country_properties_alaska = {
     "glennallen": {
         name: "Glennallen",
         name_english: "Glennallen",
-        code: "us-bcs",
+        code: "us-ak",
         relative_radius: 1.0
     },
     "homer": {
