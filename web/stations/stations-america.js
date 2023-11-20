@@ -459,6 +459,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRSTFMAAC_SC"
         },
         {
+            name: "KDSK 92.9",
+            logo: "stations/images-america/albuquerque/KDSK 92.9.png",
+            url: "http://63.231.116.93:23124/kdsk"
+        },
+        {
             name: "93.3 The Q",
             logo: "stations/images-america/albuquerque/93.3 The Q.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOBQFMAAC_SC"
@@ -717,7 +722,7 @@ var stations = {
         },
         {
             name: "Mix 94.1",
-            logo: "stations/images-america/amarillo/Mix 94.1.png",
+            logo: "stations/images-america/amarillo/Mix 94.1_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmxjfmaac-ibc3"
         },
         {
@@ -1016,7 +1021,7 @@ var stations = {
         },
         {
             name: "Majic 95.5",
-            logo: "stations/images-america/austin/Majic 95.5.png",
+            logo: "stations/images-america/austin/Majic 95.5_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kkmjfmaac-imc"
         },
         {
@@ -3063,7 +3068,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
         {
@@ -3233,7 +3238,7 @@ var stations = {
         {
             name: "KLSR 105.3",
             logo: "stations/images-america/childress/KLSR 105.3.png",
-            url: "http://salt-lake-server.myautodj.com:8012/stream"
+            url: "https://ny.mysonicserver.com:7010/stream"
         },
         {
             name: "710 KGNC",
@@ -6329,7 +6334,7 @@ var stations = {
         },
         {
             name: "Majic 107.7",
-            logo: "stations/images-america/topeka/Majic 107.7.png",
+            logo: "stations/images-america/topeka/Majic 107.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
         },
         {
@@ -6436,7 +6441,7 @@ var stations = {
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
             url: "https://www.ophanim.net:8444/s/8970"
         },
         {
@@ -7665,7 +7670,7 @@ var stations = {
         },
         {
             name: "KOOL 107.9",
-            logo: "stations/images-america/grand_junction_montrose/KOOL 107.9.png",
+            logo: "stations/images-america/grand_junction_montrose/KOOL 107.9_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kbklfmaac-ibc3"
         },
     ],
@@ -10135,7 +10140,7 @@ var stations = {
         },
         {
             name: "BIG 95.7",
-            logo: "stations/images-america/kennewick_pendleton/BIG 95.7.png",
+            logo: "stations/images-america/kennewick_pendleton/BIG 95.7_christmas.png",
             url: "https://ice7.securenetsystems.net/KKSR"
         },
         {
@@ -13098,7 +13103,7 @@ var stations = {
         },
         {
             name: "97 Gold",
-            logo: "stations/images-america/midland_odessa/97 Gold.png",
+            logo: "stations/images-america/midland_odessa/97 Gold_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7200_48k.aac"
         },
         {
@@ -13655,7 +13660,7 @@ var stations = {
         },
         {
             name: "K264AD 100.7",
-            logo: "stations/images-america/idaho_falls/Classy 97.png",
+            logo: "stations/images-america/idaho_falls/Classy 97_christmas.png",
             url: "https://ice10.securenetsystems.net/KLCE"
         },
         {
@@ -13779,7 +13784,7 @@ var stations = {
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
             url: "https://www.ophanim.net:8444/s/8970"
         },/*
         {
@@ -14691,7 +14696,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
     ],
@@ -15604,7 +15609,7 @@ var stations = {
         },
         {
             name: "Sunny 106.9",
-            logo: "stations/images-america/reno/Sunny 106.9.png",
+            logo: "stations/images-america/reno/Sunny 106.9_christmas.png",
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice10.securenetsystems.net/KRNO"
         },
         {
@@ -16241,7 +16246,7 @@ var stations = {
         },
         {
             name: "103.9 The Fish",
-            logo: "stations/images-america/sacramento/103.9 The Fish.png",
+            logo: "stations/images-america/sacramento/103.9 The Fish_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKFSFMAAC_SC"
         },
         {
@@ -18161,7 +18166,7 @@ var stations = {
         },
         {
             name: "96.5 KOIT",
-            logo: "stations/images-america/san_francisco/96.5 KOIT.png",
+            logo: "stations/images-america/san_francisco/96.5 KOIT_christmas.png",
             url: "https://bonneville.cdnstream1.com/2624_48.aac"
         },
         {
@@ -18872,7 +18877,7 @@ var stations = {
         {
             name: "KLSR 105.3",
             logo: "stations/images-america/childress/KLSR 105.3.png",
-            url: "http://salt-lake-server.myautodj.com:8012/stream"
+            url: "https://ny.mysonicserver.com:7010/stream"
         },
         {
             name: "107 The Zone",
@@ -32614,7 +32619,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 106.9",
-            logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9.png",
+            logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9_christmas.png",
             url: "https://ice5.securenetsystems.net/KEDG"
         },
     ],
@@ -36498,7 +36503,7 @@ var stations_c2c = {
         },
         {
             name: "98.3 The Dove",
-            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove.png",
+            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://ice64.securenetsystems.net/KDVC"
         },
         {
@@ -37306,7 +37311,7 @@ var stations_c2c = {
         },
         {
             name: "B107.3",
-            logo: "stations/images-america/c2c/lincoln_ne/B107.3.png",
+            logo: "stations/images-america/c2c/lincoln_ne/B107.3_christmas.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBBKFMAAC_SC"
         },
         {
@@ -46014,6 +46019,11 @@ var stations_c2c = {
             url: "http://stream01048.westreamradio.com/wsm-am-mp3"
         },
         {
+            name: "760 The Flame",
+            logo: "stations/images-america/c2c/nashville_tn/760 The Flame.png",
+            url: "https://us2.maindigitalstream.com/ssl/WENO"
+        },
+        {
             name: "Activa 1240",
             logo: "stations/images-america/c2c/nashville_tn/Activa 105.1.png",
             url: "http://ice66.securenetsystems.net/WNVL"
@@ -46219,7 +46229,7 @@ var stations_c2c = {
         },
         {
             name: "94.9 HOM",
-            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM.png",
+            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-whomfmaac-ibc3"
         },
         {
