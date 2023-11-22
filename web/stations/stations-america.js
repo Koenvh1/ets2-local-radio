@@ -9675,7 +9675,7 @@ var stations = {
         },
         {
             name: "Sunny 102.5",
-            logo: "stations/images-america/junction_city/Sunny 102.5.png",
+            logo: "stations/images-america/junction_city/Sunny 102.5_.png",
             url: "https://crystalout.surfernetwork.com:8001/KBLS-FM_MP3"
         },
         {
@@ -14076,16 +14076,21 @@ var stations = {
             name: "KNAU 91.7",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNAUFM_128_SC"
-        },/*
+        },
         {
-            name: "93.3 Jack FM",
-            logo: "stations/images-america/page/93.3 Jack FM.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7019_24k.aac"
-        },*/
+            name: "Rewind 93.3",
+            logo: "stations/images-america/page/Rewind 93.3.png",
+            url: "https://s5.radioforge.com:6874/rewind93-23-air"
+        },
         {
             name: "K251BC 97.9",
             logo: "stations/images-america/bluff/Red Rock 92.png",
             url: "https://ice8.securenetsystems.net/KBDX"
+        },
+        {
+            name: "KiX 98.3",
+            logo: "stations/images-america/page/KiX 98.3.png",
+            url: "https://s5.radioforge.com:6874/kixv"
         },
         {
             name: "KNAU 102.7",
@@ -37032,6 +37037,11 @@ var stations_c2c = {
             name: "Latter-day Saints Channel 106.5-HD2",
             logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
+        },
+        {
+            name: "Foxy 106.9",
+            logo: "stations/images-america/c2c/stlouis_mo/Foxy 106.9.png",
+            url: "https://streaming.live365.com/a10526"
         },
         {
             name: "Classic 107.3",
