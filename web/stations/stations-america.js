@@ -9675,7 +9675,7 @@ var stations = {
         },
         {
             name: "Sunny 102.5",
-            logo: "stations/images-america/junction_city/Sunny 102.5_.png",
+            logo: "stations/images-america/junction_city/Sunny 102.5.png",
             url: "https://crystalout.surfernetwork.com:8001/KBLS-FM_MP3"
         },
         {
