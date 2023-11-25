@@ -1143,12 +1143,12 @@ var stations = {
             name: "ERTU Al Orobi",
             logo: "stations/images-europe/egypt/ERTU.png",
             url: "https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8"
-        },
+        },*/
         {
             name: "MIX FM 87.8",
             logo: "stations/images-europe/egypt/MIX FM 87.8.png",
-            url: "https://c34.radioboss.fm:18035/stream"
-        },*/
+            url: "https://stream.zeno.fm/na3vpvn10qruv"
+        },
         {
             name: "Radio Hits 88.2",
             logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
@@ -2102,12 +2102,12 @@ var stations = {
             name: "DOMRADIO",
             logo: "stations/images-europe/germany-koeln/DOMRADIO.png",
             url: "https://dom.audiostream.io/domradio/1000/mp3/128/domradio-rp.mp3"
-        },/*
+        },
         {
             name: "Kölncampus",
             logo: "stations/images-europe/germany-koeln/Kölncampus.png",
             url: "https://live.koelncampus.com/live"
-        },*/
+        },
         {
             name: "Radio Erft",
             logo: "stations/images-europe/germany-koeln/Radio Erft.png",
@@ -2647,12 +2647,7 @@ var stations = {
             name: "Star FM",
             logo: "stations/images-europe/greece/Star FM.png",
             url: "http://136.243.102.164:8044/stream"
-        },/*
-        {
-            name: "Θέμα Radio",
-            logo: "stations/images-europe/greece/Θέμα Radio.png",
-            url: "https://stream.radiojar.com/cdk030dsvv5tv"
-        },*/
+        },
         {
             name: "Χρώμα FM",
             logo: "stations/images-europe/greece/Χρώμα FM.png",
@@ -2740,7 +2735,7 @@ var stations = {
         {
             name: "K100",
             logo: "stations/images-europe/iceland/K100.png",
-            url: "http://stream3.radio.is:443/kaninnmobile"
+            url: "https://k100streymi.mbl.is/beint/k100/index.m3u8"
         },
         {
             name: "KISS FM",
@@ -2831,7 +2826,7 @@ var stations = {
         {
             name: "iRadio",
             logo: "stations/images-europe/ireland/iRadio.png",
-            url: "https://stream.audioxi.com/IRADNW"
+            url: "https://stream.audioxi.com/IRADNWAAC"
         },
         {
             name: "Newstalk",
@@ -3273,12 +3268,7 @@ var stations = {
             name: "Fame FM",
             logo: "stations/images-europe/lebanon/Fame FM.png",
             url: "https://l3.itworkscdn.net/itwaudio/9044/stream"
-        },/*
-        {
-            name: "Radio MBS",
-            logo: "stations/images-europe/lebanon/Radio MBS.png",
-            url: "https://usa9.fastcast4u.com/proxy/mbs?mp=/1"
-        },*/
+        },
         {
             name: "NRJ",
             logo: "stations/images-europe/lebanon/NRJ.png",
@@ -4398,7 +4388,7 @@ var stations = {
         {
             name: "Virgin Radio",
             logo: "stations/images-europe/romania/Virgin Radio.png",
-            url: "http://astreaming.edi.ro:8000/VirginRadio_aac"
+            url: "https://astreaming.edi.ro:8443/VirginRadio_aac"
         },
     ],
     "russia": [
