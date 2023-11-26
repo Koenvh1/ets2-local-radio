@@ -13371,7 +13371,7 @@ var stations = {
     "modesto": [
         {
             name: "KYCC 89.1",
-            logo: "stations/images-america/modesto/KYCC.png",
+            logo: "stations/images-america/stockton/KYCC.png",
             url: "https://ic1.sslstream.com/kycc-fm"
         },
         {
@@ -13470,8 +13470,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2910/hls.m3u8"
         },
         {
-            name: "iHeartRadio Freestyle 102.3-HD2",
-            logo: "stations/images-america/modesto/iHeartRadio Freestyle 102.3-HD2.png",
+            name: "iHeartFreestyle 102.3-HD2",
+            logo: "stations/images-america/modesto/iHeartFreestyle 102.3-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc7368/hls.m3u8"
         },
         {
@@ -13488,6 +13488,16 @@ var stations = {
             name: "104.1 The Hawk",
             logo: "stations/images-america/modesto/104.1 The Hawk.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFMAAC_SC"
+        },
+        {
+            name: "104.9 The Gig",
+            logo: "stations/images-america/modesto/104.9 The Gig.png",
+            url: "http://174.87.104.13:8002/;stream"
+        },
+        {
+            name: "The River 105.5",
+            logo: "stations/images-america/modesto/The River 105.5.png",
+            url: "http://208.74.9.25:8000/krvr.mp3"
         },
         {
             name: "GraceRadio 107.9",
@@ -13561,12 +13571,12 @@ var stations = {
         },
         {
             name: "FOX Sports 1280",
-            logo: "stations/images-america/modesto/FOX Sports 1280.png",
+            logo: "stations/images-america/stockton/FOX Sports 1280.png",
             url: "https://stream.revma.ihrhls.com/zc5236/hls.m3u8"
         },
         {
-            name: "Power Talk 1360",
-            logo: "stations/images-america/modesto/Power Talk 1360.png",
+            name: "1360 KFIV",
+            logo: "stations/images-america/modesto/1360 KFIV.png",
             url: "https://stream.revma.ihrhls.com/zc2914/hls.m3u8"
         },
         {
@@ -19851,6 +19861,128 @@ var stations = {
             name: "Patriot Radio 1450",
             logo: "stations/images-america/st_george/Patriot Radio.png",
             url: "http://ice10.securenetsystems.net/KZNU2"
+        },
+    ],
+    "stockton": [
+        {
+            name: "Family Radio 88.1",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
+            name: "Air1 89.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 89.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KYCC 90.1",
+            logo: "stations/images-america/stockton/KYCC.png",
+            url: "https://ic1.sslstream.com/kycc-fm"
+        },
+        {
+            name: "CapRadio News 91.3",
+            logo: "stations/images-america/0_general_logos/CapRadio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
+        },
+        {
+            name: "Relevant Radio 92.7",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac"
+        },
+        {
+            name: "93.5 KWDC",
+            logo: "stations/images-america/stockton/93.5 KWDC.png",
+            url: "https://us2.maindigitalstream.com/ssl/KWDC"
+        },
+        {
+            name: "97.7 KWIN",
+            logo: "stations/images-america/modesto/98.3 KWIN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWINFMAAC_SC"
+        },
+        {
+            name: "99.3 KJOY",
+            logo: "stations/images-america/stockton/99.3 KJOY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJOYFMAAC_SC"
+        },
+        {
+            name: "CSN Radio 99.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Mega 100",
+            logo: "stations/images-america/stockton/Mega 100.png",
+            url: "https://stream.revma.ihrhls.com/zc2926/hls.m3u8"
+        },
+        {
+            name: "La Tricolor 100.9",
+            logo: "stations/images-america/modesto/La Tricolor 100.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMIXFMAAC_SC"
+        },
+        {
+            name: "Air1 102.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 102.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Kat Country 103",
+            logo: "stations/images-america/modesto/Kat Country 103.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KATMFMAAC_SC"
+        },
+        {
+            name: "104.1 The Hawk",
+            logo: "stations/images-america/modesto/104.1 The Hawk.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKKFMAAC_SC"
+        },
+        {
+            name: "650 KSTE",
+            logo: "stations/images-america/sacramento/650 KSTE.png",
+            url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
+        },
+        {
+            name: "770 KCBC",
+            logo: "stations/images-america/modesto/770 KCBC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCBCAMAAC_SC"
+        },
+        {
+            name: "KATD 990",
+            logo: "stations/images-america/0_general_logos/KIQI_KATD.png",
+            url: "http://kiqiradio.serverroom.us:8260/stream.mp3"
+        },
+        {
+            name: "Sactown Sports 1140",
+            logo: "stations/images-america/sacramento/Sactown Sports 1140.png",
+            url: "https://bonneville.cdnstream1.com/2616_48.aac"
+        },
+        {
+            name: "Relevant Radio 1230",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "FOX Sports 1280",
+            logo: "stations/images-america/stockton/FOX Sports 1280.png",
+            url: "https://stream.revma.ihrhls.com/zc5236/hls.m3u8"
+        },
+        {
+            name: "1360 KFIV",
+            logo: "stations/images-america/modesto/1360 KFIV.png",
+            url: "https://stream.revma.ihrhls.com/zc2914/hls.m3u8"
+        },
+        {
+            name: "Punjabi Radio 1570",
+            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
+            url: "http://s5.voscast.com:9281/stream"
         },
     ],
     "susanv": [
@@ -44675,7 +44807,7 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-wtptfmaac-imc"
         },
         {
-            name: "WTPT 93.3-HD2",
+            name: "93.3 WTPT-HD2",
             logo: "stations/images-america/c2c/greenville_sc/The LifeFM 105.9.png",
             url: "http://ice41.securenetsystems.net/WHQA"
         },
@@ -45436,7 +45568,7 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOFM_SC"
         },
         {
-            name: "WKNP 90.1-HD2",
+            name: "90.1 WKNP-HD2",
             logo: "stations/images-america/c2c/memphis_tn/WKNO 91.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKNOHD2_SC"
         },

@@ -993,7 +993,7 @@ var country_properties = {
         name: "Modesto",
         name_english: "Modesto",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "montpelier": {
         name: "Montpelier",
@@ -1408,6 +1408,12 @@ var country_properties = {
         name_english: "St. George",
         code: "us-ut",
 		relative_radius: 0.8
+    },
+    "stockton": {
+        name: "Stockton",
+        name_english: "Stockton",
+        code: "us-ca",
+		relative_radius: 0.5
     },
     "susanv": {
         name: "Susanville",
@@ -2176,7 +2182,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "modesto": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "montpelier": {
         relative_whitenoise: 0.85
@@ -2406,6 +2412,9 @@ var city_properties = {
     "st_george": {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
+    },
+    "stockton": {
+        relative_whitenoise: 0.95
     },
     "susanv": {
         relative_whitenoise: 0.85
@@ -4056,9 +4065,9 @@ var cities = [
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "modesto",
-        "x": "-109113",
+        "x": "-108513",
         "y": "135.387",
-        "z": "-5622.85"
+        "z": "-5122.85"
     },
     {
         "gameName": "monterey",
@@ -4703,10 +4712,10 @@ var cities = [
     {
         "gameName": "stockton",
         "realName": "Stockton",
-        "country": "modesto",
-        "x": "-109820",
-        "y": "16.011",
-        "z": "-9965.24"
+        "country": "stockton",
+        "x": "-110864",
+        "y": "87.7422",
+        "z": "-9926.91"
     },
     {
         "gameName": "sweetwater",
