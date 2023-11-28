@@ -2355,14 +2355,49 @@ var stations = {
     ],
     "bozeman": [
         {
+            name: "88.1 KOFK",
+            logo: "stations/images-america/bozeman/88.1 KOFK.png",
+            url: "http://kofkradio.stream.miriamtech.net:8000/live"
+        },
+        {
+            name: "YPR 88.7",
+            logo: "stations/images-america/0_general_logos/YPR_autumn.png",
+            url: "http://ypr-sc.streamguys.net//live"
+        },
+        {
+            name: "K-LOVE 89.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Radio 74 90.3",
+            logo: "stations/images-america/lakeview/Radio 74.png",
+            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
+            name: "YNOP 90.9",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
             name: "KGLT 91.9",
             logo: "stations/images-america/bozeman/KGLT 91.9.png",
             url: "http://shoutcast.kglt.net:8000/stream"
         },
         {
+            name: "93.7 The River",
+            logo: "stations/images-america/bozeman/93.7 The River.png",
+            url: "https://desertmountainbroadcasting.streamguys1.com/KOBB-FM"
+        },
+        {
             name: "The Moose 94.7",
             logo: "stations/images-america/bozeman/The Moose 94.7.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmmsfmaac-ibc3"
+        },
+        {
+            name: "95.1 K236CY",
+            logo: "stations/images-america/bozeman/1450 KMMS.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kmmsamaac-ibc3"
         },
         {
             name: "KGVM 95.9",
@@ -2373,6 +2408,11 @@ var stations = {
             name: "96.7 KISS FM",
             logo: "stations/images-america/bozeman/96.7 KISS FM.png",
             url: "https://live.amperwave.net/manifest/townsquare-kisnfmaac-ibc3"
+        },
+        {
+            name: "97.5 The Zone",
+            logo: "stations/images-america/bozeman/97.5 The Zone.png",
+            url: "https://desertmountainbroadcasting.streamguys1.com/KOZB-FM"
         },
         {
             name: "99.1 The One",
@@ -2395,12 +2435,17 @@ var stations = {
             url: "http://ypr-sc.streamguys.net/live"
         },
         {
-            name: "YPR Classical 102.1-HD2",
+            name: "YPR News & Talk 102.1-HD2",
+            logo: "stations/images-america/0_general_logos/YPR_autumn.png",
+            url: "https://ypr.streamguys1.com/live-4"
+        },
+        {
+            name: "YPR Classical 102.1-HD3",
             logo: "stations/images-america/0_general_logos/YPR_autumn.png",
             url: "https://ypr.streamguys1.com/live-2"
         },
         {
-            name: "YPR Jazz 102.1-HD3",
+            name: "YPR Jazz 102.1-HD4",
             logo: "stations/images-america/0_general_logos/YPR_autumn.png",
             url: "https://ypr.streamguys1.com/live-3"
         },
@@ -2410,9 +2455,9 @@ var stations = {
             url: "https://live.amperwave.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
         {
-            name: "104.1 The Zone",
-            logo: "stations/images-america/bozeman/104.1 The Zone.png",
-            url: "https://desertmountainbroadcasting.streamguys1.com/KYWL"
+            name: "104.1 K281CX",
+            logo: "stations/images-america/bozeman/97.5 The Zone.png",
+            url: "http://desertmountainbroadcasting.streamguys1.com/KOZB-FM"
         },
         {
             name: "The Eagle 105.7",
@@ -2420,14 +2465,34 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKQXFMAAC_SC"
         },
         {
+            name: "KJZS 106.3",
+            logo: "stations/images-america/bozeman/KJZS 106.3.png",
+            url: "http://radiohost.gbcmt.org:8000/kjzs"
+        },
+        {
             name: "K-SKY 106.9",
             logo: "stations/images-america/bozeman/K-SKY 106.9.png",
-            url: "http://216.246.103.221/index.php?u=https://ice23.securenetsystems.net/KSCY"
+            url: "https://ice23.securenetsystems.net/KSCY"
+        },
+        {
+            name: "1090 KBOZ",
+            logo: "stations/images-america/bozeman/1090 KBOZ.png",
+            url: "https://desertmountainbroadcasting.streamguys1.com/KBOZ-AM"
+        },
+        {
+            name: "1230 KOBB",
+            logo: "stations/images-america/bozeman/93.7 The River.png",
+            url: "http://desertmountainbroadcasting.streamguys1.com/KOBB-FM"
         },
         {
             name: "1450 KMMS",
             logo: "stations/images-america/bozeman/1450 KMMS.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmmsamaac-ibc3"
+        },
+        {
+            name: "1410 KYWL",
+            logo: "stations/images-america/bozeman/97.5 The Zone.png",
+            url: "http://desertmountainbroadcasting.streamguys1.com//KOZB-FM"
         },
     ],
     "brawley": [
@@ -8381,8 +8446,8 @@ var stations = {
             url: "https://live.amperwave.net/manifest/townsquare-kmonfmaac-ibc3"
         },
         {
-            name: "The River 97.9",
-            logo: "stations/images-america/greatfalls/The River 97.9_christmas.png",
+            name: "97.9 The River",
+            logo: "stations/images-america/greatfalls/97.9 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvvrfmaac-ibc3"
         },
         {
