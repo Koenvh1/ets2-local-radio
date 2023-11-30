@@ -479,9 +479,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1405/hls.m3u8"
         },
         {
-            name: "The Breeze 94.1-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "94.1 KZRR-HD2",
+            logo: "stations/images-america/albuquerque/Power 100.9.png",
+            url: "https://stream.revma.ihrhls.com/zc6469"
         },
         {
             name: "94.5 The Pit",
@@ -642,6 +642,11 @@ var stations = {
             name: "Big I 107.9",
             logo: "stations/images-america/albuquerque/Big I 107.9.png",
             url: "https://stream.revma.ihrhls.com/zc1385/hls.m3u8"
+        },
+        {
+            name: "107.9 KBQI-HD2",
+            logo: "stations/images-america/albuquerque/98.1 The Bull.png",
+            url: "https://stream.revma.ihrhls.com/zc1381"
         },
         {
             name: "610 The Sports Animal",
@@ -1794,7 +1799,7 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "KHIH 99.9",
+            name: "99.9 KHIH",
             logo: "stations/images-america/houston/89.3 KSBJ.png",
             url: "https://ksbj-live.streamguys1.com/ksbj/ksbj.aac"
         },
@@ -6161,7 +6166,7 @@ var stations = {
         {
             name: "Magia Digital 100.7",
             logo: "stations/images-america/el_paso/Magia Digital 100.7.png",
-            url: "https://tv.radiohosting.online:8106/stream"
+            url: "https://stream.zeno.fm/agrur3r91rhvv"
         },
         {
             name: "Power 102.1",
@@ -6181,7 +6186,7 @@ var stations = {
         {
             name: "Switch 105.9",
             logo: "stations/images-america/el_paso/Switch 105.9.png",
-            url: "https://tv.radiohosting.online:8108/stream"
+            url: "https://stream.zeno.fm/xgb5q6s71rhvv"
         },
         {
             name: "Órbita 106.7",
@@ -6231,12 +6236,12 @@ var stations = {
         {
             name: "860 Líder Informativo",
             logo: "stations/images-america/el_paso/860 Líder Informativo.png",
-            url: "https://tv.radiohosting.online:8102/stream"
+            url: "https://stream.zeno.fm/wwsc28r91rhvv"
         },
         {
             name: "La Rancherita 1000",
             logo: "stations/images-america/el_paso/La Rancherita 1000.png",
-            url: "https://tv.radiohosting.online:8104/stream"
+            url: "https://stream.zeno.fm/6ga3mhs91rhvv"
         },
         {
             name: "Cristo Rey 1110",
@@ -6256,7 +6261,7 @@ var stations = {
         {
             name: "Activa 1420",
             logo: "stations/images-america/el_paso/Activa 1420.png",
-            url: "https://tv.radiohosting.online:8100/stream"
+            url: "https://stream.zeno.fm/c2dv1ds91rhvv"
         },	
         {
             name: "Radio Fórmula 1460",
@@ -6952,12 +6957,12 @@ var stations = {
         {
             name: "96.7 The Wolf",
             logo: "stations/images-america/flagstaff/96.7 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWMXFMAAC_SC"
+            url: "https://ice.wbcengineering.com:8121/stream"
         },
         {
             name: "97.1 The Big Talker",
             logo: "stations/images-america/flagstaff/97.1 The Big Talker.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBTKFMAAC_SC"
+            url: "https://ice.wbcengineering.com:8122/stream"
         },
         {
             name: "100.One",
@@ -7382,7 +7387,7 @@ var stations = {
         {
             name: "90.7 KFSR",
             logo: "stations/images-america/fresno/90.7 KFSR.png",
-            url: "http://216.246.103.221/index.php?u=http://icecast.auxiliary.com/kfsr"
+            url: "http://216.246.103.221/index.php?u=https://icecast.auxiliary.com/kfsr"
         },
         {
             name: "La Preciosa 92.9",
@@ -7777,7 +7782,7 @@ var stations = {
         },
         {
             name: "The LIFT 106.3",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7124_48k.aac"
         },
         {
@@ -8303,7 +8308,7 @@ var stations = {
         },
         {
             name: "The LIFT 92.7",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -10780,7 +10785,7 @@ var stations = {
         {
             name: "KOOL 93.5",
             logo: "stations/images-america/lamar/KOOL 93.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTU4ODUw"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/streaming.live365.com/a58850"
         },
         {
             name: "KVAY 105.7",
@@ -14615,7 +14620,7 @@ var stations = {
         {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LT0FJ"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice42.securenetsystems.net/KOAI"
         },
         {
             name: "95.5 The Mountain",
@@ -14640,12 +14645,12 @@ var stations = {
         {
             name: "HOT 97.5",
             logo: "stations/images-america/phoenix/HOT 97.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LTVZB"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice42.securenetsystems.net/KMVA"
         },
         {
             name: "Power 98.3",
             logo: "stations/images-america/phoenix/Power 98.3.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U0Mi5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9LS0ZS"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice42.securenetsystems.net/KKFR"
         },
         {
             name: "98 KUPD",
@@ -14776,11 +14781,6 @@ var stations = {
             name: "ESPN 620",
             logo: "stations/images-america/phoenix/ESPN 620.png",
             url: "https://bonneville.cdnstream1.com/2697_48.aac"
-        },
-        {
-            name: "TUDN Radio 710",
-            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "FOX Sports 910",
@@ -15675,7 +15675,7 @@ var stations = {
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0E="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice9.securenetsystems.net/KLCA"
         },
         {
             name: "Ten Country 97.3",
@@ -15735,7 +15735,7 @@ var stations = {
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U5LnNlY3VyZW5ldHN5c3RlbXMubmV0L0tMQ0FIRDM="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "Kalor 105.3",
@@ -19533,7 +19533,7 @@ var stations = {
         },
         {
             name: "The LIFT 95.9",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
         },
         {
@@ -19563,7 +19563,7 @@ var stations = {
         },
         {
             name: "The LIFT 106.3",
-            logo: "stations/images-america/glenwood_springs/The LIFT.png",
+            logo: "stations/images-america/glenwood_springs/The LIFT_christmas.png",
             url: "https://ais-sa1.streamon.fm/7124_48k.aac"
         },
         {
@@ -20831,7 +20831,7 @@ var stations = {
         {
             name: "KDOK 95.7",
             logo: "stations/images-america/tyler/KDOK 95.7.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTkyOTQy"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/streaming.live365.com/a92942"
         },
         {
             name: "Classic Rock 96.1",
@@ -20851,7 +20851,7 @@ var stations = {
         {
             name: "QXFM 97.9",
             logo: "stations/images-america/tyler/QXFM 97.9.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTUzMTI3"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/streaming.live365.com/a53127"
         },
         {
             name: "Mega 99.3",
@@ -27269,7 +27269,7 @@ var stations_c2c = {
         {
             name: "Pirate Radio 101.7",
             logo: "stations/images-america/c2c/key_west_fl/Pirate Radio 101.7.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2U2LnNlY3VyZW5ldHN5c3RlbXMubmV0L1dLWVo="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice6.securenetsystems.net/WKYZ"
         },*/
         {
             name: "Sun 103.1",
@@ -29744,7 +29744,7 @@ var stations_c2c = {
         {
             name: "Jazzy 107.5",
             logo: "stations/images-america/c2c/honolulu_hi/Jazzy 107.5.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9zdHJlYW1pbmcubGl2ZTM2NS5jb20vYTI1NDM2"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/streaming.live365.com/a25436"
         },
         {
             name: "Decades 107.9",
@@ -30600,7 +30600,7 @@ var stations_c2c = {
         {
             name: "99.9 WWCT",
             logo: "stations/images-america/c2c/peoria_il/99.9 WWCT.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2UyNC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XV0NU"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice24.securenetsystems.net/WWCT"
         },
         {
             name: "100.3 WMBD",
@@ -38300,7 +38300,7 @@ var stations_c2c = {
         {
             name: "100.5 The Drive",
             logo: "stations/images-america/c2c/binghamton_ny/100.5 The Drive.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly9pY2UyNC5zZWN1cmVuZXRzeXN0ZW1zLm5ldC9XRFJF"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice24.securenetsystems.net/WDRE"
         },
         {
             name: "Magic 101.7",
@@ -47681,12 +47681,12 @@ var stations_c2c = {
         {
             name: "Razor 94.7",
             logo: "stations/images-america/c2c/green_bay_wi/Razor 94.7.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDAzOQ=="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/woodward-radio.streamb.live/SB00039"
         },
         {
             name: "95.9 KISS FM",
             logo: "stations/images-america/c2c/green_bay_wi/95.9 KISS FM.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDEzMg=="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/woodward-radio.streamb.live/SB00132"
         },
         {
             name: "96.7 WBDK",
@@ -47746,17 +47746,17 @@ var stations_c2c = {
         {
             name: "104.3 The Fuse",
             logo: "stations/images-america/c2c/green_bay_wi/104.3 The Fuse.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDEzMQ=="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/woodward-radio.streamb.live/SB00131"
         },
         {
             name: "105.7 WAPL",
             logo: "stations/images-america/c2c/green_bay_wi/105.7 WAPL.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDAyMA=="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/woodward-radio.streamb.live/SB00020"
         },
         {
             name: "WHBY 106.3",
             logo: "stations/images-america/c2c/green_bay_wi/WHBY.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cDovL3dvb2R3YXJkLXJhZGlvLnN0cmVhbWIubGl2ZS9TQjAwMDY4"
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/woodward-radio.streamb.live/SB00068"
         },
         {
             name: "Big Dog 106.7",
@@ -47776,7 +47776,7 @@ var stations_c2c = {
         {
             name: "WHBY 1150",
             logo: "stations/images-america/c2c/green_bay_wi/WHBY.png",
-            url: "http://beckoningcat.com/catx/index.php?q=aHR0cHM6Ly93b29kd2FyZC1yYWRpby5zdHJlYW1iLmxpdmUvU0IwMDA2OA=="
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/woodward-radio.streamb.live/SB00068"
         },
         {
             name: "1590 WGBW",
