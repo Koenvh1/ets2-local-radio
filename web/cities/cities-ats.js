@@ -909,7 +909,7 @@ var country_properties = {
         name: "Mankato",
         name_english: "Mankato",
         code: "us-ks",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "marathon_tx": {
         name: "Marathon",
@@ -1239,7 +1239,7 @@ var country_properties = {
         name: "Salina",
         name_english: "Salina",
         code: "us-ks",
-        relative_radius: 0.4
+        relative_radius: 0.6
     },
     "salina_ut": {
         name: "Salina",
@@ -1795,7 +1795,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "colby": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "college_station": {
         relative_whitenoise: 0.95
@@ -2098,7 +2098,7 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "lawrence": {
-		relative_radius: 0.8,
+		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "lawton": {
@@ -2440,7 +2440,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "topeka": {
-		relative_radius: 0.8,
+		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "truckee": {
@@ -2993,9 +2993,9 @@ var cities = [
         "gameName": "colby",
         "realName": "Colby",
         "country": "colby",
-        "x": "-22384.1",
-        "y": "270",
-        "z": "-3269.34"
+        "x": "-22443.8",
+        "y": "105",
+        "z": "-1644.82"
     },
     {
         "gameName": "college_station",
@@ -3137,9 +3137,9 @@ var cities = [
         "gameName": "dodge_city",
         "realName": "Dodge City",
         "country": "dodge_city",
-        "x": "-18001.7",
-        "y": "140",
-        "z": "6714.36"
+        "x": "-17483.2",
+        "y": "90.8164",
+        "z": "6177.79"
     },
     {
         "gameName": "durango",
@@ -3217,9 +3217,9 @@ var cities = [
         "gameName": "emporia",
         "realName": "Emporia",
         "country": "emporia",
-        "x": "-1659.19",
-        "y": "175.192",
-        "z": "4401.77"
+        "x": "-281.844",
+        "y": "91.5977",
+        "z": "3950.02"
     },
     {
         "gameName": "enid",
@@ -3385,17 +3385,17 @@ var cities = [
         "gameName": "garden_city",
         "realName": "Garden City",
         "country": "garden_city",
-        "x": "-21669.2",
-        "y": "180",
-        "z": "4876.24"
+        "x": "-21687.2",
+        "y": "86.9297",
+        "z": "5757.88"
     },
     {
         "gameName": "garden_city",
         "realName": "Garden City",
         "country": "dodge_city",
-        "x": "-21669.2",
-        "y": "180",
-        "z": "4876.24"
+        "x": "-21687.2",
+        "y": "86.9297",
+        "z": "5757.88"
     },
     {
         "gameName": "gillette",
@@ -3481,9 +3481,9 @@ var cities = [
         "gameName": "hays",
         "realName": "Hays",
         "country": "hays",
-        "x": "-15143.8",
-        "y": "281.967",
-        "z": "-100.7185"
+        "x": "-14594.3",
+        "y": "81.1016",
+        "z": "1119.61"
     },
     {
         "gameName": "helena",
@@ -3553,17 +3553,17 @@ var cities = [
         "gameName": "hutchinson",
         "realName": "Hutchinson",
         "country": "hutchinson",
-        "x": "-9390.6",
-        "y": "188",
-        "z": "5828.88"
+        "x": "-9413.49",
+        "y": "80",
+        "z": "4985.48"
     },
     {
         "gameName": "hutchinson",
         "realName": "Hutchinson",
         "country": "wichita",
-        "x": "-9390.6",
-        "y": "188",
-        "z": "5828.88"
+        "x": "-9413.49",
+        "y": "80",
+        "z": "4985.48"
     },
     {
         "gameName": "idabel",
@@ -3617,9 +3617,9 @@ var cities = [
         "gameName": "junction_city",
         "realName": "Junction City",
         "country": "junction_city",
-        "x": "-6462.19",
-        "y": "175.426",
-        "z": "-96.5295"
+        "x": "-4005.22",
+        "y": "69.2695",
+        "z": "-766.828"
     },
     {
         "gameName": "kalispell",
@@ -3657,17 +3657,17 @@ var cities = [
         "gameName": "kansas_city",
         "realName": "Kansas City",
         "country": "kansas_city",
-        "x": "6370.48",
-        "y": "192.055",
-        "z": "487.648"
+        "x": "6395.63",
+        "y": "85.3633",
+        "z": "-1601.14"
     },
     {
         "gameName": "kansas_city",
         "realName": "Kansas City",
         "country": "st_joseph_kkjo",
-        "x": "6370.48",
-        "y": "192.055",
-        "z": "487.648"
+        "x": "6395.63",
+        "y": "85.3633",
+        "z": "-1601.14"
     },
     {
         "gameName": "kennewick",
@@ -3945,7 +3945,7 @@ var cities = [
         "gameName": "mankato",
         "realName": "Mankato",
         "country": "mankato",
-        "x": "-10376.41",
+        "x": "-9676.41",
         "y": "153.148",
         "z": "-4568.5"
     },
@@ -3985,9 +3985,9 @@ var cities = [
         "gameName": "marysville",
         "realName": "Marysville",
         "country": "marysville",
-        "x": "-5976.41",
-        "y": "153.148",
-        "z": "-4568.5"
+        "x": "-2604.68",
+        "y": "95.457",
+        "z": "-4706.35"
     },
     {
         "gameName": "mcalester",
@@ -4233,9 +4233,9 @@ var cities = [
         "gameName": "phillipsburg",
         "realName": "Phillipsburg",
         "country": "phillipsburg",
-        "x": "-15143.8",
-        "y": "281.967",
-        "z": "-4000.7185"
+        "x": "-14624.9",
+        "y": "77.6016",
+        "z": "-4813.45"
     },
     {
         "gameName": "phoenix",
@@ -4257,9 +4257,9 @@ var cities = [
         "gameName": "pittsburg",
         "realName": "Pittsburg",
         "country": "joplin",
-        "x": "6703.6",
-        "y": "130.968",
-        "z": "9188.4"
+        "x": "5682.23",
+        "y": "67.9766",
+        "z": "8593.65"
     },
     {
         "gameName": "pocatello",
@@ -4473,9 +4473,9 @@ var cities = [
         "gameName": "salina_ks",
         "realName": "Salina",
         "country": "salina_ks",
-        "x": "-9276.62",
-        "y": "354.108",
-        "z": "884.355"
+        "x": "-8136.89",
+        "y": "74",
+        "z": "1182.27"
     },
     {
         "gameName": "salina_ut",
@@ -4777,17 +4777,17 @@ var cities = [
         "gameName": "topeka",
         "realName": "Topeka",
         "country": "topeka",
-        "x": "-1862.19",
-        "y": "175.426",
-        "z": "-96.5295"
+        "x": "653.289",
+        "y": "96.8672",
+        "z": "-76.1289"
     },
     {
         "gameName": "topeka",
         "realName": "Topeka",
         "country": "st_joseph_kkjo",
-        "x": "-1862.19",
-        "y": "175.426",
-        "z": "-96.5295"
+        "x": "653.289",
+        "y": "96.8672",
+        "z": "-76.1289"
     },
     {
         "gameName": "truckee",
@@ -4977,9 +4977,9 @@ var cities = [
         "gameName": "wichita",
         "realName": "Wichita",
         "country": "wichita",
-        "x": "-5937.22",
-        "y": "175.43",
-        "z": "6685.19"
+        "x": "-6677.27",
+        "y": "66.2539",
+        "z": "7352.23"
     },
     {
         "gameName": "wichita_falls",
