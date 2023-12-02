@@ -2772,6 +2772,11 @@ var stations = {
     ],
     "iraq": [
         {
+            name: "إذاعة الكفيل",
+            logo: "stations/images-europe/iraq/إذاعة الكفيل.png",
+            url: "https://stream.alkafeel.net/live/radio/manifest.m3u8"
+        },
+        {
             name: "راديو سوا",
             logo: "stations/images-europe/iraq/راديو سوا.png",
             url: "https://stream.radiojar.com/t9h51xwr92quv"
@@ -2970,7 +2975,7 @@ var stations = {
         {
             name: "Radiofreccia",
             logo: "stations/images-europe/italy/Radiofreccia.png",
-            url: "https://streamingv2.shoutcast.com/radiofreccia_48.aac"
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8"
         },
         {
             name: "Radio InBlu",
@@ -3235,7 +3240,7 @@ var stations = {
         {
             name: "TOPradio",
             logo: "stations/images-europe/latvia/TOPradio.png",
-            url: "http://195.13.200.164:8000/;"
+            url: "https://topradio.live.advailo.com/topradio/aac/icecast.audio"
         },
     ],
     "lebanon": [
