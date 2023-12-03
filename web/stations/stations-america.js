@@ -2695,21 +2695,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
         },
         {
-            name: "FlyOver Country 97.9",
-            logo: "stations/images-america/colby/FlyOver Country 97.9.png",
-            url: "https://ice23.securenetsystems.net/KWGB"
-        },
-        {
-            name: "URock 102.5",
-            logo: "stations/images-america/colby/URock 102.5.png",
-            url: "https://ice42.securenetsystems.net/KKCI"
-        },
-        {
-            name: "Tri-State Praise 107.7",
-            logo: "stations/images-america/colby/Tri-State Praise 107.7.png",
-            url: "https://ice10.securenetsystems.net/KGCR"
-        },
-        {
             name: "630 KHOW",
             logo: "stations/images-america/denver/630 KHOW.png",
             url: "https://stream.revma.ihrhls.com/zc377/hls.m3u8"
@@ -2738,11 +2723,6 @@ var stations = {
             name: "KRVN 880",
             logo: "stations/images-america/c2c/mccook_ne/KRVN 880.png",
             url: "https://ais-sa1.streamon.fm/7323_48k.aac"
-        },
-        {
-            name: "KXXX 790",
-            logo: "stations/images-america/colby/KXXX 790.png",
-            url: "https://ice42.securenetsystems.net/KXXX"
         },
         {
             name: "AM920 The Country Giant",
@@ -3653,8 +3633,8 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
-            name: "KXXX 790",
-            logo: "stations/images-america/colby/KXXX 790.png",
+            name: "790 KXXX",
+            logo: "stations/images-america/colby/790 KXXX.png",
             url: "https://ice42.securenetsystems.net/KXXX"
         },
         {
@@ -4706,9 +4686,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2815/hls.m3u8"
         },
         {
-            name: "102.5 El Pez",
-            logo: "stations/images-america/dallas_fort_worth/102.5 El Pez.png",
-            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLTYHD2AAC_SC"
+            name: "102.5 Radio Luz",
+            logo: "stations/images-america/dallas_fort_worth/Radio Luz.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC.aac"
         },
         {
             name: "MIX 102.9",
@@ -4797,7 +4777,7 @@ var stations = {
         },
         {
             name: "620 AM Radio Luz",
-            logo: "stations/images-america/dallas_fort_worth/620 AM Radio Luz.png",
+            logo: "stations/images-america/dallas_fort_worth/Radio Luz.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
         },
         {
@@ -5720,7 +5700,7 @@ var stations = {
         },
         {
             name: "620 AM Radio Luz",
-            logo: "stations/images-america/dallas_fort_worth/620 AM Radio Luz.png",
+            logo: "stations/images-america/dallas_fort_worth/Radio Luz.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
         },
         {
@@ -7059,7 +7039,7 @@ var stations = {
         {
             name: "90.5 KCSU",
             logo: "stations/images-america/fort_collins/90.5 KCSU.png",
-            url: "https://listen.creek.org/kcsu"
+            url: "https://listen.creek.org/test-kcsu-1"
         },
         {
             name: "90.9 K215FM",
@@ -13635,11 +13615,6 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2616_48.aac"
         },
         {
-            name: "Punjabi Radio 1170",
-            logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
-            url: "http://s5.voscast.com:9281/stream"
-        },
-        {
             name: "Relevant Radio 1230",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
@@ -19209,8 +19184,8 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://ice42.securenetsystems.net/KQAZ"
         },*/
         {
-            name: "103.5 The Vibe",
-            logo: "stations/images-america/show_low/103.5 The Vibe.png",
+            name: "Vibe 103.5",
+            logo: "stations/images-america/show_low/Vibe 103.5.png",
             url: "https://s5.radioforge.com:6874/vibe23"
         },
         {
@@ -21949,7 +21924,7 @@ var stations = {
         },
         {
             name: "620 AM Radio Luz",
-            logo: "stations/images-america/dallas_fort_worth/620 AM Radio Luz.png",
+            logo: "stations/images-america/dallas_fort_worth/Radio Luz.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
         },
         {
@@ -37629,8 +37604,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ice41.securenetsystems.net/KIOD"
         },
         {
-            name: "KXXX 790",
-            logo: "stations/images-america/colby/KXXX 790.png",
+            name: "790 KXXX",
+            logo: "stations/images-america/colby/790 KXXX.png",
             url: "https://ice42.securenetsystems.net/KXXX"
         },
         {
@@ -42021,7 +41996,7 @@ var stations_c2c = {
         },
         {
             name: "620 AM Radio Luz",
-            logo: "stations/images-america/dallas_fort_worth/620 AM Radio Luz.png",
+            logo: "stations/images-america/dallas_fort_worth/Radio Luz.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC_SC"
         },
         {

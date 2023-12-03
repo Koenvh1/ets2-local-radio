@@ -195,7 +195,7 @@ var country_properties = {
         name: "Burlington",
         name_english: "Burlington",
         code: "us-co",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "burns": {
         name: "Burns",
@@ -303,7 +303,7 @@ var country_properties = {
         name: "Colby",
         name_english: "Colby",
         code: "us-ks",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "college_station": {
         name: "College Station",
@@ -837,7 +837,7 @@ var country_properties = {
         name: "Lawrence",
         name_english: "Lawrence",
         code: "us-ks",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "lawton": {
         name: "Lawton",
@@ -1559,6 +1559,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.7
     },
+    "wakeeney": {
+        name: "WaKeeney",
+        name_english: "WaKeeney",
+        code: "us-ks",
+        relative_radius: 0.6
+    },
     "wallace": {
         name: "Wallace",
         name_english: "Wallace",
@@ -1733,7 +1739,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "burlington": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.95
     },
     "burns": {
         relative_whitenoise: 0.85
@@ -2495,6 +2501,10 @@ var city_properties = {
     "waco": {
         relative_whitenoise: 0.95
     },
+    "wakeeney": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "wallace": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
@@ -2817,7 +2827,7 @@ var cities = [
         "gameName": "burlington",
         "realName": "Burlington",
         "country": "burlington",
-        "x": "-27255.2",
+        "x": "-28855.2",
         "y": "145.367",
         "z": "-2904.98"
     },
@@ -2993,7 +3003,7 @@ var cities = [
         "gameName": "colby",
         "realName": "Colby",
         "country": "colby",
-        "x": "-22443.8",
+        "x": "-23043.8",
         "y": "105",
         "z": "-1644.82"
     },
@@ -4932,6 +4942,14 @@ var cities = [
         "x": "-5465.2",
         "y": "113.414",
         "z": "42150.9"
+    },
+    {
+        "gameName": "wakeeney",
+        "realName": "WaKeeney",
+        "country": "hays",
+        "x": "-17524.2",
+        "y": "70.8681",
+        "z": "-567.434"
     },
     {
         "gameName": "wallace",
@@ -7533,7 +7551,7 @@ var country_properties_c2c = {
         name: "kansas",
         name_english: "kansas",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 1.0
     },
     "greatbend_ks": {
         name: "Great Bend",
@@ -8001,7 +8019,7 @@ var country_properties_c2c = {
         name: "Lincoln",
         name_english: "Lincoln",
         code: "us-ne",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "mccook_ne": {
         name: "McCook",
@@ -8970,7 +8988,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "lincoln": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "mccook_ne": {
         relative_whitenoise: 0.85
@@ -10363,9 +10381,9 @@ var cities_c2c = [
         "gameName": "lincoln",
         "realName": "Lincoln",
         "country": "lincoln",
-        "x": "-2976.41",
+        "x": "-4076.41",
         "y": "153.148",
-        "z": "-7568.5"
+        "z": "-9068.5"
     },
     {
         "gameName": "mccook_ne",
