@@ -5468,7 +5468,7 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2708_48.aac"
         },
     ],
-    "dodge_city": [
+    "dodge_garden_city": [
         {
             name: "Air1 89.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
@@ -5486,7 +5486,7 @@ var stations = {
         },
         {
             name: "KMML 92.9",
-            logo: "stations/images-america/garden_city/99.9 The Rock.png",
+            logo: "stations/images-america/dodge_garden_city/99.9 The Rock.png",
             url: "https://ice23.securenetsystems.net/KWKR"
         },
         {
@@ -5496,28 +5496,38 @@ var stations = {
         },
         {
             name: "La Mexicana 93.9",
-            logo: "stations/images-america/dodge_city/La Mexicana 93.9.png",
+            logo: "stations/images-america/dodge_garden_city/La Mexicana 93.9.png",
             url: "https://ice42.securenetsystems.net/KSMMKZRD"
         },
         {
+            name: "Mix 94",
+            logo: "stations/images-america/dodge_garden_city/Mix 94.png",
+            url: "https://ice23.securenetsystems.net/KSKL"
+        },
+        {
             name: "94.7 The Bull",
-            logo: "stations/images-america/garden_city/100.9 The Bull.png",
+            logo: "stations/images-america/dodge_garden_city/100.9 The Bull.png",
             url: "http://162.244.80.178:8006/stream"
         },
         {
             name: "Super Hits 95.5",
-            logo: "stations/images-america/dodge_city/Super Hits 95.5.png",
+            logo: "stations/images-america/dodge_garden_city/Super Hits 95.5.png",
             url: "https://ice42.securenetsystems.net/KAHE"
         },
         {
             name: "96.3 The Marshal",
-            logo: "stations/images-america/dodge_city/96.3 The Marshal.png",
+            logo: "stations/images-america/dodge_garden_city/96.3 The Marshal.png",
             url: "https://ice42.securenetsystems.net/KERP"
         },
         {
             name: "Q97",
-            logo: "stations/images-america/garden_city/Q97.png",
+            logo: "stations/images-america/dodge_garden_city/Q97.png",
             url: "https://ice23.securenetsystems.net/KKJQ"
+        },
+        {
+            name: "Z98",
+            logo: "stations/images-america/dodge_garden_city/Z98.png",
+            url: "http://ice23.securenetsystems.net/KSKZ"
         },
         {
             name: "KJIL 99.1",
@@ -5525,8 +5535,18 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
+            name: "99.9 The Rock",
+            logo: "stations/images-america/dodge_garden_city/99.9 The Rock.png",
+            url: "https://ice23.securenetsystems.net/KWKR"
+        },
+        {
+            name: "100.9 The Bull",
+            logo: "stations/images-america/dodge_garden_city/100.9 The Bull.png",
+            url: "http://162.244.80.178:8006//stream"
+        },
+        {
             name: "KMML 102.1",
-            logo: "stations/images-america/garden_city/99.9 The Rock.png",
+            logo: "stations/images-america/dodge_garden_city/99.9 The Rock.png",
             url: "http://ice23.securenetsystems.net/KWKR"
         },
         {
@@ -5535,19 +5555,39 @@ var stations = {
             url: "http://ic1.christiannetcast.com/bottradio"
         },
         {
+            name: "La Raza 102.9",
+            logo: "stations/images-america/dodge_garden_city/La Raza.png",
+            url: "http://162.244.80.178:8010/stream"
+        },
+        {
             name: "KHYM 103.9",
             logo: "stations/images-america/woodward/KHYM 89.9.png",
             url: "https://ice41.securenetsystems.net/KHYM"
         },
         {
+            name: "KIUL 104.9",
+            logo: "stations/images-america/dodge_garden_city/KIUL.png",
+            url: "http://162.244.80.178:8008/stream"
+        },
+        {
             name: "La Ke Buena 105.9",
-            logo: "stations/images-america/dodge_city/La Ke Buena 105.9.png",
+            logo: "stations/images-america/dodge_garden_city/La Ke Buena 105.9.png",
             url: "https://ice23.securenetsystems.net/KSSA"
         },
         {
+            name: "107.1 K296HO",
+            logo: "stations/images-america/dodge_garden_city/KBUF 1030.png",
+            url: "http://ice23.securenetsystems.net/KBUF"
+        },
+        {
             name: "KBUF 1030",
-            logo: "stations/images-america/garden_city/KBUF 1030.png",
+            logo: "stations/images-america/dodge_garden_city/KBUF 1030.png",
             url: "https://ice23.securenetsystems.net/KBUF"
+        },
+        {
+            name: "KIUL 1240",
+            logo: "stations/images-america/dodge_garden_city/KIUL.png",
+            url: "http://162.244.80.178:8008//stream"
         },
         {
             name: "KSCB 1270",
@@ -5555,8 +5595,13 @@ var stations = {
             url: "https://1.ice1.sslstream.com/kscb_am.aac"
         },
         {
+            name: "La Raza 1340",
+            logo: "stations/images-america/dodge_garden_city/La Raza.png",
+            url: "http://162.244.80.178:8010//stream"
+        },
+        {
             name: "1370 KGNO",
-            logo: "stations/images-america/dodge_city/1370 KGNO.png",
+            logo: "stations/images-america/dodge_garden_city/1370 KGNO.png",
             url: "https://ice42.securenetsystems.net/KGNO"
         },
     ],
@@ -8070,68 +8115,6 @@ var stations = {
             name: "KGAK 1330",
             logo: "stations/images-america/gallup/KGAK.png",
             url: "http://ice41.securenetsystems.net/KGAK"
-        },
-    ],
-    "garden_city": [
-        {
-            name: "Mix 94",
-            logo: "stations/images-america/garden_city/Mix 94.png",
-            url: "https://ice23.securenetsystems.net/KSKL"
-        },
-        {
-            name: "Q97",
-            logo: "stations/images-america/garden_city/Q97.png",
-            url: "https://ice23.securenetsystems.net/KKJQ"
-        },
-        {
-            name: "Z98",
-            logo: "stations/images-america/garden_city/Z98.png",
-            url: "http://ice23.securenetsystems.net/KSKZ"
-        },
-        {
-            name: "99.9 The Rock",
-            logo: "stations/images-america/garden_city/99.9 The Rock.png",
-            url: "https://ice23.securenetsystems.net/KWKR"
-        },
-        {
-            name: "100.9 The Bull",
-            logo: "stations/images-america/garden_city/100.9 The Bull.png",
-            url: "http://162.244.80.178:8006/stream"
-        },
-        {
-            name: "La Raza 102.9",
-            logo: "stations/images-america/garden_city/La Raza.png",
-            url: "http://162.244.80.178:8010/stream"
-        },
-        {
-            name: "KIUL 104.9",
-            logo: "stations/images-america/garden_city/KIUL.png",
-            url: "http://162.244.80.178:8008/stream"
-        },
-        {
-            name: "107.1 K296HO",
-            logo: "stations/images-america/garden_city/KBUF 1030.png",
-            url: "http://ice23.securenetsystems.net/KBUF"
-        },
-        {
-            name: "Bott Radio 107.9",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
-        },
-        {
-            name: "KBUF 1030",
-            logo: "stations/images-america/garden_city/KBUF 1030.png",
-            url: "https://ice23.securenetsystems.net/KBUF"
-        },
-        {
-            name: "KIUL 1240",
-            logo: "stations/images-america/garden_city/KIUL.png",
-            url: "http://162.244.80.178:8008//stream"
-        },
-        {
-            name: "La Raza 1340",
-            logo: "stations/images-america/garden_city/La Raza.png",
-            url: "http://162.244.80.178:8010//stream"
         },
     ],
     "gillette": [

@@ -405,7 +405,13 @@ var country_properties = {
         name: "Dodge City",
         name_english: "Dodge City",
         code: "us-ks",
-        relative_radius: 0.8
+        relative_radius: 0.7
+    },
+    "dodge_garden_city": {
+        name: "Dodge City/Garden City",
+        name_english: "Dodge City/Garden City",
+        code: "us-ks",
+        relative_radius: 0.7
     },
     "durango": {
         name: "Durango",
@@ -555,7 +561,7 @@ var country_properties = {
         name: "Garden City",
         name_english: "Garden City",
         code: "us-ks",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "gillette": {
         name: "Gillette",
@@ -1409,11 +1415,11 @@ var country_properties = {
         code: "us-ut",
 		relative_radius: 0.8
     },
-    "stockton": {
-        name: "Stockton",
-        name_english: "Stockton",
-        code: "us-ca",
-		relative_radius: 0.5
+    "st_john": {
+        name: "Saint John",
+        name_english: "Saint John",
+        code: "us-ks",
+        relative_radius: 0.6,
     },
     "susanv": {
         name: "Susanville",
@@ -1854,6 +1860,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "dodge_city": {
+        relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
     "durango": {
@@ -1941,7 +1948,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "garden_city": {
-        relative_radius: 0.7,
+        relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
     "gillette": {
@@ -2360,10 +2367,6 @@ var city_properties = {
     "sterling": {
         relative_whitenoise: 0.90
     },
-    "stockton": {
-        relative_radius: 0.4,
-        relative_whitenoise: 0.85
-    },
     "monterey": {
         relative_whitenoise: 0.75
     },
@@ -2418,6 +2421,10 @@ var city_properties = {
     "st_george": {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
+    },
+    "st_john": {
+		relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "stockton": {
         relative_whitenoise: 0.95
@@ -3146,7 +3153,7 @@ var cities = [
     {
         "gameName": "dodge_city",
         "realName": "Dodge City",
-        "country": "dodge_city",
+        "country": "dodge_garden_city",
         "x": "-17483.2",
         "y": "90.8164",
         "z": "6177.79"
@@ -3394,15 +3401,7 @@ var cities = [
     {
         "gameName": "garden_city",
         "realName": "Garden City",
-        "country": "garden_city",
-        "x": "-21687.2",
-        "y": "86.9297",
-        "z": "5757.88"
-    },
-    {
-        "gameName": "garden_city",
-        "realName": "Garden City",
-        "country": "dodge_city",
+        "country": "dodge_garden_city",
         "x": "-21687.2",
         "y": "86.9297",
         "z": "5757.88"
@@ -4718,6 +4717,14 @@ var cities = [
         "x": "-78856.8",
         "y": "70.63",
         "z": "3000.27"
+    },
+    {
+        "gameName": "st_john",
+        "realName": "Saint John",
+        "country": "hutchinson",
+        "x": "-12390.6",
+        "y": "188",
+        "z": "6328.88"
     },
     {
         "gameName": "stockton",
@@ -7557,7 +7564,7 @@ var country_properties_c2c = {
         name: "Great Bend",
         name_english: "Great Bend",
         code: "us-ks",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "liberal_ks": {
         name: "liberal_ks",
@@ -8779,7 +8786,7 @@ var city_properties_c2c = {
     },
     "greatbend_ks": {
 		relative_radius: 0.7,
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "liberal_ks": {
         relative_whitenoise: 0.95
