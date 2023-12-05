@@ -119,6 +119,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
+    "belleville": {
+        name: "Belleville",
+        name_english: "Belleville",
+        code: "us-ks",
+        relative_radius: 0.5
+    },
     "bishop": {
         name: "Bishop",
         name_english: "Bishop",
@@ -1705,6 +1711,10 @@ var city_properties = {
     "beaumont": {
         relative_whitenoise: 0.95
     },
+    "belleville": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "bishop": {
         relative_whitenoise: 0.85
     },
@@ -2717,6 +2727,14 @@ var cities = [
         "x": "9941.66",
         "y": "63.0898",
         "z": "50291.3"
+    },
+    {
+        "gameName": "belleville",
+        "realName": "Belleville",
+        "country": "mankato",
+        "x": "-6183.93",
+        "y": "16.2227",
+        "z": "-4672.59"
     },
     {
         "gameName": "big_bend",
