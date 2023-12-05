@@ -14409,6 +14409,11 @@ var stations = {
             logo: "stations/images-america/paris/KSST 1230.png",
             url: "http://209.133.216.3:7329/stream"
         },
+        {
+            name: "KGVL 1400",
+            logo: "stations/images-america/paris/KGVL 1400_christmas.png",
+            url: "https://ice8.securenetsystems.net/KGVL"
+        },
     ],
     "pecos": [
         {
@@ -41722,11 +41727,6 @@ var stations_c2c = {
             name: "Proclaim FM 102.3",
             logo: "stations/images-america/c2c/toledo_oh/Proclaim FM 102.3.png",
             url: "https://ic2.sslstream.com/wpos-fm"
-        },
-        {
-            name: "Party 103.3",
-            logo: "stations/images-america/c2c/toledo_oh/Party 103.3.png",
-            url: "https://ice41.securenetsystems.net/WTODHD2"
         },
         {
             name: "103.7 CKY",
