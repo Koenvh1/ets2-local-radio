@@ -5485,9 +5485,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
         },
         {
-            name: "KMML 92.9",
+            name: "92.9 KMML",
             logo: "stations/images-america/dodge_garden_city/99.9 The Rock.png",
-            url: "https://ice23.securenetsystems.net/KWKR"
+            url: "https://ice23.securenetsystems.net//KWKR"
         },
         {
             name: "My Country 93.5",
@@ -5545,7 +5545,7 @@ var stations = {
             url: "http://162.244.80.178:8006//stream"
         },
         {
-            name: "KMML 102.1",
+            name: "102.1 KMML",
             logo: "stations/images-america/dodge_garden_city/99.9 The Rock.png",
             url: "http://ice23.securenetsystems.net/KWKR"
         },
