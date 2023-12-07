@@ -21886,8 +21886,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "100.9 Jack FM",
-            logo: "stations/images-america/wichita_falls/100.9 Jack FM.png",
+            name: "Santa 100.9",
+            logo: "stations/images-america/wichita_falls/100.9 Jack FM_christmas.png",
             url: "https://ais-sa1.streamon.fm/7807_96k.aac"
         },
         {
@@ -31216,8 +31216,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc905/hls.m3u8"
         },
         {
-            name: "CBS Sports 1430",
-            logo: "stations/images-america/c2c/indianapolis_in/CBS Sports 1430.png",
+            name: "Indy’s Sports Ticket 1430",
+            logo: "stations/images-america/c2c/indianapolis_in/Indy’s Sports Ticket 1430.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXNTAMAAC_SC"
         },
     ],
@@ -45808,6 +45808,11 @@ var stations_c2c = {
             name: "Classic Rock 93.1",
             logo: "stations/images-america/c2c/knoxville_tn/Classic Rock 93.1.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7699_128k.aac"
+        },
+        {
+            name: "Santa 93.7",
+            logo: "stations/images-america/c2c/knoxville_tn/Santa 93.7.png",
+            url: "https://stream.radiojar.com/su3dq6nuqzuvv"
         },
         {
             name: "94.3 Jack FM",
