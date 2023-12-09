@@ -7,7 +7,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -261,7 +261,7 @@ var stations = {
         },
         {
             name: "K-LOVE 91.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -687,7 +687,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -839,7 +839,7 @@ var stations = {
     "astoria": [
         {
             name: "K-LOVE 88.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -976,7 +976,7 @@ var stations = {
         },
         {
             name: "K-LOVE 92.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -1206,11 +1206,11 @@ var stations = {
         },
     ],
     "baggs": [
-        /*{
+        {
             name: "KRAI 93.7",
             logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
             url: "https://playoutonestreaming.com/proxy/kraifm?mp=/stream"
-        },*/
+        },
         {
             name: "The Reel 107.3",
             logo: "stations/images-america/steamboat_sp/The Reel 95.5.png",
@@ -1648,7 +1648,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -1795,7 +1795,7 @@ var stations = {
         },
         {
             name: "K-LOVE 97.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -1840,7 +1840,7 @@ var stations = {
         },
         {
             name: "K-LOVE 105.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -1914,7 +1914,7 @@ var stations = {
         },
         {
             name: "K-LOVE 97.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -1956,7 +1956,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -2371,7 +2371,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -2790,7 +2790,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -2986,7 +2986,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -3368,7 +3368,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -3512,7 +3512,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -3756,7 +3756,7 @@ var stations = {
         },
         {
             name: "K-LOVE 103.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -4049,15 +4049,15 @@ var stations = {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "https://ice6.securenetsystems.net/EFXAAC"
-        },/*
+        },
         {
-            name: "Pirate Radio 91.3",
-            logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
-            url: "http://kmhs.coos-bay.k12.or.us:8000/kmhsfm"
-        },*/
+            name: "Pirate 91.3",
+            logo: "stations/images-america/coos_bay/Pirate 91.3.png",
+            url: "https://streaming.live365.com/a25253"
+        },
         {
             name: "K-LOVE 91.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -4101,9 +4101,9 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KWRO"
         },
         {
-            name: "Pirate Radio 105.1",
-            logo: "stations/images-america/coos_bay/Pirate Radio 91.3.png",
-            url: "https://s9.voscast.com:9647/stream"
+            name: "Pirate Country 105.1",
+            logo: "stations/images-america/coos_bay/Pirate Country.png",
+            url: "https://streaming.live365.com/a09578"
         },
         {
             name: "105.9 The Legend",
@@ -4125,6 +4125,11 @@ var stations = {
             logo: "stations/images-america/coos_bay/KBBR 1340.png",
             url: "https://us9.maindigitalstream.com/ssl/KBBR"
         },
+        {
+            name: "Pirate Country 1420",
+            logo: "stations/images-america/coos_bay/Pirate Country.png",
+            url: "http://streaming.live365.com/a09578"
+        },
     ],
     "corpus_christi": [
         {
@@ -4134,7 +4139,7 @@ var stations = {
         },
         {
             name: "K-LOVE 88.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -4373,7 +4378,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -6100,7 +6105,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -6364,7 +6369,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -6693,7 +6698,7 @@ var stations = {
         },
         {
             name: "K-LOVE 95.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -6849,7 +6854,7 @@ var stations = {
     "farmington": [
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -6951,7 +6956,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -7163,7 +7168,7 @@ var stations = {
         },
         {
             name: "K-LOVE 101.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -8023,7 +8028,7 @@ var stations = {
         },
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -8125,7 +8130,7 @@ var stations = {
         },
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -8675,7 +8680,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -8894,7 +8899,7 @@ var stations = {
         },
         {
             name: "K-LOVE 97.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -9101,7 +9106,7 @@ var stations = {
         },
         {
             name: "K-LOVE 97.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -9163,7 +9168,7 @@ var stations = {
         },
         {
             name: "K-LOVE 93.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -9549,7 +9554,7 @@ var stations = {
         },
         {
             name: "K-LOVE 105.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -9576,7 +9581,7 @@ var stations = {
     "jackson": [
         {
             name: "K-LOVE 88.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -9777,7 +9782,7 @@ var stations = {
     "kalispell": [
         {
             name: "K-LOVE 88.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -9954,7 +9959,7 @@ var stations = {
         },
         {
             name: "K-LOVE 97.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -10305,7 +10310,7 @@ var stations = {
         },
         {
             name: "K-LOVE 99.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -10439,7 +10444,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -10791,7 +10796,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -11500,7 +11505,7 @@ var stations = {
         },
         {
             name: "K-LOVE 94.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -11557,7 +11562,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -12033,7 +12038,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -12484,7 +12489,7 @@ var stations = {
     "mcalester": [
         {
             name: "K-LOVE 88.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -12554,7 +12559,7 @@ var stations = {
         },
         {
             name: "K-LOVE 103.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -12994,7 +12999,7 @@ var stations = {
         },
         {
             name: "K-LOVE 101.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -13091,7 +13096,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -13290,7 +13295,7 @@ var stations = {
         },
         {
             name: "K-LOVE 93.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -13494,7 +13499,7 @@ var stations = {
         },
         {
             name: "K-LOVE 99.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -13626,7 +13631,7 @@ var stations = {
         },
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -13847,7 +13852,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -14507,7 +14512,7 @@ var stations = {
     "phoenix": [
         {
             name: "K-LOVE 89.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -14988,7 +14993,7 @@ var stations = {
         },
         {
             name: "K-LOVE 97.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -15582,7 +15587,7 @@ var stations = {
     "reno": [
         {
             name: "K-LOVE 88.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -15779,7 +15784,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
@@ -15978,7 +15983,7 @@ var stations = {
         },
         {
             name: "K-LOVE 91.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -16095,7 +16100,7 @@ var stations = {
         },
         {
             name: "K-LOVE 101.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -16137,7 +16142,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
@@ -16199,7 +16204,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -16620,7 +16625,7 @@ var stations = {
         },
         {
             name: "K-LOVE 96.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -17043,7 +17048,7 @@ var stations = {
     "san_angelo": [
         {
             name: "K-LOVE 88.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -17205,7 +17210,7 @@ var stations = {
         },
         {
             name: "K-LOVE 91.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -17554,7 +17559,7 @@ var stations = {
         },
         {
             name: "K-LOVE 96.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -18000,7 +18005,7 @@ var stations = {
         },
         {
             name: "K-LOVE 102.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -18399,7 +18404,7 @@ var stations = {
         },
         {
             name: "K-LOVE 107.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -19026,7 +19031,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -19466,7 +19471,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -19508,12 +19513,12 @@ var stations = {
             name: "The River 98.9",
             logo: "stations/images-america/steamboat_sp/The River 98.9.png",
             url: "https://playoutonestreaming.com/proxy/kcoq?mp=/stream"
-        },/*
+        },
         {
             name: "KRAI 102.3",
             logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
             url: "https://playoutonestreaming.com/proxy/kraifm?mp=/stream"
-        },*/
+        },
         {
             name: "KFMU 105.5",
             logo: "stations/images-america/steamboat_sp/KFMU 105.5.png",
@@ -19730,7 +19735,7 @@ var stations = {
         },
         {
             name: "K-LOVE 100.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -19909,7 +19914,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -19964,7 +19969,7 @@ var stations = {
         },
         {
             name: "K-LOVE 102.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -20060,7 +20065,7 @@ var stations = {
     "texarkana": [
         {
             name: "K-LOVE 89.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -20177,7 +20182,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
@@ -20365,7 +20370,7 @@ var stations = {
     "truth_or_consequences": [
         {
             name: "K-LOVE 91.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -20434,7 +20439,7 @@ var stations = {
     "tucson": [
         {
             name: "K-LOVE 88.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -20748,7 +20753,7 @@ var stations = {
         },
         {
             name: "K-LOVE 88.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -21051,7 +21056,7 @@ var stations = {
     "vernal": [
         {
             name: "K-LOVE 88.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -21210,7 +21215,7 @@ var stations = {
         },
         {
             name: "K-LOVE 89.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -21277,7 +21282,7 @@ var stations = {
     "waco": [
         {
             name: "K-LOVE 88.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -21715,7 +21720,7 @@ var stations = {
         },
         {
             name: "K-LOVE 99.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -21842,7 +21847,7 @@ var stations = {
         },
         {
             name: "K-LOVE 90.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -22021,7 +22026,7 @@ var stations = {
         },
         {
             name: "K-LOVE 103.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -23488,7 +23493,7 @@ var stations_mexico = {
     "h_nogales": [
         {
             name: "K-LOVE 88.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -25277,7 +25282,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 98.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -25583,7 +25588,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -25812,7 +25817,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 90.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -26108,7 +26113,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 96.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -26200,7 +26205,7 @@ var stations_c2c = {
     "mountain_home_ar": [
         {
             name: "K-LOVE 90.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -26449,7 +26454,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 106.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -26642,9 +26647,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc713/hls.m3u8"
         },
         {
-            name: "Pride Radio 95.5-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            name: "BUZZ 95.5-HD2",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/BUZZ 95.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc10079/hls.m3u8"
         },
         {
             name: "95.9 The Rocket",
@@ -26835,7 +26840,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 107.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
     ],
@@ -26989,7 +26994,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 90.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -27171,7 +27176,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 90.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -28855,7 +28860,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 102.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -29273,7 +29278,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 102.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -29484,7 +29489,7 @@ var stations_c2c = {
     "hilo": [
         {
             name: "K-LOVE 88.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -29671,7 +29676,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 103.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -29763,7 +29768,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 94.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -31443,7 +31448,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 95.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -31727,7 +31732,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 98.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -32120,7 +32125,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -32600,7 +32605,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 95.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -32896,7 +32901,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 92.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -33336,7 +33341,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 91.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -33498,7 +33503,7 @@ var stations_c2c = {
     "shreveport": [
         {
             name: "K-LOVE 88.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -33792,7 +33797,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 101.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
         },
         {
@@ -33876,7 +33881,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 89.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -36464,7 +36469,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 94.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -36805,7 +36810,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 90.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -36859,6 +36864,11 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KBTN"
         },
         {
+            name: "FOX Sports 100.1",
+            logo: "stations/images-america/c2c/joplin_mo/FOX Sports Joplin.png",
+            url: "https://ice42.securenetsystems.net/KSEK"
+        },
+        {
             name: "Bott Radio 100.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
             url: "http://ic1.christiannetcast.com/bottradio"
@@ -36909,6 +36919,11 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KSEKAM"
         },
         {
+            name: "KGGF 690",
+            logo: "stations/images-america/enid/KGGF 690.png",
+            url: "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3"
+        },
+        {
             name: "KKOW 860",
             logo: "stations/images-america/c2c/joplin_mo/KKOW.png",
             url: "http://ice42.securenetsystems.net/KKOWAM"
@@ -36917,6 +36932,11 @@ var stations_c2c = {
             name: "KVIS 910",
             logo: "stations/images-america/c2c/joplin_mo/KVIS 910.png",
             url: "https://ic1.sslstream.com/kvis-am"
+        },
+        {
+            name: "KRMO 990",
+            logo: "stations/images-america/c2c/joplin_mo/KRMO 990.png",
+            url: "https://ice24.securenetsystems.net/KRMOAM"
         },
         {
             name: "AM 1230 The Talker",
@@ -36934,9 +36954,14 @@ var stations_c2c = {
             url: "http://ice42.securenetsystems.net/KSEKAM"
         },
         {
+            name: "FOX Sports 1420",
+            logo: "stations/images-america/c2c/joplin_mo/FOX Sports Joplin.png",
+            url: "http://ice42.securenetsystems.net/KSEK"
+        },
+        {
             name: "SOMO Sports Radio 1560",
             logo: "stations/images-america/c2c/joplin_mo/SOMO Sports Radio.png",
-            url: "https://ice7.securenetsystems.net/WMBH"
+            url: "http://ice7.securenetsystems.net/WMBH"
         },
     ],
     "kirksville_mo": [
@@ -37056,7 +37081,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 98.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -38035,7 +38060,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 94.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -38389,7 +38414,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 102.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -38643,7 +38668,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 95.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -38850,7 +38875,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 102.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -39509,7 +39534,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 91.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -39895,7 +39920,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 98.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },/*
         {
@@ -40174,7 +40199,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 95.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -40241,7 +40266,7 @@ var stations_c2c = {
     "bismarck": [
         {
             name: "K-LOVE 88.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -40666,7 +40691,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 91.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -40798,7 +40823,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 95.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -41431,7 +41456,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 90.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -41695,7 +41720,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 96.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -41884,7 +41909,7 @@ var stations_c2c = {
     "ardmore": [
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -42066,7 +42091,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 105.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -42128,7 +42153,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 89.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -42285,7 +42310,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -42652,7 +42677,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 95.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -43267,7 +43292,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 101.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -43344,7 +43369,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 90.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -43414,7 +43439,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 105.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -43521,7 +43546,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 101.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -43863,7 +43888,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 106.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -43935,7 +43960,7 @@ var stations_c2c = {
     "williamsport_pa": [
         {
             name: "K-LOVE 88.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -44117,7 +44142,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 98.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -44958,7 +44983,7 @@ var stations_c2c = {
     "myrtlebeach_sc": [
         {
             name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -45776,7 +45801,7 @@ var stations_c2c = {
     "knoxville_tn": [
         {
             name: "K-LOVE 88.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -46598,7 +46623,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 102.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -47198,7 +47223,7 @@ var stations_c2c = {
         },
         {
             name: "K-LOVE 93.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -47384,7 +47409,7 @@ var stations_c2c = {
     "clarksburg_wv": [
         {
             name: "K-LOVE 88.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -53553,7 +53578,7 @@ var stations_caribbean = {
         },
         {
             name: "K-LOVE 105.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -53607,7 +53632,7 @@ var stations_alaska = {
         },
         {
             name: "K-LOVE 88.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
@@ -53857,7 +53882,7 @@ var stations_alaska = {
     "fairbanks": [
         {
             name: "K-LOVE 88.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            logo: "stations/images-america/0_general_logos/K-LOVE_christmas.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
