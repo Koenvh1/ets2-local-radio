@@ -16166,9 +16166,19 @@ var stations = {
             url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
+            name: "100.5 KOOL FM",
+            logo: "stations/images-america/roswell/100.5 KOOL FM.png",
+            url: "https://us2.maindigitalstream.com/ssl/KZDB"
+        },
+        {
             name: "103.1 KHFM",
             logo: "stations/images-america/roswell/95.5 KHFM.png",
             url: "https://live.amperwave.net/direct/agmedia28-khfmfmaac-ibc3"
+        },
+        {
+            name: "104.7 KMOU",
+            logo: "stations/images-america/roswell/104.7 KMOU.png",
+            url: "https://us2.maindigitalstream.com/ssl/KMOU"
         },
         {
             name: "106.5 Roswell's Talk FM",
