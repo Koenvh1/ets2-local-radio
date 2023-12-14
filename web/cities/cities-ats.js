@@ -1,4 +1,10 @@
 var country_properties = {
+    "christmas": {
+        name: "Winterland",
+        name_english: "Winterland",
+        code: "us-ak",
+        relative_radius: 3.0
+    },
     "aberdeen": {
         name: "Aberdeen",
         name_english: "Aberdeen",
@@ -1646,6 +1652,9 @@ var country_properties = {
 };
 
 var city_properties = {
+    "christmas": {
+        relative_whitenoise: 0.75
+    },
     "aberdeen": {
         relative_whitenoise: 0.85
     },
@@ -2560,6 +2569,14 @@ var city_properties = {
 
 //Cities from: https://github.com/Koenvh1/ETS2-City-Coordinate-Retriever
 var cities = [
+    {
+        "gameName": "christmas",
+        "realName": "Winterland",
+        "country": "christmas",
+        "x": "-159808",
+        "y": "40.5334",
+        "z": "124170"
+    },
     {
         "gameName": "aberdeen",
         "realName": "Aberdeen",

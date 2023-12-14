@@ -1,4 +1,31 @@
 var stations = {
+    "christmas": [
+        {
+            name: "iHeart Christmas",
+            logo: "stations/images-america/1_christmas/iHeart Christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc4596/hls.m3u8"
+        },
+        {
+            name: "iHeart Christmas Classics",
+            logo: "stations/images-america/1_christmas/iHeart Christmas Classics.png",
+            url: "https://stream.revma.ihrhls.com/zc6137/hls.m3u8"
+        },
+        {
+            name: "iHeart Christmas Rock",
+            logo: "stations/images-america/1_christmas/iHeart Christmas Rock.png",
+            url: "https://stream.revma.ihrhls.com/zc6410/hls.m3u8"
+        },
+        {
+            name: "iHeart Christmas Country",
+            logo: "stations/images-america/1_christmas/iHeart Christmas Country.png",
+            url: "https://stream.revma.ihrhls.com/zc4601/hls.m3u8"
+        },
+        {
+            name: "iHeart Christmas R&B",
+            logo: "stations/images-america/1_christmas/iHeart Christmas R&B.png",
+            url: "https://stream.revma.ihrhls.com/zc6136/hls.m3u8"
+        },
+    ],
     "aberdeen": [
         {
             name: "Air1 88.1",
