@@ -1,4 +1,51 @@
 var stations = {
+    "christmas": [
+        {
+            name: "Christmas Channel",
+            logo: "stations/images-europe/0_christmas/Christmas Channel.png",
+            url: "https://christmas-high.rautemusik.fm/listen"
+        },
+        {
+            name: "Christmas Lounge",
+            logo: "stations/images-europe/0_christmas/Christmas Lounge.png",
+            url: "https://ice6.somafm.com/christmas-256-mp3"
+        },
+        {
+            name: "Christmas FM",
+            logo: "stations/images-europe/0_christmas/Christmas FM.png",
+            url: "https://christmasfm.cdnstream1.com/2547_128.mp3"
+        },
+        {
+            name: "Evergreen Christmas Radio",
+            logo: "stations/images-europe/0_christmas/Evergreen Christmas Radio.png",
+            url: "https://emg.streamguys1.com/evergreen-website"
+        },
+        {
+            name: "JulRadio",
+            logo: "stations/images-europe/0_christmas/JulRadio.png",
+            url: "https://relay.julradio.se/julradio"
+        },
+        {
+            name: "Radio Natale",
+            logo: "stations/images-europe/0_christmas/Radio Natale.png",
+            url: "https://streaming.radiostreamlive.com/radionatale_devices"
+        },
+        {
+            name: "Radio Noël",
+            logo: "stations/images-europe/0_christmas/Radio Noël.png",
+            url: "https://www.radioking.com/play/radio-noel/298042"
+        },
+        {
+            name: "Snowy Radio",
+            logo: "stations/images-europe/0_christmas/Snowy Radio.png",
+            url: "http://gemini.shoutca.st:8036/stream"
+        },
+        {
+            name: "Weihnachtsmusik FM",
+            logo: "stations/images-europe/0_christmas/Weihnachtsmusik FM.png",
+            url: "https://streams.weihnachtsmusik.fm/hits/mp3-192/weihnachtsradiofm"
+        },
+    ],
     "aland": [
         {
             name: "SR P1",
@@ -402,7 +449,7 @@ var stations = {
         {
             name: "Радио РОКС",
             logo: "stations/images-europe/belarus/Радио РОКС.png",
-            url: "https://stream.hoster.by/radioroks/roks_hd/icecast.audio"
+            url: "https://stream.roks.com:8443/live256"
         },
         {
             name: "Радио Юмор ФМ",
@@ -417,7 +464,7 @@ var stations = {
         {
             name: "Пилот FM",
             logo: "stations/images-europe/belarus/Пилот FM.png",
-            url: "https://stream.hoster.by/pilotfm/pilot/icecast.audio"
+            url: "https://stream2.datacenter.by/pilotfm"
         },
     ],
     "belgium-nl": [
@@ -2745,7 +2792,7 @@ var stations = {
         {
             name: "Lindin",
             logo: "stations/images-europe/faroe/Lindin.png",
-            url: "https://high.lindin.fo/"
+            url: "http://62.145.147.50:8001/stream.aac"
         },
         {
             name: "Útvarp Saga",
@@ -3475,7 +3522,7 @@ var stations = {
         {
             name: "Канал 77",
             logo: "stations/images-europe/macedonia/Канал 77.png",
-            url: "https://radiocnd.mms.mk/proxy/web/stream"
+            url: "https://radiocnd.mms.mk/proxy/player/stream"
         },
         {
             name: "Metropolis Radio",
@@ -3722,11 +3769,6 @@ var stations = {
             name: "Radio Plai",
             logo: "stations/images-europe/moldova/Radio Plai.png",
             url: "http://stream.radioplai.md:8000/live"
-        },
-        {
-            name: "Russkoe Radio Moldova",
-            logo: "stations/images-europe/moldova/Russkoe Radio Moldova.png",
-            url: "http://live.ruradio.md:8000/ruradio"
         },
         {
             name: "Vocea Basarabiei",
@@ -5357,7 +5399,7 @@ var stations = {
         {
             name: "GRRIF",
             logo: "stations/images-europe/switzerland-fr/GRRIF.png",
-            url: "http://proxy.nowhereincoming.net/index.php?q=aHR0cHM6Ly9ncnJpZi5pY2UuaW5mb21hbmlhay5jaC9ncnJpZi0xMjguYWFj"
+            url: "http://216.246.103.221/index.php?u=https://grrif.ice.infomaniak.ch/grrif-128.aac"
         },
         {
             name: "IP music",

@@ -4828,7 +4828,7 @@ var cities = [
     {
         "gameName": "topeka",
         "realName": "Topeka",
-        "country": "topeka",
+        "country": "lawrence",
         "x": "653.289",
         "y": "96.8672",
         "z": "-76.1289"
@@ -4837,6 +4837,14 @@ var cities = [
         "gameName": "topeka",
         "realName": "Topeka",
         "country": "st_joseph_kkjo",
+        "x": "653.289",
+        "y": "96.8672",
+        "z": "-76.1289"
+    },
+    {
+        "gameName": "topeka",
+        "realName": "Topeka",
+        "country": "topeka",
         "x": "653.289",
         "y": "96.8672",
         "z": "-76.1289"

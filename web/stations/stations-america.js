@@ -6,24 +6,34 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4596/hls.m3u8"
         },
         {
-            name: "iHeart Christmas Classics",
-            logo: "stations/images-america/1_christmas/iHeart Christmas Classics.png",
+            name: "Christmas Classics",
+            logo: "stations/images-america/1_christmas/Christmas Classics.png",
             url: "https://stream.revma.ihrhls.com/zc6137/hls.m3u8"
         },
         {
-            name: "iHeart Christmas Rock",
-            logo: "stations/images-america/1_christmas/iHeart Christmas Rock.png",
+            name: "Christmas Lounge",
+            logo: "stations/images-america/1_christmas/Christmas Lounge.png",
+            url: "https://ice6.somafm.com/christmas-256-mp3"
+        },
+        {
+            name: "Christmas Rock",
+            logo: "stations/images-america/1_christmas/Christmas Rock.png",
             url: "https://stream.revma.ihrhls.com/zc6410/hls.m3u8"
         },
         {
-            name: "iHeart Christmas Country",
-            logo: "stations/images-america/1_christmas/iHeart Christmas Country.png",
+            name: "Christmas Country",
+            logo: "stations/images-america/1_christmas/Christmas Country.png",
             url: "https://stream.revma.ihrhls.com/zc4601/hls.m3u8"
         },
         {
-            name: "iHeart Christmas R&B",
-            logo: "stations/images-america/1_christmas/iHeart Christmas R&B.png",
+            name: "Christmas R&B",
+            logo: "stations/images-america/1_christmas/Christmas R&B.png",
             url: "https://stream.revma.ihrhls.com/zc6136/hls.m3u8"
+        },
+        {
+            name: "Radio Santa",
+            logo: "stations/images-america/1_christmas/Radio Santa.png",
+            url: "https://streaming.live365.com/a53827"
         },
     ],
     "aberdeen": [
