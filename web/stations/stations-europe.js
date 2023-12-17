@@ -11,6 +11,11 @@ var stations = {
             url: "https://ice6.somafm.com/christmas-256-mp3"
         },
         {
+            name: "Christmas Rocks!",
+            logo: "stations/images-europe/0_christmas/Christmas Rocks!.png",
+            url: "https://ice2.somafm.com/xmasrocks-128-mp3"
+        },
+        {
             name: "Christmas FM",
             logo: "stations/images-europe/0_christmas/Christmas FM.png",
             url: "https://christmasfm.cdnstream1.com/2547_128.mp3"

@@ -2,8 +2,8 @@ var country_properties = {
     "christmas": {
         name: "Winterland",
         name_english: "Winterland",
-        code: "us-ak",
-        relative_radius: 3.0
+        code: "us",
+        relative_radius: 2.0
     },
     "aberdeen": {
         name: "Aberdeen",

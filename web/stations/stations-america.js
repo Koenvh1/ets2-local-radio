@@ -21,6 +21,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6410/hls.m3u8"
         },
         {
+            name: "Christmas Rocks!",
+            logo: "stations/images-america/1_christmas/Christmas Rocks!.png",
+            url: "https://ice2.somafm.com/xmasrocks-128-mp3"
+        },
+        {
             name: "Christmas Country",
             logo: "stations/images-america/1_christmas/Christmas Country.png",
             url: "https://stream.revma.ihrhls.com/zc4601/hls.m3u8"
