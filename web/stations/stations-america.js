@@ -22154,8 +22154,8 @@ var stations = {
             url: "https://s4.radio.co/s376740a0f/listen"
         },
         {
-            name: "Mix 100.9",
-            logo: "stations/images-america/yuma/Mix 100.9.png",
+            name: "100.9 The River",
+            logo: "stations/images-america/yuma/100.9 The River.png",
             url: "https://live.amperwave.net/manifest/eldorado-kqsrfmaac-ibc2?source=v7player"
         },
         {
