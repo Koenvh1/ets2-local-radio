@@ -207,7 +207,7 @@ var country_properties = {
         name: "Burlington",
         name_english: "Burlington",
         code: "us-co",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "burns": {
         name: "Burns",
@@ -880,6 +880,12 @@ var country_properties = {
         name_english: "Lincoln",
         code: "us-mt",
         relative_radius: 0.7
+    },
+    "limon": {
+        name: "Limon",
+        name_english: "Limon",
+        code: "us-co",
+        relative_radius: 0.9
     },
     "logan": {
         name: "Logan",
@@ -1631,6 +1637,12 @@ var country_properties = {
         code: "us-ok",
         relative_radius: 0.8
     },
+    "wray": {
+        name: "Wray",
+        name_english: "Wray",
+        code: "us-co",
+        relative_radius: 0.6
+    },
     "yakima": {
         name: "Yakima",
         name_english: "Yakima",
@@ -2146,6 +2158,10 @@ var city_properties = {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
+    "limon": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "logan": {
         relative_whitenoise: 0.85
     },
@@ -2554,6 +2570,9 @@ var city_properties = {
         relative_whitenoise: 0.80
     },
     "woodward": {
+        relative_whitenoise: 0.95
+    },
+    "wray": {
         relative_whitenoise: 0.95
     },
     "yakima": {
@@ -3914,6 +3933,14 @@ var cities = [
         "z": "-53153.1"
     },
     {
+        "gameName": "limon",
+        "realName": "Limon",
+        "country": "colorado_springs_pueblo",
+        "x": "-33503.8",
+        "y": "130.523",
+        "z": "-2584.32"
+    },
+    {
         "gameName": "logan",
         "realName": "Logan",
         "country": "logan",
@@ -5072,6 +5099,14 @@ var cities = [
         "x": "-15953.3",
         "y": "95.1334",
         "z": "13959.5"
+    },
+    {
+        "gameName": "wray",
+        "realName": "Wray",
+        "country": "wray",
+        "x": "-26846.6",
+        "y": "80.8834",
+        "z": "-7087.33"
     },
     {
         "gameName": "yakima",

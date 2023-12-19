@@ -1633,7 +1633,7 @@ var stations = {
         },
         {
             name: "KAFE 104.1",
-            logo: "stations/images-america/bellingham/KAFE 104.1.png",
+            logo: "stations/images-america/bellingham/KAFE 104.1_christmas.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
         },
         {
@@ -2778,7 +2778,7 @@ var stations = {
         },
         {
             name: "KRDZ 1440",
-            logo: "stations/images-america/burlington/KRDZ 1440.png",
+            logo: "stations/images-america/wray/KRDZ 1440.png",
             url: "https://www.ophanim.net:8444/s/7410"
         },
     ],
@@ -14913,7 +14913,7 @@ var stations = {
         },
         {
             name: "KAFE 104.1",
-            logo: "stations/images-america/bellingham/KAFE 104.1.png",
+            logo: "stations/images-america/bellingham/KAFE 104.1_christmas.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
         },
         {
@@ -19798,11 +19798,11 @@ var stations = {
         {
             name: "102.5 K273DC",
             logo: "stations/images-america/sterling/Fox Sports 1230.png",
-            url: "https://www.ophanim.net:8444/s/8920/"
+            url: "http://www.ophanim.net:8444/s/8920/"
         },
         {
-            name: "104.7 KNNG",
-            logo: "stations/images-america/sterling/104.7 KNNG.png",
+            name: "KNNG 104.7",
+            logo: "stations/images-america/sterling/KNNG 104.7.png",
             url: "https://www.streamcontrol.net:8444/s/12320"
         },
         {
@@ -22033,6 +22033,48 @@ var stations = {
             name: "Mix 102.7",
             logo: "stations/images-america/winnemucca/Mix 102.7.png",
             url: "https://s20.myradiostream.com/16732/stream"
+        },
+    ],
+    "wray": [
+        {
+            name: "KGCR 88.1",
+            logo: "stations/images-america/colby/KGCR 88.1.png",
+            url: "https://ice10.securenetsystems.net/KGCRC"
+        },
+        {
+            name: "KUNC 93.5",
+            logo: "stations/images-america/fort_collins/KUNC 91.5.png",
+            url: "https://kunc.streamguys1.com/kunc"
+        },
+        {
+            name: "KAT Country 98.3",
+            logo: "stations/images-america/sterling/KAT Country 98.3.png",
+            url: "https://www.streamcontrol.net:8444/s/12310"
+        },
+        {
+            name: "KNEC 100.9",
+            logo: "stations/images-america/wray/KNEC 100.9.png",
+            url: "https://www.ophanim.net:8444/s/8870"
+        },
+        {
+            name: "106.9 K295CS",
+            logo: "stations/images-america/wray/KRDZ 1440.png",
+            url: "http://www.ophanim.net:8444/s/7410"
+        },
+        {
+            name: "FOX Sports 730",
+            logo: "stations/images-america/colby/FOX Sports 730.png",
+            url: "https://ice42.securenetsystems.net/KLOE"
+        },
+        {
+            name: "1010 KSIR",
+            logo: "stations/images-america/sterling/1010 KSIR.png",
+            url: "http://newerastreaming.com:9016/stream"
+        },
+        {
+            name: "KRDZ 1440",
+            logo: "stations/images-america/wray/KRDZ 1440.png",
+            url: "https://www.ophanim.net:8444/s/7410"
         },
     ],
     "yakima": [
@@ -33660,7 +33702,7 @@ var stations_c2c = {
         },
         {
             name: "Lite Rock 100.7",
-            logo: "stations/images-america/c2c/shreveport_la/Lite Rock 100.7.png",
+            logo: "stations/images-america/c2c/shreveport_la/Lite Rock 100.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDAMAAC_SC"
         },
         {
@@ -36268,7 +36310,7 @@ var stations_c2c = {
         },
         {
             name: "KZ94.3",
-            logo: "stations/images-america/c2c/hattiesburg_ms/KZ94.3.png",
+            logo: "stations/images-america/c2c/hattiesburg_ms/KZ94.3_christmas.png",
             url: "http://ice10.securenetsystems.net/WKZW"
         },
         {
@@ -44856,7 +44898,7 @@ var stations_c2c = {
         },
         {
             name: "Easy 100.7",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9.png",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9_christmas.png",
             url: "https://ice64.securenetsystems.net/WEZV"
         },
         {
@@ -45130,7 +45172,7 @@ var stations_c2c = {
         },
         {
             name: "Easy 105.9",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9.png",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9_christmas.png",
             url: "https://ice64.securenetsystems.net/WEZV"
         },
         {
@@ -52163,7 +52205,7 @@ var stations_canada = {
         },
         {
             name: "KAFE 104.1",
-            logo: "stations/images-america/bellingham/KAFE 104.1.png",
+            logo: "stations/images-america/bellingham/KAFE 104.1_christmas.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
         },
         {
