@@ -13090,8 +13090,8 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KYVL/"
         },
         {
-            name: "107.5 KISS FM",
-            logo: "stations/images-america/medford/107.5 KISS FM.png",
+            name: "107.5 The Beat",
+            logo: "stations/images-america/medford/107.5 The Beat.png",
             url: "https://us9.maindigitalstream.com/ssl/KIFS"
         },
         {
@@ -18106,9 +18106,9 @@ var stations = {
             url: "http://streamingcwsradio30.com:8042/stream"
         },
         {
-            name: "Más Flo 107.7",
-            logo: "stations/images-america/san_diego/Más Flo 107.7.png",
-            url: "http://vsstreaming.com:8026/stream"
+            name: "El Sol 107.7",
+            logo: "stations/images-america/san_diego/El Sol 107.7.png",
+            url: "https://vsstreaming.com/8026/stream"
         },
         {
             name: "Radio Zion 540",
