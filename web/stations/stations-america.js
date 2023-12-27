@@ -50604,8 +50604,8 @@ var stations_canada = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFM_CBC_SC"
         },
         {
-            name: "Santa Radio 92.3",
-            logo: "stations/images-america/canada/ottawa/Santa Radio 92.3.png",
+            name: "JACK 92.3",
+            logo: "stations/images-america/canada/ottawa/JACK 92.3.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
         },
         {
