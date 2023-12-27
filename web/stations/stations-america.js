@@ -36,6 +36,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6136/hls.m3u8"
         },
         {
+            name: "North Pole Radio",
+            logo: "stations/images-america/1_christmas/North Pole Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc6734/hls.m3u8"
+        },
+        {
             name: "Radio Santa",
             logo: "stations/images-america/1_christmas/Radio Santa.png",
             url: "https://streaming.live365.com/a53827"
