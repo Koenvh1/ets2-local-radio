@@ -6853,8 +6853,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7164_48k.aac"
         },
         {
-            name: "101.5 The Eagle",
-            logo: "stations/images-america/salt_lake/101.5 The Eagle.png",
+            name: "101.5 HANK FM",
+            logo: "stations/images-america/salt_lake/101.5 HANK FM.png",
             url: "https://ais-sa1.streamon.fm/7169_48k.aac"
         },
         {
@@ -16947,8 +16947,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBERFMAAC_SC"
         },
         {
-            name: "101.5 The Eagle",
-            logo: "stations/images-america/salt_lake/101.5 The Eagle.png",
+            name: "101.5 HANK FM",
+            logo: "stations/images-america/salt_lake/101.5 HANK FM.png",
             url: "https://ais-sa1.streamon.fm/7169_48k.aac"
         },
         {
@@ -17396,8 +17396,8 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/san680/san680-sgplayer-aac"
         },
         {
-            name: "Magic 105.3",
-            logo: "stations/images-america/san_antonio/Magic 105.3.png",
+            name: "HITS 105.3",
+            logo: "stations/images-america/san_antonio/HITS 105.3.png",
             url: "http://216.246.103.221/index.php?u=https://cmg.streamguys1.com/san1053/san1053-sgplayer-aac"
         },
         {
@@ -28350,8 +28350,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8205/hls.m3u8"
         },
         {
-            name: "Kool Oldies 106.1",
-            logo: "stations/images-america/c2c/tallahassee_fl/Kool Oldies 106.1.png",
+            name: "Vibe 106.1",
+            logo: "stations/images-america/c2c/tallahassee_fl/Vibe 106.1.png",
             url: "https://live.amperwave.net/manifest/adamsradio-wqtlfmaac-ibc1"
         },
         {
