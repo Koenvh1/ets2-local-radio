@@ -1520,7 +1520,7 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "KRXV 98.1",
+            name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://transmitter.clubcasting.net:8000/live"
         },
@@ -10689,7 +10689,7 @@ var stations = {
             url: "https://streaming.live365.com/a98605"
         },
         {
-            name: "KRXV 98.1",
+            name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://transmitter.clubcasting.net:8000/live"
         },
@@ -12276,7 +12276,7 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
-            name: "KRXV 98.1",
+            name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://transmitter.clubcasting.net:8000/live"
         },
@@ -13861,7 +13861,7 @@ var stations = {
             url: "http://war.str3am.com:7180/live"
         },
         {
-            name: "KHWY 98.9",
+            name: "98.9 KHWY",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://transmitter.clubcasting.net:8000/live"
         },
@@ -21286,7 +21286,7 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/eldorado-katjhd2aac-ibc2?source=v7player"
         },
         {
-            name: "KRXV 98.1",
+            name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
             url: "https://transmitter.clubcasting.net:8000/live"
         },
