@@ -11163,8 +11163,8 @@ var stations = {
             url: "https://kunv.oit.unlv.edu/stream/4/"
         },
         {
-            name: "Where Jazz Lives 91.5-HD3",
-            logo: "stations/images-america/las_vegas/Where Jazz Lives 91.5-HD3.png",
+            name: "91.5 National And Nevada News-HD3",
+            logo: "stations/images-america/las_vegas/91.5 KUNV-HD3.png",
             url: "https://kunv.oit.unlv.edu/stream/3/"
         },
         {
