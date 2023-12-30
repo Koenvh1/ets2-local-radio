@@ -15678,8 +15678,8 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
-            name: "94.9 The Party",
-            logo: "stations/images-america/reno/94.9 The Party.png",
+            name: "94.9 X",
+            logo: "stations/images-america/reno/94.9 X.png",
             url: "https://ice42.securenetsystems.net/KWFP"
         },
         {
@@ -45106,9 +45106,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6875/hls.m3u8"
         },
         {
-            name: "Carolina Gold 93.9",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Carolina Gold 93.9.png",
-            url: "http://91.121.86.167:8163/stream"
+            name: "The Coast 93.9",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/The Coast 93.9.png",
+            url: "https://securestreams6.autopo.st:2547/stream"
         },
         {
             name: "Talk 94.5",
@@ -50605,7 +50605,7 @@ var stations_canada = {
         },
         {
             name: "JACK 92.3",
-            logo: "stations/images-america/canada/ottawa/JACK 92.3.png",
+            logo: "stations/images-america/canada/ottawa/JACK 92.3.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/ott923.stream/icy"
         },
         {
@@ -52538,8 +52538,8 @@ var stations_canada = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBWFM_CBC_SC"
         },
         {
-            name: "Peggy @ 99.1",
-            logo: "stations/images-america/canada/winnipeg/Peggy@99.1.png",
+            name: "Country 99",
+            logo: "stations/images-america/canada/winnipeg/Country 99.png",
             url: "http://live.leanstream.co/CJGVFM"
         },
         {
