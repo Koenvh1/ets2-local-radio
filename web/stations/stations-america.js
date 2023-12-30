@@ -5908,9 +5908,9 @@ var stations = {
             url: "https://live.amperwave.net/direct/agmedia28-khfmfmaac-ibc3"
         },
         {
-            name: "Mix 106.5",
-            logo: "stations/images-america/raton/Mix 106.5.png",
-            url: "http://centova87.instainternet.com:8725/stream"
+            name: "Free FM 106.5",
+            logo: "stations/images-america/raton/Free FM 106.5.png",
+            url: "https://streaming.live365.com/a79090"
         },
         {
             name: "107.5 Outlaw Country",
@@ -15432,9 +15432,9 @@ var stations = {
             url: "http://stream.kspk.com:8000/live.mp3"
         },
         {
-            name: "Mix 106.5",
-            logo: "stations/images-america/raton/Mix 106.5.png",
-            url: "http://centova87.instainternet.com:8725/stream"
+            name: "Free FM 106.5",
+            logo: "stations/images-america/raton/Free FM 106.5.png",
+            url: "https://streaming.live365.com/a79090"
         },
     ],
     "rawlins": [
