@@ -4315,8 +4315,8 @@ var stations = {
             url: "http://puroradio.net:2020/stream/la-ley"
         },
         {
-            name: "107.3 The Bull",
-            logo: "stations/images-america/corpus_christi/107.3 The Bull.png",
+            name: "107.3 Que Buena",
+            logo: "stations/images-america/corpus_christi/107.3 Que Buena.png",
             url: "https://ice41.securenetsystems.net/KAJE"
         },
         {
@@ -13237,8 +13237,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
         {
-            name: "Que Buena 106.7",
-            logo: "stations/images-america/midland_odessa/Que Buena 106.7.png",
+            name: "106.7 Que Buena",
+            logo: "stations/images-america/midland_odessa/106.7 Que Buena.png",
             url: "https://ice5.securenetsystems.net/KCHX"
         },
         {
