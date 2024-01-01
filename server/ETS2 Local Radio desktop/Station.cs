@@ -226,6 +226,7 @@ namespace ETS2_Local_Radio_server
                         Hidden = false
                     };
                     CaptureProcess.CaptureInterface.DrawOverlayInGame(overlay);
+                    //bmp.Save("overlay.png", System.Drawing.Imaging.ImageFormat.Png);
                     bmp.Dispose();
                     //GPPIC_LoadNewPicture(Directory.GetCurrentDirectory() + @"\overlay.png");
                     //GPPIC_ShowPicturePos(true, (width / 2) - (bmp.Width / 2), (height / 4));
@@ -287,6 +288,10 @@ namespace ETS2_Local_Radio_server
                     };
 
                     var captureInterface = new CaptureInterface();
+                    captureInterface.RemoteMessage += (msg) =>
+                    {
+                        Log.Write("Remote message: " + msg.ToString());
+                    };
                     CaptureProcess = new CaptureProcess(p, cc, captureInterface);
                 }
 

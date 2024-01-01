@@ -7,28 +7,28 @@ namespace ETS2_Local_Radio_server
 {
     public class Coordinates
     {
-        private float x;
-        private float y;
-        private float z;
+        private double x;
+        private double y;
+        private double z;
 
-        public Coordinates(float x, float y, float z)
+        public Coordinates(double x, double y, double z)
         {
             X = x;
             Y = y;
             Z = z;
         }
 
-        public float X
+        public double X
         {
             get { return x; }
             set { x = value; }
         }
-        public float Y
+        public double Y
         {
             get { return y; }
             set { y = value; }
         }
-        public float Z
+        public double Z
         {
             get { return z; }
             set { z = value; }
