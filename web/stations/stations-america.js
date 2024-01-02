@@ -10473,8 +10473,8 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KIKXFM"
         },
         {
-            name: "Q106.7",
-            logo: "stations/images-america/ketchum/Q106.7.png",
+            name: "Sunny 106.7",
+            logo: "stations/images-america/ketchum/Sunny 106.7.png",
             url: "https://ice10.securenetsystems.net/KIRQFM"
         },
         {
@@ -20797,8 +20797,8 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KKMV"
         },*/
         {
-            name: "Q106.7",
-            logo: "stations/images-america/ketchum/Q106.7.png",
+            name: "Sunny 106.7",
+            logo: "stations/images-america/ketchum/Sunny 106.7.png",
             url: "https://ice10.securenetsystems.net/KIRQFM"
         },
     ],
@@ -26487,8 +26487,8 @@ var stations_c2c = {
             url: "http://146.71.118.220:35054/stream"
         },
         {
-            name: "97.9 ESPN",
-            logo: "stations/images-america/c2c/hartford_ct/97.9 ESPN.png",
+            name: "FOX Sports 97.9",
+            logo: "stations/images-america/c2c/hartford_ct/FOX Sports 97.9.png",
             url: "https://stream.revma.ihrhls.com/zc5238/hls.m3u8"
         },
         {
@@ -28101,8 +28101,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNCVFMAAC_SC"
         },
         {
-            name: "Soft Rock 94.1",
-            logo: "stations/images-america/c2c/pensacola_fl/Soft Rock 94.1.png",
+            name: "HOT 94.1",
+            logo: "stations/images-america/c2c/pensacola_fl/HOT 94.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEZFMAAC_SC"
         },
         {
