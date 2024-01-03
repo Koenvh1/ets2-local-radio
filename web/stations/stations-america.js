@@ -4225,9 +4225,9 @@ var stations = {
             url: "http://puroradio.net:2020/stream/krob"
         },
         {
-            name: "US 94.7",
-            logo: "stations/images-america/corpus_christi/US 94.7.png",
-            url: "http://ice64.securenetsystems.net/KBSO"
+            name: "Retro 94.7",
+            logo: "stations/images-america/corpus_christi/Retro 94.7.png",
+            url: "https://ice41.securenetsystems.net/KCCT"
         },
         {
             name: "Sports Radio 95.1",
@@ -4290,9 +4290,9 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "Retro 104.1",
-            logo: "stations/images-america/corpus_christi/Retro 104.1.png",
-            url: "https://ice41.securenetsystems.net/KCCT"
+            name: "Retro Tejano 104.1",
+            logo: "stations/images-america/corpus_christi/Retro Tejano 104.1.png",
+            url: "https://ice64.securenetsystems.net/KBSO"
         },
         {
             name: "104.5 The Eagle",
@@ -4326,8 +4326,8 @@ var stations = {
         },
         {
             name: "KCCT 1150",
-            logo: "stations/images-america/corpus_christi/Retro 104.1.png",
-            url: "http://ice41.securenetsystems.net/KCCT"
+            logo: "stations/images-america/corpus_christi/Retro Tejano 104.1.png",
+            url: "https://ice64.securenetsystems.net/KBSO"
         },
         {
             name: "Sports Radio 1230",
@@ -4608,9 +4608,9 @@ var stations = {
             url: "https://streaming.live365.com/a47473"
         },
         {
-            name: "HOT 93.3",
-            logo: "stations/images-america/dallas_fort_worth/HOT 93.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC_SC"
+            name: "WBAP 820",
+            logo: "stations/images-america/dallas_fort_worth/WBAP.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM_SC"
         },
         {
             name: "La Raza 93.7",
@@ -6136,7 +6136,7 @@ var stations = {
         {
             name: "FOX Sports 104.7",
             logo: "stations/images-america/elko/FOX Sports 104.7.png",
-            url: "http://173.193.205.96:7653/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
         },
         {
             name: "Talk Radio 107.7",
@@ -7431,8 +7431,8 @@ var stations = {
         },
         {
             name: "KCCT 1150",
-            logo: "stations/images-america/corpus_christi/Retro 104.1.png",
-            url: "http://ice41.securenetsystems.net/KCCT"
+            logo: "stations/images-america/corpus_christi/Retro Tejano 104.1.png",
+            url: "https://ice64.securenetsystems.net/KBSO"
         },
         {
             name: "1200 WOAI",
@@ -44280,6 +44280,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2017/hls.m3u8"
         },
         {
+            name: "Steelers Nation Radio 102.5-HD2",
+            logo: "stations/images-america/c2c/pittsburgh_pa/Steelers Nation Radio 102.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc4870/hls.m3u8"
+        },
+        {
             name: "Froggy 104.3",
             logo: "stations/images-america/c2c/pittsburgh_pa/Froggy 104.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOGIAAC_SC"
@@ -44290,19 +44295,19 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2025/hls.m3u8"
         },
         {
+            name: "FOX Sports 104.7-HD2",
+            logo: "stations/images-america/c2c/pittsburgh_pa/FOX Sports Pittsburgh.png",
+            url: "https://stream.revma.ihrhls.com/zc2013"
+        },
+        {
             name: "105.9 The X",
             logo: "stations/images-america/c2c/pittsburgh_pa/105.9 The X.png",
             url: "https://stream.revma.ihrhls.com/zc2033/hls.m3u8"
         },
         {
-            name: "iHeart00's 105.9-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart00's.png",
-            url: "https://stream.revma.ihrhls.com/zc6850/hls.m3u8"
-        },
-        {
-            name: "ESPN 106.3",
-            logo: "stations/images-america/c2c/pittsburgh_pa/ESPN 106.3.png",
-            url: "https://stream.revma.ihrhls.com/zc2013/hls.m3u8"
+            name: "Relevant Radio 106.3",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
             name: "WAMO 107.3",
@@ -44323,6 +44328,11 @@ var stations_c2c = {
             name: "The Bet 107.9-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+        },
+        {
+            name: "FOX Sports 970",
+            logo: "stations/images-america/c2c/pittsburgh_pa/FOX Sports Pittsburgh.png",
+            url: "https://stream.revma.ihrhls.com/zc2013/hls.m3u8"
         },
         {
             name: "1020 KDKA",
