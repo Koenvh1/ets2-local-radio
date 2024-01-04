@@ -3742,8 +3742,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2209/hls.m3u8"
         },
         {
-            name: "Christmas 97.3",
-            logo: "stations/images-america/college_station/KAGC 97.3_christmas.png",
+            name: "KAGC 97.3",
+            logo: "stations/images-america/college_station/KAGC 97.3.png",
             url: "https://ice42.securenetsystems.net/KAGCAM"
         },
         {
@@ -12338,8 +12338,8 @@ var stations = {
             url: "https://ic1.sslstream.com/kavx-fm"
         },
         {
-            name: "Juan 94.7",
-            logo: "stations/images-america/lufkin/Juan 94.7.png",
+            name: "Fun 94.7",
+            logo: "stations/images-america/lufkin/Fun 94.7.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvllfmaac-ibc3"
         },
         {
@@ -20196,8 +20196,8 @@ var stations = {
             url: "https://19.shoutstreams.com/proxy/texarkana4/hits105"
         },
         {
-            name: "Christmas 105.9",
-            logo: "stations/images-america/texarkana/Christmas 105.9.png",
+            name: "ESPN 105.9",
+            logo: "stations/images-america/texarkana/ESPN 105.9.png",
             url: "https://19.shoutstreams.com/proxy/texarkana6/gospel"
         },
         {
@@ -21948,8 +21948,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "Santa 100.9",
-            logo: "stations/images-america/wichita_falls/100.9 Jack FM_christmas.png",
+            name: "100.9 Jack FM",
+            logo: "stations/images-america/wichita_falls/100.9 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7807_96k.aac"
         },
         {
@@ -30010,8 +30010,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
-            name: "Christmas 100.7",
-            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7_christmas.png",
+            name: "NOW 100.7",
+            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWHXFMAAC_SC"
         },
         {
@@ -43340,8 +43340,8 @@ var stations_c2c = {
             url: "https://ice-1.streamhoster.com/lv_wqed--893"
         },
         {
-            name: "Santa 92.7",
-            logo: "stations/images-america/c2c/harrisburg_pa/Happy 92.7_christmas.png",
+            name: "Happy 92.7",
+            logo: "stations/images-america/c2c/harrisburg_pa/Happy 92.7.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7883_96k.aac"
         },
         {
@@ -45944,8 +45944,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7699_128k.aac"
         },
         {
-            name: "Santa 93.7",
-            logo: "stations/images-america/c2c/knoxville_tn/Santa 93.7.png",
+            name: "93.7 FM",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "https://stream.radiojar.com/su3dq6nuqzuvv"
         },
         {
