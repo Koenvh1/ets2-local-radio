@@ -45944,7 +45944,7 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7699_128k.aac"
         },
         {
-            name: "93.7 FM",
+            name: "93.7 W229DO",
             logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "https://stream.radiojar.com/su3dq6nuqzuvv"
         },
@@ -46037,6 +46037,11 @@ var stations_c2c = {
             name: "WLIL Country 730",
             logo: "stations/images-america/c2c/knoxville_tn/WLIL Country 730.png",
             url: "http://96.38.1.34:8000/stream.mp3"
+        },
+        {
+            name: "WSMM 850",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
+            url: "http://stream.radiojar.com/su3dq6nuqzuvv"
         },
         {
             name: "NewsTalk 1490",
