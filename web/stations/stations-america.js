@@ -461,7 +461,7 @@ var stations = {
         {
             name: "670 KLTT",
             logo: "stations/images-america/denver/670 KLTT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+            url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
             name: "FOX Sports 1240",
@@ -2749,7 +2749,7 @@ var stations = {
         {
             name: "670 KLTT",
             logo: "stations/images-america/denver/670 KLTT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+            url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
             name: "FOX Sports 730",
@@ -5467,7 +5467,7 @@ var stations = {
         {
             name: "670 KLTT",
             logo: "stations/images-america/denver/670 KLTT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+            url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
             name: "710 KNUS",
@@ -7890,7 +7890,7 @@ var stations = {
         {
             name: "670 KLTT",
             logo: "stations/images-america/denver/670 KLTT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+            url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
             name: "Freedom 760",
@@ -19604,7 +19604,7 @@ var stations = {
         {
             name: "670 KLTT",
             logo: "stations/images-america/denver/670 KLTT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLTTAMAAC_SC"
+            url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
             name: "Freedom 760",
@@ -47679,8 +47679,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2649/hls.m3u8"
         },
         {
-            name: "95.9 JAMZ",
-            logo: "stations/images-america/c2c/eau_claire_wi/95.9 Jamz.png",
+            name: "The Farm 95.9",
+            logo: "stations/images-america/c2c/eau_claire_wi/The Farm 95.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEAQAMAAC_SC"
         },
         {
@@ -47737,6 +47737,11 @@ var stations_c2c = {
             name: "Moose Country 106.7",
             logo: "stations/images-america/c2c/eau_claire_wi/Moose Country 106.7.png",
             url: "https://stream.revma.ihrhls.com/zc2641/hls.m3u8"
+        },
+        {
+            name: "The Farm 1150",
+            logo: "stations/images-america/c2c/eau_claire_wi/The Farm 95.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEAQAMAAC.aac"
         },
     ],
     "green_bay": [

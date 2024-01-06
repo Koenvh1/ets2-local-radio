@@ -2792,7 +2792,7 @@ var stations = {
         {
             name: "KISS FM",
             logo: "stations/images-europe/iceland/KISS FM.png",
-            url: "http://ice-11.spilarinn.is/kissfm"
+            url: "https://ice-11.spilarinn.is/kissfm"
         },
         {
             name: "Lindin",
