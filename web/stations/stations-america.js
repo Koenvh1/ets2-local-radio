@@ -4608,7 +4608,7 @@ var stations = {
             url: "https://streaming.live365.com/a47473"
         },
         {
-            name: "WBAP 820",
+            name: "WBAP 93.3",
             logo: "stations/images-america/dallas_fort_worth/WBAP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM_SC"
         },
@@ -43527,8 +43527,8 @@ var stations_c2c = {
             url: "https://ice41.securenetsystems.net/WOWY"
         },
         {
-            name: "102.9 WCRO",
-            logo: "stations/images-america/c2c/johnstown_pa/WCRO.png",
+            name: "KOOL 102.9",
+            logo: "stations/images-america/c2c/johnstown_pa/KOOL 102.9.png",
             url: "https://ice24.securenetsystems.net/WTRNSPO"
         },
         {
@@ -43568,7 +43568,7 @@ var stations_c2c = {
         },
         {
             name: "1230 WCRO",
-            logo: "stations/images-america/c2c/johnstown_pa/WCRO.png",
+            logo: "stations/images-america/c2c/johnstown_pa/KOOL 102.9.png",
             url: "http://ice24.securenetsystems.net/WTRNSPO"
         },
         {
