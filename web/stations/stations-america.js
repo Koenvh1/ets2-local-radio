@@ -28527,8 +28527,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/tam1055/tam1055-sgplayer-aac"
         },
         {
-            name: "Acción 105.9",
-            logo: "stations/images-america/c2c/tampa_fl/Acción 105.9.png",
+            name: "105.9 W290BJ",
+            logo: "stations/images-america/c2c/tampa_fl/1250 WHNZ.png",
             url: "https://stream.revma.ihrhls.com/zc685/hls.m3u8"
         },
         {
@@ -28579,7 +28579,7 @@ var stations_c2c = {
         {
             name: "1250 WHNZ",
             logo: "stations/images-america/c2c/tampa_fl/1250 WHNZ.png",
-            url: "https://stream.revma.ihrhls.com/zc685/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc685"
         },
         {
             name: "NOAA Weather Radio Tampa",
