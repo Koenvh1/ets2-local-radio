@@ -21948,8 +21948,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "100.9 Jack FM",
-            logo: "stations/images-america/wichita_falls/100.9 Jack FM.png",
+            name: "100.9 BOB FM",
+            logo: "stations/images-america/wichita_falls/100.9 BOB FM.png",
             url: "https://ais-sa1.streamon.fm/7807_96k.aac"
         },
         {
@@ -25003,7 +25003,7 @@ var stations_c2c = {
         {
             name: "95.7 Jamz",
             logo: "stations/images-america/c2c/birmingham_al/95.7 Jamz.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7684_128k.aac"
+            url: "https://stream.rcs.revma.com/ws6t0yexu7uvv"
         },
         {
             name: "Magic 96.5",
@@ -25013,7 +25013,7 @@ var stations_c2c = {
         {
             name: "Today’s Hits 97.3",
             logo: "stations/images-america/c2c/birmingham_al/Today’s Hits 97.3.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7687_128k.aac"
+            url: "https://stream.rcs.revma.com/1z6avxqxu7uvv"
         },
         {
             name: "La Jefa 98.3",
@@ -25023,7 +25023,7 @@ var stations_c2c = {
         {
             name: "98.7 Kiss FM",
             logo: "stations/images-america/c2c/birmingham_al/98.7 Kiss FM.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7685_128k.aac"
+            url: "https://stream.rcs.revma.com/v3y9hdgxu7uvv"
         },
         {
             name: "99.1 Way FM",
@@ -25034,6 +25034,11 @@ var stations_c2c = {
             name: "Talk 99.5",
             logo: "stations/images-america/c2c/birmingham_al/Talk 99.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZRRFMAAC_SC"
+        },
+        {
+            name: "X100.1",
+            logo: "stations/images-america/c2c/birmingham_al/X100.1.png",
+            url: "https://stream.rcs.revma.com/017zh7pxu7uvv"
         },
         {
             name: "100.5 Jox 2",
@@ -25083,7 +25088,7 @@ var stations_c2c = {
         {
             name: "104.7 WZZK",
             logo: "stations/images-america/c2c/birmingham_al/104.7 WZZK.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7688_128k.aac"
+            url: "https://stream.rcs.revma.com/h9py8trxu7uvv"
         },
         {
             name: "105.1 Hallelujah",
@@ -25103,7 +25108,7 @@ var stations_c2c = {
         {
             name: "Classic Rock 106.9",
             logo: "stations/images-america/c2c/birmingham_al/Classic Rock 106.9.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7686_128k.aac"
+            url: "https://stream.rcs.revma.com/fyk48ahxu7uvv"
         },
         {
             name: "Birmingham Mountain Radio 107.3",
@@ -25118,7 +25123,7 @@ var stations_c2c = {
         {
             name: "610 WAGG",
             logo: "stations/images-america/c2c/birmingham_al/610 WAGG.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7683_128k.aac"
+            url: "https://stream.rcs.revma.com/nyfzg431t7uvv"
         },
     ],
     "huntsville_al": [
@@ -26801,8 +26806,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2716/hls.m3u8"
         },
         {
-            name: "104.5 The Flame",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/104.5 The Flame.png",
+            name: "The Flame 104.7",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/The Flame 104.7.png",
             url: "https://ice5.securenetsystems.net/WFLM"
         },
         {
@@ -27725,8 +27730,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWCNFMAAC_SC"
         },
         {
-            name: "Y100.1",
-            logo: "stations/images-america/c2c/naples_fl/Y100.1.png",
+            name: "Magic 100.1",
+            logo: "stations/images-america/c2c/naples_fl/Magic 100.1.png",
             url: "https://stream.revma.ihrhls.com/zc497/hls.m3u8"
         },
         {
@@ -49001,8 +49006,8 @@ var stations_canada = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBONFM_SRC_SC"
         },
         {
-            name: "Mix 103.7",
-            logo: "stations/images-america/canada/fortmcmurray/Mix 103.7.png",
+            name: "play 103.7",
+            logo: "stations/images-america/canada/fortmcmurray/play 103.7.png",
             url: "https://ais-sa1.streamon.fm/7253_64k.aac"
         },
 

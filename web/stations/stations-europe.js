@@ -4224,6 +4224,16 @@ var stations = {
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx"
         },
         {
+            name: "ESKA",
+            logo: "stations/images-europe/poland/ESKA.png",
+            url: "http://waw.ic.smcdn.pl/2380-1.aac"
+        },
+        {
+            name: "ESKA 2",
+            logo: "stations/images-europe/poland/ESKA 2.png",
+            url: "https://waw.ic.smcdn.pl/1380-1.aac"
+        },
+        {
             name: "Meloradio",
             logo: "stations/images-europe/poland/Meloradio.png",
             url: "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx"
@@ -4234,11 +4244,6 @@ var stations = {
             url: "https://stream.rcs.revma.com/1nnezw8qz7zuv"
         },
         {
-            name: "Radio ESKA",
-            logo: "stations/images-europe/poland/Radio Eska.png",
-            url: "http://waw.ic.smcdn.pl/2380-1.aac"
-        },
-        {
             name: "Radio Maryja",
             logo: "stations/images-europe/poland/Radio Maryja.png",
             url: "https://radiomaryja.fastcast4u.com/proxy/radiomaryja?mp=/1"
@@ -4247,11 +4252,6 @@ var stations = {
             name: "Radio Plus",
             logo: "stations/images-europe/poland/Radio Plus.png",
             url: "https://pl04.cdn.eurozet.pl/plu-waw.mp3"
-        },
-        {
-            name: "Radio SuperNova",
-            logo: "stations/images-europe/poland/Radio SuperNova.png",
-            url: "https://waw.ic.smcdn.pl/1380-1.aac"
         },
         {
             name: "RadioZET",
