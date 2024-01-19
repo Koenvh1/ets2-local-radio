@@ -7392,9 +7392,9 @@ var country_properties_c2c = {
         code: "us-fl",
         relative_radius: 1.0
     },
-    "naples": {
-        name: "naples",
-        name_english: "naples",
+    "fort_myers_fl": {
+        name: "Fort Myers",
+        name_english: "Fort Myers",
         code: "us-fl",
         relative_radius: 0.75
     },
@@ -8745,8 +8745,8 @@ var city_properties_c2c = {
     "miami": {
         relative_whitenoise: 0.75
     },
-    "naples": {
-        relative_whitenoise: 0.85
+    "fort_myers_fl": {
+        relative_whitenoise: 0.90
     },
     "new_smyrna_beach": {
 		relative_radius: 1.0,
@@ -9543,9 +9543,9 @@ var cities_c2c = [
         "z": "68934.8"
     },
     {
-        "gameName": "naples",
-        "realName": "Naples",
-        "country": "naples",
+        "gameName": "fort_myers_fl",
+        "realName": "Fort Myers",
+        "country": "fort_myers_fl",
         "x": "73653",
         "y": "80",
         "z": "66650.7"
