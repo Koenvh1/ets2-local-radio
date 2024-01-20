@@ -101,36 +101,19 @@ This might be due to the fact that a dependency was not loaded properly. Please 
 * Open the `My Documents\{American Truck Simulator/Euro Truck Simulator 2}\game.log.txt` file,
 check whether it contains the following lines:
 ```
-00:00:18.261 : loading 'ets2-telemetry' '/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
+00:00:18.261 : loading 'local-radio' '/Euro Truck Simulator 2/bin/win_x64/plugins/local-radio.dll'
 00:00:18.262 : unable to load: 0000007E
 ```
-* If that is the case, then please try installing the following:
-
-https://www.microsoft.com/en-us/download/details.aspx?id=26999 
-
-https://www.microsoft.com/en-us/download/details.aspx?id=30679
-
+* If that is the case, then please try installing the following:  
+https://aka.ms/vs/17/release/vc_redist.x64.exe
 and **restart your computer**
-* If it contains something like this:
-```
-00:00:20.006 : loading 'ets2-telemetry' 'X:/Path/Euro Truck Simulator 2/bin/win_x86/plugins/ets2-telemetry.dll'
-[...]
-00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
-00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: SCS_U32_NIL is not valid parameter for array channel 'truck.hshifter.select'
-00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: channel 'truck.electric.enabled' index 4294967295 has already callback for type 1
-00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.front' index 4294967295
-00:00:20.006 : <ERROR> [sdk] prism::sdk::telemetry_register_for_channel: type 1 is not supported by channel 'truck.light.aux.roof' index 4294967295
-00:00:20.006 : <ERROR> [sdk] prism::sdk::lookup_channel: channel 'truck.adblue.consumption.average' not found
-```
+* Make sure you run the 64-bit version of the game
 * Please check whether your volume slider is above 0%
 * Check whether a different browser (Firefox/Edge) does work
 * Try playing another station
-* If it does not contain `loading 'ets2-telemetry'`, 
+* If it does not contain `loading 'local-radio'`, 
 then please try to reinstall the plugin by pressing the "Install plugin" button, or manually copy the content of `\ETS2 Local Radio\plugins\bin` to
 `\Steam\SteamApps\common\Euro Truck Simulator 2\bin`
-
-If that doesn't work, then please try the [alternative dll](https://github.com/Koenvh1/ets2-local-radio/raw/master/plugins/alternative_ets2-telemetry.dll/ets2-telemetry.dll)
-and copy it to the `\Steam\SteamApps\common\Euro Truck Simulator 2\bin\win_x64\plugins` folder. (The alternative only works on 64-bit)
 
 ### The overlay does not show up
 * Make sure you run the game in DirectX mode
@@ -145,9 +128,6 @@ Click the sound icon in your address bar, and set automatic playback to "allow".
 ### The overlay is upside down in VR
 Close the server, open the `settings.json` file, and change `vr` to `true`.
 
-### The server won't start due to some SlimDX.dll problem
-Make sure that [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555) is installed.
-
 ### The page keeps showing "Waiting for your in-game coordinates...", even though the server does know the coordinates
 Make sure you use a modern browser, and have no add-ons that conflict with Local Radio. Also make sure your firewall does not block access to the Local Radio server, and that your browser settings are not so restrictive that they block access to Local Radio (e.g. by forcing HTTPS usage).
 
@@ -161,8 +141,7 @@ If you are interested to help, there is an open issue [here](https://github.com/
 
 ## How to uninstall it:
 Just remove the ETS2 Local Radio folder or, if you used the installer, remove it using the Control Panel. You will need to manually remove the following files from the ETS2/ATS installation directory as well:
-* `\bin\win_x64\plugins\ets2-telemetry.dll`
-* `\bin\win_x86\plugins\ets2-telemetry.dll`
+* `\bin\win_x64\plugins\local-radio.dll`
 
 You might find some residual files left in your installation folder that you need to manually remove.
 
