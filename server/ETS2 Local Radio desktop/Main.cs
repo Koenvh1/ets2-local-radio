@@ -67,7 +67,7 @@ namespace ETS2_Local_Radio_server
             Subscribe();
 
             //Add Firewall exception
-            AddException();
+            //AddException();
 
             //Load languages to combobox:
             LoadLanguages();
@@ -308,6 +308,7 @@ namespace ETS2_Local_Radio_server
                     comboIP.Items.Add("http://" + ip.ToString() + ":" + Settings.Port);
                 }
             }
+            comboIP.Items.Add("http://localhost:" + Settings.Port);
             comboIP.SelectedIndex = 0;
         }
 
@@ -374,28 +375,28 @@ namespace ETS2_Local_Radio_server
             }
         }
 
-        private static void DeleteException()
-        {
-            Process netsh = new Process();
-            string arguments = "advfirewall firewall delete rule name=\"ETS2 Local Radio\" dir=in protocol=TCP localport=" + Settings.Port;
-            netsh.StartInfo.FileName = "netsh";
-            netsh.StartInfo.Arguments = arguments;
-            netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            netsh.Start();
-        }
+        //private static void DeleteException()
+        //{
+        //    Process netsh = new Process();
+        //    string arguments = "advfirewall firewall delete rule name=\"ETS2 Local Radio\" dir=in protocol=TCP localport=" + Settings.Port;
+        //    netsh.StartInfo.FileName = "netsh";
+        //    netsh.StartInfo.Arguments = arguments;
+        //    netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+        //    netsh.Start();
+        //}
 
-        private static void AddException()
-        {
-            DeleteException();
-            // to prevent duplicates
+        //private static void AddException()
+        //{
+        //    DeleteException();
+        //    // to prevent duplicates
 
-            Process netsh = new Process();
-            string arguments = "advfirewall firewall add rule name=\"ETS2 Local Radio\" dir=in action=allow protocol=TCP localport=" + Settings.Port;
-            netsh.StartInfo.FileName = "netsh";
-            netsh.StartInfo.Arguments = arguments;
-            netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            netsh.Start();
-        }
+        //    Process netsh = new Process();
+        //    string arguments = "advfirewall firewall add rule name=\"ETS2 Local Radio\" dir=in action=allow protocol=TCP localport=" + Settings.Port;
+        //    netsh.StartInfo.FileName = "netsh";
+        //    netsh.StartInfo.Arguments = arguments;
+        //    netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+        //    netsh.Start();
+        //}
 
         private void Main_FormClosing(object sender, EventArgs e)
         {
@@ -406,7 +407,7 @@ namespace ETS2_Local_Radio_server
                 Unsubscribe();
                 myServer.Stop();
                 writeFile("none", "0", "0");
-                DeleteException();
+                //DeleteException();
                 joystickTimer.Stop();
                 joystick.Release();
             }
@@ -838,24 +839,11 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                DialogResult result = DialogResult.No;
-                    //MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
-                    //MessageBoxButtons.YesNoCancel,
-                    //MessageBoxIcon.Question);
-                if (result != DialogResult.Cancel)
+                if (folderDialog.ShowDialog() == DialogResult.OK)
                 {
-                    if (folderDialog.ShowDialog() == DialogResult.OK)
-                    {
-                        var folder = folderDialog.SelectedPath;
-                        File.Delete(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll");
-                        File.Delete(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll");
+                    var folder = folderDialog.SelectedPath;
+                    File.Delete(folder + @"\bin\win_x64\plugins\local-radio.dll");
 
-                        if (result == DialogResult.Yes)
-                        {
-                            File.Delete(folder + @"\bin\win_x86\d3d9.dll");
-                            File.Delete(folder + @"\bin\win_x64\d3d9.dll");
-                        }
-                    }
                 }
                 CheckPlugins();
             }
