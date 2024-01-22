@@ -113,6 +113,11 @@ var stations = {
             url: "https://stream1.noctel.com:7112/KSWW"
         },
         {
+            name: "Sacred Heart Radio 103.5",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
+        {
             name: "104.1 Bigfoot Country",
             logo: "stations/images-america/aberdeen/104.1 Bigfoot Country.png",
             url: "https://stream1.noctel.com:7116/K281DE"
@@ -126,6 +131,36 @@ var stations = {
             name: "Y107.3",
             logo: "stations/images-america/aberdeen/Y107.3.png",
             url: "https://stream1.noctel.com:7113/KANY"
+        },
+        {
+            name: "Seattle Sports 710",
+            logo: "stations/images-america/seattle/Seattle Sports 710.png",
+            url: "https://bonneville.cdnstream1.com/2642_48.aac"
+        },
+        {
+            name: "770 KTTH",
+            logo: "stations/images-america/seattle/770 KTTH.png",
+            url: "https://bonneville.cdnstream1.com/2696_48.aac"
+        },
+        {
+            name: "820 AM The Word",
+            logo: "stations/images-america/seattle/820 AM The Word.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGNWAMAAC_SC"
+        },
+        {
+            name: "1090 The Patriot",
+            logo: "stations/images-america/seattle/1090 The Patriot.png",
+            url: "https://stream.revma.ihrhls.com/zc7747/hls.m3u8"
+        },
+        {
+            name: "KXRO 1320",
+            logo: "stations/images-america/aberdeen/KXRO 101.7.png",
+            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/manifest/alphacorporate-kxroamaac-ibc4"
+        },
+        {
+            name: "Sacred Heart Radio 1450",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
             name: "1490 KWOK",
@@ -14025,6 +14060,11 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/KMNT"
         },
         {
+            name: "Sacred Heart Radio 104.7",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
+        {
             name: "KUOW 107.3",
             logo: "stations/images-america/olympia/KUOW 107.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3_SC"
@@ -14043,6 +14083,11 @@ var stations = {
             name: "KMAS 1030",
             logo: "stations/images-america/olympia/KMAS.png",
             url: "http://ice8.securenetsystems.net/KMAS"
+        },
+        {
+            name: "Sacred Heart Radio 1240",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
             name: "KELA 1470",
@@ -18811,6 +18856,11 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kiswfmaac-imc"
         },
         {
+            name: "Sacred Heart Radio 100.3",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
+        {
             name: "100.7 The Wolf",
             logo: "stations/images-america/seattle/100.7 The Wolf.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-kkwffmaac-imc"
@@ -18916,6 +18966,11 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
+            name: "820 AM The Word",
+            logo: "stations/images-america/seattle/820 AM The Word.png",
+            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGNWAMAAC_SC"
+        },
+        {
             name: "BIN 850",
             logo: "stations/images-america/seattle/BIN 850.png",
             url: "https://stream.revma.ihrhls.com/zc8672/hls.m3u8"
@@ -18934,6 +18989,11 @@ var stations = {
             name: "Northwest Newsradio 1000",
             logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC.aac"
+        },
+        {
+            name: "Sacred Heart Radio 1050",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
             name: "1090 The Patriot",
@@ -19505,9 +19565,19 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KZBD"
         },
         {
+            name: "Sacred Heart Radio 106.1",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
+        {
             name: "590 KQNT",
             logo: "stations/images-america/spokane/590 KQNT.png",
             url: "https://stream.revma.ihrhls.com/zc4952/hls.m3u8"
+        },
+        {
+            name: "Sacred Heart Radio 970",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
             name: "1230 KSBN",
@@ -20117,6 +20187,16 @@ var stations = {
             name: "Radio Tacoma 101.9",
             logo: "stations/images-america/tacoma/Radio Tacoma 101.9.png",
             url: "https://stream.radiotacoma.org/ktah.mp3"
+        },
+        {
+            name: "Sacred Heart Radio 107.3",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
+        {
+            name: "Sacred Heart Radio 1180",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
     ],
     "texarkana": [
@@ -22083,6 +22163,11 @@ var stations = {
         },
     ],
     "yakima": [
+        {
+            name: "Sacred Heart Radio 88.1",
+            logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
+            url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
         {
             name: "NWPB News 88.5",
             logo: "stations/images-america/0_general_logos/NWPB News.png",
