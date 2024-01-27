@@ -849,14 +849,39 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3_SC"
         },
         {
+            name: "HR Klasik",
+            logo: "stations/images-europe/croatia/HR 3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/HR_CLASSICSAAC_SC"
+        },
+        {
             name: "bravo!",
-            logo: "stations/images-europe/croatia/bravo!.jpg",
+            logo: "stations/images-europe/croatia/bravo!.png",
             url: "http://c5.hostingcentar.com:8059/;"
+        },
+        {
+            name: "CMC Radio",
+            logo: "stations/images-europe/croatia/CMC Radio.png",
+            url: "https://radio-stream.cmc.com.hr:9011/live"
+        },
+        {
+            name: "EXTRA FM",
+            logo: "stations/images-europe/croatia/EXTRA FM.png",
+            url: "http://streams.extrafm.hr:8110/stream"
+        },
+        {
+            name: "Happy FM",
+            logo: "stations/images-europe/croatia/Happy FM.png",
+            url: "http://c5.hostingcentar.com:8446/;"
         },
         {
             name: "Hrvatski Katolički Radio",
             logo: "stations/images-europe/croatia/Hrvatski Katolički Radio.png",
             url: "http://stream.hkr.hr:8000/hkr.mp3"
+        },
+        {
+            name: "Nacional Radio",
+            logo: "stations/images-europe/croatia/Nacional Radio.png",
+            url: "https://nnc1-bpmmc501.radioca.st/stream"
         },
         {
             name: "Otvoreni",
@@ -1168,6 +1193,11 @@ var stations = {
             name: "Radio 100",
             logo: "stations/images-europe/denmark/Radio 100.png",
             url: "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
+        },
+        {
+            name: "Radio ALFA",
+            logo: "stations/images-europe/denmark/Radio ALFA.png",
+            url: "https://radioserver.dk/alfamidt"
         },
         {
             name: "Radio Soft",
@@ -2053,6 +2083,11 @@ var stations = {
             name: "Radio 7",
             logo: "stations/images-europe/germany-bw/Radio 7.png",
             url: "https://radio7.streamabc.net/87-radio7dab-mp3-192-2906603"
+        },
+        {
+            name: "Radio Regenbogen",
+            logo: "stations/images-europe/germany-bw/Radio Regenbogen.png",
+            url: "https://stream.regenbogen.de/mannheim/aac-128"
         },
         {
             name: "Radio Ton",
@@ -3848,6 +3883,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC_SC"
         },
         {
+            name: "JOE",
+            logo: "stations/images-europe/netherlands/JOE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC_SC"
+        },
+        {
             name: "KINK",
             logo: "stations/images-europe/netherlands/KINK.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC",
@@ -4498,6 +4538,11 @@ var stations = {
             name: "Юмор FM",
             logo: "stations/images-europe/russia/Юмор FM - Humor FM.png",
             url: "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6"
+        },
+        {
+            name: "Like FM",
+            logo: "stations/images-europe/russia/Like FM.png",
+            url: "https://srv21.gpmradio.ru:8443/stream/air/aac/64/219"
         },
         {
             name: "Love Radio",
@@ -6196,7 +6241,7 @@ var stations = {
         {
             name: "NRJ Украина",
             logo: "stations/images-europe/ukraine/Energy.png",
-            url: "https://cast.radiogroup.com.ua/nrj"
+            url: "https://cast.mediaonline.net.ua/nrj320"
         },
         {
             name: "Радіо НВ",

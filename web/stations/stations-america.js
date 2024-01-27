@@ -138,8 +138,8 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2642_48.aac"
         },
         {
-            name: "770 KTTH",
-            logo: "stations/images-america/seattle/770 KTTH.png",
+            name: "AM 770 KTTH",
+            logo: "stations/images-america/seattle/AM 770 KTTH.png",
             url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
@@ -18812,7 +18812,7 @@ var stations = {
         },
         {
             name: "97.3 KIRO-HD3",
-            logo: "stations/images-america/seattle/770 KTTH.png",
+            logo: "stations/images-america/seattle/AM 770 KTTH.png",
             url: "http://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
@@ -18961,8 +18961,8 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2642_48.aac"
         },
         {
-            name: "770 KTTH",
-            logo: "stations/images-america/seattle/770 KTTH.png",
+            name: "AM 770 KTTH",
+            logo: "stations/images-america/seattle/AM 770 KTTH.png",
             url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
@@ -27833,6 +27833,11 @@ var stations_c2c = {
             name: "93.3 TigerFM",
             logo: "stations/images-america/c2c/fort_myers_fl/93.3 TigerFM.png",
             url: "http://62.151.177.31:8000/transmitter.mp3"
+        },
+        {
+            name: "HOT 93.7",
+            logo: "stations/images-america/c2c/fort_myers_fl/HOT 93.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHEL_HD3AAC_SC"
         },
         {
             name: "Hell Yeah 94.1",
