@@ -6127,6 +6127,11 @@ var stations = {
             url: "https://media-ssl.musicradio.com/SmoothChill"
         },
         {
+            name: "Smooth Relax",
+            logo: "stations/images-europe/uk/Smooth Relax.png",
+            url: "https://media-ssl.musicradio.com/SmoothRelax"
+        },
+        {
             name: "Sunrise Radio",
             logo: "stations/images-europe/uk/Sunrise Radio.png",
             url: "https://direct.sharp-stream.com/sunriseradio.mp3"

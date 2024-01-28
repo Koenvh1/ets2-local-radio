@@ -973,7 +973,7 @@ var stations = {
             name: "C96",
             logo: "stations/images-america/astoria/C96.png",
             url: "http://us9.streamingpulse.com:7333/stream"
-        },
+        },/*
         {
             name: "Clammy 99.7",
             logo: "stations/images-america/astoria/Clammy 99.7.png",
@@ -998,7 +998,7 @@ var stations = {
             name: "ESPN 106.3",
             logo: "stations/images-america/astoria/ESPN 106.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKORFMAAC_SC"
-        },
+        },*/
         {
             name: "Radio Clatsop 840",
             logo: "stations/images-america/astoria/Radio Clatsop 840.png",
@@ -1008,7 +1008,7 @@ var stations = {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
-        },
+        },/*
         {
             name: "KKOR 1230",
             logo: "stations/images-america/astoria/ESPN 106.3.png",
@@ -1018,7 +1018,7 @@ var stations = {
             name: "KAST 1370",
             logo: "stations/images-america/astoria/KAST.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KASTAMAAC_SC"
-        },
+        },*/
     ],
     "austin": [
         {
