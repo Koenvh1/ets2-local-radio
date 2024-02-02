@@ -4689,7 +4689,7 @@ var stations = {
             url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_nan_gaidheal.m3u8"
         },
         {
-            name: "Capital FM Scotland",
+            name: "Capital FM",
             logo: "stations/images-europe/scotland/Capital FM Scotland.png",
             url: "https://media-ssl.musicradio.com/CapitalGlasgow"
         },
@@ -4699,7 +4699,12 @@ var stations = {
             url: "https://streaming.broadcastradio.com:8252/goradio"
         },
         {
-            name: "Nation Radio Scotland",
+            name: "heart",
+            logo: "stations/images-europe/scotland/heart.png",
+            url: "http://icecast.thisisdax.com/HeartGlasgow"
+        },
+        {
+            name: "Nation Radio",
             logo: "stations/images-europe/scotland/Nation Radio Scotland.png",
             url: "https://edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac"
         },
@@ -4707,6 +4712,11 @@ var stations = {
             name: "Pure Radio",
             logo: "stations/images-europe/scotland/Pure Radio.png",
             url: "https://listen-pureradio.sharp-stream.com/pure_radio.mp3"
+        },
+        {
+            name: "Smooth",
+            logo: "stations/images-europe/scotland/Smooth.png",
+            url: "http://icecast.thisisdax.com/SmoothScotland"
         },
     ],
     "serbia": [

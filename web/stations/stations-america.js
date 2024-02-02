@@ -41577,6 +41577,11 @@ var stations_c2c = {
             url: "http://stream.wcrsfm.org:8000/wcrsfm_a"
         },
         {
+            name: "93X",
+            logo: "stations/images-america/c2c/columbus_oh/93X.png",
+            url: "https://ice25.securenetsystems.net/WXGT"
+        },
+        {
             name: "93.3 The Bus",
             logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus.png",
             url: "https://stream.revma.ihrhls.com/zc1761/hls.m3u8"
