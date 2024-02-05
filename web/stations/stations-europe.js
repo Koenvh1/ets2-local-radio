@@ -4709,11 +4709,6 @@ var stations = {
             url: "https://edge-ads-05-gos2.sharp-stream.com/nationscotlandi.aac"
         },
         {
-            name: "Pure Radio",
-            logo: "stations/images-europe/scotland/Pure Radio.png",
-            url: "https://listen-pureradio.sharp-stream.com/pure_radio.mp3"
-        },
-        {
             name: "Smooth",
             logo: "stations/images-europe/scotland/Smooth.png",
             url: "http://icecast.thisisdax.com/SmoothScotland"
