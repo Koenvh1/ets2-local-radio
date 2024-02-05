@@ -3183,7 +3183,7 @@ var stations = {
         {
             name: "Love Radio",
             logo: "stations/images-europe/kazakhstan/Love Radio.png",
-            url: "https://stream.gakku.tv:8443/love128.mp3"
+            url: "https://stream.gakku.kz:8443/love128.mp3"
         },
         {
             name: "Радио Дача",

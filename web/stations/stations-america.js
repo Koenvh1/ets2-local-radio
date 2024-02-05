@@ -36787,6 +36787,11 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KSBU"
         },
         {
+            name: "G93",
+            logo: "stations/images-america/c2c/jackson_ms/G93.png",
+            url: "https://live.amperwave.net/manifest/telesouth-wdxofmaac-ibc1"
+        },
+        {
             name: "Blues 93.1",
             logo: "stations/images-america/c2c/jackson_ms/Blues 93.1.png",
             url: "https://live.amperwave.net/manifest/newsouth-wiinamaac-ibc1"
