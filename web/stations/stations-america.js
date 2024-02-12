@@ -1,5 +1,5 @@
 var stations = {
-    "christmas": [
+    /*"christmas": [
         {
             name: "iHeart Christmas",
             logo: "stations/images-america/1_christmas/iHeart Christmas.png",
@@ -45,7 +45,7 @@ var stations = {
             logo: "stations/images-america/1_christmas/Radio Santa.png",
             url: "https://streaming.live365.com/a53827"
         },
-    ],
+    ],*/
     "aberdeen": [
         {
             name: "Air1 88.1",
@@ -3074,7 +3074,7 @@ var stations = {
         {
             name: "Rejoice Radio 89.7",
             logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
-            url: "https://cld2099ice.audiovideoweb.com:8443/4c3ice5521"
+            url: "https://rejoiceradio.streamguys1.com/live"
         },
         {
             name: "Pilgrim Radio 90.3",
@@ -4930,7 +4930,7 @@ var stations = {
         {
             name: "Republic Broadcasting Network 1140",
             logo: "stations/images-america/dallas_fort_worth/Republic Broadcasting Network 1140.png",
-            url: "http://216.240.133.177:2005/;"
+            url: "https://cast2.my-control-panel.com/proxy/rbn/stream"
         },
         {
             name: "Talk Radio 1190",
@@ -9875,7 +9875,7 @@ var stations = {
         {
             name: "Rejoice Radio 90.5",
             logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
-            url: "https://cld2099ice.audiovideoweb.com:8443/4c3ice5521"
+            url: "https://rejoiceradio.streamguys1.com/live"
         },
         {
             name: "Moody Radio 90.9",
@@ -11093,7 +11093,7 @@ var stations = {
         {
             name: "Rejoice Radio 91.9",
             logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
-            url: "https://cld2099ice.audiovideoweb.com:8443/4c3ice5521"
+            url: "https://rejoiceradio.streamguys1.com/live"
         },
         {
             name: "FM News Talk 92.7",
@@ -13930,7 +13930,7 @@ var stations = {
         {
             name: "Rejoice Radio 88.7",
             logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
-            url: "https://cld2099ice.audiovideoweb.com:8443/4c3ice5521"
+            url: "https://rejoiceradio.streamguys1.com/live"
         },
         {
             name: "K-LOVE 89.9",
@@ -31215,7 +31215,7 @@ var stations_c2c = {
         {
             name: "Rejoice Radio 89.7",
             logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
-            url: "https://cld2099ice.audiovideoweb.com:8443/4c3ice5521"
+            url: "https://rejoiceradio.streamguys1.com/live"
         },
         {
             name: "WBCL 90.3",
@@ -37755,8 +37755,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1261/hls.m3u8"
         },
         {
-            name: "106.7 The River",
-            logo: "stations/images-america/c2c/springfield_mo/106.7 The River.png",
+            name: "Classic Rock 106.7",
+            logo: "stations/images-america/c2c/springfield_mo/Classic Rock 106.7.png",
             url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7714_128k.aac"
         },
         {
@@ -37963,14 +37963,34 @@ var stations_c2c = {
     ],
     "north_platte": [
         {
+            name: "KJTF 89.3",
+            logo: "stations/images-america/c2c/north_platte_ne/KJLT 94.9.png",
+            url: "https://ic2.sslstream.com/kjtf-fm"
+        },
+        {
+            name: "Spirit Catholic Radio 90.1",
+            logo: "stations/images-america/c2c/north_platte_ne/Spirit Catholic Radio.png",
+            url: "https://ice7.securenetsystems.net/KVSS"
+        },
+        {
             name: "NPM 91.7",
             logo: "stations/images-america/0_general_logos/NPM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
         },
         {
+            name: "92.5 K223CQ",
+            logo: "stations/images-america/c2c/north_platte_ne/KODY 106.1.png",
+            url: "https://ice9.securenetsystems.net/KODY"
+        },
+        {
             name: "Z93.5",
             logo: "stations/images-america/c2c/north_platte_ne/Z93.5.png",
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KZTL"
+        },
+        {
+            name: "My Bridge Radio 94.3",
+            logo: "stations/images-america/0_general_logos/My Bridge Radio.png",
+            url: "https://ais-sa1.streamon.fm/7069_64k.aac"
         },
         {
             name: "KJLT 94.9",
@@ -38008,6 +38028,11 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ice9.securenetsystems.net/KXNP"
         },
         {
+            name: "Bott Radio 104.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://ic1.christiannetcast.com/bottradio"
+        },
+        {
             name: "KODY 106.1",
             logo: "stations/images-america/c2c/north_platte_ne/KODY 106.1.png",
             url: "http://ice9.securenetsystems.net/KODY"
@@ -38021,6 +38046,26 @@ var stations_c2c = {
             name: "Q Country Classics 107.3",
             logo: "stations/images-america/c2c/north_platte_ne/Q Country 107.3.png",
             url: "http://216.246.103.221/index.php?u=https://ice10.securenetsystems.net/KNPQ"
+        },
+        {
+            name: "Bott Radio 107.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://ic1.christiannetcast.com//bottradio"
+        },
+        {
+            name: "KRVN 880",
+            logo: "stations/images-america/c2c/mccook_ne/KRVN 880.png",
+            url: "https://ais-sa1.streamon.fm/7323_48k.aac"
+        },
+        {
+            name: "KODY 1240",
+            logo: "stations/images-america/c2c/north_platte_ne/KODY 106.1.png",
+            url: "https://ice9.securenetsystems.net//KODY"
+        },
+        {
+            name: "1410 KOOQ",
+            logo: "stations/images-america/c2c/north_platte_ne/FM 98.1.png",
+            url: "http://216.246.103.221/index.php?u=http://ice10.securenetsystems.net/KOOQ"
         },
     ],
     "ogallala_ne": [
