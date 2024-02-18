@@ -1378,11 +1378,6 @@ var stations = {
             url: "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8"
         },
         {
-            name: "Yle Puhe",
-            logo: "stations/images-europe/finland/YLE Puhe.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8"
-        },
-        {
             name: "Yle Radio Suomi",
             logo: "stations/images-europe/finland/YLE Radio Suomi.png",
             url: "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8"

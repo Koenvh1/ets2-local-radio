@@ -12356,12 +12356,12 @@ var stations = {
             name: "Radio Aleluya 89.7",
             logo: "stations/images-america/0_general_logos/Radio Aleluya.png",
             url: "https://radio.aleluya.cloud/radio/8000/stream"
-        },/*
+        },
         {
             name: "90.1 The Axe",
             logo: "stations/images-america/lufkin/90.1 The Axe.png",
-            url: "http://144.96.209.9:8000/;"
-        },*/
+            url: "https://stream.zeno.fm/rrmimljmbjgtv"
+        },
         {
             name: "90.9 KSWP",
             logo: "stations/images-america/lufkin/90.9 KSWP.png",
@@ -15571,8 +15571,8 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KALF"
         },
         {
-            name: "XS Sports 96.1",
-            logo: "stations/images-america/redding/XS Sports 96.1.png",
+            name: "96 KTO",
+            logo: "stations/images-america/redding/96 KTO.png",
             url: "http://216.246.103.221/index.php?u=https://ice24.securenetsystems.net/KKXS"
         },
         {
@@ -27157,13 +27157,33 @@ var stations_c2c = {
     ],
     "jacksonville": [
         {
+            name: "The JOY FM 88.1",
+            logo: "stations/images-america/0_general_logos/The JOY FM.png",
+            url: "https://rtn.cdnstream1.com/2579_96.aac"
+        },
+        {
+            name: "JOY Worship 88.1-HD2",
+            logo: "stations/images-america/0_general_logos/JOY Worship.png",
+            url: "https://rtn.cdnstream1.com/2581_96.aac"
+        },
+        {
+            name: "LF Radio 88.1-HD3",
+            logo: "stations/images-america/0_general_logos/LF Radio.png",
+            url: "https://rtn.cdnstream1.com/2582_96.aac"
+        },
+        {
+            name: "Family Radio 88.7",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
             name: "Air1 89.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "WJCT 89.9",
-            logo: "stations/images-america/c2c/jacksonville_fl/WJCT 89.9.png",
+            name: "WJCT News 89.9",
+            logo: "stations/images-america/c2c/jacksonville_fl/WJCT News 89.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFMAAC_SC"
         },
         {
@@ -27182,9 +27202,24 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4AAC_SC"
         },
         {
+            name: "BBN 90.5",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "CSN Radio 91.3",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "91.7 The Truth",
+            logo: "stations/images-america/c2c/jacksonville_fl/91.7 The Truth.png",
+            url: "https://ice9.securenetsystems.net/WTRJ"
         },
         {
             name: "Latina 92.1",
@@ -27197,6 +27232,11 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WJXLFM"
         },
         {
+            name: "93.7 W224EF",
+            logo: "stations/images-america/c2c/jacksonville_fl/Pure Radio 103.7.png",
+            url: "http://ice64.securenetsystems.net//WJNJAM"
+        },
+        {
             name: "La Raza 92.9",
             logo: "stations/images-america/c2c/jacksonville_fl/La Raza 92.9.png",
             url: "http://rock2.norsanmedia.com:8000/wnnr"
@@ -27207,9 +27247,29 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc517/hls.m3u8"
         },
         {
+            name: "93.3 WJBT-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/BIN 104.1.png",
+            url: "https://stream.revma.ihrhls.com/zc8932"
+        },
+        {
+            name: "93.3 WJBT-HD3",
+            logo: "stations/images-america/c2c/jacksonville_fl/Jax Country 94.1.png",
+            url: "http://ice42.securenetsystems.net/WSOS"
+        },
+        {
+            name: "Relevant Radio 93.7",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
             name: "Jax Country 94.1",
             logo: "stations/images-america/c2c/jacksonville_fl/Jax Country 94.1.png",
             url: "https://ice42.securenetsystems.net/WSOS"
+        },
+        {
+            name: "The Victory 94.7",
+            logo: "stations/images-america/c2c/jacksonville_fl/The Victory Jacksonville.png",
+            url: "http://us2.maindigitalstream.com:7306//stream"
         },
         {
             name: "95.1 WAPE",
@@ -27227,14 +27287,24 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
         },
         {
+            name: "Caribbean Power Radio 96.5",
+            logo: "stations/images-america/c2c/jacksonville_fl/Caribbean Power Radio.png",
+            url: "https://server7.servistreaming.com/proxy/caribbean?mp=/stream"
+        },
+        {
             name: "96.9 The Eagle",
             logo: "stations/images-america/c2c/jacksonville_fl/96.9 The Eagle.png",
             url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/jac969/jac969-sgplayer-aac"
         },
         {
-            name: "Acción 97.3",
-            logo: "stations/images-america/c2c/jacksonville_fl/Acción 97.3.png",
-            url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
+            name: "96.9 WJGL-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/Power 106.1.png",
+            url: "http://216.246.103.221/index.php?u=http://cmg.streamguys1.com/jac969hd2/jac969hd2-sgplayer-aac"
+        },
+        {
+            name: "97.3 W247CF",
+            logo: "stations/images-america/c2c/jacksonville_fl/FOX Sports 930.png",
+            url: "https://stream.revma.ihrhls.com/zc3201"
         },
         {
             name: "97.9 KISS FM",
@@ -27242,9 +27312,24 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc505/hls.m3u8"
         },
         {
+            name: "97.9 WKSL-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/FOX Sports 930.png",
+            url: "http://stream.revma.ihrhls.com/zc3201"
+        },
+        {
+            name: "97.9 WKSL-HD3",
+            logo: "stations/images-america/c2c/jacksonville_fl/Praise 107.9.png",
+            url: "http://ice10.securenetsystems.net/WMUVHD3"
+        },
+        {
             name: "99.1 WQIK",
             logo: "stations/images-america/c2c/jacksonville_fl/99.1 WQIK.png",
             url: "https://stream.revma.ihrhls.com/zc525/hls.m3u8"
+        },
+        {
+            name: "99.1 WQIK-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/Rumba 106.9.png",
+            url: "https://stream.revma.ihrhls.com/zc7071"
         },
         {
             name: "X99.5",
@@ -27272,14 +27357,29 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc533/hls.m3u8"
         },
         {
+            name: "K-LOVE 101.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "Buenas Nuevas 102.3",
             logo: "stations/images-america/c2c/jacksonville_fl/Buenas Nuevas 102.3.png",
             url: "https://vip.livecastnet.com:4343/buenasnuevas.mp3"
         },
         {
+            name: "WYNR 102.5",
+            logo: "stations/images-america/c2c/jacksonville_fl/WYNR 102.5.png",
+            url: "https://stream.revma.ihrhls.com/zc6858/hls.m3u8"
+        },
+        {
             name: "easy 102.9",
             logo: "stations/images-america/c2c/jacksonville_fl/Easy 102.9.png",
             url: "http://216.246.103.221/index.php?u=https://ad-oom-cmg.streamguys1.com/jac1065/jac1065-sgplayer-aac"
+        },
+        {
+            name: "Big Machine Radio 102.9-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/Big Machine Radio 102.9-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/BMACHINERADIO_XUSAAC_SC"
         },
         {
             name: "103Q",
@@ -27302,7 +27402,17 @@ var stations_c2c = {
             url: "https://cmg.streamguys1.com/jac1045/jac1045-sgplayer-aac"
         },
         {
+            name: "104.5 WOKV-HD2",
+            logo: "stations/images-america/c2c/jacksonville_fl/X99.5.png",
+            url: "http://216.246.103.221/index.php?u=http://cmg.streamguys1.com/jac1029/jac1029-sgplayer-aac"
+        },
+        {
             name: "Flow 105.3",
+            logo: "stations/images-america/c2c/jacksonville_fl/Flow 105.3.png",
+            url: "https://stream.zeno.fm/1hdxv66ffg8uv"
+        },
+        {
+            name: "Azul 105.3-HD3",
             logo: "stations/images-america/c2c/jacksonville_fl/Flow 105.3.png",
             url: "https://stream.zeno.fm/1hdxv66ffg8uv"
         },
@@ -27337,9 +27447,14 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc6284/hls.m3u8"
         },
         {
-            name: "The Breeze 107.3-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "107.7 The Fox",
+            logo: "stations/images-america/c2c/jacksonville_fl/107.7 The Fox.png",
+            url: "https://stream.revma.ihrhls.com/zc6853/hls.m3u8"
+        },
+        {
+            name: "Praise 107.9",
+            logo: "stations/images-america/c2c/jacksonville_fl/Praise 107.9.png",
+            url: "https://ice10.securenetsystems.net/WMUVHD3"
         },
         {
             name: "550 Way Radio",
@@ -27352,9 +27467,29 @@ var stations_c2c = {
             url: "https://cmg.streamguys1.com/jac690/jac690-sgplayer-aac"
         },
         {
+            name: "FOX Sports 930",
+            logo: "stations/images-america/c2c/jacksonville_fl/FOX Sports 930.png",
+            url: "https://stream.revma.ihrhls.com/zc3201/hls.m3u8"
+        },
+        {
             name: "1010 XL",
             logo: "stations/images-america/c2c/jacksonville_fl/1010 XL.png",
             url: "https://ice23.securenetsystems.net/WJXL"
+        },
+        {
+            name: "Pure Radio 1320",
+            logo: "stations/images-america/c2c/jacksonville_fl/Pure Radio 103.7.png",
+            url: "http://ice64.securenetsystems.net/WJNJAM"
+        },
+        {
+            name: "1360 WCGL",
+            logo: "stations/images-america/c2c/jacksonville_fl/The Victory Jacksonville.png",
+            url: "http://us2.maindigitalstream.com:7306/stream"
+        },
+        {
+            name: "Caribbean Power Radio 1530",
+            logo: "stations/images-america/c2c/jacksonville_fl/Caribbean Power Radio.png",
+            url: "http://server7.servistreaming.com/proxy/caribbean?mp=/stream"
         },
     ],
     "key_west": [
