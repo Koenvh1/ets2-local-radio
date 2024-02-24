@@ -4106,6 +4106,16 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
         },
         {
+            name: "Bounce 95.7",
+            logo: "stations/images-america/colville/Bounce 95.7.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC_SC"
+        },
+        {
+            name: "The Big 99.9 Coyote Country",
+            logo: "stations/images-america/spokane/The Big 99.9 Coyote Country.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLYFMAAC_SC"
+        },
+        {
             name: "KCHW 102.7",
             logo: "stations/images-america/colville/KCHW 102.7.png",
             url: "http://s46.myradiostream.com:6306/listen.mp3"
@@ -5553,6 +5563,28 @@ var stations = {
             name: "ESPN Denver 1600",
             logo: "stations/images-america/denver/ESPN Denver 1600.png",
             url: "https://bonneville.cdnstream1.com/2708_48.aac"
+        },
+    ],
+    "diablo": [
+        {
+            name: "KARI 550",
+            logo: "stations/images-america/bellingham/KARI 550.png",
+            url: "https://ice9.securenetsystems.net/KARI550"
+        },
+        {
+            name: "Sher E Punjab 600",
+            logo: "stations/images-america/canada/vancouver/Sher E Punjab 600.png",
+            url: "https://ais-sa1.streamon.fm/7676_48k.aac"
+        },
+        {
+            name: "KAPS Country 660",
+            logo: "stations/images-america/bellingham/KAPS Country 660.png",
+            url: "https://ice7.securenetsystems.net/KAPS"
+        },
+        {
+            name: "AM 770 KTTH",
+            logo: "stations/images-america/seattle/AM 770 KTTH.png",
+            url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
     ],
     "dodge_garden_city": [
@@ -9762,6 +9794,43 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KSPZ"
         },
     ],
+    "john_day": [
+        {
+            name: "OPB 89.7",
+            logo: "stations/images-america/0_general_logos/OPB.png",
+            url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
+        },
+        {
+            name: "KMHD 91.5",
+            logo: "stations/images-america/portland/KMHD 89.1.png",
+            url: "https://ais-sa3.cdnstream1.com/2442_128.aac"
+        },
+        {
+            name: "CSN Radio 91.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "94.5 KJDY",
+            logo: "stations/images-america/burns/94.5 KJDY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJDYFM_SC"
+        },
+        {
+            name: "3ABN 98.1",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "104.7 KCMB",
+            logo: "stations/images-america/baker_city/104.7 KCMB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMBFM_SC"
+        },
+        {
+            name: "1400 KJDY",
+            logo: "stations/images-america/burns/94.5 KJDY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJDYFM.mp3"
+        },
+    ],
     "junction_city": [
         {
             name: "KPR 91.3",
@@ -11519,7 +11588,7 @@ var stations = {
         {
             name: "The River 105.1",
             logo: "stations/images-america/lewiston/The River 105.1.png",
-            url: "https://live.amperwave.net/manifest/mcvey-kvtykfmaac-imc"
+            url: "https://live.amperwave.net/manifest/mcvey-kvtyfmaac-imc"
         },
         {
             name: "Canyon Country 106.9",
@@ -52787,6 +52856,11 @@ var stations_canada = {
             name: "Evolution 107.9",
             logo: "stations/images-america/canada/vancouver/Evolution 107.9.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://evolution1079.streamb.live/SB00207"
+        },
+        {
+            name: "Sher E Punjab 600",
+            logo: "stations/images-america/canada/vancouver/Sher E Punjab 600.png",
+            url: "https://ais-sa1.streamon.fm/7676_48k.aac"
         },
         {
             name: "Sportsnet 650",

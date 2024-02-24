@@ -413,6 +413,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
+    "diablo": {
+        name: "Diablo",
+        name_english: "Diablo",
+        code: "us-wa",
+        relative_radius: 0.5
+    },
     "dodge_city": {
         name: "Dodge City",
         name_english: "Dodge City",
@@ -712,6 +718,12 @@ var country_properties = {
         name_english: "Jackson",
         code: "us-wy",
         relative_radius: 0.7
+    },
+    "john_day": {
+        name: "John Day",
+        name_english: "John Day",
+        code: "us-or",
+        relative_radius: 0.5
     },
     "junction": {
         name: "Junction",
@@ -1890,6 +1902,9 @@ var city_properties = {
     "denver": {
         relative_whitenoise: 0.85
     },
+    "diablo": {
+        relative_whitenoise: 0.95
+    },
     "dodge_city": {
         relative_radius: 0.9,
         relative_whitenoise: 0.95
@@ -2058,6 +2073,9 @@ var city_properties = {
     },
     "jackson": {
         relative_whitenoise: 0.85
+    },
+    "john_day": {
+        relative_whitenoise: 0.95
     },
     "junction": {
 		relative_radius: 1.2,
@@ -3205,6 +3223,14 @@ var cities = [
         "z": "-5191.34"
     },
     {
+        "gameName": "diablo",
+        "realName": "Diablo",
+        "country": "diablo",
+        "x": "-93493.5",
+        "y": "49.1725",
+        "z": "-67364.4"
+    },
+    {
         "gameName": "dodge_city",
         "realName": "Dodge City",
         "country": "dodge_garden_city",
@@ -3667,6 +3693,14 @@ var cities = [
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
+    },
+    {
+        "gameName": "john_day",
+        "realName": "John Day",
+        "country": "john_day",
+        "x": "-91674.1",
+        "y": "49.3895",
+        "z": "-42358.9"
     },
     {
         "gameName": "junction",
