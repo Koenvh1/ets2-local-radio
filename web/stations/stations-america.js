@@ -636,7 +636,7 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KMGG"
         },
         {
-            name: "RAVE 99.9-HD2",
+            name: "Sunny 99.9-HD2",
             logo: "stations/images-america/albuquerque/RAVE 99.9-HD2.png",
             url: "https://ice41.securenetsystems.net/THEPLANETHD3"
         },
@@ -21069,12 +21069,12 @@ var stations = {
             name: "The Coast 95.9",
             logo: "stations/images-america/ukiah/The Coast 95.9.png",
             url: "https://live.amperwave.net/direct/caradio-koztfmaac-ibc3"
-        },/*
+        },
         {
             name: "The Skunk 96.7",
             logo: "stations/images-america/ukiah/The Skunk 96.7.png",
             url: "http://streaming.rubinbroadcasting.com/kunk"
-        },*/
+        },
         {
             name: "KXBX 98.3",
             logo: "stations/images-america/ukiah/KXBX 98.3.png",
@@ -42793,7 +42793,7 @@ var stations_c2c = {
         {
             name: "93.7 Heart & Soul",
             logo: "stations/images-america/lawton/93.7 Heart & Soul.png",
-            url: "https://ice24.securenetsystems.net/KXCA"
+            url: "http://ice24.securenetsystems.net/KXCA"
         },
         {
             name: "Z94",
@@ -42819,6 +42819,11 @@ var stations_c2c = {
             name: "Big Country 97.3",
             logo: "stations/images-america/lawton/Big Country 97.3.png",
             url: "https://ais-sa1.streamon.fm/7840_128k.aac"
+        },
+        {
+            name: "96.7 Heart & Soul",
+            logo: "stations/images-america/lawton/93.7 Heart & Soul.png",
+            url: "https://ice24.securenetsystems.net/KXCA"
         },
         {
             name: "97.9 JAMZ",
