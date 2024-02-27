@@ -8492,7 +8492,7 @@ var country_properties_c2c = {
         name: "Georgetown",
         name_english: "Georgetown",
         code: "us-sc",
-        relative_radius: 0.4
+        relative_radius: 0.6
     },
     "greenville_sc": {
         name: "Greenville",
@@ -8504,7 +8504,7 @@ var country_properties_c2c = {
         name: "Myrtle Beach",
         name_english: "Myrtle Beach",
         code: "us-sc",
-        relative_radius: 0.4
+        relative_radius: 0.6
     },
     "south_dakota": {
         name: "south_dakota",
@@ -9259,22 +9259,23 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "charleston_sc": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "columbia": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "florence_sc": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "georgetown_sc": {
-        relative_whitenoise: 0.85
+		relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "greenville_sc": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "myrtlebeach_sc": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "mitchell_sd": {
         relative_whitenoise: 0.85
@@ -10939,7 +10940,7 @@ var cities_c2c = [
     {
         "gameName": "georgetown_sc",
         "realName": "Georgetown",
-        "country": "georgetown_sc",
+        "country": "myrtlebeach_sc",
         "x": "78769.9",
         "y": "91.043",
         "z": "24070.8"

@@ -45464,73 +45464,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8443/hls.m3u8"
         },
     ],
-    "georgetown_sc": [
-        {
-            name: "Radio Baha’i 90.9",
-            logo: "stations/images-america/c2c/georgetown_sc/Radio Baha’i 90.9.png",
-            url: "http://wlgi.streamguys1.com/live"
-        },
-        {
-            name: "Talk 94.5",
-            logo: "stations/images-america/c2c/georgetown_sc/Talk 94.5.png",
-            url: "http://ice64.securenetsystems.net/WYEZ"
-        },
-        {
-            name: "96.1 WKZQ",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/96.1 WKZQ.png",
-            url: "https://dbc.streamguys1.com/wkzq-fm.aac"
-        },
-        {
-            name: "96.9 The Wolf",
-            logo: "stations/images-america/c2c/charleston_sc/96.9 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIWFFMAAC_SC"
-        },
-        {
-            name: "Mix 97.7",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Mix 97.7.png",
-            url: "https://stream.revma.ihrhls.com/zc6856/hls.m3u8"
-        },
-        {
-            name: "98.5 KISS FM",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/98.5 KISS FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDAIFMAAC_SC"
-        },
-        {
-            name: "98.9 ESPN",
-            logo: "stations/images-america/c2c/charleston_sc/98.9 ESPN.png",
-            url: "https://ice5.securenetsystems.net/WWIK"
-        },
-        {
-            name: "Easy 100.7",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9.png",
-            url: "https://ice64.securenetsystems.net/WEZV"
-        },
-        {
-            name: "101.1 FM",
-            logo: "stations/images-america/c2c/georgetown_sc/101.1 FM.png",
-            url: "https://ice66.securenetsystems.net/WLMC"
-        },
-        {
-            name: "Wave 104.1",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Wave 104.1.png",
-            url: "https://dbc.streamguys1.com/wyav-fm.aac"
-        },
-        {
-            name: "Nash FM 106.5",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Nash FM 106.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLFFFMAAC_SC"
-        },
-        {
-            name: "WGTN 107.5",
-            logo: "stations/images-america/c2c/georgetown_sc/WGTN 107.5.png",
-            url: "https://ice66.securenetsystems.net/WGTNRADIO"
-        },
-        {
-            name: "Gator 107.9",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Gator 107.9.png",
-            url: "https://stream.revma.ihrhls.com/zc6855/hls.m3u8"
-        },
-    ],
     "greenville_sc": [
         {
             name: "HIS Radio 89.3",
@@ -45780,8 +45713,8 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/WEZV"
         },
         {
-            name: "Nash FM 106.5",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Nash FM 106.5.png",
+            name: "106.5 Nash Icon",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/106.5 Nash Icon.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLFFFMAAC_SC"
         },
         {
