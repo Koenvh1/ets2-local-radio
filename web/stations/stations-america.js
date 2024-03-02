@@ -2044,17 +2044,17 @@ var stations = {
         {
             name: "YPR 91.7",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "YPR Classical 91.7-HD2",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "https://ypr.streamguys1.com/live-2"
+            url: "https://ypr.streamguys1.com/live-2aac"
         },
         {
             name: "YPR Jazz 91.7-HD3",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "https://ypr.streamguys1.com/live-3"
+            url: "https://ypr.streamguys1.com/live-3aac"
         },
         {
             name: "MoJo 92.5",
@@ -2519,7 +2519,7 @@ var stations = {
         {
             name: "YPR 102.1",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "YPR News & Talk 102.1-HD2",
@@ -2529,12 +2529,12 @@ var stations = {
         {
             name: "YPR Classical 102.1-HD3",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "https://ypr.streamguys1.com/live-2"
+            url: "https://ypr.streamguys1.com/live-2aac"
         },
         {
             name: "YPR Jazz 102.1-HD4",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "https://ypr.streamguys1.com/live-3"
+            url: "https://ypr.streamguys1.com/live-3aac"
         },
         {
             name: "My 103.5",
@@ -2618,7 +2618,7 @@ var stations = {
         {
             name: "YPR 91.9",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "YNOP 102.3",
@@ -8019,7 +8019,7 @@ var stations = {
         {
             name: "YPR 88.5",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "Wyoming Sounds 89.1",
@@ -8312,7 +8312,7 @@ var stations = {
         {
             name: "YPR 91.9",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "Mix 93.5",
@@ -8354,7 +8354,7 @@ var stations = {
         {
             name: "YPR 88.5",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "96.5 KDZN",
@@ -8505,7 +8505,7 @@ var stations = {
         {
             name: "YPR 89.5",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "89.9 KGPR",
@@ -8768,7 +8768,7 @@ var stations = {
         {
             name: "YPR 91.7",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "QX92",
@@ -8790,7 +8790,7 @@ var stations = {
         {
             name: "YPR 88.5",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "K-LOVE 90.1",
@@ -11610,7 +11610,7 @@ var stations = {
         {
             name: "YPR 89.5",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "ROCK 95",
@@ -13380,7 +13380,7 @@ var stations = {
         {
             name: "YPR 90.7",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "KYUS 92.3",
@@ -15228,8 +15228,8 @@ var stations = {
             url: "https://ice24.securenetsystems.net/KXXPFM"
         },
         {
-            name: "105.1 The Buzz",
-            logo: "stations/images-america/portland/105.1 The Buzz.png",
+            name: "Bella 105",
+            logo: "stations/images-america/portland/Bella 105.png",
             url: "http://216.246.103.221/index.php?u=https://live.amperwave.net/direct/audacy-krskfmaac-imc"
         },
         {
@@ -19119,7 +19119,7 @@ var stations = {
         {
             name: "YPR 90.3",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "K96",
@@ -19203,7 +19203,7 @@ var stations = {
         {
             name: "YPR 88.1",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "YNOP 88.9",
@@ -21753,7 +21753,7 @@ var stations = {
         {
             name: "YPR 105.9",
             logo: "stations/images-america/0_general_logos/YPR_winter.png",
-            url: "http://ypr-sc.streamguys.net/live"
+            url: "http://ypr-sc.streamguys.net/live-aac"
         },
     ],
     "wheatland": [
@@ -34103,8 +34103,8 @@ var stations_c2c = {
             url: "https://radioserver11.profesionalhosting.com/proxy/djqjfpwc?mp=/stream"
         },
         {
-            name: "Nash Icon 106.1",
-            logo: "stations/images-america/c2c/new_orleans_la/Nash Icon 106.1.png",
+            name: "106.1 The Ticket",
+            logo: "stations/images-america/c2c/new_orleans_la/106.1 The Ticket.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
         },
         {
@@ -42860,9 +42860,9 @@ var stations_c2c = {
             url: "http://96.31.83.94:8039/stream"
         },
         {
-            name: "93.7 Heart & Soul",
-            logo: "stations/images-america/lawton/93.7 Heart & Soul.png",
-            url: "http://ice24.securenetsystems.net/KXCA"
+            name: "X93.7",
+            logo: "stations/images-america/lawton/X93.7.png",
+            url: "https://ice24.securenetsystems.net/KKRX"
         },
         {
             name: "Z94",
