@@ -1617,7 +1617,7 @@ var stations = {
         {
             name: "Melody Vintage Radio",
             logo: "stations/images-europe/france/Melody Vintage Radio.png",
-            url: "https://sc.creacast.com/melody-aac-64"
+            url: "https://stream.rcs.revma.com/5a05fstup42vv"
         },
         {
             name: "Mouv'",
