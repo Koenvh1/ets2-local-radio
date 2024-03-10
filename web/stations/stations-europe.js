@@ -1617,7 +1617,7 @@ var stations = {
         {
             name: "Melody Vintage Radio",
             logo: "stations/images-europe/france/Melody Vintage Radio.png",
-            url: "https://sc.creacast.com/melody-aac-64"
+            url: "https://stream.rcs.revma.com/5a05fstup42vv"
         },
         {
             name: "Mouv'",
@@ -2442,6 +2442,11 @@ var stations = {
             logo: "stations/images-europe/germany-rbb/JAM FM.png",
             url: "https://stream.jam.fm/jamfm-live/mp3-128/konsole"
         },
+        {
+            name: "Radio Paradiso",
+            logo: "stations/images-europe/germany-rbb/Radio Paradiso.png",
+            url: "https://radio-paradiso.api.radiosphere.io/channels/Radio_Paradiso/stream.aac"
+        },
     ],
     "germany-rp": [
         {
@@ -2625,6 +2630,11 @@ var stations = {
             name: "kulthitRADIO",
             logo: "stations/images-europe/germany-wdr/kulthitRADIO.png",
             url: "https://frontend.streamonkey.net/kulthitradio-nrw"
+        },
+        {
+            name: "NRW1",
+            logo: "stations/images-europe/germany-wdr/NRW1.png",
+            url: "https://nrw1.streamabc.net/92-nrw1-mp3-128-5352676"
         },
     ],
     "gibraltar": [
