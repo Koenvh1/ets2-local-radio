@@ -7924,11 +7924,11 @@ var country_properties_c2c = {
         code: "us-ms",
         relative_radius: 0.9
     },
-    "greenwood_ms": {
-        name: "greenwood_ms",
-        name_english: "greenwood_ms",
+    "grenada_ms": {
+        name: "Grenada",
+        name_english: "Grenada",
         code: "us-ms",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "gulfport_ms": {
         name: "gulfport_ms",
@@ -7939,6 +7939,12 @@ var country_properties_c2c = {
     "hattiesburg": {
         name: "hattiesburg",
         name_english: "hattiesburg",
+        code: "us-ms",
+        relative_radius: 0.7
+    },
+    "indianola_ms": {
+        name: "Indianola",
+        name_english: "Indianola",
         code: "us-ms",
         relative_radius: 0.7
     },
@@ -9008,14 +9014,17 @@ var city_properties_c2c = {
     "worthington_mn": {
         relative_whitenoise: 0.85
     },
-    "greenwood_ms": {
-        relative_whitenoise: 0.85
+    "grenada_ms": {
+        relative_whitenoise: 0.95
     },
     "gulfport_ms": {
         relative_whitenoise: 0.85
     },
     "hattiesburg": {
         relative_whitenoise: 0.85
+    },
+    "indianola_ms": {
+        relative_whitenoise: 0.95
     },
     "meridian_ms": {
         relative_whitenoise: 0.85
@@ -10218,12 +10227,12 @@ var cities_c2c = [
         "z": "-26280.8"
     },
     {
-        "gameName": "greenwood_ms",
-        "realName": "Greenwood",
-        "country": "greenwood_ms",
-        "x": "29233.2",
-        "y": "132.743",
-        "z": "29617.8"
+        "gameName": "grenada_ms",
+        "realName": "Grenada",
+        "country": "grenada_ms",
+        "x": "28595.6",
+        "y": "84.7766",
+        "z": "28221.2"
     },
     {
         "gameName": "gulfport_ms",
@@ -10240,6 +10249,14 @@ var cities_c2c = [
         "x": "32292.2",
         "y": "25.157",
         "z": "41669"
+    },
+    {
+        "gameName": "indianola_ms",
+        "realName": "Indianola",
+        "country": "indianola_ms",
+        "x": "22595.6",
+        "y": "84.7766",
+        "z": "29521.2"
     },
     {
         "gameName": "meridian_ms",
