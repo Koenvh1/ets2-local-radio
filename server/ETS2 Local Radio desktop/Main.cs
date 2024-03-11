@@ -14,18 +14,19 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-using Ets2SdkClient;
 using ETS2_Local_Radio_server.Properties;
 using Gma.System.MouseKeyHook;
 using Microsoft.Win32;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using SCSSdkClient;
+using SCSSdkClient.Object;
 
 namespace ETS2_Local_Radio_server
 {
     public partial class Main : Form
     {
-        public Ets2SdkTelemetry Telemetry;
+        public SCSSdkTelemetry Telemetry;
 
         public SimpleHTTPServer myServer;
 
@@ -37,7 +38,7 @@ namespace ETS2_Local_Radio_server
 
         public static Coordinates coordinates;
 
-        public static object ets2data;
+        public static SCSTelemetry ets2data;
         public static Commands commandsData;
 
         public static string simulatorNotRunning = "Simulator not yet running";
@@ -66,7 +67,7 @@ namespace ETS2_Local_Radio_server
             Subscribe();
 
             //Add Firewall exception
-            AddException();
+            //AddException();
 
             //Load languages to combobox:
             LoadLanguages();
@@ -97,7 +98,7 @@ namespace ETS2_Local_Radio_server
             Favourites.Load();
 
             //Start telemetry grabbing:
-            Telemetry = new Ets2SdkTelemetry(250);
+            Telemetry = new SCSSdkTelemetry(250);
             Telemetry.Data += Telemetry_Data;
 
             if (Telemetry.Error != null)
@@ -221,12 +222,9 @@ namespace ETS2_Local_Radio_server
             {
                 if (folder != null)
                 {
-                    if (Directory.Exists(folder + @"\bin\win_x86\plugins") &&
-                        Directory.Exists(folder + @"\bin\win_x64\plugins"))
+                    if (Directory.Exists(folder + @"\bin\win_x64\plugins"))
                     {
-                        if (
-                            File.Exists(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll") &&
-                            File.Exists(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll"))
+                        if (File.Exists(folder + @"\bin\win_x64\plugins\local-radio.dll"))
                         {
                             return true;
                         }
@@ -266,20 +264,10 @@ namespace ETS2_Local_Radio_server
                     if (result != DialogResult.Cancel)
                     {
                         string folder = folderDialog.SelectedPath;
-                        Directory.CreateDirectory(folder + @"\bin\win_x86\plugins");
                         Directory.CreateDirectory(folder + @"\bin\win_x64\plugins");
 
-                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\plugins\ets2-telemetry.dll",
-                            folder + @"\bin\win_x86\plugins\ets2-telemetry.dll", true);
-                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\ets2-telemetry.dll",
-                            folder + @"\bin\win_x64\plugins\ets2-telemetry.dll", true);
-                        if (result == DialogResult.Yes)
-                        {
-                            File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x86\d3d9.dll",
-                                folder + @"\bin\win_x86\d3d9.dll", true);
-                            File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\d3d9.dll",
-                                folder + @"\bin\win_x64\d3d9.dll", true);
-                        }
+                        File.Copy(Directory.GetCurrentDirectory() + @"\plugins\bin\win_x64\plugins\local-radio.dll",
+                            folder + @"\bin\win_x64\plugins\local-radio.dll", true);
 
                         if (game == "ets2")
                         {
@@ -320,6 +308,7 @@ namespace ETS2_Local_Radio_server
                     comboIP.Items.Add("http://" + ip.ToString() + ":" + Settings.Port);
                 }
             }
+            comboIP.Items.Add("http://localhost:" + Settings.Port);
             comboIP.SelectedIndex = 0;
         }
 
@@ -346,26 +335,30 @@ namespace ETS2_Local_Radio_server
             }
         }
 
-        private void Telemetry_Data(Ets2Telemetry data, bool updated)
+        private void Telemetry_Data(SCSTelemetry data, bool updated)
         {
+            if (!updated)
+            {
+                return;
+            }
             try
             {
                 if (this.InvokeRequired)
                 {
-                    this.Invoke(new TelemetryData(Telemetry_Data), new object[2] { data, updated });
+                    this.Invoke(new TelemetryData(Telemetry_Data), data, updated);
                     return;
                 }
 
                 ets2data = data;
-                coordinates = new Coordinates(data.Physics.CoordinateX, data.Physics.CoordinateY, data.Physics.CoordinateZ);
-                locationLabel.Text = coordinates.X + "; " + coordinates.Y + "; " + coordinates.Z;
+                coordinates = new Coordinates(data.TruckValues.Positioning.HeadPositionInWorldSpace.X, data.TruckValues.Positioning.HeadPositionInWorldSpace.Y, data.TruckValues.Positioning.HeadPositionInWorldSpace.Z);
+                locationLabel.Text = (int)coordinates.X + "; " + (int)coordinates.Y + "; " + (int)coordinates.Z;
 
-                if (data.Version.Ets2Major == 0)
+                if (data.SdkActive == false)
                 {
                     statusLabel.Text = simulatorNotRunning;
                     statusLabel.ForeColor = Color.Red;
                 }
-                else if (data.Time == 0)
+                else if (data.Timestamp == 0)
                 {
                     statusLabel.Text = simulatorNotDriving;
                     statusLabel.ForeColor = Color.DarkOrange;
@@ -382,28 +375,28 @@ namespace ETS2_Local_Radio_server
             }
         }
 
-        private static void DeleteException()
-        {
-            Process netsh = new Process();
-            string arguments = "advfirewall firewall delete rule name=\"ETS2 Local Radio\" dir=in protocol=TCP localport=" + Settings.Port;
-            netsh.StartInfo.FileName = "netsh";
-            netsh.StartInfo.Arguments = arguments;
-            netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            netsh.Start();
-        }
+        //private static void DeleteException()
+        //{
+        //    Process netsh = new Process();
+        //    string arguments = "advfirewall firewall delete rule name=\"ETS2 Local Radio\" dir=in protocol=TCP localport=" + Settings.Port;
+        //    netsh.StartInfo.FileName = "netsh";
+        //    netsh.StartInfo.Arguments = arguments;
+        //    netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+        //    netsh.Start();
+        //}
 
-        private static void AddException()
-        {
-            DeleteException();
-            // to prevent duplicates
+        //private static void AddException()
+        //{
+        //    DeleteException();
+        //    // to prevent duplicates
 
-            Process netsh = new Process();
-            string arguments = "advfirewall firewall add rule name=\"ETS2 Local Radio\" dir=in action=allow protocol=TCP localport=" + Settings.Port;
-            netsh.StartInfo.FileName = "netsh";
-            netsh.StartInfo.Arguments = arguments;
-            netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            netsh.Start();
-        }
+        //    Process netsh = new Process();
+        //    string arguments = "advfirewall firewall add rule name=\"ETS2 Local Radio\" dir=in action=allow protocol=TCP localport=" + Settings.Port;
+        //    netsh.StartInfo.FileName = "netsh";
+        //    netsh.StartInfo.Arguments = arguments;
+        //    netsh.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+        //    netsh.Start();
+        //}
 
         private void Main_FormClosing(object sender, EventArgs e)
         {
@@ -414,7 +407,7 @@ namespace ETS2_Local_Radio_server
                 Unsubscribe();
                 myServer.Stop();
                 writeFile("none", "0", "0");
-                DeleteException();
+                //DeleteException();
                 joystickTimer.Stop();
                 joystick.Release();
             }
@@ -846,24 +839,11 @@ namespace ETS2_Local_Radio_server
         {
             try
             {
-                DialogResult result = DialogResult.No;
-                    //MessageBox.Show(removeOverlay, "ETS2 Local Radio server",
-                    //MessageBoxButtons.YesNoCancel,
-                    //MessageBoxIcon.Question);
-                if (result != DialogResult.Cancel)
+                if (folderDialog.ShowDialog() == DialogResult.OK)
                 {
-                    if (folderDialog.ShowDialog() == DialogResult.OK)
-                    {
-                        var folder = folderDialog.SelectedPath;
-                        File.Delete(folder + @"\bin\win_x86\plugins\ets2-telemetry.dll");
-                        File.Delete(folder + @"\bin\win_x64\plugins\ets2-telemetry.dll");
+                    var folder = folderDialog.SelectedPath;
+                    File.Delete(folder + @"\bin\win_x64\plugins\local-radio.dll");
 
-                        if (result == DialogResult.Yes)
-                        {
-                            File.Delete(folder + @"\bin\win_x86\d3d9.dll");
-                            File.Delete(folder + @"\bin\win_x64\d3d9.dll");
-                        }
-                    }
                 }
                 CheckPlugins();
             }

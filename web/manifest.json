@@ -6,8 +6,8 @@
   "theme_color": "#39B54A",
   "description": "Plays radio from wherever you are.",
   "icons": [{
-    "src": "icon.png",
-    "sizes": "130x130",
+    "src": "lib/img/icon.png",
+    "sizes": "512x512",
     "type": "image/png"
   }]
 }
