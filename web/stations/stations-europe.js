@@ -3890,7 +3890,7 @@ var stations = {
         {
             name: "JOE",
             logo: "stations/images-europe/netherlands/JOE.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC_SC"
+            url: "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac"
         },
         {
             name: "KINK",
