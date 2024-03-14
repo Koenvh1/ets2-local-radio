@@ -1182,8 +1182,8 @@ var stations = {
             url: "https://ic2.sslstream.com/ktxw-am"
         },
         {
-            name: "KASE 101",
-            logo: "stations/images-america/austin/KASE 101.png",
+            name: "KASE 100.7",
+            logo: "stations/images-america/austin/KASE 100.7.png",
             url: "https://stream.revma.ihrhls.com/zc2165/hls.m3u8"
         },
         {
@@ -27299,8 +27299,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://ice42.securenetsystems.net/WHHZ"
         },
         {
-            name: "Classic Hits 100.9",
-            logo: "stations/images-america/c2c/gainesville_fl/Classic Hits 100.9.png",
+            name: "100.9 The Beach",
+            logo: "stations/images-america/c2c/gainesville_fl/100.9 The Beach.png",
             url: "http://216.246.103.221/index.php?u=https://ice66.securenetsystems.net/WXJZ"
         },
         {
