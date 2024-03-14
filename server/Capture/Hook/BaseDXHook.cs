@@ -104,7 +104,7 @@ namespace Capture.Hook
 
         protected void DebugMessage(string message)
         {
-#if DEBUG
+//#if DEBUG
             try
             {
                 Interface.Message(MessageType.Debug, HookName + ": " + message);
@@ -117,7 +117,7 @@ namespace Capture.Hook
             {
                 // Ignore all other exceptions
             }
-#endif
+//#endif
         }
 
         protected IntPtr[] GetVTblAddresses(IntPtr pointer, int numberOfMethods)

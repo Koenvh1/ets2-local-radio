@@ -14,3 +14,20 @@ F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\C
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CopyComplete
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.dll
 F:\Mods\ETS2\ETS2 Map Capture Tool\ets2-local-radio\server\Capture\obj\Release\Capture.pdb
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\EasyHook32.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\EasyHook32Svc.exe
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\EasyHook64.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\EasyHook64Svc.exe
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\EasyLoad32.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\EasyLoad64.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\Capture.dll.config
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\Capture.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\Capture.pdb
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.AssemblyReference.cache
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.Properties.Resources.resources
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.GenerateResource.cache
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CoreCompileInputs.cache
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.csproj.CopyComplete
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Release\Capture.pdb
+B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\sharpdx_direct3d11_1_effects_x64.dll

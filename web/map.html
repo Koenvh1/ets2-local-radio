@@ -123,8 +123,8 @@
 
     function showCurrentPosition() {
         $.getJSON(g_api + "/api/", function (data) {
-            var lat = -data.Physics.CoordinateZ;
-            var lon = data.Physics.CoordinateX;
+            var lat = -data.TruckValues.Positioning.HeadPositionInWorldSpace.Z;
+            var lon = data.TruckValues.Positioning.HeadPositionInWorldSpace.X;
             if(currentMarker == null) {
                 currentMarker = L.marker([lat, lon]).addTo(map).bindTooltip("<strong>Your current position</strong>", {
                     permanent: true,
