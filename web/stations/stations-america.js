@@ -2008,16 +2008,26 @@ var stations = {
             name: "KBST 103.9",
             logo: "stations/images-america/big_spring/KBST 103.9.png",
             url: "https://ice23.securenetsystems.net/KBSTAM"
-        },/*
+        },
         {
-            name: "105.5 The X",
-            logo: "stations/images-america/big_spring/105.5 The X.png",
-            url: "http://38.96.175.97:9288/;"
-        },*/
+            name: "105.5 The Legend",
+            logo: "stations/images-america/big_spring/105.5 The Legend.png",
+            url: "https://ais-sa8.cdnstream1.com/3359_128.mp3"
+        },
+        {
+            name: "106.3 Rewind",
+            logo: "stations/images-america/big_spring/106.3 Rewind.png",
+            url: "https://ais-sa8.cdnstream1.com/3372_128.mp3"
+        },
         {
             name: "Family Life Radio 107.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "KBST 1490",
+            logo: "stations/images-america/big_spring/KBST 103.9.png",
+            url: "http://ice23.securenetsystems.net/KBSTAM"
         },
     ],
     "billings": [
