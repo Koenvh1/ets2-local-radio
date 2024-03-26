@@ -5747,7 +5747,7 @@ var stations = {
         {
             name: "Metro FM",
             logo: "stations/images-europe/turkey/Metro FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM128AAC_SC"
         },
         {
             name: "NTV Radyo",
@@ -6309,6 +6309,11 @@ var stations = {
             name: "BBC Radio Cymru",
             logo: "stations/images-europe/wales/BBC Radio Cymru.png",
             url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru.m3u8"
+        },
+        {
+            name: "BBC Radio Cymru 2",
+            logo: "stations/images-europe/wales/BBC Radio Cymru 2.png",
+            url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru_2.m3u8"
         },
     ],
     "westbank": [

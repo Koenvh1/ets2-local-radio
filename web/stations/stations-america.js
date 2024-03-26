@@ -637,7 +637,7 @@ var stations = {
         },
         {
             name: "Sunny 99.9-HD2",
-            logo: "stations/images-america/albuquerque/RAVE 99.9-HD2.png",
+            logo: "stations/images-america/albuquerque/Sunny 99.9-HD2.png",
             url: "https://ice41.securenetsystems.net/THEPLANETHD3"
         },
         {
@@ -15862,9 +15862,9 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KKFT"
         },
         {
-            name: "100.1 We FM",
-            logo: "stations/images-america/reno/100.1 We FM.png",
-            url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWEEFMAAC_SC"
+            name: "100.1 HANK FM",
+            logo: "stations/images-america/reno/100.1 HANK FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWEEFMAAC_SC"
         },
         {
             name: "FUN 101",
@@ -18449,9 +18449,9 @@ var stations = {
             url: "http://www.streamcontrol.net:12010/stream"
         },
         {
-            name: "92.7 The Hustle",
-            logo: "stations/images-america/san_francisco/92.7 The Hustle.png",
-            url: "https://ice42.securenetsystems.net/KREV"
+            name: "92.7 KEXC-FM",
+            logo: "stations/images-america/seattle/KEXP 90.3.png",
+            url: "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
         },
         {
             name: "La Raza 93.3",
@@ -20709,6 +20709,11 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "Air1 88.1-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "NPR 89.1",
             logo: "stations/images-america/tucson/NPR 89.1.png",
             url: "https://azpm.streamguys1.com/kuaz128.aac"
@@ -20744,6 +20749,11 @@ var stations = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFMAAC_SC"
         },
         {
+            name: "92.1 KCMT-HD2",
+            logo: "stations/images-america/tucson/Éxito 93.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC_SC"
+        },
+        {
             name: "92.5 Urbana",
             logo: "stations/images-america/tucson/92.5 Urbana.png",
             url: "https://ice42.securenetsystems.net/KZLZHD2"
@@ -20754,9 +20764,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
-            name: "Love Songs Radio 92.9-HD2",
-            logo: "stations/images-america/tucson/Love Songs Radio 92.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6790/hls.m3u8"
+            name: "Éxito 93.3",
+            logo: "stations/images-america/tucson/Éxito 93.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC.aac"
         },
         {
             name: "93.7 KRQ",
@@ -20792,11 +20802,6 @@ var stations = {
             name: "HOT 98.3",
             logo: "stations/images-america/tucson/Hot 98.3.png",
             url: "https://stream.revma.ihrhls.com/zc73/hls.m3u8"
-        },
-        {
-            name: "Slow Jams 98.3-HD2",
-            logo: "stations/images-america/0_general_logos/Slow Jams.png",
-            url: "https://stream.revma.ihrhls.com/zc4719/hls.m3u8"
         },
         {
             name: "KJZZ 98.9",
@@ -27100,8 +27105,8 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WIRKFMAAC_SC"
         },
         {
-            name: "103.7 WQOL",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/103.7 WQOL.png",
+            name: "Coast 103.7",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Coast 103.7.png",
             url: "https://stream.revma.ihrhls.com/zc2716/hls.m3u8"
         },
         {
@@ -46410,6 +46415,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDEFFMAAC_SC"
         },
         {
+            name: "LF Radio 92.7",
+            logo: "stations/images-america/0_general_logos/LF Radio.png",
+            url: "https://rtn.cdnstream1.com/2582_96.aac"
+        },
+        {
             name: "G93",
             logo: "stations/images-america/c2c/chattanooga_tn/G93.png",
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
@@ -46420,9 +46430,19 @@ var stations_c2c = {
             url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/brewerchattanooga-wjttfmaac-ibc4"
         },
         {
-            name: "ESPN 95.3",
-            logo: "stations/images-america/c2c/chattanooga_tn/ESPN 95.3.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/brewerchattanooga-walvfmaac-ibc4"
+            name: "The JOY FM 95.3",
+            logo: "stations/images-america/0_general_logos/The JOY FM.png",
+            url: "https://rtn.cdnstream1.com/2579_96.aac"
+        },
+        {
+            name: "JOY Worship 95.3-HD2",
+            logo: "stations/images-america/0_general_logos/JOY Worship.png",
+            url: "http://rtn.cdnstream1.com/2581_96.aac"
+        },
+        {
+            name: "LF Radio 95.3-HD4",
+            logo: "stations/images-america/0_general_logos/LF Radio.png",
+            url: "http://rtn.cdnstream1.com/2582_96.aac"
         },
         {
             name: "WFLI 96.1",
@@ -46495,9 +46515,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSKZFMAAC_SC"
         },
         {
-            name: "BIG 106.9",
-            logo: "stations/images-america/c2c/chattanooga_tn/BIG 106.9.png",
-            url: "http://216.246.103.221/index.php?u=http://live.amperwave.net/direct/brewerchattanooga-wplzfmaac-ibc4"
+            name: "JOY Worship 106.9",
+            logo: "stations/images-america/0_general_logos/JOY Worship.png",
+            url: "https://rtn.cdnstream1.com/2581_96.aac"
         },
         {
             name: "WNOO 107.3",
