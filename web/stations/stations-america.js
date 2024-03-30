@@ -758,7 +758,7 @@ var stations = {
         {
             name: "TUDN Radio 1450",
             logo: "stations/images-america/albuquerque/TUDN Radio 1450.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
     ],
     "amarillo": [
@@ -1863,7 +1863,7 @@ var stations = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/houston/TUDN Radio 93.3.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "Q94",
@@ -4970,7 +4970,7 @@ var stations = {
         {
             name: "TUDN Radio 1270",
             logo: "stations/images-america/dallas_fort_worth/TUDN Radio 1270.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "1310 The Ticket",
@@ -5552,7 +5552,7 @@ var stations = {
         {
             name: "TUDN Radio 1090",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "Onda 1150",
@@ -6440,7 +6440,7 @@ var stations = {
         {
             name: "TUDN Radio 1650",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
     ],
     "ely": [
@@ -8037,7 +8037,7 @@ var stations = {
         {
             name: "TUDN Radio 1090",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "Relevant Radio 1120",
@@ -9024,7 +9024,7 @@ var stations = {
         {
             name: "TUDN Radio 93.3",
             logo: "stations/images-america/houston/TUDN Radio 93.3.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "93.7 The Beat",
@@ -11514,7 +11514,7 @@ var stations = {
         {
             name: "TUDN Radio 870",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "Raider Nation Radio 920",
@@ -12415,7 +12415,7 @@ var stations = {
         {
             name: "TUDN Radio 1460",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
     ],
     "ludlow": [
@@ -12878,7 +12878,7 @@ var stations = {
         {
             name: "TUDN Radio 96.1-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "96.9 KVMV",
@@ -19415,7 +19415,7 @@ var stations = {
         {
             name: "TUDN Radio 710",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6&aw_0_1st.playerId=tunein"
         },
         {
             name: "970 KVWM",
