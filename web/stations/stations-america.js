@@ -47035,7 +47035,7 @@ var stations_c2c = {
         {
             name: "Classic Rock 93.1",
             logo: "stations/images-america/c2c/knoxville_tn/Classic Rock 93.1.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7699_128k.aac"
+            url: "https://stream.rcs.revma.com/0ppbn2sfz7uvv"
         },
         {
             name: "93.7 W229DO",
@@ -47080,7 +47080,7 @@ var stations_c2c = {
         {
             name: "Star 102.1",
             logo: "stations/images-america/c2c/knoxville_tn/Star 102.1.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7700_128k.aac"
+            url: "https://stream.rcs.revma.com/7qr4vfvfz7uvv"
         },
         {
             name: "103.5 WIMZ",
@@ -47095,7 +47095,7 @@ var stations_c2c = {
         {
             name: "Hot 104.5",
             logo: "stations/images-america/c2c/knoxville_tn/Hot 104.5.png",
-            url: "http://216.246.103.221/index.php?u=https://ais-sa1.streamon.fm/7698_128k.aac"
+            url: "https://stream.rcs.revma.com/k15hbcmfz7uvv"
         },
         {
             name: "104.9 KVL",
@@ -47120,7 +47120,7 @@ var stations_c2c = {
         {
             name: "106.1 VLZ",
             logo: "stations/images-america/c2c/knoxville_tn/106.1 VLZ.png",
-            url: "http://n05.radiojar.com/n360xb16a0quv"
+            url: "https://stream.radiojar.com/n360xb16a0quv"
         },
         {
             name: "WIVK 107.7",
