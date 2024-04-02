@@ -28206,7 +28206,7 @@ var stations_c2c = {
         {
             name: "95.3 The Beach",
             logo: "stations/images-america/c2c/fort_myers_fl/95.3 The Beach.png",
-            url: "https://stream.revma.ihrhls.com/zc4490/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc493/hls.m3u8"
         },
         {
             name: "95.3 WOLZ-HD2",
