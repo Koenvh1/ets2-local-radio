@@ -18940,8 +18940,8 @@ var stations = {
             url: "https://classicalking.streamguys1.com/evergreen-aac-128k"
         },
         {
-            name: "98.9 KPNW",
-            logo: "stations/images-america/seattle/98.9 KPNW.png",
+            name: "98.9 The Bull",
+            logo: "stations/images-america/seattle/98.9 The Bull.png",
             url: "http://216.246.103.221/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPNWFMAAC_SC"
         },
         {
@@ -18980,8 +18980,8 @@ var stations = {
             url: "http://67.212.165.106:8239/stream"
         },
         {
-            name: "Star 101.5",
-            logo: "stations/images-america/seattle/Star 101.5.png",
+            name: "101.5 HANK FM",
+            logo: "stations/images-america/seattle/101.5 HANK FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLZFMAAC_SC"
         },
         {
