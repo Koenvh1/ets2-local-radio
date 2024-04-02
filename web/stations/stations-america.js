@@ -28181,7 +28181,7 @@ var stations_c2c = {
         {
             name: "Kix Country 92.9",
             logo: "stations/images-america/c2c/fort_myers_fl/Kix Country 92.9.png",
-            url: "https://stream.revma.ihrhls.com/zc493/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc4490/hls.m3u8"
         },
         {
             name: "93.3 TigerFM",
