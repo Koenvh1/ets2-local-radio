@@ -27037,7 +27037,7 @@ var stations_c2c = {
         {
             name: "Revolution 93.5",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "https://everestcast.shoutcastservices.com:2225/stream"
+            url: "https://centova87.shoutcastservices.com/proxy/revolution935/stream"
         },/*
         {
             name: "93.7 GYL",
@@ -27944,7 +27944,7 @@ var stations_c2c = {
         {
             name: "Revolution 93.5",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "https://everestcast.shoutcastservices.com:2225/stream"
+            url: "https://centova87.shoutcastservices.com/proxy/revolution935/stream"
         },
         {
             name: "Magic 93.9",
@@ -28014,7 +28014,7 @@ var stations_c2c = {
         {
             name: "100.7 WHYI-HD2",
             logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "https://everestcast.shoutcastservices.com:2225//stream"
+            url: "http://centova87.shoutcastservices.com/proxy/revolution935/stream"
         },
         {
             name: "Pride Radio 100.7-HD3",
