@@ -5440,9 +5440,9 @@ var stations = {
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
-            name: "JAMMIN’ 101.5",
-            logo: "stations/images-america/denver/JAMMIN’ 101.5.png",
-            url: "https://live.amperwave.net/manifest/maxmedia-kjhmfmaac-ibc1"
+            name: "Star 101.5",
+            logo: "stations/images-america/denver/Star 101.5.png",
+            url: "https://pillar.streamguys1.com/KSRC"
         },
         {
             name: "101.9 Way FM",
@@ -5495,9 +5495,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7784/hls.m3u8"
         },
         {
-            name: "FLO 107.1",
-            logo: "stations/images-america/denver/FLO 107.1.png",
-            url: "https://live.amperwave.net/manifest/maxmedia-kfcofmaac-ibc1"
+            name: "Kingdom 107.1",
+            logo: "stations/images-america/denver/Kingdom 107.1.png",
+            url: "https://pillar.streamguys1.com/KNDM"
         },
         {
             name: "KS 107.5",
@@ -19975,9 +19975,9 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "JAMMIN’ 101.5",
-            logo: "stations/images-america/denver/JAMMIN’ 101.5.png",
-            url: "https://live.amperwave.net/manifest/maxmedia-kjhmfmaac-ibc1"
+            name: "Star 101.5",
+            logo: "stations/images-america/denver/Star 101.5.png",
+            url: "https://pillar.streamguys1.com/KSRC"
         },
         {
             name: "102.5 K273DC",
@@ -19995,9 +19995,9 @@ var stations = {
             url: "http://newerastreaming.com:9006/stream"
         },
         {
-            name: "FLO 107.1",
-            logo: "stations/images-america/denver/FLO 107.1.png",
-            url: "https://live.amperwave.net/manifest/maxmedia-kfcofmaac-ibc1"
+            name: "Kingdom 107.1",
+            logo: "stations/images-america/denver/Kingdom 107.1.png",
+            url: "https://pillar.streamguys1.com/KNDM"
         },
         {
             name: "GraceFM 107.7",
@@ -27269,8 +27269,8 @@ var stations_c2c = {
             url: "https://ais-sa1.streamon.fm/7648_48k.aac"
         },
         {
-            name: "89.5 WMFV",
-            logo: "stations/images-america/c2c/gainesville_fl/89.5 WMFV.png",
+            name: "89.5 Central Florida Public Media",
+            logo: "stations/images-america/0_general_logos/Central Florida Public Media.png",
             url: "https://wmfe-iad.streamguys1.com/wmfv"
         },
         {
@@ -28428,13 +28428,13 @@ var stations_c2c = {
             url: "https://peridot.streamguys1.com:7835/WUCF-HD2"
         },
         {
-            name: "90.7 WMFE",
-            logo: "stations/images-america/c2c/orlando_fl/90.7 WMFE.png",
+            name: "90.7 Central Florida Public Media",
+            logo: "stations/images-america/0_general_logos/Central Florida Public Media.png",
             url: "https://wmfe-iad.streamguys1.com/wmfe"
         },
         {
             name: "Classical 90.7-HD2",
-            logo: "stations/images-america/c2c/orlando_fl/90.7 WMFE.png",
+            logo: "stations/images-america/0_general_logos/Central Florida Public Media.png",
             url: "https://wmfe-iad.streamguys1.com/wmfe2"
         },
         {

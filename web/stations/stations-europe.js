@@ -4182,6 +4182,16 @@ var stations = {
             url: "https://p10.p4groupaudio.com/P10_MM"
         },
         {
+            name: "P11 Dance",
+            logo: "stations/images-europe/norway/P11 Dance.png",
+            url: "https://p11.p4groupaudio.com/P11_MM"
+        },
+        {
+            name: "P12 Bandit",
+            logo: "stations/images-europe/norway/P11 Dance.png",
+            url: "https://p12.p4groupaudio.com/BAN_AM"
+        },
+        {
             name: "NRJ Norge",
             logo: "stations/images-europe/norway/Energy.png",
             url: "https://nrj.p4groupaudio.com/NRJ_MM"
