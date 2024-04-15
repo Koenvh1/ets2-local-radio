@@ -14922,8 +14922,13 @@ var stations = {
             url: "https://sonic-ca.instainternet.com:8068/stream"
         },
         {
-            name: "La Suavecita 106.7",
-            logo: "stations/images-america/phoenix/La Suavecita.png",
+            name: "Fuego 106.7",
+            logo: "stations/images-america/phoenix/Fuego 106.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC_SC"
+        },
+        {
+            name: "La Suavecita 107.1",
+            logo: "stations/images-america/phoenix/La Suavecita 107.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVVAFMAAC_SC"
         },
         {
