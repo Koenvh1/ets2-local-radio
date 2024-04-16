@@ -35393,7 +35393,7 @@ var stations_c2c = {
         {
             name: "CRB 99.5",
             logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
-            url: "https://streams.audio.wgbh.org:8204/classical-hi"
+            url: "https://wgbh-live.streamguys1.com/WCRB.mp3"
         },
         {
             name: "100.7 WZLX",
@@ -45742,7 +45742,7 @@ var stations_c2c = {
         {
             name: "88.7 WJMF",
             logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
-            url: "https://streams.audio.wgbh.org:8204/classical-hi"
+            url: "https://wgbh-live.streamguys1.com/WCRB.mp3"
         },
         {
             name: "88.7 WJMF-HD2",
@@ -45805,8 +45805,8 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "Rádio Renascer 96.5",
-            logo: "stations/images-america/c2c/providence_ri/Rádio Renascer 96.5.png",
+            name: "Radio Renacer 96.5",
+            logo: "stations/images-america/c2c/providence_ri/Radio Renacer 96.5.png",
             url: "http://198.7.59.28:8072/stream/1/"
         },
         {
