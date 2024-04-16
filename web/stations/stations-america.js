@@ -35501,6 +35501,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc7729/hls.m3u8"
         },
         {
+            name: "1060 WQOM",
+            logo: "stations/images-america/c2c/boston_ma/1060 WQOM.png",
+            url: "https://hfc.streamguys1.com/wqom"
+        },
+        {
             name: "Talk 1200",
             logo: "stations/images-america/c2c/boston_ma/Talk 1200.png",
             url: "https://stream.revma.ihrhls.com/zc4705/hls.m3u8"
@@ -45730,7 +45735,17 @@ var stations_c2c = {
     ],
     "providence": [
         {
-            name: "WJMF Radio 88.7",
+            name: "WELH 88.1",
+            logo: "stations/images-america/c2c/providence_ri/WELH 88.1.png",
+            url: "http://us5freenew.listen2myradio.com:24385/;"
+        },
+        {
+            name: "88.7 WJMF",
+            logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
+            url: "https://streams.audio.wgbh.org:8204/classical-hi"
+        },
+        {
+            name: "88.7 WJMF-HD2",
             logo: "stations/images-america/c2c/providence_ri/WJMF Radio 88.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJMFFMAAC_SC"
         },
@@ -45740,9 +45755,19 @@ var stations_c2c = {
             url: "https://amber.streamguys1.com:5595/riprdeskweb-aac"
         },
         {
+            name: "BBC World Service 89.3-HD2",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+        },
+        {
             name: "GBH 89.7",
             logo: "stations/images-america/c2c/boston_ma/GBH 89.7.png",
             url: "https://streams.audio.wgbh.org/wgbh"
+        },
+        {
+            name: "WDOM 91.3",
+            logo: "stations/images-america/c2c/providence_ri/WDOM 91.3.png",
+            url: "https://stream.radio.co/s5fd907876/listen"
         },
         {
             name: "92 PRO FM",
@@ -45750,9 +45775,24 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPROFMAAC_SC"
         },
         {
+            name: "92.7 W224DG",
+            logo: "stations/images-america/c2c/hartford_ct/Life Changing Radio.png",
+            url: "https://ic1.sslstream.com/warv-fm"
+        },
+        {
             name: "NOW 93.3",
             logo: "stations/images-america/c2c/providence_ri/NOW 93.3.png",
             url: "https://stream.revma.ihrhls.com/zc2053/hls.m3u8"
+        },
+        {
+            name: "93.3 WSNE-HD2",
+            logo: "stations/images-america/c2c/providence_ri/920 WHJJ.png",
+            url: "http://stream.revma.ihrhls.com/zc3223/hls.m3u8"
+        },
+        {
+            name: "94HJY",
+            logo: "stations/images-america/c2c/providence_ri/94HJY.png",
+            url: "https://stream.revma.ihrhls.com/zc2049/hls.m3u8"
         },
         {
             name: "La Mega 94.9",
@@ -45760,9 +45800,39 @@ var stations_c2c = {
             url: "https://cast6.asurahosting.com/proxy/radiosha/stream"
         },
         {
-            name: "94HJY",
-            logo: "stations/images-america/c2c/providence_ri/94HJY.png",
-            url: "https://stream.revma.ihrhls.com/zc2049/hls.m3u8"
+            name: "K-LOVE 95.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Rádio Renascer 96.5",
+            logo: "stations/images-america/c2c/providence_ri/Rádio Renascer 96.5.png",
+            url: "http://198.7.59.28:8072/stream/1/"
+        },
+        {
+            name: "WJFD 97.3",
+            logo: "stations/images-america/c2c/providence_ri/WJFD 97.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJFDFMAAC_SC"
+        },
+        {
+            name: "Cat Country 98.1",
+            logo: "stations/images-america/c2c/providence_ri/Cat Country 98.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCTKFMAAC_SC"
+        },
+        {
+            name: "98.1 WCTK-HD2",
+            logo: "stations/images-america/c2c/providence_ri/BIG 101.3.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNBHAMAAC_SC"
+        },
+        {
+            name: "99.9 W260DC",
+            logo: "stations/images-america/c2c/providence_ri/WNRI.png",
+            url: "https://1.ice1.sslstream.com/wnri_am.aac"
+        },
+        {
+            name: "Latina 100.3",
+            logo: "stations/images-america/c2c/providence_ri/Latina 100.3.png",
+            url: "https://crystalout.surfernetwork.com:8001/WKKB-FM_MP3"
         },
         {
             name: "WBRU 101.1",
@@ -45775,9 +45845,24 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3217/hls.m3u8"
         },
         {
+            name: "Poder 102.1",
+            logo: "stations/images-america/c2c/providence_ri/Poder.png",
+            url: "https://ice6.securenetsystems.net/WPMZ"
+        },
+        {
+            name: "102.9 W275DA",
+            logo: "stations/images-america/c2c/providence_ri/The Public's Radio 89.3.png",
+            url: "https:///amber.streamguys1.com:5595/riprdeskweb-aac"
+        },
+        {
             name: "WEEI 103.7",
             logo: "stations/images-america/c2c/providence_ri/WEEI 103.7.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wveifmaac-imc"
+        },
+        {
+            name: "104.7 WHJJ",
+            logo: "stations/images-america/c2c/providence_ri/920 WHJJ.png",
+            url: "https://stream.revma.ihrhls.com/zc3223"
         },
         {
             name: "Lite 105",
@@ -45790,6 +45875,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKXFMAAC_SC"
         },
         {
+            name: "Relevant Radio 107.5",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
             name: "630 WPRO",
             logo: "stations/images-america/c2c/providence_ri/630 WPRO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPROAMAAC_SC"
@@ -45800,9 +45890,49 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPRVAMAAC_SC"
         },
         {
-            name: "News Radio 920",
-            logo: "stations/images-america/c2c/providence_ri/News Radio 920.png",
+            name: "920 WHJJ",
+            logo: "stations/images-america/c2c/providence_ri/920 WHJJ.png",
             url: "https://stream.revma.ihrhls.com/zc3223/hls.m3u8"
+        },
+        {
+            name: "1060 WQOM",
+            logo: "stations/images-america/c2c/boston_ma/1060 WQOM.png",
+            url: "https://hfc.streamguys1.com/wqom"
+        },
+        {
+            name: "Poder 1110",
+            logo: "stations/images-america/c2c/providence_ri/Poder.png",
+            url: "https://ice6.securenetsystems.net/WPMZ"
+        },
+        {
+            name: "WSTL 1220",
+            logo: "stations/images-america/c2c/providence_ri/La Mega 94.9.png",
+            url: "http://cast6.asurahosting.com/proxy/radiosha/stream"
+        },
+        {
+            name: "WPVD 1290",
+            logo: "stations/images-america/c2c/providence_ri/The Public's Radio 89.3.png",
+            url: "http://amber.streamguys1.com:5595/riprdeskweb-aac"
+        },
+        {
+            name: "WARA 1320",
+            logo: "stations/images-america/c2c/providence_ri/WARA 1320.png",
+            url: "https://s6.reliastream.com/proxy/jamjones?mp=/stream"
+        },
+        {
+            name: "WNRI 1380",
+            logo: "stations/images-america/c2c/providence_ri/WNRI.png",
+            url: "http://1.ice1.sslstream.com/wnri_am.aac"
+        },
+        {
+            name: "WWRI 1450",
+            logo: "stations/images-america/c2c/providence_ri/WWRI 1450.png",
+            url: "https://ice64.securenetsystems.net/WWRI"
+        },
+        {
+            name: "Life Changing Radio 1590",
+            logo: "stations/images-america/c2c/hartford_ct/Life Changing Radio.png",
+            url: "https://ic1.sslstream.com/warv-fm"
         },
     ],
     "charleston_sc": [
