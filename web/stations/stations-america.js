@@ -40572,8 +40572,8 @@ var stations_c2c = {
             url: "http://wcny-ice.streamguys1.com/wcnyhd2"
         },
         {
-            name: "Jazz 91.3-HD3",
-            logo: "stations/images-america/c2c/syracuse_ny/Jazz 91.3-HD3.png",
+            name: "Community FM 91.3-HD3",
+            logo: "stations/images-america/c2c/syracuse_ny/Community FM 91.3-HD3.png",
             url: "http://wcny-ice.streamguys1.com/Jazz"
         },
         {
@@ -40784,14 +40784,64 @@ var stations_c2c = {
     ],
     "utica_ny": [
         {
+            name: "K-LOVE 88.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "WHCL 88.7",
+            logo: "stations/images-america/c2c/utica_ny/WHCL 88.7.png",
+            url: "http://150.209.66.45:8000/stream"
+        },
+        {
+            name: "Rejoice Radio 89.1",
+            logo: "stations/images-america/0_general_logos/Rejoice Radio.png",
+            url: "https://rejoiceradio.streamguys1.com/live"
+        },
+        {
+            name: "WUNY 89.5",
+            logo: "stations/images-america/c2c/syracuse_ny/Classic FM 91.3.png",
+            url: "http://wcny-ice.streamguys1.com/classical-fm-hq"
+        },
+        {
+            name: "Oldies 89.5-HD2",
+            logo: "stations/images-america/c2c/syracuse_ny/Oldies 91.3-HD2.png",
+            url: "http://wcny-ice.streamguys1.com/wcnyhd2"
+        },
+        {
+            name: "Community FM 89.5-HD3",
+            logo: "stations/images-america/c2c/syracuse_ny/Community FM 91.3-HD3.png",
+            url: "http://wcny-ice.streamguys1.com/Jazz"
+        },
+        {
+            name: "WRUN 90.3",
+            logo: "stations/images-america/0_general_logos/WAMC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFMAAC_SC"
+        },
+        {
             name: "WPNR 90.7",
             logo: "stations/images-america/c2c/utica_ny/WPNR 90.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPNRFMAAC_SC"
         },
         {
-            name: "WRVO 91.9",
+            name: "WRVN 91.9",
             logo: "stations/images-america/c2c/utica_ny/WRVO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM_SC"
+        },
+        {
+            name: "WIBX 92.3",
+            logo: "stations/images-america/c2c/utica_ny/WIBX.png",
+            url: "http://live.amperwave.net/manifest/townsquare-wibxamaac-ibc3"
+        },
+        {
+            name: "92.7 The Drive",
+            logo: "stations/images-america/c2c/utica_ny/92.7 The Drive.png",
+            url: "https://ice6.securenetsystems.net/WXUR"
+        },
+        {
+            name: "Air1 93.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "94.9 KROCK",
@@ -40859,9 +40909,39 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wfrgfmaac-ibc3"
         },
         {
+            name: "105.5 KISS FM",
+            logo: "stations/images-america/c2c/utica_ny/97.9 KISS FM.png",
+            url: "https://ice5.securenetsystems.net/WSKS"
+        },
+        {
+            name: "Family Life 106.3",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "https://fln01.sslstream.com/fln-familylife-aac"
+        },
+        {
+            name: "570 WSYR",
+            logo: "stations/images-america/c2c/syracuse_ny/570 WSYR.png",
+            url: "https://stream.revma.ihrhls.com/zc1537/hls.m3u8"
+        },
+        {
             name: "WIBX 950",
-            logo: "stations/images-america/c2c/utica_ny/WIBX 950.png",
+            logo: "stations/images-america/c2c/utica_ny/WIBX.png",
             url: "https://live.amperwave.net/manifest/townsquare-wibxamaac-ibc3"
+        },
+        {
+            name: "1310 ESPN",
+            logo: "stations/images-america/c2c/utica_ny/96.5 ESPN.png",
+            url: "http://ice5.securenetsystems.net/WTLBAM"
+        },
+        {
+            name: "WNRS 1420",
+            logo: "stations/images-america/c2c/utica_ny/El Zorro 98.3.png",
+            url: "http://s2.radio.co/se796ec348/listen"
+        },
+        {
+            name: "WUSP 1550",
+            logo: "stations/images-america/c2c/utica_ny/95.5 The Heat.png",
+            url: "http://stream.radio.co/s8cdb7071c/listen"
         },
     ],
     "asheville_nc": [
