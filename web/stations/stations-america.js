@@ -40644,7 +40644,7 @@ var stations_c2c = {
         {
             name: "iHeart 2000s 107.9-HD3",
             logo: "stations/images-america/0_general_logos/iHeart2000s.png",
-            url: "https://stream.revma.ihrhls.com/zc6834/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc6850/hls.m3u8"
         },
         {
             name: "570 WSYR",
