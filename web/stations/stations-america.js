@@ -40487,6 +40487,26 @@ var stations_c2c = {
             url: "http://wcny-ice.streamguys1.com/Jazz"
         },
         {
+            name: "92.1 The Wolf",
+            logo: "stations/images-america/c2c/syracuse_ny/92.1 The Wolf.png",
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice3.securenetsystems.net/WWLF"
+        },
+        {
+            name: "92.1 WOLF-HD2",
+            logo: "stations/images-america/c2c/syracuse_ny/The Dinosaur 1390.png",
+            url: "http://ice23.securenetsystems.net/WNDR"
+        },
+        {
+            name: "92.1 WOLF-HD3",
+            logo: "stations/images-america/c2c/syracuse_ny/96.5 The Beat.png",
+            url: "http:///shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice5.securenetsystems.net/WOLF"
+        },
+        {
+            name: "FOX Sports 92.5",
+            logo: "stations/images-america/c2c/syracuse_ny/FOX Sports Syracuse.png",
+            url: "https://ice41.securenetsystems.net/WOLFAM"
+        },
+        {
             name: "93Q",
             logo: "stations/images-america/c2c/syracuse_ny/93Q.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTQFMAAC_SC"
@@ -40502,9 +40522,14 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1549/hls.m3u8"
         },
         {
-            name: "Pride Radio 94.5-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            name: "iHeart 80s 94.5-HD2",
+            logo: "stations/images-america/0_general_logos/iHeart80s.png",
+            url: "https://stream.revma.ihrhls.com/zc5060/hls.m3u8"
+        },
+        {
+            name: "The Breeze 94.5-HD3",
+            logo: "stations/images-america/0_general_logos/The Breeze.png",
+            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
         },
         {
             name: "95X",
@@ -40512,9 +40537,19 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAQXFMAAC_SC"
         },
         {
+            name: "96.5 The Beat",
+            logo: "stations/images-america/c2c/syracuse_ny/96.5 The Beat.png",
+            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice5.securenetsystems.net/WOLF"
+        },
+        {
             name: "ESPN 97.7",
-            logo: "stations/images-america/c2c/syracuse_ny/ESPN 97.7.png",
+            logo: "stations/images-america/c2c/syracuse_ny/ESPN Syracuse.png",
             url: "https://ice66.securenetsystems.net/WTLA"
+        },
+        {
+            name: "Family Life 98.3",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "https://fln01.sslstream.com/fln-familylife-aac"
         },
         {
             name: "TK99",
@@ -40522,9 +40557,24 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/galaxy-wtkwfmaac-ibc1"
         },
         {
+            name: "I-100",
+            logo: "stations/images-america/c2c/syracuse_ny/I-100.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-wiiifmaac-imc"
+        },
+        {
             name: "100.9 KROCK",
             logo: "stations/images-america/c2c/utica_ny/94.9 KROCK.png",
             url: "https://live.amperwave.net/manifest/galaxy-wkllfmaac-ibc1"
+        },
+        {
+            name: "101.3 W267AL",
+            logo: "stations/images-america/c2c/syracuse_ny/570 WSYR.png",
+            url: "https://stream.revma.ihrhls.com/zc1537"
+        },
+        {
+            name: "101.7 W269DT",
+            logo: "stations/images-america/c2c/syracuse_ny/Power 620.png",
+            url: "https://stream.revma.ihrhls.com/zc1533"
         },
         {
             name: "SUNNY 102.1",
@@ -40532,14 +40582,54 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/galaxy-wzunfmaac-ibc1"
         },
         {
+            name: "Mars Hill Radio 102.9",
+            logo: "stations/images-america/c2c/albany_ny/Mars Hill Radio 96.7.png",
+            url: "https://ic1.christiannetcast.com/wmhr-ir"
+        },
+        {
+            name: "103.5 W278AH",
+            logo: "stations/images-america/c2c/syracuse_ny/The Word 99.7.png",
+            url: "https://streaming.live365.com/a10665"
+        },
+        {
+            name: "BIG FROG 104",
+            logo: "stations/images-america/c2c/syracuse_ny/BIG FROG 104.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wfrgfmaac-ibc3"
+        },
+        {
             name: "B104.7",
             logo: "stations/images-america/c2c/syracuse_ny/B104.7.png",
             url: "https://stream.revma.ihrhls.com/zc1525/hls.m3u8"
         },
         {
-            name: "WSYR 106.9",
-            logo: "stations/images-america/c2c/syracuse_ny/WSYR 106.9.png",
-            url: "https://stream.revma.ihrhls.com/zc1537/hls.m3u8"
+            name: "iHeartCountry 80s 104.7-HD2",
+            logo: "stations/images-america/0_general_logos/iHeartCountry 80s.png",
+            url: "https://stream.revma.ihrhls.com/zc6836/hls.m3u8"
+        },
+        {
+            name: "iHeart New Country 104.7-HD3",
+            logo: "stations/images-america/0_general_logos/iHeart New Country.png",
+            url: "https://stream.revma.ihrhls.com/zc4712/hls.m3u8"
+        },
+        {
+            name: "Family Life 105.1",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "http://fln01.sslstream.com/fln-familylife-aac"
+        },
+        {
+            name: "K-LOVE 105.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "The Voice 106.3",
+            logo: "stations/images-america/c2c/syracuse_ny/The Voice.png",
+            url: "https://ice64.securenetsystems.net/WVOA"
+        },
+        {
+            name: "106.9 WSYR",
+            logo: "stations/images-america/c2c/syracuse_ny/570 WSYR.png",
+            url: "http://stream.revma.ihrhls.com/zc1537"
         },
         {
             name: "HOT 107.9",
@@ -40547,14 +40637,54 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1545/hls.m3u8"
         },
         {
-            name: "iHeart90s 107.9-HD2",
+            name: "iHeart 90s 107.9-HD2",
             logo: "stations/images-america/0_general_logos/iHeart90s.png",
             url: "https://stream.revma.ihrhls.com/zc6834/hls.m3u8"
+        },
+        {
+            name: "iHeart 2000s 107.9-HD3",
+            logo: "stations/images-america/0_general_logos/iHeart2000s.png",
+            url: "https://stream.revma.ihrhls.com/zc6834/hls.m3u8"
+        },
+        {
+            name: "570 WSYR",
+            logo: "stations/images-america/c2c/syracuse_ny/570 WSYR.png",
+            url: "https://stream.revma.ihrhls.com/zc1537/hls.m3u8"
         },
         {
             name: "Power 620",
             logo: "stations/images-america/c2c/syracuse_ny/Power 620.png",
             url: "https://stream.revma.ihrhls.com/zc1533/hls.m3u8"
+        },
+        {
+            name: "ESPN 1200",
+            logo: "stations/images-america/c2c/syracuse_ny/ESPN Syracuse.png",
+            url: "http://ice66.securenetsystems.net/WTLA"
+        },
+        {
+            name: "The Score 1260",
+            logo: "stations/images-america/c2c/syracuse_ny/The Score 1260.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSKOAMAAC_SC"
+        },
+        {
+            name: "The Dinosaur 1390",
+            logo: "stations/images-america/c2c/syracuse_ny/The Dinosaur 1390.png",
+            url: "https://ice23.securenetsystems.net/WNDR"
+        },
+        {
+            name: "ESPN 1440",
+            logo: "stations/images-america/c2c/syracuse_ny/ESPN Syracuse.png",
+            url: "http:///ice66.securenetsystems.net/WTLA"
+        },
+        {
+            name: "FOX Sports 1490",
+            logo: "stations/images-america/c2c/syracuse_ny/FOX Sports Syracuse.png",
+            url: "http://ice41.securenetsystems.net/WOLFAM"
+        },
+        {
+            name: "The Voice 1540",
+            logo: "stations/images-america/c2c/syracuse_ny/The Voice.png",
+            url: "http://ice64.securenetsystems.net/WVOA"
         },
         {
             name: "NOAA Weather Radio Syracuse",
