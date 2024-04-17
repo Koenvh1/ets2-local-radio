@@ -35572,7 +35572,7 @@ var stations_c2c = {
         },
         {
             name: "1060 WQOM",
-            logo: "stations/images-america/c2c/boston_ma/1060 WQOM.png",
+            logo: "stations/images-america/0_general_logos/The Station of the Cross.png",
             url: "https://hfc.streamguys1.com/wqom"
         },
         {
@@ -40300,6 +40300,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRURFMAAC_SC"
         },
         {
+            name: "Mars Hill Network 89.3",
+            logo: "stations/images-america/c2c/oneonta_ny/Mars Hill Network 90.5.png",
+            url: "https://ic1.sslstream.com/wmhr-ir"
+        },
+        {
             name: "89.7 WITR",
             logo: "stations/images-america/c2c/rochester_ny/89.7 WITR.png",
             url: "https://streaming.witr.rit.edu/live-aac-96"
@@ -40321,13 +40326,23 @@ var stations_c2c = {
         },
         {
             name: "92.1 WYSL",
-            logo: "stations/images-america/c2c/rochester_ny/92.1 WYSL.png",
-            url: "http://64.78.234.165:8000/WYSL"
+            logo: "stations/images-america/c2c/rochester_ny/WYSL.png",
+            url: "https://listen.warpradio.com:8005/WYSL"
         },
         {
             name: "92.5 WBEE",
             logo: "stations/images-america/c2c/rochester_ny/92.5 WBEE.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wbeefmaac-imc"
+        },
+        {
+            name: "92.5 WBEE-HD2",
+            logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-wrocamaac-imc"
+        },
+        {
+            name: "92.9 W225AR",
+            logo: "stations/images-america/0_general_logos/The Station of the Cross.png",
+            url: "https://hfc.streamguys1.com/whic-wmtq"
         },
         {
             name: "Fickle 93.3",
@@ -40340,19 +40355,29 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WZNE"
         },
         {
+            name: "Family Life 94.7",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "https://fln01.sslstream.com/fln-familylife-aac"
+        },
+        {
             name: "Radio 95.1",
             logo: "stations/images-america/c2c/rochester_ny/Radio 95.1.png",
             url: "https://stream.revma.ihrhls.com/zc1501/hls.m3u8"
         },
         {
-            name: "Lite Rock 95.1-HD2",
-            logo: "stations/images-america/c2c/rochester_ny/Lite Rock 95.1-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6830/hls.m3u8"
+            name: "95.1 WAIO-HD2",
+            logo: "stations/images-america/c2c/rochester_ny/WHAM 1180.png",
+            url: "https://stream.revma.ihrhls.com/zc1505"
         },
         {
             name: "95.7 The Fan",
             logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wrocamaac-imc"
+        },
+        {
+            name: "96.1 W241DG",
+            logo: "stations/images-america/c2c/rochester_ny/WHAM 1180.png",
+            url: "https://stream.revma.ihrhls.com/zc1505"
         },
         {
             name: "96.5 WCMF",
@@ -40385,14 +40410,19 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wbzafmaac-imc"
         },
         {
+            name: "99.3 W257ER",
+            logo: "stations/images-america/0_general_logos/The Station of the Cross.png",
+            url: "http://hfc.streamguys1.com//whic-wmtq"
+        },
+        {
+            name: "The Word 99.7",
+            logo: "stations/images-america/c2c/rochester_ny/The Word 99.7.png",
+            url: "https://streaming.live365.com/a10665"
+        },
+        {
             name: "Country 100.5",
             logo: "stations/images-america/c2c/rochester_ny/Country 100.5.png",
             url: "https://stream.revma.ihrhls.com/zc1521/hls.m3u8"
-        },
-        {
-            name: "iHeartRadio Family Kids Hits 100.5-HD2",
-            logo: "stations/images-america/c2c/rochester_ny/iHeartRadio Family Kids Hits 100.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc7223/hls.m3u8"
         },
         {
             name: "100.9 WXIR",
@@ -40425,9 +40455,34 @@ var stations_c2c = {
             url: "https://streaming.wayofm.org/wayo-192"
         },
         {
+            name: "K-LOVE 104.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "105.5 The Beat",
+            logo: "stations/images-america/c2c/rochester_ny/105.5 The Beat.png",
+            url: "https://ais-sa1.streamon.fm/7034_48k.aac"
+        },
+        {
+            name: "WXXI News 105.9",
+            logo: "stations/images-america/c2c/rochester_ny/WXXI News.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAMAAC_SC"
+        },
+        {
+            name: "WRFZ 106.3",
+            logo: "stations/images-america/c2c/rochester_ny/WRFZ 106.3.png",
+            url: "https://listen.rochesterfreeradio.com/live.mp3"
+        },
+        {
             name: "KISS 106.7",
             logo: "stations/images-america/c2c/rochester_ny/KISS 106.7.png",
             url: "https://stream.revma.ihrhls.com/zc1513/hls.m3u8"
+        },
+        {
+            name: "WDCX 107.1",
+            logo: "stations/images-america/c2c/rochester_ny/WDCX.png",
+            url: "http://ais-sa8.cdnstream1.com/p06prdae3cc/c4u4zyx2rv8"
         },
         {
             name: "BIG 107.3",
@@ -40435,14 +40490,39 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5323/hls.m3u8"
         },
         {
-            name: "iHeart Christmas R&B 107.3-HD2",
-            logo: "stations/images-america/c2c/rochester_ny/iHeart Christmas R&B 107.3-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6136/hls.m3u8"
+            name: "WGR 550",
+            logo: "stations/images-america/c2c/buffalo_ny/WGR 550.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wgramaac-imc"
         },
         {
-            name: "WXXI News 107.5",
-            logo: "stations/images-america/c2c/rochester_ny/WXXI News 107.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAMAAC_SC"
+            name: "Zoomer Radio 740",
+            logo: "stations/images-america/canada/toronto/Zoomer Radio.png",
+            url: "https://live.amperwave.net/direct/mzmedia-cfzmamaac1-ibc2"
+        },
+        {
+            name: "ICI Première 860",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CJBC_SRC_SC"
+        },
+        {
+            name: "WROC 950",
+            logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-wrocamaac-imc"
+        },
+        {
+            name: "WDCX 990",
+            logo: "stations/images-america/c2c/rochester_ny/WDCX.png",
+            url: "https://ais-sa8.cdnstream1.com/p06prdae3cc/c4u4zyx2rv8"
+        },
+        {
+            name: "1040 WYSL",
+            logo: "stations/images-america/c2c/rochester_ny/WYSL.png",
+            url: "http://listen.warpradio.com:8005/WYSL"
+        },
+        {
+            name: "CJ Country 1140",
+            logo: "stations/images-america/c2c/rochester_ny/CJ Country 1140.png",
+            url: "https://ice66.securenetsystems.net/WCJW"
         },
         {
             name: "WHAM 1180",
@@ -40453,6 +40533,16 @@ var stations_c2c = {
             name: "FOX Sports 1280",
             logo: "stations/images-america/c2c/rochester_ny/Fox Sports 1280.png",
             url: "https://stream.revma.ihrhls.com/zc1509/hls.m3u8"
+        },
+        {
+            name: "WXXI News 1370",
+            logo: "stations/images-america/c2c/rochester_ny/WXXI News.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIAMAAC.aac"
+        },
+        {
+            name: "1460 WHIC",
+            logo: "stations/images-america/0_general_logos/The Station of the Cross.png",
+            url: "http://hfc.streamguys1.com/whic-wmtq"
         },
     ],
     "syracuse": [
@@ -40588,7 +40678,7 @@ var stations_c2c = {
         },
         {
             name: "103.5 W278AH",
-            logo: "stations/images-america/c2c/syracuse_ny/The Word 99.7.png",
+            logo: "stations/images-america/c2c/rochester_ny/The Word 99.7.png",
             url: "https://streaming.live365.com/a10665"
         },
         {
@@ -46096,7 +46186,7 @@ var stations_c2c = {
         },
         {
             name: "1060 WQOM",
-            logo: "stations/images-america/c2c/boston_ma/1060 WQOM.png",
+            logo: "stations/images-america/0_general_logos/The Station of the Cross.png",
             url: "https://hfc.streamguys1.com/wqom"
         },
         {
