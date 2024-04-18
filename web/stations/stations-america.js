@@ -15285,7 +15285,7 @@ var stations = {
         {
             name: "105.9 KFBW-HD2",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "http://wayfm.streamguys1.com/kpwa.aac"
+            url: "https://wayfm.streamguys1.com/kpwa.mp3"
         },
         {
             name: "106.7 The Eagle",
@@ -40159,22 +40159,12 @@ var stations_c2c = {
             name: "Star 93.9",
             logo: "stations/images-america/c2c/oneonta_ny/Star 93.9.png",
             url: "https://live.amperwave.net/manifest/townsquare-wkxzfmaac-imc3"
-        },
-        {
-            name: "WIYN 94.7",
-            logo: "stations/images-america/c2c/oneonta_ny/WIYN 94.7.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wdhifmaac-ibc3"
         },/*
         {
             name: "97.5 WTBD",
             logo: "stations/images-america/c2c/oneonta_ny/97.5 WTBD.png",
             url: "https://live.amperwave.net/manifest/townsquare-wtbdfmaac-ibc3"
         },*/
-        {
-            name: "100.3 The Eagle",
-            logo: "stations/images-america/c2c/oneonta_ny/100.3 The Eagle.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wdhifmaac-ibc3"
-        },
         {
             name: "WCDO 100.9",
             logo: "stations/images-america/c2c/oneonta_ny/WCDO 100.9.png",
@@ -40233,6 +40223,11 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wkxpfmaac-ibc3"
         },
         {
+            name: "Country 94.5",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/Country 94.5.png",
+            url: "https://ice64.securenetsystems.net/WJGKHD2"
+        },
+        {
             name: "i95",
             logo: "stations/images-america/c2c/poughkeepsie_ny/i95.png",
             url: "https://live.amperwave.net/manifest/townsquare-wrkifmaac-ibc3"
@@ -40263,11 +40258,6 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/WGNYFM2"
         },
         {
-            name: "DriveFX 98.9-HD2",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/DriveFX 98.9-HD2.png",
-            url: "https://ice64.securenetsystems.net/WGNYHD2"
-        },
-        {
             name: "100.7 WHUD",
             logo: "stations/images-america/c2c/poughkeepsie_ny/100.7 WHUD.png",
             url: "https://ais-sa1.streamon.fm/7833_128k.aac"
@@ -40278,9 +40268,14 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wpdhfmaac-ibc3"
         },
         {
-            name: "FOX 103.1",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/FOX 103.1.png",
+            name: "ENERGY 103",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/ENERGY 103.png",
             url: "https://ice64.securenetsystems.net/WJGK"
+        },
+        {
+            name: "103.1 WJGK-HD2",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/Country 94.5.png",
+            url: "http://ice64.securenetsystems.net/WJGKHD2"
         },
         {
             name: "K104.7",
@@ -40317,7 +40312,7 @@ var stations_c2c = {
         {
             name: "WBER 90.5",
             logo: "stations/images-america/c2c/rochester_ny/WBER 90.5.png",
-            url: "http://wber-ice-encoder.monroe.edu:80/wber-high.mp3"
+            url: "https://radio.monroe.edu/wber.mp3"
         },
         {
             name: "Classical 91.5",
@@ -40507,7 +40502,7 @@ var stations_c2c = {
         {
             name: "WROC 950",
             logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-wrocamaac-imc"
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net//direct/audacy-wrocamaac-imc"
         },
         {
             name: "WDCX 990",
@@ -40604,7 +40599,7 @@ var stations_c2c = {
         {
             name: "Spark 93.7",
             logo: "stations/images-america/c2c/syracuse_ny/Spark 93.7.png",
-            url: "http://209.217.219.94:8000/high"
+            url: "https://ec3.yesstreaming.net:4295/stream"
         },
         {
             name: "Y94",
