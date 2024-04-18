@@ -39700,6 +39700,138 @@ var stations_c2c = {
             url: "https://ice3.securenetsystems.net/WEHH"
         },
     ],
+    "ithaca_ny": [
+        {
+            name: "88.1 WRFI",
+            logo: "stations/images-america/c2c/ithaca_ny/88.1 WRFI.png",
+            url: "https://wrfi.broadcasttool.stream/stream"
+        },
+        {
+            name: "WRVO 89.9",
+            logo: "stations/images-america/c2c/utica_ny/WRVO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM_SC"
+        },
+        {
+            name: "The Route 90.1",
+            logo: "stations/images-america/c2c/rochester_ny/The Route 88.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRURFMAAC_SC"
+        },
+        {
+            name: "WSKG 90.9",
+            logo: "stations/images-america/c2c/binghamton_ny/WSKG 89.3.png",
+            url: "https://wskg.streamguys1.com/wskg"
+        },
+        {
+            name: "WSKG Classical 90.9-HD2",
+            logo: "stations/images-america/c2c/binghamton_ny/WSKG Classical 89.3-HD2.png",
+            url: "https://wskg.streamguys1.com/wsqx"
+        },
+        {
+            name: "WICB 91.7",
+            logo: "stations/images-america/c2c/ithaca_ny/WICB 91.7.png",
+            url: "https://icecast.do.zufall.co/wicb_aac_high"
+        },
+        {
+            name: "WVBR 93.5",
+            logo: "stations/images-america/c2c/ithaca_ny/WVBR 93.5.png",
+            url: "https://streaming.live365.com/a25496"
+        },
+        {
+            name: "Pure Oldies 94.1",
+            logo: "stations/images-america/c2c/ithaca_ny/Pure Oldies.png",
+            url: "https://live.amperwave.net/manifest/saga-wnyyamaac-imc"
+        },
+        {
+            name: "Z95.5",
+            logo: "stations/images-america/c2c/ithaca_ny/Z95.5.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-wfizfmaac-ibc2"
+        },
+        {
+            name: "95.5 WFIZ-HD2",
+            logo: "stations/images-america/c2c/ithaca_ny/Rewind 107.7.png",
+            url: "http://live.amperwave.net/manifest/saga-wfizhd2aac-imc"
+        },
+        {
+            name: "96.7 The Vine",
+            logo: "stations/images-america/c2c/ithaca_ny/96.7 The Vine.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-wyxlhd2aac-ibc2"
+        },
+        {
+            name: "Lite Rock 97.3",
+            logo: "stations/images-america/c2c/ithaca_ny/Lite Rock 97.3.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-wyxlfmaac-ibc2"
+        },
+        {
+            name: "97.3 WYXL-HD2",
+            logo: "stations/images-america/c2c/ithaca_ny/96.7 The Vine.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/manifest/saga-wyxlhd2aac-ibc2"
+        },
+        {
+            name: "97.7 WHCU",
+            logo: "stations/images-america/c2c/ithaca_ny/WHCU.png",
+            url: "https://live.amperwave.net/manifest/saga-whcuamaac-ibc2"
+        },
+        {
+            name: "I-100",
+            logo: "stations/images-america/c2c/syracuse_ny/I-100.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-wiiifmaac-imc"
+        },
+        {
+            name: "Family Life 101.1",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "http://fln01.sslstream.com/fln-familylife-aac"
+        },
+        {
+            name: "Mars Hill Radio 102.9",
+            logo: "stations/images-america/c2c/albany_ny/Mars Hill Radio 96.7.png",
+            url: "https://ic1.christiannetcast.com/wmhr-ir"
+        },
+        {
+            name: "102.3 W272DY",
+            logo: "stations/images-america/c2c/rochester_ny/The Word 99.7.png",
+            url: "https://streaming.live365.com/a10665"
+        },
+        {
+            name: "Q Country 103.7",
+            logo: "stations/images-america/c2c/ithaca_ny/Q Country 103.7.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-wqnyfmaac-ibc2"
+        },
+        {
+            name: "ESPN 107.1",
+            logo: "stations/images-america/c2c/ithaca_ny/ESPN Ithaca.png",
+            url: "https://ais-sa2.cdnstream1.com/2056_128.mp3"
+        },
+        {
+            name: "Rewind 107.7",
+            logo: "stations/images-america/c2c/ithaca_ny/Rewind 107.7.png",
+            url: "https://live.amperwave.net/manifest/saga-wfizhd2aac-imc"
+        },
+        {
+            name: "Family Life 820",
+            logo: "stations/images-america/0_general_logos/Family Life.png",
+            url: "http://fln01.sslstream.com/fln-familylife-aac"
+        },
+        {
+            name: "870 WHCU",
+            logo: "stations/images-america/c2c/ithaca_ny/WHCU.png",
+            url: "http://live.amperwave.net/manifest/saga-whcuamaac-ibc2"
+        },
+        {
+            name: "BBN 920",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "ESPN 1160",
+            logo: "stations/images-america/c2c/ithaca_ny/ESPN Ithaca.png",
+            url: "http://ais-sa2.cdnstream1.com/2056_128.mp3"
+        },
+        {
+            name: "Pure Oldies 1470",
+            logo: "stations/images-america/c2c/ithaca_ny/Pure Oldies.png",
+            url: "http://live.amperwave.net/manifest/saga-wnyyamaac-imc"
+        },
+    ],
     "newyork": [
         {
             name: "Radio Korea NYC 87.7",
@@ -40649,7 +40781,7 @@ var stations_c2c = {
         {
             name: "100.9 KROCK",
             logo: "stations/images-america/c2c/utica_ny/94.9 KROCK.png",
-            url: "https://live.amperwave.net/manifest/galaxy-wkllfmaac-ibc1"
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/galaxy-wkllfmaac-ibc1"
         },
         {
             name: "101.3 W267AL",

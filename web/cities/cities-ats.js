@@ -8218,6 +8218,12 @@ var country_properties_c2c = {
         code: "us-ny",
         relative_radius: 0.5
     },
+    "ithaca_ny": {
+        name: "Ithaca",
+        name_english: "Ithaca",
+        code: "us-ny",
+        relative_radius: 0.5
+    },
     "newyork": {
         name: "newyork",
         name_english: "newyork",
@@ -9147,6 +9153,9 @@ var city_properties_c2c = {
     },
     "elmira": {
         relative_whitenoise: 0.85
+    },
+    "ithaca_ny": {
+        relative_whitenoise: 0.95
     },
     "newyork": {
         relative_whitenoise: 0.85
@@ -10601,6 +10610,14 @@ var cities_c2c = [
         "x": "77838.5",
         "y": "16.6975",
         "z": "-24805.9"
+    },
+    {
+        "gameName": "ithaca_ny",
+        "realName": "Ithaca",
+        "country": "ithaca_ny",
+        "x": "80198.5",
+        "y": "8.09102",
+        "z": "-28192.8"
     },
     {
         "gameName": "newyork",
