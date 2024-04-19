@@ -36482,6 +36482,16 @@ var stations_c2c = {
             url: "https://cms.stream.publicradio.org/cms.aac"
         },
         {
+            name: "FM90",
+            logo: "stations/images-america/c2c/bemidji_mn/FM90.png",
+            url: "https://www.fm90.org/stream"
+        },
+        {
+            name: "90.1 The Eagle",
+            logo: "stations/images-america/c2c/bemidji_mn/90.1 The Eagle.png",
+            url: "https://amber.streamguys1.com:4415/live"
+        },
+        {
             name: "90.5 KBXE",
             logo: "stations/images-america/c2c/bemidji_mn/90.5 KBXE.png",
             url: "https://live.streamguys1.com:2753/kaxe"
@@ -36497,7 +36507,17 @@ var stations_c2c = {
             url: "http://wmisfm.com:8001/wmis.mp3"
         },
         {
-            name: "94.3 Christmas Legends",
+            name: "PsalmFM 92.7",
+            logo: "stations/images-america/canada/fortfrances/PsalmFM 99.5.png",
+            url: "https://ic2.christiannetcast.com/kbhw-fm"
+        },
+        {
+            name: "LifeTalk Radio 93.5",
+            logo: "stations/images-america/0_general_logos/LifeTalk Radio.png",
+            url: "https://ais-sa1.streamon.fm/7013_64k.aac"
+        },
+        {
+            name: "94.3 The Legends",
             logo: "stations/images-america/c2c/bemidji_mn/94.3 The Legends.png",
             url: "http://kpmiam.com:8001/kpmiam.mp3"
         },
@@ -36512,6 +36532,11 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKZYFMAAC_SC"
         },
         {
+            name: "KKCQ 96.7",
+            logo: "stations/images-america/c2c/bemidji_mn/KKCQ 96.7.png",
+            url: "https://us2.maindigitalstream.com/ssl/KKCQ"
+        },
+        {
             name: "Star Station 97.5",
             logo: "stations/images-america/c2c/bemidji_mn/Star Station 97.5.png",
             url: "https://rocket.surfernetwork.com:10001/live/kdkk_aac/playlist.m3u8"
@@ -36520,6 +36545,11 @@ var stations_c2c = {
             name: "Babe Country 98.3",
             logo: "stations/images-america/c2c/bemidji_mn/Babe Country 98.3.png",
             url: "http://wbji.com:8001/wbji.mp3"
+        },
+        {
+            name: "Real Presence Radio 98.7",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
             name: "Z99",
@@ -36532,9 +36562,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBHPFMAAC_SC"
         },
         {
-            name: "Coyote 102.5",
-            logo: "stations/images-america/c2c/bemidji_mn/Coyote 102.5.png",
-            url: "http://crystalout.surfernetwork.com:8001/KKWB-FM_MP3"
+            name: "Mix 103.7",
+            logo: "stations/images-america/c2c/bemidji_mn/Mix 103.7.png",
+            url: "http://209.191.211.196:8001/kkbjfm.mp3"
         },
         {
             name: "KBUN 104.5",
@@ -36542,14 +36572,49 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBUNFMAAC_SC"
         },
         {
-            name: "The Eagle 105.3",
-            logo: "stations/images-america/c2c/bemidji_mn/The Eagle 105.3.png",
-            url: "http://amber.streamguys.com:4410/"
-        },
-        {
             name: "Talk Radio 106.3",
             logo: "stations/images-america/c2c/bemidji_mn/Talk Radio 106.3.png",
             url: "http://kkbjam.com:8001/kkbjam.mp3"
+        },
+        {
+            name: "Your Q FM 107.1",
+            logo: "stations/images-america/c2c/bemidji_mn/Your Q FM 107.1.png",
+            url: "https://server.streamingrad.io/radio/8030/radio"
+        },
+        {
+            name: "107.9 K300EA",
+            logo: "stations/images-america/c2c/bemidji_mn/90.1 The Eagle.png",
+            url: "http://amber.streamguys.com:4410/"
+        },
+        {
+            name: "740 The Fan",
+            logo: "stations/images-america/c2c/fargo_nd/107.3 The Fan.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNFLAMAAC_SC"
+        },
+        {
+            name: "Real Presence Radio 820",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "http://ssl-1.stream.miriamtech.net/realpresence/kgll"
+        },
+        {
+            name: "CBC Radio One 990",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBWAM_CBC_SC"
+        },
+        {
+            name: "1300 The Legends",
+            logo: "stations/images-america/c2c/bemidji_mn/94.3 The Legends.png",
+            url: "http:///kpmiam.com:8001/kpmiam.mp3"
+        },
+        {
+            name: "Talk Radio 1360",
+            logo: "stations/images-america/c2c/bemidji_mn/Talk Radio 106.3.png",
+            url: "http:///kkbjam.com:8001/kkbjam.mp3"
+        },
+        {
+            name: "KBUN 1450",
+            logo: "stations/images-america/c2c/bemidji_mn/KBUN 104.5.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBUNFMAAC.aac"
         },
     ],
     "duluth": [
