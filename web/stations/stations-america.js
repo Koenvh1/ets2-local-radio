@@ -32529,7 +32529,7 @@ var stations_c2c = {
         {
             name: "Faith Radio 107.1-HD2",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/knwi"
+            url: "https://nwm.streamguys1.com/ktis-am-4"
         },
         {
             name: "107.5 KISS FM",
