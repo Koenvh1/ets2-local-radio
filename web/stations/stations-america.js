@@ -42605,9 +42605,29 @@ var stations_c2c = {
     ], 
     "jamestown_nd": [
         {
+            name: "YNOP 88.1",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "K-LOVE 89.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "afr Talk 89.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "http://mediaserver3.afa.net:8000/talkhigh.mp3"
+        },
+        {
             name: "PPB News Classical 91.5",
             logo: "stations/images-america/0_general_logos/PPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
+        },
+        {
+            name: "PPB Roots, Rock and Jazz 91.5-HD2",
+            logo: "stations/images-america/0_general_logos/PPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2AAC_SC"
         },
         {
             name: "Mix 93.3",
@@ -42620,9 +42640,24 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/KYNU"
         },
         {
+            name: "Ted FM 97.1",
+            logo: "stations/images-america/c2c/jamestown_nd/Big Dog 95.5.png",
+            url: "https://ice23.securenetsystems.net/KXGT"
+        },
+        {
             name: "Thunder 98.3",
             logo: "stations/images-america/c2c/jamestown_nd/Thunder 98.3.png",
             url: "https://ice64.securenetsystems.net/KQLXFM"
+        },
+        {
+            name: "Real Presence Radio 99.7",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
+        },
+        {
+            name: "KSJB 100.1",
+            logo: "stations/images-america/c2c/fargo_nd/KSJB AM 600.png",
+            url: "https://crystalout.surfernetwork.com:8001/KSJB_MP3"
         },
         {
             name: "Q101",
@@ -42633,6 +42668,16 @@ var stations_c2c = {
             name: "103.1 The Raven",
             logo: "stations/images-america/c2c/jamestown_nd/103.1 The Raven.png",
             url: "https://ice23.securenetsystems.net/KRVX"
+        },
+        {
+            name: "Ted FM 103.1-HD2",
+            logo: "stations/images-america/c2c/jamestown_nd/Big Dog 95.5.png",
+            url: "https://ice23.securenetsystems.net/KXGT"
+        },
+        {
+            name: "103.1 KRVX-HD3",
+            logo: "stations/images-america/c2c/fargo_nd/Ag News 890.png",
+            url: "https://ice64.securenetsystems.net/KQLXAM"
         },
         {
             name: "Jamestown 107.1",
@@ -42648,6 +42693,36 @@ var stations_c2c = {
             name: "KSJB 600",
             logo: "stations/images-america/c2c/jamestown_nd/KSJB 600.png",
             url: "http://crystalout.surfernetwork.com:8001/KSJB_MP3"
+        },
+        {
+            name: "740 The Fan",
+            logo: "stations/images-america/c2c/fargo_nd/107.3 The Fan.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNFLAMAAC_SC"
+        },
+        {
+            name: "Ag News 890",
+            logo: "stations/images-america/c2c/fargo_nd/Ag News 890.png",
+            url: "http://ice64.securenetsystems.net/KQLXAM"
+        },
+        {
+            name: "AM 1100 The Flag",
+            logo: "stations/images-america/c2c/fargo_nd/AM 1100 The Flag.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZFGAMAAC_SC"
+        },
+        {
+            name: "Faith 1200",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwmedia-ktisam.streamguys1.com/ktis-am"
+        },
+        {
+            name: "KQDJ 1400",
+            logo: "stations/images-america/c2c/jamestown_nd/Jamestown 107.1.png",
+            url: "http://ice23.securenetsystems.net/KQDJ"
+        },
+        {
+            name: "KOVC 1490",
+            logo: "stations/images-america/c2c/jamestown_nd/KOVC 1490.png",
+            url: "https://ice23.securenetsystems.net/KOVC"
         },
     ],
     "williston_nd": [
