@@ -5495,8 +5495,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7784/hls.m3u8"
         },
         {
-            name: "Kingdom 107.1",
-            logo: "stations/images-america/denver/Kingdom 107.1.png",
+            name: "KFCO 107.1",
+            logo: "stations/images-america/denver/KFCO 107.1.png",
             url: "https://pillar.streamguys1.com/KNDM"
         },
         {
@@ -20000,8 +20000,8 @@ var stations = {
             url: "http://newerastreaming.com:9006/stream"
         },
         {
-            name: "Kingdom 107.1",
-            logo: "stations/images-america/denver/Kingdom 107.1.png",
+            name: "KFCO 107.1",
+            logo: "stations/images-america/denver/KFCO 107.1.png",
             url: "https://pillar.streamguys1.com/KNDM"
         },
         {
@@ -42371,6 +42371,16 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
         },
         {
+            name: "PPB Roots, Rock and Jazz 91.9-HD2",
+            logo: "stations/images-america/0_general_logos/PPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2AAC_SC"
+        },
+        {
+            name: "NOAA Weather Radio Fargo 91.9-HD3",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/25190"
+        },
+        {
             name: "93.1 WDAY",
             logo: "stations/images-america/c2c/fargo_nd/93.1 WDAY.png",
             url: "http://ice2.securenetsystems.net/WDAY"
@@ -42386,7 +42396,7 @@ var stations_c2c = {
             url: "http://ice10.securenetsystems.net/KBVBHD2"
         },
         {
-            name: "Bob 95 FM",
+            name: "BOB 95 FM",
             logo: "stations/images-america/c2c/fargo_nd/Bob 95 FM.png",
             url: "http://ice8.securenetsystems.net/KBVB"
         },
@@ -42461,14 +42471,54 @@ var stations_c2c = {
             url: "http://ice3.securenetsystems.net:80/KPFX"
         },
         {
+            name: "107.9 KPFX-HD2",
+            logo: "stations/images-america/c2c/fargo_nd/Q105.1.png",
+            url: "https://ice3.securenetsystems.net/KQWB"
+        },
+        {
+            name: "107.9 KPFX-HD3",
+            logo: "stations/images-america/c2c/fargo_nd/Bison 1660.png",
+            url: "https://ice64.securenetsystems.net/KQWBAM"
+        },
+        {
+            name: "KSJB AM 600",
+            logo: "stations/images-america/c2c/fargo_nd/KSJB AM 600.png",
+            url: "https://crystalout.surfernetwork.com:8001/KSJB_MP3"
+        },
+        {
+            name: "740 The Fan",
+            logo: "stations/images-america/c2c/fargo_nd/107.3 The Fan.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNFLAMAAC.aac"
+        },
+        {
+            name: "790 KFGO",
+            logo: "stations/images-america/c2c/fargo_nd/104.7 KFGO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFGOAMAAC.aac"
+        },
+        {
             name: "Ag News 890",
             logo: "stations/images-america/c2c/fargo_nd/Ag News 890.png",
             url: "http://ice64.securenetsystems.net/KQLXAM"
         },
         {
+            name: "970 WDAY",
+            logo: "stations/images-america/c2c/fargo_nd/93.1 WDAY.png",
+            url: "https://ice2.securenetsystems.net/WDAY"
+        },
+        {
             name: "AM 1100 The Flag",
             logo: "stations/images-america/c2c/fargo_nd/AM 1100 The Flag.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZFGAMAAC_SC"
+        },
+        {
+            name: "Faith 1200",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwmedia-ktisam.streamguys1.com/ktis-am"
+        },
+        {
+            name: "Real Presence Radio 1280",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
             name: "Bison 1660",
@@ -50226,16 +50276,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc2665/hls.m3u8"
         },
         {
-            name: "iHeart80s 92.1-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart80s.png",
-            url: "https://stream.revma.ihrhls.com/zc5060/hls.m3u8"
-        },
-        {
-            name: "The Breeze 92.1-HD3",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        {
             name: "Mad Radio 92.7",
             logo: "stations/images-america/c2c/madison_wi/Mad Radio 92.7.png",
             url: "https://ice24.securenetsystems.net/WTTN"
@@ -50259,6 +50299,11 @@ var stations_c2c = {
             name: "94.9 WOLX",
             logo: "stations/images-america/c2c/madison_wi/94.9 WOLX.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wolxfmaac-imc"
+        },
+        {
+            name: "Channel Q 94.9-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "WWMV-LP 95.5",
@@ -50296,6 +50341,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVMOFMAAC_SC"
         },
         {
+            name: "Bucky Country 99.5",
+            logo: "stations/images-america/c2c/madison_wi/Bucky Country 99.5.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wbkyfmaac-ibc1"
+        },
+        {
             name: "100.5 ESPN",
             logo: "stations/images-america/c2c/madison_wi/100.5 ESPN.png",
             url: "https://live.amperwave.net/direct/goodkarma-wtlxfmaac-ibc2"
@@ -50319,6 +50369,11 @@ var stations_c2c = {
             name: "Classical Highlights 104.1-HD2",
             logo: "stations/images-america/c2c/madison_wi/Classical Highlights 104.1-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6377/hls.m3u8"
+        },
+        {
+            name: "Air1 104.1-HD3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Mix 105.1",
