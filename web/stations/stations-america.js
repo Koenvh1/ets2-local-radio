@@ -8811,6 +8811,11 @@ var stations = {
     ],
     "havre": [
         {
+            name: "YNOP 89.3",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
             name: "KNMC 90.1",
             logo: "stations/images-america/havre/KNMC 90.1.png",
             url: "http://quarrel.str3am.com:7020/live-mp3"
@@ -8826,14 +8831,44 @@ var stations = {
             url: "http://www.ophanim.net:7930/stream"
         },
         {
+            name: "YNOP 95.1",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "https://ice23.securenetsystems.net/YNOP"
+        },
+        {
+            name: "KOJM 98.3",
+            logo: "stations/images-america/havre/KOJM 610.png",
+            url: "http:///www.ophanim.net:7920/stream"
+        },
+        {
             name: "Sunny 101",
             logo: "stations/images-america/havre/Sunny 101.png",
             url: "http://www.ophanim.net:7940/stream"
         },
         {
+            name: "CBC Radio One 540",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBKRFM_CBC_SC"
+        },
+        {
+            name: "560 KMON",
+            logo: "stations/images-america/greatfalls/560 KMON.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kmonamaac-ibc3"
+        },
+        {
             name: "KOJM 610",
             logo: "stations/images-america/havre/KOJM 610.png",
             url: "http://www.ophanim.net:7920/stream"
+        },
+        {
+            name: "QR Calgary 770",
+            logo: "stations/images-america/canada/calgary/QR Calgary.png",
+            url: "http://live.leanstream.co/CHQRAM-MP3"
+        },
+        {
+            name: "960 The Fan",
+            logo: "stations/images-america/canada/calgary/960 The Fan.png",
+            url: "https://rogers-hls.leanstream.co/rogers/cal960.stream/icy"
         },
     ],
     "helena": [
@@ -42641,7 +42676,7 @@ var stations_c2c = {
         },
         {
             name: "Ted FM 97.1",
-            logo: "stations/images-america/c2c/jamestown_nd/Big Dog 95.5.png",
+            logo: "stations/images-america/c2c/jamestown_nd/Ted FM 97.1.png",
             url: "https://ice23.securenetsystems.net/KXGT"
         },
         {
@@ -42671,7 +42706,7 @@ var stations_c2c = {
         },
         {
             name: "Ted FM 103.1-HD2",
-            logo: "stations/images-america/c2c/jamestown_nd/Big Dog 95.5.png",
+            logo: "stations/images-america/c2c/jamestown_nd/Ted FM 97.1.png",
             url: "https://ice23.securenetsystems.net/KXGT"
         },
         {
@@ -42690,8 +42725,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1661/hls.m3u8"
         },
         {
-            name: "KSJB 600",
-            logo: "stations/images-america/c2c/jamestown_nd/KSJB 600.png",
+            name: "KSJB AM 600",
+            logo: "stations/images-america/c2c/fargo_nd/KSJB AM 600.png",
             url: "http://crystalout.surfernetwork.com:8001/KSJB_MP3"
         },
         {

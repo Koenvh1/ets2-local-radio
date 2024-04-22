@@ -11478,7 +11478,7 @@ var country_properties_canada = {
         name: "Medicine Hat",
         name_english: "Medicine Hat",
         code: "ca-sk",
-        relative_radius: 1.2
+        relative_radius: 1.0
     },
     "marathon": {
         name: "Marathon",
