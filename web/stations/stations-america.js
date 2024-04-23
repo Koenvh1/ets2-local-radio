@@ -14902,8 +14902,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
-            name: "CBS Sports Radio 101.5-HD3",
-            logo: "stations/images-america/0_general_logos/CBS Sports Radio.png",
+            name: "Infinity Sports Network 101.5-HD3",
+            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-cbssportsaac-imc"
         },
         {
@@ -21720,11 +21720,6 @@ var stations = {
             name: "94.5 The Beat",
             logo: "stations/images-america/waco/94.5 The Beat.png",
             url: "https://ais-sa1.streamon.fm/7017_48k.aac"
-        },
-        {
-            name: "CBS Sports Radio 94.5-HD2",
-            logo: "stations/images-america/waco/CBS Sports Radio 94.5-HD2.png",
-            url: "https://ais-sa1.streamon.fm/7669_48k.aac"
         },
         {
             name: "BIG 95",
@@ -28683,8 +28678,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-woclfmaac-imc"
         },
         {
-            name: "CBS Sports Radio 105.9-HD2",
-            logo: "stations/images-america/c2c/orlando_fl/CBS Sports Radio 105.9-HD2.png",
+            name: "Infinity Sports Network 105.9-HD2",
+            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-cbssportsaac-imc"
         },
         {
@@ -40384,8 +40379,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wfanamaac-imc"
         },
         {
-            name: "CBS Sports Radio 101.9-HD2",
-            logo: "stations/images-america/0_general_logos/CBS Sports Radio.png",
+            name: "Infinity Sports Network 101.9-HD2",
+            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-cbssportsaac-imc"
         },
         {
@@ -44616,8 +44611,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKWDFMAAC_SC"
         },
         {
-            name: "CBS Sports Radio 105.3",
-            logo: "stations/images-america/oklahoma_city/CBS Sports Radio 105.3.png",
+            name: "Infinity Sports Network 105.3",
+            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
             url: "http://crystalout.surfernetwork.com:8001/KINB-FM_MP3"
         },
         {
@@ -45316,8 +45311,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8289"
         },
         {
-            name: "CBS Sports Radio 96.3",
-            logo: "stations/images-america/c2c/erie_pa/CBS Sports Radio 96.3.png",
+            name: "Erie Sports Radio 96.3",
+            logo: "stations/images-america/c2c/erie_pa/Erie Sports Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRIEFMAAC_SC"
         },
         {
@@ -45461,8 +45456,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC_SC"
         },
         {
-            name: "CBS Sports Radio 1260",
-            logo: "stations/images-america/c2c/erie_pa/CBS Sports Radio 96.3.png",
+            name: "Erie Sports Radio 1260",
+            logo: "stations/images-america/c2c/erie_pa/Erie Sports Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRIEFMAAC.aac"
         },
         {
@@ -45528,8 +45523,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3103/hls.m3u8"
         },
         {
-            name: "CBS Sports Radio 95.3",
-            logo: "stations/images-america/c2c/harrisburg_pa/CBS Sports Radio 95.3.png",
+            name: "Sports Radio 95.3",
+            logo: "stations/images-america/c2c/harrisburg_pa/Sports Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAMAAC_SC"
         },
         {
@@ -45618,8 +45613,8 @@ var stations_c2c = {
             url: "http://s6.voscast.com:8908/;"
         },
         {
-            name: "CBS Sports Radio 1400",
-            logo: "stations/images-america/c2c/harrisburg_pa/CBS Sports Radio 95.3.png",
+            name: "Sports Radio 1400",
+            logo: "stations/images-america/c2c/harrisburg_pa/Sports Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAMAAC.aac"
         },
         {
