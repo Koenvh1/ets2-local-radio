@@ -19197,6 +19197,11 @@ var stations = {
     ],
     "shelby": [
         {
+            name: "YNOP 88.1",
+            logo: "stations/images-america/0_general_logos/YNOP.png",
+            url: "http://ice23.securenetsystems.net/YNOP"
+        },
+        {
             name: "YPR 90.3",
             logo: "stations/images-america/0_general_logos/YPR_spring.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
@@ -19207,14 +19212,39 @@ var stations = {
             url: "https://live.amperwave.net/direct/townsquare-kzinfmaac-ibc3"
         },
         {
+            name: "97.9 The River",
+            logo: "stations/images-america/greatfalls/97.9 The River.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kvvrfmaac-ibc3"
+        },
+        {
+            name: "Star 101.7",
+            logo: "stations/images-america/greatfalls/Star 101.7.png",
+            url: "https://ice24.securenetsystems.net/KWGF"
+        },
+        {
+            name: "KINX 102.7",
+            logo: "stations/images-america/greatfalls/KINX 102.7.png",
+            url: "https://ice24.securenetsystems.net/KINX"
+        },
+        {
             name: "560 KMON",
             logo: "stations/images-america/greatfalls/560 KMON.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmonamaac-ibc3"
         },
         {
+            name: "KOJM 610",
+            logo: "stations/images-america/havre/KOJM 610.png",
+            url: "http://www.ophanim.net:7920/stream"
+        },
+        {
             name: "QR Calgary 770",
             logo: "stations/images-america/canada/calgary/QR Calgary.png",
             url: "http://live.leanstream.co/CHQRAM-MP3"
+        },
+        {
+            name: "960 The Fan",
+            logo: "stations/images-america/canada/calgary/960 The Fan.png",
+            url: "https://rogers-hls.leanstream.co/rogers/cal960.stream/icy"
         },
         {
             name: "KSEN 1150",
