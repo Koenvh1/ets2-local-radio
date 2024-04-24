@@ -762,8 +762,8 @@ var country_properties = {
         relative_radius: 0.5
     },
     "kennewick_pendleton": {
-        name: "Kennewick/Pendleton",
-        name_english: "Kennewick/Pendleton",
+        name: "Tri Cities",
+        name_english: "Tri Cities",
         code: "us-wa",
         relative_radius: 0.7
     },
