@@ -1034,12 +1034,12 @@ var stations = {
         {
             name: "KUT 90.5",
             logo: "stations/images-america/austin/KUT 90.5.png",
-            url: "https://kut.streamguys1.com/kut-free.aac"
+            url: " https://streams.kut.org/4426_56"
         },
         {
             name: "BBC World Service 90.5-HD2",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
-            url: "https://kut.streamguys1.com/kuthd2-free.aac"
+            url: "https://streams.kut.org/4427_56"
         },
         {
             name: "La Radio Cristiana 91.3",
@@ -1154,17 +1154,17 @@ var stations = {
         {
             name: "KUTX 98.9",
             logo: "stations/images-america/austin/KUTX 98.9.png",
-            url: "https://kut.streamguys1.com/kutx-free.aac"
+            url: "https://streams.kut.org/4428_56"
         },
         {
             name: "Austin Music eXperience 98.9-HD2",
             logo: "stations/images-america/austin/Austin Music eXperience 98.9-HD2.png",
-            url: "https://kut.streamguys1.com/amx-free.aac"
+            url: "https://streams.kut.org/4429_56"
         },
         {
             name: "TMX.FM 98.9-HD3",
             logo: "stations/images-america/austin/TMX.FM 98.9-HD3.png",
-            url: "https://kut.streamguys1.com/tmx-free.aac"
+            url: "https://streams.kut.org/4430_56"
         },
         {
             name: "KOKE 99.3",
@@ -4743,14 +4743,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC.aac"
         },
         {
-            name: "97.1 The Freak",
-            logo: "stations/images-america/dallas_fort_worth/97.1 The Freak.png",
+            name: "97.1 The Eagle",
+            logo: "stations/images-america/dallas_fort_worth/97.1 The Eagle.png",
             url: "https://stream.revma.ihrhls.com/zc2241/hls.m3u8"
-        },
-        {
-            name: "97.1 KDGE-HD2",
-            logo: "stations/images-america/dallas_fort_worth/97.1 KDGE-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc9614/hls.m3u8"
         },
         {
             name: "97.9 The Beat",
@@ -10438,8 +10433,8 @@ var stations = {
             url: "https://live.amperwave.net/manifest/townsquare-kzhrfmaac-ibc3"
         },
         {
-            name: "La Estacion De La Familia 93.9",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 93.9",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "http://cast10.plugstreaming.com/stream/familiatricity/stream"
         },
         {
@@ -10538,8 +10533,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAMAAC_SC"
         },
         {
-            name: "La Estacion De La Familia 1560",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 1560",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "https://cast10.plugstreaming.com/stream/familiatricity/stream"
         },
         {
@@ -15433,8 +15428,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1949/hls.m3u8"
         },
         {
-            name: "La Estacion De La Familia 1230",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 1230",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "https://cast10.plugstreaming.com/stream/famportland/stream"
         },
         {
@@ -19225,8 +19220,8 @@ var stations = {
             url: "https://live.amperwave.net/manifest/premierbroadcasters-kitiamaac-ibc1"
         },
         {
-            name: "La Estacion De La Familia 1490",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 1490",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "https://cast10.plugstreaming.com/stream/famseattle/stream"
         },
         {
@@ -22523,8 +22518,8 @@ var stations = {
             url: "https://live.amperwave.net/manifest/townsquare-kdblfmaac-ibc3"
         },
         {
-            name: "La Estacion De La Familia 93.7",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 93.7",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "https://cast10.plugstreaming.com/stream/familiayakima/stream"
         },
         {
@@ -22583,8 +22578,8 @@ var stations = {
             url: "https://live.amperwave.net/manifest/townsquare-kffmfmaac-ibc3"
         },
         {
-            name: "La Estacion De La Familia 1020",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 1020",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "http://cast10.plugstreaming.com/stream/familiayakima/stream"
         },
         {
@@ -27953,8 +27948,8 @@ var stations_c2c = {
             url: "https://stream.radiojar.com/3ds9yqpgq3quv"
         },
         {
-            name: "La Estacion De La Familia 1430",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 1430",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "https://cast10.plugstreaming.com/stream/fammiami/stream"
         },
     ],
@@ -28262,8 +28257,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYMAMAAC_SC"
         },
         {
-            name: "La Estacion De La Familia 1430",
-            logo: "stations/images-america/0_general_logos/La Estacion De La Familia.png",
+            name: "La Estación de la Familia 1430",
+            logo: "stations/images-america/0_general_logos/La Estación de la Familia.png",
             url: "https://cast10.plugstreaming.com/stream/fammiami/stream"
         },
         {
