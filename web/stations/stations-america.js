@@ -1438,8 +1438,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRUZFMAAC_SC"
         },
         {
-            name: "Forge 103.9",
-            logo: "stations/images-america/bakersfield/Forge 103.9.png",
+            name: "Fire 103.9",
+            logo: "stations/images-america/bakersfield/Fire 103.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBDSFMAAC_SC"
         },
         {
