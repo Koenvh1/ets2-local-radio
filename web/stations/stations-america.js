@@ -3037,7 +3037,7 @@ var stations = {
         {
             name: "94.9 The Country Giant",
             logo: "stations/images-america/roswell/94.9 The Country Giant.png",
-            url: "https://ais-sa2.cdnstream1.com/2336_128.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/KBIM"
         },
         {
             name: "Q96.3",
@@ -14862,7 +14862,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc57/hls.m3u8"
         },
         {
-            name: "Power 96.1",
+            name: "96.1 K241BQ",
             logo: "stations/images-america/phoenix/Power 98.3.png",
             url: "http://ais-sa1.streamon.fm/7856_96k.aac"
         },
@@ -18990,6 +18990,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
         {
+            name: "96.5 KJAQ-HD3",
+            logo: "stations/images-america/seattle/1090 The Patriot.png",
+            url: "https://stream.revma.ihrhls.com/zc7747"
+        },
+        {
             name: "KODX 96.9",
             logo: "stations/images-america/seattle/KODX 96.9.png",
             url: "https://stream.pacificaservice.org:9000/kodx_128"
@@ -19015,14 +19020,19 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC_SC"
         },
         {
-            name: "KING 98.1",
-            logo: "stations/images-america/seattle/KING 98.1.png",
+            name: "Classical KING 98.1",
+            logo: "stations/images-america/seattle/Classical KING 98.1.png",
             url: "https://classicalking.streamguys1.com/king-fm-aac-128k"
         },
         {
             name: "Classical Calm 98.1-HD2",
             logo: "stations/images-america/seattle/Classical Calm 98.1-HD2.png",
             url: "https://classicalking.streamguys1.com/evergreen-aac-128k"
+        },
+        {
+            name: "Classical Christmas 98.1-HD3",
+            logo: "stations/images-america/seattle/Classical Christmas 98.1-HD3.png",
+            url: "https://classicalking.streamguys1.com/christmas-aac-128k"
         },
         {
             name: "98.9 The Bull",
@@ -19110,6 +19120,11 @@ var stations = {
             url: "https://crista-lift.streamguys1.com/liftmp3"
         },
         {
+            name: "105.3 KCMS-HD3",
+            logo: "stations/images-america/seattle/KCIS 630.png",
+            url: "http://crista-kcis.streamguys1.com/kcismp3"
+        },
+        {
             name: "KVRU 105.7",
             logo: "stations/images-america/seattle/KVRU 105.7.png",
             url: "https://www.ophanim.net:8444/s/7740"
@@ -19131,13 +19146,23 @@ var stations = {
         },
         {
             name: "Warm Christmas 106.9-HD2",
-            logo: "stations/images-america/seattle/Warm 106.9.png",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMXMASAAC_SC"
+        },
+        {
+            name: "106.9 KRWM-HD3",
+            logo: "stations/images-america/seattle/880 KIXI.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAMAAC.aac"
         },
         {
             name: "107.7 The End",
             logo: "stations/images-america/seattle/107.7 The End.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knddfmaac-imc"
+        },
+        {
+            name: "Channel Q 107.7-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "570 KVI",
@@ -53970,8 +53995,8 @@ var stations_canada = {
             url: "https://ice23.securenetsystems.net/WNBY"
         },
         {
-            name: "Eagle 95.1",
-            logo: "stations/images-america/canada/saultmarie/Eagle 95.1.png",
+            name: "95.1 Bridge FM",
+            logo: "stations/images-america/canada/saultmarie/95.1 Bridge FM.png",
             url: "https://ice24.securenetsystems.net/WUPN"
         },
         {
