@@ -22225,8 +22225,8 @@ var stations = {
             url: "https://klvv-thehouse.streamguys1.com/TheHouse64kAAC"
         },
         {
-            name: "My Country 100.5",
-            logo: "stations/images-america/wichita/My Country 100.5.png",
+            name: "100.5 The Twister",
+            logo: "stations/images-america/wichita/100.5 The Twister.png",
             url: "https://ice25.securenetsystems.net/KVWF"
         },
         {
@@ -31248,8 +31248,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wusnfmaac-imc"
         },
         {
-            name: "100.3 SHE",
-            logo: "stations/images-america/c2c/chicago_il/100.3 SHE.png",
+            name: "Throwback 100.3",
+            logo: "stations/images-america/c2c/chicago_il/Throwback 100.3.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WSHEFMAAC_SC"
         },
         {
