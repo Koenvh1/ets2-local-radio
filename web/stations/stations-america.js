@@ -20416,7 +20416,12 @@ var stations = {
             url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
-            name: "Pilgrim Radio 91.3",
+            name: "Relevant Radio 89.3",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "Pilgrim Radio 89.9",
             logo: "stations/images-america/0_general_logos/Pilgrim Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
@@ -20426,9 +20431,44 @@ var stations = {
             url: "https://kunrstream.com:8443/live"
         },
         {
+            name: "93 JDX",
+            logo: "stations/images-america/susanv/93 JDX.png",
+            url: "https://streams.radiomast.io/c016eb2e-c600-4323-8a56-189b992e4560"
+        },
+        {
             name: "KVIP 97.7",
             logo: "stations/images-america/burns/KVIP 89.5.png",
             url: "https://ic1.sslstream.com/kvip"
+        },
+        {
+            name: "K-LOVE 98.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "The Outlaw 100.7",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
+            url: "http://indrockmedia.com:8000/kgxx"
+        },
+        {
+            name: "CSN Radio 103.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "FOX Sports 630",
+            logo: "stations/images-america/reno/FOX Sports 630.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPLYAMAAC_SC"
+        },
+        {
+            name: "780 KOH",
+            logo: "stations/images-america/reno/780 KOH.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKOHAMAAC_SC"
+        },
+        {
+            name: "1240 KSUE",
+            logo: "stations/images-america/susanv/1240 KSUE.png",
+            url: "https://streams.radiomast.io/71e1636d-05a8-4565-9a33-1bde72f6d09b"
         },
     ],
     "tacoma": [
