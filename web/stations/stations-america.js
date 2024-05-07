@@ -13779,11 +13779,11 @@ var stations = {
         {
             name: "102.1 KZMC",
             logo: "stations/images-america/mccook/102.1 KZMC.png",
-            url: "http://204.93.186.205/index.php?u=https://ice23.securenetsystems.net/KZMC"
+            url: "https://ice23.securenetsystems.net/KZMC"
         },
         {
-            name: "The Hawk 103.9",
-            logo: "stations/images-america/mccook/The Hawk 103.9.png",
+            name: "103.9 The Hawk",
+            logo: "stations/images-america/mccook/103.9 The Hawk.png",
             url: "https://ice9.securenetsystems.net/KQHK"
         },
         {
@@ -13792,9 +13792,9 @@ var stations = {
             url: "http://ic1.christiannetcast.com/bottradio"
         },
         {
-            name: "Coyote Country 105.3",
-            logo: "stations/images-america/mccook/Coyote Country 105.3.png",
-            url: "http://204.93.186.205/index.php?u=https://ice41.securenetsystems.net/KIOD"
+            name: "105.3 Coyote Country",
+            logo: "stations/images-america/mccook/105.3 Coyote Country.png",
+            url: "https://ice41.securenetsystems.net/KIOD"
         },
         {
             name: "790 KXXX",
