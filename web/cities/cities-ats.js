@@ -8350,7 +8350,7 @@ var country_properties_c2c = {
         code: "us-ne",
         relative_radius: 0.6
     },
-    "mccook_ne": {
+    "mccook": {
         name: "McCook",
         name_english: "McCook",
         code: "us-ne",
@@ -9328,7 +9328,7 @@ var city_properties_c2c = {
     "lincoln": {
         relative_whitenoise: 0.95
     },
-    "mccook_ne": {
+    "mccook": {
         relative_whitenoise: 0.85
     },
     "north_platte": {
@@ -10736,9 +10736,9 @@ var cities_c2c = [
         "z": "-9068.5"
     },
     {
-        "gameName": "mccook_ne",
+        "gameName": "mccook",
         "realName": "McCook",
-        "country": "mccook_ne",
+        "country": "mccook",
         "x": "-20050.5",
         "y": "295",
         "z": "-7667.82"
