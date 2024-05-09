@@ -8540,9 +8540,9 @@ var stations = {
             url: "https://ice26.securenetsystems.net/KZMQ"
         },
         {
-            name: "101.1 The KROW",
-            logo: "stations/images-america/cody/101.1 The KROW.png",
-            url: "http://streaming.radiowyo.com:1010/KROW"
+            name: "101.1 The One",
+            logo: "stations/images-america/cody/101.1 The One.png",
+            url: "https://stream.radiojar.com/gshzzdfn1f3vv"
         },
         {
             name: "KZMQ 102.3",
@@ -8552,7 +8552,7 @@ var stations = {
         {
             name: "103.3 The Range",
             logo: "stations/images-america/cody/103.3 The Range.png",
-            url: "http://nebcoradio.com:1010/KBEN"
+            url: "https://stream.radiojar.com/uku7hzfn1f3vv"
         },
         {
             name: "104.1 The Eagle",
@@ -8562,7 +8562,7 @@ var stations = {
         {
             name: "107.1 The Adventure",
             logo: "stations/images-america/cody/107.1 The Adventure.png",
-            url: "http://nebcoradio.com:1010/KWHO"
+            url: "https://stream.radiojar.com/zv8nszen1f3vv"
         },
         {
             name: "KYYA 730",
