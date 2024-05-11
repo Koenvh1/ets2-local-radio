@@ -778,11 +778,6 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://ice10.securenetsystems.net/KCOW"
         },
         {
-            name: "KMOR 93.3",
-            logo: "stations/images-america/alliance/KMOR 93.3.png",
-            url: "https://ais-sa1.streamon.fm/7659_48k.aac"
-        },
-        {
             name: "95.7 K296DS",
             logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
             url: "https://nwm.streamguys1.com/kslt"
@@ -794,7 +789,7 @@ var stations = {
         },
         {
             name: "Radio 74 99.9",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8000/radio74stlint.mp3"
         },
         {
@@ -818,24 +813,9 @@ var stations = {
             url: "http://nwm.streamguys1.com/kslt"
         },
         {
-            name: "107.3 The Trail",
-            logo: "stations/images-america/alliance/107.3 The Trail.png",
-            url: "https://ais-sa1.streamon.fm/7324_48k.aac"
-        },
-        {
             name: "610 KCSR",
             logo: "stations/images-america/chadron/KCSR_KBPY.png",
             url: "https://ice23.securenetsystems.net/KCSR"
-        },
-        {
-            name: "KOLT 690",
-            logo: "stations/images-america/scottsbluff/KOLT.png",
-            url: "https://ais-sa1.streamon.fm/7660_48k.aac"
-        },
-        {
-            name: "KNEB 960",
-            logo: "stations/images-america/scottsbluff/KNEB.png",
-            url: "https://ais-sa1.streamon.fm/7325_48k.aac"
         },
         {
             name: "1400 KCOW",
@@ -907,7 +887,7 @@ var stations = {
         {
             name: "La Poderosa 96.1",
             logo: "stations/images-america/amarillo/La Poderosa 96.1.png",
-            url: "http://stream.radiojar.com/2860dfxpvzzuv"
+            url: "https://stream.radiojar.com/2860dfxpvzzuv"
         },
         {
             name: "96.9 KISS FM",
@@ -957,7 +937,7 @@ var stations = {
         {
             name: "La Poderosa 104.3",
             logo: "stations/images-america/amarillo/La Poderosa 96.1.png",
-            url: "https://stream.radiojar.com/2860dfxpvzzuv"
+            url: "http://stream.radiojar.com/2860dfxpvzzuv"
         },
         {
             name: "HPPR 105.7",
@@ -2565,7 +2545,7 @@ var stations = {
         },
         {
             name: "Radio 74 90.3",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
         {
@@ -4791,7 +4771,7 @@ var stations = {
         },
         {
             name: "Radio 74 105.9",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
         {
@@ -5273,7 +5253,7 @@ var stations = {
         {
             name: "La Poderosa 96.1",
             logo: "stations/images-america/dalhart/La Poderosa 96.1.png",
-            url: "http://stream.radiojar.com/2860dfxpvzzuv"
+            url: "https://stream.radiojar.com/2860dfxpvzzuv"
         },
     ],
     "dateland": [
@@ -6408,7 +6388,7 @@ var stations = {
     "elko": [
         {
             name: "Radio 74 88.1",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8000/radio74stlint.mp3"
         },
         {
@@ -8080,7 +8060,7 @@ var stations = {
         },
         {
             name: "Radio 74 91.9",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
         {
@@ -8572,7 +8552,7 @@ var stations = {
         {
             name: "KZMQ 1140",
             logo: "stations/images-america/cody/KZMQ 100.3.png",
-            url: "http://ice26.securenetsystems.net/KZMQ"
+            url: "http://ice26.securenetsystems.net//KZMQ"
         },
         {
             name: "KPOW 1260",
@@ -11429,7 +11409,7 @@ var stations = {
         },
         {
             name: "Radio 74 98.1",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
     ],
@@ -17223,7 +17203,7 @@ var stations = {
         },
         {
             name: "Radio 74 89.3",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
         {
@@ -19747,8 +19727,8 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2625_48.aac"
         },
         {
-            name: "KOIT Christmas 96.5-HD3",
-            logo: "stations/images-america/san_francisco/KOIT Christmas 96.5-HD3.png",
+            name: "Magic Bay Area 96.5-HD3",
+            logo: "stations/images-america/san_francisco/Magic Bay Area.png",
             url: "https://bonneville.cdnstream1.com/2784_48.aac"
         },
         {
@@ -19765,6 +19745,11 @@ var stations = {
             name: "98.5 KFOX",
             logo: "stations/images-america/san_francisco/98.5 KFOX.png",
             url: "https://bonneville.cdnstream1.com/2620_48.aac"
+        },
+        {
+            name: "Magic Bay Area 98.5-HD2",
+            logo: "stations/images-america/san_francisco/Magic Bay Area.png",
+            url: "http://bonneville.cdnstream1.com/2784_48.aac"
         },
         {
             name: "Qué Buena 98.9",
@@ -20054,6 +20039,78 @@ var stations = {
             name: "1200 WOAI",
             logo: "stations/images-america/san_antonio/1200 WOAI.png",
             url: "https://stream.revma.ihrhls.com/zc2361/hls.m3u8"
+        },
+    ],
+    "scottsbluff": [
+        {
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 89.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "BBN 90.1",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "CSN Radio 91.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "KMOR 93.3",
+            logo: "stations/images-america/scottsbluff/KMOR 93.3.png",
+            url: "https://ais-sa1.streamon.fm/7659_48k.aac"
+        },
+        {
+            name: "94.1 The Brand",
+            logo: "stations/images-america/scottsbluff/94.1 The Brand.png",
+            url: "https://ais-sa1.streamon.fm/7244_48k.aac"
+        },
+        {
+            name: "Hope Radio 97.1",
+            logo: "stations/images-america/scottsbluff/Hope Radio 97.1.png",
+            url: "https://streaming.live365.com/a51097"
+        },
+        {
+            name: "Spirit Catholic Radio 99.5",
+            logo: "stations/images-america/0_general_logos/Spirit Catholic Radio.png",
+            url: "https://ice7.securenetsystems.net/KVSS"
+        },
+        {
+            name: "KNEB 100.3",
+            logo: "stations/images-america/scottsbluff/KNEB.png",
+            url: "http://ais-sa1.streamon.fm/7325_48k.aac"
+        },
+        {
+            name: "101.3 KOZY",
+            logo: "stations/images-america/wheatland/101.3 KOZY.png",
+            url: "https://ais-sa1.streamon.fm/7658_48k.aac"
+        },
+        {
+            name: "KOLT 101.7",
+            logo: "stations/images-america/scottsbluff/KOLT.png",
+            url: "http://ais-sa1.streamon.fm/7660_48k.aac"
+        },
+        {
+            name: "107.3 The Trail",
+            logo: "stations/images-america/scottsbluff/107.3 The Trail.png",
+            url: "https://ais-sa1.streamon.fm/7324_48k.aac"
+        },
+        {
+            name: "KOLT 690",
+            logo: "stations/images-america/scottsbluff/KOLT.png",
+            url: "https://ais-sa1.streamon.fm/7660_48k.aac"
+        },
+        {
+            name: "KNEB 960",
+            logo: "stations/images-america/scottsbluff/KNEB.png",
+            url: "https://ais-sa1.streamon.fm/7325_48k.aac"
         },
     ],
     "seattle": [
@@ -20745,7 +20802,59 @@ var stations = {
             logo: "stations/images-america/show_low/970 KVWM.png",
             url: "https://ice41.securenetsystems.net/KVWM"
         },
-    ],
+    ],/*
+    "sidney_ne": [
+        {
+            name: "My Bridge Radio 88.7",
+            logo: "stations/images-america/0_general_logos/My Bridge Radio.png",
+            url: "https://ais-sa1.streamon.fm/7069_64k.aac"
+        },
+        {
+            name: "Radio 74 89.5",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
+            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
+            name: "NPM 91.1",
+            logo: "stations/images-america/0_general_logos/NPM News-Classical.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+        {
+            name: "NPM 91.1-HD2",
+            logo: "stations/images-america/0_general_logos/NPM News-Jazz.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVHD2_SC"
+        },
+        {
+            name: "Cheyenne County Country 95.7",
+            logo: "stations/images-america/sidney_ne/Cheyenne County Country 95.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSIDAMAAC_SC"
+        },
+        {
+            name: "98.7 The Big Boy",
+            logo: "stations/images-america/sidney_ne/98.7 The Big Boy.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSIDFMAAC_SC"
+        },
+        {
+            name: "103.1 K276CX",
+            logo: "stations/images-america/sterling/KNNG 104.7.png",
+            url: "https://www.streamcontrol.net:8444/s/12320"
+        },
+        {
+            name: "Spirit Catholic Radio 107.5",
+            logo: "stations/images-america/0_general_logos/Spirit Catholic Radio.png",
+            url: "https://ice7.securenetsystems.net/KVSS"
+        },
+        {
+            name: "FOX Sports 1230",
+            logo: "stations/images-america/sterling/Fox Sports 1230.png",
+            url: "https://www.ophanim.net:8444/s/8920"
+        },
+        {
+            name: "Cheyenne County Country 1340",
+            logo: "stations/images-america/sidney_ne/Cheyenne County Country 95.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KSIDAMAAC_SC"
+        },
+    ],*/
     "sierra_vista": [
         {
             name: "AZPM News 88.9",
@@ -21264,7 +21373,7 @@ var stations = {
         },
         {
             name: "Cheyenne County Country 95.7",
-            logo: "stations/images-america/sterling/Cheyenne County Country 95.7.png",
+            logo: "stations/images-america/sidney_ne/Cheyenne County Country 95.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSIDAMAAC_SC"
         },
         {
@@ -21279,7 +21388,7 @@ var stations = {
         },
         {
             name: "98.7 The Big Boy",
-            logo: "stations/images-america/sterling/98.7 The Big Boy.png",
+            logo: "stations/images-america/sidney_ne/98.7 The Big Boy.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSIDFMAAC_SC"
         },
         {
@@ -22729,7 +22838,64 @@ var stations = {
             logo: "stations/images-america/0_general_logos/GRN.png",
             url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
         },
-    ],
+    ],/*
+    "valentine": [
+        {
+            name: "KOYA 88.1",
+            logo: "stations/images-america/valentine/KOYA 88.1.png",
+            url: "https://ais-sa1.streamon.fm/7057_24k.aac"
+        },
+        {
+            name: "afr Talk 89.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
+            name: "My Bridge Radio 90.7",
+            logo: "stations/images-america/0_general_logos/My Bridge Radio.png",
+            url: "https://ais-sa1.streamon.fm/7069_64k.aac"
+        },
+        {
+            name: "NPM 91.5",
+            logo: "stations/images-america/0_general_logos/NPM News-Classical.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVFM_SC"
+        },
+        {
+            name: "NPM 91.5-HD2",
+            logo: "stations/images-america/0_general_logos/NPM News-Jazz.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUCVHD2_SC"
+        },
+        {
+            name: "Spirit Catholic Radio 91.9",
+            logo: "stations/images-america/0_general_logos/Spirit Catholic Radio.png",
+            url: "https://ice7.securenetsystems.net/KVSS"
+        },
+        {
+            name: "Magic 93",
+            logo: "stations/images-america/valentine/Magic 93.png",
+            url: "http://live.amperwave.net/direct/kwyr-kwyrfmaac-ibc3"
+        },
+        {
+            name: "HITS 96.1",
+            logo: "stations/images-america/valentine/HITS 96.1.png",
+            url: "https://ais-sa1.streamon.fm/7377_48k.aac"
+        },
+        {
+            name: "95.5 The Twister",
+            logo: "stations/images-america/valentine/99.5 The Twister.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSDZ_FMAAC_SC"
+        },
+        {
+            name: "KVSH 940",
+            logo: "stations/images-america/valentine/KVSH 940.png",
+            url: "https://ice24.securenetsystems.net/KVSH"
+        },
+        {
+            name: "Country 1260",
+            logo: "stations/images-america/valentine/Country 1260.png",
+            url: "http://live.amperwave.net/direct/kwyr-kwyramaac-ibc3"
+        },
+    ],*/
     "van_horn": [
         {
             name: "GRN 89.9",
@@ -23261,29 +23427,9 @@ var stations = {
             url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
-            name: "KMOR 93.3",
-            logo: "stations/images-america/wheatland/KMOR 93.3.png",
-            url: "https://ais-sa1.streamon.fm/7659_48k.aac"
-        },
-        {
-            name: "94.1 The Brand",
-            logo: "stations/images-america/wheatland/94.1 The Brand.png",
-            url: "https://ais-sa1.streamon.fm/7244_48k.aac"
-        },
-        {
             name: "Y95 Country",
             logo: "stations/images-america/cheyenne/Y95 Country.png",
             url: "https://live.amperwave.net/manifest/townsquare-kcgyfmaac-ibc3"
-        },
-        {
-            name: "101.3 KOZY",
-            logo: "stations/images-america/wheatland/101.3 KOZY.png",
-            url: "https://ais-sa1.streamon.fm/7658_48k.aac"
-        },
-        {
-            name: "106.9 The Trail",
-            logo: "stations/images-america/wheatland/106.9 The Trail.png",
-            url: "https://ais-sa1.streamon.fm/7324_48k.aac"
         },
         {
             name: "Pilgrim Radio 107.5",
@@ -23906,7 +24052,7 @@ var stations = {
         },
         {
             name: "Radio 74 95.7",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
         },
         {
@@ -43156,7 +43302,7 @@ var stations_c2c = {
         },
         {
             name: "Radio 74 95.3",
-            logo: "stations/images-america/lakeview/Radio 74.png",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
             url: "http://radio74.dyndns.org:8000/radio74stlint.mp3"
         },
         {

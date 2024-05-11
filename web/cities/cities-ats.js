@@ -45,7 +45,7 @@ var country_properties = {
         name: "Alliance",
         name_english: "Alliance",
         code: "us-ne",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },*/
     "amarillo": {
         name: "Amarillo",
@@ -1771,6 +1771,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },/*
     "alliance": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },*/
     "amarillo": {
@@ -2505,6 +2506,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },/*
     "scottsbluff": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },*/
     "shamrock": {
@@ -2774,6 +2776,14 @@ var cities = [
         "gameName": "alliance",
         "realName": "Alliance",
         "country": "alliance",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
+        "gameName": "alliance",
+        "realName": "Alliance",
+        "country": "scottsbluff",
         "x": "",
         "y": "",
         "z": ""
@@ -4894,6 +4904,14 @@ var cities = [
         "gameName": "scottsbluff",
         "realName": "Scottsbluff",
         "country": "scottsbluff",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
+        "gameName": "scottsbluff",
+        "realName": "Scottsbluff",
+        "country": "alliance",
         "x": "",
         "y": "",
         "z": ""
