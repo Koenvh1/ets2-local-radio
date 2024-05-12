@@ -12851,7 +12851,7 @@ var stations = {
         {
             name: "RadioK 1230",
 			logo: "stations/images-america/los_angeles/RadioK 1230.png",
-			url: "http://live.rcast.net:9178/;stream"
+			url: "http://live.rcast.net:9178/stream"
         },
         {
             name: "K-Mozart 1260",
@@ -12862,11 +12862,6 @@ var stations = {
             name: "Tu Liga Radio 1330",
             logo: "stations/images-america/los_angeles/Tu Liga Radio 1330.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC_SC"
-        },
-        {
-            name: "RadioK 1230",
-			logo: "stations/images-america/los_angeles/RadioK 1230.png",
-			url: "http://live.rcast.net:9178/stream"
         },
         {
             name: "KAZN AM1300",
@@ -25863,7 +25858,7 @@ var stations_mexico = {
         {
             name: "Power 98",
             logo: "stations/images-america/mexico/mexicali/Power 98.png",
-            url: "http://s4.mexside.net:2126/stream.mp3"
+            url: "https://s2.mexside.net/8220/stream"
         },
         {
             name: "Radio Cañón 101.3",
@@ -25884,11 +25879,6 @@ var stations_mexico = {
             name: "UABC Radio 104.1",
             logo: "stations/images-america/mexico/mexicali/UABC Radio 104.1.png",
             url: "http://148.231.3.56/mxl"
-        },
-        {
-            name: "104.9 @FM",
-            logo: "stations/images-america/mexico/mexicali/104.9 @FM.png",
-            url: "https://stream.zeno.fm/vbs3f2ezbfhvv"
         },
         {
             name: "Imagen 105.5",
