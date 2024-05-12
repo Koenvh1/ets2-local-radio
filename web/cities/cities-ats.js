@@ -161,6 +161,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.5
     },
+    "billings": {
+        name: "Billings",
+        name_english: "Billings",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
     "bluff": {
         name: "Bluff",
         name_english: "Bluff",
@@ -437,6 +443,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.5
     },
+    "dillon": {
+        name: "Dillon",
+        name_english: "Dillon",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "dodge_city": {
         name: "Dodge City",
         name_english: "Dodge City",
@@ -545,6 +557,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.9
     },
+    "forsyth": {
+        name: "Forsyth",
+        name_english: "Forsyth",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "fort_collins": {
         name: "Fort Collins",
         name_english: "Fort Collins",
@@ -605,6 +623,18 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.8
     },
+    "glasgow": {
+        name: "Glasgow",
+        name_english: "Glasgow",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
+    "glendive": {
+        name: "Glendive",
+        name_english: "Glendive",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "glenwood_springs": {
         name: "Glenwood Springs",
         name_english: "Glenwood Springs",
@@ -616,13 +646,13 @@ var country_properties = {
         name_english: "Grand Canyon Village",
         code: "us-az",
         relative_radius: 0.4
-    },/*
+    },
     "grand_island": {
         name: "Grand Island",
         name_english: "Grand Island",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "grand_junction_montrose": {
         name: "Grand Junction/Montrose",
         name_english: "Grand Junction/Montrose",
@@ -647,6 +677,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.6
     },
+    "greatfalls": {
+        name: "Great Falls",
+        name_english: "Great Falls",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "greybull": {
         name: "Greybull",
         name_english: "Greybull",
@@ -663,6 +699,12 @@ var country_properties = {
         name: "Guymon",
         name_english: "Guymon",
         code: "us-ok",
+        relative_radius: 0.6
+    },
+    "havre": {
+        name: "Havre",
+        name_english: "Havre",
+        code: "us-mt",
         relative_radius: 0.6
     },
     "hays": {
@@ -749,6 +791,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.5
     },
+    "jordan": {
+        name: "Jordan",
+        name_english: "Jordan",
+        code: "us-mt",
+        relative_radius: 0.6
+    },
     "junction": {
         name: "Junction",
         name_english: "Junction",
@@ -778,6 +826,12 @@ var country_properties = {
         name_english: "Kansas City",
         code: "us-mo",
         relative_radius: 1.0
+    },
+    "katl": {
+        name: "770 KATL",
+        name_english: "770 KATL",
+        code: "us-mt",
+        relative_radius: 0.6
     },
     "kayenta": {
         name: "Kayenta",
@@ -887,6 +941,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 0.8
     },
+    "laurel": {
+        name: "Laurel",
+        name_english: "Laurel",
+        code: "us-mt",
+        relative_radius: 0.9
+    },
     "lawrence": {
         name: "Lawrence",
         name_english: "Lawrence",
@@ -911,18 +971,24 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.7
     },
+    "lewistown": {
+        name: "Lewistown",
+        name_english: "Lewistown",
+        code: "us-mt",
+        relative_radius: 0.8
+    },
     "lincoln_mt": {
         name: "Lincoln",
         name_english: "Lincoln",
         code: "us-mt",
         relative_radius: 0.7
-    },/*
+    },
     "lincoln_ne": {
         name: "Lincoln",
         name_english: "Lincoln",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "limon": {
         name: "Limon",
         name_english: "Limon",
@@ -970,6 +1036,12 @@ var country_properties = {
         name_english: "Lufkin",
         code: "us-tx",
         relative_radius: 0.8
+    },
+    "malta_mt": {
+        name: "Malta",
+        name_english: "Malta",
+        code: "us-mt",
+        relative_radius: 0.6
     },
     "mankato": {
         name: "Mankato",
@@ -1024,13 +1096,13 @@ var country_properties = {
         name_english: "McCamey",
         code: "us-tx",
         relative_radius: 0.6
-    },/*
+    },
     "mccook": {
         name: "McCook",
         name_english: "McCook",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "mcdermitt": {
         name: "McDermitt",
         name_english: "McDermitt",
@@ -1048,6 +1120,12 @@ var country_properties = {
         name_english: "Midland/Odessa",
         code: "us-tx",
         relative_radius: 0.7
+    },
+    "milescity": {
+        name: "Miles City",
+        name_english: "Miles City",
+        code: "us-mt",
+        relative_radius: 0.6
     },
     "missoula": {
         name: "Missoula",
@@ -1090,18 +1168,24 @@ var country_properties = {
         name_english: "Norfolk",
         code: "us-ne",
         relative_radius: 0.7
-    },
+    },*/
     "north_platte": {
         name: "North Platte",
         name_english: "North Platte",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "odessa": {
         name: "Odessa",
         name_english: "Odessa",
         code: "us-tx",
         relative_radius: 0.7
+    },
+    "ogallala_ne": {
+        name: "Ogallala",
+        name_english: "Ogallala",
+        code: "us-ne",
+        relative_radius: 0.6
     },
     "oklahoma_city": {
         name: "Oklahoma City",
@@ -1114,13 +1198,13 @@ var country_properties = {
         name_english: "Olympia",
         code: "us-wa",
         relative_radius: 0.7
-    },/*
+    },
     "omaha": {
         name: "Omaha",
         name_english: "Omaha",
         code: "us-ne",
-        relative_radius: 0.7
-    },*/
+        relative_radius: 0.9
+    },
     "omak": {
         name: "Omak",
         name_english: "Omak",
@@ -1372,6 +1456,12 @@ var country_properties = {
         name_english: "Shamrock",
         code: "us-tx",
         relative_radius: 0.5
+    },
+    "shelby": {
+        name: "Shelby",
+        name_english: "Shelby",
+        code: "us-mt",
+        relative_radius: 0.7
     },
     "sheridan": {
         name: "Sheridan",
@@ -1715,6 +1805,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 0.8
     },
+    "wolfpoint": {
+        name: "Wolf Point",
+        name_english: "Wolf Point",
+        code: "us-mt",
+        relative_radius: 0.7
+    },
     "woodward": {
         name: "Woodward",
         name_english: "Woodward",
@@ -1836,6 +1932,9 @@ var city_properties = {
     },
     "big_spring": {
         relative_whitenoise: 0.95
+    },
+    "billings": {
+        relative_whitenoise: 0.85
     },
     "bluff": {
         relative_whitenoise: 0.95
@@ -1987,6 +2086,9 @@ var city_properties = {
     "diablo": {
         relative_whitenoise: 0.95
     },
+    "dillon": {
+        relative_whitenoise: 0.85
+    },
     "dodge_city": {
         relative_radius: 0.9,
         relative_whitenoise: 0.95
@@ -2058,6 +2160,10 @@ var city_properties = {
     "fresno": {
         relative_whitenoise: 0.85
     },
+    "forsyth": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.85
+    },
     "fort_collins": {
         relative_whitenoise: 0.85
     },
@@ -2082,15 +2188,24 @@ var city_properties = {
     "gillette": {
         relative_whitenoise: 0.85
     },
+    "glasgow": {
+        relative_whitenoise: 0.85
+    },
+    "glendive": {
+        relative_whitenoise: 0.85
+    },
     "glenwood_springs": {
         relative_whitenoise: 0.85
     },
     "g_canyon_vlg": {
         relative_whitenoise: 0.85
-    },/*
+    },
+    "greatfalls": {
+        relative_whitenoise: 0.85
+    },
     "grand_island": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "grand_junction_montrose": {
         relative_whitenoise: 0.85
     },
@@ -2114,6 +2229,9 @@ var city_properties = {
     "guymon": {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
+    },
+    "havre": {
+        relative_whitenoise: 0.85
     },
     "hays": {
         relative_whitenoise: 0.95
@@ -2161,6 +2279,9 @@ var city_properties = {
     },
     "john_day": {
         relative_whitenoise: 0.95
+    },
+    "jordan": {
+        relative_whitenoise: 0.85
     },
     "junction": {
 		relative_radius: 1.2,
@@ -2244,6 +2365,10 @@ var city_properties = {
         relative_radius: 0.5,
         relative_whitenoise: 0.80
     },
+    "laurel": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.85
+    },
     "lawrence": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.95
@@ -2257,13 +2382,16 @@ var city_properties = {
     "lewiston": {
         relative_whitenoise: 0.85
     },
+    "lewistown": {
+        relative_whitenoise: 0.85
+    },
     "lincoln_mt": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
-    },/*
+    },
     "lincoln_ne": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "limon": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
@@ -2290,6 +2418,9 @@ var city_properties = {
     },
     "lufkin": {
         relative_whitenoise: 0.95
+    },
+    "malta_mt": {
+        relative_whitenoise: 0.85
     },
     "mankato": {
         relative_whitenoise: 0.95
@@ -2319,10 +2450,10 @@ var city_properties = {
     },
     "mccamey": {
         relative_whitenoise: 0.95
-    },/*
+    },
     "mccook": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "mcdermitt": {
         relative_whitenoise: 0.85
     },
@@ -2331,6 +2462,9 @@ var city_properties = {
     },
     "midland_odessa": {
         relative_whitenoise: 0.95
+    },
+    "milescity": {
+        relative_whitenoise: 0.85
     },
     "missoula": {
         relative_whitenoise: 0.95
@@ -2353,12 +2487,15 @@ var city_properties = {
     },/*
     "norfolk_ne": {
         relative_whitenoise: 0.95
-    },
+    },*/
     "north_platte": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "odessa": {
         relative_radius: 0.6,
+        relative_whitenoise: 0.85
+    },
+    "ogallala_ne": {
         relative_whitenoise: 0.85
     },
     "oklahoma_city": {
@@ -2367,10 +2504,10 @@ var city_properties = {
     "olympia": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
-    },/*
+    },
     "omaha": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "omak": {
         relative_whitenoise: 0.85
     },
@@ -2511,6 +2648,9 @@ var city_properties = {
     },*/
     "shamrock": {
         relative_whitenoise: 0.95
+    },
+    "shelby": {
+        relative_whitenoise: 0.85
     },
     "sheridan": {
         relative_whitenoise: 0.85
@@ -2696,6 +2836,10 @@ var city_properties = {
     },
     "winnemucca": {
         relative_whitenoise: 0.80
+    },
+    "wolfpoint": {
+        relative_radius: 0.6,
+        relative_whitenoise: 0.85
     },
     "woodward": {
         relative_whitenoise: 0.95
@@ -2939,6 +3083,14 @@ var cities = [
         "x": "-24748.8",
         "y": "49.028",
         "z": "37294.7"
+    },
+    {
+        "gameName": "billings",
+        "realName": "Billings",
+        "country": "billings",
+        "x": "-48677.9",
+        "y": "100.012",
+        "z": "-42375.1"
     },
     {
         "gameName": "bishop",
@@ -3373,6 +3525,14 @@ var cities = [
         "z": "-67364.4"
     },
     {
+        "gameName": "dillon",
+        "realName": "Dillon",
+        "country": "butte",
+        "x": "-65859.8",
+        "y": "372.834",
+        "z": "-39032.8"
+    },
+    {
         "gameName": "dodge_city",
         "realName": "Dodge City",
         "country": "dodge_garden_city",
@@ -3541,6 +3701,22 @@ var cities = [
         "z": "16275.2"
     },
     {
+        "gameName": "forsyth",
+        "realName": "Forsyth",
+        "country": "milescity",
+        "x": "-42303.6",
+        "y": "303.387",
+        "z": "-44059.5"
+    },
+    {
+        "gameName": "forsyth",
+        "realName": "Forsyth",
+        "country": "katl",
+        "x": "-42303.6",
+        "y": "303.387",
+        "z": "-44059.5"
+    },
+    {
         "gameName": "fort_collins",
         "realName": "Fort Collins",
         "country": "fort_collins",
@@ -3637,21 +3813,45 @@ var cities = [
         "z": "-31984.8"
     },
     {
+        "gameName": "glasgow",
+        "realName": "Glasgow",
+        "country": "glasgow",
+        "x": "-40268.7",
+        "y": "150",
+        "z": "-54673.6"
+    },
+    {
+        "gameName": "glendive",
+        "realName": "Glendive",
+        "country": "glendive",
+        "x": "-33819.1",
+        "y": "89.2656",
+        "z": "-47322.6"
+    },
+    {
+        "gameName": "glendive",
+        "realName": "Glendive",
+        "country": "katl",
+        "x": "-33819.1",
+        "y": "89.2656",
+        "z": "-47322.6"
+    },
+    {
         "gameName": "glenwood_springs",
         "realName": "Glenwood Springs",
         "country": "glenwood_springs",
         "x": "-48845.1",
         "y": "93.5559",
         "z": "-5649.02"
-    },/*
+    },
     {
         "gameName": "grand_island",
         "realName": "Grand Island",
         "country": "grand_island",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-11181.3",
+        "y": "160.713",
+        "z": "-9546"
+    },
     {
         "gameName": "grand_junction_montrose",
         "realName": "Grand Junction/Montrose",
@@ -3685,6 +3885,14 @@ var cities = [
         "z": "-48313.5"
     },
     {
+        "gameName": "greatfalls",
+        "realName": "Great Falls",
+        "country": "greatfalls",
+        "x": "-57882.9",
+        "y": "99.2813",
+        "z": "-54597.5"
+    },
+    {
         "gameName": "greybull",
         "realName": "Greybull",
         "country": "cody",
@@ -3715,6 +3923,14 @@ var cities = [
         "x": "-24243",
         "y": "106.262",
         "z": "12150.3"
+    },
+    {
+        "gameName": "havre",
+        "realName": "Havre",
+        "country": "havre",
+        "x": "-53179.6",
+        "y": "84.9414",
+        "z": "-57026.8"
     },
     {
         "gameName": "hays",
@@ -3851,6 +4067,14 @@ var cities = [
         "x": "-91674.1",
         "y": "49.3895",
         "z": "-42358.9"
+    },
+    {
+        "gameName": "jordan",
+        "realName": "Jordan",
+        "country": "katl",
+        "x": "-41930.1",
+        "y": "76.3096",
+        "z": "-49571.2"
     },
     {
         "gameName": "junction",
@@ -4069,6 +4293,14 @@ var cities = [
         "z": "33813.9"
     },
     {
+        "gameName": "laurel",
+        "realName": "Laurel",
+        "country": "billings",
+        "x": "-50371.4",
+        "y": "91.3828",
+        "z": "-40981.6"
+    },
+    {
         "gameName": "lawrence",
         "realName": "Lawrence",
         "country": "lawrence",
@@ -4109,6 +4341,14 @@ var cities = [
         "z": "-51559.7"
     },
     {
+        "gameName": "lewistown",
+        "realName": "Lewistown",
+        "country": "lewistown",
+        "x": "-51777.8",
+        "y": "110",
+        "z": "-49878.1"
+    },
+    {
         "gameName": "limon",
         "realName": "Limon",
         "country": "colorado_springs_pueblo",
@@ -4123,15 +4363,15 @@ var cities = [
         "x": "-64169.8",
         "y": "53.5895",
         "z": "-53153.1"
-    },/*
+    },
     {
         "gameName": "lincoln_ne",
         "realName": "Lincoln",
         "country": "lincoln_ne",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-4076.41",
+        "y": "153.148",
+        "z": "-9068.5"
+    },
     {
         "gameName": "logan",
         "realName": "Logan",
@@ -4203,6 +4443,14 @@ var cities = [
         "x": "5703.92",
         "y": "101.668",
         "z": "42729.5"
+    },
+    {
+        "gameName": "malta_mt",
+        "realName": "Malta",
+        "country": "malta_mt",
+        "x": "-46872.8",
+        "y": "218.148",
+        "z": "-55913.4"
     },
     {
         "gameName": "mankato",
@@ -4283,15 +4531,15 @@ var cities = [
         "x": "-29335.4",
         "y": "43.034",
         "z": "43554.9"
-    },/*
+    },
     {
         "gameName": "mccook",
         "realName": "McCook",
         "country": "mccook",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-20050.5",
+        "y": "295",
+        "z": "-7667.82"
+    },
     {
         "gameName": "mcdermitt",
         "realName": "McDermitt",
@@ -4315,6 +4563,22 @@ var cities = [
         "x": "-28095.9",
         "y": "95.0156",
         "z": "37941.6"
+    },
+    {
+        "gameName": "milescity",
+        "realName": "Miles City",
+        "country": "milescity",
+        "x": "-38197.5",
+        "y": "78.9609",
+        "z": "-45381.5"
+    },
+    {
+        "gameName": "milescity",
+        "realName": "Miles City",
+        "country": "katl",
+        "x": "-38197.5",
+        "y": "78.9609",
+        "z": "-45381.5"
     },
     {
         "gameName": "missoula",
@@ -4387,15 +4651,15 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "north_platte",
         "realName": "North Platte",
         "country": "north_platte",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-20111.6",
+        "y": "292.426",
+        "z": "-12577"
+    },
     {
         "gameName": "odessa",
         "realName": "Odessa",
@@ -4427,15 +4691,23 @@ var cities = [
         "x": "-103161",
         "y": "49.8525",
         "z": "-61813"
-    },/*
+    },
+    {
+        "gameName": "ogallala_ne",
+        "realName": "Ogallala",
+        "country": "ogallala_ne",
+        "x": "-25219.9",
+        "y": "66.012",
+        "z": "-12820"
+    },
     {
         "gameName": "omaha",
         "realName": "Omaha",
         "country": "omaha",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "406.785",
+        "y": "214.711",
+        "z": "-12568.8"
+    },
     {
         "gameName": "omak",
         "realName": "Omak",
@@ -4933,6 +5205,14 @@ var cities = [
         "z": "20673.4"
     },
     {
+        "gameName": "shelby",
+        "realName": "Shelby",
+        "country": "shelby",
+        "x": "-59648.5",
+        "y": "114.752",
+        "z": "-61213.5"
+    },
+    {
         "gameName": "sheridan",
         "realName": "Sheridan",
         "country": "sheridan",
@@ -5347,6 +5627,14 @@ var cities = [
         "x": "-91334.8",
         "y": "144.754",
         "z": "-22075.4"
+    },
+    {
+        "gameName": "wolfpoint",
+        "realName": "Wolf Point",
+        "country": "glasgow",
+        "x": "-36778.1",
+        "y": "266.906",
+        "z": "-53491"
     },
     {
         "gameName": "woodward",
@@ -8254,144 +8542,6 @@ var country_properties_c2c = {
         code: "us-mo",
         relative_radius: 0.7
     },
-    "montana": {
-        name: "montana",
-        name_english: "montana",
-        code: "us-mt",
-        relative_radius: 0.9
-    },
-    "billings": {
-        name: "Billings",
-        name_english: "Billings",
-        code: "us-mt",
-        relative_radius: 0.7
-    },
-    "dillon": {
-        name: "Dillon",
-        name_english: "Dillon",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "forsyth": {
-        name: "Forsyth",
-        name_english: "Forsyth",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "glasgow": {
-        name: "Glasgow",
-        name_english: "Glasgow",
-        code: "us-mt",
-        relative_radius: 0.7
-    },
-    "glendive": {
-        name: "Glendive",
-        name_english: "Glendive",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "greatfalls": {
-        name: "Great Falls",
-        name_english: "Great Falls",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "havre": {
-        name: "Havre",
-        name_english: "Havre",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "jordan": {
-        name: "Jordan",
-        name_english: "Jordan",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "katl": {
-        name: "770 KATL",
-        name_english: "770 KATL",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "laurel": {
-        name: "Laurel",
-        name_english: "Laurel",
-        code: "us-mt",
-        relative_radius: 0.9
-    },
-    "lewistown": {
-        name: "Lewistown",
-        name_english: "Lewistown",
-        code: "us-mt",
-        relative_radius: 0.8
-    },
-    "malta_mt": {
-        name: "Malta",
-        name_english: "Malta",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "milescity": {
-        name: "Miles City",
-        name_english: "Miles City",
-        code: "us-mt",
-        relative_radius: 0.6
-    },
-    "shelby": {
-        name: "Shelby",
-        name_english: "Shelby",
-        code: "us-mt",
-        relative_radius: 0.7
-    },
-    "wolfpoint": {
-        name: "Wolf Point",
-        name_english: "Wolf Point",
-        code: "us-mt",
-        relative_radius: 0.7
-    },
-    "nebraska": {
-        name: "nebraska",
-        name_english: "nebraska",
-        code: "us-ne",
-        relative_radius: 1.0
-    },
-    "grand_island": {
-        name: "grand_island",
-        name_english: "grand_island",
-        code: "us-ne",
-        relative_radius: 0.6
-    },
-    "lincoln": {
-        name: "Lincoln",
-        name_english: "Lincoln",
-        code: "us-ne",
-        relative_radius: 0.6
-    },
-    "mccook": {
-        name: "McCook",
-        name_english: "McCook",
-        code: "us-ne",
-        relative_radius: 0.6
-    },
-    "north_platte": {
-        name: "North Platte",
-        name_english: "North Platte",
-        code: "us-ne",
-        relative_radius: 0.7
-    },
-    "ogallala_ne": {
-        name: "Ogallala",
-        name_english: "Ogallala",
-        code: "us-ne",
-        relative_radius: 0.6
-    },
-    "omaha": {
-        name: "omaha",
-        name_english: "omaha",
-        code: "us-ne",
-        relative_radius: 0.9
-    },
     "new_hampshire": {
         name: "new_hampshire",
         name_english: "new_hampshire",
@@ -9293,69 +9443,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.75
     },
     "springfield_mo": {
-        relative_whitenoise: 0.85
-    },
-    "billings": {
-        relative_whitenoise: 0.85
-    },
-    "dillon": {
-        relative_whitenoise: 0.85
-    },
-    "forsyth": {
-		relative_radius: 0.8,
-        relative_whitenoise: 0.85
-    },
-    "glasgow": {
-        relative_whitenoise: 0.85
-    },
-    "glendive": {
-        relative_whitenoise: 0.85
-    },
-    "greatfalls": {
-        relative_whitenoise: 0.85
-    },
-    "havre": {
-        relative_whitenoise: 0.85
-    },
-    "jordan": {
-        relative_whitenoise: 0.85
-    },
-    "laurel": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.85
-    },
-    "lewistown": {
-        relative_whitenoise: 0.85
-    },
-    "malta_mt": {
-        relative_whitenoise: 0.85
-    },
-    "milescity": {
-        relative_whitenoise: 0.85
-    },
-    "shelby": {
-        relative_whitenoise: 0.85
-    },
-    "wolfpoint": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.85
-    },
-    "grand_island": {
-        relative_whitenoise: 0.95
-    },
-    "lincoln": {
-        relative_whitenoise: 0.95
-    },
-    "mccook": {
-        relative_whitenoise: 0.85
-    },
-    "north_platte": {
-        relative_whitenoise: 0.85
-    },
-    "ogallala_ne": {
-        relative_whitenoise: 0.85
-    },
-    "omaha": {
         relative_whitenoise: 0.85
     },
     "manchester_nh": {
@@ -10600,190 +10687,6 @@ var cities_c2c = [
         "x": "12774.7",
         "y": "112.742",
         "z": "10257.9"
-    },
-    {
-        "gameName": "billings",
-        "realName": "Billings",
-        "country": "billings",
-        "x": "-48677.9",
-        "y": "100.012",
-        "z": "-42375.1"
-    },
-    {
-        "gameName": "dillon",
-        "realName": "Dillon",
-        "country": "butte",
-        "x": "-65859.8",
-        "y": "372.834",
-        "z": "-39032.8"
-    },
-    {
-        "gameName": "forsyth",
-        "realName": "Forsyth",
-        "country": "milescity",
-        "x": "-42303.6",
-        "y": "303.387",
-        "z": "-44059.5"
-    },
-    {
-        "gameName": "forsyth",
-        "realName": "Forsyth",
-        "country": "katl",
-        "x": "-42303.6",
-        "y": "303.387",
-        "z": "-44059.5"
-    },
-    {
-        "gameName": "glasgow",
-        "realName": "Glasgow",
-        "country": "glasgow",
-        "x": "-40268.7",
-        "y": "150",
-        "z": "-54673.6"
-    },
-    {
-        "gameName": "glendive",
-        "realName": "Glendive",
-        "country": "glendive",
-        "x": "-33819.1",
-        "y": "89.2656",
-        "z": "-47322.6"
-    },
-    {
-        "gameName": "glendive",
-        "realName": "Glendive",
-        "country": "katl",
-        "x": "-33819.1",
-        "y": "89.2656",
-        "z": "-47322.6"
-    },
-    {
-        "gameName": "greatfalls",
-        "realName": "Great Falls",
-        "country": "greatfalls",
-        "x": "-57882.9",
-        "y": "99.2813",
-        "z": "-54597.5"
-    },
-    {
-        "gameName": "havre",
-        "realName": "Havre",
-        "country": "havre",
-        "x": "-53179.6",
-        "y": "84.9414",
-        "z": "-57026.8"
-    },
-    {
-        "gameName": "jordan",
-        "realName": "Jordan",
-        "country": "katl",
-        "x": "-41930.1",
-        "y": "76.3096",
-        "z": "-49571.2"
-    },
-    {
-        "gameName": "laurel",
-        "realName": "Laurel",
-        "country": "billings",
-        "x": "-50371.4",
-        "y": "91.3828",
-        "z": "-40981.6"
-    },
-    {
-        "gameName": "lewistown",
-        "realName": "Lewistown",
-        "country": "lewistown",
-        "x": "-51777.8",
-        "y": "110",
-        "z": "-49878.1"
-    },
-    {
-        "gameName": "malta_mt",
-        "realName": "Malta",
-        "country": "malta_mt",
-        "x": "-46872.8",
-        "y": "218.148",
-        "z": "-55913.4"
-    },
-    {
-        "gameName": "milescity",
-        "realName": "Miles City",
-        "country": "milescity",
-        "x": "-38197.5",
-        "y": "78.9609",
-        "z": "-45381.5"
-    },
-    {
-        "gameName": "milescity",
-        "realName": "Miles City",
-        "country": "katl",
-        "x": "-38197.5",
-        "y": "78.9609",
-        "z": "-45381.5"
-    },
-    {
-        "gameName": "shelby",
-        "realName": "Shelby",
-        "country": "shelby",
-        "x": "-59648.5",
-        "y": "114.752",
-        "z": "-61213.5"
-    },
-    {
-        "gameName": "wolfpoint",
-        "realName": "Wolf Point",
-        "country": "glasgow",
-        "x": "-36778.1",
-        "y": "266.906",
-        "z": "-53491"
-    },
-    {
-        "gameName": "grand_island",
-        "realName": "Grand Island",
-        "country": "grand_island",
-        "x": "-11181.3",
-        "y": "160.713",
-        "z": "-9546"
-    },
-    {
-        "gameName": "lincoln",
-        "realName": "Lincoln",
-        "country": "lincoln",
-        "x": "-4076.41",
-        "y": "153.148",
-        "z": "-9068.5"
-    },
-    {
-        "gameName": "mccook",
-        "realName": "McCook",
-        "country": "mccook",
-        "x": "-20050.5",
-        "y": "295",
-        "z": "-7667.82"
-    },
-    {
-        "gameName": "north_platte",
-        "realName": "North Platte",
-        "country": "north_platte",
-        "x": "-20111.6",
-        "y": "292.426",
-        "z": "-12577"
-    },
-    {
-        "gameName": "ogallala_ne",
-        "realName": "Ogallala",
-        "country": "ogallala_ne",
-        "x": "-25219.9",
-        "y": "66.012",
-        "z": "-12820"
-    },
-    {
-        "gameName": "omaha",
-        "realName": "Omaha",
-        "country": "omaha",
-        "x": "406.785",
-        "y": "214.711",
-        "z": "-12568.8"
     },
     {
         "gameName": "manchester_nh",
