@@ -12544,11 +12544,6 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc8666/hls.m3u8"
         },
         {
-            name: "Air1 92.3-HD3",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
             name: "93.1 Jack FM",
             logo: "stations/images-america/los_angeles/93.1 Jack FM.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kcbsfmaac-imc"
@@ -12579,6 +12574,11 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
         },
         {
+            name: "Radio Hamrah 94.7-HD3",
+            logo: "stations/images-america/los_angeles/Radio Hamrah 94.7-HD3.png",
+            url: "https://stream.zeno.fm/gxdq0awu30duv"
+        },
+        {
             name: "95.5 KLOS",
             logo: "stations/images-america/los_angeles/95.5 KLOS.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
@@ -12589,9 +12589,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC_SC"
         },
         {
-            name: "SoCal Armenian 95.5-HD3",
-            logo: "stations/images-america/los_angeles/SoCal Armenian 95.5-HD3.png",
-            url: "https://ice5.securenetsystems.net/KIRNHD"
+            name: "95.5 KLOS-HD3",
+            logo: "stations/images-america/los_angeles/SoCal Persian.png",
+            url: "https://ice41.securenetsystems.net/KIRN"
         },
         {
             name: "95.9 The Fish",
@@ -12629,6 +12629,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc201/hls.m3u8"
         },
         {
+            name: "98.7 KYSR-HD2",
+            logo: "stations/images-america/los_angeles/570 LA Sports.png",
+            url: "https://stream.revma.ihrhls.com/zc189"
+        },
+        {
             name: "99.1 K256CX",
             logo: "stations/images-america/los_angeles/KWAVE.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
@@ -12644,9 +12649,24 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "Air1 100.3-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "Radio Nueva Vida 100.3-HD3",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://ice10.securenetsystems.net/KMRO"
+        },
+        {
             name: "K-EARTH 101",
             logo: "stations/images-america/los_angeles/K-EARTH 101.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-krthfmaac-imc"
+        },
+        {
+            name: "Channel Q 101.1-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "KQBH 101.5",
@@ -12657,6 +12677,16 @@ var stations = {
             name: "LA 101.9",
             logo: "stations/images-america/los_angeles/LA 101.9.png",
             url: "http://204.93.186.205/index.php?u=https://tu.streamguys1.com/kscafm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "101.9 KSCA-HD2",
+            logo: "stations/images-america/los_angeles/1020 KTNQ.png",
+            url: "http://204.93.186.205/index.php?u=http://tu.streamguys1.com/ktnqam-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "Radio Vanak 101.9-HD3",
+            logo: "stations/images-america/los_angeles/Radio Vanak 101.9-HD3.png",
+            url: "https://s10.citrus3.com:8462/stream"
         },
         {
             name: "102.3 KJLH",
@@ -12704,14 +12734,29 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
         },
         {
+            name: "Power 106",
+            logo: "stations/images-america/los_angeles/Power 106.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC"
+        },
+        {
+            name: "105.9 KPWR-HD2",
+            logo: "stations/images-america/los_angeles/93.5 KDAY.png",
+            url: "http://204.93.186.205/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
+        },
+        {
             name: "Radio VNCR 106.3",
             logo: "stations/images-america/los_angeles/Radio VNCR 106.3.png",
             url: "https://ice5.securenetsystems.net/KALI"
         },
         {
-            name: "Power 106",
-            logo: "stations/images-america/los_angeles/Power 106.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC"
+            name: "106.3 KALI-HD2",
+			logo: "stations/images-america/los_angeles/RadioK 1230.png",
+			url: "http://live.rcast.net:9178//stream"
+        },
+        {
+            name: "106.3 KALI-HD3",
+			logo: "stations/images-america/los_angeles/KAZN AM1300.png",
+			url: "http://mobilewzrc.serverroom.us:6914//stream.mp3"
         },
         {
             name: "106.7 KROQ",
@@ -12734,6 +12779,16 @@ var stations = {
             url: "http://s4.voscast.com:8864/stream"
         },
         {
+            name: "ArmMusic Radio 107.5-HD3",
+            logo: "stations/images-america/los_angeles/ArmMusic Radio 107.5-HD3.png",
+            url: "https://listen7.myradio24.com/armmusic"
+        },
+        {
+            name: "Pop FM 107.5-HD4",
+            logo: "stations/images-america/los_angeles/Pop FM 107.5-HD4.png",
+            url: "http://s4.voscast.com:8862/stream"
+        },
+        {
             name: "570 LA Sports",
             logo: "stations/images-america/los_angeles/570 LA Sports.png",
             url: "https://stream.revma.ihrhls.com/zc189/hls.m3u8"
@@ -12742,6 +12797,11 @@ var stations = {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
             url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
+        },
+        {
+            name: "KIRN 670",
+            logo: "stations/images-america/los_angeles/SoCal Persian.png",
+            url: "http://ice41.securenetsystems.net/KIRN"
         },
         {
             name: "URadio 690",
@@ -12787,6 +12847,11 @@ var stations = {
             name: "GBC 1190",
 			logo: "stations/images-america/los_angeles/GBC 1190.png",
 			url: "https://streamer.radio.co/scb2948df3/listen"
+        },
+        {
+            name: "RadioK 1230",
+			logo: "stations/images-america/los_angeles/RadioK 1230.png",
+			url: "http://live.rcast.net:9178/;stream"
         },
         {
             name: "K-Mozart 1260",
