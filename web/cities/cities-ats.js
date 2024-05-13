@@ -203,6 +203,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.6
     },
+    "broken_bow": {
+        name: "Broken Bow",
+        name_english: "Broken Bow",
+        code: "us-ne",
+        relative_radius: 0.6
+    },
     "brownwood": {
         name: "Brownwood",
         name_english: "Brownwood",
@@ -683,6 +689,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.6
     },
+    "greeley_center": {
+        name: "Greeley Center",
+        name_english: "Greeley Center",
+        code: "us-ne",
+        relative_radius: 0.6
+    },
     "greybull": {
         name: "Greybull",
         name_english: "Greybull",
@@ -760,6 +772,12 @@ var country_properties = {
         name_english: "Hutchinson",
         code: "us-ks",
         relative_radius: 0.7
+    },
+    "hyannis": {
+        name: "Hyannis",
+        name_english: "Hyannis",
+        code: "us-ne",
+        relative_radius: 0.6
     },
     "idabel": {
         name: "Idabel",
@@ -1211,6 +1229,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.7
     },
+    "oneill": {
+        name: "O'Neill",
+        name_english: "O'Neill",
+        code: "us-ne",
+        relative_radius: 0.6
+    },
     "ouray": {
         name: "Ouray",
         name_english: "Ouray",
@@ -1636,7 +1660,13 @@ var country_properties = {
         name_english: "The Dalles",
         code: "us-or",
         relative_radius: 0.6
-    },
+    },/*
+    "thedford": {
+        name: "Thedford",
+        name_english: "The Thedford",
+        code: "us-ne",
+        relative_radius: 0.6
+    },*/
     "tierra_amarilla": {
         name: "Tierra Amarilla",
         name_english: "Tierra Amarilla",
@@ -1956,6 +1986,9 @@ var city_properties = {
 		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
+    "broken_bow": {
+        relative_whitenoise: 0.95
+    },
     "brownwood": {
         relative_whitenoise: 0.95
     },
@@ -2200,9 +2233,6 @@ var city_properties = {
     "g_canyon_vlg": {
         relative_whitenoise: 0.85
     },
-    "greatfalls": {
-        relative_whitenoise: 0.85
-    },
     "grand_island": {
         relative_whitenoise: 0.95
     },
@@ -2218,6 +2248,12 @@ var city_properties = {
     },
     "grangeville": {
         relative_whitenoise: 0.85
+    },
+    "greatfalls": {
+        relative_whitenoise: 0.85
+    },
+    "greeley_center": {
+        relative_whitenoise: 0.95
     },
     "greybull": {
 		relative_radius: 0.8,
@@ -2262,6 +2298,9 @@ var city_properties = {
     },
     "hutchinson": {
         relative_radius: 0.6,
+        relative_whitenoise: 0.95
+    },
+    "hyannis": {
         relative_whitenoise: 0.95
     },
     "idabel": {
@@ -2511,6 +2550,9 @@ var city_properties = {
     "omak": {
         relative_whitenoise: 0.85
     },
+    "oneill": {
+        relative_whitenoise: 0.95
+    },
     "ouray": {
 		relative_radius: 0.4,
         relative_whitenoise: 0.95
@@ -2745,7 +2787,10 @@ var city_properties = {
     },
     "the_dalles": {
         relative_whitenoise: 0.85
-    },
+    },/*
+    "thedford": {
+        relative_whitenoise: 0.95
+    },*/
     "tierra_amarilla": {
         relative_whitenoise: 0.95
     },
@@ -3155,7 +3200,15 @@ var cities = [
         "x": "-37438.1",
         "y": "87.7157",
         "z": "-39430.3"
-    },
+    },/*
+    {
+        "gameName": "broken_bow",
+        "realName": "Broken Bow",
+        "country": "broken_bow",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "broadus",
         "realName": "Broadus",
@@ -3891,7 +3944,15 @@ var cities = [
         "x": "-57882.9",
         "y": "99.2813",
         "z": "-54597.5"
-    },
+    },/*
+    {
+        "gameName": "greeley_center",
+        "realName": "Greeley Center",
+        "country": "greeley_center",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "greybull",
         "realName": "Greybull",
@@ -4019,7 +4080,15 @@ var cities = [
         "x": "-9413.49",
         "y": "80",
         "z": "4985.48"
-    },
+    },/*
+    {
+        "gameName": "hyannis",
+        "realName": "Hyannis",
+        "country": "hyannis",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "idabel",
         "realName": "Idabel",
@@ -4715,7 +4784,15 @@ var cities = [
         "x": "-89094.8",
         "y": "49.3279",
         "z": "-64462"
-    },
+    },/*
+    {
+        "gameName": "oneill",
+        "realName": "O'Neill",
+        "country": "oneill",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "ouray",
         "realName": "Ouray",
@@ -5363,7 +5440,15 @@ var cities = [
         "x": "-96967.8",
         "y": "79.5923",
         "z": "-50162.2"
-    },
+    },/*
+    {
+        "gameName": "thedford",
+        "realName": "Thedford",
+        "country": "thedford",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "tierra_amarilla",
         "realName": "Tierra Amarilla",
