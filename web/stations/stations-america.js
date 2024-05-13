@@ -22341,6 +22341,7 @@ var stations = {
             logo: "stations/images-america/the_dalles/KODL 100.7.png",
             url: "http://ice3.securenetsystems.net/KODL"
         },
+    ],
     "thedford": [
         {
             name: "NPM 90.3",
