@@ -3697,7 +3697,7 @@ var stations = {
             url: "http://s10.voscast.com:8202/stream"
         },
     ],
-    "mnegro": [
+    "montenegro": [
         {
             name: "RCG",
             logo: "stations/images-europe/mnegro/RTCG.png",
