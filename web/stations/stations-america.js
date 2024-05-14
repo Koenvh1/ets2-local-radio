@@ -12041,6 +12041,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1337/hls.m3u8"
         },
         {
+            name: "93.1 KYMT-HD2",
+            logo: "stations/images-america/las_vegas/Real 103.9.png",
+            url: "https://stream.revma.ihrhls.com/zc6967"
+        },
+        {
             name: "Mix 94.1",
             logo: "stations/images-america/las_vegas/Mix 94.1.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kmxbfmaac-imc"
@@ -12049,6 +12054,11 @@ var stations = {
             name: "Channel Q 94.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+        },
+        {
+            name: "94.1 KMXB-HD3",
+            logo: "stations/images-america/las_vegas/101.5 K-DAWN.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
         },
         {
             name: "Amor 94.5",
@@ -12069,6 +12079,11 @@ var stations = {
             name: "96.3 KKLZ",
             logo: "stations/images-america/las_vegas/96.3 KKLZ.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
+        },
+        {
+            name: "Playa 96.3-HD2",
+            logo: "stations/images-america/las_vegas/Playa 96.3-HD2.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUHD2AAC_SC"
         },
         {
             name: "La Campesina 96.7",
@@ -12136,14 +12151,24 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kxqqfmaac-imc"
         },
         {
+            name: "100.5 KXQQ-HD2",
+            logo: "stations/images-america/las_vegas/840 KXNT.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-kxntamaac-imc"
+        },
+        {
+            name: "100.5 KXQQ-HD3",
+            logo: "stations/images-america/las_vegas/La Campesina 96.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KYLIFMAAC_SC"
+        },
+        {
             name: "ESPN 100.9",
             logo: "stations/images-america/las_vegas/ESPN 100.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAMAAC_SC"
         },
         {
-            name: "KDWN 101.5",
-            logo: "stations/images-america/las_vegas/KDWN 101.5.png",
-            url: "https://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
+            name: "101.5 K-DAWN",
+            logo: "stations/images-america/las_vegas/101.5 K-DAWN.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-kdwnamaac-imc"
         },
         {
             name: "La Buena 101.9",
@@ -12151,9 +12176,19 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWIDFMAAC_SC"
         },
         {
+            name: "KOOL 102",
+            logo: "stations/images-america/las_vegas/KOOL 102.png",
+            url: "https://ice8.securenetsystems.net/KQLL"
+        },
+        {
             name: "102.7 VGS",
             logo: "stations/images-america/las_vegas/102.7 VGS.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
+        },
+        {
+            name: "102.7 KVGS-HD2",
+            logo: "stations/images-america/las_vegas/107.9 Coyote Country.png",
+            url: "http://204.93.186.205/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
         },
         {
             name: "Zona MX 103.5",
@@ -12186,9 +12221,14 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
         },
         {
-            name: "The Breeze 106.5-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "Magic 106.5-HD2",
+            logo: "stations/images-america/0_general_logos/Magic.png",
+            url: "https://stream.revma.ihrhls.com/zc10085/hls.m3u8"
+        },
+        {
+            name: "106.5 KSNE-HD3",
+            logo: "stations/images-america/barstow/KNLB 90.9.png",
+            url: "https://ic1.sslstream.com/knlb-fm"
         },
         {
             name: "106.9 The Bomb",
@@ -31487,6 +31527,11 @@ var stations_c2c = {
             name: "BIN 640",
             logo: "stations/images-america/c2c/atlanta_ga/BIN 640.png",
             url: "https://stream.revma.ihrhls.com/zc6066/hls.m3u8"
+        },
+        {
+            name: "Playa 860",
+            logo: "stations/images-america/c2c/atlanta_ga/Playa 860.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUHD2AAC_SC"
         },
         {
             name: "AM 920 The Answer",
