@@ -53,6 +53,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 1.1
     },
+    "ansley": {
+        name: "Ansley",
+        name_english: "Ansley",
+        code: "us-ne",
+        relative_radius: 0.6
+    },
     "ardmore": {
         name: "Ardmore",
         name_english: "Ardmore",
@@ -64,6 +70,12 @@ var country_properties = {
         name_english: "Astoria",
         code: "us-or",
         relative_radius: 0.6
+    },
+    "auburn_ne": {
+        name: "Auburn",
+        name_english: "Auburn",
+        code: "us-ne",
+        relative_radius: 0.7
     },
     "austin": {
         name: "Austin",
@@ -112,6 +124,12 @@ var country_properties = {
         name_english: "Barstow",
         code: "us-ca",
         relative_radius: 0.7
+    },
+    "bartlett": {
+        name: "Bartlett",
+        name_english: "Bartlett",
+        code: "us-ne",
+        relative_radius: 0.6
     },
     "bellingham": {
         name: "Bellingham",
@@ -201,12 +219,6 @@ var country_properties = {
         name: "Broadus",
         name_english: "Broadus",
         code: "us-mt",
-        relative_radius: 0.6
-    },
-    "broken_bow": {
-        name: "Broken Bow",
-        name_english: "Broken Bow",
-        code: "us-ne",
         relative_radius: 0.6
     },
     "brownwood": {
@@ -509,6 +521,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.0
     },
+    "elm_creek": {
+        name: "Elm Creek",
+        name_english: "Elm Creek",
+        code: "us-ne",
+        relative_radius: 0.6
+    },
     "ely": {
         name: "Ely",
         name_english: "Ely",
@@ -687,12 +705,6 @@ var country_properties = {
         name: "Great Falls",
         name_english: "Great Falls",
         code: "us-mt",
-        relative_radius: 0.6
-    },
-    "greeley_center": {
-        name: "Greeley Center",
-        name_english: "Greeley Center",
-        code: "us-ne",
         relative_radius: 0.6
     },
     "greybull": {
@@ -1373,6 +1385,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.6
     },
+    "red_cloud": {
+        name: "Red Cloud",
+        name_english: "Red Cloud",
+        code: "us-ne",
+        relative_radius: 0.6
+    },
     "redding": {
         name: "Redding",
         name_english: "Redding",
@@ -1903,11 +1921,17 @@ var city_properties = {
     "amarillo": {
         relative_whitenoise: 0.95
     },
+    "ansley": {
+        relative_whitenoise: 0.95
+    },
     "ardmore": {
         relative_whitenoise: 0.95
     },
     "astoria": {
         relative_whitenoise: 0.75
+    },
+    "auburn_ne": {
+        relative_whitenoise: 0.95
     },
     "austin": {
         relative_whitenoise: 0.95
@@ -1936,6 +1960,9 @@ var city_properties = {
     "barstow_west": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
+    },
+    "bartlett": {
+        relative_whitenoise: 0.95
     },
     "bellingham": {
         relative_whitenoise: 0.85
@@ -1985,9 +2012,6 @@ var city_properties = {
     "broadus": {
 		relative_radius: 0.9,
         relative_whitenoise: 0.85
-    },
-    "broken_bow": {
-        relative_whitenoise: 0.95
     },
     "brownwood": {
         relative_whitenoise: 0.95
@@ -2145,6 +2169,10 @@ var city_properties = {
     "elko": {
         relative_whitenoise: 0.85
     },
+    "elm_creek": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "el_paso": {
         relative_whitenoise: 0.95
     },
@@ -2251,9 +2279,6 @@ var city_properties = {
     },
     "greatfalls": {
         relative_whitenoise: 0.85
-    },
-    "greeley_center": {
-        relative_whitenoise: 0.95
     },
     "greybull": {
 		relative_radius: 0.8,
@@ -2633,6 +2658,9 @@ var city_properties = {
         relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
+    "red_cloud": {
+        relative_whitenoise: 0.95
+    },
     "redding": {
         relative_whitenoise: 0.75
     },
@@ -2984,7 +3012,15 @@ var cities = [
         "x": "-26731.8",
         "y": "100.102",
         "z": "20312.9"
-    },
+    },/*
+    {
+        "gameName": "ansley",
+        "realName": "Ansley",
+        "country": "ansley",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "ardmore",
         "realName": "Ardmore",
@@ -3000,7 +3036,15 @@ var cities = [
         "x": "-109480",
         "y": "110.426",
         "z": "-56823.9"
-    },
+    },/*
+    {
+        "gameName": "auburn_ne",
+        "realName": "Auburn",
+        "country": "auburn_ne",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "austin",
         "realName": "Austin",
@@ -3072,7 +3116,15 @@ var cities = [
         "x": "-98124.8",
         "y": "37.3969",
         "z": "12579.6"
-    },
+    },/*
+    {
+        "gameName": "bartlett",
+        "realName": "Bartlett",
+        "country": "bartlett",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "bellingham",
         "realName": "Bellingham",
@@ -3200,15 +3252,7 @@ var cities = [
         "x": "-37438.1",
         "y": "87.7157",
         "z": "-39430.3"
-    },/*
-    {
-        "gameName": "broken_bow",
-        "realName": "Broken Bow",
-        "country": "broken_bow",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+    },
     {
         "gameName": "broadus",
         "realName": "Broadus",
@@ -3648,7 +3692,15 @@ var cities = [
         "x": "-81952",
         "y": "107.351",
         "z": "-20153"
-    },
+    },/*
+    {
+        "gameName": "elm_creek",
+        "realName": "Elm Creek",
+        "country": "ansley",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "el_paso",
         "realName": "El Paso/Cd. Juárez",
@@ -3944,15 +3996,7 @@ var cities = [
         "x": "-57882.9",
         "y": "99.2813",
         "z": "-54597.5"
-    },/*
-    {
-        "gameName": "greeley_center",
-        "realName": "Greeley Center",
-        "country": "greeley_center",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+    },
     {
         "gameName": "greybull",
         "realName": "Greybull",
@@ -4968,7 +5012,15 @@ var cities = [
         "x": "-112992",
         "y": "153.224",
         "z": "-20492.6"
-    },
+    },/*
+    {
+        "gameName": "red_cloud",
+        "realName": "Red Cloud",
+        "country": "red_cloud",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "redding",
         "realName": "Redding",
