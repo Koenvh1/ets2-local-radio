@@ -20761,7 +20761,7 @@ var stations = {
         },
         {
             name: "101.3 KOZY",
-            logo: "stations/images-america/wheatland/101.3 KOZY.png",
+            logo: "stations/images-america/scottsbluff/101.3 KOZY.png",
             url: "https://ais-sa1.streamon.fm/7658_48k.aac"
         },
         {
