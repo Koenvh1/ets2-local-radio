@@ -40,13 +40,13 @@ var country_properties = {
         name_english: "Albuquerque",
         code: "us-nm",
         relative_radius: 0.9
-    },/*
+    },
     "alliance": {
         name: "Alliance",
         name_english: "Alliance",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "amarillo": {
         name: "Amarillo",
         name_english: "Amarillo",
@@ -292,13 +292,13 @@ var country_properties = {
         name_english: "Cedar City",
         code: "us-ut",
         relative_radius: 0.8
-    },/*
+    },
     "chadron": {
         name: "Chadron",
         name_english: "Chadron",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "cheyenne": {
         name: "Cheyenne",
         name_english: "Cheyenne",
@@ -364,13 +364,13 @@ var country_properties = {
         name_english: "Colorado Springs/Pueblo",
         code: "us-co",
         relative_radius: 0.9
-    },/*
+    },
     "columbus": {
         name: "Columbus",
         name_english: "Columbus",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "colville": {
         name: "Colville",
         name_english: "Colville",
@@ -1192,13 +1192,13 @@ var country_properties = {
         name_english: "Newport",
         code: "us-or",
         relative_radius: 0.6
-    },/*
+    },
     "norfolk_ne": {
         name: "Norfolk",
         name_english: "Norfolk",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "north_platte": {
         name: "North Platte",
         name_english: "North Platte",
@@ -1486,13 +1486,13 @@ var country_properties = {
         name_english: "Schulenburg",
         code: "us-tx",
         relative_radius: 0.4
-    },/*
+    },
     "scottsbluff": {
         name: "Scottsbluff",
         name_english: "Scottsbluff",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "shamrock": {
         name: "Shamrock",
         name_english: "Shamrock",
@@ -1510,13 +1510,13 @@ var country_properties = {
         name_english: "Sheridan",
         code: "us-wy",
         relative_radius: 0.8
-    },/*
+    },
     "sidney": {
         name: "Sidney",
         name_english: "Sidney",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "steamboat_sp": {
         name: "Steamboat Springs",
         name_english: "Steamboat Springs",
@@ -1756,13 +1756,13 @@ var country_properties = {
         name_english: "Uvalde",
         code: "us-tx",
         relative_radius: 0.5
-    },/*
+    },
     "valentine": {
         name: "Valentine",
         name_english: "Valentine",
         code: "us-ne",
         relative_radius: 0.7
-    },*/
+    },
     "vallejo": {
         name: "Vallejo",
         name_english: "Vallejo",
@@ -1913,11 +1913,11 @@ var city_properties = {
     "albuquerque_south": {
 		relative_radius: 0.3,
         relative_whitenoise: 0.85
-    },/*
+    },
     "alliance": {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
-    },*/
+    },
     "amarillo": {
         relative_whitenoise: 0.95
     },
@@ -2056,10 +2056,10 @@ var city_properties = {
     "cedar_city": {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
-    },/*
+    },
     "chadron": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "cheyenne": {
         relative_whitenoise: 0.85
     },
@@ -2089,10 +2089,10 @@ var city_properties = {
     },
     "college_station": {
         relative_whitenoise: 0.95
-    },/*
+    },
     "columbus": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "colorado_springs_pueblo": {
         relative_whitenoise: 0.85
     },
@@ -2548,10 +2548,10 @@ var city_properties = {
     },
     "newport": {
         relative_whitenoise: 0.85
-    },/*
+    },
     "norfolk_ne": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "north_platte": {
         relative_whitenoise: 0.95
     },
@@ -2711,11 +2711,11 @@ var city_properties = {
     },
     "schulenburg": {
         relative_whitenoise: 0.95
-    },/*
+    },
     "scottsbluff": {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
-    },*/
+    },
     "shamrock": {
         relative_whitenoise: 0.95
     },
@@ -2775,10 +2775,10 @@ var city_properties = {
     },
     "show_low": {
         relative_whitenoise: 0.80
-    },/*
+    },
     "sidney": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "sierra_vista": {
         relative_whitenoise: 0.85
     },
@@ -2859,10 +2859,10 @@ var city_properties = {
     },
     "van_horn": {
         relative_whitenoise: 0.95
-    },/*
+    },
     "valentine": {
         relative_whitenoise: 0.95
-    },*/
+    },
     "vallejo": {
 		relative_radius: 0.45,
         relative_whitenoise: 0.75
@@ -2988,23 +2988,23 @@ var cities = [
         "x": "-49704.4",
         "y": "80.0663",
         "z": "21583.7"
-    },/*
+    },
     {
         "gameName": "alliance",
         "realName": "Alliance",
         "country": "alliance",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-28456.6",
+        "y": "117.199",
+        "z": "-19081.8"
     },
     {
         "gameName": "alliance",
         "realName": "Alliance",
         "country": "scottsbluff",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-28456.6",
+        "y": "117.199",
+        "z": "-19081.8"
+    },
     {
         "gameName": "amarillo",
         "realName": "Amarillo",
@@ -3388,15 +3388,15 @@ var cities = [
         "x": "-74187.1",
         "y": "124.221",
         "z": "-2143.96"
-    },/*
+    },
     {
         "gameName": "chadron",
         "realName": "Chadron",
         "country": "chadron",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-28344.9",
+        "y": "100.031",
+        "z": "-22955.2"
+    },
     {
         "gameName": "cheyenne",
         "realName": "Cheyenne",
@@ -3484,15 +3484,15 @@ var cities = [
         "x": "-37543",
         "y": "97.4214",
         "z": "528.353"
-    },/*
+    },
     {
         "gameName": "columbus",
         "realName": "Columbus",
         "country": "columbus",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-6094.45",
+        "y": "112.301",
+        "z": "-14339.5"
+    },
     {
         "gameName": "colville",
         "realName": "Colville",
@@ -3953,9 +3953,9 @@ var cities = [
         "gameName": "grand_island",
         "realName": "Grand Island",
         "country": "grand_island",
-        "x": "-11181.3",
-        "y": "160.713",
-        "z": "-9546"
+        "x": "-10488.6",
+        "y": "84.8008",
+        "z": "-12028.4"
     },
     {
         "gameName": "grand_junction_montrose",
@@ -4481,9 +4481,9 @@ var cities = [
         "gameName": "lincoln_ne",
         "realName": "Lincoln",
         "country": "lincoln_ne",
-        "x": "-4076.41",
-        "y": "153.148",
-        "z": "-9068.5"
+        "x": "-3768.03",
+        "y": "60.9922",
+        "z": "-10183.7"
     },
     {
         "gameName": "logan",
@@ -4649,9 +4649,9 @@ var cities = [
         "gameName": "mccook",
         "realName": "McCook",
         "country": "mccook",
-        "x": "-20050.5",
-        "y": "295",
-        "z": "-7667.82"
+        "x": "-19839.3",
+        "y": "97.0664",
+        "z": "-7176.68"
     },
     {
         "gameName": "mcdermitt",
@@ -4756,22 +4756,22 @@ var cities = [
         "x": "-112428",
         "y": "70.2531",
         "z": "-49031.1"
-    },/*
+    },
     {
         "gameName": "norfolk_ne",
         "realName": "Norfolk",
         "country": "norfolk_ne",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-6215.09",
+        "y": "84.8008",
+        "z": "-17418.2"
+    },
     {
         "gameName": "north_platte",
         "realName": "North Platte",
         "country": "north_platte",
-        "x": "-20111.6",
-        "y": "292.426",
-        "z": "-12577"
+        "x": "-20265.6",
+        "y": "79.8008",
+        "z": "-12950.8"
     },
     {
         "gameName": "odessa",
@@ -4817,9 +4817,9 @@ var cities = [
         "gameName": "omaha",
         "realName": "Omaha",
         "country": "omaha",
-        "x": "406.785",
-        "y": "214.711",
-        "z": "-12568.8"
+        "x": "-282.242",
+        "y": "75",
+        "z": "-13517.8"
     },
     {
         "gameName": "omak",
@@ -5300,23 +5300,23 @@ var cities = [
         "x": "-4574.02",
         "y": "14.3862",
         "z": "52492.1"
-    },/*
+    },
     {
         "gameName": "scottsbluff",
         "realName": "Scottsbluff",
         "country": "scottsbluff",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-31898",
+        "y": "121.211",
+        "z": "-18348.7"
     },
     {
         "gameName": "scottsbluff",
         "realName": "Scottsbluff",
         "country": "alliance",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-31898",
+        "y": "121.211",
+        "z": "-18348.7"
+    },
     {
         "gameName": "seattle",
         "realName": "Seattle",
@@ -5356,15 +5356,15 @@ var cities = [
         "x": "-65151",
         "y": "102.9",
         "z": "21330.9"
-    },/*
+    },
     {
         "gameName": "sidney",
         "realName": "Sidney",
         "country": "sidney",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-29880.5",
+        "y": "125.707",
+        "z": "-14527.6"
+    },
     {
         "gameName": "sierra_vista",
         "realName": "Sierra Vista",
@@ -5620,15 +5620,15 @@ var cities = [
         "x": "-18954",
         "y": "71.6925",
         "z": "53580"
-    },/*
+    },
     {
         "gameName": "valentine",
         "realName": "Valentine",
         "country": "valentine",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "-19012.4",
+        "y": "104.934",
+        "z": "-22342.2"
+    },
     {
         "gameName": "van_horn",
         "realName": "Van Horn",
