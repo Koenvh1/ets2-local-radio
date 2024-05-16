@@ -1511,7 +1511,7 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.8
     },
-    "sidney": {
+    "sidney_ne": {
         name: "Sidney",
         name_english: "Sidney",
         code: "us-ne",
@@ -2776,7 +2776,7 @@ var city_properties = {
     "show_low": {
         relative_whitenoise: 0.80
     },
-    "sidney": {
+    "sidney_ne": {
         relative_whitenoise: 0.95
     },
     "sierra_vista": {
@@ -5358,9 +5358,9 @@ var cities = [
         "z": "21330.9"
     },
     {
-        "gameName": "sidney",
+        "gameName": "sidney_ne",
         "realName": "Sidney",
-        "country": "sidney",
+        "country": "sidney_ne",
         "x": "-29880.5",
         "y": "125.707",
         "z": "-14527.6"
