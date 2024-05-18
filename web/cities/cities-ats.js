@@ -51,7 +51,7 @@ var country_properties = {
         name: "Alma",
         name_english: "Alma",
         code: "us-ne",
-        relative_radius: 0.4
+        relative_radius: 0.7
     },
     "amarillo": {
         name: "Amarillo",
@@ -141,13 +141,13 @@ var country_properties = {
         name: "Bassett",
         name_english: "Bassett",
         code: "us-ne",
-        relative_radius: 0.4
+        relative_radius: 0.6
     },
     "beatrice": {
         name: "Beatrice",
         name_english: "Beatrice",
         code: "us-ne",
-        relative_radius: 0.4
+        relative_radius: 0.6
     },
     "beaumont": {
         name: "Beaumont",
@@ -759,7 +759,7 @@ var country_properties = {
         name: "Hebron",
         name_english: "Hebron",
         code: "us-ne",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "helena": {
         name: "Helena",
@@ -1173,7 +1173,7 @@ var country_properties = {
         name: "Merriman",
         name_english: "Merriman",
         code: "us-ne",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "midland_odessa": {
         name: "Midland/Odessa",
@@ -1431,7 +1431,7 @@ var country_properties = {
         name: "Red Cloud",
         name_english: "Red Cloud",
         code: "us-ne",
-        relative_radius: 0.4
+        relative_radius: 0.7
     },
     "redding": {
         name: "Redding",
@@ -1973,6 +1973,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "alma": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "amarillo": {
@@ -2022,9 +2023,11 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "bassett": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "beatrice": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "beaumont": {
@@ -2034,7 +2037,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "belleville_ks": {
-		relative_radius: 0.5,
+		relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "bend": {
@@ -2361,6 +2364,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "hebron": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "helena": {
@@ -2591,6 +2595,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "merriman": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "midland_odessa": {
@@ -2733,6 +2738,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "red_cloud": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "redding": {
@@ -3094,7 +3100,7 @@ var cities = [
     {
         "gameName": "alma",
         "realName": "Alma",
-        "country": "alma",
+        "country": "grand_island",
         "x": "-14586",
         "y": "61.3728",
         "z": "-6918.97"
@@ -3228,12 +3234,36 @@ var cities = [
         "z": "-20549"
     },
     {
+        "gameName": "bassett",
+        "realName": "Bassett",
+        "country": "oneill",
+        "x": "-14995.5",
+        "y": "52.6483",
+        "z": "-20549"
+    },
+    {
         "gameName": "beatrice",
         "realName": "Beatrice",
         "country": "beatrice",
         "x": "-3938.86",
         "y": "46.0063",
         "z": "-7144.62"
+    },
+    {
+        "gameName": "beatrice",
+        "realName": "Beatrice",
+        "country": "lincoln_ne",
+        "x": "-3938.86",
+        "y": "46.0063",
+        "z": "-7144.62"
+    },
+    {
+        "gameName": "beatrice",
+        "realName": "Beatrice",
+        "country": "marysville",
+        "x": "-3938.86",
+        "y": "46.0063",
+        "z": "-8144.62"
     },
     {
         "gameName": "beaumont",
@@ -4158,10 +4188,18 @@ var cities = [
     {
         "gameName": "hebron",
         "realName": "Hebron",
-        "country": "hebron",
+        "country": "lincoln_ne",
         "x": "-7040.66",
         "y": "39.3623",
-        "z": "-6896.19"
+        "z": "-7196.19"
+    },
+    {
+        "gameName": "hebron",
+        "realName": "Hebron",
+        "country": "mankato",
+        "x": "-7040.66",
+        "y": "39.3623",
+        "z": "-6596.19"
     },
     {
         "gameName": "helena",
@@ -4790,7 +4828,7 @@ var cities = [
     {
         "gameName": "merriman",
         "realName": "Merriman",
-        "country": "merriman",
+        "country": "valentine",
         "x": "-23476.4",
         "y": "78.6246",
         "z": "-22963.8"
@@ -5150,7 +5188,7 @@ var cities = [
     {
         "gameName": "red_cloud",
         "realName": "Red Cloud",
-        "country": "red_cloud",
+        "country": "grand_island",
         "x": "-11109.8",
         "y": "56.4332",
         "z": "-6343.74"
