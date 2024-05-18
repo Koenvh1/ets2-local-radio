@@ -12638,7 +12638,7 @@ var stations = {
             url: "https://ic2.sslstream.com/kxlo-am"
         },
     ],
-    "lincoln": [
+    "lincoln_ne": [
         {
             name: "Bott Radio 88.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
