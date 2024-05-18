@@ -992,11 +992,6 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7245_48k.aac"
         },
         {
-            name: "Fiesta 94.5",
-            logo: "stations/images-america/grand_island/Fiesta 94.5.png",
-            url: "https://platteriverradio.broadcasttool.com/kliq-aac"
-        },
-        {
             name: "95.3 KBBN",
             logo: "stations/images-america/ansley/95.3 KBBN.png",
             url: "https://crystalout.surfernetwork.com:8001/KBBN_MP3"
@@ -1007,29 +1002,9 @@ var stations = {
             url: "https://crystalout.surfernetwork.com:8001/KCNI-AM_MP3"
         },
         {
-            name: "98.9 The Vibe",
-            logo: "stations/images-america/grand_island/98.9 The Vibe.png",
-            url: "https://platteriverradio.broadcasttool.com/kkpr-aac"
-        },
-        {
             name: "My Bridge Radio 99.3",
             logo: "stations/images-america/0_general_logos/My Bridge Radio.png",
             url: "https://ais-sa1.streamon.fm/7069_64k.aac"
-        },
-        {
-            name: "Classic Rock 101.5",
-            logo: "stations/images-america/grand_island/Classic Rock 101.5.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRORFMAAC_SC"
-        },
-        {
-            name: "Y102",
-            logo: "stations/images-america/grand_island/Y102.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRNYFMAAC_SC"
-        },
-        {
-            name: "2Day FM 103.1",
-            logo: "stations/images-america/grand_island/2Day FM 103.1.png",
-            url: "http://204.93.186.205/index.php?u=https://ice6.securenetsystems.net/KKJK"
         },
         {
             name: "103.9 KING FM",
@@ -1040,16 +1015,6 @@ var stations = {
             name: "Bott Radio 104.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
             url: "http://ic1.christiannetcast.com/bottradio"
-        },
-        {
-            name: "HITS 106",
-            logo: "stations/images-america/grand_island/HITS 106.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQKYFMAAC_SC"
-        },
-        {
-            name: "107.7 The Island",
-            logo: "stations/images-america/grand_island/107.7 The Island.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYZFMAAC_SC"
         },
         {
             name: "MyBridge Español 750",
@@ -1095,16 +1060,6 @@ var stations = {
             name: "1410 KOOQ",
             logo: "stations/images-america/north_platte/FM 98.1.png",
             url: "http://204.93.186.205/index.php?u=http://ice10.securenetsystems.net/KOOQ"
-        },
-        {
-            name: "1430 KRGI",
-            logo: "stations/images-america/grand_island/KRGI.png",
-            url: "http://ice23.securenetsystems.net/KRGIAM"
-        },
-        {
-            name: "ESPN 1460",
-            logo: "stations/images-america/grand_island/ESPN 1460.png",
-            url: "https://platteriverradio.broadcasttool.com/kxpn-aac"
         },
         {
             name: "KAMI 1580",

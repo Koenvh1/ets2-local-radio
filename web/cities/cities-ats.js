@@ -63,7 +63,7 @@ var country_properties = {
         name: "Ansley",
         name_english: "Ansley",
         code: "us-ne",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "ardmore": {
         name: "Ardmore",
@@ -1041,7 +1041,7 @@ var country_properties = {
         name: "Lincoln",
         name_english: "Lincoln",
         code: "us-ne",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "limon": {
         name: "Limon",
@@ -1980,6 +1980,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "ansley": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "ardmore": {
@@ -3122,6 +3123,14 @@ var cities = [
         "z": "-13779.6"
     },
     {
+        "gameName": "ansley",
+        "realName": "Ansley",
+        "country": "grand_island",
+        "x": "-14790.9",
+        "y": "65.2003",
+        "z": "-13779.6"
+    },
+    {
         "gameName": "ardmore",
         "realName": "Ardmore",
         "country": "ardmore",
@@ -3837,6 +3846,14 @@ var cities = [
         "gameName": "elm_creek",
         "realName": "Elm Creek",
         "country": "ansley",
+        "x": "-15649.8",
+        "y": "63.9518",
+        "z": "-10331.8"
+    },
+    {
+        "gameName": "elm_creek",
+        "realName": "Elm Creek",
+        "country": "grand_island",
         "x": "-15649.8",
         "y": "63.9518",
         "z": "-10331.8"
