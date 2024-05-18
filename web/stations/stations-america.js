@@ -2320,7 +2320,7 @@ var stations = {
             logo: "stations/images-america/beatrice/KWBE.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWBEAMAAC_SC"
         },
-
+    ],
     "beaumont": [
         {
             name: "KLBT 88.1",
