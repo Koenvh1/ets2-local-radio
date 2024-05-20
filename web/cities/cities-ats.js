@@ -1887,7 +1887,7 @@ var country_properties = {
         name: "Wheatland",
         name_english: "Wheatland",
         code: "us-wy",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "wichita": {
         name: "Wichita",
@@ -2992,6 +2992,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "wheatland": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "wichita": {
@@ -5959,6 +5960,14 @@ var cities = [
         "realName": "Wheatland",
         "country": "wheatland",
         "x": "-36817.5",
+        "y": "100.94",
+        "z": "-20075.8"
+    },
+    {
+        "gameName": "wheatland",
+        "realName": "Wheatland",
+        "country": "scottsbluff",
+        "x": "-35017.5",
         "y": "100.94",
         "z": "-20075.8"
     },
