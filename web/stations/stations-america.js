@@ -3795,19 +3795,19 @@ var stations = {
             url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
         },
         {
-            name: "Wyoming Sounds 91.5-HD2",
+            name: "Classical Wyoming 91.5-HD2",
+            logo: "stations/images-america/0_general_logos/Classical Wyoming.png",
+            url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
+        },
+        {
+            name: "Wyoming Sounds 91.5-HD3",
             logo: "stations/images-america/0_general_logos/Wyoming Sounds.png",
             url: "https://wyoming-public-ice.streamguys1.com/WYS128MP3"
         },
         {
-            name: "Jazz Wyoming 91.5-HD3",
-            logo: "stations/images-america/0_general_logos/Jazz Wyoming.png",
-            url: "https://wyoming-public-ice.streamguys1.com/JZZ128MP3"
-        },
-        {
             name: "Classical Wyoming 91.9",
             logo: "stations/images-america/0_general_logos/Classical Wyoming.png",
-            url: "https://wyoming-public-ice.streamguys1.com/CLS128MP3"
+            url: "http://wyoming-public-ice.streamguys1.com/CLS128MP3"
         },
         {
             name: "92.3 KYOY",
@@ -3833,6 +3833,11 @@ var stations = {
             name: "100.7 KOLT FM",
             logo: "stations/images-america/cheyenne/100.7 KOLT FM.png",
             url: "https://stream.revma.ihrhls.com/zc2705/hls.m3u8"
+        },
+        {
+            name: "100.7 KOLT-HD2",
+            logo: "stations/images-america/cheyenne/Star 97.1.png",
+            url: "https://stream.revma.ihrhls.com/zc7018"
         },
         {
             name: "101.9 KING FM",
