@@ -1943,47 +1943,47 @@ var stations = {
         {
             name: "Bayern 1",
             logo: "stations/images-europe/germany-br/Bayern 1.png",
-            url: "https://mcdn.hf.br.de/br/hf/b1obb/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/br1/obb/aac/low"
         },
         {
             name: "Bayern 2",
             logo: "stations/images-europe/germany-br/Bayern 2.png",
-            url: "https://mcdn.hf.br.de/br/hf/b2sued/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/br2/live/aac/low"
         },
         {
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
-            url: "https://mcdn.hf.br.de/br/hf/b3/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/br3/live/mp3/low"
         },
         {
             name: "BR Schlager",
             logo: "stations/images-europe/germany-br/BR Schlager.png",
-            url: "https://mcdn.hf.br.de/br/hf/brschlager/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
         },
         {
             name: "BR Heimat",
             logo: "stations/images-europe/germany-br/BR Heimat.png",
-            url: "https://mcdn.hf.br.de/br/hf/brheimat/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid"
         },
         {
             name: "BR Klassik",
             logo: "stations/images-europe/germany-br/BR-Klassik.png",
-            url: "https://mcdn.hf.br.de/br/hf/brklassik/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high"
         },
         {
             name: "BR24",
             logo: "stations/images-europe/germany-br/BR24.png",
-            url: "https://mcdn.hf.br.de/br/hf/br24/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid"
         },
         {
             name: "BR24live",
             logo: "stations/images-europe/germany-br/BR24live.png",
-            url: "https://mcdn.hf.br.de/br/hf/br24live/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/br24live/live/aac/low"
         },
         {
             name: "BR Puls",
             logo: "stations/images-europe/germany-br/BR Puls.png",
-            url: "https://mcdn.hf.br.de/br/hf/puls/master.m3u8"
+            url: "https://dispatcher.rndfnk.com/br/puls/live/aac/low"
         },
         {
             name: "AFN Bavaria",

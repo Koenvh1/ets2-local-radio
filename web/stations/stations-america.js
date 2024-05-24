@@ -1308,7 +1308,7 @@ var stations = {
         {
             name: "1180 The Zone",
             logo: "stations/images-america/omaha/1180 The Zone.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
         },
         {
             name: "KFOR 1240",
@@ -1333,7 +1333,7 @@ var stations = {
         {
             name: "1620 The Zone",
             logo: "stations/images-america/omaha/1620 The Zone.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOZNAMAAC_SC"
         },
     ],
     "austin": [
@@ -1433,8 +1433,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kjceamaac-imc"
         },
         {
-            name: "HOT 95.9",
-            logo: "stations/images-america/austin/HOT 95.9.png",
+            name: "95.9 Texas Country",
+            logo: "stations/images-america/austin/95.9 Texas Country.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kkmjhd3aac-imc"
         },
         {
@@ -1756,7 +1756,7 @@ var stations = {
         {
             name: "Fire 103.9",
             logo: "stations/images-america/bakersfield/Fire 103.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBDSFMAAC_SC"
+            url: "https://ice25.securenetsystems.net/KBDS"
         },
         {
             name: "Kalor 104.3",
@@ -4287,11 +4287,6 @@ var stations = {
             name: "KZMQ 1140",
             logo: "stations/images-america/cody/KZMQ 100.3.png",
             url: "http://ice26.securenetsystems.net//KZMQ"
-        },
-        {
-            name: "KPOW 1260",
-            logo: "stations/images-america/cody/KPOW 1260.png",
-            url: "https://us2.maindigitalstream.com/ssl/KPOW"
         },
         {
             name: "KODI 1400",
@@ -8757,12 +8752,12 @@ var stations = {
             name: "CPR Classical 90.5",
             logo: "stations/images-america/0_general_logos/CPR Classical.png",
             url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
-        },
+        },/*
         {
             name: "The LIFT 92.7",
             logo: "stations/images-america/glenwood_springs/The LIFT.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
-        },
+        },*/
         {
             name: "Cat Country 93.1",
             logo: "stations/images-america/glenwood_springs/Cat Country 93.1.png",
@@ -15866,7 +15861,7 @@ var stations = {
         {
             name: "1180 The Zone",
             logo: "stations/images-america/omaha/1180 The Zone.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
         },
         {
             name: "1290 KOIL",
@@ -15896,7 +15891,7 @@ var stations = {
         {
             name: "1620 The Zone",
             logo: "stations/images-america/omaha/1620 The Zone.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOZNAMAAC_SC"
         },
     ],
     "omak": [
@@ -18171,11 +18166,6 @@ var stations = {
             url: "https://sslstream.kvmr.org:9433/aac96"
         },
         {
-            name: "KVMRx 89.5-HD2",
-            logo: "stations/images-america/sacramento/KVMRx 89.5-HD2.png",
-            url: "https://sslstream.kvmr.org:9433/kvmr2-aac-96"
-        },
-        {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -18189,6 +18179,11 @@ var stations = {
             name: "CapRadio News 90.9",
             logo: "stations/images-america/0_general_logos/CapRadio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXJZAAC_SC"
+        },
+        {
+            name: "CapRadio Music 90.9-HD2",
+            logo: "stations/images-america/0_general_logos/CapRadio Music.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXPRAAC_SC"
         },
         {
             name: "KYDS 91.5",
@@ -18309,11 +18304,6 @@ var stations = {
             name: "V101.1",
             logo: "stations/images-america/sacramento/V101.1.png",
             url: "https://stream.revma.ihrhls.com/zc225/hls.m3u8"
-        },
-        {
-            name: "Big Classic Hits 101.1-HD2",
-            logo: "stations/images-america/0_general_logos/Big Classic Hits.png",
-            url: "https://stream.revma.ihrhls.com/zc4455/hls.m3u8"
         },
         {
             name: "Fuego 101.9",
@@ -21807,12 +21797,12 @@ var stations = {
             name: "The Reel 95.5",
             logo: "stations/images-america/steamboat_sp/The Reel 95.5.png",
             url: "https://ais-sa1.streamon.fm/7125_48k.aac"
-        },*/
+        },
         {
             name: "The LIFT 95.9",
             logo: "stations/images-america/glenwood_springs/The LIFT.png",
             url: "https://ais-sa1.streamon.fm/7107_48k.aac"
-        },
+        },*/
         {
             name: "KBCR 96.9",
             logo: "stations/images-america/steamboat_sp/KBCR 96.9.png",
