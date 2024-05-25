@@ -6745,6 +6745,11 @@ var stations = {
             url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
+            name: "Power 92.7",
+            logo: "stations/images-america/eagle_pass/Power 92.7.png",
+            url: "http://s6.autopo.st:8659/stream"
+        },
+        {
             name: "Dinámica 94.5",
             logo: "stations/images-america/eagle_pass/Dinámica 94.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTAFMAAC_SC"
@@ -33541,8 +33546,8 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WPIA"
         },
         {
-            name: "99.9 WWCT",
-            logo: "stations/images-america/c2c/peoria_il/99.9 WWCT.png",
+            name: "CT 99.9",
+            logo: "stations/images-america/c2c/peoria_il/CT 99.9.png",
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice24.securenetsystems.net/WWCT"
         },
         {
