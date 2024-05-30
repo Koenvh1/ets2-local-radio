@@ -23258,11 +23258,6 @@ var stations = {
             url: "http://ice5.securenetsystems.net/KAPW"
         },
         {
-            name: "99.7 KVUT",
-            logo: "stations/images-america/tyler/99.7 KVUT.png",
-            url: "http://kvut.streamguys1.com/live"
-        },
-        {
             name: "KERA 100.1",
             logo: "stations/images-america/0_general_logos/KERA.png",
             url: "http://kera-ice.streamguys.us/keraliveaacplus"

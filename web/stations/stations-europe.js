@@ -2393,8 +2393,8 @@ var stations = {
             url: "https://dispatcher.rndfnk.com/rbb/rbb888/live/mp3/mid"
         },
         {
-            name: "rbb Inforadio",
-            logo: "stations/images-europe/germany-rbb/RBB Inforadio.png",
+            name: "rbb24 Inforadio",
+            logo: "stations/images-europe/germany-rbb/rbb24 Inforadio.png",
             url: "https://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid"
         },
         {
@@ -2860,6 +2860,11 @@ var stations = {
             name: "3FM",
             logo: "stations/images-europe/iom/3FM.png",
             url: "https://stream.rcs.revma.com/0kv9v43t87zuv"
+        },
+        {
+            name: "Energy FM",
+            logo: "stations/images-europe/iom/Energy FM.png",
+            url: "https://ukwesta.streaming.broadcast.radio/energyfm"
         },
         {
             name: "Manx Radio",
@@ -3700,62 +3705,62 @@ var stations = {
     "montenegro": [
         {
             name: "RCG",
-            logo: "stations/images-europe/mnegro/RTCG.png",
+            logo: "stations/images-europe/montenegro/RCG.png",
             url: "https://rtcg.ipradio.rs:9008/;"
         },
         {
             name: "R98",
-            logo: "stations/images-europe/mnegro/RTCG.png",
+            logo: "stations/images-europe/montenegro/R98.png",
             url: "https://r98.ipradio.rs:10100/;"
         },
         {
             name: "Antena M",
-            logo: "stations/images-europe/mnegro/Antena M.png",
+            logo: "stations/images-europe/montenegro/Antena M.png",
             url: "http://radioservis.me:8010/antenamlive"
         },
         {
             name: "DRS",
-            logo: "stations/images-europe/mnegro/DRS.png",
+            logo: "stations/images-europe/montenegro/DRS.png",
             url: "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream&1623505984682"
         },
         {
             name: "Play",
-            logo: "stations/images-europe/mnegro/Play radio.png",
+            logo: "stations/images-europe/montenegro/Play radio.png",
             url: "https://stream.playradio.me:8443/play-me.aac"
         },
         {
             name: "Radio D",
-            logo: "stations/images-europe/mnegro/Radio D.png",
+            logo: "stations/images-europe/montenegro/Radio D.png",
             url: "http://tachyon.shoutca.st:8289/xstream"
         },
         {
             name: "Radio D Plus",
-            logo: "stations/images-europe/mnegro/Radio D Plus.png",
+            logo: "stations/images-europe/montenegro/Radio D Plus.png",
             url: "http://tachyon.shoutca.st:8303/xstream"
         },
         {
             name: "Radio Fatih",
-            logo: "stations/images-europe/mnegro/Radio Fatih.png",
+            logo: "stations/images-europe/montenegro/Radio Fatih.png",
             url: "http://radioservis.me:8070/radiofatih"
         },
         {
             name: "Radio S1",
-            logo: "stations/images-europe/mnegro/Radio S1.png",
+            logo: "stations/images-europe/montenegro/Radio S1.png",
             url: "https://53be5ef2d13aa.streamlock.net/asmedia/radios1-cg/playlist.m3u8"
         },
         {
             name: "Radio Svetigora",
-            logo: "stations/images-europe/mnegro/Radio Svetigora.png",
+            logo: "stations/images-europe/montenegro/Radio Svetigora.png",
             url: "https://svetigoralive.com/Radio%20Svetigora;"
         },
         {
             name: "Srpski Radio",
-            logo: "stations/images-europe/mnegro/Srpski Radio.png",
+            logo: "stations/images-europe/montenegro/Srpski Radio.png",
             url: "http://188.166.30.166:8000/stream"
         },
         {
             name: "TDI Radio",
-            logo: "stations/images-europe/mnegro/TDI Radio.png",
+            logo: "stations/images-europe/montenegro/TDI Radio.png",
             url: "https://streaming.tdiradio.com/crnagora.mp3"
         },
     ],
@@ -4132,8 +4137,8 @@ var stations = {
             url: "https://nrk-klassisk.akamaized.net/42/0/hls/nrk_klassisk/playlist.m3u8"
         },
         {
-            name: "NRK Alltid Nyheter",
-            logo: "stations/images-europe/norway/NRK Alltid Nyheter.png",
+            name: "NRK Nyheter",
+            logo: "stations/images-europe/norway/NRK Nyheter.png",
             url: "https://nrklivealltidnyheter-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/40/0/hls/nrk_alltid_nyheter/playlist.m3u8"
         },
         {
@@ -4142,8 +4147,8 @@ var stations = {
             url: "https://nrk-radio-live.telenorcdn.net/49/0/hls/nrk_folkemusikk/playlist.m3u8"
         },
         {
-            name: "NRK Sápmi",
-            logo: "stations/images-europe/norway/NRK Sápmi.png",
+            name: "NRK Sámi Radio",
+            logo: "stations/images-europe/norway/NRK Sámi Radio.png",
             url: "https://nrk-sapmi.akamaized.net/43/0/hls/nrk_sami_radio/playlist.m3u8"
         },
         {
