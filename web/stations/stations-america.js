@@ -374,7 +374,7 @@ var stations = {
         {
             name: "Rock 97.9",
             logo: "stations/images-america/alamogordo/Rock 97.9.png",
-            url: "http://ic1.mainstreamnetwork.com/ktmn-fm"
+            url: "https://streaming.live365.com/a88080"
         },
         {
             name: "KIDX 101.5",
@@ -1948,8 +1948,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
         },
         {
-            name: "102.9 KBRX",
-            logo: "stations/images-america/oneill/102.9 KBRX.png",
+            name: "KBRX 102.9",
+            logo: "stations/images-america/oneill/KBRX 102.9.png",
             url: "https://ice23.securenetsystems.net/KBRXFM"
         },
         {
@@ -4768,7 +4768,7 @@ var stations = {
         },
         {
             name: "KLIR 101",
-            logo: "stations/images-america/lincoln/KLIR 101.png",
+            logo: "stations/images-america/columbus/KLIR 101.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/alphamidwest-klirfmaac-ibc2"
         },
         {
@@ -47679,6 +47679,11 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wkxwfmaac-ibc3"
         },
         {
+            name: "Beach Radio 101.5-HD2",
+            logo: "stations/images-america/c2c/philadelphia_pa/Beach Radio 101.5-HD2.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wsjohd3aac-ibc3"
+        },
+        {
             name: "Q102",
             logo: "stations/images-america/c2c/philadelphia_pa/Q102.png",
             url: "https://stream.revma.ihrhls.com/zc1997/hls.m3u8"
@@ -48213,11 +48218,6 @@ var stations_c2c = {
             name: "Rock 107",
             logo: "stations/images-america/c2c/scranton_pa/Rock 107.png",
             url: "https://ais-sa1.streamon.fm/7247_48k.aac"
-        },
-        {
-            name: "Bigfoot Legends 107.7",
-            logo: "stations/images-america/c2c/scranton_pa/Bigfoot Legends 107.7.png",
-            url: "https://ice23.securenetsystems.net/WLGD"
         },
         {
             name: "590 WARM-AM",
