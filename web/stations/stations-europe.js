@@ -5131,7 +5131,7 @@ var stations = {
         {
             name: "Radio María España",
             logo: "stations/images-europe/spain/Radio María España.png",
-            url: "http://dreamsiteradiocp.com:8060/;"
+            url: "https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/"
         },
         {
             name: "Radio4G",

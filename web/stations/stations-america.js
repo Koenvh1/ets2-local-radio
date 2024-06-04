@@ -38002,6 +38002,16 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wxytfmaac-imc"
         },
         {
+            name: "Sports Rap Radio 97.1-HD2",
+            logo: "stations/images-america/c2c/detroit_mi/Sports Rap Radio 1270.png",
+            url: "tbd"
+        },
+        {
+            name: "The Bet 97.1-HD3",
+            logo: "stations/images-america/c2c/detroit_mi/The Bet 97.1-HD3.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-wxythd3aac-imc"
+        },
+        {
             name: "CBC Radio One 97.5",
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBLAFM_CBC_SC"
@@ -38137,9 +38147,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1129/hls.m3u8"
         },
         {
-            name: "The Bet 1270",
-            logo: "stations/images-america/c2c/detroit_mi/The Bet 1270.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wxytamaac-imc"
+            name: "Sports Rap Radio 1270",
+            logo: "stations/images-america/c2c/detroit_mi/Sports Rap Radio 1270.png",
+            url: "tbd"
         },
     ],
     "grand_rapids": [
@@ -50117,9 +50127,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRBOFMAAC_SC"
         },
         {
-            name: "El Gallo 104.1",
-            logo: "stations/images-america/c2c/memphis_tn/El Gallo 104.1.png",
-            url: "https://stream1.flinn.com:8443/1041FM.aac"
+            name: "Power 104.1",
+            logo: "stations/images-america/c2c/memphis_tn/Power 104.1.png",
+            url: "https://streaming.live365.com/a78085"
         },
         {
             name: "104.5 The River",
