@@ -17714,6 +17714,38 @@ var stations = {
             url: "https://rollernet.us:8443/WWG20"
         },
     ],
+    "republic": [
+        {
+            name: "NWPB News 90.1",
+            logo: "stations/images-america/0_general_logos/NWPB News.png",
+            url: "http://streams.nwpr.org:8000/NWPRNEWS"
+        },
+        {
+            name: "CBC Radio One 94.9",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
+        },
+        {
+            name: "Bounce 95.7",
+            logo: "stations/images-america/colville/Bounce 95.7.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 98.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "3ABN 100.5",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "Bounce 800",
+            logo: "stations/images-america/canada/grand_forks/Bounce 800.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKORAMAAC_SC"
+        },
+    ],
     "ridgecrest": [
         {
             name: "KNPR 88.1",
@@ -53198,6 +53230,53 @@ var stations_canada = {
             name: "VOCM 620",
             logo: "stations/images-america/canada/grandfalls/VOCM.png",
             url: "http://newcap.leanstream.co/CKCMAM-MP3"
+        },
+    ],
+    "grand_forks_bc": [
+        {
+            name: "CKGF-2-FM 96.7",
+            logo: "stations/images-america/canada/grand_forks/102.3 Juice FM.png",
+            url: "http://vistaradio.streamb.live/SB00084"
+        },
+        {
+            name: "CBC Radio One 97.9",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBYKFM_CBC_SC"
+        },
+        {
+            name: "102.3 Juice FM",
+            logo: "stations/images-america/canada/grand_forks/102.3 Juice FM.png",
+            url: "https://vistaradio.streamb.live/SB00084"
+        },
+        {
+            name: "CJAT-FM-2 103.3",
+            logo: "stations/images-america/colville/Bounce 95.7.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC_SC"
+        },
+        {
+            name: "Lighthouse FM 106.1",
+            logo: "stations/images-america/canada/Lighthouse FM.png",
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
+        },
+        {
+            name: "590 KQNT",
+            logo: "stations/images-america/spokane/590 KQNT.png",
+            url: "https://stream.revma.ihrhls.com/zc4952/hls.m3u8"
+        },
+        {
+            name: "Bounce 800",
+            logo: "stations/images-america/canada/grand_forks/Bounce 800.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKORAMAAC_SC"
+        },
+        {
+            name: "AM 1150",
+            logo: "stations/images-america/canada/kelowna/AM 1150.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKFRAMAAC_SC"
+        },
+        {
+            name: "Bounce 1240",
+            logo: "stations/images-america/canada/osoyoos/Bounce 102.9.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC"
         },
     ],
     "halifax": [

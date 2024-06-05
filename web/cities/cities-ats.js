@@ -393,7 +393,7 @@ var country_properties = {
         name: "Colville",
         name_english: "Colville",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "coos_bay": {
         name: "Coos Bay",
@@ -1281,7 +1281,7 @@ var country_properties = {
         name: "Omak",
         name_english: "Omak",
         code: "us-wa",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "oneill": {
         name: "O'Neill",
@@ -1444,6 +1444,12 @@ var country_properties = {
         name_english: "Reno",
         code: "us-nv",
         relative_radius: 0.8
+    },
+    "republic": {
+        name: "Republic",
+        name_english: "Republic",
+        code: "us-wa",
+        relative_radius: 0.4
     },
     "ridgecrest": {
         name: "Ridgecrest",
@@ -2164,7 +2170,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "colville": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "coos_bay": {
         relative_whitenoise: 0.85
@@ -2653,7 +2659,7 @@ var city_properties = {
         relative_whitenoise: 0.99
     },
     "omak": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "oneill": {
         relative_whitenoise: 0.95
@@ -2747,6 +2753,9 @@ var city_properties = {
     },
     "reno": {
         relative_whitenoise: 0.80
+    },
+    "republic": {
+        relative_whitenoise: 0.95
     },
     "ridgecrest": {
         relative_whitenoise: 0.85
@@ -3649,7 +3658,7 @@ var cities = [
         "country": "colville",
         "x": "-81594.7",
         "y": "87.9793",
-        "z": "-64715.6"
+        "z": "-63715.6"
     },
     {
         "gameName": "coos_bay",
@@ -5015,7 +5024,7 @@ var cities = [
         "gameName": "omak",
         "realName": "Omak",
         "country": "omak",
-        "x": "-89094.8",
+        "x": "-89594.8",
         "y": "49.3279",
         "z": "-64462"
     },
@@ -5234,6 +5243,14 @@ var cities = [
         "x": "-99918.2",
         "y": "191.806",
         "z": "-18717.4"
+    },
+    {
+        "gameName": "republic",
+        "realName": "Republic",
+        "country": "republic",
+        "x": "-85366",
+        "y": "69.1037",
+        "z": "-63851"
     },
     {
         "gameName": "ridgecrest",
@@ -11852,6 +11869,12 @@ var country_properties_canada = {
         code: "ca-nb",
         relative_radius: 1.2
     },
+    "grand_forks_bc": {
+        name: "Grand Forks",
+        name_english: "Grand Forks",
+        code: "ca-bc",
+        relative_radius: 0.5
+    },
     "halifax": {
         name: "Halifax",
         name_english: "Halifax",
@@ -12030,7 +12053,7 @@ var country_properties_canada = {
         name: "Osoyoos",
         name_english: "Osoyoos",
         code: "ca-bc",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "ottawa": {
         name: "Ottawa",
@@ -12303,6 +12326,9 @@ var city_properties_canada = {
     "grandfalls": {
         relative_whitenoise: 0.95
     },
+    "grand_forks_bc": {
+        relative_whitenoise: 0.95
+    },
     "halifax": {
         relative_whitenoise: 0.95
     },
@@ -12396,7 +12422,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.85
     },
     "osoyoos": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "ottawa": {
         relative_whitenoise: 0.85
@@ -12658,6 +12684,14 @@ var cities_canada = [
         "x": "106470",
         "y": "46.3906",
         "z": "-63541.6"
+    },
+    {
+        "gameName": "grand_forks_bc",
+        "realName": "Grand Forks",
+        "country": "grand_forks_bc",
+        "x": "-82726.8",
+        "y": "58.6627",
+        "z": "-67486.2"
     },
     {
         "gameName": "halifax",
