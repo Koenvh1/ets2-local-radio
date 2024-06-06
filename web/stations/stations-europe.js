@@ -3030,9 +3030,39 @@ var stations = {
             url: "https://radioparlamento-live.akamaized.net/hls/live/2032597/radioparlamento/radioparlamento/playlist.m3u8"
         },
         {
+            name: "BBC World Service",
+            logo: "stations/images-europe/italy/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+        },
+        {
+            name: "InBlu2000",
+            logo: "stations/images-europe/italy/InBlu2000.png",
+            url: "https://cld05wz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8"
+        },
+        {
+            name: "KC1 Test",
+            logo: "stations/images-europe/italy/KC1 Test.png",
+            url: "https://maxxima.mine.nu/maxxima.mp3"
+        },
+        {
+            name: "KC2 Test",
+            logo: "stations/images-europe/italy/KC2 Test.png",
+            url: "https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1"
+        },
+        {
+            name: "KC3 Test",
+            logo: "stations/images-europe/italy/KC3 Test.png",
+            url: "https://a1.asurahosting.com:10990/radio.mp3"
+        },
+        {
             name: "m2o",
             logo: "stations/images-europe/italy/m2o.png",
             url: "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8"
+        },
+        {
+            name: "m2o Dance",
+            logo: "stations/images-europe/italy/m2o Dance.png",
+            url: "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2odance/radiom2odance/play1.m3u8"
         },
         {
             name: "R101",
@@ -3060,9 +3090,19 @@ var stations = {
             url: "https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8"
         },
         {
+            name: "Radio Capital Funky Town",
+            logo: "stations/images-europe/italy/Radio Capital.png",
+            url: "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8"
+        },
+        {
             name: "Radio Deejay",
             logo: "stations/images-europe/italy/Radio Deejay.png",
             url: "https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8"
+        },
+        {
+            name: "Deejay 30 Songs",
+            logo: "stations/images-europe/italy/Deejay 30 Songs.png",
+            url: "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/play1.m3u8"
         },
         {
             name: "RDS",
@@ -3070,19 +3110,24 @@ var stations = {
             url: "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8"
         },
         {
+            name: "RDS Relax",
+            logo: "stations/images-europe/italy/RDS Relax.png",
+            url: "https://stream.rds.radio/audio/rdsrelax.stream_aac64/playlist.m3u8"
+        },
+        {
             name: "Radiofreccia",
             logo: "stations/images-europe/italy/Radiofreccia.png",
             url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/D6MENOraq6Qy/playlist_audio.m3u8"
         },
         {
-            name: "Radio InBlu",
-            logo: "stations/images-europe/italy/Radio InBlu.png",
-            url: "https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8"
-        },
-        {
             name: "Radio Italia",
             logo: "stations/images-europe/italy/Radio Italia.png",
-            url: "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8"
+            url: "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8"
+        },
+        {
+            name: "Radio Italia Trend",
+            logo: "stations/images-europe/italy/Radio Italia Trend.png",
+            url: "https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio"
         },
         {
             name: "Radio Kiss Kiss",
@@ -3093,6 +3138,16 @@ var stations = {
             name: "Radio Maria",
             logo: "stations/images-europe/italy/Radio Maria.png",
             url: "https://dreamsiteradiocp5.com/proxy/rmitalia?mp=/stream"
+        },
+        {
+            name: "Radio Maria Albania",
+            logo: "stations/images-europe/italy/Radio Maria Albania.png",
+            url: "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream"
+        },
+        {
+            name: "Radio Libertà",
+            logo: "stations/images-europe/italy/Radio Libertà.png",
+            url: "https://stream1.xdevel.com/audio0s975360-306/stream/icecast.audio"
         },
         {
             name: "Radio Monte Carlo",
@@ -3110,9 +3165,54 @@ var stations = {
             url: "https://sportiva.inmystream.it/stream/sportiva"
         },
         {
+            name: "Radio Subasio XL",
+            logo: "stations/images-europe/italy/Radio Subasio XL.png",
+            url: "https://icy.unitedradio.it/SubasioXL.mp3"
+        },
+        {
+            name: "Radio Vaticana",
+            logo: "stations/images-europe/italy/Radio Vaticana.png",
+            url: "https://radio.vaticannews.va/stream-it"
+        },
+        {
+            name: "Radio Zeta",
+            logo: "stations/images-europe/italy/Radio Zeta.png",
+            url: "https://streamingv2.shoutcast.com/radio-zeta_48.aac"
+        },
+        {
             name: "RTL 102.5",
             logo: "stations/images-europe/italy/RTL 102.5.png",
-            url: "https://streamingv2.shoutcast.com/rtl-1025_48.aac"
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/WjpMtPyNjHwj/playlist_audio.m3u8"
+        },
+        {
+            name: "RTL 102.5 Best",
+            logo: "stations/images-europe/italy/RTL 102.5 Best.png",
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/fYNIdrsfP3xC/playlist_audio.m3u8"
+        },
+        {
+            name: "RTL 102.5 Bro&Sis",
+            logo: "stations/images-europe/italy/RTL 102.5 Bro&Sis.png",
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/HZKHO8FO5MwA/playlist_audio.m3u8"
+        },
+        {
+            name: "RTL 102.5 Caliente",
+            logo: "stations/images-europe/italy/RTL 102.5 Caliente.png",
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/TxhFMf45Q7cw/playlist_audio.m3u8"
+        },
+        {
+            name: "RTL 102.5 Doc",
+            logo: "stations/images-europe/italy/RTL 102.5 Doc.png",
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/Sz3kCA55PrRh/playlist_audio.m3u8"
+        },
+        {
+            name: "RTL 102.5 Napulè",
+            logo: "stations/images-europe/italy/RTL 102.5 Napulè.png",
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/jL8HEhj1u65W/playlist_audio.m3u8"
+        },
+        {
+            name: "RTL 102.5 News",
+            logo: "stations/images-europe/italy/RTL 102.5 News.png",
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/aJMOUBAFc2Bc/playlist_audio.m3u8"
         },
         {
             name: "Virgin Radio",
