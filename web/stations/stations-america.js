@@ -1478,11 +1478,6 @@ var stations = {
             url: "https://streams.kut.org/4430_56"
         },
         {
-            name: "KOKE 99.3",
-            logo: "stations/images-america/austin/KOKE 99.3.png",
-            url: "https://arn.leanstream.co/KOKEFM"
-        },
-        {
             name: "KLBJ 99.7",
             logo: "stations/images-america/austin/KLBJ 99.7.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAMAAC_SC"
@@ -1501,11 +1496,6 @@ var stations = {
             name: "The Bridge 101.1",
             logo: "stations/images-america/austin/The Bridge.png",
             url: "http://streaming.live365.com/a20823"
-        },
-        {
-            name: "The Horn 101.9",
-            logo: "stations/images-america/austin/The Horn.png",
-            url: "https://arn-ais.leanstream.co/KTAEAM"
         },
         {
             name: "102.3 The Beat",
@@ -1581,11 +1571,6 @@ var stations = {
             name: "The Bridge 1120",
             logo: "stations/images-america/austin/The Bridge.png",
             url: "https://streaming.live365.com/a20823"
-        },
-        {
-            name: "The Horn 1260",
-            logo: "stations/images-america/austin/The Horn.png",
-            url: "http://arn-ais.leanstream.co/KTAEAM"
         },
         {
             name: "1300 The Zone",
@@ -13667,6 +13652,28 @@ var stations = {
             name: "NOAA Weather Radio Lufkin",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
             url: "https://radio.weatherusa.net/NWR/WXK23.mp3"
+        },
+    ],
+    "lusk": [
+        {
+            name: "610 KCSR",
+            logo: "stations/images-america/chadron/KCSR_KBPY.png",
+            url: "https://ice23.securenetsystems.net/KCSR"
+        },
+        {
+            name: "KUYO AM 830",
+            logo: "stations/images-america/casper/KUYO AM 830.png",
+            url: "https://ais-sa1.streamon.fm/7061_24k.aac"
+        },
+        {
+            name: "KNEB 960",
+            logo: "stations/images-america/scottsbluff/KNEB.png",
+            url: "https://ais-sa1.streamon.fm/7325_48k.aac"
+        },
+        {
+            name: "K2 Radio 1030",
+            logo: "stations/images-america/casper/K2 Radio 1030.png",
+            url: "https://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
         },
     ],
     "malta_mt": [
@@ -35502,8 +35509,8 @@ var stations_c2c = {
             url: "https://wuky.streamguys1.com/wuky"
         },
         {
-            name: "Essential Classics 91.3-HD2",
-            logo: "stations/images-america/c2c/lexington_ky/WUKY 91.3.png",
+            name: "The Break 91.3-HD2.png",
+            logo: "stations/images-america/c2c/lexington_ky/The Break 91.3-HD2.png",
             url: "https://wuky.streamguys1.com/HD2"
         },
         {
@@ -56294,12 +56301,7 @@ var stations_canada = {
             url: "https://live.citr.ca/live.aac"
         },
         {
-            name: "102.7 NOW!radio",
-            logo: "stations/images-america/canada/vancouver/102.7 NOW!radio.png",
-            url: "https://redirect.jpbgdigital.com/CKPKFM"
-        },
-        {
-            name: "102.7-HD2 The Peak",
+            name: "102.7 The Peak",
             logo: "stations/images-america/canada/vancouver/102.7 The Peak.png",
             url: "https://redirect.jpbgdigital.com/CKPK"
         },

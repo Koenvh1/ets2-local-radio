@@ -1091,6 +1091,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
+    "lusk": {
+        name: "Lusk",
+        name_english: "Lusk",
+        code: "us-wy",
+        relative_radius: 0.6
+    },
     "malta_mt": {
         name: "Malta",
         name_english: "Malta",
@@ -2558,6 +2564,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lufkin": {
+        relative_whitenoise: 0.95
+    },
+    "lusk": {
         relative_whitenoise: 0.95
     },
     "malta_mt": {
@@ -4739,6 +4748,14 @@ var cities = [
         "x": "5703.92",
         "y": "101.668",
         "z": "42729.5"
+    },
+    {
+        "gameName": "lusk",
+        "realName": "Lusk",
+        "country": "lusk",
+        "x": "-34607.7",
+        "y": "55.3956",
+        "z": "-23037.9"
     },
     {
         "gameName": "malta_mt",
