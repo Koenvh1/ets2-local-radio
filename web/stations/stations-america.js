@@ -1858,7 +1858,7 @@ var stations = {
         {
             name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://transmitter.clubcasting.net:8000/live"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "Radio Bilingüe 99.5",
@@ -8299,7 +8299,7 @@ var stations = {
         {
             name: "95.7 The Fox",
             logo: "stations/images-america/fresno/95.7 The Fox.png",
-            url: "https://ice25.securenetsystems.net/KJFX"
+            url: "http://204.93.186.205/index.php?u=https://ice25.securenetsystems.net/KJFX"
         },
         {
             name: "Power Talk 96.7",
@@ -8334,7 +8334,7 @@ var stations = {
         {
             name: "K-Jewel 99.3",
             logo: "stations/images-america/fresno/K-Jewel 99.3.png",
-            url: "https://ice26.securenetsystems.net/KJWL"
+            url: "http://204.93.186.205/index.php?u=https://ice26.securenetsystems.net/KJWL"
         },
         {
             name: "Y101",
@@ -8374,7 +8374,7 @@ var stations = {
         {
             name: "Punjabi Radio 104.5",
             logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
-            url: "https://s5.voscast.com:9281/stream"
+            url: "http://s5.voscast.com:9281/stream"
         },
         {
             name: "HOT 104.7",
@@ -11695,7 +11695,7 @@ var stations = {
         {
             name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://transmitter.clubcasting.net:8000/live"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "Kat Country 100.7",
@@ -12279,7 +12279,7 @@ var stations = {
         {
             name: "ViBE 99.7",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://transmitter.clubcasting.net:8000/live"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "LasVegas.net 99.7-HD2",
@@ -13539,7 +13539,7 @@ var stations = {
         {
             name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://transmitter.clubcasting.net:8000/live"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "The Highway Country 101.5",
@@ -15218,7 +15218,7 @@ var stations = {
         {
             name: "98.9 KHWY",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://transmitter.clubcasting.net:8000/live"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "103.9 Jack FM",
@@ -18821,7 +18821,7 @@ var stations = {
         },
         {
             name: "KMBY 1240",
-            logo: "stations/images-america/salinas/KMBY 95.9.png",
+            logo: "stations/images-america/monterey/KMBY 95.9.png",
             url: "https://streaming1.kkdjfresno.com:9020/;"
         },
         {
@@ -23733,7 +23733,7 @@ var stations = {
         {
             name: "98.1 KRXV",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://transmitter.clubcasting.net:8000/live"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "99.1 KGGI",

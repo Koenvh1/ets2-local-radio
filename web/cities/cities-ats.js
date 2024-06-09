@@ -1527,7 +1527,7 @@ var country_properties = {
         name: "Salinas",
         name_english: "Salinas",
         code: "us-ca",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "salmon": {
         name: "Salmon",
@@ -2804,7 +2804,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "salinas": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "salmon": {
         relative_whitenoise: 0.85
@@ -5419,7 +5419,7 @@ var cities = [
         "country": "salinas",
         "x": "-114540",
         "y": "93.9803",
-        "z": "-2594.439"
+        "z": "-2404.439"
     },
     {
         "gameName": "salt_lake",
