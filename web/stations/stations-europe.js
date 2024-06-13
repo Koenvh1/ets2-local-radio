@@ -809,7 +809,7 @@ var stations = {
         {
             name: "Flaixbac",
             logo: "stations/images-europe/catalonia/Flaixbac.png",
-            url: "https://flaixbac.streaming-pro.com:8007/flaixbac.aacp"
+            url: "https://stream.flaixbac.cat/icecast"
         },
         {
             name: "RAC1",
