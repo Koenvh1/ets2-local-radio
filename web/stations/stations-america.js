@@ -33057,9 +33057,9 @@ var stations_c2c = {
             url: "http://stream.wrfu.net:8000/airtime_ogg320"
         },
         {
-            name: "HOT 105.5",
-            logo: "stations/images-america/c2c/champaign_il/HOT 105.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCZQFMAAC_SC"
+            name: "WKIO 105.5",
+            logo: "stations/images-america/c2c/champaign_il/WKIO 105.5.png",
+            url: "https://ice25.securenetsystems.net/WKIO"
         },
         {
             name: "106.5 W293DB",
@@ -33070,11 +33070,6 @@ var stations_c2c = {
             name: "WPGU 107.1",
             logo: "stations/images-america/c2c/champaign_il/WPGU 107.1.png",
             url: "https://ice64.securenetsystems.net/WPGUFM"
-        },
-        {
-            name: "107.9 WKIO",
-            logo: "stations/images-america/c2c/champaign_il/107.9 WKIO.png",
-            url: "https://ice25.securenetsystems.net/WKIO"
         },
         {
             name: "670 The Score",
@@ -35323,9 +35318,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
         },
         {
-            name: "96.9 The Beat",
-            logo: "stations/images-america/topeka/96.9 The Beat.png",
-            url: "https://ice41.securenetsystems.net/KQRB"
+            name: "96.9 The Pulse",
+            logo: "stations/images-america/topeka/96.9 The Pulse.png",
+            url: "https://us9.maindigitalstream.com/ssl/KOZA"
         },
         {
             name: "KFGB 97.7",
