@@ -22858,6 +22858,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc65/hls.m3u8"
         },
         {
+            name: "92.9 KHUD-HD2",
+            logo: "stations/images-america/tucson/Magic 107.1.png",
+            url: "https://stream.revma.ihrhls.com/zc10399"
+        },
+        {
             name: "Éxito 93.3",
             logo: "stations/images-america/tucson/Éxito 93.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC.aac"
@@ -22961,6 +22966,11 @@ var stations = {
             name: "106.3 The Groove",
             logo: "stations/images-america/tucson/106.3 The Groove.png",
             url: "https://ice42.securenetsystems.net/KTGV"
+        },
+        {
+            name: "Magic 107.1",
+            logo: "stations/images-america/tucson/Magic 107.1.png",
+            url: "https://stream.revma.ihrhls.com/zc10399/hls.m3u8"
         },
         {
             name: "K-HIT 107.5",
