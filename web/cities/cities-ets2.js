@@ -287,6 +287,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 0.8,
     },
+    "greenland": {
+        name: "Kalaallit Nunaat",
+        name_english: "Greenland",
+        code: "gl",
+        relative_radius: 0.8,
+    },
     "hungary": {
         name: "Magyarország",
         name_english: "Hungary",
