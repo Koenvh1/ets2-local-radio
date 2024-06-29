@@ -13923,9 +13923,9 @@ var stations = {
             url: "http://ice5.securenetsystems.net/KNED"
         },
         {
-            name: "The Blitz 1170",
-            logo: "stations/images-america/tulsa/The Blitz 1170.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+            name: "1170 News On 6 Now",
+            logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
+            url: "https://fuel-streaming-prod01.fuelmedia.io/v1/sep/a5a5ac00-a9ac-4d8c-a1cf-1b66eed1acd2/01e6aa3a-3da2-48b9-a567-98def6495803/6S600K360AWS/SM/content.m3u8"
         },
         {
             name: "KVLF 1240",
@@ -28263,9 +28263,9 @@ var stations_c2c = {
             url: "https://ice41.securenetsystems.net/KISR"
         },
         {
-            name: "Red Dirt 96.7",
-            logo: "stations/images-america/c2c/fayetteville_ar/Red Dirt 96.7.png",
-            url: "https://ice6.securenetsystems.net/KFFK"
+            name: "96.7 The Bull",
+            logo: "stations/images-america/c2c/fayetteville_ar/96.7 The Bull.png",
+            url: "https://ice26.securenetsystems.net/KXRD"
         },
         {
             name: "KPSQ 97.3",
@@ -28286,6 +28286,11 @@ var stations_c2c = {
             name: "ESPN 99.5",
             logo: "stations/images-america/c2c/fayetteville_ar/ESPN 99.5.png",
             url: "https://ice5.securenetsystems.net/KAKSFM"
+        },
+        {
+            name: "Red Dirt 100.5",
+            logo: "stations/images-america/c2c/fayetteville_ar/Red Dirt 100.5.png",
+            url: "https://ice6.securenetsystems.net/KFFK"
         },
         {
             name: "101.5 The Vibe",
@@ -41422,6 +41427,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBFO_THE_BRIDGEAAC_SC"
         },
         {
+            name: "Radio Bilingüe 88.7-HD3",
+            logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
+            url: "https://radio.radiobilingue.org/"
+        },
+        {
             name: "Country 89",
             logo: "stations/images-america/c2c/buffalo_ny/Country 89.png",
             url: "https://www.streamvortex.com:8444/s/10680"
@@ -43625,11 +43635,6 @@ var stations_c2c = {
             name: "WUNC 91.5",
             logo: "stations/images-america/c2c/raleigh_nc/WUNC 91.5.png",
             url: "http://wunc-ice.streamguys1.com:80/wunc-128-mp3"
-        },
-        {
-            name: "WUNC Music 91.5-HD2",
-            logo: "stations/images-america/c2c/raleigh_nc/WUNC Music 91.5-HD2.png",
-            url: "http://wunc-ice.streamguys1.com/wunc-hd2-128-mp3"
         },/*
         {
             name: "Rock 92.9",
@@ -46553,8 +46558,8 @@ var stations_c2c = {
         },
         {
             name: "106.9 KHTT-HD2",
-            logo: "stations/images-america/tulsa/The Blitz 1170.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct//griffin-kfaqamaac-imc2"
+            logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
+            url: "http://fuel-streaming-prod01.fuelmedia.io/v1/sep/a5a5ac00-a9ac-4d8c-a1cf-1b66eed1acd2/01e6aa3a-3da2-48b9-a567-98def6495803/6S600K360AWS/SM/content.m3u8"
         },
         {
             name: "KOSU 107.5",
@@ -46592,9 +46597,9 @@ var stations_c2c = {
             url: "http://streamcontrol.net:16330//stream"
         },
         {
-            name: "The Blitz 1170",
-            logo: "stations/images-america/tulsa/The Blitz 1170.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+            name: "1170 News On 6 Now",
+            logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
+            url: "https://fuel-streaming-prod01.fuelmedia.io/v1/sep/a5a5ac00-a9ac-4d8c-a1cf-1b66eed1acd2/01e6aa3a-3da2-48b9-a567-98def6495803/6S600K360AWS/SM/content.m3u8"
         },
         {
             name: "KRXO 1270",
@@ -51465,6 +51470,11 @@ var stations_c2c = {
             url: "http://ice3.securenetsystems.net/WRRR"
         },
         {
+            name: "FROGGY 95",
+            logo: "stations/images-america/c2c/parkersburg_wv/FROGGY 95.png",
+            url: "https://ice41.securenetsystems.net/WGGE"
+        },
+        {
             name: "96.3 The Beet",
             logo: "stations/images-america/c2c/parkersburg_wv/96.3 The Beet.png",
             url: "http://wpkmradio.com:8000/wpkm"
@@ -51480,14 +51490,34 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/WVAM"
         },
         {
+            name: "WXIL 99",
+            logo: "stations/images-america/c2c/parkersburg_wv/WXIL 99.png",
+            url: "https://ice24.securenetsystems.net/WXIL"
+        },
+        {
             name: "MIX 100",
             logo: "stations/images-america/c2c/parkersburg_wv/MIX 100.png",
             url: "https://stream.revma.ihrhls.com/zc4854/hls.m3u8"
         },
         {
+            name: "103.1 The Bear",
+            logo: "stations/images-america/c2c/parkersburg_wv/103.1 The Bear.png",
+            url: "https://ice24.securenetsystems.net/WHBR"
+        },
+        {
+            name: "POP! 103.5",
+            logo: "stations/images-america/c2c/parkersburg_wv/POP! 103.5.png",
+            url: "https://ice24.securenetsystems.net/WVNT"
+        },
+        {
             name: "102 The River",
             logo: "stations/images-america/c2c/parkersburg_wv/102 The River.png",
             url: "https://stream.revma.ihrhls.com/zc4834/hls.m3u8"
+        },
+        {
+            name: "106.1 The Goat",
+            logo: "stations/images-america/c2c/parkersburg_wv/106.1 The Goat.png",
+            url: "https://ice24.securenetsystems.net/WRZZ"
         },
         {
             name: "107 NUS",
