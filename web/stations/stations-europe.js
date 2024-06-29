@@ -2751,6 +2751,13 @@ var stations = {
             url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
+    "greenland": [
+        {
+            name: "Kalaallit Nunaata Radioa",
+            logo: "stations/images-europe/greenland/Kalaallit Nunaata Radioa.svg",
+            url: "https://www.knr.gl/radiolivestream"
+        }
+    ],
     "hungary": [
         {
             name: "Kossuth Rádió",

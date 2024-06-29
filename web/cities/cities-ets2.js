@@ -287,6 +287,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 0.8,
     },
+    "greenland": {
+        name: "Kalaallit Nunaat",
+        name_english: "Greenland",
+        code: "gl",
+        relative_radius: 0.8,
+    },
     "hungary": {
         name: "Magyarország",
         name_english: "Hungary",
@@ -7509,6 +7515,17 @@ var cities_pm260 = [
     }
 ];
 
+var cities_pm270 = [
+    {
+        "gameName": "nuuk",
+        "realName": "Nuuk",
+        "country": "greenland",
+        "x": "-134218.234",
+        "y": "52",
+        "z": "-150104.141"
+    }
+];
+
 var cities_pm_me = [
     {
         "gameName": "afula",
@@ -11145,7 +11162,8 @@ cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
 cities = cities.concat(cities_pm245); //ProMods 2.45 cities
 cities = cities.concat(cities_pm250); //ProMods 2.50 cities
-cities = cities.concat(cities_pm260); //ProMods 2.50 cities
+cities = cities.concat(cities_pm260); //ProMods 2.60 cities
+cities = cities.concat(cities_pm270); //ProMods 2.70 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
