@@ -23471,6 +23471,16 @@ var stations = {
             url: "https://wrn.streamguys1.com/kepx"
         },
         {
+            name: "Tejano y Mas 102.3",
+            logo: "stations/images-america/uvalde/Tejano y Mas 102.3.png",
+            url: "http://s6.autopo.st:8663/stream"
+        },
+        {
+            name: "104.9 Coyote Country",
+            logo: "stations/images-america/uvalde/104.9 Coyote Country.png",
+            url: "https://s6.autopo.st/proxy/vanutaje?mp=%2Fstream"
+        },
+        {
             name: "GRN 1400",
             logo: "stations/images-america/0_general_logos/GRN.png",
             url: "https://ssl-2.stream.miriamtech.net/grn/KATH910AM.mp3"
