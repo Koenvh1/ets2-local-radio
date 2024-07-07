@@ -162,11 +162,6 @@ var stations = {
             logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
             url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
-        {
-            name: "1490 KWOK",
-            logo: "stations/images-america/aberdeen/1490 KWOK.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kwokamaac-ibc4"
-        },
     ],
     "abilene": [
         {
@@ -257,7 +252,7 @@ var stations = {
         {
             name: "Positive Country 104.3",
             logo: "stations/images-america/abilene/Positive Country 104.3.png",
-            url: "https://ic1.sslstream.com/kbvp-fm"
+            url: "https://streaming.live365.com/a66794"
         },
         {
             name: "KEAN 105",
@@ -319,7 +314,7 @@ var stations = {
         {
             name: "KHII 88.9",
             logo: "stations/images-america/alamogordo/KHII 88.9.png",
-            url: "https://ic1.sslstream.com/khii-fm"
+            url: "https://streaming.live365.com/a40086"
         },
         {
             name: "VCY America 88.5",
@@ -827,7 +822,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 88.3",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "K-LOVE 89.1",
@@ -1741,7 +1736,7 @@ var stations = {
         {
             name: "Kalor 104.3",
             logo: "stations/images-america/bakersfield/Kalor 104.3.png",
-            url: "https://ice10.securenetsystems.net/KSRN2"
+            url: "https://stream.zeno.fm/efhng47wf4mvv"
         },
         {
             name: "Air1 104.7",
@@ -1884,12 +1879,12 @@ var stations = {
             name: "AM 590 The Answer",
             logo: "stations/images-america/riverside/AM 590 The Answer.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
-        },
+        },/*
         {
             name: "FOX Sports 610",
             logo: "stations/images-america/barstow/FOX Sports 610.png",
             url: "https://ice8.securenetsystems.net/KAVL"
-        },
+        },*/
         {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
@@ -2852,7 +2847,7 @@ var stations = {
         {
             name: "790 KSPD",
             logo: "stations/images-america/boise/790 KSPD.png",
-            url: "https://ic2.sslstream.com/kspd-am"
+            url: "https://ice26.securenetsystems.net/KSPD"
         },
         {
             name: "Salt & Light Radio 1140",
@@ -2956,7 +2951,7 @@ var stations = {
         {
             name: "99.1 The One",
             logo: "stations/images-america/bozeman/99.1 The One.png",
-            url: "https://ic2.sslstream.com/kcmm-ir"
+            url: "https://streaming.live365.com/a46407"
         },
         {
             name: "99.9 KBEAR",
@@ -3392,7 +3387,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 88.1",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "HPPR 89.5",
@@ -3854,7 +3849,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 88.3",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "Radio By Grace 88.7",
@@ -3928,7 +3923,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 90.5",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "GRN 91.7",
@@ -4124,7 +4119,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 92.3",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "99.1 KCLV",
@@ -5695,7 +5690,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 90.5",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "afr Talk 91.7",
@@ -7155,7 +7150,7 @@ var stations = {
         {
             name: "KDSS 92.7",
             logo: "stations/images-america/ely/KDSS 92.7.png",
-            url: "http://208.70.75.109:8100/stream"
+            url: "http://ednixon.com:8100/stream"
         },
         {
             name: "95.3 K237AJ",
@@ -8182,7 +8177,7 @@ var stations = {
         {
             name: "NotiGAPE 98.7",
             logo: "stations/images-america/0_general_logos/NotiGAPE.png",
-            url: "https://ice42.securenetsystems.net/KRRGHD2"
+            url: "https://stream.zeno.fm/z4gn0pqq168uv"
         },
         {
             name: "Norteño 104.1",
@@ -11975,7 +11970,7 @@ var stations = {
         {
             name: "NotiGAPE 98.1-HD2",
             logo: "stations/images-america/0_general_logos/NotiGAPE.png",
-            url: "https://ice42.securenetsystems.net/KRRGHD2"
+            url: "http://stream.zeno.fm/z4gn0pqq168uv"
         },
         {
             name: "Energy 98-HD3",
@@ -12016,6 +12011,11 @@ var stations = {
             name: "La Poderosa 103.7",
             logo: "stations/images-america/laredo/La Poderosa 103.7.png",
             url: "https://stream.zeno.fm/hgc0rv34qbxvv"
+        },
+        {
+            name: "NotiGAPE 104.1",
+            logo: "stations/images-america/0_general_logos/NotiGAPE.png",
+            url: "https://stream.zeno.fm/z4gn0pqq168uv"
         },
         {
             name: "Radio UAT 104.9",
@@ -14857,7 +14857,7 @@ var stations = {
         {
             name: "Punjabi Radio 92.3",
             logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
-            url: "http://s2.voscast.com:7016/stream"
+            url: "https://s5.voscast.com:9281/stream"
         },
         {
             name: "92.9 The Big Dog",
@@ -21226,7 +21226,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 90.3",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com/kjrt-fm"
+            url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "Legends 92.9",
@@ -33097,6 +33097,11 @@ var stations_c2c = {
             url: "https://ice64.securenetsystems.net/WPGUFM"
         },
         {
+            name: "107.9 The Rooster",
+            logo: "stations/images-america/c2c/champaign_il/107.9 The Rooster.png",
+            url: "https://ice26.securenetsystems.net/WDWSFM"
+        },
+        {
             name: "670 The Score",
             logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wscramaac-imc"
@@ -38268,8 +38273,8 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wgrdfmaac-ibc3"
         },
         {
-            name: "98.7 WFGR",
-            logo: "stations/images-america/c2c/grand_rapids_mi/98.7 WFGR.png",
+            name: "98.7 The Grand",
+            logo: "stations/images-america/c2c/grand_rapids_mi/98.7 The Grand.png",
             url: "https://live.amperwave.net/manifest/townsquare-wfgrfmaac-ibc3"
         },
         {
@@ -43060,6 +43065,11 @@ var stations_c2c = {
             name: "Mix 96.5",
             logo: "stations/images-america/c2c/asheville_nc/Mix 96.5.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-woxlfmaac-ibc2"
+        },
+        {
+            name: "La Pantera 97.3",
+            logo: "stations/images-america/c2c/asheville_nc/La Pantera 97.3.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/saga-woxlhd3aac-ibc"
         },
         {
             name: "97.7 The Brew",
