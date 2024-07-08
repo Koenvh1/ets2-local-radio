@@ -3397,7 +3397,7 @@ var stations = {
         {
             name: "Kingdom Keys Radio 90.3",
             logo: "stations/images-america/dalhart/Kingdom Keys Radio 90.5.png",
-            url: "http://ic2.christiannetcast.com//kjrt-fm"
+            url: "http://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
             name: "98.3 KXDJ",
@@ -3408,12 +3408,12 @@ var stations = {
             name: "102.9 K275CM",
             logo: "stations/images-america/shamrock/Legends 92.9.png",
             url: "http://174.127.75.88:8020/live"
-        },
+        },/*
         {
             name: "103.3 The Arrow",
             logo: "stations/images-america/canadian/103.3 The Arrow.png",
             url: "http://139.60.77.55/kdrl"
-        },
+        },*/
         {
             name: "104.5 KZZW",
             logo: "stations/images-america/0_general_logos/KJIL.png",
@@ -12471,11 +12471,6 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/921hankfm"
         },
         {
-            name: "KOZE Sports 95.5",
-            logo: "stations/images-america/lewiston/KOZE.png",
-            url: "http://us2.maindigitalstream.com/ssl/KOZE"
-        },
-        {
             name: "Z-Rock 96.5",
             logo: "stations/images-america/lewiston/Z-Rock 96.5.png",
             url: "https://live.amperwave.net/manifest/mcvey-kozefmaac-ibc1"
@@ -12534,11 +12529,6 @@ var stations = {
             name: "Canyon Country 106.9",
             logo: "stations/images-america/lewiston/Canyon Country 106.9.png",
             url: "https://live.amperwave.net/manifest/mcvey-kmokfmaac-ibc"
-        },
-        {
-            name: "KOZE Sports 950",
-            logo: "stations/images-america/lewiston/KOZE.png",
-            url: "https://us2.maindigitalstream.com/ssl/KOZE"
         },
         {
             name: "NWPB News 1250",
@@ -12642,7 +12632,7 @@ var stations = {
         {
             name: "98.9 TiM FM",
             logo: "stations/images-america/lincoln/TiM FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3055238_SC"
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3055238_SC"
         },
         {
             name: "99.3 KLIN",
@@ -12712,7 +12702,7 @@ var stations = {
         {
             name: "107.9 TiM FM",
             logo: "stations/images-america/lincoln/TiM FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3055238_SC"
+            url: "http://204.93.186.205/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3055238_SC"
         },
         {
             name: "KFOR 1240",
@@ -12881,9 +12871,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKJZFMAAC_SC"
         },
         {
-            name: "KJazz Cool Jazz 88.1-HD2",
-            logo: "stations/images-america/los_angeles/KJazz Cool Jazz 88.1-HD2.png",
-            url: "https://1.ice1.sslstream.com/kkjz_hd.aac"
+            name: "KJazz Bebop 88.1-HD2",
+            logo: "stations/images-america/los_angeles/KJazz Bebop 88.1-HD2.png",
+            url: "https://streaming.live365.com/a45189"
         },
         {
             name: "22 West Radio 88.1-HD3",
@@ -13214,11 +13204,6 @@ var stations = {
             name: "KIRN 670",
             logo: "stations/images-america/los_angeles/SoCal Persian.png",
             url: "http://ice41.securenetsystems.net/KIRN"
-        },
-        {
-            name: "URadio 690",
-            logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "710 ESPN",
@@ -17922,11 +17907,6 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
         },
         {
-            name: "URadio 690",
-            logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
-        },
-        {
             name: "KBRT 740",
             logo: "stations/images-america/riverside/KBRT 740.png",
             url: "https://ais-sa8.cdnstream1.com/pqst3o0hqn3/coqgtkmc4qb"
@@ -20186,11 +20166,6 @@ var stations = {
             name: "Unanimo 620",
             logo: "stations/images-america/san_diego/Unanimo 620.png",
             url: "http://99.198.118.250:8001/stream"
-        },
-        {
-            name: "URadio 690",
-            logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "San Diego Sports 760",
@@ -23789,11 +23764,6 @@ var stations = {
             name: "106.5 The Fox",
             logo: "stations/images-america/victorville/106.5 The Fox.png",
             url: "https://live.amperwave.net/manifest/eldorado-kixafmaac-ibc2?source=v7player"
-        },
-        {
-            name: "URadio 690",
-            logo: "stations/images-america/san_diego/URadio 690.png",
-            url: "http://uradio-streamer0.ifengus.com:8000/ulive.mp3"
         },
         {
             name: "Talk 960",
