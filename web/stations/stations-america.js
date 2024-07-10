@@ -23798,11 +23798,6 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7050_24k.aac"
         },
         {
-            name: "92.9 Shooter FM",
-            logo: "stations/images-america/waco/92.9 Shooter FM.png",
-            url: "https://ais-sa1.streamon.fm/7052_32k.aac"
-        },
-        {
             name: "FOX Sports 93.9",
             logo: "stations/images-america/waco/Fox Sports 93.9.png",
             url: "https://ais-sa1.streamon.fm/7852_128k.aac"
@@ -23873,9 +23868,9 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KWOW"
         },
         {
-            name: "104.9 Kicker Country",
-            logo: "stations/images-america/waco/104.9 Kicker Country.png",
-            url: "https://ais-sa1.streamon.fm/7054_24k.aac"
+            name: "104.9 Shooter FM",
+            logo: "stations/images-america/waco/104.9 Shooter FM.png",
+            url: "https://ais-sa1.streamon.fm/7052_32k.aac"
         },
         {
             name: "106.7 The Eagle",
@@ -23904,8 +23899,8 @@ var stations = {
         },
         {
             name: "Kicker Country 1590",
-            logo: "stations/images-america/waco/104.9 Kicker Country.png",
-            url: "http://ais-sa1.streamon.fm/7054_24k.aac"
+            logo: "stations/images-america/waco/Kicker Country 1590.png",
+            url: "https://ais-sa1.streamon.fm/7054_24k.aac"
         },
         {
             name: "1660 ESPN",
@@ -48202,6 +48197,11 @@ var stations_c2c = {
             name: "Hola Radio 94.9",
             logo: "stations/images-america/c2c/scranton_pa/Hola Radio.png",
             url: "https://isrd.internetsolutionsrd.com/8010/stream"
+        },
+        {
+            name: "Fuzz 96.1",
+            logo: "stations/images-america/c2c/scranton_pa/Fuzz 96.1.png",
+            url: "https://ais-sa1.streamon.fm/7934_96k.aac"
         },
         {
             name: "HOT 97.1",
