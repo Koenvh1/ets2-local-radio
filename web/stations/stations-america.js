@@ -8369,7 +8369,7 @@ var stations = {
         {
             name: "Punjabi Radio 104.5",
             logo: "stations/images-america/0_general_logos/Punjabi Radio.png",
-            url: "http://s5.voscast.com:9281/stream"
+            url: "https:///s5.voscast.com:9281/stream"
         },
         {
             name: "HOT 104.7",
@@ -16606,9 +16606,9 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
-            name: "Infinity Sports Network 101.5-HD3",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-cbssportsaac-imc"
+            name: "101.5 KALV-HD3",
+            logo: "stations/images-america/phoenix/Z89.3.png",
+            url: "https://cast6.asurahosting.com/proxy/apachel1/stream"
         },
         {
             name: "La Campesina 101.9",
@@ -44837,9 +44837,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wncxfmaac-imc"
         },
         {
-            name: "BIN 99.1",
-            logo: "stations/images-america/c2c/cleveland_oh/BIN 99.1.png",
-            url: "https://stream.revma.ihrhls.com/zc5382/hls.m3u8"
+            name: "Throwback 99.1",
+            logo: "stations/images-america/c2c/cleveland_oh/Throwback 99.1.png",
+            url: "https://stream.revma.ihrhls.com/zc10408/hls.m3u8"
         },
         {
             name: "99.5 WGAR",
@@ -44855,6 +44855,11 @@ var stations_c2c = {
             name: "100.7 WMMS",
             logo: "stations/images-america/c2c/cleveland_oh/100.7 WMMS.png",
             url: "https://stream.revma.ihrhls.com/zc1741/hls.m3u8"
+        },
+        {
+            name: "BIN 101.1",
+            logo: "stations/images-america/c2c/cleveland_oh/BIN 99.1.png",
+            url: "https://stream.revma.ihrhls.com/zc5382/hls.m3u8"
         },
         {
             name: "Star 102",
