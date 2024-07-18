@@ -128,6 +128,9 @@ Click the sound icon in your address bar, and set automatic playback to "allow".
 ### The overlay is upside down in VR
 Close the server, open the `settings.json` file, and change `vr` to `true`.
 
+### I get some SlimDX.dll error
+You might need to install the [Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package](https://www.microsoft.com/en-us/download/details.aspx?id=26999).
+
 ### The page keeps showing "Waiting for your in-game coordinates...", even though the server does know the coordinates
 Make sure you use a modern browser, and have no add-ons that conflict with Local Radio. Also make sure your firewall does not block access to the Local Radio server, and that your browser settings are not so restrictive that they block access to Local Radio (e.g. by forcing HTTPS usage).
 
