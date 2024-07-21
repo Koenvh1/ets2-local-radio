@@ -309,6 +309,11 @@ var stations = {
             logo: "stations/images-america/abilene/NewsTalk 1560.png",
             url: "https://ice42.securenetsystems.net/KEMP"
         },
+        {
+            name: "NOAA Weather Radio Abilene",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/42709"
+        },
     ],
     "alamogordo": [
         {
@@ -1746,7 +1751,7 @@ var stations = {
         {
             name: "KESY 91.1",
             logo: "stations/images-america/boise/89.5 KTSY.png",
-            url: "http://147.135.84.27/ktsy-fm"
+            url: "https://streaming.live365.com/a51327"
         },
         {
             name: "92.9 The Hawk",
@@ -2819,12 +2824,12 @@ var stations = {
         {
             name: "Project 88.7",
             logo: "stations/images-america/boise/Project 88.7.png",
-            url: "https://ic2.sslstream.com/koay-fm"
+            url: "https://streaming.live365.com/a04089"
         },
         {
             name: "89.5 KTSY",
             logo: "stations/images-america/boise/89.5 KTSY.png",
-            url: "http://147.135.84.27/ktsy-fm"
+            url: "https://streaming.live365.com/a51327"
         },
         {
             name: "Radio Boise 89.9",
@@ -4395,6 +4400,11 @@ var stations = {
             logo: "stations/images-america/cody/KODI 96.7.png",
             url: "http://ice26.securenetsystems.net/KODI"
         },
+        {
+            name: "NOAA Weather Radio Cody",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/32110"
+        },
     ],
     "colby": [
         {
@@ -4598,6 +4608,11 @@ var stations = {
             name: "Peace 107.7",
             logo: "stations/images-america/college_station/Peace 107.7.png",
             url: "https://ice24.securenetsystems.net/PEACE107"
+        },
+        {
+            name: "NOAA Weather Radio College Station",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/40075"
         },
     ],
     "colorado_springs_pueblo": [/*
@@ -6620,6 +6635,11 @@ var stations = {
             logo: "stations/images-america/durango/KDGO 98.3.png",
             url: "http://streams.radiomast.io/94f75f4d-f0ae-44f5-8641-c719fd6cd406"
         },
+        {
+            name: "NOAA Weather Radio Durango",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/36396"
+        },
     ],
     "durant": [
         {
@@ -7987,6 +8007,11 @@ var stations = {
             name: "1390 KENN",
             logo: "stations/images-america/farmington/1390 KENN.png",
             url: "https://streams.radiomast.io/2ea57a87-1155-4d57-b903-8420a8078476"
+        },
+        {
+            name: "NOAA Weather Radio Farmington",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/35195"
         },
     ], 
     "flagstaff": [
@@ -13915,6 +13940,11 @@ var stations = {
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
             url: "http://204.93.186.205/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
+        {
+            name: "NOAA Weather Radio Lubbock",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/38027"
+        },
     ],
     "ludlow": [
         {
@@ -14540,12 +14570,12 @@ var stations = {
         {
             name: "KGSY 88.3",
             logo: "stations/images-america/boise/89.5 KTSY.png",
-            url: "http://147.135.84.27/ktsy-fm"
+            url: "https://streaming.live365.com/a51327"
         },
         {
             name: "Project 88.7",
             logo: "stations/images-america/boise/Project 88.7.png",
-            url: "https://ic2.sslstream.com/koay-fm"
+            url: "https://streaming.live365.com/a04089"
         },
         {
             name: "BSPR Jazz 89.9",
@@ -15222,6 +15252,11 @@ var stations = {
             name: "KCUT 102.9",
             logo: "stations/images-america/moab/KCUT 102.9.png",
             url: "https://ec1.yesstreaming.net:2845/stream"
+        },
+        {
+            name: "NOAA Weather Radio Utah",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/35369"
         },
     ],
     "modesto": [
@@ -15952,7 +15987,7 @@ var stations = {
         {
             name: "KUCO 90.1",
             logo: "stations/images-america/oklahoma_city/KUCO 90.1.png",
-            url: "https://kuco.streamguys1.com/live_acc"
+            url: "https://kuco.streamguys1.com/live_aac"
         },
         {
             name: "UCentral 90.1-HD2",
@@ -17427,6 +17462,11 @@ var stations = {
             name: "La Mejor 1400",
             logo: "stations/images-america/phoenix/La Mejor 106.5.png",
             url: "http://sonic-ca.instainternet.com:8068/stream"
+        },
+        {
+            name: "NOAA Weather Radio Phoenix",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/40917"
         },
     ],
     "pioche": [
@@ -19841,6 +19881,11 @@ var stations = {
             logo: "stations/images-america/salt_lake/KTALK 1640.png",
             url: "http://s3.voscast.com:7204/stream"
         },
+        {
+            name: "NOAA Weather Radio Utah",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/35369"
+        },
     ],
     "san_angelo": [
         {
@@ -20244,6 +20289,11 @@ var stations = {
             name: "KEDA 1540",
             logo: "stations/images-america/san_antonio/KEDA 99.9.png",
             url: "http://puroradio.net:2020/stream/keda"
+        },
+        {
+            name: "NOAA Weather Radio San Antonio",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/38589"
         },
     ],
     "santa_fe": [
@@ -22901,6 +22951,11 @@ var stations = {
             logo: "stations/images-america/st_george/Patriot Radio.png",
             url: "http://ice10.securenetsystems.net/KZNU2"
         },
+        {
+            name: "NOAA Weather Radio Utah",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/35369"
+        },
     ],
     "stockton": [
         {
@@ -23987,7 +24042,7 @@ var stations = {
         {
             name: "KTFY 88.3",
             logo: "stations/images-america/boise/89.5 KTSY.png",
-            url: "http://147.135.84.27/ktsy-fm"
+            url: "https://streaming.live365.com/a51327"
         },
         {
             name: "Effect Radio 88.9",
@@ -24615,6 +24670,11 @@ var stations = {
             name: "KNEU AM 1250",
             logo: "stations/images-america/vernal/KNEU.png",
             url: "http://ais-sa1.streamon.fm/7919_96k.aac"
+        },
+        {
+            name: "NOAA Weather Radio Utah",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/35369"
         },
     ],
     "victoria": [
@@ -25717,6 +25777,11 @@ var stations = {
             logo: "stations/images-america/yuma/Outlaw Country 1400.png",
             url: "http://keithz932.primcast.com:5168/stream"
         },*/
+        {
+            name: "NOAA Weather Radio Yuma",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/42303"
+        },
     ],
     "zapata": [
         {
