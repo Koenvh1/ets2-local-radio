@@ -6459,8 +6459,8 @@ var stations = {
             url: "https://ice23.securenetsystems.net//KWKR"
         },
         {
-            name: "My Country 93.5",
-            logo: "stations/images-america/hays/My Country 93.5.png",
+            name: "93.5 Thunder",
+            logo: "stations/images-america/hays/93.5 Thunder.png",
             url: "https://ice8.securenetsystems.net/KKDT"
         },
         {
@@ -7377,8 +7377,8 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KSNP"
         },
         {
-            name: "My Country 99.5",
-            logo: "stations/images-america/emporia/My Country 99.5.png",
+            name: "99.5 Thunder",
+            logo: "stations/images-america/emporia/99.5 Thunder.png",
             url: "https://ice8.securenetsystems.net/KEKSHD"
         },
         {
@@ -9731,8 +9731,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
         },
         {
-            name: "My Country 93.5",
-            logo: "stations/images-america/hays/My Country 93.5.png",
+            name: "93.5 Thunder",
+            logo: "stations/images-america/hays/93.5 Thunder.png",
             url: "https://ice8.securenetsystems.net/KKDT"
         },
         {
@@ -35486,9 +35486,14 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQLQ_HD2AAC_SC"
         },
         {
-            name: "96.1 The Ton",
-            logo: "stations/images-america/c2c/south_bend_in/96.1 The Ton.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQLQHD3AAC_SC"
+            name: "96.1 WSBT",
+            logo: "stations/images-america/c2c/south_bend_in/96.1 WSBT.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBTAMAAC.aac"
+        },
+        {
+            name: "97.5 Y Country",
+            logo: "stations/images-america/c2c/south_bend_in/97.5 Y Country.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYTZFMAAC_SC"
         },
         {
             name: "97.7 Rock",
@@ -41552,8 +41557,8 @@ var stations_c2c = {
             url: "https://ice42.securenetsystems.net/KJML"
         },
         {
-            name: "My Country 107.9",
-            logo: "stations/images-america/c2c/joplin_mo/My Country 107.9.png",
+            name: "107.9 Thunder",
+            logo: "stations/images-america/c2c/joplin_mo/107.9 Thunder.png",
             url: "https://ice42.securenetsystems.net/KSEKAM"
         },
         {
@@ -41587,8 +41592,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC.aac"
         },
         {
-            name: "My Country 1340",
-            logo: "stations/images-america/c2c/joplin_mo/My Country 107.9.png",
+            name: "1340 Thunder",
+            logo: "stations/images-america/c2c/joplin_mo/107.9 Thunder.png",
             url: "http://ice42.securenetsystems.net/KSEKAM"
         },
         {
