@@ -6325,8 +6325,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc7784/hls.m3u8"
         },
         {
-            name: "KFCO 107.1",
-            logo: "stations/images-america/denver/KFCO 107.1.png",
+            name: "FLO 107.1",
+            logo: "stations/images-america/denver/FLO 107.1.png",
             url: "https://pillar.streamguys1.com/KNDM"
         },
         {
@@ -22810,8 +22810,8 @@ var stations = {
             url: "http://newerastreaming.com:9006/stream"
         },
         {
-            name: "KFCO 107.1",
-            logo: "stations/images-america/denver/KFCO 107.1.png",
+            name: "FLO 107.1",
+            logo: "stations/images-america/denver/FLO 107.1.png",
             url: "https://pillar.streamguys1.com/KNDM"
         },
         {
@@ -52609,8 +52609,8 @@ var stations_c2c = {
             url: "http://amber.streamguys.com:4370/wxpr2"
         },
         {
-            name: "94.7 Jack FM",
-            logo: "stations/images-america/c2c/wausau_wi/94.7 Jack FM.png",
+            name: "94.7 The Beast",
+            logo: "stations/images-america/c2c/wausau_wi/94.7 The Beast.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOZZFMAAC_SC"
         },
         {
@@ -52642,6 +52642,11 @@ var stations_c2c = {
             name: "WDEZ 101.9",
             logo: "stations/images-america/c2c/wausau_wi/WDEZ 101.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDEZFMAAC_SC"
+        },
+        {
+            name: "102.9 The Beast",
+            logo: "stations/images-america/c2c/wausau_wi/94.7 The Beast.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOZZFMAAC.aac"
         },
         {
             name: "Classic Rock 103.3",
@@ -54003,8 +54008,8 @@ var stations_canada = {
             url: "http://audio.cfrc.ca:8000/stream"
         },
         {
-            name: "102.7 Lake FM",
-            logo: "stations/images-america/canada/kingston/102.7 Lake FM.png",
+            name: "102.7 WOW FM",
+            logo: "stations/images-america/canada/kingston/102.7 WOW FM.png",
             url: "https://ice64.securenetsystems.net/WLYK"
         },
         {
