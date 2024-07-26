@@ -31786,9 +31786,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPCVFMAAC_SC"
         },
         {
-            name: "FOX Sports 97.9",
-            logo: "stations/images-america/c2c/orlando_fl/FOX Sports Orlando.png",
-            url: "https://stream.revma.ihrhls.com/zc7959/hls.m3u8"
+            name: "Retro 97.9",
+            logo: "stations/images-america/c2c/orlando_fl/Retro 97.9.png",
+            url: "https://stream.revma.ihrhls.com/zc10430/hls.m3u8"
         },
         {
             name: "The JOY FM 98.1",
@@ -31819,6 +31819,16 @@ var stations_c2c = {
             name: "Rumba 100.3",
             logo: "stations/images-america/c2c/orlando_fl/Rumba 100.3.png",
             url: "https://stream.revma.ihrhls.com/zc605/hls.m3u8"
+        },
+        {
+            name: "100.3 WRUM-HD2",
+            logo: "stations/images-america/c2c/orlando_fl/Mega 97.1.png",
+            url: "https://stream.revma.ihrhls.com/zc7155"
+        },
+        {
+            name: "100.3 WRUM-HD3",
+            logo: "stations/images-america/c2c/orlando_fl/Retro 97.9.png",
+            url: "https://stream.revma.ihrhls.com/zc10430"
         },
         {
             name: "100.7 W264DU",
