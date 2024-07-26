@@ -358,24 +358,24 @@ var stations = {
             url: "https://frontend.streams.arabella.at/arabella-relax"
         },
         {
-            name: "Radio GÖD",
-            logo: "stations/images-europe/austria/Radio GÖD.png",
-            url: "https://radiogoed.securestream.kapper.net/stream"
-        },
-        {
-            name: "Radio SOL",
-            logo: "stations/images-europe/austria/Radio SOL.png",
-            url: "https://stream.radiosol.at/webstream"
-        },
-        {
             name: "Radio Flamingo",
             logo: "stations/images-europe/austria/Radio Flamingo.png",
             url: "https://live.antenne.at/rf"
         },
         {
+            name: "Radio GÖD",
+            logo: "stations/images-europe/austria/Radio GÖD.png",
+            url: "https://radiogoed.securestream.kapper.net/stream"
+        },
+        {
             name: "Radio Maria Österreich",
             logo: "stations/images-europe/austria/Radio Maria Österreich.png",
             url: "http://live.radiomaria.at:8000/rma"
+        },
+        {
+            name: "Radio SOL",
+            logo: "stations/images-europe/austria/Radio SOL.png",
+            url: "https://stream.radiosol.at/webstream"
         },
         {
             name: "radio klassik Stephansdom",
@@ -4996,7 +4996,7 @@ var stations = {
         {
             name: "اذاعة UFM",
             logo: "stations/images-europe/saudi/اذاعة UFM.png",
-            url: "http://69.61.26.75:8000/index.html;audio.mp3?hash=1592335708688"
+            url: "https://stream.ufmradio.com:8003/;"
         },
     ],
     "scotland": [
@@ -5714,7 +5714,7 @@ var stations = {
         {
             name: "Radio Südostschweiz",
             logo: "stations/images-europe/switzerland-de/Radio Südostschweiz.png",
-            url: "https://radiostream.suedostschweiz.ch/m/grischa/aacp_96"
+            url: "https://stream.srg-ssr.ch/m/grischa/aacp_96"
         },
         {
             name: "Radio Zürisee",
@@ -6516,29 +6516,29 @@ var stations = {
     ],
     "ukraine": [
         {
-            name: "УР1",
-            logo: "stations/images-europe/ukraine/УР.png",
+            name: "Українське Радіо",
+            logo: "stations/images-europe/ukraine/Українське Радіо.png",
             url: "http://radio.nrcu.gov.ua:8000/ur1-mp3"
         },
         {
-            name: "УР2",
-            logo: "stations/images-europe/ukraine/УР.png",
+            name: "Радіо Промінь",
+            logo: "stations/images-europe/ukraine/Радіо Промінь.png",
             url: "http://radio.nrcu.gov.ua:8000/ur2-mp3"
         },
         {
-            name: "УР3",
-            logo: "stations/images-europe/ukraine/УР.png",
+            name: "Радіо Культура",
+            logo: "stations/images-europe/ukraine/Радіо Культура.png",
             url: "http://radio.nrcu.gov.ua:8000/ur3-mp3"
-        },
-        {
-            name: "УР4",
-            logo: "stations/images-europe/ukraine/УР.png",
-            url: "http://radio.nrcu.gov.ua:8000/ur4-mp3"
         },
         { 
             name: "Авто Радіо",
             logo: "stations/images-europe/ukraine/Авто Радіо.png",
             url: "https://cast.mediaonline.net.ua/avtoradio"
+        },
+        {
+            name: "Армія FM",
+            logo: "stations/images-europe/ukraine/Армія FM.png",
+            url: "https://icecast.armyfm.com.ua:8443/ArmyFM"
         },
         {
             name: "DJ FM",
@@ -6586,11 +6586,6 @@ var stations = {
             url: "https://online-radio.nv.ua/radionv.mp3"
         },
         {
-            name: "Радио Шансон",
-            logo: "stations/images-europe/ukraine/Радио Шансон.png",
-            url: "https://chanson.hostingradio.ru:8041/chanson256.mp3"
-        },
-        {
             name: "Power FM",
             logo: "stations/images-europe/ukraine/Power FM.png",
             url: "https://cast.fex.net/power_x"
@@ -6619,6 +6614,16 @@ var stations = {
             name: "Радіо БАЙРАКТАР",
             logo: "stations/images-europe/ukraine/Радіо БАЙРАКТАР.png",
             url: "https://online.radiobayraktar.ua/RadioBayraktar_HD"
+        },
+        {
+            name: "Стильне радіо Перец FM",
+            logo: "stations/images-europe/ukraine/Стильне радіо Перец FM.png",
+            url: "https://radio.perec.fm/radio-stilnoe"
+        },
+        {
+            name: "Шлягер FM",
+            logo: "stations/images-europe/ukraine/Шлягер FM.png",
+            url: "https://cast.fex.net/shanson_x"
         },
     ],
     "wales": [
