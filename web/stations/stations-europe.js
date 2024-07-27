@@ -373,6 +373,11 @@ var stations = {
             url: "http://live.radiomaria.at:8000/rma"
         },
         {
+            name: "Radio ONE",
+            logo: "stations/images-europe/austria/Radio ONE.png",
+            url: "https://stream.radiotechnikum.at/TECHONE"
+        },
+        {
             name: "Radio SOL",
             logo: "stations/images-europe/austria/Radio SOL.png",
             url: "https://stream.radiosol.at/webstream"
@@ -401,11 +406,6 @@ var stations = {
             name: "Superfly.fm",
             logo: "stations/images-europe/austria/Superfly.fm.png",
             url: "https://web.stream.superfly.fm/superfly-live"
-        },
-        {
-            name: "Technikum One",
-            logo: "stations/images-europe/austria/Technikum One.png",
-            url: "https://stream.radiotechnikum.at/TECHONE"
         },
         {
             name: "VM1",
