@@ -263,19 +263,19 @@ var stations = {
             url: "https://orf-live.ors-shoutcast.at/oe3-q2a"
         },
         {
+            name: "Antenne HIT",
+            logo: "stations/images-europe/austria/Antenne HIT.png",
+            url: "https://onair.securestream.antennehit.at/anthit"
+        },
+        {
             name: "Antenne Österreich",
             logo: "stations/images-europe/austria/Antenne Österreich.png",
             url: "https://frontend.streamonkey.net/antoesterreich-live"
         },
         {
-            name: "arabella HOT",
-            logo: "stations/images-europe/austria/arabella HOT.png",
-            url: "https://frontend.streams.arabella.at/arabella-hot"
-        },
-        {
-            name: "arabella RELAX",
-            logo: "stations/images-europe/austria/arabella RELAX.png",
-            url: "https://frontend.streams.arabella.at/arabella-relax"
+            name: "Beats Radio",
+            logo: "stations/images-europe/germany/Beats Radio.png",
+            url: "https://stream.klassikradio.de/beats-at/mp3-192/"
         },
         {
             name: "ENERGY ÖSTERREICH",
@@ -288,14 +288,19 @@ var stations = {
             url: "http://stream.erf.at/erfplus_320"
         },
         {
-            name: "jö.live",
-            logo: "stations/images-europe/austria/jö.live.png",
-            url: "https://live.stream.maxfive.com/max5-joelive"
-        },
-        {
             name: "FM4",
             logo: "stations/images-europe/austria/FM4.png",
             url: "https://orf-live.ors-shoutcast.at/fm4-q2a"
+        },
+        {
+            name: "Flash 90s",
+            logo: "stations/images-europe/austria/Flash 90s.png",
+            url: "https://stream.flash90s.at/flash90s/mp3-320/"
+        },
+        {
+            name: "jö.live",
+            logo: "stations/images-europe/austria/jö.live.png",
+            url: "https://live.stream.maxfive.com/max5-joelive"
         },
         {
             name: "Klassik Radio Digital",
@@ -313,14 +318,19 @@ var stations = {
             url: "https://liferadio.streamabc.net/lfr-lr-mp3-128-9299368"
         },
         {
+            name: "LoungeFM",
+            logo: "stations/images-europe/austria/LoungeFM.png",
+            url: "https://s35.derstream.net/digital.mp3"
+        },
+        {
             name: "Mein Kinderradio",
             logo: "stations/images-europe/austria/Mein Kinderradio.png",
             url: "https://stream01.zogl.net:8907/stream"
         },
         {
-            name: "radio 88.6",
-            logo: "stations/images-europe/austria/Radio 88.6.png",
-            url: "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+            name: "NOSTALGIE",
+            logo: "stations/images-europe/germany/NOSTALGIE.png",
+            url: "https://scdn.nrjaudio.fm/adwz1/at/58914/aac_64.mp3"
         },
         {
             name: "oe24 Radio",
@@ -328,14 +338,49 @@ var stations = {
             url: "https://onair.securestream.radioaustria.at/radioaustria"
         },
         {
+            name: "radio 88.6",
+            logo: "stations/images-europe/austria/Radio 88.6.png",
+            url: "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+        },
+        {
+            name: "Radio Arabella",
+            logo: "stations/images-europe/austria/Radio Arabella.png",
+            url: "https://frontend.streams.arabella.at/arabella-wien"
+        },
+        {
+            name: "arabella HOT",
+            logo: "stations/images-europe/austria/arabella HOT.png",
+            url: "https://frontend.streams.arabella.at/arabella-hot"
+        },
+        {
+            name: "arabella RELAX",
+            logo: "stations/images-europe/austria/arabella RELAX.png",
+            url: "https://frontend.streams.arabella.at/arabella-relax"
+        },
+        {
             name: "Radio Flamingo",
             logo: "stations/images-europe/austria/Radio Flamingo.png",
             url: "https://live.antenne.at/rf"
         },
         {
+            name: "Radio GÖD",
+            logo: "stations/images-europe/austria/Radio GÖD.png",
+            url: "https://radiogoed.securestream.kapper.net/stream"
+        },
+        {
             name: "Radio Maria Österreich",
             logo: "stations/images-europe/austria/Radio Maria Österreich.png",
             url: "http://live.radiomaria.at:8000/rma"
+        },
+        {
+            name: "Radio ONE",
+            logo: "stations/images-europe/austria/Radio ONE.png",
+            url: "https://stream.radiotechnikum.at/TECHONE"
+        },
+        {
+            name: "Radio SOL",
+            logo: "stations/images-europe/austria/Radio SOL.png",
+            url: "https://stream.radiosol.at/webstream"
         },
         {
             name: "radio klassik Stephansdom",
@@ -348,14 +393,34 @@ var stations = {
             url: "https://s4-webradio.rockantenne.at/rockantenne-oesterreich"
         },
         {
-            name: "Technikum One",
-            logo: "stations/images-europe/austria/Technikum One.png",
-            url: "https://stream.radiotechnikum.at/TECHONE"
+            name: "Rot Weiss Rot",
+            logo: "stations/images-europe/austria/Rot Weiss Rot.png",
+            url: "https://secureonair.krone.at/rwr.aac"
+        },
+        {
+            name: "Super 80s",
+            logo: "stations/images-europe/austria/Super 80s.png",
+            url: "https://secureonair.krone.at/super80s.aac"
+        },
+        {
+            name: "Superfly.fm",
+            logo: "stations/images-europe/austria/Superfly.fm.png",
+            url: "https://web.stream.superfly.fm/superfly-live"
+        },
+        {
+            name: "VM1",
+            logo: "stations/images-europe/austria/VM1.png",
+            url: "https://radiovm1.fluidstream.eu/radiovm1.mp3"
         },
         {
             name: "WELLE 1",
             logo: "stations/images-europe/austria/Welle 1.png",
             url: "https://live.welle1.at:19000/live"
+        },
+        {
+            name: "XXXLutz Das Radio",
+            logo: "stations/images-europe/austria/XXXLutz Das Radio.png",
+            url: "https://stream.xxxlutz-dasradio.at/live/mp3-192/"
         },
     ],
     "basque": [
@@ -1088,11 +1153,6 @@ var stations = {
             url: "https://rozhlas.stream/radiozurnal_sport_high.aac"
         },
         {
-            name: "ČRo Region",
-            logo: "stations/images-europe/czech/ČRo Region.png",
-            url: "https://rozhlas.stream/region_high.aac"
-        },
-        {
             name: "ČRo Brno",
             logo: "stations/images-europe/czech/ČRo Brno.png",
             url: "https://rozhlas.stream/brno_high.aac"
@@ -1116,6 +1176,11 @@ var stations = {
             name: "ČRo Plzeň",
             logo: "stations/images-europe/czech/ČRo Plzeň.png",
             url: "https://rozhlas.stream/plzen_high.aac"
+        },
+        {
+            name: "ČRo Střední Čechy",
+            logo: "stations/images-europe/czech/ČRo Střední Čechy.png",
+            url: "https://rozhlas.stream/region_high.aac"
         },
         {
             name: "ČRo Vltava",
@@ -1836,11 +1901,11 @@ var stations = {
             logo: "stations/images-europe/georgia/იმედი.png",
             url: "http://188.93.95.83/radioimedi/stream01/index.m3u8"
         },
-        {
+        /*{
             name: "Avtoradio",
             logo: "stations/images-europe/georgia/Avtoradio.png",
             url: "http://188.93.95.83/cld9-0386/avtoradio/index.m3u8"
-        },
+        },*/
         {
             name: "არ დაიდარდო",
             logo: "stations/images-europe/georgia/არ დაიდარდო.png",
@@ -3809,6 +3874,11 @@ var stations = {
             url: "https://stream.v3.network/proxy/897bay/stream.mp3"
         },
         {
+            name: "Bay Easy",
+            logo: "stations/images-europe/malta/Bay Easy.png",
+            url: "http://stream.v3.network:8018/;"
+        },
+        {
             name: "BKR 94.5",
             logo: "stations/images-europe/malta/BKR 94.5.png",
             url: "https://s3.voscast.com:10893/stream"
@@ -3896,17 +3966,12 @@ var stations = {
         {
             name: "Radio Xeb er ras",
             logo: "stations/images-europe/malta/Radio Xeb er ras.png",
-            url: "http://uk15freenew.listen2myradio.com:35709/"
+            url: "http://uk15freenew.listen2myradio.com:35709/;"
         },
         {
             name: "Smash Radio 104.6FM",
             logo: "stations/images-europe/malta/Smash Radio 104.6FM.png",
             url: "https://radio.smashmalta.com/stream"
-        },
-        {
-            name: "XFM 100.2",
-            logo: "stations/images-europe/malta/XFM 100.2.png",
-            url: "http://s10.voscast.com:8202/stream"
         },
     ],
     "montenegro": [
@@ -4121,7 +4186,7 @@ var stations = {
         },
         {
             name: "KINK 80s",
-            logo: "stations/images-europe/netherlands/KINK.png",
+            logo: "stations/images-europe/netherlands/KINK 80s.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC",
         },
         {
@@ -4931,7 +4996,7 @@ var stations = {
         {
             name: "اذاعة UFM",
             logo: "stations/images-europe/saudi/اذاعة UFM.png",
-            url: "http://69.61.26.75:8000/index.html;audio.mp3?hash=1592335708688"
+            url: "https://stream.ufmradio.com:8003/;"
         },
     ],
     "scotland": [
@@ -5649,7 +5714,7 @@ var stations = {
         {
             name: "Radio Südostschweiz",
             logo: "stations/images-europe/switzerland-de/Radio Südostschweiz.png",
-            url: "https://radiostream.suedostschweiz.ch/m/grischa/aacp_96"
+            url: "https://stream.srg-ssr.ch/m/grischa/aacp_96"
         },
         {
             name: "Radio Zürisee",
@@ -6451,29 +6516,29 @@ var stations = {
     ],
     "ukraine": [
         {
-            name: "УР1",
-            logo: "stations/images-europe/ukraine/УР.png",
+            name: "Українське Радіо",
+            logo: "stations/images-europe/ukraine/Українське Радіо.png",
             url: "http://radio.nrcu.gov.ua:8000/ur1-mp3"
         },
         {
-            name: "УР2",
-            logo: "stations/images-europe/ukraine/УР.png",
+            name: "Радіо Промінь",
+            logo: "stations/images-europe/ukraine/Радіо Промінь.png",
             url: "http://radio.nrcu.gov.ua:8000/ur2-mp3"
         },
         {
-            name: "УР3",
-            logo: "stations/images-europe/ukraine/УР.png",
+            name: "Радіо Культура",
+            logo: "stations/images-europe/ukraine/Радіо Культура.png",
             url: "http://radio.nrcu.gov.ua:8000/ur3-mp3"
-        },
-        {
-            name: "УР4",
-            logo: "stations/images-europe/ukraine/УР.png",
-            url: "http://radio.nrcu.gov.ua:8000/ur4-mp3"
         },
         { 
             name: "Авто Радіо",
             logo: "stations/images-europe/ukraine/Авто Радіо.png",
             url: "https://cast.mediaonline.net.ua/avtoradio"
+        },
+        {
+            name: "Армія FM",
+            logo: "stations/images-europe/ukraine/Армія FM.png",
+            url: "https://icecast.armyfm.com.ua:8443/ArmyFM"
         },
         {
             name: "DJ FM",
@@ -6521,11 +6586,6 @@ var stations = {
             url: "https://online-radio.nv.ua/radionv.mp3"
         },
         {
-            name: "Радио Шансон",
-            logo: "stations/images-europe/ukraine/Радио Шансон.png",
-            url: "https://chanson.hostingradio.ru:8041/chanson256.mp3"
-        },
-        {
             name: "Power FM",
             logo: "stations/images-europe/ukraine/Power FM.png",
             url: "https://cast.fex.net/power_x"
@@ -6554,6 +6614,16 @@ var stations = {
             name: "Радіо БАЙРАКТАР",
             logo: "stations/images-europe/ukraine/Радіо БАЙРАКТАР.png",
             url: "https://online.radiobayraktar.ua/RadioBayraktar_HD"
+        },
+        {
+            name: "Стильне радіо Перец FM",
+            logo: "stations/images-europe/ukraine/Стильне радіо Перец FM.png",
+            url: "https://radio.perec.fm/radio-stilnoe"
+        },
+        {
+            name: "Шлягер FM",
+            logo: "stations/images-europe/ukraine/Шлягер FM.png",
+            url: "https://cast.fex.net/shanson_x"
         },
     ],
     "wales": [
