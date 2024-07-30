@@ -20956,9 +20956,9 @@ var stations = {
             url: "https://s9.voscast.com:8933/xstream"
         },
         {
-            name: "Mightier 1090",
-            logo: "stations/images-america/san_diego/Mightier 1090.png",
-            url: "https://backbonenetworks.streamguys1.com/XEPRS.mp3"
+            name: "Monte Maria 1090",
+            logo: "stations/images-america/san_diego/Monte Maria 1090.png",
+            url: "https://streamingcwsradio30.com:7071/;mp3"
         },	
         {
             name: "Radio Inspiración 1130",
@@ -40455,8 +40455,8 @@ var stations_c2c = {
             url: "http://ice23.securenetsystems.net/KUOO"
         },
         {
-            name: "104.3 The Bridge",
-            logo: "stations/images-america/c2c/worthington_mn/104.3 The Bridge.png",
+            name: "La Voz 104.3",
+            logo: "stations/images-america/c2c/worthington_mn/La Voz 104.3.png",
             url: "https://us2.maindigitalstream.com/ssl/KZTP"
         },
         {
