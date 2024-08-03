@@ -8046,8 +8046,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFMAAC_SC"
         },
         {
-            name: "The Legend 93.5",
-            logo: "stations/images-america/flagstaff/The Legend.png",
+            name: "KAFF News Radio 93.5",
+            logo: "stations/images-america/flagstaff/KAFF News Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
         },
         {
@@ -8141,8 +8141,8 @@ var stations = {
             url: "https://streaming.mellowmountainradio.com/listen/mellowmountainradio/radio.mp3"
         },
         {
-            name: "The Legend AM 930",
-            logo: "stations/images-america/flagstaff/The Legend.png",
+            name: "KAFF News Radio AM930",
+            logo: "stations/images-america/flagstaff/KAFF News Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC.aac"
         },
         {
@@ -9085,9 +9085,9 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KTNN"
         },
         {
-            name: "The Legend AM 930",
-            logo: "stations/images-america/flagstaff/The Legend.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
+            name: "KAFF News Radio AM930",
+            logo: "stations/images-america/flagstaff/KAFF News Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC.aac"
         },
     ],
     "grand_island": [
@@ -21210,8 +21210,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "103.7 80s Plus",
-            logo: "stations/images-america/san_francisco/103.7 80s.png",
+            name: "Classic Hits 103.7",
+            logo: "stations/images-america/san_francisco/Classic Hits 103.7.png",
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
         {
@@ -21350,6 +21350,11 @@ var stations = {
             name: "The Drive 830",
             logo: "stations/images-america/tucson/The Drive 101.7.png",
             url: "https://ice5.securenetsystems.net/KDRI"
+        },
+        {
+            name: "KHIL 1250",
+            logo: "stations/images-america/san_simon/KHIL 1250.png",
+            url: "https://ice42.securenetsystems.net/KHILAM"
         },
     ],
     "schulenburg": [
@@ -23524,9 +23529,9 @@ var stations = {
             url: "https://streaming.mellowmountainradio.com/listen/mellowmountainradio/radio.mp3"
         },
         {
-            name: "The Legend AM 930",
-            logo: "stations/images-america/flagstaff/The Legend.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC_SC"
+            name: "KAFF News Radio AM930",
+            logo: "stations/images-america/flagstaff/KAFF News Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC.aac"
         },
     ],
     "tucson": [
@@ -31856,8 +31861,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTLNAMAAC_SC"
         },
         {
-            name: "FM 101.9",
-            logo: "stations/images-america/c2c/orlando_fl/FM 101.9.png",
+            name: "102 Jamz",
+            logo: "stations/images-america/c2c/orlando_fl/102 Jamz.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wqmpfmaac-imc"
         },
         {
@@ -51447,6 +51452,16 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBRWFMAAC_SC"
         },
         {
+            name: "106.1 FM TALK",
+            logo: "stations/images-america/c2c/roanoke_va/106.1 FM TALK.png",
+            url: "https://stream.revma.ihrhls.com/zc1649/hls.m3u8"
+        },
+        {
+            name: "FOX Sports 106.1-HD2",
+            logo: "stations/images-america/0_general_logos/FOX Sports.png",
+            url: "https://stream.revma.ihrhls.com/zc4732/hls.m3u8"
+        },
+        {
             name: "WFIR 107.3",
             logo: "stations/images-america/c2c/roanoke_va/WFIR.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct//wheelerbroadcasting-wfiramaac-imc1"
@@ -52930,9 +52945,9 @@ var stations_canada = {
             url: "https://goldenwest.leanstream.co/CFITFM"
         },
         {
-            name: "QR Calgary 107",
-            logo: "stations/images-america/canada/calgary/QR Calgary.png",
-            url: "https://live.leanstream.co/CHQRAM-MP3"
+            name: "107.3 The Edge",
+            logo: "stations/images-america/canada/calgary/107.3 The Edge.png",
+            url: "https://corus.leanstream.co/CFGQFM"
         },
         {
             name: "CityNews 660",
