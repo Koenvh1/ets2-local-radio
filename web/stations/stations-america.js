@@ -36064,6 +36064,11 @@ var stations_c2c = {
             url: "http://stream.kcck.org/jazz883kcck"
         },
         {
+            name: "Jazz 2 88.3-HD2",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/Jazz 2 88.3-HD2.png",
+            url: "http://stream.kcck.org/kcckjazz2"
+        },
+        {
             name: "IPR News 90.9",
             logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
             url: "https://news-stream.iowapublicradio.org/News.mp3"
@@ -36072,11 +36077,6 @@ var stations_c2c = {
             name: "IPR Classical 90.9-HD2",
             logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
             url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
-        },
-        {
-            name: "IPR Studio One 90.9-HD3",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
             name: "K92.3",
@@ -36094,13 +36094,13 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-krnafmaac-ibc3"
         },
         {
-            name: "Smart FM 95.1",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Smart FM 95.1.png",
+            name: "95.1 Smart FM",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/95.1 Smart FM.png",
             url: "https://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
         },
         {
-            name: "HOT 95.7",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/HOT 95.7.png",
+            name: "Sports Radio 95.7",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/Sports Radio 95.7.png",
             url: "https://stream.revma.ihrhls.com/zc2732/hls.m3u8"
         },
         {
@@ -36129,14 +36129,29 @@ var stations_c2c = {
             url: "https://nwmedia-knwsfm.streamguys1.com/knws-fm"
         },
         {
-            name: "KGYM 102.3",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/KGYM 102.3.png",
+            name: "ESPN 102.3",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/ESPN Cedar Rapids.png",
             url: "https://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
         },
         {
             name: "Z102.9",
             logo: "stations/images-america/c2c/cedar_rapids_ia/Z102.9.png",
             url: "https://live.amperwave.net/manifest/kziainc-kziafmaac-ibc2"
+        },
+        {
+            name: "102.9 KZIA-HD2",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/95.1 Smart FM.png",
+            url: "http://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
+        },
+        {
+            name: "102.9 KZIA-HD3",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/ESPN Cedar Rapids.png",
+            url: "https:///live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+        },
+        {
+            name: "102.9 KZIA-HD4",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/X107.5.png",
+            url: "http://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
         },
         {
             name: "104.5 KDAT",
@@ -36177,6 +36192,11 @@ var stations_c2c = {
             name: "LEO 1360",
             logo: "stations/images-america/c2c/cedar_rapids_ia/LEO 1360.png",
             url: "https://stream.revma.ihrhls.com/zc4744/hls.m3u8"
+        },
+        {
+            name: "1600 ESPN",
+            logo: "stations/images-america/c2c/cedar_rapids_ia/ESPN Cedar Rapids.png",
+            url: "http://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
         },
     ],
     "sioux_city": [
