@@ -25153,7 +25153,7 @@ var stations = {
         {
             name: "Air1 91.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "SonLife Radio 91.9",
@@ -37445,8 +37445,8 @@ var stations_c2c = {
             url: "https://stream.kbys.fm/listen/kbys/radio.mp3"
         },
         {
-            name: "Magic 92.1",
-            logo: "stations/images-america/c2c/lake_charles_la/Magic 92.1.png",
+            name: "Power 92.1",
+            logo: "stations/images-america/c2c/lake_charles_la/Power 92.1.png",
             url: "https://live.amperwave.net/manifest/townsquare-ktsrfmaac-ibc3"
         },
         {
