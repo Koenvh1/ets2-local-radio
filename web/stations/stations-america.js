@@ -44493,8 +44493,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKMLHD2AAC_SC"
         },
         {
-            name: "96.5 BOB FM",
-            logo: "stations/images-america/c2c/fayetteville_nc/96.5 BOB FM.png",
+            name: "96.5 Jack FM",
+            logo: "stations/images-america/c2c/fayetteville_nc/96.5 Jack FM.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFLBFMAACHI_SC"
         },
         {
@@ -47287,8 +47287,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3103/hls.m3u8"
         },
         {
-            name: "Sports Radio 95.3",
-            logo: "stations/images-america/c2c/harrisburg_pa/Sports Radio.png",
+            name: "95.3 ESPN",
+            logo: "stations/images-america/c2c/harrisburg_pa/ESPN Harrisburg.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAMAAC_SC"
         },
         {
@@ -47377,8 +47377,8 @@ var stations_c2c = {
             url: "http://s6.voscast.com:8908/;"
         },
         {
-            name: "Sports Radio 1400",
-            logo: "stations/images-america/c2c/harrisburg_pa/Sports Radio.png",
+            name: "1400 ESPN",
+            logo: "stations/images-america/c2c/harrisburg_pa/ESPN Harrisburg.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAMAAC.aac"
         },
         {
