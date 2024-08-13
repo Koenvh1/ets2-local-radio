@@ -40965,6 +40965,41 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNFM_128_SC"
         },
         {
+            name: "Moody Radio 89.1",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+        {
+            name: "The LifeFM 90.3",
+            logo: "stations/images-america/c2c/greenville_sc/The LifeFM 105.9.png",
+            url: "https://ice41.securenetsystems.net/WHQA"
+        },
+        {
+            name: "afr Talk 90.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
+            name: "Radio By Grace 91.3",
+            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
+            url: "https://stream.freedomradiofm.com/rbga.mp3"
+        },
+        {
+            name: "afr Hybrid 92.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "WMER 93.1",
+            logo: "stations/images-america/c2c/meridian_ms/WMER.png",
+            url: "http://us2.maindigitalstream.com/ssl/WMER"
+        },
+        {
+            name: "K-LOVE 93.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "95.1 The Beat",
             logo: "stations/images-america/c2c/meridian_ms/95.1 The Beat.png",
             url: "https://live.amperwave.net/direct/mississippibroadcasters-wjxmfmaac-ibc1"
@@ -40975,9 +41010,24 @@ var stations_c2c = {
             url: "https://live.amperwave.net/direct/mississippibroadcasters-wokkfmaac-ibc1"
         },
         {
+            name: "Dixie Country 98.5",
+            logo: "stations/images-america/c2c/meridian_ms/Dixie Country 98.5.png",
+            url: "http://167.114.156.116:8293/stream"
+        },
+        {
+            name: "SL100",
+            logo: "stations/images-america/c2c/hattiesburg_ms/SL100.png",
+            url: "https://stream.revma.ihrhls.com/zc5112/hls.m3u8"
+        },
+        {
             name: "Q101",
             logo: "stations/images-america/c2c/meridian_ms/Q101.png",
             url: "https://live.amperwave.net/direct/mississippibroadcasters-wjdqfmaac-ibc1"
+        },
+        {
+            name: "WALT 102.1",
+            logo: "stations/images-america/c2c/meridian_ms/WALT 102.1.png",
+            url: "https://live.amperwave.net/manifest/meridian-waltfmaac-ibc"
         },
         {
             name: "SuperTalk Meridian 103.3",
@@ -40993,6 +41043,16 @@ var stations_c2c = {
             name: "SLY 104.9",
             logo: "stations/images-america/c2c/meridian_ms/SLY 104.9.png",
             url: "https://us2.maindigitalstream.com/ssl/WSYL"
+        },
+        {
+            name: "WSJC 810 AM",
+            logo: "stations/images-america/c2c/meridian_ms/WSJC 810 AM.png",
+            url: "https://primary.christianradiostreaming.org/wsjc.mp3"
+        },
+        {
+            name: "WMER 1390",
+            logo: "stations/images-america/c2c/meridian_ms/WMER.png",
+            url: "https://us2.maindigitalstream.com/ssl/WMER"
         },
     ],
     "mccomb_ms": [
