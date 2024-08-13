@@ -1234,12 +1234,12 @@ var stations = {
             name: "93.3 The Rock",
             logo: "stations/images-america/astoria/93.3 The Rock.png",
             url: "https://us9.maindigitalstream.com/ssl/KEUB"
-        },/*
+        },
         {
-            name: "Hits 94.3",
-            logo: "stations/images-america/astoria/Hits 94.3.png",
-            url: "wait for reply"
-        },*/
+            name: "94.3 KRKZ",
+            logo: "stations/images-america/astoria/94.3 KRKZ.png",
+            url: "https://stream.aiir.com/hzh43wwrgtsuv"
+        },
         {
             name: "94.9 The Bridge",
             logo: "stations/images-america/astoria/94.9 The Bridge.png",
