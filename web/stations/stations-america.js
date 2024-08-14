@@ -3376,8 +3376,8 @@ var stations = {
             url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
-            name: "FOX Sports 730",
-            logo: "stations/images-america/colby/FOX Sports 730.png",
+            name: "730 Gold",
+            logo: "stations/images-america/colby/730 Gold.png",
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
@@ -4443,8 +4443,8 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KFNF"
         },
         {
-            name: "URock 102.5",
-            logo: "stations/images-america/colby/URock 102.5.png",
+            name: "RockIt 102.5",
+            logo: "stations/images-america/colby/RockIt 102.5.png",
             url: "https://ice42.securenetsystems.net/KKCI"
         },
         {
@@ -4463,13 +4463,13 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
         },
         {
-            name: "FOX Sports 730",
-            logo: "stations/images-america/colby/FOX Sports 730.png",
+            name: "730 Gold",
+            logo: "stations/images-america/colby/730 Gold.png",
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
-            name: "790 KXXX",
-            logo: "stations/images-america/colby/790 KXXX.png",
+            name: "KXXX 790",
+            logo: "stations/images-america/colby/KXXX 790.png",
             url: "https://ice42.securenetsystems.net/KXXX"
         },
         {
@@ -14707,8 +14707,8 @@ var stations = {
             url: "https://ice41.securenetsystems.net/KIOD"
         },
         {
-            name: "790 KXXX",
-            logo: "stations/images-america/colby/790 KXXX.png",
+            name: "KXXX 790",
+            logo: "stations/images-america/colby/KXXX 790.png",
             url: "https://ice42.securenetsystems.net/KXXX"
         },
         {
@@ -25604,8 +25604,8 @@ var stations = {
             url: "http://www.ophanim.net:8444/s/7410"
         },
         {
-            name: "FOX Sports 730",
-            logo: "stations/images-america/colby/FOX Sports 730.png",
+            name: "730 Gold",
+            logo: "stations/images-america/colby/730 Gold.png",
             url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
@@ -33429,7 +33429,7 @@ var stations_c2c = {
         },
         {
             name: "The LifeFM 102.9",
-            logo: "stations/images-america/c2c/statesboro_ga/The LifeFM 102.9.png",
+            logo: "stations/images-america/0_general_logos/The LifeFM.png",
             url: "https://ice41.securenetsystems.net/WHQA"
         },
         {
@@ -40971,7 +40971,7 @@ var stations_c2c = {
         },
         {
             name: "The LifeFM 90.3",
-            logo: "stations/images-america/c2c/greenville_sc/The LifeFM 105.9.png",
+            logo: "stations/images-america/0_general_logos/The LifeFM.png",
             url: "https://ice41.securenetsystems.net/WHQA"
         },
         {
@@ -49025,7 +49025,7 @@ var stations_c2c = {
         },
         {
             name: "93.3 WTPT-HD2",
-            logo: "stations/images-america/c2c/greenville_sc/The LifeFM 105.9.png",
+            logo: "stations/images-america/0_general_logos/The LifeFM.png",
             url: "http://ice41.securenetsystems.net/WHQA"
         },
         {
@@ -49130,7 +49130,7 @@ var stations_c2c = {
         },
         {
             name: "The LifeFM 105.9",
-            logo: "stations/images-america/c2c/greenville_sc/The LifeFM 105.9.png",
+            logo: "stations/images-america/0_general_logos/The LifeFM.png",
             url: "https://ice41.securenetsystems.net/WHQA"
         },
         {
