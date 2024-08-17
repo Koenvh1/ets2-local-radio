@@ -761,6 +761,18 @@ var country_properties = {
         code: "us-ok",
         relative_radius: 0.6
     },
+    "harrison": {
+        name: "Harrison",
+        name_english: "Harrison",
+        code: "us-ar",
+        relative_radius: 0.6
+    },
+    "harrison_khbz": {
+        name: "Harrison",
+        name_english: "Harrison",
+        code: "us-ar",
+        relative_radius: 1.0
+    },
     "havre": {
         name: "Havre",
         name_english: "Havre",
@@ -1258,6 +1270,12 @@ var country_properties = {
         name_english: "Montpelier",
         code: "us-id",
         relative_radius: 0.5
+    },
+    "mountain_home": {
+        name: "Mountain Home",
+        name_english: "Mountain Home",
+        code: "us-ar",
+        relative_radius: 0.7
     },
     "needles": {
         name: "Needles",
@@ -2415,6 +2433,12 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
+    "harrison": {
+        relative_whitenoise: 0.95
+    },
+    "harrison_khbz": {
+        relative_whitenoise: 0.95
+    },
     "havre": {
         relative_whitenoise: 0.85
     },
@@ -2684,6 +2708,9 @@ var city_properties = {
     },
     "montpelier": {
         relative_whitenoise: 0.85
+    },
+    "mountain_home": {
+        relative_whitenoise: 0.95
     },
     "needles": {
 		relative_radius: 0.8,
@@ -4281,7 +4308,23 @@ var cities = [
         "x": "-24243",
         "y": "106.262",
         "z": "12150.3"
+    },/*
+    {
+        "gameName": "harrison",
+        "realName": "Harrison",
+        "country": "harrison",
+        "x": "",
+        "y": "",
+        "z": ""
     },
+    {
+        "gameName": "harrison_khbz",
+        "realName": "Harrison",
+        "country": "harrison_khbz",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "havre",
         "realName": "Havre",
@@ -5033,6 +5076,14 @@ var cities = [
         "x": "-62548.9",
         "y": "170.788",
         "z": "-23269.8"
+    },
+    {
+        "gameName": "mountain_home",
+        "realName": "Mountain Home",
+        "country": "mountain_home",
+        "x": "17033.3",
+        "y": "125.211",
+        "z": "14618.9"
     },
     {
         "gameName": "needles",
@@ -8294,12 +8345,6 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 1.0
     },
-    "mountain_home_ar": {
-        name: "Mountain Home",
-        name_english: "Mountain Home",
-        code: "us-ar",
-        relative_radius: 0.7
-    },
     "russelville_ar": {
         name: "Russelville",
         name_english: "Russelville",
@@ -9552,9 +9597,6 @@ var city_properties_c2c = {
     "tuscaloosa_al": {
         relative_whitenoise: 0.85
     },
-    "mountain_home_ar": {
-        relative_whitenoise: 0.95
-    },
     "russelville_ar": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
@@ -10174,14 +10216,6 @@ var cities_c2c = [
         "x": "38725.8",
         "y": "91.6523",
         "z": "32224.4"
-    },
-    {
-        "gameName": "mountain_home_ar",
-        "realName": "Mountain Home",
-        "country": "mountain_home_ar",
-        "x": "17033.3",
-        "y": "125.211",
-        "z": "14618.9"
     },
     {
         "gameName": "russelville_ar",
