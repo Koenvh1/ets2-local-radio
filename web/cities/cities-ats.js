@@ -527,6 +527,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.7
     },
+    "el_dorado": {
+        name: "El Dorado",
+        name_english: "El Dorado",
+        code: "us-ar",
+        relative_radius: 0.6
+    },
     "el_paso": {
         name: "El Paso/Cd. Juárez",
         name_english: "El Paso/Cd. Juárez",
@@ -593,6 +599,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
+    "fayetteville_ar": {
+        name: "Fayetteville",
+        name_english: "Fayetteville",
+        code: "us-ar",
+        relative_radius: 0.7
+    },
     "flagstaff": {
         name: "Flagstaff",
         name_english: "Flagstaff",
@@ -610,6 +622,12 @@ var country_properties = {
         name_english: "Fort Collins",
         code: "us-co",
         relative_radius: 0.6
+    },
+    "fort_smith": {
+        name: "Fort Smith",
+        name_english: "Fort Smith",
+        code: "us-ar",
+        relative_radius: 0.8
     },
     "fort_stockton": {
         name: "Fort Stockton",
@@ -785,6 +803,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
+    "hot_springs": {
+        name: "Hot Springs",
+        name_english: "Hot Springs",
+        code: "us-ar",
+        relative_radius: 0.9
+    },
     "houston": {
         name: "Houston",
         name_english: "Houston",
@@ -844,6 +868,12 @@ var country_properties = {
         name_english: "John Day",
         code: "us-or",
         relative_radius: 0.5
+    },
+    "jonesboro": {
+        name: "Jonesboro",
+        name_english: "Jonesboro",
+        code: "us-ar",
+        relative_radius: 1.0
     },
     "jordan": {
         name: "Jordan",
@@ -1031,6 +1061,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.8
     },
+    "limon": {
+        name: "Limon",
+        name_english: "Limon",
+        code: "us-co",
+        relative_radius: 0.9
+    },
     "lincoln_mt": {
         name: "Lincoln",
         name_english: "Lincoln",
@@ -1043,10 +1079,10 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.7
     },
-    "limon": {
-        name: "Limon",
-        name_english: "Limon",
-        code: "us-co",
+    "little_rock": {
+        name: "Little Rock",
+        name_english: "Little Rock",
+        code: "us-ar",
         relative_radius: 0.9
     },
     "logan": {
@@ -2245,6 +2281,9 @@ var city_properties = {
     "ehrenberg": {
         relative_whitenoise: 0.80
     },
+    "el_dorado": {
+        relative_whitenoise: 0.95
+    },
     "elko": {
         relative_whitenoise: 0.85
     },
@@ -2288,6 +2327,9 @@ var city_properties = {
 		relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
+    "fayetteville_ar": {
+        relative_whitenoise: 0.95
+    },
     "flagstaff": {
         relative_whitenoise: 0.95
     },
@@ -2306,6 +2348,9 @@ var city_properties = {
     },
     "fort_collins": {
         relative_whitenoise: 0.85
+    },
+    "fort_smith": {
+        relative_whitenoise: 0.95
     },
     "fort_stockton": {
         relative_whitenoise: 0.95
@@ -2394,6 +2439,10 @@ var city_properties = {
     "hobbs": {
         relative_whitenoise: 0.95
     },
+    "hot_springs": {
+		relative_radius: 0.7,
+        relative_whitenoise: 0.85
+    },
     "houston": {
         relative_whitenoise: 0.95
     },
@@ -2426,6 +2475,9 @@ var city_properties = {
     },
     "john_day": {
         relative_whitenoise: 0.95
+    },
+    "jonesboro": {
+        relative_whitenoise: 0.85
     },
     "jordan": {
         relative_whitenoise: 0.85
@@ -2530,6 +2582,10 @@ var city_properties = {
     "lewistown": {
         relative_whitenoise: 0.85
     },
+    "limon": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "lincoln_mt": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
@@ -2537,9 +2593,8 @@ var city_properties = {
     "lincoln_ne": {
         relative_whitenoise: 0.95
     },
-    "limon": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.95
+    "little_rock": {
+        relative_whitenoise: 0.85
     },
     "logan": {
         relative_whitenoise: 0.85
@@ -3852,6 +3907,14 @@ var cities = [
         "z": "20968.2"
     },
     {
+        "gameName": "el_dorado",
+        "realName": "El Dorado",
+        "country": "el_dorado",
+        "x": "16135.6",
+        "y": "112.68",
+        "z": "31690.9"
+    },
+    {
         "gameName": "elko",
         "realName": "Elko",
         "country": "elko",
@@ -3972,6 +4035,14 @@ var cities = [
         "z": "8813.18"
     },
     {
+        "gameName": "fayetteville_ar",
+        "realName": "Fayetteville",
+        "country": "fayetteville_ar",
+        "x": "9495.54",
+        "y": "105.207",
+        "z": "14615"
+    },
+    {
         "gameName": "flagstaff",
         "realName": "Flagstaff",
         "country": "flagstaff",
@@ -4002,6 +4073,14 @@ var cities = [
         "x": "-39016.8",
         "y": "125.043",
         "z": "-11147.9"
+    },
+    {
+        "gameName": "fort_smith",
+        "realName": "Fort Smith",
+        "country": "fort_smith",
+        "x": "7007.55",
+        "y": "93.8315",
+        "z": "21483.1"
     },
     {
         "gameName": "fort_stockton",
@@ -4276,6 +4355,22 @@ var cities = [
         "z": "33858.8"
     },
     {
+        "gameName": "hot_springs",
+        "realName": "Hot Springs",
+        "country": "hot_springs",
+        "x": "13756.2",
+        "y": "98.9141",
+        "z": "24366.1"
+    },
+    {
+        "gameName": "hot_springs",
+        "realName": "Hot Springs",
+        "country": "little_rock",
+        "x": "13756.2",
+        "y": "98.9141",
+        "z": "24366.1"
+    },
+    {
         "gameName": "houston",
         "realName": "Houston",
         "country": "houston",
@@ -4370,6 +4465,14 @@ var cities = [
         "x": "-91674.1",
         "y": "49.3895",
         "z": "-42358.9"
+    },
+    {
+        "gameName": "jonesboro",
+        "realName": "Jonesboro",
+        "country": "jonesboro",
+        "x": "22472.7",
+        "y": "95.043",
+        "z": "14258.7"
     },
     {
         "gameName": "jordan",
@@ -4658,6 +4761,14 @@ var cities = [
         "x": "-3768.03",
         "y": "60.9922",
         "z": "-10183.7"
+    },
+    {
+        "gameName": "little_rock",
+        "realName": "Little Rock",
+        "country": "little_rock",
+        "x": "18499.3",
+        "y": "197.602",
+        "z": "23593.3"
     },
     {
         "gameName": "logan",
@@ -8183,42 +8294,6 @@ var country_properties_c2c = {
         code: "us-ar",
         relative_radius: 1.0
     },
-    "el_dorado_ar": {
-        name: "El Dorado",
-        name_english: "El Dorado",
-        code: "us-ar",
-        relative_radius: 0.6
-    },
-    "hot_springs_ar": {
-        name: "Hot Springs",
-        name_english: "Hot Springs",
-        code: "us-ar",
-        relative_radius: 0.9
-    },
-    "jonesboro_ar": {
-        name: "Jonesboro",
-        name_english: "Jonesboro",
-        code: "us-ar",
-        relative_radius: 1.0
-    },
-    "fayetteville_ar": {
-        name: "Fayetteville",
-        name_english: "Fayetteville",
-        code: "us-ar",
-        relative_radius: 0.7
-    },
-    "fort_smith_ar": {
-        name: "Fort Smith",
-        name_english: "Fort Smith",
-        code: "us-ar",
-        relative_radius: 0.8
-    },
-    "little_rock_ar": {
-        name: "Little Rock",
-        name_english: "Little Rock",
-        code: "us-ar",
-        relative_radius: 0.9
-    },
     "mountain_home_ar": {
         name: "Mountain Home",
         name_english: "Mountain Home",
@@ -9477,25 +9552,6 @@ var city_properties_c2c = {
     "tuscaloosa_al": {
         relative_whitenoise: 0.85
     },
-    "el_dorado_ar": {
-        relative_whitenoise: 0.95
-    },
-    "fayetteville_ar": {
-        relative_whitenoise: 0.95
-    },
-    "fort_smith_ar": {
-        relative_whitenoise: 0.95
-    },
-    "hot_springs_ar": {
-		relative_radius: 0.7,
-        relative_whitenoise: 0.85
-    },
-    "jonesboro_ar": {
-        relative_whitenoise: 0.85
-    },
-    "little_rock_ar": {
-        relative_whitenoise: 0.85
-    },
     "mountain_home_ar": {
         relative_whitenoise: 0.95
     },
@@ -10120,62 +10176,6 @@ var cities_c2c = [
         "z": "32224.4"
     },
     {
-        "gameName": "el_dorado_ar",
-        "realName": "El Dorado",
-        "country": "el_dorado_ar",
-        "x": "16135.6",
-        "y": "112.68",
-        "z": "31690.9"
-    },
-    {
-        "gameName": "fayetteville_ar",
-        "realName": "Fayetteville",
-        "country": "fayetteville_ar",
-        "x": "9495.54",
-        "y": "105.207",
-        "z": "14615"
-    },
-    {
-        "gameName": "fort_smith_ar",
-        "realName": "Fort Smith",
-        "country": "fort_smith_ar",
-        "x": "7007.55",
-        "y": "93.8315",
-        "z": "21483.1"
-    },
-    {
-        "gameName": "hot_springs_ar",
-        "realName": "Hot Springs",
-        "country": "hot_springs_ar",
-        "x": "13756.2",
-        "y": "98.9141",
-        "z": "24366.1"
-    },
-    {
-        "gameName": "hot_springs_ar",
-        "realName": "Hot Springs",
-        "country": "little_rock_ar",
-        "x": "13756.2",
-        "y": "98.9141",
-        "z": "24366.1"
-    },
-    {
-        "gameName": "jonesboro_ar",
-        "realName": "Jonesboro",
-        "country": "jonesboro_ar",
-        "x": "22472.7",
-        "y": "95.043",
-        "z": "14258.7"
-    },
-    {
-        "gameName": "little_rock_ar",
-        "realName": "Little Rock",
-        "country": "little_rock_ar",
-        "x": "18499.3",
-        "y": "197.602",
-        "z": "23593.3"
-    },
-    {
         "gameName": "mountain_home_ar",
         "realName": "Mountain Home",
         "country": "mountain_home_ar",
@@ -10194,7 +10194,7 @@ var cities_c2c = [
     {
         "gameName": "russelville_ar",
         "realName": "Russelville",
-        "country": "little_rock_ar",
+        "country": "little_rock",
         "x": "12703",
         "y": "49.7618",
         "z": "19393.4"
