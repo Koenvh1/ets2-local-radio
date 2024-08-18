@@ -353,9 +353,9 @@ var stations = {
             url: "https://frontend.streams.arabella.at/arabella-hot"
         },
         {
-            name: "arabella RELAX",
-            logo: "stations/images-europe/austria/arabella RELAX.png",
-            url: "https://frontend.streams.arabella.at/arabella-relax"
+            name: "arabella MAGIC",
+            logo: "stations/images-europe/austria/arabella MAGIC.png",
+            url: "https://frontend.streams.arabella.at/arabella-magic"
         },
         {
             name: "Radio Flamingo",
@@ -482,9 +482,24 @@ var stations = {
             url: "https://stream2.datacenter.by/kultura"
         },
         {
+            name: "Alfa Radio",
+            logo: "stations/images-europe/belarus/Alfa Radio.png",
+            url: "https://stream.sb.by/alpha"
+        },
+        {
+            name: "Душевное радио",
+            logo: "stations/images-europe/belarus/Душевное радио.png",
+            url: "https://stream2.datacenter.by/dushevnoe"
+        },
+        {
             name: "Europa Plus Belarus",
             logo: "stations/images-europe/belarus/Europa Plus Belarus.png",
             url: "https://ep128.hostingradio.ru:8030/ep128"
+        },
+        {
+            name: "Легенды FM",
+            logo: "stations/images-europe/belarus/Легенды FM.png",
+            url: "http://live.legendy.by:8000/legendyfm"
         },
         {
             name: "Радиус FM",
@@ -535,6 +550,11 @@ var stations = {
             name: "Пилот FM",
             logo: "stations/images-europe/belarus/Пилот FM.png",
             url: "https://stream2.datacenter.by/pilotfm"
+        },
+        {
+            name: "Цэнтр FM",
+            logo: "stations/images-europe/belarus/Цэнтр FM.png",
+            url: "https://stream2.datacenter.by/stream"
         },
     ],
     "belgium-nl": [
@@ -1901,11 +1921,11 @@ var stations = {
             logo: "stations/images-europe/georgia/იმედი.png",
             url: "http://188.93.95.83/radioimedi/stream01/index.m3u8"
         },
-        /*{
+        {
             name: "Avtoradio",
             logo: "stations/images-europe/georgia/Avtoradio.png",
             url: "http://188.93.95.83/cld9-0386/avtoradio/index.m3u8"
-        },*/
+        },
         {
             name: "არ დაიდარდო",
             logo: "stations/images-europe/georgia/არ დაიდარდო.png",
@@ -5714,7 +5734,7 @@ var stations = {
         {
             name: "Radio Südostschweiz",
             logo: "stations/images-europe/switzerland-de/Radio Südostschweiz.png",
-            url: "https://stream.srg-ssr.ch/m/grischa/aacp_96"
+            url: "https://stream.rso.ch/rso/mp3_128/RSO"
         },
         {
             name: "Radio Zürisee",
