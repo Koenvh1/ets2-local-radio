@@ -1409,6 +1409,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 1.0
     },
+    "pine_bluff": {
+        name: "Pine Bluff",
+        name_english: "Pine Bluff",
+        code: "us-ar",
+        relative_radius: 0.9
+    },
     "pioche": {
         name: "Pioche",
         name_english: "Pioche",
@@ -2788,6 +2794,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "phoenix": {
+        relative_whitenoise: 0.95
+    },
+    "pine_bluff": {
+		relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "pioche": {
@@ -5292,7 +5302,15 @@ var cities = [
         "x": "-75196.4",
         "y": "32.0577",
         "z": "24257.7"
-    },
+    },/*
+    {
+        "gameName": "pine_bluff",
+        "realName": "Pine Bluff",
+        "country": "little_rock",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "pioche",
         "realName": "Pioche",
