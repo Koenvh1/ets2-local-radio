@@ -1922,7 +1922,7 @@ var stations = {
         {
             name: "Generations",
             logo: "stations/images-europe/france/Generations.png",
-            url: "http://ais.rtl.fr:80/fun-1-44-128"
+            url: "https://generationfm.ice.infomaniak.ch/generationfm-high.aac"
         },
         {
             name: "Jazz Radio",
