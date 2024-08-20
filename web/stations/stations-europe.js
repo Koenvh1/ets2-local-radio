@@ -5313,6 +5313,26 @@ var stations = {
             url: "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8"
         },
         {
+            name: "Radio Pletenica",
+            logo: "stations/images-europe/serbia/Radio Pletenica.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_005/playlist.m3u8"
+        },
+        {
+            name: "Radio Rokenroler",
+            logo: "stations/images-europe/serbia/Radio Rokenroler.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_006/playlist.m3u8"
+        },
+        {
+            name: "Radio Džuboks",
+            logo: "stations/images-europe/serbia/Radio Džuboks.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_007/playlist.m3u8"
+        },
+        {
+            name: "Radio Vrteška",
+            logo: "stations/images-europe/serbia/Radio Vrteška.png",
+            url: "https://rtsradio-live.morescreens.com/RTS_2_008/playlist.m3u8"
+        },
+        {
             name: "Hit FM",
             logo: "stations/images-europe/serbia/Hit FM.png",
             url: "https://streaming.hitfm.rs/hit.mp3"
@@ -5330,12 +5350,17 @@ var stations = {
         {
             name: "Play Radio",
             logo: "stations/images-europe/serbia/Play Radio.png",
-            url: "https://stream.playradio.rs:8443/play.aac"
+            url: "https://stream.playradio.rs:8443/play.mp3"
         },
         {
             name: "Radio AS FM",
             logo: "stations/images-europe/serbia/Radio AS FM.png",
             url: "https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream"
+        },
+        {
+            name: "Radio Lola",
+            logo: "stations/images-europe/serbia/Radio Lola.png",
+            url: "https://streaming.karolina.rs/radiolola.mp3"
         },
         {
             name: "Radio S1",
@@ -5346,6 +5371,16 @@ var stations = {
             name: "Radio S2",
             logo: "stations/images-europe/serbia/Radio S2.png",
             url: "http://edge-rs-01.maksnet.tv/asmedia/index/playlist.m3u8"
+        },
+        {
+            name: "Radio S3",
+            logo: "stations/images-europe/serbia/Radio S3.png",
+            url: "http://edge-rs-01.maksnet.tv/asmedia/pingvin/playlist.m3u8"
+        },
+        {
+            name: "Radio S4",
+            logo: "stations/images-europe/serbia/Radio S4.png",
+            url: "http://edge-rs-01.maksnet.tv/asmedia/gradski/playlist.m3u8"
         },
         {
             name: "RNS 1",
@@ -5366,6 +5401,11 @@ var stations = {
             name: "TDI Radio",
             logo: "stations/images-europe/serbia/TDI Radio.png",
             url: "https://streaming.tdiradio.com/tdiradio.mp3"
+        },
+        {
+            name: "WTF Radio",
+            logo: "stations/images-europe/serbia/WTF Radio.png",
+            url: "https://live.wtfradio.rs/wtfradio.mp3"
         },
     ],
     "shetland": [
@@ -5514,9 +5554,24 @@ var stations = {
             url: "https://live.radio1.si/Radio1"
         },
         {
+            name: "Radio 1 80-a",
+            logo: "stations/images-europe/slovenia/Radio 1 80-a.png",
+            url: "https://live.radio1.si/Radio80"
+        },
+        {
             name: "Radio Aktual",
             logo: "stations/images-europe/slovenia/Radio Aktual.png",
             url: "https://live.radio.si/Aktual"
+        },
+        {
+            name: "Radio Antena",
+            logo: "stations/images-europe/slovenia/Radio Antena.png",
+            url: "https://live.radio.si/Antena"
+        },
+        {
+            name: "Radio BOB",
+            logo: "stations/images-europe/slovenia/Radio BOB.png",
+            url: "https://live.radio.si/BOB"
         },
         {
             name: "Radio City",
@@ -5529,14 +5584,39 @@ var stations = {
             url: "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream"
         },
         {
+            name: "Radio NET FM",
+            logo: "stations/images-europe/slovenia/Radio NET FM.png",
+            url: "http://reflector.radionet.si:8000/stream.ogg"
+        },
+        {
             name: "Radio Ognjišče",
             logo: "stations/images-europe/slovenia/Radio Ognjišče.png",
             url: "https://live.radio.si/ognjisce.mp3"
         },
         {
+            name: "Radio Salomon",
+            logo: "stations/images-europe/slovenia/Radio Salomon.png",
+            url: "https://live.radio.si/Salomon"
+        },
+        {
+            name: "Radio Študent",
+            logo: "stations/images-europe/slovenia/Radio Študent.png",
+            url: "https://kruljo.radiostudent.si:8001/hiq"
+        },
+        {
             name: "Radio Veseljak",
             logo: "stations/images-europe/slovenia/Radio Veseljak.png",
             url: "https://live.radio.si/Veseljak"
+        },
+        {
+            name: "Rock Radio",
+            logo: "stations/images-europe/slovenia/Rock Radio.png",
+            url: "http://stream.rockradio.si:9034/rock"
+        },
+        {
+            name: "Toti Radio",
+            logo: "stations/images-europe/slovenia/Toti Radio.png",
+            url: "https://live.radio.si/Toti"
         },
     ],
     "spain": [
