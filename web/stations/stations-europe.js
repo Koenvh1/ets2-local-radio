@@ -1845,6 +1845,11 @@ var stations = {
             url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
         },
         {
+            name: "Ado",
+            logo: "stations/images-europe/france/Ado.png",
+            url: "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3"
+        },
+        {
             name: "AirZen",
             logo: "stations/images-europe/france/AirZen.png",
             url: "https://stream.rcs.revma.com/vuumdncf368uv"
@@ -1870,9 +1875,24 @@ var stations = {
             url: "https://audio.bfmtv.com/bfmbusiness_128.mp3"
         },
         {
+            name: "CAPSAO",
+            logo: "stations/images-europe/france/CAPSAO.png",
+            url: "https://capsaohdf.ice.infomaniak.ch/capsaohdf-128.aac"
+        },
+        {
+            name: "Chante France",
+            logo: "stations/images-europe/france/Chante France.png",
+            url: "https://chantefrance.ice.infomaniak.ch/chantefrance-96.aac"
+        },
+        {
             name: "Chérie FM",
             logo: "stations/images-europe/france/Chérie FM.png",
             url: "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=listenlive"
+        },
+        {
+            name: "Crooner Radio",
+            logo: "stations/images-europe/france/Crooner Radio.png",
+            url: "https://croonerradio.ice.infomaniak.ch/croonerradio-midfi.mp3"
         },
         {
             name: "Europe 1",
@@ -1900,9 +1920,19 @@ var stations = {
             url: "http://ais.rtl.fr:80/fun-1-44-128"
         },
         {
+            name: "Generations",
+            logo: "stations/images-europe/france/Generations.png",
+            url: "http://ais.rtl.fr:80/fun-1-44-128"
+        },
+        {
             name: "Jazz Radio",
             logo: "stations/images-europe/france/Jazz Radio.png",
             url: "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
+        },
+        {
+            name: "KTO Radio",
+            logo: "stations/images-europe/france/KTO Radio.png",
+            url: "https://live-radio-kto.akamaized.net/hls/live/2103303-b/KTO/index.m3u8"
         },
         {
             name: "La Radio Plus",
@@ -1945,6 +1975,11 @@ var stations = {
             url: "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
         },
         {
+            name: "Radio Bonheur",
+            logo: "stations/images-europe/france/Radio Bonheur.png",
+            url: "https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3"
+        },
+        {
             name: "Radio Classique",
             logo: "stations/images-europe/france/Radio Classique.png",
             url: "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
@@ -1958,6 +1993,11 @@ var stations = {
             name: "Radio Nova",
             logo: "stations/images-europe/france/Radio Nova.png",
             url: "https://novazz.ice.infomaniak.ch/novazz-128.mp3"
+        },
+        {
+            name: "Radio Orient",
+            logo: "stations/images-europe/france/Radio Orient.png",
+            url: "https://stream.rcs.revma.com/7hnrkawf4p8uv"
         },
         {
             name: "Radio Scoop",
@@ -2025,9 +2065,19 @@ var stations = {
             url: "https://aratotem.ice.infomaniak.ch/tarn-et-garonne.mp3"
         },
         {
+            name: "TSF Jazz",
+            logo: "stations/images-europe/france/TSF Jazz.png",
+            url: "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3"
+        },
+        {
             name: "Vibration",
             logo: "stations/images-europe/france/Vibration.png",
             url: "https://webvib-region.ice.infomaniak.ch/webvib-region-128.mp3"
+        },
+        {
+            name: "Virgin Radio",
+            logo: "stations/images-europe/france/Virgin Radio.png",
+            url: "https://virginradio.ice.infomaniak.ch/virgin-radio.mp3"
         },
     ],
     "georgia": [
