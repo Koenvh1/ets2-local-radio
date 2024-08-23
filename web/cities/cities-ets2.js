@@ -11143,6 +11143,7 @@ cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_btbs); //Beyond the Baltic Sea DLC
 cities = cities.concat(cities_balkan_e); //Road to the Black Sea DLC
+cities = cities.concat(cities_balkan_w); //West Balkans DLC
 cities = cities.concat(cities_italy_map); //Italy Map / Italy DLC
 cities = cities.concat(cities_kz); //The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
