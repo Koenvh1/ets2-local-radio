@@ -30,6 +30,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Check whether city files are valid
+        uses: ali-kamalizade/es-check-action@1.0.2
+        with:
+          directory: 'web/cities'
+          ecmaVersion: 'es5'
+          files: '*.js'
+      - name: Check whether station files are valid
+        uses: ali-kamalizade/es-check-action@1.0.2
+        with:
+          directory: 'web/stations'
+          ecmaVersion: 'es5'
+          files: '*.js'
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
