@@ -1547,6 +1547,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
+    "russelville": {
+        name: "Russelville",
+        name_english: "Russelville",
+        code: "us-ar",
+        relative_radius: 0.7
+    },
     "sacramento": {
         name: "Sacramento",
         name_english: "Sacramento",
@@ -2870,6 +2876,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "roswell": {
+        relative_whitenoise: 0.95
+    },
+    "russelville": {
         relative_whitenoise: 0.95
     },
     "sacramento": {
@@ -4320,6 +4329,22 @@ var cities = [
         "z": "12150.3"
     },/*
     {
+        "gameName": "hamburg_ar",
+        "realName": "Hamburg",
+        "country": "hamburg_ar",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
+        "gameName": "hamburg_ar",
+        "realName": "Hamburg",
+        "country": "monroe_la",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "harrison",
         "realName": "Harrison",
         "country": "harrison",
@@ -5502,6 +5527,14 @@ var cities = [
         "x": "-39713.4",
         "y": "106.012",
         "z": "29859.5"
+    },
+    {
+        "gameName": "russelville",
+        "realName": "Russelville",
+        "country": "russelville",
+        "x": "12703",
+        "y": "49.7618",
+        "z": "19393.4"
     },
     {
         "gameName": "sacramento",
@@ -8357,18 +8390,6 @@ var country_properties_c2c = {
         code: "us-al",
         relative_radius: 0.7
     },
-    "arkansas": {
-        name: "arkansas",
-        name_english: "arkansas",
-        code: "us-ar",
-        relative_radius: 1.0
-    },
-    "russelville_ar": {
-        name: "Russelville",
-        name_english: "Russelville",
-        code: "us-ar",
-        relative_radius: 0.9
-    },
     "connecticut": {
         name: "connecticut",
         name_english: "connecticut",
@@ -9615,10 +9636,6 @@ var city_properties_c2c = {
     "tuscaloosa_al": {
         relative_whitenoise: 0.85
     },
-    "russelville_ar": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
     "hartford": {
         relative_whitenoise: 0.75
     },
@@ -10234,22 +10251,6 @@ var cities_c2c = [
         "x": "38725.8",
         "y": "91.6523",
         "z": "32224.4"
-    },
-    {
-        "gameName": "russelville_ar",
-        "realName": "Russelville",
-        "country": "russelville_ar",
-        "x": "12703",
-        "y": "49.7618",
-        "z": "19393.4"
-    },
-    {
-        "gameName": "russelville_ar",
-        "realName": "Russelville",
-        "country": "little_rock",
-        "x": "12703",
-        "y": "49.7618",
-        "z": "19393.4"
     },
     {
         "gameName": "hartford",

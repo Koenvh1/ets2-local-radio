@@ -10145,6 +10145,23 @@ var stations = {
             url: "https://ice7.securenetsystems.net/KKBS"
         },
     ],
+    "hamburg_ar": [
+        {
+            name: "afr Hybrid 91.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp3"
+        },
+        {
+            name: "Q-Lite 99.5",
+            logo: "stations/images-america/hamburg_ar/Q-Lite 99.5.png",
+            url: "https://ice42.securenetsystems.net/KHMB"
+        },
+        {
+            name: "KAGH 104.7",
+            logo: "stations/images-america/hamburg_ar/KAGH 104.7.png",
+            url: "https://ice41.securenetsystems.net/KAGH"
+        },
+    ],
     "hays": [
         {
             name: "88.5 K203FB",
@@ -19769,6 +19786,53 @@ var stations = {
             url: "https://ice23.securenetsystems.net/KEND"
         },
     ],
+    "russelville": [
+        {
+            name: "KXRJ 91.9",
+            logo: "stations/images-america/russelville/KXRJ 91.9.png",
+            url: "http://kxrjradiostream.atu.edu:88/broadwave.mp3"
+        },
+        {
+            name: "KARV 93.1",
+            logo: "stations/images-america/russelville/KARV.png",
+            url: "https://ais-sa2.cdnstream1.com/1690_64"
+        },
+        {
+            name: "97.1 BOB FM",
+            logo: "stations/images-america/russelville/97.1 BOB FM.png",
+            url: "https://ais-sa8.cdnstream1.com/1689_64"
+        },
+        {
+            name: "100.9 KWKK",
+            logo: "stations/images-america/russelville/100.9 KWKK.png",
+            url: "https://ais-sa2.cdnstream1.com/1412_64"
+        },
+        {
+            name: "102.3 KCJC",
+            logo: "stations/images-america/russelville/102.3 KCJC.png",
+            url: "https://ais-sa2.cdnstream1.com/1413_64"
+        },
+        {
+            name: "KYEL 105.5",
+            logo: "stations/images-america/russelville/99.3 The Eagle.png",
+            url: "http://hemnos.cdnstream.com/1411_64"
+        },
+        {
+            name: "KXIO 106.9",
+            logo: "stations/images-america/russelville/KXIO 106.9.png",
+            url: "http://kea.cdnstream.com/1691_64"
+        },
+        {
+            name: "KARV 610",
+            logo: "stations/images-america/russelville/KARV.png",
+            url: "http://ais-sa2.cdnstream1.com/1690_64"
+        },
+        {
+            name: "980 AM BOB FM",
+            logo: "stations/images-america/russelville/97.1 BOB FM.png",
+            url: "http://ais-sa8.cdnstream1.com/1689_64"
+        },
+    ],
     "sacramento": [
         {
             name: "Family Radio 88.1",
@@ -19961,6 +20025,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXSEFMAAC_SC"
         },
         {
+            name: "104.7 K284CM",
+            logo: "stations/images-america/sacramento/RAD Radio.png",
+            url: "https://streams.radiomast.io/ed0e53c5-4e25-4423-a940-aa2a029ca931"
+        },
+        {
             name: "105.1 KNCI",
             logo: "stations/images-america/sacramento/105.1 KNCI.png",
             url: "https://bonneville.cdnstream1.com/2617_48.aac"
@@ -20004,6 +20073,11 @@ var stations = {
             name: "650 KSTE",
             logo: "stations/images-america/sacramento/650 KSTE.png",
             url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
+        },
+        {
+            name: "RAD Radio 890",
+            logo: "stations/images-america/sacramento/RAD Radio.png",
+            url: "http://streams.radiomast.io/ed0e53c5-4e25-4423-a940-aa2a029ca931"
         },
         {
             name: "KAHI 950",
@@ -30107,53 +30181,6 @@ var stations_c2c = {
             name: "Tide 1230",
             logo: "stations/images-america/c2c/tuscaloosa_al/Tide 100.9.png",
             url: "http://live.amperwave.net/manifest/townsquare-wtughd2aac-ibc3"
-        },
-    ],
-    "russelville_ar": [
-        {
-            name: "KXRJ 91.9",
-            logo: "stations/images-america/c2c/russelville_ar/KXRJ 91.9.png",
-            url: "http://kxrjradiostream.atu.edu:88/broadwave.mp3"
-        },
-        {
-            name: "KARV 93.1",
-            logo: "stations/images-america/c2c/russelville_ar/KARV.png",
-            url: "https://ais-sa2.cdnstream1.com/1690_64"
-        },
-        {
-            name: "97.1 BOB FM",
-            logo: "stations/images-america/c2c/russelville_ar/97.1 BOB FM.png",
-            url: "https://ais-sa8.cdnstream1.com/1689_64"
-        },
-        {
-            name: "100.9 KWKK",
-            logo: "stations/images-america/c2c/russelville_ar/100.9 KWKK.png",
-            url: "https://ais-sa2.cdnstream1.com/1412_64"
-        },
-        {
-            name: "102.3 KCJC",
-            logo: "stations/images-america/c2c/russelville_ar/102.3 KCJC.png",
-            url: "https://ais-sa2.cdnstream1.com/1413_64"
-        },
-        {
-            name: "KYEL 105.5",
-            logo: "stations/images-america/c2c/russelville_ar/99.3 The Eagle.png",
-            url: "http://hemnos.cdnstream.com/1411_64"
-        },
-        {
-            name: "KXIO 106.9",
-            logo: "stations/images-america/c2c/russelville_ar/KXIO 106.9.png",
-            url: "http://kea.cdnstream.com/1691_64"
-        },
-        {
-            name: "KARV 610",
-            logo: "stations/images-america/c2c/russelville_ar/KARV.png",
-            url: "http://ais-sa2.cdnstream1.com/1690_64"
-        },
-        {
-            name: "980 AM BOB FM",
-            logo: "stations/images-america/c2c/russelville_ar/97.1 BOB FM.png",
-            url: "http://ais-sa8.cdnstream1.com/1689_64"
         },
     ],
     "hartford": [
@@ -45061,12 +45088,12 @@ var stations_c2c = {
             name: "WUNC 91.5",
             logo: "stations/images-america/c2c/raleigh_nc/WUNC 91.5.png",
             url: "http://wunc-ice.streamguys1.com:80/wunc-128-mp3"
-        },/*
+        },
         {
-            name: "Rock 92.9",
-            logo: "stations/images-america/c2c/raleigh_nc/Rock 92.9.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WQDRAMAAC_SC"
-        },*/
+            name: "92.9 WPTF",
+            logo: "stations/images-america/c2c/raleigh_nc/WPTF.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTFAMAAC.aac"
+        },
         {
             name: "Oak 93.5",
             logo: "stations/images-america/c2c/raleigh_nc/Oak 93.5.png",
@@ -45106,7 +45133,12 @@ var stations_c2c = {
             name: "K97.5",
             logo: "stations/images-america/c2c/raleigh_nc/K97.5.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WQOKFMAAC_SC"
-        },
+        },/*
+        {
+            name: "ROCK FM 98.3",
+            logo: "stations/images-america/c2c/raleigh_nc/ROCK FM.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WQDRAMAAC_SC"
+        },*/
         {
             name: "WRAL News Plus 99.3",
             logo: "stations/images-america/c2c/raleigh_nc/WRAL News Plus.png",
@@ -45179,7 +45211,7 @@ var stations_c2c = {
         },
         {
             name: "680 WPTF",
-            logo: "stations/images-america/c2c/raleigh_nc/680 WPTF.png",
+            logo: "stations/images-america/c2c/raleigh_nc/WPTF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTFAMAAC_SC"
         },
     ],
@@ -48553,8 +48585,8 @@ var stations_c2c = {
             url: "https://wvmw.streamguys1.com/live"
         },
         {
-            name: "QFM 92.1",
-            logo: "stations/images-america/c2c/scranton_pa/QFM 92.1.png",
+            name: "92 Mix FM",
+            logo: "stations/images-america/c2c/scranton_pa/92 Mix FM.png",
             url: "https://ais-sa1.streamon.fm/7248_48k.aac"
         },
         {
