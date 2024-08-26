@@ -7496,6 +7496,38 @@ var cities_pm270 = [
         "x": "44483.2461",
         "y": "52",
         "z": "52420.3828"
+    },
+    {
+        "gameName": "koper",
+        "realName": "Koper",
+        "country": "slovenia",
+        "x": "10733.7813",
+        "y": "52",
+        "z": "28959.6328"
+    },
+    {
+        "gameName": "ljubljana",
+        "realName": "Ljubljana",
+        "country": "slovenia",
+        "x": "14797.9727",
+        "y": "52",
+        "z": "25545.0859"
+    },
+    {
+        "gameName": "maribor",
+        "realName": "Maribor",
+        "country": "slovenia",
+        "x": "18074.4648",
+        "y": "52",
+        "z": "22717.3359"
+    },
+    {
+        "gameName": "novo mesto",
+        "realName": "Novo Mesto",
+        "country": "slovenia",
+        "x": "16101.6846",
+        "y": "52",
+        "z": "27209.02"
     }
 ];
 
