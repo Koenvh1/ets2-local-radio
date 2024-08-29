@@ -8905,8 +8905,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2353/hls.m3u8"
         },
         {
-            name: "86 KONO",
-            logo: "stations/images-america/san_antonio/86 KONO.png",
+            name: "Business 860",
+            logo: "stations/images-america/san_antonio/Business 860.png",
             url: "http://204.93.186.205/index.php?u=https://cmg.streamguys1.com/san860/san860-sgplayer-aac"
         },
         {
@@ -21089,7 +21089,7 @@ var stations = {
         },
         {
             name: "101.1 KONO-HD2",
-            logo: "stations/images-america/san_antonio/86 KONO.png",
+            logo: "stations/images-america/san_antonio/Business 860.png",
             url: "http://204.93.186.205/index.php?u=http://cmg.streamguys1.com/san860/san860-sgplayer-aac"
         },
         {
@@ -21188,8 +21188,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2353/hls.m3u8"
         },
         {
-            name: "86 KONO",
-            logo: "stations/images-america/san_antonio/86 KONO.png",
+            name: "Business 860",
+            logo: "stations/images-america/san_antonio/Business 860.png",
             url: "http://204.93.186.205/index.php?u=https://cmg.streamguys1.com/san860/san860-sgplayer-aac"
         },
         {
@@ -35882,7 +35882,7 @@ var stations_c2c = {
         },
         {
             name: "IPR Studio One 90.1",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
             url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
@@ -35909,6 +35909,11 @@ var stations_c2c = {
             name: "93.7 The Outlaw",
             logo: "stations/images-america/c2c/desmoines_ia/93.7 The Outlaw.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
+        },
+        {
+            name: "94.1 K231DI",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
+            url: "http://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
             name: "95 KGGO",
@@ -36134,7 +36139,7 @@ var stations_c2c = {
         },
         {
             name: "IPR Studio One 91.1",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
             url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
@@ -36159,7 +36164,7 @@ var stations_c2c = {
         },
         {
             name: "IPR Studio One 94.5",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
             url: "http://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
@@ -38949,7 +38954,7 @@ var stations_c2c = {
         },
         {
             name: "IPR Studio One 91.5",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
             url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
         },
         {
