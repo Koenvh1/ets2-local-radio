@@ -56613,8 +56613,8 @@ var stations_canada = {
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/tor925.stream/icy"
         },
         {
-            name: "93.5 Today Radio",
-            logo: "stations/images-america/canada/toronto/93.5 Today Radio.png",
+            name: "New Country 93.5",
+            logo: "stations/images-america/canada/toronto/New Country 93.5.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CFXJFM"
         },
         {
