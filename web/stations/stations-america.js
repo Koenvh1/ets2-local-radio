@@ -1520,14 +1520,14 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
         },
         {
-            name: "Latino 93.3",
-            logo: "stations/images-america/austin/Latino 93.3.png",
+            name: "Vibe 93.3",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
             name: "ACL Radio 93.3-HD2",
-            logo: "stations/images-america/austin/ACL Radio 97.1.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC.aac"
+            logo: "stations/images-america/austin/Austin City Limits Radio.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC_SC"
         },
         {
             name: "The Party! 93.3-HD3",
@@ -1583,11 +1583,6 @@ var stations = {
             name: "Today's Mix 96.7-HD2",
             logo: "stations/images-america/0_general_logos/Today's Mix.png",
             url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
-        },
-        {
-            name: "ACL Radio 97.1",
-            logo: "stations/images-america/austin/ACL Radio 97.1.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC_SC"
         },
         {
             name: "ALT 97.5",
