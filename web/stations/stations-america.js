@@ -30798,8 +30798,8 @@ var stations_c2c = {
             url: "http://pacificaservice.org:8000/wgot"
         },
         {
-            name: "100.5 The Buzz",
-            logo: "stations/images-america/c2c/gainesville_fl/100.5 The Buzz.png",
+            name: "RockIt 100.5",
+            logo: "stations/images-america/c2c/gainesville_fl/RockIt 100.5.png",
             url: "http://204.93.186.205/index.php?u=https://ice42.securenetsystems.net/WHHZ"
         },
         {
