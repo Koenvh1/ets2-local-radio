@@ -22530,8 +22530,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc9346/hls.m3u8"
         },
         {
-            name: "94.1 The Sound",
-            logo: "stations/images-america/seattle/94.1 The Sound.png",
+            name: "Emma 94.1",
+            logo: "stations/images-america/seattle/Emma 94.1.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
         },
         {
