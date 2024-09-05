@@ -14290,6 +14290,11 @@ var stations = {
             url: "https://liveaudio.lamusica.com/LA_KLAX_icy"
         },
         {
+            name: "98.3 K252FO",
+            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
+        },
+        {
             name: "ALT 98.7",
             logo: "stations/images-america/los_angeles/ALT 98.7.png",
             url: "https://stream.revma.ihrhls.com/zc201/hls.m3u8"
@@ -34913,6 +34918,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC_SC"
         },
         {
+            name: "96.5 Tay Radio",
+            logo: "stations/images-america/c2c/peoria_il/Tay Radio.png",
+            url: "https://ice25.securenetsystems.net/WHPI"
+        },
+        {
             name: "97.3 River Country",
             logo: "stations/images-america/c2c/peoria_il/97.3 River Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFYRFMAAC_SC"
@@ -34946,6 +34956,11 @@ var stations_c2c = {
             name: "102.7 Super Hits",
             logo: "stations/images-america/c2c/peoria_il/102.7 Super Hits.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRLAMAAC_SC"
+        },
+        {
+            name: "104.3 Tay Radio",
+            logo: "stations/images-america/c2c/peoria_il/Tay Radio.png",
+            url: "http://ice25.securenetsystems.net/WHPI"
         },
         {
             name: "104.9 The Wolf",
