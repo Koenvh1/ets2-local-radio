@@ -18261,7 +18261,7 @@ var stations = {
         {
             name: "Qué Buena 105.9",
             logo: "stations/images-america/phoenix/Qué Buena 105.9.png",
-            url: "http://204.93.186.205/index.php?u=http://tu.streamguys1.com/khotfm/playlist.m3u8"
+            url: "http://204.93.186.205/index.php?u=http://tu.streamguys1.com/khotfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "La Mejor 106.5",
