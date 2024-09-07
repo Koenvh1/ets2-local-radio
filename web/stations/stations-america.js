@@ -7494,9 +7494,9 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
-            name: "610 Sports Radio",
-            logo: "stations/images-america/kansas_city/610 Sports Radio.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kcspamaac-imc"
+            name: "The Fan 610",
+            logo: "stations/images-america/kansas_city/The Fan 610.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "KGGF 690",
@@ -11965,8 +11965,8 @@ var stations = {
         },
         {
             name: "106.5 WDAF-HD2",
-            logo: "stations/images-america/kansas_city/610 Sports Radio.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-kcspamaac-imc"
+            logo: "stations/images-america/kansas_city/The Fan 610.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "RNB 106.9",
@@ -11979,9 +11979,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
         },
         {
-            name: "610 Sports Radio",
-            logo: "stations/images-america/kansas_city/610 Sports Radio.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kcspamaac-imc"
+            name: "The Fan 610",
+            logo: "stations/images-america/kansas_city/The Fan 610.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "680 KFEQ",
@@ -25232,6 +25232,11 @@ var stations = {
             name: "Mega 99.3",
             logo: "stations/images-america/tyler/Mega 99.3.png",
             url: "http://ice5.securenetsystems.net/KAPW"
+        },
+        {
+            name: "99.7 KVUT",
+            logo: "stations/images-america/tyler/KFRO 1370.png",
+            url: "http://204.93.186.205/index.php?u=http://streaming.live365.com/a38693"
         },
         {
             name: "KERA 100.1",
