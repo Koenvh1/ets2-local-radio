@@ -24735,9 +24735,9 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/griffin-kbezfmaac-imc2"
         },
         {
-            name: "93.5 The Jet",
-            logo: "stations/images-america/tulsa/93.5 The Jet.png",
-            url: "https://stream.revma.ihrhls.com/zc5166/hls.m3u8"
+            name: "93.5 The Patriot",
+            logo: "stations/images-america/tulsa/93.5 The Patriot.png",
+            url: "https://stream.revma.ihrhls.com/zc1921/hls.m3u8"
         },
         {
             name: "94.1 KXOJ",
@@ -24946,8 +24946,8 @@ var stations = {
         },
         {
             name: "1300 The Patriot",
-            logo: "stations/images-america/tulsa/1300 The Patriot.png",
-            url: "https://stream.revma.ihrhls.com/zc1921/hls.m3u8"
+            logo: "stations/images-america/tulsa/93.5 The Patriot.png",
+            url: "https://stream.revma.ihrhls.com/zc1921"
         },
         {
             name: "Las Américas 1380",
