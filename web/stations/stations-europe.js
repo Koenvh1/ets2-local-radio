@@ -363,6 +363,11 @@ var stations = {
             url: "https://live.antenne.at/rf"
         },
         {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
+        },
+        {
             name: "Radio GÖD",
             logo: "stations/images-europe/austria/Radio GÖD.png",
             url: "https://radiogoed.securestream.kapper.net/stream"
@@ -699,9 +704,9 @@ var stations = {
             url: "https://str.topradio.be/topradio.aac"
         },
         {
-            name: "TOPversuzRadio",
-            logo: "stations/images-europe/belgium-nl/TOPversuzRadio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ_SC"
+            name: "TOP2",
+            logo: "stations/images-europe/belgium-nl/TOP2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION_SC"
         },
         {
             name: "Willy",
@@ -1480,6 +1485,16 @@ var stations = {
             url: "https://netradio.classicfm.dk/cla8d"
         },
         {
+            name: "Classic Rock",
+            logo: "stations/images-europe/denmark/Classic Rock.png",
+            url: "https://netradio.classicfm.dk/classicrock"
+        },
+        {
+            name: "mix 7",
+            logo: "stations/images-europe/denmark/mix 7.png",
+            url: "https://live-bauerdk.sharp-stream.com/Mix7.mp3"
+        },
+        {
             name: "myROCK",
             logo: "stations/images-europe/denmark/myROCK.png",
             url: "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
@@ -1493,6 +1508,16 @@ var stations = {
             name: "Pop FM",
             logo: "stations/images-europe/denmark/Pop FM.png",
             url: "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3"
+        },
+        {
+            name: "Pop FM 80'er",
+            logo: "stations/images-europe/denmark/Pop FM 80'er.png",
+            url: "https://live-bauerdk.sharp-stream.com/popfm80.mp3"
+        },
+        {
+            name: "Planet Rock",
+            logo: "stations/images-europe/denmark/Planet Rock.png",
+            url: "https://live-bauerdk.sharp-stream.com/planetrock_dk.mp3"
         },
         {
             name: "Radio 100",
@@ -1510,9 +1535,19 @@ var stations = {
             url: "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3"
         },
         {
+            name: "Radio Vinyl",
+            logo: "stations/images-europe/denmark/Radio Vinyl.png",
+            url: "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3"
+        },
+        {
             name: "RADIO4",
             logo: "stations/images-europe/denmark/RADIO4.png",
             url: "https://netradio.radio4.dk/radio4"
+        },
+        {
+            name: "Skala.fm",
+            logo: "stations/images-europe/denmark/Skala.fm.png",
+            url: "https://netradio.skala.fm/ska8d"
         },
         {
             name: "The Voice",
@@ -2229,11 +2264,6 @@ var stations = {
             url: "https://addrad.io/44599kb"
         },
         {
-            name: "Femotion Radio",
-            logo: "stations/images-europe/germany/Femotion Radio.png",
-            url: "https://frontend.streamonkey.net/femotion-radio"
-        },
-        {
             name: "Klassik Radio Digital",
             logo: "stations/images-europe/germany/Klassik Radio.png",
             url: "https://live.streams.klassikradio.de/klassikradio-deutschland"
@@ -2721,6 +2751,11 @@ var stations = {
             url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
         },
         {
+            name: "89.0 RTL",
+            logo: "stations/images-europe/germany-sachsen_anhalt/89.0 RTL.png",
+            url: "http://stream.89.0rtl.de/live/mp3-256"
+        },
+        {
             name: "ffn",
             logo: "stations/images-europe/germany-ndr/FFN.png",
             url: "https://stream.ffn.de/ffn/mp3-192/;"
@@ -2729,6 +2764,11 @@ var stations = {
             name: "RADIO 21",
             logo: "stations/images-europe/germany-nds/RADIO 21.png",
             url: "https://streams.radio21.de/hannover/mp3-192/web/"
+        },
+        {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
         },
     ],
     "germany-rbb": [
@@ -3001,6 +3041,11 @@ var stations = {
             logo: "stations/images-europe/germany-wdr/NRW1.png",
             url: "https://nrw1.streamabc.net/92-nrw1-mp3-128-5352676"
         },
+        {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
+        },
     ],
     "gibraltar": [
         {
@@ -3150,8 +3195,8 @@ var stations = {
             url: "https://icast.connectmedia.hu/5101/live.mp3/"
         },
         {
-            name: "Karc FM",
-            logo: "stations/images-europe/hungary/Karc FM.png",
+            name: "Hír FM",
+            logo: "stations/images-europe/hungary/Hír FM.png",
             url: "https://stream.rcs.revma.com/wevb267khf9uv"
         },
         {
@@ -3305,7 +3350,7 @@ var stations = {
         {
             name: "iRadio",
             logo: "stations/images-europe/ireland/iRadio.png",
-            url: "https://stream.audioxi.com/IRADNWAAC"
+            url: "https://live-bauerie.sharp-stream.com/IRADNW"
         },
         {
             name: "Newstalk",
@@ -4270,7 +4315,7 @@ var stations = {
         {
             name: "HIT FM",
             logo: "stations/images-europe/moldova/HIT FM.png",
-            url: "https://stream.hitfm.md:8443/HitFM"
+            url: "https://stream.dixi.md:9443/HitFM"
         },
         {
             name: "Новое Радио Молдова",
@@ -5808,9 +5853,9 @@ var stations = {
             url: "http://locafm02.we4stream.com:8015/live"
         },
         {
-            name: "La Suegra FM 96.7",
-            logo: "stations/images-europe/spain-madrid/La Suegra FM 96.7.png",
-            url: "http://131.153.56.235:9300/;"
+            name: "Diversa Radio 96.7",
+            logo: "stations/images-europe/spain-madrid/Diversa Radio 96.7.png",
+            url: "https://italia.101servicios.com:9060/stream"
         },
         {
             name: "TOP Radio 97.2",
@@ -6599,6 +6644,11 @@ var stations = {
             url: "https://media-ssl.musicradio.com/CapitalUK"
         },
         {
+            name: "Capital Anthems",
+            logo: "stations/images-europe/uk/Capital Anthems.png",
+            url: "https://media-ssl.musicradio.com/CapitalAnthems"
+        },
+        {
             name: "Capital Dance",
             logo: "stations/images-europe/uk/Capital Dance.png",
             url: "https://media-ssl.musicradio.com/CapitalDance"
@@ -6673,11 +6723,11 @@ var stations = {
             logo: "stations/images-europe/uk/Heart 00s.png",
             url: "https://media-ssl.musicradio.com/Heart00s"
         },
-        {
+        /*{
             name: "Heart Xmas",
             logo: "stations/images-europe/uk/Heart Xmas.png",
             url: "https://media-ssl.musicradio.com/HeartXmas"
-        },
+        },*/
         {
             name: "Hits Radio",
             logo: "stations/images-europe/uk/Hits Radio.png",
@@ -6792,6 +6842,11 @@ var stations = {
             name: "Smooth UK",
             logo: "stations/images-europe/uk/Smooth.png",
             url: "https://media-ssl.musicradio.com/SmoothUK"
+        },
+        {
+            name: "Smooth 80s",
+            logo: "stations/images-europe/uk/Smooth 80s.png",
+            url: "https://media-ssl.musicradio.com/Smooth80s"
         },
         {
             name: "Smooth Chill",
