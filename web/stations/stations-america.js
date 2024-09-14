@@ -1009,7 +1009,7 @@ var stations = {
         {
             name: "Bott Radio 104.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "MyBridge Español 750",
@@ -1096,7 +1096,7 @@ var stations = {
         {
             name: "Bott Radio 93.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Majic 94.5",
@@ -1300,7 +1300,7 @@ var stations = {
         {
             name: "Bott Radio 88.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "KXCV 90.5",
@@ -1702,9 +1702,9 @@ var stations = {
     ],
     "baggs": [
         {
-            name: "KRAI 93.7",
-            logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
-            url: "https://playoutonestreaming.com/proxy/kraifm?mp=/stream"
+            name: "93.7 The Point",
+            logo: "stations/images-america/steamboat_sp/93.7 The Point.png",
+            url: "https://stream.aiir.com/hu8c5rkgxjwuv"
         },/*
         {
             name: "The Reel 107.3",
@@ -1714,7 +1714,7 @@ var stations = {
         {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
+            url: "https://stream.aiir.com/p8iuej3i05quv"
         },
     ],
     "baker_city": [
@@ -4856,7 +4856,7 @@ var stations = {
         {
             name: "Bott Radio 95.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "KX 96.9",
@@ -6501,7 +6501,7 @@ var stations = {
         {
             name: "Bott Radio 102.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "La Raza 102.9",
@@ -7476,7 +7476,7 @@ var stations = {
         {
             name: "Bott Radio 106.1",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Country 106.9",
@@ -7628,7 +7628,7 @@ var stations = {
         {
             name: "Bott Radio 800",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "960 KGWA",
@@ -8095,7 +8095,7 @@ var stations = {
         {
             name: "Bott Radio 89.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "afr Hybrid 90.1",
@@ -8626,7 +8626,7 @@ var stations = {
         {
             name: "Bott Radio 88.9",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "K-LOVE 90.3",
@@ -9535,7 +9535,7 @@ var stations = {
         {
             name: "Bott Radio 89.9",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "BBN 90.3",
@@ -10216,7 +10216,7 @@ var stations = {
         {
             name: "Bott Radio 103.9",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "B104.3",
@@ -10964,7 +10964,7 @@ var stations = {
         {
             name: "Bott Radio 94.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "94.7 KSKU",
@@ -11424,7 +11424,7 @@ var stations = {
         {
             name: "Bott Radio 94.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "KZ95",
@@ -11811,7 +11811,7 @@ var stations = {
         {
             name: "Bott Radio 92.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Radio Vida 92.7",
@@ -13451,7 +13451,7 @@ var stations = {
         {
             name: "Bott Radio 106.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "107.3 PopCrush",
@@ -13614,7 +13614,7 @@ var stations = {
         {
             name: "Bott Radio 88.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "SonLife Radio 88.9",
@@ -15094,7 +15094,7 @@ var stations = {
         {
             name: "Bott Radio 95.1",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "KTMC 96.7",
@@ -15527,7 +15527,7 @@ var stations = {
         {
             name: "Bott Radio 104.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "105.3 Coyote Country",
@@ -16658,7 +16658,7 @@ var stations = {
         {
             name: "Bott Radio 96.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "97.5 KEXL",
@@ -16785,7 +16785,7 @@ var stations = {
         {
             name: "Bott Radio 104.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "KODY 106.1",
@@ -16917,7 +16917,7 @@ var stations = {
         {
             name: "Bott Radio 94.1",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Q94.7",
@@ -16932,7 +16932,7 @@ var stations = {
         {
             name: "Bott Radio 95.7",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "https://ic1.christiannetcast.com/bottradio"
+            url: "https://streaming.live365.com/a71179_2"
         },
         {
             name: "96.1 KXY",
@@ -17281,7 +17281,7 @@ var stations = {
         {
             name: "Bott Radio 93.7",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Channel 94.1",
@@ -18878,7 +18878,7 @@ var stations = {
         {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
+            url: "https://stream.aiir.com/p8iuej3i05quv"
         },
         {
             name: "FOX Sports 1350",
@@ -18982,7 +18982,7 @@ var stations = {
         {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
+            url: "https://stream.aiir.com/p8iuej3i05quv"
         },
         {
             name: "KUYO AM 830",
@@ -20253,7 +20253,7 @@ var stations = {
         {
             name: "Bott Radio 90.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "VCY America 91.7",
@@ -23490,17 +23490,17 @@ var stations = {
         {
             name: "KBCR 96.9",
             logo: "stations/images-america/steamboat_sp/KBCR 96.9.png",
-            url: "https://playoutonestreaming.com/proxy/kbcr?mp=/stream"
+            url: "https://stream.aiir.com/3hacq393kgdvv"
         },
         {
             name: "The River 98.9",
             logo: "stations/images-america/steamboat_sp/The River 98.9.png",
-            url: "https://playoutonestreaming.com/proxy/kcoq?mp=/stream"
+            url: "https://stream.aiir.com/vizxgvfitbpuv"
         },
         {
-            name: "KRAI 102.3",
-            logo: "stations/images-america/steamboat_sp/KRAI 102.3.png",
-            url: "https://playoutonestreaming.com/proxy/kraifm?mp=/stream"
+            name: "102.3 KRAI-FM",
+            logo: "stations/images-america/steamboat_sp/93.7 The Point.png",
+            url: "https://stream.aiir.com/hu8c5rkgxjwuv"
         },/*
         {
             name: "KFMU 105.5",
@@ -23510,7 +23510,7 @@ var stations = {
         {
             name: "KTYV 105.7",
             logo: "stations/images-america/steamboat_sp/KTYV 105.7.png",
-            url: "https://playoutonestreaming.com/proxy/ktyv?mp=/stream"
+            url: "https://stream.aiir.com/tngihlpquazvv"
         },/*
         {
             name: "The LIFT 106.3",
@@ -23520,7 +23520,7 @@ var stations = {
         {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
+            url: "https://stream.aiir.com/p8iuej3i05quv"
         },
         {
             name: "600 KCOL",
@@ -25176,7 +25176,7 @@ var stations = {
         {
             name: "Bott Radio 90.7",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "91.3 KGLY",
@@ -25591,7 +25591,7 @@ var stations = {
         {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://playoutonestreaming.com/proxy/kraiam?mp=/stream"
+            url: "https://stream.aiir.com/p8iuej3i05quv"
         },
         {
             name: "KJOL 620",
@@ -26115,7 +26115,7 @@ var stations = {
         {
             name: "Bott Radio 94.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "T95",
@@ -35278,7 +35278,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 93.7",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Rhythm & Praise 94.1",
@@ -35413,7 +35413,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 1090",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "https://ic1.christiannetcast.com/bottradio"
+            url: "https://streaming.live365.com/a71179_2"
         },
         {
             name: "WOWO 1190",
@@ -36529,7 +36529,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 103.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "104.1 The Wolf",
@@ -36703,7 +36703,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 92.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "92.9 The Bull",
@@ -41830,7 +41830,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 100.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "SOMO Sports Radio 101.3",
@@ -41967,7 +41967,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 107.9",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
     ],
     "rolla": [
@@ -41984,7 +41984,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 90.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "KKID 92.9",
@@ -50233,7 +50233,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 640",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "680 ESPN",
@@ -50651,7 +50651,7 @@ var stations_c2c = {
         {
             name: "Bott Radio 89.1",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://ic1.christiannetcast.com/bottradio"
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "WMOT 89.5",
