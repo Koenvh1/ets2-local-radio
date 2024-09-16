@@ -41449,8 +41449,8 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/telesouth-wdxofmaac-ibc1"
         },
         {
-            name: "Santa 93.1",
-            logo: "stations/images-america/c2c/jackson_ms/Santa 93.1.png",
+            name: "Rock 93.1",
+            logo: "stations/images-america/c2c/jackson_ms/Rock 93.1.png",
             url: "https://live.amperwave.net/manifest/newsouth-whjthd2aac-ibc"
         },
         {
@@ -41460,8 +41460,8 @@ var stations_c2c = {
         },
         {
             name: "93.5 WHJT-HD2",
-            logo: "stations/images-america/c2c/jackson_ms/Santa 93.1.png",
-            url: "https:///live.amperwave.net/manifest/newsouth-whjthd2aac-ibc"
+            logo: "stations/images-america/c2c/jackson_ms/Rock 93.1.png",
+            url: "http://live.amperwave.net/manifest/newsouth-whjthd2aac-ibc"
         },
         {
             name: "K-LOVE 94.7",
@@ -43348,9 +43348,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-winshd2aac-imc"
         },
         {
-            name: "Channel Q 92.3-HD3",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            name: "True Oldies Channel 92.3-HD3",
+            logo: "stations/images-america/c2c/nyc/True Oldies Channel 92.3-HD3.png",
+            url: "https://ais-sa5.cdnstream1.com/2133_64.aac"
         },
         {
             name: "Qué Buena 92.7",
@@ -43540,7 +43540,7 @@ var stations_c2c = {
         {
             name: "Channel Q 102.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Talkline Network 102.7-HD3",
