@@ -473,6 +473,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
+    "de_queen": {
+        name: "De Queen",
+        name_english: "De Queen",
+        code: "us-ar",
+        relative_radius: 0.5
+    },
     "diablo": {
         name: "Diablo",
         name_english: "Diablo",
@@ -761,6 +767,12 @@ var country_properties = {
         code: "us-ok",
         relative_radius: 0.6
     },
+    "hamburg_ar": {
+        name: "Hamburg",
+        name_english: "Hamburg",
+        code: "us-ar",
+        relative_radius: 0.5
+    },
     "harrison": {
         name: "Harrison",
         name_english: "Harrison",
@@ -771,7 +783,7 @@ var country_properties = {
         name: "Harrison",
         name_english: "Harrison",
         code: "us-ar",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "havre": {
         name: "Havre",
@@ -819,7 +831,7 @@ var country_properties = {
         name: "Hot Springs",
         name_english: "Hot Springs",
         code: "us-ar",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "houston": {
         name: "Houston",
@@ -885,7 +897,7 @@ var country_properties = {
         name: "Jonesboro",
         name_english: "Jonesboro",
         code: "us-ar",
-        relative_radius: 1.0
+        relative_radius: 0.7
     },
     "jordan": {
         name: "Jordan",
@@ -1095,7 +1107,7 @@ var country_properties = {
         name: "Little Rock",
         name_english: "Little Rock",
         code: "us-ar",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "logan": {
         name: "Logan",
@@ -1551,7 +1563,7 @@ var country_properties = {
         name: "Russelville",
         name_english: "Russelville",
         code: "us-ar",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "sacramento": {
         name: "Sacramento",
@@ -2285,6 +2297,9 @@ var city_properties = {
     "denver": {
         relative_whitenoise: 0.85
     },
+    "de_queen": {
+        relative_whitenoise: 0.95
+    },
     "diablo": {
         relative_whitenoise: 0.95
     },
@@ -2445,6 +2460,10 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
+    "hamburg_ar": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
     "harrison": {
         relative_whitenoise: 0.95
     },
@@ -2513,7 +2532,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "jonesboro": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "jordan": {
         relative_whitenoise: 0.85
@@ -3881,6 +3900,14 @@ var cities = [
         "z": "-5191.34"
     },
     {
+        "gameName": "de_queen",
+        "realName": "De Queen",
+        "country": "de_queen",
+        "x": "8009.72",
+        "y": "52.4887",
+        "z": "25208.4"
+    },
+    {
         "gameName": "diablo",
         "realName": "Diablo",
         "country": "diablo",
@@ -3956,9 +3983,9 @@ var cities = [
         "gameName": "el_dorado",
         "realName": "El Dorado",
         "country": "el_dorado",
-        "x": "16135.6",
-        "y": "112.68",
-        "z": "31690.9"
+        "x": "16340.6",
+        "y": "84.5938",
+        "z": "30834.6"
     },
     {
         "gameName": "elko",
@@ -4084,9 +4111,9 @@ var cities = [
         "gameName": "fayetteville_ar",
         "realName": "Fayetteville",
         "country": "fayetteville_ar",
-        "x": "9495.54",
-        "y": "105.207",
-        "z": "14615"
+        "x": "9899.16",
+        "y": "70.7656",
+        "z": "15701.6"
     },
     {
         "gameName": "flagstaff",
@@ -4124,9 +4151,9 @@ var cities = [
         "gameName": "fort_smith",
         "realName": "Fort Smith",
         "country": "fort_smith",
-        "x": "7007.55",
-        "y": "93.8315",
-        "z": "21483.1"
+        "x": "8790.19",
+        "y": "59.0039",
+        "z": "20151.9"
     },
     {
         "gameName": "fort_stockton",
@@ -4327,39 +4354,39 @@ var cities = [
         "x": "-24243",
         "y": "106.262",
         "z": "12150.3"
-    },/*
+    },
     {
         "gameName": "hamburg_ar",
         "realName": "Hamburg",
         "country": "hamburg_ar",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "19855.1",
+        "y": "29.9327",
+        "z": "32363.9"
     },
     {
         "gameName": "hamburg_ar",
         "realName": "Hamburg",
         "country": "monroe_la",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "19055.1",
+        "y": "29.9327",
+        "z": "33363.9"
     },
     {
         "gameName": "harrison",
         "realName": "Harrison",
         "country": "harrison",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "14616.1",
+        "y": "65.9961",
+        "z": "15740.4"
     },
     {
         "gameName": "harrison_khbz",
         "realName": "Harrison",
         "country": "harrison_khbz",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "13116.1",
+        "y": "65.9961",
+        "z": "13940.4"
+    },
     {
         "gameName": "havre",
         "realName": "Havre",
@@ -4436,17 +4463,17 @@ var cities = [
         "gameName": "hot_springs",
         "realName": "Hot Springs",
         "country": "hot_springs",
-        "x": "13756.2",
-        "y": "98.9141",
-        "z": "24366.1"
+        "x": "13276.4",
+        "y": "59.0039",
+        "z": "24247.1"
     },
     {
         "gameName": "hot_springs",
         "realName": "Hot Springs",
         "country": "little_rock",
-        "x": "13756.2",
-        "y": "98.9141",
-        "z": "24366.1"
+        "x": "16276.4",
+        "y": "59.0039",
+        "z": "24247.1"
     },
     {
         "gameName": "houston",
@@ -4548,9 +4575,9 @@ var cities = [
         "gameName": "jonesboro",
         "realName": "Jonesboro",
         "country": "jonesboro",
-        "x": "22472.7",
-        "y": "95.043",
-        "z": "14258.7"
+        "x": "23995.3",
+        "y": "53.4023",
+        "z": "16592.9"
     },
     {
         "gameName": "jordan",
@@ -4844,9 +4871,9 @@ var cities = [
         "gameName": "little_rock",
         "realName": "Little Rock",
         "country": "little_rock",
-        "x": "18499.3",
-        "y": "197.602",
-        "z": "23593.3"
+        "x": "18708.1",
+        "y": "59.0039",
+        "z": "22284.6"
     },
     {
         "gameName": "logan",
@@ -5327,15 +5354,15 @@ var cities = [
         "x": "-75196.4",
         "y": "32.0577",
         "z": "24257.7"
-    },/*
+    },
     {
         "gameName": "pine_bluff",
         "realName": "Pine Bluff",
         "country": "little_rock",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "20436.1",
+        "y": "59",
+        "z": "26065.1"
+    },
     {
         "gameName": "pioche",
         "realName": "Pioche",
@@ -5532,9 +5559,9 @@ var cities = [
         "gameName": "russelville",
         "realName": "Russelville",
         "country": "russelville",
-        "x": "12703",
-        "y": "49.7618",
-        "z": "19393.4"
+        "x": "14084.8",
+        "y": "34.1505",
+        "z": "18646.2"
     },
     {
         "gameName": "sacramento",
@@ -8982,7 +9009,7 @@ var country_properties_c2c = {
         name: "Indianola",
         name_english: "Indianola",
         code: "us-ms",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "meridian_ms": {
         name: "meridian_ms",

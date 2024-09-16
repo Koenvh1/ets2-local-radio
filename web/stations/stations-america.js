@@ -6395,6 +6395,33 @@ var stations = {
             url: "https://bonneville.cdnstream1.com/2708_48.aac"
         },
     ],
+    "de_queen": [
+        {
+            name: "Ed 88.7",
+            logo: "stations/images-america/de_queen/Ed 88.7.png",
+            url: "http://live.str3am.com:2110/kbpu"
+        },
+        {
+            name: "Radio By Grace 89.9",
+            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
+            url: "https://stream.freedomradiofm.com/rbga.mp3"
+        },
+        {
+            name: "KDQN 92.1",
+            logo: "stations/images-america/de_queen/KDQN 92.1.png",
+            url: "https://ice6.securenetsystems.net/KDQN"
+        },
+        {
+            name: "102.1 The Good Path",
+            logo: "stations/images-america/de_queen/102.1 The Good Path.png",
+            url: "https://ice9.securenetsystems.net/KILX"
+        },
+        {
+            name: "KKBI 106.1",
+            logo: "stations/images-america/de_queen/KKBI 106.1.png",
+            url: "http://motu.kkbifm.com:8000/k-64k.ogg"
+        },
+    ],
     "diablo": [
         {
             name: "KARI 550",
@@ -18134,9 +18161,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc57/hls.m3u8"
         },
         {
-            name: "96.1 K241BQ",
-            logo: "stations/images-america/phoenix/Power 98.3.png",
-            url: "http://ais-sa1.streamon.fm/7856_96k.aac"
+            name: "MeTV Music 96.1",
+            logo: "stations/images-america/phoenix/MeTV Music.png",
+            url: "http://streaming.proradiosolutions.com:8022/kxeg"
         },
         {
             name: "Air1 96.5",
@@ -18322,6 +18349,11 @@ var stations = {
             name: "1100 KFNX",
             logo: "stations/images-america/phoenix/1100 KFNX.png",
             url: "https://crystalout.surfernetwork.com:8001/KFNX_MP3"
+        },
+        {
+            name: "MeTV Music 1280",
+            logo: "stations/images-america/phoenix/MeTV Music.png",
+            url: "https://streaming.proradiosolutions.com:8022/kxeg"
         },
         {
             name: "1360 KPXQ",
@@ -41417,14 +41449,19 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/telesouth-wdxofmaac-ibc1"
         },
         {
-            name: "Blues 93.1",
-            logo: "stations/images-america/c2c/jackson_ms/Blues 93.1.png",
-            url: "https://live.amperwave.net/manifest/newsouth-wiinamaac-ibc1"
+            name: "Santa 93.1",
+            logo: "stations/images-america/c2c/jackson_ms/Santa 93.1.png",
+            url: "https://live.amperwave.net/manifest/newsouth-whjthd2aac-ibc"
         },
         {
             name: "93.5 The Legend",
             logo: "stations/images-america/c2c/jackson_ms/93.5 The Legend.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/newsouth-whjtfmaac-ibc4"
+        },
+        {
+            name: "93.5 WHJT-HD2",
+            logo: "stations/images-america/c2c/jackson_ms/Santa 93.1.png",
+            url: "https:///live.amperwave.net/manifest/newsouth-whjthd2aac-ibc"
         },
         {
             name: "K-LOVE 94.7",
@@ -41487,6 +41524,11 @@ var stations_c2c = {
             url: "http://ice42.securenetsystems.net/WBBV"
         },
         {
+            name: "Blues 102.1",
+            logo: "stations/images-america/c2c/jackson_ms/Blues 102.1.png",
+            url: "https://live.amperwave.net/manifest/newsouth-wiinamaac-ibc1"
+        },
+        {
             name: "WTWZ 102.5",
             logo: "stations/images-america/c2c/jackson_ms/WTWZ 102.5.png",
             url: "https://us2.maindigitalstream.com/ssl/WTWZ"
@@ -41545,6 +41587,11 @@ var stations_c2c = {
             name: "620 WJDX",
             logo: "stations/images-america/c2c/jackson_ms/620 WJDX.png",
             url: "https://stream.revma.ihrhls.com/zc4483/hls.m3u8"
+        },
+        {
+            name: "WIIN 780",
+            logo: "stations/images-america/c2c/jackson_ms/WTWZ 102.5.png",
+            url: "http://live.amperwave.net/manifest/newsouth-wiinamaac-ibc1"
         },
         {
             name: "1490 WVBG",
