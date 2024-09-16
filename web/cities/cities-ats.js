@@ -1107,7 +1107,7 @@ var country_properties = {
         name: "Little Rock",
         name_english: "Little Rock",
         code: "us-ar",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "logan": {
         name: "Logan",
