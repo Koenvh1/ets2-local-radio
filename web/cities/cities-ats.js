@@ -1955,6 +1955,12 @@ var country_properties = {
         code: "us-ks",
         relative_radius: 0.6
     },
+    "waldo": {
+        name: "Waldo",
+        name_english: "Waldo",
+        code: "us-ar",
+        relative_radius: 0.6
+    },
     "wallace": {
         name: "Wallace",
         name_english: "Wallace",
@@ -3115,6 +3121,9 @@ var city_properties = {
     },
     "wakeeney": {
 		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "waldo": {
         relative_whitenoise: 0.95
     },
     "wallace": {
@@ -6162,6 +6171,14 @@ var cities = [
         "x": "-17524.2",
         "y": "70.8681",
         "z": "-567.434"
+    },
+    {
+        "gameName": "waldo",
+        "realName": "Waldo",
+        "country": "waldo",
+        "x": "12446.33",
+        "y": "54.3758",
+        "z": "29427"
     },
     {
         "gameName": "wallace",

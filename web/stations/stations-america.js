@@ -1506,7 +1506,7 @@ var stations = {
         },
         {
             name: "Vibe 93.3",
-            logo: "stations/images-america/0_general_logos/placeholder.png",
+            logo: "stations/images-america/austin/Vibe 93.3.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
@@ -7043,6 +7043,11 @@ var stations = {
             url: "https://us2.maindigitalstream.com/ssl/KMRX"
         },
         {
+            name: "FOX Sports 97.1",
+            logo: "stations/images-america/el_dorado/FOX Sports 97.1.png",
+            url: "https://ice7.securenetsystems.net/KAMD"
+        },
+        {
             name: "SportsTalk 97.7",
             logo: "stations/images-america/el_dorado/SportsTalk 97.7.png",
             url: "https://ice7.securenetsystems.net/RDSPORTS"
@@ -7083,9 +7088,14 @@ var stations = {
             url: "https://ice5.securenetsystems.net/KXRR"
         },
         {
-            name: "KVMZ",
+            name: "106.5 MAX FM",
             logo: "stations/images-america/el_dorado/106.5 MAX FM.png",
             url: "https://us2.maindigitalstream.com/ssl/KVMZ"
+        },
+        {
+            name: "FOX Sports 107.1",
+            logo: "stations/images-america/el_dorado/FOX Sports 630.png",
+            url: "https:///us2.maindigitalstream.com/ssl/KVMA"
         },
         {
             name: "Z107.5",
@@ -19830,8 +19840,8 @@ var stations = {
             url: "http://hemnos.cdnstream.com/1411_64"
         },
         {
-            name: "KXIO 106.9",
-            logo: "stations/images-america/russelville/KXIO 106.9.png",
+            name: "Maverick 106.9",
+            logo: "stations/images-america/russelville/Maverick 106.9.png",
             url: "http://kea.cdnstream.com/1691_64"
         },
         {
@@ -25925,6 +25935,63 @@ var stations = {
             name: "NOAA Weather Radio Waco",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
             url: "https://broadcastify.cdnstream1.com/43037"
+        },
+    ],
+    "waldo": [
+        {
+            name: "afr Talk 90.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
+            name: "afr Hybrid 91.7",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp3"
+        },
+        {
+            name: "KHCB 92.9",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
+            name: "Y95",
+            logo: "stations/images-america/el_dorado/Y95.png",
+            url: "https://ice6.securenetsystems.net/KCXY"
+        },
+        {
+            name: "FOX Sports 97.1",
+            logo: "stations/images-america/el_dorado/FOX Sports 97.1.png",
+            url: "https://ice7.securenetsystems.net/KAMD"
+        },
+        {
+            name: "98 Rocks",
+            logo: "stations/images-america/texarkana/98 Rocks.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
+        },
+        {
+            name: "99.1 KVMZ",
+            logo: "stations/images-america/el_dorado/106.5 MAX FM.png",
+            url: "https://us2.maindigitalstream.com/ssl/KVMZ"
+        },
+        {
+            name: "KZ-100",
+            logo: "stations/images-america/waldo/KZ-100.png",
+            url: "https://crystalout.surfernetwork.com:8001/KZHE-FM_MP3"
+        },
+        {
+            name: "KIX 103",
+            logo: "stations/images-america/el_dorado/KIX 103.png",
+            url: "https://us2.maindigitalstream.com/ssl/KIXB"
+        },
+        {
+            name: "FOX Sports 107.1",
+            logo: "stations/images-america/el_dorado/FOX Sports 630.png",
+            url: "https:///us2.maindigitalstream.com/ssl/KVMA"
+        },
+        {
+            name: "FOX Sports 630",
+            logo: "stations/images-america/el_dorado/FOX Sports 630.png",
+            url: "https://us2.maindigitalstream.com/ssl/KVMA"
         },
     ],
     "wenatchee": [
