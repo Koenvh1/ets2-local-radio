@@ -2447,6 +2447,11 @@ var stations = {
     ],
     "germany-hh": [
         {
+            name: "NDR 90,3",
+            logo: "stations/images-europe/germany-hh/NDR 90,3.png",
+            url: "https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3"
+        },
+        {
             name: "ffn",
             logo: "stations/images-europe/germany-ndr/FFN.png",
             url: "https://stream.ffn.de/ffn/mp3-192/;"
@@ -2893,24 +2898,24 @@ var stations = {
     ],
     "germany-swr": [
         {
-            name: "SWR2",
-            logo: "stations/images-europe/germany-swr/SWR2.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr2/live/mp3/256/stream.mp3"
+            name: "SWR Kultur",
+            logo: "stations/images-europe/germany-swr/SWR Kultur.png",
+            url: "https://liveradio.swr.de/sw282p3/swr2/play.mp3"
         },
         {
             name: "SWR3",
             logo: "stations/images-europe/germany-swr/SWR3.png",
-            url: "https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3"
+            url: "https://liveradio.swr.de/sw282p3/swr3/play.mp3"
         },
         {
             name: "SWR Aktuell",
             logo: "stations/images-europe/germany-swr/SWR Aktuell.png",
-            url: "https://dispatcher.rndfnk.com/swr/swraktuell/live/mp3/128/stream.mp3"
+            url: "https://liveradio.swr.de/sw282p3/swraktuell/play.mp3"
         },
         {
             name: "DASDING",
             logo: "stations/images-europe/germany-swr/DASDING.png",
-            url: "https://dispatcher.rndfnk.com/swr/dasding/live/mp3/128/stream.mp3"
+            url: "https://liveradio.swr.de/sw282p3/dasding/play.mp3"
         },
         {
             name: "Radio Regenbogen",
@@ -3111,7 +3116,12 @@ var stations = {
             name: "Kalaallit Nunaata Radioa",
             logo: "stations/images-europe/greenland/Kalaallit Nunaata Radioa.svg",
             url: "https://www.knr.gl/radiolivestream"
-        }
+        },
+        {
+            name: "Nanoq FM",
+            logo: "stations/images-europe/greenland/Nanoq FM.png",
+            url: "https://getnanoq.retro-radio.dk/Nanoq-TX-1"
+        },
     ],
     "hungary": [
         {
@@ -3231,7 +3241,12 @@ var stations = {
         {
             name: "Manx Radio",
             logo: "stations/images-europe/iom/Manx Radio.png",
-            url: "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.mp3&device=ukradioplayermobile"
+            url: "https://listen-manxradio.sharp-stream.com/manxradiofm.aac"
+        },
+        {
+            name: "Manx Radio Gold",
+            logo: "stations/images-europe/iom/Manx Radio Gold.png",
+            url: "https://listen-manxradio.sharp-stream.com/manxgoldlow.aac"
         },
     ],
     "iraq": [
@@ -4603,12 +4618,12 @@ var stations = {
         },
         {
             name: "Hits Radio",
-            logo: "stations/images-europe/nireland/Hits Radio.png",
+            logo: "stations/images-europe/uk/Hits Radio.png",
             url: "http://204.93.186.205/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Pride",
-            logo: "stations/images-europe/nireland/Hits Radio Pride.png",
+            logo: "stations/images-europe/uk/Hits Radio Pride.png",
             url: "http://204.93.186.205/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
@@ -6064,23 +6079,23 @@ var stations = {
     ],
     "switzerland-fr": [
         {
-            name: "La Première",
-            logo: "stations/images-europe/switzerland-fr/La Première.png",
+            name: "RTS Première",
+            logo: "stations/images-europe/switzerland-fr/RTS Première.png",
             url: "http://stream.srg-ssr.ch/m/la-1ere/mp3_128"
         },
         {
-            name: "Espace 2",
-            logo: "stations/images-europe/switzerland-fr/Espace 2.png",
+            name: "RTS Espace 2",
+            logo: "stations/images-europe/switzerland-fr/RTS Espace 2.png",
             url: "http://stream.srg-ssr.ch/m/espace-2/mp3_128"
         },
         {
-            name: "Couleur 3",
-            logo: "stations/images-europe/switzerland-fr/Couleur 3.png",
+            name: "RTS Couleur 3",
+            logo: "stations/images-europe/switzerland-fr/RTS Couleur 3.png",
             url: "http://stream.srg-ssr.ch/m/couleur3/mp3_128"
         },
         {
-            name: "Option Musique",
-            logo: "stations/images-europe/switzerland-fr/Option Musique.png",
+            name: "RTS Option Musique",
+            logo: "stations/images-europe/switzerland-fr/RTS Option Musique.png",
             url: "http://stream.srg-ssr.ch/m/option-musique/mp3_128"
         },
         {
@@ -6584,11 +6599,6 @@ var stations = {
             url: "https://media-ssl.musicradio.com/CapitalUK"
         },
         {
-            name: "Capital Chill",
-            logo: "stations/images-europe/uk/Capital Chill.png",
-            url: "https://media-ssl.musicradio.com/CapitalChill"
-        },
-        {
             name: "Capital Dance",
             logo: "stations/images-europe/uk/Capital Dance.png",
             url: "https://media-ssl.musicradio.com/CapitalDance"
@@ -6670,12 +6680,17 @@ var stations = {
         },
         {
             name: "Hits Radio",
-            logo: "stations/images-europe/nireland/Hits Radio.png",
+            logo: "stations/images-europe/uk/Hits Radio.png",
             url: "http://204.93.186.205/radiofeeds.php?station=hits-aac"
         },
         {
+            name: "Hits Radio Chilled",
+            logo: "stations/images-europe/uk/Hits Radio Chilled.png",
+            url: "http://204.93.186.205/radiofeeds.php?station=magicchilled-aac"
+        },
+        {
             name: "Hits Radio Pride",
-            logo: "stations/images-europe/nireland/Hits Radio Pride.png",
+            logo: "stations/images-europe/uk/Hits Radio Pride.png",
             url: "http://204.93.186.205/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
@@ -6729,14 +6744,14 @@ var stations = {
             url: "http://204.93.186.205/radiofeeds.php?station=magicnational-aac"
         },
         {
+            name: "Magic Classical",
+            logo: "stations/images-europe/uk/Magic Classical.png",
+            url: "http://204.93.186.205/radiofeeds.php?station=scala-aac"
+        },
+        {
             name: "Magic at the Musicals",
             logo: "stations/images-europe/uk/Magic at the Musicals.png",
             url: "http://204.93.186.205/radiofeeds.php?station=magicmusicals-aac"
-        },
-        {
-            name: "Magic Chilled",
-            logo: "stations/images-europe/uk/Magic Chilled.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicchilled-aac"
         },
         {
             name: "Magic Mellow",
@@ -6772,11 +6787,6 @@ var stations = {
             name: "Radio X Classic Rock",
             logo: "stations/images-europe/uk/Radio X Classic Rock.png",
             url: "https://media-ssl.musicradio.com/RadioXClassicRock"
-        },
-        {
-            name: "Scala Radio",
-            logo: "stations/images-europe/uk/Scala Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=scala-aac"
         },
         {
             name: "Smooth UK",

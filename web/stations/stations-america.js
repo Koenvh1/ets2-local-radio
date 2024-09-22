@@ -3311,12 +3311,12 @@ var stations = {
         {
             name: "Peace 101.3",
             logo: "stations/images-america/buffalo/Peace 101.3.png",
-            url: "https://ice24.securenetsystems.net/PEACE101"
+            url: "http://204.93.186.205/index.php?u=https://ice24.securenetsystems.net/PEACE101"
         },
         {
             name: "Willy 103.5",
             logo: "stations/images-america/buffalo/Willy 103.5.png",
-            url: "https://ice24.securenetsystems.net/WILLY103"
+            url: "http://204.93.186.205/index.php?u=https://ice24.securenetsystems.net/WILLY103"
         },
         {
             name: "Radio Aleluya 105.9",
@@ -5565,7 +5565,7 @@ var stations = {
         {
             name: "Zona MX 99.1",
             logo: "stations/images-america/dallas_fort_worth/Zona MX 99.1.png",
-            url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/kfzofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "https://lmn.streamguys1.com/kfzofm-icy?key=a1e751202157c8d037a4f453698087f605c937356359a6774ea3fcd2e53d04e4&aw_0_1st.playerId=iheart"
         },
         {
             name: "99.5 The Wolf",
@@ -35002,8 +35002,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC_SC"
         },
         {
-            name: "96.5 Tay Radio",
-            logo: "stations/images-america/c2c/peoria_il/Tay Radio.png",
+            name: "Shuffle Radio 96.5",
+            logo: "stations/images-america/c2c/peoria_il/Shuffle Radio.png",
             url: "https://ice25.securenetsystems.net/WHPI"
         },
         {
@@ -35042,8 +35042,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRLAMAAC_SC"
         },
         {
-            name: "104.3 Tay Radio",
-            logo: "stations/images-america/c2c/peoria_il/Tay Radio.png",
+            name: "Shuffle Radio 104.3",
+            logo: "stations/images-america/c2c/peoria_il/Shuffle Radio.png",
             url: "http://ice25.securenetsystems.net/WHPI"
         },
         {
@@ -50320,6 +50320,11 @@ var stations_c2c = {
             url: "http://ice23.securenetsystems.net/WZDQ"
         },
         {
+            name: "NewsTalk 103.5",
+            logo: "stations/images-america/c2c/jackson_tn/NewsTalk 96.5.png",
+            url: "http://s5.radio.co/s8ead4734f/listen"
+        },
+        {
             name: "FROGGY 104",
             logo: "stations/images-america/c2c/jackson_tn/FROGGY 104.png",
             url: "https://live.amperwave.net/direct/forevercomm-wogyfmaac-ibc4"
@@ -50353,6 +50358,11 @@ var stations_c2c = {
             name: "680 ESPN",
             logo: "stations/images-america/c2c/memphis_tn/92.9 ESPN.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-wmfsfmaac-imc"
+        },
+        {
+            name: "NewsTalk 1310",
+            logo: "stations/images-america/c2c/jackson_tn/NewsTalk 96.5.png",
+            url: "http:///s5.radio.co/s8ead4734f/listen"
         },
     ],
     "kingsport_tn": [
