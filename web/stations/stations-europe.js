@@ -3343,7 +3343,7 @@ var stations = {
         },
         {
             name: "bigFM",
-            logo: "stations/images-europe/germany-rp/FFN.png",
+            logo: "stations/images-europe/germany-rp/bigFM.png",
             url: "https://stream.bigfm.de/nrw/aac-128/homepage/"
         },
         {
