@@ -3305,7 +3305,7 @@ var stations = {
         {
             name: "iRadio",
             logo: "stations/images-europe/ireland/iRadio.png",
-            url: "https://stream.audioxi.com/IRADNWAAC"
+            url: "https://live-bauerie.sharp-stream.com/IRADNW"
         },
         {
             name: "Newstalk",
