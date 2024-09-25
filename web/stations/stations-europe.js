@@ -363,6 +363,11 @@ var stations = {
             url: "https://live.antenne.at/rf"
         },
         {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
+        },
+        {
             name: "Radio GÖD",
             logo: "stations/images-europe/austria/Radio GÖD.png",
             url: "https://radiogoed.securestream.kapper.net/stream"
@@ -699,9 +704,9 @@ var stations = {
             url: "https://str.topradio.be/topradio.aac"
         },
         {
-            name: "TOPversuzRadio",
-            logo: "stations/images-europe/belgium-nl/TOPversuzRadio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ_SC"
+            name: "TOP2",
+            logo: "stations/images-europe/belgium-nl/TOP2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION_SC"
         },
         {
             name: "Willy",
@@ -1480,6 +1485,16 @@ var stations = {
             url: "https://netradio.classicfm.dk/cla8d"
         },
         {
+            name: "Classic Rock",
+            logo: "stations/images-europe/denmark/Classic Rock.png",
+            url: "https://netradio.classicfm.dk/classicrock"
+        },
+        {
+            name: "mix 7",
+            logo: "stations/images-europe/denmark/mix 7.png",
+            url: "https://live-bauerdk.sharp-stream.com/Mix7.mp3"
+        },
+        {
             name: "myROCK",
             logo: "stations/images-europe/denmark/myROCK.png",
             url: "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3"
@@ -1493,6 +1508,16 @@ var stations = {
             name: "Pop FM",
             logo: "stations/images-europe/denmark/Pop FM.png",
             url: "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3"
+        },
+        {
+            name: "Pop FM 80'er",
+            logo: "stations/images-europe/denmark/Pop FM 80'er.png",
+            url: "https://live-bauerdk.sharp-stream.com/popfm80.mp3"
+        },
+        {
+            name: "Planet Rock",
+            logo: "stations/images-europe/denmark/Planet Rock.png",
+            url: "https://live-bauerdk.sharp-stream.com/planetrock_dk.mp3"
         },
         {
             name: "Radio 100",
@@ -1510,9 +1535,19 @@ var stations = {
             url: "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3"
         },
         {
+            name: "Radio Vinyl",
+            logo: "stations/images-europe/denmark/Radio Vinyl.png",
+            url: "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3"
+        },
+        {
             name: "RADIO4",
             logo: "stations/images-europe/denmark/RADIO4.png",
             url: "https://netradio.radio4.dk/radio4"
+        },
+        {
+            name: "Skala.fm",
+            logo: "stations/images-europe/denmark/Skala.fm.png",
+            url: "https://netradio.skala.fm/ska8d"
         },
         {
             name: "The Voice",
@@ -2229,11 +2264,6 @@ var stations = {
             url: "https://addrad.io/44599kb"
         },
         {
-            name: "Femotion Radio",
-            logo: "stations/images-europe/germany/Femotion Radio.png",
-            url: "https://frontend.streamonkey.net/femotion-radio"
-        },
-        {
             name: "Klassik Radio Digital",
             logo: "stations/images-europe/germany/Klassik Radio.png",
             url: "https://live.streams.klassikradio.de/klassikradio-deutschland"
@@ -2397,6 +2427,26 @@ var stations = {
             logo: "stations/images-europe/germany/Energy.png",
             url: "https://stream.ffn.de/energybremen/mp3-192/livestream.mp3"
         },
+        {
+            name: "NORDSEEWELLE 2",
+            logo: "stations/images-europe/germany-ndr/NORDSEEWELLE 2.png",
+            url: "https://nsw.streamabc.net/nsw-radionsw2-mp3-128-3629106"
+        },
+        {
+            name: "Radio Roland",
+            logo: "stations/images-europe/germany-nds/Radio Roland.png",
+            url: "https://stream.ffn.de/radioroland/mp3-192/stream.mp3"
+        },
+        {
+            name: "Radio Weser.TV",
+            logo: "stations/images-europe/germany-nds/Radio Weser.TV.png",
+            url: "http://radiocast-radiowesertv.video-stream-hosting.de:8000/rwtvhb"
+        },
+        {
+            name: "STAR FM",
+            logo: "stations/images-europe/germany-rbb/STAR FM.png",
+            url: "https://stream.starfm.de/national/mp3-192/webseite"
+        },
     ],
     "germany-bw": [
         {
@@ -2410,9 +2460,29 @@ var stations = {
             url: "https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3"
         },
         {
+            name: "Antenna Baden-Württemberg",
+            logo: "stations/images-europe/germany-bw/Antenna Baden-Württemberg.png",
+            url: "https://antennabw.ip-streaming.net/antennabw"
+        },
+        {
             name: "antenne 1",
             logo: "stations/images-europe/germany-bw/Antenne 1.png",
             url: "http://stream.antenne1.de/a1stg/livestream2.mp3"
+        },
+        {
+            name: "baden.fm",
+            logo: "stations/images-europe/germany-bw/baden.fm.png",
+            url: "https://frontend.streams.baden.fm/badenfm-onair"
+        },
+        {
+            name: "bigFM",
+            logo: "stations/images-europe/germany-rp/bigFM.png",
+            url: "https://stream.bigfm.de/bw/aac-128/homepage/"
+        },
+        {
+            name: "Donau 3 FM",
+            logo: "stations/images-europe/germany-bw/Donau 3 FM.png",
+            url: "https://frontend.streamonkey.net/donau3fm-live/stream/mp3"
         },
         {
             name: "Die neue Welle",
@@ -2425,9 +2495,19 @@ var stations = {
             url: "http://dieneue1077.cast.addradio.de/dieneue1077/simulcast/high/stream.mp3"
         },
         {
+            name: "egoFM",
+            logo: "stations/images-europe/germany-br/egoFM.png",
+            url: "http://www.egofm.de/stream/128kb"
+        },
+        {
             name: "ENERGY Stuttgart",
             logo: "stations/images-europe/germany-bw/Energy.png",
             url: "https://frontend.streamonkey.net/energy-stuttgart/stream/mp3"
+        },
+        {
+            name: "Hitradio Ohr",
+            logo: "stations/images-europe/germany-bw/Hitradio Ohr.png",
+            url: "https://frontend.streamonkey.net/fho-hitradioohrlive/stream/mp3"
         },
         {
             name: "Radio 7",
@@ -2438,6 +2518,21 @@ var stations = {
             name: "Radio Regenbogen",
             logo: "stations/images-europe/germany-bw/Radio Regenbogen.png",
             url: "https://stream.regenbogen.de/mannheim/aac-128"
+        },
+        {
+            name: "ROCK FM",
+            logo: "stations/images-europe/germany-bw/ROCK FM.png",
+            url: "https://stream.regenbogen2.de/dab/aac-128/homepage/"
+        },
+        {
+            name: "Das neue Radio Seefunk",
+            logo: "stations/images-europe/germany-bw/Das neue Radio Seefunk.png",
+            url: "https://webradio.radio-seefunk.de/bodensee-oberschwaben"
+        },
+        {
+            name: "Radio TEDDY",
+            logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
+            url: "https://streamtdy.ir-media-tec.com/sc-rlp-bw/mp3-128/dmhubweb/play.mp3"
         },
         {
             name: "Radio Ton",
@@ -2457,6 +2552,11 @@ var stations = {
             url: "https://stream.ffn.de/ffn/mp3-192/;"
         },
         {
+            name: "Antenne Schlager",
+            logo: "stations/images-europe/germany-nds/Antenne Schlager.png",
+            url: "https://stream.antenne-schlager.de/schlager-live/mp3-192/web/"
+        },
+        {
             name: "HAMBURG ZWEI",
             logo: "stations/images-europe/germany-hh/HAMBURG ZWEI.png",
             url: "https://frontend.streamonkey.net/hh2-950"
@@ -2472,9 +2572,29 @@ var stations = {
             url: "https://frontend.streamonkey.net/energy-hamburg/stream/mp3"
         },
         {
+            name: "MEGARADIOmix",
+            logo: "stations/images-europe/germany-hh/MEGARADIOmix.png",
+            url: "https://play.megaradiomix.de/megaradiomix-berlin/mp3-192/"
+        },
+        {
             name: "Radio Hamburg",
             logo: "stations/images-europe/germany-hh/Radio Hamburg.png",
             url: "https://frontend.streamonkey.net/rhh-1036"
+        },
+        {
+            name: "Radio Paloma",
+            logo: "stations/images-europe/germany-rbb/Radio Paloma.png",
+            url: "https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage"
+        },
+        {
+            name: "STARSAT RADIO",
+            logo: "stations/images-europe/germany-hh/STARSAT RADIO.png",
+            url: "https://starsat-live.cast.addradio.de/starsat/live/mp3/high/stream.mp3"
+        },
+        {
+            name: "Trigger.FM",
+            logo: "stations/images-europe/germany-hh/Trigger.FM.png",
+            url: "https://hd-radio.triggerfm.de/"
         },
     ],
     "germany-hr": [
@@ -2529,9 +2649,24 @@ var stations = {
             url: "https://streams.radiobob.de/bob-live/mp3-192"
         },
         {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
+        },
+        {
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-hr/Radio TEDDY.png",
             url: "https://streamtdy.ir-media-tec.com/sc-hessen/mp3-128/radioplayer_web/play.mp3"
+        },
+        {
+            name: "Radio Vidovdan",
+            logo: "stations/images-europe/germany-hr/Radio Vidovdan.png",
+            url: "https://solid48.streamupsolutions.com/proxy/vipugplg/stream"
+        },
+        {
+            name: "The Wolf",
+            logo: "stations/images-europe/germany-nds/The Wolf.png",
+            url: "https://streams.radio21.de/thewolf/mp3-192/konsoleplayer"
         },
     ],
     "germany-koeln": [
@@ -2708,6 +2843,11 @@ var stations = {
             logo: "stations/images-europe/germany-ndr/delta radio.png",
             url: "http://streams.deltaradio.de/delta-live/mp3-192/streams.deltaradio.de/"
         },
+        {
+            name: "NORDSEEWELLE",
+            logo: "stations/images-europe/germany-ndr/NORDSEEWELLE.png",
+            url: "https://stream.radio-nordseewelle.de/live/mp3-192/radioplayer"
+        },
     ],
     "germany-nds": [
         {
@@ -2721,14 +2861,44 @@ var stations = {
             url: "https://stream.antenne.com/antenne-nds/mp3-128/radioplayer/"
         },
         {
+            name: "Antenne Schlager",
+            logo: "stations/images-europe/germany-nds/Antenne Schlager.png",
+            url: "https://stream.antenne-schlager.de/schlager-live/mp3-192/web/"
+        },
+        {
+            name: "89.0 RTL",
+            logo: "stations/images-europe/germany-sachsen_anhalt/89.0 RTL.png",
+            url: "http://stream.89.0rtl.de/live/mp3-256"
+        },
+        {
+            name: "bigFM",
+            logo: "stations/images-europe/germany-rp/bigFM.png",
+            url: "https://stream.bigfm.de/niedersachsen/aac-128/homepage/"
+        },
+        {
             name: "ffn",
             logo: "stations/images-europe/germany-ndr/FFN.png",
             url: "https://stream.ffn.de/ffn/mp3-192/;"
         },
         {
+            name: "JAM FM",
+            logo: "stations/images-europe/germany-rbb/JAM FM.png",
+            url: "https://stream.jam.fm/jamfm-live/mp3-128/konsole"
+        },
+        {
             name: "RADIO 21",
             logo: "stations/images-europe/germany-nds/RADIO 21.png",
             url: "https://streams.radio21.de/hannover/mp3-192/web/"
+        },
+        {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
+        },
+        {
+            name: "The Wolf",
+            logo: "stations/images-europe/germany-nds/The Wolf.png",
+            url: "https://streams.radio21.de/thewolf/mp3-192/konsoleplayer"
         },
     ],
     "germany-rbb": [
@@ -2773,6 +2943,11 @@ var stations = {
             url: "https://irmedia.streamabc.net/irm-bbradiolive-mp3-192-2174969"
         },
         {
+            name: "bigFM",
+            logo: "stations/images-europe/germany-rp/bigFM.png",
+            url: "https://stream.bigfm.de/berlin/aac-128/homepage/"
+        },
+        {
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
             url: "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268"
@@ -2793,6 +2968,21 @@ var stations = {
             url: "https://stream.104.6rtl.com/rtl-live/mp3-128/konsole"
         },
         {
+            name: "105'5 Spreeradio",
+            logo: "stations/images-europe/germany-rbb/105'5 Spreeradio.png",
+            url: "https://stream.spreeradio.de/spree-live/mp3-128/konsole/"
+        },
+        {
+            name: "Berliner Rundfunk 91.4",
+            logo: "stations/images-europe/germany-rbb/Berliner Rundfunk 91.4.png",
+            url: "https://stream.berliner-rundfunk.de/brf/mp3-192/homepage/"
+        },
+        {
+            name: "ENERGY Berlin",
+            logo: "stations/images-europe/germany/Energy.png",
+            url: "https://frontend.streamonkey.net/energy-berlin/stream/mp3"
+        },
+        {
             name: "FluxFM 100.6",
             logo: "stations/images-europe/germany-rbb/FluxFM.png",
             url: "http://streams.fluxfm.de/live/mp3-320/audio/"
@@ -2803,9 +2993,49 @@ var stations = {
             url: "https://stream.jam.fm/jamfm-live/mp3-128/konsole"
         },
         {
+            name: "Power Radio",
+            logo: "stations/images-europe/germany-rbb/Power Radio.png",
+            url: "http://stream.power-radio.de:8020/"
+        },
+        {
+            name: "Radio BHeins",
+            logo: "stations/images-europe/germany-rbb/Radio BHeins.png",
+            url: "http://46.163.75.84:8000/;"
+        },
+        {
+            name: "Radio Cottbus",
+            logo: "stations/images-europe/germany-rbb/Radio Cottbus.png",
+            url: "https://radiogroup-stream09.radiohost.de/radio-cottbus_mp3-192"
+        },
+        {
+            name: "Radio Holiday",
+            logo: "stations/images-europe/germany-rbb/Radio Holiday.png",
+            url: "https://radiogroup-stream32.radiohost.de/radio-holiday_mp3-192"
+        },
+        {
+            name: "Radio Paloma",
+            logo: "stations/images-europe/germany-rbb/Radio Paloma.png",
+            url: "https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage"
+        },
+        {
             name: "Radio Paradiso",
             logo: "stations/images-europe/germany-rbb/Radio Paradiso.png",
             url: "https://radio-paradiso.api.radiosphere.io/channels/Radio_Paradiso/stream.aac"
+        },
+        {
+            name: "Radio Potsdam",
+            logo: "stations/images-europe/germany-rbb/Radio Potsdam.png",
+            url: "https://stream.radiogroup.de/radio-potsdam/mp3-192/"
+        },
+        {
+            name: "Schlager Radio",
+            logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
+            url: "https://addrad.io/4454r8d"
+        },
+        {
+            name: "STAR FM",
+            logo: "stations/images-europe/germany-rbb/STAR FM.png",
+            url: "https://stream.starfm.de/national/mp3-192/webseite"
         },
     ],
     "germany-rp": [
@@ -2842,9 +3072,34 @@ var stations = {
             url: "http://mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3"
         },
         {
+            name: "89.0 RTL",
+            logo: "stations/images-europe/germany-sachsen_anhalt/89.0 RTL.png",
+            url: "http://stream.89.0rtl.de/live/mp3-256"
+        },
+        {
+            name: "90s90s Sachsen",
+            logo: "stations/images-europe/germany/90s90s.png",
+            url: "https://streams.90s90s.de/sachsenradio/mp3-128/homepage/"
+        },
+        {
+            name: "Antenne Sachsen",
+            logo: "stations/images-europe/germany-sachsen/Antenne Sachsen.png",
+            url: "https://web.radio.antennesachsen.de/antsa-dresden"
+        },
+        {
+            name: "detektor.fm Wort",
+            logo: "stations/images-europe/germany-sachsen/detektor.fm.png",
+            url: "https://streams.detektor.fm/wort/mp3-256/website-player/"
+        },
+        {
             name: "ENERGY Sachsen",
             logo: "stations/images-europe/germany/Energy.png",
             url: "https://scdn.nrjaudio.fm/adwz1/de/33013/mp3_128.mp3"
+        },
+        {
+            name: "Galaxy Sachsen",
+            logo: "stations/images-europe/germany-sachsen/Galaxy.png",
+            url: "https://frontend.streamonkey.net/fhn-galaxysachsen/stream/mp3"
         },
         {
             name: "Hitradio RTL",
@@ -2852,14 +3107,49 @@ var stations = {
             url: "https://web.radio.hitradio-rtl.de/hrrtl-dresden"
         },
         {
+            name: "JAM FM",
+            logo: "stations/images-europe/germany-rbb/JAM FM.png",
+            url: "https://stream.jam.fm/jamfm-live/mp3-128/konsole"
+        },
+        {
+            name: "Radio Ostrock",
+            logo: "stations/images-europe/germany-sachsen/Radio Ostrock.png",
+            url: "https://stream.radio-ostrock.de/"
+        },
+        {
             name: "Radio PSR",
             logo: "stations/images-europe/germany-sachsen/Radio PSR.png",
             url: "http://streams.radiopsr.de/psr-live/mp3-192/streams.radiopsr.de/"
         },
         {
+            name: "Radio TEDDY",
+            logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
+            url: "https://streamtdy.ir-media-tec.com/sc-san/mp3-128/dmhubweb/"
+        },
+        {
             name: "R.SA",
             logo: "stations/images-europe/germany-sachsen/R.SA.png",
             url: "https://streams.rsa-sachsen.de/rsa-live/mp3-192/homepage/?context=fHA6LTE="
+        },
+        {
+            name: "Rundfunk-Kombinat Sachsen",
+            logo: "stations/images-europe/germany-sachsen/Rundfunk-Kombinat Sachsen.png",
+            url: "https://streaming.fueralle.org/rfk"
+        },
+        {
+            name: "Schlager Radio",
+            logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
+            url: "https://addrad.io/4454r8d"
+        },
+        {
+            name: "SecondRadio",
+            logo: "stations/images-europe/germany-sachsen/SecondRadio.png",
+            url: "https://stream.secondradio.de/"
+        },
+        {
+            name: "STAR FM",
+            logo: "stations/images-europe/germany-rbb/STAR FM.png",
+            url: "https://stream.starfm.de/sachsen/mp3-192/webseite"
         },
     ],
     "germany-sachsen_anhalt": [
@@ -2869,9 +3159,19 @@ var stations = {
             url: "http://mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3"
         },
         {
+            name: "1A Deutsche Hits",
+            logo: "stations/images-europe/germany-sachsen_anhalt/1A Deutsche Hits.png",
+            url: "https://stream.1a-webradio.de/saw-deutsch/mp3-192/Radioplayer1A-de/stream.mp3"
+        },
+        {
             name: "89.0 RTL",
             logo: "stations/images-europe/germany-sachsen_anhalt/89.0 RTL.png",
             url: "http://stream.89.0rtl.de/live/mp3-256"
+        },
+        {
+            name: "89.0 RTL In The Mix",
+            logo: "stations/images-europe/germany-sachsen_anhalt/89.0 RTL In The Mix.jpg",
+            url: "https://stream.89.0rtl.de/mix/mp3-256"
         },
         {
             name: "Radio Brocken",
@@ -2891,9 +3191,39 @@ var stations = {
             url: "https://rsh.streamabc.net/regc-rshlive5331785-mp3-192-8119086"
         },
         {
+            name: "Ostseewelle",
+            logo: "stations/images-europe/germany-mv/Ostseewelle.png",
+            url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
+        },
+        {
+            name: "RADIO 21",
+            logo: "stations/images-europe/germany-nds/RADIO 21.png",
+            url: "https://streams.radio21.de/kiel/mp3-192/konsoleplayer"
+        },
+        {
             name: "Radio BOB!",
             logo: "stations/images-europe/germany-sh/Radio BOB!.png",
             url: "https://streams.radiobob.de/bob-shlive/mp3-192"
+        },
+        {
+            name: "Radio Hamburg",
+            logo: "stations/images-europe/germany-hh/Radio Hamburg.png",
+            url: "https://frontend.streamonkey.net/rhh-1036"
+        },
+        {
+            name: "Radio Wellenrausch",
+            logo: "stations/images-europe/germany-sh/Radio Wellenrausch.png",
+            url: "https://stream.radio-wellenrausch.de/rwrlive/mp3-192/homepage"
+        },
+        {
+            name: "ROCK ANTENNE Hamburg",
+            logo: "stations/images-europe/germany/ROCK ANTENNE.png",
+            url: "https://s6-webradio.rockantenne.hamburg/rockantenne-hamburg/stream/mp3"
+        },
+        {
+            name: "STAR FM",
+            logo: "stations/images-europe/germany-rbb/STAR FM.png",
+            url: "https://stream.starfm.de/national/mp3-192/webseite"
         },
     ],
     "germany-swr": [
@@ -2930,14 +3260,34 @@ var stations = {
             url: "http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3"
         },
         {
+            name: "89.0 RTL",
+            logo: "stations/images-europe/germany-sachsen_anhalt/89.0 RTL.png",
+            url: "http://stream.89.0rtl.de/live/mp3-256"
+        },
+        {
             name: "Antenne Thüringen",
             logo: "stations/images-europe/germany-thueringen/Antenne Thüringen.png",
             url: "https://stream.antennethueringen.de/live/mp3-192/web"
         },
         {
+            name: "Antenne Thüringen Classics",
+            logo: "stations/images-europe/germany-thueringen/Antenne Thüringen Classics.png",
+            url: "https://stream.antennethueringen.de/classics/mp3-192/web"
+        },
+        {
+            name: "Antenne Ostalgie",
+            logo: "stations/images-europe/germany-thueringen/Antenne Ostalgie.png",
+            url: "https://stream.antenneostalgie.de/ostalgie/mp3-192/web"
+        },
+        {
             name: "LandesWelle Thüringen",
             logo: "stations/images-europe/germany-thueringen/LandesWelle Thüringen.png",
             url: "https://stream.landeswelle.de/lwt/mp3-192/web/stream.mp3"
+        },
+        {
+            name: "Radio Holiday",
+            logo: "stations/images-europe/germany-rbb/Radio Holiday.png",
+            url: "https://radiogroup-stream32.radiohost.de/radio-holiday_mp3-192"
         },
         {
             name: "Radio TEDDY",
@@ -2948,6 +3298,11 @@ var stations = {
             name: "radio TOP 40",
             logo: "stations/images-europe/germany-thueringen/radio TOP 40.png",
             url: "https://stream.radiotop40.de/live/mp3-192/web"
+        },
+        {
+            name: "Schlager Radio",
+            logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
+            url: "https://addrad.io/4454r8d"
         },
     ],
     "germany-wdr": [
@@ -2977,14 +3332,34 @@ var stations = {
             url: "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3"
         },
         {
+            name: "1LIVE DIGGI",
+            logo: "stations/images-europe/germany-wdr/1LIVE DIGGI.png",
+            url: "https://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3"
+        },
+        {
             name: "Antenne NRW",
             logo: "stations/images-europe/germany-wdr/Antenne NRW.png",
             url: "https://s8-webradio.antenne.nrw/antenne-nrw/stream"
         },
         {
+            name: "bigFM",
+            logo: "stations/images-europe/germany-rp/bigFM.png",
+            url: "https://stream.bigfm.de/nrw/aac-128/homepage/"
+        },
+        {
             name: "COSMO",
             logo: "stations/images-europe/germany-wdr/COSMO.png",
             url: "https://dispatcher.rndfnk.com/wdr/cosmo/live/mp3/128/stream.mp3"
+        },
+        {
+            name: "ENERGY NRW",
+            logo: "stations/images-europe/germany/Energy.png",
+            url: "https://frontend.streamonkey.net/energy-nrw/stream/mp3"
+        },
+        {
+            name: "harmony.fm",
+            logo: "stations/images-europe/germany-hr/harmony.fm.png",
+            url: "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac"
         },
         {
             name: "kulthitRADIO",
@@ -3000,6 +3375,46 @@ var stations = {
             name: "NRW1",
             logo: "stations/images-europe/germany-wdr/NRW1.png",
             url: "https://nrw1.streamabc.net/92-nrw1-mp3-128-5352676"
+        },
+        {
+            name: "RADIO 21",
+            logo: "stations/images-europe/germany-nds/RADIO 21.png",
+            url: "https://streams.radio21.de/nrw/mp3-192/radioplayer"
+        },
+        {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
+        },
+        {
+            name: "Radio Holiday",
+            logo: "stations/images-europe/germany-rbb/Radio Holiday.png",
+            url: "https://radiogroup-stream32.radiohost.de/radio-holiday_mp3-192"
+        },
+        {
+            name: "Radio Paloma",
+            logo: "stations/images-europe/germany-rbb/Radio Paloma.png",
+            url: "https://stream.silvacast.com/RPLive/mp3-128/RadioPaloma_Homepage"
+        },
+        {
+            name: "Radio Paradiso",
+            logo: "stations/images-europe/germany-rbb/Radio Paradiso.png",
+            url: "https://radio-paradiso.api.radiosphere.io/channels/Radio_Paradiso_NRW/stream.aac"
+        },
+        {
+            name: "Radio TEDDY",
+            logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
+            url: "https://streamtdy.ir-media-tec.com/sc-nrw/mp3-128/dmhubweb/play.mp3"
+        },
+        {
+            name: "Schlager Radio",
+            logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
+            url: "https://addrad.io/4454r8d"
+        },
+        {
+            name: "STAR FM",
+            logo: "stations/images-europe/germany-rbb/STAR FM.png",
+            url: "https://stream.starfm.de/nrw/mp3-192/webseite"
         },
     ],
     "gibraltar": [
@@ -3150,8 +3565,8 @@ var stations = {
             url: "https://icast.connectmedia.hu/5101/live.mp3/"
         },
         {
-            name: "Karc FM",
-            logo: "stations/images-europe/hungary/Karc FM.png",
+            name: "Hír FM",
+            logo: "stations/images-europe/hungary/Hír FM.png",
             url: "https://stream.rcs.revma.com/wevb267khf9uv"
         },
         {
@@ -4270,7 +4685,7 @@ var stations = {
         {
             name: "HIT FM",
             logo: "stations/images-europe/moldova/HIT FM.png",
-            url: "https://stream.hitfm.md:8443/HitFM"
+            url: "https://stream.dixi.md:9443/HitFM"
         },
         {
             name: "Новое Радио Молдова",
@@ -5808,9 +6223,9 @@ var stations = {
             url: "http://locafm02.we4stream.com:8015/live"
         },
         {
-            name: "La Suegra FM 96.7",
-            logo: "stations/images-europe/spain-madrid/La Suegra FM 96.7.png",
-            url: "http://131.153.56.235:9300/;"
+            name: "Diversa Radio 96.7",
+            logo: "stations/images-europe/spain-madrid/Diversa Radio 96.7.png",
+            url: "https://italia.101servicios.com:9060/stream"
         },
         {
             name: "TOP Radio 97.2",
@@ -6599,6 +7014,11 @@ var stations = {
             url: "https://media-ssl.musicradio.com/CapitalUK"
         },
         {
+            name: "Capital Anthems",
+            logo: "stations/images-europe/uk/Capital Anthems.png",
+            url: "https://media-ssl.musicradio.com/CapitalAnthems"
+        },
+        {
             name: "Capital Dance",
             logo: "stations/images-europe/uk/Capital Dance.png",
             url: "https://media-ssl.musicradio.com/CapitalDance"
@@ -6673,11 +7093,11 @@ var stations = {
             logo: "stations/images-europe/uk/Heart 00s.png",
             url: "https://media-ssl.musicradio.com/Heart00s"
         },
-        {
+        /*{
             name: "Heart Xmas",
             logo: "stations/images-europe/uk/Heart Xmas.png",
             url: "https://media-ssl.musicradio.com/HeartXmas"
-        },
+        },*/
         {
             name: "Hits Radio",
             logo: "stations/images-europe/uk/Hits Radio.png",
@@ -6792,6 +7212,11 @@ var stations = {
             name: "Smooth UK",
             logo: "stations/images-europe/uk/Smooth.png",
             url: "https://media-ssl.musicradio.com/SmoothUK"
+        },
+        {
+            name: "Smooth 80s",
+            logo: "stations/images-europe/uk/Smooth 80s.png",
+            url: "https://media-ssl.musicradio.com/Smooth80s"
         },
         {
             name: "Smooth Chill",

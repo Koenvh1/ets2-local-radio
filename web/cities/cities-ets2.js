@@ -2665,6 +2665,14 @@ var cities = [
         "z": "-16704.2"
     },
     {
+        "gameName": "hamburg",
+        "realName": "Hamburg",
+        "country": "germany-sh",
+        "x": "83.6914",
+        "y": "45.7227",
+        "z": "-16704.2"
+    },
+    {
         "gameName": "hameenlinna",
         "realName": "Hämeenlinna",
         "country": "finland",
