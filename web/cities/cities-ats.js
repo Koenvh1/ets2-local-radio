@@ -609,7 +609,7 @@ var country_properties = {
         name: "Fayetteville",
         name_english: "Fayetteville",
         code: "us-ar",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "flagstaff": {
         name: "Flagstaff",
@@ -633,7 +633,7 @@ var country_properties = {
         name: "Fort Smith",
         name_english: "Fort Smith",
         code: "us-ar",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "fort_stockton": {
         name: "Fort Stockton",
@@ -1437,7 +1437,7 @@ var country_properties = {
         name: "Pittsburg",
         name_english: "Pittsburg",
         code: "us-ks",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "salida": {
         name: "Salida",
@@ -4122,7 +4122,7 @@ var cities = [
         "country": "fayetteville_ar",
         "x": "9899.16",
         "y": "70.7656",
-        "z": "15701.6"
+        "z": "14301.6"
     },
     {
         "gameName": "flagstaff",
@@ -9074,7 +9074,7 @@ var country_properties_c2c = {
         name: "Joplin, MO",
         name_english: "Joplin, MO",
         code: "us-mo",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "kirksville_mo": {
         name: "Kirksville, MO",
@@ -9967,7 +9967,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "joplin": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "kirksville_mo": {
         relative_whitenoise: 0.85
@@ -11094,7 +11094,7 @@ var cities_c2c = [
         "country": "joplin",
         "x": "6903.6",
         "y": "130.968",
-        "z": "11188.4"
+        "z": "9488.4"
     },
     {
         "gameName": "kirksville_mo",
