@@ -6603,8 +6603,8 @@ var stations = {
             url: "https://streams.radiomast.io/213c8c53-551e-46fb-af21-e1eda9829ae9"
         },
         {
-            name: "99X",
-            logo: "stations/images-america/durango/99X.png",
+            name: "99.7 Doggy FM",
+            logo: "stations/images-america/durango/99.7 Doggy FM.png",
             url: "https://streams.radiomast.io/db026977-562c-43c1-b98d-1a96a0721312"
         },
         {
