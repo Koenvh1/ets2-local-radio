@@ -4151,7 +4151,7 @@ var cities = [
         "x": "-18600.44",
         "y": "32.62657",
         "z": "33427.64"
-    }
+    },
     {
         "gameName": "rovaniemi",
         "realName": "Rovaniemi",
