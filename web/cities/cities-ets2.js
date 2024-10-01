@@ -4145,6 +4145,14 @@ var cities = [
         "z": "-9135.8"
     },
     {
+        "gameName": "roudant",
+        "realName": "Roudant",
+        "country": "france",
+        "x": "-18600.44",
+        "y": "32.62657",
+        "z": "33427.64"
+    },
+    {
         "gameName": "rovaniemi",
         "realName": "Rovaniemi",
         "country": "finland",
