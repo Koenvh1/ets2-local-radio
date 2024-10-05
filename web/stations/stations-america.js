@@ -1940,7 +1940,7 @@ var stations = {
         {
             name: "SOS Radio 88.3",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "KNLB 90.9",
@@ -6603,8 +6603,8 @@ var stations = {
             url: "https://streams.radiomast.io/213c8c53-551e-46fb-af21-e1eda9829ae9"
         },
         {
-            name: "99.7 Doggy FM",
-            logo: "stations/images-america/durango/99.7 Doggy FM.png",
+            name: "Radio Free Durango 99.7",
+            logo: "stations/images-america/durango/Radio Free Durango 99.7.png",
             url: "https://streams.radiomast.io/db026977-562c-43c1-b98d-1a96a0721312"
         },
         {
@@ -7122,7 +7122,7 @@ var stations = {
         {
             name: "SOS Radio 91.1",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "KUNR 91.5",
@@ -8827,7 +8827,7 @@ var stations = {
         {
             name: "SOS Radio 92.1",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "KJAX 93.5",
@@ -11117,7 +11117,7 @@ var stations = {
         {
             name: "SOS Radio 91.7",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "KUPI Legends 92.5",
@@ -12473,7 +12473,7 @@ var stations = {
         {
             name: "SOS Radio 103.1",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "Jammin' 105.7",
@@ -13081,7 +13081,7 @@ var stations = {
         {
             name: "SOS Radio 90.5",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "91.5 Jazz & More",
@@ -14427,6 +14427,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
         },
         {
+            name: "105.1 KKGO-HD4",
+            logo: "stations/images-america/los_angeles/Go Country Gold AM 1260.png",
+            url: "https://streaming.live365.com/a72131"
+        },
+        {
             name: "Power 106",
             logo: "stations/images-america/los_angeles/Power 106.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC"
@@ -14542,9 +14547,9 @@ var stations = {
 			url: "http://live.rcast.net:9178/stream"
         },
         {
-            name: "K-Mozart 1260",
-            logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC.aac"
+            name: "Go Country Gold AM 1260",
+            logo: "stations/images-america/los_angeles/Go Country Gold AM 1260.png",
+            url: "http://streaming.live365.com/a72131"
         },
         {
             name: "Tu Liga Radio 1330",
@@ -15979,7 +15984,7 @@ var stations = {
         {
             name: "SOS Radio 91.1",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "Effect Radio 91.9",
@@ -18395,7 +18400,7 @@ var stations = {
         {
             name: "SOS Radio 95.3",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "Star 98",
@@ -20551,7 +20556,7 @@ var stations = {
         {
             name: "SOS Radio 99.3",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "KBOW 550",
@@ -20818,7 +20823,7 @@ var stations = {
         {
             name: "SOS Radio 1120",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "1230 The Place",
@@ -23818,7 +23823,7 @@ var stations = {
         {
             name: "SOS Radio 89.9",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "UPR 90.9",
@@ -25036,7 +25041,7 @@ var stations = {
         {
             name: "SOS Radio 90.7",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "BSPR Classical 91.7",
@@ -25732,7 +25737,7 @@ var stations = {
         {
             name: "SOS Radio 88.5",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "K-LOVE 89.5",
@@ -30845,11 +30850,16 @@ var stations_c2c = {
             name: "93.7 K-Country",
             logo: "stations/images-america/c2c/gainesville_fl/93.7 K-Country.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-wogkfmaac-ibc1"
-        },
+        },/* Streaming only because of Hurricane Helene. Magic 101.3 uses the frequency until further notice - 05/10/2024
         {
             name: "R&B 94.1",
             logo: "stations/images-america/c2c/gainesville_fl/R&B 94.1.png",
             url: "http://204.93.186.205/index.php?u=https://ice66.securenetsystems.net/RNB941"
+        },*/
+        {
+            name: "94.1 W231DH",
+            logo: "stations/images-america/c2c/gainesville_fl/Magic 101.3.png",
+            url: "http://204.93.186.205/index.php?u=https://ice66.securenetsystems.net/WTMG"
         },
         {
             name: "GHQ 95.3",
@@ -30930,6 +30940,11 @@ var stations_c2c = {
             name: "PlayFM 105.7",
             logo: "stations/images-america/c2c/gainesville_fl/PlayFM 105.7.png",
             url: "https://ais-sa2.cdnstream1.com/1125_192"
+        },
+        {
+            name: "WDVH 980",
+            logo: "stations/images-america/c2c/gainesville_fl/Magic 101.3.png",
+            url: "http://204.93.186.205/index.php?u=http://ice66.securenetsystems.net/WTMG"
         },
     ],
     "jacksonville": [
@@ -31278,7 +31293,7 @@ var stations_c2c = {
         {
             name: "SOS Radio 90.9",
             logo: "stations/images-america/0_general_logos/SOS Radio.png",
-            url: "https://ic2.sslstream.com/sosnet.mp3"
+            url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
             name: "WKWM 91.5",
@@ -45426,6 +45441,11 @@ var stations_c2c = {
             url: "http://amber.streamguys.com:5275/wtjz"
         },
         {
+            name: "La Candela 105.5",
+            logo: "stations/images-america/c2c/wilmington_nc/La Candela 105.5.png",
+            url: "https://dbc.streamguys1.com/wxqr-fm.aac"
+        },
+        {
             name: "Hope Radio 106.7",
             logo: "stations/images-america/c2c/wilmington_nc/Hope Radio 106.7.png",
             url: "https://carolinachristian.streamguys1.com/HopeRadio"
@@ -46282,6 +46302,11 @@ var stations_c2c = {
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
+            name: "97.7 The Oasis",
+            logo: "stations/images-america/c2c/cincinnati_oh/The Oasis.png",
+            url: "https://ais-sa1.streamon.fm/7643_128k.aac"
+        },
+        {
             name: "Warm 98.5",
             logo: "stations/images-america/c2c/cincinnati_oh/Warm 98.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFMAAC_SC"
@@ -46325,6 +46350,11 @@ var stations_c2c = {
             name: "B-105",
             logo: "stations/images-america/c2c/cincinnati_oh/B-105.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WUBEFMAAC_SC"
+        },
+        {
+            name: "106.7 The Oasis",
+            logo: "stations/images-america/c2c/cincinnati_oh/The Oasis.png",
+            url: "http://ais-sa1.streamon.fm/7643_128k.aac"
         },
         {
             name: "Relevant Radio 106.9",
@@ -50828,9 +50858,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://cromwell-us.streamguys1.com/WQZQAM"
         },
         {
-            name: "Air1 93.7",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            name: "Family Radio 93.7",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
             name: "Hippie Radio 94.5",
