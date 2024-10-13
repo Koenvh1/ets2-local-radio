@@ -4286,11 +4286,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNISFMAAC_SC"
         },
         {
-            name: "KKLX 96.1",
-            logo: "stations/images-america/cody/KKLX 96.1.png",
-            url: "https://ice25.securenetsystems.net/KKLX"
-        },
-        {
             name: "KODI 96.7",
             logo: "stations/images-america/cody/KODI 96.7.png",
             url: "https://ice26.securenetsystems.net/KODI"
@@ -4575,11 +4570,6 @@ var stations = {
             name: "KCME 88.7",
             logo: "stations/images-america/colorado_springs_pueblo/KCME 88.7.png",
             url: "https://ice9.securenetsystems.net/KCME"
-        },
-        {
-            name: "REV 89",
-            logo: "stations/images-america/colorado_springs_pueblo/REV 89.png",
-            url: "https://live.amperwave.net/manifest/coloradosu-ktscfmmp3-ibc1"
         },
         {
             name: "KEPC 89.7",
@@ -5167,13 +5157,8 @@ var stations = {
         {
             name: "KCCT 1150",
             logo: "stations/images-america/corpus_christi/Retro Tejano 104.1.png",
-            url: "https://ice26.securenetsystems.net/KCCTRT"
-        },/*
-        {
-            name: "Sports Radio 1230",
-            logo: "stations/images-america/corpus_christi/Sports Radio.png",
-            url: "http://sc3.spacialnet.com:36000/;stream.mp3"
-        },*/
+            url: "http://ice26.securenetsystems.net/KCCTRT"
+        },
         {
             name: "1360 KKTX",
             logo: "stations/images-america/corpus_christi/1360 KKTX.png",
@@ -24778,8 +24763,8 @@ var stations = {
         },
         {
             name: "106.1 KTGX-HD2",
-            logo: "stations/images-america/tulsa/93.5 The Jet.png",
-            url: "https://stream.revma.ihrhls.com/zc5166"
+            logo: "stations/images-america/tulsa/93.5 The Patriot.png",
+            url: "http://stream.revma.ihrhls.com/zc1921"
         },
         {
             name: "Air1 106.5",
@@ -24794,7 +24779,7 @@ var stations = {
         {
             name: "106.9 KHTT-HD2",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "https://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
         {
             name: "KOSU 107.5",
@@ -24834,7 +24819,7 @@ var stations = {
         {
             name: "1170 News On 6 Now",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
         {
             name: "KRXO 1270",
@@ -58445,7 +58430,7 @@ var stations_alaska = {
             name: "KSKA 91.1",
             logo: "stations/images-america/0_general_logos/AKPR.png",
             url: "https://alaskapublic-live.streamguys1.com/aac-web"
-        },
+        },/*
         {
             name: "KJLP 91.7",
             logo: "stations/images-america/alaska/anchorage/KJLP 91.7.png",
@@ -58465,7 +58450,7 @@ var stations_alaska = {
             name: "KAFC 93.7",
             logo: "stations/images-america/alaska/anchorage/KAFC 93.7.png",
             url: "https://ic2.sslstream.com/kafc-fm"
-        },
+        },*/
         {
             name: "94-7 Alternative Anchorage",
             logo: "stations/images-america/alaska/anchorage/94-7 Alternative Anchorage.png",
@@ -58475,12 +58460,12 @@ var stations_alaska = {
             name: "95.5 The Pass",
             logo: "stations/images-america/alaska/anchorage/95.5 The Pass.png",
             url: "http://knlt.streamguys1.com/live"
-        },
+        },/*
         {
             name: "The Moose 96.3",
             logo: "stations/images-america/alaska/anchorage/The Moose 96.3.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXLWFMAAC_SC"
-        },
+        },*/
         {
             name: "Gold Rush Radio 96.7",
             logo: "stations/images-america/alaska/anchorage/Gold Rush Radio 96.7.png",
@@ -58495,12 +58480,12 @@ var stations_alaska = {
             name: "MAGIC 98.9",
             logo: "stations/images-america/alaska/anchorage/MAGIC 98.9.png",
             url: "https://stream.revma.ihrhls.com/zc3018/hls.m3u8"
-        },
+        },/*
         {
             name: "Q99.7",
             logo: "stations/images-america/alaska/anchorage/Q99.7.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMBQFMAAC_SC"
-        },
+        },*/
         {
             name: "100.5 The Fox",
             logo: "stations/images-america/alaska/anchorage/100.5 The Fox.png",
@@ -58510,12 +58495,12 @@ var stations_alaska = {
             name: "101.3 KGOT",
             logo: "stations/images-america/alaska/anchorage/101.3 KGOT.png",
             url: "https://stream.revma.ihrhls.com/zc2942/hls.m3u8"
-        },
+        },/*
         {
             name: "Classic Hits 102.1",
             logo: "stations/images-america/alaska/anchorage/Classic Hits 102.1.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTMBFMAAC_SC"
-        },
+        },*/
         {
             name: "MIX 103.1",
             logo: "stations/images-america/alaska/anchorage/MIX 103.1.png",
@@ -58570,21 +58555,21 @@ var stations_alaska = {
             name: "650 KENI",
             logo: "stations/images-america/alaska/anchorage/650 KENI.png",
             url: "https://stream.revma.ihrhls.com/zc3014/hls.m3u8"
-        },
+        },/*
         {
             name: "KBYR 700",
             logo: "stations/images-america/alaska/anchorage/KBYR 700.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBYRAMAAC_SC"
-        },
+        },*/
         {
             name: "1020 KVNT",
             logo: "stations/images-america/alaska/anchorage/1020 KVNT.png",
-            url: "https://ic2.sslstream.com/kvnt-am"
+            url: "https://streaming.live365.com/a79875"
         },
         {
             name: "KAGV 1110",
             logo: "stations/images-america/alaska/anchorage/KAGV 1110.png",
-            url: "https://ic1.sslstream.com/kagv-am"
+            url: "https://streaming.live365.com/a18914"
         },
         {
             name: "LifeTalk Radio 1610",
@@ -58719,7 +58704,7 @@ var stations_alaska = {
         {
             name: "KQHE 92.7",
             logo: "stations/images-america/alaska/fairbanks/KQHE 92.7.png",
-            url: "https://listen.mixlr.com/94de87083b6ec577ba75aeaf75b78bb7"
+            url: "https://listen.mixlr.com/f84f1c40dbb1699e62160ed3e9d24441"
         },
         {
             name: "93.5 Chet FM",
@@ -58810,7 +58795,7 @@ var stations_alaska = {
         {
             name: "KIAM 91.9",
             logo: "stations/images-america/alaska/nenana/KIAM 91.9.png",
-            url: "https://ic1.sslstream.com/kiam"
+            url: "https://streaming.live365.com/a07770"
         },
         {
             name: "KNNA 99.1",
@@ -58818,12 +58803,12 @@ var stations_alaska = {
             url: "https://kiyu.streamguys1.com/live"
         },
     ],
-    "prudhoebay": [
+    "prudhoebay": [/*
         {
             name: "88.5 K203BY",
             logo: "stations/images-america/alaska/anchorage/KBYR 700.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBYRAMAAC_SC"
-        },
+        },*/
         {
             name: "KSKA 91.1",
             logo: "stations/images-america/0_general_logos/AKPR.png",
@@ -58832,15 +58817,20 @@ var stations_alaska = {
         {
             name: "KIAM 94.3",
             logo: "stations/images-america/alaska/nenana/KIAM 91.9.png",
-            url: "https://ic1.sslstream.com/kiam"
+            url: "https://streaming.live365.com/a07770"
         },
     ],
     "soldotna": [
         {
+            name: "No stations in Soldotna",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: ""
+        },/*
+        {
             name: "88.5 K203BY",
             logo: "stations/images-america/alaska/anchorage/KBYR 700.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBYRAMAAC_SC"
-        },
+        },*/
     ],
     "valdez": [
         {
