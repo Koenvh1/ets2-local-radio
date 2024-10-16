@@ -37055,6 +37055,11 @@ var stations_c2c = {
             url: "https://lpm.streamguys1.com/wfpk-web"
         },
         {
+            name: "Pure Radio 92.3",
+            logo: "stations/images-america/c2c/louisville_ky/Pure Radio.png",
+            url: "https://ice23.securenetsystems.net/PURELOU"
+        },
+        {
             name: "Real 93.1",
             logo: "stations/images-america/c2c/louisville_ky/REAL 93.1.png",
             url: "https://stream.revma.ihrhls.com/zc981/hls.m3u8"
@@ -37110,11 +37115,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc977/hls.m3u8"
         },
         {
-            name: "Halloween Radio 97.5-HD2",
-            logo: "stations/images-america/c2c/louisville_ky/Halloween Radio 97.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc7001/hls.m3u8"
-        },
-        {
             name: "98.9 KISS FM",
             logo: "stations/images-america/c2c/louisville_ky/98.9 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc3387/hls.m3u8"
@@ -37133,6 +37133,16 @@ var stations_c2c = {
             name: "100.5FM",
             logo: "stations/images-america/c2c/louisville_ky/100.5FM.png",
             url: "https://stream.revma.ihrhls.com/zc973/hls.m3u8"
+        },
+        {
+            name: "100.5 WSDF-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "100.5 WSDF-HD3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Magic 101.3",
@@ -37183,6 +37193,11 @@ var stations_c2c = {
             name: "Mix 106.9",
             logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
             url: "https://stream.rcs.revma.com/276q9hbhz7uvv"
+        },
+        {
+            name: "Pure Radio 106.9-HD2",
+            logo: "stations/images-america/c2c/louisville_ky/Pure Radio.png",
+            url: "http://ice23.securenetsystems.net/PURELOU"
         },
         {
             name: "Classic Rock 107.7",
@@ -37436,8 +37451,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRQQFMAAC_SC"
         },
         {
-            name: "104.1 The Spot",
-            logo: "stations/images-america/c2c/new_orleans_la/104.1 The Spot.png",
+            name: "104.1 The Vibe",
+            logo: "stations/images-america/c2c/baton_rouge_la/104.1 The Vibe.png",
             url: "https://stream.revma.ihrhls.com/zc1041/hls.m3u8"
         },
         {
@@ -37896,9 +37911,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1033/hls.m3u8"
         },
         {
-            name: "ESPN 100.3",
-            logo: "stations/images-america/c2c/new_orleans_la/ESPN 100.3.png",
-            url: "http://64.78.234.165:8000/KLRZ"
+            name: "Wayne 100.3",
+            logo: "stations/images-america/c2c/new_orleans_la/Wayne 100.3.png",
+            url: "http://stream.wayne1003.com/NOLA"
         },
         {
             name: "101.1 WNOE",
@@ -37921,9 +37936,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC_SC"
         },
         {
-            name: "104.1 The Spot",
-            logo: "stations/images-america/c2c/new_orleans_la/104.1 The Spot.png",
-            url: "https://stream.revma.ihrhls.com/zc1041/hls.m3u8"
+            name: "Halloween 103.7",
+            logo: "stations/images-america/c2c/new_orleans_la/Halloween 103.7.png",
+            url: "https://stream.revma.ihrhls.com/zc5170/hls.m3u8"
         },
         {
             name: "Z104.5",
@@ -40981,11 +40996,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5028/hls.m3u8"
         },
         {
-            name: "103.7 The Fox",
-            logo: "stations/images-america/c2c/hattiesburg_ms/103.7 The Fox.png",
-            url: "https://stream.revma.ihrhls.com/zc5170/hls.m3u8"
-        },
-        {
             name: "Rock 104",
             logo: "stations/images-america/c2c/hattiesburg_ms/Rock 104.png",
             url: "http://ice64.securenetsystems.net/WXRR"
@@ -43375,9 +43385,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKJYFMAAC_SC"
         },
         {
-            name: "98.7 ESPN",
-            logo: "stations/images-america/c2c/nyc/98.7 ESPN.png",
-            url: "https://live.amperwave.net/manifest/goodkarma-wepnfmaac-hlsc.m3u8"
+            name: "TJ 98.7",
+            logo: "stations/images-america/c2c/nyc/TJ 98.7.png",
+            url: "https://streaming.live365.com/a39614"
         },
         {
             name: "Star 99.1",
@@ -44800,6 +44810,11 @@ var stations_c2c = {
             url: "https://dbc.streamguys1.com/wkrr-fm.aac"
         },
         {
+            name: "92.7 W224CO",
+            logo: "stations/images-america/c2c/greensboro_nc/WPET.png",
+            url: "https://stream.falconinternet.net:9038/stream"
+        },
+        {
             name: "93.1 The Wolf",
             logo: "stations/images-america/c2c/greensboro_nc/93.1 The Wolf.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wpawfmaac-imc"
@@ -44883,6 +44898,11 @@ var stations_c2c = {
             name: "WZOO 700",
             logo: "stations/images-america/c2c/greensboro_nc/WZOO 700.png",
             url: "http://stream1.mtcstream.com:8500/wzoo"
+        },
+        {
+            name: "WPET 950",
+            logo: "stations/images-america/c2c/greensboro_nc/WPET.png",
+            url: "http://stream.falconinternet.net:9038/stream"
         },
     ],
     "greenville_nc": [
@@ -48380,6 +48400,11 @@ var stations_c2c = {
             name: "92.5 The Answer",
             logo: "stations/images-america/c2c/pittsburgh_pa/92.5 The Answer.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WPGPAMAAC_SC"
+        },
+        {
+            name: "Q92.9",
+            logo: "stations/images-america/c2c/pittsburgh_pa/Q92.9.png",
+            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7216_48k.aac"
         },
         {
             name: "93.7 The Fan",
@@ -52828,8 +52853,8 @@ var stations_c2c = {
         },
         {
             name: "103.7 WXSS-HD2",
-            logo: "stations/images-america/c2c/milwaukee_wi/HOT 105.7.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct//audacy-wxsshd2aac-imc"
+            logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wsspamaac-imc"
         },
         {
             name: "Channel Q 103.7-HD3",
@@ -52847,9 +52872,9 @@ var stations_c2c = {
             url: "http://bustosradio.com:8025/wddw"
         },
         {
-            name: "HOT 105.7",
-            logo: "stations/images-america/c2c/milwaukee_wi/HOT 105.7.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wxsshd2aac-imc"
+            name: "105.7 The Fan",
+            logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-wsspamaac-imc"
         },
         {
             name: "FM106.1",
@@ -52892,9 +52917,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc4245/hls.m3u8"
         },
         {
-            name: "1250 The Fan",
-            logo: "stations/images-america/c2c/milwaukee_wi/1250 The Fan.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wsspamaac-imc"
+            name: "WSSP 1250",
+            logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/manifest/audacy-wsspamaac-imc"
         },
     ],
     "wausau_wi": [
