@@ -31911,8 +31911,8 @@ var stations_c2c = {
             url: "https://ice.zradio.org/h/high.mp3"
         },
         {
-            name: "Éxitos 96.5",
-            logo: "stations/images-america/c2c/orlando_fl/Éxitos 96.5.png",
+            name: "HITS 96.5",
+            logo: "stations/images-america/c2c/orlando_fl/HITS 96.5.png",
             url: "http://204.93.186.205/index.php?u=https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
         },
         {
@@ -37796,14 +37796,19 @@ var stations_c2c = {
             url: "https://lifesongs.streamguys1.com/lifesongs-aac"
         },
         {
+            name: "The Heat 89.1-HD2",
+            logo: "stations/images-america/new_orleans_la/The Heat 89.1-HD2.png",
+            url: "https://lifesongs.streamguys1.com/theheat-aac"
+        },
+        {
             name: "89.9 WWNO",
             logo: "stations/images-america/c2c/new_orleans_la/89.9 WWNO.png",
             url: "https://tektite.streamguys1.com:5145/wwnolive"
         },
         {
             name: "Classical 89.9-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/Classical 89.9-HD2.png",
-            url: "https://tektite.streamguys1.com:5145/wwnoclassical"
+            logo: "stations/images-america/c2c/new_orleans_la/Classical 104.9.png",
+            url: "http://tektite.streamguys1.com:5145/wwnoclassical"
         },
         {
             name: "Jazz 89.9-HD3",
@@ -37819,11 +37824,6 @@ var stations_c2c = {
             name: "WWOZ 90.7",
             logo: "stations/images-america/c2c/new_orleans_la/WWOZ 90.7.png",
             url: "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3"
-        },
-        {
-            name: "WWOZ-2 90.7-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/WWOZ 90.7.png",
-            url: "https://wwoz-sc.streamguys1.com/wwozhd2-hi"
         },
         {
             name: "K-LOVE 91.1",
@@ -37849,11 +37849,6 @@ var stations_c2c = {
             name: "Q93",
             logo: "stations/images-america/c2c/new_orleans_la/Q93.png",
             url: "https://stream.revma.ihrhls.com/zc1037/hls.m3u8"
-        },
-        {
-            name: "All my Jams Top 20 93.3-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/All my Jams Top 20 93.3-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4940/hls.m3u8"
         },
         {
             name: "WTIX 94.3",
@@ -37896,11 +37891,6 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1053/hls.m3u8"
         },
         {
-            name: "The Sweat Hotel with K. Sweat 98.5-HD2",
-            logo: "stations/images-america/c2c/new_orleans_la/The Sweat Hotel with Keith Sweat 98.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6529/hls.m3u8"
-        },
-        {
             name: "WXDR 99.1",
             logo: "stations/images-america/c2c/new_orleans_la/WXDR 99.1.png",
             url: "http://mainstream.djcmedia.com/dolphinradiohigh"
@@ -37909,6 +37899,11 @@ var stations_c2c = {
             name: "99.5 WRNO",
             logo: "stations/images-america/c2c/new_orleans_la/99.5 WRNO.png",
             url: "https://stream.revma.ihrhls.com/zc1033/hls.m3u8"
+        },
+        {
+            name: "99.5 WRNO-HD2",
+            logo: "stations/images-america/c2c/new_orleans_la/Throwback 96.3.png",
+            url: "https://stream.revma.ihrhls.com/zc5873"
         },
         {
             name: "Wayne 100.3",
@@ -37936,14 +37931,19 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC_SC"
         },
         {
-            name: "Halloween 103.7",
-            logo: "stations/images-america/c2c/new_orleans_la/Halloween 103.7.png",
+            name: "Voodoo 103.7",
+            logo: "stations/images-america/c2c/new_orleans_la/Voodoo 103.7.png",
             url: "https://stream.revma.ihrhls.com/zc5170/hls.m3u8"
         },
         {
             name: "Z104.5",
             logo: "stations/images-america/c2c/new_orleans_la/Z104.5.png",
             url: "http://hemnos.cdnstream.com/1428_64"
+        },
+        {
+            name: "Classical 104.9",
+            logo: "stations/images-america/c2c/new_orleans_la/Classical 104.9.png",
+            url: "https://tektite.streamguys1.com:5145/wwnoclassical"
         },
         {
             name: "WWL 105.3",
@@ -48604,9 +48604,9 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WITKFM"
         },
         {
-            name: "Hola Radio 94.9",
-            logo: "stations/images-america/c2c/scranton_pa/Hola Radio.png",
-            url: "https://isrd.internetsolutionsrd.com/8010/stream"
+            name: "Ritmo FM 94.9",
+            logo: "stations/images-america/c2c/scranton_pa/Ritmo FM.png",
+            url: "https://geocom.leanstream.co/WAZLAM"
         },
         {
             name: "Fuzz 96.1",
@@ -48669,9 +48669,24 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
+            name: "103.7 Drake",
+            logo: "stations/images-america/c2c/scranton_pa/103.7 Drake.png",
+            url: "https://ice25.securenetsystems.net/WWRRHD3"
+        },
+        {
             name: "105 The River",
             logo: "stations/images-america/c2c/scranton_pa/105 The River.png",
             url: "https://ice6.securenetsystems.net/WWRR"
+        },
+        {
+            name: "104.9 WWRR-HD2",
+            logo: "stations/images-america/c2c/scranton_pa/Ritmo FM.png",
+            url: "http://geocom.leanstream.co/WAZLAM"
+        },
+        {
+            name: "104.9 WWRR-HD3",
+            logo: "stations/images-america/c2c/scranton_pa/103.7 Drake.png",
+            url: "http://ice25.securenetsystems.net/WWRRHD3"
         },
         {
             name: "Rock 107",
@@ -48682,6 +48697,11 @@ var stations_c2c = {
             name: "590 WARM-AM",
             logo: "stations/images-america/c2c/scranton_pa/Bigfoot Legends 107.7.png",
             url: "http://ice23.securenetsystems.net/WLGD"
+        },
+        {
+            name: "WAZL 730",
+            logo: "stations/images-america/c2c/scranton_pa/Ritmo FM.png",
+            url: "http:///geocom.leanstream.co/WAZLAM"
         },
         {
             name: "JMJ Catholic Radio 750",
