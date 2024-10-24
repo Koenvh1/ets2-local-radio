@@ -2417,7 +2417,7 @@ var stations = {
         {
             name: "99.9 KHIH",
             logo: "stations/images-america/houston/89.3 KSBJ.png",
-            url: "https://ksbj-live.streamguys1.com/ksbj/ksbj.aac"
+            url: "https://ais-sa8.cdnstream1.com/3327_64.aac"
         },
         {
             name: "100.7 The Word",
@@ -10562,7 +10562,7 @@ var stations = {
         {
             name: "89.3 KSBJ",
             logo: "stations/images-america/houston/89.3 KSBJ.png",
-            url: "https://ksbj-live.streamguys1.com/ksbj/ksbj.aac"
+            url: "https://ais-sa8.cdnstream1.com/3327_64.aac"
         },
         {
             name: "90.1 KPFT",
@@ -14087,8 +14087,8 @@ var stations = {
             url: "http://radio.saddleback.edu:8080/stream"
         },
         {
-            name: "Latin Alt 88.5-HD3",
-            logo: "stations/images-america/los_angeles/Latin Alt 88.5-HD3.png",
+            name: "Bilingual Sounds 88.5-HD3",
+            logo: "stations/images-america/los_angeles/Bilingual Sounds 88.5-HD3.png",
             url: "https://stream.885fm.org/2"
         },
         {
@@ -17730,7 +17730,7 @@ var stations = {
         {
             name: "KXBJ 96.9",
             logo: "stations/images-america/houston/89.3 KSBJ.png",
-            url: "https://ksbj-live.streamguys1.com/ksbj/ksbj.aac"
+            url: "https://ais-sa8.cdnstream1.com/3327_64.aac"
         },
         {
             name: "La Raza 101.7",
@@ -40394,6 +40394,11 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc1213/hls.m3u8"
         },
         {
+            name: "Amor 1470",
+            logo: "stations/images-america/c2c/minneapolis_mn/Amor 1470.png",
+            url: "https://us2.maindigitalstream.com/ssl/KMNQ"
+        },
+        {
             name: "Freedom 1570",
             logo: "stations/images-america/c2c/minneapolis_mn/Freedom 1570.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDIZAMAAC_SC"
@@ -46388,6 +46393,11 @@ var stations_c2c = {
             logo: "stations/images-america/c2c/cleveland_oh/The Word.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHKWAMAAC.aac"
         },
+        {
+            name: "La Mega 1300",
+            logo: "stations/images-america/c2c/cleveland_oh/La Mega 1300.png",
+            url: "https://ice6.securenetsystems.net/WLFM"
+        },
     ],
     "columbus_oh": [
         {
@@ -46586,9 +46596,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc3632/hls.m3u8"
         },
         {
-            name: "Joy 107.1",
-            logo: "stations/images-america/c2c/columbus_oh/Joy 107.1.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJYDFMAAC_SC"
+            name: "La Mega 107.1",
+            logo: "stations/images-america/c2c/columbus_oh/La Mega 107.1.png",
+            url: "https://ice41.securenetsystems.net/WVKO"
         },
         {
             name: "Power 107.5",
@@ -50359,9 +50369,9 @@ var stations_c2c = {
             url: "https://stream.rcs.revma.com/0ppbn2sfz7uvv"
         },
         {
-            name: "93.7 W229DO",
-            logo: "stations/images-america/0_general_logos/placeholder.png",
-            url: "https://stream.radiojar.com/su3dq6nuqzuvv"
+            name: "93.7 WVLZ",
+            logo: "stations/images-america/c2c/knoxville_tn/93.7 WVLZ.png",
+            url: "https://stream.radiojar.com/n360xb16a0quv"
         },
         {
             name: "94.3 Jack FM",
@@ -50439,11 +50449,6 @@ var stations_c2c = {
             url: "https://stream.radiojar.com/atuv6c1sv38uv"
         },
         {
-            name: "106.1 VLZ",
-            logo: "stations/images-america/c2c/knoxville_tn/106.1 VLZ.png",
-            url: "https://stream.radiojar.com/n360xb16a0quv"
-        },
-        {
             name: "WIVK 107.7",
             logo: "stations/images-america/c2c/knoxville_tn/WIVK 107.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIVKFMAAC_SC"
@@ -50455,8 +50460,8 @@ var stations_c2c = {
         },
         {
             name: "WSMM 850",
-            logo: "stations/images-america/0_general_logos/placeholder.png",
-            url: "http://stream.radiojar.com/su3dq6nuqzuvv"
+            logo: "stations/images-america/c2c/knoxville_tn/93.7 WVLZ.png",
+            url: "http://stream.radiojar.com/n360xb16a0quv"
         },
         {
             name: "NewsTalk 1490",
