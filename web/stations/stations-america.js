@@ -5483,11 +5483,6 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSKYAMAAC.aac"
         },
         {
-            name: "94.9 KLTY-HD3",
-            logo: "stations/images-america/dallas_fort_worth/The Word 100.7.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC.aac"
-        },
-        {
             name: "New Country 96.3",
             logo: "stations/images-america/dallas_fort_worth/New Country 96.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFMAAC_SC"
@@ -5516,16 +5511,6 @@ var stations = {
             name: "97.9 The Beat",
             logo: "stations/images-america/dallas_fort_worth/97.9 The Beat.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC"
-        },
-        {
-            name: "97.9 KBFB-HD2",
-            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC.aac"
-        },
-        {
-            name: "97.9 KBFB-HD3",
-            logo: "stations/images-america/dallas_fort_worth/La Nueva 106.5.png",
-            url: "http://strm.dal.s02.oneofthebest.org/radio/8070/radio.mp3"
         },
         {
             name: "Luna 98.3",
@@ -25782,28 +25767,13 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7052_32k.aac"
         },
         {
-            name: "104.9 KRMX-HD2",
-            logo: "stations/images-america/waco/Cool 101.3.png",
-            url: "http://ais-sa1.streamon.fm/7044_24k.aac"
-        },
-        {
-            name: "104.9 KRMX-HD3",
-            logo: "stations/images-america/waco/Fox Sports 93.9.png",
-            url: "http://ais-sa1.streamon.fm/7852_128k.aac"
-        },
-        {
-            name: "104.9 KRMX-HD4",
-            logo: "stations/images-america/waco/The Beat 107.3.png",
-            url: "http://ais-sa1.streamon.fm/7045_24k.aac"
-        },
-        {
             name: "US 105",
             logo: "stations/images-america/waco/US 105.png",
             url: "https://live.amperwave.net/manifest/townsquare-kusjfmaac-ibc3"
         },
         {
             name: "B106",
-            logo: "stations/images-america/waco/US 105.png",
+            logo: "stations/images-america/waco/B106.png",
             url: "https://live.amperwave.net/manifest/townsquare-koocfmaac-ibc3"
         },
         {
@@ -25849,7 +25819,7 @@ var stations = {
         {
             name: "NOAA Weather Radio Waco",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/43037"
+            url: "https://wxradio.org/TX-Waco-WXK35"
         },
     ],
     "waldo": [
