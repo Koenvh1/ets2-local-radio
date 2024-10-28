@@ -1560,6 +1560,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
         },
         {
+            name: "Latino 97.1",
+            logo: "stations/images-america/austin/Latino 97.1.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLZT_HD2AAC_SC"
+        },
+        {
             name: "ALT 97.5",
             logo: "stations/images-america/austin/ALT 97.5.png",
             url: "https://stream.revma.ihrhls.com/zc7053/hls.m3u8"
@@ -1653,6 +1658,11 @@ var stations = {
             name: "107.1 La Z",
             logo: "stations/images-america/austin/107.1 La Z.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFMAAC_SC"
+        },
+        {
+            name: "107.1 KLZT-HD2",
+            logo: "stations/images-america/austin/Latino 97.1.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLZT_HD2AAC.aac"
         },
         {
             name: "Amor 107.7",
@@ -14213,7 +14223,7 @@ var stations = {
         },
         {
             name: "98.3 K252FO",
-            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            logo: "stations/images-america/los_angeles/105.1 KKGO-HD2.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
         },
         {
@@ -14322,8 +14332,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
         },
         {
-            name: "K-Mozart 105.1-HD2",
-            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            name: "105.1 KKGO-HD2",
+            logo: "stations/images-america/los_angeles/105.1 KKGO-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
         },
         {
@@ -43365,6 +43375,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC_SC"
         },
         {
+            name: "La Buena 97.1-HD2",
+            logo: "stations/images-america/c2c/nyc/La Buena 97.1-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTHD2AAC_SC"
+        },
+        {
             name: "Mega 97.9",
             logo: "stations/images-america/c2c/nyc/Mega 97.9.png",
             url: "https://liveaudio.lamusica.com/NY_WSKQ_icy"
@@ -43523,6 +43538,11 @@ var stations_c2c = {
             name: "107.5 WBLS",
             logo: "stations/images-america/c2c/nyc/107.5 WBLS.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC_SC"
+        },
+        {
+            name: "Luna 107.5-HD2",
+            logo: "stations/images-america/c2c/nyc/Luna 107.5-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSHD2AAC_SC"
         },
         {
             name: "WFAN 660",
@@ -52832,11 +52852,6 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wmyxhd2aac-imc"
         },
         {
-            name: "100.3 Fonz FM",
-            logo: "stations/images-america/c2c/milwaukee_wi/100.3 Fonz FM.png",
-            url: "http://wzti.streamon.fm:8000/WZTI-48k.aac"
-        },
-        {
             name: "V100.7",
             logo: "stations/images-america/c2c/milwaukee_wi/V100.7.png",
             url: "https://stream.revma.ihrhls.com/zc2673/hls.m3u8"
@@ -52935,6 +52950,11 @@ var stations_c2c = {
             name: "WSSP 1250",
             logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/manifest/audacy-wsspamaac-imc"
+        },
+        {
+            name: "1290 FONZ",
+            logo: "stations/images-america/c2c/milwaukee_wi/1290 FONZ.png",
+            url: "http://wzti.streamon.fm:8000/WZTI-48k.aac"
         },
     ],
     "wausau_wi": [
