@@ -1500,8 +1500,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
-            name: "ACL Radio 93.3-HD2",
-            logo: "stations/images-america/austin/Austin City Limits Radio.png",
+            name: "93.3 KGSR-HD2",
+            logo: "stations/images-america/austin/93.3 KGSR-HD2.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC_SC"
         },
         {
@@ -5380,7 +5380,7 @@ var stations = {
         {
             name: "88.1 indie",
             logo: "stations/images-america/dallas_fort_worth/88.1 indie.png",
-            url: "https://5a8b296144892.streamlock.net/live/radiostation.stream/playlist.m3u8"
+            url: "https://ice41.securenetsystems.net/KNTU"
         },
         {
             name: "88.1 KNTU-HD2",
@@ -5406,6 +5406,11 @@ var stations = {
             name: "89.7 KAWA-HD2",
             logo: "stations/images-america/0_general_logos/Vida Unida.png",
             url: "https://ais-sa8.cdnstream1.com/3336_64.aac"
+        },
+        {
+            name: "Worship 24-7 89.7-HD3",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "http://worship247.streamguys1.com/live-aac-web"
         },
         {
             name: "KERA 90.1",
@@ -5451,6 +5456,11 @@ var stations = {
             name: "Qué Buena 94.1",
             logo: "stations/images-america/dallas_fort_worth/Qué Buena 94.1.png",
             url: "http://204.93.186.205/index.php?u=https://tu.streamguys1.com/klnofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "ya hala.fm 94.1-HD3",
+            logo: "stations/images-america/dallas_fort_worth/ya hala.fm 94.1-HD3.png",
+            url: "https://ice25.securenetsystems.net/KLNOHD4"
         },
         {
             name: "La Mejor 94.1-HD4",
@@ -5508,6 +5518,16 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC"
         },
         {
+            name: "97.9 KBFB-HD2",
+            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC.aac"
+        },
+        {
+            name: "97.9 KBFB-HD3",
+            logo: "stations/images-america/dallas_fort_worth/La Nueva 106.5.png",
+            url: "http://strm.dal.s02.oneofthebest.org/radio/8070/radio.mp3"
+        },
+        {
             name: "Luna 98.3",
             logo: "stations/images-america/dallas_fort_worth/Luna 98.3.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBOCFMAAC_SC"
@@ -5516,6 +5536,11 @@ var stations = {
             name: "98.7 The Spot",
             logo: "stations/images-america/dallas_fort_worth/98.7 The Spot.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kspffmaac-imc"
+        },
+        {
+            name: "98.7 KSPF-HD2",
+            logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct//audacy-krldamaac-imc"
         },
         {
             name: "Zona MX 99.1",
@@ -5543,6 +5568,11 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
+            name: "The Bet 100.3-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+        },
+        {
             name: "The Word 100.7",
             logo: "stations/images-america/dallas_fort_worth/The Word 100.7.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWRDFMAAC_SC"
@@ -5561,6 +5591,11 @@ var stations = {
             name: "Star 102.1",
             logo: "stations/images-america/dallas_fort_worth/Star 102.1.png",
             url: "https://stream.revma.ihrhls.com/zc2815/hls.m3u8"
+        },
+        {
+            name: "Magic 102.1-HD2",
+            logo: "stations/images-america/0_general_logos/Magic.png",
+            url: "https://stream.revma.ihrhls.com/zc10085/hls.m3u8"
         },
         {
             name: "102.5 Radio Luz",
@@ -5603,6 +5638,16 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-krldfmaac-imc"
         },
         {
+            name: "105.3 KRLD-HD2",
+            logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-krldamaac-imc"
+        },
+        {
+            name: "Infinity Sports Network 105.3-HD3",
+            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+        },
+        {
             name: "Smooth R&B 105.7",
             logo: "stations/images-america/dallas_fort_worth/Smooth R&B 105.7.png",
             url: "http://krnb.streamon.fm:8000/KRNB-64k.aac"
@@ -5616,6 +5661,11 @@ var stations = {
             name: "Pride Radio 106.1-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
+            name: "La Nueva 106.5",
+            logo: "stations/images-america/dallas_fort_worth/La Nueva 106.5.png",
+            url: "https://strm.dal.s02.oneofthebest.org/radio/8070/radio.mp3"
         },
         {
             name: "La Ranchera 106.7",
@@ -25732,18 +25782,43 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7052_32k.aac"
         },
         {
+            name: "104.9 KRMX-HD2",
+            logo: "stations/images-america/waco/Cool 101.3.png",
+            url: "http://ais-sa1.streamon.fm/7044_24k.aac"
+        },
+        {
+            name: "104.9 KRMX-HD3",
+            logo: "stations/images-america/waco/Fox Sports 93.9.png",
+            url: "http://ais-sa1.streamon.fm/7852_128k.aac"
+        },
+        {
+            name: "104.9 KRMX-HD4",
+            logo: "stations/images-america/waco/The Beat 107.3.png",
+            url: "http://ais-sa1.streamon.fm/7045_24k.aac"
+        },
+        {
+            name: "US 105",
+            logo: "stations/images-america/waco/US 105.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kusjfmaac-ibc3"
+        },
+        {
+            name: "B106",
+            logo: "stations/images-america/waco/US 105.png",
+            url: "https://live.amperwave.net/manifest/townsquare-koocfmaac-ibc3"
+        },
+        {
             name: "106.7 The Eagle",
             logo: "stations/images-america/waco/106.7 The Eagle.png",
             url: "https://ice42.securenetsystems.net/KIXT"
         },
         {
-            name: "La Mejor 107.3",
-            logo: "stations/images-america/waco/La Mejor 107.3.png",
+            name: "The Beat 107.3",
+            logo: "stations/images-america/waco/The Beat 107.3.png",
             url: "https://ais-sa1.streamon.fm/7045_24k.aac"
         },
         {
-            name: "Power 108",
-            logo: "stations/images-america/waco/Power 108.png",
+            name: "107.9 The Bull",
+            logo: "stations/images-america/waco/107.9 The Bull.png",
             url: "https://ice42.securenetsystems.net/KWPW"
         },
         {
@@ -25755,6 +25830,11 @@ var stations = {
             name: "KTEM 1400",
             logo: "stations/images-america/waco/KTEM 1400.png",
             url: "https://live.amperwave.net/manifest/townsquare-ktemamaac-ibc3"
+        },
+        {
+            name: "KHBR 1560",
+            logo: "stations/images-america/waco/KHBR 1560.png",
+            url: "https://ais-sa1.streamon.fm/7031_32k.aac"
         },
         {
             name: "Kicker Country 1590",
