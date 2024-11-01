@@ -1707,7 +1707,7 @@ var stations = {
         {
             name: "Talk 1370",
             logo: "stations/images-america/austin/Talk 1370.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kjceamaac-imc"
+            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-kjceamaac-imc"
         },
     ],
     "baggs": [
@@ -8785,7 +8785,7 @@ var stations = {
         {
             name: "KFST 860",
             logo: "stations/images-america/fort_stockton/KFST 94.3.png",
-            url: "http://173.193.205.96:7415/stream"
+            url: "http:///173.193.205.96:7415/stream"
         },
         {
             name: "KCKM 1330",
@@ -20995,8 +20995,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kleyfmaac-ibc4"
         },
         {
-            name: "96.1 NOW",
-            logo: "stations/images-america/san_antonio/96.1 NOW.png",
+            name: "Mix 96.1",
+            logo: "stations/images-america/san_antonio/Mix 96.1.png",
             url: "https://stream.revma.ihrhls.com/zc2357/hls.m3u8"
         },
         {
@@ -46611,9 +46611,9 @@ var stations_c2c = {
             url: "https://us2.maindigitalstream.com/ssl/WNKO"
         },
         {
-            name: "La Grande 102.5",
-            logo: "stations/images-america/c2c/columbus_oh/La Grande 102.5.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWLGFMAAC_SC"
+            name: "K-LOVE 102.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "Rewind 103.5",
@@ -47456,7 +47456,7 @@ var stations_c2c = {
         },
         {
             name: "99.9 WXKC-HD2",
-            logo: "stations/images-america/c2c/erie_pa/104.3 The Vibe.png",
+            logo: "stations/images-america/c2c/erie_pa/104.3 The Touch.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXKCHD2AAC.aac"
         },
         {
@@ -47485,8 +47485,8 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8293/hls.m3u8"
         },
         {
-            name: "104.3 The Vibe",
-            logo: "stations/images-america/c2c/erie_pa/104.3 The Vibe.png",
+            name: "104.3 The Touch",
+            logo: "stations/images-america/c2c/erie_pa/104.3 The Touch.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXKCHD2AAC_SC"
         },
         {
