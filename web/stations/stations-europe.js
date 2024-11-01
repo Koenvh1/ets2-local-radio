@@ -681,7 +681,7 @@ var stations = {
         {
             name: "Radio Maria",
             logo: "stations/images-europe/belgium-nl/Radio Maria.png",
-            url: "https://www.radiomaria.be:8443/RadioMaria-96"
+            url: "https://stream.radiomaria.be:8443/RadioMaria-96"
         },
         {
             name: "RTBF Mix",
@@ -2291,7 +2291,7 @@ var stations = {
         {
             name: "ROCK ANTENNE",
             logo: "stations/images-europe/germany/ROCK ANTENNE.png",
-            url: "https://s1-webradio.webradio.de/rockantenne-deutschland"
+            url: "https://s7-webradio.rockantenne.de/rockantenne/stream/mp3"
         },
         {
             name: "RTL Radio",
@@ -2323,17 +2323,17 @@ var stations = {
         {
             name: "Bayern 1",
             logo: "stations/images-europe/germany-br/Bayern 1.png",
-            url: "https://dispatcher.rndfnk.com/br/br1/obb/aac/low"
+            url: "https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid"
         },
         {
             name: "Bayern 2",
             logo: "stations/images-europe/germany-br/Bayern 2.png",
-            url: "https://dispatcher.rndfnk.com/br/br2/live/aac/low"
+            url: "https://dispatcher.rndfnk.com/br/br2/live/mp3/mid"
         },
         {
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
-            url: "https://dispatcher.rndfnk.com/br/br3/live/mp3/low"
+            url: "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid"
         },
         {
             name: "BR Schlager",
@@ -2358,12 +2358,12 @@ var stations = {
         {
             name: "BR24live",
             logo: "stations/images-europe/germany-br/BR24live.png",
-            url: "https://dispatcher.rndfnk.com/br/br24live/live/aac/low"
+            url: "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid"
         },
         {
-            name: "BR Puls",
+            name: "PULS",
             logo: "stations/images-europe/germany-br/BR Puls.png",
-            url: "https://dispatcher.rndfnk.com/br/puls/live/aac/low"
+            url: "https://dispatcher.rndfnk.com/br/puls/live/mp3/mid"
         },
         {
             name: "AFN Bavaria",
@@ -5475,11 +5475,6 @@ var stations = {
             url: "https://live.rockfm.ro/rockfm.aacp"
         },
         {
-            name: "TANĂNANA",
-            logo: "stations/images-europe/romania/TANĂNANA.png",
-            url: "http://live.tananana.ro:8010/stream-48.aac"
-        },
-        {
             name: "Virgin Radio",
             logo: "stations/images-europe/romania/Virgin Radio.png",
             url: "https://astreaming.edi.ro:8443/VirginRadio_aac"
@@ -5780,7 +5775,7 @@ var stations = {
         {
             name: "Radio AS FM",
             logo: "stations/images-europe/serbia/Radio AS FM.png",
-            url: "https://mastermedia.shoutca.st/proxy/radioasfm?mp=/stream"
+            url: "https://asfmonair-masterasfm.radioca.st/stream"
         },
         {
             name: "Radio Lola",
@@ -6083,7 +6078,7 @@ var stations = {
         {
             name: "COPE",
             logo: "stations/images-europe/spain/Cope.png",
-            url: "https://flucast-b05-02.flumotion.com/cope/net2.mp3"
+            url: "https://flucast14-h-cloud.flumotion.com/cope/net1.mp3"
         },
         {
             name: "Europa FM",
@@ -6185,7 +6180,7 @@ var stations = {
         {
             name: "Ucrania FM 87.7",
             logo: "stations/images-europe/spain-madrid/Ucrania FM 87.7.png",
-            url: "https://sonicpanel.globalstream.pro/8084/stream"
+            url: "https://sonicpanel.streaming10.net:8084/stream"
         },
         {
             name: "Pepe Radio 89.3",
@@ -6270,7 +6265,7 @@ var stations = {
         {
             name: "COPE Madrid 106.3",
             logo: "stations/images-europe/spain-madrid/Cope.png",
-            url: "https://flucast-b02-04.flumotion.com/cope/madrid.mp3"
+            url: "https://flucast01-o-cloud.flumotion.com/cope/net1.mp3"
         },
     ],
     "sweden": [

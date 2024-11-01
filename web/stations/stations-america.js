@@ -1527,7 +1527,7 @@ var stations = {
         {
             name: "La Raza 95.1",
             logo: "stations/images-america/austin/La Raza 95.1.png",
-            url: "https://stream.zeno.fm/hp731cepeg8uv"
+            url: "http://stream.zeno.fm/fv4tnyd6vxztv"
         },
         {
             name: "Majic 95.5",
@@ -1573,6 +1573,11 @@ var stations = {
             name: "98.1 KVET",
             logo: "stations/images-america/austin/98.1 KVET.png",
             url: "https://stream.revma.ihrhls.com/zc2185/hls.m3u8"
+        },
+        {
+            name: "Leyendas 98.5",
+            logo: "stations/images-america/austin/Leyendas 98.5.png",
+            url: "https://stream.zeno.fm/spjfd85w0oltv"
         },
         {
             name: "KUTX 98.9",
@@ -1647,7 +1652,12 @@ var stations = {
         {
             name: "104.9 KTXX-FM",
             logo: "stations/images-america/austin/La Raza 95.1.png",
-            url: "http://stream.zeno.fm/hp731cepeg8uv"
+            url: "https://stream.zeno.fm/fv4tnyd6vxztv"
+        },
+        {
+            name: "Romántica 105.3",
+            logo: "stations/images-america/austin/Romántica 105.3.png",
+            url: "https://sonos.norsanmedia.com/romantica_aux"
         },
         {
             name: "Keilah 106.5",
@@ -2342,7 +2352,7 @@ var stations = {
         },
         {
             name: "The Peak 104.1",
-            logo: "stations/images-america/bend/The Peak 104.1.png",
+            logo: "stations/images-america/bend/The Peak 104.1_christmas.png",
             url: "https://live.amperwave.net/direct/horizonbroadcasting-kwpkfmaac-ibc1"
         },
         {
@@ -2608,7 +2618,7 @@ var stations = {
         {
             name: "MoJo 92.5",
             logo: "stations/images-america/billings/MoJo 92.5.png",
-            url: "http://69.146.59.250:8001/0000"
+            url: "http://69.146.59.250:8001/LiteRock"
         },
         {
             name: "94.1 KSKY",
@@ -6241,7 +6251,7 @@ var stations = {
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/denver/Star 101.5.png",
+            logo: "stations/images-america/denver/Star 101.5_christmas.png",
             url: "https://pillar.streamguys1.com/KSRC"
         },
         {
@@ -7776,7 +7786,7 @@ var stations = {
         },
         {
             name: "Hope 107.9",
-            logo: "stations/images-america/eugene/Hope 107.9.png",
+            logo: "stations/images-america/eugene/Hope 107.9_christmas.png",
             url: "https://extramilemedia.streamguys1.com/live"
         },
         {
@@ -8428,7 +8438,7 @@ var stations = {
         },
         {
             name: "Arizona Hope 107.9",
-            logo: "stations/images-america/flagstaff/Arizona Hope 107.9.png",
+            logo: "stations/images-america/flagstaff/Arizona Hope 107.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNOTAMAAC_SC"
         },
         {
@@ -13685,7 +13695,7 @@ var stations = {
         },
         {
             name: "Mix 103.3",
-            logo: "stations/images-america/lincoln/Mix 103.3.png",
+            logo: "stations/images-america/lincoln/Mix 103.3_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
         },
         {
@@ -13750,7 +13760,7 @@ var stations = {
         },
         {
             name: "KLMS 1480",
-            logo: "stations/images-america/lincoln/Mix 103.3.png",
+            logo: "stations/images-america/lincoln/Mix 103.3_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
         },
     ],
@@ -15977,9 +15987,9 @@ var stations = {
             url: "http://www.ophanim.net:7530/stream"
         },
         {
-            name: "Today's Christian Country 98.7",
-            logo: "stations/images-america/missoula/Today's Christian Country 98.7.png",
-            url: "https://stream.aiir.com/d0hfzd5d7xrvv"
+            name: "98.7 The Hawk",
+            logo: "stations/images-america/missoula/98.7 The Hawk.png",
+            url: "https://ice10.securenetsystems.net/MOUNTAIN"
         },
         {
             name: "99.7 KMPT",
@@ -23645,7 +23655,7 @@ var stations = {
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/denver/Star 101.5.png",
+            logo: "stations/images-america/denver/Star 101.5_christmas.png",
             url: "https://pillar.streamguys1.com/KSRC"
         },
         {
@@ -32685,7 +32695,7 @@ var stations_c2c = {
         },
         {
             name: "105.5 WDUV",
-            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV.png",
+            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ad-oom-cmg.streamguys1.com/tam1055/tam1055-sgplayer-aac"
         },
         {
@@ -36917,7 +36927,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 94.5",
-            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5.png",
+            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3552/hls.m3u8"
         },
         {
@@ -43807,7 +43817,7 @@ var stations_c2c = {
         },
         {
             name: "100.7 WHUD",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/100.7 WHUD.png",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/100.7 WHUD_christmas.png",
             url: "https://ais-sa1.streamon.fm/7833_128k.aac"
         },
         {
@@ -46173,7 +46183,7 @@ var stations_c2c = {
         },
         {
             name: "STAR 93.3",
-            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3.png",
+            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3_christmas.png",
             url: "https://pillar2.streamguys1.com/live"
         },
         {
@@ -57305,8 +57315,8 @@ var stations_canada = {
             url: "https://stream.statsradio.com:8150/stream"
         },
         {
-            name: "94.3 NOW! radio",
-            logo: "stations/images-america/canada/winnipeg/94.3 NOW! radio.png",
+            name: "ALT 94.3",
+            logo: "stations/images-america/canada/winnipeg/ALT 94.3.png",
             url: "https://redirect.jpbgdigital.com/CHIQ"
         },
         {
