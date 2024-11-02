@@ -17367,7 +17367,7 @@ var stations = {
         },
         {
             name: "Star 104.5",
-            logo: "stations/images-america/omaha/Star 104.5.png",
+            logo: "stations/images-america/omaha/Star 104.5_christmas.png",
             url: "https://stream.rcs.revma.com/1bpp8ncyu7uvv"
         },
         {
@@ -19838,7 +19838,7 @@ var stations = {
         },
         {
             name: "92.5 The Breeze",
-            logo: "stations/images-america/sacramento/92.5 The Breeze.png",
+            logo: "stations/images-america/sacramento/92.5 The Breeze_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc4366/hls.m3u8"
         },
         {
@@ -30108,7 +30108,7 @@ var stations_c2c = {
         },
         {
             name: "MeTV FM 97.5",
-            logo: "stations/images-america/c2c/tuscaloosa_al/MeTV FM 97.5.png",
+            logo: "stations/images-america/c2c/tuscaloosa_al/MeTV FM 97.5_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wtughd3aac-ibc3"
         },
         {
@@ -34507,7 +34507,7 @@ var stations_c2c = {
         },
         {
             name: "93.9 LITE FM",
-            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM.png",
+            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
         },
         {
@@ -37211,7 +37211,7 @@ var stations_c2c = {
         },
         {
             name: "102.3 The Rose",
-            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose.png",
+            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-wxmafmaac-ibc2"
         },
         {
@@ -37246,7 +37246,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
+            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9_christmas.png",
             url: "https://stream.rcs.revma.com/276q9hbhz7uvv"
         },
         {
@@ -42940,7 +42940,7 @@ var stations_c2c = {
         },
         {
             name: "The New 96.1",
-            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1.png",
+            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wmsxfmaac-ibc3"
         },
         {
@@ -48931,8 +48931,8 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLIFMAAC_SC"
         },
         {
-            name: "HOT 106.3",
-            logo: "stations/images-america/c2c/providence_ri/HOT 106.3.png",
+            name: "106.3 The Wolf",
+            logo: "stations/images-america/c2c/providence_ri/106.3 The Wolf.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKXFMAAC_SC"
         },
         {
