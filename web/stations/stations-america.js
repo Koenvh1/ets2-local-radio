@@ -37961,9 +37961,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc5873"
         },
         {
-            name: "Wayne 100.3",
-            logo: "stations/images-america/c2c/new_orleans_la/Wayne 100.3.png",
-            url: "http://stream.wayne1003.com/NOLA"
+            name: "Streetz 100.3",
+            logo: "stations/images-america/c2c/new_orleans_la/Streetz 100.3.png",
+            url: "https://coreradiostreams.com/NOLA"
         },
         {
             name: "101.1 WNOE",
@@ -51342,7 +51342,7 @@ var stations_c2c = {
         },
         {
             name: "more 96.1",
-            logo: "stations/images-america/c2c/harrisonburg_va/more 96.1.png",
+            logo: "stations/images-america/c2c/harrisonburg_va/more 96.1_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-wmqrfmaac-ibc2"
         },
         {
