@@ -3994,9 +3994,19 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KCHT"
         },*/
         {
+            name: "107 The Zone",
+            logo: "stations/images-america/clinton/107 The Zone.png",
+            url: "http://12416.cloudrad.io:9354/live"
+        },
+        {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+        },
+        {
+            name: "NewsTalk 940",
+            logo: "stations/images-america/amarillo/NewsTalk 940.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kixzamaac-ibc3"
         },/*
         {
             name: "Classic Country 1150",
@@ -11927,7 +11937,7 @@ var stations = {
         },
         {
             name: "KC 102.1",
-            logo: "stations/images-america/kansas_city/KC 102.1.png",
+            logo: "stations/images-america/kansas_city/KC 102.1_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7042_48k.aac"
         },
         {
@@ -18162,7 +18172,7 @@ var stations = {
         },
         {
             name: "99.9 KEZ",
-            logo: "stations/images-america/phoenix/99.9 KEZ.png",
+            logo: "stations/images-america/phoenix/99.9 KEZ_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8"
         },
         {
@@ -18578,7 +18588,7 @@ var stations = {
         },
         {
             name: "K103",
-            logo: "stations/images-america/portland/K103.png",
+            logo: "stations/images-america/portland/K103_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
@@ -18588,7 +18598,7 @@ var stations = {
         },
         {
             name: "104.1 The Fish",
-            logo: "stations/images-america/portland/104.1 The Fish.png",
+            logo: "stations/images-america/portland/104.1 The Fish_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFISFMAAC_SC"
         },
         {
@@ -31040,7 +31050,7 @@ var stations_c2c = {
         },
         {
             name: "easy 102.9",
-            logo: "stations/images-america/c2c/jacksonville_fl/Easy 102.9.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/Easy 102.9_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ad-oom-cmg.streamguys1.com/jac1065/jac1065-sgplayer-aac"
         },
         {
@@ -48749,8 +48759,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
-            name: "103.7 Drake",
-            logo: "stations/images-america/c2c/scranton_pa/103.7 Drake.png",
+            name: "Loud 103.7",
+            logo: "stations/images-america/c2c/scranton_pa/Loud 103.7.png",
             url: "https://ice25.securenetsystems.net/WWRRHD3"
         },
         {
@@ -48765,7 +48775,7 @@ var stations_c2c = {
         },
         {
             name: "104.9 WWRR-HD3",
-            logo: "stations/images-america/c2c/scranton_pa/103.7 Drake.png",
+            logo: "stations/images-america/c2c/scranton_pa/Loud 103.7.png",
             url: "http://ice25.securenetsystems.net/WWRRHD3"
         },
         {
@@ -52877,6 +52887,16 @@ var stations_c2c = {
             url: "http://wldb.streamon.fm:8000/WLDB-48k.aac"
         },
         {
+            name: "93.3 WLDB-HD2",
+            logo: "stations/images-america/c2c/milwaukee_wi/1290 FONZ.png",
+            url: "http://wzti.streamon.fm:8000//WZTI-48k.aac"
+        },
+        {
+            name: "93.3 WLDB-HD3",
+            logo: "stations/images-america/c2c/milwaukee_wi/Froggy 100.3-107.3.png",
+            url: "http:///ais-sa1.streamon.fm/7958_96k.aac"
+        },
+        {
             name: "La Zeta 93.7",
             logo: "stations/images-america/c2c/milwaukee_wi/La Zeta 93.7.png",
             url: "http://bustosradio.com:8026/wddwhd2"
@@ -52915,6 +52935,11 @@ var stations_c2c = {
             name: "MeTV 99.1-HD2",
             logo: "stations/images-america/c2c/milwaukee_wi/MeTV 99.1-HD2.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wmyxhd2aac-imc"
+        },
+        {
+            name: "Froggy 100.3",
+            logo: "stations/images-america/c2c/milwaukee_wi/Froggy 100.3-107.3.png",
+            url: "http://ais-sa1.streamon.fm/7958_96k.aac"
         },
         {
             name: "V100.7",
@@ -52995,6 +53020,11 @@ var stations_c2c = {
             name: "Pure Oldies 106.9",
             logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-wrxsfmaac-ibc2"
+        },
+        {
+            name: "Froggy 107.3",
+            logo: "stations/images-america/c2c/milwaukee_wi/Froggy 100.3-107.3.png",
+            url: "https://ais-sa1.streamon.fm/7958_96k.aac"
         },
         {
             name: "620 WTMJ",
@@ -55446,9 +55476,9 @@ var stations_canada = {
             url: "http://ice7.securenetsystems.net/CJLLFM"
         },
         {
-            name: "LITE 98.5",
-            logo: "stations/images-america/canada/ottawa/LITE 98.5.png",
-            url: "https://evanov.streamb.live/SB00233"
+            name: "Mix 98.5",
+            logo: "stations/images-america/canada/ottawa/Mix 98.5.png",
+            url: "https://torres-media.streamb.live/SB00377"
         },
         {
             name: "CHRI 99.1",
