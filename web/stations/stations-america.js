@@ -25869,7 +25869,7 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
         },
         {
-            name: "99.1 KVMZ",
+            name: "99.1 MAX FM",
             logo: "stations/images-america/el_dorado/106.5 MAX FM.png",
             url: "https://us2.maindigitalstream.com/ssl/KVMZ"
         },
