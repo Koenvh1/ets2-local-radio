@@ -1469,6 +1469,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.7
     },
+    "prescott": {
+        name: "Prescott",
+        name_english: "Prescott",
+        code: "us-ar",
+		relative_radius: 0.7,
+    },
     "presidio": {
         name: "Presidio",
         name_english: "Presidio",
@@ -1953,12 +1959,6 @@ var country_properties = {
         name: "WaKeeney",
         name_english: "WaKeeney",
         code: "us-ks",
-        relative_radius: 0.6
-    },
-    "waldo": {
-        name: "Waldo",
-        name_english: "Waldo",
-        code: "us-ar",
         relative_radius: 0.6
     },
     "wallace": {
@@ -2854,6 +2854,10 @@ var city_properties = {
     "price": {
         relative_whitenoise: 0.85
     },
+    "prescott": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
     "presidio": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
@@ -3121,9 +3125,6 @@ var city_properties = {
     },
     "wakeeney": {
 		relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
-    "waldo": {
         relative_whitenoise: 0.95
     },
     "wallace": {
@@ -5421,6 +5422,22 @@ var cities = [
         "z": "-9222.07"
     },
     {
+        "gameName": "prescott",
+        "realName": "Prescott",
+        "country": "hot_springs",
+        "x": "13246.9",
+        "y": "28.3963",
+        "z": "27396"
+    },
+    {
+        "gameName": "prescott",
+        "realName": "Prescott",
+        "country": "little_rock",
+        "x": "13946.9",
+        "y": "28.3963",
+        "z": "26896"
+    },
+    {
         "gameName": "presidio",
         "realName": "Presidio",
         "country": "ojinaga",
@@ -6171,14 +6188,6 @@ var cities = [
         "x": "-17524.2",
         "y": "70.8681",
         "z": "-567.434"
-    },
-    {
-        "gameName": "waldo",
-        "realName": "Waldo",
-        "country": "waldo",
-        "x": "12446.33",
-        "y": "54.3758",
-        "z": "29427"
     },
     {
         "gameName": "wallace",
