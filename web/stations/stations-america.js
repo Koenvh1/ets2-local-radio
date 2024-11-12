@@ -1877,7 +1877,7 @@ var stations = {
         },
         {
             name: "Sunny 105.3",
-            logo: "stations/images-america/bakersfield/Sunny 105.3.png",
+            logo: "stations/images-america/bakersfield/Sunny 105.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3340/hls.m3u8"
         },
         {
@@ -30716,7 +30716,7 @@ var stations_c2c = {
         },
         {
             name: "98.5 KTK",
-            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK.png",
+            logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wktkfmaac-imc"
         },
         {
@@ -30913,7 +30913,7 @@ var stations_c2c = {
         },
         {
             name: "96.1 WEJZ",
-            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
         },
         {
@@ -31008,7 +31008,7 @@ var stations_c2c = {
         },
         {
             name: "103Q",
-            logo: "stations/images-america/c2c/jacksonville_fl/103Q.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/103Q_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
         },
         {
@@ -33736,7 +33736,7 @@ var stations_c2c = {
         },
         {
             name: "103Q",
-            logo: "stations/images-america/c2c/jacksonville_fl/103Q.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/103Q_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6859/hls.m3u8"
         },
         {
@@ -35314,7 +35314,7 @@ var stations_c2c = {
         },
         {
             name: "103.9 Wayne FM",
-            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM.png",
+            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-wwfwfmaac-ibc1"
         },
         {
@@ -42037,7 +42037,7 @@ var stations_c2c = {
         },
         {
             name: "JoeTown 107.5",
-            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5.png",
+            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5_christmas.png",
             url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
         },
         {
@@ -46049,7 +46049,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 101.7",
-            logo: "stations/images-america/c2c/canton_oh/Sunny 101.7.png",
+            logo: "stations/images-america/c2c/canton_oh/Sunny 101.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3298/hls.m3u8"
         },
         {
@@ -46373,7 +46373,7 @@ var stations_c2c = {
         },
         {
             name: "Majic 105.7",
-            logo: "stations/images-america/c2c/cleveland_oh/Majic 105.7.png",
+            logo: "stations/images-america/c2c/cleveland_oh/Majic 105.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1737/hls.m3u8"
         },
         {
@@ -46480,7 +46480,7 @@ var stations_c2c = {
         },
         {
             name: "93.3 The Bus",
-            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus.png",
+            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1761/hls.m3u8"
         },
         {
@@ -46495,7 +46495,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 95",
-            logo: "stations/images-america/c2c/columbus_oh/Sunny 95.png",
+            logo: "stations/images-america/c2c/columbus_oh/Sunny 95_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-wsnyfmaac-ibc2"
         },
         {
@@ -49510,7 +49510,7 @@ var stations_c2c = {
         },
         {
             name: "104.9 BOB FM",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/104.9 Bob FM.png",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/104.9 Bob FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6871/hls.m3u8"
         },
         {
@@ -57349,7 +57349,7 @@ var stations_canada = {
         },
         {
             name: "KiSS 102.3",
-            logo: "stations/images-america/canada/winnipeg/KiSS 102.3.png",
+            logo: "stations/images-america/canada/winnipeg/KiSS 102.3_christmas.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/win1023.stream/icy"
         },
         {
@@ -58581,7 +58581,7 @@ var stations_alaska = {
         },
         {
             name: "MAGIC 98.9",
-            logo: "stations/images-america/alaska/anchorage/MAGIC 98.9.png",
+            logo: "stations/images-america/alaska/anchorage/MAGIC 98.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3018/hls.m3u8"
         },/*
         {
