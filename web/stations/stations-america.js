@@ -20085,7 +20085,7 @@ var stations = {
         },
         {
             name: "103.1 KKCY-HD2",
-            logo: "stations/images-america/sacramento_colusa/Power 95.5.png",
+            logo: "stations/images-america/sacramento_colusa/95.5 YTO.png",
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice24.securenetsystems.net/KKCYHD2"
         },
         {
@@ -22663,11 +22663,11 @@ var stations = {
         },
         {
             name: "Warm 106.9",
-            logo: "stations/images-america/seattle/Warm 106.9.png",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMFMAAC_SC"
         },
         {
-            name: "Warm Christmas 106.9-HD2",
+            name: "106.9 KRWM-HD2",
             logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMXMASAAC_SC"
         },
@@ -44680,7 +44680,7 @@ var stations_c2c = {
         },
         {
             name: "102.9 The Lake",
-            logo: "stations/images-america/c2c/charlotte_nc/102.9 The Lake.png",
+            logo: "stations/images-america/c2c/charlotte_nc/102.9 The Lake_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1609/hls.m3u8"
         },
         {
