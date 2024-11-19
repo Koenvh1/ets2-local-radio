@@ -10726,7 +10726,7 @@ var stations = {
         },
         {
             name: "SUNNY 99.1",
-            logo: "stations/images-america/houston/SUNNY 99.1.png",
+            logo: "stations/images-america/houston/SUNNY 99.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2273/hls.m3u8"
         },
         {
@@ -24753,7 +24753,7 @@ var stations = {
         },
         {
             name: "100.9 KTSO",
-            logo: "stations/images-america/tulsa/100.9 KTSO.png",
+            logo: "stations/images-america/tulsa/100.9 KTSO_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ice8.securenetsystems.net/KTSO"
         },
         {
@@ -32603,7 +32603,7 @@ var stations_c2c = {
         },
         {
             name: "MIX 100.7",
-            logo: "stations/images-america/c2c/tampa_fl/MIX 100.7.png",
+            logo: "stations/images-america/c2c/tampa_fl/MIX 100.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc689/hls.m3u8"
         },
         {
@@ -33002,7 +33002,7 @@ var stations_c2c = {
         },
         {
             name: "104.7 The Fish",
-            logo: "stations/images-america/c2c/atlanta_ga/104.7 The Fish.png",
+            logo: "stations/images-america/c2c/atlanta_ga/104.7 The Fish_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFSHFMAAC_SC"
         },
         {
@@ -34978,7 +34978,7 @@ var stations_c2c = {
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
@@ -38764,7 +38764,7 @@ var stations_c2c = {
         },
         {
             name: "97.1 WASH-FM",
-            logo: "stations/images-america/c2c/washington_dc/97.1 WASH-FM.png",
+            logo: "stations/images-america/c2c/washington_dc/97.1 WASH-FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2501/hls.m3u8"
         },
         {
@@ -40388,7 +40388,7 @@ var stations_c2c = {
         },
         {
             name: "KOOL 108",
-            logo: "stations/images-america/c2c/minneapolis_mn/Kool 108.png",
+            logo: "stations/images-america/c2c/minneapolis_mn/Kool 108_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1217/hls.m3u8"
         },
         {
@@ -40587,7 +40587,7 @@ var stations_c2c = {
         },
         {
             name: "KOOL 108",
-            logo: "stations/images-america/c2c/minneapolis_mn/Kool 108.png",
+            logo: "stations/images-america/c2c/minneapolis_mn/Kool 108_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1217/hls.m3u8"
         },
         {
@@ -43947,7 +43947,7 @@ var stations_c2c = {
         },
         {
             name: "WARM 101.3",
-            logo: "stations/images-america/c2c/rochester_ny/WARM 101.3.png",
+            logo: "stations/images-america/c2c/rochester_ny/WARM 101.3_christmas.png",
             url: "https://ice23.securenetsystems.net/WRMM"
         },
         {
@@ -47895,7 +47895,7 @@ var stations_c2c = {
         },
         {
             name: "Warm 103.3",
-            logo: "stations/images-america/c2c/lancaster_pa/Warm 103.3.png",
+            logo: "stations/images-america/c2c/lancaster_pa/Warm 103.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WARMFMAAC_SC"
         },
         {
@@ -51034,7 +51034,7 @@ var stations_c2c = {
         },
         {
             name: "Star 92.9",
-            logo: "stations/images-america/c2c/burlington_vt/Star 92.9.png",
+            logo: "stations/images-america/c2c/burlington_vt/Star 92.9_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7789_96k.aac"
         },
         {
@@ -51477,7 +51477,7 @@ var stations_c2c = {
         },
         {
             name: "2WD 101.3",
-            logo: "stations/images-america/c2c/norfolk_va/2WD 101.3.png",
+            logo: "stations/images-america/c2c/norfolk_va/2WD 101.3_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wwdefmaac-imc"
         },
         {
@@ -52784,7 +52784,7 @@ var stations_c2c = {
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
@@ -52980,8 +52980,8 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/goodkarma-wtmjamaac-hlsc.m3u8"
         },
         {
-            name: "The Big 920",
-            logo: "stations/images-america/c2c/milwaukee_wi/The Big 920.png",
+            name: "FOX Sports 920",
+            logo: "stations/images-america/c2c/milwaukee_wi/FOX Sports 920.png",
             url: "https://stream.revma.ihrhls.com/zc2681/hls.m3u8"
         },
         {
