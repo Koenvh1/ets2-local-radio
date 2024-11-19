@@ -36573,7 +36573,7 @@ var stations_c2c = {
         {
             name: "102.7 The Legend",
             logo: "stations/images-america/c2c/liberal_ks/102.7 The Legend.png",
-            url: "https://1.ice1.sslstream.com/kldg_fm.aac"
+            url: "https://streaming.live365.com/a54864"
         },
         {
             name: "KHYM 103.9",
@@ -36588,7 +36588,7 @@ var stations_c2c = {
         {
             name: "B107.5",
             logo: "stations/images-america/c2c/liberal_ks/B107.5.png",
-            url: "https://1.ice1.sslstream.com/kscb_fm.aac"
+            url: "https://streaming.live365.com/a47006"
         },
         {
             name: "1210 KGYN",
