@@ -861,7 +861,7 @@ var stations = {
         },
         {
             name: "Mix 94.1",
-            logo: "stations/images-america/amarillo/Mix 94.1.png",
+            logo: "stations/images-america/amarillo/Mix 94.1_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmxjfmaac-ibc3"
         },
         {
@@ -2627,7 +2627,7 @@ var stations = {
         },
         {
             name: "95.5 Lite FM",
-            logo: "stations/images-america/billings/95.5 Lite FM.png",
+            logo: "stations/images-america/billings/95.5 Lite FM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kchhfmaac-ibc3"
         },
         {
@@ -3754,7 +3754,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
         {
@@ -5340,7 +5340,7 @@ var stations = {
         },
         {
             name: "EZ 980",
-            logo: "stations/images-america/eureka/EZ 95.5.png",
+            logo: "stations/images-america/eureka/EZ 95.5_christmas.png",
             url: "http://eurekaradio.streamguys1.com/live2"
         },
         {
@@ -7873,7 +7873,7 @@ var stations = {
         },
         {
             name: "EZ 95.5",
-            logo: "stations/images-america/eureka/EZ 95.5.png",
+            logo: "stations/images-america/eureka/EZ 95.5_christmas.png",
             url: "https://eurekaradio.streamguys1.com/live2"
         },
         {
@@ -7933,7 +7933,7 @@ var stations = {
         },
         {
             name: "EZ 980",
-            logo: "stations/images-america/eureka/EZ 95.5.png",
+            logo: "stations/images-america/eureka/EZ 95.5_christmas.png",
             url: "http://eurekaradio.streamguys1.com/live2"
         },
         {
@@ -15804,7 +15804,7 @@ var stations = {
         },
         {
             name: "97 Gold",
-            logo: "stations/images-america/midland_odessa/97 Gold.png",
+            logo: "stations/images-america/midland_odessa/97 Gold_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7200_48k.aac"
         },
         {
@@ -18329,7 +18329,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98.png",
+            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
     ],
@@ -21280,7 +21280,7 @@ var stations = {
         },
         {
             name: "The Krush 92.5",
-            logo: "stations/images-america/santa_maria/The Krush 92.5.png",
+            logo: "stations/images-america/santa_maria/The Krush 92.5_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/agmedia28-kkalfmaac-ibc3"
         },
         {
@@ -24970,7 +24970,7 @@ var stations = {
         },
         {
             name: "KOOL 96.5",
-            logo: "stations/images-america/twin_falls/KOOL 96.5.png",
+            logo: "stations/images-america/twin_falls/KOOL 96.5_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-klixfmaac-ibc3"
         },
         {
@@ -34206,7 +34206,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/c2c/bloomington_il/Magic 99.5.png",
+            logo: "stations/images-america/c2c/bloomington_il/Magic 99.5_christmas.png",
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
@@ -35157,7 +35157,7 @@ var stations_c2c = {
         },
         {
             name: "My 105.3",
-            logo: "stations/images-america/c2c/evansville_in/My 105.3.png",
+            logo: "stations/images-america/c2c/evansville_in/My 105.3_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wjltfmaac-ibc3"
         },
         {
@@ -37634,7 +37634,7 @@ var stations_c2c = {
         },
         {
             name: "92.9 The Lake",
-            logo: "stations/images-america/c2c/lake_charles_la/92.9 The Lake.png",
+            logo: "stations/images-america/c2c/lake_charles_la/92.9 The Lake_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-khlafmaac-ibc3"
         },
         {
@@ -38082,7 +38082,7 @@ var stations_c2c = {
         },
         {
             name: "96.5 KVKI",
-            logo: "stations/images-america/c2c/shreveport_la/96.5 KVKI.png",
+            logo: "stations/images-america/c2c/shreveport_la/96.5 KVKI_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvkifmaac-ibc3"
         },
         {
@@ -38435,7 +38435,7 @@ var stations_c2c = {
         },
         {
             name: "94.9 HOM",
-            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM.png",
+            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-whomfmaac-ibc3"
         },
         {
@@ -38971,7 +38971,7 @@ var stations_c2c = {
         },
         {
             name: "Y105",
-            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
+            logo: "stations/images-america/c2c/rochester_mn/Y105_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
         },
         {
@@ -39619,7 +39619,7 @@ var stations_c2c = {
         },
         {
             name: "100.5 The River",
-            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wtrvfmaac-ibc3"
         },
         {
@@ -39751,7 +39751,7 @@ var stations_c2c = {
         },
         {
             name: "99.1 WFMK",
-            logo: "stations/images-america/c2c/lansing_mi/99.1 WFMK.png",
+            logo: "stations/images-america/c2c/lansing_mi/99.1 WFMK_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wfmkfmaac-ibc3"
         },
         {
@@ -39868,7 +39868,7 @@ var stations_c2c = {
         },
         {
             name: "Cars 108",
-            logo: "stations/images-america/c2c/flint_mi/Cars 108.png",
+            logo: "stations/images-america/c2c/flint_mi/Cars 108_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wcrzfmaac-ibc3"
         },
         {
@@ -40475,7 +40475,7 @@ var stations_c2c = {
         },
         {
             name: "Y105",
-            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
+            logo: "stations/images-america/c2c/rochester_mn/Y105_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
         },
         {
@@ -43678,7 +43678,7 @@ var stations_c2c = {
         },
         {
             name: "Star 93.9",
-            logo: "stations/images-america/c2c/oneonta_ny/Star 93.9.png",
+            logo: "stations/images-america/c2c/oneonta_ny/Star 93.9_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wkxzfmaac-imc3"
         },/*
         {
@@ -43740,7 +43740,7 @@ var stations_c2c = {
         },
         {
             name: "94.3 Lite FM",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/94.3 Lite FM.png",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/94.3 Lite FM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wkxpfmaac-ibc3"
         },
         {
@@ -44396,7 +44396,7 @@ var stations_c2c = {
         },
         {
             name: "Lite 98.7",
-            logo: "stations/images-america/c2c/utica_ny/Lite 98.7.png",
+            logo: "stations/images-america/c2c/utica_ny/Lite 98.7_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wlzwfmaac-ibc3"
         },
         {
@@ -47414,7 +47414,7 @@ var stations_c2c = {
         },
         {
             name: "Classy 100",
-            logo: "stations/images-america/c2c/erie_pa/Classy 100.png",
+            logo: "stations/images-america/c2c/erie_pa/Classy 100_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXKCFMAAC_SC"
         },
         {
@@ -50102,7 +50102,7 @@ var stations_c2c = {
         },
         {
             name: "Lite Rock 95.9",
-            logo: "stations/images-america/c2c/cookeville_tn/Lite Rock 95.9.png",
+            logo: "stations/images-america/c2c/cookeville_tn/Lite Rock 95.9_christmas.png",
             url: "http://ice66.securenetsystems.net/WLQK"
         },
         {
@@ -50577,6 +50577,11 @@ var stations_c2c = {
             name: "Bumpin' 96.3",
             logo: "stations/images-america/c2c/memphis_tn/Bumpin' 96.3.png",
             url: "https://securenetg.com/listen/96.3_random_/radio.aac"
+        },
+        {
+            name: "Boost Radio 96.7",
+            logo: "stations/images-america/0_general_logos/Boost Radio.png",
+            url: "https://gateway.cdnstream1.com/boost-live"
         },
         {
             name: "K97.1",
@@ -51201,7 +51206,7 @@ var stations_c2c = {
         },
         {
             name: "94.9 HOM",
-            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM.png",
+            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-whomfmaac-ibc3"
         },
         {
@@ -51771,7 +51776,7 @@ var stations_c2c = {
         },
         {
             name: "Q99",
-            logo: "stations/images-america/c2c/roanoke_va/Q99.png",
+            logo: "stations/images-america/c2c/roanoke_va/Q99_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-q99aac-imc1"
         },
         {
@@ -51898,7 +51903,7 @@ var stations_c2c = {
         },
         {
             name: "Q99",
-            logo: "stations/images-america/c2c/roanoke_va/Q99.png",
+            logo: "stations/images-america/c2c/roanoke_va/Q99_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-q99aac-imc1"
         },
         {
@@ -53541,7 +53546,7 @@ var stations_canada = {
         },
         {
             name: "96.3 The Breeze",
-            logo: "stations/images-america/canada/edmonton/96.3 The Breeze.png",
+            logo: "stations/images-america/canada/edmonton/96.3 The Breeze_christmas.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKRAFM"
         },
         {
@@ -54002,7 +54007,7 @@ var stations_canada = {
         },
         {
             name: "96.5 The Breeze",
-            logo: "stations/images-america/canada/halifax/96.5 The Breeze.png",
+            logo: "stations/images-america/canada/halifax/96.5 The Breeze_christmas.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKULFM"
         },
         {
@@ -54432,7 +54437,7 @@ var stations_canada = {
         },
         {
             name: "104.3 Fresh Radio",
-            logo: "stations/images-america/canada/kingston/104.3 Fresh Radio.png",
+            logo: "stations/images-america/canada/kingston/104.3 Fresh Radio_christmas.png",
             url: "http://live.leanstream.co/CKWSFM"
         },
         {
@@ -54674,7 +54679,7 @@ var stations_canada = {
         },
         {
             name: "103.1 fresh Radio",
-            logo: "stations/images-america/canada/london/103.1 fresh Radio.png",
+            logo: "stations/images-america/canada/london/103.1 fresh Radio_christmas.png",
             url: "https://corus.leanstream.co/CFHKFM"
         },
         {
@@ -55261,7 +55266,7 @@ var stations_canada = {
         },
         {
             name: "101.1 BIG FM",
-            logo: "stations/images-america/canada/orillia/101.1 BIG FM.png",
+            logo: "stations/images-america/canada/orillia/101.1 BIG FM_christmas.png",
             url: "https://corus.leanstream.co/CIQBFM"
         },
         {
@@ -56868,7 +56873,7 @@ var stations_canada = {
         },
         {
             name: "94.1 The Breeze",
-            logo: "stations/images-america/canada/truro/94.1 The Breeze.png",
+            logo: "stations/images-america/canada/truro/94.1 The Breeze_christmas.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CKECFM"
         },
         {
@@ -56995,7 +57000,7 @@ var stations_canada = {
         },
         {
             name: "104.3 The Breeze",
-            logo: "stations/images-america/canada/vancouver/104.3 The Breeze.png",
+            logo: "stations/images-america/canada/vancouver/104.3 The Breeze_christmas.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CHLGFM"
         },
         {
