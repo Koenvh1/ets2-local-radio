@@ -13867,7 +13867,7 @@ var stations = {
         },
         {
             name: "B98.5",
-            logo: "stations/images-america/little_rock/B98.5.png",
+            logo: "stations/images-america/little_rock/B98.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC_SC"
         },
         {
@@ -30218,7 +30218,7 @@ var stations_c2c = {
         },
         {
             name: "Lite 100.5",
-            logo: "stations/images-america/c2c/hartford_ct/Lite 100.5.png",
+            logo: "stations/images-america/c2c/hartford_ct/Lite 100.5_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wrchfmaac-imc"
         },
         {
@@ -30882,19 +30882,9 @@ var stations_c2c = {
             url: "https://stream.revma.ihrhls.com/zc8932"
         },
         {
-            name: "93.3 WJBT-HD3",
-            logo: "stations/images-america/c2c/jacksonville_fl/Jax Country 94.1.png",
-            url: "http://ice42.securenetsystems.net/WSOS"
-        },
-        {
             name: "Relevant Radio 93.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
-        },
-        {
-            name: "Jax Country 94.1",
-            logo: "stations/images-america/c2c/jacksonville_fl/Jax Country 94.1.png",
-            url: "https://ice42.securenetsystems.net/WSOS"
         },
         {
             name: "The Victory 94.7",
@@ -30970,6 +30960,11 @@ var stations_c2c = {
             name: "99.9 Gator Country",
             logo: "stations/images-america/c2c/jacksonville_fl/99.9 Gator Country.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGNEAAC_SC"
+        },
+        {
+            name: "Jax Country 100.3",
+            logo: "stations/images-america/c2c/jacksonville_fl/Jax Country 100.3.png",
+            url: "https://ice42.securenetsystems.net/WSOS"
         },
         {
             name: "The Promise 100.7",
@@ -35501,7 +35496,7 @@ var stations_c2c = {
         },
         {
             name: "B105.7",
-            logo: "stations/images-america/c2c/indianapolis_in/B105.7.png",
+            logo: "stations/images-america/c2c/indianapolis_in/B105.7_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYXBFMAAC_SC"
         },
         {
@@ -38265,9 +38260,9 @@ var stations_c2c = {
             url: "https://ic2.sslstream.com/whmx-fm"
         },
         {
-            name: "94.1 The Wave",
-            logo: "stations/images-america/c2c/bangor_me/94.1 The Wave_christmas.png",
-            url: "https://ais-sa1.streamon.fm/7672_48k.aac"
+            name: "94.1 W231CH",
+            logo: "stations/images-america/c2c/augusta_me/107.9 The Mix.png",
+            url: "http://stream.radio.co/s5c993fa61/listen"
         },
         {
             name: "KISS FM 94.5",
@@ -38280,9 +38275,9 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wwmjfmaac-ibc3"
         },
         {
-            name: "96.1 WGUY",
-            logo: "stations/images-america/c2c/bangor_me/96.1 WGUY.png",
-            url: "https://ais-sa1.streamon.fm/7673_48k.aac"
+            name: "96.1 W241CP",
+            logo: "stations/images-america/c2c/bangor_me/True Country 93.5.png",
+            url: "https://stream.radio.co/s4867e9e93/listen"
         },
         {
             name: "The Bear 97.1",
@@ -38338,6 +38333,11 @@ var stations_c2c = {
             name: "Z107.3",
             logo: "stations/images-america/c2c/bangor_me/Z107.3.png",
             url: "https://live.amperwave.net/manifest/townsquare-wbznfmaac-ibc3"
+        },
+        {
+            name: "1230 WGUY",
+            logo: "stations/images-america/c2c/bangor_me/True Country 93.5.png",
+            url: "http://stream.radio.co/s4867e9e93/listen"
         },
         {
             name: "WDEA AM 1370",
@@ -46104,7 +46104,7 @@ var stations_c2c = {
         },
         {
             name: "1590 WAKR",
-            logo: "stations/images-america/c2c/canton_oh/1590 WAKR.png",
+            logo: "stations/images-america/c2c/canton_oh/1590 WAKR_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC"
         },
     ],
