@@ -59,7 +59,7 @@ var stations = {
         },
         {
             name: "92.1 K221BG",
-            logo: "stations/images-america/seattle/Spirit 105.3.png",
+            logo: "stations/images-america/seattle/Spirit 105.3_christmas.png",
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
@@ -3994,11 +3994,6 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KCHT"
         },*/
         {
-            name: "107 The Zone",
-            logo: "stations/images-america/clinton/107 The Zone.png",
-            url: "http://12416.cloudrad.io:9354/live"
-        },
-        {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
@@ -4175,11 +4170,6 @@ var stations = {
             name: "Power 103.5",
             logo: "stations/images-america/oklahoma_city/Power 103.5.png",
             url: "http://crystalout.surfernetwork.com:8001/KVSP_MP3"
-        },
-        {
-            name: "107 The Zone",
-            logo: "stations/images-america/clinton/107 The Zone.png",
-            url: "http://12416.cloudrad.io:9354/live"
         },
         {
             name: "KADS 1240",
@@ -10021,6 +10011,13 @@ var stations = {
             url: "https://us9.maindigitalstream.com/ssl/969kort"
         },
     ],
+    "granite": [
+        {
+            name: "107 The Zone",
+            logo: "stations/images-america/granite/107 The Zone.png",
+            url: "http://12416.cloudrad.io:9354/live"
+        },
+    ],
     "greatfalls": [
         {
             name: "YPR 89.5",
@@ -11862,7 +11859,7 @@ var stations = {
         },
         {
             name: "94.9 KCMO",
-            logo: "stations/images-america/kansas_city/94.9 KCMO.png",
+            logo: "stations/images-america/kansas_city/94.9 KCMO_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOFMAAC_SC"
         },
         {
@@ -14233,7 +14230,7 @@ var stations = {
         },
         {
             name: "95.9 The Fish",
-            logo: "stations/images-america/los_angeles/95.9 The Fish.png",
+            logo: "stations/images-america/los_angeles/95.9 The Fish_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFSHFMAAC_SC"
         },
         {
@@ -19963,7 +19960,7 @@ var stations = {
         },
         {
             name: "103.9 The Fish",
-            logo: "stations/images-america/sacramento/103.9 The Fish.png",
+            logo: "stations/images-america/sacramento/103.9 The Fish_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKFSFMAAC_SC"
         },
         {
@@ -22633,7 +22630,7 @@ var stations = {
         },
         {
             name: "Spirit 105.3",
-            logo: "stations/images-america/seattle/Spirit 105.3.png",
+            logo: "stations/images-america/seattle/Spirit 105.3_christmas.png",
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
@@ -22861,24 +22858,9 @@ var stations = {
             url: "http://174.127.75.88:8020/live"
         },
         {
-            name: "96.5 KECO",
-            logo: "stations/images-america/clinton/96.5 KECO.png",
-            url: "https://us2.maindigitalstream.com/ssl/KECO"
-        },
-        {
             name: "Legends 98.9",
             logo: "stations/images-america/shamrock/Legends 98.9.png",
             url: "http://96.31.83.94:8003/live"
-        },
-        {
-            name: "101.7 The Zoo",
-            logo: "stations/images-america/clinton/101.7 The Zoo.png",
-            url: "https://ice5.securenetsystems.net/KKZU"
-        },
-        {
-            name: "107 The Zone",
-            logo: "stations/images-america/clinton/107 The Zone.png",
-            url: "http://12416.cloudrad.io:9354/live"
         },
         {
             name: "710 KGNC",
@@ -22889,11 +22871,6 @@ var stations = {
             name: "NewsTalk 940",
             logo: "stations/images-america/amarillo/NewsTalk 940.png",
             url: "https://live.amperwave.net/manifest/townsquare-kixzamaac-ibc3"
-        },
-        {
-            name: "KADS 1240",
-            logo: "stations/images-america/clinton/KADS.png",
-            url: "https://us2.maindigitalstream.com/ssl/KADS"
         },
     ],
     "sheridan": [
@@ -35787,7 +35764,7 @@ var stations_c2c = {
         },
         {
             name: "102.7 WBOW",
-            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW.png",
+            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOWFMAAC_SC"
         },
         {
@@ -41699,7 +41676,7 @@ var stations_c2c = {
         },
         {
             name: "101.5 KPLA",
-            logo: "stations/images-america/c2c/columbia_mo/101.5 KPLA.png",
+            logo: "stations/images-america/c2c/columbia_mo/101.5 KPLA_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC_SC"
         },
         {
@@ -45016,7 +44993,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 103.3",
-            logo: "stations/images-america/c2c/greenville_nc/Magic 103.3.png",
+            logo: "stations/images-america/c2c/greenville_nc/Magic 103.3_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMGVFMAAC_SC"
         },*/
         {

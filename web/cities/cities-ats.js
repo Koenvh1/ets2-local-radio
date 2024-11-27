@@ -743,6 +743,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.6
     },
+    "granite": {
+        name: "Granite",
+        name_english: "Granite",
+        code: "us-ok",
+        relative_radius: 1.0
+    },
     "greatfalls": {
         name: "Great Falls",
         name_english: "Great Falls",
@@ -2452,6 +2458,9 @@ var city_properties = {
     "grangeville": {
         relative_whitenoise: 0.85
     },
+    "granite": {
+        relative_whitenoise: 0.95
+    },
     "greatfalls": {
         relative_whitenoise: 0.85
     },
@@ -3737,7 +3746,7 @@ var cities = [
         "gameName": "clinton",
         "realName": "Clinton",
         "country": "clinton",
-        "x": "-14242.5",
+        "x": "-15042.5",
         "y": "184.33",
         "z": "19340"
     },
@@ -4324,6 +4333,14 @@ var cities = [
         "x": "-77628.2",
         "y": "106.348",
         "z": "-48313.5"
+    },
+    {
+        "gameName": "granite",
+        "realName": "Granite",
+        "country": "granite",
+        "x": "-16042.5",
+        "y": "184.33",
+        "z": "22340"
     },
     {
         "gameName": "greatfalls",
