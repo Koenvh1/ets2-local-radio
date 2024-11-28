@@ -983,12 +983,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
-    "kramer_junction": {
-        name: "Kramer Junction",
-        name_english: "Kramer Junction",
-        code: "us-ca",
-        relative_radius: 0.7
-    },
     "lakeview": {
         name: "Lakeview",
         name_english: "Lakeview",
@@ -1274,6 +1268,12 @@ var country_properties = {
     "modesto": {
         name: "Modesto",
         name_english: "Modesto",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
+    "mojave": {
+        name: "Mojave",
+        name_english: "Mojave",
         code: "us-ca",
         relative_radius: 0.7
     },
@@ -2591,10 +2591,6 @@ var city_properties = {
     "klamath_f": {
         relative_whitenoise: 0.85
     },
-    "kramer_junction": {
-		relative_radius: 0.7,
-        relative_whitenoise: 0.95
-    },
     "lakeview": {
         relative_whitenoise: 0.85
     },
@@ -2750,6 +2746,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "modesto": {
+        relative_whitenoise: 0.95
+    },
+    "mojave": {
+		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "montpelier": {
@@ -4711,22 +4711,6 @@ var cities = [
         "z": "-34541.4"
     },
     {
-        "gameName": "kramer_junction",
-        "realName": "Kramer Junction",
-        "country": "kramer_junction",
-        "x": "-99306",
-        "y": "46.9573",
-        "z": "10385.2"
-    },
-    {
-        "gameName": "kramer_junction",
-        "realName": "Kramer Junction",
-        "country": "barstow",
-        "x": "-99306",
-        "y": "46.9573",
-        "z": "10385.2"
-    },
-    {
         "gameName": "lakeview",
         "realName": "Lakeview",
         "country": "lakeview",
@@ -5149,6 +5133,22 @@ var cities = [
         "x": "-108318",
         "y": "43.0492",
         "z": "-5370.46"
+    },
+    {
+        "gameName": "mojave",
+        "realName": "Mojave",
+        "country": "mojave",
+        "x": "-101533",
+        "y": "56.8314",
+        "z": "10744.1"
+    },
+    {
+        "gameName": "mojave",
+        "realName": "Mojave",
+        "country": "los_angeles",
+        "x": "-101533",
+        "y": "56.8314",
+        "z": "10744.1"
     },
     {
         "gameName": "monterey",
