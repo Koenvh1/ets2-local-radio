@@ -4603,7 +4603,7 @@ var stations = {
         },
         {
             name: "90.9 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
@@ -4683,7 +4683,7 @@ var stations = {
         },
         {
             name: "99.9 KVUU-HD2",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
@@ -5409,7 +5409,7 @@ var stations = {
         },
         {
             name: "89.7 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3144_64.aac"
         },
         {
@@ -6256,7 +6256,7 @@ var stations = {
         },
         {
             name: "101.9 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3147_64.aac"
         },
         {
@@ -8520,7 +8520,7 @@ var stations = {
         },
         {
             name: "93.9 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3147_64.aac"
         },
         {
@@ -18605,7 +18605,7 @@ var stations = {
         },
         {
             name: "105.9 KFBW-HD2",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -23592,7 +23592,7 @@ var stations = {
         },
         {
             name: "93.9 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3147_64.aac"
         },
         {
@@ -25998,7 +25998,7 @@ var stations = {
         },
         {
             name: "90.7 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -26523,7 +26523,7 @@ var stations = {
         },
         {
             name: "100.9 Cherry FM",
-            logo: "stations/images-america/yakima/100.9 Cherry FM.png",
+            logo: "stations/images-america/yakima/100.9 Cherry FM_christmas.png",
             url: "https://ice5.securenetsystems.net/KARY"
         },
         {
@@ -29425,7 +29425,7 @@ var stations_c2c = {
         },
         {
             name: "99.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3151_64.aac"
         },
         {
@@ -29522,7 +29522,7 @@ var stations_c2c = {
     "huntsville_al": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3154_64.aac"
         },
         {
@@ -30357,7 +30357,7 @@ var stations_c2c = {
         },
         {
             name: "WEBE 108",
-            logo: "stations/images-america/c2c/new_haven_ct/WEBE 108.png",
+            logo: "stations/images-america/c2c/new_haven_ct/WEBE 108_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WEBEFMAAC_SC"
         },
         {
@@ -30374,7 +30374,7 @@ var stations_c2c = {
     "port_saint_lucie": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3152_64.aac"
         },
         {
@@ -30551,7 +30551,7 @@ var stations_c2c = {
     "panama_city": [
         {
             name: "88.3 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -31087,7 +31087,7 @@ var stations_c2c = {
     "key_west": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
@@ -31271,7 +31271,7 @@ var stations_c2c = {
     "miami": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
@@ -31608,7 +31608,7 @@ var stations_c2c = {
         },
         {
             name: "95.3 WOLZ-HD2",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
@@ -31663,7 +31663,7 @@ var stations_c2c = {
         },
         {
             name: "100.5 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3156_64.aac"
         },
         {
@@ -32353,7 +32353,7 @@ var stations_c2c = {
     "tallahassee": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3159_64.aac"
         },
         {
@@ -33290,7 +33290,7 @@ var stations_c2c = {
     "macon": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -35069,7 +35069,7 @@ var stations_c2c = {
         },
         {
             name: "91.5 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -36725,7 +36725,7 @@ var stations_c2c = {
     "bowling_green": [
         {
             name: "88.1 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -37166,7 +37166,7 @@ var stations_c2c = {
         },
         {
             name: "105.9 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://wayfm.streamguys1.com/wayi.aac"
         },
         {
@@ -39247,7 +39247,7 @@ var stations_c2c = {
         },
         {
             name: "94.7 WMAS",
-            logo: "stations/images-america/c2c/springfield_ma/94.7 WMAS.png",
+            logo: "stations/images-america/c2c/springfield_ma/94.7 WMAS_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wmasfmaac-imc"
         },
         {
@@ -43286,7 +43286,7 @@ var stations_c2c = {
         },
         {
             name: "93.5 WNVU-HD2",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
@@ -45145,7 +45145,7 @@ var stations_c2c = {
         },
         {
             name: "Mix 101.5",
-            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5.png",
+            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/2748_64.aac"
         },
         {
@@ -48969,7 +48969,7 @@ var stations_c2c = {
         },
         {
             name: "94.3-HD3 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -49019,7 +49019,7 @@ var stations_c2c = {
         },
         {
             name: "101.3 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://wayfm.streamguys1.com/waya.aac"
         },
         {
@@ -50044,7 +50044,7 @@ var stations_c2c = {
     "cookeville_tn": [
         {
             name: "90.5 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -50141,7 +50141,7 @@ var stations_c2c = {
     "jackson_tn": [
         {
             name: "89.3 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
@@ -50684,7 +50684,7 @@ var stations_c2c = {
         },
         {
             name: "88.7 Way FM",
-            logo: "stations/images-america/0_general_logos/Way FM.png",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
             url: "https://wayfm.streamguys1.com/waym.aac"
         },
         {
