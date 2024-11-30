@@ -49319,8 +49319,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wyrdfmaac-imc"
         },
         {
-            name: "Streetz 99.5",
-            logo: "stations/images-america/c2c/greenville_sc/Streetz 99.5.png",
+            name: "Star 99.5",
+            logo: "stations/images-america/c2c/greenville_sc/Star 99.5_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7692_128k.aac"
         },
         {
