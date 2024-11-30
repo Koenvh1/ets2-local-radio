@@ -21291,9 +21291,9 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "Mix 96.7",
-            logo: "stations/images-america/santa_maria/Mix 96.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSYVAAC_SC"
+            name: "KCLU 96.7",
+            logo: "stations/images-america/santa_maria/KCLU 89.7.png",
+            url: "http://kclustream.callutheran.edu/kclump3"
         },
         {
             name: "98.1 KJUG",
