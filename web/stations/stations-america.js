@@ -617,7 +617,7 @@ var stations = {
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/Magic 99.5.png",
+            logo: "stations/images-america/albuquerque/Magic 99.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC_SC"
         },
         {
@@ -1949,7 +1949,7 @@ var stations = {
     "barstow": [
         {
             name: "SOS Radio 88.3",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -7116,7 +7116,7 @@ var stations = {
         },
         {
             name: "SOS Radio 91.1",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -8806,7 +8806,7 @@ var stations = {
         },
         {
             name: "SOS Radio 92.1",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -10051,7 +10051,7 @@ var stations = {
         },
         {
             name: "97.9 The River",
-            logo: "stations/images-america/greatfalls/97.9 The River.png",
+            logo: "stations/images-america/greatfalls/97.9 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvvrfmaac-ibc3"
         },
         {
@@ -10502,7 +10502,7 @@ var stations = {
         },
         {
             name: "105.3 KMTX",
-            logo: "stations/images-america/helena/105.3 KMTX.png",
+            logo: "stations/images-america/helena/105.3 KMTX_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ice8.securenetsystems.net/KMTX"
         },
         {
@@ -11093,7 +11093,7 @@ var stations = {
         },
         {
             name: "SOS Radio 91.7",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -11591,7 +11591,7 @@ var stations = {
         },
         {
             name: "Mix 106.3",
-            logo: "stations/images-america/jonesboro/Mix 106.3.png",
+            logo: "stations/images-america/jonesboro/Mix 106.3_christmas.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/saga-kjbxfmaac-ibc2"
         },
         {
@@ -12444,7 +12444,7 @@ var stations = {
         },
         {
             name: "SOS Radio 103.1",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -12960,7 +12960,7 @@ var stations = {
         },*/
         {
             name: "SOS Radio 90.5",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -15843,7 +15843,7 @@ var stations = {
         },
         {
             name: "SOS Radio 91.1",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -18311,7 +18311,7 @@ var stations = {
         },
         {
             name: "SOS Radio 95.3",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -20097,7 +20097,7 @@ var stations = {
         },
         {
             name: "KUBA 1600",
-            logo: "stations/images-america/sacramento_colusa/KUBA 1600.png",
+            logo: "stations/images-america/sacramento_colusa/KUBA 1600_christmas.png",
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice24.securenetsystems.net/KUBA"
         },
     ],
@@ -20462,7 +20462,7 @@ var stations = {
         },
         {
             name: "SOS Radio 99.3",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -20729,7 +20729,7 @@ var stations = {
         },
         {
             name: "SOS Radio 1120",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -22797,7 +22797,7 @@ var stations = {
         },
         {
             name: "97.9 The River",
-            logo: "stations/images-america/greatfalls/97.9 The River.png",
+            logo: "stations/images-america/greatfalls/97.9 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvvrfmaac-ibc3"
         },
         {
@@ -23669,7 +23669,7 @@ var stations = {
         },
         {
             name: "SOS Radio 89.9",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -24443,7 +24443,7 @@ var stations = {
         },
         {
             name: "94.9 MIXfm",
-            logo: "stations/images-america/tucson/94.9 MIXfm.png",
+            logo: "stations/images-america/tucson/94.9 MIXfm_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFMAAC_SC"
         },
         {
@@ -24892,7 +24892,7 @@ var stations = {
         },
         {
             name: "SOS Radio 90.7",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -25588,7 +25588,7 @@ var stations = {
     "victorville": [
         {
             name: "SOS Radio 88.5",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -31092,7 +31092,7 @@ var stations_c2c = {
         },
         {
             name: "SOS Radio 90.9",
-            logo: "stations/images-america/0_general_logos/SOS Radio.png",
+            logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
@@ -34172,8 +34172,8 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/WZIM"
         },
         {
-            name: "NOW 100.7",
-            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7.png",
+            name: "Christmas 100.7",
+            logo: "stations/images-america/c2c/bloomington_il/NOW 100.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWHXFMAAC_SC"
         },
         {
@@ -40335,7 +40335,7 @@ var stations_c2c = {
         },
         {
             name: "LOVE 105",
-            logo: "stations/images-america/c2c/minneapolis_mn/LOVE 105.png",
+            logo: "stations/images-america/c2c/minneapolis_mn/LOVE 105_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGVXFMAAC_SC"
         },
         {
@@ -49800,7 +49800,7 @@ var stations_c2c = {
         },
         {
             name: "101.9 KELO FM",
-            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC"
         },
         {
@@ -49912,7 +49912,7 @@ var stations_c2c = {
         },
         {
             name: "Sunny 92.3",
-            logo: "stations/images-america/c2c/chattanooga_tn/Sunny 92.3.png",
+            logo: "stations/images-america/c2c/chattanooga_tn/Sunny 92.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDEFFMAAC_SC"
         },
         {
@@ -50622,7 +50622,7 @@ var stations_c2c = {
         },
         {
             name: "104.5 The River",
-            logo: "stations/images-america/c2c/memphis_tn/104.5 The River.png",
+            logo: "stations/images-america/c2c/memphis_tn/104.5 The River_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wrvrfmaac-imc"
         },
         {
@@ -51957,7 +51957,7 @@ var stations_c2c = {
         },
         {
             name: "V100",
-            logo: "stations/images-america/c2c/charleston_wv/V100.png",
+            logo: "stations/images-america/c2c/charleston_wv/V100_christmas.png",
             url: "https://live.amperwave.net/direct/wvradio-wvaffmaac-imc2"
         },
         {
