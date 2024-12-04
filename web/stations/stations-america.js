@@ -104,7 +104,7 @@ var stations = {
         },
         {
             name: "Sunny 102.1",
-            logo: "stations/images-america/aberdeen/Sunny 102.1.png",
+            logo: "stations/images-america/aberdeen/Sunny 102.1_christmas.png",
             url: "https://stream1.noctel.com:7112/KSWW"
         },
         {
@@ -13966,7 +13966,7 @@ var stations = {
         },
         {
             name: "The Peak 98.3",
-            logo: "stations/images-america/longview/The Peak 98.3.png",
+            logo: "stations/images-america/longview/The Peak 98.3_christmas.png",
             url: "https://us9.maindigitalstream.com/ssl/KPPK"
         },
         {
@@ -25842,7 +25842,7 @@ var stations = {
         },
         {
             name: "99.5 The Apple",
-            logo: "stations/images-america/wenatchee/99.5 The Apple.png",
+            logo: "stations/images-america/wenatchee/99.5 The Apple_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kaplfmaac-ibc3"
         },
         {
@@ -34280,7 +34280,7 @@ var stations_c2c = {
         },
         {
             name: "WHMS 97.5",
-            logo: "stations/images-america/c2c/champaign_il/WHMS 97.5.png",
+            logo: "stations/images-america/c2c/champaign_il/WHMS 97.5_christmas.png",
             url: "https://ice25.securenetsystems.net/WHMS"
         },	
         {
@@ -43037,8 +43037,8 @@ var stations_c2c = {
         },
         {
             name: "Magic 106.7",
-            logo: "stations/images-america/c2c/elmira_ny/Magic 106.7.png",
-            url: "http://204.93.186.205/index.php?u=https://ice3.securenetsystems.net/WENYFM"
+            logo: "stations/images-america/c2c/elmira_ny/Magic 106.7_christmas.png",
+            url: "https://ice3.securenetsystems.net/WENYFM"
         },
         {
             name: "WEHH 1600",
@@ -45563,7 +45563,7 @@ var stations_c2c = {
         },
         {
             name: "106.9 The Eagle",
-            logo: "stations/images-america/c2c/fargo_nd/106.9 The Eagle.png",
+            logo: "stations/images-america/c2c/fargo_nd/106.9 The Eagle_christmas.png",
             url: "http://ice9.securenetsystems.net/KEGK"
         },
         {
@@ -48351,7 +48351,7 @@ var stations_c2c = {
         },
         {
             name: "KISS 102.7",
-            logo: "stations/images-america/c2c/williamsport_pa/KISS 102.7.png",
+            logo: "stations/images-america/c2c/williamsport_pa/KISS 102.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2045/hls.m3u8"
         },
         {
