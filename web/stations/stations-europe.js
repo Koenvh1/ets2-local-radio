@@ -5336,6 +5336,59 @@ var stations = {
             url: "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8"
         },
     ],
+    "poland-slask": [
+        {
+            name: "Radio Silesia",
+            logo: "stations/images-europe/poland-slask/Silesia.png",
+            url: "http://s1.slotex.pl:7926/;"
+        },
+        {
+            name: "Radio Fest",
+            logo: "stations/images-europe/poland-slask/Fest.jpg",
+            url: "https://primary.moodyradiostream.org/radiofest"
+        },
+		{
+            name: "Radio 90",
+            logo: "stations/images-europe/poland-slask/R90.png",
+            url: "http://streams.radio90.pl:8000/radio90_96kbps_stereo.mp3"
+        },
+        {
+            name: "Radio Piekary",
+            logo: "stations/images-europe/poland-slask/Piekary.png",
+            url: "http://radio.hosterion.pl:7277/stream"
+        },
+        {
+        	name: "Polskie Radio Katowice",
+        	logo: "stations/images-europe/poland-slask/PR Katowice.jpg",
+        	url: "http://stream4.nadaje.com:9212/radiokatowice"
+        },
+        {
+            name: "Radio Bielsko",
+            logo: "stations/images-europe/poland-slask/Bielsko.png",
+            url: "https://stream.rcs.revma.com/062uq3z3kwzuv"
+        },
+        {
+            name: "Disco Radio",
+            logo: "stations/images-europe/polska-slask/Disco.jpg",
+            url: "http://stream.rcs.revma.com/cvswvmyewzzuv"
+        },
+        {
+            name: "Mega Radio",
+            logo: "stations/images-europe/polska-slask/Mega.png",
+            url: "http://stream.rcs.revma.com/q18ty3qhwzzuv"
+        },
+        {
+            name: "Radio Express 92.3 FM",
+            logo: "stations/images-europe/poland-slask/Radio Express.png",
+            url: "https://n03a-eu.rcs.revma.com/yx6cub73kwzuv?rj-ttl=5&rj-tok=AAABd1NzeJAAPBgTf6jtatNQug"
+        },
+        {
+            name: "Twoja Polska Stacja",
+            logo: "stations/images-europe/poland-slask/TPS.png",
+            url: "https://sluchaj2.radiopark.biz.pl:8443/twojapolskastacja"
+        },
+       
+    ],
     "portugal": [
         {
             name: "Antena 1",

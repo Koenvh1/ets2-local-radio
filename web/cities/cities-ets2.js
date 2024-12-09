@@ -437,6 +437,12 @@ var country_properties = {
         code: "no",
         relative_radius: 1.1,
     },
+    "poland-slask": {
+        name: "Polska [Śląsk]",
+        name_english: "Poland [Silesia]",
+        code: "pl",
+        relative_radius: 0.65,
+    },
     "poland": {
         name: "Polska",
         name_english: "Poland",
@@ -2041,6 +2047,14 @@ var cities = [
         "z": "6348.3"
     },
     {
+        "gameName": "cieszyn",
+        "realName": "Cieszyn",
+        "country": "poland-slask",
+        "x": "29295.3",
+        "y": "128.898",
+        "z": "6348.3"
+    },
+    {
         "gameName": "clermont",
         "realName": "Clermont-Ferrand",
         "country": "france",
@@ -2980,6 +2994,14 @@ var cities = [
         "gameName": "katowice",
         "realName": "Katowice",
         "country": "poland",
+        "x": "30728.8",
+        "y": "144.246",
+        "z": "2458.83"
+    },
+    {
+        "gameName": "katowice",
+        "realName": "Katowice",
+        "country": "poland-slask",
         "x": "30728.8",
         "y": "144.246",
         "z": "2458.83"
