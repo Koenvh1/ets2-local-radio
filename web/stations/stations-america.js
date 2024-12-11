@@ -1801,8 +1801,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/agmedia28-kisvfmaac-ibc3"
         },
         {
-            name: "Energy 95.3",
-            logo: "stations/images-america/bakersfield/Energy 95.3.png",
+            name: "Live 95.3",
+            logo: "stations/images-america/bakersfield/Live 95.3.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kllyfmaac-ibc4"
         },
         {
@@ -11963,6 +11963,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC.aac"
         },
         {
+            name: "103.7 K279BI",
+            logo: "stations/images-america/kansas_city/810 WHB.png",
+            url: "http://live.amperwave.net/manifest/unionbroadcasting-whbamaac-ibc2"
+        },
+        {
             name: "Q104",
             logo: "stations/images-america/kansas_city/Q104.png",
             url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7038_48k.aac"
@@ -16057,7 +16062,7 @@ var stations = {
         },
         {
             name: "K97.5",
-            logo: "stations/images-america/modesto/K97.5.png",
+            logo: "stations/images-america/modesto/K97.5_christmas.png",
             url: "https://ice9.securenetsystems.net/KABX"
         },
         {
@@ -31785,7 +31790,7 @@ var stations_c2c = {
         },
         {
             name: "99.5 WLOV",
-            logo: "stations/images-america/c2c/new_smyrna_beach_fl/99.5 WLOV.png",
+            logo: "stations/images-america/c2c/new_smyrna_beach_fl/99.5 WLOV_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLOVFMAAC_SC"
         },
         {
@@ -35114,7 +35119,7 @@ var stations_c2c = {
         },
         {
             name: "104.1 WIKY",
-            logo: "stations/images-america/c2c/evansville_in/104.1 WIKY.png",
+            logo: "stations/images-america/c2c/evansville_in/104.1 WIKY_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIKYFMAAC_SC"
         },
         {
@@ -37892,7 +37897,7 @@ var stations_c2c = {
         },
         {
             name: "Magic 101.9",
-            logo: "stations/images-america/c2c/new_orleans_la/Magic 101.9.png",
+            logo: "stations/images-america/c2c/new_orleans_la/Magic 101.9_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wlmgfmaac-imc"
         },
         {
@@ -47735,7 +47740,7 @@ var stations_c2c = {
         },
         {
             name: "KOOL 102.9",
-            logo: "stations/images-america/c2c/johnstown_pa/KOOL 102.9.png",
+            logo: "stations/images-america/c2c/johnstown_pa/KOOL 102.9_christmas.png",
             url: "https://ice24.securenetsystems.net/WTRNSPO"
         },
         {
@@ -47775,7 +47780,7 @@ var stations_c2c = {
         },
         {
             name: "1230 WCRO",
-            logo: "stations/images-america/c2c/johnstown_pa/KOOL 102.9.png",
+            logo: "stations/images-america/c2c/johnstown_pa/KOOL 102.9_christmas.png",
             url: "http://ice24.securenetsystems.net/WTRNSPO"
         },
         {
@@ -49487,7 +49492,7 @@ var stations_c2c = {
         },
         {
             name: "Easy 105.9",
-            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9.png",
+            logo: "stations/images-america/c2c/myrtlebeach_sc/Easy 105.9_christmas.png",
             url: "https://ice64.securenetsystems.net/WEZV"
         },
         {

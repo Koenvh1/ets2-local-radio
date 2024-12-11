@@ -285,7 +285,13 @@ var country_properties = {
         name: "Ελλάδα",
         name_english: "Greece",
         code: "gr",
-        relative_radius: 0.8,
+        relative_radius: 1.0,
+    },
+    "greece_crete": {
+        name: "Κρήτη",
+        name_english: "Crete",
+        code: "gr",
+        relative_radius: 1.0,
     },
     "greenland": {
         name: "Kalaallit Nunaat",
@@ -624,7 +630,10 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "ashe": {
-        relative_radius: 0.35,
+        relative_radius: 0.6,
+    },
+    "athens": {
+        relative_radius: 1.2,
     },
     "augustow": {
         relative_radius: 0.5,
@@ -834,9 +843,6 @@ var city_properties = {
     "inderborsky": {
         relative_radius: 1.5,
     },
-    "ioannina": {
-        relative_radius: 1.1,
-    },
     "irun": {
         relative_radius: 0.6,
     },
@@ -869,9 +875,6 @@ var city_properties = {
     },
     "karsamaki": {
         relative_radius: 0.55,
-    },
-    "kastoria": {
-        relative_radius: 0.7,
     },
     "kem": {
         relative_radius: 1.5,
@@ -1473,12 +1476,28 @@ var cities = [
         "z": "-71472.14"
     },
     {
+        "gameName": "argostoli",
+        "realName": "Αργοστόλι",
+        "country": "greece",
+        "x": "41635.2",
+        "y": "58.2891",
+        "z": "71521.2"
+    },
+    {
         "gameName": "arnhem",
         "realName": "Arnhem",
         "country": "netherlands",
         "x": "-14732.1",
         "y": "78.0078",
         "z": "-8798.42"
+    },
+    {
+        "gameName": "athens",
+        "realName": "Αθήνα",
+        "country": "greece",
+        "x": "56730.6",
+        "y": "79.0391",
+        "z": "69993.6"
     },
     {
         "gameName": "augustow",
@@ -2001,6 +2020,14 @@ var cities = [
         "z": "-39573.5"
     },
     {
+        "gameName": "chania",
+        "realName": "Χανιά",
+        "country": "greece_crete",
+        "x": "58022.7",
+        "y": "55",
+        "z": "84933.6"
+    },
+    {
         "gameName": "chelmsford",
         "realName": "Chelmsford",
         "country": "uk",
@@ -2023,6 +2050,14 @@ var cities = [
         "x": "39226.42",
         "y": "19.23",
         "z": "-23167.04"
+    },
+    {
+        "gameName": "chios",
+        "realName": "Χίος",
+        "country": "greece",
+        "x": "66300",
+        "y": "65.1484",
+        "z": "66274.3"
     },
     {
         "gameName": "chisinau",
@@ -2745,6 +2780,14 @@ var cities = [
         "z": "-29882.4"
     },
     {
+        "gameName": "heraklion",
+        "realName": "Ηράκλειο",
+        "country": "greece_crete",
+        "x": "66307",
+        "y": "68.4492",
+        "z": "85699.7"
+    },
+    {
         "gameName": "herning",
         "realName": "Herning",
         "country": "denmark",
@@ -2849,6 +2892,14 @@ var cities = [
         "z": "-59141.8"
     },
     {
+        "gameName": "ioannina",
+        "realName": "Ιωάννινα",
+        "country": "greece",
+        "x": "42243.9",
+        "y": "117.402",
+        "z": "61500.4"
+    },
+    {
         "gameName": "irun",
         "realName": "Irun",
         "country": "spain",
@@ -2921,6 +2972,14 @@ var cities = [
         "z": "-67111.2"
     },
     {
+        "gameName": "kalamata",
+        "realName": "Καλαμάτα",
+        "country": "greece",
+        "x": "50786.1",
+        "y": "47.2227",
+        "z": "77064.9"
+    },
+    {
         "gameName": "kalmar",
         "realName": "Kalmar",
         "country": "sweden",
@@ -2983,6 +3042,14 @@ var cities = [
         "x": "30728.8",
         "y": "144.246",
         "z": "2458.83"
+    },
+    {
+        "gameName": "kavala",
+        "realName": "Καβάλα",
+        "country": "greece",
+        "x": "57735.3",
+        "y": "90.5078",
+        "z": "52360.8"
     },
     {
         "gameName": "keflavik",
@@ -3223,6 +3290,22 @@ var cities = [
         "x": "38652.6",
         "y": "71.7383",
         "z": "-43361"
+    },
+    {
+        "gameName": "lamia",
+        "realName": "Λαμία",
+        "country": "greece",
+        "x": "49889.7",
+        "y": "69.8047",
+        "z": "65483.1"
+    },
+    {
+        "gameName": "larissa",
+        "realName": "Λάρισα",
+        "country": "greece",
+        "x": "50113.6",
+        "y": "87.3086",
+        "z": "62125.7"
     },
     {
         "gameName": "lleida",
@@ -3577,6 +3660,14 @@ var cities = [
         "z": "28982.8"
     },
     {
+        "gameName": "mitilini",
+        "realName": "Μυτιλήνη",
+        "country": "greece",
+        "x": "67458.6",
+        "y": "69.5195",
+        "z": "61970.7"
+    },
+    {
         "gameName": "modena",
         "realName": "Modena",
         "country": "italy",
@@ -3905,6 +3996,14 @@ var cities = [
         "z": "32558.9"
     },
     {
+        "gameName": "patras",
+        "realName": "Πάτρα",
+        "country": "greece",
+        "x": "46684.7",
+        "y": "144.914",
+        "z": "71014.3"
+    },
+    {
         "gameName": "pau",
         "realName": "Pau",
         "country": "france",
@@ -4105,6 +4204,14 @@ var cities = [
         "z": "-98482.6"
     },
     {
+        "gameName": "rhodes",
+        "realName": "Ρόδος",
+        "country": "greece",
+        "x": "77441.7",
+        "y": "51",
+        "z": "76538.8"
+    },
+    {
         "gameName": "rodbyhavn",
         "realName": "Rødbyhavn",
         "country": "denmark",
@@ -4231,14 +4338,6 @@ var cities = [
         "x": "-89796.2",
         "y": "49.3047",
         "z": "-95809.1"
-    },
-    {
-        "gameName": "serres",
-        "realName": "Serres",
-        "country": "greece",
-        "x": "54907",
-        "y": "15",
-        "z": "52123"
     },
     {
         "gameName": "seydis",
@@ -4465,6 +4564,14 @@ var cities = [
         "z": "-26589.28"
     },
     {
+        "gameName": "thessaloniki",
+        "realName": "Θεσσαλονίκη",
+        "country": "greece",
+        "x": "51623.8",
+        "y": "68.1992",
+        "z": "55931.2"
+    },
+    {
         "gameName": "thurso",
         "realName": "Thurso",
         "country": "scotland",
@@ -4527,6 +4634,14 @@ var cities = [
         "x": "10213.52",
         "y": "-6.56",
         "z": "29184.84"
+    },
+    {
+        "gameName": "trikala",
+        "realName": "Τρίκαλα",
+        "country": "greece",
+        "x": "46870",
+        "y": "94.8516",
+        "z": "62412.9"
     },
     {
         "gameName": "trinity",
@@ -6659,14 +6774,6 @@ var cities_pm230 = [
         "z": "-180094"
     },
     {
-        "gameName": "igoumenitsa",
-        "realName": "Ηγουμενίτσα (Igoumenitsa)",
-        "country": "greece",
-        "x": "38396.6",
-        "y": "5",
-        "z": "62930"
-    },
-    {
         "gameName": "jaca",
         "realName": "Jaca",
         "country": "spain",
@@ -6755,14 +6862,6 @@ var cities_pm230 = [
         "z": "-26313.9"
     },
     {
-        "gameName": "ptolemaida",
-        "realName": "Πτολεμαΐδα (Ptolemaida)",
-        "country": "greece",
-        "x": "45843.1",
-        "y": "108.613",
-        "z": "57175.8"
-    },
-    {
         "gameName": "skelleftea",
         "realName": "Skellefteå",
         "country": "sweden",
@@ -6785,14 +6884,6 @@ var cities_pm230 = [
         "x": "-54139.6",
         "y": "131.977",
         "z": "52141.6"
-    },
-    {
-        "gameName": "thessaloniki",
-        "realName": "Θεσσαλονίκη (Thessaloniki)",
-        "country": "greece",
-        "x": "51321.4",
-        "y": "58.9805",
-        "z": "55408"
     },
     {
         "gameName": "ukmerge",
@@ -6846,14 +6937,6 @@ var cities_pm230 = [
 
 var cities_pm240 = [
     {
-        "gameName": "alexandroup",
-        "realName": "Αλεξανδρούπολη",
-        "country": "greece",
-        "x": "64523.3",
-        "y": "72",
-        "z": "53170.4"
-    },
-    {
         "gameName": "gusev",
         "realName": "Гусев",
         "country": "russia",
@@ -6868,14 +6951,6 @@ var cities_pm240 = [
         "x": "-43473.4",
         "y": "136.129",
         "z": "-34247.8"
-    },
-    {
-        "gameName": "kavala",
-        "realName": "Καβάλα",
-        "country": "greece",
-        "x": "58022",
-        "y": "50",
-        "z": "52222"
     },
     {
         "gameName": "ljugarn",
@@ -7023,14 +7098,6 @@ var cities_pm245 = [
         "x": "46031.3",
         "y": "150.387",
         "z": "15033.6"
-    },
-    {
-        "gameName": "serres",
-        "realName": "Σέρρες",
-        "country": "greece",
-        "x": "54906.5",
-        "y": "55",
-        "z": "52142.8"
     },
     {
         "gameName": "sodankyla",
@@ -9253,14 +9320,6 @@ var cities_italy_map = [
         "z": "35401.5"
     },
     {
-        "gameName": "ioannina",
-        "realName": "Ιωάννινα (Ioannina)",
-        "country": "greece",
-        "x": "41553",
-        "y": "23",
-        "z": "62263"
-    },
-    {
         "gameName": "laspezia",
         "realName": "La Spezia",
         "country": "italy",
@@ -9611,14 +9670,6 @@ var cities_tsm = [
         "z": "49536.4"
     },
     {
-        "gameName": "athen",
-        "realName": "Athina",
-        "country": "greece",
-        "x": "59718.7",
-        "y": "71.6016",
-        "z": "69052.3"
-    },
-    {
         "gameName": "badajoz",
         "realName": "Badajoz",
         "country": "spain",
@@ -9635,14 +9686,6 @@ var cities_tsm = [
         "z": "33688.8"
     },
     {
-        "gameName": "chania",
-        "realName": "Chania",
-        "country": "greece",
-        "x": "62940.7",
-        "y": "102.695",
-        "z": "83131.3"
-    },
-    {
         "gameName": "coimbra",
         "realName": "Coimbra",
         "country": "portugal",
@@ -9657,14 +9700,6 @@ var cities_tsm = [
         "x": "-74352",
         "y": "82.9922",
         "z": "61483"
-    },
-    {
-        "gameName": "drama",
-        "realName": "Drama",
-        "country": "greece",
-        "x": "57259.4",
-        "y": "93.1523",
-        "z": "49602.2"
     },
     {
         "gameName": "evora",
@@ -9697,54 +9732,6 @@ var cities_tsm = [
         "x": "-70228",
         "y": "81.6133",
         "z": "29264"
-    },
-    {
-        "gameName": "iraklio",
-        "realName": "Iraklio",
-        "country": "greece",
-        "x": "68872.2",
-        "y": "84.1797",
-        "z": "83772"
-    },
-    {
-        "gameName": "kalamata",
-        "realName": "Kalamata",
-        "country": "greece",
-        "x": "51014.4",
-        "y": "232.367",
-        "z": "75593.7"
-    },
-    {
-        "gameName": "kastoria",
-        "realName": "Kastoria",
-        "country": "greece",
-        "x": "44999.3",
-        "y": "92.168",
-        "z": "55879.3"
-    },
-    {
-        "gameName": "kozani",
-        "realName": "Kozani",
-        "country": "greece",
-        "x": "47214.1",
-        "y": "125.688",
-        "z": "60387.1"
-    },
-    {
-        "gameName": "lamia",
-        "realName": "Lamia",
-        "country": "greece",
-        "x": "50984.3",
-        "y": "120.508",
-        "z": "64036.5"
-    },
-    {
-        "gameName": "larisa",
-        "realName": "Larisa",
-        "country": "greece",
-        "x": "50467.3",
-        "y": "70.5742",
-        "z": "61517.7"
     },
     {
         "gameName": "leon",
@@ -9803,14 +9790,6 @@ var cities_tsm = [
         "z": "34199.9"
     },
     {
-        "gameName": "patra",
-        "realName": "Patra",
-        "country": "greece",
-        "x": "47424.5",
-        "y": "77.6563",
-        "z": "69884.9"
-    },
-    {
         "gameName": "porto",
         "realName": "Porto",
         "country": "portugal",
@@ -9819,28 +9798,12 @@ var cities_tsm = [
         "z": "39550.9"
     },
     {
-        "gameName": "preveza",
-        "realName": "Preveza",
-        "country": "greece",
-        "x": "43482.4",
-        "y": "57.2461",
-        "z": "64601.2"
-    },
-    {
         "gameName": "salamanca",
         "realName": "Salamanca",
         "country": "spain",
         "x": "-73475.9",
         "y": "82.9922",
         "z": "43487.8"
-    },
-    {
-        "gameName": "serres",
-        "realName": "Serres",
-        "country": "greece",
-        "x": "53396.9",
-        "y": "104.516",
-        "z": "51471"
     },
     {
         "gameName": "sevilla",
@@ -9859,30 +9822,6 @@ var cities_tsm = [
         "z": "56468.6"
     },
     {
-        "gameName": "sparti",
-        "realName": "Sparti",
-        "country": "greece",
-        "x": "55059.6",
-        "y": "98.0273",
-        "z": "73272.7"
-    },
-    {
-        "gameName": "trikala",
-        "realName": "Trikala",
-        "country": "greece",
-        "x": "47236.9",
-        "y": "115.047",
-        "z": "62375.9"
-    },
-    {
-        "gameName": "tripoligr",
-        "realName": "Tripoli",
-        "country": "greece",
-        "x": "51096.7",
-        "y": "175.965",
-        "z": "72914.7"
-    },
-    {
         "gameName": "valladolid",
         "realName": "Valladolid",
         "country": "spain",
@@ -9897,14 +9836,6 @@ var cities_tsm = [
         "x": "-81381.6",
         "y": "19.0234",
         "z": "44341.5"
-    },
-    {
-        "gameName": "volos",
-        "realName": "Volos",
-        "country": "greece",
-        "x": "53652.1",
-        "y": "38.4883",
-        "z": "61965.4"
     }
 ];
 

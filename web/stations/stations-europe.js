@@ -3521,6 +3521,123 @@ var stations = {
             url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
+    "greece_crete": [
+        {
+            name: "ΕΡΤ Πρώτο πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-proto"
+        },
+        {
+            name: "ΕΡΤ Δεύτερο Πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Δεύτερο Πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-deftero"
+        },
+        {
+            name: "ΕΡΤ Τρίτο Πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-trito"
+        },
+        {
+            name: "ΕΡΑ Σπορ",
+            logo: "stations/images-europe/greece/ΕΡΑ Σπορ.png",
+            url: "http://radiostreaming.ert.gr/ert-erasport"
+        },
+        {
+            name: "AFN Souda Bay",
+            logo: "stations/images-europe/greece_crete/AFN Souda Bay.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SDBAAC_SC"
+        },
+        {
+            name: "Ερωτόκριτος FM",
+            logo: "stations/images-europe/greece_crete/Ερωτόκριτος FM.png",
+            url: "http://stream2.proradio.gr:8004/erotokritos"
+        },
+        {
+            name: "ΔΡΟΜΟΣ FM",
+            logo: "stations/images-europe/greece_crete/ΔΡΟΜΟΣ FM.png",
+            url: "https://stream.rcs.revma.com/10q3enqxbfhvv"
+        },
+        {
+            name: "Γαύδος",
+            logo: "stations/images-europe/greece_crete/Γαύδος.png",
+            url: "https://sc2.streamwithq.com:2000/stream/GavdosFm/"
+        },
+        {
+            name: "KISS 96.1",
+            logo: "stations/images-europe/greece_crete/KISS 96.1.png",
+            url: "https://antares.dribbcast.com/proxy/kiss961?mp=/stream"
+        },
+        {
+            name: "Κρήτη FM",
+            logo: "stations/images-europe/greece_crete/Κρήτη FM.png",
+            url: "http://s3.onweb.gr:8878/stream"
+        },
+        {
+            name: "Magic FM",
+            logo: "stations/images-europe/greece_crete/Magic FM.png",
+            url: "https://netradio.live24.gr/magic982"
+        },
+        {
+            name: "Mousiko Kanali 105.1",
+            logo: "stations/images-europe/greece_crete/Mousiko Kanali 105.1.png",
+            url: "https://stream1.mousikokanali.gr/mc"
+        },
+        {
+            name: "Music Club 105.8",
+            logo: "stations/images-europe/greece_crete/Music Club 105.8.png",
+            url: "https://antares.dribbcast.com/proxy/music1058?mp=/stream"
+        },
+        {
+            name: "ο Εύδιος Λιμήν",
+            logo: "stations/images-europe/greece_crete/ο Εύδιος Λιμήν.png",
+            url: "https://eco.onestreaming.com/proxy/imga/stream"
+        },
+        {
+            name: "Ράδιο 98.4",
+            logo: "stations/images-europe/greece_crete/Ράδιο 98.4.png",
+            url: "https://cast4.my-control-panel.com/proxy/anastas2/stream"
+        },
+        {
+            name: "Ράδιο Ανάμνηση",
+            logo: "stations/images-europe/greece_crete/Ράδιο Ανάμνηση.png",
+            url: "https://cast4.my-control-panel.com/proxy/anastas2/stream"
+        },
+        {
+            name: "Radio Family",
+            logo: "stations/images-europe/greece_crete/Radio Family_christmas.png",
+            url: "https://www.fmlive.gr/8002/stream"
+        },
+        {
+            name: "Ράδιο Κρήτη",
+            logo: "stations/images-europe/greece_crete/Ράδιο Κρήτη.png",
+            url: "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/playlist.m3u8"
+        },
+        {
+            name: "Ραδιο Παλαιοχωρα",
+            logo: "stations/images-europe/greece_crete/Ραδιο Παλαιοχωρα.png",
+            url: "http://s6.onweb.gr:8068/stream"
+        },
+        {
+            name: "Ράδιο Ριζίτες",
+            logo: "stations/images-europe/greece_crete/Ράδιο Ριζίτες.png",
+            url: "http://s1.onweb.gr:8040/stream"
+        },
+        {
+            name: "Sfera",
+            logo: "stations/images-europe/greece/Sfera.png",
+            url: "https://i5.streams.ovh:2200/sc/web100/stream"
+        },
+        {
+            name: "ΣΚΑΪ",
+            logo: "stations/images-europe/greece/ΣΚΑΪ 100,3.png",
+            url: "https://skai.live24.gr/skai1003"
+        },
+        {
+            name: "Υδρόγειος 106.9",
+            logo: "stations/images-europe/greece_crete/Υδρόγειος 106.9.png",
+            url: "https://netradio.live24.gr/ydrogeios1069her"
+        },
+    ],
     "greenland": [
         {
             name: "Kalaallit Nunaata Radioa",
