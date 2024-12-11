@@ -3624,7 +3624,7 @@ var stations = {
         },
         {
             name: "Sfera",
-            logo: "stations/images-europe/greece/Sfera.png",
+            logo: "stations/images-europe/greece_crete/Sfera.png",
             url: "https://i5.streams.ovh:2200/sc/web100/stream"
         },
         {
