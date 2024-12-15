@@ -3466,9 +3466,19 @@ var stations = {
             url: "http://streams.enjoyfm.gr:48500/aroma.mp3"
         },
         {
+            name: "DeeJay",
+            logo: "stations/images-europe/greece/DeeJay.png",
+            url: "https://s6.e-resellers.gr/8010/stream.mp3"
+        },
+        {
             name: "HIT 93.5",
             logo: "stations/images-europe/greece/HIT 93.5.png",
             url: "http://s3.onweb.gr:8006/;"
+        },
+        {
+            name: "Χρώμα FM",
+            logo: "stations/images-europe/greece/Χρώμα FM.png",
+            url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
         {
             name: "KISS FM",
@@ -3514,11 +3524,6 @@ var stations = {
             name: "Star FM",
             logo: "stations/images-europe/greece/Star FM.png",
             url: "https://sh.onweb.gr/8800/stream/"
-        },
-        {
-            name: "Χρώμα FM",
-            logo: "stations/images-europe/greece/Χρώμα FM.png",
-            url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
     "greece_chios": [
