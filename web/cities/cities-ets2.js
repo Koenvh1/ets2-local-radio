@@ -291,7 +291,7 @@ var country_properties = {
         name: "Χίος",
         name_english: "Chios",
         code: "gr",
-        relative_radius: 1.0,
+        relative_radius: 0.7,
     },
     "greece_crete": {
         name: "Κρήτη",
@@ -303,13 +303,13 @@ var country_properties = {
         name: "Μυτιλήνη",
         name_english: "Crete",
         code: "gr",
-        relative_radius: 1.0,
+        relative_radius: 0.8,
     },
     "greece_rhodes": {
         name: "Ρόδος",
         name_english: "Rhodes",
         code: "gr",
-        relative_radius: 1.0,
+        relative_radius: 0.8,
     },
     "greenland": {
         name: "Kalaallit Nunaat",
