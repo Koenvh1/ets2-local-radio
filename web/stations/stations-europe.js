@@ -3559,12 +3559,12 @@ var stations = {
         },
         {
             name: "Sfera 98,9",
-            logo: "stations/images-europe/greece/Sfera 98,9.png",
+            logo: "stations/images-europe/greece_chios/Sfera 98,9.png",
             url: "https://netradio.live24.gr/sfera989"
         },
         {
             name: "Χιακός 102.4",
-            logo: "stations/images-europe/greece/Χιακός 102.4.png",
+            logo: "stations/images-europe/greece_chios/Χιακός 102.4.png",
             url: "https://cast2.radiohost.ovh/xiakos?mp=/stream"
         },
     ],
