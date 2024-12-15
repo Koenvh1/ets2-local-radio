@@ -3685,6 +3685,63 @@ var stations = {
             url: "https://netradio.live24.gr/ydrogeios1069her"
         },
     ],
+    "greece_mitilini": [
+        {
+            name: "ΕΡΤ Β.Αιγαίου",
+            logo: "stations/images-europe/greece_mitilini/ΕΡΤ Β.Αιγαίου.png",
+            url: "https://radiostreaming.ert.gr/ert-aigaiou"
+        },
+        {
+            name: "ΕΡΤ Τρίτο Πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-trito"
+        },
+        {
+            name: "Αίολος",
+            logo: "stations/images-europe/greece_mitilini/Αίολος.png",
+            url: "https://solid1.streamupsolutions.com/proxy/apzxhsah?mp=/stream"
+        },
+        {
+            name: "astra 93.2",
+            logo: "stations/images-europe/greece_mitilini/astra 93.2.png",
+            url: "https://eco.onestreaming.com/proxy/astra/stream"
+        },
+        {
+            name: "Love Radio",
+            logo: "stations/images-europe/greece_mitilini/Love Radio_christmas.png",
+            url: "https://solid1.streamupsolutions.com/proxy/apzxhsah?mp=/stream"
+        },
+        {
+            name: "Ράδιο Καλλονή",
+            logo: "stations/images-europe/greece_mitilini/Ράδιο Καλλονή.png",
+            url: "https://solid55.streamupsolutions.com/proxy/pelsssbw?mp=/;type=mp3"
+        },
+        {
+            name: "Ράδιο Μυτιλήνη",
+            logo: "stations/images-europe/greece_mitilini/Ράδιο Μυτιλήνη.png",
+            url: "https://cast5.magicstreams.gr/sc/radiomitilini90/stream"
+        },
+        {
+            name: "Ρυθμός 91.6",
+            logo: "stations/images-europe/greece_mitilini/Ρυθμός 91.6.png",
+            url: "https://cast5.magicstreams.gr/sc/rythmos916/stream"
+        },
+        {
+            name: "ΣΚΑΪ ΑΙΓΑΙΟΥ",
+            logo: "stations/images-europe/greece_mitilini/ΣΚΑΪ ΑΙΓΑΙΟΥ.png",
+            url: "http://live.isol.biz:8500/stream"
+        },
+        {
+            name: "SLAM! 101.5",
+            logo: "stations/images-europe/greece_mitilini/SLAM! 101.5.png",
+            url: "https://eco.onestreaming.com/proxy/slam/stream"
+        },
+        {
+            name: "Στο Νησί 99",
+            logo: "stations/images-europe/greece_mitilini/Στο Νησί 99.png",
+            url: "https://eco.onestreaming.com/proxy/stonisi99/stream"
+        },
+    ],
     "greece_rhodes": [
         {
             name: "ΕΡΤ Πρώτο πρόγραμμα",

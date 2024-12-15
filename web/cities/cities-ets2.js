@@ -299,6 +299,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_mitilini": {
+        name: "Μυτιλήνη",
+        name_english: "Crete",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_rhodes": {
         name: "Ρόδος",
         name_english: "Rhodes",
@@ -3674,7 +3680,7 @@ var cities = [
     {
         "gameName": "mitilini",
         "realName": "Μυτιλήνη",
-        "country": "greece",
+        "country": "greece_mitilini",
         "x": "67458.6",
         "y": "69.5195",
         "z": "61970.7"
