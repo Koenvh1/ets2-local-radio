@@ -3521,6 +3521,53 @@ var stations = {
             url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
     ],
+    "greece_chios": [
+        {
+            name: "ΕΡΤ Πρώτο πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-proto"
+        },
+        {
+            name: "ΕΡΤ Δεύτερο Πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Δεύτερο Πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-deftero"
+        },
+        {
+            name: "Pirate Radio GR",
+            logo: "stations/images-europe/greece_chios/Pirate Radio GR.png",
+            url: "https://live.piratefm.net/top"
+        },
+        {
+            name: "Παλμός 94.1",
+            logo: "stations/images-europe/greece_chios/Παλμός 94.1.png",
+            url: "https://tls-chrome.live24.gr/1688?"
+        },
+        {
+            name: "Radio Alpha Omega",
+            logo: "stations/images-europe/greece_chios/Radio Alpha Omega.png",
+            url: "http://live.radioalphaomega.com:4008/stream"
+        },
+        {
+            name: "Ράδιο Αλήθεια",
+            logo: "stations/images-europe/greece_chios/Ράδιο Αλήθεια.png",
+            url: "https://live.webhosting4u.gr/alithia"
+        },
+        {
+            name: "Ράδιο Μαστίχα",
+            logo: "stations/images-europe/greece_chios/Ράδιο Μαστίχα.png",
+            url: "http://46.4.98.200:8000/stream"
+        },
+        {
+            name: "Sfera 98,9",
+            logo: "stations/images-europe/greece/Sfera 98,9.png",
+            url: "https://netradio.live24.gr/sfera989"
+        },
+        {
+            name: "Χιακός 102.4",
+            logo: "stations/images-europe/greece/Χιακός 102.4.png",
+            url: "https://cast2.radiohost.ovh/xiakos?mp=/stream"
+        },
+    ],
     "greece_crete": [
         {
             name: "ΕΡΤ Πρώτο πρόγραμμα",
@@ -3636,6 +3683,103 @@ var stations = {
             name: "Υδρόγειος 106.9",
             logo: "stations/images-europe/greece_crete/Υδρόγειος 106.9.png",
             url: "https://netradio.live24.gr/ydrogeios1069her"
+        },
+    ],
+    "greece_rhodes": [
+        {
+            name: "ΕΡΤ Πρώτο πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-proto"
+        },
+        {
+            name: "ΕΡΤ Δεύτερο Πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Δεύτερο Πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-deftero"
+        },
+        {
+            name: "ΕΡΤ Τρίτο Πρόγραμμα",
+            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.png",
+            url: "http://radiostreaming.ert.gr/ert-trito"
+        },
+        {
+            name: "ΕΡΑ Σπορ",
+            logo: "stations/images-europe/greece/ΕΡΑ Σπορ.png",
+            url: "http://radiostreaming.ert.gr/ert-erasport"
+        },
+        {
+            name: "Αρχάγγελος",
+            logo: "stations/images-europe/greece_rhodes/Αρχάγγελος.png",
+            url: "https://eco.onestreaming.com/proxy/arhagelos/stream"
+        },
+        {
+            name: "BEST",
+            logo: "stations/images-europe/greece_rhodes/BEST.png",
+            url: "https://softloop.gr/8004/stream"
+        },
+        {
+            name: "Box Radio",
+            logo: "stations/images-europe/greece_rhodes/Box Radio.png",
+            url: "https://feelgood.radioca.st/stream"
+        },
+        {
+            name: "Love 97.5",
+            logo: "stations/images-europe/greece_rhodes/Love 97.5.png",
+            url: "https://loveradio.live24.gr/loveradio-1000"
+        },
+        {
+            name: "Μελωδία Ρόδου",
+            logo: "stations/images-europe/greece_rhodes/Μελωδία Ρόδου.png",
+            url: "https://live3.istoikona.com:8183/stream"
+        },
+        {
+            name: "Notos News",
+            logo: "stations/images-europe/greece_rhodes/Notos News.png",
+            url: "https://i.streams.ovh:9331/stream"
+        },
+        {
+            name: "Ράδιο 1",
+            logo: "stations/images-europe/greece_rhodes/Ράδιο 1.png",
+            url: "http://111.gr:8000/;"
+        },
+        {
+            name: "Ράδιο Λυχνάρι",
+            logo: "stations/images-europe/greece_rhodes/Ράδιο Λυχνάρι.png",
+            url: "https://eco.onestreaming.com/proxy/lyxnari/stream"
+        },
+        {
+            name: "Radio Galaxy 99",
+            logo: "stations/images-europe/greece_rhodes/Radio Galaxy 99.png",
+            url: "https://solid1.streamupsolutions.com/proxy/tfcgioyq?mp=/stream"
+        },
+        {
+            name: "Real Voice",
+            logo: "stations/images-europe/greece_rhodes/Real Voice.png",
+            url: "https://radio.streamings.gr/proxy/realvoice995?mp=/stream"
+        },
+        {
+            name: "Ρόδος FM",
+            logo: "stations/images-europe/greece_rhodes/Ρόδος FM.png",
+            url: "https://i.streams.ovh:9327/stream"
+        },
+        {
+            name: "ΡΥΘΜΟΣ 94.9",
+            logo: "stations/images-europe/greece_rhodes/ΡΥΘΜΟΣ 94.9.png",
+            url: "https://stream.rcs.revma.com/0btynq5r4a0uv"
+        },
+        {
+            name: "Sky Rodos",
+            logo: "stations/images-europe/greece_rhodes/Sky Rodos.png",
+            url: "https://s6.myradiostream.com:45076/;listen.mp3"
+        },
+        {
+            name: "Στο Κόκκινο",
+            logo: "stations/images-europe/greece_rhodes/Στο Κόκκινο.png",
+            url: "https://stream.radiojar.com/red-source?1734288506"
+        },
+        {
+            name: "TOP FM",
+            logo: "stations/images-europe/greece_rhodes/TOP FM.png",
+            url: "https://eco.onestreaming.com/proxy/topfm/stream"
         },
     ],
     "greenland": [

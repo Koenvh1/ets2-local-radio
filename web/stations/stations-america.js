@@ -902,7 +902,7 @@ var stations = {
         {
             name: "Radio By Grace 99.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "100.9 The Eagle",
@@ -2526,7 +2526,7 @@ var stations = {
         {
             name: "Radio By Grace 89.3",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "afr Hybrid 91.5",
@@ -3966,7 +3966,7 @@ var stations = {
         {
             name: "Radio By Grace 88.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "GRN 91.7",
@@ -5812,7 +5812,7 @@ var stations = {
         {
             name: "Radio By Grace 88.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "HPPR 89.3",
@@ -6404,7 +6404,7 @@ var stations = {
         {
             name: "Radio By Grace 89.9",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "KDQN 92.1",
@@ -19047,7 +19047,7 @@ var stations = {
         },
         {
             name: "104.3 K-SHASTA",
-            logo: "stations/images-america/redding/104.3 K-Shasta.png",
+            logo: "stations/images-america/redding/104.3 K-Shasta_christmas.png",
             url: "https://ice5.securenetsystems.net/KSHA"
         },
         {
@@ -20792,7 +20792,7 @@ var stations = {
         {
             name: "Radio By Grace 90.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "KLTP 90.9",
@@ -36525,7 +36525,7 @@ var stations_c2c = {
         {
             name: "Radio By Grace 99.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "100.5 K263AQ",
@@ -40781,7 +40781,7 @@ var stations_c2c = {
         {
             name: "Radio By Grace 89.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "MPB Think Radio 90.3",
@@ -41142,7 +41142,7 @@ var stations_c2c = {
         {
             name: "Radio By Grace 91.3",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/rbga.mp3"
+            url: "https://stream.freedomradiofm.com/live.mp3"
         },
         {
             name: "afr Hybrid 92.5",
@@ -41651,7 +41651,7 @@ var stations_c2c = {
         },
         {
             name: "98.3 The Dove",
-            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove.png",
+            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://ice64.securenetsystems.net/KDVC"
         },
         {

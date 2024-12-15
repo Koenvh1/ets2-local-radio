@@ -287,9 +287,21 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_chios": {
+        name: "Χίος",
+        name_english: "Chios",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_crete": {
         name: "Κρήτη",
         name_english: "Crete",
+        code: "gr",
+        relative_radius: 1.0,
+    },
+    "greece_rhodes": {
+        name: "Ρόδος",
+        name_english: "Rhodes",
         code: "gr",
         relative_radius: 1.0,
     },
@@ -2054,7 +2066,7 @@ var cities = [
     {
         "gameName": "chios",
         "realName": "Χίος",
-        "country": "greece",
+        "country": "greece_chios",
         "x": "66300",
         "y": "65.1484",
         "z": "66274.3"
@@ -4206,7 +4218,7 @@ var cities = [
     {
         "gameName": "rhodes",
         "realName": "Ρόδος",
-        "country": "greece",
+        "country": "greece_rhodes",
         "x": "77441.7",
         "y": "51",
         "z": "76538.8"
