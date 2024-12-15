@@ -3704,7 +3704,7 @@ var stations = {
         {
             name: "Αίολος",
             logo: "stations/images-europe/greece_mitilini/Αίολος.png",
-            url: "https://solid1.streamupsolutions.com/proxy/apzxhsah?mp=/stream"
+            url: "https://eco.onestreaming.com/proxy/aeolos/stream"
         },
         {
             name: "astra 93.2",
