@@ -1,5 +1,5 @@
 var stations = {
-    /*"christmas": [
+    "christmas": [
         {
             name: "iHeart Christmas",
             logo: "stations/images-america/1_christmas/iHeart Christmas.png",
@@ -45,7 +45,7 @@ var stations = {
             logo: "stations/images-america/1_christmas/Radio Santa.png",
             url: "https://streaming.live365.com/a53827"
         },
-    ],*/
+    ],
     "aberdeen": [
         {
             name: "Air1 88.1",

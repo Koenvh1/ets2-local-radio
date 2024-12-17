@@ -1,5 +1,5 @@
 var stations = {
-    /*"christmas": [
+    "christmas": [
         {
             name: "Christmas Channel",
             logo: "stations/images-europe/0_christmas/Christmas Channel.png",
@@ -50,7 +50,7 @@ var stations = {
             logo: "stations/images-europe/0_christmas/Weihnachtsmusik FM.png",
             url: "https://streams.weihnachtsmusik.fm/hits/mp3-192/weihnachtsradiofm"
         },
-    ],*/
+    ],
     "aland": [
         {
             name: "SR P1",
@@ -3737,7 +3737,7 @@ var stations = {
             url: "http://live.isol.biz:8500/stream"
         },
         {
-            name: "SLAM! 101.5",
+            name: "SLAM!",
             logo: "stations/images-europe/greece_mitilini/SLAM! 101.5.png",
             url: "https://eco.onestreaming.com/proxy/slam/stream"
         },
