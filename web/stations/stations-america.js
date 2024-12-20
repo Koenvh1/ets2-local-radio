@@ -2873,7 +2873,7 @@ var stations = {
         },
         {
             name: "Magic 97.9",
-            logo: "stations/images-america/boise/Magic 97.9.png",
+            logo: "stations/images-america/boise/Magic 97.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQFCFMAAC_SC"
         },
         {
@@ -3102,7 +3102,7 @@ var stations = {
         },
         {
             name: "My 103.5",
-            logo: "stations/images-america/bozeman/My 103.5.png",
+            logo: "stations/images-america/bozeman/My 103.5_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
         {
@@ -3682,7 +3682,7 @@ var stations = {
         },
         {
             name: "101.9 The Cowboy",
-            logo: "stations/images-america/casper/101.9 The Cowboy.png",
+            logo: "stations/images-america/casper/101.9 The Cowboy_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kktlamaac-ibc3"
         },
         {
@@ -3707,7 +3707,7 @@ var stations = {
         },
         {
             name: "AM 1400 The Cowboy",
-            logo: "stations/images-america/casper/101.9 The Cowboy.png",
+            logo: "stations/images-america/casper/101.9 The Cowboy_christmas.png",
             url: "http://live.amperwave.net/manifest/townsquare-kktlamaac-ibc3"
         },
     ],
@@ -10607,9 +10607,9 @@ var stations = {
             url: "https://stream.houstonpublicmedia.org/classical-aac"
         },
         {
-            name: "Mixtape 88.7-HD3",
+            name: "The Vibe 88.7-HD3",
             logo: "stations/images-america/houston/Mixtape 88.7-HD3.png",
-            url: "https://stream.houstonpublicmedia.org/mixtape-aac"
+            url: "https://ice42.securenetsystems.net/THEVIBE"
         },
         {
             name: "Sight into Sound 88.7-HD4",
@@ -18505,7 +18505,7 @@ var stations = {
         },
         {
             name: "97.1 Charlie",
-            logo: "stations/images-america/portland/97.1 Charlie.png",
+            logo: "stations/images-america/portland/97.1 Charlie_christmas.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kychfmaac-imc"
         },
         {
@@ -32929,7 +32929,7 @@ var stations_c2c = {
         },
         {
             name: "Smooth Jazz 101.1",
-            logo: "stations/images-america/c2c/atlanta_ga/Smooth Jazz 101.1.png",
+            logo: "stations/images-america/c2c/atlanta_ga/Smooth Jazz 101.1_christmas.png",
             url: "https://crystalout.surfernetwork.com:8001/WJZA-AM_MP3"
         },
         {
@@ -33049,7 +33049,7 @@ var stations_c2c = {
         },
         {
             name: "WWWE 1100",
-            logo: "stations/images-america/c2c/atlanta_ga/Smooth Jazz 101.1.png",
+            logo: "stations/images-america/c2c/atlanta_ga/Smooth Jazz 101.1_christmas.png",
             url: "http:///crystalout.surfernetwork.com:8001/WJZA-AM_MP3"
         },
         {
