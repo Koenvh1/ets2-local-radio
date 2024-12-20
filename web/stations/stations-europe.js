@@ -50,6 +50,46 @@ var stations = {
             logo: "stations/images-europe/0_christmas/Weihnachtsmusik FM.png",
             url: "https://streams.weihnachtsmusik.fm/hits/mp3-192/weihnachtsradiofm"
         },
+        {
+            name: "Stations for Grinches upcoming...",
+            logo: "stations/images-europe/0_christmas/Grinch.png",
+            url: ""
+        },
+        {
+            name: "Power 181",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-power_64k.aac"
+        },
+        {
+            name: "The Mix",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-themix_64k.aac"
+        },
+        {
+            name: "Energy 98",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-energy98_64k.aac"
+        },
+        {
+            name: "Classic Hits 181",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-greatoldies_64k.aac"
+        },
+        {
+            name: "The Breeze",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-breeze_64k.aac"
+        },
+        {
+            name: "Rock 181",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-rock_64k.aac"
+        },
+        {
+            name: "The Buzz",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-buzz_64k.aac"
+        },
     ],
     "aland": [
         {

@@ -45,6 +45,46 @@ var stations = {
             logo: "stations/images-america/1_christmas/Radio Santa.png",
             url: "https://streaming.live365.com/a53827"
         },
+        {
+            name: "Stations for Grinches upcoming...",
+            logo: "stations/images-america/1_christmas/Grinch.png",
+            url: ""
+        },
+        {
+            name: "Today's Mix",
+            logo: "stations/images-america/0_general_logos/Today's Mix.png",
+            url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
+        },
+        {
+            name: "KISS",
+            logo: "stations/images-america/0_general_logos/KISS.png",
+            url: "https://stream.revma.ihrhls.com/zc7362/hls.m3u8"
+        },
+        {
+            name: "Evolution",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
+        },
+        {
+            name: "Country Radio",
+            logo: "stations/images-america/0_general_logos/iHeartCountry Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4418/hls.m3u8"
+        }, 
+        {
+            name: "ALT",
+            logo: "stations/images-america/0_general_logos/ALT Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
+        {
+            name: "Rock Nation",
+            logo: "stations/images-america/0_general_logos/Rock Nation.png",
+            url: "https://stream.revma.ihrhls.com/zc4443/hls.m3u8"
+        }, 
+        {
+            name: "Classic Rock",
+            logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
+            url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
+        }, 
     ],
     "aberdeen": [
         {
