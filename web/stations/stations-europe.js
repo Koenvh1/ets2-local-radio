@@ -61,9 +61,9 @@ var stations = {
             url: "http://listen.livestreamingservice.com/181-power_64k.aac"
         },
         {
-            name: "The Mix",
+            name: "The Office",
             logo: "stations/images-europe/0_christmas/181.fm.png",
-            url: "http://listen.livestreamingservice.com/181-themix_64k.aac"
+            url: "http://listen.livestreamingservice.com/181-office_64k.aac"
         },
         {
             name: "Energy 98",
@@ -76,9 +76,14 @@ var stations = {
             url: "http://listen.livestreamingservice.com/181-greatoldies_64k.aac"
         },
         {
-            name: "The Breeze",
+            name: "Awesome 80's",
             logo: "stations/images-europe/0_christmas/181.fm.png",
-            url: "http://listen.livestreamingservice.com/181-breeze_64k.aac"
+            url: "http://listen.livestreamingservice.com/181-awesome80s_64k.aac"
+        },
+        {
+            name: "The Point",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-thepoint_64k.aac"
         },
         {
             name: "Rock 181",
@@ -89,6 +94,11 @@ var stations = {
             name: "The Buzz",
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-buzz_64k.aac"
+        },
+        {
+            name: "The Beat",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
     ],
     "aland": [
