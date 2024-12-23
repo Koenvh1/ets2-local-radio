@@ -3036,7 +3036,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "st_george": {
-		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "st_john": {
@@ -3677,14 +3676,6 @@ var cities = [
         "x": "-77440.9",
         "y": "32.0592",
         "z": "-58343.6"
-    },
-    {
-        "gameName": "cedar_city",
-        "realName": "Cedar City",
-        "country": "cedar_city",
-        "x": "-74187.1",
-        "y": "124.221",
-        "z": "-2143.96"
     },
     {
         "gameName": "cedar_city",
@@ -5938,14 +5929,6 @@ var cities = [
         "gameName": "st_george",
         "realName": "St. George",
         "country": "st_george",
-        "x": "-78856.8",
-        "y": "70.63",
-        "z": "3000.27"
-    },
-    {
-        "gameName": "st_george",
-        "realName": "St. George",
-        "country": "cedar_city",
         "x": "-78856.8",
         "y": "70.63",
         "z": "3000.27"

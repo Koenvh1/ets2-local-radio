@@ -1993,6 +1993,11 @@ var stations = {
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
+            name: "Ondas de Vida 89.1",
+            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
+            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
+        },
+        {
             name: "KNLB 90.9",
             logo: "stations/images-america/barstow/KNLB 90.9.png",
             url: "https://streaming.live365.com/a72595"
@@ -3751,93 +3756,6 @@ var stations = {
             url: "http://live.amperwave.net/manifest/townsquare-kktlamaac-ibc3"
         },
     ],
-    "cedar_city": [
-        {
-            name: "CrossOver FM 88.7",
-            logo: "stations/images-america/cedar_city/CrossOver FM 88.9.png",
-            url: "https://ice8.securenetsystems.net/KCHG"
-        },
-        {
-            name: "KUER 90.1",
-            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.KUER.org:8000/high"
-        },
-        {
-            name: "Thunder 91.1",
-            logo: "stations/images-america/cedar_city/Thunder 91.1.png",
-            url: "https://cdnapisec.kaltura.com/p/1658411/sp/165841100/playManifest/entryId/0_fqswk5fh/format/applehttp/protocol/https/uiConfId/34122032/a.m3u8"
-        },
-        {
-            name: "B92.1",
-            logo: "stations/images-america/cedar_city/B92.1.png",
-            url: "https://live.amperwave.net/direct/townsquare-kxbnfmaac-ibc3"
-        },
-        {
-            name: "Cat Country 94.9",
-            logo: "stations/images-america/cedar_city/Cat Country 94.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kcinfmaac-ibc3"
-        },
-        {
-            name: "95.9 The Hawk",
-            logo: "stations/images-america/cedar_city/95.9 The Hawk.png",
-            url: "https://ice10.securenetsystems.net/KZHK"
-        },
-        {
-            name: "UPR 97.3",
-            logo: "stations/images-america/0_general_logos/UPR.png",
-            url: "http://uprxstreamer.usu.edu:8000/stream"
-        },
-        {
-            name: "ESPN 97.7",
-            logo: "stations/images-america/cedar_city/ESPN 97.7.png",
-            url: "https://live.amperwave.net/manifest/townsquare-khkramaac-ibc3"
-        },
-        {
-            name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
-            url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
-        },
-        {
-            name: "FOX Sports 99.1",
-            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kxfffmaac-ibc3"
-        },
-        {
-            name: "99.9 KONY Country",
-            logo: "stations/images-america/cedar_city/99.9 KONY.png",
-            url: "https://ice10.securenetsystems.net/KONY"
-        },
-        {
-            name: "100.3 K262BM",
-            logo: "stations/images-america/0_general_logos/Classical 89.png",
-            url: "https://radio.byub.org/classical89/classical89_aac"
-        },
-        {
-            name: "100.7 K264DD",
-            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
-            url: "http://ice9.securenetsystems.net/KSVC"
-        },
-        {
-            name: "102.3 Coyote Country",
-            logo: "stations/images-america/cedar_city/102.3 Coyote Country.png",
-            url: "http://ice10.securenetsystems.net/KUTQ"
-        },
-        {
-            name: "KSUB 590",
-            logo: "stations/images-america/cedar_city/KSUB 590.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ksubamaac-ibc3"
-        },
-        {
-            name: "KDXU 890",
-            logo: "stations/images-america/cedar_city/KDXU 890.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kdxuamaac-ibc3"
-        },
-        {
-            name: "ESPN 1100",
-            logo: "stations/images-america/las_vegas/ESPN 100.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWWNAMAAC_SC"
-        },
-    ],
     "chadron": [
         {
             name: "Spirit Catholic Radio 89.3",
@@ -5312,6 +5230,11 @@ var stations = {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "https://ice6.securenetsystems.net/EFXAAC"
+        },
+        {
+            name: "Ondas de Vida 990.3",
+            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
+            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
         },
         {
             name: "JPR Classics & News 91.1",
@@ -9549,7 +9472,7 @@ var stations = {
         },
         {
             name: "KSUB 590",
-            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            logo: "stations/images-america/st_george/KSUB 590.png",
             url: "https://live.amperwave.net/manifest/townsquare-ksubamaac-ibc3"
         },
         {
@@ -13007,6 +12930,11 @@ var stations = {
             name: "SOS Radio 90.5",
             logo: "stations/images-america/0_general_logos/SOS Radio_christmas.png",
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
+        },
+        {
+            name: "Ondas de Vida 90.9",
+            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
+            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
         },
         {
             name: "91.5 Jazz & More",
@@ -17754,7 +17682,7 @@ var stations = {
         },*/
         {
             name: "KSUB 590",
-            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            logo: "stations/images-america/st_george/KSUB 590.png",
             url: "https://live.amperwave.net/manifest/townsquare-ksubamaac-ibc3"
         },
         {
@@ -18351,7 +18279,7 @@ var stations = {
         },
         {
             name: "B92.1",
-            logo: "stations/images-america/cedar_city/B92.1.png",
+            logo: "stations/images-america/st_george/B92.1.png",
             url: "https://live.amperwave.net/manifest/townsquare-kxbnfmaac-ibc3"
         },
         {
@@ -18361,7 +18289,7 @@ var stations = {
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/cedar_city/Star 98_christmas.png",
+            logo: "stations/images-america/st_george/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
     ],
@@ -23708,8 +23636,13 @@ var stations = {
     ],
     "st_george": [
         {
+            name: "CSN Radio 88.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "CrossOver FM 88.9",
-            logo: "stations/images-america/cedar_city/CrossOver FM 88.9.png",
+            logo: "stations/images-america/st_george/CrossOver FM 88.9.png",
             url: "https://ice8.securenetsystems.net/KCHG"
         },
         {
@@ -23718,9 +23651,19 @@ var stations = {
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
+            name: "K-LOVE 90.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "UPR 90.9",
             logo: "stations/images-america/0_general_logos/UPR.png",
             url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "Thunder 91.1",
+            logo: "stations/images-america/st_george/Thunder 91.1.png",
+            url: "https://cdnapisec.kaltura.com/p/1658411/sp/165841100/playManifest/entryId/0_fqswk5fh/format/applehttp/protocol/https/uiConfId/34122032/a.m3u8"
         },
         {
             name: "91.3 The Blaze",
@@ -23729,13 +23672,48 @@ var stations = {
         },
         {
             name: "Ondas de Vida 91.7",
-            logo: "stations/images-america/st_george/Ondas de Vida 91.7.png",
+            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
             url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
+        },
+        {
+            name: "B92.1",
+            logo: "stations/images-america/st_george/B92.1.png",
+            url: "https://live.amperwave.net/direct/townsquare-kxbnfmaac-ibc3"
+        },
+        {
+            name: "KDXU 92.5",
+            logo: "stations/images-america/st_george/106.1 KDXU.png",
+            url: "https://live.amperwave.net/direct/townsquare-kdxuamaac-ibc3"
         },
         {
             name: "Patriot Radio 93.1",
             logo: "stations/images-america/st_george/Patriot Radio.png",
             url: "https://ice10.securenetsystems.net/KZNU"
+        },
+        {
+            name: "La Mejor 93.5",
+            logo: "stations/images-america/st_george/La Mejor 93.5.png",
+            url: "https://ice9.securenetsystems.net/KADD"
+        },
+        {
+            name: "KUER 93.9",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "http://audio.KUER.org:8000/high"
+        },
+        {
+            name: "exa 94.5",
+            logo: "stations/images-america/st_george/exa 94.5.png",
+            url: "https://ice9.securenetsystems.net/KXLI"
+        },
+        {
+            name: "Cat Country 94.9",
+            logo: "stations/images-america/st_george/Cat Country Utah_christmas.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kcinfmaac-ibc3"
+        },
+        {
+            name: "95.9 The Hawk",
+            logo: "stations/images-america/st_george/95.9 The Hawk.png",
+            url: "https://ice10.securenetsystems.net/KZHK"
         },
         {
             name: "96X",
@@ -23748,6 +23726,16 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYLIFMAAC_SC"
         },
         {
+            name: "ESPN 97.7",
+            logo: "stations/images-america/st_george/ESPN 97.7.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kdxufmhd2aac-ibc3"
+        },
+        {
+            name: "Star 98",
+            logo: "stations/images-america/st_george/Star 98_christmas.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
+        },
+        {
             name: "KOOL 98.9",
             logo: "stations/images-america/st_george/Kool 98.9.png",
             url: "http://ice10.securenetsystems.net/KRQX"
@@ -23758,14 +23746,14 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KAZZ"
         },
         {
+            name: "99.9 KONY Country",
+            logo: "stations/images-america/st_george/99.9 KONY Country.png",
+            url: "https://ice10.securenetsystems.net/KONY"
+        },
+        {
             name: "Radio St. George 100.3",
             logo: "stations/images-america/st_george/Radio St. George 100.3.png",
             url: "https://stream.radio.dixie.edu/kxdi.mp3"
-        },
-        {
-            name: "100.7 K264BM",
-            logo: "stations/images-america/0_general_logos/Classical 89.png",
-            url: "https://radio.byub.org/classical89/classical89_aac"
         },
         {
             name: "Sunny 101.5",
@@ -23773,9 +23761,24 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KCLS"
         },
         {
+            name: "101.5 KCLS-HD2",
+            logo: "stations/images-america/st_george/96X.png",
+            url: "http://ice41.securenetsystems.net/KCLSHD2"
+        },
+        {
+            name: "101.5 KCLS-HD3",
+            logo: "stations/images-america/st_george/Juan 106.png",
+            url: "http://ice41.securenetsystems.net/KCLSHD3"
+        },
+        {
             name: "FOX Sports 101.9",
             logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
             url: "https://live.amperwave.net/manifest/townsquare-kxfffmaac-ibc3"
+        },
+        {
+            name: "102.3 Coyote Country",
+            logo: "stations/images-america/st_george/102.3 Coyote Country.png",
+            url: "http://ice10.securenetsystems.net/KUTQ"
         },
         {
             name: "KZEZ 102.7",
@@ -23788,6 +23791,11 @@ var stations = {
             url: "http://ice10.securenetsystems.net/KURR"
         },
         {
+            name: "103.7 K279BN",
+            logo: "stations/images-america/st_george/Cat Country Utah_christmas.png",
+            url: "https://live.amperwave.net/direct/townsquare-kcinfmaac-ibc3"
+        },
+        {
             name: "104.1 Zion FM",
             logo: "stations/images-america/st_george/104.1 Zion FM.png",
             url: "http://ice24.securenetsystems.net/KZYN"
@@ -23798,18 +23806,43 @@ var stations = {
             url: "https://ice10.securenetsystems.net/KPLD"
         },
         {
+            name: "106.1 KDXU",
+            logo: "stations/images-america/st_george/106.1 KDXU.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kdxuamaac-ibc3"
+        },
+        {
+            name: "106.1 KDXU-HD2",
+            logo: "stations/images-america/st_george/ESPN 97.7.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kdxufmhd2aac-ibc3"
+        },
+        {
+            name: "106.1 KDXU-HD3",
+            logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kxfffmaac-ibc3"
+        },
+        {
             name: "Juan 106",
             logo: "stations/images-america/st_george/Juan 106.png",
             url: "https://ice41.securenetsystems.net/KCLSHD3"
         },
         {
+            name: "Cat Country 107.3",
+            logo: "stations/images-america/st_george/Cat Country Utah_christmas.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kcinfmaac-ibc3"
+        },
+        {
+            name: "107.7 K299CB",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "http://audio.KUER.org:8000//high"
+        },
+        {
             name: "KSUB 590",
-            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            logo: "stations/images-america/st_george/KSUB 590.png",
             url: "https://live.amperwave.net/manifest/townsquare-ksubamaac-ibc3"
         },
         {
             name: "KDXU 890",
-            logo: "stations/images-america/cedar_city/KDXU 890.png",
+            logo: "stations/images-america/st_george/106.1 KDXU.png",
             url: "https://live.amperwave.net/manifest/townsquare-kdxuamaac-ibc3"
         },
         {
@@ -24386,7 +24419,7 @@ var stations = {
         },
         {
             name: "KSUB 590",
-            logo: "stations/images-america/cedar_city/KSUB 590.png",
+            logo: "stations/images-america/st_george/KSUB 590.png",
             url: "https://live.amperwave.net/manifest/townsquare-ksubamaac-ibc3"
         },
         {
@@ -37738,7 +37771,7 @@ var stations_c2c = {
         },*/
         {
             name: "Sunny 98.3",
-            logo: "stations/images-america/c2c/monroe_la/Sunny 98.3.png",
+            logo: "stations/images-america/c2c/monroe_la/Sunny 98.3_christmas.png",
             url: "https://ice9.securenetsystems.net/KZRZ"
         },
         {
@@ -53059,8 +53092,8 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WHTQFMAAC_SC"
         },
         {
-            name: "Wave 100.5",
-            logo: "stations/images-america/c2c/wausau_wi/Wave 100.5.png",
+            name: "WAVE 100.5",
+            logo: "stations/images-america/c2c/wausau_wi/Wave 100.5_christmas.png",
             url: "https://us2.maindigitalstream.com/ssl/WAVL"
         },
         {
