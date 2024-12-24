@@ -30135,8 +30135,8 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/townsquare-wtughd2aac-ibc3"
         },
         {
-            name: "ALT 101.7",
-            logo: "stations/images-america/c2c/tuscaloosa_al/ALT 101.7.png",
+            name: "101.7 The River",
+            logo: "stations/images-america/c2c/tuscaloosa_al/101.7 The River.png",
             url: "https://live.amperwave.net/manifest/townsquare-wqrrfmaac-ibc3"
         },
         {
