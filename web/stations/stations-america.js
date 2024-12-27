@@ -6171,12 +6171,12 @@ var stations = {
             name: "Pride Radio 97.3-HD3",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
-        },/*
+        },
         {
-            name: "Mile High Sports 98.1",
-            logo: "stations/images-america/denver/Mile High Sports 98.1.png",
-            url: "https://www.streamcontrol.net:8444/s/12230"
-        },*/
+            name: "98.1 K251CV",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+        },
         {
             name: "98.5 KYGO",
             logo: "stations/images-america/denver/98.5 KYGO.png",
@@ -8330,6 +8330,11 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFMAAC_SC"
         },
         {
+            name: "94.7 Jack FM",
+            logo: "stations/images-america/flagstaff/94.7 Jack FM.png",
+            url: "http://stream.affordablestreaming.com:8000/JACKFM.mp3"
+        },
+        {
             name: "95.9 The Cloud",
             logo: "stations/images-america/flagstaff/95.9 The Cloud.png",
             url: "https://live.amperwave.net/manifest/yavapai-kkldfmaac-ibc1"
@@ -8353,6 +8358,11 @@ var stations = {
             name: "KPPV 100.7",
             logo: "stations/images-america/flagstaff/KPPV 100.7.png",
             url: "http://stream.affordablestreaming.com:8000/KPPV.mp3"
+        },
+        {
+            name: "100.7 KPPV-HD2",
+            logo: "stations/images-america/flagstaff/94.7 Jack FM.png",
+            url: "http:///stream.affordablestreaming.com:8000/JACKFM.mp3"
         },
         {
             name: "Radio Sunnyside 101.5",
@@ -11901,8 +11911,8 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "KC 102.1",
-            logo: "stations/images-america/kansas_city/KC 102.1_christmas.png",
+            name: "102.1 BOB FM",
+            logo: "stations/images-america/kansas_city/102.1 BOB FM.png",
             url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7042_48k.aac"
         },
         {
@@ -19432,9 +19442,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc5130/hls.m3u8"
         },
         {
-            name: "Hot 103.9",
-            logo: "stations/images-america/riverside/Hot 103.9.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KHTIFMAAC_SC"
+            name: "KATY 103.9",
+            logo: "stations/images-america/riverside/KATY 103.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KATYFMAAC_SC"
         },
         {
             name: "Old School 104.7",
@@ -45752,6 +45762,11 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYCKFMAAC_SC"
         },
         {
+            name: "Q98",
+            logo: "stations/images-america/c2c/grand_forks_nd/Q98.png",
+            url: "https://ice10.securenetsystems.net/KQYZ"
+        },
+        {
             name: "100.3 The Cat",
             logo: "stations/images-america/c2c/grand_forks_nd/100.3 The Cat.png",
             url: "https://stream.revma.ihrhls.com/zc1673/hls.m3u8"
@@ -51571,8 +51586,8 @@ var stations_c2c = {
             url: "https://live.amperwave.net/direct/saga-wafxfmaac-ibc1"
         },
         {
-            name: "MOViN 107.7",
-            logo: "stations/images-america/c2c/norfolk_va/MOViN 107.7_christmas.png",
+            name: "Party 107.7",
+            logo: "stations/images-america/c2c/norfolk_va/Party 107.7.png",
             url: "https://stream.revma.ihrhls.com/zc5008/hls.m3u8"
         },
         {
