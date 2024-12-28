@@ -11856,9 +11856,9 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-kfnzfmaac-imc"
         },
         {
-            name: "Channel Q 96.5-HD2",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            name: "96.5 KFNZ-HD2",
+            logo: "stations/images-america/kansas_city/The Fan 610.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-kfnzamaac-imc"
         },
         {
             name: "K-LOVE 97.3",
@@ -11884,6 +11884,11 @@ var stations = {
             name: "99.7 The Point",
             logo: "stations/images-america/kansas_city/99.7 The Point.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kzptfmaac-imc"
+        },
+        {
+            name: "Channel Q 99.7-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "KONN 100.1",
@@ -11959,11 +11964,6 @@ var stations = {
             name: "106.5 The Wolf",
             logo: "stations/images-america/kansas_city/106.5 The Wolf.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wdaffmaac-imc"
-        },
-        {
-            name: "106.5 WDAF-HD2",
-            logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "RNB 106.9",
@@ -32393,7 +32393,7 @@ var stations_c2c = {
             url: "https://ice66.securenetsystems.net/WTMY"
         },
         {
-            name: "103.9 SANTA FM",
+            name: "103.9 KISS FM",
             logo: "stations/images-america/c2c/sarasota_fl/103.9 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc3309/hls.m3u8"
         },
@@ -33213,11 +33213,6 @@ var stations_c2c = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "iHeart Christmas Rock 102.3-HD2",
-            logo: "stations/images-america/c2c/augusta_ga/iHeart Christmas Rock 102.3-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6410/hls.m3u8"
-        },
-        {
             name: "Sunny 102.7",
             logo: "stations/images-america/c2c/augusta_ga/Sunny 102.7.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WGUSFMAAC_SC"
@@ -33231,11 +33226,6 @@ var stations_c2c = {
             name: "104.3 WBBQ",
             logo: "stations/images-america/c2c/augusta_ga/104.3 WBBQ.png",
             url: "https://stream.revma.ihrhls.com/zc757/hls.m3u8"
-        },
-        {
-            name: "iHeart Christmas Country 104.3-HD2",
-            logo: "stations/images-america/c2c/augusta_ga/iHeart Christmas Country 104.3-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4601/hls.m3u8"
         },
         {
             name: "105.7 The Bull",
