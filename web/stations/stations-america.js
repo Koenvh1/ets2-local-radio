@@ -6163,7 +6163,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2804/hls.m3u8"
         },
         {
-            name: "The KBCO Studio C Channel 97.3-HD2",
+            name: "97.3 KBCO-HD2",
             logo: "stations/images-america/denver/The KBCO Studio C Channel 97.3-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc4866/hls.m3u8"
         },
