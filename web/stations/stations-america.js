@@ -8523,7 +8523,7 @@ var stations = {
         },
         {
             name: "97.9 KXBG-HD2",
-            logo: "stations/images-america/fort_collins/B107.3.png",
+            logo: "stations/images-america/fort_collins/B107.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6731"
         },
         {
