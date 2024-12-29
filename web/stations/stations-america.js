@@ -8287,6 +8287,11 @@ var stations = {
             logo: "stations/images-america/fayetteville_ar/The Ticket 2 1590.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KYNGAMAAC_SC"
         },
+        {
+            name: "NOAA Weather Radio Fayetteville",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/30688"
+        },
     ],
     "flagstaff": [
         {
@@ -8489,7 +8494,7 @@ var stations = {
         {
             name: "Pirate Radio 93.5",
             logo: "stations/images-america/fort_collins/Pirate Radio 93.5.png",
-            url: "http://sc2.spacialnet.com:33358/;"
+            url: "https://s8.yesstreaming.net:7122/stream"
         },
         {
             name: "93.9 Way FM",
@@ -8572,8 +8577,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7891_96k.aac"
         },
         {
-            name: "B107.3",
-            logo: "stations/images-america/fort_collins/B107.3.png",
+            name: "Christmas 107.3",
+            logo: "stations/images-america/fort_collins/B107.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc6731/hls.m3u8"
         },
         {
@@ -11381,6 +11386,11 @@ var stations = {
             logo: "stations/images-america/indio/107.3 Mod FM.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdeshd2aac-ibc4"
         },
+        {
+            name: "NOAA Weather Radio Coachella",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/42818"
+        },
     ],
     "jackson": [
         {
@@ -12180,9 +12190,9 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTELAMAAC_SC"
         },
         {
-            name: "NOAA Weather Radio Richland",
+            name: "NOAA Weather Radio Pendleton",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://radio.weatherusa.net/NWR/WWF56_2.mp3"
+            url: "https://broadcastify.cdnstream1.com/41784"
         },
     ],
     "kerrville": [
@@ -19476,6 +19486,11 @@ var stations = {
             logo: "stations/images-america/riverside/BIN 1440.png",
             url: "https://stream.revma.ihrhls.com/zc4084/hls.m3u8"
         },
+        {
+            name: "NOAA Weather Radio Coachella",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/42818"
+        },
     ],
     "riverton": [
         {
@@ -26643,6 +26658,11 @@ var stations = {
             name: "1280 KIT",
             logo: "stations/images-america/yakima/1280 KIT.png",
             url: "https://live.amperwave.net/manifest/townsquare-kitamaac-ibc3"
+        },
+        {
+            name: "NOAA Weather Radio Yakima",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/34002"
         },
     ],
     "yuma": [
