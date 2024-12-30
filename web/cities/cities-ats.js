@@ -17,6 +17,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.8
     },
+    "ada": {
+        name: "Ada",
+        name_english: "Ada",
+        code: "us-ok",
+        relative_radius: 0.4
+    },
     "alamogordo": {
         name: "Alamogordo",
         name_english: "Alamogordo",
@@ -2057,6 +2063,9 @@ var city_properties = {
     "abilene": {
         relative_whitenoise: 0.85
     },
+    "ada": {
+        relative_whitenoise: 0.94
+    },
     "alamosa": {
         relative_whitenoise: 0.85
     },
@@ -3204,6 +3213,14 @@ var cities = [
         "x": "-17366.2",
         "y": "77.5664",
         "z": "36430.9"
+    },
+    {
+        "gameName": "ada",
+        "realName": "Ada",
+        "country": "ada",
+        "x": "-845.34",
+        "y": "124.094",
+        "z": "23678.3"
     },
     {
         "gameName": "alamogordo",

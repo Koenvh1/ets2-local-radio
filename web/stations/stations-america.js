@@ -345,6 +345,23 @@ var stations = {
             url: "https://broadcastify.cdnstream1.com/42709"
         },
     ],
+    "ada": [
+        {
+            name: "100.1 KYKC",
+            logo: "stations/images-america/ada/100.1 KYKC.png",
+            url: "https://crystalout.surfernetwork.com:8001/KYKC-FM_MP3"
+        },
+        {
+            name: "105.5 The X-Factor",
+            logo: "stations/images-america/ada/105.5 The X-Factor.png",
+            url: "https://crystalout.surfernetwork.com:8001/KXFC-FM_MP3"
+        },
+        {
+            name: "106.5 Boss FM",
+            logo: "stations/images-america/ada/106.5 Boss FM.png",
+            url: "https://crystalout.surfernetwork.com:8001/KTLS-FM_MP3"
+        },
+    ],
     "alamogordo": [
         {
             name: "KHII 88.9",
@@ -6959,11 +6976,6 @@ var stations = {
             url: "https://stream.zeno.fm/25a0y7s5dkhvv"
         },
         {
-            name: "La Poderosa 1050",
-            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
-            url: "https://stream.zeno.fm/k8rm10r5dkhvv"
-        },
-        {
             name: "KLPZ 1380",
             logo: "stations/images-america/kingman/KLPZ 1380.png",
             url: "https://s5.voscast.com:7837/stream"
@@ -8523,7 +8535,7 @@ var stations = {
         },
         {
             name: "97.9 KXBG-HD2",
-            logo: "stations/images-america/fort_collins/B107.3_christmas.png",
+            logo: "stations/images-america/fort_collins/107.3 Rewind.png",
             url: "https://stream.revma.ihrhls.com/zc6731"
         },
         {
@@ -8577,8 +8589,8 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7891_96k.aac"
         },
         {
-            name: "Christmas 107.3",
-            logo: "stations/images-america/fort_collins/B107.3_christmas.png",
+            name: "107.3 Rewind",
+            logo: "stations/images-america/fort_collins/107.3 Rewind.png",
             url: "https://stream.revma.ihrhls.com/zc6731/hls.m3u8"
         },
         {
@@ -8937,6 +8949,11 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://icecast.auxiliary.com/kfsr"
         },
         {
+            name: "92.1 Enamorada",
+            logo: "stations/images-america/fresno/92.1 Enamorada.png",
+            url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/krdafm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
             name: "La Preciosa 92.9",
             logo: "stations/images-america/fresno/La Preciosa 92.9.png",
             url: "https://stream.revma.ihrhls.com/zc3421/hls.m3u8"
@@ -9072,8 +9089,13 @@ var stations = {
             url: "https://ice42.securenetsystems.net/KYOS"
         },
         {
-            name: "Zona MX 107.9",
-            logo: "stations/images-america/fresno/Zona MX 107.9.png",
+            name: "La Explosiva 107.5",
+            logo: "stations/images-america/fresno/La Explosiva 107.5.png",
+            url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/kondfm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
+            name: "La Picosa 107.9",
+            logo: "stations/images-america/fresno/La Picosa 107.9.png",
             url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/kllefm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
@@ -13072,8 +13094,8 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
         },
         {
-            name: "99.3 Latino Mix",
-            logo: "stations/images-america/las_vegas/99.3 Latino Mix.png",
+            name: "Latino Beats 99.3",
+            logo: "stations/images-america/las_vegas/Latino Beats 99.3.png",
             url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/krgtfm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
@@ -13137,8 +13159,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
         },
         {
-            name: "Zona MX 103.5",
-            logo: "stations/images-america/las_vegas/Zona MX 103.5.png",
+            name: "La Tremenda 103.5",
+            logo: "stations/images-america/las_vegas/La Tremenda 103.5.png",
             url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/kisffm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
@@ -15068,7 +15090,7 @@ var stations = {
         },
         {
             name: "1300 The Patriot",
-            logo: "stations/images-america/tulsa/1300 The Patriot.png",
+            logo: "stations/images-america/tulsa/93.5 The Patriot.png",
             url: "https://stream.revma.ihrhls.com/zc1921/hls.m3u8"
         },
         {
@@ -15149,8 +15171,8 @@ var stations = {
             url: "https://stream.zeno.fm/b04err5zfkhvv"
         },
         {
-            name: "Recuerdo 96.1",
-            logo: "stations/images-america/mcallen_brownsville/Recuerdo 96.1.png",
+            name: "96.1 La Exitosa",
+            logo: "stations/images-america/mcallen_brownsville/96.1 La Exitosa.png",
             url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/kbtqfm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
@@ -15169,8 +15191,8 @@ var stations = {
             url: "http://radio.alphamx.net:8104/stream"
         },
         {
-            name: "La Jefa 98.5",
-            logo: "stations/images-america/mcallen_brownsville/La Jefa 98.5.png",
+            name: "La Preferida 98.5",
+            logo: "stations/images-america/mcallen_brownsville/La Preferida 98.5.png",
             url: "http://204.93.186.205/index.php?u=https://lmn.streamguys1.com/kgbtfm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
@@ -15239,7 +15261,7 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2321/hls.m3u8"
         },
         {
-            name: "La Mezcla Fuego 106.3-HD2",
+            name: "106.3 KHKZ-HD2",
             logo: "stations/images-america/mcallen_brownsville/La Mezcla Fuego con DJ Xtreme 106.3-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc7369/hls.m3u8"
         },
@@ -28494,11 +28516,6 @@ var stations_mexico = {
             url: "http://s1.audiorama.mx:6592/stream"
         },
         {
-            name: "La Poderosa 96.9",
-            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
-            url: "https://stream.zeno.fm/k8rm10r5dkhvv"
-        },
-        {
             name: "Power 98",
             logo: "stations/images-america/mexico/mexicali/Power 98.png",
             url: "https://s2.mexside.net/8220/stream"
@@ -28547,11 +28564,6 @@ var stations_mexico = {
             name: "La Rocola 990",
             logo: "stations/images-america/mexico/mexicali/La Rocola 990.png",
             url: "https://stream.zeno.fm/25a0y7s5dkhvv"
-        },
-        {
-            name: "La Poderosa 1050",
-            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
-            url: "http://stream.zeno.fm/k8rm10r5dkhvv"
         },
         {
             name: "Vida 1370",
