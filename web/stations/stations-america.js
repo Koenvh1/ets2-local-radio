@@ -345,23 +345,6 @@ var stations = {
             url: "https://broadcastify.cdnstream1.com/42709"
         },
     ],
-    "ada": [
-        {
-            name: "100.1 KYKC",
-            logo: "stations/images-america/ada/100.1 KYKC.png",
-            url: "https://crystalout.surfernetwork.com:8001/KYKC-FM_MP3"
-        },
-        {
-            name: "105.5 The X-Factor",
-            logo: "stations/images-america/ada/105.5 The X-Factor.png",
-            url: "https://crystalout.surfernetwork.com:8001/KXFC-FM_MP3"
-        },
-        {
-            name: "106.5 Boss FM",
-            logo: "stations/images-america/ada/106.5 Boss FM.png",
-            url: "https://crystalout.surfernetwork.com:8001/KTLS-FM_MP3"
-        },
-    ],
     "alamogordo": [
         {
             name: "KHII 88.9",
@@ -15044,6 +15027,11 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KTCSFM"
         },
         {
+            name: "100.1 KYKC",
+            logo: "stations/images-america/mcalester/100.1 KYKC.png",
+            url: "https://crystalout.surfernetwork.com:8001/KYKC-FM_MP3"
+        },
+        {
             name: "100.3 K262CS",
             logo: "stations/images-america/mcalester/Hope 94.3.png",
             url: "http://ice24.securenetsystems.net/KPOP"
@@ -15064,6 +15052,16 @@ var stations = {
             url: "https://ice6.securenetsystems.net/KTMCFM"
         },
         {
+            name: "105.5 The X-Factor",
+            logo: "stations/images-america/mcalester/105.5 The X-Factor.png",
+            url: "https://crystalout.surfernetwork.com:8001/KXFC-FM_MP3"
+        },
+        {
+            name: "106.5 Boss FM",
+            logo: "stations/images-america/mcalester/106.5 Boss FM.png",
+            url: "https://crystalout.surfernetwork.com:8001/KTLS-FM_MP3"
+        },
+        {
             name: "740 KRMG",
             logo: "stations/images-america/tulsa/102.3 KRMG.png",
             url: "https://cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac"
@@ -15081,7 +15079,7 @@ var stations = {
         {
             name: "1170 News On 6 Now",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "https://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
         },
         {
             name: "KVLF 1240",
