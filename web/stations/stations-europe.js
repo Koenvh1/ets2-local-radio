@@ -3702,7 +3702,7 @@ var stations = {
         {
             name: "Ράδιο Ανάμνηση",
             logo: "stations/images-europe/greece_crete/Ράδιο Ανάμνηση.png",
-            url: "https://cast4.my-control-panel.com/proxy/anastas2/stream"
+            url: "https://netradio.live24.gr/radioanamnisi910"
         },
         {
             name: "Radio Family",
