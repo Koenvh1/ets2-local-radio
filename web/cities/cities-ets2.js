@@ -1136,7 +1136,7 @@ var city_properties = {
         relative_whitenoise: 0.95,
     },
     "ruse": {
-        relative_radius: 0.6,
+        relative_radius: 0.8,
     },
     "rutba": {
         relative_radius: 1.6,
@@ -1155,6 +1155,9 @@ var city_properties = {
     },
     "saratov": {
         relative_radius: 1.5,
+    },
+    "schumen": {
+        relative_radius: 1.0,
     },
     "shaumyan": {
         relative_radius: 0.5,
@@ -1292,6 +1295,9 @@ var city_properties = {
     },
     "vantaa": {
         relative_radius: 0.5,
+    },
+    "varna": {
+        relative_radius: 1.0,
     },
     "vasaros": {
         relative_radius: 0.5,
@@ -4286,14 +4292,6 @@ var cities = [
         "z": "-91216.5"
     },
     {
-        "gameName": "ruse",
-        "realName": "Русе (Ruse)",
-        "country": "bulgaria",
-        "x": "62049.8",
-        "y": "117.207",
-        "z": "36232.5"
-    },
-    {
         "gameName": "rzeszow",
         "realName": "Rzeszów",
         "country": "poland",
@@ -6224,6 +6222,14 @@ var cities_balkan_e = [
         "x": "61454",
         "y": "67.8398",
         "z": "35069.8"
+    },
+    {
+        "gameName": "schumen",
+        "realName": "Шумен",
+        "country": "bulgaria",
+        "x": "65001.3",
+        "y": "11.012",
+        "z": "36977.8"
     },
     {
         "gameName": "sofia",
@@ -11040,14 +11046,6 @@ var cities_romania_extended = [
         "x": "54005.8",
         "y": "65.5",
         "z": "29711.6"
-    },
-    {
-        "gameName": "varna",
-        "realName": "Варна",
-        "country": "bulgaria",
-        "x": "69573.8",
-        "y": "60",
-        "z": "38672.4"
     },
     {
         "gameName": "veliko",
