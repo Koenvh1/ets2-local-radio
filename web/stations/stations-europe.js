@@ -3706,7 +3706,7 @@ var stations = {
         },
         {
             name: "Radio Family",
-            logo: "stations/images-europe/greece_crete/Radio Family_christmas.png",
+            logo: "stations/images-europe/greece_crete/Radio Family.png",
             url: "https://www.fmlive.gr/8002/stream"
         },
         {
@@ -3763,7 +3763,7 @@ var stations = {
         },
         {
             name: "Love Radio",
-            logo: "stations/images-europe/greece_mitilini/Love Radio_christmas.png",
+            logo: "stations/images-europe/greece_mitilini/Love Radio.png",
             url: "https://solid1.streamupsolutions.com/proxy/apzxhsah?mp=/stream"
         },
         {
