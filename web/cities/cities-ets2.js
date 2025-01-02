@@ -1259,7 +1259,7 @@ var city_properties = {
         relative_radius: 0.25,
     },
     "thessaloniki": {
-        relative_radius: 1.0,
+        relative_radius: 0.9,
         relative_whitenoise: 0.9,
     },
     "timisoara": {
