@@ -669,8 +669,8 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "athens": {
-        relative_radius: 1.0,
-        relative_whitenoise: 0.8,
+        relative_radius: 0.9,
+        relative_whitenoise: 0.95,
     },
     "augustow": {
         relative_radius: 0.5,
@@ -862,7 +862,8 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "ioannina": {
-        relative_radius: 1.1,
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85,
     },
     "lehavre": {
         relative_radius: 0.7,
@@ -1259,8 +1260,8 @@ var city_properties = {
         relative_radius: 0.25,
     },
     "thessaloniki": {
-        relative_radius: 0.9,
-        relative_whitenoise: 0.9,
+        relative_radius: 0.7,
+        relative_whitenoise: 0.85,
     },
     "timisoara": {
         relative_radius: 0.5,
@@ -2956,7 +2957,7 @@ var cities = [
         "gameName": "ioannina",
         "realName": "Ιωάννινα",
         "country": "greece",
-        "x": "42243.9",
+        "x": "41143.9",
         "y": "117.402",
         "z": "61500.4"
     },
@@ -2964,7 +2965,7 @@ var cities = [
         "gameName": "ioannina",
         "realName": "Ιωάννινα",
         "country": "greece_ioannina",
-        "x": "42243.9",
+        "x": "41143.9",
         "y": "117.402",
         "z": "61500.4"
     },
