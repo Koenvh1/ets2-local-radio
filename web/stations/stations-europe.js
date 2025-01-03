@@ -5238,6 +5238,28 @@ var stations = {
             url: "https://radio.smashmalta.com/stream"
         },
     ],
+    "monaco": [
+        {
+            name: "Radio Monaco",
+            logo: "stations/images-europe/monaco/Radio Monaco.png",
+            url: "https://radiomonaco.ice.infomaniak.ch/radiomonaco-96.aac"
+        },
+        {
+            name: "Le Figaro Radio",
+            logo: "stations/images-europe/monaco/Le Figaro Radio.png",
+            url: "https://stream.rcs.revma.com/hbm385tup42vv"
+        },
+        {
+            name: "Radio Ethic",
+            logo: "stations/images-europe/monaco/Radio Ethic.png",
+            url: "http://163.172.37.18:8000/radioethic.mp3"
+        },
+        {
+            name: "Riviera Radio",
+            logo: "stations/images-europe/monaco/Riviera Radio.png",
+            url: "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3"
+        },
+    ],
     "montenegro": [
         {
             name: "RCG",
@@ -8029,6 +8051,40 @@ var stations = {
             logo: "stations/images-europe/ukraine/Шлягер FM.png",
             url: "https://cast.fex.net/shanson_x"
         },
+    ],
+    "uzbekistan": [
+        // TODO: manage tokenized streams
+        /*{
+            name: "Radio O'zbekiston",
+            logo: "stations/images-europe/uzbekistan/Radio O'zbekiston.png",
+            url: "https://st2.mediabay.tv/Radio_Uzbekistan/playlist.m3u8?token=ca2521aa8e234e7ec4b74ae277ca00ed0af81b1d-24aa7a8236d700a4975061b8f57d8442-1735556951-1735546151"
+        },
+        {
+            name: "Radio Yoshlar",
+            logo: "stations/images-europe/uzbekistan/Radio Yoshlar.png",
+            url: "https://st2.mediabay.tv/Radio_Yoshlar/playlist.m3u8?token=a27865010d3bce995f244753f955a55d56c717f3-21bb0294c0e6e1a7d25eb0eb151bec41-1735556951-1735546151"
+        },
+        {
+            name: "Radio Mahalla",
+            logo: "stations/images-europe/uzbekistan/Radio Mahalla.png",
+            url: "https://st2.mediabay.tv/Radio_Mahalla/playlist.m3u8?token=f31a4e9654b01eb5190e4dd516249f6c9f7a051b-83ec327ce84d6d74dd718bed71d60130-1735556951-1735546151"
+        },*/
+        {
+            name: "Oriat Dono",
+            logo: "stations/images-europe/uzbekistan/Oriat Dono.png",
+            url: "http://194.5.152.248:8000/dono"
+        },
+        {
+            name: "O'zbegim Taronasi",
+            logo: "stations/images-europe/uzbekistan/O'zbegim Taronasi.png",
+            url: "http://fm101.uz:9900/fm101_low.aac"
+        },
+        /*{
+            name: "Vodiy Sadosi",
+            logo: "stations/images-europe/uzbekistan/Эхо Долины.png",
+            url: "https://st2.mediabay.tv/Radio_Echo/playlist.m3u8?token=5149f572e31f0865fb6fa437ec16782594d0494b-ec86110324fd969684384a839988af93-1735556951-1735546151"
+        },*/
+
     ],
     "wales": [
         {
