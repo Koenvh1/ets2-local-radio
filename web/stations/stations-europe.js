@@ -3484,7 +3484,7 @@ var stations = {
             url: "https://s2.myradiostream.com/32910/listen.mp3"
         },
     ],
-    "greece": [
+    "greece_ert": [
         {
             name: "ΕΡΤ Πρώτο πρόγραμμα",
             logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
@@ -3505,6 +3505,8 @@ var stations = {
             logo: "stations/images-europe/greece/ΕΡΑ Σπορ.png",
             url: "http://radiostreaming.ert.gr/ert-erasport"
         },
+    ],
+    "greece": [
         {
             name: "DeeJay",
             logo: "stations/images-europe/greece/DeeJay.png",
@@ -3516,24 +3518,9 @@ var stations = {
             url: "http://hroma1058thess.live24.gr/hroma1058thess"
         },
         {
-            name: "KISS FM",
+            name: "KISS",
             logo: "stations/images-europe/greece/KISS.png",
             url: "https://kissfm.live24.gr/kissfmathens"
-        },
-        {
-            name: "Mad Radio",
-            logo: "stations/images-europe/greece/Mad Radio.png",
-            url: "http://mediaserver.mad.tv/stream"
-        },
-        {
-            name: "Marios Blackman",
-            logo: "stations/images-europe/greece/Marios Blackman.png",
-            url: "https://cloud.123hosting.gr:2200/radio/black9326?mp=/stream"
-        },
-        {
-            name: "Metropolis",
-            logo: "stations/images-europe/greece/Metropolis 95.5.png",
-            url: "http://metropolis.live24.gr/metropolis955thess"
         },
         {
             name: "Μελωδια",
@@ -3546,13 +3533,8 @@ var stations = {
             url: "http://s2.free-shoutcast.com:18560/stream/;.mp3"
         },
         {
-            name: "ΡΥΘΜΟΣ FM",
-            logo: "stations/images-europe/greece/ΡΥΘΜΟΣ FM.png",
-            url: "https://stream.rcs.revma.com/0btynq5r4a0uv"
-        },
-        {
             name: "ΣΚΑΪ",
-            logo: "stations/images-europe/greece/ΣΚΑΪ 100,3.png",
+            logo: "stations/images-europe/greece/ΣΚΑΪ.png",
             url: "https://skai.live24.gr/skai1003"
         },
         {
@@ -3596,6 +3578,11 @@ var stations = {
             name: "ΕΡΤ Κόσμος 93.6",
             logo: "stations/images-europe/greece/athens/ΕΡΤ Κόσμος.png",
             url: "https://radiostreaming.ert.gr/ert-kosmos"
+        },
+        {
+            name: "ΣΠΟΡ FM 94.6",
+            logo: "stations/images-europe/greece/ΣΠΟΡ FM.png",
+            url: "https://sportfm.live24.gr/sportfm7712"
         },
         {
             name: "DeeJay 95.2",
@@ -4103,6 +4090,11 @@ var stations = {
             name: "Ράδιο Θεσσαλονίκη 94.5",
             logo: "stations/images-europe/greece/thessaloniki/Ράδιο Θεσσαλονίκη 94.5.png",
             url: "https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1"
+        },
+        {
+            name: "Metropolis 95.5",
+            logo: "stations/images-europe/greece/thessaloniki/Metropolis 95.5.png",
+            url: "http://metropolis.live24.gr/metropolis955thess"
         },
         {
             name: "Μινόρε 96.1",

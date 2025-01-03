@@ -287,6 +287,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_ert": {
+        name: "Ελλάδα",
+        name_english: "Greece",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_athens": {
         name: "Αθήνα",
         name_english: "Athens",
@@ -1532,6 +1538,14 @@ var cities = [
     {
         "gameName": "argostoli",
         "realName": "Αργοστόλι",
+        "country": "greece_ert",
+        "x": "41635.2",
+        "y": "58.2891",
+        "z": "71521.2"
+    },
+    {
+        "gameName": "argostoli",
+        "realName": "Αργοστόλι",
         "country": "greece",
         "x": "41635.2",
         "y": "58.2891",
@@ -1548,7 +1562,7 @@ var cities = [
     {
         "gameName": "athens",
         "realName": "Αθήνα",
-        "country": "greece",
+        "country": "greece_ert",
         "x": "56730.6",
         "y": "79.0391",
         "z": "69993.6"
@@ -2956,7 +2970,7 @@ var cities = [
     {
         "gameName": "ioannina",
         "realName": "Ιωάννινα",
-        "country": "greece",
+        "country": "greece_ert",
         "x": "41143.9",
         "y": "117.402",
         "z": "61500.4"
@@ -3044,6 +3058,14 @@ var cities = [
     {
         "gameName": "kalamata",
         "realName": "Καλαμάτα",
+        "country": "greece_ert",
+        "x": "50786.1",
+        "y": "47.2227",
+        "z": "77064.9"
+    },
+    {
+        "gameName": "kalamata",
+        "realName": "Καλαμάτα",
         "country": "greece",
         "x": "50786.1",
         "y": "47.2227",
@@ -3116,7 +3138,7 @@ var cities = [
     {
         "gameName": "kavala",
         "realName": "Καβάλα",
-        "country": "greece",
+        "country": "greece_ert",
         "x": "57735.3",
         "y": "90.5078",
         "z": "52360.8"
@@ -3364,10 +3386,26 @@ var cities = [
     {
         "gameName": "lamia",
         "realName": "Λαμία",
+        "country": "greece_ert",
+        "x": "49889.7",
+        "y": "69.8047",
+        "z": "65483.1"
+    },
+    {
+        "gameName": "lamia",
+        "realName": "Λαμία",
         "country": "greece",
         "x": "49889.7",
         "y": "69.8047",
         "z": "65483.1"
+    },
+    {
+        "gameName": "larissa",
+        "realName": "Λάρισα",
+        "country": "greece_ert",
+        "x": "50113.6",
+        "y": "87.3086",
+        "z": "62125.7"
     },
     {
         "gameName": "larissa",
@@ -4068,6 +4106,14 @@ var cities = [
     {
         "gameName": "patras",
         "realName": "Πάτρα",
+        "country": "greece_ert",
+        "x": "46684.7",
+        "y": "144.914",
+        "z": "71014.3"
+    },
+    {
+        "gameName": "patras",
+        "realName": "Πάτρα",
         "country": "greece",
         "x": "46684.7",
         "y": "144.914",
@@ -4628,7 +4674,7 @@ var cities = [
     {
         "gameName": "thessaloniki",
         "realName": "Θεσσαλονίκη",
-        "country": "greece",
+        "country": "greece_ert",
         "x": "51623.8",
         "y": "68.1992",
         "z": "55931.2"
@@ -4704,6 +4750,14 @@ var cities = [
         "x": "10213.52",
         "y": "-6.56",
         "z": "29184.84"
+    },
+    {
+        "gameName": "trikala",
+        "realName": "Τρίκαλα",
+        "country": "greece_ert",
+        "x": "46870",
+        "y": "94.8516",
+        "z": "62412.9"
     },
     {
         "gameName": "trikala",

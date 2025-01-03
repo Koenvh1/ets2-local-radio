@@ -4448,8 +4448,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2209/hls.m3u8"
         },
         {
-            name: "KAGC 97.3",
-            logo: "stations/images-america/college_station/KAGC 97.3.png",
+            name: "Magic 97.3",
+            logo: "stations/images-america/college_station/Magic 97.3.png",
             url: "http://204.93.186.205/index.php?u=https://ice42.securenetsystems.net/KAGCAM"
         },
         {
@@ -9959,9 +9959,19 @@ var stations = {
             url: "https://ais-sa1.streamon.fm/7012_24k.aac"
         },
         {
+            name: "CSN Radio 89.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "Salt & Light Radio 89.5",
             logo: "stations/images-america/boise/Salt & Light Radio.png",
             url: "http://ssl-2.stream.miriamtech.net/salt-light/live"
+        },
+        {
+            name: "LifeTalk Radio 89.7",
+            logo: "stations/images-america/0_general_logos/LifeTalk Radio.png",
+            url: "https://ais-sa1.streamon.fm/7013_64k.aac"
         },
         {
             name: "NWPB Classical 90.1",
@@ -9992,6 +10002,16 @@ var stations = {
             name: "96.9 KORT",
             logo: "stations/images-america/grangeville/96.9 KORT.png",
             url: "https://us9.maindigitalstream.com/ssl/969kort"
+        },
+        {
+            name: "Canyon Country 106.9",
+            logo: "stations/images-america/lewiston/Canyon Country 106.9.png",
+            url: "https://live.amperwave.net/manifest/mcvey-kmokfmaac-ibc"
+        },
+        {
+            name: "KORT 1230",
+            logo: "stations/images-america/grangeville/96.9 KORT.png",
+            url: "https:///us9.maindigitalstream.com/ssl/969kort"
         },
     ],
     "granite": [
@@ -13486,6 +13506,11 @@ var stations = {
             name: "HITS 104.7",
             logo: "stations/images-america/lewiston/HITS 104.7.png",
             url: "http://107.182.234.197:7805/stream"
+        },
+        {
+            name: "ZFun 106",
+            logo: "stations/images-america/lewiston/ZFun 106.png",
+            url: "https://live.amperwave.net/manifest/inland-kzfnfmaac-ibc2"
         },
         {
             name: "The River 105.1",
