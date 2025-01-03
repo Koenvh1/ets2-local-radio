@@ -635,7 +635,7 @@ var stations = {
         },
         {
             name: "MNM",
-            logo: "stations/images-europe/belgium-nl/VRT MNM.png",
+            logo: "stations/images-europe/belgium-nl/MNM.png",
             url: "http://icecast.vrtcdn.be/mnm-high.mp3"
         },
         {
@@ -1037,6 +1037,11 @@ var stations = {
     ],
     "catalonia": [
         {
+            name: "Ràdio 4",
+            logo: "stations/images-europe/catalonia/RNE Ràdio 4.png",
+            url: "https://dispatcher.rndfnk.com/crtve/rner4/main/mp3/high"
+        },
+        {
             name: "Catalunya Ràdio",
             logo: "stations/images-europe/catalonia/Catalunya Ràdio.png",
             url: "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
@@ -1050,6 +1055,11 @@ var stations = {
             name: "Catalunya Música",
             logo: "stations/images-europe/catalonia/Catalunya Música.png",
             url: "https://shoutcast.ccma.cat/ccma/catalunyamusicaHD.mp3"
+        },
+        {
+            name: "Digital Hits FM",
+            logo: "stations/images-europe/catalonia/Digital Hits FM.png",
+            url: "https://dhits.frilab.com:8443/dhits"
         },
         {
             name: "iCat",
@@ -1080,6 +1090,11 @@ var stations = {
             name: "Ràdio Estel",
             logo: "stations/images-europe/catalonia/Ràdio Estel.png",
             url: "https://srv6021.dns-lcinternet.com:10244/stream"
+        },
+        {
+            name: "Radio TeleTaxi",
+            logo: "stations/images-europe/catalonia/Radio TeleTaxi.png",
+            url: "https://radiott-web.streaming-pro.com:6103/radiott.mp3"
         },
         {
             name: "SER Catalunya",
@@ -4310,11 +4325,6 @@ var stations = {
             url: "https://stream.alkafeel.net/live/radio/playlist.m3u8"
         },
         {
-            name: "راديو سوا",
-            logo: "stations/images-europe/iraq/راديو سوا.png",
-            url: "https://mbnv-audio-ingest.akamaized.net/hls/live/2038906/MBNV_SAWA_IRAQ_AUDIO_HLS/merge.m3u8"
-        },
-        {
             name: "راديو الآن",
             logo: "stations/images-europe/iraq/راديو الآن.png",
             url: "https://c20.radioboss.fm/stream/543"
@@ -5536,11 +5546,6 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC_SC",
         },
         {
-            name: "538 TOP 50",
-            logo: "stations/images-europe/netherlands/538 TOP 50.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC_SC",
-        },
-        {
             name: "One World Radio",
             logo: "stations/images-europe/belgium-nl/One World Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NLAAC_SC"
@@ -5586,11 +5591,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC_SC",
         },
         {
-            name: "Radio Decibel",
-            logo: "stations/images-europe/netherlands/Radio Decibel.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODECIBEL_SC"
-        },
-        {
             name: "Radio Maria",
             logo: "stations/images-europe/netherlands/Radio Maria.png",
             url: "https://stream.radiomaria.nl/mp3"
@@ -5624,11 +5624,6 @@ var stations = {
             name: "Sky Radio Non-Stop Hits",
             logo: "stations/images-europe/netherlands/Sky Radio Non-Stop Hits.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC_SC",
-        },
-        {
-            name: "Sky Radio Nice & Easy",
-            logo: "stations/images-europe/netherlands/Sky Radio Nice & Easy.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07AAC_SC",
         },
         {
             name: "SLAM!",
@@ -5825,14 +5820,9 @@ var stations = {
             url: "https://p11.p4groupaudio.com/P11_MM"
         },
         {
-            name: "P12 Bandit",
-            logo: "stations/images-europe/norway/P12 Bandit.png",
-            url: "https://p12.p4groupaudio.com/BAN_AM"
-        },
-        {
-            name: "NRJ Norge",
-            logo: "stations/images-europe/norway/Energy.png",
-            url: "https://nrj.p4groupaudio.com/NRJ_MM"
+            name: "P12 Hitmix",
+            logo: "stations/images-europe/norway/P12 Hitmix.png",
+            url: "https://p12.p4groupaudio.com/P12_MM"
         },
         {
             name: "P24-7 FUN",
@@ -5994,7 +5984,7 @@ var stations = {
         {
             name: "TOK FM",
             logo: "stations/images-europe/poland/Tok FM.png",
-            url: "https://pl-play.adtonos.com/tok-fm"
+            url: "https://radiostream.pl/tuba10-1.mp3"
         },
         {
             name: "VOX FM",
@@ -6051,7 +6041,7 @@ var stations = {
         {
             name: "TSF Rádio Notícias",
             logo: "stations/images-europe/portugal/TSF Rádio Notícias.png",
-            url: "https://directo.tsf.pt/tsfdirecto.aac"
+            url: "https://gmg-tsfdireto.global.ssl.fastly.net/tsf1-dfg98mnb0/emissao/playlist.m3u8"
         },
     ],
     "romania": [
@@ -6645,6 +6635,11 @@ var stations = {
             url: "https://live.radio1.si/Radio80"
         },
         {
+            name: "Radio 1 Rock",
+            logo: "stations/images-europe/slovenia/Radio 1 Rock.png",
+            url: "https://live.radio.si/Radio1Rock"
+        },
+        {
             name: "Radio Aktual",
             logo: "stations/images-europe/slovenia/Radio Aktual.png",
             url: "https://live.radio.si/Aktual"
@@ -6653,11 +6648,6 @@ var stations = {
             name: "Radio Antena",
             logo: "stations/images-europe/slovenia/Radio Antena.png",
             url: "https://live.radio.si/Antena"
-        },
-        {
-            name: "Radio BOB",
-            logo: "stations/images-europe/slovenia/Radio BOB.png",
-            url: "https://live.radio.si/BOB"
         },
         {
             name: "Radio City",
@@ -6762,6 +6752,11 @@ var stations = {
             url: "https://eu1.lhdserver.es:8009/stream"
         },
         {
+            name: "HIT FM",
+            logo: "stations/images-europe/spain/HIT FM.png",
+            url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
+        },
+        {
             name: "KISS FM",
             logo: "stations/images-europe/spain/KISS FM.png",
             url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3"
@@ -6792,6 +6787,11 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC_SC"
         },
         {
+            name: "LOS40 Urban",
+            logo: "stations/images-europe/spain/LOS40 Urban.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC_SC"
+        },
+        {
             name: "Melodía FM",
             logo: "stations/images-europe/spain/Melodía FM.png",
             url: "https://agregadores-atres-live.atresmedia.com/tunein/live/melodiafm/master.m3u8"
@@ -6820,11 +6820,6 @@ var stations = {
             name: "Radio María España",
             logo: "stations/images-europe/spain/Radio María España.png",
             url: "https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/"
-        },
-        {
-            name: "Radio4G",
-            logo: "stations/images-europe/spain/Radio4G.png",
-            url: "https://r4g-mp3-live.flumotion.com/r4g/r4g-mp3-live.mp3"
         },
         {
             name: "Radio Solidaria",
@@ -7715,6 +7710,11 @@ var stations = {
             url: "http://204.93.186.205/radiofeeds.php?station=net2national-aac"
         },
         {
+            name: "Greatest Hits Radio 60s",
+            logo: "stations/images-europe/uk/Greatest Hits Radio 60s.png",
+            url: "http://204.93.186.205/radiofeeds.php?station=ghr60s-aac"
+        },
+        {
             name: "Gold Radio",
             logo: "stations/images-europe/uk/Gold Radio.png",
             url: "https://media-ssl.musicradio.com/Gold"
@@ -7749,11 +7749,11 @@ var stations = {
             logo: "stations/images-europe/uk/Heart 00s.png",
             url: "https://media-ssl.musicradio.com/Heart00s"
         },
-        /*{
+        {
             name: "Heart Xmas",
             logo: "stations/images-europe/uk/Heart Xmas.png",
             url: "https://media-ssl.musicradio.com/HeartXmas"
-        },*/
+        },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/uk/Hits Radio.png",
@@ -7775,11 +7775,6 @@ var stations = {
             url: "http://204.93.186.205/radiofeeds.php?station=jazzhigh-aac"
         },
         {
-            name: "heat Radio",
-            logo: "stations/images-europe/uk/Heat radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=heat-aac"
-        },
-        {
             name: "Kerrang! Radio",
             logo: "stations/images-europe/uk/Kerrang! Radio.png",
             url: "http://204.93.186.205/radiofeeds.php?station=kerrang-aac"
@@ -7790,14 +7785,14 @@ var stations = {
             url: "http://204.93.186.205/radiofeeds.php?station=kissnational-aac"
         },
         {
-            name: "KISS Fresh",
-            logo: "stations/images-europe/uk/KISS Fresh.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=kissfresh-aac"
-        },
-        {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
             url: "http://204.93.186.205/radiofeeds.php?station=kisstory-aac"
+        },
+        {
+            name: "KISSTORY R&B",
+            logo: "stations/images-europe/uk/KISSTORY R&B.png",
+            url: "http://204.93.186.205/radiofeeds.php?station=kisstoryrb-aac"
         },
         {
             name: "LBC",
@@ -7808,11 +7803,6 @@ var stations = {
             name: "LBC News",
             logo: "stations/images-europe/uk/LBC News.png",
             url: "https://media-ssl.musicradio.com/LBCNewsUK"
-        },
-        {
-            name: "Lyca Radio",
-            logo: "stations/images-europe/uk/Lyca Radio.png",
-            url: "https://listen-lycaradio.sharp-stream.com/1458.mp3"
         },
         {
             name: "Magic Radio",
