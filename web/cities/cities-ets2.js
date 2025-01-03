@@ -287,6 +287,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_athens": {
+        name: "Αθήνα",
+        name_english: "Athens",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_chios": {
         name: "Χίος",
         name_english: "Chios",
@@ -296,6 +302,12 @@ var country_properties = {
     "greece_crete": {
         name: "Κρήτη",
         name_english: "Crete",
+        code: "gr",
+        relative_radius: 1.0,
+    },
+    "greece_ioannina": {
+        name: "Ιωάννινα",
+        name_english: "Ioannina",
         code: "gr",
         relative_radius: 1.0,
     },
@@ -310,6 +322,12 @@ var country_properties = {
         name_english: "Rhodes",
         code: "gr",
         relative_radius: 0.8,
+    },
+    "greece_thessaloniki": {
+        name: "Θεσσαλονίκη",
+        name_english: "Thessaloniki",
+        code: "gr",
+        relative_radius: 1.0,
     },
     "greenland": {
         name: "Kalaallit Nunaat",
@@ -678,7 +696,8 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "athens": {
-        relative_radius: 1.2,
+        relative_radius: 0.9,
+        relative_whitenoise: 0.95,
     },
     "augustow": {
         relative_radius: 0.5,
@@ -924,6 +943,10 @@ var city_properties = {
     "haql": {
         relative_radius: 0.5,
     },
+    "ioannina": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.85,
+    },
     "lehavre": {
         relative_radius: 0.7,
     },
@@ -1033,6 +1056,9 @@ var city_properties = {
     },
     "larne": {
         relative_radius: 0.5,
+    },
+    "larissa": {
+        relative_radius: 0.8,
     },
     "lazarevskoe": {
         relative_radius: 0.25,
@@ -1391,6 +1417,10 @@ var city_properties = {
     "teberda": {
         relative_radius: 0.25,
     },
+    "thessaloniki": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.85,
+    },
     "timisoara": {
         relative_radius: 0.5,
     },
@@ -1719,6 +1749,14 @@ var cities = [
         "gameName": "athens",
         "realName": "Αθήνα",
         "country": "greece",
+        "x": "56730.6",
+        "y": "79.0391",
+        "z": "69993.6"
+    },
+    {
+        "gameName": "athens",
+        "realName": "Αθήνα",
+        "country": "greece_athens",
         "x": "56730.6",
         "y": "79.0391",
         "z": "69993.6"
@@ -3143,7 +3181,15 @@ var cities = [
         "gameName": "ioannina",
         "realName": "Ιωάννινα",
         "country": "greece",
-        "x": "42243.9",
+        "x": "41143.9",
+        "y": "117.402",
+        "z": "61500.4"
+    },
+    {
+        "gameName": "ioannina",
+        "realName": "Ιωάννινα",
+        "country": "greece_ioannina",
+        "x": "41143.9",
         "y": "117.402",
         "z": "61500.4"
     },
@@ -4799,6 +4845,14 @@ var cities = [
         "gameName": "thessaloniki",
         "realName": "Θεσσαλονίκη",
         "country": "greece",
+        "x": "51623.8",
+        "y": "68.1992",
+        "z": "55931.2"
+    },
+    {
+        "gameName": "thessaloniki",
+        "realName": "Θεσσαλονίκη",
+        "country": "greece_thessaloniki",
         "x": "51623.8",
         "y": "68.1992",
         "z": "55931.2"

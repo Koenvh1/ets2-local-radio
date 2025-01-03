@@ -37143,6 +37143,11 @@ var stations_c2c = {
             url: "https://ice23.securenetsystems.net/PURELOU"
         },
         {
+            name: "True Oldies Channel 92.5",
+            logo: "stations/images-america/c2c/louisville_ky/True Oldies Channel.png",
+            url: "https://ice26.securenetsystems.net/WLRS"
+        },
+        {
             name: "Real 93.1",
             logo: "stations/images-america/c2c/louisville_ky/REAL 93.1.png",
             url: "https://stream.revma.ihrhls.com/zc981/hls.m3u8"
@@ -37306,6 +37311,11 @@ var stations_c2c = {
             name: "WLOU 1350",
             logo: "stations/images-america/c2c/louisville_ky/104.7 Jamz.png",
             url: "http://204.93.186.205/index.php?u=http://ice23.securenetsystems.net/WLOURADIO"
+        },
+        {
+            name: "1570 WLRS",
+            logo: "stations/images-america/c2c/louisville_ky/True Oldies Channel.png",
+            url: "http://ice26.securenetsystems.net/WLRS"
         },
     ],
     "paducah": [
