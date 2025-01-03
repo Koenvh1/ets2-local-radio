@@ -3615,6 +3615,11 @@ var stations = {
             url: "https://athina984.live24.gr/athina984"
         },
         {
+            name: "ΣΚΑΪ 100.3",
+            logo: "stations/images-europe/greece/athens/ΣΚΑΪ 100.3.png",
+            url: "https://skai.live24.gr/skai1003"
+        },
+        {
             name: "Nostos 100.6",
             logo: "stations/images-europe/greece/athens/Nostos 100.6.png",
             url: "https://neos.win:37878/stream"
