@@ -3794,121 +3794,235 @@ var stations = {
             url: "https://politisradios.live24.gr/streameenitro"
         },
     ],
-    "greece_crete": [
+    "greece_chania": [
         {
-            name: "ΕΡΤ Πρώτο πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
-            url: "http://radiostreaming.ert.gr/ert-proto"
+            name: "Radio Amore 87.5",
+            logo: "stations/images-europe/greece/crete/chania/Radio Amore 87.5.png",
+            url: "https://sh.onweb.gr:7072/;"
         },
         {
-            name: "ΕΡΤ Δεύτερο Πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Δεύτερο Πρόγραμμα.png",
-            url: "http://radiostreaming.ert.gr/ert-deftero"
-        },
-        {
-            name: "ΕΡΤ Τρίτο Πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Τρίτο Πρόγραμμα.png",
-            url: "http://radiostreaming.ert.gr/ert-trito"
-        },
-        {
-            name: "ΕΡΑ Σπορ",
-            logo: "stations/images-europe/greece/ΕΡΑ Σπορ.png",
-            url: "http://radiostreaming.ert.gr/ert-erasport"
-        },
-        {
-            name: "AFN Souda Bay",
-            logo: "stations/images-europe/greece/crete/AFN Souda Bay.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SDBAAC_SC"
-        },
-        {
-            name: "Ερωτόκριτος FM",
-            logo: "stations/images-europe/greece/crete/Ερωτόκριτος FM.png",
-            url: "http://stream2.proradio.gr:8004/erotokritos"
-        },
-        {
-            name: "ΔΡΟΜΟΣ FM",
-            logo: "stations/images-europe/greece/crete/ΔΡΟΜΟΣ FM.png",
-            url: "https://stream.rcs.revma.com/10q3enqxbfhvv"
-        },
-        {
-            name: "Γαύδος",
-            logo: "stations/images-europe/greece/crete/Γαύδος.png",
+            name: "Γαύδος 88.8",
+            logo: "stations/images-europe/greece/crete/chania/Γαύδος.png",
             url: "https://sc2.streamwithq.com:2000/stream/GavdosFm/"
         },
         {
+            name: "Ραδιο Παλαιοχωρα 89.3",
+            logo: "stations/images-europe/greece/crete/Ραδιο Παλαιοχωρα.png",
+            url: "http://s6.onweb.gr:8068/stream"
+        },
+        {
+            name: "Zarpa Radio 89.6",
+            logo: "stations/images-europe/greece/crete/chania/Zarpa Radio 89.6.png",
+            url: "https://sh.onweb.gr/8454/stream"
+        },
+        {
+            name: "Δίκτυο FM 91.5",
+            logo: "stations/images-europe/greece/crete/chania/Δίκτυο FM 91.5.png",
+            url: "https://eu10.fastcast4u.com:7800/1"
+        },
+        {
+            name: "Radio Faros 91.8",
+            logo: "stations/images-europe/greece/crete/chania/Radio Faros 91.8.png",
+            url: "http://s3.onweb.gr:8012/;"
+        },
+        {
+            name: "Ράδιο Ριζίτες 92.4",
+            logo: "stations/images-europe/greece/crete/chania/Ράδιο Ριζίτες.png",
+            url: "http://s1.onweb.gr:8040/stream"
+        },
+        {
+            name: "easy 93.2",
+            logo: "stations/images-europe/greece/crete/chania/easy 93.2.png",
+            url: "https://solid48.streamupsolutions.com/proxy/lhlamody?mp=/;type=mp"
+        },
+        {
+            name: "Ράδιο Ένταση 93.5",
+            logo: "stations/images-europe/greece/crete/chania/Ράδιο Ένταση 93.5.png",
+            url: "https://entasistream.tuc.gr:8000/main.mp3"
+        },
+        {
+            name: "Original 94.4",
+            logo: "stations/images-europe/greece/crete/chania/Original 94.4.png",
+            url: "http://eu10.fastcast4u.com:8990/;"
+        },
+        {
+            name: "D-code 96.2",
+            logo: "stations/images-europe/greece/crete/chania/D-code 96.2.png",
+            url: "https://s15.myradiostream.com/:13980/listen.mp3"
+        },
+        {
+            name: "Αντέννα Δυτ. Κρήτης 97.1",
+            logo: "stations/images-europe/greece/crete/chania/Αντέννα Δυτ. Κρήτης 97.1.png",
+            url: "https://sc2.streamwithq.com:8008/;stream.mp3"
+        },
+        {
+            name: "Star 97.7",
+            logo: "stations/images-europe/greece/crete/chania/Star 97.7.png",
+            url: "https://solid55.streamupsolutions.com/proxy/vkpzhens/stream"
+        },
+        {
+            name: "Magic FM 98.2",
+            logo: "stations/images-europe/greece/crete/chania/Magic FM.png",
+            url: "https://netradio.live24.gr/magic982"
+        },
+        {
+            name: "Chania Radio 99.6",
+            logo: "stations/images-europe/greece/crete/chania/Chania Radio 99.6.png",
+            url: "https://sh.onweb.gr/8434/stream"
+        },
+        {
+            name: "max 100.2",
+            logo: "stations/images-europe/greece/crete/chania/max 100.2.png",
+            url: "https://solid9.streamupsolutions.com/proxy/abuyunbd?mp=/;type=mp3"
+        },
+        {
+            name: "myradio 104.6",
+            logo: "stations/images-europe/greece/crete/chania/myradio 104.6.png",
+            url: "https://streaming.myradio1046.fm/myradio1046"
+        },
+        {
+            name: "Fresh 105",
+            logo: "stations/images-europe/greece/crete/chania/Fresh 105.png",
+            url: "https://webradio.neatv.gr:8443/stream"
+        },
+        {
+            name: "Δρόμος 105.4",
+            logo: "stations/images-europe/greece/crete/chania/Δρόμος 105.4.png",
+            url: "https://sc2.streamwithq.com:8124/stream"
+        },
+        {
+            name: "top fm 106.5",
+            logo: "stations/images-europe/greece/crete/chania/top fm 106.5.png",
+            url: "http://sc2.streamwithq.com:8086/;stream.nsv"
+        },
+        {
+            name: "AFN Souda Bay 107.3",
+            logo: "stations/images-europe/greece/crete/chania/AFN Souda Bay.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SDBAAC_SC"
+        },
+    ],
+    "greece_heraklion": [
+        {
+            name: "Ερωτόκριτος FM 87.9",
+            logo: "stations/images-europe/greece/crete/heraklion/Ερωτόκριτος FM 87.9.png",
+            url: "http://stream2.proradio.gr:8004/erotokritos"
+        },
+        {
+            name: "Fly 88.1",
+            logo: "stations/images-europe/greece/crete/heraklion/Fly 88.1.png",
+            url: "http://eco.onestreaming.com:8602/;"
+        },
+        {
+            name: "Radio me 88.4",
+            logo: "stations/images-europe/greece/crete/heraklion/Radio me 88.4.png",
+            url: "https://eco.onestreaming.com/proxy/radiome/stream"
+        },
+        {
+            name: "Κρητικός 88,7",
+            logo: "stations/images-europe/greece/crete/heraklion/Κρητικός 88,7.png",
+            url: "http://dione.shoutca.st:8443/;"
+        },
+        {
+            name: "Radio Family 89.5",
+            logo: "stations/images-europe/greece/crete/heraklion/Radio Family.png",
+            url: "https://www.fmlive.gr/8002/stream"
+        },
+        {
+            name: "super 90.4",
+            logo: "stations/images-europe/greece/crete/heraklion/super 90.4.png",
+            url: "https://super904-spirosb.radioca.st/;"
+        },
+        {
+            name: "dream 90.7",
+            logo: "stations/images-europe/greece/crete/heraklion/dream 90.7.png",
+            url: "http://neos.win:8420/stream"
+        },
+        {
+            name: "Ράδιο Ανάμνηση 91.0",
+            logo: "stations/images-europe/greece/crete/heraklion/Ράδιο Ανάμνηση.png",
+            url: "https://netradio.live24.gr/radioanamnisi910"
+        },
+        {
+            name: "Traffic FM 91.8",
+            logo: "stations/images-europe/greece/crete/heraklion/Traffic FM 91.8.png",
+            url: "http://s5.onweb.gr:8506/stream"
+        },
+        {
+            name: "ΣΚΑΙ Κρήτης 92.1",
+            logo: "stations/images-europe/greece/crete/heraklion/ΣΚΑΙ Κρήτης 92.1.png",
+            url: "https://sc2.streamwithq.com:2000/stream/SkaiKritis"
+        },
+        {
+            name: "up 92.9",
+            logo: "stations/images-europe/greece/crete/heraklion/up 92.9.png",
+            url: "https://netradio.live24.gr/lampsi929herakleio"
+        },
+        {
             name: "KISS 96.1",
-            logo: "stations/images-europe/greece/crete/KISS 96.1.png",
+            logo: "stations/images-europe/greece/crete/heraklion/KISS 96.1.png",
             url: "https://antares.dribbcast.com/proxy/kiss961?mp=/stream"
         },
+        {
+            name: "Ράδιο 98.4",
+            logo: "stations/images-europe/greece/crete/heraklion/Ράδιο 98.4.png",
+            url: "https://cast4.my-control-panel.com/proxy/anastas2/stream"
+        },
+        {
+            name: "Sfera 98.7",
+            logo: "stations/images-europe/greece/crete/heraklion/Sfera.png",
+            url: "https://i5.streams.ovh:2200/sc/web100/stream"
+        },
+        {
+            name: "ο Εύδιος Λιμήν 101.9",
+            logo: "stations/images-europe/greece/crete/heraklion/ο Εύδιος Λιμήν.png",
+            url: "https://eco.onestreaming.com/proxy/imga/stream"
+        },
+        {
+            name: "Love Radio Κρήτης 102.8",
+            logo: "stations/images-europe/greece/crete/heraklion/Love Radio Κρήτης 102.8.png",
+            url: "https://loveradio-her.live24.gr/loveradio-her2"
+        },
+        {
+            name: "Λατώ FM 103.3",
+            logo: "stations/images-europe/greece/crete/heraklion/Λατώ FM 103.3.png",
+            url: "https://stream.latofm.gr/latofm"
+        },
+        {
+            name: "Mousiko Kanali 105.1",
+            logo: "stations/images-europe/greece/crete/heraklion/Mousiko Kanali 105.1.png",
+            url: "https://stream1.mousikokanali.gr/mc"
+        },
+        {
+            name: "Music Club 105.8",
+            logo: "stations/images-europe/greece/crete/heraklion/Music Club 105.8.png",
+            url: "https://antares.dribbcast.com/proxy/music1058?mp=/stream"
+        },
+        {
+            name: "Υδρόγειος 106.9",
+            logo: "stations/images-europe/greece/crete/heraklion/Υδρόγειος 106.9.png",
+            url: "https://netradio.live24.gr/ydrogeios1069her"
+        },
+        {
+            name: "derti 107.7",
+            logo: "stations/images-europe/greece/crete/heraklion/derti 107.7.png",
+            url: "https://i5.streams.ovh:2200/sc/web101/stream"
+        },
+    ],
+    "greece_crete": [
         {
             name: "Κρήτη FM",
             logo: "stations/images-europe/greece/crete/Κρήτη FM.png",
             url: "http://s3.onweb.gr:8878/stream"
         },
         {
-            name: "Magic FM",
-            logo: "stations/images-europe/greece/crete/Magic FM.png",
-            url: "https://netradio.live24.gr/magic982"
-        },
-        {
-            name: "Mousiko Kanali 105.1",
-            logo: "stations/images-europe/greece/crete/Mousiko Kanali 105.1.png",
-            url: "https://stream1.mousikokanali.gr/mc"
-        },
-        {
-            name: "Music Club 105.8",
-            logo: "stations/images-europe/greece/crete/Music Club 105.8.png",
-            url: "https://antares.dribbcast.com/proxy/music1058?mp=/stream"
-        },
-        {
-            name: "ο Εύδιος Λιμήν",
-            logo: "stations/images-europe/greece/crete/ο Εύδιος Λιμήν.png",
-            url: "https://eco.onestreaming.com/proxy/imga/stream"
-        },
-        {
-            name: "Ράδιο 98.4",
-            logo: "stations/images-europe/greece/crete/Ράδιο 98.4.png",
-            url: "https://cast4.my-control-panel.com/proxy/anastas2/stream"
-        },
-        {
-            name: "Ράδιο Ανάμνηση",
-            logo: "stations/images-europe/greece/crete/Ράδιο Ανάμνηση.png",
-            url: "https://netradio.live24.gr/radioanamnisi910"
-        },
-        {
-            name: "Radio Family",
-            logo: "stations/images-europe/greece/crete/Radio Family.png",
-            url: "https://www.fmlive.gr/8002/stream"
+            name: "Κρητικόραμα",
+            logo: "stations/images-europe/greece/crete/Κρητικόραμα.png",
+            url: "http://prech.kritikorama.eu:9382/prech"
         },
         {
             name: "Ράδιο Κρήτη",
             logo: "stations/images-europe/greece/crete/Ράδιο Κρήτη.png",
             url: "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/playlist.m3u8"
-        },
-        {
-            name: "Ραδιο Παλαιοχωρα",
-            logo: "stations/images-europe/greece/crete/Ραδιο Παλαιοχωρα.png",
-            url: "http://s6.onweb.gr:8068/stream"
-        },
-        {
-            name: "Ράδιο Ριζίτες",
-            logo: "stations/images-europe/greece/crete/Ράδιο Ριζίτες.png",
-            url: "http://s1.onweb.gr:8040/stream"
-        },
-        {
-            name: "Sfera",
-            logo: "stations/images-europe/greece/crete/Sfera.png",
-            url: "https://i5.streams.ovh:2200/sc/web100/stream"
-        },
-        {
-            name: "ΣΚΑΪ",
-            logo: "stations/images-europe/greece/ΣΚΑΪ 100,3.png",
-            url: "https://skai.live24.gr/skai1003"
-        },
-        {
-            name: "Υδρόγειος 106.9",
-            logo: "stations/images-europe/greece/crete/Υδρόγειος 106.9.png",
-            url: "https://netradio.live24.gr/ydrogeios1069her"
         },
     ],
     "greece_mitilini": [

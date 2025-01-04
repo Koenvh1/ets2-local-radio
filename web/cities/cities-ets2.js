@@ -311,6 +311,18 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_chania": {
+        name: "Χανιά",
+        name_english: "Chania",
+        code: "gr",
+        relative_radius: 1.0,
+    },
+    "greece_heraklion": {
+        name: "Ηράκλειο",
+        name_english: "Heraklion",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_ioannina": {
         name: "Ιωάννινα",
         name_english: "Ioannina",
@@ -2298,7 +2310,23 @@ var cities = [
     {
         "gameName": "chania",
         "realName": "Χανιά",
+        "country": "greece_ert",
+        "x": "58022.7",
+        "y": "55",
+        "z": "84933.6"
+    },
+    {
+        "gameName": "chania",
+        "realName": "Χανιά",
         "country": "greece_crete",
+        "x": "58022.7",
+        "y": "55",
+        "z": "84933.6"
+    },
+    {
+        "gameName": "chania",
+        "realName": "Χανιά",
+        "country": "greece_chania",
         "x": "58022.7",
         "y": "55",
         "z": "84933.6"
@@ -3074,7 +3102,23 @@ var cities = [
     {
         "gameName": "heraklion",
         "realName": "Ηράκλειο",
+        "country": "greece_ert",
+        "x": "66307",
+        "y": "68.4492",
+        "z": "85699.7"
+    },
+    {
+        "gameName": "heraklion",
+        "realName": "Ηράκλειο",
         "country": "greece_crete",
+        "x": "66307",
+        "y": "68.4492",
+        "z": "85699.7"
+    },
+    {
+        "gameName": "heraklion",
+        "realName": "Ηράκλειο",
+        "country": "greece_heraklion",
         "x": "66307",
         "y": "68.4492",
         "z": "85699.7"
