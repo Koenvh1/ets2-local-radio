@@ -3807,7 +3807,7 @@ var stations = {
         },
         {
             name: "Ραδιο Παλαιοχωρα 89.3",
-            logo: "stations/images-europe/greece/crete/Ραδιο Παλαιοχωρα.png",
+            logo: "stations/images-europe/greece/crete/chania/Ραδιο Παλαιοχωρα.png",
             url: "http://s6.onweb.gr:8068/stream"
         },
         {

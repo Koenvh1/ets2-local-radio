@@ -1454,6 +1454,9 @@ var city_properties = {
     "trieste": {
         relative_radius: 0.6,
     },
+    "trikala": {
+        relative_radius: 0.5,
+    },
     "trinity": {
         relative_radius: 0.2,
     },
