@@ -3543,6 +3543,48 @@ var stations = {
             url: "https://sportfm.live24.gr/sportfm7712"
         },
     ],
+    "greece_argostoli": [
+        {
+            name: "InKefalonia 89.2",
+            logo: "stations/images-europe/greece/argostoli/InKefalonia 89.2.png",
+            url: "https://sp3.streams.ovh/8096/stream"
+        },
+        {
+            name: "Ionian Galaxy 90.8",
+            logo: "stations/images-europe/greece/argostoli/Ionian Galaxy 90.8.png",
+            url: "https://srv.radiocaster.gr/9302/stream"
+        },
+        {
+            name: "ΕΡΤ Ζακύνθου 93.2",
+            logo: "stations/images-europe/greece/argostoli/ΕΡΤ Ζακύνθου.png",
+            url: "https://radiostreaming.ert.gr/ert-zakynthos"
+        },
+        {
+            name: "Νησί 93.9",
+            logo: "stations/images-europe/greece/argostoli/Νησί 93.9.png",
+            url: "https://sp3.streams.ovh/8054/stream"
+        },
+        {
+            name: "Νησί 93.9",
+            logo: "stations/images-europe/greece/argostoli/Νησί 93.9.png",
+            url: "https://sp3.streams.ovh/8054/stream"
+        },
+        {
+            name: "Cosmos 96.5",
+            logo: "stations/images-europe/greece/argostoli/Cosmos 96.5.png",
+            url: "https://sp3.streams.ovh/8064/stream"
+        },
+        {
+            name: "Palmos 98.3",
+            logo: "stations/images-europe/greece/argostoli/Palmos 98.3.png",
+            url: "https://netradio.live24.gr/palmos983"
+        },
+        {
+            name: "100.6 KISS",
+            logo: "stations/images-europe/greece/argostoli/100.6 KISS.png",
+            url: "https://listen-kissfm1006.sharp-stream.com/kissfm1006hqprem.mp3"
+        },
+    ],
     "greece_athens": [
         {
             name: "En Lefko 87.7",

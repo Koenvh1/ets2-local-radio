@@ -293,6 +293,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_argostoli": {
+        name: "Αργοστόλι",
+        name_english: "Argostoli",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_athens": {
         name: "Αθήνα",
         name_english: "Athens",
@@ -708,6 +714,9 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "are": {
+        relative_radius: 0.6,
+    },
+    "argostoli": {
         relative_radius: 0.6,
     },
     "ashe": {
@@ -1761,7 +1770,7 @@ var cities = [
     {
         "gameName": "argostoli",
         "realName": "Αργοστόλι",
-        "country": "greece",
+        "country": "greece_argostoli",
         "x": "41635.2",
         "y": "58.2891",
         "z": "71521.2"
