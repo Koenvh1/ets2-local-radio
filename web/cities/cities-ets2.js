@@ -1250,6 +1250,9 @@ var city_properties = {
     "passau": {
         relative_radius: 0.7,
     },
+    "patras": {
+        relative_radius: 0.8,
+    },
     "pau": {
         relative_radius: 0.7,
     },

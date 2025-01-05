@@ -3565,11 +3565,6 @@ var stations = {
             url: "https://sp3.streams.ovh/8054/stream"
         },
         {
-            name: "Νησί 93.9",
-            logo: "stations/images-europe/greece/argostoli/Νησί 93.9.png",
-            url: "https://sp3.streams.ovh/8054/stream"
-        },
-        {
             name: "Cosmos 96.5",
             logo: "stations/images-europe/greece/argostoli/Cosmos 96.5.png",
             url: "https://sp3.streams.ovh/8064/stream"
