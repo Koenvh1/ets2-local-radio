@@ -7232,7 +7232,7 @@ var stations = {
             name: "Radio Pilatus",
             logo: "stations/images-europe/switzerland-de/Radio Pilatus.png",
             url: "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia-radio-web"
-        },
+        },/*
         {
             name: "Radio TOP",
             logo: "stations/images-europe/switzerland-de/Radio TOP.png",
@@ -7242,7 +7242,7 @@ var stations = {
             name: "Radio TOP Two",
             logo: "stations/images-europe/switzerland-de/Radio TOP Two.png",
             url: "http://icecast.radiotop.ch/toptwo_128"
-        },
+        },*/
         {
             name: "Radio Südostschweiz",
             logo: "stations/images-europe/switzerland-de/Radio Südostschweiz.png",
