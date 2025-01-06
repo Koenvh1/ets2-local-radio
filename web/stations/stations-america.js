@@ -29502,11 +29502,6 @@ var stations_c2c = {
             url: "https://ice7.securenetsystems.net/WVSU"
         },
         {
-            name: "WGIB 91.9",
-            logo: "stations/images-america/c2c/birmingham_al/WGIB 91.9.png",
-            url: "https://hls-live-web-media.cdn01.net/default/stream_12278.m3u8"
-        },
-        {
             name: "92.3 W222BK",
             logo: "stations/images-america/c2c/birmingham_al/Beautiful 1320_christmas.png",
             url: "http://crystalout.surfernetwork.com:8001/WENN-AM_MP3"
@@ -29624,7 +29619,7 @@ var stations_c2c = {
         {
             name: "Truth 101.1",
             logo: "stations/images-america/c2c/birmingham_al/Truth 101.1.png",
-            url: "http://ais-sa8.cdnstream1.com/pq0gc6tnwii/cl42yeiuk6b"
+            url: "https://ais-sa8.cdnstream1.com/pq0gc6tnwii/cl42yeiuk6b"
         },
         {
             name: "102.5 The Bull",
