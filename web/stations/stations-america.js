@@ -4533,17 +4533,7 @@ var stations = {
             url: "https://radio.weatherusa.net/NWR/WXK30.mp3"
         },
     ],
-    "colorado_springs_pueblo": [/*
-        {
-            name: "KTPL Word 88.3",
-            logo: "stations/images-america/colorado_springs_pueblo/KTPL Word 88.3.png",
-            url: "https://stream.ktlf.radio/radio/8020/ktpl"
-        },*/
-        {
-            name: "The Legacy 88.3-HD2",
-            logo: "stations/images-america/colorado_springs_pueblo/The Legacy 88.3-HD2.png",
-            url: "https://stream.ktlf.radio/radio/8010//theLegacy"
-        },
+    "colorado_springs_pueblo": [
         {
             name: "KCME 88.7",
             logo: "stations/images-america/colorado_springs_pueblo/KCME 88.7.png",
@@ -10611,7 +10601,7 @@ var stations = {
         },
         {
             name: "The Vibe 88.7-HD3",
-            logo: "stations/images-america/houston/Mixtape 88.7-HD3.png",
+            logo: "stations/images-america/houston/The Vibe 88.7-HD3.png",
             url: "https://ice42.securenetsystems.net/THEVIBE"
         },
         {
@@ -19371,7 +19361,7 @@ var stations = {
         },
         {
             name: "94.3 K232AM",
-            logo: "stations/images-america/kramer_junction/BOB FM 103.9.png",
+            logo: "stations/images-america/ridgecrest/BOB FM 103.9.png",
             url: "https://centova12.instainternet.com/proxy/bobfm?mp=/stream"
         },
         {
@@ -19401,12 +19391,12 @@ var stations = {
         },
         {
             name: "100.9 The Heat",
-            logo: "stations/images-america/kramer_junction/100.9 The Heat.png",
+            logo: "stations/images-america/ridgecrest/100.9 The Heat.png",
             url: "https://centova12.instainternet.com/proxy/kraj?mp=/stream"
         },
         {
             name: "KePadre 104.9",
-            logo: "stations/images-america/kramer_junction/KePadre 104.9.png",
+            logo: "stations/images-america/ridgecrest/KePadre 104.9.png",
             url: "https://centova12.instainternet.com/proxy/kepadre?mp=/stream"
         },
         {
@@ -20458,7 +20448,7 @@ var stations = {
         },
         {
             name: "KMBY 1240",
-            logo: "stations/images-america/monterey/KMBY 95.9.png",
+            logo: "stations/images-america/monterey/KMBY.png",
             url: "https://streaming1.kkdjfresno.com:9020/;"
         },
         {
@@ -37990,7 +37980,7 @@ var stations_c2c = {
         },
         {
             name: "The Heat 89.1-HD2",
-            logo: "stations/images-america/new_orleans_la/The Heat 89.1-HD2.png",
+            logo: "stations/images-america/c2c/new_orleans_la/The Heat 89.1-HD2.png",
             url: "https://lifesongs.streamguys1.com/theheat-aac"
         },
         {
@@ -46538,7 +46528,7 @@ var stations_c2c = {
         },
         {
             name: "BIN 101.1",
-            logo: "stations/images-america/c2c/cleveland_oh/BIN 99.1.png",
+            logo: "stations/images-america/c2c/cleveland_oh/BIN 101.1.png",
             url: "https://stream.revma.ihrhls.com/zc5382/hls.m3u8"
         },
         {
@@ -48920,11 +48910,6 @@ var stations_c2c = {
             name: "Rock 107",
             logo: "stations/images-america/c2c/scranton_pa/Rock 107.png",
             url: "https://ais-sa1.streamon.fm/7247_48k.aac"
-        },
-        {
-            name: "590 WARM-AM",
-            logo: "stations/images-america/c2c/scranton_pa/Bigfoot Legends 107.7.png",
-            url: "http://ice23.securenetsystems.net/WLGD"
         },
         {
             name: "WAZL 730",
