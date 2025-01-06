@@ -3,6 +3,8 @@ name: Check files syntactically valid
 on:
   pull_request:
     branches: ["master"]
+  push:
+    branches: ["master"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -38,7 +40,7 @@ jobs:
             for (const [key, value] of Object.entries(stations.stations)) {
               for (const elem of value) {
                 if (!fs.existsSync("web/" + elem["logo"])) {
-                  console.error(elem["logo"] + " missing!");
+                  console.error("error: " + elem["logo"] + " missing!");
                   failed = true;
                 }
               }
@@ -60,7 +62,7 @@ jobs:
             for (const [key, value] of Object.entries(stations.stations)) {
               for (const elem of value) {
                 if (!fs.existsSync("web/" + elem["logo"])) {
-                  console.error(elem["logo"] + " missing!");
+                  console.error("error: " + elem["logo"] + " missing!");
                   failed = true;
                 }
               }
