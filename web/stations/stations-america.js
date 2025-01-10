@@ -35809,8 +35809,8 @@ var stations_c2c = {
             url: "http://199.180.75.58:9078/stream"
         },
         {
-            name: "Z94.3",
-            logo: "stations/images-america/c2c/south_bend_in/Z94.3.png",
+            name: "WIRX 94.3",
+            logo: "stations/images-america/c2c/south_bend_in/WIRX 94.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZOCFMAAC_SC"
         },
         {
@@ -36937,9 +36937,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOVOHD2AAC_SC"
         },
         {
-            name: "Beaver 96.7",
-            logo: "stations/images-america/c2c/bowling_green_ky/Beaver 96.7.png",
-            url: "https://live.amperwave.net/direct/forevercomm-wbvrfmaac-ibc4"
+            name: "Bigfoot Legends 96.7",
+            logo: "stations/images-america/c2c/bowling_green_ky/Bigfoot Legends 96.7.png",
+            url: "https://ice25.securenetsystems.net/WOVO"
         },
         {
             name: "Classical 97.5",
@@ -36972,9 +36972,9 @@ var stations_c2c = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTQFMAAC_SC"
         },
         {
-            name: "106.3 WOVO",
-            logo: "stations/images-america/c2c/bowling_green_ky/106.3 WOVO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOVO_FMAAC_SC"
+            name: "Beaver 106.3",
+            logo: "stations/images-america/c2c/bowling_green_ky/Beaver 106.3.png",
+            url: "https://live.amperwave.net/direct/forevercomm-wbvrfmaac-ibc4"
         },
         {
             name: "WUHU 107",
@@ -51785,7 +51785,7 @@ var stations_c2c = {
         {
             name: "K95",
             logo: "stations/images-america/c2c/richmond_va/K95.png",
-            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7710_128k.aac"
+            url: "https://stream.rcs.revma.com/uqgf3huv57uvv"
         },
         {
             name: "96.1 WRVA",
@@ -51795,7 +51795,7 @@ var stations_c2c = {
         {
             name: "Classic Rock 96.5",
             logo: "stations/images-america/c2c/richmond_va/Classic Rock 96.5.png",
-            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7712_128k.aac"
+            url: "https://stream.rcs.revma.com/98mxmkcw57uvv"
         },
         {
             name: "WRIR 97.3",
@@ -51818,9 +51818,9 @@ var stations_c2c = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXGIAMAAC_SC"
         },
         {
-            name: "Awesome 100.9",
-            logo: "stations/images-america/c2c/richmond_va/Awesome 100.9.png",
-            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7709_128k.aac"
+            name: "100.9 The Hip Hop Station",
+            logo: "stations/images-america/c2c/richmond_va/100.9 The Hip Hop Station.png",
+            url: "https://stream.rcs.revma.com/s6h7wetv57uvv"
         },
         {
             name: "Boomtown Radio 101.7",
@@ -51835,12 +51835,12 @@ var stations_c2c = {
         {
             name: "103.7 Your Variety",
             logo: "stations/images-america/c2c/richmond_va/103.7 Your Variety.png",
-            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7713_128k.aac"
+            url: "https://stream.rcs.revma.com/uupm8cdw57uvv"
         },
         {
             name: "Classic Country 104.3",
             logo: "stations/images-america/c2c/richmond_va/Classic Country 104.3.png",
-            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7711_128k.aac"
+            url: "https://stream.rcs.revma.com/saacz47v57uvv"
         },
         {
             name: "Praise 104.7",
@@ -51860,7 +51860,7 @@ var stations_c2c = {
         {
             name: "ESPN 106.1",
             logo: "stations/images-america/c2c/richmond_va/ESPN 106.1.png",
-            url: "http://204.93.186.205/index.php?u=https://ais-sa1.streamon.fm/7726_128k.aac"
+            url: "https://stream.rcs.revma.com/x4q6k4dw57uvv"
         },
         {
             name: "106.5 The Beat",
@@ -52355,9 +52355,9 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/wvradio-wfbyfmaac-ibc2"
         },
         {
-            name: "94 Rock",
-            logo: "stations/images-america/c2c/clarksburg_wv/94 Rock.png",
-            url: "https://dfw.audio-stream.com/proxy/mshear00?mp=/live"
+            name: "The Torch 94.3",
+            logo: "stations/images-america/c2c/clarksburg_wv/The Torch.png",
+            url: "https://us2.maindigitalstream.com/ssl/WMMN"
         },
         {
             name: "94.7 WELK",
@@ -52403,12 +52403,12 @@ var stations_c2c = {
             name: "102.3 WCLG",
             logo: "stations/images-america/c2c/clarksburg_wv/100.1 WCLG.png",
             url: "http://live.amperwave.net/manifest/bowers-wclgfmaac-hlsc1.m3u8"
-        },/*
+        },
         {
-            name: "HOT 102.7",
-            logo: "stations/images-america/c2c/clarksburg_wv/HOT 102.7.png",
-            url: ""
-        },*/
+            name: "The Torch 102.7",
+            logo: "stations/images-america/c2c/clarksburg_wv/The Torch.png",
+            url: "https://us2.maindigitalstream.com//ssl//WMMN"
+        },
         {
             name: "WAJR 103.3",
             logo: "stations/images-america/c2c/clarksburg_wv/WAJR 103.3.png",
@@ -52435,9 +52435,9 @@ var stations_c2c = {
             url: "http://audio.birach.com:9006/stream"
         },
         {
-            name: "The Mountaineer Ticket 920",
-            logo: "stations/images-america/c2c/clarksburg_wv/The Mountaineer Ticket 920.png",
-            url: "https://sh.fl-us.audio-stream.com/proxy/mshear05?mp=/stream"
+            name: "The Torch 920",
+            logo: "stations/images-america/c2c/clarksburg_wv/The Torch.png",
+            url: "https://us2.maindigitalstream.com//ssl/WMMN"
         },
         {
             name: "WLOL 1190",
@@ -52450,9 +52450,9 @@ var stations_c2c = {
             url: "https://live.amperwave.net/manifest/wvradio-wajramaac-hlsc2.m3u8"
         },
         {
-            name: "WBKE 1490",
-            logo: "stations/images-america/c2c/clarksburg_wv/Buzz 98.3.png",
-            url: "https://tampa.audio-stream.com/proxy/mshear02?mp=/live"
+            name: "The Torch 1490",
+            logo: "stations/images-america/c2c/clarksburg_wv/The Torch.png",
+            url: "https://us2.maindigitalstream.com/ssl//WMMN"
         },
     ],
     "eau_claire": [
