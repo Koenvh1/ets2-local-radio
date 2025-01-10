@@ -1,0 +1,72 @@
+name: Check files syntactically valid
+
+on:
+  pull_request:
+    branches: ["master"]
+  push:
+    branches: ["master"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Check whether city files are valid
+        uses: ali-kamalizade/es-check-action@1.0.2
+        with:
+          directory: 'web/cities'
+          ecmaVersion: 'es5'
+          files: '*.js'
+      - name: Check whether station files are valid
+        uses: ali-kamalizade/es-check-action@1.0.2
+        with:
+          directory: 'web/stations'
+          ecmaVersion: 'es5'
+          files: '*.js'
+      - name: Check whether European station logos are present
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+
+            let stationsFile = fs.readFileSync("web/stations/stations-europe.js", "utf8");
+            fs.writeFileSync("stations-europe-module.js", stationsFile + "\nexports.stations = stations;");
+            let stations = require("./stations-europe-module.js")
+            let failed = false;
+            for (const [key, value] of Object.entries(stations.stations)) {
+              for (const elem of value) {
+                if (!fs.existsSync("web/" + elem["logo"])) {
+                  console.error("error: " + elem["logo"] + " missing!");
+                  failed = true;
+                }
+              }
+            }
+            if (failed) {
+              process.exit(1);
+            }
+
+      - name: Check whether American station logos are present
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+
+            let stationsFile = fs.readFileSync("web/stations/stations-america.js", "utf8");
+            fs.writeFileSync("stations-america-module.js", stationsFile + "\nexports.stations = stations;");
+            let stations = require("./stations-america-module.js")
+            let failed = false;
+            for (const [key, value] of Object.entries(stations.stations)) {
+              for (const elem of value) {
+                if (!fs.existsSync("web/" + elem["logo"])) {
+                  console.error("error: " + elem["logo"] + " missing!");
+                  failed = true;
+                }
+              }
+            }
+            if (failed) {
+              process.exit(1);
+            }

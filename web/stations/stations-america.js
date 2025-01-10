@@ -26789,9 +26789,6 @@ var stations = {
             url: "http://216.251.79.148:8000/;stream"
         },
     ],
-};
-
-var stations_mexico = {
     "acaponeta": [
         {
             name: "La Patrona 92.5",
@@ -29340,9 +29337,6 @@ var stations_mexico = {
             url: "https://cast.zuperdns.net/8020/stream"
         },
     ],
-};
-
-var stations_c2c = {
     "anniston_al": [
         {
             name: "Grace Radio 90.7",
@@ -53262,9 +53256,6 @@ var stations_c2c = {
             url: "https://ice24.securenetsystems.net/WXCO"
         },
     ],
-};
-
-var stations_canada = {
     "baiecomeau": [
         {
             name: "CBC Radio One 93.7 FM",
@@ -57622,9 +57613,6 @@ var stations_canada = {
             url: "https://stream2.statsradio.com:8046/stream"
         },
     ],
-};
-
-var stations_caribbean = {
     "adicora": [
         {
             name: "Canal 90",
@@ -58678,9 +58666,6 @@ var stations_caribbean = {
             url: "http://znsradiogroup.streamcomedia.com:9788/zns1540am"
         },
     ],
-};
-
-var stations_alaska = {
     "alcan": [
         {
             name: "No stations in this area",
@@ -59138,9 +59123,3 @@ var stations_alaska = {
         },
     ],
 };
-
-stations = $.extend(stations, stations_mexico);
-stations = $.extend(stations, stations_c2c);
-stations = $.extend(stations, stations_canada);
-stations = $.extend(stations, stations_caribbean);
-stations = $.extend(stations, stations_alaska);
