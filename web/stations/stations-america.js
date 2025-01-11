@@ -43582,8 +43582,8 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKJYFMAAC_SC"
         },
         {
-            name: "TJ 98.7",
-            logo: "stations/images-america/c2c/nyc/TJ 98.7.png",
+            name: "La Exitosa 98.7",
+            logo: "stations/images-america/c2c/nyc/La Exitosa 98.7.png",
             url: "https://streaming.live365.com/a39614"
         },
         {
