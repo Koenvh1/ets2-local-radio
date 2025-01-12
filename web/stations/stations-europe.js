@@ -177,7 +177,7 @@ var stations = {
         {
             name: "play Radio",
             logo: "stations/images-europe/albania/play Radio.png",
-            url: "https://stream.radiojar.com/sx7zrht0pg0uv"
+            url: "https://business.playfm.al:8170/paperplay"
         },
         {
             name: "Radio 1",
@@ -278,7 +278,7 @@ var stations = {
         {
             name: "Հայաստանի Հանրային Ռադիո",
             logo: "stations/images-europe/armenia/Հայաստանի Հանրային Ռադիո.png",
-            url: "http://31.7.166.59:8000/stream"
+            url: "http://46.182.174.131:8000/stream"
         },
         {
             name: "Ռադիո Հայ",
@@ -910,7 +910,7 @@ var stations = {
         {
             name: "ORV",
             logo: "stations/images-europe/bosnia/ORV.png",
-            url: "http://109.105.205.194:8000/sreb"
+            url: "https://otv.ovh/live_radio/orv/icecast.audio"
         },
         {
             name: "Radio BIR",
@@ -1244,11 +1244,6 @@ var stations = {
             name: "Dromos FM",
             logo: "stations/images-europe/cyprus/Dromos FM.png",
             url: "https://stream.rcs.revma.com/10q3enqxbfhvv"
-        },
-        {
-            name: "ENERGY Cyprus",
-            logo: "stations/images-europe/cyprus/ENERGY Cyprus.png",
-            url: "http://broadcaster.iteam4media.com/ke923q0hhf9uv"
         },
         {
             name: "Kanali 6",
@@ -2189,7 +2184,7 @@ var stations = {
         {
             name: "იმედი",
             logo: "stations/images-europe/georgia/იმედი.png",
-            url: "http://188.93.95.83/radioimedi/stream01/index.m3u8"
+            url: "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8"
         },
         {
             name: "Avtoradio",
@@ -4183,7 +4178,7 @@ var stations = {
         {
             name: "Μελωδία Ρόδου",
             logo: "stations/images-europe/greece/rhodes/Μελωδία Ρόδου.png",
-            url: "https://live3.istoikona.com:8183/stream"
+            url: "https://eco.onestreaming.com/proxy/melodiarodou/stream"
         },
         {
             name: "Notos News",
@@ -4766,7 +4761,7 @@ var stations = {
         {
             name: "Radio Zeta",
             logo: "stations/images-europe/italy/Radio Zeta.png",
-            url: "https://streamingv2.shoutcast.com/radio-zeta_48.aac"
+            url: "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/clhI2IJWRnn7/playlist_audio.m3u8"
         },
         {
             name: "RTL 102.5",
