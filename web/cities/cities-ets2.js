@@ -4600,7 +4600,7 @@ var cities = [
     {
         "gameName": "rhodes",
         "realName": "Ρόδος",
-        "country": "greece",
+        "country": "greece_ert",
         "x": "77441.7",
         "y": "51",
         "z": "76538.8"

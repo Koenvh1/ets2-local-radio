@@ -4162,7 +4162,7 @@ var stations = {
         },
         {
             name: "Rythmos 94.5",
-            logo: "stations/images-europe/greece/rhodes/Ρυθμός 94.5.png",
+            logo: "stations/images-europe/greece/rhodes/Rythmos 94.5.png",
             url: "https://netradio.live24.gr/rythmos945rodos"
         },
         {
