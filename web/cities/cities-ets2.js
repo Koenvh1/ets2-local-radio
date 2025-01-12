@@ -345,7 +345,7 @@ var country_properties = {
         name: "Ρόδος",
         name_english: "Rhodes",
         code: "gr",
-        relative_radius: 0.8,
+        relative_radius: 1.0,
     },
     "greece_thessaloniki": {
         name: "Θεσσαλονίκη",
@@ -1313,6 +1313,9 @@ var city_properties = {
     },
     "rezekne": {
         relative_radius: 1.2,
+    },
+    "rhodes": {
+        relative_radius: 0.8,
     },
     "rodbyhavn": {
         relative_radius: 0.6,
@@ -4593,6 +4596,14 @@ var cities = [
         "x": "-90723.9",
         "y": "57.3203",
         "z": "-98482.6"
+    },
+    {
+        "gameName": "rhodes",
+        "realName": "Ρόδος",
+        "country": "greece",
+        "x": "77441.7",
+        "y": "51",
+        "z": "76538.8"
     },
     {
         "gameName": "rhodes",
