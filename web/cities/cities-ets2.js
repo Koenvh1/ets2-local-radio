@@ -335,6 +335,12 @@ var country_properties = {
         code: "gr",
         relative_radius: 1.0,
     },
+    "greece_kavala": {
+        name: "Καβάλα",
+        name_english: "Kavala",
+        code: "gr",
+        relative_radius: 1.0,
+    },
     "greece_mitilini": {
         name: "Μυτιλήνη",
         name_english: "Crete",
@@ -1031,6 +1037,9 @@ var city_properties = {
     },
     "kautokeino": {
         relative_radius: 0.55,
+    },
+    "kavala": {
+        relative_radius: 0.8,
     },
     "kem": {
         relative_radius: 1.5,
@@ -3425,6 +3434,14 @@ var cities = [
         "gameName": "kavala",
         "realName": "Καβάλα",
         "country": "greece_ert",
+        "x": "57735.3",
+        "y": "90.5078",
+        "z": "52360.8"
+    },
+    {
+        "gameName": "kavala",
+        "realName": "Καβάλα",
+        "country": "greece_kavala",
         "x": "57735.3",
         "y": "90.5078",
         "z": "52360.8"

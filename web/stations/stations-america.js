@@ -8487,8 +8487,8 @@ var stations = {
             url: "https://ais-sa8.cdnstream1.com/3147_64.aac"
         },
         {
-            name: "94.3 The X",
-            logo: "stations/images-america/fort_collins/94.3 THE X.png",
+            name: "KMAX 94.3",
+            logo: "stations/images-america/fort_collins/KMAX 94.3.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmaxfmaac-ibc3"
         },
         {
@@ -25231,6 +25231,11 @@ var stations = {
             url: "https://emg.streamguys1.com/well-website"
         },
         {
+            name: "95.1 Great FM",
+            logo: "stations/images-america/tyler/95.1 Great FM.png",
+            url: "https://emg.streamguys1.com/well-website"
+        },
+        {
             name: "KDOK 95.7",
             logo: "stations/images-america/tyler/KDOK 95.7.png",
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/streaming.live365.com/a92942"
@@ -32955,6 +32960,11 @@ var stations = {
     ],
     "atlanta": [
         {
+            name: "87.7 The Vibe",
+            logo: "stations/images-america/c2c/atlanta_ga/87.7 The Vibe.png",
+            url: "https://coreradiostreams.com/WTBS"
+        },
+        {
             name: "88.5 GPB",
             logo: "stations/images-america/0_general_logos/GPB.png",
             url: "http://gpb.iad.streamguys1.com/gpb-radio-aac"
@@ -33379,8 +33389,8 @@ var stations = {
             url: "http://live.str3am.com:2380/troy1"
         },
         {
-            name: "92.1 Smooth R&B",
-            logo: "stations/images-america/c2c/columbus_ga/92.1 Smooth R&B.png",
+            name: "SportsVisions 92.1",
+            logo: "stations/images-america/c2c/columbus_ga/SportsVisions 92.1.png",
             url: "https://ice42.securenetsystems.net/WLTCHD2"
         },
         {
@@ -33435,7 +33445,7 @@ var stations = {
         },
         {
             name: "103.7 WLTC-HD2",
-            logo: "stations/images-america/c2c/columbus_ga/92.1 Smooth R&B.png",
+            logo: "stations/images-america/c2c/columbus_ga/SportsVisions 92.1.png",
             url: "http://ice42.securenetsystems.net/WLTCHD2"
         },
         {
@@ -39515,6 +39525,11 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1149/hls.m3u8"
         },
         {
+            name: "92.7 The Answer",
+            logo: "stations/images-america/c2c/detroit_mi/92.7 The Answer.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAMAAC_SC"
+        },
+        {
             name: "Family Life Radio 93.1",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "https://icecast.streammyflr.org/FLRstream"
@@ -39635,9 +39650,9 @@ var stations = {
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAACIHR_SC"
         },
         {
-            name: "101.5 The Patriot",
-            logo: "stations/images-america/c2c/detroit_mi/101.5 The Patriot.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDTKAMAAC_SC"
+            name: "Faith Talk 101.5",
+            logo: "stations/images-america/c2c/detroit_mi/Faith Talk 101.5.png",
+            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WLQVAMAAC_SC"
         },
         {
             name: "WDET 101.9",
@@ -39720,9 +39735,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1129/hls.m3u8"
         },
         {
-            name: "Sports Rap Radio 1270",
-            logo: "stations/images-america/c2c/detroit_mi/Sports Rap Radio 1270.png",
-            url: "tbd"
+            name: "Faith Talk 1500",
+            logo: "stations/images-america/c2c/detroit_mi/Faith Talk 101.5.png",
+            url: "http://204.93.186.205/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WLQVAMAAC_SC"
         },
     ],
     "grand_rapids": [

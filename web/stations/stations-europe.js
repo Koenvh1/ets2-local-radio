@@ -273,6 +273,11 @@ var stations = {
             logo: "stations/images-europe/andorra/Pròxima FM.png",
             url: "http://91.187.93.115:8000/;stream/1"
         },
+        {
+            name: "Ràdio Valira",
+            logo: "stations/images-europe/andorra/Ràdio Valira.png",
+            url: "https://mars.streamerr.co/8192/stream"
+        },
     ],
     "armenia": [
         {
@@ -3953,6 +3958,23 @@ var stations = {
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SDBAAC_SC"
         },
     ],
+    "greece_crete": [
+        {
+            name: "Κρήτη FM",
+            logo: "stations/images-europe/greece/crete/Κρήτη FM.png",
+            url: "http://s3.onweb.gr:8878/stream"
+        },
+        {
+            name: "Κρητικόραμα",
+            logo: "stations/images-europe/greece/crete/Κρητικόραμα.png",
+            url: "http://prech.kritikorama.eu:9382/prech"
+        },
+        {
+            name: "Ράδιο Κρήτη",
+            logo: "stations/images-europe/greece/crete/Ράδιο Κρήτη.png",
+            url: "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/playlist.m3u8"
+        },
+    ],
     "greece_heraklion": [
         {
             name: "Ερωτόκριτος FM 87.9",
@@ -4060,21 +4082,81 @@ var stations = {
             url: "https://i5.streams.ovh:2200/sc/web101/stream"
         },
     ],
-    "greece_crete": [
+    "greece_kavala": [
         {
-            name: "Κρήτη FM",
-            logo: "stations/images-europe/greece/crete/Κρήτη FM.png",
-            url: "http://s3.onweb.gr:8878/stream"
+            name: "Μελωδία 88.3",
+            logo: "stations/images-europe/greece/kavala/Μελωδία 88.3.png",
+            url: "https://stream.rcs.revma.com/melodia992"
         },
         {
-            name: "Κρητικόραμα",
-            logo: "stations/images-europe/greece/crete/Κρητικόραμα.png",
-            url: "http://prech.kritikorama.eu:9382/prech"
+            name: "Alpha Radio 88.6",
+            logo: "stations/images-europe/greece/kavala/Alpha Radio 88.6.png",
+            url: "https://stream3.proradio.gr/listen/alpharadio/alpharadio"
         },
         {
-            name: "Ράδιο Κρήτη",
-            logo: "stations/images-europe/greece/crete/Ράδιο Κρήτη.png",
-            url: "https://6182bfa7cd933.streamlock.net:8843/Radiokriti/Radiokriti/playlist.m3u8"
+            name: "Ena Radio 90.5",
+            logo: "stations/images-europe/greece/kavala/Ena Radio 90.5.png",
+            url: "https://rdst.win:48000/stream?type=.mp3"
+        },
+        {
+            name: "Νεάπολις Radio 90.8",
+            logo: "stations/images-europe/greece/kavala/Νεάπολις Radio 90.8.png",
+            url: "https://radio.divographics.com:8030/radio.mp3"
+        },
+        {
+            name: "Love Radio 91.7",
+            logo: "stations/images-europe/greece/kavala/Love Radio 91.7.png",
+            url: "https://i5.streams.ovh:14036/live"
+        },
+        {
+            name: "Cosmos 93.2",
+            logo: "stations/images-europe/greece/kavala/Cosmos 93.2.png",
+            url: "https://neos.win:59320/stream"
+        },
+        {
+            name: "Πρωινή FM 93.7",
+            logo: "stations/images-europe/greece/kavala/Πρωινή FM 93.7.png",
+            url: "http://62.103.31.151:8000/stream"
+        },
+        {
+            name: "ΕΡΤ Καβάλας 96.3",
+            logo: "stations/images-europe/greece/kavala/ΕΡΤ Καβάλας 96.3.png",
+            url: "https://radiostreaming.ert.gr/ert-kavala"
+        },
+        {
+            name: "Stoxos FM 98.9",
+            logo: "stations/images-europe/greece/kavala/Stoxos FM 98.9.png",
+            url: "http://s3.onweb.gr:8016/stream"
+        },
+        {
+            name: "Λελέβωσε 101.3",
+            logo: "stations/images-europe/greece/kavala/Λελέβωσε 101.3.png",
+            url: "https://tls-chrome.live24.gr/972"
+        },
+        {
+            name: "KavalaNews 102.8",
+            logo: "stations/images-europe/greece/kavala/KavalaNews 102.8.png",
+            url: "https://sp3.streams.ovh/8052/stream"
+        },
+        {
+            name: "Παλμός 103.2",
+            logo: "stations/images-europe/greece/kavala/Παλμός 103.2.png",
+            url: "https://netradio.live24.gr/palmos1032"
+        },
+        {
+            name: "Λάμψη 105.7",
+            logo: "stations/images-europe/greece/kavala/Λάμψη 105.7.png",
+            url: "https://stream3.proradio.gr/listen/lampsi/lampsifm"
+        },
+        {
+            name: "Ράδιο Μακεδόνισσα 106.4",
+            logo: "stations/images-europe/greece/kavala/Ράδιο Μακεδόνισσα 106.4.png",
+            url: "https://netradio.live24.gr/makedonissa1064"
+        },
+        {
+            name: "Capital 107",
+            logo: "stations/images-europe/greece/kavala/Capital 107.png",
+            url: "https://neos.win:59350/stream"
         },
     ],
     "greece_mitilini": [
@@ -4515,6 +4597,11 @@ var stations = {
             name: "כאן 88",
             logo: "stations/images-europe/israel/KAN 88.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88_SC"
+        },
+        {
+            name: "רדיו לב המדינה",
+            logo: "stations/images-europe/israel/רדיו לב המדינה.png",
+            url: "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
         },
         {
             name: "כאן ב",
@@ -7538,7 +7625,7 @@ var stations = {
         },
         {
             name: "راديو الآن",
-            logo: "stations/images-europe/syria/راديو الآن.svg",
+            logo: "stations/images-europe/syria/راديو الآن.png",
             url: "https://c20.radioboss.fm/stream/543"
         },
         {
