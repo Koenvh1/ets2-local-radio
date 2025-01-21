@@ -31764,8 +31764,8 @@ var stations = {/*
             url: "http://62.151.177.31:8000/transmitter.mp3"
         },
         {
-            name: "HOT 93.7",
-            logo: "stations/images-america/c2c/fort_myers_fl/HOT 93.7.png",
+            name: "Trump Country 93.7",
+            logo: "stations/images-america/c2c/fort_myers_fl/Trump Country 93.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHEL_HD3AAC_SC"
         },
         {
@@ -48978,6 +48978,11 @@ var stations = {/*
             url: "http://stream.revma.ihrhls.com/zc3223/hls.m3u8"
         },
         {
+            name: "The Juice 93.7",
+            logo: "stations/images-america/c2c/providence_ri/The Juice 93.7.png",
+            url: "https://a10.asurahosting.com:7280/radio.mp3"
+        },
+        {
             name: "94HJY",
             logo: "stations/images-america/c2c/providence_ri/94HJY.png",
             url: "https://stream.revma.ihrhls.com/zc2049/hls.m3u8"
@@ -49046,6 +49051,11 @@ var stations = {/*
             name: "WEEI 103.7",
             logo: "stations/images-america/c2c/providence_ri/WEEI 103.7.png",
             url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-wveifmaac-imc"
+        },
+        {
+            name: "The Juice 103.7-HD2",
+            logo: "stations/images-america/c2c/providence_ri/The Juice 93.7.png",
+            url: "http://a10.asurahosting.com:7280/radio.mp3"
         },
         {
             name: "104.7 WHJJ",
