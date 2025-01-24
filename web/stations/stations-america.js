@@ -4632,7 +4632,7 @@ var stations = {/*
         {
             name: "99.9 KVUU-HD2",
             logo: "stations/images-america/0_general_logos/Way FM.png",
-            url: "https://ais-sa8.cdnstream1.com/3146_64.aac"
+            url: "http://ais-sa8.cdnstream1.com/3146_64.aac"
         },
         {
             name: "KSPK 100.3",
