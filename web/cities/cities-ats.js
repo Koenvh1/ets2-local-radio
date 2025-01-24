@@ -1493,6 +1493,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.6
     },
+    "rachel": {
+        name: "Rachel",
+        name_english: "Rachel",
+        code: "us-nv",
+        relative_radius: 0.5
+    },
     "rangely": {
         name: "Rangely",
         name_english: "Rangely",
@@ -2872,6 +2878,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "quemado": {
+        relative_whitenoise: 0.95
+    },
+    "rachel": {
         relative_whitenoise: 0.95
     },
     "rangely": {
@@ -5460,6 +5469,14 @@ var cities = [
         "x": "-57853",
         "y": "107.368",
         "z": "22342.4"
+    },
+    {
+        "gameName": "rachel",
+        "realName": "Rachel",
+        "country": "rachel",
+        "x": "-87034.5",
+        "y": "83.1648",
+        "z": "-1783.4"
     },
     {
         "gameName": "rangely",

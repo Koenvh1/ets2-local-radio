@@ -4595,11 +4595,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc425/hls.m3u8"
         },
         {
-            name: "CMT Radio 95.5-HD2",
-            logo: "stations/images-america/colorado_springs_pueblo/CMT Radio 95.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6563/hls.m3u8"
-        },
-        {
             name: "96.1 The Beat",
             logo: "stations/images-america/colorado_springs_pueblo/96.1 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc353/hls.m3u8"
@@ -18814,6 +18809,18 @@ var stations = {/*
             name: "KMIN 980",
             logo: "stations/images-america/quemado/KMIN 980.png",
             url: "http://66.232.19.13:23980/kmin"
+        },
+    ],
+	"rachel": [
+        {
+            name: "AM670",
+            logo: "stations/images-america/las_vegas/AM670.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMZQAMAAC_SC"
+        },
+        {
+            name: "840 KXNT",
+            logo: "stations/images-america/las_vegas/840 KXNT.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kxntamaac-imc"
         },
     ],
 	"rangely": [
