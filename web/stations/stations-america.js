@@ -13209,7 +13209,7 @@ var stations = {/*
         {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kxntamaac-imc"
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-kxntamaac-imc"
         },
         {
             name: "TUDN Radio 870",
@@ -18820,7 +18820,7 @@ var stations = {/*
         {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-kxntamaac-imc"
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/manifest/audacy-kxntamaac-imc"
         },
     ],
 	"rangely": [

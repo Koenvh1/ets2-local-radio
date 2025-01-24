@@ -1497,7 +1497,7 @@ var country_properties = {
         name: "Rachel",
         name_english: "Rachel",
         code: "us-nv",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "rangely": {
         name: "Rangely",
