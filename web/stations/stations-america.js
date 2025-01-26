@@ -382,9 +382,9 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/KRSY"
         },
         {
-            name: "KWES 93.5",
-            logo: "stations/images-america/alamogordo/KWES 93.5.png",
-            url: "https://crystalout.surfernetwork.com:8001/KWES-FM_MP3"
+            name: "93.5 The West",
+            logo: "stations/images-america/alamogordo/93.5 The West.png",
+            url: "https://ice26.securenetsystems.net/KWES"
         },
         {
             name: "94 KEY",
@@ -511,7 +511,7 @@ var stations = {/*
         {
             name: "FOX Sports 101.3",
             logo: "stations/images-america/alamosa/FOX Sports 101.3.png",
-            url: "http://204.93.186.205/index.php?u=https://ice6.securenetsystems.net/KBGV"
+            url: "https://ice6.securenetsystems.net/KBGV"
         },
         {
             name: "The Light 102.7",
@@ -531,7 +531,7 @@ var stations = {/*
         {
             name: "FOX Sports 1240",
             logo: "stations/images-america/alamosa/FOX Sports 101.3.png",
-            url: "http://204.93.186.205/index.php?u=http://ice6.securenetsystems.net/KBGV"
+            url: "http://ice6.securenetsystems.net/KBGV"
         },/*
         {
             name: "KGIW 1450",
@@ -12867,12 +12867,12 @@ var stations = {/*
         {
             name: "FM News Talk 92.7",
             logo: "stations/images-america/las_cruces/FM News Talk 92.7.png",
-            url: "https://ice42.securenetsystems.net/KOBE"
+            url: "https://dash.streamkast.co/proxy/bravomiccomm1/kobeam"
         },
         {
             name: "La Equis 96.7",
             logo: "stations/images-america/las_cruces/La Equis 96.7.png",
-            url: "https://ice42.securenetsystems.net/KMVRHD2"
+            url: "https://dash.streamkast.co/proxy/bravomiccomm5/kmvrhd2"
         },
         {
             name: "Classic Rock 98.7",
@@ -12882,7 +12882,7 @@ var stations = {/*
         {
             name: "Zia Country 99.5",
             logo: "stations/images-america/las_cruces/Zia Country 99.5.png",
-            url: "https://ice42.securenetsystems.net/KXPZ"
+            url: "https://dash.streamkast.co/proxy/bravomiccomm4/kxpzfm"
         },
         {
             name: "101 Gold",
@@ -12912,12 +12912,52 @@ var stations = {/*
         {
             name: "Magic 104.9",
             logo: "stations/images-america/las_cruces/Magic 104.9.png",
-            url: "https://ice42.securenetsystems.net/KMVRHD1"
+            url: "https://dash.streamkast.co/proxy/bravomiccomm2/kmvrfm"
+        },
+        {
+            name: "104.9 KMVR-HD2",
+            logo: "stations/images-america/las_cruces/La Equis 96.7.png",
+            url: "http://dash.streamkast.co/proxy/bravomiccomm5/kmvrhd2"
         },
         {
             name: "KSIL 107.1",
             logo: "stations/images-america/el_paso/LatinX 94.3.png",
             url: "https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1"
+        },
+        {
+            name: "KWML 570",
+            logo: "stations/images-america/las_cruces/KOOL 104.5.png",
+            url: "http://live.amperwave.net/manifest/adamsradio-kwmlamaac-ibc1"
+        },
+        {
+            name: "600 ESPN",
+            logo: "stations/images-america/el_paso/600 ESPN.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krodamaac-ibc3"
+        },
+        {
+            name: "La Lupe 640",
+            logo: "stations/images-america/el_paso/La Lupe 640.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOVEFMAAC_SC"
+        },
+        {
+            name: "690 KTSM",
+            logo: "stations/images-america/el_paso/690 KTSM.png",
+            url: "https://stream.revma.ihrhls.com/zc5168/hls.m3u8"
+        },
+        {
+            name: "KAMA 750",
+            logo: "stations/images-america/el_paso/KAMA 750.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAMA750_AMAAC_SC"
+        },
+        {
+            name: "Calibre 800",
+            logo: "stations/images-america/el_paso/Calibre 800.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEWGAMAAC_SC"
+        },
+        {
+            name: "KOBE 1450",
+            logo: "stations/images-america/las_cruces/FM News Talk 92.7.png",
+            url: "http://dash.streamkast.co/proxy/bravomiccomm1/kobeam"
         },
     ],
     "las_vegas": [
@@ -13488,14 +13528,14 @@ var stations = {/*
             url: "http://107.182.234.197:7805/stream"
         },
         {
-            name: "ZFun 106",
-            logo: "stations/images-america/lewiston/ZFun 106.png",
-            url: "https://live.amperwave.net/manifest/inland-kzfnfmaac-ibc2"
-        },
-        {
             name: "The River 105.1",
             logo: "stations/images-america/lewiston/The River 105.1.png",
             url: "https://live.amperwave.net/manifest/mcvey-kvtyfmaac-imc"
+        },
+        {
+            name: "ZFun 106",
+            logo: "stations/images-america/lewiston/ZFun 106.png",
+            url: "https://live.amperwave.net/manifest/inland-kzfnfmaac-ibc2"
         },
         {
             name: "Canyon Country 106.9",
@@ -14017,7 +14057,7 @@ var stations = {/*
         {
             name: "KJazz 88.1",
             logo: "stations/images-america/los_angeles/KJazz 88.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKJZFMAAC_SC"
+            url: "https://streaming.live365.com/a49833"
         },
         {
             name: "KJazz Bebop 88.1-HD2",
@@ -14175,9 +14215,14 @@ var stations = {/*
             url: "https://liveaudio.lamusica.com/LA_KLAX_icy"
         },
         {
+            name: "La Privada 97.9-HD2",
+            logo: "stations/images-america/los_angeles/La Privada 97.9-HD2.png",
+            url: "https://liveaudio.lamusica.com/LA_KLAXHD2_icy"
+        },
+        {
             name: "98.3 K252FO",
-            logo: "stations/images-america/los_angeles/105.1 KKGO-HD2.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
+            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            url: "http://streaming.live365.com/a28050"
         },
         {
             name: "ALT 98.7",
@@ -14225,9 +14270,9 @@ var stations = {/*
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
-            name: "KQBH 101.5",
-            logo: "stations/images-america/los_angeles/KQBH 101.5.png",
-            url: "http://ednixon.com:8170/stream"
+            name: "101.5 KQBH",
+            logo: "stations/images-america/los_angeles/101.5 KQBH.png",
+            url: "https://www.ednixon.com:8170/stream"
         },
         {
             name: "LA 101.9",
@@ -14282,12 +14327,12 @@ var stations = {/*
         {
             name: "Go Country 105",
             logo: "stations/images-america/los_angeles/Go Country 105.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOFMAAC_SC"
+            url: "https://streaming.live365.com/a10969"
         },
         {
             name: "105.1 KKGO-HD2",
-            logo: "stations/images-america/los_angeles/105.1 KKGO-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGOHD2AAC_SC"
+            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            url: "https://streaming.live365.com/a28050"
         },
         {
             name: "105.1 KKGO-HD4",
@@ -24445,7 +24490,7 @@ var stations = {/*
         {
             name: "Zia Country 99.5",
             logo: "stations/images-america/las_cruces/Zia Country 99.5.png",
-            url: "https://ice42.securenetsystems.net/KXPZ"
+            url: "https://dash.streamkast.co/proxy/bravomiccomm4/kxpzfm"
         },
         {
             name: "101 Gold",
