@@ -695,8 +695,14 @@ var city_properties = {
     "akhaltsikhe": {
         relative_radius: 0.5,
     },
+    "aktobe": {
+        relative_radius: 0.8,
+    },
     "andorra": {
         relative_whitenoise: 1.1,
+    },
+    "alakurtti_rm": {
+        relative_radius: 0.4,
     },
     "alban": {
         relative_radius: 1.4,
@@ -730,6 +736,9 @@ var city_properties = {
     },
     "argostoli": {
         relative_radius: 0.6,
+    },
+    "artyk": {
+        relative_radius: 1.7,
     },
     "ashe": {
         relative_radius: 0.6,
@@ -786,6 +795,9 @@ var city_properties = {
     "bilbao": {
         relative_radius: 0.7,
     },
+    "birobizhan": {
+        relative_radius: 2,
+    },
     "bonn": {
         relative_radius: 0.5,
     },
@@ -838,6 +850,9 @@ var city_properties = {
         relative_radius: 0.4,
         relative_whitenoise: 0.9,
     },
+    "chernyshevsk": {
+        relative_radius: 1.75,
+    },
     "chinary": {
         relative_radius: 0.5,
     },
@@ -856,6 +871,9 @@ var city_properties = {
     },
     "dahovskaya": {
         relative_radius: 0.5,
+    },
+    "dalniechersk": {
+        relative_radius: 2,
     },
     "daugavpils": {
         relative_radius: 0.55,
@@ -919,8 +937,14 @@ var city_properties = {
     "foix": {
         relative_radius: 0.8,
     },
+    "formachevo": {
+        relative_radius: 0.7,
+    },
     "folkestone": {
         relative_radius: 0.4,
+    },
+    "gay": {
+        relative_radius: 0.6,
     },
     "gedser": {
         relative_radius: 0.6,
@@ -1005,6 +1029,9 @@ var city_properties = {
     "inderborsky": {
         relative_radius: 1.5,
     },
+    "irkutsk": {
+        relative_radius: 1.3,
+    },
     "irun": {
         relative_radius: 0.6,
     },
@@ -1017,6 +1044,9 @@ var city_properties = {
     "jonquera": {
         relative_radius: 0.7,
     },
+    "jvari": {
+        relative_radius: 0.4,
+    },
     "kaliningrad": {
         relative_radius: 0.45,
     },
@@ -1028,6 +1058,9 @@ var city_properties = {
     },
     "kamensk": {
         relative_radius: 1.5,
+    },
+    "karabalyk": {
+        relative_radius: 0.5,
     },
     "karachaevsk": {
         relative_radius: 0.35,
@@ -1049,6 +1082,18 @@ var city_properties = {
     },
     "kem": {
         relative_radius: 1.5,
+    },
+    "khabarovsk": {
+        relative_radius: 2,
+    },
+    "khaishi": {
+        relative_radius: 0.35,
+    },
+    "khandyga": {
+        relative_radius: 2,
+    },
+    "khromtau": {
+        relative_radius: 0.5,
     },
     "kiel": {
         relative_radius: 0.6,
@@ -1165,14 +1210,23 @@ var city_properties = {
     "mamedovashel": {
         relative_radius: 0.3,
     },
+    "mamlut": {
+        relative_radius: 0.4,
+    },
     "marseille": {
         relative_radius: 1.2,
     },
     "michalovce": {
         relative_radius: 0.65,
     },
+    "mogocha": {
+        relative_radius: 1.75,
+    },
     "mragowo": {
         relative_radius: 0.6,
+    },
+    "mudanjiang": {
+        relative_radius: 2,
     },
     "mukacheve": {
         relative_radius: 0.5,
@@ -1181,6 +1235,9 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "murmansk": {
+        relative_radius: 0.7,
+    },
+    "murmansk_rm": {
         relative_radius: 0.7,
     },
     "nadzhigo": {
@@ -1213,6 +1270,15 @@ var city_properties = {
     "nizhegorod": {
         relative_radius: 0.5,
     },
+    "nizhneudinsk": {
+        relative_radius: 1.1,
+    },
+    "novobruetsky": {
+        relative_radius: 1.6,
+    },
+    "novotroitsk": {
+        relative_radius: 0.5,
+    },
     "oberhausen": {
         relative_radius: 0.7,
     },
@@ -1226,6 +1292,9 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "ornskoldsvik": {
+        relative_radius: 0.6,
+    },
+    "orsk": {
         relative_radius: 0.6,
     },
     "osijek": {
@@ -1283,6 +1352,9 @@ var city_properties = {
     },
     "pinsk": {
         relative_radius: 1.4,
+    },
+    "polotsk": {
+        relative_radius: 0.8,
     },
     "polyanytsya": {
         relative_radius: 0.7,
@@ -1472,6 +1544,9 @@ var city_properties = {
     "timisoara": {
         relative_radius: 0.5,
     },
+    "tonghua": {
+        relative_radius: 2,
+    },
     "tornio": {
         relative_radius: 0.6,
     },
@@ -1489,6 +1564,9 @@ var city_properties = {
     },
     "trinity": {
         relative_radius: 0.2,
+    },
+    "troitsk": {
+        relative_radius: 0.5,
     },
     "tromso": {
         relative_radius: 0.8,
@@ -1517,6 +1595,9 @@ var city_properties = {
     "uelzen": {
         relative_radius: 0.4,
     },
+    "ulanude": {
+        relative_radius: 1.2,
+    },
     "umea": {
         relative_radius: 0.5,
     },
@@ -1526,11 +1607,20 @@ var city_properties = {
     "ustdjeguta": {
         relative_radius: 0.5,
     },
+    "ustn": {
+        relative_radius: 2,
+    },
     "utsjoki": {
         relative_radius: 0.4,
     },
+    "uvelsky": {
+        relative_radius: 0.5,
+    },
     "uzhhorod": {
         relative_radius: 0.5,
+    },
+    "uzhnouralsk": {
+        relative_radius: 0.7,
     },
     "valka": {
         relative_radius: 0.85,
@@ -1559,6 +1649,9 @@ var city_properties = {
     "vasaros": {
         relative_radius: 0.5,
     },
+    "velsk": {
+        relative_radius: 1.75,
+    },
     "verdalsora": {
         relative_radius: 0.7,
     },
@@ -1583,11 +1676,17 @@ var city_properties = {
     "volgograd": {
         relative_radius: 2,
     },
+    "vologda": {
+        relative_radius: 1.3,
+    },
     "voronezh": {
         relative_radius: 1.6,
     },
     "vyborg": {
         relative_radius: 0.6,
+    },
+    "yagodnoye": {
+        relative_radius: 1.7,
     },
     "ylivieska": {
         relative_radius: 0.5,
@@ -1613,9 +1712,18 @@ var city_properties = {
     "zelenogradsk": {
         relative_radius: 0.37,
     },
+    "zeni": {
+        relative_radius: 0.5,
+    },
     "zgorzelec": {
         relative_radius: 0.7,
         relative_whitenoise: 0.7,
+    },
+    "zima": {
+        relative_radius: 1.2,
+    },
+    "zugdidi": {
+        relative_radius: 0.5,
     },
     "zurich": {
         relative_radius: 1.15,
