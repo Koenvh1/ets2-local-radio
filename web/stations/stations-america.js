@@ -25279,7 +25279,7 @@ var stations = {/*
         },
         {
             name: "95.1 Great FM",
-            logo: "stations/images-america/tyler/95.1 Great FM.png",
+            logo: "stations/images-america/tyler/95.1 Great FM.jpg",
             url: "https://emg.streamguys1.com/well-website"
         },
         {
