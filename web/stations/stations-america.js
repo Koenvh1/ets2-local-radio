@@ -20176,6 +20176,11 @@ var stations = {/*
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice24.securenetsystems.net/KKCYHD2"
         },
         {
+            name: "105.7 The Mountain",
+            logo: "stations/images-america/sacramento_colusa/105.7 The Mountain.png",
+            url: "https://streaming.live365.com/a99453"
+        },
+        {
             name: "La Z 107.5",
             logo: "stations/images-america/sacramento_colusa/La Z 107.5.png",
             url: "https://ice10.securenetsystems.net/KSZK"
@@ -50489,8 +50494,8 @@ var stations = {/*
             url: "https://ice10.securenetsystems.net/WASL"
         },
         {
-            name: "NewsTalk 101.5",
-            logo: "stations/images-america/c2c/jackson_tn/NewsTalk 101.5.png",
+            name: "101.5 Talk-N West Tennessee",
+            logo: "stations/images-america/c2c/jackson_tn/101.5 Talk-N West Tennessee.png",
             url: "https://us2.maindigitalstream.com/ssl/WNWS"
         },
         {
