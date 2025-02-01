@@ -12570,9 +12570,24 @@ var stations = {/*
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
         },
         {
+            name: "Radio 74 89.5",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
+            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
             name: "Effect Radio 90.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
             url: "https://ice6.securenetsystems.net/EFXAAC"
+        },
+        {
+            name: "OPB 91.1",
+            logo: "stations/images-america/0_general_logos/OPB.png",
+            url: "http://ais-sa3.cdnstream1.com/2440_128.aac"
+        },
+        {
+            name: "CSN Radio 91.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "92.5 KLAD",
@@ -12580,9 +12595,14 @@ var stations = {/*
             url: "https://ice8.securenetsystems.net/KLADFM"
         },
         {
-            name: "Radio 74 98.1",
-            logo: "stations/images-america/0_general_logos/Radio 74.png",
-            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+            name: "KVIP 105.5",
+            logo: "stations/images-america/burns/KVIP 89.5.png",
+            url: "https://streaming.live365.com/a59959"
+        },
+        {
+            name: "KCFJ 570",
+            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
+            url: "http://204.93.186.205/index.php?u=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "lamar": [
