@@ -21847,9 +21847,9 @@ var stations = {/*
             url: "https://streamingcwsradio30.com:7022/stream"
         },
         {
-            name: "100.7 BIG FM",
-            logo: "stations/images-america/san_diego/100.7 BIG FM.png",
-            url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
+            name: "100.7 KFBG-FM",
+            logo: "stations/images-america/san_diego/91X.png",
+            url: "http://204.93.186.205/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
         },
         {
             name: "101.5 KGB",
