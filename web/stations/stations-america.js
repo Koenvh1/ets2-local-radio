@@ -7825,6 +7825,31 @@ var stations = {/*
             url: "https://ice10.securenetsystems.net/KJNY"
         },
         {
+            name: "KHSU 99.9",
+            logo: "stations/images-america/eureka/KHSU 90.5.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KHSUFMAAC_SC"
+        },
+        {
+            name: "KWPT 100.3",
+            logo: "stations/images-america/eureka/KWPT 102.9.png",
+            url: "http://lostcoast.streamguys.us//kwpt-hi"
+        },
+        {
+            name: "KEKA 101",
+            logo: "stations/images-america/eureka/KEKA 101.png",
+            url: "https://eurekaradio.streamguys1.com/live3"
+        },
+        {
+            name: "CSN Radio 102.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "JPR Classics & News 102.5",
+            logo: "stations/images-america/0_general_logos/JPR.png",
+            url: "http://jpr.streamguys.org:80/jpr-classics"
+        },
+        {
             name: "KWPT 102.9",
             logo: "stations/images-america/eureka/KWPT 102.9.png",
             url: "http://lostcoast.streamguys.us/kwpt-hi"
@@ -7833,6 +7858,11 @@ var stations = {/*
             name: "Radio Bilingüe 103.3",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
             url: "https://radio.radiobilingue.org/"
+        },
+        {
+            name: "K-LOVE 103.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "KHUM 104.7",
@@ -7860,14 +7890,24 @@ var stations = {/*
             url: "https://ice10.securenetsystems.net/KXGO"
         },
         {
+            name: "ESPN 107.3",
+            logo: "stations/images-america/eureka/ESPN Eureka.png",
+            url: "https://us9.maindigitalstream.com/ssl/KATA"
+        },
+        {
             name: "EZ 980",
             logo: "stations/images-america/eureka/EZ 95.5.png",
             url: "http://eurekaradio.streamguys1.com/live2"
         },
         {
+            name: "KPOD 1240",
+            logo: "stations/images-america/crescent_city/KPOD 106.7.png",
+            url: "https://us9.maindigitalstream.com/ssl/KPODAM"
+        },
+        {
             name: "ESPN 1340",
-            logo: "stations/images-america/eureka/ESPN 1340.png",
-            url: "https://us9.maindigitalstream.com/ssl/KATA"
+            logo: "stations/images-america/eureka/ESPN Eureka.png",
+            url: "https://us9.maindigitalstream.com//ssl/KATA"
         },
         {
             name: "Relevant Radio 1400",
