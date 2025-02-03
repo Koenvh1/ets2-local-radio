@@ -1112,6 +1112,18 @@ var stations = {/*
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/SER_CATAAC_SC"
         },
     ],
+    "china": [
+        {
+            name: "中国之声",
+            logo: "stations/images-europe/china/CNR.png",
+            url: "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8"
+        },
+        {
+            name: "经济之声",
+            logo: "stations/images-europe/china/CNR.png",
+            url: "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8"
+        },
+    ],
     "croatia": [
         {
             name: "HR 1",
@@ -6453,6 +6465,31 @@ var stations = {/*
             url: "https://radio-holding.ru:9433/marusya_default"
         },
         {
+            name: "Милицейская Волна",
+            logo: "stations/images-europe/russia/Милицейская Волна - Militseyskaya Volna.png",
+            url: "https://radiomv.hostingradio.ru:80/radiomv128.mp3"
+        },
+        {
+            name: "ПИ FM",
+            logo: "stations/images-europe/russia/ПИ FM - Pi FM.png",
+            url: "https://cdn.pifm.ru/mp3web"
+        },
+        {
+            name: "Радио Гордость",
+            logo: "stations/images-europe/russia/Радио Гордость - Radio Gordost.png",
+            url: "https://rgordost.hostingradio.ru/rgordost64.aacp"
+        },
+        {
+            name: "Радио Звезда",
+            logo: "stations/images-europe/russia/Радио Звезда - Radio Zvezda.png",
+            url: "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128"
+        },
+        {
+            name: "Радио Искатель",
+            logo: "stations/images-europe/russia/Радио Искатель - Radio Iskatel.png",
+            url: "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3"
+        },
+        {
             name: "Радио Мир",
             logo: "stations/images-europe/russia/Радио Мир - Radio Mir.png",
             url: "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
@@ -6466,6 +6503,11 @@ var stations = {/*
             name: "Radio Record",
             logo: "stations/images-europe/russia/Radio Record.png",
             url: "https://hls-01-radiorecord.hostingradio.ru/record/playlist.m3u8"
+        },
+        {
+            name: "Радио Родных Дорог",
+            logo: "stations/images-europe/russia/Радио Родных Дорог - Radio Rodnykh Dorog.png",
+            url: "https://stream1.radiord.ru:8000/live128.mp3"
         },
         {
             name: "Радио ВАНЯ",
