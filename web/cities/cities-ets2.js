@@ -95,6 +95,12 @@ var country_properties = {
         code: "es-cat",
         relative_radius: 1,
     },
+    "china": {
+        name: "中国",
+        name_english: "China",
+        code: "cn",
+        relative_radius: 1,
+    },
     "croatia": {
         name: "Hrvatska",
         name_english: "Croatia",
@@ -689,8 +695,14 @@ var city_properties = {
     "akhaltsikhe": {
         relative_radius: 0.5,
     },
+    "aktobe": {
+        relative_radius: 0.8,
+    },
     "andorra": {
         relative_whitenoise: 1.1,
+    },
+    "alakurtti_rm": {
+        relative_radius: 0.4,
     },
     "alban": {
         relative_radius: 1.4,
@@ -724,6 +736,9 @@ var city_properties = {
     },
     "argostoli": {
         relative_radius: 0.6,
+    },
+    "artyk": {
+        relative_radius: 1.7,
     },
     "ashe": {
         relative_radius: 0.6,
@@ -780,6 +795,9 @@ var city_properties = {
     "bilbao": {
         relative_radius: 0.7,
     },
+    "birobizhan": {
+        relative_radius: 2,
+    },
     "bonn": {
         relative_radius: 0.5,
     },
@@ -832,6 +850,9 @@ var city_properties = {
         relative_radius: 0.4,
         relative_whitenoise: 0.9,
     },
+    "chernyshevsk": {
+        relative_radius: 1.75,
+    },
     "chinary": {
         relative_radius: 0.5,
     },
@@ -850,6 +871,9 @@ var city_properties = {
     },
     "dahovskaya": {
         relative_radius: 0.5,
+    },
+    "dalniechersk": {
+        relative_radius: 2,
     },
     "daugavpils": {
         relative_radius: 0.55,
@@ -913,8 +937,14 @@ var city_properties = {
     "foix": {
         relative_radius: 0.8,
     },
+    "formachevo": {
+        relative_radius: 0.7,
+    },
     "folkestone": {
         relative_radius: 0.4,
+    },
+    "gay": {
+        relative_radius: 0.6,
     },
     "gedser": {
         relative_radius: 0.6,
@@ -999,6 +1029,9 @@ var city_properties = {
     "inderborsky": {
         relative_radius: 1.5,
     },
+    "irkutsk": {
+        relative_radius: 1.3,
+    },
     "irun": {
         relative_radius: 0.6,
     },
@@ -1011,6 +1044,9 @@ var city_properties = {
     "jonquera": {
         relative_radius: 0.7,
     },
+    "jvari": {
+        relative_radius: 0.4,
+    },
     "kaliningrad": {
         relative_radius: 0.45,
     },
@@ -1022,6 +1058,9 @@ var city_properties = {
     },
     "kamensk": {
         relative_radius: 1.5,
+    },
+    "karabalyk": {
+        relative_radius: 0.5,
     },
     "karachaevsk": {
         relative_radius: 0.35,
@@ -1043,6 +1082,18 @@ var city_properties = {
     },
     "kem": {
         relative_radius: 1.5,
+    },
+    "khabarovsk": {
+        relative_radius: 2,
+    },
+    "khaishi": {
+        relative_radius: 0.35,
+    },
+    "khandyga": {
+        relative_radius: 2,
+    },
+    "khromtau": {
+        relative_radius: 0.5,
     },
     "kiel": {
         relative_radius: 0.6,
@@ -1159,14 +1210,23 @@ var city_properties = {
     "mamedovashel": {
         relative_radius: 0.3,
     },
+    "mamlut": {
+        relative_radius: 0.4,
+    },
     "marseille": {
         relative_radius: 1.2,
     },
     "michalovce": {
         relative_radius: 0.65,
     },
+    "mogocha": {
+        relative_radius: 1.75,
+    },
     "mragowo": {
         relative_radius: 0.6,
+    },
+    "mudanjiang": {
+        relative_radius: 2,
     },
     "mukacheve": {
         relative_radius: 0.5,
@@ -1175,6 +1235,9 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "murmansk": {
+        relative_radius: 0.7,
+    },
+    "murmansk_rm": {
         relative_radius: 0.7,
     },
     "nadzhigo": {
@@ -1207,6 +1270,15 @@ var city_properties = {
     "nizhegorod": {
         relative_radius: 0.5,
     },
+    "nizhneudinsk": {
+        relative_radius: 1.1,
+    },
+    "novobruetsky": {
+        relative_radius: 1.6,
+    },
+    "novotroitsk": {
+        relative_radius: 0.5,
+    },
     "oberhausen": {
         relative_radius: 0.7,
     },
@@ -1220,6 +1292,9 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "ornskoldsvik": {
+        relative_radius: 0.6,
+    },
+    "orsk": {
         relative_radius: 0.6,
     },
     "osijek": {
@@ -1277,6 +1352,9 @@ var city_properties = {
     },
     "pinsk": {
         relative_radius: 1.4,
+    },
+    "polotsk": {
+        relative_radius: 0.8,
     },
     "polyanytsya": {
         relative_radius: 0.7,
@@ -1466,6 +1544,9 @@ var city_properties = {
     "timisoara": {
         relative_radius: 0.5,
     },
+    "tonghua": {
+        relative_radius: 2,
+    },
     "tornio": {
         relative_radius: 0.6,
     },
@@ -1483,6 +1564,9 @@ var city_properties = {
     },
     "trinity": {
         relative_radius: 0.2,
+    },
+    "troitsk": {
+        relative_radius: 0.5,
     },
     "tromso": {
         relative_radius: 0.8,
@@ -1511,6 +1595,9 @@ var city_properties = {
     "uelzen": {
         relative_radius: 0.4,
     },
+    "ulanude": {
+        relative_radius: 1.2,
+    },
     "umea": {
         relative_radius: 0.5,
     },
@@ -1520,11 +1607,20 @@ var city_properties = {
     "ustdjeguta": {
         relative_radius: 0.5,
     },
+    "ustn": {
+        relative_radius: 2,
+    },
     "utsjoki": {
         relative_radius: 0.4,
     },
+    "uvelsky": {
+        relative_radius: 0.5,
+    },
     "uzhhorod": {
         relative_radius: 0.5,
+    },
+    "uzhnouralsk": {
+        relative_radius: 0.7,
     },
     "valka": {
         relative_radius: 0.85,
@@ -1553,6 +1649,9 @@ var city_properties = {
     "vasaros": {
         relative_radius: 0.5,
     },
+    "velsk": {
+        relative_radius: 1.75,
+    },
     "verdalsora": {
         relative_radius: 0.7,
     },
@@ -1577,11 +1676,17 @@ var city_properties = {
     "volgograd": {
         relative_radius: 2,
     },
+    "vologda": {
+        relative_radius: 1.3,
+    },
     "voronezh": {
         relative_radius: 1.6,
     },
     "vyborg": {
         relative_radius: 0.6,
+    },
+    "yagodnoye": {
+        relative_radius: 1.7,
     },
     "ylivieska": {
         relative_radius: 0.5,
@@ -1607,9 +1712,18 @@ var city_properties = {
     "zelenogradsk": {
         relative_radius: 0.37,
     },
+    "zeni": {
+        relative_radius: 0.5,
+    },
     "zgorzelec": {
         relative_radius: 0.7,
         relative_whitenoise: 0.7,
+    },
+    "zima": {
+        relative_radius: 1.2,
+    },
+    "zugdidi": {
+        relative_radius: 0.5,
     },
     "zurich": {
         relative_radius: 1.15,
@@ -5466,6 +5580,30 @@ var cities = [
 
 var cities_rusmap = [
     {
+        "gameName": "alakurtti_rm",
+        "realName": "Алакуртти",
+        "country": "russia",
+        "x": "48960.42",
+        "y": "56.35156",
+        "z": "-94661.89"
+    },
+    {
+        "gameName": "alehovshina",
+        "realName": "Алёховщина",
+        "country": "russia",
+        "x": "68741.08",
+        "y": "55.71094",
+        "z": "-62768.01"
+    },
+    {
+        "gameName": "apatity_rm",
+        "realName": "Апатиты",
+        "country": "russia",
+        "x": "60257.51",
+        "y": "44.78906",
+        "z": "-101063.1"
+    },
+    {
         "gameName": "babruysk",
         "realName": "Бабруйск",
         "country": "belarus",
@@ -5480,6 +5618,22 @@ var cities_rusmap = [
         "x": "54554.7",
         "y": "64.0586",
         "z": "-16169.5"
+    },
+    {
+        "gameName": "belcity",
+        "realName": "Бeлгoрoд",
+        "country": "russia",
+        "x": "92763.64",
+        "y": "58.90625",
+        "z": "-10593"
+    },
+    {
+        "gameName": "boksitogorsk",
+        "realName": "Бокситогорск",
+        "country": "russia",
+        "x": "74143.42",
+        "y": "56.98438",
+        "z": "-57093.29"
     },
     {
         "gameName": "borisoglebsk",
@@ -5509,9 +5663,17 @@ var cities_rusmap = [
         "gameName": "engels",
         "realName": "Энгельс",
         "country": "russia",
-        "x": "135142",
-        "y": "58.4844",
-        "z": "-26771.6"
+        "x": "126205.3",
+        "y": "58.48438",
+        "z": "-27772.72"
+    },
+    {
+        "gameName": "glubokoe",
+        "realName": "Глыбокае",
+        "country": "belarus",
+        "x": "58649.91",
+        "y": "67.09766",
+        "z": "-29033.44"
     },
     {
         "gameName": "gomel",
@@ -5538,6 +5700,14 @@ var cities_rusmap = [
         "z": "-31348.2"
     },
     {
+        "gameName": "kandalrm",
+        "realName": "Кандалакша",
+        "country": "russia",
+        "x": "57059.25",
+        "y": "37.33594",
+        "z": "-97006.81"
+    },
+    {
         "gameName": "kem",
         "realName": "Кемь",
         "country": "russia",
@@ -5554,12 +5724,44 @@ var cities_rusmap = [
         "z": "-42842.4"
     },
     {
+        "gameName": "kingisepp",
+        "realName": "Кингисепп",
+        "country": "russia",
+        "x": "55841.82",
+        "y": "57.91406",
+        "z": "-52838.75"
+    },
+    {
+        "gameName": "kirishi",
+        "realName": "Кириши",
+        "country": "russia",
+        "x": "67675.27",
+        "y": "65.78906",
+        "z": "-56666.77"
+    },
+    {
+        "gameName": "kirovsk_rm1",
+        "realName": "Кировск",
+        "country": "russia",
+        "x": "64341.34",
+        "y": "52.43359",
+        "z": "-57445.91"
+    },
+    {
         "gameName": "klin",
         "realName": "Клин",
         "country": "russia",
         "x": "84401.6",
         "y": "57.4492",
         "z": "-42236.8"
+    },
+    {
+        "gameName": "kola_rm",
+        "realName": "Кола",
+        "country": "russia",
+        "x": "51681.66",
+        "y": "-6.769531",
+        "z": "-108565.9"
     },
     {
         "gameName": "kolomna",
@@ -5570,12 +5772,20 @@ var cities_rusmap = [
         "z": "-38100.1"
     },
     {
+        "gameName": "kolpino",
+        "realName": "Колпино",
+        "country": "russia",
+        "x": "62728.22",
+        "y": "71.20703",
+        "z": "-55253.77"
+    },
+    {
         "gameName": "krasnoslob",
         "realName": "Краснослободск",
         "country": "russia",
-        "x": "128884",
-        "y": "66.6563",
-        "z": "-7715.25"
+        "x": "125747.5",
+        "y": "74.59766",
+        "z": "-10103.79"
     },
     {
         "gameName": "kursk",
@@ -5605,9 +5815,9 @@ var cities_rusmap = [
         "gameName": "medved",
         "realName": "Медвежьегорск",
         "country": "russia",
-        "x": "67995.3",
-        "y": "76.6172",
-        "z": "-77326.8"
+        "x": "67868.83",
+        "y": "77.34766",
+        "z": "-78117.56"
     },
     {
         "gameName": "minsk",
@@ -5624,6 +5834,14 @@ var cities_rusmap = [
         "x": "67307.6",
         "y": "39.5039",
         "z": "-23216.2"
+    },
+    {
+        "gameName": "moncheg_rm",
+        "realName": "Мончегорск",
+        "country": "russia",
+        "x": "56111.91",
+        "y": "23.95313",
+        "z": "-102972"
     },
     {
         "gameName": "moscow",
@@ -5650,12 +5868,28 @@ var cities_rusmap = [
         "z": "-26136.8"
     },
     {
+        "gameName": "murmansk_rm",
+        "realName": "Мурманск",
+        "country": "russia",
+        "x": "54001.45",
+        "y": "14.07813",
+        "z": "-109492.7"
+    },
+    {
         "gameName": "nevel",
         "realName": "Невель",
         "country": "russia",
         "x": "63689.5",
         "y": "44.1406",
         "z": "-35678.8"
+    },
+    {
+        "gameName": "nikolskoye",
+        "realName": "Никольское",
+        "country": "russia",
+        "x": "106544.6",
+        "y": "54.5",
+        "z": "-38967.73"
     },
     {
         "gameName": "novgorod",
@@ -5672,6 +5906,14 @@ var cities_rusmap = [
         "x": "85332.9",
         "y": "66.6289",
         "z": "-35073.1"
+    },
+    {
+        "gameName": "oboyan",
+        "realName": "Обоянь",
+        "country": "russia",
+        "x": "91077",
+        "y": "55.07813",
+        "z": "-13813"
     },
     {
         "gameName": "orel",
@@ -5698,6 +5940,14 @@ var cities_rusmap = [
         "z": "-44016.8"
     },
     {
+        "gameName": "penza",
+        "realName": "Пенза",
+        "country": "russia",
+        "x": "116891.6",
+        "y": "71.24609",
+        "z": "-36117.17"
+    },
+    {
         "gameName": "petersburg",
         "realName": "Санкт-Петербург",
         "country": "russia",
@@ -5714,6 +5964,14 @@ var cities_rusmap = [
         "z": "-70284.8"
     },
     {
+        "gameName": "pikalevo",
+        "realName": "Пикалёво",
+        "country": "russia",
+        "x": "75280.78",
+        "y": "59.63281",
+        "z": "-58081.39"
+    },
+    {
         "gameName": "pinsk",
         "realName": "Пінск",
         "country": "belarus",
@@ -5725,9 +5983,17 @@ var cities_rusmap = [
         "gameName": "pole",
         "realName": "Лодейное Поле",
         "country": "russia",
-        "x": "67409.2",
-        "y": "86.4648",
-        "z": "-65013.9"
+        "x": "66287.48",
+        "y": "76.46484",
+        "z": "-64918.8"
+    },
+    {
+        "gameName": "polotsk",
+        "realName": "Полацк",
+        "country": "belarus",
+        "x": "61905.28",
+        "y": "51.65625",
+        "z": "-31507.19"
     },
     {
         "gameName": "porkhov",
@@ -5741,17 +6007,17 @@ var cities_rusmap = [
         "gameName": "priozersk",
         "realName": "Приозерск",
         "country": "russia",
-        "x": "56641.7",
-        "y": "135.543",
-        "z": "-63444.7"
+        "x": "56847.34",
+        "y": "128.1641",
+        "z": "-63403.49"
     },
     {
         "gameName": "razmetelevo",
         "realName": "Разметелево",
         "country": "russia",
-        "x": "62571.9",
-        "y": "86.2422",
-        "z": "-57835"
+        "x": "62858.83",
+        "y": "61.33594",
+        "z": "-57694.02"
     },
     {
         "gameName": "rgev",
@@ -5773,9 +6039,25 @@ var cities_rusmap = [
         "gameName": "saratov",
         "realName": "Саратов",
         "country": "russia",
-        "x": "131600",
-        "y": "45.7891",
-        "z": "-27910"
+        "x": "122162.3",
+        "y": "78.28906",
+        "z": "-28779.4"
+    },
+    {
+        "gameName": "segezha_rm",
+        "realName": "Сегежа",
+        "country": "russia",
+        "x": "68648.11",
+        "y": "75.75391",
+        "z": "-82188.78"
+    },
+    {
+        "gameName": "shatsk_mr",
+        "realName": "Шацк",
+        "country": "russia",
+        "x": "102748",
+        "y": "47.5",
+        "z": "-36572.32"
     },
     {
         "gameName": "shlisselburg",
@@ -5818,6 +6100,14 @@ var cities_rusmap = [
         "z": "-66991.9"
     },
     {
+        "gameName": "stroitel",
+        "realName": "Строитель",
+        "country": "russia",
+        "x": "92030.14",
+        "y": "60.01172",
+        "z": "-11600.88"
+    },
+    {
         "gameName": "suoyarvi",
         "realName": "Суоярви",
         "country": "russia",
@@ -5832,6 +6122,14 @@ var cities_rusmap = [
         "x": "107369",
         "y": "49.2344",
         "z": "-28733.2"
+    },
+    {
+        "gameName": "tihvin",
+        "realName": "Тихвин",
+        "country": "russia",
+        "x": "69854.91",
+        "y": "80.8125",
+        "z": "-58391.98"
     },
     {
         "gameName": "tosno",
@@ -5874,20 +6172,36 @@ var cities_rusmap = [
         "z": "-34541.6"
     },
     {
+        "gameName": "vinnicy",
+        "realName": "Винницы",
+        "country": "russia",
+        "x": "71575.91",
+        "y": "62.91797",
+        "z": "-64179.57"
+    },
+    {
         "gameName": "vitebsk",
         "realName": "Віцебск",
         "country": "belarus",
-        "x": "65443.4",
-        "y": "57.4766",
-        "z": "-32173.2"
+        "x": "65397.11",
+        "y": "57.47656",
+        "z": "-32575.59"
     },
     {
         "gameName": "volgograd",
         "realName": "Волгоград",
         "country": "russia",
-        "x": "128129",
-        "y": "116.164",
-        "z": "-11174.1"
+        "x": "123820.7",
+        "y": "116.3867",
+        "z": "-12510.52"
+    },
+    {
+        "gameName": "volhov_rm",
+        "realName": "Волхов",
+        "country": "russia",
+        "x": "65984.48",
+        "y": "94.90234",
+        "z": "-58614.18"
     },
     {
         "gameName": "volkovysk",
@@ -5917,9 +6231,9 @@ var cities_rusmap = [
         "gameName": "volzhskiy",
         "realName": "Волжский",
         "country": "russia",
-        "x": "131991",
-        "y": "94.8594",
-        "z": "-10459.7"
+        "x": "126208.8",
+        "y": "112.9258",
+        "z": "-13839.17"
     },
     {
         "gameName": "voronezh",
@@ -5949,9 +6263,9 @@ var cities_rusmap = [
         "gameName": "zelenoborsky",
         "realName": "Зеленоборский",
         "country": "russia",
-        "x": "57673.2",
-        "y": "42.2695",
-        "z": "-93488.3"
+        "x": "57769.43",
+        "y": "34.72656",
+        "z": "-92496.91"
     }
 ];
 
@@ -7212,7 +7526,31 @@ var cities_srm = [
         "x": "105965",
         "y": "54.0391",
         "z": "18703.5"
-      }
+    },
+    {
+        "gameName": "jvari",
+        "realName": "ჯვარი",
+        "country": "georgia",
+        "x": "128468.9",
+        "y": "60.83984",
+        "z": "23542.18"
+    },
+    {
+        "gameName": "khaishi",
+        "realName": "ხაიში",
+        "country": "georgia",
+        "x": "128292.8",
+        "y": "113.5273",
+        "z": "22248.4"
+    },
+    {
+        "gameName": "zugdidi",
+        "realName": "ზუგდიდი",
+        "country": "georgia",
+        "x": "128726.8",
+        "y": "61.43359",
+        "z": "25476.98"
+    },
 ];
 
 var cities_pm230 = [
@@ -12674,6 +13012,1780 @@ var cities_japan = [
     }
 ];
 
+var cities_sibir = [
+    {
+      "gameName": "akyar",
+      "realName": "Акъяр",
+      "country": "russia",
+      "x": "159839.3",
+      "y": "165.5508",
+      "z": "-49934.96"
+    },
+    {
+      "gameName": "almetevsk",
+      "realName": "Альметьевск",
+      "country": "russia",
+      "x": "133016",
+      "y": "67.40625",
+      "z": "-54956.61"
+    },
+    {
+      "gameName": "argayash",
+      "realName": "Аргаяш",
+      "country": "russia",
+      "x": "153951.9",
+      "y": "158.3125",
+      "z": "-70801.59"
+    },
+    {
+      "gameName": "arsk",
+      "realName": "Арск",
+      "country": "russia",
+      "x": "120890.6",
+      "y": "74.40625",
+      "z": "-59315.5"
+    },
+    {
+      "gameName": "asbest",
+      "realName": "Асбест",
+      "country": "russia",
+      "x": "150035.4",
+      "y": "156.0352",
+      "z": "-83341.09"
+    },
+    {
+      "gameName": "asha",
+      "realName": "Аша",
+      "country": "russia",
+      "x": "146108.9",
+      "y": "144.5625",
+      "z": "-62536.16"
+    },
+    {
+      "gameName": "barkhatovo",
+      "realName": "Бархатово",
+      "country": "russia",
+      "x": "161285",
+      "y": "148.6953",
+      "z": "-83289.68"
+    },
+    {
+      "gameName": "bavly",
+      "realName": "Бавлы",
+      "country": "russia",
+      "x": "136625.2",
+      "y": "60.73047",
+      "z": "-52968.19"
+    },
+    {
+      "gameName": "baymak",
+      "realName": "Баймак",
+      "country": "russia",
+      "x": "156802.4",
+      "y": "175.8672",
+      "z": "-51492.9"
+    },
+    {
+      "gameName": "beloretsk",
+      "realName": "Белорецк",
+      "country": "russia",
+      "x": "153032.5",
+      "y": "146.0234",
+      "z": "-58986.11"
+    },
+    {
+      "gameName": "beloyarskiy",
+      "realName": "Белоярский",
+      "country": "russia",
+      "x": "152158.8",
+      "y": "163.1523",
+      "z": "-81689.55"
+    },
+    {
+      "gameName": "berduzhie",
+      "realName": "Бердюжье",
+      "country": "russia",
+      "x": "172495.1",
+      "y": "161.6523",
+      "z": "-87615.45"
+    },
+    {
+      "gameName": "berezovsky",
+      "realName": "Берёзовский",
+      "country": "russia",
+      "x": "148475.9",
+      "y": "156.207",
+      "z": "-81203.22"
+    },
+    {
+      "gameName": "bogandinsky",
+      "realName": "Богандинский",
+      "country": "russia",
+      "x": "163830.9",
+      "y": "144.3633",
+      "z": "-88368.33"
+    },
+    {
+      "gameName": "bogdanovich",
+      "realName": "Богданович",
+      "country": "russia",
+      "x": "153539.5",
+      "y": "163.4219",
+      "z": "-82210.44"
+    },
+    {
+      "gameName": "bugulma",
+      "realName": "Бугульма",
+      "country": "russia",
+      "x": "135365.6",
+      "y": "67.37891",
+      "z": "-54005.66"
+    },
+    {
+      "gameName": "chastoozerie",
+      "realName": "Частоозерье",
+      "country": "russia",
+      "x": "171859.8",
+      "y": "161.668",
+      "z": "-85989.42"
+    },
+    {
+      "gameName": "chelyabinsk",
+      "realName": "Челябинск",
+      "country": "russia",
+      "x": "157251",
+      "y": "175.4844",
+      "z": "-71193.15"
+    },
+    {
+      "gameName": "chervishevo",
+      "realName": "Червишево",
+      "country": "russia",
+      "x": "161671.5",
+      "y": "148.2227",
+      "z": "-86189.27"
+    },
+    {
+      "gameName": "chistopol",
+      "realName": "Чистополь",
+      "country": "russia",
+      "x": "126772.9",
+      "y": "59.14063",
+      "z": "-54972.55"
+    },
+    {
+      "gameName": "ekat",
+      "realName": "Екатеринбург",
+      "country": "russia",
+      "x": "147576.6",
+      "y": "146.0586",
+      "z": "-78289.63"
+    },
+    {
+      "gameName": "formachevo",
+      "realName": "Станция Формачёво",
+      "country": "russia",
+      "x": "158986.9",
+      "y": "164.1094",
+      "z": "-68168.78"
+    },
+    {
+      "gameName": "gay",
+      "realName": "Гай",
+      "country": "russia",
+      "x": "159621.4",
+      "y": "165.6758",
+      "z": "-47751.18"
+    },
+    {
+      "gameName": "golishmanovo",
+      "realName": "Голышманово",
+      "country": "russia",
+      "x": "170723.9",
+      "y": "159.5703",
+      "z": "-89999.16"
+    },
+    {
+      "gameName": "inzer",
+      "realName": "Инзер",
+      "country": "russia",
+      "x": "150536.9",
+      "y": "146.0234",
+      "z": "-59500.18"
+    },
+    {
+      "gameName": "isetskoe",
+      "realName": "Исетское",
+      "country": "russia",
+      "x": "162172.8",
+      "y": "148.8203",
+      "z": "-84141.65"
+    },
+    {
+      "gameName": "ishim",
+      "realName": "Ишим",
+      "country": "russia",
+      "x": "174555",
+      "y": "160.0625",
+      "z": "-92069.98"
+    },
+    {
+      "gameName": "isyang",
+      "realName": "Исянгулово",
+      "country": "russia",
+      "x": "152574.2",
+      "y": "135.1797",
+      "z": "-48900.37"
+    },
+    {
+      "gameName": "kamenskur",
+      "realName": "Каменск-Уральский",
+      "country": "russia",
+      "x": "155615.6",
+      "y": "162.1172",
+      "z": "-77866.57"
+    },
+    {
+      "gameName": "kargapolie",
+      "realName": "Каргаполье",
+      "country": "russia",
+      "x": "163799.6",
+      "y": "162.168",
+      "z": "-79661.42"
+    },
+    {
+      "gameName": "kazan",
+      "realName": "Казань",
+      "country": "russia",
+      "x": "119299.2",
+      "y": "81.40234",
+      "z": "-55874.78"
+    },
+    {
+      "gameName": "kurgan",
+      "realName": "Курган",
+      "country": "russia",
+      "x": "166905.6",
+      "y": "158.6328",
+      "z": "-79791.63"
+    },
+    {
+      "gameName": "laishevo",
+      "realName": "Лаишево",
+      "country": "russia",
+      "x": "122174.2",
+      "y": "83.75391",
+      "z": "-53934.89"
+    },
+    {
+      "gameName": "magnitogorsk",
+      "realName": "Магнитогорск",
+      "country": "russia",
+      "x": "156793.9",
+      "y": "121.8984",
+      "z": "-57446.09"
+    },
+    {
+      "gameName": "makushino",
+      "realName": "Макушино",
+      "country": "russia",
+      "x": "172832.4",
+      "y": "158.8047",
+      "z": "-82470.03"
+    },
+    {
+      "gameName": "mamlut",
+      "realName": "Mamlut",
+      "country": "kazakhstan",
+      "x": "176086.9",
+      "y": "165.4961",
+      "z": "-82628.3"
+    },
+    {
+      "gameName": "miass",
+      "realName": "Миасс",
+      "country": "russia",
+      "x": "155068",
+      "y": "175.1094",
+      "z": "-66792.7"
+    },
+    {
+      "gameName": "miasskoe",
+      "realName": "Миасское",
+      "country": "russia",
+      "x": "159478",
+      "y": "155.5625",
+      "z": "-73159.08"
+    },
+    {
+      "gameName": "mishkino",
+      "realName": "Мишкино",
+      "country": "russia",
+      "x": "163268.5",
+      "y": "163.5703",
+      "z": "-75657.78"
+    },
+    {
+      "gameName": "novotroitsk",
+      "realName": "Новотроицк",
+      "country": "russia",
+      "x": "161781.3",
+      "y": "199.5703",
+      "z": "-46260.21"
+    },
+    {
+      "gameName": "oktyabrskiy",
+      "realName": "Октябрьский",
+      "country": "russia",
+      "x": "137460.7",
+      "y": "67.57813",
+      "z": "-53841.09"
+    },
+    {
+      "gameName": "omsk",
+      "realName": "Омск",
+      "country": "russia",
+      "x": "186725.5",
+      "y": "161.2695",
+      "z": "-95522.56"
+    },
+    {
+      "gameName": "orsk",
+      "realName": "Орск",
+      "country": "russia",
+      "x": "162377.9",
+      "y": "189",
+      "z": "-47738.72"
+    },
+    {
+      "gameName": "petuhovo",
+      "realName": "Петухово",
+      "country": "russia",
+      "x": "174796.9",
+      "y": "167.4844",
+      "z": "-83071.53"
+    },
+    {
+      "gameName": "planoviy",
+      "realName": "Плановый",
+      "country": "russia",
+      "x": "160107.6",
+      "y": "163.3516",
+      "z": "-73737.91"
+    },
+    {
+      "gameName": "pyshma",
+      "realName": "Пышма",
+      "country": "russia",
+      "x": "156212.8",
+      "y": "142.1406",
+      "z": "-83396.94"
+    },
+    {
+      "gameName": "salavat",
+      "realName": "Салават",
+      "country": "russia",
+      "x": "147404.9",
+      "y": "155.6641",
+      "z": "-52098.19"
+    },
+    {
+      "gameName": "shadrinsk",
+      "realName": "Шадринск",
+      "country": "russia",
+      "x": "160073.5",
+      "y": "146.9297",
+      "z": "-78693.12"
+    },
+    {
+      "gameName": "shaksha",
+      "realName": "Шакша",
+      "country": "russia",
+      "x": "142667.2",
+      "y": "133.9531",
+      "z": "-60495.73"
+    },
+    {
+      "gameName": "shumikha",
+      "realName": "Шумиха",
+      "country": "russia",
+      "x": "162968.7",
+      "y": "165.6563",
+      "z": "-73687.41"
+    },
+    {
+      "gameName": "sibai",
+      "realName": "Сибай",
+      "country": "russia",
+      "x": "158963.6",
+      "y": "149.5313",
+      "z": "-52961.74"
+    },
+    {
+      "gameName": "sim",
+      "realName": "Сим",
+      "country": "russia",
+      "x": "147591.3",
+      "y": "119.1563",
+      "z": "-63131.84"
+    },
+    {
+      "gameName": "sterlitamak",
+      "realName": "Стерлитамак",
+      "country": "russia",
+      "x": "147631.6",
+      "y": "190.6641",
+      "z": "-54414"
+    },
+    {
+      "gameName": "sysert",
+      "realName": "Сысерть",
+      "country": "russia",
+      "x": "150710.5",
+      "y": "167.4336",
+      "z": "-75777.23"
+    },
+    {
+      "gameName": "troitsk",
+      "realName": "Троицк",
+      "country": "russia",
+      "x": "161852.8",
+      "y": "160.5078",
+      "z": "-66048.72"
+    },
+    {
+      "gameName": "tulgan",
+      "realName": "Тюльган",
+      "country": "russia",
+      "x": "150750.8",
+      "y": "165.2891",
+      "z": "-49869.74"
+    },
+    {
+      "gameName": "tumen",
+      "realName": "Тюмень",
+      "country": "russia",
+      "x": "160406.3",
+      "y": "147.2188",
+      "z": "-89351.38"
+    },
+    {
+      "gameName": "ufa",
+      "realName": "Уфа",
+      "country": "russia",
+      "x": "141292.5",
+      "y": "132.5117",
+      "z": "-59044.03"
+    },
+    {
+      "gameName": "urgaza",
+      "realName": "Ургаза",
+      "country": "russia",
+      "x": "159589.3",
+      "y": "201.0117",
+      "z": "-51466.62"
+    },
+    {
+      "gameName": "uruzan",
+      "realName": "Юрюзань",
+      "country": "russia",
+      "x": "153163.5",
+      "y": "137.3281",
+      "z": "-64069.1"
+    },
+    {
+      "gameName": "ustkatav",
+      "realName": "Усть-Катав",
+      "country": "russia",
+      "x": "150936.5",
+      "y": "153.8516",
+      "z": "-63201.03"
+    },
+    {
+      "gameName": "uvelsky",
+      "realName": "Увельский",
+      "country": "russia",
+      "x": "160676.5",
+      "y": "163.2383",
+      "z": "-67778.08"
+    },
+    {
+      "gameName": "uzhnouralsk",
+      "realName": "Южноуральск",
+      "country": "russia",
+      "x": "159205.5",
+      "y": "163.3398",
+      "z": "-67193.48"
+    },
+    {
+      "gameName": "verhneuralsk",
+      "realName": "Верхнеуральск",
+      "country": "russia",
+      "x": "156113.9",
+      "y": "145.1992",
+      "z": "-61502.91"
+    },
+    {
+      "gameName": "yalutorovsk",
+      "realName": "Ялуторовск",
+      "country": "russia",
+      "x": "165500.1",
+      "y": "144.0586",
+      "z": "-88637.77"
+    },
+    {
+      "gameName": "zavodoukovsk",
+      "realName": "Заводоуковск",
+      "country": "russia",
+      "x": "167599",
+      "y": "148.9844",
+      "z": "-87324.98"
+    },
+    {
+      "gameName": "zlatoust",
+      "realName": "Златоуст",
+      "country": "russia",
+      "x": "148862.5",
+      "y": "167.4766",
+      "z": "-67286.98"
+    },
+];
+
+var cities_volga = [
+    {
+      "gameName": "alekseevka",
+      "realName": "Алексеевка",
+      "country": "russia",
+      "x": "137144",
+      "y": "82.9102",
+      "z": "-43498.7"
+    },
+    {
+      "gameName": "buzuluk",
+      "realName": "Бузулук",
+      "country": "russia",
+      "x": "139771",
+      "y": "71.5977",
+      "z": "-42724.8"
+    },
+    {
+      "gameName": "kr_yar",
+      "realName": "Красный Яр",
+      "country": "russia",
+      "x": "135790",
+      "y": "61.0391",
+      "z": "-46368.6"
+    },
+    {
+      "gameName": "kurumoch",
+      "realName": "Курумоч",
+      "country": "russia",
+      "x": "132575",
+      "y": "63.8867",
+      "z": "-45419.9"
+    },
+    {
+      "gameName": "novospasskoe",
+      "realName": "Новоспасское",
+      "country": "russia",
+      "x": "124597",
+      "y": "71.5703",
+      "z": "-39003.2"
+    },
+    {
+      "gameName": "nps_samara",
+      "realName": "НПС Самара",
+      "country": "russia",
+      "x": "137184",
+      "y": "71.4766",
+      "z": "-41784.3"
+    },
+    {
+      "gameName": "samara",
+      "realName": "Самара",
+      "country": "russia",
+      "x": "134744",
+      "y": "67.4844",
+      "z": "-42478.2"
+    },
+    {
+      "gameName": "senn",
+      "realName": "Сенной",
+      "country": "russia",
+      "x": "123714",
+      "y": "90.5039",
+      "z": "-32870.7"
+    },
+    {
+      "gameName": "volsk",
+      "realName": "Вольск",
+      "country": "russia",
+      "x": "126847",
+      "y": "82.8359",
+      "z": "-33037.4"
+    },
+    {
+      "gameName": "volzskiy",
+      "realName": "Волжский",
+      "country": "russia",
+      "x": "133209",
+      "y": "63.8164",
+      "z": "-44746.2"
+    },
+    {
+      "gameName": "zhigulevsk",
+      "realName": "Жигулёвск",
+      "country": "russia",
+      "x": "129968",
+      "y": "54.4375",
+      "z": "-42613.1"
+    }
+];
+
+var cities_kirov = [
+    {
+      "gameName": "chepeck",
+      "realName": "Кирово-Чепецк",
+      "country": "russia",
+      "x": "116784.3",
+      "y": "153.6719",
+      "z": "-68377.08"
+    },
+    {
+      "gameName": "kirov",
+      "realName": "Киров",
+      "country": "russia",
+      "x": "112940.5",
+      "y": "113.5078",
+      "z": "-68335.58"
+    },
+    {
+      "gameName": "kotelnich",
+      "realName": "Котельнич",
+      "country": "russia",
+      "x": "110529.1",
+      "y": "90",
+      "z": "-65145.06"
+    },
+    {
+      "gameName": "lebyajie",
+      "realName": "Лебяжье",
+      "country": "russia",
+      "x": "117419.5",
+      "y": "118.0469",
+      "z": "-61913.78"
+    },
+    {
+      "gameName": "manturovo",
+      "realName": "Мантурово",
+      "country": "russia",
+      "x": "102176.3",
+      "y": "130",
+      "z": "-61323.47"
+    },
+    {
+      "gameName": "nolinsk",
+      "realName": "Нолинск",
+      "country": "russia",
+      "x": "117958.6",
+      "y": "99.55859",
+      "z": "-63430.37"
+    },
+    {
+      "gameName": "pijanka",
+      "realName": "Пижанка",
+      "country": "russia",
+      "x": "113686.5",
+      "y": "92.28906",
+      "z": "-60644.39"
+    },
+    {
+      "gameName": "shahunya",
+      "realName": "Шахунья",
+      "country": "russia",
+      "x": "107395.2",
+      "y": "105.3359",
+      "z": "-61918.89"
+    },
+    {
+      "gameName": "sharia",
+      "realName": "Шарья",
+      "country": "russia",
+      "x": "102729",
+      "y": "119.5469",
+      "z": "-64741.3"
+    },
+    {
+      "gameName": "sovetsk",
+      "realName": "Советск",
+      "country": "russia",
+      "x": "114300.1",
+      "y": "120",
+      "z": "-62258.84"
+    },
+    {
+      "gameName": "suna",
+      "realName": "Суна",
+      "country": "russia",
+      "x": "117536.4",
+      "y": "121.8203",
+      "z": "-64598.95"
+    },
+    {
+      "gameName": "urjum",
+      "realName": "Уржум",
+      "country": "russia",
+      "x": "119790.8",
+      "y": "143.2227",
+      "z": "-61414.46"
+    },
+    {
+      "gameName": "yaransk",
+      "realName": "Яранск",
+      "country": "russia",
+      "x": "112569.4",
+      "y": "103.1094",
+      "z": "-59719.65"
+    },
+];
+
+var cities_nnmap = [
+    {
+        "gameName": "arzamas",
+        "realName": "Арзамас",
+        "country": "russia",
+        "x": "105475.5",
+        "y": "103.4766",
+        "z": "-45342.63"
+    },
+    {
+      "gameName": "bogoyavlenie",
+      "realName": "Богоявление",
+      "country": "russia",
+      "x": "105324.6",
+      "y": "87.24609",
+      "z": "-48682.88"
+    },
+    {
+      "gameName": "dzerzhinsk",
+      "realName": "Дзержинск",
+      "country": "russia",
+      "x": "100739.5",
+      "y": "92.78125",
+      "z": "-51326"
+    },
+    {
+      "gameName": "kstovo",
+      "realName": "Кстово",
+      "country": "russia",
+      "x": "106739.6",
+      "y": "131.3594",
+      "z": "-51781.28"
+    },
+    {
+      "gameName": "lukoyanov",
+      "realName": "Лукоянов",
+      "country": "russia",
+      "x": "110532",
+      "y": "96.58203",
+      "z": "-45327.78"
+    },
+    {
+      "gameName": "nizhny",
+      "realName": "Нижний Новгород",
+      "country": "russia",
+      "x": "104109.8",
+      "y": "91.625",
+      "z": "-52904.68"
+    },
+    {
+      "gameName": "semenov",
+      "realName": "Семёнов",
+      "country": "russia",
+      "x": "104802.1",
+      "y": "87",
+      "z": "-55448.84"
+    },
+];
+
+var cities_altai = [
+    {
+        "gameName": "aleisk",
+        "realName": "aleisk",
+        "country": "russia",
+        "x": "220272",
+        "y": "42.168",
+        "z": "-110442"
+    },
+    {
+      "gameName": "barnaul",
+      "realName": "barnaul",
+      "country": "russia",
+      "x": "217189",
+      "y": "67.418",
+      "z": "-114517"
+    },
+    {
+      "gameName": "belokurikha",
+      "realName": "belokurikha",
+      "country": "russia",
+      "x": "223802",
+      "y": "101.461",
+      "z": "-111649"
+    },
+    {
+      "gameName": "berdsk",
+      "realName": "berdsk",
+      "country": "russia",
+      "x": "209003",
+      "y": "70.707",
+      "z": "-118297"
+    },
+    {
+      "gameName": "biysk",
+      "realName": "biysk",
+      "country": "russia",
+      "x": "223696",
+      "y": "132.832",
+      "z": "-116684"
+    },
+    {
+      "gameName": "bochkaria",
+      "realName": "bochkaria",
+      "country": "russia",
+      "x": "224020",
+      "y": "132.121",
+      "z": "-118853"
+    },
+    {
+      "gameName": "bucanskoe",
+      "realName": "bucanskoe",
+      "country": "russia",
+      "x": "215711",
+      "y": "44.2188",
+      "z": "-110916"
+    },
+    {
+      "gameName": "cherepanovo",
+      "realName": "cherepanovo",
+      "country": "russia",
+      "x": "211225",
+      "y": "65.6797",
+      "z": "-117824"
+    },
+    {
+      "gameName": "chilinnoe",
+      "realName": "chilinnoe",
+      "country": "russia",
+      "x": "221983",
+      "y": "132.227",
+      "z": "-119514"
+    },
+    {
+      "gameName": "gornoaltaysk",
+      "realName": "gornoaltaysk",
+      "country": "russia",
+      "x": "231492",
+      "y": "69.6445",
+      "z": "-116588"
+    },
+    {
+      "gameName": "kuibyshev",
+      "realName": "kuibyshev",
+      "country": "russia",
+      "x": "219413",
+      "y": "42.1211",
+      "z": "-102341"
+    },
+    {
+      "gameName": "kytmanovo",
+      "realName": "kytmanovo",
+      "country": "russia",
+      "x": "220024",
+      "y": "36.9453",
+      "z": "-120062"
+    },
+    {
+      "gameName": "linevo",
+      "realName": "linevo",
+      "country": "russia",
+      "x": "210727",
+      "y": "65.6797",
+      "z": "-118414"
+    },
+    {
+      "gameName": "mamontovo",
+      "realName": "mamontovo",
+      "country": "russia",
+      "x": "216186",
+      "y": "44.2188",
+      "z": "-107777"
+    },
+    {
+      "gameName": "martynovo",
+      "realName": "martynovo",
+      "country": "russia",
+      "x": "221473",
+      "y": "132.121",
+      "z": "-120969"
+    },
+    {
+      "gameName": "novoaltaysk",
+      "realName": "novoaltaysk",
+      "country": "russia",
+      "x": "217119",
+      "y": "67.5508",
+      "z": "-116469"
+    },
+    {
+      "gameName": "rubtsovsk",
+      "realName": "rubtsovsk",
+      "country": "russia",
+      "x": "221593",
+      "y": "42.2539",
+      "z": "-100699"
+    },
+    {
+      "gameName": "smolenskoye",
+      "realName": "smolenskoye",
+      "country": "russia",
+      "x": "223567",
+      "y": "125.75",
+      "z": "-114430"
+    },
+    {
+      "gameName": "talmenka",
+      "realName": "talmenka",
+      "country": "russia",
+      "x": "212565",
+      "y": "67.5508",
+      "z": "-117257"
+    },
+    {
+      "gameName": "zarinsk",
+      "realName": "zarinsk",
+      "country": "russia",
+      "x": "217215",
+      "y": "67.5508",
+      "z": "-120127"
+    }
+];
+
+var cities_arkhangelsk = [
+    {
+      "gameName": "arhangelsk",
+      "realName": "Архангельск",
+      "country": "russia",
+      "x": "78768.36",
+      "y": "50.41406",
+      "z": "-89503.66"
+    },
+    {
+      "gameName": "bereznik",
+      "realName": "Березник",
+      "country": "russia",
+      "x": "83378.11",
+      "y": "50.02734",
+      "z": "-84273.02"
+    },
+    {
+      "gameName": "cherepovets",
+      "realName": "Череповец",
+      "country": "russia",
+      "x": "81352.36",
+      "y": "66.30859",
+      "z": "-57683.59"
+    },
+    {
+      "gameName": "pogost",
+      "realName": "Погост",
+      "country": "russia",
+      "x": "85703.58",
+      "y": "50.29688",
+      "z": "-78027.78"
+    },
+    {
+      "gameName": "rostov_",
+      "realName": "Ростов",
+      "country": "russia",
+      "x": "90248.06",
+      "y": "50",
+      "z": "-50973.56"
+    },
+    {
+      "gameName": "s_posad",
+      "realName": "Сергиев Посад",
+      "country": "russia",
+      "x": "89624.05",
+      "y": "50.21875",
+      "z": "-46968.23"
+    },
+    {
+      "gameName": "severodvinsk",
+      "realName": "Северодвинск",
+      "country": "russia",
+      "x": "74797.98",
+      "y": "50.16797",
+      "z": "-87461.91"
+    },
+    {
+      "gameName": "velsk",
+      "realName": "Вельск",
+      "country": "russia",
+      "x": "87816.64",
+      "y": "50",
+      "z": "-74173.44"
+    },
+    {
+      "gameName": "vologda",
+      "realName": "Вологда",
+      "country": "russia",
+      "x": "87195.75",
+      "y": "50.19141",
+      "z": "-61433.1"
+    },
+    {
+      "gameName": "yaroslavl",
+      "realName": "Ярославль",
+      "country": "russia",
+      "x": "90258.98",
+      "y": "53.98438",
+      "z": "-54546.04"
+    },
+];
+
+var cities_m12vostok = [
+    {
+      "gameName": "kasimov",
+      "realName": "Касимов",
+      "country": "russia",
+      "x": "99603.16",
+      "y": "82.64453",
+      "z": "-41029.15"
+    },
+    {
+      "gameName": "shumerlya",
+      "realName": "Шумерля",
+      "country": "russia",
+      "x": "112828.4",
+      "y": "116.1445",
+      "z": "-49484.27"
+    },
+    {
+      "gameName": "tum",
+      "realName": "Тума",
+      "country": "russia",
+      "x": "96807.55",
+      "y": "65.37891",
+      "z": "-40280.75"
+    },
+    {
+      "gameName": "vladimir_m12",
+      "realName": "Владимир",
+      "country": "russia",
+      "x": "95146.88",
+      "y": "44.62109",
+      "z": "-45077.95"
+    },
+];
+
+var cities_central_russia = [
+    {
+      "gameName": "balabanovo",
+      "realName": "Балабаново",
+      "country": "russia",
+      "x": "85499.8",
+      "y": "66.4453",
+      "z": "-35196.2"
+    },
+    {
+      "gameName": "obninskcntrl",
+      "realName": "Обнинск",
+      "country": "russia",
+      "x": "85434.1",
+      "y": "76.2344",
+      "z": "-34413.6"
+    },
+    {
+      "gameName": "selyatino",
+      "realName": "Селятино",
+      "country": "russia",
+      "x": "85641.6",
+      "y": "59.6133",
+      "z": "-36741.6"
+    },
+    {
+      "gameName": "vorsino",
+      "realName": "Ворсино",
+      "country": "russia",
+      "x": "86048.4",
+      "y": "65.8438",
+      "z": "-35404.6"
+    },
+    {
+      "gameName": "zvenigorod",
+      "realName": "Звенигород",
+      "country": "russia",
+      "x": "85489.4",
+      "y": "57.6094",
+      "z": "-39235.2"
+    }
+];
+
+var cities_more_russia = [
+    {
+      "gameName": "kiritsy",
+      "realName": "Кирицы",
+      "country": "russia",
+      "x": "98861.55",
+      "y": "43.91406",
+      "z": "-37418.59"
+    },
+    {
+      "gameName": "krslob",
+      "realName": "Краснослободск",
+      "country": "russia",
+      "x": "106830.3",
+      "y": "57.45703",
+      "z": "-42358.85"
+    },
+    {
+      "gameName": "n_lomov",
+      "realName": "Нижний Ломов",
+      "country": "russia",
+      "x": "109894.3",
+      "y": "50",
+      "z": "-36469.02"
+    },
+    {
+      "gameName": "nikolskoye",
+      "realName": "Никольское",
+      "country": "russia",
+      "x": "106544.6",
+      "y": "54.5",
+      "z": "-38967.73"
+    },
+    {
+      "gameName": "ryazan",
+      "realName": "Рязань",
+      "country": "russia",
+      "x": "95838.21",
+      "y": "49.58984",
+      "z": "-37864.16"
+    },
+    {
+      "gameName": "shatsk_mr",
+      "realName": "Шацк",
+      "country": "russia",
+      "x": "102748",
+      "y": "47.5",
+      "z": "-36572.32"
+    },
+    {
+      "gameName": "shilovo",
+      "realName": "Шилово",
+      "country": "russia",
+      "x": "99617",
+      "y": "54.32422",
+      "z": "-37068.18"
+    },
+    {
+      "gameName": "spassk",
+      "realName": "Спасск",
+      "country": "russia",
+      "x": "107619.3",
+      "y": "50",
+      "z": "-37982.56"
+    },
+    {
+      "gameName": "torbeevo",
+      "realName": "Торбеево",
+      "country": "russia",
+      "x": "106861.4",
+      "y": "57",
+      "z": "-39887.77"
+    },
+    {
+      "gameName": "umet",
+      "realName": "Умёт",
+      "country": "russia",
+      "x": "104869.8",
+      "y": "50",
+      "z": "-38613.68"
+    },
+    {
+      "gameName": "z_polyana",
+      "realName": "Зубова Поляна",
+      "country": "russia",
+      "x": "105713.8",
+      "y": "50",
+      "z": "-38184.91"
+    },
+];
+
+var cities_russianisles = [
+    {
+      "gameName": "oshtrowrus",
+      "realName": "Oshtrow Russkyia",
+      "country": "russia",
+      "x": "108637.5",
+      "y": "49.99609",
+      "z": "-208953.7"
+    },
+];
+
+var cities_tambov = [
+    {
+      "gameName": "bokino",
+      "realName": "Бокино",
+      "country": "russia",
+      "x": "108844.7",
+      "y": "82.04297",
+      "z": "-26320.8"
+    },
+    {
+      "gameName": "kotovsk",
+      "realName": "Котовск",
+      "country": "russia",
+      "x": "110292.4",
+      "y": "84.59766",
+      "z": "-25825.74"
+    },
+    {
+      "gameName": "stroitell",
+      "realName": "Строитель",
+      "country": "russia",
+      "x": "108420",
+      "y": "82.04297",
+      "z": "-27367.56"
+    },
+    {
+      "gameName": "znamenka",
+      "realName": "Знаменка",
+      "country": "russia",
+      "x": "112039.7",
+      "y": "91.94922",
+      "z": "-24328.88"
+    },
+];
+
+var cities_otgr = [
+    {
+      "gameName": "atka",
+      "realName": "Атка",
+      "country": "russia",
+      "x": "211244.4",
+      "y": "105",
+      "z": "-320488.2"
+    },
+    {
+      "gameName": "debin",
+      "realName": "Дебин",
+      "country": "russia",
+      "x": "205165",
+      "y": "85",
+      "z": "-315592.8"
+    },
+    {
+      "gameName": "dudinka",
+      "realName": "Дудинка",
+      "country": "russia",
+      "x": "143265.4",
+      "y": "100",
+      "z": "-174617.7"
+    },
+    {
+      "gameName": "levinskie",
+      "realName": "Левинские Пески",
+      "country": "russia",
+      "x": "142069.6",
+      "y": "80",
+      "z": "-174252"
+    },
+    {
+      "gameName": "magadan",
+      "realName": "Магадан",
+      "country": "russia",
+      "x": "218752.6",
+      "y": "213.6211",
+      "z": "-320147.2"
+    },
+    {
+      "gameName": "norilsk",
+      "realName": "Норильск",
+      "country": "russia",
+      "x": "146218.9",
+      "y": "80",
+      "z": "-176928.3"
+    },
+    {
+      "gameName": "orotukan",
+      "realName": "Оротукан",
+      "country": "russia",
+      "x": "203887.2",
+      "y": "94.29297",
+      "z": "-317973.1"
+    },
+    {
+      "gameName": "palatka",
+      "realName": "Палатка",
+      "country": "russia",
+      "x": "215554.5",
+      "y": "80",
+      "z": "-319670.4"
+    },
+    {
+      "gameName": "potapovo",
+      "realName": "Потапово",
+      "country": "russia",
+      "x": "147649.2",
+      "y": "81.06641",
+      "z": "-172353.9"
+    },
+    {
+      "gameName": "snezhnogorsk",
+      "realName": "Снежногорск",
+      "country": "russia",
+      "x": "152825.4",
+      "y": "50",
+      "z": "-172539.9"
+    },
+    {
+      "gameName": "sokol",
+      "realName": "Сокол",
+      "country": "russia",
+      "x": "216783.5",
+      "y": "107.9375",
+      "z": "-319860.1"
+    },
+    {
+      "gameName": "sortavala",
+      "realName": "Сортавала",
+      "country": "russia",
+      "x": "58194.97",
+      "y": "124.4922",
+      "z": "-66991.86"
+    },
+    {
+      "gameName": "talnakh",
+      "realName": "Талнах",
+      "country": "russia",
+      "x": "146224.2",
+      "y": "70",
+      "z": "-178638.9"
+    },
+    {
+      "gameName": "yagodnoye",
+      "realName": "Ягодное",
+      "country": "russia",
+      "x": "204873",
+      "y": "107.625",
+      "z": "-312143.9"
+    },
+];
+
+var cities_trans_siberian = [
+    {
+      "gameName": "achinsk",
+      "realName": "Ачинск",
+      "country": "russia",
+      "x": "214396.9",
+      "y": "138.0156",
+      "z": "-143013"
+    },
+    {
+      "gameName": "aldan",
+      "realName": "Алдан",
+      "country": "russia",
+      "x": "233059",
+      "y": "129.8672",
+      "z": "-247555.7"
+    },
+    {
+      "gameName": "artyk",
+      "realName": "Артык",
+      "country": "russia",
+      "x": "197438.5",
+      "y": "83.08984",
+      "z": "-299054.3"
+    },
+    {
+      "gameName": "baikalsk",
+      "realName": "Байкальск",
+      "country": "russia",
+      "x": "258380.4",
+      "y": "75.0625",
+      "z": "-172234.1"
+    },
+    {
+      "gameName": "barabinsk",
+      "realName": "Барабинск",
+      "country": "russia",
+      "x": "194509.6",
+      "y": "132.0898",
+      "z": "-107665.1"
+    },
+    {
+      "gameName": "birobizhan",
+      "realName": "Биробиджан",
+      "country": "russia",
+      "x": "288821",
+      "y": "58",
+      "z": "-272647.6"
+    },
+    {
+      "gameName": "bolotnoye",
+      "realName": "Болотное",
+      "country": "russia",
+      "x": "206661.1",
+      "y": "74.0625",
+      "z": "-125286.4"
+    },
+    {
+      "gameName": "byelgorsk",
+      "realName": "Белогорск",
+      "country": "russia",
+      "x": "276347",
+      "y": "129.7539",
+      "z": "-256326.6"
+    },
+    {
+      "gameName": "chernyshevsk",
+      "realName": "Чернышевск",
+      "country": "russia",
+      "x": "265816.7",
+      "y": "58",
+      "z": "-214293.4"
+    },
+    {
+      "gameName": "chita",
+      "realName": "Чита",
+      "country": "russia",
+      "x": "264140",
+      "y": "121.8945",
+      "z": "-205094"
+    },
+    {
+      "gameName": "chulman",
+      "realName": "Чульман",
+      "country": "russia",
+      "x": "243135.4",
+      "y": "130.1719",
+      "z": "-245385.3"
+    },
+    {
+      "gameName": "churapcha",
+      "realName": "Чурапча",
+      "country": "russia",
+      "x": "214006.2",
+      "y": "130.7852",
+      "z": "-266762.7"
+    },
+    {
+      "gameName": "dalniechersk",
+      "realName": "Дальнереченск",
+      "country": "russia",
+      "x": "306526.5",
+      "y": "159.1875",
+      "z": "-275854.7"
+    },
+    {
+      "gameName": "debin",
+      "realName": "Дебин",
+      "country": "russia",
+      "x": "205165",
+      "y": "85",
+      "z": "-315592.8"
+    },
+    {
+      "gameName": "irkutsk",
+      "realName": "Иркутск",
+      "country": "russia",
+      "x": "254244.3",
+      "y": "75.03125",
+      "z": "-174325.8"
+    },
+    {
+      "gameName": "kalachinsk",
+      "realName": "Калачинск",
+      "country": "russia",
+      "x": "189989.8",
+      "y": "140.8281",
+      "z": "-99502.5"
+    },
+    {
+      "gameName": "kansk",
+      "realName": "Канск",
+      "country": "russia",
+      "x": "222785.5",
+      "y": "141.0273",
+      "z": "-157156.4"
+    },
+    {
+      "gameName": "kargat",
+      "realName": "Каргат",
+      "country": "russia",
+      "x": "200906.2",
+      "y": "86.57422",
+      "z": "-113342.9"
+    },
+    {
+      "gameName": "khabarovsk",
+      "realName": "Хабаровск",
+      "country": "russia",
+      "x": "290598.4",
+      "y": "56.44922",
+      "z": "-280873.8"
+    },
+    {
+      "gameName": "khandyga",
+      "realName": "Хандыга",
+      "country": "russia",
+      "x": "209505.4",
+      "y": "130.7852",
+      "z": "-275661.7"
+    },
+    {
+      "gameName": "khilok",
+      "realName": "Хилок",
+      "country": "russia",
+      "x": "265767.8",
+      "y": "130",
+      "z": "-193656.5"
+    },
+    {
+      "gameName": "krasnoyarsk",
+      "realName": "Красноярск",
+      "country": "russia",
+      "x": "219569.3",
+      "y": "9.53125",
+      "z": "-149157.7"
+    },
+    {
+      "gameName": "kyemerovo",
+      "realName": "Кемерово",
+      "country": "russia",
+      "x": "210973.7",
+      "y": "103.4023",
+      "z": "-128960.7"
+    },
+    {
+      "gameName": "magadachi",
+      "realName": "Магдагачи",
+      "country": "russia",
+      "x": "263127.6",
+      "y": "129.8555",
+      "z": "-248384.4"
+    },
+    {
+      "gameName": "mariinsk",
+      "realName": "Мариинск",
+      "country": "russia",
+      "x": "210328.4",
+      "y": "219.3008",
+      "z": "-135648.9"
+    },
+    {
+      "gameName": "mogocha",
+      "realName": "Могоча",
+      "country": "russia",
+      "x": "258369.3",
+      "y": "58.31641",
+      "z": "-231307.4"
+    },
+    {
+      "gameName": "mudanjiang",
+      "realName": "Муданьцзян",
+      "country": "china",
+      "x": "313385.8",
+      "y": "50.02344",
+      "z": "-259837.9"
+    },
+    {
+      "gameName": "nakhodka",
+      "realName": "Нахо́дка",
+      "country": "russia",
+      "x": "322707.1",
+      "y": "73.25",
+      "z": "-273706.5"
+    },
+    {
+      "gameName": "nizhneudinsk",
+      "realName": "Нижнеудинск",
+      "country": "russia",
+      "x": "233421",
+      "y": "129.2734",
+      "z": "-163763.1"
+    },
+    {
+      "gameName": "nizhnii",
+      "realName": "Нижний Бестях",
+      "country": "russia",
+      "x": "214771.1",
+      "y": "129.7813",
+      "z": "-261319.5"
+    },
+    {
+      "gameName": "novobruetsky",
+      "realName": "Новобурейский",
+      "country": "russia",
+      "x": "282902.7",
+      "y": "79.48047",
+      "z": "-260303.9"
+    },
+    {
+      "gameName": "novosibirsk",
+      "realName": "Новосибирск",
+      "country": "russia",
+      "x": "205928.5",
+      "y": "55.51172",
+      "z": "-118147.8"
+    },
+    {
+      "gameName": "omsk",
+      "realName": "Омск",
+      "country": "russia",
+      "x": "186725.5",
+      "y": "161.2695",
+      "z": "-95522.56"
+    },
+    {
+      "gameName": "pzabai",
+      "realName": "Петровск-Забайкальский",
+      "country": "russia",
+      "x": "264429.3",
+      "y": "130",
+      "z": "-187180.3"
+    },
+    {
+      "gameName": "shimanovsk",
+      "realName": "Шимановск",
+      "country": "russia",
+      "x": "268515.8",
+      "y": "129.7539",
+      "z": "-252198.9"
+    },
+    {
+      "gameName": "skovorodino",
+      "realName": "Сковородино",
+      "country": "russia",
+      "x": "258550",
+      "y": "98.94141",
+      "z": "-240138.1"
+    },
+    {
+      "gameName": "spask_dalnii",
+      "realName": "Спасск-Дальний",
+      "country": "russia",
+      "x": "313821.8",
+      "y": "50",
+      "z": "-273629"
+    },
+    {
+      "gameName": "tayshet",
+      "realName": "Тайшет",
+      "country": "russia",
+      "x": "227371.6",
+      "y": "133.4414",
+      "z": "-163342"
+    },
+    {
+      "gameName": "tommot",
+      "realName": "Томмот",
+      "country": "russia",
+      "x": "231155",
+      "y": "130.7852",
+      "z": "-249977.8"
+    },
+    {
+      "gameName": "tonghua",
+      "realName": "Тунхуа",
+      "country": "china",
+      "x": "327364.5",
+      "y": "54.93359",
+      "z": "-246332.5"
+    },
+    {
+      "gameName": "tynda",
+      "realName": "Тында",
+      "country": "russia",
+      "x": "252632.7",
+      "y": "129.8672",
+      "z": "-244151.4"
+    },
+    {
+      "gameName": "tyukalinsk",
+      "realName": "Тюкалинск",
+      "country": "russia",
+      "x": "179782.8",
+      "y": "163.5859",
+      "z": "-95046.19"
+    },
+    {
+      "gameName": "ulanude",
+      "realName": "Улан-Удэ",
+      "country": "russia",
+      "x": "260190.8",
+      "y": "73.92578",
+      "z": "-184257.9"
+    },
+    {
+      "gameName": "ulu",
+      "realName": "Улу",
+      "country": "russia",
+      "x": "223121",
+      "y": "130",
+      "z": "-254246.3"
+    },
+    {
+      "gameName": "ulyoty",
+      "realName": "Улеты",
+      "country": "russia",
+      "x": "267551.7",
+      "y": "130",
+      "z": "-200589.9"
+    },
+    {
+      "gameName": "ussuriysk",
+      "realName": "Уссури́йск",
+      "country": "russia",
+      "x": "316683.5",
+      "y": "50",
+      "z": "-271637.5"
+    },
+    {
+      "gameName": "ustn",
+      "realName": "Усть-Нера",
+      "country": "russia",
+      "x": "196049.1",
+      "y": "130.7852",
+      "z": "-293363.9"
+    },
+    {
+      "gameName": "vladyvostok",
+      "realName": "Владивосток",
+      "country": "russia",
+      "x": "320830.6",
+      "y": "47.36328",
+      "z": "-269393.8"
+    },
+    {
+      "gameName": "yagodnoye",
+      "realName": "Ягодное",
+      "country": "russia",
+      "x": "204873",
+      "y": "107.625",
+      "z": "-312143.9"
+    },
+    {
+      "gameName": "zima",
+      "realName": "Зима",
+      "country": "russia",
+      "x": "242509",
+      "y": "137.8047",
+      "z": "-170989.7"
+    },
+];
 
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
@@ -12699,3 +14811,16 @@ cities = cities.concat(cities_roextended_turkey); //RoExtended Turkey (v2.8)
 //cities = cities.concat(cities_yks_turkey); //YKS Turkey
 //cities = cities.concat(cities_yksrsk); //YKSRSK
 //cities = cities.concat(cities_romania_extended); //Romania Extended
+cities = cities.concat(cities_sibir) // SibirMap
+cities = cities.concat(cities_volga); // Volga Map
+cities = cities.concat(cities_kirov) // Kirov Map Free
+cities = cities.concat(cities_nnmap) // NNMap
+cities = cities.concat(cities_altai); // Altai Map
+cities = cities.concat(cities_arkhangelsk) // Road to Arkhangelsk
+cities = cities.concat(cities_m12vostok) // M12 Vostok
+cities = cities.concat(cities_central_russia); // Project Central Russia
+cities = cities.concat(cities_more_russia); // More Russia Map
+cities = cities.concat(cities_russianisles) // Russian Isles
+cities = cities.concat(cities_tambov) // Tambov Map
+cities = cities.concat(cities_otgr) // Off The Grid Map
+cities = cities.concat(cities_trans_siberian) // Trans-Siberian Truckway
