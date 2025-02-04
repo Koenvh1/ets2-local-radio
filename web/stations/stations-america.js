@@ -25959,8 +25959,8 @@ var stations = {/*
             url: "https://live.amperwave.net/direct/townsquare-ktemamaac-ibc3"
         },
         {
-            name: "Magic 94.5",
-            logo: "stations/images-america/waco/Magic 94.5.png",
+            name: "94.5 KWBT-FM",
+            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
             url: "https://streaming.radio.co/sf618db2dc/listen"
         },
         {
@@ -31737,12 +31737,7 @@ var stations = {/*
             name: "103.5 The Beat",
             logo: "stations/images-america/c2c/miami_fl/103.5 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc581/hls.m3u8"
-        },/*
-        {
-            name: "DaNu Radio 103.5-HD2",
-            logo: "stations/images-america/0_general_logos/DaNu Radio.png",
-            url: "http://173.68.130.170:8040/stream"
-        },*/
+        },
         {
             name: "104.3 The Shark",
             logo: "stations/images-america/c2c/miami_fl/104.3 The Shark.png",
