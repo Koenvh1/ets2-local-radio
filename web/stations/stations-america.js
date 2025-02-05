@@ -25373,6 +25373,11 @@ var stations = {/*
             url: "https://emg.streamguys1.com/well-website"
         },
         {
+            name: "95.1 Great FM",
+            logo: "stations/images-america/tyler/95.1 Great FM.png",
+            url: "https://stream.aiir.com/hiv6e1wfrslvv"
+        },
+        {
             name: "KDOK 95.7",
             logo: "stations/images-america/tyler/KDOK 95.7.png",
             url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/streaming.live365.com/a92942"
