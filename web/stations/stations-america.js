@@ -19326,16 +19326,16 @@ var stations = {/*
             name: "95.5 The Vibe",
             logo: "stations/images-america/reno/95.5 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
-        },
+        },/*
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice9.securenetsystems.net/KLCA"
-        },
+            url: "http://204.93.186.205/index.php?u=https://ice9.securenetsystems.net/KLCA"
+        },*/
         {
             name: "Ten Country 97.3",
             logo: "stations/images-america/reno/Ten Country 97.3.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice10.securenetsystems.net/KOLC"
+            url: "http://204.93.186.205/index.php?u=https://ice10.securenetsystems.net/KOLC"
         },
         {
             name: "KWNK 97.7",
@@ -19363,8 +19363,8 @@ var stations = {/*
             url: "http://ice42.securenetsystems.net/KRFN"
         },
         {
-            name: "Biggest Little Radio 101.3",
-            logo: "stations/images-america/reno/Biggest Little Radio 101.3.png",
+            name: "101.3 KRNG",
+            logo: "stations/images-america/reno/101.3 KRNG.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC012_SC"
         },
         {
@@ -19390,7 +19390,7 @@ var stations = {/*
         {
             name: "Swag 104.9",
             logo: "stations/images-america/reno/Swag 104.9.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice9.securenetsystems.net/KLCAHD3"
+            url: "http://204.93.186.205/index.php?u=https://ice9.securenetsystems.net/KLCAHD3"
         },
         {
             name: "Jammin' 105.3",
@@ -19405,7 +19405,7 @@ var stations = {/*
         {
             name: "Sunny 106.9",
             logo: "stations/images-america/reno/Sunny 106.9.png",
-            url: "http://shoshin.freeshell.org/nph-proxy.cgi/010110A/http/ice10.securenetsystems.net/KRNO"
+            url: "http://204.93.186.205/index.php?u=https://ice10.securenetsystems.net/KRNO"
         },
         {
             name: "La Mejor 107.3",
