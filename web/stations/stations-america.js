@@ -2311,11 +2311,6 @@ var stations = {/*
             url: "https://tektite.streamguys1.com:5025/klcc.mp3"
         },
         {
-            name: "PRX Remix 88.1-HD2",
-            logo: "stations/images-america/0_general_logos/PRX Remix.png",
-            url: "http://backbonenetworks.streamguys.com/remixxm.mp3"
-        },
-        {
             name: "KPOV 88.9",
             logo: "stations/images-america/bend/KPOV 88.9.png",
             url: "https://kpov-ice.streamguys1.com/live"
@@ -2324,6 +2319,16 @@ var stations = {/*
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "CSN Radio 89.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Effect Radio 89.9-HD2",
+            logo: "stations/images-america/0_general_logos/Effect Radio.png",
+            url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
             name: "K-LOVE 90.5",
@@ -2339,6 +2344,16 @@ var stations = {/*
             name: "OPB 91.3",
             logo: "stations/images-america/0_general_logos/OPB.png",
             url: "https://ais-sa3.cdnstream1.com/2440_128.aac"
+        },
+        {
+            name: "91.3 KOAB-HD2",
+            logo: "stations/images-america/portland/KMHD 89.1.png",
+            url: "https://ais-sa3.cdnstream1.com/2442_128.aac"
+        },
+        {
+            name: "KWSO 91.9",
+            logo: "stations/images-america/bend/KWSO 91.9.png",
+            url: "https://terrasrvcs.alpine.io/kwso"
         },
         {
             name: "92.5 The Ticket",
@@ -2364,6 +2379,11 @@ var stations = {/*
             name: "95.7 The Ranch",
             logo: "stations/images-america/bend/95.7 The Ranch.png",
             url: "https://live.amperwave.net/direct/horizonbroadcasting-kltwfmaac-ibc1"
+        },
+        {
+            name: "New Life Radio 97.5",
+            logo: "stations/images-america/burns/New Life Radio 97.5.png",
+            url: "https://streaming.live365.com/a50291"
         },
         {
             name: "98.3 The Twins",
@@ -2402,8 +2422,8 @@ var stations = {/*
         },
         {
             name: "104.5 KBNW",
-            logo: "stations/images-america/bend/104.5 KBNW.png",
-            url: "https://live.amperwave.net/manifest/horizonbroadcasting-kbnwamaac-ibc1"
+            logo: "stations/images-america/bend/KBNW.png",
+            url: "http://live.amperwave.net/manifest/horizonbroadcasting-kbnwamaac-ibc1"
         },
         {
             name: "KQAK 105.7",
@@ -2416,9 +2436,14 @@ var stations = {/*
             url: "https://ice5.securenetsystems.net/KWXS"
         },
         {
-            name: "KRCO 690",
+            name: "The Ticket 690",
             logo: "stations/images-america/bend/92.5 The Ticket.png",
             url: "https://live.amperwave.net/direct/horizonbroadcasting-krcoamaac-ibc1"
+        },
+        {
+            name: "1340 KBNW",
+            logo: "stations/images-america/bend/KBNW.png",
+            url: "https://live.amperwave.net/manifest/horizonbroadcasting-kbnwamaac-ibc1"
         },
     ],
     "beatrice": [
@@ -32823,6 +32848,11 @@ var stations = {/*
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUFMAAC_SC"
         },
         {
+            name: "92.9 W225CQ",
+            logo: "stations/images-america/c2c/tampa_fl/1150 WTMP.png",
+            url: "http://live.amperwave.net/direct/espn-network-48"
+        },
+        {
             name: "93.3 FLZ",
             logo: "stations/images-america/c2c/tampa_fl/93.3 FLZ.png",
             url: "https://stream.revma.ihrhls.com/zc681/hls.m3u8"
@@ -32995,7 +33025,7 @@ var stations = {/*
         {
             name: "1150 WTMP",
             logo: "stations/images-america/c2c/tampa_fl/1150 WTMP.png",
-            url: "https://nia.tv:8443/WTMP-AM"
+            url: "https://live.amperwave.net/direct/espn-network-48"
         },
         {
             name: "1250 WHNZ",
