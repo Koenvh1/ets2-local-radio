@@ -16092,6 +16092,11 @@ var stations = {/*
             url: "https://www.ophanim.net:8444/s/7180"
         },
         {
+            name: "97.1 Canyon Country",
+            logo: "stations/images-america/moab/97.1 Canyon Country.png",
+            url: "http://edge.mixlr.com/channel/vlpef"
+        },
+        {
             name: "Classy 99.1",
             logo: "stations/images-america/salina_ut/Classy 102.7.png",
             url: "https://ice10.securenetsystems.net/KMGR"
