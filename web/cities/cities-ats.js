@@ -207,7 +207,7 @@ var country_properties = {
         name: "Bluff",
         name_english: "Bluff",
         code: "us-ut",
-        relative_radius: 0.5
+        relative_radius: 0.4
     },
     "boise": {
         name: "Boise",
@@ -1265,6 +1265,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
+    "moab_local": {
+        name: "Moab",
+        name_english: "Moab",
+        code: "us-ut",
+        relative_radius: 0.8
+    },
     "modesto": {
         name: "Modesto",
         name_english: "Modesto",
@@ -1282,6 +1288,12 @@ var country_properties = {
         name_english: "Monterey",
         code: "us-ca",
         relative_radius: 0.6
+    },
+    "monticello": {
+        name: "Monticello",
+        name_english: "Monticello",
+        code: "us-ut",
+        relative_radius: 0.4
     },
     "montpelier": {
         name: "Montpelier",
@@ -1792,6 +1804,12 @@ var country_properties = {
         name_english: "Socorro",
         code: "us-nm",
         relative_radius: 0.8
+    },
+    "south_utah": {
+        name: "South Utah",
+        name_english: "South Utah",
+        code: "us-ut",
+        relative_radius: 0.4
     },
     "spokane": {
         name: "Spokane",
@@ -2749,7 +2767,11 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "moab": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
+    },
+    "moab_local": {
+		relative_radius: 0.4,
+        relative_whitenoise: 0.95
     },
     "modesto": {
         relative_whitenoise: 0.95
@@ -2989,6 +3011,9 @@ var city_properties = {
     "monterey": {
         relative_whitenoise: 0.95
     },
+    "monticello": {
+        relative_whitenoise: 0.95
+    },
     "santa_fe": {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
@@ -3039,6 +3064,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "socorro": {
+        relative_whitenoise: 0.95
+    },
+    "south_utah": {
         relative_whitenoise: 0.95
     },
     "spokane": {
@@ -3514,6 +3542,14 @@ var cities = [
         "gameName": "bluff",
         "realName": "Bluff",
         "country": "bluff",
+        "x": "-60436.4",
+        "y": "87.1164",
+        "z": "4884.14"
+    },
+    {
+        "gameName": "bluff",
+        "realName": "Bluff",
+        "country": "south_utah",
         "x": "-60436.4",
         "y": "87.1164",
         "z": "4884.14"
@@ -5127,6 +5163,22 @@ var cities = [
         "z": "-1841.51"
     },
     {
+        "gameName": "moab_local",
+        "realName": "Moab",
+        "country": "moab_local",
+        "x": "-59408.7",
+        "y": "172.866",
+        "z": "-1841.51"
+    },
+    {
+        "gameName": "moab_local",
+        "realName": "Moab",
+        "country": "moab",
+        "x": "-59408.7",
+        "y": "172.866",
+        "z": "-1841.51"
+    },
+    {
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "modesto",
@@ -5157,6 +5209,22 @@ var cities = [
         "x": "-115647",
         "y": "46.7752",
         "z": "-1109.71"
+    },
+    {
+        "gameName": "monticello",
+        "realName": "Monticello",
+        "country": "monticello",
+        "x": "-58701.8",
+        "y": "128.301",
+        "z": "1743"
+    },
+    {
+        "gameName": "monticello",
+        "realName": "Monticello",
+        "country": "south_utah",
+        "x": "-58701.8",
+        "y": "128.301",
+        "z": "1743"
     },
     {
         "gameName": "montpelier",
@@ -5901,6 +5969,14 @@ var cities = [
         "x": "-52010.1",
         "y": "105.216",
         "z": "25677.1"
+    },
+    {
+        "gameName": "south_utah",
+        "realName": "South Utah",
+        "country": "south_utah",
+        "x": "-58701.8",
+        "y": "128.301",
+        "z": "1743"
     },
     {
         "gameName": "spokane",
