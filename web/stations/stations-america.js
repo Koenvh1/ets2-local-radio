@@ -16525,7 +16525,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
         },
         {
-            name: "KDFC 103.9",
+            name: "103.9 KDFG",
             logo: "stations/images-america/san_francisco/KDFC 90.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC_SC"
         },
@@ -17915,25 +17915,15 @@ var stations = {/*
             url: "https://s5.radioforge.com:6874/kxaz240120"
         },
         {
-            name: "97.9 K251BC",
-            logo: "stations/images-america/bluff/Red Rock 92.png",
-            url: "https://ice8.securenetsystems.net/KBDX"
-        },
-        {
             name: "KiX 98.3",
             logo: "stations/images-america/page/KiX 98.3.png",
             url: "https://s5.radioforge.com:6874/kpge240120"
         },
         {
-            name: "KNAU 102.7",
+            name: "102.7 K274AY",
             logo: "stations/images-america/0_general_logos/KNAU.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPUBFM_128_SC"
-        },/*
-        {
-            name: "Red Rock 103.5",
-            logo: "stations/images-america/page/Red Rock 103.5.png",
-            url: "http://142.44.136.201:5152/stream"
-        },*/
+        },
         {
             name: "KSUB 590",
             logo: "stations/images-america/st_george/KSUB 590.png",
@@ -17943,6 +17933,11 @@ var stations = {/*
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
+        },
+        {
+            name: "1340 KPGE",
+            logo: "stations/images-america/page/KiX 98.3.png",
+            url: "http://s5.radioforge.com:6874/kpge240120"
         },
     ],
     "palacios": [
@@ -21641,6 +21636,11 @@ var stations = {/*
         },
     ],
     "santa_rosa_ca": [
+        {
+            name: "89.9 KOSC",
+            logo: "stations/images-america/san_francisco/KDFC 90.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC_SC"
+        },
         {
             name: "KQED 88.3",
             logo: "stations/images-america/0_general_logos/KQED.png",
@@ -25631,7 +25631,7 @@ var stations = {/*
             url: "http://kzyx.mcn.org:4000/kzyxlive"
         },
         {
-            name: "KDFC 92.5",
+            name: "92.5 K223AJ",
             logo: "stations/images-america/san_francisco/KDFC 90.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC_SC"
         },
