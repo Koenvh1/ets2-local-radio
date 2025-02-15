@@ -990,6 +990,11 @@ var stations = {/*
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct//alphacorporate-kgncamaac-ibc4"
         },
         {
+            name: "KPAN 860",
+            logo: "stations/images-america/amarillo/KPAN.png",
+            url: "https://streaming.live365.com/a39395"
+        },
+        {
             name: "KFLP 900",
             logo: "stations/images-america/lubbock/KFLP 900.png",
             url: "http://107.182.234.197:7308/stream"
@@ -4152,6 +4157,11 @@ var stations = {/*
     ],
     "clovis": [
         {
+            name: "BBN 88.1",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "http://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
             name: "Family Life Radio 88.9",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "https://icecast.streammyflr.org/FLRstream"
@@ -4172,6 +4182,11 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "90.7 KNKT",
+            logo: "stations/images-america/las_cruces/88.3 The Light.png",
+            url: "https://s5.radio.co/s914ba6b9a/listen"
+        },
+        {
             name: "afr Hybrid 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
             url: "https://mediaserver3.afa.net/inspo.mp3"
@@ -4187,9 +4202,24 @@ var stations = {/*
             url: "https://sh.fl-us.audio-stream.com/proxy/jturva05?mp=/live"
         },
         {
+            name: "Rewind 93.3",
+            logo: "stations/images-america/clovis/Rewind 93.3.png",
+            url: "https://stream.rcast.net/70249"
+        },
+        {
+            name: "3ABN 93.9",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
             name: "99.1 KCLV",
             logo: "stations/images-america/clovis/99.1 KCLV.png",
             url: "https://streaming.live365.com/a40618"
+        },
+        {
+            name: "KTQM 99.9",
+            logo: "stations/images-america/clovis/99.1 KCLV.png",
+            url: "https://streaming.live365.com/a12225"
         },
         {
             name: "BIG 101.5",
@@ -4197,9 +4227,9 @@ var stations = {/*
             url: "https://streaming.live365.com/a32900"
         },
         {
-            name: "104.7 The Bull",
-            logo: "stations/images-america/clovis/104.7 The Bull.png",
-            url: "http://server.hostbilly.com:8190/kixv"
+            name: "104.7 K284DA",
+            logo: "stations/images-america/clovis/Rewind 93.3.png",
+            url: "http://stream.rcast.net/70249"
         },
         {
             name: "KSEL Country 105.9",
@@ -4217,14 +4247,24 @@ var stations = {/*
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
-            name: "AM1450 Cow Country",
-            logo: "stations/images-america/clovis/AM1450 Cow Country.png",
-            url: "https://streaming.live365.com/a57891"
+            name: "790 KFYO",
+            logo: "stations/images-america/lubbock/95.1 KFYO.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kfyoamaac-ibc3"
+        },
+        {
+            name: "KPAN 860",
+            logo: "stations/images-america/amarillo/KPAN.png",
+            url: "https://streaming.live365.com/a39395"
         },
         {
             name: "KIJN 1060",
             logo: "stations/images-america/clovis/KIJN 1060.png",
             url: "https://aguila1.netkairos.com:8030/;stream"
+        },
+        {
+            name: "AM1450 Cow Country",
+            logo: "stations/images-america/clovis/AM1450 Cow Country.png",
+            url: "https://streaming.live365.com/a57891"
         },
     ],
     "cody": [
