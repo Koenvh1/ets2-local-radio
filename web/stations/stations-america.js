@@ -4218,7 +4218,7 @@ var stations = {/*
         },
         {
             name: "KTQM 99.9",
-            logo: "stations/images-america/clovis/99.1 KCLV.png",
+            logo: "stations/images-america/clovis/KTQM 99.9.png",
             url: "https://streaming.live365.com/a12225"
         },
         {
