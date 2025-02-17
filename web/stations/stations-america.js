@@ -9800,8 +9800,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/THE_BEATAAC_SC"
         },
         {
-            name: "94 KIX Country",
-            logo: "stations/images-america/grand_junction_montrose/94 KIX Country.png",
+            name: "94.1 KIX Country",
+            logo: "stations/images-america/grand_junction_montrose/94.1 KIX Country.png",
             url: "https://live.amperwave.net/manifest/townsquare-kkxkfmaac-ibc3"
         },
         {
@@ -16020,8 +16020,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kgrzamaac-ibc3"
         },
         {
-            name: "93.3 Eagle Country",
-            logo: "stations/images-america/missoula/93.3 Eagle Country.png",
+            name: "Eagle 93.3",
+            logo: "stations/images-america/missoula/Eagle 93.3.png",
             url: "https://live.amperwave.net/manifest/townsquare-kgglfmaac-ibc3"
         },
         {
@@ -26130,9 +26130,9 @@ var stations = {/*
             url: "https://live.amperwave.net/direct/townsquare-ktemamaac-ibc3"
         },
         {
-            name: "94.5 KWBT-FM",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "https://streaming.radio.co/sf618db2dc/listen"
+            name: "La Grande 94.5",
+            logo: "stations/images-america/waco/La Grande 94.5.png",
+            url: "https://streaming.radio.co/s11cf97f50/listen"
         },
         {
             name: "BIG 95",
@@ -26670,7 +26670,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMEFMAAC_SC"
         },
         {
-            name: "96.3 K242DG",
+            name: "NewsTalk 96.3",
             logo: "stations/images-america/wichita_falls/NewsTalk 1290.png",
             url: "http://live.amperwave.net/manifest/townsquare-kwfsamaac-ibc3"
         },/*
@@ -53111,6 +53111,11 @@ var stations = {/*
             name: "COW97",
             logo: "stations/images-america/c2c/la_crosse_wi/COW97.png",
             url: "http://64.78.234.165:8000/WCOW"
+        },
+        {
+            name: "100.5 The Hawk",
+            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDHKFMAAC_SC"
         },
         {
             name: "101.1 The River",

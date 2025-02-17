@@ -3265,7 +3265,7 @@ var stations = {/*
         {
             name: "R.SH",
             logo: "stations/images-europe/germany-sh/R.SH.png",
-            url: "https://rsh.streamabc.net/regc-rshlive5331785-mp3-192-8119086"
+            url: "https://rsh.streamabc.net/regc-rshlive-mp3-192-6238539"
         },
         {
             name: "Ostseewelle",
