@@ -36171,6 +36171,11 @@ var stations = {/*
             url: "https://ssl-proxy.icastcenter.com/get.php?type=Icecast&server=199.180.72.2&port=9007&mount=/stream&data=mp3"
         },
         {
+            name: "106.1 W291DK",
+            logo: "stations/images-america/c2c/south_bend_in/96.1 WSBT.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WSBTAMAAC.aac"
+        },
+        {
             name: "VCY America 106.3",
             logo: "stations/images-america/0_general_logos/VCY America.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
@@ -39063,6 +39068,11 @@ var stations = {/*
             url: "http://tektite.streamguys1.com:5040/live"
         },
         {
+            name: "Máxima 94.3",
+            logo: "stations/images-america/c2c/baltimore_md/Máxima 94.3.png",
+            url: "https://s4.radio.co/sf6542030c/listen"
+        },
+        {
             name: "Magic 95.9",
             logo: "stations/images-america/c2c/baltimore_md/Magic 95.9.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWINFMAAC_SC"
@@ -39141,6 +39151,11 @@ var stations = {/*
             name: "WOLB Talk 1010",
             logo: "stations/images-america/c2c/baltimore_md/WOLB Talk 1010.png",
             url: "http://204.93.186.205/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WOLBAMAAC_SC"
+        },
+        {
+            name: "1230 WFOA",
+            logo: "stations/images-america/c2c/baltimore_md/Máxima 94.3.png",
+            url: "http://s4.radio.co/sf6542030c/listen"
         },
         {
             name: "The Bet 1300",
@@ -47168,6 +47183,16 @@ var stations = {/*
             url: "http://live.str3am.com:2520/live"
         },
         {
+            name: "Jazzy 88.9",
+            logo: "stations/images-america/c2c/dayton_oh/Jazzy 88.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCSUFM_SC"
+        },
+        {
+            name: "On Our Own Radio 88.9-HD2",
+            logo: "stations/images-america/c2c/dayton_oh/On Our Own Radio 88.9-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCSU_HD2_SC"
+        },
+        {
             name: "WDPS 89.5",
             logo: "stations/images-america/c2c/dayton_oh/WDPS 89.5.png",
             url: "http://backbonenetworks.streamguys.com/dayton.mp3"
@@ -47183,6 +47208,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYSOFM_SC"
         },
         {
+            name: "Novaphonic.FM 91.3-HD2",
+            logo: "stations/images-america/c2c/dayton_oh/Novaphonic.FM 91.3-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYSOHD2_SC"
+        },
+        {
             name: "92.1 WROU",
             logo: "stations/images-america/c2c/dayton_oh/92.1 WROU.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-wroufmaac-ibc4"
@@ -47191,6 +47221,16 @@ var stations = {/*
             name: "92.9 Jack FM",
             logo: "stations/images-america/c2c/dayton_oh/92.9 Jack FM.png",
             url: "http://204.93.186.205/index.php?u=http://live.amperwave.net/direct/alphacorporate-wgtzfmaac-ibc4"
+        },
+        {
+            name: "93.7 The Light",
+            logo: "stations/images-america/c2c/dayton_oh/93.7 The Light.png",
+            url: "https://ice8.securenetsystems.net/WFCJ"
+        },
+        {
+            name: "The Word in Praise 93.7-HD2",
+            logo: "stations/images-america/c2c/dayton_oh/The Word in Praise 93.7-HD2.png",
+            url: "https://ice7.securenetsystems.net/WFCJHD2"
         },
         {
             name: "FM 94.5",
@@ -47238,9 +47278,29 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1769/hls.m3u8"
         },
         {
-            name: "Smooth Jazz 99.9-HD2",
-            logo: "stations/images-america/0_general_logos/Smooth Jazz.png",
-            url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
+            name: "99.9 WCHD-HD2",
+            logo: "stations/images-america/c2c/dayton_oh/BIN 1340.png",
+            url: "http://stream.revma.ihrhls.com/zc5114/hls.m3u8"
+        },
+        {
+            name: "Hope 100.7",
+            logo: "stations/images-america/c2c/dayton_oh/Hope 100.7.png",
+            url: "https://ice3.securenetsystems.net/WEECHD1"
+        },
+        {
+            name: "The Rock 100.7-HD2",
+            logo: "stations/images-america/c2c/dayton_oh/The Rock 100.7-HD2.png",
+            url: "https://ice7.securenetsystems.net/WEECHD2"
+        },
+        {
+            name: "Peace in the Valley 100.7-HD3",
+            logo: "stations/images-america/c2c/dayton_oh/Peace in the Valley 100.7-HD3.png",
+            url: "https://ice6.securenetsystems.net/WEECHD3"
+        },
+        {
+            name: "Christian Teaching 100.7-HD4",
+            logo: "stations/images-america/c2c/dayton_oh/Christian Teaching 100.7-HD4.png",
+            url: "https://ice23.securenetsystems.net/WEECHD4"
         },
         {
             name: "101.5 HANK FM",
@@ -47278,6 +47338,16 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1785/hls.m3u8"
         },
         {
+            name: "104.7 WTUE-HD2",
+            logo: "stations/images-america/c2c/dayton_oh/Fox Sports 980.png",
+            url: "http://stream.revma.ihrhls.com/zc4950/hls.m3u8"
+        },
+        {
+            name: "Pride Radio 104.7-HD3",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
             name: "Relevant Radio 105.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
@@ -47291,11 +47361,6 @@ var stations = {/*
             name: "MIX 107.7",
             logo: "stations/images-america/c2c/dayton_oh/MIX 107.7.png",
             url: "https://stream.revma.ihrhls.com/zc1781/hls.m3u8"
-        },
-        {
-            name: "Classic American Top 40 107.7-HD2",
-            logo: "stations/images-america/c2c/dayton_oh/Classic American Top 40 107.7-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc6545/hls.m3u8"
         },
         {
             name: "700 WLW",
