@@ -8101,7 +8101,7 @@ var stations = {/*
     "tajikistan": [
         {
             name: "Радиои Тоҷикистон",
-            logo: "stations/images-europe/tajiikistan/Радиои Тоҷикистон.png",
+            logo: "stations/images-europe/tajikistan/Радиои Тоҷикистон.png",
             url: "http://185.121.1.27:8000/tojikiston"
         },
         {
@@ -8116,7 +8116,7 @@ var stations = {/*
         },
         {
             name: "Радиои Овози тоҷик",
-            logo: "stations/images-europe/tajiikistan/Радиои Овози тоҷик.png",
+            logo: "stations/images-europe/tajikistan/Радиои Овози тоҷик.png",
             url: "http://185.121.1.27:8000/otojik"
         },
         {
