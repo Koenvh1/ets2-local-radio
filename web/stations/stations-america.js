@@ -49735,8 +49735,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2073/hls.m3u8"
         },
         {
-            name: "98.5 WOMG",
-            logo: "stations/images-america/c2c/columbia_sc/98.5 WOMG.png",
+            name: "98.5 OMG!",
+            logo: "stations/images-america/c2c/columbia_sc/98.5 OMG!.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOMGFMAAC_SC"
         },
         {

@@ -315,7 +315,7 @@ var stations = {/*
         {
             name: "Antenne HIT",
             logo: "stations/images-europe/austria/Antenne HIT.png",
-            url: "https://onair.securestream.antennehit.at/anthit"
+            url: "https://frontend.streamonkey.net/antennehit-live"
         },
         {
             name: "Antenne Österreich",
