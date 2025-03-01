@@ -3742,8 +3742,8 @@ var stations = {/*
         },
         {
             name: "K2 Radio 95.1",
-            logo: "stations/images-america/casper/K2 Radio 1030.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
+            logo: "stations/images-america/casper/K2 Radio.png",
+            url: "http://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
         },
         {
             name: "My Country 95.5",
@@ -3784,6 +3784,11 @@ var stations = {/*
             name: "KUYO AM 830",
             logo: "stations/images-america/casper/KUYO AM 830.png",
             url: "https://ais-sa1.streamon.fm/7061_24k.aac"
+        },
+        {
+            name: "K2 Radio 1030",
+            logo: "stations/images-america/casper/K2 Radio.png",
+            url: "http://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
         },
         {
             name: "AM 1400 The Cowboy",
@@ -11638,14 +11643,59 @@ var stations = {/*
     ],
     "jonesboro": [
         {
+            name: "afr Talk 88.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
+        },
+        {
+            name: "Radio 74 89.7",
+            logo: "stations/images-america/0_general_logos/Radio 74.png",
+            url: "http://radio74.dyndns.org:8080/radio74stlint.mp3"
+        },
+        {
+            name: "Bott Radio 90.1",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "afr Hybrid 90.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "CSN Radio 91.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "91.9 KASU",
             logo: "stations/images-america/jonesboro/91.9 KASU.png",
             url: "https://kasu.streamguys1.com/live"
         },
         {
+            name: "EZ 92.7",
+            logo: "stations/images-america/jonesboro/EZ 92.7.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-kdxyhd3aac-imc"
+        },
+        {
+            name: "93 KZLE",
+            logo: "stations/images-america/jonesboro/93 KZLE.png",
+            url: "https://us2.maindigitalstream.com/ssl/KZLE"
+        },
+        {
+            name: "Air1 93.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
             name: "94.1 BOB FM",
             logo: "stations/images-america/jonesboro/94.1 BOB FM.png",
             url: "http://hemnos.cdnstream.com/1414_64"
+        },
+        {
+            name: "K-LOVE 2000s 94.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
         },
         {
             name: "95.3 The Ticket",
@@ -11658,6 +11708,21 @@ var stations = {/*
             url: "http://thassos.cdnstream.com:5241/stream"
         },
         {
+            name: "96.9 The Ticket",
+            logo: "stations/images-america/jonesboro/95.3 The Ticket.png",
+            url: "http:///hemnos.cdnstream.com/1417_64"
+        },
+        {
+            name: "K-LOVE 97.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "98.5 The Outlaw",
+            logo: "stations/images-america/jonesboro/98.5 The Outlaw.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-kjbxhd2aac-imc"
+        },
+        {
             name: "Jill @ 99.3",
             logo: "stations/images-america/jonesboro/Jill @ 99.3.png",
             url: "https://ice23.securenetsystems.net/KTPG"
@@ -11668,14 +11733,24 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kegifmaac-ibc2"
         },
         {
-            name: "101.3 KBTM",
-            logo: "stations/images-america/jonesboro/101.3 KBTM.png",
-            url: "https://ais-sa2.cdnstream1.com/1580_64"
-        },
-        {
             name: "101.7 KISS FM",
             logo: "stations/images-america/jonesboro/101.7 KISS FM.png",
             url: "https://ais-sa8.cdnstream1.com/1415_64"
+        },
+        {
+            name: "101.7 KIYS-HD2",
+            logo: "stations/images-america/jonesboro/94.1 BOB FM.png",
+            url: "https://hemnos.cdnstream.com/1414_64"
+        },
+        {
+            name: "101.7 KIYS-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "102.1 KBTM",
+            logo: "stations/images-america/jonesboro/KBTM.png",
+            url: "https://ais-sa2.cdnstream1.com/1580_64"
         },
         {
             name: "KFLO-LP 102.9",
@@ -11685,12 +11760,27 @@ var stations = {/*
         {
             name: "104.9 The Fox",
             logo: "stations/images-america/jonesboro/104.9 The Fox.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kdxyfmaac-ibc2"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kdxyfmaac-ibc2"
+        },
+        {
+            name: "104.9 KDXY-HD2",
+            logo: "stations/images-america/jonesboro/HOT 107.5.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
+        },
+        {
+            name: "104.9 KDXY-HD3",
+            logo: "stations/images-america/jonesboro/EZ 92.7.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/saga-kdxyhd3aac-imc"
         },
         {
             name: "Mix 106.3",
             logo: "stations/images-america/jonesboro/Mix 106.3.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kjbxfmaac-ibc2"
+        },
+        {
+            name: "106.3 KJBX-HD2",
+            logo: "stations/images-america/jonesboro/98.5 The Outlaw.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/saga-kjbxhd2aac-imc"
         },
         {
             name: "107.1 Jack FM",
@@ -11700,12 +11790,27 @@ var stations = {/*
         {
             name: "HOT 107.5",
             logo: "stations/images-america/jonesboro/HOT 107.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
         },
         {
             name: "107.9 KFIN",
             logo: "stations/images-america/jonesboro/107.9 KFIN.png",
             url: "https://ais-sa8.cdnstream1.com/1416_64"
+        },
+        {
+            name: "970 The Ticket",
+            logo: "stations/images-america/jonesboro/95.3 The Ticket.png",
+            url: "https://hemnos.cdnstream.com/1417_64"
+        },
+        {
+            name: "1230 KBTM",
+            logo: "stations/images-america/jonesboro/KBTM.png",
+            url: "http://ais-sa2.cdnstream1.com/1580_64"
+        },
+        {
+            name: "1490 KDRS",
+            logo: "stations/images-america/jonesboro/iROCK 103.7.png",
+            url: "https://ice23.securenetsystems.net/KDRSAM"
         },
     ],
     "junction_city": [
@@ -13645,17 +13750,17 @@ var stations = {/*
         {
             name: "News Talk 102.1",
             logo: "stations/images-america/lewiston/News Talk 102.1.png",
-            url: "http://107.182.234.197:7801/stream"
+            url: "http://64.131.95.13:7801/stream"
         },
         {
             name: "New Country 104.3",
             logo: "stations/images-america/lewiston/New Country 104.3.png",
-            url: "http://107.182.234.197:7803/stream"
+            url: "http://64.131.95.13:7803/stream"
         },
         {
             name: "HITS 104.7",
             logo: "stations/images-america/lewiston/HITS 104.7.png",
-            url: "http://107.182.234.197:7805/stream"
+            url: "http://64.131.95.13:7805/stream"
         },
         {
             name: "The River 105.1",
@@ -14352,7 +14457,7 @@ var stations = {/*
         {
             name: "98.3 K252FO",
             logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "http://streaming.live365.com/a28050"
+            url: "http://84.32.44.251/index.php?u=http://streaming.live365.com/a28050"
         },
         {
             name: "ALT 98.7",
@@ -14457,17 +14562,17 @@ var stations = {/*
         {
             name: "Go Country 105",
             logo: "stations/images-america/los_angeles/Go Country 105.png",
-            url: "https://streaming.live365.com/a10969"
+            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a10969"
         },
         {
             name: "105.1 KKGO-HD2",
             logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "https://streaming.live365.com/a28050"
+            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a28050"
         },
         {
             name: "105.1 KKGO-HD4",
             logo: "stations/images-america/los_angeles/Go Country Gold AM 1260.png",
-            url: "https://streaming.live365.com/a72131"
+            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a72131"
         },
         {
             name: "Power 106",
@@ -14587,7 +14692,7 @@ var stations = {/*
         {
             name: "Go Country Gold AM 1260",
             logo: "stations/images-america/los_angeles/Go Country Gold AM 1260.png",
-            url: "http://streaming.live365.com/a72131"
+            url: "http://84.32.44.251/index.php?u=http://streaming.live365.com/a72131"
         },
         {
             name: "Tu Liga Radio 1330",
@@ -14776,7 +14881,7 @@ var stations = {/*
         {
             name: "La Ley 103.5",
             logo: "stations/images-america/lubbock/La Ley 103.5.png",
-            url: "http://107.182.234.197:7849/stream"
+            url: "http://64.131.95.13:7849/stream"
         },
         {
             name: "Talk 103.9",
@@ -14991,8 +15096,8 @@ var stations = {/*
         },
         {
             name: "K2 Radio 1030",
-            logo: "stations/images-america/casper/K2 Radio 1030.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
+            logo: "stations/images-america/casper/K2 Radio.png",
+            url: "http://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
         },
     ],
     "malta_mt": [
@@ -19264,8 +19369,8 @@ var stations = {/*
         },
         {
             name: "K2 Radio 1030",
-            logo: "stations/images-america/casper/K2 Radio 1030.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
+            logo: "stations/images-america/casper/K2 Radio.png",
+            url: "http://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
         },
     ],
     "redding": [
@@ -19949,7 +20054,7 @@ var stations = {/*
         {
             name: "KFRZ 92.1",
             logo: "stations/images-america/rock_springs/KFRZ 92.1.png",
-            url: "http://107.182.234.197:7857/stream"
+            url: "http://64.131.95.13:7857/stream"
         },
         {
             name: "KREO 93.5",
