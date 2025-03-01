@@ -17151,7 +17151,7 @@ var stations = {/*
         {
             name: "Bott Radio 107.9",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
+            url: "https://streaming.live365.com/a71179_2"
         },
         {
             name: "KRVN 880",
