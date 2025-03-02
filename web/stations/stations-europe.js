@@ -5171,6 +5171,11 @@ var stations = {/*
             url: "http://89.168.75.18/redir_kbs.php?id=25&format=m3u8"
         },
         {
+            name: "AFN Humphreys",
+            logo: "stations/images-europe/korearok/AFN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OSNAAC_SC"
+        },
+        {
             name: "BBS FM",
             logo: "stations/images-europe/korearok/BBS.png",
             url: "http://bbslive.clouducs.com:1935/bbsradio-live/livestream/playlist.m3u8"
@@ -6955,12 +6960,32 @@ var stations = {/*
             url: "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps"
         },
     ],
-    "saudia": [/*
+    "saudia": [
+        {
+            name: "إذاعة الرياض",
+            logo: "stations/images-europe/saudi/إذاعة الرياض.png",
+            url: "https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/playlist.m3u8"
+        },
+        {
+            name: "إذاعة جدة",
+            logo: "stations/images-europe/saudi/إذاعة جدة.png",
+            url: "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/playlist.m3u8"
+        },
         {
             name: "إذاعة القران الكريم",
             logo: "stations/images-europe/saudi/إذاعة القران الكريم.png",
-            url: "https://cllive.itworkscdn.net/ksaquranradiolive/token=nva=1699829696~dirs=1~hash=0bbe38e708ec65533b5db/ksaquranradiovision/playlist_dvr.m3u8"
-        },*/
+            url: "https://live.kwikmotion.com/sbrksaquranradiolive/ksaquranradio/playlist.m3u8"
+        },
+        {
+            name: "إذاعة نداء الإسلام",
+            logo: "stations/images-europe/saudi/إذاعة نداء الإسلام.png",
+            url: "https://live.kwikmotion.com/sbrksanedaradiolive/ksanedaradio/playlist.m3u8"
+        },
+        {
+            name: "Saudia Radio",
+            logo: "stations/images-europe/saudi/Saudia Radio.png",
+            url: "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/playlist.m3u8"
+        },
         {
             name: "Alif Alif FM",
             logo: "stations/images-europe/saudi/Alif Alif FM.png",
@@ -6985,12 +7010,7 @@ var stations = {/*
             name: "Rotana",
             logo: "stations/images-europe/saudi/Rotana.png",
             url: "http://curiosity.shoutca.st:6035/;"
-        },/*
-        {
-            name: "Saudia Radio",
-            logo: "stations/images-europe/saudi/Saudi Radio.png",
-            url: "https://cllive.itworkscdn.net/ksasaudiaradiolive/token=nva=1699829777~dirs=1~hash=04baa2587b646a50f8e4a/ksasaudiaradiovision/playlist_dvr.m3u8"
-        },*/
+        },
         {
             name: "اذاعة UFM",
             logo: "stations/images-europe/saudi/اذاعة UFM.png",
