@@ -910,6 +910,9 @@ var city_properties = {
     "bilbao": {
         relative_radius: 0.7,
     },
+    "bileomara": {
+        relative_radius: 2.5,
+    },
     "birobizhan": {
         relative_radius: 2,
     },
@@ -1205,6 +1208,9 @@ var city_properties = {
     "jekabpils": {
         relative_radius: 0.85,
     },
+    "jigarband": {
+        relative_radius: 1.3,
+    },
     "jonquera": {
         relative_radius: 0.7,
     },
@@ -1406,6 +1412,9 @@ var city_properties = {
         relative_radius: 1.2,
     },
     "marytm": {
+        relative_radius: 2,
+    },
+    "massakory": {
         relative_radius: 2,
     },
     "meymaneh": {
@@ -15189,6 +15198,14 @@ var cities_beyond = [
       "z": "-11428.6"
     },
     {
+      "gameName": "bileomara",
+      "realName": "Bile Omara",
+      "country": "chad",
+      "x": "33411",
+      "y": "53",
+      "z": "203404"
+    },
+    {
       "gameName": "bishkek",
       "realName": "Бишкек",
       "country": "kyrgyzstan",
@@ -15523,6 +15540,14 @@ var cities_beyond = [
       "x": "353940",
       "y": "51",
       "z": "-245499"
+    },
+    {
+      "gameName": "jigarband",
+      "realName": "Jigarband",
+      "country": "turkmenistan",
+      "x": "207534",
+      "y": "141",
+      "z": "-7158"
     },
     {
       "gameName": "kaechon",
