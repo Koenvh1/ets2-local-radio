@@ -8157,6 +8157,11 @@ var stations = {/*
     ],
     "thailand": [
         {
+            name: "Radio Thailand",
+            logo: "stations/images-europe/thailand/Radio Thailand.png",
+            url: "http://89.168.75.18/redir_prd.php?id=63bbee5c46bad50012b8603b&format=m3u8"
+        },
+        {
             name: "BIG FM",
             logo: "stations/images-europe/thailand/BIG FM.png",
             url: "http://media.login.in.th:8195/;stream.mp3"
