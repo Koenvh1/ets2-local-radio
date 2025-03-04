@@ -1886,6 +1886,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kernamaac-ibc3"
         },
         {
+            name: "96.5 Ritmo",
+            logo: "stations/images-america/bakersfield/96.5 Ritmo.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPSLFMAAC_SC"
+        },
+        {
             name: "96.9 La Caliente",
             logo: "stations/images-america/bakersfield/96.9 La Caliente.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kebtfmaac-ibc3"
@@ -9147,8 +9152,8 @@ var stations = {/*
             url: "https://ice9.securenetsystems.net/KHTN"
         },
         {
-            name: "Rock 105.1",
-            logo: "stations/images-america/fresno/Rock 105.1.png",
+            name: "Caliente 105.1",
+            logo: "stations/images-america/fresno/Caliente 105.1.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBZFMAAC_SC"
         },
         {
@@ -13516,6 +13521,11 @@ var stations = {/*
             logo: "stations/images-america/las_vegas/1400 KSHP.png",
             url: "https://ice24.securenetsystems.net/KSHP"
         },
+        {
+            name: "1460 Deportes Vegas",
+            logo: "stations/images-america/las_vegas/1460 Deportes Vegas.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAMAAC_SC"
+        },
     ],
     "lawton": [
         {
@@ -14663,6 +14673,11 @@ var stations = {/*
             name: "AM 870 The Answer",
             logo: "stations/images-america/los_angeles/AM 870 The Answer.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRLAAMAAC_SC"
+        },
+        {
+            name: "980 La Mera Mera",
+            logo: "stations/images-america/los_angeles/980 La Mera Mera.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC_SC"
         },
         {
             name: "1020 KTNQ",
