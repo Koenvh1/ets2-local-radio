@@ -37566,11 +37566,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc3373/hls.m3u8"
         },
         {
-            name: "101.5 Jack FM",
-            logo: "stations/images-america/c2c/lexington_ky/101.5 Jack FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVLKFMAAC_SC"
-        },
-        {
             name: "HOT 102.5",
             logo: "stations/images-america/c2c/lexington_ky/HOT 102.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLTOFMAAC_SC"
