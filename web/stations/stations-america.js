@@ -310,11 +310,6 @@ var stations = {/*
             url: "https://ice42.securenetsystems.net/KXOX"
         },
         {
-            name: "KSLI 1280",
-            logo: "stations/images-america/abilene/92.5 The Ranch.png",
-            url: "http://live.amperwave.net/manifest/townsquare-kmwxfmaac-ibc3"
-        },
-        {
             name: "FOX Sports 1340",
             logo: "stations/images-america/abilene/FOX Sports Abilene.png",
             url: "http://ice42.securenetsystems.net/KASN"
@@ -13857,6 +13852,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktglfmaac-ibc4"
         },
         {
+            name: "93.5 The Hawk",
+            logo: "stations/images-america/lincoln/93.5 The Hawk.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kkotfmaac-ibc2"
+        },
+        {
             name: "The Ticket 93.7",
             logo: "stations/images-america/lincoln/The Ticket 93.7.png",
             url: "https://ice8.securenetsystems.net/KNTK"
@@ -18828,7 +18828,7 @@ var stations = {/*
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "KMHD 89.1",
@@ -18986,9 +18986,9 @@ var stations = {/*
             url: "https://gateway.cdnstream1.com/boost-live"
         },
         {
-            name: "104.1 The Fish",
-            logo: "stations/images-america/portland/104.1 The Fish.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFISFMAAC_SC"
+            name: "Air1 104.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Urbana 104.5",
@@ -19064,6 +19064,11 @@ var stations = {/*
             name: "La Pantera 940",
             logo: "stations/images-america/portland/La Pantera 940.png",
             url: "https://stream.rcast.net/61661"
+        },
+        {
+            name: "Freedom 970",
+            logo: "stations/images-america/portland/Freedom 970.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kufoamaac-ibc4"
         },
         {
             name: "Slavic Family Radio 1040",
@@ -21431,8 +21436,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6168/hls.m3u8"
         },
         {
-            name: "Sports Star 94.1",
-            logo: "stations/images-america/san_antonio/Sports Star 94.1.png",
+            name: "94.1 San Antonio's Sports Star",
+            logo: "stations/images-america/san_antonio/94.1 San Antonios Sports Star.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktfmfmaac-ibc4"
         },
         {
@@ -36842,11 +36847,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC.aac"
         },
         {
-            name: "ESPN 1170",
-            logo: "stations/images-america/c2c/davenport_ia/ESPN 1170.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kbobamaac-ibc3"
-        },
-        {
             name: "FOX Sports 1230",
             logo: "stations/images-america/c2c/davenport_ia/FOX Sports 1230.png",
             url: "https://stream.revma.ihrhls.com/zc5261/hls.m3u8"
@@ -38781,6 +38781,11 @@ var stations = {/*
             name: "KEEL 101.7",
             logo: "stations/images-america/c2c/shreveport_la/KEEL 101.7.png",
             url: "https://live.amperwave.net/manifest/townsquare-keelamaac-ibc3"
+        },
+        {
+            name: "102.1 KDKS",
+            logo: "stations/images-america/texarkana/102.1 KDKS.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdksfmaac-ibc4"
         },
         {
             name: "Magic 102.9",
