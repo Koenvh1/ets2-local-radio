@@ -38784,7 +38784,7 @@ var stations = {/*
         },
         {
             name: "102.1 KDKS",
-            logo: "stations/images-america/texarkana/102.1 KDKS.png",
+            logo: "stations/images-america/c2c/shreveport_la/102.1 KDKS.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdksfmaac-ibc4"
         },
         {
