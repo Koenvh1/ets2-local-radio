@@ -383,6 +383,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
+    "columbia": {
+        name: "Columbia",
+        name_english: "Columbia",
+        code: "us-mo",
+        relative_radius: 0.7
+    },
     "columbus": {
         name: "Columbus",
         name_english: "Columbus",
@@ -977,6 +983,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.7
     },
+    "kirksville": {
+        name: "Kirksville",
+        name_english: "Kirksville",
+        code: "us-mo",
+        relative_radius: 0.9
+    },
     "klamath_f": {
         name: "Klamath Falls",
         name_english: "Klamath Falls",
@@ -1185,6 +1197,12 @@ var country_properties = {
         name: "Martins",
         name_english: "Martins",
         code: "us-ca",
+        relative_radius: 0.7
+    },
+    "maryville": {
+        name: "Maryville",
+        name_english: "Maryville",
+        code: "us-mo",
         relative_radius: 0.7
     },
     "marysville": {
@@ -1828,6 +1846,18 @@ var country_properties = {
         name_english: "Saint John",
         code: "us-ks",
         relative_radius: 0.6,
+    },
+    "st_joseph": {
+        name: "St. Joseph",
+        name_english: "St. Joseph",
+        code: "us-mo",
+        relative_radius: 0.7
+    },
+    "st_joseph_kkjo": {
+        name: "St. Joseph",
+        name_english: "St. Joseph",
+        code: "us-mo",
+        relative_radius: 0.7
     },
     "susanv": {
         name: "Susanville",
@@ -2612,6 +2642,9 @@ var city_properties = {
     "kingman": {
         relative_whitenoise: 0.85
     },
+    "kirksville": {
+        relative_whitenoise: 0.85
+    },
     "klamath_f": {
         relative_whitenoise: 0.85
     },
@@ -2728,6 +2761,10 @@ var city_properties = {
     "martins_ca": {
 		relative_radius: 0.3,
         relative_whitenoise: 0.85
+    },
+    "maryville": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
     },
     "marysville": {
         relative_whitenoise: 0.95
@@ -3078,6 +3115,14 @@ var city_properties = {
     "st_john": {
 		relative_radius: 0.6,
         relative_whitenoise: 0.95
+    },
+    "st_joseph": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.85
+    },
+    "st_joseph_kkjo": {
+        relative_radius: 1.0,
+        relative_whitenoise: 0.85
     },
     "stockton": {
 		relative_radius: 0.5,
@@ -4739,6 +4784,14 @@ var cities = [
         "z": "13606.3"
     },
     {
+        "gameName": "kirksville",
+        "realName": "Kirksville",
+        "country": "kirksville",
+        "x": "15336.8",
+        "y": "44.8823",
+        "z": "-6167.12"
+    },
+    {
         "gameName": "klamath_f",
         "realName": "Klamath Falls",
         "country": "klamath_f",
@@ -5049,6 +5102,22 @@ var cities = [
         "x": "-104462",
         "y": "65.4794",
         "z": "11502.9"
+    },
+    {
+        "gameName": "maryville",
+        "realName": "Maryville",
+        "country": "maryville",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
+        "gameName": "maryville",
+        "realName": "Maryville",
+        "country": "st_joseph_kkjo",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "marysville",
@@ -6033,6 +6102,30 @@ var cities = [
         "x": "-12390.6",
         "y": "188",
         "z": "6328.88"
+    },
+    {
+        "gameName": "st_joseph_kkjo",
+        "realName": "St. Joseph",
+        "country": "st_joseph_kkjo",
+        "x": "2920.43",
+        "y": "136.541",
+        "z": "-3384.05"
+    },
+    {
+        "gameName": "st_joseph",
+        "realName": "St. Joseph",
+        "country": "st_joseph",
+        "x": "5300.43",
+        "y": "136.541",
+        "z": "-7084.05"
+    },
+    {
+        "gameName": "st_joseph",
+        "realName": "St. Joseph",
+        "country": "kansas_city",
+        "x": "5300.43",
+        "y": "136.541",
+        "z": "-7084.05"
     },
     {
         "gameName": "stockton",
@@ -9166,41 +9259,17 @@ var country_properties_c2c = {
         code: "us-mo",
         relative_radius: 0.8
     },
-    "columbia_mo": {
-        name: "Columbia, MO",
-        name_english: "Columbia, MO",
-        code: "us-mo",
-        relative_radius: 0.7
-    },
     "joplin": {
         name: "Joplin, MO",
         name_english: "Joplin, MO",
         code: "us-mo",
         relative_radius: 0.7
     },
-    "kirksville_mo": {
-        name: "Kirksville, MO",
-        name_english: "Kirksville, MO",
-        code: "us-mo",
-        relative_radius: 0.9
-    },
     "rolla": {
         name: "rolla",
         name_english: "rolla",
         code: "us-mo",
         relative_radius: 0.9
-    },
-    "st_joseph": {
-        name: "St. Joseph",
-        name_english: "St. Joseph",
-        code: "us-mo",
-        relative_radius: 0.7
-    },
-    "st_joseph_kkjo": {
-        name: "St. Joseph",
-        name_english: "St. Joseph",
-        code: "us-mo",
-        relative_radius: 0.7
     },
     "stlouis": {
         name: "stlouis",
@@ -9532,7 +9601,7 @@ var country_properties_c2c = {
         code: "us-sc",
         relative_radius: 0.7
     },
-    "columbia": {
+    "columbia_sc": {
         name: "columbia",
         name_english: "columbia",
         code: "us-sc",
@@ -10065,24 +10134,13 @@ var city_properties_c2c = {
     "cape_girardeau": {
         relative_whitenoise: 0.85
     },
-    "columbia_mo": {
+    "columbia": {
         relative_whitenoise: 0.85
     },
     "joplin": {
         relative_whitenoise: 0.95
     },
-    "kirksville_mo": {
-        relative_whitenoise: 0.85
-    },
     "rolla": {
-        relative_whitenoise: 0.85
-    },
-    "st_joseph": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.85
-    },
-    "st_joseph_kkjo": {
-        relative_radius: 1.0,
         relative_whitenoise: 0.85
     },
     "stlouis": {
@@ -10234,7 +10292,7 @@ var city_properties_c2c = {
     "charleston_sc": {
         relative_whitenoise: 0.95
     },
-    "columbia": {
+    "columbia_sc": {
         relative_whitenoise: 0.95
     },
     "florence_sc": {
@@ -11183,9 +11241,9 @@ var cities_c2c = [
         "z": "10440.7"
     },
     {
-        "gameName": "columbia_mo",
+        "gameName": "columbia",
         "realName": "Columbia",
-        "country": "columbia_mo",
+        "country": "columbia",
         "x": "17386.3",
         "y": "125.087",
         "z": "-138.205"
@@ -11199,44 +11257,12 @@ var cities_c2c = [
         "z": "9488.4"
     },
     {
-        "gameName": "kirksville_mo",
-        "realName": "Kirksville",
-        "country": "kirksville_mo",
-        "x": "15336.8",
-        "y": "44.8823",
-        "z": "-6167.12"
-    },
-    {
         "gameName": "rolla",
         "realName": "Rolla",
         "country": "rolla",
         "x": "18164.2",
         "y": "24.3027",
         "z": "6092.5"
-    },
-    {
-        "gameName": "st_joseph_kkjo",
-        "realName": "St. Joseph",
-        "country": "st_joseph_kkjo",
-        "x": "2920.43",
-        "y": "136.541",
-        "z": "-3384.05"
-    },
-    {
-        "gameName": "st_joseph",
-        "realName": "St. Joseph",
-        "country": "st_joseph",
-        "x": "5300.43",
-        "y": "136.541",
-        "z": "-7084.05"
-    },
-    {
-        "gameName": "st_joseph",
-        "realName": "St. Joseph",
-        "country": "kansas_city",
-        "x": "5300.43",
-        "y": "136.541",
-        "z": "-7084.05"
     },
     {
         "gameName": "stlouis",
@@ -11647,9 +11673,9 @@ var cities_c2c = [
         "z": "28091.9"
     },
     {
-        "gameName": "columbia",
+        "gameName": "columbia_sc",
         "realName": "Columbia",
-        "country": "columbia",
+        "country": "columbia_sc",
         "x": "68910.3",
         "y": "55.1797",
         "z": "22065.1"

@@ -1424,7 +1424,7 @@ var stations = {/*
         },
         {
             name: "680 KFEQ",
-            logo: "stations/images-america/c2c/st_joseph_mo/680 KFEQ.png",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
             url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
         },
         {
@@ -4823,6 +4823,168 @@ var stations = {/*
             name: "KQSC-AM 1530",
             logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
             url: "https://ice8.securenetsystems.net//KDZA"
+        },
+    ],
+    "columbia": [
+        {
+            name: "KCOU 88.1",
+            logo: "stations/images-america/columbia/KCOU 88.1.png",
+            url: "https://streams.radiomast.io/3237c6cc-e87d-480d-a261-33a35f2c44c0"
+        },
+        {
+            name: "KJLU 88.9",
+            logo: "stations/images-america/jefferson_city/KJLU 88.9.png",
+            url: "http://ice8.securenetsystems.net:80/KJLU"
+        },
+        {
+            name: "KOPN 89.5",
+            logo: "stations/images-america/columbia/KOPN 89.5.png",
+            url: "http://98.158.184.31:8006/stream"
+        },
+        {
+            name: "Bott Radio 89.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "Classical 90.5",
+            logo: "stations/images-america/columbia/Classical 90.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2AAC_SC"
+        },
+        {
+            name: "KBIA 91.3",
+            logo: "stations/images-america/columbia/KBIA.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM_SC"
+        },
+        {
+            name: "KBIA 91.3-HD2",
+            logo: "stations/images-america/columbia/Classical 90.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2AAC.aac"
+        },
+        {
+            name: "KBIA 91.3-HD3",
+            logo: "stations/images-america/columbia/KBIA.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD3AAC_SC"
+        },
+        {
+            name: "K-LOVE 92.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "93.1 Jack FM",
+            logo: "stations/images-america/columbia/93.1 Jack FM.png",
+            url: "https://streaming.live365.com/a60946"
+        },
+        {
+            name: "93.9 The Eagle",
+            logo: "stations/images-america/columbia/93.9 The Eagle.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7406_48k.aac"
+        },
+        {
+            name: "94.3 KAT Country",
+            logo: "stations/images-america/columbia/94.3 KAT Country.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7400_48k.aac"
+        },
+        {
+            name: "Convenant Network 94.7",
+            logo: "stations/images-america/0_general_logos/Convenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
+        },
+        {
+            name: "95.3 K237GU",
+            logo: "stations/images-america/columbia/The Big 900.png",
+            url: "http://84.32.44.251/index.php?u=http://ais-sa1.streamon.fm/7403_48k.aac"
+        },
+        {
+            name: "MIX Country 96",
+            logo: "stations/images-america/columbia/MIX Country 96.png",
+            url: "http://84.32.44.251/index.php?u=https://ice42.securenetsystems.net/KWWR"
+        },
+        {
+            name: "96.7 KCMQ",
+            logo: "stations/images-america/columbia/96.7 KCMQ.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7398_48k.aac"
+        },
+        {
+            name: "Glory 97.3",
+            logo: "stations/images-america/columbia/Glory 97.3.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-ktcmfmaac-ibc2"
+        },
+        {
+            name: "Power 97.7",
+            logo: "stations/images-america/columbia/Power 97.7.png",
+            url: "https://stream.radiojar.com/zwtcz3bkxy8uv"
+        },
+        {
+            name: "98.3 The Dove",
+            logo: "stations/images-america/columbia/98.3 The Dove.png",
+            url: "https://ais-sa1.streamon.fm/7931_96k.aac"
+        },
+        {
+            name: "98.9 KFRU",
+            logo: "stations/images-america/columbia/98.9 KFRU.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC_SC"
+        },
+        {
+            name: "Clear 99",
+            logo: "stations/images-america/columbia/Clear 99.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7396_48k.aac"
+        },
+        {
+            name: "Nash FM 100.1",
+            logo: "stations/images-america/columbia/Nash FM 100.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBBMFMAAC_SC"
+        },
+        {
+            name: "101.5 KPLA",
+            logo: "stations/images-america/columbia/101.5 KPLA.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC_SC"
+        },
+        {
+            name: "101.9 The Wave",
+            logo: "stations/images-america/columbia/101.9 The Wave.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7402_48k.aac"
+        },
+        {
+            name: "102.3 BXR",
+            logo: "stations/images-america/columbia/102.3 BXR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBXRFMAAC_SC"
+        },
+        {
+            name: "104.7 KRES",
+            logo: "stations/images-america/kirksville/104.7 KRES.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
+        },
+        {
+            name: "105.1 KTGR",
+            logo: "stations/images-america/columbia/105.1 KTGR.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7397_48k.aac"
+        },
+        {
+            name: "Q106.1",
+            logo: "stations/images-america/columbia/Q106.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOQLFMAAC_SC"
+        },
+        {
+            name: "Y107",
+            logo: "stations/images-america/columbia/Y107.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7399_48k.aac"
+        },
+        {
+            name: "The BIG 900",
+            logo: "stations/images-america/columbia/The Big 900.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7403_48k.aac"
+        },
+        {
+            name: "950 KWOS",
+            logo: "stations/images-america/columbia/950 KWOS.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7401_48k.aac"
+        },
+        {
+            name: "1400 KFRU",
+            logo: "stations/images-america/columbia/98.9 KFRU.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC_SC"
         },
     ],
     "columbus": [
@@ -12146,6 +12308,11 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
+            name: "101.1 KCFX-HD4",
+            logo: "stations/images-america/kansas_city/810 WHB.png",
+            url: "http://live.amperwave.net/direct/unionbroadcasting-whbamaac-ibc2"
+        },
+        {
             name: "102.1 BOB FM",
             logo: "stations/images-america/kansas_city/102.1 BOB FM.png",
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7042_48k.aac"
@@ -12212,7 +12379,7 @@ var stations = {/*
         },
         {
             name: "680 KFEQ",
-            logo: "stations/images-america/c2c/st_joseph_mo/680 KFEQ.png",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
             url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
         },
         {
@@ -12679,6 +12846,63 @@ var stations = {/*
             name: "KLPZ 1380",
             logo: "stations/images-america/kingman/KLPZ 1380.png",
             url: "https://s5.voscast.com:7837/stream"
+        },
+    ],
+    "kirksville": [
+        {
+            name: "SonLife Radio 88.1",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
+        },
+        {
+            name: "88.7 KTRM",
+            logo: "stations/images-america/kirksville/88.7 KTRM.png",
+            url: "https://securestream.truman.edu/ktrm"
+        },
+        {
+            name: "KBIA 89.7",
+            logo: "stations/images-america/columbia/KBIA.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM_SC"
+        },
+        {
+            name: "Spirit FM 90.7",
+            logo: "stations/images-america/kirksville/Spirit FM 90.7.png",
+            url: "https://ic1.sslstream.com/kcvo-fm"
+        },
+        {
+            name: "Covenant Network 91.5",
+            logo: "stations/images-america/kirksville/Covenant Network 91.5.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
+        },
+        {
+            name: "91.9 K220CN",
+            logo: "stations/images-america/kirksville/88.5 WGCA.png",
+            url: "https://themix2.logonix.net:8443/high"
+        },
+        {
+            name: "98.7 KMGO",
+            logo: "stations/images-america/kirksville/98.7 KMGO.png",
+            url: "https://us1.streamingpulse.com/ssl/987Kmgo"
+        },
+        {
+            name: "KMEM FM 100.5",
+            logo: "stations/images-america/kirksville/KMEM FM 100.5.png",
+            url: "https://video1.getstreamhosting.com:8040/stream"
+        },
+        {
+            name: "104.7 KRES",
+            logo: "stations/images-america/kirksville/104.7 KRES.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
+        },
+        {
+            name: "Bott Radio 107.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "KWIX 1230",
+            logo: "stations/images-america/kirksville/KWIX 1230.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kwixamaac-ibc2"
         },
     ],
     "klamath_f": [
@@ -15218,6 +15442,93 @@ var stations = {/*
             url: "https://crystalout.surfernetwork.com:8001/KVLF_MP3"
         },
     ],
+    "maryville": [
+        {
+            name: "KXCV 90.5",
+            logo: "stations/images-america/maryville/KXCV_KNRW.png",
+            url: "https://ice24.securenetsystems.net/KXCV"
+        },
+        {
+            name: "Radio By Grace 91.7",
+            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
+            url: "https://stream.freedomradiofm.com/live.mp3"
+        },
+        {
+            name: "Q Country 92.7",
+            logo: "stations/images-america/st_joseph/Q Country 92.7.png",
+            url: "https://live.amperwave.net/manifest/eagleradio-ksjqfmaac-ibc4"
+        },
+        {
+            name: "95.5 KAAN",
+            logo: "stations/images-america/maryville/95.5 KAAN.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
+        },
+        {
+            name: "95.9 KNI'M Country",
+            logo: "stations/images-america/maryville/KNIM Country.png",
+            url: "https://stream.aiir.com/4uwhg0d2qfhtv"
+        },
+        {
+            name: "97.1 KVVL",
+            logo: "stations/images-america/maryville/97.1 KVVL.png",
+            url: "https://stream.aiir.com/pfvzjtkrzvyuv"
+        },
+        {
+            name: "KMA 99.1",
+            logo: "stations/images-america/maryville/KMA 99.1.png",
+            url: "https://ice5.securenetsystems.net/KMAFM"
+        },
+        {
+            name: "Bott Radio 101.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "104.9 The Cat",
+            logo: "stations/images-america/maryville/104.9 The Cat.png",
+            url: "https://live.amperwave.net/manifest/eagleradio-kbctfmaac-ibc4"
+        },
+        {
+            name: "Catholic Radio Network 106.1",
+            logo: "stations/images-america/colorado_springs_pueblo/Catholic Radio Network 1060.png",
+            url: "https://ice24.securenetsystems.net/KRCN"
+        },
+        {
+            name: "X106",
+            logo: "stations/images-america/maryville/X106.png",
+            url: "http://198.209.246.173:8000/;"
+        },
+        {
+            name: "680 KFEQ",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
+        },
+        {
+            name: "Sports Radio 870",
+            logo: "stations/images-america/auburn_ne/Sports Radio 870.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
+        },
+        {
+            name: "Family Radio 920",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
+            name: "KMA 960",
+            logo: "stations/images-america/omaha/KMA 960.png",
+            url: "http://ice5.securenetsystems.net/KMAAM"
+        },
+        {
+            name: "1550 KESJ",
+            logo: "stations/images-america/st_joseph/JoeTown 107.5.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
+        },
+        {
+            name: "1580 KNI'M Country",
+            logo: "stations/images-america/maryville/KNIM Country.png",
+            url: "http://stream.aiir.com/4uwhg0d2qfhtv"
+        },
+    ],
     "marysville": [
         {
             name: "The Gospel Station 88.7",
@@ -15251,7 +15562,7 @@ var stations = {/*
         },
         {
             name: "680 KFEQ",
-            logo: "stations/images-america/c2c/st_joseph_mo/680 KFEQ.png",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
             url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
         },
         {
@@ -24402,6 +24713,80 @@ var stations = {/*
             name: "NOAA Weather Radio Utah",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
             url: "https://broadcastify.cdnstream1.com/35369"
+        },
+    ],
+    "st_joseph": [
+        {
+            name: "Bott Radio 88.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "91.1 KSJI",
+            logo: "stations/images-america/kansas_city/Life 88.5.png",
+            url: "https://nwmedia-kjnwfm.streamguys1.com/kjnwfm"
+        },
+        {
+            name: "Air1 91.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "Q Country 92.7",
+            logo: "stations/images-america/st_joseph/Q Country 92.7.png",
+            url: "https://live.amperwave.net/manifest/eagleradio-ksjqfmaac-ibc4"
+        },
+        {
+            name: "KAIR Country 93.7",
+            logo: "stations/images-america/st_joseph/KAIR Country 93.7.png",
+            url: "https://us9.maindigitalstream.com/ssl/kair"
+        },
+        {
+            name: "95.3 K237HF",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
+            url: "http://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
+        },
+        {
+            name: "Radio Joe 96.1",
+            logo: "stations/images-america/st_joseph/Radio Joe 96.1.png",
+            url: "https://nv8q.dyndns.org:8000/2/live"
+        },
+        {
+            name: "K-LOVE 98.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "SJMF 99.3",
+            logo: "stations/images-america/st_joseph/SJMF 99.3.png",
+            url: "http://99.169.52.137:90/;"
+        },
+        {
+            name: "KY 102",
+            logo: "stations/images-america/st_joseph/KY 102.png",
+            url: "https://live.amperwave.net/manifest/eagleradio-kgnmamaac-ibc4"
+        },
+        {
+            name: "Catholic Radio Network 106.1",
+            logo: "stations/images-america/colorado_springs_pueblo/Catholic Radio Network 1060.png",
+            url: "https://ice24.securenetsystems.net/KRCN"
+        },
+        {
+            name: "JoeTown 107.5",
+            logo: "stations/images-america/st_joseph/JoeTown 107.5.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
+        },
+        {
+            name: "680 KFEQ",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
+        },
+    ],
+    "st_joseph_kkjo": [
+        {
+            name: "KJO 105.5",
+            logo: "stations/images-america/st_joseph/KJO 105.5.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kkjofmaac-ibc4"
         },
     ],
     "stockton": [
@@ -42288,133 +42673,6 @@ var stations = {/*
             url: "https://ice23.securenetsystems.net/KGIR"
         },
     ],
-    "columbia_mo": [
-        {
-            name: "KCOU 88.1",
-            logo: "stations/images-america/c2c/columbia_mo/KCOU 88.1.png",
-            url: "https://streams.radiomast.io/3237c6cc-e87d-480d-a261-33a35f2c44c0"
-        },
-        {
-            name: "88.9 KJLU",
-            logo: "stations/images-america/c2c/columbia_mo/88.9 KJLU.png",
-            url: "http://ice8.securenetsystems.net:80/KJLU"
-        },
-        {
-            name: "KOPN 89.5",
-            logo: "stations/images-america/c2c/columbia_mo/KOPN 89.5.png",
-            url: "http://98.158.184.31:8006/stream"
-        },
-        {
-            name: "Classical 90.5",
-            logo: "stations/images-america/c2c/columbia_mo/Classical 90.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2AAC_SC"
-        },
-        {
-            name: "KBIA 91.3",
-            logo: "stations/images-america/c2c/columbia_mo/KBIA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM_SC"
-        },
-        {
-            name: "KBIA 91.3-HD2",
-            logo: "stations/images-america/c2c/columbia_mo/Classical 90.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2AAC.aac"
-        },
-        {
-            name: "KBIA 91.3-HD3",
-            logo: "stations/images-america/c2c/columbia_mo/KBIA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD3AAC_SC"
-        },
-        {
-            name: "93.1 Jack FM",
-            logo: "stations/images-america/c2c/columbia_mo/93.1 Jack FM.png",
-            url: "http://ic1.mainstreamnetwork.com/kwrt-fm"
-        },
-        {
-            name: "93.9 The Eagle",
-            logo: "stations/images-america/c2c/columbia_mo/93.9 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7406_48k.aac"
-        },
-        {
-            name: "94.3 KAT Country",
-            logo: "stations/images-america/c2c/columbia_mo/94.3 KAT Country.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7400_48k.aac"
-        },
-        {
-            name: "96.7 KCMQ",
-            logo: "stations/images-america/c2c/columbia_mo/96.7 KCMQ.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7398_48k.aac"
-        },
-        {
-            name: "Power 97.7",
-            logo: "stations/images-america/c2c/columbia_mo/Power 97.7.png",
-            url: "https://stream.radiojar.com/zwtcz3bkxy8uv"
-        },
-        {
-            name: "98.3 The Dove",
-            logo: "stations/images-america/c2c/columbia_mo/98.3 The Dove.png",
-            url: "http://84.32.44.251/index.php?u=https://ice64.securenetsystems.net/KDVC"
-        },
-        {
-            name: "KFRU 98.9",
-            logo: "stations/images-america/c2c/columbia_mo/KFRU 98.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRUAMAAC_SC"
-        },
-        {
-            name: "Clear 99",
-            logo: "stations/images-america/c2c/columbia_mo/Clear 99.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7396_48k.aac"
-        },
-        {
-            name: "Nash FM 100.1",
-            logo: "stations/images-america/c2c/columbia_mo/Nash FM 100.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBBMFMAAC_SC"
-        },
-        {
-            name: "101.5 KPLA",
-            logo: "stations/images-america/c2c/columbia_mo/101.5 KPLA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC_SC"
-        },
-        {
-            name: "101.9 The Wave",
-            logo: "stations/images-america/c2c/columbia_mo/101.9 The Wave.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7402_48k.aac"
-        },
-        {
-            name: "102.3 BXR",
-            logo: "stations/images-america/c2c/columbia_mo/102.3 BXR.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBXRFMAAC_SC"
-        },
-        {
-            name: "104.7 KRES",
-            logo: "stations/images-america/c2c/kirksville_mo/104.7 KRES.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
-        },
-        {
-            name: "105.1 KTGR",
-            logo: "stations/images-america/c2c/columbia_mo/105.1 KTGR.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7397_48k.aac"
-        },
-        {
-            name: "Q106.1",
-            logo: "stations/images-america/c2c/columbia_mo/Q106.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOQLFMAAC_SC"
-        },
-        {
-            name: "Y107",
-            logo: "stations/images-america/c2c/columbia_mo/Y107.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7399_48k.aac"
-        },
-        {
-            name: "The BIG 900",
-            logo: "stations/images-america/c2c/columbia_mo/The Big 900.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7403_48k.aac"
-        },
-        {
-            name: "950 KWOS",
-            logo: "stations/images-america/c2c/columbia_mo/950 KWOS.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7401_48k.aac"
-        },
-    ],
     "joplin": [
         {
             name: "KRPS 89.9",
@@ -42577,53 +42835,6 @@ var stations = {/*
             url: "http://ice7.securenetsystems.net/WMBH"
         },
     ],
-    "kirksville_mo": [
-        {
-            name: "SonLife Radio 88.1",
-            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
-            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
-        },
-        {
-            name: "88.7 KTRM",
-            logo: "stations/images-america/c2c/kirksville_mo/88.7 KTRM.png",
-            url: "https://securestream.truman.edu/ktrm"
-        },
-        {
-            name: "KBIA 89.7",
-            logo: "stations/images-america/c2c/columbia_mo/KBIA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM_SC"
-        },
-        {
-            name: "Spirit FM 90.7",
-            logo: "stations/images-america/c2c/kirksville_mo/Spirit FM 90.7.png",
-            url: "https://ic1.sslstream.com/kcvo-fm"
-        },
-        {
-            name: "Covenant Network 91.5",
-            logo: "stations/images-america/c2c/kirksville_mo/Covenant Network 91.5.png",
-            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
-        },
-        {
-            name: "98.7 KMGO",
-            logo: "stations/images-america/c2c/kirksville_mo/98.7 KMGO.png",
-            url: "https://us1.streamingpulse.com/ssl/987Kmgo"
-        },
-        {
-            name: "KMEM FM 100.5",
-            logo: "stations/images-america/c2c/kirksville_mo/KMEM FM 100.5.png",
-            url: "https://video1.getstreamhosting.com:8040/stream"
-        },
-        {
-            name: "104.7 KRES",
-            logo: "stations/images-america/c2c/kirksville_mo/104.7 KRES.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
-        },
-        {
-            name: "Bott Radio 107.9",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
-        },
-    ],
     "rolla": [
         {
             name: "KMST 88.5",
@@ -42679,55 +42890,6 @@ var stations = {/*
             name: "Real Talk 107.3",
             logo: "stations/images-america/c2c/stlouis_mo/Real Talk 93.3.png",
             url: "https://ice24.securenetsystems.net/KRTK"
-        },
-    ],
-    "st_joseph": [
-        {
-            name: "Q Country 92.7",
-            logo: "stations/images-america/c2c/st_joseph_mo/Q Country 92.7.png",
-            url: "https://live.amperwave.net/manifest/eagleradio-ksjqfmaac-ibc4"
-        },
-        {
-            name: "KAIR Country 93.7",
-            logo: "stations/images-america/c2c/st_joseph_mo/KAIR Country 93.7.png",
-            url: "https://us9.maindigitalstream.com/ssl/kair"
-        },
-        {
-            name: "K-LOVE 98.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "SJMF 99.3",
-            logo: "stations/images-america/c2c/st_joseph_mo/SJMF 99.3.png",
-            url: "http://99.169.52.137:90/;"
-        },
-        {
-            name: "KY 102",
-            logo: "stations/images-america/c2c/st_joseph_mo/KY 102.png",
-            url: "https://live.amperwave.net/manifest/eagleradio-kgnmamaac-ibc4"
-        },
-        {
-            name: "JoeTown 107.5",
-            logo: "stations/images-america/c2c/st_joseph_mo/JoeTown 107.5.png",
-            url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
-        },
-        {
-            name: "580 WIBW",
-            logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
-        },
-        {
-            name: "680 KFEQ",
-            logo: "stations/images-america/c2c/st_joseph_mo/680 KFEQ.png",
-            url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
-        },
-    ],
-    "st_joseph_kkjo": [
-        {
-            name: "KJO 105.5",
-            logo: "stations/images-america/c2c/st_joseph_mo/KJO 105.5.png",
-            url: "https://live.amperwave.net/direct/eagleradio-kkjofmaac-ibc4"
         },
     ],
     "stlouis": [
@@ -49818,7 +49980,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMAAMAAC_SC"
         },
     ],
-    "columbia": [
+    "columbia_sc": [
         {
             name: "SCPR 88.1",
             logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
