@@ -1865,6 +1865,12 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.7
     },
+    "st_louis": {
+        name: "St. Louis",
+        name_english: "St. Louis",
+        code: "us-mo",
+        relative_radius: 0.8
+    },
     "susanv": {
         name: "Susanville",
         name_english: "Susanville",
@@ -3136,6 +3142,9 @@ var city_properties = {
     "st_joseph_kkjo": {
         relative_radius: 1.0,
         relative_whitenoise: 0.85
+    },
+    "st_louis": {
+        relative_whitenoise: 0.75
     },
     "stockton": {
 		relative_radius: 0.5,
@@ -6155,6 +6164,14 @@ var cities = [
         "x": "5300.43",
         "y": "136.541",
         "z": "-7084.05"
+    },
+    {
+        "gameName": "st_louis",
+        "realName": "St. Louis",
+        "country": "st_louis",
+        "x": "25065.6",
+        "y": "81.9595",
+        "z": "806.646"
     },
     {
         "gameName": "stockton",
@@ -9300,12 +9317,6 @@ var country_properties_c2c = {
         code: "us-mo",
         relative_radius: 0.9
     },
-    "stlouis": {
-        name: "stlouis",
-        name_english: "stlouis",
-        code: "us-mo",
-        relative_radius: 0.8
-    },
     "springfield_mo": {
         name: "springfield_mo",
         name_english: "springfield_mo",
@@ -10168,9 +10179,6 @@ var city_properties_c2c = {
     },
     "rolla": {
         relative_whitenoise: 0.85
-    },
-    "stlouis": {
-        relative_whitenoise: 0.75
     },
     "springfield_mo": {
         relative_whitenoise: 0.85
@@ -11281,14 +11289,6 @@ var cities_c2c = [
         "x": "18164.2",
         "y": "24.3027",
         "z": "6092.5"
-    },
-    {
-        "gameName": "stlouis",
-        "realName": "St. Louis",
-        "country": "stlouis",
-        "x": "25065.6",
-        "y": "81.9595",
-        "z": "806.646"
     },
     {
         "gameName": "springfield_mo",

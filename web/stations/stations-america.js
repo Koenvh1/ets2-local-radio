@@ -4839,7 +4839,7 @@ var stations = {/*
         {
             name: "KOPN 89.5",
             logo: "stations/images-america/columbia_jcmo/KOPN 89.5.png",
-            url: "http://98.158.184.31:8006/stream"
+            url: "https://kopn.broadcasttool.stream/play"
         },
         {
             name: "Bott Radio 89.9",
@@ -4989,7 +4989,7 @@ var stations = {/*
         {
             name: "KXEO 1340",
             logo: "stations/images-america/columbia_jcmo/KXEO 1340.png",
-            url: "https://ice24.securenetsystems.net/KXEO"
+            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/KXEO"
         },
         {
             name: "1370 KWRT",
@@ -8865,7 +8865,7 @@ var stations = {/*
         },
         {
             name: "Catholic Radio 1060",
-            logo: "stations/images-america/fort_collins/Catholic Radio 1060.png",
+            logo: "stations/images-america/0_general_logos/Catholic Radio Network.png",
             url: "https://ice23.securenetsystems.net/CRN1"
         },
         {
@@ -10210,7 +10210,7 @@ var stations = {/*
         },
         {
             name: "Catholic Radio 1060",
-            logo: "stations/images-america/fort_collins/Catholic Radio 1060.png",
+            logo: "stations/images-america/0_general_logos/Catholic Radio Network.png",
             url: "https://ice23.securenetsystems.net/CRN1"
         },
         {
@@ -12224,7 +12224,7 @@ var stations = {/*
         },
         {
             name: "Catholic Radio 92.9",
-            logo: "stations/images-america/fort_collins/Catholic Radio 1060.png",
+            logo: "stations/images-america/0_general_logos/Catholic Radio Network.png",
             url: "https://ice23.securenetsystems.net/CRN1"
         },
         {
@@ -24863,7 +24863,7 @@ var stations = {/*
         {
             name: "Bott Radio 91.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
+            url: "http:///streaming.live365.com/a71179_2"
         },
         {
             name: "CSN Radio 91.9",
@@ -24933,7 +24933,7 @@ var stations = {/*
         {
             name: "96.3 WFUN-HD2",
             logo: "stations/images-america/st_louis/Classic 107.3.png",
-            url: "http://ice41.securenetsystems.net/RADIOART"
+            url: "https://live.amperwave.net/manifest/classic1073-wfunhd2aac-imc"
         },
         {
             name: "Covenant Network 96.7",
@@ -24978,7 +24978,7 @@ var stations = {/*
         {
             name: "99.1 KLJY-HD3",
             logo: "stations/images-america/st_louis/NewsTalkSTL.png",
-            url: "http://ice41.securenetsystems.net/KLJY"
+            url: "https:///us2.maindigitalstream.com/ssl/KNBS"
         },
         {
             name: "100.3 The Beat",
@@ -25008,7 +25008,7 @@ var stations = {/*
         {
             name: "NewsTalkSTL 101.9",
             logo: "stations/images-america/st_louis/NewsTalkSTL.png",
-            url: "https://ice41.securenetsystems.net/KLJY"
+            url: "https://us2.maindigitalstream.com/ssl/KNBS"
         },
         {
             name: "102.5 KEZK",
@@ -25061,11 +25061,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc9063/hls.m3u8"
         },
         {
-            name: "The Beat 104.9-HD3",
-            logo: "stations/images-america/0_general_logos/The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc4429/hls.m3u8"
-        },
-        {
             name: "105.3 K287BY",
             logo: "stations/images-america/st_louis/KFUO.png",
             url: "http://kfuo.streamguys1.com/kfuo"
@@ -25093,7 +25088,7 @@ var stations = {/*
         {
             name: "Classic 107.3",
             logo: "stations/images-america/st_louis/Classic 107.3.png",
-            url: "https://ice41.securenetsystems.net/RADIOART"
+            url: "http://live.amperwave.net/manifest/classic1073-wfunhd2aac-imc"
         },
         {
             name: "Z107.7",
@@ -25121,11 +25116,6 @@ var stations = {/*
             url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
         },
         {
-            name: "Jubilee 690",
-            logo: "stations/images-america/st_louis/Jubilee 690.png",
-            url: "https://stream.castr.com/67a2b73e8a68a042fa28b2e7/live_717eda90e35c11ef9aab316fdeadd862/index.fmp4.m3u8"
-        },
-        {
             name: "WEW 770",
             logo: "stations/images-america/st_louis/WEW 770.png",
             url: "http://wew.birach.com:9008/;"
@@ -25138,7 +25128,7 @@ var stations = {/*
         {
             name: "La Tremenda 880",
             logo: "stations/images-america/st_louis/La Tremenda 880.png",
-            url: "https://kfuo.streamguys1.com/kfuo"
+            url: "https://stream.zeno.fm/ssnufnzvn4xvv"
         },
         {
             name: "920 KWUL",
