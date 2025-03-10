@@ -50175,7 +50175,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTMAAMAAC_SC"
         },
     ],
-    "columbia_jcmo_sc": [
+    "columbia_sc": [
         {
             name: "SCPR 88.1",
             logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
@@ -50183,7 +50183,7 @@ var stations = {/*
         },
         {
             name: "WUSC 90.5",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/WUSC 90.5.png",
+            logo: "stations/images-america/c2c/columbia_sc/WUSC 90.5.png",
             url: "http://129.252.184.221:8000/;"
         },
         {
@@ -50193,92 +50193,92 @@ var stations = {/*
         },
         {
             name: "Live 93.5",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/Live 93.5.png",
+            logo: "stations/images-america/c2c/columbia_sc/Live 93.5.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-warqfmaac-ibc4"
         },
         {
             name: "94.9 The Palm",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/94.9 The Palm.png",
+            logo: "stations/images-america/c2c/columbia_sc/94.9 The Palm.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-warqhd4aac-ibc4"
         },
         {
             name: "96.7 Steve-FM",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/96.7 Steve-FM.png",
+            logo: "stations/images-america/c2c/columbia_sc/96.7 Steve-FM.png",
             url: "https://stream.revma.ihrhls.com/zc2077/hls.m3u8"
         },
         {
             name: "97.5 WCOS",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/97.5 WCOS.png",
+            logo: "stations/images-america/c2c/columbia_sc/97.5 WCOS.png",
             url: "https://stream.revma.ihrhls.com/zc2073/hls.m3u8"
         },
         {
             name: "98.5 OMG!",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/98.5 OMG!.png",
+            logo: "stations/images-america/c2c/columbia_sc/98.5 OMG!.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WOMGFMAAC_SC"
         },
         {
             name: "WXRY 99.3",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/WXRY 99.3.png",
+            logo: "stations/images-america/c2c/columbia_sc/WXRY 99.3.png",
             url: "http://pnj-01.stream101.com:9044/stream"
         },
         {
             name: "ALT 99.7",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/ALT 99.7.png",
+            logo: "stations/images-america/c2c/columbia_sc/ALT 99.7.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-warqhd2aac-ibc4"
         },
         {
             name: "100.1 The Beat",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/100.1 The Beat.png",
+            logo: "stations/images-america/c2c/columbia_sc/100.1 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc2069/hls.m3u8"
         },
         {
             name: "The Point 100.7",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/The Point 100.7.png",
+            logo: "stations/images-america/c2c/columbia_sc/The Point 100.7.png",
             url: "https://us9.maindigitalstream.com/ssl/wqxl"
         },
         {
             name: "The Big DM 101",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/The Big DM 101.png",
+            logo: "stations/images-america/c2c/columbia_sc/The Big DM 101.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wwdmfmaac-ibc4"
         },
         {
             name: "Fox 102.3",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/Fox 102.3.png",
+            logo: "stations/images-america/c2c/columbia_sc/Fox 102.3.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wmfxfmaac-ibc4"
         },
         {
             name: "Kiss 103.1",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/Kiss 103.1.png",
+            logo: "stations/images-america/c2c/columbia_sc/Kiss 103.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLXCFMAAC_SC"
         },
         {
             name: "HOT 103.9",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/HOT 103.9.png",
+            logo: "stations/images-america/c2c/columbia_sc/HOT 103.9.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-whxtfmaac-ibc4"
         },
         {
             name: "104.7 WNOK",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/104.7 WNOK.png",
+            logo: "stations/images-america/c2c/columbia_sc/104.7 WNOK.png",
             url: "https://stream.revma.ihrhls.com/zc2081/hls.m3u8"
         },
         {
             name: "BIN 105.5",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/BIN 105.5.png",
+            logo: "stations/images-america/c2c/columbia_sc/BIN 105.5.png",
             url: "https://stream.revma.ihrhls.com/zc7047/hls.m3u8"
         },
         {
             name: "B106.7",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/B106.7.png",
+            logo: "stations/images-america/c2c/columbia_sc/B106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTCBFMAAC_SC"
         },
         {
             name: "107.5 The Game",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/107.5 The Game.png",
+            logo: "stations/images-america/c2c/columbia_sc/107.5 The Game.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNKTFMAAC_SC"
         },
         {
             name: "560 WVOC",
-            logo: "stations/images-america/c2c/columbia_jcmo_sc/560 WVOC.png",
+            logo: "stations/images-america/c2c/columbia_sc/560 WVOC.png",
             url: "https://stream.revma.ihrhls.com/zc2085/hls.m3u8"
         },
     ],
