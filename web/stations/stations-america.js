@@ -24832,7 +24832,7 @@ var stations = {/*
         },
         {
             name: "89.1-HD3 The Tower",
-            logo: "stations/images-america/st_louis/89.1 KCLC-HD3.png",
+            logo: "stations/images-america/st_louis/89.1-HD3 The Tower.png",
             url: "https://ice25.securenetsystems.net/KCLC3"
         },
         {
@@ -43295,7 +43295,7 @@ var stations = {/*
         },
         {
             name: "Real Talk 107.3",
-            logo: "stations/images-america/st_louis/Real Talk 93.3.png",
+            logo: "stations/images-america/st_louis/Real Talk Network.png",
             url: "https://ice24.securenetsystems.net/KRTK"
         },
     ],
