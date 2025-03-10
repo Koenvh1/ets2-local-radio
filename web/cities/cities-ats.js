@@ -383,7 +383,7 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
-    "columbia": {
+    "columbia_jcmo": {
         name: "Columbia",
         name_english: "Columbia",
         code: "us-mo",
@@ -897,6 +897,12 @@ var country_properties = {
         name: "Jackson",
         name_english: "Jackson",
         code: "us-wy",
+        relative_radius: 0.7
+    },
+    "jefferson_city": {
+        name: "Jefferson City",
+        name_english: "Jefferson City",
+        code: "us-mo",
         relative_radius: 0.7
     },
     "john_day": {
@@ -2313,11 +2319,14 @@ var city_properties = {
     "college_station": {
         relative_whitenoise: 0.95
     },
-    "columbus": {
-        relative_whitenoise: 0.95
-    },
     "colorado_springs_pueblo": {
         relative_whitenoise: 0.85
+    },
+    "columbia_jcmo": {
+        relative_whitenoise: 0.85
+    },
+    "columbus": {
+        relative_whitenoise: 0.95
     },
     "colville": {
         relative_whitenoise: 0.95
@@ -2596,6 +2605,10 @@ var city_properties = {
     },
     "jackson": {
         relative_whitenoise: 0.85
+    },
+    "jefferson_city": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "john_day": {
         relative_whitenoise: 0.95
@@ -3872,6 +3885,14 @@ var cities = [
         "z": "528.353"
     },
     {
+        "gameName": "columbia_jcmo",
+        "realName": "Columbia",
+        "country": "columbia_jcmo",
+        "x": "17386.3",
+        "y": "125.087",
+        "z": "-138.205"
+    },
+    {
         "gameName": "columbus",
         "realName": "Columbus",
         "country": "columbus",
@@ -4670,6 +4691,14 @@ var cities = [
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
+    },
+    {
+        "gameName": "jefferson_city",
+        "realName": "Jefferson City",
+        "country": "columbia_jcmo",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "john_day",
@@ -10134,9 +10163,6 @@ var city_properties_c2c = {
     "cape_girardeau": {
         relative_whitenoise: 0.85
     },
-    "columbia": {
-        relative_whitenoise: 0.85
-    },
     "joplin": {
         relative_whitenoise: 0.95
     },
@@ -11239,14 +11265,6 @@ var cities_c2c = [
         "x": "29501.2",
         "y": "47.5692",
         "z": "10440.7"
-    },
-    {
-        "gameName": "columbia",
-        "realName": "Columbia",
-        "country": "columbia",
-        "x": "17386.3",
-        "y": "125.087",
-        "z": "-138.205"
     },
     {
         "gameName": "joplin",
