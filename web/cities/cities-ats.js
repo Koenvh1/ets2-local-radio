@@ -917,6 +917,12 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.7
     },
+    "joplin": {
+        name: "Joplin",
+        name_english: "Joplin",
+        code: "us-mo",
+        relative_radius: 0.7
+    },
     "jordan": {
         name: "Jordan",
         name_english: "Jordan",
@@ -1841,6 +1847,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.8
     },
+    "springfield_mo": {
+        name: "Springfield",
+        name_english: "Springfield",
+        code: "us-mo",
+        relative_radius: 0.7
+    },
     "st_george": {
         name: "St. George",
         name_english: "St. George",
@@ -2622,6 +2634,9 @@ var city_properties = {
     "jonesboro": {
         relative_whitenoise: 0.95
     },
+    "joplin": {
+        relative_whitenoise: 0.95
+    },
     "jordan": {
         relative_whitenoise: 0.85
     },
@@ -3126,6 +3141,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "spokane": {
+        relative_whitenoise: 0.85
+    },
+    "springfield_mo": {
         relative_whitenoise: 0.85
     },
     "st_george": {
@@ -4726,6 +4744,14 @@ var cities = [
         "z": "16592.9"
     },
     {
+        "gameName": "joplin",
+        "realName": "Joplin",
+        "country": "joplin",
+        "x": "6903.6",
+        "y": "130.968",
+        "z": "9488.4"
+    },
+    {
         "gameName": "jordan",
         "realName": "Jordan",
         "country": "katl",
@@ -6092,6 +6118,22 @@ var cities = [
         "x": "-81652.4",
         "y": "64.3417",
         "z": "-58561.8"
+    },
+    {
+        "gameName": "springfield_mo",
+        "realName": "Springfield",
+        "country": "springfield_mo",
+        "x": "12774.7",
+        "y": "112.742",
+        "z": "10257.9"
+    },
+    {
+        "gameName": "springfield_mo",
+        "realName": "Springfield",
+        "country": "harrison_khbz",
+        "x": "12774.7",
+        "y": "112.742",
+        "z": "10257.9"
     },
     {
         "gameName": "susanv",
@@ -9305,23 +9347,11 @@ var country_properties_c2c = {
         code: "us-mo",
         relative_radius: 0.8
     },
-    "joplin": {
-        name: "Joplin, MO",
-        name_english: "Joplin, MO",
-        code: "us-mo",
-        relative_radius: 0.7
-    },
     "rolla": {
         name: "rolla",
         name_english: "rolla",
         code: "us-mo",
         relative_radius: 0.9
-    },
-    "springfield_mo": {
-        name: "springfield_mo",
-        name_english: "springfield_mo",
-        code: "us-mo",
-        relative_radius: 0.7
     },
     "new_hampshire": {
         name: "new_hampshire",
@@ -10174,13 +10204,7 @@ var city_properties_c2c = {
     "cape_girardeau": {
         relative_whitenoise: 0.85
     },
-    "joplin": {
-        relative_whitenoise: 0.95
-    },
     "rolla": {
-        relative_whitenoise: 0.85
-    },
-    "springfield_mo": {
         relative_whitenoise: 0.85
     },
     "manchester_nh": {
@@ -11275,28 +11299,12 @@ var cities_c2c = [
         "z": "10440.7"
     },
     {
-        "gameName": "joplin",
-        "realName": "Joplin",
-        "country": "joplin",
-        "x": "6903.6",
-        "y": "130.968",
-        "z": "9488.4"
-    },
-    {
         "gameName": "rolla",
         "realName": "Rolla",
         "country": "rolla",
         "x": "18164.2",
         "y": "24.3027",
         "z": "6092.5"
-    },
-    {
-        "gameName": "springfield_mo",
-        "realName": "Springfield",
-        "country": "springfield_mo",
-        "x": "12774.7",
-        "y": "112.742",
-        "z": "10257.9"
     },
     {
         "gameName": "manchester_nh",

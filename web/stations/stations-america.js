@@ -8521,7 +8521,7 @@ var stations = {/*
         },
         {
             name: "KRMO 990",
-            logo: "stations/images-america/c2c/joplin_mo/KRMO 990.png",
+            logo: "stations/images-america/joplin/KRMO 990.png",
             url: "https://ice24.securenetsystems.net/KRMOAM"
         },
         {
@@ -10576,7 +10576,7 @@ var stations = {/*
     "harrison": [
         {
             name: "KSMU 91.1",
-            logo: "stations/images-america/c2c/springfield_mo/KSMU 91.1.png",
+            logo: "stations/images-america/springfield_mo/KSMU 91.1.png",
             url: "https://ksmu.streamguys1.com/ksmu3"
         },
         {
@@ -11993,6 +11993,173 @@ var stations = {/*
             name: "1490 KDRS",
             logo: "stations/images-america/jonesboro/iROCK 103.7.png",
             url: "https://ice23.securenetsystems.net/KDRSAM"
+        },
+    ],
+    "joplin": [
+        {
+            name: "KRPS 89.9",
+            logo: "stations/images-america/joplin/KRPS 89.9.png",
+            url: "https://s2.voscast.com:12109/stream"
+        },
+        {
+            name: "CSN Radio 90.3",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "K-LOVE 90.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KNEO 91.7",
+            logo: "stations/images-america/joplin/KNEO 91.7.png",
+            url: "https://ice41.securenetsystems.net/KNEO"
+        },
+        {
+            name: "Kissin 92.5",
+            logo: "stations/images-america/joplin/Kissin 92.5.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYNFMAAC_SC"
+        },
+        {
+            name: "Magic Mix 92.9",
+            logo: "stations/images-america/joplin/Magic Mix 92.9.png",
+            url: "https://ice42.securenetsystems.net/KQYX"
+        },
+        {
+            name: "93.3 The Eagle",
+            logo: "stations/images-america/fayetteville_ar/93.3 The Eagle.png",
+            url: "https://stream.revma.ihrhls.com/zc3450/hls.m3u8"
+        },
+        {
+            name: "Classic Hits 93.9",
+            logo: "stations/images-america/joplin/Classic Hits 93.9.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KJMKFMAAC_SC"
+        },
+        {
+            name: "95.1 Mike FM",
+            logo: "stations/images-america/joplin/95.1 Mike FM.png",
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KMXL"
+        },
+        {
+            name: "96.9 KKOW",
+            logo: "stations/images-america/joplin/96.9 KKOW.png",
+            url: "https://ice42.securenetsystems.net/KKOW"
+        },
+        {
+            name: "KKOW 97.5",
+            logo: "stations/images-america/joplin/KKOW.png",
+            url: "https://ice42.securenetsystems.net/KKOWAM"
+        },
+        {
+            name: "Big Dog 97.9",
+            logo: "stations/images-america/joplin/Big Dog 97.9.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXDGFMAAC_SC"
+        },
+        {
+            name: "KSMU 98.9",
+            logo: "stations/images-america/springfield_mo/KSMU 91.1.png",
+            url: "https://ksmu.streamguys1.com/ksmu3"
+        },
+        {
+            name: "99.7 The Bull",
+            logo: "stations/images-america/joplin/99.7 The Bull.png",
+            url: "https://ice42.securenetsystems.net/KBTN"
+        },
+        {
+            name: "FOX Sports 100.1",
+            logo: "stations/images-america/joplin/FOX Sports Joplin.png",
+            url: "https://ice42.securenetsystems.net/KSEK"
+        },
+        {
+            name: "Bott Radio 100.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "SOMO Sports Radio 101.3",
+            logo: "stations/images-america/joplin/SOMO Sports Radio.png",
+            url: "https://ice7.securenetsystems.net/WMBH"
+        },
+        {
+            name: "KIX 102.5",
+            logo: "stations/images-america/joplin/KIX 102.5.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIXQFMAAC_SC"
+        },
+        {
+            name: "102.9 KZRG",
+            logo: "stations/images-america/joplin/KZRG.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC_SC"
+        },
+        {
+            name: "103.5 BOB FM",
+            logo: "stations/images-america/joplin/103.5 BOB FM.png",
+            url: "https://ice42.securenetsystems.net/KWXD"
+        },
+        {
+            name: "The Rewind on 104.3",
+            logo: "stations/images-america/joplin/The Rewind on 104.3.png",
+            url: "https://ice42.securenetsystems.net/KCAR"
+        },
+        {
+            name: "Classic Rock 105.3",
+            logo: "stations/images-america/joplin/Classic Rock 105.3.png",
+            url: "https://ice42.securenetsystems.net/KMOQ"
+        },
+        {
+            name: "105.9 KZRG",
+            logo: "stations/images-america/joplin/KZRG.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC_SC"
+        },
+        {
+            name: "VCY America 106.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "Rock 107.1",
+            logo: "stations/images-america/joplin/Rock 107.1.png",
+            url: "https://ice42.securenetsystems.net/KJML"
+        },
+        {
+            name: "KGGF 690",
+            logo: "stations/images-america/enid/KGGF 690.png",
+            url: "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3"
+        },
+        {
+            name: "KKOW 860",
+            logo: "stations/images-america/joplin/KKOW.png",
+            url: "http://ice42.securenetsystems.net/KKOWAM"
+        },
+        {
+            name: "KRMO 990",
+            logo: "stations/images-america/joplin/KRMO 990.png",
+            url: "https://ice24.securenetsystems.net/KRMOAM"
+        },
+        {
+            name: "AM 1230 The Talker",
+            logo: "stations/images-america/joplin/AM 1230 The Talker.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZYMAMAAC_SC"
+        },
+        {
+            name: "1310 KZRG",
+            logo: "stations/images-america/joplin/KZRG.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC.aac"
+        },
+        {
+            name: "Thunder Country 1340",
+            logo: "stations/images-america/joplin/Thunder Country 1340.png",
+            url: "http://ice42.securenetsystems.net/KSEKAM"
+        },
+        {
+            name: "FOX Sports 1420",
+            logo: "stations/images-america/joplin/FOX Sports Joplin.png",
+            url: "http://ice42.securenetsystems.net/KSEK"
+        },
+        {
+            name: "SOMO Sports Radio 1560",
+            logo: "stations/images-america/joplin/SOMO Sports Radio.png",
+            url: "http://ice7.securenetsystems.net/WMBH"
         },
     ],
     "junction_city": [
@@ -24190,6 +24357,213 @@ var stations = {/*
             name: "1230 KSBN",
             logo: "stations/images-america/spokane/1230 KSBN.png",
             url: "https://streaming.live365.com/a47252"
+        },
+    ],
+    "springfield_mo": [
+        {
+            name: "The Wind 88.3",
+            logo: "stations/images-america/springfield_mo/The Wind 88.3.png",
+            url: "https://rtn.cdnstream1.com/2571_96.aac"
+        },
+        {
+            name: "JOY Worship 88.3-HD2",
+            logo: "stations/images-america/0_general_logos/JOY Worship.png",
+            url: "https://rtn.cdnstream1.com/2581_96.aac"
+        },
+        {
+            name: "LF Radio 88.3-HD3",
+            logo: "stations/images-america/0_general_logos/LF Radio.png",
+            url: "https://rtn.cdnstream1.com/2582_96.aac"
+        },
+        {
+            name: "CSN Radio 88.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "89.1 KWFC",
+            logo: "stations/images-america/springfield_mo/89.1 KWFC.png",
+            url: "https://rtn.cdnstream1.com/2572_96.aac"
+        },
+        {
+            name: "Bott Radio 90.1",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "KSMU 91.1",
+            logo: "stations/images-america/springfield_mo/KSMU 91.1.png",
+            url: "https://ksmu.streamguys1.com/ksmu3"
+        },
+        {
+            name: "JazzWorks 91.1-HD2",
+            logo: "stations/images-america/0_general_logos/JazzWorks.png",
+            url: "https://ksmu.streamguys1.com/ksmu4"
+        },
+        {
+            name: "SonLife Radio 91.5",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
+        },
+        {
+            name: "KICK 92.3",
+            logo: "stations/images-america/springfield_mo/KICK 92.3.png",
+            url: "http://ice7.securenetsystems.net/KADIAM"
+        },
+        {
+            name: "92.9 The Beat",
+            logo: "stations/images-america/springfield_mo/92.9 The Beat.png",
+            url: "https://live.amperwave.net/direct/midwestfamily-kospfmaac-ibc3?source=radiobox"
+        },
+        {
+            name: "93.3 KWTO",
+            logo: "stations/images-america/springfield_mo/KWTO.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7679_48k.aac"
+        },
+        {
+            name: "Oasis Radio 93.7",
+            logo: "stations/images-america/0_general_logos/Oasis Radio.png",
+            url: "https://oasis.streamguys1.com/live-aac"
+        },
+        {
+            name: "94.7 KTTS",
+            logo: "stations/images-america/springfield_mo/94.7 KTTS.png",
+            url: "https://stream.rcs.revma.com/g7zrtzafz7uvv"
+        },
+        {
+            name: "alice 95.5",
+            logo: "stations/images-america/springfield_mo/Alice 95.5.png",
+            url: "https://stream.revma.ihrhls.com/zc1269/hls.m3u8"
+        },
+        {
+            name: "Power 96.5",
+            logo: "stations/images-america/springfield_mo/Power 96.5.png",
+            url: "https://stream.rcs.revma.com/cyuvzp8ez7uvv"
+        },
+        {
+            name: "96.9 The Jock",
+            logo: "stations/images-america/springfield_mo/96.9 The Jock.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7680_48k.aac"
+        },
+        {
+            name: "US97",
+            logo: "stations/images-america/springfield_mo/US97.png",
+            url: "https://stream.revma.ihrhls.com/zc1273/hls.m3u8"
+        },
+        {
+            name: "KDRU 98.1",
+            logo: "stations/images-america/springfield_mo/KDRU 98.1.png",
+            url: "http://n07.radiojar.com/wvs2ku1dfnwtv.mp3"
+        },
+        {
+            name: "98.7 The Dove",
+            logo: "stations/images-america/springfield_mo/98.7 The Dove.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7677_48k.aac"
+        },
+        {
+            name: "99.5 KADI",
+            logo: "stations/images-america/springfield_mo/99.5 KADI.png",
+            url: "https://ice6.securenetsystems.net/KADIFM"
+        },
+        {
+            name: "100.5 The Wolf",
+            logo: "stations/images-america/springfield_mo/100.5 The Wolf.png",
+            url: "https://stream.revma.ihrhls.com/zc1265/hls.m3u8"
+        },
+        {
+            name: "Real Country 101.3",
+            logo: "stations/images-america/springfield_mo/Real Country 101.3.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7678_48k.aac"
+        },
+        {
+            name: "Q102.1",
+            logo: "stations/images-america/springfield_mo/Q102.1.png",
+            url: "https://live.amperwave.net/direct/midwestfamily-kqrafmaac-ibc3?source=radiobox"
+        },
+        {
+            name: "KWPQ 103.3",
+            logo: "stations/images-america/springfield_mo/KWPQ 103.3.png",
+            url: "http://stream.radiojar.com/1nbvpa75e78uv"
+        },
+        {
+            name: "KJEL 103.7",
+            logo: "stations/images-america/springfield_mo/KJEL 103.7.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kjelfmaac-ibc2"
+        },
+        {
+            name: "104.1 KSGF",
+            logo: "stations/images-america/springfield_mo/104.1 KSGF.png",
+            url: "https://stream.rcs.revma.com/wf8aqp7ez7uvv"
+        },
+        {
+            name: "104.7 The Cave",
+            logo: "stations/images-america/springfield_mo/104.7 The Cave.png",
+            url: "https://live.amperwave.net/direct/midwestfamily-kklhfmaac-ibc3?source=radiobox"
+        },
+        {
+            name: "105.1 The Bull",
+            logo: "stations/images-america/springfield_mo/105.1 The Bull.png",
+            url: "https://live.amperwave.net/direct/midwestfamily-komgfmaac-ibc3?source=radiobox"
+        },
+        {
+            name: "105.9 KGBX",
+            logo: "stations/images-america/springfield_mo/105.9 KGBX.png",
+            url: "https://stream.revma.ihrhls.com/zc1261/hls.m3u8"
+        },
+        {
+            name: "Classic Rock 106.7",
+            logo: "stations/images-america/springfield_mo/Classic Rock 106.7.png",
+            url: "https://stream.rcs.revma.com/c6cu8w1ez7uvv"
+        },
+        {
+            name: "107.5 BOB FM",
+            logo: "stations/images-america/springfield_mo/107.5 BOB FM.png",
+            url: "https://ice42.securenetsystems.net/KRZDAM"
+        },
+        {
+            name: "VCY America 107.7",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "560 KWTO",
+            logo: "stations/images-america/springfield_mo/KWTO.png",
+            url: "http://84.32.44.251/index.php?u=http://ais-sa1.streamon.fm/7679_48k.aac"
+        },
+        {
+            name: "KSWM 940",
+            logo: "stations/images-america/springfield_mo/KSWM 940.png",
+            url: "https://ice24.securenetsystems.net/KSWMAM"
+        },
+        {
+            name: "1060 The Jock",
+            logo: "stations/images-america/springfield_mo/96.9 The Jock.png",
+            url: "http://84.32.44.251/index.php?u=http://ais-sa1.streamon.fm/7680_48k.aac"
+        },
+        {
+            name: "1200 KYOO",
+            logo: "stations/images-america/springfield_mo/1200 KYOO.png",
+            url: "https://stream.radiojar.com/4te6whtm268uv"
+        },
+        {
+            name: "1260 KSGF",
+            logo: "stations/images-america/springfield_mo/104.1 KSGF.png",
+            url: "http://stream.rcs.revma.com/wf8aqp7ez7uvv"
+        },
+        {
+            name: "KICK 1340",
+            logo: "stations/images-america/springfield_mo/KICK 92.3.png",
+            url: "https://ice7.securenetsystems.net/KADIAM"
+        },
+        {
+            name: "FOX Sports 1400",
+            logo: "stations/images-america/springfield_mo/FOX Sports 1400.png",
+            url: "https://stream.revma.ihrhls.com/zc6763/hls.m3u8"
+        },
+        {
+            name: "1550 KRZD",
+            logo: "stations/images-america/springfield_mo/107.5 BOB FM.png",
+            url: "http://ice42.securenetsystems.net/KRZDAM"
         },
     ],
 	"steamboat_sp": [
@@ -43070,168 +43444,6 @@ var stations = {/*
             url: "https://ice23.securenetsystems.net/KGIR"
         },
     ],
-    "joplin": [
-        {
-            name: "KRPS 89.9",
-            logo: "stations/images-america/c2c/joplin_mo/KRPS 89.9.png",
-            url: "https://s2.voscast.com:12109/stream"
-        },
-        {
-            name: "K-LOVE 90.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "KNEO 91.7",
-            logo: "stations/images-america/c2c/joplin_mo/KNEO 91.7.png",
-            url: "https://ice41.securenetsystems.net/KNEO"
-        },
-        {
-            name: "Kissin 92.5",
-            logo: "stations/images-america/c2c/joplin_mo/Kissin 92.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYNFMAAC_SC"
-        },
-        {
-            name: "Magic Mix 92.9",
-            logo: "stations/images-america/c2c/joplin_mo/Magic Mix 92.9.png",
-            url: "https://ice42.securenetsystems.net/KQYX"
-        },
-        {
-            name: "Classic Hits 93.9",
-            logo: "stations/images-america/c2c/joplin_mo/Classic Hits 93.9.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KJMKFMAAC_SC"
-        },
-        {
-            name: "95.1 Mike FM",
-            logo: "stations/images-america/c2c/joplin_mo/95.1 Mike FM.png",
-            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KMXL"
-        },
-        {
-            name: "96.9 KKOW",
-            logo: "stations/images-america/c2c/joplin_mo/96.9 KKOW.png",
-            url: "https://ice42.securenetsystems.net/KKOW"
-        },
-        {
-            name: "KKOW 97.5",
-            logo: "stations/images-america/c2c/joplin_mo/KKOW.png",
-            url: "https://ice42.securenetsystems.net/KKOWAM"
-        },
-        {
-            name: "Big Dog 97.9",
-            logo: "stations/images-america/c2c/joplin_mo/Big Dog 97.9.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXDGFMAAC_SC"
-        },
-        {
-            name: "KSMU 98.9",
-            logo: "stations/images-america/c2c/springfield_mo/KSMU 91.1.png",
-            url: "https://ksmu.streamguys1.com/ksmu3"
-        },
-        {
-            name: "99.7 The Bull",
-            logo: "stations/images-america/c2c/joplin_mo/99.7 The Bull.png",
-            url: "https://ice42.securenetsystems.net/KBTN"
-        },
-        {
-            name: "FOX Sports 100.1",
-            logo: "stations/images-america/c2c/joplin_mo/FOX Sports Joplin.png",
-            url: "https://ice42.securenetsystems.net/KSEK"
-        },
-        {
-            name: "Bott Radio 100.5",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
-        },
-        {
-            name: "SOMO Sports Radio 101.3",
-            logo: "stations/images-america/c2c/joplin_mo/SOMO Sports Radio.png",
-            url: "https://ice7.securenetsystems.net/WMBH"
-        },
-        {
-            name: "KIX 102.5",
-            logo: "stations/images-america/c2c/joplin_mo/KIX 102.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIXQFMAAC_SC"
-        },
-        {
-            name: "102.9 KZRG",
-            logo: "stations/images-america/c2c/joplin_mo/102.9 KZRG.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC_SC"
-        },
-        {
-            name: "103.5 BOB FM",
-            logo: "stations/images-america/c2c/joplin_mo/103.5 BOB FM.png",
-            url: "https://ice42.securenetsystems.net/KWXD"
-        },
-        {
-            name: "The Rewind on 104.3",
-            logo: "stations/images-america/c2c/joplin_mo/The Rewind on 104.3.png",
-            url: "https://ice42.securenetsystems.net/KCAR"
-        },
-        {
-            name: "Classic Rock 105.3",
-            logo: "stations/images-america/c2c/joplin_mo/Classic Rock 105.3.png",
-            url: "https://ice42.securenetsystems.net/KMOQ"
-        },
-        {
-            name: "VCY America 106.3",
-            logo: "stations/images-america/0_general_logos/VCY America.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
-        },
-        {
-            name: "Rock 107.1",
-            logo: "stations/images-america/c2c/joplin_mo/Rock 107.1.png",
-            url: "https://ice42.securenetsystems.net/KJML"
-        },
-        {
-            name: "107.9 Thunder",
-            logo: "stations/images-america/c2c/joplin_mo/107.9 Thunder.png",
-            url: "https://ice42.securenetsystems.net/KSEKAM"
-        },
-        {
-            name: "KGGF 690",
-            logo: "stations/images-america/enid/KGGF 690.png",
-            url: "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3"
-        },
-        {
-            name: "KKOW 860",
-            logo: "stations/images-america/c2c/joplin_mo/KKOW.png",
-            url: "http://ice42.securenetsystems.net/KKOWAM"
-        },
-        {
-            name: "KVIS 910",
-            logo: "stations/images-america/c2c/joplin_mo/KVIS 910.png",
-            url: "https://ic1.sslstream.com/kvis-am"
-        },
-        {
-            name: "KRMO 990",
-            logo: "stations/images-america/c2c/joplin_mo/KRMO 990.png",
-            url: "https://ice24.securenetsystems.net/KRMOAM"
-        },
-        {
-            name: "AM 1230 The Talker",
-            logo: "stations/images-america/c2c/joplin_mo/AM 1230 The Talker.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZYMAMAAC_SC"
-        },
-        {
-            name: "1310 KZRG",
-            logo: "stations/images-america/c2c/joplin_mo/102.9 KZRG.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZRGAMAAC.aac"
-        },
-        {
-            name: "1340 Thunder",
-            logo: "stations/images-america/c2c/joplin_mo/107.9 Thunder.png",
-            url: "http://ice42.securenetsystems.net/KSEKAM"
-        },
-        {
-            name: "FOX Sports 1420",
-            logo: "stations/images-america/c2c/joplin_mo/FOX Sports Joplin.png",
-            url: "http://ice42.securenetsystems.net/KSEK"
-        },
-        {
-            name: "SOMO Sports Radio 1560",
-            logo: "stations/images-america/c2c/joplin_mo/SOMO Sports Radio.png",
-            url: "http://ice7.securenetsystems.net/WMBH"
-        },
-    ],
     "rolla": [
         {
             name: "KMST 88.5",
@@ -43287,113 +43499,6 @@ var stations = {/*
             name: "Real Talk 107.3",
             logo: "stations/images-america/st_louis/Real Talk Network.png",
             url: "https://ice24.securenetsystems.net/KRTK"
-        },
-    ],
-    "springfield_mo": [
-        {
-            name: "KSMU 91.1",
-            logo: "stations/images-america/c2c/springfield_mo/KSMU 91.1.png",
-            url: "https://ksmu.streamguys1.com/ksmu3"
-        },
-        {
-            name: "JazzWorks 91.1-HD2",
-            logo: "stations/images-america/0_general_logos/JazzWorks.png",
-            url: "https://ksmu.streamguys1.com/ksmu4"
-        },
-        {
-            name: "KICK 92.3",
-            logo: "stations/images-america/c2c/springfield_mo/KICK 92.3.png",
-            url: "http://ice7.securenetsystems.net/KADIAM"
-        },
-        {
-            name: "92.9 The Beat",
-            logo: "stations/images-america/c2c/springfield_mo/92.9 The Beat.png",
-            url: "https://live.amperwave.net/direct/midwestfamily-kospfmaac-ibc3?source=radiobox"
-        },
-        {
-            name: "KTTS 94.7",
-            logo: "stations/images-america/c2c/springfield_mo/KTTS 94.7.png",
-            url: "https://stream.rcs.revma.com/g7zrtzafz7uvv"
-        },
-        {
-            name: "Alice 95.5",
-            logo: "stations/images-america/c2c/springfield_mo/Alice 95.5.png",
-            url: "https://stream.revma.ihrhls.com/zc1269/hls.m3u8"
-        },
-        {
-            name: "Power 96.5",
-            logo: "stations/images-america/c2c/springfield_mo/Power 96.5.png",
-            url: "https://stream.rcs.revma.com/cyuvzp8ez7uvv"
-        },
-        {
-            name: "96.9 The Jock",
-            logo: "stations/images-america/c2c/springfield_mo/96.9 The Jock.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7680_48k.aac"
-        },
-        {
-            name: "US97",
-            logo: "stations/images-america/c2c/springfield_mo/US97.png",
-            url: "https://stream.revma.ihrhls.com/zc1273/hls.m3u8"
-        },
-        {
-            name: "KDRU 98.1",
-            logo: "stations/images-america/c2c/springfield_mo/KDRU 98.1.png",
-            url: "http://n07.radiojar.com/wvs2ku1dfnwtv.mp3"
-        },
-        {
-            name: "100.5 The Wolf",
-            logo: "stations/images-america/c2c/springfield_mo/100.5 The Wolf.png",
-            url: "https://stream.revma.ihrhls.com/zc1265/hls.m3u8"
-        },
-        {
-            name: "Real Country 101.3",
-            logo: "stations/images-america/c2c/springfield_mo/Real Country 101.3.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7678_48k.aac"
-        },
-        {
-            name: "Q102.1",
-            logo: "stations/images-america/c2c/springfield_mo/Q102.1.png",
-            url: "https://live.amperwave.net/direct/midwestfamily-kqrafmaac-ibc3?source=radiobox"
-        },
-        {
-            name: "KWPQ 103.3",
-            logo: "stations/images-america/c2c/springfield_mo/KWPQ 103.3.png",
-            url: "http://stream.radiojar.com/1nbvpa75e78uv"
-        },
-        {
-            name: "104.1 KSGF",
-            logo: "stations/images-america/c2c/springfield_mo/104.1 KSGF.png",
-            url: "https://stream.rcs.revma.com/wf8aqp7ez7uvv"
-        },
-        {
-            name: "104.7 The Cave",
-            logo: "stations/images-america/c2c/springfield_mo/104.7 The Cave.png",
-            url: "https://live.amperwave.net/direct/midwestfamily-kklhfmaac-ibc3?source=radiobox"
-        },
-        {
-            name: "105.1 The Bull",
-            logo: "stations/images-america/c2c/springfield_mo/105.1 The Bull.png",
-            url: "https://live.amperwave.net/direct/midwestfamily-komgfmaac-ibc3?source=radiobox"
-        },
-        {
-            name: "105.9 KGBX",
-            logo: "stations/images-america/c2c/springfield_mo/105.9 KGBX.png",
-            url: "https://stream.revma.ihrhls.com/zc1261/hls.m3u8"
-        },
-        {
-            name: "Classic Rock 106.7",
-            logo: "stations/images-america/c2c/springfield_mo/Classic Rock 106.7.png",
-            url: "https://stream.rcs.revma.com/c6cu8w1ez7uvv"
-        },
-        {
-            name: "107.5 BOB FM",
-            logo: "stations/images-america/c2c/springfield_mo/107.5 BOB FM.png",
-            url: "https://ice42.securenetsystems.net/KRZDAM"
-        },
-        {
-            name: "FOX Sports 1400",
-            logo: "stations/images-america/c2c/springfield_mo/FOX Sports 1400.png",
-            url: "https://stream.revma.ihrhls.com/zc6763/hls.m3u8"
         },
     ],
     "manchester_nh": [
