@@ -16984,11 +16984,6 @@ var stations = {/*
             url: "https://s6.phx.icastcenter.com:9033/stream"
         },
         {
-            name: "560 KSFO",
-            logo: "stations/images-america/san_francisco/560 KSFO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
-        },
-        {
             name: "580 KMJ",
             logo: "stations/images-america/fresno/105.9 KMJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC_SC"
@@ -17019,9 +17014,9 @@ var stations = {/*
             url: "https://ais-sa8.cdnstream1.com/pr2j72c8m52/ckppjkuzdj6"
         },
         {
-            name: "810 The Spread",
-            logo: "stations/images-america/san_francisco/810 The Spread.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
+            name: "810 KSFO",
+            logo: "stations/images-america/san_francisco/810 KSFO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
             name: "860 AM The Answer",
@@ -20630,6 +20625,88 @@ var stations = {/*
             url: "https://ice10.securenetsystems.net/KRKK"
         },
     ],
+    "rolla": [
+        {
+            name: "88.5 KMST",
+            logo: "stations/images-america/st_louis/STLPR.png",
+            url: "https://kwmu1-ice.streamguys1.com/kwmu1"
+        },
+        {
+            name: "KMNR 89.7",
+            logo: "stations/images-america/rolla/KMNR 89.7.png",
+            url: "https://boombox.kmnr.org/webstream.mp3"
+        },
+        {
+            name: "Bott Radio 90.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "KKID 92.9",
+            logo: "stations/images-america/rolla/KKID 92.9.png",
+            url: "http://nap.casthost.net:8440/stream"
+        },
+        {
+            name: "95.3 KXMO",
+            logo: "stations/images-america/rolla/95.3 KXMO.png",
+            url: "https://ice23.securenetsystems.net/KXMO"
+        },
+        {
+            name: "Spirit FM 97.1",
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://nwm-live.streamguys1.com/kcvo-aac"
+        },
+        {
+            name: "98.9 The Mix",
+            logo: "stations/images-america/rolla/98.9 The Mix.png",
+            url: "https://stream.radiojar.com/dbt5au3sq68uv"
+        },
+        {
+            name: "99.7 KTTR",
+            logo: "stations/images-america/rolla/99.7 KTTR.png",
+            url: "https://ice7.securenetsystems.net/KTTR"
+        },
+        {
+            name: "Footprint Radio 101.7",
+            logo: "stations/images-america/rolla/Footprint Radio 101.7.png",
+            url: "https://cast6.my-control-panel.com/proxy/footprint/stream"
+        },
+        {
+            name: "103.1 Jack FM",
+            logo: "stations/images-america/rolla/103.1 Jack FM.png",
+            url: "https://ice24.securenetsystems.net/KDAA"
+        },
+        {
+            name: "Sunny 104.5",
+            logo: "stations/images-america/rolla/Sunny 104.5.png",
+            url: "https://stream.radiojar.com/20p7zhhms0hvv"
+        },
+        {
+            name: "ESPN 104.9",
+            logo: "stations/images-america/rolla/ESPN 104.9.png",
+            url: "https://ice23.securenetsystems.net/ESPN1049"
+        },
+        {
+            name: "105.3 KZNN",
+            logo: "stations/images-america/rolla/105.3 KZNN.png",
+            url: "https://ice5.securenetsystems.net/KZNNFM"
+        },
+        {
+            name: "Bott Radio 106.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "https://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "Real Talk 107.3",
+            logo: "stations/images-america/st_louis/Real Talk Network.png",
+            url: "https://ice24.securenetsystems.net/KRTK"
+        },
+        {
+            name: "ESPN 1490",
+            logo: "stations/images-america/rolla/ESPN 104.9.png",
+            url: "http://ice23.securenetsystems.net/ESPN1049"
+        },
+    ],
     "roswell": [
         {
             name: "Relevant Radio 88.5",
@@ -21371,11 +21448,6 @@ var stations = {/*
             url: "https://s9.voscast.com:9585/xstream"
         },
         {
-            name: "560 KSFO",
-            logo: "stations/images-america/san_francisco/560 KSFO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
-        },
-        {
             name: "680 KNBR",
             logo: "stations/images-america/san_francisco/104.5 KNBR.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNBRAMAAC_SC"
@@ -21386,9 +21458,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
-            name: "810 The Spread",
-            logo: "stations/images-america/san_francisco/810 The Spread.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
+            name: "810 KSFO",
+            logo: "stations/images-america/san_francisco/810 KSFO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
             name: "860 AM The Answer",
@@ -22475,11 +22547,6 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/sonoma-khthhd2aac-ibc"
         },
         {
-            name: "560 KSFO",
-            logo: "stations/images-america/san_francisco/560 KSFO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
-        },
-        {
             name: "650 KSTE",
             logo: "stations/images-america/sacramento/650 KSTE.png",
             url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
@@ -22495,9 +22562,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
-            name: "810 The Spread",
-            logo: "stations/images-america/san_francisco/810 The Spread.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
+            name: "810 KSFO",
+            logo: "stations/images-america/san_francisco/810 KSFO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
             name: "860 AM The Answer",
@@ -23123,19 +23190,14 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSANFMAAC_SC"
         },
         {
-            name: "560 KSFO",
-            logo: "stations/images-america/san_francisco/560 KSFO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
-        },
-        {
             name: "Family Radio 610",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
         },
         {
-            name: "810 The Spread",
-            logo: "stations/images-america/san_francisco/810 The Spread.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
+            name: "810 KSFO",
+            logo: "stations/images-america/san_francisco/810 KSFO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
             name: "860 AM The Answer",
@@ -27047,11 +27109,6 @@ var stations = {/*
             url: "https://us9.maindigitalstream.com/ssl/KQPM"
         },
         {
-            name: "560 KSFO",
-            logo: "stations/images-america/san_francisco/560 KSFO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
-        },
-        {
             name: "650 KSTE",
             logo: "stations/images-america/sacramento/650 KSTE.png",
             url: "https://stream.revma.ihrhls.com/zc229/hls.m3u8"
@@ -27067,9 +27124,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
-            name: "810 The Spread",
-            logo: "stations/images-america/san_francisco/810 The Spread.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGOAMAAC_SC"
+            name: "810 KSFO",
+            logo: "stations/images-america/san_francisco/810 KSFO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAMAAC_SC"
         },
         {
             name: "860 AM The Answer",
@@ -43442,63 +43499,6 @@ var stations = {/*
             name: "1220 ESPN",
             logo: "stations/images-america/c2c/cape_girardeau_mo/1220 ESPN.png",
             url: "https://ice23.securenetsystems.net/KGIR"
-        },
-    ],
-    "rolla": [
-        {
-            name: "KMST 88.5",
-            logo: "stations/images-america/st_louis/STLPR.png",
-            url: "https://kwmu1-ice.streamguys1.com/kwmu1"
-        },
-        {
-            name: "KMNR 89.7",
-            logo: "stations/images-america/c2c/rolla_mo/KMNR 89.7.png",
-            url: "https://boombox.kmnr.org/webstream.mp3"
-        },
-        {
-            name: "Bott Radio 90.5",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
-        },
-        {
-            name: "KKID 92.9",
-            logo: "stations/images-america/c2c/rolla_mo/KKID 92.9.png",
-            url: "http://107.181.227.250:8104/stream"
-        },
-        {
-            name: "95.3 KXMO",
-            logo: "stations/images-america/c2c/rolla_mo/95.3 KXMO.png",
-            url: "https://ice23.securenetsystems.net/KXMO"
-        },
-        {
-            name: "98.9 The Mix",
-            logo: "stations/images-america/c2c/rolla_mo/98.9 The Mix.png",
-            url: "https://stream.radiojar.com/dbt5au3sq68uv"
-        },
-        {
-            name: "99.7 KTTR",
-            logo: "stations/images-america/c2c/rolla_mo/99.7 KTTR.png",
-            url: "https://ice7.securenetsystems.net/KTTR"
-        },
-        {
-            name: "103.1 Jack FM",
-            logo: "stations/images-america/c2c/rolla_mo/103.1 Jack FM.png",
-            url: "https://ice24.securenetsystems.net/KDAA"
-        },
-        {
-            name: "ESPN 104.9",
-            logo: "stations/images-america/c2c/rolla_mo/ESPN 104.9.png",
-            url: "https://ice23.securenetsystems.net/ESPN1049"
-        },
-        {
-            name: "105.3 KZNN",
-            logo: "stations/images-america/c2c/rolla_mo/105.3 KZNN.png",
-            url: "https://ice5.securenetsystems.net/KZNNFM"
-        },
-        {
-            name: "Real Talk 107.3",
-            logo: "stations/images-america/st_louis/Real Talk Network.png",
-            url: "https://ice24.securenetsystems.net/KRTK"
         },
     ],
     "manchester_nh": [

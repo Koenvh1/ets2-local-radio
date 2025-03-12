@@ -1613,6 +1613,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.7
     },
+    "rolla": {
+        name: "rolla",
+        name_english: "rolla",
+        code: "us-mo",
+        relative_radius: 0.9
+    },
     "roswell": {
         name: "Roswell",
         name_english: "Roswell",
@@ -3013,6 +3019,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "rock_springs": {
+        relative_whitenoise: 0.85
+    },
+    "rolla": {
         relative_whitenoise: 0.85
     },
     "roswell": {
@@ -5790,6 +5799,14 @@ var cities = [
         "x": "-53904.7",
         "y": "152.172",
         "z": "-18853.2"
+    },
+    {
+        "gameName": "rolla",
+        "realName": "Rolla",
+        "country": "rolla",
+        "x": "18164.2",
+        "y": "24.3027",
+        "z": "6092.5"
     },
     {
         "gameName": "roswell",
@@ -9347,12 +9364,6 @@ var country_properties_c2c = {
         code: "us-mo",
         relative_radius: 0.8
     },
-    "rolla": {
-        name: "rolla",
-        name_english: "rolla",
-        code: "us-mo",
-        relative_radius: 0.9
-    },
     "new_hampshire": {
         name: "new_hampshire",
         name_english: "new_hampshire",
@@ -10202,9 +10213,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "cape_girardeau": {
-        relative_whitenoise: 0.85
-    },
-    "rolla": {
         relative_whitenoise: 0.85
     },
     "manchester_nh": {
@@ -11297,14 +11305,6 @@ var cities_c2c = [
         "x": "29501.2",
         "y": "47.5692",
         "z": "10440.7"
-    },
-    {
-        "gameName": "rolla",
-        "realName": "Rolla",
-        "country": "rolla",
-        "x": "18164.2",
-        "y": "24.3027",
-        "z": "6092.5"
     },
     {
         "gameName": "manchester_nh",
