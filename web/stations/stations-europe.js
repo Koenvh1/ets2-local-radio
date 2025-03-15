@@ -5892,42 +5892,42 @@ var stations = {/*
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=absoluteclassicrockhigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=coolfm-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=coolfm-aac"
         },
         {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=downtown-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=downtown-aac"
         },
         {
             name: "Downtown Country",
             logo: "stations/images-europe/nireland/Downtown Country.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=downtowncountry-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=downtowncountry-aac"
         },
         {
             name: "Hits Radio",
             logo: "stations/images-europe/uk/Hits Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=hits-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/uk/Hits Radio Pride.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=hitsradiopride-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=net2national-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicsoul-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "U105",
@@ -7459,7 +7459,7 @@ var stations = {/*
         {
             name: "GRRIF",
             logo: "stations/images-europe/switzerland-fr/GRRIF.png",
-            url: "http://204.93.186.205/index.php?u=https://grrif.ice.infomaniak.ch/grrif-128.aac"
+            url: "http://84.32.44.251/index.php?u=https://grrif.ice.infomaniak.ch/grrif-128.aac"
         },
         {
             name: "IP music",
@@ -7974,27 +7974,27 @@ var stations = {/*
         {
             name: "Absolute Radio",
             logo: "stations/images-europe/uk/Absolute Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=absoluteradiohigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=absoluteradiohigh-aac"
         },
         {
             name: "Absolute 80s",
             logo: "stations/images-europe/uk/Absolute 80s.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=absolute80shigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=absolute80shigh-aac"
         },
         {
             name: "Absolute 90s",
             logo: "stations/images-europe/uk/Absolute 90s.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=absolute90shigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=absolute90shigh-aac"
         },
         {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/uk/Absolute Classic Rock.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=absoluteclassicrockhigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=absoluteclassicrockhigh-aac"
         },
         {
             name: "Absolute Country",
             logo: "stations/images-europe/uk/Absolute Country.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=absolutecountryhigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=absolutecountryhigh-aac"
         },
         {
             name: "BFBS UK",
@@ -8054,12 +8054,12 @@ var stations = {/*
         {
             name: "Greatest Hits Radio",
             logo: "stations/images-europe/uk/Greatest Hits Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=net2national-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=net2national-aac"
         },
         {
             name: "Greatest Hits Radio 60s",
             logo: "stations/images-europe/uk/Greatest Hits Radio 60s.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=ghr60s-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=ghr60s-aac"
         },
         {
             name: "Gold Radio",
@@ -8104,42 +8104,42 @@ var stations = {/*
         {
             name: "Hits Radio",
             logo: "stations/images-europe/uk/Hits Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=hits-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=hits-aac"
         },
         {
             name: "Hits Radio Chilled",
             logo: "stations/images-europe/uk/Hits Radio Chilled.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicchilled-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=magicchilled-aac"
         },
         {
             name: "Hits Radio Pride",
             logo: "stations/images-europe/uk/Hits Radio Pride.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=hitsradiopride-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=hitsradiopride-aac"
         },
         {
             name: "Jazz FM",
             logo: "stations/images-europe/uk/Jazz FM.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=jazzhigh-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=jazzhigh-aac"
         },
         {
             name: "Kerrang! Radio",
             logo: "stations/images-europe/uk/Kerrang! Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=kerrang-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=kerrang-aac"
         },
         {
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=kissnational-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=kissnational-aac"
         },
         {
             name: "KISSTORY",
             logo: "stations/images-europe/uk/Kisstory.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=kisstory-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=kisstory-aac"
         },
         {
             name: "KISSTORY R&B",
             logo: "stations/images-europe/uk/KISSTORY R&B.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=kisstoryrb-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=kisstoryrb-aac"
         },
         {
             name: "LBC",
@@ -8154,32 +8154,32 @@ var stations = {/*
         {
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicnational-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=magicnational-aac"
         },
         {
             name: "Magic Classical",
             logo: "stations/images-europe/uk/Magic Classical.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=scala-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=scala-aac"
         },
         {
             name: "Magic at the Musicals",
             logo: "stations/images-europe/uk/Magic at the Musicals.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicmusicals-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=magicmusicals-aac"
         },
         {
             name: "Magic Mellow",
             logo: "stations/images-europe/uk/Magic Mellow.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicmellow-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=magicmellow-aac"
         },
         {
             name: "Magic Soul",
             logo: "stations/images-europe/uk/Magic Soul.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=magicsoul-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=magicsoul-aac"
         },
         {
             name: "Planet Rock",
             logo: "stations/images-europe/uk/Planet Rock.png",
-            url: "http://204.93.186.205/radiofeeds.php?station=planetrock-aac"
+            url: "http://84.32.44.251/radiofeeds.php?station=planetrock-aac"
         },
         {
             name: "Premier Christian Radio",

@@ -287,6 +287,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.5
     },
+    "cape_girardeau": {
+        name: "Cape Girardeau",
+        name_english: "Cape Girardeau",
+        code: "us-mo",
+        relative_radius: 0.8
+    },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
         name_english: "Carlsbad (NM)",
@@ -1499,6 +1505,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.8
     },
+    "poplar_bluff": {
+        name: "Poplar Bluff",
+        name_english: "Poplar Bluff",
+        code: "us-mo",
+        relative_radius: 0.6
+    },
     "port_angeles": {
         name: "Port Angeles",
         name_english: "Port Angeles",
@@ -2292,6 +2304,9 @@ var city_properties = {
     "canadian": {
         relative_whitenoise: 0.95
     },
+    "cape_girardeau": {
+        relative_whitenoise: 0.85
+    },
     "carlsbad_nm": {
         relative_whitenoise: 0.95
     },
@@ -2958,6 +2973,9 @@ var city_properties = {
     "pocatello": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.85
+    },
+    "poplar_bluff": {
+        relative_whitenoise: 0.95
     },
     "port_angeles": {
         relative_whitenoise: 0.85
@@ -3783,6 +3801,14 @@ var cities = [
         "x": "-20100.1",
         "y": "57.5976",
         "z": "16426.2"
+    },
+    {
+        "gameName": "cape_girardeau",
+        "realName": "Cape Girardeau",
+        "country": "cape_girardeau",
+        "x": "29501.2",
+        "y": "47.5692",
+        "z": "10440.7"
     },
     {
         "gameName": "carlsbad_nm",
@@ -5623,6 +5649,14 @@ var cities = [
         "x": "-68356.2",
         "y": "81.6259",
         "z": "-27970.9"
+    },
+    {
+        "gameName": "poplar_bluff",
+        "realName": "Poplar Bluff",
+        "country": "poplar_bluff",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "port_angeles",
@@ -9352,18 +9386,6 @@ var country_properties_c2c = {
         code: "us-ms",
         relative_radius: 0.9
     },
-    "missouri": {
-        name: "missouri",
-        name_english: "missouri",
-        code: "us-mo",
-        relative_radius: 0.9
-    },
-    "cape_girardeau": {
-        name: "cape_girardeau",
-        name_english: "cape_girardeau",
-        code: "us-mo",
-        relative_radius: 0.8
-    },
     "new_hampshire": {
         name: "new_hampshire",
         name_english: "new_hampshire",
@@ -10210,9 +10232,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "jackson_ms": {
-        relative_whitenoise: 0.85
-    },
-    "cape_girardeau": {
         relative_whitenoise: 0.85
     },
     "manchester_nh": {
@@ -11297,14 +11316,6 @@ var cities_c2c = [
         "x": "26945.4",
         "y": "86.5699",
         "z": "36484.4"
-    },
-    {
-        "gameName": "cape_girardeau",
-        "realName": "Cape Girardeau",
-        "country": "cape_girardeau",
-        "x": "29501.2",
-        "y": "47.5692",
-        "z": "10440.7"
     },
     {
         "gameName": "manchester_nh",

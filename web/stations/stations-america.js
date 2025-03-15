@@ -3632,6 +3632,213 @@ var stations = {/*
             url: "https://ice5.securenetsystems.net/KEYEAM"
         },
     ],
+    "cape_girardeau": [
+        {
+            name: "89.9 KHIS",
+            logo: "stations/images-america/cape_girardeau/KHIS.png",
+            url: "https://ais-sa1.streamon.fm/7805_96k.aac"
+        },
+        {
+            name: "KRCU 90.9",
+            logo: "stations/images-america/cape_girardeau/KRCU 90.9.png",
+            url: "http://krculive.semo.edu:8000/128k"
+        },
+        {
+            name: "Air1 91.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "WSIU 91.9",
+            logo: "stations/images-america/c2c/mt_vernon_il/WSIU 88.9.png",
+            url: "http://peridot.streamguys.com:5230/wsiu-hd1"
+        },
+        {
+            name: "ESPN 93.5",
+            logo: "stations/images-america/cape_girardeau/ESPN Southeast Missouri.png",
+            url: "https://ice23.securenetsystems.net/KGIR"
+        },
+        {
+            name: "93.9 Mike FM",
+            logo: "stations/images-america/cape_girardeau/93.9 Mike FM.png",
+            url: "https://ice23.securenetsystems.net/KGKS"
+        },
+        {
+            name: "Covenant Network 94.3",
+            logo: "stations/images-america/0_general_logos/Covenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
+        },
+        {
+            name: "95.1 Steve FM",
+            logo: "stations/images-america/cape_girardeau/95.1 Steve FM.png",
+            url: "https://ice23.securenetsystems.net/WUEZ"
+        },
+        {
+            name: "KAPE Radio 95.7",
+            logo: "stations/images-america/cape_girardeau/KAPE Radio.png",
+            url: "https://ice103.wbcstreaming.com:8050/aac"
+        },
+        {
+            name: "96.1 K241CK",
+            logo: "stations/images-america/cape_girardeau/Freedom 97.9.png",
+            url: "https:///ice.wbcengineering.com:8109/stream"
+        },
+        {
+            name: "Mix 96.5",
+            logo: "stations/images-america/cape_girardeau/Mix 96.5.png",
+            url: "https://ice.wbcengineering.com:8107/stream"
+        },
+        {
+            name: "FOX Sports 97.3",
+            logo: "stations/images-america/cape_girardeau/FOX Sports 97.3.png",
+            url: "https://ice.wbcengineering.com:8116/stream"
+        },
+        {
+            name: "Freedom 97.9",
+            logo: "stations/images-america/cape_girardeau/Freedom 97.9.png",
+            url: "https://ice.wbcengineering.com:8109/stream"
+        },
+        {
+            name: "Real Rock 99.3",
+            logo: "stations/images-america/cape_girardeau/Real Rock 99.3.png",
+            url: "https://ice23.securenetsystems.net/KCGQ"
+        },
+        {
+            name: "100.3 K262AX",
+            logo: "stations/images-america/cape_girardeau/104.7 The Bridge.png",
+            url: "https:///ice.wbcengineering.com:8114/stream"
+        },
+        {
+            name: "100.7 KGMO",
+            logo: "stations/images-america/cape_girardeau/100.7 KGMO.png",
+            url: "https://ice.wbcengineering.com:8106/stream"
+        },
+        {
+            name: "101.5 CIL-FM",
+            logo: "stations/images-america/cape_girardeau/101.5 CIL-FM.png",
+            url: "https://ice23.securenetsystems.net/WCIL"
+        },
+        {
+            name: "101.9 The Block",
+            logo: "stations/images-america/cape_girardeau/101.9 The Block.png",
+            url: "https://ice.wbcengineering.com:8133/stream"
+        },
+        {
+            name: "K103",
+            logo: "stations/images-america/cape_girardeau/K103.png",
+            url: "https://ice23.securenetsystems.net/KEZS"
+        },
+        {
+            name: "Bott Radio 103.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "104.7 The Bridge",
+            logo: "stations/images-america/cape_girardeau/104.7 The Bridge.png",
+            url: "https://ice.wbcengineering.com:8114/stream"
+        },
+        {
+            name: "TAO Rock 105",
+            logo: "stations/images-america/cape_girardeau/TAO Rock 105.png",
+            url: "https://ice103.wbcstreaming.com:8010/aac"
+        },
+        {
+            name: "C106",
+            logo: "stations/images-america/cape_girardeau/C106.png",
+            url: "https://ice24.securenetsystems.net/KWKZ"
+        },
+        {
+            name: "106.9 K295FB",
+            logo: "stations/images-america/c2c/champaign_il/WBGL 91.7.png",
+            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+        },
+        {
+            name: "ROCK 107",
+            logo: "stations/images-america/cape_girardeau/ROCK 107.png",
+            url: "https://ice.wbcengineering.com:8112/stream"
+        },
+        {
+            name: "107.3 W3D",
+            logo: "stations/images-america/c2c/mt_vernon_il/107.3 W3D.png",
+            url: "https://ice103.wbcstreaming.com:8000/aac"
+        },
+        {
+            name: "107.9 KHIS",
+            logo: "stations/images-america/cape_girardeau/KHIS.png",
+            url: "http://ais-sa1.streamon.fm/7805_96k.aac"
+        },
+        {
+            name: "550 KTRS",
+            logo: "stations/images-america/st_louis/550 KTRS.png",
+            url: "http://ice6.securenetsystems.net:80/KTRS"
+        },
+        {
+            name: "570 WKYX",
+            logo: "stations/images-america/c2c/paducah_ky/102.5 The Beat.png",
+            url: "https://us2.maindigitalstream.com/ssl/WBMP"
+        },
+        {
+            name: "BBN 630",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "AM 800 KREI",
+            logo: "stations/images-america/cape_girardeau/AM 800 KREI.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kreiamaac-ibc2"
+        },
+        {
+            name: "KWOC 930",
+            logo: "stations/images-america/poplar_bluff/KWOC.png",
+            url: "http://ice24.securenetsystems.net/KWOC"
+        },
+        {
+            name: "960 KZIM",
+            logo: "stations/images-america/cape_girardeau/KZIM_KSIM.png",
+            url: "https://ice23.securenetsystems.net/KZIM"
+        },
+        {
+            name: "WJPF 1020",
+            logo: "stations/images-america/cape_girardeau/WJPF.png",
+            url: "https://ice23.securenetsystems.net/WJPF"
+        },
+        {
+            name: "1080 KYMO",
+            logo: "stations/images-america/cape_girardeau/Shotgun Radio 97.1.png",
+            url: "https://ice23.securenetsystems.net/SHOTGUN971"
+        },
+        {
+            name: "1120 KMOX",
+            logo: "stations/images-america/st_louis/KMOX.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
+        },
+        {
+            name: "1150 WGGH",
+            logo: "stations/images-america/cape_girardeau/WGGH.png",
+            url: "https://ice23.securenetsystems.net/WGGH"
+        },
+        {
+            name: "1170 KJXX",
+            logo: "stations/images-america/cape_girardeau/101.9 The Block.png",
+            url: "https:///ice.wbcengineering.com:8133/stream"
+        },
+        {
+            name: "ESPN 1220",
+            logo: "stations/images-america/cape_girardeau/ESPN Southeast Missouri.png",
+            url: "http://ice23.securenetsystems.net/KGIR"
+        },
+        {
+            name: "1400 KSIM",
+            logo: "stations/images-america/cape_girardeau/KZIM_KSIM.png",
+            url: "https://ice23.securenetsystems.net/KSIM"
+        },
+        {
+            name: "KAPE Radio 1550",
+            logo: "stations/images-america/cape_girardeau/KAPE Radio.png",
+            url: "http://ice103.wbcstreaming.com:8050/aac"
+        },
+    ],
     "carlsbad_nm": [/*
         {
             name: "92.1 KATK",
@@ -19230,6 +19437,98 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
     ],
+    "poplar_bluff": [
+        {
+            name: "88.7 KDMC",
+            logo: "stations/images-america/cape_girardeau/KRCU 90.9.png",
+            url: "http://krculive.semo.edu:8000/128k"
+        },
+        {
+            name: "KOKS 89.5",
+            logo: "stations/images-america/poplar_bluff/KOKS 89.5.png",
+            url: "https://ice24.securenetsystems.net/KOKS"
+        },
+        {
+            name: "Life 90.3",
+            logo: "stations/images-america/poplar_bluff/Life 90.3.png",
+            url: "http://live2.dcmliferadio.org/stream128"
+        },
+        {
+            name: "BBN 91.1",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "Bott Radio 91.7",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "Shuffle 92.9",
+            logo: "stations/images-america/poplar_bluff/Shuffle 92.9.png",
+            url: "https://ice23.securenetsystems.net/KLSC"
+        },
+        {
+            name: "KWOC 93.3",
+            logo: "stations/images-america/poplar_bluff/KWOC.png",
+            url: "https://ice24.securenetsystems.net/KWOC"
+        },
+        {
+            name: "Clear 94",
+            logo: "stations/images-america/poplar_bluff/Clear 94.png",
+            url: "https://ice24.securenetsystems.net/KKLR"
+        },
+        {
+            name: "Z95 The Bone",
+            logo: "stations/images-america/poplar_bluff/Z95 The Bone.png",
+            url: "https://ice24.securenetsystems.net/KJEZ"
+        },
+        {
+            name: "Freedom 97.9",
+            logo: "stations/images-america/cape_girardeau/Freedom 97.9.png",
+            url: "https://ice.wbcengineering.com:8109/stream"
+        },
+        {
+            name: "KZMA 99.9",
+            logo: "stations/images-america/poplar_bluff/KZMA 99.9.png",
+            url: "http://51.81.208.185:8068/stream"
+        },
+        {
+            name: "C106",
+            logo: "stations/images-america/cape_girardeau/C106.png",
+            url: "https://ice24.securenetsystems.net/KWKZ"
+        },
+        {
+            name: "106.5 The Wolf",
+            logo: "stations/images-america/poplar_bluff/106.5 The Wolf.png",
+            url: "https://ice5.securenetsystems.net/KTMOFM"
+        },
+        {
+            name: "3ABN 106.9",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "The Pulse 107.5",
+            logo: "stations/images-america/poplar_bluff/The Pulse 107.5.png",
+            url: "https://ice64.securenetsystems.net/KFEBFM"
+        },
+        {
+            name: "KWOC 930",
+            logo: "stations/images-america/poplar_bluff/KWOC.png",
+            url: "http://ice24.securenetsystems.net/KWOC"
+        },
+        {
+            name: "ESPN 1220",
+            logo: "stations/images-america/cape_girardeau/ESPN Southeast Missouri.png",
+            url: "https://ice23.securenetsystems.net/KGIR"
+        },
+        {
+            name: "1590 KDEX",
+            logo: "stations/images-america/poplar_bluff/New Country 102.3.png",
+            url: "https://ice23.securenetsystems.net/KDEXFM"
+        },
+    ],
     "port_angeles": [
         {
             name: "ICI Musique 88.9",
@@ -25584,7 +25883,7 @@ var stations = {/*
         {
             name: "1120 KMOX",
             logo: "stations/images-america/st_louis/KMOX.png",
-            url: "http://84.32.44.251/index.php?u=https:///live.amperwave.net/direct/audacy-kmoxamaac-imc"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
         },
         {
             name: "Relevant Radio 1260",
@@ -36660,7 +36959,7 @@ var stations = {/*
         {
             name: "107.3 W3D",
             logo: "stations/images-america/c2c/mt_vernon_il/107.3 W3D.png",
-            url: "http://84.32.44.251/index.php?u=https://ice103.wbcstreaming.com/listen/wddd/wddd"
+            url: "https://ice103.wbcstreaming.com:8000/aac"
         },
     ],
     "peoria_il": [
@@ -39133,6 +39432,11 @@ var stations = {/*
             name: "99.5 The Fan",
             logo: "stations/images-america/c2c/paducah_ky/99.5 The Fan.png",
             url: "https://live.amperwave.net/manifest/bristolbroad-wpadamaac-ibc2"
+        },
+        {
+            name: "102.5 The Beat",
+            logo: "stations/images-america/c2c/paducah_ky/102.5 The Beat.png",
+            url: "https://us2.maindigitalstream.com/ssl/WBMP"
         },
         {
             name: "FROGGY 103.7",
@@ -43417,88 +43721,6 @@ var stations = {/*
             name: "1490 WVBG",
             logo: "stations/images-america/c2c/jackson_ms/1490 WVBG.png",
             url: "http://66.245.184.90:8000/stream"
-        },
-    ],
-    "cape_girardeau": [
-        {
-            name: "KRCU 90.9",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/KRCU 90.9.png",
-            url: "http://krculive.semo.edu:8000/128k"
-        },
-        {
-            name: "93.9 Mike FM",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/93.9 Mike FM.png",
-            url: "https://ice23.securenetsystems.net/KGKS"
-        },
-        {
-            name: "Mix 96.5",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/Mix 96.5.png",
-            url: "https://ice.wbcengineering.com:8107/stream"
-        },
-        {
-            name: "FOX Sports 97.3",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/FOX Sports 97.3.png",
-            url: "https://ice.wbcengineering.com:8116/stream"
-        },
-        {
-            name: "Freedom 97.9",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/Freedom 97.9.png",
-            url: "https://ice.wbcengineering.com:8109/stream"
-        },
-        {
-            name: "Real Rock 99.3",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/Real Rock 99.3.png",
-            url: "https://ice23.securenetsystems.net/KCGQ"
-        },
-        {
-            name: "KAPE 100.3",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/KAPE 100.3.png",
-            url: "https://ice101.wbcstreaming.com:8123/astream"
-        },
-        {
-            name: "100.7 KGMO",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/100.7 KGMO.png",
-            url: "https://ice.wbcengineering.com:8106/stream"
-        },
-        {
-            name: "101.5 CIL-FM",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/101.5 CIL-FM.png",
-            url: "https://ice23.securenetsystems.net/WCIL"
-        },
-        {
-            name: "101.9 The Block",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/101.9 The Block.png",
-            url: "https://ice.wbcengineering.com:8133/stream"
-        },
-        {
-            name: "K103",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/K103.png",
-            url: "https://ice23.securenetsystems.net/KEZS"
-        },
-        {
-            name: "Positive Country 104.1",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/Positive Country 104.1.png",
-            url: "https://ice24.securenetsystems.net/KMHM"
-        },
-        {
-            name: "104.7 The Bridge",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/104.7 The Bridge.png",
-            url: "https://ice.wbcengineering.com:8114/stream"
-        },
-        {
-            name: "C106",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/C106.png",
-            url: "https://ice24.securenetsystems.net/KWKZ"
-        },
-        {
-            name: "960 KZIM",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/960 KZIM.png",
-            url: "https://ice23.securenetsystems.net/KZIM"
-        },
-        {
-            name: "1220 ESPN",
-            logo: "stations/images-america/c2c/cape_girardeau_mo/1220 ESPN.png",
-            url: "https://ice23.securenetsystems.net/KGIR"
         },
     ],
     "manchester_nh": [
