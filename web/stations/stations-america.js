@@ -2609,11 +2609,6 @@ var stations = {/*
             logo: "stations/images-america/houston/SportsTalk 790.png",
             url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
         },
-        {
-            name: "Sports Radio 1510",
-            logo: "stations/images-america/beaumont/Sports Radio 1510.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIKRAM_SC"
-        },
     ],
     "big_piney": [
         {
@@ -28357,11 +28352,6 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kninfmaac-ibc3"
         },	
         {
-            name: "94.9 The Outlaw",
-            logo: "stations/images-america/wichita_falls/94.9 The Outlaw.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOLIFMAAC_SC"
-        },
-        {
             name: "K-HITS 95.5",
             logo: "stations/images-america/wichita_falls/K-HITS 95.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMEFMAAC_SC"
@@ -36339,11 +36329,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFMAAC_SC"
         },
         {
-            name: "93.7 Nash Icon",
-            logo: "stations/images-america/c2c/bloomington_il/93.7 Nash Icon.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCFMAAC_SC"
-        },
-        {
             name: "WXRJ 94.9",
             logo: "stations/images-america/c2c/bloomington_il/WXRJ 94.9.png",
             url: "http://us2freenew.listen2myradio.com:19458/;"
@@ -40338,11 +40323,6 @@ var stations = {/*
             name: "1130 The Tiger",
             logo: "stations/images-america/c2c/shreveport_la/1130 The Tiger.png",
             url: "https://live.amperwave.net/manifest/townsquare-kwkhamaac-ibc3"
-        },
-        {
-            name: "KRMD 1340",
-            logo: "stations/images-america/c2c/shreveport_la/Lite Rock 100.7.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KRMDAMAAC_SC"
         },
     ],
     "augusta_me": [
@@ -48927,11 +48907,6 @@ var stations = {/*
             name: "NewsTalk 1010",
             logo: "stations/images-america/canada/toronto/NewsTalk 1010.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFRBAMAAC_SC"
-        },
-        {
-            name: "Erie Sports Radio 1260",
-            logo: "stations/images-america/c2c/erie_pa/Erie Sports Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRIEFMAAC.aac"
         },
         {
             name: "FOX Sports 1330",
