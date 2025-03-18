@@ -8829,8 +8829,8 @@ var stations = {/*
             url: "https://ice.wbcengineering.com:8122/stream"
         },
         {
-            name: "100.One",
-            logo: "stations/images-america/flagstaff/100.One.png",
+            name: "Peak 100.1",
+            logo: "stations/images-america/flagstaff/Peak 100.1.png",
             url: "https://live.amperwave.net/direct/yavapai-kvnafmaac-ibc1"
         },
         {
@@ -13905,6 +13905,11 @@ var stations = {/*
             url: "https://ice9.securenetsystems.net/KXLI"
         },
         {
+            name: "94.7 HANK FM",
+            logo: "stations/images-america/las_vegas/94.7 HANK FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
+        },
+        {
             name: "95.5 The Bull",
             logo: "stations/images-america/las_vegas/95.5 The Bull.png",
             url: "https://stream.revma.ihrhls.com/zc1345/hls.m3u8"
@@ -13933,6 +13938,11 @@ var stations = {/*
             name: "97.1 The Point",
             logo: "stations/images-america/las_vegas/97.1 The Point.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTFMAAC_SC"
+        },
+        {
+            name: "97.1 KXPT-HD2",
+            logo: "stations/images-america/las_vegas/94.7 HANK FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
         },
         {
             name: "Hot 97.5",
