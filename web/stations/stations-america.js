@@ -23449,7 +23449,7 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4342/hls.m3u8"
         },
         {
-            name: "Bloomberg 103.7-HD2",
+            name: "103.7 KOSF-HD2",
             logo: "stations/images-america/san_francisco/iHeart Sports 960.png",
             url: "https://stream.revma.ihrhls.com/zc301/hls.m3u8"
         },
