@@ -232,12 +232,12 @@ var stations = {/*
         {
             name: "95 One The Wolf",
             logo: "stations/images-america/abilene/95 One The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KABWFMAAC_SC"
+            url: "https://streams.streamkast.co/communitybroadpart/kabw/icecast.audio"
         },
         {
             name: "Q Country 96.1",
             logo: "stations/images-america/abilene/Q Country 96.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KORQFMAAC_SC"
+            url: "https://dash.streamkast.co/proxy/communitybroadpart2/korq"
         },
         {
             name: "98.1 The Phantom",
@@ -6873,8 +6873,8 @@ var stations = {/*
             url: "https://ice23.securenetsystems.net//KWKR"
         },
         {
-            name: "93.5 Thunder",
-            logo: "stations/images-america/hays/93.5 Thunder.png",
+            name: "Thunder Country 93.5",
+            logo: "stations/images-america/hays/Thunder Country 93.5.png",
             url: "https://ice8.securenetsystems.net/KKDT"
         },
         {
@@ -10670,8 +10670,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANZFM_HPPR2_SC"
         },
         {
-            name: "93.5 Thunder",
-            logo: "stations/images-america/hays/93.5 Thunder.png",
+            name: "Thunder Country 93.5",
+            logo: "stations/images-america/hays/Thunder Country 93.5.png",
             url: "https://ice8.securenetsystems.net/KKDT"
         },
         {
@@ -47815,9 +47815,9 @@ var stations = {/*
             url: "http://stream.wcrsfm.org:8000/wcrsfm_a"
         },
         {
-            name: "My 92.9",
-            logo: "stations/images-america/c2c/columbus_oh/My 92.9.png",
-            url: "https://ice25.securenetsystems.net/WXGT"
+            name: "La Grande 92.9",
+            logo: "stations/images-america/c2c/columbus_oh/La Grande 92.9.png",
+            url: "https://s4.radio.co/s5fd16a3bf/listen"
         },
         {
             name: "93.3 The Bus",
@@ -48013,6 +48013,11 @@ var stations = {/*
             name: "WBNS 1460",
             logo: "stations/images-america/c2c/columbus_oh/97.1 The Fan.png",
             url: "http://radiohio.streamguys1.com/cols/wbnsfm.mp3"
+        },
+        {
+            name: "1550 WQCD",
+            logo: "stations/images-america/c2c/columbus_oh/La Grande 92.9.png",
+            url: "http://s4.radio.co/s5fd16a3bf/listen"
         },
         {
             name: "NOAA Weather Radio Columbus",
