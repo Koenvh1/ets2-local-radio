@@ -38936,19 +38936,19 @@ var stations = {/*
             url: "https://dal-wku-stream-2.neighborhoodca.com/xstream"
         },
         {
-            name: "98.3 The Edge",
-            logo: "stations/images-america/c2c/bowling_green_ky/98.3 The Edge.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTQHD2AAC_SC"
+            name: "The Point 98.3",
+            logo: "stations/images-america/c2c/bowling_green_ky/The Point.png",
+            url: "https://ice25.securenetsystems.net/WPTQHD2"
         },
         {
-            name: "100.7 SAM FM",
-            logo: "stations/images-america/c2c/bowling_green_ky/100.7 SAM FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKLX_FMAAC_SC"
+            name: "BG 100.7",
+            logo: "stations/images-america/c2c/bowling_green_ky/BG 100.7.png",
+            url: "https://ice25.securenetsystems.net/WKLX"
         },
         {
-            name: "ESPN 102.7",
-            logo: "stations/images-america/c2c/bowling_green_ky/ESPN 102.7.png",
-            url: "https://ice23.securenetsystems.net/WWKU"
+            name: "The Point 102.7",
+            logo: "stations/images-america/c2c/bowling_green_ky/The Point.png",
+            url: "http://ice25.securenetsystems.net/WPTQHD2"
         },
         {
             name: "Talk 104.1",
@@ -38956,9 +38956,9 @@ var stations = {/*
             url: "http://ice8.securenetsystems.net/WKCT"
         },
         {
-            name: "105.3 The Point",
-            logo: "stations/images-america/c2c/bowling_green_ky/105.3 The Point.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPTQFMAAC_SC"
+            name: "105.3 The GOAT",
+            logo: "stations/images-america/c2c/bowling_green_ky/105.3 The GOAT.png",
+            url: "https://ice25.securenetsystems.net/WPTQ"
         },
         {
             name: "Beaver 106.3",
@@ -40133,14 +40133,14 @@ var stations = {/*
             url: "https://radioserver11.profesionalhosting.com/proxy/djqjfpwc?mp=/stream"
         },
         {
-            name: "106.1 The Ticket",
-            logo: "stations/images-america/c2c/new_orleans_la/106.1 The Ticket.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
+            name: "Heaven 106.1",
+            logo: "stations/images-america/c2c/new_orleans_la/Heaven 106.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC_SC"
         },
         {
-            name: "Heaven 106.7",
-            logo: "stations/images-america/c2c/new_orleans_la/Heaven 106.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC_SC"
+            name: "106.7 The Ticket",
+            logo: "stations/images-america/c2c/new_orleans_la/106.7 The Ticket.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
         },
         {
             name: "Sonshine 800",
