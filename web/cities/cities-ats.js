@@ -791,6 +791,12 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.5
     },
+    "hannibal": {
+        name: "Hannibal",
+        name_english: "Hannibal",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "harrison": {
         name: "Harrison",
         name_english: "Harrison",
@@ -1835,6 +1841,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.7
     },
+    "sedalia": {
+        name: "Sedalia",
+        name_english: "Sedalia",
+        code: "us-mo",
+        relative_radius: 0.6
+    },
     "show_low": {
         name: "Show Low",
         name_english: "Show Low",
@@ -2581,6 +2593,9 @@ var city_properties = {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
+    "hannibal": {
+        relative_whitenoise: 0.95
+    },
     "harrison": {
         relative_whitenoise: 0.95
     },
@@ -3151,6 +3166,9 @@ var city_properties = {
     },
     "seattle": {
         relative_whitenoise: 0.70
+    },
+    "sedalia": {
+        relative_whitenoise: 0.95
     },
     "show_low": {
         relative_whitenoise: 0.80
@@ -4561,6 +4579,14 @@ var cities = [
         "x": "19055.1",
         "y": "29.9327",
         "z": "33363.9"
+    },
+    {
+        "gameName": "hannibal",
+        "realName": "Hannibal",
+        "country": "hannibal",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "harrison",
@@ -6097,6 +6123,14 @@ var cities = [
         "x": "-97690.4",
         "y": "101.912",
         "z": "-63065.2"
+    },
+    {
+        "gameName": "sedalia",
+        "realName": "Sedalia",
+        "country": "sedalia",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "shamrock",

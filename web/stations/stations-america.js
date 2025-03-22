@@ -10643,6 +10643,108 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/KAGH"
         },
     ],
+    "hannibal": [
+        {
+            name: "88.5 WGCA",
+            logo: "stations/images-america/kirksville/88.5 WGCA.png",
+            url: "https://themix2.logonix.net:8443/high"
+        },
+        {
+            name: "WQUB 90.3",
+            logo: "stations/images-america/st_louis/STLPR.png",
+            url: "https://kwmu1-ice.streamguys1.com/kwmu1"
+        },
+        {
+            name: "The Cross 91.7",
+            logo: "stations/images-america/hannibal/The Cross 91.7.png",
+            url: "https://video1.getstreamhosting.com:8128/stream"
+        },
+        {
+            name: "real 92.9",
+            logo: "stations/images-america/hannibal/real 92.9.png",
+            url: "https://ice24.securenetsystems.net/KGRC"
+        },
+        {
+            name: "Bott Radio 93.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "NewsTalkSTL 94.1",
+            logo: "stations/images-america/st_louis/NewsTalkSTL.png",
+            url: "https://us2.maindigitalstream.com/ssl/KNBS"
+        },
+        {
+            name: "MIX Country 96",
+            logo: "stations/images-america/columbia_jcmo/MIX Country 96.png",
+            url: "http://84.32.44.251/index.php?u=https://ice42.securenetsystems.net/KWWR"
+        },
+        {
+            name: "97.9 KICK FM",
+            logo: "stations/images-america/hannibal/97.9 KICK FM.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kickfmaac-ibc3"
+        },
+        {
+            name: "WCOY 99.5",
+            logo: "stations/images-america/c2c/quincy_il/WCOY 99.5.png",
+            url: "https://ice23.securenetsystems.net/WCOY"
+        },
+        {
+            name: "100.9 The Eagle",
+            logo: "stations/images-america/hannibal/100.9 The Eagle.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krryfmaac-ibc3"
+        },
+        {
+            name: "Eagle 102",
+            logo: "stations/images-america/hannibal/Eagle 102.png",
+            url: "https://www.ophanim.net:8444/s/9740"
+        },
+        {
+            name: "Q104",
+            logo: "stations/images-america/c2c/quincy_il/Q104.png",
+            url: "https://ice23.securenetsystems.net/WQCY"
+        },
+        {
+            name: "Real Talk 104.3",
+            logo: "stations/images-america/st_louis/Real Talk Network.png",
+            url: "https://ice24.securenetsystems.net/KRTK"
+        },
+        {
+            name: "105.9 KZZK",
+            logo: "stations/images-america/hannibal/105.9 KZZK.png",
+            url: "https://ice9.securenetsystems.net/KZZKFM"
+        },
+        {
+            name: "WPWQ 106.7",
+            logo: "stations/images-america/hannibal/WPWQ 106.7.png",
+            url: "https://ice23.securenetsystems.net/WPWQ"
+        },
+        {
+            name: "107.5 The Lake",
+            logo: "stations/images-america/hannibal/107.5 The Lake.png",
+            url: "https://ice24.securenetsystems.net/KWBZ"
+        },
+        {
+            name: "WTAD 930",
+            logo: "stations/images-america/c2c/quincy_il/WTAD.png",
+            url: "https://ice41.securenetsystems.net/WTAD"
+        },
+        {
+            name: "1070 KHMO",
+            logo: "stations/images-america/c2c/quincy_il/KICK 1530.png",
+            url: "https://live.amperwave.net/manifest/townsquare-khmoamaac-ibc3"
+        },
+        {
+            name: "1310 KOKX",
+            logo: "stations/images-america/hannibal/1310 KOKX.png",
+            url: "https://ice24.securenetsystems.net/KOKXAM"
+        },
+        {
+            name: "KICK 1530",
+            logo: "stations/images-america/c2c/quincy_il/KICK 1530.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wliqamaac-ibc3"
+        },
+    ],
     "hays": [
         {
             name: "88.5 K203FB",
@@ -13255,8 +13357,8 @@ var stations = {/*
         },
         {
             name: "Spirit FM 90.7",
-            logo: "stations/images-america/kirksville/Spirit FM 90.7.png",
-            url: "https://ic1.sslstream.com/kcvo-fm"
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
             name: "Covenant Network 91.5",
@@ -24125,6 +24227,58 @@ var stations = {/*
             name: "1620 KYIZ",
             logo: "stations/images-america/seattle/1620 KYIZ.png",
             url: "https://bennettmediagroup.streamguys1.com/kyiz"
+        },
+    ],
+    "sedalia": [
+        {
+            name: "Bott Radio 88.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "Spirit FM 90.1",
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://nwm-live.streamguys1.com/kcvo-aac"
+        },
+        {
+            name: "90.9 The Bridge",
+            logo: "stations/images-america/kansas_city/90.9 The Bridge.png",
+            url: "https://live.amperwave.net/manifest/publictv19-ktbgfmaac-imc1"
+        },
+        {
+            name: "Mix 92.3",
+            logo: "stations/images-america/sedalia/Mix 92.3.png",
+            url: "https://live.amperwave.net/manifest/townsquare-ksdlfmaac-ibc3"
+        },
+        {
+            name: "K-LOVE 96.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "98.5 The Bar",
+            logo: "stations/images-america/sedalia/98.5 The Bar.png",
+            url: "https://us2.maindigitalstream.com/ssl/KWKJ"
+        },
+        {
+            name: "KIX 105.7",
+            logo: "stations/images-america/sedalia/KIX 105.7.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kxkxfmaac-ibc3"
+        },
+        {
+            name: "1050 KSIS",
+            logo: "stations/images-america/sedalia/KIX 105.7.png",
+            url: "https://live.amperwave.net/manifest/townsquare-ksisamaac-ibc3"
+        },
+        {
+            name: "1370 KWRT",
+            logo: "stations/images-america/columbia_jcmo/KWRT.png",
+            url: "https://streaming.live365.com/a54121"
+        },
+        {
+            name: "1450 KOKO",
+            logo: "stations/images-america/sedalia/1450 KOKO.png",
+            url: "https://us2.maindigitalstream.com/ssl/KOKO"
         },
     ],
     "shelby": [
