@@ -18751,6 +18751,98 @@ var stations = {/*
             url: "http://ice23.securenetsystems.net/KBRXAM"
         },
     ],
+    "osage_beach": [
+        {
+            name: "Key Radio 89.3",
+            logo: "stations/images-america/osage_beach/Key Radio 89.3.png",
+            url: "https://s3.radio.co/s8062c8ff1/listen"
+        },
+        {
+            name: "Bott Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "Spirit FM 91.7",
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://nwm-live.streamguys1.com/kcvo-aac"
+        },
+        {
+            name: "Mix 92.7",
+            logo: "stations/images-america/osage_beach/Mix 92.7.png",
+            url: "https://stream.radiojar.com/v7a0b7ca1s8uv"
+        },
+        {
+            name: "93.5 ROCKS",
+            logo: "stations/images-america/osage_beach/93.5 ROCKS.png",
+            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KMYK"
+        },
+        {
+            name: "KS95.1",
+            logo: "stations/images-america/osage_beach/KS95.1.png",
+            url: "https://stream.radiojar.com/ur4nmkh4dy8uv"
+        },
+        {
+            name: "KRMS 97.5",
+            logo: "stations/images-america/osage_beach/KRMS.png",
+            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KRMS"
+        },
+        {
+            name: "KFBD 97.9",
+            logo: "stations/images-america/osage_beach/KFBD 97.9.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kfbdfmaac-ibc2"
+        },
+        {
+            name: "98.7 The Cove",
+            logo: "stations/images-america/osage_beach/98.7 The Cove.png",
+            url: "https://ice24.securenetsystems.net/THECOVE"
+        },
+        {
+            name: "Faith Radio 100.9",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwm-lb-4.streamguys1.com/ktis-am"
+        },
+        {
+            name: "101.9 The Wave",
+            logo: "stations/images-america/columbia_jcmo/101.9 The Wave.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7402_48k.aac"
+        },
+        {
+            name: "COOL 102.7",
+            logo: "stations/images-america/osage_beach/COOL 102.7.png",
+            url: "https://stream.radiojar.com/q68rwgwwpv8uv"
+        },
+        {
+            name: "KRMS 103.3",
+            logo: "stations/images-america/osage_beach/KRMS.png",
+            url: "http://84.32.44.251/index.php?u=http://ice8.securenetsystems.net/KRMS"
+        },
+        {
+            name: "KJEL 103.7",
+            logo: "stations/images-america/springfield_mo/KJEL 103.7.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kjelfmaac-ibc2"
+        },
+        {
+            name: "Classic Country 104.9",
+            logo: "stations/images-america/osage_beach/Classic Country 104.9.png",
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/OZARK"
+        },
+        {
+            name: "107.9 The Coyote",
+            logo: "stations/images-america/osage_beach/107.9 The Coyote.png",
+            url: "https://us2.maindigitalstream.com/ssl/KCLQ"
+        },
+        {
+            name: "950 KWOS",
+            logo: "stations/images-america/columbia_jcmo/950 KWOS.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7401_48k.aac"
+        },
+        {
+            name: "1150 KRMS",
+            logo: "stations/images-america/osage_beach/KRMS.png",
+            url: "http://84.32.44.251/index.php?u=http://ice8.securenetsystems.net//KRMS"
+        },
+    ], 
     "oxnard": [
         {
             name: "KCLU 88.3",
@@ -38670,6 +38762,113 @@ var stations = {/*
             url: "http://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
         },
     ],
+    "ottumwa": [
+        {
+            name: "IPR Studio One 89.1",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
+            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
+        },
+        {
+            name: "VCY America 89.7",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 90.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "IPR Classical 91.1",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
+        },
+        {
+            name: "Radio By Grace 91.5",
+            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
+            url: "https://stream.freedomradiofm.com/live.mp3"
+        },
+        {
+            name: "92.7 KTWA",
+            logo: "stations/images-america/c2c/ottumwa_ia/92.7 KTWA.png",
+            url: "https://crystalout.surfernetwork.com:8001/KTWA_MP3"
+        },
+        {
+            name: "Classic 96",
+            logo: "stations/images-america/c2c/ottumwa_ia/Classic 96.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kkfdfmaac-ibc2"
+        },
+        {
+            name: "96.7 KIIC",
+            logo: "stations/images-america/c2c/ottumwa_ia/96.7 KIIC.png",
+            url: "https://ice6.securenetsystems.net/KIIC"
+        },
+        {
+            name: "KICK Country 96.7-HD2",
+            logo: "stations/images-america/c2c/ottumwa_ia/KICK Country 96.7-HD2.png",
+            url: "https://ice7.securenetsystems.net/KIIC2"
+        },
+        {
+            name: "El Puente 96.7-HD3",
+            logo: "stations/images-america/c2c/ottumwa_ia/El Puente 96.7-HD3.png",
+            url: "https://ice7.securenetsystems.net/KIIC3"
+        },
+        {
+            name: "97.7 TOM FM",
+            logo: "stations/images-america/c2c/ottumwa_ia/97.7 TOM FM.png",
+            url: "https://crystalout.surfernetwork.com:8001/KOTM-FM_MP3"
+        },
+        {
+            name: "101.5 KISS FM",
+            logo: "stations/images-america/c2c/ottumwa_ia/101.5 KISS FM.png",
+            url: "https://crystalout.surfernetwork.com:8001/KKSI_MP3"
+        },
+        {
+            name: "102.7 KBIZ",
+            logo: "stations/images-america/c2c/ottumwa_ia/KBIZ.png",
+            url: "https://crystalout.surfernetwork.com:8001/KBIZ_MP3"
+        },
+        {
+            name: "104.3 KRKN",
+            logo: "stations/images-america/c2c/ottumwa_ia/104.3 KRKN.png",
+            url: "https://crystalout.surfernetwork.com:8001/KRKN_MP3"
+        },
+        {
+            name: "KBOE 104.9",
+            logo: "stations/images-america/c2c/ottumwa_ia/KBOE 104.9.png",
+            url: "https://ice7.securenetsystems.net/KBOE"
+        },
+        {
+            name: "Iowa Catholic Radio 105.3",
+            logo: "stations/images-america/0_general_logos/Iowa Catholic Radio.png",
+            url: "https://streaming.live365.com/a52879"
+        },
+        {
+            name: "3ABN 106.3",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "107.7 KLEE",
+            logo: "stations/images-america/c2c/ottumwa_ia/KLEE.png",
+            url: "https://crystalout.surfernetwork.com:8001/KLEE-AM_MP3"
+        },
+        {
+            name: "KMZN 740",
+            logo: "stations/images-america/c2c/ottumwa_ia/KMZN.png",
+            url: "https://ice9.securenetsystems.net/KMZN"
+        },
+        {
+            name: "1240 KBIZ",
+            logo: "stations/images-america/c2c/ottumwa_ia/KBIZ.png",
+            url: "http://crystalout.surfernetwork.com:8001/KBIZ_MP3"
+        },
+        {
+            name: "1480 KLEE",
+            logo: "stations/images-america/c2c/ottumwa_ia/KLEE.png",
+            url: "http://crystalout.surfernetwork.com:8001/KLEE-AM_MP3"
+        },
+    ],
     "sioux_city": [
         {
             name: "Siouxland Catholic Radio 88.1",
@@ -55938,14 +56137,14 @@ var stations = {/*
             url: "https://ice66.securenetsystems.net/WFRY"
         },
         {
-            name: "Move 98.3",
-            logo: "stations/images-america/canada/kingston/Move 98.3.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFLYFMAAC_SC"
+            name: "98.3 FLY FM",
+            logo: "stations/images-america/canada/kingston/98.3 FLY FM.png",
+            url: "https://mybroadcasting.streamb.live/SB00409"
         },
         {
-            name: "Pure Country 99",
-            logo: "stations/images-america/canada/kingston/Pure Country 99.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKLCFMAAC_SC"
+            name: "New Country 98.9",
+            logo: "stations/images-america/canada/kingston/New Country 98.9.png",
+            url: "https://mybroadcasting.streamb.live/SB00412"
         },
         {
             name: "ICI Première 99.5",
@@ -55978,14 +56177,19 @@ var stations = {/*
             url: "https://cb.streamguys1.com/wtoj.aac"
         },
         {
-            name: "Bounce 103.7",
-            logo: "stations/images-america/canada/kingston/Bounce 103.7.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJPTFMAAC_SC"
+            name: "103.7 GIANT FM",
+            logo: "stations/images-america/canada/kingston/103.7 GIANT FM.png",
+            url: "https://mybroadcasting.streamb.live/SB00415"
         },
         {
             name: "104.3 Fresh Radio",
             logo: "stations/images-america/canada/kingston/104.3 Fresh Radio.png",
             url: "http://live.leanstream.co/CKWSFM"
+        },
+        {
+            name: "104.9 myFM",
+            logo: "stations/images-america/canada/kingston/104.9 myFM.png",
+            url: "https://mybroadcasting.streamb.live/SB00413"
         },
         {
             name: "K-ROCK 105.7",

@@ -390,8 +390,8 @@ var country_properties = {
         relative_radius: 0.9
     },
     "columbia_jcmo": {
-        name: "Columbia",
-        name_english: "Columbia",
+        name: "Columbia / Jefferson City",
+        name_english: "Columbia / Jefferson City",
         code: "us-mo",
         relative_radius: 0.7
     },
@@ -1011,7 +1011,7 @@ var country_properties = {
         name: "Kirksville",
         name_english: "Kirksville",
         code: "us-mo",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "klamath_f": {
         name: "Klamath Falls",
@@ -1030,6 +1030,12 @@ var country_properties = {
         name_english: "Lamar",
         code: "us-co",
         relative_radius: 0.8
+    },
+    "lancaster_mo": {
+        name: "Lancaster",
+        name_english: "Lancaster",
+        code: "us-mo",
+        relative_radius: 0.9
     },
     "langtry": {
         name: "Langtry",
@@ -1421,6 +1427,12 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
+    "osage_beach": {
+        name: "Osage Beach",
+        name_english: "Osage Beach",
+        code: "us-mo",
+        relative_radius: 0.6
+    },
     "ouray": {
         name: "Ouray",
         name_english: "Ouray",
@@ -1635,7 +1647,7 @@ var country_properties = {
         name: "rolla",
         name_english: "rolla",
         code: "us-mo",
-        relative_radius: 0.9
+        relative_radius: 0.7
     },
     "roswell": {
         name: "Roswell",
@@ -2713,7 +2725,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kirksville": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "klamath_f": {
         relative_whitenoise: 0.85
@@ -2723,6 +2735,10 @@ var city_properties = {
     },
     "lamar": {
         relative_whitenoise: 0.80
+    },
+    "lancaster_mo": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "langtry": {
         relative_whitenoise: 1.00
@@ -2934,6 +2950,9 @@ var city_properties = {
     "oneill": {
         relative_whitenoise: 0.95
     },
+    "osage_beach": {
+        relative_whitenoise: 0.95
+    },
     "ouray": {
 		relative_radius: 0.4,
         relative_whitenoise: 0.95
@@ -3055,7 +3074,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "rolla": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "roswell": {
         relative_whitenoise: 0.95
@@ -3966,7 +3985,7 @@ var cities = [
     },
     {
         "gameName": "columbia_jcmo",
-        "realName": "Columbia",
+        "realName": "Columbia / Jefferson City",
         "country": "columbia_jcmo",
         "x": "17386.3",
         "y": "125.087",
@@ -4579,7 +4598,7 @@ var cities = [
         "x": "19055.1",
         "y": "29.9327",
         "z": "33363.9"
-    },
+    },/*
     {
         "gameName": "hannibal",
         "realName": "Hannibal",
@@ -4587,7 +4606,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "harrison",
         "realName": "Harrison",
@@ -4779,7 +4798,7 @@ var cities = [
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
-    },
+    },/*
     {
         "gameName": "jefferson_city",
         "realName": "Jefferson City",
@@ -4787,7 +4806,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "john_day",
         "realName": "John Day",
@@ -5227,7 +5246,7 @@ var cities = [
         "x": "-104462",
         "y": "65.4794",
         "z": "11502.9"
-    },
+    },/*
     {
         "gameName": "maryville",
         "realName": "Maryville",
@@ -5243,7 +5262,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "marysville",
         "realName": "Marysville",
@@ -5547,7 +5566,15 @@ var cities = [
         "x": "-11409.6",
         "y": "65.236",
         "z": "-19863.6"
-    },
+    },/*
+    {
+        "gameName": "osage_beach",
+        "realName": "Osage Beach",
+        "country": "osage_beach",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "ouray",
         "realName": "Ouray",
@@ -5675,7 +5702,7 @@ var cities = [
         "x": "-68356.2",
         "y": "81.6259",
         "z": "-27970.9"
-    },
+    },/*
     {
         "gameName": "poplar_bluff",
         "realName": "Poplar Bluff",
@@ -5683,7 +5710,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "port_angeles",
         "realName": "Port Angeles",
@@ -6123,7 +6150,7 @@ var cities = [
         "x": "-97690.4",
         "y": "101.912",
         "z": "-63065.2"
-    },
+    },/*
     {
         "gameName": "sedalia",
         "realName": "Sedalia",
@@ -6131,7 +6158,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "shamrock",
         "realName": "Shamrock",
@@ -9034,7 +9061,7 @@ var country_properties_c2c = {
         name: "mt_vernon",
         name_english: "mt_vernon",
         code: "us-il",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "peoria_il": {
         name: "Peoria",
@@ -9052,7 +9079,7 @@ var country_properties_c2c = {
         name: "springfield_il",
         name_english: "springfield_il",
         code: "us-il",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "evansville_in": {
         name: "evansville_in",
@@ -9108,17 +9135,17 @@ var country_properties_c2c = {
         code: "us-ia",
         relative_radius: 0.8
     },
+    "ottumwa": {
+        name: "Ottumwa",
+        name_english: "Ottumwa",
+        code: "us-ia",
+        relative_radius: 0.7
+    },
     "sioux_city": {
         name: "sioux_city",
         name_english: "sioux_city",
         code: "us-ia",
         relative_radius: 0.7
-    },
-    "kansas": {
-        name: "kansas",
-        name_english: "kansas",
-        code: "us-ks",
-        relative_radius: 1.0
     },
     "greatbend_ks": {
         name: "Great Bend",
@@ -10091,7 +10118,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.75
     },
     "mt_vernon": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "peoria_il": {
         relative_whitenoise: 0.85
@@ -10100,7 +10127,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.75
     },
     "springfield_il": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "evansville_in": {
         relative_whitenoise: 0.85
@@ -10128,6 +10155,9 @@ var city_properties_c2c = {
     },
     "cedar_rapids": {
         relative_whitenoise: 0.85
+    },
+    "ottumwa": {
+        relative_whitenoise: 0.95
     },
     "sioux_city": {
         relative_whitenoise: 0.85
@@ -10867,7 +10897,7 @@ var cities_c2c = [
         "gameName": "mt_vernon",
         "realName": "Mt. Vernon",
         "country": "mt_vernon",
-        "x": "31140.6",
+        "x": "32140.6",
         "y": "23.1445",
         "z": "2314.56"
     },
@@ -10958,7 +10988,15 @@ var cities_c2c = [
         "x": "22909.3",
         "y": "88.9163",
         "z": "-15390.4"
-    },
+    },/*
+    {
+        "gameName": "ottumwa",
+        "realName": "Ottumwa",
+        "country": "ottumwa",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "sioux_city",
         "realName": "Sioux City",
