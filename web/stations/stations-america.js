@@ -10730,8 +10730,8 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/WTAD"
         },
         {
-            name: "1070 KHMO",
-            logo: "stations/images-america/c2c/quincy_il/KICK 1530.png",
+            name: "KHMO 1070",
+            logo: "stations/images-america/hannibal/KHMO 1070.png",
             url: "https://live.amperwave.net/manifest/townsquare-khmoamaac-ibc3"
         },
         {
@@ -15761,11 +15761,6 @@ var stations = {/*
             name: "91.9 KAVX",
             logo: "stations/images-america/lufkin/91.9 KAVX.png",
             url: "https://streaming.live365.com/a02061_2"
-        },
-        {
-            name: "Fun 94.7",
-            logo: "stations/images-america/lufkin/Fun 94.7.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kvllfmaac-ibc3"
         },
         {
             name: "KFOX 95.5",
@@ -24358,8 +24353,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kxkxfmaac-ibc3"
         },
         {
-            name: "1050 KSIS",
-            logo: "stations/images-america/sedalia/KIX 105.7.png",
+            name: "KSIS 1050",
+            logo: "stations/images-america/sedalia/KSIS 1050.png",
             url: "https://live.amperwave.net/manifest/townsquare-ksisamaac-ibc3"
         },
         {
