@@ -4372,6 +4372,11 @@ var stations = {/*
             url: "https://plusradio.gr/stream1"
         },
         {
+            name: "Focus FM 103.6",
+            logo: "stations/images-europe/greece/thessaloniki/Focus FM 103.6.png",
+            url: "https://ice.greekstream.net/focusfm"
+        },
+        {
             name: "FLY 104",
             logo: "stations/images-europe/greece/thessaloniki/FLY 104.png",
             url: "https://imagine2.radioca.st/stream"

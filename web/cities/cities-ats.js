@@ -5254,14 +5254,6 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
-    {
-        "gameName": "maryville",
-        "realName": "Maryville",
-        "country": "st_joseph_kkjo",
-        "x": "",
-        "y": "",
-        "z": ""
     },*/
     {
         "gameName": "marysville",
@@ -9069,6 +9061,12 @@ var country_properties_c2c = {
         code: "us-il",
         relative_radius: 0.7
     },
+    "quincy_il": {
+        name: "Quincy",
+        name_english: "Quincy",
+        code: "us-il",
+        relative_radius: 0.6
+    },
     "rockford_il": {
         name: "Rockford",
         name_english: "Rockford",
@@ -10123,6 +10121,9 @@ var city_properties_c2c = {
     "peoria_il": {
         relative_whitenoise: 0.85
     },
+    "quincy_il": {
+        relative_whitenoise: 0.95
+    },
     "rockford_il": {
         relative_whitenoise: 0.75
     },
@@ -10908,7 +10909,15 @@ var cities_c2c = [
         "x": "25361.1",
         "y": "42.8892",
         "z": "-10042.6"
-    },
+    },/*
+    {
+        "gameName": "quincy_il",
+        "realName": "Quincy",
+        "country": "quincy_il",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "rockford_il",
         "realName": "Rockford",
