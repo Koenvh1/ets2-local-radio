@@ -5058,6 +5058,11 @@ var stations = {/*
             url: "https://5a44e5b800a41.streamlock.net/pieci/mp4:k2/playlist.m3u8"
         },
         {
+            name: "NABA",
+            logo: "stations/images-europe/latvia/NABA.png",
+            url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:naba.stream/playlist.m3u8"
+        },
+        {
             name: "EHR",
             logo: "stations/images-europe/latvia/EHR.png",
             url: "https://stream.ehrhiti.lv:8000/ehr.aac"
