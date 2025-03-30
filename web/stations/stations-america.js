@@ -19700,9 +19700,9 @@ var stations = {/*
     ],
     "port_angeles": [
         {
-            name: "ICI Musique 88.9",
-            logo: "stations/images-america/canada/ICI Musique.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC_SC"
+            name: "CSN Radio 88.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "KNKX 89.3",
@@ -19720,24 +19720,9 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "CBC Radio One 90.5",
-            logo: "stations/images-america/canada/CBC Radio One.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
-        },
-        {
-            name: "The Zone @ 91.3",
-            logo: "stations/images-america/port_angeles/The Zone @ 91.3.png",
-            url: "https://redirect.jpbgdigital.com/CJZN"
-        },
-        {
             name: "KSQM 91.5",
             logo: "stations/images-america/port_angeles/KSQM 91.5.png",
             url: "https://video1.getstreamhosting.com:8182/stream"
-        },
-        {
-            name: "CBC Music 92.1",
-            logo: "stations/images-america/canada/CBC Music.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFM_CBC_SC"
         },
         {
             name: "92.9 KISM",
@@ -19745,19 +19730,14 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
         },
         {
-            name: "Ocean 98.5",
-            logo: "stations/images-america/canada/victoria/Ocean 98.5.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+            name: "KONP 101.7",
+            logo: "stations/images-america/port_angeles/KONP.png",
+            url: "https://crystalout.surfernetwork.com:8001/KONP_MP3"
         },
         {
-            name: "100.3 The Q",
-            logo: "stations/images-america/canada/victoria/100.3 The Q.png",
-            url: "https://redirect.jpbgdigital.com/CKKQ"
-        },
-        {
-            name: "JACK 103.1",
-            logo: "stations/images-america/port_angeles/JACK 103.1.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
+            name: "102.1 The Strait",
+            logo: "stations/images-america/port_angeles/102.1 The Strait.png",
+            url: "https://crystalout.surfernetwork.com:8001/KSTI-FM_MP3"
         },
         {
             name: "KAFE 104.1",
@@ -19775,9 +19755,74 @@ var stations = {/*
             url: "https://crista-kwpz.streamguys1.com/kwpzmp3"
         },
         {
-            name: "107.3 Virgin Radio",
-            logo: "stations/images-america/canada/victoria/107.3 Virgin Radio.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHBEFMAAC_SC"
+            name: "KARI 550",
+            logo: "stations/images-america/bellingham/KARI 550.png",
+            url: "https://ice9.securenetsystems.net/KARI550"
+        },
+        {
+            name: "570 KVI",
+            logo: "stations/images-america/seattle/570 KVI.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVIAMAAC_SC"
+        },
+        {
+            name: "KCIS 630",
+            logo: "stations/images-america/seattle/KCIS 630.png",
+            url: "https://crista-kcis.streamguys1.com/kcismp3"
+        },
+        {
+            name: "KAPS Country 660",
+            logo: "stations/images-america/bellingham/KAPS Country 660.png",
+            url: "https://ice7.securenetsystems.net/KAPS"
+        },
+        {
+            name: "Seattle Sports 710",
+            logo: "stations/images-america/seattle/Seattle Sports 710.png",
+            url: "https://bonneville.cdnstream1.com/2642_48.aac"
+        },
+        {
+            name: "790 KGMI",
+            logo: "stations/images-america/bellingham/790 KGMI.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kgmiamaac-ibc1"
+        },
+        {
+            name: "820 AM The Word",
+            logo: "stations/images-america/seattle/820 AM The Word.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGNWAMAAC_SC"
+        },
+        {
+            name: "880 KIXI",
+            logo: "stations/images-america/seattle/880 KIXI.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIXIAMAAC_SC"
+        },
+        {
+            name: "Northwest Newsradio 1000",
+            logo: "stations/images-america/seattle/Northwest Newsradio 97.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNWNAMAAC.aac"
+        },
+        {
+            name: "1170 KPUG",
+            logo: "stations/images-america/bellingham/1170 KPUG.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpugamaac-ibc1"
+        },
+        {
+            name: "AM 1300 The Answer",
+            logo: "stations/images-america/seattle/AM 1300 The Answer.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLAMAAC_SC"
+        },
+        {
+            name: "KRKO 1380",
+            logo: "stations/images-america/seattle/KRKO 1380.png",
+            url: "https://www.ophanim.net:8444/s/9400"
+        },
+        {
+            name: "KONP 1450",
+            logo: "stations/images-america/port_angeles/KONP.png",
+            url: "http://crystalout.surfernetwork.com:8001/KONP_MP3"
+        },
+        {
+            name: "KRPI 1550",
+            logo: "stations/images-america/bellingham/KRPI 1550.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAMAAC_SC"
         },
     ],
     "portland": [
@@ -58825,6 +58870,118 @@ var stations = {/*
             name: "980 CKNW",
             logo: "stations/images-america/canada/vancouver/980 CKNW.png",
             url: "https://live.leanstream.co/CKNWAM-MP3"
+        },
+        {
+            name: "CityNews 1130",
+            logo: "stations/images-america/canada/vancouver/CityNews 1130.png",
+            url: "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy"
+        },
+        {
+            name: "AM1320 CHMB",
+            logo: "stations/images-america/canada/vancouver/AM1320 CHMB.png",
+            url: "https://stream.radiojar.com/nugqupcv8qzuv"
+        },
+        {
+            name: "Fairchild Radio 1470",
+            logo: "stations/images-america/canada/vancouver/Fairchild Radio 1470.png",
+            url: "https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8"
+        },
+    ],
+    "victoria_bc": [
+        {
+            name: "ICI Musique 88.9",
+            logo: "stations/images-america/canada/ICI Musique.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC_SC"
+        },
+        {
+            name: "89.7 Sun FM",
+            logo: "stations/images-america/canada/victoria/89.7 Sun FM.png",
+            url: "https://vistaradio.streamb.live/SB00080"
+        },
+        {
+            name: "CBC Radio One 90.5",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
+        },
+        {
+            name: "The Zone @ 91.3",
+            logo: "stations/images-america/canada/victoria/The Zone @ 91.3.png",
+            url: "https://redirect.jpbgdigital.com/CJZN"
+        },
+        {
+            name: "CBC Music 92.1",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFM_CBC_SC"
+        },
+        {
+            name: "Ocean 98.5",
+            logo: "stations/images-america/canada/victoria/Ocean 98.5.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic985.stream/icy"
+        },
+        {
+            name: "ICI Première 99.7",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFFM_SRC_SC"
+        },
+        {
+            name: "100.3 The Q",
+            logo: "stations/images-america/canada/victoria/100.3 The Q.png",
+            url: "https://redirect.jpbgdigital.com/CKKQ"
+        },
+        {
+            name: "CFUV 101.9",
+            logo: "stations/images-america/canada/victoria/CFUV 101.9.png",
+            url: "https://ais-sa1.streamon.fm/7132_64k.aac"
+        },
+        {
+            name: "JACK 103.1",
+            logo: "stations/images-america/canada/victoria/JACK 103.1.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/vic1031.stream/icy"
+        },
+        {
+            name: "107.3 Virgin Radio",
+            logo: "stations/images-america/canada/victoria/107.3 Virgin Radio.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHBEFMAAC_SC"
+        },
+        {
+            name: "107.3 CHBE-HD2",
+            logo: "stations/images-america/canada/victoria/CFAX 1070.png",
+            url: "http://192.99.6.159:3900/index.php?ats=http://playerservices.streamtheworld.com/api/livestream-redirect/CFAXAMAAC_SC"
+        },
+        {
+            name: "107.3 CHBE-HD3",
+            logo: "stations/images-america/canada/victoria/Pure Country.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
+        },
+        {
+            name: "Radio Victoria 107.9",
+            logo: "stations/images-america/canada/victoria/Radio Victoria 107.9.png",
+            url: "https://stream2.statsradio.com:8012/stream"
+        },
+        {
+            name: "Sher E Punjab 600",
+            logo: "stations/images-america/canada/vancouver/Sher E Punjab 600.png",
+            url: "https://ais-sa1.streamon.fm/7676_48k.aac"
+        },
+        {
+            name: "Sportsnet 650",
+            logo: "stations/images-america/canada/vancouver/Sportsnet 650.png",
+            url: "https://rogers-hls.leanstream.co/rogers/van650.stream/icy"
+        },
+        {
+            name: "AM730",
+            logo: "stations/images-america/canada/vancouver/AM 730.png",
+            url: "https://corus.leanstream.co/CKGOAM-MP3"
+        },
+        {
+            name: "980 CKNW",
+            logo: "stations/images-america/canada/vancouver/980 CKNW.png",
+            url: "https://live.leanstream.co/CKNWAM-MP3"
+        },
+        {
+            name: "CFAX 1070",
+            logo: "stations/images-america/canada/victoria/CFAX 1070.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFAXAMAAC_SC"
         },
         {
             name: "CityNews 1130",

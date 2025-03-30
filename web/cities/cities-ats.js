@@ -12537,6 +12537,12 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 0.6
     },
+	"victoria_bc": {
+        name: "Victoria",
+        name_english: "Victoria",
+        code: "ca-bc",
+        relative_radius: 0.6
+    },
     "virden": {
         name: "Virden",
         name_english: "Virden",
@@ -12827,6 +12833,9 @@ var city_properties_canada = {
     },
     "vancouver_bc": {
         relative_whitenoise: 0.70
+    },
+    "victoria_bc": {
+        relative_whitenoise: 0.95
     },
     "virden": {
         relative_whitenoise: 0.95
@@ -13482,6 +13491,14 @@ var cities_canada = [
         "x": "-100466.8",
         "y": "75.6241",
         "z": "-72646.3"
+    },
+    {
+        "gameName": "victoria_bc",
+        "realName": "Victoria",
+        "country": "victoria_bc",
+        "x": "-101525",
+        "y": "39.4951",
+        "z": "-68937.4"
     },
     {
         "gameName": "virden",
