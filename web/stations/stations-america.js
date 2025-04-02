@@ -13289,8 +13289,8 @@ var stations = {/*
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
-            name: "Jammin' 105.7",
-            logo: "stations/images-america/las_vegas/Jammin' 105.7.png",
+            name: "105.7 Maxima",
+            logo: "stations/images-america/las_vegas/105.7 Maxima.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOASFMAAC_SC"
         },
         {
@@ -14137,8 +14137,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQRTFMAAC_SC"
         },
         {
-            name: "Jammin' 105.7",
-            logo: "stations/images-america/las_vegas/Jammin' 105.7.png",
+            name: "105.7 Maxima",
+            logo: "stations/images-america/las_vegas/105.7 Maxima.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOASFMAAC_SC"
         },
         {
@@ -15499,9 +15499,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
         {
-            name: "93.1 YES! FM",
-            logo: "stations/images-america/lubbock/93.1 YES! FM.png",
-            url: "https://ais-sa1.streamon.fm/7174_48k.aac"
+            name: "Young Country 93.1",
+            logo: "stations/images-america/lubbock/Young Country 93.1.png",
+            url: "https://ais-sa1.streamon.fm/7353_48k.aac"
         },
         {
             name: "93.7 The Eagle",
@@ -23269,6 +23269,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
+            name: "PartyMix 98.9",
+            logo: "stations/images-america/san_diego/PartyMix 98.9.png",
+            url: "https://cast6.asurahosting.com/proxy/luisf/adictivafmtijuana"
+        },
+        {
             name: "FM Globo 99.3",
             logo: "stations/images-america/san_diego/FM Globo 99.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCL_SC"
@@ -23362,6 +23367,11 @@ var stations = {/*
             name: "San Diego Sports 760",
             logo: "stations/images-america/san_diego/San Diego Sports 760.png",
             url: "https://stream.revma.ihrhls.com/zc8528/hls.m3u8"
+        },
+        {
+            name: "Norte 800",
+            logo: "stations/images-america/san_diego/Norte 800.png",
+            url: "https://cast6.asurahosting.com/proxy/norte/stream"
         },
         {
             name: "La Poderosa 860",
@@ -24735,6 +24745,11 @@ var stations = {/*
             name: "Relevant Radio 99.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "Mine Country 102.1",
+            logo: "stations/images-america/socorro/Mine Country 102.1.png",
+            url: "http://us2.maindigitalstream.com:7013/stream"
         },/*
         {
             name: "Buenas Nuevas 104.7",
@@ -30795,6 +30810,11 @@ var stations = {/*
             name: "La Dinámica 105.9",
             logo: "stations/images-america/mexico/mexicali/La Dinámica 105.9.png",
             url: "https://stream.zeno.fm/ndwg5rs5dkhvv"
+        },
+        {
+            name: "PartyMix 106.7",
+            logo: "stations/images-america/mexico/mexicali/PartyMix 106.7.png",
+            url: "https://cast5.asurahosting.com/proxy/lacalurosa/stream"
         },
         {
             name: "Buenísima 850",
@@ -38014,9 +38034,9 @@ var stations = {/*
             url: "https://ic2.sslstream.com/wbpe-fm"
         },
         {
-            name: "Y95",
-            logo: "stations/images-america/c2c/lafayette_in/Y95.png",
-            url: "https://ic2.sslstream.com/wycm-fm"
+            name: "95.7 MeTV Music",
+            logo: "stations/images-america/c2c/lafayette_in/95.7 MeTV Music.png",
+            url: "https://streaming.live365.com/a14712"
         },
         {
             name: "Z96.5",
@@ -41266,6 +41286,11 @@ var stations = {/*
         },
     ],
     "washington_dc": [
+        {
+            name: "Qué Onda 87.7",
+            logo: "stations/images-america/c2c/washington_dc/Qué Onda 87.7.png",
+            url: "https://ais-sa1.streamon.fm/7924_96k.aac"
+        },
         {
             name: "WAMU 88.5",
             logo: "stations/images-america/c2c/washington_dc/WAMU 88.5.png",
@@ -45105,7 +45130,7 @@ var stations = {/*
         },
         {
             name: "96.3 WXNY-HD2",
-            logo: "stations/images-america/c2c/nyc/WADO 1280.png",
+            logo: "stations/images-america/c2c/nyc/Qué Buena 1280.png",
             url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/wadoam-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
@@ -45339,8 +45364,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-winsamaac-imc"
         },
         {
-            name: "WADO 1280",
-            logo: "stations/images-america/c2c/nyc/WADO 1280.png",
+            name: "Qué Buena 1280",
+            logo: "stations/images-america/c2c/nyc/Qué Buena 1280.png",
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wadoam-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
