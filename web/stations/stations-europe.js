@@ -3634,6 +3634,11 @@ var stations = {/*
             url: "https://stream.rcs.revma.com/10q3enqxbfhvv"
         },
         {
+            name: "Κανάλι Ένα 90.4",
+            logo: "stations/images-europe/greece/athens/Κανάλι Ένα 90.4.png",
+            url: "https://netradio.live24.gr/kanali1peiraia"
+        },
+        {
             name: "Αρτ FM 90.6",
             logo: "stations/images-europe/greece/athens/Αρτ FM 90.6.png",
             url: "https://radio.streamings.gr/proxy/beradio?mp=/be.aac"
