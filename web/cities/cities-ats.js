@@ -1527,7 +1527,7 @@ var country_properties = {
         name: "Poplar Bluff",
         name_english: "Poplar Bluff",
         code: "us-mo",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "port_angeles": {
         name: "Port Angeles",
@@ -1647,7 +1647,7 @@ var country_properties = {
         name: "rolla",
         name_english: "rolla",
         code: "us-mo",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "roswell": {
         name: "Roswell",
@@ -1857,7 +1857,7 @@ var country_properties = {
         name: "Sedalia",
         name_english: "Sedalia",
         code: "us-mo",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "show_low": {
         name: "Show Low",
@@ -3843,9 +3843,9 @@ var cities = [
         "gameName": "cape_girardeau",
         "realName": "Cape Girardeau",
         "country": "cape_girardeau",
-        "x": "29501.2",
-        "y": "47.5692",
-        "z": "10440.7"
+        "x": "29311.8",
+        "y": "77.5391",
+        "z": "8091.99"
     },
     {
         "gameName": "carlsbad_nm",
@@ -3987,9 +3987,9 @@ var cities = [
         "gameName": "columbia_jcmo",
         "realName": "Columbia / Jefferson City",
         "country": "columbia_jcmo",
-        "x": "17386.3",
-        "y": "125.087",
-        "z": "-138.205"
+        "x": "15450.5",
+        "y": "120",
+        "z": "-812.559"
     },
     {
         "gameName": "columbus",
@@ -4598,15 +4598,15 @@ var cities = [
         "x": "19055.1",
         "y": "29.9327",
         "z": "33363.9"
-    },/*
+    },
     {
         "gameName": "hannibal",
         "realName": "Hannibal",
         "country": "hannibal",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "19841.1",
+        "y": "77.3459",
+        "z": "-4531.3"
+    },
     {
         "gameName": "harrison",
         "realName": "Harrison",
@@ -4798,15 +4798,15 @@ var cities = [
         "x": "-58060.3",
         "y": "158.566",
         "z": "-31351.6"
-    },/*
+    },
     {
         "gameName": "jefferson_city",
         "realName": "Jefferson City",
         "country": "columbia_jcmo",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "16908.3",
+        "y": "77.4219",
+        "z": "2037.67"
+    },
     {
         "gameName": "john_day",
         "realName": "John Day",
@@ -4827,9 +4827,9 @@ var cities = [
         "gameName": "joplin",
         "realName": "Joplin",
         "country": "joplin",
-        "x": "6903.6",
-        "y": "130.968",
-        "z": "9488.4"
+        "x": "7068.35",
+        "y": "62.6992",
+        "z": "11367.4"
     },
     {
         "gameName": "jordan",
@@ -4931,9 +4931,9 @@ var cities = [
         "gameName": "kirksville",
         "realName": "Kirksville",
         "country": "kirksville",
-        "x": "15336.8",
-        "y": "44.8823",
-        "z": "-6167.12"
+        "x": "14876.6",
+        "y": "140.91",
+        "z": "-7023.64"
     },
     {
         "gameName": "klamath_f",
@@ -5246,15 +5246,15 @@ var cities = [
         "x": "-104462",
         "y": "65.4794",
         "z": "11502.9"
-    },/*
+    },
     {
         "gameName": "maryville",
         "realName": "Maryville",
         "country": "maryville",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "5303.35",
+        "y": "70",
+        "z": "-7513.68"
+    },
     {
         "gameName": "marysville",
         "realName": "Marysville",
@@ -5558,15 +5558,15 @@ var cities = [
         "x": "-11409.6",
         "y": "65.236",
         "z": "-19863.6"
-    },/*
+    },
     {
         "gameName": "osage_beach",
         "realName": "Osage Beach",
         "country": "osage_beach",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "15169.5",
+        "y": "57.8204",
+        "z": "4629.92"
+    },
     {
         "gameName": "ouray",
         "realName": "Ouray",
@@ -5694,15 +5694,15 @@ var cities = [
         "x": "-68356.2",
         "y": "81.6259",
         "z": "-27970.9"
-    },/*
+    },
     {
         "gameName": "poplar_bluff",
         "realName": "Poplar Bluff",
         "country": "poplar_bluff",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "25327",
+        "y": "70",
+        "z": "12544.5"
+    },
     {
         "gameName": "port_angeles",
         "realName": "Port Angeles",
@@ -5883,9 +5883,9 @@ var cities = [
         "gameName": "rolla",
         "realName": "Rolla",
         "country": "rolla",
-        "x": "18164.2",
-        "y": "24.3027",
-        "z": "6092.5"
+        "x": "19098",
+        "y": "66.9141",
+        "z": "5746.81"
     },
     {
         "gameName": "roswell",
@@ -6142,15 +6142,15 @@ var cities = [
         "x": "-97690.4",
         "y": "101.912",
         "z": "-63065.2"
-    },/*
+    },
     {
         "gameName": "sedalia",
         "realName": "Sedalia",
         "country": "sedalia",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "12342.6",
+        "y": "51.845",
+        "z": "1465.22"
+    },
     {
         "gameName": "shamrock",
         "realName": "Shamrock",
@@ -6227,17 +6227,17 @@ var cities = [
         "gameName": "springfield_mo",
         "realName": "Springfield",
         "country": "springfield_mo",
-        "x": "12774.7",
-        "y": "112.742",
-        "z": "10257.9"
+        "x": "12754.8",
+        "y": "75.8594",
+        "z": "9791.22"
     },
     {
         "gameName": "springfield_mo",
         "realName": "Springfield",
         "country": "harrison_khbz",
-        "x": "12774.7",
-        "y": "112.742",
-        "z": "10257.9"
+        "x": "12754.8",
+        "y": "75.8594",
+        "z": "9791.22"
     },
     {
         "gameName": "susanv",
@@ -6299,25 +6299,25 @@ var cities = [
         "gameName": "st_joseph",
         "realName": "St. Joseph",
         "country": "st_joseph",
-        "x": "5300.43",
-        "y": "136.541",
-        "z": "-7084.05"
+        "x": "4544.22",
+        "y": "67.7188",
+        "z": "-4752.35"
     },
     {
         "gameName": "st_joseph",
         "realName": "St. Joseph",
         "country": "kansas_city",
-        "x": "5300.43",
-        "y": "136.541",
-        "z": "-7084.05"
+        "x": "4544.22",
+        "y": "67.7188",
+        "z": "-4752.35"
     },
     {
         "gameName": "st_louis",
         "realName": "St. Louis",
         "country": "st_louis",
-        "x": "25065.6",
-        "y": "81.9595",
-        "z": "806.646"
+        "x": "25707.9",
+        "y": "100.5",
+        "z": "1361.86"
     },
     {
         "gameName": "stockton",
@@ -10909,15 +10909,15 @@ var cities_c2c = [
         "x": "25361.1",
         "y": "42.8892",
         "z": "-10042.6"
-    },/*
+    },
     {
         "gameName": "quincy_il",
         "realName": "Quincy",
         "country": "quincy_il",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "21377.1",
+        "y": "24.2412",
+        "z": "-5253.58"
+    },
     {
         "gameName": "rockford_il",
         "realName": "Rockford",
@@ -10997,15 +10997,15 @@ var cities_c2c = [
         "x": "22909.3",
         "y": "88.9163",
         "z": "-15390.4"
-    },/*
+    },
     {
         "gameName": "ottumwa",
         "realName": "Ottumwa",
         "country": "ottumwa",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "16536.7",
+        "y": "135.653",
+        "z": "-11925.7"
+    },
     {
         "gameName": "sioux_city",
         "realName": "Sioux City",
