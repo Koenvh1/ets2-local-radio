@@ -485,6 +485,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
+    "deepwater": {
+        name: "Deepwater",
+        name_english: "Deepwater",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "de_queen": {
         name: "De Queen",
         name_english: "De Queen",
@@ -1431,7 +1437,7 @@ var country_properties = {
         name: "Osage Beach",
         name_english: "Osage Beach",
         code: "us-mo",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "ouray": {
         name: "Ouray",
@@ -1644,10 +1650,10 @@ var country_properties = {
         relative_radius: 0.7
     },
     "rolla": {
-        name: "rolla",
-        name_english: "rolla",
+        name: "Rolla",
+        name_english: "Rolla",
         code: "us-mo",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "roswell": {
         name: "Roswell",
@@ -2129,6 +2135,12 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 0.8
     },
+    "willow_springs": {
+        name: "Willow Springs",
+        name_english: "Willow Springs",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "wolfpoint": {
         name: "Wolf Point",
         name_english: "Wolf Point",
@@ -2434,6 +2446,9 @@ var city_properties = {
     },
     "denver": {
         relative_whitenoise: 0.85
+    },
+    "deepwater": {
+        relative_whitenoise: 0.95
     },
     "de_queen": {
         relative_whitenoise: 0.95
@@ -3344,6 +3359,9 @@ var city_properties = {
     "winnemucca": {
         relative_whitenoise: 0.80
     },
+    "willow_springs": {
+        relative_whitenoise: 0.95
+    },
     "wolfpoint": {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
@@ -4118,6 +4136,14 @@ var cities = [
         "x": "-38561.4",
         "y": "138.176",
         "z": "-5191.34"
+    },
+    {
+        "gameName": "deepwater",
+        "realName": "Deepwater",
+        "country": "deepwater",
+        "x": "10305.1",
+        "y": "34.3728",
+        "z": "4579.84"
     },
     {
         "gameName": "de_queen",
@@ -6638,6 +6664,14 @@ var cities = [
         "x": "-91334.8",
         "y": "144.754",
         "z": "-22075.4"
+    },
+    {
+        "gameName": "willow_springs",
+        "realName": "Willow Springs",
+        "country": "willow_springs",
+        "x": "19635.9",
+        "y": "22.5279",
+        "z": "11553.7"
     },
     {
         "gameName": "wolfpoint",
