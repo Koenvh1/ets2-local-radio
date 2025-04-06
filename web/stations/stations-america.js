@@ -1429,7 +1429,7 @@ var stations = {/*
         },
         {
             name: "Sports Radio 870",
-            logo: "stations/images-america/auburn_ne/Sports Radio 870.png",
+            logo: "stations/images-america/bethany/Sports Radio 870.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {
@@ -2339,6 +2339,135 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAMAAC_SC"
         },
     ],
+    "beatrice": [
+        {
+            name: "KWBE 94.7",
+            logo: "stations/images-america/beatrice/KWBE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWBEAMAAC_SC"
+        },
+    ],
+    "beaumont": [
+        {
+            name: "KLBT 88.1",
+            logo: "stations/images-america/beaumont/KLBT 88.1.png",
+            url: "https://ice5.securenetsystems.net/KLBT"
+        },
+        {
+            name: "KGHY 88.5",
+            logo: "stations/images-america/beaumont/KGHY 88.5.png",
+            url: "https://ice42.securenetsystems.net/KGHY"
+        },
+        {
+            name: "Family Radio 89.7",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+        },
+        {
+            name: "afr Hybrid 90.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp3"
+        },
+        {
+            name: "91.3 KVLU",
+            logo: "stations/images-america/beaumont/91.3 KVLU.png",
+            url: "https://kvlustream.lamar.edu:8443/stream"
+        },
+        {
+            name: "Cool 92.5",
+            logo: "stations/images-america/beaumont/Cool 92.5.png",
+            url: "https://stream.revma.ihrhls.com/zc2189/hls.m3u8"
+        },
+        {
+            name: "TUDN Radio 93.3",
+            logo: "stations/images-america/houston/TUDN Radio 93.3.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "Q94",
+            logo: "stations/images-america/beaumont/Q94.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQXYFMAAC_SC"
+        },
+        {
+            name: "Kicker 95.1",
+            logo: "stations/images-america/beaumont/Kicker 95.1.png",
+            url: "https://stream.revma.ihrhls.com/zc2205/hls.m3u8"
+        },
+        {
+            name: "K-LOVE 97.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "99.9 KHIH",
+            logo: "stations/images-america/houston/89.3 KSBJ.png",
+            url: "https://ais-sa8.cdnstream1.com/3327_64.aac"
+        },
+        {
+            name: "100.7 The Word",
+            logo: "stations/images-america/houston/100.7 The Word.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKHTFMAAC_SC"
+        },
+        {
+            name: "KAYD 101.7",
+            logo: "stations/images-america/beaumont/KAYD 101.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC_SC"
+        },
+        {
+            name: "Magic 102.5",
+            logo: "stations/images-america/beaumont/Magic 102.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCXFMAAC_SC"
+        },
+        {
+            name: "103.3 The Beat",
+            logo: "stations/images-america/beaumont/103.3 The Beat.png",
+            url: "https://stream.revma.ihrhls.com/zc6457/hls.m3u8"
+        },
+        {
+            name: "Air1 103.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "104.5 KISS FM",
+            logo: "stations/images-america/beaumont/104.5 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc2201/hls.m3u8"
+        },
+        {
+            name: "104.9 K285GD",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
+            name: "K-LOVE 105.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "BIG DOG 106",
+            logo: "stations/images-america/beaumont/BIG DOG 106.png",
+            url: "https://stream.revma.ihrhls.com/zc2193/hls.m3u8"
+        },
+        {
+            name: "The Eagle 106.9",
+            logo: "stations/images-america/houston/The Eagle 107.5.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGLKFMAAC_SC"
+        },
+        {
+            name: "560 KLVI",
+            logo: "stations/images-america/beaumont/560 KLVI.png",
+            url: "https://stream.revma.ihrhls.com/zc2197/hls.m3u8"
+        },
+        {
+            name: "740 KTRH",
+            logo: "stations/images-america/houston/740 KTRH.png",
+            url: "https://stream.revma.ihrhls.com/zc2285/hls.m3u8"
+        },
+        {
+            name: "SportsTalk 790",
+            logo: "stations/images-america/houston/SportsTalk 790.png",
+            url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
+        },
+    ],
     "bend": [
         {
             name: "KLCC 88.1",
@@ -2481,133 +2610,96 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/horizonbroadcasting-kbnwamaac-ibc1"
         },
     ],
-    "beatrice": [
+    "bethany": [
         {
-            name: "KWBE 94.7",
-            logo: "stations/images-america/beatrice/KWBE.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWBEAMAAC_SC"
-        },
-    ],
-    "beaumont": [
-        {
-            name: "KLBT 88.1",
-            logo: "stations/images-america/beaumont/KLBT 88.1.png",
-            url: "https://ice5.securenetsystems.net/KLBT"
+            name: "KRNW 88.9",
+            logo: "stations/images-america/maryville/KXCV_KNRW.png",
+            url: "https://ice24.securenetsystems.net/KXCV"
         },
         {
-            name: "KGHY 88.5",
-            logo: "stations/images-america/beaumont/KGHY 88.5.png",
-            url: "https://ice42.securenetsystems.net/KGHY"
+            name: "KMWC 91.3",
+            logo: "stations/images-america/bethany/KMWC 91.3.png",
+            url: "https://streaming.live365.com/a28002"
         },
         {
-            name: "Family Radio 89.7",
-            logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            name: "KXCV 90.5",
+            logo: "stations/images-america/maryville/KXCV_KNRW.png",
+            url: "http://ice24.securenetsystems.net/KXCV"
         },
         {
-            name: "afr Hybrid 90.5",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp3"
+            name: "VCY America 91.7",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
         {
-            name: "91.3 KVLU",
-            logo: "stations/images-america/beaumont/91.3 KVLU.png",
-            url: "https://kvlustream.lamar.edu:8443/stream"
+            name: "KTTN 92.3",
+            logo: "stations/images-america/bethany/KTTN 92.3.png",
+            url: "http://s5.voscast.com:7194/;"
         },
         {
-            name: "Cool 92.5",
-            logo: "stations/images-america/beaumont/Cool 92.5.png",
-            url: "https://stream.revma.ihrhls.com/zc2189/hls.m3u8"
+            name: "95.5 KAAN",
+            logo: "stations/images-america/maryville/95.5 KAAN.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
         },
         {
-            name: "TUDN Radio 93.3",
-            logo: "stations/images-america/houston/TUDN Radio 93.3.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            name: "IPR News 97.9",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
         },
         {
-            name: "Q94",
-            logo: "stations/images-america/beaumont/Q94.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQXYFMAAC_SC"
+            name: "KMA 99.1",
+            logo: "stations/images-america/omaha/KMA 960.png",
+            url: "https://ice5.securenetsystems.net/KMAAM"
         },
         {
-            name: "Kicker 95.1",
-            logo: "stations/images-america/beaumont/Kicker 95.1.png",
-            url: "https://stream.revma.ihrhls.com/zc2205/hls.m3u8"
+            name: "Classic Rock 100.1",
+            logo: "stations/images-america/bethany/KTTN 92.3.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkwkfmaac-ibc4"
         },
         {
-            name: "K-LOVE 97.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            name: "Z101.7",
+            logo: "stations/images-america/bethany/Z101.7.png",
+            url: "http://s5.voscast.com:7206/;"
         },
         {
-            name: "99.9 KHIH",
-            logo: "stations/images-america/houston/89.3 KSBJ.png",
-            url: "https://ais-sa8.cdnstream1.com/3327_64.aac"
+            name: "Sports Radio 103.7",
+            logo: "stations/images-america/bethany/Sports Radio 870.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {
-            name: "100.7 The Word",
-            logo: "stations/images-america/houston/100.7 The Word.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKHTFMAAC_SC"
+            name: "Life 107.1",
+            logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
+            url: "https://nwm.streamguys1.com/knwi"
         },
         {
-            name: "KAYD 101.7",
-            logo: "stations/images-america/beaumont/KAYD 101.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAYDFMAAC_SC"
+            name: "Bott Radio 107.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
-            name: "Magic 102.5",
-            logo: "stations/images-america/beaumont/Magic 102.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCXFMAAC_SC"
+            name: "680 KFEQ",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
         },
         {
-            name: "103.3 The Beat",
-            logo: "stations/images-america/beaumont/103.3 The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc6457/hls.m3u8"
+            name: "710 KCMO",
+            logo: "stations/images-america/kansas_city/KCMO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOAMAAC_SC"
         },
         {
-            name: "Air1 103.7",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            name: "810 WHB",
+            logo: "stations/images-america/kansas_city/810 WHB.png",
+            url: "https://live.amperwave.net/manifest/unionbroadcasting-whbamaac-ibc2"
         },
         {
-            name: "104.5 KISS FM",
-            logo: "stations/images-america/beaumont/104.5 KISS FM.png",
-            url: "https://stream.revma.ihrhls.com/zc2201/hls.m3u8"
+            name: "Sports Radio 870",
+            logo: "stations/images-america/bethany/Sports Radio 870.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {
-            name: "104.9 K285GD",
-            logo: "stations/images-america/0_general_logos/KHCB.png",
-            url: "https://khcb.streamguys1.com/live-128k-mp3"
-        },
-        {
-            name: "K-LOVE 105.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "BIG DOG 106",
-            logo: "stations/images-america/beaumont/BIG DOG 106.png",
-            url: "https://stream.revma.ihrhls.com/zc2193/hls.m3u8"
-        },
-        {
-            name: "The Eagle 106.9",
-            logo: "stations/images-america/houston/The Eagle 107.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGLKFMAAC_SC"
-        },
-        {
-            name: "560 KLVI",
-            logo: "stations/images-america/beaumont/560 KLVI.png",
-            url: "https://stream.revma.ihrhls.com/zc2197/hls.m3u8"
-        },
-        {
-            name: "740 KTRH",
-            logo: "stations/images-america/houston/740 KTRH.png",
-            url: "https://stream.revma.ihrhls.com/zc2285/hls.m3u8"
-        },
-        {
-            name: "SportsTalk 790",
-            logo: "stations/images-america/houston/SportsTalk 790.png",
-            url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
+            name: "1040 WHO",
+            logo: "stations/images-america/c2c/desmoines_ia/1040 WHO.png",
+            url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
         },
     ],
     "big_piney": [
@@ -16108,7 +16200,7 @@ var stations = {/*
         },
         {
             name: "Sports Radio 870",
-            logo: "stations/images-america/auburn_ne/Sports Radio 870.png",
+            logo: "stations/images-america/bethany/Sports Radio 870.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {

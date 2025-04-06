@@ -161,16 +161,22 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.5
     },
+    "belleville_ks": {
+        name: "Belleville",
+        name_english: "Belleville",
+        code: "us-ks",
+        relative_radius: 0.5
+    },
     "bend": {
         name: "Bend",
         name_english: "Bend",
         code: "us-or",
         relative_radius: 0.7
     },
-    "belleville_ks": {
-        name: "Belleville",
-        name_english: "Belleville",
-        code: "us-ks",
+    "bethany": {
+        name: "Bethany",
+        name_english: "Bethany",
+        code: "us-mo",
         relative_radius: 0.5
     },
     "bishop": {
@@ -2284,6 +2290,9 @@ var city_properties = {
     "bend": {
         relative_whitenoise: 0.85
     },
+    "bethany": {
+        relative_whitenoise: 0.95
+    },
     "bishop": {
         relative_whitenoise: 0.85
     },
@@ -2628,6 +2637,10 @@ var city_properties = {
     },
     "hannibal": {
         relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
+    "hannibal_north": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "harrison": {
@@ -3657,6 +3670,14 @@ var cities = [
         "z": "-69115"
     },
     {
+        "gameName": "belleville_ks",
+        "realName": "Belleville",
+        "country": "mankato",
+        "x": "-6183.93",
+        "y": "16.2227",
+        "z": "-4672.59"
+    },
+    {
         "gameName": "bend",
         "realName": "Bend",
         "country": "bend",
@@ -3665,12 +3686,12 @@ var cities = [
         "z": "-42357.6"
     },
     {
-        "gameName": "belleville_ks",
-        "realName": "Belleville",
-        "country": "mankato",
-        "x": "-6183.93",
-        "y": "16.2227",
-        "z": "-4672.59"
+        "gameName": "bethany",
+        "realName": "Bethany",
+        "country": "bethany",
+        "x": "9225.54",
+        "y": "42.6341",
+        "z": "-7276.33"
     },
     {
         "gameName": "big_bend",
@@ -4639,6 +4660,14 @@ var cities = [
         "x": "19841.1",
         "y": "77.3459",
         "z": "-4531.3"
+    },
+    {
+        "gameName": "hannibal_north",
+        "realName": "Hannibal",
+        "country": "hannibal_quincy",
+        "x": "19841.1",
+        "y": "77.3459",
+        "z": "-7531.3"
     },
     {
         "gameName": "harrison",
