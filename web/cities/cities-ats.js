@@ -1029,7 +1029,7 @@ var country_properties = {
         name: "Kirksville",
         name_english: "Kirksville",
         code: "us-mo",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "klamath_f": {
         name: "Klamath Falls",
@@ -1576,6 +1576,12 @@ var country_properties = {
         name_english: "Presidio",
         code: "us-tx",
         relative_radius: 0.6
+    },
+    "princeton": {
+        name: "Princeton",
+        name_english: "Princeton",
+        code: "us-mo",
+        relative_radius: 0.5
     },
     "quemado": {
         name: "Quemado",
@@ -3062,6 +3068,10 @@ var city_properties = {
     "presidio": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
+    },
+    "princeton": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "quemado": {
         relative_whitenoise: 0.95
@@ -4995,7 +5005,7 @@ var cities = [
         "country": "kirksville",
         "x": "14876.6",
         "y": "140.91",
-        "z": "-7023.64"
+        "z": "-6523.64"
     },
     {
         "gameName": "klamath_f",
@@ -5812,6 +5822,14 @@ var cities = [
         "x": "-39989.5",
         "y": "38.5195",
         "z": "51575.1"
+    },
+    {
+        "gameName": "princeton",
+        "realName": "Princeton",
+        "country": "bethany",
+        "x": "12466.2",
+        "y": "16.5166",
+        "z": "-8722.28"
     },
     {
         "gameName": "quemado",
