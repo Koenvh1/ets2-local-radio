@@ -1115,12 +1115,6 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.9
     },
-    "lawrence": {
-        name: "Lawrence",
-        name_english: "Lawrence",
-        code: "us-ks",
-        relative_radius: 0.8
-    },
     "lawton": {
         name: "Lawton",
         name_english: "Lawton",
@@ -2001,7 +1995,7 @@ var country_properties = {
         name: "Topeka",
         name_english: "Topeka",
         code: "us-ks",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "truckee": {
         name: "Truckee",
@@ -2817,9 +2811,6 @@ var city_properties = {
 		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
-    "lawrence": {
-        relative_whitenoise: 0.95
-    },
     "lawton": {
         relative_whitenoise: 0.95
     },
@@ -3304,7 +3295,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "topeka": {
-		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "truckee": {
@@ -5120,14 +5110,6 @@ var cities = [
         "z": "-40981.6"
     },
     {
-        "gameName": "lawrence",
-        "realName": "Lawrence",
-        "country": "lawrence",
-        "x": "1862.19",
-        "y": "175.426",
-        "z": "-96.5295"
-    },
-    {
         "gameName": "lawton",
         "realName": "Lawton",
         "country": "lawton",
@@ -6371,9 +6353,9 @@ var cities = [
         "gameName": "st_joseph_kkjo",
         "realName": "St. Joseph",
         "country": "st_joseph_kkjo",
-        "x": "2920.43",
+        "x": "4320.43",
         "y": "136.541",
-        "z": "-3384.05"
+        "z": "-4234.05"
     },
     {
         "gameName": "st_joseph",

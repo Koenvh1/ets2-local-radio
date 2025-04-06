@@ -39521,6 +39521,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
+            name: "105.9 KISS FM",
+            logo: "stations/images-america/topeka/105.9 KISS FM.png",
+            url: "https://ice23.securenetsystems.net/KKSWFM"
+        },
+        {
             name: "Country 106.9",
             logo: "stations/images-america/topeka/Country 106.9.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
@@ -39554,13 +39559,6 @@ var stations = {/*
             name: "1490 KTOP",
             logo: "stations/images-america/topeka/1490 KTOP.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPAMAAC_SC"
-        },
-    ],
-    "lawrence": [
-        {
-            name: "105.9 KISS FM",
-            logo: "stations/images-america/lawrence/105.9 KISS FM.png",
-            url: "https://ice23.securenetsystems.net/KKSWFM"
         },
     ],
     "bowling_green": [
