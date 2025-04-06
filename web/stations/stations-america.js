@@ -2653,7 +2653,7 @@ var stations = {/*
         },
         {
             name: "Classic Rock 100.1",
-            logo: "stations/images-america/bethany/KTTN 92.3.png",
+            logo: "stations/images-america/bethany/Classic Rock 100.1.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkwkfmaac-ibc4"
         },
         {

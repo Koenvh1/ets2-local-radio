@@ -987,7 +987,7 @@ var country_properties = {
         name: "Kansas City",
         name_english: "Kansas City",
         code: "us-mo",
-        relative_radius: 1.0
+        relative_radius: 0.9
     },
     "katl": {
         name: "770 KATL",
@@ -1577,12 +1577,6 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.6
     },
-    "princeton": {
-        name: "Princeton",
-        name_english: "Princeton",
-        code: "us-mo",
-        relative_radius: 0.5
-    },
     "quemado": {
         name: "Quemado",
         name_english: "Quemado",
@@ -1935,13 +1929,13 @@ var country_properties = {
         name: "St. Joseph",
         name_english: "St. Joseph",
         code: "us-mo",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "st_joseph_kkjo": {
         name: "St. Joseph",
         name_english: "St. Joseph",
         code: "us-mo",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "st_louis": {
         name: "St. Louis",
@@ -3069,10 +3063,6 @@ var city_properties = {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
-    "princeton": {
-        relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
     "quemado": {
         relative_whitenoise: 0.95
     },
@@ -3263,7 +3253,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "st_joseph": {
-        relative_radius: 0.7,
+        relative_radius: 0.4,
         relative_whitenoise: 0.85
     },
     "st_joseph_kkjo": {
@@ -4963,9 +4953,9 @@ var cities = [
         "gameName": "kansas_city",
         "realName": "Kansas City",
         "country": "kansas_city",
-        "x": "6395.63",
+        "x": "6693.1",
         "y": "85.3633",
-        "z": "-1601.14"
+        "z": "-114.828"
     },
     {
         "gameName": "kennewick",
@@ -5822,14 +5812,6 @@ var cities = [
         "x": "-39989.5",
         "y": "38.5195",
         "z": "51575.1"
-    },
-    {
-        "gameName": "princeton",
-        "realName": "Princeton",
-        "country": "bethany",
-        "x": "12466.2",
-        "y": "16.5166",
-        "z": "-8722.28"
     },
     {
         "gameName": "quemado",
