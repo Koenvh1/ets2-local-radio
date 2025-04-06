@@ -1995,7 +1995,7 @@ var country_properties = {
         name: "Topeka",
         name_english: "Topeka",
         code: "us-ks",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "truckee": {
         name: "Truckee",
@@ -6465,9 +6465,9 @@ var cities = [
         "gameName": "topeka",
         "realName": "Topeka",
         "country": "topeka",
-        "x": "653.289",
+        "x": "603.289",
         "y": "96.8672",
-        "z": "-76.1289"
+        "z": "576.1289"
     },
     {
         "gameName": "truckee",
@@ -9189,7 +9189,7 @@ var country_properties_c2c = {
         name: "desmoines",
         name_english: "desmoines",
         code: "us-ia",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "davenport": {
         name: "Davenport",
