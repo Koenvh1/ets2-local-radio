@@ -803,6 +803,12 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.5
     },
+    "hannibal_quincy": {
+        name: "Hannibal/Quincy",
+        name_english: "Hannibal/Quincy",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "harrison": {
         name: "Harrison",
         name_english: "Harrison",
@@ -4629,15 +4635,7 @@ var cities = [
     {
         "gameName": "hannibal",
         "realName": "Hannibal",
-        "country": "hannibal",
-        "x": "19841.1",
-        "y": "77.3459",
-        "z": "-4531.3"
-    },
-    {
-        "gameName": "hannibal",
-        "realName": "Hannibal",
-        "country": "quincy_il",
+        "country": "hannibal_quincy",
         "x": "19841.1",
         "y": "77.3459",
         "z": "-4531.3"
@@ -10957,15 +10955,7 @@ var cities_c2c = [
     {
         "gameName": "quincy_il",
         "realName": "Quincy",
-        "country": "quincy_il",
-        "x": "21377.1",
-        "y": "24.2412",
-        "z": "-5253.58"
-    },
-    {
-        "gameName": "quincy_il",
-        "realName": "Quincy",
-        "country": "hannibal",
+        "country": "hannibal_quincy",
         "x": "21377.1",
         "y": "24.2412",
         "z": "-5253.58"
