@@ -24881,7 +24881,7 @@ var stations = {/*
         {
             name: "Mine Country 102.1",
             logo: "stations/images-america/socorro/Mine Country 102.1.png",
-            url: "http://us2.maindigitalstream.com:7013/stream"
+            url: "http://hda0856qsyd.sn.mynetname.net:11021/knmq"
         },/*
         {
             name: "Buenas Nuevas 104.7",

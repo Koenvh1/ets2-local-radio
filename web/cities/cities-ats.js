@@ -801,13 +801,13 @@ var country_properties = {
         name: "Hannibal",
         name_english: "Hannibal",
         code: "us-mo",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "hannibal_quincy": {
         name: "Hannibal/Quincy",
         name_english: "Hannibal/Quincy",
         code: "us-mo",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "harrison": {
         name: "Harrison",
@@ -2627,7 +2627,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "hannibal": {
-        relative_radius: 0.5,
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "harrison": {
@@ -9106,7 +9106,7 @@ var country_properties_c2c = {
         name: "Quincy",
         name_english: "Quincy",
         code: "us-il",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "rockford_il": {
         name: "Rockford",
@@ -10163,7 +10163,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "quincy_il": {
-        relative_radius: 0.5,
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "rockford_il": {
