@@ -2621,6 +2621,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "hannibal": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "harrison": {
@@ -4629,6 +4630,14 @@ var cities = [
         "gameName": "hannibal",
         "realName": "Hannibal",
         "country": "hannibal",
+        "x": "19841.1",
+        "y": "77.3459",
+        "z": "-4531.3"
+    },
+    {
+        "gameName": "hannibal",
+        "realName": "Hannibal",
+        "country": "quincy_il",
         "x": "19841.1",
         "y": "77.3459",
         "z": "-4531.3"
@@ -9099,7 +9108,7 @@ var country_properties_c2c = {
         name: "Quincy",
         name_english: "Quincy",
         code: "us-il",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "rockford_il": {
         name: "Rockford",
@@ -10156,6 +10165,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "quincy_il": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "rockford_il": {
@@ -10948,6 +10958,14 @@ var cities_c2c = [
         "gameName": "quincy_il",
         "realName": "Quincy",
         "country": "quincy_il",
+        "x": "21377.1",
+        "y": "24.2412",
+        "z": "-5253.58"
+    },
+    {
+        "gameName": "quincy_il",
+        "realName": "Quincy",
+        "country": "hannibal",
         "x": "21377.1",
         "y": "24.2412",
         "z": "-5253.58"
