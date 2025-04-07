@@ -2708,7 +2708,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "jefferson_city": {
-        relative_radius: 0.5,
+        relative_radius: 1.0,
         relative_whitenoise: 0.95
     },
     "john_day": {
@@ -4865,9 +4865,9 @@ var cities = [
         "gameName": "jefferson_city",
         "realName": "Jefferson City",
         "country": "columbia_jcmo",
-        "x": "16908.3",
+        "x": "17008.3",
         "y": "77.4219",
-        "z": "2037.67"
+        "z": "2437.67"
     },
     {
         "gameName": "john_day",

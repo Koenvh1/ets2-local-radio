@@ -5157,7 +5157,7 @@ var stations = {/*
         },
         {
             name: "KBIA 91.3-HD3",
-            logo: "stations/images-america/columbia_jcmo/KBIA.png",
+            logo: "stations/images-america/0_general_logos/XPoNential Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD3AAC_SC"
         },
         {
@@ -48139,7 +48139,7 @@ var stations = {/*
         },
         {
             name: "XPoNential 91.7-HD2",
-            logo: "stations/images-america//0_general_logos/XPoNential Radio.png",
+            logo: "stations/images-america/0_general_logos/XPoNential Radio.png",
             url: "https://stream.cinradio.org/wvxuhd2"
         },
         {
