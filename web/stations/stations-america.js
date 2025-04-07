@@ -25885,8 +25885,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kxfffmaac-ibc3"
         },
         {
-            name: "102.3 Coyote Country",
-            logo: "stations/images-america/st_george/102.3 Coyote Country.png",
+            name: "102.3 Real Country",
+            logo: "stations/images-america/st_george/102.3 Real Country.png",
             url: "http://ice10.securenetsystems.net/KUTQ"
         },
         {

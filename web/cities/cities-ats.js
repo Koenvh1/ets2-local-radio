@@ -3030,7 +3030,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "pittsburg": {
-        relative_radius: 0.5,
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "salida": {
