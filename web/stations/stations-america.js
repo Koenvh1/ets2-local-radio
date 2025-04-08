@@ -9603,12 +9603,7 @@ var stations = {/*
             name: "B95",
             logo: "stations/images-america/fresno/B95.png",
             url: "https://stream.revma.ihrhls.com/zc141/hls.m3u8"
-        },/*
-        {
-            name: "Forge 95.3",
-            logo: "stations/images-america/fresno/Forge 95.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBHHFMAAC_SC"
-        },*/
+        },
         {
             name: "95.7 The Fox",
             logo: "stations/images-america/fresno/95.7 The Fox.png",
@@ -16603,6 +16598,11 @@ var stations = {/*
             name: "Radio Vida 1290",
             logo: "stations/images-america/0_general_logos/Radio Vida.png",
             url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
+        },
+        {
+            name: "Puro Tejano 1530",
+            logo: "stations/images-america/mcallen_brownsville/Puro Tejano 1530.png",
+            url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/kyww-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
             name: "FOX Sports 1700",
@@ -26078,7 +26078,7 @@ var stations = {/*
         {
             name: "KWUR 90.3",
             logo: "stations/images-america/st_louis/KWUR 90.3.png",
-            url: "https://listen.mixlr.com/fd6582cb50f339860d5358c4120a39f4"
+            url: "https://listen.mixlr.com/1733ff0954f42e6aad3d487b624a910b"
         },
         {
             name: "STLPR 90.7",
@@ -38390,8 +38390,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYTZFMAAC_SC"
         },
         {
-            name: "97.7 Rock",
-            logo: "stations/images-america/c2c/south_bend_in/97.7 Rock.png",
+            name: "Classic Rock 97.7",
+            logo: "stations/images-america/c2c/south_bend_in/Classic Rock 97.7.png",
             url: "https://ic2.sslstream.com/wyxx-fm"
         },
         {
