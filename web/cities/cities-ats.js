@@ -1443,7 +1443,7 @@ var country_properties = {
         name: "Osage Beach",
         name_english: "Osage Beach",
         code: "us-mo",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "ouray": {
         name: "Ouray",
@@ -3244,6 +3244,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "springfield_mo": {
+		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
     "st_george": {
@@ -5619,7 +5620,7 @@ var cities = [
         "country": "osage_beach",
         "x": "15169.5",
         "y": "57.8204",
-        "z": "4629.92"
+        "z": "3829.92"
     },
     {
         "gameName": "ouray",
