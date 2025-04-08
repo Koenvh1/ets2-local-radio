@@ -3801,8 +3801,8 @@ var stations = {/*
             url: "https://ice.wbcengineering.com:8106/stream"
         },
         {
-            name: "101.5 CIL-FM",
-            logo: "stations/images-america/cape_girardeau/101.5 CIL-FM.png",
+            name: "101.5 WCIL",
+            logo: "stations/images-america/c2c/mt_vernon_il/Z100.png",
             url: "https://ice23.securenetsystems.net/WCIL"
         },
         {
