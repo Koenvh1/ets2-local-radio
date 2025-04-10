@@ -19154,8 +19154,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KQIE"
         },
         {
-            name: "1590 KVTA",
-            logo: "stations/images-america/oxnard/1590 KVTA.png",
+            name: "FOX Sports 1590",
+            logo: "stations/images-america/oxnard/FOX Sports 1590.png",
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVTA"
         },
     ],
@@ -23150,7 +23150,12 @@ var stations = {/*
             name: "920 KVEC",
             logo: "stations/images-america/santa_maria/920 KVEC.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kvecamaac-ibc3"
-        },
+        },/*
+        {
+            name: "FOX Sports 990",
+            logo: "stations/images-america/santa_maria/FOX Sports 990.png",
+            url: "https://ktms.com/"
+        },*/
         {
             name: "1240 KSMA",
             logo: "stations/images-america/santa_maria/1240 KSMA.png",
@@ -38383,6 +38388,11 @@ var stations = {/*
             name: "96.1 WSBT",
             logo: "stations/images-america/c2c/south_bend_in/96.1 WSBT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSBTAMAAC.aac"
+        },
+        {
+            name: "97.1 The Ride",
+            logo: "stations/images-america/c2c/south_bend_in/97.1 The Ride.png",
+            url: "https://ice7.securenetsystems.net/WGTO"
         },
         {
             name: "97.5 Y Country",
