@@ -1435,7 +1435,7 @@ var stations = {/*
         {
             name: "Family Radio 920",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "KMA 960",
@@ -1843,7 +1843,7 @@ var stations = {/*
         {
             name: "Family Radio 91.3",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "Retro 92.1",
@@ -2360,7 +2360,7 @@ var stations = {/*
         {
             name: "Family Radio 89.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "afr Hybrid 90.5",
@@ -2840,7 +2840,7 @@ var stations = {/*
         {
             name: "98.5 The Wolf",
             logo: "stations/images-america/billings/98.5 The Wolf.png",
-            url: "https://ice1.amtstreaming.com:8443/kewfic"
+            url: "https://ice1.amtstreaming.com:8443/kewf-raw"
         },
         {
             name: "FM 99 The Mountain",
@@ -3599,7 +3599,7 @@ var stations = {/*
         {
             name: "Family Radio 88.9",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "K-LOVE 89.7",
@@ -3801,8 +3801,8 @@ var stations = {/*
             url: "https://ice.wbcengineering.com:8106/stream"
         },
         {
-            name: "101.5 WCIL",
-            logo: "stations/images-america/c2c/mt_vernon_il/Z100.png",
+            name: "101.5 CIL-FM",
+            logo: "stations/images-america/cape_girardeau/101.5 CIL-FM.png",
             url: "https://ice23.securenetsystems.net/WCIL"
         },
         {
@@ -4027,7 +4027,7 @@ var stations = {/*
         {
             name: "Family Radio 91.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "MAX 92.5",
@@ -7755,7 +7755,7 @@ var stations = {/*
         {
             name: "Family Radio 91.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "92.3 The Fox",
@@ -15154,7 +15154,7 @@ var stations = {/*
         {
             name: "Family Radio 89.5",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "K-LOVE 90.3",
@@ -16201,7 +16201,7 @@ var stations = {/*
         {
             name: "Family Radio 920",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "KMA 960",
@@ -16807,7 +16807,7 @@ var stations = {/*
         {
             name: "Family Radio 90.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "The Dove 91.7",
@@ -17499,7 +17499,7 @@ var stations = {/*
         {
             name: "Family Radio 610",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "650 KSTE",
@@ -18788,7 +18788,7 @@ var stations = {/*
         {
             name: "Family Radio 920",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "KMA 960",
@@ -21557,7 +21557,7 @@ var stations = {/*
         {
             name: "Family Radio 88.1",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "CapRadio Music 88.9",
@@ -23610,7 +23610,7 @@ var stations = {/*
         {
             name: "Family Radio 920",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },	
         {
             name: "Radio Fórmula 950",
@@ -23939,7 +23939,7 @@ var stations = {/*
         {
             name: "Family Radio 610",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "810 KSFO",
@@ -24963,7 +24963,7 @@ var stations = {/*
         {
             name: "Family Radio 91.9",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "Radio Lobo 97.7",
@@ -32040,7 +32040,7 @@ var stations = {/*
         {
             name: "Family Radio 89.5",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "Vida Unida 89.9",
@@ -33540,7 +33540,7 @@ var stations = {/*
         {
             name: "Family Radio 88.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "Air1 89.5",
@@ -34892,7 +34892,7 @@ var stations = {/*
         {
             name: "Family Radio 1190",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "The Shepherd 1270",
@@ -49398,7 +49398,7 @@ var stations = {/*
         {
             name: "Family Radio 88.1",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "WMCE 88.5",
@@ -50351,7 +50351,7 @@ var stations = {/*
         {
             name: "Family Radio 950",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "AM 990 The Answer",
@@ -52856,7 +52856,7 @@ var stations = {/*
         {
             name: "Family Radio 93.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "Hippie Radio 94.5",
@@ -53103,7 +53103,7 @@ var stations = {/*
         {
             name: "Family Radio 89.3",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
-            url: "https://ais-sa3.cdnstream1.com/2641_64.aac"
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
             name: "90.1 WRUV",
