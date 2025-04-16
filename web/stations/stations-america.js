@@ -2657,19 +2657,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkwkfmaac-ibc4"
         },
         {
-            name: "KMZU 100.7",
-            logo: "stations/images-america/bethany/KMZU 100.7.png",
-            url: "https://ice25.securenetsystems.net/KMZU"
-        },
-        {
             name: "Z101.7",
             logo: "stations/images-america/bethany/Z101.7.png",
             url: "http://s5.voscast.com:7206/;"
-        },
-        {
-            name: "KCHI 102.5",
-            logo: "stations/images-america/bethany/KCHI 102.5.png",
-            url: "https://stream.aiir.com/b1mvfkwarqgtv"
         },
         {
             name: "Sports Radio 103.7",
@@ -4310,6 +4300,68 @@ var stations = {/*
             logo: "stations/images-america/childress/Classic Country 1150.png",
             url: "https://ice42.securenetsystems.net/KOLJ"
         },*/
+    ],
+    "chillicothe": [
+        {
+            name: "CSN Radio 88.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Spirit FM 90.3",
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://nwm-live.streamguys1.com/kcvo-aac"
+        },
+        {
+            name: "KMZU 100.7",
+            logo: "stations/images-america/chillicothe/KMZU 100.7.png",
+            url: "https://ice25.securenetsystems.net/KMZU"
+        },
+        {
+            name: "KCHI 102.5",
+            logo: "stations/images-america/chillicothe/KCHI 102.5.png",
+            url: "https://stream.aiir.com/b1mvfkwarqgtv"
+        },
+        {
+            name: "KRLI 103.9",
+            logo: "stations/images-america/chillicothe/KRLI 103.9.png",
+            url: "http://broadcast.shoutcheap.com:8153/stream"
+        },
+        {
+            name: "105.9 The Wave",
+            logo: "stations/images-america/chillicothe/105.9 The Wave.png",
+            url: "https://live.amperwave.net/manifest/rmuinc-kulhfmaac-ibc2"
+        },
+        {
+            name: "The Fan 610",
+            logo: "stations/images-america/kansas_city/The Fan 610.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
+        },
+        {
+            name: "680 KFEQ",
+            logo: "stations/images-america/st_joseph/680 KFEQ.png",
+            url: "https://live.amperwave.net/direct/eagleradio-kfeqamaac-ibc4"
+        },
+        {
+            name: "710 KCMO",
+            logo: "stations/images-america/kansas_city/KCMO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOAMAAC_SC"
+        },
+        {
+            name: "810 WHB",
+            logo: "stations/images-america/kansas_city/810 WHB.png",
+            url: "https://live.amperwave.net/manifest/unionbroadcasting-whbamaac-ibc2"
+        },
+        {
+            name: "KCHI 1010",
+            logo: "stations/images-america/chillicothe/KCHI 102.5.png",
+            url: "http://stream.aiir.com/b1mvfkwarqgtv"
+        },
+        {
+            name: "Catholic Radio 1090",
+            logo: "stations/images-america/0_general_logos/Catholic Radio Network.png",
+            url: "https://ice23.securenetsystems.net/CRN1"
+        },
     ],
     "chinle": [
         {

@@ -2398,6 +2398,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "chillicothe": {
+		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "chinle": {
@@ -3976,6 +3977,14 @@ var cities = [
         "x": "-19420.1",
         "y": "122.629",
         "z": "24984"
+    },
+    {
+        "gameName": "chillicothe",
+        "realName": "Chillicothe",
+        "country": "chillicothe",
+        "x": "11256.2",
+        "y": "44.2803",
+        "z": "-4720.42"
     },
     {
         "gameName": "chillicothe",
