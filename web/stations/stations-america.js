@@ -2657,9 +2657,19 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkwkfmaac-ibc4"
         },
         {
+            name: "KMZU 100.7",
+            logo: "stations/images-america/bethany/KMZU 100.7.png",
+            url: "https://ice25.securenetsystems.net/KMZU"
+        },
+        {
             name: "Z101.7",
             logo: "stations/images-america/bethany/Z101.7.png",
             url: "http://s5.voscast.com:7206/;"
+        },
+        {
+            name: "KCHI 102.5",
+            logo: "stations/images-america/bethany/KCHI 102.5.png",
+            url: "https://stream.aiir.com/b1mvfkwarqgtv"
         },
         {
             name: "Sports Radio 103.7",

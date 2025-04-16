@@ -341,6 +341,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.7
     },
+    "chillicothe": {
+        name: "Chillicothe",
+        name_english: "Chillicothe",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "chinle": {
         name: "Chinle",
         name_english: "Chinle",
@@ -2391,6 +2397,9 @@ var city_properties = {
     "childress": {
         relative_whitenoise: 0.95
     },
+    "chillicothe": {
+        relative_whitenoise: 0.95
+    },
     "chinle": {
         relative_whitenoise: 0.95
     },
@@ -3967,6 +3976,14 @@ var cities = [
         "x": "-19420.1",
         "y": "122.629",
         "z": "24984"
+    },
+    {
+        "gameName": "chillicothe",
+        "realName": "Chillicothe",
+        "country": "bethany",
+        "x": "11256.2",
+        "y": "44.2803",
+        "z": "-4720.42"
     },
     {
         "gameName": "chinle",
