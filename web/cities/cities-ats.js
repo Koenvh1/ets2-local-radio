@@ -989,6 +989,12 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.9
     },
+    "kansas_city_terrastore": {
+        name: "Kansas City",
+        name_english: "Kansas City",
+        code: "us-mo",
+        relative_radius: 0.9
+    },
     "katl": {
         name: "770 KATL",
         name_english: "770 KATL",
@@ -2738,6 +2744,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "kansas_city": {
+        relative_whitenoise: 0.95
+    },
+    "kansas_city_terrastore": {
+		relative_radius: 0.3,
         relative_whitenoise: 0.95
     },
     "katl": {
@@ -4957,6 +4967,14 @@ var cities = [
         "x": "6693.1",
         "y": "85.3633",
         "z": "-114.828"
+    },
+    {
+        "gameName": "kansas_city_terrastore",
+        "realName": "Kansas City",
+        "country": "kansas_city",
+        "x": "10362.9",
+        "y": "7.3158",
+        "z": "-1470.25"
     },
     {
         "gameName": "kennewick",
