@@ -2398,7 +2398,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "chillicothe": {
-		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "chinle": {
