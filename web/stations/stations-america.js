@@ -5400,9 +5400,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
         },
         {
-            name: "Bounce 95.7",
-            logo: "stations/images-america/colville/Bounce 95.7.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC_SC"
+            name: "95.7 Summit",
+            logo: "stations/images-america/colville/95.7 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00388"
         },
         {
             name: "The Big 99.9 Coyote Country",
@@ -18893,8 +18893,8 @@ var stations = {/*
             url: "https://live.amperwave.net/direct/townsquare-kpqamaac-ibc3"
         },
         {
-            name: "800 AM Summit",
-            logo: "stations/images-america/canada/osoyoos/800 AM Summit.png",
+            name: "800 Summit",
+            logo: "stations/images-america/canada/osoyoos/800 Summit.png",
             url: "https://vistaradio.streamb.live/SB00394"
         },
         {
@@ -20999,9 +20999,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
         },
         {
-            name: "Bounce 95.7",
-            logo: "stations/images-america/colville/Bounce 95.7.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC_SC"
+            name: "95.7 Summit",
+            logo: "stations/images-america/colville/95.7 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00388"
         },
         {
             name: "K-LOVE 98.5",
@@ -21014,8 +21014,8 @@ var stations = {/*
             url: "http://war.str3am.com:7180/live"
         },
         {
-            name: "800 AM Summit",
-            logo: "stations/images-america/canada/osoyoos/800 AM Summit.png",
+            name: "800 Summit",
+            logo: "stations/images-america/canada/osoyoos/800 Summit.png",
             url: "https://vistaradio.streamb.live/SB00394"
         },
     ],
@@ -33429,12 +33429,12 @@ var stations = {/*
             name: "93.7 K-Country",
             logo: "stations/images-america/c2c/gainesville_fl/93.7 K-Country.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wogkfmaac-ibc1"
-        },/* Streaming only because of Hurricane Helene. Magic 101.3 uses the frequency until further notice - 05/10/2024
+        },
         {
             name: "R&B 94.1",
             logo: "stations/images-america/c2c/gainesville_fl/R&B 94.1.png",
             url: "http://84.32.44.251/index.php?u=https://ice66.securenetsystems.net/RNB941"
-        },*/
+        },
         {
             name: "94.1 W231DH",
             logo: "stations/images-america/c2c/gainesville_fl/Magic 101.3.png",
@@ -33484,6 +33484,11 @@ var stations = {/*
             name: "100.9 The Beach",
             logo: "stations/images-america/c2c/gainesville_fl/100.9 The Beach.png",
             url: "http://84.32.44.251/index.php?u=https://ice66.securenetsystems.net/WXJZ"
+        },
+        {
+            name: "Magic 101.3",
+            logo: "stations/images-america/c2c/gainesville_fl/Magic 101.3.png",
+            url: "http://84.32.44.251/index.php?u=https://ice66.securenetsystems.net/WTMG"
         },
         {
             name: "US 102.3",
@@ -55504,9 +55509,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHFAFM_SRC_SC"
         },
         {
-            name: "CHRX 95.1",
-            logo: "stations/images-america/canada/dawsoncreek/Move 98.5.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHRXFMAAC_SC"
+            name: "98.5 GO FM",
+            logo: "stations/images-america/canada/dawsoncreek/98.5 GO FM.png",
+            url: "https://vistaradio.streamb.live/SB00404"
         },
         {
             name: "96.3 Reach FM",
@@ -55514,9 +55519,9 @@ var stations = {/*
             url: "https://goldenwest.leanstream.co/CJGYFM"
         },
         {
-            name: "Bounce 101.5",
-            logo: "stations/images-america/canada/dawsoncreek/Bounce 101.5.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKNLFMAAC_SC"
+            name: "101.5 The GOAT",
+            logo: "stations/images-america/canada/dawsoncreek/101.5 The GOAT.png",
+            url: "https://vistaradio.streamb.live/SB00405"
         },
         {
             name: "Peace FM 104.1",
@@ -55532,6 +55537,11 @@ var stations = {/*
             name: "CIAM 107.5",
             logo: "stations/images-america/canada/dawsoncreek/CIAM 107.5.png",
             url: "https://5b4aa1d044c5b.streamlock.net/ciam-live/ciamfv.stream/playlist.m3u8"
+        },
+        {
+            name: "890 The Ranch",
+            logo: "stations/images-america/canada/dawsoncreek/890 The Ranch.png",
+            url: "https://vistaradio.streamb.live/SB00406"
         },
     ],
     "deaselake": [
@@ -55827,9 +55837,9 @@ var stations = {/*
             url: "http://nnb.leanstream.co/CFNRFM"
         },
         {
-            name: "Bounce 102.3",
-            logo: "stations/images-america/canada/fortnelson/Bounce 102.3.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKRXFMAAC_SC"
+            name: "102.3 Summit",
+            logo: "stations/images-america/canada/fortnelson/102.3 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00391"
         },
     ],
     "fortsimpson": [
@@ -55970,8 +55980,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBYKFM_CBC_SC"
         },
         {
-            name: "106.3 Summit FM",
-            logo: "stations/images-america/canada/golden/106.3 Summit FM.png",
+            name: "106.3 Summit",
+            logo: "stations/images-america/canada/golden/106.3 Summit.png",
             url: "https://vistaradio.streamb.live/SB00390"
         },
     ],
@@ -56029,9 +56039,9 @@ var stations = {/*
             url: "https://vistaradio.streamb.live/SB00084"
         },
         {
-            name: "CJAT-FM-2 103.3",
-            logo: "stations/images-america/colville/Bounce 95.7.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC_SC"
+            name: "103.3 CJAT-FM-2",
+            logo: "stations/images-america/colville/95.7 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00388"
         },
         {
             name: "Lighthouse FM 106.1",
@@ -56044,8 +56054,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4952/hls.m3u8"
         },
         {
-            name: "800 AM Summit",
-            logo: "stations/images-america/canada/osoyoos/800 AM Summit.png",
+            name: "800 Summit",
+            logo: "stations/images-america/canada/osoyoos/800 Summit.png",
             url: "https://vistaradio.streamb.live/SB00394"
         },
         {
@@ -56054,9 +56064,9 @@ var stations = {/*
             url: "https://vistaradio.streamb.live/SB00399"
         },
         {
-            name: "Bounce 1240",
-            logo: "stations/images-america/canada/osoyoos/Bounce 102.9.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC"
+            name: "1240 Summit",
+            logo: "stations/images-america/canada/osoyoos/1240 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00395"
         },
     ],
     "halifax": [
@@ -57437,9 +57447,9 @@ var stations = {/*
             url: "https://vistaradio.streamb.live/SB00393"
         },
         {
-            name: "Bounce 102.9",
-            logo: "stations/images-america/canada/osoyoos/Bounce 102.9.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJORFMAAC_SC"
+            name: "102.9 CJOR",
+            logo: "stations/images-america/canada/osoyoos/1240 Summit.png",
+            url: "http://vistaradio.streamb.live/SB00395"
         },
         {
             name: "CIRO 106.5",
@@ -57452,9 +57462,14 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFM_CBC_SC"
         },
         {
-            name: "800 AM Summit",
-            logo: "stations/images-america/canada/osoyoos/800 AM Summit.png",
+            name: "800 Summit",
+            logo: "stations/images-america/canada/osoyoos/800 Summit.png",
             url: "https://vistaradio.streamb.live/SB00394"
+        },
+        {
+            name: "1240 Summit",
+            logo: "stations/images-america/canada/osoyoos/1240 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00395"
         },
     ],
     "ottawa": [
@@ -57841,14 +57856,14 @@ var stations = {/*
             url: "http://nnb.leanstream.co/CFNRFM"
         },
         {
-            name: "Bounce 99.1",
-            logo: "stations/images-america/canada/princerupert/Bounce 99.1.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHTKAMAAC_SC"
+            name: "99.1 Coast FM",
+            logo: "stations/images-america/canada/princerupert/99.1 Coast FM.png",
+            url: "https://vistaradio.streamb.live/SB00402"
         },
         {
-            name: "CJFW 101.9",
-            logo: "stations/images-america/canada/princerupert/Pure Country 103.1.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
+            name: "101.9 CJFW-FM-2",
+            logo: "stations/images-america/canada/princerupert/103.1 The River.png",
+            url: "https://vistaradio.streamb.live/SB00401"
         },
         {
             name: "CBC Radio One 860",
@@ -58536,8 +58551,8 @@ var stations = {/*
     "stewart": [
         {
             name: "CJFW 92.1",
-            logo: "stations/images-america/canada/princerupert/Pure Country 103.1.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
+            logo: "stations/images-america/canada/princerupert/103.1 The River.png",
+            url: "https://vistaradio.streamb.live/SB00401"
         },
         {
             name: "CFNR 96.1",
@@ -59233,7 +59248,7 @@ var stations = {/*
         {
             name: "107.3 CHBE-HD3",
             logo: "stations/images-america/canada/victoria/Pure Country.png",
-            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJFWFMAAC_SC"
+            url: "https://vistaradio.streamb.live/SB00401"
         },
         {
             name: "Radio Victoria 107.9",
