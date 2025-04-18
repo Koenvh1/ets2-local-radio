@@ -5959,57 +5959,57 @@ var stations = {/*
         {
             name: "NRK P1",
             logo: "stations/images-europe/norway/NRK P1.png",
-            url: "https://nrklivep1osloakershus-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/60/0/hls/nrk_p1_oslo_akershus/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1"
         },
         {
             name: "NRK P1+",
             logo: "stations/images-europe/norway/NRK P1 plus.png",
-            url: "https://nrk-p1pluss.akamaized.net/47/0/hls/nrk_p1_pluss/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1pluss"
         },
         {
             name: "NRK P2",
             logo: "stations/images-europe/norway/NRK P2.png",
-            url: "https://nrklivep2-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/35/0/hls/nrk_p2/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p2"
         },
         {
             name: "NRK P3",
             logo: "stations/images-europe/norway/NRK P3.png",
-            url: "https://nrk-p3.akamaized.net/36/0/hls/nrk_p3/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p3"
         },
         {
             name: "NRK Klassisk",
             logo: "stations/images-europe/norway/NRK Klassisk.png",
-            url: "https://nrk-klassisk.akamaized.net/42/0/hls/nrk_klassisk/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/klassisk"
         },
         {
             name: "NRK Nyheter",
             logo: "stations/images-europe/norway/NRK Nyheter.png",
-            url: "https://nrklivealltidnyheter-httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive2/40/0/hls/nrk_alltid_nyheter/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/nyheter"
         },
         {
             name: "NRK Folkemusikk",
             logo: "stations/images-europe/norway/NRK Folkemusikk.png",
-            url: "https://nrk-radio-live.telenorcdn.net/49/0/hls/nrk_folkemusikk/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk"
         },
         {
             name: "NRK Sámi Radio",
             logo: "stations/images-europe/norway/NRK Sámi Radio.png",
-            url: "https://nrk-sapmi.akamaized.net/43/0/hls/nrk_sami_radio/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/sapmi"
         },
         {
             name: "NRK Jazz",
             logo: "stations/images-europe/norway/NRK Jazz.png",
-            url: "https://nrk-radio-live.telenorcdn.net/48/0/hls/nrk_jazz/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/jazz"
         },
         {
             name: "NRK P13",
             logo: "stations/images-europe/norway/NRK P13.png",
-            url: "https://nrk-p13.akamaized.net/44/0/hls/nrk_p13/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p13"
         },
         {
             name: "NRK mP3",
             logo: "stations/images-europe/norway/NRK mP3.png",
-            url: "https://nrk-mp3.akamaized.net/41/0/hls/nrk_mp3/playlist.m3u8"
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/mp3"
         },
         {
             name: "KISS",

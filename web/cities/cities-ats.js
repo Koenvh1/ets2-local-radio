@@ -1257,7 +1257,7 @@ var country_properties = {
         name: "Maryville",
         name_english: "Maryville",
         code: "us-mo",
-        relative_radius: 0.7
+        relative_radius: 0.4
     },
     "marysville": {
         name: "Marysville",
@@ -2900,7 +2900,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "maryville": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "marysville": {
@@ -5349,9 +5348,9 @@ var cities = [
         "gameName": "maryville",
         "realName": "Maryville",
         "country": "maryville",
-        "x": "5303.35",
-        "y": "70",
-        "z": "-7513.68"
+        "x": "5488.47",
+        "y": "80.6976",
+        "z": "-8524.48"
     },
     {
         "gameName": "marysville",
