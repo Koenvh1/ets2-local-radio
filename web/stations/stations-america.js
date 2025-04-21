@@ -240,8 +240,8 @@ var stations = {/*
             url: "https://dash.streamkast.co/proxy/communitybroadpart2/korq"
         },
         {
-            name: "98.1 The Phantom",
-            logo: "stations/images-america/abilene/98.1 The Phantom.png",
+            name: "KTLT 98.1",
+            logo: "stations/images-america/abilene/KTLT 98.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTLTFMAAC_SC"
         },
         {
@@ -11482,6 +11482,11 @@ var stations = {/*
             url: "https://streams.pacifica.org:9000/HD3_64"
         },
         {
+            name: "90.1 KPFT-HD3",
+            logo: "stations/images-america/houston/90.1 KPFT-HD3.png",
+            url: "https://streams.pacifica.org:9000/classic_country"
+        },
+        {
             name: "KTSU 90.9",
             logo: "stations/images-america/houston/KTSU 90.9.png",
             url: "https://ice6.securenetsystems.net/KTSUFM"
@@ -11532,6 +11537,16 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2281/hls.m3u8"
         },
         {
+            name: "94.5 KTBZ-HD2",
+            logo: "stations/images-america/houston/SportsTalk 790.png",
+            url: "https://stream.revma.ihrhls.com/zc2257"
+        },
+        {
+            name: "94.5 KTBZ-HD3",
+            logo: "stations/images-america/houston/KPRC 950.png",
+            url: "https://stream.revma.ihrhls.com/zc2277"
+        }, 
+        {
             name: "95.7 The Spot",
             logo: "stations/images-america/houston/95.7 The Spot.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kkhhfmaac-imc"
@@ -11540,6 +11555,11 @@ var stations = {/*
             name: "Channel Q 95.7-HD2",
             logo: "stations/images-america/houston/Channel Q 95.7-HD2.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+        },
+        {
+            name: "95.7 KKHH-HD3",
+            logo: "stations/images-america/houston/The Bet 650.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-kikkamaac-imc"
         },
         {
             name: "KTRU 96.1",
@@ -11575,6 +11595,16 @@ var stations = {/*
             name: "SUNNY 99.1",
             logo: "stations/images-america/houston/SUNNY 99.1.png",
             url: "https://stream.revma.ihrhls.com/zc2273/hls.m3u8"
+        },
+        {
+            name: "99.1 KODA-HD2",
+            logo: "stations/images-america/houston/740 KTRH.png",
+            url: "https://stream.revma.ihrhls.com/zc2285"
+        },
+        {
+            name: "99.1 KODA-HD3",
+            logo: "stations/images-america/0_general_logos/Retro.png",
+            url: "http://stream.revma.ihrhls.com/zc10089/hls.m3u8"
         },
         {
             name: "100.3 The Bull",
@@ -11640,6 +11670,11 @@ var stations = {/*
             name: "104.1 KRBE",
             logo: "stations/images-america/houston/104.1 KRBE.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEFMAAC_SC"
+        },
+        {
+            name: "104.1 KRBE-HD2",
+            logo: "stations/images-america/houston/104.1 KRBE-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRBEHD2AAC_SC"
         },
         {
             name: "Latino Mix 104.9",
