@@ -8644,12 +8644,12 @@ var stations = {/*
             name: "FOX Sports 93.9",
             logo: "stations/images-america/farmington/Fox Sports 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
-        },/*
+        },
         {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK 94.9.png",
             url: "https://ice41.securenetsystems.net/KWYKFM"
-        },*/
+        },
         {
             name: "KPCL 95.7",
             logo: "stations/images-america/farmington/KPCL 95.7.png",
@@ -12059,6 +12059,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC"
         },
         {
+            name: "CSN Radio 88.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
             name: "KCRW 89.3",
             logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "https://streams.kcrw.com/kcrw_mp3"
@@ -12072,6 +12077,11 @@ var stations = {/*
             name: "LAist 90.3",
             logo: "stations/images-america/0_general_logos/LAist.png",
             url: "https://live.amperwave.net/direct/southerncalipr-kpccfmaac-imc.aac"
+        },
+        {
+            name: "SonLife Radio 90.9",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
         },
         {
             name: "Air1 91.7",
@@ -12202,6 +12212,11 @@ var stations = {/*
             name: "107.3 Mod FM",
             logo: "stations/images-america/indio/107.3 Mod FM.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdeshd2aac-ibc4"
+        },
+        {
+            name: "FOX Sports 1270",
+            logo: "stations/images-america/indio/FOX Sports 1270.png",
+            url: "https://a2.asurahosting.com:7250/radio.mp3"
         },
         {
             name: "NOAA Weather Radio Coachella",
@@ -20837,12 +20852,12 @@ var stations = {/*
             name: "95.5 The Vibe",
             logo: "stations/images-america/reno/95.5 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
-        },/*
+        },
         {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KLCA"
-        },*/
+        },
         {
             name: "Suave 96.9",
             logo: "stations/images-america/reno/Suave 96.9.png",
@@ -20922,12 +20937,12 @@ var stations = {/*
             name: "105.7 KOZZ",
             logo: "stations/images-america/reno/105.7 KOZZ.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOZZFMAAC_SC"
-        },/*
+        },
         {
             name: "Sunny 106.9",
             logo: "stations/images-america/reno/Sunny 106.9.png",
             url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KRNO"
-        },*/
+        },
         {
             name: "La Mejor 107.3",
             logo: "stations/images-america/reno/La Mejor 107.3.png",
