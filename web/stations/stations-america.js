@@ -1680,11 +1680,16 @@ var stations = {/*
             url: "http://ice8.securenetsystems.net/1490"
         },
     ],
-    "baggs": [
+    "baggs": [/*
         {
             name: "93.7 The Point",
             logo: "stations/images-america/steamboat_sp/93.7 The Point.png",
             url: "https://stream.aiir.com/hu8c5rkgxjwuv"
+        },*/
+        {
+            name: "Bigfoot 99",
+            logo: "stations/images-america/rawlins/Bigfoot 99.png",
+            url: "https://ice6.securenetsystems.net/KTGA"
         },/*
         {
             name: "The Reel 107.3",
@@ -2606,7 +2611,7 @@ var stations = {/*
         {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
-            url: "https://ice9.securenetsystems.net/KVNU"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
         {
             name: "The Spur 940",
@@ -4506,12 +4511,12 @@ var stations = {/*
             name: "99.1 KCLV",
             logo: "stations/images-america/clovis/99.1 KCLV.png",
             url: "https://streaming.live365.com/a40618"
-        },
+        },/*
         {
             name: "KTQM 99.9",
             logo: "stations/images-america/clovis/KTQM 99.9.png",
             url: "https://streaming.live365.com/a12225"
-        },
+        },*/
         {
             name: "BIG 101.5",
             logo: "stations/images-america/clovis/Big 101.5.png",
@@ -5469,8 +5474,8 @@ var stations = {/*
             url: "https://stream.kdunradio.com/listen/kdun_1030am_reedsport/kdun.aac"
         },
         {
-            name: "KBBR 1340",
-            logo: "stations/images-america/coos_bay/KBBR 1340.png",
+            name: "1340 KBBR",
+            logo: "stations/images-america/coos_bay/1340 KBBR.png",
             url: "https://us9.maindigitalstream.com/ssl/KBBR"
         },
         {
@@ -7810,6 +7815,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc3196/hls.m3u8"
         },
         {
+            name: "102.1 KPRR-HD2",
+            logo: "stations/images-america/el_paso/Hot 93.5.png",
+            url: "https://stream.revma.ihrhls.com/zc6841"
+        },
+        {
             name: "La Z 103.5",
             logo: "stations/images-america/el_paso/La Z 103.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC_SC"
@@ -8606,7 +8616,7 @@ var stations = {/*
         {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
-            url: "https://ice9.securenetsystems.net/KVNU"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
     ],
     "farmington": [
@@ -9460,7 +9470,7 @@ var stations = {/*
         {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
-            url: "https://ice9.securenetsystems.net/KVNU"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
     ],
     "freer": [
@@ -9803,7 +9813,7 @@ var stations = {/*
         {
             name: "KGLP 91.7",
             logo: "stations/images-america/gallup/KGLP 91.7.png",
-            url: "http://64.106.24.51:88/broadwavehigh.mp3"
+            url: "https://stream.pacificaservice.org:9000/kglp_128"
         },
         {
             name: "93.3 K227CB",
@@ -12104,6 +12114,16 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkuufmaac-imc4"
         },
         {
+            name: "92.7 KKUU-HD2",
+            logo: "stations/images-america/indio/K-NEWS 94.3.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/alphacorporate-knwzamaac-imc4"
+        },
+        {
+            name: "92.7 KKUU-HD3",
+            logo: "stations/images-america/indio/ESPN 103.9.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
+        },
+        {
             name: "93.7 KCLB",
             logo: "stations/images-america/indio/93.7 KCLB.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kclbfmaac-imc4"
@@ -12111,7 +12131,7 @@ var stations = {/*
         {
             name: "K-NEWS 94.3",
             logo: "stations/images-america/indio/K-NEWS 94.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
         },
         {
             name: "La Suavecita 94.7",
@@ -12179,6 +12199,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KMEE"
         },
         {
+            name: "103.1 KMEE-HD2",
+            logo: "stations/images-america/indio/KGAY.png",
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net//KGAY"
+        },
+        {
             name: "Fuego 103.5",
             logo: "stations/images-america/0_general_logos/Fuego.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC_SC"
@@ -12186,12 +12211,22 @@ var stations = {/*
         {
             name: "ESPN 103.9",
             logo: "stations/images-america/indio/ESPN 103.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
         },
         {
             name: "K-LOVE 105.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "105.1 KLXB-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "105.1 KLXB-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
         },
         {
             name: "BIG 106",
@@ -12212,6 +12247,16 @@ var stations = {/*
             name: "107.3 Mod FM",
             logo: "stations/images-america/indio/107.3 Mod FM.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdeshd2aac-ibc4"
+        },
+        {
+            name: "970 KNWZ",
+            logo: "stations/images-america/indio/K-NEWS 94.3.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphacorporate-knwzamaac-imc4"
+        },
+        {
+            name: "1140 KNWQ",
+            logo: "stations/images-america/indio/K-NEWS 94.3.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
         },
         {
             name: "FOX Sports 1270",
@@ -12308,7 +12353,7 @@ var stations = {/*
         {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
-            url: "https://ice9.securenetsystems.net/KVNU"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
         {
             name: "980 The Zone",
@@ -15154,7 +15199,7 @@ var stations = {/*
         {
             name: "KVNU 102.1",
             logo: "stations/images-america/logan/KVNU 102.1.png",
-            url: "https://ice9.securenetsystems.net/KVNU"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
         {
             name: "Lite 103.3",
@@ -17797,7 +17842,7 @@ var stations = {/*
         {
             name: "KVNU 610",
             logo: "stations/images-america/logan/KVNU 102.1.png",
-            url: "https://ice9.securenetsystems.net/KVNU"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
         {
             name: "The Spur 940",
@@ -20633,12 +20678,12 @@ var stations = {/*
             name: "B102 The Bandit",
             logo: "stations/images-america/rawlins/B102 The Bandit.png",
             url: "http://173.193.205.96:7331/;"
-        },*/
+        },
         {
             name: "55 Country",
             logo: "stations/images-america/rangely/55 Country.png",
             url: "https://stream.aiir.com/p8iuej3i05quv"
-        },
+        },*/
         {
             name: "KUYO AM 830",
             logo: "stations/images-america/casper/KUYO AM 830.png",
@@ -24274,7 +24319,7 @@ var stations = {/*
         {
             name: "BBC World Service 91.3-HD2",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+            url: "https://stream.pacificaservice.org:9000/kbcshd2"
         },
         {
             name: "MOViN 92.5",
@@ -25509,12 +25554,12 @@ var stations = {/*
             name: "The River 98.9",
             logo: "stations/images-america/steamboat_sp/The River 98.9.png",
             url: "https://stream.aiir.com/vizxgvfitbpuv"
-        },
+        },/*
         {
             name: "102.3 KRAI-FM",
             logo: "stations/images-america/steamboat_sp/93.7 The Point.png",
             url: "https://stream.aiir.com/hu8c5rkgxjwuv"
-        },/*
+        },
         {
             name: "KFMU 105.5",
             logo: "stations/images-america/steamboat_sp/KFMU 105.5.png",
