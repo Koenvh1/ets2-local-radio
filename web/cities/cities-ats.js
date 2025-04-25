@@ -2520,7 +2520,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "el_paso": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.80
     },
     "ely": {
         relative_whitenoise: 0.85
