@@ -20899,6 +20899,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEVFMAAC_SC"
         },
         {
+            name: "96.1 The Zone",
+            logo: "stations/images-america/reno/96.1 The Zone.png",
+            url: "https://ice25.securenetsystems.net/KZTQ"
+        },
+        {
             name: "Alice 96.5",
             logo: "stations/images-america/reno/Alice 96.5.png",
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KLCA"
@@ -20957,6 +20962,11 @@ var stations = {/*
             name: "Wild 102.9",
             logo: "stations/images-america/reno/Wild 102.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
+        },
+        {
+            name: "103.7 The River",
+            logo: "stations/images-america/reno/103.7 The River.png",
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KODS"
         },
         {
             name: "Easy 104.1",
