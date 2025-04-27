@@ -1935,7 +1935,7 @@ var stations = {/*
         {
             name: "Ondas de Vida 89.1",
             logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
+            url: "https://streaming.live365.com/a40407_2"
         },
         {
             name: "KNLB 90.9",
@@ -2745,7 +2745,7 @@ var stations = {/*
         {
             name: "98.5 The Wolf",
             logo: "stations/images-america/billings/98.5 The Wolf.png",
-            url: "https://ice1.amtstreaming.com:8443/kewf-raw"
+            url: "https://ice1.amtstreaming.com:8443/kewf-air"
         },
         {
             name: "FM 99 The Mountain",
@@ -5742,7 +5742,7 @@ var stations = {/*
         {
             name: "Ondas de Vida 90.3",
             logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
+            url: "https://streaming.live365.com/a40407_2"
         },
         {
             name: "JPR Classics & News 91.1",
@@ -14215,7 +14215,7 @@ var stations = {/*
         {
             name: "Ondas de Vida 90.9",
             logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
+            url: "https://streaming.live365.com/a40407_2"
         },
         {
             name: "91.5 Jazz & More",
@@ -21044,11 +21044,6 @@ var stations = {/*
             url: "https://shout2.brnstream.com/proxy/kxto?mp=/stream"
         },
         {
-            name: "Wolf Pack Radio 1700",
-            logo: "stations/images-america/reno/Wolf Pack Radio 1700.png",
-            url: "http://streamer.radio.co/s01995b9a1/listen"
-        },
-        {
             name: "NOAA Weather Radio Fernley",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
             url: "https://rollernet.us:8443/WWG20"
@@ -25869,7 +25864,7 @@ var stations = {/*
         {
             name: "Ondas de Vida 91.7",
             logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://server2.sit-mexico.com:2199/proxy/odvnetwork?mp=/stream.ogg"
+            url: "https://streaming.live365.com/a40407_2"
         },
         {
             name: "B92.1",

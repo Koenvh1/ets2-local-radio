@@ -1870,6 +1870,11 @@ var stations = {/*
             url: "https://ms-live-loop.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
+            name: "POPfm",
+            logo: "stations/images-europe/finland/POPfm.png",
+            url: "https://stream.madmenmedia.se/popfm"
+        },
+        {
             name: "Radio City",
             logo: "stations/images-europe/finland/Radio City.png",
             url: "https://stream-redirect.bauermedia.fi/radiocity/radiocity_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
