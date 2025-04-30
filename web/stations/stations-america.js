@@ -17283,9 +17283,9 @@ var stations = {/*
             url: "http://www.ophanim.net:7530/stream"
         },
         {
-            name: "98.7 The Hawk",
-            logo: "stations/images-america/missoula/98.7 The Hawk.png",
-            url: "https://ice10.securenetsystems.net/MOUNTAIN"
+            name: "98.7 The Beat",
+            logo: "stations/images-america/missoula/98.7 The Beat.png",
+            url: "https://sc9coolradio.maindigitalstream.com/ssl/KHKM"
         },
         {
             name: "99.7 KMPT",
@@ -20293,9 +20293,9 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "Urbana 104.5",
-            logo: "stations/images-america/portland/Urbana 104.5.png",
-            url: "https://ice24.securenetsystems.net/KXXPFM"
+            name: "Positive Life Radio 104.5",
+            logo: "stations/images-america/0_general_logos/Positive Life Radio.png",
+            url: "https://ice10.securenetsystems.net/PLR"
         },
         {
             name: "Bella 105",
@@ -26848,9 +26848,9 @@ var stations = {/*
             url: "https://ice26.securenetsystems.net/KYYTHD2"
         },
         {
-            name: "Urbana 104.5",
-            logo: "stations/images-america/portland/Urbana 104.5.png",
-            url: "https://ice24.securenetsystems.net/KXXPFM"
+            name: "Positive Life Radio 104.5",
+            logo: "stations/images-america/0_general_logos/Positive Life Radio.png",
+            url: "https://ice10.securenetsystems.net/PLR"
         },
         {
             name: "105.5 KCGB",
@@ -27128,7 +27128,7 @@ var stations = {/*
         },
         {
             name: "92.1 KCMT-HD2",
-            logo: "stations/images-america/tucson/Éxito 93.3.png",
+            logo: "stations/images-america/tucson/93.3 HANK FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC_SC"
         },
         {
@@ -27147,8 +27147,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc10399"
         },
         {
-            name: "Éxito 93.3",
-            logo: "stations/images-america/tucson/Éxito 93.3.png",
+            name: "93.3 HANK FM",
+            logo: "stations/images-america/tucson/93.3 HANK FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC.aac"
         },
         {
@@ -37277,11 +37277,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC_SC"
         },
         {
-            name: "Streetz 95",
-            logo: "stations/images-america/c2c/chicago_il/Streetz 95.png",
-            url: "https://104.6.216.93:8000/chitown"
-        },
-        {
             name: "ROCK 95.5",
             logo: "stations/images-america/c2c/chicago_il/ROCK 95.5.png",
             url: "https://stream.revma.ihrhls.com/zc857/hls.m3u8"
@@ -37370,11 +37365,6 @@ var stations = {/*
             name: "Qué Buena 105.1",
             logo: "stations/images-america/c2c/chicago_il/Qué Buena 105.1.png",
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wojofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
-        },
-        {
-            name: "105.1 WOJO-HD2",
-            logo: "stations/images-america/c2c/chicago_il/Streetz 95.png",
-            url: "http://104.6.216.93:8000/chitown"
         },
         {
             name: "Polskie Radio 104.7",
