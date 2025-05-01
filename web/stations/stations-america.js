@@ -27234,7 +27234,7 @@ var stations = {/*
         {
             name: "93.3 HANK FM",
             logo: "stations/images-america/tucson/93.3 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC_SC"
         },
         {
             name: "93.7 KRQ",
@@ -27259,7 +27259,7 @@ var stations = {/*
         {
             name: "96.1 KLPX-HD3",
             logo: "stations/images-america/tucson/93.3 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC.aac"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC.aac"
         },
         {
             name: "Mega 97.1",
