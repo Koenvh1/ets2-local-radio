@@ -7720,6 +7720,16 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "Air1 89.5-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "Radio Nueva Vida 89.5-HD3",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://ice10.securenetsystems.net/KMRO"
+        },
+        {
             name: "Manantial 91.1",
             logo: "stations/images-america/yuma/Manantial FM 91.9.png",
             url: "https://ais-sa15.cdnstream1.com/5068_64.aac"
@@ -15571,8 +15581,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a28050"
         },
         {
-            name: "105.1 KKGO-HD4",
-            logo: "stations/images-america/los_angeles/Go Country Gold AM 1260.png",
+            name: "Go Country Gold 105.1-HD4",
+            logo: "stations/images-america/los_angeles/Go Country Gold 105.1-HD4.png",
             url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a72131"
         },
         {
@@ -15696,9 +15706,9 @@ var stations = {/*
 			url: "http://live.rcast.net:9178/stream"
         },
         {
-            name: "Go Country Gold AM 1260",
-            logo: "stations/images-america/los_angeles/Go Country Gold AM 1260.png",
-            url: "http://84.32.44.251/index.php?u=http://streaming.live365.com/a72131"
+            name: "K-Mozart AM 1260",
+            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            url: "http:///84.32.44.251/index.php?u=https://streaming.live365.com/a28050"
         },
         {
             name: "Tu Liga Radio 1330",
@@ -19600,6 +19610,11 @@ var stations = {/*
     ],
     "phoenix": [
         {
+            name: "VCY America 88.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
             name: "K-LOVE 89.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -19630,8 +19645,8 @@ var stations = {/*
             url: "http://kjzz.streamguys1.com:80/kjzz_mp3_128"
         },
         {
-            name: "KJZZ 91.5-HD2",
-            logo: "stations/images-america/phoenix/KJZZ 91.5-HD2.png",
+            name: "Jazz PHX 91.5-HD2",
+            logo: "stations/images-america/phoenix/Jazz PHX 91.5-HD2.png",
             url: "https://kjzz.streamguys1.com/kjzzhd2_mp3_128"
         },
         {
@@ -19670,11 +19685,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-koolfmaac-imc"
         },
         {
-            name: "Roq of the 80s 94.5-HD2",
-            logo: "stations/images-america/los_angeles/Roq of the 80s 106.7-HD2.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kroqhd2aac-imc"
-        },
-        {
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
             url: "https://ais-sa1.streamon.fm/7857_96k.aac"
@@ -19683,6 +19693,16 @@ var stations = {/*
             name: "95.5 The Mountain",
             logo: "stations/images-america/phoenix/95.5 The Mountain.png",
             url: "https://stream.revma.ihrhls.com/zc57/hls.m3u8"
+        },
+        {
+            name: "95.5 KYOT-HD2",
+            logo: "stations/images-america/phoenix/550 KFYI.png",
+            url: "https://stream.revma.ihrhls.com/zc37"
+        },
+        {
+            name: "95.5 KYOT-HD3",
+            logo: "stations/images-america/barstow/KNLB 90.9.png",
+            url: "https://streaming.live365.com/a72595"
         },/*
         {
             name: "MeTV Music 96.1",
@@ -19705,6 +19725,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
+            name: "HOT 97.5",
+            logo: "stations/images-america/phoenix/HOT 97.5_103.9.png",
+            url: "https://ais-sa1.streamon.fm/7855_96k.aac"
+        },
+        {
             name: "Power 98.3",
             logo: "stations/images-america/phoenix/Power 98.3.png",
             url: "https://ais-sa1.streamon.fm/7856_96k.aac"
@@ -19720,6 +19745,11 @@ var stations = {/*
             url: "https://bonneville.cdnstream1.com/2699_48.aac"
         },
         {
+            name: "98.7 KMVP-HD2",
+            logo: "stations/images-america/phoenix/ESPN 620.png",
+            url: "http://bonneville.cdnstream1.com/2697_48.aac"
+        },
+        {
             name: "99.3 The Fanatic",
             logo: "stations/images-america/phoenix/99.3 The Fanatic.png",
             url: "https://ice41.securenetsystems.net/KQFN"
@@ -19730,9 +19760,14 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8"
         },
         {
-            name: "The Breeze 99.9-HD2",
-            logo: "stations/images-america/phoenix/The Breeze 99.9-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "Magic 99.9-HD2",
+            logo: "stations/images-america/0_general_logos/Magic.png",
+            url: "https://stream.revma.ihrhls.com/zc10085/hls.m3u8"
+        },
+        {
+            name: "FOX Sports 99.9-HD3",
+            logo: "stations/images-america/phoenix/FOX Sports 910.png",
+            url: "https://stream.revma.ihrhls.com/zc41"
         },
         {
             name: "Latino Mix 100.3",
@@ -19743,6 +19778,11 @@ var stations = {/*
             name: "100.7 KSLX",
             logo: "stations/images-america/phoenix/100.7 KSLX.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSLXFMAAC_SC"
+        },
+        {
+            name: "100.7 KSLX-HD2",
+            logo: "stations/images-america/phoenix/KDUS 1060.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDUSAMAAC_SC"
         },
         {
             name: "101.1 The Bounce",
@@ -19783,6 +19823,21 @@ var stations = {/*
             name: "La Tricolor 103.5",
             logo: "stations/images-america/phoenix/La Tricolor 103.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLNZFMAAC_SC"
+        },
+        {
+            name: "HOT 103.9",
+            logo: "stations/images-america/phoenix/HOT 97.5_103.9.png",
+            url: "http://ais-sa1.streamon.fm/7855_96k.aac"
+        },
+        {
+            name: "103.9 KZON-HD2",
+            logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
+            url: "http://ais-sa1.streamon.fm/7857_96k.aac"
+        },
+        {
+            name: "103.9 KZON-HD3",
+            logo: "stations/images-america/phoenix/Power 98.3.png",
+            url: "http://ais-sa1.streamon.fm/7856_96k.aac"
         },
         {
             name: "Mega 104.3",
@@ -23590,9 +23645,9 @@ var stations = {/*
             url: "https://streamingcwsradio30.com:7022/stream"
         },
         {
-            name: "100.7 KFBG-FM",
-            logo: "stations/images-america/san_diego/91X.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/XTRAFMAAC_SC"
+            name: "Frontera 100.7",
+            logo: "stations/images-america/san_diego/Frontera 100.7.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KFBGFMAAC_SC"
         },
         {
             name: "101.5 KGB",
@@ -27092,6 +27147,11 @@ var stations = {/*
             url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
+            name: "K-LOVE 2000s 88.1-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+        },
+        {
             name: "NPR 89.1",
             logo: "stations/images-america/tucson/NPR 89.1.png",
             url: "https://azpm.streamguys1.com/kuaz128.aac"
@@ -27100,6 +27160,11 @@ var stations = {/*
             name: "Jazz 89.1-HD2",
             logo: "stations/images-america/tucson/Jazz 89.1-HD2.png",
             url: "https://azpm.streamguys1.com/jazz-abrstream/playlist.m3u8"
+        },
+        {
+            name: "BBC World Service 89.1-HD3",
+            logo: "stations/images-america/0_general_logos/BBC World Service.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
         },
         {
             name: "Radio Impacto 90.1",
@@ -27245,6 +27310,11 @@ var stations = {/*
             name: "La Poderosa 105.3",
             logo: "stations/images-america/tucson/La Poderosa 105.3.png",
             url: "https://ice42.securenetsystems.net/KZLZ"
+        },
+        {
+            name: "105.3 KZLZ-HD2",
+            logo: "stations/images-america/tucson/92.5 Urbana.png",
+            url: "http://ice42.securenetsystems.net/KZLZHD2"
         },
         {
             name: "106.3 The Groove",
