@@ -9693,7 +9693,7 @@ var stations = {/*
         },
         {
             name: "HOT 104.7",
-            logo: "stations/images-america/fresno/Hot 104.7.png",
+            logo: "stations/images-america/fresno/HOT 104.7.png",
             url: "https://ice9.securenetsystems.net/KHTN"
         },
         {
@@ -9703,8 +9703,8 @@ var stations = {/*
         },
         {
             name: "105.9 KMJ",
-            logo: "stations/images-america/fresno/105.9 KMJ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC_SC"
+            logo: "stations/images-america/fresno/KMJ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC.aac"
         },
         {
             name: "Exitos 107.1",
@@ -9725,6 +9725,11 @@ var stations = {/*
             name: "La Picosa 107.9",
             logo: "stations/images-america/fresno/La Picosa 107.9.png",
             url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/kllefm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
+            name: "580 KMJ",
+            logo: "stations/images-america/fresno/KMJ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC_SC"
         },
         {
             name: "KYNO 940",
@@ -17575,7 +17580,7 @@ var stations = {/*
         },
         {
             name: "580 KMJ",
-            logo: "stations/images-america/fresno/105.9 KMJ.png",
+            logo: "stations/images-america/fresno/KMJ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJAMAAC_SC"
         },
         {

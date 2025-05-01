@@ -2605,7 +2605,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "gila_bend": {
-        relative_radius: 0.6,
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "gillette": {
