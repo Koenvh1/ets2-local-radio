@@ -713,6 +713,12 @@ var country_properties = {
         code: "us-ks",
         relative_radius: 0.7
     },
+    "gila_bend": {
+        name: "Gila Bend",
+        name_english: "Gila Bend",
+        code: "us-wy",
+        relative_radius: 1.0
+    },
     "gillette": {
         name: "Gillette",
         name_english: "Gillette",
@@ -2596,6 +2602,10 @@ var city_properties = {
     },
     "garden_city": {
         relative_radius: 0.9,
+        relative_whitenoise: 0.95
+    },
+    "gila_bend": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "gillette": {
@@ -4543,6 +4553,14 @@ var cities = [
         "x": "-21687.2",
         "y": "86.9297",
         "z": "5757.88"
+    },
+    {
+        "gameName": "gila_bend",
+        "realName": "Gila Bend",
+        "country": "phoenix",
+        "x": "-77809.4",
+        "y": "50.3354",
+        "z": "27710.3"
     },
     {
         "gameName": "gillette",
