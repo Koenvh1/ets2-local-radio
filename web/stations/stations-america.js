@@ -9663,7 +9663,7 @@ var stations = {/*
         },
         {
             name: "Y101",
-            logo: "stations/images-america/fresno/Y101 FM.png",
+            logo: "stations/images-america/fresno/Y101.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYEFMAAC_SC"
         },
         {
