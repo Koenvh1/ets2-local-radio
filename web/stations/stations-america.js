@@ -27212,8 +27212,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTFMAAC_SC"
         },
         {
-            name: "92.1 KCMT-HD2",
-            logo: "stations/images-america/tucson/93.3 HANK FM.png",
+            name: "éxito 92.1-HD2",
+            logo: "stations/images-america/tucson/éxito 92.1-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC_SC"
         },
         {
@@ -27234,7 +27234,7 @@ var stations = {/*
         {
             name: "93.3 HANK FM",
             logo: "stations/images-america/tucson/93.3 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMTHD2AAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC_SC"
         },
         {
             name: "93.7 KRQ",
@@ -27255,6 +27255,11 @@ var stations = {/*
             name: "96.1 KLPX",
             logo: "stations/images-america/tucson/96.1 KLPX.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLPXFMAAC_SC"
+        },
+        {
+            name: "96.1 KLPX-HD3",
+            logo: "stations/images-america/tucson/93.3 HANK FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFMAH2FMAAC.aac"
         },
         {
             name: "Mega 97.1",
