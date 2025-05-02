@@ -34802,8 +34802,8 @@ var stations = {/*
             url: "http://s2.mexside.net:9968/stream.mp3"
         },
         {
-            name: "Romántica 93.9",
-            logo: "stations/images-america/c2c/orlando_fl/Romántica Orlando.png",
+            name: "93.9 Party FM",
+            logo: "stations/images-america/c2c/orlando_fl/Party FM.png",
             url: "https://stream.broadcastserver.net:2020/stream/wonq"
         },
         {
@@ -34947,8 +34947,8 @@ var stations = {/*
             url: "https://ice66.securenetsystems.net/WFYYHD3"
         },*/
         {
-            name: "Romántica 103.5",
-            logo: "stations/images-america/c2c/orlando_fl/Romántica Orlando.png",
+            name: "103.9 Party FM",
+            logo: "stations/images-america/c2c/orlando_fl/Party FM.png",
             url: "http://stream.broadcastserver.net:2020/stream/wonq"
         },
         {
@@ -35057,9 +35057,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTLNAMAAC.aac"
         },
         {
-            name: "Romántica 1030",
-            logo: "stations/images-america/c2c/orlando_fl/Romántica Orlando.png",
-            url: "https://stream.broadcastserver.net:2020//stream/wonq"
+            name: "1030 WONQ",
+            logo: "stations/images-america/c2c/orlando_fl/Party FM.png",
+            url: "http:///stream.broadcastserver.net:2020/stream/wonq"
         },
         {
             name: "Relevant Radio 1080",
@@ -48335,8 +48335,8 @@ var stations = {/*
             url: "https://pillar2.streamguys1.com/live"
         },
         {
-            name: "Cat Country 94.1",
-            logo: "stations/images-america/c2c/cincinnati_oh/Cat Country 94.1.png",
+            name: "94.1 WNNF",
+            logo: "stations/images-america/c2c/cincinnati_oh/94.1 WNNF.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNFFMAAC_SC"
         },
         {
