@@ -937,7 +937,7 @@ var stations = {/*
         {
             name: "Radio By Grace 99.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "100.9 The Eagle",
@@ -2628,7 +2628,7 @@ var stations = {/*
         {
             name: "Radio By Grace 89.3",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "afr Hybrid 91.5",
@@ -4168,7 +4168,7 @@ var stations = {/*
         {
             name: "Radio By Grace 88.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "GRN 91.7",
@@ -6288,7 +6288,7 @@ var stations = {/*
         {
             name: "Radio By Grace 88.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "HPPR 89.3",
@@ -6952,7 +6952,7 @@ var stations = {/*
         {
             name: "Radio By Grace 89.9",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "KDQN 92.1",
@@ -11384,7 +11384,7 @@ var stations = {/*
         {
             name: "The Vibe 88.7-HD3",
             logo: "stations/images-america/houston/The Vibe 88.7-HD3.png",
-            url: "https://ice42.securenetsystems.net/THEVIBE"
+            url: "https://stream.houstonpublicmedia.org/thevibe-mp3"
         },
         {
             name: "Sight into Sound 88.7-HD4",
@@ -13383,7 +13383,7 @@ var stations = {/*
         {
             name: "94.3 REV-FM",
             logo: "stations/images-america/kerrville/94.3 REV-FM.png",
-            url: "https://stream.thecrustychicken.com/proxy/revfm/stream"
+            url: "https://a2.asurahosting.com:6460/radio.mp3"
         },
         {
             name: "96.5 The Raptor",
@@ -13398,7 +13398,7 @@ var stations = {/*
         {
             name: "99.1 The Buck",
             logo: "stations/images-america/kerrville/99.1 The Buck.png",
-            url: "https://stream.thecrustychicken.com/proxy/mikefm/stream"
+            url: "https://a2.asurahosting.com:6400/radio.mp3"
         },
         {
             name: "K-LOVE 99.9",
@@ -13413,7 +13413,7 @@ var stations = {/*
         {
             name: "103.7 Mike FM",
             logo: "stations/images-america/kerrville/103.7 Mike FM.png",
-            url: "https://stream.thecrustychicken.com/proxy/buck1/stream"
+            url: "https://a2.asurahosting.com:6540/radio.mp3"
         },
         {
             name: "Sun Radio 104.1",
@@ -13473,7 +13473,7 @@ var stations = {/*
         {
             name: "KERV 1230",
             logo: "stations/images-america/kerrville/103.7 Mike FM.png",
-            url: "http://stream.thecrustychicken.com/proxy/buck1/stream"
+            url: "http://a2.asurahosting.com:6540/radio.mp3"
         },
     ],
     "ketchum": [
@@ -14098,12 +14098,12 @@ var stations = {/*
         {
             name: "FM News Talk 92.7",
             logo: "stations/images-america/las_cruces/FM News Talk 92.7.png",
-            url: "https://dash.streamkast.co/proxy/bravomiccomm1/kobeam"
+            url: "https://ice8.securenetsystems.net/KOBE"
         },
         {
             name: "La Equis 96.7",
             logo: "stations/images-america/las_cruces/La Equis 96.7.png",
-            url: "https://dash.streamkast.co/proxy/bravomiccomm5/kmvrhd2"
+            url: "http://ice8.securenetsystems.net/KMVRHD1"
         },
         {
             name: "Classic Rock 98.7",
@@ -14143,12 +14143,12 @@ var stations = {/*
         {
             name: "Magic 104.9",
             logo: "stations/images-america/las_cruces/Magic 104.9.png",
-            url: "https://dash.streamkast.co/proxy/bravomiccomm2/kmvrfm"
+            url: "https://ice8.securenetsystems.net/KMVRHD1"
         },
         {
             name: "104.9 KMVR-HD2",
             logo: "stations/images-america/las_cruces/La Equis 96.7.png",
-            url: "http://dash.streamkast.co/proxy/bravomiccomm5/kmvrhd2"
+            url: "https://ice8.securenetsystems.net/KMVRHD2"
         },
         {
             name: "KSIL 107.1",
@@ -14188,7 +14188,7 @@ var stations = {/*
         {
             name: "KOBE 1450",
             logo: "stations/images-america/las_cruces/FM News Talk 92.7.png",
-            url: "http://dash.streamkast.co/proxy/bravomiccomm1/kobeam"
+            url: "http://ice8.securenetsystems.net/KOBE"
         },
     ],
     "las_vegas": [
@@ -15027,7 +15027,7 @@ var stations = {/*
         {
             name: "Arkansas Rocks 94.5",
             logo: "stations/images-america/little_rock/Arkansas Rocks 94.5.png",
-            url: "https://ice42.securenetsystems.net/KAFN"
+            url: "https://ice42.securenetsystems.net/KLRG"
         },
         {
             name: "HOT 94.9",
@@ -15132,7 +15132,7 @@ var stations = {/*
         {
             name: "KLRG 880",
             logo: "stations/images-america/little_rock/Arkansas Rocks 94.5.png",
-            url: "http:///ice42.securenetsystems.net/KAFN"
+            url: "http:///ice42.securenetsystems.net/KLRG"
         },
         {
             name: "Sports Animal 920",
@@ -15152,7 +15152,7 @@ var stations = {/*
         {
             name: "KASZ 1190",
             logo: "stations/images-america/little_rock/Arkansas Rocks 94.5.png",
-            url: "http://ice42.securenetsystems.net/KAFN"
+            url: "http://ice42.securenetsystems.net/KLRG"
         },
         {
             name: "KFOG 1250",
@@ -15194,7 +15194,7 @@ var stations = {/*
         {
             name: "94.5 Utah's VFX",
             logo: "stations/images-america/logan/94.5 Utah's VFX.png",
-            url: "https://ice9.securenetsystems.net/KVFX"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVFX"
         },
         {
             name: "95.9 KLZX",
@@ -15204,12 +15204,12 @@ var stations = {/*
         {
             name: "KIX96",
             logo: "stations/images-america/logan/KIX96.png",
-            url: "https://ice9.securenetsystems.net/KKEX"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KKEX"
         },
         {
             name: "Juan 97.3",
             logo: "stations/images-america/logan/Juan 97.3.png",
-            url: "https://ice9.securenetsystems.net/JUAN"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/JUAN"
         },
         {
             name: "KVNU 102.1",
@@ -15219,22 +15219,22 @@ var stations = {/*
         {
             name: "Lite 103.3",
             logo: "stations/images-america/logan/Lite FM 103.3.png",
-            url: "https://ice9.securenetsystems.net/KLGN"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KLGN"
         },
         {
             name: "KOOL 103.9",
             logo: "stations/images-america/logan/KOOL 103.9.png",
-            url: "https://ice9.securenetsystems.net/KGNT"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KGNT"
         },
         {
             name: "104.9 The Ranch",
             logo: "stations/images-america/logan/104.9 The Ranch.png",
-            url: "https://ice9.securenetsystems.net/KKEX3"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KKEX3"
         },
         {
             name: "106.9 The Fan",
             logo: "stations/images-america/logan/106.9 The Fan.png",
-            url: "https://ice10.securenetsystems.net/KLGN3"
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KLGN3"
         },
     ],
     "longview": [
@@ -15613,7 +15613,7 @@ var stations = {/*
         {
             name: "106.3 KALI-HD3",
 			logo: "stations/images-america/los_angeles/KAZN AM1300.png",
-			url: "http://mobilewzrc.serverroom.us:6914//stream.mp3"
+			url: "https://video1.getstreamhosting.com:8308/stream"
         },
         {
             name: "106.7 KROQ",
@@ -15723,7 +15723,7 @@ var stations = {/*
         {
             name: "KAZN AM1300",
 			logo: "stations/images-america/los_angeles/KAZN AM1300.png",
-			url: "http://mobilewzrc.serverroom.us:6914/stream.mp3"
+			url: "http://video1.getstreamhosting.com:8308/stream"
         },
         {
             name: "Little Saigon Radio 1430",
@@ -15902,7 +15902,7 @@ var stations = {/*
         {
             name: "La Ley 103.5",
             logo: "stations/images-america/lubbock/La Ley 103.5.png",
-            url: "http://64.131.95.13:7849/stream"
+            url: "https://sd1.puroradio.net:8016/stream"
         },
         {
             name: "Talk 103.9",
@@ -16228,7 +16228,7 @@ var stations = {/*
         {
             name: "Radio By Grace 91.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "Q Country 92.7",
@@ -17822,7 +17822,7 @@ var stations = {/*
         {
             name: "94.5 Utah's VFX",
             logo: "stations/images-america/logan/94.5 Utah's VFX.png",
-            url: "https://ice9.securenetsystems.net/KVFX"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVFX"
         },
         {
             name: "UPR 95.7",
@@ -19255,7 +19255,7 @@ var stations = {/*
         {
             name: "94.3 REV-FM",
             logo: "stations/images-america/ozona/94.3 REV-FM.png",
-            url: "https://stream.thecrustychicken.com/proxy/revfm/stream"
+            url: "https://a2.asurahosting.com:6460/radio.mp3"
         },
         {
             name: "Q99.5",
@@ -22488,7 +22488,7 @@ var stations = {/*
         {
             name: "98.3 K252DI",
             logo: "stations/images-america/logan/94.5 Utah's VFX.png",
-            url: "https://ice9.securenetsystems.net/KVFX"
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVFX"
         },
         {
             name: "B98.7",
@@ -22710,7 +22710,7 @@ var stations = {/*
         {
             name: "Radio By Grace 90.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "KLTP 90.9",
@@ -25287,6 +25287,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2581/hls.m3u8"
         },
         {
+            name: "98.9 KKZX-HD2",
+            logo: "stations/images-america/spokane/590 KQNT.png",
+            url: "https://stream.revma.ihrhls.com/zc4952"
+        },
+        {
             name: "KIX 99.3",
             logo: "stations/images-america/spokane/KIX 99.3.png",
             url: "https://stream.revma.ihrhls.com/zc5278/hls.m3u8"
@@ -25315,6 +25320,11 @@ var stations = {/*
             name: "K102",
             logo: "stations/images-america/spokane/K102.png",
             url: "https://live.amperwave.net/manifest/blueskybroadcasting-kicrfmaac-ibc1"
+        },
+        {
+            name: "102.3 KICR-HD2",
+            logo: "stations/images-america/sandpoint/ROCK 103.png",
+            url: "https://live.amperwave.net/manifest/blueskybroadcasting-ktpohdaac-ibc1"
         },
         {
             name: "Air1 101.9",
@@ -39269,7 +39279,7 @@ var stations = {/*
         {
             name: "Radio By Grace 91.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "92.7 KTWA",
@@ -39543,7 +39553,7 @@ var stations = {/*
         {
             name: "Radio By Grace 99.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "100.5 K263AQ",
@@ -43822,7 +43832,7 @@ var stations = {/*
         {
             name: "Radio By Grace 89.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "MPB Think Radio 90.3",
@@ -44183,7 +44193,7 @@ var stations = {/*
         {
             name: "Radio By Grace 91.3",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream.freedomradiofm.com/live.mp3"
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
         },
         {
             name: "afr Hybrid 92.5",
