@@ -9480,7 +9480,7 @@ var stations = {/*
         {
             name: "107.1 K296EJ",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "https://ice7.securenetsystems.net/KUPI"
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/KUPI"
         },
         {
             name: "KVNU 610",
@@ -11924,7 +11924,7 @@ var stations = {/*
         {
             name: "KUPI Legends 92.5",
             logo: "stations/images-america/idaho_falls/KUPI Legends 92.5.png",
-            url: "https://ice5.securenetsystems.net/KQEOHD2"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KQEOHD2"
         },
         {
             name: "KZBQ 93.9",
@@ -11974,17 +11974,17 @@ var stations = {/*
         {
             name: "98.7 The Zone",
             logo: "stations/images-america/idaho_falls/98.7 The Zone.png",
-            url: "https://ice7.securenetsystems.net/KSPZ"
+            url: "http://84.32.44.251/index.php?u=http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/KSPZ"
         },
         {
             name: "99 KUPI",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "https://ice7.securenetsystems.net/KUPI"
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/KUPI"
         },
         {
             name: "100.7 MYfm",
             logo: "stations/images-america/idaho_falls/100.7 MYfm.png",
-            url: "https://ice5.securenetsystems.net/KSNA"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KSNA"
         },
         {
             name: "Cannonball 101",
@@ -12024,7 +12024,7 @@ var stations = {/*
         {
             name: "La Super Caliente 103.7",
             logo: "stations/images-america/idaho_falls/La Super Caliente 103.7.png",
-            url: "https://ice5.securenetsystems.net/KQEOHD3"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KQEOHD3"
         },
         {
             name: "KORR 104",
@@ -12039,7 +12039,7 @@ var stations = {/*
         {
             name: "NOW 105.1",
             logo: "stations/images-america/idaho_falls/NOW 105.1.png",
-            url: "https://ice8.securenetsystems.net/KAOXHD2"
+            url: "http://84.32.44.251/index.php?u=http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KAOXHD2"
         },
         {
             name: "105.5 The Hawk",
@@ -12064,12 +12064,12 @@ var stations = {/*
         {
             name: "Arrow 107.1",
             logo: "stations/images-america/idaho_falls/Arrow 107.1.png",
-            url: "https://ice8.securenetsystems.net/KQEO"
+            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KQEO"
         },
         {
             name: "NewsTalk 107.9",
             logo: "stations/images-america/idaho_falls/NewsTalk 107.9.png",
-            url: "https://ice8.securenetsystems.net/KAOX"
+            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KAOX"
         },
         {
             name: "Country Classics 1290",
@@ -12348,7 +12348,7 @@ var stations = {/*
         {
             name: "99 KUPI",
             logo: "stations/images-america/idaho_falls/99 KUPI.png",
-            url: "https://ice7.securenetsystems.net/KUPI"
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/KUPI"
         },
         {
             name: "102.1 The Wolf",
@@ -12373,7 +12373,7 @@ var stations = {/*
         {
             name: "980 The Zone",
             logo: "stations/images-america/jackson/980 The Zone.png",
-            url: "https://ice7.securenetsystems.net/KSPZ"
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/KSPZ"
         },
     ],
     "john_day": [
@@ -25964,7 +25964,7 @@ var stations = {/*
         {
             name: "KDXU 92.5",
             logo: "stations/images-america/st_george/106.1 KDXU.png",
-            url: "https://live.amperwave.net/direct/townsquare-kdxuamaac-ibc3"
+            url: "https://live.amperwave.net/manifest/townsquare-kdxufmaac-ibc3"
         },
         {
             name: "Patriot Radio 93.1",
@@ -25994,12 +25994,12 @@ var stations = {/*
         {
             name: "95.9 The Hawk",
             logo: "stations/images-america/st_george/95.9 The Hawk.png",
-            url: "https://ice10.securenetsystems.net/KZHK"
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KZHK"
         },
         {
             name: "96X",
             logo: "stations/images-america/st_george/96X.png",
-            url: "https://ice41.securenetsystems.net/KCLSHD2"
+            url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KCLSHD2"
         },
         {
             name: "La Campesina 96.7",
@@ -26024,37 +26024,37 @@ var stations = {/*
         {
             name: "The Fan Sports Network 99.5",
             logo: "stations/images-america/st_george/The Fan Sports Network.png",
-            url: "https://ice6.securenetsystems.net/KAZZ"
+            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/KAZZ"
         },
         {
             name: "99.9 KONY Country",
             logo: "stations/images-america/st_george/99.9 KONY Country.png",
-            url: "https://ice10.securenetsystems.net/KONY"
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KONY"
         },
         {
             name: "Radio St. George 100.3",
             logo: "stations/images-america/st_george/Radio St. George 100.3.png",
-            url: "https://stream.radio.dixie.edu/kxdi.mp3"
+            url: "https://stream.radio.utahtech.edu/live/kqut.mp3"
         },
         {
             name: "Sunny 101.5",
             logo: "stations/images-america/st_george/Sunny 101.5.png",
-            url: "https://ice10.securenetsystems.net/KCLS"
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KCLS"
         },
         {
             name: "101.5 KCLS-HD2",
             logo: "stations/images-america/st_george/96X.png",
-            url: "http://ice41.securenetsystems.net/KCLSHD2"
+            url: "http://84.32.44.251/index.php?u=http://ice41.securenetsystems.net/KCLSHD2"
         },
         {
             name: "101.5 KCLS-HD3",
             logo: "stations/images-america/st_george/Juan 106.png",
-            url: "http://ice41.securenetsystems.net/KCLSHD3"
+            url: "http://84.32.44.251/index.php?u=http://ice41.securenetsystems.net/KCLSHD3"
         },
         {
             name: "FOX Sports 101.9",
             logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kxfffmaac-ibc3"
+            url: "http://live.amperwave.net/manifest/townsquare-kdxufmhd3aac-ibc3"
         },
         {
             name: "102.3 Real Country",
@@ -26064,7 +26064,7 @@ var stations = {/*
         {
             name: "KZEZ 102.7",
             logo: "stations/images-america/st_george/KZEZ 102.7.png",
-            url: "https://ice6.securenetsystems.net/KZEZ"
+            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/KZEZ"
         },
         {
             name: "Mix 103.1",
@@ -26084,12 +26084,12 @@ var stations = {/*
         {
             name: "Planet 105.1",
             logo: "stations/images-america/st_george/Planet 105.1.png",
-            url: "https://ice10.securenetsystems.net/KPLD"
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KPLD"
         },
         {
             name: "106.1 KDXU",
             logo: "stations/images-america/st_george/106.1 KDXU.png",
-            url: "http://live.amperwave.net/manifest/townsquare-kdxuamaac-ibc3"
+            url: "http://live.amperwave.net/manifest/townsquare-kdxufmaac-ibc3"
         },
         {
             name: "106.1 KDXU-HD2",
@@ -26099,12 +26099,12 @@ var stations = {/*
         {
             name: "106.1 KDXU-HD3",
             logo: "stations/images-america/st_george/FOX Sports Southern Utah.png",
-            url: "http://live.amperwave.net/manifest/townsquare-kxfffmaac-ibc3"
+            url: "https://live.amperwave.net/manifest/townsquare-kdxufmhd3aac-ibc3"
         },
         {
             name: "Juan 106",
             logo: "stations/images-america/st_george/Juan 106.png",
-            url: "https://ice41.securenetsystems.net/KCLSHD3"
+            url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KCLSHD3"
         },
         {
             name: "Cat Country 107.3",
@@ -26114,7 +26114,7 @@ var stations = {/*
         {
             name: "107.7 K299CB",
             logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "http://audio.KUER.org:8000//high"
+            url: "https://kuer.streamguys1.com//high_icy"
         },
         {
             name: "KSUB 590",
@@ -26124,7 +26124,7 @@ var stations = {/*
         {
             name: "KDXU 890",
             logo: "stations/images-america/st_george/106.1 KDXU.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kdxuamaac-ibc3"
+            url: "https://live.amperwave.net/direct/townsquare-kdxufmaac-ibc3"
         },
         {
             name: "Patriot Radio 1450",
@@ -26134,7 +26134,7 @@ var stations = {/*
         {
             name: "KZEZ 1490",
             logo: "stations/images-america/st_george/KZEZ 102.7.png",
-            url: "http://ice6.securenetsystems.net/KZEZ"
+            url: "http://84.32.44.251/index.php?u=http://ice6.securenetsystems.net/KZEZ"
         },
         {
             name: "NOAA Weather Radio Utah",
