@@ -1916,7 +1916,7 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//agmedia28-kgeoamaac-ibc3"
         },
         {
-            name: "KVMI 1270",
+            name: "1270 KVMI",
             logo: "stations/images-america/fresno/My 97.5.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2"
         },
@@ -17644,7 +17644,7 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2914/hls.m3u8"
         },
         {
-            name: "KBRE 1660",
+            name: "1660 KBRE",
             logo: "stations/images-america/modesto/105.7 The Bear.png",
             url: "http://ice9.securenetsystems.net/KBRE"
         },
@@ -18394,8 +18394,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1917/hls.m3u8"
         },
         {
-            name: "Éxitos 96.5",
-            logo: "stations/images-america/oklahoma_city/Éxitos 96.5.png",
+            name: "Ritmo 96.5",
+            logo: "stations/images-america/oklahoma_city/Ritmo 96.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOHD3AAC_SC"
         },
         {
