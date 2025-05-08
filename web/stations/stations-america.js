@@ -7688,8 +7688,8 @@ var stations = {/*
             url: "https://streaming.live365.com/a24862"
         },
         {
-            name: "True Country 100.5",
-            logo: "stations/images-america/elko/True Country 100.5.png",
+            name: "Overdrive 100.5",
+            logo: "stations/images-america/elko/Overdrive 100.5.png",
             url: "https://streaming.live365.com/a62984"
         },
         {
