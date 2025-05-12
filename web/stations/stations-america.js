@@ -52508,9 +52508,9 @@ var stations = {/*
             url: "http://ice23.securenetsystems.net/WZDQ"
         },
         {
-            name: "NewsTalk 103.5",
-            logo: "stations/images-america/c2c/jackson_tn/NewsTalk 96.5.png",
-            url: "http://s5.radio.co/s8ead4734f/listen"
+            name: "103.5 Talk-N West TN Sports",
+            logo: "stations/images-america/c2c/jackson_tn/103.5 Talk-N West TN Sports.png",
+            url: "https://stream.revma.ihrhls.com/zc4732/hls.m3u8"
         },
         {
             name: "FROGGY 104",
@@ -52548,9 +52548,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-wmfsfmaac-imc"
         },
         {
-            name: "NewsTalk 1310",
-            logo: "stations/images-america/c2c/jackson_tn/NewsTalk 96.5.png",
-            url: "http:///s5.radio.co/s8ead4734f/listen"
+            name: "1310 Talk-N West TN Sports",
+            logo: "stations/images-america/c2c/jackson_tn/103.5 Talk-N West TN Sports.png",
+            url: "https://stream.revma.ihrhls.com/zc4732"
         },
     ],
     "kingsport_tn": [
