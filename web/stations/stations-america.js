@@ -804,8 +804,8 @@ var stations = {/*
         },
         {
             name: "95.7 K296DS",
-            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
-            url: "https://nwm.streamguys1.com/kslt"
+            logo: "stations/images-america/c2c/rapid_city_sd/kslt-mp3 107.1.png",
+            url: "https://nwm.streamguys1.com/kslt-mp3"
         },
         {
             name: "Double Q Country 97.5",
@@ -834,8 +834,8 @@ var stations = {/*
         },
         {
             name: "107.1 K296DS",
-            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
-            url: "http://nwm.streamguys1.com/kslt"
+            logo: "stations/images-america/c2c/rapid_city_sd/kslt-mp3 107.1.png",
+            url: "http://nwm.streamguys1.com/kslt-mp3"
         },
         {
             name: "610 KCSR",
@@ -2579,7 +2579,7 @@ var stations = {/*
         {
             name: "Life 107.1",
             logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
-            url: "https://nwm.streamguys1.com/knwi"
+            url: "https://nwm.streamguys1.com/knwi-mp3"
         },
         {
             name: "Bott Radio 107.9",
@@ -7648,8 +7648,8 @@ var stations = {/*
             url: "http://radio74.dyndns.org:8000/radio74stlint.mp3"
         },
         {
-            name: "KNPR 89.3",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            name: "89.3 KLKR",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
@@ -7942,8 +7942,8 @@ var stations = {/*
     ],
     "ely": [
         {
-            name: "KNPR 88.7",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            name: "88.7 KWPR",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
@@ -8557,8 +8557,8 @@ var stations = {/*
     ],
     "eureka_nv": [
         {
-            name: "KNPR 88.7",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            name: "88.7 KWPR",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
@@ -14204,7 +14204,7 @@ var stations = {/*
         },
         {
             name: "KNPR 88.9",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
@@ -19822,7 +19822,7 @@ var stations = {/*
         {
             name: "102.9 KDIF-LP",
             logo: "stations/images-america/phoenix/102.9 KDIF-LP.png",
-            url: "http://uk2freenew.listen2myradio.com:12508/;"
+            url: "http://uk7freenew.listen2myradio.com:32531/;"
         },
         {
             name: "La Tricolor 103.5",
@@ -19942,8 +19942,8 @@ var stations = {/*
     ],
     "pioche": [
         {
-            name: "KNPR 91.7",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            name: "91.7 KLNR",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
@@ -21143,8 +21143,8 @@ var stations = {/*
     ],
     "ridgecrest": [
         {
-            name: "KNPR 88.1",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            name: "88.1 K201AD",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
@@ -21176,12 +21176,12 @@ var stations = {/*
             name: "Z93.7",
             logo: "stations/images-america/ridgecrest/Z93.7.png",
             url: "https://streaming.live365.com/a41027"
-        },
+        },/*
         {
             name: "94.3 K232AM",
             logo: "stations/images-america/ridgecrest/BOB FM 103.9.png",
             url: "https://centova12.instainternet.com/proxy/bobfm?mp=/stream"
-        },
+        },*/
         {
             name: "94.7 K234CR",
             logo: "stations/images-america/los_angeles/KOST 103.5.png",
@@ -21206,7 +21206,7 @@ var stations = {/*
             name: "KCRW 100.1",
             logo: "stations/images-america/0_general_logos/KCRW.png",
             url: "http://streams.kcrw.com/kcrw_mp3"
-        },
+        },/*
         {
             name: "100.9 The Heat",
             logo: "stations/images-america/ridgecrest/100.9 The Heat.png",
@@ -21216,7 +21216,7 @@ var stations = {/*
             name: "KePadre 104.9",
             logo: "stations/images-america/ridgecrest/KePadre 104.9.png",
             url: "https://centova12.instainternet.com/proxy/kepadre?mp=/stream"
-        },
+        },*/
         {
             name: "Classical 107.1",
             logo: "stations/images-america/las_vegas/Classical 89.7.png",
@@ -27064,14 +27064,24 @@ var stations = {/*
             url: "https://radiogoldfield.radioca.st/stream"
         },
         {
-            name: "KNPR 91.7",
-            logo: "stations/images-america/nevada/KNPR.svg",
+            name: "CSN Radio 89.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "91.7 KTPH",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
             name: "KIBS 100.7",
             logo: "stations/images-america/tonopah/KIBS 100.7.png",
             url: "https://streaming.live365.com/a16395_2"
+        },
+        {
+            name: "Nevada.FM 103.3",
+            logo: "stations/images-america/tonopah/Nevada.FM 103.3.png",
+            url: "https://phoebe.streamerr.co:3630/stream.mp3"
         },
     ],
     "truckee": [
@@ -38778,7 +38788,7 @@ var stations = {/*
         {
             name: "96.1 KNWM",
             logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
-            url: "http://nwm.streamguys1.com/knwi"
+            url: "http://nwm.streamguys1.com/knwi-mp3"
         },
         {
             name: "La Reina 96.5",
@@ -38883,7 +38893,7 @@ var stations = {/*
         {
             name: "Life 107.1",
             logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
-            url: "https://nwm.streamguys1.com/knwi"
+            url: "https://nwm.streamguys1.com/knwi-mp3"
         },
         {
             name: "Faith Radio 107.1-HD2",
@@ -51981,8 +51991,8 @@ var stations = {/*
         },
         {
             name: "KSLT 107.1",
-            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
-            url: "https://nwm.streamguys1.com/kslt"
+            logo: "stations/images-america/c2c/rapid_city_sd/kslt-mp3 107.1.png",
+            url: "https://nwm.streamguys1.com/kslt-mp3"
         },
         {
             name: "BIG 81",
