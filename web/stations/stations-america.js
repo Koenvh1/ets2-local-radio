@@ -804,7 +804,7 @@ var stations = {/*
         },
         {
             name: "95.7 K296DS",
-            logo: "stations/images-america/c2c/rapid_city_sd/kslt-mp3 107.1.png",
+            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
             url: "https://nwm.streamguys1.com/kslt-mp3"
         },
         {
@@ -834,7 +834,7 @@ var stations = {/*
         },
         {
             name: "107.1 K296DS",
-            logo: "stations/images-america/c2c/rapid_city_sd/kslt-mp3 107.1.png",
+            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
             url: "http://nwm.streamguys1.com/kslt-mp3"
         },
         {
@@ -51991,7 +51991,7 @@ var stations = {/*
         },
         {
             name: "KSLT 107.1",
-            logo: "stations/images-america/c2c/rapid_city_sd/kslt-mp3 107.1.png",
+            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
             url: "https://nwm.streamguys1.com/kslt-mp3"
         },
         {
