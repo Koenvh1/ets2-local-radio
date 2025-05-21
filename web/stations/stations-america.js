@@ -33399,9 +33399,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WROKFMAAC_SC"
         },
         {
-            name: "Party 96.3",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/Party 96.3.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMBXHD2AAC_SC"
+            name: "96.3 W242CI",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/850 WFTL.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC_SC"
         },
         {
             name: "97.9 WRMF",
@@ -33765,8 +33765,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTHD3AAC_SC"
         },
         {
-            name: "The Independent 89.9-HD4",
-            logo: "stations/images-america/c2c/jacksonville_fl/The Independent 89.9-HD4.png",
+            name: "Jacksonville's Jazz Radio 89.9-HD4",
+            logo: "stations/images-america/c2c/jacksonville_fl/Jacksonvilles Jazz Radio 89.9-HD4.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCT_HD4AAC_SC"
         },
         {
@@ -54878,7 +54878,7 @@ var stations = {/*
         {
             name: "94.5 WTMB",
             logo: "stations/images-america/c2c/la_crosse_wi/94.5 WTMB.png",
-            url: "https://live.amperwave.net/manifest/magnumbroadcasting-wtmbfmaac-ibc1"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wtmbfmaac-ibc1"
         },
         {
             name: "95.7 The Rock",
@@ -54886,9 +54886,9 @@ var stations = {/*
             url: "http://crystalout.surfernetwork.com:8001/WRQT_MP3"
         },
         {
-            name: "Mix 96",
-            logo: "stations/images-america/c2c/la_crosse_wi/Mix 96.png",
-            url: "https://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
+            name: "Mix 96.1",
+            logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
         }, 
         {
             name: "WKTY 96.7",
@@ -54900,6 +54900,11 @@ var stations = {/*
             logo: "stations/images-america/c2c/la_crosse_wi/COW97.png",
             url: "http://64.78.234.165:8000/WCOW"
         },
+        {
+            name: "Mix 97.9",
+            logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
+        }, 
         {
             name: "100.5 The Hawk",
             logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk.png",
@@ -54913,7 +54918,7 @@ var stations = {/*
         {
             name: "102.7 WKBH",
             logo: "stations/images-america/c2c/la_crosse_wi/102.7 WKBH.png",
-            url: "https://live.amperwave.net/manifest/magnumbroadcasting-wkbhfmaac-ibc1"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wkbhfmaac-ibc1"
         },
         {
             name: "KNEI 103.5",
@@ -54923,7 +54928,7 @@ var stations = {/*
         {
             name: "1460 WBOG",
             logo: "stations/images-america/c2c/la_crosse_wi/1460 WBOG.png",
-            url: "https://live.amperwave.net/manifest/magnumbroadcasting-wbogamaac-ibc1"
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wbogamaac-ibc1"
         },
     ],
     "madison_wi": [
