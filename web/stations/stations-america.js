@@ -23580,9 +23580,9 @@ var stations = {/*
             url: "http://stream.revma.ihrhls.com/zc257/hls.m3u8"
         },
         {
-            name: "The Breeze 94.1-HD3",
-            logo: "stations/images-america/san_diego/The Breeze 94.1-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
+            name: "94.1 KMYI-HD3",
+            logo: "stations/images-america/0_general_logos/Retro.png",
+            url: "http://stream.revma.ihrhls.com/zc10089/hls.m3u8"
         },
         {
             name: "Invasora 94.5",
@@ -23630,7 +23630,7 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kxsnfmaac-imc"
         },
         {
-            name: "Channel Q 98.1-HD3",
+            name: "Channel Q 98.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
@@ -23660,9 +23660,24 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc237/hls.m3u8"
         },
         {
+            name: "101.5 KGB-HD2",
+            logo: "stations/images-america/san_diego/San Diego Sports 760.png",
+            url: "http://stream.revma.ihrhls.com/zc8528/hls.m3u8"
+        },
+        {
             name: "K-LOVE 102.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "K-LOVE 2000s 102.1-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+        },
+        {
+            name: "Radio Nueva Vida 102.1-HD3",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://ice10.securenetsystems.net/KMRO"
         },
         {
             name: "Fusión 102.5",
@@ -23693,11 +23708,6 @@ var stations = {/*
             name: "ROCK 105.3",
             logo: "stations/images-america/san_diego/ROCK 105.3.png",
             url: "https://stream.revma.ihrhls.com/zc245/hls.m3u8"
-        },
-        {
-            name: "ALT 105.3-HD2",
-            logo: "stations/images-america/san_diego/ALT 105.3-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
         },
         {
             name: "Qué Buena 106.5",
