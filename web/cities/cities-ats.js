@@ -2349,7 +2349,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "boron": {
-        relative_radius: 0.4,
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "bozeman": {
