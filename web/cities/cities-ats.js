@@ -227,6 +227,12 @@ var country_properties = {
         code: "us-ok",
         relative_radius: 0.5
     },
+    "boron": {
+        name: "Boron",
+        name_english: "Boron",
+        code: "us-ca",
+        relative_radius: 0.7
+    },
     "bozeman": {
         name: "Bozeman",
         name_english: "Bozeman",
@@ -2342,6 +2348,10 @@ var city_properties = {
     "boise_city": {
         relative_whitenoise: 0.95
     },
+    "boron": {
+        relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
     "bozeman": {
         relative_whitenoise: 0.95
     },
@@ -3802,6 +3812,14 @@ var cities = [
         "x": "-28370.7",
         "y": "116.115",
         "z": "10697.5"
+    },
+    {
+        "gameName": "boron",
+        "realName": "Boron",
+        "country": "mojave",
+        "x": "-97727.2",
+        "y": "76.3406",
+        "z": "10188.1"
     },
     {
         "gameName": "bozeman",
