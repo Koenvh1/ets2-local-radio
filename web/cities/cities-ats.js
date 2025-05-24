@@ -509,6 +509,12 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.5
     },
+    "des_moines": {
+        name: "Des Moines",
+        name_english: "Des Moines",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
     "diablo": {
         name: "Diablo",
         name_english: "Diablo",
@@ -2489,6 +2495,9 @@ var city_properties = {
     "de_queen": {
         relative_whitenoise: 0.95
     },
+    "des_moines": {
+        relative_whitenoise: 0.85
+    },
     "diablo": {
         relative_whitenoise: 0.95
     },
@@ -4225,6 +4234,14 @@ var cities = [
         "x": "8009.72",
         "y": "52.4887",
         "z": "25208.4"
+    },
+    {
+        "gameName": "des_moines",
+        "realName": "Des Moines",
+        "country": "des_moines",
+        "x": "10449.6",
+        "y": "280.758",
+        "z": "-15398.4"
     },
     {
         "gameName": "diablo",
@@ -9246,12 +9263,6 @@ var country_properties_c2c = {
         code: "us-in",
         relative_radius: 0.7
     },
-    "desmoines": {
-        name: "desmoines",
-        name_english: "desmoines",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
     "davenport": {
         name: "Davenport",
         name_english: "Davenport",
@@ -10283,9 +10294,6 @@ var city_properties_c2c = {
     "davenport": {
         relative_whitenoise: 0.85
     },
-    "desmoines": {
-        relative_whitenoise: 0.85
-    },
     "cedar_rapids": {
         relative_whitenoise: 0.85
     },
@@ -11113,14 +11121,6 @@ var cities_c2c = [
         "x": "35385.1",
         "y": "40.6383",
         "z": "-3420.99"
-    },
-    {
-        "gameName": "desmoines",
-        "realName": "Des Moines",
-        "country": "desmoines",
-        "x": "10449.6",
-        "y": "280.758",
-        "z": "-15398.4"
     },
     {
         "gameName": "davenport",

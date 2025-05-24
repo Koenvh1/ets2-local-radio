@@ -2578,7 +2578,7 @@ var stations = {/*
         },
         {
             name: "Life 107.1",
-            logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
+            logo: "stations/images-america/des_moines/Life 107.1.png",
             url: "https://nwm.streamguys1.com/knwi-mp3"
         },
         {
@@ -2608,7 +2608,7 @@ var stations = {/*
         },
         {
             name: "1040 WHO",
-            logo: "stations/images-america/c2c/desmoines_ia/1040 WHO.png",
+            logo: "stations/images-america/des_moines/1040 WHO.png",
             url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
         },
     ],
@@ -6970,6 +6970,258 @@ var stations = {/*
             url: "http://motu.kkbifm.com:8000/k-64k.ogg"
         },
     ],
+    "des_moines": [
+        {
+            name: "Edge 88.1",
+            logo: "stations/images-america/des_moines/Edge 88.1.png",
+            url: "https://ais-sa1.streamon.fm/7240_32k.aac"
+        },
+        {
+            name: "KJMC 89.3",
+            logo: "stations/images-america/des_moines/KJMC 89.3.png",
+            url: "https://ice24.securenetsystems.net/KJMC"
+        },
+        {
+            name: "IPR Studio One 90.1",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
+            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
+        },
+        {
+            name: "IPR Classical 90.1-HD2",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "http://classical-stream.iowapublicradio.org/Classical.mp3"
+        },
+        {
+            name: "CSN Radio 90.9",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "Family Radio 91.3",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
+        },
+        {
+            name: "92.5 KJJY",
+            logo: "stations/images-america/des_moines/92.5 KJJY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJJYFMAAC_SC"
+        },
+        {
+            name: "93.3 KIOA",
+            logo: "stations/images-america/des_moines/93.3 KIOA.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kioafmaac-ibc1"
+        },
+        {
+            name: "93.3 KIOA-HD2",
+            logo: "stations/images-america/des_moines/Hits 99.9.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
+        },
+        {
+            name: "93.7 The Outlaw",
+            logo: "stations/images-america/des_moines/93.7 The Outlaw.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
+        },
+        {
+            name: "94.1 K231DI",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
+            url: "http://studioone-stream.iowapublicradio.org/StudioOne.mp3"
+        },
+        {
+            name: "95 KGGO",
+            logo: "stations/images-america/des_moines/95 KGGO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGGOFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 95.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "La Q Buena 95.7",
+            logo: "stations/images-america/des_moines/La Q Buena 95.7.png",
+            url: "http://sh2.radioonlinehd.com:8138/stream"
+        },
+        {
+            name: "96.1 KNWM",
+            logo: "stations/images-america/des_moines/Life 107.1.png",
+            url: "http://nwm.streamguys1.com/knwi-mp3"
+        },
+        {
+            name: "La Reina 96.5",
+            logo: "stations/images-america/des_moines/La Reina 1260.png",
+            url: "https://streaming.live365.com/a34702"
+        },
+        {
+            name: "96.9 The Bull",
+            logo: "stations/images-america/des_moines/96.9 The Bull.png",
+            url: "https://stream.revma.ihrhls.com/zc6883/hls.m3u8"
+        },
+        {
+            name: "NASH FM 97.3",
+            logo: "stations/images-america/des_moines/Nash FM 97.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKIFMAAC_SC"
+        },
+        {
+            name: "IPR Classical 97.7",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
+        },
+        {
+            name: "98.3 The Vibe",
+            logo: "stations/images-america/des_moines/98.3 The Vibe.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC_SC"
+        },
+        {
+            name: "KFMG 98.9",
+            logo: "stations/images-america/des_moines/KFMG 98.9.png",
+            url: "http://18.220.54.199:8000/kfmg.ogg"
+        },
+        {
+            name: "VCY America 99.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "HITS 99.9",
+            logo: "stations/images-america/des_moines/Hits 99.9.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
+        },
+        {
+            name: "100.3 The Bus",
+            logo: "stations/images-america/des_moines/100.3 The Bus.png",
+            url: "https://stream.revma.ihrhls.com/zc2744/hls.m3u8"
+        },
+        {
+            name: "100.3 KDRB-HD2",
+            logo: "stations/images-america/des_moines/1040 WHO.png",
+            url: "https://stream.revma.ihrhls.com/zc925"
+        },
+        {
+            name: "100.7 K264CD",
+            logo: "stations/images-america/des_moines/Life 107.1.png",
+            url: "http:///nwm.streamguys1.com/knwi-mp3"
+        },
+        {
+            name: "pulse 101.7",
+            logo: "stations/images-america/des_moines/pulse 101.7.png",
+            url: "https://ice8.securenetsystems.net/KPUL"
+        },
+        {
+            name: "102.1 ESPN",
+            logo: "stations/images-america/des_moines/1350 ESPN.png",
+            url: "http://live.amperwave.net/direct/espn-network-48"
+        },
+        {
+            name: "Star 102.5",
+            logo: "stations/images-america/des_moines/Star 102.5.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kstzfmaac-ibc1"
+        },
+        {
+            name: "102.5 KSTZ-HD2",
+            logo: "stations/images-america/des_moines/93.7 The Outlaw.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
+        },
+        {
+            name: "LAZER 103.3",
+            logo: "stations/images-america/des_moines/Lazer 103.3.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kazrfmaac-ibc1"
+        },
+        {
+            name: "104.1 EZ FM",
+            logo: "stations/images-america/des_moines/104.1 EZ FM.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-koezfmaac-ibc1"
+        },
+        {
+            name: "Pure Oldies 104.5",
+            logo: "stations/images-america/des_moines/Pure Oldies 104.5.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kazrhd2aac-ibc1"
+        },
+        {
+            name: "NOW 105.1",
+            logo: "stations/images-america/des_moines/NOW 105.1.png",
+            url: "https://stream.revma.ihrhls.com/zc913/hls.m3u8"
+        },
+        {
+            name: "105.5 Iowa Catholic Radio",
+            logo: "stations/images-america/des_moines/105.5 Iowa Catholic Radio.png",
+            url: "https://streaming.live365.com/a52879"
+        },
+        {
+            name: "IPR Classical 105.9",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://classical-stream.iowapublicradio.org//Classical.mp3"
+        },
+        {
+            name: "106.3 KXnO",
+            logo: "stations/images-america/des_moines/106.3 KXnO.png",
+            url: "https://stream.revma.ihrhls.com/zc921/hls.m3u8"
+        },
+        {
+            name: "106.3 KXNO-HD2",
+            logo: "stations/images-america/des_moines/96.9 The Bull.png",
+            url: "https://stream.revma.ihrhls.com/zc6883"
+        },
+        {
+            name: "Life 107.1",
+            logo: "stations/images-america/des_moines/Life 107.1.png",
+            url: "https://nwm.streamguys1.com/knwi-mp3"
+        },
+        {
+            name: "Faith Radio 107.1-HD2",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwm.streamguys1.com/ktis-am-4"
+        },
+        {
+            name: "107.5 KISS FM",
+            logo: "stations/images-america/des_moines/107.5 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc2740/hls.m3u8"
+        },
+        {
+            name: "540 KWMT",
+            logo: "stations/images-america/des_moines/540 KWMT.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+        },
+        {
+            name: "IPR News 640",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "Hope 940",
+            logo: "stations/images-america/des_moines/Hope 940.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpszamaac-ibc1"
+        },
+        {
+            name: "1040 WHO",
+            logo: "stations/images-america/des_moines/1040 WHO.png",
+            url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
+        },
+        {
+            name: "La Reina 1260",
+            logo: "stations/images-america/des_moines/La Reina 1260.png",
+            url: "http://streaming.live365.com/a34702"
+        },
+        {
+            name: "1350 ESPN",
+            logo: "stations/images-america/des_moines/1350 ESPN.png",
+            url: "https://live.amperwave.net/direct/espn-network-48"
+        },
+        {
+            name: "1430 KASI",
+            logo: "stations/images-america/des_moines/1430 KASI.png",
+            url: "https://stream.revma.ihrhls.com/zc4060/hls.m3u8"
+        },
+        {
+            name: "1460 KXnO",
+            logo: "stations/images-america/des_moines/106.3 KXnO.png",
+            url: "https://stream.revma.ihrhls.com/zc921"
+        },
+        {
+            name: "La Q Buena 1490",
+            logo: "stations/images-america/des_moines/La Q Buena 1490.png",
+            url: "https://sh2.radioonlinehd.com:8138/stream"
+        },
+    ],
     "diablo": [
         {
             name: "KARI 550",
@@ -8828,9 +9080,9 @@ var stations = {/*
             url: "https://ice5.securenetsystems.net/KAKSFM"
         },
         {
-            name: "Red Dirt 100.5",
-            logo: "stations/images-america/fayetteville_ar/Red Dirt 100.5.png",
-            url: "https://ice6.securenetsystems.net/KFFK"
+            name: "Ozarks 100",
+            logo: "stations/images-america/fayetteville_ar/Ozarks 100.png",
+            url: "https:///streams2.streamkast.co/479media/kffkam/icecast.audio"
         },
         {
             name: "101.5 The Vibe",
@@ -8909,8 +9161,8 @@ var stations = {/*
         },
         {
             name: "KREB 1190",
-            logo: "stations/images-america/fayetteville_ar/Red Dirt 100.5.png",
-            url: "http:///ice6.securenetsystems.net/KFFK"
+            logo: "stations/images-america/fayetteville_ar/Ozarks 100.png",
+            url: "http://streams2.streamkast.co/479media/kffkam/icecast.audio"
         },
         {
             name: "KPBI 1250",
@@ -8929,8 +9181,8 @@ var stations = {/*
         },
         {
             name: "KFFK 1390",
-            logo: "stations/images-america/fayetteville_ar/Red Dirt 100.5.png",
-            url: "https://ice6.securenetsystems.net/KFFK"
+            logo: "stations/images-america/fayetteville_ar/Ozarks 100.png",
+            url: "https://streams2.streamkast.co/479media/kffkam/icecast.audio"
         },
         {
             name: "The Ticket 2 1590",
@@ -15067,7 +15319,7 @@ var stations = {/*
         {
             name: "La Raza 97.7",
             logo: "stations/images-america/little_rock/La Raza 97.7.png",
-            url: "https://sh2.radioonlinehd.com:8067/stream"
+            url: "https://sh2.radioonlinehd.com:8138/stream"
         },
         {
             name: "B98.5",
@@ -15127,7 +15379,7 @@ var stations = {/*
         {
             name: "KMTL 760",
             logo: "stations/images-america/little_rock/La Raza 97.7.png",
-            url: "http://sh2.radioonlinehd.com:8067/stream"
+            url: "http://sh2.radioonlinehd.com:8138/stream"
         },
         {
             name: "KLRG 880",
@@ -28457,9 +28709,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/eldorado-katjhd2aac-ibc2?source=v7player"
         },*/
         {
-            name: "98.1 KRXV",
-            logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://a8.asurahosting.com:7440/radio.mp3"
+            name: "ViBE 98.1",
+            logo: "stations/images-america/barstow/ViBE 98.1.png",
+            url: "https://a8.asurahosting.com:8190/radio.mp3"
         },
         {
             name: "99.1 KGGI",
@@ -32836,6 +33088,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIFMAAC_SC"
         },
         {
+            name: "afr Talk 92.7",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
             name: "News Talk 93.1",
             logo: "stations/images-america/c2c/montgomery_al/News Talk 93.1.png",
             url: "http://ice9.securenetsystems.net/WACV"
@@ -32856,6 +33113,21 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXFXFMAAC_SC"
         },
         {
+            name: "95.1 WXFX-HD2",
+            logo: "stations/images-america/c2c/montgomery_al/Sports Radio 740.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMSPAMAAC_SC"
+        },
+        {
+            name: "95.1-HD3 The Vibe",
+            logo: "stations/images-america/c2c/montgomery_al/95.1-HD3 The Vibe.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXFXH3AAC_SC"
+        },
+        {
+            name: "95.1 WXFX-HD4",
+            logo: "stations/images-america/0_general_logos/Way FM.png",
+            url: "https://ais-sa8.cdnstream1.com/3152_64.aac"
+        },
+        {
             name: "WRBZ 95.5",
             logo: "stations/images-america/c2c/montgomery_al/WRBZ 95.5.png",
             url: "http://ice10.securenetsystems.net/WRBZ955"
@@ -32864,6 +33136,26 @@ var stations = {/*
             name: "Kiss 96.1",
             logo: "stations/images-america/c2c/montgomery_al/Kiss 96.1.png",
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/WQKS"
+        },
+        {
+            name: "96.1 WQKS-HD2",
+            logo: "stations/images-america/c2c/montgomery_al/Yo! 100.5.png",
+            url: "http://84.32.44.251/index.php?u=http://ice9.securenetsystems.net/WQKSHD2"
+        },
+        {
+            name: "96.1 WQKS-HD3",
+            logo: "stations/images-america/c2c/montgomery_al/107.1 The Vault.png",
+            url: "http://84.32.44.251/index.php?u=http://ice9.securenetsystems.net/WQKSHD3"
+        },
+        {
+            name: "96.1 WQKS-HD4",
+            logo: "stations/images-america/c2c/montgomery_al/103.9 The Possum.png",
+            url: "http://84.32.44.251/index.php?u=http://ice9.securenetsystems.net/WQKSHD4"
+        },
+        {
+            name: "Praise 96.5",
+            logo: "stations/images-america/c2c/montgomery_al/Praise 96.5.png",
+            url: "http://ice64.securenetsystems.net/WMRKHD3"
         },
         {
             name: "Magic 97.1",
@@ -32929,6 +33221,21 @@ var stations = {/*
             name: "The Ticket 107.5",
             logo: "stations/images-america/c2c/montgomery_al/The Ticket 107.5.png",
             url: "https://ice6.securenetsystems.net/WTXK"
+        },
+        {
+            name: "K-LOVE 107.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "107.9 WMRK-HD2",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https:///mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "107.9 WMRK-HD3",
+            logo: "stations/images-america/c2c/montgomery_al/Praise 96.5.png",
+            url: "https://ice64.securenetsystems.net/WMRKHD3"
         },
         {
             name: "Sports Radio 740",
@@ -38734,233 +39041,6 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/dlcmedia-wvigfmaac-ibc4"
         },
     ],
-    "desmoines": [
-        {
-            name: "Edge 88.1",
-            logo: "stations/images-america/c2c/desmoines_ia/Edge 88.1.png",
-            url: "https://ais-sa1.streamon.fm/7240_32k.aac"
-        },
-        {
-            name: "KJMC 89.3",
-            logo: "stations/images-america/c2c/desmoines_ia/KJMC 89.3.png",
-            url: "https://ice24.securenetsystems.net/KJMC"
-        },
-        {
-            name: "IPR Studio One 90.1",
-            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
-            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
-        },
-        {
-            name: "IPR Classical 90.1-HD2",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "http://classical-stream.iowapublicradio.org/Classical.mp3"
-        },
-        {
-            name: "92.5 KJJY",
-            logo: "stations/images-america/c2c/desmoines_ia/92.5 KJJY.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJJYFMAAC_SC"
-        },
-        {
-            name: "93.3 KIOA",
-            logo: "stations/images-america/c2c/desmoines_ia/93.3 KIOA.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kioafmaac-ibc1"
-        },
-        {
-            name: "93.3 KIOA-HD2",
-            logo: "stations/images-america/c2c/desmoines_ia/Hits 99.9.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
-        },
-        {
-            name: "93.7 The Outlaw",
-            logo: "stations/images-america/c2c/desmoines_ia/93.7 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
-        },
-        {
-            name: "94.1 K231DI",
-            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
-            url: "http://studioone-stream.iowapublicradio.org/StudioOne.mp3"
-        },
-        {
-            name: "95 KGGO",
-            logo: "stations/images-america/c2c/desmoines_ia/95 KGGO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGGOFMAAC_SC"
-        },
-        {
-            name: "K-LOVE 95.3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "95.7 K239CR",
-            logo: "stations/images-america/c2c/desmoines_ia/La Patrona 1490.png",
-            url: "http://sh2.radioonlinehd.com:8067/stream"
-        },
-        {
-            name: "96.1 KNWM",
-            logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
-            url: "http://nwm.streamguys1.com/knwi-mp3"
-        },
-        {
-            name: "La Reina 96.5",
-            logo: "stations/images-america/c2c/desmoines_ia/La Reina 1260.png",
-            url: "https://streaming.live365.com/a34702"
-        },
-        {
-            name: "96.9 The Bull",
-            logo: "stations/images-america/c2c/desmoines_ia/96.9 The Bull.png",
-            url: "https://stream.revma.ihrhls.com/zc6883/hls.m3u8"
-        },
-        {
-            name: "Nash FM 97.3",
-            logo: "stations/images-america/c2c/desmoines_ia/Nash FM 97.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHKIFMAAC_SC"
-        },
-        {
-            name: "IPR Classical 97.7",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
-        },
-        {
-            name: "98.3 The Vibe",
-            logo: "stations/images-america/c2c/desmoines_ia/98.3 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWQWFMAAC_SC"
-        },
-        {
-            name: "KFMG 98.9",
-            logo: "stations/images-america/c2c/desmoines_ia/KFMG 98.9.png",
-            url: "http://18.220.54.199:8000/kfmg.ogg"
-        },
-        {
-            name: "VCY America 99.3",
-            logo: "stations/images-america/0_general_logos/VCY America.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
-        },
-        {
-            name: "Hits 99.9",
-            logo: "stations/images-america/c2c/desmoines_ia/Hits 99.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
-        },
-        {
-            name: "100.3 The Bus",
-            logo: "stations/images-america/c2c/desmoines_ia/100.3 The Bus.png",
-            url: "https://stream.revma.ihrhls.com/zc2744/hls.m3u8"
-        },
-        {
-            name: "100.3 KDRB-HD2",
-            logo: "stations/images-america/c2c/desmoines_ia/1040 WHO.png",
-            url: "https://stream.revma.ihrhls.com/zc925"
-        },
-        {
-            name: "102.1 K271CO",
-            logo: "stations/images-america/c2c/desmoines_ia/1350 ESPN.png",
-            url: "http://live.amperwave.net/direct/espn-network-48"
-        },
-        {
-            name: "Star 102.5",
-            logo: "stations/images-america/c2c/desmoines_ia/Star 102.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kstzfmaac-ibc1"
-        },
-        {
-            name: "102.5 KSTZ-HD2",
-            logo: "stations/images-america/c2c/desmoines_ia/93.7 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
-        },
-        {
-            name: "Lazer 103.3",
-            logo: "stations/images-america/c2c/desmoines_ia/Lazer 103.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kazrfmaac-ibc1"
-        },
-        {
-            name: "104.1 EZ FM",
-            logo: "stations/images-america/c2c/desmoines_ia/104.1 EZ FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-koezfmaac-ibc1"
-        },
-        {
-            name: "Pure Oldies 104.5",
-            logo: "stations/images-america/c2c/desmoines_ia/Pure Oldies 104.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kazrhd2aac-ibc1"
-        },
-        {
-            name: "NOW 105.1",
-            logo: "stations/images-america/c2c/desmoines_ia/NOW 105.1.png",
-            url: "https://stream.revma.ihrhls.com/zc913/hls.m3u8"
-        },
-        {
-            name: "La Ley 105.5",
-            logo: "stations/images-america/c2c/desmoines_ia/La Ley 105.5.png",
-            url: "https://stream.zeno.fm/svwxvryg5heuv"
-        },
-        {
-            name: "106.3 KXnO",
-            logo: "stations/images-america/c2c/desmoines_ia/106.3 KXnO.png",
-            url: "https://stream.revma.ihrhls.com/zc921/hls.m3u8"
-        },
-        {
-            name: "106.3 KXNO-HD2",
-            logo: "stations/images-america/c2c/desmoines_ia/96.9 The Bull.png",
-            url: "https://stream.revma.ihrhls.com/zc6883"
-        },
-        {
-            name: "Life 107.1",
-            logo: "stations/images-america/c2c/desmoines_ia/Life 107.1.png",
-            url: "https://nwm.streamguys1.com/knwi-mp3"
-        },
-        {
-            name: "Faith Radio 107.1-HD2",
-            logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/ktis-am-4"
-        },
-        {
-            name: "107.5 KISS FM",
-            logo: "stations/images-america/c2c/desmoines_ia/107.5 KISS FM.png",
-            url: "https://stream.revma.ihrhls.com/zc2740/hls.m3u8"
-        },
-        {
-            name: "540 KWMT",
-            logo: "stations/images-america/c2c/desmoines_ia/540 KWMT.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
-        },
-        {
-            name: "IPR News 640",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
-        },
-        {
-            name: "Hope 940",
-            logo: "stations/images-america/c2c/desmoines_ia/Hope 940.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpszamaac-ibc1"
-        },
-        {
-            name: "1040 WHO",
-            logo: "stations/images-america/c2c/desmoines_ia/1040 WHO.png",
-            url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
-        },
-        {
-            name: "La Reina 1260",
-            logo: "stations/images-america/c2c/desmoines_ia/La Reina 1260.png",
-            url: "http://streaming.live365.com/a34702"
-        },
-        {
-            name: "1350 ESPN",
-            logo: "stations/images-america/c2c/desmoines_ia/1350 ESPN.png",
-            url: "https://live.amperwave.net/direct/espn-network-48"
-        },
-        {
-            name: "1430 KASI",
-            logo: "stations/images-america/c2c/desmoines_ia/1430 KASI.png",
-            url: "https://stream.revma.ihrhls.com/zc4060/hls.m3u8"
-        },
-        {
-            name: "1460 KXnO",
-            logo: "stations/images-america/c2c/desmoines_ia/106.3 KXnO.png",
-            url: "https://stream.revma.ihrhls.com/zc921"
-        },
-        {
-            name: "La Patrona 1490",
-            logo: "stations/images-america/c2c/desmoines_ia/La Patrona 1490.png",
-            url: "https://sh2.radioonlinehd.com:8067/stream"
-        },
-    ],
     "davenport": [
         {
             name: "KALA 88.5",
@@ -39003,8 +39083,8 @@ var stations = {/*
             url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
         },
         {
-            name: "93.1 The Buzz",
-            logo: "stations/images-america/c2c/davenport_ia/93.1 The Buzz.png",
+            name: "MC93",
+            logo: "stations/images-america/c2c/davenport_ia/MC93.png",
             url: "https://ice7.securenetsystems.net/KMCS"
         },
         {
@@ -42059,7 +42139,7 @@ var stations = {/*
         },
         {
             name: "1040 WHO",
-            logo: "stations/images-america/c2c/desmoines_ia/1040 WHO.png",
+            logo: "stations/images-america/des_moines/1040 WHO.png",
             url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
         },
         {
