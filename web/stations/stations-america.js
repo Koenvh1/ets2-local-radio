@@ -952,7 +952,7 @@ var stations = {/*
         {
             name: "Worship 24-7 102.3",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "http://worship247.streamguys1.com/live-aac-web"
+            url: "https://ice26.securenetsystems.net/W247"
         },
         {
             name: "Panhandle Sports Star 102.9",
@@ -1695,11 +1695,6 @@ var stations = {/*
             name: "The Reel 107.3",
             logo: "stations/images-america/steamboat_sp/The Reel 95.5.png",
             url: "https://ais-sa1.streamon.fm/7125_48k.aac"
-        },
-        {
-            name: "55 Country",
-            logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://stream.aiir.com/p8iuej3i05quv"
         },*/
     ],
     "baker_city": [
@@ -2442,7 +2437,7 @@ var stations = {/*
         {
             name: "Worship 24-7 93.7",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "http://worship247.streamguys1.com/live-aac-web"
+            url: "https://ice26.securenetsystems.net/W247"
         },
         {
             name: "Power 94",
@@ -5896,7 +5891,7 @@ var stations = {/*
         {
             name: "Worship 24-7 89.7-HD3",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "http://worship247.streamguys1.com/live-aac-web"
+            url: "https://ice26.securenetsystems.net/W247"
         },
         {
             name: "KERA 90.1",
@@ -11671,7 +11666,7 @@ var stations = {/*
         {
             name: "Worship 24-7 91.3",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "http://worship247.streamguys1.com/live-aac-web"
+            url: "https://ice26.securenetsystems.net/W247"
         },
         {
             name: "Vida Unida 91.7",
@@ -20501,8 +20496,8 @@ var stations = {/*
         },
         {
             name: "Worship 24-7 96.3",
-            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "http://worship247.streamguys1.com/live-aac-web"
+            logo: "stations/images-america/portland/Worship 24-7 96.3.png",
+            url: "https://ice25.securenetsystems.net/KKWA"
         },
         {
             name: "The Numberz.FM 96.1",
@@ -25893,11 +25888,6 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7124_48k.aac"
         },*/
         {
-            name: "55 Country",
-            logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://stream.aiir.com/p8iuej3i05quv"
-        },
-        {
             name: "600 KCOL",
             logo: "stations/images-america/fort_collins/600 KCOL.png",
             url: "https://stream.revma.ihrhls.com/zc401/hls.m3u8"
@@ -26964,6 +26954,11 @@ var stations = {/*
             name: "Radio Tacoma 101.9",
             logo: "stations/images-america/tacoma/Radio Tacoma 101.9.png",
             url: "https://stream.radiotacoma.org/ktah.mp3"
+        },
+        {
+            name: "Worship 24-7 104.9",
+            logo: "stations/images-america/tacoma/Worship 24.7 104.9.png",
+            url: "https://ice25.securenetsystems.net/KTDD"
         },
         {
             name: "Sacred Heart Radio 107.3",
@@ -28543,11 +28538,6 @@ var stations = {/*
             name: "105.5 Eagle Country",
             logo: "stations/images-america/vernal/105.5 Eagle Country.png",
             url: "https://ais-sa1.streamon.fm/7920_96k.aac"
-        },
-        {
-            name: "55 Country",
-            logo: "stations/images-america/rangely/55 Country.png",
-            url: "https://stream.aiir.com/p8iuej3i05quv"
         },
         {
             name: "KJOL 620",
@@ -38318,7 +38308,7 @@ var stations = {/*
         {
             name: "Worship 24-7 100.1",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "http://worship247.streamguys1.com/live-aac-web"
+            url: "https://ice26.securenetsystems.net/W247"
         },
         {
             name: "103GBF",
