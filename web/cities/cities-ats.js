@@ -1475,6 +1475,12 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.7
     },
+    "ottumwa": {
+        name: "Ottumwa",
+        name_english: "Ottumwa",
+        code: "us-ia",
+        relative_radius: 0.7
+    },
     "ouray": {
         name: "Ouray",
         name_english: "Ouray",
@@ -1918,6 +1924,12 @@ var country_properties = {
         name_english: "Sierra Vista",
         code: "us-az",
         relative_radius: 0.6
+    },
+    "sioux_city": {
+        name: "Sioux City",
+        name_english: "Sioux City",
+        code: "us-ia",
+        relative_radius: 0.7
     },
     "socorro": {
         name: "Socorro",
@@ -3032,6 +3044,9 @@ var city_properties = {
     "osage_beach": {
         relative_whitenoise: 0.95
     },
+    "ottumwa": {
+        relative_whitenoise: 0.95
+    },
     "ouray": {
 		relative_radius: 0.4,
         relative_whitenoise: 0.95
@@ -3280,6 +3295,9 @@ var city_properties = {
     },
     "sierra_vista": {
         relative_whitenoise: 0.85
+    },
+    "sioux_city": {
+        relative_whitenoise: 0.95
     },
     "socorro": {
         relative_whitenoise: 0.95
@@ -5718,6 +5736,14 @@ var cities = [
         "z": "3829.92"
     },
     {
+        "gameName": "ottumwa",
+        "realName": "Ottumwa",
+        "country": "ottumwa",
+        "x": "16536.7",
+        "y": "135.653",
+        "z": "-11925.7"
+    },
+    {
         "gameName": "ouray",
         "realName": "Ouray",
         "country": "grand_junction_montrose",
@@ -6356,6 +6382,14 @@ var cities = [
         "x": "-68525.5",
         "y": "125",
         "z": "36654"
+    },
+    {
+        "gameName": "sioux_city",
+        "realName": "Sioux City",
+        "country": "sioux_city",
+        "x": "-676.06",
+        "y": "111.75",
+        "z": "-19592.4"
     },
     {
         "gameName": "socorro",
@@ -9065,9 +9099,9 @@ var country_properties_c2c = {
         code: "us-fl",
         relative_radius: 0.75
     },
-    "new_smyrna_beach": {
-        name: "New Smyrna Beach",
-        name_english: "New Smyrna Beach",
+    "daytona_beach": {
+        name: "Daytona Beach",
+        name_english: "Daytona Beach",
         code: "us-fl",
         relative_radius: 0.7
     },
@@ -9292,18 +9326,6 @@ var country_properties_c2c = {
         name_english: "Cedar Rapids",
         code: "us-ia",
         relative_radius: 0.8
-    },
-    "ottumwa": {
-        name: "Ottumwa",
-        name_english: "Ottumwa",
-        code: "us-ia",
-        relative_radius: 0.7
-    },
-    "sioux_city": {
-        name: "sioux_city",
-        name_english: "sioux_city",
-        code: "us-ia",
-        relative_radius: 0.7
     },
     "greatbend_ks": {
         name: "Great Bend",
@@ -10203,7 +10225,7 @@ var city_properties_c2c = {
     "fort_myers_fl": {
         relative_whitenoise: 0.90
     },
-    "new_smyrna_beach": {
+    "daytona_beach": {
 		relative_radius: 1.0,
         relative_whitenoise: 0.85
     },
@@ -10313,12 +10335,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
-        relative_whitenoise: 0.85
-    },
-    "ottumwa": {
-        relative_whitenoise: 0.95
-    },
-    "sioux_city": {
         relative_whitenoise: 0.85
     },
     "greatbend_ks": {
@@ -10845,16 +10861,16 @@ var cities_c2c = [
         "z": "66650.7"
     },
     {
-        "gameName": "new_smyrna_beach",
-        "realName": "New Smyrna Beach",
-        "country": "new_smyrna_beach",
+        "gameName": "daytona_beach",
+        "realName": "Daytona Beach",
+        "country": "daytona_beach",
         "x": "74529",
         "y": "68.9414",
         "z": "48411.4"
     },
     {
-        "gameName": "new_smyrna_beach",
-        "realName": "New Smyrna Beach",
+        "gameName": "daytona_beach",
+        "realName": "Daytona Beach",
         "country": "orlando",
         "x": "74529",
         "y": "66.9414",
@@ -11147,22 +11163,6 @@ var cities_c2c = [
         "x": "22909.3",
         "y": "88.9163",
         "z": "-15390.4"
-    },
-    {
-        "gameName": "ottumwa",
-        "realName": "Ottumwa",
-        "country": "ottumwa",
-        "x": "16536.7",
-        "y": "135.653",
-        "z": "-11925.7"
-    },
-    {
-        "gameName": "sioux_city",
-        "realName": "Sioux City",
-        "country": "sioux_city",
-        "x": "-676.06",
-        "y": "111.75",
-        "z": "-19592.4"
     },
     {
         "gameName": "cedar_rapids",
