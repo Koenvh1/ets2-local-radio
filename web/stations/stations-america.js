@@ -2699,17 +2699,17 @@ var stations = {/*
         },
         {
             name: "YPR 91.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "YPR Classical 91.7-HD2",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-2aac"
         },
         {
             name: "YPR Jazz 91.7-HD3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-3aac"
         },
         {
@@ -3084,7 +3084,7 @@ var stations = {/*
         },
         {
             name: "YPR 88.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net//live"
         },
         {
@@ -3154,22 +3154,22 @@ var stations = {/*
         },
         {
             name: "YPR 102.1",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
             name: "YPR News & Talk 102.1-HD2",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-4"
         },
         {
             name: "YPR Classical 102.1-HD3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-2aac"
         },
         {
             name: "YPR Jazz 102.1-HD4",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "https://ypr.streamguys1.com/live-3aac"
         },
         {
@@ -3253,7 +3253,7 @@ var stations = {/*
     "broadus": [
         {
             name: "YPR 91.9",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -4830,7 +4830,7 @@ var stations = {/*
         },
         {
             name: "YPR 88.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -10559,7 +10559,7 @@ var stations = {/*
     "glasgow": [
         {
             name: "YPR 91.9",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -10601,7 +10601,7 @@ var stations = {/*
     "glendive": [
         {
             name: "YPR 88.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -11257,7 +11257,7 @@ var stations = {/*
     "greatfalls": [
         {
             name: "YPR 89.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -11743,7 +11743,7 @@ var stations = {/*
         },
         {
             name: "YPR 91.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -11795,7 +11795,7 @@ var stations = {/*
     "helena": [
         {
             name: "YPR 88.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -15370,7 +15370,7 @@ var stations = {/*
     "lewistown": [
         {
             name: "YPR 89.5",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -17892,7 +17892,7 @@ var stations = {/*
     "milescity": [
         {
             name: "YPR 90.7",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -25569,7 +25569,7 @@ var stations = {/*
         },
         {
             name: "YPR 90.3",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -25648,7 +25648,7 @@ var stations = {/*
     "sheridan": [
         {
             name: "YPR 88.1",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
         {
@@ -29683,7 +29683,7 @@ var stations = {/*
         },
         {
             name: "YPR 105.9",
-            logo: "stations/images-america/0_general_logos/YPR_winter.png",
+            logo: "stations/images-america/0_general_logos/YPR_summer.png",
             url: "http://ypr-sc.streamguys.net/live-aac"
         },
     ],
@@ -30397,7 +30397,7 @@ var stations = {/*
         {
             name: "Los 40 90.7",
             logo: "stations/images-america/0_general_logos/Los 40.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC_SC"
         },
         {
             name: "Manantial 91.9",
@@ -32176,7 +32176,7 @@ var stations = {/*
         {
             name: "Los 40 90.7",
             logo: "stations/images-america/mexico/mexicali/Los 40 90.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC_SC"
         },
         {
             name: "exa 91.5",
