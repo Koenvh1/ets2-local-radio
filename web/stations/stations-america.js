@@ -3458,6 +3458,58 @@ var stations = {/*
             url: "https://www.ophanim.net:8444/s/7410"
         },
     ],
+    "burlington_ia": [
+        {
+            name: "Air1 88.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "afr Hybrid 89.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp4"
+        },
+        {
+            name: "Moody Radio 90.7",
+            logo: "stations/images-america/c2c/davenport_ia/Moody Radio 89.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 95.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "97.7 WMOI",
+            logo: "stations/images-america/burlington_ia/97.7 WMOI.png",
+            url: "https://ice8.securenetsystems.net/WMOI"
+        },
+        {
+            name: "98.3 KCDM",
+            logo: "stations/images-america/burlington_ia/98.3 KCDM.png",
+            url: "http://167.142.37.231:8000/stream"
+        },
+        {
+            name: "KBUR 99.3",
+            logo: "stations/images-america/burlington_ia/KBUR.png",
+            url: "http://nyc01.egihosting.com:4348/;"
+        },
+        {
+            name: "KILJ 105.5",
+            logo: "stations/images-america/burlington_ia/KILJ.png",
+            url: "https://crystalout.surfernetwork.com:8001/KILJ_MP3"
+        },
+        {
+            name: "TSPR 106.3",
+            logo: "stations/images-america/0_general_logos/TSPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIUMFM_SC"
+        },
+        {
+            name: "KBUR 1490",
+            logo: "stations/images-america/burlington_ia/KBUR.png",
+            url: "http:///nyc01.egihosting.com:4348/;"
+        },
+    ],
     "burns": [
         {
             name: "KVIP 89.5",
@@ -3993,6 +4045,213 @@ var stations = {/*
             name: "AM 1400 The Cowboy",
             logo: "stations/images-america/casper/101.9 The Cowboy.png",
             url: "http://live.amperwave.net/manifest/townsquare-kktlamaac-ibc3"
+        },
+    ],
+    "cedar_rapids": [
+        {
+            name: "88.3 KCCK",
+            logo: "stations/images-america/cedar_rapids/88.3 KCCK.png",
+            url: "http://stream.kcck.org/jazz883kcck"
+        },
+        {
+            name: "Jazz 2 88.3-HD2",
+            logo: "stations/images-america/cedar_rapids/Jazz 2 88.3-HD2.png",
+            url: "http://stream.kcck.org/kcckjazz2"
+        },
+        {
+            name: "KMMK 88.7",
+            logo: "stations/images-america/cedar_rapids/KMMK 88.7.png",
+            url: "https://kmmk.aquinascommunications.org:8001/kmmk"
+        },
+        {
+            name: "Air1 89.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 89.1-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Radio Nueva Vida 89.1-HD3",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://ice10.securenetsystems.net/KMRO"
+        },
+        {
+            name: "89.9 KEWR",
+            logo: "stations/images-america/cedar_rapids/89.9 KEWR.png",
+            url: "https://streaming.live365.com/a36509"
+        },
+        {
+            name: "IPR News 90.9",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "IPR Classical 91.7",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
+        },
+        {
+            name: "K92.3",
+            logo: "stations/images-america/cedar_rapids/K92.3.png",
+            url: "https://live.amperwave.net/manifest/townsquare-koelfmaac-ibc3"
+        },
+        {
+            name: "Classic KMRY 93.1",
+            logo: "stations/images-america/cedar_rapids/Classic KMRY.png",
+            url: "https://crystalout.surfernetwork.com:8001/KMRY_MP3"
+        },
+        {
+            name: "94.1 KRNA",
+            logo: "stations/images-america/cedar_rapids/94.1 KRNA.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krnafmaac-ibc3"
+        },
+        {
+            name: "95.1 Smart FM",
+            logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
+            url: "https://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
+        },
+        {
+            name: "Sports Radio 95.7",
+            logo: "stations/images-america/cedar_rapids/Sports Radio 95.7.png",
+            url: "https://stream.revma.ihrhls.com/zc2732/hls.m3u8"
+        },
+        {
+            name: "96.5 Kiss Country",
+            logo: "stations/images-america/cedar_rapids/96.5 Kiss Country.png",
+            url: "https://stream.revma.ihrhls.com/zc3647/hls.m3u8"
+        },
+        {
+            name: "KACJ-LP 97.5",
+            logo: "stations/images-america/cedar_rapids/KACJ-LP 97.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC440_SC"
+        },
+        {
+            name: "98.1 KHAK",
+            logo: "stations/images-america/cedar_rapids/98.1 KHAK.png",
+            url: "https://live.amperwave.net/manifest/townsquare-khakfmaac-ibc3"
+        },
+        {
+            name: "Q98.5",
+            logo: "stations/images-america/cedar_rapids/Q98.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kkhqfmaac-ibc3"
+        },
+        {
+            name: "100.7 The Fox",
+            logo: "stations/images-america/cedar_rapids/100.7 The Fox.png",
+            url: "https://stream.revma.ihrhls.com/zc2812/hls.m3u8"
+        },
+        {
+            name: "101.5 K268CY",
+            logo: "stations/images-america/cedar_rapids/LEO 1360.png",
+            url: "https://stream.revma.ihrhls.com/zc4744"
+        },
+        {
+            name: "Life 101.9",
+            logo: "stations/images-america/cedar_rapids/Life 101.9.png",
+            url: "https://nwmedia-knwsfm.streamguys1.com/knws-fm"
+        },
+        {
+            name: "102.3 ESPN",
+            logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
+            url: "https://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+        },
+        {
+            name: "Z102.9",
+            logo: "stations/images-america/cedar_rapids/Z102.9.png",
+            url: "https://live.amperwave.net/manifest/kziainc-kziafmaac-ibc2"
+        },
+        {
+            name: "102.9 KZIA-HD2",
+            logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
+            url: "http://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
+        },
+        {
+            name: "102.9 KZIA-HD3",
+            logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
+            url: "https:///live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+        },
+        {
+            name: "102.9 KZIA-HD4",
+            logo: "stations/images-america/cedar_rapids/X107.5.png",
+            url: "http://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
+        },
+        {
+            name: "K-LOVE 103.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "104.5 KDAT",
+            logo: "stations/images-america/cedar_rapids/104.5 KDAT.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kdatfmaac-ibc3"
+        },
+        {
+            name: "105.7 KOKZ",
+            logo: "stations/images-america/cedar_rapids/105.7 KOKZ.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOKZFMAAC_SC"
+        },
+        {
+            name: "El Gallo 107.1",
+            logo: "stations/images-america/cedar_rapids/El Gallo 107.1.png",
+            url: "https://securenetg.com/listen/wlel/radio.aac"
+        },
+        {
+            name: "X107.5",
+            logo: "stations/images-america/cedar_rapids/X107.5.png",
+            url: "https://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
+        },
+        {
+            name: "ROCK 108",
+            logo: "stations/images-america/cedar_rapids/Rock 108.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFMWFMAAC_SC"
+        },
+        {
+            name: "600 WMT",
+            logo: "stations/images-america/cedar_rapids/600 WMT.png",
+            url: "https://stream.revma.ihrhls.com/zc917/hls.m3u8"
+        },
+        {
+            name: "800 KXIC",
+            logo: "stations/images-america/cedar_rapids/800 KXIC.png",
+            url: "https://stream.revma.ihrhls.com/zc5262/hls.m3u8"
+        },
+        {
+            name: "IPR News 910",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "Faith 1090",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwmedia-ktisam.streamguys1.com/ktis-am"
+        },
+        {
+            name: "LEO 1360",
+            logo: "stations/images-america/cedar_rapids/LEO 1360.png",
+            url: "https://stream.revma.ihrhls.com/zc4744/hls.m3u8"
+        },
+        {
+            name: "Classic KMRY 1450",
+            logo: "stations/images-america/cedar_rapids/Classic KMRY.png",
+            url: "https://crystalout.surfernetwork.com:8001//KMRY_MP3"
+        },
+        {
+            name: "1540 KXEL",
+            logo: "stations/images-america/cedar_rapids/1540 KXEL.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXELAMAAC_SC"
+        },
+        {
+            name: "1600 ESPN",
+            logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
+            url: "http://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+        },
+        {
+            name: "1630 KCJJ",
+            logo: "stations/images-america/cedar_rapids/1630 KCJJ.png",
+            url: "https://ice24.securenetsystems.net/KCJJ"
         },
     ],
     "chadron": [
@@ -9507,6 +9766,83 @@ var stations = {/*
             name: "KIIX 1410",
             logo: "stations/images-america/fort_collins/KIIX 1410.png",
             url: "https://stream.revma.ihrhls.com/zc405/hls.m3u8"
+        },
+    ],
+    "fort_dodge": [
+        {
+            name: "88.1 The Point",
+            logo: "stations/images-america/fort_dodge/88.1 The Point.png",
+            url: "http://peridot.streamguys.com:7260/live"
+        },
+        {
+            name: "K-LOVE 89.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "IPR News 91.1",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "92 ROCK",
+            logo: "stations/images-america/fort_dodge/92 ROCK.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kzlbfmaac-ibc2"
+        },
+        {
+            name: "Mix 94.5",
+            logo: "stations/images-america/fort_dodge/Mix 94.5.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kkezfmaac-ibc2"
+        },
+        {
+            name: "KQWC 95.7",
+            logo: "stations/images-america/fort_dodge/KQWC 95.7.png",
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KQWC"
+        },
+        {
+            name: "K97",
+            logo: "stations/images-america/fort_dodge/K97.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kiaqfmaac-ibc2"
+        },
+        {
+            name: "97.7 The Bolt",
+            logo: "stations/images-america/fort_dodge/97.7 The Bolt.png",
+            url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KHBT"
+        },
+        {
+            name: "Sunny 99.7",
+            logo: "stations/images-america/fort_dodge/Sunny 99.7.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kxftfmaac-ibc2"
+        },
+        {
+            name: "Kinship Christian Radio 100.7",
+            logo: "stations/images-america/0_general_logos/Kinship Christian Radio.png",
+            url: "http://quarrel.str3am.com:7780/stream"
+        },
+        {
+            name: "104.1 EZ FM",
+            logo: "stations/images-america/des_moines/104.1 EZ FM.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-koezfmaac-ibc1"
+        },
+        {
+            name: "105.9 The Beach",
+            logo: "stations/images-america/fort_dodge/105.9 The Beach.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
+        },
+        {
+            name: "540 KWMT",
+            logo: "stations/images-america/fort_dodge/540 KWMT.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+        },
+        {
+            name: "IPR News 640",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "http://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "1040 WHO",
+            logo: "stations/images-america/des_moines/1040 WHO.png",
+            url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
         },
     ],
     "fort_smith": [
@@ -16583,6 +16919,128 @@ var stations = {/*
             name: "KNDY 1570",
             logo: "stations/images-america/marysville/KNDY.png",
             url: "https://ice23.securenetsystems.net/KNDYAM"
+        },
+    ],
+    "mason_city": [
+        {
+            name: "afr Hybrid 88.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/inspo.mp4"
+        },
+        {
+            name: "IPR Classical 90.7",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
+        },
+        {
+            name: "IPR News 91.5",
+            logo: "stations/images-america/c2c/traversecity_mi/IPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM_SC"
+        },
+        {
+            name: "Kinship Christian Radio 92.5",
+            logo: "stations/images-america/0_general_logos/Kinship Christian Radio.png",
+            url: "http://quarrel.str3am.com:7780/stream"
+        },
+        {
+            name: "93.9 The Country Moose",
+            logo: "stations/images-america/mason_city/93.9 The Country Moose.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kiaifmaac-ibc4"
+        },
+        {
+            name: "VCY America 94.7",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "95.9 KCHA",
+            logo: "stations/images-america/mason_city/95.9 KCHA.png",
+            url: "https://ice23.securenetsystems.net/KCHA"
+        },
+        {
+            name: "96.7 KRIB",
+            logo: "stations/images-america/mason_city/KRIB.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kribamaac-ibc4"
+        },
+        {
+            name: "KCMR 97.9",
+            logo: "stations/images-america/mason_city/KCMR 97.9.png",
+            url: "https://stream.iknow.technology/proxy/kcmr?mp=/stream2"
+        },
+        {
+            name: "98.7 KISS Country",
+            logo: "stations/images-america/mason_city/98.7 KISS Country.png",
+            url: "https://ice8.securenetsystems.net/KSMA"
+        },
+        {
+            name: "US Country 99.9",
+            logo: "stations/images-america/mason_city/US Country 99.9.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kausfmaac-ibc2"
+        },
+        {
+            name: "Super Hits 102.7",
+            logo: "stations/images-america/mason_city/Super Hits 102.7.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kytcfmaac-ibc4"
+        },
+        {
+            name: "B103.1",
+            logo: "stations/images-america/mason_city/B103.1.png",
+            url: "https://ice41.securenetsystems.net/KHAM"
+        },
+        {
+            name: "103.7 The Fox",
+            logo: "stations/images-america/mason_city/103.7 The Fox.png",
+            url: "https://ice6.securenetsystems.net/KLKK"
+        },
+        {
+            name: "KLMJ 104.9",
+            logo: "stations/images-america/mason_city/KLMJ 104.9.png",
+            url: "https://crystalout.surfernetwork.com:8001/KLMJ-FM_MP3"
+        },
+        {
+            name: "Y105",
+            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
+        },
+        {
+            name: "Star 106.1",
+            logo: "stations/images-america/mason_city/Star 106.1.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klssfmaac-ibc4"
+        },
+        {
+            name: "106.9 KROC",
+            logo: "stations/images-america/c2c/rochester_mn/106.9 KROC.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krocfmaac-ibc3"
+        },
+        {
+            name: "Mix 107.3",
+            logo: "stations/images-america/mason_city/Mix 107.3.png",
+            url: "https://ice23.securenetsystems.net/KIOW"
+        },
+        {
+            name: "IPR News 640",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "Real Presence Radio 970",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
+        },
+        {
+            name: "IPR News 1010",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "http://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "AM 1300 KGLO",
+            logo: "stations/images-america/mason_city/AM 1300 KGLO.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgloamaac-ibc4"
+        },
+        {
+            name: "1490 KRIB",
+            logo: "stations/images-america/mason_city/KRIB.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kribamaac-ibc4"
         },
     ],
     "mcalester": [
@@ -39492,148 +39950,6 @@ var stations = {/*
             url: "https://ice24.securenetsystems.net/KCJJ"
         },
     ],
-    "cedar_rapids": [
-        {
-            name: "88.3 KCCK",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/88.3 KCCK.png",
-            url: "http://stream.kcck.org/jazz883kcck"
-        },
-        {
-            name: "Jazz 2 88.3-HD2",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Jazz 2 88.3-HD2.png",
-            url: "http://stream.kcck.org/kcckjazz2"
-        },
-        {
-            name: "IPR News 90.9",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
-        },
-        {
-            name: "IPR Classical 90.9-HD2",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
-        },
-        {
-            name: "K92.3",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/K92.3.png",
-            url: "https://live.amperwave.net/manifest/townsquare-koelfmaac-ibc3"
-        },
-        {
-            name: "KMRY 93.1",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/KMRY 93.1.png",
-            url: "https://crystalout.surfernetwork.com:8001/KMRY_MP3"
-        },
-        {
-            name: "94.1 KRNA",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/94.1 KRNA.png",
-            url: "https://live.amperwave.net/manifest/townsquare-krnafmaac-ibc3"
-        },
-        {
-            name: "95.1 Smart FM",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/95.1 Smart FM.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
-        },
-        {
-            name: "Sports Radio 95.7",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Sports Radio 95.7.png",
-            url: "https://stream.revma.ihrhls.com/zc2732/hls.m3u8"
-        },
-        {
-            name: "96.5 Kiss Country",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/96.5 Kiss Country.png",
-            url: "https://stream.revma.ihrhls.com/zc3647/hls.m3u8"
-        },
-        {
-            name: "98.1 KHAK",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/98.1 KHAK.png",
-            url: "https://live.amperwave.net/manifest/townsquare-khakfmaac-ibc3"
-        },
-        {
-            name: "Q98.5",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Q98.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kkhqfmaac-ibc3"
-        },
-        {
-            name: "100.7 The Fox",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/100.7 The Fox.png",
-            url: "https://stream.revma.ihrhls.com/zc2812/hls.m3u8"
-        },
-        {
-            name: "Life 101.9",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Life 101.9.png",
-            url: "https://nwmedia-knwsfm.streamguys1.com/knws-fm"
-        },
-        {
-            name: "ESPN 102.3",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/ESPN Cedar Rapids.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
-        },
-        {
-            name: "Z102.9",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Z102.9.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kziafmaac-ibc2"
-        },
-        {
-            name: "102.9 KZIA-HD2",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/95.1 Smart FM.png",
-            url: "http://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
-        },
-        {
-            name: "102.9 KZIA-HD3",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/ESPN Cedar Rapids.png",
-            url: "https:///live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
-        },
-        {
-            name: "102.9 KZIA-HD4",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/X107.5.png",
-            url: "http://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
-        },
-        {
-            name: "104.5 KDAT",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/104.5 KDAT.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kdatfmaac-ibc3"
-        },
-        {
-            name: "105.7 KOKZ",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/105.7 KOKZ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOKZFMAAC_SC"
-        },
-        {
-            name: "El Gallo 107.1",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/El Gallo 107.1.png",
-            url: "https://securenetg.com/listen/wlel/radio.aac"
-        },
-        {
-            name: "X107.5",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/X107.5.png",
-            url: "https://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
-        },
-        {
-            name: "Rock 108",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/Rock 108.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFMWFMAAC_SC"
-        },
-        {
-            name: "600 WMT",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/600 WMT.png",
-            url: "https://stream.revma.ihrhls.com/zc917/hls.m3u8"
-        },
-        {
-            name: "800 KXIC",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/800 KXIC.png",
-            url: "https://stream.revma.ihrhls.com/zc5262/hls.m3u8"
-        },
-        {
-            name: "LEO 1360",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/LEO 1360.png",
-            url: "https://stream.revma.ihrhls.com/zc4744/hls.m3u8"
-        },
-        {
-            name: "1600 ESPN",
-            logo: "stations/images-america/c2c/cedar_rapids_ia/ESPN Cedar Rapids.png",
-            url: "http://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
-        },
-    ],
     "liberal_ks": [
         {
             name: "92.3 K222DM",
@@ -42041,128 +42357,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wjfkamaac-imc"
         },
     ],
-    "mason_city_ia": [
-        {
-            name: "afr Hybrid 88.5",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
-        },
-        {
-            name: "IPR Classical 90.7",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
-        },
-        {
-            name: "IPR Studio One 91.5",
-            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
-            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
-        },
-        {
-            name: "Kinship Christian Radio 92.5",
-            logo: "stations/images-america/c2c/mason_city_ia/Kinship Christian Radio 92.5.png",
-            url: "http://quarrel.str3am.com:7780/stream"
-        },
-        {
-            name: "93.9 The Country Moose",
-            logo: "stations/images-america/c2c/mason_city_ia/93.9 The Country Moose.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kiaifmaac-ibc4"
-        },
-        {
-            name: "95.9 KCHA",
-            logo: "stations/images-america/c2c/mason_city_ia/95.9 KCHA.png",
-            url: "https://ice23.securenetsystems.net/KCHA"
-        },
-        {
-            name: "96.7 KRIB",
-            logo: "stations/images-america/c2c/mason_city_ia/KRIB.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kribamaac-ibc4"
-        },
-        {
-            name: "KCMR 97.9",
-            logo: "stations/images-america/c2c/mason_city_ia/KCMR 97.9.png",
-            url: "https://stream.iknow.technology/proxy/kcmr?mp=/stream2"
-        },
-        {
-            name: "98.7 KISS Country",
-            logo: "stations/images-america/c2c/mason_city_ia/98.7 KISS Country.png",
-            url: "https://ice8.securenetsystems.net/KSMA"
-        },
-        {
-            name: "US Country 99.9",
-            logo: "stations/images-america/c2c/mason_city_ia/US Country 99.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kausfmaac-ibc2"
-        },
-        {
-            name: "Super Hits 102.7",
-            logo: "stations/images-america/c2c/mason_city_ia/Super Hits 102.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kytcfmaac-ibc4"
-        },
-        {
-            name: "103.7 The Fox",
-            logo: "stations/images-america/c2c/mason_city_ia/103.7 The Fox.png",
-            url: "https://ice6.securenetsystems.net/KLKK"
-        },
-        {
-            name: "KLMJ 104.9",
-            logo: "stations/images-america/c2c/mason_city_ia/KLMJ 104.9.png",
-            url: "https://crystalout.surfernetwork.com:8001/KLMJ-FM_MP3"
-        },
-        {
-            name: "Y105",
-            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
-        },
-        {
-            name: "Star 106.1",
-            logo: "stations/images-america/c2c/mason_city_ia/Star 106.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klssfmaac-ibc4"
-        },
-        {
-            name: "106.9 KROC",
-            logo: "stations/images-america/c2c/rochester_mn/106.9 KROC.png",
-            url: "https://live.amperwave.net/manifest/townsquare-krocfmaac-ibc3"
-        },
-        {
-            name: "Mix 107.3",
-            logo: "stations/images-america/c2c/mason_city_ia/Mix 107.3.png",
-            url: "https://ice23.securenetsystems.net/KIOW"
-        },
-        {
-            name: "IPR News 640",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
-        },
-        {
-            name: "Real Presence Radio 970",
-            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
-            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
-        },
-        {
-            name: "IPR News 1010",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "http://news-stream.iowapublicradio.org/News.mp3"
-        },
-        {
-            name: "1040 WHO",
-            logo: "stations/images-america/des_moines/1040 WHO.png",
-            url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
-        },
-        {
-            name: "AM 1300 KGLO",
-            logo: "stations/images-america/c2c/mason_city_ia/AM 1300 KGLO.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgloamaac-ibc4"
-        },
-        {
-            name: "KATE 1450",
-            logo: "stations/images-america/c2c/mason_city_ia/KATE 1450.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kateamaac-ibc2"
-        },
-        {
-            name: "1490 KRIB",
-            logo: "stations/images-america/c2c/mason_city_ia/KRIB.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kribamaac-ibc4"
-        },
-    ],
     "boston": [
         {
             name: "WMBR 88.1",
@@ -43742,7 +43936,7 @@ var stations = {/*
         },
         {
             name: "Kinship Christian Radio 88.9",
-            logo: "stations/images-america/c2c/mason_city_ia/Kinship Christian Radio 92.5.png",
+            logo: "stations/images-america/0_general_logos/Kinship Christian Radio.png",
             url: "http://quarrel.str3am.com:7780/stream"
         },
         {

@@ -269,6 +269,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.6
     },
+    "burlington_ia": {
+        name: "Burlington",
+        name_english: "Burlington",
+        code: "us-ia",
+        relative_radius: 0.6
+    },
     "burns": {
         name: "Burns",
         name_english: "Burns",
@@ -327,6 +333,12 @@ var country_properties = {
         name: "Cedar City",
         name_english: "Cedar City",
         code: "us-ut",
+        relative_radius: 0.8
+    },
+    "cedar_rapids": {
+        name: "Cedar Rapids",
+        name_english: "Cedar Rapids",
+        code: "us-ia",
         relative_radius: 0.8
     },
     "chadron": {
@@ -671,6 +683,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.6
     },
+    "fort_dodge": {
+        name: "Fort Dodge",
+        name_english: "Fort Dodge",
+        code: "us-ia",
+        relative_radius: 0.6
+    },
     "fort_smith": {
         name: "Fort Smith",
         name_english: "Fort Smith",
@@ -946,6 +964,12 @@ var country_properties = {
         name_english: "Indio",
         code: "us-ca",
         relative_radius: 0.5
+    },
+    "iowa_city": {
+        name: "Iowa City",
+        name_english: "Iowa City",
+        code: "us-ia",
+        relative_radius: 0.8
     },
     "jackson": {
         name: "Jackson",
@@ -1282,6 +1306,12 @@ var country_properties = {
         name_english: "Marysville",
         code: "us-ks",
         relative_radius: 0.4
+    },
+    "mason_city": {
+        name: "Mason City",
+        name_english: "Mason City",
+        code: "us-ia",
+        relative_radius: 0.7
     },
     "mcallen_brownsville": {
         name: "Rio Grande Valley",
@@ -2384,6 +2414,9 @@ var city_properties = {
     "burlington": {
         relative_whitenoise: 0.95
     },
+    "burlington_ia": {
+        relative_whitenoise: 0.95
+    },
     "burns": {
         relative_whitenoise: 0.85
     },
@@ -2421,6 +2454,9 @@ var city_properties = {
     "cedar_city": {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
+    },
+    "cedar_rapids": {
+        relative_whitenoise: 0.95
     },
     "chadron": {
         relative_whitenoise: 0.95
@@ -2614,6 +2650,9 @@ var city_properties = {
     "fort_collins": {
         relative_whitenoise: 0.85
     },
+    "fort_dodge": {
+        relative_whitenoise: 0.95
+    },
     "fort_smith": {
         relative_whitenoise: 0.95
     },
@@ -2759,6 +2798,10 @@ var city_properties = {
     },
     "indio": {
         relative_whitenoise: 0.85
+    },
+    "iowa_city": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "jackson": {
         relative_whitenoise: 0.85
@@ -2944,6 +2987,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "marysville": {
+        relative_whitenoise: 0.95
+    },
+    "mason_city": {
         relative_whitenoise: 0.95
     },
     "mcalester": {
@@ -3904,6 +3950,14 @@ var cities = [
         "z": "-2904.98"
     },
     {
+        "gameName": "burlington_ia",
+        "realName": "Burlington",
+        "country": "burlington_ia",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "burns",
         "realName": "Burns",
         "country": "burns",
@@ -4006,6 +4060,14 @@ var cities = [
         "x": "-74187.1",
         "y": "124.221",
         "z": "-2143.96"
+    },
+    {
+        "gameName": "cedar_rapids",
+        "realName": "Cedar Rapids",
+        "country": "cedar_rapids",
+        "x": "18196.8",
+        "y": "126.424",
+        "z": "-15914.7"
     },
     {
         "gameName": "chadron",
@@ -4520,6 +4582,14 @@ var cities = [
         "z": "-11147.9"
     },
     {
+        "gameName": "fort_dodge",
+        "realName": "Fort Dodge",
+        "country": "fort_dodge",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "fort_smith",
         "realName": "Fort Smith",
         "country": "fort_smith",
@@ -4958,6 +5028,14 @@ var cities = [
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
+    },
+    {
+        "gameName": "iowa_city",
+        "realName": "Iowa City",
+        "country": "cedar_rapids",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "jackson",
@@ -5430,6 +5508,14 @@ var cities = [
         "x": "-2604.68",
         "y": "95.457",
         "z": "-4706.35"
+    },
+    {
+        "gameName": "mason_city",
+        "realName": "Mason City",
+        "country": "mason_city",
+        "x": "11131.4",
+        "y": "106.082",
+        "z": "-24374.2"
     },
     {
         "gameName": "mcalester",
@@ -9321,12 +9407,6 @@ var country_properties_c2c = {
         code: "us-ia",
         relative_radius: 0.7
     },
-    "cedar_rapids": {
-        name: "Cedar Rapids",
-        name_english: "Cedar Rapids",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
     "greatbend_ks": {
         name: "Great Bend",
         name_english: "Great Bend",
@@ -9469,12 +9549,6 @@ var country_properties_c2c = {
         name: "washington_dc",
         name_english: "washington_dc",
         code: "us-md",
-        relative_radius: 0.7
-    },
-    "mason_city_ia": {
-        name: "Mason City",
-        name_english: "Mason City",
-        code: "us-ia",
         relative_radius: 0.7
     },
     "boston": {
@@ -10334,9 +10408,6 @@ var city_properties_c2c = {
     "davenport": {
         relative_whitenoise: 0.85
     },
-    "cedar_rapids": {
-        relative_whitenoise: 0.85
-    },
     "greatbend_ks": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.95
@@ -10403,9 +10474,6 @@ var city_properties_c2c = {
     "washington_dc": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.85
-    },
-    "mason_city_ia": {
-        relative_whitenoise: 0.95
     },
     "boston": {
         relative_whitenoise: 0.85
@@ -11165,14 +11233,6 @@ var cities_c2c = [
         "z": "-15390.4"
     },
     {
-        "gameName": "cedar_rapids",
-        "realName": "Cedar Rapids",
-        "country": "cedar_rapids",
-        "x": "18196.8",
-        "y": "126.424",
-        "z": "-15914.7"
-    },
-    {
         "gameName": "greatbend_ks",
         "realName": "Great Bend",
         "country": "hays",
@@ -11363,14 +11423,6 @@ var cities_c2c = [
         "x": "82526",
         "y": "130.223",
         "z": "-8588.73"
-    },
-    {
-        "gameName": "mason_city_ia",
-        "realName": "Mason City",
-        "country": "mason_city_ia",
-        "x": "11131.4",
-        "y": "106.082",
-        "z": "-24374.2"
     },
     {
         "gameName": "boston",
