@@ -4221,7 +4221,7 @@ var stations = {/*
         {
             name: "IPR News 910",
             logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
+            url: "http://news-stream.iowapublicradio.org/News.mp3"
         },
         {
             name: "Faith 1090",
@@ -7432,8 +7432,8 @@ var stations = {/*
         },
         {
             name: "540 KWMT",
-            logo: "stations/images-america/des_moines/540 KWMT.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+            logo: "stations/images-america/fort_dodge/540 KWMT.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
         },
         {
             name: "IPR News 640",
@@ -16934,8 +16934,8 @@ var stations = {/*
         },
         {
             name: "IPR News 91.5",
-            logo: "stations/images-america/c2c/traversecity_mi/IPR.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM_SC"
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
         },
         {
             name: "Kinship Christian Radio 92.5",
@@ -25932,7 +25932,7 @@ var stations = {/*
         {
             name: "KSCJ 94.9",
             logo: "stations/images-america/sioux_city/KSCJ 94.9.png",
-            url: "https://live.amperwave.net/manifest/powell-kscjamaac-ibc2"
+            url: "http://live.amperwave.net/manifest/powell-kscjamaac-ibc2"
         },
         {
             name: "KG95",
@@ -26020,7 +26020,7 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7282_48k.aac"
         },
         {
-            name: "KZOI 1250",
+            name: "Fiesta 1250",
             logo: "stations/images-america/sioux_city/Fiesta 97.1.png",
             url: "http:///198.23.61.215:8007/stream"
         },

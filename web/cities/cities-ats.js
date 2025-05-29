@@ -3948,7 +3948,7 @@ var cities = [
         "x": "-28855.2",
         "y": "145.367",
         "z": "-2904.98"
-    },
+    },/*
     {
         "gameName": "burlington_ia",
         "realName": "Burlington",
@@ -3956,7 +3956,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "burns",
         "realName": "Burns",
@@ -4580,7 +4580,7 @@ var cities = [
         "x": "-39016.8",
         "y": "125.043",
         "z": "-11147.9"
-    },
+    },/*
     {
         "gameName": "fort_dodge",
         "realName": "Fort Dodge",
@@ -4588,7 +4588,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "fort_smith",
         "realName": "Fort Smith",
@@ -5028,7 +5028,7 @@ var cities = [
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
-    },
+    },/*
     {
         "gameName": "iowa_city",
         "realName": "Iowa City",
@@ -5036,7 +5036,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "jackson",
         "realName": "Jackson",
