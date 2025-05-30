@@ -3471,7 +3471,7 @@ var stations = {/*
         },
         {
             name: "Moody Radio 90.7",
-            logo: "stations/images-america/c2c/davenport_ia/Moody Radio 89.3.png",
+            logo: "stations/images-america/davenport/Moody Radio 89.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC_SC"
         },
         {
@@ -6607,6 +6607,188 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
         },
     ],
+    "davenport": [
+        {
+            name: "afr Talk 88.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "KALA 88.5",
+            logo: "stations/images-america/davenport/KALA 88.5.png",
+            url: "http://kala.streamguys1.com/live1"
+        },
+        {
+            name: "KALA 88.5-HD2",
+            logo: "stations/images-america/davenport/KALA 88.5-HD2.png",
+            url: "http://kala.streamguys1.com/live2"
+        },
+        {
+            name: "The Stinger 88.5-HD3",
+            logo: "stations/images-america/davenport/The Stinger 88.5-HD3.png",
+            url: "http://kala.streamguys1.com/live3"
+        },
+        {
+            name: "Moody Radio 89.3",
+            logo: "stations/images-america/davenport/Moody Radio 89.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC_SC"
+        },
+        {
+            name: "WVIK 90.3",
+            logo: "stations/images-america/davenport/WVIK.png",
+            url: "https://wvik.streamguys1.com/live.mp3"
+        },
+        {
+            name: "WVIK 90.3-HD2",
+            logo: "stations/images-america/davenport/WVIK.png",
+            url: "https://wvik.streamguys1.com/hd2.mp3"
+        },
+        {
+            name: "IPR Studio One 91.1",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
+            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
+        },
+        {
+            name: "IPR Classical 91.7",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
+        },
+        {
+            name: "MC93",
+            logo: "stations/images-america/davenport/MC93.png",
+            url: "https://ice7.securenetsystems.net/KMCS"
+        },
+        {
+            name: "I-Rock 93.5",
+            logo: "stations/images-america/davenport/I-Rock 93.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kjocfmaac-ibc3"
+        },
+        {
+            name: "Planet 93.9",
+            logo: "stations/images-america/davenport/Planet 93.9.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KQCJ"
+        },
+        {
+            name: "IPR News 94.5",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "Mix 96",
+            logo: "stations/images-america/davenport/Mix 96.png",
+            url: "https://stream.revma.ihrhls.com/zc3658/hls.m3u8"
+        },
+        {
+            name: "97X",
+            logo: "stations/images-america/davenport/97X.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wxlpfmaac-ibc3"
+        },
+        {
+            name: "Air1 97.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 98.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "B100",
+            logo: "stations/images-america/davenport/B100.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kbeafmaac-ibc3"
+        },
+        {
+            name: "101.3 KISS FM",
+            logo: "stations/images-america/davenport/101.3 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc3662/hls.m3u8"
+        },
+        {
+            name: "Relevant Radio 103.1",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "103.7 WLLR",
+            logo: "stations/images-america/davenport/103.7 WLLR.png",
+            url: "https://stream.revma.ihrhls.com/zc2893/hls.m3u8"
+        },
+        {
+            name: "ALT 104.5",
+            logo: "stations/images-america/davenport/ALT 104.5.png",
+            url: "https://stream.revma.ihrhls.com/zc6959/hls.m3u8"
+        },
+        {
+            name: "US 104.9",
+            logo: "stations/images-america/davenport/US 104.9.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kiikfmaac-ibc3"
+        },
+        {
+            name: "105.7 K289BI",
+            logo: "stations/images-america/davenport/WVIK.png",
+            url: "http://wvik.streamguys1.com/live.mp3"
+        },
+        {
+            name: "KALA 106.1",
+            logo: "stations/images-america/davenport/KALA 88.5-HD2.png",
+            url: "https://kala.streamguys1.com/live2"
+        },
+        {
+            name: "BIG 106.5",
+            logo: "stations/images-america/davenport/BIG 106.5.png",
+            url: "https://stream.revma.ihrhls.com/zc3107/hls.m3u8"
+        },
+        {
+            name: "Radio By Grace 107.1",
+            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
+            url: "https://stream.freedomradiofm.com/kbzd.aac"
+        },
+        {
+            name: "Vintage Radio 107.7",
+            logo: "stations/images-america/davenport/Vintage Radio 107.7.png",
+            url: "https://ice23.securenetsystems.net/WQUD"
+        },
+        {
+            name: "3ABN 107.9",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "KWPC 860",
+            logo: "stations/images-america/davenport/KWPC 860.png",
+            url: "https://ice8.securenetsystems.net/KWPC"
+        },
+        {
+            name: "Moody Radio 960",
+            logo: "stations/images-america/davenport/Moody Radio 89.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC.aac"
+        },
+        {
+            name: "FOX Sports 1230",
+            logo: "stations/images-america/davenport/FOX Sports 1230.png",
+            url: "https://stream.revma.ihrhls.com/zc5261/hls.m3u8"
+        },
+        {
+            name: "KROS 1340",
+            logo: "stations/images-america/davenport/KROS 1340.png",
+            url: "http://uk22freenew.listen2myradio.com:8709/;"
+        },
+        {
+            name: "KCLN 1390",
+            logo: "stations/images-america/davenport/KCLN 1390.png",
+            url: "https://ice64.securenetsystems.net/KCLNAM"
+        },
+        {
+            name: "WOC 1420",
+            logo: "stations/images-america/davenport/WOC 1420.png",
+            url: "https://stream.revma.ihrhls.com/zc2889/hls.m3u8"
+        },
+        {
+            name: "NOAA Weather Radio Davenport",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/28956"
+        },
+    ],
     "del_rio": [
         {
             name: "88.5 KVFE",
@@ -7633,6 +7815,98 @@ var stations = {/*
             name: "1370 KGNO",
             logo: "stations/images-america/dodge_garden_city/1370 KGNO.png",
             url: "https://ice42.securenetsystems.net/KGNO"
+        },
+    ],
+    "dubuque": [
+        {
+            name: "afr Hybrid 88.5",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+        },
+        {
+            name: "IPR News 89.7",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "92.9 KAT FM",
+            logo: "stations/images-america/dubuque/92.9 KAT FM.png",
+            url: "https://us9.maindigitalstream.com/ssl/katf"
+        },
+        {
+            name: "WVIK 95.9",
+            logo: "stations/images-america/davenport/WVIK.png",
+            url: "https://wvik.streamguys1.com/live.mp3"
+        },
+        {
+            name: "96.9 K245AZ",
+            logo: "stations/images-america/cedar_rapids/Life 101.9.png",
+            url: "https://nwmedia-knwsfm.streamguys1.com/knws-fm"
+        },
+        {
+            name: "97.3 The Rock",
+            logo: "stations/images-america/dubuque/97.3 The Rock.png",
+            url: "https://us9.maindigitalstream.com/ssl/kgrr"
+        },
+        {
+            name: "97-Seven Country WGLR",
+            logo: "stations/images-america/dubuque/97-Seven Country WGLR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLRFMAAC_SC"
+        },
+        {
+            name: "KCRD 98.3",
+            logo: "stations/images-america/dubuque/KCRD 98.3.png",
+            url: "https://stream.kcrd-fm.org:8000/kcrd"
+        },
+        {
+            name: "101.1 The River",
+            logo: "stations/images-america/dubuque/101.1 The River.png",
+            url: "https://us9.maindigitalstream.com/ssl/wvre"
+        },
+        {
+            name: "IPR Studio One 101.7",
+            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
+            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
+        },
+        {
+            name: "Eagle 102.3",
+            logo: "stations/images-america/dubuque/Eagle 102.3.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kxgefmaac-ibc3"
+        },
+        {
+            name: "103.3 WJOD",
+            logo: "stations/images-america/dubuque/103.3 WJOD.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wjodfmaac-ibc3"
+        },
+        {
+            name: "Y105",
+            logo: "stations/images-america/dubuque/Y105.png",
+            url: "https://live.amperwave.net/manifest/townsquare-klyvfmaac-ibc3"
+        },
+        {
+            name: "Super Hits 106.1",
+            logo: "stations/images-america/dubuque/Super Hits 106.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIYXFMAAC_SC"
+        },
+        {
+            name: "X107.1",
+            logo: "stations/images-america/dubuque/X107.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPVLFMAAC_SC"
+        },
+        {
+            name: "Q107.5",
+            logo: "stations/images-america/dubuque/Q107.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wdbqfmaac-ibc3"
+        },
+        {
+            name: "600 WMT",
+            logo: "stations/images-america/cedar_rapids/600 WMT.png",
+            url: "https://stream.revma.ihrhls.com/zc917/hls.m3u8"
+        },
+        {
+            name: "AM 1370 KDTH",
+            logo: "stations/images-america/dubuque/AM 1370 KDTH.png",
+            url: "https://us9.maindigitalstream.com/ssl/kdth"
         },
     ],
     "durango": [
@@ -39776,178 +40050,6 @@ var stations = {/*
             name: "105.5 The Legend",
             logo: "stations/images-america/c2c/terre_haute_in/105.5 The Legend.png",
             url: "https://live.amperwave.net/manifest/dlcmedia-wvigfmaac-ibc4"
-        },
-    ],
-    "davenport": [
-        {
-            name: "KALA 88.5",
-            logo: "stations/images-america/c2c/davenport_ia/KALA 88.5.png",
-            url: "http://kala.streamguys1.com/live1"
-        },
-        {
-            name: "KALA 88.5-HD2",
-            logo: "stations/images-america/c2c/davenport_ia/KALA 88.5-HD2.png",
-            url: "http://kala.streamguys1.com/live2"
-        },
-        {
-            name: "The Stinger 88.5-HD3",
-            logo: "stations/images-america/c2c/davenport_ia/The Stinger 88.5-HD3.png",
-            url: "http://kala.streamguys1.com/live3"
-        },
-        {
-            name: "Moody Radio 89.3",
-            logo: "stations/images-america/c2c/davenport_ia/Moody Radio 89.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC_SC"
-        },
-        {
-            name: "WVIK 90.3",
-            logo: "stations/images-america/c2c/davenport_ia/WVIK 90.3.png",
-            url: "https://wvik.streamguys1.com/live.mp3"
-        },
-        {
-            name: "WVIK 90.3-HD2",
-            logo: "stations/images-america/c2c/davenport_ia/WVIK 90.3.png",
-            url: "https://wvik.streamguys1.com/hd2.mp3"
-        },
-        {
-            name: "IPR Studio One 91.1",
-            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
-            url: "https://studioone-stream.iowapublicradio.org/StudioOne.mp3"
-        },
-        {
-            name: "IPR Classical 91.7",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
-        },
-        {
-            name: "MC93",
-            logo: "stations/images-america/c2c/davenport_ia/MC93.png",
-            url: "https://ice7.securenetsystems.net/KMCS"
-        },
-        {
-            name: "I-Rock 93.5",
-            logo: "stations/images-america/c2c/davenport_ia/I-Rock 93.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kjocfmaac-ibc3"
-        },
-        {
-            name: "Planet 93.9",
-            logo: "stations/images-america/c2c/davenport_ia/Planet 93.9.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KQCJ"
-        },
-        {
-            name: "IPR Studio One 94.5",
-            logo: "stations/images-america/0_general_logos/IPR Studio One.png",
-            url: "http://studioone-stream.iowapublicradio.org/StudioOne.mp3"
-        },
-        {
-            name: "Relevant Radio 95.3",
-            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
-        },
-        {
-            name: "Mix 96",
-            logo: "stations/images-america/c2c/davenport_ia/Mix 96.png",
-            url: "https://stream.revma.ihrhls.com/zc3658/hls.m3u8"
-        },
-        {
-            name: "97X",
-            logo: "stations/images-america/c2c/davenport_ia/97X.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wxlpfmaac-ibc3"
-        },
-        {
-            name: "Air1 97.5",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "K-LOVE 98.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "B100",
-            logo: "stations/images-america/c2c/davenport_ia/B100.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kbeafmaac-ibc3"
-        },
-        {
-            name: "101.3 KISS FM",
-            logo: "stations/images-america/c2c/davenport_ia/101.3 KISS FM.png",
-            url: "https://stream.revma.ihrhls.com/zc3662/hls.m3u8"
-        },
-        {
-            name: "103.7 WLLR",
-            logo: "stations/images-america/c2c/davenport_ia/103.7 WLLR.png",
-            url: "https://stream.revma.ihrhls.com/zc2893/hls.m3u8"
-        },
-        {
-            name: "103.7 WLLR-HD2",
-            logo: "stations/images-america/c2c/davenport_ia/ALT 104.5.png",
-            url: "http://stream.revma.ihrhls.com/zc6959/hls.m3u8"
-        },
-        {
-            name: "ALT 104.5",
-            logo: "stations/images-america/c2c/davenport_ia/ALT 104.5.png",
-            url: "https://stream.revma.ihrhls.com/zc6959/hls.m3u8"
-        },
-        {
-            name: "US 104.9",
-            logo: "stations/images-america/c2c/davenport_ia/US 104.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kiikfmaac-ibc3"
-        },
-        {
-            name: "105.7 K289BI",
-            logo: "stations/images-america/c2c/davenport_ia/WVIK 90.3.png",
-            url: "http://wvik.streamguys1.com/live.mp3"
-        },
-        {
-            name: "KALA 106.1",
-            logo: "stations/images-america/c2c/davenport_ia/KALA 88.5-HD2.png",
-            url: "https://kala.streamguys1.com/live2"
-        },
-        {
-            name: "BIG 106.5",
-            logo: "stations/images-america/c2c/davenport_ia/BIG 106.5.png",
-            url: "https://stream.revma.ihrhls.com/zc3107/hls.m3u8"
-        },
-        {
-            name: "Vintage Radio 107.7",
-            logo: "stations/images-america/c2c/davenport_ia/Vintage Radio 107.7.png",
-            url: "https://ice23.securenetsystems.net/WQUD"
-        },
-        {
-            name: "3ABN 107.9",
-            logo: "stations/images-america/0_general_logos/3ABN.png",
-            url: "http://war.str3am.com:7180/live"
-        },
-        {
-            name: "KWPC 860",
-            logo: "stations/images-america/c2c/davenport_ia/KWPC 860.png",
-            url: "https://ice8.securenetsystems.net/KWPC"
-        },
-        {
-            name: "Moody Radio 960",
-            logo: "stations/images-america/c2c/davenport_ia/Moody Radio 89.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDLMFMAAC.aac"
-        },
-        {
-            name: "FOX Sports 1230",
-            logo: "stations/images-america/c2c/davenport_ia/FOX Sports 1230.png",
-            url: "https://stream.revma.ihrhls.com/zc5261/hls.m3u8"
-        },
-        {
-            name: "KCLN 1390",
-            logo: "stations/images-america/c2c/davenport_ia/KCLN 1390.png",
-            url: "https://ice64.securenetsystems.net/KCLNAM"
-        },
-        {
-            name: "WOC 1420",
-            logo: "stations/images-america/c2c/davenport_ia/WOC 1420.png",
-            url: "https://stream.revma.ihrhls.com/zc2889/hls.m3u8"
-        },
-        {
-            name: "The Mighty 1630",
-            logo: "stations/images-america/c2c/davenport_ia/The Mighty 1630.png",
-            url: "https://ice24.securenetsystems.net/KCJJ"
         },
     ],
     "liberal_ks": [

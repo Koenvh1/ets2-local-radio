@@ -491,6 +491,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.5
     },
+    "davenport": {
+        name: "Davenport",
+        name_english: "Davenport",
+        code: "us-ia",
+        relative_radius: 0.7
+    },
     "delta": {
         name: "Delta",
         name_english: "Delta",
@@ -555,6 +561,12 @@ var country_properties = {
         name: "Dodge City/Garden City",
         name_english: "Dodge City/Garden City",
         code: "us-ks",
+        relative_radius: 0.7
+    },
+    "dubuque": {
+        name: "Dubuque",
+        name_english: "Dubuque",
+        code: "us-ia",
         relative_radius: 0.7
     },
     "durango": {
@@ -2535,6 +2547,9 @@ var city_properties = {
     "dateland": {
         relative_whitenoise: 0.85
     },
+    "davenport": {
+        relative_whitenoise: 0.85
+    },
     "del_rio": {
         relative_whitenoise: 0.95
     },
@@ -2564,6 +2579,9 @@ var city_properties = {
     },
     "dodge_city": {
         relative_radius: 0.9,
+        relative_whitenoise: 0.95
+    },
+    "dubuque": {
         relative_whitenoise: 0.95
     },
     "durango": {
@@ -4286,6 +4304,14 @@ var cities = [
         "z": "28604.3"
     },
     {
+        "gameName": "davenport",
+        "realName": "Davenport",
+        "country": "davenport",
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-15390.4"
+    },
+    {
         "gameName": "del_rio",
         "realName": "Del Rio",
         "country": "del_rio",
@@ -4364,7 +4390,15 @@ var cities = [
         "x": "-17483.2",
         "y": "90.8164",
         "z": "6177.79"
-    },
+    },/*
+    {
+        "gameName": "dubuque",
+        "realName": "Dubuque",
+        "country": "dubuque",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "durango",
         "realName": "Durango",
@@ -9401,12 +9435,6 @@ var country_properties_c2c = {
         code: "us-in",
         relative_radius: 0.7
     },
-    "davenport": {
-        name: "Davenport",
-        name_english: "Davenport",
-        code: "us-ia",
-        relative_radius: 0.7
-    },
     "greatbend_ks": {
         name: "Great Bend",
         name_english: "Great Bend",
@@ -10405,9 +10433,6 @@ var city_properties_c2c = {
     "terre_haute": {
         relative_whitenoise: 0.85
     },
-    "davenport": {
-        relative_whitenoise: 0.85
-    },
     "greatbend_ks": {
 		relative_radius: 0.7,
         relative_whitenoise: 0.95
@@ -11223,14 +11248,6 @@ var cities_c2c = [
         "x": "35385.1",
         "y": "40.6383",
         "z": "-3420.99"
-    },
-    {
-        "gameName": "davenport",
-        "realName": "Davenport",
-        "country": "davenport",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-15390.4"
     },
     {
         "gameName": "greatbend_ks",
