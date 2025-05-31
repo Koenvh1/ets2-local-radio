@@ -4327,14 +4327,6 @@ var cities = [
         "z": "16010.5"
     },
     {
-        "gameName": "cushing",
-        "realName": "Cushing",
-        "country": "tulsa",
-        "x": "-3995.68",
-        "y": "54.5565",
-        "z": "16010.5"
-    },
-    {
         "gameName": "dallas_fort_worth",
         "realName": "Dallas/Fort Worth",
         "country": "dallas_fort_worth",
