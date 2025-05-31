@@ -497,6 +497,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.7
     },
+    "decatur_city": {
+        name: "Decatur City",
+        name_english: "Decatur City",
+        code: "us-ia",
+        relative_radius: 0.5
+    },
     "delta": {
         name: "Delta",
         name_english: "Delta",
@@ -1841,6 +1847,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.7
     },
+    "sheldon": {
+        name: "Sheldon",
+        name_english: "Sheldon",
+        code: "us-ia",
+        relative_radius: 0.5
+    },
     "sheridan": {
         name: "Sheridan",
         name_english: "Sheridan",
@@ -1984,6 +1996,12 @@ var country_properties = {
         name_english: "South Utah",
         code: "us-ut",
         relative_radius: 0.4
+    },
+    "spencer": {
+        name: "Spencer",
+        name_english: "Spencer",
+        code: "us-ia",
+        relative_radius: 0.6
     },
     "spokane": {
         name: "Spokane",
@@ -2548,7 +2566,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "davenport": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
+    },
+    "decatur_city": {
+        relative_whitenoise: 0.95
     },
     "del_rio": {
         relative_whitenoise: 0.95
@@ -3290,6 +3311,9 @@ var city_properties = {
     "shelby": {
         relative_whitenoise: 0.85
     },
+    "sheldon": {
+        relative_whitenoise: 0.95
+    },
     "sheridan": {
         relative_whitenoise: 0.85
     },
@@ -3367,6 +3391,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "south_utah": {
+        relative_whitenoise: 0.95
+    },
+    "spencer": {
         relative_whitenoise: 0.95
     },
     "spokane": {
@@ -4310,6 +4337,22 @@ var cities = [
         "x": "22909.3",
         "y": "88.9163",
         "z": "-15390.4"
+    },/*
+    {
+        "gameName": "decatur_city",
+        "realName": "Decatur City",
+        "country": "decatur_city",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
+    {
+        "gameName": "deepwater",
+        "realName": "Deepwater",
+        "country": "deepwater",
+        "x": "10305.1",
+        "y": "34.3728",
+        "z": "4579.84"
     },
     {
         "gameName": "del_rio",
@@ -4342,14 +4385,6 @@ var cities = [
         "x": "-38561.4",
         "y": "138.176",
         "z": "-5191.34"
-    },
-    {
-        "gameName": "deepwater",
-        "realName": "Deepwater",
-        "country": "deepwater",
-        "x": "10305.1",
-        "y": "34.3728",
-        "z": "4579.84"
     },
     {
         "gameName": "de_queen",
@@ -6470,7 +6505,15 @@ var cities = [
         "x": "-59648.5",
         "y": "114.752",
         "z": "-61213.5"
-    },
+    },/*
+    {
+        "gameName": "sheldon",
+        "realName": "Sheldon",
+        "country": "sheldon",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "sheridan",
         "realName": "Sheridan",
@@ -6526,7 +6569,15 @@ var cities = [
         "x": "-58701.8",
         "y": "128.301",
         "z": "1743"
-    },
+    },/*
+    {
+        "gameName": "spencer",
+        "realName": "Spencer",
+        "country": "spencer",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "spokane",
         "realName": "Spokane",
