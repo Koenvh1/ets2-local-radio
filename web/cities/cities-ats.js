@@ -357,7 +357,7 @@ var country_properties = {
         name: "Childress",
         name_english: "Childress",
         code: "us-tx",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "chillicothe": {
         name: "Chillicothe",
@@ -387,7 +387,7 @@ var country_properties = {
         name: "Clinton",
         name_english: "Clinton",
         code: "us-ok",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "clovis": {
         name: "Clovis",
@@ -1839,7 +1839,7 @@ var country_properties = {
         name: "Shamrock",
         name_english: "Shamrock",
         code: "us-tx",
-        relative_radius: 0.5
+        relative_radius: 1.0
     },
     "shelby": {
         name: "Shelby",
@@ -2495,6 +2495,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "childress": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "chillicothe": {
@@ -2510,6 +2511,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "clinton": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "clovis": {
@@ -3306,6 +3308,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "shamrock": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "shelby": {
@@ -4139,6 +4142,14 @@ var cities = [
         "z": "24984"
     },
     {
+        "gameName": "childress",
+        "realName": "Childress",
+        "country": "granite",
+        "x": "-19420.1",
+        "y": "122.629",
+        "z": "24984"
+    },
+    {
         "gameName": "chillicothe",
         "realName": "Chillicothe",
         "country": "chillicothe",
@@ -4182,6 +4193,14 @@ var cities = [
         "gameName": "clinton",
         "realName": "Clinton",
         "country": "clinton",
+        "x": "-15042.5",
+        "y": "184.33",
+        "z": "19340"
+    },
+    {
+        "gameName": "clinton",
+        "realName": "Clinton",
+        "country": "granite",
         "x": "-15042.5",
         "y": "184.33",
         "z": "19340"
@@ -6494,6 +6513,14 @@ var cities = [
         "gameName": "shamrock",
         "realName": "Shamrock",
         "country": "shamrock",
+        "x": "-20004.5",
+        "y": "55.0555",
+        "z": "20673.4"
+    },
+    {
+        "gameName": "shamrock",
+        "realName": "Shamrock",
+        "country": "granite",
         "x": "-20004.5",
         "y": "55.0555",
         "z": "20673.4"
