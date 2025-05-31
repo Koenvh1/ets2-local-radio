@@ -471,7 +471,7 @@ var country_properties = {
         name: "Cushing",
         name_english: "Cushing",
         code: "us-ok",
-        relative_radius: 0.4
+        relative_radius: 0.9
     },
     "dallas_fort_worth": {
         name: "Dallas/Fort Worth",
@@ -2555,6 +2555,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cushing": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "dallas_fort_worth": {
@@ -4313,6 +4314,22 @@ var cities = [
         "gameName": "cushing",
         "realName": "Cushing",
         "country": "cushing",
+        "x": "-3995.68",
+        "y": "54.5565",
+        "z": "16010.5"
+    },
+    {
+        "gameName": "cushing",
+        "realName": "Cushing",
+        "country": "oklahoma_city",
+        "x": "-3995.68",
+        "y": "54.5565",
+        "z": "16010.5"
+    },
+    {
+        "gameName": "cushing",
+        "realName": "Cushing",
+        "country": "tulsa",
         "x": "-3995.68",
         "y": "54.5565",
         "z": "16010.5"
