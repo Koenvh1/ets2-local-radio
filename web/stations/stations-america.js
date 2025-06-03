@@ -16500,6 +16500,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
         },
         {
+            name: "106.3 The Fizz",
+            logo: "stations/images-america/los_angeles/106.3 The Fizz.png",
+            url: "https://rudex.streamguys1.com/live1"
+        },
+        {
             name: "Radio VNCR 106.3",
             logo: "stations/images-america/los_angeles/Radio VNCR 106.3.png",
             url: "https://ice5.securenetsystems.net/KALI"
@@ -23674,11 +23679,6 @@ var stations = {/*
             url: "http://ice7.securenetsystems.net/KSOPFM"
         },
         {
-            name: "Classic Country 104.3-HD2",
-            logo: "stations/images-america/salt_lake/Classic Country 104.3-HD2.png",
-            url: "http://ice8.securenetsystems.net/KSOPAM"
-        },
-        {
             name: "104.7 Mi Preferida",
             logo: "stations/images-america/salt_lake/104.7 Mi Preferida.png",
             url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/KNIV"
@@ -25311,11 +25311,6 @@ var stations = {/*
             url: "http://108.178.13.122:8315/stream"
         },	
         {
-            name: "Texas Thunder Radio 94.3",
-            logo: "stations/images-america/schulenburg/Texas Thunder Radio 94.3.png",
-            url: "https://ice5.securenetsystems.net/KYKM"
-        },
-        {
             name: "Air1 97.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -25324,11 +25319,6 @@ var stations = {/*
             name: "KULM 98.3",
             logo: "stations/images-america/schulenburg/KULM 98.3.png",
             url: "http://184.154.43.106:8404/stream"
-        },
-        {
-            name: "Texas Thunder Radio 99.9",
-            logo: "stations/images-america/schulenburg/Texas Thunder Radio 99.9.png",
-            url: "https://ice5.securenetsystems.net/KTXM"
         },
         {
             name: "KBUK 104.9",
@@ -41091,17 +41081,17 @@ var stations = {/*
         {
             name: "LA 103.5",
             logo: "stations/images-america/c2c/alexandria_la/LA 103.5.png",
-            url: "https://ice5.securenetsystems.net/KLAA"
+            url: "https://stream.aiir.com/by6zccomhrntv"
         },
         {
-            name: "105.5 K-Buck",
-            logo: "stations/images-america/c2c/alexandria_la/105.5 K-Buck.png",
-            url: "https://ice5.securenetsystems.net/KBKK"
+            name: "105.5 The Fox",
+            logo: "stations/images-america/c2c/alexandria_la/105.5 The Fox.png",
+            url: "https://stream.aiir.com/u6pwedoukqztv"
         },
         {
             name: "Sunny 106.9",
             logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9.png",
-            url: "https://ice5.securenetsystems.net/KEDG"
+            url: "https://stream.aiir.com/lr724f6o5v7vv"
         },
     ],
     "baton_rouge": [
