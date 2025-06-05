@@ -8370,11 +8370,6 @@ var stations = {/*
             logo: "stations/images-america/mexico/mexicali/La Rocola 990.png",
             url: "https://stream.zeno.fm/25a0y7s5dkhvv"
         },
-        {
-            name: "KLPZ 1380",
-            logo: "stations/images-america/kingman/KLPZ 1380.png",
-            url: "https://s5.voscast.com:7837/stream"
-        },
     ],
     "el_dorado": [
         {
@@ -14517,11 +14512,6 @@ var stations = {/*
             name: "980 KNTR",
             logo: "stations/images-america/kingman/980 KNTR.png",
             url: "https://streaming.live365.com/a84890"
-        },
-        {
-            name: "KLPZ 1380",
-            logo: "stations/images-america/kingman/KLPZ 1380.png",
-            url: "https://s5.voscast.com:7837/stream"
         },
     ],
     "kirksville": [
