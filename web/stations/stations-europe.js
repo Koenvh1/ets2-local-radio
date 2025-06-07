@@ -478,6 +478,23 @@ var stations = {/*
             url: "https://stream.xxxlutz-dasradio.at/live/mp3-192/"
         },
     ],
+    "azerbaijan": [
+        {
+            name: "Azərbaycan Radiosu",
+            logo: "stations/images-europe/azerbaijan/Azərbaycan Radiosu.png",
+            url: "https://str2.yodacdn.net/radio_respublica/index.m3u8"
+        },
+        {
+            name: "ARAZ FM",
+            logo: "stations/images-europe/azerbaijan/ARAZ FM.png",
+            url: "https://s14.myradiostream.com/:30454/listen.mp3"
+        },
+        {
+            name: "Media FM",
+            logo: "stations/images-europe/azerbaijan/Media FM.png",
+            url: "https://icecast.livetv.az/mediafm"
+        },
+    ],
     "basque": [
         {
             name: "Radio Euskadi",
