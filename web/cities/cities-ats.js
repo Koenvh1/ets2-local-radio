@@ -341,6 +341,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
+    "cedar_valley": {
+        name: "Cedar Valley",
+        name_english: "Cedar Valley",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
     "chadron": {
         name: "Chadron",
         name_english: "Chadron",
@@ -495,7 +501,7 @@ var country_properties = {
         name: "Davenport",
         name_english: "Davenport",
         code: "us-ia",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "decatur_city": {
         name: "Decatur City",
@@ -573,7 +579,7 @@ var country_properties = {
         name: "Dubuque",
         name_english: "Dubuque",
         code: "us-ia",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "durango": {
         name: "Durango",
@@ -1637,6 +1643,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.8
     },
+    "postville": {
+        name: "Postville",
+        name_english: "Postville",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
     "price": {
         name: "Price",
         name_english: "Price",
@@ -1660,6 +1672,12 @@ var country_properties = {
         name_english: "Princeton",
         code: "us-mo",
         relative_radius: 0.5
+    },
+    "quad_cities_ia": {
+        name: "Quad Cities",
+        name_english: "Quad Cities",
+        code: "us-ia",
+        relative_radius: 0.8
     },
     "quemado": {
         name: "Quemado",
@@ -2213,6 +2231,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.7
     },
+    "waterloo": {
+        name: "Waterloo",
+        name_english: "Waterloo",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
     "wenatchee": {
         name: "Wenatchee",
         name_english: "Wenatchee",
@@ -2446,6 +2470,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "burlington_ia": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "burns": {
@@ -2487,6 +2512,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.95
+    },
+    "cedar_valley": {
         relative_whitenoise: 0.95
     },
     "chadron": {
@@ -2570,6 +2599,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "davenport": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "decatur_city": {
@@ -2607,6 +2637,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "dubuque": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "durango": {
@@ -3200,6 +3231,10 @@ var city_properties = {
     "portland": {
         relative_whitenoise: 0.85
     },
+    "postville": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
     "price": {
         relative_whitenoise: 0.85
     },
@@ -3213,6 +3248,9 @@ var city_properties = {
     },
     "princeton": {
 		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "quad_cities_ia": {
         relative_whitenoise: 0.95
     },
     "quemado": {
@@ -3521,6 +3559,10 @@ var city_properties = {
     "wallace": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
+    },
+    "waterloo": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
     },
     "wenatchee": {
         relative_whitenoise: 0.85
@@ -4014,6 +4056,14 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
+    },
+    {
+        "gameName": "burlington_ia",
+        "realName": "Burlington",
+        "country": "quad_cities_ia",
+        "x": "",
+        "y": "",
+        "z": ""
     },*/
     {
         "gameName": "burns",
@@ -4122,11 +4172,35 @@ var cities = [
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
+        "country": "cedar_valley",
+        "x": "18196.8",
+        "y": "126.424",
+        "z": "-15914.7"
+    },
+    {
+        "gameName": "cedar_rapids",
+        "realName": "Cedar Rapids",
         "country": "cedar_rapids",
         "x": "18196.8",
         "y": "126.424",
         "z": "-15914.7"
     },
+    {
+        "gameName": "cedar_rapids",
+        "realName": "Cedar Rapids",
+        "country": "quad_cities_ia",
+        "x": "18196.8",
+        "y": "126.424",
+        "z": "-15914.7"
+    },/*
+    {
+        "gameName": "cedar_valley",
+        "realName": "Cedar Valley",
+        "country": "cedar_valley",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "chadron",
         "realName": "Chadron",
@@ -4374,6 +4448,22 @@ var cities = [
         "x": "22909.3",
         "y": "88.9163",
         "z": "-15390.4"
+    },
+    {
+        "gameName": "davenport",
+        "realName": "Davenport",
+        "country": "cedar_valley",
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-15390.4"
+    },
+    {
+        "gameName": "davenport",
+        "realName": "Davenport",
+        "country": "quad_cities_ia",
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-15390.4"
     },/*
     {
         "gameName": "decatur_city",
@@ -4462,15 +4552,31 @@ var cities = [
         "x": "-17483.2",
         "y": "90.8164",
         "z": "6177.79"
-    },/*
+    },
     {
         "gameName": "dubuque",
         "realName": "Dubuque",
         "country": "dubuque",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-20390.4"
+    },
+    {
+        "gameName": "dubuque",
+        "realName": "Dubuque",
+        "country": "cedar_valley",
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-20390.4"
+    },
+    {
+        "gameName": "dubuque",
+        "realName": "Dubuque",
+        "country": "quad_cities_ia",
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-20390.4"
+    },
     {
         "gameName": "durango",
         "realName": "Durango",
@@ -5138,7 +5244,23 @@ var cities = [
     {
         "gameName": "iowa_city",
         "realName": "Iowa City",
+        "country": "cedar_valley",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
+        "gameName": "iowa_city",
+        "realName": "Iowa City",
         "country": "cedar_rapids",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
+        "gameName": "iowa_city",
+        "realName": "Iowa City",
+        "country": "quad_cities_ia",
         "x": "",
         "y": "",
         "z": ""
@@ -6086,7 +6208,23 @@ var cities = [
         "x": "-104350",
         "y": "96.7465",
         "z": "-51491.9"
+    },/*
+    {
+        "gameName": "postville",
+        "realName": "Postville",
+        "country": "cedar_valley",
+        "x": "",
+        "y": "",
+        "z": ""
     },
+    {
+        "gameName": "postville",
+        "realName": "Postville",
+        "country": "postville",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "price",
         "realName": "Price",
@@ -6126,6 +6264,14 @@ var cities = [
         "x": "12466.2",
         "y": "16.5166",
         "z": "-8722.28"
+    },
+    {
+        "gameName": "quad_cities_ia",
+        "realName": "Quad Cities",
+        "country": "quad_cities_ia",
+        "x": "22909.3",
+        "y": "88.9163",
+        "z": "-15390.4"
     },
     {
         "gameName": "quemado",
@@ -6614,15 +6760,15 @@ var cities = [
         "x": "-58701.8",
         "y": "128.301",
         "z": "1743"
-    },/*
+    },
     {
         "gameName": "spencer",
         "realName": "Spencer",
         "country": "spencer",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "5676.06",
+        "y": "111.75",
+        "z": "-19592.4"
+    },
     {
         "gameName": "spokane",
         "realName": "Spokane",
@@ -6990,6 +7136,22 @@ var cities = [
         "x": "-73500.3",
         "y": "85.5161",
         "z": "-53897.9"
+    },
+    {
+        "gameName": "waterloo",
+        "realName": "Waterloo",
+        "country": "waterloo",
+        "x": "18096.8",
+        "y": "126.424",
+        "z": "-18914.7"
+    },
+    {
+        "gameName": "waterloo",
+        "realName": "Waterloo",
+        "country": "cedar_valley",
+        "x": "18096.8",
+        "y": "126.424",
+        "z": "-18914.7"
     },
     {
         "gameName": "wenatchee",
