@@ -9294,6 +9294,65 @@ var cities_pm270 = [
     }
 ];
 
+var cities_pm274 = [
+    {
+        "gameName": "zaqatala",
+        "realName": "Zaqatala",
+        "country": "azerbaijan",
+        "x": "149494.844",
+        "y": "0",
+        "z": "22304.0117"
+    },
+    {
+        "gameName": "mingacevir",
+        "realName": "Mingaçevir",
+        "country": "azerbaijan",
+        "x": "154838.031",
+        "y": "0",
+        "z": "24203.9961"
+    },
+    {
+        "gameName": "yevlax",
+        "realName": "Yevlax",
+        "country": "azerbaijan",
+        "x": "156679.453",
+        "y": "0",
+        "z": "25179.89"
+    },
+    {
+        "gameName": "kurdamir",
+        "realName": "Kürdamir",
+        "country": "azerbaijan",
+        "x": "159999.531",
+        "y": "0",
+        "z": "25120.6289"
+    },
+    {
+        "gameName": "haciqabul",
+        "realName": "Hacıqabul",
+        "country": "azerbaijan",
+        "x": "163063.219",
+        "y": "0",
+        "z": "25154.9629"
+    },
+    {
+        "gameName": "alat",
+        "realName": "Alat",
+        "country": "azerbaijan",
+        "x": "165524.031",
+        "y": "0",
+        "z": "25435.2422"
+    },
+    {
+        "gameName": "vanadzor",
+        "realName": "Vanadzor",
+        "country": "armenia",
+        "x": "143732.234",
+        "y": "0",
+        "z": "29728.8184"
+    }
+];
+
 var cities_pm_me = [
     {
         "gameName": "afula",
@@ -14795,6 +14854,7 @@ cities = cities.concat(cities_pm250); //ProMods 2.50 cities
 cities = cities.concat(cities_pm260); //ProMods 2.60 cities
 cities = cities.concat(cities_pm265); //ProMods 2.65 cities
 cities = cities.concat(cities_pm270); //ProMods 2.70 cities
+cities = cities.concat(cities_pm274); //ProMods 2.74 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
