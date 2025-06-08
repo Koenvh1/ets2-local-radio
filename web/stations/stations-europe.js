@@ -1997,6 +1997,11 @@ var stations = {/*
             url: "http://media.autorouteinfo.fr:8000/direct_nord.mp3"
         },
         {
+            name: "Beur FM",
+            logo: "stations/images-europe/france/Beur FM.png",
+            url: "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3"
+        },
+        {
             name: "BFM Radio",
             logo: "stations/images-europe/france/BFM Radio.png",
             url: "https://audio.bfmtv.com/bfmradio_128.mp3"
@@ -5515,14 +5520,24 @@ var stations = {/*
     ],
     "monaco": [
         {
-            name: "Radio Monaco",
-            logo: "stations/images-europe/monaco/Radio Monaco.png",
-            url: "https://radiomonaco.ice.infomaniak.ch/radiomonaco-96.aac"
+            name: "Hits 1",
+            logo: "stations/images-europe/monaco/Hits 1.png",
+            url: "https://hits1-audiomediaradio.radioca.st/hits1"
         },
         {
             name: "Le Figaro Radio",
             logo: "stations/images-europe/monaco/Le Figaro Radio.png",
             url: "https://stream.rcs.revma.com/hbm385tup42vv"
+        },
+        {
+            name: "medi1",
+            logo: "stations/images-europe/monaco/medi1.png",
+            url: "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8"
+        },
+        {
+            name: "Radio Monaco",
+            logo: "stations/images-europe/monaco/Radio Monaco.png",
+            url: "https://radiomonaco.ice.infomaniak.ch/radiomonaco-96.aac"
         },
         {
             name: "Radio Ethic",

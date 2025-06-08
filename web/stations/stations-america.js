@@ -3364,12 +3364,12 @@ var stations = {/*
             name: "Aggie 96.1",
             logo: "stations/images-america/college_station/Aggie 96.1.png",
             url: "https://stream.revma.ihrhls.com/zc2209/hls.m3u8"
-        },/*
+        },
         {
-            name: "98.3 KYYK",
-            logo: "stations/images-america/buffalo/98.3 KYYK.png",
-            url: "https://live.amperwave.net/direct/youreasttexas-kyykfmaac-ibc1"
-        },*/
+            name: "KYYK 98.3",
+            logo: "stations/images-america/buffalo/KYYK 98.3.png",
+            url: "https://ice41.securenetsystems.net/KYYK"
+        },
         {
             name: "KNES 99.1",
             logo: "stations/images-america/buffalo/KNES 99.1.png",
