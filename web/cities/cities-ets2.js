@@ -9342,6 +9342,14 @@ var cities_pm274 = [
         "x": "165524.031",
         "y": "0",
         "z": "25435.2422"
+    },
+    {
+        "gameName": "vanadzor",
+        "realName": "Vanadzor",
+        "country": "armenia",
+        "x": "143732.234",
+        "y": "0",
+        "z": "29728.8184"
     }
 ];
 
