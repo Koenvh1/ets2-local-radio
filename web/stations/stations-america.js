@@ -35948,6 +35948,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wmxjfmaac-imc"
         },
         {
+            name: "103.1 The Word",
+            logo: "stations/images-america/c2c/miami_fl/The Word.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WWFEAMAAC_SC"
+        },
+        {
             name: "103.5 The Beat",
             logo: "stations/images-america/c2c/miami_fl/103.5 The Beat.png",
             url: "https://stream.revma.ihrhls.com/zc581/hls.m3u8"
@@ -36013,8 +36018,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc569/hls.m3u8"
         },
         {
-            name: "La Poderosa 670",
-            logo: "stations/images-america/c2c/miami_fl/La Poderosa 670.png",
+            name: "670 The Word",
+            logo: "stations/images-america/c2c/miami_fl/The Word.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWFEAMAAC_SC"
         },
         {
@@ -36031,6 +36036,11 @@ var stations = {/*
             name: "940 WINZ",
             logo: "stations/images-america/c2c/miami_fl/940 WINZ.png",
             url: "https://stream.revma.ihrhls.com/zc565/hls.m3u8"
+        },
+        {
+            name: "La Poderosa 990",
+            logo: "stations/images-america/c2c/miami_fl/La Poderosa 990.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYMAMAAC_SC"
         },
         {
             name: "Oasis 1210",
