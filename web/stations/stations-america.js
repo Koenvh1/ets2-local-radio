@@ -22981,9 +22981,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNTYFMAAC_SC"
         },
         {
-            name: "103.9 The Fish",
-            logo: "stations/images-america/sacramento/103.9 The Fish.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKFSFMAAC_SC"
+            name: "K-LOVE 103.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "La Suavecita 104.3",
@@ -37601,9 +37601,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/atl1041/atl1041-sgplayer-aac"
         },
         {
-            name: "104.7 The Fish",
-            logo: "stations/images-america/c2c/atlanta_ga/104.7 The Fish.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFSHFMAAC_SC"
+            name: "Air1 104.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "Power 105.3",
@@ -37638,7 +37638,7 @@ var stations = {/*
         {
             name: "Air1 106.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "K-LOVE 2000s 106.7-HD3",
@@ -38489,9 +38489,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KGUAMAAC_SC"
         },
         {
-            name: "The Fish 95.5",
-            logo: "stations/images-america/c2c/honolulu_hi/The Fish 95.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KAIMFMAAC_SC"
+            name: "Air1 95.5",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "My 95.9",
@@ -38571,7 +38571,7 @@ var stations = {/*
         {
             name: "Air1 103.5-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "K-LOVE 90s 103.5-HD3",
@@ -38587,6 +38587,11 @@ var stations = {/*
             name: "Power 104.3",
             logo: "stations/images-america/c2c/honolulu_hi/Power 104.3.png",
             url: "https://stream.rcs.revma.com/9ruh3ut1t7uvv"
+        },
+        {
+            name: "Mega 104.7",
+            logo: "stations/images-america/c2c/honolulu_hi/Mega 104.7.png",
+            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a67821"
         },
         {
             name: "Hawaiian 105",
@@ -49454,11 +49459,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXMGFMAAC_SC"
         },
         {
-            name: "95.9 W240CX",
-            logo: "stations/images-america/c2c/columbus_oh/95.5 The Fish.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFHMFMAAC_SC"
-        },
-        {
             name: "Qfm 96",
             logo: "stations/images-america/c2c/columbus_oh/Qfm 96.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wlvqfmaac-ibc2"
@@ -53911,9 +53911,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGFXFMAAC_SC"
         },
         {
-            name: "104.9 The Fish",
-            logo: "stations/images-america/c2c/nashville_tn/104.9 The Fish.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WFFHFMAAC_SC"
+            name: "K-LOVE 104.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "Activa 105.1",
