@@ -885,11 +885,6 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
-            name: "Radio Vida 92.7",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
-        },
-        {
             name: "93.1 The Beat",
             logo: "stations/images-america/amarillo/93.1 The Beat.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQIZFMAAC_SC"
@@ -2644,11 +2639,6 @@ var stations = {/*
             name: "K-LOVE 97.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "Radio Vida 100.9",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "KBST 103.9",
@@ -5080,11 +5070,6 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7410_48k.aac"
         },
         {
-            name: "Radio Vida 98.9",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
-        },
-        {
             name: "99.5 The Fox",
             logo: "stations/images-america/college_station/99.5 The Fox.png",
             url: "https://stream.revma.ihrhls.com/zc2221/hls.m3u8"
@@ -6828,11 +6813,6 @@ var stations = {/*
             name: "afr Hybrid 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
             url: "https://mediaserver3.afa.net/inspo.mp4"
-        },
-        {
-            name: "Radio Vida 90.3",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },/*
         {
             name: "exa 91.5",
@@ -7391,11 +7371,6 @@ var stations = {/*
             name: "TALK 980",
             logo: "stations/images-america/kansas_city/TALK 980.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
-        },
-        {
-            name: "Radio Vida 1030",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
     ],
     "de_queen": [
@@ -8209,11 +8184,6 @@ var stations = {/*
             name: "89.5 KEPX",
             logo: "stations/images-america/eagle_pass/89.5 KEPX.png",
             url: "https://ais-sa15.cdnstream1.com/5023_64.aac"
-        },
-        {
-            name: "Radio Vida 90.3",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "Power 92.7",
@@ -14031,11 +14001,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
         },
         {
-            name: "Radio Vida 1030",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
-        },
-        {
             name: "KCXL 1140",
             logo: "stations/images-america/kansas_city/KCXL.png",
             url: "http://crystalout.surfernetwork.com:8001/KCXL_MP3"
@@ -14923,11 +14888,6 @@ var stations = {/*
             name: "Radio Poder 1300",
             logo: "stations/images-america/laredo/Radio Poder 1300.png",
             url: "https://s28.myradiostream.com/24678/listen.mp3"
-        },
-        {
-            name: "Radio Vida 1490",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
     ],
     "las_cruces": [
@@ -16636,11 +16596,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD3_SC"
         },
         {
-            name: "Radio Vida 89.7",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
-        },
-        {
             name: "Family Life Radio 90.1",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "https://icecast.streammyflr.org/FLRstream"
@@ -17648,11 +17603,6 @@ var stations = {/*
             name: "Radio Aleluya 840",
             logo: "stations/images-america/0_general_logos/Radio Aleluya.png",
             url: "https://radio.aleluya.cloud/radio/8030/radioaleluya840am"
-        },
-        {
-            name: "Radio Vida 1290",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },
         {
             name: "Puro Tejano 1530",
@@ -20343,11 +20293,6 @@ var stations = {/*
             url: "https://ice10.securenetsystems.net/KBJX"
         },
         {
-            name: "Radio Vida 105.5",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
-        },
-        {
             name: "La Poderosa 1570",
             logo: "stations/images-america/del_rio/La Poderosa 103.9.png",
             url: "https://s2.mexside.net/8064/stream"
@@ -22725,11 +22670,6 @@ var stations = {/*
             name: "Family Life Radio 99.3",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
             url: "https://icecast.streammyflr.org/FLRstream"
-        },
-        {
-            name: "Radio Vida 101.1",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://shout2.brnstream.com/proxy/krge1290am?mp=/stream"
         },/*
         {
             name: "100.5 KOOL FM",

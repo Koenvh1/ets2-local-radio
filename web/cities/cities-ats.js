@@ -1919,6 +1919,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.9
     },
+    "san_antonio_asuma": {
+        name: "San Antonio",
+        name_english: "San Antonio",
+        code: "us-tx",
+        relative_radius: 0.9
+    },
     "san_clemente": {
         name: "San Clemente",
         name_english: "San Clemente",
@@ -3389,6 +3395,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "san_antonio": {
+        relative_whitenoise: 0.95
+    },
+    "san_antonio_asuma": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "san_clemente": {
@@ -6536,6 +6546,14 @@ var cities = [
         "x": "-12756.9",
         "y": "60",
         "z": "54107.3"
+    },
+    {
+        "gameName": "san_antonio_asuma",
+        "realName": "San Antonio",
+        "country": "san_antonio",
+        "x": "-14236.6",
+        "y": "10.562",
+        "z": "58524.7"
     },
     {
         "gameName": "san_clemente",
