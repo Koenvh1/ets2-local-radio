@@ -1960,7 +1960,7 @@ var stations = {/*
         {
             name: "96.9 KHDR",
             logo: "stations/images-america/las_vegas/Highway Rock 99.7-HD3.png",
-            url: "https://a4.asurahosting.com:6570/radio.mp3"
+            url: "https://s6.autopo.st/proxy/ggjdvxin?mp=/stream"
         },
         {
             name: "ViBE 98.1",
@@ -15186,7 +15186,7 @@ var stations = {/*
         {
             name: "Highway Rock 99.7-HD3",
             logo: "stations/images-america/las_vegas/Highway Rock 99.7-HD3.png",
-            url: "https://a4.asurahosting.com:6570/radio.mp3"
+            url: "https://s6.autopo.st/proxy/ggjdvxin?mp=/stream"
         },
         {
             name: "Q100.5",
@@ -20358,8 +20358,8 @@ var stations = {/*
         },
         {
             name: "96 Country",
-            logo: "stations/images-america/palacios/96 Country.png",
-            url: "http://stream.radiojar.com/a7qkwytgqhuvv"
+            logo: "stations/images-america/victoria/96 Country.png",
+            url: "https://a5.asurahosting.com:7040/radio2.aac"
         },
         {
             name: "KXBJ 96.9",
@@ -20372,8 +20372,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTJMFMAAC_SC"
         },
         {
-            name: "102.5 K-Bay",
-            logo: "stations/images-america/victoria/102.5 K-BAY.png",
+            name: "102.5 Fresh Radio",
+            logo: "stations/images-america/victoria/102.5 Fresh Radio.png",
             url: "http://stream.radiojar.com/5f5pmekvqeuvv"
         },
         {
@@ -24004,8 +24004,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
         },
         {
-            name: "102.7 Jack FM",
-            logo: "stations/images-america/san_antonio/102.7 Jack FM.png",
+            name: "San Antonio's 102.7",
+            logo: "stations/images-america/san_antonio/San Antonio's 102.7.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kjxkfmaac-ibc4"
         },
         {
@@ -29745,6 +29745,11 @@ var stations = {/*
             url: "https://us2.streamingpulse.com/ssl/KHMC"
         },
         {
+            name: "96 Country",
+            logo: "stations/images-america/victoria/96 Country.png",
+            url: "https://a5.asurahosting.com:7040/radio2.aac"
+        },
+        {
             name: "98.7 Jack FM",
             logo: "stations/images-america/victoria/98.7 Jack FM.png",
             url: "https://live.amperwave.net/manifest/townsquare-ktxnfmaac-ibc3"
@@ -29755,8 +29760,8 @@ var stations = {/*
             url: "https://ice42.securenetsystems.net/KVLJ"
         },
         {
-            name: "102.5 K-Bay",
-            logo: "stations/images-america/victoria/102.5 K-BAY.png",
+            name: "102.5 Fresh Radio",
+            logo: "stations/images-america/victoria/102.5 Fresh Radio.png",
             url: "http://stream.radiojar.com/5f5pmekvqeuvv"
         },
         {
