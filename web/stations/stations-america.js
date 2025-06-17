@@ -12470,7 +12470,7 @@ var stations = {/*
         {
             name: "106.5 KOVE-HD4",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "The Eagle 107.5",
