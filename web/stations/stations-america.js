@@ -13801,11 +13801,6 @@ var stations = {/*
             url: "http://streaming.live365.com/a71179_2"
         },
         {
-            name: "Radio Vida 92.7",
-            logo: "stations/images-america/0_general_logos/Radio Vida.png",
-            url: "https://streams.radio.co/s22a35bf51/listen"
-        },
-        {
             name: "Catholic Radio 92.9",
             logo: "stations/images-america/0_general_logos/Catholic Radio Network.png",
             url: "https://ice23.securenetsystems.net/CRN1"
