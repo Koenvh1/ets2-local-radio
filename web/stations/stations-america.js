@@ -57074,8 +57074,8 @@ var stations = {/*
             url: "https://redirect.jpbgdigital.com/CHWK"
         },
         {
-            name: "SONiC 92.5",
-            logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
+            name: "KiSS Throwbacks 92.5",
+            logo: "stations/images-america/canada/vancouver/KiSS Throwbacks.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
@@ -59981,8 +59981,8 @@ var stations = {/*
             url: "http://192.99.6.159:3900/index.php?ats=https://newcap.leanstream.co/CHLGFM"
         },
         {
-            name: "SONiC 104.9",
-            logo: "stations/images-america/canada/vancouver/SONiC 104.9.png",
+            name: "KiSS Throwbacks 104.9",
+            logo: "stations/images-america/canada/vancouver/KiSS Throwbacks.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/van1049.stream/icy"
         },
         {
