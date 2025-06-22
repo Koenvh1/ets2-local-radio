@@ -1023,6 +1023,9 @@ var city_properties = {
     "dijon": {
         relative_radius: 1.1,
     },
+    "dikhan": {
+        relative_radius: 1.5,
+    },
     "dimona": {
         relative_radius: 2,
     },
@@ -1081,6 +1084,9 @@ var city_properties = {
     },
     "fishguard": {
         relative_radius: 0.6,
+    },
+    "fjang": {
+        relative_radius: 1.2,
     },
     "flensburg": {
         relative_radius: 0.5,
@@ -15062,6 +15068,14 @@ var cities_trans_siberian = [
 ];
 var cities_beyond = [
     {
+      "gameName": "abbbad",
+      "realName": "Abbottabad",
+      "country": "pakistan",
+      "x": "266257.5",
+      "y": "224.3945",
+      "z": "-16830.57"
+    },
+    {
       "gameName": "abdolhaqq",
       "realName": "'Abd ol Haqq",
       "country": "afghanistan",
@@ -15142,6 +15156,14 @@ var cities_beyond = [
       "z": "126265"
     },
     {
+      "gameName": "amol",
+      "realName": "Amol",
+      "country": "iran",
+      "x": "184253.9",
+      "y": "151",
+      "z": "36974.75"
+    },
+    {
       "gameName": "andkhoy",
       "realName": "Andkhoy",
       "country": "afghanistan",
@@ -15174,6 +15196,22 @@ var cities_beyond = [
       "z": "222563"
     },
     {
+      "gameName": "babol",
+      "realName": "Babol",
+      "country": "iran",
+      "x": "184928.6",
+      "y": "151.582",
+      "z": "36120.24"
+    },
+    {
+      "gameName": "bagnotar",
+      "realName": "Bagnotar",
+      "country": "pakistan",
+      "x": "269184.3",
+      "y": "271.793",
+      "z": "-15227.57"
+    },
+    {
       "gameName": "baherden",
       "realName": "Bäherden",
       "country": "turkmenistan",
@@ -15188,6 +15226,14 @@ var cities_beyond = [
       "x": "183997",
       "y": "140.133",
       "z": "17283.6"
+    },
+    {
+      "gameName": "barakahu",
+      "realName": "Barakahu",
+      "country": "pakistan",
+      "x": "273589.2",
+      "y": "256.9805",
+      "z": "-12786.4"
     },
     {
       "gameName": "baysun",
@@ -15228,6 +15274,14 @@ var cities_beyond = [
       "x": "94690.9",
       "y": "52.5625",
       "z": "215965"
+    },
+    {
+      "gameName": "chalus",
+      "realName": "Chalus",
+      "country": "iran",
+      "x": "180013.1",
+      "y": "95.41406",
+      "z": "37884.8"
     },
     {
       "gameName": "chaman",
@@ -15414,6 +15468,14 @@ var cities_beyond = [
       "z": "180104"
     },
     {
+      "gameName": "fjang",
+      "realName": "Fateh Jang",
+      "country": "pakistan",
+      "x": "271515.1",
+      "y": "248.668",
+      "z": "-5400.16"
+    },
+    {
       "gameName": "fotokol",
       "realName": "Fotokol",
       "country": "cameroon",
@@ -15540,6 +15602,14 @@ var cities_beyond = [
       "x": "353940",
       "y": "51",
       "z": "-245499"
+    },
+    {
+      "gameName": "islamabad",
+      "realName": "Islamabad",
+      "country": "pakistan",
+      "x": "271716.6",
+      "y": "248.5469",
+      "z": "-9842.945"
     },
     {
       "gameName": "jigarband",
@@ -15750,6 +15820,14 @@ var cities_beyond = [
       "z": "-31818.9"
     },
     {
+      "gameName": "murree",
+      "realName": "Murree",
+      "country": "pakistan",
+      "x": "273012.3",
+      "y": "294.1406",
+      "z": "-13275.93"
+    },
+    {
       "gameName": "musbagh",
       "realName": "Muslim Bagh",
       "country": "pakistan",
@@ -15780,6 +15858,14 @@ var cities_beyond = [
       "x": "345835",
       "y": "49.7109",
       "z": "-240230"
+    },
+    {
+      "gameName": "nanga",
+      "realName": "Nanga Parbat Base Camp",
+      "country": "pakistan",
+      "x": "272643.3",
+      "y": "593.4648",
+      "z": "-17664.69"
     },
     {
       "gameName": "ndjamena",
@@ -15894,6 +15980,14 @@ var cities_beyond = [
       "z": "210586"
     },
     {
+      "gameName": "rawalpindi",
+      "realName": "Rawalpindi",
+      "country": "pakistan",
+      "x": "274928",
+      "y": "252.1211",
+      "z": "-9189.668"
+    },
+    {
       "gameName": "rushon",
       "realName": "Рӯшон",
       "country": "tajikistan",
@@ -15932,6 +16026,14 @@ var cities_beyond = [
       "x": "245524",
       "y": "234.23",
       "z": "-23133.2"
+    },
+    {
+      "gameName": "sari",
+      "realName": "Sari",
+      "country": "iran",
+      "x": "187100.5",
+      "y": "154.8242",
+      "z": "34315.65"
     },
     {
       "gameName": "sarytash",
