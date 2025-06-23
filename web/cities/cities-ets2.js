@@ -9291,6 +9291,14 @@ var cities_pm270 = [
         "x": "16101.6846",
         "y": "52",
         "z": "27209.02"
+    },
+    {
+        "gameName": "prishtine",
+        "realName": "Prishtinë",
+        "country": "kosovo",
+        "x": "41761.44",
+        "y": "0",
+        "z": "42808.79"
     }
 ];
 
