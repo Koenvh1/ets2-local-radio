@@ -39025,7 +39025,7 @@ var stations = {/*
         },
         {
             name: "BIG 95.5-HD2",
-            logo: "stations/images-america/c2c/chicago_il/BIG 95.5-HD2",
+            logo: "stations/images-america/c2c/chicago_il/BIG 95.5-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc8731/hls.m3u8"
         },
         {
