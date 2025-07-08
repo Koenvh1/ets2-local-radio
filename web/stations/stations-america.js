@@ -18931,6 +18931,11 @@ var stations = {/*
             url: "https://stream.pacificaservice.org:9000/kyaq"
         },
         {
+            name: "FOX Sports 92.7",
+            logo: "stations/images-america/newport/FOX Sports 92.7.png",
+            url: "https://a3.asurahosting.com:6360/radio.mp3"
+        },
+        {
             name: "New Country 93",
             logo: "stations/images-america/eugene/New Country 93.png",
             url: "https://www.ophanim.net:8444/s/9170"
@@ -19527,6 +19532,11 @@ var stations = {/*
             name: "Mixx 96.1",
             logo: "stations/images-america/washington/Mixx 96.1.png",
             url: "https://ice10.securenetsystems.net/KXXO"
+        },
+        {
+            name: "K-LOVE 98.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "100.3 Olympia's Classic Rock",
@@ -38999,11 +39009,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
         },
         {
-            name: "The Breeze 93.9-HD2",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        {
             name: "Air1 94.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -39019,9 +39024,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc857/hls.m3u8"
         },
         {
-            name: "Smooth Jazz 95.5-HD2",
-            logo: "stations/images-america/0_general_logos/Smooth Jazz.png",
-            url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
+            name: "BIG 95.5-HD2",
+            logo: "stations/images-america/c2c/chicago_il/BIG 95.5-HD2",
+            url: "https://stream.revma.ihrhls.com/zc8731/hls.m3u8"
         },
         {
             name: "B96",
@@ -39059,9 +39064,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WSHEFMAAC_SC"
         },
         {
-            name: "Latter-day Saints Channel 100.3-HD2",
-            logo: "stations/images-america/0_general_logos/Latter-day Saints Channel.png",
-            url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
+            name: "100.3 WTBC-HD2",
+            logo: "stations/images-america/c2c/chicago_il/ESPN 1000.png",
+            url: "http://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
         },
         {
             name: "Q101",
@@ -39084,6 +39089,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc865/hls.m3u8"
         },
         {
+            name: "102.7 WVAZ-HD2",
+            logo: "stations/images-america/c2c/chicago_il/BIN 640.png",
+            url: "https://stream.revma.ihrhls.com/zc9553"
+        },
+        {
             name: "103.5 KISS FM",
             logo: "stations/images-america/c2c/chicago_il/103.5 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc849/hls.m3u8"
@@ -39097,6 +39107,11 @@ var stations = {/*
             name: "104.3 JAMS",
             logo: "stations/images-america/c2c/chicago_il/104.3 JAMS.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wbmxfmaac-imc"
+        },
+        {
+            name: "104.3 WBMX-HD2",
+            logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "Qué Buena 105.1",
