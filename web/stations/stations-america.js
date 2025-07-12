@@ -2001,17 +2001,17 @@ var stations = {/*
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
             url: "https://stream.revma.ihrhls.com/zc177/hls.m3u8"
-        },/*
+        },
         {
             name: "KMPS 910",
             logo: "stations/images-america/victorville/La X 103.1.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kxvvfmaac-ibc1?source=v7player"
+            url: "https://ais-sa1.streamon.fm/10288_96k.aac"
         },
         {
             name: "Talk 960",
             logo: "stations/images-america/victorville/Talk 960.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kixwamaac-ibc2?source=v7player"
-        },*/
+            url: "https://ais-sa1.streamon.fm/10287_96k.aac"
+        },
     ],
     "bartlett": [
         {
@@ -29820,37 +29820,37 @@ var stations = {/*
             name: "Fly Nation Radio 99.1-HD2",
             logo: "stations/images-america/riverside/Fly Nation Radio 99.1-HD2.png",
             url: "https://stream.revma.ihrhls.com/zc6732/hls.m3u8"
-        },/*
+        },
         {
             name: "Kat Country 100.7",
             logo: "stations/images-america/victorville/Kat Country 100.7.png",
-            url: "https://live.amperwave.net/manifest/eldorado-katjfmaac-ibc2?source=v7player"
+            url: "https://ais-sa1.streamon.fm/10285_96k.aac"
         },
         {
             name: "Y102",
             logo: "stations/images-america/victorville/Y102.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kzxyfmaac-ibc2?source=v7player"
+            url: "https://ais-sa1.streamon.fm/10284_96k.aac"
         },
         {
             name: "La X 103.1",
             logo: "stations/images-america/victorville/La X 103.1.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kxvvfmaac-ibc1?source=v7player"
-        },*/
+            url: "https://ais-sa1.streamon.fm/10288_96k.aac"
+        },
         {
             name: "Qué Buena 106.1",
             logo: "stations/images-america/victorville/Qué Buena 106.1.png",
             url: "http://peridot.streamguys.com:5140/live3"
-        },/*
+        },
         {
             name: "106.5 The Fox",
             logo: "stations/images-america/victorville/106.5 The Fox.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kixafmaac-ibc2?source=v7player"
+            url: "https://ais-sa1.streamon.fm/10286_96k.aac"
         },
         {
             name: "Talk 960",
             logo: "stations/images-america/victorville/Talk 960.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kixwamaac-ibc2?source=v7player"
-        },*/
+            url: "https://ais-sa1.streamon.fm/10287_96k.aac"
+        },
     ],
     "waco": [
         {

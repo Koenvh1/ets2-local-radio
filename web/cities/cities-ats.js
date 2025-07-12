@@ -4058,23 +4058,23 @@ var cities = [
         "x": "-28855.2",
         "y": "145.367",
         "z": "-2904.98"
-    },/*
+    },
     {
         "gameName": "burlington_ia",
         "realName": "Burlington",
         "country": "burlington_ia",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "20294",
+        "y": "74.0664",
+        "z": "-10562.7"
     },
     {
         "gameName": "burlington_ia",
         "realName": "Burlington",
         "country": "quad_cities_ia",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "20294",
+        "y": "74.0664",
+        "z": "-10562.7"
+    },
     {
         "gameName": "burns",
         "realName": "Burns",
@@ -4183,34 +4183,34 @@ var cities = [
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
         "country": "cedar_valley",
-        "x": "18196.8",
-        "y": "126.424",
-        "z": "-15914.7"
+        "x": "17420.8",
+        "y": "61.1797",
+        "z": "-17590.5"
     },
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
         "country": "cedar_rapids",
-        "x": "18196.8",
-        "y": "126.424",
-        "z": "-15914.7"
+        "x": "17420.8",
+        "y": "61.1797",
+        "z": "-17590.5"
     },
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
         "country": "quad_cities_ia",
-        "x": "18196.8",
-        "y": "126.424",
-        "z": "-15914.7"
-    },/*
+        "x": "17420.8",
+        "y": "61.1797",
+        "z": "-17590.5"
+    },
     {
         "gameName": "cedar_valley",
         "realName": "Cedar Valley",
         "country": "cedar_valley",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "17420.8",
+        "y": "61.1797",
+        "z": "-17590.5"
+    },
     {
         "gameName": "chadron",
         "realName": "Chadron",
@@ -4455,34 +4455,34 @@ var cities = [
         "gameName": "davenport",
         "realName": "Davenport",
         "country": "davenport",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-15390.4"
+        "x": "21654.2",
+        "y": "81.375",
+        "z": "-15124.5"
     },
     {
         "gameName": "davenport",
         "realName": "Davenport",
         "country": "cedar_valley",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-15390.4"
+        "x": "21654.2",
+        "y": "81.375",
+        "z": "-15124.5"
     },
     {
         "gameName": "davenport",
         "realName": "Davenport",
         "country": "quad_cities_ia",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-15390.4"
-    },/*
+        "x": "21654.2",
+        "y": "81.375",
+        "z": "-15124.5"
+    },
     {
         "gameName": "decatur_city",
         "realName": "Decatur City",
         "country": "decatur_city",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "9784.86",
+        "y": "35.2187",
+        "z": "-10392.2"
+    },
     {
         "gameName": "deepwater",
         "realName": "Deepwater",
@@ -4535,9 +4535,9 @@ var cities = [
         "gameName": "des_moines",
         "realName": "Des Moines",
         "country": "des_moines",
-        "x": "10449.6",
-        "y": "280.758",
-        "z": "-15398.4"
+        "x": "9582.62",
+        "y": "100",
+        "z": "-14038.5"
     },
     {
         "gameName": "diablo",
@@ -4567,25 +4567,25 @@ var cities = [
         "gameName": "dubuque",
         "realName": "Dubuque",
         "country": "dubuque",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-20390.4"
+        "x": "21512.5",
+        "y": "76.7422",
+        "z": "-20596.2"
     },
     {
         "gameName": "dubuque",
         "realName": "Dubuque",
         "country": "cedar_valley",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-20390.4"
+        "x": "21512.5",
+        "y": "76.7422",
+        "z": "-20596.2"
     },
     {
         "gameName": "dubuque",
         "realName": "Dubuque",
         "country": "quad_cities_ia",
-        "x": "22909.3",
-        "y": "88.9163",
-        "z": "-20390.4"
+        "x": "21512.5",
+        "y": "76.7422",
+        "z": "-20596.2"
     },
     {
         "gameName": "durango",
@@ -4802,15 +4802,15 @@ var cities = [
         "x": "-39016.8",
         "y": "125.043",
         "z": "-11147.9"
-    },/*
+    },
     {
         "gameName": "fort_dodge",
         "realName": "Fort Dodge",
         "country": "fort_dodge",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "8216",
+        "y": "85.4961",
+        "z": "-21030.2"
+    },
     {
         "gameName": "fort_smith",
         "realName": "Fort Smith",
@@ -5250,31 +5250,31 @@ var cities = [
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
-    },/*
+    },
     {
         "gameName": "iowa_city",
         "realName": "Iowa City",
         "country": "cedar_valley",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "18144.1",
+        "y": "75",
+        "z": "-14833.6"
     },
     {
         "gameName": "iowa_city",
         "realName": "Iowa City",
         "country": "cedar_rapids",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "18144.1",
+        "y": "75",
+        "z": "-14833.6"
     },
     {
         "gameName": "iowa_city",
         "realName": "Iowa City",
         "country": "quad_cities_ia",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "18144.1",
+        "y": "75",
+        "z": "-14833.6"
+    },
     {
         "gameName": "jackson",
         "realName": "Jackson",
@@ -5751,9 +5751,9 @@ var cities = [
         "gameName": "mason_city",
         "realName": "Mason City",
         "country": "mason_city",
-        "x": "11131.4",
-        "y": "106.082",
-        "z": "-24374.2"
+        "x": "11989.4",
+        "y": "88.0938",
+        "z": "-23640"
     },
     {
         "gameName": "mcalester",
@@ -6063,9 +6063,9 @@ var cities = [
         "gameName": "ottumwa",
         "realName": "Ottumwa",
         "country": "ottumwa",
-        "x": "16536.7",
-        "y": "135.653",
-        "z": "-11925.7"
+        "x": "15641",
+        "y": "69",
+        "z": "-11374"
     },
     {
         "gameName": "ouray",
@@ -6218,23 +6218,23 @@ var cities = [
         "x": "-104350",
         "y": "96.7465",
         "z": "-51491.9"
-    },/*
+    },
     {
         "gameName": "postville",
         "realName": "Postville",
         "country": "cedar_valley",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "18229.9",
+        "y": "29.8351",
+        "z": "-23460.5"
     },
     {
         "gameName": "postville",
         "realName": "Postville",
         "country": "postville",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "18229.9",
+        "y": "29.8351",
+        "z": "-23460.5"
+    },
     {
         "gameName": "price",
         "realName": "Price",
@@ -6714,15 +6714,15 @@ var cities = [
         "x": "-59648.5",
         "y": "114.752",
         "z": "-61213.5"
-    },/*
+    },
     {
         "gameName": "sheldon",
         "realName": "Sheldon",
         "country": "sheldon",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "799.534",
+        "y": "44.727",
+        "z": "-23803.5"
+    },
     {
         "gameName": "sheridan",
         "realName": "Sheridan",
@@ -6759,9 +6759,9 @@ var cities = [
         "gameName": "sioux_city",
         "realName": "Sioux City",
         "country": "sioux_city",
-        "x": "-676.06",
-        "y": "111.75",
-        "z": "-19592.4"
+        "x": "-1510.61",
+        "y": "68",
+        "z": "-19097.7"
     },
     {
         "gameName": "socorro",
@@ -6783,9 +6783,9 @@ var cities = [
         "gameName": "spencer",
         "realName": "Spencer",
         "country": "spencer",
-        "x": "5676.06",
-        "y": "111.75",
-        "z": "-19592.4"
+        "x": "3896.49",
+        "y": "33.4534",
+        "z": "-23655.2"
     },
     {
         "gameName": "spokane",
@@ -7159,17 +7159,17 @@ var cities = [
         "gameName": "waterloo",
         "realName": "Waterloo",
         "country": "waterloo",
-        "x": "18096.8",
-        "y": "126.424",
-        "z": "-18914.7"
+        "x": "14722",
+        "y": "68.5078",
+        "z": "-20366.8"
     },
     {
         "gameName": "waterloo",
         "realName": "Waterloo",
         "country": "cedar_valley",
-        "x": "18096.8",
-        "y": "126.424",
-        "z": "-18914.7"
+        "x": "14722",
+        "y": "68.5078",
+        "z": "-20366.8"
     },
     {
         "gameName": "wenatchee",
@@ -9949,7 +9949,7 @@ var country_properties_c2c = {
         name: "worthington_mn",
         name_english: "worthington_mn",
         code: "us-mn",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "mississippi": {
         name: "mississippi",
@@ -10381,7 +10381,7 @@ var country_properties_c2c = {
         name: "sioux_falls",
         name_english: "sioux_falls",
         code: "us-sd",
-        relative_radius: 1.0
+        relative_radius: 0.6
     },
     "tennessee": {
         name: "tennessee",
@@ -10816,7 +10816,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "worthington_mn": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "grenada_ms": {
         relative_whitenoise: 0.95
@@ -11011,7 +11011,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "sioux_falls": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "chattanooga": {
         relative_whitenoise: 0.85
