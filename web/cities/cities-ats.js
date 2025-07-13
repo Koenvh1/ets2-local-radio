@@ -273,7 +273,7 @@ var country_properties = {
         name: "Burlington",
         name_english: "Burlington",
         code: "us-ia",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "burns": {
         name: "Burns",
@@ -2522,6 +2522,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "cedar_valley": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "chadron": {
