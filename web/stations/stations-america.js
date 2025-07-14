@@ -18939,6 +18939,63 @@ var stations = {/*
             url: "http://streaming.rubinbroadcasting.com/ktox"
         },
     ],
+    "neodesha": [
+        {
+            name: "KPR 90.5",
+            logo: "stations/images-america/0_general_logos/KPR.png",
+            url: "https://streaming.kansaspublicradio.org:8001/kpr1"
+        },
+        {
+            name: "Bott Radio 91.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "94.9 myFM",
+            logo: "stations/images-america/neodesha/94.9 myFM.png",
+            url: "https://ice24.securenetsystems.net/KIND"
+        },
+        {
+            name: "95.3 BOB FM",
+            logo: "stations/images-america/neodesha/95.3 BOB FM.png",
+            url: "https://ice23.securenetsystems.net/KINZ"
+        },
+        {
+            name: "US 98",
+            logo: "stations/images-america/neodesha/US 98.png",
+            url: "https://crystalout.surfernetwork.com:8001/KUSN-FM_MP3"
+        },
+        {
+            name: "Thunder Country 102.9",
+            logo: "stations/images-america/neodesha/Thunder Country 102.9.png",
+            url: "https://ice23.securenetsystems.net/KBIK"
+        },
+        {
+            name: "KGGF 104.1",
+            logo: "stations/images-america/neodesha/KGGF 104.1.png",
+            url: "https://crystalout.surfernetwork.com:8001/KGGF-FM_MP3"
+        },
+        {
+            name: "HOT 105.5",
+            logo: "stations/images-america/neodesha/HOT 105.5.png",
+            url: "https://ice23.securenetsystems.net/KKOY"
+        },
+        {
+            name: "KGGF 690",
+            logo: "stations/images-america/tulsa/KGGF 690.png",
+            url: "https://crystalout.surfernetwork.com:8001/KGGF-AM_MP3"
+        },
+        {
+            name: "KKOW 860",
+            logo: "stations/images-america/joplin/KKOW.png",
+            url: "http://ice42.securenetsystems.net/KKOWAM"
+        },
+        {
+            name: "1170 News On 6 Now",
+            logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+        },
+    ],
     "newport": [
         {
             name: "All Classical Radio 88.1",

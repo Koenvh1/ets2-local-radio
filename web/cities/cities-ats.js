@@ -1457,6 +1457,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.7
     },
+    "neodesha": {
+        name: "Neodesha",
+        name_english: "Neodesha",
+        code: "us-ks",
+        relative_radius: 0.6
+    },
     "newport": {
         name: "Newport",
         name_english: "Newport",
@@ -3129,6 +3135,9 @@ var city_properties = {
     },
     "needles": {
 		relative_radius: 0.8,
+        relative_whitenoise: 0.95
+    },
+    "neodesha": {
         relative_whitenoise: 0.95
     },
     "newport": {
@@ -5955,6 +5964,14 @@ var cities = [
         "x": "-85257.7",
         "y": "34.4319",
         "z": "14889.6"
+    },
+    {
+        "gameName": "neodesha",
+        "realName": "Neodesha",
+        "country": "neodesha",
+        "x": "1600.7",
+        "y": "31.8317",
+        "z": "9024.61"
     },
     {
         "gameName": "newport",
