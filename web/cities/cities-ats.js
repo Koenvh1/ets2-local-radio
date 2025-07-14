@@ -503,12 +503,6 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
-    "decatur_city": {
-        name: "Decatur City",
-        name_english: "Decatur City",
-        code: "us-ia",
-        relative_radius: 0.5
-    },
     "delta": {
         name: "Delta",
         name_english: "Delta",
@@ -1539,7 +1533,7 @@ var country_properties = {
         name: "Ottumwa",
         name_english: "Ottumwa",
         code: "us-ia",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "ouray": {
         name: "Ouray",
@@ -2482,7 +2476,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "burlington_ia": {
-        relative_radius: 0.6,
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "burns": {
@@ -2524,11 +2518,11 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
-        relative_radius: 0.8,
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "cedar_valley": {
-        relative_radius: 0.8,
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "chadron": {
@@ -2613,9 +2607,6 @@ var city_properties = {
     },
     "davenport": {
         relative_radius: 0.7,
-        relative_whitenoise: 0.95
-    },
-    "decatur_city": {
         relative_whitenoise: 0.95
     },
     "del_rio": {
@@ -3248,7 +3239,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "postville": {
-        relative_radius: 0.5,
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "price": {
@@ -3267,6 +3258,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "quad_cities_ia": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "quemado": {
@@ -3581,7 +3573,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "waterloo": {
-        relative_radius: 0.7,
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "wenatchee": {
@@ -4484,14 +4476,6 @@ var cities = [
         "x": "21654.2",
         "y": "81.375",
         "z": "-15124.5"
-    },
-    {
-        "gameName": "decatur_city",
-        "realName": "Decatur City",
-        "country": "decatur_city",
-        "x": "9784.86",
-        "y": "35.2187",
-        "z": "-10392.2"
     },
     {
         "gameName": "deepwater",
@@ -6297,7 +6281,7 @@ var cities = [
         "gameName": "quad_cities_ia",
         "realName": "Quad Cities",
         "country": "quad_cities_ia",
-        "x": "22909.3",
+        "x": "20309.3",
         "y": "88.9163",
         "z": "-15390.4"
     },
@@ -9673,7 +9657,7 @@ var country_properties_c2c = {
         name: "Peoria",
         name_english: "Peoria",
         code: "us-il",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "quincy_il": {
         name: "Quincy",

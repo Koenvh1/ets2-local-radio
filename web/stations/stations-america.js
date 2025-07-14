@@ -21548,23 +21548,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDZRAMAAC_SC"
         },
     ],
-    "postville": [
-        {
-            name: "100.5 The Hawk",
-            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDHKFMAAC_SC"
-        },
-        {
-            name: "KNEI 103.5",
-            logo: "stations/images-america/c2c/la_crosse_wi/KNEI 103.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEIFMAAC_SC"
-        },
-        {
-            name: "KOEL 950",
-            logo: "stations/images-america/waterloo/KOEL 950.png",
-            url: "https://live.amperwave.net/manifest/townsquare-koelamaac-ibc3"
-        },
-    ],
     "price": [
         {
             name: "UPR 89.7",
