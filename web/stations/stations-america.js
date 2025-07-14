@@ -6766,58 +6766,6 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KCLNAM"
         },
     ],
-    "decatur_city": [
-        {
-            name: "91.9 KSOI",
-            logo: "stations/images-america/decatur_city/91.9 KSOI.png",
-            url: "https://streaming.live365.com/a01407"
-        },
-        {
-            name: "95.5 KAAN",
-            logo: "stations/images-america/maryville/95.5 KAAN.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
-        },
-        {
-            name: "IPR News 97.9",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
-        },
-        {
-            name: "98.7 KMGO",
-            logo: "stations/images-america/kirksville/98.7 KMGO.png",
-            url: "https://us1.streamingpulse.com/ssl/987Kmgo"
-        },
-        {
-            name: "KMA 99.1",
-            logo: "stations/images-america/maryville/KMA 99.1.png",
-            url: "https://ice5.securenetsystems.net/KMAFM"
-        },
-        {
-            name: "Iowa Catholic Radio 105.3",
-            logo: "stations/images-america/0_general_logos/Iowa Catholic Radio.png",
-            url: "https://streaming.live365.com/a52879"
-        },
-        {
-            name: "Life 107.1",
-            logo: "stations/images-america/des_moines/Life 107.1.png",
-            url: "https://nwm.streamguys1.com/knwi-mp3"
-        },
-        {
-            name: "Sports Radio 870",
-            logo: "stations/images-america/bethany/Sports Radio 870.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
-        },
-        {
-            name: "Hope 940",
-            logo: "stations/images-america/des_moines/Hope 940.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpszamaac-ibc1"
-        },
-        {
-            name: "1040 WHO",
-            logo: "stations/images-america/des_moines/1040 WHO.png",
-            url: "https://stream.revma.ihrhls.com/zc925/hls.m3u8"
-        },
-    ],
     "del_rio": [
         {
             name: "88.5 KVFE",
