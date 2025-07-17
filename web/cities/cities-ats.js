@@ -1541,6 +1541,18 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.7
     },
+    "oskaloosa_des_moines": {
+        name: "Oskaloosa",
+        name_english: "Oskaloosa",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
+    "oskaloosa_ottumwa": {
+        name: "Oskaloosa",
+        name_english: "Oskaloosa",
+        code: "us-ia",
+        relative_radius: 0.5
+    },
     "ottumwa": {
         name: "Ottumwa",
         name_english: "Ottumwa",
@@ -2904,7 +2916,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "iowa_city_cedar_valley": {
-		relative_radius: 0.7,
+		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "jackson": {
@@ -3195,6 +3207,14 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "osage_beach": {
+        relative_whitenoise: 0.95
+    },
+    "oskaloosa_des_moines": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.95
+    },
+    "oskaloosa_ottumwa": {
+		relative_radius: 0.48,
         relative_whitenoise: 0.95
     },
     "ottumwa": {
@@ -6098,6 +6118,22 @@ var cities = [
         "x": "15169.5",
         "y": "57.8204",
         "z": "3829.92"
+    },
+    {
+        "gameName": "oskaloosa_des_moines",
+        "realName": "Oskaloosa",
+        "country": "des_moines",
+        "x": "14412.6",
+        "y": "15.001",
+        "z": "-14084.6"
+    },
+    {
+        "gameName": "oskaloosa_ottumwa",
+        "realName": "Oskaloosa",
+        "country": "ottumwa",
+        "x": "14412.6",
+        "y": "15.001",
+        "z": "-14084.6"
     },
     {
         "gameName": "ottumwa",
