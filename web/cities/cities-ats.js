@@ -1475,6 +1475,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "new_sharon": {
+        name: "New Sharon",
+        name_english: "New Sharon",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
     "norfolk_ne": {
         name: "Norfolk",
         name_english: "Norfolk",
@@ -3171,6 +3177,10 @@ var city_properties = {
     },
     "newport": {
         relative_whitenoise: 0.85
+    },
+    "new_sharon": {
+		relative_radius: 0.3,
+        relative_whitenoise: 0.95
     },
     "norfolk_ne": {
         relative_whitenoise: 0.95
@@ -5299,7 +5309,7 @@ var cities = [
         "gameName": "iowa_city_cedar_valley",
         "realName": "Iowa City",
         "country": "cedar_valley",
-        "x": "16444.1",
+        "x": "17144.1",
         "y": "75",
         "z": "-15633.6"
     },
@@ -6022,6 +6032,14 @@ var cities = [
         "x": "-112428",
         "y": "70.2531",
         "z": "-49031.1"
+    },
+    {
+        "gameName": "new_sharon",
+        "realName": "New Sharon",
+        "country": "des_moines",
+        "x": "13962.3",
+        "y": "17.5107",
+        "z": "-15424.7"
     },
     {
         "gameName": "norfolk_ne",
