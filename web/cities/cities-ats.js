@@ -341,11 +341,11 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
-    "cedar_rapids": {
-        name: "Cedar Rapids",
-        name_english: "Cedar Rapids",
+    "cedar_valley": {
+        name: "Cedar Valley",
+        name_english: "Cedar Valley",
         code: "us-ia",
-        relative_radius: 0.5
+        relative_radius: 0.8
     },
     "cedar_rapids_quad_cities_ia": {
         name: "Cedar Rapids",
@@ -353,11 +353,11 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
-    "cedar_valley": {
-        name: "Cedar Valley",
-        name_english: "Cedar Valley",
+    "cedar_rapids": {
+        name: "Cedar Rapids",
+        name_english: "Cedar Rapids",
         code: "us-ia",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "chadron": {
         name: "Chadron",
@@ -621,6 +621,12 @@ var country_properties = {
         name: "Eagle Nest",
         name_english: "Eagle Nest",
         code: "us-nm",
+        relative_radius: 0.5
+    },
+    "early": {
+        name: "Early",
+        name_english: "Early",
+        code: "us-ia",
         relative_radius: 0.5
     },
     "ehrenberg": {
@@ -2581,15 +2587,15 @@ var city_properties = {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
-    "cedar_rapids": {
+    "cedar_valley": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "cedar_rapids_quad_cities_ia": {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
-    "cedar_valley": {
-        relative_radius: 0.8,
+    "cedar_rapids": {
         relative_whitenoise: 0.95
     },
     "chadron": {
@@ -2729,6 +2735,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "eagle_nest": {
+        relative_whitenoise: 0.95
+    },
+    "early": {
         relative_whitenoise: 0.95
     },
     "ehrenberg": {
@@ -4280,12 +4289,12 @@ var cities = [
         "z": "-2143.96"
     },
     {
-        "gameName": "cedar_rapids",
-        "realName": "Cedar Rapids",
-        "country": "cedar_rapids",
+        "gameName": "cedar_valley",
+        "realName": "Cedar Valley",
+        "country": "cedar_valley",
         "x": "17420.8",
         "y": "61.1797",
-        "z": "-17290.5"
+        "z": "-17590.5"
     },
     {
         "gameName": "cedar_rapids_quad_cities_ia",
@@ -4296,12 +4305,12 @@ var cities = [
         "z": "-15490.5"
     },
     {
-        "gameName": "cedar_valley",
-        "realName": "Cedar Valley",
-        "country": "cedar_valley",
+        "gameName": "cedar_rapids",
+        "realName": "Cedar Rapids",
+        "country": "cedar_rapids",
         "x": "17420.8",
         "y": "61.1797",
-        "z": "-17590.5"
+        "z": "-17290.5"
     },
     {
         "gameName": "chadron",
@@ -4710,6 +4719,14 @@ var cities = [
         "x": "-42881.7",
         "y": "103.849",
         "z": "11832.4"
+    },
+    {
+        "gameName": "early",
+        "realName": "Early",
+        "country": "early",
+        "x": "3242.47",
+        "y": "21.8058",
+        "z": "-19761.2"
     },
     {
         "gameName": "ehrenberg",
