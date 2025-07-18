@@ -1007,6 +1007,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
+    "iowa_city_quad_cities_ia": {
+        name: "Iowa City",
+        name_english: "Iowa City",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
     "iowa_city_cedar_valley": {
         name: "Iowa City",
         name_english: "Iowa City",
@@ -2942,7 +2948,11 @@ var city_properties = {
     },
     "iowa_city_cedar_valley": {
 		relative_radius: 0.5,
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
+    },
+    "iowa_city_quad_cities_ia": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "jackson": {
         relative_whitenoise: 0.85
@@ -4544,9 +4554,9 @@ var cities = [
         "gameName": "davenport_cedar_valley",
         "realName": "Davenport",
         "country": "cedar_valley",
-        "x": "19354.2",
+        "x": "19754.2",
         "y": "81.375",
-        "z": "-15124.5"
+        "z": "-16824.5"
     },
     {
         "gameName": "davenport_quad_cities_ia",
@@ -5325,34 +5335,26 @@ var cities = [
         "z": "19623.9"
     },
     {
+        "gameName": "iowa_city",
+        "realName": "Iowa City",
+        "country": "cedar_rapids",
+        "x": "17444.1",
+        "y": "75",
+        "z": "-15233.6"
+    },
+    {
         "gameName": "iowa_city_cedar_valley",
         "realName": "Iowa City",
         "country": "cedar_valley",
-        "x": "17144.1",
+        "x": "16144.1",
         "y": "75",
         "z": "-15633.6"
     },
     {
-        "gameName": "iowa_city",
-        "realName": "Iowa City",
-        "country": "cedar_valley",
-        "x": "18144.1",
-        "y": "75",
-        "z": "-14833.6"
-    },
-    {
-        "gameName": "iowa_city",
-        "realName": "Iowa City",
-        "country": "cedar_rapids",
-        "x": "18144.1",
-        "y": "75",
-        "z": "-14833.6"
-    },
-    {
-        "gameName": "iowa_city",
+        "gameName": "iowa_city_quad_cities_ia",
         "realName": "Iowa City",
         "country": "quad_cities_ia",
-        "x": "18144.1",
+        "x": "18244.1",
         "y": "75",
         "z": "-14833.6"
     },
