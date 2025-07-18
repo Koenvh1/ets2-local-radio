@@ -2558,7 +2558,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
-        relative_radius: 0.8,
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "cedar_valley": {
@@ -2918,7 +2918,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "iowa_city": {
-		relative_radius: 0.5,
+		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "iowa_city_cedar_valley": {
