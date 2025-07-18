@@ -507,6 +507,18 @@ var country_properties = {
         name: "Davenport",
         name_english: "Davenport",
         code: "us-ia",
+        relative_radius: 0.6
+    },
+    "davenport_cedar_valley": {
+        name: "Davenport",
+        name_english: "Davenport",
+        code: "us-ia",
+        relative_radius: 0.8
+    },
+    "davenport_quad_cities_ia": {
+        name: "Davenport",
+        name_english: "Davenport",
+        code: "us-ia",
         relative_radius: 0.8
     },
     "delta": {
@@ -549,7 +561,7 @@ var country_properties = {
         name: "Des Moines",
         name_english: "Des Moines",
         code: "us-ia",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "diablo": {
         name: "Diablo",
@@ -1479,7 +1491,7 @@ var country_properties = {
         name: "New Sharon",
         name_english: "New Sharon",
         code: "us-ia",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "norfolk_ne": {
         name: "Norfolk",
@@ -1551,7 +1563,7 @@ var country_properties = {
         name: "Oskaloosa",
         name_english: "Oskaloosa",
         code: "us-ia",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "oskaloosa_ottumwa": {
         name: "Oskaloosa",
@@ -2646,7 +2658,14 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "davenport": {
-        relative_radius: 0.8,
+        relative_whitenoise: 0.95
+    },
+    "davenport_cedar_valley": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "davenport_quad_cities_ia": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "del_rio": {
@@ -3224,7 +3243,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "oskaloosa_ottumwa": {
-		relative_radius: 0.48,
+		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "ottumwa": {
@@ -4517,20 +4536,20 @@ var cities = [
         "gameName": "davenport",
         "realName": "Davenport",
         "country": "davenport",
-        "x": "21654.2",
+        "x": "23254.2",
         "y": "81.375",
         "z": "-15124.5"
     },
     {
-        "gameName": "davenport",
+        "gameName": "davenport_cedar_valley",
         "realName": "Davenport",
         "country": "cedar_valley",
-        "x": "21654.2",
+        "x": "19354.2",
         "y": "81.375",
         "z": "-15124.5"
     },
     {
-        "gameName": "davenport",
+        "gameName": "davenport_quad_cities_ia",
         "realName": "Davenport",
         "country": "quad_cities_ia",
         "x": "21654.2",
@@ -4589,9 +4608,9 @@ var cities = [
         "gameName": "des_moines",
         "realName": "Des Moines",
         "country": "des_moines",
-        "x": "9582.62",
+        "x": "9082.62",
         "y": "100",
-        "z": "-14038.5"
+        "z": "-15338.5"
     },
     {
         "gameName": "diablo",
