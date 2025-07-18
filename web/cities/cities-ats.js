@@ -345,6 +345,12 @@ var country_properties = {
         name: "Cedar Rapids",
         name_english: "Cedar Rapids",
         code: "us-ia",
+        relative_radius: 0.5
+    },
+    "cedar_rapids_quad_cities_ia": {
+        name: "Cedar Rapids",
+        name_english: "Cedar Rapids",
+        code: "us-ia",
         relative_radius: 0.8
     },
     "cedar_valley": {
@@ -2576,6 +2582,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
+        relative_whitenoise: 0.95
+    },
+    "cedar_rapids_quad_cities_ia": {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
@@ -4273,26 +4282,18 @@ var cities = [
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
-        "country": "cedar_valley",
-        "x": "17420.8",
-        "y": "61.1797",
-        "z": "-17590.5"
-    },
-    {
-        "gameName": "cedar_rapids",
-        "realName": "Cedar Rapids",
         "country": "cedar_rapids",
         "x": "17420.8",
         "y": "61.1797",
-        "z": "-17590.5"
+        "z": "-17290.5"
     },
     {
-        "gameName": "cedar_rapids",
+        "gameName": "cedar_rapids_quad_cities_ia",
         "realName": "Cedar Rapids",
         "country": "quad_cities_ia",
-        "x": "17420.8",
+        "x": "18420.8",
         "y": "61.1797",
-        "z": "-17590.5"
+        "z": "-15490.5"
     },
     {
         "gameName": "cedar_valley",
@@ -5335,20 +5336,12 @@ var cities = [
         "z": "19623.9"
     },
     {
-        "gameName": "iowa_city",
-        "realName": "Iowa City",
-        "country": "cedar_rapids",
-        "x": "17444.1",
-        "y": "75",
-        "z": "-15233.6"
-    },
-    {
         "gameName": "iowa_city_cedar_valley",
         "realName": "Iowa City",
         "country": "cedar_valley",
-        "x": "16144.1",
+        "x": "16344.1",
         "y": "75",
-        "z": "-15633.6"
+        "z": "-15033.6"
     },
     {
         "gameName": "iowa_city_quad_cities_ia",

@@ -4124,11 +4124,6 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
         },
         {
-            name: "Z102.9",
-            logo: "stations/images-america/cedar_valley/Z102.9.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kziafmaac-ibc2"
-        },
-        {
             name: "102.9 KZIA-HD2",
             logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
             url: "http://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
