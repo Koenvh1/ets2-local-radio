@@ -275,12 +275,6 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
-    "burlington_ia_quad_cities": {
-        name: "Burlington",
-        name_english: "Burlington",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
     "burns": {
         name: "Burns",
         name_english: "Burns",
@@ -341,23 +335,17 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
-    "cedar_valley": {
-        name: "Cedar Valley",
-        name_english: "Cedar Valley",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "cedar_rapids_quad_cities_ia": {
-        name: "Cedar Rapids",
-        name_english: "Cedar Rapids",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
     "cedar_rapids": {
         name: "Cedar Rapids",
         name_english: "Cedar Rapids",
         code: "us-ia",
         relative_radius: 0.5
+    },
+    "cedar_valley": {
+        name: "Cedar Valley",
+        name_english: "Cedar Valley",
+        code: "us-ia",
+        relative_radius: 0.9
     },
     "chadron": {
         name: "Chadron",
@@ -515,18 +503,6 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.6
     },
-    "davenport_cedar_valley": {
-        name: "Davenport",
-        name_english: "Davenport",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "davenport_quad_cities_ia": {
-        name: "Davenport",
-        name_english: "Davenport",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
     "delta": {
         name: "Delta",
         name_english: "Delta",
@@ -621,12 +597,6 @@ var country_properties = {
         name: "Eagle Nest",
         name_english: "Eagle Nest",
         code: "us-nm",
-        relative_radius: 0.5
-    },
-    "early": {
-        name: "Early",
-        name_english: "Early",
-        code: "us-ia",
         relative_radius: 0.5
     },
     "ehrenberg": {
@@ -1014,18 +984,6 @@ var country_properties = {
         relative_radius: 0.5
     },
     "iowa_city": {
-        name: "Iowa City",
-        name_english: "Iowa City",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "iowa_city_quad_cities_ia": {
-        name: "Iowa City",
-        name_english: "Iowa City",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
-    "iowa_city_cedar_valley": {
         name: "Iowa City",
         name_english: "Iowa City",
         code: "us-ia",
@@ -1505,12 +1463,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
-    "new_sharon": {
-        name: "New Sharon",
-        name_english: "New Sharon",
-        code: "us-ia",
-        relative_radius: 0.9
-    },
     "norfolk_ne": {
         name: "Norfolk",
         name_english: "Norfolk",
@@ -1576,12 +1528,6 @@ var country_properties = {
         name_english: "Osage Beach",
         code: "us-mo",
         relative_radius: 0.7
-    },
-    "oskaloosa_des_moines": {
-        name: "Oskaloosa",
-        name_english: "Oskaloosa",
-        code: "us-ia",
-        relative_radius: 0.9
     },
     "oskaloosa_ottumwa": {
         name: "Oskaloosa",
@@ -1707,7 +1653,7 @@ var country_properties = {
         name: "Postville",
         name_english: "Postville",
         code: "us-ia",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "price": {
         name: "Price",
@@ -1737,7 +1683,7 @@ var country_properties = {
         name: "Quad Cities",
         name_english: "Quad Cities",
         code: "us-ia",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "quemado": {
         name: "Quemado",
@@ -2303,12 +2249,6 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
-    "waterloo_cedar_valley": {
-        name: "Waterloo",
-        name_english: "Waterloo",
-        code: "us-ia",
-        relative_radius: 0.8
-    },
     "wenatchee": {
         name: "Wenatchee",
         name_english: "Wenatchee",
@@ -2545,10 +2485,6 @@ var city_properties = {
         relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
-    "burlington_ia_quad_cities": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.85
-    },
     "burns": {
         relative_whitenoise: 0.85
     },
@@ -2587,16 +2523,11 @@ var city_properties = {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
-    "cedar_valley": {
-        relative_radius: 0.8,
-        relative_whitenoise: 0.95
-    },
-    "cedar_rapids_quad_cities_ia": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
     "cedar_rapids": {
         relative_whitenoise: 0.95
+    },
+    "cedar_valley": {
+        relative_whitenoise: 0.85
     },
     "chadron": {
         relative_whitenoise: 0.95
@@ -2681,14 +2612,6 @@ var city_properties = {
     "davenport": {
         relative_whitenoise: 0.95
     },
-    "davenport_cedar_valley": {
-        relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
-    "davenport_quad_cities_ia": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.95
-    },
     "del_rio": {
         relative_whitenoise: 0.95
     },
@@ -2735,9 +2658,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "eagle_nest": {
-        relative_whitenoise: 0.95
-    },
-    "early": {
         relative_whitenoise: 0.95
     },
     "ehrenberg": {
@@ -2962,14 +2882,6 @@ var city_properties = {
     },
     "iowa_city": {
 		relative_radius: 0.4,
-        relative_whitenoise: 0.95
-    },
-    "iowa_city_cedar_valley": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
-    "iowa_city_quad_cities_ia": {
-		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "jackson": {
@@ -3225,10 +3137,6 @@ var city_properties = {
     "newport": {
         relative_whitenoise: 0.85
     },
-    "new_sharon": {
-		relative_radius: 0.3,
-        relative_whitenoise: 0.95
-    },
     "norfolk_ne": {
         relative_whitenoise: 0.95
     },
@@ -3264,10 +3172,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "osage_beach": {
-        relative_whitenoise: 0.95
-    },
-    "oskaloosa_des_moines": {
-		relative_radius: 0.3,
         relative_whitenoise: 0.95
     },
     "oskaloosa_ottumwa": {
@@ -3361,8 +3265,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "quad_cities_ia": {
-        relative_radius: 0.8,
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "quemado": {
         relative_whitenoise: 0.95
@@ -3678,10 +3581,6 @@ var city_properties = {
     "waterloo": {
         relative_radius: 0.5,
         relative_whitenoise: 0.95
-    },
-    "waterloo_cedar_valley": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.85
     },
     "wenatchee": {
         relative_whitenoise: 0.85
@@ -4177,14 +4076,6 @@ var cities = [
         "z": "-10562.7"
     },
     {
-        "gameName": "burlington_ia_quad_cities",
-        "realName": "Burlington",
-        "country": "quad_cities_ia",
-        "x": "19894",
-        "y": "74.0664",
-        "z": "-10562.7"
-    },
-    {
         "gameName": "burns",
         "realName": "Burns",
         "country": "burns",
@@ -4289,28 +4180,20 @@ var cities = [
         "z": "-2143.96"
     },
     {
-        "gameName": "cedar_valley",
-        "realName": "Cedar Valley",
-        "country": "cedar_valley",
-        "x": "17420.8",
-        "y": "61.1797",
-        "z": "-17590.5"
-    },
-    {
-        "gameName": "cedar_rapids_quad_cities_ia",
-        "realName": "Cedar Rapids",
-        "country": "quad_cities_ia",
-        "x": "18420.8",
-        "y": "61.1797",
-        "z": "-15490.5"
-    },
-    {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
         "country": "cedar_rapids",
         "x": "17420.8",
         "y": "61.1797",
         "z": "-17290.5"
+    },
+    {
+        "gameName": "cedar_valley",
+        "realName": "Cedar Valley",
+        "country": "cedar_valley",
+        "x": "17820.8",
+        "y": "61.1797",
+        "z": "-17490.5"
     },
     {
         "gameName": "chadron",
@@ -4561,22 +4444,6 @@ var cities = [
         "z": "-15124.5"
     },
     {
-        "gameName": "davenport_cedar_valley",
-        "realName": "Davenport",
-        "country": "cedar_valley",
-        "x": "19754.2",
-        "y": "81.375",
-        "z": "-16824.5"
-    },
-    {
-        "gameName": "davenport_quad_cities_ia",
-        "realName": "Davenport",
-        "country": "quad_cities_ia",
-        "x": "21654.2",
-        "y": "81.375",
-        "z": "-15124.5"
-    },
-    {
         "gameName": "deepwater",
         "realName": "Deepwater",
         "country": "deepwater",
@@ -4665,22 +4532,6 @@ var cities = [
         "z": "-20596.2"
     },
     {
-        "gameName": "dubuque",
-        "realName": "Dubuque",
-        "country": "cedar_valley",
-        "x": "21512.5",
-        "y": "76.7422",
-        "z": "-20596.2"
-    },
-    {
-        "gameName": "dubuque",
-        "realName": "Dubuque",
-        "country": "quad_cities_ia",
-        "x": "21512.5",
-        "y": "76.7422",
-        "z": "-20596.2"
-    },
-    {
         "gameName": "durango",
         "realName": "Durango",
         "country": "durango",
@@ -4719,14 +4570,6 @@ var cities = [
         "x": "-42881.7",
         "y": "103.849",
         "z": "11832.4"
-    },
-    {
-        "gameName": "early",
-        "realName": "Early",
-        "country": "early",
-        "x": "3242.47",
-        "y": "21.8058",
-        "z": "-19761.2"
     },
     {
         "gameName": "ehrenberg",
@@ -5351,22 +5194,6 @@ var cities = [
         "x": "-93764.8",
         "y": "92.0252",
         "z": "19623.9"
-    },
-    {
-        "gameName": "iowa_city_cedar_valley",
-        "realName": "Iowa City",
-        "country": "cedar_valley",
-        "x": "16344.1",
-        "y": "75",
-        "z": "-15033.6"
-    },
-    {
-        "gameName": "iowa_city_quad_cities_ia",
-        "realName": "Iowa City",
-        "country": "quad_cities_ia",
-        "x": "18244.1",
-        "y": "75",
-        "z": "-14833.6"
     },
     {
         "gameName": "jackson",
@@ -6065,14 +5892,6 @@ var cities = [
         "z": "-49031.1"
     },
     {
-        "gameName": "new_sharon",
-        "realName": "New Sharon",
-        "country": "des_moines",
-        "x": "13962.3",
-        "y": "17.5107",
-        "z": "-15424.7"
-    },
-    {
         "gameName": "norfolk_ne",
         "realName": "Norfolk",
         "country": "norfolk_ne",
@@ -6167,14 +5986,6 @@ var cities = [
         "x": "15169.5",
         "y": "57.8204",
         "z": "3829.92"
-    },
-    {
-        "gameName": "oskaloosa_des_moines",
-        "realName": "Oskaloosa",
-        "country": "des_moines",
-        "x": "14412.6",
-        "y": "15.001",
-        "z": "-14084.6"
     },
     {
         "gameName": "oskaloosa_ottumwa",
@@ -6347,14 +6158,6 @@ var cities = [
     {
         "gameName": "postville",
         "realName": "Postville",
-        "country": "cedar_valley",
-        "x": "18229.9",
-        "y": "29.8351",
-        "z": "-23460.5"
-    },
-    {
-        "gameName": "postville",
-        "realName": "Postville",
         "country": "postville",
         "x": "18229.9",
         "y": "29.8351",
@@ -6404,9 +6207,9 @@ var cities = [
         "gameName": "quad_cities_ia",
         "realName": "Quad Cities",
         "country": "quad_cities_ia",
-        "x": "21654.2",
+        "x": "21354.2",
         "y": "81.375",
-        "z": "-15124.5"
+        "z": "-15424.5"
     },
     {
         "gameName": "quemado",
@@ -7287,14 +7090,6 @@ var cities = [
         "x": "14722",
         "y": "68.5078",
         "z": "-20366.8"
-    },
-    {
-        "gameName": "waterloo_cedar_valley",
-        "realName": "Waterloo",
-        "country": "cedar_valley",
-        "x": "14722",
-        "y": "68.5078",
-        "z": "-20066.8"
     },
     {
         "gameName": "wenatchee",
