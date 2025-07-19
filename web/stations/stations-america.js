@@ -31457,11 +31457,6 @@ var stations = {/*
     ],
     "cananea": [
         {
-            name: "La Consentida 93.3",
-            logo: "stations/images-america/mexico/cananea/La Consentida 93.3.png",
-            url: "https://radios.sonidoshd.com/8162/stream"
-        },
-        {
             name: "Radio Sonora 97.7",
             logo: "stations/images-america/mexico/0_general_logos/Radio Sonora.png",
             url: "https://s2.mexside.net/9150/stream"

@@ -10469,7 +10469,7 @@ var country_properties_c2c = {
         name: "la_crosse",
         name_english: "la_crosse",
         code: "us-wi",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "madison_wi": {
         name: "madison_wi",
