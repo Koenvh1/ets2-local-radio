@@ -339,7 +339,7 @@ var country_properties = {
         name: "Cedar Rapids",
         name_english: "Cedar Rapids",
         code: "us-ia",
-        relative_radius: 0.5
+        relative_radius: 0.9
     },
     "cedar_valley": {
         name: "Cedar Valley",
@@ -501,7 +501,7 @@ var country_properties = {
         name: "Davenport",
         name_english: "Davenport",
         code: "us-ia",
-        relative_radius: 0.6
+        relative_radius: 0.9
     },
     "delta": {
         name: "Delta",
@@ -2524,6 +2524,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "cedar_valley": {
@@ -2610,6 +2611,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "davenport": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "del_rio": {
@@ -4182,6 +4184,14 @@ var cities = [
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
+        "country": "cedar_valley",
+        "x": "17420.8",
+        "y": "61.1797",
+        "z": "-17290.5"
+    },
+    {
+        "gameName": "cedar_rapids",
+        "realName": "Cedar Rapids",
         "country": "cedar_rapids",
         "x": "17420.8",
         "y": "61.1797",
@@ -4434,6 +4444,14 @@ var cities = [
         "x": "-81820.2",
         "y": "24.894",
         "z": "28604.3"
+    },
+    {
+        "gameName": "davenport",
+        "realName": "Davenport",
+        "country": "quad_cities_ia",
+        "x": "23254.2",
+        "y": "81.375",
+        "z": "-15124.5"
     },
     {
         "gameName": "davenport",
