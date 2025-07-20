@@ -21555,6 +21555,28 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDZRAMAAC_SC"
         },
     ],
+    "postville": [
+        {
+            name: "K92.3",
+            logo: "stations/images-america/cedar_valley/K92.3.png",
+            url: "https://live.amperwave.net/manifest/townsquare-koelfmaac-ibc3"
+        }, 
+        {
+            name: "100.5 The Hawk",
+            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDHKFMAAC_SC"
+        },
+        {
+            name: "KNEI 103.5",
+            logo: "stations/images-america/c2c/la_crosse_wi/KNEI 103.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEIFMAAC_SC"
+        },
+        {
+            name: "KOEL 950",
+            logo: "stations/images-america/waterloo/KOEL 950.png",
+            url: "https://live.amperwave.net/manifest/townsquare-koelamaac-ibc3"
+        },
+    ],
     "price": [
         {
             name: "UPR 89.7",
@@ -56063,6 +56085,43 @@ var stations = {/*
             name: "1290 FONZ",
             logo: "stations/images-america/c2c/milwaukee_wi/1290 FONZ.png",
             url: "http://wzti.streamon.fm:8000/WZTI-48k.aac"
+        },
+    ],
+    "prairie_du_chien": [
+        {
+            name: "VCY America 89.5",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "WPR News & Classical 91.3",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
+        },
+        {
+            name: "K92.3",
+            logo: "stations/images-america/cedar_valley/K92.3.png",
+            url: "https://live.amperwave.net/manifest/townsquare-koelfmaac-ibc3"
+        },
+        {
+            name: "92.9 KAT FM",
+            logo: "stations/images-america/dubuque/92.9 KAT FM.png",
+            url: "https://us9.maindigitalstream.com/ssl/katf"
+        },
+        {
+            name: "97-Seven Country WGLR",
+            logo: "stations/images-america/dubuque/97-Seven Country WGLR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLRFMAAC_SC"
+        },
+        {
+            name: "KCTN FM 100.1",
+            logo: "stations/images-america/c2c/prairie_du_chien_wi/KCTN FM 100.1.png",
+            url: "https://crystalout.surfernetwork.com:8001/KCTN_MP3"
+        },
+        {
+            name: "KNEI 103.5",
+            logo: "stations/images-america/c2c/la_crosse_wi/KNEI 103.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEIFMAAC_SC"
         },
     ],
     "wausau_wi": [

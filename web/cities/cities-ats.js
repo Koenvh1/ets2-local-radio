@@ -10469,7 +10469,7 @@ var country_properties_c2c = {
         name: "la_crosse",
         name_english: "la_crosse",
         code: "us-wi",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "madison_wi": {
         name: "madison_wi",
@@ -10482,6 +10482,12 @@ var country_properties_c2c = {
         name_english: "milwaukee",
         code: "us-wi",
         relative_radius: 0.8
+    },
+    "prairie_du_chien": {
+        name: "Prairie du Chien",
+        name_english: "Prairie du Chien",
+        code: "us-wi",
+        relative_radius: 0.6
     },
     "wausau_wi": {
         name: "Wausau",
@@ -11024,6 +11030,9 @@ var city_properties_c2c = {
     },
     "milwaukee": {
         relative_whitenoise: 0.85
+    },
+    "prairie_du_chien": {
+        relative_whitenoise: 0.95
     },
     "wausau_wi": {
         relative_whitenoise: 0.85
@@ -12502,6 +12511,14 @@ var cities_c2c = [
         "x": "32376.2",
         "y": "144.438",
         "z": "-24465.1"
+    },
+    {
+        "gameName": "prairie_du_chien",
+        "realName": "Prairie du Chien",
+        "country": "prairie_du_chien",
+        "x": "20932.9",
+        "y": "51.9842",
+        "z": "-24688.9"
     },
     {
         "gameName": "wausau_wi",
