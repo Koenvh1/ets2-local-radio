@@ -10487,7 +10487,7 @@ var country_properties_c2c = {
         name: "Prairie du Chien",
         name_english: "Prairie du Chien",
         code: "us-wi",
-        relative_radius: 0.6
+        relative_radius: 0.3
     },
     "wausau_wi": {
         name: "Wausau",
