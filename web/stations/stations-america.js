@@ -240,8 +240,8 @@ var stations = {/*
             url: "https://dash.streamkast.co/proxy/communitybroadpart2/korq"
         },
         {
-            name: "KTLT 98.1",
-            logo: "stations/images-america/abilene/KTLT 98.1.png",
+            name: "98.1 KTLT",
+            logo: "stations/images-america/abilene/98.1 KTLT.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTLTFMAAC_SC"
         },
         {
@@ -16252,6 +16252,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
         },
         {
+            name: "NOR Radio 94.7-HD2",
+            logo: "stations/images-america/los_angeles/NOR Radio 94.7-HD2.png",
+            url: "https://s4.voscast.com:9683/stream"
+        },
+        {
             name: "Radio Hamrah 94.7-HD3",
             logo: "stations/images-america/los_angeles/Radio Hamrah 94.7-HD3.png",
             url: "https://stream.zeno.fm/gxdq0awu30duv"
@@ -16260,11 +16265,6 @@ var stations = {/*
             name: "95.5 KLOS",
             logo: "stations/images-america/los_angeles/95.5 KLOS.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSFMAAC_SC"
-        },
-        {
-            name: "KLOS 2 95.5-HD2",
-            logo: "stations/images-america/los_angeles/KLOS 2 95.5-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLOSHD2AAC_SC"
         },
         {
             name: "95.5 KLOS-HD3",
@@ -16367,16 +16367,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/kscafm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
-            name: "101.9 KSCA-HD2",
-            logo: "stations/images-america/los_angeles/1020 KTNQ.png",
-            url: "http://84.32.44.251/index.php?u=http://lmn.streamguys1.com/ktnqam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
-        },
-        {
-            name: "Radio Vanak 101.9-HD3",
-            logo: "stations/images-america/los_angeles/Radio Vanak 101.9-HD3.png",
-            url: "https://s10.citrus3.com:8462/stream"
-        },
-        {
             name: "102.3 KJLH",
             logo: "stations/images-america/los_angeles/102.3 KJLH.png",
             url: "https://live.amperwave.net/direct/kjlh-kjlhfmaac-ibc2"
@@ -16430,11 +16420,6 @@ var stations = {/*
             name: "Power 106",
             logo: "stations/images-america/los_angeles/Power 106.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPWRAAC_SC"
-        },
-        {
-            name: "105.9 KPWR-HD2",
-            logo: "stations/images-america/los_angeles/93.5 KDAY.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KDAYFMAAC_SC"
         },
         {
             name: "Radio VNCR 106.3",
@@ -25073,8 +25058,8 @@ var stations = {/*
             url: "https://bonneville.cdnstream1.com/2625_48.aac"
         },
         {
-            name: "Alice@97.3",
-            logo: "stations/images-america/san_francisco/Alice@97.3.png",
+            name: "Alice 97.3",
+            logo: "stations/images-america/san_francisco/Alice 97.3.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kllcfmaac-imc"
         },
         {
@@ -25684,6 +25669,11 @@ var stations = {/*
             name: "HOT 103.7",
             logo: "stations/images-america/seattle/Hot 103.7.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-khtpfmaac-imc"
+        },
+        {
+            name: "K-LOVE 104.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "Hollow Earth Radio 104.9",
@@ -26820,6 +26810,11 @@ var stations = {/*
             name: "Sacred Heart Radio 106.1",
             logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
             url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
+        },
+        {
+            name: "Moody Radio 107.1",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMBIFMAAC_SC"
         },
         {
             name: "590 KQNT",

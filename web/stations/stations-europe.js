@@ -6927,7 +6927,7 @@ var stations = {/*
         {
             name: "Fun Rádio",
             logo: "stations/images-europe/slovakia/Fun rádio.png",
-            url: "https://stream.funradio.sk:18443/fun192.mp3"
+            url: "https://stream.funradio.sk:8000/fun192.mp3"
         },
         {
             name: "Rádio 7",
