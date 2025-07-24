@@ -21391,8 +21391,8 @@ var stations = {/*
         },
         {
             name: "99.5 KWJJ-HD2",
-            logo: "stations/images-america/portland/1080 The Fan.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-kfxxamaac-imc"
+            logo: "stations/images-america/portland/105.1 The Fan.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-krskfmaac-imc"
         },
         {
             name: "99.5 KWJJ-HD3",
@@ -21445,8 +21445,8 @@ var stations = {/*
             url: "https://ice10.securenetsystems.net/PLR"
         },
         {
-            name: "Bella 105",
-            logo: "stations/images-america/portland/Bella 105.png",
+            name: "105.1 The Fan",
+            logo: "stations/images-america/portland/105.1 The Fan.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-krskfmaac-imc"
         },
         {
@@ -21525,8 +21525,8 @@ var stations = {/*
             url: "https://us3.streamingpulse.com/ssl/SlavicMediaHoldings"
         },
         {
-            name: "1080 The Fan",
-            logo: "stations/images-america/portland/1080 The Fan.png",
+            name: "1080 KFXX",
+            logo: "stations/images-america/portland/105.1 The Fan.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kfxxamaac-imc"
         },
         {
@@ -22814,6 +22814,53 @@ var stations = {/*
             name: "980 AM BOB FM",
             logo: "stations/images-america/russelville/97.1 BOB FM.png",
             url: "http://ais-sa8.cdnstream1.com/1689_64"
+        },
+    ],
+    "sac_city": [
+        {
+            name: "Siouxland Catholic Radio 88.1",
+            logo: "stations/images-america/sioux_city/Siouxland Catholic Radio 88.1.png",
+            url: "https://ice64.securenetsystems.net/KFHC"
+        },
+        {
+            name: "IPR News 91.1",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
+        },
+        {
+            name: "93.7 KKRL",
+            logo: "stations/images-america/sac_city/93.7 KKRL.png",
+            url: "https://ice5.securenetsystems.net/KKRL"
+        },
+        {
+            name: "The Edge 97.5",
+            logo: "stations/images-america/early/The Edge 97.5.png",
+            url: "https://ais-sa1.streamon.fm/7018_48k.aac"
+        },
+        {
+            name: "Mix 101.7",
+            logo: "stations/images-america/spencer/Mix 101.7.png",
+            url: "https://ice23.securenetsystems.net/KAYL"
+        },
+        {
+            name: "105.9 The Beach",
+            logo: "stations/images-america/fort_dodge/105.9 The Beach.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
+        },
+        {
+            name: "KICK 106.7",
+            logo: "stations/images-america/sac_city/KICK 106.7.png",
+            url: "https://ice5.securenetsystems.net/KIKD"
+        },
+        {
+            name: "540 KWMT",
+            logo: "stations/images-america/fort_dodge/540 KWMT.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+        },
+        {
+            name: "IPR News 640",
+            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
+            url: "http://news-stream.iowapublicradio.org/News.mp3"
         },
     ],
     "sacramento": [

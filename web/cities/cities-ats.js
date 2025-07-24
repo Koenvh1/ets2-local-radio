@@ -1787,6 +1787,12 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.5
     },
+    "sac_city": {
+        name: "Sac City",
+        name_english: "Sac City",
+        code: "us-ia",
+        relative_radius: 0.5
+    },
     "sacramento": {
         name: "Sacramento",
         name_english: "Sacramento",
@@ -3321,6 +3327,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "russelville": {
+        relative_whitenoise: 0.95
+    },
+    "sac_city": {
         relative_whitenoise: 0.95
     },
     "sacramento": {
@@ -6388,6 +6397,14 @@ var cities = [
         "x": "14084.8",
         "y": "34.1505",
         "z": "18646.2"
+    },
+    {
+        "gameName": "sac_city",
+        "realName": "Sac City",
+        "country": "sac_city",
+        "x": "3967.15",
+        "y": "11.5108",
+        "z": "-19663"
     },
     {
         "gameName": "sacramento",
