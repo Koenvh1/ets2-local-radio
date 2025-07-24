@@ -83,6 +83,12 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.5
     },
+    "audubon": {
+        name: "Audubon",
+        name_english: "Audubon",
+        code: "us-ia",
+        relative_radius: 0.5
+    },
     "austin": {
         name: "Austin",
         name_english: "Austin",
@@ -2388,6 +2394,9 @@ var city_properties = {
     "auburn_ne": {
         relative_whitenoise: 0.95
     },
+    "audubon": {
+        relative_whitenoise: 0.95
+    },
     "austin": {
         relative_whitenoise: 0.95
     },
@@ -3515,7 +3524,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "templeton": {
-        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "texarkana": {
@@ -3775,6 +3783,14 @@ var cities = [
         "x": "613.006",
         "y": "53.4135",
         "z": "-7988.69"
+    },
+    {
+        "gameName": "audubon",
+        "realName": "Audubon",
+        "country": "sac_city",
+        "x": "4568.95",
+        "y": "17.5566",
+        "z": "-16273"
     },
     {
         "gameName": "austin",
