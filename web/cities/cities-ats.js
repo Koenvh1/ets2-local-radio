@@ -2389,6 +2389,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "audubon": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "austin": {
