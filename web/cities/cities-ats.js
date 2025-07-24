@@ -2105,12 +2105,6 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.7
     },
-    "templeton": {
-        name: "Templeton",
-        name_english: "Templeton",
-        code: "us-ia",
-        relative_radius: 0.5
-    },
     "texarkana": {
         name: "Texarkana",
         name_english: "Texarkana",
@@ -3522,9 +3516,6 @@ var city_properties = {
     "tacoma": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
-    },
-    "templeton": {
-        relative_whitenoise: 0.95
     },
     "texarkana": {
         relative_whitenoise: 0.85
@@ -6919,14 +6910,6 @@ var cities = [
         "x": "-100595",
         "y": "80",
         "z": "-60834.9"
-    },
-    {
-        "gameName": "templeton",
-        "realName": "Templeton",
-        "country": "sac_city",
-        "x": "5217.3",
-        "y": "18.4986",
-        "z": "-16965.7"
     },
     {
         "gameName": "texarkana",
