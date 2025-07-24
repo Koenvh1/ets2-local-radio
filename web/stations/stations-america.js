@@ -8214,48 +8214,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCFMAAC_SC"
         },
     ],
-    "early": [
-        {
-            name: "Siouxland Catholic Radio 88.1",
-            logo: "stations/images-america/sioux_city/Siouxland Catholic Radio 88.1.png",
-            url: "https://ice64.securenetsystems.net/KFHC"
-        },
-        {
-            name: "IPR News 91.1",
-            logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
-        },
-        {
-            name: "92.9 KKIA",
-            logo: "stations/images-america/early/92.9 KKIA.png",
-            url: "https://ice23.securenetsystems.net/KKIA"
-        },
-        {
-            name: "The Edge 97.5",
-            logo: "stations/images-america/early/The Edge 97.5.png",
-            url: "https://ais-sa1.streamon.fm/7018_48k.aac"
-        },
-        {
-            name: "Mix 101.7",
-            logo: "stations/images-america/spencer/Mix 101.7.png",
-            url: "https://ice23.securenetsystems.net/KAYL"
-        },
-        {
-            name: "Bott Radio 102.9",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
-        },
-        {
-            name: "105.9 The Beach",
-            logo: "stations/images-america/fort_dodge/105.9 The Beach.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
-        },
-        {
-            name: "540 KWMT",
-            logo: "stations/images-america/fort_dodge/540 KWMT.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
-        },
-    ],
     "ehrenberg": [
         {
             name: "Radio Bilingüe 88.5",
