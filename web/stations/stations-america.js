@@ -17194,11 +17194,6 @@ var stations = {/*
             url: "https://crystalout.surfernetwork.com:8001/KLMJ-FM_MP3"
         },
         {
-            name: "Y105",
-            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
-        },
-        {
             name: "Star 106.1",
             logo: "stations/images-america/mason_city/Star 106.1.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klssfmaac-ibc4"
@@ -44211,6 +44206,13 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-krocfmaac-ibc3"
         },
     ],
+    "rochester_y105": [
+        {
+            name: "Y105",
+            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
+        },
+    ],
     "rochester_mn": [
         {
             name: "The Current 88.7",
@@ -44261,11 +44263,6 @@ var stations = {/*
             name: "Fun 104",
             logo: "stations/images-america/c2c/rochester_mn/Fun 104.png",
             url: "https://live.amperwave.net/manifest/townsquare-kfnlfmaac-ibc3"
-        },
-        {
-            name: "Y105",
-            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
         },
         {
             name: "Sasquatch 107.7",

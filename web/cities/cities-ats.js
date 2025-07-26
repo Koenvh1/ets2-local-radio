@@ -9930,6 +9930,12 @@ var country_properties_c2c = {
         code: "us-mn",
         relative_radius: 1.0
     },
+    "rochester_y105": {
+        name: "Rochester",
+        name_english: "Rochester",
+        code: "us-mn",
+        relative_radius: 1.0
+    },
     "st_cloud": {
         name: "st_cloud",
         name_english: "st_cloud",
@@ -10818,6 +10824,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "rochester_kroc": {
+        relative_whitenoise: 0.95
+    },
+    "rochester_y105": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "st_cloud": {
@@ -11858,6 +11868,22 @@ var cities_c2c = [
     },
     {
         "gameName": "rochester_kroc",
+        "realName": "Rochester",
+        "country": "rochester_kroc",
+        "x": "15127.4",
+        "y": "172.769",
+        "z": "-25665.2"
+    },
+    {
+        "gameName": "rochester_y105",
+        "realName": "Rochester",
+        "country": "rochester_y105",
+        "x": "14827.4",
+        "y": "172.769",
+        "z": "-25665.2"
+    },
+    {
+        "gameName": "rochester_y105",
         "realName": "Rochester",
         "country": "rochester_kroc",
         "x": "15127.4",
