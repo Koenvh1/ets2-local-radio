@@ -17174,11 +17174,6 @@ var stations = {/*
             url: "https://ice8.securenetsystems.net/KSMA"
         },
         {
-            name: "US Country 99.9",
-            logo: "stations/images-america/mason_city/US Country 99.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kausfmaac-ibc2"
-        },
-        {
             name: "Super Hits 102.7",
             logo: "stations/images-america/mason_city/Super Hits 102.7.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kytcfmaac-ibc4"
@@ -17207,11 +17202,6 @@ var stations = {/*
             name: "Star 106.1",
             logo: "stations/images-america/mason_city/Star 106.1.png",
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klssfmaac-ibc4"
-        },
-        {
-            name: "106.9 KROC",
-            logo: "stations/images-america/c2c/rochester_mn/106.9 KROC.png",
-            url: "https://live.amperwave.net/manifest/townsquare-krocfmaac-ibc3"
         },
         {
             name: "Mix 107.3",
@@ -43766,6 +43756,13 @@ var stations = {/*
             url: "https://ice9.securenetsystems.net/WHSB"
         },
     ],
+    "albert_lea_kaus": [
+        {
+            name: "US Country 99.9",
+            logo: "stations/images-america/c2c/albert_lea_mn/US Country 99.9.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kausfmaac-ibc2"
+        },
+    ],
     "bemidji": [
         {
             name: "Classical MPR 88.5",
@@ -44207,6 +44204,13 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDIZAMAAC_SC"
         },
     ],
+    "rochester_kroc": [
+        {
+            name: "106.9 KROC",
+            logo: "stations/images-america/c2c/rochester_mn/106.9 KROC.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krocfmaac-ibc3"
+        },
+    ],
     "rochester_mn": [
         {
             name: "The Current 88.7",
@@ -44262,11 +44266,6 @@ var stations = {/*
             name: "Y105",
             logo: "stations/images-america/c2c/rochester_mn/Y105.png",
             url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
-        },
-        {
-            name: "106.9 KROC",
-            logo: "stations/images-america/c2c/rochester_mn/106.9 KROC.png",
-            url: "https://live.amperwave.net/manifest/townsquare-krocfmaac-ibc3"
         },
         {
             name: "Sasquatch 107.7",

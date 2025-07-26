@@ -1335,7 +1335,7 @@ var country_properties = {
         name: "Mason City",
         name_english: "Mason City",
         code: "us-ia",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "mcallen_brownsville": {
         name: "Rio Grande Valley",
@@ -9888,6 +9888,18 @@ var country_properties_c2c = {
         code: "us-mn",
         relative_radius: 1.0
     },
+    "albert_lea": {
+        name: "Albert Lea",
+        name_english: "Albert Lea",
+        code: "us-mn",
+        relative_radius: 0.8
+    },
+    "albert_lea_kaus": {
+        name: "Albert Lea",
+        name_english: "Albert Lea",
+        code: "us-mn",
+        relative_radius: 0.8
+    },
     "bemidji": {
         name: "bemidji",
         name_english: "bemidji",
@@ -9907,10 +9919,16 @@ var country_properties_c2c = {
         relative_radius: 0.8
     },
     "rochester_mn": {
-        name: "rochester_mn",
-        name_english: "rochester_mn",
+        name: "Rochester",
+        name_english: "Rochester",
         code: "us-mn",
-        relative_radius: 0.8
+        relative_radius: 1.0
+    },
+    "rochester_kroc": {
+        name: "Rochester",
+        name_english: "Rochester",
+        code: "us-mn",
+        relative_radius: 1.0
     },
     "st_cloud": {
         name: "st_cloud",
@@ -10779,6 +10797,13 @@ var city_properties_c2c = {
     "alpena_mi": {
         relative_whitenoise: 0.85
     },
+    "albert_lea": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "albert_lea_kaus": {
+        relative_whitenoise: 0.95
+    },
     "bemidji": {
         relative_whitenoise: 0.85
     },
@@ -10789,7 +10814,11 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "rochester_mn": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.85
+    },
+    "rochester_kroc": {
+        relative_whitenoise: 0.95
     },
     "st_cloud": {
         relative_whitenoise: 0.85
@@ -11764,6 +11793,30 @@ var cities_c2c = [
         "z": "-37610.9"
     },
     {
+        "gameName": "albert_lea",
+        "realName": "Albert Lea",
+        "country": "albert_lea",
+        "x": "10904.6",
+        "y": "83.034",
+        "z": "-26538.6"
+    },
+    {
+        "gameName": "albert_lea",
+        "realName": "Albert Lea",
+        "country": "albert_lea_kaus",
+        "x": "10904.6",
+        "y": "83.034",
+        "z": "-26538.6"
+    },
+    {
+        "gameName": "albert_lea_kaus",
+        "realName": "Albert Lea",
+        "country": "albert_lea_kaus",
+        "x": "12304.6",
+        "y": "83.034",
+        "z": "-26538.6"
+    },
+    {
         "gameName": "bemidji",
         "realName": "Bemidji",
         "country": "bemidji",
@@ -11794,6 +11847,22 @@ var cities_c2c = [
         "x": "15607.5",
         "y": "93.4564",
         "z": "-28327"
+    },
+    {
+        "gameName": "rochester_mn",
+        "realName": "Rochester",
+        "country": "rochester_kroc",
+        "x": "15607.5",
+        "y": "93.4564",
+        "z": "-28327"
+    },
+    {
+        "gameName": "rochester_kroc",
+        "realName": "Rochester",
+        "country": "rochester_kroc",
+        "x": "15127.4",
+        "y": "172.769",
+        "z": "-25665.2"
     },
     {
         "gameName": "st_cloud",
