@@ -767,6 +767,12 @@ var country_properties = {
         code: "us-ks",
         relative_radius: 0.7
     },
+    "garner": {
+        name: "Garner",
+        name_english: "Garner",
+        code: "us-ia",
+        relative_radius: 0.4
+    },
     "gila_bend": {
         name: "Gila Bend",
         name_english: "Gila Bend",
@@ -2771,6 +2777,9 @@ var city_properties = {
     },
     "garden_city": {
         relative_radius: 0.9,
+        relative_whitenoise: 0.95
+    },
+    "garner": {
         relative_whitenoise: 0.95
     },
     "gila_bend": {
@@ -4887,6 +4896,14 @@ var cities = [
         "x": "-21687.2",
         "y": "86.9297",
         "z": "5757.88"
+    },
+    {
+        "gameName": "garner",
+        "realName": "Garner",
+        "country": "mason_city",
+        "x": "8608.87",
+        "y": "17.4969",
+        "z": "-23581.7"
     },
     {
         "gameName": "gila_bend",
