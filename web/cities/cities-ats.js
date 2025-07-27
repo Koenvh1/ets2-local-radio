@@ -3200,7 +3200,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "omaha": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "omak": {
         relative_whitenoise: 0.95
