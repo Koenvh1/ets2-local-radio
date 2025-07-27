@@ -17136,7 +17136,7 @@ var stations = {/*
         {
             name: "IPR News 91.5",
             logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
+            url: "http://news-stream.iowapublicradio.org/News.mp3"
         },
         {
             name: "Kinship Christian Radio 92.5",
