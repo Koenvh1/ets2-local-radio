@@ -276,50 +276,53 @@ function refresh(data) {
         $(".nearestCity").html(city_lowest_distance + "; " + country_lowest_distance);
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
-        if (!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_best_reception]["whitenoise"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["whitenoise"] &&
-            g_last_nearest_country != country_best_reception)) {
-            //If current station country is not close enough OR (the distance + threshold is larger than the new country's distance and the last station wasn't set manually.
-            g_last_nearest_country = country_best_reception;
+        var paused = document.getElementById("player").paused;
+        if (!paused) {
+            if (!available_countries.hasOwnProperty(g_current_country) ||
+                (available_countries[country_best_reception]["whitenoise"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["whitenoise"] &&
+                    g_last_nearest_country != country_best_reception)) {
+                //If current station country is not close enough OR (the distance + threshold is larger than the new country's distance and the last station wasn't set manually.
+                g_last_nearest_country = country_best_reception;
 
 
-            //Check if there is a favourite station:
-            var index = 0;
-            $.getJSON(g_api + "/favourite/" + country_best_reception, function (favourite_lowest_distance) {
-                if (favourite_lowest_distance["Name"] != "") {
-                    index = stations[country_best_reception].map(function (e) {
-                        return e.name;
-                    }).indexOf(favourite_lowest_distance["Name"]);
-                    if(index < 0){
-                        index = 0;
+                //Check if there is a favourite station:
+                var index = 0;
+                $.getJSON(g_api + "/favourite/" + country_best_reception, function (favourite_lowest_distance) {
+                    if (favourite_lowest_distance["Name"] != "") {
+                        index = stations[country_best_reception].map(function (e) {
+                            return e.name;
+                        }).indexOf(favourite_lowest_distance["Name"]);
+                        if (index < 0) {
+                            index = 0;
+                        }
                     }
-                }
-                if(!controlRemote) {
-                    //If remote player, don't set radio station
-                    setRadioStation(stations[country_best_reception][index]["url"], country_best_reception, available_countries[country_best_reception]["whitenoise"]);
-                } else {
-                    g_current_url = stations[country_best_reception][index]["url"];
-                }
-                refreshStations();
-            });
-        }
-
-        if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
-            //If they don't contain the same keys (ie. a country update)
-            g_countries = available_countries;
-
-            refreshStations();
-            /*
-            for(var key in g_countries){
-                $.getJSON("/favourite/" + key, function (data) {
-                   g_countries[country_lowest_distance]["favourite"] = data["Name"];
+                    if (!controlRemote) {
+                        //If remote player, don't set radio station
+                        setRadioStation(stations[country_best_reception][index]["url"], country_best_reception, available_countries[country_best_reception]["whitenoise"]);
+                    } else {
+                        g_current_url = stations[country_best_reception][index]["url"];
+                    }
+                    refreshStations();
                 });
             }
-            */
-        } else {
-            setWhitenoise(available_countries[g_current_country]["whitenoise"]);
-            g_countries = available_countries;
 
+            if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
+                //If they don't contain the same keys (ie. a country update)
+                g_countries = available_countries;
+
+                refreshStations();
+                /*
+                for(var key in g_countries){
+                    $.getJSON("/favourite/" + key, function (data) {
+                       g_countries[country_lowest_distance]["favourite"] = data["Name"];
+                    });
+                }
+                */
+            } else {
+                setWhitenoise(available_countries[g_current_country]["whitenoise"]);
+                g_countries = available_countries;
+
+            }
         }
     }
 };
