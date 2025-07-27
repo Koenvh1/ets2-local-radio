@@ -801,6 +801,18 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
+    "algona": [
+        {
+            name: "Hometown Radio 92.7",
+            logo: "stations/images-america/algona/Hometown Radio 92.7.png",
+            url: "https://ice41.securenetsystems.net/KLGA"
+        },
+        {
+            name: "Home Country 98.5",
+            logo: "stations/images-america/algona/Home Country.png",
+            url: "https://ice41.securenetsystems.net/KLGZ"
+        },
+    ],
     "alliance": [
         {
             name: "NPM 91.1",

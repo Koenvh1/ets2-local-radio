@@ -41,6 +41,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "algona": {
+        name: "Algona",
+        name_english: "Algona",
+        code: "us-ia",
+        relative_radius: 0.4
+    },
     "alliance": {
         name: "Alliance",
         name_english: "Alliance",
@@ -2370,6 +2376,9 @@ var city_properties = {
 		relative_radius: 0.3,
         relative_whitenoise: 0.85
     },
+    "algona": {
+        relative_whitenoise: 0.95
+    },
     "alliance": {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
@@ -3713,6 +3722,14 @@ var cities = [
         "x": "-49704.4",
         "y": "80.0663",
         "z": "21583.7"
+    },
+    {
+        "gameName": "algona",
+        "realName": "Algona",
+        "country": "algona",
+        "x": "6982.42",
+        "y": "17.5193",
+        "z": "-23316.8"
     },
     {
         "gameName": "alliance",
