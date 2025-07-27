@@ -771,7 +771,7 @@ var country_properties = {
         name: "Garner",
         name_english: "Garner",
         code: "us-ia",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "gila_bend": {
         name: "Gila Bend",
@@ -2780,6 +2780,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "garner": {
+        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "gila_bend": {
