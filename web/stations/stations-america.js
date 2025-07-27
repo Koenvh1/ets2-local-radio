@@ -807,11 +807,6 @@ var stations = {/*
             logo: "stations/images-america/algona/Hometown Radio 92.7.png",
             url: "https://ice41.securenetsystems.net/KLGA"
         },
-        {
-            name: "Home Country 98.5",
-            logo: "stations/images-america/algona/Home Country.png",
-            url: "https://ice41.securenetsystems.net/KLGZ"
-        },
     ],
     "alliance": [
         {

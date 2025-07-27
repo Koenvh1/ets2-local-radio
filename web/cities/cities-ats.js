@@ -1527,7 +1527,7 @@ var country_properties = {
         name: "Omaha",
         name_english: "Omaha",
         code: "us-ne",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "omak": {
         name: "Omak",
@@ -2055,7 +2055,7 @@ var country_properties = {
         name: "Spencer",
         name_english: "Spencer",
         code: "us-ia",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "spokane": {
         name: "Spokane",
@@ -3200,7 +3200,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "omaha": {
-        relative_whitenoise: 0.99
+        relative_whitenoise: 0.95
     },
     "omak": {
         relative_whitenoise: 0.95
@@ -6041,7 +6041,7 @@ var cities = [
         "country": "omaha",
         "x": "-282.242",
         "y": "75",
-        "z": "-13517.8"
+        "z": "-12017.8"
     },
     {
         "gameName": "omak",
@@ -9981,7 +9981,7 @@ var country_properties_c2c = {
         name: "worthington_mn",
         name_english: "worthington_mn",
         code: "us-mn",
-        relative_radius: 0.6
+        relative_radius: 0.5
     },
     "mississippi": {
         name: "mississippi",
@@ -11939,7 +11939,7 @@ var cities_c2c = [
         "country": "worthington_mn",
         "x": "3612.22",
         "y": "111.855",
-        "z": "-26280.8"
+        "z": "-26880.8"
     },
     {
         "gameName": "grenada_ms",
