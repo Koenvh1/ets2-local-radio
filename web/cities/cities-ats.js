@@ -1527,7 +1527,7 @@ var country_properties = {
         name: "Omaha",
         name_english: "Omaha",
         code: "us-ne",
-        relative_radius: 0.8
+        relative_radius: 0.82
     },
     "omak": {
         name: "Omak",
@@ -3200,7 +3200,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "omaha": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.80
     },
     "omak": {
         relative_whitenoise: 0.95
@@ -6039,9 +6039,9 @@ var cities = [
         "gameName": "omaha",
         "realName": "Omaha",
         "country": "omaha",
-        "x": "-282.242",
+        "x": "382.242",
         "y": "75",
-        "z": "-12017.8"
+        "z": "-12617.8"
     },
     {
         "gameName": "omak",

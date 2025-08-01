@@ -54511,8 +54511,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
-            name: "Christmas 105.3",
-            logo: "stations/images-america/c2c/norfolk_va/Christmas 105.3.png",
+            name: "105.3 The Breeze",
+            logo: "stations/images-america/c2c/norfolk_va/105.3 The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc4900/hls.m3u8"
         },
         {
