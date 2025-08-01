@@ -8733,16 +8733,6 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
-            name: "92.9 The Bull",
-            logo: "stations/images-america/topeka/92.9 The Bull.png",
-            url: "https://ice23.securenetsystems.net/KMXNFM"
-        },
-        {
-            name: "94.5 Country",
-            logo: "stations/images-america/topeka/94.5 Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
-        },
-        {
             name: "96.1 BOB FM",
             logo: "stations/images-america/emporia/96.1 BOB FM.png",
             url: "https://ice41.securenetsystems.net/KANS"
@@ -8788,21 +8778,6 @@ var stations = {/*
             url: "http://streaming.live365.com/a71179_2"
         },
         {
-            name: "Country 106.9",
-            logo: "stations/images-america/topeka/Country 106.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
-        },
-        {
-            name: "Majic 107.7",
-            logo: "stations/images-america/topeka/Majic 107.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
-        },
-        {
-            name: "580 WIBW",
-            logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
-        },
-        {
             name: "The Fan 610",
             logo: "stations/images-america/kansas_city/The Fan 610.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
@@ -8821,11 +8796,6 @@ var stations = {/*
             name: "KSAL 1150",
             logo: "stations/images-america/salina_ks/KSAL 1150.png",
             url: "https://ice23.securenetsystems.net/KSALAM"
-        },
-        {
-            name: "KOFO 1220",
-            logo: "stations/images-america/topeka/KOFO 1220.png",
-            url: "http://84.32.44.251/index.php?u=http://ice42.securenetsystems.net/KOFO"
         },
         {
             name: "KFH Radio 1240",
@@ -8851,16 +8821,6 @@ var stations = {/*
             name: "KJCK 1420",
             logo: "stations/images-america/junction_city/KJCK.png",
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KJCKAM"
-        },
-        {
-            name: "KMAJ 1440",
-            logo: "stations/images-america/topeka/KMAJ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC_SC"
-        },
-        {
-            name: "1490 KTOP",
-            logo: "stations/images-america/topeka/1490 KTOP.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPAMAAC_SC"
         },
     ],
     "enid": [
@@ -28528,6 +28488,157 @@ var stations = {/*
             url: "https://phoebe.streamerr.co:3630/stream.mp3"
         },
     ],
+    "topeka": [
+        {
+            name: "Family Life Radio 88.1",
+            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
+            url: "https://icecast.streammyflr.org/FLRstream"
+        },
+        {
+            name: "K-LOVE 88.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "CSN Radio 89.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "afr Hybrid 90.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+        },
+        {
+            name: "KPR 91.5",
+            logo: "stations/images-america/0_general_logos/KPR.png",
+            url: "https://streaming.kansaspublicradio.org:8001/kpr1"
+        },
+        {
+            name: "KPR 91.5-HD2",
+            logo: "stations/images-america/0_general_logos/KPR.png",
+            url: "https://streaming.kansaspublicradio.org:8001/kpr2"
+        },
+        {
+            name: "PPB 91.9",
+            logo: "stations/images-america/0_general_logos/PPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
+        },
+        {
+            name: "Air1 92.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "Bott Radio 92.5",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "92.9 The Bull",
+            logo: "stations/images-america/topeka/92.9 The Bull.png",
+            url: "https://ice23.securenetsystems.net/KMXNFM"
+        },
+        {
+            name: "93.5 KMAJ",
+            logo: "stations/images-america/topeka/KMAJ.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC.aac"
+        },
+        {
+            name: "96.9 The Pulse",
+            logo: "stations/images-america/topeka/96.9 The Pulse.png",
+            url: "https://us9.maindigitalstream.com/ssl/KOZA"
+        },
+        {
+            name: "KFGB 97.7",
+            logo: "stations/images-america/topeka/KFGB 97.7.png",
+            url: "https://s.radiowave.io/kfgb.opus"
+        },
+        {
+            name: "98.5 Jack FM",
+            logo: "stations/images-america/topeka/98.5 Jack FM.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksajfmaac-ibc4"
+        },
+        {
+            name: "99.3 The Eagle",
+            logo: "stations/images-america/topeka/99.3 The Eagle.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWICFMAAC_SC"
+        },
+        {
+            name: "102.9 Cat Country",
+            logo: "stations/images-america/topeka/102.9 Cat Country.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPFMAAC_SC"
+        },
+        {
+            name: "103.9 KNZA",
+            logo: "stations/images-america/topeka/103.9 KNZA.png",
+            url: "https://us9.maindigitalstream.com/ssl/knza"
+        },
+        {
+            name: "WIBW 104.9",
+            logo: "stations/images-america/topeka/WIBW.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+        },
+        {
+            name: "NOAA Weather Radio Topeka",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxradio.org/KS-Topeka-WXK91-alt1"
+        },
+        {
+            name: "KOFO 1220",
+            logo: "stations/images-america/topeka/KOFO 1220.png",
+            url: "http://84.32.44.251/index.php?u=http://ice42.securenetsystems.net/KOFO"
+        },
+        {
+            name: "KLWN 1320",
+            logo: "stations/images-america/topeka/KLWN 1320.png",
+            url: "https://ice23.securenetsystems.net/KLWNAM"
+        },
+    ],
+    "topeka_carbondale": [
+        {
+            name: "94.5 Country",
+            logo: "stations/images-america/topeka/94.5 Country.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
+        },
+        {
+            name: "V100",
+            logo: "stations/images-america/topeka/V100.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDVVFMAAC_SC"
+        },
+        {
+            name: "Country 106.9",
+            logo: "stations/images-america/topeka/Country 106.9.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
+        },
+        {
+            name: "Majic 107.7",
+            logo: "stations/images-america/topeka/Majic 107.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
+        },
+        {
+            name: "580 WIBW",
+            logo: "stations/images-america/topeka/WIBW.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+        },
+        {
+            name: "1440 KMAJ",
+            logo: "stations/images-america/topeka/KMAJ.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC_SC"
+        },
+        {
+            name: "1490 KTOP",
+            logo: "stations/images-america/topeka/1490 KTOP.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPAMAAC_SC"
+        },
+    ],
+    "topeka_lawrence": [
+        {
+            name: "105.9 KISS FM",
+            logo: "stations/images-america/topeka/105.9 KISS FM.png",
+            url: "https://ice23.securenetsystems.net/KKSWFM"
+        },
+    ],
     "truckee": [
         {
             name: "KUNR 88.7",
@@ -40450,153 +40561,6 @@ var stations = {/*
             name: "KEYE 1400",
             logo: "stations/images-america/canadian/KEYE 1400.png",
             url: "https://ice5.securenetsystems.net/KEYEAM"
-        },
-    ],
-    "topeka": [
-        {
-            name: "Family Life Radio 88.1",
-            logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
-        },
-        {
-            name: "K-LOVE 88.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "CSN Radio 89.5",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
-        },
-        {
-            name: "afr Hybrid 90.3",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
-        },
-        {
-            name: "KPR 91.5",
-            logo: "stations/images-america/0_general_logos/KPR.png",
-            url: "https://streaming.kansaspublicradio.org:8001/kpr1"
-        },
-        {
-            name: "KPR 91.5-HD2",
-            logo: "stations/images-america/0_general_logos/KPR.png",
-            url: "https://streaming.kansaspublicradio.org:8001/kpr2"
-        },
-        {
-            name: "PPB 91.9",
-            logo: "stations/images-america/0_general_logos/PPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
-        },
-        {
-            name: "Air1 92.1",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "Bott Radio 92.5",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
-        },
-        {
-            name: "92.9 The Bull",
-            logo: "stations/images-america/topeka/92.9 The Bull.png",
-            url: "https://ice23.securenetsystems.net/KMXNFM"
-        },
-        {
-            name: "93.5 KMAJ",
-            logo: "stations/images-america/topeka/KMAJ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC.aac"
-        },
-        {
-            name: "94.5 Country",
-            logo: "stations/images-america/topeka/94.5 Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
-        },
-        {
-            name: "96.9 The Pulse",
-            logo: "stations/images-america/topeka/96.9 The Pulse.png",
-            url: "https://us9.maindigitalstream.com/ssl/KOZA"
-        },
-        {
-            name: "KFGB 97.7",
-            logo: "stations/images-america/topeka/KFGB 97.7.png",
-            url: "https://s.radiowave.io/kfgb.opus"
-        },
-        {
-            name: "98.5 Jack FM",
-            logo: "stations/images-america/topeka/98.5 Jack FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksajfmaac-ibc4"
-        },
-        {
-            name: "99.3 The Eagle",
-            logo: "stations/images-america/topeka/99.3 The Eagle.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWICFMAAC_SC"
-        },
-        {
-            name: "V100",
-            logo: "stations/images-america/topeka/V100.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDVVFMAAC_SC"
-        },
-        {
-            name: "102.9 Cat Country",
-            logo: "stations/images-america/topeka/102.9 Cat Country.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPFMAAC_SC"
-        },
-        {
-            name: "103.9 KNZA",
-            logo: "stations/images-america/topeka/103.9 KNZA.png",
-            url: "https://us9.maindigitalstream.com/ssl/knza"
-        },
-        {
-            name: "WIBW 104.9",
-            logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
-        },
-        {
-            name: "105.9 KISS FM",
-            logo: "stations/images-america/topeka/105.9 KISS FM.png",
-            url: "https://ice23.securenetsystems.net/KKSWFM"
-        },
-        {
-            name: "Country 106.9",
-            logo: "stations/images-america/topeka/Country 106.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
-        },
-        {
-            name: "Majic 107.7",
-            logo: "stations/images-america/topeka/Majic 107.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
-        },
-        {
-            name: "NOAA Weather Radio Topeka",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://wxradio.org/KS-Topeka-WXK91-alt1"
-        },
-        {
-            name: "580 WIBW",
-            logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
-        },
-        {
-            name: "KOFO 1220",
-            logo: "stations/images-america/topeka/KOFO 1220.png",
-            url: "http://84.32.44.251/index.php?u=http://ice42.securenetsystems.net/KOFO"
-        },
-        {
-            name: "KLWN 1320",
-            logo: "stations/images-america/topeka/KLWN 1320.png",
-            url: "https://ice23.securenetsystems.net/KLWNAM"
-        },
-        {
-            name: "1440 KMAJ",
-            logo: "stations/images-america/topeka/KMAJ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJAMAAC_SC"
-        },
-        {
-            name: "1490 KTOP",
-            logo: "stations/images-america/topeka/1490 KTOP.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTOPAMAAC_SC"
         },
     ],
     "bowling_green": [
