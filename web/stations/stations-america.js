@@ -53241,7 +53241,7 @@ var stations = {/*
         {
             name: "Star 107.7",
             logo: "stations/images-america/c2c/jackson_tn/Star 107.7.png",
-            url: "https://ice23.securenetsystems.net/WHHM"
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/WHHM"
         },
         {
             name: "Sports 56",
@@ -53869,7 +53869,7 @@ var stations = {/*
         {
             name: "K-LOVE 104.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "Activa 105.1",
