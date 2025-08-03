@@ -3175,11 +3175,6 @@ var stations = {/*
             url: "https://ypr.streamguys1.com/live-3aac"
         },
         {
-            name: "My 103.5",
-            logo: "stations/images-america/bozeman/My 103.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kzmyfmaac-ibc3"
-        },
-        {
             name: "104.1 K281CX",
             logo: "stations/images-america/bozeman/97.5 The Zone.png",
             url: "http://desertmountainbroadcasting.streamguys1.com/KOZB-FM"
@@ -3218,6 +3213,13 @@ var stations = {/*
             name: "1410 KYWL",
             logo: "stations/images-america/bozeman/97.5 The Zone.png",
             url: "http://desertmountainbroadcasting.streamguys1.com//KOZB-FM"
+        },
+    ],
+    "bozeman_kzmy": [
+        {
+            name: "My 103.5",
+            logo: "stations/images-america/bozeman/My 103.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
     ],
     "brawley": [
@@ -49635,9 +49637,9 @@ var stations = {/*
             url: "https://ice7.securenetsystems.net/WFCJHD2"
         },
         {
-            name: "FM 94.5",
-            logo: "stations/images-america/c2c/dayton_oh/FM 94.5.png",
-            url: "https://ice25.securenetsystems.net/WYDB"
+            name: "94.5 The Oasis",
+            logo: "stations/images-america/c2c/cincinnati_oh/The Oasis.png",
+            url: "https://ais-sa1.streamon.fm/7643_128k.aac"
         },
         {
             name: "95.3 The Eagle",
@@ -51297,14 +51299,14 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/sunbury-wqkxfmaac-imc2"
         },
         {
-            name: "Rock 94.9",
-            logo: "stations/images-america/c2c/williamsport_pa/Rock 94.9.png",
-            url: "https://stream.revma.ihrhls.com/zc6674/hls.m3u8"
-        },
-        {
             name: "BILL 95",
             logo: "stations/images-america/c2c/williamsport_pa/BILL 95.png",
             url: "https://stream.revma.ihrhls.com/zc2041/hls.m3u8"
+        },
+        {
+            name: "ROCK 95.5",
+            logo: "stations/images-america/c2c/williamsport_pa/ROCK 95.5.png",
+            url: "https://stream.revma.ihrhls.com/zc6674/hls.m3u8"
         },
         {
             name: "V97",

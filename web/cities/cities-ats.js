@@ -219,7 +219,7 @@ var country_properties = {
         name: "Billings",
         name_english: "Billings",
         code: "us-mt",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "bluff": {
         name: "Bluff",
@@ -249,7 +249,13 @@ var country_properties = {
         name: "Bozeman",
         name_english: "Bozeman",
         code: "us-mt",
-        relative_radius: 0.9
+        relative_radius: 1.0
+    },
+    "bozeman_kzmy": {
+        name: "Bozeman",
+        name_english: "Bozeman",
+        code: "us-mt",
+        relative_radius: 1.0
     },
     "brawley": {
         name: "Brawley",
@@ -297,19 +303,13 @@ var country_properties = {
         name: "Butte",
         name_english: "Butte",
         code: "us-mt",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "butte_north": {
         name: "Butte",
         name_english: "Butte",
         code: "us-mt",
-        relative_radius: 0.7
-    },
-    "butte_east": {
-        name: "Butte",
-        name_english: "Butte",
-        code: "us-mt",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "canadian": {
         name: "Canadian",
@@ -567,7 +567,7 @@ var country_properties = {
         name: "Dillon",
         name_english: "Dillon",
         code: "us-mt",
-        relative_radius: 0.6
+        relative_radius: 1.0
     },
     "dodge_city": {
         name: "Dodge City",
@@ -927,7 +927,7 @@ var country_properties = {
         name: "Helena",
         name_english: "Helena",
         code: "us-mt",
-        relative_radius: 0.7
+        relative_radius: 1.0
     },
     "hillcrest": {
         name: "Hillcrest",
@@ -1198,12 +1198,6 @@ var country_properties = {
         name_english: "South Las Vegas",
         code: "us-nv",
         relative_radius: 0.8
-    },
-    "laurel": {
-        name: "Laurel",
-        name_english: "Laurel",
-        code: "us-mt",
-        relative_radius: 0.9
     },
     "lawton": {
         name: "Lawton",
@@ -2489,7 +2483,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "billings": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "bluff": {
         relative_whitenoise: 0.95
@@ -2505,7 +2499,11 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "bozeman": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
+    },
+    "bozeman_kzmy": {
+        relative_whitenoise: 0.85
     },
     "brawley": {
 		relative_radius: 0.8,
@@ -2532,14 +2530,11 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "butte": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.9
     },
     "butte_north": {
 		relative_radius: 0.4,
-        relative_whitenoise: 0.85
-    },
-    "butte_east": {
-		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "canadian": {
@@ -2682,7 +2677,8 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "dillon": {
-        relative_whitenoise: 0.85
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
     },
     "dodge_city": {
         relative_radius: 0.9,
@@ -2885,6 +2881,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "helena": {
+		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "hillcrest": {
@@ -3039,10 +3036,6 @@ var city_properties = {
     "south_las_vegas": {
         relative_radius: 0.5,
         relative_whitenoise: 0.80
-    },
-    "laurel": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.85
     },
     "lawton": {
         relative_whitenoise: 0.95
@@ -4088,6 +4081,22 @@ var cities = [
         "z": "-41966.3"
     },
     {
+        "gameName": "bozeman",
+        "realName": "Bozeman",
+        "country": "bozeman_kzmy",
+        "x": "-57979.1",
+        "y": "124.777",
+        "z": "-41966.3"
+    },
+    {
+        "gameName": "bozeman_kzmy",
+        "realName": "Bozeman",
+        "country": "bozeman_kzmy",
+        "x": "-60079.1",
+        "y": "124.777",
+        "z": "-44066.3"
+    },
+    {
         "gameName": "brawley",
         "realName": "Brawley",
         "country": "brawley",
@@ -4182,22 +4191,6 @@ var cities = [
         "x": "-63813.1",
         "y": "155.58",
         "z": "-46794"
-    },
-    {
-        "gameName": "butte_east",
-        "realName": "Butte",
-        "country": "butte",
-        "x": "-62900.5",
-        "y": "175.298",
-        "z": "-43777.3"
-    },
-    {
-        "gameName": "butte_east",
-        "realName": "Butte",
-        "country": "bozeman",
-        "x": "-62900.5",
-        "y": "175.298",
-        "z": "-43777.3"
     },
     {
         "gameName": "canadian",
@@ -5550,14 +5543,6 @@ var cities = [
         "x": "-51219.6",
         "y": "100.943",
         "z": "33813.9"
-    },
-    {
-        "gameName": "laurel",
-        "realName": "Laurel",
-        "country": "billings",
-        "x": "-50371.4",
-        "y": "91.3828",
-        "z": "-40981.6"
     },
     {
         "gameName": "lawton",
