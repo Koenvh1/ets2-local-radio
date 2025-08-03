@@ -53049,17 +53049,17 @@ var stations = {/*
         {
             name: "93.3 The Dawg",
             logo: "stations/images-america/c2c/cookeville_tn/93.3 The Dawg.png",
-            url: "https://ice24.securenetsystems.net/WKXDHD2"
+            url: "https://stonecomradio.streamguys1.com/933thedawg"
         },
         {
             name: "Rock 93.7",
             logo: "stations/images-america/c2c/cookeville_tn/Rock 93.7.png",
-            url: "http://ice66.securenetsystems.net/WBXE"
+            url: "https://stonecomradio.streamguys1.com/rock937"
         },
         {
             name: "News Talk 94.1",
             logo: "stations/images-america/c2c/cookeville_tn/News Talk 94.1.png",
-            url: "http://ice66.securenetsystems.net/WUCT"
+            url: "https://stonecomradio.streamguys1.com/newstalk"
         },
         {
             name: "94.7 The Country Giant",
@@ -53069,12 +53069,12 @@ var stations = {/*
         {
             name: "Lite Rock 95.9",
             logo: "stations/images-america/c2c/cookeville_tn/Lite Rock 95.9.png",
-            url: "http://ice66.securenetsystems.net/WLQK"
+            url: "https://stonecomradio.streamguys1.com/literock959"
         },
         {
             name: "96.9 HWY 111 Country",
             logo: "stations/images-america/c2c/cookeville_tn/96.9 HWY 111 Country.png",
-            url: "https://ice23.securenetsystems.net/WUCH"
+            url: "https://stonecomradio.streamguys1.com/hwy111country"
         },
         {
             name: "98.5 KISS FM",
@@ -53089,12 +53089,12 @@ var stations = {/*
         {
             name: "102.9 The Buzz",
             logo: "stations/images-america/c2c/nashville_tn/102.9 The Buzz.png",
-            url: "http://84.32.44.251/index.php?u=https://cromwell-us.streamguys1.com/WBUZFM"
+            url: "http://84.32.44.251/index.php?u=https://cromwell-ice.streamguys1.com/WBUZFM-MP3"
         },
         {
             name: "Sports Radio 104.7",
             logo: "stations/images-america/c2c/cookeville_tn/Sports Radio 104.7.png",
-            url: "https://ice24.securenetsystems.net/WKXDHD3"
+            url: "https://stonecomradio.streamguys1.com/sportsradio1047"
         },
         {
             name: "105.5 The Mullet",
@@ -53109,7 +53109,7 @@ var stations = {/*
         {
             name: "106.9 Kicks Country",
             logo: "stations/images-america/c2c/cookeville_tn/106.9 Kicks Country.png",
-            url: "http://ice66.securenetsystems.net/WKXD"
+            url: "https://stonecomradio.streamguys1.com/1069kickscountry"
         },
         {
             name: "107.7 The HUB",
@@ -53119,7 +53119,7 @@ var stations = {/*
         {
             name: "WLIV 920",
             logo: "stations/images-america/c2c/cookeville_tn/WLIV 920.png",
-            url: "https://ice23.securenetsystems.net/WLIV"
+            url: "https://stonecomradio.streamguys1.com/wliv"
         },
         {
             name: "WSMT 1050",
@@ -53844,7 +53844,7 @@ var stations = {/*
         {
             name: "102.9 The Buzz",
             logo: "stations/images-america/c2c/nashville_tn/102.9 The Buzz.png",
-            url: "http://84.32.44.251/index.php?u=https://cromwell-us.streamguys1.com/WBUZFM"
+            url: "http://84.32.44.251/index.php?u=https://cromwell-ice.streamguys1.com/WBUZFM-MP3"
         },
         {
             name: "102.9 WBUZ-HD3",
