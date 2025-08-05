@@ -173,8 +173,8 @@ var stations = {/*
             url: "https://bonneville.cdnstream1.com/2642_48.aac"
         },
         {
-            name: "AM 770 KTTH",
-            logo: "stations/images-america/seattle/AM 770 KTTH.png",
+            name: "Seattle Red 770",
+            logo: "stations/images-america/seattle/Seattle Red 770.png",
             url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
@@ -7641,8 +7641,8 @@ var stations = {/*
             url: "https://ice7.securenetsystems.net/KAPS"
         },
         {
-            name: "AM 770 KTTH",
-            logo: "stations/images-america/seattle/AM 770 KTTH.png",
+            name: "Seattle Red 770",
+            logo: "stations/images-america/seattle/Seattle Red 770.png",
             url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
     ],
@@ -16339,8 +16339,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a28050"
         },
         {
-            name: "Go Country Gold 105.1-HD4",
-            logo: "stations/images-america/los_angeles/Go Country Gold 105.1-HD4.png",
+            name: "105.1-HD4 The Surf",
+            logo: "stations/images-america/los_angeles/105.1-HD4 The Surf.png",
             url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a72131"
         },
         {
@@ -25563,7 +25563,7 @@ var stations = {/*
         },
         {
             name: "97.3 KIRO-HD3",
-            logo: "stations/images-america/seattle/AM 770 KTTH.png",
+            logo: "stations/images-america/seattle/Seattle Red 770.png",
             url: "http://bonneville.cdnstream1.com/2696_48.aac"
         },
         {
@@ -25732,8 +25732,8 @@ var stations = {/*
             url: "https://bonneville.cdnstream1.com/2642_48.aac"
         },
         {
-            name: "AM 770 KTTH",
-            logo: "stations/images-america/seattle/AM 770 KTTH.png",
+            name: "Seattle Red 770",
+            logo: "stations/images-america/seattle/Seattle Red 770.png",
             url: "https://bonneville.cdnstream1.com/2696_48.aac"
         },
         {

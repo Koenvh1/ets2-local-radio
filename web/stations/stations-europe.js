@@ -5651,6 +5651,11 @@ var stations = {/*
             url: "https://astreaming.ecofm.md:8443/ecoFM"
         },
         {
+            name: "Europa Plus",
+            logo: "stations/images-europe/moldova/Europa Plus.png",
+            url: "http://217.26.167.180:8081/broadwave.mp3"
+        },
+        {
             name: "KISS FM",
             logo: "stations/images-europe/moldova/Kiss FM.png",
             url: "https://live.kissfm.md/kissfm.chisinau"
