@@ -4484,7 +4484,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 90.3",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -7301,7 +7301,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 100.3",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -14401,7 +14401,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 90.7",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -19957,7 +19957,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 91.7",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -22575,7 +22575,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 97.1",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -25835,7 +25835,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 90.1",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -30843,7 +30843,7 @@ var stations = {/*
     "willow_springs": [
         {
             name: "Spirit FM 89.9",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
             url: "https://nwm-live.streamguys1.com/kcvo-aac"
         },
         {
@@ -54214,7 +54214,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 90.1",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Virginia.png",
             url: "https://positivealtradio.streamguys1.com/wrxt"
         },
         {
@@ -54438,7 +54438,7 @@ var stations = {/*
         },
         {
             name: "Spirit FM 103.3",
-            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            logo: "stations/images-america/0_general_logos/Spirit FM Virginia.png",
             url: "https://positivealtradio.streamguys1.com/wrxt"
         },
         {
