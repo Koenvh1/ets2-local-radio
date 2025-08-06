@@ -16174,6 +16174,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC_SC"
         },
         {
+            name: "RAIN FM 93.9-HD2",
+            logo: "stations/images-america/los_angeles/RAIN FM.png",
+            url: "https://onair1.radioseoul1650.com/rainfm.mp3"
+        },
+        {
             name: "94.7 The Wave",
             logo: "stations/images-america/los_angeles/94.7 The Wave.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
@@ -54196,6 +54201,138 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
     ],
+    "charlottesville_va": [
+        {
+            name: "Radio IQ 88.5",
+            logo: "stations/images-america/0_general_logos/Radio IQ.png",
+            url: "http://wvtf-ice.streamguys1.com/radioiq-aac-128"
+        },
+        {
+            name: "WVTF Music 89.7",
+            logo: "stations/images-america/c2c/roanoke_va/WVTF Music 89.1.png",
+            url: "http://wvtf-ice.streamguys1.com/wvtfmusic-aac-128"
+        },
+        {
+            name: "Spirit FM 90.1",
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://positivealtradio.streamguys1.com/wrxt"
+        },
+        {
+            name: "WTJU 91.1",
+            logo: "stations/images-america/c2c/charlottesville_va/WTJU 91.1.png",
+            url: "https://streams.wtju.net/wtju-live.mp3"
+        },
+        {
+            name: "WNRN 91.9",
+            logo: "stations/images-america/0_general_logos/WNRN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_SC"
+        },
+        {
+            name: "RockHits 92.3",
+            logo: "stations/images-america/c2c/charlottesville_va/RockHits 92.3.png",
+            url: "https://ice64.securenetsystems.net/WXRK"
+        },
+        {
+            name: "C-Ville Country 92.7",
+            logo: "stations/images-america/c2c/charlottesville_va/C-Ville Country 92.7.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wcvlfmaac-ibc1"
+        },
+        {
+            name: "94.1 The Oasis",
+            logo: "stations/images-america/c2c/charlottesville_va/94.1 The Oasis.png",
+            url: "https://ice26.securenetsystems.net/WKAV"
+        },
+        {
+            name: "Z95.1",
+            logo: "stations/images-america/c2c/charlottesville_va/Z95.1.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wqmzfmaac-ibc1"
+        },
+        {
+            name: "BBN 95.9",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "Joy FM 96.3",
+            logo: "stations/images-america/c2c/charlottesville_va/Joy FM.png",
+            url: "http://positivealtradio.streamguys1.com/wxri"
+        },
+        {
+            name: "97.5 3WV",
+            logo: "stations/images-america/c2c/charlottesville_va/97.5 3WV.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wwwvfmaac-ibc1"
+        },
+        {
+            name: "97.9 The WREN",
+            logo: "stations/images-america/c2c/charlottesville_va/97.9 The WREN.png",
+            url: "https://ice64.securenetsystems.net/WREN"
+        },
+        {
+            name: "WINA 98.9",
+            logo: "stations/images-america/c2c/charlottesville_va/WINA.png",
+            url: "https://live.amperwave.net/manifest/saga-winaamaac-ibc1"
+        },
+        {
+            name: "99.3 W300DV",
+            logo: "stations/images-america/c2c/charlottesville_va/cVille 107.5.png",
+            url: "https:///ice26.securenetsystems.net/WCHV"
+        },
+        {
+            name: "99.7 CYK",
+            logo: "stations/images-america/c2c/charlottesville_va/99.7 CYK.png",
+            url: "https://ice26.securenetsystems.net/WCYK"
+        },
+        {
+            name: "WXTJ 100.1",
+            logo: "stations/images-america/c2c/charlottesville_va/WXTJ 100.1.png",
+            url: "https://streams.wtju.net/wxtj-live.mp3"
+        },
+        {
+            name: "101.3 Jamz",
+            logo: "stations/images-america/c2c/charlottesville_va/101.3 Jamz.png",
+            url: "https://ice64.securenetsystems.net/WVAI"
+        },
+        {
+            name: "HOT 101.9",
+            logo: "stations/images-america/c2c/charlottesville_va/HOT 101.9.png",
+            url: "https://ice25.securenetsystems.net/WHTE"
+        },
+        {
+            name: "102.3 The Hook",
+            logo: "stations/images-america/c2c/charlottesville_va/102.3 The Hook.png",
+            url: "https://stream.zeno.fm/v5e4uj9z812uv"
+        },
+        {
+            name: "WMRA 103.5",
+            logo: "stations/images-america/0_general_logos/WMRA.png",
+            url: "https://streams.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad"
+        },
+        {
+            name: "104.9 W285EF",
+            logo: "stations/images-america/c2c/charlottesville_va/HOT 101.9.png",
+            url: "http://ice25.securenetsystems.net/WHTE"
+        },
+        {
+            name: "105.5 SAM FM",
+            logo: "stations/images-america/c2c/charlottesville_va/105.5 SAM FM.png",
+            url: "https://live.amperwave.net/manifest/piedmontcomm-wojlfmaac-ibc1"
+        },
+        {
+            name: "cVille 107.5",
+            logo: "stations/images-america/c2c/charlottesville_va/cVille 107.5.png",
+            url: "https://ice26.securenetsystems.net/WCHV"
+        },
+        {
+            name: "WINA 1070",
+            logo: "stations/images-america/c2c/charlottesville_va/WINA.png",
+            url: "https://live.amperwave.net/direct/saga-winaamaac-ibc1"
+        },
+        {
+            name: "1490 WKAV",
+            logo: "stations/images-america/c2c/charlottesville_va/94.1 The Oasis.png",
+            url: "http://ice26.securenetsystems.net/WKAV"
+        },
+    ],
     "fredericksburg_va": [
         {
             name: "Radio IQ 94.9",
@@ -54236,8 +54373,8 @@ var stations = {/*
         },
         {
             name: "WMRA 90.7",
-            logo: "stations/images-america/c2c/harrisonburg_va/WMRA 94.5.png",
-            url: "http://media.wmra.org:8000/wmra"
+            logo: "stations/images-america/0_general_logos/WMRA.png",
+            url: "https://streams.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad"
         },
         {
             name: "WEMC 91.7",
@@ -54261,7 +54398,7 @@ var stations = {/*
         },
         {
             name: "WNRN 95.1",
-            logo: "stations/images-america/c2c/harrisonburg_va/WNRN 95.1.png",
+            logo: "stations/images-america/0_general_logos/WNRN.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM_SC"
         },
         {
@@ -54298,6 +54435,11 @@ var stations = {/*
             name: "K-LOVE 102.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Spirit FM 103.3",
+            logo: "stations/images-america/0_general_logos/Spirit FM.png",
+            url: "https://positivealtradio.streamguys1.com/wrxt"
         },
         {
             name: "BBN 103.9",

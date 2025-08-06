@@ -10518,6 +10518,12 @@ var country_properties_c2c = {
         code: "us-va",
         relative_radius: 0.9
     },
+    "charlottesville_va": {
+        name: "Charlottesville",
+        name_english: "Charlottesville",
+        code: "us-va",
+        relative_radius: 0.5
+    },
     "fredericksburg_va": {
         name: "Fredericksburg, VA",
         name_english: "Fredericksburg, VA",
@@ -10528,7 +10534,7 @@ var country_properties_c2c = {
         name: "harrisonburg_va",
         name_english: "harrisonburg_va",
         code: "us-va",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "norfolk": {
         name: "norfolk",
@@ -10546,7 +10552,7 @@ var country_properties_c2c = {
         name: "roanoke_va",
         name_english: "roanoke_va",
         code: "us-va",
-        relative_radius: 0.9
+        relative_radius: 0.6
     },
     "wytheville_va": {
         name: "wytheville_va",
@@ -11130,23 +11136,26 @@ var city_properties_c2c = {
     "lebanon_nh": {
         relative_whitenoise: 0.85
     },
+    "charlottesville_va": {
+        relative_whitenoise: 0.95
+    },
     "fredericksburg_va": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "harrisonburg_va": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "norfolk": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "richmond_va": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "roanoke_va": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "wytheville_va": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "charleston_wv": {
         relative_radius: 0.8,
@@ -12579,6 +12588,14 @@ var cities_c2c = [
         "z": "-39177.6"
     },
     {
+        "gameName": "charlottesville_va",
+        "realName": "Charlottesville",
+        "country": "charlottesville_va",
+        "x": "74952.3",
+        "y": "60.531",
+        "z": "-1239.93"
+    },
+    {
         "gameName": "fredericksburg_va",
         "realName": "Fredericksburg",
         "country": "fredericksburg_va",
@@ -12590,9 +12607,9 @@ var cities_c2c = [
         "gameName": "harrisonburg_va",
         "realName": "Harrisonburg",
         "country": "harrisonburg_va",
-        "x": "75155.6",
-        "y": "61.5765",
-        "z": "-5940.08"
+        "x": "76355.7",
+        "y": "46.6686",
+        "z": "-5788.03"
     },
     {
         "gameName": "norfolk",
