@@ -54594,8 +54594,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wwrefmaac-ibc2"
         },
         {
-            name: "WKCY 107.9",
-            logo: "stations/images-america/c2c/harrisonburg_va/WKCY 107.9.png",
+            name: "107.9 WKCY",
+            logo: "stations/images-america/c2c/harrisonburg_va/107.9 WKCY.png",
             url: "https://stream.revma.ihrhls.com/zc4176/hls.m3u8"
         },
         {
@@ -54604,8 +54604,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//saga-wsvaamaac-ibc2"
         },
         {
-            name: "WKCY 1300",
-            logo: "stations/images-america/c2c/harrisonburg_va/WKCY 107.9.png",
+            name: "1300 WKCY",
+            logo: "stations/images-america/c2c/harrisonburg_va/107.9 WKCY.png",
             url: "http://stream.revma.ihrhls.com/zc4176/hls.m3u8"
         },
         {
