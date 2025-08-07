@@ -10506,10 +10506,16 @@ var country_properties_c2c = {
         code: "us-vt",
         relative_radius: 0.7
     },
+    "hagerstown_md": {
+        name: "Hagerstown",
+        name_english: "Hagerstown",
+        code: "us-md",
+        relative_radius: 0.6
+    },
     "lebanon_nh": {
         name: "Lebanon",
         name_english: "Lebanon",
-        code: "us-vt",
+        code: "us-nh",
         relative_radius: 0.7
     },
     "virginia": {
@@ -11132,6 +11138,9 @@ var city_properties_c2c = {
     },
     "burlington_vt": {
         relative_whitenoise: 0.85
+    },
+    "hagerstown_md": {
+        relative_whitenoise: 0.95
     },
     "lebanon_nh": {
         relative_whitenoise: 0.85
@@ -12578,6 +12587,14 @@ var cities_c2c = [
         "x": "91517.3",
         "y": "99.2422",
         "z": "-42651.6"
+    },
+    {
+        "gameName": "hagerstown_md",
+        "realName": "Hagerstown",
+        "country": "hagerstown_md",
+        "x": "78665.1",
+        "y": "63.0946",
+        "z": "-12007.7"
     },
     {
         "gameName": "lebanon_nh",

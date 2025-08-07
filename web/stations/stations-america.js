@@ -1622,7 +1622,7 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
-            name: "104.9 KTXX-FM",
+            name: "104.9 KTXX",
             logo: "stations/images-america/austin/La Raza 95.1.png",
             url: "https://stream.zeno.fm/fv4tnyd6vxztv"
         },
@@ -24999,7 +24999,7 @@ var stations = {/*
             url: "http://www.streamcontrol.net:12010/stream"
         },
         {
-            name: "92.7 KEXC-FM",
+            name: "92.7 KEXC",
             logo: "stations/images-america/seattle/KEXP 90.3.png",
             url: "https://kexp-mp3-128.streamguys1.com/kexp128.mp3"
         },
@@ -42373,17 +42373,17 @@ var stations = {/*
         {
             name: "WYPR 88.1",
             logo: "stations/images-america/c2c/baltimore_md/WYPR 88.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD1AAC_SC"
+            url: "https://wtmd-ice.streamguys1.com/wypr-1"
         },
         {
             name: "BBC World Service 88.1-HD2",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD2AAC_SC"
+            url: "https://wtmd-ice.streamguys1.com/wypr-2"
         },
         {
             name: "Classical 88.1-HD3",
             logo: "stations/images-america/c2c/baltimore_md/WYPR 88.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYPR_HD3AAC_SC"
+            url: "https://wtmd-ice.streamguys1.com/wypr-3"
         },
         {
             name: "WEAA 88.9",
@@ -50507,7 +50507,7 @@ var stations = {/*
     "harrisburg_pa": [
         {
             name: "88.1 Word FM",
-            logo: "stations/images-america/c2c/harrisburg_pa/88.1 Word FM.png",
+            logo: "stations/images-america/0_general_logos/Word FM.png",
             url: "https://ice23.securenetsystems.net/WORDFM"
         },
         {
@@ -51043,7 +51043,7 @@ var stations = {/*
         },
         {
             name: "96.9 W245AG",
-            logo: "stations/images-america/c2c/harrisburg_pa/88.1 Word FM.png",
+            logo: "stations/images-america/0_general_logos/Word FM.png",
             url: "https://ice23.securenetsystems.net/WORDFM"
         },
         {
@@ -53453,6 +53453,11 @@ var stations = {/*
             url: "https://stream.aiir.com/ptkm9nrmgrcvv"
         },
         {
+            name: "Talk 106.3",
+            logo: "stations/images-america/c2c/knoxville_tn/Talk 106.3.png",
+            url: "https://ice26.securenetsystems.net/WPFT"
+        },
+        {
             name: "WIVK 107.7",
             logo: "stations/images-america/c2c/knoxville_tn/WIVK 107.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIVKFMAAC_SC"
@@ -54142,6 +54147,138 @@ var stations = {/*
             name: "BBC World Service 107.9-HD3",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
             url: "https://vprbbc.streamguys1.com/vprbbc24.mp3"
+        },
+    ],
+    "hagerstown_md": [
+        {
+            name: "88.1 WYPF",
+            logo: "stations/images-america/c2c/baltimore_md/WYPR 88.1.png",
+            url: "https://wtmd-ice.streamguys1.com/wypr-1"
+        },
+        {
+            name: "89.1 WGMS",
+            logo: "stations/images-america/c2c/washington_dc/WETA 90.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WETAFMAAC_SC"
+        },
+        {
+            name: "90.5 The Compass",
+            logo: "stations/images-america/c2c/hagerstown_md/90.5 The Compass.png",
+            url: "https://ice23.securenetsystems.net/WCRH64"
+        },
+        {
+            name: "Southern Compass Radio 90.5-HD3",
+            logo: "stations/images-america/c2c/hagerstown_md/Southern Compass Radio 90.5-HD3.png",
+            url: "https://ice24.securenetsystems.net/WCRHHD3"
+        },
+        {
+            name: "91.7 Word FM",
+            logo: "stations/images-america/0_general_logos/Word FM.png",
+            url: "https://ice23.securenetsystems.net/WORDFM"
+        },
+        {
+            name: "92.1 The GOAT",
+            logo: "stations/images-america/c2c/hagerstown_md/92.1 The GOAT.png",
+            url: "https://dash.streamkast.co/proxy/verstandig3/wikgfm"
+        },
+        {
+            name: "94.3 WQCM",
+            logo: "stations/images-america/c2c/hagerstown_md/94.3 WQCM.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wqcmfmaac-ibc4"
+        },
+        {
+            name: "MIX 95.1",
+            logo: "stations/images-america/c2c/hagerstown_md/MIX 95.1.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wikzfmaac-ibc4"
+        },
+        {
+            name: "95.9 The Big Dawg",
+            logo: "stations/images-america/c2c/hagerstown_md/95.9 The Big Dawg.png",
+            url: "https://live.amperwave.net/direct/wvradio-wiclfmaac-ibc2"
+        },
+        {
+            name: "Live 96.7",
+            logo: "stations/images-america/c2c/hagerstown_md/Live 96.7.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wdldfmaac-ibc4"
+        },
+        {
+            name: "Today's 97.5",
+            logo: "stations/images-america/c2c/hagerstown_md/Today's 97.5.png",
+            url: "https://live.amperwave.net/manifest/wvradio-wltffmaac-ibc2"
+        },
+        {
+            name: "99.5 Word FM",
+            logo: "stations/images-america/0_general_logos/Word FM.png",
+            url: "http://ice23.securenetsystems.net/WORDFM"
+        },
+        {
+            name: "99.9 WFRE",
+            logo: "stations/images-america/c2c/hagerstown_md/99.9 WFRE.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFREFMAAC_SC"
+        },
+        {
+            name: "100.5 Max Country",
+            logo: "stations/images-america/c2c/hagerstown_md/100.5 Max Country.png",
+            url: "http://live.amperwave.net/direct/manningbroadcasting-wweghd3aac-ibc2"
+        },
+        {
+            name: "FOX Sports 100.9",
+            logo: "stations/images-america/c2c/hagerstown_md/FOX Sports Hagerstown.png",
+            url: "http://dash.streamkast.co/proxy/verstandig2/wlinam"
+        },
+        {
+            name: "101.5 BOB Rocks",
+            logo: "stations/images-america/c2c/hagerstown_md/101.5 BOB Rocks.png",
+            url: "https://dash.streamkast.co/proxy/verstandig4/wbhbfm"
+        },
+        {
+            name: "Fred FM 102.1",
+            logo: "stations/images-america/c2c/hagerstown_md/Fred FM 102.1.png",
+            url: "http://live.amperwave.net/direct/manningbroadcasting-wweghd2aac-ibc2"
+        },
+        {
+            name: "104.3 WJEJ",
+            logo: "stations/images-america/c2c/hagerstown_md/WJEJ.png",
+            url: "https://www.ophanim.net:8444/s/7900"
+        },
+        {
+            name: "104.7 WAYZ",
+            logo: "stations/images-america/c2c/hagerstown_md/104.7 WAYZ.png",
+            url: "https://dash.streamkast.co/proxy/verstandig1/wayzfm"
+        },
+        {
+            name: "106.9 The Eagle",
+            logo: "stations/images-america/c2c/hagerstown_md/106.9 The Eagle.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/manningbroadcasting-wwegfmaac-ibc2"
+        },
+        {
+            name: "106.9 WWEG-HD2",
+            logo: "stations/images-america/c2c/hagerstown_md/Fred FM 102.1.png",
+            url: "https://live.amperwave.net/direct/manningbroadcasting-wweghd2aac-ibc2"
+        },
+        {
+            name: "106.9 WWEG-HD3",
+            logo: "stations/images-america/c2c/hagerstown_md/100.5 Max Country.png",
+            url: "https://live.amperwave.net/direct/manningbroadcasting-wweghd3aac-ibc2"
+        },
+        {
+            name: "The Gamut 820",
+            logo: "stations/images-america/c2c/hagerstown_md/The Gamut 820.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWFDAMAAC_SC"
+        },
+        {
+            name: "930 WFMD",
+            logo: "stations/images-america/c2c/hagerstown_md/930 WFMD.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMDAMAAC_SC"
+        },
+        {
+            name: "WJEJ 1240",
+            logo: "stations/images-america/c2c/hagerstown_md/WJEJ.png",
+            url: "https:///www.ophanim.net:8444/s/7900"
+        },
+        {
+            name: "FOX Sports 1380",
+            logo: "stations/images-america/c2c/hagerstown_md/FOX Sports Hagerstown.png",
+            url: "https://dash.streamkast.co/proxy/verstandig2/wlinam"
         },
     ],
     "lebanon_nh": [
