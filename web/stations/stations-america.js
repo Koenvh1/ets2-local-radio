@@ -43015,8 +43015,8 @@ var stations = {/*
             url: "http://ice26.securenetsystems.net/WJIB"
         },
         {
-            name: "WEEI 850",
-            logo: "stations/images-america/c2c/boston_ma/WEEI 850.png",
+            name: "850 WEEI",
+            logo: "stations/images-america/c2c/boston_ma/850 WEEI.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-weeiamaac-imc"
         },
         {
