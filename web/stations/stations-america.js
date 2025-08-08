@@ -35991,7 +35991,7 @@ var stations = {/*
         },
         {
             name: "96.5 WPOW-HD2",
-            logo: "stations/images-america/c2c/miami_fl/560 WQAM.png",
+            logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct//audacy-wqamamaac-imc"
         },
         {
@@ -36060,9 +36060,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc581/hls.m3u8"
         },
         {
-            name: "104.3 The Shark",
-            logo: "stations/images-america/c2c/miami_fl/104.3 The Shark.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wsfsfmaac-imc"
+            name: "104.3 WQAM",
+            logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wqamamaac-imc"
         },
         {
             name: "The Bull 104.7",
@@ -36111,7 +36111,7 @@ var stations = {/*
         },
         {
             name: "560 WQAM",
-            logo: "stations/images-america/c2c/miami_fl/560 WQAM.png",
+            logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wqamamaac-imc"
         },
         {
@@ -42790,6 +42790,16 @@ var stations = {/*
             url: "https://streams.audio.wgbh.org/wgbh"
         },
         {
+            name: "89.7 WGBH-HD2",
+            logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
+            url: "http://wgbh-live.streamguys1.com/WCRB.mp3"
+        },
+        {
+            name: "89.7 WGBH-HD3",
+            logo: "stations/images-america/c2c/boston_ma/CAI.png",
+            url: "https://streams.audio.wgbh.org/wcai-itunes-256k.aac"
+        },
+        {
             name: "WZBC 90.3",
             logo: "stations/images-america/c2c/boston_ma/WZBC 90.3.png",
             url: "https://stream.rcast.net/65227"
@@ -42810,9 +42820,14 @@ var stations = {/*
             url: "https://nebcoradio.com:8443/WXRV"
         },
         {
-            name: "ROCK 92.9",
-            logo: "stations/images-america/c2c/boston_ma/ROCK 92.9.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFMAAC_SC"
+            name: "Bloomberg 92.9",
+            logo: "stations/images-america/c2c/boston_ma/Bloomberg 92.9.png",
+            url: "https://tunein.cdnstream1.com/3689_96.mp3"
+        },
+        {
+            name: "ROCK 92.9-HD2",
+            logo: "stations/images-america/c2c/boston_ma/Boston's ROCK.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFMAACIHR_SC"
         },
         {
             name: "WEEI 93.7",
@@ -42845,6 +42860,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBQTFMAAC_SC"
         },
         {
+            name: "Playa 96.9-HD2",
+            logo: "stations/images-america/c2c/boston_ma/Playa 96.9-HD2.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WYUUHD2AAC_SC"
+        },
+        {
             name: "Rumba 97.7",
             logo: "stations/images-america/c2c/boston_ma/Rumba 97.7.png",
             url: "https://stream.revma.ihrhls.com/zc7731/hls.m3u8"
@@ -42855,6 +42875,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFMAACHI_SC"
         },
         {
+            name: "Hubcast 98.5-HD2",
+            logo: "stations/images-america/c2c/boston_ma/Hubcast 98.5-HD2.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBZHD2AACHI_SC"
+        },
+        {
             name: "CRB 99.5",
             logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
             url: "https://wgbh-live.streamguys1.com/WCRB.mp3"
@@ -42863,6 +42888,16 @@ var stations = {/*
             name: "100.7 WZLX",
             logo: "stations/images-america/c2c/boston_ma/100.7 WZLX.png",
             url: "https://stream.revma.ihrhls.com/zc7730/hls.m3u8"
+        },
+        {
+            name: "100.7 WZLX-HD2",
+            logo: "stations/images-america/c2c/boston_ma/WRKO AM 680.png",
+            url: "http://stream.revma.ihrhls.com/zc7750/hls.m3u8"
+        },
+        {
+            name: "100.7 WZLX-HD3",
+            logo: "stations/images-america/c2c/boston_ma/Talk 1200.png",
+            url: "http://stream.revma.ihrhls.com/zc4705/hls.m3u8"
         },
         {
             name: "101.3 W267CE",
@@ -42915,6 +42950,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wwbxfmaac-imc"
         },
         {
+            name: "WAAF 104.1-HD2",
+            logo: "stations/images-america/c2c/boston_ma/WAAF.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/audacy-wwbxhd2aac-imc"
+        },
+        {
             name: "104.5 XLO",
             logo: "stations/images-america/c2c/manchester_nh/104.5 XLO.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXLOFMAAC_SC"
@@ -42930,9 +42970,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRORFMAAC_SC"
         },
         {
-            name: "Bloomberg 106.1",
-            logo: "stations/images-america/c2c/boston_ma/Bloomberg 106.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC_SC"
+            name: "ROCK 106.1",
+            logo: "stations/images-america/c2c/boston_ma/Boston's ROCK.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFMAACIHR.aac"
         },
         {
             name: "Magic 106.7",
@@ -42940,9 +42980,29 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wmjxfmaac-imc"
         },
         {
+            name: "K-LOVE 107.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Air1 107.3-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 2000s 107.3-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+        },
+        {
             name: "Kiss 108",
             logo: "stations/images-america/c2c/boston_ma/Kiss 108.png",
             url: "https://stream.revma.ihrhls.com/zc1097/hls.m3u8"
+        },
+        {
+            name: "107.9 WXKS-HD2",
+            logo: "stations/images-america/c2c/boston_ma/WBZ NewsRadio 1030.png",
+            url: "http://stream.revma.ihrhls.com/zc7729/hls.m3u8"
         },
         {
             name: "WRKO AM 680",
@@ -42973,6 +43033,11 @@ var stations = {/*
             name: "Talk 1200",
             logo: "stations/images-america/c2c/boston_ma/Talk 1200.png",
             url: "https://stream.revma.ihrhls.com/zc4705/hls.m3u8"
+        },
+        {
+            name: "ROCK 1330",
+            logo: "stations/images-america/c2c/boston_ma/Boston's ROCK.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFMAACIHR.aac"
         },
         {
             name: "1510 WMEX",
