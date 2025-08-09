@@ -212,7 +212,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "GRN 91.7",
@@ -894,7 +894,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "The One 91.1",
@@ -1133,7 +1133,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Star 92.7",
@@ -2277,7 +2277,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "91.3 KVLU",
@@ -2635,7 +2635,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "94.3 The Fuse",
@@ -3471,7 +3471,7 @@ var stations = {/*
         {
             name: "afr Hybrid 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Moody Radio 90.7",
@@ -4628,7 +4628,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Effect Radio 91.1",
@@ -4755,7 +4755,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Relevant Radio 91.7",
@@ -6774,7 +6774,7 @@ var stations = {/*
         {
             name: "afr Hybrid 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },/*
         {
             name: "exa 91.5",
@@ -7787,7 +7787,7 @@ var stations = {/*
         {
             name: "afr Hybrid 88.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "IPR News 89.7",
@@ -8722,7 +8722,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "K-LOVE 90.7",
@@ -9431,7 +9431,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "CSN Radio 90.5",
@@ -11574,7 +11574,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "Q-Lite 99.5",
@@ -11723,7 +11723,7 @@ var stations = {/*
         {
             name: "afr Hybrid 89.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "Radio Kansas 90.9",
@@ -13205,7 +13205,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "CSN Radio 91.5",
@@ -16927,7 +16927,7 @@ var stations = {/*
         {
             name: "afr Hybrid 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "KALP 92.7",
@@ -17058,7 +17058,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "KNDY 94.1",
@@ -17100,7 +17100,7 @@ var stations = {/*
         {
             name: "afr Hybrid 88.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "IPR Classical 90.7",
@@ -17583,7 +17583,7 @@ var stations = {/*
         {
             name: "afr Hybrid 89.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Mix 97.9",
@@ -17901,7 +17901,7 @@ var stations = {/*
         {
             name: "afr Hybrid 89.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "KTPR 89.9",
@@ -20537,7 +20537,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "American Cowboy Radio 97.3",
@@ -21817,7 +21817,7 @@ var stations = {/*
         {
             name: "JPR News & Information 89.7-HD2",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "https://jpr-ice.streamguys1.com/jpr-news"
+            url: "https://stream.zeno.fm/zhzveyzk97kvv"
         },
         {
             name: "Air1 90.1",
@@ -21927,7 +21927,7 @@ var stations = {/*
         {
             name: "JPR News & Information 1330",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr-ice.streamguys1.com/jpr-news"
+            url: "http://stream.zeno.fm/zhzveyzk97kvv"
         },
         {
             name: "FOX Sports 1400",
@@ -23200,7 +23200,7 @@ var stations = {/*
         {
             name: "afr Hybrid 88.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Radio Kansas 89.5",
@@ -28514,7 +28514,7 @@ var stations = {/*
         {
             name: "afr Hybrid 90.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/inspo.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
             name: "KPR 91.5",
@@ -29810,7 +29810,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Marfa Public Radio 93.5",
@@ -30508,7 +30508,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Air1 91.5",
@@ -34168,7 +34168,7 @@ var stations = {/*
         {
             name: "afr Hybrid 93.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "94.1 WHRP",
@@ -34634,11 +34634,6 @@ var stations = {/*
             logo: "stations/images-america/c2c/montgomery_al/Big KD 94.1.png",
             url: "http://ice42.securenetsystems.net/WZKD"
         },
-        {
-            name: "News Radio 1440",
-            logo: "stations/images-america/c2c/montgomery_al/News Radio 1440.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLWIAMAAC_SC"
-        },
     ],
     "tuscaloosa_al": [
         {
@@ -34938,7 +34933,7 @@ var stations = {/*
         {
             name: "WPKN 89.5",
             logo: "stations/images-america/c2c/new_haven_ct/WPKN 89.5.png",
-            url: "http://live.adsciconsolidated.com/wpknhigh.mp3"
+            url: "https://ice25.securenetsystems.net/WPKN"
         },
         {
             name: "Connecticut Public Radio 90.5",
@@ -35070,7 +35065,7 @@ var stations = {/*
         {
             name: "Oldies 95.3",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 95.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRK_HD3AAC_SC"
+            url: "https://sc2coolradio.maindigitalstream.com/ssl/TRUE"
         },
         {
             name: "WiLD 95.5",
@@ -35237,7 +35232,7 @@ var stations = {/*
         {
             name: "97X",
             logo: "stations/images-america/c2c/panama_city_fl/97X.png",
-            url: "https://ice41.securenetsystems.net/WYYX"
+            url: "https://dash.streamkast.co/proxy/magicbroadcasting1/wyyxfm"
         },
         {
             name: "Sunny 98.5",
@@ -35252,22 +35247,22 @@ var stations = {/*
         {
             name: "Wild Willie 100.1",
             logo: "stations/images-america/c2c/panama_city_fl/Wild Willie 100.1.png",
-            url: "https://ice66.securenetsystems.net/WWLY"
+            url: "https://dash.streamkast.co/proxy/magicbroadcasting3/wwlyfm"
         },
         {
-            name: "News Talk 101",
-            logo: "stations/images-america/c2c/panama_city_fl/News Talk 101.png",
-            url: "https://ice9.securenetsystems.net/WYOO"
+            name: "Florida Man Radio 101.1",
+            logo: "stations/images-america/0_general_logos/Florida Man Radio.png",
+            url: "https://ice42.securenetsystems.net/WZLB"
         },
         {
             name: "104.3 ESPN",
             logo: "stations/images-america/c2c/panama_city_fl/104.3 ESPN.png",
-            url: "http://143.59.64.114:88/broadwave.mp3"
+            url: "https://us2.maindigitalstream.com/ssl/WGSX"
         },
         {
             name: "Island 106",
             logo: "stations/images-america/c2c/panama_city_fl/Island 106.png",
-            url: "https://ice41.securenetsystems.net/WILN"
+            url: "https://dash.streamkast.co/proxy/magicbroadcasting2/wilnfm"
         },
         {
             name: "K-LOVE 107.9",
@@ -35327,6 +35322,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7269_48k.aac"
         },
         {
+            name: "HOT 95.9",
+            logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
+            url: "https://ice.zradio.org/h/high.aac"
+        },
+        {
             name: "97.3 The Sky",
             logo: "stations/images-america/c2c/gainesville_fl/97.3 The Sky.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wskyfmaac-imc"
@@ -35344,12 +35344,7 @@ var stations = {/*
         {
             name: "98.9 JAMZ",
             logo: "stations/images-america/c2c/gainesville_fl/98.9 JAMZ.png",
-            url: "https://ice24.securenetsystems.net/WAJD"
-        },
-        {
-            name: "WHGV 99.5",
-            logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
-            url: "https://ice.zradio.org/h/high.mp3"
+            url: "https://ice26.securenetsystems.net/WAJD"
         },
         {
             name: "WGOT 100.1",
@@ -35392,9 +35387,9 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7645_48k.aac"
         },
         {
-            name: "Y105",
-            logo: "stations/images-america/c2c/gainesville_fl/Y105.png",
-            url: "http://ais-sa2.cdnstream1.com/2104_80.mp3"
+            name: "Florida Man Radio 104.9",
+            logo: "stations/images-america/0_general_logos/Florida Man Radio.png",
+            url: "https://ice42.securenetsystems.net/WZLB"
         },
         {
             name: "KISS 105.3",
@@ -36608,7 +36603,7 @@ var stations = {/*
         {
             name: "HOT 95.9",
             logo: "stations/images-america/c2c/orlando_fl/HOT 95.9.png",
-            url: "https://ice.zradio.org/h/high.mp3"
+            url: "https://ice.zradio.org/h/high.aac"
         },
         {
             name: "HITS 96.5",
@@ -37027,7 +37022,7 @@ var stations = {/*
         {
             name: "96.5 WSLR",
             logo: "stations/images-america/c2c/sarasota_fl/96.5 WSLR.png",
-            url: "http://pacificaservice.org:8000/wslr_64"
+            url: "http://stream.pacificaservice.org:9000/wslr_128"
         },
         {
             name: "La Número Uno 99.1",
@@ -37099,7 +37094,7 @@ var stations = {/*
         {
             name: "Real Talk 93.3",
             logo: "stations/images-america/c2c/tallahassee_fl/Real Talk 93.3.png",
-            url: "https://ice9.securenetsystems.net/WVFT"
+            url: "https://dash.streamkast.co/proxy/magicbroadcasting5/wvftfm"
         },
         {
             name: "94.9 TNT",
@@ -37650,7 +37645,7 @@ var stations = {/*
         {
             name: "99x",
             logo: "stations/images-america/c2c/atlanta_ga/99x.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2AAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFMAAC_SC"
         },
         {
             name: "Q99.7",
@@ -38031,7 +38026,7 @@ var stations = {/*
         {
             name: "94.7 Fox FM",
             logo: "stations/images-america/c2c/macon_ga/94.7 Fox FM.png",
-            url: "https://playoutonestreaming.com/proxy/wbml?mp=/stream"
+            url: "https://ice64.securenetsystems.net/WBML"
         },
         {
             name: "B95.1",
@@ -38076,7 +38071,7 @@ var stations = {/*
         {
             name: "Power 107.1",
             logo: "stations/images-america/c2c/macon_ga/Power 107.1.png",
-            url: "https://playoutonestreaming.com/proxy/wxfm?mp=/stream"
+            url: "https://ice41.securenetsystems.net/WFXM"
         },
         {
             name: "940 WMAC",
@@ -38260,7 +38255,7 @@ var stations = {/*
         {
             name: "Magic 98.1",
             logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1.png",
-            url: "https://ice64.securenetsystems.net/WEDB"
+            url: "http://84.32.44.251/index.php?u=https://ice64.securenetsystems.net/WEDB"
         },
         {
             name: "Hashtag 99.7",
@@ -38374,7 +38369,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "93.5 Vibe FM",
@@ -44521,7 +44516,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "KIX 92.7",
@@ -44623,7 +44618,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Rock 92.5",
@@ -44837,7 +44832,7 @@ var stations = {/*
         {
             name: "afr Hybrid 88.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "MPB Think Radio 90.9",
@@ -44969,7 +44964,7 @@ var stations = {/*
         {
             name: "afr Hybrid 92.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "WMER 93.1",
@@ -47908,7 +47903,7 @@ var stations = {/*
         {
             name: "afr Hybrid 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/inspo.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
             name: "Pirate Radio 92.7",
