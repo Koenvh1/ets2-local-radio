@@ -35935,14 +35935,24 @@ var stations = {/*
             url: "https://liveaudio.lamusica.com/MIA_WCMQ_icy"
         },
         {
-            name: "Vibe 92.7",
-            logo: "stations/images-america/c2c/miami_fl/Vibe 92.7.png",
-            url: "http://216.21.64.84:8000/WMXR-LP"
+            name: "92.3 WCMQ-HD2",
+            logo: "stations/images-america/c2c/miami_fl/El Zol 106.7.png",
+            url: "http://liveaudio.lamusica.com/MIA_WXDJ_icy"
         },
         {
-            name: "The Crib 92.7-HD2",
-            logo: "stations/images-america/c2c/miami_fl/The Crib 92.7-HD2.png",
-            url: "http://216.21.64.84:8000/THE-CRIB"
+            name: "Vibe 92.7",
+            logo: "stations/images-america/c2c/miami_fl/Vibe 92.7.png",
+            url: "https://radio.thisisarealdomain.com/WMXR-LP"
+        },
+        {
+            name: "Groove 92 92.7-HD2",
+            logo: "stations/images-america/c2c/miami_fl/Groove 92 92.7-HD2.png",
+            url: "https://radio.thisisarealdomain.com/GROOVE-92"
+        },
+        {
+            name: "The Crib 92.7-HD3",
+            logo: "stations/images-america/c2c/miami_fl/The Crib 92.7-HD3.png",
+            url: "https://radio.thisisarealdomain.com/THE-CRIB"
         },
         {
             name: "Easy 93.1",
@@ -35958,6 +35968,16 @@ var stations = {/*
             name: "Magic 93.9",
             logo: "stations/images-america/c2c/miami_fl/Magic 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc4243/hls.m3u8"
+        },
+        {
+            name: "93.9 WMIA-HD2",
+            logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
+            url: "https:///centova87.shoutcastservices.com/proxy/revolution935/stream"
+        },
+        {
+            name: "93.9 WMIA-HD3",
+            logo: "stations/images-america/c2c/miami_fl/The Bull 104.7.png",
+            url: "http://stream.revma.ihrhls.com/zc6617/hls.m3u8"
         },
         {
             name: "Tú 94.9",
@@ -36010,6 +36030,16 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wrtofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
+            name: "Uforia Rock 98.3-HD2",
+            logo: "stations/images-america/c2c/miami_fl/Uforia Rock.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/uforiarock-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed"
+        },
+        {
+            name: "TUDN Radio 98.3-HD4",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
             name: "99 JAMZ",
             logo: "stations/images-america/c2c/miami_fl/99 JAMZ.png",
             url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/mia991/mia991-sgplayer-aac"
@@ -36020,19 +36050,24 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wkisfmaac-imc"
         },
         {
+            name: "99.9 WKIS-HD2",
+            logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//audacy-wqamamaac-imc"
+        },
+        {
+            name: "99.9 WKIS-HD3",
+            logo: "stations/images-america/0_general_logos/The Bet.png",
+            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+        },
+        {
+            name: "Israeli Radio 99.9-HD4",
+            logo: "stations/images-america/c2c/miami_fl/Israeli Radio.png",
+            url: "https://a6.asurahosting.com:6650/radio.mp3"
+        },
+        {
             name: "Y100",
             logo: "stations/images-america/c2c/miami_fl/Y100.png",
             url: "https://stream.revma.ihrhls.com/zc561/hls.m3u8"
-        },
-        {
-            name: "100.7 WHYI-HD2",
-            logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
-            url: "http://centova87.shoutcastservices.com/proxy/revolution935/stream"
-        },
-        {
-            name: "Pride Radio 100.7-HD3",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
             name: "101.5 Lite FM",
@@ -36045,6 +36080,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wmxjfmaac-imc"
         },
         {
+            name: "Roadblock Radio 102.7-HD3",
+            logo: "stations/images-america/c2c/miami_fl/Roadblock Radio 102.7-HD3.png",
+            url: "https://streaming.radio.co/sf580447ed/listen"
+        },
+        {
             name: "103.1 The Word",
             logo: "stations/images-america/c2c/miami_fl/The Word.png",
             url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WWFEAMAAC_SC"
@@ -36055,9 +36095,34 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc581/hls.m3u8"
         },
         {
+            name: "103.5 WMIB-HD2",
+            logo: "stations/images-america/c2c/miami_fl/940 WINZ.png",
+            url: "http://stream.revma.ihrhls.com/zc565/hls.m3u8"
+        },
+        {
+            name: "103.5 WMIB-HD3",
+            logo: "stations/images-america/c2c/miami_fl/Throwback 105.5.png",
+            url: "http://stream.revma.ihrhls.com/zc7373/hls.m3u8"
+        },
+        {
             name: "104.3 WQAM",
             logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wqamamaac-imc"
+        },
+        {
+            name: "104.3 WQAM-HD2",
+            logo: "stations/images-america/c2c/miami_fl/Radio Libre 790.png",
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-waxyamaac-imc"
+        },
+        {
+            name: "104.3 WQAM-HD3",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Oldies 95.3.png",
+            url: "https://sc2coolradio.maindigitalstream.com/ssl/TRUE"
+        },
+        {
+            name: "104.3 WQAM-HD4",
+            logo: "stations/images-america/c2c/miami_fl/Revolution 93.5.png",
+            url: "https://centova87.shoutcastservices.com/proxy//revolution935/stream"
         },
         {
             name: "The Bull 104.7",
@@ -36080,6 +36145,16 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc557/hls.m3u8"
         },
         {
+            name: "105.9 WBGG-HD2",
+            logo: "stations/images-america/c2c/miami_fl/610 WIOD.png",
+            url: "http://stream.revma.ihrhls.com/zc569/hls.m3u8"
+        },
+        {
+            name: "Pride Radio 105.9-HD3",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
             name: "Salsa 106.3",
             logo: "stations/images-america/c2c/miami_fl/Salsa 106.3.png",
             url: "https://liveaudio.lamusica.com/MIA_WRAZ_icy"
@@ -36090,14 +36165,29 @@ var stations = {/*
             url: "https://liveaudio.lamusica.com/MIA_WXDJ_icy"
         },
         {
+            name: "Israeli Radio 107.1",
+            logo: "stations/images-america/c2c/miami_fl/Israeli Radio.png",
+            url: "http://a6.asurahosting.com:6650/radio.mp3"
+        },
+        {
             name: "Amor 107.5",
             logo: "stations/images-america/c2c/miami_fl/Amor 107.5.png",
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wamrfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
-            name: "RUSA FM 107.5-HD2",
-            logo: "stations/images-america/0_general_logos/RUSA FM.png",
-            url: "https://ott.streann.com/loadbalancer/services/public/radios-secure/62bf4d21e4b04173733c5f18/playlist.m3u8"
+            name: "107.5 WAMR-HD2",
+            logo: "stations/images-america/c2c/miami_fl/Radio Mambí 710.png",
+            url: "http://84.32.44.251/index.php?u=http://lmn.streamguys1.com/waqiam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
+            name: "Uforia Rock 107.5-HD3",
+            logo: "stations/images-america/c2c/miami_fl/Uforia Rock.png",
+            url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/uforiarock-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed"
+        },
+        {
+            name: "107.5 WAMR-HD4",
+            logo: "stations/images-america/c2c/miami_fl/Mix 98.3.png",
+            url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/wrtofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "WAVS 107.9",
@@ -36120,6 +36210,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWFEAMAAC_SC"
         },
         {
+            name: "Radio Mambí 710",
+            logo: "stations/images-america/c2c/miami_fl/Radio Mambí 710.png",
+            url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/waqiam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
             name: "Radio Libre 790",
             logo: "stations/images-america/c2c/miami_fl/Radio Libre 790.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-waxyamaac-imc"
@@ -36140,9 +36235,14 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYMAMAAC_SC"
         },
         {
-            name: "Oasis 1210",
-            logo: "stations/images-america/c2c/miami_fl/Oasis 1210.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMYMAMAAC_SC"
+            name: "WQBA 1140",
+            logo: "stations/images-america/c2c/miami_fl/WQBA 1140.png",
+            url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/wqbaam-icy?key=a1e751202157c8d037a4f453698087f605c937356359a6774ea3fcd2e53d04e4"
+        },
+        {
+            name: "Radio Mundo 1210",
+            logo: "stations/images-america/c2c/miami_fl/Radio Mundo 1210.png",
+            url: "https://stream4.305stream.com:9764/stream"
         },
         {
             name: "La Estación de la Familia 1430",
