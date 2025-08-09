@@ -36718,7 +36718,7 @@ var stations = {/*
         {
             name: "103.1 WFYY-HD3",
             logo: "stations/images-america/c2c/orlando_fl/Suave 105.5.png",
-            url: "https://stream.zeno.fm/cb5zuu6dvyyvv"
+            url: "http://stream.zeno.fm/cb5zuu6dvyyvv"
         },
         {
             name: "103.9 Party FM",
@@ -45476,7 +45476,7 @@ var stations = {/*
         {
             name: "90.9 WCDB",
             logo: "stations/images-america/c2c/albany_ny/90.9 WCDB.png",
-            url: "http://streams.wcdbfm.com:8000/stream"
+            url: "https://streams.wcdb.fm/stream"
         },
         {
             name: "WRPI 91.5",
@@ -45561,7 +45561,7 @@ var stations = {/*
         {
             name: "Talk 98.7",
             logo: "stations/images-america/c2c/albany_ny/Talk 98.7.png",
-            url: "http://ic2.mainstreamnetwork.com/wgdj-am"
+            url: "https://streaming.live365.com/a29333"
         },
         {
             name: "HOT 99.1",
