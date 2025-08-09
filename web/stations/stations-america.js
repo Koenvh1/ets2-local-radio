@@ -36107,7 +36107,7 @@ var stations = {/*
         {
             name: "560 WQAM",
             logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wqamamaac-imc"
+            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/audacy-wqamamaac-imc"
         },
         {
             name: "610 WIOD",
