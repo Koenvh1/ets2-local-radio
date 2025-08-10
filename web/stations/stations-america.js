@@ -37695,7 +37695,7 @@ var stations = {/*
         {
             name: "96.1 The Beat",
             logo: "stations/images-america/c2c/atlanta_ga/96.1 The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc3209/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc741/hls.m3u8"
         },
         {
             name: "El Patrón 96.7",
@@ -37805,7 +37805,7 @@ var stations = {/*
         {
             name: "Power 105.3",
             logo: "stations/images-america/c2c/atlanta_ga/Power 105.3.png",
-            url: "https://stream.revma.ihrhls.com/zc741/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc3209/hls.m3u8"
         },
         {
             name: "Z105.7",
