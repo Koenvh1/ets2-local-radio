@@ -41160,6 +41160,16 @@ var stations = {/*
     ],
     "paducah": [
         {
+            name: "afr Talk 89.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/talk.mp4"
+        },
+        {
+            name: "K-LOVE 90.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
             name: "WKMS 91.3",
             logo: "stations/images-america/c2c/paducah_ky/WKMS 91.3.png",
             url: "https://wkms.streamguys1.com/WKMS1-mp3"
@@ -41173,6 +41183,16 @@ var stations = {/*
             name: "WKMS Music 91.3-HD3",
             logo: "stations/images-america/c2c/paducah_ky/WKMS 91.3.png",
             url: "https://wkms.streamguys1.com/WKMSHD3-mp3"
+        },
+        {
+            name: "King of Kings Radio 91.7",
+            logo: "stations/images-america/c2c/paducah_ky/King of Kings Radio 91.7.png",
+            url: "https://streaming.live365.com/a74005"
+        },
+        {
+            name: "93.7 W229DI",
+            logo: "stations/images-america/c2c/paducah_ky/WMOK.png",
+            url: "http://ice103.wbcstreaming.com:8130/aac"
         },
         {
             name: "94.3 WKYX",
@@ -41203,6 +41223,21 @@ var stations = {/*
             name: "FROGGY 103.7",
             logo: "stations/images-america/c2c/paducah_ky/FROGGY 103.7.png",
             url: "https://live.amperwave.net/manifest/forevercomm-wfgsfmaac-ibc4"
+        },
+        {
+            name: "104.7 W284CG",
+            logo: "stations/images-america/c2c/paducah_ky/WMOK.png",
+            url: "http:///ice103.wbcstreaming.com:8130/aac"
+        },
+        {
+            name: "105.5 The CAT",
+            logo: "stations/images-america/c2c/paducah_ky/105.5 The CAT.png",
+            url: "https://ice103.wbcstreaming.com:8060/aac"
+        },
+        {
+            name: "920 WMOK",
+            logo: "stations/images-america/c2c/paducah_ky/WMOK.png",
+            url: "https://ice103.wbcstreaming.com:8130/aac"
         },
     ],
     "alexandria_la": [
@@ -53122,7 +53157,7 @@ var stations = {/*
         {
             name: "NoogaRadio 96.9",
             logo: "stations/images-america/c2c/chattanooga_tn/NoogaRadio 96.9.png",
-            url: "https://s6.voscast.com:7163/stream"
+            url: "https://stream.zeno.fm/ne086yuw9zhvv"
         },
         {
             name: "Q 97.3",
