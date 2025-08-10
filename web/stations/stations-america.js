@@ -37739,7 +37739,7 @@ var stations = {/*
         },
         {
             name: "B98.5",
-            logo: "stations/images-america/c2c/atlanta_ga/99x.png",
+            logo: "stations/images-america/c2c/atlanta_ga/B98.5.png",
             url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/atl985/atl985-sgplayer-aac"
         },
         {
