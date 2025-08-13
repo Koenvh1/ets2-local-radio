@@ -7040,7 +7040,7 @@ var stations = {/*
         {
             name: "CPR Classical 88.1",
             logo: "stations/images-america/0_general_logos/CPR Classical.png",
-            url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
+            url: "http://stream2.cprnetwork.org:8000//cpr2_aac"
         },
         {
             name: "Air1 88.9",
