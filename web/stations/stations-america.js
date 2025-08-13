@@ -7068,6 +7068,11 @@ var stations = {/*
             url: "http://stream2.cprnetwork.org:8000/cpr1_aac"
         },
         {
+            name: "CPR Classical 90.1-HD2",
+            logo: "stations/images-america/0_general_logos/CPR Classical.png",
+            url: "http://stream2.cprnetwork.org:8000/cpr2_aac"
+        },
+        {
             name: "La Suavecita 92.1",
             logo: "stations/images-america/denver/La Suavecita 92.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJMNFMAAC_SC"
@@ -7143,9 +7148,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4866/hls.m3u8"
         },
         {
-            name: "Pride Radio 97.3-HD3",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            name: "97.3 KBCO-HD3",
+            logo: "stations/images-america/denver/KOA 94.1.png",
+            url: "http://stream.revma.ihrhls.com/zc389/hls.m3u8"
         },
         {
             name: "98.1 K251CV",
@@ -7198,6 +7203,11 @@ var stations = {/*
             url: "https://ais-sa8.cdnstream1.com/3147_64.aac"
         },
         {
+            name: "101.9 KXWA-HD2",
+            logo: "stations/images-america/0_general_logos/Vida Unida.png",
+            url: "https://ais-sa8.cdnstream1.com/3336_64.aac"
+        },
+        {
             name: "Indie 102.3",
             logo: "stations/images-america/denver/Indie 102.3.png",
             url: "http://stream2.cprnetwork.org:8000/cpr3_lo"
@@ -7213,9 +7223,19 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc393/hls.m3u8"
         },
         {
+            name: "103.5 KRFX-HD2",
+            logo: "stations/images-america/denver/630 KHOW.png",
+            url: "http://stream.revma.ihrhls.com/zc377/hls.m3u8"
+        },
+        {
             name: "104.3 The Fan",
             logo: "stations/images-america/denver/104.3 The Fan.png",
             url: "https://bonneville.cdnstream1.com/2612_48.aac"
+        },
+        {
+            name: "104.3 KKFN-HD2",
+            logo: "stations/images-america/denver/ESPN Denver 1600.png",
+            url: "http://bonneville.cdnstream1.com/2708_48.aac"
         },
         {
             name: "The DROP 104.7",
