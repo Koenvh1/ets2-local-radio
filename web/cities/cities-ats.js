@@ -1223,12 +1223,6 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.8
     },
-    "limon": {
-        name: "Limon",
-        name_english: "Limon",
-        code: "us-co",
-        relative_radius: 0.9
-    },
     "lincoln_mt": {
         name: "Lincoln",
         name_english: "Lincoln",
@@ -3048,10 +3042,6 @@ var city_properties = {
     },
     "lewistown": {
         relative_whitenoise: 0.85
-    },
-    "limon": {
-		relative_radius: 0.5,
-        relative_whitenoise: 0.95
     },
     "lincoln_mt": {
 		relative_radius: 0.5,
@@ -5575,14 +5565,6 @@ var cities = [
         "x": "-51777.8",
         "y": "110",
         "z": "-49878.1"
-    },
-    {
-        "gameName": "limon",
-        "realName": "Limon",
-        "country": "colorado_springs_pueblo",
-        "x": "-33503.8",
-        "y": "130.523",
-        "z": "-2584.32"
     },
     {
         "gameName": "lincoln_mt",
