@@ -2896,6 +2896,11 @@ var stations = {/*
             url: "https://boisestate.streamguys1.com/Jazz-aac-256k-icy"
         },
         {
+            name: "BSPR Jazz 90.3-HD3",
+            logo: "stations/images-america/0_general_logos/BSPR.png",
+            url: "http://boisestate.streamguys1.com/News1-aac-96k-icy"
+        },
+        {
             name: "BSPR News 91.5",
             logo: "stations/images-america/0_general_logos/BSPR.png",
             url: "https://boisestate.streamguys1.com/News1-aac-96k-icy"
@@ -2926,6 +2931,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRVBFMAAC_SC"
         },
         {
+            name: "94.9 KRVB-HD2",
+            logo: "stations/images-america/boise/100.3 The X.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KQXRFMAAC_SC"
+        },
+        {
             name: "95.3 The Ticket",
             logo: "stations/images-america/boise/95.3 The Ticket.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTIKFMAAC_SC"
@@ -2934,6 +2944,11 @@ var stations = {/*
             name: "96.1 BOB FM",
             logo: "stations/images-america/boise/96.1 BOB FM.png",
             url: "http://84.32.44.251/index.php?u=https://ice64.securenetsystems.net/KSRV"
+        },
+        {
+            name: "96.1 KSRV-HD2",
+            logo: "stations/images-america/boise/FOX Sports 99.9.png",
+            url: "http://84.32.44.251/index.php?u=http://ice64.securenetsystems.net/KSRVHD2"
         },
         {
             name: "96.5 The Alternative",
@@ -2986,6 +3001,16 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice64.securenetsystems.net/KQBL"
         },
         {
+            name: "101.9 KQBL-HD2",
+            logo: "stations/images-america/boise/99.1 I-Rock.png",
+            url: "http://84.32.44.251/index.php?u=https://ice64.securenetsystems.net/KQBLHD2"
+        },
+        {
+            name: "101.9 KQBL-HD3",
+            logo: "stations/images-america/boise/96.5 The Alternative.png",
+            url: "http://84.32.44.251/index.php?u=http://ice9.securenetsystems.net/KQBLHD3"
+        },
+        {
             name: "102.3 K272FS",
             logo: "stations/images-america/boise/Salt & Light Radio.png",
             url: "http://ssl-2.stream.miriamtech.net/salt-light/live"
@@ -2994,6 +3019,16 @@ var stations = {/*
             name: "My 102.7",
             logo: "stations/images-america/boise/My 102.7.png",
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KZMG"
+        },
+        {
+            name: "102.7 KZMG-HD2",
+            logo: "stations/images-america/boise/101.5 KOOL FM.png",
+            url: "http://84.32.44.251/index.php?u=http://ice5.securenetsystems.net/KKOO"
+        },
+        {
+            name: "102.7 KZMG-HD3",
+            logo: "stations/images-america/boise/La Gran D.png",
+            url: "http://ice10.securenetsystems.net/KDBI"
         },
         {
             name: "103.5 KISS FM",
@@ -3021,6 +3056,11 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kcixfmaac-ibc3"
         },
         {
+            name: "La Gran D 106.3",
+            logo: "stations/images-america/boise/La Gran D.png",
+            url: "https://ice10.securenetsystems.net/KDBI"
+        },
+        {
             name: "107.1 HANK FM",
             logo: "stations/images-america/boise/107.1 HANK FM.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHIFMAAC_SC"
@@ -3036,14 +3076,39 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kxltfmaac-ibc3"
         },
         {
+            name: "KIDO 580",
+            logo: "stations/images-america/boise/KIDO 107.5.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kidoamaac-ibc3"
+        },
+        {
+            name: "630 KFXD",
+            logo: "stations/images-america/boise/Power 105.5.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kfxdfmaac-ibc3"
+        },
+        {
+            name: "670 KBOI",
+            logo: "stations/images-america/boise/93.1 KBOI.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAMAAC_SC"
+        },
+        {
             name: "790 KSPD",
             logo: "stations/images-america/boise/790 KSPD.png",
             url: "https://ice26.securenetsystems.net/KSPD"
         },
         {
+            name: "La Perla 890",
+            logo: "stations/images-america/boise/La Perla 890.png",
+            url: "https://stream4.305stream.com:9866/stream"
+        },
+        {
             name: "Salt & Light Radio 1140",
             logo: "stations/images-america/boise/Salt & Light Radio.png",
             url: "https://ssl-2.stream.miriamtech.net/salt-light/live"
+        },
+        {
+            name: "1350 KTIK",
+            logo: "stations/images-america/boise/95.3 The Ticket.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KTIKFMAAC_SC"
         },
     ],
     "boise_city": [
@@ -14966,6 +15031,16 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
+            name: "88.9 KNPR-HD2",
+            logo: "stations/images-america/las_vegas/Classical 89.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCNVFMAAC_SC"
+        },
+        {
+            name: "88.9 KNPR-HD3",
+            logo: "stations/images-america/c2c/pittsburgh_pa/101.1 WZUM.png",
+            url: "https://pubmusic.streamguys1.com/wzum-aac"
+        },
+        {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -14991,8 +15066,8 @@ var stations = {/*
             url: "https://kunv.oit.unlv.edu/stream/2/"
         },
         {
-            name: "91.5 The Rebel-HD2",
-            logo: "stations/images-america/las_vegas/91.5 The Rebel-HD2.png",
+            name: "91.5-HD2 The Beat",
+            logo: "stations/images-america/las_vegas/91.5-HD2 The Beat.png",
             url: "https://kunv.oit.unlv.edu/stream/4/"
         },
         {
@@ -15181,6 +15256,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/kisffm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
+            name: "LA 103.5-HD2",
+            logo: "stations/images-america/las_vegas/LA 103.5-HD2.png",
+            url: "https://lmn.streamguys1.com/kisfhd2-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
             name: "Real 103.9",
             logo: "stations/images-america/las_vegas/Real 103.9.png",
             url: "https://stream.revma.ihrhls.com/zc6967/hls.m3u8"
@@ -15206,9 +15286,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
         },
         {
-            name: "Magic 106.5-HD2",
-            logo: "stations/images-america/0_general_logos/Magic.png",
-            url: "https://stream.revma.ihrhls.com/zc10085/hls.m3u8"
+            name: "106.5 KSNE-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "106.5 KSNE-HD3",
