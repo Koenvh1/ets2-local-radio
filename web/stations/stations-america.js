@@ -9772,7 +9772,7 @@ var stations = {/*
         },
         {
             name: "100.7 KPPV-HD2",
-            logo: "stations/images-america/flagstaff/94.7 Jack FM.png",
+            logo: "stations/images-america/prescott/94.7 Jack FM.png",
             url: "http:///stream.affordablestreaming.com:8000/JACKFM.mp3"
         },
         {
