@@ -22188,8 +22188,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
-            name: "94.9 X",
-            logo: "stations/images-america/reno/94.9 X.png",
+            name: "X94.9",
+            logo: "stations/images-america/reno/X94.9.png",
             url: "https://ice42.securenetsystems.net/KWFP"
         },
         {

@@ -1485,7 +1485,7 @@ var country_properties = {
         name: "Oakland",
         name_english: "Oakland",
         code: "us-ca",
-        relative_radius: 0.8
+        relative_radius: 0.4
     },
     "odessa": {
         name: "Odessa",
