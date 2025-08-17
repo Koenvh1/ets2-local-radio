@@ -1670,6 +1670,24 @@ var country_properties = {
     "prescott": {
         name: "Prescott",
         name_english: "Prescott",
+        code: "us-az",
+		relative_radius: 1.0,
+    },
+    "prescott_flagstaff": {
+        name: "Prescott",
+        name_english: "Prescott",
+        code: "us-az",
+		relative_radius: 1.0,
+    },
+    "prescott_phoenix": {
+        name: "Phoenix",
+        name_english: "Phoenix",
+        code: "us-az",
+		relative_radius: 1.0,
+    },
+    "prescott_ar": {
+        name: "Prescott",
+        name_english: "Prescott",
         code: "us-ar",
 		relative_radius: 0.7,
     },
@@ -3285,6 +3303,17 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "prescott": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "prescott_flagstaff": {
+        relative_radius: 0.9,
+        relative_whitenoise: 0.95
+    },
+    "prescott_phoenix": {
+        relative_whitenoise: 0.95
+    },
+    "prescott_ar": {
 		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
@@ -6241,13 +6270,53 @@ var cities = [
     {
         "gameName": "prescott",
         "realName": "Prescott",
+        "country": "prescott",
+        "x": "-76411.6",
+        "y": "71.5352",
+        "z": "18355.9"
+    },
+    {
+        "gameName": "prescott",
+        "realName": "Prescott",
+        "country": "prescott_flagstaff",
+        "x": "-76411.6",
+        "y": "71.5352",
+        "z": "18355.9"
+    },
+    {
+        "gameName": "prescott",
+        "realName": "Prescott",
+        "country": "prescott_phoenix",
+        "x": "-76411.6",
+        "y": "71.5352",
+        "z": "18355.9"
+    },
+    {
+        "gameName": "prescott_flagstaff",
+        "realName": "North Arizona",
+        "country": "prescott_flagstaff",
+        "x": "-74411.6",
+        "y": "71.5352",
+        "z": "18255.9"
+    },
+    {
+        "gameName": "prescott_phoenix",
+        "realName": "Phoenix",
+        "country": "prescott_phoenix",
+        "x": "-75411.6",
+        "y": "71.5352",
+        "z": "20355.9"
+    },
+    {
+        "gameName": "prescott_ar",
+        "realName": "Prescott",
         "country": "hot_springs",
         "x": "13246.9",
         "y": "28.3963",
         "z": "27396"
     },
     {
-        "gameName": "prescott",
+        "gameName": "prescott_ar",
         "realName": "Prescott",
         "country": "little_rock",
         "x": "13946.9",
