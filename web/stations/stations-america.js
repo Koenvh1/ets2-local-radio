@@ -12260,8 +12260,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBQFMAAC_SC"
         },
         {
-            name: "Country Legends 92.9-HD2",
-            logo: "stations/images-america/houston/Country Legends 92.9-HD2.png",
+            name: "Rodeo Radio 92.9-HD2",
+            logo: "stations/images-america/houston/Rodeo Radio 92.9-HD2.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKBQHD3AAC_SC"
         },
         {
