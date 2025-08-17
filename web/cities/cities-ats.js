@@ -1481,12 +1481,6 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
-    "oakland": {
-        name: "Oakland",
-        name_english: "Oakland",
-        code: "us-ca",
-        relative_radius: 0.4
-    },
     "odessa": {
         name: "Odessa",
         name_english: "Odessa",
@@ -1941,7 +1935,7 @@ var country_properties = {
         name: "Stockton",
         name_english: "Stockton",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.4
     },
     "san_angelo": {
         name: "San Angelo",
@@ -3193,10 +3187,6 @@ var city_properties = {
     "north_platte": {
         relative_whitenoise: 0.95
     },
-    "oakland": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
     "odessa": {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
@@ -3547,7 +3537,6 @@ var city_properties = {
         relative_whitenoise: 0.75
     },
     "stockton": {
-		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "susanv": {
@@ -6004,14 +5993,6 @@ var cities = [
         "z": "-12950.8"
     },
     {
-        "gameName": "oakland",
-        "realName": "Oakland",
-        "country": "san_francisco",
-        "x": "-112143",
-        "y": "58.5584",
-        "z": "-8613.61"
-    },
-    {
         "gameName": "odessa",
         "realName": "Odessa",
         "country": "midland_odessa",
@@ -6967,14 +6948,6 @@ var cities = [
         "gameName": "stockton",
         "realName": "Stockton",
         "country": "stockton",
-        "x": "-109402",
-        "y": "87.7422",
-        "z": "-9359.29"
-    },
-    {
-        "gameName": "stockton",
-        "realName": "Stockton",
-        "country": "modesto",
         "x": "-109402",
         "y": "87.7422",
         "z": "-9359.29"
