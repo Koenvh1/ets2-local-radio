@@ -119,6 +119,30 @@ var country_properties = {
         code: "cn",
         relative_radius: 1,
     },
+    "china_hlj": {
+        name: "黑龙江",
+        name_english: "Heilongjiang",
+        code: "cn",
+        relative_radius: 1,
+    },
+    "china_jl": {
+        name: "吉林",
+        name_english: "Jilin",
+        code: "cn",
+        relative_radius: 1,
+    },
+    "china_ln": {
+        name: "辽宁",
+        name_english: "Liaoning",
+        code: "cn",
+        relative_radius: 1,
+    },
+    "china_xj": {
+        name: "新疆维吾尔自治区",
+        name_english: "Xinjiang Uygur Autonomous Region",
+        code: "cn",
+        relative_radius: 1,
+    },
     "croatia": {
         name: "Hrvatska",
         name_english: "Croatia",
@@ -334,6 +358,12 @@ var country_properties = {
         name_english: "Chios",
         code: "gr",
         relative_radius: 0.7,
+    },
+    "greece_corfu": {
+        name: "Κέρκυρα",
+        name_english: "Corfu",
+        code: "gr",
+        relative_radius: 1.0,
     },
     "greece_crete": {
         name: "Κρήτη",
@@ -978,6 +1008,9 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "cieszyn": {
+        relative_radius: 0.7,
+    },
+    "corfu": {
         relative_radius: 0.7,
     },
     "constanta": {
@@ -14875,8 +14908,16 @@ var cities_trans_siberian = [
     },
     {
       "gameName": "mudanjiang",
-      "realName": "Муданьцзян",
+      "realName": "牡丹江",
       "country": "china",
+      "x": "313385.8",
+      "y": "50.02344",
+      "z": "-259837.9"
+    },
+    {
+      "gameName": "mudanjiang",
+      "realName": "牡丹江",
+      "country": "china_hlj",
       "x": "313385.8",
       "y": "50.02344",
       "z": "-259837.9"
@@ -14979,8 +15020,16 @@ var cities_trans_siberian = [
     },
     {
       "gameName": "tonghua",
-      "realName": "Тунхуа",
+      "realName": "通化",
       "country": "china",
+      "x": "327364.5",
+      "y": "54.93359",
+      "z": "-246332.5"
+    },
+    {
+      "gameName": "tonghua",
+      "realName": "通化",
+      "country": "china_jl",
       "x": "327364.5",
       "y": "54.93359",
       "z": "-246332.5"
@@ -15308,6 +15357,22 @@ var cities_beyond = [
       "z": "-240720"
     },
     {
+        "gameName": "corfu",
+        "realName": "Κέρκυρα",
+        "country": "greece_ert",
+        "x": "38486.17",
+        "y": "60.65234",
+        "z": "62311.61"
+    },
+    {
+        "gameName": "corfu",
+        "realName": "Κέρκυρα",
+        "country": "greece_corfu",
+        "x": "38486.17",
+        "y": "60.65234",
+        "z": "62311.61"
+    },
+    {
       "gameName": "dahaban",
       "realName": "Dahaban",
       "country": "saudia",
@@ -15324,9 +15389,25 @@ var cities_beyond = [
       "z": "-224730"
     },
     {
+      "gameName": "dalian",
+      "realName": "大连",
+      "country": "china_ln",
+      "x": "343252",
+      "y": "50.7812",
+      "z": "-224730"
+    },
+    {
       "gameName": "dandong",
       "realName": "丹东",
       "country": "china",
+      "x": "337580",
+      "y": "67.0898",
+      "z": "-236998"
+    },
+    {
+      "gameName": "dandong",
+      "realName": "丹东",
+      "country": "china_ln",
       "x": "337580",
       "y": "67.0898",
       "z": "-236998"
@@ -16220,6 +16301,14 @@ var cities_beyond = [
       "z": "-40317.8"
     },
     {
+      "gameName": "ulugqat",
+      "realName": "乌鲁克恰提乡",
+      "country": "china_xj",
+      "x": "252511",
+      "y": "227.074",
+      "z": "-40317.8"
+    },
+    {
       "gameName": "wadibanda",
       "realName": "Wadi Banda",
       "country": "sudan",
@@ -16244,9 +16333,25 @@ var cities_beyond = [
       "z": "-42019"
     },
     {
+      "gameName": "wuqia",
+      "realName": "乌恰镇",
+      "country": "china_xj",
+      "x": "255115",
+      "y": "210.98",
+      "z": "-42019"
+    },
+    {
       "gameName": "xiuyanzhen",
       "realName": "岫岩镇",
       "country": "china",
+      "x": "335669",
+      "y": "60",
+      "z": "-232344"
+    },
+    {
+      "gameName": "xiuyanzhen",
+      "realName": "岫岩镇",
+      "country": "china_ln",
       "x": "335669",
       "y": "60",
       "z": "-232344"

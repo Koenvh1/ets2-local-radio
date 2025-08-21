@@ -1068,11 +1068,11 @@ var stations = {/*
         },
     ],
     "cameroon": [
-        /*{
+        {
             name: "CRTV Poste National",
             logo: "stations/images-europe/cameroon/CRTV Poste National.png",
-            url: "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-        },*/
+            url: "https://crtv237webradio.ice.infomaniak.ch/crtv237webradio-128.mp3"
+        },
         {
             name: "BBC Afrique",
             logo: "stations/images-europe/cameroon/BBC Afrique.png",
@@ -1182,17 +1182,145 @@ var stations = {/*
         {
             name: "中国之声",
             logo: "stations/images-europe/china/中国之声.png",
-            url: "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8"
+            url: "http://89.168.75.18/redir_cnr.php?id=1&format=m3u8"
         },
         {
             name: "经济之声",
             logo: "stations/images-europe/china/经济之声.png",
-            url: "https://ngcdn002.cnr.cn/live/jjzs/index.m3u8"
+            url: "http://89.168.75.18/redir_cnr.php?id=2&format=m3u8"
         },
         {
             name: "音乐之声",
             logo: "stations/images-europe/china/音乐之声.png",
-            url: "https://ngcdn003.cnr.cn/live/yyzs/index.m3u8"
+            url: "http://89.168.75.18/redir_cnr.php?id=4&format=m3u8"
+        },
+    ],
+    "china_hlj": [
+        {
+            name: "黑龙江新闻广播",
+            logo: "stations/images-europe/china/hlj/黑龙江新闻广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江交通广播",
+            logo: "stations/images-europe/china/hlj/黑龙江交通广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江女性广播",
+            logo: "stations/images-europe/china/hlj/黑龙江女性广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江爱家广播",
+            logo: "stations/images-europe/china/hlj/黑龙江爱家广播.png",
+            url: "https://stream3.hljtv.com/hljrd97/playlist.m3u8"
+        },
+        {
+            name: "黑龙江私家车广播",
+            logo: "stations/images-europe/china/hlj/黑龙江私家车广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江音乐广播",
+            logo: "stations/images-europe/china/hlj/黑龙江音乐广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8"
+        },
+    ],
+    "china_jl": [
+        {
+            name: "吉林新闻综合广播",
+            logo: "stations/images-europe/china/jl/吉林新闻综合广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8"
+        },
+        {
+            name: "吉林乡村广播",
+            logo: "stations/images-europe/china/jl/吉林乡村广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8"
+        },
+        {
+            name: "吉林交通广播",
+            logo: "stations/images-europe/china/jl/吉林交通广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8"
+        },
+        {
+            name: "吉林旅游广播",
+            logo: "stations/images-europe/china/jl/吉林旅游广播.png",
+            url: "https://live-jlr.jlntv.cn/live/fm1033/fm1033.aac"
+        },
+        {
+            name: "吉林经济广播",
+            logo: "stations/images-europe/china/jl/吉林经济广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8"
+        },
+        {
+            name: "吉林音乐广播",
+            logo: "stations/images-europe/china/jl/吉林音乐广播.png",
+            url: "https://live-jlr.jlntv.cn/live/fm927/fm927.aac"
+        },
+    ],
+    "china_ln": [
+        {
+            name: "辽宁之声",
+            logo: "stations/images-europe/china/ln/辽宁之声.png",
+            url: "http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8"
+        },
+        {
+            name: "辽宁乡村广播",
+            logo: "stations/images-europe/china/ln/辽宁乡村广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8"
+        },
+        {
+            name: "辽宁交通广播",
+            logo: "stations/images-europe/china/ln/辽宁交通广播.png",
+            url: "http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8"
+        },
+        {
+            name: "辽宁文艺广播",
+            logo: "stations/images-europe/china/ln/辽宁文艺广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8"
+        },
+        {
+            name: "辽宁经济广播",
+            logo: "stations/images-europe/china/ln/辽宁经济广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8"
+        },
+    ],
+    "china_xj": [
+        {
+            name: "قازاقشا راديو",
+            logo: "stations/images-europe/china/xj/قازاقشا راديو.png",
+            url: "http://89.168.75.18/redir_cnr.php?id=24&format=m3u8"
+        },
+        {
+            name: "ئۇيغۇرچە رادىيو",
+            logo: "stations/images-europe/china/xj/ئۇيغۇرچە رادىيو.png",
+            url: "http://89.168.75.18/redir_cnr.php?id=13&format=m3u8"
+        },
+        {
+            name: "新疆交通广播",
+            logo: "stations/images-europe/china/xj/新疆交通广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8"
+        },
+        {
+            name: "新疆新闻广播",
+            logo: "stations/images-europe/china/xj/新疆新闻广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8"
+        },
+        {
+            name: "راديوسى شىڭجاڭ قازاق ءتىلى",
+            logo: "stations/images-europe/china/xj/راديوسى شىڭجاڭ قازاق ءتىلى.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8"
+        },
+        {
+            name: "ئۇيغۇرچە ئۈنۋېرسال رادىيو",
+            logo: "stations/images-europe/china/xj/ئۇيغۇرچە ئۈنۋېرسال رادىيو.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8"
+        },
+        {
+            name: "قاتناش سەنئەت رادىيوسى",
+            logo: "stations/images-europe/china/xj/قاتناش سەنئەت رادىيوسى.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8"
         },
     ],
     "croatia": [
@@ -1213,7 +1341,7 @@ var stations = {/*
         },
         {
             name: "HR Klasik",
-            logo: "stations/images-europe/croatia/HR 3.png",
+            logo: "stations/images-europe/croatia/HR Klasik.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/HR_CLASSICSAAC_SC"
         },
         {
@@ -1240,11 +1368,6 @@ var stations = {/*
             name: "Hrvatski Katolički Radio",
             logo: "stations/images-europe/croatia/Hrvatski Katolički Radio.png",
             url: "http://stream.hkr.hr:8000/hkr.mp3"
-        },
-        {
-            name: "Nacional Radio",
-            logo: "stations/images-europe/croatia/Nacional Radio.png",
-            url: "https://nnc1-bpmmc501.radioca.st/stream"
         },
         {
             name: "Otvoreni",
@@ -3862,6 +3985,83 @@ var stations = {/*
             url: "https://cast2.radiohost.ovh/xiakos?mp=/stream"
         },
     ],
+    "greece_corfu": [
+        {
+            name: "Studio 1 87.6",
+            logo: "stations/images-europe/greece/corfu/Studio 1 87.6.png",
+            url: "https://sh.onweb.gr/8872/stream"
+        },
+        {
+            name: "Star FM 88.8",
+            logo: "stations/images-europe/greece/corfu/Star FM 88.8.png",
+            url: "https://sh.onweb.gr/8800/stream/"
+        },
+        {
+            name: "Κύμα FM 90.3",
+            logo: "stations/images-europe/greece/corfu/Κύμα FM 90.3.png",
+            url: "https://sh.onweb.gr/8028/;"
+        },
+        {
+            name: "Ράδιο Άγιος Σπυρίδων 91.1",
+            logo: "stations/images-europe/greece/corfu/Ράδιο Άγιος Σπυρίδων 91.1.png",
+            url: "https://sh.onweb.gr:7052/;"
+        },
+        {
+            name: "KIIS Extra 95.8",
+            logo: "stations/images-europe/greece/corfu/KIIS Extra 95.8.png",
+            url: "https://streams.enjoyfm.gr:48502/kiis958.mp3"
+        },
+        {
+            name: "Radio DeeJay Corfu 97.5",
+            logo: "stations/images-europe/greece/corfu/Radio DeeJay Corfu 97.5.png",
+            url: "https://sh.onweb.gr:7083/stream"
+        },
+        {
+            name: "Νέο Ραδιόφωνο 97.9",
+            logo: "stations/images-europe/greece/corfu/Νέο Ραδιόφωνο 97.9.png",
+            url: "https://sh.onweb.gr/8820/;"
+        },
+        {
+            name: "Zoom 98.4",
+            logo: "stations/images-europe/greece/corfu/Zoom 98.4.png",
+            url: "https://radio.escape-media.gr:8062/stream/"
+        },
+        {
+            name: "Ράδιο Επτάνησα 98.8",
+            logo: "stations/images-europe/greece/corfu/Ράδιο Επτάνησα 98.8.png",
+            url: "https://eco.onestreaming.com/proxy/radioeptanisa/stream"
+        },
+        {
+            name: "ΕΡΤ Κέρκυρας 99.3",
+            logo: "stations/images-europe/greece/corfu/ΕΡΤ Κέρκυρας 99.3.png",
+            url: "https://radiostreaming.ert.gr/ert-kerkyra"
+        },
+        {
+            name: "Ρυθμός 99.7",
+            logo: "stations/images-europe/greece/corfu/Ρυθμός 99.7.png",
+            url: "https://sh.onweb.gr/8832/stream/"
+        },
+        {
+            name: "Ράδιο Κέρκυρα 100.1",
+            logo: "stations/images-europe/greece/corfu/Ράδιο Κέρκυρα 100.1.png",
+            url: "https://live.cast-control.eu:2000/stream/startmediaradio"
+        },
+        {
+            name: "Pop FM 102.2",
+            logo: "stations/images-europe/greece/corfu/Pop FM 102.2.png",
+            url: "https://sh.onweb.gr/8422/stream"
+        },
+        {
+            name: "Life News 102.9",
+            logo: "stations/images-europe/greece/corfu/Life News 102.9.png",
+            url: "https://sh.onweb.gr/8836/stream/"
+        },
+        {
+            name: "Ακτίνα FM 104.7",
+            logo: "stations/images-europe/greece/corfu/Ακτίνα FM 104.7.png",
+            url: "https://sc2.streamwithq.com:2000/stream/Aktina1047"
+        },
+    ],
     "greece_ioannina": [
         {
             name: "ΕΡΤ Ιωαννίνων 88.2",
@@ -5485,11 +5685,6 @@ var stations = {/*
         },
     ],
     "libya": [
-        {
-            name: "راديو الآن",
-            logo: "stations/images-europe/syria/راديو الآن.png",
-            url: "https://c20.radioboss.fm/stream/543"
-        },
         {
             name: "راديو الوسط",
             logo: "stations/images-europe/libya/راديو الوسط.png",
@@ -8147,7 +8342,7 @@ var stations = {/*
         {
             name: "Радио Имрӯз",
             logo: "stations/images-europe/tajikistan/Радио Имрӯз.png",
-            url: "https://radio.music.beeline.uz/imruz"
+            url: "https://55ca6d57744.vps.myjino.ru/radioi-imruz"
         },
         {
             name: "Радиои Ватан",
