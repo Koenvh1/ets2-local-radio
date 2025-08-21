@@ -108,6 +108,11 @@ var stations = {/*
             url: "https://streams.radio.co/sa3345aaa8/listen"
         },
         {
+            name: "BBC Pashto",
+            logo: "stations/images-europe/afghanistan/BBC Pashto.png",
+            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio"
+        },
+        {
             name: "Radio Killid",
             logo: "stations/images-europe/afghanistan/Radio Killid.png",
             url: "https://s1.voscast.com:7887/stream"
@@ -5497,7 +5502,7 @@ var stations = {/*
         {
             name: "Maral FM",
             logo: "stations/images-europe/kyrgyzstan/Maral FM.png",
-            url: "http://212.42.115.186:8000/;stream.mp3"
+            url: "https://cast.avtoradio.kg/0/maral"
         },
         {
             name: "Радио ОК",
@@ -5517,7 +5522,7 @@ var stations = {/*
         {
             name: "Санжыра радиосу",
             logo: "stations/images-europe/kyrgyzstan/Санжыра радиосу.png",
-            url: "http://212.112.106.84/sanjyra"
+            url: "https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/795883"
         },
         {
             name: "Сүйүнчү FM",
@@ -5703,12 +5708,12 @@ var stations = {/*
         {
             name: "RTV Lebda",
             logo: "stations/images-europe/libya/RTV Lebda.png",
-            url: "http://51.159.197.120:8082/stream"
+            url: "http://57.129.63.210:8082/stream"
         },
         {
             name: "VOA Africa",
             logo: "stations/images-europe/libya/VOA Africa.png",
-            url: "https://stream.radiojar.com/gyac3bggq3quv"   
+            url: "https://stream.radiojar.com/gyac3bggq3quv"
         },
     ],
     "liecht": [
@@ -6418,7 +6423,7 @@ var stations = {/*
         {
             name: "Brila FM",
             logo: "stations/images-europe/nigeria/Brila FM.png",
-            url: "https://ice31.securenetsystems.net/BRILAMP3"
+            url: "https://brilafm-atunwadigital.streamguys1.com/brilafm"
         },
         {
             name: "Cool FM",
@@ -6430,11 +6435,11 @@ var stations = {/*
             logo: "stations/images-europe/nigeria/Raypower FM.png",
             url: "https://streamlive2.hearthis.at:8000/9065169.ogg"
         },
-        /*{
+        {
             name: "Rhythm FM",
             logo: "stations/images-europe/nigeria/Rhythm FM.png",
-            url: "https://rhythmfmlagos-atunwadigital.streamguys1.com/rhythmfmlagos/playlist.m3u8"
-        },*/
+            url: "https://rhythmfmlagos-atunwadigital.streamguys1.com/rhythmfmlagos"
+        },
         {
             name: "Soundcity Radio",
             logo: "stations/images-europe/nigeria/Soundcity Radio.png",
@@ -6689,7 +6694,7 @@ var stations = {/*
         {
             name: "FM 100",
             logo: "stations/images-europe/pakistan/FM 100.png",
-            url: "https://cast4.servcast.net/proxy/fm100lhr/stream"
+            url: "https://cast4.servcast.net/proxy/fm100islamabad/stream"
         },
         {
             name: "Hot FM",
@@ -7199,7 +7204,7 @@ var stations = {/*
         {
             name: "Panorama FM",
             logo: "stations/images-europe/saudi/Panorama FM.png",
-            url: "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_7.m3u8"
+            url: "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8"
         },
         {
             name: "Rotana",
@@ -8347,7 +8352,7 @@ var stations = {/*
         {
             name: "Радиои Ватан",
             logo: "stations/images-europe/tajikistan/Радиои Ватан.png",
-            url: "http://95.142.83.233:8000/sr128"
+            url: "http://185.121.1.171:8000/sr128"
         },
     ],
     "thailand": [
