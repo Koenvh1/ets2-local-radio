@@ -10689,7 +10689,7 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6002/hls.m3u8"
         },
         {
-            name: "K300CT 107.9",
+            name: "107.9 K300CT",
             logo: "stations/images-america/farmington/KTGW 91.7.png",
             url: "http://69.39.14.19:8001/stream1"
         },
@@ -27719,9 +27719,9 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kcinfmaac-ibc3"
         },
         {
-            name: "107.7 K299CB",
-            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
-            url: "https://kuer.streamguys1.com//high_icy"
+            name: "True Oldies 107.7",
+            logo: "stations/images-america/st_george/True Oldies 107.7.png",
+            url: "https://ice42.securenetsystems.net/KCAY"
         },
         {
             name: "KSUB 590",
@@ -37500,8 +37500,8 @@ var stations = {/*
             url: "https://ice42.securenetsystems.net/PWR901"
         },
         {
-            name: "Podcast Radio US 92.1",
-            logo: "stations/images-america/c2c/tampa_fl/Podcast Radio US Tampa Bay.png",
+            name: "Florida Alumni Radio 92.1",
+            logo: "stations/images-america/c2c/tampa_fl/Florida Alumni Radio.png",
             url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WJBRAMAAC_SC"
         },
         {
@@ -37680,8 +37680,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2823/hls.m3u8"
         },
         {
-            name: "Podcast Radio US 1010",
-            logo: "stations/images-america/c2c/tampa_fl/Podcast Radio US Tampa Bay.png",
+            name: "Florida Alumni Radio 1010",
+            logo: "stations/images-america/c2c/tampa_fl/Florida Alumni Radio.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WJBRAMAAC_SC"
         },
         {

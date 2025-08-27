@@ -7967,12 +7967,12 @@ var stations = {/*
         {
             name: "Power FM",
             logo: "stations/images-europe/turkey/Power FM.png",
-            url: "https://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8"
+            url: "https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8"
         },
         {
             name: "Power Pop",
             logo: "stations/images-europe/turkey/Power Pop.png",
-            url: "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8"
+            url: "https://live.powerapp.com.tr/powerpop/abr/playlist.m3u8"
         },
         {
             name: "Power Türk",
