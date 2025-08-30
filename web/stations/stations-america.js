@@ -18019,8 +18019,8 @@ var stations = {/*
             url: "https://us2.maindigitalstream.com/ssl/KCRS"
         },
         {
-            name: "My Country 96.1",
-            logo: "stations/images-america/midland_odessa/My Country 96.1.png",
+            name: "Hot Country 96.1",
+            logo: "stations/images-america/midland_odessa/Hot Country 96.1.png",
             url: "https://us2.maindigitalstream.com/ssl/KMRK"
         },
         {
@@ -35421,9 +35421,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6912/hls.m3u8"
         },
         {
-            name: "97X",
-            logo: "stations/images-america/c2c/panama_city_fl/97X.png",
-            url: "https://dash.streamkast.co/proxy/magicbroadcasting1/wyyxfm"
+            name: "97.7 The Bone",
+            logo: "stations/images-america/c2c/panama_city_fl/97.7 The Bone.png",
+            url: "https://ice42.securenetsystems.net/WECQ"
         },
         {
             name: "Sunny 98.5",
@@ -43445,8 +43445,8 @@ var stations = {/*
             url: "https://5e1d043cba697.streamlock.net/881fm/881fm/playlist.m3u8"
         },
         {
-            name: "Pure Country 89",
-            logo: "stations/images-america/c2c/detroit_mi/Pure Country 89.png",
+            name: "89X",
+            logo: "stations/images-america/c2c/detroit_mi/89X.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/CIMXFMAAC_SC"
         },
         {
@@ -56569,7 +56569,7 @@ var stations = {/*
         },
         {
             name: "B93.3",
-            logo: "stations/images-america/c2c/milwaukee_wi/B93.3.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/B93.3_christmas.png",
             url: "http://wldb.streamon.fm:8000/WLDB-48k.aac"
         },
         {
