@@ -2017,12 +2017,12 @@ var stations = {/*
         {
             name: "KMPS 910",
             logo: "stations/images-america/victorville/La X 103.1.png",
-            url: "https://ais-sa1.streamon.fm/10288_96k.aac"
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/10288_96k.aac"
         },
         {
             name: "Talk 960",
             logo: "stations/images-america/victorville/Talk 960.png",
-            url: "https://ais-sa1.streamon.fm/10287_96k.aac"
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/10287_96k.aac"
         },
     ],
     "bartlett": [
@@ -3705,15 +3705,20 @@ var stations = {/*
             url: "https://sh.fl-us.audio-stream.com/proxy/kxdj?mp=/stream"
         },
         {
+            name: "KOMX 100.3",
+            logo: "stations/images-america/canadian/Radio Pampa.png",
+            url: "https://tampa.audio-stream.com/proxy/thetheat?mp=/komx"
+        },
+        {
             name: "102.9 K275CM",
             logo: "stations/images-america/shamrock/Legends 92.9.png",
             url: "http://174.127.75.88:8020/live"
-        },/*
+        },
         {
-            name: "103.3 The Arrow",
-            logo: "stations/images-america/canadian/103.3 The Arrow.png",
-            url: "http://139.60.77.55/kdrl"
-        },*/
+            name: "KRXZ 103.3",
+            logo: "stations/images-america/canadian/Radio Pampa.png",
+            url: "https://tampa.audio-stream.com/proxy/thetheat"
+        },
         {
             name: "104.5 KZZW",
             logo: "stations/images-america/0_general_logos/KJIL.png",
@@ -3728,6 +3733,11 @@ var stations = {/*
             name: "NewsTalk 940",
             logo: "stations/images-america/amarillo/NewsTalk 940.png",
             url: "https://live.amperwave.net/manifest/townsquare-kixzamaac-ibc3"
+        },
+        {
+            name: "KGRO 1230",
+            logo: "stations/images-america/canadian/Radio Pampa.png",
+            url: "https://tampa.audio-stream.com/proxy/thetheat?mp=/kgro"
         },
         {
             name: "KEYE 1400",
@@ -30232,7 +30242,7 @@ var stations = {/*
         {
             name: "Talk 960",
             logo: "stations/images-america/victorville/Talk 960.png",
-            url: "https://ais-sa1.streamon.fm/10287_96k.aac"
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/10287_96k.aac"
         },
     ],
     "waco": [
@@ -36511,22 +36521,22 @@ var stations = {/*
             name: "93.3 TigerFM",
             logo: "stations/images-america/c2c/fort_myers_fl/93.3 TigerFM.png",
             url: "http://62.151.177.31:8000/transmitter.mp3"
-        },/*
+        },
         {
             name: "Trump Country 93.7",
             logo: "stations/images-america/c2c/fort_myers_fl/Trump Country 93.7.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WHEL_HD3AAC_SC"
-        },*/
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHEL_HD3AAC_SC"
+        },
         {
             name: "FOX Sports 94.1",
             logo: "stations/images-america/c2c/fort_myers_fl/FOX Sports 105.9.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WFWNAMAAC.aac"
-        },/*
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFWNAMAAC.aac"
+        },
         {
             name: "94.5 The Arrow",
             logo: "stations/images-america/c2c/fort_myers_fl/94.5 The Arrow.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WAROFMAAC_SC"
-        },*/
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAROFMAAC_SC"
+        },
         {
             name: "95.3 The Beach",
             logo: "stations/images-america/c2c/fort_myers_fl/95.3 The Beach.png",
@@ -36556,11 +36566,11 @@ var stations = {/*
             name: "Podcast Radio US 96.5",
             logo: "stations/images-america/c2c/fort_myers_fl/Podcast Radio US Southwest Florida.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WXKBHD2AAC.aac"
-        },/*
+        },
         {
             name: "96.9 WINK FM",
             logo: "stations/images-america/c2c/fort_myers_fl/96.9 WINK FM.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WINKFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WINKFMAAC_SC"
         },
         {
             name: "Máxima 97.3",
@@ -36576,7 +36586,7 @@ var stations = {/*
             name: "FLY 98.5",
             logo: "stations/images-america/c2c/fort_myers_fl/FLY 98.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFFYFMAAC_SC"
-        },*/
+        },
         {
             name: "Playa 99.3",
             logo: "stations/images-america/c2c/fort_myers_fl/Playa 99.3.png",
@@ -36591,7 +36601,7 @@ var stations = {/*
             name: "100.5 Way FM",
             logo: "stations/images-america/0_general_logos/Way FM.png",
             url: "https://ais-sa8.cdnstream1.com/3156_64.aac"
-        },/*
+        },
         {
             name: "WAVV 101.1",
             logo: "stations/images-america/c2c/fort_myers_fl/WAVV 101.1.png",
@@ -36601,7 +36611,7 @@ var stations = {/*
             name: "101.1 WAVV-HD2",
             logo: "stations/images-america/c2c/fort_myers_fl/Smooth Jazz 107.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVV_HD2AAC.aac"
-        },*/
+        },
         {
             name: "Podcast Radio US 101.5",
             logo: "stations/images-america/c2c/fort_myers_fl/Podcast Radio US Southwest Florida.png",
@@ -48265,12 +48275,12 @@ var stations = {/*
             name: "K-LOVE 98.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },/*
+        },
         {
             name: "99.5 The Wave",
             logo: "stations/images-america/c2c/greenville_nc/99.5 The Wave.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMJVFMAAC_SC"
-        },*/
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMJVFMAAC_SC"
+        },
         {
             name: "100.7 WRDU",
             logo: "stations/images-america/c2c/raleigh_nc/100.7 WRDU.png",
@@ -48280,17 +48290,17 @@ var stations = {/*
             name: "101.1 The River",
             logo: "stations/images-america/c2c/greenville_nc/101.1 The River.png",
             url: "https://dbc.streamguys1.com/wqsl-fm.aac"
-        },/*
+        },
         {
             name: "101.9 Kiss FM",
             logo: "stations/images-america/c2c/greenville_nc/101.9 Kiss FM.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WIKSFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIKSFMAAC_SC"
         },
         {
             name: "Magic 103.3",
             logo: "stations/images-america/c2c/greenville_nc/Magic 103.3.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WMGVFMAAC_SC"
-        },*/
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGVFMAAC_SC"
+        },
         {
             name: "103.7 WTIB",
             logo: "stations/images-america/c2c/greenville_nc/103.7 WTIB.png",
@@ -48305,12 +48315,12 @@ var stations = {/*
             name: "BBN 105.3",
             logo: "stations/images-america/0_general_logos/BBN.png",
             url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
-        },/*
+        },
         {
             name: "106.5 WSFL",
             logo: "stations/images-america/c2c/greenville_nc/106.5 WSFL.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WSFLFMAAC_SC"
-        },*/
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFLFMAAC_SC"
+        },
         {
             name: "ESPN Radio Greenville 107.5",
             logo: "stations/images-america/c2c/greenville_nc/ESPN Radio Greenville.png",
