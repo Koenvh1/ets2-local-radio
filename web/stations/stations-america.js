@@ -257,21 +257,21 @@ var stations = {/*
         {
             name: "101.7 The Patriot",
             logo: "stations/images-america/abilene/101.7 The Patriot.png",
-            url: "https://ice42.securenetsystems.net/KAMA"
+            url: "https://stream.aiir.com/map9k36bob5tv"
         },
         {
             name: "101.7 KAMA-HD2",
             logo: "stations/images-america/abilene/NewsTalk 1560.png",
-            url: "https://ice42.securenetsystems.net/KEMP"
+            url: "https://stream.aiir.com/coy3dsm4pbyuv"
         },
         {
             name: "FOX Sports 101.7-HD3",
             logo: "stations/images-america/abilene/FOX Sports Abilene.png",
-            url: "https://ice42.securenetsystems.net/KASN"
+            url: "https://stream.aiir.com/wnpmj83scq3vv"
         },
         {
             name: "101.7 KAMA-HD4",
-            logo: "stations/images-america/abilene/KEAN 105.png",
+            logo: "stations/images-america/abilene/La Jefa 105.5.png",
             url: "http://sd1.puroradio.net:2020/stream/lajefa"
         },
         {
@@ -296,18 +296,18 @@ var stations = {/*
         },
         {
             name: "La Jefa 105.5",
-            logo: "stations/images-america/abilene/KEAN 105.png",
+            logo: "stations/images-america/abilene/La Jefa 105.5.png",
             url: "https://sd1.puroradio.net:2020/stream/lajefa"
         },
         {
             name: "106.3 The Raider",
             logo: "stations/images-america/abilene/106.3 The Raider.png",
-            url: "https://ice41.securenetsystems.net/KTJKHD1"
+            url: "https://stream.aiir.com/btsyptlxt7muv"
         },
         {
             name: "Infinity FM 106.3-HD2",
             logo: "stations/images-america/abilene/Infinity FM 106.3-HD2.png",
-            url: "https://ice42.securenetsystems.net/KHDD"
+            url: "https://stream.aiir.com/jqcikclketduv"
         },
         {
             name: "Rock 108",
@@ -327,7 +327,7 @@ var stations = {/*
         {
             name: "FOX Sports 1340",
             logo: "stations/images-america/abilene/FOX Sports Abilene.png",
-            url: "http://ice42.securenetsystems.net/KASN"
+            url: "http://stream.aiir.com/wnpmj83scq3vv"
         },
         {
             name: "AM 1400 The River",
@@ -347,7 +347,7 @@ var stations = {/*
         {
             name: "NewsTalk 1560",
             logo: "stations/images-america/abilene/NewsTalk 1560.png",
-            url: "https://ice42.securenetsystems.net/KEMP"
+            url: "https://stream.aiir.com/coy3dsm4pbyuv"
         },
     ],
     "alamogordo": [
@@ -3717,7 +3717,7 @@ var stations = {/*
         {
             name: "KRXZ 103.3",
             logo: "stations/images-america/canadian/Radio Pampa.png",
-            url: "https://tampa.audio-stream.com/proxy/thetheat"
+            url: "https://tampa.audio-stream.com/proxy/thetheat?mp=/krwp"
         },
         {
             name: "104.5 KZZW",
@@ -7444,7 +7444,7 @@ var stations = {/*
         {
             name: "KKBI 106.1",
             logo: "stations/images-america/de_queen/KKBI 106.1.png",
-            url: "http://motu.kkbifm.com:8000/k-64k.ogg"
+            url: "http://motu.kkbifm.com:8000/KKBI"
         },
     ],
     "des_moines": [
@@ -12730,7 +12730,7 @@ var stations = {/*
         {
             name: "106.1 KKBI",
             logo: "stations/images-america/idabel/106.1 KKBI.png",
-            url: "http://motu.kkbifm.com:8000/k-64k.ogg"
+            url: "http://motu.kkbifm.com:8000/KKBI"
         },
     ],
     "idaho_falls": [
@@ -41916,8 +41916,8 @@ var stations = {/*
             url: "https://ice66.securenetsystems.net/KMVX"
         },
         {
-            name: "103.1 NOW FM",
-            logo: "stations/images-america/c2c/monroe_la/103.1 NOW FM.png",
+            name: "ROCK 103",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "https://ice5.securenetsystems.net/KNNW"
         },
         {
@@ -41936,8 +41936,8 @@ var stations = {/*
             url: "https://ice66.securenetsystems.net/KMLB"
         },
         {
-            name: "Rock 106",
-            logo: "stations/images-america/c2c/monroe_la/Rock 106.png",
+            name: "Magic 106.1",
+            logo: "stations/images-america/0_general_logos/placeholder.png",
             url: "https://ice5.securenetsystems.net/KXRR"
         },
         {

@@ -330,7 +330,7 @@ var stations = {/*
         {
             name: "ENERGY ÖSTERREICH",
             logo: "stations/images-europe/austria/ENERGY ÖSTERREICH.png",
-            url: "https://scdn.nrjaudio.fm/adwz1/at/36001/aac_64.mp3"
+            url: "https://streaming.nrjaudio.fm/oujyhcnxeb5p"
         },
         {
             name: "ERF Süd",
