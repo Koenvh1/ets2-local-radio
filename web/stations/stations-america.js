@@ -34581,7 +34581,7 @@ var stations = {/*
         {
             name: "Sports Talk 99.5",
             logo: "stations/images-america/c2c/mobile_al/Sports Talk 99.5.png",
-            url: "https://stream.revma.ihrhls.com/zc5/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc7117/hls.m3u8"
         },
         {
             name: "Mix 99.9",
@@ -37954,9 +37954,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQFMAAC_SC"
         },
         {
-            name: "WNNX 100.5",
+            name: "100.5 WNNX",
             logo: "stations/images-america/c2c/atlanta_ga/99x.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNNXFMAAC_SC"
         },
         {
             name: "Smooth Jazz 101.1",
