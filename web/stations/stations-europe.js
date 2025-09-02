@@ -711,8 +711,8 @@ var stations = {/*
             url: "https://s29.myradiostream.com/19742/listen.mp3"
         },
         {
-            name: "Play Nostalgie",
-            logo: "stations/images-europe/belgium-nl/Play Nostalgie.png",
+            name: "Nostalgie",
+            logo: "stations/images-europe/belgium-nl/Nostalgie.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELINGAAC_SC"
         },
         {
@@ -1154,7 +1154,7 @@ var stations = {/*
         },
         {
             name: "HR Klasik",
-            logo: "stations/images-europe/croatia/HR 3.png",
+            logo: "stations/images-europe/croatia/HR Klasik.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/HR_CLASSICSAAC_SC"
         },
         {
@@ -1181,11 +1181,6 @@ var stations = {/*
             name: "Hrvatski Katolički Radio",
             logo: "stations/images-europe/croatia/Hrvatski Katolički Radio.png",
             url: "http://stream.hkr.hr:8000/hkr.mp3"
-        },
-        {
-            name: "Nacional Radio",
-            logo: "stations/images-europe/croatia/Nacional Radio.png",
-            url: "https://nnc1-bpmmc501.radioca.st/stream"
         },
         {
             name: "Otvoreni",
@@ -1477,6 +1472,11 @@ var stations = {/*
             url: "https://ice2.radia.cz/hit90128.aac"
         },
         {
+            name: "Oldies Radio",
+            logo: "stations/images-europe/czech/Oldies Radio.png",
+            url: "https://ice2.radia.cz/oldiesradio128.aac"
+        },
+        {
             name: "Radio 1",
             logo: "stations/images-europe/czech/Radio 1.png",
             url: "https://stream.rcs.revma.com/stk8hrvb938uv"
@@ -1529,7 +1529,7 @@ var stations = {/*
         {
             name: "Gold Impuls",
             logo: "stations/images-europe/czech/Rádio Impuls.png",
-            url: "http://stream.sepia.sk:8000/gold128.mp3"
+            url: "https://stream.sepia.sk:8000/gold128.mp3"
         },
         {
             name: "Radio Kiss",
@@ -1560,6 +1560,11 @@ var stations = {/*
             name: "Rock Radio",
             logo: "stations/images-europe/czech/Rock Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIOAAC_SC"
+        },
+        {
+            name: "Rock Radio Stage",
+            logo: "stations/images-europe/czech/Rock Radio Stage.png",
+            url: "https://ice2.radia.cz/rockzabava128.aac"
         },
         {
             name: "RockZone",
@@ -1654,6 +1659,11 @@ var stations = {/*
             url: "https://live-bauerdk.sharp-stream.com/popfm80.mp3"
         },
         {
+            name: "Pop FM 90'er",
+            logo: "stations/images-europe/denmark/Pop FM 90'er.png",
+            url: "https://live-bauerdk.sharp-stream.com/popfm90_dk_mp3"
+        },
+        {
             name: "Planet Rock",
             logo: "stations/images-europe/denmark/Planet Rock.png",
             url: "https://live-bauerdk.sharp-stream.com/DK_HQ_RP40.aac"
@@ -1687,6 +1697,11 @@ var stations = {/*
             name: "RADIO4",
             logo: "stations/images-europe/denmark/RADIO4.png",
             url: "https://netradio.radio4.dk/radio4"
+        },
+        {
+            name: "r8Dio",
+            logo: "stations/images-europe/denmark/r8Dio.png",
+            url: "https://s3.radio.co/s7cd1ffe2f/listen"
         },
         {
             name: "Skala.fm",
@@ -1783,6 +1798,11 @@ var stations = {/*
             url: "http://icecast.err.ee/raadio4madal.mp3"
         },
         {
+            name: "Äripäeva Raadio",
+            logo: "stations/images-europe/estonia/Äripäeva Raadio.png",
+            url: "https://www.aripaev.ee/raadio/stream.mp3"
+        },
+        {
             name: "MyHits",
             logo: "stations/images-europe/estonia/MyHits.png",
             url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
@@ -1791,6 +1811,11 @@ var stations = {/*
             name: "Power Hit Radio",
             logo: "stations/images-europe/estonia/Power Hit Radio.png",
             url: "https://ice.leviracloud.eu/phr96-aac"
+        },
+        {
+            name: "Raadio Duo",
+            logo: "stations/images-europe/estonia/Raadio Duo.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac"
         },
         {
             name: "Raadio Elmar",
@@ -1813,9 +1838,14 @@ var stations = {/*
             url: "https://stream.skymedia.ee/live/RETRO"
         },
         {
-            name: "Ruskoe Radio",
-            logo: "stations/images-europe/estonia/Ruskoe Radio.png",
-            url: "https://stream.skymedia.ee/live/RR"
+            name: "Rock FM",
+            logo: "stations/images-europe/estonia/Rock FM.png",
+            url: "https://stream.skymedia.ee/live/rck"
+        },
+        {
+            name: "Sky Радио",
+            logo: "stations/images-europe/estonia/Sky Радио.png",
+            url: "https://stream.skymedia.ee/live/SKY"
         },
         {
             name: "Sky Plus",
@@ -1826,6 +1856,21 @@ var stations = {/*
             name: "Star FM",
             logo: "stations/images-europe/estonia/Star FM.png",
             url: "https://ice.leviracloud.eu/star96-aac"
+        },
+        {
+            name: "Star FM Eesti",
+            logo: "stations/images-europe/estonia/Star FM Eesti.png",
+            url: "https://ice.leviracloud.eu/starFMEesti128-aac"
+        },
+        {
+            name: "Super Радио",
+            logo: "stations/images-europe/estonia/Super Радио.png",
+            url: "https://stream.skymedia.ee/live/RR"
+        },
+        {
+            name: "Tre Raadio",
+            logo: "stations/images-europe/estonia/Tre Raadio.png",
+            url: "https://cdn.treraadio.ee/pohja-tre"
         },
     ],
     "faroe": [
@@ -5155,6 +5200,11 @@ var stations = {/*
             url: "https://stream.ehrhiti.lv:8000/ehr.aac"
         },
         {
+            name: "EHR Latviešu Hiti",
+            logo: "stations/images-europe/latvia/EHR Latviešu Hiti.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/EHR_LATVIESU_HITIAAC_SC"
+        },
+        {
             name: "EHR SuperHits",
             logo: "stations/images-europe/latvia/EHR Superhits.png",
             url: "https://stream.ehrhiti.lv:8000/Stream_21.aac"
@@ -5918,8 +5968,8 @@ var stations = {/*
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC_SC",
         },
         {
-            name: "One World Radio",
-            logo: "stations/images-europe/belgium-nl/One World Radio.png",
+            name: "538 Tomorrowland One World Radio",
+            logo: "stations/images-europe/netherlands/538 Tomorrowland One World Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NLAAC_SC"
         },
         {
@@ -6031,6 +6081,11 @@ var stations = {/*
             name: "Tukker FM",
             logo: "stations/images-europe/netherlands/Tukker FM.png",
             url: "https://stream.tukkerfm.nl/tukkerfm"
+        },
+        {
+            name: "Ujala Radio",
+            logo: "stations/images-europe/netherlands/Ujala Radio.png",
+            url: "https://stream.ujala.nl/ujala"
         },
         {
             name: "Vibe Radio",
@@ -7020,14 +7075,19 @@ var stations = {/*
             url: "https://audio.lumen.sk/live128.mp3"
         },
         {
+            name: "Rádio Rock",
+            logo: "stations/images-europe/slovakia/Rádio Rock.png",
+            url: "https://stream.bauermedia.sk/rock-hi.mp3"
+        },
+        {
+            name: "Rádio Viva",
+            logo: "stations/images-europe/slovakia/Rádio Viva.png",
+            url: "https://stream.sepia.sk/viva128.mp3"
+        },
+        {
             name: "Rádio Vlna",
             logo: "stations/images-europe/slovakia/Rádio Vlna.png",
             url: "https://stream.radiovlna.sk/vlna-hi.mp3"
-        },
-        {
-            name: "Rádio WOW",
-            logo: "stations/images-europe/slovakia/Rádio WOW.png",
-            url: "https://radioserver.online:9816/radiowow.mp3"
         },
     ],
     "slovenia": [
@@ -7052,6 +7112,16 @@ var stations = {/*
             url: "https://mp3.rtvslo.si/val202"
         },
         {
+            name: "Best FM",
+            logo: "stations/images-europe/slovenia/Best FM.png",
+            url: "https://live.radio.si/BestFM"
+        },
+        {
+            name: "Enter",
+            logo: "stations/images-europe/slovenia/Enter.png",
+            url: "https://stream.nextmedia.si/proxy/enter_1?mp=/enter"
+        },
+        {
             name: "Hitradio Center",
             logo: "stations/images-europe/slovenia/Hitradio Center.png",
             url: "http://stream3.radiocenter.si:8000/;center/1"
@@ -7067,9 +7137,19 @@ var stations = {/*
             url: "https://live.radio.si/Radio80"
         },
         {
+            name: "Radio 1 90-a",
+            logo: "stations/images-europe/slovenia/Radio 1 90-a.png",
+            url: "https://live.radio.si/Radio90"
+        },
+        {
             name: "Radio 1 Rock",
             logo: "stations/images-europe/slovenia/Radio 1 Rock.png",
             url: "https://live.radio.si/Radio1Rock"
+        },
+        {
+            name: "Radio 1 slovenski hiti",
+            logo: "stations/images-europe/slovenia/Radio 1 slovenski hiti.png",
+            url: "https://live.radio.si/Radio1SLO"
         },
         {
             name: "Radio Aktual",
@@ -7077,9 +7157,19 @@ var stations = {/*
             url: "https://live.radio.si/Aktual"
         },
         {
+            name: "Radio Aktual Romantika",
+            logo: "stations/images-europe/slovenia/Radio Aktual Romantika.png",
+            url: "https://live.radio.si/AktualRomantika"
+        },
+        {
             name: "Radio Antena",
             logo: "stations/images-europe/slovenia/Radio Antena.png",
             url: "https://live.radio.si/Antena"
+        },
+        {
+            name: "Radio Capris",
+            logo: "stations/images-europe/slovenia/Radio Capris.png",
+            url: "https://stream.exit.si/live"
         },
         {
             name: "Radio City",
@@ -7090,6 +7180,16 @@ var stations = {/*
             name: "Radio Ekspres",
             logo: "stations/images-europe/slovenia/Radio Ekspres.png",
             url: "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream"
+        },
+        {
+            name: "Radio Frajer",
+            logo: "stations/images-europe/slovenia/Radio Frajer.png",
+            url: "https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer"
+        },
+        {
+            name: "Radio Hit",
+            logo: "stations/images-europe/slovenia/Radio Hit.png",
+            url: "https://live.radio.si/Hit"
         },
         {
             name: "Radio NET FM",
@@ -7117,9 +7217,29 @@ var stations = {/*
             url: "https://live.radio.si/Veseljak"
         },
         {
+            name: "Radio Veseljak Zlati zvoki",
+            logo: "stations/images-europe/slovenia/Radio Veseljak Zlati zvoki.png",
+            url: "https://live.radio.si/VeseljakZlatiZvoki"
+        },
+        {
+            name: "Radio Zeleni val",
+            logo: "stations/images-europe/slovenia/Radio Zeleni val.png",
+            url: "https://jurepeterka.radioca.st/;"
+        },
+        {
+            name: "Retro Radio",
+            logo: "stations/images-europe/slovenia/Retro Radio.png",
+            url: "https://zvok.ragla.si/gr"
+        },
+        {
             name: "Rock Radio",
             logo: "stations/images-europe/slovenia/Rock Radio.png",
             url: "http://stream.rockradio.si:9034/rock"
+        },
+        {
+            name: "Štajerski val",
+            logo: "stations/images-europe/slovenia/Štajerski val.png",
+            url: "https://stream.stajerskival.si:8443/live"
         },
         {
             name: "Toti Radio",
@@ -7168,11 +7288,11 @@ var stations = {/*
             logo: "stations/images-europe/spain/Cope.png",
             url: "https://flucast14-h-cloud.flumotion.com/cope/net1.mp3"
         },
-        {
+        /*{
             name: "Europa FM",
             logo: "stations/images-europe/spain/Europa FM.png",
             url: "https://agregadores-atres-live.atresmedia.com/tunein/live/europafm/master.m3u8"
-        },
+        },*/
         {
             name: "esRadio",
             logo: "stations/images-europe/spain/esRadio.png",
@@ -7223,11 +7343,11 @@ var stations = {/*
             logo: "stations/images-europe/spain/LOS40 Urban.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC_SC"
         },
-        {
+        /*{
             name: "Melodía FM",
             logo: "stations/images-europe/spain/Melodía FM.png",
             url: "https://agregadores-atres-live.atresmedia.com/tunein/live/melodiafm/master.m3u8"
-        },
+        },*/
         {
             name: "Onda Cero",
             logo: "stations/images-europe/spain/Onda Cero.png",
