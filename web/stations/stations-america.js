@@ -42899,6 +42899,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLVAAC_SC"
         },
         {
+            name: "93.5 W228DI",
+            logo: "stations/images-america/c2c/hagerstown_md/The Gamut 820.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWFDAMAAC_SC"
+        },
+        {
             name: "93.9 WKYS",
             logo: "stations/images-america/c2c/washington_dc/93.9 WKYS.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKYSFMAAC_SC"
@@ -43072,6 +43077,11 @@ var stations = {/*
             name: "The Team 980",
             logo: "stations/images-america/c2c/washington_dc/The Team 980.png",
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wtemamaac-imc"
+        },
+        {
+            name: "1050 WBQH",
+            logo: "stations/images-america/c2c/hagerstown_md/The Gamut 820.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WWFDAMAAC_SC"
         },
         {
             name: "BIN 1120",
@@ -47158,8 +47168,8 @@ var stations = {/*
             url: "https://fln01.sslstream.com/fln-familylife-aac"
         },
         {
-            name: "Radio 95.1",
-            logo: "stations/images-america/c2c/rochester_ny/Radio 95.1.png",
+            name: "ROCK 95.1",
+            logo: "stations/images-america/c2c/rochester_ny/ROCK 95.1.png",
             url: "https://stream.revma.ihrhls.com/zc1501/hls.m3u8"
         },
         {
@@ -49629,8 +49639,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/audacy-wncxfmaac-imc"
         },
         {
-            name: "Throwback 99.1",
-            logo: "stations/images-america/c2c/cleveland_oh/Throwback 99.1.png",
+            name: "Sports Radio 99.1",
+            logo: "stations/images-america/c2c/cleveland_oh/Sports Radio 99.1.png",
             url: "https://stream.revma.ihrhls.com/zc10408/hls.m3u8"
         },
         {
