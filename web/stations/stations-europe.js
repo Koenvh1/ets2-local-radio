@@ -1528,7 +1528,7 @@ var stations = {/*
         },
         {
             name: "Gold Impuls",
-            logo: "stations/images-europe/czech/Rádio Impuls.png",
+            logo: "stations/images-europe/czech/Gold Impuls.png",
             url: "https://stream.sepia.sk:8000/gold128.mp3"
         },
         {
@@ -3599,6 +3599,11 @@ var stations = {/*
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
             url: "https://streamtdy.ir-media-tec.com/sc-nrw/mp3-128/dmhubweb/play.mp3"
+        },
+        {
+            name: "ROCK FM",
+            logo: "stations/images-europe/germany-bw/ROCK FM.png",
+            url: "https://stream.regenbogen2.de/nrw/aac-128/homepage/"
         },
         {
             name: "Schlager Radio",
@@ -6177,6 +6182,11 @@ var stations = {/*
             url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p3"
         },
         {
+            name: "NRK P3 Musikk",
+            logo: "stations/images-europe/norway/NRK P3 Musikk.png",
+            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p13"
+        },
+        {
             name: "NRK Klassisk",
             logo: "stations/images-europe/norway/NRK Klassisk.png",
             url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/klassisk"
@@ -6200,11 +6210,6 @@ var stations = {/*
             name: "NRK Jazz",
             logo: "stations/images-europe/norway/NRK Jazz.png",
             url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/jazz"
-        },
-        {
-            name: "NRK P13",
-            logo: "stations/images-europe/norway/NRK P13.png",
-            url: "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p13"
         },
         {
             name: "NRK mP3",
@@ -7120,6 +7125,11 @@ var stations = {/*
             name: "Hitradio Center",
             logo: "stations/images-europe/slovenia/Hitradio Center.png",
             url: "http://stream3.radiocenter.si:8000/;center/1"
+        },
+        {
+            name: "Klasik Radio",
+            logo: "stations/images-europe/slovenia/Klasik Radio.png",
+            url: "https://live.radio.si/Klasik"
         },
         {
             name: "Radio 1",
