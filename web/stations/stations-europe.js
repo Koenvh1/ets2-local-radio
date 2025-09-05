@@ -1788,6 +1788,11 @@ var stations = {/*
             url: "http://icecast.err.ee/raadio2.mp3"
         },
         {
+            name: "Raadio 2 Altpop",
+            logo: "stations/images-europe/estonia/Raadio 2 Altpop.png",
+            url: "http://icecast.err.ee/r2alternatiiv.mp3"
+        },
+        {
             name: "Klassikaraadio",
             logo: "stations/images-europe/estonia/Klassikaraadio.png",
             url: "http://icecast.err.ee/klassikaraadio.mp3"
@@ -1808,6 +1813,16 @@ var stations = {/*
             url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
         },
         {
+            name: "MyHits Dance",
+            logo: "stations/images-europe/estonia/MyHits Dance.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/md_mhdance.aac"
+        },
+        {
+            name: "MyHits Rock",
+            logo: "stations/images-europe/estonia/MyHits Rock.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/MHR_myhitsrock.aac"
+        },
+        {
             name: "Power Hit Radio",
             logo: "stations/images-europe/estonia/Power Hit Radio.png",
             url: "https://ice.leviracloud.eu/phr96-aac"
@@ -1818,14 +1833,64 @@ var stations = {/*
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac"
         },
         {
+            name: "Duo Country",
+            logo: "stations/images-europe/estonia/Duo Country.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac"
+        },
+        {
+            name: "Duo Gold",
+            logo: "stations/images-europe/estonia/Duo Gold.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac"
+        },
+        {
+            name: "Duo Hitmix",
+            logo: "stations/images-europe/estonia/Duo Hitmix.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DHM_hitmix.aac"
+        },
+        {
+            name: "Duo Party",
+            logo: "stations/images-europe/estonia/Duo Party.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac"
+        },
+        {
+            name: "Duo Softmix",
+            logo: "stations/images-europe/estonia/Duo Softmix.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DS_softmix.aac"
+        },
+        {
             name: "Raadio Elmar",
             logo: "stations/images-europe/estonia/Raadio Elmar.png",
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
         },
         {
+            name: "Elmari Kuld",
+            logo: "stations/images-europe/estonia/Elmari Kuld.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmarikuld.aac"
+        },
+        {
+            name: "Elmari Tantsuõhtu",
+            logo: "stations/images-europe/estonia/Elmari Tantsuõhtu.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmaritantsuohtu.aac"
+        },
+        {
+            name: "Raadio Kidzone",
+            logo: "stations/images-europe/estonia/Raadio Kidzone.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac"
+        },
+        {
             name: "Raadio Kuku",
             logo: "stations/images-europe/estonia/Raadio Kuku.png",
             url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
+        },
+        {
+            name: "Raadio Nostalgia",
+            logo: "stations/images-europe/estonia/Raadio Nostalgia.png",
+            url: "https://c16.radioboss.fm:8327/stream"
+        },
+        {
+            name: "Raadio Tallinn",
+            logo: "stations/images-europe/estonia/Raadio Tallinn.png",
+            url: "http://icecast.err.ee/raadiotallinn.mp3"
         },
         {
             name: "Relax FM",
@@ -8087,7 +8152,7 @@ var stations = {/*
         {
             name: "Habertürk Radyo",
             logo: "stations/images-europe/turkey/Habertürk Radyo.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURKAAC_SC"
+            url: "https://haberturkradyo.radyotvonline.net/haberturkradyo"
         },
         {
             name: "Joy Türk",
