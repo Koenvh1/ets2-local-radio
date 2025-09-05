@@ -275,7 +275,9 @@ namespace ETS2_Local_Radio_server
             }
             else if (context.Request.Url.AbsolutePath == "/commands/")
             {
-                string text = Newtonsoft.Json.JsonConvert.SerializeObject(Main.commandsData);
+                Commands cmd;
+                bool taken = Main.commandsData.TryTake(out cmd, 30000);
+                string text = taken ? Newtonsoft.Json.JsonConvert.SerializeObject(cmd) : Newtonsoft.Json.JsonConvert.SerializeObject(Main.dummyCommands);
 
                 context.Response.ContentType = "application/json";
                 context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
