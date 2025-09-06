@@ -1277,6 +1277,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.4
     },
+    "ludlow_west": {
+        name: "Ludlow",
+        name_english: "Ludlow",
+        code: "us-ca",
+        relative_radius: 0.4
+    },
     "lufkin": {
         name: "Lufkin",
         name_english: "Lufkin",
@@ -3072,6 +3078,10 @@ var city_properties = {
     },
     "ludlow": {
         relative_whitenoise: 0.85
+    },
+    "ludlow_west": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "lufkin": {
         relative_whitenoise: 0.95
@@ -5648,9 +5658,17 @@ var cities = [
         "gameName": "ludlow",
         "realName": "Ludlow",
         "country": "ludlow",
-        "x": "-93112.4",
-        "y": "29.276",
-        "z": "14107.5"
+        "x": "-90423.7",
+        "y": "122.505",
+        "z": "14670.1"
+    },
+    {
+        "gameName": "ludlow_west",
+        "realName": "Ludlow",
+        "country": "ludlow",
+        "x": "-92712.4",
+        "y": "122.505",
+        "z": "13970.1"
     },
     {
         "gameName": "lufkin",
