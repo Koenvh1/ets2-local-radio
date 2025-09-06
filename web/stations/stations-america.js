@@ -24746,7 +24746,7 @@ var stations = {/*
         {
             name: "95.9 The Lion",
             logo: "stations/images-america/santa_rosa_nm/95.9 The Lion.png",
-            url: "https://streaming.live365.com/a18745"
+            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a18745"
         },
         {
             name: "98.1 KBAC",
