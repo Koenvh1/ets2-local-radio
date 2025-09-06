@@ -5648,9 +5648,9 @@ var cities = [
         "gameName": "ludlow",
         "realName": "Ludlow",
         "country": "ludlow",
-        "x": "-90423.7",
-        "y": "122.505",
-        "z": "14670.1"
+        "x": "-93112.4",
+        "y": "29.276",
+        "z": "14107.5"
     },
     {
         "gameName": "lufkin",
