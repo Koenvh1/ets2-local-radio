@@ -30,79 +30,7 @@ var g_last_command = "0";
 var g_show_all = false;
 //contains, whether darktheme is enabled or not
 var g_darkThm = false;
-
-
-function processCommands() {
-    $.getJSON(g_api + "/commands/").done(function (data) {
-        try {
-            if (data.language != g_language) {
-                console.log(data.language);
-                g_language = data.language;
-                refreshLanguage();
-            }
-            if (data.game != g_game) {
-                g_game = data.game;
-                $(".game").html(g_game);
-                loadScripts();
-            }
-            if (g_last_command != data.id) {
-                console.log(data);
-                g_last_command = data.id;
-                if (!controlRemote) {
-                    if (data.action == "stop") {
-                        togglePlay();
-                    }
-                    if (data.action == "next") {
-                        nextStation(parseInt(data.amount));
-                    }
-                    if (data.action == "volume") {
-                        volumeChange(data.amount);
-                    }
-                    if (data.action == "favourite") {
-                        setCurrentAsFavourite();
-                    }
-                    if (data.action == "goToFavourite") {
-                        if (g_favourites[g_current_country] != "" && g_current_country != null) {
-                            var chosen_country = g_current_country;
-                            var index = stations[chosen_country].map(function (e) {
-                                return e.name;
-                            }).indexOf(g_favourites[chosen_country]);
-                            if (index < 0) index = 0;
-                            if (g_current_url == stations[chosen_country][index]["url"]) {
-                                var new_country = null;
-                                var new_country_next = false;
-                                for (var key in g_countries) {
-                                    if (g_countries.hasOwnProperty(key)) {
-                                        if (g_favourites[key] == null) continue;
-                                        if (new_country == null) {
-                                            new_country = g_countries[key].country;
-                                        }
-                                        if (key == g_current_country) {
-                                            new_country_next = true;
-                                            continue;
-                                        }
-                                        if (new_country_next) {
-                                            new_country = g_countries[key].country;
-                                            break;
-                                        }
-                                    }
-                                }
-                                chosen_country = new_country;
-                                index = stations[chosen_country].map(function (e) {
-                                    return e.name;
-                                }).indexOf(g_favourites[chosen_country]);
-                            }
-                            if (index < 0) index = 0;
-                            setRadioStation(stations[chosen_country][index]["url"], chosen_country, g_countries[chosen_country]["whitenoise"]);
-                        }
-                    }
-                }
-            }
-        } finally {
-            processCommands();
-        }
-    });
-}
+var g_initial_received = false;
 
 function initialise() {
     console.log("Start init");
@@ -111,21 +39,21 @@ function initialise() {
         document.getElementById("switchStation").volume = 0;
         document.getElementById("whitenoise").volume = 0;
         document.getElementById("whitenoise").play();
-        if (g_skinConfig["transition-whitenoise"] == false) {
+        if(g_skinConfig["transition-whitenoise"] == false) {
             document.getElementById("switchStation").src = "about:blank";
         }
     });
 
     //Check updates:
-    $.getJSON("http://localradio.koenvh.nl/version.json", { _: new Date().getTime() }, function (dataRemote) {
-        $.getJSON(g_api + "/version.json", { _: new Date().getTime() }, function (dataLocal) {
+    $.getJSON("http://localradio.koenvh.nl/version.json", {_: new Date().getTime()}, function (dataRemote) {
+        $.getJSON(g_api + "/version.json", {_: new Date().getTime()}, function (dataLocal) {
             if (dataLocal.version != dataRemote.version) {
                 $(".update").show();
             }
         });
     });
 
-    if (getBrowser().ie || getBrowser().safari) {
+    if(getBrowser().ie || getBrowser().safari){
         $(".unsupported-browser").show();
     }
 
@@ -144,7 +72,7 @@ function initialise() {
     g_whitenoise = g_skinConfig.whitenoise;
     $("#volumeControl").val(g_volume * 100);
     if (g_darkThm) {
-        $('body').addClass('dark');
+      $('body').addClass('dark');
     }
 
     refreshLanguage();
@@ -163,7 +91,7 @@ function initialise() {
     });
 
     $("#player").on("error", function (e) {
-        if ($("#player").attr("src") != "about:blank") {
+        if($("#player").attr("src") != "about:blank") {
             //$("#player").attr("src", "lib/audio/station_error.mp3");
             console.log(e);
         }
@@ -172,10 +100,82 @@ function initialise() {
     $(document).ready(function () {
         setTimeout(function () {
             var hash = parseInt(location.hash.substring(1));
-            if (hash >= 10000 && hash <= 99999) {
+            if(hash >= 10000 && hash <= 99999) {
                 connect(hash);
             }
         }, 5000);
+    });
+}
+
+function processCommands() {
+    $.getJSON(g_api + "/commands/").done(function (data) {
+        try {
+            if(data.language != g_language){
+                console.log(data.language);
+                g_language = data.language;
+                refreshLanguage();
+            }
+            if(data.game != g_game){
+                g_game = data.game;
+                $(".game").html(g_game);
+                loadScripts();
+            }
+            if(g_last_command != data.id){
+                console.log(data);
+                g_last_command = data.id;
+                if(!controlRemote) {
+                    if (data.action == "stop") {
+                        togglePlay();
+                    }
+                    if (data.action == "next") {
+                        nextStation(parseInt(data.amount));
+                    }
+                    if (data.action == "volume") {
+                        volumeChange(data.amount);
+                    }
+                    if (data.action == "favourite") {
+                        setCurrentAsFavourite();
+                    }
+                    if (data.action == "goToFavourite") {
+                        if(g_favourites[g_current_country] != "" && g_current_country != null) {
+                            var chosen_country = g_current_country;
+                            var index = stations[chosen_country].map(function (e) {
+                                return e.name;
+                            }).indexOf(g_favourites[chosen_country]);
+                            if(index < 0) index = 0;
+                            if(g_current_url == stations[chosen_country][index]["url"]){
+                                var new_country = null;
+                                var new_country_next = false;
+                                for(var key in g_countries){
+                                    if(g_countries.hasOwnProperty(key)){
+                                        if(g_favourites[key] == null) continue;
+                                        if(new_country == null){
+                                            new_country = g_countries[key].country;
+                                        }
+                                        if(key == g_current_country){
+                                            new_country_next = true;
+                                            continue;
+                                        }
+                                        if(new_country_next){
+                                            new_country = g_countries[key].country;
+                                            break;
+                                        }
+                                    }
+                                }
+                                chosen_country = new_country;
+                                index = stations[chosen_country].map(function (e) {
+                                    return e.name;
+                                }).indexOf(g_favourites[chosen_country]);
+                            }
+                            if(index < 0) index = 0;
+                            setRadioStation(stations[chosen_country][index]["url"], chosen_country, g_countries[chosen_country]["whitenoise"]);
+                        }
+                    }
+                }
+            }
+        } finally {
+            processCommands();
+        }
     });
 }
 
@@ -283,50 +283,54 @@ function refresh(data) {
         $(".nearestCity").html(city_lowest_distance + "; " + country_lowest_distance);
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
-        if (!available_countries.hasOwnProperty(g_current_country) ||
-            (available_countries[country_best_reception]["whitenoise"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["whitenoise"] &&
-                g_last_nearest_country != country_best_reception)) {
-            //If current station country is not close enough OR (the distance + threshold is larger than the new country's distance and the last station wasn't set manually.
-            g_last_nearest_country = country_best_reception;
+        var paused = document.getElementById("player").paused;
+        if (!paused || !g_initial_received) {
+            g_initial_received = true;
+            if (!available_countries.hasOwnProperty(g_current_country) ||
+                (available_countries[country_best_reception]["whitenoise"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["whitenoise"] &&
+                    g_last_nearest_country != country_best_reception)) {
+                //If current station country is not close enough OR (the distance + threshold is larger than the new country's distance and the last station wasn't set manually.
+                g_last_nearest_country = country_best_reception;
 
 
-            //Check if there is a favourite station:
-            var index = 0;
-            $.getJSON(g_api + "/favourite/" + country_best_reception, function (favourite_lowest_distance) {
-                if (favourite_lowest_distance["Name"] != "") {
-                    index = stations[country_best_reception].map(function (e) {
-                        return e.name;
-                    }).indexOf(favourite_lowest_distance["Name"]);
-                    if (index < 0) {
-                        index = 0;
+                //Check if there is a favourite station:
+                var index = 0;
+                $.getJSON(g_api + "/favourite/" + country_best_reception, function (favourite_lowest_distance) {
+                    if (favourite_lowest_distance["Name"] != "") {
+                        index = stations[country_best_reception].map(function (e) {
+                            return e.name;
+                        }).indexOf(favourite_lowest_distance["Name"]);
+                        if (index < 0) {
+                            index = 0;
+                        }
                     }
-                }
-                if (!controlRemote) {
-                    //If remote player, don't set radio station
-                    setRadioStation(stations[country_best_reception][index]["url"], country_best_reception, available_countries[country_best_reception]["whitenoise"]);
-                } else {
-                    g_current_url = stations[country_best_reception][index]["url"];
-                }
-                refreshStations();
-            });
-        }
-
-        if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
-            //If they don't contain the same keys (ie. a country update)
-            g_countries = available_countries;
-
-            refreshStations();
-            /*
-            for(var key in g_countries){
-                $.getJSON("/favourite/" + key, function (data) {
-                   g_countries[country_lowest_distance]["favourite"] = data["Name"];
+                    if (!controlRemote) {
+                        //If remote player, don't set radio station
+                        setRadioStation(stations[country_best_reception][index]["url"], country_best_reception, available_countries[country_best_reception]["whitenoise"]);
+                    } else {
+                        g_current_url = stations[country_best_reception][index]["url"];
+                    }
+                    refreshStations();
                 });
             }
-            */
-        } else {
-            setWhitenoise(available_countries[g_current_country]["whitenoise"]);
-            g_countries = available_countries;
 
+            if (Object.keys(available_countries).toString() != Object.keys(g_countries).toString()) {
+                //If they don't contain the same keys (ie. a country update)
+                g_countries = available_countries;
+
+                refreshStations();
+                /*
+                for(var key in g_countries){
+                    $.getJSON("/favourite/" + key, function (data) {
+                       g_countries[country_lowest_distance]["favourite"] = data["Name"];
+                    });
+                }
+                */
+            } else {
+                setWhitenoise(available_countries[g_current_country]["whitenoise"]);
+                g_countries = available_countries;
+
+            }
         }
     }
 };
@@ -335,7 +339,7 @@ function setRadioStation(url, country, volume) {
     //Set current listening country for when crossing the border
     g_current_url = url;
 
-    if (conn != null && conn.open && !controlRemote) {
+    if(conn != null && conn.open && !controlRemote){
         conn.send(JSON.stringify({
             type: "url",
             url: url,
@@ -343,7 +347,7 @@ function setRadioStation(url, country, volume) {
         }));
     }
     g_current_country = country;
-    if (controlRemote) {
+    if(controlRemote){
         conn.send(JSON.stringify({
             type: "station",
             url: url,
@@ -355,8 +359,8 @@ function setRadioStation(url, country, volume) {
         $("#player").stop();
         $("#switchStation").stop();
         document.getElementById("switchStation").play();
-        $("#switchStation").animate({ volume: (url == "" ? 0 : g_volume) }, 2500, "linear");
-        $("#player").animate({ volume: 0 }, 2000, function () {
+        $("#switchStation").animate({volume: (url == "" ? 0 : g_volume)}, 2500, "linear");
+        $("#player").animate({volume: 0}, 2000, function () {
             //Detach previous HLS if it is there
             if (g_hls != null) {
                 g_hls.stopLoad();
@@ -364,7 +368,7 @@ function setRadioStation(url, country, volume) {
                 g_hls = null;
             }
             var cleanUrl = url;
-            if (url.indexOf("?") !== -1) {
+            if(url.indexOf("?") !== -1){
                 cleanUrl = cleanUrl.split("?")[0];
             }
 
@@ -386,10 +390,10 @@ function setRadioStation(url, country, volume) {
                 //document.getElementById("player").play();
             }
             setTimeout(function () {
-                $("#switchStation").animate({ volume: 0 }, 200, function () {
+                $("#switchStation").animate({volume: 0}, 200, function () {
                     document.getElementById("switchStation").pause();
                 });
-                $("#player").animate({ volume: g_volume }, 50, function () {
+                $("#player").animate({volume: g_volume}, 50, function () {
                     g_whitenoise = g_skinConfig.whitenoise;
                 });
             }, 2200);
@@ -416,20 +420,20 @@ function setRadioStation(url, country, volume) {
 }
 
 function setWhitenoise(volume) {
-    if (g_whitenoise) {
+    if(g_whitenoise) {
         //Make new volume work exponentially:
-        var newVolume = Math.pow(volume, 2) - 0.15;
-        if (newVolume < 0) newVolume = 0;
+        var newVolume =  Math.pow(volume, 2) - 0.15;
+        if(newVolume < 0) newVolume = 0;
         newVolume = newVolume * g_volume;
-        if (newVolume > g_volume) newVolume = g_volume;
+        if(newVolume > g_volume) newVolume = g_volume;
         var playerVolume = g_volume;
-        if (newVolume > 0.5 * g_volume) {
+        if(newVolume > 0.5 * g_volume){
             //Create a distorted sound effect, with the sound sometimes dropping (no signal)
             playerVolume = document.getElementById("player").volume + parseFloat((Math.random() - 0.45) * g_volume) / 2;
-            if (playerVolume > g_volume) playerVolume = g_volume;
-            if (playerVolume < 0) playerVolume = 0;
+            if(playerVolume > g_volume) playerVolume = g_volume;
+            if(playerVolume < 0) playerVolume = 0;
             $("#player").stop();
-            $("#player").animate({ volume: playerVolume }, 1000, "swing");
+            $("#player").animate({volume: playerVolume}, 1000, "swing");
             //document.getElementById("player").volume = playerVolume;
         } else {
             document.getElementById("player").volume = g_volume;
@@ -443,7 +447,7 @@ function setWhitenoise(volume) {
 }
 
 function setFavouriteStation(country, name) {
-    if (controlRemote) {
+    if(controlRemote){
         conn.send(JSON.stringify({
             type: "favourite",
             country: country,
@@ -455,7 +459,7 @@ function setFavouriteStation(country, name) {
             });
         }, 500);
     } else {
-        $.get(g_api + "/favourite/" + country + "/" + encodeURIComponent(name), function () {
+        $.get(g_api + "/favourite/" + country + "/" + encodeURIComponent(name), function(){
             $("#snackbar").html(country_properties[country].name + " <i class='fa fa-heart'></i>  " + name).addClass("show");
             setTimeout(function () {
                 $("#snackbar").removeClass("show");
@@ -470,25 +474,25 @@ function setFavouriteStation(country, name) {
 }
 
 function setCurrentAsFavourite() {
-    if (g_current_country != null) {
+    if(g_current_country != null) {
         var index = stations[g_current_country].map(function (e) {
             return e.url;
         }).indexOf(g_current_url);
-        if (index != -1) {
+        if(index != -1) {
             setFavouriteStation(g_current_country, stations[g_current_country][index].name);
         }
     }
 }
 
 function togglePlay(fromRemote) {
-    if (typeof fromRemote === "undefined") fromRemote = false;
-    if (controlRemote) {
-        if (!fromRemote) {
+    if(typeof fromRemote === "undefined") fromRemote = false;
+    if(controlRemote){
+        if(!fromRemote) {
             conn.send(JSON.stringify({
                 type: "togglePlay"
             }));
         }
-        if ($("#stopPlayback").attr("src") == "lib/img/stop-button.png") {
+        if($("#stopPlayback").attr("src") == "lib/img/stop-button.png"){
             togglePlayVisual(false);
         } else {
             togglePlayVisual(true);
@@ -506,7 +510,7 @@ function togglePlay(fromRemote) {
             document.getElementById('whitenoise').pause();
             togglePlayVisual(false);
         }
-        if (!fromRemote && conn !== null && conn.open) {
+        if(!fromRemote && conn !== null && conn.open) {
             conn.send(JSON.stringify({
                 type: "togglePlay"
             }));
@@ -515,7 +519,7 @@ function togglePlay(fromRemote) {
 }
 
 function togglePlayVisual(showPause) {
-    if (showPause) {
+    if(showPause){
         $("#stopPlayback").attr("src", "lib/img/stop-button.png");
         $("#stopPlaybackMobile").removeClass("fa-play").addClass("fa-pause");
     } else {
@@ -526,7 +530,7 @@ function togglePlayVisual(showPause) {
 
 function nextStation(amount) {
     try {
-        if (!g_stations.length == 0) {
+        if(!g_stations.length == 0) {
             var index = -1;
             for (var i = 0; i < g_stations.length; i++) {
                 if (g_stations[i]["url"] == g_current_url && g_stations[i]["country"] == g_current_country) {
@@ -549,7 +553,7 @@ function nextStation(amount) {
 }
 
 function volumeChange(amount) {
-    $("#volumeControl").val(parseInt($("#volumeControl").val()) + ((parseInt($("#volumeControl").val()) / 50) + 0.1) * parseInt(amount));
+    $("#volumeControl").val(parseInt($("#volumeControl").val()) + ((parseInt($("#volumeControl").val()) / 50)  + 0.1) * parseInt(amount));
     g_volume = parseInt($("#volumeControl").val()) / 100;
 }
 
@@ -568,7 +572,7 @@ function updateVolume() {
 function scrollToStation() {
     $('html, body').animate({
         scrollTop: ($('.thumbnail-selected').first().offset().top - 300)
-    }, 500);
+    },500);
 }
 
 function getFullLogoUrl(logo) {
@@ -581,15 +585,15 @@ function getFullLogoUrl(logo) {
 
 function calculateReception(whitenoise) {
     var reception = Math.pow(parseFloat(whitenoise), 2) - 0.15;
-    if (reception < 0.05) {
+    if(reception  < 0.05){
         reception = "5";
-    } else if (reception < 0.20) {
+    } else if(reception < 0.20){
         reception = "4";
-    } else if (reception < 0.35) {
+    } else if(reception < 0.35){
         reception = "3";
-    } else if (reception < 0.50) {
+    } else if(reception < 0.50){
         reception = "2";
-    } else if (reception < 0.75) {
+    } else if(reception < 0.75){
         reception = "1";
     } else {
         reception = "0";
@@ -647,7 +651,7 @@ function refreshStations() {
                     '</div>' +
                     '<div class="play-button"></div>' +
                     '</div>' +
-                    //(localStorage.getItem("fav-" + key) == stations[key][j]['name'])
+                        //(localStorage.getItem("fav-" + key) == stations[key][j]['name'])
                     (g_favourites.hasOwnProperty(key) && g_favourites[key] == stations[key][j].name ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\'); $(this).css(\'background-color\', \'#2ebb1e\');">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
                     '</div>';
             }
@@ -662,7 +666,7 @@ function refreshStations() {
     $(".current-station-image").attr("src", getFullLogoUrl(stations[g_current_country][index].logo));
     $(".current-station-country").html(country_properties[g_current_country].name);
     $(".current-station-flag").attr("src", "lib/flags/" + country_properties[g_current_country].code + ".svg");
-    if (g_favourites[g_current_country] == stations[g_current_country][index].name) {
+    if(g_favourites[g_current_country] == stations[g_current_country][index].name) {
         $(".music-controller-favourite > button").css("color", "#f65454");
     } else {
         $(".music-controller-favourite > button").css("color", "#ffffff");
@@ -671,23 +675,23 @@ function refreshStations() {
 }
 
 function refreshLanguage() {
-    $.getJSON("lang/" + g_language + ".json", { _: new Date().getTime() }, function (data) {
+    $.getJSON("lang/" + g_language + ".json", {_: new Date().getTime()}, function (data) {
         g_translation = data;
-        for (var key in data.web) {
+        for(var key in data.web){
             if (data.web.hasOwnProperty(key)) {
                 $(".lang-" + key).html(data.web[key]);
             }
         }
-        if (data.rtl) {
+        if(data.rtl){
             $("html").attr("dir", "rtl");
-            if ($('#style-rtl').length === 0) {
+            if ( $('#style-rtl').length === 0 ) {
                 $('<link />', {
                     id: 'style-rtl',
                     rel: 'stylesheet',
                     href: 'lib/css/bootstrap-rtl.css'
                 }).appendTo('head');
             }
-            if ($('#style-fa-rtl').length === 0) {
+            if ( $('#style-fa-rtl').length === 0 ) {
                 $('<link />', {
                     id: 'style-fa-rtl',
                     rel: 'stylesheet',
@@ -705,14 +709,14 @@ function refreshLanguage() {
 function refreshFavourites(callback) {
     $.getJSON(g_api + "/favourite/", function (data) {
         g_favourites = data;
-        if (typeof callback !== "undefined") {
+        if(typeof callback !== "undefined") {
             callback();
         }
     });
 }
 
 if (!String.prototype.endsWith) {
-    String.prototype.endsWith = function (searchString, position) {
+    String.prototype.endsWith = function(searchString, position) {
         var subjectString = this.toString();
         if (typeof position !== 'number' || !isFinite(position) || Math.floor(position) !== position || position > subjectString.length) {
             position = subjectString.length;
@@ -724,7 +728,7 @@ if (!String.prototype.endsWith) {
 }
 
 if (!String.prototype.startsWith) {
-    String.prototype.startsWith = function (search, pos) {
+    String.prototype.startsWith = function(search, pos) {
         return this.substr(!pos || pos < 0 ? 0 : +pos, search.length) === search;
     };
 }
@@ -740,15 +744,15 @@ function sortObject(obj) {
             });
         }
     }
-    arr.sort(function (a, b) {
+    arr.sort(function(a, b) {
         return a.value.distance - b.value.distance;
     });
     var result = {};
-    for (var i = 0; i < arr.length; i++) {
+    for(var i = 0; i < arr.length; i++){
         result[arr[i].key] = obj[arr[i].key];
     }
     return result;
-    // return arr; // returns array
+   // return arr; // returns array
 }
 
 function getBrowser() {
@@ -781,13 +785,13 @@ function getBrowser() {
 }
 
 function toggleTheme() {
-    g_darkThm = !g_darkThm;
-    localStorage.setItem("theme", g_darkThm.toString());
+  g_darkThm = !g_darkThm;
+  localStorage.setItem("theme", g_darkThm.toString());
 
-    if (g_darkThm) {
-        $('body').addClass('dark');
-    }
-    else {
-        $('body').removeClass('dark');
-    }
+  if (g_darkThm) {
+    $('body').addClass('dark');
+  }
+  else {
+    $('body').removeClass('dark');
+  }
 }
