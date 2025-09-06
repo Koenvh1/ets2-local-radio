@@ -11243,11 +11243,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSTRFMAAC_SC"
         },
         {
-            name: "ESPN 96.5",
-            logo: "stations/images-america/grand_junction_montrose/ESPN 96.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kexoamaac-ibc3"
-        },
-        {
             name: "97.7 Jack FM",
             logo: "stations/images-america/grand_junction_montrose/97.7 Jack FM.png",
             url: "https://ais-sa1.streamon.fm/7060_24k.aac"
@@ -12720,7 +12715,7 @@ var stations = {/*
         {
             name: "Q102",
             logo: "stations/images-america/idabel/Q102.png",
-            url: "http://motu.kkbifm.com:8000/q-64k.ogg"
+            url: "http://motu.kkbifm.com:8000/KQIB"
         },
         {
             name: "KZRB 103.5",
@@ -12728,8 +12723,8 @@ var stations = {/*
             url: "https://stream.aiir.com/xmqa7fg8wnivv"
         },
         {
-            name: "106.1 KKBI",
-            logo: "stations/images-america/idabel/106.1 KKBI.png",
+            name: "KKBI 106.1",
+            logo: "stations/images-america/de_queen/KKBI 106.1.png",
             url: "http://motu.kkbifm.com:8000/KKBI"
         },
     ],
@@ -20789,8 +20784,8 @@ var stations = {/*
             url: "https://streaming.live365.com/a72595"
         },
         {
-            name: "The Time Machine 96.1",
-            logo: "stations/images-america/phoenix/The Time Machine.png",
+            name: "Xtasis 96.1",
+            logo: "stations/images-america/0_general_logos/Xtasis.png",
             url: "http://84.32.44.251/index.php?u=https://ice25.securenetsystems.net/KXEG"
         },
         {
@@ -20989,8 +20984,8 @@ var stations = {/*
             url: "https://crystalout.surfernetwork.com:8001/KFNX_MP3"
         },
         {
-            name: "The Time Machine 1280",
-            logo: "stations/images-america/phoenix/The Time Machine.png",
+            name: "1280 KXEG",
+            logo: "stations/images-america/0_general_logos/Xtasis.png",
             url: "http://84.32.44.251/index.php?u=http://ice25.securenetsystems.net/KXEG"
         },
         {
@@ -22198,9 +22193,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTHXFMAAC_SC"
         },
         {
-            name: "X94.9",
-            logo: "stations/images-america/reno/X94.9.png",
-            url: "https://ice42.securenetsystems.net/KWFP"
+            name: "Xtasis 94.9",
+            logo: "stations/images-america/0_general_logos/Xtasis.png",
+            url: "http://ice42.securenetsystems.net/KNNR"
         },
         {
             name: "95.5 The Vibe",
@@ -22343,8 +22338,8 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7198_24k.aac"
         },
         {
-            name: "Radio Xtasis 1400",
-            logo: "stations/images-america/reno/Radio Xtasis 1400.png",
+            name: "Xtasis 1400",
+            logo: "stations/images-america/0_general_logos/Xtasis.png",
             url: "https://ice42.securenetsystems.net/KNNR"
         },
         {
@@ -39654,8 +39649,8 @@ var stations = {/*
             url: "https://northernpr.streamguys1.com/WNIJ"
         },
         {
-            name: "95.3 Jack FM",
-            logo: "stations/images-america/c2c/lasalle_il/95.3 Jack FM.png",
+            name: "95.3 Jill FM",
+            logo: "stations/images-america/c2c/lasalle_il/95.3 Jill FM.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WRKXFMAAC_SC"
         },
         {
