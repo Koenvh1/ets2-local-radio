@@ -30,6 +30,7 @@ var g_last_command = "0";
 var g_show_all = false;
 //contains, whether darktheme is enabled or not
 var g_darkThm = false;
+var g_initial_received = false;
 
 function initialise() {
     console.log("Start init");
@@ -83,8 +84,32 @@ function initialise() {
         });
     }, 1000);
 
-    setInterval(function () {
-        $.getJSON(g_api + "/commands/").done(function (data) {
+    processCommands();
+
+    $('#volumeControl').on("change mousemove", function () {
+        updateVolume();
+    });
+
+    $("#player").on("error", function (e) {
+        if($("#player").attr("src") != "about:blank") {
+            //$("#player").attr("src", "lib/audio/station_error.mp3");
+            console.log(e);
+        }
+    });
+
+    $(document).ready(function () {
+        setTimeout(function () {
+            var hash = parseInt(location.hash.substring(1));
+            if(hash >= 10000 && hash <= 99999) {
+                connect(hash);
+            }
+        }, 5000);
+    });
+}
+
+function processCommands() {
+    $.getJSON(g_api + "/commands/").done(function (data) {
+        try {
             if(data.language != g_language){
                 console.log(data.language);
                 g_language = data.language;
@@ -148,27 +173,9 @@ function initialise() {
                     }
                 }
             }
-        });
-    }, 250);
-
-    $('#volumeControl').on("change mousemove", function () {
-        updateVolume();
-    });
-
-    $("#player").on("error", function (e) {
-        if($("#player").attr("src") != "about:blank") {
-            //$("#player").attr("src", "lib/audio/station_error.mp3");
-            console.log(e);
+        } finally {
+            processCommands();
         }
-    });
-
-    $(document).ready(function () {
-        setTimeout(function () {
-            var hash = parseInt(location.hash.substring(1));
-            if(hash >= 10000 && hash <= 99999) {
-                connect(hash);
-            }
-        }, 5000);
     });
 }
 
@@ -277,7 +284,8 @@ function refresh(data) {
         $(".distance").html(parseFloat(lowest_distance).toFixed(2));
 
         var paused = document.getElementById("player").paused;
-        if (!paused) {
+        if (!paused || !g_initial_received) {
+            g_initial_received = true;
             if (!available_countries.hasOwnProperty(g_current_country) ||
                 (available_countries[country_best_reception]["whitenoise"] + g_skinConfig.threshold[g_game] < available_countries[g_current_country]["whitenoise"] &&
                     g_last_nearest_country != country_best_reception)) {

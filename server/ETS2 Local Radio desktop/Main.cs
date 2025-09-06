@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Configuration;
@@ -13,6 +14,7 @@ using System.Net.Sockets;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
 using System.Windows.Forms;
 using ETS2_Local_Radio_server.Properties;
 using Gma.System.MouseKeyHook;
@@ -39,7 +41,8 @@ namespace ETS2_Local_Radio_server
         public static Coordinates coordinates;
 
         public static SCSTelemetry ets2data;
-        public static Commands commandsData;
+        public static Commands dummyCommands = new Commands("dummy", "none", "0", Settings.Language);
+        public static BlockingCollection<Commands> commandsData = new BlockingCollection<Commands>(100);
 
         public static string simulatorNotRunning = "Simulator not yet running";
         public static string simulatorNotDriving = "Simulator running, let's get driving!";
@@ -60,6 +63,7 @@ namespace ETS2_Local_Radio_server
 
         private void Main_Load(object sender, EventArgs e)
         {
+            commandsData.TryAdd(dummyCommands, 0, CancellationToken.None);
             Log.Clear();
             Settings.Load();
 
@@ -514,7 +518,7 @@ namespace ETS2_Local_Radio_server
             }
 
             Commands command = new Commands(id, action, amount, Settings.Language);
-            commandsData = command;
+            commandsData.TryAdd(command, 0, CancellationToken.None);
         }
         private void saveButton_Click(object sender, EventArgs e)
         {
