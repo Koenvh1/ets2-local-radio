@@ -5278,7 +5278,7 @@ var stations = {/*
         {
             name: "97.7 K249FK",
             logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
-            url: "https://ice8.securenetsystems.net//KDZA"
+            url: "https://ais-sa1.streamon.fm/10012_96k.aac/playlist.m3u8"
         },
         {
             name: "98.1 KKFM",
@@ -5323,7 +5323,7 @@ var stations = {/*
         {
             name: "101.9 KDZA",
             logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
-            url: "https://ice8.securenetsystems.net/KDZA"
+            url: "https://ais-sa1.streamon.fm/10012_96k.aac"
         },
         {
             name: "eXtra Music 102.1",
@@ -5358,7 +5358,7 @@ var stations = {/*
         {
             name: "107.3 KDZA",
             logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
-            url: "http://ice8.securenetsystems.net//KDZA"
+            url: "http://ais-sa1.streamon.fm/10012_96k.aac"
         },
         {
             name: "KIX Country 107.5",
@@ -5398,7 +5398,7 @@ var stations = {/*
         {
             name: "1230 KDZA",
             logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
-            url: "http://ice8.securenetsystems.net/KDZA"
+            url: "https:///ais-sa1.streamon.fm/10012_96k.aac"
         },
         {
             name: "Que Bueno 1280",
@@ -5418,7 +5418,7 @@ var stations = {/*
         {
             name: "KQSC-AM 1530",
             logo: "stations/images-america/colorado_springs_pueblo/KDZA.png",
-            url: "https://ice8.securenetsystems.net//KDZA"
+            url: "http:///ais-sa1.streamon.fm/10012_96k.aac"
         },
     ],
     "columbia_jcmo": [
@@ -11494,8 +11494,8 @@ var stations = {/*
     ],
     "granite": [
         {
-            name: "107 The Zone",
-            logo: "stations/images-america/granite/107 The Zone.png",
+            name: "106.9 The Zone",
+            logo: "stations/images-america/granite/106.9 The Zone.png",
             url: "http://12416.cloudrad.io:9354/live"
         },
     ],
@@ -27071,9 +27071,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7679_48k.aac"
         },
         {
-            name: "Oasis Radio 93.7",
-            logo: "stations/images-america/0_general_logos/Oasis Radio.png",
-            url: "https://oasis.streamguys1.com/live-aac"
+            name: "93.7 The Stage",
+            logo: "stations/images-america/springfield_mo/93.7 The Stage.png",
+            url: "https://ais-sa1.streamon.fm/7975_96k.aac"
         },
         {
             name: "94.7 KTTS",
