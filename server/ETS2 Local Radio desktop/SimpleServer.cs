@@ -275,13 +275,24 @@ namespace ETS2_Local_Radio_server
             }
             else if (context.Request.Url.AbsolutePath == "/commands/")
             {
-                string text = Newtonsoft.Json.JsonConvert.SerializeObject(Main.commandsData);
+                context.Response.ContentType = "text/event-stream";
+                context.Response.Headers.Add("Cache-Control", "no-cache");
 
-                context.Response.ContentType = "application/json";
-                context.Response.ContentLength64 = Encoding.UTF8.GetBytes(text).Length;
-                context.Response.StatusCode = (int)HttpStatusCode.OK;
-                context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
-                context.Response.OutputStream.Flush();
+                string previousId = null;
+
+                while (true)
+                {
+                    if (previousId != Main.commandsData.id)
+                    {
+                        previousId = Main.commandsData.id;
+                        string text = "event: commands\ndata: " + Newtonsoft.Json.JsonConvert.SerializeObject(Main.commandsData) + "\n\n";
+
+                        context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
+                        context.Response.OutputStream.Flush();
+                    }
+
+                    Thread.Sleep(50);
+                }
             }
             else if (context.Request.Url.AbsolutePath.StartsWith("/eskago/"))
             {
