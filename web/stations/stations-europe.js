@@ -5645,7 +5645,7 @@ var stations = {/*
         {
             name: "Antenna 5",
             logo: "stations/images-europe/macedonia/Antenna 5.png",
-            url: "http://antenna5stream.neotel.mk:8000/live128"
+            url: "https://antenna5stream.neotel.mk:8000/live128"
         },
         {
             name: "Jon Radio",

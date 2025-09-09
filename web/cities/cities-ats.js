@@ -1257,7 +1257,7 @@ var country_properties = {
         name: "Los Angeles",
         name_english: "Los Angeles",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 1.1
     },
     "ltahoe": {
         name: "South Lake Tahoe",
@@ -1272,6 +1272,12 @@ var country_properties = {
         relative_radius: 0.9
     },
     "ludlow": {
+        name: "Ludlow",
+        name_english: "Ludlow",
+        code: "us-ca",
+        relative_radius: 0.4
+    },
+    "ludlow_west": {
         name: "Ludlow",
         name_english: "Ludlow",
         code: "us-ca",
@@ -1312,12 +1318,6 @@ var country_properties = {
         name_english: "Marfa",
         code: "us-tx",
         relative_radius: 0.75
-    },
-    "martins": {
-        name: "Martins",
-        name_english: "Martins",
-        code: "us-ca",
-        relative_radius: 0.7
     },
     "maryville": {
         name: "Maryville",
@@ -1425,7 +1425,7 @@ var country_properties = {
         name: "Mojave",
         name_english: "Mojave",
         code: "us-ca",
-        relative_radius: 0.7
+		relative_radius: 0.7
     },
     "monterey": {
         name: "Monterey",
@@ -1551,7 +1551,7 @@ var country_properties = {
         name: "Oxnard",
         name_english: "Oxnard",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "ozona": {
         name: "Ozona",
@@ -1773,7 +1773,7 @@ var country_properties = {
         name: "Riverside",
         name_english: "Riverside",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "riverton": {
         name: "Riverton",
@@ -1954,12 +1954,6 @@ var country_properties = {
         name_english: "San Antonio",
         code: "us-tx",
         relative_radius: 0.9
-    },
-    "san_clemente": {
-        name: "San Clemente",
-        name_english: "San Clemente",
-        code: "us-ca",
-        relative_radius: 0.4
     },
     "san_diego": {
         name: "San Diego/Tijuana",
@@ -2247,7 +2241,7 @@ var country_properties = {
         name: "Victorville",
         name_english: "Victorville",
         code: "us-ca",
-        relative_radius: 0.7
+		relative_radius: 0.7
     },
     "waco": {
         name: "Waco",
@@ -3061,7 +3055,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "los_angeles": {
-        relative_whitenoise: 0.80
+        relative_whitenoise: 0.9
     },
     "ltahoe": {
 		relative_radius: 0.5,
@@ -3072,6 +3066,10 @@ var city_properties = {
     },
     "ludlow": {
         relative_whitenoise: 0.85
+    },
+    "ludlow_west": {
+		relative_radius: 0.5,
+        relative_whitenoise: 0.95
     },
     "lufkin": {
         relative_whitenoise: 0.95
@@ -3091,10 +3089,6 @@ var city_properties = {
     "marfa": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
-    },
-    "martins_ca": {
-		relative_radius: 0.3,
-        relative_whitenoise: 0.85
     },
     "maryville": {
         relative_whitenoise: 0.95
@@ -3150,7 +3144,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "mojave": {
-		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "montpelier": {
@@ -3214,7 +3207,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "oxnard": {
-        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "ozona": {
@@ -3342,7 +3334,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "riverside": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "riverton": {
@@ -3450,10 +3441,6 @@ var city_properties = {
     "san_antonio_asuma": {
         relative_radius: 0.4,
         relative_whitenoise: 0.95
-    },
-    "san_clemente": {
-        relative_radius: 0.4,
-        relative_whitenoise: 0.85
     },
     "san_diego": {
         relative_whitenoise: 0.80
@@ -5616,7 +5603,7 @@ var cities = [
         "gameName": "los_angeles",
         "realName": "Los Angeles",
         "country": "los_angeles",
-        "x": "-104281",
+        "x": "-103281",
         "y": "64.3862",
         "z": "16218.6"
     },
@@ -5651,6 +5638,14 @@ var cities = [
         "x": "-90423.7",
         "y": "122.505",
         "z": "14670.1"
+    },
+    {
+        "gameName": "ludlow_west",
+        "realName": "Ludlow",
+        "country": "ludlow",
+        "x": "-92712.4",
+        "y": "122.505",
+        "z": "13970.1"
     },
     {
         "gameName": "lufkin",
@@ -5707,14 +5702,6 @@ var cities = [
         "x": "-38922.9",
         "y": "53.9985",
         "z": "47888.4"
-    },
-    {
-        "gameName": "martins_ca",
-        "realName": "Martins",
-        "country": "los_angeles",
-        "x": "-104462",
-        "y": "65.4794",
-        "z": "11502.9"
     },
     {
         "gameName": "maryville",
@@ -5872,14 +5859,6 @@ var cities = [
         "gameName": "mojave",
         "realName": "Mojave",
         "country": "mojave",
-        "x": "-101533",
-        "y": "56.8314",
-        "z": "10744.1"
-    },
-    {
-        "gameName": "mojave",
-        "realName": "Mojave",
-        "country": "los_angeles",
         "x": "-101533",
         "y": "56.8314",
         "z": "10744.1"
@@ -6072,14 +6051,6 @@ var cities = [
         "gameName": "oxnard",
         "realName": "Oxnard",
         "country": "oxnard",
-        "x": "-108859",
-        "y": "31.3819",
-        "z": "12807.6"
-    },
-    {
-        "gameName": "oxnard",
-        "realName": "Oxnard",
-        "country": "los_angeles",
         "x": "-108859",
         "y": "31.3819",
         "z": "12807.6"
@@ -6405,14 +6376,6 @@ var cities = [
         "z": "-27268.7"
     },
     {
-        "gameName": "riverside",
-        "realName": "Riverside",
-        "country": "los_angeles",
-        "x": "-99043.6",
-        "y": "38.0766",
-        "z": "17999.1"
-    },
-    {
         "gameName": "raton",
         "realName": "Raton",
         "country": "raton",
@@ -6587,14 +6550,6 @@ var cities = [
         "x": "-14236.6",
         "y": "10.562",
         "z": "58524.7"
-    },
-    {
-        "gameName": "san_clemente",
-        "realName": "San Clemente",
-        "country": "los_angeles",
-        "x": "-100884",
-        "y": "1.70155",
-        "z": "19845.3"
     },
     {
         "gameName": "san_diego",
@@ -7152,14 +7107,6 @@ var cities = [
         "gameName": "victorville",
         "realName": "Victorville",
         "country": "victorville",
-        "x": "-98494.6",
-        "y": "163.151",
-        "z": "15237.6"
-    },
-    {
-        "gameName": "victorville",
-        "realName": "Victorville",
-        "country": "los_angeles",
         "x": "-98494.6",
         "y": "163.151",
         "z": "15237.6"
