@@ -170,6 +170,11 @@ var stations = {/*
             url: "https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=1"
         },
         {
+            name: "Klan Radio",
+            logo: "stations/images-europe/albania/Klan Radio.png",
+            url: "https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8"
+        },
+        {
             name: "NRG",
             logo: "stations/images-europe/albania/NRG.png",
             url: "https://ice31.securenetsystems.net/AL09"
@@ -190,6 +195,11 @@ var stations = {/*
             url: "https://cp1.sednastream.com/proxy/radio7albania?mp=/live"
         },
         {
+            name: "Radio Maria Albania",
+            logo: "stations/images-europe/albania/Radio Maria Albania.png",
+            url: "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream"
+        },
+        {
             name: "Radio Ngjallja",
             logo: "stations/images-europe/albania/Radio Ngjallja.png",
             url: "http://84.20.84.114:1234/radiongjallja"
@@ -199,11 +209,11 @@ var stations = {/*
             logo: "stations/images-europe/albania/Radio One.png",
             url: "https://cp1.sednastream.com/proxy/radioone94?mp=/stream"
         },
-        {
+        /*{
             name: "Radio Travel",
             logo: "stations/images-europe/albania/Radio Travel.png",
             url: "https://cp1.sednastream.com/proxy/radiotravel?mp=/stream"
-        },
+        },*/
         {
             name: "RFI Monde Albania",
             logo: "stations/images-europe/albania/RFI Monde Albania.png",
@@ -213,6 +223,11 @@ var stations = {/*
             name: "Top Albania Radio",
             logo: "stations/images-europe/albania/Top Albania Radio.png",
             url: "https://live.top-media.al/tar"
+        },
+        {
+            name: "Top Gold Radio",
+            logo: "stations/images-europe/albania/Top Gold Radio.png",
+            url: "https://live.topgold.al/topgold"
         },
     ],
     "algier": [
@@ -920,6 +935,11 @@ var stations = {/*
             url: "http://188.40.62.20:8004/;*.mp3"
         },
         {
+            name: "Kiss FM",
+            logo: "stations/images-europe/bosnia/Kiss FM.png",
+            url: "http://stream.kissfm.ba:8010/live"
+        },
+        {
             name: "Nes radio",
             logo: "stations/images-europe/bosnia/Nes radio.png",
             url: "http://188.40.62.20:8070/stream"
@@ -948,6 +968,11 @@ var stations = {/*
             name: "Radio M",
             logo: "stations/images-europe/bosnia/Radio M.png",
             url: "http://team-data.ba:8030/;"
+        },
+        {
+            name: "Radio M Plus",
+            logo: "stations/images-europe/bosnia/Radio M Plus.png",
+            url: "https://team-data.ba:10000//;"
         },
         {
             name: "Radio Marija",
@@ -1955,9 +1980,14 @@ var stations = {/*
             url: "https://high.lindin.fo/"
         },
         {
-            name: "Radio.fo",
-            logo: "stations/images-europe/faroe/Radio.fo.png",
+            name: "Rás 2",
+            logo: "stations/images-europe/faroe/Rás 2.png",
             url: "https://streaming.radio.co/s4d14b9fcc/listen"
+        },
+        {
+            name: "Sjey",
+            logo: "stations/images-europe/faroe/Sjey.png",
+            url: "https://lurta.sjey.fo/high_aac"
         },
         {
             name: "VoxPop",
@@ -5101,7 +5131,7 @@ var stations = {/*
         },
         {
             name: "Radio Maria Albania",
-            logo: "stations/images-europe/italy/Radio Maria Albania.png",
+            logo: "stations/images-europe/albania/Radio Maria Albania.png",
             url: "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream"
         },
         {
@@ -5645,7 +5675,7 @@ var stations = {/*
         {
             name: "Antenna 5",
             logo: "stations/images-europe/macedonia/Antenna 5.png",
-            url: "https://antenna5stream.neotel.mk:8000/live128"
+            url: "http://antenna5stream.neotel.mk:8000/live128"
         },
         {
             name: "Jon Radio",
@@ -5695,11 +5725,6 @@ var stations = {/*
             url: "https://s3.voscast.com:10893/stream"
         },
         {
-            name: "103 Malta's Heart",
-            logo: "stations/images-europe/malta/103 Malta's Heart.png",
-            url: "https://s2.radio.co/s955b1ced9/listen#.mp3"
-        },
-        {
             name: "Calypso Radio 101.8",
             logo: "stations/images-europe/malta/Calypso Radio 101.8.png",
             url: "https://s4.radio.co/sf3aa4c25a/listen"
@@ -5708,12 +5733,7 @@ var stations = {/*
             name: "Campus FM 103.7",
             logo: "stations/images-europe/malta/Campus FM 103.7.png",
             url: "https://campusfm.radioca.st/campusfm_live"
-        },/*
-        {
-            name: "Deejay's Radio 95.6FM",
-            logo: "stations/images-europe/malta/Deejay's Radio 95.6FM.png",
-            url: "http://freeuk30.listen2myradio.com:39939/;"
-        },*/
+        },
         {
             name: "Magic 91.7",
             logo: "stations/images-europe/malta/Magic 91.7.png",
@@ -5748,12 +5768,12 @@ var stations = {/*
             name: "Radio City 98 FM",
             logo: "stations/images-europe/malta/Radio City 98 FM.png",
             url: "http://freeuk18.listen2myradio.com:28250/;"
-        },
+        },*/
         {
             name: "Radju Ghazziela",
             logo: "stations/images-europe/malta/Radju Ghazziela.png",
-            url: "http://freeuk30.listen2myradio.com:14100/;"
-        },*/
+            url: "http://uk6freenew.listen2myradio.com:28156/;"
+        },
         {
             name: "Radio LBV 104",
             logo: "stations/images-europe/malta/Radio LBV 104.png",
@@ -5775,9 +5795,19 @@ var stations = {/*
             url: "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream"
         },
         {
+            name: "Radju Tiġi Saltnatek 95.6FM",
+            logo: "stations/images-europe/malta/Radju Tiġi Saltnatek 95.6FM.png",
+            url: "http://213.165.169.26:8000/stream.mp3"
+        },
+        {
             name: "Radio Xeb er ras",
             logo: "stations/images-europe/malta/Radio Xeb er ras.png",
             url: "http://uk15freenew.listen2myradio.com:35709/;"
+        },
+        {
+            name: "RTK103",
+            logo: "stations/images-europe/malta/RTK103.png",
+            url: "https://s2.radio.co/s955b1ced9/listen#.mp3"
         },
         {
             name: "Smash Radio 104.6FM",
@@ -5829,6 +5859,11 @@ var stations = {/*
             url: "https://r98.ipradio.rs:10100/;"
         },
         {
+            name: "Arena Radio",
+            logo: "stations/images-europe/montenegro/Arena Radio.png",
+            url: "https://radio.elmag.me/arena.mp3"
+        },
+        {
             name: "Antena M",
             logo: "stations/images-europe/montenegro/Antena M.png",
             url: "http://radioservis.me:8010/antenamlive"
@@ -5837,6 +5872,11 @@ var stations = {/*
             name: "DRS",
             logo: "stations/images-europe/montenegro/DRS.png",
             url: "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream&1623505984682"
+        },
+        {
+            name: "Elmag Radio",
+            logo: "stations/images-europe/montenegro/Elmag Radio.png",
+            url: "https://radio.elmag.me/elmag.mp3"
         },
         {
             name: "Play",
