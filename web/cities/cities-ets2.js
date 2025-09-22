@@ -4369,14 +4369,6 @@ var cities = [
         "z": "-67492.96"
     },
     {
-        "gameName": "oradea",
-        "realName": "Oradea",
-        "country": "romania",
-        "x": "43493.9",
-        "y": "120",
-        "z": "19439.1"
-    },
-    {
         "gameName": "orebro",
         "realName": "Örebro",
         "country": "sweden",
@@ -7833,14 +7825,6 @@ var cities_pm240 = [
 
 var cities_pm245 = [
     {
-        "gameName": "blagoevgrad",
-        "realName": "Благоевград",
-        "country": "bulgaria",
-        "x": "50658.9",
-        "y": "82.375",
-        "z": "47390"
-    },
-    {
         "gameName": "hammerfest",
         "realName": "Hammerfest",
         "country": "norway",
@@ -9256,9 +9240,9 @@ var cities_pm270 = [
         "gameName": "bitola",
         "realName": "Битола",
         "country": "macedonia",
-        "x": "44483.2461",
-        "y": "52",
-        "z": "52420.3828"
+        "x": "45018.23",
+        "y": "123.668",
+        "z": "52990.2"
     },
     {
         "gameName": "koper",
@@ -9358,6 +9342,89 @@ var cities_pm274 = [
         "x": "143732.234",
         "y": "0",
         "z": "29728.8184"
+    },
+    {
+        "gameName": "marneuli",
+        "realName": "მარნეული",
+        "country": "georgia",
+        "x": "143507.2",
+        "y": "98.37891",
+        "z": "26608.22"
+    },
+    {
+        "gameName": "rustavi",
+        "realName": "რუსთავი",
+        "country": "georgia",
+        "x": "145456.3",
+        "y": "109.6367",
+        "z": "25909.37"
+    },
+    {
+        "gameName": "telavi",
+        "realName": "თელავი",
+        "country": "georgia",
+        "x": "146763.3",
+        "y": "102.1094",
+        "z": "22578.39"
+    },
+    {
+        "gameName": "korinthos",
+        "realName": "Κόρινθος",
+        "country": "greece",
+        "x": "52317.84",
+        "y": "144.9141",
+        "z": "70737.48"
+    },
+    {
+        "gameName": "oradea",
+        "realName": "Oradea",
+        "country": "romania",
+        "x": "43740.25",
+        "y": "51",
+        "z": "19397.16"
+    }
+];
+
+var cities_pm276 = [
+    {
+        "gameName": "blagoevgrad",
+        "realName": "Благоевград",
+        "country": "bulgaria",
+        "x": "50859.98",
+        "y": "101.9297",
+        "z": "46605.68"
+    },
+    {
+        "gameName": "gibraltar",
+        "realName": "Gibraltar",
+        "country": "gibraltar",
+        "x": "-77600.09",
+        "y": "176.9063",
+        "z": "71538.92"
+    },
+    {
+        "gameName": "balvi",
+        "realName": "Balvi",
+        "country": "latvia",
+        "x": "54031.1",
+        "y": "58.60938",
+        "z": "-39503.85"
+    },
+    {
+        "gameName": "izmail",
+        "realName": "Ізмаїл",
+        "country": "ukraine",
+        "x": "72386.28",
+        "y": "90.75391",
+        "z": "23993.07"
+    },
+    {
+        "gameName": "odessa",
+        "realName": "Одеса",
+        "country": "ukraine",
+        "x": "77791.98",
+        "y": "86.13281",
+        "z": "17721.16"
     }
 ];
 
@@ -11695,14 +11762,6 @@ var cities_tsm = [
         "x": "-90480.2",
         "y": "78.9922",
         "z": "62485.7"
-    },
-    {
-        "gameName": "gibraltar",
-        "realName": "Gibraltar",
-        "country": "gibraltar",
-        "x": "-79283.9",
-        "y": "99.4922",
-        "z": "69730.8"
     },
     {
         "gameName": "gijon",
@@ -14863,6 +14922,7 @@ cities = cities.concat(cities_pm260); //ProMods 2.60 cities
 cities = cities.concat(cities_pm265); //ProMods 2.65 cities
 cities = cities.concat(cities_pm270); //ProMods 2.70 cities
 cities = cities.concat(cities_pm274); //ProMods 2.74 cities
+cities = cities.concat(cities_pm276); //ProMods 2.76 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
