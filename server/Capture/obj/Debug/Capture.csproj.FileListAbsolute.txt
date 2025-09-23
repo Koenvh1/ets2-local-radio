@@ -43,7 +43,7 @@ B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.cspro
 B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.Properties.Resources.resources
 B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.csproj.GenerateResource.cache
 B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.csproj.CoreCompileInputs.cache
-B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.csproj.CopyComplete
 B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.dll
 B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.pdb
 B:\Koen\PhpstormProjects\ets2-local-radio\server\bin\sharpdx_direct3d11_1_effects_x64.dll
+B:\Koen\PhpstormProjects\ets2-local-radio\server\Capture\obj\Debug\Capture.csproj.Up2Date
