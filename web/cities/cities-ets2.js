@@ -1038,6 +1038,10 @@ var city_properties = {
     "iskenderun": {
         relative_radius: 0.6,
     },
+    "izmail": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.85,
+    },
     "jekabpils": {
         relative_radius: 0.85,
     },
@@ -1083,6 +1087,9 @@ var city_properties = {
     "kem": {
         relative_radius: 1.5,
     },
+    "kemi": {
+        relative_radius: 0.7,
+    },
     "khabarovsk": {
         relative_radius: 2,
     },
@@ -1119,6 +1126,9 @@ var city_properties = {
     },
     "koln": {
         relative_radius: 1,
+    },
+    "korinthos": {
+        relative_radius: 0.7,
     },
     "kotka": {
         relative_radius: 0.6,
@@ -1284,6 +1294,10 @@ var city_properties = {
     },
     "odense": {
         relative_radius: 1.2,
+    },
+    "odessa": {
+        relative_radius: 0.8,
+        relative_whitenoise: 0.8,
     },
     "oppdal": {
         relative_radius: 0.7,
@@ -2004,9 +2018,9 @@ var cities = [
         "gameName": "balvi",
         "realName": "Balvi",
         "country": "latvia",
-        "x": "53974.3",
-        "y": "61.0664",
-        "z": "-39023.4"
+        "x": "54031.1",
+        "y": "58.60938",
+        "z": "-39503.85"
     },
     {
         "gameName": "barcelona",
@@ -2156,9 +2170,9 @@ var cities = [
         "gameName": "blagoevgrad",
         "realName": "Благоевград",
         "country": "bulgaria",
-        "x": "51402",
-        "y": "19",
-        "z": "47465"
+        "x": "50859.98",
+        "y": "101.9297",
+        "z": "46605.68"
     },
     {
         "gameName": "blonduos",
@@ -3572,6 +3586,14 @@ var cities = [
         "gameName": "kemi",
         "realName": "Kemi",
         "country": "finland",
+        "x": "40102.53",
+        "y": "84.02734",
+        "z": "-85560.6"
+    },
+    {
+        "gameName": "kemijarvi",
+        "realName": "Kemijärvi",
+        "country": "finland",
         "x": "44421.9",
         "y": "119.305",
         "z": "-92994.8"
@@ -4367,6 +4389,14 @@ var cities = [
         "x": "2560.71",
         "y": "9.25",
         "z": "-67492.96"
+    },
+    {
+        "gameName": "oradea",
+        "realName": "Oradea",
+        "country": "romania",
+        "x": "43740.25",
+        "y": "51",
+        "z": "19397.16"
     },
     {
         "gameName": "orebro",
@@ -9370,30 +9400,14 @@ var cities_pm274 = [
     {
         "gameName": "korinthos",
         "realName": "Κόρινθος",
-        "country": "greece",
+        "country": "greece_ert",
         "x": "52317.84",
         "y": "144.9141",
         "z": "70737.48"
-    },
-    {
-        "gameName": "oradea",
-        "realName": "Oradea",
-        "country": "romania",
-        "x": "43740.25",
-        "y": "51",
-        "z": "19397.16"
     }
 ];
 
 var cities_pm276 = [
-    {
-        "gameName": "blagoevgrad",
-        "realName": "Благоевград",
-        "country": "bulgaria",
-        "x": "50859.98",
-        "y": "101.9297",
-        "z": "46605.68"
-    },
     {
         "gameName": "gibraltar",
         "realName": "Gibraltar",
